@@ -40,12 +40,6 @@ Weise : Das Widerstandsrecht im Ordenslande Preussen und das mittelalterliche Eu
 - t-001
   global_id: t-100159
   teiginys: "E. Weise 1955 m. paskelbė veikalą „Das Widerstandsrecht im Ordenslande Preussen und das mittelalterliche Europa“."
-  temporaliniai_duomenys: "įvykio data: 1955 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas bibliografinis sakinys, paremtas citatoje nurodytu autoriumi, pavadinimu ir metais."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "258206-258422; hash=20eb1272804f70a8dd8b1a6ad01f55fe63986dbb9666f2183e1f7d5b1bc91f6c; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-94046
 ## Reikšmingi paminėjimai
@@ -59,8 +53,8 @@ Weise : Das Widerstandsrecht im Ordenslande Preussen und das mittelalterliche Eu
     (^167) **E. Weise :** **_Das Widerstandsrecht im Ordenslande Preussen und das
     mittelalterliche Europa_** **(1955); jis išleido StVW.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

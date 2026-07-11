@@ -50,10 +50,6 @@ Nenurodyta
 - t-001
   global_id: t-08347
   teiginys: "Moterims į kapą dėdavo verpimo įrankius: varpstę ir kuodelį."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "180811-181058; hash=1eccfb3a3aa9f4e5ed61f02a838e3b8e47ce32dcbef4f2e6bd73c89707425069; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-10301
 ## Reikšmingi paminėjimai
@@ -66,8 +62,8 @@ Nenurodyta
         darbininkui kirvį, dailidei kaltą, grąžtą, motriškosioms varpstę ir kuodelį, tardami, jog ir mirus tą
         patį darbą reiks atlikti, kurį ant svieto dirbo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

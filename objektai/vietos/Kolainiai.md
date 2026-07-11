@@ -33,16 +33,6 @@ Nebuvo aplenktos nė mokyklos: Kalvarijos, Padubysio ir Kolainių mokyklos buvo 
 - t-003
   global_id: t-02501
   teiginys: "Kolainių mokykla buvo uždaryta kartu su Kalvarijos ir Padubysio mokyklomis."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "937618-937895; hash=422e79d66d6d0e84f3aa140b4890e611c58df09fe4508a5bd13c6bf6e3c7e1e7; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kalvarija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kolainiai: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kalvarija: mention_match, place, gap=40"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kolainiai\" parinktas kaip owner_note_path. Targetas \"Kalvarija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-166423
 
@@ -50,19 +40,6 @@ Nebuvo aplenktos nė mokyklos: Kalvarijos, Padubysio ir Kolainių mokyklos buvo 
 - t-003
   global_id: t-184989
   teiginys: "Apie balandžio vidurį Prūsijos magistras Meinhardas apgulė Kolainius, Lietuvos pilį prie Nemuno pakrantės arčiausiai Prūsijos."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "937618-937895; hash=422e79d66d6d0e84f3aa140b4890e611c58df09fe4508a5bd13c6bf6e3c7e1e7; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kolainiai: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=11"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kolainiai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-168350
 - susijęs iš [[objektai/ivykiai/Kolainių pilies puolimas (1290 m.).md#claim-t-70947|Kolainių pilies puolimas (1290 m.)]]: 1290 m. balandžio 23 d. Meinhardas su 500 raitelių ir 2 tūkst. pėstininkų puolė Kolainių pilį, kurią gynė Surminas su 120 vyrų.
@@ -124,8 +101,8 @@ Nebuvo aplenktos nė mokyklos: Kalvarijos, Padubysio ir Kolainių mokyklos buvo 
     ta į Kauną. Uždarytų mokyklų vietoje veltui buvo bandomos
     kurti rusiškos mokyklos: jos neturėdavo mokinių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -147,8 +124,8 @@ Nebuvo aplenktos nė mokyklos: Kalvarijos, Padubysio ir Kolainių mokyklos buvo 
     niokoti, o du tūkstančiai pėstininkų atkakliai puolė
     apsuptą pilį.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -178,7 +155,8 @@ Nebuvo aplenktos nė mokyklos: Kalvarijos, Padubysio ir Kolainių mokyklos buvo 
 - id: c-168350
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 161"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 161."
   citata_originali: |
     Už žalą, padarytą per šį niokojamą iš­
     puolį Sembai, lietuviams buvo atsilyginta kitais ir dar
@@ -199,9 +177,4 @@ Nebuvo aplenktos nė mokyklos: Kalvarijos, Padubysio ir Kolainių mokyklos buvo 
     - t-184989
 
 ## Ryšiai
-- Buvo valdoma: [[objektai/asmenys/Surminas]]
-- Buvo kelionės vieta: [[objektai/asmenys/Ernekė]], [[objektai/asmenys/Jonas iš Vienos]]
-- Buvo pastatyta: [[objektai/asmenys/Surminas]]
-- Puolė Kolainiai: [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu]]
-- Užėmė Kolainiai: [[objektai/grupes/Kryžiuočių ordinas]]
 - Gynė Kolainiai: [[objektai/asmenys/Surminas]]

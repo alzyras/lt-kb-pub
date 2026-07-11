@@ -33,12 +33,6 @@ md]] - vietasaltinyje: offset: 187195-187211; match: exact - santrauka: Notys - 
 - t-001
   global_id: t-185299
   teiginys: "Traidenis Bebro pakrantėje įkūrė naują Raigardo sodybvietę, kad pilis gintų gyventojus nuo mozūrų ir prūsų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "237688-238342; hash=cfce312beb25b045a4a677239f4e9dbb44e5277302920fc7b30af5053d13b572; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-168660
 
@@ -46,21 +40,6 @@ md]] - vietasaltinyje: offset: 187195-187211; match: exact - santrauka: Notys - 
 - t-002
   global_id: t-192851
   teiginys: "Narbutas spėja, kad Strijkovskio prie Raigardo ir Insterburgo Prūsijoje pastebėti žmonės galėjo būti išvestų jotvingių palikuonys."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "242450-242976; hash=3c03177f4d4dc0663ecbd2d31eeb2a21e86491b2849f83bea9cd7b5783aa6dd7; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Insterburgas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Raigardas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Insterburgas: mention_match, place, gap=12"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Raigardas\" parinktas kaip owner_note_path. Targetas \"Insterburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175621
 - susijęs iš [[objektai/asmenys/Traidenis.md#claim-t-190990|Traidenis (valdovas, XIII a.)]]: Narbutas Traidenį vadina Narimanto broliu, Jotvingijos ir Dainavos kunigaikščiu, turėjusiu priklausyti Lietuvos didžiajam kunigaikščiui.
@@ -101,8 +80,8 @@ md]] - vietasaltinyje: offset: 187195-187211; match: exact - santrauka: Notys - 
     le k s ijo įe  R aigardą
     są kraštą atidavė Traideniui.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -123,8 +102,8 @@ md]] - vietasaltinyje: offset: 187195-187211; match: exact - santrauka: Notys - 
     čijamų įrodymų, kad buvusi prūsų-lietuvių gentis, kuri
     vadinosi sudinais ir buvo visiškai ne jotvingių kilmės.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -135,7 +114,8 @@ md]] - vietasaltinyje: offset: 187195-187211; match: exact - santrauka: Notys - 
 - id: c-168660
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 139"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 139."
   citata_originali: |
     Išlikę jotvingiai, iš seno ne­
     kęsdami lenkų, patys nuo jų atsimetė: vos tik pamatė
@@ -164,7 +144,8 @@ md]] - vietasaltinyje: offset: 187195-187211; match: exact - santrauka: Notys - 
 - id: c-175621
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 135"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 135."
   citata_originali: |
     Kruvina šio Ordino
     politika numatė padaryti Sūduvą visiškai negyvenamą,
@@ -185,4 +166,3 @@ md]] - vietasaltinyje: offset: 187195-187211; match: exact - santrauka: Notys - 
 
 ## Ryšiai
 - Buvo pastatyta: [[objektai/asmenys/Traidenis|Traidenis (valdovas, XIII a.)]]
-- Gyvenamoji vieta: [[objektai/grupes/Jotvingiai]]

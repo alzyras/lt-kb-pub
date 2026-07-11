@@ -33,16 +33,6 @@ Didysis kunigaikštis Dmitrijus buvo užsidaręs Kremliuje, jo pusbrolis kunigai
 - t-001
   global_id: t-39674
   teiginys: "Kunigaikštis Vladimiras Andrejevičius su pulku stovėjo prie Peremyšlio, kai didysis kunigaikštis Dmitrijus buvo užsidaręs Kremliuje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "191177-191491; hash=ae8b40a4f6b202ddf830f4bb7459c39c5dccae30eb0e896392499af614906432; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Kremlius: 0.64"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Dmitrijus: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kremlius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Dmitrijus buvo Kremliuje, nors kontekstas labiau karinis negu gyvenamasis."
   pagrindžia:
     - c-41478
 
@@ -50,19 +40,6 @@ Didysis kunigaikštis Dmitrijus buvo užsidaręs Kremliuje, jo pusbrolis kunigai
 - t-002
   global_id: t-183768
   teiginys: "Kunigaikštis Vladimiras Andrejevičius su pulku stovėjo prie Peremyšlio, kai didysis kunigaikštis Dmitrijus buvo užsidaręs Kremliuje."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "191052-191438; hash=7966b4a9f4eb6505550fe85e87caca54ec5a14a424860cb7b64f06ed2590b35b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Kremlius: 0.64"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Dmitrijus: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kremlius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Dmitrijaus buvimas Kremliuje tiesiogiai pasakytas, bet tai nėra stabilus gyvenimo ryšys."
   pagrindžia:
     - c-167156
 - susijęs iš [[objektai/asmenys/Vladimiras (Pronsko kunigaikštis).md#claim-t-183767|Vladimiras (Pronsko kunigaikštis)]]: Pronsko kunigaikštis Vladimiras su Riazanės kariais žygiavo Maskvos link.
@@ -85,8 +62,8 @@ Didysis kunigaikštis Dmitrijus buvo užsidaręs Kremliuje, jo pusbrolis kunigai
     tęsti buvo sunku, todėl buvo sudaryta
     taika.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -107,8 +84,8 @@ Didysis kunigaikštis Dmitrijus buvo užsidaręs Kremliuje, jo pusbrolis kunigai
     sąjungininkas, Pronsko kunigaikštis Vla-
     dimiras, su juo - „Riazanės kariai“.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -158,6 +135,3 @@ Didysis kunigaikštis Dmitrijus buvo užsidaręs Kremliuje, jo pusbrolis kunigai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183768
-
-## Ryšiai
-- Sąjungininkai: [[objektai/asmenys/Vladimiras (Pronsko kunigaikštis)]]

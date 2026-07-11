@@ -65,18 +65,6 @@ Antspaudas buvo dedamas ar prikabinamas prie laiškų kaip patikimumo ir sutvirt
 - t-001
   global_id: t-55034
   teiginys: "1323 m. gegužės 26 d. datuotuose laiškuose antspaudas pateikiamas kaip rašto tikrumo ir pasitikėjimo patvirtinimo priemonė."
-  temporaliniai_duomenys: "įvykio data: 1323 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "173201-173979; hash=825eb1ff4e46f29dc6f0e5f4a2ca8c53a19b4586b1340f2e6cfb3294956e4db2; match=whitespace_regex"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
-  ryšio_patikimumas: "susije_su -> Antspaudas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gedimino antspaudas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Antspaudas: mention_match, thing, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gedimino antspaudas\" parinktas kaip owner_note_path. Targetas \"Antspaudas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-55378
 
@@ -84,16 +72,6 @@ Antspaudas buvo dedamas ar prikabinamas prie laiškų kaip patikimumo ir sutvirt
 - t-002
   global_id: t-55035
   teiginys: "Kryžiuočiai Gedimino antspaudą įmetė į ugnį, o jo tikrumą ginčijantys asmenys laiškuose buvo pasmerkti."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "173201-173979; hash=825eb1ff4e46f29dc6f0e5f4a2ca8c53a19b4586b1340f2e6cfb3294956e4db2; match=whitespace_regex"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
-  ryšio_patikimumas: "susije_su -> Antspaudas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gedimino antspaudas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Antspaudas: mention_match, thing, gap=9"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gedimino antspaudas\" parinktas kaip owner_note_path. Targetas \"Antspaudas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-55378
 
@@ -101,16 +79,6 @@ Antspaudas buvo dedamas ar prikabinamas prie laiškų kaip patikimumo ir sutvirt
 - t-005
   global_id: t-81845
   teiginys: "Gediminas prie laiško pridėjo antspaudą, kurį buvo siuntęs popiežiui ir kurį kryžiuočiai įmetė į ugnį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "156452-156893; hash=ad17802d3f38951ddd096850cfa942086f1cabaa90e14b1290627d9437283956; match=whitespace_regex"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
-  ryšio_patikimumas: "susije_su -> Antspaudas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gedimino antspaudas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Antspaudas: mention_match, thing, gap=30"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gedimino antspaudas\" parinktas kaip owner_note_path. Targetas \"Antspaudas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-78391
 
@@ -118,16 +86,6 @@ Antspaudas buvo dedamas ar prikabinamas prie laiškų kaip patikimumo ir sutvirt
 - t-004
   global_id: t-81846
   teiginys: "Gediminas savo karališkuoju antspaudu sutvirtino laišką, kuriame žadėjo pasiuntiniams nustatyti tarpusavio taiką."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "146191-147289; hash=d6d8e259f475110fd1f5315888f89c070a6ed3e5272e444b02ebec72c3dafdb6; match=whitespace_regex"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
-  ryšio_patikimumas: "susije_su -> Antspaudas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gedimino antspaudas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Antspaudas: mention_match, thing, gap=28"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gedimino antspaudas\" parinktas kaip owner_note_path. Targetas \"Antspaudas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-78390
 
@@ -135,16 +93,6 @@ Antspaudas buvo dedamas ar prikabinamas prie laiškų kaip patikimumo ir sutvirt
 - t-003
   global_id: t-81847
   teiginys: "Kryžiuočiai sudegino Gedimino antspaudą, siekdami užgniaužti jo pradėtą darbą ir apdumti žmonėms akis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "140731-142449; hash=1b7501f1b92184de504617dffc4b8e6326b45a772c930ca6565007f5250c233b; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
-  ryšio_patikimumas: "susije_su -> Antspaudas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gedimino antspaudas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Antspaudas: mention_match, thing, gap=9"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gedimino antspaudas\" parinktas kaip owner_note_path. Targetas \"Antspaudas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-78389
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176383|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gedimino vardu naudotame antspaude jis tituluotas lietuvių ir rusų karaliumi.
@@ -171,8 +119,8 @@ Antspaudas buvo dedamas ar prikabinamas prie laiškų kaip patikimumo ir sutvirt
     perskaičius būtų siunčiami toliau ir visur skelbiama juose
     nurodyti pranešimai bei įsipareigojimai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -225,8 +173,8 @@ Antspaudas buvo dedamas ar prikabinamas prie laiškų kaip patikimumo ir sutvirt
     vašką ir vanduo pavirs plienu, negu mes atšauksime mūsų
     ištartą žodį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -257,8 +205,8 @@ Antspaudas buvo dedamas ar prikabinamas prie laiškų kaip patikimumo ir sutvirt
     do dvasininkus; patariame kiekvienam valdovui pasisaugoti
     tokių vienuolių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -278,8 +226,8 @@ Antspaudas buvo dedamas ar prikabinamas prie laiškų kaip patikimumo ir sutvirt
     ku skelbiame tikėjimo persekiotojais, piktais ir klastingais
     eretikais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -419,6 +367,3 @@ Antspaudas buvo dedamas ar prikabinamas prie laiškų kaip patikimumo ir sutvirt
   patikimumo_saltinis: ai
   pagrindzia:
     - t-81845
-
-## Ryšiai
-- Gedimino antspaudas priklausė [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]

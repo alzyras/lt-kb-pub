@@ -48,22 +48,6 @@ Nenurodyta
 - t-001
   global_id: t-185670
   teiginys: "1305 m. Pilypas fon Bolandas, pasinaudojęs kunigaikščių ir bajorų išvykimu, nusiaubė Lietuvos pasienio kaimiečius."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1305 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinė pretenzija sugadinta OCR; citata pagrindžia faktą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "312448-313283; hash=355ae4fa0f49bc566745710b497a575c72cd30b1de8c381c3215dcf8b34e843b; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Lietuva: 0.73"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Pilypas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai rodo Pilypo smurtinį veiksmą Lietuvos pasienyje."
   pagrindžia:
     - c-169031
 
@@ -71,20 +55,6 @@ Nenurodyta
 - t-002
   global_id: t-185671
   teiginys: "Vytenis su 1500 raitelių netikėtai užpuolė iš Lietuvos pasitraukusių kryžiuočių ariergardą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Vytenis puolė Kryžiuočių ordinas (0.94)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "312727-313415; hash=28e8ff95be11b11ea226d421d2e53f4574081fc8bc0aee099f0df420c54c8e7e; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Kryžiuočių ordinas: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytenis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Vytenis užpuolė kryžiuočių ariergardą."
   pagrindžia:
     - c-169032
 ## Reikšmingi paminėjimai
@@ -115,8 +85,8 @@ Nenurodyta
     kieno pusėje jėgos persvara; kai ir vienoje, ir kitoje
     pusėje krito keletas karių, susidūrimas liovėsi.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -141,8 +111,8 @@ Nenurodyta
     D u bu os, tačiau nesako, nei dėl ko prasidėjo kova, nei
     kaip baigėsi.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -153,7 +123,8 @@ Nenurodyta
 - id: c-169031
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 181"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 181."
   citata_originali: |
     Kitais metais, kai Vytenis
     abu luomus sukvietė į pasi-
@@ -186,7 +157,8 @@ Nenurodyta
 - id: c-169032
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 181"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 181."
   citata_originali: |
     Kai valdovui
     pranešė, jog įsibrovė priešas ir degina kaimus bei kie­

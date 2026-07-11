@@ -42,16 +42,6 @@ Dusburgietis teigia, kad pagrindinių sutarties tekstų pradžioje aiškiai mini
 - t-003
   global_id: t-84712
   teiginys: "Romainių vietoje prie Kauno, ant Nevėžio kranto, galėjo būti viena iš senovės lietuvių Romuvų."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "63946-64506; hash=b2cc2bc323d95d5dbaee55dea1dcd5948b5999ba74f527440abaac3059c88925; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Romainiai: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=78"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Romainiai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-80846
 
@@ -59,19 +49,6 @@ Dusburgietis teigia, kad pagrindinių sutarties tekstų pradžioje aiškiai mini
 - t-004
   global_id: t-84714
   teiginys: "Balińskio manymu, po 1294 m. kryžiuočių smūgio Perkūno tikėjimo relikvijos, Krivių Krivaitis ir aukotojai tikriausiai buvo perkelti iš Romainių į Vilnių."
-  temporaliniai_duomenys: "įvykio data: po 1294 m.; įvykio data: 1294 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Cituojama autoriaus prielaida, todėl reikia aiškios atribucijos."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "64507-65347; hash=5c75de4af7125af9fe519aa26e7b6a900ad00d50c7f394d111ed5b7f927b623b; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Romainiai: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=11"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Romainiai\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-80847
 - susijęs iš [[objektai/ivykiai/Romainių šventvietės sunaikinimas (1294 m.).md#claim-t-55130|Romainių šventvietės sunaikinimas (1294 m.)]]: 1294 m. kryžiuočiai užėmė Romainių pilį, pasiėmė turtą ir išžudė žynius.
@@ -109,8 +86,8 @@ Dusburgietis teigia, kad pagrindinių sutarties tekstų pradžioje aiškiai mini
     šventos girios buvo saugomos galin­
     gos tvirtovės.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -146,8 +123,8 @@ Dusburgietis teigia, kad pagrindinių sutarties tekstų pradžioje aiškiai mini
     tinto, Vilnelės bei Vilijos9 upių santakoje, ir į ten iš Trakų
     perkėlė savo buveinę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -39,20 +39,6 @@ Jurgis) Zauerveinas (Georg Sauerwein), kovojęs už lietuvių kalbą Rytų Prūs
 - t-002
   global_id: t-75499
   teiginys: "XIX a. pabaigoje Georgas Zauerveinas parašė Mažosios Lietuvos himną, kuris greitai išpopuliarėjo ir Didžiojoje Lietuvoje."
-  semantiniai_rysiai: "Lietuviai gyveno Nemunas (0.82); Georgas Zauerveinas gynė Lietuviai (0.72)"
-  temporaliniai_duomenys: "įvykio data: 1879 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pakeista neaiški laiko nuoroda „Amžiaus pabaigoje“ į aiškesnę formuluotę."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "231107-231909; hash=7f8d799b99f6b108efa74ebab9651559e7add8196ed5ec56dde4442a28373eda; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Nemunas: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Nemunas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai lokalizuoja lietuvius abipus Nemuno."
   pagrindžia:
     - c-23900
 
@@ -60,20 +46,6 @@ Jurgis) Zauerveinas (Georg Sauerwein), kovojęs už lietuvių kalbą Rytų Prūs
 - t-001
   global_id: t-75500
   teiginys: "Už lietuvių kalbą Rytų Prūsijoje kovojęs Jurgis Zauerveinas parašė Mažosios Lietuvos himną, išpopuliarėjusį ir Didžiojoje Lietuvoje."
-  semantiniai_rysiai: "Lietuviai gyveno Nemunas (0.82)"
-  temporaliniai_duomenys: "įvykio data: 1879 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie objektą ir atitinka citatos informaciją."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "231107-231909; hash=7f8d799b99f6b108efa74ebab9651559e7add8196ed5ec56dde4442a28373eda; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Nemunas: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Nemunas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo lietuvius abipus Nemuno."
   pagrindžia:
     - c-23900
 ## Reikšmingi paminėjimai
@@ -94,8 +66,8 @@ Jurgis) Zauerveinas (Georg Sauerwein), kovojęs už lietuvių kalbą Rytų Prūs
     rėjo ir Didžiojoje Lietuvoje, tad lietuviai abipus Nemuno giedojo jį jau
     tvirtai tikėdami, kad tikrai nebepražus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

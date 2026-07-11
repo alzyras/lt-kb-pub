@@ -30,22 +30,6 @@ Narbutas Ragutėniškių bajorkaimį Lydos apskrities Nočios parapijoje siejo s
 - t-001
   global_id: t-189048
   teiginys: "Narbutas Ragutėniškių bajorkaimį Lydos apskrities Nočios parapijoje siejo su jo aptartu moterų žynių Ragutienių pavadinimu."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Ragutėniškiai priklausė Nočia (0.87)"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "525689-526179; hash=e63b8dc6291b8867e33ddf9903fbc6f44bf948176ea0a9556b15f970c62fd69a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Nočia: 0.87"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Ragutėniškiai: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Nočia: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Ragutėniškiai tiesiogiai lokalizuojami Nočios parapijoje."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171937
 - susijęs iš Lydos apskritis: Narbutas Ragutėniškių bajorkaimį Lydos apskrities Nočios parapijoje siejo su Ragučio žynių moterų pavadinimu.
@@ -66,8 +50,8 @@ Narbutas Ragutėniškių bajorkaimį Lydos apskrities Nočios parapijoje siejo s
     gutieniszfd) bajorkaimis; ši vieta, be abejo, susijusi su anksčiau
     nurodytu moterų žynių pavadinimu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -78,7 +62,8 @@ Narbutas Ragutėniškių bajorkaimį Lydos apskrities Nočios parapijoje siejo s
 - id: c-171937
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 301"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 301."
   citata_originali: |
     Tuomet žyniai keliaklupsčiais prišliauždavo prie šven­
     tojo medžio ir uždegdavo kempines ant aukuro, pirma sude­
@@ -98,4 +83,4 @@ Narbutas Ragutėniškių bajorkaimį Lydos apskrities Nočios parapijoje siejo s
     - t-189048
 
 ## Ryšiai
-- Ragutėniškiai priklausė [[objektai/vietos/Lydos apskritis]], [[objektai/vietos/Nočia]]
+- Ragutėniškiai priklausė [[objektai/vietos/Lydos apskritis]]

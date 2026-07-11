@@ -42,12 +42,6 @@ Nenurodyta
 - t-001
   global_id: t-193475
   teiginys: "P ag arb iai išly d ėjęs k araliau s p asiu n ti nius, dėjo si esąs p aten k in tas, jo g galop atėjo taik o s m etas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1287716-1288447; hash=ca555c8d03a66437259b5d143e7039d79c1ce25f59ce701e67634c607511c01e; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176176
 ## Reikšmingi paminėjimai
@@ -78,8 +72,8 @@ Nenurodyta
     ti, k aip  v ėliau  p aa išk ė jo  iš įv y k ių  eigos, į tą  a r k itą
     žem ę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

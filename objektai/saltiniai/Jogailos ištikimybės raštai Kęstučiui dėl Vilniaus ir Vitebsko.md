@@ -30,12 +30,6 @@ Mūsų tėvas šitą tikrai patyrė ir, pamatęs ant savo galvos nelaimę, nužy
 - t-001
   global_id: t-194166
   teiginys: "Mūsų tėvas šitą tikrai patyrė ir, pamatęs ant savo galvos nelaimę, nužygiavo į Vil nių, užėmė Vilnių, paėmė į nelaisvę patį kunigaikštį Jogailą, ir jo brolius, ir jo motiną, ir jo visas žemes bei pilis jis paėmė taip pat į savo rankas; ir jo auksą, ir iždą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "304032-304888; hash=e20dff8e8058432b78ac223498c8257f3c17bc85be4da50e206322c3ecb2255b; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176779
 ## Reikšmingi paminėjimai
@@ -62,8 +56,8 @@ Mūsų tėvas šitą tikrai patyrė ir, pamatęs ant savo galvos nelaimę, nužy
     nių prieš mūsų tėvą: tuo metu mūsų tėvas buvo karo
     žygyje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -74,7 +68,8 @@ Mūsų tėvas šitą tikrai patyrė ir, pamatęs ant savo galvos nelaimę, nužy
 - id: c-176779
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 173"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 173."
   citata_originali: |
     Mūsų tėvas šitą tikrai patyrė
     ir, pamatęs ant savo galvos nelaimę, nužygiavo į Vil­

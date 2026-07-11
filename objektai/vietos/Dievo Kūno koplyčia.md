@@ -49,19 +49,6 @@ media_all_json: |-
 - t-003
   global_id: t-85885
   teiginys: "Trakų vaivada Oginskis kėlė Dievo Kūno koplyčią iš griuvėsių ir, skyręs daug lėšų, ją išpuošė."
-  temporaliniai_duomenys: "įvykio data: 1601 m.; įvykio data: 1633 m.; įvykio data: 1664 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie Dievo Kūno koplyčią ir paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "376915-377608; hash=6f49583da11ba79beac0ffb5e3f3447686c73608337cedb0bf3422c69ce19839; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kūnas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Dievo Kūno koplyčia: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kūnas: mention_match, person, gap=6"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dievo Kūno koplyčia\" parinktas kaip owner_note_path. Targetas \"Kūnas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-81870
 
@@ -69,19 +56,6 @@ media_all_json: |-
 - t-005
   global_id: t-85886
   teiginys: "1610 m. Vilniaus kanauninkas Vilčiopolskis mūrinį namą su sklypu užrašė Akademijos kolegijai, 25 metų činšą paskirdamas Dievo Kūno koplyčiai."
-  temporaliniai_duomenys: "įvykio data: 1610 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Reikia sklandžiau suformuluoti činšo paskyrimą, nekeičiant citatos fakto."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "386566-386930; hash=67bf2fea86b3272f64b2f65771705447a341d8802344b5a58d55f2868a3f3162; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kūnas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Dievo Kūno koplyčia: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kūnas: mention_match, person, gap=6"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dievo Kūno koplyčia\" parinktas kaip owner_note_path. Targetas \"Kūnas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-81868
 
@@ -89,19 +63,6 @@ media_all_json: |-
 - t-001
   global_id: t-85887
   teiginys: "Dievo Kūno koplyčios ankstyvieji dokumentai buvo prarasti 1660 m. maskvėnų užėmimo ir 1737 m. gaisro metu."
-  temporaliniai_duomenys: "įvykio data: 1660 m.; įvykio data: 1737 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko faktą apie dokumentų praradimą, susijusį su koplyčios istorijos neaiškumu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "375410-376031; hash=be964624f7fb786f4eb2c65d21021e6a5aeaa24d87fc6766890efb6c019097fa; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kūnas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Dievo Kūno koplyčia: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kūnas: mention_match, person, gap=6"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dievo Kūno koplyčia\" parinktas kaip owner_note_path. Targetas \"Kūnas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-81871
 
@@ -109,19 +70,6 @@ media_all_json: |-
 - t-003
   global_id: t-85885
   teiginys: "Trakų vaivada Oginskis kėlė Dievo Kūno koplyčią iš griuvėsių ir, skyręs daug lėšų, ją išpuošė."
-  temporaliniai_duomenys: "įvykio data: 1601 m.; įvykio data: 1633 m.; įvykio data: 1664 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie Dievo Kūno koplyčią ir paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "376915-377608; hash=6f49583da11ba79beac0ffb5e3f3447686c73608337cedb0bf3422c69ce19839; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kūnas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Dievo Kūno koplyčia: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kūnas: mention_match, person, gap=6"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dievo Kūno koplyčia\" parinktas kaip owner_note_path. Targetas \"Kūnas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-81870
 
@@ -129,19 +77,6 @@ media_all_json: |-
 - t-002
   global_id: t-85889
   teiginys: "Dievo Kūno koplyčios pajamas sudarė mokestis nuo įvairių mūrinių namų, o dalį tų namų valdė Vilniaus magistratas."
-  temporaliniai_duomenys: "valdymo pradžia: 1601 m.; valdymo pradžia: 1633 m.; valdymo pradžia: 1664 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Kūnas valdė teritoriją Vilnius“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis tekstas nutrūkęs ir turi šaltinio fragmentų; perrašyta į vientisą sakinį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "376357-377111; hash=042b28210469ccc1b918a4efcd9eeb8a2c93c545a879c8b6a024e694c5c650d2; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kūnas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Dievo Kūno koplyčia: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kūnas: mention_match, person, gap=6"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dievo Kūno koplyčia\" parinktas kaip owner_note_path. Targetas \"Kūnas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-81867
 ## Reikšmingi paminėjimai
@@ -165,8 +100,8 @@ media_all_json: |-
     liai: Žygimantas III - 1601 m.; Vladislovas IV - 1633 m.; Jo­
     nas Kazimieras -1664 m.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -184,8 +119,8 @@ media_all_json: |-
     mokestis nuo jo eitų Dievo Kūno koplyčios naudai, o po 25
     metų Akademijos kolegijai turėsiąs priklausyti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -213,8 +148,8 @@ media_all_json: |-
     tium pietatis pavyzdžiu, kur turtai būdavo kaupiami varguo­
     lių ir prieglaudų dėlei, tačiau šito ir pėdsakų jau nebelikę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -242,8 +177,8 @@ media_all_json: |-
     Vilniaus magistrato pareigūnų globoje ir priežiūroje. Išlikę
     dokumentai, iš įvairių rankų gauti, tai patikina.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

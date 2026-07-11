@@ -33,11 +33,6 @@ Steponas Šukys-Mauzeris nusišovė, kiti pasidavė, kai čekistai išsprogdino 
 - t-001
   global_id: t-40448
   teiginys: "Steponas Šukys-Mauzeris nusišovė, o kiti bunkeryje buvę partizanai pasidavė čekistams išsprogdinus bunkerio viršų."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1009468-1009843; hash=63a8d6ca4020abcaa0199abfb576302118938abd1e80e86d49b6664f34bf4953; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-44524
 - susijęs iš [[objektai/asmenys/Jurgis Trečiokas-Rytas.md#claim-t-40241|Jurgis Trečiokas-Rytas]]: Lapkričio 2 d. rytą čekistų pajėgos apsupo Jurgio Trečioko-Ryto bunkerį Šimonių girioje netoli Varležerio.
@@ -59,8 +54,8 @@ Steponas Šukys-Mauzeris nusišovė, kiti pasidavė, kai čekistai išsprogdino 
     ris Šimonių girioje netoli Sliepšiškio k. Čia
     žuvo 5 partizanai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

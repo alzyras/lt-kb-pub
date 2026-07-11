@@ -42,22 +42,6 @@ Nenurodyta
 - t-001
   global_id: t-191050
   teiginys: "Odoakro brolis Onulfas, vadovaudamas herulams, privertė Frederiką trauktis į Meziją, o po pergalės perkėlė herulus ir senuosius Noriko gyventojus į Italiją."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Herulai keliavo į Italija (0.86); Herulai gyveno Norikas (0.68)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "571955-572599; hash=17419924674ac87f198bde00e7ecbd3583f2a94634eecfd229415a35d644b36d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Italija: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Herulai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Italija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo herulų perkėlimą į Italiją."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173932
 ## Reikšmingi paminėjimai
@@ -79,8 +63,8 @@ Nenurodyta
     stengėsi senus Noriko romėnų kolonistus ir kitus su jais
     nesigiminiavusius gyventojus paversti vergais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -91,7 +75,8 @@ Nenurodyta
 - id: c-173932
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 319"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 319."
   citata_originali: |
     Nuolatiniai skundai ir ap­
     maudas lėmė žygį Odoakro brolio Onulfo, kuris, vado­

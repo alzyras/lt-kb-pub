@@ -57,21 +57,6 @@ Nenurodyta
 - t-001
   global_id: t-62764
   teiginys: "1210 m. Danijos karaliaus Voldemaro II žygis prieš Prūsiją ir Sembą padėjo Kristijono misijai Prūsijoje."
-  teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Kristijonas gyveno Santyras (0.74)"
-  temporaliniai_duomenys: "mūšio data: 1210 m.; mūšio data: 1212 m.; mūšio data: apie 1212 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Kristijonas dalyvavo mūšyje Danijos karaliaus Voldemaro II žygis prieš Prūsiją ir Sembą“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus ir tiesiogiai remiasi citatoje pateikta informacija."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "129397-130171; hash=269342ea6fecbeb6e303d2309d28aaca1225a5720757a37085926db7908f78e0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Santyras: 0.74"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kristijonas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Santyras: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Kristijono būstinė tapo Santyras."
   pagrindžia:
     - c-63553
 ## Reikšmingi paminėjimai
@@ -90,8 +75,8 @@ Nenurodyta
     dovanojęs Gdansko  kunigaikštis Mščujus,  ketinęs panaudoti  cistersų  misiją savo
     politiniams tikslams). Čia apie 1212 m., matyt, buvęs įkurtas reguliarus vienuolynas.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -102,7 +87,8 @@ Nenurodyta
 - id: c-63553
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 42"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 42."
   citata_originali: |
     161 1210 m. pabaigos popiežiaus bulėje minimas (kaip vienas iš krikščioniškosios
     misijos Prūsijoje vadovų) Cistersų ordino vienuolis Kristijonas, greičiausiai vokietis,

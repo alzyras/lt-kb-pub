@@ -32,16 +32,6 @@ Lenkų pajėgos priartėjo prie Videniškio, Gelogalių ir judėjo Balnininkų l
 - t-002
   global_id: t-42264
   teiginys: "9-ojo pulko batalionas turėjo iš Videniškio pulti Giedraičių kryptimi ir paremti 2-ojo pulko puolimą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "859725-860309; hash=bdfff3b48021ff3a12ff98bb048d5a50d4cfb91d801a954945e7814fe0192f07; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Giedraičiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Videniškis: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Giedraičiai: mention_match, place, gap=17"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Videniškis\" parinktas kaip owner_note_path. Targetas \"Giedraičiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-45402
 
@@ -49,12 +39,6 @@ Lenkų pajėgos priartėjo prie Videniškio, Gelogalių ir judėjo Balnininkų l
 - t-003
   global_id: t-193787
   teiginys: "Lenkų pajėgos priartėjo prie Videniškio, Gelogalių ir judėjo Balnininkų link."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "859413-859582; hash=a07a37dd097b8fdf902482b0654235be318b05d328495d9329e6d4a807bcde6f; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-43978
 - susijęs iš [[objektai/grupes/M. Butkievičiaus kavalerijos brigada.md#claim-t-41078|M. Butkievičiaus kavalerijos brigada]]: Plk. M. Butkievičiaus kavalerijos brigada prasiveržė į lietuvių užnugarį ir iki dienos pabaigos pasiekė Videniškio rajoną.
@@ -74,8 +58,8 @@ Lenkų pajėgos priartėjo prie Videniškio, Gelogalių ir judėjo Balnininkų l
     Užėmę Kurklius, lenkai veržėsi Vidiškių
     ir Ukmergės link.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -105,8 +89,8 @@ Lenkų pajėgos priartėjo prie Videniškio, Gelogalių ir judėjo Balnininkų l
     Sunkusis prancūziškas
     kulkosvaidis Hotchkiss.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -163,6 +147,3 @@ Lenkų pajėgos priartėjo prie Videniškio, Gelogalių ir judėjo Balnininkų l
   patikimumo_saltinis: ai
   pagrindzia:
     - t-42264
-
-## Ryšiai
-- Buvo kelionės vieta: [[objektai/grupes/M. Butkievičiaus kavalerijos brigada]]

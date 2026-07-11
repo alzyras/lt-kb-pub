@@ -59,16 +59,6 @@ Nenurodyta
 - t-004
   global_id: t-07520
   teiginys: "D. Poška savo Baublyje įtaisė senienų muziejų."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "921217-921503; hash=738d80b94e57e02e24f7e29cd8ea83ad01478117f921e0c36c41452ef38bf777; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> D. Poška: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "D. Poškos Baublys: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "D. Poška: mention_match, author, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"D. Poškos Baublys\" parinktas kaip owner_note_path. Targetas \"D. Poška\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-00228
 
@@ -76,14 +66,6 @@ Nenurodyta
 - t-005
   global_id: t-07521
   teiginys: "D. Poškos iš tuščiavidurio ąžuolo padarytos trobelės tebestovėjo Bijotuose prie Skaudvilės."
-  temporaliniai_duomenys: "įvykio data: 1812 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sakinį verta sušiuolaikinti ir pašalinti archajišką formą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "921746-922177; hash=3ae9bc64d2ee308efe453153e5330c160c77e7661fa243dcc502403a4863111f; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-00229
 
@@ -91,19 +73,6 @@ Nenurodyta
 - t-004
   global_id: t-188379
   teiginys: "Narbutas Baublio vardą aiškina mitologiškai ir sieja su žemaitišku buliaus balso apibūdinimu."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "408218-408729; hash=84d3acbf659d9130b471b9ec992fc24376c429370da3c4efe56f5669c511aef7; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> D. Poška: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "D. Poškos Baublys: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "D. Poška: mention_match, author, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"D. Poškos Baublys\" parinktas kaip owner_note_path. Targetas \"D. Poška\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-171273
 - susijęs iš [[objektai/zodynas/Baublys Baublis.md#claim-t-189218|Baublys Baublis]]: Narbutas Baublio vardą aiškino kaip žemaitišką buliaus baubimą primenantį ąžuolo, laikyto pranašaujančiu, pavadinimą.
@@ -124,8 +93,8 @@ Nenurodyta
     ziejų. Jis taip pat bandė rašyti
     ir Lietuvos istoriją.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -145,8 +114,8 @@ Nenurodyta
     nebuvo tiek susipratęs, kad galėtų veržtis iš nusistojusios
     santvarkos formų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -166,8 +135,8 @@ Nenurodyta
     rio sutrūnijusio vidaus pasigirsdavo balsas, panašus į buliaus
     baubimą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -225,7 +194,8 @@ Nenurodyta
 - id: c-171273
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 237"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 237."
   citata_originali: |
     Šis tėvynės paminklų brangintojas liepė iš trūnijusiame
     šio ąžuolo kamiene įrengti kabinetą, turintį 7 uolekčių, 18 co­

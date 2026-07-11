@@ -41,19 +41,6 @@ Smetonos vadovaujama Tarybos delegacija pristatė deklaracijos turinį Vokietijo
 - t-001
   global_id: t-19344
   teiginys: "1918 m. kovo 23 d. Vokietijos kaizeris Wilhelmas II paskelbė pripažįstantis Lietuvos nepriklausomybę."
-  temporaliniai_duomenys: "įvykio data: 1918 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pirminis teiginys nutrūkęs; citata paremia pilną sakinį."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "266165-266853; hash=f75b5253b91423b3c784ed865c19422cb58da4360bb51f2fddeeccc6e04f7677; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Wilhelmas II: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=37"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Wilhelmas II\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-22083
 - susijęs iš [[objektai/asmenys/Vilhelmas fon Urachas.md#claim-t-26463|Vilhelmas fon Urachas]]: Vilhelmas fon Urachas 1918 m. liepos 13 d. buvo pakviestas užimti Lietuvos sostą ir paskelbtas karaliumi Mindaugu II.
@@ -83,8 +70,8 @@ Smetonos vadovaujama Tarybos delegacija pristatė deklaracijos turinį Vokietijo
     bę, bet pažymėjo, kad nustatomi glaudūs Lietuvos ir Vokietijos ryšiai…
     gruodžio 11-osios rezoliucijos pagrindu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

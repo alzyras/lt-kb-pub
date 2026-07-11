@@ -39,12 +39,6 @@ Dusburgietis teigia, kad remeika J.
 - t-001
   global_id: t-61271
   teiginys: "J. Remeikos „Ką kalneliai pasakoja: Padavimai iš Klaipėdos krašto piliakalnių praeities“ išleista Klaipėdoje 1938 m."
-  temporaliniai_duomenys: "įvykio data: 1938 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pagrindžia autorių, pavadinimą, leidimo vietą ir metus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "795145-795248; hash=d3d53cc7bd0dc1b26b0dafbbcd1c1c294ac92f41670475a4126711f2b70a059f; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-61903
 ## Reikšmingi paminėjimai
@@ -56,8 +50,8 @@ Dusburgietis teigia, kad remeika J.
     Remeika J. Ką kalneliai pasakoja: Padavimai iš Klaipėdos krašto piliakalnių praeities.—
     Klaipėda, 1938.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -68,7 +62,8 @@ Dusburgietis teigia, kad remeika J.
 - id: c-61903
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 270"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 270."
   citata_originali: |
     Remeika J. Ką kalneliai pasakoja: Padavimai iš Klaipėdos krašto piliakalnių praeities.—
     Klaipėda, 1938.

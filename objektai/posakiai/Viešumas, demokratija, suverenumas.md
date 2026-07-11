@@ -36,16 +36,6 @@ Pradiniame Sąjūdžio etape ši formulė įvardyta kaip pagrindinis šūkis.
 - t-005
   global_id: t-13363
   teiginys: "„Viešumas, demokratija, suverenumas“ buvo pagrindinis šūkis."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "484468-484872; hash=3918fed31af13eb59e9d80ec7c9983bb423c5b32cd98d92f65e42da34da50716; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md::validation_repair"
-  ryšio_patikimumas: "susije_su -> „Viešumas, demokratija, suverenumas“: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Viešumas, demokratija, suverenumas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "„Viešumas, demokratija, suverenumas“: mention_match, thing, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Viešumas, demokratija, suverenumas\" parinktas kaip owner_note_path. Targetas \"„Viešumas, demokratija, suverenumas“\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-16518
 
@@ -53,16 +43,6 @@ Pradiniame Sąjūdžio etape ši formulė įvardyta kaip pagrindinis šūkis.
 - t-005
   global_id: t-13363
   teiginys: "„Viešumas, demokratija, suverenumas“ buvo pagrindinis šūkis."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "484468-484872; hash=3918fed31af13eb59e9d80ec7c9983bb423c5b32cd98d92f65e42da34da50716; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md::validation_repair"
-  ryšio_patikimumas: "susije_su -> „Viešumas, demokratija, suverenumas“: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Viešumas, demokratija, suverenumas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "„Viešumas, demokratija, suverenumas“: mention_match, thing, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Viešumas, demokratija, suverenumas\" parinktas kaip owner_note_path. Targetas \"„Viešumas, demokratija, suverenumas“\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-16518
 ## Reikšmingi paminėjimai
@@ -77,8 +57,8 @@ Pradiniame Sąjūdžio etape ši formulė įvardyta kaip pagrindinis šūkis.
     o LPS stengėsi remti Maskvoje pradėtas reformas ir siekė jas įgyvendinti
     Lietuvoje. Pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

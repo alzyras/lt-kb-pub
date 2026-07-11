@@ -38,17 +38,6 @@ media_all_json: |-
 - t-001
   global_id: t-41184
   teiginys: "Chotino link artėjusią Turkijos kariuomenę sudarė apie 100000 karių, įskaitant spahius, janičarus, totorius, moldavus ir valakus."
-  semantiniai_rysiai: "Turkijos kariuomenė keliavo į Chotinas (0.84)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "464031-464728; hash=cd0e9ff0c0838a852da72852f4347cdb9674b9495c56e15e021cadebbb7ea7a9; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Chotinas: 0.84"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Turkijos kariuomenė: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Chotinas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Turkijos kariuomenė artėjo Chotino link."
   pagrindžia:
     - c-44861
 - susijęs iš Sučiava: 1485 m. rugsėjo 19–20 d. Ali-pašos vadovaujama Turkijos kariuomenė puolė Moldavijos sostinę Sučiavą.
@@ -77,8 +66,8 @@ media_all_json: |-
     ir prastų kelių turkai prie Chocimo atsiga-
     beno tik 62 pabūklus, tiesa, labai galingus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -119,5 +108,4 @@ media_all_json: |-
     - t-41184
 
 ## Ryšiai
-- Turkijos kariuomenė keliavo į [[objektai/vietos/Chotinas]]
 - Turkijos kariuomenė puolė [[objektai/vietos/Sučiava]]

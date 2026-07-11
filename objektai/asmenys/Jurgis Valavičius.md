@@ -30,19 +30,6 @@ Jurgis Valavičius su kitais sužeistais pulkų vadais prasiskynė kelią per gi
 - t-001
   global_id: t-186225
   teiginys: "Jurgis Valavičius su kitais sužeistais pulkų vadais prasiskynė kelią per ginkluotus būrius ir išvengė nelaisvės ar mirties."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "990933-991721; hash=efe4ccf27201a389df6a5dcadf643951e2d80132d402a7baecbd08380b17341c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Valavičiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jurgis Valavičius: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Valavičiai: mention_match, group, gap=7"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jurgis Valavičius\" parinktas kaip owner_note_path. Targetas \"Valavičiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-169586
 ## Reikšmingi paminėjimai
@@ -72,8 +59,8 @@ Jurgis Valavičius su kitais sužeistais pulkų vadais prasiskynė kelią per gi
     mis, bet ir rankas užlaužė už nugaros ir nelyginant
     raiščiais apliejo ištirpintu švinu.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -30,20 +30,6 @@ Petras iš Dusburgo veikale tvirtino, kad Palemonas Romanovą paskyrė vyriausia
 - t-001
   global_id: t-186246
   teiginys: "Petras iš Dusburgo veikale tvirtino, kad Palemonas Romanovą paskyrė vyriausiajam žyniui tikėjimui saugoti."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Romanova priklausė Lietuva (0.72)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "97515-97990; hash=b2d8a38de9f818d038d4b8bcc60db0ee94d7a1db33c5a1522e1a5596d2d9804b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Lietuva: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Romanova: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Romanova apibūdinama kaip pirmoji Lietuvos sodyba, todėl priklausymo Lietuvai ryšys palaikomas."
   pagrindžia:
     - c-169607
 - susijęs iš [[objektai/asmenys/Verneris iš Orzelno.md#claim-t-64224|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]: Verneriui iš Orzelno kronikos reikėjo Ordinui keltiems priekaištams atremti ir vidaus reformai įgyvendinti.
@@ -115,8 +101,8 @@ Petras iš Dusburgo veikale tvirtino, kad Palemonas Romanovą paskyrė vyriausia
     laikų nei mūsų. Rodos, Palemono laikais įvyko atmin­
     tinas mūšis, kuriame rusai sumušė jotvingius.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -127,7 +113,8 @@ Petras iš Dusburgo veikale tvirtino, kad Palemonas Romanovą paskyrė vyriausia
 - id: c-169607
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 60"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 60."
   citata_originali: |
     Tadgi Palemonas, iš tokių ir kilęs, nepanaikino Lie­
     tuvoje daugelio dievų garbinimo: senąsias apeigas jis

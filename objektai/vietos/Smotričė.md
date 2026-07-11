@@ -38,20 +38,6 @@ Smotričė yra kairysis Dnestro intakas.
 - t-001
   global_id: t-187331
   teiginys: "Smotričė yra kairysis Dnestro intakas."
-  teiginio_tipas: "faktas"
-  temporaliniai_duomenys: "įvykio data: 1240 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra trumpas faktinis sakinys apie Smotričę. Jis tiksliai perteikia citatos informaciją, kad Smotričė yra kairysis Dnestro intakas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "393800-394000; hash=139a9105a19f79865a3f62088990cec1269982306d53020384fba4824ee32340; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  ryšio_patikimumas: "susije_su -> Podolė: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Smotričė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Podolė: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Smotričė\" parinktas kaip owner_note_path. Targetas \"Podolė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-170358
 - susijęs iš Podolės Kamenecas: Podolės Kamenecas yra istorinis Podolės miestas prie Dniestro intako Smotričės.
@@ -67,8 +53,8 @@ Smotričė yra kairysis Dnestro intakas.
     totorių sunaikinta 1240 m. Dabar UTSR Chmelnickio (buvusios Ka-
     menec-PodoIsko) sr. miestelis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -79,7 +65,8 @@ Smotričė yra kairysis Dnestro intakas.
 - id: c-170358
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 217"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 217."
   citata_originali: |
     Smotričė — Dnestro (UTSR) kairysis intakas.
     7 Smotričius — sena Podolės gyvenvietė, minima jau  XII a.,

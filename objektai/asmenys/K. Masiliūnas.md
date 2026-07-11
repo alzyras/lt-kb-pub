@@ -47,9 +47,6 @@ K. Masiliūnas minimas kaip viceministeris, rūpinęsis veikalo bendradarbių su
 - t-003
   global_id: t-00008
   teiginys: "K. Masiliūno rūpesčiu buvo suburti penki žmonės, sutikę rašyti atskirus tautos gyvenimo laikotarpius."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "6572-6800; hash=47774b752b1af7ee139e21fb1ecd215ba04338d8522d8bc428fdf61a73dea69b; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-00117
 
@@ -57,16 +54,6 @@ K. Masiliūnas minimas kaip viceministeris, rūpinęsis veikalo bendradarbių su
 - t-004
   global_id: t-00009
   teiginys: "K. Masiliūnas kartu su J. Tonkūnu rūpinosi bendradarbių rinkimu ir teikė paramą atliekamam darbui."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "9616-10020; hash=b29c54cf49a849e29db1a7cf3b97861f4dc25da52dc91b1b0ab7b81b8ff95c87; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> J. Tonkūnas (švietimo ministeris): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "K. Masiliūnas (viceministeris): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "J. Tonkūnas (švietimo ministeris): mention_match, person, gap=23"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"K. Masiliūnas (viceministeris)\" parinktas kaip owner_note_path. Targetas \"J. Tonkūnas (švietimo ministeris)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-00118
 
@@ -74,12 +61,6 @@ K. Masiliūnas minimas kaip viceministeris, rūpinęsis veikalo bendradarbių su
 - t-005
   global_id: t-193625
   teiginys: "1936 m. Lietuvos Respublikos švietimo ministerijos (viceministro Kazimiero Masiliūno) iniciatyva ir rūpesčiu grupė lietuvių istorikų parašė ir išleido plačios apimties Lietuvos istoriją, kurią redagavo Adolfas Šapoka."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "6931-7386; hash=4f7552bc1a3530837f1e18feea7d7316c21df772e56348c3066cf9e759942027; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176296
 ## Reikšmingi paminėjimai
@@ -93,8 +74,8 @@ K. Masiliūnas minimas kaip viceministeris, rūpinęsis veikalo bendradarbių su
     tarusių parašyti kiekvienas apie atskirą mūsų tautos gyvenimo
     laikotarpį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -111,8 +92,8 @@ K. Masiliūnas minimas kaip viceministeris, rūpinęsis veikalo bendradarbių su
     bendradarbius, o vėliau visą laiką rodė dėmesį dirbamajam dar-
     bui ir teikė reikiamos paramos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -131,8 +112,8 @@ K. Masiliūnas minimas kaip viceministeris, rūpinęsis veikalo bendradarbių su
     šė ir išleido plačios apimties Lietuvos istoriją, kurią redagavo Adolfas
     Šapoka.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -58,16 +58,6 @@ Nenurodyta
 - t-003
   global_id: t-67234
   teiginys: "Mergaitės iki ištekėjimo dirbo ir krovė kraitį, o nuotakos ieškojo ne turtingų, bet narsių vyrų."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "105510-106384; hash=67ac51e5c2e9020dd208483fcbde68b97d29332423ed8831f925d90be3b119b0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Duona: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vėlyvos santuokos, kraitis ir vestuvių sutartys: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Duona: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vėlyvos santuokos, kraitis ir vestuvių sutartys\" parinktas kaip owner_note_path. Targetas \"Duona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-10048
 ## Reikšmingi paminėjimai
@@ -85,8 +75,8 @@ Nenurodyta
         savo kraičiu galėjo apdaryti. Pinigų nežinojo, ir jų niekam nereikėjo, nesgi mokesnių niekam
         nemokėjo, duoklių nedavė ir rinkliavų nežinojo, kaipogi visi liuosi sau gyvendami dirbo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

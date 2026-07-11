@@ -47,17 +47,6 @@ Nenurodyta
 - t-002
   global_id: t-88111
   teiginys: "Trakų žydai prašė patvirtinti jiems priklausiusias teises, laisves ir kitus dalykus, nurodytus Vytauto privilegijoje."
-  semantiniai_rysiai: "Trakų žydai gyveno Trakai (0.94); Žydai gyveno Trakai (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "408689-410343; hash=b68921277835ff2f12da85401f0bdc0c7051dcff428a554a7dcb9565e4b15764; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Trakai: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Trakų žydai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo žydus, esančius Trakų mieste."
   pagrindžia:
     - c-84090
 
@@ -65,20 +54,6 @@ Nenurodyta
 - t-001
   global_id: t-88112
   teiginys: "1388 m. Vytautas suteikė privilegiją Trakų žydams, o 1507 m. Žygimantas Senasis ją patvirtino Melnyke."
-  semantiniai_rysiai: "Žygimantas Senasis buvo valdovas Lenkija (0.93); Žygimantas Senasis buvo valdovas Lietuva (0.93); Žydai gyveno Trakai (0.90)"
-  temporaliniai_duomenys: "įvykio data: 1388 m.; įvykio data: 1507 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko privilegijos suteikimą, adresatus ir vėlesnį patvirtinimą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "407990-409395; hash=a3ee88366e8b17f3ae8b446faa90bbe7db0872a1e26af61124609f55d0652a85; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_valdovas -> Lenkija: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Žygimantas Senasis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai įvardija Žygimantą Senąjį Lenkijos karaliumi."
   pagrindžia:
     - c-84091
 ## Reikšmingi paminėjimai
@@ -121,8 +96,8 @@ Nenurodyta
     joks krikščionis prieš žydą, nebent su krikščionimi ir su žy­
     du būtų prileistas liudyti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -161,8 +136,8 @@ Nenurodyta
     tvirtinti teiktumės, o tos privilegijos reikalai tokiais žodžiais
     turi būti parašyti: Viešpaties vardu Amen.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

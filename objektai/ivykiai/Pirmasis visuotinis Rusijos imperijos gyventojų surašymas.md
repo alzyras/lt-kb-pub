@@ -57,19 +57,6 @@ Nenurodyta
 - t-002
   global_id: t-77887
   teiginys: "1897 m. surašymo duomenimis, gyventojų skaičius maždaug dabartinės Lietuvos ribose (be Klaipėdos krašto) siekė apie 2,7 mln."
-  temporaliniai_duomenys: "įvykio data: 1897 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, faktinis ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "229114-229987; hash=8c7e26bcf179dff8fd97aae14d17ab05dae1b75f02a709566be473470a3dfcd6; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Pirmasis visuotinis Rusijos imperijos gyventojų surašymas: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=59"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pirmasis visuotinis Rusijos imperijos gyventojų surašymas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-75204
 
@@ -77,19 +64,6 @@ Nenurodyta
 - t-001
   global_id: t-77888
   teiginys: "1897 m. Rusijos imperijos gyventojų surašymas parodė, kad skaityti mokėjo 48 proc. etninių lietuvių, o rusiškai iš jų skaitė tik kas penktas."
-  temporaliniai_duomenys: "įvykio data: 1897 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai apibendrina citatoje pateiktus surašymo duomenis."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "221871-222512; hash=2e4aef47675221de6dd789314adab4f8d984e2e0bb38d1a979175072e8d134a4; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Pirmasis visuotinis Rusijos imperijos gyventojų surašymas: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=83"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pirmasis visuotinis Rusijos imperijos gyventojų surašymas\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-75205
 - susijęs iš Pirmasis visuotinis Rusijos imperijos gyventojų surašymas (1897 m.): 1897 m. pirmasis visuotinis Rusijos imperijos gyventojų surašymas parodė, kad 48 proc. etninių lietuvių mokėjo skaityti, o rusiškai skaitė tik kas penktas iš jų.
@@ -117,8 +91,8 @@ Nenurodyta
     Vilnius tuo metu turėjo 155 tūkst. gyventojų (prieš Pirmąjį pasaulinį karą
     jau 200 tūkst.), Kaunas – daugiau kaip 70 tūkst. gyventojų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -144,8 +118,8 @@ Nenurodyta
     Sužlugdyta ir valdžios užmačia pakeisti lietuvių raštijoje tradicinį
     lotyniškąjį raidyną kirilika.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

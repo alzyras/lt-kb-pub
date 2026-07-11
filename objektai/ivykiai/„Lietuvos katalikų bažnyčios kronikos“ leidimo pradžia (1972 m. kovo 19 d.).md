@@ -55,19 +55,6 @@ Nenurodyta
 - t-001
   global_id: t-75311
   teiginys: "1972 m. kovo 19 d. grupė dvasininkų pradėjo leisti „Lietuvos katalikų bažnyčios kroniką“."
-  temporaliniai_duomenys: "įvykio data: 1972 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir paremtas citata."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "470033-470281; hash=5057942dd86c7263866c402d7fe00263bf15262c4881c87e5d8945589ec96d8e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Simnas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "„Lietuvos katalikų bažnyčios kronikos“ leidimo pradžia (1972 m. kovo 19 d.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Simnas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"„Lietuvos katalikų bažnyčios kronikos“ leidimo pradžia (1972 m. kovo 19 d.)\" parinktas kaip owner_note_path. Targetas \"Simnas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-73130
 
@@ -75,16 +62,6 @@ Nenurodyta
 - t-002
   global_id: t-75312
   teiginys: "Pirmajame „Lietuvos katalikų bažnyčios kronikos“ numeryje išspausdintas lietuvių katalikų protesto prieš tikinčiųjų persekiojimą memorandumas."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "470222-470475; hash=c2c44ce75e2fa597639fb3e299a91747e77c8e4210a2510bd47d4c1e04a37eed; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "„Lietuvos katalikų bažnyčios kronikos“ leidimo pradžia (1972 m. kovo 19 d.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"„Lietuvos katalikų bažnyčios kronikos“ leidimo pradžia (1972 m. kovo 19 d.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-73132
 
@@ -92,18 +69,6 @@ Nenurodyta
 - t-003
   global_id: t-75313
   teiginys: "„Lietuvos katalikų bažnyčios kronika“ Vakarų radijo stotims tapo pagrindiniu medžiagos apie Lietuvą šaltiniu."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "470282-470587; hash=32880cbec26797cc347833da471b1b7a4ac4814a92bb436c81201e3ba8b6586c; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "„Lietuvos katalikų bažnyčios kronikos“ leidimo pradžia (1972 m. kovo 19 d.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"„Lietuvos katalikų bažnyčios kronikos“ leidimo pradžia (1972 m. kovo 19 d.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-73131
 ## Reikšmingi paminėjimai
@@ -117,8 +82,8 @@ Nenurodyta
     Simne dirbęs kun. Sigitas Tamkevičius. Leidinys aprašė sovietų antireliginę
     veiklą ir propagandą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -136,8 +101,8 @@ Nenurodyta
     229
     kurį pasirašė per 17 tūkst.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -152,8 +117,8 @@ Nenurodyta
     medžiagos apie Lietuvą šaltiniu. Jau pirmame jos numeryje išspausdintas
     lietuvių katalikų protesto prieš tikinčiųjų persekiojimą memorandumas,
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

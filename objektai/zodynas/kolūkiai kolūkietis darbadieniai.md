@@ -40,12 +40,6 @@ Teroro politika darė savo – 1949 m. pradžioje į kolūkius buvo įstoję 4 p
 - t-001
   global_id: t-22193
   teiginys: "Kolūkietis be kolūkio vadovybės leidimo negalėjo išsikelti, o menką atlygį už darbadienius papildydavo pajamomis iš 0,6 ha sodybinio sklypo."
-  temporaliniai_duomenys: "įvykio data: 1949 m.; įvykio data: 1952 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata neremia pateiktų 1949 m. procentų, bet remia faktus apie kolūkiečio padėtį."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "439158-439601; hash=e683a3624f27c51177c37de011f3d3c553ee16f9f06f65b9da88086fda3288c4; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-166830
 
@@ -53,9 +47,6 @@ Teroro politika darė savo – 1949 m. pradžioje į kolūkius buvo įstoję 4 p
 - t-002
   global_id: t-22194
   teiginys: "Varu į kolūkius varomi valstiečiai mažai uždirbo, nesistengė sąžiningai dirbti ir, nepaisydami bausmių, pradėjo vogti iš kolūkių."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "439985-440365; hash=ec8946ce3f2ae6dfa607bcc4768264cb91d8c527cb8af906d6f51d33fa12729b; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-24882
 
@@ -63,15 +54,6 @@ Teroro politika darė savo – 1949 m. pradžioje į kolūkius buvo įstoję 4 p
 - t-003
   global_id: t-183435
   teiginys: "1949 m. pradžioje į kolūkius buvo įstoję 4 proc. visų valstiečių, o metų pabaigoje - jau 62 proc."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1949 m.; įvykio data: 1952 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai pateikia 1949 m. valstiečių įstojimo į kolūkius kaitą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "439158-439601; hash=e683a3624f27c51177c37de011f3d3c553ee16f9f06f65b9da88086fda3288c4; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-166830
 ## Reikšmingi paminėjimai
@@ -87,8 +69,8 @@ Teroro politika darė savo – 1949 m. pradžioje į kolūkius buvo įstoję 4 p
     aukšta tikinčiojo į Dievą valstiečio moralė, kai kurie savo sunkią dalią
     ėmė laistyti degtine.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -106,8 +88,8 @@ Teroro politika darė savo – 1949 m. pradžioje į kolūkius buvo įstoję 4 p
     pragyveno iš 0,6 ha sodybinio žemės sklypo, gaudamas iš jo net apie
     3/4 savo pajamų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

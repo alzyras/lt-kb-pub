@@ -43,16 +43,6 @@ Ordino maršalas Gotfridas Lindenas, įsibrovęs su daugybe komtūrų ir savanor
 - t-002
   global_id: t-87508
   teiginys: "Prūsijos ordino didysis magistras pasiuntė Gotfridą Lindeną su Redigeriu Elneriu užimti Vilniaus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "91041-91502; hash=9a04796cdf8d3cd628eeebefefec94ed06f138f3d1f3910f0cb44a40e189f564; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gotfridas Lindenas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=45"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gotfridas Lindenas\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-83488
 
@@ -60,17 +50,6 @@ Ordino maršalas Gotfridas Lindenas, įsibrovęs su daugybe komtūrų ir savanor
 - t-001
   global_id: t-87509
   teiginys: "Ordino maršalas Gotfridas Lindenas sudegino Semeliškes Trakų paviete ir, nepajėgęs staiga užimti Vilniaus, grįžo plėšti apylinkių."
-  semantiniai_rysiai: "Gotfridas Lindenas puolė Vilnius (0.80)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "90537-91126; hash=facd02716fa375a21dea19d7d77201448e02c180b9e504d566dc348b05d14a15; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Vilnius: 0.80"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gotfridas Lindenas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Gotfridas Lindenas su pajėgomis veržėsi iki Vilniaus tvirtovių ir mėgino užimti miestą."
   pagrindžia:
     - c-83487
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179050|Kryžiuočių ordinas]]: Ordino maršalas Gotfridas Lindenas sudegino Semeliškes ir veržėsi iki Vilniaus tvirtovių, bet miesto staiga neužėmė.
@@ -95,8 +74,8 @@ Ordino maršalas Gotfridas Lindenas, įsibrovęs su daugybe komtūrų ir savanor
     plėšti aplinkinių žemių23. Vis dėlto Algirdo valdymo pa­
     baigoje Vilnius neišvengė seniai jam grėsusio pavojaus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -116,8 +95,8 @@ Ordino maršalas Gotfridas Lindenas, įsibrovęs su daugybe komtūrų ir savanor
     1377 metų birželio pabaigoje jie sustojo su visomis pajėgo­
     mis prie Vilniaus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -167,7 +146,3 @@ Ordino maršalas Gotfridas Lindenas, įsibrovęs su daugybe komtūrų ir savanor
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87508
-
-## Ryšiai
-- Gotfridas Lindenas puolė [[objektai/vietos/Vilnius]]
-- Gotfridas Lindenas surengė žygį į [[objektai/vietos/Vilnius]]

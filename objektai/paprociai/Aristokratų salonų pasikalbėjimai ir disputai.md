@@ -47,9 +47,6 @@ Nenurodyta
 - t-001
   global_id: t-01907
   teiginys: "Aristokratų salonuose vietoj senųjų turnyrų, o kartais ir medžioklių, buvo rengiami pasikalbėjimai ir disputai."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "808419-808662; hash=14da74c8eb1e3e3acce24ac54f2fc1ab96b99e77b3c6bb7a821985bec6c73884; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-02145
 ## Reikšmingi paminėjimai
@@ -62,8 +59,8 @@ Nenurodyta
     tekalbėjo. Vietoj senųjų aristokratijos turnyrų, o kartais net vietoj
     medžioklių, salionuose buvo ruošiami pasikalbėjimai ir disputai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

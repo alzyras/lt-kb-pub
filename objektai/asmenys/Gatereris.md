@@ -30,22 +30,6 @@ Narbutas kritikuoja Gatererio aiškinimą, kad sarmatai tik 80 m. pr. Kr. tapo g
 - t-001
   global_id: t-191269
   teiginys: "Narbutas kritikuoja Gatererio aiškinimą, kad sarmatai tik 80 m. pr. Kr. tapo galingais dešiniojo Dnepro kranto gyventojais."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Sarmatai gyveno Dnepras (0.70)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "104694-105279; hash=346d4c9c473e63b897706010721ad36e396782b9c7e7d3bfbb8698c3fcbbae42; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Dnepras: 0.70"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Sarmatai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Dnepras: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Gatererio aiškinime sarmatai apibūdinami kaip dešiniojo Dnepro kranto gyventojai, nors Narbutas tai kritikuoja."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174151
 ## Reikšmingi paminėjimai
@@ -66,8 +50,8 @@ Narbutas kritikuoja Gatererio aiškinimą, kad sarmatai tik 80 m. pr. Kr. tapo g
     vadovaudami sarmatai gavo savo pavadinimą, žlungant
     skitams įsiliejo į Europą ir sukėlė jos tautų judėjimą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -78,7 +62,8 @@ Narbutas kritikuoja Gatererio aiškinimą, kad sarmatai tik 80 m. pr. Kr. tapo g
 - id: c-174151
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 60"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 60."
   citata_originali: |
     Tai, kokia buvo jų val­
     džia, kalba ir kokie papročiai, nežinoma. Gatereris1 bergž­

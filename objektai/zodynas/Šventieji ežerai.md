@@ -30,21 +30,6 @@ Narbutas rašo, kad Lydos apskrities Dubičių ežeras, dar vadintas Dub arba Du
 - t-001
   global_id: t-189190
   teiginys: "Narbutas rašo, kad Lydos apskrities Dubičių ežeras, dar vadintas Dub arba Duupe, vietos padavimuose laikytas šventu."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "392259-392665; hash=c5a5efa35142eeaacfbd74028ce49eaaf4ce6327da3a3d161836511db13aaa1a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Namas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Šventieji ežerai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Namas: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šventieji ežerai\" parinktas kaip owner_note_path. Targetas \"Namas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-172078
 
@@ -52,14 +37,6 @@ Narbutas rašo, kad Lydos apskrities Dubičių ežeras, dar vadintas Dub arba Du
 - t-002
   global_id: t-194692
   teiginys: "Šventieji ežerai Senojoje lietuvių religijoje ne tik tekantys, bet ir kai kurie stovintys vandenys buvo laikomi šventenybėmis."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "391600-392084; hash=55298cfdf132f74a21675f70b8a2fee1162901ca9ae9131a0ebcc8d31a8f4924; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-177089
 ## Reikšmingi paminėjimai
@@ -76,8 +53,8 @@ Narbutas rašo, kad Lydos apskrities Dubičių ežeras, dar vadintas Dub arba Du
     movės mišką; visiškai panašu į tiesą, kadangi jame augęs šven­
     tasis ąžuolas ar buvusi kažkokia šventykla.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -102,8 +79,8 @@ Narbutas rašo, kad Lydos apskrities Dubičių ežeras, dar vadintas Dub arba Du
     upės, atlikdavo savo apeigas prie ežerų, kuriuos tekdavo pri­
     pažinti šventais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -114,7 +91,8 @@ Narbutas rašo, kad Lydos apskrities Dubičių ežeras, dar vadintas Dub arba Du
 - id: c-172078
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 229"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 229."
   citata_originali: |
     1. Lydos apskrityje yra didžiulis [Dubičių] ežeras Dub, ar­
     ba Duupe, tai yra Dviupis, kadangi jame prasideda dvi upės,

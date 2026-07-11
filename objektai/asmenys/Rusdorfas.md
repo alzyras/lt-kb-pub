@@ -45,18 +45,6 @@ media_all_json: |-
 - t-001
   global_id: t-113963
   teiginys: "Rusdorfas 1435 m. gruodžio 31 d. Bresto taikoje atstovavo Vokiečių-kryžiuočių ordino žemėms Prūsijoje, Livonijoje ir Vokietijoje."
-  temporaliniai_duomenys: "įvykio data: 1435 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "281888-282329; hash=ba2ac2e0aaa31b32a1adde7d2e7283044f3c8a5c9ded18c8c76303a036cb61d6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Livonija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Rusdorfas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Livonija: mention_match, place, gap=103"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rusdorfas\" parinktas kaip owner_note_path. Targetas \"Livonija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-105139
 
@@ -64,19 +52,6 @@ media_all_json: |-
 - t-002
   global_id: t-113964
   teiginys: "Magistrui Rusdorfui buvo rašyti Vytauto laiškai dėl Lietuvos karūnos, saugoti Kryžiuočių Slaptajame archyve Karaliaučiuje."
-  temporaliniai_duomenys: "įvykio data: 1430 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pagrindžia Rusdorfo ryšį su Vytauto laiškais dėl karūnos."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "352581-353218; hash=c9038d12151add4d83cc81e61327a54328734968d459e7edc43888b6ab8120c4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Karūna: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Rusdorfas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Karūna: mention_match, thing, gap=51"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rusdorfas\" parinktas kaip owner_note_path. Targetas \"Karūna\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-105140
 - susijęs iš 1436 m. pasienio konvencija tarp Vladislovo Varniečio ir Povilo Rusdorfo: Narbutas rašo, kad 1436 m. Vladislovas Varnietis ir Povilas Rusdorfas sudarė pasienio konvenciją, nustačiusią Lenkijos ir Ordino sieną.
@@ -126,8 +101,8 @@ media_all_json: |-
     joks valdovas, popiežius ar imperato-
     rius neprivers šios sutarties sulaužyti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -158,8 +133,8 @@ media_all_json: |-
     Tverės kunigaikščio atvykimą į Lie­
     tuvą rugpjūčio 8-ą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -224,4 +199,4 @@ media_all_json: |-
     - t-113964
 
 ## Ryšiai
-- Sudarė sutartį su: [[objektai/asmenys/Vladislovas Jogailaitis|Vladislovas Jogailaitis (Lenkijos karalius, XV a.)]], [[objektai/asmenys/Vladislovas Varnietis]]
+- Sudarė sutartį su: [[objektai/asmenys/Vladislovas Varnietis]]

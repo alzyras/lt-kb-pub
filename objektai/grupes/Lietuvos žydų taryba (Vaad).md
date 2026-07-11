@@ -38,21 +38,6 @@ media_all_json: |-
 - t-002
   global_id: t-74811
   teiginys: "1920 m. sudaryta Lietuvos žydų taryba (Vaad) turėjo spręsti socialinius ir kultūrinius Lietuvos žydų reikalus."
-  temporaliniai_duomenys: "įvykio data: 1920 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pridėta citatoje nurodyta sudarymo data, kad sakinys būtų enciklopediškesnis."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "338377-338923; hash=7bbb354dab4d80d1f0d56c06f6328a47f1d0649935d9ce29f877f4a38093355f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos žydų taryba (Vaad): owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos žydų taryba (Vaad)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-22656
 - susijęs iš [[objektai/ivykiai/Lietuvos žydų tarybos (Vaad) sudarymas (1920 m.).md#claim-t-20390|Lietuvos žydų tarybos (Vaad) sudarymas (1920 m.)]]: 1920 m. sudaryta 34 narių Lietuvos žydų taryba turėjo spręsti socialinius ir kultūrinius žydų reikalus.
@@ -74,8 +59,8 @@ media_all_json: |-
     ferencijoje sudaryta Lietuvos žydų taryba (Vaad) iš 34 narių, kuri turėjo
     spręsti visus socialinius ir kultūrinius žydų reikalus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

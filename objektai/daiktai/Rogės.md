@@ -55,10 +55,6 @@ Nenurodyta
 - t-001
   global_id: t-08324
   teiginys: "Žiemą važiuodavo važiuose, taip vadinamose rogėse, o ką vežė, tą vežė rogėse ir šlajose."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "70662-70887; hash=b3b7870ed51e26bc74586b1a6c4ba0750c4a2952d039950b80a8605e5ba7140f; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
   pagrindžia:
     - c-10279
 
@@ -66,19 +62,6 @@ Nenurodyta
 - t-003
   global_id: t-186847
   teiginys: "Lietuvos metraščio pasakojime Moldavijos vaivada Steponas, skaudant kojai, įsakė vežti save rogėse ir atvyko su savo žmonėmis."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "263404-264245; hash=f605805f117fcbcd19717c047db2aeb6e8b6ff1f0ac24c16a6393a77caa4771f; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Rogės: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=92"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rogės\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-170030
 - susijęs iš [[objektai/daiktai/Ragučio šventės stabas ant rogių.md#claim-t-189742|Ragučio šventės stabas ant rogių]]: Narbutas rašo, kad Ragučio stabas ar keistas jo atvaizdas per vasario mėnesio šventę buvo vežiojamas rogėmis iš kaimo į kaimą.
@@ -93,8 +76,8 @@ Nenurodyta
     Žiemos laiku, kaip sakiau, važiavo važiuose, taip vadinamose rogėse, nuo žodžio važiuoti, šunį įkinkę dėl to, jog šuo per visų didžiausias tankmes galėjo
         perlįsti, o grįžtant namus atsekti; jei ką vežė, tad rogėse ir šlajose.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -121,8 +104,8 @@ Nenurodyta
     Kai karalius perėjo miškus ir Bukoviną, Moldavijos
     vaivada su visais savo žmonėmis pasuko atgalios.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

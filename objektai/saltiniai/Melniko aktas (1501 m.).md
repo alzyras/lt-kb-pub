@@ -35,11 +35,6 @@ Melniko aktas (1501 m.): lenkų reikalaujami, jie sutiko pasirašyti naują akt�
 - t-003
   global_id: t-67483
   teiginys: "Lenkai reikalavo derybų pagrindu laikyti 1501 m. Melniko ir 1564 m. Varšuvos receso aktus."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "464487-464745; hash=fc9e9835d02ad29ec60947a7d78b12ff3d2400b39059fe9302fea22a52de6eca; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-67370
 
@@ -47,9 +42,6 @@ Melniko aktas (1501 m.): lenkų reikalaujami, jie sutiko pasirašyti naują akt�
 - t-001
   global_id: t-67485
   teiginys: "Melniko aktu Aleksandras atskiru dokumentu patvirtino Lietuvos ir Lenkijos santykius normavusį susitarimą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "409874-410283; hash=1c1cb586d615a8d52e397e486454227fc6f28e98b6464c05933b0c501a6bdbee; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-67369
 
@@ -57,9 +49,6 @@ Melniko aktas (1501 m.): lenkų reikalaujami, jie sutiko pasirašyti naują akt�
 - t-002
   global_id: t-67486
   teiginys: "Melniko aktu siekta įkurti jungtinę valstybę su bendru seimu, valdovu, apsauga ir pinigais."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "409932-410450; hash=55391b81389ae6e9e0afca6680eceb3dcb043131ebd85574764b0d33c4efcdcc; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-67372
 ## Reikšmingi paminėjimai
@@ -76,8 +65,8 @@ Melniko aktas (1501 m.): lenkų reikalaujami, jie sutiko pasirašyti naują akt�
     legatai susikeitė dokumentais, o kiek vėliau Melnike tą susita-
     rimą atskiru dokumentu patvirtino Aleksandras.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -92,8 +81,8 @@ Melniko aktas (1501 m.): lenkų reikalaujami, jie sutiko pasirašyti naują akt�
     ceso aktų. Bet lietuviai sakė, kad 1501 m. aktų Lietuva neprisiekusi,
     o 1563—4 m. seime jos delegatai neturėję neribotų įgaliojimų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -114,8 +103,8 @@ Melniko aktas (1501 m.): lenkų reikalaujami, jie sutiko pasirašyti naują akt�
     rinktąjį valdovą, bendrą apsaugą ir bendrus
     pinigus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

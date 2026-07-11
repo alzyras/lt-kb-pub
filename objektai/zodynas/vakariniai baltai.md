@@ -42,17 +42,6 @@ Vartojama kalbiniams, kultūriniams ir istoriografiniams baltų ryšiams aiškin
 - t-003
   global_id: t-70376
   teiginys: "Šio leidimo aiškinime prūsai ir jotvingiai priskiriami vakarų baltų tarmių regionui."
-  semantiniai_rysiai: "Prūsai priklausė Baltai (0.92); Jotvingiai priklausė Baltai (0.78)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "12669-12968; hash=e158ced3cbe38c76d3cb499dc17ca16fe2660bfd62c518838e74cf6f6833cba6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Baltai: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jotvingiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Baltai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Jotvingiai priskiriami vakarų baltų regionui; ryšys su Baltai yra tiesioginis, bet objektas apibendrintas."
   pagrindžia:
     - c-69414
 
@@ -60,17 +49,6 @@ Vartojama kalbiniams, kultūriniams ir istoriografiniams baltų ryšiams aiškin
 - t-002
   global_id: t-70377
   teiginys: "Šio leidimo aiškinime nadruviai, skalviai ir kuršiai priskiriami prie vakarinių baltų."
-  semantiniai_rysiai: "Kuršiai priklausė Baltai (0.82); Skalviai priklausė Baltai (0.82); Nadruviai priklausė Baltai (0.82)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "12169-12468; hash=2e9e26be7af1c600d001e0bc0be617e2e5c267391570d54c49803900b2081263; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Baltai: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Skalviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Baltai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Teiginyje skalviai tiesiogiai priskiriami vakariniams baltams."
   pagrindžia:
     - c-69410
 
@@ -78,17 +56,6 @@ Vartojama kalbiniams, kultūriniams ir istoriografiniams baltų ryšiams aiškin
 - t-005
   global_id: t-70378
   teiginys: "Prie vakarinių baltų priskiriami prūsai, kuršiai, nadruviai ir skalviai, o dalis jų XIV–XVI a. sulietuvėjo."
-  semantiniai_rysiai: "Nadruviai priklausė Baltai (0.82); Skalviai priklausė Baltai (0.82)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "12169-12468; hash=2e9e26be7af1c600d001e0bc0be617e2e5c267391570d54c49803900b2081263; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Baltai: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Nadruviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Baltai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Teiginys nadruvius tiesiogiai įtraukia į vakarinių baltų grupę."
   pagrindžia:
     - c-69410
 
@@ -96,16 +63,6 @@ Vartojama kalbiniams, kultūriniams ir istoriografiniams baltų ryšiams aiškin
 - t-001
   global_id: t-70380
   teiginys: "Vakarų baltų prūsų tarmės skyrėsi nuo rytų baltų lietuvių ir latvių tarmių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "8401-9106; hash=c6c9215dd00d269013c414972342c2aeaa5b4de6ee9ae08464206f08cece0127; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Baltai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "vakariniai baltai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Baltai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"vakariniai baltai\" parinktas kaip owner_note_path. Targetas \"Baltai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-69413
 
@@ -113,16 +70,6 @@ Vartojama kalbiniams, kultūriniams ir istoriografiniams baltų ryšiams aiškin
 - t-004
   global_id: t-70381
   teiginys: "Vakarų baltų, arba prūsų, tarmės daugeliu atvejų laikomos archaiškesnėmis už rytų baltų lietuvių ir latvių tarmes."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "8401-9106; hash=c6c9215dd00d269013c414972342c2aeaa5b4de6ee9ae08464206f08cece0127; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Baltai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "vakariniai baltai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Baltai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"vakariniai baltai\" parinktas kaip owner_note_path. Targetas \"Baltai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-69413
 ## Reikšmingi paminėjimai
@@ -135,8 +82,8 @@ Vartojama kalbiniams, kultūriniams ir istoriografiniams baltų ryšiams aiškin
     skalvių ir kitų vakarinių baltų XIV—XVI a. sulietuvėjo14.
        Jotvingiai, K. Būgos nuomone, kalbėjo prūsų kalbos tarme15.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -156,8 +103,8 @@ Vartojama kalbiniams, kultūriniams ir istoriografiniams baltų ryšiams aiškin
     už rytų baltų (lietuvių-latvių) tarmes, nuo pastarųjų skiriasi, tačiau V. Mažiulio tyrimai
     rodo, kad jų skirtingumo laipsnis kur kas mažesnis, negu iki šiol buvo įprasta manyti8.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -173,8 +120,8 @@ Vartojama kalbiniams, kultūriniams ir istoriografiniams baltų ryšiams aiškin
     — lietuviais, konstatuojama, kad jotvingių ir lietuvių kalbos nebuvo per daug viena nuo
     kitos nutolusios.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -185,7 +132,8 @@ Vartojama kalbiniams, kultūriniams ir istoriografiniams baltų ryšiams aiškin
 - id: c-69410
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 9"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 9."
   citata_originali: |
     Šiuo metu nadruviai ir skalviai kalbos požiūriu priskiriami prie prūsų, t. y. vakarinių
     baltų, kuriais laikytini ir kuršiai. Išlikusi po Ordino siautėjimo dalis kuršių, nadruvių,
@@ -202,7 +150,8 @@ Vartojama kalbiniams, kultūriniams ir istoriografiniams baltų ryšiams aiškin
 - id: c-69413
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 8"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 8."
   citata_originali: |
     Nuo XIX a. vidurio kalbininkai, pradedant F. Bopu, G. H. F. Neselmanu, baigiant
     J. Endzelynu ir kt., išsamiai tyrė prūsų kalbą bei jos paminklus. Savo indėlį įnešė ir
@@ -223,7 +172,8 @@ Vartojama kalbiniams, kultūriniams ir istoriografiniams baltų ryšiams aiškin
 - id: c-69414
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 9"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 9."
   citata_originali: |
     Mums žinomi
     jotvingiški vietų ir asmenų vardai turi fonetinių ypatybių, būdingų prūsų kalbai18. Prūsai

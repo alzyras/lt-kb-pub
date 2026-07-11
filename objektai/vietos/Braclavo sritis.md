@@ -40,17 +40,6 @@ gyvenama tik tikrojoj Lietuvoj, Palenkėj, Voluinėj ir Podolės Braclavo srityj
 - t-001
   global_id: t-72805
   teiginys: "Kazimiero laikais Podolės Braclavo srityje buvo gyvenama tankiau negu rytinėse Lietuvos žemėse."
-  semantiniai_rysiai: "Braclavo sritis priklausė Podolė (0.88)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "395113-395395; hash=f8740caa18d32e18314f1f58afaf1ce1844a12e828b392f5a8d14054573fcd93; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Podolė: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Braclavo sritis: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Podolė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Genityvinė formuluotė rodo, kad Braclavo sritis laikoma Podolės dalimi."
   pagrindžia:
     - c-46456
 
@@ -58,17 +47,6 @@ gyvenama tik tikrojoj Lietuvoj, Palenkėj, Voluinėj ir Podolės Braclavo srityj
 - t-001
   global_id: t-72805
   teiginys: "Kazimiero laikais Podolės Braclavo srityje buvo gyvenama tankiau negu rytinėse Lietuvos žemėse."
-  semantiniai_rysiai: "Braclavo sritis priklausė Podolė (0.88)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "395113-395395; hash=f8740caa18d32e18314f1f58afaf1ce1844a12e828b392f5a8d14054573fcd93; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Podolė: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Braclavo sritis: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Podolė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Genityvinė formuluotė rodo, kad Braclavo sritis laikoma Podolės dalimi."
   pagrindžia:
     - c-46456
 
@@ -76,17 +54,6 @@ gyvenama tik tikrojoj Lietuvoj, Palenkėj, Voluinėj ir Podolės Braclavo srityj
 - t-001
   global_id: t-72805
   teiginys: "Kazimiero laikais Podolės Braclavo srityje buvo gyvenama tankiau negu rytinėse Lietuvos žemėse."
-  semantiniai_rysiai: "Braclavo sritis priklausė Podolė (0.88)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "395113-395395; hash=f8740caa18d32e18314f1f58afaf1ce1844a12e828b392f5a8d14054573fcd93; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Podolė: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Braclavo sritis: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Podolė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Genityvinė formuluotė rodo, kad Braclavo sritis laikoma Podolės dalimi."
   pagrindžia:
     - c-46456
 ## Reikšmingi paminėjimai
@@ -101,8 +68,8 @@ gyvenama tik tikrojoj Lietuvoj, Palenkėj, Voluinėj ir Podolės Braclavo srityj
     rytinės Lietuvos žemės, išskyrus didesniųjų miestų apy-
     linkes, buvo beveik negyvenamos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -132,6 +99,3 @@ gyvenama tik tikrojoj Lietuvoj, Palenkėj, Voluinėj ir Podolės Braclavo srityj
     - t-72805
     - t-72803
     - t-72804
-
-## Ryšiai
-- Braclavo sritis priklausė [[objektai/vietos/Podolė]]

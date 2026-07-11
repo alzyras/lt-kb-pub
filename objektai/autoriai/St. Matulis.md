@@ -40,18 +40,6 @@ Matulis : Kun.
 - t-001
   global_id: t-30997
   teiginys: "St. Matulis 1961 m. LASD IV tome paskelbė darbą „Kun. prof. dr. Jonas Totoraitis“."
-  temporaliniai_duomenys: "įvykio data: 1961 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "168344-168622; hash=e4b099fda569b72d190b06c19cd715e5b72a838ba5d80653469217c92a58b051; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> P. Šležas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "St. Matulis: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "P. Šležas: mention_match, author, gap=33"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"St. Matulis\" parinktas kaip owner_note_path. Targetas \"P. Šležas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-33149
 ## Reikšmingi paminėjimai
@@ -65,8 +53,8 @@ Matulis : Kun.
     275-277 p.
     81a Žr. P. Šležas :** **_Prof. kun. A. Alekna,_** **Athen, II, 1 nr., 37-88 p.**
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

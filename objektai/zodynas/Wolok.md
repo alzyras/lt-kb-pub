@@ -43,19 +43,6 @@ Vartojamas kaip istorinis-geografinis terminas, apibūdinantis sausumos perneši
 - t-001
   global_id: t-192174
   teiginys: "Teodoro Narbuto aiškinimu, slavai nuo seniausių laikų Wolok vadino sausumos kelius tarp dviejų prieplaukų."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "300354-300498; hash=1fa7f47a2fff2a6d8c8df40af21b79371c9b531f1c4661b05b1333f617173ac9; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  ryšio_patikimumas: "susije_su -> Kotzebue: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Wolok: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Kotzebue: mention_match, author"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Wolok\" parinktas kaip owner_note_path. Targetas \"Kotzebue\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175049
 
@@ -63,19 +50,6 @@ Vartojamas kaip istorinis-geografinis terminas, apibūdinantis sausumos perneši
 - t-002
   global_id: t-192175
   teiginys: "Teodoro Narbuto aiškinimu, Rusijoje jo laikais buvo nemažai Wolok tipo vietovardžių."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "300354-300498; hash=1fa7f47a2fff2a6d8c8df40af21b79371c9b531f1c4661b05b1333f617173ac9; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  ryšio_patikimumas: "susije_su -> Kotzebue: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Wolok: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Kotzebue: mention_match, author"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Wolok\" parinktas kaip owner_note_path. Targetas \"Kotzebue\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175049
 
@@ -83,19 +57,6 @@ Vartojamas kaip istorinis-geografinis terminas, apibūdinantis sausumos perneši
 - t-001
   global_id: t-192174
   teiginys: "Teodoro Narbuto aiškinimu, slavai nuo seniausių laikų Wolok vadino sausumos kelius tarp dviejų prieplaukų."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "300354-300498; hash=1fa7f47a2fff2a6d8c8df40af21b79371c9b531f1c4661b05b1333f617173ac9; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  ryšio_patikimumas: "susije_su -> Kotzebue: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Wolok: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Kotzebue: mention_match, author"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Wolok\" parinktas kaip owner_note_path. Targetas \"Kotzebue\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175049
 ## Reikšmingi paminėjimai
@@ -108,8 +69,8 @@ Vartojamas kaip istorinis-geografinis terminas, apibūdinantis sausumos perneši
     mažai.
     2 Kotzebue.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -123,7 +84,8 @@ Vartojamas kaip istorinis-geografinis terminas, apibūdinantis sausumos perneši
 - id: c-175049
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 165"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 165."
   citata_originali: |
     Nuo seniausių laikų sausumos kelius tarp dviejų prieplaukų
     slavai vadino Wolok. Tokių pavadinimų Rusijoje ligi šiol esama ne­

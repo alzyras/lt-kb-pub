@@ -32,16 +32,6 @@ Svoris be durtuvo - 4,20 kg SAVANORIAI VERŽIASI Į KOVĄ | | Savanoris Antanas 
 - t-001
   global_id: t-40033
   teiginys: "Savanoris Antanas Šukys, mokydamasis Kauno Karužų mokykloje, prisiminė, kaip buvo renkami kariai per Jiezną besiveržusiai Raudonajai armijai sulaikyti."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "716536-716818; hash=fc96e237e80389d1de9b319697fbfcbc7a1cea4266286c59cf6d0c0291700265; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jieznas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Antanas Šukys: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Jieznas: mention_match, place, gap=91"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Šukys\" parinktas kaip owner_note_path. Targetas \"Jieznas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-44284
 
@@ -49,12 +39,6 @@ Svoris be durtuvo - 4,20 kg SAVANORIAI VERŽIASI Į KOVĄ | | Savanoris Antanas 
 - t-002
   global_id: t-183728
   teiginys: "Antanas Šukys staiga pasijuto blogai, | ir skausmai spaudė jam krūtinę."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "793332-793588; hash=09b557ebd8daac5e1671e83842368338611f7d7442c81cf4f3cd8a3f11b19018; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-167116
 - susijęs iš [[objektai/grupes/Marijampolės batalionas.md#claim-t-78386|Marijampolės batalionas]]: Atskirojo Marijampolės bataliono viršila Antanas Šukys aprašė naktinę žvalgybinę-diversinę operaciją į bolševikų divizijos štabą.
@@ -104,8 +88,8 @@ Svoris be durtuvo - 4,20 kg SAVANORIAI VERŽIASI Į KOVĄ | | Savanoris Antanas 
 
     .
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -119,8 +103,8 @@ Svoris be durtuvo - 4,20 kg SAVANORIAI VERŽIASI Į KOVĄ | | Savanoris Antanas 
     dujos. Pirmasis buvo apnuodytas 111 būrio būrininkas Klimaitis. Jis staiga pasijuto blogai, |
     ir skausmai spaudė jam krūtinę. Žmogus niekur negalėjo rasti ramybės.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -179,6 +163,3 @@ Svoris be durtuvo - 4,20 kg SAVANORIAI VERŽIASI Į KOVĄ | | Savanoris Antanas 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183728
-
-## Ryšiai
-- Antanas Šukys kariavo prieš [[objektai/grupes/Lenkai]]

@@ -56,17 +56,6 @@ Nenurodyta
 - t-001
   global_id: t-192049
   teiginys: "Pratarmėje Teodoras Narbutas rašo skubėjęs atiduoti spaudai antrą tomą, skirtą lietuvių tautos ištakoms ir protėvių atsikėlimo istorijai."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "39014-39893; hash=40c3c33225f7e79066c263360c9b2b402392c59be9c62545c2f1a809dc2f5050; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
-  ryšio_patikimumas: "susije_su -> Teodoras Narbutas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Teodoro Narbuto antrojo „Lietuvių tautos istorijos“ tomo pratarmės parašymas (1835 m. gegužės 8 d.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Teodoras Narbutas: mention_match, person, gap=11"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Teodoro Narbuto antrojo „Lietuvių tautos istorijos“ tomo pratarmės parašymas (1835 m. gegužės 8 d.)\" parinktas kaip owner_note_path. Targetas \"Teodoras Narbutas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-174919
 
@@ -74,22 +63,6 @@ Nenurodyta
 - t-002
   global_id: t-192050
   teiginys: "Teodoras Narbutas antrojo LTI tomo pratarmę pasirašė Gauruose 1835 m. gegužės 8 dieną."
-  teiginio_tipas: "saltinio_teiginys"
-  temporaliniai_duomenys: "įvykio data: 1835 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sutvarkyta vietovardžio forma ir sakinys tiesiogiai susietas su pratarmės pasirašymu. Nepridėta daugiau biografinių aplinkybių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "41884-42196; hash=ac8afa6c5815476110877adb017a9ac59194c7d6be6ae103f202c03f94f5daca; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
-  ryšio_patikimumas: "susije_su -> Teodoras Narbutas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Teodoro Narbuto antrojo „Lietuvių tautos istorijos“ tomo pratarmės parašymas (1835 m. gegužės 8 d.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Teodoras Narbutas: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Teodoro Narbuto antrojo „Lietuvių tautos istorijos“ tomo pratarmės parašymas (1835 m. gegužės 8 d.)\" parinktas kaip owner_note_path. Targetas \"Teodoras Narbutas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174920
 ## Reikšmingi paminėjimai
@@ -116,8 +89,8 @@ Nenurodyta
     galima laikyti šaltiniu, kuris turi duoti pradžią istorijos
     upei, turėsiančiai atitekėti net iki šių dienų.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -136,8 +109,8 @@ Nenurodyta
     1835 m. gegužės 8 dieną.
     Teodoras Narbutas
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -148,7 +121,8 @@ Nenurodyta
 - id: c-174919
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 24"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 24."
   citata_originali: |
     PRATARME
     Vos tik buvo išspausdinta religijos, papročių ir kitų
@@ -179,7 +153,8 @@ Nenurodyta
 - id: c-174920
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 25"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 25."
   citata_originali: |
     Mano sumanymo įgyvendinimui reikia nepa­
     prastai daug dalykų ir medžiagos, daug materialinių iš­

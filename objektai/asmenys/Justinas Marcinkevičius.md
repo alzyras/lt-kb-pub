@@ -30,12 +30,6 @@ Kadangi iniciatyvinę grupę sudarė visoje šalyje žinomi inteligentai ir jų 
 - t-001
   global_id: t-193697
   teiginys: "Kadangi iniciatyvinę grupę sudarė visoje šalyje žinomi inteligentai ir jų skelbiamas tautinio atgimimo idėjas parėmė daugelis garsių visuomenės veikėjų (Vytautas Petkevičius, Justinas Marcinkevičius), žinia apie LPS iniciatyvinę grupę žaibiškai pasklido po."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "485572-486054; hash=c1baf603e17f63b56e2292ddd3818a24590535c98592840e3998cd68bf8994b7; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176366
 ## Reikšmingi paminėjimai
@@ -54,8 +48,8 @@ Kadangi iniciatyvinę grupę sudarė visoje šalyje žinomi inteligentai ir jų 
     apie LPS iniciatyvinę grupę žaibiškai pasklido po visą Lietuvą. Birželio 10
     dieną LPS iniciatyvinė grupė įsteigta Kaune, liepos 6 – Klaipėdoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

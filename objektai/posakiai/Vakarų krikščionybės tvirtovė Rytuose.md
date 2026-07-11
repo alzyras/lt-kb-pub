@@ -33,12 +33,6 @@ media_all_json: |-
 - t-001
   global_id: t-193814
   teiginys: "@ Mėgindamas gelbėti situaciją, Švedijos karalius siunčia į ataką pagrindine švedų Vakarų krikščionybės tvirtovė Rytuose ir besikaunantiems priešo kariams atrodė, kad lietuviams į pagalbą atskuba pastiprinimas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "434630-434915; hash=9541b66e72e3c782ca21dba659fedc4f98bc21f85654bb00e065da72ec26e7b2; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176459
 ## Reikšmingi paminėjimai
@@ -61,8 +55,8 @@ media_all_json: |-
     kad lietuviams į pagalbą
     atskuba pastiprinimas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

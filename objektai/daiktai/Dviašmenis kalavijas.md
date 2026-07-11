@@ -64,16 +64,6 @@ Nenurodyta
 - t-004
   global_id: t-71559
   teiginys: "X–XI a. dviašmenių kalavijų randama ir to laikotarpio kapuose Lietuvoje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "74826-75033; hash=516f3fc15fdd59d808fb03e656f2505a2d1abf0458d2ae66b7a41a43f0edc05a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kalavijai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Dviašmenis kalavijas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Kalavijai: mention_match, thing, gap=11"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dviašmenis kalavijas\" parinktas kaip owner_note_path. Targetas \"Kalavijai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-42493
 
@@ -81,16 +71,6 @@ Nenurodyta
 - t-006
   global_id: t-71560
   teiginys: "X–XI a. Vakarų Europoje paplitusių dviašmenių kalavijų randama ir to laikotarpio kapuose Lietuvoje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "74826-75033; hash=516f3fc15fdd59d808fb03e656f2505a2d1abf0458d2ae66b7a41a43f0edc05a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kalavijai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Dviašmenis kalavijas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Kalavijai: mention_match, thing, gap=11"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dviašmenis kalavijas\" parinktas kaip owner_note_path. Targetas \"Kalavijai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-42493
 
@@ -98,16 +78,6 @@ Nenurodyta
 - t-005
   global_id: t-71561
   teiginys: "X–XI a. dviašmenis kalavijas buvo paplitęs Vakarų Europoje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "74826-75033; hash=516f3fc15fdd59d808fb03e656f2505a2d1abf0458d2ae66b7a41a43f0edc05a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Europa: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Dviašmenis kalavijas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=42"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dviašmenis kalavijas\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-42493
 
@@ -115,16 +85,6 @@ Nenurodyta
 - t-003
   global_id: t-71562
   teiginys: "Dviašmenis kalavijas X–XI a. buvo paplitęs Vakarų Europoje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1089485-1089711; hash=569c261985a3aab994ca6d124c8be5fbf18d94d7db90372cf2df260395ca7881; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Europa: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Dviašmenis kalavijas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=50"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dviašmenis kalavijas\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-42492
     - c-42493
@@ -137,8 +97,8 @@ Nenurodyta
     p. 23, X-xI a. Vakarų Europos dviašmenis kalavijas, Baltų kovų brolijos „Vilkatlakai“
     rekonstrukcija, Giedrės Maksimovicz nuotr.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -160,8 +120,8 @@ Nenurodyta
     XI-XIII a.
     balnakilpės
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

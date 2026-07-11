@@ -61,19 +61,6 @@ Nenurodyta
 - t-001
   global_id: t-101530
   teiginys: "Lietuvos magnatai 1655 m. sudarė Kėdainių sutartį su Švedija, tačiau švedams įsitvirtinti Lietuvoje nepavyko."
-  temporaliniai_duomenys: "įvykio data: 1655 m.; įvykio data: 1655-1660; įvykio data: 1660 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys, paremtas citatos turiniu."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "159157-159758; hash=29717002e5307e0b0c3d42ff87b35d1f41f63288010f17f6af4bf137830dab89; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kėdainiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kėdainių sutarties sudarymas su Švedija (sutartis): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Kėdainiai: mention_match, place, gap=7"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kėdainių sutarties sudarymas su Švedija (sutartis)\" parinktas kaip owner_note_path. Targetas \"Kėdainiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-95079
 
@@ -81,19 +68,6 @@ Nenurodyta
 - t-001
   global_id: t-101530
   teiginys: "Lietuvos magnatai 1655 m. sudarė Kėdainių sutartį su Švedija, tačiau švedams įsitvirtinti Lietuvoje nepavyko."
-  temporaliniai_duomenys: "įvykio data: 1655 m.; įvykio data: 1655-1660; įvykio data: 1660 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys, paremtas citatos turiniu."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "159157-159758; hash=29717002e5307e0b0c3d42ff87b35d1f41f63288010f17f6af4bf137830dab89; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kėdainiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kėdainių sutarties sudarymas su Švedija (sutartis): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Kėdainiai: mention_match, place, gap=7"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kėdainių sutarties sudarymas su Švedija (sutartis)\" parinktas kaip owner_note_path. Targetas \"Kėdainiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-95079
 ## Reikšmingi paminėjimai
@@ -111,8 +85,8 @@ Nenurodyta
     Rygos. Lietuva ir Lenkija šiame kare ekonomiškai ir politiškai nusilpo, jų
     teritoriją nuniokojo svetimos ir savos kariuomenės, atsirado anarchijos
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

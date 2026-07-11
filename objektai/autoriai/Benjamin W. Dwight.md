@@ -34,16 +34,6 @@ Jeigu tautos vertė, imant visą žmoniją, būtų matuojama kalbos grožiu, tai
 - t-001
   global_id: t-78081
   teiginys: "Benjamin W. Dwightas „Moderniojoje filologijoje“ aukštino lietuvių kalbos grožį ir maloninių bei mažybinių žodžių gausą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "248541-249522; hash=c198405664382db26e18b83b01ebe70bd2f6460e48e2d6d214c4a24acf8f77e7; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Benjamin W. Dwight: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=58"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Benjamin W. Dwight\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-75385
 - susijęs iš [[objektai/posakiai/„Iš visų Europos kalbų lietuvių kalba...“.md#claim-t-101616|„Iš visų Europos kalbų lietuvių kalba...“]]: Posakyje teigiama, kad lietuvių kalba iš Europos kalbų turi daugiausia maloninių ir mažybinių žodžių.
@@ -79,8 +69,8 @@ Jeigu tautos vertė, imant visą žmoniją, būtų matuojama kalbos grožiu, tai
     skaldytų ir silpnintų lenkų jėgą, o vėliau Lietuvos valstybės atkūrimą lai-
     kys tik Vokietijos intriga.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

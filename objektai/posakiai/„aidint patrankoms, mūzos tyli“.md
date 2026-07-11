@@ -35,16 +35,6 @@ Sakoma: aidint patrankoms, mūzos tyli.
 - t-003
   global_id: t-26528
   teiginys: "Livonijos karo metu Steponas Batoras rūpinosi Vilniaus universiteto, vadinamo mūzų prieglobsčiu, kūrimu."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "145649-146047; hash=c47a9aeb2c6b01019d3f23b2cab89d68e414301e2a87a2840e95d84b4e97f2d5; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "„aidint patrankoms, mūzos tyli“: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"„aidint patrankoms, mūzos tyli“\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-26749
 ## Reikšmingi paminėjimai
@@ -60,8 +50,8 @@ Sakoma: aidint patrankoms, mūzos tyli.
     Valerijonas Protasevičius – stengėsi užbėgti už akių protestantų ketini-
     mui įkurti kolegiją.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

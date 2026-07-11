@@ -46,16 +46,6 @@ Nenurodyta
 - t-004
   global_id: t-07816
   teiginys: "Kai kur Žemaičiuose lazda buvo minima kaip vyresnybės įsakymo ir paklusimo ženklas."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "98021-98335; hash=8b71044a99ac56e9f0af5363e7e14d654a3301c110955a51b9376eec19e15a22; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vyresnybės įsakymų skelbimas krivūle: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vyresnybės įsakymų skelbimas krivūle\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-09975
 
@@ -63,16 +53,6 @@ Nenurodyta
 - t-003
   global_id: t-07817
   teiginys: "Kūrėjų kūrėjas per žygovus skelbė įsakymus svietui lazda, vadinama krivūle."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "96935-97313; hash=e12b6707ea44f1d80835edbdfc9364c88eeccfeff6eb3bb9423fa01811d7ae20; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
-  ryšio_patikimumas: "susije_su -> kūrėjų kūrėjas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vyresnybės įsakymų skelbimas krivūle: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "kūrėjų kūrėjas: mention_match, thing, gap=67"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vyresnybės įsakymų skelbimas krivūle\" parinktas kaip owner_note_path. Targetas \"kūrėjų kūrėjas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-09976
 ## Reikšmingi paminėjimai
@@ -85,8 +65,8 @@ Nenurodyta
         vadina lietuvį skurczypalka^881 , nuo to, jog jis ne rašto, bet lazdos savo vyresnybės arba
         kūrėjų kūrėjo klausąs.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -100,8 +80,8 @@ Nenurodyta
         krivūle būk vadinamą, ir liepė ta lazda savo įsakymus svietui skelbti, kursai būdas skelbimo
         įsakymų vyresnybės lazda iki šios dienos užsiturėjo^879 kaip Kalne, taip ir Žemaičiuose.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

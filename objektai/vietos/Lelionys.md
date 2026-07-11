@@ -30,14 +30,6 @@ Lydos krašte, Rodūnios parapijoje, netoli vienas nuo kito yra du kaimai: Leliu
 - t-001
   global_id: t-194765
   teiginys: "Lydos krašte, Rodūnios parapijoje, netoli vienas nuo kito yra du kaimai: Leliušių (Lelusze) ir Lelionių (Lelaiice); taip pat Trakų apskrityje, ponų Gorskių dvare, yra Lelionių milžinka pis."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "179175-179508; hash=8cb68d6d0f7bb0d8a4a36fc0f39b869f0e96ed1ba8096dfabd4ca5b26a005628; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-177161
 ## Reikšmingi paminėjimai
@@ -54,8 +46,8 @@ Lydos krašte, Rodūnios parapijoje, netoli vienas nuo kito yra du kaimai: Leliu
     pis. Visa tai paaiškina dar mažai ištirtus Siaurės mitologijos mi­
     tus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -66,7 +58,8 @@ Lydos krašte, Rodūnios parapijoje, netoli vienas nuo kito yra du kaimai: Leliu
 - id: c-177161
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 101"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 101."
   citata_originali: |
     Vie­
     noje dainoje pastebėjau, kad gydytojų ir vaistų globėjas yra Lė­

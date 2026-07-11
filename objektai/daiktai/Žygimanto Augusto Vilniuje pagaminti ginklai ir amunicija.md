@@ -61,20 +61,6 @@ Nenurodyta
 - t-001
   global_id: t-87008
   teiginys: "Iki 1565 m. Žygimanto Augusto lėšomis Lietuvos Didžiojoje Kunigaikštystėje gaminti ginklai ir amunicija iš dalies liko Vilniuje."
-  semantiniai_rysiai: "Žygimanto Augusto Vilniuje pagaminti ginklai ir amunicija priklausė Lietuva (0.70)"
-  temporaliniai_duomenys: "įvykio data: iki 1565 m.; įvykio data: 1565 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata remia faktą apie ginklų ir amunicijos gamybą bei dalies palikimą Vilniuje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "617211-617992; hash=3b95585eca9aff2b310be61c1379613eeeaa1b683142737a2af827a16a0b48e3; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Lietuva: 0.70"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Žygimanto Augusto Vilniuje pagaminti ginklai ir amunicija: llm_allowed_candidate, thing"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Ginklai ir amunicija gaminti Lietuvos Didžiojoje Kunigaikštystėje; leidžiamas kandidatas yra Lietuva."
   pagrindžia:
     - c-82988
 
@@ -82,17 +68,6 @@ Nenurodyta
 - t-003
   global_id: t-87009
   teiginys: "Išvardyti pabūklai buvo naujai pagaminti ir išsiuntinėti Lietuvos provincijos tvirtovėms."
-  semantiniai_rysiai: "Žygimanto Augusto Vilniuje pagaminti ginklai ir amunicija priklausė Lietuva (0.63)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "620856-621701; hash=054979e2a24d6c32ee20703888c913bce0564b6920e11b5b2d260c1aab796dee; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Lietuva: 0.63"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Žygimanto Augusto Vilniuje pagaminti ginklai ir amunicija: llm_allowed_candidate, thing"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Išvardyti pabūklai apibūdinami Lietuvos provincijos tvirtovių kontekste, todėl siejami su Lietuva."
   pagrindžia:
     - c-82989
 
@@ -100,16 +75,6 @@ Nenurodyta
 - t-002
   global_id: t-87010
   teiginys: "Golembiovskio aprašyme keturios didžiosios akmenų patrankos vadintos Elgeta, Vytautu, Boba ir Augustu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "618599-619388; hash=3534522f5c8c9e8d31275ec1a71197cb1b4a4ed3649202cc283ce621e669729c; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Ginklai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žygimanto Augusto Vilniuje pagaminti ginklai ir amunicija: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Ginklai: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimanto Augusto Vilniuje pagaminti ginklai ir amunicija\" parinktas kaip owner_note_path. Targetas \"Ginklai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-82987
 ## Reikšmingi paminėjimai
@@ -140,8 +105,8 @@ Nenurodyta
     Elgeta
     Quos gemitus noster non flectit; fulmina flectent.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -171,8 +136,8 @@ Nenurodyta
     paimta iš tos pačios knygos, geriausiai visa tai paaiškina. Iš
     jos pateikiame tik bendrą sumą ir pilių pavadinimus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -198,8 +163,8 @@ Nenurodyta
     ir jų liejimo formas bei daugybę įrangos, reikalingos apka­
     sams daryti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -301,6 +266,3 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87009
-
-## Ryšiai
-- Žygimanto Augusto Vilniuje pagaminti ginklai ir amunicija priklausė [[objektai/vietos/Lietuva]]

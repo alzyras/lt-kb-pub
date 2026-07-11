@@ -39,21 +39,6 @@ Dytmaras buvo vokiečių istorikas ir penkių Saksonijos karalių valdymo kronik
 - t-001
   global_id: t-191639
   teiginys: "Dytmaras buvo vokiečių istorikas ir penkių Saksonijos karalių valdymo kronikos autorius."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "777651-777890; hash=a2b03bf38e1dcd6d09a1c5c060e0688d560d63ac627395a623f5b19a56e93089; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Saksonija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Dytmaras: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Saksonija: mention_match, place, gap=43"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dytmaras\" parinktas kaip owner_note_path. Targetas \"Saksonija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174521
 ## Reikšmingi paminėjimai
@@ -69,8 +54,8 @@ Dytmaras buvo vokiečių istorikas ir penkių Saksonijos karalių valdymo kronik
     1024), ¡penkių Saksonijos karalių valdymo kro­
     nikos autorius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -81,7 +66,8 @@ Dytmaras buvo vokiečių istorikas ir penkių Saksonijos karalių valdymo kronik
 - id: c-174521
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 429"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 429."
   citata_originali: |
     Sakinys, kuriuo T. Narbutas papildė paragra­
     fą, rengdamas antrąjį leidimą (PEĮ. P. 378—

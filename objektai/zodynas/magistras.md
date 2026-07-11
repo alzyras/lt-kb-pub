@@ -41,16 +41,6 @@ Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašali
 - t-001
   global_id: t-175181
   teiginys: "Po nesėkmingo Ordino žygio magistras buvo paskelbtas pamišėliu ir pašalintas iš pareigų."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "171692-172004; hash=5e306c1d412f732b86fc21b4c64264ed1a800395b0618803af06a3c29a56748b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "magistras: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"magistras\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-159335
 
@@ -58,16 +48,6 @@ Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašali
 - t-001
   global_id: t-175181
   teiginys: "Po nesėkmingo Ordino žygio magistras buvo paskelbtas pamišėliu ir pašalintas iš pareigų."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "171692-172004; hash=5e306c1d412f732b86fc21b4c64264ed1a800395b0618803af06a3c29a56748b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "magistras: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"magistras\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-159335
 
@@ -75,14 +55,6 @@ Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašali
 - t-003
   global_id: t-193151
   teiginys: "Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašalintas iš vietos."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "171692-172004; hash=5e306c1d412f732b86fc21b4c64264ed1a800395b0618803af06a3c29a56748b; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-159335
 
@@ -90,12 +62,6 @@ Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašali
 - t-004
   global_id: t-193382
   teiginys: "Dėl to visi pradėjo atvirai niekinti senuosius magistrų, maršalų, komtūrų titulus ir galvoti apie valstybinės santvarkos pakei timą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1153200-1153861; hash=9b4feeb2f229e30c5c05542c2d4d38d58b90ed23d497d7dea706b9c454943268; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176107
 - susijęs iš [[objektai/asmenys/Andriejus (Polocko kunigaikštis).md#claim-t-35024|Andriejus (Polocko kunigaikštis)]]: Polocko kunigaikštis Andriejus kartu su Ordino magistru Zöllneriu surengė žygį į Lietuvą Jogailos krikštynų ir vestuvių proga.
@@ -848,8 +814,8 @@ Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašali
     čiu. Viso nepasisekimo kaltininkas, magistras, buvo paskelb-
     tas pamišėliu ir pašalintas iš vietos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -884,8 +850,8 @@ Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašali
     titulus ir galvoti apie valstybinės santvarkos pakei­
     timą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -917,7 +883,8 @@ Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašali
 - id: c-176107
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 647"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 647."
   citata_originali: |
     Susitarė dėl ketverių
     metų paliaubų, o per tą lai-

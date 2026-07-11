@@ -42,16 +42,6 @@ Pašuto : Obrazovanie litovskogo gosudarstva (išl. Pašuto, V.
 - t-002
   global_id: t-31046
   teiginys: "V. T. Pašuto parašė darbą „Choziajstvo i technika srednevekovoj Litvy“."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "394471-394827; hash=cdafb3f435be29ab957ad6ce11e1f9a9fb8a44d347f716e9236c3aaa52f7b0e3; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Krokuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "V. T. Pašuto: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Krokuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"V. T. Pašuto\" parinktas kaip owner_note_path. Targetas \"Krokuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-33180
 
@@ -59,16 +49,6 @@ Pašuto : Obrazovanie litovskogo gosudarstva (išl. Pašuto, V.
 - t-001
   global_id: t-31047
   teiginys: "V. T. Pašuto parašė veikalą „Obrazovanie litovskogo gosudarstva“, kurio lietuviškas vertimas išėjo pavadinimu „Lietuvos valstybės susidarymas“."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "242279-243083; hash=4ff67c66f3b92c94583165c64eb2b5c0c42da518e6b00763c02432ac07b37056; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kijevas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "V. T. Pašuto: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Kijevas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"V. T. Pašuto\" parinktas kaip owner_note_path. Targetas \"Kijevas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-33181
 - susijęs iš Pašuto, V. T. Očerki po istorii Galicko-Volynskoj Rusi: V. T. Pašuto „Očerki po istorii Galicko-Volynskoj Rusi“ išleista 1950 m. Maskvoje.
@@ -93,8 +73,8 @@ Pašuto : Obrazovanie litovskogo gosudarstva (išl. Pašuto, V.
     t. 21, 1966, 127-142 p. — Stankus, J. : _Geležinių įrankių gamybos
     technologija Lietuvoje IX-XIII amžiais_ , AkMD, t. 32, sąs.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -115,8 +95,8 @@ Pašuto : Obrazovanie litovskogo gosudarstva (išl. Pašuto, V.
     69-71 p.**
     (^136) **N. I. Daškevič :** **_Političeskije zamyśli Vitovta,_** **Kiivskije Universitets-**
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

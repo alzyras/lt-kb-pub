@@ -48,21 +48,6 @@ Nenurodyta
 - t-001
   global_id: t-185548
   teiginys: "Gruodžio 2 d. Boleslovas pralaimėjo Lietuvoje, kurią buvo užpuolęs su keturiasdešimties tūkstančių kariuomene prie Ašmenos."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "782080-782656; hash=61ebe8f8206a5c373899d7bbe3ca4f156bd6e1384f68d63de8820ef509732e82; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Lietuva: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Boleslovas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekste tiesiogiai sakoma, kad Boleslovas užpuolė Lietuvą."
-  vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-168909
 
@@ -70,20 +55,6 @@ Nenurodyta
 - t-002
   global_id: t-185549
   teiginys: "Po pergalės Žygimantas Kęstutaitis patraukė į Livoniją, nes gavo žinių, kad Livonijos riteriai padėjo Boleslovui."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.) keliavo į Livonija (0.89)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "783465-784431; hash=0e1508262f02bd8e01edc42046e5d9b626233f1fbe3ff561965e19996a87f5a3; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Livonija: 0.89"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Livonija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Žygimantas patraukė į Livoniją."
   pagrindžia:
     - c-168910
 ## Reikšmingi paminėjimai
@@ -108,8 +79,8 @@ Nenurodyta
     čio Boriso brolio. Pagal slaptą susitarimą Livonija at­
     siuntė į pagalbą kelis būrius vokiečių.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -143,8 +114,8 @@ Nenurodyta
     šalį, ir kariai, kurie džiaugėsi dėl didelio grobio, ir va­
     das, atkeršijęs už skriaudas, sugrįžo žiemoti į Lietuvą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -155,7 +126,8 @@ Nenurodyta
 - id: c-168909
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 445"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 445."
   citata_originali: |
     Neilgai trukus, tai yra gruodžio 2 d., Boleslovas
     pralaimėjo Lietuvoje, kurią buvo užpuolęs su keturias­
@@ -182,7 +154,8 @@ Nenurodyta
 - id: c-168910
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 446"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 446."
   citata_originali: |
     Kai
     pasklido kalbos, jog Jurgis

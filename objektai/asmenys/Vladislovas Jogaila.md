@@ -41,17 +41,6 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
 - t-007
   global_id: t-173225
   teiginys: "Jogaila sutelkė nemažas pajėgas ir, turėdamas ryšių su Vilniaus miestiečiais, nusprendė užimti Vilnių ir Trakus."
-  semantiniai_rysiai: "Vladislovas Jogaila užėmė Vilnius (0.66); Vladislovas Jogaila užėmė Trakai (0.66)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "103595-103956; hash=f690e700ed43ea8608653f29230801694e98db191875394d7dc02dd9d8145d9c; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Trakai: 0.66"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vladislovas Jogaila: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo Jogailos sprendimą užimti Trakus, nors tai dar tik ketinimas."
   pagrindžia:
     - c-157575
 
@@ -59,16 +48,6 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
 - t-009
   global_id: t-173226
   teiginys: "Vladislovas Jogaila pirmuoju Vilniaus diecezijos vyskupu išrinko Andrių iš Vasilevo Važilą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "241827-242393; hash=b089b39a3e3b3df9d15b09e76c695f59ee3d4317569f310457d239533a607c1d; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vladislovas Jogaila: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=12"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vladislovas Jogaila\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-157562
 
@@ -76,16 +55,6 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
 - t-017
   global_id: t-173227
   teiginys: "Jogaila Vilniaus seniūno pareigas pavedė Jonui Olesnickiui, kuris sustiprino abiejų pilių įgulas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "284741-285249; hash=3baed0ff303eb0143defe4454ca03684047a258e157588728ad5541f54bba42b; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vladislovas Jogaila: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=8"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vladislovas Jogaila\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-157570
 
@@ -93,19 +62,6 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
 - t-020
   global_id: t-173228
   teiginys: "1397 m. Vladislovas Jogaila ir Vytautas Vilniaus vyskupui Andriui laidavo dviejų šimtų markių metines pajamas."
-  temporaliniai_duomenys: "įvykio data: 1397 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatos faktą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "309616-310238; hash=db27aa5e847e2effaf2390f691dd02f9a0094aec4fc593cde09d8e89ed9dd977; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vladislovas Jogaila: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=12"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vladislovas Jogaila\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-157561
 
@@ -113,20 +69,6 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
 - t-021
   global_id: t-173229
   teiginys: "1401 m. Vladislovas Jogaila iš Vytauto gavo aktą, kad po Vytauto mirties Lietuva ir Rusia pereis karaliaus valdžion."
-  semantiniai_rysiai: "Vladislovas Jogaila valdė Lietuva (0.72)"
-  temporaliniai_duomenys: "įvykio data: 1401 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus ir paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "321692-322289; hash=1d00dbb4a2a019b2b119517b8d27e30f08ff2459597777d723033ffe77240484; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde -> Lietuva: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vladislovas Jogaila: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata mini Jogailos aukščiausiąją valdžią Lietuvoje, nors konkrečiai kalbama apie jos patikėjimą Vytautui."
   pagrindžia:
     - c-157568
 
@@ -134,16 +76,6 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
 - t-023
   global_id: t-173232
   teiginys: "Beginklis Jogaila su visa palyda buvo įkalintas pilyje ir saugomas daugybės kareivių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "426718-427136; hash=4fdaef3542b67b4a3572b181cce74d614910614d72c025b836a1b99738386043; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vladislovas Jogaila: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vladislovas Jogaila\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-157555
 
@@ -151,17 +83,6 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
 - t-018
   global_id: t-173235
   teiginys: "Vladislovas Jogaila paveldėjimo teise vėl suteikė Panerius katedrai ir Vilniaus kapitulai."
-  semantiniai_rysiai: "Paneriai priklausė Vilniaus kapitula (0.78)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "285087-285646; hash=4a4683fba5d00664557936cbfba79c3025f1229905f2c39124902f1b551bc539; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Vilniaus kapitula: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Paneriai: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Vilniaus kapitula: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Paneriai perduoti Vilniaus kapitulai paveldėjimo teise, todėl galima fiksuoti priklausymo ryšį."
   pagrindžia:
     - c-157577
 
@@ -169,16 +90,6 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
 - t-026
   global_id: t-173236
   teiginys: "Pagal Vladislovo Jogailos potvarkį Vilniaus sargyba ir policija laikinai priklausė pilies tarnybai."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "519783-520351; hash=8ee1716acb0f3290e7fa2fe2accd8dd9e341f8ee51843911036a24e6436e6ceb; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vladislovas Jogaila: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=29"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vladislovas Jogaila\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-157558
 
@@ -186,16 +97,6 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
 - t-024
   global_id: t-173237
   teiginys: "Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starodubo kunigaikštį Žygimantą Kęstutaitį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "435703-436403; hash=891c0c06e733b6bc051368dc2eac30380c7292f4e8a41661d36f8774a781a9a5; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jogaila (Lenkijos karalius, 1382 m.): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vladislovas Jogaila: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Jogaila (Lenkijos karalius, 1382 m.): mention_match, person, gap=12"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vladislovas Jogaila\" parinktas kaip owner_note_path. Targetas \"Jogaila (Lenkijos karalius, 1382 m.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-157569
 
@@ -203,16 +104,6 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
 - t-015
   global_id: t-173238
   teiginys: "Karalius Vladislovas ir karalienė Jadvyga prašė pripažinti Vilnių miestu, o Šv. Stanislovo bažnyčią - katedra."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "255520-256164; hash=702e4679605b534bac0abe583c310f402380f1c9f653f3664bcb309a9ad50ef1; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jadvyga: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vladislovas Jogaila: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Jadvyga: mention_match, person, gap=25"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vladislovas Jogaila\" parinktas kaip owner_note_path. Targetas \"Jadvyga\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-157560
 
@@ -220,16 +111,6 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
 - t-010
   global_id: t-173239
   teiginys: "Vladislovas Jogaila katedrai ir vyskupams skyrė nemažą Vilniaus miesto dalį nuo pilies iki Šv. Mikalojaus kapinių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "243575-243978; hash=ca7a5ff24e8491a26a255182aa424195bc693a87f2c07c7563ec7942fc60d15b; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vladislovas Jogaila: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=12"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vladislovas Jogaila\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-157573
 
@@ -237,17 +118,6 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
 - t-005
   global_id: t-173240
   teiginys: "Siekdamas didelės valdžios, Jogaila pirmiausia sutelkė jėgas nusikratyti dėde Kęstučiu."
-  semantiniai_rysiai: "Vladislovas Jogaila buvo priešas Kęstutis (vakarų pasienio valdovas, XIV–XV a.) (0.84)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "95423-96071; hash=c714bad0f2cf637eb357f261bb1039e14c0e925e3f14c49fb433457ac5ff5e0a; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_priesas -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.84"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vladislovas Jogaila: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Jogaila siekė nusikratyti Kęstučiu, todėl tekstas tiesiogiai rodo politinį priešiškumą."
   pagrindžia:
     - c-157574
 
@@ -255,17 +125,6 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
 - t-008
   global_id: t-173241
   teiginys: "Jogaila siekė Lenkijos sosto ir sumanė sukurti naują galingą valstybę Šiaurės Europoje."
-  semantiniai_rysiai: "Vladislovas Jogaila buvo priešas Kryžiuočių ordinas (0.82)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "112375-113334; hash=af9a54ec5b593d878bd1e5bde48600a5ae87ca0c11fc4494f670547c9aee616e; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_priesas -> Kryžiuočių ordinas: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vladislovas Jogaila: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Kryžiuočiai įvardyti kaip Lietuvos priešai Jogailos politinių užmojų kontekste."
   pagrindžia:
     - c-157565
 
@@ -273,20 +132,6 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
 - t-006
   global_id: t-173242
   teiginys: "Bajoras Vaidila patarimais ir įtaka rėmė Jogailos siekius, o 1380 m. Prūsijoje ruošė dirvą slaptam sandėriui."
-  semantiniai_rysiai: "Vladislovas Jogaila buvo priešas Kęstutis (vakarų pasienio valdovas, XIV–XV a.) (0.78)"
-  temporaliniai_duomenys: "įvykio data: 1380 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata leidžia papildyti svarbiu konkrečiu Vaidilos veiksmu, išlaikant faktinį pagrindą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "97265-97825; hash=4ff06656b843e73404ecd646a33eadd673ab25c5e92a880a5e7637a0462cd3c5; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_priesas -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vladislovas Jogaila: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Slaptas sandėris turėjo palengvinti Kęstučio valdų puolimą, todėl Jogaila čia siejamas su priešiškumu Kęstučiui."
   pagrindžia:
     - c-157578
 
@@ -294,17 +139,6 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
 - t-013
   global_id: t-173243
   teiginys: "Vladislovas Jogaila aplankė Lietuvą diegdamas naujo tikėjimo nuostatus ir, numaldęs bruzdėjimus Baltojoje Rusioje, grįžo į Vilnių."
-  semantiniai_rysiai: "Vladislovas Jogaila paskyrė Skirgaila (0.94); Vladislovas Jogaila keliavo į Lietuva (0.92); Vladislovas Jogaila keliavo į Vilnius (0.92)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "251135-251768; hash=6f217e2f49399c47cf26a51b6c846d0d3d8b9e81606c60ddab627dd3a1d32dc9; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "paskyre -> Skirgaila: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vladislovas Jogaila: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Skirgaila: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Jogaila tiesiogiai paskyrė Skirgailą savo vietininku."
   pagrindžia:
     - c-157556
 
@@ -312,20 +146,6 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
 - t-003
   global_id: t-173244
   teiginys: "1390 m. Vladislovas Jogaila Vilniaus kapitulai suteikė privilegiją, kuria dovanojo Panerius."
-  semantiniai_rysiai: "Vladislovas Jogaila valdė Lietuva (0.78)"
-  temporaliniai_duomenys: "įvykio data: 1390 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata tiesiogiai palaiko privilegijos faktą; pašalintas lotyniškas fragmentas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "56936-57581; hash=15ca41475c00ed1b299cc12b93867ec9f42848ddbf0ffb589fe63115deb79333; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde -> Lietuva: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vladislovas Jogaila: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citatoje nurodomas Jogailos valdymo laikas Lietuvos kontekste."
   pagrindžia:
     - c-157564
 
@@ -333,17 +153,6 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
 - t-014
   global_id: t-173245
   teiginys: "Vladislovas Jogaila nepasitikėjo Vytautu ir negrąžino jam nei Lietuvos valdymo, nei po Kęstučio mirties priklausiusio paveldo."
-  semantiniai_rysiai: "Vladislovas Jogaila valdė Lietuva (0.68)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "253367-253995; hash=8aeeae0013a42a785f118991b7fce285ee3ffbea09a820fff293230daa82b7ca; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde -> Lietuva: 0.68"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vladislovas Jogaila: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas rodo, kad Lietuvos valdymo grąžinimas priklausė Jogailos sprendimui."
   pagrindžia:
     - c-157563
 
@@ -351,16 +160,6 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
 - t-002
   global_id: t-173246
   teiginys: "Jogailos laikais Lietuvos krikštas ir sąjunga su Lenkija nesuteikė Vilniaus miestiečiams palankaus meto įgyti daugiau laisvių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "44563-45025; hash=69422056e9992d480591db8d4d033866bdb4e4549c50d922c238142f74e94100; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vladislovas Jogaila: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=49"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vladislovas Jogaila\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-157571
 
@@ -368,16 +167,6 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
 - t-011
   global_id: t-173247
   teiginys: "Vladislovas Jogaila Vilniuje įsakė statyti Šv. Martyno ir Šv. Jono bažnyčias."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "246091-246589; hash=dd8cc3c49ca672c49279042fbc7e1e4a71f98ba2c2b527ef7f3575bfd6619db7; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Martynas iš Golino: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vladislovas Jogaila: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Martynas iš Golino: mention_match, person, gap=47"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vladislovas Jogaila\" parinktas kaip owner_note_path. Targetas \"Martynas iš Golino\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-157559
 
@@ -385,17 +174,6 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
 - t-012
   global_id: t-173248
   teiginys: "Vladislovas Jogaila Merkinėje rašytu iškilmingu aktu suteikė Vilniui Magdeburgo teises."
-  semantiniai_rysiai: "Vladislovas Jogaila valdė miestą Vilnius (0.70); Vladislovas Jogaila keliavo į Merkinė (0.61)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "248181-248822; hash=11966fb8a51028e6aa41ebd9a2b4125d40c01e68760b69c3fba3d09c26db6ae6; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde_miesta -> Vilnius: 0.70"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vladislovas Jogaila: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Jogaila kaip valdovas suteikė Vilniui Magdeburgo teises."
   pagrindžia:
     - c-157572
 
@@ -403,17 +181,6 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
 - t-004
   global_id: t-173249
   teiginys: "Algirdui užleidus sostą, jo sūnus Jogaila dar tėvui gyvam esant perėmė aukščiausiąją Lietuvos valdžią."
-  semantiniai_rysiai: "Vladislovas Jogaila buvo sūnus Algirdas (Lietuvos valdovas) (0.95); Vladislovas Jogaila valdė Lietuva (0.94)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "94361-95184; hash=03a9c61c3ef409abde32a969efb1b766a8052ff72818a5482878fc888ce77578; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sunus -> Algirdas (Lietuvos valdovas): 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vladislovas Jogaila: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Jogaila tiesiogiai įvardytas Algirdo sūnumi."
   pagrindžia:
     - c-157579
 
@@ -421,20 +188,6 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
 - t-016
   global_id: t-173250
   teiginys: "1390 m. lapkritį Vladislovas Jogaila su gausia kariuomene parvyko iš Lenkijos į griuvėsiais virtusį Vilnių."
-  semantiniai_rysiai: "Vladislovas Jogaila keliavo į Vilnius (0.93)"
-  temporaliniai_duomenys: "įvykio data: 1390 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys nurodo laiką, veikėją ir veiksmą pagal citatą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "284073-284740; hash=1735418339289db1b33a9f2018400ad5ff1afa4763c7cfbbb0ef47c836e5f3a6; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Vilnius: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vladislovas Jogaila: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo, kad Vladislovas Jogaila parvyko į Vilnių."
   pagrindžia:
     - c-157557
 
@@ -442,12 +195,6 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
 - t-027
   global_id: t-194243
   teiginys: "Mažai težinoma mums patiems, o Europai visai negirdė ta, istorija, garsi riterių žygiais ir išmintingiausia Mindaugo, Ge dimino, Algirdo, Kęstučio, Jogailos ir Vytauto politika, istorija menkame plote išsitenkančios Tautos, kuri pati viena, savosios pagonybės."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "26701-28139; hash=c0b098f5b00de528c9f5f03b8eea51a3dc442b34c962d0cf0859dfc4ab2a1950; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176839
 
@@ -455,12 +202,6 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
 - t-028
   global_id: t-194244
   teiginys: "Ir po metų, mirus tėvui, Vladislovas Varnietis nesipriešino, kad Žygimantui būtų patvirtintos teisės ir privilegijos į Didžią ją Kunigaikštystę24."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "448690-449236; hash=4d2fff4c151d0624ee0f339ab4cfba3afc88112939646cffc1b839004707cd2e; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176840
 - susijęs iš Lietuva: Pirmosios Lietuvoje suteiktos teisės būtų pagerinusios miesto būklę, jei šalyje nebūtų kilęs vidaus karas.
@@ -536,8 +277,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     tęsė, apie tai pasklido žinia ne tik Lenkijoje, bet ir tolesnėse
     šalyse.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -559,8 +300,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     gaila išleido savo seserį Aleksandrą, ir Jonušo, vyresniojo
     Mazovijos kunigaikščio, kuris vedė Vytauto seserį Oną.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -588,8 +329,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     radusiems gyventojams, o karaliaus buvimas stiprino tie­
     kos negandų nualintą jų dvasią.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -610,8 +351,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     tinės ginkluotės sargybinius, kad tvarkos mieste būtų žiūri­
     ma dieną ir naktį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -631,8 +372,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     je buvo lemta tapti garsia Vilniaus aukščiausiosios mokslo
     įstaigos bažnyčia14.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -654,8 +395,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     tu, o bažnyčia, pastatyta ant pagonių šventyklos griuvėsių,
     šv. Stanislovo garbei, iškilmingai pripažinta katedra.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -681,8 +422,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     markių metines pajamas - šimtą iki gyvos galvos, o kitą
     šimtą, kol neįsigalės taika tarp Lietuvos ir kryžiuočių59.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -704,8 +445,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     tos nuodėmklausį, pavyzdingą vyrą ir garsų pamokslinin­
     ką9.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -727,8 +468,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     tuvos valdymo, bet ir paveldo, po Kęstučio mirties priklau­
     sančio, negrąžino.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -761,8 +502,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     situati [aukštutinėje dalyje mūsų už­
     kardos, Vigilijos upėje esančios].
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -794,8 +535,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     kėti, kad būtų kalbama apie tiltą per
     Viliją.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -816,8 +557,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     Rusia, ištisai visa, pereisianti karaliaus valdžion ir būsianti pri­
     jungta prie Lenkijos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -841,8 +582,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     didikus - Rumbautą ir Goštautą - išlaisvino ir atsiuntė jam
     į Vilnių13.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -862,8 +603,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     apeita, mat tuo metu jis išties stengėsi visokiais būdais už­
     glaistyti dar šviežius krašto niokojimo pėdsakus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -882,8 +623,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     laisvių. Be to, Rusios miestai, būtent Pskovas ir Didysis Naugar-
     das, atsidūrė kitokiose aplinkybėse.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -911,8 +652,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     rašytu Merkinėje, kitą dieną po Šv. Benedikto, abato, šven­
     tės, valdovas Vilniui suteikė Magdeburgo teises15.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -931,8 +672,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     o kitoje pusėje - ligi Trakų kelio, dovanodamas ten ir
     aikštes, ir namus, net su gyventojais11.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -958,8 +699,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     dindavo trumpumo dėlei -Jagiełło, o
     lotyniškai - jagelo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -978,8 +719,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     nusprendė užimti Vilnių ir Trakus. Hanulas, arba Hanka32,
     užmuš, o mūsų kraštą užvaldys.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1003,8 +744,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     po poros metų, po karaliaus ir Vy­
     tauto sudarytos sutarties.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1025,8 +766,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     dėrį su arkikomtūru, siekiant užsitikrinti saugumą nuo kry­
     žiuočių ir palengvinti jiems Kęstučio valdų puolimą28.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1061,8 +802,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     visuomenės pamatai, kurią tinkamai išlaikyti gebėjo Gedi­
     minas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1105,8 +846,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     kia detaliai išnarplioti atskirų šios šalies miestų, būtent jos sos­
     tinės, istoriją.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1127,8 +868,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     Žygimantui būtų patvirtintos teisės ir privilegijos į Didžią­
     ją Kunigaikštystę24.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1751,10 +1492,7 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - Broliai: [[objektai/asmenys/Skirgaila]]
-- Priešai: [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]], [[objektai/grupes/Kryžiuočių ordinas]]
-- Vladislovas Jogaila valdė [[objektai/vietos/Lietuva]], [[objektai/vietos/Vilnius]]
-- Vladislovas Jogaila keliavo į [[objektai/vietos/Lietuva]], [[objektai/vietos/Merkinė]], [[objektai/vietos/Vilnius]]
-- Vladislovas Jogaila pastatė [[objektai/vietos/Vilnius]]
-- Vladislovas Jogaila užėmė [[objektai/vietos/Trakai]], [[objektai/vietos/Vilnius]]
+- Vladislovas Jogaila valdė [[objektai/vietos/Lietuva]]
+- Vladislovas Jogaila keliavo į [[objektai/vietos/Lietuva]], [[objektai/vietos/Vilnius]]
 - Vladislovas Jogaila siuntė į [[objektai/vietos/Konstanca]], [[objektai/vietos/Lietuva]]
 - Vladislovas Jogaila paskyrė [[objektai/asmenys/Skirgaila]]

@@ -46,19 +46,6 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
 - t-002
   global_id: t-92733
   teiginys: "Algirdas ir Maskvos kunigaikščiai tapo nesutaikomais priešais."
-  semantiniai_rysiai: "Algirdas (Lietuvos valdovas) buvo priešas Maskvos kunigaikštystė (0.88)"
-  temporaliniai_duomenys: "įvykio data: 1349 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "726895-727286; hash=237cceed8fc6462acb6edde5be37739aab1efbf37fe8819e11ad9a1c11cec4d4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_priesas -> Maskvos kunigaikštystė: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Maskvos kunigaikštystė: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai įvardija Algirdą ir Maskvos kunigaikščius priešais."
   pagrindžia:
     - c-88239
 
@@ -66,19 +53,6 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
 - t-003
   global_id: t-92734
   teiginys: "Didžioji Maskvos kunigaikštija nerodė atsparumo Vytautui, nes nuo 1425 m. joje viešpatavo Vytauto globojamas anūkas Vosylius."
-  temporaliniai_duomenys: "įvykio data: po 1425 m.; įvykio data: 1425 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Reikia aiškesnės, enciklopediškos formuluotės."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "689184-689626; hash=7cefa2c109c52bd45a626af75383f8908738103673ea5b5e0eea06d0f7435a66; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Maskva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Maskvos kunigaikštystė: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Maskva: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskvos kunigaikštystė\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-36919
 
@@ -86,20 +60,6 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
 - t-005
   global_id: t-92739
   teiginys: "1430 m. į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius, vadintas Akluoju."
-  semantiniai_rysiai: "Maskvos kunigaikštystė keliavo į Trakai (0.62); Maskvos kunigaikštystė keliavo į Vilnius (0.62)"
-  temporaliniai_duomenys: "kelionės data: 1430 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Maskvos kunigaikštystė keliavo į Maskva“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus ir paremtas citata apie Maskvos didžiojo kunigaikščio atvykimą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "351965-352856; hash=b92ba3b5f43012a23479f27a2e5a4847711f71445c63afa98790dd15373f8055; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Trakai: 0.62"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Maskvos kunigaikštystė: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Maskvos didysis kunigaikštis atvyko į Trakus, bet asmens kandidato nėra, todėl siejama su jo atstovaujama kunigaikštyste."
   pagrindžia:
     - c-88237
 
@@ -107,16 +67,6 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
 - t-001
   global_id: t-92736
   teiginys: "Maskvos kunigaikščiams stiprėjant, politinė padėtis pamažu keitėsi Lietuvos nenaudai."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "726637-727093; hash=f3ec8b2b85fffc5ed960b57e70a8364277ebc515ee0e28a533f247276ee45bde; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Maskvos kunigaikštystė: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=67"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskvos kunigaikštystė\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-88234
     - c-88235
@@ -125,16 +75,6 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
 - t-004
   global_id: t-92737
   teiginys: "Rusų kronikos teigė, kad Vytautas su Tochtamyšu sutarė užimti Didžiąją Maskvos kunigaikštiją ir valdyti visą Rusią."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "690944-691433; hash=1884bf1ca2031c6fc38321c138cb1510b67efd4a6b1a8566bcb4f5af13e9e168; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Maskva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Maskvos kunigaikštystė: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Maskva: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskvos kunigaikštystė\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-36920
 
@@ -142,16 +82,6 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
 - t-008
   global_id: t-92738
   teiginys: "Rusų kronikos Vytautui priskyrė siekį, padėjus Tochtamyšui tapti chanu, pačiam įsitvirtinti Didžiojoje Maskvos kunigaikštystėje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "690770-691231; hash=4cc3b69fb73c407160add71562fa116bf9d064da63ef9d7e7316e080c0a7a563; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Maskva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Maskvos kunigaikštystė: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Maskva: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskvos kunigaikštystė\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-88236
 
@@ -159,20 +89,6 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
 - t-005
   global_id: t-92739
   teiginys: "1430 m. į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius, vadintas Akluoju."
-  semantiniai_rysiai: "Maskvos kunigaikštystė keliavo į Trakai (0.62); Maskvos kunigaikštystė keliavo į Vilnius (0.62)"
-  temporaliniai_duomenys: "kelionės data: 1430 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Maskvos kunigaikštystė keliavo į Maskva“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus ir paremtas citata apie Maskvos didžiojo kunigaikščio atvykimą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "351965-352856; hash=b92ba3b5f43012a23479f27a2e5a4847711f71445c63afa98790dd15373f8055; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Trakai: 0.62"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Maskvos kunigaikštystė: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Maskvos didysis kunigaikštis atvyko į Trakus, bet asmens kandidato nėra, todėl siejama su jo atstovaujama kunigaikštyste."
   pagrindžia:
     - c-88237
 
@@ -180,19 +96,6 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
 - t-007
   global_id: t-92740
   teiginys: "Didžioji Maskvos kunigaikštija nerodė atsparumo Vytautui, nes nuo 1425 m. joje viešpatavo Vytauto globojamas anūkas Vosylius."
-  temporaliniai_duomenys: "įvykio data: po 1425 m.; įvykio data: 1425 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Reikia sutrumpinti ir pataisyti žodžių tvarką."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "689074-689450; hash=20f69e2ecc485261dcfd806e7f678c18e480737ba5399fcb798c07017aa6536b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Maskva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Maskvos kunigaikštystė: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Maskva: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskvos kunigaikštystė\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-88238
 
@@ -200,14 +103,6 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
 - t-009
   global_id: t-193118
   teiginys: "Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "424185-424591; hash=3eb6688bd231fc7d81be57733c8725a1bc46f9b787b83107b5911d8b97bcd1cf; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-175878
 ## Reikšmingi paminėjimai
@@ -226,8 +121,8 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
     agento Hennės, pranešimas apie triumfatorišką Vytauto kelionę
     — ekspediciją savo valstybės rytiniu pakraščiu 1427 met.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -247,8 +142,8 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
     žuvo visa jo armija, o jo valstybę užplūdę totoriai pasiekė net
     Kijevą^3 ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -266,8 +161,8 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
     viams »^14.
     Tad Algirdas ir Maskvos kunigaikščiai tapo nesutaikomi priešai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -286,8 +181,8 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
     nurodęs aiškų kelią surinkti savo valdžion visą susiskaldžiusią
     Rusią.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -307,8 +202,8 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
     samprotavimo priskyrimas būtų anachronizmas, bet esmėje jis
     yra teisingas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -337,8 +232,8 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
     gaila ir todėl dedąs viltis, jog čekų
     eretikai būsią šiek tiek apmalšinti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -356,8 +251,8 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
     nuo 1425 metų Vytauto globojamas jo anūkas, dukters Sofijos
     sūnus Vosylius, atsparumo nerodė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -375,8 +270,8 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
     Algirdo valdymo pradžioje, kai jis, norėdamas sulaužyti Maskvos
     jėgą, nutarė susiartinti su totorių chanu ir siuntė pas jį 1349 m.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -395,8 +290,8 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
     mokėti po 15.000 dukatų, ir Maskvai nuolat grėsė iš jų pusės
     pavojus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -605,7 +500,3 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193118
-
-## Ryšiai
-- Priešai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- Maskvos kunigaikštystė keliavo į [[objektai/vietos/Trakai]], [[objektai/vietos/Vilnius]]

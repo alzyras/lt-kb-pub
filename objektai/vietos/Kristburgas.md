@@ -43,17 +43,6 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
 - t-012
   global_id: t-90720
   teiginys: "Pastačius Kristburgo pilį, naujakrikščiai ir Sventopelkas nutarė ją sunaikinti."
-  semantiniai_rysiai: "Sventopelkas puolė Kristburgas (0.76)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "332313-332810; hash=fbb208345cd653578af9ec568554afd6cd0b63f355f3ac054dea82f8d93e97a3; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Kristburgas: 0.76"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Sventopelkas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kristburgas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Sventopelkas nurodytas tarp tų, kurie nutarė sunaikinti Kristburgo pilį."
   pagrindžia:
     - c-86505
 
@@ -61,19 +50,6 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
 - t-010
   global_id: t-90721
   teiginys: "1324 m. Kristburgo pilyje račiaus Andriaus vaišėse iš aluje dažytos duonos pradėjo varvėti kraujo lašai."
-  temporaliniai_duomenys: "įvykio data: 1324 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Ilgas fragmentas sutrumpintas ir pašalintas antraštės triukšmas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "743643-744094; hash=9dbd054e39994eea831d5b96cb4a2d0ba8e046d5dad58df6a2874f6fead9d310; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Duona: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kristburgas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Duona: mention_match, thing, gap=60"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kristburgas\" parinktas kaip owner_note_path. Targetas \"Duona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-86506
 
@@ -81,16 +57,6 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
 - t-002
   global_id: t-90722
   teiginys: "Ordino broliai pastatė Kristburgo pilį naujoje vietoje, išlaikė jos vardą ir įkurdino joje daug karių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "329854-330479; hash=bfd61efec2ac3c8cda92db6ee1a4ab187840c4388f040eee6d7420ad2d9b3eba; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžius: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kristburgas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kryžius: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kristburgas\" parinktas kaip owner_note_path. Targetas \"Kryžius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-86499
 
@@ -98,16 +64,6 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
 - t-008
   global_id: t-90723
   teiginys: "Gundramo išvaduotos moterys sakė mačiusios du baltus balandžius virš jo palaikų, gabenamų į Kristburgo pilį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "608604-609396; hash=891a8e8c18aca9d3f954e6645cb5c8c9150e51c2e8670dda74e3fd219ce69488; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Baltai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kristburgas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Baltai: mention_match, group, gap=46"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kristburgas\" parinktas kaip owner_note_path. Targetas \"Baltai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-86508
 
@@ -115,16 +71,6 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
 - t-001
   global_id: t-90724
   teiginys: "Magistras Henrikas Kalėdų išvakarėse užėmė pamedėnų pilį vietoje, kuri vėliau vadinta Senuoju Kristburgu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "322611-323546; hash=7fa9d963d60f36c78894c10ed560cf32c638a0389ae264199b6389dd7f55247f; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Pamedėnai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kristburgas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Pamedėnai: mention_match, group, gap=51"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kristburgas\" parinktas kaip owner_note_path. Targetas \"Pamedėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-86498
 
@@ -132,17 +78,6 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
 - t-009
   global_id: t-90725
   teiginys: "Kristburgo broliai pasivijo vieną iš Lubavos žemę nusiaubusių lietuvių būrių, nukovė 15 lietuvių ir atėmė 50 krikščionių."
-  semantiniai_rysiai: "Lietuviai puolė Lubava (0.82)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "615540-616105; hash=f931e0c907248a1d5822b2673cb205f0e279435120e24bd83b0af0a0b1d3b0dd; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Lubava: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lubava: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Lietuvių plėšikautojai įsibrovė į Lubavos žemę ir ją niokojo."
   pagrindžia:
     - c-167553
 
@@ -150,20 +85,6 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
 - t-007
   global_id: t-90726
   teiginys: "1302 m. brolis Gundramas persekiojo lietuvių plėšikautojus, kurie Kristburgo pilies apylinkėse pagrobė 10 žmonių ir 10 arklių."
-  semantiniai_rysiai: "Gundramas puolė Lietuviai (0.70)"
-  temporaliniai_duomenys: "įvykio data: 1302 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra konkretus faktinis sakinys apie įvykį Kristburgo pilies apylinkėse."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "608604-609396; hash=891a8e8c18aca9d3f954e6645cb5c8c9150e51c2e8670dda74e3fd219ce69488; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Lietuviai: 0.70"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gundramas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Gundramas persekiojo lietuvių plėšikautojus ir užpuolė juos dykrose."
   pagrindžia:
     - c-86508
 
@@ -171,17 +92,6 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
 - t-004
   global_id: t-90727
   teiginys: "Prūsai ir Sventopelkas susitarė apsupti Kristburgo pilį ir nesitraukti, kol ji nebus sulyginta su žeme."
-  semantiniai_rysiai: "Sventopelkas apgulė Kristburgas (0.83)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "332313-332810; hash=fbb208345cd653578af9ec568554afd6cd0b63f355f3ac054dea82f8d93e97a3; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "apgule -> Kristburgas: 0.83"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Sventopelkas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kristburgas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Sventopelkas nurodytas tarp susitarusiųjų apsupti Kristburgo pilį."
   pagrindžia:
     - c-86505
 
@@ -189,16 +99,6 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
 - t-011
   global_id: t-90728
   teiginys: "Kristaus gimimo naktį magistro Henriko kariuomenė užėmė pamedėnų pilį, vėliau pavadintą Kristburgu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "322611-323546; hash=7fa9d963d60f36c78894c10ed560cf32c638a0389ae264199b6389dd7f55247f; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Pamedėnai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kristburgas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Pamedėnai: mention_match, group, gap=32"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kristburgas\" parinktas kaip owner_note_path. Targetas \"Pamedėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-86498
 
@@ -206,16 +106,6 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
 - t-006
   global_id: t-90729
   teiginys: "Kristburgo broliams buvo sunku iš Elbingo atsigabenti būtiniausių dalykų, nes pilį supo priešai."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "442779-443604; hash=5eb5e73ce9ed1bb14338a280138a6d774caee386ed962ce4b5d13837466df9e9; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Elbingas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kristburgas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Elbingas: mention_match, place, gap=34"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kristburgas\" parinktas kaip owner_note_path. Targetas \"Elbingas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-86504
 
@@ -223,17 +113,6 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
 - t-005
   global_id: t-90730
   teiginys: "Pagudėnai prie Kristburgo užpuolė netoliese buvusią pilaitę, kurioje gyveno tikintieji pamedėnai, ir ją sugriovė."
-  semantiniai_rysiai: "Pagudėnai puolė Pilaitė (0.95)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "436419-436798; hash=be78f13f45c2d3b243f76bbee828ff3e50365181afba9dab270a7c144ddea2a8; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Pilaitė: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Pagudėnai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Pilaitė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekste tiesiogiai pasakyta, kad pagudėnai užpuolė pilaitę."
   pagrindžia:
     - c-86500
 
@@ -241,16 +120,6 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
 - t-006
   global_id: t-90729
   teiginys: "Kristburgo broliams buvo sunku iš Elbingo atsigabenti būtiniausių dalykų, nes pilį supo priešai."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "442779-443604; hash=5eb5e73ce9ed1bb14338a280138a6d774caee386ed962ce4b5d13837466df9e9; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Elbingas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kristburgas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Elbingas: mention_match, place, gap=34"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kristburgas\" parinktas kaip owner_note_path. Targetas \"Elbingas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-86504
 
@@ -258,17 +127,6 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
 - t-009
   global_id: t-90725
   teiginys: "Kristburgo broliai pasivijo vieną iš Lubavos žemę nusiaubusių lietuvių būrių, nukovė 15 lietuvių ir atėmė 50 krikščionių."
-  semantiniai_rysiai: "Lietuviai puolė Lubava (0.82)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "615540-616105; hash=f931e0c907248a1d5822b2673cb205f0e279435120e24bd83b0af0a0b1d3b0dd; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Lubava: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lubava: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Lietuvių plėšikautojai įsibrovė į Lubavos žemę ir ją niokojo."
   pagrindžia:
     - c-167553
 
@@ -276,12 +134,6 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
 - t-015
   global_id: t-194536
   teiginys: "Apie tai, kaip sunku buvo gabenti maistą į Kristburgo pilį Iš visų pusių apsuptiems galybės priešų Kristburgo broliams retai kada ramiai ir be didelio vargo pavykdavo atsigabenti iš Elbingo būtiniausių dalykų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "442779-443604; hash=5eb5e73ce9ed1bb14338a280138a6d774caee386ed962ce4b5d13837466df9e9; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-86504
 - susijęs iš [[objektai/asmenys/Engelkė.md#claim-t-60273|Engelkė]]: Engelkė gyveno Kristburgo pilyje, buvo gimęs Vestfalijoje ir garsėjo pamaldumu bei savitvarda.
@@ -425,8 +277,8 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
     pavadinta Kristburgu, tai yra Kristaus pilimi299, tokį vardą jai davė testamente viešpaties
     pranašas anksčiau, nei jis radosi magistro bei kitų brolių mintyse.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -445,8 +297,8 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
     mėnesiams, apie pilį pradėjo kurti miestą305, į kurį suplaukė gyventi daugybė tikinčiųjų,
     pasiryžusių už krikščionių tikėjimą kasdien aukoti be baimės savo gyvybę ir savo turtą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -468,8 +320,8 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
 
      143 (138).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -490,8 +342,8 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
     tol kepino, kol jis, kad ir pusgyvis, dar galėjo kvėpuoti; paskui jį tokį nusiuntė broliams,
     ten jis, ilgesnį laiką pasirgęs, galop pagijo.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -511,8 +363,8 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
     ginklanešių, turėjusių saugoti vežimus bei ketverinius kinkinius, gabenančius maistą ir
     ginklus.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -534,8 +386,8 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
 
                   124.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -556,8 +408,8 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
     virš jo palaikų; jam sustojus, jie sustodavę vietoje, jam pajudėjus, vėl skrisdavę kaip
     skridę.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -577,8 +429,8 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
     pasiskirstė dviem būriais, vieną pasivijo Kristburgo broliai, nukovė 15 lietuvių ir atėmė
     iš jų 50 krikščionių. Kitas netikėlių būrys paspruko.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -590,7 +442,8 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
 - id: c-86498
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 98"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 98."
   citata_originali: |
     Apie vienos pilies užkariavimą ir apie Kristburgo pilį
 
@@ -615,7 +468,8 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
 - id: c-86499
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 100"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 100."
   citata_originali: |
     Todėl, sukvietę daugybę maldininkų, kurie, pastoviai raginami į kryžiaus karą,
     nuolat čia traukė iš įvairių Vokietijos kraštų, broliai pasuko  į Pamedės žemę pasiėmę
@@ -634,7 +488,8 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
 - id: c-86500
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 136"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 136."
   citata_originali: |
     142 (137). Apie vienos pilaitės užkariavimą
 
@@ -658,7 +513,8 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
 - id: c-86504
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 138"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 138."
   citata_originali: |
     Apie tai, kaip sunku buvo gabenti maistą į Kristburgo pilį
 
@@ -683,7 +539,8 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
 - id: c-86505
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 101"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 101."
   citata_originali: |
     Apie daugybės pomeranų bei prūsų žūtį
 
@@ -704,7 +561,8 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
 - id: c-86506
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 250"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 250."
   citata_originali: |
     123. Apie kraujo lašus, varvėjusius iš duonos Kristburgo pilyje Prūsijos žemėje
 
@@ -727,7 +585,8 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
 - id: c-86508
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 195"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 195."
   citata_originali: |
     281 (274). Apie brolio Gundramo bei daugelio lietuvių žūtį 1302 metais
 
@@ -752,7 +611,8 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
 - id: c-167553
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 197"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 197."
   citata_originali: |
     Apie Lubavos žemės nusiaubimą ir 15 lietuvių žūtį 1303 metais
 
@@ -771,9 +631,6 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
     - t-90725
 
 ## Ryšiai
-- Buvo kelionės vieta: [[objektai/asmenys/Andrius (račius)]]
 - Buvo pastatyta: [[objektai/grupes/Kryžiuočių ordinas]]
-- Puolė Kristburgą: [[objektai/asmenys/Divanas]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Pagudėnai]], [[objektai/grupes/Sūduviai]], [[objektai/asmenys/Sventopelkas]]
-- Apgulė Kristburgą: [[objektai/asmenys/Sventopelkas]]
 - Gynė Kristburgą: [[objektai/asmenys/Sirenas]]
-- Gyvenamoji vieta: [[objektai/asmenys/Engelkė]], [[objektai/asmenys/Sirenas]]
+- Gyvenamoji vieta: [[objektai/asmenys/Engelkė]]

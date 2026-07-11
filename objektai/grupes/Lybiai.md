@@ -39,18 +39,6 @@ Dabartinio Kuršių iškyšulio šiaurinėje jūros pakrantėje, Dauguvos žioty
 - t-004
   global_id: t-96811
   teiginys: "Vokiečių pirkliai ir misionieriai, pradėję lankytis lybių gyvenamuose kraštuose, pirmiausia susidūrė su lybiais."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "59069-59455; hash=300cd61a963f10561c89949681424e1cd4c7f6748ded154a46c3a133a4ff381b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Baltija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lybiai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Baltija: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lybiai\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-91418
 
@@ -58,17 +46,6 @@ Dabartinio Kuršių iškyšulio šiaurinėje jūros pakrantėje, Dauguvos žioty
 - t-003
   global_id: t-96812
   teiginys: "XII-XIII a. sandūroje lybiai gyveno abipus Dauguvos žemupio, šiauriniame Kurše ir Latvijos Baltijos pajūryje."
-  semantiniai_rysiai: "Lybiai gyveno Dauguva (0.88); Lybiai gyveno Kuršas (0.84); Lybiai gyveno Latvija (0.74)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "59069-59455; hash=300cd61a963f10561c89949681424e1cd4c7f6748ded154a46c3a133a4ff381b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Dauguva: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lybiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Dauguva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tiesiogiai nurodyta, kad lybiai gyveno abipus Dauguvos žemupio."
   pagrindžia:
     - c-91417
 
@@ -76,17 +53,6 @@ Dabartinio Kuršių iškyšulio šiaurinėje jūros pakrantėje, Dauguvos žioty
 - t-001
   global_id: t-96813
   teiginys: "Dabartinio Kuršių iškyšulio šiaurinėje jūros pakrantėje, Dauguvos žiotyse ir dešiniajam jos žemupio krante gyveno jau net ir nearijų tauta — lybiai."
-  semantiniai_rysiai: "Lybiai gyveno Dauguva (0.80); Lybiai gyveno Kuršas (0.80); Lybiai gyveno Latvija (0.76)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "332571-333088; hash=bfa880f9cb6ce18ea9f62d2b02b74db970c66f9f0b4e058ce3c015851265d5d6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Dauguva: 0.80"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lybiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Dauguva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad lybiai gyveno Dauguvos žemupio srityje."
   pagrindžia:
     - c-91416
 
@@ -94,12 +60,6 @@ Dabartinio Kuršių iškyšulio šiaurinėje jūros pakrantėje, Dauguvos žioty
 - t-005
   global_id: t-193117
   teiginys: "Dabartinio Kuršių iškyšulio šiaurinėje jūros pakrantėje, Dauguvos žiotyse ir dešiniajam jos žemupio krante gyveno jau net ir nearijų tauta — lybiai."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "58868-59207; hash=364688a9a2200bc3f2c7460057edb4de28294bdce4afd2bb98c779657355ab8c; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-175877
 - susijęs iš Padauguvis: Nuo XI a., skandinavams liovusis lankytis Padauguvyje, į šį kraštą pradėjo atvykti vokiečių pirkliai.
@@ -125,8 +85,8 @@ Dabartinio Kuršių iškyšulio šiaurinėje jūros pakrantėje, Dauguvos žioty
     žemupį (apie Rygą), Kuršo šiaurinį galą ir visą Latvijos Baltijos
     kranto ruožą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -146,8 +106,8 @@ Dabartinio Kuršių iškyšulio šiaurinėje jūros pakrantėje, Dauguvos žioty
     Lietuvių ir Lietuvos vardo kaimynų šaltiniuose ilgai neranda­
     ma.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -165,8 +125,8 @@ Dabartinio Kuršių iškyšulio šiaurinėje jūros pakrantėje, Dauguvos žioty
     tuose kraštuose ėmė lankytis vokiečių pirkliai ir misijonieriai, tai
     pirmiausia jie susidūrė su lybiais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -183,8 +143,8 @@ Dabartinio Kuršių iškyšulio šiaurinėje jūros pakrantėje, Dauguvos žioty
     kartu su estais ir suomiais jie priklauso prie neaiškios kilmės
     tautų, mokslo vadinamų ugriais suomiais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -276,4 +236,3 @@ Dabartinio Kuršių iškyšulio šiaurinėje jūros pakrantėje, Dauguvos žioty
 
 ## Ryšiai
 - Prekiavo su: [[objektai/grupes/Vokiečių pirkliai]]
-- Lybiai gyveno [[objektai/vietos/Dauguva]], [[objektai/vietos/Kuršas]], [[objektai/vietos/Latvija]]

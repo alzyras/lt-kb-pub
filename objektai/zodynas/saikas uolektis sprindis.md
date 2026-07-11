@@ -33,16 +33,6 @@ media_all_json: |-
 - t-001
   global_id: t-86546
   teiginys: "Prieglaudos sklypo plotis nuo bažnyčios sklypo į viršų buvo nurodytas kaip 20 sprindžių arba 7 uolektys."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "746435-747039; hash=cd4a1c3914fe806e83971f35441f47df14ec93b0cd154e00e780a6d15654392c; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Namas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "saikas uolektis sprindis: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Namas: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"saikas uolektis sprindis\" parinktas kaip owner_note_path. Targetas \"Namas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-82525
 ## Reikšmingi paminėjimai
@@ -62,8 +52,8 @@ media_all_json: |-
     ro Pūzdrąvičiaus namo ir daržo iki Povilo Piestavičiaus namo
     galo - 60 sprindžių arba 20 uolekčių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

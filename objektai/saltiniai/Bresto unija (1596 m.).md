@@ -41,19 +41,6 @@ media_all_json: |-
 - t-001
   global_id: t-34948
   teiginys: "1596 metais sudarius Bresto uniją, Lietuvos ribose pradėjo veikti unitai, išlaikę Rytų Bažnyčios apeigas ir priėmę katalikų dogmas."
-  temporaliniai_duomenys: "įvykio data: 1596 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pataisyta kalba ir OCR klaida, faktas tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "303156-303527; hash=99a9f4d062c8369ea3261d3723597c3eeb095e9f95350610973d6a8114887d5c; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Bresto unija (1596 m.): owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=14"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bresto unija (1596 m.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-36173
 ## Reikšmingi paminėjimai
@@ -68,8 +55,8 @@ media_all_json: |-
     ir Lietuvos ribose pradėjo veikti mitai, pasilaikę Rytų Bažny­
     čios apeigas, bet priėmę visas katalikų tikėjimo dogmas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

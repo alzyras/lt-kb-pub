@@ -30,21 +30,6 @@ Narbutas murgais vadino žuvusių karių vėles, kurias jo pasakojime deivė Mil
 - t-001
   global_id: t-189315
   teiginys: "Narbutas murgais vadino žuvusių karių vėles, kurias jo pasakojime deivė Milda mūšio lauke dalydavosi su Odinu."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "222440-223005; hash=c939b38adc281ef07abf165f39e7c35bb214520673fb3ef789ef555d500a6b59; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Ašagardas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Murgai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Ašagardas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Murgai\" parinktas kaip owner_note_path. Targetas \"Ašagardas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172202
 ## Reikšmingi paminėjimai
@@ -64,8 +49,8 @@ Narbutas murgais vadino žuvusių karių vėles, kurias jo pasakojime deivė Mil
     madzenie ludow), kuriuose jai patarnaudavo žuvusių už laisvę
     riterių vėlės.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -76,7 +61,8 @@ Narbutas murgais vadino žuvusių karių vėles, kurias jo pasakojime deivė Mil
 - id: c-172202
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 127"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 127."
   citata_originali: |
     Anot visų tyrimų, šios deivės ypatybės buvo perimtos iš
     skandinavų, kurie ją vadino Frėja; ji buvo jūrų ir ugnies dievo,

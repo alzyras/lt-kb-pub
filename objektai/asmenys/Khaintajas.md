@@ -30,22 +30,6 @@ Narbuto perpasakoto orientalisto aiškinimu, tauta prie Ross upės nepriėmė pr
 - t-001
   global_id: t-191433
   teiginys: "Narbuto perpasakoto orientalisto aiškinimu, tauta prie Ross upės nepriėmė pranašo Khaintajo, Šafrano sūnaus, mokslo ir jį nukankino."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Khaintajas buvo sūnus Šafranas (0.95)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "122895-123606; hash=b90092978392b73e31d60731ae1576b04c8a8394119186ff30c6927146f9112e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sunus -> Šafranas: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Khaintajas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Šafranas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata tiesiogiai įvardija Khaintają kaip Šafrano sūnų."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174315
 ## Reikšmingi paminėjimai
@@ -69,8 +53,8 @@ Narbuto perpasakoto orientalisto aiškinimu, tauta prie Ross upės nepriėmė pr
     jis darė kitas išvadas; jei mes galėtume, tai neabejotinai
     atskleistume jas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -81,7 +65,8 @@ Narbuto perpasakoto orientalisto aiškinimu, tauta prie Ross upės nepriėmė pr
 - id: c-174315
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 70"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 70."
   citata_originali: |
     Anot Korano
     aiškintojų, buvusi tauta, kuriai priklausęs kraštas prie

@@ -32,16 +32,6 @@ Apie tai Lietuvos didysis etmonas Mykolas Radvila Rudasis žvalgų buvo greitai 
 - t-001
   global_id: t-41891
   teiginys: "Mykolas Radvila Rudasis buvo Lukomlyje, apie 100 km nuo Polocko, kai žvalgai jį informavo apie maskvėnų pajėgas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "351202-351687; hash=9de9ee5d44c9e844251782e372de484b7b36c254edbb92e2938c77c465155dcb; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Maskvėnai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lukomlys: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Maskvėnai: mention_match, group, gap=66"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lukomlys\" parinktas kaip owner_note_path. Targetas \"Maskvėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-45196
 ## Reikšmingi paminėjimai
@@ -62,8 +52,8 @@ Apie tai Lietuvos didysis etmonas Mykolas Radvila Rudasis žvalgų buvo greitai 
     priešui kelią, raiteliai nelaukdami pėsti-
     ninkų ir artilerijos pajudėjo greitu maršu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

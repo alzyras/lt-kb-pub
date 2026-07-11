@@ -31,19 +31,6 @@ Skabeika neleido ginkluotiems vyrams tą vakarą išlipti iš šieno prikrautų 
 - t-001
   global_id: t-186161
   teiginys: "Skabeika neleido ginkluotiems vyrams tą vakarą išlipti iš šieno prikrautų vežimų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "811458-811848; hash=9b5d1980cc6508484e7885bdd57ea84f6049c66a98ea4f6a70fecd597375c18e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vežimai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Skabeika: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Vežimai: mention_match, thing, gap=74"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Skabeika\" parinktas kaip owner_note_path. Targetas \"Vežimai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-169522
 
@@ -51,12 +38,6 @@ Skabeika neleido ginkluotiems vyrams tą vakarą išlipti iš šieno prikrautų 
 - t-002
   global_id: t-193977
   teiginys: "Ir užbaigė susitardami, kad jie patys užims Vilniaus ir Trakų pilis ir laikys jas kunigaikščiui Švitri gailai, kuris po Pabaisko pralaimėjimo mūšyje su Mykoliuku Zygimantaičiu buvo pabėgęs į Moldaviją \", Ir, taip nutarę, išsiuntė dvarionį Skabeiką '5 , kilusį."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "212198-212911; hash=dcf2865d35233375b18dcdf442dfdb3372c89ab64bf00232b04ed357f09761fd; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176602
 - susijęs iš [[objektai/ivykiai/Žygimanto Kęstutaičio nužudymas per Verbų sekmadienį (1440 m.).md#claim-t-185685|Žygimanto Kęstutaičio nužudymas per Verbų sekmadienį (1440 m.)]]: Sąmokslininkai sutarė nužudyti Žygimantą Kęstutaitį Verbų sekmadienį.
@@ -76,8 +57,8 @@ Skabeika neleido ginkluotiems vyrams tą vakarą išlipti iš šieno prikrautų 
     jiems čia pasirodžius, sąmokslininkai, vieno kito savo
     patikimo kario lydimi, sujojo į miestą skirtingais keliais.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -103,8 +84,8 @@ Skabeika neleido ginkluotiems vyrams tą vakarą išlipti iš šieno prikrautų 
     Cartorijskis su Skabeika Verbų sekmadienį1 7  įvažiavo
     į Trakų pilį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -115,7 +96,8 @@ Skabeika neleido ginkluotiems vyrams tą vakarą išlipti iš šieno prikrautų 
 - id: c-169522
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 461"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 461."
   citata_originali: |
     Šven­
     tės išvakarėse daugybė ginkluotų vyrų, pasislėpusių

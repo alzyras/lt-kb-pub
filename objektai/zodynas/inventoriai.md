@@ -32,9 +32,6 @@ Tam tikslui buvo įsakyta paruošti vadinamuo- sius inventorius, kuriuose nuo se
 - t-002
   global_id: t-72696
   teiginys: "Inventoriai negalėjo daug padėti valstiečiams, nes jie liko beteisiai ir neturėjo kam skųstis ponui didinant prievoles."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "939738-940091; hash=700b4504004446d43abb23c3cc737fe327e5be27119dfe9ec54005756d02fd27; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-71075
 
@@ -42,9 +39,6 @@ Tam tikslui buvo įsakyta paruošti vadinamuo- sius inventorius, kuriuose nuo se
 - t-001
   global_id: t-72699
   teiginys: "Inventoriai buvo rengiami valstiečių prievolėms suvienodinti, juose nuo seno buvo surašomos visos valstiečių pareigos."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "939666-939940; hash=1447dd56863e6c3e7ed265bfe94f76dd7623be7a9bbe34a078b74b235a62ff53; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-71079
 
@@ -52,12 +46,6 @@ Tam tikslui buvo įsakyta paruošti vadinamuo- sius inventorius, kuriuose nuo se
 - t-003
   global_id: t-193145
   teiginys: "Inventoriams suvienodinti visose gubernijose buvo įsteigti specialūs komitetai."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "939861-940298; hash=9701177f548e6464cccceaf70dc09682b19de473fe828aa1748bb9611d0984b1; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-175899
 - susijęs iš Lietuvos inventoriai XVII amž: Rinkinys „Lietuvos inventoriai XVII amž.“ buvo sudarytas drauge su M. Juču ir išleistas 1962 m.
@@ -80,8 +68,8 @@ Tam tikslui buvo įsakyta paruošti vadinamuo- sius inventorius, kuriuose nuo se
 
     ponas didino prievoles, jie neturėjo kam pasiskųsti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -97,8 +85,8 @@ Tam tikslui buvo įsakyta paruošti vadinamuo- sius inventorius, kuriuose nuo se
     valstiečių pareigos. Inventoriams suvienodinti visose gubernijose
     buvo įsteigti specialūs komitetai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -118,8 +106,8 @@ Tam tikslui buvo įsakyta paruošti vadinamuo- sius inventorius, kuriuose nuo se
     rui baudžiavą 3 dienas savaitėje vyras su arkliu ir 1 dieną mo-
     teris; už kitų dienų darbus turėjo būti atlyginama nustatyta taksa.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

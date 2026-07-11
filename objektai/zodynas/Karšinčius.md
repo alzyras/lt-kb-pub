@@ -39,9 +39,6 @@ Vartojamos formos: `karšinčium`, `karšinčių`.
 - t-004
   global_id: t-07705
   teiginys: "Karšinčius turėjo nukaršinti priėmusius tėvus ir po jų mirties paveldėdavo visą turtą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "299466-299811; hash=c03d5aace2f26fea8d6d4b54dbab690b3ebb5c5bc7ccf3b879397de694910acf; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
   pagrindžia:
     - c-09634
     - c-09635
@@ -50,9 +47,6 @@ Vartojamos formos: `karšinčium`, `karšinčių`.
 - t-003
   global_id: t-07706
   teiginys: "Karšinčius galėjo būti mažasis sūnus, likęs tėvų namuose ir paveldėjęs tėviškę bei palikimą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "299466-299811; hash=c03d5aace2f26fea8d6d4b54dbab690b3ebb5c5bc7ccf3b879397de694910acf; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
   pagrindžia:
     - c-09634
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82182|Aleksandras Jogailaitis]]: Žinia apie 1506 m. rugpjūtį pasiektą Lietuvos pergalę prie Klecko Aleksandrą Jogailaitį pasiekė Vilniuje.
@@ -64,8 +58,8 @@ Vartojamos formos: `karšinčium`, `karšinčių`.
   citata_originali: |
     Nes jei vyresnieji sūnai buvo išrėdyti^1118 iš namų viršiau minavotu pragumu, tad mažasis sunūs paliko butoje tėvų karšinčium ir veldėjo tėviškę ir visą palikimą; jam reikėjo seseris išrėdyti^1119 su tokia pasoga^1120 , kokią tėvas mirdamas buvo joms padėjęs, jei nebuvo padėta, mažasis brolis turėjo iš trečiosios dalies savo tėviškės išrėdyti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -77,8 +71,8 @@ Vartojamos formos: `karšinčium`, `karšinčių`.
   citata_originali: |
     Jei tėvai bevaikiai buvo, tad priėmė sau karšinčių, kurs, įstojęs į sūnaus vietą, į karę turėjo traukti už tėvą, nuo ko ir karšinčium vadinos, priimti vardą savo geradėjų ir juos nukaršinti padoriai, kaip pridera sūnui savo tėvus, kuriems mirus, visa paveldėjo, it būt jų sūnus buvęs.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

@@ -43,19 +43,6 @@ Istorinės topografijos ir senų gyvenviečių liekanų aprašymo terminas.
 - t-002
   global_id: t-192196
   teiginys: "Teodoras Narbutas Rus ramovę prie Nemuno šakos Russ įvardija kaip senovinę piliavietę."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "404110-404624; hash=e551c8ba2c7204b025ae2cc3c2de674630bc7caf55f0d9256ebc1f67af0a236b; match=ocr_normalized"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  ryšio_patikimumas: "susije_su -> Nemunas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "piliavietė: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Nemunas: mention_match, place, gap=41"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"piliavietė\" parinktas kaip owner_note_path. Targetas \"Nemunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175060
 
@@ -63,19 +50,6 @@ Istorinės topografijos ir senų gyvenviečių liekanų aprašymo terminas.
 - t-001
   global_id: t-192197
   teiginys: "Teodoras Narbutas rašo, kad prie Nemuno yra daug senovės piliaviečių, pylimų, pilkapių, kapų ir šventųjų vietų."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "403579-404049; hash=0e59bf4390be6ad815e4152b867590f36da308149b3b0129a95c2524575f166b; match=ocr_normalized"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  ryšio_patikimumas: "susije_su -> Teodoras Narbutas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "piliavietė: owner_note_path, thing"
-  ryšio_targeto_parinkimas: "Teodoras Narbutas: mention_match, person, gap=1"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"piliavietė\" parinktas kaip owner_note_path. Targetas \"Teodoras Narbutas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175061
 ## Reikšmingi paminėjimai
@@ -95,8 +69,8 @@ Istorinės topografijos ir senų gyvenviečių liekanų aprašymo terminas.
     mis apie penkias mylias, suskyla į daugelį mažų vagų,
     arba protakų.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -116,8 +90,8 @@ Istorinės topografijos ir senų gyvenviečių liekanų aprašymo terminas.
     viečių, pylimų, pilkapių, kapų ir reikšmingų šventųjų vie­
     tų; pašventintų daugelio praėjusių metų atminimų.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -128,7 +102,8 @@ Istorinės topografijos ir senų gyvenviečių liekanų aprašymo terminas.
 - id: c-175060
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 219"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 219."
   citata_originali: |
     Pusantros mylios už šio miesto aukštos pakrantės ima
     žemėti, vagos didingumas mažėja, o Nemunas ima vin­
@@ -151,7 +126,8 @@ Istorinės topografijos ir senų gyvenviečių liekanų aprašymo terminas.
 - id: c-175061
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 219"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 219."
   citata_originali: |
     Nemunas, tas senovės
     Aldeskas, vėliau vadintas ir Kronu, viena didžiausių upių

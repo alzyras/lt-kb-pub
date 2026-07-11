@@ -48,18 +48,6 @@ Nenurodyta
 - t-001
   global_id: t-62515
   teiginys: "Tepliavos komtūras Ulrichas Bajeris su 12 brolių ir 250 raitelių įsiveržė į Sūduvą, degino, grobė, paėmė ir nužudė 150 žmonių."
-  teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Ulrichas Bajeris surengė žygį į Sūduva (0.95); Ulrichas Bajeris puolė Sūduviai (0.86)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "520607-521113; hash=6c02488427037760fa0a20d9a7d5bae5bbce3ed150a389b9470eed4172888d18; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "surenge_zygi_i -> Sūduva: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Ulrichas Bajeris: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Sūduva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Ulrichas Bajeris su pajėgomis įsiveržė į Sūduvą."
   pagrindžia:
     - c-63195
 ## Reikšmingi paminėjimai
@@ -81,8 +69,8 @@ Nenurodyta
 
                    206 (201).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -93,7 +81,8 @@ Nenurodyta
 - id: c-63195
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 165"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 165."
   citata_originali: |
     205 (200). Apie Sūduvos žemės užpuolimą ir daugybės sūduvių nelaisvę bei žūtį
 

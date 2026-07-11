@@ -33,18 +33,6 @@ Kariuomenei išsirikiavus mūšio lauke, kairiajam sparnui vadovavo didysis mar�
 - t-001
   global_id: t-40298
   teiginys: "Didysis komtūras Kunas fon Lichtenšteinas mūšio lauke vadovavo dešiniajam kariuomenės sparnui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "238533-238949; hash=3616b4ea22e7d55837023518b6c4beb483319a6e3379f1a8a342f2797909a16a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> komtūras: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kunas fon Lichtenšteinas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "komtūras: mention_match, thing, gap=9"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kunas fon Lichtenšteinas\" parinktas kaip owner_note_path. Targetas \"komtūras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-167138
 
@@ -52,18 +40,6 @@ Kariuomenei išsirikiavus mūšio lauke, kairiajam sparnui vadovavo didysis mar�
 - t-001
   global_id: t-40298
   teiginys: "Didysis komtūras Kunas fon Lichtenšteinas mūšio lauke vadovavo dešiniajam kariuomenės sparnui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "238533-238949; hash=3616b4ea22e7d55837023518b6c4beb483319a6e3379f1a8a342f2797909a16a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> komtūras: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kunas fon Lichtenšteinas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "komtūras: mention_match, thing, gap=9"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kunas fon Lichtenšteinas\" parinktas kaip owner_note_path. Targetas \"komtūras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-167138
 ## Reikšmingi paminėjimai
@@ -90,8 +66,8 @@ Kariuomenei išsirikiavus mūšio lauke, kairiajam sparnui vadovavo didysis mar�
 
     Pentinas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

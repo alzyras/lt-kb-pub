@@ -35,11 +35,6 @@ Stanislovo Augusto išrinkimas ir tarpuvaldžio kovos. Tuo metu Čartoriskiai pa
 - t-002
   global_id: t-64086
   teiginys: "Augusto III valdymo pabaigoje Čartoriskiai pasiuntė Stanislovą Augustą Poniatauską į Petrapilį."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "803037-803392; hash=a6705a490a320a86081aa8ed81016edfa1f1697bf702194ceaf1611d4f60eee3; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-64938
 
@@ -47,9 +42,6 @@ Stanislovo Augusto išrinkimas ir tarpuvaldžio kovos. Tuo metu Čartoriskiai pa
 - t-001
   global_id: t-64088
   teiginys: "Stanislovo Augusto išrinkimas ir tarpuvaldžio kovos."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "23338-23504; hash=b643ab16eb682a401fab193fe795fa09f0f17856ffbfacab04d1aa95dd03b6fe; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-64940
 
@@ -57,11 +49,6 @@ Stanislovo Augusto išrinkimas ir tarpuvaldžio kovos. Tuo metu Čartoriskiai pa
 - t-003
   global_id: t-64092
   teiginys: "Rusų kariuomenei parėmus, Stanislovas Augustas buvo išrinktas karaliumi."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "821375-821698; hash=58449ffefac94a3472e8ac9e9df99c2de138062faa850302d5062422e2905675; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-64942
 ## Reikšmingi paminėjimai
@@ -78,8 +65,8 @@ Stanislovo Augusto išrinkimas ir tarpuvaldžio kovos. Tuo metu Čartoriskiai pa
     siartino su sosto įpėdinio rūmais, o su jo žmona Kotryna suėjo
     net į labai intimius santykius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -93,8 +80,8 @@ Stanislovo Augusto išrinkimas ir tarpuvaldžio kovos. Tuo metu Čartoriskiai pa
           - 5- Radomo konfed. ir Čartoriskių ref. apkarpymas (1768 m.)
           - 6.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -112,8 +99,8 @@ Stanislovo Augusto išrinkimas ir tarpuvaldžio kovos. Tuo metu Čartoriskiai pa
     Rusų kariuomenei parėmus, karalium buvo išrinktas Sta-
     nislovas Augustas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

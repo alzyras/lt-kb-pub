@@ -42,22 +42,6 @@ Nenurodyta
 - t-001
   global_id: t-185806
   teiginys: "Kazimieras, gindamas teises į Rusią, sudarė palankią sutartį su lietuvių valdovu ir pasuko ginklus į kitą Rusios dalį."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Lenkai kariavo prieš Lietuviai (0.72)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "400027-400855; hash=dee449dfac6ae892e7376a5f4a61c2d325c9a353abfd29af34b7d1630a3efa0e; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Lietuviai: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lenkai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Tekste aptariamas lenkų svarstymas kariauti su lietuviais."
-  vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-169167
 ## Reikšmingi paminėjimai
@@ -85,8 +69,8 @@ Nenurodyta
     brangesnius daiktus išvežė, prijungė žemes prie Len­
     kijos, o gyventojams vėliau įvedė lenkų įstatymus.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

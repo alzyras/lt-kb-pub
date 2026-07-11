@@ -35,16 +35,6 @@ media_all_json: |-
 - t-002
   global_id: t-171389
   teiginys: "Tochtamišo totoriai buvo įtraukti į Lietuvos jungtinių pajėgų sudėtį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "216686-217194; hash=879b26dc78df149ce0be060661c4aae8d9bb98fec5d72bb5ae5b3ab8b2412226; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Tochtamišo totoriai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=36"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tochtamišo totoriai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-167060
 
@@ -52,16 +42,6 @@ media_all_json: |-
 - t-001
   global_id: t-171391
   teiginys: "Vytauto kariuomenėje prie Vorsklos buvo keli tūkstančiai Tochtamišo totorių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "216433-216950; hash=1be2b3f760e67f497b0b22dae6a5ced9ece5626bfec49a3d94995e1b7db3cd81; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Tochtamišas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Tochtamišo totoriai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Tochtamišas: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tochtamišo totoriai\" parinktas kaip owner_note_path. Targetas \"Tochtamišas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-42942
 
@@ -69,16 +49,6 @@ media_all_json: |-
 - t-003
   global_id: t-171392
   teiginys: "Dalis Tochtamišo karių prieš Vorsklos mūšį galėjo pereiti į chano Timūr-Kutluko šalininkų pusę."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "223678-224183; hash=f05f51756884f2a4062d7b73a7407ad1eff8a6fc5fdfded66fd0f2423c42c8ad; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Timūr-Kutlukas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Tochtamišo totoriai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Timūr-Kutlukas: mention_match, person, gap=60"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tochtamišo totoriai\" parinktas kaip owner_note_path. Targetas \"Timūr-Kutlukas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-42945
 
@@ -86,19 +56,6 @@ media_all_json: |-
 - t-004
   global_id: t-183668
   teiginys: "Tochtamišo totoriai buvo Lietuvos jungtinių pajėgų dalis susidūrime su Timūr-Kutluko kariuomene prie Vorsklos."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "216686-217194; hash=879b26dc78df149ce0be060661c4aae8d9bb98fec5d72bb5ae5b3ab8b2412226; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Tochtamišo totoriai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=25"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tochtamišo totoriai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-167060
 - susijęs iš [[objektai/asmenys/Tochtamišas.md#claim-t-111435|Tochtamišas]]: Prie Kijevo telkiamoje Vytauto kariuomenėje buvo keli tūkstančiai Tochtamišo totorių.
@@ -132,8 +89,8 @@ media_all_json: |-
     bių, susitiko su Aukso ordos chano
     Timūr-Kutluko kariuomene.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -157,8 +114,8 @@ media_all_json: |-
     politinėje sferoje neblėstančios ir netgi
     stiprėjančios rytų grėsmės akivaizdoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -193,8 +150,8 @@ media_all_json: |-
     Aukso ordos chano Timūr-Kutluko,
     Krymo emyro Edygos kariai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -295,6 +252,3 @@ media_all_json: |-
   pagrindzia:
     - t-183668
     - t-171389
-
-## Ryšiai
-- Tochtamišo totoriai gyveno [[objektai/vietos/Kijevas]]

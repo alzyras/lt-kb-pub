@@ -34,16 +34,6 @@ Visas kalnas parko dalyje nusėtas nuolaužomis, bet kilp pėdsakų, kad čia st
 - t-001
   global_id: t-86069
   teiginys: "Į rytus nuo Veliuonos Pilies kalno dunkso Gedimino kalnu vadinamas kalnas su pilkapiu vakarinėje viršūnės pusėje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "224740-225257; hash=055bf8549ec965d9bcd2ca61257c898ee33f59905cd55e9d309e9b6147c301a6; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gedimino kalnas (Veliuonoje): owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=13"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gedimino kalnas (Veliuonoje)\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-82049
 
@@ -51,16 +41,6 @@ Visas kalnas parko dalyje nusėtas nuolaužomis, bet kilp pėdsakų, kad čia st
 - t-002
   global_id: t-86070
   teiginys: "Veliuonėlė įteka į Nemuną ir iš šiaurės skalauja Pilies bei Gedimino kalno Veliuonoje šlaitus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "225190-225604; hash=e7d02b75fb759295bd67672a6f49501a362796f10685cd05998c3ca2aa9d72f4; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gedimino kalnas (Veliuonoje): owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gedimino kalnas (Veliuonoje)\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-82048
 ## Reikšmingi paminėjimai
@@ -78,8 +58,8 @@ Visas kalnas parko dalyje nusėtas nuolaužomis, bet kilp pėdsakų, kad čia st
     na, jog tai yra netoli nuo Veliuonos, prie Bajerburgo pilies,
     žuvusio Gedimino kapas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -102,8 +82,8 @@ Visas kalnas parko dalyje nusėtas nuolaužomis, bet kilp pėdsakų, kad čia st
     tarsi pilkapis būtų iš jos iškeltas. Ant pilkapio nuo neatme­
     namų laikų visada būdavo statomas kryžius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

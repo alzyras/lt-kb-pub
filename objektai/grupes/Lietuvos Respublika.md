@@ -39,16 +39,6 @@ Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietuviams�
 - t-001
   global_id: t-74769
   teiginys: "XIX–XX a. sandūroje „jaunalietuviai“ ėmė oponuoti „senalietuviams“ ir po poros dešimtmečių sukūrė Lietuvos Respubliką."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "18315-18719; hash=976b147c137cc2354d07713f89d424e51670317a4b73e15e377df36243975e99; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Abiejų Tautų Respublika: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos Respublika: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Abiejų Tautų Respublika: mention_match, group, gap=9"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos Respublika\" parinktas kaip owner_note_path. Targetas \"Abiejų Tautų Respublika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-22566
 
@@ -56,19 +46,6 @@ Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietuviams�
 - t-002
   global_id: t-74770
   teiginys: "Remiantis tokia lenkiška Lietuvos samprata, Lietuvos Respublika buvo vadinama „Kauno Lietuva“, o žemaičių tarmė – lietuvių kalba."
-  temporaliniai_duomenys: "įvykio data: 1920 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nusako Lietuvos Respublikos įvardijimą citatoje."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "21465-21739; hash=d66b743bccd62fd4093e1f2d751bbbd6c7b79f9445a7409c65d9d3a173cf757c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Abiejų Tautų Respublika: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos Respublika: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Abiejų Tautų Respublika: mention_match, group, gap=28"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos Respublika\" parinktas kaip owner_note_path. Targetas \"Abiejų Tautų Respublika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-22567
 
@@ -76,14 +53,6 @@ Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietuviams�
 - t-003
   global_id: t-193556
   teiginys: "Lenkijos ir Lietuvos konflikto dėl Vilniaus metu, kai Vilniaus krašte buvo suformuota „Vidurinė Lietuva“."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "21500-21902; hash=5e5c0f90a64ab251bca26dbe0668a13cf55e65d86b7eb0974e449fbce82022c0; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-176236
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179206|Lenkai]]: 1920 m. Lenkijos ir Lietuvos konflikto dėl Vilniaus metu Vilniaus krašte buvo suformuota Vidurinė Lietuva.
@@ -121,8 +90,8 @@ Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietuviams�
     viams“, kuriems XIX–XX a. sandūroje pradėjo oponuoti „jaunalietuviai“,
     po poros dešimtmečių sukūrę Lietuvos Respubliką.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -137,8 +106,8 @@ Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietuviams�
     prata, Lietuvos Respublika buvo vadinama „Kauno Lietuva“, o žemaičių
     tarmė – lietuvių kalba.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -155,8 +124,8 @@ Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietuviams�
     turint omenyje, jog į rytus nuo jos senosios rusėniškosios LDK žemės va-
     dinamos „Minsko“, arba „rusėnų“, Lietuva.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -220,4 +189,4 @@ Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietuviams�
     - t-193556
 
 ## Ryšiai
-- Lietuvos Respublika kariavo prieš [[objektai/grupes/Bermontininkai]], [[objektai/grupes/Lenkai]]
+- Lietuvos Respublika kariavo prieš [[objektai/grupes/Bermontininkai]]

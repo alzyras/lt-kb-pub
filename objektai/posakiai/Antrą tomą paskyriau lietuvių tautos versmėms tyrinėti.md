@@ -30,19 +30,6 @@ T. Narbutas sako, kad antrą tomą paskyrė lietuvių tautos versmėms tyrinėti
 - t-001
   global_id: t-192107
   teiginys: "Laiške Ignui Onacevičiui Teodoras Narbutas rašė, kad antrą tomą paskyrė lietuvių tautos versmėms tyrinėti."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "2716-3343; hash=a57de24a0764e1168ee747355e30f740172e5692f764892a7c5954ec86fe2304; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
-  ryšio_patikimumas: "susije_su -> Tomas (Hertvigo iš Pokarvių sūnus): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Antrą tomą paskyriau lietuvių tautos versmėms tyrinėti: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Tomas (Hertvigo iš Pokarvių sūnus): mention_match, person, gap=6"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antrą tomą paskyriau lietuvių tautos versmėms tyrinėti\" parinktas kaip owner_note_path. Targetas \"Tomas (Hertvigo iš Pokarvių sūnus)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174988
 ## Reikšmingi paminėjimai
@@ -66,8 +53,8 @@ T. Narbutas sako, kad antrą tomą paskyrė lietuvių tautos versmėms tyrinėti
     Taigi antro „Lietuvių tautos istorijos“ (toliau LTI) tomo
     uždavinys buvo nusakytas labai konkrečiai.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -78,7 +65,8 @@ T. Narbutas sako, kad antrą tomą paskyrė lietuvių tautos versmėms tyrinėti
 - id: c-174988
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 4"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 4."
   citata_originali: |
     T A U T O S  V E R S M I Ų  B E I E Š K A N T
     Tai bendra mūsų, rašančiųjų,

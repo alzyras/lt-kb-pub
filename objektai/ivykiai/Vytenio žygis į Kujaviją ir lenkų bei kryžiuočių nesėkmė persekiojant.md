@@ -42,22 +42,6 @@ Nenurodyta
 - t-001
   global_id: t-185837
   teiginys: "Vytenis per Boleslovui pavaldžias Mazovijos žemes įsiveržė į Lenkiją, nuniokojo Kujaviją ir pasitraukė su grobiu, o lenkai bei kryžiuočiai lietuvių neįveikė."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Vytenis puolė Kujavija (0.86); Lenkai kariavo prieš Lietuviai (0.75); Kryžiuočių ordinas kariavo prieš Lietuviai (0.75)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "284063-284927; hash=3dc1f38006576d9a81b60b1b16ecdfb5dda7a715ebcd85f1dfb5656c383f5e7c; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Kujavija: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytenis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kujavija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginyje tiesiogiai sakoma, kad Vytenis nuniokojo Kujaviją."
-  vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-169198
 ## Reikšmingi paminėjimai
@@ -93,8 +77,8 @@ Nenurodyta
 
     vokiečių, buvo išsklaidyti ir priversti bėgti.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

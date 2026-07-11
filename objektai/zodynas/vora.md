@@ -41,22 +41,6 @@ Viduriniajai vorai po atkaklių kautynių pavyko užimti Užkalnius, Ėriškėli
 - t-003
   global_id: t-184651
   teiginys: "Girdila pasisiūlė siaurais miškų takais vesti kareivių voras, kad netikėtai užkluptų Aukaimio pilį."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1285 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalintas OCR triukšmas ir atkurtas pilnas faktinis sakinys."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "268033-268634; hash=6a36ae9db3159472433295259fa71103c82c96e2164519598f273b25abaf59bd; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aukaimis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "vora: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Aukaimis: mention_match, place, gap=30"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"vora\" parinktas kaip owner_note_path. Targetas \"Aukaimis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-168012
 
@@ -64,12 +48,6 @@ Viduriniajai vorai po atkaklių kautynių pavyko užimti Užkalnius, Ėriškėli
 - t-004
   global_id: t-193385
   teiginys: "Pirmoji apsupo Bisenės pilį ir po kovos, trukusios nuo Aušros ligi vi durdienio, užėmė ją bei sudegino; kita vora nuniokojo aplinkines žemes, tačiau, traukdami atgal, patyrė di delių nuostolių, nes Nemuno ledas, nepakankamai tuo metu tvirtas, neatlaikė jų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "266649-267285; hash=45dfa1772c026007672e28c946f5b1c6c73d7104d006d35aa1e3a8aba0df8e20; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176110
 
@@ -77,12 +55,6 @@ Viduriniajai vorai po atkaklių kautynių pavyko užimti Užkalnius, Ėriškėli
 - t-005
   global_id: t-193754
   teiginys: "Viduriniajai vorai po atkaklių kautynių pavyko užimti Užkalnius, Ėriškėlius ir Barklainius."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "739542-739948; hash=20b54927e69bdb610bcb213d3da8ace0d24ce865bc73b57adcc8571b455414ac; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176414
 - susijęs iš [[objektai/asmenys/Fiodoras Ostrogiškis.md#claim-t-186037|Fiodoras Ostrogiškis]]: Kunigaikštis Fiodoras Ostrogiškis gavo įsakymą su viena žygio vora užimti Podolę.
@@ -124,8 +96,8 @@ Viduriniajai vorai po atkaklių kautynių pavyko užimti Užkalnius, Ėriškėli
     jančius ir išžudė, gyvą palikdama vienui vieną žmogų
     pranešti apie pralaimėjimą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -158,8 +130,8 @@ Viduriniajai vorai po atkaklių kautynių pavyko užimti Užkalnius, Ėriškėli
     metu tvirtas, neatlaikė jų svorio ir nemaža dalis ka­
     riuomenės bei grobio paskendo verpetuose.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -183,8 +155,8 @@ Viduriniajai vorai po atkaklių kautynių pavyko užimti Užkalnius, Ėriškėli
     sutiko stiprų bolševikų pasipriešinimą,
     kurio metu žuvo kolonos vadas karin.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

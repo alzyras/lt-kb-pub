@@ -45,14 +45,6 @@ Nenurodyta
 - t-001
   global_id: t-189728
   teiginys: "Narbutas Kurko aukurą-akmenį lokalizuoja tarp Frauenburgo ir Tolkmito, kur žvejai esą atnašaudavo pirmąsias sužvejotas žuvis."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "193989-194310; hash=8bcbb783860b32022dcb8bd99078c04e486febc7de0e5a2fefce713f8bb5d516; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172611
 ## Reikšmingi paminėjimai
@@ -68,8 +60,8 @@ Nenurodyta
     vis. Apaštalai, apkrikštydami prūsus, daugiausia vargo, kol įvei­
     kė prietaringą tikėjimą šia dievybe*.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -80,7 +72,8 @@ Nenurodyta
 - id: c-172611
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 109"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 109."
   citata_originali: |
     Kasmet Didžiosios šventės iš­
     vakarėse šio dievo stabą sudaužydavo ir dirbindavo naują. Dar

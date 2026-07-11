@@ -50,27 +50,6 @@ Aleksandro mirties metais (1506) jie buvo pasiekę net Naugarduką ir Lydą; bet
 - t-003
   global_id: t-195088
   teiginys: "Mykolas Glinskis ir Lietuvos kariuomenė po kautynių grįžo į stovyklą prie Klecko su belaisviais ir grobiu."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Teiginys pašalina religinį ir moralinį vertinimą, bet išlaiko pagrįstą faktą."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Mykolas Glinskis|Mykolas Glinskis]]; mentioned_place: Lietuva; mentioned_place: Nesvyžius; mentioned_place: Vilnius; llm_object: Kleckas"
-  semantiniai_rysiai: "[[objektai/asmenys/Mykolas Glinskis|Mykolas Glinskis]] keliavo į Kleckas; [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]] keliavo į Kleckas; Mykolas Glinskis keliavo į Kleckas (0.70); Lietuvos kariuomenė keliavo į Kleckas (0.70)"
-  temporaliniai_duomenys: "įvykio data: 1503 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys pašalina religinį ir moralinį vertinimą, bet išlaiko pagrįstą faktą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "301023-301582; hash=95b8b87c3b87c070dd01de052b1682145356dddb293e0f34320161d3405e7914; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Kleckas: 0.70"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuvos kariuomenė: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Kleckas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys nurodo, kad Lietuvos kariuomenė grįžo į stovyklą prie Klecko."
-  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-177476
 
@@ -78,12 +57,6 @@ Aleksandro mirties metais (1506) jie buvo pasiekę net Naugarduką ir Lydą; bet
 - t-008
   global_id: t-195089
   teiginys: "1506 metų rugpjūtį ties Kłecku Lietuvos pajėgos pasiekė lemiamą pergalę prieš Krymo ordos karius."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Citata pagrindžia mūšio vietą, laiką, priešininką ir rezultatą."
-  susije_objektai: "mentioned_place: Krymas; mentioned_place: Kłeckas; mentioned_place: Lietuva; mentioned_place: Vilnius"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "475662-476090; hash=8cc86c756a320242ee9b22c5a772450d15cb943ef293a5b3bb0cf3b0d34885ed; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177470
 
@@ -91,23 +64,6 @@ Aleksandro mirties metais (1506) jie buvo pasiekę net Naugarduką ir Lydą; bet
 - t-004
   global_id: t-195090
   teiginys: "Krymo totoriai apie liepos 20-22 d. apsistojo ties Klecku ir pradėjo grobti žmones bei turtą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Teiginys aiškus, faktinis ir paremtas komentaro informacija."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Krymo totoriai|Krymo totoriai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_place: Krymas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "658754-659218; hash=e9abbef2b81e5a159840f0f0d5b502917d1a232d3c384bf57dd3f5ca2a11565d; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aleksandras: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kleckas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Aleksandras: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kleckas\" parinktas kaip owner_note_path. Targetas \"Aleksandras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-177474
 
@@ -115,12 +71,6 @@ Aleksandro mirties metais (1506) jie buvo pasiekę net Naugarduką ir Lydą; bet
 - t-007
   global_id: t-195091
   teiginys: "Mikalojus Radvila apie 1514 metus pastatė Šv. Jurgio bažnyčią pergalei ties Kłecku prieš totorius atminti."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Citata pagrindžia fundatorių, datą, paskirtį ir ryšį su Kłecku."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]]; mentioned_place: Kłeckas; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva; mentioned_place: Plockas; mentioned_place: Vilnius"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "531020-531850; hash=2466d1d128a612f4f1b4d3b44e0572dd933eedb41d8c811537fa4f800f3bfdde; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177477
 
@@ -128,12 +78,6 @@ Aleksandro mirties metais (1506) jie buvo pasiekę net Naugarduką ir Lydą; bet
 - t-006
   global_id: t-195092
   teiginys: "Totoriai ties Kłecku įsirengė stovyklą ir nemažą būrį pasiuntė į Naugarduką."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Reikia pašalinti perteklinį terminą ir sutrumpinti sakinį."
-  susije_objektai: "llm_object: Naugardukas; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Kłeckas; mentioned_place: Naugardukas; mentioned_person: [[objektai/asmenys/Jonas Zabžezinskis|Jonas Zabžezinskis]]; mentioned_place: Vilnius"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "475350-475661; hash=f285071bf6931909f6370c680c9bc00de95756a9bdbe4a1db1a4a8d93ec83252; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177473
 
@@ -141,12 +85,6 @@ Aleksandro mirties metais (1506) jie buvo pasiekę net Naugarduką ir Lydą; bet
 - t-005
   global_id: t-195093
   teiginys: "Šaltinių sąrašas 271 VAKARŲ KRIKŠČIONYBĖS TVIRTOVĖ RYTUOSE p. 77 Krymo totorių isiveržimas į Lietuvą ir Lietuvos kariuomenės žygis link Klecko xv a., Karolis Zikaras, Loreta Uzdraitė."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1131970-1132172; hash=ed015aa2155608f9f6a8b4019117c2f3c18fe260cb7d9f5d4bb0be86510979f7; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177475
 
@@ -154,14 +92,6 @@ Aleksandro mirties metais (1506) jie buvo pasiekę net Naugarduką ir Lydą; bet
 - t-002
   global_id: t-195094
   teiginys: "LDK politinės tautos prielaidas kūrė karinės pergalės Žalgiryje, Klecke, Oršoje, Kirchholme ir Chotyne."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Teiginys yra pilnas sakinys ir citata pagrindžia Klecko paminėjimą tarp LDK karinių pergalių."
-  susije_objektai: "llm_object: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_place: Chotynas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_place: Lietuva"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "144055-144509; hash=9edbec2475046d55b67a468a7343424f93328fdc9c0d51429100e0a2e29ff6d3; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177472
 
@@ -169,15 +99,6 @@ Aleksandro mirties metais (1506) jie buvo pasiekę net Naugarduką ir Lydą; bet
 - t-001
   global_id: t-195095
   teiginys: "Apie liepos 20–22 d. totoriai įsirengė stovyklą prie Klecko, nes 1503 m. jų sunaikintas miestas buvo patogus išpuoliams."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Pradinis teiginys per ilgas; citata leidžia suformuluoti glaustesnį sakinį."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Lietuva; mentioned_place: Nesvyžius; mentioned_place: Vilnius"
-  temporaliniai_duomenys: "įvykio data: 1503 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys per ilgas; citata leidžia suformuluoti glaustesnį sakinį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "305776-306330; hash=f72e5cc75743474ed02aa644d736d1eab3bbdeca26a66b15a963420925a6807b; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177471
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171403|Totoriai]]: Artėdama Klecko link nuo Pinsko pusės LDK kariuomenė išėjo ant aukštumos, nuo kurios buvo matyti Kleckas ir jo kaimynystėje tarp Lanios ir Cepros upių išsirikiavusi totorių kariuomenė.
@@ -207,8 +128,8 @@ Aleksandro mirties metais (1506) jie buvo pasiekę net Naugarduką ir Lydą; bet
 
     Vilnius Aleksandro valdymo laikais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -225,8 +146,8 @@ Aleksandro mirties metais (1506) jie buvo pasiekę net Naugarduką ir Lydą; bet
     pergalės Žalgiryje, Klecke, Oršoje, Kirchholme (dab. Salaspilis), Chotyne,
     kuriose lietuviai kovojo petys į petį su rusėnais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -247,8 +168,8 @@ Aleksandro mirties metais (1506) jie buvo pasiekę net Naugarduką ir Lydą; bet
     pini neapsakomo džiaugsmo ir linksmybės, ramiai pra­
     leido tą naktį 2 S .
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -265,8 +186,8 @@ Aleksandro mirties metais (1506) jie buvo pasiekę net Naugarduką ir Lydą; bet
     Naugarduko, apie 130 km  nuo Lydos) ir pradėjo grobti žmones ir
     turtą, siautėdami daugiau kaip 100 km spinduliu aplink Klecką.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -284,8 +205,8 @@ Aleksandro mirties metais (1506) jie buvo pasiekę net Naugarduką ir Lydą; bet
     p. 77 Krymo totorių isiveržimas į Lietuvą ir Lietuvos kariuomenės žygis link Klecko xv a.,
     Karolis Zikaras, Loreta Uzdraitė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -303,8 +224,8 @@ Aleksandro mirties metais (1506) jie buvo pasiekę net Naugarduką ir Lydą; bet
     bės vaivadijų sostines47. Ši trokštama žinia jau merdintį
     Aleksandrą pasiekė Vilniuje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -339,8 +260,8 @@ Aleksandro mirties metais (1506) jie buvo pasiekę net Naugarduką ir Lydą; bet
     kalnelio prie Vilijos, pastatė bažnyčią Šv. Jurgio ir kartu Mer­
     gelės Dievo Gimdytojos garbei.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -356,8 +277,8 @@ Aleksandro mirties metais (1506) jie buvo pasiekę net Naugarduką ir Lydą; bet
     muną, savo papročiu plėšdamas apylinkes, atsidūrė vos per
     mylią nuo Lydos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -557,6 +478,3 @@ Aleksandro mirties metais (1506) jie buvo pasiekę net Naugarduką ir Lydą; bet
   patikimumo_saltinis: ai
   pagrindzia:
     - t-195091
-
-## Ryšiai
-- Buvo kelionės vieta: [[objektai/grupes/Lietuvos kariuomenė]], [[objektai/asmenys/Mykolas Glinskis]]

@@ -34,17 +34,6 @@ Tačiau nau­ jasis chanas, išvykęs iš Vilniaus, netrukus žuvo mūšyje su s
 - t-001
   global_id: t-87503
   teiginys: "Geremferdenas, padedamas Vytauto, įveikė priešininkus ir atvyko į Vilnių būti pripažintas Lietuvos vasalu."
-  semantiniai_rysiai: "Geremferdenas keliavo į Vilnius (0.93)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "335059-335692; hash=b590650ae93d2a2b3aaa1256f3f91aa125878d0cc91211497254603ed901987d; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Vilnius: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Geremferdenas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginyje tiesiogiai nurodyta, kad Geremferdenas atvyko į Vilnių."
   pagrindžia:
     - c-83482
 ## Reikšmingi paminėjimai
@@ -69,8 +58,8 @@ Tačiau nau­ jasis chanas, išvykęs iš Vilniaus, netrukus žuvo mūšyje su s
     maršalkos Radvilos, buvo išsiųstas į ordą, sėdo į tėvo sostą ir
     liko ištikimas Lietuvai bei paslaugus75 iki pat mirties.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

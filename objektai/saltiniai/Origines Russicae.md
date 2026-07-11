@@ -38,24 +38,6 @@ media_all_json: |-
 - t-001
   global_id: t-191850
   teiginys: "„Origines Russicae“ 1768 m. perspausdino Gerardo Fridriko Milerio kalbą „Rusų tautos ir vardo kilmė“."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1768 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sakinys sutvarkytas kaip teiginys apie patį leidinį ir Milerio kalbos perspausdinimą. Nepridėta vertinimų apie kalbos priėmimą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "783773-784169; hash=3db0ed50d379ec87def90c0bbaf817f7552e6b144989312db66e7541c731ea6d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Rusija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Origines Russicae: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Rusija: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Origines Russicae\" parinktas kaip owner_note_path. Targetas \"Rusija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174732
 ## Reikšmingi paminėjimai
@@ -76,8 +58,8 @@ media_all_json: |-
     vėl buvo išspausdinta (Origines Russicae / /
     Allgemeine historische Bibliothek. T. IV).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -88,7 +70,8 @@ media_all_json: |-
 - id: c-174732
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 433"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 433."
   citata_originali: |
     Gerardas Fridrikas Mileris
     (Müller;

@@ -30,22 +30,6 @@ Narbutas klydusiais vadino senovės tyrinėtojus, kurie, remdamiesi Priskumi, hu
 - t-001
   global_id: t-191631
   teiginys: "Narbutas klydusiais vadino senovės tyrinėtojus, kurie, remdamiesi Priskumi, hunus kildino iš skitų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Hunai gyveno Uralas (0.78)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "548820-549241; hash=15a28662b15c504104f7c47fc510a1ededbeb20c94c1b8b3e6fbdeedd812f5fd; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Uralas: 0.78"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Hunai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Uralas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "„Jų“ tekste nurodo hunus, o lopšys lokalizuojamas Uralo kalnuose."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174513
 ## Reikšmingi paminėjimai
@@ -64,8 +48,8 @@ Narbutas klydusiais vadino senovės tyrinėtojus, kurie, remdamiesi Priskumi, hu
     linksmintis ir dainuodami svetimšalių giesmes taip pat,
     kaip tai daro ir kiti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -76,7 +60,8 @@ Narbutas klydusiais vadino senovės tyrinėtojus, kurie, remdamiesi Priskumi, hu
 - id: c-174513
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 306"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 306."
   citata_originali: |
     Turbūt hu­
     nai buvo kilę iš plokščiaveidžių žmonių giminės, Hero­

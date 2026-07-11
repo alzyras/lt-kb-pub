@@ -35,19 +35,18 @@ tags:
 amziai:
   - 'XII'
   - 'XVI'
-media_total_count: '10'
-media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/e/ec/Map_by_the_US_Army_Map_Service_-_Polotsk_-_europe_500k_-_txu-pclmaps-oclc-6470410-polotsk-ne-54-26.jpg'
-media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Polotsk_-_europe_500k_-_txu-pclmaps-oclc-6470410-polotsk-ne-54-26.jpg'
-media_primary_directness: 'direct'
-media_primary_relation_type: 'map_of'
-media_primary_json: |-
-  {"mediaId":"m-de01b5d4fb49f9bade2d2d11","title":"Map by the US Army Map Service - Polotsk - europe 500k - txu-pclmaps-oclc-6470410-polotsk-ne-54-26.jpg","caption":"Polotsk - Sheet NE 54/26, 1:500,000 (9.5MB) - Europe, Series M404 (4072), 1:500,000, Great Britain War Office, 1942-","creator":"United States Army Map Service","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2025-04-14 08:31:07","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Polotsk_-_europe_500k_-_txu-pclmaps-oclc-6470410-polotsk-ne-54-26.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/ec/Map_by_the_US_Army_Map_Service_-_Polotsk_-_europe_500k_-_txu-pclmaps-oclc-6470410-polotsk-ne-54-26.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1}
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
 media_direct_json: |-
-  [{"mediaId":"m-de01b5d4fb49f9bade2d2d11","title":"Map by the US Army Map Service - Polotsk - europe 500k - txu-pclmaps-oclc-6470410-polotsk-ne-54-26.jpg","caption":"Polotsk - Sheet NE 54/26, 1:500,000 (9.5MB) - Europe, Series M404 (4072), 1:500,000, Great Britain War Office, 1942-","creator":"United States Army Map Service","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2025-04-14 08:31:07","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Polotsk_-_europe_500k_-_txu-pclmaps-oclc-6470410-polotsk-ne-54-26.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/ec/Map_by_the_US_Army_Map_Service_-_Polotsk_-_europe_500k_-_txu-pclmaps-oclc-6470410-polotsk-ne-54-26.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1},{"mediaId":"m-24a8953008fad5142420842e","title":"Map of Polotsk Namestnichestvo 1792 (small atlas).jpg","caption":"Small atlas of the Russian Empire (1792). Map of Polotsk Namestnichestvo (map 19).","creator":"publisher:Sytin's print shop","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1792","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMap_of_Polotsk_Namestnichestvo_1792_%28small_atlas%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/19/Map_of_Polotsk_Namestnichestvo_1792_%28small_atlas%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-576864b6bb68bbf229c5ae25","title":"Map of Polotsk Namestnichestvo 1796 (small atlas).jpg","caption":"Small atlas of the Russian Empire (1796). Map of Polotsk Namestnichestvo (map 20).","creator":"publisher:Sytin's print shop","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1796","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMap_of_Polotsk_Namestnichestvo_1796_%28small_atlas%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/13/Map_of_Polotsk_Namestnichestvo_1796_%28small_atlas%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-9927c687b89f07d6e90b1422","title":"Plan de la ville et des environs de Polotsk. campagne de Russie, aôut, septembre, octobre 1812 ; Plan de la bataille de Polotsk 18 octobre 1812 - Capitaine Vesco, aide de camp du général de division Le Grand - btv1b55004535f.jpg","caption":"Sujet : Guerres Batailles Polatsk -- Batailles Échelle(s) : [Echelle non déterminée] Couverture : Biélorussie Langue : français Éditeur : [s.n.]","creator":"Vesco (17..-18..? ; capitaine). Auteur du texte","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1812 date QS:P571,+1812-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APlan_de_la_ville_et_des_environs_de_Polotsk._campagne_de_Russie%2C_a%C3%B4ut%2C_septembre%2C_octobre_1812_%3B_Plan_de_la_bataille_de_Polotsk_18_octobre_1812_-_Capitaine_Vesco%2C_aide_de_camp_du_g%C3%A9n%C3%A9ral_de_division_Le_Grand_-_btv1b55004535f.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/e6/Plan_de_la_ville_et_des_environs_de_Polotsk._campagne_de_Russie%2C_a%C3%B4ut%2C_septembre%2C_octobre_1812_%3B_Plan_de_la_bataille_de_Polotsk_18_octobre_1812_-_Capitaine_Vesco%2C_aide_de_camp_du_g%C3%A9n%C3%A9ral_de_division_Le_Grand_-_btv1b55004535f.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-32978a4fa22884625566d4c6","title":"Polotsk (martian crater).png","caption":"Grayscale Mosaic Image of the crater as it was taken by the HiRISE Context Camera (CTX) instrument aboard the Mars Reconnaissance Orbiter (MRO) during its many flybys of the planet Mars within its scheduled mission. The mosaic image was created using the many years of data collected from the Mars Reconnaissance Orbiter during its mission. It was then compiled and stitched together on April 5th, 2023, by Caltech at Murray Labs into a 5.7 terapixel global mosaic image of Mars. Obtain via screenshot from Google Earth Pro of the KML file from the website ( https://murray-lab.caltech.edu/CTX/ )","creator":"NASA/JPL/MSSS/The Murray Lab","provider":"commons","providerLabel":"Wikimedia Commons","license":"Attribution","rightsNote":"https://murray-lab.caltech.edu/CTX/V01/SceneView/MurrayLabCTXmosaic.html","dateDisplay":"2025-12-01","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APolotsk_%28martian_crater%29.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/2d/Polotsk_%28martian_crater%29.png","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-c0e2418715b0a3ec83ff1e69","title":"Polotsk location map.png","caption":"Map of Polotsk, Belarus","creator":"OpenStreetMap contributors OpenStreetMap contributors","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 2.0","rightsNote":"Creative Commons Attribution-Share Alike 2.0","dateDisplay":"2015-03-31","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APolotsk_location_map.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c9/Polotsk_location_map.png","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-cd2694b362a92b384e47697a","title":"USSR map NN 35-3 -verso- Polotsk and Vicinity.jpg","caption":"List from Eastern Europe AMS Topographic Maps. Series N501, U.S. Army Map Service, 1954","creator":"U.S. Army Map Service","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1954","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AUSSR_map_NN_35-3_-verso-_Polotsk_and_Vicinity.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/24/USSR_map_NN_35-3_-verso-_Polotsk_and_Vicinity.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-46e86e035d2d8acb747ebdcb","title":"USSR map NN 35-3 Polotsk.jpg","caption":"List from Eastern Europe AMS Topographic Maps. Series N501, U.S. Army Map Service, 1954","creator":"U.S. Army Map Service","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1954","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AUSSR_map_NN_35-3_Polotsk.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/42/USSR_map_NN_35-3_Polotsk.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-ebb69c14a601b1fee11970bc","title":"Litthauen, Litthauische Reussen, Samogitien - Johann Ulrich Müller - Вялікае Княства Літоўскае, Рускае і Жамойцкае - Vialikaje Kniastva Litoŭskaje, Ruskaje i Žamojckaje.png","caption":"A page from an early 18th-century German pocket atlas (likely by Johann Ulrich Müller). It features a miniature map of the region and a text headed \"Litthauen theilet sich:\" (Lithuania divides itself:). The text explicitly outlines the administrative division of the state into three parts: 1. Lithuania proper ( In Litthauen selbsten ) ( https://en.wikipedia.org/wiki/Vilnius_Voivodeship , https://en.wikipedia.org/wiki/Trakai_Voivodeship , https://en.wikipedia.org/wiki/Brest_Litovsk_Voivodeship , https://en.wikipedia.org/wiki/Nowogr%C3%B3dek_Voivodeship_(1507%E2%80%931795) , 2. Lithuanian Ruthenia ( Das Litthauische Reussen )( https://en.wikipedia.org/wiki/Minsk_Voivodeship , https://en.wikipedia.org/wiki/Mstsislaw_Voivodeship , https://en.wikipedia.org/wiki/Vitebsk_Voivodeship , https://en.wikipedia.org/wiki/Polotsk_Voivodeship , https://en.wikipedia.org/wiki/Smolensk_Voivodeship ) , and 3. Samogitia ( Samogitien ) https://en.wikipedia.org/wiki/Duchy_of_Samogitia . This division reflects the full historical name of the state: Grand Duchy of Lithuania, Ruthenia and Samogitia .","creator":"Attributed to Creator:Johann Ulrich Müller (1653–1715)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"circa 1702 date QS:P571,+1702-00-00T00:00:00Z/9,P1480,Q5727902","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ALitthauen%2C_Litthauische_Reussen%2C_Samogitien_-_Johann_Ulrich_M%C3%BCller_-_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D0%B0%D0%B5_%D0%9A%D0%BD%D1%8F%D1%81%D1%82%D0%B2%D0%B0_%D0%9B%D1%96%D1%82%D0%BE%D1%9E%D1%81%D0%BA%D0%B0%D0%B5%2C_%D0%A0%D1%83%D1%81%D0%BA%D0%B0%D0%B5_%D1%96_%D0%96%D0%B0%D0%BC%D0%BE%D0%B9%D1%86%D0%BA%D0%B0%D0%B5_-_Vialikaje_Kniastva_Lito%C5%ADskaje%2C_Ruskaje_i_%C5%BDamojckaje.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/8/84/Litthauen%2C_Litthauische_Reussen%2C_Samogitien_-_Johann_Ulrich_M%C3%BCller_-_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D0%B0%D0%B5_%D0%9A%D0%BD%D1%8F%D1%81%D1%82%D0%B2%D0%B0_%D0%9B%D1%96%D1%82%D0%BE%D1%9E%D1%81%D0%BA%D0%B0%D0%B5%2C_%D0%A0%D1%83%D1%81%D0%BA%D0%B0%D0%B5_%D1%96_%D0%96%D0%B0%D0%BC%D0%BE%D0%B9%D1%86%D0%BA%D0%B0%D0%B5_-_Vialikaje_Kniastva_Lito%C5%ADskaje%2C_Ruskaje_i_%C5%BDamojckaje.png","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-71667e93d7b74342d64e1e4a","title":"Map of Polack.svg","caption":"Map of Polack","creator":"Unomano","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","dateDisplay":"2013-12-27 18:24:31","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMap_of_Polack.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/b/be/Map_of_Polack.svg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0}]
+  []
 media_contextual_json: |-
   []
 media_all_json: |-
-  [{"mediaId":"m-de01b5d4fb49f9bade2d2d11","title":"Map by the US Army Map Service - Polotsk - europe 500k - txu-pclmaps-oclc-6470410-polotsk-ne-54-26.jpg","caption":"Polotsk - Sheet NE 54/26, 1:500,000 (9.5MB) - Europe, Series M404 (4072), 1:500,000, Great Britain War Office, 1942-","creator":"United States Army Map Service","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2025-04-14 08:31:07","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMap_by_the_US_Army_Map_Service_-_Polotsk_-_europe_500k_-_txu-pclmaps-oclc-6470410-polotsk-ne-54-26.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/ec/Map_by_the_US_Army_Map_Service_-_Polotsk_-_europe_500k_-_txu-pclmaps-oclc-6470410-polotsk-ne-54-26.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1},{"mediaId":"m-24a8953008fad5142420842e","title":"Map of Polotsk Namestnichestvo 1792 (small atlas).jpg","caption":"Small atlas of the Russian Empire (1792). Map of Polotsk Namestnichestvo (map 19).","creator":"publisher:Sytin's print shop","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1792","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMap_of_Polotsk_Namestnichestvo_1792_%28small_atlas%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/19/Map_of_Polotsk_Namestnichestvo_1792_%28small_atlas%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-576864b6bb68bbf229c5ae25","title":"Map of Polotsk Namestnichestvo 1796 (small atlas).jpg","caption":"Small atlas of the Russian Empire (1796). Map of Polotsk Namestnichestvo (map 20).","creator":"publisher:Sytin's print shop","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1796","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMap_of_Polotsk_Namestnichestvo_1796_%28small_atlas%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/13/Map_of_Polotsk_Namestnichestvo_1796_%28small_atlas%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-9927c687b89f07d6e90b1422","title":"Plan de la ville et des environs de Polotsk. campagne de Russie, aôut, septembre, octobre 1812 ; Plan de la bataille de Polotsk 18 octobre 1812 - Capitaine Vesco, aide de camp du général de division Le Grand - btv1b55004535f.jpg","caption":"Sujet : Guerres Batailles Polatsk -- Batailles Échelle(s) : [Echelle non déterminée] Couverture : Biélorussie Langue : français Éditeur : [s.n.]","creator":"Vesco (17..-18..? ; capitaine). Auteur du texte","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1812 date QS:P571,+1812-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APlan_de_la_ville_et_des_environs_de_Polotsk._campagne_de_Russie%2C_a%C3%B4ut%2C_septembre%2C_octobre_1812_%3B_Plan_de_la_bataille_de_Polotsk_18_octobre_1812_-_Capitaine_Vesco%2C_aide_de_camp_du_g%C3%A9n%C3%A9ral_de_division_Le_Grand_-_btv1b55004535f.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/e6/Plan_de_la_ville_et_des_environs_de_Polotsk._campagne_de_Russie%2C_a%C3%B4ut%2C_septembre%2C_octobre_1812_%3B_Plan_de_la_bataille_de_Polotsk_18_octobre_1812_-_Capitaine_Vesco%2C_aide_de_camp_du_g%C3%A9n%C3%A9ral_de_division_Le_Grand_-_btv1b55004535f.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-32978a4fa22884625566d4c6","title":"Polotsk (martian crater).png","caption":"Grayscale Mosaic Image of the crater as it was taken by the HiRISE Context Camera (CTX) instrument aboard the Mars Reconnaissance Orbiter (MRO) during its many flybys of the planet Mars within its scheduled mission. The mosaic image was created using the many years of data collected from the Mars Reconnaissance Orbiter during its mission. It was then compiled and stitched together on April 5th, 2023, by Caltech at Murray Labs into a 5.7 terapixel global mosaic image of Mars. Obtain via screenshot from Google Earth Pro of the KML file from the website ( https://murray-lab.caltech.edu/CTX/ )","creator":"NASA/JPL/MSSS/The Murray Lab","provider":"commons","providerLabel":"Wikimedia Commons","license":"Attribution","rightsNote":"https://murray-lab.caltech.edu/CTX/V01/SceneView/MurrayLabCTXmosaic.html","dateDisplay":"2025-12-01","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APolotsk_%28martian_crater%29.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/2d/Polotsk_%28martian_crater%29.png","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-c0e2418715b0a3ec83ff1e69","title":"Polotsk location map.png","caption":"Map of Polotsk, Belarus","creator":"OpenStreetMap contributors OpenStreetMap contributors","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 2.0","rightsNote":"Creative Commons Attribution-Share Alike 2.0","dateDisplay":"2015-03-31","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APolotsk_location_map.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c9/Polotsk_location_map.png","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-cd2694b362a92b384e47697a","title":"USSR map NN 35-3 -verso- Polotsk and Vicinity.jpg","caption":"List from Eastern Europe AMS Topographic Maps. Series N501, U.S. Army Map Service, 1954","creator":"U.S. Army Map Service","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1954","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AUSSR_map_NN_35-3_-verso-_Polotsk_and_Vicinity.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/24/USSR_map_NN_35-3_-verso-_Polotsk_and_Vicinity.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-46e86e035d2d8acb747ebdcb","title":"USSR map NN 35-3 Polotsk.jpg","caption":"List from Eastern Europe AMS Topographic Maps. Series N501, U.S. Army Map Service, 1954","creator":"U.S. Army Map Service","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1954","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AUSSR_map_NN_35-3_Polotsk.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/42/USSR_map_NN_35-3_Polotsk.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-ebb69c14a601b1fee11970bc","title":"Litthauen, Litthauische Reussen, Samogitien - Johann Ulrich Müller - Вялікае Княства Літоўскае, Рускае і Жамойцкае - Vialikaje Kniastva Litoŭskaje, Ruskaje i Žamojckaje.png","caption":"A page from an early 18th-century German pocket atlas (likely by Johann Ulrich Müller). It features a miniature map of the region and a text headed \"Litthauen theilet sich:\" (Lithuania divides itself:). The text explicitly outlines the administrative division of the state into three parts: 1. Lithuania proper ( In Litthauen selbsten ) ( https://en.wikipedia.org/wiki/Vilnius_Voivodeship , https://en.wikipedia.org/wiki/Trakai_Voivodeship , https://en.wikipedia.org/wiki/Brest_Litovsk_Voivodeship , https://en.wikipedia.org/wiki/Nowogr%C3%B3dek_Voivodeship_(1507%E2%80%931795) , 2. Lithuanian Ruthenia ( Das Litthauische Reussen )( https://en.wikipedia.org/wiki/Minsk_Voivodeship , https://en.wikipedia.org/wiki/Mstsislaw_Voivodeship , https://en.wikipedia.org/wiki/Vitebsk_Voivodeship , https://en.wikipedia.org/wiki/Polotsk_Voivodeship , https://en.wikipedia.org/wiki/Smolensk_Voivodeship ) , and 3. Samogitia ( Samogitien ) https://en.wikipedia.org/wiki/Duchy_of_Samogitia . This division reflects the full historical name of the state: Grand Duchy of Lithuania, Ruthenia and Samogitia .","creator":"Attributed to Creator:Johann Ulrich Müller (1653–1715)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"circa 1702 date QS:P571,+1702-00-00T00:00:00Z/9,P1480,Q5727902","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ALitthauen%2C_Litthauische_Reussen%2C_Samogitien_-_Johann_Ulrich_M%C3%BCller_-_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D0%B0%D0%B5_%D0%9A%D0%BD%D1%8F%D1%81%D1%82%D0%B2%D0%B0_%D0%9B%D1%96%D1%82%D0%BE%D1%9E%D1%81%D0%BA%D0%B0%D0%B5%2C_%D0%A0%D1%83%D1%81%D0%BA%D0%B0%D0%B5_%D1%96_%D0%96%D0%B0%D0%BC%D0%BE%D0%B9%D1%86%D0%BA%D0%B0%D0%B5_-_Vialikaje_Kniastva_Lito%C5%ADskaje%2C_Ruskaje_i_%C5%BDamojckaje.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/8/84/Litthauen%2C_Litthauische_Reussen%2C_Samogitien_-_Johann_Ulrich_M%C3%BCller_-_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D0%B0%D0%B5_%D0%9A%D0%BD%D1%8F%D1%81%D1%82%D0%B2%D0%B0_%D0%9B%D1%96%D1%82%D0%BE%D1%9E%D1%81%D0%BA%D0%B0%D0%B5%2C_%D0%A0%D1%83%D1%81%D0%BA%D0%B0%D0%B5_%D1%96_%D0%96%D0%B0%D0%BC%D0%BE%D0%B9%D1%86%D0%BA%D0%B0%D0%B5_-_Vialikaje_Kniastva_Lito%C5%ADskaje%2C_Ruskaje_i_%C5%BDamojckaje.png","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-71667e93d7b74342d64e1e4a","title":"Map of Polack.svg","caption":"Map of Polack","creator":"Unomano","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","dateDisplay":"2013-12-27 18:24:31","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMap_of_Polack.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/b/be/Map_of_Polack.svg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0}]
+  []
 ---
 # Polockas
 
@@ -61,20 +60,6 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - t-048
   global_id: t-180424
   teiginys: "1505 m. totoriai siaubė Vilniaus, Polocko, Vitebsko, Drucko, Naugarduko ir Slucko apylinkes."
-  semantiniai_rysiai: "Totoriai puolė Polockas (0.67)"
-  temporaliniai_duomenys: "įvykio data: 1505 m.; įvykio data: 1506 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Perrašyta į glaustą faktinį sakinį, pašalinant šnekamąją citatos formuluotę."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "304964-305302; hash=3d12ab11f0d9f3f87cd4cbc41add2e0182219d61a00aa3e40ac9b9b2e25b8a3b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Polockas: 0.67"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Totoriai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Polockas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Polocko apylinkės įtrauktos į totorių siaubtas vietas."
   pagrindžia:
     - c-164053
 
@@ -82,16 +67,6 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - t-038
   global_id: t-180425
   teiginys: "Vienas vieškelis iš Vilniaus per Vilnios upę prie Vyskupo malūno suko į Polocką."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "236520-237385; hash=893f857c7ea1d339853fbcc24586131ea297ae2cc63c3d807ce0dea8bc7461ee; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lukiškės: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Polockas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lukiškės: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Polockas\" parinktas kaip owner_note_path. Targetas \"Lukiškės\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-164098
 
@@ -99,16 +74,6 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - t-051
   global_id: t-180458
   teiginys: "Vilnius Polocko dalinėje valdoje siejamas su Riuriko giminės kunigaikščiais Rostislavu ir Dovilu, arba Dovydu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "120897-121238; hash=af84347d4d9f813b5231c0b16e2a269037ae67584f99302204ee533b8fbd6f0c; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Riurikas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Polockas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Riurikas: mention_match, person, gap=37"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Polockas\" parinktas kaip owner_note_path. Targetas \"Riurikas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-164049
 
@@ -116,17 +81,6 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - t-006
   global_id: t-180427
   teiginys: "Didžiosios kunigaikštijos plačios sritys per Polocką ir Vitebską buvo įtrauktos į Dauguvos prekybą."
-  semantiniai_rysiai: "Polockas prekiavo su Dauguva (0.62)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "813240-813570; hash=b22112cb688a0f14b7a9fb82ca97b4a49fd466e71f580372ca917aa037fcf4b3; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "prekiavo_su -> Dauguva: 0.62"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Polockas: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Dauguva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Polockas nurodomas kaip kelias ar centras, per kurį sritys įtrauktos į Dauguvos prekybą."
   pagrindžia:
     - c-32343
 
@@ -134,19 +88,6 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - t-041
   global_id: t-180428
   teiginys: "1432 m. rugsėjo 3 d. Švitrigaila iš Polocko rašė didžiajam magistrui ir prašė skubios pagalbos."
-  semantiniai_rysiai: "Švitrigaila keliavo į Polockas (0.72)"
-  temporaliniai_duomenys: "įvykio data: 1432 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "140568-140909; hash=5141df0035b19fbd45124f0682368595c47748307a857e65067beabd62c15a41; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Polockas: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Polockas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Laiškas rašytas iš Polocko, todėl pagrįsta fiksuoti Švitrigailos buvimą ar kelionę į Polocką."
   pagrindžia:
     - c-164061
 
@@ -154,19 +95,6 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - t-065
   global_id: t-180429
   teiginys: "Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą."
-  temporaliniai_duomenys: "įvykio data: 1385 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys pilnas, nurodo Andriaus Polockiečio veiksmą ir remiasi citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "789167-789405; hash=291f2f316912208f25b658a044f8acfbee878919c383ef87c07f581beccd3a61; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Andrius Polockietis: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Polockas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Andrius Polockietis: mention_match, person, gap=8"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Polockas\" parinktas kaip owner_note_path. Targetas \"Andrius Polockietis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-164045
 
@@ -174,16 +102,6 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - t-051
   global_id: t-180458
   teiginys: "Vilnius Polocko dalinėje valdoje siejamas su Riuriko giminės kunigaikščiais Rostislavu ir Dovilu, arba Dovydu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "120897-121238; hash=af84347d4d9f813b5231c0b16e2a269037ae67584f99302204ee533b8fbd6f0c; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Riurikas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Polockas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Riurikas: mention_match, person, gap=37"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Polockas\" parinktas kaip owner_note_path. Targetas \"Riurikas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-164049
 
@@ -191,17 +109,6 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - t-022
   global_id: t-180433
   teiginys: "Skirgailai buvo paliktas Polockas ir pažadėta Kijevo kunigaikštija."
-  semantiniai_rysiai: "Skirgaila valdė miestą Polockas (0.84)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "843600-843805; hash=634d1c75a5e4a229f6a0496cd65d5c93ba88730ac3dfd43e19915a4da555bb26; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde_miesta -> Polockas: 0.84"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Skirgaila: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Polockas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Polockas buvo paliktas Skirgailai, todėl palaikomas jo valdymo ryšys."
   pagrindžia:
     - c-32345
 
@@ -209,16 +116,6 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - t-042
   global_id: t-180434
   teiginys: "Švitrigaila Polocke įkūrė atramos vietą, iš kurios beveik šešerius metus plito pilietinis karas Lietuvos žemėse."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "257660-258450; hash=17c41d5994d22ef556100a5d2d526b7978aaa5d182ccef975d5fd552c17e8c84; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Polockas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=84"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Polockas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-164094
 
@@ -226,16 +123,6 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - t-063
   global_id: t-180435
   teiginys: "Maskvos caras pyko, kad Steponas Batoras nepripažino jam Polocko, Smolensko ir Livonijos kunigaikščio titulų."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "588677-589045; hash=76d730d117db20277dcabd6b66c2949d799560a1049e71f3e74af3172b971a36; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Livonija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Polockas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Livonija: mention_match, place, gap=22"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Polockas\" parinktas kaip owner_note_path. Targetas \"Livonija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-164047
 
@@ -243,19 +130,6 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - t-047
   global_id: t-180436
   teiginys: "Pranciškus Skorina gimė Polocko pirklių šeimoje ir 1517–1519 m. Prahoje išspausdino „Rusėnų Biblijos“ knygas."
-  temporaliniai_duomenys: "įvykio data: 1517-1519; įvykio data: 1519 m.; įvykio data: po 1563 m.; įvykio data: 1563 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs ir turi būti užbaigtas."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "590162-590697; hash=e80e98c54f02d3f7682b8befe1ebf04de4404c65df47cee205e7105003c9ee63; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Praha: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Polockas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Praha: mention_match, place, gap=40"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Polockas\" parinktas kaip owner_note_path. Targetas \"Praha\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-164052
 
@@ -263,20 +137,6 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - t-014
   global_id: t-180438
   teiginys: "Vytenio ir Gedimino laikais Polockas 1307 m. buvo prijungtas prie Lietuvos kaip Baltosios Rusios dalis."
-  semantiniai_rysiai: "Polockas priklausė Lietuva (0.90); Polockas priklausė Baltoji Rusia (0.88)"
-  temporaliniai_duomenys: "įvykio data: 1307 m.; įvykio data: 1320 m.; įvykio data: 1340 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys sutelktas į Polocką ir pašalina perteklinį sąrašą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "60377-60904; hash=383b34832f673c57ff6b23e1de60866e24ba194febfe08aa909ddd36051591ce; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Lietuva: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Polockas: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Polocką kaip prie Lietuvos prijungtą Baltosios Rusios dalį."
   pagrindžia:
     - c-164048
 
@@ -284,19 +144,6 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - t-025
   global_id: t-180440
   teiginys: "1432 m. rugpjūčio 31 d. naktį užpultas Ašmenos dvare Švitrigaila spėjo pabėgti į Polocką."
-  temporaliniai_duomenys: "įvykio data: 1432 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas, aiškus ir paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "266337-266666; hash=80ba9579f8f11616af06ba08431efebab31a1326fcbcc04e671b6702e2b04109; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Ašmena: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Polockas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Ašmena: mention_match, place, gap=42"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Polockas\" parinktas kaip owner_note_path. Targetas \"Ašmena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-164046
 
@@ -304,19 +151,6 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - t-027
   global_id: t-180441
   teiginys: "Totorių žygis niokojo Vilniaus, Polocko, Vitebsko, Drucko, Naugarduko ir Slucko apylinkes LDK branduolyje."
-  semantiniai_rysiai: "Totoriai surengė žygį į Polockas (0.76); Totoriai puolė Polockas (0.67)"
-  temporaliniai_duomenys: "mūšio data: 1506 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "304964-305302; hash=3d12ab11f0d9f3f87cd4cbc41add2e0182219d61a00aa3e40ac9b9b2e25b8a3b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "surenge_zygi_i -> Polockas: 0.76"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Totoriai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Polockas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Totorių žygis siejamas su Polocko apylinkių niokojimu."
   pagrindžia:
     - c-164053
 
@@ -324,19 +158,6 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - t-064
   global_id: t-180442
   teiginys: "Karalius iš Vilniaus išžygiavo į Polocką ir po trijų savaičių apgulties jį paėmė."
-  semantiniai_rysiai: "Polockas priklausė Lietuva (0.86)"
-  temporaliniai_duomenys: "įvykio data: po 1563 m.; įvykio data: 1563 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "590162-590697; hash=e80e98c54f02d3f7682b8befe1ebf04de4404c65df47cee205e7105003c9ee63; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Lietuva: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Polockas: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Polockas sugrįžo Lietuvai."
   pagrindžia:
     - c-164091
 
@@ -344,21 +165,6 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - t-061
   global_id: t-180443
   teiginys: "Polockas, anksčiau patekęs į ordino įtaką, vėl buvo sugrąžintas Lietuvai."
-  temporaliniai_duomenys: "įvykio data: iki 1504 m.; įvykio data: 1492 m.; įvykio data: 1495 m.; įvykio data: po 1502 m.; įvykio data: 1502 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data."
-  temporalinis_llm_pakomentavimas: "Pašalinta kontekstinė priklausomybė nuo ankstesnio sakinio."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "641566-641757; hash=7f5980ce4bd1b984fe55a724ffecc5c298148ffd5bbae3eb97311e2da3dae668; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Polockas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=64"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Polockas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-164072
 
@@ -366,16 +172,6 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - t-004
   global_id: t-180444
   teiginys: "Strėvos kautynėse dalyvavo būriai iš Polocko, o kautynės baigėsi lietuvių pralaimėjimu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "691991-692335; hash=54e8db518b39268fab4847fef8b95dfb65c043a19ac9d79ac3bfa765fbe4fbae; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Polockas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=28"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Polockas\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-32341
 
@@ -383,20 +179,6 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - t-005
   global_id: t-180445
   teiginys: "Skirgaila sėkmingai apgulė Polocką, pats jame įsitvirtino, o Andrių paėmė į nelaisvę ir išsiuntė į Lenkiją."
-  semantiniai_rysiai: "Skirgaila apgulė Polockas (0.94); Skirgaila siuntė į Lenkija (0.87); Skirgaila valdė miestą Polockas (0.78)"
-  temporaliniai_duomenys: "mūšio data: 1399 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Skirgaila puolė Lenkija“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradiniame teiginyje yra neaiškus vietos pasakymas; citata leidžia suformuluoti aiškiau."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "789616-789934; hash=01edc2ca8d2160e4b758524af802692b5f8881d89d41024b5c6c7bc9534ee4b2; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "apgule -> Polockas: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Skirgaila: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Polockas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Skirgaila apgulė Polocką."
   pagrindžia:
     - c-164054
 
@@ -404,16 +186,6 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - t-018
   global_id: t-180446
   teiginys: "Polockas pasirinko bendradarbiavimą su Lietuva, kuri jam buvo natūrali gynėja ir sąjungininkė."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "342869-343294; hash=c84b4636c35568a0b1266d1a64b811e139b9947f96a10bb5b49a2de81adecfe5; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Polockas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=39"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Polockas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-164077
 
@@ -421,18 +193,6 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - t-061
   global_id: t-180448
   teiginys: "Vytautas patvirtino laisvos prekybos sutartį ir suteikė Polockui daugiau laisvės."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "615704-615981; hash=7af4e726649925b9ea9dfe1beb2fe555db3819b9fa7cdb33b9d48702c5a3b258; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Polockas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): mention_match, person, gap=56"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Polockas\" parinktas kaip owner_note_path. Targetas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-164063
 
@@ -440,17 +200,6 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - t-008
   global_id: t-180449
   teiginys: "Skirgailai apgulus Polocką, Jogailos kariuomenė ir Livonijos magistras atsiuntė jam pagalbinių būrių."
-  semantiniai_rysiai: "Skirgaila apgulė Polockas (0.93); Jogaila (kunigaikštis, XIV–XV a.) rėmė Skirgaila (0.80)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "59416-59776; hash=5132bf94f0356e2d7dbf5c1b2872e0d2cf683e65dae173900044d321bcb25316; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "apgule -> Polockas: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Skirgaila: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Polockas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Skirgaila apsiautė Polocką."
   pagrindžia:
     - c-37645
 
@@ -458,17 +207,6 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - t-056
   global_id: t-180450
   teiginys: "Švitrigaila, nusigavęs į Polocką, ten įkūrė atramos vietą, iš kurios beveik šešerius metus plito vaidai, puldinėjimai ir pilietinis karas."
-  semantiniai_rysiai: "Švitrigaila keliavo į Polockas (0.86)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "440164-441025; hash=3502b0d4c7a42ba910c7a1341e3e4f9bfd81af637a320c764d363f2480c18454; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Polockas: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Polockas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Švitrigaila nusigavo į Polocką."
   pagrindžia:
     - c-164069
 
@@ -476,16 +214,6 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - t-001
   global_id: t-180451
   teiginys: "Polockui Lietuva buvo natūralus gynėjas ir sąjungininkas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "342869-343294; hash=c84b4636c35568a0b1266d1a64b811e139b9947f96a10bb5b49a2de81adecfe5; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Polockas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=9"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Polockas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-164077
 
@@ -493,19 +221,6 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - t-015
   global_id: t-180452
   teiginys: "Tikėta, kad šventuoju paskelbtas Kazimieras 1518 m. padėjo Lietuvos kariuomenei įveikti priešą prie Polocko."
-  temporaliniai_duomenys: "įvykio data: 1518 m.; įvykio data: 1519 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie įvykį prie Polocko."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "100270-100602; hash=20ed93b9748d21cfe918677add2297605713fe51faa47c7cd4c01345411bd663; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Dauguva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Polockas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Dauguva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Polockas\" parinktas kaip owner_note_path. Targetas \"Dauguva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-164062
 
@@ -513,16 +228,6 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - t-007
   global_id: t-180453
   teiginys: "Algirdas rytinėse Lietuvos Didžiosios Kunigaikštijos žemėse pasodino savo sūnus, o Polocke sėdėjo Andrius."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "817028-817339; hash=c6f16ce040714ad3c924608ee2141b543a783c61750f87993af73b95bdf559a4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Polockas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person, gap=83"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Polockas\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-32344
 
@@ -530,20 +235,6 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - t-017
   global_id: t-180455
   teiginys: "1792 m. gegužės 22 d. Rusijos kariuomenė įžengė į LDK prie Polocko, pradėdama karą tarp LLV ir Rusijos."
-  semantiniai_rysiai: "Rusijos kariuomenė surengė žygį į Polockas (0.82)"
-  temporaliniai_duomenys: "įvykio data: 1792 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, užbaigtas ir paremtas citata."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "172104-172666; hash=d2fcc5e6971d4a193ab269572057a960411a9849f0500217f57a0009bfae1469; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "surenge_zygi_i -> Polockas: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Rusijos kariuomenė: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Polockas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Rusijos kariuomenės įžengimas prie Polocko tiesiogiai apibūdina karinį žygį į tą kryptį."
   pagrindžia:
     - c-164071
 
@@ -551,19 +242,6 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - t-060
   global_id: t-180456
   teiginys: "Vytauto valdymo metu Polockas buvo vienas iš dviejų didelių prekybos centrų Lietuvoje kartu su Kaunu."
-  semantiniai_rysiai: "Polockas prekiavo su Kaunas (0.66)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "610169-610513; hash=629140c633b542e43e31e7714b9397da647795de4d7b5d8a63eb9fcbfb53164b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "prekiavo_su -> Kaunas: 0.66"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Polockas: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Kaunas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Polockas ir Kaunas kartu įvardyti kaip dideli prekybos centrai Lietuvoje."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-164060
 
@@ -571,16 +249,6 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - t-051
   global_id: t-180458
   teiginys: "Vilnius Polocko dalinėje valdoje siejamas su Riuriko giminės kunigaikščiais Rostislavu ir Dovilu, arba Dovydu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "120897-121238; hash=af84347d4d9f813b5231c0b16e2a269037ae67584f99302204ee533b8fbd6f0c; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Riurikas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Polockas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Riurikas: mention_match, person, gap=37"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Polockas\" parinktas kaip owner_note_path. Targetas \"Riurikas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-164049
 
@@ -588,19 +256,6 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - t-039
   global_id: t-180459
   teiginys: "1388 m. Skirgaila save vadino Lietuvos kunigaikščiu ir Trakų bei Polocko valdovu."
-  semantiniai_rysiai: "Skirgaila valdė miestą Polockas (0.94)"
-  temporaliniai_duomenys: "įvykio data: 1388 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "252636-252995; hash=dc013424558156e5ce295aa85c812d1b2020a37e9a12b73ff4d0af2d1f1cfee4; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde_miesta -> Polockas: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Skirgaila: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Polockas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Dokumente Skirgaila tiesiogiai įvardytas Polocko valdovu."
   pagrindžia:
     - c-164064
 
@@ -608,19 +263,6 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - t-016
   global_id: t-180460
   teiginys: "Pranciškus Skorina gimė Polocko pirklių šeimoje ir 1517–1519 m. Prahoje išspausdino psalmyną bei 22 Senojo Testamento knygas."
-  temporaliniai_duomenys: "įvykio data: 1517-1519; įvykio data: 1519 m.; įvykio data: po 1563 m.; įvykio data: 1563 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data."
-  temporalinis_llm_pakomentavimas: "Teiginys gramatiškas ir pagrįstas citata."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "590162-590697; hash=e80e98c54f02d3f7682b8befe1ebf04de4404c65df47cee205e7105003c9ee63; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Praha: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Polockas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Praha: mention_match, place, gap=40"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Polockas\" parinktas kaip owner_note_path. Targetas \"Praha\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-164052
 
@@ -628,20 +270,6 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - t-065
   global_id: t-180462
   teiginys: "Vytenio ir Gedimino brolis Vainys valdė Polocką."
-  semantiniai_rysiai: "Gediminas buvo brolis Vytenis (0.96)"
-  temporaliniai_duomenys: "įvykio data: 1341 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Išplėstas neaiškus įvardis."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "361981-362619; hash=5d73ace79a00eea919dcbea90725c61ea1efbf8ce97d48f82c477ff7a6516a31; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_brolis -> Vytenis: 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vytenis: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Gedimino ir Vytenio brolystę."
   pagrindžia:
     - c-164056
 
@@ -649,16 +277,6 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - t-063
   global_id: t-180463
   teiginys: "Strėvos kautynėse dalyvavo būriai iš Polocko, o mūšis baigėsi lietuvių pralaimėjimu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "691911-692147; hash=1ed6650c25d3074d13ea05b643e59ce33e94b1ed7729a7e7d58deb5517bfcfee; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Polockas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=25"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Polockas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-164084
 
@@ -666,19 +284,6 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - t-009
   global_id: t-180464
   teiginys: "1411 m. pavasarį Vytautui vykstant pro Polocką iki Kijevo, tų kraštų kunigaikščiai jam reiškė paklusnumą."
-  temporaliniai_duomenys: "įvykio data: 1411 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys ir atitinka citatos informaciją."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "327825-328301; hash=d132e3c5fbe4c01309e93fc3194972f9d78bb45e48a1c818e206107c3ae3139c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> kunigaikščiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Polockas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "kunigaikščiai: mention_match, thing, gap=30"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Polockas\" parinktas kaip owner_note_path. Targetas \"kunigaikščiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-164042
 
@@ -686,16 +291,6 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - t-051
   global_id: t-180458
   teiginys: "Vilnius Polocko dalinėje valdoje siejamas su Riuriko giminės kunigaikščiais Rostislavu ir Dovilu, arba Dovydu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "120897-121238; hash=af84347d4d9f813b5231c0b16e2a269037ae67584f99302204ee533b8fbd6f0c; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Riurikas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Polockas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Riurikas: mention_match, person, gap=37"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Polockas\" parinktas kaip owner_note_path. Targetas \"Riurikas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-164049
 
@@ -703,17 +298,6 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - t-024
   global_id: t-180467
   teiginys: "Gedimino laikais Polockas jau buvo tarp anksčiau lietuvių užvaldytų žemių."
-  semantiniai_rysiai: "Polockas priklausė Lietuviai (0.86)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "52631-52897; hash=69af795387a79615a7eff01634d6fe644574b29e955530a75a007a6cdf3ff5d9; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Lietuviai: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Polockas: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Polocką tarp anksčiau lietuvių užvaldytų žemių."
   pagrindžia:
     - c-164070
 
@@ -721,20 +305,6 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - t-002
   global_id: t-180468
   teiginys: "Apie 1255 m. Mindaugas vėl atgavo valdžią Polocke, užėmė naujų žemių prie Dniepro — Černigovo ir Briansko kunigaikštijose."
-  semantiniai_rysiai: "Mindaugas (valdovas, XIII a.) valdė miestą Polockas (0.88); Mindaugas (valdovas, XIII a.) užėmė Brianskas (0.76); Mindaugas (valdovas, XIII a.) užėmė Černigovas (0.76)"
-  temporaliniai_duomenys: "įvykio data: 1255 m.; įvykio data: apie 1255 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
-  temporalinis_llm_pakomentavimas: "Teiginys pilnas, gramatiškas ir paremtas citatos informacija apie Mindaugą Polocke."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "507296-507465; hash=6e6f5dbc8dd1ebdcd7addb8266862bc221312d5beb3e835d5f5e6911a7cf7326; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde_miesta -> Polockas: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Mindaugas (valdovas, XIII a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Polockas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad Mindaugas atgavo valdžią Polocke."
   pagrindžia:
     - c-32339
 
@@ -742,20 +312,6 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - t-050
   global_id: t-180470
   teiginys: "1381 m. Skirgaila su Livonijos magistru dvylika savaičių laikė apsupęs Polocką."
-  semantiniai_rysiai: "Skirgaila apgulė Polockas (0.94)"
-  temporaliniai_duomenys: "įvykio data: 1381 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Fragmentas perrašytas į aiškų faktinį sakinį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "100010-100737; hash=0714118e3b652ba37f3b2777c9c9aad82c7e692e4e1885385c01d8d2e1ba4299; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "apgule -> Polockas: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Skirgaila: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Polockas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Skirgailą laikius apsupus Polocką."
   pagrindžia:
     - c-164044
 
@@ -763,18 +319,6 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - t-003
   global_id: t-180471
   teiginys: "Po Voinos mirties Gediminas Polocke pasodino Narimantą, nors Voina buvo palikęs įpėdinių."
-  temporaliniai_duomenys: "įvykio data: 1348 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "679871-680213; hash=a375178be046107f64c402aea25253d9016e0073db1200f6c875d349dd256d2e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Pinskas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Polockas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Pinskas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Polockas\" parinktas kaip owner_note_path. Targetas \"Pinskas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-164067
 
@@ -782,19 +326,6 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - t-062
   global_id: t-180472
   teiginys: "Vainys buvo vienas iš brolių ir valdė Polocką."
-  semantiniai_rysiai: "Gediminas buvo brolis Vytenis (0.96)"
-  temporaliniai_duomenys: "įvykio data: 1341 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "361981-362619; hash=5d73ace79a00eea919dcbea90725c61ea1efbf8ce97d48f82c477ff7a6516a31; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_brolis -> Vytenis: 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vytenis: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Gediminas buvo Vytenio brolis."
   pagrindžia:
     - c-164056
 
@@ -802,19 +333,6 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - t-036
   global_id: t-180474
   teiginys: "1381 m. Skirgaila su Livonijos magistru dvylika savaičių laikė apsupęs Polocką, bet buvo priverstas nutraukti apgultį."
-  semantiniai_rysiai: "Skirgaila apgulė Polockas (0.93)"
-  temporaliniai_duomenys: "įvykio data: 1381 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "100010-100737; hash=0714118e3b652ba37f3b2777c9c9aad82c7e692e4e1885385c01d8d2e1ba4299; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "apgule -> Polockas: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Skirgaila: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Polockas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Skirgaila laikė apsupęs Polocką."
   pagrindžia:
     - c-164044
 
@@ -822,17 +340,6 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - t-040
   global_id: t-180475
   teiginys: "Skirgailai išvykus į Polocką, atsirado proga įgyvendinti sumanymą Vilniuje."
-  semantiniai_rysiai: "Skirgaila keliavo į Polockas (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "255023-255344; hash=a0c28874c6f3637c52a1b5ec1201966cdc5bfbe28a5a390f5a6460da5e20327b; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Polockas: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Skirgaila: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Polockas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Skirgailos išvykimą į Polocką."
   pagrindžia:
     - c-164097
 
@@ -840,17 +347,6 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - t-035
   global_id: t-180476
   teiginys: "Jogailai pasiuntus Skirgailą į Polocko kunigaikštystę vietoje Kęstučiui palankaus Andriaus Algirdaičio, kilo atviras susirėmimas."
-  semantiniai_rysiai: "Jogaila (kunigaikštis, XIV–XV a.) siuntė į Polockas (0.91); Jogaila (kunigaikštis, XIV–XV a.) paskyrė Skirgaila (0.78)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "97826-98460; hash=b39e6b340216c74b541fdedee1abbf2838f8ef17f397233967058ad55d5166b8; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "siunte_i -> Polockas: 0.91"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Polockas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Jogaila pasiuntė Skirgailą į Polocko kunigaikštystę."
   pagrindžia:
     - c-164058
 
@@ -858,19 +354,6 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - t-064
   global_id: t-180442
   teiginys: "Karalius iš Vilniaus išžygiavo į Polocką ir po trijų savaičių apgulties jį paėmė."
-  semantiniai_rysiai: "Polockas priklausė Lietuva (0.86)"
-  temporaliniai_duomenys: "įvykio data: po 1563 m.; įvykio data: 1563 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "590162-590697; hash=e80e98c54f02d3f7682b8befe1ebf04de4404c65df47cee205e7105003c9ee63; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Lietuva: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Polockas: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Polockas sugrįžo Lietuvai."
   pagrindžia:
     - c-164091
 
@@ -878,16 +361,6 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - t-051
   global_id: t-180458
   teiginys: "Vilnius Polocko dalinėje valdoje siejamas su Riuriko giminės kunigaikščiais Rostislavu ir Dovilu, arba Dovydu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "120897-121238; hash=af84347d4d9f813b5231c0b16e2a269037ae67584f99302204ee533b8fbd6f0c; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Riurikas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Polockas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Riurikas: mention_match, person, gap=37"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Polockas\" parinktas kaip owner_note_path. Targetas \"Riurikas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-164049
 
@@ -895,17 +368,6 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - t-049
   global_id: t-180479
   teiginys: "Jogailai pasiuntus Skirgailą į Polocko kunigaikštystę vietoje Andriaus Algirdaičio, kilo atviras susirėmimas."
-  semantiniai_rysiai: "Jogaila (kunigaikštis, XIV–XV a.) siuntė į Polockas (0.91); Jogaila (kunigaikštis, XIV–XV a.) paskyrė Skirgaila (0.78)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "97826-98460; hash=b39e6b340216c74b541fdedee1abbf2838f8ef17f397233967058ad55d5166b8; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "siunte_i -> Polockas: 0.91"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Polockas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Jogailos siuntimą į Polocko kunigaikštystę."
   pagrindžia:
     - c-164058
 
@@ -913,16 +375,6 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - t-063
   global_id: t-180435
   teiginys: "Maskvos caras pyko, kad Steponas Batoras nepripažino jam Polocko, Smolensko ir Livonijos kunigaikščio titulų."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "588677-589045; hash=76d730d117db20277dcabd6b66c2949d799560a1049e71f3e74af3172b971a36; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Livonija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Polockas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Livonija: mention_match, place, gap=22"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Polockas\" parinktas kaip owner_note_path. Targetas \"Livonija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-164047
 
@@ -930,20 +382,6 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - t-055
   global_id: t-180481
   teiginys: "1432 m. rugsėjo 3 d. Švitrigaila iš Polocko parašė laišką didžiajam magistrui, prašydamas skubios pagalbos."
-  semantiniai_rysiai: "Švitrigaila keliavo į Polockas (0.72)"
-  temporaliniai_duomenys: "įvykio data: 1432 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalintas nutrūkimas ir suformuluotas pilnas sakinys."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "140568-140909; hash=5141df0035b19fbd45124f0682368595c47748307a857e65067beabd62c15a41; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Polockas: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Polockas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Laiško rašymas iš Polocko rodo Švitrigailos buvimą Polocke."
   pagrindžia:
     - c-164061
 
@@ -951,16 +389,6 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - t-051
   global_id: t-180458
   teiginys: "Vilnius Polocko dalinėje valdoje siejamas su Riuriko giminės kunigaikščiais Rostislavu ir Dovilu, arba Dovydu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "120897-121238; hash=af84347d4d9f813b5231c0b16e2a269037ae67584f99302204ee533b8fbd6f0c; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Riurikas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Polockas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Riurikas: mention_match, person, gap=37"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Polockas\" parinktas kaip owner_note_path. Targetas \"Riurikas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-164049
 
@@ -968,18 +396,6 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - t-003
   global_id: t-180471
   teiginys: "Po Voinos mirties Gediminas Polocke pasodino Narimantą, nors Voina buvo palikęs įpėdinių."
-  temporaliniai_duomenys: "įvykio data: 1348 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "679871-680213; hash=a375178be046107f64c402aea25253d9016e0073db1200f6c875d349dd256d2e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Pinskas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Polockas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Pinskas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Polockas\" parinktas kaip owner_note_path. Targetas \"Pinskas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-164067
 
@@ -987,17 +403,6 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - t-013
   global_id: t-180484
   teiginys: "Gedimino ar Algirdo laikais Polocko žemės telkėsi apie Lietuvą kaip politinės sistemos centrą."
-  semantiniai_rysiai: "Polockas priklausė Lietuva (0.68)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "53150-53655; hash=81a2b62b2abd9c8f1dbe1ec571270d110f62ea764957025fbb09de6f64f64e90; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Lietuva: 0.68"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Polockas: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Polocko žemės nurodomos kaip telkusios apie Lietuvą politinės sistemos centre."
   pagrindžia:
     - c-164068
 
@@ -1005,20 +410,6 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - t-053
   global_id: t-180485
   teiginys: "1388 m. dokumente Skirgaila save vadino Lietuvos kunigaikščiu ir Trakų bei Polocko valdovu."
-  semantiniai_rysiai: "Skirgaila valdė miestą Polockas (0.94)"
-  temporaliniai_duomenys: "įvykio data: 1388 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Iš citatos išverstas ir sutvarkytas aiškus teiginys."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "252636-252995; hash=dc013424558156e5ce295aa85c812d1b2020a37e9a12b73ff4d0af2d1f1cfee4; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde_miesta -> Polockas: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Skirgaila: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Polockas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Dokumente Skirgaila tiesiogiai vadinamas Polocko valdovu."
   pagrindžia:
     - c-164064
 
@@ -1026,17 +417,6 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - t-026
   global_id: t-180486
   teiginys: "Po nepavykusio žygio gilyn į Lietuvą Švitrigaila grįžo į Polocką, paleido kariuomenę ir išvyko į Kijevą."
-  semantiniai_rysiai: "Švitrigaila keliavo į Kijevas (0.88); Švitrigaila keliavo į Polockas (0.87)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "275382-275661; hash=e9fa5e5c01e09036a3f98d49ef0e20ff6899dbb3d7c53836ee457430ce884c47; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Kijevas: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kijevas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Švitrigaila išvyko į Kijevą."
   pagrindžia:
     - c-164082
 
@@ -1044,16 +424,6 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - t-051
   global_id: t-180458
   teiginys: "Vilnius Polocko dalinėje valdoje siejamas su Riuriko giminės kunigaikščiais Rostislavu ir Dovilu, arba Dovydu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "120897-121238; hash=af84347d4d9f813b5231c0b16e2a269037ae67584f99302204ee533b8fbd6f0c; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Riurikas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Polockas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Riurikas: mention_match, person, gap=37"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Polockas\" parinktas kaip owner_note_path. Targetas \"Riurikas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-164049
 
@@ -1061,16 +431,6 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - t-052
   global_id: t-180488
   teiginys: "Vienas vieškelis iš Vilniaus per Vilnios upę prie bendro naudojimo malūno suko į Polocką."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "236520-237385; hash=893f857c7ea1d339853fbcc24586131ea297ae2cc63c3d807ce0dea8bc7461ee; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lukiškės: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Polockas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lukiškės: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Polockas\" parinktas kaip owner_note_path. Targetas \"Lukiškės\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-164098
 
@@ -1078,20 +438,6 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - t-068
   global_id: t-183076
   teiginys: "Po sąmokslininkų užpuolimo Švitrigaila paspruko į Polocką ir paėmė į savo valdžią Polocko sritį."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Švitrigaila keliavo į Polockas (0.88); Švitrigaila valdė teritoriją Polockas (0.80)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "362620-363124; hash=0c321c6e4db0c2f2d7087b2ddacef5c4d11e60a7e70bad1c82c742eb01f98b25; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Polockas: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Polockas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Švitrigailos pasitraukimą į Polocką."
   pagrindžia:
     - c-166466
 
@@ -1099,20 +445,6 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - t-076
   global_id: t-185095
   teiginys: "Daumantas susitaikė su broliu ir gavo valdyti Polocko kraštą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Daumantas (kunigaikštis, XV a.) valdė teritoriją Polockas (0.93)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "243881-244414; hash=7fa9f148a48dfa22f8b19503abf2f753651305bf249fd4828a08a066a87aa173; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde_teritorija -> Polockas: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Daumantas (kunigaikštis, XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Polockas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Daumantas gavo valdyti Polocko kraštą."
   pagrindžia:
     - c-168456
 
@@ -1120,20 +452,6 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - t-077
   global_id: t-185096
   teiginys: "Gediminas laukė pagrindinių dalinių, kuriems į pagalbą turėjo ateiti naugardukiečiai ir polockiečiai."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Polockiečiai rėmė Gediminas (0.78); Naugardukiečiai rėmė Gediminas (0.78)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "335188-335776; hash=c444c6afe473cb49048be1999bb8b23996d1a2dbd307a8849a33d0b109ed3b27; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "reme -> Gediminas: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Naugardukiečiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Gediminas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Naugardukiečiai minimi tarp dalinių, atėjusių Gediminui į pagalbą."
   pagrindžia:
     - c-168457
 
@@ -1141,22 +459,6 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - t-078
   global_id: t-185097
   teiginys: "Kazimieras žiemos viduryje lankėsi Baltarusijoje ir Polocke, Vitebske bei Smolenske tvarkė taikos bei karo reikalus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1470 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie Polocką ir atitinka citatos turinį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "914864-916138; hash=6e31fa6bffc61a4c57c3712602ee571a1b2bdab1aab706a91e667acbea63b0a4; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Smolenskas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Polockas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Smolenskas: mention_match, place, gap=22"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Polockas\" parinktas kaip owner_note_path. Targetas \"Smolenskas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-168458
 
@@ -1164,21 +466,6 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - t-059
   global_id: t-187639
   teiginys: "Lietuvos metraštis Kęstutį vadina didžiuoju kunigaikščiu ir rašo, kad užėmęs Vilnių jis pasiuntė du žmones į Polocką."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "140568-140909; hash=5141df0035b19fbd45124f0682368595c47748307a857e65067beabd62c15a41; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Alšėnai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Polockas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Alšėnai: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Polockas\" parinktas kaip owner_note_path. Targetas \"Alšėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-170586
 
@@ -1186,21 +473,6 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - t-060
   global_id: t-187640
   teiginys: "Lietuvos metraštis Aleksandrą vadina didžiuoju kunigaikščiu ir rašo, kad jis su Elena bei didikais lankėsi Polocke."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "257660-258450; hash=17c41d5994d22ef556100a5d2d526b7978aaa5d182ccef975d5fd552c17e8c84; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Bajorai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Polockas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Bajorai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Polockas\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-170587
 
@@ -1208,24 +480,6 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - t-061
   global_id: t-187641
   teiginys: "Stanislovas Hlebavičius Polocko vietininku buvo bene nuo 1502 m."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: iki 1504 m.; įvykio data: 1492 m.; įvykio data: 1495 m.; įvykio data: po 1502 m.; įvykio data: 1502 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus sakinys apie Stanislovo Hlebavičiaus pareigas Polocke. Paliktas atsargus „bene“, nes citata pati taip riboja datavimą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "641566-641757; hash=7f5980ce4bd1b984fe55a724ffecc5c298148ffd5bbae3eb97311e2da3dae668; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vitebskas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Polockas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Vitebskas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Polockas\" parinktas kaip owner_note_path. Targetas \"Vitebskas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-170588
 
@@ -1233,22 +487,6 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - t-062
   global_id: t-188804
   teiginys: "Narbutas pasakoja, kad po Mindaugo žūties Treniota nužudė Polocko Tautvilą, o bijodamas polockiečių keršto įkalino Polocko bajorus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1341 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Išskleistas Polocko kontekstas ir įvardyti Tautvila, Treniota bei Polocko bajorai. Motyvas „bijodamas keršto“ paliktas su Narbuto atribucija."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "361981-362619; hash=5d73ace79a00eea919dcbea90725c61ea1efbf8ce97d48f82c477ff7a6516a31; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Polockiečiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Polockas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Polockiečiai: mention_match, group, gap=30"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Polockas\" parinktas kaip owner_note_path. Targetas \"Polockiečiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-171693
 
@@ -1256,20 +494,6 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - t-063
   global_id: t-188805
   teiginys: "1264 metais Lietuvos ponai po Treniotos mirties pasiuntė Liutaurą užimti Polocko ir valdyti jį vietininku."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Lietuvos ponai siuntė į Polockas (0.78)"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "362620-363124; hash=0c321c6e4db0c2f2d7087b2ddacef5c4d11e60a7e70bad1c82c742eb01f98b25; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "siunte_i -> Polockas: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuvos ponai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Polockas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys nurodo, kad Lietuvos ponai pasiuntė Liutaurą į Polocką jo užimti."
   pagrindžia:
     - c-171694
 
@@ -1277,14 +501,6 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - t-079
   global_id: t-193226
   teiginys: "Šiaurėje, kur buvo susikūrusi galinga Polocko kunigaikštija, lietuvių ir latvių giminėms iš karto irgi nelabai sekėsi."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "92073-92398; hash=c492978c3160ac9a4f377f39fb3c5dc9e3843bb01c53e5378580b7a6fd4b18ba; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175965
 
@@ -1292,14 +508,6 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - t-080
   global_id: t-193779
   teiginys: "1563 m. pradžioje didelė Maskvos kariuomenė užėmė Polocką - strateginės reikšmės Lietuvos tvirtovę."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "358153-358426; hash=b4e402f2b169be0db27f259e1f64b91df3d9dba0cbce1c1b3c948e4d5d8e1eaf; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-43754
 
@@ -1307,12 +515,6 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - t-081
   global_id: t-194258
   teiginys: "Kaip ir tame neseniai vykusiame kare prieš Maskvos kunigaikštį prie Polocko rizikavo savo gyvybe ir sveikata, savo noru ir būdamas taurios riteriškos širdies, nusėdęs nuo žirgo, ne bodamas jokio pavojaus, stojo prie pat priešininko pilies sienų, kad ją užimtų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "795605-796011; hash=829268417cbffb8de1314859d7569a046899086a5d2c1e2ba86146bd9e2211a2; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176852
 - susijęs iš [[objektai/ivykiai/Andriaus Algirdaičio maištas prieš Jogailą.md#claim-t-186722|Andriaus Algirdaičio maištas prieš Jogailą]]: 1387 m. balandžio pirmojoje pusėje Skirgaila užėmė Polocką, o Andrius Algirdaitis buvo suimtas.
@@ -1686,8 +888,8 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
     prie Dniepro — Černigovo ir Briansko kunigaikštijose.
     Įvykiai tačiau ėmė vystytis Mindaugo nenaudai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1703,8 +905,8 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
     žuvę keliolika tūkstančių žmonių, o dar keli tūkstančiai esą prigėrę
     Strėvoje, kai pati upė yra nesunkiai perbrendama.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1720,8 +922,8 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
     Gedimino laikų Ryga išsivystė Lietuvai ypatingai svarbiu prekybos
     centru.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1736,8 +938,8 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
     tras († 1399), Černihove — Konstantinas, Kijeve — Vladimiras (†
     1398), Ratne (Pripetės aukštupyje)—Teodoras († 1394).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1751,8 +953,8 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
     Žadėdamas nesiskirti nuo Lenkijos ir jai teikti pagalbą prieš
     jos priešus, Vytautas betarpiškai gavo didelę valstybės dalį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1769,8 +971,8 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
     su Livonijos magistru tuoj atsiuntė jam talkon savo būrius^1 ).
     Kęstutis jau nebegalėjo abejoti, kad Kuno v.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1784,8 +986,8 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
     tvirtovę. Kelias į Lietuvos gilumą tapo atviras. 1564 m. dvi didelės rusų kariaunos pajudėjo Vilniaus link. Lietuvos
     kariuomenė sugebėjo jas abi sumušti, dar nespėjus joms susijungti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1805,8 +1007,8 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
     jam lenkėsi visi tų kraštų kunigaikščiai, išreikšdami savo pa­
     klusnumą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1836,8 +1038,8 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
     Polocko kunigaikštis - visai išgalvo­
     tas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1853,8 +1055,8 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
     Dar 1385 m. rudenį (X.10) jis su Livonijos magistru buvo sudaręs
     vasalinę sutartį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1875,8 +1077,8 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
     Kęstutaitį didžiojoje kunigaikštystėje
     Vilniuje ir Trakuose rugsėjo 1 d.“ Greitai
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1893,8 +1095,8 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
     nuo seno buvo toks paprotys, kad valdovai vienas kitą vadin-
     davo broliu; tačiau caras, pykdamas ant Stp.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1915,8 +1117,8 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
     kais – Baltoji Rusia (Polockas – 1307 m., Vitebskas – 1320 m.) ir Volui-
     nė (1340 m.) – taigi visa dabartinė Baltarusija ir dalis Vakarų Ukrainos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1934,8 +1136,8 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
     Kunigaikštis Dovilas, arba Dovydas, kunigaikščio Rostis-
     lavičiaus sūnus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1959,8 +1161,8 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
     psalmyną ir 22 Senojo Testamento knygas bendru pavadinimu „Rusėnų
     Biblija“.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1979,8 +1181,8 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
     krašte. Totoriai neturėjo pagrindo įtarti, kad
     sėkmė nuo jų šį kartą nusisuks.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1998,8 +1200,8 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
     Vėliau laisvę atgavęs, Andrius žuvo Vytauto pusėje 1399 m. besi­
     kaudamas su totoriais prie Vorsklos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2013,8 +1215,8 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
     Gediminas buvo Vytenio brolis. Kitas jo brolis, Vainys, val-
     dė Polocką. Gediminas nebuvo toks karingas, kaip Vytenis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2042,8 +1244,8 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
     Vaidilos, ir didysis komtūras, ku­
     ris jiems iškėlė puikias vaišes.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2062,8 +1264,8 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
     kybos centrai — Kaunas ir Polockas. Juose buvo daugiausia
     įsigalėję vokiečių pirkliai, turėdami čia savo kontoras.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2089,8 +1291,8 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
     la pabėgęs į Smolenską, bet ne į Po­
     locką.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2107,8 +1309,8 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
     karuose su Maskva – 1518 m. padėjęs Lietuvos kariuomenei įveikti prie-
     šą prie Polocko, o 1519 m. laimėti mūšį prie Dauguvos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2126,8 +1328,8 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 
     (^1) ) C.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2148,8 +1350,8 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
     Latopisiec Litwy, paskelbtas D a ni­
     to w i c z, Wilno, 1827, 8vo, 1.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2166,8 +1368,8 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
     dino Narimantą. Jam su Karijotu, gavusiu dalį Juodojoje Rusioje
     (Naugarduke), teko ir santykiai su totoriais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2186,8 +1388,8 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
     buvę Voluinė ir Haličas, Kijevas, Pskovas. Tai leido Lietuvai tapti didelių
     politinių kombinacijų dalyve ir vyraujančia regiono jėga – didvalstybe.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2220,8 +1422,8 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
     jų lygiai tokių pat galingų, kaip ir viena kitos nekenčiančių
     Žygimanto ir Švitrigailos grupuočių taikiniu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2237,8 +1439,8 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
     pridėjo užkariautas Haličo-Voluinės, Vitebsko ir Kijevo žemes.
     Lietuva tapo didvalstybe - regiono lydere.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2258,8 +1460,8 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
     sijos „Lietuvos kariuomenėje“ buvo 33,7 tūkst. karių, prieš kuriuos LDK,
     Lenkijos padedama, galėjo pasiųsti 18 tūkst.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2274,8 +1476,8 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
     įtaką, vėl buvo sugrąžintas Lietuvai. Jam nepasisekė tik atgauti
     Vitebsko.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2293,8 +1495,8 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
     davo reikalingų žinių, padėdavo persikelti per upes, ar pervesdavo
     per brastas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2316,8 +1518,8 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
     įsibrovė trys Livonijos daliniai, jie niokojo
     Upytės kraštą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2332,8 +1534,8 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
     tynės, kuriose dalyvavo būriai iš Vladimiro (Volinijos), Liet. Bras­
     tos, Polocko, Vitebsko ir Smolensko, baigėsi lietuvių pralaimėjimu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2359,8 +1561,8 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
     kas sugrįžo Lietuvai ir liko jos
     iki pirmojo padalinimo).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2388,8 +1590,8 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
     gaila ne tik nepadarė, bet, savavališkai atimdamas palikimą
     iš įvairių šeimynų, visus prieš save sukiršino18.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2411,8 +1613,8 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
     dengtų rogių, prikrautų įvairių atsargų, ten sutalpino ir gin­
     kluotų žmonių būrį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2445,8 +1647,8 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
     zilijonų bažnyčia, ir pranciškonų bažnyčia, mūsų jau minė­
     ta.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2466,8 +1668,8 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
     vos, liko tiktai Palenkės, Pagirio ir Minsko žemės.
     Zigmanto ryšiai su Lenkija.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2492,8 +1694,8 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
     kamos progos nuversti Traidenį ir, pamynus tėvo ir
     brolio teises, pasigrobti valdžią.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2523,8 +1725,8 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
     ženklai: nenorėjo nei neapdairiai pulti į kovą, nei nie­
     ko nedaryti.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2568,8 +1770,8 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
     Motiejų ir Jurgį, bendromis pastangomis bei jungtinė­
     mis karo jėgomis suteikti Čekijos sostą Vladislovui.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2587,8 +1789,8 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
     kariuomenei, kariai atsimetė nuo Skirgailos ir patrau­
     kė į Vilnių, pas didįjį kunigaikštį Kęstutį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2618,8 +1820,8 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
     į Brastą \  o karalius Olbrachtas su jų broliu, karalai­
     čiu Zigmantu — į Liubliną 5 .
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2633,8 +1835,8 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
     ir didžiojo kunigaikščio maršalu (iki 1504 m. imtinai); 1495 m. —
     Vitebsko vietininku. Polocko vietininku buvo bene nuo 1502 m.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2656,8 +1858,8 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
     jį Joną, Tautvilos sūnų, nes kitaip įsakysiąs iškapoti visus su­
     imtus bajorus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2677,8 +1879,8 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
     loje, Kumanų žemėje, pagaliau grįžo ir valdė Polocko kuni­
     gaikštystę kartu su savo tėvu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2696,8 +1898,8 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
     atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas
     vis artino į aisčių kraštą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2721,8 +1923,8 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
     IV KNYGA
     kartu kovėsi, norėdamas parodyti pavyzdį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3597,7 +2799,8 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - id: c-168457
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 194"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 194."
   citata_originali: |
     Tai šen, tai ten liepsnojo prie­
     šo padegti kaimai, kylantys
@@ -3673,7 +2876,8 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - id: c-170586
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 79"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 79."
   citata_originali: |
     26. APIE KRYŽIUOČIŲ PAGALBĄ JOGAILAI IR DIDŽIOJO
     KUNIGAIKŠČIO KĘSTUČIO NUŽUDYMĄ
@@ -3738,7 +2942,8 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - id: c-171693
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 213"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 213."
   citata_originali: |
     Tragiškai žuvus Lietuvos ir Rusios kunigaikščiui Mindaugui,
     jo žudikai kunigaikščiai -  Užgirio (Transilvaticus) Dauman­
@@ -3761,7 +2966,8 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 - id: c-171694
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 213"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 213."
   citata_originali: |
     Todėl Jonas, išvaduodamas nuo nelaimės Po­
     locko ponus, išjojo į Naugardą ir ten tapo vienuoliu. O Lietu­
@@ -3825,14 +3031,11 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Skirgaila]]
-- Buvo valdoma: [[objektai/asmenys/Andrius Algirdaitis]], [[objektai/asmenys/Daumantas|Daumantas (kunigaikštis, XV a.)]], [[objektai/asmenys/Ginvilas]], [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]], [[objektai/asmenys/Skirgaila]], [[objektai/asmenys/Švitrigaila]], [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]]
-- Buvo kelionės vieta: [[objektai/asmenys/Aleksandras Jogailaitis]], [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]], [[objektai/asmenys/Rostislavas Rogvoldovičius]], [[objektai/asmenys/Skirgaila]], [[objektai/asmenys/Švitrigaila]]
-- Puolė Polocką: [[objektai/asmenys/Gabrielius Bekešas]], [[objektai/asmenys/Mechmet Girėjus]], [[objektai/grupes/Pskoviečiai]], [[objektai/grupes/Totoriai]]
+- Buvo valdoma: [[objektai/asmenys/Daumantas|Daumantas (kunigaikštis, XV a.)]], [[objektai/asmenys/Skirgaila]], [[objektai/asmenys/Švitrigaila]]
+- Buvo kelionės vieta: [[objektai/asmenys/Skirgaila]], [[objektai/asmenys/Švitrigaila]]
+- Puolė Polocką: [[objektai/asmenys/Mechmet Girėjus]], [[objektai/grupes/Pskoviečiai]]
 - Apgulė Polocką: [[objektai/asmenys/Ivanas Rūstusis]], [[objektai/asmenys/Skirgaila]]
 - Užėmė Polocką: [[objektai/asmenys/Skirgaila]]
-- Buvo siuntimo vieta: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/grupes/Lietuvos ponai]]
-- Buvo žygio kryptis: [[objektai/asmenys/Florijonas Zebžidovskis]], [[objektai/grupes/Rusijos kariuomenė]], [[objektai/grupes/Totoriai]]
-- Prekiavo su: [[objektai/vietos/Ryga]]
+- Buvo siuntimo vieta: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
 - Gyvenamoji vieta: [[objektai/grupes/Rusai]], [[objektai/asmenys/Tautvilas]]
-- Polockas prekiavo su [[objektai/vietos/Dauguva]], [[objektai/vietos/Kaunas]]
-- Polockas priklausė [[objektai/vietos/Baltoji Rusia]], [[objektai/vietos/Lietuva]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Rusai]], [[objektai/asmenys/Skirgaila]]
+- Polockas priklausė [[objektai/vietos/Lietuva]]

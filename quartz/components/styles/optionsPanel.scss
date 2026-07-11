@@ -113,6 +113,37 @@
   justify-content: space-between;
 }
 
+.options-panel-command-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 0;
+  margin-top: 0.8rem;
+  border-top: 1px solid var(--lightgray);
+  border-bottom: 1px solid var(--lightgray);
+}
+
+.options-panel-command-grid button {
+  min-height: 2.7rem;
+  padding: 0.55rem 0;
+  border: 0;
+  border-bottom: 1px solid var(--lightgray);
+  background: transparent;
+  color: var(--dark);
+  cursor: pointer;
+  font: 750 0.9rem/1.2 var(--bodyFont);
+  text-align: left;
+}
+
+.options-panel-command-grid button:last-child {
+  border-bottom: 0;
+}
+
+.options-panel-command-grid button:hover,
+.options-panel-command-grid button:focus-visible,
+.options-panel-command-grid button[aria-pressed="true"] {
+  color: var(--secondary);
+}
+
 .options-panel-settings-link {
   color: var(--secondary);
   font-weight: 750;

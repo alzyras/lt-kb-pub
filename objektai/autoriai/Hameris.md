@@ -30,14 +30,6 @@ Ponas Hameris, Narbuto teigimu, dar prieš Volianskį mėgino iššifruoti senov
 - t-001
   global_id: t-191608
   teiginys: "Ponas Hameris, Narbuto teigimu, dar prieš Volianskį mėgino iššifruoti senovės tyrinėtojams nesuprantamą užrašą ir perskaitė trečios eilutės pirmą žodį."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "202367-202622; hash=219437e96798dd21585cd1ed27c927a664f8bb0fb3d60a77c6bec10acac5832a; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174490
 ## Reikšmingi paminėjimai
@@ -52,8 +44,8 @@ Ponas Hameris, Narbuto teigimu, dar prieš Volianskį mėgino iššifruoti senov
     ruoti tą visiškai senovės tyrinėtojams nesuprantamą už­
     rašą. Jis perskaitė tik trečios eilutės pirmą žodį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -64,7 +56,8 @@ Ponas Hameris, Narbuto teigimu, dar prieš Volianskį mėgino iššifruoti senov
 - id: c-174490
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 113"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 113."
   citata_originali: |
     Ptolemėjas II Kristaus eros amžiuje mini tavių tautą,
     gyvenusią galų kaimynystėje, prie Dnestro.

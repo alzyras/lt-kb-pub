@@ -46,17 +46,6 @@ Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yr
 - t-002
   global_id: t-63793
   teiginys: "Karigaila, Jogailos brolis ir Mstislavlio kunigaikštis, pateko į kryžiuočių nelaisvę ir buvo žiauriai nužudytas."
-  semantiniai_rysiai: "Karigaila buvo valdovas Mstislavlis (0.90); Kryžiuočių ordinas kariavo prieš Karigaila (0.82)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "838102-838456; hash=bb4d5bb566eeb7bda22ab6987c69df546bf6e2c133fc95980e85bca2e5b99c80; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_valdovas -> Mstislavlis: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Karigaila: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Mstislavlis: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Karigaila tiesiogiai įvardytas Mstislavlio kunigaikščiu."
   pagrindžia:
     - c-64735
 
@@ -64,16 +53,6 @@ Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yr
 - t-001
   global_id: t-63794
   teiginys: "Karigaila, Julijonos sūnus ir Jogailos brolis, buvo vienas iš trijų Jogailos ir Skirgailos sutarčių liudininkų."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "761711-762367; hash=d5c5831d7d6e1a0e69a0c107757c0c36ab75bb51cf0bf150957924ae7113b422; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sunus -> Julijona: 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Karigaila: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Julijona: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Karigaila tiesiogiai įrašytas tarp Julijonos sūnų."
   pagrindžia:
     - c-64734
 
@@ -81,20 +60,6 @@ Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yr
 - t-004
   global_id: t-63795
   teiginys: "Karigaila pritarė 1382 m. Dubysos sutartims, kuriomis Jogaila įsipareigojo taikai su Ordinais ir krikštui."
-  semantiniai_rysiai: "Karigaila buvo sūnus Julijona (Algirdo žmona) (0.78); Karigaila buvo sąjungininkas su Jogaila (kunigaikštis, XIV–XV a.) (0.74)"
-  temporaliniai_duomenys: "įvykio data: 1382 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko Karigailos pritarimą Jogailos sutartiniams įsipareigojimams."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "671251-671807; hash=b391eb7e8a17d9d3e5ac1c2647cda70e128e6b85d1f7f58cdd1dcbc77317c5cb; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sunus -> Julijona (Algirdo žmona): 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Karigaila: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Julijona (Algirdo žmona): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Formuluotė nurodo Jogailos motiną Julijoną ir brolius, tarp jų Karigailą, todėl remia sūnaus ryšį."
   pagrindžia:
     - c-36407
 
@@ -102,17 +67,6 @@ Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yr
 - t-003
   global_id: t-63796
   teiginys: "Karigaila kartu su Jogaila, Vytautu, Vygandu, Švitrigaila ir lietuvių didikais Krokuvoje priėmė katalikų tikėjimą."
-  semantiniai_rysiai: "Karigaila keliavo į Krokuva (0.76)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "255525-255740; hash=b2412837bafec0ecfb21c094e794925c4b5ef11ca244a6c329fe5b56fd5d8aff; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Krokuva: 0.76"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Karigaila: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Krokuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Karigaila kartu su kitais priėmė tikėjimą aktu, kuris buvo atliktas Krokuvoje."
   pagrindžia:
     - c-36406
 - susijęs iš [[objektai/asmenys/Vasilijus Čartoriskis.md#claim-t-87879|Vasilijus Čartoriskis]]: Vasilijus Čartoriskis buvo Pinsko kunigaikštis, Karigailos sūnus ir Algirdo vaikaitis.
@@ -160,8 +114,8 @@ Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yr
 
     (^1) ) Scr. r.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -181,8 +135,8 @@ Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yr
     tyti ir kas svarbiausia — užleidžia Ordinui pusę Žemaitijos:
     visą dešinį Dubysos krantą, nuo pat ištakos iki įtakos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -204,8 +158,8 @@ Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yr
     bei svarbiu patarėju tapęs Hanulis. O Julijona ir kunigaikščio
     taryba tėra paminėta Žemaičių dovanojimo dokumente.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -221,8 +175,8 @@ Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yr
     gailos skunde ordinui buvo daromi aštrus priekaištai dėl brolio
     mirties, smulkiai aprašant lavono išniekinimą^19.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -316,9 +270,6 @@ Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yr
 
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Vasilijus Čartoriskis]]
-- Tėvai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Julijona (Algirdo žmona)]]
+- Tėvai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - Broliai: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Sąjungininkai: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
-- Kariavo prieš: [[objektai/grupes/Kryžiuočių ordinas]]
 - Karigaila buvo valdovas [[objektai/vietos/Mstislavlis]]
-- Karigaila keliavo į [[objektai/vietos/Krokuva]]

@@ -39,17 +39,6 @@ Veltui Šach Achmedas, Perekopo ordos chanas, ir atkaklus Mendli Girėjaus prie�
 - t-001
   global_id: t-86767
   teiginys: "Perekopo ordos chanas Šach Achmedas savo pajėgomis rėmė lietuvius prieš Mendli Girėjų."
-  semantiniai_rysiai: "Šach Achmedas rėmė Lietuviai (0.96)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "469008-469649; hash=d7731ba047a3aa652378a5d9e51155b12538975506fa050c9b8bd200d952d170; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "reme -> Lietuviai: 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Šach Achmedas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad Šach Achmedas savo pajėgomis rėmė lietuvius."
   pagrindžia:
     - c-82746
 - susijęs iš [[objektai/grupes/Auksinė Orda.md#claim-t-187704|Auksinė Orda]]: Aukso ordoje ulanais vadinosi chano giminės nariai iš tų linijų, kurių atstovams neteko sėdėti chanų soste.
@@ -77,8 +66,8 @@ Veltui Šach Achmedas, Perekopo ordos chanas, ir atkaklus Mendli Girėjaus prie�
     wał, tot czudes nie widał [Kas Vilniuje
     nebuvo, tas stebuklų neregėjo].
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -111,6 +100,3 @@ Veltui Šach Achmedas, Perekopo ordos chanas, ir atkaklus Mendli Girėjaus prie�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86767
-
-## Ryšiai
-- Perekopo orda priklausė [[objektai/grupes/Krymo chanatas]]

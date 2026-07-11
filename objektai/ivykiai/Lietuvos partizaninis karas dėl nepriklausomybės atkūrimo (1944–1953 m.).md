@@ -62,19 +62,6 @@ Nenurodyta
 - t-002
   global_id: t-75174
   teiginys: "1944–1946 m. Lietuvoje susidarė dideli, iki 100 kovotojų siekę partizanų būriai."
-  temporaliniai_duomenys: "įvykio data: 1944-1946; įvykio data: 1946 m.; įvykio data: 1947 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys yra OCR nuotrupa; citata paremia aiškų faktą apie partizanų būrius."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "428874-429230; hash=9873249d99d7de969d2d5b50d539e6d55356bc62ff371e71348786c66e270220; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos partizaninis karas dėl nepriklausomybės atkūrimo (1944–1953 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos partizaninis karas dėl nepriklausomybės atkūrimo (1944–1953 m.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-23071
 
@@ -82,19 +69,6 @@ Nenurodyta
 - t-006
   global_id: t-75175
   teiginys: "Nuo 1944 m. vasaros sovietų represijos ir teroras kurstė lietuvių pasipriešinimą, išaugusį į dešimtmetį trukusį partizaninį karą."
-  temporaliniai_duomenys: "įvykio data: po 1944 m.; įvykio data: 1944 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalinta antraštės nuotrupa ir paliktas citatos paremtas faktinis sakinys."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "427538-428158; hash=dc7c0a2e137b7e458362f1a31e97a02dfaa427e922f7c84e52056fb7a636f29e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos partizaninis karas dėl nepriklausomybės atkūrimo (1944–1953 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos partizaninis karas dėl nepriklausomybės atkūrimo (1944–1953 m.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-73065
 
@@ -102,19 +76,6 @@ Nenurodyta
 - t-004
   global_id: t-75178
   teiginys: "1946–1948 m. Lietuvos partizanai perėjo prie pasalų organizavimo ir sovietinių pareigūnų bei šnipų naikinimo taktikos."
-  temporaliniai_duomenys: "įvykio data: 1946 m.; įvykio data: 1946-1948; įvykio data: 1948 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys turi neaiškų numanomą veikėją, todėl perrašytas su aiškiu subjektu ir laikotarpiu."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "430344-431033; hash=5932c8d6e3c1b488476b775e443878bc49ecfb8be9fd5f980e065e9fea045b03; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos partizaninis karas dėl nepriklausomybės atkūrimo (1944–1953 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos partizaninis karas dėl nepriklausomybės atkūrimo (1944–1953 m.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-166641
 
@@ -122,16 +83,6 @@ Nenurodyta
 - t-003
   global_id: t-75179
   teiginys: "Sovietams užblokavus Lietuvą nuo laisvojo pasaulio informacijos, atėmus iš žmonių radijo imtuvus, visose apygardose įkurti spaudos ir informacijos skyriai."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "429528-430074; hash=7ea8bb89065c6afbc38dc6b3c09e983ba4311b81034175954a1752c45cbaa096; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos partizaninis karas dėl nepriklausomybės atkūrimo (1944–1953 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos partizaninis karas dėl nepriklausomybės atkūrimo (1944–1953 m.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-23072
 
@@ -139,24 +90,6 @@ Nenurodyta
 - t-007
   global_id: t-183252
   teiginys: "Sovietams izoliavus Lietuvą nuo laisvojo pasaulio informacijos, partizanų apygardose įkurti spaudos ir informacijos skyriai."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1947 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Reikia aiškiau susieti įkurtus skyrius su partizanų apygardomis."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "429807-430342; hash=367a06c08ca21fee6bb6dd7e3524737b1af9e7f9871533541c04c4406ceb455e; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos partizaninis karas dėl nepriklausomybės atkūrimo (1944–1953 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos partizaninis karas dėl nepriklausomybės atkūrimo (1944–1953 m.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-166640
 
@@ -164,19 +97,6 @@ Nenurodyta
 - t-004
   global_id: t-75178
   teiginys: "1946–1948 m. Lietuvos partizanai perėjo prie pasalų organizavimo ir sovietinių pareigūnų bei šnipų naikinimo taktikos."
-  temporaliniai_duomenys: "įvykio data: 1946 m.; įvykio data: 1946-1948; įvykio data: 1948 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys turi neaiškų numanomą veikėją, todėl perrašytas su aiškiu subjektu ir laikotarpiu."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "430344-431033; hash=5932c8d6e3c1b488476b775e443878bc49ecfb8be9fd5f980e065e9fea045b03; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos partizaninis karas dėl nepriklausomybės atkūrimo (1944–1953 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos partizaninis karas dėl nepriklausomybės atkūrimo (1944–1953 m.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-166641
 ## Reikšmingi paminėjimai
@@ -192,8 +112,8 @@ Nenurodyta
     sargybos postus, o pasirodžius NKVD dalims eidavo į mūšį. Užimant
     Grupė Lietuvos partizanų 1947 m.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -212,8 +132,8 @@ Nenurodyta
     macijos skyriai. Per visą partizaninio karo laikotarpį ilgiau ar trumpiau
     buvo leidžiama 80 pavadinimų periodinių leidinių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -235,8 +155,8 @@ Nenurodyta
     įvykdys Atlanto chartijos pažadus sugrąžinti nepriklausomybę dėl karo jos
     netekusioms šalims, kad Vakarai pakils į žygį prieš J. Stalino SSRS.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -255,8 +175,8 @@ Nenurodyta
     partizanų maldynų. Spaudą daugiausia platino jaunimas, vien 1947 m. už
     tai suimta 640 asmenų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -277,8 +197,8 @@ Nenurodyta
     vis dažniau naudojo agentų smogikų (mišrius iš užverbuotų buvusių par-
     tizanų ir MGB kadrinių karininkų) būrius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

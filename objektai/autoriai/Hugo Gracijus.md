@@ -30,21 +30,6 @@ Narbutas krivio kaip aukščiausiojo teisėjo apibūdinimą siejo su Hugo Gracij
 - t-001
   global_id: t-190428
   teiginys: "Narbutas krivio kaip aukščiausiojo teisėjo apibūdinimą siejo su Hugo Gracijaus veikalu „Historia Gottorum“."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "738490-738877; hash=5595883806e6f7c47ac8ea82a6cdf6e3fd62bbf55f81ceca43f163936ca223ae; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jerošinas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Hugo Gracijus: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Jerošinas: mention_match, author"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Hugo Gracijus\" parinktas kaip owner_note_path. Targetas \"Jerošinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173311
 ## Reikšmingi paminėjimai
@@ -61,8 +46,8 @@ Narbutas krivio kaip aukščiausiojo teisėjo apibūdinimą siejo su Hugo Gracij
     Obriste Ewarte (aukščiausiasis teisėjas), kuo krivis iš tikrųjų ir
     buvo, nes, pasak Hugo Gracijaus (Grabus. Historia Gottorum.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -73,7 +58,8 @@ Narbutas krivio kaip aukščiausiojo teisėjo apibūdinimą siejo su Hugo Gracij
 - id: c-173311
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 410"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 410."
   citata_originali: |
     Aiškiai matyti, kad
     jam žodis quidam (vienas, kažkoks) pasirodė esąs nepa­

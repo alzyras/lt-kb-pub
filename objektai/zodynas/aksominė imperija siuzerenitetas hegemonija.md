@@ -33,14 +33,6 @@ Todėl kartais Lietuvos didvalstybė vadinama „aksomine imperija“.
 - t-001
   global_id: t-193664
   teiginys: "Todėl kartais Lietuvos didvalstybė vadinama „aksomine imperija“."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "64494-64835; hash=5fa3ee925e6296a70ea258c6a764d2c7d7b5861d6d080d69a98a7823845fc8cf; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-176333
 ## Reikšmingi paminėjimai
@@ -55,8 +47,8 @@ Todėl kartais Lietuvos didvalstybė vadinama „aksomine imperija“.
     ir patenka visa Ukraina) valdę Gediminaičiai mažiau klausė Vilniaus bro-
     lių, pusbrolių ar dėdžių – didžiųjų kunigaikščių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

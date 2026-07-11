@@ -44,20 +44,6 @@ Bet jau 1409 m. artimose totorių žemėse Vytautui pavyko įkurdinti paklusnų 
 - t-001
   global_id: t-82653
   teiginys: "1409 m. Vytautas artimose totorių žemėse įkurdino jam paklusnų chaną Saladiną, vyriausią Tochtamyšo sūnų."
-  semantiniai_rysiai: "Saladinas rėmė Vytautas (Lietuvos valdovas, XIV–XV a.) (0.86); Vytautas (Lietuvos valdovas, XIV–XV a.) paskyrė Saladinas (0.78)"
-  temporaliniai_duomenys: "įvykio data: 1409 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra išsamus faktinis sakinys apie Saladiną ir tiksliai remiasi citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "356004-356328; hash=1d3584e89d3a4797843331b9f30bdf84b4e33451e4c76be0e1cc52e26dec29e0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "reme -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Saladinas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Saladinas siuntė pagalbą Vytautui."
   pagrindžia:
     - c-79116
 
@@ -65,19 +51,6 @@ Bet jau 1409 m. artimose totorių žemėse Vytautui pavyko įkurdinti paklusnų 
 - t-002
   global_id: t-82654
   teiginys: "Saladinas citatoje vadinamas Tochtamišo sūnumi ir ištikimu Lietuvos sąjungininku, po kurio mirties įpėdinis Kerimberdėjus nepakluso Vytautui."
-  semantiniai_rysiai: "Saladinas buvo sūnus Tochtamišas (0.96)"
-  temporaliniai_duomenys: "įvykio data: 1419 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "333524-334673; hash=07c853747ca390637bc349d209abbeff234e429bd9f3816c7381a13eee412db1; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sunus -> Tochtamišas: 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Saladinas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Tochtamišas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Saladinas buvo Tochtamišo sūnus."
   pagrindžia:
     - c-79117
 
@@ -85,20 +58,6 @@ Bet jau 1409 m. artimose totorių žemėse Vytautui pavyko įkurdinti paklusnų 
 - t-003
   global_id: t-82655
   teiginys: "Saladinas, Tochtamyšo sūnus, buvo sultonas ir ištikimas Lietuvos sąjungininkas."
-  semantiniai_rysiai: "Saladinas buvo sūnus Tochtamišas (0.96)"
-  temporaliniai_duomenys: "įvykio data: 1419 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata leidžia suformuluoti aiškų faktą apie Saladino tapatybę ir ryšį su Lietuva."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "333524-334673; hash=07c853747ca390637bc349d209abbeff234e429bd9f3816c7381a13eee412db1; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sunus -> Tochtamišas: 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Saladinas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Tochtamišas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Saladinas buvo Tochtamišo sūnus."
   pagrindžia:
     - c-79117
 
@@ -106,12 +65,6 @@ Bet jau 1409 m. artimose totorių žemėse Vytautui pavyko įkurdinti paklusnų 
 - t-004
   global_id: t-193975
   teiginys: "Ir jis paskyrė jiems chaną, vardu Saladiną7 ."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "314313-314587; hash=990e0f283f3443d6159907f3d6a6c159cc011283bf7387496eef875ef471a0f4; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176600
 
@@ -119,12 +72,6 @@ Bet jau 1409 m. artimose totorių žemėse Vytautui pavyko įkurdinti paklusnų 
 - t-005
   global_id: t-193976
   teiginys: "O pats Saladinas, atvykęs į Ordą, sėdo į chanų sostą, kaip bu vo didžiojo valdovo, vadinamo Vytautu, liepta."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "314423-314757; hash=9fdf206347ec9d8c5ea79db7d087f61e90cf3725c067deb78a218c15ff2ba219; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176601
 - susijęs iš [[objektai/asmenys/Tochtamyšas (Krymo ordos chanas).md#claim-t-35297|Tochtamyšas (Krymo ordos chanas)]]: Po Tochtamyšo mirties jo vyriausias sūnus Saladinas buvo prisiglaudęs pas Vytautą.
@@ -147,8 +94,8 @@ Bet jau 1409 m. artimose totorių žemėse Vytautui pavyko įkurdinti paklusnų 
     mirus, buvo pas Vytautą prisiglaudęs. Žalgirio karo metu ir jisai
     siuntė Vytautui pagalbos^1 ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -178,8 +125,8 @@ Bet jau 1409 m. artimose totorių žemėse Vytautui pavyko įkurdinti paklusnų 
     73 nė Ona mirė Trakuose, o palaidota
     Ona buvo Smolensko kunigaikščio buvo Vilniuje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -197,8 +144,8 @@ Bet jau 1409 m. artimose totorių žemėse Vytautui pavyko įkurdinti paklusnų 
     skyrė chanu savo tarną, neišdrįso priešintis šlovinga­
     jam valdovui, paliko chanystę ir pabėgo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -216,8 +163,8 @@ Bet jau 1409 m. artimose totorių žemėse Vytautui pavyko įkurdinti paklusnų 
     vo didžiojo valdovo, vadinamo Vytautu, liepta. Ir tar­
     navo šlovingajam valdovui, persiėmęs didžia baime.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -299,7 +246,8 @@ Bet jau 1409 m. artimose totorių žemėse Vytautui pavyko įkurdinti paklusnų 
 - id: c-176601
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 179"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 179."
   citata_originali: |
     O tas chanas,
     kur valdė Ordą, išgirdo, jog šlovingasis valdovas pa­
@@ -317,5 +265,3 @@ Bet jau 1409 m. artimose totorių žemėse Vytautui pavyko įkurdinti paklusnų 
 
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Tochtamišas]], [[objektai/asmenys/Tochtamyšas]], [[objektai/asmenys/Tochtamyšas (Krymo ordos chanas)]]
-- Paskyrė Saladiną: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Saladinas rėmė [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

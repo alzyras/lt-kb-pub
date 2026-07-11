@@ -42,17 +42,6 @@ media_all_json: |-
 - t-001
   global_id: t-113641
   teiginys: "Kryžininkai, gausiai suverbuoti kovai su Rytų Europą užplūdusiais totoriais, buvo įtraukti į kryžiaus karo akciją."
-  semantiniai_rysiai: "Kryžiuočių ordinas puolė Lietuva (0.84)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "89026-89349; hash=8402562bb37fa81437c3a559526c0447ed9f9c8639428c1de54eac98db36df60; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Lietuva: 0.84"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai kalba apie Ordino puolimą prieš Lietuvą."
   pagrindžia:
     - c-44189
 
@@ -60,16 +49,6 @@ media_all_json: |-
 - t-002
   global_id: t-113642
   teiginys: "Konrado Valenrodo šlovė ir potraukis riterystei subūrė iš Europos šalių gausius kryžininkų pulkus žygiui į Lietuvą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "286051-287624; hash=08d01a9ec00df233edaa7c885ef8f1a38005bfb15f1c5d70a50b6e736d5c4978; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "kryžininkai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=27"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"kryžininkai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-104837
 - susijęs iš [[objektai/grupes/Europos kryžininkai.md#claim-t-86725|Europos kryžininkai]]: 1392 m. Europos kryžininkai rengė didesnį žygį į Lietuvą.
@@ -105,8 +84,8 @@ media_all_json: |-
     Puolimo prieš Lietuvą išvakarėse Ordi-
     nas stiprino ryšius su lenkų kunigaikščiais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -153,8 +132,8 @@ media_all_json: |-
     aukščiau aprašytai kapitulai mokė­
     ti].
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

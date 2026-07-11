@@ -32,16 +32,6 @@ Jo karališkajai didenybei vykstant į Solcą, į pono Lietu­ vos pataurininkio
 - t-001
   global_id: t-86238
   teiginys: "Karališkoji didenybė vyko į Solcą, į Lietuvos pataurininkio vestuves."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "827175-827434; hash=7190fb8b2093e1ef09c8a624b160fceccb40971af10a26fcec71c8c20df3b2b3; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Solcas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=9"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Solcas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-82217
 ## Reikšmingi paminėjimai
@@ -56,8 +46,8 @@ Jo karališkajai didenybei vykstant į Solcą, į pono Lietu­ vos pataurininkio
     vos pataurininkio vestuves, būdamas Liubline, išleidau lie­
     tuviškoms monetoms 7 flor., 4 grašius, 2 liet. denarus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

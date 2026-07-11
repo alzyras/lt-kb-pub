@@ -46,19 +46,6 @@ Tačiau antros šio sąjūdžio kartos atstovas, aukštaitis, kunigas ir poetas,
 - t-001
   global_id: t-26483
   teiginys: "„Anykščių šilelis“ apibūdinamas kaip Antano Baranausko lietuvių literatūros šedevras."
-  temporaliniai_duomenys: "įvykio data: 1859 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalinta perteklinė citata ir paliktas aiškus teiginys apie kūrinį."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "213803-214278; hash=c0a43a06e4a4072e7aa4f2a7d59bdd460a04101a25989c44c835fc06e085f088; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Antanas Baranauskas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Anykščių šilelis: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Antanas Baranauskas: mention_match, person, gap=36"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Anykščių šilelis\" parinktas kaip owner_note_path. Targetas \"Antanas Baranauskas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-26708
 ## Reikšmingi paminėjimai
@@ -74,8 +61,8 @@ Tačiau antros šio sąjūdžio kartos atstovas, aukštaitis, kunigas ir poetas,
     visi galvočiais, / Visam svietui visuos moksluos eis kelio vedžiotų.“ Tai
     civilizuotos, savo aukštąją kultūrą turinčios tautos vizija.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

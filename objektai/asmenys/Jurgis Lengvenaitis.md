@@ -35,17 +35,6 @@ Tik pats Švitrigaila su savo sūnėnu, Maskvos kuni­ gaikščiu Jurgiu, išven
 - t-001
   global_id: t-87743
   teiginys: "Jurgis Lengvenaitis, Švitrigailos sūnėnas, po pralaimėjimo prie Ukmergės kartu su Švitrigaila išvengė sutriuškinimo."
-  semantiniai_rysiai: "Jurgis Lengvenaitis buvo sąjungininkas su Švitrigaila (0.55)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "446784-447149; hash=a4d5391b4bfa259931e0f471b52946ee9c84e820892ab503a8ba0deacd4d1c1b; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sajungininkas_su -> Švitrigaila: 0.55"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jurgis Lengvenaitis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata rodo, kad Jurgis buvo kartu su Švitrigaila po pralaimėjimo; tai atsargiai palaiko jų sąjungininkystę, nors tikslus politinis ryšys neįvardytas."
   pagrindžia:
     - c-83722
 
@@ -53,12 +42,6 @@ Tik pats Švitrigaila su savo sūnėnu, Maskvos kuni­ gaikščiu Jurgiu, išven
 - t-002
   global_id: t-193930
   teiginys: "Prastieji žmonės, išgirdę, kad Smolensko bajorai iš vyko pas didįjį kunigaikštį Kazimierą, pabūgo ir labai išsigando, Įėmė] dairytis stiprios paramos ir vienbalsiai nutarė imti sau valdovu kunigaikštį Jurgį Lengvenait į1."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "226439-226978; hash=733f694993238ad41272539f49d511bf327bd6a29065067ed403450c6a63aa5a; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176555
 
@@ -66,12 +49,6 @@ Tik pats Švitrigaila su savo sūnėnu, Maskvos kuni­ gaikščiu Jurgiu, išven
 - t-003
   global_id: t-193931
   teiginys: "Jonas Goštautas visa tai greitai padarė ir didikus prikalbėjo, o čia jau kunigaikštis Kazimieras, savo globėjo Jono Goštauto prikalbėtas ir savo Tarybos po nų prašomas, nustojo pykti ant kunigaikščio Jurgio Lengvenaičio ir liepė pas jį atvykti."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "228642-229166; hash=528a4a4ac2bf3f346887652f11a11b798d4483601a8cfc43dbf45742bdaa8622; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176556
 - susijęs iš [[objektai/ivykiai/Kazimiero žygis atsiimti Smolenską.md#claim-t-186636|Kazimiero žygis atsiimti Smolenską]]: Lietuvos metraščio pasakojime Kazimieras tą patį rudenį atsiėmė Smolenską, o Jurgis Lengvenaitis pabėgo į Didįjį Naugardą.
@@ -91,8 +68,8 @@ Tik pats Švitrigaila su savo sūnėnu, Maskvos kuni­ gaikščiu Jurgiu, išven
     laisvę. Tik pats Švitrigaila su savo sūnėnu, Maskvos kuni­
     gaikščiu Jurgiu, išvengė sutriuškinimo21.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -113,8 +90,8 @@ Tik pats Švitrigaila su savo sūnėnu, Maskvos kuni­ gaikščiu Jurgiu, išven
     išdalijo savo bajorams, ir panūdo būti nepriklausamas
     nuo didžiojo kunigaikščio Kazimiero.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -135,8 +112,8 @@ Tik pats Švitrigaila su savo sūnėnu, Maskvos kuni­ gaikščiu Jurgiu, išven
     siais metais 1 3  nutrūko didžiojo kunigaikščio Kazimiero
     taika 1 4  su Maskvos didžiuoju kunigaikščiu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -206,7 +183,3 @@ Tik pats Švitrigaila su savo sūnėnu, Maskvos kuni­ gaikščiu Jurgiu, išven
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193931
-
-## Ryšiai
-- Sąjungininkai: [[objektai/asmenys/Švitrigaila]]
-- Jurgis Lengvenaitis keliavo į [[objektai/vietos/Naugardas]]

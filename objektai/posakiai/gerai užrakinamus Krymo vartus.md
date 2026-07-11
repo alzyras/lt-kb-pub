@@ -32,17 +32,6 @@ Nuo sėsliai gyvenančių visuomenių atskirti plačių stepių ir turėdami „
 - t-002
   global_id: t-78923
   teiginys: "Totoriams strateginį pranašumą teikė Krymo pusiasalio nuošalumas ir įtvirtinta Perekopo sąsmauka, vadinta „gerai užrakinamais Krymo vartais“."
-  semantiniai_rysiai: "Totoriai gyveno Krymas (0.82)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "302438-302926; hash=6ce7675b951a214c490fd2250f58242467da328755bef6f5573ff9abad05bdde; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Krymas: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Totoriai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Krymas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citatoje Krymo pusiasalis apibūdinamas kaip pagrindinė totorių buveinė."
   pagrindžia:
     - c-76024
 
@@ -50,17 +39,6 @@ Nuo sėsliai gyvenančių visuomenių atskirti plačių stepių ir turėdami „
 - t-001
   global_id: t-78924
   teiginys: "Totoriai turėjo „gerai užrakinamus Krymo vartus“ – įtvirtintą Perekopo sąsmauką, saugojusią sunkiai pasiekiamą jų bazę."
-  semantiniai_rysiai: "Totoriai gyveno Krymas (0.82)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "302438-302926; hash=6ce7675b951a214c490fd2250f58242467da328755bef6f5573ff9abad05bdde; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Krymas: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Totoriai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Krymas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citatoje Krymo pusiasalis įvardytas kaip pagrindinė totorių buveinė."
   pagrindžia:
     - c-76024
 ## Reikšmingi paminėjimai
@@ -82,8 +60,8 @@ Nuo sėsliai gyvenančių visuomenių atskirti plačių stepių ir turėdami „
     nesunkiai leistis į tolimus žygius. Taktinį
     pranašumą sąlygojo jų lengvoji kavalerija.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

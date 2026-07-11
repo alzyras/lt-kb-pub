@@ -36,17 +36,6 @@ Olesnickis be Vy­ tauto pritarimo ėmė savarankiškai vesti Lenkijos politiką
 - t-002
   global_id: t-66254
   teiginys: "Vengrai siaubė Kulmo žemę, o grįždami per mišką patyrė didelių nuostolių nuo kaimiečių parverstų medžių."
-  semantiniai_rysiai: "Vengrai puolė Kulmas (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "757612-758729; hash=ed7ebf172795a9f735bdf2e27b3ff19144325be3c7ef2aa1739c8831b9ff3d9b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Kulmas: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vengrai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Kulmas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad vengrai siaubė Kulmo žemę."
   pagrindžia:
     - c-66562
 
@@ -54,16 +43,6 @@ Olesnickis be Vy­ tauto pritarimo ėmė savarankiškai vesti Lenkijos politiką
 - t-001
   global_id: t-66255
   teiginys: "Zigmantas buvo įtraukęs vengrus į koaliciją prieš Lenkijos Karūną."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "510062-510508; hash=bc61aeade7063488e4f09f09c3ce3e45fa7b4f9604f33e5bf3304ab1ccfced47; match=word_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Karūna: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vengrai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Karūna: mention_match, thing, gap=35"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vengrai\" parinktas kaip owner_note_path. Targetas \"Karūna\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-66561
 
@@ -71,19 +50,6 @@ Olesnickis be Vy­ tauto pritarimo ėmė savarankiškai vesti Lenkijos politiką
 - t-003
   global_id: t-184584
   teiginys: "Vengrai nusigręžė nuo jaunikaičio, todėl jis nieko nepešęs turėjo grįžti į Lenkiją."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "945804-946180; hash=d56ef3ca5ee1a33303498af00998f3e7a1fc8392ffb93ef8b3ae945fc6295668; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vengrai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=75"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vengrai\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-167945
 
@@ -91,19 +57,6 @@ Olesnickis be Vy­ tauto pritarimo ėmė savarankiškai vesti Lenkijos politiką
 - t-004
   global_id: t-184585
   teiginys: "Stipri vengrų kariuomenė susidūrė su Jonu, kuris turėjo vos keturis tūkstančius karių."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "947582-947819; hash=5e033165d3f88db27da336e768ec874105f228437cb8d749c4851b385065b5e9; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jonas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vengrai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Jonas: mention_match, person, gap=30"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vengrai\" parinktas kaip owner_note_path. Targetas \"Jonas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-167946
 
@@ -111,20 +64,6 @@ Olesnickis be Vy­ tauto pritarimo ėmė savarankiškai vesti Lenkijos politiką
 - t-005
   global_id: t-184586
   teiginys: "Lenkai, vengrai, čekai, lietuviai ir valachai sudarė sutartis dėl tarpusavio gynybos prasidėjus karui prieš turkus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Vengrai sudarė sutartį su Lietuviai (0.88); Vengrai sudarė sutartį su Valachai (0.88); Lietuviai sudarė sutartį su Valachai (0.86)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "984190-984631; hash=60f153e800bef90c33bccfda1cb6146810ea257332de871851501e317c77fb31; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "sudare_sutarti_su -> Lietuviai: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vengrai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Vengrai ir lietuviai tiesiogiai išvardyti kaip sutartis sudariusios grupės."
   pagrindžia:
     - c-167947
 - susijęs iš [[objektai/asmenys/Jonas Olbrachtas.md#claim-t-185965|Jonas Olbrachtas]]: Jonas Olbrachtas su maža kariuomene stojo į lemtingą mūšį su stipria vengrų kariuomene ir po pralaimėjimo vos paspruko.
@@ -235,8 +174,8 @@ Olesnickis be Vy­ tauto pritarimo ėmė savarankiškai vesti Lenkijos politiką
     į koaliciją prieš Karūną. Tuo būdu Olesnickiui pasisekė Vy­
     tauto planus suparaližuoti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -262,8 +201,8 @@ Olesnickis be Vy­ tauto pritarimo ėmė savarankiškai vesti Lenkijos politiką
     turtus, ir save ir atkeršyti už nukryžiuotojo viešpaties kančias. Kad ir kaip ten būtų buvę,
     viešpats negalėjo nekeršyti.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -282,8 +221,8 @@ Olesnickis be Vy­ tauto pritarimo ėmė savarankiškai vesti Lenkijos politiką
     pastovumą kur kas nuosaikiau sutiko jaunikaitis nei
     jo iškaršęs tėvas.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -299,8 +238,8 @@ Olesnickis be Vy­ tauto pritarimo ėmė savarankiškai vesti Lenkijos politiką
     jo į lemtingą mūšį. Sumuštas vos ne vos paspruko iš
     nugalėtojo rankų.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -320,8 +259,8 @@ Olesnickis be Vy­ tauto pritarimo ėmė savarankiškai vesti Lenkijos politiką
     Dievobaimingas Aleksandro įstangas sužlugdė klas­
     tingos Ivano pinklės.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -353,7 +292,8 @@ Olesnickis be Vy­ tauto pritarimo ėmė savarankiškai vesti Lenkijos politiką
 - id: c-66562
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 257"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 257."
   citata_originali: |
     Apie dievo kerštą
 
@@ -380,7 +320,8 @@ Olesnickis be Vy­ tauto pritarimo ėmė savarankiškai vesti Lenkijos politiką
 - id: c-167945
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 535"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 535."
   citata_originali: |
     Kadangi tėvas karštai
     reikalavo, kad jis pasinaudotų pasitaikiusia proga, jis,
@@ -400,7 +341,8 @@ Olesnickis be Vy­ tauto pritarimo ėmė savarankiškai vesti Lenkijos politiką
 - id: c-167946
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 536"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 536."
   citata_originali: |
     Jonas beturėjo vos keturis tūkstančius karių, kai susi­
     dūrė su stipria vengrų kariuomene. Jam stigo jėgų, bet
@@ -417,7 +359,8 @@ Olesnickis be Vy­ tauto pritarimo ėmė savarankiškai vesti Lenkijos politiką
 - id: c-167947
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 556"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 556."
   citata_originali: |
     Po to Lietuvos Didžiosios Kunigaikštystės
     vardu sudarė taiką su Steponu, Valachijos valdovu,
@@ -437,9 +380,5 @@ Olesnickis be Vy­ tauto pritarimo ėmė savarankiškai vesti Lenkijos politiką
 
 ## Ryšiai
 - Sąjungininkai: [[objektai/grupes/Lietuviai]]
-- Turėjo valdovą: [[objektai/asmenys/Gabrielius Bekešas]]
-- Kariavo prieš: [[objektai/asmenys/Jonas Olbrachtas]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Paskyrė Vengrai: [[objektai/asmenys/Gabrielius Bekešas]]
-- Vengrai keliavo į [[objektai/vietos/Červinskas]]
-- Vengrai puolė [[objektai/vietos/Italija]], [[objektai/vietos/Kulmas]]
-- Vengrai sudarė sutartį su [[objektai/grupes/Lietuviai]], [[objektai/grupes/Valachai]]
+- Kariavo prieš: [[objektai/asmenys/Jonas Olbrachtas]]
+- Vengrai puolė [[objektai/vietos/Kulmas]]

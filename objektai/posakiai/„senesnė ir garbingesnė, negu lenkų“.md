@@ -35,12 +35,6 @@ Ta pati prob lematika vystoma ir Bychovco kronikos originaliuo siuose pasakojimu
 - t-002
   global_id: t-195047
   teiginys: "Bychovco kronika Lietuvos bajorų kilmę ir garbę vaizduoja kaip viršesnę už lenkų."
-  teiginio_tipas: "saltinio_teiginys"
-  sudarymo_pagrindimas: "Teiginys yra gramatiškas, glaustas ir išlaiko kronikai būtiną atribuciją."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_object: [[objektai/daiktai/Herbai|Herbai]]; mentioned_place: Lenkija; mentioned_place: Lietuva"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "37919-38366; hash=3963f1c9feb46135638876b6840efec08dde9a97abc413ad57518b2f4633691a; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177410
 
@@ -48,12 +42,6 @@ Ta pati prob lematika vystoma ir Bychovco kronikos originaliuo siuose pasakojimu
 - t-001
   global_id: t-195048
   teiginys: "Ta pati prob lematika vystoma ir Bychovco kronikos originaliuo siuose pasakojimuose iš LDK ir Lenkijos tarpusaviu santykių istorijos XV a."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "37919-38366; hash=3963f1c9feb46135638876b6840efec08dde9a97abc413ad57518b2f4633691a; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177410
 ## Reikšmingi paminėjimai
@@ -72,8 +60,8 @@ Ta pati prob lematika vystoma ir Bychovco kronikos originaliuo siuose pasakojimu
     o lenkai senovėje buvę prasti žmonės, savo herbus
     pirkę iš čekų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -84,7 +72,8 @@ Ta pati prob lematika vystoma ir Bychovco kronikos originaliuo siuose pasakojimu
 - id: c-177410
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 21"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 21."
   citata_originali: |
     Ta pati prob­
     lematika vystoma ir Bychovco kronikos originaliuo­

@@ -30,21 +30,6 @@ Narbutas rašė, kad latviai vilkolakiu vadino kerėtoją, mokantį pasiversti v
 - t-001
   global_id: t-189538
   teiginys: "Narbutas rašė, kad latviai vilkolakiu vadino kerėtoją, mokantį pasiversti vilku, o rusinai ir lietuviai vartojo giminingus vardus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "522816-523176; hash=6c76b0938d532e70075292075214b7389b62f294768ea10b4f0ea1e98ce66de0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilkolakiai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=67"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilkolakiai\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172426
 ## Reikšmingi paminėjimai
@@ -61,8 +46,8 @@ Narbutas rašė, kad latviai vilkolakiu vadino kerėtoją, mokantį pasiversti v
     apkalbama ištisa tauta, vadinta ncurais, kurie tik tam tikram
     laikui pasiversdavę vilkais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -73,7 +58,8 @@ Narbutas rašė, kad latviai vilkolakiu vadino kerėtoją, mokantį pasiversti v
 - id: c-172426
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 299"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 299."
   citata_originali: |
     Vilkolakis (Wilkats)
     Latviai šitaip vadina kerėtoją, mokantį pasiversti vilku; mū­

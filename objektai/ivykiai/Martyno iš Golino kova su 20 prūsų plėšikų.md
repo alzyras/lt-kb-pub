@@ -51,17 +51,6 @@ Nenurodyta
 - t-001
   global_id: t-62391
   teiginys: "Martynas iš Golino su 17 kovos draugų leidosi vytis 20 prūsų, plėšikavusių Lenkijoje."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "454157-454635; hash=b6c30b2040fd2eef3c50dfc69bde37bda429978ebc936b965b8c5e2d09c3f93c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Martyno iš Golino kova su 20 prūsų plėšikų: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=75"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Martyno iš Golino kova su 20 prūsų plėšikų\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-62990
 
@@ -69,17 +58,6 @@ Nenurodyta
 - t-002
   global_id: t-62392
   teiginys: "Po kovos pririštas sargybinis išsilaisvino, rado sunkiai sužeistą Martyną iš Golino ir nuvežė jį į Rudino pilį."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "454801-455404; hash=689211246252179868dbe43bc44bffcbc11721d77408f3c3bc0fe2bf7271901a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Martynas iš Golino: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Martyno iš Golino kova su 20 prūsų plėšikų: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Martynas iš Golino: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Martyno iš Golino kova su 20 prūsų plėšikų\" parinktas kaip owner_note_path. Targetas \"Martynas iš Golino\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-167328
 
@@ -87,17 +65,6 @@ Nenurodyta
 - t-002
   global_id: t-62392
   teiginys: "Po kovos pririštas sargybinis išsilaisvino, rado sunkiai sužeistą Martyną iš Golino ir nuvežė jį į Rudino pilį."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "454801-455404; hash=689211246252179868dbe43bc44bffcbc11721d77408f3c3bc0fe2bf7271901a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Martynas iš Golino: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Martyno iš Golino kova su 20 prūsų plėšikų: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Martynas iš Golino: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Martyno iš Golino kova su 20 prūsų plėšikų\" parinktas kaip owner_note_path. Targetas \"Martynas iš Golino\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-167328
 ## Reikšmingi paminėjimai
@@ -114,8 +81,8 @@ Nenurodyta
     kiek čia jo bendrų ir kur jie. Sitai padarę, smarkiai juos užpuolė, Martynas bei jo draugai
     narsiai gynėsi, todėl daug ir vienos, ir kitos šalies karių buvo sunkiai sužeista.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -134,8 +101,8 @@ Nenurodyta
     bet dar gyvą, įkėlė jį į vežimą ir nuvežė į Rudino pilį, vesdamasis drauge prūsų arklius ir
     gabendamasis jų ginklus bei kitus daiktus.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -147,7 +114,8 @@ Nenurodyta
 - id: c-62990
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 142"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 142."
   citata_originali: |
     Dar apie Martyną iš Golino ir jo nuostabią kovą
 
@@ -167,7 +135,8 @@ Nenurodyta
 - id: c-167328
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 142"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 142."
   citata_originali: |
     Prusai  jį
     taip siaubingai kapojo, taip žeidė, kad daugelyje vietų nuo jo kūno tiesiog karojo dideli

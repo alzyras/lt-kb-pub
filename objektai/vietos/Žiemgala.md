@@ -45,19 +45,6 @@ Jam buvo pasisekę paimti į savo valdžią net Žiemgalos dalį; tačiau jam ne
 - t-005
   global_id: t-99904
   teiginys: "1259–1260 m. žiemą kryžiuočiai Žiemgaloje pastatė stiprią Dobės pilį, kurios sukilę žiemgaliai negalėjo įveikti."
-  temporaliniai_duomenys: "pastatymo data: po 1253 m.; pastatymo data: 1253 m.; pastatymo data: 1259-1260; pastatymo data: 1260 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip pastatymo data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys per ilgas ir gremėzdiškas, bet citata palaiko aiškesnį faktą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "512992-513460; hash=d527b7a393e992a94b90718e8665e7885eb1f451ae51bb8a01a40572317dcd7d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Žiemgaliai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žiemgala: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Žiemgaliai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žiemgala\" parinktas kaip owner_note_path. Targetas \"Žiemgaliai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-93857
 
@@ -65,16 +52,6 @@ Jam buvo pasisekę paimti į savo valdžią net Žiemgalos dalį; tačiau jam ne
 - t-004
   global_id: t-99905
   teiginys: "Ordinas kaltintas Žiemgalos ir kitų kraštų vertimu dykynėmis, teigiant, kad tai daroma krikščionybei ginti."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "136725-136954; hash=d6fefa1c2c515cd9c4673cdaa34b857c18e2d09fd2c4638c61de4a3e677746c2; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Durbė: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žiemgala: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Durbė: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žiemgala\" parinktas kaip owner_note_path. Targetas \"Durbė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-93856
 
@@ -82,18 +59,6 @@ Jam buvo pasisekę paimti į savo valdžią net Žiemgalos dalį; tačiau jam ne
 - t-001
   global_id: t-99906
   teiginys: "1259-1260 m. žiemą Žiemgaloje buvo pastatyta stipri Dobės pilis, kurios sukilę žiemgaliai neįveikė."
-  temporaliniai_duomenys: "pastatymo data: po 1253 m.; pastatymo data: 1253 m.; pastatymo data: 1259-1260; pastatymo data: 1260 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip pastatymo data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "513130-513657; hash=1553303eb9cc055f822c9ee38b551a42ea01c7d4d3912c45bdf13a8441220c27; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Žiemgaliai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žiemgala: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Žiemgaliai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žiemgala\" parinktas kaip owner_note_path. Targetas \"Žiemgaliai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-32613
 
@@ -101,16 +66,6 @@ Jam buvo pasisekę paimti į savo valdžią net Žiemgalos dalį; tačiau jam ne
 - t-003
   global_id: t-99907
   teiginys: "Ordinas Žiemgalą ir kitus kraštus vertė dykynėmis, teigdamas, kad tai daro krikščionybei ginti."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "136725-136954; hash=d6fefa1c2c515cd9c4673cdaa34b857c18e2d09fd2c4638c61de4a3e677746c2; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Durbė: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žiemgala: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Durbė: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žiemgala\" parinktas kaip owner_note_path. Targetas \"Durbė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-93856
 
@@ -118,18 +73,6 @@ Jam buvo pasisekę paimti į savo valdžią net Žiemgalos dalį; tačiau jam ne
 - t-002
   global_id: t-99908
   teiginys: "1259-1260 m. žiemą Žiemgaloje pastatyta stipri Dobės pilis, kurios sukilę žiemgaliai neįveikė."
-  temporaliniai_duomenys: "pastatymo data: po 1253 m.; pastatymo data: 1253 m.; pastatymo data: 1259-1260; pastatymo data: 1260 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip pastatymo data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "513130-513657; hash=1553303eb9cc055f822c9ee38b551a42ea01c7d4d3912c45bdf13a8441220c27; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Žiemgaliai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žiemgala: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Žiemgaliai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žiemgala\" parinktas kaip owner_note_path. Targetas \"Žiemgaliai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-32613
 
@@ -137,21 +80,6 @@ Jam buvo pasisekę paimti į savo valdžią net Žiemgalos dalį; tačiau jam ne
 - t-006
   global_id: t-183117
   teiginys: "Žiemgalos dalis buvo patekusi į Ordino priešininko valdžią."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "136725-136954; hash=d6fefa1c2c515cd9c4673cdaa34b857c18e2d09fd2c4638c61de4a3e677746c2; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Durbė: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žiemgala: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Durbė: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žiemgala\" parinktas kaip owner_note_path. Targetas \"Durbė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-13T14:28:57Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-166502
 - susijęs iš [[objektai/grupes/Kuršo ir Žiemgalos kunigaikštystė.md#claim-t-183656|Kuršo ir Žiemgalos kunigaikštystė]]: Mūšyje lietuviams talkino leninės Kuršo ir Žiemgalos kunigaikštystės daliniai, apie 300 Fridricho Ketlerio reitarų.
@@ -201,8 +129,8 @@ Jam buvo pasisekę paimti į savo valdžią net Žiemgalos dalį; tačiau jam ne
     jiems užrašytas sritis, bet praktiškai jiems iš Žemaičių žemės tik tiek
     tegalėjo priklausyti, kiek jie patys savo jėga įstengs užvaldyti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -234,8 +162,8 @@ Jam buvo pasisekę paimti į savo valdžią net Žiemgalos dalį; tačiau jam ne
     tūkstančių abiejų lyčių žmonių su
     savimi paėmė ir išsivarė].
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -255,8 +183,8 @@ Jam buvo pasisekę paimti į savo valdžią net Žiemgalos dalį; tačiau jam ne
     reikia sieti 1259-1260 m. žiemą Žiemgaloje pastatymą stiprios pilies
     Dobės (Doblen)^151 , kurios sukilę žiemgaliai negalėjo įveikti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -274,8 +202,8 @@ Jam buvo pasisekę paimti į savo valdžią net Žiemgalos dalį; tačiau jam ne
     Po Durbės mūšio sukilusias kiltis ordinas jau buvo
     nugalėjęs.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -32,9 +32,6 @@ Olszewski.
 - t-001
   global_id: t-19401
   teiginys: "H. Olszewski parašė veikalą „O skutecznym rad sposobie“."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "552053-552124; hash=61113a0d797dce546b8f7357ad5e7771a4cf46d369e8917f0d15f82532fa9b77; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-22135
 - susijęs iš [[objektai/autoriai/M. Šapoka.md#claim-t-19431|M. Šapoka]]: M. Šapoka redagavo leidinį „Millennium of Lithuania: Millennium Lithuaniae“, išleistą Vilniuje 2009 m.
@@ -47,8 +44,8 @@ Olszewski.
     Ed. M. Šapoka, Vilnius, 2009; H. Olszewski. O skutecznym rad
     sposobie.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

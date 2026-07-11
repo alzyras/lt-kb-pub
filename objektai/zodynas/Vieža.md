@@ -39,9 +39,6 @@ Vartojamos formos: `viežą`, `viežos`.
 - t-004
   global_id: t-07713
   teiginys: "Vieža buvo bausmės duobė, iš kurios vėlesniais laikais buvo galima išsipirkti pinigais."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "45938-46646; hash=df84e3e421f4780fe1f6626ba687cadba955308b1cb70139c82695f0f3b770c0; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
   pagrindžia:
     - c-09641
 
@@ -49,16 +46,6 @@ Vartojamos formos: `viežą`, `viežos`.
 - t-003
   global_id: t-07714
   teiginys: "Vieža Daukanto tekste buvo žemėje iškasta, kartais išmūryta duobė kaltininkams nustatytą laiką kalinti."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "45938-46646; hash=df84e3e421f4780fe1f6626ba687cadba955308b1cb70139c82695f0f3b770c0; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  ryšio_patikimumas: "susije_su -> S. Daukantas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "vieža: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "S. Daukantas: mention_match, author, gap=6"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"vieža\" parinktas kaip owner_note_path. Targetas \"S. Daukantas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-09641
 - susijęs iš [[objektai/daiktai/Dybas.md#claim-t-08289|Dybas]]: Kaltininkus pririšdavo prie dybo ir plakdavo.
@@ -75,8 +62,8 @@ Vartojamos formos: `viežą`, `viežos`.
         vėžys pakerėj turėjo lindoti. Tuos, kurie svetimas bites kieme ar girioj bartis^1130 išlaužė, prikalus
         bambą prie aulio ar drevės, varė apsukui pliekdami, lig žarnos neišėjo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

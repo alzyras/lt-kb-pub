@@ -55,21 +55,6 @@ Nenurodyta
 - t-001
   global_id: t-62452
   teiginys: "1315 m. apie rugpjūčio 15 d. lietuviai iš Žemaitijos slapta atžygiavo prie Ragainės pilies ir ją užpuolė."
-  teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Lietuviai puolė Ragainė (0.95)"
-  temporaliniai_duomenys: "įvykio data: 1315 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalintas nereikalingas šaltinio įvardijimas ir OCR liekana."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "651603-652182; hash=2e87a2d328b499113d15e9aefc9f4ef311e57fc3eca9bc65fbeaa8fa4768ea03; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Ragainė: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Ragainė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Claim ir citata tiesiogiai sako, kad lietuviai užpuolė Ragainės pilį."
   pagrindžia:
     - c-63094
 ## Reikšmingi paminėjimai
@@ -88,8 +73,8 @@ Nenurodyta
     pasitraukė, ištrypę ir sunaikinę abiejų pilių, būtent: Skalvių ir Ragainės, laukuose visus
     pasėlius.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -100,7 +85,8 @@ Nenurodyta
 - id: c-63094
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 210"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 210."
   citata_originali: |
     Apie Ragainės pilies užpuolimą
 

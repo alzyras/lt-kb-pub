@@ -43,19 +43,6 @@ Vartojama kaip mitologinis ar analoginis žymuo geologinei hipotezei aiškinti.
 - t-001
   global_id: t-192285
   teiginys: "Narbutas Fajetono katastrofą laiko galimu prisiminimu apie nedidelės planetos arba mažesnio už Mėnulį palydovo kritimą."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "732197-733011; hash=d0b8c006c85975a8741844e90c06213ff60777609ee71ba1ecf6f5932a0c5b09; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  ryšio_patikimumas: "susije_su -> Fajetonas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Fajetono katastrofa: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Fajetonas: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Fajetono katastrofa\" parinktas kaip owner_note_path. Targetas \"Fajetonas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175105
 
@@ -63,19 +50,6 @@ Vartojama kaip mitologinis ar analoginis žymuo geologinei hipotezei aiškinti.
 - t-002
   global_id: t-192286
   teiginys: "Narbutas Fajetono katastrofą sieja su galimu nedidelės planetos arba mažesnio už Mėnulį palydovo kritimu."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "732197-733011; hash=d0b8c006c85975a8741844e90c06213ff60777609ee71ba1ecf6f5932a0c5b09; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  ryšio_patikimumas: "susije_su -> Fajetonas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Fajetono katastrofa: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Fajetonas: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Fajetono katastrofa\" parinktas kaip owner_note_path. Targetas \"Fajetonas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175105
 
@@ -83,21 +57,6 @@ Vartojama kaip mitologinis ar analoginis žymuo geologinei hipotezei aiškinti.
 - t-003
   global_id: t-192557
   teiginys: "Narbutas Fajetono katastrofą laiko legendinės senovės pasakojimu, galėjusiu priminti mažo dangaus kūno kritimą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "732197-733011; hash=d0b8c006c85975a8741844e90c06213ff60777609ee71ba1ecf6f5932a0c5b09; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Fajetonas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Fajetono katastrofa: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Fajetonas: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Fajetono katastrofa\" parinktas kaip owner_note_path. Targetas \"Fajetonas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175105
 ## Reikšmingi paminėjimai
@@ -121,8 +80,8 @@ Vartojama kaip mitologinis ar analoginis žymuo geologinei hipotezei aiškinti.
     rie į didelį aukštį išmetė pirmykščių uolų mases ir nusviedė
     jas iš šiaurės į pietus.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -136,7 +95,8 @@ Vartojama kaip mitologinis ar analoginis žymuo geologinei hipotezei aiškinti.
 - id: c-175105
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 401"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 401."
   citata_originali: |
     Visi sutinka su nuomone, jog, ištirpus ledynams, pas
     mus atplaukė ir tos Siaurės uotų nuolaužos, — jas atpluk­

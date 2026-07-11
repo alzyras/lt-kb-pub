@@ -32,14 +32,6 @@ Prie jau anksčiau lietuvių užvaldytų Juodosios Rusios (Naugarduko žemių) i
 - t-001
   global_id: t-193802
   teiginys: "Prie jau anksčiau lietuvių užvaldytų Juodosios Rusios (Naugarduko žemių) ir Polocko Gediminas pridėjo užkariautas Haličo-Voluinės, Vitebsko ir Kijevo žemes."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "52631-52897; hash=69af795387a79615a7eff01634d6fe644574b29e955530a75a007a6cdf3ff5d9; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-176448
 ## Reikšmingi paminėjimai
@@ -54,8 +46,8 @@ Prie jau anksčiau lietuvių užvaldytų Juodosios Rusios (Naugarduko žemių) i
     pridėjo užkariautas Haličo-Voluinės, Vitebsko ir Kijevo žemes.
     Lietuva tapo didvalstybe - regiono lydere.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

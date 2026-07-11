@@ -30,20 +30,6 @@ Narbutas cituoja Naruševičių, kuris gotų išėjimą aiškina kaip dakų ir g
 - t-001
   global_id: t-192117
   teiginys: "Narbutas nurodo Naruševičiaus aiškinimą, kad dakai ir getai po romėnų pralaimėjimų pasikvietė gotus, bet pats su juo nesutinka."
-  teiginio_tipas: "saltinio_teiginys"
-  semantiniai_rysiai: "Getai buvo sąjungininkas su Gotai (0.73); Getai kariavo prieš Romėnai (0.66)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "151484-151824; hash=113f9e17b75372423b7799b9fae58342e6a07e9e1ab4c03ce45a33d1f3f9d9be; match=ocr_normalized"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
-  ryšio_patikimumas: "buvo_sajungininkas_su -> Gotai: 0.73"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Getai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Gotai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Cituojamas Naruševičiaus aiškinimas teigia, kad getai kartu su dakais ketino jungtis su gotais."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174998
 ## Reikšmingi paminėjimai
@@ -60,8 +46,8 @@ Narbutas cituoja Naruševičių, kuris gotų išėjimą aiškina kaip dakų ir g
     iš Vakarų į Rytus nėjo tiesiog Dnestro ar Dunojaus link,
     1 Hist.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -72,7 +58,8 @@ Narbutas cituoja Naruševičių, kuris gotų išėjimą aiškina kaip dakų ir g
 - id: c-174998
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 84"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 84."
   citata_originali: |
     Naruševičius šį išėjimą aiškina kitaip. Jis rašo:
     „Panašu į tiesą, kad dakai su getais, prisimindami tiek iš

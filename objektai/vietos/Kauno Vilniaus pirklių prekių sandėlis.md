@@ -41,17 +41,6 @@ Pagaliau karaliaus raštas ponui Abramui, iž­ dininkui, kad laisvai leistų Vi
 - t-001
   global_id: t-86195
   teiginys: "Kaune buvęs Vilniaus pirklių prekių sandėlis buvo atleistas nuo mokesčių."
-  semantiniai_rysiai: "Kauno Vilniaus pirklių prekių sandėlis priklausė Vilnius (0.70); Vilnius prekiavo su Kaunas (0.62)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "539009-540981; hash=cd5dddad2df249956ddc79248d40ca4912eea017712be4e7f82467dc0befeca2; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Vilnius: 0.70"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kauno Vilniaus pirklių prekių sandėlis: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Sandėlio pavadinimas ir citata nurodo Vilniaus pirklių sandėlį, bet pačių pirklių grupės kandidatuose nėra."
   pagrindžia:
     - c-82174
 ## Reikšmingi paminėjimai
@@ -124,8 +113,8 @@ Pagaliau karaliaus raštas ponui Abramui, iž­ dininkui, kad laisvai leistų Vi
     prekių sandėlis ir leista Vilijos upe laisvai plaukioti jų lai­
     vams, vadinamoms vytinėms.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -207,6 +196,3 @@ Pagaliau karaliaus raštas ponui Abramui, iž­ dininkui, kad laisvai leistų Vi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86195
-
-## Ryšiai
-- Kauno Vilniaus pirklių prekių sandėlis priklausė [[objektai/vietos/Vilnius]]

@@ -50,9 +50,6 @@ Nenurodyta
 - t-005
   global_id: t-64968
   teiginys: "Ant tos pačios malkinės Brutenis liepė uždegti ugnį, o abu seneliai su ja sudegė."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "273919-274327; hash=b1211e9fa155d37455b49ae8148ecf0650ac577c2d9d8dbb5a47bad105113aa4; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-10258
 
@@ -60,9 +57,6 @@ Nenurodyta
 - t-006
   global_id: t-64970
   teiginys: "Abu seneliai galiausiai sudegė kartu su malkine."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "274617-274778; hash=b0b9f7878f66484a0c01d83db65a7ac1538be872b7982663aad326e7da391e23; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-10259
 - susijęs iš [[objektai/paprociai/Paimtų priešo vadų aukojimas dievams ir kaukolių naudojimas pokyliuose.md#claim-t-07829|Paimtų priešo vadų aukojimas dievams ir kaukolių naudojimas pokyliuose]]: Sugautus priešo vyresniuosius lietuviai aukodavo dievams gyvus sudegindami.
@@ -76,8 +70,8 @@ Nenurodyta
         prieteliais. Todėl skiriavos nuo jūsų ir linkiva lietos^1020 vyrams pakelti tarp savęs naują rykį, kurs jus
         rėdytų, taikintų ir kliautį tarp visų saugotų, tokį rykį, kurs dievams tinka ir kūrėjų kūrėjo klauso.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -90,8 +84,8 @@ Nenurodyta
         seneliu susikibusiu, pragydusiu ir giedodamu lygiai su malkine sugruzdėjusiu. Nes visa tas, ką čia
         išrašiau, yra yna^1022 pasaka, nekaip būti daiktai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

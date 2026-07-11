@@ -30,19 +30,6 @@ Mirus Mantujos kunigaikščiui Pranciškui Gonzagai, jo našlė Kotryna gyveno t
 - t-001
   global_id: t-186249
   teiginys: "Mirus Mantujos kunigaikščiui Pranciškui Gonzagai, jo našlė Kotryna gyveno tėvo Ferdinando rūmuose."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1229631-1230051; hash=7fbe37fb7b7f4a07918e7996b13deb8abd3b54da18bade1af30d3b7809add28c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_vyras -> Kotryna: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Pranciškus Gonzaga: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kotryna: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Kotryna vadinama Pranciškaus Gonzagos našle, todėl jis buvo jos vyras."
   pagrindžia:
     - c-169610
 ## Reikšmingi paminėjimai
@@ -64,8 +51,8 @@ Mirus Mantujos kunigaikščiui Pranciškui Gonzagai, jo našlė Kotryna gyveno t
     kitų, ir Vilniaus vaivada, Olykos bei Nesvyžiaus kuni­
     gaikštis Mikalojus Radvila.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -76,7 +63,8 @@ Mirus Mantujos kunigaikščiui Pranciškui Gonzagai, jo našlė Kotryna gyveno t
 - id: c-169610
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 690"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 690."
   citata_originali: |
     Karalienė patarė
     nenutraukti

@@ -41,16 +41,6 @@ media_all_json: |-
 - t-001
   global_id: t-86225
   teiginys: "Strijkovskio pasakojime Gediminas medžiojo girioje tarp kalnų, kurie vadinti Plikaisiais."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "128648-129938; hash=9c09c59bba0831d018cfb2dc12ea07cf84f84cff55c15fd76ff0c4228051a3bb; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aukštutinė pilis: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Plikieji kalnai: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Aukštutinė pilis: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Plikieji kalnai\" parinktas kaip owner_note_path. Targetas \"Aukštutinė pilis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-82204
 ## Reikšmingi paminėjimai
@@ -82,8 +72,8 @@ media_all_json: |-
     regėjo geležinį vilką, nepaprasto didumo, o jo kauksmas bu­
     vęs toks galingas, kad atrodė, tarsi šimtas vilkų staugtų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

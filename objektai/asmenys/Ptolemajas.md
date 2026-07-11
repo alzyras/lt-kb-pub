@@ -32,16 +32,6 @@ Jau Ptolemajas II a.
 - t-001
   global_id: t-17607
   teiginys: "Ptolemajas II a. žinojo galindus ir jotvingius, arba sūduvius."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "38932-39166; hash=8afd7f7a70cd6242f810d15a905835ba1decdeb57f453e797e212f14fd827ed5; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Galindai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ptolemajas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Galindai: mention_match, group, gap=24"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ptolemajas\" parinktas kaip owner_note_path. Targetas \"Galindai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-20625
 ## Reikšmingi paminėjimai
@@ -54,8 +44,8 @@ Jau Ptolemajas II a.
     tyvaisiais Viduramžiais Vakarų metraštininkai pradeda minėti prūsus,
     kuršius, žiemgalius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

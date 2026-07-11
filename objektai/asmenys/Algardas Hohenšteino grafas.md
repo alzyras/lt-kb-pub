@@ -35,17 +35,6 @@ Puolėjų nuos­ toliai buvo irgi ne mažesni; be daugybės nukautų karių, pri
 - t-001
   global_id: t-87618
   teiginys: "Hohenšteino grafas Algardas žuvo prie Vilniaus, kai buvo pakirstas šūvio per pilies apsiaustį."
-  semantiniai_rysiai: "Algardas Hohenšteino grafas mirė Vilnius (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "278733-280020; hash=f0758cf72689abc4d1afd8576d38adb53a90c6cc3501facfba9e957c4ef353c2; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "mire -> Vilnius: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Algardas Hohenšteino grafas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Algardas žuvo prie Vilniaus."
   pagrindžia:
     - c-83597
 ## Reikšmingi paminėjimai
@@ -92,8 +81,8 @@ Puolėjų nuos­ toliai buvo irgi ne mažesni; be daugybės nukautų karių, pri
     dermes/7  Knyga XIII, p. 455, Varš.
     leid.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

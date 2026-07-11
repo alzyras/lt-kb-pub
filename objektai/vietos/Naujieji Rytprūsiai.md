@@ -32,14 +32,6 @@ Prūsija per trečiąjį padalinimą gautąsias žemes pavadino Naujaisiais Rytp
 - t-001
   global_id: t-193275
   teiginys: "Prūsija per trečiąjį padalinimą gautąsias žemes pavadino Naujaisiais Rytprūsiais."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "904786-905009; hash=b15873c1835f14bfa5865f9eee8cec3e5160695b9dfa56885fb8064fe21ad01d; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-176004
 ## Reikšmingi paminėjimai
@@ -54,8 +46,8 @@ Prūsija per trečiąjį padalinimą gautąsias žemes pavadino Naujaisiais Rytp
     gautąsias žemes pavadino Naujaisiais Rytprūsiais.
     Jos visos buvo padalintos į Plocko ir Balstogės departamentus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

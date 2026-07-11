@@ -53,20 +53,6 @@ Nenurodyta
 - t-001
   global_id: t-186832
   teiginys: "Lietuvos metraščio pasakojime jotvingiai susirėmime prieš vokiečius jodinėjo su trumpomis ietimis."
-  teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Jotvingiai kariavo prieš Vokiečiai (0.74)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "91716-92052; hash=6ecf9cdbb89b43f46939a147f16bc467f218c80fd74cf9599e85a1e3ea692de2; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
-  ryšio_patikimumas: "kariavo_pries -> Vokiečiai: 0.74"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jotvingiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vokiečiai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Pasakojime jotvingiai minimi tame pačiame susirėmime prieš vokiečius, todėl santykis yra karinis."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-170016
 
@@ -74,12 +60,6 @@ Nenurodyta
 - t-002
   global_id: t-193872
   teiginys: "O rytojaus metą prieš vokiečius išjojo [Mindaugo kariai), ginkluoti arbaletais; ir jodinėjo ru sai bei poloviečiai su strėlėmis, o jotvingiai su trumpo mis ietimis, ir vaikėsi po lauką, tarytum turnyre."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "91716-92052; hash=6ecf9cdbb89b43f46939a147f16bc467f218c80fd74cf9599e85a1e3ea692de2; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-170016
 ## Reikšmingi paminėjimai
@@ -95,8 +75,8 @@ Nenurodyta
     mis ietimis, ir vaikėsi po lauką, tarytum turnyre. Ir iš
     ten (Tautvilą) sugrįžo namo į Žemaitiją 2 6 .
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

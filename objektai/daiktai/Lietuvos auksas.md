@@ -66,17 +66,6 @@ Nenurodyta
 - t-005
   global_id: t-13782
   teiginys: "Iš užsienyje laikyto Lietuvos aukso pasisavintas tik Švedijos ir Šveicarijos bankuose saugotas auksas."
-  semantiniai_rysiai: "Lietuvos auksas priklausė Lietuva (0.90)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "385567-386389; hash=6700323f80d405920f19b8006f0d13076071a0de6f92cfd4017122a1b05070b3; match=exact"
-  sprendimo_priezastis: "gap::items"
-  ryšio_patikimumas: "priklause -> Lietuva: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuvos auksas: llm_allowed_candidate, thing"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Frazė tiesiogiai nurodo, kad kalbama apie Lietuvai priklausantį auksą."
   pagrindžia:
     - c-16909
 
@@ -84,17 +73,6 @@ Nenurodyta
 - t-005
   global_id: t-13782
   teiginys: "Iš užsienyje laikyto Lietuvos aukso pasisavintas tik Švedijos ir Šveicarijos bankuose saugotas auksas."
-  semantiniai_rysiai: "Lietuvos auksas priklausė Lietuva (0.90)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "385567-386389; hash=6700323f80d405920f19b8006f0d13076071a0de6f92cfd4017122a1b05070b3; match=exact"
-  sprendimo_priezastis: "gap::items"
-  ryšio_patikimumas: "priklause -> Lietuva: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuvos auksas: llm_allowed_candidate, thing"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Frazė tiesiogiai nurodo, kad kalbama apie Lietuvai priklausantį auksą."
   pagrindžia:
     - c-16909
 - susijęs iš Švedija: Lietuvos auksas buvo pasisavintas tik iš Švedijos ir Šveicarijos bankuose saugotų atsargų.
@@ -115,8 +93,8 @@ Nenurodyta
     Sąjungos valstybiniam bankui perduoti užsienyje laikomą Lietuvos auksą.
     Tačiau pasisavintas tik Švedijos ir Šveicarijos bankuose saugomas auksas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

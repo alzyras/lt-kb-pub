@@ -51,18 +51,6 @@ Seime Lietuva turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provin
 - t-002
   global_id: t-114851
   teiginys: "1925 m. Poznanė siejama su IV visuotiniu Lenkijos istorikų suvažiavimu."
-  temporaliniai_duomenys: "įvykio data: 1925 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "38452-38666; hash=42a6910a6f4b9ca5d568bb1aeb25bfc083eff70c6b7614131675d72eaaed455e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Poznanė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=33"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Poznanė\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-105861
 
@@ -70,19 +58,6 @@ Seime Lietuva turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provin
 - t-006
   global_id: t-114852
   teiginys: "Poznanė 1253 m. ėmė tvarkytis pagal vokiečių miestų teises."
-  temporaliniai_duomenys: "įvykio data: 1253 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra glaustas ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "39756-40329; hash=a2cd64e43a1dd6570666d7ae722e830d847c5c45b7dda1a94ea4c0b96a75fccf; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vokiečiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Poznanė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Vokiečiai: mention_match, group, gap=36"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Poznanė\" parinktas kaip owner_note_path. Targetas \"Vokiečiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-105862
 
@@ -90,16 +65,6 @@ Seime Lietuva turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provin
 - t-005
   global_id: t-114853
   teiginys: "Martinas Galias pasakoja, kad Poznanė duodavo 1300 šarvuotųjų ir 4000 skydais ginkluotų karių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "37213-37481; hash=1a05887fba4568448887798da62a1f4f07480283a32d4ed85211aa92cad317c3; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gnieznas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Poznanė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Gnieznas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Poznanė\" parinktas kaip owner_note_path. Targetas \"Gnieznas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-105860
 
@@ -107,16 +72,6 @@ Seime Lietuva turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provin
 - t-009
   global_id: t-114855
   teiginys: "Laurynas Goslickis buvo karaliaus Stepono sekretorius, vėliau tapo Poznanės vyskupu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "587830-588355; hash=a50ce302a9836a7b9397a2f0600c0a42bfabc580c95747d3e09b1b9641c655d9; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Anglai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Poznanė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Anglai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Poznanė\" parinktas kaip owner_note_path. Targetas \"Anglai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-105863
 
@@ -124,19 +79,6 @@ Seime Lietuva turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provin
 - t-008
   global_id: t-114856
   teiginys: "Jonas II 1536 m. buvo perkeltas į Poznanės vyskupiją ir mirė 1538 m., sulaukęs 40 metų."
-  temporaliniai_duomenys: "įvykio data: 1536 m.; įvykio data: 1538 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra išsamus ir paremtas citata apie Poznanės vyskupiją."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "406633-407003; hash=1de2a6079e4f4c5375ca3ac5c6fbdcb772e69130fbf0d65c30e1231a9e42138d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jonas II: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Poznanė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Jonas II: mention_match, person, gap=34"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Poznanė\" parinktas kaip owner_note_path. Targetas \"Jonas II\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-105865
 
@@ -144,19 +86,6 @@ Seime Lietuva turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provin
 - t-015
   global_id: t-114857
   teiginys: "Jonas II 1519 m. paskelbtas Vilniaus vyskupu, 1536 m. perkeltas į Poznanės vyskupiją, o 1538 m. mirė sulaukęs 40 metų."
-  temporaliniai_duomenys: "įvykio data: 1519 m.; įvykio data: 1536 m.; įvykio data: 1538 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra tikslus faktinis sakinys, paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "406633-407003; hash=1de2a6079e4f4c5375ca3ac5c6fbdcb772e69130fbf0d65c30e1231a9e42138d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jonas II: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Poznanė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Jonas II: mention_match, person, gap=66"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Poznanė\" parinktas kaip owner_note_path. Targetas \"Jonas II\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-105865
 
@@ -164,18 +93,6 @@ Seime Lietuva turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provin
 - t-007
   global_id: t-114858
   teiginys: "Kroniką „Lechitów i Polaków“ parašė Poznanės kustodas Godzislovas Baško."
-  temporaliniai_duomenys: "įvykio data: 1822 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "400026-400642; hash=b165420dd50e9f13fc9e983aa17d496bb9e8c6fe6b65b4a55a2f178d6a42d0cf; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> kustodas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Poznanė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "kustodas: mention_match, thing, gap=9"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Poznanė\" parinktas kaip owner_note_path. Targetas \"kustodas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-105859
 
@@ -183,16 +100,6 @@ Seime Lietuva turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provin
 - t-011
   global_id: t-114860
   teiginys: "Laurynas Goslickis, buvęs karaliaus Stepono sekretorius, galiausiai tapo Poznanės vyskupu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "587830-588355; hash=a50ce302a9836a7b9397a2f0600c0a42bfabc580c95747d3e09b1b9641c655d9; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Anglai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Poznanė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Anglai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Poznanė\" parinktas kaip owner_note_path. Targetas \"Anglai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-105863
 
@@ -200,17 +107,6 @@ Seime Lietuva turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provin
 - t-001
   global_id: t-114861
   teiginys: "Didžioji Lenkija su Poznane buvo viena iš dviejų Lenkijos provincijų."
-  semantiniai_rysiai: "Didžioji Lenkija priklausė Lenkija (0.86); Poznanė priklausė Didžioji Lenkija (0.82)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "130553-130881; hash=b37e37c9d5027ce3d1bc83e521c36a215bfb11de253a2e606cd9caa33b533a73; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Lenkija: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Didžioji Lenkija: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teigiama, kad Didžioji Lenkija buvo viena iš Lenkijos provincijų."
   pagrindžia:
     - c-24404
 
@@ -218,16 +114,6 @@ Seime Lietuva turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provin
 - t-016
   global_id: t-114862
   teiginys: "Boleslovo laikais Krušvica, Poznanė ir kiti Didžiosios Lenkijos miestai garsėjo turtais ir gyventojų gausa."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "36224-36882; hash=31ee3769fb73fb489bc0bd8c8a28cbda262761b4f941aa41cad34819a5f2a690; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Poznanė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=27"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Poznanė\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-105868
 
@@ -235,16 +121,6 @@ Seime Lietuva turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provin
 - t-010
   global_id: t-114863
   teiginys: "Martino Galiaus pasakojimu, Poznanė duodavo 1300 šarvuotųjų ir 4000 skydais ginkluotų karių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "37213-37481; hash=1a05887fba4568448887798da62a1f4f07480283a32d4ed85211aa92cad317c3; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gnieznas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Poznanė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Gnieznas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Poznanė\" parinktas kaip owner_note_path. Targetas \"Gnieznas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-105860
 
@@ -252,19 +128,6 @@ Seime Lietuva turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provin
 - t-014
   global_id: t-114864
   teiginys: "„Kronika Lechitów i Polaków“ buvo parašyta Poznanės kustodo Godzislavo Baško."
-  temporaliniai_duomenys: "įvykio data: 1822 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai susieja kroniką su Poznanės kustodu ir atitinka citatą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "400026-400642; hash=b165420dd50e9f13fc9e983aa17d496bb9e8c6fe6b65b4a55a2f178d6a42d0cf; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gniezno: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Poznanė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Gniezno: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Poznanė\" parinktas kaip owner_note_path. Targetas \"Gniezno\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-105859
 
@@ -272,19 +135,6 @@ Seime Lietuva turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provin
 - t-017
   global_id: t-185098
   teiginys: "Keliaudamas iš Poznanės į Srodą karalius vos nežuvo per audrą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "694014-694349; hash=74fb40bf41e16c63779bbbd7bd78f73becdca72935b3eaaeae81d9776a5026ca; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Sroda: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Poznanė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Sroda: mention_match, place, gap=11"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Poznanė\" parinktas kaip owner_note_path. Targetas \"Sroda\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-168459
 
@@ -292,12 +142,6 @@ Seime Lietuva turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provin
 - t-018
   global_id: t-194988
   teiginys: "RDzSG = Roczniki Dziejów Społecznych i Gospodarczych, Poznanė."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "40688-40938; hash=c19c94bd0ac754da3ec9f82db59c52626d189490e6c1b5c321dee3f7f884e551; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177372
 - susijęs iš [[objektai/asmenys/Inocentas VI.md#claim-t-35100|Inocentas VI]]: Inocentas VI buvo popiežius, kurio santykiuose su Algirdu kartą tarpininkavo Poznanės vyskupas Dobrogostas.
@@ -406,8 +250,8 @@ Seime Lietuva turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provin
     turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provincijai (jos
     buvo dvi – Didžioji Lenkija su Poznane ir Mažoji Lenkija su Krokuva).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -432,8 +276,8 @@ Seime Lietuva turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provin
     tuvos vyskupas, Gniezno arkivyskupo Pelkos įšventinti vys­
     kupais. (Žr. 1.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -453,8 +297,8 @@ Seime Lietuva turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provin
     jų, 2 000 su skydais, Gdečas - 300
     pirmųjų ir 2 000 antrųjų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -470,8 +314,8 @@ Seime Lietuva turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provin
     PAN = Polska Akademia Nauk, Varšuvoje naujai perorganizuotos
     (Krokuvos) PAU tąsa.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -491,8 +335,8 @@ Seime Lietuva turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provin
     teises. Panašiai ir Varšuva, įkurta 1251 metais, o Lvovas po jos -
     1280 metais, pastatydintas Leono, Darnios iš Haličo sūnaus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -518,8 +362,8 @@ Seime Lietuva turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provin
     Senatore", kuri buvo išversta net į
     anglų kalbą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -538,8 +382,8 @@ Seime Lietuva turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provin
     metų, 1538 m.
     13.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -567,8 +411,8 @@ Seime Lietuva turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provin
     daugybę narsių karių kartu su aplinkinėmis žemėmis pergalin­
     giems jo pulkams teikėc).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -587,8 +431,8 @@ Seime Lietuva turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provin
     lydovus, keturis arklius iš šešių ir penktą ginklanešio
     žirgą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -604,8 +448,8 @@ Seime Lietuva turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provin
     RegJH = Regesta historico — diplomatica Ordinis Mariae Theutoni-
     corum (1198-1525), išl.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -804,7 +648,8 @@ Seime Lietuva turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provin
 - id: c-168459
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 396"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 396."
   citata_originali: |
     Pa­
     sirašius paliaubų sutartį, Vytautas nuvyko į Lietuvą, o
@@ -837,6 +682,3 @@ Seime Lietuva turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provin
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194988
-
-## Ryšiai
-- Poznanė priklausė [[objektai/vietos/Didžioji Lenkija]]

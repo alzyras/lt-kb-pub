@@ -33,17 +33,6 @@ Lukšį (turėjusius Pirmojo pasaulinio karo kovų patirties) su 8 kareiviais, k
 - t-001
   global_id: t-41710
   teiginys: "Lietuvių kariai granatomis ir šūviais privertė bolševikus iš Eigulių kaimo skubiai trauktis į Juodikio mišką."
-  semantiniai_rysiai: "J. Šarauskas siuntė į Paobeliai (0.88)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "704066-704614; hash=584a5f4155701369bd16718bfa25407bd449d04d2a3b2f0766d531e0a0704a24; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "siunte_i -> Paobeliai: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "J. Šarauskas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Paobeliai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad J. Šarauskas pasiuntė karius į Paobelius."
   pagrindžia:
     - c-45091
 - susijęs iš [[objektai/asmenys/Povilas Lukšys.md#claim-t-49485|Povilas Lukšys]]: Povilas Lukšys su V. Vainausku ir 8 kareiviais užėjo bolševikams į užnugarį ir privertė juos trauktis iš Eigulių kaimo.
@@ -75,8 +64,8 @@ Lukšį (turėjusius Pirmojo pasaulinio karo kovų patirties) su 8 kareiviais, k
     viams atvyko vokiečių batalionas, gink-
     luotėje turėjęs kulkosvaidžių ir artileriją.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -110,6 +99,3 @@ Lukšį (turėjusius Pirmojo pasaulinio karo kovų patirties) su 8 kareiviais, k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-41710
-
-## Ryšiai
-- Užėmė Eiguliai: [[objektai/grupes/Kryžiuočių ordinas]]

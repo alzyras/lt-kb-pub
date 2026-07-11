@@ -54,18 +54,6 @@ Nenurodyta
 - t-006
   global_id: t-66458
   teiginys: "1920 m. rugsėjo 22 d. lenkai slapta pergrupavo pajėgas ir pradėjo puolimą ties Seinais bei Kapčiamiesčiu."
-  temporaliniai_duomenys: "įvykio data: 1920 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "824979-825276; hash=b412e78e119194d1786a36ae625cded216241ff374d618dab6b36bea218d3899; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Augustavo-Suvalkų operacija (1920 m. rugsėjo 22 d. – rugsėjo pabaiga): owner_note_path, event"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=23"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Augustavo-Suvalkų operacija (1920 m. rugsėjo 22 d. – rugsėjo pabaiga)\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-66689
 
@@ -73,16 +61,6 @@ Nenurodyta
 - t-008
   global_id: t-66459
   teiginys: "Augustavo-Suvalkų operacijos metu lenkų pajėgos spalio 3-4 d. užėmė Varėną, svarbų transporto mazgą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "827075-827376; hash=134a8b9b187a74754a578122ba88246dfd672873dd92dd86310df2a277fbe350; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Augustavo-Suvalkų operacija (1920 m. rugsėjo 22 d. – rugsėjo pabaiga): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=34"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Augustavo-Suvalkų operacija (1920 m. rugsėjo 22 d. – rugsėjo pabaiga)\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-66688
 
@@ -90,16 +68,6 @@ Nenurodyta
 - t-010
   global_id: t-66460
   teiginys: "Visos operacijos metu Lietuvos pajėgos prarado daugiau nei 2 000 karių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "828197-828591; hash=09e177572d02f886d21dd0e6ea70e76ed7d6bb03e82089ce75dcd5b0c7658c6e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Augustavo-Suvalkų operacija (1920 m. rugsėjo 22 d. – rugsėjo pabaiga): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=16"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Augustavo-Suvalkų operacija (1920 m. rugsėjo 22 d. – rugsėjo pabaiga)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-66690
 
@@ -107,16 +75,6 @@ Nenurodyta
 - t-007
   global_id: t-66461
   teiginys: "Rugsėjo 23 d. lenkų divizijos perėjo tiltą per Nemuną Druskininkuose, o rugsėjo 28 d. lenkai užėmė Lydą ir puolė Varėnos kryptimi."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "826791-826992; hash=853f5a0cddd68eeb154a8388b97ccf9da87a0fed127f28c3ef4674c9a7024e38; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Druskininkai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Augustavo-Suvalkų operacija (1920 m. rugsėjo 22 d. – rugsėjo pabaiga): owner_note_path, event"
-  ryšio_targeto_parinkimas: "Druskininkai: mention_match, place, gap=55"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Augustavo-Suvalkų operacija (1920 m. rugsėjo 22 d. – rugsėjo pabaiga)\" parinktas kaip owner_note_path. Targetas \"Druskininkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-11819
 
@@ -124,16 +82,6 @@ Nenurodyta
 - t-009
   global_id: t-66462
   teiginys: "Rugsėjo pabaigoje Lietuvos pajėgos patyrė didelius nuostolius, įskaitant sunaikintus batalionus ir baterijas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "827942-828435; hash=9b2b8f1cc793a5cd0525c3a953e7928c0def9125407be5291147644579becfd6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Augustavo-Suvalkų operacija (1920 m. rugsėjo 22 d. – rugsėjo pabaiga): owner_note_path, event"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=19"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Augustavo-Suvalkų operacija (1920 m. rugsėjo 22 d. – rugsėjo pabaiga)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-11821
 - susijęs iš [[objektai/zodynas/pozicinė gynyba.md#claim-t-80631|pozicinė gynyba]]: Lietuvos vadovybė numatė pozicinę gynybą visu frontu be manevravimo galimybės ir didesnio rezervo.
@@ -151,8 +99,8 @@ Nenurodyta
     užėmė Lydą ir tęsė puolimą Varėnos kryp-
     timi. Lietuvių pajėgos traukėsi į šiaurę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -174,8 +122,8 @@ Nenurodyta
     kintos 1-oji baterija, 5-oji bei 2-oji haubicų
     baterijos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -194,8 +142,8 @@ Nenurodyta
     liau puolė lietuvius ir spalio 3-4 d. užėmė
     Varėną - svarbų transporto mazgą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -212,8 +160,8 @@ Nenurodyta
     ryte. Lietuviai tokio stipraus puolimo ne-
     sugebėjo atlaikyti, lenkai užiminėjo vieną
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -233,8 +181,8 @@ Nenurodyta
     gos visos Augustavo-Suvalkų operacijos
     metu prarado daugiau nei 2 000 karių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -343,6 +291,3 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66460
-
-## Ryšiai
-- Puolė Augustavo-Suvalkų operaciją (1920 m. rugsėjo 22 d. – rugsėjo pabaiga): [[objektai/grupes/Lenkai]]

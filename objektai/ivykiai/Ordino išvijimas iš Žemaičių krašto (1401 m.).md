@@ -56,20 +56,6 @@ Nenurodyta
 - t-001
   global_id: t-95972
   teiginys: "1401 m. Vytautas išvijo Ordiną iš Žemaičių krašto ir sutrukdė jo siekiui sausuma sujungti abu Ordinus."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) kariavo prieš Kryžiuočių ordinas (0.87)"
-  temporaliniai_duomenys: "įvykio data: 1401 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko faktą, bet pradinė formuluotė prasideda neaiškiu įvardžiu ir turi OCR triukšmo."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "435532-435785; hash=e2a8db57b8444a9e2b9b641c454ad90635bbd47587db0f2e5f514b4aaa5b8565; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Kryžiuočių ordinas: 0.87"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Vytautas ėmė žygius prieš Ordiną."
   pagrindžia:
     - c-37043
 ## Reikšmingi paminėjimai
@@ -84,8 +70,8 @@ Nenurodyta
     go laikų dėtos pastangos užkariauti Žemaitiją, kad galėtų sau­
     sažemiu susijungti abu Ordinai, vėl liko sutrukdytos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

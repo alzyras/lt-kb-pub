@@ -45,21 +45,6 @@ Nenurodyta
 - t-001
   global_id: t-189692
   teiginys: "Narbuto perteiktame padavime apkalbėtą vaidilutę norėta užsiūti odiniame maiše su šunimi, katinu ir gyvate ir nuskandinti Nemune."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "524425-524984; hash=f651a389b8fb5de49e74b77b1e5012a78b451adee3cecebd55d9d0e50c88378f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Drabužiai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Odinis akmenų prikimštas maišas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Drabužiai: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Odinis akmenų prikimštas maišas\" parinktas kaip owner_note_path. Targetas \"Drabužiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172575
 ## Reikšmingi paminėjimai
@@ -79,8 +64,8 @@ Nenurodyta
     tas, šarvuotas, išvadavo mergelę ir liepė sutuokti su ja ant paties upės
     kranto; tada abu apsikabinę šoko į vandenį ir dingo iš akių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -91,7 +76,8 @@ Nenurodyta
 - id: c-172575
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 300"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 300."
   citata_originali: |
     Dėl
     vaidilučių drabužių taip pat neturime tikrų duomenų; kadan­

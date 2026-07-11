@@ -52,20 +52,6 @@ Nenurodyta
 - t-001
   global_id: t-01667
   teiginys: "1328 m. livoniškiai kryžiuočiai perdavė atkirstą Klaipėdos pilį Prūsijos kryžiuočiams."
-  semantiniai_rysiai: "Livonijos ordinas priklausė Kryžiuočių ordinas (0.61)"
-  temporaliniai_duomenys: "įvykio data: 1328 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys su neaiškiu įvardžiu, o citata tiesiogiai pagrindžia perdavimą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "1195452-1195907; hash=c69e6f33fe13b4bc611e3d32ed96f2b8098d3dd769fb2d7963cf4f88a360190b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Kryžiuočių ordinas: 0.61"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Livonijos ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Tekste Livonijos kryžiuočiai ir Prūsijos kryžiuočiai vaizduojami kaip ordino šakos; ryšys žymi Livonijos ordino priklausymą platesnei kryžiuočių struktūrai."
   pagrindžia:
     - c-01905
 ## Reikšmingi paminėjimai
@@ -82,8 +68,8 @@ Nenurodyta
     Prūsijos kryžiuočiams, kurie tuo tarpu jau buvo užėmę visą pa-
     jūrį iki Klaipėdos ir įsitvirtinę Nemuno žemupy.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

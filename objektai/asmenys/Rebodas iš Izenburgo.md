@@ -41,20 +41,6 @@ Dusburgietis teigia, kad dar apie tą patį Tais pačiais 1314 metais, apie grab
 - t-001
   global_id: t-60423
   teiginys: "Brolis Rebodas iš Izenburgo žuvo 1314 m. kovoje prie Sizditės pilies Medininkų valsčiuje."
-  semantiniai_rysiai: "Rebodas iš Izenburgo mirė Sizditė (0.82)"
-  temporaliniai_duomenys: "įvykio data: 1314 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pirminis teiginys nemini objekto aiškiai; citata palaiko faktą apie Rebodo žūtį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "648166-648861; hash=f067a1e9f1731730a6143e52fab599037b7f3658b4ab5aa3f5b367001a31fcc2; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "mire -> Sizditė: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Rebodas iš Izenburgo: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Sizditė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Rebodas žuvo kovoje prie Sizditės pilies."
   pagrindžia:
     - c-61055
 ## Reikšmingi paminėjimai
@@ -74,8 +60,8 @@ Dusburgietis teigia, kad dar apie tą patį Tais pačiais 1314 metais, apie grab
     ir Mindotės. Ne kažką laimėję, puldami pilį, jie vėliau patraukė į jos apylinkes ir dar kartą
     jas nusiaubė, degindami ir piešdami.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -86,7 +72,8 @@ Dusburgietis teigia, kad dar apie tą patį Tais pačiais 1314 metais, apie grab
 - id: c-61055
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 209"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 209."
   citata_originali: |
     321 (314). Dar apie tą patį
 
@@ -105,6 +92,3 @@ Dusburgietis teigia, kad dar apie tą patį Tais pačiais 1314 metais, apie grab
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60423
-
-## Ryšiai
-- Rebodas iš Izenburgo mirė [[objektai/vietos/Sizditė]]

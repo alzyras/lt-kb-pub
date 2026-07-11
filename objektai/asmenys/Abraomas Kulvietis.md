@@ -63,20 +63,6 @@ Abraomas Kulvietis aprašomas kaip lietuvių kilmės kunigas ir teologijos dakta
 - t-036
   global_id: t-181560
   teiginys: "1539 m. Abraomas Kulvietis Vilniuje pirmasis skleidė Martyno Liuterio religines pažiūras ir savo mokykloje išlavino 60 mokinių."
-  semantiniai_rysiai: "Abraomas Kulvietis gyveno Vilnius (0.82)"
-  temporaliniai_duomenys: "įvykio data: 1539 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata aiškiai pagrindžia veiklą, bet pradinis teiginys nutrūkęs."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "565454-566244; hash=10e25ad458c4ccad9e1e43c7fcb1c7ab8e872704f5ef25a3eeefd4669bb07ce5; match=whitespace_regex"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  ryšio_patikimumas: "gyveno -> Vilnius: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Abraomas Kulvietis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Abraomas Kulvietis atvyko į Vilnių ir ten veikė."
   pagrindžia:
     - c-165096
 
@@ -84,9 +70,6 @@ Abraomas Kulvietis aprašomas kaip lietuvių kilmės kunigas ir teologijos dakta
 - t-037
   global_id: t-181561
   teiginys: "Karaliaus sprendimu Abraomas Kulvietis turėjo stoti prieš dvasinį teismą, prisipažinti nusikaltęs ir paklusti kanoninei bausmei."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "566004-566899; hash=4f83ec91b52d957c8aa5efd39eacc8d38e83d22700303b2afeeecae3994fde52; match=whitespace_regex"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
   pagrindžia:
     - c-165097
 - susijęs iš [[objektai/asmenys/Albrechtas.md#claim-t-18766|Albrechtas]]: Kunigaikštis Albrechtas Prūsijoje priglobė 1542 m. iš Vilniaus emigravusį A. Kulvietį.
@@ -136,8 +119,8 @@ Abraomas Kulvietis aprašomas kaip lietuvių kilmės kunigas ir teologijos dakta
     nąjį atkakliai reikalaudamas, kad šis karališkuoju autorite­
     tu paremtų gynybai besirengiančią dvasininkiją.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -166,8 +149,8 @@ Abraomas Kulvietis aprašomas kaip lietuvių kilmės kunigas ir teologijos dakta
     tvirtina Ossolinskis vertingame vei­
     kale Wiadomości Hist.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -236,7 +219,4 @@ Abraomas Kulvietis aprašomas kaip lietuvių kilmės kunigas ir teologijos dakta
     - t-181561
 
 ## Ryšiai
-- Rėmė Abraomas Kulvietį: [[objektai/asmenys/Albrechtas]]
 - Abraomas Kulvietis keliavo į [[objektai/vietos/Prūsija]], [[objektai/vietos/Vilnius]]
-- Abraomas Kulvietis pastatė [[objektai/vietos/Vilnius]]
-- Abraomas Kulvietis gyveno [[objektai/vietos/Vilnius]]

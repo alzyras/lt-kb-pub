@@ -34,14 +34,6 @@ Visus raštus į Maskvą antspauduodavo Lietuvos kancleriai, o iš Maskvos gauna
 - t-001
   global_id: t-193295
   teiginys: "Visus raštus į Maskvą antspauduodavo Lietuvos kancleriai, o iš Maskvos gaunami raštai ir su ja padarytos sutartys būdavo įteikiamos Lietuvos kancleriams ir saugomos Lietuvos valstybės archyve (metrikoje)."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "544029-544397; hash=15f47959e728da2d86d22627cdfe411834a37ab1512c18bf1bcf42a060d680a3; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-176023
 - susijęs iš Karališkasis malūnas Vilniuje: Karališkasis malūnas Vilniuje Lietuvos Metrikoje buvo įvardytas kaip Molendinum Vilnense, arba Vilniaus malūnas.
@@ -62,8 +54,8 @@ Visus raštus į Maskvą antspauduodavo Lietuvos kancleriai, o iš Maskvos gauna
     Jei kokia delegacija vykdavo į užsienį, tai ji paprastai bū-
     davo mišra — iš lietuvių ir iš lenkų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -33,16 +33,6 @@ Gaidys ir Viesulas turėjo tik pistalietus. [...].Gaidys apsiginklavo automatu, 
 - t-001
   global_id: t-40115
   teiginys: "Partizanas Gaidys buvo ginkluotas tik pistoletu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "955330-955537; hash=ccb2771f126a461a3af1adfb9b2381aac7d719e93f6e00b06564cce4e3ebdb40; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Pistoletas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gaidys: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Pistoletas: mention_match, thing, gap=27"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gaidys\" parinktas kaip owner_note_path. Targetas \"Pistoletas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-41916
 - susijęs iš [[objektai/asmenys/Viesulas.md#claim-t-39666|Viesulas]]: Viesulas ir Gaidys turėjo tik pistoletus.
@@ -59,8 +49,8 @@ Gaidys ir Viesulas turėjo tik pistalietus. [...].Gaidys apsiginklavo automatu, 
     ras buvo ginkluotas vokišku MG 36 [turėtų būti MG 34] kulkosvaidžiu. Jis buvo vienintelė
     trijulės pajėga ir viltis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

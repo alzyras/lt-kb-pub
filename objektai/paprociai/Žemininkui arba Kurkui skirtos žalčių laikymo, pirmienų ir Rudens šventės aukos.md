@@ -45,14 +45,6 @@ Nenurodyta
 - t-001
   global_id: t-189815
   teiginys: "Narbutas rašo, kad kasmet Didžiosios šventės išvakarėse šios dievybės stabas būdavo sudaužomas ir padaromas naujas."
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "193936-194310; hash=a5dca1977df1e65e122e108983cd3bdd2cc74a631d11f6b212b49793f6212d9e; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-172698
 
@@ -60,14 +52,6 @@ Nenurodyta
 - t-002
   global_id: t-194643
   teiginys: "Lietuviai teikė jam garbę, laikydami žalčius ir maitindami juos pienu; su juo buvo susiję šiurkštūs ir tamsūs prietarai."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "192782-193276; hash=69bbb625f2028f948217733b8de102feb514f00570ffca33be348f01ee9d4460; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-177041
 ## Reikšmingi paminėjimai
@@ -87,8 +71,8 @@ Nenurodyta
     vis. Apaštalai, apkrikštydami prūsus, daugiausia vargo, kol įvei­
     kė prietaringą tikėjimą šia dievybe*.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -108,8 +92,8 @@ Nenurodyta
     kos jam buvo atnašaujamos rudenį, per šventę, vadintą Di­
     džiąja.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -142,7 +126,8 @@ Nenurodyta
 - id: c-177041
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 108"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 108."
   citata_originali: |
     Lietuviai teikė jam garbę, laikydami žalčius ir maitindami
     juos pienu; su juo buvo susiję šiurkštūs ir tamsūs prietarai. Jis

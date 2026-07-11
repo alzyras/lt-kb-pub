@@ -43,16 +43,6 @@ Dusburgietis teigia, kad jeronimas priduria: „Negi gali būti kas vainikuotas 
 - t-001
   global_id: t-60149
   teiginys: "Dusburgietis Jeronimui priskiria mintį, kad be kantrybės negalima pelnyti šventojo vainiko."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "155216-155518; hash=09aab4684a3c0eeac448a08246e9324a1ed6c325cabf9c24ae8a6011d171e78a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Grigalius (vicekancleris): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jeronimas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Grigalius (vicekancleris): mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jeronimas\" parinktas kaip owner_note_path. Targetas \"Grigalius (vicekancleris)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-60782
 
@@ -60,17 +50,6 @@ Dusburgietis teigia, kad jeronimas priduria: „Negi gali būti kas vainikuotas 
 - t-002
   global_id: t-60150
   teiginys: "Jeronimas ragino dėl kryžiaus karo atsisakyti net šeimos kliūčių ir pulti prie kryžiaus karo vėliavos."
-  semantiniai_rysiai: "Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) pastatė Kulmas (0.86)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "240899-241930; hash=083fc711987e0efe382f4404d6235942ba6388ea358b060573b0b670797ed239; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "pastate -> Kulmas: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kulmas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad magistras Hermanas pastatė Kulmo pilį ir miestą."
   pagrindžia:
     - c-167478
 - susijęs iš [[objektai/asmenys/Viklifas.md#claim-t-190219|Viklifas]]: Narbutas Viklifo raštus sieja su Jeronimu, kuris apie 1405 m. grįždamas į tėvynę juos parsinešė.
@@ -99,8 +78,8 @@ Dusburgietis teigia, kad jeronimas priduria: „Negi gali būti kas vainikuotas 
     šventojo vainiku, jeigu neturi kantrybės?“ Bažnyčiai nuo lopšio netrūko nei slogios
     neteisybės, nei kantrios teisybės.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -125,8 +104,8 @@ Dusburgietis teigia, kad jeronimas priduria: „Negi gali būti kas vainikuotas 
     pastatė Kulmo pilį bei miestą viešpaties dievo 1232 metais toje vietoje, kur dabar yra
     senoji pilis223.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -137,7 +116,8 @@ Dusburgietis teigia, kad jeronimas priduria: „Negi gali būti kas vainikuotas 
 - id: c-60782
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 49"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 49."
   citata_originali: |
     Apie šitokią kantrybę Grigalius sako: „Galime būti kankiniai ir be kalavijo, ir be liepsnų,
     jei sieloje tikrai išsaugome kantrybę“. Jeronimas priduria: „Negi gali būti kas vainikuotas
@@ -154,7 +134,8 @@ Dusburgietis teigia, kad jeronimas priduria: „Negi gali būti kas vainikuotas 
 - id: c-167478
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 72"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 72."
   citata_originali: |
     Apie maldininkus ir Kulmo pilies bei miesto įkūrimą
 

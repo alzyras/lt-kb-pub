@@ -38,16 +38,6 @@ Notandum [pa­ žymėtina], kurios pro contigenti lucro [iš gaunamo pelno] skir
 - t-001
   global_id: t-86603
   teiginys: "Oxeftas šaltinyje minimas kaip alaus statinė, kurią kas savaitę privalėta duoti kolegijos prefektui ir jo padėjėjui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "387327-388231; hash=3895995e96b21001daa2514aaf42d8317e0fc68bcd548a013b875cd3502843ce; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "oxeft: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"oxeft\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-82582
 - susijęs iš [[objektai/paprociai/Spaustuvės darbuotojų savaitinis aprūpinimas alumi, duona ir valgiu.md#claim-t-87284|Spaustuvės darbuotojų savaitinis aprūpinimas alumi, duona ir valgiu]]: Spaustuvė kas savaitę privalėjo duoti statinę alaus, silpnesnio alaus oxeftą, 8 asmenims po 8 kepalus duonos ir valgį iš kolegijos virtuvės.
@@ -76,8 +66,8 @@ Notandum [pa­ žymėtina], kurios pro contigenti lucro [iš gaunamo pelno] skir
     per [ir priedo] kas savaitę statinę alaus, alias oxeft ir silpnes­
     nio alaus oxeftą duoti tenebatur [privalėjo].
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -30,19 +30,6 @@ Narbutas pabrėžia, kad istorijoje svarbiau faktai ir įrodymai negu neklystamo
 - t-001
   global_id: t-192122
   teiginys: "Teodoras Narbutas istorijai priešpriešina neklystančiojo toną ir faktų bei įrodytų tiesų nagrinėjimą."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "373572-374136; hash=fa142a82ed3321410f19aea59c651ce32b0432bb6343cc2305f9bd7011fec813; match=whitespace_regex"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
-  ryšio_patikimumas: "susije_su -> Teodoras Narbutas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Neklystančiojo tonas istorijai nedaro garbės: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Teodoras Narbutas: mention_match, person, gap=18"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Neklystančiojo tonas istorijai nedaro garbės\" parinktas kaip owner_note_path. Targetas \"Teodoras Narbutas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175005
 
@@ -50,14 +37,6 @@ Narbutas pabrėžia, kad istorijoje svarbiau faktai ir įrodymai negu neklystamo
 - t-002
   global_id: t-194906
   teiginys: "Neklystančiojo tonas istorijai nedaro garbės; ji mėgsta nagrinėti faktus ir girdėti įrodytas tiesas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "373817-374353; hash=af1ed82c130d4131daf77c6ef5b01c1bbcf843d83deed18cc768467c2b683571; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-177302
 ## Reikšmingi paminėjimai
@@ -78,8 +57,8 @@ Narbutas pabrėžia, kad istorijoje svarbiau faktai ir įrodymai negu neklystamo
     Neklystančiojo tonas istorijai nedaro garbės; ji mėgsta
     nagrinėti faktus ir girdėti įrodytas tiesas.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -100,8 +79,8 @@ Narbutas pabrėžia, kad istorijoje svarbiau faktai ir įrodymai negu neklystamo
     stato vienu metu dvejopą jų padėtį, — tai galėjo lemti
     net ir Herodoto geografija.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -112,7 +91,8 @@ Narbutas pabrėžia, kad istorijoje svarbiau faktai ir įrodymai negu neklystamo
 - id: c-175005
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 203"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 203."
   citata_originali: |
     Mūsų
     senovės geografijos tyrinėtojas gal iš savo didelio moks­
@@ -136,7 +116,8 @@ Narbutas pabrėžia, kad istorijoje svarbiau faktai ir įrodymai negu neklystamo
 - id: c-177302
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 203"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 203."
   citata_originali: |
     Tuo tarpu jie, pasirinkę kuklesnę poziciją, ry­
     žosi verčiau pelnyti žodis į žodį atkartojančių Mariną*

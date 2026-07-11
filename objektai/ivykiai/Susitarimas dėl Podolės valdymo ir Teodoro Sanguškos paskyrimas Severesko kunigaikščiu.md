@@ -42,19 +42,6 @@ Nenurodyta
 - t-001
   global_id: t-185644
   teiginys: "Karalius ir Vytautas susitarė, kad Severesko kunigaikštystėje Lietuvos didžiojo kunigaikščio vietininku bus Teodoras Sanguška."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "601354-601769; hash=8c4559fbbd330212a618180ea638a4a9a229ccacc2a6a7954160d867ea038df2; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Susitarimas dėl Podolės valdymo ir Teodoro Sanguškos paskyrimas Severesko kunigaikščiu: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=53"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Susitarimas dėl Podolės valdymo ir Teodoro Sanguškos paskyrimas Severesko kunigaikščiu\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-169005
 ## Reikšmingi paminėjimai
@@ -79,8 +66,8 @@ Nenurodyta
     manyti, jog visoje Lietuvoje įsiviešpataus taika, tačiau
     nerimo Švitrigaila.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -91,7 +78,8 @@ Nenurodyta
 - id: c-169005
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 345"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 345."
   citata_originali: |
     Vėliau šių valdų vietininku kara­
     lius laikinai buvo paskyręs Spiteką. Ta pačia proga ka­

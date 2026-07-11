@@ -40,21 +40,6 @@ Atsikūrusi Lietuva siekė nustatyti gerus santykius su nauja valstybe – Balta
 - t-001
   global_id: t-26496
   teiginys: "Lietuva 1991 m. spalį su Baltarusija pasirašė geros kaimynystės principų deklaraciją, o po ketverių metų – sutartį dėl geros kaimynystės, bendradarbiavimo ir valstybės sienos."
-  temporaliniai_duomenys: "įvykio data: 1991 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Reikia tiksliau įvardyti pirmąjį dokumentą ir pašalinti citatoje įsiterpusį puslapio bei iliustracijos triukšmą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "529640-530166; hash=b672878d05f786232dad092b984324f830c1f41bd30279f0c95ffefc5f6137ef; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Baltarusija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos ir Baltarusijos sutartis dėl geros kaimynystės, bendradarbiavimo ir valstybės sienos: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Baltarusija: mention_match, place, gap=25"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos ir Baltarusijos sutartis dėl geros kaimynystės, bendradarbiavimo ir valstybės sienos\" parinktas kaip owner_note_path. Targetas \"Baltarusija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-26721
 ## Reikšmingi paminėjimai
@@ -75,8 +60,8 @@ Atsikūrusi Lietuva siekė nustatyti gerus santykius su nauja valstybe – Balta
     tykiai, o politinius komplikavo Baltarusijos prezidento Aleksandro Lu-
     kašenkos diktatūrinis valdymas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -41,19 +41,6 @@ Konradas Wallenrodas 1391 m. rudeniop suruošė didelį žygį Lietuvon ir rugs�
 - t-001
   global_id: t-30334
   teiginys: "Konradas Wallenrodas 1391 m. rudeniop suruošė didelį žygį į Lietuvą ir rugsėjo 1 d. prie Kauno Nemuno saloje iškėlė išskirtinę puotą svečiams pilgrimams."
-  temporaliniai_duomenys: "įvykio data: 1391 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sutrumpinta pernelyg ilga formuluotė, paliekant citatos paremtus faktus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "838775-839304; hash=c1c8a85d698a0e9f5b405688bb1e8abac4fbd3c1b67eb436763c029c3629944e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kaunas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Konradas Wallenrodas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kaunas: mention_match, place, gap=89"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Konradas Wallenrodas\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-32775
 ## Reikšmingi paminėjimai
@@ -72,8 +59,8 @@ Konradas Wallenrodas 1391 m. rudeniop suruošė didelį žygį Lietuvon ir rugs�
     gailos sudegintus, Wallenrodas nebespėjo atlikti numatyto žygio į
     Vilnių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

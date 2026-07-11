@@ -41,19 +41,6 @@ Naujų teisinių normų davė 1413 m. Jogailos ir Vytauto privilegija, suteikta 
 - t-001
   global_id: t-67592
   teiginys: "Zigmanto Kęstutaičio 1434 m. privilegija sulygino civilines pravoslavų ir katalikų teises, bet pravoslavai valstybinių vietų negalėjo gauti."
-  temporaliniai_duomenys: "įvykio data: 1413 m.; įvykio data: 1434 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Reikia aiškiai įvardyti privilegiją ir pakeisti įvardį konkrečiu subjektu."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "497041-497375; hash=d64016b0ce89cc5acf46aa165aba62e57707baf0903157f915c93b3cb07bdc41; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> pravoslavai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Zigmanto Kęstutaičio 1434 m. privilegija: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "pravoslavai: mention_match, thing, gap=60"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Zigmanto Kęstutaičio 1434 m. privilegija\" parinktas kaip owner_note_path. Targetas \"pravoslavai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-67434
 ## Reikšmingi paminėjimai
@@ -69,8 +56,8 @@ Naujų teisinių normų davė 1413 m. Jogailos ir Vytauto privilegija, suteikta 
     gino civilines pravoslavų teises su katalikų teisėmis, tačiau valstybinių
     vietų jie vis tiek negalėjo gauti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

@@ -38,12 +38,6 @@ Dusburgietis teigia, kad de Vries Jan.
 - t-001
   global_id: t-61065
   teiginys: "Jano de Vrieso „Altnordisches etymologisches Wörterbuch“ išleistas Leidene 1962 m."
-  temporaliniai_duomenys: "įvykio data: 1962 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pateikia autorių, pavadinimą, leidimo vietą ir metus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "804633-804834; hash=708ef630561689526b9e8be9c2d738ed1b83b52a53839912268f2651bc25b12c; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-61697
 ## Reikšmingi paminėjimai
@@ -56,8 +50,8 @@ Dusburgietis teigia, kad de Vries Jan.
       Wróblewski R. Problem jaćwieski w polityce Bolesława Wstydliwego w latach 1248—
     1264,—Nauki humanistyczno społeczne, Łódź, 1970, z.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -68,7 +62,8 @@ Dusburgietis teigia, kad de Vries Jan.
 - id: c-61697
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 273"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 273."
   citata_originali: |
     de Vries Jan. Altnordisches etymologisches Wörterbuch-Leiden, 1962.
       Wróblewski R. Problem jaćwieski w polityce Bolesława Wstydliwego w latach 1248—

@@ -42,16 +42,6 @@ Vartojama kryžiaus karo ir Ordino savivaizdžio kalboje.
 - t-002
   global_id: t-70246
   teiginys: "Pirmieji Ordino broliai vaizduojami kaip pasirengę ginti tikėjimą kare su netikėliais."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "39995-40504; hash=486a7dc92841e4a0b4488b89c9597bb011d8255b1fc7d92ffdf53f8518f0bb17; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Drabužiai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "netikėliai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Drabužiai: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"netikėliai\" parinktas kaip owner_note_path. Targetas \"Drabužiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-69306
 
@@ -59,16 +49,6 @@ Vartojama kryžiaus karo ir Ordino savivaizdžio kalboje.
 - t-001
   global_id: t-70247
   teiginys: "Dusburgietis Ordino brolius vaizduoja kaip pasirengusius ginti tikėjimą kare su `netikėliais`."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "39995-40504; hash=486a7dc92841e4a0b4488b89c9597bb011d8255b1fc7d92ffdf53f8518f0bb17; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Drabužiai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "netikėliai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Drabužiai: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"netikėliai\" parinktas kaip owner_note_path. Targetas \"Drabužiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-69306
 - susijęs iš [[objektai/asmenys/Ernestas (Livonijos žemės magistras).md#claim-t-89708|Ernestas (Livonijos žemės magistras)]]: Livonijos žemės magistrą Ernestą nukovė netikėliai prieš Konrado iš Foichtvangeno paskyrimą 1279 m.
@@ -135,8 +115,8 @@ Vartojama kryžiaus karo ir Ordino savivaizdžio kalboje.
     kiekvienu momentu pasiryžę  ginti tikėjimą kare su netikėliais. Štai tokių didžiulių
     „stebuklų padarė aukščiausias dievas per minėtuosius brolius Prūsijos žemėje“.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -148,7 +128,8 @@ Vartojama kryžiaus karo ir Ordino savivaizdžio kalboje.
 - id: c-69306
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 16"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 16."
   citata_originali: |
     Dusburgiečio veikale nemaža moralizacijos, pamokymų, stebuklų, vizijų, nepaprastų
     įvykių. Jau kronikos pratarmėje autorius idealizuoja pirmuosius Ordino brolius, kurie,

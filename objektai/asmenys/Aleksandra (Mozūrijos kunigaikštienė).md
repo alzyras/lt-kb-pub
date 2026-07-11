@@ -40,19 +40,6 @@ To siekė ir Jogaila, tarpininkaujant abiejų seseriai, Mozūrijos kunigaikštie
 - t-001
   global_id: t-39998
   teiginys: "Mozūrijos kunigaikštienė Aleksandra, Jogailos ir Švitrigailos sesuo, tarpininkavo Jogailai."
-  semantiniai_rysiai: "Aleksandra (Mozūrijos kunigaikštienė) rėmė Švitrigaila (0.65)"
-  temporaliniai_duomenys: "įvykio data: 1431 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "265687-265989; hash=6ca5a0f08a9fe1ff3a93183c0bd0e9b08ad6a0dd7ab89b03d32d4356bc80036c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "reme -> Švitrigaila: 0.65"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Aleksandra (Mozūrijos kunigaikštienė): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Aleksandra tarpininkavo tarp Jogailos ir Švitrigailos; iš leidžiamų ryšių „rėmė“ artimiausiai perteikia jos pagalbinį politinį veiksmą Švitrigailos atžvilgiu."
   pagrindžia:
     - c-44263
 ## Reikšmingi paminėjimai
@@ -69,8 +56,8 @@ To siekė ir Jogaila, tarpininkaujant abiejų seseriai, Mozūrijos kunigaikštie
     siūlė net Lenkijos vainiką arba valdyti
     Lietuvą, bet ryšyje su Lenkija.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -98,6 +85,3 @@ To siekė ir Jogaila, tarpininkaujant abiejų seseriai, Mozūrijos kunigaikštie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-39998
-
-## Ryšiai
-- Aleksandra (Mozūrijos kunigaikštienė) rėmė [[objektai/asmenys/Švitrigaila]]

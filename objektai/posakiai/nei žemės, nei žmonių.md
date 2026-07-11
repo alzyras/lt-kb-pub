@@ -33,16 +33,6 @@ Kryžiuočiams atrodė, kad bėglys Vytautas, kuris, jų žodžiais tariant, neb
 - t-001
   global_id: t-31564
   teiginys: "Kryžiuočiai bėglį Vytautą, jų žodžiais nebeturėjusį „nei žemės, nei žmonių“, laikė įrankiu spausti Jogailą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "762289-762619; hash=4dc73a37ff3da71d3a10dc41248eb3c4293fe1d769d3c4a2a500ff6a57bebb29; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Julijona: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "nei žemės, nei žmonių: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Julijona: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"nei žemės, nei žmonių\" parinktas kaip owner_note_path. Targetas \"Julijona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-33490
 ## Reikšmingi paminėjimai
@@ -57,8 +47,8 @@ Kryžiuočiams atrodė, kad bėglys Vytautas, kuris, jų žodžiais tariant, neb
     Jogailą priversti nesitraukti nuo didelių pažadų. Įvykiai tačiau
     (^19) **LUB, III, 393-395, 400, 489-495 p.; RaCD, 55-60 p.**
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

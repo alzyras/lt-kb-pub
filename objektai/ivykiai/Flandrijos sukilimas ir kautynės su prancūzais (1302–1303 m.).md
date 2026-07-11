@@ -60,18 +60,6 @@ Nenurodyta
 - t-001
   global_id: t-62780
   teiginys: "Liepos mėnesį Flandrijos gyventojai sukilo prieš Prancūzijos karalių ir mūšyje nukovė tris tūkstančius prancūzų kilmingųjų."
-  teiginio_tipas: "saltinio_teiginys"
-  semantiniai_rysiai: "Flandrai kariavo prieš Prancūzai (0.82); Flandrai puolė Prancūzai (0.74)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "734039-734592; hash=b765cd7c005df636b8bd338bfe30ff7e9ac1fe785203e84905c1cbe224e61f27; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Prancūzai: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Flandrai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Prancūzai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata tiesiogiai mini prancūzų ir flandrų kautynes."
   pagrindžia:
     - c-63576
 
@@ -79,18 +67,6 @@ Nenurodyta
 - t-002
   global_id: t-62781
   teiginys: "Per Flandrijos sukilimo laikotarpio prancūzų ir flandrų kautynes abi šalys neteko daug užmuštųjų."
-  teiginio_tipas: "saltinio_teiginys"
-  semantiniai_rysiai: "Prancūzai kariavo prieš Flandrai (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "734460-734668; hash=b568929cf4a762d074d06c3710493862051a8b914cb04039413934d38c844db7; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Flandrai: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Prancūzai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Flandrai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Tekste tiesiogiai nurodomos prancūzų ir flandrų kautynės."
   pagrindžia:
     - c-63577
 ## Reikšmingi paminėjimai
@@ -108,8 +84,8 @@ Nenurodyta
        Tais pačiais metais įvyko smarkios prancūzų ir flandrų kautynės, kuriose abi šalys
     prarado labai daug užmuštaisiais (Ptol. p. 1223),
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -126,8 +102,8 @@ Nenurodyta
 
                  95. Apie Bonifaco, popiežiaus, suėmimą ir turtų iššvaistymą
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -138,7 +114,8 @@ Nenurodyta
 - id: c-63576
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 245"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 245."
   citata_originali: |
     Tų pačių metų liepos mėnesį Flandrijos gyventojai sukilo prieš Prancūzijos karalių ir,
     suėję  į mūšį, nukovė tris tūkstančius prancūzų grafų, baronų bei kilmingųjų (Ptol. p.
@@ -159,7 +136,8 @@ Nenurodyta
 - id: c-63577
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 245"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 245."
   citata_originali: |
     Tais pačiais metais įvyko smarkios prancūzų ir flandrų kautynės, kuriose abi šalys
     prarado labai daug užmuštaisiais (Ptol. p. 1223),

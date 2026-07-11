@@ -30,19 +30,6 @@ Karalius atėmė iš Jono Zaberezinskio Trakų vaivadiją, kai paaiškėjo, kad 
 - t-001
   global_id: t-186116
   teiginys: "Karalius atėmė iš Jono Zaberezinskio Trakų vaivadiją, kai paaiškėjo, kad jo sumanymai seime tapo žinomi."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1026580-1027170; hash=9776505d84029b41218e3e5c446f53c26a033d3112ae389a5bd78a92d583a75e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Trakai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jonas Zaberezinskis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Trakai: mention_match, place, gap=19"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jonas Zaberezinskis\" parinktas kaip owner_note_path. Targetas \"Trakai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-169477
 - susijęs iš [[objektai/grupes/Lietuvos luomai.md#claim-t-185433|Lietuvos luomai]]: Lietuvos luomų vardu į Piotrkovo seimą balsuoti buvo pasiųsti Vaitiekus Taboras, Jonas Zaberezinskis ir Mikalojus Radvila.
@@ -70,8 +57,8 @@ Karalius atėmė iš Jono Zaberezinskio Trakų vaivadiją, kai paaiškėjo, kad 
     Breste ir Radome
     tremtinys ir beveik belaisvis.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -82,7 +69,8 @@ Karalius atėmė iš Jono Zaberezinskio Trakų vaivadiją, kai paaiškėjo, kad 
 - id: c-169477
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 579"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 579."
   citata_originali: |
     Nieko nežinoda­
     mi apie karaliaus sumanymus, į seimą kaip paprastai

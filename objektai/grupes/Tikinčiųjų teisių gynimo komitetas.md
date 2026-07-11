@@ -41,21 +41,6 @@ media_all_json: |-
 - t-002
   global_id: t-20047
   teiginys: "Tikinčiųjų teisių gynimo komitetas siekė katalikams lygių teisių su ateistais ir prašė padėti apginti tikinčiųjų teises."
-  temporaliniai_duomenys: "įvykio data: 1978 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra išsamus, aiškus ir paremtas citatos duomenimis."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "471077-471824; hash=2ce0b74cb08da65560811efc495d28878b456357c00dd6968226e27e2b20bf76; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jonas Kauneckas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Tikinčiųjų teisių gynimo komitetas (institucija): owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Jonas Kauneckas: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tikinčiųjų teisių gynimo komitetas (institucija)\" parinktas kaip owner_note_path. Targetas \"Jonas Kauneckas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-13T14:18:10Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-22783
 
@@ -63,19 +48,6 @@ media_all_json: |-
 - t-001
   global_id: t-20048
   teiginys: "1978 m. lapkričio 13 d. Lietuvoje įkurtas Tikinčiųjų teisių gynimo komitetas kėlė religinės diskriminacijos problemą."
-  temporaliniai_duomenys: "įvykio data: 1978 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys gramatiškai ir tiksliai apibūdina komiteto įkūrimą bei veiklos temą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "470797-471561; hash=be3ac7612f2163a3fc7d495c9ce4a8c36f0723c0df4668c9b73a138d65a57c32; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jonas Kauneckas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Tikinčiųjų teisių gynimo komitetas (institucija): owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Jonas Kauneckas: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tikinčiųjų teisių gynimo komitetas (institucija)\" parinktas kaip owner_note_path. Targetas \"Jonas Kauneckas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-22782
 - susijęs iš [[objektai/ivykiai/Tikinčiųjų teisių gynimo komiteto įkūrimas ir paskelbimas (1978 m. lapkričio 13–22 d.).md#claim-t-20520|Tikinčiųjų teisių gynimo komiteto įkūrimas ir paskelbimas (1978 m. lapkričio 13–22 d.)]]: Tikinčiųjų teisių gynimo komitetas siekė katalikams lygių teisių su ateistais ir prašė padėti apginti tikinčiųjų teises.
@@ -103,8 +75,8 @@ media_all_json: |-
     ateistai, o kulto laisvė praktikoje
     varžoma.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -133,8 +105,8 @@ media_all_json: |-
     nesiekęs Komitetas veikė penkerius metus, parengė 53 dokumentus ir kai
     kuriuos jų išplatino.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

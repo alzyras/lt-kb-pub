@@ -43,12 +43,6 @@ media_all_json: |-
 - t-001
   global_id: t-01070
   teiginys: "Juozas Arnulfas Giedraitis buvo laikomas karštu žemaičių patriotu ir uoliu švietimo rėmėju."
-  temporaliniai_duomenys: "įvykio data: 1816 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Reikia sutrumpinti ir sutelkti teiginį į asmenį."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "920660-920959; hash=eabf244ff539a081b100a4ed0b16e2c6f3042e8e71545eb0d9b319d2f904018b; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-01308
 ## Reikšmingi paminėjimai
@@ -63,8 +57,8 @@ media_all_json: |-
     vertimą (1816 m.), jo raginami kunigai prie bažnyčių steigė
     mokyklas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

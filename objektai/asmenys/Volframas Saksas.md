@@ -34,16 +34,6 @@ Dusburgietis teigia, kad apie kito brolio gyvenimą toje pačioje pilyje Tuo pat
 - t-001
   global_id: t-60222
   teiginys: "Dusburgietis pasakoja, kad Teutonų ordino brolį Volframą Saksą pilyje metus kasnakt gundė velnias."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "555049-555638; hash=7a8871dc8b85bf4e43e9156c7b9b786ade6e08947ed36f8d3c6a608bb8df5991; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Teutonai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Volframas Saksas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Teutonai: mention_match, group, gap=21"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Volframas Saksas\" parinktas kaip owner_note_path. Targetas \"Teutonai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-60854
 
@@ -51,9 +41,6 @@ Dusburgietis teigia, kad apie kito brolio gyvenimą toje pačioje pilyje Tuo pat
 - t-002
   global_id: t-60223
   teiginys: "Brolis Volframas Saksas metus priešinosi velnio pagundoms, kol šis nuo jo atstojo."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "555350-555772; hash=207b87c5c6d0103b00ac5b1d4d15dcb06b0f26ea37ba457c85add9c85e68a7f1; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-60855
 - susijęs iš [[objektai/paprociai/Karaliaučiaus pilies brolių pasninkavimo, maldos ir naktinio budėjimo praktikos.md#claim-t-183986|Karaliaučiaus pilies brolių pasninkavimo, maldos ir naktinio budėjimo praktikos (pilis)]]: Brolis Volframas Saksas Karaliaučiaus pilyje keldavosi iš lovos maldai ir uoliai tarnavo Dievui.
@@ -74,8 +61,8 @@ Dusburgietis teigia, kad apie kito brolio gyvenimą toje pačioje pilyje Tuo pat
     ramybę visokiausiomis pagundomis, o jis vyriškai tam priešinosi, uoliai tarnaudamas
     dievui.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -94,8 +81,8 @@ Dusburgietis teigia, kad apie kito brolio gyvenimą toje pačioje pilyje Tuo pat
 
     234 (227).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -106,7 +93,8 @@ Dusburgietis teigia, kad apie kito brolio gyvenimą toje pačioje pilyje Tuo pat
 - id: c-60854
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 176"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 176."
   citata_originali: |
     233 (226). Apie kito brolio gyvenimą toje pačioje pilyje
 
@@ -128,7 +116,8 @@ Dusburgietis teigia, kad apie kito brolio gyvenimą toje pačioje pilyje Tuo pat
 - id: c-60855
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 176-177"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 176-177."
   citata_originali: |
     Todėl pirmąją
     naktį, kai brolis Volframas pakilo iš lovos maldai, jam ir pasirodė velnias, o šitai kartojosi

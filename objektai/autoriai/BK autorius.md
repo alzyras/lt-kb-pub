@@ -30,12 +30,6 @@ media_all_json: |-
 - t-001
   global_id: t-194146
   teiginys: "1 0 Čia pabaiga pirm ojo originalaus intarpo, kur) BK autorius ¡dėjo | tekstų, jo paimtų iš Lietuvos metraščių PS."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "401275-401545; hash=e228deca977feb8aa8d53de46d507ac7ff4e7c27818cb4fbba87b2fb869d53b7; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176759
 ## Reikšmingi paminėjimai
@@ -51,8 +45,8 @@ media_all_json: |-
     1  Pasakojimas apie Algirdo žygį į Maskvų yra tik Lietuvos
     m etraščių Jevrejinovo nuoraše ir BK.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

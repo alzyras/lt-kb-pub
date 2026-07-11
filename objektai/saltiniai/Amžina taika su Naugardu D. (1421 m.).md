@@ -40,16 +40,6 @@ Vy­ tautas išmetinėjo Ordinui, kad negarbinga susidėti su nekatali­ kais pr
 - t-001
   global_id: t-36033
   teiginys: "Ordinas 1421 metais sudarė amžiną taiką su Didžiuoju Naugardu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "302337-302898; hash=451c527728ef7a391b15b4ebe920657d8726b94694849bed27a6c474709ee17c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Naugardas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Amžina taika su Naugardu D. (1421 m.): owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Naugardas: mention_match, place, gap=33"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Amžina taika su Naugardu D. (1421 m.)\" parinktas kaip owner_note_path. Targetas \"Naugardas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-38402
 ## Reikšmingi paminėjimai
@@ -68,8 +58,8 @@ Vy­ tautas išmetinėjo Ordinui, kad negarbinga susidėti su nekatali­ kais pr
     jiems yra pražūtingi, kadangi jis siekiąs užvaldyti visas rusų
     žemes.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

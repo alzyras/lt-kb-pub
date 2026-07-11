@@ -40,19 +40,6 @@ Aleksandravičius E., Kulakauskas A.
 - t-003
   global_id: t-45593
   teiginys: "E. Aleksandravičius ir A. Kulakauskas 1996 m. Vilniuje išleido veikalą „Carų valdžioje. Lietuva XIX amžiuje“."
-  temporaliniai_duomenys: "įvykio data: 1996 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata yra bibliografinis įrašas, palaikantis autorystės ir leidimo faktą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "547040-547162; hash=bd746fe0b74638fdc6f2b1fd9927bb42084c64e319a1d6929573d3d7e4f47468; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aleksandravičius E: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=88"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksandravičius E\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-22114
 
@@ -60,16 +47,6 @@ Aleksandravičius E., Kulakauskas A.
 - t-001
   global_id: t-45595
   teiginys: "E. Aleksandravičius kartu su A. Kulakausku yra leidinio „Carų valdžioje. Lietuva XIX amžiuje“ autorius."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "547040-547162; hash=bd746fe0b74638fdc6f2b1fd9927bb42084c64e319a1d6929573d3d7e4f47468; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aleksandravičius E: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=73"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksandravičius E\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-22114
 
@@ -77,16 +54,6 @@ Aleksandravičius E., Kulakauskas A.
 - t-001
   global_id: t-45595
   teiginys: "E. Aleksandravičius kartu su A. Kulakausku yra leidinio „Carų valdžioje. Lietuva XIX amžiuje“ autorius."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "547040-547162; hash=bd746fe0b74638fdc6f2b1fd9927bb42084c64e319a1d6929573d3d7e4f47468; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aleksandravičius E: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=73"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksandravičius E\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-22114
 ## Reikšmingi paminėjimai
@@ -99,8 +66,8 @@ Aleksandravičius E., Kulakauskas A.
     Aleksandravičius E., Kulakauskas A. Carų valdžioje. Lietuva XIX am-
     žiuje. Vilnius, 1996.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

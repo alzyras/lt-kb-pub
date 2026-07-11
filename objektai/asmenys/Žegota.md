@@ -30,20 +30,6 @@ media_all_json: |-
 - t-001
   global_id: t-186271
   teiginys: "Žegota, Krokuvos vaivada, su prityrusių karių pulku ir rūmų raiteliais atlaikė puolančius lietuvius."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Žegota gynė Lietuviai (0.78)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "263950-264957; hash=dc40a082c828084e44550aaf35a3da9cc9caa84299d99c6262eac15875203bb8; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyne -> Lietuviai: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Žegota: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Žegota atlaikė lietuvių puolimą, todėl ryšys rodo karinį pasipriešinimą puolantiems lietuviams."
   pagrindžia:
     - c-169632
 ## Reikšmingi paminėjimai
@@ -79,8 +65,8 @@ media_all_json: |-
     leido kitiems atgauti drąsą (Lešekui visur dedant di­
     džiules pastangas) ir atsikratyti gėdingos baimės.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -125,6 +111,3 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186271
-
-## Ryšiai
-- Žegota gynė [[objektai/grupes/Lietuviai]]

@@ -41,11 +41,6 @@ media_all_json: |-
 - t-001
   global_id: t-31870
   teiginys: "O. Stavenhageno „Livland und die Schlacht bei Tanneuberg“ paskelbtas 1902 m. „Baltische Monatschrift“ 54 tome."
-  temporaliniai_duomenys: "įvykio data: 1902 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "939528-939957; hash=b8db00411322a24f6d7ffd942e89f8cd83edbef4c58806a6e7c5d6d42358bd2e; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-33677
 ## Reikšmingi paminėjimai
@@ -61,8 +56,8 @@ media_all_json: |-
     381 p. — Thunert, E. : _Der grosse Krieg zwischen Polen und dem
     Deutschen Orden 1410 bis Februar 1411_ , Zeitschr. des Westpreuss.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

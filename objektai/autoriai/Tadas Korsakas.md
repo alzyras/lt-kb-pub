@@ -47,19 +47,6 @@ Tadas Korsakas siejamas su Abiejų Tautų tarpusavio įžado autoryste: šaltini
 - t-001
   global_id: t-23258
   teiginys: "Tadas Korsakas veikiausiai buvo Abiejų Tautų tarpusavio įžado autorius."
-  temporaliniai_duomenys: "įvykio data: 1791 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai įvardija Tado Korsako tikėtiną autorystę ir atitinka citatą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "168224-168960; hash=c2d49596407491cbcadc5f4d2ade48fdd0bafcaaae4ea85c001dd06060764be7; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Tadas Korsakas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tadas Korsakas\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-166739
 
@@ -67,17 +54,6 @@ Tadas Korsakas siejamas su Abiejų Tautų tarpusavio įžado autoryste: šaltini
 - t-002
   global_id: t-23259
   teiginys: "Tadas Korsakas buvo Gegužės trečiosios konstitucijos pataisos autorius ir žuvo ginant Varšuvą."
-  semantiniai_rysiai: "T. Korsakas gynė Varšuva (0.88); T. Korsakas mirė Varšuva (0.84)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "178967-179315; hash=b24fa02c4519bf91e7e348c342c94e52bd19b8080010c608f48b23226e6254cc; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyne -> Varšuva: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "T. Korsakas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Varšuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Sakinys nurodo, kad T. Korsakas žuvo ginant Varšuvą, taigi jis siejamas su Varšuvos gynimu."
   pagrindžia:
     - c-70108
 
@@ -85,17 +61,6 @@ Tadas Korsakas siejamas su Abiejų Tautų tarpusavio įžado autoryste: šaltini
 - t-003
   global_id: t-23260
   teiginys: "Tadas Korsakas žuvo ginant Varšuvą."
-  semantiniai_rysiai: "T. Korsakas gynė Varšuva (0.88); T. Korsakas mirė Varšuva (0.84)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "178967-179315; hash=b24fa02c4519bf91e7e348c342c94e52bd19b8080010c608f48b23226e6254cc; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyne -> Varšuva: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "T. Korsakas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Varšuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai sieja T. Korsako žūtį su Varšuvos gynimu."
   pagrindžia:
     - c-70108
 
@@ -103,17 +68,6 @@ Tadas Korsakas siejamas su Abiejų Tautų tarpusavio įžado autoryste: šaltini
 - t-002
   global_id: t-23259
   teiginys: "Tadas Korsakas buvo Gegužės trečiosios konstitucijos pataisos autorius ir žuvo ginant Varšuvą."
-  semantiniai_rysiai: "T. Korsakas gynė Varšuva (0.88); T. Korsakas mirė Varšuva (0.84)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "178967-179315; hash=b24fa02c4519bf91e7e348c342c94e52bd19b8080010c608f48b23226e6254cc; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyne -> Varšuva: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "T. Korsakas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Varšuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Sakinys nurodo, kad T. Korsakas žuvo ginant Varšuvą, taigi jis siejamas su Varšuvos gynimu."
   pagrindžia:
     - c-70108
 
@@ -121,24 +75,6 @@ Tadas Korsakas siejamas su Abiejų Tautų tarpusavio įžado autoryste: šaltini
 - t-006
   global_id: t-26732
   teiginys: "Tadas Korsakas veikiausiai buvo Abiejų Tautų tarpusavio įžado, kurį Ketverių metų seimui pristatė Kazimieras Nestoras Sapiega, autorius."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1791 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys labiau pabrėžė Sapiegos veiksmą, todėl perrašyta į sakinį apie Tado Korsako autorystę."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "168224-168960; hash=c2d49596407491cbcadc5f4d2ade48fdd0bafcaaae4ea85c001dd06060764be7; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Tadas Korsakas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tadas Korsakas\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-166739
 - susijęs iš [[objektai/asmenys/Kazimieras Nestoras Sapiega.md#claim-t-63826|Kazimieras Nestoras Sapiega]]: Pataisą seimui pristatė Kazimieras Nestoras Sapiega, o jos autorius veikiausiai buvo Vilniaus žemės teisėjas Tadas Korsakas.
@@ -154,8 +90,8 @@ Tadas Korsakas siejamas su Abiejų Tautų tarpusavio įžado autoryste: šaltini
     lėlių vadas J. Jasinskis ir Gegužės trečiosios konstitucijos pataisos autorius
     T. Korsakas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -178,8 +114,8 @@ Tadas Korsakas siejamas su Abiejų Tautų tarpusavio įžado autoryste: šaltini
     Tėvynę – Lenkijos Respubliką“, visur minima ir „abi tautos“ bei LDK.
     Taigi į konstituciją sugrąžintas valstybės dualizmo principas – federacija.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -34,16 +34,6 @@ Jei ir sutiktumėm su ta mintimi, kad Horodlės unija—didelė Vy­ tauto klaid
 - t-001
   global_id: t-36133
   teiginys: "Kochanovskio nuomone, Horodlės unija Vytautas siekė ne lenkinti Lietuvą, o ją civilizuoti per Vakarų Europos kultūrą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "469743-470157; hash=6765f0ba30af96d18d846db8d917234303e3e94dc4f49236b4e31d9877f1d8a4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Europa: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Witold Wielki Książe Litewski: owner_note_path, source"
-  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=102"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Witold Wielki Książe Litewski\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-37276
 ## Reikšmingi paminėjimai
@@ -59,8 +49,8 @@ Jei ir sutiktumėm su ta mintimi, kad Horodlės unija—didelė Vy­ tauto klaid
     nuomonės, kad paskutine unija Vytautas nenorėjęs Lietuvos len­
     kinti, bet ją civilizuoti^3 ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

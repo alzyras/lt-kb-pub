@@ -40,16 +40,6 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
 - t-011
   global_id: t-63840
   teiginys: "Karalius siūlė Kotrynai II užleisti jos vaikaičiui Konstantinui sostą, kad ji paliktų seimo padarytas reformas."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "883661-884005; hash=43c841a0f68103634fccdbd0afcb2e679e333d3a1458d95e0f9fa1284c923e49; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Konstantinas (Karijotaitis): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kotryna II: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Konstantinas (Karijotaitis): mention_match, person, gap=36"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kotryna II\" parinktas kaip owner_note_path. Targetas \"Konstantinas (Karijotaitis)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-64769
 
@@ -57,18 +47,6 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
 - t-010
   global_id: t-63842
   teiginys: "Stanislovas Augustas Poniatovskis buvo Kotrynos II nurodytas kandidatas į Respublikos sostą ir jos statytinis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "110765-111194; hash=367f1060f02b751c781197f85c4286624d485605a28cdebb2ddb3dc24f5dd98b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Abiejų Tautų Respublika: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kotryna II: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Abiejų Tautų Respublika: mention_match, group, gap=35"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kotryna II\" parinktas kaip owner_note_path. Targetas \"Abiejų Tautų Respublika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-13T15:43:24Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-04160
 
@@ -76,21 +54,6 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
 - t-009
   global_id: t-63843
   teiginys: "Kotryna II valdė 1762-1796 m., o jos laikais Rusija pradėjo vadovauti rytų Europos politikai ir kištis į centro bei vakarų Europos konfliktus."
-  temporaliniai_duomenys: "įvykio data: 1762-1796; įvykio data: 1796 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Reikia aiškiau susieti faktą su Kotryna II kaip asmeniu."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "806608-806981; hash=833c01cb424b9abd4e43d2e45fbc9f503298bee69b547fa9a0c1803b355494ec; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Europa: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kotryna II: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=75"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kotryna II\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-13T15:43:24Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-64773
 
@@ -98,16 +61,6 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
 - t-008
   global_id: t-63844
   teiginys: "Po Petro III pašalinimo ir nužudymo valdžią Rusijoje perėmė Kotryna II, Anhalt-Cerbsto kunigaikštytė vokietaitė."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "803155-803606; hash=45c4c51999872df0687e254a2393154406714a8a3830af081ce894f5eb83162a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Rusija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kotryna II: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Rusija: mention_match, place, gap=35"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kotryna II\" parinktas kaip owner_note_path. Targetas \"Rusija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-64767
 
@@ -115,18 +68,6 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
 - t-009
   global_id: t-63849
   teiginys: "Kotryna II įvykdė Respublikos padalijimus, kurių metu jos trečdalį turėjo užleisti Prūsijai ir Austrijai."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "85284-85650; hash=ba7e4d98377e79f27564d3f85557ee0ba5c8d8ad0f8afdadcad4cf63e0d481ea; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Abiejų Tautų Respublika: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kotryna II: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Abiejų Tautų Respublika: mention_match, group, gap=18"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kotryna II\" parinktas kaip owner_note_path. Targetas \"Abiejų Tautų Respublika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-13T15:43:24Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-04159
 
@@ -134,14 +75,6 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
 - t-012
   global_id: t-194915
   teiginys: "Tai lėmė, kad galindai ir jotvingiai drauge perėjo lenkų kunigaikščių, Krokuvos Boleslovo ir Kujavijos Kazimiero, protekcijon, o jie išsiuntė pranešimus apie tai popiežiui."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "223099-223932; hash=40abec023b572612660ea0bbb5622903de1148ead2364cf07c81f1fec2cc428c; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-177311
 
@@ -149,14 +82,6 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
 - t-013
   global_id: t-194916
   teiginys: "Be abejonės, po to, kai dešiniojoje Bugo pakrantėje įtvirtintose vietose stovėjo rusų įgulos ir iš savo pusės pradėjo spausti kryžiuočiai, jotvingiai vėl pasidavė Kjujavijos kunigaikščio Kazimiero globai, nes tais pačiais 1256 metais šis kunigaikštis gavo."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "230696-231260; hash=84f41c669704af2e39dd8f2f14c71c3dc36bfa72a90807476541c5e88d355f6f; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-177312
 - susijęs iš Austrija: Per Abiejų Tautų Respublikos padalijimus Kotryna II trečdalį padalytos valstybės turėjo užleisti Prūsijai ir Austrijai.
@@ -172,8 +97,8 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
     ir buvo carienės Kotrynos II-sios pravesti padalinimai respublikos,
     kurios trečdalį ji turėjo užleisti Prūsijai ir Austrijai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -191,8 +116,8 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
     tovskis bebuvo perdėm carės Kotrynos II-sios nurodytas kandida­
     tas, jos statytinis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -211,8 +136,8 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
     nuo sosto ir nužudytas, ir visą valdžią paėmė Kotryna II (ji
     buvo ne rusė, bet Anhalt-Cerbsto kunigaikštytė vokietaitė).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -229,8 +154,8 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
     siūlydamasis užleisti jos vaikaičiui Konstantinui sostą, kad tik
     ji paliktų seimo padarytąsias reformas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -248,8 +173,8 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
     vauti ne tik rytų Europos politikai, bet ėmė kištis net į centro ir va-
     karų Europos konfliktus, ir jos žodis ten nusverdavo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -275,8 +200,8 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
     savanoriškai pasiduodančiose žemėse ir gentyse nuo bet
     kokių tolesnių kryžiuočių pretenzijų1.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -299,8 +224,8 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
     pageidavusias krikštytis, ypač jotvingius2 3. Voluinės kro­
     nikoje5 apie 1251 metus (tikriausiai 1256.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -411,7 +336,8 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
 - id: c-177311
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 125"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 125."
   citata_originali: |
     Be to, 1253 metų kryžiuočių kampanijos tikslas bu­
     vo pirmiausia nusiaubti Bartą ir Galindą. Tai lėmė, kad
@@ -438,7 +364,8 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
 - id: c-177312
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 128"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 128."
   citata_originali: |
     Rusai laimėjo tik tiek, kad savo ginklais nubaidė
     jotvingius toli nuo savo sienų, daugybė jų susitelkė prie

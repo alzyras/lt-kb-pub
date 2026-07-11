@@ -30,19 +30,6 @@ Mazovijos valdovas Kazimieras su savo kariais žiauriai nuniokojo Belzo kunigaik
 - t-001
   global_id: t-185258
   teiginys: "Mazovijos valdovas Kazimieras su savo kariais žiauriai nuniokojo Belzo kunigaikštystę."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "760303-760753; hash=5682549fa2b1cc6867497e40d61df352e53172187ca0e72dffb0503999856757; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Belzas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Belzo kunigaikštystė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Belzas: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Belzo kunigaikštystė\" parinktas kaip owner_note_path. Targetas \"Belzas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-168619
 ## Reikšmingi paminėjimai
@@ -64,8 +51,8 @@ Mazovijos valdovas Kazimieras su savo kariais žiauriai nuniokojo Belzo kunigaik
     Lucko, nes niekas nedrįso su ginklu rankose užstoti Bo­
     leslovo.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -76,7 +63,8 @@ Mazovijos valdovas Kazimieras su savo kariais žiauriai nuniokojo Belzo kunigaik
 - id: c-168619
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 433"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 433."
   citata_originali: |
     Kol karalius su pagrindinėmis kariuomenės jėgomis
     traukė į priekį, Vladimiro

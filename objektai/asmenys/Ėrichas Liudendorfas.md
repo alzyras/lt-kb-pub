@@ -41,19 +41,6 @@ Jai formaliai vadovavo generolai Paulius fon Hindenburgas (Paul von Hindenburg) 
 - t-001
   global_id: t-78076
   teiginys: "Ėrichas Liudendorfas formaliai vadovavo Oberostui kartu su Pauliumi fon Hindenburgu."
-  temporaliniai_duomenys: "įvykio data: 1915 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis sakinys prasideda neaiškiu įvardžiu ir yra gramatiškai netikslus."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "253591-254192; hash=907a91567aa06294555901eb95758dc858156a308d82edf71b0949d3899ae3c0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Oberostas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ėrichas Liudendorfas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Oberostas: mention_match, group, gap=40"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ėrichas Liudendorfas\" parinktas kaip owner_note_path. Targetas \"Oberostas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-75381
 - susijęs iš [[objektai/asmenys/Paulius fon Hindenburgas.md#claim-t-78068|Paulius fon Hindenburgas]]: Oberostui formaliai vadovavo generolai Paulius fon Hindenburgas ir Ėrichas Liudendorfas.
@@ -77,8 +64,8 @@ Jai formaliai vadovavo generolai Paulius fon Hindenburgas (Paul von Hindenburg) 
     Liudendorfas (Erich Ludendorff) ir naudojo visus krašto išteklius Vokie-
     tijos kariuomenės reikalams.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -107,6 +94,3 @@ Jai formaliai vadovavo generolai Paulius fon Hindenburgas (Paul von Hindenburg) 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78076
-
-## Ryšiai
-- Sąjungininkai: [[objektai/asmenys/Paulius fon Hindenburgas]]

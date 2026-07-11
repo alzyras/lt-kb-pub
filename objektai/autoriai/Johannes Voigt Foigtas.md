@@ -40,16 +40,6 @@ Foigto vertimas į len kųk ir teksto lotynų k. Johannes Voigt Foigtas vadina s
 - t-001
   global_id: t-87936
   teiginys: "Foigtas išvertė į lenkų kalbą tris Gedimino laiškus ir pataisė jų lotynišką tekstą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "136711-137150; hash=c1d82811da584f8b6f11da1412ab9c3f46e0635435c7cb02f69acacbe462aae6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Johannes Voigt Foigtas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=18"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Johannes Voigt Foigtas\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-83915
 
@@ -57,19 +47,6 @@ Foigto vertimas į len kųk ir teksto lotynų k. Johannes Voigt Foigtas vadina s
 - t-002
   global_id: t-87937
   teiginys: "Foigtas Marienburgo istorijoje rašė, kad 1426 m. Vytautas prašė didžiojo magistro rūmų gydytojo sergančiai žmonai Julijonai."
-  temporaliniai_duomenys: "įvykio data: 1426 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginį galima patikslinti pagal citatoje nurodytą prašymo priežastį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "482866-483527; hash=57e5da1f2a8b5e6d26619e91f84b18e4a792ce4370f7fb078f00c1f258e5a642; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Marienburgas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Johannes Voigt Foigtas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Marienburgas: mention_match, place, gap=8"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Johannes Voigt Foigtas\" parinktas kaip owner_note_path. Targetas \"Marienburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-83916
 ## Reikšmingi paminėjimai
@@ -89,8 +66,8 @@ Foigto vertimas į len kųk ir teksto lotynų k. Johannes Voigt Foigtas vadina s
     Kotzebue etc., Riga, 1808 4 D. 8-vo, iš Il t., p. 353 ir seąu.
     Foigto vertimas į len kųk ir teksto lotynų k. pataisymai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -121,8 +98,8 @@ Foigto vertimas į len kųk ir teksto lotynų k. Johannes Voigt Foigtas vadina s
     magistrui už jam atsiųstą rūmų gy­
     dytoją ir giria didelį jo patyrimą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

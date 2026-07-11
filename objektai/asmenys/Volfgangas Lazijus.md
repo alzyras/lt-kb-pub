@@ -30,21 +30,6 @@ Narbuto pasakojime Volfgangas Lazijus į savo istoriją įdėjo Dievo maldos už
 - t-001
   global_id: t-191333
   teiginys: "Narbuto pasakojime Volfgangas Lazijus į savo istoriją įdėjo Dievo maldos užrašą, kurį vėliau iš Lazijaus perrašė Čemberlenas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "961938-962386; hash=cbdb56390aa6213698a9a0b476180b960f13f91f4759d4e2a0c50c9b67e07221; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Londonas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Volfgangas Lazijus: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Londonas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Volfgangas Lazijus\" parinktas kaip owner_note_path. Targetas \"Londonas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174215
 ## Reikšmingi paminėjimai
@@ -62,8 +47,8 @@ Narbuto pasakojime Volfgangas Lazijus į savo istoriją įdėjo Dievo maldos už
     ją įdėjo į savo istoriją. Iš Lazijaus perrašė Čemberlenas, o iš
     pastarojo tas užrašas buvo įdėtas į Londono „Sylloge“.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -74,7 +59,8 @@ Narbuto pasakojime Volfgangas Lazijus į savo istoriją įdėjo Dievo maldos už
 - id: c-174215
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 515"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 515."
   citata_originali: |
     Ma­
     tydamas, jog ta tauta meldžiasi kažkokia nesuprantama jiems kal­

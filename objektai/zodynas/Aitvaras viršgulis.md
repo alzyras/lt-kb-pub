@@ -30,21 +30,6 @@ Narbutas Aitvarą viršgulį apibūdina kaip vyrų paleistuvavimo dievaitį, kur
 - t-001
   global_id: t-189110
   teiginys: "Narbutas Aitvarą viršgulį apibūdina kaip vyrų paleistuvavimo dievaitį, kuris užgula miegančias moteris."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "304062-304383; hash=607aa0d67c8bbaa0cabba8a791d8b8c684b74131535fa4e48bb30a10963e56ed; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Sirvydas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aitvaras viršgulis: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Sirvydas: mention_match, author"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aitvaras viršgulis\" parinktas kaip owner_note_path. Targetas \"Sirvydas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171998
 
@@ -52,21 +37,6 @@ Narbutas Aitvarą viršgulį apibūdina kaip vyrų paleistuvavimo dievaitį, kur
 - t-002
   global_id: t-189111
   teiginys: "Narbutas rašo, kad Lietuvos pasakojimuose Aitvaras viršgulis kartais nematomas užpuola miegančias moteris, o kartais pasirodo aitvaro pavidalu."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "304686-305106; hash=66ee15a58b9c17fae23422278ccf3baa1bbe57680dfb58aa9f905ebe64078957; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aitvaras viršgulis: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=23"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aitvaras viršgulis\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171999
 
@@ -74,21 +44,6 @@ Narbutas Aitvarą viršgulį apibūdina kaip vyrų paleistuvavimo dievaitį, kur
 - t-003
   global_id: t-189112
   teiginys: "Narbutas cituoja F. Noelį, kad demonografai išgalvojo viršgulius Incubi ir apačgulius Succubi, kankinančius žmones per miegą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "306546-307122; hash=8afbbac9370cd04f4208ea6f8cf6512c7c51ba571a299b5b7958c703c6e0d98c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> F. Noelis: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aitvaras viršgulis: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "F. Noelis: mention_match, person, gap=37"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aitvaras viršgulis\" parinktas kaip owner_note_path. Targetas \"F. Noelis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172000
 ## Reikšmingi paminėjimai
@@ -109,8 +64,8 @@ Narbutas Aitvarą viršgulį apibūdina kaip vyrų paleistuvavimo dievaitį, kur
     Kunigas Sirvydas savo žodyne jį vadina Ajtwaros, lotyniškai
     Incubus, lenkiškai Latawiec.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -128,8 +83,8 @@ Narbutas Aitvarą viršgulį apibūdina kaip vyrų paleistuvavimo dievaitį, kur
     terims arba mergaitėms, duoda net pinigų. Moteris, suviliota
     šios dvasios gundymo, niekaip negali išsivaduoti iš jos meilės.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -150,8 +105,8 @@ Narbutas Aitvarą viršgulį apibūdina kaip vyrų paleistuvavimo dievaitį, kur
     nės dievino viršgulius, vadindami Graikijoje efialtais, Romo­
     je -  hifialtais“.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -185,7 +140,8 @@ Narbutas Aitvarą viršgulį apibūdina kaip vyrų paleistuvavimo dievaitį, kur
 - id: c-171999
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 177"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 177."
   citata_originali: |
     Lietuvoje apie jį girdėti panašūs pasakojimai: kartais ne­
     matomas užpuola miegančias moteris, kitą kartą prijaukintas
@@ -204,7 +160,8 @@ Narbutas Aitvarą viršgulį apibūdina kaip vyrų paleistuvavimo dievaitį, kur
 - id: c-172000
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 178"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 178."
   citata_originali: |
     F. Noelis mitologijos žodyne, straipsnyje „Incubus“, sako:
     „Tai piktosios dvasios, apie kurias manyta, kad ateina uždu­

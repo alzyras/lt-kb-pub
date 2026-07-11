@@ -40,19 +40,6 @@ Savickiai pardavė Kristupui Zalivskiui, iš Zalivskių atiteko Neliubovičiams.
 - t-001
   global_id: t-86814
   teiginys: "1583 m. Savickių Kristupui Zalivskiui parduota valda vėliau iš Zalivskių atiteko Neliubovičiams."
-  temporaliniai_duomenys: "įvykio data: 1583 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys buvo fragmentiškas; citata leidžia suformuluoti pilną sakinį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "386476-386654; hash=a205d0a7c1441180ae4ea47af97da9f12a0e480ec1f262adbcca61f941204d11; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jonas Neliubovičius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Neliubovičiai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Jonas Neliubovičius: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Neliubovičiai\" parinktas kaip owner_note_path. Targetas \"Jonas Neliubovičius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-82793
 - susijęs iš [[objektai/grupes/Zalivskiai.md#claim-t-86836|Zalivskiai]]: 1583 m. Savickiai pardavė namą Kristupui Zalivskiui, o vėliau jis iš Zalivskių atiteko Neliubovičiams.
@@ -74,8 +61,8 @@ Savickiai pardavė Kristupui Zalivskiui, iš Zalivskių atiteko Neliubovičiams.
     1607. Jonas Neliubovičius mūrinį namą su sklypu par­
     davė Vilniaus kanauninkui Vilčiopolskiui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

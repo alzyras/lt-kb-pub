@@ -46,18 +46,6 @@ Iš Lenkijos jo kariuomenė buvo išvyta, ir netrukus buvo padarytos vienerių m
 - t-006
   global_id: t-70264
   teiginys: "1409 m. Ordino kariuomenė buvo išvyta iš Lenkijos, o netrukus sudarytos vienerių metų paliaubos."
-  temporaliniai_duomenys: "įvykio data: 1409 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "260328-260566; hash=fd34ef5725c4eca61b06a6a3c905a0d03c3a8105947339110f0aee81e197d4bc; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "paliaubos: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=45"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"paliaubos\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-69319
 
@@ -65,16 +53,6 @@ Iš Lenkijos jo kariuomenė buvo išvyta, ir netrukus buvo padarytos vienerių m
 - t-007
   global_id: t-70265
   teiginys: "Lenkų atstovas pasakė, kad lenkai naktį gavo telefonogramą apie karo paliaubas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "261040-261419; hash=533e5d71e830518e24dea3c71acf046e1ed2d9da7cd03e8de3ada8f934c475cc; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "paliaubos: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=69"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"paliaubos\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-44202
 
@@ -82,19 +60,6 @@ Iš Lenkijos jo kariuomenė buvo išvyta, ir netrukus buvo padarytos vienerių m
 - t-006
   global_id: t-70268
   teiginys: "Spalio 6 d. prasidėjo paliaubos, per kurias lenkai slapta pergrupavo ir papildė savo pajėgas."
-  temporaliniai_duomenys: "įvykio data: 1409 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys per trumpas ir be aiškesnio faktinio konteksto."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "260328-260566; hash=fd34ef5725c4eca61b06a6a3c905a0d03c3a8105947339110f0aee81e197d4bc; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "paliaubos: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=22"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"paliaubos\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-44201
 
@@ -102,16 +67,6 @@ Iš Lenkijos jo kariuomenė buvo išvyta, ir netrukus buvo padarytos vienerių m
 - t-007
   global_id: t-70269
   teiginys: "Vytautas sudarė paliaubų sutartį su livoniškąja Ordino šaka, todėl ji nedalyvavo Tanenbergo mūšyje."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "261040-261419; hash=533e5d71e830518e24dea3c71acf046e1ed2d9da7cd03e8de3ada8f934c475cc; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Tanenbergas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "paliaubos: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Tanenbergas: mention_match, place, gap=65"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"paliaubos\" parinktas kaip owner_note_path. Targetas \"Tanenbergas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-69320
 
@@ -119,19 +74,6 @@ Iš Lenkijos jo kariuomenė buvo išvyta, ir netrukus buvo padarytos vienerių m
 - t-009
   global_id: t-184632
   teiginys: "Ivanas atsakė Vasilijui Zaborovskiui, kad paliaubos nedraudžia jam statyti pilių prie Usviatų ir Ūlos."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1325926-1326576; hash=9766273b6e2913e9f3f1bd674c9bb2f08b500236e6f7ea6100b5f691f4cabe10; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Usviatai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "paliaubos: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Usviatai: mention_match, place, gap=44"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"paliaubos\" parinktas kaip owner_note_path. Targetas \"Usviatai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-167993
 
@@ -139,12 +81,6 @@ Iš Lenkijos jo kariuomenė buvo išvyta, ir netrukus buvo padarytos vienerių m
 - t-010
   global_id: t-193152
   teiginys: "Jau derybų metu lenkų karo jėgos, nepaisydamos paliaubų, veržėsi Vilniaus link, tarytum ten būtų buvę rusų bolševikų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "1117760-1118028; hash=41a4c06d182c4fc26f8a455048b7bb12dd81cb57fad6d237a92cba35bc4c05e1; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-175904
 - susijęs iš [[objektai/asmenys/Vaclovas.md#claim-t-28977|Vaclovas]]: Tarpininkaujant Vaclovui, 1409 m. spalio 8 d. buvo sudarytos paliaubos iki 1410 m. birželio 24 d.
@@ -212,8 +148,8 @@ Iš Lenkijos jo kariuomenė buvo išvyta, ir netrukus buvo padarytos vienerių m
     pasirengė pulti Lietuvą ties Seinais ir Kap-
     čiamiesčiu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -228,8 +164,8 @@ Iš Lenkijos jo kariuomenė buvo išvyta, ir netrukus buvo padarytos vienerių m
 
     Tada pašnekesys užsimezgė dėl anos dienos mūšio.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -243,8 +179,8 @@ Iš Lenkijos jo kariuomenė buvo išvyta, ir netrukus buvo padarytos vienerių m
     trukus buvo padarytos vienerių metų paliaubos. Paliaubų metu
     susitarta pavesti ginčą išspręsti imperatoriui Vaclovui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -262,8 +198,8 @@ Iš Lenkijos jo kariuomenė buvo išvyta, ir netrukus buvo padarytos vienerių m
     livoniške ordino šaka, ir ji nedalyvavo netrukus įvykusiame di-
     džiame Tanenbergo mūšyje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -285,8 +221,8 @@ Iš Lenkijos jo kariuomenė buvo išvyta, ir netrukus buvo padarytos vienerių m
     laiškus, n ei p e r pasiuntinius, k araliu s p arag in o  gretim ų
     pilių seniūnus p u ld in ėti m ask v ėn ų  žem es.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -302,8 +238,8 @@ Iš Lenkijos jo kariuomenė buvo išvyta, ir netrukus buvo padarytos vienerių m
     tai nežinanti ir siūlė toliau tęsti derybas Varėnoj, nepabaigtiems
     klausimams išspręsti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -386,7 +322,8 @@ Iš Lenkijos jo kariuomenė buvo išvyta, ir netrukus buvo padarytos vienerių m
 - id: c-167993
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 734"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 734."
   citata_originali: |
     P rie U sviatų ir
     D auguvos b ei Ū los san tak o je p astatę įtvirtinim us, jie

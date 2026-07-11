@@ -43,18 +43,6 @@ Bet šis bandymas atplėšti Vo­ lynijos dalį nuo Vytautui priklausančios Luc
 - t-001
   global_id: t-93196
   teiginys: "Ostrogo kunigaikštis Feodoras 1396 m. iš Vytauto priėmė privilegiją, tvirtinusią ir išplėtusią jo žemes."
-  temporaliniai_duomenys: "įvykio data: 1395 m.; įvykio data: 1396 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "402385-402730; hash=b909219a4e9681e7a9476ca27425f89750dd206e1de6f18a0142c494c389afcb; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Luckas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Feodoras (Ostrogo kunigaikštis): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Luckas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Feodoras (Ostrogo kunigaikštis)\" parinktas kaip owner_note_path. Targetas \"Luckas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-88593
 
@@ -62,19 +50,6 @@ Bet šis bandymas atplėšti Vo­ lynijos dalį nuo Vytautui priklausančios Luc
 - t-002
   global_id: t-93197
   teiginys: "1396 m. Ostrogo kunigaikštis Feodoras iš Vytauto priėmė privilegiją, patvirtinusią ir išplėtusią jo žemes."
-  temporaliniai_duomenys: "įvykio data: 1396 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pagrindžia aiškesnį faktą apie Feodorą, o pradinis tekstas yra fragmentiškas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "402189-402662; hash=7dfb9026dacc8db81113b716ca63b6183d41f7da379f8d88f40426fea41cb8a0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Luckas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Feodoras (Ostrogo kunigaikštis): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Luckas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Feodoras (Ostrogo kunigaikštis)\" parinktas kaip owner_note_path. Targetas \"Luckas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-88594
 - susijęs iš Ostrogo kunigaikščio Feodoro privilegija (1396 m.): 1396 m. Ostrogo kunigaikštis Feodoras iš Vytauto priėmė privilegiją, patvirtinusią ir išplėtusią jo žemes.
@@ -93,8 +68,8 @@ Bet šis bandymas atplėšti Vo­ lynijos dalį nuo Vytautui priklausančios Luc
     žemes^3 ), o tuo pačiu pripažįstančią Lucko viršenybę. Tai pasi­
     sekė dar lengviau įvykdyti, kai mirė Skirgaila (1395 m.).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -113,8 +88,8 @@ Bet šis bandymas atplėšti Vo­ lynijos dalį nuo Vytautui priklausančios Luc
     Vytauto rankų priimti privilegiją, tvirtinančią ir išplečiančių jo
     žemes^3 ), o tuo pačiu pripažįstančią Lucko viršenybę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

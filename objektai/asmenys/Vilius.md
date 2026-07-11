@@ -35,17 +35,6 @@ Dlugošas nurodo, jog Vilnius yra senovinis miestas, lietuvių tautos protėvių
 - t-001
   global_id: t-87933
   teiginys: "Pasak Dlugošo, Vilnius vardą gavo nuo vado Viliaus, kuris lietuvių protėvius atvedęs iš Italijos."
-  semantiniai_rysiai: "Vilius keliavo į Italija (0.70)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "123947-124945; hash=397a41235884a4b68bced65fbfee7e6ec6af0f773b6fba786f2ec9f8324f4b3a; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Italija: 0.70"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vilius: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Italija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Pasakojime Vilius siejamas su lietuvių protėvių atvedimu iš Italijos, todėl fiksuojamas kryptinis kelionės ryšys į Italiją tik kaip teksto teiginys."
   pagrindžia:
     - c-83912
 - susijęs iš Vilnia ir Vilija: Pasakojime Vilnios ir Vilijos vardai kildinami iš kunigaikščio Viliaus vardo.
@@ -86,8 +75,8 @@ Dlugošas nurodo, jog Vilnius yra senovinis miestas, lietuvių tautos protėvių
     senovės istorikų neįveiktos silpnybės Lietuvos kilmę sieti
     su romėnais pasekmė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -136,6 +125,3 @@ Dlugošas nurodo, jog Vilnius yra senovinis miestas, lietuvių tautos protėvių
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87933
-
-## Ryšiai
-- Vilius keliavo į [[objektai/vietos/Italija]]

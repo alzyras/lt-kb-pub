@@ -39,5 +39,4 @@ Nenurodyta
 - susijęs iš Čekija: Narbutas rašė, kad 1402 ir 1403 m. Čekijoje veikė Vengrijos karaliaus Zigmanto Liuksemburgiečio kariai kartu su kumanais.
 
 ## Ryšiai
-- Jazygai kariavo prieš [[objektai/grupes/Romėnai]]
 - Jazygai gyveno [[objektai/vietos/Vengrija]]

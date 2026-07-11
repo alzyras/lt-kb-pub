@@ -33,9 +33,6 @@ Kas nori žinoti, kas buvo Did. karas, turi būtinai šią knygą perskaityti.
 - t-001
   global_id: t-93128
   teiginys: "Knyga apie Didįjį karą apibūdinta kaip būtinas skaitinys norint suprasti, kas buvo Didysis karas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "728950-729325; hash=8795fcaa2d9ce65e268f330e2baec75237532094987e300391e7b069aba91267; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-88526
 
@@ -43,9 +40,6 @@ Kas nori žinoti, kas buvo Did. karas, turi būtinai šią knygą perskaityti.
 - t-002
   global_id: t-93129
   teiginys: "Posakis ragino perskaityti knygą, kurioje vaizduotos Didžiojo karo baisybės: atakos, nuodingos dujos, tankai ir mirtis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "728856-729217; hash=19715b7224023c995d842a09955ac0dd4e584f52b828ec723afc25827a598f10; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-88525
 ## Reikšmingi paminėjimai
@@ -61,8 +55,8 @@ Kas nori žinoti, kas buvo Did. karas, turi būtinai šią knygą perskaityti.
     žmonijos širdį. Kas nori žinoti, kas buvo Did. karas, turi būtinai
     šią knygą perskaityti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -78,8 +72,8 @@ Kas nori žinoti, kas buvo Did. karas, turi būtinai šią knygą perskaityti.
     šią knygą perskaityti. Knyga parašyta taip vaizdžiai ir gerai, kad
     jos autorius net įtrauktas į kandidatus Nobelio premijai gauti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

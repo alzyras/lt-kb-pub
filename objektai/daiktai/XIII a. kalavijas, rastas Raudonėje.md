@@ -60,16 +60,6 @@ Nenurodyta
 - t-001
   global_id: t-39305
   teiginys: "XIII a. kalavijas, saugomas VDKM, buvo rastas Raudonėje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1091157-1091228; hash=6c0189c322ff57432f4a2c595299f1cdb145e6abe3f4af57cfbc67b1aeca9509; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Raudonė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "XIII a. kalavijas, rastas Raudonėje: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Raudonė: mention_match, place, gap=46"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"XIII a. kalavijas, rastas Raudonėje\" parinktas kaip owner_note_path. Targetas \"Raudonė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-41109
 ## Reikšmingi paminėjimai
@@ -80,8 +70,8 @@ Nenurodyta
   citata_originali: |
     P. 30, XIII a. Kalavijas. Rastas Raudonėje, VDKM, Artūro Užgalio nuotr.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

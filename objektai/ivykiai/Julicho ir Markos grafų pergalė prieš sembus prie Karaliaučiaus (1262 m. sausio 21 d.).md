@@ -57,17 +57,6 @@ Nenurodyta
 - t-003
   global_id: t-66571
   teiginys: "Per kovą prie Karaliaučiaus į pagalbą buvo pasikviesti visi Karaliaučiaus broliai ir jų ginklanešiai."
-  semantiniai_rysiai: "Sembai dalyvavo mūšyje Julicho ir Markos grafų pergalė prieš sembus prie Karaliaučiaus (1262 m. sausio 21 d.) (0.86)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "386788-387167; hash=ac406a18890097b836eabf37bb3c05365be67ac63dc2b6e3062d8c1e4fd79e0d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "dalyvavo_musyje -> Julicho ir Markos grafų pergalė prieš sembus prie Karaliaučiaus (1262 m. sausio 21 d.): 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Sembai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Julicho ir Markos grafų pergalė prieš sembus prie Karaliaučiaus (1262 m. sausio 21 d.): llm_allowed_candidate, event"
-  ryšio_paaiskinimas: "Sembai tiesiogiai minimi kaip kovos prie Karaliaučiaus dalyviai ir žuvusieji."
   pagrindžia:
     - c-66780
 
@@ -75,19 +64,6 @@ Nenurodyta
 - t-001
   global_id: t-66572
   teiginys: "1262 m. sausio 21 d. Julicho grafas ir Markos grafas Engelbertas su didele kariuomene atvyko į Karaliaučiaus pilį."
-  temporaliniai_duomenys: "kelionės data: 1262 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra konkretus, gramatiškas ir paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "385070-385405; hash=09102e0b65688b222b16d851b1694554290390e05bb91c1ba089f6669636d15d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Engelbertas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Julicho ir Markos grafų pergalė prieš sembus prie Karaliaučiaus (1262 m. sausio 21 d.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Engelbertas: mention_match, person, gap=32"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Julicho ir Markos grafų pergalė prieš sembus prie Karaliaučiaus (1262 m. sausio 21 d.)\" parinktas kaip owner_note_path. Targetas \"Engelbertas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-66781
 
@@ -95,19 +71,6 @@ Nenurodyta
 - t-002
   global_id: t-66573
   teiginys: "Prieš kautynes žvalgas Stantekas, sunkiai sužeistas sembų sargybos, pranešė maldininkams apie pasalą."
-  temporaliniai_duomenys: "įvykio data: 1263 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sutrumpintas ilgas pasakojimas ir aiškiai įvardytas veikėjas bei rezultatas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "385895-386787; hash=45726b4be407ff853c4f112cc1645135dd2ba8bd67b393b9568dc9ecea43b7c2; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Sembai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Julicho ir Markos grafų pergalė prieš sembus prie Karaliaučiaus (1262 m. sausio 21 d.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Sembai: mention_match, group, gap=52"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Julicho ir Markos grafų pergalė prieš sembus prie Karaliaučiaus (1262 m. sausio 21 d.)\" parinktas kaip owner_note_path. Targetas \"Sembai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-66779
 
@@ -115,16 +78,6 @@ Nenurodyta
 - t-004
   global_id: t-66574
   teiginys: "Dusburgietis pasakoja, kad vienas prūsas iš anksto pranašavo sembų išžudymą švento Vincento dieną."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "387192-387758; hash=e515adf83a633b8248f2f3aafd22ac89c6adc42d4610dba84811f5606e66b97a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Sembai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Julicho ir Markos grafų pergalė prieš sembus prie Karaliaučiaus (1262 m. sausio 21 d.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Sembai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Julicho ir Markos grafų pergalė prieš sembus prie Karaliaučiaus (1262 m. sausio 21 d.)\" parinktas kaip owner_note_path. Targetas \"Sembai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-66778
 ## Reikšmingi paminėjimai
@@ -142,8 +95,8 @@ Nenurodyta
     ir tarė: „Dar šiandien sembai bus išžudyti arba žemė pravers savo žiotis ir juos gyvus
     praris nelyginant Dataną ir Abironą“. Šitaip ir įvyko, kaip buvo sakęs.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -167,8 +120,8 @@ Nenurodyta
 
     gana sunkiai.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -184,8 +137,8 @@ Nenurodyta
     krito daugiau nei trys tūkstančiai sembų bei kitų prūsų, taigi tą pačią dieną, kurią prieš
     metus įvyko Pokarvių kautynės.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -201,8 +154,8 @@ Nenurodyta
     kariuomene. 1262 viešpaties metais, švento Vincento išvakarėse (sausio 21), apie
     pavakarę, jie atvyko į Karaliaučiaus pilį.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -213,7 +166,8 @@ Nenurodyta
 - id: c-66778
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 119"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 119."
   citata_originali: |
     Apie tai, kaip iš anksto buvo išpranašauta ši pergalė
 
@@ -233,7 +187,8 @@ Nenurodyta
 - id: c-66779
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 118-119"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 118-119."
   citata_originali: |
     Brolių patariamas, jis pasiuntė  į priekį žvalgus, įsakydamas sužinoti, ar saugūs keliai;
     vienas iš jų, vardu Stantekas, susidūrė su sembų sauga, tačiau nors sunkiai sužeistas,
@@ -258,7 +213,8 @@ Nenurodyta
 - id: c-66780
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 119"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 119."
   citata_originali: |
     Prisiėjo tam reikalui pasikviesti  į talką visus Karaliaučiaus brolius bei jų
     ginklanešius. Šie narsiai juos užpuolė ir po ilgos kovos, pareikalavusios vienoje ir kitoje
@@ -275,7 +231,8 @@ Nenurodyta
 - id: c-66781
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 118"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 118."
   citata_originali: |
     Todėl jie nuolankiai ir gailiai kėlė
     akis  į dangų, su ašaromis šaukdamiesi viešpaties pagalbos,  ir viešpats jų išklausė.
@@ -289,6 +246,3 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66572
-
-## Ryšiai
-- Turėjo dalyvį: [[objektai/grupes/Sembai]]

@@ -31,21 +31,6 @@ Narbutas rašo, kad Lukas Davidas ir Simonas Grunau žinias apie Romovės įkūr
 - t-001
   global_id: t-190394
   teiginys: "Narbutas rašo, kad Lukas Davidas ir Simonas Grunau žinias apie Romovės įkūrimą ir krivio buvimą grindė pirmojo Prūsijos vyskupo Kristijono kronika."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "747567-747820; hash=efdfedfa3a4b582cb724c5e2c0ac357ecf2cb36572e86cfd39fcf037f157341d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Krivis: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kristijonas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Krivis: mention_match, person, gap=46"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kristijonas\" parinktas kaip owner_note_path. Targetas \"Krivis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173277
 
@@ -53,21 +38,6 @@ Narbutas rašo, kad Lukas Davidas ir Simonas Grunau žinias apie Romovės įkūr
 - t-002
   global_id: t-190395
   teiginys: "Narbutas nurodo, kad žinia apie Kristijono kroniką dėl Romovės ir krivio remiasi padavimu, bet kronikos egzistavimą jis laiko įrodytu."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "747679-748129; hash=192493bb419c8d97dae3afcc7d7a3157128f9e655e993c46180b521b662bbd7a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Krivis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kristijonas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Krivis: mention_match, person, gap=34"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kristijonas\" parinktas kaip owner_note_path. Targetas \"Krivis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173278
 
@@ -75,21 +45,6 @@ Narbutas rašo, kad Lukas Davidas ir Simonas Grunau žinias apie Romovės įkūr
 - t-003
   global_id: t-190751
   teiginys: "Hartknocho perteikimu, Kristijonas buvo pirmasis Kulmo, arba Prūsijos, vyskupas ir kronikos apie senovės Prūsiją autorius."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "303031-303650; hash=6e52b9a980791a2165563a924b8ae9a0280f912f63bc6791368868945c00fc5d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Prūsai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kristijonas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Prūsai: mention_match, group, gap=38"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kristijonas\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173633
 
@@ -97,14 +52,6 @@ Narbutas rašo, kad Lukas Davidas ir Simonas Grunau žinias apie Romovės įkūr
 - t-004
   global_id: t-190752
   teiginys: "Narbutas, remdamasis Foigtu, neabejojo vyskupo Kristijono kronikos „Liber filiorum Belini“ egzistavimu."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "310390-310729; hash=457aaa7395764e955891de138f5ed300944e3e283c480ea36269cb9f7a38f8a0; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173634
 ## Reikšmingi paminėjimai
@@ -119,8 +66,8 @@ Narbutas rašo, kad Lukas Davidas ir Simonas Grunau žinias apie Romovės įkūr
     žinios apie Romovės įkūrimą ir krivio buvimą remiasi pirmo­
     jo Prūsijos vyskupo Kristijono kronika.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -139,8 +86,8 @@ Narbutas rašo, kad Lukas Davidas ir Simonas Grunau žinias apie Romovės įkūr
     toks svarbus objektas, kad jeigu jis būtų buvęs pramanytas, tai
     būtų sugriuvusi visa jos sandara.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -165,8 +112,8 @@ Narbutas rašo, kad Lukas Davidas ir Simonas Grunau žinias apie Romovės įkūr
     neva 17 metais prieš Kristaus gimimą apsilankiusio kraš­
     te, vėliau pavadintame Prūsija, stebėjimus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -182,8 +129,8 @@ Narbutas rašo, kad Lukas Davidas ir Simonas Grunau žinias apie Romovės įkūr
     ka, o vėliau autoriaus pastabos, nėra abejonių, atsižvelgiant j tai, ką
     šia tema parašė ponas Foigtas (Gesch. Preuss. B. I. S. 617).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -194,7 +141,8 @@ Narbutas rašo, kad Lukas Davidas ir Simonas Grunau žinias apie Romovės įkūr
 - id: c-173277
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 415"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 415."
   citata_originali: |
     Abu šie kronikinin­
     kai -  Lukas Davidas (kn. I. -  P. 16,53-54) ir Simonas Grunau
@@ -211,7 +159,8 @@ Narbutas rašo, kad Lukas Davidas ir Simonas Grunau žinias apie Romovės įkūr
 - id: c-173278
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 415"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 415."
   citata_originali: |
     -  Skirsnis 4) -  aiškiai įtikina, kad jų
     žinios apie Romovės įkūrimą ir krivio buvimą remiasi pirmo­
@@ -231,7 +180,8 @@ Narbutas rašo, kad Lukas Davidas ir Simonas Grunau žinias apie Romovės įkūr
 - id: c-173633
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 167"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 167."
   citata_originali: |
     *  ¥  *
     III skyrius
@@ -257,7 +207,8 @@ Narbutas rašo, kad Lukas Davidas ir Simonas Grunau žinias apie Romovės įkūr
 - id: c-173634
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 170"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 170."
   citata_originali: |
     3 Apie tikrą egzistavimą vyskupo Kristijono kronikos, kuri vadi­
     nosi Liber filiorum Belini, cum suis superstitionibus Brutiae factionis

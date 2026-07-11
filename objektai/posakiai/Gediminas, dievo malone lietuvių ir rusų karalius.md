@@ -35,17 +35,6 @@ Hac littera lecta et exscripta a magistro et prioribus 54 ## Puslapis 71 I KNYGA
 - t-001
   global_id: t-86842
   teiginys: "Gediminas laiške dominikonams titulavosi dievo malone lietuvių ir rusų karaliumi, Žemgalijos valdovu ir kunigaikščiu."
-  semantiniai_rysiai: "Gediminas buvo valdovas Lietuviai (0.88); Gediminas buvo valdovas Rusai (0.88)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "139001-139980; hash=51af2c3e85d31e7da4640da1de8c330eab73c043123e76bd1ea316ba2545237a; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_valdovas -> Lietuviai: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Titulatūra tiesiogiai vadina Gediminą lietuvių karaliumi, todėl jis siejamas kaip lietuvių valdovas."
   pagrindžia:
     - c-82821
 
@@ -53,16 +42,6 @@ Hac littera lecta et exscripta a magistro et prioribus 54 ## Puslapis 71 I KNYGA
 - t-002
   global_id: t-86843
   teiginys: "Gediminas laiške pranciškonams save vadino dieviškąja apvaizda lietuvių ir rusų karaliumi, Žemgalijos valdovu ir kunigaikščiu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "153083-153975; hash=257fa90f3e089ab77b50d6ca43be3f49269b96490bdb1e07db5467da6547abd3; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gediminas, dievo malone lietuvių ir rusų karalius: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gediminas, dievo malone lietuvių ir rusų karalius\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-82822
 ## Reikšmingi paminėjimai
@@ -94,8 +73,8 @@ Hac littera lecta et exscripta a magistro et prioribus 54 ## Puslapis 71 I KNYGA
     paties Jėzaus Kristaus laiminimu jau būsime pasirengę [įvyk­
     dyti] kiekvieną jo valios pageidavimą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -123,8 +102,8 @@ Hac littera lecta et exscripta a magistro et prioribus 54 ## Puslapis 71 I KNYGA
     norime], kad greičiau būtų pabaigtas dievo darbas ir nie­
     kais pavirstų klastinga apgaulė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

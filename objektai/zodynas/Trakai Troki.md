@@ -30,21 +30,6 @@ Narbutas Trakų pavadinimą laikė nelietuvišku ir siejo su slavų medžiotojų
 - t-001
   global_id: t-189141
   teiginys: "Narbutas Trakų pavadinimą laikė nelietuvišku ir siejo su slavų medžiotojų terminu, reiškusiu prie balno tvirtinamus diržus žvėrienai."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "480748-481350; hash=e81094b3d4de1076dc786a32572880813926d94d89cf0e4a40456124bfcfc966; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Balnas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Trakai Troki: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Balnas: mention_match, thing, gap=89"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai Troki\" parinktas kaip owner_note_path. Targetas \"Balnas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172029
 
@@ -52,21 +37,6 @@ Narbutas Trakų pavadinimą laikė nelietuvišku ir siejo su slavų medžiotojų
 - t-002
   global_id: t-189142
   teiginys: "Narbutas kaip Trakų vardo paplitimo pavyzdį nurodė Trakais vadintą mišką Lydos apskrities Žirmūnų parapijoje."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "481788-482270; hash=74ee13c20154978dda100ec808658064fc0fd3f4be61bb03fd3b86874e7fff4e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Trakai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Trakai Troki: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Trakai: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai Troki\" parinktas kaip owner_note_path. Targetas \"Trakai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172030
 
@@ -74,21 +44,6 @@ Narbutas Trakų pavadinimą laikė nelietuvišku ir siejo su slavų medžiotojų
 - t-003
   global_id: t-189143
   teiginys: "Narbutas teigė, kad slaptos dievo Atlaibo šventyklos buvusios Trakuose ir Vilniuje, po abiem miestais esančiuose panašiuose požemiuose."
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "482271-482680; hash=a4cdbbc053e56cd7de5e2a775ff30fc33adb59b6a432dc8b4c4df662b7cf6383; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Trakai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Trakai Troki: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Trakai: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakai Troki\" parinktas kaip owner_note_path. Targetas \"Trakai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172031
 ## Reikšmingi paminėjimai
@@ -109,8 +64,8 @@ Narbutas Trakų pavadinimą laikė nelietuvišku ir siejo su slavų medžiotojų
     bar įpratę sakyti apie vietą, kur yra kokių nors žvėrių -jak w
     Trokach (kaip Trakuose).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -129,8 +84,8 @@ Narbutas Trakų pavadinimą laikė nelietuvišku ir siejo su slavų medžiotojų
     Risietis, taigi jiems nebuvo reikalo skolintis iš svetimos kalbos
     daikto pavadinimo, nes jį turėjo savo pačių kalboje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -149,8 +104,8 @@ Narbutas Trakų pavadinimą laikė nelietuvišku ir siejo su slavų medžiotojų
     būt tai tiesa, bet man nepavyko tokio žodžio rasti jokioje lietu­
     viškoje tarmėje*.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -161,7 +116,8 @@ Narbutas Trakų pavadinimą laikė nelietuvišku ir siejo su slavų medžiotojų
 - id: c-172029
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 275"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 275."
   citata_originali: |
     Šis istori­
     nis fragmentas toks įdomus, kad negalime nepaaiškinti kai ku­
@@ -184,7 +140,8 @@ Narbutas Trakų pavadinimą laikė nelietuvišku ir siejo su slavų medžiotojų
 - id: c-172030
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 276"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 276."
   citata_originali: |
     Antai Lydos apskrityje, Žirmūnų parapijoje, yra miškas,
     kurio vardas Trakai (Troki). Ta pati mintis ateina Okolskiui
@@ -204,7 +161,8 @@ Narbutas Trakų pavadinimą laikė nelietuvišku ir siejo su slavų medžiotojų
 - id: c-172031
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 276"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 276."
   citata_originali: |
     Slaptos
     dievo Atlaibo šventyklos buvo Trakuose ir Vilniuje, ir po abiem

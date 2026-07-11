@@ -44,17 +44,6 @@ Vilno ipso die Sanctae Priscae Virginis 67 et martyris anno D-ni 1401 [Lietuvos 
 - t-002
   global_id: t-88357
   teiginys: "Vytauto privilegija Lietuvos žydams vėliau buvo paskelbta Pirmojo Lietuvos Statuto pradžioje."
-  semantiniai_rysiai: "Žydai gyveno Lietuva (0.72)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "325700-326302; hash=2f12abd07f8964c1355396aba21b0d0d1af9cb4df28120bc983c575d06fabd28; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Lietuva: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Žydai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Junginys „Lietuvos žydams“ tiesiogiai lokalizuoja žydų grupę Lietuvoje, nors teiginio pagrindas yra privilegija."
   pagrindžia:
     - c-84336
 ## Reikšmingi paminėjimai
@@ -78,8 +67,8 @@ Vilno ipso die Sanctae Priscae Virginis 67 et martyris anno D-ni 1401 [Lietuvos 
     wa o żydach, p. 107, Vilniuje, Zavadz-
     kio sp., 1807.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

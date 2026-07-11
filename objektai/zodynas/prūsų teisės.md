@@ -34,11 +34,6 @@ prūsų teisės: tačiau kai kuriems ir naujai kuriamuose dvaruose buvo duodamos
 - t-001
   global_id: t-72738
   teiginys: "Ordino žemėse kai kuriems naujai kuriamiems dvarams buvo suteikiamos prūsų teisės, todėl jų valstiečiai vadinti prūsais."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "1204803-1205305; hash=c65f7e5bf4b2aad5cf4bf927eb8ab5f648598f33d0f209a7d86355ac59a1de86; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-71116
 
@@ -46,16 +41,6 @@ prūsų teisės: tačiau kai kuriems ir naujai kuriamuose dvaruose buvo duodamos
 - t-002
   global_id: t-72739
   teiginys: "Ordino dokumentuose rytuose minėti ir lietuviai, ir prūsai, o vakaruose tik prūsai."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "1204803-1205305; hash=c65f7e5bf4b2aad5cf4bf927eb8ab5f648598f33d0f209a7d86355ac59a1de86; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "prūsų teisės: owner_note_path, thing"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=39"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"prūsų teisės\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-71116
 ## Reikšmingi paminėjimai
@@ -74,8 +59,8 @@ prūsų teisės: tačiau kai kuriems ir naujai kuriamuose dvaruose buvo duodamos
     lietuviškoji valstiečių teisė ir kur vėliau buvo provincija, va-
     dinama Lietuva (būtent Mažoji Lietuva).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

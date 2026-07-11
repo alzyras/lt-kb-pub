@@ -41,20 +41,6 @@ Dusburgietis teigia, kad apie kraujo lašus, varvėjusius iš duonos Kristburgo 
 - t-001
   global_id: t-60236
   teiginys: "1324 m. Kristburgo pilyje iš račiaus Andriaus aluje dažytos duonos pradėjo varvėti kraujo lašai."
-  semantiniai_rysiai: "Andrius (račius) keliavo į Kristburgas (0.66)"
-  temporaliniai_duomenys: "įvykio data: 1324 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys yra antraštės ir nutrūkusio sakinio junginys."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "743643-744094; hash=9dbd054e39994eea831d5b96cb4a2d0ba8e046d5dad58df6a2874f6fead9d310; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Kristburgas: 0.66"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Andrius (račius): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kristburgas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Andrių esant Kristburgo pilyje; tai artimiausias leidžiamas vietos santykis."
   pagrindžia:
     - c-60868
 ## Reikšmingi paminėjimai
@@ -74,8 +60,8 @@ Dusburgietis teigia, kad apie kraujo lašus, varvėjusius iš duonos Kristburgo 
 
                   124.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -86,7 +72,8 @@ Dusburgietis teigia, kad apie kraujo lašus, varvėjusius iš duonos Kristburgo 
 - id: c-60868
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 250"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 250."
   citata_originali: |
     123. Apie kraujo lašus, varvėjusius iš duonos Kristburgo pilyje Prūsijos žemėje
 
@@ -105,6 +92,3 @@ Dusburgietis teigia, kad apie kraujo lašus, varvėjusius iš duonos Kristburgo 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60236
-
-## Ryšiai
-- Andrius (račius) keliavo į [[objektai/vietos/Kristburgas]]

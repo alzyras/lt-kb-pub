@@ -58,19 +58,6 @@ Nenurodyta
 - t-001
   global_id: t-66944
   teiginys: "1241 m. Varmės, Notangos ir Bartos prūsai pasidavė tikėjimui ir Ordino broliams, o broliai pastatė Kroicburgo, Bartenšteino, Vizenburgo ir Rezlio pilis."
-  temporaliniai_duomenys: "pastatymo data: 1241 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys negramatiškas ir nutrūkęs, bet citata pagrindžia įvykį ir pilių statybą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "270742-271781; hash=2d72a095326b7a45582202e00df24b8590a7e6753190d07b8e45b7f959c4fdf4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Barta: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Varmių, notangų ir bartų pasidavimas ir kelių pilių pastatymas (1241 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Barta: mention_match, place, gap=3"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Varmių, notangų ir bartų pasidavimas ir kelių pilių pastatymas (1241 m.)\" parinktas kaip owner_note_path. Targetas \"Barta\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-67034
 ## Reikšmingi paminėjimai
@@ -93,8 +80,8 @@ Nenurodyta
     kurių vardus vienas dievas težino. Nuo to laiko pradėjo gausėti Prūsijos žemėje tikinčiųjų
     ir plisti dievo tikėjimas Jėzaus Kristaus garbei bei šlovei (1241).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -105,7 +92,8 @@ Nenurodyta
 - id: c-67034
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 82"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 82."
   citata_originali: |
     Apie varmių, notangų ir bartų pavergimą ir kelių pilių pastatymą
 

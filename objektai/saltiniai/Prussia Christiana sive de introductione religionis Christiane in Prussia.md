@@ -37,14 +37,6 @@ media_all_json: |-
 - t-001
   global_id: t-191853
   teiginys: "„Prussia Christiana sive de introductione religionis Christiane in Prussia“ yra Andriaus Soto veikalas, išleistas 1738 metais."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "784170-784326; hash=d236e554b1526b9e68db75445f156903db81c879e58a2361138ae9e085bed290; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174735
 ## Reikšmingi paminėjimai
@@ -62,8 +54,8 @@ media_all_json: |-
     Christiana sive de introductione religionis
     Christiane in Prussia. 1738.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -74,7 +66,8 @@ media_all_json: |-
 - id: c-174735
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 433"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 433."
   citata_originali: |
     Turimas omenyje žymaus bibliografo Andriaus
     Soto

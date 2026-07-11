@@ -43,19 +43,6 @@ Grigorijus Camblakas pristatomas kaip vienas žymiausių to meto stačiatikybės
 - t-011
   global_id: t-45608
   teiginys: "Grigorijaus Camblako vadovaujama LDK stačiatikių delegacija Konstance iškėlė visuotinės bažnyčių unijos idėją."
-  temporaliniai_duomenys: "įvykio data: 1415 m.; įvykio data: 1439 m.; įvykio data: 1841 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai pagrįstas citata."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "79646-80403; hash=fde6af983a3e79e0c7b7f1cdc4cebfc97a6be67564ab4032c59d5262785e2a25; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Stačiatikiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Grigorijus Camblakas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Stačiatikiai: mention_match, group, gap=37"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Grigorijus Camblakas\" parinktas kaip owner_note_path. Targetas \"Stačiatikiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-48357
 
@@ -63,19 +50,6 @@ Grigorijus Camblakas pristatomas kaip vienas žymiausių to meto stačiatikybės
 - t-009
   global_id: t-45609
   teiginys: "Vytautas paskyrė Grigorijų Camblaką į 1415 m. įkurtą LDK stačiatikių metropoliją."
-  temporaliniai_duomenys: "įvykio data: 1415 m.; įvykio data: 1439 m.; įvykio data: 1841 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys patikslintas data ir metropolijos įkūrimo aplinkybe iš citatos."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "79646-80403; hash=fde6af983a3e79e0c7b7f1cdc4cebfc97a6be67564ab4032c59d5262785e2a25; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Stačiatikiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Grigorijus Camblakas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Stačiatikiai: mention_match, group, gap=40"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Grigorijus Camblakas\" parinktas kaip owner_note_path. Targetas \"Stačiatikiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-48357
 
@@ -83,21 +57,6 @@ Grigorijus Camblakas pristatomas kaip vienas žymiausių to meto stačiatikybės
 - t-012
   global_id: t-45610
   teiginys: "1415 m. Vytautas įkūrė LDK stačiatikių metropoliją ir paskyrė Grigorijų Camblaką jos metropolitu."
-  temporaliniai_duomenys: "įkūrimo data: 1415 m.; įkūrimo data: 1439 m.; įkūrimo data: 1841 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Reikia aiškiai įvardyti Camblako paskirtą pareigą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "79646-80403; hash=fde6af983a3e79e0c7b7f1cdc4cebfc97a6be67564ab4032c59d5262785e2a25; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> metropolitas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Grigorijus Camblakas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "metropolitas: mention_match, thing, gap=23"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Grigorijus Camblakas\" parinktas kaip owner_note_path. Targetas \"metropolitas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-48357
 
@@ -105,21 +64,6 @@ Grigorijus Camblakas pristatomas kaip vienas žymiausių to meto stačiatikybės
 - t-012
   global_id: t-45610
   teiginys: "1415 m. Vytautas įkūrė LDK stačiatikių metropoliją ir paskyrė Grigorijų Camblaką jos metropolitu."
-  temporaliniai_duomenys: "įkūrimo data: 1415 m.; įkūrimo data: 1439 m.; įkūrimo data: 1841 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Reikia aiškiai įvardyti Camblako paskirtą pareigą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "79646-80403; hash=fde6af983a3e79e0c7b7f1cdc4cebfc97a6be67564ab4032c59d5262785e2a25; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> metropolitas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Grigorijus Camblakas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "metropolitas: mention_match, thing, gap=23"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Grigorijus Camblakas\" parinktas kaip owner_note_path. Targetas \"metropolitas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-48357
 
@@ -127,18 +71,6 @@ Grigorijus Camblakas pristatomas kaip vienas žymiausių to meto stačiatikybės
 - t-010
   global_id: t-45612
   teiginys: "Grigorijus Camblakas buvo vienas žymiausių to meto stačiatikybės teologų."
-  temporaliniai_duomenys: "įvykio data: 1415 m.; įvykio data: 1439 m.; įvykio data: 1841 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "79646-80403; hash=fde6af983a3e79e0c7b7f1cdc4cebfc97a6be67564ab4032c59d5262785e2a25; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Stačiatikiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Grigorijus Camblakas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Stačiatikiai: mention_match, group, gap=51"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Grigorijus Camblakas\" parinktas kaip owner_note_path. Targetas \"Stačiatikiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-48357
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176748|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1415 m. Naugarduke sušaukęs LDK stačiatikių vyskupų suvažiavimą, Vytautas įkūrė LDK stačiatikių metropoliją ir į ją paskyrė vieną žymiausių to meto stačiatikybės teologų Grigorijų Camblaką.
@@ -172,8 +104,8 @@ Grigorijus Camblakas pristatomas kaip vienas žymiausių to meto stačiatikybės
     bažnyčios susirinkimą Konstance, kur iškėlė visuotinės bažnyčių unijos
     idėją (ji įgyvendinta vėliau – 1439 m. Florencijoje).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

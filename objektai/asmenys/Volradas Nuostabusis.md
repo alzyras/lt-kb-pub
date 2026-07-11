@@ -34,17 +34,6 @@ Dusburgietis teigia, kad apie Lencenbergo pilies bei daugybės prūsų sudeginim
 - t-001
   global_id: t-60469
   teiginys: "Volradas Nuostabusis, Notangos ir Varmės fogtas, Lencenbergo pilyje sudegino prūsų kilminguosius ir visą pilį."
-  semantiniai_rysiai: "Volradas Nuostabusis puolė Prūsai (0.74)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "373297-374110; hash=f4e2ab62cbe0724113d6edbf404f9161e8bc851c2e1d4c4c23ed632b4392a6b9; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Prūsai: 0.74"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "deterministic_validation_passed; llm_structured_decision; prusai_group_context"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Volradas Nuostabusis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Prūsai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Volradas sudegino prūsų kilminguosius; kandidatas „Prūsai“ pateiktas kaip vieta, todėl ryšys paliekamas atsargiai."
   pagrindžia:
     - c-61101
 - susijęs iš [[objektai/ivykiai/Lencenbergo pilies ir jos kilmingųjų sudeginimas.md#claim-t-62360|Lencenbergo pilies ir jos kilmingųjų sudeginimas (pilis)]]: Volradas Nuostabusis Lencenbergo pilyje sudegino prūsų kilminguosius ir pačią pilį.
@@ -66,8 +55,8 @@ Dusburgietis teigia, kad apie Lencenbergo pilies bei daugybės prūsų sudeginim
     jie nusigėrę pradėjo kuždėtis, jog reikią jį nužudyti, jis išėjo ir, uždaręs duris, pavertė
     pelenais ir minėtuosius kilminguosius, ir visą pilį.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -78,7 +67,8 @@ Dusburgietis teigia, kad apie Lencenbergo pilies bei daugybės prūsų sudeginim
 - id: c-61101
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 114"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 114."
   citata_originali: |
     Apie Lencenbergo pilies bei daugybės prūsų sudeginimą
 
@@ -97,6 +87,3 @@ Dusburgietis teigia, kad apie Lencenbergo pilies bei daugybės prūsų sudeginim
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60469
-
-## Ryšiai
-- Volradas Nuostabusis puolė [[objektai/grupes/Prūsai]]

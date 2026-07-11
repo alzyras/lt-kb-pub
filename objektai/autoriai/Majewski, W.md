@@ -40,11 +40,6 @@ Majewski, W.
 - t-001
   global_id: t-30858
   teiginys: "W. Majewskis 1960 m. paskelbė straipsnį „Kilka uwag o bitwie pod Grunwaldem“."
-  temporaliniai_duomenys: "įvykio data: 1960 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "939183-939501; hash=d6b8f8e0f54b9382a62c47c51a5e16276888e7943c0b3a23827a65cc24fac054; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-33068
 ## Reikšmingi paminėjimai
@@ -59,8 +54,8 @@ Majewski, W.
     _Długosz a Cronica conflictus o gruuwaldskiej bitwie_ , KH, t. 24, 1910, 407-
     421 p. — (”) _Rok 1410.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -51,12 +51,6 @@ Nenurodyta
 - t-001
   global_id: t-194068
   teiginys: "Aleksandro 1492.VHI.6 privilegija Lietuvos leodalams, pra plečiam i LDK Ponų Tarybos teises, nustatė, kad didžiojo kunigaikš čio sutartinai su Ponų Tarybos priim tieji nutarim ai negali būti k ei čiami be Ponų Tarybos žinios; antra, didysis kunigaikštis."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "657051-657406; hash=e805ba87ae012af7fb3c3b3908e1f770b3ba3600cd84f16d95f39f08b832d185; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176681
 ## Reikšmingi paminėjimai
@@ -72,8 +66,8 @@ Nenurodyta
     pykti an t Ponų Tarybos, jeigu ji atmestų jo pasiūlytą svarstyti
     klausimą ar projektą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

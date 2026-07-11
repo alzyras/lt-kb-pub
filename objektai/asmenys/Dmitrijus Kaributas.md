@@ -35,17 +35,6 @@ Kitais metais, Švitrigailai atsitraukus nuo Vilniaus, gy­ ventojai vilniečiai
 - t-001
   global_id: t-87491
   teiginys: "Vytautas sumušė Dmitrijų Kaributą prie Nedokudovo, užėmė Seversko Naugardą ir suėmęs kunigaikštį uždarė Vilniaus Aukštutinėje pilyje."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) užėmė Naugardas (0.88); Vytautas (Lietuvos valdovas, XIV–XV a.) puolė Dmitrijus Kaributas (0.75)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "306820-307652; hash=7db3582b2e72bab88f6ba644baf32b037a6de41cc89caaf970adb7efc842e818; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Naugardas: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Naugardas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai teigia, kad Vytautas užėmė Seversko Naugardą; kandidatas pateiktas kaip Naugardas."
   pagrindžia:
     - c-83470
 - susijęs iš [[objektai/asmenys/Olegas (Riazanės kunigaikštis).md#claim-t-87808|Olegas (Riazanės kunigaikštis)]]: Riazanės kunigaikštis Olegas atkakliai prašė ir laidavo, kad Dmitrijus Kaributas būtų paleistas iš Vilniaus Aukštutinės pilies.
@@ -77,8 +66,8 @@ Kitais metais, Švitrigailai atsitraukus nuo Vilniaus, gy­ ventojai vilniečiai
     paleistas ir iš Seversko valstybės, jau prijungtos prie Lie­
     tuvos, perkeltas į Volumes ir Podolės didžiules vaidas55.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -119,5 +108,4 @@ Kitais metais, Švitrigailai atsitraukus nuo Vilniaus, gy­ ventojai vilniečiai
 
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- Puolė Dmitrijus Kaributą: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - Rėmė Dmitrijus Kaributą: [[objektai/asmenys/Olegas (Riazanės kunigaikštis)]]

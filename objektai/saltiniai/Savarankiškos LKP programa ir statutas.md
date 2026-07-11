@@ -39,19 +39,6 @@ Suvažiavimo metu „už savarankišką LKP, turinčią savo programą ir statut
 - t-001
   global_id: t-21256
   teiginys: "Už savarankišką LKP, turinčią savo programą ir statutą, balsavo 855 iš 1 033 delegatų, ir LKP atsiskyrė nuo SSKP."
-  temporaliniai_duomenys: "įvykio data: 1989 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie LKP programą, statutą ir atsiskyrimą nuo SSKP."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "493250-493649; hash=5da13cbc325f28b721d7dc7c7cf5b4bdd3608063a6005ddda6dcba4454f3e824; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Savarankiškos LKP programa ir statutas: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Savarankiškos LKP programa ir statutas\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-23960
 ## Reikšmingi paminėjimai
@@ -66,8 +53,8 @@ Suvažiavimo metu „už savarankišką LKP, turinčią savo programą ir statut
     skyrė nuo SSKP. Taip atsirado nacionalinė eurokomunistinio tipo partija,
     turinti reformuotą programą ir naują statutą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

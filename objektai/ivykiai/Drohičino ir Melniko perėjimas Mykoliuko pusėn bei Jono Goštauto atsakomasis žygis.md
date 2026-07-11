@@ -46,20 +46,6 @@ Nenurodyta
 - t-005
   global_id: t-186624
   teiginys: "Lietuvos metraštis teigia, kad Jonui Goštautui ginklu sugrąžinus miestus Didžiajai Kunigaikštystei, Jurgis Nosuta pabėgo į Mazoviją."
-  teiginio_tipas: "saltinio_teiginys"
-  semantiniai_rysiai: "Jurgis Nosuta keliavo į Mazovija (0.90); Goštautas (vyskupas, XV a.) keliavo į Vilnius (0.76)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "220221-220923; hash=974b6c702f5e614e05c0954cb30342f7594a85897313aa2bf3e3d8a1f3ee652c; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
-  ryšio_patikimumas: "keliavo_i -> Mazovija: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jurgis Nosuta: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Mazovija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Jurgio Nosutos pabėgimą į Mazoviją."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-169903
 
@@ -67,20 +53,6 @@ Nenurodyta
 - t-002
   global_id: t-186625
   teiginys: "Lietuvos metraštis teigia, kad Jurgis Nosuta pervedė Drohičiną ir Melniką Mykoliuko Žygimantaičio tarnybon ir ragino lenkų miestus atsiskirti nuo LDK."
-  teiginio_tipas: "saltinio_teiginys"
-  semantiniai_rysiai: "Jurgis Nosuta valdė miestą Drohičinas (0.78); Jurgis Nosuta valdė miestą Melnikas (0.78); Drohičinas priklausė Mazovija (0.72); Melnikas priklausė Mazovija (0.72)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "219822-220585; hash=346a0029df3ffce215dc4503460a9e197ac66a048ec35a21323f0bf9114bd150; match=whitespace_regex"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
-  ryšio_patikimumas: "valde_miesta -> Drohičinas: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jurgis Nosuta: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Drohičinas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Jurgį Nosutą kaip Drohičino seniūną."
-  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-169902
 
@@ -88,20 +60,6 @@ Nenurodyta
 - t-003
   global_id: t-186626
   teiginys: "Lietuvos metraštis pasakoja, kad Kazimieras ir Didžiosios Kunigaikštystės Ponų Taryba skubiai pasiuntė Joną Goštautą su kariuomene."
-  teiginio_tipas: "saltinio_teiginys"
-  semantiniai_rysiai: "Ponų taryba (institucija) siuntė į Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis (0.78); Goštautas (vyskupas, XV a.) keliavo į Vilnius (0.76)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "220221-220923; hash=974b6c702f5e614e05c0954cb30342f7594a85897313aa2bf3e3d8a1f3ee652c; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
-  ryšio_patikimumas: "siunte_i -> Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Ponų taryba (institucija): llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis: llm_allowed_candidate, event"
-  ryšio_paaiskinimas: "Ponų Taryba tiesiogiai minima kaip siuntusi Goštautą su kariuomene atsakomajam žygiui."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-169903
 
@@ -109,20 +67,6 @@ Nenurodyta
 - t-004
   global_id: t-186627
   teiginys: "Lietuvos metraštis pasakoja, kad Jonas Goštautas didžiojo kunigaikščio įsakymu ginklo jėga sugrąžino miestus Didžiajai Kunigaikštystei."
-  teiginio_tipas: "saltinio_teiginys"
-  semantiniai_rysiai: "Goštautas (vyskupas, XV a.) keliavo į Vilnius (0.76); Goštautas (vyskupas, XV a.) užėmė Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis (0.62)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "220221-220923; hash=974b6c702f5e614e05c0954cb30342f7594a85897313aa2bf3e3d8a1f3ee652c; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
-  ryšio_patikimumas: "keliavo_i -> Vilnius: 0.76"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Goštautas (vyskupas, XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Goštauto grįžimą į Vilnių."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-169903
 
@@ -130,20 +74,6 @@ Nenurodyta
 - t-001
   global_id: t-186628
   teiginys: "Lietuvos metraštis pasakoja, kad Jurgis Nosuta su Drohičinu ir Melniku perėjo į Mykoliuko Žygimantaičio tarnybą."
-  teiginio_tipas: "saltinio_teiginys"
-  semantiniai_rysiai: "Jurgis Nosuta valdė miestą Drohičinas (0.78); Jurgis Nosuta valdė miestą Melnikas (0.78); Drohičinas priklausė Mazovija (0.72); Melnikas priklausė Mazovija (0.72)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "219822-220585; hash=346a0029df3ffce215dc4503460a9e197ac66a048ec35a21323f0bf9114bd150; match=whitespace_regex"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
-  ryšio_patikimumas: "valde_miesta -> Drohičinas: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jurgis Nosuta: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Drohičinas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Jurgis Nosuta įvardytas Drohičino seniūnu, todėl turėjo administracinę valdžią mieste."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-169902
 ## Reikšmingi paminėjimai
@@ -167,8 +97,8 @@ Nenurodyta
     gaikščio globėju, nes kunigaikštis Kazimieras dar bu­
     vo mažametis.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -196,8 +126,8 @@ Nenurodyta
     buvo mozūrų kilmės. Ir, sugrąžinęs visus tuos miestus,
     Goštautas parvyko j Vilnių pas didįjį kunigaikštį.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -267,7 +197,3 @@ Nenurodyta
     - t-186626
     - t-186627
     - t-186624
-
-## Ryšiai
-- Užėmė Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygį: [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]]
-- Buvo siuntimo vieta: [[objektai/grupes/Ponų taryba|Ponų taryba (institucija)]]

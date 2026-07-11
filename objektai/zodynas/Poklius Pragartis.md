@@ -30,14 +30,6 @@ Narbutas Poklių (Poklų) vaizdavo kaip požemio dievą, numirėlių neštuvų v
 - t-001
   global_id: t-189173
   teiginys: "Narbutas Poklių (Poklų) vaizdavo kaip požemio dievą, numirėlių neštuvų valdovą ir nepermaldaujamą mirusių nusikaltėlių vėlių keršytoją."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "187531-187924; hash=58d0f3ba047bd0ce229c6463e55496f5bf11fbf17b7bc6e3c12791acad32f002; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172061
 ## Reikšmingi paminėjimai
@@ -55,8 +47,8 @@ Narbutas Poklių (Poklų) vaizdavo kaip požemio dievą, numirėlių neštuvų v
     daujamas keršytojas. Būta įvairių jo vardų: Pokolus, Pokole,
     Pikol, Pikole, Pragartis -  nuo žodžio Pragaras, pekla.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -67,7 +59,8 @@ Narbutas Poklių (Poklų) vaizdavo kaip požemio dievą, numirėlių neštuvų v
 - id: c-172061
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 105"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 105."
   citata_originali: |
     Juos laukinių žmonių rankos nužudžiusios kaip juodus
     gyvulius, kurie aukojami audroms, tai yra kuriuos buvo įpras­

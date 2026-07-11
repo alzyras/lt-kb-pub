@@ -45,19 +45,6 @@ Nenurodyta
 - t-001
   global_id: t-185898
   teiginys: "Pagal genties papročius valdovas buvo sudegintas ant laidotuvių laužo, o jo pelenų vieta laikyta šventenybe."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "100464-100886; hash=200439e0b2496fa81eb4c109e8a6d00d72ab3f0dec60ef6920a18e28b4034b56; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Valdovo deginimas ant laidotuvių laužo ir atminimo vietos sakralizavimas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Valdovo deginimas ant laidotuvių laužo ir atminimo vietos sakralizavimas\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-169259
 ## Reikšmingi paminėjimai
@@ -76,8 +63,8 @@ Nenurodyta
     gentį ėmė puldinėti lenkų karalius Boleslovas Narsu­
     sis.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -88,7 +75,8 @@ Nenurodyta
 - id: c-169259
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 62"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 62."
   citata_originali: |
     Pagal genties papročius valdovą su­
     degino ant laidotuvių laužo. Toje pačioje vietoje pa­

@@ -61,20 +61,6 @@ Nenurodyta
 - t-002
   global_id: t-67119
   teiginys: "Klaipėdos krašto autonominis statutas apibrėžė vietinių organų kompetenciją, seimelio, direktorijos ir gubernatoriaus funkcijas."
-  temporaliniai_duomenys: "įvykio data: 1924 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "1160356-1161441; hash=621f0058cb5249a8fef9f82260107d2308cd736b95a7fd82170da6eb008beb2b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> statutas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Klaipėdos krašto autonominis režimas (kraštas): owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "statutas: mention_match, thing, gap=29"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Klaipėdos krašto autonominis režimas (kraštas)\" parinktas kaip owner_note_path. Targetas \"statutas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-67148
 
@@ -82,17 +68,6 @@ Nenurodyta
 - t-001
   global_id: t-67120
   teiginys: "Klaipėdos kraštas turėjo autonominę valdžią, o Lietuvos Respublikos vyriausybei ten atstovavo prezidento skiriamas gubernatorius."
-  semantiniai_rysiai: "Klaipėdos kraštas priklausė Lietuva (0.93)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "1159082-1159406; hash=8ac930e5d8611621cd26b4a62914ee662ed03233ea8089da449e0e3a91bb1621; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Lietuva: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Klaipėdos kraštas: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai apibūdina Klaipėdos kraštą kaip Lietuvos valstybės dalį."
   pagrindžia:
     - c-67145
 ## Reikšmingi paminėjimai
@@ -107,8 +82,8 @@ Nenurodyta
     o respublikos vyriausybei ten atstovauja prezidento skiriamas gu-
     bernatorius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -134,8 +109,8 @@ Nenurodyta
     santykius tarp teismo organų, dviejų kalbų oficialumą, finansinius
     atsiskaitymus ir paties statuto keitimo procedūrą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

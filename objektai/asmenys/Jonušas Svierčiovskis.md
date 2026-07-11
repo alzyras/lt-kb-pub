@@ -33,16 +33,6 @@ Pastariesiems vadovavo patyręs karys Jonušas Svierčiovskis.
 - t-001
   global_id: t-40232
   teiginys: "Jonušas Svierčiovskis vadovavo samdinių pulkams, kurie turėjo sudaryti daugiau kaip 8000 karių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "327859-328381; hash=a9f36a682302d52bce47171b6b9be9bf345c69eeda489be7af37af8ffa42fe14; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jonušas Svierčiovskis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jonušas Svierčiovskis\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-44389
 ## Reikšmingi paminėjimai
@@ -68,8 +58,8 @@ Pastariesiems vadovavo patyręs karys Jonušas Svierčiovskis.
     dvarionys, kuriems vadovavo Albertas
     (Vaitiekus) Sampolinskis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

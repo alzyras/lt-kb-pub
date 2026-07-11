@@ -63,20 +63,6 @@ Nenurodyta
 - t-003
   global_id: t-05349
   teiginys: "Per 1387 m. Lietuvos krikšto apeigas Vilniuje pirmiausia turėjo būti krikštijami bajorai."
-  semantiniai_rysiai: "Jogaila (kunigaikštis, XIV–XV a.) keliavo į Vilnius (0.90)"
-  temporaliniai_duomenys: "įvykio data: 1387 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys palaikomas citata, bet reikėjo aiškiai įvardyti Lietuvos krikšto apeigas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "790072-790517; hash=e84d6ed987dbaf6db5d81f1b9c581193a33d2dc808391f4eca3d6425bcf0723c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Vilnius: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Jogaila atvyko į Vilnių."
   pagrindžia:
     - c-88450
 
@@ -84,16 +70,6 @@ Nenurodyta
 - t-004
   global_id: t-05350
   teiginys: "Per Lietuvos krikšto apeigas Jogailos įsakymu naikinti aukų židiniai, šventi medžiai, giraitės ir namuose gerbiami žalčiai."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "792550-792892; hash=88481268f0506aa7543dabc5bfcf8f8dad4c86c83d4b2a6d5cf5f80eeda249b9; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos krikšto apeigos: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=25"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos krikšto apeigos\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-88453
 
@@ -101,16 +77,6 @@ Nenurodyta
 - t-006
   global_id: t-05352
   teiginys: "Per Lietuvos krikšto apeigas kiekvienas pakrikštytasis gaudavo baltą rūbą kaip atgautos nekaltybės ženklą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "795304-795543; hash=bc0085831731be697467c6d8e6995fc586320199058cb480b2b4ac82aad724a9; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos krikšto apeigos: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos krikšto apeigos\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-88461
 
@@ -118,19 +84,6 @@ Nenurodyta
 - t-009
   global_id: t-93035
   teiginys: "1387 m. vasario 17 d. Jogailos privilegija Vilniaus vyskupui laikoma svarbiausiu krikščionybės įvedimo Lietuvoje aktu."
-  temporaliniai_duomenys: "įvykio data: 1387 m.; įvykio data: 1403 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradiniame teiginyje neaiškus įvardis „ši“; citata leidžia įvardyti privilegiją."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "74022-74681; hash=11d467b2c2622701330531634c3c7d435b195e1055c91afc6cc373ad5d69b22b; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos krikšto apeigos: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos krikšto apeigos\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-88456
 
@@ -138,16 +91,6 @@ Nenurodyta
 - t-005
   global_id: t-93036
   teiginys: "Per Lietuvos krikšto apeigas žmonės buvo krikštijami būriais, atskirai vyrai ir moterys, kiekvienam būriui suteikiant vardą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "257847-258240; hash=e6c300ee2815ba60ed9a0029b8f8a5b014bcac2e8c75408b203995f5fff78e46; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos krikšto apeigos: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos krikšto apeigos\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-88455
 
@@ -155,16 +98,6 @@ Nenurodyta
 - t-012
   global_id: t-93037
   teiginys: "Po Lietuvos krikšto bažnyčios pradėtos statyti Ukmergėje, Maišiagaloje, Medininkuose, Nemenčinėje ir kitose rytinės Lietuvos vietose."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "259978-260210; hash=2d5b26baa9ec2fe6427af07296a55183e3190e6562727d874cf60138aa569312; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos krikšto apeigos: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos krikšto apeigos\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-88444
 
@@ -172,17 +105,6 @@ Nenurodyta
 - t-002
   global_id: t-93038
   teiginys: "Krikšto apeigos pirmiausia buvo atliktos Vilniuje, o paskui Jogaila važinėdamas krikštijo visas kitas žymesnes Lietuvos vietas."
-  semantiniai_rysiai: "Jogaila (kunigaikštis, XIV–XV a.) keliavo į Lietuva (0.72)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "258136-258622; hash=43e693b69a9056b4b875b78032c326db0a7f939e251ac653e4c603054dbd97ff; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Lietuva: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Claim teigia, kad Jogaila važinėjo po Lietuvos vietas krikštydamas, todėl palaikomas keliavimo į Lietuvą ryšys."
   pagrindžia:
     - c-167622
 
@@ -190,16 +112,6 @@ Nenurodyta
 - t-007
   global_id: t-93040
   teiginys: "1387 metais krikšto teikimas neapsiribojo vien Vilniumi, o buvo tęsiamas ir kitose Lietuvos vietose."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "259978-260210; hash=2d5b26baa9ec2fe6427af07296a55183e3190e6562727d874cf60138aa569312; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos krikšto apeigos: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=71"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos krikšto apeigos\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-88444
 
@@ -207,20 +119,6 @@ Nenurodyta
 - t-008
   global_id: t-93041
   teiginys: "1387 m. Jogaila atvyko į Vilnių krikštyti lietuvių."
-  semantiniai_rysiai: "Jogaila (kunigaikštis, XIV–XV a.) keliavo į Vilnius (0.94)"
-  temporaliniai_duomenys: "kelionės data: 1387 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Jogaila (kunigaikštis, XIV–XV a.) keliavo į Vilnius“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra trumpas, pilnas faktinis sakinys ir tiesiogiai pagrįstas citata."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "73232-74020; hash=eec7474c09e0412857c01c88f1f0fb165de0303dfd0e310975bff74fda23c8f1; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Vilnius: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Jogaila atvyko į Vilnių."
   pagrindžia:
     - c-88448
 
@@ -228,16 +126,6 @@ Nenurodyta
 - t-010
   global_id: t-93042
   teiginys: "Per Lietuvos krikštą Jogaila krikštijamiesiems duodavo baltų vilnonių rūbų, kad būtų įvykdytas liturginis reikalavimas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "258100-258436; hash=35bcbe6086fdcef4703e91ac157a2273fc3d6cc5b4002fcac7f27e3a0390de57; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Baltai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos krikšto apeigos: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Baltai: mention_match, group, gap=51"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos krikšto apeigos\" parinktas kaip owner_note_path. Targetas \"Baltai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-88446
 
@@ -245,16 +133,6 @@ Nenurodyta
 - t-011
   global_id: t-93043
   teiginys: "Lietuvos krikšto metu žmonės klausė kunigų, aiškinusių katalikybės kilnumą ir jos būsimą vietą vietoj senojo lietuvių tikėjimo."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "259082-259421; hash=14394c80945bb301ead396d8cbe4eef69c2cf7026306299c4cb19f8d399368e5; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos krikšto apeigos: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos krikšto apeigos\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-88459
 
@@ -262,19 +140,6 @@ Nenurodyta
 - t-013
   global_id: t-184238
   teiginys: "Per Lietuvos krikštą Jogaila krikštijamiesiems duodavo baltų vilnonių rūbų, kad būtų įvykdytas liturginis reikalavimas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "258136-258622; hash=43e693b69a9056b4b875b78032c326db0a7f939e251ac653e4c603054dbd97ff; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Baltai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos krikšto apeigos: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Baltai: mention_match, group, gap=51"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos krikšto apeigos\" parinktas kaip owner_note_path. Targetas \"Baltai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-167622
 ## Reikšmingi paminėjimai
@@ -288,8 +153,8 @@ Nenurodyta
     mergėje, Maišiogaloje, Medininkuose (Viln.), Nemenčine, o kiek
     vėliau ir kitose rytinės Lietuvos vietose.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -308,8 +173,8 @@ Nenurodyta
     dovaną, o ir tam, kad būtų išpildytas liturgikos reikalavimas —
     prie krikšto turėti baltą rūbą, nekaltybės simbolį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -330,8 +195,8 @@ Nenurodyta
     turėtų vieną globėją ir užtarėją“), o didysis jos altorius buvo toje vietoje,
     kur anksčiau degė pagonių amžinoji ugnis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -346,8 +211,8 @@ Nenurodyta
     ras vardas, užtenkamai (« sufficienter ») žmones pašlaksčius vande­
     niu^13.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -366,8 +231,8 @@ Nenurodyta
     jau vienur kitur ruseno nuo Mindaugo bandytos įvesti krikščiony­
     bės.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -384,8 +249,8 @@ Nenurodyta
     kai, esą pats Jogaila išvertęs lietuvių kalbon «Tėve mūsų» ir
     « Tikiu į Dievą Tėvą ».
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -404,8 +269,8 @@ Nenurodyta
     Žmonės buvo krikštijami būriais, atskirai vyrai ir atskirai
     moterys, kiekvienam būriui suteikiant vardą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -425,8 +290,8 @@ Nenurodyta
     su Lietuva. Krikštas tapo svarbiu Jogailos ir Vytauto diplomatinės kovos
     ideologiniu pamatu karinio konflikto su Ordinu išvakarėse.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -441,8 +306,8 @@ Nenurodyta
     septynios parapijos : Ukmergėje, Maišiagaloje, Nemenčinėje, Melni­
     kuose, Kriave, Ainoje, Obolcuose^15.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -459,8 +324,8 @@ Nenurodyta
     Katalikybei sustiprinti kartu su žmonių krikštijimu buvo
     statomos ir bažnyčios. Be esančių jau Vilniuje nuo seniau šv.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -476,8 +341,8 @@ Nenurodyta
     niu^13. Atgautos nekaltybės ženklan kiekvienas pakrikštytasis gau­
     davo baltą rūbą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -497,8 +362,8 @@ Nenurodyta
 
     (^1) ) Valachijoje (dabartinėje Rumunijoje).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

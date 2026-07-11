@@ -54,16 +54,6 @@ rijenburgas.
 - t-023
   global_id: t-177683
   teiginys: "Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą puolamos pilies sienų aukštį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "166947-167181; hash=2c66c7ee38ad253e5c881bcad02177897ab7d7a03b43af470c4399e3ae7d6fd9; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Bokštai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Marienburgas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Bokštai: mention_match, place, gap=40"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Marienburgas\" parinktas kaip owner_note_path. Targetas \"Bokštai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-161535
 
@@ -71,20 +61,6 @@ rijenburgas.
 - t-026
   global_id: t-177684
   teiginys: "1401 m. sausio mėnesį į patį Marienburgą nuvykęs Žemaičių bajorų būrys ne tik ieškojo patvirtinimo savo turimoms luominėms teisėms, bet ir patys krikštijosi."
-  semantiniai_rysiai: "Bajorai keliavo į Marienburgas (0.88)"
-  temporaliniai_duomenys: "įvykio data: 1400 m.; įvykio data: 1401 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "896443-896757; hash=6cf66994f558d6dcdf670916643fb0d769f460bc922f0422663a0758387d43e6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Marienburgas: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Bajorai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Marienburgas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Žemaičių bajorų būrys tiesiogiai aprašytas kaip nuvykęs į Marienburgą."
   pagrindžia:
     - c-161540
 
@@ -92,18 +68,6 @@ rijenburgas.
 - t-013
   global_id: t-177685
   teiginys: "1576 m. rugsėjo 23 d. iš Marienburgo rašytame laiške karalius pareiškė muitą nustatysiąs tik gavęs prie jo buvusios Senato tarybos sutikimą."
-  temporaliniai_duomenys: "įvykio data: 1576 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "147730-148041; hash=4eeb855430a3c1cf83e885e04fda05422a8a689be7cec2516b5362925549008a; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Abiejų Tautų Respublika: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Marienburgas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Abiejų Tautų Respublika: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Marienburgas\" parinktas kaip owner_note_path. Targetas \"Abiejų Tautų Respublika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-161539
 
@@ -111,21 +75,6 @@ rijenburgas.
 - t-019
   global_id: t-177686
   teiginys: "Marienburgo pilis Nogato deš."
-  temporaliniai_duomenys: "įvykio data: iki 1279 m.; įvykio data: 1272 m.; įvykio data: 1274 m.; įvykio data: 1275 m.; įvykio data: 1276 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
-  temporalinis_llm_pakomentavimas: "claim_quality_pipeline deterministic repair"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "524649-524926; hash=d391e6518fc288dede3aa1953f1a5d86668896cb9b9c184bc38b856e92f3432a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aukštutinė pilis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Marienburgas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Aukštutinė pilis: mention_match, place, gap=12"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Marienburgas\" parinktas kaip owner_note_path. Targetas \"Aukštutinė pilis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
-  vertinimo_autorius: "claim_quality_pipeline / rewrite"
   pagrindžia:
     - c-161534
 
@@ -133,16 +82,6 @@ rijenburgas.
 - t-027
   global_id: t-177687
   teiginys: "Henrikui von Plauenui Marienburge surinkus apie 5000 vyrų įgulą, liepos 25 d. atvykę Jogaila ir Vytautas tvirtovės nebeįstengė paimti."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "933294-933676; hash=4e6e2bb11022b00b9ea16d16d47563842c67e9237385308322cffa12ff71024a; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Marienburgas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=63"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Marienburgas\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-161538
 
@@ -150,21 +89,6 @@ rijenburgas.
 - t-018
   global_id: t-177688
   teiginys: "1280 m. Santyro pilis buvo perkelta į naują vietą ir pavadinta Marienburgu, tai yra Šventosios Marijos pilimi."
-  temporaliniai_duomenys: "įvykio data: 1280 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatoje nurodytą pilies perkėlimą ir pavadinimą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "523618-523903; hash=57834e1c8d7048d0818b3b5d9c9fab9e80ced97f987181e7119f10b42c891d56; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Santyras: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Marienburgas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Santyras: mention_match, place, gap=55"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Marienburgas\" parinktas kaip owner_note_path. Targetas \"Santyras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-161544
 
@@ -172,16 +96,6 @@ rijenburgas.
 - t-006
   global_id: t-177689
   teiginys: "Vaidyla, turimomis žiniomis, kelis kartus slaptai keliavo į Marienburgą ir iš Vokiečių ordino magistro gavo sutikimą sudaryti naują sutartį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "55260-55690; hash=5f37854208ba40a89fb9ed2f7166a1b071314f82eb8c22b18d59881caac1d2bb; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vokiečiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Marienburgas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Vokiečiai: mention_match, group, gap=18"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Marienburgas\" parinktas kaip owner_note_path. Targetas \"Vokiečiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-37528
 
@@ -189,16 +103,6 @@ rijenburgas.
 - t-005
   global_id: t-177690
   teiginys: "Skirgaila Marienburge buvo draugiškai ir vaišingai priimtas, nes Ordinas veikiausiai žinojo ar nujautė jo pasiuntinystės tikslus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "50248-50685; hash=6d1d9c7925c75765fb0ae1579b706e523a2f8d9f9d67e29604ce3895b3e8aa2e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Marienburgas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=55"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Marienburgas\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-161543
 
@@ -206,16 +110,6 @@ rijenburgas.
 - t-014
   global_id: t-177692
   teiginys: "Didysis magistras slapta iš Marienburgo laivais išplaukė Vysla, paskui per jūros įlanką įplaukė į Nemuną."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "299918-300267; hash=611d3c5c4bb0c3e1df721f2b1114f4781edfed5252814bca1521a7fad4c15bf4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Laivai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Marienburgas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Laivai: mention_match, thing, gap=12"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Marienburgas\" parinktas kaip owner_note_path. Targetas \"Laivai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-161537
 
@@ -223,16 +117,6 @@ rijenburgas.
 - t-016
   global_id: t-177693
   teiginys: "Ordino dokumentų nuorašas į Marienburgą galėjo patekti defektuotas ir nepilnas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "67342-67729; hash=70ce5e4cbef53cb60e343697d43454829565431caa4d573e0507df06c19e4641; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Akonas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Marienburgas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Akonas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Marienburgas\" parinktas kaip owner_note_path. Targetas \"Akonas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-161547
 
@@ -240,20 +124,6 @@ rijenburgas.
 - t-017
   global_id: t-177694
   teiginys: "Nuo 1309 m. Marienburgas buvo vienas iš Ordino administracinių centrų."
-  semantiniai_rysiai: "Marienburgas priklausė Kryžiuočių ordinas (0.74)"
-  temporaliniai_duomenys: "įvykio data: po 1309 m.; įvykio data: 1309 m.; įvykio data: po 1312 m.; įvykio data: 1312 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata tiesiogiai mini Marienburgą kaip Ordino administracinį centrą nuo 1309 m."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "82081-82593; hash=4c51a3ffec8387045378a8d925f9cf65239b4b79aa5b548e2cccf5e09593153e; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Kryžiuočių ordinas: 0.74"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Marienburgas: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Marienburgas įvardytas kaip vienas Ordino administracinių centrų, todėl ryšys su Ordinu yra tiesioginis, nors tai ne paprasta nuosavybė."
   pagrindžia:
     - c-161536
 
@@ -261,16 +131,6 @@ rijenburgas.
 - t-028
   global_id: t-177695
   teiginys: "Vytauto kariuomenę išretino ne tik Žalgirio kautynės, bet ir prie Marienburgo prasidėjusios ligos."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "934542-934809; hash=bea44fb84b5eb96ce9a28b45df27d8af6ad0a463fef91eb44e5f7261e614c860; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Marienburgas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Marienburgas\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-161546
 
@@ -278,19 +138,6 @@ rijenburgas.
 - t-015
   global_id: t-177696
   teiginys: "1576 m. rugsėjo 23 d. iš Marienburgo rašytame laiške Steponas Batoras sutiko atidėti muito rinkimą iki seimo."
-  temporaliniai_duomenys: "įvykio data: 1576 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko konkretų faktą apie laišką ir sprendimą, o pradinis teiginys nutrūkęs."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "147730-148041; hash=4eeb855430a3c1cf83e885e04fda05422a8a689be7cec2516b5362925549008a; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Steponas Batoras: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Marienburgas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Steponas Batoras: mention_match, person, gap=28"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Marienburgas\" parinktas kaip owner_note_path. Targetas \"Steponas Batoras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-161539
 
@@ -298,19 +145,6 @@ rijenburgas.
 - t-025
   global_id: t-177697
   teiginys: "1384 m. liepos 9 d. Vytautas sudegino Nemuno Marienburgą ir sunaikino Jurgenburgą bei Naująjį Bajerburgą."
-  temporaliniai_duomenys: "įvykio data: 1384 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinė formuluotė su „Nuo“ netiksli, bet citata aiškiai pagrindžia įvykį ir datą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "767470-767712; hash=3eb14abf60bc22fd8ecc0d86ddb429f60ed515e46912beb9bc6520298928d2bc; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Bajerburgas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Marienburgas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Bajerburgas: mention_match, place, gap=49"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Marienburgas\" parinktas kaip owner_note_path. Targetas \"Bajerburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-32211
 
@@ -318,16 +152,6 @@ rijenburgas.
 - t-012
   global_id: t-177698
   teiginys: "Slaptai suruošto žygio metu didysis magistras iš Marienburgo laivais išplaukė Vysla ir per jūros įlanką įplaukė į Nemuną."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "299918-300267; hash=611d3c5c4bb0c3e1df721f2b1114f4781edfed5252814bca1521a7fad4c15bf4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Laivai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Marienburgas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Laivai: mention_match, thing, gap=12"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Marienburgas\" parinktas kaip owner_note_path. Targetas \"Laivai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-161537
 
@@ -335,16 +159,6 @@ rijenburgas.
 - t-021
   global_id: t-177700
   teiginys: "Vaidyla kelis kartus slapta keliavo į Marienburgą ir iš Vokiečių ordino magistro gavo sutikimą sudaryti naują sutartį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "55260-55690; hash=5f37854208ba40a89fb9ed2f7166a1b071314f82eb8c22b18d59881caac1d2bb; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vokiečiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Marienburgas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Vokiečiai: mention_match, group, gap=18"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Marienburgas\" parinktas kaip owner_note_path. Targetas \"Vokiečiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-37528
 
@@ -352,19 +166,6 @@ rijenburgas.
 - t-029
   global_id: t-185038
   teiginys: "Vytautas Marienburge surengė dukters Sofijos palydėtuves prieš jos santuoką su Maskvos kunigaikščiu Vasilijumi."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "566154-566929; hash=9cbb7609893395a434b4eca3756a8df1488f5f54f8055d802a558305bce1621c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Maskva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Marienburgas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Maskva: mention_match, place, gap=70"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Marienburgas\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-168399
 
@@ -372,21 +173,6 @@ rijenburgas.
 - t-018
   global_id: t-187606
   teiginys: "Lietuvos metraštyje Vytautui būnant pas magistrą Marienburge, pas jį atvyko daug lietuvių kunigaikščių ir bajorų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "147730-148041; hash=4eeb855430a3c1cf83e885e04fda05422a8a689be7cec2516b5362925549008a; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Bajorai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Marienburgas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Bajorai: mention_match, group, gap=57"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Marienburgas\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-170553
 - susijęs iš [[objektai/asmenys/Gerhardas.md#claim-t-60121|Gerhardas (valdovas)]]: Gerhardas gyveno Marienburgo pilyje ir prieš tapdamas vienuoliu buvo Brandenburgo markgrafo šeimynykštis bei karo pabūklų meistras.
@@ -502,8 +288,8 @@ rijenburgas.
     gino Nemuno Marienburgą ir sunaikino dar kitas dvi jam valdyti
     pavestas pilis (Jurgenburgą, Naująjį Bajerburgą = Neuhaus)^24.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -521,8 +307,8 @@ rijenburgas.
     Norėdamas paslėpti nuo Kęstučio savo paskutinius suma­
     nymus, Jogaila padarė Dovydiškiuose neva medžioklę^4 ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -538,8 +324,8 @@ rijenburgas.
     šiaurinis sparnas, Aukštutinė pilis baigta apie 1300 m.). 1276 m. miestas gavo lokacinę
     privilegiją.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -552,8 +338,8 @@ rijenburgas.
     Žygiui ruoštasi visus metus. Gavus žvalgų duomenis, koks pilies sienų aukštis, kryžiuočių sostinėje Marienburge buvo pag-
     aminti atitinkamo aukščio šturmo bokštai. Kartu Nemunu buvo plukdomos visos pagrindinės to meto puolimo mašinos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -571,8 +357,8 @@ rijenburgas.
     apie Ragainę, taip pat apie Karaliaučių, kuriame nuo 1312 m. buvo didžiojo maršalo
     rezidencija136.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -594,8 +380,8 @@ rijenburgas.
     bendrais bruožais ir ne taip išsamiai
     apie šitai pasakoja.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -615,8 +401,8 @@ rijenburgas.
     ordinu atskirai padarytomis paliaubomis Livonijos kryžiuočius
     _sulaikė_ nuo dalyvavimo Žalgirio kautynėse.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -653,8 +439,8 @@ rijenburgas.
     kių, kad vėliau, po seimo sprendimo, būtų žinoma, ko gali­
     ma reikalauti iš pirklių, o ko reikėtų atsisakyti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -671,8 +457,8 @@ rijenburgas.
     ieškojo patvirtinimo savo turimoms luominėms teisėms, bet ir patys
     krikštijosi.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -690,8 +476,8 @@ rijenburgas.
     nusakyti, bet vis dėlto jis negalėjo neturėti ryšio su tais santy­
     kiais, kuriuos vėliau Jogaila užmezgė su Vokiečių Ordinu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -712,8 +498,8 @@ rijenburgas.
 
         209 (204).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -729,8 +515,8 @@ rijenburgas.
     Be to, didelis nuovargis ir maisto trukumas vertė Vytautą grįžti
     atgal.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -746,8 +532,8 @@ rijenburgas.
     nepilnas, tuo iš dalies paaiškinamos ir Dusburgiečio klaidos. Kitokios kilmės jo pateikiami
     duomenys apie vėlesnius magistrus.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -778,8 +564,8 @@ rijenburgas.
     kunigaikščiais į vestuvių iškilmes atvyko ir Henrikas,
     Vytauto žmonos Onos brolis.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -797,8 +583,8 @@ rijenburgas.
     pas jį atvyko daug lietuvių kunigaikščių ir bajorų. Vo­
     kiečių padedamas, jis ėmėsi atkariauti Lietuvos žemę''.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -848,7 +634,8 @@ rijenburgas.
 - id: c-161534
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 166"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 166."
   citata_originali: |
     500 Plg. D. III, 143. Marienburgo pilis Nogato deš. krante, kaip manyta, pradėta statyti
     1272 m. ar 1274 m. 1275 m. pradėta statyti Aukštutinė pilis (iki 1279 m. pastatytas jos
@@ -879,7 +666,8 @@ rijenburgas.
 - id: c-161536
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 27"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 27."
   citata_originali: |
     Turėdami omenyje XIV a. pabaigoje kryžiuočių žvalgų pranešimų pagrindu sudarytus
     100 kelių  į Lietuvą aprašymus135, kuriuos gaudavo didysis maršalas, galime manyti,
@@ -1024,7 +812,8 @@ rijenburgas.
 - id: c-161544
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 166"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 166."
   citata_originali: |
     208 (203). Apie Marienburgo pilies pastatymą
 
@@ -1064,7 +853,8 @@ rijenburgas.
 - id: c-161547
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 24"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 24."
   citata_originali: |
     pažymėtos vienodai (I, 2, 3, 4, 5; IV, 33; III, 309, 314). iš to daroma išvada, kad jau
     Akone buvęs tam tikras kalendorius arba nekrologas, turėjęs priminti mirusiųjų metines.
@@ -1082,7 +872,8 @@ rijenburgas.
 - id: c-168399
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 325"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 325."
   citata_originali: |
     Priėmus nutarimą, ieškota žmogaus, kuriam be
     pavojaus galima būtų patikėti šią slaptą užduotį, mat jis
@@ -1131,8 +922,5 @@ rijenburgas.
     - t-187606
 
 ## Ryšiai
-- Buvo kelionės vieta: [[objektai/grupes/Bajorai]], [[objektai/asmenys/Švitrigaila]]
-- Puolė Marienburgą: [[objektai/asmenys/Divanas]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Gynė Marienburgą: [[objektai/asmenys/Henrikas von Plauen]]
+- Buvo kelionės vieta: [[objektai/asmenys/Švitrigaila]]
 - Gyvenamoji vieta: [[objektai/asmenys/Fridrichas (Marienburgo brolis)]], [[objektai/asmenys/Gerhardas|Gerhardas (valdovas)]], [[objektai/asmenys/Heinemanas (Marienburgo brolis)]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Marienburgas priklausė [[objektai/grupes/Kryžiuočių ordinas]]

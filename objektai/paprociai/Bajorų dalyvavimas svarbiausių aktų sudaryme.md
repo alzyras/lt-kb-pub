@@ -61,18 +61,6 @@ Nenurodyta
 - t-003
   global_id: t-05337
   teiginys: "1401 m. Vilniaus susitarimuose išvardyti bajorai ir pareigūnai turėjo būti ne tik liudininkai, bet ir garantai."
-  temporaliniai_duomenys: "įvykio data: 1401 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1026498-1026913; hash=1087d4c11117df3f6d072258223a8db8aeee5155a737527d2dd8a27ff04f1b4e; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Bajorai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Bajorų dalyvavimas svarbiausių aktų sudaryme: owner_note_path, thing"
-  ryšio_targeto_parinkimas: "Bajorai: mention_match, group, gap=42"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bajorų dalyvavimas svarbiausių aktų sudaryme\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-05408
 
@@ -80,16 +68,6 @@ Nenurodyta
 - t-005
   global_id: t-71791
   teiginys: "Horodlės suvažiavimo nutarimai buvo surašyti valdovų ir abiejų valstybių bajorų dokumentuose."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "273037-273432; hash=e51afb26559881d4684ee146f8f47cbd0d2bfc3babf46c94f27bdac274be2ae8; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Bajorai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Bajorų dalyvavimas svarbiausių aktų sudaryme: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Bajorai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bajorų dalyvavimas svarbiausių aktų sudaryme\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-70302
 
@@ -97,16 +75,6 @@ Nenurodyta
 - t-001
   global_id: t-71795
   teiginys: "Visa tai buvo sutarta bendrame Lietuvos ir Lenkijos valdovų ir bajorų suvažiavime Horodlėje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "431463-431808; hash=3f6d9cc1d136543e556cf38bcdc89706c9b00f6bd5e6e7b8b297cae245da45b5; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Bajorai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Bajorų dalyvavimas svarbiausių aktų sudaryme: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Bajorai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bajorų dalyvavimas svarbiausių aktų sudaryme\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-37102
     - c-37103
@@ -116,19 +84,6 @@ Nenurodyta
 - t-007
   global_id: t-71796
   teiginys: "1401 m. Vilniaus susitarimuose Lietuvos bajorai pirmą kartą unijų istorijoje surašė atskirą aktą."
-  temporaliniai_duomenys: "įvykio data: 1401 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pirminio teiginio citata nepalaiko, bet joje yra tinkamas faktas apie Lietuvos bajorų aktą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1026498-1026913; hash=1087d4c11117df3f6d072258223a8db8aeee5155a737527d2dd8a27ff04f1b4e; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Bajorai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Bajorų dalyvavimas svarbiausių aktų sudaryme: owner_note_path, thing"
-  ryšio_targeto_parinkimas: "Bajorai: mention_match, group, gap=41"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bajorų dalyvavimas svarbiausių aktų sudaryme\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-05408
 ## Reikšmingi paminėjimai
@@ -144,8 +99,8 @@ Nenurodyta
     būti ne tik liudininkai, bet ir garantai, kad visa tai, kas aktuose
     surašyta, bus vykdoma.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -162,8 +117,8 @@ Nenurodyta
     teisę dalyvauti naujo kun. elekcijoj. Lenkų bajorija turėjo tą
     teisę seniau.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -180,8 +135,8 @@ Nenurodyta
     t. y. did. kunigaikščio valiai, reguliuojant valstybės reikalus.
     Dabar toji visuomenė davė unijai savo sankciją^2 ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -198,8 +153,8 @@ Nenurodyta
     taryba Radome davė garantiją, kaip lietuv. bajorai Vilniuj len­
     kams, kad Vytautui nebus atimta d. Lietuvos kunigaikštija.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -216,8 +171,8 @@ Nenurodyta
     kumentuose: vienas bendras dokumentas buvo Jogailos ir Vy-
     tauto ir po vieną dokumentą abiejų valstybių bajorų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

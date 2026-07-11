@@ -49,16 +49,6 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
 - t-018
   global_id: t-176932
   teiginys: "Ašmena kadaise buvo kaimas, išaugęs šalia kunigaikščio dvaro."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "437185-437635; hash=338bfffa5d3e0ee9e5cce1c0d351771dd4810b58feca01807e3c88085a4abcf2; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Pranciškonų ordinas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ašmena: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Pranciškonų ordinas: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ašmena\" parinktas kaip owner_note_path. Targetas \"Pranciškonų ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-160882
 
@@ -66,20 +56,6 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
 - t-006
   global_id: t-176933
   teiginys: "1655 m. liepą rusai ir jų sąjungininkai kazokai sumušė lietuvius prie Ašmenos ir priartėjo prie Vilniaus."
-  semantiniai_rysiai: "Rusai buvo sąjungininkas su Kazokai (0.95); Rusai kariavo prieš Lietuviai (0.90); Kazokai kariavo prieš Lietuviai (0.90)"
-  temporaliniai_duomenys: "įvykio data: 1654 m.; įvykio data: 1654-1655; įvykio data: 1655 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "518169-518588; hash=acb05ea31f59913f7dcdcc823e9c50aefc4c3c4e51ca48812d5c1babf59898a8; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sajungininkas_su -> Kazokai: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Rusai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Kazokai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Kazokai tiesiogiai įvardyti rusų sąjungininkais."
   pagrindžia:
     - c-12704
 
@@ -87,17 +63,6 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
 - t-009
   global_id: t-176936
   teiginys: "Ašmena priklausė Vilniui artimų sričių su pilimis grupei, įėjusiai į jam paskirtą žemių dalinį."
-  semantiniai_rysiai: "Ašmena priklausė Jaunutis (valdovas, XIV a.) (0.79)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "679223-679567; hash=3151dbb51ecbcd7300a36dc726ef5b996f965494a2c679656f75aa6ccff658ea; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Jaunutis (valdovas, XIV a.): 0.79"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Ašmena: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Jaunutis (valdovas, XIV a.): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Ašmena priskirta žemių daliniui, kuris citatoje siejamas su Jaunučiu."
   pagrindžia:
     - c-31954
 
@@ -105,16 +70,6 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
 - t-015
   global_id: t-176937
   teiginys: "1385 metų rugpjūtį didžiojo magistro Konrado Ciolnerio Rotenšteino pajėgos nuniokojo žemes iki pat Ašmenos."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "113722-114315; hash=2c6fca22587b9f760a3fbd8ca7c6c614fdfa8a9846a14134cdc3ff78ee915bc5; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Elžbieta: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ašmena: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Elžbieta: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ašmena\" parinktas kaip owner_note_path. Targetas \"Elžbieta\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-160875
 
@@ -122,16 +77,6 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
 - t-020
   global_id: t-176938
   teiginys: "Livonijos magistro ir totorių remiamas Švitrigaila vėl užėmė Ašmeną ir priartėjo prie Vilniaus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "443944-444353; hash=1db772913d4d60baba393b23f9c98c2a6507cbf349fc5a3b5b8debf345947543; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ašmena: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=25"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ašmena\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-160891
 
@@ -139,17 +84,6 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
 - t-017
   global_id: t-176939
   teiginys: "Švitrigaila savo dvare prie Ašmenos miesto turėjo tik nedidelę sargybą."
-  semantiniai_rysiai: "Švitrigaila gyveno Ašmena (0.83)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "436040-436838; hash=ed03c54424616e62c772e425ee975985ac2970f3bdbf147dd016595f8e74070b; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Ašmena: 0.83"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Ašmena: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Švitrigaila nurodytas buvęs savo dvare prie Ašmenos."
   pagrindžia:
     - c-160883
 
@@ -157,17 +91,6 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
 - t-012
   global_id: t-176941
   teiginys: "Ašmenoje buvo sukviečiami vietiniai ir apylinkių žmonės, mokomi tikėjimo tiesų ir krikštijami."
-  semantiniai_rysiai: "Jogaila (kunigaikštis, XIV–XV a.) keliavo į Ašmena (0.88)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "263610-264012; hash=1a2515800fa1e2a114502bc2ba9211cea27f52a1fa72cbc73d8e055ad442037e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Ašmena: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Ašmena: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata nurodo, kad Jogaila aplankė Ašmeną."
   pagrindžia:
     - c-160874
 
@@ -175,17 +98,6 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
 - t-021
   global_id: t-176942
   teiginys: "Švitrigaila buvojo savo dvare prie Ašmenos miesto ir turėjo prie savęs tik nedidelę sargybą."
-  semantiniai_rysiai: "Švitrigaila gyveno Ašmena (0.83)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "436040-436838; hash=ed03c54424616e62c772e425ee975985ac2970f3bdbf147dd016595f8e74070b; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Ašmena: 0.83"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Ašmena: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Švitrigaila nurodytas buvęs savo dvare prie Ašmenos."
   pagrindžia:
     - c-160883
 
@@ -193,19 +105,6 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
 - t-016
   global_id: t-176943
   teiginys: "1388 m. Lucke tarp liudytojų minimas Mangaila iš Ašmenos."
-  temporaliniai_duomenys: "įvykio data: 1388 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys yra ilgas dokumento fragmentas su OCR triukšmu, bet citata palaiko glaustą faktą apie Ašmeną."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "418454-418751; hash=1239f109f3198a527957e8200b5acbf25c1114426edd844bc39191b0f4b0f962; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Bajorai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ašmena: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Bajorai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ašmena\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-160877
 
@@ -213,17 +112,6 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
 - t-027
   global_id: t-176944
   teiginys: "Ašmena priklausė Jaunučiui paskirtam žemių daliniui kartu su Vilniumi, Ukmerge ir Breslauja."
-  semantiniai_rysiai: "Ašmena priklausė Jaunutis (valdovas, XIV a.) (0.88)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "679223-679567; hash=3151dbb51ecbcd7300a36dc726ef5b996f965494a2c679656f75aa6ccff658ea; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Jaunutis (valdovas, XIV a.): 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Ašmena: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Jaunutis (valdovas, XIV a.): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Ašmena tiesiogiai priskirta Jaunučiui paskirtam žemių daliniui."
   pagrindžia:
     - c-31954
 
@@ -231,16 +119,6 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
 - t-022
   global_id: t-176945
   teiginys: "Dabartinė Ašmena anais laikais tebuvo kaimas, išaugęs šalia kunigaikščio dvaro."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "437185-437635; hash=338bfffa5d3e0ee9e5cce1c0d351771dd4810b58feca01807e3c88085a4abcf2; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Pranciškonų ordinas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ašmena: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Pranciškonų ordinas: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ašmena\" parinktas kaip owner_note_path. Targetas \"Pranciškonų ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-160882
 
@@ -248,20 +126,6 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
 - t-006
   global_id: t-176933
   teiginys: "1655 m. liepą rusai ir jų sąjungininkai kazokai sumušė lietuvius prie Ašmenos ir priartėjo prie Vilniaus."
-  semantiniai_rysiai: "Rusai buvo sąjungininkas su Kazokai (0.95); Rusai kariavo prieš Lietuviai (0.90); Kazokai kariavo prieš Lietuviai (0.90)"
-  temporaliniai_duomenys: "įvykio data: 1654 m.; įvykio data: 1654-1655; įvykio data: 1655 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "518169-518588; hash=acb05ea31f59913f7dcdcc823e9c50aefc4c3c4e51ca48812d5c1babf59898a8; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sajungininkas_su -> Kazokai: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Rusai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Kazokai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Kazokai tiesiogiai įvardyti rusų sąjungininkais."
   pagrindžia:
     - c-12704
 
@@ -269,16 +133,6 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
 - t-024
   global_id: t-176947
   teiginys: "Livonijos magistro ir totorių remiamas Švitrigaila vėl užėmė Ašmeną ir priartėjo prie Vilniaus per septynetą mylių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "443696-444154; hash=1568c907a919efa793a7b06a5674184a26a663c128433465c4d85fa6a38ba6d4; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ašmena: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=25"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ašmena\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-160880
 
@@ -286,20 +140,6 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
 - t-010
   global_id: t-176948
   teiginys: "1385 m. vasarą Prūsų ordinas su didele kariuomene buvo nuėjęs iki Vilniaus ir Ašmenos."
-  semantiniai_rysiai: "Kryžiuočių ordinas surengė žygį į Vilnius (0.86); Kryžiuočių ordinas surengė žygį į Ašmena (0.86)"
-  temporaliniai_duomenys: "įvykio data: 1385 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie Ašmenos paminėjimą žygyje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "787717-787962; hash=2d3f348f7e5850a1b46a2ea87d4082c95f58cb9e9473d3253ca84f01030be5f2; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "surenge_zygi_i -> Ašmena: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Ašmena: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Ordino kariuomenės nuėjimas iki Ašmenos rodo karinį žygį į Ašmeną."
   pagrindžia:
     - c-160892
 
@@ -307,16 +147,6 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
 - t-019
   global_id: t-176950
   teiginys: "Apie rugpjūčio 28 d. Žygimantas įsiveržė į Švitrigailos dvarą Ašmenoje, bet jo ten neberado."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "437556-438095; hash=28c2c162913141496293f76f2426c47f7129f36cc1c5c52ceb6c037b1dd138fb; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Ašmena: 0.91"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Žygimantas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Ašmena: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Žygimantas tiesiogiai nurodytas nužygiavęs į Ašmeną."
   pagrindžia:
     - c-160876
 
@@ -324,20 +154,6 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
 - t-006
   global_id: t-176933
   teiginys: "1655 m. liepą rusai ir jų sąjungininkai kazokai sumušė lietuvius prie Ašmenos ir priartėjo prie Vilniaus."
-  semantiniai_rysiai: "Rusai buvo sąjungininkas su Kazokai (0.95); Rusai kariavo prieš Lietuviai (0.90); Kazokai kariavo prieš Lietuviai (0.90)"
-  temporaliniai_duomenys: "įvykio data: 1654 m.; įvykio data: 1654-1655; įvykio data: 1655 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "518169-518588; hash=acb05ea31f59913f7dcdcc823e9c50aefc4c3c4e51ca48812d5c1babf59898a8; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sajungininkas_su -> Kazokai: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Rusai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Kazokai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Kazokai tiesiogiai įvardyti rusų sąjungininkais."
   pagrindžia:
     - c-12704
 
@@ -345,17 +161,6 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
 - t-014
   global_id: t-176952
   teiginys: "Jaunutis paveldėjo ne tik Lietuvos didžiojo kunigaikščio sostą, bet ir Ašmeną, Ukmergę bei Breslaują."
-  semantiniai_rysiai: "Jaunutis (valdovas, XIV a.) buvo valdovas Lietuva (0.90); Jaunutis (valdovas, XIV a.) valdė Ašmena (0.88); Jaunutis (valdovas, XIV a.) valdė Ukmergė (0.88); Jaunutis (valdovas, XIV a.) valdė Breslauja (0.88)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "77573-78734; hash=fd0313547e5b15d16abee193143df16d861327ef9fda76b1e894e5b10ad9b8f7; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_valdovas -> Lietuva: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jaunutis (valdovas, XIV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Jaunutis tiesiogiai nurodytas paveldėjęs Lietuvos didžiojo kunigaikščio sostą."
   pagrindžia:
     - c-160888
 
@@ -363,17 +168,6 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
 - t-025
   global_id: t-176953
   teiginys: "Prieš vyskupijos įkūrimą Jogaila rytų Lietuvoje aplankė Ašmeną, kur vietiniai žmonės buvo mokomi tikėjimo tiesų ir krikštijami."
-  semantiniai_rysiai: "Jogaila (kunigaikštis, XIV–XV a.) keliavo į Ašmena (0.88)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "263530-263892; hash=9ac2ffe5b122a5cfbe4e54c061b38154036463e32b227f243aba6272e6adf7b9; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Ašmena: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Ašmena: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata nurodo, kad Jogaila aplankė Ašmeną."
   pagrindžia:
     - c-160881
 
@@ -381,16 +175,6 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
 - t-023
   global_id: t-176954
   teiginys: "Apie rugpjūčio 28 d. Žygimantas slapta nužygiavo į Ašmeną ir įsiveržė į Švitrigailos dvarą, bet jo ten neberado."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "437556-438095; hash=28c2c162913141496293f76f2426c47f7129f36cc1c5c52ceb6c037b1dd138fb; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Ašmena: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Žygimantas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Ašmena: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Žygimanto žygį į Ašmeną."
   pagrindžia:
     - c-160876
 
@@ -398,21 +182,6 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
 - t-029
   global_id: t-184925
   teiginys: "Vytautas Ašmenoje pastatė šv. Pranciškaus ordino vienuoliams bažnyčią ir vienuolyną, kuriuos dosniai apdovanojo."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "626372-626915; hash=5c55480aa61d3789a9ed4721d4a2ef30e3e81c659510106d94fcd989805fd0ef; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ašmena: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ašmena\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-168286
 
@@ -420,12 +189,6 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
 - t-030
   global_id: t-193168
   teiginys: "Švitrigaila buvo sąmokslininkų užpultas tuo metu, kai, vykdamas į derybas su Jogaila, nakvojo sustojęs Ašmenoje."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "355138-355696; hash=1c0bf08977e241b20a6c1f3902dbbfdc2d4078b4123e044de1f1d134497e0474; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-175917
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179726|Švitrigaila]]: Livonijos magistro ir totorių remiamas Švitrigaila vėl užėmė Ašmeną ir priartėjo prie Vilniaus per septynetą mylių.
@@ -531,8 +294,8 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
     lietuvius prie Ašmenos sumušę, rusai ir jų sąjungininkai kazokai
     priartėjo prie Vilniaus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -550,8 +313,8 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
     Ukmerge, Breslauja (Braslaw).
     Kiti šeši Gedimino sūnus taip pat gavo savo dalis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -569,8 +332,8 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
     tas vietas, kur karalius neužvažiuodavo, buvo siunčiami žmonių
     krikštyti kunigai ir vienuoliai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -591,8 +354,8 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
     kotos. Tačiau tai buvo jau paskutinis smūgis, krikščioniškojo
     Ordino riterių kirstas pagoniškai Lietuvai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -618,8 +381,8 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
     dėl šių staigių permainų ir abipusių karinių gaudynių, atro­
     do, bus vėl patyręs nesėkmių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -636,8 +399,8 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
     bajorais iš Lietuvos; su Mangaila iš Ašmenos, taip pat iš Lie­
     tuvos ir daugelio kitų patikimų liudytojų, ten buvusių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -657,8 +420,8 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
     jos magistro ir totorių, vėl užėmė Ašmeną ir vos per septy­
     netą mylių priartėjo prie Vilniaus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -677,8 +440,8 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
     kur buvo sukviečiami vietiniai ir iš apylinkių žmonės ir, pamo­
     kius juos tikėjimo tiesų, krikštijami.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -702,8 +465,8 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
     kaip tik toje vietoje, kur ir dabarti­
     nis dvaras.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -731,8 +494,8 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
     laiškas, rašytas iš Vilniaus didžiajam
     magistrui 1432 metų sausio 5 dieną.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -780,8 +543,8 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
     VILNIAUS MIESTO ISTORIJA / TOMAS
     bet ir Ašmeną, Ukmergę ir Breslaują.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -801,8 +564,8 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
     Abi šios privilegijos yra minimos
     D u b i n s k i o, 1.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -818,8 +581,8 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
     Ašmenos. O žiemop, drauge su Polocko Andriumi, puolė Livonijos
     kryžiuočiai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -841,8 +604,8 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
     liams iš pradžių Kaune, o vėliau Ašmenoje bažnyčią
     bei vienuolyną ir dosniai juos apdovanojo.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -863,8 +626,8 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
     mantui, paskelbtam didžiuoju kunigaikščiu, be tikrosios Lietu-
     vos, liko tiktai Palenkės, Pagirio ir Minsko žemės.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1197,7 +960,8 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
 - id: c-168286
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 359"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 359."
   citata_originali: |
     Tuo metu
     Andrius Vygandas, Starodubo kunigaikštis, raštiškai
@@ -1240,11 +1004,5 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
     - t-193168
 
 ## Ryšiai
-- Buvo valdoma: [[objektai/asmenys/Jaunutis|Jaunutis (valdovas, XIV a.)]]
-- Buvo kelionės vieta: [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
-- Buvo pastatyta: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Puolė Ašmeną: [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Simonas (Alšėnų kunigaikštis)]]
 - Užėmė Ašmeną: [[objektai/asmenys/Švitrigaila]]
-- Buvo žygio kryptis: [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Petrašu Montgirdaitis]], [[objektai/asmenys/Simonas (Alšėnų kunigaikštis)]]
-- Gyvenamoji vieta: [[objektai/asmenys/Mangaila iš Ašmenos]], [[objektai/asmenys/Švitrigaila]], [[objektai/grupes/Totoriai]]
 - Ašmena priklausė [[objektai/asmenys/Jaunutis|Jaunutis (valdovas, XIV a.)]]

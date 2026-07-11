@@ -61,19 +61,6 @@ Nenurodyta
 - t-001
   global_id: t-59690
   teiginys: "1298 m. užpuolus Straisbergą, vienas lietuvis išniekino krikšto vandens indą, pridergdamas į jį."
-  temporaliniai_duomenys: "įvykio data: 1298 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pateikia konkretų faktą apie krikšto vandens indo išniekinimą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "601460-602142; hash=26e37195edeec2792af00cb4a032b4842619b86dd9cc00f4976054247a7524d1; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kulmas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Krikšto vandens indas (krikštas, XIII a.): owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Kulmas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Krikšto vandens indas (krikštas, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Kulmas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-60322
 ## Reikšmingi paminėjimai
@@ -97,8 +84,8 @@ Nenurodyta
 
            271 (264).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -109,7 +96,8 @@ Nenurodyta
 - id: c-60322
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 192"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 192."
   citata_originali: |
     Apie Straisbergo miesto sugriovimą 1298 metais
 

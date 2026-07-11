@@ -33,17 +33,6 @@ Onos bažnyčia / p. 297 • Faksimilės, paimtos iš dekretų ir laiškų, esan
 - t-001
   global_id: t-88471
   teiginys: "Radvilų archyvo dekretų ir laiškų originalų faksimilėse pateiktas Aleksandro Jogailaičio dovanojimas Vilniaus miestiečiui Maksimui."
-  semantiniai_rysiai: "Aleksandras Jogailaitis buvo valdovas Lenkija (0.93); Aleksandras Jogailaitis buvo valdovas Lietuva (0.93)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "870479-871734; hash=600253f19e748be887456383d19b75b720da0a862787498d6edb45946f96d8b4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_valdovas -> Lenkija: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Aleksandras Jogailaitis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata Aleksandrą Jogailaitį tiesiogiai vadina Lenkijos karaliumi."
   pagrindžia:
     - c-84450
 ## Reikšmingi paminėjimai
@@ -94,8 +83,8 @@ Onos bažnyčia / p. 297 • Faksimilės, paimtos iš dekretų ir laiškų, esan
     hanus Rex - ]an Hlebowicz na Dub-
     rownie Kaszt.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

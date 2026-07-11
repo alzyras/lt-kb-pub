@@ -55,16 +55,6 @@ Nenurodyta
 - t-002
   global_id: t-87154
   teiginys: "Įsigiję valdas rusai ir totoriai turėjo mokėti tas pačias dešimtines, pelno mokestį ir duokles, kurias mokėjo ankstesni savininkai."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "764821-765917; hash=549c838b2d9bd5e63214ee1ebad2d9adeb03e301d42eab1ed3b0563097805dd8; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Rusai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Bažnytinių dešimtinių ir duoklių prievolių tęstinumas perleidžiant valdas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Rusai: mention_match, group, gap=7"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bažnytinių dešimtinių ir duoklių prievolių tęstinumas perleidžiant valdas\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-83133
 ## Reikšmingi paminėjimai
@@ -98,8 +88,8 @@ Nenurodyta
     possessionibus acquisitis vėl acquirendis, quae sustinuerunt
     ii, a quibus eas acquisiverunt, aut acquisituri sunt.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -34,17 +34,6 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
 - t-001
   global_id: t-60312
   teiginys: "Henrikas iš Ceico iš Vitchendorfo kaimo buvo paskirtas Ditricho iš Bernheimo pagalbininku su ginklanešiais ir daugybe žirgų."
-  semantiniai_rysiai: "Henrikas iš Ceico gyveno Vitchendorfas (0.70)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "158520-159211; hash=fa319cf4ce071fafa99d29482fedf6a241166d8af701f7db642ee75a03053e47; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Vitchendorfas: 0.70"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Henrikas iš Ceico: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vitchendorfas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Asmens apibūdinimas nurodo jo kilmę ar buvimą iš Vitchendorfo kaimo."
   pagrindžia:
     - c-60944
 ## Reikšmingi paminėjimai
@@ -63,8 +52,8 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
     ir brolį Henriką iš Ceico iš Vitchendorfo kaimo su ginklanešiais ir daugybe žirgų. Atvykę
     į Fogelzango pilį, jie žemiau pasistatė prie Vyslos Nešavos pilį181.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -75,7 +64,8 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
 - id: c-60944
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 50"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 50."
   citata_originali: |
     Magistras,
     patenkindamas jo prašymą, atsiuntė jam brolį Hermaną, vadinamą Balku, magistro
@@ -93,6 +83,3 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60312
-
-## Ryšiai
-- Henrikas iš Ceico gyveno [[objektai/vietos/Vitchendorfas]]

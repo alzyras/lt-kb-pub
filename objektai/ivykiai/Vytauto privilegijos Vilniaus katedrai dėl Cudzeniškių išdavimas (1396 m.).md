@@ -59,19 +59,6 @@ Nenurodyta
 - t-001
   global_id: t-86969
   teiginys: "1396 m. Vilniuje rašyta privilegija Vytautas, Jogailai sutikus, Vilniaus katedros kapitulai dovanojo Cudzeniškių valdą prie Medininkų."
-  temporaliniai_duomenys: "įvykio data: 1396 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys turi OCR ir bibliografinio triukšmo; citata remia privilegijos datą, vietą ir dovanojimą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "308512-309783; hash=f28e04c8376f8af561202be60e54e3ea76665bd727361a0f086927db9cd3d0f6; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Cudzeniškiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytauto privilegijos Vilniaus katedrai dėl Cudzeniškių išdavimas (1396 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Cudzeniškiai: mention_match, place, gap=77"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytauto privilegijos Vilniaus katedrai dėl Cudzeniškių išdavimas (1396 m.)\" parinktas kaip owner_note_path. Targetas \"Cudzeniškiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-82948
 ## Reikšmingi paminėjimai
@@ -121,8 +108,8 @@ Nenurodyta
     mirusius brolius kunigaikščius: Kazimierą Karigailą ir
     Aleksandrą Vygantą58.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

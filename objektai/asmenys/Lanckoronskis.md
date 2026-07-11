@@ -30,19 +30,6 @@ Lenkų kariuomenės lauko etmonui Lanckoronskiui buvo įsakyta atremti virš val
 - t-001
   global_id: t-186136
   teiginys: "Lenkų kariuomenės lauko etmonui Lanckoronskiui buvo įsakyta atremti virš valstybės pakibusią grėsmę."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1095185-1095675; hash=8fefba5d0920e84abe95dc087797083c0b1a1054573f45c4c03a46b8761ec190; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lanckoronskis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=32"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lanckoronskis\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-169497
 
@@ -50,19 +37,6 @@ Lenkų kariuomenės lauko etmonui Lanckoronskiui buvo įsakyta atremti virš val
 - t-002
   global_id: t-186137
   teiginys: "Lanckoronskis buvo paliktas vyriausiuoju karvedžiu prieš laukiamą mūšį."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1097111-1097583; hash=782f006c2c9b81370266a7df87e6c8decc79b5fc97a7bfccaec211680090fa42; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Konstantinas (Karijotaitis): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lanckoronskis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Konstantinas (Karijotaitis): mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lanckoronskis\" parinktas kaip owner_note_path. Targetas \"Konstantinas (Karijotaitis)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-169498
 ## Reikšmingi paminėjimai
@@ -85,8 +59,8 @@ Lenkų kariuomenės lauko etmonui Lanckoronskiui buvo įsakyta atremti virš val
     keliolika priešo vėliavų, plėšikaujančių po kaimus,
     nukovė septynis šimtus skitų.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -106,8 +80,8 @@ Lenkų kariuomenės lauko etmonui Lanckoronskiui buvo įsakyta atremti virš val
     kokio bendro plano, visi laukė mūšio dienos, nė nežino­
     dami, kuria kryptimi priešas pasiryžęs smogti.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -118,7 +92,8 @@ Lenkų kariuomenės lauko etmonui Lanckoronskiui buvo įsakyta atremti virš val
 - id: c-169497
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 616"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 616."
   citata_originali: |
     Kai žinia apie šį
     S k ita i su m u ša m i Ru-
@@ -143,7 +118,8 @@ Lenkų kariuomenės lauko etmonui Lanckoronskiui buvo įsakyta atremti virš val
 - id: c-169498
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 617"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 617."
   citata_originali: |
     Konstantinas su savaisiais įsitaisė dešiniajame
     sparne, o kairiajame — Mikalojus Kameneckis, rikiuo­

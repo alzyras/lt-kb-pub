@@ -48,20 +48,6 @@ Nenurodyta
 - t-001
   global_id: t-185823
   teiginys: "Tuo pačiu žygiu kryžiuočiai sugriovė Pieštvės ir Veliuonos pilis: Pieštvę gynėjai atidavė be kovos, o Veliuona paimta po keturių dienų apgulties."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Kryžiuočių ordinas užėmė Veliuona (0.83); Kryžiuočių ordinas užėmė Pieštvė (0.76)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "428448-429205; hash=750c70323c0f3263cde1db4e160a9acae5fab0c113c1eb1b292b2bbdaf4b8da5; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Veliuona: 0.83"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Veliuona: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "„Paėmė“ tiesiogiai atitinka užėmimo santykį su Veliuona."
   pagrindžia:
     - c-169184
 ## Reikšmingi paminėjimai
@@ -88,8 +74,8 @@ Nenurodyta
     latinių priešo antpuolių iš baimės niekas nebedirbo
     žemės ar iš viso nebuvo kam ją dirbti.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -100,7 +86,8 @@ Nenurodyta
 - id: c-169184
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 245"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 245."
   citata_originali: |
     Pagerbdami
     didelę šventę,, kitą dieną kryžiuočiai praleido ramiai,

@@ -40,17 +40,6 @@ pietuose lenkai ir voluiniečiai, o rytuose gudai.
 - t-002
   global_id: t-52464
   teiginys: "Ankstyvaisiais istoriniais laikais aisčiai pietuose susidūrė su lenkais ir voluiniečiais, o rytuose su gudais."
-  semantiniai_rysiai: "Vokiečiai keliavo į Padauguvis (0.90)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "63682-64048; hash=bb18203ea4639e9f72b399bce05ee52da99f2caa1992fa16e5ce0ea7fb85b210; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Padauguvis: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vokiečiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Padauguvis: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai mini vokiečių atsikraustymą į Padauguvį."
   pagrindžia:
     - c-46415
 
@@ -58,17 +47,6 @@ pietuose lenkai ir voluiniečiai, o rytuose gudai.
 - t-001
   global_id: t-52465
   teiginys: "Ankstyvaisiais istoriniais laikais aisčiai pietuose susidūrė su slavais: lenkais ir voluiniečiais."
-  semantiniai_rysiai: "Vokiečiai keliavo į Padauguvis (0.90)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "63682-64048; hash=bb18203ea4639e9f72b399bce05ee52da99f2caa1992fa16e5ce0ea7fb85b210; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Padauguvis: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vokiečiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Padauguvis: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citatoje tiesiogiai nurodyta, kad dalis vokiečių atsikraustė į Padauguvį."
   pagrindžia:
     - c-46415
 ## Reikšmingi paminėjimai
@@ -83,8 +61,8 @@ pietuose lenkai ir voluiniečiai, o rytuose gudai.
     ir čia sukūrė savo valstybes. Vieni jų atsikraustė į Padauguvį (ka-
     lavijuočiai), o kiti į Pavyslį (kryžiuočiai).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

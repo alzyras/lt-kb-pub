@@ -62,20 +62,6 @@ Nenurodyta
 - t-001
   global_id: t-77939
   teiginys: "Gyvenę nekompaktiškai lenkai neturėjo galimybių rasti vaikams mokyklų visose Lietuvos dalyse, tad leido vaikus į nelegalias mokyklas, kurių 1935 m. priskaičiuota apie 40."
-  semantiniai_rysiai: "Lenkai gyveno Lietuva (0.78)"
-  temporaliniai_duomenys: "įvykio data: 1935 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiksliai atitinka citatos informaciją."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "344005-344514; hash=244ca8e76e0ce06c537574c090eb2de01bde7607b62a72b01267fd19b7cda9e3; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Lietuva: 0.78"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lenkai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys apie lenkus, kurie gyveno nekompaktiškai Lietuvos dalyse, tiesiogiai palaiko gyvenimo Lietuvoje ryšį."
   pagrindžia:
     - c-75256
 ## Reikšmingi paminėjimai
@@ -92,8 +78,8 @@ Nenurodyta
     vėžyje ir Ukmergėje. 1935–1936 mokslo metais veikė apie 30 lenkiškų
     mokyklų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

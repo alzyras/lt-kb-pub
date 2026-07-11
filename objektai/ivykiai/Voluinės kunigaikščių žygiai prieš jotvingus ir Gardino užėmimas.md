@@ -51,9 +51,6 @@ Nenurodyta
 - t-001
   global_id: t-66983
   teiginys: "Iki XIII a. pradžios Voluinės kunigaikščiai, kariaudami su jotvingais, buvo užėmę Gardiną."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "91426-91917; hash=cf2c9639e7ce551369938b8fb45fa187b07a20ae4c5c0cf4d0bc5c3acc04e681; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-67058
 ## Reikšmingi paminėjimai
@@ -72,8 +69,8 @@ Nenurodyta
     atstatyta, jotvingų buvusi, Gardino pilis (senasis Gardinas, tur
     būt, bus turėjęs kitą vardą).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

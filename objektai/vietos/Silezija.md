@@ -46,17 +46,6 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
 - t-004
   global_id: t-95160
   teiginys: "Anų laikų Vilniaus prekybiniai ryšiai, Vytauto laikais išplitę, jau buvo pasiekę Gdanską ir Sileziją, neskaitant Karaliaučiaus, Rygos ir rusų miestų, su kuriais buvo prekiaujama nuo seno."
-  semantiniai_rysiai: "Vilnius prekiavo su Silezija (0.82); Vilnius prekiavo su Ryga (0.82)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "429105-429645; hash=24fa86eb4931af9307e82fc0a58a02250fa6cb2123f66107f3d35c86b73564e6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "prekiavo_su -> Ryga: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Ryga: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad su Ryga buvo prekiaujama nuo seno."
   pagrindžia:
     - c-90134
 
@@ -64,20 +53,6 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
 - t-009
   global_id: t-95161
   teiginys: "1432 m. Silezijos, ypač Vroclavo, gyventojai per Ordino žemes atvykdavo į Lietuvą ir Vilnių su prekėmis."
-  semantiniai_rysiai: "Silezija prekiavo su Vilnius (0.82); Silezija prekiavo su Lietuva (0.80); Vroclavas prekiavo su Vilnius (0.76)"
-  temporaliniai_duomenys: "įvykio data: 1432 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys faktinis, bet reikia pataisyti OCR ir sutrumpinti."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "430742-431170; hash=1b09e5b1d79f3b3e6d7d13fc8b0c2a5b4c74908865e787ac2a732f0c795d7bb8; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "prekiavo_su -> Vilnius: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Silezija: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai sieja Sileziją su prekių atvykimu į Vilnių."
   pagrindžia:
     - c-90137
 
@@ -85,20 +60,6 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
 - t-005
   global_id: t-95162
   teiginys: "1432 m. Silezijos, ypač Vroclavo, gyventojai per Ordino žemes atvykdavo į Lietuvą ir Vilnių su savo prekėmis."
-  semantiniai_rysiai: "Silezija prekiavo su Vilnius (0.82); Silezija prekiavo su Lietuva (0.80); Vroclavas prekiavo su Vilnius (0.76)"
-  temporaliniai_duomenys: "įvykio data: 1432 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie Silezijos gyventojų keliones į Lietuvą ir Vilnių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "430873-431453; hash=c908dc4f788ee51d654f217f60bec163d695ee80244062303980d7d1888d3491; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "prekiavo_su -> Vilnius: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Silezija: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Silezijos gyventojų atvykimą į Vilnių su prekėmis."
   pagrindžia:
     - c-90136
 
@@ -106,16 +67,6 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
 - t-012
   global_id: t-95163
   teiginys: "Silezijoje, ties Byčina, Maksimilijonas pralaimėjo mūšį, pateko į Zamoiskio nelaisvę ir atsisakė sosto."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "606630-606991; hash=6b36c4ff5ef4ca9683b972a2cbd2dda0284c82635dfac51e52a6c9184d03a8c7; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Krokuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Silezija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Krokuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Silezija\" parinktas kaip owner_note_path. Targetas \"Krokuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-90135
 
@@ -123,16 +74,6 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
 - t-011
   global_id: t-95164
   teiginys: "Silezijos kunigaikščiai buvo tarp susirinkimo dalyvių kartu su Vokietijos pasiuntiniais ir Hanzos atstovais."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "523336-523905; hash=8831aaa45c4f9669960a6fd62ecfd05ade86254f4c0bbc23cca78b194e26c714; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Hanza: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Silezija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Hanza: mention_match, group, gap=91"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Silezija\" parinktas kaip owner_note_path. Targetas \"Hanza\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-90141
 
@@ -140,16 +81,6 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
 - t-006
   global_id: t-95165
   teiginys: "Švitrigaila prašė garantijų Hansui Tscheizui, jo svainiui Mikalojui Sachsei ir dvariškiams, vykusiems su reikalais į Sileziją."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "431454-431826; hash=05c7189edf10dc248b3539a40317a34524ddbefe8f84ee35aae754e1e7af1a0d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> maršalka: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Silezija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "maršalka: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Silezija\" parinktas kaip owner_note_path. Targetas \"maršalka\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-90138
 
@@ -157,16 +88,6 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
 - t-010
   global_id: t-95166
   teiginys: "Švitrigaila prašė garantijų Hansui Tscheizui, jo svainiui Mikalojui Sachsei ir dvariškiams, vykusiems į Sileziją."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "431454-431826; hash=05c7189edf10dc248b3539a40317a34524ddbefe8f84ee35aae754e1e7af1a0d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> maršalka: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Silezija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "maršalka: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Silezija\" parinktas kaip owner_note_path. Targetas \"maršalka\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-90138
 
@@ -174,16 +95,6 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
 - t-003
   global_id: t-95167
   teiginys: "Į Vilnių atvyko nemažai amatininkų iš Vokietijos, įskaitant Saksoniją, Sileziją, Liubeką ir kitus Hanzos miestus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "72813-73456; hash=7008859c6d0089dd1f4f696e73c80f815e81fdac572a61852cbb414b7b496046; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Hanza: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Silezija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Hanza: mention_match, group, gap=27"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Silezija\" parinktas kaip owner_note_path. Targetas \"Hanza\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-90133
 
@@ -191,16 +102,6 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
 - t-007
   global_id: t-95168
   teiginys: "Į Vilnių atvykęs Žygimantas buvo Silezijos Glogovo kunigaikštis ir mirusio karaliaus brolis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "477200-477655; hash=2417c7e119690ce002dfaefd39b4f4ab49496a634388d6e1e649433e92806e51; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Silezija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=31"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Silezija\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-90139
 
@@ -208,17 +109,6 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
 - t-008
   global_id: t-95169
   teiginys: "Į Vilnių atvykę amatininkai iš Silezijos ir kitų Vokietijos žemių tapo turtingiausiu miesto gyventojų sluoksniu."
-  semantiniai_rysiai: "Silezija prekiavo su Vilnius (0.66); Vokietija prekiavo su Vilnius (0.62)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "72813-73456; hash=7008859c6d0089dd1f4f696e73c80f815e81fdac572a61852cbb414b7b496046; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "prekiavo_su -> Vilnius: 0.66"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Silezija: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Amatininkai iš Silezijos atvyko į Vilnių ir tapo miesto turtingu sluoksniu, bet pats keliaujantis subjektas nėra leistinas kandidatas."
   pagrindžia:
     - c-90133
 
@@ -226,19 +116,6 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
 - t-012
   global_id: t-185143
   teiginys: "Pagal Vladislovo ir Jono susitarimą Jonas turėjo gauti Sileziją kaip beneficiją iš Vladislovo."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "947820-948257; hash=4b983557cc6f9c3bf4ed174e40774888a9f2195662b8819f885171c385860eb6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Jonas: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Silezija: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Jonas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Pagal susitarimą Jonas turėjo gauti Sileziją kaip beneficiją, todėl Silezija priklausytų Jonui."
   pagrindžia:
     - c-168504
 
@@ -246,21 +123,6 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
 - t-013
   global_id: t-192760
   teiginys: "Narbutas minėjo Sileziją tarp vietų, kur randama pavienių gintaro gabalų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "267076-267633; hash=19df40dae9e110730be2564c6d9c58ad694891eb0cd1f5a86c0f25e7cc4c4935; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Archelajas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Silezija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Archelajas: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Silezija\" parinktas kaip owner_note_path. Targetas \"Archelajas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175530
 - susijęs iš [[objektai/asmenys/Mikalojus Sachse.md#claim-t-87788|Mikalojus Sachse]]: Švitrigaila laiške prašė garantijų Mikalojui Sachsei, vykstančiam su reikalais į Sileziją.
@@ -351,8 +213,8 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
     dimino dvare, statydinosi ties pilimi medinius savo rūmus,
     o aplink kurdino savo valdinius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -373,8 +235,8 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
     niekada Kryžiuočių ordinas neturėjo tokios įtakos Lietuvos
     reikalams, kaip tuomet.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -391,8 +253,8 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
     Byčina) pralaimėjo mūšį, pateko Zamoiskiui į nelaisvę ir buvo
     priverstas atsisakyti nuo sosto.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -414,8 +276,8 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
     kad panašią paslaugą padarytų to
     paties svečio broliui Prūsijoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -434,8 +296,8 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
     turtingiausi Silezijos didikai viešėdavo didžiojo kunigaikš­
     čio dvare9.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -456,8 +318,8 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
     vykstantiems į Sileziją. Žr. K o t z e-
     b u e Sivitrigail, p. 58-59 ir 61.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -478,8 +340,8 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
     tuvai, nuo kurios visiems laikams buvo atplėšta tiek žemių,
     jos sostinei tam tikru atžvilgiu buvo naudingas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -501,8 +363,8 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
     riaus, Ordos, Moldavijos, danų karaliaus ir Kazanės pasiunti­
     niai^2 ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -522,8 +384,8 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
     Apie šiuos susitarimus karalius nieko nežinojo, mat
     tuo metu buvo išvykęs į Lietuvą, kur sušaukė seimą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -546,8 +408,8 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
     ponijos salose turėtų būti gintaro, nes tenykščiai gyven­
     tojai žino, iš ko jis atsiranda2.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -744,7 +606,8 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
 - id: c-168504
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 536"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 536."
   citata_originali: |
     Tačiau Vladislovas tuojau pat po
     pergalės per pasiuntinius pasiūlė broliui tartis dėl san­
@@ -765,7 +628,8 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
 - id: c-175530
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 148"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 148."
   citata_originali: |
     Jūra dažnai išmeta gintarą, prikibusį prie
     supuvusių šių medžių skiedrų, ir kartu patvirtina Plini-
@@ -787,6 +651,5 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
     - t-192760
 
 ## Ryšiai
-- Buvo kelionės vieta: [[objektai/asmenys/Hansas Tscheizas]], [[objektai/asmenys/Mikalojus Sachse]]
+- Buvo kelionės vieta: [[objektai/asmenys/Mikalojus Sachse]]
 - Prekiavo su: [[objektai/vietos/Vilnius]]
-- Silezija prekiavo su [[objektai/vietos/Lietuva]], [[objektai/vietos/Vilnius]]

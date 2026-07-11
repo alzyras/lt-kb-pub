@@ -32,16 +32,6 @@ Vėliau Voluinė apskritai tapo šalutinių Gediminaičių šakų įsitvirtinimo
 - t-001
   global_id: t-77319
   teiginys: "Slavuta buvo viena iš Voluinės vietovių, kuriose Sanguškos sukūrė savo tėvonijas."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "80994-81613; hash=c9302fe593d57dc48e2a927d98afd8fc86ec89ce6dd12878cb373b4fcd14a15e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Sanguškos: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Slavuta: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Sanguškos: mention_match, group, gap=49"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Slavuta\" parinktas kaip owner_note_path. Targetas \"Sanguškos\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-24490
 
@@ -49,16 +39,6 @@ Vėliau Voluinė apskritai tapo šalutinių Gediminaičių šakų įsitvirtinimo
 - t-002
   global_id: t-77320
   teiginys: "Voluinėje Sanguškos sukūrė tėvonijas Kovelyje ir vėliau Slavuta."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "80742-81481; hash=b2b71025f4ae7a5478bbe67d16681ba03846bf2a0861550b621e85ff24acdac3; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Chodkevičiai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Slavuta: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Chodkevičiai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Slavuta\" parinktas kaip owner_note_path. Targetas \"Chodkevičiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-74740
 - susijęs iš Kovelis: Sanguškos, kilę iš šalutinių Gediminaičių šakų, sukūrė tėvoniją Kovelyje, vėliau Slavuta.
@@ -77,8 +57,8 @@ Vėliau Voluinė apskritai tapo šalutinių Gediminaičių šakų įsitvirtinimo
     Daugybė senovės imperijų žlugo palikdamos apie save tautų kalėjimų
     atminimą, o tos, kurios nežlugo, virto tautų lydymosi katilais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -102,8 +82,8 @@ Vėliau Voluinė apskritai tapo šalutinių Gediminaičių šakų įsitvirtinimo
     prastai reikšmingą vaidmenį suvaidinę riurikaitiškos, taigi „ukrainietiš-
     kos“ kilmės kunigaikščiai Ostrogiškiai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -45,17 +45,6 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
 - t-013
   global_id: t-96076
   teiginys: "Pasak Dusburgiečio, Romovė buvo prūsų, lietuvių ir kitų baltų religinio kulto centras."
-  semantiniai_rysiai: "Lietuviai priklausė Baltai (0.86)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "210797-210930; hash=68813071458acfcd2d2dded4c33d6e759ccfd81e54d2caf35b7c49e29d01c8df; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Baltai: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Baltai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Formuluotė lietuvius įtraukia į baltų grupę."
   pagrindžia:
     - c-90797
 
@@ -63,20 +52,6 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
 - t-019
   global_id: t-96077
   teiginys: "Viduriniame geležies amžiuje baltai liko gyventi Nemuno, Dauguvos ir Dniepro plote ir nedaug judėjo."
-  semantiniai_rysiai: "Baltai gyveno Dauguva (0.88); Baltai gyveno Dniepras (0.88)"
-  temporaliniai_duomenys: "įvykio data: 800 m; įvykio data: 400-800"
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalintas antraštės bei OCR triukšmas, paliktas citatos remiamas faktas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "300744-301270; hash=8616a3b3f91807bf1bd5522ac2584a650eec5ecee34cc3577ccceff0e32240c2; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Dauguva: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Baltai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Dauguva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo baltų gyvenimą Nemuno-Dauguvos-Dniepro plote."
   pagrindžia:
     - c-31042
 
@@ -84,16 +59,6 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
 - t-010
   global_id: t-96078
   teiginys: "Mindaugas siekė padaryti Lietuvą bendrąja baltų valstybe, apimančia šiaurines ir pietvakarines baltų žemes."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "20759-21127; hash=5ac4e64669c53b79d0cf8f631c3cacd2b619ac13514123f9e0474c2ebaece769; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> baltų sąjunga: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Baltai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "baltų sąjunga: mention_match, thing, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Baltai\" parinktas kaip owner_note_path. Targetas \"baltų sąjunga\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-90794
 
@@ -101,17 +66,6 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
 - t-008
   global_id: t-96080
   teiginys: "Kronikoje vaizduojamu laikotarpiu prūsai, lietuviai ir latviai priskiriami baltams, siejamiems kalbos, kultūros, tradicijų, senosios religijos ir teritorijos bendrumo."
-  semantiniai_rysiai: "Lietuviai priklausė Baltai (0.90); Latviai priklausė Baltai (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "6148-6754; hash=986014e0dd3f9d7077e990d5a5d777aefc6dca1e0d2ba7617c013ae21a569b58; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Baltai: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Latviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Baltai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata latvius tiesiogiai priskiria baltams."
   pagrindžia:
     - c-90799
 
@@ -119,16 +73,6 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
 - t-011
   global_id: t-96081
   teiginys: "Manoma, kad XII-XIII a. politinė ir etninė baltų bei Pamario slavų riba ėjo žemutine Vysla ir Nogatu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "168997-169948; hash=26a883c10ded8482cb459f1a6d9bfb5f3bc08ffbd728232dfd8cec59540f5130; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Nogatas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Baltai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Nogatas: mention_match, place, gap=51"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Baltai\" parinktas kaip owner_note_path. Targetas \"Nogatas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-90803
 
@@ -136,16 +80,6 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
 - t-015
   global_id: t-96083
   teiginys: "XIII-XIV a. pirmos pusės šaltinių analizė sieja baltų religiją su antropomorfine dievybe, panašia į krikščioniškąjį Dievą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "223546-224044; hash=542e4b5b9602cfdb04bd2ece785b18d3c0f1a42f7b6d72b83ab2aa1d1168b9aa; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Prūsų žemė: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; prusai_place_context; same_sentence_locality; single_candidate_actor; single_candidate_target"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Baltai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Prūsai: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Baltai\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-90796
 
@@ -153,16 +87,6 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
 - t-012
   global_id: t-96084
   teiginys: "Manoma, kad žalvario amžiuje baltų arealas siekė Oderio žemupį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "169951-170813; hash=9213dfbf470656e797229db4685bfc03b2f172810953327579d0ce7b43685906; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Nogatas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Baltai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Nogatas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Baltai\" parinktas kaip owner_note_path. Targetas \"Nogatas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-90804
 
@@ -170,16 +94,6 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
 - t-020
   global_id: t-96085
   teiginys: "Su slavais baltų protėviai, ypač iki geležies amžiaus pradžios, yra turėję artimų santykių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "303613-304022; hash=6c114b6960dd77eb5e3df11ea57a7a2ccb9199289f30f24357f71a5033758680; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> A. Salys: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Baltai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "A. Salys: mention_match, author, gap=35"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Baltai\" parinktas kaip owner_note_path. Targetas \"A. Salys\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-31043
 
@@ -187,17 +101,6 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
 - t-018
   global_id: t-96086
   teiginys: "Baltais vadinama indoeuropiečių genčių ir tautų grupė, gyvenusi arba gyvenanti rytiniame Baltijos jūros pakraštyje ir kalbanti giminiškomis kalbomis."
-  semantiniai_rysiai: "Baltai gyveno Baltija (0.91)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "31325-31768; hash=e4889df59b48eae2f2d58adc57216b6e4677f0e6afe3bf0e92c6f7919f1a737b; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Baltija: 0.91"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Baltai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Baltija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo baltų gyvenamąją teritoriją prie Baltijos jūros."
   pagrindžia:
     - c-90800
 
@@ -205,17 +108,6 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
 - t-009
   global_id: t-96087
   teiginys: "Lietuvos pastangomis bendrai kovai prieš vokiečių feodalinę agresiją buvo mobilizuojami beveik visi baltai."
-  semantiniai_rysiai: "Baltai kariavo prieš Vokiečiai (0.84)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "19020-19329; hash=5d640c0f37f1a636a232f8c2d669114c0f3bb85ee1502435ce097f630190ba0f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Vokiečiai: 0.84"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Baltai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vokiečiai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo kovą prieš vokiečių feodalinę agresiją."
   pagrindžia:
     - c-90795
 
@@ -223,16 +115,6 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
 - t-014
   global_id: t-96088
   teiginys: "Kai kurios senovės baltų ir lietuvių šventovės buvo įtvirtintos tarsi pilys."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "220163-220593; hash=9490eed828942e98cb65133bd92bf890ec3ca34379ac213a6e06a5fcc0d38e82; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Baltai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=9"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Baltai\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-90798
 
@@ -240,20 +122,6 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
 - t-021
   global_id: t-183122
   teiginys: "Baltų gentys pradėjo formuotis III tūkstantmečio pr. Kr. pabaigoje, kai indoeuropiečiai pajungė ir asimiliavo vietinius gyventojus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Baltai gyveno Vysla (0.87); Baltai gyveno Dniepras (0.87)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "31960-32330; hash=729b62ad02fc6c06b3059d5a5c359bfe628841c33acac96427c13eda29d7082b; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Dniepras: 0.87"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Baltai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Dniepras: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata nurodo baltų genčių apgyvendintą arealą iki Dniepro."
   pagrindžia:
     - c-166507
 - susijęs iš [[objektai/grupes/Bartai.md#claim-t-88533|Bartai]]: Bartai buvo viena iš vakarinių baltų, arba prūsų, genčių, žinomų Rytprūsiuose.
@@ -562,8 +430,8 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
     liai, be jokių lūžių vystydami savo kultūrą viduriniame geležies
     amžiuje, baltai išlaikė ją aukštame laipsnyje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -581,8 +449,8 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
     išriedėjusios iš dviejų artimų indoeuropiečių prokalbės tarmių (A.
     Salys).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -598,8 +466,8 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
     baltų žemės (Livonija  ir Prūsija). Mindaugo vadovaujama baltų sąjunga tampa ypač
     akivaizdžiu reiškiniu XIII a. 5-ojo dešimtmečio pradžioje34.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -614,8 +482,8 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
       Lietuvos  ir vakarinių baltų (prūsų, jotvingių) bendradarbiavimas tapo ypač ryškus
     tada, kai prasidėjo kova prieš pavyslyje įsikūrusį Kryžiuočių ordiną.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -632,8 +500,8 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
     dievus — Gimbutienė M. Baltai, p. 148—178; Mannhardt W. Letto-Preussische..., Apie
     Krivį— Топоров B. H. Прусский язык, K—L, с. 196—205.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -646,8 +514,8 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
     204 Romovė resp. Romuva (D. Romow, Jer.— Rômowe), Romava, pasak Dusburgiečio,—
     prūsų, lietuvių ir kitų baltų religinio kulto centras.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -665,8 +533,8 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
     E. А., Древние..., с. 17, 31, 61), Bačkininkėlių piliakalnyje prie Nemuno (Daugudis V.,
     Senoji.., p. 36), Palangos Birutės kalne (Žulkus V., Birutės..., p. 16—17) ir kt.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -687,8 +555,8 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
     (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
     Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -712,8 +580,8 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
     kalbomis, kurios sudaro atskirą indoeuropiečių kalbų šeimos šaką. Šian-
     dien šiai šakai atstovauja likusios gyvuoti tik lietuvių ir latvių kalbos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -736,8 +604,8 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
     К вопросу о топонимических соответствиях..., с. 103—111; to paties, Балтийский
     элемент..., с. 250—252).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -758,8 +626,8 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
     pradžioje prie Vyslos žiočių nekelia abejonių (Beddnarczuk L. Onomastyka..., p. 50—54,
     66); žr. ir GAO, p. 204; Gimbutienė M. Baltai, p. 17—19, 48—51, 66, 106, 114.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -776,8 +644,8 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
     I tūkstantmečio antroje pusėje, prasidėjo slavų ekspansija, nulėmusi ryti-
     nių baltų asimiliaciją.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -832,7 +700,8 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
 - id: c-90794
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 11"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 11."
   citata_originali: |
     Kai kuriuose to meto šaltiniuose Prūsija ir Lietuva
     suprantama kaip viena visuma32, o Mindaugas vadinamas prūsų karaliumi33. Mindaugas
@@ -850,7 +719,8 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
 - id: c-90795
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 11"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 11."
   citata_originali: |
     pasireiškė ir kitais atvejais, kovojant prieš vokiečių feodalinę agresiją. Taigi Lietuvos
     pastangomis bendrai kovai buvo mobilizuojami beveik visi baltai.
@@ -867,7 +737,8 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
 - id: c-90796
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 67"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 67."
   citata_originali: |
     Analizuojant XIII—XIV a. 1-os pusės šaltinius, paaiškėja, kad baltai garbino išsiskyrusią
     antropomorfinę dievybę, panašią  į krikščioniškąjį dievą (Łowmiański H. Elementy..., p.
@@ -885,7 +756,8 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
 - id: c-90797
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 64"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 64."
   citata_originali: |
     204 Romovė resp. Romuva (D. Romow, Jer.— Rômowe), Romava, pasak Dusburgiečio,—
     prūsų, lietuvių ir kitų baltų religinio kulto centras.
@@ -899,7 +771,8 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
 - id: c-90798
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 66-67"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 66-67."
   citata_originali: |
     Dabar jau žinome, kad kai kurios senovės baltų, lietuvių šventovės buvo įtvirtintos
     tarsi pilys: Tušemlios piliakalnyje aukštutinėje padneprėje (Третьяков П. И., Шмидт
@@ -918,7 +791,8 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
 - id: c-90799
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 7"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 7."
   citata_originali: |
     Prūsai ir Lietuva
 
@@ -966,7 +840,8 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
 - id: c-90803
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 53"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 53."
   citata_originali: |
     186 Manoma, kad politinė  ir etninė baltų (Pamedės prūsų)  ir Pamario slavų riba
     ėjusi XII—XIII  a. žemutine  Vysla  ir Nogatu (Trautmann  R.  Die  altpreussischen
@@ -990,7 +865,8 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
 - id: c-90804
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 53"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 53."
   citata_originali: |
     Manoma, kad žalvario amžiuje baltų arealas siekęs Oderio žemupį (Gimbutienė M.,
     Rytprūsių..., p. 13, 31 ir kt.; tos pačios, The Balts, p. 30—31, 63, 83). Prūsai V—VI a.
@@ -1028,9 +904,5 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
     - t-183122
 
 ## Ryšiai
-- Sąjungininkai: [[objektai/grupes/Lietuviai]]
-- Buvo užkariauta: [[objektai/grupes/Kalavijuočių ordinas]], [[objektai/grupes/Vokiečiai]]
-- Turėjo priklausinį: [[objektai/grupes/Bartai]], [[objektai/daiktai/Gyvatgalviai kapliai]], [[objektai/grupes/Jotvingiai]], [[objektai/grupes/Kuršiai]], [[objektai/grupes/Latviai]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Nadruviai]], [[objektai/grupes/Prūsai]], [[objektai/vietos/Romuva]], [[objektai/grupes/Sembai]], [[objektai/grupes/Skalviai]]
-- Baltai gynė [[objektai/grupes/Hunai]]
-- Baltai kariavo prieš [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Vokiečiai]]
-- Baltai gyveno [[objektai/vietos/Baltija]], [[objektai/vietos/Dauguva]], [[objektai/vietos/Desna]], [[objektai/vietos/Dniepras]], [[objektai/vietos/Maskva]], [[objektai/vietos/Nemuno-Dauguvos-Dniepro plotas]], [[objektai/vietos/Okos baseinai]], [[objektai/vietos/Vysla]]
+- Turėjo priklausinį: [[objektai/grupes/Bartai]], [[objektai/grupes/Latviai]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Prūsai]], [[objektai/grupes/Sembai]]
+- Baltai gyveno [[objektai/vietos/Baltija]], [[objektai/vietos/Nemuno-Dauguvos-Dniepro plotas]], [[objektai/vietos/Okos baseinai]]

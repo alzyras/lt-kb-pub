@@ -43,20 +43,6 @@ Pergalė jam buvo lemta ir tąsyk: du­ syk pakartotas žygis, nepaisant dideli�
 - t-001
   global_id: t-87910
   teiginys: "Pskovo pasiuntinys Joachimas Pavlovičius 1427 m. atvyko į Vilnių prašyti Vytauto paleisti belaisvius."
-  semantiniai_rysiai: "Joachimas Pavlovičius keliavo į Vilnius (0.95)"
-  temporaliniai_duomenys: "kelionės data: 1427 m.; kelionės data: 1429 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Joachimas Pavlovičius keliavo į Vilnius“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pagrindžia Joachimo Pavlovičiaus pasiuntinybę ir jos tikslą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "346051-346859; hash=eef3f0fea75d83131552b92921c7e05dc206e4e4e5a67f27c27b98f86f0a0c38; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Vilnius: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Joachimas Pavlovičius: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad Joachimas Pavlovičius atvyko į Vilnių."
   pagrindžia:
     - c-83889
 - susijęs iš Vilnius: 1427 m. po Vytauto žygių į Vilnių atvyko Pskovo pasiuntiniai Joachimas Pavlovičius ir Ivanas Sidorovičius.
@@ -81,8 +67,8 @@ Pergalė jam buvo lemta ir tąsyk: du­ syk pakartotas žygis, nepaisant dideli�
     250 rublių nepridėjo (1429 m.) per antrąkart atsiųstus: po-
     sadniką Silvestrą Levontjevičių ir vietininką Parfėjų81.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

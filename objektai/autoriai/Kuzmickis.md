@@ -32,9 +32,6 @@ Salio, ir kalbininkų Talmanto, Laurynaičio ir Kuzmickio straipsniai.
 - t-001
   global_id: t-96055
   teiginys: "Bendrinės kalbos žurnalo „Kalba“ pirmajame sąsiuvinyje buvo įdėtas kalbininko Kuzmickio straipsnis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "740563-740826; hash=0ded2c07460c673981b72d271f1ec6354add6e1b67cb7754bca44828920469fe; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-36671
 - susijęs iš [[objektai/autoriai/A. Salys.md#claim-t-12236|A. Salys]]: Dr. A. Salio straipsnis buvo įdėtas žurnalo „Kalba“ numeryje kartu su kitų autorių straipsniais.
@@ -51,8 +48,8 @@ Salio, ir kalbininkų Talmanto, Laurynaičio ir Kuzmickio straipsniai.
     Mykolaičio, Dr. Pr. Skardžiaus, Dr. A. Salio, ir kalbininkų Talmanto,
     Laurynaičio ir Kuzmickio straipsniai. Šio numerio kaina Lt. 3. —.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -30,12 +30,6 @@ Kojelavičius „barbarų barbaru“ pavadino žmogų, kurio pasitikėjimą sėk
 - t-001
   global_id: t-185475
   teiginys: "Kojelavičius „barbarų barbaru“ pavadino žmogų, kurio pasitikėjimą sėkme ir pasipūtėlišką išdidumą smerkė."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1118763-1119320; hash=6671334720e9d31cdda5ef7ec6a1aade1b312835c56f6b45767c3dd9be665321; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-168836
 ## Reikšmingi paminėjimai
@@ -60,8 +54,8 @@ Kojelavičius „barbarų barbaru“ pavadino žmogų, kurio pasitikėjimą sėk
     daryti su nelaisvėn paimtuoju karaliumi Žygimantu, ku­
     rį, be abejonės, jam netrukus sukaustytą atvešią.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

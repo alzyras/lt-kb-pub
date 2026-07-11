@@ -30,21 +30,6 @@ Teodoro Narbuto teigimu, italų Rytų senovės tyrinėtojas Ramusio įrodinėjo 
 - t-001
   global_id: t-191509
   teiginys: "Teodoro Narbuto teigimu, italų Rytų senovės tyrinėtojas Ramusio įrodinėjo asų, arba osetinų, giminystę su senovės alanais."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "115302-115694; hash=7a37295b118f0e300037ed422656f57dd75287b862cba04607ceeb44058902ec; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Dnepras: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ramusio: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Dnepras: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ramusio\" parinktas kaip owner_note_path. Targetas \"Dnepras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174391
 - susijęs iš [[objektai/asmenys/Džiovani Ramusio.md#claim-t-191389|Džiovani Ramusio]]: Džiovani Ramusio buvo 1482–1557 m. gyvenęs italų mokslininkas ir politikas, ilgalaikis pasiuntinys įvairiuose Europos karališkuosiuose dvaruose.
@@ -67,8 +52,8 @@ Teodoro Narbuto teigimu, italų Rytų senovės tyrinėtojas Ramusio įrodinėjo 
     apie sarmatą padermės tautą, gyvenusią tarp Dnepro ir
     Dauguvos, buvo 94 metais prieš Kristaus gimimą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

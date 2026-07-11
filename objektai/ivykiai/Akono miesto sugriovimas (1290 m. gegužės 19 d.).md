@@ -55,20 +55,6 @@ Nenurodyta
 - t-001
   global_id: t-62739
   teiginys: "1290 m. gegužės 19 d. sultonas sugriovė Akono miestą ir paėmė į nelaisvę bei išžudė daug krikščionių."
-  teiginio_tipas: "faktas"
-  temporaliniai_duomenys: "įvykio data: 1290 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys ir sutampa su citatos informacija."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "722104-722605; hash=670100bafa39055324f608cf079d9c39e226b85e4423e16263206aaa589e9dad; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Heraklijus: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Akono miesto sugriovimas (1290 m. gegužės 19 d.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Heraklijus: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Akono miesto sugriovimas (1290 m. gegužės 19 d.)\" parinktas kaip owner_note_path. Targetas \"Heraklijus\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-63511
     - c-63512
@@ -86,8 +72,8 @@ Nenurodyta
     buvo paėmęs iš viešpaties šventovės, parsigabeno, atstatė dievo bažnyčias ir sutvarkė
     šventąją žemę, kurią tas buvo nuniokojęs.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -103,8 +89,8 @@ Nenurodyta
     sugriovė Akono miestą ir paėmė į nelaisvę bei išžudė be galo daug krikščionių (Mart. p.
     421; Ptol. 24, 23, 24).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -115,7 +101,8 @@ Nenurodyta
 - id: c-63511
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 240"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 240."
   citata_originali: |
     1290 viešpaties metais, mergelės Potencianos dieną, tai yra gegužės 19, sultonas
     sugriovė Akono miestą ir paėmė į nelaisvę bei išžudė be galo daug krikščionių (Mart. p.
@@ -135,7 +122,8 @@ Nenurodyta
 - id: c-63512
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 240"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 240."
   citata_originali: |
     77. Apie Akono miesto sugriovimą
 

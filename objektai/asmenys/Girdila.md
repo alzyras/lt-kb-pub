@@ -42,17 +42,6 @@ Dusburgietis teigia, kad apie išdavystę, per kurią žuvo šimtas krikščioni
 - t-002
   global_id: t-60123
   teiginys: "Girdila su jam skirtais vyrais patraukė prie Aukaimio pilies, bet iš anksto įspėti pilies vyrai juos užpuolė."
-  semantiniai_rysiai: "Girdila keliavo į Aukaimis (0.88)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "547991-548484; hash=0bb56e8148bc9e7e417dbc3b122984ce96df13f30582b7cc012a46b554bdadb2; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Aukaimis: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Girdila: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Aukaimis: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citatoje nurodyta, kad Girdila patraukė prie Aukaimio pilies."
   pagrindžia:
     - c-60755
 
@@ -60,19 +49,6 @@ Dusburgietis teigia, kad apie išdavystę, per kurią žuvo šimtas krikščioni
 - t-001
   global_id: t-60124
   teiginys: "1285 m. skalvis Girdila, prieš atsivertimą gerbtas saviškių, pasigyrė galįs su šimtu ginkluotų vyrų pridaryti lietuviams žalos."
-  temporaliniai_duomenys: "įvykio data: 1285 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys buvo apkrautas antrašte ir boilerplate."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "547991-548484; hash=0bb56e8148bc9e7e417dbc3b122984ce96df13f30582b7cc012a46b554bdadb2; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Girdila: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=94"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Girdila\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-60755
 - susijęs iš [[objektai/asmenys/Skomantas.md#claim-t-184828|Skomantas]]: Skomantas ir Girdila buvo didikų kilmės vyrai, priėmę krikščionių tikėjimą ir pasitraukę pas kryžiuočius.
@@ -92,8 +68,8 @@ Dusburgietis teigia, kad apie išdavystę, per kurią žuvo šimtas krikščioni
     pilies521, tačiau šios pilies vyrai, išdaviko iš anksto įspėti, susibūrė į vieną vietą, staiga
     juos užpuolė ir nukovė visus, išskyrus kelis, kuriems pavyko pasprukti.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -105,7 +81,8 @@ Dusburgietis teigia, kad apie išdavystę, per kurią žuvo šimtas krikščioni
 - id: c-60755
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 174"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 174."
   citata_originali: |
     226 (221). Apie išdavystę, per kurią žuvo šimtas krikščionių
 

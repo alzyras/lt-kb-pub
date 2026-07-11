@@ -34,17 +34,6 @@ Dusburgietis teigia, kad kai Gedetas515, kilmingas ir atkaklus vyras, turėjęs 
 - t-001
   global_id: t-60285
   teiginys: "Kimenavos sūduvių vadas Gedetas su šeimyna ir tūkstančiu penkiais šimtais vyrų bei moterų pasitraukė pas brolius ir priėmė krikštą."
-  semantiniai_rysiai: "Gedetas valdė Kimenava (0.78)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "539209-539938; hash=939ba74f0ca114f18055646da18e7b3f9f705f10b11f40d780cd552966984fa5; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde -> Kimenava: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gedetas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kimenava: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Kadangi Gedetas vadinamas Kimenavos sūduvių vadu, tai rodo jo valdžią Kimenavoje."
   pagrindžia:
     - c-167452
 
@@ -52,17 +41,6 @@ Dusburgietis teigia, kad kai Gedetas515, kilmingas ir atkaklus vyras, turėjęs 
 - t-001
   global_id: t-60285
   teiginys: "Kimenavos sūduvių vadas Gedetas su šeimyna ir tūkstančiu penkiais šimtais vyrų bei moterų pasitraukė pas brolius ir priėmė krikštą."
-  semantiniai_rysiai: "Gedetas valdė Kimenava (0.78)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "539209-539938; hash=939ba74f0ca114f18055646da18e7b3f9f705f10b11f40d780cd552966984fa5; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde -> Kimenava: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gedetas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kimenava: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Kadangi Gedetas vadinamas Kimenavos sūduvių vadu, tai rodo jo valdžią Kimenavoje."
   pagrindžia:
     - c-167452
 - susijęs iš [[objektai/ivykiai/Gedeto ir 1500 sūduvių atsivertimas bei Skurdos pasitraukimas į Lietuvą.md#claim-t-89365|Gedeto ir 1500 sūduvių atsivertimas bei Skurdos pasitraukimas į Lietuvą]]: Kimenavos sūduvių vadas Gedetas su šeimyna ir 1500 vyrų bei moterų pasitraukė pas Ordino brolius ir priėmė krikštą.
@@ -85,8 +63,8 @@ Dusburgietis teigia, kad kai Gedetas515, kilmingas ir atkaklus vyras, turėjęs 
     kitos Sūduvos dalies vadas, paniekinęs tikėjimo malones, patraukė su savo žmonėmis į
     Lietuvos žemę, ir šitaip Sūduvos žemė po šiai dienai lieka negyvenama517.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -98,7 +76,8 @@ Dusburgietis teigia, kad kai Gedetas515, kilmingas ir atkaklus vyras, turėjęs 
 - id: c-167452
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 171"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 171."
   citata_originali: |
     Apie vieno Sūduvos kilmingojo ir tūkstančio penkių šimtų sūduvių atsiverti­
                    mą ir apie tai, kaip buvo apleista ši žemė
@@ -117,6 +96,3 @@ Dusburgietis teigia, kad kai Gedetas515, kilmingas ir atkaklus vyras, turėjęs 
   pagrindzia:
     - t-184067
     - t-60285
-
-## Ryšiai
-- Gedetas valdė [[objektai/vietos/Kimenava]]

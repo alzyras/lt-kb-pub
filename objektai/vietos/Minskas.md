@@ -52,16 +52,6 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
 - t-020
   global_id: t-180319
   teiginys: "Po Švitrigailos pabėgimo Zigmantui, be tikrosios Lietuvos, liko Palenkės, Pagirio ir Minsko žemės."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "355138-355696; hash=1c0bf08977e241b20a6c1f3902dbbfdc2d4078b4123e044de1f1d134497e0474; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Bobruiskas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Minskas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Bobruiskas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Minskas\" parinktas kaip owner_note_path. Targetas \"Bobruiskas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-163949
 
@@ -69,16 +59,6 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
 - t-018
   global_id: t-180320
   teiginys: "XII amžiuje, pakrikus Polocko kunigaikštijai, iš Minsko ir kitų jos miestų susidarė atskiros kunigaikštijos."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "92399-92636; hash=261386b5a5f07504c192dd6b496811c1733ef4e473d4917e9f0226301b0e133d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Minskas: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Aleksandras: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Minskas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Aleksandras įsikūrė Minske."
   pagrindžia:
     - c-163945
 
@@ -86,9 +66,6 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
 - t-021
   global_id: t-180329
   teiginys: "Per maištą užpultas Minskas, kaip ir Sluckas, nepasidavė."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "420674-421103; hash=cbc04e45064437d97d840a09178fb551a7c4e7a49ec6adc6a758fbae4a941549; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-163944
 
@@ -96,9 +73,6 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
 - t-023
   global_id: t-180322
   teiginys: "Minske įsteigta jėzuitų kolegija buvo kanclerio Martyno Oginskio ir K. Bžostausko fundacija."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "689807-690475; hash=8067db089f246b467b965cbdcbc93fb11aa2b7cfcdc95d5bc2bd6396860b3948; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-163953
 
@@ -106,17 +80,6 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
 - t-013
   global_id: t-180323
   teiginys: "Žygimanto privilegijoje Minskas minėtas tarp Lietuvos žemės vietų, kur Vilniaus miestiečiai galėjo gabenti prekes be muito."
-  semantiniai_rysiai: "Vilniaus miestiečių luomas prekiavo su Minskas (0.72)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "441401-441948; hash=e718386710e088128f379d4afb0ebcd76248f46bc464dfc426ab604b8bfaf98e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "prekiavo_su -> Minskas: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vilniaus miestiečių luomas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Minskas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citatoje Minskas nurodytas tarp vietų, kur Vilniaus miestiečiai galėjo gabenti prekes be muito."
   pagrindžia:
     - c-163947
 
@@ -124,16 +87,6 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
 - t-011
   global_id: t-180324
   teiginys: "Baziliaus Serebriano ir Petro Šuiskio vadovaujamos pajėgos turėjo susijungti Drucke ir pulti Minsko, Naugarduko bei Vilniaus kryptimi."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "350704-351200; hash=16766f13c5afcc8ecb0055de1ab964dad4ebb89e282a6d22187a4e8c94611976; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Naugardukas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Minskas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Naugardukas: mention_match, place, gap=8"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Minskas\" parinktas kaip owner_note_path. Targetas \"Naugardukas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-43646
 
@@ -141,16 +94,6 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
 - t-024
   global_id: t-180326
   teiginys: "XII a. iš Polocko kunigaikštijos miestų, tarp jų Minsko, susidarė atskiros kunigaikštijos."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "92486-92815; hash=69f29e16aee64178241c21c13661a7e1f5f229b4d360dbfa89c763be2da7f510; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Polockas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Minskas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Polockas: mention_match, place, gap=39"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Minskas\" parinktas kaip owner_note_path. Targetas \"Polockas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-163948
 
@@ -158,17 +101,6 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
 - t-010
   global_id: t-180328
   teiginys: "Į Lietuvą įsiveržusi totorių kariuomenė užėmė Minską ir kitas vietoves, tarp jų Borisovą, Zaslavlį, Krėvą, Lydą, Vilnių ir Trakus."
-  semantiniai_rysiai: "Totoriai užėmė Minskas (0.94); Totoriai puolė Lietuva (0.90); Totoriai užėmė Vilnius (0.90); Totoriai užėmė Trakai (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "273301-273860; hash=7968aeb67cb6f12d54193bb1b204494388dfabc75da91c697ca41e42e931e850; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Minskas: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Totoriai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Minskas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad totorių kariuomenė užėmė Minską."
   pagrindžia:
     - c-163950
 
@@ -176,9 +108,6 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
 - t-021
   global_id: t-180329
   teiginys: "Per maištą užpultas Minskas, kaip ir Sluckas, nepasidavė."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "420674-421103; hash=cbc04e45064437d97d840a09178fb551a7c4e7a49ec6adc6a758fbae4a941549; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-163944
 
@@ -186,20 +115,6 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
 - t-012
   global_id: t-180330
   teiginys: "Nors Lietuvos kariuomenė 1654-1655 m. kiek galėdama stabdė rusų veržimąsi, 1655 m. pavasarį Rusijos kariuomenė užėmė Minską, o liepą lietuvius prie Ašmenos sumušę, rusai ir jų sąjungininkai kazokai priartėjo prie Vilniaus."
-  semantiniai_rysiai: "Rusijos kariuomenė užėmė Minskas (0.96); Kazokai buvo sąjungininkas su Rusai (0.90); Rusai puolė Vilnius (0.66)"
-  temporaliniai_duomenys: "įvykio data: 1654 m.; įvykio data: 1654-1655; įvykio data: 1655 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys gramatiškas, išsamus ir tiksliai perteikia citatos faktus apie Minską."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "518169-518588; hash=acb05ea31f59913f7dcdcc823e9c50aefc4c3c4e51ca48812d5c1babf59898a8; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Minskas: 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Rusijos kariuomenė: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Minskas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Rusijos kariuomenė užėmė Minską."
   pagrindžia:
     - c-163956
 
@@ -207,16 +122,6 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
 - t-018
   global_id: t-180320
   teiginys: "XII amžiuje, pakrikus Polocko kunigaikštijai, iš Minsko ir kitų jos miestų susidarė atskiros kunigaikštijos."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "92399-92636; hash=261386b5a5f07504c192dd6b496811c1733ef4e473d4917e9f0226301b0e133d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Minskas: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Aleksandras: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Minskas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Aleksandras įsikūrė Minske."
   pagrindžia:
     - c-163945
 
@@ -224,17 +129,6 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
 - t-016
   global_id: t-180332
   teiginys: "Rytiniame lietuvių etnografinės sienos pakraštyje Minskas minimas tarp paskutinių rytinių slavų pilių."
-  semantiniai_rysiai: "Minskas priklausė Slavai (0.76)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "92399-92636; hash=261386b5a5f07504c192dd6b496811c1733ef4e473d4917e9f0226301b0e133d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Slavai: 0.76"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Minskas: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Slavai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Minskas įvardytas tarp paskutinių rytinių slavų pilių."
   pagrindžia:
     - c-163943
 
@@ -242,20 +136,6 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
 - t-014
   global_id: t-180333
   teiginys: "1506 m. totoriai nusiaubė Slucko ir Minsko apylinkes ir pradėjo taikytis į Vilnių."
-  semantiniai_rysiai: "Totoriai puolė Minskas (0.82); Totoriai puolė Sluckas (0.82); Totoriai puolė Vilnius (0.67)"
-  temporaliniai_duomenys: "įvykio data: 1506 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys sutrumpintas iki citata pagrįsto fakto apie Minsko apylinkes."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "471762-472295; hash=488f01d148180550914746e8b0670135b5d50ed79f5e8f1d537060644f7e7bb1; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Minskas: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Totoriai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Minskas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginyje totoriai nusiaubė Minsko apylinkes, tai tiesiogiai rodo karinį puolimą prieš šią vietovę."
   pagrindžia:
     - c-163951
 
@@ -263,19 +143,6 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
 - t-017
   global_id: t-185048
   teiginys: "Aleksandras su pagrindinėmis jėgomis lėtai sekė Konstantino Ostrogiškio dalinius, stabtelėdamas Minske ir Borisove."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "92486-92815; hash=69f29e16aee64178241c21c13661a7e1f5f229b4d360dbfa89c763be2da7f510; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "siunte_i -> Smolenskas: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Aleksandras: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Smolenskas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Aleksandras pasiuntė dalinius į Smolenską."
   pagrindžia:
     - c-168409
 
@@ -283,19 +150,6 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
 - t-018
   global_id: t-185049
   teiginys: "Maskvėnams apsupus Smolenską, Aleksandras įsikūrė Minske, kad iš arti vadovautų kariuomenei kilus karui."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "355138-355696; hash=1c0bf08977e241b20a6c1f3902dbbfdc2d4078b4123e044de1f1d134497e0474; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Minskas: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Aleksandras: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Minskas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Aleksandras įsikūrė Minske."
   pagrindžia:
     - c-168410
 
@@ -303,24 +157,6 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
 - t-019
   global_id: t-185050
   teiginys: "Mechmetas Girėjus nužygiavo iki Minsko, nuniokojo kraštą, sudegino miestą ir neapgulė pilies."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1535 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sutrumpinta ir sustiprinta enciklopedinė forma."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "420674-421103; hash=cbc04e45064437d97d840a09178fb551a7c4e7a49ec6adc6a758fbae4a941549; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Minskas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Minskas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-168411
 
@@ -328,19 +164,6 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
 - t-020
   global_id: t-185051
   teiginys: "Po priešo niokojamo antpuolio Minske ir kituose miestuose kilo maras."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "689807-690475; hash=8067db089f246b467b965cbdcbc93fb11aa2b7cfcdc95d5bc2bd6396860b3948; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Bobruiskas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Minskas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Bobruiskas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Minskas\" parinktas kaip owner_note_path. Targetas \"Bobruiskas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-168412
 - susijęs iš [[objektai/autoriai/Eduardas Eichvaldas.md#claim-t-191622|Eduardas Eichvaldas]]: Eduardo Eichvaldo hipotezėje Darijus žygiavo kairiuoju Dnestro krantu į šiaurę iki Voluinės, Minsko ir Lietuvos gubernijų.
@@ -468,8 +291,8 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
     nurodyta suvežti atsargas, kurių kariuome-
     nei turėjo pakakti net pusei metų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -487,8 +310,8 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
     Paskutinės rytinių slavų pilys čia buvo Lohajskas, Gorodecas,
     Minskas, Zaslavlis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -510,8 +333,8 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
     sritys prie jo maišto neprisidėjo; jam tepasisekė užimti tik Mo-
     zyrių ir Turovą, o užpultieji Sluckas ir Minskas jam nepasidavė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -528,8 +351,8 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
     Smolensko, Vitebsko, Minsko, Černigovo, susidarė atskiros ku-
     nigaikštijos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -554,8 +377,8 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
     laiške, datuotame 1432 metų rugpjū­
     čio 19 d. Ind.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -572,8 +395,8 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
     pradžioje jie ne tik nebemokėjo jokių duoklių Polockui, bet net
     paėmė į savo valdžią kai kurias jo valdytas kunigaikštijėles.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -594,8 +417,8 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
     mantui, paskelbtam didžiuoju kunigaikščiu, be tikrosios Lietu-
     vos, liko tiktai Palenkės, Pagirio ir Minsko žemės.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -639,8 +462,8 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
 
     priversdamas priešą badauti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -661,8 +484,8 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
     vyskupo Vaitiekaus Taboro, visą miestą apjuosė mūro py­
     limu, išmetę medinius statinius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -686,8 +509,8 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
     kiuose (Minkevičių f-ja), Brastoje (vicekanclerio L. K. Sa-
     piegos f-ja).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -704,8 +527,8 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
     lietuvius prie Ašmenos sumušę, rusai ir jų sąjungininkai kazokai
     priartėjo prie Vilniaus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -733,8 +556,8 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
     risove. Žymiausi luomų vadovai, garsūs pareigomis ir
     didžiomis privilegijomis, nuskubėjo pas Ostrogiškį.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -758,8 +581,8 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
     karas. Rudens pradžioje į stovyklą atvyko ir rotmist­
     ras Černinas su čekų bei vokiečių algininkais.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -782,8 +605,8 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
     ir Vitebsko žemes, niekur nesutikdamas pasipriešini­
     mo, ir sugrįžo atgal su didžiausiu grobiu.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -802,8 +625,8 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
     žygiai į Lietuvos gilumą paskatino luomus geriau su­
     tvirtinti Vilnių.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1086,7 +909,8 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
 - id: c-168409
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 558"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 558."
   citata_originali: |
     Aleksandras, praradęs bet kokias vil­
     tis susitaikyti, nenoromis griebėsi ginklų. Jis pasiuntė
@@ -1115,7 +939,8 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
 - id: c-168410
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 563"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 563."
   citata_originali: |
     Mat va­
     saros pabaigoje Ivano sūnus Dimitrijus Žilka, perėjęs
@@ -1140,7 +965,8 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
 - id: c-168411
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 583"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 583."
   citata_originali: |
     Vaivada Goštautas, pilies seniūnas
     Maskevičius, Jonas Trizna, Nemyra ir kiti karvedžiai
@@ -1164,7 +990,8 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
 - id: c-168412
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 583"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 583."
   citata_originali: |
     Žmonės pa­
     sakojo, kad šimtą tūkstančių žmonių, jaunų ir stiprių,
@@ -1182,8 +1009,4 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
     - t-185051
 
 ## Ryšiai
-- Puolė Minską: [[objektai/grupes/Maskvėnai]], [[objektai/asmenys/Mechmet Girėjus]], [[objektai/grupes/Totoriai]]
 - Užėmė Minską: [[objektai/grupes/Rusijos kariuomenė]], [[objektai/grupes/Totoriai]]
-- Buvo žygio kryptis: [[objektai/asmenys/A. N. Trubeckojus]], [[objektai/asmenys/Darijus]]
-- Prekiavo su: [[objektai/grupes/Vilniaus miestiečių luomas]]
-- Minskas priklausė [[objektai/grupes/Slavai]]

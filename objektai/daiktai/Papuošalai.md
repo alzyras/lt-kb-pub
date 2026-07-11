@@ -61,16 +61,6 @@ Nenurodyta
 - t-002
   global_id: t-47814
   teiginys: "Kapinynuose aptiktų apyrankių ir kitų papuošalų ornamentai buvo giminingi lietuvių kaimo audinių ir juostų raštams."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "301271-301582; hash=01b5115f62132221e54fa05746f4a4f9e44f12564cafd49a5b628d7d35714e01; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
-  ryšio_patikimumas: "susije_su -> Kaimas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Papuošalai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Kaimas: mention_match, place, gap=45"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Papuošalai\" parinktas kaip owner_note_path. Targetas \"Kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-31009
 
@@ -78,16 +68,6 @@ Nenurodyta
 - t-002
   global_id: t-47814
   teiginys: "Kapinynuose aptiktų apyrankių ir kitų papuošalų ornamentai buvo giminingi lietuvių kaimo audinių ir juostų raštams."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "301271-301582; hash=01b5115f62132221e54fa05746f4a4f9e44f12564cafd49a5b628d7d35714e01; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
-  ryšio_patikimumas: "susije_su -> Kaimas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Papuošalai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Kaimas: mention_match, place, gap=45"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Papuošalai\" parinktas kaip owner_note_path. Targetas \"Kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-31009
 
@@ -95,16 +75,6 @@ Nenurodyta
 - t-001
   global_id: t-47816
   teiginys: "Kai kurių papuošalų prototipai yra randami dar prieškristiniais laikais keltų plotuose."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "294761-295105; hash=5e020bb162ceabe61472e1e73ec5d16e7d4247a250de2113a0b22e9516d19d51; match=whitespace_regex"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
-  ryšio_patikimumas: "susije_su -> Baltai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Papuošalai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Baltai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Papuošalai\" parinktas kaip owner_note_path. Targetas \"Baltai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-05245
 - susijęs iš [[objektai/daiktai/Brangenybės, auksas, sidabras ir papuošalai.md#claim-t-192493|Brangenybės, auksas, sidabras ir papuošalai]]: Narbutas rašo, kad kasinėjant netoli Elbliongo aptikta aukso, sidabro, auksuotų metalų papuošalų ir dažytų vėrinių.
@@ -133,8 +103,8 @@ Nenurodyta
     formomis. Ypač vakarų Lietuva, kuri daugiau turėjo kaimyninių
     ryšių, buvo ryškesnė medžiaginės kultūros skatintoja.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -150,8 +120,8 @@ Nenurodyta
     papuošalų ornamentai yra tiesioginiai giminingi lietuvių kaimo
     audinių ir juostų raštams.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

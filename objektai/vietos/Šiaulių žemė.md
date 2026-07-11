@@ -40,20 +40,6 @@ as Šia 1358 m. Livonijos ordinas įsiveržė į Šiaulių žemę, sugriovė „
 - t-001
   global_id: t-42367
   teiginys: "1358 m. Livonijos ordinas įsiveržė į Šiaulių žemę ir sugriovė Dubysos pilį, kur, Hermano Vartbergiškio liudijimu, žuvo šimtas gynėjų."
-  semantiniai_rysiai: "Livonijos ordinas puolė Šiaulių žemė (0.95)"
-  temporaliniai_duomenys: "įvykio data: 1358 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sakinys yra išsamus, gramatiškas ir tiesiogiai paremtas citata apie įsiveržimą į Šiaulių žemę."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "148287-148570; hash=75e999121046b37a093ebed464d15194a3fcea189d35c42d9fc8bc87d17edc5a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Šiaulių žemė: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Livonijos ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Šiaulių žemė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginyje tiesiogiai pasakyta, kad Livonijos ordinas įsiveržė į Šiaulių žemę."
   pagrindžia:
     - c-44080
 ## Reikšmingi paminėjimai
@@ -72,8 +58,8 @@ as Šia 1358 m. Livonijos ordinas įsiveržė į Šiaulių žemę, sugriovė „
     Livonijos magistrai iš dviejų pusių puolė
     Žemaitiją, padarydami daug žalos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

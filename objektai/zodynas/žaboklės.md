@@ -30,12 +30,6 @@ Mat Algirdas ir Kęs tutis, suprasdami, jog ši prie pat Kauno esanti pilis — 
 - t-001
   global_id: t-193464
   teiginys: "Mat Algirdas ir Kęs tutis, suprasdami, jog ši prie pat Kauno esanti pilis — nelyginant žaboklės, uždėtos A lg ird a s su griau n a Lietuvai, nutarė trūks plyš k ry žiu o č ių p ilį ją sunaikinti ir po ištisas penkias savaites užtrukusių atkaklių antpuolių."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "435055-435663; hash=5a69efec3c3a0febcbdd9ad0f718eb97f98b27b03c588ab4fe828d79311871d0; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176169
 ## Reikšmingi paminėjimai
@@ -62,8 +56,8 @@ Mat Algirdas ir Kęs tutis, suprasdami, jog ši prie pat Kauno esanti pilis — 
     atkaklių antpuolių galop ją užėmė ir sugriovė ligi pa­
     matų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -74,7 +68,8 @@ Mat Algirdas ir Kęs tutis, suprasdami, jog ši prie pat Kauno esanti pilis — 
 - id: c-176169
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 249"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 249."
   citata_originali: |
     Su­
     grįžęs po to į Prūsiją, paragino maršalą Šindekopfą, ne­

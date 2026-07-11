@@ -30,21 +30,6 @@ Teodoras Narbutas rėmėsi Gartnerio veikalu „De fructibus et seminibus planta
 - t-001
   global_id: t-191672
   teiginys: "Teodoras Narbutas rėmėsi Gartnerio veikalu „De fructibus et seminibus plantarum“, aiškindamas prūsiškos palmės vaisiaus kilmę."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "610138-610519; hash=4fc45c8deb5a11a274a52d7239768eb9e0c8359214eb0ce241f0379b424d345f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Phyllantus Emblica: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gartneris: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Phyllantus Emblica: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gartneris\" parinktas kaip owner_note_path. Targetas \"Phyllantus Emblica\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174554
 ## Reikšmingi paminėjimai
@@ -61,8 +46,8 @@ Teodoras Narbutas rėmėsi Gartnerio veikalu „De fructibus et seminibus planta
     dar reikia pridurti, kad šis medis užauga vos 40 pėdų
     aukščio, o prūsiška palmė buvo du kartus aukštesnė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -73,7 +58,8 @@ Teodoras Narbutas rėmėsi Gartnerio veikalu „De fructibus et seminibus planta
 - id: c-174554
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 339"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 339."
   citata_originali: |
     Tokia yra tikroji padėtis. Galima būtų stebėtis, jei
     karšto klimato medis Phyllantus Emblica būtų atsidū­

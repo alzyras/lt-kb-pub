@@ -57,19 +57,6 @@ Nenurodyta
 - t-002
   global_id: t-59350
   teiginys: "Per 1218 m. žygį Kristijonas greičiausiai sudarė sutartį su Mazovijos kunigaikščiu Konradu ir gavo iš jo naujų valdų."
-  temporaliniai_duomenys: "įvykio data: 1218 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Reikia sklandesnės formuluotės ir aiškesnio veiksmo laiko, išlaikant citatos atsargumą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "131390-131643; hash=660952f5e68a8ea5fcff4810416c83a438cc418ccf555c1f1e9a2e6a748da2a9; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kristijonas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kristijono kryžiaus žygio įteisinimas ir įvykdymas: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Kristijonas: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kristijono kryžiaus žygio įteisinimas ir įvykdymas\" parinktas kaip owner_note_path. Targetas \"Kristijonas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-59983
 
@@ -77,19 +64,6 @@ Nenurodyta
 - t-001
   global_id: t-59351
   teiginys: "Popiežius 1217 m. kovo 3 d. leido Kristijonui organizuoti kryžiaus žygį į kitas Prūsijos žemes."
-  temporaliniai_duomenys: "įvykio data: 1217 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys, tiksliai perteikiantis cituojamą popiežiaus leidimą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "131245-131389; hash=b3cc0243b27d65df3d5532c9771ecbe5cc516ef11432059920e2891525c12455; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kristijonas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kristijono kryžiaus žygio įteisinimas ir įvykdymas: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Kristijonas: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kristijono kryžiaus žygio įteisinimas ir įvykdymas\" parinktas kaip owner_note_path. Targetas \"Kristijonas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-59982
 ## Reikšmingi paminėjimai
@@ -101,8 +75,8 @@ Nenurodyta
     Popiežius 1217.III.3 leido Kristijonui organizuoti
     kryžiaus žygį į kitas Prūsijos žemes (PUB, 1, 1, Nr. 15; Pakarklis P. Kryžiuočių..., p. 205).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -116,8 +90,8 @@ Nenurodyta
     kunigaikščiu Konradu, iš kurio gavo naujų vaidų (PUB, 1, 1, Nr. 32; Szacherska S. M.
     Pierwsi protektorzy...; HP, 1, 1, p. 425—427; Powierski J. Stosunki..., p. 134—152).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -128,7 +102,8 @@ Nenurodyta
 - id: c-59982
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 42"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 42."
   citata_originali: |
     Popiežius 1217.III.3 leido Kristijonui organizuoti
     kryžiaus žygį į kitas Prūsijos žemes (PUB, 1, 1, Nr. 15; Pakarklis P. Kryžiuočių..., p. 205).
@@ -142,7 +117,8 @@ Nenurodyta
 - id: c-59983
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 42"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 42."
   citata_originali: |
     Žygis įvyko 1218 m. Žygio metu Kristijonas greičiausiai sudarė sutartį su Mazovijos
     kunigaikščiu Konradu, iš kurio gavo naujų vaidų (PUB, 1, 1, Nr. 32; Szacherska S. M.

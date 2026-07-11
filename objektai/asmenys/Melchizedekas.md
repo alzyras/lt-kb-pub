@@ -34,16 +34,6 @@ Dusburgietis teigia, kad štai ir senajame testamente (Pr 14) skaitome, kad didy
 - t-001
   global_id: t-60387
   teiginys: "Dusburgiečio pateiktame Pradžios knygos epizode karalius ir kunigas Melchizedekas Abraomui padovanojo duonos ir vyno."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "115564-116339; hash=8faa4a7dd9ce7aecb69600a3aa6764dec76b75cc9c4663533ac3ccc6f835c48a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Abraomas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Melchizedekas (kunigas): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Abraomas: mention_match, person, gap=14"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Melchizedekas (kunigas)\" parinktas kaip owner_note_path. Targetas \"Abraomas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-61019
 - susijęs iš [[objektai/asmenys/Abraomas.md#claim-t-60226|Abraomas]]: Abraomas su 318 tarnų kovojo dėl savo dievobaimingo brolio laisvės ir nekalto kalinio sugrąžinimo.
@@ -64,8 +54,8 @@ Dusburgietis teigia, kad štai ir senajame testamente (Pr 14) skaitome, kad didy
     duonos ir vyno, aukai skiriamą dovaną, palaimintą aukščiausiojo dievo, kuriam globojant
     priešai atsidūrė jo rankose.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -76,7 +66,8 @@ Dusburgietis teigia, kad štai ir senajame testamente (Pr 14) skaitome, kad didy
 - id: c-61019
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 38"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 38."
   citata_originali: |
     Tu sodinai jo daigus,  ir jis
     iškerojo žemėje, tu vėliau  jį persodinai ir išvijai stabmeldžius [gentes] iš Prūsijos bei

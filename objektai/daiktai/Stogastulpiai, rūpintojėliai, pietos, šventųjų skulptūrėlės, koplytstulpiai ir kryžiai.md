@@ -53,14 +53,6 @@ Nenurodyta
 - t-001
   global_id: t-193686
   teiginys: "Su baroku susiję didieji liaudies meno reiškiniai – stogastulpiai su rūpintojėliais, pietomis ir šventųjų skulptūrėlėmis."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "150942-151568; hash=5a96f464e8f5ef6c4bc7db234aaaab181182be3400ce8a3d7120d251dc0838f5; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-176355
 ## Reikšmingi paminėjimai
@@ -79,8 +71,8 @@ Nenurodyta
     „šventasis peizažas“, organiškai pritapęs prie natūralios aplinkos, o kryždir-
     bystė išliko vienas svarbiausių lietuvių liaudies meno atpažinimo ženklų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -33,17 +33,6 @@ media_all_json: |-
 - t-001
   global_id: t-02535
   teiginys: "Štumdorfo taika Lietuvai ir Lenkijai grąžino tik Latgalą, o didžioji Livonijos dalis su Ryga liko Švedijai."
-  semantiniai_rysiai: "Ryga priklausė Švedija (0.88); Latgala priklausė Lietuva (0.82); Latgala priklausė Lenkija (0.82)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "681260-681454; hash=b67ccd487df33393b8483d4add2cc132366215333bed36f2823b5f6d162c67fe; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Švedija: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Ryga: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Švedija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Ryga liko Švedijai."
   pagrindžia:
     - c-02773
 
@@ -51,21 +40,6 @@ media_all_json: |-
 - t-002
   global_id: t-187592
   teiginys: "Lietuvos metraštis pasakoja, kad Gimbutas, radęs nuniokotą Žemaitiją, nužygiavo į Latgalą, ją sunaikino ir parsivarė belaisvių."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "77241-77786; hash=b370bd2f6a25ce32fd95662629616afeadb603787be209456a7b5df548a5f4a3; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kernius: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Latgala: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kernius: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Latgala\" parinktas kaip owner_note_path. Targetas \"Kernius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-170539
 - susijęs iš Bartos žemė: Lietuva siekė atgauti Bartą, Nadruvą, Sembą, Kuršą, Žiemgalą, Latgalą ir Baltijos pajūrį tarp Priegliaus ir Dauguvos.
@@ -81,8 +55,8 @@ media_all_json: |-
     jos dalis su Ryga liko Švedijai; Štumdorfo taika (žiūr. 318 psl.)
     tebuvo atgauta tik viena Latgala.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -104,8 +78,8 @@ media_all_json: |-
     maičius. Ir, pavertęs jų žemę tyrais, sugrįžo į Žemai­
     tiją 3 .
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -152,6 +126,3 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187592
-
-## Ryšiai
-- Latgala priklausė [[objektai/vietos/Lenkija]], [[objektai/vietos/Lietuva]]

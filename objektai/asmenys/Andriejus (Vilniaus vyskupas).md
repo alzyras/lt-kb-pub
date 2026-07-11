@@ -43,18 +43,6 @@ Rodos, kad Jogaila su Vytautu ir Vilniaus vysk.
 - t-001
   global_id: t-35025
   teiginys: "Vilniaus vyskupas Andriejus su Jogaila ir Vytautu, rodos, susitarė sudaryti taiką su Ordinu."
-  temporaliniai_duomenys: "sutarties data: 1397 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "412671-412918; hash=03d680c1203192ea37efc8235dc7b9a7cd75707938b16746f3117025c8f73d93; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Andriejus: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Andriejus (Vilniaus vyskupas): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Andriejus: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Andriejus (Vilniaus vyskupas)\" parinktas kaip owner_note_path. Targetas \"Andriejus\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-37982
 ## Reikšmingi paminėjimai
@@ -68,8 +56,8 @@ Rodos, kad Jogaila su Vytautu ir Vilniaus vysk.
     daryti ir taiką su Ord., su kuriuo tų metų pradžioj buvo padarytos
     ginklų paliaubos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

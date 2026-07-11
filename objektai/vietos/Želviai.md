@@ -32,9 +32,6 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
 - t-001
   global_id: t-02937
   teiginys: "Želviuose buvo įkurta pijarų mokykla."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "694087-694590; hash=182928735167e0c15844642f4db1122934a71f940475c4265611acaa62c3ba8f; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-03175
 
@@ -42,9 +39,6 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
 - t-001
   global_id: t-02937
   teiginys: "Želviuose buvo įkurta pijarų mokykla."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "694087-694590; hash=182928735167e0c15844642f4db1122934a71f940475c4265611acaa62c3ba8f; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-03175
 
@@ -52,12 +46,6 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
 - t-003
   global_id: t-193263
   teiginys: "Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — buvo įkurtos šiose vietose: Vilniuje, Geranainyse, Dambravicoje, Blotnoje, Naujajam Dolske, Ščucine, Panevėžy, Verenavoj, Ukmergėje, Raseiniuose, Valeranavoj, Vitebske, Želviuose ir dar."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "694087-694590; hash=182928735167e0c15844642f4db1122934a71f940475c4265611acaa62c3ba8f; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-03175
 - susijęs iš [[objektai/grupes/Pijarų ordinas.md#claim-t-72605|Pijarų ordinas]]: Pijarų ordinas turėjo pilnų kolegijų ir žemesniųjų mokyklų Vilniuje, Panevėžyje, Ukmergėje, Raseiniuose, Vitebske ir kitose vietose.
@@ -88,8 +76,8 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
     Dolske, Ščucine, Panevėžy, Verenavoj, Ukmergėje, Raseiniuose, Va-
     leranavoj, Vitebske, Želviuose ir dar vienur kitur.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -121,6 +109,3 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
     - t-02937
     - t-183116
     - t-193263
-
-## Ryšiai
-- Gyvenamoji vieta: [[objektai/grupes/Pijarų ordinas]]

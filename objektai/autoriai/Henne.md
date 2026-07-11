@@ -38,12 +38,6 @@ Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap dovanojamas, žinome i�
 - t-001
   global_id: t-194978
   teiginys: "Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap dovanojamas, žinome iš vieno laiško, parašyto keliavusio kartu su Vytautu juokdario Henne Vokiečių Ordino Magistrui^1 )."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "351982-352346; hash=504500f351403b5cc88729b3aa341f1a7ffcfa914cd72f44d7640137ff9a6bf7; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177364
 
@@ -51,12 +45,6 @@ Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap dovanojamas, žinome i�
 - t-002
   global_id: t-194979
   teiginys: "Jau minėtas vokietis Henne rašė Ordino ma gistrui, kad totorių pinigai būdavo su Vytauto Didžiojo atvaizdu."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "358855-359314; hash=f999ba083b4310a5440fba5b90b4fe7ae0ff808c3fe427e43ceb3226ea912a13; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177365
 ## Reikšmingi paminėjimai
@@ -74,8 +62,8 @@ Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap dovanojamas, žinome i�
     kunigaikštį, tai jis kelionėje iš Trakų į Smolenską ilsėjosi jau
     ketvirtą kartą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -94,8 +82,8 @@ Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap dovanojamas, žinome i�
     gyventojus, kurie nuo Aukso Ordos įkūrimo laikų (1273) vargi­
     no rusus duoklėmis ir baidė Europą^2 ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

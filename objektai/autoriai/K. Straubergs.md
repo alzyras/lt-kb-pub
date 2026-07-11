@@ -41,11 +41,6 @@ Straubergs, K.
 - t-001
   global_id: t-30752
   teiginys: "K. Straubergs 1948 m. paskelbė darbą „Latvju sakrālā pasaule“."
-  temporaliniai_duomenys: "įvykio data: 1948 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "416276-416516; hash=296b4d82581b4d2b063435b2d07d45a6a4179b5d3beab891d88de01dc13b5fdc; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-33000
 ## Reikšmingi paminėjimai
@@ -58,8 +53,8 @@ Straubergs, K.
     *1926. — Šturms, Ed. : _Die Alkstätten in Litauen_ , Contributions of Baltic
     University, nr. 3, Hamburg 1946 (žr. A. Mažiulis, rec.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -38,14 +38,6 @@ Hartknochas kaip įrodymą nurodo Grigaliaus IX laiškus, paskelbtus Odoricum Ra
 - t-001
   global_id: t-190445
   teiginys: "Hartknochas kaip įrodymą nurodo Grigaliaus IX laiškus, paskelbtus Odoricum Raynaldum „Annales ecclesiasticae“."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "559517-559700; hash=3fc267e3f4eb522d1eb90304ff93d52f68b49e6e8107767c30752d08d97555b7; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173328
 ## Reikšmingi paminėjimai
@@ -60,8 +52,8 @@ Hartknochas kaip įrodymą nurodo Grigaliaus IX laiškus, paskelbtus Odoricum Ra
     // Apud Odoricum Raynaldum. Annales ecclesiasticae. -  Ad annum
     1232. -  Nr. 7.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -72,7 +64,8 @@ Hartknochas kaip įrodymą nurodo Grigaliaus IX laiškus, paskelbtus Odoricum Ra
 - id: c-173328
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 318"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 318."
   citata_originali: |
     Kad nuramintume žmoniškumo gynėjus, turime
     16

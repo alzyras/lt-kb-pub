@@ -41,17 +41,6 @@ Tačiau šio karaliaus val­ dymo saulėlydyje, 1571 metais, baisus badas nuo pu
 - t-001
   global_id: t-86168
   teiginys: "Aragone esančiame Alkaniso mieste gimė teisininkas Petrus Maureus Royzius."
-  semantiniai_rysiai: "Alkanisas priklausė Aragonas (0.88)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "575027-575655; hash=b17850dd9682c4105e8364c31b628dd10e147b997edb9215ae5211bbb383228f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Aragonas: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Alkanisas: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Aragonas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citatoje Alkaniso miestas aiškiai lokalizuotas Aragone."
   pagrindžia:
     - c-82147
 - susijęs iš [[objektai/asmenys/Petras Roizijus.md#claim-t-87829|Petras Roizijus]]: Petras Roizijus buvo iš Aragono kilęs teisininkas, LDK miesto reikalų referendorius ir Vilniaus katedros kustodas.
@@ -87,8 +76,8 @@ Tačiau šio karaliaus val­ dymo saulėlydyje, 1571 metais, baisus badas nuo pu
     miesto reikalų referendorius ir Vil­
     niaus katedros kustodas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -123,7 +112,3 @@ Tačiau šio karaliaus val­ dymo saulėlydyje, 1571 metais, baisus badas nuo pu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86168
-
-## Ryšiai
-- Gimimo vieta: [[objektai/asmenys/Petras Roizijus]]
-- Turėjo priklausinį: [[objektai/vietos/Alkanisas]]

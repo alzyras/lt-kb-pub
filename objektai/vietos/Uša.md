@@ -32,17 +32,6 @@ Uša yra pietinis kairysis Nemuno aukštupio intakas. Uša išteka apie 20 km į
 - t-002
   global_id: t-187372
   teiginys: "Uša išteka apie 20 km į šiaurę nuo Klecko ir teka pro Nesvyžių."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "660799-661160; hash=d32c05e7cda1d7f951b02d59f9a157689eb0e35ec6f2de62186846d81ab2a424; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  ryšio_patikimumas: "susije_su -> Nesvyžius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Uša: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Nesvyžius: mention_match, place, gap=54"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Uša\" parinktas kaip owner_note_path. Targetas \"Nesvyžius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-170382
 
@@ -50,17 +39,6 @@ Uša yra pietinis kairysis Nemuno aukštupio intakas. Uša išteka apie 20 km į
 - t-001
   global_id: t-187375
   teiginys: "Uša yra pietinis kairysis Nemuno aukštupio intakas."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "660799-661160; hash=d32c05e7cda1d7f951b02d59f9a157689eb0e35ec6f2de62186846d81ab2a424; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  ryšio_patikimumas: "susije_su -> Nemunas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Uša: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Nemunas: mention_match, place, gap=26"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Uša\" parinktas kaip owner_note_path. Targetas \"Nemunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-170382
 
@@ -68,17 +46,6 @@ Uša yra pietinis kairysis Nemuno aukštupio intakas. Uša išteka apie 20 km į
 - t-002
   global_id: t-187372
   teiginys: "Uša išteka apie 20 km į šiaurę nuo Klecko ir teka pro Nesvyžių."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "660799-661160; hash=d32c05e7cda1d7f951b02d59f9a157689eb0e35ec6f2de62186846d81ab2a424; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  ryšio_patikimumas: "susije_su -> Nesvyžius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Uša: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Nesvyžius: mention_match, place, gap=54"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Uša\" parinktas kaip owner_note_path. Targetas \"Nesvyžius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-170382
 
@@ -86,19 +53,6 @@ Uša yra pietinis kairysis Nemuno aukštupio intakas. Uša išteka apie 20 km į
 - t-003
   global_id: t-187374
   teiginys: "Uša yra Nemuno intakas, prie kurio yra Nesvyžius."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "646006-646345; hash=9882bf2ae25043ca9a66843c340bcc1f1d2cbe2fdfd52d5b5bbb306665458eab; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  ryšio_patikimumas: "susije_su -> Nemunas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Uša: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Nemunas: mention_match, place, gap=8"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Uša\" parinktas kaip owner_note_path. Targetas \"Nemunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-170383
 
@@ -106,19 +60,6 @@ Uša yra pietinis kairysis Nemuno aukštupio intakas. Uša išteka apie 20 km į
 - t-003
   global_id: t-187374
   teiginys: "Uša yra Nemuno intakas, prie kurio yra Nesvyžius."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "646006-646345; hash=9882bf2ae25043ca9a66843c340bcc1f1d2cbe2fdfd52d5b5bbb306665458eab; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  ryšio_patikimumas: "susije_su -> Nemunas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Uša: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Nemunas: mention_match, place, gap=8"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Uša\" parinktas kaip owner_note_path. Targetas \"Nemunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-170383
 
@@ -126,17 +67,6 @@ Uša yra pietinis kairysis Nemuno aukštupio intakas. Uša išteka apie 20 km į
 - t-001
   global_id: t-187375
   teiginys: "Uša yra pietinis kairysis Nemuno aukštupio intakas."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "660799-661160; hash=d32c05e7cda1d7f951b02d59f9a157689eb0e35ec6f2de62186846d81ab2a424; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  ryšio_patikimumas: "susije_su -> Nemunas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Uša: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Nemunas: mention_match, place, gap=26"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Uša\" parinktas kaip owner_note_path. Targetas \"Nemunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-170382
 ## Reikšmingi paminėjimai
@@ -152,8 +82,8 @@ Uša yra pietinis kairysis Nemuno aukštupio intakas. Uša išteka apie 20 km į
     apie 20 km j šiaurę nuo Klecko, teka pro Nesvyžių šiaurės vaka­
     rų kryptimi.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -172,8 +102,8 @@ Uša yra pietinis kairysis Nemuno aukštupio intakas. Uša išteka apie 20 km į
     '* N esvyiius — BTSR miestas (prie Ušos, Nemuno Intako, apie
     70 km j šiaurės vakarus nuo Slucko).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

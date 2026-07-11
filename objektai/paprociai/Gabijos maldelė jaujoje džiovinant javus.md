@@ -53,19 +53,6 @@ Nenurodyta.
 - t-002
   global_id: t-187835
   teiginys: "Pasak Narbuto perteikiamo Lasickio, šlapią vasarą jaujose džiovinant javus buvo nusilenkiama deivei Gabijai ir kalbama maldelė."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "175764-176348; hash=7461c1c535d6d41180ae80389613ffd86275337485792a19f7fbddb95124b385; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
-  ryšio_patikimumas: "susije_su -> Lasickis: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gabijos maldelė jaujoje džiovinant javus: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lasickis: mention_match, author, gap=32"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gabijos maldelė jaujoje džiovinant javus\" parinktas kaip owner_note_path. Targetas \"Lasickis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-170786
 ## Reikšmingi paminėjimai
@@ -85,8 +72,8 @@ Nenurodyta.
     čių valstiečiai tebekalba ją dar dabar, kurstydami ugnį savo
     t džiovyklose.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -97,7 +84,8 @@ Nenurodyta.
 - id: c-170786
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 99"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 99."
   citata_originali: |
     Lasickis pažįstąjį Gabijos (Gabie) vardu ir pateikia tokių
     duomenų apie jį: „Kai vasara Šlapia ir sunku išdžiovinti javus

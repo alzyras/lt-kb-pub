@@ -34,16 +34,6 @@ Taip pat [dovanojame] turtą, va­ dinamą Smolnėnais, su visomis Smolnėnų ir
 - t-001
   global_id: t-86208
   teiginys: "Losičiai buvo dovanojami kartu su Horodiščės ir Losičių žemėmis bei visais kaimiečiais."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "699121-699723; hash=495bc44d2c6e6a57deb63540568eac71d4c888eb307e621d17435a5381236083; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Horodiščė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Losičiai: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Horodiščė: mention_match, place, gap=34"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Losičiai\" parinktas kaip owner_note_path. Targetas \"Horodiščė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-82187
 - susijęs iš [[objektai/asmenys/Elena.md#claim-t-82285|Elena (vyskupas, XV–XVI a.)]]: Aleksandras užrašė Elenai ir jos įpėdiniams Smolnėnus, Horodiščę, Losičius ir kitas valdas su jų priklausiniais.
@@ -72,8 +62,8 @@ Taip pat [dovanojame] turtą, va­ dinamą Smolnėnais, su visomis Smolnėnų ir
     šios žemės kadaise priklausė Bełsko kunigaikščiui Semio­
     nui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -105,6 +95,3 @@ Taip pat [dovanojame] turtą, va­ dinamą Smolnėnais, su visomis Smolnėnų ir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86208
-
-## Ryšiai
-- Losičiai priklausė [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]

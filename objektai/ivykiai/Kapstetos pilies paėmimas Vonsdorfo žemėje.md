@@ -58,20 +58,6 @@ Nenurodyta
 - t-001
   global_id: t-91914
   teiginys: "Karaliaučiaus komtūras su sembų kariuomene įsiveržė į Vonsdorfo žemę, užėmė Kapstetos pilį, ją sudegino ir nusiaubė kraštą."
-  semantiniai_rysiai: "Sembai užėmė Kapsteta (0.90); Sembai puolė Vonsdorfas (0.82)"
-  temporaliniai_duomenys: "įvykio data: 1257 m.; įvykio data: 1258 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinė formuluotė turi OCR triukšmo, o citata remia aiškų įvykio aprašymą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "353349-355304; hash=434c113d781377eddcb17a4c2f8b810945e31a47b7400b6eb05ddc3a18b04207; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Kapsteta: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Sembai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Kapsteta: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad sembų kariuomenė dalyvavo Kapstetos pilies užėmime."
   pagrindžia:
     - c-87556
 ## Reikšmingi paminėjimai
@@ -109,8 +95,8 @@ Nenurodyta
     pilį333 ir ją pavertė pelenais, pilyje bei jos apygardoje paėmė į nelaisvę daugybę žmonių,
     daugybę nukovę, o visą žemę nusiaubė, grobdami ir degindami.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -121,7 +107,8 @@ Nenurodyta
 - id: c-87556
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 107-108"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 107-108."
   citata_originali: |
     Apie karą su Vonsdorfo [Unzatrapio] žemės gyventojais ir Kapstetos pilies
                                   paėmimą

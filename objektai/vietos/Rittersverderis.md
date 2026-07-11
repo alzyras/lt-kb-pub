@@ -41,16 +41,6 @@ media_all_json: |-
 - t-003
   global_id: t-36552
   teiginys: "Jogailos pasiuntinys rado Vytautą Rittersverderyje rengiantį tolesnių žygių planus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "391247-391495; hash=1cf193a5347c7a7c596c05de587aaa8489f26fdbbb0383e1d15866e27e8e4a36; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Rittersverderis: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rittersverderis\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-38628
 
@@ -58,18 +48,6 @@ media_all_json: |-
 - t-002
   global_id: t-36553
   teiginys: "1391 metų pabaigoje Vytautas ėmė telkti savo šalininkus į Rittersverderį iš kitų Ordino pilių."
-  temporaliniai_duomenys: "įvykio data: 1391 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "133326-133755; hash=6f4bd30c501f9cef8fc0b3a3c1f4310f708b6605e3a540a912c20d4d698788dc; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vokiečiai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Rittersverderis: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Vokiečiai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rittersverderis\" parinktas kaip owner_note_path. Targetas \"Vokiečiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-38629
 
@@ -77,16 +55,6 @@ media_all_json: |-
 - t-001
   global_id: t-36554
   teiginys: "Jogailos pasiuntinys Henrikas buvo nusiųstas į Rittersverderį pas Vytautą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "132525-132932; hash=5ae05a5d7c60932dc0ef6a535a6ec2c58c0fe8d76d460e6905421f923587bd98; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Henrikas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Rittersverderis: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Henrikas: mention_match, author, gap=26"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rittersverderis\" parinktas kaip owner_note_path. Targetas \"Henrikas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-38627
 - susijęs iš [[objektai/asmenys/Henrikas (Mozūrų kunigaikštis).md#claim-t-63619|Henrikas (Mozūrų kunigaikštis)]]: Lenkijai atsidūrus sunkioje padėtyje, Mozūrų kunigaikštis Henrikas išvyko į Prūsus ir rado Vytautą Rittersverderyje.
@@ -113,8 +81,8 @@ media_all_json: |-
     tautui visą tėvo ir dėdės palikimą, vadinas, didžiąją Lietuvos ku­
     nigaikštiją su Rusijos kraštais, kad tik jis taikintųsi.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -129,8 +97,8 @@ media_all_json: |-
     savo valdovo vardu Vytautui grįžti, žadėdamas jam grąžinti
     Lietuvą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -148,8 +116,8 @@ media_all_json: |-
     randant priežastį, jog norįs pasiųsti ją Lietuvon, varyti
     Ordino naudai propagandos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -218,6 +186,3 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-36553
-
-## Ryšiai
-- Buvo kelionės vieta: [[objektai/asmenys/Henrikas (Mozūrų kunigaikštis)]]

@@ -30,19 +30,6 @@ Jonas Zaberezinskis Lietuvos senato vardu įteikė Maskvos didikams laišką dė
 - t-001
   global_id: t-186338
   teiginys: "Jonas Zaberezinskis Lietuvos senato vardu įteikė Maskvos didikams laišką dėl taikos laikymosi, belaisvių švelnesnio traktavimo ir apeigų laisvės."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "995381-996365; hash=0f2f8505214467f3ead404f1b4fae39991257393da1aeb261dd60567a09a9cb6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos senato laiškas Maskvos didikams dėl taikos, belaisvių ir apeigų: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos senato laiškas Maskvos didikams dėl taikos, belaisvių ir apeigų\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-169699
 ## Reikšmingi paminėjimai
@@ -72,8 +59,8 @@ Jonas Zaberezinskis Lietuvos senato vardu įteikė Maskvos didikams laišką dė
     nigaikščio pasiuntinius, ištraukusius į Valachiją ir Len­
     kijoje suimtus kartu su Pskovo bei Naugardo pirkliais.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -84,7 +71,8 @@ Jonas Zaberezinskis Lietuvos senato vardu įteikė Maskvos didikams laišką dė
 - id: c-169699
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 562"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 562."
   citata_originali: |
     Kai pasiuntiniai, remdamiesi gryniausia tiesa,
     ėmė dėl visko teisintis bei žadėti, jog Aleksandras at­

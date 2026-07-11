@@ -49,12 +49,6 @@ Daugava minima kaip viena iš didžiųjų šiaurinės įšleities upių ir kaip 
 - t-001
   global_id: t-08491
   teiginys: "Anapus Daugavos iki Gaujos gyvenusius lietuvius vadino latviais, o jų kraštą – Latvija."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Citata leidžia tiksliau nurodyti ribą iki Gaujos ir pašalinti nepagrįstą „vėliau“."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Latvija; mentioned_place: Lietuva"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "27445-27745; hash=488886a69f96b44a5eb8d3abf52eb2b56959fdb86aece226d7abb0c55ad3e931; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-10484
 
@@ -62,12 +56,6 @@ Daugava minima kaip viena iš didžiųjų šiaurinės įšleities upių ir kaip 
 - t-003
   global_id: t-195079
   teiginys: "Į rytus nuo Dvinos prie venedų gyvenviečių šliejosi estų, gausios suomių padermės atšakos, gyvenvietės."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Pašalinta dviprasmybė, kas buvo minima kaip suomių padermės atšaka."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Suomiai|Suomiai]]; mentioned_group: [[objektai/grupes/Venedai|Venedai]]; mentioned_place: Dvina; mentioned_group: [[objektai/grupes/Germanai|Germanai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Baltija; mentioned_place: Europa; mentioned_place: Viena; mentioned_place: Vilnius; mentioned_place: Vysla"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "49709-50571; hash=e0d34793c024f731e1884d11e7ad0b997f69c75b6349ece25afa04d2b653ba5e; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177463
 
@@ -75,12 +63,6 @@ Daugava minima kaip viena iš didžiųjų šiaurinės įšleities upių ir kaip 
 - t-004
   global_id: t-195080
   teiginys: "Švitrigaila įsakė sugautą Alšėnų kunigaikštį Vitebske nuo aukšto skardžio įmesti į Dviną."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys yra pilnas, aiškus ir paremtas citata."
-  susije_objektai: "mentioned_place: Dvina; mentioned_person: [[objektai/asmenys/Gerasimas|Gerasimas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Alšėnai; mentioned_place: Vitebskas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "49709-50571; hash=e0d34793c024f731e1884d11e7ad0b997f69c75b6349ece25afa04d2b653ba5e; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177463
 
@@ -88,15 +70,6 @@ Daugava minima kaip viena iš didžiųjų šiaurinės įšleities upių ir kaip 
 - t-005
   global_id: t-195081
   teiginys: "Bremeno pirkliai 1158 m. atrado vakarinės Dvinos, arba Dauguvos, žiotis ir užmezgė prekybinius ryšius su tenykščiu pamariu."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
-  susije_objektai: "mentioned_place: Dvina; mentioned_place: Pamaris; mentioned_group: [[objektai/grupes/Bremeno pirkliai|Bremeno pirkliai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Baltija; mentioned_place: Bremenas"
-  temporaliniai_duomenys: "įvykio data: 1158 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "49179-49708; hash=f6fe24ba0ba5a4cfcb8fed53a4de4ba75da31fbb0375cb8acc905d76578817d5; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177465
     - c-177462
@@ -107,12 +80,6 @@ Daugava minima kaip viena iš didžiųjų šiaurinės įšleities upių ir kaip 
 - t-002
   global_id: t-195082
   teiginys: "Pasak šaltinio, lietuvių tauta buvo užėmusi Baltijos pakrantę nuo Dvinos iki Vyslos."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Pašalintas nutrūkimas ir perteklinės detalės, paliktas citata paremtas teiginys apie Dviną."
-  susije_objektai: "mentioned_place: Dvina; mentioned_place: Vysla; mentioned_group: [[objektai/grupes/Gotai|Gotai]]; mentioned_group: [[objektai/grupes/Herulai|Herulai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_place: Baltija; mentioned_place: Būgas; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Vilija"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "49709-50571; hash=e0d34793c024f731e1884d11e7ad0b997f69c75b6349ece25afa04d2b653ba5e; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177463
 ## Reikšmingi paminėjimai
@@ -124,8 +91,8 @@ Daugava minima kaip viena iš didžiųjų šiaurinės įšleities upių ir kaip 
         Lietuvos galas, kame Lietuvos tauta bengės, o krievių^107 prasidėjo; juo į pietus padaugaviais
         lužėnais, arba baltaisiais gudais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -148,8 +115,8 @@ Daugava minima kaip viena iš didžiųjų šiaurinės įšleities upių ir kaip 
     karus išsisklaidydavo, tai vėl į šiaurę, į Skandinaviją, bet ne
     kartą iš tų kraštų sugrįždavo į senąsias gyvenvietes.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -169,8 +136,8 @@ Daugava minima kaip viena iš didžiųjų šiaurinės įšleities upių ir kaip 
     atkeršijo įsakydamas juos pa valkioti gatvėmis, o paskui pa­
     skandinti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -187,8 +154,8 @@ Daugava minima kaip viena iš didžiųjų šiaurinės įšleities upių ir kaip 
     binius vokiečių ryšius su tenykščiu pamariu; o apie 1192 metus,
     regis, kolonija iš Bremeno įkūrė Rygą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -213,8 +180,8 @@ Daugava minima kaip viena iš didžiųjų šiaurinės įšleities upių ir kaip 
     iki pat Baltijos jūros siekianti, kaip lietuvių genties centras,
     išsaugojo gryniausius savo padermės bruožus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

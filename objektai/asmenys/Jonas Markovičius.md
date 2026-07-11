@@ -41,16 +41,6 @@ media_all_json: |-
 - t-001
   global_id: t-87727
   teiginys: "1529 metais Vilniaus burmistras Jonas Markovičius jūroje buvo vokiečių sulaikytas, paskui dėl to bylinėtasi."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "539009-539376; hash=2282b911f3d21bb87b8427b91a8368397a981169e9d3f8337f2a17489d0609a0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vokiečiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jonas Markovičius: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Vokiečiai: mention_match, group, gap=30"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jonas Markovičius\" parinktas kaip owner_note_path. Targetas \"Vokiečiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-83706
 - susijęs iš [[objektai/daiktai/Vilniaus pirklių prekybos objektai vaškas, kailiai, kepurės, sandėlis ir vytinės.md#claim-t-87007|Vilniaus pirklių prekybos objektai vaškas, kailiai, kepurės, sandėlis ir vytinės]]: Karaliaus raštu Vilniaus vaitui leista į užsienį parduoti tris vaško gabalus po 50 akmenų.
@@ -75,8 +65,8 @@ media_all_json: |-
     Markovičius jūroje buvo vokiečių
     sulaikytas, paskui dėl to bylinėtasi.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -59,21 +59,6 @@ Nenurodyta
 - t-008
   global_id: t-45361
   teiginys: "1928 m. sausio 29 d. Berlyne Lietuva ir Vokietija nustatė sienos liniją, palikusią Klaipėdos teritoriją Lietuvos pusėje."
-  temporaliniai_duomenys: "įvykio data: 1928 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata leidžia suformuluoti turiningesnį faktą apie sutarties rezultatą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "308855-309278; hash=26cc54d1be0e3a66b2a8482878d32d04f26205641fce6ed67a17807dc52e9661; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos ir Vokietijos sienos sutarties pasirašymas (1928 m. sausio 29 d.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos ir Vokietijos sienos sutarties pasirašymas (1928 m. sausio 29 d.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-48211
 
@@ -81,19 +66,6 @@ Nenurodyta
 - t-007
   global_id: t-45363
   teiginys: "1928 m. sausio 29 d. po ilgų ir sunkių derybų buvo pasirašyta Lietuvos ir Vokietijos sienos sutartis."
-  temporaliniai_duomenys: "sutarties data: 1928 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo sutarties pasirašymo datą ir aplinkybes."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "308739-309184; hash=cd0c8ce8dc734201f4f54753c30f51afc8826a8ea0fd69760646b66bf0d3ff09; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos ir Vokietijos sienos sutarties pasirašymas (1928 m. sausio 29 d.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=33"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos ir Vokietijos sienos sutarties pasirašymas (1928 m. sausio 29 d.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-23037
 ## Reikšmingi paminėjimai
@@ -109,8 +81,8 @@ Nenurodyta
     svarbi prekybos ir laivininkystės sutartis, o 1928 m. sausio 29 d. po ilgų
     ir sunkių derybų pasirašyta Lietuvos ir Vokietijos sienos sutartis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -129,8 +101,8 @@ Nenurodyta
     lys Berlyne nustatė sienos liniją, kuri Klaipėdos teritoriją paliko Lietuvos
     pusėje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

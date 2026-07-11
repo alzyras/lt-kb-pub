@@ -41,20 +41,6 @@ media_all_json: |-
 - t-002
   global_id: t-114162
   teiginys: "1500 m. Borisove datuotu sprendimu karalius Aleksandras įsakė nugriauti prie Bernardinų vienuolyno buvusį malūną."
-  semantiniai_rysiai: "Malūnas priklausė Aleksandras Jogailaitis (0.90)"
-  temporaliniai_duomenys: "įvykio data: 1500 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "479831-480473; hash=3d9d1515875fd840f416490bca928dfa0e35f231810ee9a30913043682940325; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Aleksandras Jogailaitis: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Malūnas: llm_allowed_candidate, thing"
-  ryšio_targeto_parinkimas: "Aleksandras Jogailaitis: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Formuluotė „savo malūną“ rodo, kad malūnas priklausė karaliui Aleksandrui."
   pagrindžia:
     - c-105319
 
@@ -62,17 +48,6 @@ media_all_json: |-
 - t-001
   global_id: t-114163
   teiginys: "Į Lietuvą įsiveržusios totorių pajėgos užėmė Borisovą, Minską, Zaslavlį, Krėvą, Lydą, Vilnių ir Trakus."
-  semantiniai_rysiai: "Totorių pajėgos užėmė Borisovas (0.97); Totorių pajėgos puolė Lietuva (0.95); Totorių pajėgos užėmė Vilnius (0.95); Totorių pajėgos užėmė Trakai (0.95)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "273301-273860; hash=7968aeb67cb6f12d54193bb1b204494388dfabc75da91c697ca41e42e931e850; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Borisovas: 0.97"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Totorių pajėgos: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Borisovas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Borisovas tiesiogiai įvardytas tarp totorių pajėgų užimtų vietų."
   pagrindžia:
     - c-167165
 
@@ -80,17 +55,6 @@ media_all_json: |-
 - t-001
   global_id: t-114163
   teiginys: "Į Lietuvą įsiveržusios totorių pajėgos užėmė Borisovą, Minską, Zaslavlį, Krėvą, Lydą, Vilnių ir Trakus."
-  semantiniai_rysiai: "Totorių pajėgos užėmė Borisovas (0.97); Totorių pajėgos puolė Lietuva (0.95); Totorių pajėgos užėmė Vilnius (0.95); Totorių pajėgos užėmė Trakai (0.95)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "273301-273860; hash=7968aeb67cb6f12d54193bb1b204494388dfabc75da91c697ca41e42e931e850; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Borisovas: 0.97"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Totorių pajėgos: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Borisovas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Borisovas tiesiogiai įvardytas tarp totorių pajėgų užimtų vietų."
   pagrindžia:
     - c-167165
 
@@ -98,19 +62,6 @@ media_all_json: |-
 - t-004
   global_id: t-184934
   teiginys: "Glinskis, nutraukęs Minsko apgulą, su savo kariais pirmiausia nužygiavo į Borisovą, o iš ten į Oršą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1068751-1069325; hash=01c615fc9c165b1ba4b7ad8f9c81432c7075f1bcb94993311b76f7d22e85cebc; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Bajorai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Borisovas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Bajorai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Borisovas\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-168295
 - susijęs iš [[objektai/asmenys/Eustachijus Tiškevičius.md#claim-t-190853|Eustachijus Tiškevičius]]: Eustachijus Tiškevičius kasinėjo kapavietes Lietuvos Rusioje, Borisovo apskrityje.
@@ -168,8 +119,8 @@ media_all_json: |-
     pamatus, o sklvpą, kuriame malū­
     nas stovėjo, atiduoda vienuolynui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -213,8 +164,8 @@ media_all_json: |-
 
     priversdamas priešą badauti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -238,8 +189,8 @@ media_all_json: |-
     jo per mažai karių. Jį atsitraukiantį atkakliai perse­
     kiojo karalius.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -329,7 +280,8 @@ media_all_json: |-
 - id: c-168295
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 602"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 602."
   citata_originali: |
     Ga­
     vęs šią žinią, karalius iš pradžių pasiuntė j Minską pen­

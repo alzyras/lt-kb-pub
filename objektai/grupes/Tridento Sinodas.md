@@ -34,16 +34,6 @@ media_all_json: |-
 - t-001
   global_id: t-86829
   teiginys: "Tridento Sinodas nusprendė, kad kiekvienoje krikščioniškojo pasaulio diecezijoje reikia įkurti amžiną seminariją."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "804419-804932; hash=24504d4deb92c2a1a1cb6c573dfa0c5f15097dd7a609e60065a8ee23d589feba; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Viena: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Tridento Sinodas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Viena: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tridento Sinodas\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-82809
 
@@ -51,16 +41,6 @@ media_all_json: |-
 - t-002
   global_id: t-86830
   teiginys: "Funduotos kolegijos administravimas, valdymas ir vadovavimas turėjo būti vykdomi pagal Tridento susirinkimo dekretą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "810008-811016; hash=48611bd6b86b9fea31d2124efae309638539e3047596a619d8df629dc2940854; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Tridento Sinodas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tridento Sinodas\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-82808
 - susijęs iš Tridento Sinodo nutarimas dėl diecezinių seminarijų: Tridento Sinodas nusprendė, kad kiekvienoje krikščioniškojo pasaulio diecezijoje reikia įkurti nuolatinę seminariją.
@@ -100,8 +80,8 @@ media_all_json: |-
     DEI, et ad Catkolicae Romanae fidei cultum, et augmentum
     perpetuum.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -126,8 +106,8 @@ media_all_json: |-
     ję dievobaimingumo, išmokyti geriausių menų, išeitų vyk­
     dyti bažnytinių pareigų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

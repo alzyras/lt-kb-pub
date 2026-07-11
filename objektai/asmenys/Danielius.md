@@ -44,12 +44,6 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
 - t-001
   global_id: t-186101
   teiginys: "Po karaliaus Danieliaus mirties Rusioje dėl kunigaikščių garbėtroškos ir nesutarimų prasidėjo vidaus maišatis."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "199184-199613; hash=866dd4b921e499c627ff9bf2880e7f8dccec6cb6524f2f3d12134313c1cb6ca3; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-169462
 
@@ -57,22 +51,6 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
 - t-002
   global_id: t-191160
   teiginys: "Narbutas pasakoja, kad traukiantis jotvingiams Danielius pavijo vadą Nebrą, atėmė jo ietį ir jį sužeidė, bet grįžo padėti Vasilkai."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Danielius puolė Nebra (0.82)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "219498-220092; hash=b603f3c1e2a8ea60bdaa9dbf881be60450ba4107faa099f627b9abe4b62ebb96; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Nebra: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Danielius: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Nebra: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Danielius tiesiogiai sužeidė Nebrą, todėl tai laikytina puolimu prieš asmenį."
-  vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174042
 
@@ -80,25 +58,6 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
 - t-003
   global_id: t-191161
   teiginys: "Narbutas Danielių apibūdina kaip klastingą, godų ir neramų Pietų Rusios kunigaikščių vadą, 1237 m. vedusį būrius prieš jotvingius prie Brastos."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Danielius surengė žygį į Brasta (0.80); Danielius kariavo prieš Jotvingiai (0.78)"
-  temporaliniai_duomenys: "įvykio data: 1237 m.; mūšio data: 1237 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Danielius surengė žygį į Brasta“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Danielius kariavo prieš Jotvingiai“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie Danielių, jo vadovavimą ir 1237 m. žygio sumanymą. Moralinis apibūdinimas paliktas su Narbuto atribucija."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "220386-220800; hash=da6674f2bc164c8ee42c7fd389f739db42c4472f008594d0e84a4b2fc16d5c6b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "surenge_zygi_i -> Brasta: 0.80"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Danielius: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Brasta: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo Danieliaus žygio kryptį į Brastos apylinkes."
-  vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174043
 - susijęs iš [[objektai/asmenys/Boleslovas Gėdingasis.md#claim-t-191199|Boleslovas Gėdingasis]]: Boleslovas Gėdingasis atsiuntė pagalbą Danieliui ir Vasilkai, kai šie su Ziemovitu tarėsi kartu pulti jotvingius.
@@ -136,8 +95,8 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
     sutelkęs stiprias jėgas, jis
     Švarno valdas.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -159,8 +118,8 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
     kariauna į Lenkiją, savo sienų nuo pat Brastos apsauga
     turėjo patikėti Pinsko kunigaikščiui Vladimirui1 2.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -180,8 +139,8 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
     itin dideli pavasario potvyniai ;užtvindė upių krantus, ir
     jo sumanymas nebuvo įgyvendintas3.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -218,7 +177,8 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
 - id: c-174042
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 123"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 123."
   citata_originali: |
     Tuo tarpu Stegutas tikriausiai žu­
     vo per antrąją ataką nuo kažkokio Selvo rankos. Prasi­
@@ -241,7 +201,8 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
 - id: c-174043
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 123"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 123."
   citata_originali: |
     Būgas jau tuomet buvo Mazovijos ir rusų
     žemių riba. Vis dėlto prie Brastos turėjo būti gana svar­
@@ -258,8 +219,3 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191161
-
-## Ryšiai
-- Danielius puolė [[objektai/asmenys/Nebra]]
-- Danielius surengė žygį į [[objektai/vietos/Brasta]]
-- Danielius kariavo prieš [[objektai/grupes/Jotvingiai]]

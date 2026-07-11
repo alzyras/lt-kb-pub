@@ -30,21 +30,6 @@ Narbutas rašė, kad Skilako spėjami žmonės gyveno prie Kaspijos, tačiau pat
 - t-001
   global_id: t-191591
   teiginys: "Narbutas rašė, kad Skilako spėjami žmonės gyveno prie Kaspijos, tačiau pats apie juos toliau nekalbės."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "140417-140787; hash=78d2a7c409f58936a0ebd9a8741c61c7a6c7dafb1710e9b0aa10cd35110e87ef; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Dnepras: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Skilakas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Dnepras: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Skilakas\" parinktas kaip owner_note_path. Targetas \"Dnepras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174473
 ## Reikšmingi paminėjimai
@@ -61,8 +46,8 @@ Narbutas rašė, kad Skilako spėjami žmonės gyveno prie Kaspijos, tačiau pat
     pas budinus. O tie, apie kuriuos spėja Skilakas, yra gy­
     venę prie Kaspijos4. Apie juos mes nekalbėsime.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -73,7 +58,8 @@ Narbutas rašė, kad Skilako spėjami žmonės gyveno prie Kaspijos, tačiau pat
 - id: c-174473
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 78"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 78."
   citata_originali: |
     Bet ne visos jos buvo vienu metu, nes
     gerai matyti, jog pirmiausia, išvyti iš emporiumų, jie gy­

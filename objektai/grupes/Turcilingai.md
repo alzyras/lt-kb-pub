@@ -30,22 +30,6 @@ Narbutas rašo, kad 476 metų pradžioje alanai, turcilingai, gepidai, skiriai i
 - t-001
   global_id: t-192976
   teiginys: "Narbutas rašo, kad 476 metų pradžioje alanai, turcilingai, gepidai, skiriai ir herulai paskelbė Odoakrą savo vadu ir karaliumi."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Turcilingai paskyrė Odoakras (0.90); Skiriai paskyrė Odoakras (0.90); Herulai paskyrė Odoakras (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "562171-562567; hash=a997a361e7bb6767df2ba194a3a56e6f94d2ce083260e7c52d621b2e4c9e5931; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "paskyre -> Odoakras: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Turcilingai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Odoakras: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Turcilingai tiesiogiai išvardyti tarp genčių, paskelbusių Odoakrą vadu ir karaliumi."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175746
 ## Reikšmingi paminėjimai
@@ -68,8 +52,8 @@ Narbutas rašo, kad 476 metų pradžioje alanai, turcilingai, gepidai, skiriai i
     naujasis vadas tuojau pat išskubėjo iš Panonijos, vesda­
     mas gausius būrius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

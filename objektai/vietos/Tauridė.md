@@ -36,24 +36,6 @@ Tauridė, Teodoro Narbuto pasakojimu, 1540 m. pr. Kr. priklausė gausiems ir gal
 - t-001
   global_id: t-192856
   teiginys: "Tauridė, Teodoro Narbuto pasakojimu, 1540 m. pr. Kr. priklausė gausiems ir galingiems skitams kartu su Dnepro žiotimis."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "priklausymo laikotarpis: 1540 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „priklausymo laikotarpis“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Išskleistas neaiškus subjektas „jie“ kaip skitai ir pašalinta išnašos liekana. Senovės kilmės pasakojimas paliktas su Narbuto atribucija, nepridedant papildomų duomenų."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "86358-86706; hash=b324073054bcda61575f51d8523d39a2745900b1faad0fe40c30fc6df7d57048; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Dnepras: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Tauridė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Dnepras: mention_match, place, gap=103"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tauridė\" parinktas kaip owner_note_path. Targetas \"Dnepras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175626
 - susijęs iš Dnepras: Narbutas teigė, kad 1540 m. pr. Kr. skitams priklausė Dnepro žiotys ir Tauridė.
@@ -71,8 +53,8 @@ Tauridė, Teodoro Narbuto pasakojimu, 1540 m. pr. Kr. priklausė gausiems ir gal
     ir Tauridė1. Paskui jie paplito po visas Europos šalis
     kimbrų, keltų ir kitokiais pavadinimais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -83,7 +65,8 @@ Tauridė, Teodoro Narbuto pasakojimu, 1540 m. pr. Kr. priklausė gausiems ir gal
 - id: c-175626
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 50"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 50."
   citata_originali: |
     Anksčiau jau minėjome, kad skitai
     yra kone seniausia Europos tauta, kurios atėjimas iš Azi­

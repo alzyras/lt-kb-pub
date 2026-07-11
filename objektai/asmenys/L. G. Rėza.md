@@ -30,14 +30,6 @@ Teodoro Narbuto pasakojime L. G. Rėza priekaištavo kritikams skeptikams ir įr
 - t-001
   global_id: t-191505
   teiginys: "Teodoro Narbuto pasakojime L. G. Rėza priekaištavo kritikams skeptikams ir įrodinėjo, kad kronikininkų teiginiai pasitvirtina senovės paminklais."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "52704-53234; hash=487531c5c770c1aa6d479cd316b26d7dd2aa46a6722ac6c857e3a4a19eb7e977; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174387
 ## Reikšmingi paminėjimai
@@ -61,8 +53,8 @@ Teodoro Narbuto pasakojime L. G. Rėza priekaištavo kritikams skeptikams ir įr
     sakė tiesą, pasitvirtinančią juo labiau tam, kuris arti­
     miau susipažįsta su esamais senovės paminklais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

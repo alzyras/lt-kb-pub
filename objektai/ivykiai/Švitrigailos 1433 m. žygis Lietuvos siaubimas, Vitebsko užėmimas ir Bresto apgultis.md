@@ -48,23 +48,6 @@ Nenurodyta
 - t-001
   global_id: t-185546
   teiginys: "1433 m. Boleslovas Švitrigaila padalijo kariuomenę į tris voras; viena įsiveržė į senąsias Lietuvos žemes ir jas nuniokojo."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Boleslovas Švitrigaila puolė Lietuva (0.88)"
-  temporaliniai_duomenys: "įvykio data: 1433 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalintas OCR triukšmas ir suformuotas aiškus sakinys."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "785852-786353; hash=e06f7c83f5acce06774fd8c8f9c14b095827599d990a3b67d5d49c0b71d5b2c6; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Lietuva: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Boleslovas Švitrigaila: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Boleslovo Švitrigailos įsiveržimą į Lietuvos žemes."
   pagrindžia:
     - c-168907
 
@@ -72,12 +55,6 @@ Nenurodyta
 - t-002
   global_id: t-193366
   teiginys: "Lietuvos isto rija P odolėje ir V o ly n ėje, n ie k u r n esu tik d am i p asip riešin i m o."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "786240-786762; hash=f5ce9ed68660b152ec62dcd3dab4620883f198d754fbc3f4b22a97fbc529aa6b; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176093
 ## Reikšmingi paminėjimai
@@ -104,8 +81,8 @@ Nenurodyta
     P odolėje ir V o ly n ėje, n ie k u r n esu tik d am i p asip riešin i­
     m o.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -127,8 +104,8 @@ Nenurodyta
     n ea p g alv o tas k a u ty n e s ir p ra rad o  k ariu o m en ę, p a d a ry ­
     dam as Ž ygim anto p ad ėtį b ev e ik  b eviltišk ą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

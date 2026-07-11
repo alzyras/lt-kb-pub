@@ -43,20 +43,6 @@ Dusburgietis teigia, kad mat jis atsiuntė jiems Julicho grafą bei Markos graf�
 - t-001
   global_id: t-60110
   teiginys: "Markos grafas Engelbertas su Julicho grafu ir didele kariuomene 1262 m. sausio 21 d. atvyko į Karaliaučiaus pilį."
-  semantiniai_rysiai: "Engelbertas I puolė Sembai (0.69)"
-  temporaliniai_duomenys: "kelionės data: 1262 m.; kelionės data: 1263 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Perrašyta aiškiau atskiriant Engelbertą nuo Julicho grafo."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "385193-386441; hash=2f0df8e6cda8f3714b1d2e5e08cdb2494866a67a61b4910c8b40c03a82afdca0; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Sembai: 0.69"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Engelbertas I: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Sembai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citatos kontekste Markos grafas Engelbertas puola sembų pajėgas."
   pagrindžia:
     - c-60742
 
@@ -64,15 +50,6 @@ Dusburgietis teigia, kad mat jis atsiuntė jiems Julicho grafą bei Markos graf�
 - t-002
   global_id: t-184060
   teiginys: "1262 m. sausio 21 d. Engelbertas, Julicho ir Markos grafas, su stipria kariuomene atvyko į Karaliaučių."
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "kelionės data: 1262 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys turi neaiškų įvardį ir yra per arti citatos fragmento."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "385070-385405; hash=09102e0b65688b222b16d851b1694554290390e05bb91c1ba089f6669636d15d; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-167445
 ## Reikšmingi paminėjimai
@@ -97,8 +74,8 @@ Dusburgietis teigia, kad mat jis atsiuntė jiems Julicho grafą bei Markos graf�
     subėgusius  į kaimą, kitados vadinamą Kalija, o dabar — Sklunija371, irgi įveikė, tiesa,
       369 1262—1263 m.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -114,8 +91,8 @@ Dusburgietis teigia, kad mat jis atsiuntė jiems Julicho grafą bei Markos graf�
     kariuomene. 1262 viešpaties metais, švento Vincento išvakarėse (sausio 21), apie
     pavakarę, jie atvyko į Karaliaučiaus pilį.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -126,7 +103,8 @@ Dusburgietis teigia, kad mat jis atsiuntė jiems Julicho grafą bei Markos graf�
 - id: c-60742
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 118"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 118."
   citata_originali: |
     Mat jis atsiuntė jiems Julicho grafą bei Markos grafą Engelbertą370 su didele ir stipria
     kariuomene. 1262 viešpaties metais, švento Vincento išvakarėse (sausio 21), apie
@@ -153,7 +131,8 @@ Dusburgietis teigia, kad mat jis atsiuntė jiems Julicho grafą bei Markos graf�
 - id: c-167445
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 118"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 118."
   citata_originali: |
     Todėl jie nuolankiai ir gailiai kėlė
     akis  į dangų, su ašaromis šaukdamiesi viešpaties pagalbos,  ir viešpats jų išklausė.
@@ -166,6 +145,3 @@ Dusburgietis teigia, kad mat jis atsiuntė jiems Julicho grafą bei Markos graf�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184060
-
-## Ryšiai
-- Engelbertas I puolė [[objektai/grupes/Sembai]]

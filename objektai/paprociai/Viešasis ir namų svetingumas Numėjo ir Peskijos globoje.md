@@ -45,14 +45,6 @@ Nenurodyta
 - t-001
   global_id: t-189877
   teiginys: "Narbutas lietuvių genties tautoms priskyrė religijos pašventintą svetingumą, apėmusį šventyklų, šventų giraičių ir namijų prieglobstį."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "284919-285423; hash=03ab9b8b22a1b432978212518c76533b4a8a4412ad306d8b351b6aeb064cbd5c; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172760
 ## Reikšmingi paminėjimai
@@ -71,8 +63,8 @@ Nenurodyta
     ti svetimšaliai jausdavosi visiškai saugūs -  tiek asmenys, tiek
     turtas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -83,7 +75,8 @@ Nenurodyta
 - id: c-172760
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 164"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 164."
   citata_originali: |
     Lietuvių genties tautos labai gerbė religijos pašventintą ma­
     lonų svetingumą; tą mūsų protėviams pripažino net jų nedrau­

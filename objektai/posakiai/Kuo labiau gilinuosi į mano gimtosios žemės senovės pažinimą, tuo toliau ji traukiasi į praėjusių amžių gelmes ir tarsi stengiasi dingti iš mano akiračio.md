@@ -30,17 +30,6 @@ Aprašydamas prie Rodūnės stūksantį pylimą, Narbutas pereina į asmeninę r
 - t-001
   global_id: t-192125
   teiginys: "Aprašydamas prie Rodūnės stūksantį pylimą, Narbutas pereina į asmeninę refleksiją apie senovės pažinimo ribas."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "502868-503847; hash=92ae4a10ad83c435a062aaeb774a63dbc61cd456ce6b090a8b009d2248fb25cf; match=ocr_normalized"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
-  ryšio_patikimumas: "susije_su -> Kijevas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kuo labiau gilinuosi į mano gimtosios žemės senovės pažinimą, tuo toliau ji traukiasi į praėjusių amžių gelmes ir tarsi stengiasi dingti iš mano akiračio: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Kijevas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kuo labiau gilinuosi į mano gimtosios žemės senovės pažinimą, tuo toliau ji traukiasi į praėjusių amžių gelmes ir tarsi stengiasi dingti iš mano akiračio\" parinktas kaip owner_note_path. Targetas \"Kijevas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-175009
 ## Reikšmingi paminėjimai
@@ -67,8 +56,8 @@ Aprašydamas prie Rodūnės stūksantį pylimą, Narbutas pereina į asmeninę r
     kiasi į praėjusių amžių gelmes ir tarsi stengiasi dingti iš
     mano akiračio.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -79,7 +68,8 @@ Aprašydamas prie Rodūnės stūksantį pylimą, Narbutas pereina į asmeninę r
 - id: c-175009
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 281"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 281."
   citata_originali: |
     Ukrainoje, Kijevo gubernijoje, yra labai senas pa­
     našus piliakalnis*, Jos yra atokiau nuo miestelių, tarp

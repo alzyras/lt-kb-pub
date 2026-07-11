@@ -55,21 +55,6 @@ Nenurodyta
 - t-001
   global_id: t-62317
   teiginys: "1296 m. Liudvikas iš Libencelės su broliais įsiveržė į Kimelio pilį, išžudė jos gyventojus ir sudegino pilį ligi pamatų."
-  teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Liudvikas iš Libencelės puolė Kimelis (0.89); Liudvikas iš Libencelės užėmė Kimelis (0.84); Liudvikas iš Libencelės surengė žygį į Kimelis (0.72)"
-  temporaliniai_duomenys: "įvykio data: 1296 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys buvo negramatiškas ir su šaltinio fragmentais; citata pagrindžia pilies sunaikinimą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "595635-596537; hash=f2fa9211dd336ae0d7d1173e83c9fe7c6b05eca334e5b27d8ae95fb87780aa56; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Kimelis: 0.89"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Liudvikas iš Libencelės: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kimelis: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Kimetlio pilis buvo tiesiogiai užpulta ir sudeginta Liudviko vadovaujamo žygio metu."
   pagrindžia:
     - c-62868
 ## Reikšmingi paminėjimai
@@ -91,8 +76,8 @@ Nenurodyta
     išlaidų, nei triūso, tačiau nesėkmingai. Narsiai įsiveržę į pilį, jie išžudė jos gyventojus, o
     ją pačią, pakišę ugnį, ligi pamatu sudegino.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -103,7 +88,8 @@ Nenurodyta
 - id: c-62868
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 190"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 190."
   citata_originali: |
     Apie Kimelio pilies sunaikinimą 1296 metais
 

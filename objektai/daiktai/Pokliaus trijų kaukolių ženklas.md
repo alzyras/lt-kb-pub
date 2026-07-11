@@ -50,10 +50,6 @@ Nenurodyta
 - t-002
   global_id: t-187983
   teiginys: "Narbutas Pokliaus ženklą apibūdina kaip tris kaukoles: žmogaus, jaučio ir arklio."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "191012-191445; hash=e815681e3de8c3d6491f22387f4ea2d365cda78bddde719f75bc3f54d33681ab; match=exact"
-  sprendimo_priezastis: "gap::items"
   pagrindžia:
     - c-170990
 - susijęs iš [[objektai/zodynas/Kriukis Jagaubis.md#claim-t-189227|Kriukis Jagaubis]]: Narbutas Kriukį (Krugį) apibūdina kaip kalvių dievą ar Vulkano liekaną ir jo vardą kildina iš „kriugos“ – kriukio, kablio.
@@ -72,8 +68,8 @@ Nenurodyta
     Pokliaus ženklas buvo trys kaukolės: žmogaus, jaučio ir
     arklio.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -84,7 +80,8 @@ Nenurodyta
 - id: c-170990
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 107"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 107."
   citata_originali: |
     Taigi
     matyti, kad barbariškai prieštaringas šio dievo prigimties su­

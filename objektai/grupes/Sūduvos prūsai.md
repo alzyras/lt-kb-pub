@@ -30,20 +30,6 @@ Sūduvos prūsai su jiems padėjusiais žemaičiais nusiaubė Kulmo kraštą ir 
 - t-001
   global_id: t-185461
   teiginys: "Sūduvos prūsai su jiems padėjusiais žemaičiais nusiaubė Kulmo kraštą ir sustojo prie Liubavos."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Sūduvos prūsai keliavo į Liubava (0.75)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "220201-221033; hash=a8199fd25bd4a62db0b93c24db2f17a3c3a68625628fcd5449610f6ca05dd389; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Liubava: 0.75"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Sūduvos prūsai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Liubava: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas nurodo, kad Sūduvos prūsai su žemaičiais sustojo prie Liubavos."
   pagrindžia:
     - c-168822
 - susijęs iš [[objektai/ivykiai/Žemaičių ir prūsų pergalė prie Liubavos (1274 m.).md#claim-t-185683|Žemaičių ir prūsų pergalė prie Liubavos (1274 m.)]]: Sūduvos prūsai ir jiems padėję žemaičiai nusiaubė Kulmo kraštą, bet prie Liubavos pasitraukė nuo kryžiuočių puolimo.
@@ -81,8 +67,8 @@ Sūduvos prūsai su jiems padėjusiais žemaičiais nusiaubė Kulmo kraštą ir 
     ir apskritai elgėsi, nelyginant bet koks pavojus būtų
     praėjęs.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -93,7 +79,8 @@ Sūduvos prūsai su jiems padėjusiais žemaičiais nusiaubė Kulmo kraštą ir 
 - id: c-168822
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 130"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 130."
   citata_originali: |
     Dėl tos pačios
     priežasties valdovas neleido viešai teikti prūsams ko­
@@ -123,9 +110,3 @@ Sūduvos prūsai su jiems padėjusiais žemaičiais nusiaubė Kulmo kraštą ir 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185461
-
-## Ryšiai
-- Puolė Sūduvos prūsai: [[objektai/grupes/Kryžiuočių ordinas]]
-- Rėmė Sūduvos prūsai: [[objektai/grupes/Žemaičiai]]
-- Sūduvos prūsai keliavo į [[objektai/vietos/Liubava]]
-- Sūduvos prūsai puolė [[objektai/vietos/Kulmas]]

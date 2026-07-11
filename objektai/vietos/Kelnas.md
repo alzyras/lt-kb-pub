@@ -42,17 +42,6 @@ Dusburgietis teigia, kad atsisakęs Regensburgo vyskupystės, jis 18 metų triū
 - t-002
   global_id: t-58448
   teiginys: "Albertas Didysis mirė Kelne."
-  semantiniai_rysiai: "Albertas Didysis (pamokslininkų ordino kunigas, XIII a.) mirė Kelnas (0.97)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "717420-717538; hash=dffae50fbb9641a1b06a694d066c3bbf9363ab627327da26d6275afe4de28d10; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "mire -> Kelnas: 0.97"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Albertas Didysis (pamokslininkų ordino kunigas, XIII a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kelnas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Alberto Didžiojo mirties vietą."
   pagrindžia:
     - c-59082
 
@@ -60,16 +49,6 @@ Dusburgietis teigia, kad atsisakęs Regensburgo vyskupystės, jis 18 metų triū
 - t-003
   global_id: t-58449
   teiginys: "Netoli Kelno, prie Vurungeno kaimo, Brabanto kunigaikštis Jonas nugalėjo Kelno arkivyskupą Zigfridą iš Runkelės."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "721767-722071; hash=e7e0af9021a8e3646e129832b578e93a65465aa9e5508dbffb30d01272777fd2; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kaimas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kelnas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kaimas: mention_match, place, gap=22"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kelnas\" parinktas kaip owner_note_path. Targetas \"Kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-59081
 
@@ -77,20 +56,6 @@ Dusburgietis teigia, kad atsisakęs Regensburgo vyskupystės, jis 18 metų triū
 - t-001
   global_id: t-58450
   teiginys: "Albertas Didysis 18 metų triūsė Kelne, mirė 1280 m., sulaukęs 80 metų, ir buvo palaidotas Kelne."
-  semantiniai_rysiai: "Albertas Didysis (pamokslininkų ordino kunigas, XIII a.) buvo palaidotas Kelnas (0.96); Albertas Didysis (pamokslininkų ordino kunigas, XIII a.) gimė Vokietija (0.91); Albertas Didysis (pamokslininkų ordino kunigas, XIII a.) mirė Kelnas (0.90)"
-  temporaliniai_duomenys: "mirties data: 1280 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „mirties data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie Kelne vykusius Alberto Didžiojo gyvenimo faktus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "708658-709083; hash=fbb187081b24f9b8df26f73255951620d0db08545f358abf6922cd648a957305; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_palaidotas -> Kelnas: 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Albertas Didysis (pamokslininkų ordino kunigas, XIII a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kelnas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citatoje tiesiogiai nurodyta, kad Albertas Didysis palaidotas Kelne."
   pagrindžia:
     - c-59080
 
@@ -98,17 +63,6 @@ Dusburgietis teigia, kad atsisakęs Regensburgo vyskupystės, jis 18 metų triū
 - t-002
   global_id: t-58448
   teiginys: "Albertas Didysis mirė Kelne."
-  semantiniai_rysiai: "Albertas Didysis (pamokslininkų ordino kunigas, XIII a.) mirė Kelnas (0.97)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "717420-717538; hash=dffae50fbb9641a1b06a694d066c3bbf9363ab627327da26d6275afe4de28d10; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "mire -> Kelnas: 0.97"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Albertas Didysis (pamokslininkų ordino kunigas, XIII a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kelnas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Alberto Didžiojo mirties vietą."
   pagrindžia:
     - c-59082
 
@@ -116,19 +70,6 @@ Dusburgietis teigia, kad atsisakęs Regensburgo vyskupystės, jis 18 metų triū
 - t-005
   global_id: t-184162
   teiginys: "Netoli Kelno, prie Vurungeno kaimo, Brabanto kunigaikštis Jonas nugalėjo Kelno arkivyskupą Zigfridą iš Runkelės."
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "721469-722039; hash=f0d8750ebf38d37691bec390f28ad4797ba36947f62a8db5049affaa825f643b; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kaimas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kelnas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kaimas: mention_match, place, gap=22"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kelnas\" parinktas kaip owner_note_path. Targetas \"Kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-167547
 
@@ -136,12 +77,6 @@ Dusburgietis teigia, kad atsisakęs Regensburgo vyskupystės, jis 18 metų triū
 - t-006
   global_id: t-194532
   teiginys: "Apie Alberto Didžiojo mirtį Tais pačiais metais Kelne mirė Albertas Didysis (Ptol."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "717420-717538; hash=dffae50fbb9641a1b06a694d066c3bbf9363ab627327da26d6275afe4de28d10; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-59082
 - susijęs iš [[objektai/asmenys/Albertas Didysis.md#claim-t-56970|Albertas Didysis (pamokslininkų ordino kunigas, XIII a.)]]: Albertas Didysis atsisakė Regensburgo vyskupystės, 18 metų triūsė Kelne ir mirė 1280 m., sulaukęs 80 metų.
@@ -175,8 +110,8 @@ Dusburgietis teigia, kad atsisakęs Regensburgo vyskupystės, jis 18 metų triū
     metais, o palaidotas Kelne. Tuo pat metu garsėjo ir brolis Tomas Akvinietis, Alberto
     mokinys bei pamokslininkų ordino vienuolis (Ptol.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -196,8 +131,8 @@ Dusburgietis teigia, kad atsisakęs Regensburgo vyskupystės, jis 18 metų triū
 
                              77.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -214,8 +149,8 @@ Dusburgietis teigia, kad atsisakęs Regensburgo vyskupystės, jis 18 metų triū
 
                     67.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -240,8 +175,8 @@ Dusburgietis teigia, kad atsisakęs Regensburgo vyskupystės, jis 18 metų triū
     kunigaikštis, nugalėjo Zigfridą  iš Runkelės, Kelno arkivyskupą; neskaitant paprastų
     karių, abi šalys neteko nukautaisiais 1300 kilmingųjų.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -252,7 +187,8 @@ Dusburgietis teigia, kad atsisakęs Regensburgo vyskupystės, jis 18 metų triū
 - id: c-59080
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 233"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 233."
   citata_originali: |
     Apie Albertą Didįjį ir Tomą Akvinietį
 
@@ -271,7 +207,8 @@ Dusburgietis teigia, kad atsisakęs Regensburgo vyskupystės, jis 18 metų triū
 - id: c-59081
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 240"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 240."
   citata_originali: |
     76. Apie mūšį netoli Kelno, prie Vurungeno kaimo
 
@@ -292,7 +229,8 @@ Dusburgietis teigia, kad atsisakęs Regensburgo vyskupystės, jis 18 metų triū
 - id: c-59082
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 238"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 238."
   citata_originali: |
     Apie Alberto Didžiojo mirtį
 
@@ -313,7 +251,8 @@ Dusburgietis teigia, kad atsisakęs Regensburgo vyskupystės, jis 18 metų triū
 - id: c-167547
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 240"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 240."
   citata_originali: |
     Tą dieną, kai priimamas dievo kūnas, šio kaimo klebonas jai davė nešventintą
     paplotėlį, tačiau  ji niekaip jo negalėjo nuryti, todėl,  jį atsiėmęs, davė jai pašventintą
@@ -337,4 +276,3 @@ Dusburgietis teigia, kad atsisakęs Regensburgo vyskupystės, jis 18 metų triū
 ## Ryšiai
 - Mirties vieta: [[objektai/asmenys/Albertas Didysis|Albertas Didysis (pamokslininkų ordino kunigas, XIII a.)]]
 - Turėjo palaidotą asmenį: [[objektai/asmenys/Albertas Didysis|Albertas Didysis (pamokslininkų ordino kunigas, XIII a.)]]
-- Gyvenamoji vieta: [[objektai/asmenys/Albertas Didysis|Albertas Didysis (pamokslininkų ordino kunigas, XIII a.)]]

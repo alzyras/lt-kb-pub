@@ -43,17 +43,6 @@ Kad su tuo buvo susijęs ir Žygimantas Augustas, įro­ do tai, jog netrukus š
 - t-001
   global_id: t-87881
   teiginys: "Pastorius Vendrichovskis septynerius metus viešai vykdė reformuoto tikėjimo apeigas Vilniuje netoli Žuvų turgaus."
-  semantiniai_rysiai: "Vendrichovskis gyveno Vilnius (0.57)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "569878-570451; hash=ada899ee774e9046bea317ce067ce7076028169a4f4d620891181dcb49d3638f; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Vilnius: 0.57"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vendrichovskis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas sieja Vendrichovskio ilgalaikę viešą veiklą su Vilniaus miesto centru."
   pagrindžia:
     - c-83860
 - susijęs iš Žuvų turgus Vilniuje: Netoli Žuvų turgaus Vilniuje pastoriai Čechavičius ir Vendrichovskis septynerius metus viešai vykdė reformuoto tikėjimo apeigas.
@@ -84,8 +73,8 @@ Kad su tuo buvo susijęs ir Žygimantas Augustas, įro­ do tai, jog netrukus š
     šai tas apeigas vykdė, kol ties Šv. Mykolo bažnyčia buvo
     išmūryti didieji maldos namai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -120,6 +109,3 @@ Kad su tuo buvo susijęs ir Žygimantas Augustas, įro­ do tai, jog netrukus š
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87881
-
-## Ryšiai
-- Vendrichovskis gyveno [[objektai/vietos/Vilnius]]

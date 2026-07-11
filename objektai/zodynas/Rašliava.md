@@ -60,16 +60,6 @@ Nenurodyta
 - t-005
   global_id: t-168690
   teiginys: "Pirmoji Lietuvos rašliava apibūdinama kaip istorinė ir publicistiška."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "515596-516071; hash=6203e0ae70b8a9073b58a88a6050515850cd0e012d14a23aa1f64793cc6a84e8; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Rašliava: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=9"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rašliava\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-153486
 
@@ -77,9 +67,6 @@ Nenurodyta
 - t-004
   global_id: t-168692
   teiginys: "Rašliava vartojama kaip istorinės raštijos pavadinimas."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "6291-6571; hash=de4bdff1a1846a8277ca340f71a58fcddb0be578a7cc007a53161e67066744d2; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-153490
 
@@ -87,16 +74,6 @@ Nenurodyta
 - t-006
   global_id: t-168695
   teiginys: "Iškilus unijos klausimui, Lenkijoje atsirado publicistiškos rašliavos, kurioje Lietuva buvo žeminama kaip nedėkinga ir maištaujanti valstybė."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "514871-515337; hash=eb23cac946c4a41b340098fb4a48db658a0dab29790ced430c6418f3962966ce; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Rašliava: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=19"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rašliava\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-153487
 ## Reikšmingi paminėjimai
@@ -114,8 +91,8 @@ Nenurodyta
     Žodžiu, pirmoji Lietuvos rašliava buvo istorinė ir turėjo
     publicistišką charakterį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -135,8 +112,8 @@ Nenurodyta
     raštų, kuriuose Lietuva buvo žeminama, vaizduojama, kaip nedė-
     kinga, maištaujanti lenkų globojama valstybė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -151,8 +128,8 @@ Nenurodyta
     ir naujųjų laikų įvykius. Tokio vadovėlio reikalą gyvai jautė
     tiek visuomenė, tiek mokykla.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

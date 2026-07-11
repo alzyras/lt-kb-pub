@@ -43,19 +43,6 @@ Liepos 17-osios nutarimu iš „buvusių laisvų Lietuvos, Latvijos, Estijos val
 - t-002
   global_id: t-67987
   teiginys: "Ivinskis Mohilną, prie kurios Lietuvos metraštis mini 1234 m. kovą su totoriais, lokalizuoja Nemuno aukštupyje dabartinėje Gudijoje."
-  temporaliniai_duomenys: "įvykio data: 1234 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys per ilgas ir turi perteklinį metraščio siužetą; vietos tapatinimui reikia šaltinio atribucijos."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "509397-509826; hash=6c273244b9b38060717f86b08b0d686e305887e3f3957d10c7d1b73d58bd977f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gudija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=93"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gudija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-32067
 - susijęs iš [[objektai/autoriai/D. Pochilevyč.md#claim-t-29457|D. Pochilevyč]]: D. Pochilevyč buvo Lvovo universiteto profesorius ir tyrinėjo Lietuvos, Gudijos bei Ukrainos kaimo ūkinius santykius.
@@ -84,8 +71,8 @@ Liepos 17-osios nutarimu iš „buvusių laisvų Lietuvos, Latvijos, Estijos val
     dovas, pagal Lietuvos metraštį, totorius ir jų sąjungininkus rusų
     kunigaikščius galutinai sutriuškinęs (« na golovu poraził »)^142.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -112,7 +99,3 @@ Liepos 17-osios nutarimu iš „buvusių laisvų Lietuvos, Latvijos, Estijos val
   patikimumo_saltinis: ai
   pagrindzia:
     - t-67987
-
-## Ryšiai
-- Buvo valdoma: [[objektai/grupes/Nacių Vokietija]]
-- Gudija priklausė [[objektai/vietos/Rytų kraštas (Ostlandas)]]

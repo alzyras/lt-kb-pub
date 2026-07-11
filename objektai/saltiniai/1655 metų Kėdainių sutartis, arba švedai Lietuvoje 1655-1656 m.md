@@ -42,19 +42,6 @@ Nespausdinta yra likusi Lietuvoje Šapokos habilitacija « 1655 metų Kėdainių
 - t-001
   global_id: t-31580
   teiginys: "Šapokos habilitacija „1655 metų Kėdainių sutartis, arba švedai Lietuvoje 1655-1656 m.“ liko nespausdinta Lietuvoje."
-  temporaliniai_duomenys: "sutarties data: 1655-1656; sutarties data: 1656 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir paremtas citata apie Šapokos habilitacijos likimą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "185870-186349; hash=8544a6eb7e77dfdb9c21843732aa919deb1ac11567bfa1cc03f0e6992a47f32d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kėdainiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "1655 metų Kėdainių sutartis, arba švedai Lietuvoje 1655-1656 m: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Kėdainiai: mention_match, place, gap=10"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"1655 metų Kėdainių sutartis, arba švedai Lietuvoje 1655-1656 m\" parinktas kaip owner_note_path. Targetas \"Kėdainiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-33503
 ## Reikšmingi paminėjimai
@@ -72,8 +59,8 @@ Nespausdinta yra likusi Lietuvoje Šapokos habilitacija « 1655 metų Kėdainių
     Jonušą Radvilą ir Švediją (Židinys, 1939) ir Kėdainių sutartį
     (LE, t, 11).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

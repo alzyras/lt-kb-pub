@@ -44,6 +44,10 @@ document.addEventListener("nav", () => {
     }
 
     target.classList.add("is-targeted")
+    setClaimOpen(target, true)
+    window.requestAnimationFrame(() => {
+      target.scrollIntoView({ block: "center", behavior: "smooth" })
+    })
   }
 
   const toggleMode = () => {

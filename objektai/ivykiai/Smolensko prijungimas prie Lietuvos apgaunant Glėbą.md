@@ -42,20 +42,6 @@ Nenurodyta
 - t-001
   global_id: t-185774
   teiginys: "Vytautas vaišino Smolensko kunigaikštį Glėbą stovykloje, kol užėmė Smolenską ir visą kraštą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) užėmė Smolenskas (0.96)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "611932-612541; hash=dd5277ee0029a57875b73178287cdda652cde31d552ea6e81ce5436f2940f4b1; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Smolenskas: 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Smolenskas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Vytautas užėmė Smolenską."
   pagrindžia:
     - c-169135
 ## Reikšmingi paminėjimai
@@ -81,8 +67,8 @@ Nenurodyta
     damas, kad, pasikeitus aplinkybėms, po jo išvykimo
     kiltų kokių sąmyšių, pats gerokai užtruko Smolenske.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -93,7 +79,8 @@ Nenurodyta
 - id: c-169135
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 351"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 351."
   citata_originali: |
     Ta proga
     atvyko į stovyklą ir Glėbas,

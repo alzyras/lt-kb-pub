@@ -42,16 +42,6 @@ Aukščiausiosios Tarybos rūmai šiame šaltinyje aprašomi kaip pagrindinė 19
 - t-005
   global_id: t-49628
   teiginys: "Aukščiausiosios Tarybos rūmų rūsyje gynybai buvo įrengtos ginklų remonto, šovinių ir sprogmenų gamybos dirbtuvės bei šaudykla."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1039278-1039440; hash=6fc973d599203d021625c3fa5a72dc6d73528df1329325dc3ced693760c29c11; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  ryšio_patikimumas: "susije_su -> Ginklai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aukščiausiosios Tarybos rūmai (institucija): owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Ginklai: mention_match, thing, gap=58"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aukščiausiosios Tarybos rūmai (institucija)\" parinktas kaip owner_note_path. Targetas \"Ginklai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-51594
 
@@ -59,9 +49,6 @@ Aukščiausiosios Tarybos rūmai šiame šaltinyje aprašomi kaip pagrindinė 19
 - t-007
   global_id: t-49629
   teiginys: "Ant Aukščiausiosios Tarybos rūmų stogo pritvirtinti metaliniai strypai turėjo apsunkinti šturmo grupių desantavimą sraigtasparniais."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1039523-1039671; hash=1b1d2af28df93d3bcb6ef9e162c0f4ef44e42f7eefa3119f2d5e77c0f5a9849b; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
   pagrindžia:
     - c-51592
 
@@ -69,9 +56,6 @@ Aukščiausiosios Tarybos rūmai šiame šaltinyje aprašomi kaip pagrindinė 19
 - t-006
   global_id: t-49630
   teiginys: "Aukščiausiosios Tarybos rūmų fojė ginkluoti vyrai buvo surinkti ir suskirstyti penketukais."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1039799-1039929; hash=6a8e3a86530b0413753d37046bd4c1775a2dd04443a53bf86cb46fed1fc32209; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
   pagrindžia:
     - c-51590
 
@@ -79,9 +63,6 @@ Aukščiausiosios Tarybos rūmai šiame šaltinyje aprašomi kaip pagrindinė 19
 - t-007
   global_id: t-49629
   teiginys: "Ant Aukščiausiosios Tarybos rūmų stogo pritvirtinti metaliniai strypai turėjo apsunkinti šturmo grupių desantavimą sraigtasparniais."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1039523-1039671; hash=1b1d2af28df93d3bcb6ef9e162c0f4ef44e42f7eefa3119f2d5e77c0f5a9849b; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
   pagrindžia:
     - c-51592
 
@@ -89,11 +70,6 @@ Aukščiausiosios Tarybos rūmai šiame šaltinyje aprašomi kaip pagrindinė 19
 - t-008
   global_id: t-49632
   teiginys: "1991 m. sausio 11-12 d. rūmų vidus buvo įtvirtinamas spygliuota viela, smėlio maišais, armatūros tinklais, užminuotais laiptais ir baldų barikadomis."
-  temporaliniai_duomenys: "įvykio data: 1991 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1049986-1050385; hash=f1500e93936ba30227d6dffd64f8715e68313649dc86b4067d70264c53ca6519; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
   pagrindžia:
     - c-51591
 
@@ -101,9 +77,6 @@ Aukščiausiosios Tarybos rūmai šiame šaltinyje aprašomi kaip pagrindinė 19
 - t-007
   global_id: t-49629
   teiginys: "Ant Aukščiausiosios Tarybos rūmų stogo pritvirtinti metaliniai strypai turėjo apsunkinti šturmo grupių desantavimą sraigtasparniais."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1039523-1039671; hash=1b1d2af28df93d3bcb6ef9e162c0f4ef44e42f7eefa3119f2d5e77c0f5a9849b; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
   pagrindžia:
     - c-51592
 - susijęs iš [[objektai/asmenys/Vytautas Žukas.md#claim-t-40530|Vytautas Žukas]]: AT gynėjas ir vėlesnis Lietuvos kariuomenės generolas majoras Vytautas Žukas pasakojo apie Aukščiausiosios Tarybos gynybos principus.
@@ -193,8 +166,8 @@ Aukščiausiosios Tarybos rūmai šiame šaltinyje aprašomi kaip pagrindinė 19
     „Visus ginkluotus vyrus surinko AT rūmų fojė, suskirstė penketu-
     kais. Man priskyrė penkis KAD būrio vyrus. Mūsų vieta ir užduotis
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -216,8 +189,8 @@ Aukščiausiosios Tarybos rūmai šiame šaltinyje aprašomi kaip pagrindinė 19
     pradėtos įrenginėti baldų barikados rūmų
     viduje. Išoriniame perimetre smėlio bars-
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -231,8 +204,8 @@ Aukščiausiosios Tarybos rūmai šiame šaltinyje aprašomi kaip pagrindinė 19
     stogo pritvirtinti metaliniai strypai turėjo apsunkinti
     šturmo grupių desantavimą sraigtasparniais
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -246,8 +219,8 @@ Aukščiausiosios Tarybos rūmai šiame šaltinyje aprašomi kaip pagrindinė 19
     gamybos dirbtuvės bei šaudykla. Ginklai
     ir sprogmenys - gyventojų sunešti, gauti
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -270,8 +243,8 @@ Aukščiausiosios Tarybos rūmai šiame šaltinyje aprašomi kaip pagrindinė 19
     „Visus ginkluotus vyrus surinko AT rūmų fojė, suskirstė penketu-
     kais. Man priskyrė penkis KAD būrio vyrus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -373,8 +346,3 @@ Aukščiausiosios Tarybos rūmai šiame šaltinyje aprašomi kaip pagrindinė 19
   pagrindzia:
     - t-183774
     - t-49631
-
-## Ryšiai
-- Gynė Aukščiausiosios Tarybos rūmai (institucija): [[objektai/grupes/ATAS]], [[objektai/asmenys/Vytautas Žukas]]
-- Turėjo priklausinį: [[objektai/daiktai/Plakatas prie Aukščiausiosios Tarybos rūmų 1990 m. kovo 11 d|Plakatas prie Aukščiausiosios Tarybos rūmų 1990 m. kovo 11 d (institucija, XX a.)]]
-- Aukščiausiosios Tarybos rūmai (institucija) priklausė [[objektai/vietos/Vilnius]]

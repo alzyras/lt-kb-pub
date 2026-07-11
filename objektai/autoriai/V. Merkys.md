@@ -44,16 +44,6 @@ Merkys 125 , S. Jurginis, J., Merkys, V., Tautavičius, A.
 - t-001
   global_id: t-31039
   teiginys: "V. Merkys pateikė daug duomenų apie Vilniaus amatų pramonę, darbininkų padėtį ir cechus XIX a. pabaigoje bei XX a. pradžioje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "226133-226570; hash=892db49e94a5d73f6ca9b6900bcb769b14df2f140235fcb8259bf56cb9587498; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Merkys: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "V. Merkys: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Merkys: mention_match, place, gap=3"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"V. Merkys\" parinktas kaip owner_note_path. Targetas \"Merkys\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-33175
 
@@ -61,21 +51,6 @@ Merkys 125 , S. Jurginis, J., Merkys, V., Tautavičius, A.
 - t-002
   global_id: t-188484
   teiginys: "V. Merkys sudarė S. Daukanto „Raštų“ 1-ąjį tomą ir parašė šio tomo įvadą bei paaiškinimus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "67790-67927; hash=4609ef48b8ba1eeaa602a5043509cb8b5bc2e1a5d93cad88043a360bfa286e15; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Merkys: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "V. Merkys: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Merkys: mention_match, place, gap=3"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"V. Merkys\" parinktas kaip owner_note_path. Targetas \"Merkys\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171374
 - susijęs iš [[objektai/autoriai/Lietuvos istorikai ir socialinės istorijos tyrėjai.md#claim-t-179539|Lietuvos istorikai ir socialinės istorijos tyrėjai]]: P. Žostautaitė tyrė Prūsijos lietuvių vokietinimą ir pasipriešinimą jam 1848-1914 m.
@@ -97,8 +72,8 @@ Merkys 125 , S. Jurginis, J., Merkys, V., Tautavičius, A.
     vičius (IstV, t. 9, 1968, 97-111 p.) ir V. Milius (AkMD, t. 19,
     1965, 169-183 p.).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -112,8 +87,8 @@ Merkys 125 , S. Jurginis, J., Merkys, V., Tautavičius, A.
     įvadą ir paaiškinimus parašė V Merkys. -  V, 1976. -  T. 1. -  P. 488-
     560.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -145,7 +120,8 @@ Merkys 125 , S. Jurginis, J., Merkys, V., Tautavičius, A.
 - id: c-171374
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 37"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 37."
   citata_originali: |
     21 Daukantas S. Raštai / Tekstą parengė B. Vanagienė. Sudarė,
     įvadą ir paaiškinimus parašė V Merkys. -  V, 1976. -  T. 1. -  P. 488-

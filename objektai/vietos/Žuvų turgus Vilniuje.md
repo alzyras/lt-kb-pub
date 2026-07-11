@@ -41,16 +41,6 @@ Kad su tuo buvo susijęs ir Žygimantas Augustas, įro­ do tai, jog netrukus š
 - t-001
   global_id: t-86322
   teiginys: "Netoli Žuvų turgaus Vilniuje pastoriai Čechavičius ir Vendrichovskis septynerius metus viešai vykdė reformuoto tikėjimo apeigas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "569878-570451; hash=ada899ee774e9046bea317ce067ce7076028169a4f4d620891181dcb49d3638f; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vendrichovskis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žuvų turgus Vilniuje: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Vendrichovskis: mention_match, person, gap=47"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žuvų turgus Vilniuje\" parinktas kaip owner_note_path. Targetas \"Vendrichovskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-82301
 ## Reikšmingi paminėjimai
@@ -76,8 +66,8 @@ Kad su tuo buvo susijęs ir Žygimantas Augustas, įro­ do tai, jog netrukus š
     šai tas apeigas vykdė, kol ties Šv. Mykolo bažnyčia buvo
     išmūryti didieji maldos namai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

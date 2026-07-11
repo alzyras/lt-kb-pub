@@ -44,19 +44,6 @@ Bet, pasiekus Šventąją, netoli Ukmergės (ties Pabaisku), jam pastojo kelią 
 - t-014
   global_id: t-171924
   teiginys: "1435 m. rugsėjo 1 d. mūšis įvyko prie kelio į Vilnių, ten, kur vėliau stovėjo Pabaisko parapijos bažnyčia."
-  temporaliniai_duomenys: "mūšio data: 1435 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai perteikia citatoje nurodytą mūšio datą ir vietą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "446177-446564; hash=4c3792b66918d813629cc58ed9c0003f174cc2f6f99065bbff8c1f59b7903e58; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Tomas (Hertvigo iš Pokarvių sūnus): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Pabaiskas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Tomas (Hertvigo iš Pokarvių sūnus): mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pabaiskas\" parinktas kaip owner_note_path. Targetas \"Tomas (Hertvigo iš Pokarvių sūnus)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-156384
 
@@ -64,16 +51,6 @@ Bet, pasiekus Šventąją, netoli Ukmergės (ties Pabaisku), jam pastojo kelią 
 - t-008
   global_id: t-171926
   teiginys: "Pabaiskas buvo parapijos kaimas, nutolęs nuo Vilniaus–Ukmergės pašto trakto per 2 varstus į kairę."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "447833-448400; hash=2fc375aaf1ab6c2e6328286d105e63d8484cb137d9be30993f6084abc790aca2; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Ukmergė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Pabaiskas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Ukmergė: mention_match, place, gap=54"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pabaiskas\" parinktas kaip owner_note_path. Targetas \"Ukmergė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-156380
 
@@ -81,18 +58,6 @@ Bet, pasiekus Šventąją, netoli Ukmergės (ties Pabaisku), jam pastojo kelią 
 - t-007
   global_id: t-171927
   teiginys: "Pabaiske vietos žmonės dar prisiminė šioje vietoje vykusį garsų mūšį ir jame žuvusį priešo kunigaikštį ar riterį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "447631-448140; hash=5f979cac384a1bb8fcba52a528cad2659eeb91667d74d46ac9928a12167d5f0e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vaclovas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Pabaiskas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Vaclovas: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pabaiskas\" parinktas kaip owner_note_path. Targetas \"Vaclovas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-156381
 
@@ -100,16 +65,6 @@ Bet, pasiekus Šventąją, netoli Ukmergės (ties Pabaisku), jam pastojo kelią 
 - t-009
   global_id: t-171929
   teiginys: "Žygimantas mūšio lauką pavadino Pabaisku ir toje vietoje pastatė parapijos bažnyčią."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "447057-447527; hash=ba28d1bb8620ef8d415ae7cc4a60418e96b4dedb27029becc09a356b13ee6c9f; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "pastate -> Pabaiskas: 0.55"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Žygimantas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Pabaiskas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekste statytojas yra Žygimantas, o Pabaiskas yra leidžiamas vietos kandidatas, nors pati bažnyčia nėra atskiras kandidatas."
   pagrindžia:
     - c-156379
 
@@ -117,16 +72,6 @@ Bet, pasiekus Šventąją, netoli Ukmergės (ties Pabaisku), jam pastojo kelią 
 - t-010
   global_id: t-171930
   teiginys: "Pabaiskas buvo kalvota, bet atvira ir gana graži vietovė prie naujos mūrinės bažnyčios."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "447833-448400; hash=2fc375aaf1ab6c2e6328286d105e63d8484cb137d9be30993f6084abc790aca2; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kščeniškiai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Pabaiskas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kščeniškiai: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pabaiskas\" parinktas kaip owner_note_path. Targetas \"Kščeniškiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-156380
 
@@ -134,16 +79,6 @@ Bet, pasiekus Šventąją, netoli Ukmergės (ties Pabaisku), jam pastojo kelią 
 - t-006
   global_id: t-171933
   teiginys: "Žygimantas mūšio lauką pavadino Pabaisku, per jį tekantį upelį – Viktorija, ir toje vietoje pastatė parapijos bažnyčią."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "447057-447527; hash=ba28d1bb8620ef8d415ae7cc4a60418e96b4dedb27029becc09a356b13ee6c9f; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "pastate -> Pabaiskas: 0.55"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Žygimantas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Pabaiskas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Leidžiamuose kandidatuose nėra bažnyčios objekto; Pabaiskas yra vieta, kurioje Žygimantas pastatė bažnyčią."
   pagrindžia:
     - c-156379
 
@@ -151,21 +86,6 @@ Bet, pasiekus Šventąją, netoli Ukmergės (ties Pabaisku), jam pastojo kelią 
 - t-007
   global_id: t-187629
   teiginys: "Pabaisko mūšio vieta siejama su Žirnajų upeliu tarp Žirnajų ežero ir Pabaisko, 9 km nuo Ukmergės."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "522663-522904; hash=9f6be554c8c4a3637b74f267e78e680a51226fb5526fbe6181fd5b599c7e1798; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Ukmergė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Pabaiskas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Ukmergė: mention_match, place, gap=88"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pabaiskas\" parinktas kaip owner_note_path. Targetas \"Ukmergė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-170576
 
@@ -173,12 +93,6 @@ Bet, pasiekus Šventąją, netoli Ukmergės (ties Pabaisku), jam pastojo kelią 
 - t-015
   global_id: t-193778
   teiginys: "Šią kariuomenių išsidėstymo situaciją natūroje atitinka ne Žirnajos (kaip įprasta istoriografijoje), bet jos dešiniojo intako Vintaros, tekančios per dabartinį Pabaisko miestelį, padėtis."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "278997-279405; hash=7651b17f3dac1a23721d27ab9d993b38a8b453d4439c3586ee58b981af682e57; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176431
 - susijęs iš [[objektai/asmenys/Žygimantas Kęstutaitis.md#claim-t-114107|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]: Žygimantas Kęstutaitis Pabaisko pergalės atminimui mūšio lauką pavadino Pabaisku ir pastatė parapijos bažnyčią.
@@ -207,8 +121,8 @@ Bet, pasiekus Šventąją, netoli Ukmergės (ties Pabaisku), jam pastojo kelią 
     vos sostinę, turėjo didelės įtakos tolesniam visos Lietuvos
     likimui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -236,8 +150,8 @@ Bet, pasiekus Šventąją, netoli Ukmergės (ties Pabaisku), jam pastojo kelią 
     to į kairę per 2 varstus, per pusę
     mylios už Kščeniškių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -264,8 +178,8 @@ Bet, pasiekus Šventąją, netoli Ukmergės (ties Pabaisku), jam pastojo kelią 
     bar iškilusi nauja mūrinė bažnyčia,
     netgi gana graži.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -289,8 +203,8 @@ Bet, pasiekus Šventąją, netoli Ukmergės (ties Pabaisku), jam pastojo kelią 
     stovi Pabaisko parapijos bažnyčia. Kautynės prasidėjo prie
     mažo upelio, laukuose, netoli nuo dabartinės bažnyčios.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -306,8 +220,8 @@ Bet, pasiekus Šventąją, netoli Ukmergės (ties Pabaisku), jam pastojo kelią 
     * *  Žygimantas Kaributams — Algirdo vaikams, Kaributo Alglr-
     dalčlo sūnus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -329,8 +243,8 @@ Bet, pasiekus Šventąją, netoli Ukmergės (ties Pabaisku), jam pastojo kelią 
     riuomenė, ar buvo perėjusi Žirnajos upę
     (kaip teigiama istoriografijoje), nėra aišku.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -485,6 +399,3 @@ Bet, pasiekus Šventąją, netoli Ukmergės (ties Pabaisku), jam pastojo kelią 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193778
-
-## Ryšiai
-- Buvo pastatyta: [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]

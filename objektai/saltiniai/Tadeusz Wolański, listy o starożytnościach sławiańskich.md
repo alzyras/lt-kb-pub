@@ -30,14 +30,6 @@ Remdamasis Tadeuszo Wolańskio laiškais, Narbutas numizmatinius radinius laikė
 - t-001
   global_id: t-191861
   teiginys: "Remdamasis Tadeuszo Wolańskio laiškais, Narbutas numizmatinius radinius laikė lietuvių vardo žinomumo Julijaus Cezario laikais liudijimu."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "485367-485537; hash=fc239879f986527b96f9965ec69296faa68331ad21eb7f936a959943aa3487bc; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174743
 ## Reikšmingi paminėjimai
@@ -50,8 +42,8 @@ Remdamasis Tadeuszo Wolańskio laiškais, Narbutas numizmatinius radinius laikė
     das buvo gerai žinomas. Tai liudija numizmatiniai radiniai (Tadeusza
     Wolanskiego listy o staroiytnoščiach slawiahskich. S, 21—22)*.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -62,7 +54,8 @@ Remdamasis Tadeuszo Wolańskio laiškais, Narbutas numizmatinius radinius laikė
 - id: c-174743
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 272"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 272."
   citata_originali: |
     Julijaus Cezario laikais lietuvių var­
     das buvo gerai žinomas. Tai liudija numizmatiniai radiniai (Tadeusza

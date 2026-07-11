@@ -34,16 +34,6 @@ Wulfstanas buvo pirmasis, kuris pats matė aprašomą kraštą. Apie « aisčių
 - t-003
   global_id: t-97232
   teiginys: "Wulfstanas pasakojo apie prūsų laidojimo papročius ir teigė, kad aisčiai mokėjo išlaikyti užšaldytus lavonus vasarą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "315109-315270; hash=9777261044358813031288b9a8d4aba471c20eeb7789cf7abf9938698aee72de; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aisčiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Wulfstanas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Aisčiai: mention_match, group, gap=65"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Wulfstanas\" parinktas kaip owner_note_path. Targetas \"Aisčiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-91714
 
@@ -51,9 +41,6 @@ Wulfstanas buvo pirmasis, kuris pats matė aprašomą kraštą. Apie « aisčių
 - t-001
   global_id: t-97233
   teiginys: "Wulfstanas buvo pirmasis autorius, pats matęs aprašomą rytų Pabaltijo kraštą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "313977-314230; hash=8f99bb0045ec08f0611192fe67fdf19fb4c1d8e6a23d4b97194459ce3e47b9e2; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-91713
 
@@ -61,16 +48,6 @@ Wulfstanas buvo pirmasis, kuris pats matė aprašomą kraštą. Apie « aisčių
 - t-002
   global_id: t-97234
   teiginys: "Wulfstanas rašė, kad aisčių žemė buvo labai didelė, joje buvo daug medaus ir žuvies."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "314505-314871; hash=2ca078fe556cef95efe21280176191fcf93f7149a4b9fb8732d84e811fbb52f5; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aisčiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Wulfstanas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Aisčiai: mention_match, group, gap=21"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Wulfstanas\" parinktas kaip owner_note_path. Targetas \"Aisčiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-91712
 
@@ -78,16 +55,6 @@ Wulfstanas buvo pirmasis, kuris pats matė aprašomą kraštą. Apie « aisčių
 - t-004
   global_id: t-97235
   teiginys: "Wulfstanas buvo jūrininkas, lankęsis Baltijos jūros pakraščių kraštuose ir perdavęs žinių karaliui Alfredui Didžiajam."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "12901-13339; hash=93fb6e2b54d8046de1bd324684a9cd4b1c1c35053e6ba9face8e2339debd114c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Baltija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Wulfstanas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Baltija: mention_match, place, gap=37"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Wulfstanas\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-36706
 
@@ -95,16 +62,6 @@ Wulfstanas buvo pirmasis, kuris pats matė aprašomą kraštą. Apie « aisčių
 - t-002
   global_id: t-97234
   teiginys: "Wulfstanas rašė, kad aisčių žemė buvo labai didelė, joje buvo daug medaus ir žuvies."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "314505-314871; hash=2ca078fe556cef95efe21280176191fcf93f7149a4b9fb8732d84e811fbb52f5; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aisčiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Wulfstanas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Aisčiai: mention_match, group, gap=21"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Wulfstanas\" parinktas kaip owner_note_path. Targetas \"Aisčiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-91712
 - susijęs iš [[objektai/paprociai/Aisčių laidotuvių ir vėlinių apeigos.md#claim-t-192100|Aisčių laidotuvių ir vėlinių apeigos]]: Wulfstano aprašyti aisčiai mirusiojo kūną laikydavo mėnesius, iš jo turto keldavo puotas, o likutį išdalydavo per arklių lenktynes.
@@ -129,8 +86,8 @@ Wulfstanas buvo pirmasis, kuris pats matė aprašomą kraštą. Apie « aisčių
 
     (^1) ) Klim.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -148,8 +105,8 @@ Wulfstanas buvo pirmasis, kuris pats matė aprašomą kraštą. Apie « aisčių
     didelė, o joje esą daug medaus ir žuvies. Tarp savęs aisčiai daug
     kariaują.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -166,8 +123,8 @@ Wulfstanas buvo pirmasis, kuris pats matė aprašomą kraštą. Apie « aisčių
     Haithabu (Schleswige) keliautojas buriniu laivu atvyko iki Truso
     (Drausensee).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -182,8 +139,8 @@ Wulfstanas buvo pirmasis, kuris pats matė aprašomą kraštą. Apie « aisčių
     «Aisčiai» moką išlaikyti užšaldytus lavonus net vasaros karščių
     metu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

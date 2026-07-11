@@ -40,20 +40,6 @@ media_all_json: |-
 - t-001
   global_id: t-19204
   teiginys: "Robertas Zemeckis gimė Čikagoje 1952 m. lietuvio šeimoje."
-  semantiniai_rysiai: "Robertas Zemeckis gimė Čikaga (0.96)"
-  temporaliniai_duomenys: "įvykio data: 1952 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pagrindžia trumpą biografinį faktą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "540839-541442; hash=0b93b42aa1a784dabff6f0102b240d57edaf54e8595962d4ebbf147f1e3fe876; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gime -> Čikaga: 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Robertas Zemeckis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Čikaga: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Roberto Zemeckio gimimo vietą Čikagoje."
   pagrindžia:
     - c-21948
 - susijęs iš [[objektai/posakiai/„idealiąją Lietuvą“.md#claim-t-183492|„idealiąją Lietuvą“]]: „Idealiojoje Lietuvoje“ įsivaizduojama, kad spektaklius ir filmus kuria Jonas Mekas, Eimuntas Nekrošius ir Robertas Zemeckis.
@@ -75,8 +61,8 @@ media_all_json: |-
     o juose vaidina seras John Gielgud (Džonas Gilgudas) ir Charles Bronson
     (Karolis Bučinskis).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

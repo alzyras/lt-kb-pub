@@ -33,16 +33,6 @@ Vakare Vilniaus įgula, dengiama artilerijos kapitono kunigaikščio Kazimiero S
 - t-001
   global_id: t-42390
   teiginys: "Vakare Vilniaus įgula, dengiama Kazimiero Sapiegos vadovaujamos artilerijos baterijos, atsitraukė per Žaliąjį tiltą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "626625-627110; hash=6340f06412876ada1ced7130d88ad3004616962ee26ba4b499a24653e9ed70e8; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Artilerija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žaliasis tiltas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Artilerija: mention_match, thing, gap=38"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žaliasis tiltas\" parinktas kaip owner_note_path. Targetas \"Artilerija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-45478
 ## Reikšmingi paminėjimai
@@ -65,8 +55,8 @@ Vakare Vilniaus įgula, dengiama artilerijos kapitono kunigaikščio Kazimiero S
     per Žaliąjį tiltą. Rugpjūčio 12 d. Rusi-
     jos kariuomenė užėmė Vilnių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

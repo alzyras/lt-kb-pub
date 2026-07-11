@@ -40,19 +40,6 @@ S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų. T. Narbutas s
 - t-001
   global_id: t-186292
   teiginys: "S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1377639-1377888; hash=ff039c8969799628e5afb2d0484e3d23cb9121f29e68f5d9b7444a011811d2ed; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "T. Narbutas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"T. Narbutas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-169653
 
@@ -60,14 +47,6 @@ S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų. T. Narbutas s
 - t-002
   global_id: t-188477
   teiginys: "T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkretindavo ir papildydavo tuo, kas, jo manymu, galėjo būti pasakyta."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "61266-61728; hash=5e3b46170d54aed9de91d5fe110fc79b6875237672640a7e5f29005ca6e7fa48; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171367
 
@@ -75,14 +54,6 @@ S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų. T. Narbutas s
 - t-003
   global_id: t-188478
   teiginys: "T. Narbutas daug vertė, rašė eilėraščius, domėjosi socialinėmis idėjomis, dvaro ūkiu, archeologija ir tautosaka."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "4939-5226; hash=b8eebfe830c963ea76e34cfe2f094263a4d90a699486d52761451a11b99d2029; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171368
 
@@ -90,24 +61,6 @@ S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų. T. Narbutas s
 - t-004
   global_id: t-188479
   teiginys: "1830 m. T. Narbutas išleido „Čigonų liaudies istorijos bruožus“ ir buvo parengęs darbą apie linų bei kanapių auginimą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1826 m.; įvykio data: 1830 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Atsisakyta vertinimo apie darbštumą ir palikti konkretūs publikuoti ar parengti darbai. Nepridėti vertimų pavadinimai, nes citatoje jie pateikti tik bendrais bruožais."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "8652-8958; hash=538c1a972f7d9f8903ffc1053f007501b47a0defe096a7960c84a123072e7dba; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "T. Narbutas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"T. Narbutas\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171369
 
@@ -115,21 +68,6 @@ S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų. T. Narbutas s
 - t-005
   global_id: t-188480
   teiginys: "Trečiojo dešimtmečio pabaigoje T. Narbutas jau buvo sukaupęs šaltinių seniausiai Lietuvos istorijai rekonstruoti."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "88461-89105; hash=0623adff60040d3cf6ba1783e445bb8818264e60ce179a3e7c7b790dafaa7792; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "T. Narbutas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=81"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"T. Narbutas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171370
 
@@ -137,21 +75,6 @@ S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų. T. Narbutas s
 - t-006
   global_id: t-188481
   teiginys: "T. Narbutas korespondencijoje minėjo neįvardytą Lydos mokytoją, vertusį LTI į rusų kalbą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "116856-117223; hash=e3284990f0771ebec8cef1fa6955027d87cffcfd53b65f6c542ea0526abf558c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Rusai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "T. Narbutas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Rusai: mention_match, group, gap=78"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"T. Narbutas\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171371
 
@@ -159,14 +82,6 @@ S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų. T. Narbutas s
 - t-007
   global_id: t-188482
   teiginys: "Narbutui priskiriama ypač didelė, net aistra vadinama, dėmesio koncentracija į lietuvių mitologijos tyrinėjimus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "135876-136176; hash=88ab9122b696cb9518b4e62fa08585b411cb5e9652d865b65b823b8ba0eca8bf; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171372
 
@@ -174,21 +89,6 @@ S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų. T. Narbutas s
 - t-008
   global_id: t-188483
   teiginys: "Teodoras Narbutas spaudai parengė „Kronika Niemiecka J. F. R.“ iš autentiško rankraščio."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "888014-888187; hash=a03958fbfa021e0a3bf147c81d5cd7e56b04c76c21aa2077db8e689e36782e53; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Teodoras Narbutas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "T. Narbutas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Teodoras Narbutas: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"T. Narbutas\" parinktas kaip owner_note_path. Targetas \"Teodoras Narbutas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171373
 
@@ -196,21 +96,6 @@ S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų. T. Narbutas s
 - t-009
   global_id: t-190808
   teiginys: "Teodoras Narbutas buvo skaitęs Augusto Liudviko fon Slėcerio tyrinėjimus ir žinojo jo nuomonę apie lietuvių kilmę bei Palemoną."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "3509-4187; hash=9cbc7fbfd72072b75fc63f980836931fc194f99348dec5c40d677788d7b7cc3b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Teodoras Narbutas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=99"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Teodoras Narbutas\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173690
 
@@ -218,21 +103,6 @@ S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų. T. Narbutas s
 - t-011
   global_id: t-190810
   teiginys: "Teodoras Narbutas laišką bičiuliui ir mokytojui Ignui Onacevičiui pradėjo deklaracija „Aš nerašau lietuvių tautos istorijos“."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "789739-789920; hash=27817c10d72c6fc924b50945ddd960f2584d9fecec962df135ff0eefb9a4aac8; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Teodoras Narbutas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Teodoras Narbutas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Teodoras Narbutas: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Teodoras Narbutas\" parinktas kaip owner_note_path. Targetas \"Teodoras Narbutas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173692
 
@@ -240,24 +110,6 @@ S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų. T. Narbutas s
 - t-012
   global_id: t-190811
   teiginys: "1828 m. Varšuvoje išleistas T. Święckio veikalas „Opis starožytnej Polski“ buvo Teodoro Narbuto bibliotekoje."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1828 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sakinys išvalytas nuo išnašos triukšmo ir išlaikytas bibliografinis faktas apie Narbuto biblioteką. Nepridėta duomenų už leidimo vietą, metus ir buvimo faktą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "865338-865536; hash=558e84a7689ceb158fb40ad73638d204098a5bc73e8f81910ce0422a3b5924e9; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Varšuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Teodoras Narbutas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Varšuva: mention_match, place, gap=72"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Teodoras Narbutas\" parinktas kaip owner_note_path. Targetas \"Varšuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173693
 
@@ -265,21 +117,6 @@ S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų. T. Narbutas s
 - t-013
   global_id: t-191907
   teiginys: "Teodoras Narbutas svarstė, kad ašarinėse esantis skystis žemėje galėjo tapti dujiškai nepatvarus ir išgaruoti per stiklą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "703352-703734; hash=07933f16d632ff20329205e7b853a5344e386f1def6ddf14085cfc6ddb6aec56; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Teodoras Narbutas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Teodoras Narbutas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Teodoras Narbutas: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Teodoras Narbutas\" parinktas kaip owner_note_path. Targetas \"Teodoras Narbutas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174789
 
@@ -287,12 +124,6 @@ S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų. T. Narbutas s
 - t-014
   global_id: t-193589
   teiginys: "Dar nesiekta visiškai uždrausti spausdinti knygas ir kitokius leidinius lenkų kalba – 1835–1841 m. Vilniuje lenkų kalba išeina devyni tomai karo inžinieriaus ir istoriko Teodoro Narbuto „Lietuvių tautos istorijos“, skirtos Lietuvos istorijai iki Liublino."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "199657-200078; hash=c85be376105185a8b458f774a874043a07030b112ba2d340e15a095f0e78495e; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176264
 
@@ -300,12 +131,6 @@ S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų. T. Narbutas s
 - t-015
   global_id: t-193880
   teiginys: "Narbutas nuo 1838 m. pradėjo rūpintis Bychovco kronikos išspaus dinimu."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "13270-13597; hash=56e6e03360171a993bc2aded70f626015d1840065bb9a1751d67f31895fc5f0f; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176507
 
@@ -313,12 +138,6 @@ S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų. T. Narbutas s
 - t-016
   global_id: t-194207
   teiginys: "Tiesa, Simonas Daukantas buvo parašęs savo Darbus žemai čių ir lietuvių, o Teodoras Narbutas dar tik rašė savo Lietuvių tautos istoriją."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "10219-10663; hash=5a6a4291ee40e7bdc8d2b282903a3be3361877352b2c09e4d048c35f3bf0f54a; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176810
 
@@ -326,12 +145,6 @@ S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų. T. Narbutas s
 - t-017
   global_id: t-194208
   teiginys: "Narbutas susilaukė rūsčios jo kritikos."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "20804-21281; hash=4f1212ee0a761628ec775490a40437cc9d353f175ccb5826250d70f9b8b202e7; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176811
 - susijęs iš [[objektai/asmenys/Anicetas Renjė.md#claim-t-187895|Anicetas Renjė]]: Paaiškinime Anicetas Renjė pristatomas kaip Vilniaus gydytojas ir visuomenės veikėjas, ilgai susirašinėjęs su Teodoru Narbutu.
@@ -499,8 +312,8 @@ S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų. T. Narbutas s
     S. Daukantas laikė — greta N. Karamzino, J. Foigto, T. Narbuto —
     vienu iš savo vadovų (plg. Raštai. T. 2. V,, 1976, p. 8).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -519,8 +332,8 @@ S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų. T. Narbutas s
     mais“, „rankraščiais“. Tačiau vargu ar tai buvo sąmoninga fal­
     sifikacija.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -536,8 +349,8 @@ S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų. T. Narbutas s
     į archeologinius kasinėjimus, rinko ir užrašinėjo tautosaką. Vi­
     suomenės akyse jis tapo LTI autoriumi.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -554,8 +367,8 @@ S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų. T. Narbutas s
     teto konkursui pateiktas darbas apie linų ir kanapių augini­
     mą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -581,8 +394,8 @@ S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų. T. Narbutas s
     turėjo sukaupęs pakankamą kiekį šaltinių, kuriais remdama­
     sis galėjo ryžtis rekonstruoti seniausią Lietuvos istoriją.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -599,8 +412,8 @@ S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų. T. Narbutas s
     rodė), kuris LTI vertė į rusų kalbą. Istorikas vertėjo darbu bu­
     vo labai nepatenkintas, tikriausiai ne vieną kartą taisė tekstą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -616,8 +429,8 @@ S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų. T. Narbutas s
     lima konstatuoti, kad mitologijai istorikas skyrė ypač daug dė­
     mesio, kurį galbūt net būtų galima pavadinti aistra.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -632,8 +445,8 @@ S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų. T. Narbutas s
     zyt i do druku podal Teodor Narbutt // MAB RS. -
     E 22. -  B. 54).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -657,8 +470,8 @@ S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų. T. Narbutas s
     veras Bogušas, ir Jokimas Lelevelis, bet istorikas sten­
     1 Saurai?
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -673,8 +486,8 @@ S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų. T. Narbutas s
     racija T. Narbutas pradėjo laišką bičiuliui ir mokytojui
     Ignui Onacevičiui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -691,8 +504,8 @@ S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų. T. Narbutas s
     veikalo ledimas buvo T. Narbuto bibliotekoje (ĮNarbutt T.] Spi­
     sanie Muzeum w Szawrach. L. 14. Nr. 146—147).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -711,8 +524,8 @@ S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų. T. Narbutas s
     įgauna tiek dujinio nepatvarumo, kad išgaruoja ir per
     stiklą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -729,8 +542,8 @@ S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų. T. Narbutas s
     jas, Lietuvos (LDK) patriotas J. I. Kraševskis, 1841–1851 m. Vilniuje leidęs
     kultūrinio pobūdžio žurnalą „Atheneum“.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -748,8 +561,8 @@ S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų. T. Narbutas s
     tvarkė spausdinimo reikalus ir skaitė korektūras. *
     * J .
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -767,8 +580,8 @@ S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų. T. Narbutas s
     mą. 1835 m. pasirodė T. Narbuto istorijos pirmasis tomas, kitais
     metais - pirmoji M. Balinskio Vilniaus miesto istorijos dalis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -788,8 +601,8 @@ S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų. T. Narbutas s
     duotėje daugybę pagoniškų dievų Lietuvai, kurių ji niekada ne­
     turėjo...
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -820,7 +633,8 @@ S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų. T. Narbutas s
 - id: c-171367
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 34"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 34."
   citata_originali: |
     Panašiai T. Narbutas elgiasi ir su daugeliu kitų senųjų ra­
     šytinių šaltinių -  praplečia jų informaciją, sukonkretina, per­
@@ -840,7 +654,8 @@ S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų. T. Narbutas s
 - id: c-171368
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 5"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 5."
   citata_originali: |
     T. Narbutas, kaip ir daugelis to meto žmonių, bodėjosi vie-
     nakryptės veiklos. Jis daug vertė, rašė eilėraščius, domėjosi
@@ -857,7 +672,8 @@ S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų. T. Narbutas s
 - id: c-171369
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 7"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 7."
   citata_originali: |
     T. Narbuto darbštumas ir interesų įvairovė stebina šiuo­
     laikinį žmogų. 1830 m. jis išleido „Čigonų liaudies istorijos
@@ -902,7 +718,8 @@ S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų. T. Narbutas s
 - id: c-171371
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 63"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 63."
   citata_originali: |
     Tituliniame lape rusų kalba parašyta: „Lietuvių mitolo­
     gija. Iš lenkų kalbos išvertė pats autorius“. Deja, pastaruoju
@@ -920,7 +737,8 @@ S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų. T. Narbutas s
 - id: c-171372
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 75"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 75."
   citata_originali: |
     Vietoj pabaigos. Taigi T. Narbuto paieškos lietuvių mito­
     logijos tyrinėjimų srityje buvo atkaklesnės ir tragiškesnės, ne­
@@ -937,7 +755,8 @@ S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų. T. Narbutas s
 - id: c-171373
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 507"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 507."
   citata_originali: |
     P. 383***** _ Kronika Niemiecka J. F. R. (Z rękopismu au-
     tentycznego, objašnil, tlómaczenie polskie doląc-
@@ -953,7 +772,8 @@ S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų. T. Narbutas s
 - id: c-173690
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 4"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 4."
   citata_originali: |
     Lietuvių kilmės teorijos, kurių atsiradimą reikėtų sie­
     ti dar su Renesanso laikotarpiu, buvo puikiai žinomos
@@ -978,7 +798,8 @@ S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų. T. Narbutas s
 - id: c-173692
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 439"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 439."
   citata_originali: |
     Sumanymas. „Aš nerašau lietuvių tautos istorijos
     < ...> “ — tokia iš pirmo žvilgsnio šokiruojančia dekla­
@@ -994,7 +815,8 @@ S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų. T. Narbutas s
 - id: c-173693
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 475"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 475."
   citata_originali: |
     44 /Ten pat,
     (28)
@@ -1012,7 +834,8 @@ S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų. T. Narbutas s
 - id: c-174789
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 386"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 386."
   citata_originali: |
     Ten, kur jis nukrito, mes nepastebė­
     jome nė jokio drėgmės pėdsako, neužuodėme nė jokio

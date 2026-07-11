@@ -43,16 +43,6 @@ Pavasarį paskirtas vyriausiuoju Lietuvos sukilėlių karo vadu buvęs Rusijos a
 - t-006
   global_id: t-64420
   teiginys: "Zigmantas Sierakauskas pateko į nelaisvę, kai gegužės 10-osios naktį sukilėlius apsupo paporučikio fon Gaso dalinys."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "673067-673377; hash=9aecc44089b9c5528bda806614338c47befaa096ae995704d03cb7a6b6fb9c32; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> S. Kozakauskas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Zigmantas Sierakauskas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "S. Kozakauskas: mention_match, person, gap=10"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Zigmantas Sierakauskas\" parinktas kaip owner_note_path. Targetas \"S. Kozakauskas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-42350
 
@@ -60,16 +50,6 @@ Pavasarį paskirtas vyriausiuoju Lietuvos sukilėlių karo vadu buvęs Rusijos a
 - t-005
   global_id: t-64421
   teiginys: "Sužeistas Zigmantas Sierakauskas mūšio pradžioje buvo išvežtas ir paslėptas Biržų girioje esančiame Skrebiškio palivarke."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "670571-670928; hash=76b13b87acfd88583bdbe5d66c8a11c9426bce92fc03ac2c4aadd9a34c90f531; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Ginklai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Zigmantas Sierakauskas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Ginklai: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Zigmantas Sierakauskas\" parinktas kaip owner_note_path. Targetas \"Ginklai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-42349
 
@@ -77,17 +57,6 @@ Pavasarį paskirtas vyriausiuoju Lietuvos sukilėlių karo vadu buvęs Rusijos a
 - t-002
   global_id: t-64422
   teiginys: "Gegužės pradžioje prie Biržų Zigmantas Sierakauskas buvo sužeistas, pateko į nelaisvę ir netrukus viešai pakartas Vilniuje."
-  semantiniai_rysiai: "Zigmantas Sierakauskas mirė Vilnius (0.90)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "203503-204059; hash=6e3ca3dcd2924e464695ee2955c4b60a3d4a03cc0d1eb1eed46191658da1c2ae; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "mire -> Vilnius: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Zigmantas Sierakauskas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai sako, kad Sierakauskas netrukus buvo viešai pakartas Vilniuje."
   pagrindžia:
     - c-22087
 
@@ -95,11 +64,6 @@ Pavasarį paskirtas vyriausiuoju Lietuvos sukilėlių karo vadu buvęs Rusijos a
 - t-004
   global_id: t-64423
   teiginys: "Sukilėlių vadas Zigmantas Sierakauskas buvo sužeistas, o po dviejų valandų kovos sukilėlių pasipriešinimas ėmė silpti."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "665520-665676; hash=7b75fa2a050e86c242594e33c6962ba7b601e457ac17cb8624d9d891bdf7d32d; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-42348
 
@@ -107,16 +71,6 @@ Pavasarį paskirtas vyriausiuoju Lietuvos sukilėlių karo vadu buvęs Rusijos a
 - t-003
   global_id: t-64424
   teiginys: "Zigmantas Sierakauskas parengė sukilėlių kovos planą, numatantį sujungti Kauno gubernijos sukilėlių pajėgas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "655713-656005; hash=c49f1c484501d56ab334ec467793f9e51d56d9e48471f9f0a0de2843ab7a53c5; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kaunas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Zigmantas Sierakauskas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kaunas: mention_match, place, gap=73"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Zigmantas Sierakauskas\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-42347
 
@@ -124,19 +78,6 @@ Pavasarį paskirtas vyriausiuoju Lietuvos sukilėlių karo vadu buvęs Rusijos a
 - t-001
   global_id: t-64425
   teiginys: "1863 m. pavasarį Zigmantas Sierakauskas buvo paskirtas vyriausiuoju Lietuvos sukilėlių karo vadu."
-  temporaliniai_duomenys: "įvykio data: 1863 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie Zigmantą Sierakauską."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "203221-203892; hash=6ee95f690341d8a59a138f5444213828176cdd3ab3dec63761b0d4a0b232cb64; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Zigmantas Sierakauskas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=51"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Zigmantas Sierakauskas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-22086
 - susijęs iš [[objektai/asmenys/Antanas Mackevičius.md#claim-t-75695|Antanas Mackevičius]]: Po Zigmanto Sierakausko mirties Antanas Mackevičius buvo paskirtas Kauno gubernijos sukilėlių karo vadu.
@@ -169,8 +110,8 @@ Pavasarį paskirtas vyriausiuoju Lietuvos sukilėlių karo vadu buvęs Rusijos a
     nijoje telkti sukilėlių būrius į armiją, todėl sukilimo slopintojai gavo gali-
     mybę vienu smūgiu nuleisti sukilėliams daug kraujo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -188,8 +129,8 @@ Pavasarį paskirtas vyriausiuoju Lietuvos sukilėlių karo vadu buvęs Rusijos a
     prie Biržų Z. Sierakausko sukilėlių kariuomenė buvo sumušta, pats jos
     vadas sužeistas pateko į nelaisvę ir netrukus buvo viešai pakartas Vilniuje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -208,8 +149,8 @@ Pavasarį paskirtas vyriausiuoju Lietuvos sukilėlių karo vadu buvęs Rusijos a
     kiams, bandyti užimti šį svarbų strateginį
     punktą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -227,8 +168,8 @@ Pavasarį paskirtas vyriausiuoju Lietuvos sukilėlių karo vadu buvęs Rusijos a
 
     Ruoliškioež. @ Pasinaudodami tamsa sukilėliai ėmė
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -250,8 +191,8 @@ Pavasarį paskirtas vyriausiuoju Lietuvos sukilėlių karo vadu buvęs Rusijos a
     Nuo xvii a. pabaigos iki xIx a. pradžios titnaginiai šaunamieji
     ginklai iš esmės nesikeitė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -272,8 +213,8 @@ Pavasarį paskirtas vyriausiuoju Lietuvos sukilėlių karo vadu buvęs Rusijos a
     B. Kolyška, S. Kozakauskas ir dar keletas
     karininkų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -413,6 +354,5 @@ Pavasarį paskirtas vyriausiuoju Lietuvos sukilėlių karo vadu buvęs Rusijos a
     - t-64420
 
 ## Ryšiai
-- Zigmantas Sierakauskas keliavo į [[objektai/vietos/Kaunas]], [[objektai/vietos/Svėdasai]]
 - Zigmantas Sierakauskas mirė [[objektai/vietos/Vilnius]]
 - Zigmantas Sierakauskas paskyrė [[objektai/asmenys/Antanas Mackevičius]]

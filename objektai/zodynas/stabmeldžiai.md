@@ -30,19 +30,6 @@ Kryžiuočiai lietuvius ir po krikšto vadino stabmeldžiais, siekdami pateisint
 - t-001
   global_id: t-185392
   teiginys: "Kryžiuočiai lietuvius ir po krikšto vadino stabmeldžiais, siekdami pateisinti karą jų žemėse."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "646709-647383; hash=8cd355083e74b7adc257af2a876dc13256cd8cedb8e294d10f14465ac17443b2; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "stabmeldžiai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"stabmeldžiai\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-168753
 
@@ -50,19 +37,6 @@ Kryžiuočiai lietuvius ir po krikšto vadino stabmeldžiais, siekdami pateisint
 - t-002
   global_id: t-185393
   teiginys: "Į aukštąsias ir viešąsias pareigybes neturėjo būti skiriami stabmeldžiai ir popiežiui nepaklusę krikščionys."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "670695-671155; hash=2c376bf29526c7d5726bbd5511012c30143e21c11aea2e1d5a2d4190c985bbf4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Krikščionys: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "stabmeldžiai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Krikščionys: mention_match, group, gap=36"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"stabmeldžiai\" parinktas kaip owner_note_path. Targetas \"Krikščionys\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-168754
 - susijęs iš [[objektai/asmenys/Ditrichas iš Piremonto.md#claim-t-60267|Ditrichas iš Piremonto]]: Ditrichas iš Piremonto žuvo, kai vietos stabmeldžiai užpuolė nuo pilies pasitraukiančius Ordino brolius.
@@ -112,8 +86,8 @@ Kryžiuočiai lietuvius ir po krikšto vadino stabmeldžiais, siekdami pateisint
     mos popiežius), dėl kurių paramos ar nuolaidžiavimo
     ir galėjo tose žemėse kariauti.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -135,8 +109,8 @@ Kryžiuočiai lietuvius ir po krikšto vadino stabmeldžiais, siekdami pateisint
     tiems, kurie neišpažįsta katalikų tikėjimo ir išsižada
     paklusnumo popiežiui.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -147,7 +121,8 @@ Kryžiuočiai lietuvius ir po krikšto vadino stabmeldžiais, siekdami pateisint
 - id: c-168753
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 370"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 370."
   citata_originali: |
     Užgrobę visus grūdus,
     J ie  su daro k elia s pro-
@@ -175,7 +150,8 @@ Kryžiuočiai lietuvius ir po krikšto vadino stabmeldžiais, siekdami pateisint
 - id: c-168754
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 383"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 383."
   citata_originali: |
     Visi Lietuvos
     iuvoje

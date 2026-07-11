@@ -33,12 +33,6 @@ media_all_json: |-
 - t-001
   global_id: t-193796
   teiginys: "Šilainiai, Raudonė, Kejėnai, vDKM, Artūro Užgalio nuotr."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1090316-1090399; hash=1c99462c10553ebf386ffb4118e4c72a2160a35bc5a88b7c99d197894ae607b7; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176442
 ## Reikšmingi paminėjimai
@@ -49,8 +43,8 @@ media_all_json: |-
   citata_originali: |
     p. 26-27, Kalavijai. xm a. Šilainiai, Raudonė, Kejėnai, vDKM, Artūro Užgalio nuotr.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

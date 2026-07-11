@@ -30,14 +30,6 @@ Biufono sistema, kurią cituoja Teodoras Narbutas, organinio pasaulio pradžią 
 - t-001
   global_id: t-191496
   teiginys: "Biufono sistema, kurią cituoja Teodoras Narbutas, organinio pasaulio pradžią siejo su ašigaliais."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "59973-60278; hash=744471f3d806ae8ee09ded036e3ed486854daf89a37f599a7516ac5b5a036d35; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-04T15:36:38Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174378
 ## Reikšmingi paminėjimai
@@ -56,8 +48,8 @@ Biufono sistema, kurią cituoja Teodoras Narbutas, organinio pasaulio pradžią 
     atsiskyrė nuo kietosios, Žemės rutulyje atsirado tiek ener­
     gijos, kad ji buvo karšta tarsi raudonai įkaitinta geležis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

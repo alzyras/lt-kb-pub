@@ -32,9 +32,6 @@ Dusburgietis teigia, kad semkowicz-Zarembina); Dąbrowski J.
 - t-001
   global_id: t-60693
   teiginys: "Dąbrowski J. parašė darbą „Dawne dziejopisarstwo“."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "55984-56158; hash=112260bbbb765c6d3b7c313b149bcfb7bde581d1dd4fabe4e88df413be3a81fb; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-61325
 ## Reikšmingi paminėjimai
@@ -46,8 +43,8 @@ Dusburgietis teigia, kad semkowicz-Zarembina); Dąbrowski J.
     80  Dlugossii J. Annales..., lib. VI, VII et VIII, IX; Długosz J. Roczniki..., ks. 1—2, s.
     43—47 (W. Semkowicz-Zarembina); Dąbrowski J. Dawne dziejopisarstwo..., s. 217, 227.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -58,7 +55,8 @@ Dusburgietis teigia, kad semkowicz-Zarembina); Dąbrowski J.
 - id: c-61325
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 20"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 20."
   citata_originali: |
     80  Dlugossii J. Annales..., lib. VI, VII et VIII, IX; Długosz J. Roczniki..., ks. 1—2, s.
     43—47 (W. Semkowicz-Zarembina); Dąbrowski J. Dawne dziejopisarstwo..., s. 217, 227.

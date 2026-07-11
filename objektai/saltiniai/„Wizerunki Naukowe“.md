@@ -36,24 +36,6 @@ media_all_json: |-
 - t-001
   global_id: t-190567
   teiginys: "„Wizerunki Naukowe“ 1836 m. X tome paskelbė Komisijos dekretą apie valstiečių ginčą su Slucko bažnyčios klebonu."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1836 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Atskirtas žurnalo bibliografinis faktas nuo ankstesnio sakinio apie Lietuvos statutą. Nepridėta interpretacijų apie priesaiką ar įrodymų sistemą."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "565047-565287; hash=2142f361b18d9037ca154cb51a4cc35bb0fe89ec79dfa874cfdd6deb341c14c1; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Sluckas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "„Wizerunki Naukowe“: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Sluckas: mention_match, place, gap=86"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"„Wizerunki Naukowe“\" parinktas kaip owner_note_path. Targetas \"Sluckas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173450
 ## Reikšmingi paminėjimai
@@ -67,8 +49,8 @@ media_all_json: |-
     18 Komisijos dekretas apie valstiečių ginčą su Slucko bažnyčios
     klebonu (Wizerunki Naukowe. -1836. -  T. X. -  S. 128-138).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -79,7 +61,8 @@ media_all_json: |-
 - id: c-173450
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 321"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 321."
   citata_originali: |
     Pasak Lietuvos statuto, įrodymai daugiausia remdavosi
     priesaika, nes šis aktas visuomet būdavo laikomas religiniu ir

@@ -35,17 +35,6 @@ Pradžios mokslu, be parapijų kunigų, dar rūpinosi šių ordinų vienuoliai: 
 - t-001
   global_id: t-01273
   teiginys: "Augustinijonų vienuoliai Lietuvoje rūpinosi pradžios mokslu kartu su parapijų kunigais ir kitų ordinų vienuoliais."
-  semantiniai_rysiai: "Augustinijonų ordinas gyveno Lietuva (0.64)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "690983-691409; hash=e5c6cf510116e3fe9238d8bb8c9e315c756c7910bc444106c6407246d1465fbe; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Lietuva: 0.64"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Augustinijonų ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata nurodo, kad šių ordinų vienuolynų Lietuvoje buvo daug; tai pagrindžia ordino buvimą Lietuvoje."
   pagrindžia:
     - c-01511
 ## Reikšmingi paminėjimai
@@ -64,8 +53,8 @@ Pradžios mokslu, be parapijų kunigų, dar rūpinosi šių ordinų vienuoliai: 
 
     tuvoje buvo jau gana daug.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -95,6 +84,3 @@ Pradžios mokslu, be parapijų kunigų, dar rūpinosi šių ordinų vienuoliai: 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-01273
-
-## Ryšiai
-- Augustinijonų ordinas gyveno [[objektai/vietos/Lietuva]]

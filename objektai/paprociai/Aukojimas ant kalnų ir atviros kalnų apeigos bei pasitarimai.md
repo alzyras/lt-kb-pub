@@ -45,21 +45,6 @@ Nenurodyta
 - t-001
   global_id: t-189826
   teiginys: "Narbutas rašo, kad lietuviai turėjo dievams paskirtų kalnų, bet jam nebuvo žinoma lietuviškų pasakojimų apie Plikąjį kalną."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "452081-452400; hash=73f1a9a5238c383b665b42ec0be877bb2156a0bb76f045e7a1d5b3278f61a5fa; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aukurai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aukojimas ant kalnų ir atviros kalnų apeigos bei pasitarimai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Aukurai: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aukojimas ant kalnų ir atviros kalnų apeigos bei pasitarimai\" parinktas kaip owner_note_path. Targetas \"Aukurai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-172709
 
@@ -67,14 +52,6 @@ Nenurodyta
 - t-002
   global_id: t-194622
   teiginys: "II skyrius ŠVENTOSIOS VIETOS Šventieji kalnai, Kalnas Iš seniausios istorijos žinoma, kad senovės tautos atnašau davo dievams aukas ant aukštumų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "450163-450808; hash=658794c8ea2655f59d49a75cf5cc50ae5847cfdf474e4f72b7fb97bdfa3cc0cc; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-177021
 ## Reikšmingi paminėjimai
@@ -90,8 +67,8 @@ Nenurodyta
     nas prie Palangos garsėjo Praurimės aukuru, prie Nevėžio -
     šventykla.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -120,8 +97,8 @@ Nenurodyta
     rų į visas puses; ten kartais vykdavo žmonių apeigos ir pasita­
     rimai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -132,7 +109,8 @@ Nenurodyta
 - id: c-172709
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 261"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 261."
   citata_originali: |
     Lietuviai turėjo dievams paskirtų kalnų, tačiau neturime
     tikrai lietuviškų pasakojimų, kuriuose būtų minimas koks nors

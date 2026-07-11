@@ -32,14 +32,6 @@ media_all_json: |-
 - t-001
   global_id: t-80664
   teiginys: "Posakis „Rėkė „baškon“ įsilipę“ pateiktas šalia eilutės „Lipdė laisvę ir lygybę iš sulūžusių tvorų“."
-  temporaliniai_duomenys: "įvykio data: 200 m"
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinį tekstą sudaro OCR ir schemos triukšmas, bet citata palaiko ribotą faktą apie posakio pateikimą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "958038-958718; hash=2be17dd04789a9148147f9c77a5c8cc9a32f85e4971d248e523aeb93ce99e475; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T14:36:04Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-77357
 ## Reikšmingi paminėjimai
@@ -87,8 +79,8 @@ media_all_json: |-
 
     spyną (arba kol baigiasi šoviniai dėtuvėje).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

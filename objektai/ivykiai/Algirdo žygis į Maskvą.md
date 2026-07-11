@@ -54,17 +54,6 @@ Nenurodyta
 - t-003
   global_id: t-187457
   teiginys: "Lietuvos metraštis pasakoja, kad Algirdas, atsakydamas į grasinimą, pažadėjo būti Maskvoje per Velykas."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "128751-130136; hash=9bb766d5029ecf40133e968878d17c123406037dd5b76807ce2fe734addb8c1f; match=exact"
-  sprendimo_priezastis: "gap::events"
-  ryšio_patikimumas: "susije_su -> Maskva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Algirdo žygis į Maskvą: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Maskva: mention_match, place, gap=49"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Algirdo žygis į Maskvą\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-170435
 
@@ -72,17 +61,6 @@ Nenurodyta
 - t-005
   global_id: t-187458
   teiginys: "Lietuvos metraštis pasakoja, kad po susitarimo Maskvos didysis kunigaikštis susitiko su Algirdu ir dovanojo jam daug aukso, sidabro, perlų ir kailių."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "130971-132163; hash=341a6b5b985a94e737b3fffa4ab3177d635e2780a902bd103c18cb0ed4645da5; match=exact"
-  sprendimo_priezastis: "gap::events"
-  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Algirdo žygis į Maskvą: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person, gap=41"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Algirdo žygis į Maskvą\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-170437
 
@@ -90,22 +68,6 @@ Nenurodyta
 - t-001
   global_id: t-187459
   teiginys: "Legenda apie Algirdo žygį į Maskvą yra Bychovco kronikoje, bet jos nėra Trumpajame ir kituose Platesniojo sąvado nuorašuose."
-  teiginio_tipas: "saltinio_teiginys"
-  temporaliniai_duomenys: "įvykio data: 1345 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie Algirdo žygio legendos tekstinę tradiciją. Legenda pateikta kaip kronikos pasakojimas, nepridedant jos turinio kaip fakto."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "9565-10225; hash=27b9dc4e3abbce2915e62bbb82b172f23e5618d75620bf09dc1d8bf964b70da8; match=exact"
-  sprendimo_priezastis: "gap::events"
-  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Algirdo žygis į Maskvą: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Algirdo žygis į Maskvą\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-170436
 
@@ -113,18 +75,6 @@ Nenurodyta
 - t-004
   global_id: t-187460
   teiginys: "Algirdas, anot šaltinio, po pasiuntinio atleidimo sušaukė lietuvių bei rusų kariuomenę ir iš Vitebsko patraukė į Maskvą."
-  teiginio_tipas: "saltinio_teiginys"
-  semantiniai_rysiai: "Lietuviai keliavo į Maskva (0.78); Rusai keliavo į Maskva (0.78)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "128751-130136; hash=9bb766d5029ecf40133e968878d17c123406037dd5b76807ce2fe734addb8c1f; match=exact"
-  sprendimo_priezastis: "gap::events"
-  ryšio_patikimumas: "keliavo_i -> Maskva: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Maskva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas nurodo, kad lietuvių kariuomenė patraukė į Maskvą."
   pagrindžia:
     - c-170435
 
@@ -132,17 +82,6 @@ Nenurodyta
 - t-002
   global_id: t-187461
   teiginys: "Lietuvos metraštis pasakoja, kad Maskvos didysis kunigaikštis Dimitrijujus Ivanovičius nutraukė taiką su Algirdu ir atsiuntė karo paskelbimą."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "128751-130136; hash=9bb766d5029ecf40133e968878d17c123406037dd5b76807ce2fe734addb8c1f; match=exact"
-  sprendimo_priezastis: "gap::events"
-  ryšio_patikimumas: "susije_su -> Maskva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Algirdo žygis į Maskvą: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Maskva: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Algirdo žygis į Maskvą\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-170435
 
@@ -150,17 +89,6 @@ Nenurodyta
 - t-006
   global_id: t-187462
   teiginys: "Algirdas, anot šaltinio, pareiškė turįs palikti šlovės ženklą ir atrėmė savo ietį į Maskvos miesto sieną."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "130971-132163; hash=341a6b5b985a94e737b3fffa4ab3177d635e2780a902bd103c18cb0ed4645da5; match=exact"
-  sprendimo_priezastis: "gap::events"
-  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Algirdo žygis į Maskvą: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Algirdo žygis į Maskvą\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-170437
 
@@ -168,17 +96,6 @@ Nenurodyta
 - t-010
   global_id: t-187463
   teiginys: "Lietuvos metraštis teigia, kad Algirdas išsaugojo visus savo žmones."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "131320-132163; hash=01617be5737d7e143bd8c97f8bfa26104c2f2cf966e835334e938c876a9fdb0f; match=exact"
-  sprendimo_priezastis: "gap::events"
-  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Algirdo žygis į Maskvą: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Algirdo žygis į Maskvą\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-170438
 
@@ -186,19 +103,6 @@ Nenurodyta
 - t-007
   global_id: t-187464
   teiginys: "Lietuvos metraštis teigia, kad Po susitarimo su Maskvos didžiuoju kunigaikščiu Algirdas atrėmė ietį į Maskvos sieną kaip savo žygio ženklą."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "130971-132163; hash=341a6b5b985a94e737b3fffa4ab3177d635e2780a902bd103c18cb0ed4645da5; match=exact"
-  sprendimo_priezastis: "gap::events"
-  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Algirdo žygis į Maskvą: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person, gap=31"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Algirdo žygis į Maskvą\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-170437
 
@@ -206,17 +110,6 @@ Nenurodyta
 - t-009
   global_id: t-187465
   teiginys: "Lietuvos metraštis teigia, kad po šio žygio siena buvo nukelta ligi Možaisko ir Kolomnos."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "131320-132163; hash=01617be5737d7e143bd8c97f8bfa26104c2f2cf966e835334e938c876a9fdb0f; match=exact"
-  sprendimo_priezastis: "gap::events"
-  ryšio_patikimumas: "susije_su -> Kolomna: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Algirdo žygis į Maskvą: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Kolomna: mention_match, place, gap=42"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Algirdo žygis į Maskvą\" parinktas kaip owner_note_path. Targetas \"Kolomna\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-170438
 
@@ -224,17 +117,6 @@ Nenurodyta
 - t-008
   global_id: t-187466
   teiginys: "Lietuvos metraštis pasakoja, kad Algirdas iš žygio grįžo su daugybe belaisvių ir grobio."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "131320-132163; hash=01617be5737d7e143bd8c97f8bfa26104c2f2cf966e835334e938c876a9fdb0f; match=exact"
-  sprendimo_priezastis: "gap::events"
-  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Algirdo žygis į Maskvą: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Algirdo žygis į Maskvą\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-170438
 ## Reikšmingi paminėjimai
@@ -270,8 +152,8 @@ Nenurodyta
     bei rusų kariuomenę, ir iš Vitebsko ištraukė stačiai
     į Maskvą3 .
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -301,8 +183,8 @@ Nenurodyta
     Trumpajame, nei kituose Platesniojo sąvado nuorašuo­
     se, o tik Bychovco kronikoje.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -335,8 +217,8 @@ Nenurodyta
     žmonių paėmęs nelaisvėn, o visus savo žmones išsau­
     gojęs, išžygiavo namo.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -365,8 +247,8 @@ Nenurodyta
     žmonių paėmęs nelaisvėn, o visus savo žmones išsau­
     gojęs, išžygiavo namo.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

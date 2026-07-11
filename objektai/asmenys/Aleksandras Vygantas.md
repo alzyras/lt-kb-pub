@@ -34,17 +34,6 @@ Tuo metu dažniausiai Vilniuje gyvendavo Kernavės ir Krėvos kunigaikštis Alek
 - t-001
   global_id: t-87423
   teiginys: "Aleksandras Vygantas, Kernavės ir Krėvos kunigaikštis, tuo metu dažniausiai gyvendavo Vilniuje."
-  semantiniai_rysiai: "Aleksandras Vygantas gyveno Vilnius (0.92); Aleksandras Vygantas buvo valdovas Kernavė (0.82); Aleksandras Vygantas buvo valdovas Krėva (0.82)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "293329-293833; hash=9ba04f9a7b2b01c8ce80268efdf3181f088fac215040c61ed2fe45db040d7eee; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Vilnius: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Aleksandras Vygantas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Aleksandras Vygantas dažniausiai gyvendavo Vilniuje."
   pagrindžia:
     - c-83402
 - susijęs iš [[objektai/asmenys/Kazimieras Karigaila.md#claim-t-173193|Kazimieras Karigaila]]: Kazimieras Karigaila buvo palaidotas katedroje, o šalia jo iškilmingai palaidotas Aleksandras Vygantas.
@@ -65,8 +54,8 @@ Tuo metu dažniausiai Vilniuje gyvendavo Kernavės ir Krėvos kunigaikštis Alek
     įduotų nuodų, kaip buvo suprasta, jį ištiko ankstyva mirtis,
     ir šalis neteko tiek gražių vilčių teikusio žmogaus47.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -96,5 +85,4 @@ Tuo metu dažniausiai Vilniuje gyvendavo Kernavės ir Krėvos kunigaikštis Alek
     - t-87423
 
 ## Ryšiai
-- Aleksandras Vygantas buvo valdovas [[objektai/vietos/Kernavė]], [[objektai/vietos/Krėva]]
 - Aleksandras Vygantas gyveno [[objektai/vietos/Vilnius]]

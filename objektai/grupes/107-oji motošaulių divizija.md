@@ -39,20 +39,6 @@ kelio iki AT) 107-oji motošaulių divizija.
 - t-001
   global_id: t-40821
   teiginys: "1991 m. sausio įvykiuose Lietuvoje dalyvavo Vilniuje dislokuota 107-oji motošaulių divizija."
-  semantiniai_rysiai: "107-oji motošaulių divizija gyveno Vilnius (0.76)"
-  temporaliniai_duomenys: "įvykio data: 1991 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys pilnas, konkretus ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1026178-1026509; hash=4b1d973a3fd862598eb51a37a447ca6e240d6cbb2f5bfc59c08021961d4e72d0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Vilnius: 0.76"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "107-oji motošaulių divizija: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Divizija tiesiogiai nurodyta kaip dislokuota Vilniuje."
   pagrindžia:
     - c-44708
 ## Reikšmingi paminėjimai
@@ -72,8 +58,8 @@ kelio iki AT) 107-oji motošaulių divizija.
 
     Sausio 13 d. naktį prie Televizijos bokšto budėjusių žmonių liudijimai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -104,6 +90,3 @@ kelio iki AT) 107-oji motošaulių divizija.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40821
-
-## Ryšiai
-- 107-oji motošaulių divizija gyveno [[objektai/vietos/Vilnius]]

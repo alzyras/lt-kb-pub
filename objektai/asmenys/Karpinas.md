@@ -38,21 +38,6 @@ Karpinas ir Rubrikvis, Narbuto perteikimu, XIII a. kelionėse į mongolų ordą 
 - t-001
   global_id: t-191428
   teiginys: "Karpinas ir Rubrikvis, Narbuto perteikimu, XIII a. kelionėse į mongolų ordą aprašė Kaukazo alanus, vadintus Jassi, Asses ir Aries."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "113998-114552; hash=f678dc111a3dbad2c2a04a0e2b45df9f037aab54733ed30902a1f71651afca7a; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kaukazas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Karpinas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kaukazas: mention_match, place, gap=83"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Karpinas\" parinktas kaip owner_note_path. Targetas \"Kaukazas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174310
 - susijęs iš [[objektai/asmenys/Rusbergas Rubrikvis.md#claim-t-191978|Rusbergas Rubrikvis]]: Narbutas rašo, kad XIII a. Rusbergas, arba Rubrikvis, su Karpinu keliavo per Rytus į mongolų ordą ir kalbėjo apie Kaukazo alanus.
@@ -77,8 +62,8 @@ Karpinas ir Rubrikvis, Narbuto perteikimu, XIII a. kelionėse į mongolų ordą 
     priklausomybę3. Iš išlikusių žinių galima teigti, jog jie
     nepriklausę mongolams.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -89,7 +74,8 @@ Karpinas ir Rubrikvis, Narbuto perteikimu, XIII a. kelionėse į mongolų ordą 
 - id: c-174310
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 65"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 65."
   citata_originali: |
     Čingischano va­
     dai irgi kariavo 1223 metais toje pačioje ¡pusėje su ala­

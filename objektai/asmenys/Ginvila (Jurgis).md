@@ -30,12 +30,6 @@ Sa vo įpėdiniais paliko du savo sūnus: vieną Skirmantą, o kitą Ginvilą.
 - t-001
   global_id: t-194133
   teiginys: "Sa vo įpėdiniais paliko du savo sūnus: vieną Skirmantą, o kitą Ginvilą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "82093-82338; hash=7be5b81a63787534a3942f9ccf8d83f45437e62c218e6b1ccbaac186d4124f7a; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176746
 ## Reikšmingi paminėjimai
@@ -50,8 +44,8 @@ Sa vo įpėdiniais paliko du savo sūnus: vieną Skirmantą, o kitą Ginvilą.
     o kitą Ginvilą. Ir Skirmantas ėmė kunigaikšėiauti Nau­
     garduke 7 , o Ginvila Polockes.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

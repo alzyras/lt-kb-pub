@@ -39,12 +39,6 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
 - t-001
   global_id: t-193688
   teiginys: "Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejotinai buvo europietiškos katalikiškos civilizacijos šalininkas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "211012-211430; hash=05a33c6dbdbfee0b3fb650c48d0b222ffc2a771f6a03a93715ce1e03b3e60a2a; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176357
 
@@ -52,12 +46,6 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
 - t-002
   global_id: t-193689
   teiginys: "Valančius niekur nepasisakė prieš caro valdžią, pagarbiai bendravo su jos atstovais, tačiau kietai ir atkakliai gynė Katalikų bažnyčios interesus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "212542-213309; hash=35acc3d41d6cf970b6fe128ef3ddd8f3f15ae5cba4170cd826a3e1450910bd97; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176358
 
@@ -65,12 +53,6 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
 - t-003
   global_id: t-193690
   teiginys: "Valančiaus pastangomis buvo įdiegta nuostata mokytis skaityti ir rašyti gimtąja kalba."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "220606-221186; hash=eeec04de1803762bf710ecca58c1c35ceabddc6754096ca0f0f3325b728f1c06; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176359
 
@@ -78,12 +60,6 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
 - t-004
   global_id: t-193691
   teiginys: "Valančius, perpratęs valdžios kėslus, per kunigus paskleidė mintį, kad skaityti tokias valdžios brukamas knygas katalikui yra nuodėmė."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "222756-222983; hash=b5fc7de74e5e019c20fd16d018abcb84a90f928916a9f7cbd58adfbc7405529c; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176360
 ## Reikšmingi paminėjimai
@@ -100,8 +76,8 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
     tuvių (žemaičių) kalba po katedros skliautais iš vyskupo lūpų skambėjo
     bene pirmą kartą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -123,8 +99,8 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
     vyskupo raginimų laikytasi, nes jis savo ankstesne veikla tapo liaudžiai
     visomis prasmėmis artimu ir neginčijamu autoritetu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -143,8 +119,8 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
     slaptas mokyklėles, kur rašto pamokytų koks nors jo mokantis kaimietis.
     Tokios daraktorinėmis vadintos mokyklėlės masiškai išplito ir miestuose.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -159,8 +135,8 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
     brukamas knygas katalikui yra nuodėmė. Todėl jų bemaž niekas ir ne-
     skaitė. O neturėdama skaitytojų valdžia jų išleido vos 60.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -42,19 +42,6 @@ Nors Viklifo sekėjas buvo ekskomuni­ kuotas ir priverstas palikti miestą, bet
 - t-001
   global_id: t-87646
   teiginys: "Martyno Liuterio ir Cvinglio mokslas Vilniuje buvo giliai įsišaknijęs ir remiamas Mikalojaus Radvilos Juodojo."
-  temporaliniai_duomenys: "įvykio data: 1557 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata kalba apie Liuterio ir Cvinglio mokslą kartu, todėl reikia patikslinti subjektą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "568817-569696; hash=6e23d8f2dcd723181766ef5400683bdd8cce437f63e38f9dfdbc4fd519b1996d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Radvilos: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Cvinglis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Radvilos: mention_match, group, gap=73"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Cvinglis\" parinktas kaip owner_note_path. Targetas \"Radvilos\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-83625
 - susijęs iš [[objektai/asmenys/Martynas Liuteris.md#claim-t-82553|Martynas Liuteris]]: Martyno Liuterio ir Cvinglio mokslą Vilniuje stipriai palaikė Vilniaus vaivada Mikalojus Radvila Juodasis.
@@ -98,8 +85,8 @@ Nors Viklifo sekėjas buvo ekskomuni­ kuotas ir priverstas palikti miestą, bet
     dieceziją būtų rengiamos procesijos
     su litanijomis".
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -139,6 +126,3 @@ Nors Viklifo sekėjas buvo ekskomuni­ kuotas ir priverstas palikti miestą, bet
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87646
-
-## Ryšiai
-- Rėmė Cvinglį: [[objektai/asmenys/Mikalojus Radvila Juodasis]]

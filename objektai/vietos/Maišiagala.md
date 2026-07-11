@@ -35,20 +35,6 @@ Nemažas būrys, vadovaujamas paties Vinricho, su­ deginęs visus valsčius nuo
 - t-001
   global_id: t-183861
   teiginys: "Ordino maršalas, susijungęs su Vytauto pulkais, užėmė Kernavę ir Maišiagalą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Kryžiuočių ordinas užėmė Kernavė (0.82); Kryžiuočių ordinas užėmė Maišiagala (0.82)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "257577-258349; hash=6aeb3893558ba7a2ee1240e323d03e0dd762d0c443814bda9c6373330e5146e4; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Kernavė: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Kernavė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Ordino maršalo vadovaujama kryžiuočių kariauna tiesiogiai įvardyta kaip užėmusi Kernavę."
   pagrindžia:
     - c-167246
 - susijęs iš [[objektai/asmenys/Engelhardas Rabė.md#claim-t-184432|Engelhardas Rabė]]: Ordino maršalas Engelhardas Rabė paėmė Maišiagalą ir sudegino Kernavę.
@@ -95,8 +81,8 @@ Nemažas būrys, vadovaujamas paties Vinricho, su­ deginęs visus valsčius nuo
     mi, Vytauto labui nieko nenuveikę, nė negalvodami apie
     Vilniaus užėmimą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -131,5 +117,4 @@ Nemažas būrys, vadovaujamas paties Vinricho, su­ deginęs visus valsčius nuo
     - t-183861
 
 ## Ryšiai
-- Turėjo palaidotą asmenį: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- Užėmė Maišiagalą: [[objektai/asmenys/Engelhardas Rabė]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Vytauto šalininkai]]
+- Užėmė Maišiagalą: [[objektai/asmenys/Engelhardas Rabė]], [[objektai/grupes/Kryžiuočių ordinas]]

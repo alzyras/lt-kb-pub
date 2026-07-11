@@ -41,19 +41,6 @@ media_all_json: |-
 - t-001
   global_id: t-186133
   teiginys: "Živinbudas pasiuntė savo sūnų Kukovaitį su rinktine lietuvių ir žemaičių kariauna padėti Skirmantui."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "137109-137668; hash=8ffc86dc1dcf3c61f74a8a71d6b7fd0e1195718399151a0edc8d7b4a5a6995ae; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kukovaitis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=22"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kukovaitis\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-169494
 
@@ -61,14 +48,6 @@ media_all_json: |-
 - t-002
   global_id: t-188571
   teiginys: "Narbutas pasakojo, kad kunigaikštis Kukovaitis prie Žaslių ežero pastatė stabą motinai, po mirties pripažintai deive."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "267692-268012; hash=4454e0f26267ac6af3fbb942ac6992d7bc02901e5ddcb0e01e4753e6cc27d370; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171460
 
@@ -76,21 +55,6 @@ media_all_json: |-
 - t-003
   global_id: t-188572
   teiginys: "Narbutas Kukovaitį vadino sudvejintu lietuvių kunigaikščiu, Živinbudo II sūnumi, valdžiusiu Užnerio Lietuvoje ir mirusiu 1221 metais."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "376728-377062; hash=1fdaac720d3d24f20bc62d0fca7ce8279a2817eb6da9e4e4de7f845dd43398b9; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kukovaitis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=28"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kukovaitis\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171461
 
@@ -98,12 +62,6 @@ media_all_json: |-
 - t-004
   global_id: t-193942
   teiginys: "4 Lietuvos metraštis 49 Zivinbudas, Lietuvos ir Žemaičių didysis kunigaikš tis, nusiuntė jam pagalbon savo vyresnįjį sūnų Kukovaitį4 su visomis savo Lietuvos bei 2emaičių pajėgo mis."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "84543-85020; hash=e990ebef844b23df5341267f2cb11173198cb729b90901af35a5e58902bb518f; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176567
 
@@ -111,12 +69,6 @@ media_all_json: |-
 - t-005
   global_id: t-193943
   teiginys: "Didysis kunigaikštis Skirmantas iškilmingai pasitiko Kukovaitį, Lietuvos didžiojo kunigaikščio Zivinbudo sūnų, ir, apdovanojęs nesuskaičiuojama aukso ir sidab ro daugybe bei eikliais žirgais, garbingai išleido pas jo tėvą, Lietuvos ir 2emaičių kunigaikštį."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "85391-86146; hash=e398a9f581630a80117345222bbeb461eaadb423f0fc339110e8fd5dc17a964a; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176568
 
@@ -124,12 +76,6 @@ media_all_json: |-
 - t-006
   global_id: t-193944
   teiginys: "O paskui mirė didysis Lietuvos ir Žemaičių kuni gaikštis Kukovaitis, buvęs labai teisingas ir malonin gas savo valdiniams."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "87708-87996; hash=2b311c5f897e70f8c3698ca83ca843bad488051064de36cb825d5ad912214e0e; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176569
 - susijęs iš [[objektai/daiktai/Kentauro herbas.md#claim-t-186855|Kentauro herbas]]: M. Strijkovskio kronikos citatoje Kukovaitis vadinamas Živinbudo sūnumi iš Kentauro herbo giminės.
@@ -174,8 +120,8 @@ media_all_json: |-
     apie artėjantį Skirmantą, buvo priverstas sutraukti
     savo pulkus iš kaimų į stovyklą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -192,8 +138,8 @@ media_all_json: |-
     vo meldžiamasi: jos šaukėsi liepų miškelyje, ją garbino iki pas­
     kutinių lietuvių stabmeldystės laikų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -215,8 +161,8 @@ media_all_json: |-
     laidotas kalne netoli Deltuvos. Jo, kaip dievo, garbinimą tenai
     įvedė jo sūnus Utenis, kuris paveldėjo tėvo kunigaikštystę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -240,8 +186,8 @@ media_all_json: |-
     kovaičiu ir su visomis pajėgomis į žygį prieš Mstislavą,
     Lucko ir Pinsko kunigaikštį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -267,8 +213,8 @@ media_all_json: |-
     buvo duodama duoklė, valdant jo pirmtakams, rusų
     kunigaikščiams.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -285,8 +231,8 @@ media_all_json: |-
     gas savo valdiniams. Ir savo įpėdiniu Lietuvos ir Že­
     maičių kunigaikštystėje paliko savo sūnų Utenį2 :l.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -297,7 +243,8 @@ media_all_json: |-
 - id: c-169494
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 83"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 83."
   citata_originali: |
     Skir­
     mantas, norėdamas kuo greičiausiai atremti pavojų,
@@ -333,7 +280,8 @@ media_all_json: |-
 - id: c-171460
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 154"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 154."
   citata_originali: |
     Mirė maždaug prieš 1220
     metus. Jos sūnus kunigaikštis Kukovaitis prie Žaslių ežero pa­
@@ -399,7 +347,8 @@ media_all_json: |-
 - id: c-176568
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 47"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 47."
   citata_originali: |
     Didysis kunigaikštis Skirmantas iškilmingai pasitiko
     Kukovaitį, Lietuvos didžiojo kunigaikščio Zivinbudo
@@ -443,8 +392,6 @@ media_all_json: |-
 
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Pajauta]]
-- Kukovaitis buvo valdovas [[objektai/vietos/Lietuva]], [[objektai/vietos/Naugardukas]]
-- Kukovaitis valdė [[objektai/vietos/Lietuva]]
+- Kukovaitis buvo valdovas [[objektai/vietos/Naugardukas]]
 - Kukovaitis pastatė [[objektai/daiktai/Pajautos stabas]]
-- Kukovaitis siuntė į [[objektai/vietos/Kijevo Rusia]]
 - Kukovaitis rėmė [[objektai/asmenys/Skirmantas]]

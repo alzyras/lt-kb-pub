@@ -30,19 +30,6 @@ Mūšyje žuvus vėliavininkui Henrikui fon Tyzenhauzenui, Livonijos kariuomenė
 - t-001
   global_id: t-185416
   teiginys: "Mūšyje žuvus vėliavininkui Henrikui fon Tyzenhauzenui, Livonijos kariuomenės vėliava pateko į lietuvių rankas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "225726-226201; hash=f74efea253430cf6a8c4daccbcad81aa416e6e6c5ccff0e7a1b336af37844949; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "vėliavininkas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=81"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"vėliavininkas\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-168777
 - susijęs iš [[objektai/asmenys/Jonas Hanulaitis.md#claim-t-87717|Jonas Hanulaitis]]: Jonas Hanulaitis buvo Lietuvos vėliavininkas ir Žygimanto Kęstutaičio laikais pasižymėjo Pabaisko mūšyje.
@@ -68,8 +55,8 @@ Mūšyje žuvus vėliavininkui Henrikui fon Tyzenhauzenui, Livonijos kariuomenė
     priešą, tačiau ir jis, atstumtas, sužeistas ir praradęs žir­
     gą, vos gyvas paspruko iš kovos lauko.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -80,7 +67,8 @@ Mūšyje žuvus vėliavininkui Henrikui fon Tyzenhauzenui, Livonijos kariuomenė
 - id: c-168777
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 133"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 133."
   citata_originali: |
     Žuvo Livonijos magist­
     ras Ernstas, grafas Gelardas,

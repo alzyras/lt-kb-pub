@@ -48,22 +48,6 @@ Nenurodyta
 - t-001
   global_id: t-189637
   teiginys: "Jogaila į Konstancos susirinkimą pasiuntė dominikoną Teodorą Lenką, kad šis išdėstytų skundus prieš kryžiuočius."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Vladislovas Jogaila siuntė į Konstanca (0.78)"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "713317-713786; hash=b88c578f514aaba6552ac81d72fed6fd91bd60b1129ba41b7860b80857f4ddf3; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "siunte_i -> Konstanca: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vladislovas Jogaila: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Konstanca: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai mini Vladislovą Jogailą kaip siuntėją į susirinkimą; kryptis siejama su Konstanca."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172520
 ## Reikšmingi paminėjimai
@@ -82,8 +66,8 @@ Nenurodyta
     rumais atgrasančius lietuvius veiksmingai priimti šventąjį ti­
     kėjimą. Apie tai žinome iš Dlugošo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -94,7 +78,8 @@ Nenurodyta
 - id: c-172520
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 398"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 398."
   citata_originali: |
     Jeronimą sudegino gyvą Konstancoje 1416 metais bir­
     želio 21 dieną2.

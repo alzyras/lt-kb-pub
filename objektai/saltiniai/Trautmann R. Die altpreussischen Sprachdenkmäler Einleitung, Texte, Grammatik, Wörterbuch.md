@@ -41,12 +41,6 @@ Dusburgietis teigia, kad trautmann R.
 - t-001
   global_id: t-61326
   teiginys: "R. Trautmanno „Die altpreussischen Sprachdenkmäler“ išleista Getingene 1910 m."
-  temporaliniai_duomenys: "įvykio data: 1910 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pateikia bibliografinį leidinio miestą ir metus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "800208-800317; hash=9e2af21d0effe36a7bce0b8f9e7b56b65ef919b2d6d16c5f1eb3901b6c70d015; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-61958
 ## Reikšmingi paminėjimai
@@ -58,8 +52,8 @@ Dusburgietis teigia, kad trautmann R.
     Trautmann R. Die altpreussischen Sprachdenkmäler: Einleitung, Texte, Grammatik,
     Wörterbuch.— Göttingen, 1910.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -70,7 +64,8 @@ Dusburgietis teigia, kad trautmann R.
 - id: c-61958
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 272"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 272."
   citata_originali: |
     Trautmann R. Die altpreussischen Sprachdenkmäler: Einleitung, Texte, Grammatik,
     Wörterbuch.— Göttingen, 1910.

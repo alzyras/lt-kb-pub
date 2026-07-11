@@ -41,19 +41,6 @@ Taigi Lietuvos antpuolyje su totoriais buvo priversti dalyvauti Briansko kunigai
 - t-001
   global_id: t-40378
   teiginys: "Olegas, Briansko kunigaikščio Romano sūnus, buvo priverstas dalyvauti totorių antpuolyje prieš Lietuvą."
-  semantiniai_rysiai: "Olegas (Romano sūnus) buvo sūnus Romanas (Briansko kunigaikštis) (0.99); Totoriai puolė Lietuva (0.90); Olegas (Romano sūnus) puolė Lietuva (0.82)"
-  temporaliniai_duomenys: "įvykio data: 1275 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "113998-114504; hash=17beeddaafb9995e4a9d4f11b2fae7abdc4dd47ff8b735292d638d904e981bfe; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sunus -> Romanas (Briansko kunigaikštis): 0.99"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Olegas (Romano sūnus): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Romanas (Briansko kunigaikštis): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Teiginyje Olegas tiesiogiai įvardytas kaip Romano sūnus."
   pagrindžia:
     - c-44481
 ## Reikšmingi paminėjimai
@@ -70,8 +57,8 @@ Taigi Lietuvos antpuolyje su totoriais buvo priversti dalyvauti Briansko kunigai
     prieš Lietuvą taip pat dalyvavo Pietvakarių Rusios - Haličo, Lucko,
     Vladimiro, taip pat Pinsko, Turovo - kunigaikščiai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -102,4 +89,3 @@ Taigi Lietuvos antpuolyje su totoriais buvo priversti dalyvauti Briansko kunigai
 
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Romanas (Briansko kunigaikštis)]]
-- Olegas (Romano sūnus) puolė [[objektai/vietos/Lietuva]]

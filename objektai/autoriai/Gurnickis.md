@@ -43,19 +43,6 @@ Joje ir bu­ vo pagamintos anos dirbtinės ugnys, degintos Vilniuje, kurias Gurn
 - t-001
   global_id: t-88091
   teiginys: "Gurnickis paminėjo, kad 1540 m. Vilniuje džiaugtasi žinia apie karaliaus Jono sūnaus gimimą."
-  temporaliniai_duomenys: "įvykio data: 1540 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko teiginį apie Gurnickio minimą įvykį Vilniuje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "530621-531502; hash=6ca8391b555034bbd6dbf6ee3fcab6590ec093201bb2358382d276c45655d470; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gurnickis: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=32"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gurnickis\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-84070
 - susijęs iš [[objektai/daiktai/Vilniaus pilies Puškarnia, artilerijos įranga, amunicija ir dirbtinės ugnys.md#claim-t-87101|Vilniaus pilies Puškarnia, artilerijos įranga, amunicija ir dirbtinės ugnys]]: Prie Vilniaus pilies buvo įkurta Puškarnia, kurioje gaminta artilerijos įranga, amunicija ir dirbtinės ugnys.
@@ -97,8 +84,8 @@ Joje ir bu­ vo pagamintos anos dirbtinės ugnys, degintos Vilniuje, kurias Gurn
     rūpinosi iš Lietuvos kunigaikščių kilęs Vilniaus vyskupas Jo­
     nas su kapitula12, pinigais remiamas visos dvasininkijos13.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

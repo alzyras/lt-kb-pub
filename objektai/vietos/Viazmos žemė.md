@@ -36,19 +36,6 @@ Vasiljevičius stengėsi nuslėpti savo brolio Andrejaus, Možaisko kunigaikšč
 - t-001
   global_id: t-185275
   teiginys: "Vasiljevičius stengėsi nuslėpti savo brolio Andrejaus, Možaisko kunigaikščio, įsibrovimą į Viazmos žemę."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "941102-941690; hash=43f98f6274c0b8e21398aae4aafedd1f4060a975c648e5c80172dcb8d73f34fd; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Viazma: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Viazmos žemė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Viazma: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Viazmos žemė\" parinktas kaip owner_note_path. Targetas \"Viazma\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-168636
 
@@ -56,20 +43,6 @@ Vasiljevičius stengėsi nuslėpti savo brolio Andrejaus, Možaisko kunigaikšč
 - t-002
   global_id: t-185276
   teiginys: "Stanislovas Kiška nusiaubė Viazmos žemę ir gretimas apygardas, visur žudydamas ir degindamas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Stanislovas Kiška puolė Viazmos žemė (0.82)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1073205-1073553; hash=9ce1262e772f94f20eb2c2394caaa657d9b4be4f098b309a7918b07d6e56ecd2; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Viazmos žemė: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Stanislovas Kiška: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Viazmos žemė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekste tiesiogiai sakoma, kad Stanislovas Kiška nusiaubė Viazmos žemę; tai atitinka puolimo veiksmą."
   pagrindžia:
     - c-168637
 ## Reikšmingi paminėjimai
@@ -98,8 +71,8 @@ Vasiljevičius stengėsi nuslėpti savo brolio Andrejaus, Možaisko kunigaikšč
     du vesti derybas su Maskvos valdovu dėl padarytos
     žalos.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -119,8 +92,8 @@ Vasiljevičius stengėsi nuslėpti savo brolio Andrejaus, Možaisko kunigaikšč
     mas apygardas, visur žudydamas ir degindamas. Šis
     įsibrovimas išviliojo iš slėpynių priešo kariuomenę.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -131,7 +104,8 @@ Vasiljevičius stengėsi nuslėpti savo brolio Andrejaus, Možaisko kunigaikšč
 - id: c-168636
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 532"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 532."
   citata_originali: |
     Tuo tarpu Va­
     siljevičius, nors, paisydamas paliaubų, atvirai ir ne­
@@ -162,7 +136,8 @@ Vasiljevičius stengėsi nuslėpti savo brolio Andrejaus, Možaisko kunigaikšč
 - id: c-168637
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 604"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 604."
   citata_originali: |
     Vis dėlto Ostro­
     giškis su keliomis lengvųjų
@@ -179,6 +154,3 @@ Vasiljevičius stengėsi nuslėpti savo brolio Andrejaus, Možaisko kunigaikšč
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185276
-
-## Ryšiai
-- Puolė Viazmos žemę: [[objektai/asmenys/Stanislovas Kiška]]

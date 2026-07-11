@@ -46,19 +46,6 @@ Surinkdamas daug archyvinės medžiagos, Janulaitis parašė išsamų veikalą �
 - t-001
   global_id: t-31811
   teiginys: "Janulaitis, surinkęs daug archyvinės medžiagos, 1936 m. parašė veikalą „Lietuvos bajorai ir jų seimeliai 1795-1863“."
-  temporaliniai_duomenys: "įvykio data: 1936 m.; įvykio data: 1940 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, faktinis ir paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "170278-170729; hash=e1d6f8ef8742663f900bf38ddabe595dbb486239027818867c9d1f9326d0845b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Bajorai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos bajorai ir jų seimeliai 1795-1863: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Bajorai: mention_match, group, gap=9"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos bajorai ir jų seimeliai 1795-1863\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-33638
 ## Reikšmingi paminėjimai
@@ -74,8 +61,8 @@ Surinkdamas daug archyvinės medžiagos, Janulaitis parašė išsamų veikalą �
     tuvos Karininkų Ramovės iniciatyva Janulaitis parašė plačią mo­
     nografiją apie Kęstutį, kurią išspausdinti sutrukdė 1940 m. įvykiai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

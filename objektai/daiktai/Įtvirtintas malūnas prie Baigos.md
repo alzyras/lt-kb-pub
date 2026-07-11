@@ -52,17 +52,6 @@ Nenurodyta
 - t-001
   global_id: t-59710
   teiginys: "Įtvirtintas malūnas prie Baigos greičiausiai stovėjo apie 4 km į pietryčius nuo Baigos, prie upelio ties vėlesniu Hoppenbrucho kaimu."
-  semantiniai_rysiai: "Įtvirtintas malūnas prie Baigos priklausė Baiga (0.62)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "266426-266857; hash=193b955ee95071904b9872aeefa6b892d9a6c8cf74d61aef8c72d7cf22e07d50; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Baiga: 0.62"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Įtvirtintas malūnas prie Baigos: llm_allowed_candidate, thing"
-  ryšio_targeto_parinkimas: "Baiga: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai lokalizuoja malūną prie Baigos, todėl galima atsargiai sieti daiktą su vieta."
   pagrindžia:
     - c-60342
 ## Reikšmingi paminėjimai
@@ -77,8 +66,8 @@ Nenurodyta
     stovėjęs prie upelio, kur vėliau — Hoppenbruch kaimas (Ewald A., Die Eroberung.., 2, p.
     35), apie 4 km į pietryčius nuo Baigos, kur upelį kerta vėlesnis geležinkelis.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -89,7 +78,8 @@ Nenurodyta
 - id: c-60342
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 80"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 80."
   citata_originali: |
     247 D.— pontem paludis juxta stratam, Jer.— brucke; D. III, 24 — per pontem. Čia
     minimas prie Baigos per vandenis, pelkę ėjęs grįstas kelias, greičiausiai panašus į garsias
@@ -102,6 +92,3 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59710
-
-## Ryšiai
-- Įtvirtintas malūnas prie Baigos priklausė [[objektai/vietos/Baiga]]

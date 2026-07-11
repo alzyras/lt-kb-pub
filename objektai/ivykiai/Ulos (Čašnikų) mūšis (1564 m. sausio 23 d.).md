@@ -51,20 +51,6 @@ Nenurodyta
 - t-008
   global_id: t-09884
   teiginys: "Per Ulos (Čašnikų) mūšį žuvo apie 8000–10000 maskvėnų, o P. Šuiskio kūnas buvo atvežtas į Vilnių ir palaidotas stačiatikių katedroje."
-  semantiniai_rysiai: "Maskvėnai dalyvavo mūšyje Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.) (0.90)"
-  temporaliniai_duomenys: "mirties data: 1573 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „mirties data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sakinys pagrįstas citatomis, tik aiškiau susietas su note objektu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "362084-362552; hash=4d22d5c14d581b7fe6cc9ee7ec79812f0837e37680ef0852e3e74ffca9a11375; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
-  ryšio_patikimumas: "dalyvavo_musyje -> Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.): 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Maskvėnai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.): llm_allowed_candidate, event"
-  ryšio_paaiskinimas: "Žuvusių maskvėnų skaičius tiesiogiai rodo jų dalyvavimą mūšyje."
   pagrindžia:
     - c-11930
     - c-11931
@@ -73,17 +59,6 @@ Nenurodyta
 - t-006
   global_id: t-09885
   teiginys: "Per Ulos (Čašnikų) mūšį Lietuvos didysis etmonas sutelkė smūgį prieš maskvėnų artileriją ir šaulius, o išmušus juos iš pozicijų kilo sumaištis."
-  semantiniai_rysiai: "Lietuviai dalyvavo mūšyje Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.) (0.86); Lietuviai puolė Maskvėnai (0.84)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "359175-359715; hash=cea108f27bc6c0bf929e5c13569d78b23ce75592fc38a6528bbcffd669bf6503; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
-  ryšio_patikimumas: "dalyvavo_musyje -> Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.): 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.): llm_allowed_candidate, event"
-  ryšio_paaiskinimas: "Lietuvių vėliavos pradėjo puolimą šiame mūšyje."
   pagrindžia:
     - c-11928
 
@@ -91,17 +66,6 @@ Nenurodyta
 - t-007
   global_id: t-09886
   teiginys: "Mūšio pabaigoje maskvėnai buvo triuškinami, dalis jų skendo bandydami perplaukti Ulos upę."
-  semantiniai_rysiai: "Maskvėnai dalyvavo mūšyje Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.) (0.86)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "361274-361442; hash=1bf0deada170d67bea4f459c2ffb22ef1d4eebe2c9a8982e53c14b8950f21a56; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
-  ryšio_patikimumas: "dalyvavo_musyje -> Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.): 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Maskvėnai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.): llm_allowed_candidate, event"
-  ryšio_paaiskinimas: "Maskvėnai buvo mūšio pabaigos triuškinimo objektas, todėl jie dalyvavo Ulos mūšyje."
   pagrindžia:
     - c-11929
 
@@ -109,17 +73,6 @@ Nenurodyta
 - t-005
   global_id: t-09887
   teiginys: "Petras Šuiskis pasirinko mūšio vietą prie Ulos upės netoli Čašnikų."
-  semantiniai_rysiai: "Petras Šuiskis dalyvavo mūšyje Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.) (0.86); Petras Šuiskis kariavo prieš Lietuviai (0.73)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "352546-352959; hash=3033f0b2429839eab053d29c28f5739dc9e11548b631a77e47f60adee4a50656; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
-  ryšio_patikimumas: "dalyvavo_musyje -> Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.): 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Petras Šuiskis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.): llm_allowed_candidate, event"
-  ryšio_paaiskinimas: "Petras Šuiskis pasirinko Ulos mūšio vietą ir laukė lietuvių, todėl dalyvavo šiame mūšyje."
   pagrindžia:
     - c-11927
 - susijęs iš [[objektai/ivykiai/B. Serebriano kariuomenės sutriuškinimas po Ulos mūšio.md#claim-t-41259|B. Serebriano kariuomenės sutriuškinimas po Ulos mūšio (mūšis, XVI a.)]]: Po Ulos sutriuškinimo maskvėnai prarado iniciatyvą kare, o naujo didelio jų puolimo grėsmė išnyko.
@@ -152,8 +105,8 @@ Nenurodyta
     apie 25 km atstumą. P. Šuiskis išrikiavo
     savo kariuomenę ir laukė lietuvių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -179,8 +132,8 @@ Nenurodyta
     juos išmušti iš pozicijų, priešininkų ka-
     riuomenéje kilo sumaištis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -195,8 +148,8 @@ Nenurodyta
     skerdynės. Daug bėgančių rusų pa-
     skendo, bandydami perplaukti Ulos upę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -221,8 +174,8 @@ Nenurodyta
     Taip pat nemaža kilmingųjų buvo paimta
     į nelaisvę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -239,8 +192,8 @@ Nenurodyta
     daug Maskvos kariuomenės ginklų, šarvų,
     drabužių ir atsargų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -365,4 +318,4 @@ Nenurodyta
     - t-09884
 
 ## Ryšiai
-- Turėjo dalyvį: [[objektai/grupes/Lietuviai]], [[objektai/grupes/Maskvėnai]], [[objektai/asmenys/Petras Šuiskis]]
+- Turėjo dalyvį: [[objektai/grupes/Maskvėnai]]

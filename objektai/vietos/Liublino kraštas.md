@@ -30,19 +30,6 @@ Po Liublino žemių nuniokojimo priešas siaubė Sandomiro kraštą.
 - t-001
   global_id: t-185269
   teiginys: "Po Liublino žemių nuniokojimo priešas siaubė Sandomiro kraštą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "227932-228582; hash=59aae58e4321c694aa2a3e678849694fc9cc10ec2e3bbe300e81b7ec34f57645; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Liublinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Liublino kraštas (kraštas): owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Liublinas: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Liublino kraštas (kraštas)\" parinktas kaip owner_note_path. Targetas \"Liublinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-168630
 ## Reikšmingi paminėjimai
@@ -65,8 +52,8 @@ Po Liublino žemių nuniokojimo priešas siaubė Sandomiro kraštą.
     (kuriems sprendimas tada geras, kai sėkmingas) atro­
     dė, jog jis elgėsi pakankamai narsiai.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -77,7 +64,8 @@ Po Liublino žemių nuniokojimo priešas siaubė Sandomiro kraštą.
 - id: c-168630
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 134"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 134."
   citata_originali: |
     Boleslovo Droviojo sos-
     (mat priešai dažniausiai pradeda karus, kai prie val­

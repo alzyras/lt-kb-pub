@@ -52,20 +52,6 @@ Nenurodyta
 - t-004
   global_id: t-09528
   teiginys: "1183 m. užfiksuotas pirmasis žinomas lietuvių reidas į Pskovo žemes."
-  semantiniai_rysiai: "Lietuviai surengė žygį į Pskovas (0.93)"
-  temporaliniai_duomenys: "įvykio data: 1183 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys ir tiksliai atitinka citatos informaciją."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "48999-49276; hash=4db32ad66db8ccd507aaf586356f5f76481d5bf1178aba5674fc444867ef94d3; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
-  ryšio_patikimumas: "surenge_zygi_i -> Pskovas: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Pskovas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai mini lietuvių reidą į Pskovo žemes."
   pagrindžia:
     - c-12295
 ## Reikšmingi paminėjimai
@@ -79,8 +65,8 @@ Nenurodyta
     žygius į kaimynų baltų ir slavų žemes. 1183 m. užfiksuotas pirma-
     sis žinomas lietuvių reidas į Pskovo žemes.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

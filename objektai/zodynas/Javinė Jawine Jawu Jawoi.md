@@ -30,14 +30,6 @@ Narbutas Javinę (Jawine) aiškina kaip su javais susijusį deivės vardą ir si
 - t-001
   global_id: t-189299
   teiginys: "Narbutas Javinę (Jawine) aiškina kaip su javais susijusį deivės vardą ir sieja ją su Krūmine."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "768127-768357; hash=fb7d56836b4adb384eab034f1e4198afbf472c69a7293755ffe993f126c5e27d; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172187
 ## Reikšmingi paminėjimai
@@ -51,8 +43,8 @@ Narbutas Javinę (Jawine) aiškina kaip su javais susijusį deivės vardą ir si
     pavadinę Krūmine, kadangi žymės, kokias jai priskiria prūsai,
     yra tos pačios, apie kurias kalbėta tame straipsnyje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -63,7 +55,8 @@ Narbutas Javinę (Jawine) aiškina kaip su javais susijusį deivės vardą ir si
 - id: c-172187
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 425"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 425."
   citata_originali: |
     JAVINĖ (JAWINE). Nuo Jawu. Daugiskaita -  Jawoi. Tas
     pavadinimas, matyt, susijęs su ta pačia deive, kurią aprašėme

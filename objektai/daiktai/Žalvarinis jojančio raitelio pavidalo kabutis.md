@@ -52,9 +52,6 @@ Nenurodyta
 - t-001
   global_id: t-40812
   teiginys: "Žalvarinis jojančio raitelio pavidalo kabutis datuojamas XI-XII a. ir siejamas su Didvyčiais."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1089381-1089483; hash=704c72bc1fb503b6dea6a6f73b8555f423be76386e5327f81258015a973484f7; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-42597
 ## Reikšmingi paminėjimai
@@ -66,8 +63,8 @@ Nenurodyta
 
     Artūro Užgalio nuotr.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -34,16 +34,6 @@ Dėl jo energingos paramos Mozūrų kancleris Ziemovitas gavo Płocko vyskupo so
 - t-001
   global_id: t-35286
   teiginys: "Stanislovas Ciołek turėjo būti dėkingas Vytautui už Poznanės vyskupo mitrą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "503711-504277; hash=445e509ae200047930253a44d88e9023dd2ec1b8b16e4d949659726388adc5c9; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Poznanė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Stanislovas Ciołek: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Poznanė: mention_match, place, gap=52"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Stanislovas Ciołek\" parinktas kaip owner_note_path. Targetas \"Poznanė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-38121
 - susijęs iš [[objektai/asmenys/Jadvyga (Jogailos duktė).md#claim-t-51024|Jadvyga (Jogailos duktė)]]: Vytautas buvo pašauktas būti karalaitės Jadvygos globėju ir nuo tada turėjo ryškią įtaką Lenkijos reikaluose.
@@ -67,8 +57,8 @@ Dėl jo energingos paramos Mozūrų kancleris Ziemovitas gavo Płocko vyskupo so
     nuoširdus Vytauto valios pildytojas, įvairiausiuose jo reika­
     luose^3 ').
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

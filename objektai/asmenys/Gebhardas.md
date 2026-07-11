@@ -43,20 +43,6 @@ Dusburgietis teigia, kad siame mūšyje brolis Gebhardas, kilęs iš Saksonijos,
 - t-001
   global_id: t-60283
   teiginys: "Brolis Gebhardas iš Saksonijos mūšyje persekiojo bėgančius prūsus ir vienam jų kalaviju nukirto galvą."
-  semantiniai_rysiai: "Gebhardas gimė Saksonija (0.70)"
-  temporaliniai_duomenys: "įvykio data: 1243 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra užbaigtas faktinis sakinys apie Gebhardą ir atitinka citatą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "391850-392628; hash=52c727d25338a6f5b9316590274b73f3a6333d4680cb61506d2bc3060807aec8; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gime -> Saksonija: 0.70"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gebhardas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Saksonija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata nurodo Gebhardo kilmę iš Saksonijos; tai artimiausia gimimo ar kilmės vietos relacija."
   pagrindžia:
     - c-60915
 - susijęs iš [[objektai/asmenys/Gebhardas iš Manstfeldo.md#claim-t-60284|Gebhardas iš Manstfeldo]]: Brolis Gebhardas iš Manstfeldo įmetė Viešpaties kryžiaus atskalą į ugnį, iš kurios ji iššoko daugelio žmonių akyse.
@@ -84,8 +70,8 @@ Dusburgietis teigia, kad siame mūšyje brolis Gebhardas, kilęs iš Saksonijos,
     smūgio nekrito tučtuojau žemėn, o tol bėgo be galvos kurį laiką drauge su kitais tuo
     pat keliu, kol sukniubo.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -96,7 +82,8 @@ Dusburgietis teigia, kad siame mūšyje brolis Gebhardas, kilęs iš Saksonijos,
 - id: c-60915
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 120-121"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 120-121."
   citata_originali: |
     Siame mūšyje brolis Gebhardas, kilęs iš Saksonijos, persekiojo kelis
       373 Dusburgietis tokiais žodžiais, matyt, nori pabrėžti Karaliaučiaus, kaip atsparos
@@ -116,6 +103,3 @@ Dusburgietis teigia, kad siame mūšyje brolis Gebhardas, kilęs iš Saksonijos,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60283
-
-## Ryšiai
-- Gebhardas gimė [[objektai/vietos/Saksonija]]

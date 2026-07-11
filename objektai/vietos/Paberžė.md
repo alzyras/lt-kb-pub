@@ -38,20 +38,6 @@ Birželio 3 d. buvo užimti Daugailiai, Tauragnai, birželio 4 d. Paberžė.
 - t-001
   global_id: t-41990
   teiginys: "1919 m. birželio 4 d. lietuvių kariai užėmė Paberžę, persekiodami bolševikus."
-  semantiniai_rysiai: "Lietuviai užėmė Paberžė (0.80)"
-  temporaliniai_duomenys: "įvykio data: 1919 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Iš citatos išplėstas veiksnys ir kontekstas, kad sakinys būtų enciklopedinis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "756571-756713; hash=b38ab42b10ce24eae36e1a86bd10f4991037ca3d1962047f90249a005f306517; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Paberžė: 0.80"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Paberžė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citatoje lietuvių kariai persekiojo bolševikus, o Paberžė nurodyta tarp užimtų vietų."
   pagrindžia:
     - c-45249
 - susijęs iš Daugailiai: Karininkas Kazys Ladyga su lietuvių kariais birželio 3 d. užėmė Daugailius ir Tauragnus, o birželio 4 d. Paberžę.
@@ -67,8 +53,8 @@ Birželio 3 d. buvo užimti Daugailiai, Tauragnai, birželio 4 d. Paberžė.
     kus. Birželio 3 d. buvo užimti Daugailiai,
     Tauragnai, birželio 4 d. Paberžė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -92,6 +78,3 @@ Birželio 3 d. buvo užimti Daugailiai, Tauragnai, birželio 4 d. Paberžė.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-41990
-
-## Ryšiai
-- Užėmė Paberžę: [[objektai/grupes/Lietuviai]]

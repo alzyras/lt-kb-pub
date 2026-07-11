@@ -39,9 +39,6 @@ Vartojamos formos: `savo prasma`, `savo prasma dirbtais`, `savo prasma dirbo`.
 - t-004
   global_id: t-07658
   teiginys: "Prasma nusako savą darbo būdą, kuriuo žmonės patys gaminosi buities padargus."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "145497-145893; hash=07f0daae3767301b0f3c0e47152bec31793dd71c7aa67109bef007a7a1c9b59e; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
   pagrindžia:
     - c-09591
     - c-09592
@@ -50,9 +47,6 @@ Vartojamos formos: `savo prasma`, `savo prasma dirbtais`, `savo prasma dirbo`.
 - t-003
   global_id: t-07659
   teiginys: "Prasma siejama su pačių pasigamintais daiktais, pavyzdžiui, šepečiais."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "135139-135328; hash=9a35d1a693184da2f88c4253dff241d4ed1d4a601334251c112bb0056107f675; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
   pagrindžia:
     - c-09592
 - susijęs iš [[objektai/daiktai/Namų baldai ir rakandai.md#claim-t-08309|Namų baldai ir rakandai]]: Vyriškieji patys dailidavo namų baldus, rakandus ir įvairius būtos padargus.
@@ -63,8 +57,8 @@ Vartojamos formos: `savo prasma`, `savo prasma dirbtais`, `savo prasma dirbo`.
   citata_originali: |
     lovius, raugtines, kipius^575 , geldas, muldas, taip pat ir kitą būtos padargą sau tiekė: plėškes^576 , apnasrius^577 , brizgilus, strungus^578 , tinklus, krytis, kampus^579 , venterius, riužius, kinkymus, pavalkus, kamantus, ienas, – trumpai sakant, visa, ko vien butai reikiant, vis sau patys savo prasma dirbo. Perkaršęs bočius lazdos sau nepirko, su ievine, savo liekne išpjauta, krūpštinėjo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -75,8 +69,8 @@ Vartojamos formos: `savo prasma`, `savo prasma dirbtais`, `savo prasma dirbo`.
   citata_originali: |
     Nuo ryto, pusryčioti^521 eidami, visi prausės ir, abrūsu didžiai ilgu šluostydamies, meldės, kaip anie sakė, už skendinius^522 , paskui galvas šukavo su šepečiais, savo prasma^523 dirbtais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

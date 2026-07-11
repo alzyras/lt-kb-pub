@@ -42,19 +42,6 @@ Nenurodyta
 - t-001
   global_id: t-185821
   teiginys: "Karalius, siekdamas išvengti ginkluotų susidūrimų, sušaukė Naugarduke seimą ir pats nuvyko į Lietuvą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "862037-862398; hash=5ccceb4b3818faa84bccad157b5dfb8b13cf6e4cd9c01289716a20d24a47cde2; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Naugarduko seimo sušaukimas siekiant išvengti ginkluotų susidūrimų (seimas): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=73"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Naugarduko seimo sušaukimas siekiant išvengti ginkluotų susidūrimų (seimas)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-169182
 ## Reikšmingi paminėjimai
@@ -75,8 +62,8 @@ Nenurodyta
     luotų susidūrimų, jis sušaukė Naugarduke seimą ir pats
     nuvyko į Lietuvą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

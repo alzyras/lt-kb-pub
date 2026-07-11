@@ -62,20 +62,6 @@ Nenurodyta
 - t-001
   global_id: t-192081
   teiginys: "Nuo Vytauto laikų Lietuvoje buvo kalamos monetos."
-  teiginio_tipas: "faktas"
-  susije_objektai: "mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Varpai|Varpai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Sūduva"
-  temporaliniai_duomenys: "įvykio data: 1422 m.; įvykio data: 1435 m.; įvykio data: 1422 m.; įvykio data: 1435 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "420567-421200; hash=fd2dd7fb2e267a01a1b9109f37c7e9075f08f017b2d3789f293e1712369a3d4a; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
-  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Monetos: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Monetos\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-174951
 
@@ -83,22 +69,6 @@ Nenurodyta
 - t-003
   global_id: t-192082
   teiginys: "Narbutas nurodė: 1841 m. prie Druskininkų kapavietėje rasta labai plona ir apgadinta moneta, kurios vienoje pusėje pavaizduoti Gedimino šeimos Stulpai."
-  teiginio_tipas: "saltinio_teiginys"
-  temporaliniai_duomenys: "įvykio data: 1841 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalinta nereikalinga Narbuto įžanga ir paliktas aiškus radinio, vietos bei vaizdulio aprašymas. Nepridėta interpretacijų apie kitą monetos pusę daugiau, nei leidžia citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "898817-899313; hash=e6dc8a08f0ad795f607656b314bb98343b034e3fffa77a6eee489eb5fafb993a; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
-  ryšio_patikimumas: "susije_su -> Gediminas (Lietuvos didysis kunigaikštis, XIV a.): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Monetos: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Gediminas (Lietuvos didysis kunigaikštis, XIV a.): mention_match, person, gap=42"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Monetos\" parinktas kaip owner_note_path. Targetas \"Gediminas (Lietuvos didysis kunigaikštis, XIV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174950
 - susijęs iš [[objektai/asmenys/Tadas Volianskis.md#claim-t-189988|Tadas Volianskis]]: Tadas Volianskis atsiuntė Narbutui Lietuvoje rastos monetos piešinį ir manė ją priklausant lietuviškiems paminklams.
@@ -146,8 +116,8 @@ Nenurodyta
     lik todėl, kad buvo įdėta tarp dviejų stiklinių plokštelių (perpiešti
     Krūminės medalį).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -168,8 +138,8 @@ Nenurodyta
     (Dancigu ir Karaliaučiumi), nuo Vytauto laikų buvo kalamos mo­
     netos, liejami pabūklai, varpai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -180,7 +150,8 @@ Nenurodyta
 - id: c-174950
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 489"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 489."
   citata_originali: |
     pastraipos
     tęsinys/
@@ -223,6 +194,3 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192081
-
-## Ryšiai
-- Monetos priklausė [[objektai/vietos/Lietuva]]

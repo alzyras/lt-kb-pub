@@ -30,22 +30,6 @@ Per Galiją mūsų kraštų prekės, pasak Narbuto, arkliais per 50 dienų būda
 - t-001
   global_id: t-192871
   teiginys: "Per Galiją mūsų kraštų prekės, pasak Narbuto, arkliais per 50 dienų būdavo gabenamos į Masiliją."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Galija prekiavo su Masilija (0.69)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "300982-301314; hash=ea86fb47714ae793b84e7a754cb9c8cfaf79c88abe7ee912f96d4520e852dfc2; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "prekiavo_su -> Masilija: 0.69"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Galija: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Masilija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Prekių gabenimas per Galiją į Masiliją tiesiogiai sieja šias vietas prekybos maršrutu."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175641
 - susijęs iš [[objektai/grupes/Masiliečiai.md#claim-t-192958|Masiliečiai]]: Teodoro Narbuto teigimu, masiliečiai prekes gabeno keliu, kuriuo jos patekdavo į Tartesą arba prie Galijos krantų.
@@ -71,8 +55,8 @@ Per Galiją mūsų kraštų prekės, pasak Narbuto, arkliais per 50 dienų būda
     kaip įgalima numanyti, buvo patogesnis už jūros kelią,
     kuris ėjo pro šv.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -83,7 +67,8 @@ Per Galiją mūsų kraštų prekės, pasak Narbuto, arkliais per 50 dienų būda
 - id: c-175641
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 166"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 166."
   citata_originali: |
     Siaurės sagose daug žinių apie
     jurų keliautojus, nuo senų amžių garsėjusius savo drąsiais
@@ -98,7 +83,3 @@ Per Galiją mūsų kraštų prekės, pasak Narbuto, arkliais per 50 dienų būda
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192871
-
-## Ryšiai
-- Prekiavo su: [[objektai/grupes/Masiliečiai]]
-- Galija prekiavo su [[objektai/vietos/Masilija]]

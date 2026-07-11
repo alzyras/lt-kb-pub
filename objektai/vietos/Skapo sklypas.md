@@ -41,19 +41,6 @@ Kunigaikštis Kristupas jai mainais atidavė savo sklypą, „einant Vyskupų ga
 - t-001
   global_id: t-86235
   teiginys: "1573 m. kovo 26 d. kunigaikštis Kristupas kapitului mainais atidavė Skapo vardu vadintą sklypą Skapo gatvės kampe."
-  temporaliniai_duomenys: "įvykio data: 1573 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys nutrūkęs ir turi OCR triukšmo, bet citata pagrindžia aiškų faktą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "600481-600810; hash=c7766ac3b6521e7d47de45a748f3f27ec66f98d3544a1f44707dcd1f9882b0ab; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> kapitula: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Skapo sklypas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "kapitula: mention_match, thing, gap=26"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Skapo sklypas\" parinktas kaip owner_note_path. Targetas \"kapitula\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-82214
 ## Reikšmingi paminėjimai
@@ -73,8 +60,8 @@ Kunigaikštis Kristupas jai mainais atidavė savo sklypą, „einant Vyskupų ga
     ant paties kampo esantį ir vadinamą
     Skapo vardu".
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

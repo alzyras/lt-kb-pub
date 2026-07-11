@@ -33,16 +33,6 @@ media_all_json: |-
 - t-001
   global_id: t-01084
   teiginys: "Kraševskis buvo universiteto auklėtinis, pasižymėjęs lenkų romantinėje literatūroje, kuri temas ėmė iš Lietuvos istorijos."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "916896-917454; hash=730686173c036fe2707e2872cddd3760ed3ede2a52bc5ea38d8a79dff43b4402; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kraševskis: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=53"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kraševskis\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-01322
 - susijęs iš [[objektai/asmenys/J. Kraševskis.md#claim-t-63665|J. Kraševskis]]: J. I. Kraševskis 1841–1851 m. Vilniuje leido kultūrinio pobūdžio žurnalą „Atheneum“.
@@ -89,8 +79,8 @@ media_all_json: |-
     viais. Iš antros pusės, tie patys raštai kiek vėliau labai paveikė
     iš liaudies tarpo kilusią lietuviškąją inteligentiją.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

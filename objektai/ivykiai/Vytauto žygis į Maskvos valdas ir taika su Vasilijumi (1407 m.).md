@@ -49,20 +49,6 @@ Nenurodyta
 - t-001
   global_id: t-185668
   teiginys: "Švitrigaila prie Okos susijungė su skitų ir maskvėnų kariuomene ir užkirto Vytautui kelią į Vasilijaus valdas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Švitrigaila buvo priešas Vytautas (Lietuvos valdovas, XIV–XV a.) (0.82)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "641600-642378; hash=e518016b0b080981b8b14da24e6697d606f8ebe4d43e272709efc2edf4b91f01; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_priesas -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Švitrigaila su kariuomene užkirto kelią Vytautui, todėl santykis yra priešiškas."
   pagrindžia:
     - c-169029
 
@@ -70,19 +56,6 @@ Nenurodyta
 - t-002
   global_id: t-185669
   teiginys: "Vytautas įsakė kavalerijos vadams rasti neužkirstas properšas miškuose ir pelkėse bei siaubti Vasilijaus valdas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "642986-643558; hash=5e985268dbf4a49c7b935bbfa8d358061eb9ef566e7b5b5e23ae3da080fe525a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytauto žygis į Maskvos valdas ir taika su Vasilijumi (1407 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytauto žygis į Maskvos valdas ir taika su Vasilijumi (1407 m.)\" parinktas kaip owner_note_path. Targetas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-169030
 
@@ -90,12 +63,6 @@ Nenurodyta
 - t-003
   global_id: t-193863
   teiginys: "DEL VYTAUTO VALDINIŲ NUSKRIAUDIMO Šeši tūkstančiai devyni šimtai dešimtųjų melų 1 bir želio septintąją dieną pranyko saulė ir paslėpė savo spindulius."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "177822-178096; hash=f568b011751e325c38022bb71e81dcf4dec75a1d1209f1bd57705a423f3060d7; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176496
 ## Reikšmingi paminėjimai
@@ -124,8 +91,8 @@ Nenurodyta
     kiamoje perėjoje, kuria Vytautas būtinai turėjo žygiuo-
     li, užkirto jam kelią į tolesnes Vasilijaus valdas.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -153,8 +120,8 @@ Nenurodyta
     pats kuo skubiausiai, protarpiais keisdamas arklius, pasi­
     leido į Vilnių.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -172,8 +139,8 @@ Nenurodyta
     dieninės mišios. Ir suspindo žvaigždės kaip naktį, ir
     švietė tris valandas:.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -184,7 +151,8 @@ Nenurodyta
 - id: c-169029
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 367"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 367."
   citata_originali: |
     Patikrinęs prie
     Smolensko karių kovinę pa­
@@ -215,7 +183,8 @@ Nenurodyta
 - id: c-169030
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 368"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 368."
   citata_originali: |
     Viską apgalvojęs, galop įsakė kavalerijos pul­
     kų vadams paieškoti miškuose ir pelkėse neužkirstų pro­
@@ -244,7 +213,8 @@ Nenurodyta
 - id: c-176496
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 100"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 100."
   citata_originali: |
     DEL VYTAUTO
     VALDINIŲ NUSKRIAUDIMO

@@ -45,12 +45,6 @@ Nenurodyta
 - t-001
   global_id: t-194070
   teiginys: "RIMANTAS JASAS ВУСНОѴСО KRONIKA IR JOS KILMĖ Ligi šiol yra žinomi trys žymesni Lietuvos Didžiojoje Kunigaikštystėje kilusios metraštinės literatūros pa minklai: Trumpasis sąvadas, Platesnysis sąvadas ir Bychovco kronika Šie sąvadai, taip pat įtrauktieji į."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "5984-6658; hash=54729169c06c67cdb243decab06ef0a65f7192ecab72510778584755152d587b; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176683
 ## Reikšmingi paminėjimai
@@ -77,8 +71,8 @@ Nenurodyta
     paskelbti Rusijos Archeografinės Komisijos leidinyje,
     pavadintame „Pilnuoju rusų metraščių rinkiniu" 3 .
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

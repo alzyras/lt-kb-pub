@@ -44,11 +44,6 @@ Aleksandras (didysis kunigaikštis): 1. Aleksandro (1492—1506 m.) išrinkimas 
 - t-005
   global_id: t-75642
   teiginys: "Mirus Jonui Albrechtui, Aleksandras buvo išrinktas Lenkijos karaliumi."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "397351-397734; hash=a632edc19072b69ad15885c822f7fc2c26532fa04a5e8011f19a1a8e51b3646f; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-73367
 
@@ -56,9 +51,6 @@ Aleksandras (didysis kunigaikštis): 1. Aleksandro (1492—1506 m.) išrinkimas 
 - t-004
   global_id: t-75647
   teiginys: "Aleksandro laikais daug valstybės dvarų Lietuvoje pateko bajorijai ir ponams, nes valdovas juos dalijo be atodairos."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "463862-464313; hash=bc82a6d5df5d84bbbf661ba4900d459b3fabff8f82e62857c326543b87327403; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-73365
 
@@ -66,19 +58,6 @@ Aleksandras (didysis kunigaikštis): 1. Aleksandro (1492—1506 m.) išrinkimas 
 - t-009
   global_id: t-75650
   teiginys: "XV–XVI a. sandūroje didžiojo kunigaikščio Aleksandro dvare buvo humanistinio išsilavinimo žmonių."
-  temporaliniai_duomenys: "įvykio data: 1519 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "114376-114828; hash=f21819df431ffe2169c458733bda479708a2bffd322f5f75504956d9d528d5fb; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Europa: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aleksandras (didysis kunigaikštis): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Europa: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksandras (didysis kunigaikštis)\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-21555
 ## Reikšmingi paminėjimai
@@ -97,8 +76,8 @@ Aleksandras (didysis kunigaikštis): 1. Aleksandro (1492—1506 m.) išrinkimas 
     Žygimantui Senajam 1519 m. vedus Milano kunigaikštytę Boną Sforcą
     (Bona Sforza).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -116,8 +95,8 @@ Aleksandras (didysis kunigaikštis): 1. Aleksandro (1492—1506 m.) išrinkimas 
     ir ponų rankas, — ypač Aleksandro laikais, nes jis juos dalino be
     atodairos, ir todėl jiems niekas neturėjo nuosavybės dokumentų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -135,8 +114,8 @@ Aleksandras (didysis kunigaikštis): 1. Aleksandro (1492—1506 m.) išrinkimas 
     sandras — didysis Lietuvos kunigaikštis. Jonui Albrechtui mirus,
     Aleksandras buvo išrinktas ir Lenkų karalium.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

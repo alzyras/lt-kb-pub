@@ -30,21 +30,6 @@ Narbutas „mišką su kovarniais“ aiškino kaip seniai suaugusį mišką, nes
 - t-001
   global_id: t-189313
   teiginys: "Narbutas „mišką su kovarniais“ aiškino kaip seniai suaugusį mišką, nes kovarniai lizdus krauna aukštuose medžiuose tankiose ar nuošaliose vietose."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "455415-456314; hash=5769d24cc106f9498a745c52f7c66352f79129381283a6c74954f0af55d5d8d1; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Egiptiečiai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Miškas su kovarniais: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Egiptiečiai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Miškas su kovarniais\" parinktas kaip owner_note_path. Targetas \"Egiptiečiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172200
 ## Reikšmingi paminėjimai
@@ -72,8 +57,8 @@ Narbutas „mišką su kovarniais“ aiškino kaip seniai suaugusį mišką, nes
     pirmieji pradėjo statyti šventyklas dievams arba pastatus, ku­
     riuose jie būdavo garbinami.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -84,7 +69,8 @@ Narbutas „mišką su kovarniais“ aiškino kaip seniai suaugusį mišką, nes
 - id: c-172200
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 263"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 263."
   citata_originali: |
     Lydos apskrityje,
     prie Girkų kaimo, tikrojoje Lietuvoje, yra plotas tokių me­

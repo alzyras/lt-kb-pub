@@ -41,14 +41,6 @@ media_all_json: |-
 - t-001
   global_id: t-193280
   teiginys: "1466 m. Torne buvo pasirašyta taika, kuria ordinas pasidarė Lenkijos vasalu ir perleido jai daug žemių."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "383671-383891; hash=ca40b96388983588f7b9ae752ea5789565ecd14979371668becace3c940711da; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-176009
 ## Reikšmingi paminėjimai
@@ -62,8 +54,8 @@ media_all_json: |-
     atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte —
     Elbingą, Marijenburgą ir visą Varmijos vyskupystę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -42,16 +42,6 @@ Vartojama bendrame Europos viduramžių ir Kryžiaus karų poveikio miestams kon
 - t-001
   global_id: t-55269
   teiginys: "Kryžiaus karų poveikis sutramdė feodalizmo piktnaudžiavimą ir iš plėšikaujančios bajorijos suformavo riterių luomą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "28362-28871; hash=c5064cb4c5f297b46b82057d01ef54d9753d8b9099b98f457e2c141fd4e69e53; match=whitespace_regex"
-  sprendimo_priezastis: "gap::vocabulary"
-  ryšio_patikimumas: "susije_su -> luomas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Riterių luomas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "luomas: mention_match, thing, gap=8"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Riterių luomas\" parinktas kaip owner_note_path. Targetas \"luomas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-55818
 
@@ -59,16 +49,6 @@ Vartojama bendrame Europos viduramžių ir Kryžiaus karų poveikio miestams kon
 - t-002
   global_id: t-55270
   teiginys: "Balińskis riterių luomą vadino garbingiausiąja viduramžių institucija."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "28362-28871; hash=c5064cb4c5f297b46b82057d01ef54d9753d8b9099b98f457e2c141fd4e69e53; match=whitespace_regex"
-  sprendimo_priezastis: "gap::vocabulary"
-  ryšio_patikimumas: "susije_su -> luomas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Riterių luomas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "luomas: mention_match, thing, gap=8"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Riterių luomas\" parinktas kaip owner_note_path. Targetas \"luomas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-55818
 
@@ -76,16 +56,6 @@ Vartojama bendrame Europos viduramžių ir Kryžiaus karų poveikio miestams kon
 - t-003
   global_id: t-82096
   teiginys: "Susirėmimas su Rytais prisidėjo prie riterių luomo susiformavimo iš plėšikaujančios bajorijos."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "28544-28954; hash=e4f489ec1daeef192cb449cb36f99b7b69592116fe7e1a6f617ac799ddee7b19; match=whitespace_regex"
-  sprendimo_priezastis: "gap::vocabulary"
-  ryšio_patikimumas: "susije_su -> luomas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Riterių luomas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "luomas: mention_match, thing, gap=8"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Riterių luomas\" parinktas kaip owner_note_path. Targetas \"luomas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-78590
 - susijęs iš [[objektai/zodynas/feodalizmas.md#claim-t-82055|feodalizmas]]: Susidūrimas su Rytais, anot autoriaus, sutramdė feodalizmo piktnaudžiavimą ir iš bajorijos formavo riterių luomą.
@@ -107,8 +77,8 @@ Vartojama bendrame Europos viduramžių ir Kryžiaus karų poveikio miestams kon
     formuotas riterių luomas - pati garbingiausioji viduramžių
     institucija.
   citata_rodoma: ''
-  teiginio_tipas: interpretacija
   statusas: verified
+  teiginio_tipas: interpretacija
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -128,8 +98,8 @@ Vartojama bendrame Europos viduramžių ir Kryžiaus karų poveikio miestams kon
     institucija. Tuo metu imtasi užmestos laivininkystės, iš Rytų plito
     mokslai ir masino prekyba.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

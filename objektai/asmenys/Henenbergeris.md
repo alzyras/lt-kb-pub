@@ -39,21 +39,6 @@ Pasak Henenbergerio, lietuviai Poklių įsivaizduodavo kaip žilabarzdį, išbly
 - t-001
   global_id: t-190003
   teiginys: "Pasak Henenbergerio, lietuviai Poklių įsivaizduodavo kaip žilabarzdį, išblyškusį senį pastėrusiomis akimis ir balta drobule apmuturiuota galva."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "187829-188169; hash=dc1324cf816a26c4c677dd72f853683b3fedeef32e4d2c8d6493d91b6ef01496; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Henenbergeris: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=15"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Henenbergeris\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172886
 
@@ -61,21 +46,6 @@ Pasak Henenbergerio, lietuviai Poklių įsivaizduodavo kaip žilabarzdį, išbly
 - t-002
   global_id: t-190004
   teiginys: "Narbutas rašo, kad Henenbergeris apie 1584 metus tikino pats matęs senų vienaakių žmonių, siejamų su šventos upės poveikiu."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "390262-390791; hash=fcfdabca0c61a4839abb1bd09cbc77368d583ebb406fc0ac97b927b5947efa81; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Upės (Oppen) kaimas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Henenbergeris: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Upės (Oppen) kaimas: mention_match, place, gap=90"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Henenbergeris\" parinktas kaip owner_note_path. Targetas \"Upės (Oppen) kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172887
 
@@ -83,21 +53,6 @@ Pasak Henenbergerio, lietuviai Poklių įsivaizduodavo kaip žilabarzdį, išbly
 - t-003
   global_id: t-190005
   teiginys: "Henenbergeris tikino, kad XVI a. pabaigoje Sakininkų kaime prie Rusnės augo didžiulė liepa, prie kurios kaimiečiai slapčia melsdavosi."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "411212-411572; hash=5294ab1e6fdf4dd4215a72141af0d185fbf272f89f2f9e3ba166a7367c3fc622; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kaimas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Henenbergeris: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kaimas: mention_match, place, gap=53"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Henenbergeris\" parinktas kaip owner_note_path. Targetas \"Kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172888
 
@@ -105,21 +60,6 @@ Pasak Henenbergerio, lietuviai Poklių įsivaizduodavo kaip žilabarzdį, išbly
 - t-004
   global_id: t-190006
   teiginys: "Narbutas vertino, kad Henenbergeris, Hartknochas, Kojalavičius ir Škicas apšmeižė senovės lietuvius dėl tariamo žiaurumo ligoniams."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "635151-635737; hash=32474de2c80ca0a8ccb27850b02eebec5ef6043f980038ae79d7d1221752a274; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kojalavičius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Henenbergeris: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kojalavičius: mention_match, person, gap=28"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Henenbergeris\" parinktas kaip owner_note_path. Targetas \"Kojalavičius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172889
 
@@ -127,21 +67,6 @@ Pasak Henenbergerio, lietuviai Poklių įsivaizduodavo kaip žilabarzdį, išbly
 - t-005
   global_id: t-190007
   teiginys: "Pasak Henenbergerio tyrimų, turtingųjų namuose gedulas trukdavo keturias savaites, o samdytos raudotojos turėdavo nuolat apraudoti mirusįjį."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "652175-652696; hash=40309aca8593fda5749df37fb85c64841156a06e5a4e2c5812e45750434e4134; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Henenbergeris: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Henenbergeris\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172890
 
@@ -149,21 +74,6 @@ Pasak Henenbergerio, lietuviai Poklių įsivaizduodavo kaip žilabarzdį, išbly
 - t-006
   global_id: t-190008
   teiginys: "Narbutas nurodo, kad Henenbergeris ir Hartknochas vėliavos su nežinomų raidžių užrašu aprašymą perėmė iš Grunau."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "718696-718848; hash=3f376de1d4289d3bcd24dea87849cc85cb8e2097dce3f81139a26f237aa6dbc7; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vėliavos: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Henenbergeris: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Vėliavos: mention_match, thing, gap=29"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Henenbergeris\" parinktas kaip owner_note_path. Targetas \"Vėliavos\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172891
 
@@ -171,22 +81,6 @@ Pasak Henenbergerio, lietuviai Poklių įsivaizduodavo kaip žilabarzdį, išbly
 - t-007
   global_id: t-190009
   teiginys: "Narbutas pažymi, kad Henenbergerio veikale buvo užrašas senovės lietuvių kalba, siejamas su kunigaikščio Utenio vėliava."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Utenis rėmė Prūsai (0.88); Utenis kariavo prieš Kryžiuočių ordinas (0.84)"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "718924-719335; hash=442d82c61a36781137651c319bd6789274bda8db00118cd4d4c26526cde86b49; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "reme -> Prūsai: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Utenis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Prūsai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Utenis padėjo prūsams."
-  vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172892
 
@@ -194,21 +88,6 @@ Pasak Henenbergerio, lietuviai Poklių įsivaizduodavo kaip žilabarzdį, išbly
 - t-008
   global_id: t-190864
   teiginys: "Narbutas Henenbergerį mini tarp kronikininkų, citavusių pirmojo Kulmo, arba Prūsijos, vyskupo Kristijono kroniką apie senovės Prūsiją."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "303115-303777; hash=bf7882fddbc76f51b161fe044100b67702b9cae7e2c98abea059f15bc8f77c01; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Prūsai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Henenbergeris: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Prūsai: mention_match, group, gap=67"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Henenbergeris\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T15:36:38Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173746
 
@@ -216,21 +95,6 @@ Pasak Henenbergerio, lietuviai Poklių įsivaizduodavo kaip žilabarzdį, išbly
 - t-009
   global_id: t-190865
   teiginys: "Narbutas nurodo, kad XV a. prūsų kronikininkas Henenbergeris pateikė daugiau jau neegzistuojančių Nemuno deltos šakų pavadinimų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "405231-405783; hash=46f6eb0135b356a546767a2577b39b4554fb949449db3ffb7c703053bcc5c614; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Prūsai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Henenbergeris: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Prūsai: mention_match, group, gap=20"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Henenbergeris\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T15:36:38Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173747
 
@@ -238,21 +102,6 @@ Pasak Henenbergerio, lietuviai Poklių įsivaizduodavo kaip žilabarzdį, išbly
 - t-010
   global_id: t-191951
   teiginys: "Narbutas remiasi Henenbergeriu kaip patvirtinimu, kad buvo sudinų gentis arba taip vadinta giminė."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "475595-475983; hash=83d08cde4f5ac2aa563ae93f308eb4200af11279109972762c372ed520ad5caa; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Barta: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Henenbergeris: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Barta: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Henenbergeris\" parinktas kaip owner_note_path. Targetas \"Barta\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T15:36:38Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174833
 
@@ -260,12 +109,6 @@ Pasak Henenbergerio, lietuviai Poklių įsivaizduodavo kaip žilabarzdį, išbly
 - t-011
   global_id: t-194705
   teiginys: "Henenbergeris pats prisipažįsta, o kiti pagal matomus požymius, kaip savo tyrimo šaltinį turėjo ne tik vyskupo Kristijono kroniką, bet ir kitus šaltinius, vienalaikius su ja arba kiek vėlesnius, tačiau ankstesnius už Dusburgietį; abu kalba apie tuos pačius vyriausiuosius žynius net plačiau ir su gerokai išsamesniais paaiškinimais negu Simonas Grunau17."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "781483-782233; hash=ba6d170901537974f41c7f2bcaf5e5d38bc027a0a238af01b951e74745a147e4; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177101
 ## Reikšmingi paminėjimai
@@ -281,8 +124,8 @@ Pasak Henenbergerio, lietuviai Poklių įsivaizduodavo kaip žilabarzdį, išbly
     barzda, išblyškusio veido, pastėrusiomis akimis, žvelgiančio­
     mis į dangų, galva, nerūpestingai apmuturiuota balta drobule.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -303,8 +146,8 @@ Pasak Henenbergerio, lietuviai Poklių įsivaizduodavo kaip žilabarzdį, išbly
     minties šaltinis, kuriame uosis Igdrasilis (arba Idrasibas) maiti­
     na vieną savo šaknį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -321,8 +164,8 @@ Pasak Henenbergerio, lietuviai Poklių įsivaizduodavo kaip žilabarzdį, išbly
     si didžiulė liepa; kaimiečiai, dar tikėję senais prietarais, stab­
     meldžių papratimu slapčia ateidavo prie jos m elstis18.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -344,8 +187,8 @@ Pasak Henenbergerio, lietuviai Poklių įsivaizduodavo kaip žilabarzdį, išbly
     je, -  bet ne smurtu ir ne pagal religijos nuostatus, o tik prietaringų ir
     ligos palaužtų senelių prašymu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -366,8 +209,8 @@ Pasak Henenbergerio, lietuviai Poklių įsivaizduodavo kaip žilabarzdį, išbly
     dulingomis raudomis apdainuodavo jo dorybes ir žymiausius
     jo karo žygius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -382,8 +225,8 @@ Pasak Henenbergerio, lietuviai Poklių įsivaizduodavo kaip žilabarzdį, išbly
     telės 41-ą piešinį. Iš Grunau perėmė Henenbergeris irHartkno-
     6 Hartknoch.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -405,8 +248,8 @@ Pasak Henenbergerio, lietuviai Poklių įsivaizduodavo kaip žilabarzdį, išbly
     prūsams kovoti su kryžiuočiais ir kuris buvo pramintas Zupanit,
     vėliava.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -430,8 +273,8 @@ Pasak Henenbergerio, lietuviai Poklių įsivaizduodavo kaip žilabarzdį, išbly
     Luko Davido kronikos teiginius, kurių nežinojo anas au­
     1 Lib.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -457,8 +300,8 @@ Pasak Henenbergerio, lietuviai Poklių įsivaizduodavo kaip žilabarzdį, išbly
     lietuvių kalboje turi prasmę ir teikia didelių galimybių
     etimologiniams tyrimams.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -476,8 +319,8 @@ Pasak Henenbergerio, lietuviai Poklių įsivaizduodavo kaip žilabarzdį, išbly
     spėjimas yra visiškai nepriimtinas. O tai, kad buvusi sudinų gentis
     ar taip vadinta giminė, patvirtina Henenbergeris.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -501,8 +344,8 @@ Pasak Henenbergerio, lietuviai Poklių įsivaizduodavo kaip žilabarzdį, išbly
     rokai išsamesniais paaiškinimais negu Simonas Grunau17.
     2.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -513,7 +356,8 @@ Pasak Henenbergerio, lietuviai Poklių įsivaizduodavo kaip žilabarzdį, išbly
 - id: c-172886
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 105"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 105."
   citata_originali: |
     Būta įvairių jo vardų: Pokolus, Pokole,
     Pikol, Pikole, Pragartis -  nuo žodžio Pragaras, pekla.
@@ -531,7 +375,8 @@ Pasak Henenbergerio, lietuviai Poklių įsivaizduodavo kaip žilabarzdį, išbly
 - id: c-172887
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 228"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 228."
   citata_originali: |
     Mitologinė
     šios upės ypatybė yra ta, kad teikiamos malonės ženklan ji sa­
@@ -553,7 +398,8 @@ Pasak Henenbergerio, lietuviai Poklių įsivaizduodavo kaip žilabarzdį, išbly
 - id: c-172888
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 239"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 239."
   citata_originali: |
     LIEPA, Liepas. Pas senovės prūsus ji priklausė šventųjų
     medžių kategorijai. Henenbergeris tikina, kad dar jo laikais,
@@ -571,7 +417,8 @@ Pasak Henenbergerio, lietuviai Poklių įsivaizduodavo kaip žilabarzdį, išbly
 - id: c-172889
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 359"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 359."
   citata_originali: |
     Draugystės, svetingumo, santai­
     kos, būsimo pomirtinio gyvenimo vilties dievybės šiai dievo­
@@ -594,7 +441,8 @@ Pasak Henenbergerio, lietuviai Poklių įsivaizduodavo kaip žilabarzdį, išbly
 - id: c-172890
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 368"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 368."
   citata_originali: |
     Erazmas Ste­
     la aiškiai, visiškai remdamasis Lietuvos padavimais, tvirtina,
@@ -616,7 +464,8 @@ Pasak Henenbergerio, lietuviai Poklių įsivaizduodavo kaip žilabarzdį, išbly
 - id: c-172891
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 400"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 400."
   citata_originali: |
     Ant tos vėliavos
     buvęs ypatingas užrašas nežinomomis raidėmis. Žiūrėk VI len­
@@ -655,7 +504,8 @@ Pasak Henenbergerio, lietuviai Poklių įsivaizduodavo kaip žilabarzdį, išbly
 - id: c-173746
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 167"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 167."
   citata_originali: |
     Iš imperatoriaus Augusto valdy­
     mo Romos valstybėje epochos išliko geografijos—istorijos
@@ -707,7 +557,8 @@ Pasak Henenbergerio, lietuviai Poklių įsivaizduodavo kaip žilabarzdį, išbly
 - id: c-174833
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 267"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 267."
   citata_originali: |
     Rytuose ji ribojosi su Sudar­
     gą, pietuose — su jotvingių Polese, vakaruose — su Ga­
@@ -726,7 +577,8 @@ Pasak Henenbergerio, lietuviai Poklių įsivaizduodavo kaip žilabarzdį, išbly
 - id: c-177101
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 432"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 432."
   citata_originali: |
     Bet kur įrodymas, kad Lukas Davidas turėjo rankose visą vys­
     kupo kroniką, jeigu pats ponas Foigtas mums aiškina16, kad

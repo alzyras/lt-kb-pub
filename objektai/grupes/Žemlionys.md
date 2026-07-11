@@ -38,9 +38,6 @@ media_all_json: |-
 - t-002
   global_id: t-07857
   teiginys: "Žemlionys vadinti ir vyčiais, nes turėjo vyti priešus gindamiesi arba gyveno vietoje, neklajodami su gyvuliais."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "310385-310681; hash=63f82689a66837a040b78842559163bcb736bb53b2e14a5c91e0678f76e62721; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
   pagrindžia:
     - c-10095
     - c-10096
@@ -57,8 +54,8 @@ media_all_json: |-
   citata_originali: |
     Nuo ko jau žemlionimis vadinos, jog žemę savo turėjo, jau vyčiais, kaip viršiau minavojau, nuo to, jog turėjo vyti neprietelius gyniodamos, ar nuo to, jog vietoje gyveno ir nebklajojo su gyvuliais po laukus ir girias, juos ganydami; ir taip patys žemlionys, arba vyčiai, pradžioj tearė ir tesėjo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -70,8 +67,8 @@ media_all_json: |-
     Žemaičiuose didžiai vėlai dar yra regimas: kaipogi veizint į reistrą^1177 vyčių, metuose 1528 surašytų,
         gal regėti, jog Žemaičių vyčiai it visi dar lygias tėviškes yra tebturėję.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -84,8 +81,8 @@ media_all_json: |-
         ūkės vyresnieji neturėjo valsčių, kaip kad yra randama paskesnėse gadynėse irstant Lietuvos ūkei^1178 ,
         nes vos penkis, šešis tarnus, arba, kaip šiandien vadina, padonuosius^1179 , teturėjo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

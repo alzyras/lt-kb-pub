@@ -46,19 +46,6 @@ Iš Kęstučio laikotarpio jis rašė dar apie Kauno pilies išgriovimą 1362 m.
 - t-001
   global_id: t-79423
   teiginys: "Šležas rašė apie Kauno pilies išgriovimą 1362 m."
-  temporaliniai_duomenys: "įvykio data: 1362 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir pagrįstas citata apie Kauno pilies išgriovimą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "190249-190794; hash=1d1f6763dd612861770af4c342017ff10e48ede96be62735440b8cc48dec1b0b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kaunas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kauno pilis (pilis): owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kaunas: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kauno pilis (pilis)\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-76419
 
@@ -66,19 +53,6 @@ Iš Kęstučio laikotarpio jis rašė dar apie Kauno pilies išgriovimą 1362 m.
 - t-002
   global_id: t-79424
   teiginys: "Pirmoji Kauno pilis kronikose paminėta 1361 m. ir pastatyta Nemuno ir Neries santakoje."
-  temporaliniai_duomenys: "pastatymo data: 1361 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie Kauno pilies paminėjimą ir vietą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "150849-151107; hash=096e336f40b5523559e8c8926d20d45b1b5c19d60fe63f8dbc424c7eb8f4aa4e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kaunas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kauno pilis (pilis): owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kaunas: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kauno pilis (pilis)\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-43492
 
@@ -86,17 +60,6 @@ Iš Kęstučio laikotarpio jis rašė dar apie Kauno pilies išgriovimą 1362 m.
 - t-003
   global_id: t-79425
   teiginys: "Ordino ir talkininkų kariuomenė Nemunu laivais pasiekė Kauną ir po kovo 13-osios apgulė Kauno pilį."
-  semantiniai_rysiai: "Kryžiuočių ordinas apgulė Kauno pilis (pilis) (0.93)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "154630-155030; hash=06ee7986f8529e0977c50f97dfcdafac46aa3cb329d3515d4efcea140ca1d8c9; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "apgule -> Kauno pilis (pilis): 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Kauno pilis (pilis): llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad kryžiuočiai apgulė pilį, o savininko objektas yra Kauno pilis."
   pagrindžia:
     - c-43493
 
@@ -104,17 +67,6 @@ Iš Kęstučio laikotarpio jis rašė dar apie Kauno pilies išgriovimą 1362 m.
 - t-004
   global_id: t-79426
   teiginys: "Kauno pilį puolė kryžiuočių pajėgos, Livonijos ordino daliniai ir kryžininkai iš Anglijos, Italijos bei Vokietijos."
-  semantiniai_rysiai: "Kryžiuočių ordinas puolė Kauno pilis (pilis) (0.94)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "154349-154889; hash=2a71a8e831442a30c8eaf4d0f27f789d840d51b05a379bb80d9ff9efa4bfc63c; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Kauno pilis (pilis): 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Kauno pilis (pilis): llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginyje tiesiogiai pasakyta, kad kryžiuočių pajėgos puolė Kauno pilį."
   pagrindžia:
     - c-76420
 - susijęs iš [[objektai/ivykiai/Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.).md#claim-t-185489|Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.)]]: Gediminas nestojo į atvirą kovą, kai kryžiuočiai užėmė Jurbarko ir Kauno pilis, o Livonijos kryžiuočiai atėmė Kuršą.
@@ -137,8 +89,8 @@ Iš Kęstučio laikotarpio jis rašė dar apie Kauno pilies išgriovimą 1362 m.
     kronikose paminėta 1361 m. Ji pastatyta strategiškai
     svarbioje vietoje - Nemuno ir Nėries santakoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -162,8 +114,8 @@ Iš Kęstučio laikotarpio jis rašė dar apie Kauno pilies išgriovimą 1362 m.
     mus - griovį, pylimus su kuorais, izo-
     liuodami pilį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -182,8 +134,8 @@ Iš Kęstučio laikotarpio jis rašė dar apie Kauno pilies išgriovimą 1362 m.
     nys, 1932), apie bandymus pakrikštyti Lietuvą Algirdo ir Kęstučio
     laikais (TK, 1932, Nr. 12).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -213,8 +165,8 @@ Iš Kęstučio laikotarpio jis rašė dar apie Kauno pilies išgriovimą 1362 m.
     miau Kauno, keletą dienų statė tiltus ir
     trečiąją dieną atžygiavo prie pilies.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -323,4 +275,3 @@ Iš Kęstučio laikotarpio jis rašė dar apie Kauno pilies išgriovimą 1362 m.
 - Puolė Kauno pilį (pilis): [[objektai/grupes/Kryžiuočių ordinas]]
 - Apgulė Kauno pilį (pilis): [[objektai/grupes/Kryžiuočių ordinas]]
 - Užėmė Kauno pilį (pilis): [[objektai/grupes/Kryžiuočių ordinas]]
-- Kauno pilis (pilis) priklausė [[objektai/vietos/Kaunas]], [[objektai/vietos/Lietuva]]

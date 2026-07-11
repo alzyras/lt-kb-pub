@@ -39,20 +39,6 @@ Trečiasis buvo nuo Simno kilęs Ignas Jonynas, kuris 1905 m. porai metų istori
 - t-001
   global_id: t-32183
   teiginys: "Ignas Jonynas 1905 m. išvyko į Grenoblį porai metų studijuoti istorijos."
-  semantiniai_rysiai: "Grenoblis priklausė Prancūzija (0.84)"
-  temporaliniai_duomenys: "įvykio data: 1905 m.; įvykio data: 1911 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "160661-160925; hash=323bd77cfe695159846b351a7322f159ad19e19d46134356c9d23c476dc7bfa1; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Prancūzija: 0.84"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Grenoblis: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Prancūzija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Vietovė tiesiogiai įvardyta kaip Prancūzijos Grenoblis."
   pagrindžia:
     - c-33855
 - susijęs iš [[objektai/autoriai/Simono Grunau.md#claim-t-30981|Simono Grunau]]: Simonas Grunau rodyklėje nurodytas kaip kronikininkas.
@@ -67,8 +53,8 @@ Trečiasis buvo nuo Simno kilęs Ignas Jonynas, kuris 1905 m. porai metų istori
     Jonynas, kuris 1905 m. porai metų istorijos studijuoti išvyko
     į Prancūzijos Grenoblį. Istorijos studijas jis užbaigė 1911 m.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -93,6 +79,3 @@ Trečiasis buvo nuo Simno kilęs Ignas Jonynas, kuris 1905 m. porai metų istori
   patikimumo_saltinis: ai
   pagrindzia:
     - t-32183
-
-## Ryšiai
-- Grenoblis priklausė [[objektai/vietos/Prancūzija]]

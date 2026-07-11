@@ -32,12 +32,6 @@ Po antros sovietų okupacijos priklausė pogrindžio Lietuvos išlaisvinimo tary
 - t-001
   global_id: t-193811
   teiginys: "Po antros sovietų okupacijos priklausė pogrindžio Lietuvos išlaisvinimo tarybai."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1007972-1008156; hash=22678490c69224c28ed9a95240bc0a0f543fe914f7981d1aa428777670d8afc2; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176456
 ## Reikšmingi paminėjimai
@@ -51,8 +45,8 @@ Po antros sovietų okupacijos priklausė pogrindžio Lietuvos išlaisvinimo tary
     Lietuvos išlaisvinimo tarybai. Vėliau buvo Lietuvos
     partizanų sąjūdžio organizacinio skyriaus viršininkas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -40,17 +40,6 @@ menės mokymą (ypačiai Voroneže įsteigtose lietuviškose gimnazijose).
 - t-001
   global_id: t-181304
   teiginys: "Lietuvių Komitetas Voroneže įsteigtose lietuviškose gimnazijose organizavo jaunuomenės mokymą."
-  semantiniai_rysiai: "Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti (institucija) rėmė Lietuviai (0.78); Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti (institucija) gyveno Petrapilis (0.72)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "1069397-1069714; hash=5f1183cc4dcb181292112aa75877e4ad46ec65fff302d59a67862e024799f994; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "reme -> Lietuviai: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti (institucija): llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Lietuvių komitetas organizavo tremtinių šelpimą ir mokymą, remdamas lietuvių tremtinius."
   pagrindžia:
     - c-164861
 - susijęs iš [[objektai/asmenys/Steponas Batoras.md#claim-t-113996|Steponas Batoras]]: Po Stepono Batoro kampanijų Didieji Lukai, Zavoločė, Sebežas, Nevelis ir Voronežas buvo sugrąžinti Rusijai.
@@ -76,8 +65,8 @@ menės mokymą (ypačiai Voroneže įsteigtose lietuviškose gimnazijose).
     zijose). Studentams buvo duodamos pašalpos universitetuose ir
     steigiami bendrabučiai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -103,6 +92,3 @@ menės mokymą (ypačiai Voroneže įsteigtose lietuviškose gimnazijose).
   patikimumo_saltinis: ai
   pagrindzia:
     - t-181304
-
-## Ryšiai
-- Gyvenamoji vieta: [[objektai/grupes/Lietuviai]]

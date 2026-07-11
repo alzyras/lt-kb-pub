@@ -40,19 +40,6 @@ BAU = S 8 S m e-+ > os 2% ## Puslapis 40 SUS os : i Paha “| KARALYS' Mūšio p
 - t-001
   global_id: t-41919
   teiginys: "1355 m. pradžioje Kryžiuočių kariuomenė penkias dienas niokojo centrinę Žemaitijos Medininkų žemę."
-  semantiniai_rysiai: "Kryžiuočių ordinas puolė Medininkų žemė (0.90); Kryžiuočių ordinas puolė Vaikiai (0.74); Kryžiuočių ordinas puolė Ariogala (0.74)"
-  temporaliniai_duomenys: "įvykio data: 1355 m.; įvykio data: po 1356 m.; įvykio data: 1356 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "147303-147797; hash=90a08eca465d90bcd45a81b6911e79b32d3359dc79e43567383255f3b9e6a255; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Medininkų žemė: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Medininkų žemė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Kryžiuočių kariuomenė tiesiogiai nurodyta niokojusi Medininkų žemę."
   pagrindžia:
     - c-45212
 - susijęs iš Łowmiański H., Studja: Łowmiańskio veikalas nurodomas prie nuomonės, kad Medininkų žemė susiformavo XIV a. sujungus centrinius Žemaitijos valsčius.
@@ -95,8 +82,8 @@ BAU = S 8 S m e-+ > os 2% ## Puslapis 40 SUS os : i Paha “| KARALYS' Mūšio p
     jėgos, nuo 1356 m. santykiai su tomis šali-
     mis kuriam laikui normalizavosi.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

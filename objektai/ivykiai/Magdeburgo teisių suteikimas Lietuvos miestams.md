@@ -61,19 +61,6 @@ Nenurodyta
 - t-002
   global_id: t-66766
   teiginys: "Kaune Vytautas suteikė Magdeburgo teises (1408 m.) vokiečių pirkliams."
-  temporaliniai_duomenys: "įvykio data: 1408 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra konkretus, gramatiškas ir paremtas citatos sakiniu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "616161-616467; hash=4d144e032d1884577b3110a92b486602b1bf0b955ef5044d316be997ce825ef9; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vokiečiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Magdeburgo teisių suteikimas Lietuvos miestams: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Vokiečiai: mention_match, group, gap=28"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Magdeburgo teisių suteikimas Lietuvos miestams\" parinktas kaip owner_note_path. Targetas \"Vokiečiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-37032
 
@@ -81,16 +68,6 @@ Nenurodyta
 - t-003
   global_id: t-66767
   teiginys: "Vytautas palaikė Lietuvos miestus ir suteikė jiems daugiau laisvės Magdeburgo miesto pavyzdžiu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "625909-626209; hash=a6a2256b3d2c95113c2010088cca36f74185fe51b07c8f52373be0f0290deb71; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Magdeburgo teisių suteikimas Lietuvos miestams: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Magdeburgo teisių suteikimas Lietuvos miestams\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-37033
 ## Reikšmingi paminėjimai
@@ -105,8 +82,8 @@ Nenurodyta
     gą, Rygą. Taip pat šiuo laiku Nemunu buvo plukdoma ir daug
     medžių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -122,8 +99,8 @@ Nenurodyta
     metais Vytautas suteikė Magdeburgo teises Kauno vokiečiams;
     tokias pat teises turėjo jau Vilnius (1387) ir kiti miestai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

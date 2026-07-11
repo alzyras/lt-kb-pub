@@ -45,20 +45,6 @@ Dusburgietis teigia, kad pažymėjęs, jog kryžiuočiai 1328 m. vasarą apleido
 - t-004
   global_id: t-58313
   teiginys: "1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 dienų ją puldinėjo su dviem apgulos mašinomis bei daugybe šaulių."
-  semantiniai_rysiai: "Vytenis apgulė Kristmemelis (0.97); Vytenis puolė Kristmemelis (0.93)"
-  temporaliniai_duomenys: "įvykio data: 1315 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra konkretus, gramatiškas ir paremtas citata apie Kristmemelio apgultį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "652203-652837; hash=45eae6cc1671fe8d27c7e7f205ee86cff6b8e17f4878ecf1f8a08f3d84e692b7; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "apgule -> Kristmemelis: 0.97"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytenis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kristmemelis: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekste tiesiogiai sakoma, kad Vytenis apsupo Kristmemelio pilį."
   pagrindžia:
     - c-58948
 
@@ -66,16 +52,6 @@ Dusburgietis teigia, kad pažymėjęs, jog kryžiuočiai 1328 m. vasarą apleido
 - t-002
   global_id: t-58314
   teiginys: "Kristmemelis panemunyje buvo pastatytas siekiant praplėsti krikščionių žemes."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "92457-92930; hash=5f0fc87b78f4972507f7f63329a3991ff3ec7d7ccad21072332bef373430a953; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Dusburgas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kristmemelis: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Dusburgas: mention_match, author"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kristmemelis\" parinktas kaip owner_note_path. Targetas \"Dusburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-58950
 
@@ -83,16 +59,6 @@ Dusburgietis teigia, kad pažymėjęs, jog kryžiuočiai 1328 m. vasarą apleido
 - t-003
   global_id: t-58315
   teiginys: "Kristmemelio pilis greičiausiai stovėjo Maštaičių arba Norkūnų piliakalnyje kairiajame Nemuno krante žemiau dabartinio Gelgaudiškio."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "644526-645085; hash=46adc5ede1a2c0b69f980325bfe2fee447e792c2c7d8849e2148f6efb03ce131; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Nemunas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kristmemelis: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Nemunas: mention_match, place, gap=87"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kristmemelis\" parinktas kaip owner_note_path. Targetas \"Nemunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-58949
 
@@ -100,21 +66,6 @@ Dusburgietis teigia, kad pažymėjęs, jog kryžiuočiai 1328 m. vasarą apleido
 - t-006
   global_id: t-58316
   teiginys: "Po to jie nuvyko į Kristmemelio pilį ir atstatė viską, ką ten lietuviai buvo sugriovę."
-  temporaliniai_duomenys: "kelionės data: 1315 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "claim_quality_pipeline deterministic repair"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "654329-654891; hash=920db58fb0831e33d3bcb86a87c835b627b52981a1d1958d0ab0d6003c1595b0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kristmemelis: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=43"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kristmemelis\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
-  vertinimo_autorius: "claim_quality_pipeline / rewrite"
   pagrindžia:
     - c-58945
 
@@ -122,19 +73,6 @@ Dusburgietis teigia, kad pažymėjęs, jog kryžiuočiai 1328 m. vasarą apleido
 - t-001
   global_id: t-58317
   teiginys: "Petras Dusburgietis pažymėjo, kad 1328 m. vasarą kryžiuočiai apleido Kristmemelio pilį prie žemutinio Nemuno."
-  temporaliniai_duomenys: "įvykio data: 1328 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra apie autoriaus pateikimą, todėl šaltinio atribucija tinkama."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "87503-87908; hash=107d21ed0fe6ac736dcf3b903cf9d8b9c7f82064aecac679177502e909061c12; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Nemunas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kristmemelis: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Nemunas: mention_match, place, gap=33"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kristmemelis\" parinktas kaip owner_note_path. Targetas \"Nemunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-58947
 - susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176814|Vytenis (valdovas, XIII–XIV a.)]]: 1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 dienų ją puolė apgulos mašinomis bei šauliais.
@@ -194,8 +132,8 @@ Dusburgietis teigia, kad pažymėjęs, jog kryžiuočiai 1328 m. vasarą apleido
     papilį, nukovė daug žmonių, 78 paėmė  į nelaisvę, o jį sudegino ligi pamatų. Po to jie
     nuvyko į Kristmemelio pilį ir atstatė viską, ką ten lietuviai buvo sugriovę.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -211,8 +149,8 @@ Dusburgietis teigia, kad pažymėjęs, jog kryžiuočiai 1328 m. vasarą apleido
     bendrybių su to meto dokumentais, bet kur kas didesnių skirtumų, kurie, tendencingai
     nukreipti prieš Lietuvą, faktus pateikia Ordino interesų dvasia.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -232,8 +170,8 @@ Dusburgietis teigia, kad pažymėjęs, jog kryžiuočiai 1328 m. vasarą apleido
     užstojo visus kelius bei visas prieigas į šią pilį, kad niekas negalėjo į ją pakliūti, nors ir
     ne kartą mėgino šitai padaryti.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -252,8 +190,8 @@ Dusburgietis teigia, kad pažymėjęs, jog kryžiuočiai 1328 m. vasarą apleido
     žemiau dab. Gelgaudiškio, priešais Skirsnemunę. Greta piliakalnio išlikę keli įtvirtinti
     papiliai (LAA. 2. p. 105; plg. Zajączkowski S.. Studya..., p. 37).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -270,8 +208,8 @@ Dusburgietis teigia, kad pažymėjęs, jog kryžiuočiai 1328 m. vasarą apleido
     prūsų žemes, o Kristmemelis panemunyje — norint „praplėsti krikščionių žemes“ (III,
     315), t. y. užgrobti lietuvių žemes.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -282,7 +220,8 @@ Dusburgietis teigia, kad pažymėjęs, jog kryžiuočiai 1328 m. vasarą apleido
 - id: c-58945
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 211"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 211."
   citata_originali: |
     Apie Junigedos papilio sudeginimą 1315 m. spalio 12
 
@@ -303,7 +242,8 @@ Dusburgietis teigia, kad pažymėjęs, jog kryžiuočiai 1328 m. vasarą apleido
 - id: c-58947
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 29"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 29."
   citata_originali: |
     Dusburgiečio kronikoje nepaisoma ir kitų faktų145. Pažymėjęs, jog kryžiuočiai 1328
     m. vasarą apleido Kristmemelio pilį prie žemutinio Nemuno, jis nutyli, kad ją sunaikino
@@ -321,7 +261,8 @@ Dusburgietis teigia, kad pažymėjęs, jog kryžiuočiai 1328 m. vasarą apleido
 - id: c-58948
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 210"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 210."
   citata_originali: |
     Apie Kristmemelio pilies apgultį 1315 m. rugsėjo 30—spalio 11
 
@@ -343,7 +284,8 @@ Dusburgietis teigia, kad pažymėjęs, jog kryžiuočiai 1328 m. vasarą apleido
 - id: c-58949
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 207"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 207."
   citata_originali: |
     Apie Bisenės pilies puolimą 1313 metais
       567 D.— edificavit castrum Cristmemelam, Jer.— Cristmemil; Kirsmemela — SRP, 1,
@@ -363,7 +305,8 @@ Dusburgietis teigia, kad pažymėjęs, jog kryžiuočiai 1328 m. vasarą apleido
 - id: c-58950
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 30"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 30."
   citata_originali: |
     Ordinas pilis stato „Jėzaus Kristaus“, „dievo bei jo motinos garbei ir šlovei“ (III, 63,
     315). Antra vertus, Petras iš Dusburgo kartais atvirai pasako, jog pagrindinis Ordino
@@ -380,7 +323,6 @@ Dusburgietis teigia, kad pažymėjęs, jog kryžiuočiai 1328 m. vasarą apleido
     - t-58314
 
 ## Ryšiai
-- Buvo kelionės vieta: [[objektai/asmenys/Karolis (didysis magistras)]]
 - Buvo pastatyta: [[objektai/asmenys/Karolis (didysis magistras)]]
-- Puolė Kristmemelį: [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]]
-- Apgulė Kristmemelį: [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]]
+- Puolė Kristmemelį: [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]]
+- Apgulė Kristmemelį: [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]]

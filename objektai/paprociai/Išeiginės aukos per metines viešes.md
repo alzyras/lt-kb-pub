@@ -46,16 +46,6 @@ Nenurodyta
 - t-002
   global_id: t-07768
   teiginys: "Per metines viešes viršaitis ar viršininkas kartu su žyniais ir svietu atlikdavo viešą aukos apeigą po didžiuoju ąžuolu."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "253447-253930; hash=16f5e0c3c869e807a2bceed98d631f67fa956e03ecd91196ba27108ef057af07; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
-  ryšio_patikimumas: "susije_su -> Aukuras: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Išeiginės aukos per metines viešes: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Aukuras: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Išeiginės aukos per metines viešes\" parinktas kaip owner_note_path. Targetas \"Aukuras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-09924
 ## Reikšmingi paminėjimai
@@ -69,8 +59,8 @@ Nenurodyta
         kaušą ar taurę ir tuo nešinas, tris kartus apėjo apie stalą ir tenai padėjo duoną ir taurę. Tad prie
         aukuro ir stabo, šėtre stovinčio, meldės, pakaitomis su svietu giedodamas, kaip viršiau regėjom.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

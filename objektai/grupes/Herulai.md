@@ -47,16 +47,6 @@ Iš tokio trijų skirtingų kilmių gyventojų maišymosi ir samplaikos radosi n
 - t-001
   global_id: t-86794
   teiginys: "Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidivarijų vardais."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "49422-50239; hash=8b5ad07ed3b365db9030d3b44782d01037fd87145ef98951553a781641d02183; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Baltija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Herulai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Baltija: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Herulai\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-82773
 
@@ -64,22 +54,6 @@ Iš tokio trijų skirtingų kilmių gyventojų maišymosi ir samplaikos radosi n
 - t-002
   global_id: t-184475
   teiginys: "Po Otokaro nužudymo Teodorikas patraukė į savo pusę herulų kariuomenę ir lengvai ją perkalbėjo."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 493 m"
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata remia konkretų faktą apie herulų kariuomenę; pašalintas triukšmas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "87664-88168; hash=d91cbf3ddb7588cc0d8b558ef6749b0a151b6f8de8ff2bd79c7f5e9a187ec045; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Italija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Herulai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Italija: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Herulai\" parinktas kaip owner_note_path. Targetas \"Italija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-167836
 
@@ -87,23 +61,6 @@ Iš tokio trijų skirtingų kilmių gyventojų maišymosi ir samplaikos radosi n
 - t-003
   global_id: t-184476
   teiginys: "Herulai, vedami Alueto ir Filimunto, pasitraukė per Liguriją į Trakiją, ketindami tarnauti imperatoriaus kariuomenėje."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Herulai gyveno Isteris (0.74)"
-  temporaliniai_duomenys: "įvykio data: 553 m"
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas, konkretus ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "88169-88687; hash=58483b00412e0bcfdca507eefc5e270ca60e07a61399cff98a543d7934e6ac41; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Isteris: 0.74"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Herulai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Isteris: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata nurodo, kad dalis herulų įsikūrė prie Dunojaus."
   pagrindžia:
     - c-167837
 
@@ -111,19 +68,6 @@ Iš tokio trijų skirtingų kilmių gyventojų maišymosi ir samplaikos radosi n
 - t-004
   global_id: t-184477
   teiginys: "Kojelavičius spėjo, kad alanai arba herulai, ilgėdamiesi taikos, galėjo pirmieji pasitraukti iš tėvynės į karo neniokotas žemes."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "92439-93121; hash=03cc19561ed752ea8dbe26e11235e30806fc4bb85d70aaabc7721427dd7ef8e0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Italija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Herulai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Italija: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Herulai\" parinktas kaip owner_note_path. Targetas \"Italija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-167838
 
@@ -131,21 +75,6 @@ Iš tokio trijų skirtingų kilmių gyventojų maišymosi ir samplaikos radosi n
 - t-005
   global_id: t-188192
   teiginys: "Narbutas herulus vaizdavo kaip gotų priešus, kai gotai, jo aiškinimu, jau buvo krikščionys ir niokojo baltų kraštų gentis."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "151521-152429; hash=dd4d9a8008d380c74f4bd8cac55d0b4e31f6cc474ba3270758b09e0999658279; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Baltai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Herulai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Baltai: mention_match, group, gap=93"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Herulai\" parinktas kaip owner_note_path. Targetas \"Baltai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171086
 
@@ -153,21 +82,6 @@ Iš tokio trijų skirtingų kilmių gyventojų maišymosi ir samplaikos radosi n
 - t-006
   global_id: t-188193
   teiginys: "Narbutas rašė, kad Vokietijoje, kur po Odoakro žūties įsikūrė herulai, buvo upė Ross arba Russ, vėliau vadinta Wessel."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "388002-388593; hash=c6281aaaa3b036aac85cd2c78045544b9ad3b8b0e4d49fb30cefd826dd9b1e62; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Naugardas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Herulai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Naugardas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Herulai\" parinktas kaip owner_note_path. Targetas \"Naugardas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171087
 
@@ -175,21 +89,6 @@ Iš tokio trijų skirtingų kilmių gyventojų maišymosi ir samplaikos radosi n
 - t-007
   global_id: t-188194
   teiginys: "Narbutas spėjo, kad obotritai kai kuriuos Prilvico stabus galėjo būti atėmę iš herulų kartu su jų pilimis ir šventyklomis."
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "429533-430277; hash=d99921aa2e71faad138845ccf980c6c7f9163d90f3af9c43395997d3d7a50480; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Prilvicas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Herulai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Prilvicas: mention_match, place, gap=37"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Herulai\" parinktas kaip owner_note_path. Targetas \"Prilvicas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171088
 
@@ -197,21 +96,6 @@ Iš tokio trijų skirtingų kilmių gyventojų maišymosi ir samplaikos radosi n
 - t-008
   global_id: t-188195
   teiginys: "Narbutas aiškino, kad herulai kai kada pagreitindavo ligos palaužtų senelių mirtį jų pačių prašymu, o ne pagal religijos nuostatus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "635297-635924; hash=5ee76b9d3d6b1c8ba7d508e7201ced91c8f2ec5c21a5344979593beabbd06d9d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kojalavičius: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Herulai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Kojalavičius: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Herulai\" parinktas kaip owner_note_path. Targetas \"Kojalavičius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171089
 
@@ -219,21 +103,6 @@ Iš tokio trijų skirtingų kilmių gyventojų maišymosi ir samplaikos radosi n
 - t-009
   global_id: t-188196
   teiginys: "Narbutas gotiškus lietuvių tautų elementus siejo ir su herulais, kurie, jo teigimu, ilgai lydėjo gotus Pietryčių Europoje."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "754874-755369; hash=8082bb28e19aa9aa78ddd60ed9fbc2ce6945eb00cddde8547f6b8ae045dbd0ec; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Europa: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Herulai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=58"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Herulai\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171090
 
@@ -241,21 +110,6 @@ Iš tokio trijų skirtingų kilmių gyventojų maišymosi ir samplaikos radosi n
 - t-010
   global_id: t-188197
   teiginys: "Volfgangas Lazius, Narbuto išnašoje vadinamas istoriografu ir geografu, pirmasis paskelbė heruliškąją maldą „Tėve mūsų“."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "896870-897251; hash=885297811f0cfc07e9ea7db678a907084f7bdd54be00e6d0b61e9adde92656c1; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Baltai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Herulai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Baltai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Herulai\" parinktas kaip owner_note_path. Targetas \"Baltai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171091
 
@@ -263,22 +117,6 @@ Iš tokio trijų skirtingų kilmių gyventojų maišymosi ir samplaikos radosi n
 - t-011
   global_id: t-192407
   teiginys: "Narbutas vaizduoja, kad susiklosčius aplinkybėms herulams tarsi buvo lemta įkurti naują valstybę Vidurio Europoje."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Herulai gyveno Europa (0.64)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "558908-559466; hash=d01d80ccc444f8ccdb20db993ae464980a276068468ba8dac457e8469afd24a4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Europa: 0.64"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Herulai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Europa: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Herulų naujos valstybės įkūrimas siejamas su Vidurio Europa."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175201
 
@@ -286,22 +124,6 @@ Iš tokio trijų skirtingų kilmių gyventojų maišymosi ir samplaikos radosi n
 - t-012
   global_id: t-192408
   teiginys: "Narbutas rašo, kad vadui nepalankūs herulai kreipėsi į savo brolius, įsikūrusius Norike."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Herulai keliavo į Norikas (0.72)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "561767-562093; hash=1e51c34af33e49480e4217cca50da5fac5a4acef16a9ba803a097dd6c75de8b5; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Norikas: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Herulai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Norikas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Herulai kreipėsi į savo brolius, kurių buvimo vieta nurodyta Norike."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175202
 
@@ -309,22 +131,6 @@ Iš tokio trijų skirtingų kilmių gyventojų maišymosi ir samplaikos radosi n
 - t-013
   global_id: t-192409
   teiginys: "Po Odoakro mirties didžiausia herulų dalis pasitraukė prie Dunojaus, ketindama apsigyventi šalia rugių arba Noriko Rugilandijoje."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Herulai keliavo į Norikas (0.74); Herulai gyveno Rugilandija (0.62)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "580381-580771; hash=e8cdea361bd9f346d3f0d15d41fb0061e85632a0d1f50fc6be9620a5627eeeda; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Norikas: 0.74"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Herulai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Norikas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Herulai pasitraukė į vietovę, toliau apibūdintą kaip Noriko dalis."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175203
 - susijęs iš [[objektai/asmenys/Odoakras.md#claim-t-186153|Odoakras]]: Odoakras užėmė Romą, nuvertė Vakarų Romos imperatorių ir pirmasis iš svetimšalių viešpatavo Romoje.
@@ -468,8 +274,8 @@ Iš tokio trijų skirtingų kilmių gyventojų maišymosi ir samplaikos radosi n
     iki Vyslos, o į žemyno gilumą buvo pasistūmėjusi tiesiog iki
     Nemuno ir Būgo žiočių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -496,8 +302,8 @@ Iš tokio trijų skirtingų kilmių gyventojų maišymosi ir samplaikos radosi n
     pataujant, herulų, vadovaujamų Getero, pagalba pasi­
     naudojo Belizarijus, nugalėjęs persus.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -521,8 +327,8 @@ Iš tokio trijų skirtingų kilmių gyventojų maišymosi ir samplaikos radosi n
     pu likusieji, sukėlę maištą ir išsirinkę vadu Sindevaldą,
     užėmė Valeriją.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -546,8 +352,8 @@ Iš tokio trijų skirtingų kilmių gyventojų maišymosi ir samplaikos radosi n
     noliai atkakliai tvirtina: ateivių italų esą buvę penki
     šimtai kilmingųjų.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -573,8 +379,8 @@ Iš tokio trijų skirtingų kilmių gyventojų maišymosi ir samplaikos radosi n
     visos senovės religijos, kaip ir pačios tautos, yra labai viena kitai
     artimos, kilusios iš vienos šakos -  iš vieno lopšio*.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -596,8 +402,8 @@ Iš tokio trijų skirtingų kilmių gyventojų maišymosi ir samplaikos radosi n
     lonistų ir jie gyveno vienoje iš seniausių gatvių, vadintoje Prū­
     sų gatve.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -621,8 +427,8 @@ Iš tokio trijų skirtingų kilmių gyventojų maišymosi ir samplaikos radosi n
     (Liebknecht) veikale “De antiquis nummis aliquando effosis in Prussia
     Regali et adjacentibus Regionibus”.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -649,8 +455,8 @@ Iš tokio trijų skirtingų kilmių gyventojų maišymosi ir samplaikos radosi n
     tojų, kraujo giminių ir visų nelaimingųjų atžvilgiu, kas žino
     neišdildomą jų bruožą gerbti žmogaus gyvybe.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -669,8 +475,8 @@ Iš tokio trijų skirtingų kilmių gyventojų maišymosi ir samplaikos radosi n
     mą, net giminystę, nuolatos susidurdavo su gotais arba savo, arba
     svetimoje žemėje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -689,8 +495,8 @@ Iš tokio trijų skirtingų kilmių gyventojų maišymosi ir samplaikos radosi n
     ir net tiesiog lietuvių. Vėliau paaiškėjo, kad ši mal­
     da buvusi latvių kalba.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -716,8 +522,8 @@ Iš tokio trijų skirtingų kilmių gyventojų maišymosi ir samplaikos radosi n
     nenuėjo toliau kaip iki Dunojaus ir Noriko, o ten įsiliejo
     į herulų kolonijas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -734,8 +540,8 @@ Iš tokio trijų skirtingų kilmių gyventojų maišymosi ir samplaikos radosi n
     rėdamas tiek valdžios kiek Orestas, jis neleistų sąjungi­
     ninkų kariuomenei gailėtis savo žygio j Italiją1.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -754,8 +560,8 @@ Iš tokio trijų skirtingų kilmių gyventojų maišymosi ir samplaikos radosi n
     prie Dunojaus, kur ketino apsigyventi šalia rugių arba
     toje Noriko dalyje, kurią pavadino Rugilandija.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -824,7 +630,8 @@ Iš tokio trijų skirtingų kilmių gyventojų maišymosi ir samplaikos radosi n
 - id: c-167837
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 54"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 54."
   citata_originali: |
     Kita jų dalis,
     pasikvietusi iš tėvynės kunigaikštį Datą, įsikūrė prie
@@ -849,7 +656,8 @@ Iš tokio trijų skirtingų kilmių gyventojų maišymosi ir samplaikos radosi n
 - id: c-167838
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 57"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 57."
   citata_originali: |
     Gal, palikę Italiją, šia kryptimi pasuko tie, kurie no­
     rėjo išvengti savo likimo, o gal tie, kurie nugalėjusių
@@ -874,7 +682,8 @@ Iš tokio trijų skirtingų kilmių gyventojų maišymosi ir samplaikos radosi n
 - id: c-171086
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 84"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 84."
   citata_originali: |
     Bet jos principai visiškai
     nutolsta nuo graikų, todėl mes negalime tikėti tomis nuomo­
@@ -901,7 +710,8 @@ Iš tokio trijų skirtingų kilmių gyventojų maišymosi ir samplaikos radosi n
 - id: c-171087
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 227"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 227."
   citata_originali: |
     Kituose Lietu­
     vos pakraščiuose ir pas kitas tautas, kilusias iš jos kamieno,
@@ -924,7 +734,8 @@ Iš tokio trijų skirtingų kilmių gyventojų maišymosi ir samplaikos radosi n
 - id: c-171088
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 248"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 248."
   citata_originali: |
     Buvo ir lietuvių valdo­
     vų, turėjusių Jurijaus vardą, kaip antai Jurijus (Jurgis) Vytau-
@@ -977,7 +788,8 @@ Iš tokio trijų skirtingų kilmių gyventojų maišymosi ir samplaikos radosi n
 - id: c-171090
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 418"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 418."
   citata_originali: |
     3 Vokiečių autoriai kildina prūsus iš gotų, kadangi kryžiuočiai
     radę Prūsuose daug ką gotiško. Mes, priešingai, įžiūrėdami kitoniš­
@@ -997,7 +809,8 @@ Iš tokio trijų skirtingų kilmių gyventojų maišymosi ir samplaikos radosi n
 - id: c-171091
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 513"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 513."
   citata_originali: |
     -  Išnaša, kuria T. Narbutas papildė paragrafą, reng­
     damas antrąjį LTI leidimą (PEĮ. -  L. 304). Volf­
@@ -1044,7 +857,8 @@ Iš tokio trijų skirtingų kilmių gyventojų maišymosi ir samplaikos radosi n
 - id: c-175202
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 313"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 313."
   citata_originali: |
     Taigi sąjungininkai pradėjo atvirai murmėti prieš savo
     vadą. Mažiausiai jam palankūs herulai kreipėsi į savo
@@ -1062,7 +876,8 @@ Iš tokio trijų skirtingų kilmių gyventojų maišymosi ir samplaikos radosi n
 - id: c-175203
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 324"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 324."
   citata_originali: |
     Po Odo­
     akro mirties dar ketverius metus truko susirėmimas prie­
@@ -1081,12 +896,9 @@ Iš tokio trijų skirtingų kilmių gyventojų maišymosi ir samplaikos radosi n
 
 ## Ryšiai
 - Priešai: [[objektai/grupes/Gotai]]
-- Sąjungininkai: [[objektai/asmenys/Frederikas]], [[objektai/grupes/Romėnai]]
 - Turėjo valdovą: [[objektai/asmenys/Odoakras]]
-- Puolė Herulai: [[objektai/asmenys/Galėnas]], [[objektai/grupes/Gotai]]
-- Turėjo priklausinį: [[objektai/vietos/Retra]]
-- Herulai keliavo į [[objektai/ivykiai/Herulų atsiskyrimas prie Dunojaus ir kelionė į Tūlą Reitgotiją]], [[objektai/vietos/Isteris]], [[objektai/vietos/Italija]], [[objektai/vietos/Kujavija]], [[objektai/vietos/Mazovija]], [[objektai/vietos/Norikas]], [[objektai/vietos/Prūsija]], [[objektai/vietos/Reinas]], [[objektai/vietos/Reitgotija]]
-- Herulai puolė [[objektai/vietos/Bizantija]], [[objektai/grupes/Romėnai]]
-- Herulai dalyvavo mūšyje [[objektai/ivykiai/Herulų pasitraukimas prie Dunojaus ir Rudolfo karas su longobardais po Odoakro mirties]]
-- Herulai gyveno [[objektai/vietos/Europa]], [[objektai/vietos/Isteris]], [[objektai/vietos/Norikas]], [[objektai/vietos/Rugilandija]], [[objektai/vietos/Vilkija]]
+- Puolė Herulai: [[objektai/grupes/Gotai]]
+- Herulai keliavo į [[objektai/vietos/Isteris]], [[objektai/vietos/Reitgotija]]
+- Herulai puolė [[objektai/grupes/Romėnai]]
+- Herulai gyveno [[objektai/vietos/Vilkija]]
 - Herulai paskyrė [[objektai/asmenys/Odoakras]]

@@ -52,16 +52,6 @@ Nenurodyta
 - t-001
   global_id: t-40717
   teiginys: "Didelis graižtvinių šautuvų kiekis kovos lauke buvo svarbus veiksnys, nes didesnis jų šaudymo nuotolis pavojingu padarė suartėjimą su priešu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "674141-674444; hash=ed5ebab6cfc5986cf30330b1e0d19782bf24c0ae2e86b257fd1ca45b97073a3c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Šautuvai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Graižtviniai šautuvai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Šautuvai: mention_match, thing, gap=12"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Graižtviniai šautuvai\" parinktas kaip owner_note_path. Targetas \"Šautuvai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-44655
 
@@ -69,19 +59,6 @@ Nenurodyta
 - t-002
   global_id: t-183683
   teiginys: "Didelis graižtvinių šautuvų kiekis buvo pagrindinis laikotarpio kovos lauko veiksnys."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "674073-674334; hash=4e70b0f70b45e0dc09b2daa6c00b4ad76760fb7fda64b4fa82bcecedb19802a2; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Šautuvai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Graižtviniai šautuvai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Šautuvai: mention_match, thing, gap=12"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Graižtviniai šautuvai\" parinktas kaip owner_note_path. Targetas \"Šautuvai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-167074
 ## Reikšmingi paminėjimai
@@ -98,8 +75,8 @@ Nenurodyta
     lėjo atidengti efektyvią ugnį daug toliau, negu buvo įmanoma xix a.
     pirmojoje pusėje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -118,8 +95,8 @@ Nenurodyta
     tuvų kiekis. Didesnis graižtvinių šautuvų šaudymo nuotolis padarė
     pavojingu suartėjimo su priešininkų etapą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

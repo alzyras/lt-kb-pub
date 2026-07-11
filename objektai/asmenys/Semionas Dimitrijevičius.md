@@ -30,12 +30,6 @@ KAIP VYTAUTAS PRIPIRŠO JOGAILAI KETVIRTĄ ŽMONĄ Grįždami atgal ', |Vytautas
 - t-001
   global_id: t-194103
   teiginys: "KAIP VYTAUTAS PRIPIRŠO JOGAILAI KETVIRTĄ ŽMONĄ Grįždami atgal ', |Vytautas su Jogailai užsuko į Drucką2 ir pietavo pas Drucko kunigaikštį Semioną Dimitrijevičių3 ."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "175604-175856; hash=3ade1d9acec36bdf07942ad7c639843c2006dde06b799b9586acebbb3020fc8f; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176716
 ## Reikšmingi paminėjimai
@@ -51,8 +45,8 @@ KAIP VYTAUTAS PRIPIRŠO JOGAILAI KETVIRTĄ ŽMONĄ Grįždami atgal ', |Vytautas
     Dimitrijevičių3 . O karaliui Jogailai jau trečia žmona
     buvo mirusi, nepalikdama įpėdinio4 .
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

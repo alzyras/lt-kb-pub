@@ -50,9 +50,6 @@ Nenurodyta
 - t-001
   global_id: t-66667
   teiginys: "Sao Paule buvo suorganizuota lietuvių parapija ir pastatyta bažnyčia, pašventinta 1936 m. vasario 16 d."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "1310947-1311224; hash=f1ed7f0a92f52f3c3d44224a6e7091f2b1110e746aebeebf83dfbfabc05ab1c3; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-66866
 
@@ -60,11 +57,6 @@ Nenurodyta
 - t-002
   global_id: t-66668
   teiginys: "Kunigas T. Radžius Urugvajuje subūrė tautiškas lietuvių organizacijas į Urugvajaus Lietuvių Klubą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "1313317-1313753; hash=24affdd71f1894926f50de0535caceae5691a76670d4e5ec69ddac6d8f61ff47; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-66863
 
@@ -72,9 +64,6 @@ Nenurodyta
 - t-003
   global_id: t-66669
   teiginys: "1929 m. į Sao Paulą atvykęs pirmasis Lietuvos konsulas rėmė lietuvių organizacijas, spaudą, mokyklų kūrimą ir parapijos organizavimą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "1309563-1309952; hash=0d2e16506bc20e6567169db7fe32895cdfb5183d63079804fe5bfa219ac18518; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-66862
 ## Reikšmingi paminėjimai
@@ -91,8 +80,8 @@ Nenurodyta
     jam teko paremti organizacijas, spaudą, mokyklų kūrimą, pa-
     rapijos organizavimą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -111,8 +100,8 @@ Nenurodyta
     cijos to paties kun. Radžiaus buvo suburtos į vieną centrą,
     pavadintą Urugvajaus Lietuvių Klubu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -128,8 +117,8 @@ Nenurodyta
     organizuota lietuviškoji parapija ir pastatyta bažnyčia (pašven-
     tinta 1936 m. vasario 16 d.).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

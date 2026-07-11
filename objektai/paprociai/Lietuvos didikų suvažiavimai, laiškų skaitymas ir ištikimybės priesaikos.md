@@ -55,16 +55,6 @@ Nenurodyta
 - t-001
   global_id: t-87215
   teiginys: "Vytautas sukvietė Lietuvos ir Rusios didikus į tarybą, liepė jiems skaityti laišką ir klausė dėl pavaldumo Lenkijai."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "320748-321256; hash=653774a07d9071516817e64b8b1112723658a047523895f6b2ae447fbcede7d7; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos didikų suvažiavimai, laiškų skaitymas ir ištikimybės priesaikos: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=89"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos didikų suvažiavimai, laiškų skaitymas ir ištikimybės priesaikos\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-83194
 
@@ -72,17 +62,6 @@ Nenurodyta
 - t-002
   global_id: t-87216
   teiginys: "Jogailos sukviestame Vilniaus suvažiavime Lietuvos ir Rusios didikai prisiekė ištikimybę ir pagalbą kovoje prieš bendrą priešą."
-  semantiniai_rysiai: "Lenkai buvo sąjungininkas su Lietuvos ir Rusios didikai bei žemvaldžiai (0.70)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "322290-323352; hash=187b26d66a96ded0048d8acf040cd3a1e8dcc5b99e2e747d88e80a4b2a1e29b3; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sajungininkas_su -> Lietuvos ir Rusios didikai bei žemvaldžiai: 0.70"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lenkai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuvos ir Rusios didikai bei žemvaldžiai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Priesaika dėl pagalbos prieš bendrą karaliaus ir Lenkijos Karūnos priešą rodo politinį-karinį bendrumą."
   pagrindžia:
     - c-83195
 ## Reikšmingi paminėjimai
@@ -105,8 +84,8 @@ Nenurodyta
     nemokėję Lenkijai duoklių - toks buvo atsakymas į tą prama­
     naus Vytauto klausimą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -145,8 +124,8 @@ Nenurodyta
     turėtų teisės rinkti karaliaus be Vytauto ir Lietuvos bajorų ži­
     nios bei pritarimo66.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -48,19 +48,6 @@ Nenurodyta
 - t-001
   global_id: t-185522
   teiginys: "Prieš mirtį Jogaila pasikvietė karalystės didikus ir paprašė, kad rinkdami sosto įpėdinį jie neaplenktų jo sūnaus Vladislovo."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "791132-791590; hash=5c6d180a9fddf62e3deb59056bd76da84b8b97ed3e5c6654f92e4b9898003b7f; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jogailos mirtis, Vladislovo Jogailaičio pakėlimas į karalius ir sąjungos su Lietuva atnaujinimas (1434 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=6"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jogailos mirtis, Vladislovo Jogailaičio pakėlimas į karalius ir sąjungos su Lietuva atnaujinimas (1434 m.)\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-168883
 ## Reikšmingi paminėjimai
@@ -80,8 +67,8 @@ Nenurodyta
     mas atleisti, jeigu kada su juo nesutaręs, reikšdamas
     priešingą nuomonę.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -92,7 +79,8 @@ Nenurodyta
 - id: c-168883
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 450"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 450."
   citata_originali: |
     Ga­
     lop, pajutęs, kad jam visai užėmė kvapą, paliepė nu­

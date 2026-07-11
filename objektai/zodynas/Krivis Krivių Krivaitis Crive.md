@@ -30,21 +30,6 @@ Narbutas aiškina, kad kronikininkų tyla apie krivį nestebina, nes krivio veik
 - t-001
   global_id: t-189154
   teiginys: "Narbutas aiškina, kad kronikininkų tyla apie krivį nestebina, nes krivio veikimas dažnai ribojosi vietos vidaus reikalais."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "761327-762233; hash=8a9798cfd486a9010e3f7efc2af8e90d0b7331f381508ccbdc3399181554f2c3; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Krivis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Krivis Krivių Krivaitis Crive: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Krivis: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Krivis Krivių Krivaitis Crive\" parinktas kaip owner_note_path. Targetas \"Krivis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172042
 ## Reikšmingi paminėjimai
@@ -73,8 +58,8 @@ Narbutas aiškina, kad kronikininkų tyla apie krivį nestebina, nes krivio veik
     kai, kurie taip menkai pažino tautos vidaus gyvenimą, nieko
     nepasakoja apie krivį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

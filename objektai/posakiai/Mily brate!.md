@@ -49,17 +49,6 @@ Broliškas ar familiariai mandagus kreipinys į pašnekovą.
 - t-001
   global_id: t-186884
   teiginys: "XVI a. teismų dekretų kalboje ir Bychovco kronikos tiesioginėje kalboje vartota kreipinio formulė „Mily brate!“."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "34287-34611; hash=b1ed9e075dd0ebfd3f100587c156a9584d8af8e2423bb7fbd2aa3ef011eda98c; match=whitespace_regex"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
-  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mily brate!: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mily brate!\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-170069
 ## Reikšmingi paminėjimai
@@ -74,8 +63,8 @@ Broliškas ar familiariai mandagus kreipinys į pašnekovą.
     ir ieškovas kreipiasi į atsakovą: „Mily brate!" — taip,
     kaip Jogaila į Švitrigailą Bychovco kronikoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -86,7 +75,8 @@ Broliškas ar familiariai mandagus kreipinys į pašnekovą.
 - id: c-170069
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 19"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 19."
   citata_originali: |
     Pasakojimui pagyvinti jis vartoja tiesioginę kalbą
     Tai, beje, nebuvo išimtis ir tuometinių Lietuvos vals­

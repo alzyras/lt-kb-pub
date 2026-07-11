@@ -32,16 +32,6 @@ media_all_json: |-
 - t-001
   global_id: t-42522
   teiginys: "6-ojo pėstininkų pulko 1 bataliono viršila Antanas Šukys prisiminė pulko karių susitikimą Vidugirių kaime."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "825596-825931; hash=a02376a102101b6abf8e000707a10b5c323267b8700a7f203a1174ccbaae59ee; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Antanas Šukys: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "viršila: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Antanas Šukys: mention_match, person, gap=8"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"viršila\" parinktas kaip owner_note_path. Targetas \"Antanas Šukys\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-45555
 - susijęs iš [[objektai/grupes/Marijampolės batalionas.md#claim-t-78386|Marijampolės batalionas]]: Atskirojo Marijampolės bataliono viršila Antanas Šukys aprašė naktinę žvalgybinę-diversinę operaciją į bolševikų divizijos štabą.
@@ -72,8 +62,8 @@ media_all_json: |-
     vusį to paties pulko I batalioną Vidugirių kaime.
     „Vidugirių kaimą pasiekėme po pietų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

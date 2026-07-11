@@ -34,16 +34,6 @@ Taip pat [dovanojame] turtą, va­ dinamą Smolnėnais, su visomis Smolnėnų ir
 - t-001
   global_id: t-86271
   teiginys: "Smolnėnų turtas buvo dovanojamas kartu su visomis Čirčinsko žemėmis ir Čirčinsko žmonėmis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "699121-699723; hash=495bc44d2c6e6a57deb63540568eac71d4c888eb307e621d17435a5381236083; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Bełskas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Čirčinskas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Bełskas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Čirčinskas\" parinktas kaip owner_note_path. Targetas \"Bełskas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-82250
 - susijęs iš Smolnėnai: Smolnėnai buvo dovanojami su visomis Smolnėnų ir Čirčinsko žemėmis bei žmonėmis.
@@ -72,8 +62,8 @@ Taip pat [dovanojame] turtą, va­ dinamą Smolnėnais, su visomis Smolnėnų ir
     šios žemės kadaise priklausė Bełsko kunigaikščiui Semio­
     nui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

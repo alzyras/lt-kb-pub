@@ -40,16 +40,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 - t-015
   global_id: t-75709
   teiginys: "Antanas Smetona agresyvesniems jaunalietuviams pareiškė, kad Lietuvoje „vietos visiems užteks“."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "342037-342563; hash=5f2f5e5931343be3777370a7088c9964c9bf336689b63b6291f8830f31772718; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> A. Smetona: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Antanas Smetona (Lietuvos prezidentas, XX a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "A. Smetona: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Smetona (Lietuvos prezidentas, XX a.)\" parinktas kaip owner_note_path. Targetas \"A. Smetona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-73446
 
@@ -57,17 +47,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 - t-047
   global_id: t-75710
   teiginys: "Vytauto Didžiojo kultas susiejo Antano Smetonos valdomą Lietuvos valstybę su stipraus tautos vado įvaizdžiu."
-  semantiniai_rysiai: "Antanas Smetona (Lietuvos prezidentas, XX a.) valdė Lietuva (0.94)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "326867-327600; hash=2b562c8a1184341eeb54b65315df1d33966d66c1a2ecd4ea6ef4f4fb06c0ab7f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde -> Lietuva: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Antanas Smetona (Lietuvos prezidentas, XX a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai apibūdina Lietuvos valstybę kaip Antano Smetonos valdomą."
   pagrindžia:
     - c-73436
 
@@ -75,17 +54,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 - t-011
   global_id: t-75711
   teiginys: "Vytauto Didžiojo kultas siejo stipraus tautos vado vaizdinį su Antano Smetonos valdoma Lietuvos valstybe."
-  semantiniai_rysiai: "Antanas Smetona (Lietuvos prezidentas, XX a.) valdė Lietuva (0.90)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "326867-327600; hash=2b562c8a1184341eeb54b65315df1d33966d66c1a2ecd4ea6ef4f4fb06c0ab7f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde -> Lietuva: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Antanas Smetona (Lietuvos prezidentas, XX a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai kalba apie A. Smetonos valdomą Lietuvos valstybę."
   pagrindžia:
     - c-73436
 
@@ -93,19 +61,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 - t-045
   global_id: t-75712
   teiginys: "1928 m. gegužės 15 d. Antanas Smetona nauja konstitucija sustiprino savo viršenybę prieš Seimą."
-  temporaliniai_duomenys: "įvykio data: 1928 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys ir tiesiogiai atitinka citatą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "323394-323998; hash=bc71867760022ec125e600f10e64a47ae63d889b208d5f8c2c10ded06fb72f4b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> A. Smetona: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Antanas Smetona (Lietuvos prezidentas, XX a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "A. Smetona: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Smetona (Lietuvos prezidentas, XX a.)\" parinktas kaip owner_note_path. Targetas \"A. Smetona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-73431
 
@@ -113,19 +68,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 - t-044
   global_id: t-75713
   teiginys: "1927 m. vasarą ir rudenį Antanas Smetona keliavo po miestelius, lankė maldos namus ir aiškino naujos vadovybės planus."
-  temporaliniai_duomenys: "kelionės data: 1926-1940; kelionės data: 1927 m.; kelionės data: 1940 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir paremtas citata."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "318064-318861; hash=bff9a5ff377fd12c01b01632a9b1f39ba5d0e62918d7e54326d0cf89c6526c0a; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> A. Smetona: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Antanas Smetona (Lietuvos prezidentas, XX a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "A. Smetona: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Smetona (Lietuvos prezidentas, XX a.)\" parinktas kaip owner_note_path. Targetas \"A. Smetona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-73421
 
@@ -133,19 +75,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 - t-042
   global_id: t-75714
   teiginys: "Antanas Smetona ir Augustinas Voldemaras pabrėžė stiprių prezidento galių būtinybę ir menkino politinių partijų vaidmenį."
-  temporaliniai_duomenys: "įvykio data: 1924 m.; įvykio data: 1926 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Reikia išplėsti inicialus ir sklandžiau suformuluoti faktą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "315961-316821; hash=27a8aca5dc9f968845247c94dcb651fc36c8089be7559dee063f67259be3d61d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> 1926 m. gruodžio 17 d. perversmas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Antanas Smetona (Lietuvos prezidentas, XX a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "1926 m. gruodžio 17 d. perversmas: mention_match, event, gap=86"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Smetona (Lietuvos prezidentas, XX a.)\" parinktas kaip owner_note_path. Targetas \"1926 m. gruodžio 17 d. perversmas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-73422
 
@@ -153,16 +82,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 - t-004
   global_id: t-75715
   teiginys: "Antanas Smetona Lietuvos demokratiją vadino vaikams per dideliais batais, nes parlamentarizmo tradicija per šešerius metus neįsitvirtino."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "313514-314050; hash=1ebd0907d879f7674844a7e1a32a7d82e6da2256c4687e277091af855536c381; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Antanas Smetona (Lietuvos prezidentas, XX a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=16"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Smetona (Lietuvos prezidentas, XX a.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-73430
 
@@ -170,18 +89,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 - t-052
   global_id: t-75716
   teiginys: "Po 1939 m. rudens A. Smetonos autoritarinis režimas netenkino nei dešiniojo lietuvių jaunimo sparno, nei kairiųjų jaunuolių."
-  temporaliniai_duomenys: "įvykio data: 1937 m.; įvykio data: apie 1937 m.; įvykio data: po 1939 m.; įvykio data: 1939 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "345035-345656; hash=9cca1115779f04a47c95dec8b0c8f4e5860c09be24d004f83fa194583545d0c0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Antanas Smetona (Lietuvos prezidentas, XX a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=55"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Smetona (Lietuvos prezidentas, XX a.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-73437
 
@@ -189,18 +96,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 - t-031
   global_id: t-75717
   teiginys: "A. Smetona buvo Vilniuje pasilikusio Komiteto pirmininkas."
-  temporaliniai_duomenys: "įvykio data: po 1930 m.; įvykio data: 1930 m.; įvykio data: 1934 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "349832-350691; hash=6b0135246e2fe0343ae3918cd072c9f00d42a1e48ecada67cd5ef939736c6736; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Antanas Smetona (Lietuvos prezidentas, XX a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=13"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Smetona (Lietuvos prezidentas, XX a.)\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-73438
 
@@ -208,19 +103,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 - t-008
   global_id: t-75718
   teiginys: "1927 m. vasarą ir rudenį Antanas Smetona keliavo po miestelius, aiškindamas naujos vadovybės planus įvesti tvarką šalyje."
-  temporaliniai_duomenys: "kelionės data: 1926-1940; kelionės data: 1927 m.; kelionės data: 1940 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas, aiškus ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "318064-318861; hash=bff9a5ff377fd12c01b01632a9b1f39ba5d0e62918d7e54326d0cf89c6526c0a; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> A. Smetona: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Antanas Smetona (Lietuvos prezidentas, XX a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "A. Smetona: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Smetona (Lietuvos prezidentas, XX a.)\" parinktas kaip owner_note_path. Targetas \"A. Smetona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-73421
 
@@ -228,19 +110,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 - t-001
   global_id: t-75719
   teiginys: "1917 m. Lietuvių konferencijoje Vilniuje Antanas Smetona išrinktas Lietuvos Tarybos pirmininku, tikintis, kad jis įveiks Tarybos vidaus prieštaravimus."
-  temporaliniai_duomenys: "įvykio data: 1917 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie Antaną Smetoną ir atitinka citatą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "259589-260731; hash=5460011f82a325a4674073d4fc7121aedc18f9caef9ed40b878d2afc8a66689c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Antanas Smetona (Lietuvos prezidentas, XX a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=33"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Smetona (Lietuvos prezidentas, XX a.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-73444
 
@@ -248,18 +117,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 - t-032
   global_id: t-75720
   teiginys: "A. Smetona buvo Vykdomojo Komiteto biuro narys."
-  temporaliniai_duomenys: "įvykio data: 1936 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "358525-358986; hash=df5923930d8c8618edda53beddb638ce8d524501d5944c327f175f7bb9f9e18a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> A. Smetona: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Antanas Smetona (Lietuvos prezidentas, XX a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "A. Smetona: mention_match, person, gap=3"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Smetona (Lietuvos prezidentas, XX a.)\" parinktas kaip owner_note_path. Targetas \"A. Smetona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-73450
 
@@ -267,18 +124,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 - t-034
   global_id: t-75721
   teiginys: "A. Smetona 1793–1795 m. LDK padėtį apibūdino kaip laiką, kai ji liovėsi būti valstybe."
-  temporaliniai_duomenys: "įvykio data: 1793-1795; įvykio data: 1795 m.; įvykio data: 1934 m.; įvykio data: 1935 m.; įvykio data: 1937 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "363263-363989; hash=710f25aecdf1bcb48dadcc3e30ea79d3e10bc0f5a7b51ff9d831ebcdd379b731; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> A. Smetona: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Antanas Smetona (Lietuvos prezidentas, XX a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "A. Smetona: mention_match, person, gap=3"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Smetona (Lietuvos prezidentas, XX a.)\" parinktas kaip owner_note_path. Targetas \"A. Smetona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-73427
 
@@ -286,9 +131,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 - t-041
   global_id: t-75722
   teiginys: "Smetona, kuris prisiekė laikytis šalies konstitucijos."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "315549-315959; hash=8475bcb9c9b61609fdd41889b3e0c752940910dfa67352a388d5b10e3b692efe; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-73448
 
@@ -296,20 +138,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 - t-058
   global_id: t-75723
   teiginys: "1940 m. birželį iš Lietuvos išvykęs Antanas Smetona per Vokietiją, Šveicariją ir Portugaliją pasitraukė į JAV."
-  semantiniai_rysiai: "Antanas Smetona (Lietuvos prezidentas, XX a.) mirė Klivlandas (0.95); Antanas Smetona (Lietuvos prezidentas, XX a.) keliavo į Šveicarija (0.90); Antanas Smetona (Lietuvos prezidentas, XX a.) keliavo į Portugalija (0.90)"
-  temporaliniai_duomenys: "įvykio data: 1940 m.; įvykio data: 1944 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sutrumpintas sakinys ir išlaikytas pagrindinis faktas."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "461509-461878; hash=395aa366875c6614eb5e9efbc98cfdfa3144337c899f84df1d29f848aafa1318; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "mire -> Klivlandas: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Antanas Smetona (Lietuvos prezidentas, XX a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Klivlandas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad A. Smetona žuvo Klivlande."
   pagrindžia:
     - c-73439
 
@@ -317,19 +145,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 - t-049
   global_id: t-75724
   teiginys: "1938 m. gegužės 12 d. prezidentas Antanas Smetona ir ministras pirmininkas Vladas Mironas pasirašė naują Lietuvos konstituciją."
-  temporaliniai_duomenys: "įvykio data: 1936 m.; įvykio data: 1938 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Reikia išplėsti inicialus ir patikslinti šalies pavadinimą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "334792-335149; hash=ea4b99a55794757679e3b4997d29fdcff315bcc35cb3a4b7491afcde716ba9e6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> A. Smetona: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Antanas Smetona (Lietuvos prezidentas, XX a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "A. Smetona: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Smetona (Lietuvos prezidentas, XX a.)\" parinktas kaip owner_note_path. Targetas \"A. Smetona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-73426
 
@@ -337,19 +152,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 - t-056
   global_id: t-75725
   teiginys: "Antanas Smetona netrukus pakeitė Klaipėdos nacių teismo skirtą mirties bausmę kalėjimu iki gyvos galvos, o 1937 m. amnestavo kaltinamuosius."
-  temporaliniai_duomenys: "įvykio data: 1934 m.; įvykio data: 1935 m.; įvykio data: 1937 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata patvirtina faktą, bet pradiniame teiginyje yra OCR ir puslapio triukšmo."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "363263-363989; hash=710f25aecdf1bcb48dadcc3e30ea79d3e10bc0f5a7b51ff9d831ebcdd379b731; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> A. Smetona: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Antanas Smetona (Lietuvos prezidentas, XX a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "A. Smetona: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Smetona (Lietuvos prezidentas, XX a.)\" parinktas kaip owner_note_path. Targetas \"A. Smetona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-73427
 
@@ -357,16 +159,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 - t-002
   global_id: t-75726
   teiginys: "Antanas Smetona, kaip vienas aršiausių tautininkų kritikų, dėl valdžios baudimų buvo patekęs į kalėjimą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "297630-298125; hash=7c4681502b18e7242f134bf5640d78d7a3e7c5a691808babf75f585f59c65271; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> A. Smetona: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Antanas Smetona (Lietuvos prezidentas, XX a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "A. Smetona: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Smetona (Lietuvos prezidentas, XX a.)\" parinktas kaip owner_note_path. Targetas \"A. Smetona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-73433
 
@@ -374,19 +166,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 - t-024
   global_id: t-75727
   teiginys: "1936 m. kovą Kaune Antanas Smetona atsakomąja kalba užvėrė duris kompromisui su Lenkija."
-  temporaliniai_duomenys: "įvykio data: 1936 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Papildytas sakinys aiškiu kontekstu iš citatos."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "358525-358986; hash=df5923930d8c8618edda53beddb638ce8d524501d5944c327f175f7bb9f9e18a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> A. Smetona: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Antanas Smetona (Lietuvos prezidentas, XX a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "A. Smetona: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Smetona (Lietuvos prezidentas, XX a.)\" parinktas kaip owner_note_path. Targetas \"A. Smetona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-73450
 
@@ -394,19 +173,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 - t-007
   global_id: t-75728
   teiginys: "1927 m. balandžio 12 d. Antanas Smetona prezidento aktu paleido III Seimą ir nustūmė krikščionis demokratus nuo valdžios."
-  temporaliniai_duomenys: "įvykio data: 1927 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus ir paremtas citatos duomenimis."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "316932-317506; hash=d079177b76140383223573d6ca177ebd8a743b9cb8370256ac8195845736bb2a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> A. Smetona: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Antanas Smetona (Lietuvos prezidentas, XX a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "A. Smetona: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Smetona (Lietuvos prezidentas, XX a.)\" parinktas kaip owner_note_path. Targetas \"A. Smetona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-73434
 
@@ -414,19 +180,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 - t-022
   global_id: t-75729
   teiginys: "1919 m. rugsėjo 26 d. Kaune prezidentas Antanas Smetona iš balkono sveikino minias po Didžiosios Britanijos de facto pripažinimo."
-  temporaliniai_duomenys: "įvykio data: 1919 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pridėtas kontekstas, kad sakinys būtų enciklopedinis."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "277784-278494; hash=1a3a61373011969f0ad49eee9dd28892c5299f5407b3f209b3885568bc05e985; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> A. Smetona: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Antanas Smetona (Lietuvos prezidentas, XX a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "A. Smetona: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Smetona (Lietuvos prezidentas, XX a.)\" parinktas kaip owner_note_path. Targetas \"A. Smetona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-73442
 
@@ -434,16 +187,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 - t-025
   global_id: t-75730
   teiginys: "Priėmus Lenkijos ultimatumą, Antanui Smetonai artimas kunigas Vladas Mironas pakeitė Juozą Tūbelį premjero poste."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "360768-361304; hash=c9d86a1b0d85c42cc6b080d334a1eb8c4003ec845ea77bbcaa8b2b95053e8bcf; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> A. Smetona: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Antanas Smetona (Lietuvos prezidentas, XX a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "A. Smetona: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Smetona (Lietuvos prezidentas, XX a.)\" parinktas kaip owner_note_path. Targetas \"A. Smetona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-73432
 
@@ -451,16 +194,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 - t-017
   global_id: t-75731
   teiginys: "Antano Smetonos režimo prioritetai buvo tautinės kultūros kūrimas ir lietuviškai kalbančios Lietuvos formavimas."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "345551-345944; hash=976b7123d81a80a656b31601e7cdc7c2fe8a2e0f93a946d29fb3c45d89a20416; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> A. Smetona: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Antanas Smetona (Lietuvos prezidentas, XX a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "A. Smetona: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Smetona (Lietuvos prezidentas, XX a.)\" parinktas kaip owner_note_path. Targetas \"A. Smetona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-73428
 
@@ -468,18 +201,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 - t-006
   global_id: t-75732
   teiginys: "Antanas Smetona ir Augustinas Voldemaras pabrėždavo stiprių prezidento galių būtinybę ir nevertino politinių partijų vaidmens."
-  temporaliniai_duomenys: "įvykio data: 1924 m.; įvykio data: 1926 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "315961-316821; hash=27a8aca5dc9f968845247c94dcb651fc36c8089be7559dee063f67259be3d61d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> A. Smetona: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Antanas Smetona (Lietuvos prezidentas, XX a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "A. Smetona: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Smetona (Lietuvos prezidentas, XX a.)\" parinktas kaip owner_note_path. Targetas \"A. Smetona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-73422
 
@@ -487,18 +208,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 - t-016
   global_id: t-75733
   teiginys: "Po 1939 m. rudens nuosaikus Antano Smetonos autoritarinis režimas netenkino nei dešinės radikalų, nei dalies kairiojo jaunimo."
-  temporaliniai_duomenys: "įvykio data: 1937 m.; įvykio data: apie 1937 m.; įvykio data: po 1939 m.; įvykio data: 1939 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "345035-345656; hash=9cca1115779f04a47c95dec8b0c8f4e5860c09be24d004f83fa194583545d0c0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> A. Smetona: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Antanas Smetona (Lietuvos prezidentas, XX a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "A. Smetona: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Smetona (Lietuvos prezidentas, XX a.)\" parinktas kaip owner_note_path. Targetas \"A. Smetona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-73437
 
@@ -506,18 +215,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 - t-055
   global_id: t-75734
   teiginys: "Prezidentas A. Smetona Klaipėdos nacių teismo mirties bausmę netrukus pakeitė kalėjimu iki gyvos galvos."
-  temporaliniai_duomenys: "įvykio data: 1793-1795; įvykio data: 1795 m.; įvykio data: 1916 m.; įvykio data: 1918 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "254193-254597; hash=bae10b4ac945da247f18ec522b03e481e91dc00669ee74a47338ac1d820904b0; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> A. Smetona: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Antanas Smetona (Lietuvos prezidentas, XX a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "A. Smetona: mention_match, person, gap=3"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Smetona (Lietuvos prezidentas, XX a.)\" parinktas kaip owner_note_path. Targetas \"A. Smetona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-73420
 
@@ -525,18 +222,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 - t-035
   global_id: t-75735
   teiginys: "Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyderius."
-  temporaliniai_duomenys: "įvykio data: 1939 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "375917-376300; hash=015dce61ff3280c3ceb71281d443457594ec9fd6b502454326bb744db4984a72; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> A. Smetona: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Antanas Smetona (Lietuvos prezidentas, XX a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "A. Smetona: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Smetona (Lietuvos prezidentas, XX a.)\" parinktas kaip owner_note_path. Targetas \"A. Smetona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-73449
 
@@ -544,16 +229,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 - t-039
   global_id: t-75736
   teiginys: "A. Smetona teigė, kad be faktinės Klaipėdos kontrolės Lietuva neturės juridinės kontrolės."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "304007-304568; hash=34f5eb781836594f344b7182bb08fa8fb65d4a664ecf68259be8603964af56c8; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Klaipėda: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Antanas Smetona (Lietuvos prezidentas, XX a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Klaipėda: mention_match, place, gap=31"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Smetona (Lietuvos prezidentas, XX a.)\" parinktas kaip owner_note_path. Targetas \"Klaipėda\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-73423
 
@@ -561,20 +236,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 - t-021
   global_id: t-75737
   teiginys: "1918 m. gruodžio 21 d. Antanas Smetona išvyko į Berlyną ir pasirašė 100 mln. markių paskolą ginklams įsigyti."
-  semantiniai_rysiai: "Antanas Smetona (Lietuvos prezidentas, XX a.) keliavo į Berlynas (0.95)"
-  temporaliniai_duomenys: "įvykio data: 1918 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir pagrįstas citata."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "269730-270156; hash=6873f21cf882969186a098385f13a0de52ac3c0b98bfedd61a318884d06b4b76; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Berlynas: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Antanas Smetona (Lietuvos prezidentas, XX a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Berlynas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginyje tiesiogiai pasakyta, kad Antanas Smetona išvyko į Berlyną."
   pagrindžia:
     - c-73419
 
@@ -582,19 +243,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 - t-018
   global_id: t-75738
   teiginys: "Antano Smetonos režimas nereguliavo kultūros reiškinių raidos, turinio ir dvasios, nors kalbėjo apie lietuvių tautinės kultūros kūrimą."
-  temporaliniai_duomenys: "įvykio data: 1938 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "347788-348423; hash=5bdf853032192094c0c9182a2f64bd610e47ec108ac5fc0ab8b39f2aa116eb87; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> A. Smetona: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Antanas Smetona (Lietuvos prezidentas, XX a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "A. Smetona: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Smetona (Lietuvos prezidentas, XX a.)\" parinktas kaip owner_note_path. Targetas \"A. Smetona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-73443
 
@@ -602,19 +250,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 - t-057
   global_id: t-75739
   teiginys: "1940 m. birželio 15 d. Antano Smetonos siūlymą priešintis ginklu palaikė vos du ministrai."
-  temporaliniai_duomenys: "įvykio data: 1940 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai įvardija Antano Smetonos siūlymą ir citatoje nurodytą palaikymą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "378259-379092; hash=719cfa11b6d498a2c519189b3a0e7958d358f144cc886488c3c479a17c59c620; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> A. Smetona: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Antanas Smetona (Lietuvos prezidentas, XX a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "A. Smetona: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Smetona (Lietuvos prezidentas, XX a.)\" parinktas kaip owner_note_path. Targetas \"A. Smetona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-73435
 
@@ -622,16 +257,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 - t-051
   global_id: t-75740
   teiginys: "Antanas Smetona agresyvesniems jaunalietuviams pareiškė, kad „vietos visiems užteks“."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "342037-342563; hash=5f2f5e5931343be3777370a7088c9964c9bf336689b63b6291f8830f31772718; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> A. Smetona: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Antanas Smetona (Lietuvos prezidentas, XX a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "A. Smetona: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Smetona (Lietuvos prezidentas, XX a.)\" parinktas kaip owner_note_path. Targetas \"A. Smetona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-73446
 
@@ -639,18 +264,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 - t-029
   global_id: t-75741
   teiginys: "Antano Smetonos valstybės modelio ir režimo prioritetai buvo tautinės kultūros kūrimas ir lietuviškai kalbanti Lietuva."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "345551-345944; hash=976b7123d81a80a656b31601e7cdc7c2fe8a2e0f93a946d29fb3c45d89a20416; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> A. Smetona: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Antanas Smetona (Lietuvos prezidentas, XX a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "A. Smetona: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Smetona (Lietuvos prezidentas, XX a.)\" parinktas kaip owner_note_path. Targetas \"A. Smetona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-73428
 
@@ -658,18 +271,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 - t-005
   global_id: t-75742
   teiginys: "1926 m. gruodžio 19 d. III Seimo nepaprastajame posėdyje Antanas Smetona išrinktas Lietuvos prezidentu ir prisiekė laikytis Konstitucijos."
-  temporaliniai_duomenys: "įvykio data: 1926 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "315549-315959; hash=8475bcb9c9b61609fdd41889b3e0c752940910dfa67352a388d5b10e3b692efe; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Antanas Smetona (Lietuvos prezidentas, XX a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=26"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Smetona (Lietuvos prezidentas, XX a.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-73448
 
@@ -677,16 +278,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 - t-053
   global_id: t-75743
   teiginys: "Antano Smetonos valstybės modelio prioritetai – tautinės kultūros kūrimas ir lietuviškai kalbanti Lietuva – iš esmės buvo įgyvendinti."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "345551-345944; hash=976b7123d81a80a656b31601e7cdc7c2fe8a2e0f93a946d29fb3c45d89a20416; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> A. Smetona: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Antanas Smetona (Lietuvos prezidentas, XX a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "A. Smetona: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Smetona (Lietuvos prezidentas, XX a.)\" parinktas kaip owner_note_path. Targetas \"A. Smetona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-73428
 
@@ -694,19 +285,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 - t-027
   global_id: t-75744
   teiginys: "Grėsmės akivaizdoje Antanas Smetona leido Antanui Merkiui pasirašyti bet kokias sutartis, jei jos nepažeistų 1939 m. spalio 10 d. sutarties."
-  temporaliniai_duomenys: "sutarties data: 1939 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pakeistas neaiškus įvardis į asmens vardą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "257235-257615; hash=81e1f41e630b056f69d209372feb6364969f30ab0a4b072279312f788c6e0918; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Antanas Smetona (Lietuvos prezidentas, XX a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Smetona (Lietuvos prezidentas, XX a.)\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-73425
     - c-73449
@@ -715,18 +293,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 - t-036
   global_id: t-75745
   teiginys: "1917 m. A. Smetona išrinktas Lietuvos Tarybos pirmininku, tikintis, kad jis įveiks radikaliosios ir konservatyviosios dalių prieštaravimus."
-  temporaliniai_duomenys: "įvykio data: 1917 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "259589-260731; hash=5460011f82a325a4674073d4fc7121aedc18f9caef9ed40b878d2afc8a66689c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Antanas Smetona (Lietuvos prezidentas, XX a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=18"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Smetona (Lietuvos prezidentas, XX a.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-73444
 
@@ -734,21 +300,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 - t-030
   global_id: t-75746
   teiginys: "Antano Smetonos režimas nereguliavo kultūros reiškinių raidos, turinio ir dvasios."
-  temporaliniai_duomenys: "įvykio data: 1938 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "347788-348423; hash=5bdf853032192094c0c9182a2f64bd610e47ec108ac5fc0ab8b39f2aa116eb87; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> A. Smetona: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Antanas Smetona (Lietuvos prezidentas, XX a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "A. Smetona: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Smetona (Lietuvos prezidentas, XX a.)\" parinktas kaip owner_note_path. Targetas \"A. Smetona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-13T14:18:10Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-73443
 
@@ -756,21 +307,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 - t-028
   global_id: t-75747
   teiginys: "Po 1939 m. rudens Lietuvos jaunimo dešinės ir kairės radikalų netenkino nuosaikus Antano Smetonos autoritarinis režimas."
-  temporaliniai_duomenys: "įvykio data: 1937 m.; įvykio data: apie 1937 m.; įvykio data: po 1939 m.; įvykio data: 1939 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data."
-  temporalinis_llm_pakomentavimas: "Pirminio teiginio citata nepagrindžia, bet ji pagrindžia faktą apie Antano Smetonos režimą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "345035-345656; hash=9cca1115779f04a47c95dec8b0c8f4e5860c09be24d004f83fa194583545d0c0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> A. Smetona: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Antanas Smetona (Lietuvos prezidentas, XX a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "A. Smetona: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Smetona (Lietuvos prezidentas, XX a.)\" parinktas kaip owner_note_path. Targetas \"A. Smetona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-13T14:30:30Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-73437
 
@@ -778,18 +314,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 - t-013
   global_id: t-75748
   teiginys: "1938 m. gegužės 12 d. Antanas Smetona ir ministras pirmininkas Vladas Mironas pasirašė naują Lietuvos konstituciją."
-  temporaliniai_duomenys: "įvykio data: 1936 m.; įvykio data: 1938 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "334792-335149; hash=ea4b99a55794757679e3b4997d29fdcff315bcc35cb3a4b7491afcde716ba9e6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> A. Smetona: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Antanas Smetona (Lietuvos prezidentas, XX a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "A. Smetona: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Smetona (Lietuvos prezidentas, XX a.)\" parinktas kaip owner_note_path. Targetas \"A. Smetona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-73426
 
@@ -797,19 +321,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 - t-043
   global_id: t-75749
   teiginys: "1927 m. paleidęs III Seimą, Antanas Smetona nuo valdžios nustūmė stipriausią šalies politinę jėgą – krikščionis demokratus."
-  temporaliniai_duomenys: "įvykio data: 1927 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai susieja Antano Smetonos veiksmą su citatoje nurodytu padariniu."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "316932-317506; hash=d079177b76140383223573d6ca177ebd8a743b9cb8370256ac8195845736bb2a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> A. Smetona: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Antanas Smetona (Lietuvos prezidentas, XX a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "A. Smetona: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Smetona (Lietuvos prezidentas, XX a.)\" parinktas kaip owner_note_path. Targetas \"A. Smetona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-73434
 
@@ -817,16 +328,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 - t-040
   global_id: t-75750
   teiginys: "Antanas Smetona demokratiją Lietuvoje lygino su per dideliais batais vaikams, nes parlamentarizmo tradicija dar nebuvo įsitvirtinusi."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "313514-314050; hash=1ebd0907d879f7674844a7e1a32a7d82e6da2256c4687e277091af855536c381; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Antanas Smetona (Lietuvos prezidentas, XX a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=28"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Smetona (Lietuvos prezidentas, XX a.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-73430
 
@@ -834,18 +335,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 - t-026
   global_id: t-75751
   teiginys: "Prezidentas Antanas Smetona Klaipėdos nacių teismo mirties bausmę netrukus pakeitė kalėjimu iki gyvos galvos."
-  temporaliniai_duomenys: "įvykio data: 1934 m.; įvykio data: 1935 m.; įvykio data: 1937 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "363263-363989; hash=710f25aecdf1bcb48dadcc3e30ea79d3e10bc0f5a7b51ff9d831ebcdd379b731; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> A. Smetona: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Antanas Smetona (Lietuvos prezidentas, XX a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "A. Smetona: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Smetona (Lietuvos prezidentas, XX a.)\" parinktas kaip owner_note_path. Targetas \"A. Smetona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-73427
 
@@ -853,19 +342,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 - t-048
   global_id: t-75752
   teiginys: "1931 m. gruodžio 11 d. ypatingieji tautos atstovai vienbalsiai išrinko Antaną Smetoną Lietuvos prezidentu."
-  temporaliniai_duomenys: "įvykio data: 1931 m.; įvykio data: 1933 m.; įvykio data: 1934 m.; įvykio data: 1938 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Reikia išplėsti inicialą į pilną vardą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "331772-332289; hash=4403c7aa70283ab2e22052c5d478792b45e04f5960f76da8743db1df9ca895ea; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Antanas Smetona (Lietuvos prezidentas, XX a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=15"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Smetona (Lietuvos prezidentas, XX a.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-73447
 
@@ -873,16 +349,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 - t-033
   global_id: t-75753
   teiginys: "A. Smetona buvo Lietuvos Tarybos narys ir jos pirmininkas."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "360768-361304; hash=c9d86a1b0d85c42cc6b080d334a1eb8c4003ec845ea77bbcaa8b2b95053e8bcf; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Antanas Smetona (Lietuvos prezidentas, XX a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=13"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Smetona (Lietuvos prezidentas, XX a.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-73432
 
@@ -890,19 +356,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 - t-023
   global_id: t-75754
   teiginys: "Nuo 1930 m. per Tautos šventę valstybės įstaigas puošdavo dideli Vytauto Didžiojo ir Antano Smetonos portretai."
-  temporaliniai_duomenys: "įvykio data: po 1930 m.; įvykio data: 1930 m.; įvykio data: 1934 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pirminis teiginys buvo fragmentiškas ir per platus."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "349832-350691; hash=6b0135246e2fe0343ae3918cd072c9f00d42a1e48ecada67cd5ef939736c6736; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> A. Smetona: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Antanas Smetona (Lietuvos prezidentas, XX a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "A. Smetona: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Smetona (Lietuvos prezidentas, XX a.)\" parinktas kaip owner_note_path. Targetas \"A. Smetona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-73438
 
@@ -910,19 +363,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 - t-019
   global_id: t-75755
   teiginys: "1918 m. kovo 23 d. Antano Smetonos vadovaujama Tarybos delegacija Berlyne pristatė deklaracijos turinį Georgui von Hertlingui."
-  temporaliniai_duomenys: "įvykio data: 1918 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie Antano Smetonos veiksmą ir atitinka citatą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "266165-266853; hash=f75b5253b91423b3c784ed865c19422cb58da4360bb51f2fddeeccc6e04f7677; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> A. Smetona: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Antanas Smetona (Lietuvos prezidentas, XX a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "A. Smetona: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Smetona (Lietuvos prezidentas, XX a.)\" parinktas kaip owner_note_path. Targetas \"A. Smetona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-73440
 
@@ -930,18 +370,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 - t-012
   global_id: t-75756
   teiginys: "1931 m. gruodžio 11 d. ypatingieji tautos atstovai vienbalsiai perrinko Antaną Smetoną Lietuvos prezidentu."
-  temporaliniai_duomenys: "įvykio data: 1931 m.; įvykio data: 1933 m.; įvykio data: 1934 m.; įvykio data: 1938 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "331772-332289; hash=4403c7aa70283ab2e22052c5d478792b45e04f5960f76da8743db1df9ca895ea; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Antanas Smetona (Lietuvos prezidentas, XX a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=15"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Smetona (Lietuvos prezidentas, XX a.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-73447
 
@@ -949,16 +377,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 - t-046
   global_id: t-75757
   teiginys: "Konstitucija įteisino autoritarinį A. Smetonos valdymą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "323799-324098; hash=e34e160661e5a73138e41a634a93f9cdc4233db1e3ce2755365c043e0fa4881f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> A. Smetona: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Antanas Smetona (Lietuvos prezidentas, XX a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "A. Smetona: mention_match, person, gap=16"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Smetona (Lietuvos prezidentas, XX a.)\" parinktas kaip owner_note_path. Targetas \"A. Smetona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-73445
 
@@ -966,19 +384,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 - t-009
   global_id: t-75758
   teiginys: "1928 m. gegužės 15 d. Antanas Smetona nauja konstitucija sustiprino savo pozicijas ir įteisino viršenybę prieš Seimą."
-  temporaliniai_duomenys: "įvykio data: 1928 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie Antaną Smetoną ir atitinka citatą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "323394-323998; hash=bc71867760022ec125e600f10e64a47ae63d889b208d5f8c2c10ded06fb72f4b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> A. Smetona: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Antanas Smetona (Lietuvos prezidentas, XX a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "A. Smetona: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Smetona (Lietuvos prezidentas, XX a.)\" parinktas kaip owner_note_path. Targetas \"A. Smetona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-73431
 
@@ -986,18 +391,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 - t-037
   global_id: t-75760
   teiginys: "1918 m. lapkričio 2 d. A. Smetona buvo Tarybos prezidiumo pirmininkas, o prezidiumas su ministrų kabinetu sudarė vykdomąją valdžią."
-  temporaliniai_duomenys: "įvykio data: 1918 m.; įvykio data: 1926-1940; įvykio data: 1927 m.; įvykio data: 1940 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "318064-318861; hash=bff9a5ff377fd12c01b01632a9b1f39ba5d0e62918d7e54326d0cf89c6526c0a; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> A. Smetona: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Antanas Smetona (Lietuvos prezidentas, XX a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "A. Smetona: mention_match, person, gap=3"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Smetona (Lietuvos prezidentas, XX a.)\" parinktas kaip owner_note_path. Targetas \"A. Smetona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-73421
 
@@ -1005,18 +398,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 - t-020
   global_id: t-75761
   teiginys: "1918 m. lapkričio 2 d. Antanas Smetona buvo Tarybos prezidiumo pirmininkas, o prezidiumas su ministrų kabinetu sudarė vykdomąją valdžią."
-  temporaliniai_duomenys: "įvykio data: iki 1922 m.; įvykio data: 1918 m.; įvykio data: 1922 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "267771-268486; hash=0d79ebcb7edd8475f19f92194ca8fa903e4ae2ff4eb403821d1a8fba7c25dc78; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> A. Smetona: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Antanas Smetona (Lietuvos prezidentas, XX a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "A. Smetona: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Smetona (Lietuvos prezidentas, XX a.)\" parinktas kaip owner_note_path. Targetas \"A. Smetona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-73441
 
@@ -1024,16 +405,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 - t-003
   global_id: t-75763
   teiginys: "Antanas Smetona laikėsi nuostatos, kad be faktinės Klaipėdos kontrolės Lietuva neįgis juridinės krašto kontrolės."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "304007-304568; hash=34f5eb781836594f344b7182bb08fa8fb65d4a664ecf68259be8603964af56c8; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Klaipėda: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Antanas Smetona (Lietuvos prezidentas, XX a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Klaipėda: mention_match, place, gap=51"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Smetona (Lietuvos prezidentas, XX a.)\" parinktas kaip owner_note_path. Targetas \"Klaipėda\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-73423
 
@@ -1041,18 +412,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 - t-010
   global_id: t-75764
   teiginys: "1928 m. Konstitucija įteisino autoritarinį Antano Smetonos valdymą."
-  temporaliniai_duomenys: "įvykio data: 1928 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "323799-324098; hash=e34e160661e5a73138e41a634a93f9cdc4233db1e3ce2755365c043e0fa4881f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> A. Smetona: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Antanas Smetona (Lietuvos prezidentas, XX a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "A. Smetona: mention_match, person, gap=13"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Smetona (Lietuvos prezidentas, XX a.)\" parinktas kaip owner_note_path. Targetas \"A. Smetona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-73445
 
@@ -1060,19 +419,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 - t-018
   global_id: t-75738
   teiginys: "Antano Smetonos režimas nereguliavo kultūros reiškinių raidos, turinio ir dvasios, nors kalbėjo apie lietuvių tautinės kultūros kūrimą."
-  temporaliniai_duomenys: "įvykio data: 1938 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "347788-348423; hash=5bdf853032192094c0c9182a2f64bd610e47ec108ac5fc0ab8b39f2aa116eb87; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> A. Smetona: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Antanas Smetona (Lietuvos prezidentas, XX a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "A. Smetona: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Smetona (Lietuvos prezidentas, XX a.)\" parinktas kaip owner_note_path. Targetas \"A. Smetona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-73443
 
@@ -1080,16 +426,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 - t-038
   global_id: t-75766
   teiginys: "A. Smetona buvo tarp tautininkų kritikų, kurie dėl valdžios taikytų spaudos ir susirinkimų ribojimų pasėdėjo kalėjime."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "297630-298125; hash=7c4681502b18e7242f134bf5640d78d7a3e7c5a691808babf75f585f59c65271; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> A. Smetona: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Antanas Smetona (Lietuvos prezidentas, XX a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "A. Smetona: mention_match, person, gap=3"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Smetona (Lietuvos prezidentas, XX a.)\" parinktas kaip owner_note_path. Targetas \"A. Smetona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-73433
 
@@ -1097,19 +433,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 - t-059
   global_id: t-183525
   teiginys: "Antano Smetonos redaguojamos „Vilties“ grupuotė kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "242047-242625; hash=12afba22416c4993e0989466b74309ca715fadd82d615183b62ba831161d5824; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Antanas Smetona (Lietuvos prezidentas, XX a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=58"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Smetona (Lietuvos prezidentas, XX a.)\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-166919
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77980|A. Smetona]]: 1927 m. vasarą ir rudenį A. Smetona keliavo po Lietuvos miestelius, lydimas karininkų, ministrų, žurnalistų ir kino kronikos kamerų.
@@ -1147,8 +470,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     ginklų kuriamiems Lietuvos kariuomenės daliniams ir, Antantės šalių
     reikalavimu, leido panaudoti savo dalinius stabdant bolševizmą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1164,8 +487,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     į pietus nutįsusi Oberosto teritorija forma kone sutapo su 1793–1795 m.
     LDK ribomis, kai, anot A. Smetonos, „ji liovėsi būti valstybe“.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1187,8 +510,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     Antanas Smetona – Lietuvos prezidentas
     1919–1920 ir 1926–1940 m.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1219,8 +542,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     laikus“, prilygintus netvarkai ir
     anarchijai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1238,8 +561,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     A. Smetonos, be faktinės kontrolės nebus juridinės), J. Pilsudskio pavyz-
     džiu pastatyti visus į fait accompli padėtį ir tada derėtis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1256,8 +579,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     ti. Jos vadovas A. Smetona, siekdamas kompromiso, į jos veiklą įtraukė
     kairės ir liberalų lyderius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1274,8 +597,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     skelbta nauja šalies konstitucija, kurią pasirašė prezidentas A. Smetona
     ir ministras pirmininkas V. Mironas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1299,8 +622,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     kus pakeitė kalėjimu iki gyvos galvos, o 1937 m. amnestavo kaltinamuo-
     sius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1318,8 +641,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     valstybės modelio, jo režimo prioritetai – tautinės kultūros kūrimas ir lie-
     tuviškai kalbanti Lietuva – iš esmės įgyvendintas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1338,8 +661,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     smulk­meniškai besikišantis į vykdomosios valdžios reikalus ir nekompe-
     tentingas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1359,8 +682,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     cija iš esmės užrašė esamą situaciją, įteisindama autoritarinį A. Smetonos
     valdymą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1379,8 +702,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     lyderių pasitarimai dėl bendros programos parengimo, prie jų dėjosi ir
     ultraradikalieji voldemarininkai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1398,8 +721,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     blicistus; pasėdėjo kalėjime ir aršiausi kritikai tautininkai A. Voldemaras,
     A. Smetona.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1418,8 +741,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     zidentas A. Smetona vienu ypu nuo valdžios vairo nustūmė ir stipriausią
     šalies politinę jėgą – krikščionis demokratus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1442,8 +765,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     tikio kandidatūrą atmetė. A. Smetonos siūlymą priešintis ginklu palaikė
     vos du ministrai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1464,8 +787,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     platų patriotinį sąjūdį, esama atrama šlovingoje pagoniškosios LDK pra-
     eityje, ir pasiųsta žinia, kad Lietuva yra sena istorinė valstybė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1486,8 +809,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     bolševizmui. Nė vienų netenkino nuosaikus A. Smetonos autoritarinis re-
     žimas, nors ir dėl visai skirtingų priežasčių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1510,8 +833,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     portretai, vykdavo kariuomenės paradai, inscenizuotos eitynės miestų ga-
     tvėmis, vaidinami spektakliai, užsienio svečiams rengiami pokyliai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1527,8 +850,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     nevykdyti politinės veiklos, tad apsiribojo ryšiais su JAV lietuviais ir Lietu-
     vos diplomatais. 1944 m. sausį A. Smetona žuvo Klivlande per gaisrą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1550,8 +873,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     bę, bet pažymėjo, kad nustatomi glaudūs Lietuvos ir Vokietijos ryšiai…
     gruodžio 11-osios rezoliucijos pagrindu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1571,8 +894,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     kas A. Smetona ir du vicepirmininkai Justinas Staugaitis ir S. Šilingas)
     drauge su ministrų kabinetu sudarė vykdomąją valdžią.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1594,8 +917,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     tempdami Lietuvos trispalvę, žmonės džiūgavo, prezidentas A. Smetona
     iš balkono sveikino minias.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1614,8 +937,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     šaltinius, atstovauti lituanistikos mokslams Lietuvoje ir užsienyje, nustatyti
     techninius terminus, rinkti tautosakos, dainų lobius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1644,8 +967,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     kad jis įveiks prieštaravimus tarp Tarybos radikaliosios ir konservatyvio-
     sios dalies.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1661,8 +984,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     Stiprėjant Europos tendencijai saugoti sienų neliečiamumą, A. Vol-
     demaras nieko negalėjo pakeisti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1682,8 +1005,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     tams, lietuvių ir jų ūkinių kooperatyvų veikla neišvengiamai silpnino
     žydų verslo pozicijas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1701,8 +1024,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     riniai režimai Estijoje ir Latvijoje, regione A. Smetonos režimas atrodė
     visai liberalus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1718,8 +1041,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     kuris prisiekė laikytis šalies konstitucijos. LKDP blokui atiteko Seimo pir-
     mininko (juo išrinktas A. Stulginskis) ir jo pavaduotojų postai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1736,8 +1059,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     A. Smetona leido jam pasirašyti bet kokias sutartis, kad tik jos nepažeistų
     1939 m. spalio 10 d. sutarties.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1756,8 +1079,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     tuvą, o kovo mėn. Kaune atsakomąja kalba A. Smetona užvėrė duris kom-
     promisui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1777,8 +1100,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     teritorijoje, rūpinęsi lenkiškojo patriotizmo ir lenkų kalbos pozicijų stipri-
     nimu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2455,10 +1778,7 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - t-183525
 
 ## Ryšiai
-- Sąjungininkai: [[objektai/grupes/Lietuvių tautininkų sąjunga]]
-- Paskyrė Antanas Smetoną (Lietuvos prezidentas, XX a.): [[objektai/grupes/Lietuvos Taryba|Lietuvos Taryba (institucija)]]
 - Antanas Smetona (Lietuvos prezidentas, XX a.) valdė [[objektai/vietos/Lietuva]]
 - Antanas Smetona (Lietuvos prezidentas, XX a.) keliavo į [[objektai/vietos/Berlynas]], [[objektai/vietos/Portugalija]], [[objektai/vietos/Šveicarija]]
 - Antanas Smetona (Lietuvos prezidentas, XX a.) mirė [[objektai/vietos/Klivlandas]]
-- Antanas Smetona (Lietuvos prezidentas, XX a.) gynė [[objektai/grupes/Žydai]]
 - Antanas Smetona (Lietuvos prezidentas, XX a.) paskyrė [[objektai/asmenys/Juozas Tūbelis]]

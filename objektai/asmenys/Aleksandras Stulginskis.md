@@ -44,19 +44,6 @@ Steigiamojo Seimo pirmininku išrinktas LŪS lyderis agronomas Aleksandras Stulg
 - t-001
   global_id: t-63438
   teiginys: "Aleksandras Stulginskis buvo išrinktas Steigiamojo Seimo pirmininku, o 1922–1926 m. ėjo Lietuvos prezidento pareigas."
-  temporaliniai_duomenys: "įvykio data: 1918 m.; įvykio data: 1922-1926; įvykio data: 1926 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys per ilgas ir turi šalutinę informaciją apie kitą asmenį."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "295954-296571; hash=75fa7360c37ecd429704c6d4b1b7d9b67d273174955295de8bfded854b2367f1; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aleksandras Stulginskis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=88"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksandras Stulginskis\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-166913
 
@@ -64,19 +51,6 @@ Steigiamojo Seimo pirmininku išrinktas LŪS lyderis agronomas Aleksandras Stulg
 - t-001
   global_id: t-63438
   teiginys: "Aleksandras Stulginskis buvo išrinktas Steigiamojo Seimo pirmininku, o 1922–1926 m. ėjo Lietuvos prezidento pareigas."
-  temporaliniai_duomenys: "įvykio data: 1918 m.; įvykio data: 1922-1926; įvykio data: 1926 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys per ilgas ir turi šalutinę informaciją apie kitą asmenį."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "295954-296571; hash=75fa7360c37ecd429704c6d4b1b7d9b67d273174955295de8bfded854b2367f1; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aleksandras Stulginskis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=88"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksandras Stulginskis\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-166913
 - susijęs iš [[objektai/asmenys/Kazys Grinius.md#claim-t-183550|Kazys Grinius]]: Liaudininkas Kazys Grinius vadovavo birželio 19 d. sudarytai vyriausybei.
@@ -101,8 +75,8 @@ Steigiamojo Seimo pirmininku išrinktas LŪS lyderis agronomas Aleksandras Stulg
     išrinktas Lietuvos prezidentu), o birželio 19-ąją sudaryta liaudininko
     Kazio Griniaus vadovaujama vyriausybė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

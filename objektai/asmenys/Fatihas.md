@@ -32,16 +32,6 @@ Jam vadovavo jaunesnieji Mengli-Girėjaus sūnūs Fatihas ir Burnašas.
 - t-001
   global_id: t-80733
   teiginys: "Mengli-Girėjaus jaunesnieji sūnūs Fatihas ir Burnašas vadovavo žygiui į LDK gilumą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "305303-305501; hash=8c928bcb3a083c734996c6acb74fa99eba32e469896a2fa563a2a29704b52474; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> žygis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Fatihas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "žygis: mention_match, thing, gap=29"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Fatihas\" parinktas kaip owner_note_path. Targetas \"žygis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-77391
 - susijęs iš [[objektai/asmenys/Mengli Girėjus.md#claim-t-195003|Mengli Girėjus]]: Jam vadovavo jaunesnieji Mengli-Girėjaus sūnūs Fatihas ir Burnašas.
@@ -60,8 +50,8 @@ Jam vadovavo jaunesnieji Mengli-Girėjaus sūnūs Fatihas ir Burnašas.
     pajėgas sudarė maždaug 4000 totorių, tu-
     rėję apie 10000 žirgų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

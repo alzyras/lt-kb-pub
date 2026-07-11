@@ -30,19 +30,6 @@ Maskvos kunigaikštis Vasilijus prašė taikos, jeigu karalius sutiktų daugiau 
 - t-001
   global_id: t-185476
   teiginys: "Maskvos kunigaikštis Vasilijus prašė taikos, jeigu karalius sutiktų daugiau nebelieti krikščionių kraujo."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1074675-1075463; hash=cc157afb82b78638fb36100768dde6e56fbe09992a4afe5372cf5ff8ffccbd28; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Maskva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "daugiau nebelieti krikščionių kraujo: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Maskva: mention_match, place, gap=68"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"daugiau nebelieti krikščionių kraujo\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-168837
 ## Reikšmingi paminėjimai
@@ -76,8 +63,8 @@ Maskvos kunigaikštis Vasilijus prašė taikos, jeigu karalius sutiktų daugiau 
     įgaliojimų turinčius legatus, jeigu karalius sutinkąs
     daugiau nebelieti krikščionių kraujo.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -88,7 +75,8 @@ Maskvos kunigaikštis Vasilijus prašė taikos, jeigu karalius sutiktų daugiau 
 - id: c-168837
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 605"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 605."
   citata_originali: |
     Iš dalies priešą sumušęs, iš dalies išvaikęs, Kiška, di­
     džiuodamasis savo žygiu ir gausiu grobiu, bet nenorė­

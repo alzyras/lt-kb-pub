@@ -55,11 +55,6 @@ Nenurodyta
 - t-001
   global_id: t-67147
   teiginys: "Sprendžiant Lietuvos santykius su Lenkija, bajorijos nuomonė ir pritarimas buvo svarbūs, nes Lietuva rėmėsi visuomenės balsu."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "416166-416656; hash=41b44ad7fe5841a927c72b2a6b0d9c28339f27f607255bf296b413b427862eda; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T14:12:56Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-67164
 
@@ -67,9 +62,6 @@ Nenurodyta
 - t-003
   global_id: t-67148
   teiginys: "Nuo XVI a. vidurio Lietuvos bajorijos seimas tapo toks įtakingas, kad be jo nebūdavo sprendžiamas joks svarbesnis reikalas."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "hash=86e18f8ecde366d02a02d67ebc0ac538093fdf5c4a87d01539d2b77fce0e1a95; match=normalized; occurrences=1"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-67162
 
@@ -77,11 +69,6 @@ Nenurodyta
 - t-004
   global_id: t-67150
   teiginys: "Lietuvos bajorijos seimai pirmiausia buvo reikalingi renkant naują didįjį kunigaikštį."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "hash=20ccba46c58de3307d81da63c9645eb6b14bbbeb92a98b6ed40503f306e11c50; match=normalized; occurrences=1"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-67161
 
@@ -89,11 +76,6 @@ Nenurodyta
 - t-002
   global_id: t-67151
   teiginys: "Į Lietuvos bajorijos seimus atvykdavo ponų taryba, aukštesnieji valstybės urėdai ir norintys dalyvauti bajorai."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "416967-417506; hash=6e56569bfb2a308830b0a16bb5f0a3ab32d66a35ffccd7fc2b50ce90906a1c17; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T14:12:56Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-67163
 ## Reikšmingi paminėjimai
@@ -109,8 +91,8 @@ Nenurodyta
     seimai pirmiausia būdavo reikalingi renkant naują didįjį kuni-
     gaikštį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -132,8 +114,8 @@ Nenurodyta
     mokesčių ir t. t. Tad d. kunigaikštis bajorijos pageidavimų daž-
     niausiai klausydavo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -153,8 +135,8 @@ Nenurodyta
     rėdavo pasitarti; o jei kas norėdavo ką patsai pareikšti, galė-
     davo atvykti į seimą ir nekviestas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -173,8 +155,8 @@ Nenurodyta
     kesčiais bajoriją. O tą buvo galima padaryti tik jai pačiai
     sutinkant. Taigi tam sutikimui gauti ir reikėdavo šaukti seimą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -30,12 +30,6 @@ Paskui Smolenske kilo didelis maištas, smolenskiečiai sučiupo Smolensko marš
 - t-001
   global_id: t-194127
   teiginys: "Paskui Smolenske kilo didelis maištas, smolenskiečiai sučiupo Smolensko maršalą Petriką 5 ir nuskandino Dnepre, o Smolensko vaivados vieton pasisodino Dorohobužo kunigaikštį Andrejų Dimitrijevičių 6 ."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "225815-226255; hash=35441de86fc33592b2a120a3532fcadeeb6f8556861eca0be8cae4f684921b9b; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176740
 ## Reikšmingi paminėjimai
@@ -54,8 +48,8 @@ Paskui Smolenske kilo didelis maištas, smolenskiečiai sučiupo Smolensko marš
     gaikščio savo vaivada, kadangi ne jie patys, o prastieji
     žmonės buvo jį išrinkę vaivada.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

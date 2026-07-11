@@ -30,12 +30,6 @@ Ir didysis kunigaikštis Vytautas paskyrė jiems vietininku savo svainį, kuniga
 - t-001
   global_id: t-194123
   teiginys: "Ir didysis kunigaikštis Vytautas paskyrė jiems vietininku savo svainį, kunigaikštį Si moną Alšėniškį, vadinamą Rūsčiuoju 9 ."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "181981-182714; hash=b00d095581b463725bf33fbe3a12535ad1077a55c44b1e2ec57853f4cecd2ad6; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176736
 ## Reikšmingi paminėjimai
@@ -59,8 +53,8 @@ Ir didysis kunigaikštis Vytautas paskyrė jiems vietininku savo svainį, kuniga
     devynias galybes sabalų, ir lūšių, ir kiaunių, ir lapių,
     ir šermuonėlių, ir voverių kailių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

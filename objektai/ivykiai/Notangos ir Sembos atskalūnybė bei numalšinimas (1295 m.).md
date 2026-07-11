@@ -57,16 +57,6 @@ Nenurodyta
 - t-002
   global_id: t-66800
   teiginys: "Karaliaučiaus komtūras su kariuomene grįžo iš Vonsdorfo valsčiaus sutramdyti Notangos maišto."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "593283-593932; hash=30699482889a1d00d5510e2c3ba35b3e97da1962f254fbf0fff5c350c1ae3ed7; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Notanga: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Notangos ir Sembos atskalūnybė bei numalšinimas (1295 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Notanga: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Notangos ir Sembos atskalūnybė bei numalšinimas (1295 m.)\" parinktas kaip owner_note_path. Targetas \"Notanga\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-66927
 
@@ -74,20 +64,6 @@ Nenurodyta
 - t-001
   global_id: t-66801
   teiginys: "1295 m. notangai vėl sukilo, savo kariuomenės vadu išsirinko Sabiną ir Bartenšteino pilyje paėmė į nelaisvę du brolius su jų šeimyna."
-  semantiniai_rysiai: "Notangai puolė Bartenšteinas (0.82)"
-  temporaliniai_duomenys: "įvykio data: 1295 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalintas įterptas komentaras ir OCR triukšmas; sakinys remiasi citatos pasakojimu apie atskalūnybę."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "591453-593098; hash=943f4d3c3031cd502199973df4e868f938f44acb18bd7681a862c00ae09c2b0b; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Bartenšteinas: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Notangai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Bartenšteinas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai sieja notangų atskalūnybės dalyvius su įsibrovimu į Bartenšteino pilį."
   pagrindžia:
     - c-66929
 
@@ -95,16 +71,6 @@ Nenurodyta
 - t-003
   global_id: t-66802
   teiginys: "Sembos valstiečiai susimokė išžudyti savo kilminguosius ir karvedžiu išsirinko Naudžiotą, Juodučio sūnų."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "593933-594730; hash=7cf8c5f0979b561192534a2155800eb8031c74f1fd42937e5870dd7cee0e9454; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Semba: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Notangos ir Sembos atskalūnybė bei numalšinimas (1295 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Semba: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Notangos ir Sembos atskalūnybė bei numalšinimas (1295 m.)\" parinktas kaip owner_note_path. Targetas \"Semba\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-66928
 ## Reikšmingi paminėjimai
@@ -122,8 +88,8 @@ Nenurodyta
     Karaliaučiaus broliams arklius, įsipareigodami ištikimai laikytis brolių bei tikėjimo. Kiti
     sugrąžino belaisvius,  ir šitaip Notangos žemėje įsiviešpatavo ramybė.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -144,8 +110,8 @@ Nenurodyta
     įsakė visus, kurie turėjo šiokio tokio ryšio su tuo šlykščių nusižengimu, teisingojo dievo
     nuosprendžiu visaip iškankintus nužudyti, ir šitaip krikščionims buvo sugrąžinta taika.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -179,8 +145,8 @@ Nenurodyta
     Libencelės su visa jų šeimyna. Tuo tarpu Misinas su Sklunijos valsčiaus547 vyrais pagrobė
     Karaliaučiaus brolių arklius.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -191,7 +157,8 @@ Nenurodyta
 - id: c-66927
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 189"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 189."
   citata_originali: |
     Tačiau dievas, kuris neleidžia, kad juo įtikėjusios
     tautos drebėtų iš baimės ir, gailestingai teikdamas taiką, saugo krikščionių žemes nuo
@@ -211,7 +178,8 @@ Nenurodyta
 - id: c-66928
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 189"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 189."
   citata_originali: |
     Vis dėlto, kai
     Karaliaučiaus komtūras sugrįžo, kaip jau esame sakę, su savo kariuomene, sembai,
@@ -233,7 +201,8 @@ Nenurodyta
 - id: c-66929
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 188-189"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 188-189."
   citata_originali: |
     Apie penktąją atskalūnybę ir apie bausmę už ją
 

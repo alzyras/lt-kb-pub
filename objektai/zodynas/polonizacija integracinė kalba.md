@@ -35,16 +35,6 @@ Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų ž
 - t-001
   global_id: t-22248
   teiginys: "Lenkų kalba LDK tapo bajorijos integracine kalba ir Vakarų kultūros sklaidos rusėnų žemėse priemone."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "142332-142712; hash=a4aa480329d1c6194fcb0f690eb7d08b9b8e2ad591b9229f537b419568efb9e7; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Rusėnai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "polonizacija integracinė kalba: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Rusėnai: mention_match, group, gap=71"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"polonizacija integracinė kalba\" parinktas kaip owner_note_path. Targetas \"Rusėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-24937
 
@@ -52,18 +42,6 @@ Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų ž
 - t-002
   global_id: t-22249
   teiginys: "Lenkų kalba Lietuvos bajorų reikalavimu Seime įteisinta kaip oficiali raštinių kalba vietoje rusėnų raštų kalbos."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "143349-143587; hash=f9e2a0fc844d042903c047ec27c6d9a8744dc2c771d9a5ff5bc19b2c1a8562be; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Bajorai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "polonizacija integracinė kalba: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Bajorai: mention_match, group, gap=15"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"polonizacija integracinė kalba\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-24938
 
@@ -71,16 +49,6 @@ Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų ž
 - t-003
   global_id: t-22250
   teiginys: "Vyriausybei leidus steigti 70 lenkiškų mokyklų, kaltinimai polonizacija buvo siejami su pavojumi tautai dėl įtemptų Lietuvos ir Lenkijos santykių."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "313514-313749; hash=0f7c182d76ade09430f3a864d020dc439e69202464bbd2b6465d7377e6a09b5b; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "polonizacija integracinė kalba: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=69"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"polonizacija integracinė kalba\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-24939
 ## Reikšmingi paminėjimai
@@ -95,8 +63,8 @@ Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų ž
     tapusi LDK bajorijos integracine kalba ir Vakarų kultūros sklaidos rusėnų
     žemėse priemone.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -111,8 +79,8 @@ Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų ž
     buvo įteisinta pačių Lietuvos bajorų reikalavimu, tai buvo Lietuvos visuo-
     menės pasirinkimas, o ne polonizacija.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -126,8 +94,8 @@ Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų ž
     70 lenkiškų mokyklų, o tai, esant įtemptiems Lietuvos ir Lenkijos santy-
     kiams, įvertinta kaip pavojus visai tautai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

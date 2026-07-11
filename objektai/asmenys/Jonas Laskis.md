@@ -35,17 +35,6 @@ Jį lydėjo karalienė Elena, Vilniaus vyskupas Vaitiekus Taboras, Jonas Zabžez
 - t-001
   global_id: t-87725
   teiginys: "Karalystės kancleris Jonas Laskis lydėjo į Vilnių lektikoje gabenamą paliegusį karalių Aleksandrą."
-  semantiniai_rysiai: "Jonas Laskis keliavo į Vilnius (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "475138-475562; hash=9c8a162056336f560d6de80e5746197e32ba48304b8cd4c06975fb007c390801; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Vilnius: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jonas Laskis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Claim tiesiogiai sako, kad Jonas Laskis lydėjo karalių į Vilnių."
   pagrindžia:
     - c-83704
 - susijęs iš [[objektai/asmenys/Vaitiekus Taboras.md#claim-t-87411|Vaitiekus Taboras (vyskupas, XV–XVI a.)]]: Į Vilnių nugabentą Aleksandrą lydėjo karalienė Elena, Vilniaus vyskupas Vaitiekus Taboras, Jonas Zabžezinskis ir Jonas Laskis.
@@ -67,8 +56,8 @@ Jį lydėjo karalienė Elena, Vilniaus vyskupas Vaitiekus Taboras, Jonas Zabžez
     Laskis. O totoriai, ties Kłecku įsirengę košą, arba stovyklą,
     nemažą būrį pasiuntė į Naugarduką.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

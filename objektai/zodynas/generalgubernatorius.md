@@ -42,19 +42,6 @@ Jį valdė Vilniaus generalgubernatorius.
 - t-003
   global_id: t-45820
   teiginys: "Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstesnio sukilimo slopinimo patirties, gavęs caro įgaliojimus, ėmėsi demonstratyvaus žiaurumo ir teroro priemonių."
-  temporaliniai_duomenys: "įvykio data: 1861 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys turi aiškų subjektą, veiksmą ir yra tiesiogiai pagrįstas citata."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "204435-205028; hash=b67187d614df5e53995a6ab960404126c053a10afb4c6165275e066b3d9b0949; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Anglija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "generalgubernatorius: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Anglija: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"generalgubernatorius\" parinktas kaip owner_note_path. Targetas \"Anglija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-48499
 
@@ -62,9 +49,6 @@ Jį valdė Vilniaus generalgubernatorius.
 - t-002
   global_id: t-45822
   teiginys: "Imperijos sostinių ir pakraščių regionuose tarp centro valdžios ir gubernijų dar veikė tarpinė grandis – generalgubernatoriaus institucija."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "184680-184966; hash=843beb63e5a7e86e69ce470158bd62811ec0492ad6eb8d2d8180320b7b0a175f; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-48497
 
@@ -72,19 +56,6 @@ Jį valdė Vilniaus generalgubernatorius.
 - t-003
   global_id: t-182947
   teiginys: "Rusijos šiaurės vakarų kraštą valdė Vilniaus generalgubernatorius."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "892510-892740; hash=040772d0c5091146b71d3726b4cb22263d7aecd6fdd26ed8a383ee5cf35e0bdc; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Anglija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "generalgubernatorius: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Anglija: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"generalgubernatorius\" parinktas kaip owner_note_path. Targetas \"Anglija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-46900
 
@@ -92,19 +63,6 @@ Jį valdė Vilniaus generalgubernatorius.
 - t-005
   global_id: t-183425
   teiginys: "Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstesnio sukilimo slopinimo patirties, gavęs caro įgaliojimus, ėmėsi demonstratyvaus žiaurumo ir teroro priemonių."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "892510-892740; hash=040772d0c5091146b71d3726b4cb22263d7aecd6fdd26ed8a383ee5cf35e0bdc; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Anglija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "generalgubernatorius: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Anglija: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"generalgubernatorius\" parinktas kaip owner_note_path. Targetas \"Anglija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-166819
 - susijęs iš [[objektai/asmenys/Michailas Muravjovas-Korikas.md#claim-t-87779|Michailas Muravjovas-Korikas]]: Michailas Muravjovas-Korikas po 1863 m. sukilimo buvo naujai paskirtas Vilniaus generalgubernatorius ir vykdė represijas krašte.
@@ -131,8 +89,8 @@ Jį valdė Vilniaus generalgubernatorius.
     šiaurės vakarų kraštu. Jį valdė Vilniaus generalgu-
     bernatorius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -147,8 +105,8 @@ Jį valdė Vilniaus generalgubernatorius.
     ralgubernatorius kontroliavo kelių gubernijų administraciją. Jam pavaldi
     buvo ir šiose gubernijose dislokuota kariuomenė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -167,8 +125,8 @@ Jį valdė Vilniaus generalgubernatorius.
     vykdyti be jokio derinimo su dvarininkais, kaip buvo numatyta 1861 m.
     įstatymų aktuose.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -186,8 +144,8 @@ Jį valdė Vilniaus generalgubernatorius.
     vas, turėjęs ankstesnio sukilimo slopinimo patirties, gavęs caro įgalioji-
     mus, ėmėsi demonstratyvaus žiaurumo ir teroro priemonių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

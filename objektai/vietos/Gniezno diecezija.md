@@ -35,17 +35,6 @@ Karalius tuoj pat aprūpino ją nemenkomis pajamomis: be turtingos Klodovo klebo
 - t-001
   global_id: t-86185
   teiginys: "Vilniaus katedrai skirtų pajamų dalimi buvo turtinga Klodovo klebonija Gniezno diecezijoje."
-  semantiniai_rysiai: "Klodovas priklausė Gniezno diecezija (0.80)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "242726-243574; hash=ba3145fcabbeaf8ad8b097e8c251783b20e5e8c7ee8aa9fa75b1e098fdaf3e85; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Gniezno diecezija: 0.80"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Klodovas: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Gniezno diecezija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Klodovas lokalizuojamas Gniezno diecezijoje."
   pagrindžia:
     - c-82164
 ## Reikšmingi paminėjimai
@@ -81,8 +70,8 @@ Karalius tuoj pat aprūpino ją nemenkomis pajamomis: be turtingos Klodovo klebo
     Drohičino, Brastos ir Dubno pavietuose, su įvairiais ten ren­
     kamais mokesčiais, dosniai aprūpino Vilniaus katedrą10.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -127,6 +116,3 @@ Karalius tuoj pat aprūpino ją nemenkomis pajamomis: be turtingos Klodovo klebo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86185
-
-## Ryšiai
-- Turėjo priklausinį: [[objektai/vietos/Klodovas]]

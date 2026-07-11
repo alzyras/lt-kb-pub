@@ -40,19 +40,6 @@ Biržiška iš jos pasitraukė.
 - t-001
   global_id: t-25694
   teiginys: "Mykolas Biržiška 1917 m. priklausė Vilniaus konferencijos organizaciniam komitetui."
-  temporaliniai_duomenys: "priklausymo laikotarpis: 1917 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „priklausymo laikotarpis“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūksta OCR fragmente, bet citata pakankamai palaiko Biržiškos narystę komitete."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "258721-259330; hash=acfc7bebc8f5ddf4654964dfd4a0822eb2a21927c5cee4462a4eee240d12717d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mykolas Biržiška: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=35"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mykolas Biržiška\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-26060
 ## Reikšmingi paminėjimai
@@ -72,8 +59,8 @@ Biržiška iš jos pasitraukė.
     iš kiekvienos apskrities po 5–8 aktyviausius įvairių socialinių ir politinių
     grupių atstovus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

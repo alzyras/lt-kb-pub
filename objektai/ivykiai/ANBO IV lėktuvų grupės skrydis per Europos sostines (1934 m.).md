@@ -56,22 +56,6 @@ Nenurodyta
 - t-001
   global_id: t-20158
   teiginys: "Antanas Gustaitis sukonstravo ANBO lėktuvų seriją, kurios pavadinimas kilo iš sakinio „Antanas nori būti ore“ žodžių pirmųjų raidžių."
-  semantiniai_rysiai: "Antanas Gustaitis pastatė Lėktuvai (0.92)"
-  temporaliniai_duomenys: "įvykio data: po 1934 m.; įvykio data: 1934 m.; įvykio data: 1935 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pagrindžia faktą apie ANBO lėktuvų seriją, bet sakinį verta suformuluoti sklandžiau."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "351721-352146; hash=a59cbaf031442ea1b58a76976eaac1a1193c98ea9ce88cbb063e11d9477e3b9d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "pastate -> Lėktuvai: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Antanas Gustaitis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lėktuvai: llm_allowed_candidate, thing"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Antanas Gustaitis sukonstravo lėktuvų seriją."
-  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-22899
 ## Reikšmingi paminėjimai
@@ -88,8 +72,8 @@ Nenurodyta
     tuvų ir pavadino juos ANBO (iš sakinio „Antanas nori būti ore“ žodžių
     pirmųjų raidžių).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

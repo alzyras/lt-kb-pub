@@ -55,19 +55,6 @@ Nenurodyta
 - t-001
   global_id: t-86911
   teiginys: "1380 m. Jogaila Rygoje sudarė paliaubas su Livonijos magistru, apeidamas Kęstutį ir jo Žemaitijos kunigaikštystę."
-  temporaliniai_duomenys: "įvykio data: 1380 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pagrindžia paliaubas, vietą ir politinę aplinkybę."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "97609-98137; hash=36fc3bcb6fffa06ac0cbabe353f01bca015929f3687dfb38f433ad31f4d7985e; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jogailos paliaubos su Livonijos magistru Rygoje (1380 m. kovo 26 d.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): mention_match, person, gap=65"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jogailos paliaubos su Livonijos magistru Rygoje (1380 m. kovo 26 d.)\" parinktas kaip owner_note_path. Targetas \"Kęstutis (vakarų pasienio valdovas, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-82890
 ## Reikšmingi paminėjimai
@@ -86,8 +73,8 @@ Nenurodyta
     driaus Algirdaičio vietoje į Polocko kunigaikštystę pasiuntė
     tikrą brolį Skirgailą, buvo prieita iki atviro susirėmimo30.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -44,20 +44,6 @@ media_all_json: |-
 - t-002
   global_id: t-80702
   teiginys: "1362 m. Kauno pilies žygiui vadovavo didysis Ordino magistras Vinrichas fon Kniprodė."
-  semantiniai_rysiai: "Vinrichas fon Kniprodė surengė žygį į Kaunas (0.86); Kryžiuočių ordinas užėmė Kaunas (0.80)"
-  temporaliniai_duomenys: "įvykio data: 1362 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškus ir tiesiogiai paremtas citata apie žygio vadovą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "167249-167944; hash=2b14305a3ba3ca369c79e0519c6094b3a1917b573e7f14837aedcd1165316d4c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "surenge_zygi_i -> Kaunas: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vinrichas fon Kniprodė: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kaunas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Vinrichas fon Kniprodė vadovavo Kauno pilies žygiui."
   pagrindžia:
     - c-42305
 ## Reikšmingi paminėjimai
@@ -72,8 +58,8 @@ media_all_json: |-
     mėnesį. Pilis galop buvo užimta 1362 metų kovą, verbų sekmadienį. Lietuvoje daugiau nebuvo pilies, kuri sugebėtų visą mėnesį priešintis iš pusės Europos
     sutelktam Kryžiuočių ordinui. Po pergalės kryžiuočiai pilį sulygino su žeme.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -97,6 +83,3 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-80702
-
-## Ryšiai
-- Vinrichas fon Kniprodė surengė žygį į [[objektai/vietos/Kaunas]]

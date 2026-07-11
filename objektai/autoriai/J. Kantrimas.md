@@ -41,11 +41,6 @@ Kan­ trimas, J. (= Jonikas, P.) : Baltų kalbos ir tautos, Aidai, nr. 6, 1947, 
 - t-001
   global_id: t-30682
   teiginys: "J. Kantrimas, tapatinamas su P. Joniku, 1947 m. „Aiduose“ paskelbė straipsnį „Baltų kalbos ir tautos“."
-  temporaliniai_duomenys: "įvykio data: 1947 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "359838-360275; hash=b4a0af8b49cef64eab53e514e6c30a1d106694ebaba519b926398d86e204f23f; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-32969
 ## Reikšmingi paminėjimai
@@ -61,8 +56,8 @@ Kan­ trimas, J. (= Jonikas, P.) : Baltų kalbos ir tautos, Aidai, nr. 6, 1947, 
     trimas, J. (= Jonikas, P.) : _Baltų kalbos ir tautos,_ Aidai, nr. 6, 1947,
     263-267 p. -— Kiparsky, V. : _Kurenfrage,_ 1939.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

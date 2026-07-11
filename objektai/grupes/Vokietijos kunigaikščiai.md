@@ -40,18 +40,6 @@ Vokietijos kunigaikščiai galėjo paremti ordiną.
 - t-001
   global_id: t-31373
   teiginys: "Vokietijos kunigaikščiai galėjo paremti ordiną."
-  temporaliniai_duomenys: "įvykio data: 1410 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "936439-936685; hash=029973177a8ebd4c079e7e96c275bebe0e2d5a747a4447c1b76a0efc12235a91; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vokietijos kunigaikščiai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=40"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vokietijos kunigaikščiai\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-33366
 ## Reikšmingi paminėjimai
@@ -66,8 +54,8 @@ Vokietijos kunigaikščiai galėjo paremti ordiną.
     Torno taika ordino ir Lenkijos santykiuose vėl įgalino kryžiuo­
     čiams naudingus Raciąžo susitarimus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

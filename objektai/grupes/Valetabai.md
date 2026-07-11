@@ -30,19 +30,6 @@ Taip pat neabejotina, kad senovės valetabai ir lužitėnai, šiandienės Lužic
 - t-001
   global_id: t-193000
   teiginys: "Taip pat neabejotina, kad senovės valetabai ir lužitėnai, šiandienės Lužicos gyventojai, iš dalies buvo lie tuvių kartos."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "586357-586691; hash=e1e7813f8b5929bea2f32c65e2e13f9fb23afcf6435aae54c860ed7a98e6b99d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Herulai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Valetabai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Herulai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Valetabai\" parinktas kaip owner_note_path. Targetas \"Herulai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-175770
 - susijęs iš [[objektai/grupes/Lužitėnai.md#claim-t-192997|Lužitėnai]]: Teodoro Narbuto teigimu, senovės valetabai ir lužitėnai, jo laikų Lužicos gyventojai, iš dalies buvo lietuvių kilmės.
@@ -59,8 +46,8 @@ Taip pat neabejotina, kad senovės valetabai ir lužitėnai, šiandienės Lužic
     kažkada užklydusios iš tikrosios Lietuvos sričių, ar gavo
     pradžią nuo iš Italijos atvykusių herulų?
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -71,7 +58,8 @@ Taip pat neabejotina, kad senovės valetabai ir lužitėnai, šiandienės Lužic
 - id: c-175770
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 327"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 327."
   citata_originali: |
     Šiai sąjungai priklausė vėlinai, brėžanai, stodorėnai, he­
     rulai. Taip pat neabejotina, kad senovės valetabai ir lu-

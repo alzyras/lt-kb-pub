@@ -51,17 +51,6 @@ Nenurodyta
 - t-001
   global_id: t-62443
   teiginys: "Magistras Poponas pastatė Poterbergo pilį kalvoje tarp Kulmo miesto ir senosios pilies, kad apsisaugotų nuo Sventopelko veiksmų."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "307755-308299; hash=b55c56825ace78765b75b4cb8f0532bf9b0b93fcb177962ce9c728b637f1ad51; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kulmas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Poterbergo pilies pastatymas (pilis): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Kulmas: mention_match, place, gap=29"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Poterbergo pilies pastatymas (pilis)\" parinktas kaip owner_note_path. Targetas \"Kulmas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-63077
 
@@ -69,17 +58,6 @@ Nenurodyta
 - t-001
   global_id: t-62443
   teiginys: "Magistras Poponas pastatė Poterbergo pilį kalvoje tarp Kulmo miesto ir senosios pilies, kad apsisaugotų nuo Sventopelko veiksmų."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "307755-308299; hash=b55c56825ace78765b75b4cb8f0532bf9b0b93fcb177962ce9c728b637f1ad51; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kulmas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Poterbergo pilies pastatymas (pilis): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Kulmas: mention_match, place, gap=29"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Poterbergo pilies pastatymas (pilis)\" parinktas kaip owner_note_path. Targetas \"Kulmas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-63077
 
@@ -87,12 +65,6 @@ Nenurodyta
 - t-003
   global_id: t-194418
   teiginys: "Apie Poterbergo pilies pastatymą Brolis Poponas, magistras, matydamas, kaip sumaniai minėtasis kunigaikštis tai vienur, tai kitur tvirtina pilis, ir norėdamas apsisaugoti nuo būsimų pavojų, kalvoje tarp dabartinio Kulmo miesto ir senosios pilies pastatė."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "307755-308299; hash=b55c56825ace78765b75b4cb8f0532bf9b0b93fcb177962ce9c728b637f1ad51; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-63077
 ## Reikšmingi paminėjimai
@@ -114,8 +86,8 @@ Nenurodyta
 
                         48(47).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -128,7 +100,8 @@ Nenurodyta
 - id: c-63077
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 93"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 93."
   citata_originali: |
     Apie Poterbergo pilies pastatymą
 

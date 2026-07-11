@@ -44,20 +44,6 @@ Dusburgietis teigia, kad apie pilies pastatymą Karšuvoje ant švento Jurgio ka
 - t-002
   global_id: t-60094
   teiginys: "Burchardas iš Hornhauzeno žuvo Durbės kautynėse Kuršo žemėje per palaimintos Margaritos dieną, liepos 13-ąją."
-  semantiniai_rysiai: "Burchardas iš Hornhauzeno mirė Durbė (0.92); Burchardas iš Hornhauzeno mirė Kuršas (0.90)"
-  temporaliniai_duomenys: "įvykio data: 1219 m.; įvykio data: 1238 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, faktinis ir paremtas citatos informacija apie žūtį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "367822-369026; hash=68a59d75051aba50972e7fbe5805543ac0be2878283c2740c0b81c4531a87689; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "mire -> Durbė: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Burchardas iš Hornhauzeno: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Durbė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Burchardas žuvo kautynėse lauke prie Durbės."
   pagrindžia:
     - c-60726
 
@@ -65,20 +51,6 @@ Dusburgietis teigia, kad apie pilies pastatymą Karšuvoje ant švento Jurgio ka
 - t-001
   global_id: t-60095
   teiginys: "Burchardas iš Hornhauzeno, būdamas Livonijos magistru, patvarkė 1259 m. pastatyti pilį Karšuvoje ant Šv. Jurgio kalno."
-  semantiniai_rysiai: "Burchardas iš Hornhauzeno pastatė Karšuva (0.74)"
-  temporaliniai_duomenys: "pastatymo data: 1259 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys tiksliai nusako Burchardo pareigas ir jo patvarkymą statyti pilį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "363746-364469; hash=1f886337f9e0e3a2bc1026484d1cbe434d88cd269e626a80b1e0b2abde3b267e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "pastate -> Karšuva: 0.74"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Burchardas iš Hornhauzeno: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Karšuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas sako, kad jo patvarkymu Karšuvoje buvo pastatyta pilis; konkretaus pilies objekto nėra, todėl naudojama vieta."
   pagrindžia:
     - c-60727
 
@@ -86,20 +58,6 @@ Dusburgietis teigia, kad apie pilies pastatymą Karšuvoje ant švento Jurgio ka
 - t-001
   global_id: t-60095
   teiginys: "Burchardas iš Hornhauzeno, būdamas Livonijos magistru, patvarkė 1259 m. pastatyti pilį Karšuvoje ant Šv. Jurgio kalno."
-  semantiniai_rysiai: "Burchardas iš Hornhauzeno pastatė Karšuva (0.74)"
-  temporaliniai_duomenys: "pastatymo data: 1259 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys tiksliai nusako Burchardo pareigas ir jo patvarkymą statyti pilį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "363746-364469; hash=1f886337f9e0e3a2bc1026484d1cbe434d88cd269e626a80b1e0b2abde3b267e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "pastate -> Karšuva: 0.74"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Burchardas iš Hornhauzeno: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Karšuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas sako, kad jo patvarkymu Karšuvoje buvo pastatyta pilis; konkretaus pilies objekto nėra, todėl naudojama vieta."
   pagrindžia:
     - c-60727
 
@@ -107,12 +65,6 @@ Dusburgietis teigia, kad apie pilies pastatymą Karšuvoje ant švento Jurgio ka
 - t-004
   global_id: t-194477
   teiginys: "Apie pilies pastatymą Karšuvoje ant švento Jurgio kalno Tuo metu Livonijos žemės magistru buvo brolis Burchardas iš Hornhauzeno, nusiųstas ten Livonijos broliams iš Prūsijos žemės kaip magistras."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "363746-364469; hash=1f886337f9e0e3a2bc1026484d1cbe434d88cd269e626a80b1e0b2abde3b267e; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-60727
 - susijęs iš [[objektai/ivykiai/Pilies ant švento Jurgio kalno Karšuvoje pastatymas (1259 m.).md#claim-t-62896|Pilies ant švento Jurgio kalno Karšuvoje pastatymas (1259 m.)]]: 1259 m. Burchardas iš Hornhauzeno patvarkė pastatyti pilį Karšuvoje ant švento Jurgio kalno.
@@ -148,8 +100,8 @@ Dusburgietis teigia, kad apie pilies pastatymą Karšuvoje ant švento Jurgio ka
     maršalas, su jais 150 brolių352, o dievo žmonių tokia daugybė, kad nesu nė girdėjęs jų
     skaičiaus.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -169,8 +121,8 @@ Dusburgietis teigia, kad apie pilies pastatymą Karšuvoje ant švento Jurgio ka
     saugoti ten buvo palikta Prūsijos ir Livonijos brolių bei ginklanešių įgula, sudaryta iš
     vyrų, tinkamai parinktų ir įgudusių kovoti.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -183,7 +135,8 @@ Dusburgietis teigia, kad apie pilies pastatymą Karšuvoje ant švento Jurgio ka
 - id: c-60726
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 112-113"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 112-113."
   citata_originali: |
     Ilgą laiką sėkmei
     nekrypstant nei  į vieną, nei  į kitą pusę, galop broliai, viešpačiui leidžiant, pralaimėjo,
@@ -219,7 +172,8 @@ Dusburgietis teigia, kad apie pilies pastatymą Karšuvoje ant švento Jurgio ka
 - id: c-60727
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 111"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 111."
   citata_originali: |
     Apie pilies pastatymą Karšuvoje ant švento Jurgio kalno
 
@@ -242,4 +196,3 @@ Dusburgietis teigia, kad apie pilies pastatymą Karšuvoje ant švento Jurgio ka
 
 ## Ryšiai
 - Burchardas iš Hornhauzeno mirė [[objektai/vietos/Durbė]], [[objektai/vietos/Kuršas]]
-- Burchardas iš Hornhauzeno pastatė [[objektai/vietos/Karšuva]], [[objektai/vietos/Karšuvos žemė]]

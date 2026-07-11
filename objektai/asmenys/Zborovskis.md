@@ -30,19 +30,6 @@ Kunigaikščių dukterį išsivežus Dimitrui, jos motina maldavo lenkų didikus
 - t-001
   global_id: t-186267
   teiginys: "Kunigaikščių dukterį išsivežus Dimitrui, jos motina maldavo lenkų didikus užtarti, ypač Kališo vaivadą Zborovskį."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1230852-1231408; hash=831639fd554e966590f01e44735ba9a5a3f576c7c1396f628b422bba7ea6b70a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Zborovskis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=43"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Zborovskis\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-169628
 ## Reikšmingi paminėjimai
@@ -72,8 +59,8 @@ Kunigaikščių dukterį išsivežus Dimitrui, jos motina maldavo lenkų didikus
     ir Dimitras vieną gražią dieną buvo pakviestas į kara­
     liškąjį teismą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

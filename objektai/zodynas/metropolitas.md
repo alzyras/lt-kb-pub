@@ -75,16 +75,6 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
 - t-001
   global_id: t-05451
   teiginys: "Kijevo metropolitas Teognostas priešinosi Lietuvos metropolijos išlaikymui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "673952-674221; hash=6bc3e630d59ccd23bab5a1460906b7e2b0f62c1e19310597b23f699731e2e90f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "metropolitas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=35"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"metropolitas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-91773
 
@@ -92,16 +82,6 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
 - t-003
   global_id: t-05453
   teiginys: "Algirdas ir Maskvos kunigaikštis stengėsi savo valstybėse atnaujinti arba išlaikyti arkivyskupo-metropolito sostą graikų tikėjimo gyventojams."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "727728-728046; hash=0d20cae7003da79313c4f3c8b2c658e935df186f537f1cced6b34656c6a80eca; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "metropolitas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person, gap=96"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"metropolitas\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-05583
 
@@ -109,19 +89,6 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
 - t-004
   global_id: t-05454
   teiginys: "1354 m. Konstantinopolio patriarchas paskyrė Lietuvos žemių metropolitą Romaną."
-  temporaliniai_duomenys: "įvykio data: 1354 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "728810-729007; hash=3b7e15c4e00c1c2a11bb0266eb13039c08479f35452eb4644f6ba28270993550; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gediminas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "metropolitas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Gediminas: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"metropolitas\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-05584
 
@@ -129,16 +96,6 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
 - t-005
   global_id: t-05455
   teiginys: "Lietuvos stačiatikių žemės vėl buvo pajungtos visos Rusijos metropolitui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "728886-729303; hash=a9b9f486fec028bcc0e8980d080ebd422becf9cbac8b901df42467cedf28672b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "metropolitas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"metropolitas\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-05585
 
@@ -146,18 +103,6 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
 - t-006
   global_id: t-05456
   teiginys: "1375 m. Lietuvos stačiatikių metropolitu buvo paskirtas Kiprijonas."
-  temporaliniai_duomenys: "įvykio data: 1375 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "729304-729657; hash=8f9eee14ab39df73f9f469e77d85309ef9849f0466ac58e21ea76a3a04ee16e7; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "metropolitas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"metropolitas\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-05586
 
@@ -165,19 +110,6 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
 - t-008
   global_id: t-97284
   teiginys: "Algirdas ir Maskvos kunigaikštis stengėsi savo valstybėse atnaujinti arba išlaikyti arkivyskupo-metropolito sostą graikų tikėjimo gyventojams."
-  temporaliniai_duomenys: "valdymo laikotarpis: 1432 m.; valdymo laikotarpis: 1435 m.; valdymo laikotarpis: apie 1435 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Algirdas (Lietuvos valdovas) buvo valdovas Maskva“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Perrašyta be kontekstinio fragmento ir su aiškesne gramatine sandara."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "520286-520584; hash=f29cdc0c44befa15702a5c498ada1da247913f7daa873fb5afdda84f2b20631f; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "metropolitas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person, gap=96"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"metropolitas\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-91772
 
@@ -185,16 +117,6 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
 - t-007
   global_id: t-97285
   teiginys: "Gediminui nepavyko išlaikyti Lietuvos metropolijos dėl Maskvos žemėse gyvenusio Kijevo metropolito Teognosto priešiškumo."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "673952-674221; hash=6bc3e630d59ccd23bab5a1460906b7e2b0f62c1e19310597b23f699731e2e90f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gediminas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "metropolitas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=87"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"metropolitas\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-91773
 
@@ -202,21 +124,6 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
 - t-009
   global_id: t-184630
   teiginys: "Sudarius taikos sąlygas, Dimitrijus, metropolitu vadintas vyriausiasis šventikas, viečė ir žymiausieji bajorai prisiekė."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "390502-391028; hash=9897c5ea7ef771ffce0ecccac4beb80d8130b3c296f28b2cbd28ff7c5be5cafc; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Bajorai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "metropolitas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Bajorai: mention_match, group, gap=66"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"metropolitas\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-17T07:18:43Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-167991
 
@@ -224,25 +131,6 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
 - t-009
   global_id: t-187523
   teiginys: "Lietuvos metraščio pastaboje Gerasimas 1432 m. Švitrigailos pasiūlymu Konstantinopolyje įšventintas LDK, Maskvos ir kitų rusų žemių metropolitu."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Gerasimas gimė Maskva (0.86); Gerasimas gyveno Smolenskas (0.70)"
-  temporaliniai_duomenys: "įvykio data: 1432 m.; įvykio data: 1435 m.; įvykio data: apie 1435 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
-  temporalinis_llm_pakomentavimas: "Metropolito titulas ir politinis kontekstas palikti su šaltinio pastabos atribucija. Nepridėta biografinių detalių apie ankstesnes Gerasimo pareigas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "520286-520584; hash=f29cdc0c44befa15702a5c498ada1da247913f7daa873fb5afdda84f2b20631f; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gime -> Maskva: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gerasimas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Maskva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Formuluotė „iš Maskvos kilęs“ tiesiogiai nurodo Gerasimo kilmės vietą."
-  vertinimo_atnaujinta: "2026-06-17T07:18:43Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-170474
 - susijęs iš [[objektai/asmenys/Ciprijonas.md#claim-t-35044|Ciprijonas]]: Ciprijonas buvo bulgaras ir atskiras Kijevo metropolitas Lietuvai, vėliau Maskvoje suvienijęs Rusijos ir Lietuvos stačiatikius.
@@ -327,8 +215,8 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
     valstybės ribose arkivyskupo-metropolito sostą graikų tikėjimo
     gyventojams.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -342,8 +230,8 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
     tinopolio patriarchas paskyrė atskirą Lietuvos valstybei priklau­
     sančių žemių metropolitą — arkivyskupą Romaną.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -361,8 +249,8 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
     gelio pastangų Algirdui vėl pavyko Konstantinopolio patriarchą
     Filotėją įtikinti Lietuvos ortodoksų labui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -378,8 +266,8 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
     gyveno didžiojoje Lietuvos kunigaikštijoje, Kijevą pasirinkdamas
     sostine. Bet Algirdo pasiektas laimėjimas ilgesnį laiką nepatvėrė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -398,8 +286,8 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
     Rusios metropolitas savo sostinę iš Kijevo, esančio nuolatinių totorių
     puolimų pavojuose, 1300 m. perkėlė į šiaurinės Rusios Vladimirą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -415,8 +303,8 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
     metropolito Teognosto. Šio intrygų ir sudarytų kliūčių siūlai vedė
     į Maskvą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -444,8 +332,8 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
     altorių (,,Tad jau supratai, Dimitrijau, katras iš mu­
     dviejų greičiau pakyla į karą"), velykiniu kiaušiniu.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -461,8 +349,8 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
     Švitrigailos pasiūlymu ¡šventintas Konstantinopolyje LDK ir Mask­
     vos Didžiosios Kunigaikštystės bei kitų rusų žemių metropolitu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -588,7 +476,8 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
 - id: c-167991
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 224"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 224."
   citata_originali: |
     Dimitrijus sumokėsiąs ka­
     reiviams algą, o vadui — karo išlaidas. Abiejų tautų
@@ -616,7 +505,8 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
 - id: c-170474
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 271"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 271."
   citata_originali: |
     ”  „O  trečių vasarų" — kalbama apie 1435 m
     w Geraslmas — iš Maskvos kilęs LDK stačiatikių veikėjos. Bu­

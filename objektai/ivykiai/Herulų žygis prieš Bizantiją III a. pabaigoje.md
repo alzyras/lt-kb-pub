@@ -42,22 +42,6 @@ Nenurodyta
 - t-001
   global_id: t-191031
   teiginys: "Narbuto pasakojimu, III a. pabaigoje herulai surengė žygį prieš Bizantiją su trijų šimtų ginkluotų jūros laivų laivynu."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Herulai puolė Bizantija (0.88)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "541172-541566; hash=38cd452907ca18b0e42f5246d7e17ed69a820de7f9d80e32b70ec6ab43a79d7d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Bizantija: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Herulai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Bizantija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Claim_text tiesiogiai nurodo herulų žygį prieš Bizantiją."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173913
 ## Reikšmingi paminėjimai
@@ -79,8 +63,8 @@ Nenurodyta
     trys šimtai ginkluotų jūros laivų, kuriuose buvo iš gim­
     tosios žemės Vakaruose atvykę kariai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

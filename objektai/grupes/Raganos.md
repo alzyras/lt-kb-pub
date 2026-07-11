@@ -30,21 +30,6 @@ Narbutas rašo, kad prietaringi Šiaurės Lietuvos ir Latvijos kaimiečiai ragan
 - t-001
   global_id: t-189499
   teiginys: "Narbutas rašo, kad prietaringi Šiaurės Lietuvos ir Latvijos kaimiečiai raganomis vadino kerėtojas, galinčias virsti katėmis ar šarkomis ir skraidyti ant ožio."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "266427-266846; hash=3bacd3c8870992841f83234ea982f23fdbe5060f2d2aa524aebf7760ef24ccb1; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Ragana: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Raganos: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Ragana: mention_match, thing, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Raganos\" parinktas kaip owner_note_path. Targetas \"Ragana\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172387
 - susijęs iš [[objektai/grupes/Burtininkės ir raganos.md#claim-t-189470|Burtininkės ir raganos]]: Narbutas, remdamasis Čackiu, teigė, kad XVI amžiuje daugiausia raganų būdavo randama Lietuvoje.
@@ -64,8 +49,8 @@ Narbutas rašo, kad prietaringi Šiaurės Lietuvos ir Latvijos kaimiečiai ragan
     balsu, tad valstiečiai sako, kad ragana skrendanti raita ant ožio
     ir kankinanti jį savo pentinais, todėl tas bliaunąs.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -76,7 +61,8 @@ Narbutas rašo, kad prietaringi Šiaurės Lietuvos ir Latvijos kaimiečiai ragan
 - id: c-172387
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 153"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 153."
   citata_originali: |
     Šios deivės yra tikra antikinių hamadriadžių kopija.
     Prietaringi kaimiečiai, ypač šiaurės Lietuvoje ir Latvijoje,
@@ -91,6 +77,3 @@ Narbutas rašo, kad prietaringi Šiaurės Lietuvos ir Latvijos kaimiečiai ragan
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189499
-
-## Ryšiai
-- Raganos gyveno [[objektai/vietos/Lietuva]]

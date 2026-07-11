@@ -42,18 +42,6 @@ media_all_json: |-
 - t-001
   global_id: t-193057
   teiginys: "Schützo Prūsijos kronika minima kaip šaltinis apie viduramžių riterių puotas prieš karo žygius."
-  sudarymo_pagrindimas: "Citata tik fragmentiškai, bet pakankamai nurodo Schützo kroniką prie pasakojimo apie riterių priėmimo paprotį."
-  susije_objektai: "mentioned_place: Prūsija; mentioned_place: Trakai; mentioned_place: Viena; mentioned_place: Vokietija"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "289952-290576; hash=ba3e8cb50a3318962447f49eabd175bc22c9c32dcf7ca610ea3446ef4fd52605; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Prūsija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Schützo Prūsijos kronika: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Prūsija: mention_match, place, gap=8"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Schützo Prūsijos kronika\" parinktas kaip owner_note_path. Targetas \"Prūsija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-175824
 
@@ -61,22 +49,6 @@ media_all_json: |-
 - t-002
   global_id: t-193058
   teiginys: "Narbutas, remdamasis Prūsijos kronikomis, pasakoja, kad 1247 m. Pamedėje aitvarai esą viešai rodydavosi žmonių pavidalu."
-  semantiniai_rysiai: "Kryžiuočių ordinas valdė Pamedė (0.95)"
-  temporaliniai_duomenys: "valdymo laikotarpis: 1247 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Kryžiuočių ordinas valdė Pamedė“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Legendinis-mitologinis pasakojimas paliktas su Narbuto atribucija ir modalumu „esą“. Neperimti smurtiniai epizodai, nes pakanka glausto teiginio apie kronikų motyvą."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "305107-305860; hash=cfb26682b30edd3eff87ca81edb008d84da14e74ff85f0811677402673fba15b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde -> Pamedė: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Pamedė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad kryžiuočiai valdė Pamedę."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175823
 ## Reikšmingi paminėjimai
@@ -98,8 +70,8 @@ media_all_json: |-
     įmesdavo į šulinius, skandindavo upėse, kardavo ant medžių,
     14 Stender.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -121,8 +93,8 @@ media_all_json: |-
     surengdavo puotą, kur kiekvienas 42
     pagal savo pelnvtą šlovę bei riteris- ł n k a s 7 Da wi d,T. VTT, p 246
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -133,7 +105,8 @@ media_all_json: |-
 - id: c-175823
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 177"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 177."
   citata_originali: |
     Įdomią smulkmeną apie tuos dievaičius mums paliko Prū­
     sijos kronikos . 1247 metais, kai kryžiuočiai jau valdė Pame-

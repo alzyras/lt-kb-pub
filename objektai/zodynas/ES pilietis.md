@@ -34,12 +34,6 @@ Kiek­ vienas ES pilietis turi: nevaržomo judėjimo ir apsigyvenimo ES šalių 
 - t-001
   global_id: t-193665
   teiginys: "Kiek vienas ES pilietis turi: nevaržomo judėjimo ir apsigyvenimo ES šalių narių teritorijoje teisę; teisę balsuoti ir kandidatuoti vietiniuose ir Europos rinkimuose toje šalyje, kurioje gyvena; teisę būti ginamas diplomatinių ir konsulinių kiekvienos šalies."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "536849-537335; hash=2e689cfb1efc16d20fcd6d10bb43c7ba994c469ce963f72a2ec7779f3d3669ec; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176334
 ## Reikšmingi paminėjimai
@@ -56,8 +50,8 @@ Kiek­ vienas ES pilietis turi: nevaržomo judėjimo ir apsigyvenimo ES šalių 
     konsulinių kiekvienos šalies narės įstaigų; peticijos (kolektyvinio prašy-
     mo) Europos parlamentui teisę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

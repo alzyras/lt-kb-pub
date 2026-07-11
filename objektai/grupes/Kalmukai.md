@@ -30,21 +30,6 @@ Narbutas, remdamasis Jonu Potockiu, mini kalmukų garbinimo praktiką, kurią la
 - t-001
   global_id: t-192983
   teiginys: "Narbutas, remdamasis Jonu Potockiu, mini kalmukų garbinimo praktiką, kurią laiko ne tokią ryškią kaip senovės lietuvių."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "865694-866089; hash=67e6ab4c3e6d2f05f53433066727be3f5ff8dcc3fd8adac65dd8909e04eff68f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Slavai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kalmukai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Slavai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kalmukai\" parinktas kaip owner_note_path. Targetas \"Slavai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175753
 - susijęs iš [[objektai/autoriai/Jonas Potockis.md#claim-t-190734|Jonas Potockis]]: Grafas Jonas Potockis tokį garbinimą pastebėjo pas kalmukus, o Narbutas jį laikė ne tokiu ryškiu kaip senovės lietuvių papročiuose.
@@ -62,8 +47,8 @@ Narbutas, remdamasis Jonu Potockiu, mini kalmukų garbinimo praktiką, kurią la
     lietuvius1. Senovės slavai specialiai darydavo žemas duris, kad
     ateinantysis arba išeinantysis nusilenktų slenksčiui2.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -74,7 +59,8 @@ Narbutas, remdamasis Jonu Potockiu, mini kalmukų garbinimo praktiką, kurią la
 - id: c-175753
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 475"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 475."
   citata_originali: |
     Už tokį neatsargumą jų
     krašte apaštalavę krikščionių vienuoliai būdavo mušami lazdomis

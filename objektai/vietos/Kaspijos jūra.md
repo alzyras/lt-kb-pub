@@ -30,14 +30,6 @@ media_all_json: |-
 - t-001
   global_id: t-194933
   teiginys: "Šioms tolimos senovės epo choms priskirtina ir kolchų tauta, nors ji gerokai vėliau už pelazgus atsikėlė iš Azijos gilumos į kraštus, esan čius į šiaurę nuo Kaspijos ir Juodosios jūrų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "69794-70223; hash=d2d3734c413576da70086c4532244005a3a08b55d07cd1da725f58f6fdbe3898; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-177329
 ## Reikšmingi paminėjimai
@@ -56,8 +48,8 @@ media_all_json: |-
     Dono, o į šiaurę tų kolonijų žemių ir genčių priklauso­
     mybės ribų pažymėti nėra galimybių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -68,7 +60,8 @@ media_all_json: |-
 - id: c-177329
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 41"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 41."
   citata_originali: |
     20
     Apie kolchus ir Kolchidę. Šioms tolimos senovės epo­

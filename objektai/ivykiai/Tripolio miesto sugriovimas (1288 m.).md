@@ -57,18 +57,6 @@ Nenurodyta
 - t-001
   global_id: t-62514
   teiginys: "Popiežiaus Mikalojaus IV antraisiais metais Tripolis buvo sugriautas, o ten gyvenę krikščionys paimti į nelaisvę arba nužudyti."
-  teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Krikščionys gyveno Tripolis (0.92)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "720781-721146; hash=cfe3905a4c108b140d4f2196f740cd37cbaefaa49c0df13592fb7b558c503a51; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Tripolis: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Krikščionys: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Tripolis: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad krikščionys gyveno Tripolyje."
   pagrindžia:
     - c-63193
 ## Reikšmingi paminėjimai
@@ -84,8 +72,8 @@ Nenurodyta
     Tripolis, o ten gyvenę krikščionys paimti  į nelaisvę ar nužudyti (Ptol. 24, 20; Mart. p.
     432; Mart. p. 421).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -96,7 +84,8 @@ Nenurodyta
 - id: c-63193
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 239"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 239."
   citata_originali: |
     Apie Mikalojų IV, popiežių, bei karalių Rudolfą ir apie Tripolio miesto sugriovimą
 

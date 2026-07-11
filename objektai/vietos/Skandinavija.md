@@ -34,16 +34,6 @@ Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (
 - t-001
   global_id: t-69251
   teiginys: "Protestantizmas padėjo Skandinavijai pritapti prie dinamiškosios šiaurinės Vakarų Europos dalies."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "128086-128714; hash=17290308910638ded3ae739cc0cdfaf058d13213879b61d1e6f195b7daef2471; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Europa: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Skandinavija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=59"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Skandinavija\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-68637
 - susijęs iš [[objektai/asmenys/Odinas.md#claim-t-191166|Odinas]]: Teodoro Narbuto teigimu, Plutarcho pasakojimas patvirtino padavimą apie senovės skitų dalies kelionę į Skandinaviją su Odinu priešakyje.
@@ -118,8 +108,8 @@ Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (
     pos dalies (Olandija, Anglija) ir per XVII–XVIII a. pralenkė katalikiškąją
     Vidurio Europą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -149,7 +139,3 @@ Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (
   patikimumo_saltinis: ai
   pagrindzia:
     - t-69251
-
-## Ryšiai
-- Buvo kelionės vieta: [[objektai/grupes/Gotai]], [[objektai/asmenys/Odinas]]
-- Gyvenamoji vieta: [[objektai/grupes/Gotai]]

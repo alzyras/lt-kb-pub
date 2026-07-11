@@ -36,12 +36,6 @@ Kęstučio sūnus Žygimantas.
 - t-001
   global_id: t-194168
   teiginys: "Kęstučio sūnus Žygimantas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "686995-687076; hash=5d6eefeb936ccfbb0791fc0aea83dc2d367d4f1c70aaef448f754745b1bb5b34; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176781
 ## Reikšmingi paminėjimai
@@ -53,8 +47,8 @@ Kęstučio sūnus Žygimantas.
     Šležas  P. Kęstučio sūnus Žygimantas. — Šviesos keliai, 1933.
     Nr. 7, p. 424—430.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

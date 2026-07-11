@@ -30,21 +30,6 @@ Narbutas Muratorį mini kaip išsaugojusį apaštališkajam sostui skirtą Misic
 - t-001
   global_id: t-191800
   teiginys: "Narbutas Muratorį mini kaip išsaugojusį apaštališkajam sostui skirtą Misica pasivadinusio lenkų kunigaikščio donaciją."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "398348-398657; hash=eb69ad61cc89556bcd1e9fe310f19d3a18e3323d24fe5b4d9b018736eac28f28; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Muratori Antiquitates Italicae medii aevi: owner_note_path, source"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=91"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Muratori Antiquitates Italicae medii aevi\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174682
 ## Reikšmingi paminėjimai
@@ -61,8 +46,8 @@ Narbutas Muratorį mini kaip išsaugojusį apaštališkajam sostui skirtą Misic
     Misica. Tai buvo Boleslovo Narsiojo tėvas Mečislovas,
     valdęs nuo 964 iki 999 metų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -73,7 +58,8 @@ Narbutas Muratorį mini kaip išsaugojusį apaštališkajam sostui skirtą Misic
 - id: c-174682
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 216"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 216."
   citata_originali: |
     222
     Tai paminėję, pereikime prie rašytinių liudijimų, ku­

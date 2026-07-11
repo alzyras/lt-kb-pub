@@ -54,9 +54,6 @@ Nenurodyta
 - t-002
   global_id: t-67199
   teiginys: "Seimas būdavo baigiamas atsisveikinimu su karaliumi, per kurį visi vėl bučiuodavo jam ranką."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "550861-551273; hash=e8a502420e59635b930af52f81edee527fa314a2fd692845ae749ced9da939f0; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-67211
 
@@ -64,9 +61,6 @@ Nenurodyta
 - t-003
   global_id: t-67200
   teiginys: "Seimo ceremonialas su rugomis ir karaliaus rankos bučiavimu: toliau buvo tikrinamas atstovų išrinkimo teisėtumas. Ta procedūra buvo vadinama r u g o m i s."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "550084-550286; hash=4ae56b15d89bcf0e8009dc35179b8950ca04c0b8900ed7bbbbc2d1e3a8dd5546; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-67213
 
@@ -74,9 +68,6 @@ Nenurodyta
 - t-001
   global_id: t-67201
   teiginys: "Seimo pradžioje visi bučiuodavo soste sėdinčiam karaliui ranką, o kancleris arba vicekancleris paskelbdavo karaliaus pasiūlymus."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "550287-550727; hash=73381c8d6366aba61203c6e5f3bd931c0c5b8b89f7451d0ef09f59ca5fb5cee2; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-67212
 ## Reikšmingi paminėjimai
@@ -100,8 +91,8 @@ Nenurodyta
     lium, — ir vėl visi bu-
     čiuodavo jam ranką.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -120,8 +111,8 @@ Nenurodyta
     liaus pasiūlymus, t. y. pakartodavo ir papildydavo seimeliams
     praneštus svarstyti klausimus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -135,8 +126,8 @@ Nenurodyta
     tikrinamas atstovų išrinkimo teisėtumas. Ta procedūra buvo
     vadinama r u g o m i s.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

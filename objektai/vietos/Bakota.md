@@ -35,17 +35,6 @@ Podolėje Karijotaičiai ėmė įvesti tvarką, statyti pilis (Kamieniecą, Smot
 - t-001
   global_id: t-32073
   teiginys: "Karijotaičiai Podolėje statė pilis, tarp jų Kamieniecą, Smotryčą ir Bakotą."
-  semantiniai_rysiai: "Karijotaičiai pastatė Bakota (0.88)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "724075-724524; hash=e73984ab806815341b25cd59311c950d4a79175587dd941d670143c8679a4475; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "pastate -> Bakota: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Karijotaičiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Bakota: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Bakota minima tarp Karijotaičių statytų pilių."
   pagrindžia:
     - c-33803
 - susijęs iš [[objektai/grupes/Karijotaičiai.md#claim-t-171343|Karijotaičiai]]: Algirdo remiami Karijotaičiai Mažojoje Podolėje organizavo krašto gynybą nuo totorių puolimų ir statė Smotričo, Bakotos bei Kameneco pilis.
@@ -74,8 +63,8 @@ Podolėje Karijotaičiai ėmė įvesti tvarką, statyti pilis (Kamieniecą, Smot
     kunigaikščio priklausomybėje, kai Kijevą valdė jaunesnis Gedimino
     brolis Teodoras.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -104,6 +93,3 @@ Podolėje Karijotaičiai ėmė įvesti tvarką, statyti pilis (Kamieniecą, Smot
   patikimumo_saltinis: ai
   pagrindzia:
     - t-32073
-
-## Ryšiai
-- Buvo pastatyta: [[objektai/grupes/Karijotaičiai]]

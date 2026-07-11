@@ -57,13 +57,6 @@ Nenurodyta
 - t-001
   global_id: t-62287
   teiginys: "1312 m. Henrikas VII, Romos karalius, buvo vainikuotas imperatoriumi Romoje, Laterano bažnyčioje."
-  teiginio_tipas: "faktas"
-  temporaliniai_duomenys: "įvykio data: 1312 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir tiksliai atitinka citatos turinį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "739384-739627; hash=9aad0eabcb591a133ff65ffbc4fc1bcc6148e57f8b0a2c788964207ba379556e; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-62818
 
@@ -71,13 +64,6 @@ Nenurodyta
 - t-001
   global_id: t-62287
   teiginys: "1312 m. Henrikas VII, Romos karalius, buvo vainikuotas imperatoriumi Romoje, Laterano bažnyčioje."
-  teiginio_tipas: "faktas"
-  temporaliniai_duomenys: "įvykio data: 1312 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir tiksliai atitinka citatos turinį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "739384-739627; hash=9aad0eabcb591a133ff65ffbc4fc1bcc6148e57f8b0a2c788964207ba379556e; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-62818
 
@@ -85,12 +71,6 @@ Nenurodyta
 - t-003
   global_id: t-194389
   teiginys: "Apie karaliaus Henriko vainikavimą imperatoriumi Tais metais Henrikas VII, Romos karalius, buvo vainikuotas Romoje, Laterano bažnyčioje, imperatoriumi po 62 metų nuo imperatoriaus Fridricho II mirties (Mart."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "739384-739627; hash=9aad0eabcb591a133ff65ffbc4fc1bcc6148e57f8b0a2c788964207ba379556e; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-62818
 ## Reikšmingi paminėjimai
@@ -105,8 +85,8 @@ Nenurodyta
 
     447; Ptol. p. 1238).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -119,7 +99,8 @@ Nenurodyta
 - id: c-62818
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 247-248"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 247-248."
   citata_originali: |
     110. Apie karaliaus Henriko vainikavimą imperatoriumi
 

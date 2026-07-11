@@ -30,14 +30,6 @@ Jie net tvirtina, kad ši ugnis jiems niekad neužgesusi nuo to laiko, kai ją i
 - t-001
   global_id: t-194791
   teiginys: "Jie net tvirtina, kad ši ugnis jiems niekad neužgesusi nuo to laiko, kai ją išgelbėję iš Saliamono šventyklos, o paskui atsinešę į Lietuvą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "381060-381585; hash=b54ce1bb21d7ca2efdb23f014e8db01ff666396de9ad9f6a6cd0dd5aa80777f3; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-177187
 ## Reikšmingi paminėjimai
@@ -57,8 +49,8 @@ Jie net tvirtina, kad ši ugnis jiems niekad neužgesusi nuo to laiko, kai ją i
     nuo to laiko, kai ją išgelbėję iš Saliamono šventyklos, o paskui
     atsinešę į Lietuvą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -69,7 +61,8 @@ Jie net tvirtina, kad ši ugnis jiems niekad neužgesusi nuo to laiko, kai ją i
 - id: c-177187
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 223"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 223."
   citata_originali: |
     Kuo la­
     biau tauta buvo linkusi į perdėtą pamaldumą, tuo labiau ji

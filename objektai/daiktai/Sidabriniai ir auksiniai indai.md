@@ -52,12 +52,6 @@ Nenurodyta
 - t-001
   global_id: t-194065
   teiginys: "Mat, pasiuntė jam daug aukso ir sidabro bei gražių sidabrinių ir auksinių indų ir daug žirgų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "89872-90281; hash=7fdd58d5da5326e025fcffb3bdc50e8c752d26cdaeb5a3e29ac7d7685d06f5ea; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176678
 ## Reikšmingi paminėjimai
@@ -79,8 +73,8 @@ Nenurodyta
     Mat, pasiuntė jam daug aukso ir sidabro bei gražių
     sidabrinių ir auksinių indų ir daug žirgų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

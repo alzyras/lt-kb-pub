@@ -30,21 +30,6 @@ Remdamasis Lasickiu ir liaudies padavimais, Narbutas raganas aprašo kaip deives
 - t-001
   global_id: t-189245
   teiginys: "Remdamasis Lasickiu ir liaudies padavimais, Narbutas raganas aprašo kaip deives, globojusias savaime augančius ar persodintus medžius."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "265764-266109; hash=96e30bf3658402d24c63999b1b43f177311cc6930ec970eea09469e71b15ac7e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lasickis: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ragana: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lasickis: mention_match, author, gap=42"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ragana\" parinktas kaip owner_note_path. Targetas \"Lasickis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172133
 
@@ -52,21 +37,6 @@ Remdamasis Lasickiu ir liaudies padavimais, Narbutas raganas aprašo kaip deives
 - t-002
   global_id: t-189246
   teiginys: "Narbutas rašo, kad šiaurės Lietuvos ir Latvijos kaimiečiai raganomis vadino kerėtojas, galinčias virsti katėmis bei šarkomis."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "266427-266846; hash=3bacd3c8870992841f83234ea982f23fdbe5060f2d2aa524aebf7760ef24ccb1; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Latvija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ragana: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Latvija: mention_match, place, gap=20"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ragana\" parinktas kaip owner_note_path. Targetas \"Latvija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172134
 - susijęs iš [[objektai/autoriai/J. Foigtas.md#claim-t-190730|Johanas Foigtas]]: Ponas Foigtas Berlyno rankraštyje rado vietovardį Raganita, o Narbutas jį laikė tikriausiu Ragainės pavadinimu dėl ryšio su vardu Ragana.
@@ -93,8 +63,8 @@ Remdamasis Lasickiu ir liaudies padavimais, Narbutas raganas aprašo kaip deives
     Kiekviena ragana turėjo savo medį, kurį globojo stengda­
     masi padalyti viską, kad jis būtų sveikas ir augtų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -112,8 +82,8 @@ Remdamasis Lasickiu ir liaudies padavimais, Narbutas raganas aprašo kaip deives
     balsu, tad valstiečiai sako, kad ragana skrendanti raita ant ožio
     ir kankinanti jį savo pentinais, todėl tas bliaunąs.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -147,7 +117,8 @@ Remdamasis Lasickiu ir liaudies padavimais, Narbutas raganas aprašo kaip deives
 - id: c-172134
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 153"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 153."
   citata_originali: |
     Šios deivės yra tikra antikinių hamadriadžių kopija.
     Prietaringi kaimiečiai, ypač šiaurės Lietuvoje ir Latvijoje,

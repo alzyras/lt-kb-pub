@@ -41,21 +41,6 @@ Anot pono Kraševskio, mirusįjį palietę žmonės tapdavo „nešvarūs“. Ju
 - t-001
   global_id: t-190432
   teiginys: "Anot pono Kraševskio, mirusįjį palietę žmonės tapdavo „nešvarūs“."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "639047-639467; hash=de4277198f12dec173154cef4489db617f24219d1ef8ffe7e43db3e15473c6af; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Juostos: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Juozapas Ignacas Kraševskis: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Juostos: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Juozapas Ignacas Kraševskis\" parinktas kaip owner_note_path. Targetas \"Juostos\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173315
 
@@ -63,21 +48,6 @@ Anot pono Kraševskio, mirusįjį palietę žmonės tapdavo „nešvarūs“. Ju
 - t-002
   global_id: t-190746
   teiginys: "Juozapas Ignotas Kraševskis parašė antrąją didelę T. Narbuto „Lietuvių mitologijos“ recenziją, išspausdintą „Tygodnik Petersburski“."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "805009-805365; hash=437b37937f90bdba840f42b896305780c910451fb755209e773a82798381f430; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kraševskis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Juozapas Ignacas Kraševskis: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Kraševskis: mention_match, author, gap=17"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Juozapas Ignacas Kraševskis\" parinktas kaip owner_note_path. Targetas \"Kraševskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173628
 
@@ -85,21 +55,6 @@ Anot pono Kraševskio, mirusįjį palietę žmonės tapdavo „nešvarūs“. Ju
 - t-003
   global_id: t-190747
   teiginys: "Narbutui priskiriamame spėjime Kraševskio recenzija siejama su šaltais T. Narbuto ir J. I. Kraševskio santykiais."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "814719-815054; hash=b8a26d738d7d9dfd5798ce137c884e9a093e85644f8f5009c421b6617e1baf4a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kraševskis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Juozapas Ignacas Kraševskis: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Kraševskis: mention_match, author, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Juozapas Ignacas Kraševskis\" parinktas kaip owner_note_path. Targetas \"Kraševskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173629
 
@@ -107,12 +62,6 @@ Anot pono Kraševskio, mirusįjį palietę žmonės tapdavo „nešvarūs“. Ju
 - t-004
   global_id: t-193583
   teiginys: "Kraševskis, 1841–1851 m. Vilniuje leidęs kultūrinio pobūdžio žurnalą „Atheneum“."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "199657-200219; hash=47382085a8e559b89982fc06df90979cf3cd3226322e58301398ea8a6ac86cb1; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176258
 ## Reikšmingi paminėjimai
@@ -129,8 +78,8 @@ Anot pono Kraševskio, mirusįjį palietę žmonės tapdavo „nešvarūs“. Ju
     pono Kraševskio, tie, kurie mirusįjį paliesdavo, tapdavo „nešva­
     rūs“. Mes gi apie tai nieko negalime pasakyti*.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -148,8 +97,8 @@ Anot pono Kraševskio, mirusįjį palietę žmonės tapdavo „nešvarūs“. Ju
     ski“. Pirmoji buvo anonimiška, o antroji priklausė Juo­
     zapo Ignoto Kraševskio plunksnai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -168,8 +117,8 @@ Anot pono Kraševskio, mirusįjį palietę žmonės tapdavo „nešvarūs“. Ju
     miausiems bičiuliams. Beje, T. Narbutas dėl J. I. Kra­
     ševskio istorinių darbų išsakė identiškų priekaištų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -190,8 +139,8 @@ Anot pono Kraševskio, mirusįjį palietę žmonės tapdavo „nešvarūs“. Ju
     107
     Formaliai nedrausta ir lietuvių kalba.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -202,7 +151,8 @@ Anot pono Kraševskio, mirusįjį palietę žmonės tapdavo „nešvarūs“. Ju
 - id: c-173315
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 361"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 361."
   citata_originali: |
     Tada aprengia drabužiais, pritinkančiais luomui ir ly­
     čiai, prijuosia kardą arba užkiša už juostos kirvį, kaktą apriša
@@ -221,7 +171,8 @@ Anot pono Kraševskio, mirusįjį palietę žmonės tapdavo „nešvarūs“. Ju
 - id: c-173628
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 446"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 446."
   citata_originali: |
     Oficialūs atgarsiai į T. Narbuto „Lie­
     tuvių mitologiją“ pasirodė netrukus, t. y. tais pačiais
@@ -240,7 +191,8 @@ Anot pono Kraševskio, mirusįjį palietę žmonės tapdavo „nešvarūs“. Ju
 - id: c-173629
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 451"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 451."
   citata_originali: |
     Galima
     spėti, jog būtent ši recenzija

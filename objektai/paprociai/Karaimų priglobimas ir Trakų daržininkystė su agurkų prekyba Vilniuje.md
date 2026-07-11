@@ -55,17 +55,6 @@ Nenurodyta
 - t-001
   global_id: t-87209
   teiginys: "Karaimai buvo įsikūrę Trakuose ir nedidelėje Vilniaus dalyje, tačiau Vytauto privilegija jiems negaliojo."
-  semantiniai_rysiai: "Karaimai gyveno Trakai (0.96); Karaimai prekiavo su Vilniaus turgus (0.62)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "326520-327307; hash=8bb1a202b96cf6d2f9c460de2ceb10193f7115647ba90c3654ec645cc94991d4; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Trakai: 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Karaimai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad karaimai gyveno Trakuose."
   pagrindžia:
     - c-83189
 
@@ -73,17 +62,6 @@ Nenurodyta
 - t-002
   global_id: t-87210
   teiginys: "Balińskis karaimų atvykimą į Lietuvą siejo su Vytauto laikais, nes Vytautas priimdavo ir priglobdavo ateivius iš rytų kraštų."
-  semantiniai_rysiai: "Karaimai gyveno Trakai (0.96)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "326520-327307; hash=8bb1a202b96cf6d2f9c460de2ceb10193f7115647ba90c3654ec645cc94991d4; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Trakai: 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Karaimai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citatoje aiškiai pasakyta, kad karaimai gyvena Trakuose."
   pagrindžia:
     - c-83189
 ## Reikšmingi paminėjimai
@@ -115,8 +93,8 @@ Nenurodyta
     siai dera agurkai, kuriuos vežimais
     į Vilniaus turgus gabena.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

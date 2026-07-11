@@ -40,16 +40,6 @@ Skučas su savo vyrais ir AT gynybos štabo viršininku paskirtas Jonas Gečas s
 - t-001
   global_id: t-40216
   teiginys: "Jonas Gečas buvo paskirtas Aukščiausiosios Tarybos gynybos štabo viršininku."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1037195-1037714; hash=9c16a85d92fc97faed81e415496b4347dc637dc97c2adc7ea194f8db3f01fcac; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aukščiausiosios Tarybos rūmai (institucija): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jonas Gečas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Aukščiausiosios Tarybos rūmai (institucija): mention_match, place, gap=27"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jonas Gečas\" parinktas kaip owner_note_path. Targetas \"Aukščiausiosios Tarybos rūmai (institucija)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-44380
 
@@ -57,18 +47,6 @@ Skučas su savo vyrais ir AT gynybos štabo viršininku paskirtas Jonas Gečas s
 - t-002
   global_id: t-40217
   teiginys: "1991 m. Jonas Gečas priklausė Aukščiausiosios Tarybos gynybos štabui."
-  temporaliniai_duomenys: "priklausymo laikotarpis: 1991 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „priklausymo laikotarpis“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1126628-1126769; hash=f82228bae01115fa070d9b55cabec4b5963039b8cfc41df55c3e2cb2a663f207; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aukščiausiosios Tarybos gynybos štabas (institucija): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jonas Gečas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Aukščiausiosios Tarybos gynybos štabas (institucija): mention_match, group, gap=22"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jonas Gečas\" parinktas kaip owner_note_path. Targetas \"Aukščiausiosios Tarybos gynybos štabas (institucija)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-42015
 - susijęs iš [[objektai/grupes/Aukščiausiosios Tarybos gynybos štabas.md#claim-t-40860|Aukščiausiosios Tarybos gynybos štabas (institucija)]]: 1991 m. Aukščiausiosios Tarybos gynybos štabe buvo Audrius Butkevičius, Česlovas Jezerskas, Virginijus Česnulevičius ir Jonas Gečas.
@@ -84,8 +62,8 @@ Skučas su savo vyrais ir AT gynybos štabo viršininku paskirtas Jonas Gečas s
 
     Česlovas Jezerskas, Virginijus Česnulevičius, Jonas Gečas, KAM.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -110,8 +88,8 @@ Skučas su savo vyrais ir AT gynybos štabo viršininku paskirtas Jonas Gečas s
     buotojų, ginkluotų maždaug 20 PM
     (Makarov) ir 4 TT pistoletais,
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

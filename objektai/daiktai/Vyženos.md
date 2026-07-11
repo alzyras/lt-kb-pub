@@ -52,10 +52,6 @@ Nenurodyta
 - t-001
   global_id: t-08350
   teiginys: "Vyženos buvo moterų ir vyrų avalas, tačiau vyrai kojas vyniojo autais, o moterys mūvėjo žekes."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "87794-87956; hash=e6b17f149fb9bd530592aae29fe9e15ffcbcdf0a00981c779b31de2cd5faa2bf; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-10304
 
@@ -63,17 +59,6 @@ Nenurodyta
 - t-002
   global_id: t-08351
   teiginys: "Vyženos buvo toks svarbus daiktas, kad vaikai turėjo mokėti jas vyžti."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "73956-74758; hash=80f740af56ce42f80346994c25bad43f5c72a1c1a418ba9d1dabeb8704f88222; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Balti vilnoniai marškiniai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vyženos: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Balti vilnoniai marškiniai: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vyženos\" parinktas kaip owner_note_path. Targetas \"Balti vilnoniai marškiniai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-56402
 ## Reikšmingi paminėjimai
@@ -85,8 +70,8 @@ Nenurodyta
     Motriškųjų avalai buvo, kaip jei vyriškųjų, rezginės^336 ar vyženos, tiktai vyrai vilnonais ar
         marškonais autais vyturo savo kojas, o motriškosios su žekėmis^337.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -104,8 +89,8 @@ Nenurodyta
         drožė ir pleštekes^395 po kiemą bėgiodami šaudė, jau nuo mažų dienų į karę pratindamos, kaip
         reiks kurią dieną su žvėrimis giriose ar laukuose su neprieteliais grumtis, liuosybę savo gyniojant.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

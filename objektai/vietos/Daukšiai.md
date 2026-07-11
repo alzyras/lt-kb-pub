@@ -32,18 +32,6 @@ Prie Daukšių bazavosi „Muškietininkų“ būrys, vadovaujamas Vlado Gavėno
 - t-002
   global_id: t-41670
   teiginys: "Remiantis KGB duomenimis, liepos 15 d. per operaciją Buktos miške ir Daukšių kaime žuvo partizanai Juozas Pūkas ir Motiejus Overa."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "930326-930622; hash=0a4e2b4b2d6e70f924e8c13621ac354da16b0e1e66f2d936a6fa12aaa83964af; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kaimas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Daukšiai: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kaimas: mention_match, place, gap=8"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Daukšiai\" parinktas kaip owner_note_path. Targetas \"Kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-13T14:20:43Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-45069
 
@@ -51,12 +39,6 @@ Prie Daukšių bazavosi „Muškietininkų“ būrys, vadovaujamas Vlado Gavėno
 - t-003
   global_id: t-193762
   teiginys: "Prie Daukšių bazavosi „Muškietininkų“ būrys, vadovaujamas Vlado Gavėno-Tarzano."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "928538-928910; hash=7183c6657539c3327bac3d63cdbf05984c9655ab089a0fbe5c54b3f6cebde3fd; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-43389
 - susijęs iš [[objektai/grupes/Daukšių būrys.md#claim-t-40873|Daukšių būrys]]: Sargyboje žuvo Daukšių būrio kovotojai Alfonsas Kirtiklis, Juozas Laukaitis ir dar šeši laisvės kovotojai.
@@ -87,8 +69,8 @@ Prie Daukšių bazavosi „Muškietininkų“ būrys, vadovaujamas Vlado Gavėno
     suvienijo ir jam vadovavo Lietuvos kariuo-
     menės majoras Sergijus Staniškis-Litas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -107,8 +89,8 @@ Prie Daukšių bazavosi „Muškietininkų“ būrys, vadovaujamas Vlado Gavėno
     Pūkas ir Motiejus Overa. Visų šių susirė-
     mimų metu žuvo ir nemažai enkavėdistų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

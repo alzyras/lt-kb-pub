@@ -38,17 +38,6 @@ K. Niezabitowskis chronologine tvarka surinko lietuvių, žemaičių ir prūsų-
 - t-001
   global_id: t-191427
   teiginys: "K. Niezabitowskis chronologine tvarka surinko lietuvių, žemaičių ir prūsų-lietuvių veikalų apžvalgą, paskelbtą „Dziennik Wilenski“ 1824 m."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1824 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas bibliografinis sakinys apie K. Niezabitowskio parengtą apžvalgą. Palikti tik citatoje nurodyti objektas, pobūdis ir publikavimo vieta."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "776561-777117; hash=2874cbb4fd9498e2aa23bea7babde1dccc5aca1374bf8285ff861e9ce48ed580; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174309
 ## Reikšmingi paminėjimai
@@ -88,8 +77,8 @@ K. Niezabitowskis chronologine tvarka surinko lietuvių, žemaičių ir prūsų-
     K. Niezabitowskiego 2mudzina / /  Dziennik
     Wilenski. 1824. T. 1. S. 381—388.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

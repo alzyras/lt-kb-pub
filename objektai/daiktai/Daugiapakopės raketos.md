@@ -67,16 +67,6 @@ Nenurodyta
 - t-010
   global_id: t-45476
   teiginys: "Kazimiero Semenavičiaus veikale „Artis magnae artilleriae“ išdėstyta daugiapakopių raketų teorija."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "119924-120380; hash=b26de2a8bd03def14d8c3932a0d755e42a84ca6220f1d6c88192b670f5e728aa; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md::validation_repair"
-  ryšio_patikimumas: "susije_su -> Artilerija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Daugiapakopės raketos: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Artilerija: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Daugiapakopės raketos\" parinktas kaip owner_note_path. Targetas \"Artilerija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-48266
 
@@ -84,19 +74,6 @@ Nenurodyta
 - t-007
   global_id: t-45477
   teiginys: "Kazimiero Semenavičiaus veikale „Artis magnae artilleriae“ buvo išdėstyta daugiapakopių raketų teorija."
-  temporaliniai_duomenys: "įvykio data: 1579 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir paremtas citata."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "119681-120290; hash=075ccb3fdd4b5e02fc3fbd2a7d5f810c3a46ffb5166288afc46ec31cf75d25e7; match=whitespace_regex"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md::validation_repair"
-  ryšio_patikimumas: "susije_su -> Artilerija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Daugiapakopės raketos: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Artilerija: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Daugiapakopės raketos\" parinktas kaip owner_note_path. Targetas \"Artilerija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-22227
 
@@ -104,18 +81,6 @@ Nenurodyta
 - t-008
   global_id: t-45479
   teiginys: "K. Semenavičiaus raketų brėžiniai buvo publikuoti Amsterdame 1650 m."
-  temporaliniai_duomenys: "įvykio data: 1650 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "149300-149469; hash=a32e63842fb37e1100bb7bb0db711f987a20d9e79d0dffc452f43ee32543504c; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md::validation_repair"
-  ryšio_patikimumas: "susije_su -> Amsterdamas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Daugiapakopės raketos: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Amsterdamas: mention_match, place, gap=33"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Daugiapakopės raketos\" parinktas kaip owner_note_path. Targetas \"Amsterdamas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-16405
 - susijęs iš [[objektai/asmenys/Kazimieras Simanavičius.md#claim-t-39577|Kazimieras Simanavičius]]: Kazimieras Simanavičius pirmasis aptarė daugiapakopės raketos ir raketinės artilerijos idėjas.
@@ -128,8 +93,8 @@ Nenurodyta
     istorinės reikšmės aspektas. Nuo XIV a. ryčiausias Europoje du amžius
     K. Semenavičiaus raketų brėžiniai. Amsterdamas, 1650 m.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -149,8 +114,8 @@ Nenurodyta
     ir net kosmonautikos ištakas – veikale išdėstyta daugiapakopių raketų te-
     orija.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -168,8 +133,8 @@ Nenurodyta
     XVII–XVIII a. barokinį kraštovaizdį architektūroje ir dailėje taip pat
     nulėmė jėzuitai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

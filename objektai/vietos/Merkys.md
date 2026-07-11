@@ -44,16 +44,6 @@ Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Kat
 - t-003
   global_id: t-111944
   teiginys: "Mediniai rūmai ant aukšto mūrinio cokolio stovėjo ant kalvelės, puslankiu skalaujamos Merkio upės."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "512632-512926; hash=de853ed4ab648587603de6e5b7fea2b7f3ba821204b3d6c138c25cb7fd8f2a9f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Mediniai rūmai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Merkys: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Mediniai rūmai: mention_match, thing, gap=86"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Merkys\" parinktas kaip owner_note_path. Targetas \"Mediniai rūmai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-103449
 
@@ -61,17 +51,6 @@ Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Kat
 - t-004
   global_id: t-111945
   teiginys: "Prie Merkio ant nedidelės aukštumėlės stovėjo du mažesni namai, kuriuose gyvendavo Žygimantas Senasis ir karalienė Bona."
-  semantiniai_rysiai: "Žygimantas Senasis gyveno Merkys (0.70)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "513293-513673; hash=04954914d5e9c7478d3e76a6cc049718ee7a519f7a78c46aa98ea6580613d64f; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Merkys: 0.70"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Žygimantas Senasis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Merkys: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata nurodo, kad namai, kuriuose gyvendavo Žygimantas Senasis, buvo prie Merkio."
   pagrindžia:
     - c-103448
 
@@ -79,16 +58,6 @@ Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Kat
 - t-007
   global_id: t-111946
   teiginys: "Želigovskio pajėgos su negausiomis lietuvių pajėgomis susidūrė ties Merkio upe."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "839422-839693; hash=b8b32d75928a9b91585b1322dd4954fa98dcc7b46876209626371842ec2c0fd4; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Merkys: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=33"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Merkys\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-43641
 
@@ -96,17 +65,6 @@ Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Kat
 - t-006
   global_id: t-111947
   teiginys: "Prie Merkio, ant nedidelės aukštumėlės, stovėjo du mažesni, veikiausiai dviejų aukštų namai."
-  semantiniai_rysiai: "Žygimantas Senasis gyveno Merkys (0.70)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "513293-513673; hash=04954914d5e9c7478d3e76a6cc049718ee7a519f7a78c46aa98ea6580613d64f; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Merkys: 0.70"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Bona: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Merkys: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata nurodo, kad namai, kuriuose gyvendavo Bona, buvo prie Merkio."
   pagrindžia:
     - c-103448
 
@@ -114,9 +72,6 @@ Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Kat
 - t-005
   global_id: t-111948
   teiginys: "Medžioklės rūmai prie Merkio buvo pastatyti iš medžio ant aukšto mūrinio cokolio ir stovėjo ant mažos kalvelės."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "512555-512844; hash=f4380d25b7c52832debca201a57c909d5ae6b8ae158e056b9abf52df9c97b0ec; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-103450
 
@@ -124,16 +79,6 @@ Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Kat
 - t-001
   global_id: t-111949
   teiginys: "Palei Merkį, Nemuną, Nerį, Ūlą ir Katrą gausiai aptikta mezolito įrankių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "266356-266799; hash=69007dfbcf2eb41e5a86f8166eb6a080507c2ba76affdb104da126d8d8851d6e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Katra: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Merkys: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Katra: mention_match, place, gap=28"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Merkys\" parinktas kaip owner_note_path. Targetas \"Katra\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-103452
 - susijęs iš [[objektai/asmenys/Antanas Merkys.md#claim-t-169962|Antanas Merkys]]: Antanas Merkys psichologiškai palūžo nuo Viačeslavo Molotovo rėksmingų kaltinimų absurdiškumo.
@@ -177,8 +122,8 @@ Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Kat
     vių pajėgomis susidūrė ties
     Merkio upe.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -196,8 +141,8 @@ Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Kat
     taip pat dviejų aukštų. Žygimantas Senasis paprastai gy­
     vendavo viename, o karalienė Bona - antrame.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -214,8 +159,8 @@ Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Kat
     dar iki šiol nuo senųjų laikų išlikęs žemėje, visai nepakenk­
     tas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -232,8 +177,8 @@ Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Kat
     Merkio upės srovės. Iš šiaurės greta rūmų buvo nedidelis
     tvenkinys, į jį upės vanduo patekdavo lataku.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -252,8 +197,8 @@ Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Kat
     prijaukintas gyvulys, būtent šuo, kuris tada vartotas ir mėsai (gy­
     vos mėsos « konservavimas »)^3.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -359,6 +304,3 @@ Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Kat
   patikimumo_saltinis: ai
   pagrindzia:
     - t-111949
-
-## Ryšiai
-- Gyvenamoji vieta: [[objektai/asmenys/Žygimantas Senasis]]

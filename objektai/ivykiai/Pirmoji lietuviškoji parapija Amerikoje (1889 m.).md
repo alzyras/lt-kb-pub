@@ -55,19 +55,6 @@ Nenurodyta
 - t-001
   global_id: t-01773
   teiginys: "1889 m. buvo įkurta pirmoji lietuviškoji parapija."
-  temporaliniai_duomenys: "įvykio data: 1889 m.; įvykio data: 1907 m.; įvykio data: 1915 m.; įvykio data: 1925 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pagrindžia įkūrimo datą, o pradinis teiginys buvo per bendras."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "1279945-1280267; hash=317e36f23ec6d9bafb5ee5a2cad374b86458a561142cdbe6cc6381ff97146b89; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Pirmoji lietuviškoji parapija Amerikoje (1889 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=8"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pirmoji lietuviškoji parapija Amerikoje (1889 m.)\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-02011
 ## Reikšmingi paminėjimai
@@ -82,8 +69,8 @@ Nenurodyta
     — apie 120, o dabar jų yra apie 150 (jose yra apie 200 lietuvių
     kunigų).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

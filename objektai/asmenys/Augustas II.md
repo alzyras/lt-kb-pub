@@ -46,17 +46,6 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
 - t-009
   global_id: t-78943
   teiginys: "Augustas II su Petru I susitarė atimti iš švedų Baltijos pajūrį ir į sąjungą įtraukė Daniją bei Brandenburgo kunigaikštį."
-  semantiniai_rysiai: "Augustas II kariavo prieš Švedai (0.74)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "771834-772094; hash=d2064788e407a3b01eb639ec1f7f1c6fb46629afe6568a987d512381c6dd576d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Švedai: 0.74"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Augustas II: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Švedai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Susitarimas atimti Baltijos pajūrį iš švedų tiesiogiai rodo priešišką karinį veikimą prieš švedus."
   pagrindžia:
     - c-76047
 
@@ -64,17 +53,6 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
 - t-011
   global_id: t-78945
   teiginys: "Augustas II nusprendė išvyti švedus iš Livonijos ir ją užvaldyti."
-  semantiniai_rysiai: "Augustas II kariavo prieš Švedai (0.86)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "570169-570537; hash=1f77336f57e182fff263d56e153b6fbf3e80e0f9c66ce7d18e05c8b40bc71511; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Švedai: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Augustas II: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Švedai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Noras išvyti švedus iš Livonijos rodo tiesioginį karinį priešiškumą švedams."
   pagrindžia:
     - c-76045
 
@@ -82,16 +60,6 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
 - t-008
   global_id: t-78946
   teiginys: "Žymesnieji bajorijos vadai Augusto II reikalautu raštu paskelbė jį paveldimai ir absoliučiai valdančiu Lietuvos didžiuoju kunigaikščiu."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "768636-769192; hash=62c0a8a8621c313c421f7a5bae0055e9463ac2726841295f8da5f45c18e96937; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Augustas II: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=76"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Augustas II\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-76044
 
@@ -99,16 +67,6 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
 - t-012
   global_id: t-78947
   teiginys: "Augusto II siekius rėmė dalis Švedijos karaliaus Karolio XII valdymu nepatenkintos Livonijos aristokratijos."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "570538-570992; hash=595b12e0c2a08254828679452e5ba52c65fe62a843758ae82faf78ab4685da10; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Livonija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Augustas II: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Livonija: mention_match, place, gap=83"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Augustas II\" parinktas kaip owner_note_path. Targetas \"Livonija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-41855
 
@@ -116,16 +74,6 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
 - t-009
   global_id: t-78949
   teiginys: "Petro Didžiojo epocha, sutapusi su saksų laikų pradžia, atvėrė naują laikotarpį ir Augusto II valdymo kontekste."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "771834-772094; hash=d2064788e407a3b01eb639ec1f7f1c6fb46629afe6568a987d512381c6dd576d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Baltija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Augustas II: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Baltija: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Augustas II\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-04147
 
@@ -133,20 +81,6 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
 - t-010
   global_id: t-78950
   teiginys: "1706 m. Augustas II Altrandštate sudarė taiką su Karoliu XII, atsisakė Respublikos sosto ir pripažino karaliumi Leščinskį."
-  semantiniai_rysiai: "Augustas II sudarė sutartį su Karolis XII (0.94); Augustas II keliavo į Altrandštatas (0.70)"
-  temporaliniai_duomenys: "įvykio data: 1706 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Reikia išplėsti dalinius vardus ir suformuluoti sakinį aiškiau."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "775591-775922; hash=ea374f72b75214661bd5fed7376a52e4c3d8383069173497ed6c9af66929153d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "sudare_sutarti_su -> Karolis XII: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Augustas II: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Karolis XII: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata tiesiogiai teigia, kad Augustas sudarė taiką su Karoliu."
   pagrindžia:
     - c-76043
 
@@ -154,20 +88,6 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
 - t-010
   global_id: t-78953
   teiginys: "1697 m. ATR valdovu išrinktas Saksonijos kurfiurstas Augustas II siekė ATR paversti absoliutine monarchija."
-  semantiniai_rysiai: "Augustas II sudarė sutartį su Karolis XII (0.94); Karolis XII surengė žygį į Saksonija (0.93); Karolis XII puolė Augustas II (0.80)"
-  temporaliniai_duomenys: "įvykio data: 1697 m.; įvykio data: 1706 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo Augusto II išrinkimą ir politinį siekį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "775591-775922; hash=ea374f72b75214661bd5fed7376a52e4c3d8383069173497ed6c9af66929153d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "sudare_sutarti_su -> Karolis XII: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Augustas II: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Karolis XII: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Augusto taiką su Karoliu."
   pagrindžia:
     - c-76049
 - susijęs iš [[objektai/asmenys/Petras I Didysis.md#claim-t-184422|Petras I Didysis]]: Augustas II ir Petras I sudarė sutartį atimti iš Švedijos Baltijos pajūrį.
@@ -190,8 +110,8 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
     kuri sutapo su pradžia «saksų laikų» (Augustas II), atvėrė
     naują laikotarpį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -214,8 +134,8 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
     gas, ir paramos nesulaukusi Sapiegų
     giminė linko ieškoti globos pas švedus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -233,8 +153,8 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
     atsižadėjo Respublikos sosto ir pripažino karalium Leščinskį
     (1706 m.).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -256,8 +176,8 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
     dančiu didžiuoju Lietuvos kunigaikščiu su
     paveldėjamąja teise.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -277,8 +197,8 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
     „ Brandenburgo įsipareigojimą per savo te-
     ritoriją nepraleisti švedų kariuomenės.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -294,8 +214,8 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
     tas II su Petru I, be to, įtraukė į sąjungą Daniją ir Brandenbur-
     go kunigaikštį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -312,8 +232,8 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
     bicingas Saksonijos kiurfiurstas Augustas 11 (Stiprusis). Jis
     siekė ATR paversti absoliutine monarchija.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -469,8 +389,5 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
     - t-78953
 
 ## Ryšiai
-- Puolė Augustas II: [[objektai/asmenys/Karolis XII]]
 - Sudarė sutartį su: [[objektai/asmenys/Petras I Didysis]]
-- Augustas II keliavo į [[objektai/vietos/Altrandštatas]]
-- Augustas II kariavo prieš [[objektai/grupes/Švedai]]
 - Augustas II sudarė sutartį su [[objektai/asmenys/Karolis XII]]

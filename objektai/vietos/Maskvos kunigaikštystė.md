@@ -30,12 +30,6 @@ PasiunP erein a į M a sk v o s tęs į Maskvos kunigaikštysk u n ig a ik š ty
 - t-001
   global_id: t-193444
   teiginys: "PasiunP erein a į M a sk v o s tęs į Maskvos kunigaikštysk u n ig a ik š ty s tę tę brolį Vosylių su visais globotiniais, jų žmonomis bei vaikais ir visomis brangenybėmis, pats, kurį metą už trukęs, nes rūpinosi pilių sustiprinimu, greitai pasivijo savuosius."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1067280-1067656; hash=4f2d50ef3dba6308d30f061b2f2fca2675b762b81f44c00e259ba7ce95ca3288; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176157
 
@@ -43,12 +37,6 @@ PasiunP erein a į M a sk v o s tęs į Maskvos kunigaikštysk u n ig a ik š ty
 - t-002
   global_id: t-193445
   teiginys: "Karvedžių pasitarime nusprendė, kad karalius su smulkesniais būriais apsistosiąs Smolensko apylinkėse, o Firlėjus su lenkais bei Ostrogiškis su lietuviais įženg siąs į Maskvos kunigaikštystę, viską pakeliui siaubda mi ir visur gaudydami paklydusius bėglius."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1072525-1073051; hash=1fb779de357e95a8230b3473a3892d8b9acb11ddb4c8758d80500bc9f9460e41; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176158
 ## Reikšmingi paminėjimai
@@ -70,8 +58,8 @@ PasiunP erein a į M a sk v o s tęs į Maskvos kunigaikštysk u n ig a ik š ty
     trukęs, nes rūpinosi pilių sustiprinimu, greitai pasivijo
     savuosius. Štai ką jis padarė žiemos pabaigoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -92,8 +80,8 @@ PasiunP erein a į M a sk v o s tęs į Maskvos kunigaikštysk u n ig a ik š ty
     pavydėjo Ostrogiškiui naujųjų pareigų, atidėjo šį rei­
     kalą ateičiai, o galop visai nieko nepadarė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -104,7 +92,8 @@ PasiunP erein a į M a sk v o s tęs į Maskvos kunigaikštysk u n ig a ik š ty
 - id: c-176157
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 601"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 601."
   citata_originali: |
     Toliau skverbtis nedrįso sužinojęs, jog atžygiuoja ka­
     raliaus kariuomenė. Pasiun-
@@ -128,7 +117,8 @@ PasiunP erein a į M a sk v o s tęs į Maskvos kunigaikštysk u n ig a ik š ty
 - id: c-176158
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 604"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 604."
   citata_originali: |
     Štai todėl pulkai patraukė į Oršą; be didelio
     vargo atgavus pilį, visos jėgos pasuko link Smolens­

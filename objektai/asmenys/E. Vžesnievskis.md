@@ -32,16 +32,6 @@ Vžesnievskis, S.
 - t-001
   global_id: t-40094
   teiginys: "E. Vžesnievskis buvo paskirtas bataliono vadu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "657671-657870; hash=eeb006a6fbff04107513adf6eb01e0e4e2aec434ee7f0562a24ca4d4f5e1e96a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> M. Stanišauskas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "E. Vžesnievskis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "M. Stanišauskas: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"E. Vžesnievskis\" parinktas kaip owner_note_path. Targetas \"M. Stanišauskas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-44322
 ## Reikšmingi paminėjimai
@@ -59,8 +49,8 @@ Vžesnievskis, S.
 
     K. Maleckis, M. Stanišauskas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

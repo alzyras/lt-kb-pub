@@ -47,19 +47,6 @@ Gali būti OCR ar rašybos variantas; kontekste kalbama apie žmonių klasifikac
 - t-002
   global_id: t-192162
   teiginys: "Narbutas jizionominę klasifikaciją laiko fiziologų tyrinėjimų patvirtintu tautų skirstymo būdu."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "138315-139056; hash=45cd13d5d48ef02b53216e855d7b2accfaf7d4fd1f809759fddff5247a96e564; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  ryšio_patikimumas: "susije_su -> Viena: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "jizionominė klasifikacija: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Viena: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"jizionominė klasifikacija\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175038
 ## Reikšmingi paminėjimai
@@ -80,8 +67,8 @@ Gali būti OCR ar rašybos variantas; kontekste kalbama apie žmonių klasifikac
     dėl to, jog žmonių giminė iš vienos klasės suskilo į atskiras šakas,
     bet ne iš karto, o amžiams bėgant.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -92,7 +79,8 @@ Gali būti OCR ar rašybos variantas; kontekste kalbama apie žmonių klasifikac
 - id: c-175038
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 77"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 77."
   citata_originali: |
     Tačiau, skirstant tautas į šias grupes, dėmesys kreipiamas ne tik
     į veido bruožus, bet ir į lingvistinius bei istorinius skirtumus, kurie,

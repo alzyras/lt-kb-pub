@@ -39,18 +39,6 @@ Dideli girių masyvai teikė jų pakraščių gyventojams visokio užsiėmimo, i
 - t-002
   global_id: t-31637
   teiginys: "S. Daukanto „Būdas senovės lietuvių Kalnėnų ir Žemaičių“ buvo išleistas Kaune 1935 m., redaguotas J. Talmanto."
-  temporaliniai_duomenys: "įvykio data: 1935 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "390816-391388; hash=21388869bfeb5d7826046011cebf907942ba7158d520711b264c6bbe3cf2e9a0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kalnėnai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Būdas senovės lietuvių Kalnėnų ir Žemaičių: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Kalnėnai: mention_match, group, gap=23"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Būdas senovės lietuvių Kalnėnų ir Žemaičių\" parinktas kaip owner_note_path. Targetas \"Kalnėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-33544
 
@@ -58,16 +46,6 @@ Dideli girių masyvai teikė jų pakraščių gyventojams visokio užsiėmimo, i
 - t-001
   global_id: t-31638
   teiginys: "S. Daukantas „Būde senovės lietuvių Kalnėnų ir Žemaičių“ vaizdingai aprašė, kaip iš miško buvo gaunama visokeriopa nauda."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "383058-383570; hash=18648eed84e9d2a73b99b79d2f27540e68c1c5b03643a1488d073cfbcb8aaa97; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kalnėnai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Būdas senovės lietuvių Kalnėnų ir Žemaičių: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Kalnėnai: mention_match, group, gap=22"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Būdas senovės lietuvių Kalnėnų ir Žemaičių\" parinktas kaip owner_note_path. Targetas \"Kalnėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-33545
 ## Reikšmingi paminėjimai
@@ -84,8 +62,8 @@ Dideli girių masyvai teikė jų pakraščių gyventojams visokio užsiėmimo, i
     _Būdas senovės lietuvių Kalnėnų ir Žemaičių_ , red. J. Talmantas, Kaunas
     1935 (vokišką santrauką gerai paruošė V. Jungfer : _Alt-Litauen_ , 1926).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -105,8 +83,8 @@ Dideli girių masyvai teikė jų pakraščių gyventojams visokio užsiėmimo, i
     pusės lietuvių istorikas S. Daukantas, buvo traukiama visokeriopa
     nauda.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

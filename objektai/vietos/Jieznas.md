@@ -40,16 +40,6 @@ Nesutikdamas pasipriešinimo, vasario 8 d. pulkas pasiekė Stakliškes, o kitą 
 - t-001
   global_id: t-79415
   teiginys: "Vasario 9 d. priešakiniai 7-ojo „lietuviškojo“ pulko daliniai po susišaudymo su lietuvių husarų žvalgais užėmė Jiezną."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "712854-713277; hash=c6340f197c050a67250269f8312ddb4d75d7124da95b585f833bc2c4a32d745b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lentvaris: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jieznas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lentvaris: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jieznas\" parinktas kaip owner_note_path. Targetas \"Lentvaris\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-76412
 
@@ -57,16 +47,6 @@ Nesutikdamas pasipriešinimo, vasario 8 d. pulkas pasiekė Stakliškes, o kitą 
 - t-002
   global_id: t-79416
   teiginys: "Pralaimėjimas Jiezne ir nesėkmė pietinėje Lietuvoje prie Nemuno galutinai sužlugdė bolševikų planus užimti Kauną - laikinąją Lietuvos sostinę ir nutraukti Lietuvos valstybės egzistavimą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "726669-727101; hash=f182b98dbddc99ce5422c6b625a9f8776d50d97988159e53d98392d56ce42e65; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kaunas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jieznas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kaunas: mention_match, place, gap=93"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jieznas\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-76413
 
@@ -74,19 +54,6 @@ Nesutikdamas pasipriešinimo, vasario 8 d. pulkas pasiekė Stakliškes, o kitą 
 - t-003
   global_id: t-79417
   teiginys: "Gimstanti Pirmoji Lietuvos Respublika 1919-1920 m. turėjo kariauti Nepriklausomybės kovose prieš bolševikus, atremdama jų ekspansiją prie Jiezno ir Kėdainių, po to vydama juos iki pat Daugpilio."
-  temporaliniai_duomenys: "įvykio data: 1919-1920; įvykio data: 1920 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie Nepriklausomybės kovas prie Jiezno ir paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "21813-22546; hash=bce30202e49ca1982bdd35afb6c04adc8efc83f7da87861d1c8d40d61898ddd3; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Daugpilis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jieznas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Daugpilis: mention_match, place, gap=46"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jieznas\" parinktas kaip owner_note_path. Targetas \"Daugpilis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-76411
 - susijęs iš [[objektai/asmenys/A. Ružancovas.md#claim-t-39981|A. Ružancovas]]: A. Ružancovas vadovavo Jiezno ypatingajai rinktinei, sudarytai iš 3 kuopų su 4 kulkosvaidžiais.
@@ -131,8 +98,8 @@ Nesutikdamas pasipriešinimo, vasario 8 d. pulkas pasiekė Stakliškes, o kitą 
     net jei už jį Lietuva siūlė žemę, vis tiek pagalvokim, kokia auka
     buvo siūloma atgimstančiai valstybei.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -157,8 +124,8 @@ Nesutikdamas pasipriešinimo, vasario 8 d. pulkas pasiekė Stakliškes, o kitą 
     A. Ružancovas, pulko komi-
     saras - lietuvis S. Mickevičius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -180,8 +147,8 @@ Nesutikdamas pasipriešinimo, vasario 8 d. pulkas pasiekė Stakliškes, o kitą 
     užimtoje teritorijoje ir pasirengti ga-
     limai Lentvario ir Vilniaus gynybai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -263,6 +230,3 @@ Nesutikdamas pasipriešinimo, vasario 8 d. pulkas pasiekė Stakliškes, o kitą 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79416
-
-## Ryšiai
-- Buvo kelionės vieta: [[objektai/asmenys/A. Žemaitis]]

@@ -43,17 +43,6 @@ Trys į Vilnių pakviesti lenkų tapytojai: Martynas Ostrovskis, Vai­ tiekus Ch
 - t-001
   global_id: t-87862
   teiginys: "Stanislovas Ratka buvo vienas iš trijų lenkų tapytojų, pakviestų į Vilnių iš Poznanės."
-  semantiniai_rysiai: "Stanislovas Ratka keliavo į Vilnius (0.76)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "552852-554562; hash=e0be0bd4534a7a82f182d74135a7437b80e878b1defc925932e04adc73545007; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Vilnius: 0.76"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Stanislovas Ratka: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Ratka yra vienas iš tapytojų, pakviestų į Vilnių."
   pagrindžia:
     - c-83841
 - susijęs iš [[objektai/asmenys/Jonas Marija.md#claim-t-87726|Jonas Marija]]: Jonas Marija buvo architektas ir raižytojas, savo meno kūriniais papuošęs Vilnių.
@@ -123,8 +112,8 @@ Trys į Vilnių pakviesti lenkų tapytojai: Martynas Ostrovskis, Vai­ tiekus Ch
     de Senis iš Italijos - papuošė Vilnių nuostabaus darbo savo
     meno kūriniais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -194,6 +183,3 @@ Trys į Vilnių pakviesti lenkų tapytojai: Martynas Ostrovskis, Vai­ tiekus Ch
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87862
-
-## Ryšiai
-- Stanislovas Ratka keliavo į [[objektai/vietos/Vilnius]]

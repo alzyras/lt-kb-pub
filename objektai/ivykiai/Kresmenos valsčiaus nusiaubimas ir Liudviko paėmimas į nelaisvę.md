@@ -66,19 +66,6 @@ Nenurodyta
 - t-002
   global_id: t-66638
   teiginys: "Kresmenos valsčiaus ieškoma ir į šiaurės rytus nuo Skomanto ežero, tarp Suvalkų ir Seinų."
-  temporaliniai_duomenys: "įvykio data: iki 1279 m.; įvykio data: 1259 m.; įvykio data: 1272 m.; įvykio data: 1274 m.; įvykio data: 1275 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas lietuviškas faktinis sakinys ir citata remia Kresmenos valsčiaus lokalizavimo pastabą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "524431-526608; hash=0c0a643a9ef018d57b43e79ab8cbf5489be8e5af84d5776278e805feecd5f38a; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kresmena: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kresmenos valsčiaus nusiaubimas ir Liudviko paėmimas į nelaisvę: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Kresmena: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kresmenos valsčiaus nusiaubimas ir Liudviko paėmimas į nelaisvę\" parinktas kaip owner_note_path. Targetas \"Kresmena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-66835
 
@@ -86,16 +73,6 @@ Nenurodyta
 - t-001
   global_id: t-66639
   teiginys: "Grabnyčių dieną magistras Mangoldas su kariuomene įsiveržė į Sūduvos Kresmenos valsčių ir jį nusiaubė."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "523904-524646; hash=5a550178d3b726c8e39a1f6214b88f1e5a741fb91a06e1db1232e3b95aae88ac; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kresmena: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kresmenos valsčiaus nusiaubimas ir Liudviko paėmimas į nelaisvę: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Kresmena: mention_match, place, gap=19"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kresmenos valsčiaus nusiaubimas ir Liudviko paėmimas į nelaisvę\" parinktas kaip owner_note_path. Targetas \"Kresmena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-66836
 
@@ -103,16 +80,6 @@ Nenurodyta
 - t-001
   global_id: t-66639
   teiginys: "Grabnyčių dieną magistras Mangoldas su kariuomene įsiveržė į Sūduvos Kresmenos valsčių ir jį nusiaubė."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "523904-524646; hash=5a550178d3b726c8e39a1f6214b88f1e5a741fb91a06e1db1232e3b95aae88ac; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kresmena: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kresmenos valsčiaus nusiaubimas ir Liudviko paėmimas į nelaisvę: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Kresmena: mention_match, place, gap=19"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kresmenos valsčiaus nusiaubimas ir Liudviko paėmimas į nelaisvę\" parinktas kaip owner_note_path. Targetas \"Kresmena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-66836
 
@@ -120,12 +87,6 @@ Nenurodyta
 - t-004
   global_id: t-194398
   teiginys: "Apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vardu Kresmena Brolis Mangoldas, magistras, norėdamas, kad kovos su sūduviais, narsiai jo pirmtakų pradėtos, jo vadovavimo metais ne tik nesilpnėtų, bet kasdien stiprėtų, subūrė visą savo kariuomenę ir."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "523904-524646; hash=5a550178d3b726c8e39a1f6214b88f1e5a741fb91a06e1db1232e3b95aae88ac; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-66836
 ## Reikšmingi paminėjimai
@@ -166,8 +127,8 @@ Nenurodyta
     brolis Ulrichas Bajeris, Tepliavos komtūras, bei 4 vyrai, o brolis Liudvikas iš Libencelės
     pakliuvo į nelaisvę.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -187,8 +148,8 @@ Nenurodyta
     šią klaidą, kurią lėmė dievo apvaizda, niekad nieko be priežasties nedaranti, išsisklaidė
       499  Plg. pasakojimą apie Skomanto mirtį (D. III, 224).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -201,7 +162,8 @@ Nenurodyta
 - id: c-66835
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 166-167"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 166-167."
   citata_originali: |
     Ši kariuomenė, įsiveržusi į minėtąjį valsčių, pasiklydo, tačiau per
     šią klaidą, kurią lėmė dievo apvaizda, niekad nieko be priežasties nedaranti, išsisklaidė
@@ -244,7 +206,8 @@ Nenurodyta
 - id: c-66836
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 166"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 166."
   citata_originali: |
     Apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vardu Kresmena
 

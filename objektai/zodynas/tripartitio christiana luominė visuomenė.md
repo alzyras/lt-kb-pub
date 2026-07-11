@@ -35,16 +35,6 @@ Su tripartitio christiana (visuomenės skirstymas į karius, dvasininkus ir dirb
 - t-002
   global_id: t-22330
   teiginys: "Tripartitio christiana samprata siejama su Viduramžių luomų idėja ir visuomenės skirstymu į karius, dvasininkus bei dirbančiuosius."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "75870-76350; hash=73d2896bd14aaf0f359ce0f2914f44c34d317cab115f9e00b7e9c8e38ac6431e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "tripartitio christiana luominė visuomenė: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"tripartitio christiana luominė visuomenė\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-25019
 
@@ -52,14 +42,6 @@ Su tripartitio christiana (visuomenės skirstymas į karius, dvasininkus ir dirb
 - t-003
   global_id: t-193614
   teiginys: "Su tripartitio christiana (visuomenės skirstymas į karius, dvasininkus ir dirbančius žmones) samprata galima tiesiogiai sieti ir Viduramžių luomų idėją."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "76010-76404; hash=ecfb97a6999c2110cf24d84b900a1bad368d8c29d102f7e07dae2850b3ca7c20; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-176287
 ## Reikšmingi paminėjimai
@@ -77,8 +59,8 @@ Su tripartitio christiana (visuomenės skirstymas į karius, dvasininkus ir dirb
     privilegijas ne tik Vilniaus vyskupui, bet ir bajorams, patvirtindamas jų
     nuosavybę, ir Vilniaus miestiečiams, suteikdamas jiems savivaldą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -95,8 +77,8 @@ Su tripartitio christiana (visuomenės skirstymas į karius, dvasininkus ir dirb
     nuosavybę, ir Vilniaus miestiečiams, suteikdamas jiems savivaldą. Lietu-
     vos krikštas davė pradžią luominei visuomenei.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

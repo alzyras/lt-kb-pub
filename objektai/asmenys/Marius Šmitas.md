@@ -40,11 +40,6 @@ p. 261, Marius Šmitas su medžiokliniu šautuvu 1991 m, KAM. p. 261, Marius Šm
 - t-002
   global_id: t-40327
   teiginys: "1991 m. pučo metu Marius Šmitas buvo įamžintas kartu su Pranu Kastecku."
-  temporaliniai_duomenys: "įvykio data: 1991 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1129855-1129976; hash=3eb70c49dfe2d02b701f243aeb29c56b95810d6e6230f2ce018ab8160ebf4987; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-44452
 
@@ -52,14 +47,6 @@ p. 261, Marius Šmitas su medžiokliniu šautuvu 1991 m, KAM. p. 261, Marius Šm
 - t-001
   global_id: t-40328
   teiginys: "1991 m. nuotraukoje Marius Šmitas vaizduojamas su medžiokliniu šautuvu."
-  temporaliniai_duomenys: "įvykio data: 1991 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata yra nuotraukos antraštės fragmentas, todėl teiginį reikia suformuluoti kaip pilną sakinį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1129855-1129976; hash=3eb70c49dfe2d02b701f243aeb29c56b95810d6e6230f2ce018ab8160ebf4987; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-44452
 ## Reikšmingi paminėjimai
@@ -71,8 +58,8 @@ p. 261, Marius Šmitas su medžiokliniu šautuvu 1991 m, KAM. p. 261, Marius Šm
 
     p. 261, Marius Šmitas ir Pranas Kasteckas 1991 m. pučas, KAM.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

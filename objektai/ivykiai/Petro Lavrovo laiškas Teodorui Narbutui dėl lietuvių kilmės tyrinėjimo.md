@@ -57,19 +57,6 @@ Nenurodyta
 - t-002
   global_id: t-192047
   teiginys: "Narbutas nurodė: Griškaitės aiškinimu, Lavrovo laiškai rodė, kad lietuvių kilmės klausimas penktajame dešimtmetyje tebebuvo diskusijų objektas."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "19428-19956; hash=ababdc362e6c72cffcf3869f0c98f8ef19c32f71047ef6d06369653d908f60c8; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Petro Lavrovo laiškas Teodorui Narbutui dėl lietuvių kilmės tyrinėjimo: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Petro Lavrovo laiškas Teodorui Narbutui dėl lietuvių kilmės tyrinėjimo\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174918
 
@@ -77,22 +64,6 @@ Nenurodyta
 - t-001
   global_id: t-192048
   teiginys: "T. Narbuto mokslinėje korespondencijoje išlikę 1847-1848 m. Petro Lavrovo, Lydos bajorų mokyklos vyresniojo mokytojo, laiškai."
-  teiginio_tipas: "saltinio_teiginys"
-  temporaliniai_duomenys: "įvykio data: 1847-1848; įvykio data: 1848 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sakinys sutrumpintas ir nukreiptas į laiškų faktą bei Lavrovo pareigas. Nepridėta, kad tai būtent aptariamas laiškas, nes citata kalba apie kelis laiškus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "19206-19554; hash=7997ec49747024a1417fbf63123f32523c9c14baece7fb6739a4c977d2d10c6e; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
-  ryšio_patikimumas: "susije_su -> Petras Lavrovas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Petro Lavrovo laiškas Teodorui Narbutui dėl lietuvių kilmės tyrinėjimo: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Petras Lavrovas: mention_match, author, gap=57"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Petro Lavrovo laiškas Teodorui Narbutui dėl lietuvių kilmės tyrinėjimo\" parinktas kaip owner_note_path. Targetas \"Petras Lavrovas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174917
 ## Reikšmingi paminėjimai
@@ -109,8 +80,8 @@ Nenurodyta
     vyresnysis mokytojas, Vilniaus gubernijos statistikos ko­
     miteto narys Petras Lavrovas.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -131,8 +102,8 @@ Nenurodyta
     kiuosi greitu laiku atsiųsti Tamstai, kad galėtum perskai­
     tyti ir kritiškai įvertinti.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -143,7 +114,8 @@ Nenurodyta
 - id: c-174917
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 12"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 12."
   citata_originali: |
     Tokį teiginį pailiustruoti galėtų keletas
     laiškų, atsitiktinai išlikusių T. Narbuto mokslinėje kores­
@@ -163,7 +135,8 @@ Nenurodyta
 - id: c-174918
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 12"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 12."
   citata_originali: |
     Korespondentas — Lydos bajorų mokyklos
     vyresnysis mokytojas, Vilniaus gubernijos statistikos ko­

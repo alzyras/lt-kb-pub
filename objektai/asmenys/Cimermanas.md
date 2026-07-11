@@ -41,17 +41,6 @@ Radvila tą mūrinį namą ir sklypą dovanojo savo gydytojui Cimermanui, o tą 
 - t-001
   global_id: t-87645
   teiginys: "Radvila padovanojo savo gydytojui Cimermanui mūrinį namą ir sklypą, o karalius Žygimantas Augustas šį dovanojimą patvirtino."
-  semantiniai_rysiai: "Namas priklausė Cimermanas (0.87)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "386277-386475; hash=511524ad19c70c584c320b95141aff3cde1a200bbc2f21b816954f495e9f3a38; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Cimermanas: 0.87"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Namas: llm_allowed_candidate, thing"
-  ryšio_targeto_parinkimas: "Cimermanas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai rodo, kad namas ir sklypas buvo perduoti Cimermanui."
   pagrindžia:
     - c-83624
 - susijęs iš [[objektai/asmenys/Kristupas Zalivskis.md#claim-t-87761|Kristupas Zalivskis]]: 1583 m. Savickiai pardavė namą Kristupui Zalivskiui, o vėliau jis iš Zalivskių atiteko Neliubovičiams.
@@ -69,8 +58,8 @@ Radvila tą mūrinį namą ir sklypą dovanojo savo gydytojui Cimermanui, o tą 
     tas Augustas patvirtino. Po Cimermano namas atiteko ma­
     loningiesiems ponams Savickiams.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -93,6 +82,3 @@ Radvila tą mūrinį namą ir sklypą dovanojo savo gydytojui Cimermanui, o tą 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87645
-
-## Ryšiai
-- Turėjo priklausinį: [[objektai/daiktai/Namas]]

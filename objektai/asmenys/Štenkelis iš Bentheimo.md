@@ -33,17 +33,6 @@ Dusburgietis teigia, kad kai šitaip padarė, notangai, suvokdami, kad nedidelė
 - t-001
   global_id: t-60476
   teiginys: "Štenkelis iš Bentheimo Pokarviuose įsiveržė į notangų rikiuotę ir grįždamas buvo nukautas."
-  semantiniai_rysiai: "Štenkelis iš Bentheimo kariavo prieš Notangai (0.70)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "378735-379693; hash=63ec1aaad34c563c93667017d3b5cb3f127049dfd8fd90691b1da906e776e5fe; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Notangai: 0.70"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Štenkelis iš Bentheimo: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Notangai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Kontekste priešas yra notangai, prieš kurių rikiuotę Štenkelis kovojo."
   pagrindžia:
     - c-61108
 ## Reikšmingi paminėjimai
@@ -64,8 +53,8 @@ Dusburgietis teigia, kad kai šitaip padarė, notangai, suvokdami, kad nedidelė
     dėlto, kai grįždamas brovėsi per juos, buvo nukautas, o tarp jų prasidėjo atkakli kova,
     pareikalavusi ir vienoje, ir kitoje pusėje daugybės mirtinai sužeistų arba užmuštų.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -76,7 +65,8 @@ Dusburgietis teigia, kad kai šitaip padarė, notangai, suvokdami, kad nedidelė
 - id: c-61108
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 116"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 116."
   citata_originali: |
     Broliai ir maldininkai nutarė, kad viena dalis jų kariuomenės
     sugrįžtų atgal ir pakartotinai nusiaubtų minėtąją žemę, o kita dalis — paliktų toje pačioje
@@ -96,6 +86,3 @@ Dusburgietis teigia, kad kai šitaip padarė, notangai, suvokdami, kad nedidelė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60476
-
-## Ryšiai
-- Štenkelis iš Bentheimo kariavo prieš [[objektai/grupes/Notangai]]

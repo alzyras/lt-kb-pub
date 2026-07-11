@@ -30,21 +30,6 @@ Narbutas pasakoja legendą, kad Vitolfas po žirgo praradimo grįžo su kariuome
 - t-001
   global_id: t-190119
   teiginys: "Narbutas pasakoja legendą, kad Vitolfas po žirgo praradimo grįžo su kariuomene, nugalėjo slibiną Pukį ir susitaikė su karaliumi."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "366449-366995; hash=3d619d8658b32426d11ab4bdc7b67c053837ce6aafa024d35ec1863c72366310; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Pančiai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vitolfas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Pančiai: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vitolfas\" parinktas kaip owner_note_path. Targetas \"Pančiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173002
 ## Reikšmingi paminėjimai
@@ -63,8 +48,8 @@ Narbutas pasakoja legendą, kad Vitolfas po žirgo praradimo grįžo su kariuome
     nugalėjo ir paėmė nesuskaičiuojamus turtus. Pagaliau jis susi­
     taikė su tenykščiu karaliumi, kadangi abu buvo kerėtojai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -75,7 +60,8 @@ Narbutas pasakoja legendą, kad Vitolfas po žirgo praradimo grįžo su kariuome
 - id: c-173002
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 215"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 215."
   citata_originali: |
     Kartą, kai Vitolfas puotavo pas vieną karalių,
     jo žirgas pievoje suėjo su karaliaus kumele, kuri turėjo pana­

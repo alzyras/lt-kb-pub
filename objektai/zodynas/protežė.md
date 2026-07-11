@@ -32,16 +32,6 @@ Vytautas padėti neatsisakė, nes gerai suprato, kad, turėdamas chaną sa­ vo 
 - t-001
   global_id: t-36825
   teiginys: "Vytautas sutiko padėti chanui, nes tikėjosi, kad turėdamas jį savo protežė sustiprins santykius su totoriais ir Rusia."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "690716-691131; hash=0da69caa83783ebaf3623eaa2022edc5e7f89e007c9d9333e528fca479e58dd3; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Rusai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "protežė: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Rusai: mention_match, group, gap=45"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"protežė\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-38758
 ## Reikšmingi paminėjimai
@@ -57,8 +47,8 @@ Vytautas padėti neatsisakė, nes gerai suprato, kad, turėdamas chaną sa­ vo 
     Kotlogo vietoj, o pats tada atsisėsiu Didžioj Maskvos kunigaikš­
     tijoje ir valdysiu visą Rusiją^2 ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

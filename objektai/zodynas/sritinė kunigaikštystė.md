@@ -35,9 +35,6 @@ sritinė kunigaikštystė: tik Lietuvos feoda- lizmas buvo kiek kitoks: jis skyr
 - t-001
   global_id: t-72757
   teiginys: "Lietuvos sritinės kunigaikštystės buvo laikomos ne kunigaikščio nuosava valstybe, o administracine apygarda."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "338897-339263; hash=f1a0698502856251ed16b9969b7eed07d08dd2cd212fbf16c3724f8fe4942d7b; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-71130
 
@@ -45,14 +42,6 @@ sritinė kunigaikštystė: tik Lietuvos feoda- lizmas buvo kiek kitoks: jis skyr
 - t-002
   global_id: t-193158
   teiginys: "Lietuvos sritinės kunigaikštystės buvo laikomos ne tiek jas gavusio kunigaikščio nuosava valstybe, kiek administracine apygarda."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "339131-339544; hash=0671854947c69fa2cbd92b4e7d8d8e9c988a3899feb36c43dfd7531d2c6c6ad2; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-175910
 ## Reikšmingi paminėjimai
@@ -67,8 +56,8 @@ sritinė kunigaikštystė: tik Lietuvos feoda- lizmas buvo kiek kitoks: jis skyr
     tinės kunigaikštystės buvo laikomos ne tiek jas gavusio kunigaikš-
     čio nuosava valstybe, kiek administracine apygarda.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -86,8 +75,8 @@ sritinė kunigaikštystė: tik Lietuvos feoda- lizmas buvo kiek kitoks: jis skyr
     Tuo tarpu Vakaruose vasalų valstybės buvo pastovios ir neliečiamos;
     jos buvo kunigaikščių gaunamos iš tėvų, o ne iš suvereno malonės.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

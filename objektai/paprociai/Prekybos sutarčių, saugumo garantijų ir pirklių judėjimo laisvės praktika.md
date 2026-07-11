@@ -61,17 +61,6 @@ Nenurodyta
 - t-003
   global_id: t-87146
   teiginys: "Švitrigaila laiške didžiajam magistrui prašė saugumo garantijų Vilniaus gyventojui Bomannui, vykstančiam į Gdanską prekybos reikalais."
-  semantiniai_rysiai: "Švitrigaila siuntė į Kistrinas (0.77)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "431827-432846; hash=199b95d1c7cdde216d67b63b60bb6ecbb0aff1187122cbb90f5e59be1a975215; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "siunte_i -> Kistrinas: 0.77"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kistrinas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Laiške Švitrigaila sako pasiuntęs asmenį ir prašo palydėti jį į Kistriną."
   pagrindžia:
     - c-83124
 
@@ -79,17 +68,6 @@ Nenurodyta
 - t-001
   global_id: t-87147
   teiginys: "Vasario pradžioje Didžiojo Naugardo bojarinai Ivanas Jermoliničius ir Chariničius Vilniuje sudarė su Švitrigaila sutartį dėl abipusio saugumo ir prekybos laisvės."
-  semantiniai_rysiai: "Didžiojo Naugardo bojarinai sudarė sutartį su Švitrigaila (0.97); Ivanas Jermoliničius sudarė sutartį su Švitrigaila (0.94); Didžiojo Naugardo bojarinai keliavo į Vilnius (0.90); Didžiojo Naugardo bojarinai priklausė Didžiojo Naugardo respublika (0.90); Vilnius prekiavo su Rusai (0.78)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "428769-429556; hash=7bb29fb7c2e6d8662bfa964f410169d460bc5fbb0632058b78484973549ffc32; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "sudare_sutarti_su -> Švitrigaila: 0.97"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Didžiojo Naugardo bojarinai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo, kad Didžiojo Naugardo bojarinai sudarė sutartį su Švitrigaila."
   pagrindžia:
     - c-83125
 ## Reikšmingi paminėjimai
@@ -130,8 +108,8 @@ Nenurodyta
     kadangi mums rodo daug palanku­
     mo".
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -155,8 +133,8 @@ Nenurodyta
     pasiekę Gdanską ir Sileziją, neskaitant Karaliaučiaus, Rygos
     ir rusų miestų, su kuriais buvo prekiaujama nuo seno.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -54,17 +54,6 @@ Nenurodyta
 - t-001
   global_id: t-62733
   teiginys: "Po mūšio viena moteris su kitais Kulmo pilėnais nuėjo į kovos lauką laidoti žuvusiųjų kūnų."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "297747-298427; hash=d8e55b305ed55095139e20e82be3e9b7af3826f5a3e77ceb3e9f0c1fbd5d89aa; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kulmas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žuvusiųjų laidojimas mūšio lauke po Kulmo kautynių (mūšis): owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Kulmas: mention_match, place, gap=33"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žuvusiųjų laidojimas mūšio lauke po Kulmo kautynių (mūšis)\" parinktas kaip owner_note_path. Targetas \"Kulmas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-63501
 ## Reikšmingi paminėjimai
@@ -84,8 +73,8 @@ Nenurodyta
     drauge su kitais parvestas į Kulmo miestą, jis trečią dieną, kaip buvo sakęs, pasimirė, o
     visi žmonės patikėjo jos žodžiais.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -96,7 +85,8 @@ Nenurodyta
 - id: c-63501
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 90"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 90."
   citata_originali: |
     41. Apie vieną stebuklą
 

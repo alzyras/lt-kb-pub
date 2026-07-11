@@ -42,16 +42,6 @@ Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba, mieste atsirado 
 - t-009
   global_id: t-172850
   teiginys: "Buvo pageidaujama, kad Vilniaus miestiečiai ir pirkliai neprieštaraudami apskaičiuotų ir sumokėtų muitus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "645750-646336; hash=b7f59543cf270b6181c81e52914a7e8d02bd483f8fb033c3215748d07cfdd904; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilniaus miestiečių luomas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilniaus pirkliai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Vilniaus miestiečių luomas: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus pirkliai\" parinktas kaip owner_note_path. Targetas \"Vilniaus miestiečių luomas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-157224
 
@@ -59,19 +49,6 @@ Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba, mieste atsirado 
 - t-005
   global_id: t-172851
   teiginys: "1586 m. liepos 11 d. Stepono Batoro sprendimas kilo iš ginčo tarp kai kurių Vilniaus pirklių ir Vilniaus vaito."
-  temporaliniai_duomenys: "įvykio data: 1586 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pagrindžia ginčo šalis ir sprendimo datą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "593774-594681; hash=b71e601856f4f784d6e060bc607940bfe1733a0075f317f2b7bda560da8dfad4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilniaus pirkliai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus pirkliai\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-157219
 
@@ -79,17 +56,6 @@ Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba, mieste atsirado 
 - t-007
   global_id: t-172852
   teiginys: "Steponas Batoras, Lietuvos senatorių prašomas ir Vilniaus pirkliams protestuojant, laikinai atleido juos nuo naujo muito mokesčio."
-  semantiniai_rysiai: "Steponas Batoras rėmė Vilniaus pirkliai (0.72)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "640614-641624; hash=cfe414358cf2e7c65937bbed0cab5567ff2fff80db84474c40e665c80ac9d476; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "reme -> Vilniaus pirkliai: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Steponas Batoras: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilniaus pirkliai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Muito laikinas atleidimas tiesiogiai taikomas Vilniaus pirkliams, nors tai administracinė parama."
   pagrindžia:
     - c-157218
 
@@ -97,16 +63,6 @@ Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba, mieste atsirado 
 - t-006
   global_id: t-172854
   teiginys: "Pirkliai per Velykas pagal pataisytą kalendorių pardavinėjo prekes, nepaisydami katalikiškų švenčių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "595244-595829; hash=756b72b48fda133bf7c2f33290c79ad18ed290b644f33024965fe01d950a2ce3; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> vaitas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilniaus pirkliai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "vaitas: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus pirkliai\" parinktas kaip owner_note_path. Targetas \"vaitas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-157223
 
@@ -114,16 +70,6 @@ Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba, mieste atsirado 
 - t-008
   global_id: t-172855
   teiginys: "Vilniaus pirkliai ir gyventojai, remdamiesi privilegijomis, priešinosi muito mokėjimui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "642738-643038; hash=6fe59fc074e8ae77d27551cf6a162426c319aafa17392b3eaea76cc168c9930c; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "reme -> Vilniaus pirkliai: 0.87"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Radvila: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilniaus pirkliai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Radvila užstojo Vilniaus pirklius ir gyventojus muito ginče."
   pagrindžia:
     - c-157217
 
@@ -131,16 +77,6 @@ Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba, mieste atsirado 
 - t-002
   global_id: t-172856
   teiginys: "Karalius daug kartų draudė muitininkams imti muitą iš Vilniaus pirklių už vašką ir kitas prekes."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "537763-537982; hash=d136bcda105a0d8c9893ee7a31574fcb8b96faa2797fe026a11ffacccb238915; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vaškas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilniaus pirkliai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Vaškas: mention_match, thing, gap=20"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus pirkliai\" parinktas kaip owner_note_path. Targetas \"Vaškas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-157216
 
@@ -148,16 +84,6 @@ Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba, mieste atsirado 
 - t-003
   global_id: t-172857
   teiginys: "Kaune buvęs Vilniaus pirklių prekių sandėlis buvo atleistas nuo mokesčių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "539009-540981; hash=cd5dddad2df249956ddc79248d40ca4912eea017712be4e7f82467dc0befeca2; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilniaus pirkliai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus pirkliai\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-157220
 
@@ -165,16 +91,6 @@ Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba, mieste atsirado 
 - t-001
   global_id: t-172858
   teiginys: "Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba ir atsirado daug turtingų su užsienio kraštais prekiavusių pirklių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "536813-537204; hash=30c4dc21e272df5fb90bb035d794322f009ce1dcfaf22d90c32d650e8f44e335; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilniaus pirkliai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=92"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus pirkliai\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-157222
 - susijęs iš [[objektai/asmenys/Mikalojus Radvila Rudasis.md#claim-t-113893|Mikalojus Radvila Rudasis]]: Mikalojus Radvila Rudasis užstojo Vilniaus pirklius ir gyventojus, prašydamas karaliaus atidėti muitus iki būsimo seimo.
@@ -206,8 +122,8 @@ Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba, mieste atsirado 
     kad nuo vaško ir kitų prekių iš Vil­
     niaus pirklių neimtų muito.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -224,8 +140,8 @@ Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba, mieste atsirado 
     prašydamas karaliaus šiuos muitus atidėti iki būsimo sei­
     mo, ir karalius sutiko.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -261,8 +177,8 @@ Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba, mieste atsirado 
     to tarybos, prie jo esančios ir žinančios skubiausiai
     tvarkytinus Respublikos reikalus, sutikimu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -299,8 +215,8 @@ Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba, mieste atsirado 
     jams su lygiai tokia pačia pagarba
     švęsti]; jo turinys yra toks.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -374,8 +290,8 @@ Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba, mieste atsirado 
     prekių sandėlis ir leista Vilijos upe laisvai plaukioti jų lai­
     vams, vadinamoms vytinėms.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -395,8 +311,8 @@ Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba, mieste atsirado 
     18
     Daugiau žinių apie Švč.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -424,8 +340,8 @@ Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba, mieste atsirado 
     tik jų nepaklausė, bet dar ir sumušė
     vaito pasiuntinius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -452,8 +368,8 @@ Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba, mieste atsirado 
     IV  KNYGA
     tegu pakenčia.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -730,5 +646,4 @@ Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba, mieste atsirado 
     - t-172850
 
 ## Ryšiai
-- Priešai: [[objektai/asmenys/Stanislovas Sabina]]
-- Rėmė Vilniaus pirkliai: [[objektai/asmenys/Mikalojus Radvila Rudasis]], [[objektai/asmenys/Steponas Batoras]]
+- Rėmė Vilniaus pirkliai: [[objektai/asmenys/Mikalojus Radvila Rudasis]]

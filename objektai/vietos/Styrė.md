@@ -30,20 +30,6 @@ Lenkams prie Lucko reikėjo persikelti per Styrės upę, tekančią dumbluota va
 - t-001
   global_id: t-185308
   teiginys: "Lenkams prie Lucko reikėjo persikelti per Styrės upę, tekančią dumbluota vaga per pelkes tarp aukštų krantų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Lenkai keliavo į Styrė (0.66)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "760657-761124; hash=8f5903f74cde8877f03873c83ff5a28195318922f984ce304be538fd00e92531; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Styrė: 0.66"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lenkai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Styrė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo lenkų judėjimą per Styrės upę prie Lucko, nors santykis „keliavo_i“ tik apytikriai perteikia persikėlimą."
   pagrindžia:
     - c-168669
 - susijęs iš [[objektai/asmenys/Malte-Brunas.md#claim-t-191294|Malte-Brunas]]: Malte-Brunas pastebėjo, kad stūmių gyvenamųjų vietų pavadinimą išsaugojo Styrės upė.
@@ -74,8 +60,8 @@ Lenkams prie Lucko reikėjo persikelti per Styrės upę, tekančią dumbluota va
     mą plaustams ir tiltams, lenkai nežinojo, kaip galės stoti
     į kovą ir kaip nusigaus į kitą krantą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -86,7 +72,8 @@ Lenkams prie Lucko reikėjo persikelti per Styrės upę, tekančią dumbluota va
 - id: c-168669
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 433"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 433."
   citata_originali: |
     Karo audra pamažėle artėjo prie
     Lucko, nes niekas nedrįso su ginklu rankose užstoti Bo­
@@ -103,6 +90,3 @@ Lenkams prie Lucko reikėjo persikelti per Styrės upę, tekančią dumbluota va
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185308
-
-## Ryšiai
-- Buvo kelionės vieta: [[objektai/grupes/Lenkai]]

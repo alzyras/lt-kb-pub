@@ -34,14 +34,6 @@ Radvilos Juodojo, suorganizavo mokslintus lietuvius, kurie paskelbė atsakymą O
 - t-001
   global_id: t-194836
   teiginys: "Vis dėlto, įsiskaičius į Ožechovskio veikalą, galima įžiūrė ti iš už uždangų kyšant jo atvirą plunksną, arba kad Romos katalikų bažnyčios dvasininkija Lenkijoje ir Lietuvoje turėjo kažkokią slaptą priežastį po tamsia uždanga slėpti pakartotinį krikštijimą ir."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "715322-716061; hash=9b5a180ba97d5a7ceff8369ce0c094ebfc099415773c1fcc977f6e7dbaf1c569; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-177232
 ## Reikšmingi paminėjimai
@@ -64,8 +56,8 @@ Radvilos Juodojo, suorganizavo mokslintus lietuvius, kurie paskelbė atsakymą O
     naują vardą: krikštijimas vandeniu, patepimas šventais alie­
     jais, sutvirtinimas, įstojimas į vienuolius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -76,7 +68,8 @@ Radvilos Juodojo, suorganizavo mokslintus lietuvius, kurie paskelbė atsakymą O
 - id: c-177232
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 399"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 399."
   citata_originali: |
     Pati bulė kalba apskritai apie rusinus,
     tarytum tas pavadinimas nereikštų graikų ir rusų bažnyčios, o

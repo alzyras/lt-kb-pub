@@ -45,21 +45,6 @@ Nenurodyta
 - t-001
   global_id: t-189695
   teiginys: "Narbutas Perkūno stabų pirminę formą aiškina kaip didžiulį ąžuolą arba neapdorotą ąžuolo gabalą, panašų į Maksimo Tirėjiečio aprašytus Jupiterio stabus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "419112-419632; hash=a19e1a804840fdf08825e378ea741c2e93a0be5dd6d06b0cdfa3209ff79083ba; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Romovė: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Perkūno stabai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Romovė: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Perkūno stabai\" parinktas kaip owner_note_path. Targetas \"Romovė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172578
 
@@ -67,21 +52,6 @@ Nenurodyta
 - t-002
   global_id: t-189696
   teiginys: "Narbutas rašo, kad Romovės šventyklos aprašyme Perkūno stabas minimas kaip vyriausiojo dievo atvaizdas, buvęs puošnesnis už kitus."
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "419517-420059; hash=a74d27098b34a5f513b5135141bb8ab48ac9689bb825cea4c787859f23a48bf5; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kijevas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Perkūno stabai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Kijevas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Perkūno stabai\" parinktas kaip owner_note_path. Targetas \"Kijevas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172579
 - susijęs iš [[objektai/asmenys/Aurelijus Antoninas.md#claim-t-190084|Aurelijus Antoninas]]: Narbutas imperatoriaus Aurelijaus Antonino Heliogabalą lygina su Santvaro, vadinto Gabija, arba ugnies dievo stabu.
@@ -102,8 +72,8 @@ Nenurodyta
     istorikai aiškiai mini vyriausiojo dievo Perkūno stabą, kuris
     buvęs puošnesnis už kitus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -124,8 +94,8 @@ Nenurodyta
     tula, liemuo iš ąžuolo, galva sidabrinė, ūsai ir ausys auksinės,
     kojos geležinės, kumštyje laikė kažką panašaus į žaibus23.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -136,7 +106,8 @@ Nenurodyta
 - id: c-172578
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 243"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 243."
   citata_originali: |
     Perkūno stabai iš karto turėjo būti tokie, apie kokius kal­
     ba Maksimas Tirėjietis, nusakydamas senovinius Jupiterio sta­
@@ -157,7 +128,8 @@ Nenurodyta
 - id: c-172579
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 243"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 243."
   citata_originali: |
     O šios šventyklos aprašyme
     istorikai aiškiai mini vyriausiojo dievo Perkūno stabą, kuris
@@ -175,6 +147,3 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189696
-
-## Ryšiai
-- Perkūno stabai priklausė [[objektai/vietos/Romovė]]

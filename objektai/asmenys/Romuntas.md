@@ -31,20 +31,6 @@ Romuntas buvo Giliginio sūnus ir sosto įpėdinis. Narbuto pasakojime Romuntas 
 - t-001
   global_id: t-186160
   teiginys: "Romuntas buvo Giliginio sūnus ir sosto įpėdinis."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Romuntas buvo sūnus Giliginas (0.95)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "223656-223991; hash=a267a3569b6e8c9cd25e09f284dda9581f3b4eb685360f0de57b86886918849a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sunus -> Giliginas: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Romuntas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Giliginas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Romuntas buvo Giliginio sūnus."
   pagrindžia:
     - c-169521
 
@@ -52,21 +38,6 @@ Romuntas buvo Giliginio sūnus ir sosto įpėdinis. Narbuto pasakojime Romuntas 
 - t-002
   global_id: t-190966
   teiginys: "Narbuto pasakojime Romuntas buvo Traidenio ir Mazovijos kunigaikštytės sūnus, vadinamas garsiu lietuvių istorijoje."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "240037-240520; hash=72973052dc8283bb36e9409d92d12e4013eecaee6b634a089cba345b777d4251; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Romuntas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=76"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Romuntas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173848
 - susijęs iš [[objektai/asmenys/Traidenis.md#claim-t-184844|Traidenis (valdovas, XIII a.)]]: Kojelavičiaus pasakojime Traidenis dar Romuntui gyvam esant vadovavo kariuomenei kaip vyriausiasis vadas.
@@ -89,8 +60,8 @@ Romuntas buvo Giliginio sūnus ir sosto įpėdinis. Narbuto pasakojime Romuntas 
     lių šaltinių minimas pasakojimas, jog jis mirė bevai­
     kis.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -111,8 +82,8 @@ Romuntas buvo Giliginio sūnus ir sosto įpėdinis. Narbuto pasakojime Romuntas 
     dovas, tironiškai elgėsi su valdiniais ir užkariautais žmo­
     nėmis1.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -123,7 +94,8 @@ Romuntas buvo Giliginio sūnus ir sosto įpėdinis. Narbuto pasakojime Romuntas 
 - id: c-169521
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 132"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 132."
   citata_originali: |
     Vargu ar tuo skai­
     čiumi galima patikėti, vis dėlto jis svariai įrodo, jog
@@ -146,7 +118,8 @@ Romuntas buvo Giliginio sūnus ir sosto įpėdinis. Narbuto pasakojime Romuntas 
 - id: c-173848
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 133"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 133."
   citata_originali: |
     Juo tapo
     tikras Narimanto brolis Traidenis, kuris buvo Jotvingijos

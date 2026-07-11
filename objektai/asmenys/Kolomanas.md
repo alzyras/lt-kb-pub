@@ -35,17 +35,6 @@ Dusburgietis teigia, kad apie Vengrijos bei Lenkijos nuniokojimą ir apie Koloma
 - t-001
   global_id: t-60357
   teiginys: "Totoriams įsiveržus į Vengriją ir Lenkiją, mūšyje žuvo Vengrijos karaliaus brolis Kolomanas."
-  semantiniai_rysiai: "Totoriai puolė Vengrija (0.96); Totoriai puolė Lenkija (0.96); Totoriai kariavo prieš Kolomanas (0.83)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "699223-699720; hash=84a46f3a7cfbec6886201d8750948e9744f93253740da61cb0f1a4f33f9efd98; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Lenkija: 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Totoriai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo totorių įsiveržimą į Lenkiją."
   pagrindžia:
     - c-60989
 - susijęs iš [[objektai/ivykiai/Lietuvių žygis į Lenkiją ir Volynės atgavimas; Kęstučio nelaisvė ir pabėgimas (1350-1351 m.).md#claim-t-185611|Lietuvių žygis į Lenkiją ir Volynės atgavimas; Kęstučio nelaisvė ir pabėgimas (1350-1351 m.)]]: Kazimierui kovusis su karaliaus stovyklą užpuolusiu lietuvių pulku, lietuviai buvo išsklaidyti, o Kęstutis pateko į nelaisvę.
@@ -63,8 +52,8 @@ Dusburgietis teigia, kad apie Vengrijos bei Lenkijos nuniokojimą ir apie Koloma
     galybę kitų, kuriuos ten stengė užtikti, o tas šalis pavertė dykromis, todėl daug žmonių
     vieno kalno dulkėmis maitinosi nelyginant miltais (Mart. p. 399).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -75,7 +64,8 @@ Dusburgietis teigia, kad apie Vengrijos bei Lenkijos nuniokojimą ir apie Koloma
 - id: c-60989
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 229"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 229."
   citata_originali: |
     27. Apie Vengrijos bei Lenkijos nuniokojimą ir apie Kolomano, Vengrijos karaliaus bro­
                                   lio, ir Henriko, Vroclavo kunigaikščio, žūtį
@@ -91,6 +81,3 @@ Dusburgietis teigia, kad apie Vengrijos bei Lenkijos nuniokojimą ir apie Koloma
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60357
-
-## Ryšiai
-- Kariavo prieš: [[objektai/grupes/Totoriai]]

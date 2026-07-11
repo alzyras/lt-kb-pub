@@ -59,20 +59,6 @@ Nenurodyta
 - t-001
   global_id: t-86976
   teiginys: "Gediminas 1337 m. buvo nužudytas mūšyje su kryžiuočiais prie Bajerburgo pilies, netoli Veliuonos."
-  semantiniai_rysiai: "Gediminas dalyvavo mūšyje Gedimino žūtis Bajerburgo mūšyje (1337 m.) (0.86)"
-  temporaliniai_duomenys: "įvykio data: 1337 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata tiesiogiai nurodo Gedimino žūtį, datą ir vietą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "76950-78076; hash=0ef0f495dc9763daad835f6f258e5aa480a1b240fda298cabf2e7faa004e9235; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "dalyvavo_musyje -> Gedimino žūtis Bajerburgo mūšyje (1337 m.): 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Gedimino žūtis Bajerburgo mūšyje (1337 m.): llm_allowed_candidate, event"
-  ryšio_paaiskinimas: "Teiginys sieja Gediminą su mūšiu prie Bajerburgo."
   pagrindžia:
     - c-82955
 ## Reikšmingi paminėjimai
@@ -106,8 +92,8 @@ Nenurodyta
     Bremeno pirkliai jau buvo pastaty­
     dinę keletą namų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -151,6 +137,3 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86976
-
-## Ryšiai
-- Turėjo dalyvį: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]

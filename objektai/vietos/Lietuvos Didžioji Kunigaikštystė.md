@@ -30,12 +30,6 @@ Kadangi mes Lietuvos Didžiojoje Kunigaikštystėje turime nejudamojo tur to, ar
 - t-001
   global_id: t-194282
   teiginys: "Kadangi mes Lietuvos Didžiojoje Kunigaikštystėje turime nejudamojo tur to, arba valdų, atitekusių iš jo didenybės mūsų velionio tė vo, kurias mums, gyvas būdamas, beveik visas, kaip ir pats jo karališkoji didenybė turėjo, malonėjo duoti ir dovanoti, kaip tai."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "656819-658627; hash=959fcb6e0a58491733f6be37a606d4814fcbeb8017abeb362e622df80afac201; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176874
 
@@ -43,12 +37,6 @@ Kadangi mes Lietuvos Didžiojoje Kunigaikštystėje turime nejudamojo tur to, ar
 - t-002
   global_id: t-194283
   teiginys: "Jeigu kredenso pritrūktų, prašo me, kad tiems mūsų tarnams pagal kiekvieno nuopelnus iš valstybės iždo, kaip Karalystės, taip ir Lietuvos, kiekvienam būtų sumokėta, kad būtų dievobaimingai už ištikimą savo tarnystę atlyginti, o jeigu šis mūsų kredensas būtų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "675621-676517; hash=86ae5284d202654c67336b6b1f96cad7894e4fb0d80190b7d0d8098b78c95e92; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176875
 ## Reikšmingi paminėjimai
@@ -90,8 +78,8 @@ Kadangi mes Lietuvos Didžiojoje Kunigaikštystėje turime nejudamojo tur to, ar
     Ir juos naudoja už duoklę mūsų tei- mums galima ir, be abejo, labiausiai
     sėtai gynybai kaip nuosavus, tad galima.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -118,8 +106,8 @@ Kadangi mes Lietuvos Didžiojoje Kunigaikštystėje turime nejudamojo tur to, ar
     visi ginklai bei karinė amunicija privalo ten likti kaip mūsų
     nuosavoje pilyje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -39,14 +39,6 @@ Vida buvo švedų kilmės bartininko Vidmanto iš Kuršo duktė.
 - t-001
   global_id: t-194838
   teiginys: "Vida buvo švedų kilmės bartininko Vidmanto iš Kuršo duktė."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "363961-364296; hash=bf79869d138938eeb1a9cf3f8af61244872fe8ed201677c8b1d19ebe0a3ca10e; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-177234
 ## Reikšmingi paminėjimai
@@ -62,8 +54,8 @@ Vida buvo švedų kilmės bartininko Vidmanto iš Kuršo duktė.
     rimantas (Narimund, tai reiškia: Pasaulio pabaiga, nes Vida
     mirė tuoj po jo gimimo) -  1277 metais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -74,7 +66,8 @@ Vida buvo švedų kilmės bartininko Vidmanto iš Kuršo duktė.
 - id: c-177234
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 214"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 214."
   citata_originali: |
     Gediminas taip pat turėjo tris žmonas: Vidą, Olgą ir
     Jaunę, o su jomis -  septynis sūnus3. Vida buvo švedų kilmės

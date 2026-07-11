@@ -32,19 +32,6 @@ Jonušas puolė Suražą.
 - t-001
   global_id: t-187338
   teiginys: "Jonušas, atvykęs su kariuomene į Drohičiną, puolė Suražą, Kamenecą ir apgulė Brastą."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "142297-142613; hash=c0f7a32f1d82d8dc60e36f1bc4ac412ab4a8292295a3fa1209c6d54c9f72719a; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  ryšio_patikimumas: "susije_su -> Brasta: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Suražas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Brasta: mention_match, place, gap=27"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Suražas\" parinktas kaip owner_note_path. Targetas \"Brasta\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-170363
 - susijęs iš Brasta: Jogaila užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis.
@@ -72,8 +59,8 @@ Jonušas puolė Suražą.
     pastato įgulą; puola Suražą, puola Kamenecą ir apgula
     Brastą, o Brastoje — savo uošvę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

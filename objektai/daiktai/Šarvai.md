@@ -59,12 +59,6 @@ Nenurodyta
 - t-001
   global_id: t-12345
   teiginys: "Ordino riterius, šarvuotus metaliniais šarvais, atvirame lauke kepino karšta liepos mėnesio saulė."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Reikia pašalinti OCR triukšmą ir sutrumpinti sakinį iki vieno aiškaus fakto apie šarvus."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Saulė|Saulė]]; mentioned_place: Viena"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "228318-228693; hash=d7393c5e98a5f2f8ddb928345e12423bd7b23b4ed82c384678d16b22924c17aa; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
   pagrindžia:
     - c-174940
 
@@ -72,12 +66,6 @@ Nenurodyta
 - t-002
   global_id: t-12346
   teiginys: "Sunkiąją kavaleriją sudarė raiti kariai, apkaustyti tvirtais metaliniais šarvais nuo galvos iki kojų, šarvuodavę net arklius."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata."
-  susije_objektai: "mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "211031-211430; hash=6081c82babb59ce20be8bd74375d1f59a4ca4863915a6b4babf993e7bb8698ad; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
   pagrindžia:
     - c-14350
 
@@ -85,17 +73,6 @@ Nenurodyta
 - t-005
   global_id: t-192068
   teiginys: "Narbutas pasakoja, kad du paklydę priešų vadai buvo apsiginklavę šarvais ir buvo nukauti."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "234739-234954; hash=b948165419867358bbd88e3943c5537feb7d261a77a2005687a6d6fbe59fd474; match=whitespace_regex"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
-  ryšio_patikimumas: "susije_su -> Danielius: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Šarvai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Danielius: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šarvai\" parinktas kaip owner_note_path. Targetas \"Danielius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-174939
 
@@ -103,12 +80,6 @@ Nenurodyta
 - t-003
   global_id: t-192069
   teiginys: "Pasimeldęs Jogaila, Vytauto ir lenkų riterių raginamas, užsidėjo šarvus ir nuvyko prie kariuomenės."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Reikia pašalinti OCR triukšmą."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "228582-228859; hash=cf534326eaaebb02a380eaae022fc4624bd53cfaa751933b2b920c6e31426416; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
   pagrindžia:
     - c-174938
 
@@ -116,18 +87,6 @@ Nenurodyta
 - t-004
   global_id: t-192070
   teiginys: "Lengvosios kavalerijos šarvai buvo lengvesni, dengė pečius ir krūtinę, o galvas saugojo šalmai."
-  teiginio_tipas: "faktas"
-  susije_objektai: "mentioned_object: [[objektai/daiktai/Lankai|Lankai]]; mentioned_object: [[objektai/daiktai/Skydas|Skydas]]; mentioned_object: [[objektai/zodynas/lengvoji kavalerija|lengvoji kavalerija]]"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "211431-211718; hash=4be875f0f08f5558cdc79872d567935d80c2e8c7b463205599fad544d598ee02; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
-  ryšio_patikimumas: "susije_su -> Lankai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Šarvai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lankai: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šarvai\" parinktas kaip owner_note_path. Targetas \"Lankai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-14351
 - susijęs iš [[objektai/asmenys/Gerhardas, pravarde Rudė.md#claim-t-60288|Gerhardas, pravarde Rudė]]: Lietuviai paaukojo dievams Sembos fogtą Gerhardą Rudę, sudegindami jį su šarvais ant jo kovos žirgo.
@@ -168,8 +127,8 @@ Nenurodyta
     sitaikydavo nuo arklio nusiversti, tai ant jo užsėsti kautynių
     laiku jiems būdavo labai sunku.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -185,8 +144,8 @@ Nenurodyta
     kirvis, kuoka, plaktukas, lankai ir skydas nuo smūgių prisi­
     dengti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -202,8 +161,8 @@ Nenurodyta
     vyko prie kariuomenės. Kariuomenė jau buvo visai paruošta ir
     laukė ženklo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -218,8 +177,8 @@ Nenurodyta
     apsiginklavę šarvais buvo nukauti, o trečiasis sugautas ir
     atvestas pas kunigaikštį Danielių.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -236,8 +195,8 @@ Nenurodyta
     riuomenė nerimavo ir norėjo pradėti mūšį, bet to padaryti ne­
     galėjo, nes ne viskas buvo sutvarkyta.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -309,7 +268,8 @@ Nenurodyta
 - id: c-174939
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 130"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 130."
   citata_originali: |
     Čia
     mūšis ir baigėsi. Kitą rytą pastebėta, jog kai kurie priešų
@@ -344,6 +304,3 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-12345
-
-## Ryšiai
-- Šarvai priklausė [[objektai/asmenys/Mikalojus Radvila Juodasis]]

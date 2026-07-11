@@ -38,20 +38,6 @@ Lenkų kariuomenė šios sumaišties metu 1610 m. sumušusi rusus prie Klušino,
 - t-001
   global_id: t-41797
   teiginys: "1610 m. lenkų kariuomenė sumušė rusus prie Klušino ir užėmė Maskvą."
-  semantiniai_rysiai: "Lenkai užėmė Maskva (0.93); Lenkai kariavo prieš Rusai (0.90)"
-  temporaliniai_duomenys: "įvykio data: 1610 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Perrašyta sklandžiau, pašalinant perteklinį kontekstą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "481356-481705; hash=dcb8bc2f17c620efef2108e841faeffe0d14e2aa786feff925a7df82f2ba5356; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Maskva: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lenkai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Maskva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad lenkų kariuomenė užėmė Maskvą."
   pagrindžia:
     - c-45144
 ## Reikšmingi paminėjimai
@@ -72,8 +58,8 @@ Lenkų kariuomenė šios sumaišties metu 1610 m. sumušusi rusus prie Klušino,
     Dalis Rusijos bojarinų naujuoju caru iš-
     rinko Zigmanto Vazos sūnų Vladislovą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

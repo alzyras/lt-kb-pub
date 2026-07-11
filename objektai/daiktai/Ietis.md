@@ -64,13 +64,6 @@ Nenurodyta
 - t-002
   global_id: t-192077
   teiginys: "1329 m. Jonas Liuksemburgietis ir lietuvių didikas Margalis raiti susirėmė ietimis, o jas sulaužę ėmė kautis kalavijais."
-  teiginio_tipas: "faktas"
-  susije_objektai: "mentioned_object: [[objektai/daiktai/Kalavijai|Kalavijai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Jonas Liuksemburgietis|Jonas Liuksemburgietis]]; mentioned_place: Europa; mentioned_place: Čekija"
-  temporaliniai_duomenys: "įvykio data: 1329 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "173007-173321; hash=de42e61b3a1c56ce1465578ac96f22153a001e3b94dfbdc311dac5b53c7893ee; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
   pagrindžia:
     - c-42503
 
@@ -78,12 +71,6 @@ Nenurodyta
 - t-001
   global_id: t-192078
   teiginys: "Lietuvos metraštis pasakoja, kad Algirdas atrėmė savo ietį į Maskvos sieną ir liepė prisiminti, jog „lietuvių ietis“ stovėjo prie Maskvos."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Poleminei kronikos scenai reikia inline atribucijos; sutrauktas dubliuotas teiginys."
-  susije_objektai: "mentioned_place: Maskva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Lietuva"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "131320-132163; hash=01617be5737d7e143bd8c97f8bfa26104c2f2cf966e835334e938c876a9fdb0f; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
   pagrindžia:
     - c-174948
 
@@ -91,15 +78,6 @@ Nenurodyta
 - t-003
   global_id: t-192079
   teiginys: "Pasak pasakojimo, Algirdas atrėmė ietį į Maskvos miesto sieną ir pareiškė, kad lietuvių ietis stovėjo prie Maskvos."
-  teiginio_tipas: "faktas"
-  susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/posakiai/„Maskvos didysis kunigaikšti, atmink, kad lietuvių ietis stovėjo prie Maskvos!“|„Maskvos didysis kunigaikšti, atmink, kad lietuvių ietis stovėjo prie Maskvos!“]]; mentioned_place: Maskva; mentioned_object: [[objektai/daiktai/Vilniaus gaisro gesinimo įrankiai|Vilniaus gaisro gesinimo įrankiai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]"
-  temporaliniai_duomenys: "įvykio data: 1372 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "189838-190332; hash=35b950f9e0e47af2607c5d8e293c4b6d94342759a3534dcdc0a1a0deea532e7f; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
-  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-174947
 - susijęs iš [[objektai/asmenys/Danielius.md#claim-t-191160|Danielius]]: Narbutas pasakoja, kad traukiantis jotvingiams Danielius pavijo vadą Nebrą, atėmė jo ietį ir jį sužeidė, bet grįžo padėti Vasilkai.
@@ -160,8 +138,8 @@ Nenurodyta
     burgiečio dvikova su lietuviu didiku Margaliu (Margiriu?). Kai jie
     raiti susirėmė ir sulaužę ietis ėmė kirstis kalavijais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -183,8 +161,8 @@ Nenurodyta
 
     1368, 1370, 1372 m.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -211,8 +189,8 @@ Nenurodyta
     žmonių paėmęs nelaisvėn, o visus savo žmones išsau­
     gojęs, išžygiavo namo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

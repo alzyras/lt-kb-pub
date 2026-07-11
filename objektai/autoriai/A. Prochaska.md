@@ -39,16 +39,6 @@ ProJa = Prochaska, A. ProW = Prochaska, A. Prochaska.
 - t-001
   global_id: t-47868
   teiginys: "A. Prochaska išleido Vytauto Didžiojo aktų kodeksą ir parašė plačias Jogailos bei Vytauto monografijas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "234570-235187; hash=9ac771e30ae5188f840e3bea901857734004dfd0e6e835c9d25a962def7a7e48; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "A. Prochaska: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"A. Prochaska\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-50241
 
@@ -56,16 +46,6 @@ ProJa = Prochaska, A. ProW = Prochaska, A. Prochaska.
 - t-005
   global_id: t-47869
   teiginys: "A. Prochaska parašė „Stosunki krzyżaków z Gediminem i Łokietkiem“ ir „Od Mendoga do Jagiełły“."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "236971-237443; hash=f9bc5b4ecd590593850bc2eb74a1c14e065e059ed87a70e5487ed00b9d827164; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jogailaičiai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "A. Prochaska: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Jogailaičiai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"A. Prochaska\" parinktas kaip owner_note_path. Targetas \"Jogailaičiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-30421
 
@@ -73,18 +53,6 @@ ProJa = Prochaska, A. ProW = Prochaska, A. Prochaska.
 - t-004
   global_id: t-47870
   teiginys: "A. Prochaska parašė darbą „O prawdziwości listów Gedymina“, publikuotą 1893 m."
-  temporaliniai_duomenys: "įvykio data: 1893 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "642841-643373; hash=56247ee5ac51565fa973b74cc10d86a4e6019db6a68e3c38c69a3b0ebfa444c0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kaunas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "A. Prochaska: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Kaunas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"A. Prochaska\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-50242
 
@@ -92,16 +60,6 @@ ProJa = Prochaska, A. ProW = Prochaska, A. Prochaska.
 - t-002
   global_id: t-47871
   teiginys: "A. Prochaska parašė darbus „Stosunki krzyżaków z Gedyminem i Łokietkiem“ ir „Od Mendoga do Jagiełły“."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "236971-237443; hash=f9bc5b4ecd590593850bc2eb74a1c14e065e059ed87a70e5487ed00b9d827164; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jogailaičiai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "A. Prochaska: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Jogailaičiai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"A. Prochaska\" parinktas kaip owner_note_path. Targetas \"Jogailaičiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-30421
 
@@ -109,16 +67,6 @@ ProJa = Prochaska, A. ProW = Prochaska, A. Prochaska.
 - t-003
   global_id: t-47872
   teiginys: "A. Prochaska gynė Gedimino laiškų autentiškumą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "632186-632659; hash=9f49043194ce01b9689e5d268268f96b0436cd0acb0e02306af5190ebff8b2d6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "A. Prochaska: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=18"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"A. Prochaska\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-50244
 
@@ -126,12 +74,6 @@ ProJa = Prochaska, A. ProW = Prochaska, A. Prochaska.
 - t-006
   global_id: t-193875
   teiginys: "Prochaskos iš rankraščio, atitinkančio skelbtų Poznanės Račlnaklų bibliotekos nuorašų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "7220-7469; hash=bcee0cc5a7b1c9a2496acb93eaded4a92b72eecc9b556d8d8fe0f3e0b641291a; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176502
 
@@ -139,12 +81,6 @@ ProJa = Prochaska, A. ProW = Prochaska, A. Prochaska.
 - t-007
   global_id: t-193876
   teiginys: "Prochaska, Dzieje W itolda, W ilno."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "672971-673233; hash=2d6ea0cd3ca1abe89c5752986dbe4f8b6e59b7cacb07178b298b533a7dc1978a; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176503
 - susijęs iš Codex epistolaris Vitoldi, magni ducis Lithuaniae: Šiame veikale bibliografijoje santrumpa C. ep. V. išskleidžiama kaip 1376-1430 m. Vytauto laiškų rinkinys, kurį parengė A. Prochaska ir išleido Krokuvoje 1882 m.
@@ -164,8 +100,8 @@ ProJa = Prochaska, A. ProW = Prochaska, A. Prochaska.
     (^132) **A. Prochaska :** **_Zjazd monarchów w Lucku,_** **Przewodnik Nauk. i
     Literacki, I, Lwów 1874, 58 p. ;** **_Ostatnie łata Witołda.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -190,8 +126,8 @@ ProJa = Prochaska, A. ProW = Prochaska, A. Prochaska.
     1965, ne tik parašė plačias Jogailos ir Vytauto monografijas (ProJa,
     ProW), bet dar davė daug atskirų tyrinėjimų^131.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -209,8 +145,8 @@ ProJa = Prochaska, A. ProW = Prochaska, A. Prochaska.
     dziwości listów Gedymina,_ RAU, t. 32, 1893, 222-255 p. — Spliet, H. :
     _Die Briefe Gedimins,_ Sinsheim 1953.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -228,8 +164,8 @@ ProJa = Prochaska, A. ProW = Prochaska, A. Prochaska.
     rygiečių ir Gedimino politinio veikimo produktu (J. Jakštas, Z.
     Ivinskis).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -245,8 +181,8 @@ ProJa = Prochaska, A. ProW = Prochaska, A. Prochaska.
     A. Prochaskos iš rankraščio, atitinkančio skelbtų Poznanės Račlnaklų
     bibliotekos nuorašų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -261,8 +197,8 @@ ProJa = Prochaska, A. ProW = Prochaska, A. Prochaska.
     chaska, Dzieje W itolda, W ilno. 1914, p. 414— 420; M. Г. Сафарга-
     лиев, Распад Золотой орды, Саранск. 1960. р. 183-189).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

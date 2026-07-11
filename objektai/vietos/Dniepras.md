@@ -46,19 +46,6 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
 - t-018
   global_id: t-97822
   teiginys: "1395 m. Timūro vadai pasiekė Dnieprą po Tochtamišo sumušimo ir žygio į Rytų Europą."
-  temporaliniai_duomenys: "įvykio data: 1395 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Reikia išplėsti labai trumpą teiginį citatoje pateiktu kontekstu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "405321-405590; hash=8ab2876681a39ec8e7ca29c4e1671ca6e1663d978fdb76516cd3dec9f5aa5268; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Europa: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Dniepras: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=47"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dniepras\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-92252
 
@@ -66,20 +53,6 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
 - t-002
   global_id: t-97823
   teiginys: "Po 1362 m. Mėlynųjų Vandenų mūšio Algirdas laimėjo ir Dniepro žemupį."
-  semantiniai_rysiai: "Algirdas (Lietuvos valdovas) dalyvavo mūšyje Mėlynųjų Vandenų mūšis (1362 m.) (0.86); Algirdas (Lietuvos valdovas) užėmė Dniepras (0.62)"
-  temporaliniai_duomenys: "įvykio data: po 1362 m.; įvykio data: 1362 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys glaustai ir tiksliai perteikia citatoje nurodytą Dniepro žemupio laimėjimą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "723002-723546; hash=f2b2841c6118b5ca0f301a7bb216a7ddd5933072f306415926d06a990ffa5fed; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "dalyvavo_musyje -> Mėlynųjų Vandenų mūšis (1362 m.): 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Mėlynųjų Vandenų mūšis (1362 m.): llm_allowed_candidate, event"
-  ryšio_paaiskinimas: "Mėlynųjų Vandenų mūšio kontekste Algirdas aprašomas kaip totorių sumušėjas."
   pagrindžia:
     - c-92257
 
@@ -87,16 +60,6 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
 - t-007
   global_id: t-97825
   teiginys: "Plinijus du kartus minėjo neurus, pas kuriuos prasideda Dniepras, dar vadintas Borysthenu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "290841-291216; hash=5a26a60abcd4e7e6a9fe32b1b9451ed5c48c7c2307dcf49cc313d5af17fbfddf; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gintaras: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Dniepras: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Gintaras: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dniepras\" parinktas kaip owner_note_path. Targetas \"Gintaras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-32014
 
@@ -104,16 +67,6 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
 - t-004
   global_id: t-97826
   teiginys: "Nemuno ir Dniepro baseinai jungė valstybę su Baltijos ir Juodąja jūromis, todėl jos padėtis buvo patogi prekybai."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "609516-610114; hash=4056125572e6c63b0d8a40773ad14db47c76034a4534dd83638c832b4c1e654d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Baltija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Dniepras: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Baltija: mention_match, place, gap=35"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dniepras\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-37335
 
@@ -121,17 +74,6 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
 - t-025
   global_id: t-97838
   teiginys: "Algirdas užėmė Dniepro ir Desnos upyno kunigaikštystes, tarp jų Brianską, Trubčevską ir Naugardą Sieverską."
-  semantiniai_rysiai: "Algirdas (Lietuvos valdovas) užėmė Desna (0.68); Algirdas (Lietuvos valdovas) užėmė Dniepras (0.64)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "192112-192423; hash=f3e3386f361944124d79bf04be7362e5ca652fff9e44204f2cd066606215278a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Desna: 0.68"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Desna: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Desna nurodo užimtų upyno kunigaikštysčių teritoriją."
   pagrindžia:
     - c-46480
 
@@ -139,16 +81,6 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
 - t-011
   global_id: t-97828
   teiginys: "Rugpjūčio pradžioje kariuomenė persikėlė per Dnieprą ir jo kairiuoju krantu patraukė į stepes prie Vorsklos."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "216433-216950; hash=1be2b3f760e67f497b0b22dae6a5ced9ece5626bfec49a3d94995e1b7db3cd81; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vorskla: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Dniepras: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Vorskla: mention_match, place, gap=54"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dniepras\" parinktas kaip owner_note_path. Targetas \"Vorskla\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-43402
 
@@ -156,20 +88,6 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
 - t-001
   global_id: t-97833
   teiginys: "Nuo 1357 m. Algirdas ėmė įsiviešpatauti Dniepro kairėje ir užėmė didelius plotus Desnos baseine."
-  semantiniai_rysiai: "Algirdas (Lietuvos valdovas) užėmė Desna (0.78)"
-  temporaliniai_duomenys: "įvykio data: po 1357 m.; įvykio data: 1357 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra enciklopediškas ir paremtas citata apie Dniepro kairę bei Desnos baseiną."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "722659-722896; hash=84e9b1e2cd161651eda45117a944669ebb8bc0a10d2aa83f16b6f64cf318931f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Desna: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Desna: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Algirdas užėmė didelius plotus Desnos baseine."
   pagrindžia:
     - c-92254
 
@@ -177,19 +95,6 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
 - t-026
   global_id: t-97830
   teiginys: "Maskvai palikus Černigovą, Naugardą Sieverską, Starodubą ir Okos paupius, jos sienos jau siekė Dnieprą."
-  temporaliniai_duomenys: "įvykio data: 1395 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko faktą, bet pradinis teiginys prasideda kontekstiniu junginiu."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "405321-405590; hash=8ab2876681a39ec8e7ca29c4e1671ca6e1663d978fdb76516cd3dec9f5aa5268; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Donas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Dniepras: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Donas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dniepras\" parinktas kaip owner_note_path. Targetas \"Donas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-46481
 
@@ -197,20 +102,6 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
 - t-025
   global_id: t-97831
   teiginys: "1362 m. prie Mėlynųjų Vandenų sumušęs totorius, Algirdas laimėjo Podoliją ir Dniepro žemupį."
-  semantiniai_rysiai: "Algirdas (Lietuvos valdovas) dalyvavo mūšyje Mėlynųjų Vandenų mūšis (1362 m.) (0.86); Algirdas (Lietuvos valdovas) užėmė Dniepras (0.64)"
-  temporaliniai_duomenys: "įvykio data: 1362 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys tiksliai apibendrina citatoje minimą Algirdo pergalės rezultatą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "723002-723546; hash=f2b2841c6118b5ca0f301a7bb216a7ddd5933072f306415926d06a990ffa5fed; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "dalyvavo_musyje -> Mėlynųjų Vandenų mūšis (1362 m.): 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Mėlynųjų Vandenų mūšis (1362 m.): llm_allowed_candidate, event"
-  ryšio_paaiskinimas: "Algirdas tiesiogiai minimas kaip totorius sumušęs prie Mėlynųjų Vandenų."
   pagrindžia:
     - c-92257
 
@@ -218,16 +109,6 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
 - t-022
   global_id: t-97832
   teiginys: "Vytauto remiamas Kijevas Dniepro upe susisiekė su Juodąja jūra."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "623242-623710; hash=bcac649c4d7bb8b2a55426191d6e00807c8bd6cb044c4a0287b8dc1a2ed5a295; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kijevas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Dniepras: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kijevas: mention_match, place, gap=8"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dniepras\" parinktas kaip owner_note_path. Targetas \"Kijevas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-37336
 
@@ -235,20 +116,6 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
 - t-001
   global_id: t-97833
   teiginys: "Nuo 1357 m. Algirdas ėmė įsiviešpatauti Dniepro kairėje ir užėmė didelius plotus Desnos baseine."
-  semantiniai_rysiai: "Algirdas (Lietuvos valdovas) užėmė Desna (0.78)"
-  temporaliniai_duomenys: "įvykio data: po 1357 m.; įvykio data: 1357 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra enciklopediškas ir paremtas citata apie Dniepro kairę bei Desnos baseiną."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "722659-722896; hash=84e9b1e2cd161651eda45117a944669ebb8bc0a10d2aa83f16b6f64cf318931f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Desna: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Desna: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Algirdas užėmė didelius plotus Desnos baseine."
   pagrindžia:
     - c-92254
 
@@ -256,17 +123,6 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
 - t-023
   global_id: t-97834
   teiginys: "Prie Dniepro Vytautas dėl šalčių raginamas mesti kovą su totoriais atsakė, kad karą reikia tęsti nepaisant šalčio."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) kariavo prieš Totoriai (0.93)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "642700-643152; hash=38c71a5994b208bbdbf84cc779250a26d5873a5cb019a5b593759c8f00fce025; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Totoriai: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Totoriai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata tiesiogiai sieja Vytautą su kova prieš totorius."
   pagrindžia:
     - c-37337
 
@@ -274,16 +130,6 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
 - t-012
   global_id: t-97835
   teiginys: "Ties Lojevu persikelta į dešinįjį Dniepro krantą ir pasukta vakarų kryptimi Mozyriaus bei Slucko link."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "305502-305820; hash=c15f55221ce9a73c3f67618ba100f030b66a3e4b10aa07c1b4b8f62ec250d186; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Mozyrius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Dniepras: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Mozyrius: mention_match, place, gap=42"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dniepras\" parinktas kaip owner_note_path. Targetas \"Mozyrius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-43403
 
@@ -291,16 +137,6 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
 - t-019
   global_id: t-97836
   teiginys: "Rugpjūčio pradžioje kariuomenė persikėlė per Dnieprą ir prie Vorsklos susitiko su Timūr-Kutluko kariuomene."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "216433-216950; hash=1be2b3f760e67f497b0b22dae6a5ced9ece5626bfec49a3d94995e1b7db3cd81; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Timūr-Kutlukas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Dniepras: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Timūr-Kutlukas: mention_match, person, gap=37"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dniepras\" parinktas kaip owner_note_path. Targetas \"Timūr-Kutlukas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-43402
 
@@ -308,16 +144,6 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
 - t-003
   global_id: t-97837
   teiginys: "Dniepras, dar vadintas Borysthenu, buvo minimas kaip prasidedantis pas neurus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "290841-291216; hash=5a26a60abcd4e7e6a9fe32b1b9451ed5c48c7c2307dcf49cc313d5af17fbfddf; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gintaras: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Dniepras: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Gintaras: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dniepras\" parinktas kaip owner_note_path. Targetas \"Gintaras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-32014
 
@@ -325,17 +151,6 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
 - t-025
   global_id: t-97838
   teiginys: "Algirdas užėmė Dniepro ir Desnos upyno kunigaikštystes, tarp jų Brianską, Trubčevską ir Naugardą Sieverską."
-  semantiniai_rysiai: "Algirdas (Lietuvos valdovas) užėmė Desna (0.68); Algirdas (Lietuvos valdovas) užėmė Dniepras (0.64)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "192112-192423; hash=f3e3386f361944124d79bf04be7362e5ca652fff9e44204f2cd066606215278a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Desna: 0.68"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Desna: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Desna nurodo užimtų upyno kunigaikštysčių teritoriją."
   pagrindžia:
     - c-46480
 
@@ -343,17 +158,6 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
 - t-020
   global_id: t-97839
   teiginys: "Kijevo kunigaikštystė ir Podolė anuomet siekė Dniepro ir Dniestro žiotis ir priklausė Lietuvai."
-  semantiniai_rysiai: "Kijevo kunigaikštystė priklausė Lietuva (0.98); Podolė priklausė Lietuva (0.98)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "192112-192423; hash=f3e3386f361944124d79bf04be7362e5ca652fff9e44204f2cd066606215278a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Lietuva: 0.98"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kijevo kunigaikštystė: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Kijevo kunigaikštystė priklausė Lietuvai."
   pagrindžia:
     - c-92255
 
@@ -361,17 +165,6 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
 - t-006
   global_id: t-97841
   teiginys: "Prie Dniepro Vytautas atsisakė nutraukti kovą su totoriais dėl didelių šalčių."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) kariavo prieš Totoriai (0.92)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "642700-643152; hash=38c71a5994b208bbdbf84cc779250a26d5873a5cb019a5b593759c8f00fce025; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Totoriai: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Totoriai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Vytauto kovą su totoriais."
   pagrindžia:
     - c-37337
 
@@ -379,16 +172,6 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
 - t-005
   global_id: t-97842
   teiginys: "Vytautas rėmė Kijevą, kuris Dniepro upe turėjo susisiekimą su Juodąja jūra."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "623242-623710; hash=bcac649c4d7bb8b2a55426191d6e00807c8bd6cb044c4a0287b8dc1a2ed5a295; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kijevas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Dniepras: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kijevas: mention_match, place, gap=14"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dniepras\" parinktas kaip owner_note_path. Targetas \"Kijevas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-37336
 
@@ -396,20 +179,6 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
 - t-009
   global_id: t-97843
   teiginys: "1362 m. prie Mėlynųjų Vandenų sumušęs totorius, Algirdas laimėjo Podoliją ir Dniepro žemupį."
-  semantiniai_rysiai: "Algirdas (Lietuvos valdovas) užėmė Podolė (0.90); Algirdas (Lietuvos valdovas) dalyvavo mūšyje Mėlynųjų Vandenų mūšis (1362 m.) (0.87); Algirdas (Lietuvos valdovas) užėmė Dniepras (0.65)"
-  temporaliniai_duomenys: "įvykio data: 1362 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, aiškus ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "723171-723630; hash=5cecc5ded9f21aa11cbfddb7f383afb94c7ff1fcea4c9c55ca7f3601c063665a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Podolė: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Podolė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo, kad Algirdas laimėjo plačią Podoliją."
   pagrindžia:
     - c-92246
 
@@ -417,17 +186,6 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
 - t-016
   global_id: t-97844
   teiginys: "Prie Dniepro stovėjusioje lietuvių Tavano pilyje Vytautas įsteigė muitinę, vadintą Vytauto pirtimi."
-  semantiniai_rysiai: "Algirdas (Lietuvos valdovas) užėmė Desna (0.70); Algirdas (Lietuvos valdovas) užėmė Dniepras (0.66)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "192112-192423; hash=f3e3386f361944124d79bf04be7362e5ca652fff9e44204f2cd066606215278a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Desna: 0.70"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Desna: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata nurodo Algirdą užėmus Dniepro ir Desnos upyno kunigaikštystes; Desna čia yra teritorijos apibrėžimas."
   pagrindžia:
     - c-92255
 
@@ -435,16 +193,6 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
 - t-021
   global_id: t-97845
   teiginys: "Vytauto valstybės teritoriją su Juodosios jūros kryptimi jungė platus Dniepro baseinas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "609516-610114; hash=4056125572e6c63b0d8a40773ad14db47c76034a4534dd83638c832b4c1e654d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Baltija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Dniepras: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Baltija: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dniepras\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-37335
 
@@ -452,19 +200,6 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
 - t-028
   global_id: t-183011
   teiginys: "Po šešerių metų paliaubų Maskvai paliktos žemės nulėmė, kad jos sienos jau siekė Dnieprą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "405232-405448; hash=e626d27ed85308b0956fb365077fb4eee79eba9851cc13e78b908da43d79bc95; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Maskva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Dniepras: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Maskva: mention_match, place, gap=56"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dniepras\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-166404
 
@@ -472,20 +207,6 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
 - t-027
   global_id: t-183782
   teiginys: "Totorių ekspedicinės pajėgos ties Lojevu persikėlė į dešinįjį Dniepro krantą ir pasuko Mozyriaus bei Slucko link."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Totoriai keliavo į Dniepras (0.86); Totoriai keliavo į Mozyrius (0.82); Totoriai keliavo į Sluckas (0.82)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "305425-305775; hash=716cefe913a1e2903307813520205c0e669584cc047548ec9921bcddf60e8fd4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Dniepras: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Totoriai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Dniepras: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Ekspedicines pajėgas sudarė totoriai, o paskesnis „jie“ nurodo šias pajėgas, persikėlusias prie Dniepro."
   pagrindžia:
     - c-167170
 - susijęs iš [[objektai/grupes/Baltai.md#claim-t-96077|Baltai]]: Viduriniame geležies amžiuje baltai liko gyventi Nemuno, Dauguvos ir Dniepro plote ir nedaug judėjo.
@@ -647,8 +368,8 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
     gintaro, kuris ten buvo aukštai vertinamas, atnešė vieną kitą pro­
     švaistę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -670,8 +391,8 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
     tuva, jungianti Rytų ir Vakarų Europos kraštus, iš visų pusių
     buvo apsupta pirklių gyvenamų ir lankomų žemių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -692,8 +413,8 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
     Į Kijevą atvykdavo totorių, armėnų, Maskvos, Genujos, Vene­
     cijos pirkliai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -712,8 +433,8 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
     gausime triumfą ant dviejų priešų; jei būsime nugalėti, kalbės
     apie mus, kad mus nugalėjo du priešai: šaltis ir totoriai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -743,8 +464,8 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
     bių, susitiko su Aukso ordos chano
     Timūr-Kutluko kariuomene.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -764,8 +485,8 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
     karų kryptimi Mozyriaus ir Slucko link.
     Galiausiai apie liepos 20-22 d. jie sustojo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -781,8 +502,8 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
     gardą Sieverską, ir kt. Visos tos kunigaikštystės buvo
     atiduotos valdyti Algirdo sūnums ar brolėnams.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -799,8 +520,8 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
     mių ir laisvai praleisti per savo žemes kitos valstybės pasiun-
     tinius ir pirklius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -818,8 +539,8 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
     Dniepro žemupį, kuris tada buvo tuščias^13. Menkai gyvenamoje
     Podolėje rado sau gerų žemių gausi Algirdo brolio Karijoto šeima.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -845,8 +566,8 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
     skelbęs su ja einąs prieš Timūr-
     Aksaką.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -861,8 +582,8 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
     m. jis ėmė įsiviešpatauti Dniepro kairėje, užimdamas ten didelius
     plotus Desnos baseine.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -888,8 +609,8 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
     gė muitinę, vadintą Vytauto pirtimi.
     Žr. M i c h a 1  o n i s Lit. de Morib.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -910,8 +631,8 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
     ne tik plačią Podoliją, turtingą žemę palei Dniestrą, bet ir patį
     Dniepro žemupį, kuris tada buvo tuščias^13.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -928,8 +649,8 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
     rodubas ir Okos paupiai. Taigi Maskvos sienos jau siekė Dniep-
     rą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -949,8 +670,8 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
     spartinę žygio tempą pasileido tiesiai va-
     karų kryptimi Mozyriaus ir Slucko link.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1301,9 +1022,3 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183782
-
-## Ryšiai
-- Buvo kelionės vieta: [[objektai/grupes/Kazokai]], [[objektai/grupes/Totoriai]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Užėmė Dnieprą: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- Buvo užkariauta: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Gyvenamoji vieta: [[objektai/grupes/Baltai]], [[objektai/grupes/Krivičiai]]

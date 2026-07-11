@@ -39,19 +39,6 @@ Dusburgietis teigia, kad mažiulis V.
 - t-001
   global_id: t-61169
   teiginys: "V. Mažiulio „Prūsų etimologijos“ publikuotos „Baltistica“ 1975 m. ir 1978 m. numeriuose."
-  temporaliniai_duomenys: "įvykio data: 1975 m.; įvykio data: 1978 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata patvirtina publikavimo žurnalą ir metus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "785547-785663; hash=b6db850d8b5ab6da01e965d610bb0f0087e7116ceddbf5e93862a9eb3363c33a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Prūsų žemė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; prusai_place_context; same_sentence_locality; single_candidate_actor; single_candidate_target; target_after_predicate"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mažiulis V. Prūsų etimologijos: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Prūsai: mention_match, place, gap=13"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mažiulis V. Prūsų etimologijos\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-61801
 ## Reikšmingi paminėjimai
@@ -63,8 +50,8 @@ Dusburgietis teigia, kad mažiulis V.
     Mažiulis V. Prūsų etimologijos.— Baltistica, 1975, 11 (1), p. 83—85; 1978, 14 (1), p.
     52—55; 1978, 14 (2), p. 95—99.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -75,7 +62,8 @@ Dusburgietis teigia, kad mažiulis V.
 - id: c-61801
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 267"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 267."
   citata_originali: |
     Mažiulis V. Prūsų etimologijos.— Baltistica, 1975, 11 (1), p. 83—85; 1978, 14 (1), p.
     52—55; 1978, 14 (2), p. 95—99.

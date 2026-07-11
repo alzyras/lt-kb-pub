@@ -60,20 +60,6 @@ Tekste jos siejamos su viešu išplakimu.
 - t-002
   global_id: t-187814
   teiginys: "1850 m. pasakojime rykštės minimos kaip priemonė, kuria viešai išplaktas Teodoro Narbuto sūnus Liudvikas."
-  teiginio_tipas: "faktas"
-  temporaliniai_duomenys: "kelionės data: 1850 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Liudvikas keliavo į Kaukazas“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys jau yra gramatiškas sakinys su aiškiu subjektu ir predikatu apie rykštes. Citata tiesiogiai palaiko viešo išplakimo rykštėmis faktą."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "19289-19589; hash=5c275f45edc93edaeb7b340b3403a2c22d914a2c9b74cc85914ba4ae4292383a; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
-  ryšio_patikimumas: "keliavo_i -> Kaukazas: 0.80"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Liudvikas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kaukazas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo, kad Liudvikas buvo išsiųstas į Kaukazą."
   pagrindžia:
     - c-170768
 ## Reikšmingi paminėjimai
@@ -87,8 +73,8 @@ Tekste jos siejamos su viešu išplakimu.
     tą rykštėmis, sūnų išsiunčia eiliniu kareiviu į Kaukaze veikian­
     čią rusų armiją. Tai buvo didelis smūgis tėvui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -103,7 +89,8 @@ Nenurodyta
 - id: c-170768
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 13"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 13."
   citata_originali: |
     1850 m. Vilniaus gimnazijoje suėmė T. Narbuto sūnų Liud­
     viką. Apkaltintas už priešvalstybinę agitaciją ir siekimą sukur­

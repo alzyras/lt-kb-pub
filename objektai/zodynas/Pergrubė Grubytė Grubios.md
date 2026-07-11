@@ -36,14 +36,6 @@ Narbutas Pergrubę (Pergrubie) apibūdino kaip pavasario, gėlių, daržų ir ž
 - t-001
   global_id: t-189130
   teiginys: "Narbutas Pergrubę (Pergrubie) apibūdino kaip pavasario, gėlių, daržų ir žmogaus pastangomis gausinamų žemės vaisių deivę."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "229041-229337; hash=bf8c36a1320917eddae459ce7eb8c850525a677b5fb4d3994ee2c29c2c57fb90; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172018
 
@@ -51,21 +43,6 @@ Narbutas Pergrubę (Pergrubie) apibūdino kaip pavasario, gėlių, daržų ir ž
 - t-002
   global_id: t-189131
   teiginys: "Narbutas Pergrubę tapatino su antikine Flora ir slavų Sieva, o jos atvaizdą siejo su jaunos mergaitės, obuolio ir vynuogių kekės vaizdiniu."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "231265-231657; hash=f13339d2e0983f20022ad78f7edd3a796c2c9bf1667b12747ef85ad54e0cbdfc; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Slavai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Pergrubė Grubytė Grubios: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Slavai: mention_match, group, gap=39"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pergrubė Grubytė Grubios\" parinktas kaip owner_note_path. Targetas \"Slavai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172019
 
@@ -73,21 +50,6 @@ Narbutas Pergrubę (Pergrubie) apibūdino kaip pavasario, gėlių, daržų ir ž
 - t-003
   global_id: t-189132
   teiginys: "Narbutas nurodė, kad Prūsijos lietuviai Pergrubei skirtų aukų apeigų laikėsi dar iki 1530 metų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "232076-232401; hash=34212ab13f60ad905b606effa1ef241d2226573d3cab05663cab52d2b00fecb5; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Germanai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Pergrubė Grubytė Grubios: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Germanai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pergrubė Grubytė Grubios\" parinktas kaip owner_note_path. Targetas \"Germanai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172020
 ## Reikšmingi paminėjimai
@@ -105,8 +67,8 @@ Narbutas Pergrubę (Pergrubie) apibūdino kaip pavasario, gėlių, daržų ir ž
     Kitaip vadinosi Grubytė (Grubite), nuo žodžio Grubios -
     gėlių ir vaismedžių sodas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -124,8 +86,8 @@ Narbutas Pergrubę (Pergrubie) apibūdino kaip pavasario, gėlių, daržų ir ž
     čiais plaukais, galva, papuošta gėlių vainikėliu, dešinėje ran­
     koje laikančią obuolį, kairėje -  vynuogių kekę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -142,8 +104,8 @@ Narbutas Pergrubę (Pergrubie) apibūdino kaip pavasario, gėlių, daržų ir ž
     ronų vyskupų Polenco ir Pauliaus Sprito Karaliaučiaus bažny­
     čios Agenda.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -154,7 +116,8 @@ Narbutas Pergrubę (Pergrubie) apibūdino kaip pavasario, gėlių, daržų ir ž
 - id: c-172018
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 131"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 131."
   citata_originali: |
     Kitus dalykus apie ją išdėsty-
     sime straipsniuose „Vėlinės“, „Laidotuvių papročiai“, „Kapai,“
@@ -174,7 +137,8 @@ Narbutas Pergrubę (Pergrubie) apibūdino kaip pavasario, gėlių, daržų ir ž
 - id: c-172019
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 132"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 132."
   citata_originali: |
     Skaityk straipsnį „Šventės“.
     Tai buvo dievybė, tapati antikinei Florai, taip pat slavų Sie-
@@ -193,7 +157,8 @@ Narbutas Pergrubę (Pergrubie) apibūdino kaip pavasario, gėlių, daržų ir ž
 - id: c-172020
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 133"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 133."
   citata_originali: |
     Senovės germanai ją vadino H erta, tai yra Motina žeme.
     Tam tikrą to kulto panašybę Tavernjė (Tavernier) rado net pas

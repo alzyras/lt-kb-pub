@@ -57,20 +57,6 @@ Nenurodyta
 - t-002
   global_id: t-35897
   teiginys: "Manydamas, kad Jogailos pajėgos Vilniuje silpnos, Vytautas atvyko su Trakų įgula ir bandė atsiimti Vilnių."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į Vilnius (0.82); Vytautas (Lietuvos valdovas, XIV–XV a.) puolė Vilnius (0.72)"
-  temporaliniai_duomenys: "kelionės data: 1382 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į Trakai“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradiniame teiginyje įvardis buvo dviprasmis, todėl objektas išplėstas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "64483-64979; hash=51ffcd4ba34b96bdb57df48992f92fb51042236a6452b0dbcfb759d09c519807; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Vilnius: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Kontekstas nurodo, kad Vytautas atvyko prie Vilniaus, norėdamas jį atsiimti."
   pagrindžia:
     - c-38328
 
@@ -78,20 +64,6 @@ Nenurodyta
 - t-001
   global_id: t-35898
   teiginys: "1382 m. birželio 12 d. Jogaila atėjo nuo Vitebsko į Vilnių, šalininkų remiamas jį paėmė, o Rygos pirklys Hanulo įteikė jam pilies raktus."
-  semantiniai_rysiai: "Jogaila (kunigaikštis, XIV–XV a.) keliavo į Vilnius (0.92); Jogaila (kunigaikštis, XIV–XV a.) užėmė Vilnius (0.90)"
-  temporaliniai_duomenys: "įvykio data: 1382 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatinis ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "64225-64783; hash=303086d082de6fe6d11d04a664243c8c767df75799dea29a283b96fcc6665db5; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Vilnius: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Jogailos atėjimą į Vilnių."
   pagrindžia:
     - c-38329
 ## Reikšmingi paminėjimai
@@ -110,8 +82,8 @@ Nenurodyta
     abiejų pusių krito per 1000 žmonių, bet Vilniaus Vytautas neat­
     gavo^2 ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -131,8 +103,8 @@ Nenurodyta
     Vitebsko Vilniun ir, šalininkų remiamas, tuojau jį paėmė, o Ry­
     gos pirklys Hanulo įteikė jam pilies raktus^1 ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

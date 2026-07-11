@@ -30,12 +30,6 @@ Kadangi reikėjo skubėti, senatas ir nutarė išsiųsti į Lietuvą pasiuntinyb
 - t-001
   global_id: t-193451
   teiginys: "Kadangi reikėjo skubėti, senatas ir nutarė išsiųsti į Lietuvą pasiuntinybę, sudarytą iš dorų ir sumanių vyrų: vyskupą Zbignevą Olesnickį, Krokuvos vaivadą Jarandą iš Brudzevo, Bresto vaivadą Joną iš Lichino, Lauryną Zarembą ir kitus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "773393-773986; hash=cc26907c26b3f25ec41ed2c0ae399c3922ebb3d9fb5cc573a30246ca0438d594; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176163
 ## Reikšmingi paminėjimai
@@ -62,8 +56,8 @@ Kadangi reikėjo skubėti, senatas ir nutarė išsiųsti į Lietuvą pasiuntinyb
     vardu buvo įgalioti tam tikromis sąlygomis pakelti Žy­
     gimantą į Lietuvos didžiuosius kunigaikščius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -74,7 +68,8 @@ Kadangi reikėjo skubėti, senatas ir nutarė išsiųsti į Lietuvą pasiuntinyb
 - id: c-176163
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 440"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 440."
   citata_originali: |
     Atidėlioti šį
     reikalą būtų buvę pavojinga,

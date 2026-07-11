@@ -41,19 +41,6 @@ Vilniaus pedagoginio universiteto studentų-savanorių kuopa 1991-1996 metais, V
 - t-001
   global_id: t-39939
   teiginys: "A. Daugirdo „Vilniaus pedagoginio universiteto studentų-savanorių kuopa 1991-1996 metais“ išleista Vilniuje 2011 m."
-  temporaliniai_duomenys: "įvykio data: 2011 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata leidžia suformuluoti bibliografinį faktą apie šaltinį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1091656-1091799; hash=fb3461cf8318fdae4804ce5c278f3fe3a671621437dfb357d0b6756101a0933a; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilniaus pedagoginio universiteto studentų-savanorių kuopa 1991-1996 metais: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus pedagoginio universiteto studentų-savanorių kuopa 1991-1996 metais\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-41743
 ## Reikšmingi paminėjimai
@@ -64,8 +51,8 @@ Vilniaus pedagoginio universiteto studentų-savanorių kuopa 1991-1996 metais, V
     P. 257, „PAVOJAUS AKIVAIZDOJE*, Daugirdas A. Vilniaus pedagoginio universiteto
     studentų-savanorių kuopa 1991-1996 metais, Vilnius, 2011, p. 28.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

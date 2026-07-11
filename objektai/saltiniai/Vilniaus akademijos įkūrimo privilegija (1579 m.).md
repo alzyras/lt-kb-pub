@@ -35,9 +35,6 @@ Privilegiją jėzuitams karalius davė būdamas Lenkijoje. Todėl kai 1578 m. Vi
 - t-001
   global_id: t-67569
   teiginys: "Vilniaus akademijos privilegiją karalius iš pradžių davė jėzuitams būdamas Lenkijoje."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "599605-599892; hash=41a2f2029ff0e89de674895df86ebc4591f0b267b7d1d04305533ea33a922ff5; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-67424
 
@@ -45,11 +42,6 @@ Privilegiją jėzuitams karalius davė būdamas Lenkijoje. Todėl kai 1578 m. Vi
 - t-002
   global_id: t-67570
   teiginys: "1578 m. Steponas Batoras leido Vilniaus jėzuitams įkurti akademiją ir davė privilegijos raštą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "hash=f6579aa428fdf75f1678e22c84bf93c434a18e219fde9bcdd161c18984185654; match=normalized; occurrences=1"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-67425
 ## Reikšmingi paminėjimai
@@ -64,8 +56,8 @@ Privilegiją jėzuitams karalius davė būdamas Lenkijoje. Todėl kai 1578 m. Vi
     nams, paprašė patvirtinti ją iškilmingu aktu. Karalius tatai padarė,
     grįžęs iš karo žygio.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -81,8 +73,8 @@ Privilegiją jėzuitams karalius davė būdamas Lenkijoje. Todėl kai 1578 m. Vi
     davė privilegijos raštą, kurį jis antrą kartą iškilmingai patvirtino
     atvykęs į Lietuvą (1579 m.).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

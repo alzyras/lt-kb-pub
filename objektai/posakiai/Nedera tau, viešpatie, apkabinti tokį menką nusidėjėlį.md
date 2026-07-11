@@ -32,16 +32,6 @@ Dusburgietis teigia, kad vienas brolis, vardu [..?] iš Glizbergo, buvo pasiekę
 - t-001
   global_id: t-59135
   teiginys: "Brolis iš Glizbergo per Didžiojo penktadienio pamaldas atsisakė būti apkabintas nukryžiuotojo medinių rankų."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "331802-332133; hash=becf919fdb29ad6f81c0cb7e64fde561685eabd65511fb132ee2c09e72f51591; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžius: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Nedera tau, viešpatie, apkabinti tokį menką nusidėjėlį: owner_note_path, thing"
-  ryšio_targeto_parinkimas: "Kryžius: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Nedera tau, viešpatie, apkabinti tokį menką nusidėjėlį\" parinktas kaip owner_note_path. Targetas \"Kryžius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-59767
 ## Reikšmingi paminėjimai
@@ -56,8 +46,8 @@ Dusburgietis teigia, kad vienas brolis, vardu [..?] iš Glizbergo, buvo pasiekę
     Brolis, manydamas, jog nesąs to vertas, tarė: „Nedera tau, viešpatie, apkabinti tokį
     menką nusidėjėlį“.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -68,7 +58,8 @@ Dusburgietis teigia, kad vienas brolis, vardu [..?] iš Glizbergo, buvo pasiekę
 - id: c-59767
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 101"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 101."
   citata_originali: |
     Vienas brolis, vardu [..?] iš Glizbergo, buvo pasiekęs tokio
     šventumo, kad didįjį penktadienį per pamaldas, kai klūpodamas pasilenkė kryžiaus

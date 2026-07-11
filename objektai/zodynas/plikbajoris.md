@@ -35,9 +35,6 @@ media_all_json: |-
 - t-002
   global_id: t-72726
   teiginys: "Nuskurę plikbajoriai seimelio metu būdavo maitinami didiko atgabentų virtuvių ir tik tada sočiai pavalgydavo."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "812141-812469; hash=06407505620489f80d3b824e10e1c31374ce84006dc35931d99aa3e283667a14; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-71104
 
@@ -45,11 +42,6 @@ media_all_json: |-
 - t-003
   global_id: t-72729
   teiginys: "Seimelių metu didikų virtuvės maitindavo plikbajorius, kurie, anot šaltinio, sočiai pavalgydavo tik seimelyje."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "812141-812469; hash=06407505620489f80d3b824e10e1c31374ce84006dc35931d99aa3e283667a14; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-71104
 
@@ -57,9 +49,6 @@ media_all_json: |-
 - t-001
   global_id: t-72730
   teiginys: "Didikai į seimelius veždavo plikbajorius, nes šie turėjo lygų balsą su didikais ir galėjo kardu paremti pono nuomonę."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "811288-811718; hash=1e39db8b062f7f703fa3a7f2940579e7f529692703ca85465c8596b9df9d6a8c; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-71102
 
@@ -67,12 +56,6 @@ media_all_json: |-
 - t-004
   global_id: t-182971
   teiginys: "Didikai į seimelius suveždavo plikbajorius iš okolicų, nes šie turėjo lygų balsą su didikais ir galėjo ginklu paremti pono nuomonę."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "811352-811827; hash=d604c55fd29bbec3fc0015b9558cdcbff59317cb4772461f3d3f94cf62f9fe97; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-166369
 
@@ -80,12 +63,6 @@ media_all_json: |-
 - t-005
   global_id: t-193154
   teiginys: "Po seimelio ponas plikbajoriams dar padalindavo po truputį pinigų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "814399-814602; hash=617ab3bf5e7e2f67887995f2ac2e747f2212ef005e85ff86743e268b5bb92ab8; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-175906
 ## Reikšmingi paminėjimai
@@ -102,8 +79,8 @@ media_all_json: |-
     šono bajoriškąjį ženklą — kardą, kurį kiekvienu momentu galėdavo
     vartoti savo pono ar to, kuris gerai užmokėdavo, nuomonei paremti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -120,8 +97,8 @@ media_all_json: |-
     gamindavo jiems valgyti, nes nuskurę plikbajoriai visada būdavo
     alkani ir tikrai sočiai pavalgydavo tik seimelio metu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -141,8 +118,8 @@ media_all_json: |-
     Į seimelius tokių plikbajorių atsigabendavo visi didikai, ir todėl
     seimeliai buvo nuolatinių muštynių vieta.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -157,8 +134,8 @@ media_all_json: |-
     Todėl, seimeliui pasibaigus, girtuokliavimas trukdavo dar keletą
     dienų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

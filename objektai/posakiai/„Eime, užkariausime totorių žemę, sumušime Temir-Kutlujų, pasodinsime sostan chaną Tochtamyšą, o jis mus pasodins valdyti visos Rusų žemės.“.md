@@ -35,12 +35,6 @@ media_all_json: |-
 - t-001
   global_id: t-195033
   teiginys: "Šeši tūkstančiai devyni šimtai šeštaisiais1 7 metais įvyko baisus mūšis tarp didžiojo kunigaikščio Vytauto ir chano Temir-Kutlujaus Didysis kunigaikštis Vy tautas sutelkė nesuskaičiuojamą daugybę kariuomenės, jo pusėje buvo chanas Tochtamyšas su savo kariuome."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "172287-173029; hash=a325e50148f3a5a53a5b737030a7d7d349e4c2d66b31f93ad05c8ad3ba731c23; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177404
 ## Reikšmingi paminėjimai
@@ -63,8 +57,8 @@ media_all_json: |-
     valdyti visos Rusų žemės."
     Ir, šitaip prakalbėjęs, leidosi kariauti su totoriais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

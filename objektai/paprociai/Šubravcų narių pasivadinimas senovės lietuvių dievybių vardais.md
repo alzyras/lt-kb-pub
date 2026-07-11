@@ -56,19 +56,6 @@ Nenurodyta
 - t-001
   global_id: t-55171
   teiginys: "Išstudijavę Jano Lasickio knygą, Šubravcų draugijos nariai pasivadino senovės lietuvių dievybių vardais."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys yra konkretus, gramatiškas ir tiesiogiai paremtas citata."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Šubravcų draugija|Šubravcų draugija]]; mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/asmenys/Janas Chodzka|Janas Chodzka]]; mentioned_person: [[objektai/asmenys/Jokūbas Šimkevičius|Jokūbas Šimkevičius]]; mentioned_person: [[objektai/asmenys/Juozapas Zavadskis|Juozapas Zavadskis]]; mentioned_person: [[objektai/asmenys/Kazimieras Kontrimas|Kazimieras Kontrimas]]; mentioned_place: Vilnius"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "4427-5087; hash=d2b44c06c10fe0d653b513b0a7a5c1f4bed5cddaad5235f77031707d9992b57c; match=whitespace_regex"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md::validation_repair"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Šubravcų narių pasivadinimas senovės lietuvių dievybių vardais: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=45"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šubravcų narių pasivadinimas senovės lietuvių dievybių vardais\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-55756
 
@@ -76,12 +63,6 @@ Nenurodyta
 - t-002
   global_id: t-187829
   teiginys: "Vilniuje veikusi šubravcų draugija išgarsėjo, o jos nariai pasivadino senovės lietuvių dievybių vardais."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys yra faktinis, pilnas ir atitinka citatos informaciją."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Šubravcų draugija|Šubravcų draugija]]; mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/asmenys/Janas Chodzka|Janas Chodzka]]; mentioned_person: [[objektai/asmenys/Jokūbas Šimkevičius|Jokūbas Šimkevičius]]; mentioned_person: [[objektai/asmenys/Juozapas Zavadskis|Juozapas Zavadskis]]; mentioned_person: [[objektai/asmenys/Kazimieras Kontrimas|Kazimieras Kontrimas]]; mentioned_place: Vilnius"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "4427-5087; hash=d2b44c06c10fe0d653b513b0a7a5c1f4bed5cddaad5235f77031707d9992b57c; match=whitespace_regex"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md::validation_repair"
   pagrindžia:
     - c-55756
 
@@ -89,19 +70,6 @@ Nenurodyta
 - t-003
   global_id: t-187830
   teiginys: "Šubravcų draugijos nariai rinkosi senovės lietuvių mitologijos pseudonimus ir privalėjo rinkti medžiagą apie pasirinktus mitinius personažus."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "25989-26719; hash=f241da58c7a8e6261a5140cce66342cad8c933f31ac72abe009e7a4dc7461fc3; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md::validation_repair"
-  ryšio_patikimumas: "susije_su -> Lietuvių mitologija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Šubravcų narių pasivadinimas senovės lietuvių dievybių vardais: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuvių mitologija: mention_match, thing, gap=42"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šubravcų narių pasivadinimas senovės lietuvių dievybių vardais\" parinktas kaip owner_note_path. Targetas \"Lietuvių mitologija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T09:57:54Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-170778
 ## Reikšmingi paminėjimai
@@ -122,8 +90,8 @@ Nenurodyta
     gantu, Juozapas Zavadskis - Svaistiku, M. Balinskis - Aušla-
     viu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -147,8 +115,8 @@ Nenurodyta
     lėtų būti draugijos išleista4. Mitinio personažo Palemono var­
     du buvo pasivadinusi Raseinių masonų lošė5.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -185,7 +153,8 @@ Nenurodyta
 - id: c-170778
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 17"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 17."
   citata_originali: |
     Lietuvių mitologija šiuo metu domėjosi ne tik mokslininkai,
     rašytojai, bet ir visa apsišvietusioji visuomenė, akademinis jau­

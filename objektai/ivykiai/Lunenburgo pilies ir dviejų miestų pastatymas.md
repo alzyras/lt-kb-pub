@@ -51,18 +51,6 @@ Nenurodyta
 - t-001
   global_id: t-62387
   teiginys: "Baigos komtūras Ditrichas iš Altenburgo pastatė Lunenburgo pilį Bartos žemėje, Gubros ir Sainos upių santakoje."
-  teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Ditrichas iš Altenburgo pastatė Lunenburgas (0.96)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "690062-690597; hash=00d79a7cedb04f0bd53b970dca509221b983602fc51d26e37d550f0633e3b66b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "pastate -> Lunenburgas: 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Ditrichas iš Altenburgo: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lunenburgas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginyje tiesiogiai nurodyta, kad Ditrichas iš Altenburgo pastatė Lunenburgo pilį."
   pagrindžia:
     - c-62982
 
@@ -70,18 +58,6 @@ Nenurodyta
 - t-001
   global_id: t-62387
   teiginys: "Baigos komtūras Ditrichas iš Altenburgo pastatė Lunenburgo pilį Bartos žemėje, Gubros ir Sainos upių santakoje."
-  teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Ditrichas iš Altenburgo pastatė Lunenburgas (0.96)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "690062-690597; hash=00d79a7cedb04f0bd53b970dca509221b983602fc51d26e37d550f0633e3b66b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "pastate -> Lunenburgas: 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Ditrichas iš Altenburgo: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lunenburgas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginyje tiesiogiai nurodyta, kad Ditrichas iš Altenburgo pastatė Lunenburgo pilį."
   pagrindžia:
     - c-62982
 
@@ -89,12 +65,6 @@ Nenurodyta
 - t-003
   global_id: t-194403
   teiginys: "Apie Lunenburgo pilies ir dviejų miestų pastatymą Tuo metu brolis Ditrichas iš Altenburgo, Baigos komtūras, paprašęs didįjį magistrą leidimo ir jį gavęs, pastatė Bartos žemėje, dviejų upių, būtent: Gubros ir Sainos593, santakoje, Lunenburgo [Liūno] pilį594."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "690062-690597; hash=00d79a7cedb04f0bd53b970dca509221b983602fc51d26e37d550f0633e3b66b; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-62982
 ## Reikšmingi paminėjimai
@@ -117,8 +87,8 @@ Nenurodyta
 
       593 D.— Says, Jer.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -131,7 +101,8 @@ Nenurodyta
 - id: c-62982
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 224"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 224."
   citata_originali: |
     Apie Lunenburgo pilies ir dviejų miestų pastatymą
 

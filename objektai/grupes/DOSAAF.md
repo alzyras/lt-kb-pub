@@ -32,9 +32,6 @@ Nešiojamosios radijo stotelės perimtos iš buvusios DOSAAF (jomis buvo sukurta
 - t-001
   global_id: t-40870
   teiginys: "Iš buvusios DOSAAF perimtomis nešiojamosiomis radijo stotelėmis buvo sukurtas ryšio tinklas tarp lauko postų."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1045083-1045388; hash=5647ae039282cf19de31aa949e4a8f62bc99edce84f0bda0554c4584da9bfa18; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-44728
 - susijęs iš [[objektai/grupes/Dariaus ir Girėno skraidymo klubas.md#claim-t-78164|Dariaus ir Girėno skraidymo klubas]]: Aukščiausiosios Tarybos gynybai radijo stotys buvo gautos iš Dariaus ir Girėno skraidymo klubo.
@@ -53,8 +50,8 @@ Nešiojamosios radijo stotelės perimtos iš buvusios DOSAAF (jomis buvo sukurta
     ir panaudotos radijo žvalgybai (sovietų
     ryšio pasiklausymui).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

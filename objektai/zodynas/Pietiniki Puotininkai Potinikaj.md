@@ -36,21 +36,6 @@ Narbutas pietiniki, kitaip Puotininkais (Potinikaj), vadino Ragučio šventikus,
 - t-001
   global_id: t-189361
   teiginys: "Narbutas pietiniki, kitaip Puotininkais (Potinikaj), vadino Ragučio šventikus, su kuriais siejo Petionkos pavadinimo kilmę."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "476158-476824; hash=c38372e09593a2a64d8377bfe51896d668720f427ac6d0d6ad326e8e6f425043; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Petionka: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Pietiniki Puotininkai Potinikaj: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Petionka: mention_match, thing, gap=87"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pietiniki Puotininkai Potinikaj\" parinktas kaip owner_note_path. Targetas \"Petionka\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172248
 ## Reikšmingi paminėjimai
@@ -71,8 +56,8 @@ Narbutas pietiniki, kitaip Puotininkais (Potinikaj), vadino Ragučio šventikus,
     šlovės paminklas ir pirmoji amžinojo Dievo mūrinė bažnyčia,
     pastatyta Lietuvos sostinėje ir žemėje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -83,7 +68,8 @@ Narbutas pietiniki, kitaip Puotininkais (Potinikaj), vadino Ragučio šventikus,
 - id: c-172248
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 273"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 273."
   citata_originali: |
     Maldyklą panaikino apie 1331 metus, įsakius Julijonai, Vitebs­
     ko kunigaikščio dukteriai, šlovingo ir švento atminimo valdo­

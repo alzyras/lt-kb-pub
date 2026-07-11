@@ -40,18 +40,6 @@ media_all_json: |-
 - t-001
   global_id: t-31836
   teiginys: "M. Krasauskaitės „Vytauto charakteristika“ išspausdinta 1930 m. Kaune išleistame rinkinyje „Vytautas Didysis“, p. 253–265."
-  temporaliniai_duomenys: "įvykio data: 1930 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1037856-1038318; hash=6bedfa45e826b798d2e97efb97df5458104e74eae95c2f0beaf5f0486e9620a6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kaunas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "M. Krasauskaitė, Vytauto charakteristika: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Kaunas: mention_match, place, gap=64"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"M. Krasauskaitė, Vytauto charakteristika\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-33657
 ## Reikšmingi paminėjimai
@@ -68,8 +56,8 @@ media_all_json: |-
     1930, 253-265 p. — Lappo, J. : _Istorinė Vytauto reikšmė,_ Praeitis, II,
     1933, 1-71 p. — PfiW.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -30,22 +30,6 @@ Padavimas, kaip jį perteikia Narbutas, Choryvą kartu su Kijumi ir Sčeku sieja
 - t-001
   global_id: t-191261
   teiginys: "Padavimas, kaip jį perteikia Narbutas, Choryvą kartu su Kijumi ir Sčeku sieja su Kijevo įkūrimu arba atnaujinimu."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Choryvas pastatė Kijevas (0.72); Sčekas pastatė Kijevas (0.72)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "689596-689983; hash=6f1346712dcd599e46d0e4ebeff86db74ca42e0818a04125b5b17b7ee7e5a38d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "pastate -> Kijevas: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Sčekas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kijevas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Sčekas kartu su kitais broliais siejamas su Kijevo įkūrimu arba atnaujinimu."
-  vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174143
 - susijęs iš [[objektai/asmenys/Nestoras.md#claim-t-190931|Nestoras]]: Teodoras Narbutas rašo, kad Nestoras perėmė pasakojimą apie Kijų, Ščeką, Choryvą ir senovės Kijevą.
@@ -68,8 +52,8 @@ Padavimas, kaip jį perteikia Narbutas, Choryvą kartu su Kijumi ir Sčeku sieja
     senovinį miesto pavadinimą; iš čia ir atsirado naujas
     Kijev horod, Kijev perevoz na Dnepre pavadinimas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -80,7 +64,8 @@ Padavimas, kaip jį perteikia Narbutas, Choryvą kartu su Kijumi ir Sčeku sieja
 - id: c-174143
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 379"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 379."
   citata_originali: |
     Tačiau slavai
     ir toliau gyveno šiame mieste ir jo apylinkėse.
@@ -96,6 +81,3 @@ Padavimas, kaip jį perteikia Narbutas, Choryvą kartu su Kijumi ir Sčeku sieja
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191261
-
-## Ryšiai
-- Choryvas pastatė [[objektai/vietos/Kijevas]]

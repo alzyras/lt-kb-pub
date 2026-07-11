@@ -42,16 +42,6 @@ Roma: kai vyskupas Vaitiekus panorėjo ją sustiprinti, čekai sukilo, ir jis bu
 - t-004
   global_id: t-180499
   teiginys: "Romos kurija manė, kad Vytautas ir Jogaila galės išspręsti husitų klausimą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "524451-524833; hash=6f178fb221778806f8c8b98d2cbeea6bf1ce4a6486b015ed3c586de62d54c000; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Husitai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Roma: owner_note_path, place"
-  ryšio_targeto_parinkimas: "Husitai: mention_match, group, gap=60"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Roma\" parinktas kaip owner_note_path. Targetas \"Husitai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-164108
 
@@ -59,9 +49,6 @@ Roma: kai vyskupas Vaitiekus panorėjo ją sustiprinti, čekai sukilo, ir jis bu
 - t-002
   global_id: t-180501
   teiginys: "1595 m. Hipatas Pociejus ir Kirilas Terleckis Romoje gavo popiežiaus Klemenso VIII pritarimą bažnytinei unijai."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "619451-619794; hash=813836aaedd8a960151262ea24ebef284a0b65841a9405fac9d560b84c42d4e9; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-164107
 - susijęs iš [[objektai/asmenys/Enėjas.md#claim-t-190093|Enėjas]]: Narbutas pasakoja, kad Enėjas iš Trojos į Italiją atsinešė Karibų garbinimą, vėliau siejamą su Alba ir Roma.
@@ -102,8 +89,8 @@ Roma: kai vyskupas Vaitiekus panorėjo ją sustiprinti, čekai sukilo, ir jis bu
     žiaus Klemenso VIII visišką pritarimą, visų Lietuvos ir Lenkijos
     pravoslavų vardu padarė bažnytinę uniją.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -121,8 +108,8 @@ Roma: kai vyskupas Vaitiekus panorėjo ją sustiprinti, čekai sukilo, ir jis bu
     spręsti šį husitų klausimą, dėl kurio tiek daug nerangumo ir ne­
     pajėgumo parodė imperatorius Zigmantas L.^3 ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

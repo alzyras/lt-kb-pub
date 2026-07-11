@@ -38,18 +38,6 @@ Paliose veikę Varniškių ir „Muškietininkų“ būrių partizanai.
 - t-001
   global_id: t-41192
   teiginys: "1945 m. balandį Varniškių būrio partizanai veikė Paliose."
-  temporaliniai_duomenys: "įvykio data: 1945 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "928912-929226; hash=92795a0311f156bc763cfebb4d489f2c3fdfb0d05d92027ce39a950a8eef43fa; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> NKVD: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Varniškių būrys: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "NKVD: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Varniškių būrys\" parinktas kaip owner_note_path. Targetas \"NKVD\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-44866
 ## Reikšmingi paminėjimai
@@ -71,8 +59,8 @@ Paliose veikę Varniškių ir „Muškietininkų“ būrių partizanai.
     stribų garnizonai. Puolimą parėmė regu-
     liariosios sovietų kariuomenės dalys.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

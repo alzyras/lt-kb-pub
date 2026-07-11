@@ -36,15 +36,6 @@ I. Onacevičius laiške T. Narbutui moralizuoja apie lietuvių abejingumą kraš
 - t-001
   global_id: t-192128
   teiginys: "I. Onacevičius 1836 m. laiške T. Narbutui lietuvių „dorybėmis“ vadino kortas, romanus ir garderobus."
-  teiginio_tipas: "saltinio_teiginys"
-  temporaliniai_duomenys: "įvykio data: 1836 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Subjektas, data ir adresatas paimti iš citatos, o moralinis vertinimas paliktas Onacevičiaus laiško atribucijoje. Nepridėta platesnių išvadų apie visus lietuvius."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "816564-816846; hash=6fabd6eca860617c359147de84e95076593e795f84601348c173171f6fe4a353; match=whitespace_regex"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175015
 ## Reikšmingi paminėjimai
@@ -60,8 +51,8 @@ I. Onacevičius laiške T. Narbutui moralizuoja apie lietuvių abejingumą kraš
     viai. Kortos, romanai, garderobai — tokios yra jų dory­
     bės.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -72,7 +63,8 @@ I. Onacevičius laiške T. Narbutui moralizuoja apie lietuvių abejingumą kraš
 - id: c-175015
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 452"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 452."
   citata_originali: |
     1836 metų kovo 19 dieną jis rašė T. Narbutui: „Mažai
     yra Žemės rutulyje kraštų, panašių į Lietuvą, kur žmonės

@@ -34,16 +34,6 @@ Nepaisant Volano, Tšecieskio ir kitų karštų refor­ matų talentų, nepaisan
 - t-001
   global_id: t-87871
   teiginys: "Tšecieskis buvo vienas iš talentingų reformatų, kuriems nepavyko sutelkti pakankamai stiprių pajėgų kovai su jėzuitais."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "588638-589249; hash=8f714ab12443c64b968dc8e222eae648c714cf3e1d21500e15479afd689f71e8; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Alanta: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Tšecieskis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Alanta: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tšecieskis\" parinktas kaip owner_note_path. Targetas \"Alanta\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-83850
 - susijęs iš [[objektai/grupes/Jėzuitų ordinas.md#claim-t-172115|Jėzuitų ordinas]]: Disidentai negalėjo sutelkti tokių stiprių pajėgų kovai su jėzuitais, kurie buvo tvirtai susieti savo brolijos regulų.
@@ -72,8 +62,8 @@ Nepaisant Volano, Tšecieskio ir kitų karštų refor­ matų talentų, nepaisan
     veikti sumaniau ir įtaigiau, daugiau iš įvairių kraštų tam
     tikslui surinktų žmonių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

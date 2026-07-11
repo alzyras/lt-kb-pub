@@ -56,17 +56,6 @@ Nenurodyta
 - t-002
   global_id: t-59447
   teiginys: "Lietuviai Nemune užėmė Ordino karo laivą, nužudė keturis lankininkus ir sudegino laivą, nors per puolimą žuvo Surmino brolis Skaldonis."
-  semantiniai_rysiai: "Skaldonis buvo brolis Surminas (0.96); Lietuviai puolė Vernerio karo laivo užėmimas ir sudeginimas (1313 m.) (0.87)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "646043-646740; hash=230f369982e2f045d97469b854e7a8d9e69b3e278046a2f2ccb9886178fb1e3d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_brolis -> Surminas: 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Skaldonis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Surminas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citatoje Skaldonis tiesiogiai pavadintas Surmino broliu."
   pagrindžia:
     - c-60079
 
@@ -74,20 +63,6 @@ Nenurodyta
 - t-001
   global_id: t-59448
   teiginys: "1313 m. lietuvių karalius pasiuntė Surminą su šimtu laivų, šešiais šimtais ar daugiau vyrų ir šimtu raitelių sunaikinti Ordino karo laivo."
-  semantiniai_rysiai: "Surminas dalyvavo mūšyje Vernerio karo laivo užėmimas ir sudeginimas (1313 m.) (0.83); Lietuviai dalyvavo mūšyje Vernerio karo laivo užėmimas ir sudeginimas (1313 m.) (0.78)"
-  temporaliniai_duomenys: "įvykio data: 1313 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys turi antraštės triukšmo, bet citata pagrindžia lietuvių sprendimą ir Surmino pajėgas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "646043-646740; hash=230f369982e2f045d97469b854e7a8d9e69b3e278046a2f2ccb9886178fb1e3d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "dalyvavo_musyje -> Vernerio karo laivo užėmimas ir sudeginimas (1313 m.): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Surminas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vernerio karo laivo užėmimas ir sudeginimas (1313 m.): llm_allowed_candidate, event"
-  ryšio_paaiskinimas: "Surminas buvo pasiųstas vykdyti karo laivo sunaikinimo veiksmą."
   pagrindžia:
     - c-60079
 ## Reikšmingi paminėjimai
@@ -106,8 +81,8 @@ Nenurodyta
     o Skaldonis, minėtojo Surmino brolis, užmuštas, paėmė laivą ir, nužudę 4 lankininkus,
     jį pavertė pelenais568.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -119,7 +94,8 @@ Nenurodyta
 - id: c-60079
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 208"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 208."
   citata_originali: |
     318 (311). Apie šio laivo sudeginimą 1313 metais
 
@@ -139,7 +115,3 @@ Nenurodyta
   pagrindzia:
     - t-59448
     - t-59447
-
-## Ryšiai
-- Puolė Vernerio karo laivo užėmimas ir sudeginimą (1313 m.): [[objektai/grupes/Lietuviai]]
-- Turėjo dalyvį: [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Surminas]]

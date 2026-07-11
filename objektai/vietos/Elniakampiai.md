@@ -41,16 +41,6 @@ Jaugi 1571 metų birželio 1 dieną Vil­ niaus vyskupas Valerijonas Protasevič
 - t-002
   global_id: t-86067
   teiginys: "Šv. Jono bažnyčios klebonas Adomas Ancypa skunde teigė pagal fundacijas laikantis Elniakampius."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "374289-374998; hash=246abb4ed792805d18faa479fe852637271bf29a6e1fa27d321cbc5406c3947a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Rudamina: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Elniakampiai: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Rudamina: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Elniakampiai\" parinktas kaip owner_note_path. Targetas \"Rudamina\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-82047
 
@@ -58,19 +48,6 @@ Jaugi 1571 metų birželio 1 dieną Vil­ niaus vyskupas Valerijonas Protasevič
 - t-001
   global_id: t-86068
   teiginys: "1571 m. birželio 1 d. Vilniaus vyskupas Valerijonas Protasevičius skyrė Elniakampius vikaro ir jo adjutorių išlaikymui."
-  temporaliniai_duomenys: "įvykio data: 1571 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir tiksliai perteikia citatoje pateiktą faktą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "372055-372858; hash=08d0e1782e5c95d9a6d8a26ef3874feaeea8ffb51e9fc0dfc2bda1ede5380c97; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Pukančiai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Elniakampiai: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Pukančiai: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Elniakampiai\" parinktas kaip owner_note_path. Targetas \"Pukančiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-82046
 ## Reikšmingi paminėjimai
@@ -95,8 +72,8 @@ Jaugi 1571 metų birželio 1 dieną Vil­ niaus vyskupas Valerijonas Protasevič
     statyta, ir viską patvarkė pagal aukščiau minėtą karaliaus
     privilegiją.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -121,8 +98,8 @@ Jaugi 1571 metų birželio 1 dieną Vil­ niaus vyskupas Valerijonas Protasevič
     laikymą savo adjutoriams; kad iki šiol aukas bažnyčiai ne­
     šamas ir mokesčius surenkamus už namus imdavo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

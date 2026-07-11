@@ -30,21 +30,6 @@ Teodoras Narbutas Amianui Marcelinui priskiria teiginį, kad kai kurie alanai ap
 - t-001
   global_id: t-191171
   teiginys: "Teodoras Narbutas Amianui Marcelinui priskiria teiginį, kad kai kurie alanai apsigyveno Vyslos ir Nemuno tarpupyje."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "110064-110510; hash=bacef469de3a7f76792e260c32b025f7277e2a3fa6cf9e035ba44f69301473ad; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vysla: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Amianas Marcelinas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Vysla: mention_match, place, gap=70"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Amianas Marcelinas\" parinktas kaip owner_note_path. Targetas \"Vysla\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174053
 
@@ -52,22 +37,6 @@ Teodoras Narbutas Amianui Marcelinui priskiria teiginį, kad kai kurie alanai ap
 - t-002
   global_id: t-191172
   teiginys: "Teodoras Narbutas Amianui Marcelinui priskiria pasakojimą apie Julijono žygūnus, keliavusius per Dneprą ir alanų kraštą pas Saporą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Graikai gyveno Dnepras (0.78)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "182437-182925; hash=c12231e9f8d923d81f241215b201df4092b3e4884bf295bbf31af9d40c60b936; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Dnepras: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Graikai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Dnepras: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Graikų kolonistai aprašomi kaip gyvenę Dnepro pakrantėje."
-  vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174054
 
@@ -75,21 +44,6 @@ Teodoras Narbutas Amianui Marcelinui priskiria teiginį, kad kai kurie alanai ap
 - t-003
   global_id: t-191938
   teiginys: "Narbutas agazirus tapatina su agatirais, kuriuos Amianas Marcelinas mini XXXI knygoje."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "516390-517061; hash=ad7a84643ffd9c51f0632eeef4f77b991cf5a5e0a16f56645611c924f22bbecf; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Dnepras: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Amianas Marcelinas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Dnepras: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Amianas Marcelinas\" parinktas kaip owner_note_path. Targetas \"Dnepras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T15:36:38Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174820
 ## Reikšmingi paminėjimai
@@ -110,8 +64,8 @@ Teodoras Narbutas Amianui Marcelinui priskiria teiginį, kad kai kurie alanai ap
     patį tvirtina ir Ptolemėjas, aprašinėjęs tą europinę Sar­
     matijos dalį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -132,8 +86,8 @@ Teodoras Narbutas Amianui Marcelinui priskiria teiginį, kad kai kurie alanai ap
     po to keliavo toliau per alanų kraštą. Tai pasakoja Amia-
     nas Marcelinas1.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -157,8 +111,8 @@ Teodoras Narbutas Amianui Marcelinui priskiria teiginį, kad kai kurie alanai ap
     gerų kraštu, taip pat netoli gyveno masagetai, melanchle-
     nai ir antropofagai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -169,7 +123,8 @@ Teodoras Narbutas Amianui Marcelinui priskiria teiginį, kad kai kurie alanai ap
 - id: c-174053
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 63"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 63."
   citata_originali: |
     Į
     vakarus, pasak Jordano, keliavę tie alanai, kurie anks­
@@ -192,7 +147,8 @@ Teodoras Narbutas Amianui Marcelinui priskiria teiginį, kad kai kurie alanai ap
 - id: c-174054
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 102"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 102."
   citata_originali: |
     Šie buvo Padneprės
     emporiumų graikų kolonistai, susigiminiavę su skitais ir
@@ -214,7 +170,8 @@ Teodoras Narbutas Amianui Marcelinui priskiria teiginį, kad kai kurie alanai ap
 - id: c-174820
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 288"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 288."
   citata_originali: |
     Mes, užuot ieškoję tų toli­
     mų persikėlimų, iš dalies pripažinkime Jordano tiesą, iš

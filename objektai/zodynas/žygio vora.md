@@ -30,20 +30,6 @@ media_all_json: |-
 - t-001
   global_id: t-185362
   teiginys: "Žygyje kartu su Algirdu kariuomenė buvo padalyta į tris žygio voras."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Algirdas (Lietuvos valdovas) kariavo prieš Kryžiuočių ordinas (0.68)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "449530-449861; hash=b047af429a8c92e09ae876641b31d3797868802d33ec192fc1dcb59f1153f6e8; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Kryžiuočių ordinas: 0.68"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata aprašo žygį prieš kryžiuočius ir nurodo, kad jis vyko kartu su Algirdu."
   pagrindžia:
     - c-168723
 - susijęs iš [[objektai/asmenys/Fiodoras Ostrogiškis.md#claim-t-186037|Fiodoras Ostrogiškis]]: Kunigaikštis Fiodoras Ostrogiškis gavo įsakymą su viena žygio vora užimti Podolę.
@@ -62,8 +48,8 @@ media_all_json: |-
     dų kaimus. Tuo metu ir kryžiuočiai nesėdėjo rankų
     sudėję.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -74,7 +60,8 @@ media_all_json: |-
 - id: c-168723
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 257"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 257."
   citata_originali: |
     Prie
     Saldavos ir Neidenburgo jis sumušė kryžiuočius, nesi­

@@ -30,12 +30,6 @@ Paskui, po didžiojo kunigaikš čio Algirdo mirties praėjus dvejiems ar daugia
 - t-001
   global_id: t-194145
   teiginys: "Paskui, po didžiojo kunigaikš čio Algirdo mirties praėjus dvejiems ar daugiau metų, didysis kunigaikštis Jogaila jį labai aukštai iškėlė ir išleido už jo tikrą savo seserį, kunigaikštytę Mariją 3 B , kuri buvo pirmiau ištekėjusi už kunigaikščio Dovydo 4 0 ."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "136156-136873; hash=b5b8050111af537eb062e4ebb34dd652685d8d4295b8f132616bcbdd16d032d3; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176758
 ## Reikšmingi paminėjimai
@@ -58,8 +52,8 @@ Paskui, po didžiojo kunigaikš čio Algirdo mirties praėjus dvejiems ar daugia
     pyktį ir gailestį dėl tos jo giminaitės, o [Jogailos] se­
     sers, kam ją ištekino už vergo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

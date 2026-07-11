@@ -51,17 +51,6 @@ Nenurodyta
 - t-001
   global_id: t-86916
   teiginys: "Po Kęstučio mirties Vytautas buvo pervežtas iš Vilniaus į Krėvą ir įkalintas, bet išvengė pražūties."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į Krėva (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "107108-107710; hash=6e30559324d0e7b0d9b7f3dd546fba3a64a1ca5d4b8ef2bde0ab0bd6582938ed; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Krėva: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Krėva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Vytauto pervežimą į Krėvą."
   pagrindžia:
     - c-82895
 
@@ -69,16 +58,6 @@ Nenurodyta
 - t-002
   global_id: t-86917
   teiginys: "Vygandas aprašė, kad per Kęstučio laidotuves Vilniuje kartu su jo palaikais sudeginti rūbai, ginklai, žirgai, medžiokliniai šunys ir paukščiai."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "107711-108725; hash=1e5ee3d3b5248f9bbeacd7f5c9ffcb89d23292c3925c659417d60e328597edee; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kęstučio laidotuvės Vilniuje: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=20"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kęstučio laidotuvės Vilniuje\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-82896
 ## Reikšmingi paminėjimai
@@ -99,8 +78,8 @@ Nenurodyta
     vyzdžiu Europos istorijoje pasikartojusi, išgelbėjo jį nuo
     neišvengiamos pražūties.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -138,8 +117,8 @@ Nenurodyta
     tučio pelenus, ką regėjusi daugybė
     žmonių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

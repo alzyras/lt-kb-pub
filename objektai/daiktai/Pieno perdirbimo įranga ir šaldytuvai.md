@@ -56,16 +56,6 @@ Nenurodyta
 - t-007
   global_id: t-45532
   teiginys: "Pieno perdirbimo bendrovėms įsigijus modernią įrangą ir šaldytuvus, didėjo pieno ir mėsos produktų eksportas į užsienį."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "300395-300782; hash=e541766495a0cce68d9078f58970d83acbc44652977611bc1219a7fd260a5e62; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Pieno perdirbimo įranga ir šaldytuvai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pieno perdirbimo įranga ir šaldytuvai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-48310
 
@@ -73,11 +63,6 @@ Nenurodyta
 - t-005
   global_id: t-45534
   teiginys: "Pieno perdirbimo bendrovėms įsigijus modernią įrangą ir šaldytuvus, didėjo pieno ir mėsos produktų eksportas į užsienį."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "300250-300706; hash=50a54e3aff6ee35f9d77e03097d636e2fe3178bc6396f57bde787ca941bd9680; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-22285
 
@@ -85,11 +70,6 @@ Nenurodyta
 - t-005
   global_id: t-45534
   teiginys: "Pieno perdirbimo bendrovėms įsigijus modernią įrangą ir šaldytuvus, didėjo pieno ir mėsos produktų eksportas į užsienį."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "300250-300706; hash=50a54e3aff6ee35f9d77e03097d636e2fe3178bc6396f57bde787ca941bd9680; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-22285
 ## Reikšmingi paminėjimai
@@ -105,8 +85,8 @@ Nenurodyta
     dirbimo bendrovės, įsigijus modernią įrangą, šaldytuvus, didėjo pieno ir
     mėsos produktų eksportas į užsienį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -125,8 +105,8 @@ Nenurodyta
     Šalyje tebekursavo ostmarkės, kurias Lietuvos valdžia pavadino auksi-
     nais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

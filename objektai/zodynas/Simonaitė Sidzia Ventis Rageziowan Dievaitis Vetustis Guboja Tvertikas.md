@@ -30,21 +30,6 @@ Narbutas Simonaitę (Simonajte) apibūdina kaip moteriškos giminės fetišą, k
 - t-001
   global_id: t-189251
   teiginys: "Narbutas Simonaitę (Simonajte) apibūdina kaip moteriškos giminės fetišą, kurį garbino Mikuckių giminė."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "350784-351102; hash=65146af1725d9900347e03851214b465e8225296765ea05e676c2987f5c8bb66; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Mikuckių giminė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Simonaitė Sidzia Ventis Rageziowan Dievaitis Vetustis Guboja Tvertikas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Mikuckių giminė: mention_match, group, gap=48"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Simonaitė Sidzia Ventis Rageziowan Dievaitis Vetustis Guboja Tvertikas\" parinktas kaip owner_note_path. Targetas \"Mikuckių giminė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172139
 
@@ -52,21 +37,6 @@ Narbutas Simonaitę (Simonajte) apibūdina kaip moteriškos giminės fetišą, k
 - t-002
   global_id: t-189252
   teiginys: "Narbutas Vetustį (Wetustis) nurodo kaip Rietavo miestelio fetišą, kurio lietuviška reikšmė esanti „senovinis“."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "351103-351304; hash=d94fd5e782a26119101b183c2bd91a8f6fb5bc9a4a0e7f5da4e897d7836822e1; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Rietavas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Simonaitė Sidzia Ventis Rageziowan Dievaitis Vetustis Guboja Tvertikas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Rietavas: mention_match, place, gap=31"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Simonaitė Sidzia Ventis Rageziowan Dievaitis Vetustis Guboja Tvertikas\" parinktas kaip owner_note_path. Targetas \"Rietavas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172140
 ## Reikšmingi paminėjimai
@@ -87,8 +57,8 @@ Narbutas Simonaitę (Simonajte) apibūdina kaip moteriškos giminės fetišą, k
     Pajūrio (Pojura) kaimo fetišas; tas kaimas buvo kažkur Ra­
     seinių apskrityje, tikriausiai prie Jūros upės.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -108,8 +78,8 @@ Narbutas Simonaitę (Simonajte) apibūdina kaip moteriškos giminės fetišą, k
     Saratovo miesto fetišai. Šiuos aštuonis dievukus mini La-
     sickis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -120,7 +90,8 @@ Narbutas Simonaitę (Simonajte) apibūdina kaip moteriškos giminės fetišą, k
 - id: c-172139
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 206"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 206."
   citata_originali: |
     Simonaitė (Simonajte)
     Moteriškos giminės fetišas, jį garbino Mikuckių giminė.

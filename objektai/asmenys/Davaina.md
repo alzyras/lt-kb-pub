@@ -31,20 +31,6 @@ Jogailai įsakius grąžinti kryžių ir belaisvę į Lenkiją, Davaina priėmė
 - t-001
   global_id: t-186104
   teiginys: "Jogailai įsakius grąžinti kryžių ir belaisvę į Lenkiją, Davaina priėmė krikščionybę ir pasiliko Lenkijoje."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Davaina keliavo į Lenkija (0.84)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "485165-486050; hash=3acc7caf7b498d29a1ce2474da84ab31299366dca07cd1012a17f3e03b291177; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Lenkija: 0.84"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Davaina: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Davaina grąžino kryžių ir belaisvę į Lenkiją ir ten pasiliko."
   pagrindžia:
     - c-169465
 
@@ -52,12 +38,6 @@ Jogailai įsakius grąžinti kryžių ir belaisvę į Lenkiją, Davaina priėmė
 - t-002
   global_id: t-193904
   teiginys: "Davaina yra identiškas su BK Davaina."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "431083-431342; hash=1f5e80ebbf3915ca9c613b1e9bfc4f2e4c09d468ef9f388a66b92b05b3736b5a; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176529
 - susijęs iš [[objektai/ivykiai/Maskvėnų įsiveržimas į Baltarusiją ir lietuvių bei lenkų atsakomasis žygis.md#claim-t-185621|Maskvėnų įsiveržimas į Baltarusiją ir lietuvių bei lenkų atsakomasis žygis]]: Stanislovas Lesniovolskis su tūkstančiu rinktinių lenkų raitelių, dviem šimtinėmis lietuvių ir Davainos būriu susidūrė su 45 tūkstančiais priešų.
@@ -95,8 +75,8 @@ Jogailai įsakius grąžinti kryžių ir belaisvę į Lenkiją, Davaina priėmė
     žmonių Dembnu vadinamą, kuriame vaizduojamas ir
     kryžius, turintis priminti, kaip tada viskas buvo.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -111,8 +91,8 @@ Jogailai įsakius grąžinti kryžių ir belaisvę į Lenkiją, Davaina priėmė
     su kitais lietuvių bajorais davė ištikimybės raštą Lenkijos karaliui
     Jogailai. Tačiau neaišku, ar jis yra identiškas su BK Davaina.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -173,6 +153,3 @@ Jogailai įsakius grąžinti kryžių ir belaisvę į Lenkiją, Davaina priėmė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193904
-
-## Ryšiai
-- Davaina keliavo į [[objektai/vietos/Lenkija]]

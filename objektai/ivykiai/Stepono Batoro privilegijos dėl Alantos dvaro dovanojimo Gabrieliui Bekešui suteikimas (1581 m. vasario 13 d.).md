@@ -58,17 +58,6 @@ Nenurodyta
 - t-001
   global_id: t-86889
   teiginys: "Steponas Batoras privilegijoje pabrėžė Gabrielio Bekešo nuopelnus tarnaujant valdovui, Karalystei ir Lietuvos Didžiajai Kunigaikštystei."
-  semantiniai_rysiai: "Steponas Batoras buvo valdovas Lenkija (0.91)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "794738-795934; hash=e60fef0846c964300e7a0c95bd4ad46ec6214402537563970d2d67a87edbfcc3; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_valdovas -> Lenkija: 0.91"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Steponas Batoras: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citatoje Steponas Batoras įvardijamas Lenkijos karaliumi."
   pagrindžia:
     - c-82869
 
@@ -76,19 +65,6 @@ Nenurodyta
 - t-003
   global_id: t-86890
   teiginys: "Stepono Batoro privilegija dėl Alantos dvaro dovanojimo buvo rašyta ir duota Varšuvoje 1581 m. vasario 13 d."
-  temporaliniai_duomenys: "įvykio data: 1581 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko dokumento datą ir vietą, o pradiniame teiginyje yra puslapio triukšmo."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "801907-802535; hash=71fc649b61c7f57e21a15dcbe71a14950ec3d0ad589b318f54981ce38b580ab4; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Alanta: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Stepono Batoro privilegijos dėl Alantos dvaro dovanojimo Gabrieliui Bekešui suteikimas (1581 m. vasario 13 d.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Alanta: mention_match, place, gap=31"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Stepono Batoro privilegijos dėl Alantos dvaro dovanojimo Gabrieliui Bekešui suteikimas (1581 m. vasario 13 d.)\" parinktas kaip owner_note_path. Targetas \"Alanta\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-82870
 
@@ -96,16 +72,6 @@ Nenurodyta
 - t-002
   global_id: t-86891
   teiginys: "Stepono Batoro privilegija leido Gabrieliui Bekešui ir jo palikuonims naudotis suteiktomis valdomis kaip nuosava tėvonija."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "800471-801747; hash=a1f4f4f2c3b3c7a3e427e0dd0c6be1ef8275969554b641a7e1bc0926053cd3c0; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Steponas Batoras: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Stepono Batoro privilegijos dėl Alantos dvaro dovanojimo Gabrieliui Bekešui suteikimas (1581 m. vasario 13 d.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Steponas Batoras: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Stepono Batoro privilegijos dėl Alantos dvaro dovanojimo Gabrieliui Bekešui suteikimas (1581 m. vasario 13 d.)\" parinktas kaip owner_note_path. Targetas \"Steponas Batoras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-82868
 ## Reikšmingi paminėjimai
@@ -138,8 +104,8 @@ Nenurodyta
     gi, kaip kiti Lietuvos Didžiosios Kunigaikštystės bajorai,
     vyks į karą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -172,8 +138,8 @@ Nenurodyta
     420
     Transiivanijos (vert.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -215,8 +181,8 @@ Nenurodyta
     VILNIAUS MIESTO ISTORIJA// TOMAS
     In Ckristi nomine Amen.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

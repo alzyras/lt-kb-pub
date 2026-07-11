@@ -30,21 +30,6 @@ Romėnas Liberijus, Narbuto apibūdintas kaip dorybingas ministras, rėmė Odoak
 - t-001
   global_id: t-191438
   teiginys: "Romėnas Liberijus, Narbuto apibūdintas kaip dorybingas ministras, rėmė Odoakrą tvarkant Italijos vidaus problemas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "565273-565961; hash=77181bdea4acf08236b04f8f01cd970d098368855a7f5923331eac7880c29144; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Italija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Liberijus: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Italija: mention_match, place, gap=80"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Liberijus\" parinktas kaip owner_note_path. Targetas \"Italija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174320
 ## Reikšmingi paminėjimai
@@ -68,8 +53,8 @@ Romėnas Liberijus, Narbuto apibūdintas kaip dorybingas ministras, rėmė Odoak
     tauti nedrįso pirmiausia dėl savo bejėgiškumo, o antra
     1 Procop.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -80,7 +65,8 @@ Romėnas Liberijus, Narbuto apibūdintas kaip dorybingas ministras, rėmė Odoak
 - id: c-174320
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 315"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 315."
   citata_originali: |
     Odoakras ne­
     trukus perleido šią provinciją visigotų karaliui Evarikui,

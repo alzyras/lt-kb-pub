@@ -34,15 +34,6 @@ media_all_json: |-
 - t-003
   global_id: t-195007
   teiginys: "Šich Achmetas, valdovo valia turėjęs būti svetingai priimtas Trakuose, su garbinga palyda sugrįžo į Lietuvą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Pradinis teiginys turi perteklinį kontekstą apie karalių ir gali būti glaustesnis."
-  susije_objektai: "llm_object: Lietuva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/Mengli Girėjus|Mengli Girėjus]]; mentioned_place: Krymas; llm_object: Trakai"
-  semantiniai_rysiai: "[[objektai/asmenys/Šich Achmetas|Šich Achmetas]] keliavo į Lietuva; [[objektai/asmenys/Šich Achmetas|Šich Achmetas]] keliavo į Trakai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1032351-1032915; hash=1d4838834e3cb08568f8b23a44f03f45bbaf8d712d56267b2c930c0ba24edc84; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177390
 
@@ -50,15 +41,6 @@ media_all_json: |-
 - t-002
   global_id: t-195008
   teiginys: "Karalius įsakė parūpinti Šich Achmetui puikią svitą ir palydėti jį į Radomą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Teiginys aiškiai susijęs su Šich Achmetu ir paremtas šaltiniu."
-  susije_objektai: "mentioned_place: Radomas; mentioned_group: [[objektai/grupes/NATO|NATO]]; mentioned_place: Krymas; mentioned_place: Lenkija; llm_object: Radomas"
-  semantiniai_rysiai: "[[objektai/asmenys/Šich Achmetas|Šich Achmetas]] keliavo į Radomas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1027983-1028472; hash=3c9397e9f07958775ab3f136bb86ee72975f0117efd12367933bc00df117c7da; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177391
 
@@ -66,12 +48,6 @@ media_all_json: |-
 - t-004
   global_id: t-195009
   teiginys: "Sich-Achmetas buvo Achmato sūnus, paskutinis Aukso ordos chanas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "637533-637840; hash=fecf4cd091e6a73a6e54d619a9bef6b91a09c8fa99daf99c23b5ddd048c2470d; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177389
 - susijęs iš [[objektai/ivykiai/Krokuvos sutartis dėl bendro karo su Šich Achmetu ir žygis į Severską.md#claim-t-185592|Krokuvos sutartis dėl bendro karo su Šich Achmetu ir žygis į Severską (sutartis)]]: Šich Achmetas staigiu antpuoliu užėmė Seversko Naugardą ir Aleksandro vardu perdavė jį valdyti Chaleckiui.
@@ -101,8 +77,8 @@ media_all_json: |-
     skitus. Karaliaus ir luomų vardu jam šitaip buvo atsa­
     kyta.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -126,8 +102,8 @@ media_all_json: |-
     nius žadėjo karaliui taiką ir
     pagalbą, jeigu šis neleis Šich Achmetui pasprukti.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -142,8 +118,8 @@ media_all_json: |-
     mo chanų Mengll-Girėjų, kuris savo možiu siekė pašalinti Sich-
     Achmetų ir sujungti savo valdžioje visas totorių ordas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -172,7 +148,8 @@ media_all_json: |-
 - id: c-177390
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 582"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 582."
   citata_originali: |
     Dėl karaliaus ligos seimas buvo pa­
     leistas, kadangi vargu ar ką galima buvo benuveikti.
@@ -199,7 +176,8 @@ media_all_json: |-
 - id: c-177391
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 580"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 580."
   citata_originali: |
     Karalius įsakė parūpinti Šich Achmetui pui­
     kiausią svitą ir palydėti jį į Radomą. Pakviestas į se­
@@ -220,8 +198,6 @@ media_all_json: |-
     - t-195008
 
 ## Ryšiai
-- Šich Achmetas keliavo į [[objektai/vietos/Lietuva]], [[objektai/vietos/Radomas]], [[objektai/vietos/Trakai]]
+- Šich Achmetas keliavo į [[objektai/vietos/Lietuva]]
 - Šich Achmetas puolė [[objektai/vietos/Severskas]], [[objektai/vietos/Seversko žemė]]
 - Šich Achmetas užėmė [[objektai/vietos/Naugardas]]
-- Šich Achmetas surengė žygį į [[objektai/vietos/Severskas]]
-- Šich Achmetas gyveno [[objektai/vietos/Trakai]]

@@ -61,17 +61,6 @@ Nenurodyta
 - t-001
   global_id: t-87111
   teiginys: "Pasak Strijkovskio, Gediminas medžiodamas strėle iš kilpinės pašovė taurą ant kalno, vėliau vadinto Tauro kalnu."
-  semantiniai_rysiai: "Gediminas pastatė Vilnius (0.74)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "128648-129938; hash=9c09c59bba0831d018cfb2dc12ea07cf84f84cff55c15fd76ff0c4228051a3bb; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "pastate -> Vilnius: 0.74"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata Gediminui priskiria Vilniaus įkūrimą; „pastatė“ čia taikoma kaip artimiausias leistinas miesto įkūrimo ryšys."
   pagrindžia:
     - c-83090
 ## Reikšmingi paminėjimai
@@ -103,8 +92,8 @@ Nenurodyta
     regėjo geležinį vilką, nepaprasto didumo, o jo kauksmas bu­
     vęs toks galingas, kad atrodė, tarsi šimtas vilkų staugtų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

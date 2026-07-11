@@ -33,16 +33,6 @@ Jau jam valdant Krušvica, Poznanė ir kiti b) Martini Gaili, Chronicon, ed. sta
 - t-002
   global_id: t-88032
   teiginys: "Martinas Galias rašė, kad Poznanė duodavo 1 300 šarvuotųjų ir 4 000 skydais ginkluotų karių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "37183-37481; hash=92843d19218e20510e0f8be61e14140aa5f989b990b692c2bb7d2ee5bd8b56d3; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Poznanė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Martinas Galias: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Poznanė: mention_match, place, gap=26"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Martinas Galias\" parinktas kaip owner_note_path. Targetas \"Poznanė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-84010
 
@@ -50,12 +40,6 @@ Jau jam valdant Krušvica, Poznanė ir kiti b) Martini Gaili, Chronicon, ed. sta
 - t-003
   global_id: t-194200
   teiginys: "Jau jam valdant Krušvica, Poznanė ir kiti b) Martini Gaili, Chronicon, ed. stalą kiek tvarkingai, tiek ir garbinBandtk."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "36224-36616; hash=902a7a35c58ba5806f2c7c8b9b59be9b7c201f756ced074590873c706669e37c; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176803
 - susijęs iš [[objektai/daiktai/Ginklai, skydai, šarvai ir šaudymo reikmenys.md#claim-t-86983|Ginklai, skydai, šarvai ir šaudymo reikmenys]]: Martinas Galias rašė, kad Poznanė duodavo 1300 šarvuotųjų ir 4000 skydais ginkluotų karių.
@@ -79,8 +63,8 @@ Jau jam valdant Krušvica, Poznanė ir kiti b) Martini Gaili, Chronicon, ed. sta
     jų, 2 000 su skydais, Gdečas - 300
     pirmųjų ir 2 000 antrųjų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -98,8 +82,8 @@ Jau jam valdant Krušvica, Poznanė ir kiti b) Martini Gaili, Chronicon, ed. sta
     tinebat, quod omni die privato quadra- dinių stalų, neskaitant mažesnių,
     ginta mensas principales, exceptis parengti stovėdavo].
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

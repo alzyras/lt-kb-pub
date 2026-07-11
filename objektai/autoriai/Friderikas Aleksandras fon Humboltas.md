@@ -40,24 +40,6 @@ Narbutas tikriausiai rėmėsi Frideriko Aleksandro fon Humbolto kelionių apraš
 - t-001
   global_id: t-190390
   teiginys: "Narbutas tikriausiai rėmėsi Frideriko Aleksandro fon Humbolto kelionių aprašymu apie 1799–1804 m. keliones į Naujojo žemyno lygiadienio sritis."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1799-1804; įvykio data: 1804 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Spėjamo šaltinio pobūdis paliktas su „tikriausiai“, nes taip formuluoja citata. Pašalinti OCR trūkiniai ir neišvardyti nereikalingi leidimo techniniai duomenys."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "861630-861966; hash=1df6a87b9353c29abdc26902e07f10bfbf307df34ed18b030b2ad563e9f8ff1b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> T. Narbutas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Friderikas Aleksandras fon Humboltas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "T. Narbutas: mention_match, author, gap=28"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Friderikas Aleksandras fon Humboltas\" parinktas kaip owner_note_path. Targetas \"T. Narbutas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173273
 ## Reikšmingi paminėjimai
@@ -75,8 +57,8 @@ Narbutas tikriausiai rėmėsi Frideriko Aleksandro fon Humbolto kelionių apraš
     den Jahren 1799,1800,1801,1802,1803 und 1804. -
     T. I-VI. -  Stuttgart-Tuubingen, 1815-1832).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -87,7 +69,8 @@ Narbutas tikriausiai rėmėsi Frideriko Aleksandro fon Humbolto kelionių apraš
 - id: c-173273
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 489"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 489."
   citata_originali: |
     Tik­
     riausiai T. Narbutas šią informaeiją paėmė iš ke­

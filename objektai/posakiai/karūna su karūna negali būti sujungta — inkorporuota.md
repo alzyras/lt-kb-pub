@@ -48,16 +48,6 @@ Formulė pateikiama kaip argumentas, kad dvi karūnos ir dvi valstybės negali b
 - t-001
   global_id: t-36006
   teiginys: "Formulė vartojama kaip argumentas prieš Lietuvos inkorporavimą į kitą karūną."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "581397-581963; hash=3885d34672c556e939a97ed5f7ab1b38d6921b3b3275cb90ff65670b7588bca7; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
-  ryšio_patikimumas: "susije_su -> Karūna: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "karūna su karūna negali būti sujungta — inkorporuota: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Karūna: mention_match, thing, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"karūna su karūna negali būti sujungta — inkorporuota\" parinktas kaip owner_note_path. Targetas \"Karūna\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-38385
 
@@ -65,16 +55,6 @@ Formulė pateikiama kaip argumentas, kad dvi karūnos ir dvi valstybės negali b
 - t-002
   global_id: t-36007
   teiginys: "Atskiros Lietuvos karalijos projektas būtų panaikinęs inkorporacijos klausimą, nes karūna su karūna negalėjo būti sujungta."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "581573-582151; hash=de29fe4f91dd39d968e817ba7bd0c4c81266a5b6520eab5855afbb049b6f54e4; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
-  ryšio_patikimumas: "susije_su -> Karūna: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "karūna su karūna negali būti sujungta — inkorporuota: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Karūna: mention_match, thing, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"karūna su karūna negali būti sujungta — inkorporuota\" parinktas kaip owner_note_path. Targetas \"Karūna\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-38386
 ## Reikšmingi paminėjimai
@@ -93,8 +73,8 @@ Formulė pateikiama kaip argumentas, kad dvi karūnos ir dvi valstybės negali b
     nebegalėję būti, nes karūna su karūna negali bū­
     ti sujungta — inkorporuota^3 ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -115,8 +95,8 @@ Formulė pateikiama kaip argumentas, kad dvi karūnos ir dvi valstybės negali b
     būtų buvusi tikra garantija tvirtai laikytis Lenkijoj ir ją valdyt,
     išlaikant dinastijos teises savo rankose.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -54,10 +54,6 @@ Nenurodyta
 - t-001
   global_id: t-08280
   teiginys: "Moterų audimo įrankiai buvo jų vyrų dirbti, o šiame sąraše minimos staklės, skietai, mastuvai, lankčiai ir vytuvai."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "145894-146131; hash=ac8bc9a687301dc22ab53d3b42bb23aea1589c1c8efcba42dadd034e1f68c4c5; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-10238
 ## Reikšmingi paminėjimai
@@ -67,8 +63,8 @@ Nenurodyta
   citata_originali: |
     Lygia dalia motriškosios pirkinių negeidė ir už visų didžiausią gėdą būt sau turėjusios svečios drobės nuometą sau ant galvos vyturti ar sermėga apsivilkti, nesgi jų staklės, skietai, mastuvai^580 , lankčiai, vytuvai buvo jų vyrų dirbti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

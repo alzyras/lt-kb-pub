@@ -45,11 +45,6 @@ media_all_json: |-
 - t-001
   global_id: t-31979
   teiginys: "W. Goyskio „Wzajemne stosunki Polski, Litwy i Zakonu w latach 1399-1404“ paskelbtas 1906 m. „Przewodnik naukowy i literacki“ 34 tome."
-  temporaliniai_duomenys: "įvykio data: 1409 m.; įvykio data: 1906 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "916770-917210; hash=c4f16428c941566b06b16e44f8989af60eacf264a8ee9329771a6a3a3726d0a4; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-33751
 ## Reikšmingi paminėjimai
@@ -64,8 +59,8 @@ media_all_json: |-
     bruožai del Žemaičių ir jų sienų,_ Athenaeum, t. 6, 1935, 54-117 p. — (”)
     _Raciąžo taika,_ LE, t. 24, 315-316 p. — (”) _Salyno taika,_ LE, t. 26, 351-
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

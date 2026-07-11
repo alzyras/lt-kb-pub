@@ -31,19 +31,6 @@ Narbutas rašė, kad kronikininkai Svaistiką arba Svaitestiksą mini kaip švie
 - t-001
   global_id: t-192311
   teiginys: "Narbutas rašė, kad kronikininkai Svaistiką arba Svaitestiksą mini kaip šviesos dievą, o jo vardą aiškino kaip šviesos teikėją."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "177209-177601; hash=139fa90887c6e29c6dbddaf4d8c05602a460a485d14b2af9c2b55c8c1ed88030; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  ryšio_patikimumas: "susije_su -> Ponas Riteris: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Svaistikas Svaitestiksas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Ponas Riteris: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Svaistikas Svaitestiksas\" parinktas kaip owner_note_path. Targetas \"Ponas Riteris\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175119
 ## Reikšmingi paminėjimai
@@ -61,8 +48,8 @@ Narbutas rašė, kad kronikininkai Svaistiką arba Svaitestiksą mini kaip švie
     eilės dievams, sakytum, lyg pasaulio prikėlėja arba pasaulio
     dvasia.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -73,7 +60,8 @@ Narbutas rašė, kad kronikininkai Svaistiką arba Svaitestiksą mini kaip švie
 - id: c-175119
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 100"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 100."
   citata_originali: |
     Apie tai plačiai kalba
     ponas Riteris savo Siaurės senovės tyrimuose15.

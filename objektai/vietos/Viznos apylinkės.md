@@ -33,19 +33,6 @@ Kai Livonijos magistras buvo prie Vilniaus, lietuviai puolė jo valdose Duobelė
 - t-001
   global_id: t-42315
   teiginys: "Kai Livonijos magistras buvo prie Vilniaus, lietuviai pietvakariuose atakavo kryžiuočių kontroliuojamas Viznos apylinkes prie Narevo."
-  semantiniai_rysiai: "Lietuviai puolė Viznos apylinkės (0.82); Lietuviai puolė Kryžiuočių ordinas (0.70)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "215035-215479; hash=c5f2921530e6fb3345f81c31af93b5df3ba7e19405ec3bf4949bcd759d427aee; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Viznos apylinkės: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Viznos apylinkės: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata nurodo lietuvių puolimą, o tame pačiame sakinyje patikslina atakuotas Viznos apylinkes."
-  vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-45432
 ## Reikšmingi paminėjimai
@@ -64,8 +51,8 @@ Kai Livonijos magistras buvo prie Vilniaus, lietuviai puolė jo valdose Duobelė
     Podolėje, Valakijoje, ragino dalyvauti ko-
     voje su totoriais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -94,6 +81,3 @@ Kai Livonijos magistras buvo prie Vilniaus, lietuviai puolė jo valdose Duobelė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-42315
-
-## Ryšiai
-- Puolė Viznos apylinkės: [[objektai/grupes/Lietuviai]]

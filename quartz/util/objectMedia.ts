@@ -5,14 +5,34 @@ export type MediaEntry = {
   mediaId?: string
   title?: string
   caption?: string
+  originalTitle?: string
   creator?: string
   provider?: string
   providerLabel?: string
   license?: string
   rightsNote?: string
+  licenseUrl?: string
+  attribution?: string
   dateDisplay?: string
+  dateStart?: number
+  dateEnd?: number
+  width?: number
+  height?: number
   canonicalUrl?: string
+  sourceUrl?: string
   thumbUrl?: string
+  institution?: string
+  collection?: string
+  country?: string
+  language?: string
+  tags?: MediaTag[]
+  relatedObjects?: RelatedMediaObject[]
+  firstDiscoveredAt?: string
+  reviewedAt?: string
+  visualReviewVersion?: string
+  visualEvidence?: string
+  metadataEvidence?: string
+  confidenceLevel?: string
   relationType?: string
   directness?: string
   reviewStatus?: string
@@ -21,6 +41,21 @@ export type MediaEntry = {
   judgeModel?: string
   judgeReason?: string
   isPrimary?: number
+}
+
+export type MediaTag = {
+  code: string
+  label: string
+  facetKind?: string
+  confidence?: number
+}
+
+export type RelatedMediaObject = {
+  notePath: string
+  title: string
+  itemType?: string
+  relationType?: string
+  directness?: string
 }
 
 export type ObjectMediaSet = {
@@ -38,6 +73,36 @@ export function isObjectPage(slug: string | undefined): boolean {
 
 export function isObjectGalleryPage(slug: string | undefined): boolean {
   return Boolean(slug?.startsWith("objektai/") && slug.endsWith("/galerija"))
+}
+
+export function isMediaGalleryPage(slug: string | undefined): boolean {
+  return slug === "galerija" || isObjectGalleryPage(slug)
+}
+
+export function mergeMediaEntries(entries: MediaEntry[]): MediaEntry[] {
+  const merged = new Map<string, MediaEntry>()
+  for (const entry of entries) {
+    const mediaId = cleanText(entry.mediaId)
+    if (!mediaId) continue
+    const current = merged.get(mediaId)
+    if (!current) {
+      merged.set(mediaId, {
+        ...entry,
+        tags: [...(entry.tags ?? [])],
+        relatedObjects: [...(entry.relatedObjects ?? [])],
+      })
+      continue
+    }
+    const tags = new Map((current.tags ?? []).map((tag) => [tag.code, tag]))
+    for (const tag of entry.tags ?? []) tags.set(tag.code, tag)
+    const objects = new Map((current.relatedObjects ?? []).map((object) => [object.notePath, object]))
+    for (const object of entry.relatedObjects ?? []) objects.set(object.notePath, object)
+    current.tags = [...tags.values()]
+    current.relatedObjects = [...objects.values()]
+    current.isPrimary = Math.max(Number(current.isPrimary ?? 0), Number(entry.isPrimary ?? 0))
+    current.confidence = Math.max(Number(current.confidence ?? 0), Number(entry.confidence ?? 0))
+  }
+  return [...merged.values()]
 }
 
 export function objectGallerySlug(objectSlug: FullSlug): FullSlug {
@@ -134,7 +199,8 @@ export function displayCaption(entry: MediaEntry): string {
 }
 
 export function displayMeta(entry: MediaEntry): string {
-  const parts = [cleanText(entry.creator), cleanText(entry.dateDisplay), cleanText(entry.providerLabel || entry.provider)]
+  const date = cleanText(entry.dateDisplay).replace(/\s+date\s+QS:.*$/i, "").trim()
+  const parts = [cleanText(entry.creator), date, cleanText(entry.providerLabel || entry.provider)]
     .filter(Boolean)
   return parts.join(" • ")
 }

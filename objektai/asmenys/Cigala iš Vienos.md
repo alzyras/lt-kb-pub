@@ -38,23 +38,6 @@ Jonas Čarnkovskis suėmė Cigalą iš Vienos, iškratė pasiuntinių nešulius,
 - t-001
   global_id: t-186191
   teiginys: "Jonas Čarnkovskis suėmė Cigalą iš Vienos, iškratė pasiuntinių nešulius, atėmė imperatoriaus laišką ir paleido Cigalą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Jonas Čarnkovskis buvo priešas Cigala iš Vienos (0.82)"
-  temporaliniai_duomenys: "įvykio data: 1430 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Reikia pašalinti dviprasmišką įvardį ir tiksliau perteikti, kad nešuliai buvo kelių pasiuntinių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "742005-742577; hash=8d49880fbfe5a6e37ad6585f8efb5cb7c03886fe7492e94b6ecf8e5c34b1a195; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_priesas -> Cigala iš Vienos: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jonas Čarnkovskis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Cigala iš Vienos: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Cigalos suėmimas tiesiogiai rodo priešišką Jono Čarnkovskio veiksmą jo atžvilgiu."
   pagrindžia:
     - c-169552
 ## Reikšmingi paminėjimai
@@ -87,8 +70,8 @@ Jonas Čarnkovskis suėmė Cigalą iš Vienos, iškratė pasiuntinių nešulius,
 
     piežiaus sutikimo ir žinios pakelti ką į karalius.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -130,6 +113,3 @@ Jonas Čarnkovskis suėmė Cigalą iš Vienos, iškratė pasiuntinių nešulius,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186191
-
-## Ryšiai
-- Priešai: [[objektai/asmenys/Jonas Čarnkovskis]]

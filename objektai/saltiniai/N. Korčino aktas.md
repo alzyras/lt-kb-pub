@@ -38,19 +38,6 @@ Korčino aktas, stojo skersai kelio Vytauto siekimams Lietuvoj, ypač buvo aišk
 - t-001
   global_id: t-34975
   teiginys: "N. Korčino aktas kliudė Vytauto siekiams Lietuvoje ir buvo nukreiptas prieš jo pretenzijas į Lucką."
-  temporaliniai_duomenys: "įvykio data: 1392 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata tiesiogiai pagrindžia akto santykį su Vytauto siekiais."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "387926-388276; hash=9abad0fac1d88dbde1c84b83db32ca281e4e21b83411fd71fa52d3cbc4c5b9bf; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Korčinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "N. Korčino aktas: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Korčinas: mention_match, place, gap=3"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"N. Korčino aktas\" parinktas kaip owner_note_path. Targetas \"Korčinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-36200
 ## Reikšmingi paminėjimai
@@ -65,8 +52,8 @@ Korčino aktas, stojo skersai kelio Vytauto siekimams Lietuvoj, ypač buvo aišk
     kelio Vytauto siekimams Lietuvoj, ypač buvo aiškiai atkreipta
     prieš jo pretenzijas į Lucką^1 ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

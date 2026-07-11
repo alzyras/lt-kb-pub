@@ -30,14 +30,6 @@ Apskritimo ženklą, virš kurio styro kryžius, indai vadina Kuri; jis priklaus
 - t-001
   global_id: t-194785
   teiginys: "Apskritimo ženklą, virš kurio styro kryžius, indai vadina Kuri; jis priklauso^ prie dievo Višnaus paslapčių, išreiškia tei kiamą jam garbę '."
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "678878-679367; hash=3a3a1ff4dad157a2aa5b7cc1ebd38d53fe3088f6ba28ae8e2bb63c687b47a794; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-177181
 - susijęs iš Daugava: Į rytus nuo Dvinos prie venedų gyvenviečių šliejosi estų, gausios suomių padermės atšakos, gyvenvietės.
@@ -62,8 +54,8 @@ Apskritimo ženklą, virš kurio styro kryžius, indai vadina Kuri; jis priklaus
     kiamą jam garbę '.
     Straipsnyje apie kapus pateiksime dar šią žinią.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -74,7 +66,8 @@ Apskritimo ženklą, virš kurio styro kryžius, indai vadina Kuri; jis priklaus
 - id: c-177181
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 381"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 381."
   citata_originali: |
     Tad panašus rakto ženklas, iškaltas antkapiniame akme­
     nyje, bus simbolis tikimo gyvenimo amžinojoje palaimoje, su­

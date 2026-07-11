@@ -40,19 +40,6 @@ Lewickis, kuris ne tik išleido du tomus svarbių XV amž. šaltinių (CeXV), be
 - t-001
   global_id: t-30520
   teiginys: "A. Lewickis išleido du tomus svarbių XV a. šaltinių ir parašė šaltiniais paremtą monografiją apie Švitrigailą."
-  temporaliniai_duomenys: "įvykio data: 1947 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nusako Lewickio darbus ir yra paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "236219-236639; hash=f79899856cc90304d617f28665ee2bc3ecaf0d64ea22c1f9fa5d93c37918f65b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "A. Lewickis: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"A. Lewickis\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-32876
 - susijęs iš Cod. ep. saec. XV: „Codex epistolaris saeculi decimi quinti“ yra XV amžiaus laiškų rinkinys, kurio 1-3 tomus parengė J. Sokołowskis, J. Szujskis ir A. Lewickis.
@@ -71,8 +58,8 @@ Lewickis, kuris ne tik išleido du tomus svarbių XV amž. šaltinių (CeXV), be
     davė gana įžvalgią ir šaltiniais paremtą monografiją apie Švitri­
     gailą (LePS).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

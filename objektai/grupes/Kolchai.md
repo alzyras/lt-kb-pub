@@ -30,22 +30,6 @@ Narbutas kolchus priskiria tolimos senovės epochoms ir rašo, kad jie iš Azijo
 - t-001
   global_id: t-192953
   teiginys: "Narbutas kolchus priskiria tolimos senovės epochoms ir rašo, kad jie iš Azijos gilumos atsikėlė į kraštus į šiaurę nuo Kaspijos ir Juodosios jūrų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Kolchai gyveno Volga (0.72)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "69823-70298; hash=bd6a8684202a49b6af51c41cce00e6ef874bd7b6e38bb5647ac09225f8542ba3; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Volga: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kolchai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Volga: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Kolchų kolonijų arealas citatoje nusakytas per Volgą."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175723
 
@@ -53,21 +37,6 @@ Narbutas kolchus priskiria tolimos senovės epochoms ir rašo, kad jie iš Azijo
 - t-002
   global_id: t-192954
   teiginys: "Narbutas rašo, kad nuo neatmenamų laikų kolchai buvo laikomi labai turtingais ir išmanančiais gamtos dalykus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "71104-71757; hash=8da479fd51cd885626fa75a9c02d183fffa2ef2a9d546ed9c2ffcb91368766d9; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Graikai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kolchai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Graikai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kolchai\" parinktas kaip owner_note_path. Targetas \"Graikai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175724
 - susijęs iš [[objektai/asmenys/Karlas Riteris.md#claim-t-191250|Karlas Riteris]]: Narbutas rėmėsi Karlo Riterio veikalu aiškindamas, kad kolchai giminiavosi su indais ir davė pradžią budinų genčiai prie Dono.
@@ -97,8 +66,8 @@ Narbutas kolchus priskiria tolimos senovės epochoms ir rašo, kad jie iš Azijo
     mybės ribų pažymėti nėra galimybių. Tikėtina, kad jie
     galėjo turėti įtakos iki Uralo kalnų ir turtingų rūdynų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -122,8 +91,8 @@ Narbutas kolchus priskiria tolimos senovės epochoms ir rašo, kad jie iš Azijo
     vilizuotas ir turtingas kraštas, kokį tik galėjo pažinti
     graikai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -134,7 +103,8 @@ Narbutas kolchus priskiria tolimos senovės epochoms ir rašo, kad jie iš Azijo
 - id: c-175723
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 41"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 41."
   citata_originali: |
     Šioms tolimos senovės epo­
     choms priskirtina ir kolchų tauta, nors ji gerokai vėliau
@@ -155,7 +125,8 @@ Narbutas kolchus priskiria tolimos senovės epochoms ir rašo, kad jie iš Azijo
 - id: c-175724
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 42"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 42."
   citata_originali: |
     Nuo neatmenamų
     laikų kolchai buvo laikomi neapsakomai turtingais ir iš­
@@ -176,8 +147,3 @@ Narbutas kolchus priskiria tolimos senovės epochoms ir rašo, kad jie iš Azijo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192954
-
-## Ryšiai
-- Kolchai keliavo į [[objektai/vietos/Egiptas]]
-- Kolchai prekiavo su [[objektai/grupes/Egiptiečiai]]
-- Kolchai gyveno [[objektai/vietos/Donas]], [[objektai/vietos/Kaukazas]], [[objektai/vietos/Volga]]

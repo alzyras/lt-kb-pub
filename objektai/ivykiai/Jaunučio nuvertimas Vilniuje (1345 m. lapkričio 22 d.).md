@@ -57,20 +57,6 @@ Nenurodyta
 - t-001
   global_id: t-86910
   teiginys: "1345 m. lapkričio 22 d. Kęstutis su stipriu pulku užpuolė abi Vilniaus pilis ir apsupo Jaunučio buveinę."
-  semantiniai_rysiai: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.) puolė Vilniaus pilis (0.96)"
-  temporaliniai_duomenys: "įvykio data: 1345 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pagrindžia datą, veikėją ir puolimo veiksmą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "79336-80011; hash=04b10bf91a4670b3a6db3fa288d48b15ddf4a152d6ebea98d02a5d58bd55f462; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Vilniaus pilis: 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilniaus pilis: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai teigia, kad Kęstutis užpuolė abi Vilniaus pilis."
   pagrindžia:
     - c-82889
 ## Reikšmingi paminėjimai
@@ -92,8 +78,8 @@ Nenurodyta
     je, išties pirmi, įkūrus jame sostinę, Lietuvos ir Rusios val­
     dymą, kaip ir patį miestą, perleido į Algirdo rankas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

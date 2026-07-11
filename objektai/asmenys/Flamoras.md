@@ -30,22 +30,6 @@ Narbuto pasakojime Sturlaugas Darbštusis išleido Ingigerdą už Flamoro ir kai
 - t-001
   global_id: t-191396
   teiginys: "Narbuto pasakojime Sturlaugas Darbštusis išleido Ingigerdą už Flamoro ir kaip kraitį jam davė Aldejaborgą bei jo apylinkes."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Ingigerda buvo žmona Flamoras (0.90); Flamoras vedė Ingigerda (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "424374-424845; hash=307291336d1ce68370f4db13cbec47d1e387bb1cc92c1a19d5f60a0557f1eeca; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_zmona -> Flamoras: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Ingigerda: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Flamoras: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Ingigerda buvo išleista už Flamoro, todėl ji buvo jo žmona."
-  vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174278
 - susijęs iš [[objektai/asmenys/Ingigerda.md#claim-t-191419|Ingigerda]]: Pasakojime Sturlaugas Darbštusis Ingigerdą išleido už Flamoro ir kaip kraitį davė Aldejaborgą bei jo apylinkes.
@@ -78,8 +62,8 @@ Narbuto pasakojime Sturlaugas Darbštusis išleido Ingigerdą už Flamoro ir kai
     tas, net buvo įrodinėjama, jog tai turėjęs būti šiandienis
     Sliselburgas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -90,7 +74,8 @@ Narbuto pasakojime Sturlaugas Darbštusis išleido Ingigerdą už Flamoro ir kai
 - id: c-174278
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 240"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 240."
   citata_originali: |
     Goterio sū­
     nus ir jo įpėdiniai ilgai užtrukusius karus su rusais nu­

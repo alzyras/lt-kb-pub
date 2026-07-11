@@ -44,16 +44,6 @@ Vytautas naikino atskiras kunigaikštijas, siekdamas sustiprinti krašto savaran
 - t-005
   global_id: t-36801
   teiginys: "Vytautas naikino atskiras kunigaikštijas, siekdamas sustiprinti krašto savarankiškumą viduje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "400098-400414; hash=6cd855741e71c0461173855941fb4a9f3372461cb7123c3a21d195d3ac018105; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "kunigaikštija: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"kunigaikštija\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-38747
 
@@ -61,16 +51,6 @@ Vytautas naikino atskiras kunigaikštijas, siekdamas sustiprinti krašto savaran
 - t-003
   global_id: t-36802
   teiginys: "Vytautas naikino atskiras kunigaikštijas, siekdamas sustiprinti krašto savarankiškumą viduje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "399966-400304; hash=a689faf1181edec7f9c726c8609c34bcff9341cedc4882508f784b55adbabecc; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "kunigaikštija: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"kunigaikštija\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-38744
     - c-38745
@@ -79,20 +59,6 @@ Vytautas naikino atskiras kunigaikštijas, siekdamas sustiprinti krašto savaran
 - t-004
   global_id: t-36803
   teiginys: "Vyguntas, būdamas Vladislovo iš Opolės žentas, gavo Dobrynės žemes iki gyvos galvos, nes pati Kernavės kunigaikštija buvo maža."
-  semantiniai_rysiai: "Jogaila (kunigaikštis, XIV–XV a.) valdė miestą Vilnius (0.90)"
-  temporaliniai_duomenys: "įvykio data: 1391 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "387033-387446; hash=bead4ed4003d0da07dc010c26996a8514238a0303c4423169952bb6620a14841; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  ryšio_patikimumas: "valde_miesta -> Vilnius: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citatoje tiesiogiai sakoma, kad Vilnių valdys pats Jogaila."
   pagrindžia:
     - c-38746
 - susijęs iš [[objektai/autoriai/Alfredas Bumblauskas.md#claim-t-169885|Alfredas Bumblauskas]]: A. Bumblausko veikalai „Lietuvos Didžioji Kunigaikštija ir jos tradicija“ ir „Senosios Lietuvos istorija: 1009–1795“ nurodyti iliustracijų šaltiniuose.
@@ -151,8 +117,8 @@ Vytautas naikino atskiras kunigaikštijas, siekdamas sustiprinti krašto savaran
     nom, jis jau naikino ir atskiras kunigaikštijas, kad sustiprintų
     krašto viduje savarankiškumą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -168,8 +134,8 @@ Vytautas naikino atskiras kunigaikštijas, siekdamas sustiprinti krašto savaran
     torijos faktams besivystant, turėjo iškilti ir jos valstybiškumo at­
     naujinimas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -187,8 +153,8 @@ Vytautas naikino atskiras kunigaikštijas, siekdamas sustiprinti krašto savaran
     broliui, ir kad Vilnių ir kitus miestus valdys tiesiog pats Jogaila
     ir jo palikuonys.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -204,8 +170,8 @@ Vytautas naikino atskiras kunigaikštijas, siekdamas sustiprinti krašto savaran
     rytuose, nes naminio karo metu Rusijos kraštai buvo patekę
     Maskvos įtakon.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

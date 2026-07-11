@@ -52,20 +52,6 @@ Nenurodyta
 - t-001
   global_id: t-186845
   teiginys: "Vytautas savo žentui Vasilijui Dimitrijevičiui dovanojo žirgų su aukso balnais tarp kitų brangių dovanų."
-  teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į Lietuva (0.78)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "171403-172286; hash=3ea1d27f2d48ea66fedbaae4d4891cb2d7c3b521fc950f9c215a46666b1dcb62; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
-  ryšio_patikimumas: "keliavo_i -> Lietuva: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citatoje tiesiogiai pasakyta, kad Vytautas pats išvyko į Lietuvą."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-170028
 
@@ -73,12 +59,6 @@ Nenurodyta
 - t-002
   global_id: t-193867
   teiginys: "O didysis kunigaikštis Vytautas taip pat pagerbė savo žentą, didįjį kunigaikš tį, ir dovanojo jam įvairių dovanų: perlais siuvinėtų drabužių, brangių aksomų, vertingiausių brangakmenių, žirgų su aukso balnais ir daug kitų nuostabių daiktų ir, išlydėjęs jį su."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "171655-172662; hash=31c4114cdc26b0d9285ab101bd011eb4bb0ee77cf523fa21928d41f6d3cc2367; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176497
 ## Reikšmingi paminėjimai
@@ -105,8 +85,8 @@ Nenurodyta
     išlydėjęs jį su didele pagarba į Maskvą, pats išvyko
     j Lietuvą l6 .
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -136,8 +116,8 @@ Nenurodyta
     ne, ir lietuviai, ir lenkai, ir vokiečiai, žemaičiai, totoriai,
     moldavai ir penkiasdešimt rusų kunigaikščių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

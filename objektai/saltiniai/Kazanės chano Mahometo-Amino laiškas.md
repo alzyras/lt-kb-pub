@@ -39,16 +39,6 @@ Mengli-Girėjus, gavęs žinią apie totoriams fatališkai pasibaigusį mūšį,
 - t-002
   global_id: t-08862
   teiginys: "Kazanės chanas Mahometas-Aminas laiške siūlė Lietuvai sąjungą prieš Maskvą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "322159-322518; hash=e2571f3f3ce83a05ba647e15102f4b52ac7ce062a5793e9a444a69276413ad38; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
-  ryšio_patikimumas: "susije_su -> Kazanė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kazanės chano Mahometo-Amino laiškas: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Kazanė: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kazanės chano Mahometo-Amino laiškas\" parinktas kaip owner_note_path. Targetas \"Kazanė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-11161
 ## Reikšmingi paminėjimai
@@ -68,8 +58,8 @@ Mengli-Girėjus, gavęs žinią apie totoriams fatališkai pasibaigusį mūšį,
 
     jungą prieš Maskvą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

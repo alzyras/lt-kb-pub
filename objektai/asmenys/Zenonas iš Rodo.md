@@ -30,24 +30,6 @@ Narbutas Zenoną vaizduoja kaip klastingą valdovą, kuris 479 m. kurstė Teodor
 - t-001
   global_id: t-191335
   teiginys: "Narbutas Zenoną vaizduoja kaip klastingą valdovą, kuris 479 m. kurstė Teodoriką prieš Odoakrą, bet Teodorikas nesileido sukurstomas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 479 m"
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Moralinis vertinimas „klastingas“ ir motyvo aiškinimas palikti su Narbuto atribucija. Nepridėta platesnių samprotavimų apie Romą ir Italiją."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "573296-573978; hash=f7da7bbe6e598f165e03f5f769960113b49fbb2044a06790bd87e9f621a404ed; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Odoakras: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Zenonas iš Rodo: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Odoakras: mention_match, person, gap=77"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Zenonas iš Rodo\" parinktas kaip owner_note_path. Targetas \"Odoakras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174217
 ## Reikšmingi paminėjimai
@@ -70,8 +52,8 @@ Narbutas Zenoną vaizduoja kaip klastingą valdovą, kuris 479 m. kurstė Teodor
     Nepo mirties nenorėjo laikyti Italijoje jo įtakingo vieti­
     ninko; tačiau tuomet Teodorikas nesileido sukurstomas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -82,7 +64,8 @@ Narbutas Zenoną vaizduoja kaip klastingą valdovą, kuris 479 m. kurstė Teodor
 - id: c-174217
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 320"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 320."
   citata_originali: |
     325
     Rytų imperatorius, silpstant jo galiai, blaškėsi pavy­

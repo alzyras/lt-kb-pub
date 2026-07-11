@@ -40,20 +40,6 @@ Livonijos ir Prūsų kryžiuočiai Pabaltijo žemių okupacijos eigoje pirmą ka
 - t-001
   global_id: t-32189
   teiginys: "1259 m. Livonijos ir Prūsų kryžiuočiai prie Mituvos ir Imsrės žiočių į Nemuną statė bendrą Georgenburgo (Jurbarko) pilį."
-  semantiniai_rysiai: "Kryžiuočių ordinas pastatė Georgenburgas (0.89)"
-  temporaliniai_duomenys: "įvykio data: 1259 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiksliai remiasi citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "512572-512991; hash=18040c02f4fc89266f23ea4665e4f633878b59e220329856bf2ad0289761b7fd; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "pastate -> Georgenburgas: 0.89"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Georgenburgas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Livonijos ir Prūsų kryžiuočiai tiesiogiai įvardyti kaip Georgenburgo pilies statytojai."
   pagrindžia:
     - c-33859
 - susijęs iš Karšuvos sritis: 1259 m. Karšuvos srityje prie Mituvos ir Imsrės žiočių Livonijos ir Prūsų kryžiuočiai statė bendrą Georgenburgo pilį.
@@ -75,8 +61,8 @@ Livonijos ir Prūsų kryžiuočiai Pabaltijo žemių okupacijos eigoje pirmą ka
     viena prie kitos, abi ordino šakos sudėjo lėšas ir drauge atliko Geor­
     genburgo statymo darbus^150.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

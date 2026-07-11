@@ -32,16 +32,6 @@ Antroje eilėje (stovi) iš kairės: ketvirtas - Vakarų Lietuvos srities štabo
 - t-001
   global_id: t-40000
   teiginys: "Aleksandras Grybinas-Faustas buvo Tauro apygardos vadas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "953072-953924; hash=b1756424507baa7575755c7dcb9d90ccf368d35ffa2dd7d417571c911ba01b4f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Antanas Liesys-Idenas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aleksandras Grybinas-Faustas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Antanas Liesys-Idenas: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksandras Grybinas-Faustas\" parinktas kaip owner_note_path. Targetas \"Antanas Liesys-Idenas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-44265
 - susijęs iš [[objektai/grupes/Tauro apygarda.md#claim-t-49112|Tauro apygarda]]: Aleksandras Grybinas-Faustas buvo Tauro apygardos vadas.
@@ -77,8 +67,8 @@ Antroje eilėje (stovi) iš kairės: ketvirtas - Vakarų Lietuvos srities štabo
     nes, todėl jie kitą, gruodžio 16 d. puolė
     Perlojos stribų įgulą ir ją sunaikino.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

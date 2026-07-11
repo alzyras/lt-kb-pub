@@ -44,21 +44,6 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
 - t-003
   global_id: t-78534
   teiginys: "Valkininkų nutarimu buvo įkurta LDK bajorijos generalinė konfederacija, suformuoti ypatingieji LDK valdžios organai ir nuspręsta konfiskuoti Sapiegų dvarus."
-  temporaliniai_duomenys: "įvykio data: 1700 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Reikia patikslinti, kad citata teigia apie sprendimą konfiskuoti dvarus, o ne jau įvykdytą konfiskavimą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "770838-771183; hash=c1765404de0546b8f12bb435ec2c9020d5e969fc68fcd73ae3df65338e0238d1; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Valkininkai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Valkininkų konfederacija: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Valkininkai: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Valkininkų konfederacija\" parinktas kaip owner_note_path. Targetas \"Valkininkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-42969
 
@@ -66,19 +51,6 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
 - t-004
   global_id: t-78532
   teiginys: "Valkininkų konfederacijos raštas buvo datuotas 1700 m. lapkričio 24 d. Valkininkuose, nors iš tikro surašytas vėliau."
-  temporaliniai_duomenys: "įvykio data: 1700 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Patikslintas objektas ir suformuotas savarankiškas sakinys."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "770838-771183; hash=c1765404de0546b8f12bb435ec2c9020d5e969fc68fcd73ae3df65338e0238d1; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Valkininkai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Valkininkų konfederacija: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Valkininkai: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Valkininkų konfederacija\" parinktas kaip owner_note_path. Targetas \"Valkininkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-75802
 
@@ -86,19 +58,6 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
 - t-004
   global_id: t-78533
   teiginys: "Vykdant Valkininkų nutarimą, Šnipiškių stovykloje buvo iš esmės suformuota nauja 7500 etatinių vienetų LDK kariuomenė."
-  temporaliniai_duomenys: "įvykio data: po 1700 m.; įvykio data: 1700 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, užbaigtas ir tiksliai perteikia citatos faktą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "568904-569367; hash=adc5401bc91cb44c9484117f0c7e583b8370a7f11e78096512616c8c964cdd3c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuvos kariuomenė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Valkininkų konfederacija: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuvos kariuomenė: mention_match, group, gap=99"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Valkininkų konfederacija\" parinktas kaip owner_note_path. Targetas \"Lietuvos kariuomenė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-42970
 
@@ -106,21 +65,6 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
 - t-003
   global_id: t-78534
   teiginys: "Valkininkų nutarimu buvo įkurta LDK bajorijos generalinė konfederacija, suformuoti ypatingieji LDK valdžios organai ir nuspręsta konfiskuoti Sapiegų dvarus."
-  temporaliniai_duomenys: "įvykio data: 1700 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Reikia patikslinti, kad citata teigia apie sprendimą konfiskuoti dvarus, o ne jau įvykdytą konfiskavimą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "770838-771183; hash=c1765404de0546b8f12bb435ec2c9020d5e969fc68fcd73ae3df65338e0238d1; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Valkininkai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Valkininkų konfederacija: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Valkininkai: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Valkininkų konfederacija\" parinktas kaip owner_note_path. Targetas \"Valkininkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-42969
 
@@ -128,12 +72,6 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
 - t-006
   global_id: t-193133
   teiginys: "Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunaikinti Sapiegos."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "764674-765064; hash=e536e5d933ba91c29eba4a81df8ee307dbbc0082bee31ed9f13410f0d00a7ef8; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-175891
 ## Reikšmingi paminėjimai
@@ -157,8 +95,8 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
     esmės suformuota nauja LDK kariuomenė -
     7500 etatinių vienetų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -185,8 +123,8 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
 
     1700 m. lapkričio 18 d. VALKININKŲ MUSIS 139
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -202,8 +140,8 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
     kai buvo padarytas nutarimas, skelbiąs Sapiegas išdavikais; bet iš
     tikro jis buvo surašytas vėliau, ir parašai surinkti atskirai. 1701—2 m.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -221,8 +159,8 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
     Sapiegos. Konfederacijos maršalka buvo išrinktas Katilas, o
     regimentorium (karo vadu) — Mykolas Višniaveckis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

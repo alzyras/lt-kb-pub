@@ -39,9 +39,6 @@ KELI MOKSLEIVIU VERTIMAI. „Šie moksleivau vertimai (rašo pats Rygiškiu Jona
 - t-001
   global_id: t-36058
   teiginys: "„Keli moksleivių vertimai“ buvo Rygiškių Jono redaguotas mokyklinis rašto darbų rinkinėlis įvairiomis temomis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "735352-735526; hash=e76a3263b77c950264ecbcc8863d0aa3fcbec8a3a238521542d69b3e469b7ca2; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-38414
 ## Reikšmingi paminėjimai
@@ -55,8 +52,8 @@ KELI MOKSLEIVIU VERTIMAI. „Šie moksleivau vertimai (rašo pats Rygiškiu Jona
     „Šie moksleivau vertimai (rašo pats Rygiškiu Jonas) yra su­
     daryti iš Aleks.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

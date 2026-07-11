@@ -32,9 +32,6 @@ Item Decima in Wieprze om­ nis Grani praeter Avenam et Strenam, Sive Columbatio
 - t-001
   global_id: t-86587
   teiginys: "Bažnyčia galėjo būti nukelta arba tapti Pabaisko bažnyčiai priklausančia filija."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "495340-495946; hash=5d6bd39275fa13b76f76b7ad5ae3db252503ff6371635fc6ca16033eea54136f; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-82566
 - susijęs iš [[objektai/ivykiai/Aleksandro įsakymu pastatyta filija pagoniškos šventyklos vietoje.md#claim-t-189617|Aleksandro įsakymu pastatyta filija pagoniškos šventyklos vietoje]]: Narbutas rašo, kad karaliaus Aleksandro įsakymu prie Kražių, Medžiokalnyje, pagoniškos šventyklos vietoje buvo pastatyta filija.
@@ -65,8 +62,8 @@ Item Decima in Wieprze om­ nis Grani praeter Avenam et Strenam, Sive Columbatio
     sančias Pabaisko bažnyčiai, tik jose nebus draudžiama pils­
     tyti midų, alų, degtinę ir įvairiausių rūšių gėrimus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

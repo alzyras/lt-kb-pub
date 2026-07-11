@@ -63,17 +63,6 @@ Nenurodyta
 - t-001
   global_id: t-87057
   teiginys: "Otono Didžiojo laikais daugelis Italijos miestų apsitvėrė mūro sienomis, saugodamiesi vengrų ir saracėnų antpuolių."
-  semantiniai_rysiai: "Vengrai puolė Italija (0.84); Saracėnai puolė Italija (0.84)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "31142-31804; hash=b9608d251dcd59e9376b733f1bd6710ef5f6a02544a89170317c21ff4e658aa3; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Italija: 0.84"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Saracėnai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Italija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys nurodo saracėnų antpuolius, nuo kurių saugojosi Italijos miestai."
   pagrindžia:
     - c-83037
 
@@ -81,16 +70,6 @@ Nenurodyta
 - t-002
   global_id: t-87058
   teiginys: "Krokuva už geriausiai sutvirtintas mūro sienas ir svarbias privilegijas buvo skolinga Lešekui Juodajam."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "39486-40026; hash=ba39cc90cfd2def8d10a33dfd8f7050c5876c69e881b092a359a3ddff2bdfed1; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Krokuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mūro sienos: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Krokuva: mention_match, place, gap=35"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mūro sienos\" parinktas kaip owner_note_path. Targetas \"Krokuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-83038
 
@@ -98,16 +77,6 @@ Nenurodyta
 - t-003
   global_id: t-87059
   teiginys: "Gedimino laikų Vilnius dar nebuvo bokštų ir mūro sienų saugomas miestas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "73578-74111; hash=ab191f2ba152584fe68df1083aacdea839058b98dbf5e6467d3576233785a3ad; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Bokštai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mūro sienos: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Bokštai: mention_match, place, gap=10"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mūro sienos\" parinktas kaip owner_note_path. Targetas \"Bokštai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-83036
 ## Reikšmingi paminėjimai
@@ -127,8 +96,8 @@ Nenurodyta
     kokia Lenkijai buvo Boleslovo Didžiojo, o Henriko Paukšti-
     ninko - Vokietijai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -150,8 +119,8 @@ Nenurodyta
     arba iš saracėnų išvaduotus miestus kvietė krikščionis, kad juo­
     se įsikūrę ateityje laiduotų šaliai saugumą nuo kitatikių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -176,8 +145,8 @@ Nenurodyta
     čių antplūdį ir geriausiai sutvirtintas mūro sienas - Lešekui Juo­
     dajam.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

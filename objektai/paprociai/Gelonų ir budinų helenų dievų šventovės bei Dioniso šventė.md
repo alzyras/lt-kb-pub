@@ -45,21 +45,6 @@ Nenurodyta
 - t-001
   global_id: t-193028
   teiginys: "Narbutas, remdamasis Herodotu, rašo, kad budinų tvirtovėse stovėjo medinės helenų dievų šventyklos, altoriai ir koplytėlės."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "133758-134223; hash=65125f45995186e1acac237e9d6b03138448b2c29eb0a7d17292a5289f0c8916; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Budinai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gelonų ir budinų helenų dievų šventovės bei Dioniso šventė: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Budinai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gelonų ir budinų helenų dievų šventovės bei Dioniso šventė\" parinktas kaip owner_note_path. Targetas \"Budinai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175798
 
@@ -67,21 +52,6 @@ Nenurodyta
 - t-002
   global_id: t-193029
   teiginys: "Narbutas cituoja, kad gelonai turėjo medinių helenų dievų šventyklų, altorių ir koplytėlių ir kas trejus metus šventė Dioniso šventę."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "713345-713785; hash=cfad78da6065f5292a4373c3d4adfa8fea44c3905237780c396bc0a8cf336638; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Altorius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gelonų ir budinų helenų dievų šventovės bei Dioniso šventė: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Altorius: mention_match, thing, gap=24"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gelonų ir budinų helenų dievų šventovės bei Dioniso šventė\" parinktas kaip owner_note_path. Targetas \"Altorius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175799
 ## Reikšmingi paminėjimai
@@ -101,8 +71,8 @@ Nenurodyta
     davo minimos Dioniso (Bacho) šventės ir vykdavo bak­
     chanalijos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -127,8 +97,8 @@ Nenurodyta
     tarp budinu; jų kalba iš dalies panaši į skitų ir helenų
     kalbą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -139,7 +109,8 @@ Nenurodyta
 - id: c-175798
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 75"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 75."
   citata_originali: |
     60
     Iš Herodoto žinome, kad budinai savo žemėje turėjo
@@ -161,7 +132,8 @@ Nenurodyta
 - id: c-175799
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 391"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 391."
   citata_originali: |
     Ten yra helenų dievų bažnyčių, hele-
     nų papročiu tapytų dievų paveikslų (’EXXrpnxwg aexaxeua-

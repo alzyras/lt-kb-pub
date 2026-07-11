@@ -51,21 +51,6 @@ Nenurodyta
 - t-001
   global_id: t-189658
   teiginys: "Narbutas rašo, kad padavimai lietuvių pilyse mini varpus kariams prikelti, sargybiniams perspėti ir pavojui paskelbti."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "279158-279610; hash=9b1b476917cef5d9fa8bddd62d1f0eea6c64545c788f31691ac4149f17f72c1c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Varpai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvių pilių varpai žadintojai ir gumbai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Varpai: mention_match, thing, gap=21"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvių pilių varpai žadintojai ir gumbai\" parinktas kaip owner_note_path. Targetas \"Varpai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172541
 
@@ -73,14 +58,6 @@ Nenurodyta
 - t-002
   global_id: t-194615
   teiginys: "Senovės egiptiečiai, persai, graikai, romėnai turėjo varpų, skirtų tam tikroms religinėms apeigoms."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "280266-280726; hash=eaa123e5b40752f5d0252787681516d022cf9b7a7e9cef84e40d21ddd919d222; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-177014
 ## Reikšmingi paminėjimai
@@ -98,8 +75,8 @@ Nenurodyta
     l ‘A colio storio, svėrė kelias dešimtis svarų; matyti, kad pri­
     klausė didžiuliam varpui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -122,8 +99,8 @@ Nenurodyta
     džiams. Kinai, taip pat japonai turėjo milžiniškų varpų, vadin­
     tų gongais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -134,7 +111,8 @@ Nenurodyta
 - id: c-172541
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 161"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 161."
   citata_originali: |
     Padavimai išsaugojo paprastų žmonių atminimą, kad lie­
     tuvių garduose, arba pilyse, vadintose Tweras, būta varpų ka­

@@ -43,22 +43,6 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
 - t-009
   global_id: t-10099
   teiginys: "Stepono Batoro paradinis kalavijas buvo pagamintas pergalingoms lietuvių ir jų sąjungininkų kampanijoms Maskvos žemėse Livonijos karo metu atminti."
-  semantiniai_rysiai: "Stepono Batoro paradinis kalavijas priklausė Steponas Batoras (0.82)"
-  temporaliniai_duomenys: "įvykio data: 1569 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata leidžia patikslinti, kad kalavijas skirtas pergalingoms kampanijoms atminti."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "hash=70e95b489b598b121843ad76c1ce36f51013fb6fd996b6b5ada1b983adf0bc52; match=normalized; occurrences=1"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Steponas Batoras: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Stepono Batoro paradinis kalavijas: llm_allowed_candidate, thing"
-  ryšio_targeto_parinkimas: "Steponas Batoras: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Pavadinimas tiesiogiai nurodo, kad kalavijas siejamas kaip Stepono Batoro kalavijas."
-  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-105162
 
@@ -66,19 +50,6 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
 - t-033
   global_id: t-113965
   teiginys: "Steponas Batoras 1586 m. liepos 11 d. įsakė Vilniaus gyventojams įprastas šventes švęsti pagal naują kalendorių."
-  temporaliniai_duomenys: "įvykio data: 1586 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata aiškiai nurodo sprendimo datą ir turinį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "593830-595114; hash=202ae68c5a74c5c3a8c2fa1642a4b4adfbec4a9ee9230d1b6cc47d58c184d76e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilniaus pirkliai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Steponas Batoras: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Vilniaus pirkliai: mention_match, group, gap=44"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Steponas Batoras\" parinktas kaip owner_note_path. Targetas \"Vilniaus pirkliai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-105168
 
@@ -86,17 +57,6 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
 - t-019
   global_id: t-113967
   teiginys: "Stepono Batoro laikais Vilnius tapo pagrindine kariuomenių susibūrimo vieta, o pats karalius čia dažnai būdavo."
-  semantiniai_rysiai: "Steponas Batoras siuntė į Rusija (0.90); Steponas Batoras siuntė į Švedija (0.88)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "586400-587138; hash=68e7d6db43ee25453e27f00ca009befd2fc6c31e2a0b8b0b11271634eeffe5ca; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "siunte_i -> Rusija: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Steponas Batoras: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Rusija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citatoje tiesiogiai nurodyta, kad Batoras iš Vilniaus išsiuntė pasiuntinybę į Rusiją."
   pagrindžia:
     - c-105149
 
@@ -104,19 +64,6 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
 - t-030
   global_id: t-113968
   teiginys: "Steponas Batoras plačiai naudojo Vilniaus patrankų liejykloje pagamintus pabūklus karuose su Maskva."
-  temporaliniai_duomenys: "įvykio data: 1581 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sutvarkytas fragmentiškas sakinys ir pašalintas puslapio antraštės triukšmas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "392501-392808; hash=96b461998e27e563206fa82d0a648aa3a573e7deeddf3252ba57e1582fb853f4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Maskva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Steponas Batoras: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Maskva: mention_match, place, gap=93"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Steponas Batoras\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-42244
 
@@ -124,20 +71,6 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
 - t-037
   global_id: t-113969
   teiginys: "1581 m. vasario 13 d. Varšuvos seime Steponas Batoras tituluotas Lenkijos karaliumi ir Lietuvos didžiuoju kunigaikščiu."
-  semantiniai_rysiai: "Steponas Batoras buvo valdovas Lenkija (0.96); Steponas Batoras rėmė Gabrielius Bekešas (0.74)"
-  temporaliniai_duomenys: "įvykio data: 1581 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata remia titulavimą ir datą, o pradinis teiginys yra dokumento fragmentas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "794685-795604; hash=bc4918eeab85a4ba83a22fb171dd38c8a6e7e4fcb2b857881467eba130c64e24; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_valdovas -> Lenkija: 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Steponas Batoras: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Titulas tiesiogiai nurodo, kad Steponas buvo Lenkijos karalius."
   pagrindžia:
     - c-105141
 
@@ -145,19 +78,6 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
 - t-040
   global_id: t-113970
   teiginys: "Steponas Batoras 1584 m. Gardine atleido Steponą Genserį nuo Vilniaus miesto jurisdikcijos ir cechų valdžios."
-  temporaliniai_duomenys: "įvykio data: 1584 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata remia sprendimą, jo vietą, metus ir poveikį Genseriui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "824060-825063; hash=c36fe0acf9a93ed30d87976be90535e8258a47ed48e6ae2f28a517ad96b3a426; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gardinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Steponas Batoras: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Gardinas: mention_match, place, gap=25"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Steponas Batoras\" parinktas kaip owner_note_path. Targetas \"Gardinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-105148
 
@@ -165,18 +85,6 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
 - t-015
   global_id: t-113971
   teiginys: "Michałas Balińskis Vilniaus miesto istorinę apžvalgą užbaigė Stepono Batoro valdymo metais, 1586 m."
-  temporaliniai_duomenys: "įvykio data: 1430 m.; įvykio data: 1586 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "11430-12102; hash=c1616ddc967bafda50e1a68aaf3efc17d7a0e324f7b5257a0d540713b019446c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aleksandras Balinskis: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Steponas Batoras: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Aleksandras Balinskis: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Steponas Batoras\" parinktas kaip owner_note_path. Targetas \"Aleksandras Balinskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-105160
 
@@ -184,17 +92,6 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
 - t-017
   global_id: t-113972
   teiginys: "Steponas Batoras patvirtino Vilniui suteiktas privilegijas ir prižiūrėjo, kaip vykdomi jo sprendimai."
-  semantiniai_rysiai: "Steponas Batoras valdė miestą Vilnius (0.68)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "576655-577088; hash=12b290f2ddd0247a8afbd00427df55b438063afb7717b5a34b38ee83bee7549e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde_miesta -> Vilnius: 0.68"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Steponas Batoras: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Kalbama apie Batoro valdymą Vilniaus miesto kontekste ir miesto privilegijų priežiūrą."
   pagrindžia:
     - c-105161
 
@@ -202,19 +99,6 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
 - t-013
   global_id: t-113973
   teiginys: "Steponas Batoras Livonijos karo metu rūpinosi Vilniaus universiteto kūrimu."
-  temporaliniai_duomenys: "įvykio data: 1514 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys ir atitinka citatos turinį."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "145415-145905; hash=4771e7a9f1b6ddacefe1177e9dcf378ad1bfbbf32c5eb97c1462a53a2745eb03; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Livonija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Steponas Batoras: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Livonija: mention_match, place, gap=17"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Steponas Batoras\" parinktas kaip owner_note_path. Targetas \"Livonija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-105157
 
@@ -222,22 +106,6 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
 - t-009
   global_id: t-10099
   teiginys: "Stepono Batoro paradinis kalavijas buvo pagamintas pergalingoms lietuvių ir jų sąjungininkų kampanijoms Maskvos žemėse Livonijos karo metu atminti."
-  semantiniai_rysiai: "Stepono Batoro paradinis kalavijas priklausė Steponas Batoras (0.82)"
-  temporaliniai_duomenys: "įvykio data: 1569 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata leidžia patikslinti, kad kalavijas skirtas pergalingoms kampanijoms atminti."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "hash=70e95b489b598b121843ad76c1ce36f51013fb6fd996b6b5ada1b983adf0bc52; match=normalized; occurrences=1"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Steponas Batoras: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Stepono Batoro paradinis kalavijas: llm_allowed_candidate, thing"
-  ryšio_targeto_parinkimas: "Steponas Batoras: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Pavadinimas tiesiogiai nurodo, kad kalavijas siejamas kaip Stepono Batoro kalavijas."
-  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-105162
 
@@ -245,18 +113,6 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
 - t-025
   global_id: t-113975
   teiginys: "1576 m. rugsėjo 23 d. laiške Steponas Batoras pareiškė, kad muito nenustatys be Senato tarybos sutikimo."
-  temporaliniai_duomenys: "įvykio data: 1576 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "640614-641624; hash=cfe414358cf2e7c65937bbed0cab5567ff2fff80db84474c40e665c80ac9d476; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Abiejų Tautų Respublika: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Steponas Batoras: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Abiejų Tautų Respublika: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Steponas Batoras\" parinktas kaip owner_note_path. Targetas \"Abiejų Tautų Respublika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-105143
 
@@ -264,17 +120,6 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
 - t-024
   global_id: t-113976
   teiginys: "Vilniaus miestiečių luomas Steponą Batorą laikė stipriu globėju, kokiu vėliau netapo nė vienas karalius."
-  semantiniai_rysiai: "Steponas Batoras rėmė Vilniaus miestiečių luomas (0.87)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "601462-602182; hash=5b339c0bb586667b3e81f35ab7c6f921263bf3e104d25bfa576d30ec0508d857; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "reme -> Vilniaus miestiečių luomas: 0.87"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Steponas Batoras: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilniaus miestiečių luomas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Vilniaus miestiečių luomas tiesiogiai apibūdintas kaip stipriai palaikomas karaliaus Stepono."
   pagrindžia:
     - c-105159
 
@@ -282,19 +127,6 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
 - t-031
   global_id: t-113977
   teiginys: "M. Balinskis Vilniaus miesto istorinę apžvalgą užbaigė Stepono Batoro valdymo metais, 1586 m."
-  temporaliniai_duomenys: "įvykio data: 1586 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys pagrįstai priskiria M. Balinskiui istorinės apžvalgos užbaigimą Stepono Batoro valdymo metais."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "11214-12032; hash=14461d8f7eccff0427644bec369fdd97b4ccb3898d7ca8450043293aa170ee1e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aleksandras Balinskis: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Steponas Batoras: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Aleksandras Balinskis: mention_match, person, gap=52"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Steponas Batoras\" parinktas kaip owner_note_path. Targetas \"Aleksandras Balinskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-105150
 
@@ -302,16 +134,6 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
 - t-034
   global_id: t-113978
   teiginys: "Steponas Batoras stipriai palaikė miestiečių luomą ir buvo laikomas globėju, kokiu netapo vėlesni karaliai."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "601462-602182; hash=5b339c0bb586667b3e81f35ab7c6f921263bf3e104d25bfa576d30ec0508d857; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jogailaičiai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Steponas Batoras: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Jogailaičiai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Steponas Batoras\" parinktas kaip owner_note_path. Targetas \"Jogailaičiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-105159
 
@@ -319,19 +141,6 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
 - t-035
   global_id: t-113979
   teiginys: "Steponas Batoras 1576 m. rugsėjo 23 d. pareiškė, kad muitų nenustatys be Senato tarybos sutikimo."
-  temporaliniai_duomenys: "įvykio data: 1576 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata remia konkretų Batoro laiško teiginį apie muitų nustatymą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "640614-641624; hash=cfe414358cf2e7c65937bbed0cab5567ff2fff80db84474c40e665c80ac9d476; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Abiejų Tautų Respublika: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Steponas Batoras: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Abiejų Tautų Respublika: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Steponas Batoras\" parinktas kaip owner_note_path. Targetas \"Abiejų Tautų Respublika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-105143
 
@@ -339,16 +148,6 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
 - t-039
   global_id: t-113980
   teiginys: "Vilniaus seminarijos steigėjai prašė karaliaus Stepono Batoro priimti seminariją į savo globą ir gynybą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "812480-813312; hash=ff950327f41b13fda32c5121025a3daf82d731ac8a101ba333ec9dfee07f5470; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilniaus vyskupijos klierikų kolegija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Steponas Batoras: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Vilniaus vyskupijos klierikų kolegija: mention_match, group, gap=47"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Steponas Batoras\" parinktas kaip owner_note_path. Targetas \"Vilniaus vyskupijos klierikų kolegija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-105151
 
@@ -356,18 +155,6 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
 - t-021
   global_id: t-113981
   teiginys: "1586 m. liepos 11 d. Steponas Batoras paskelbė sprendimą dėl kai kurių Vilniaus pirklių ir Vilniaus vaito ginčo."
-  temporaliniai_duomenys: "įvykio data: 1586 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "593830-595114; hash=202ae68c5a74c5c3a8c2fa1642a4b4adfbec4a9ee9230d1b6cc47d58c184d76e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilniaus pirkliai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Steponas Batoras: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Vilniaus pirkliai: mention_match, group, gap=50"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Steponas Batoras\" parinktas kaip owner_note_path. Targetas \"Vilniaus pirkliai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-105168
 
@@ -375,19 +162,6 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
 - t-036
   global_id: t-113982
   teiginys: "Steponas Batoras mirė 1586 m. gruodžio 12 d., penktąją jį paguldžiusios ligos dieną."
-  temporaliniai_duomenys: "įvykio data: 1586 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata iš 1586 m. gruodžio 13 d. laiško leidžia nustatyti mirties datą ir aplinkybę."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "684204-685089; hash=0886a4502aea7885970211c27bb8c12fdf57b9f6cc8a5401a9602a7a5efb33dd; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Abiejų Tautų Respublika: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Steponas Batoras: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Abiejų Tautų Respublika: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Steponas Batoras\" parinktas kaip owner_note_path. Targetas \"Abiejų Tautų Respublika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-105156
 
@@ -395,19 +169,6 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
 - t-027
   global_id: t-113983
   teiginys: "1579 m. balandžio 1 d. Steponas Batoras parėmė vyskupo Valerijono Protasevičiaus sumanymą ir pastangas dėl Vilniaus universiteto."
-  temporaliniai_duomenys: "įvykio data: 1579 m.; įvykio data: 1850 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys glaustai perteikia citatos faktą apie valdovo paramą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "146833-147138; hash=d1041038ba25a777900f747babb26690971ee1d9561be9be2f8a3e28458aa443; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Valerijonas Protasevičius (vyskupas): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Steponas Batoras: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Valerijonas Protasevičius (vyskupas): mention_match, person, gap=32"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Steponas Batoras\" parinktas kaip owner_note_path. Targetas \"Valerijonas Protasevičius (vyskupas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-105166
 
@@ -415,16 +176,6 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
 - t-022
   global_id: t-113984
   teiginys: "Stepono Batoro laikais Vilniuje gerokai išaugo spaustuvių skaičius."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "595830-596402; hash=70f8d78d22d5fca7c47556f50f5302f5624848bad183fbfab1dd9b4d5f57c0e9; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Steponas Batoras: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=23"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Steponas Batoras\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-105154
 
@@ -432,16 +183,6 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
 - t-035
   global_id: t-113985
   teiginys: "Steponas Batoras buvo sudaręs 500 raitelių vėliavą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "654695-654985; hash=414d4e1ea9f5a8ee8dd77d8bc0a16bc89ace0d084bde863cdbb57fe53ecb45f2; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kazokai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Steponas Batoras: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kazokai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Steponas Batoras\" parinktas kaip owner_note_path. Targetas \"Kazokai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-22011
 
@@ -449,19 +190,6 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
 - t-011
   global_id: t-113987
   teiginys: "Steponas Batoras rūpinosi Žygimanto Augusto įsteigta Vilniaus patrankų liejykla ir naudojo jos pabūklus karuose su Maskva."
-  temporaliniai_duomenys: "įvykio data: 1581 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalintas puslapio antraštės triukšmas, nes 1581 m. citatoje nėra šio fakto dalis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "392501-392808; hash=96b461998e27e563206fa82d0a648aa3a573e7deeddf3252ba57e1582fb853f4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Maskva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Steponas Batoras: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Maskva: mention_match, place, gap=115"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Steponas Batoras\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-42244
 
@@ -469,19 +197,6 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
 - t-032
   global_id: t-113988
   teiginys: "1578 m. Steponas Batoras funduotoms Vilniaus mokykloms suteikė Akademijos vardą ir prilygino jas kitoms akademijoms."
-  temporaliniai_duomenys: "įvykio data: 1578 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata remia Akademijos vardo suteikimą, bet pradinis tekstas turi OCR klaidų."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "394831-395521; hash=39709801406326186a93e50720db31d8a23ac7400289b82f993ce82492ece8dd; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Steponas Batoras: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=28"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Steponas Batoras\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-105165
 
@@ -489,16 +204,6 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
 - t-042
   global_id: t-113989
   teiginys: "Steponas Batoras įsakė Vilniaus vaivadai Radvilai skatinti vilniečius mokėti nustatytus muitus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "642230-643802; hash=ef95ff981fcd0734c7943aebf44ccfad30210bff9b02cca08ccd8f3b833bd504; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "paskyre -> Radvila: 0.61"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Steponas Batoras: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Radvila: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Steponas Batoras tiesiogiai pavedė Radvilai veikti dėl muitų mokėjimo."
   pagrindžia:
     - c-105155
 
@@ -506,18 +211,6 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
 - t-036
   global_id: t-113990
   teiginys: "1576 m. Steponas Batoras buvo 43 metų amžiaus, silpnokos sveikatos, bet laikytas protingu ir energingu valdovu."
-  temporaliniai_duomenys: "įvykio data: 1569 m.; įvykio data: 1576 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "hash=70e95b489b598b121843ad76c1ce36f51013fb6fd996b6b5ada1b983adf0bc52; match=normalized; occurrences=1"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Steponas Batoras: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Steponas Batoras\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-22013
 
@@ -525,20 +218,6 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
 - t-023
   global_id: t-113991
   teiginys: "Steponas Batoras mirė Gardine 1586 m. gruodžio 12 d., o jo mirtis nuliūdino Vilnių ir visą šalį."
-  semantiniai_rysiai: "Steponas Batoras mirė Gardinas (0.96)"
-  temporaliniai_duomenys: "įvykio data: 1586 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalintas OCR triukšmas ir išlaikytas citatos remiamas faktas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "599134-599360; hash=1191da8c8733cb165bbd8d3e404a7994ff3fb1f71e47137b94ed3f6e07cee9e1; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "mire -> Gardinas: 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Steponas Batoras: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Gardinas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citatoje tiesiogiai nurodyta, kad Stepono Batoro mirtis įvyko Gardine."
   pagrindžia:
     - c-105167
 
@@ -546,18 +225,6 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
 - t-016
   global_id: t-113992
   teiginys: "1578 m. Steponas Batoras patvirtino funduotas mokyklas, suteikė joms Akademijos vardą ir prilygino kitoms akademijoms."
-  temporaliniai_duomenys: "įvykio data: 1578 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "394831-395521; hash=39709801406326186a93e50720db31d8a23ac7400289b82f993ce82492ece8dd; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Steponas Batoras: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Steponas Batoras\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-105165
 
@@ -565,19 +232,6 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
 - t-012
   global_id: t-113993
   teiginys: "Steponui Batorui tapus Lenkijos ir Lietuvos valdovu, Livonijos kare prieš Maskvą buvo pasiektos lemiamos pergalės."
-  temporaliniai_duomenys: "įvykio data: 1576-1586; įvykio data: 1586 m.; įvykio data: 1609-1611; įvykio data: 1611 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra enciklopedinis ir paremtas citatos informacija."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "126556-126981; hash=56e1125a9274e336b8ad0d9b990683a1f25144cd31f78fa3d11c3c82e4e87e91; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Steponas Batoras: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=23"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Steponas Batoras\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-105146
 
@@ -585,17 +239,6 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
 - t-018
   global_id: t-113994
   teiginys: "Steponas Batoras globojo Vilniaus pirklius, kurie buvo išplėtoję prekybą kailiais iki Gniezno ir kitų Didžiosios Lenkijos miestų."
-  semantiniai_rysiai: "Vilnius prekiavo su Gniezno (0.76); Vilnius prekiavo su Lenkija (0.68)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "578514-579362; hash=00c49481eac76d1c1c8e55c2ac873114269f727fc6a2cd470d13389764c5b23a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "prekiavo_su -> Gniezno: 0.76"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Gniezno: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Vilniaus pirkliai išplėtojo prekybą iki Gniezno; kadangi pirklių grupė nėra kandidatuose, naudojamas Vilniaus vietos objektas."
   pagrindžia:
     - c-105145
 
@@ -603,18 +246,6 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
 - t-020
   global_id: t-113995
   teiginys: "1581 m. Steponas Batoras skubiai sustabdė neleistiną reformatų maldos namų ir spaustuvės užpuolimą."
-  temporaliniai_duomenys: "įvykio data: 1581 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "592238-592946; hash=e068ef8b2f2aae7a56dd445791817e48370e9510f7b9f1bda1c9f45d9a9aba56; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Pskovas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Steponas Batoras: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Pskovas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Steponas Batoras\" parinktas kaip owner_note_path. Targetas \"Pskovas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-105142
 
@@ -622,16 +253,6 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
 - t-029
   global_id: t-113996
   teiginys: "Po Stepono Batoro kampanijų Didieji Lukai, Zavoločė, Sebežas, Nevelis ir Voronežas buvo sugrąžinti Rusijai."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "654695-654985; hash=414d4e1ea9f5a8ee8dd77d8bc0a16bc89ace0d084bde863cdbb57fe53ecb45f2; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Rusija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Steponas Batoras: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Rusija: mention_match, place, gap=96"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Steponas Batoras\" parinktas kaip owner_note_path. Targetas \"Rusija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-105158
 
@@ -639,20 +260,6 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
 - t-041
   global_id: t-113997
   teiginys: "1581 m. Steponas Batoras nutraukė išpuolį prieš reformatų maldos namus ir Danieliaus Lenčickio spaustuvę."
-  semantiniai_rysiai: "Steponas Batoras apgulė Pskovas (0.62)"
-  temporaliniai_duomenys: "įvykio data: 1581 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata paaiškina kontekstą ir leidžia iš fragmento suformuoti pilną faktą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "592238-592946; hash=e068ef8b2f2aae7a56dd445791817e48370e9510f7b9f1bda1c9f45d9a9aba56; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "apgule -> Pskovas: 0.62"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Steponas Batoras: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Pskovas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata sieja Steponą Batorą su Pskovo apgultimi, bet formuluotė nėra pilnas veiksmo aprašas."
   pagrindžia:
     - c-105142
 - susijęs iš [[objektai/asmenys/Grigalius XIII.md#claim-t-82382|Grigalius XIII]]: Grigalius XIII bule aprobavo Stepono Batoro suteiktą Vilniaus akademijos privilegiją.
@@ -783,8 +390,8 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
     paversti pasienio kariuomene, duoti jiems vadą ir mokėti algas.
     Steponas Batoras buvo sudaręs iš jų 500 raitelių vėliavą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -798,8 +405,8 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
     gus protingas, didelės energijos, mokąs valdyti ir turįs didelių
     politinių sumanymų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -813,8 +420,8 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
 
     1581 m. liepa-spalis K. RADVILOS PERKŪNO REIDAS 95
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -843,8 +450,8 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
     vo sveikatos prie mūsų, savo valdovo, būdamas, su noru,
     ištikimai ir narsiai visada rėmė ir nesiliauja rėmęs.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -869,8 +476,8 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
     vo išleistas rašinys Apie mylimą va- tams.
     sąrą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -906,8 +513,8 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
     to tarybos, prie jo esančios ir žinančios skubiausiai
     tvarkytinus Respublikos reikalus, sutikimu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -937,8 +544,8 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
     suvaržyti, bet griežti karaliaus draudimai juos veikiai sutram­
     dė54.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -957,8 +564,8 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
     svarbiausias Liublino unijos kompromiso rezultatas – Abiejų Tautų Res-
     publika, kuri egzistavo dar du amžius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -993,8 +600,8 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
     1570 METAIS
     (Iš Dogelio rankraščių buv.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1017,8 +624,8 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
     gai bausdavo išdavikus ir apdovanodavo doruosius bei nu­
     sipelniusius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1043,8 +650,8 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
     bikų"7. M. Balinskis miesto istorinę apžvalgą užbaigia Stepono
     Batoro valdymo metais 1586 m.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1074,8 +681,8 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
     laširdingą! prašome, kad laikytų verta prisiimti į savo globą
     ir gynybą pačią Vilniaus seminariją.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1101,8 +708,8 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
     tuvos piliečių brolių Mamoničių namuose įsteigta spaustu­
     vė visų pirma spausdino slaviškas knygas68.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1145,8 +752,8 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
     miestiečių, be to, dar išreikalautų Czopowe i Szosowe mokes­
     čius*.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1182,8 +789,8 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
     džiusios ligos febri sincopi interna dieną, kaip turime medikų
     aktą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1206,8 +813,8 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
     menėje, tokios mokyklos kūrimąsi labai paskatino reformacijos ir kontr-
     reformacijos konkurencija.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1236,8 +843,8 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
 
     Žygimanto Augusto patrankų liejyklose (greičiausiai liejykloje Vilniuje) nulieta patranka Hidra.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1263,8 +870,8 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
     PABAIGA
     yra visiškai klaidinga.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1286,8 +893,8 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
     Batoro valdymo metais 1586 m. Pirmoji knygos dalis užbaigia­
     ma 1430 m. - Vytauto Didžiojo mirtimi.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1306,8 +913,8 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
     52
     Kojałowicz Pars //, Lib.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1333,8 +940,8 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
     uniją (1569 m.) su Lenkija Lietuvai
     nepalankiomis sąlygomis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1360,8 +967,8 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
     demijos kancleriu, o Žemaičių - globėju nuolatiniam laikui pa­
     skyrė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1378,8 +985,8 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
     Vilniaus universiteto Didysis kiemas ir Šv. Jonų bažnyčia
     iš J. K. Vilčinskio „Vilniaus albumo“. Dail.  Ph. Benoist, A. Bayot, 1850 m.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1395,8 +1002,8 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
     žinomame veikale Bibliograficznych
     Ksiąg dwoje, išleist.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1443,8 +1050,8 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
     priežasties sužalojo pirklius ir atėmė
     daug prekių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2158,12 +1765,8 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
     - t-113965
 
 ## Ryšiai
-- Turėjo priklausinį: [[objektai/daiktai/Stepono Batoro paradinis kalavijas]]
 - Steponas Batoras buvo valdovas [[objektai/vietos/Lenkija]]
-- Steponas Batoras valdė [[objektai/vietos/Vilnius]]
-- Steponas Batoras keliavo į [[objektai/vietos/Knišinas]], [[objektai/vietos/Vilnius]]
+- Steponas Batoras keliavo į [[objektai/vietos/Vilnius]]
 - Steponas Batoras mirė [[objektai/vietos/Gardinas]]
-- Steponas Batoras apgulė [[objektai/vietos/Pskovas]]
-- Steponas Batoras siuntė į [[objektai/vietos/Rusija]], [[objektai/vietos/Švedija]]
-- Steponas Batoras rėmė [[objektai/asmenys/Gabrielius Bekešas]], [[objektai/grupes/Vilniaus miestiečių luomas]], [[objektai/grupes/Vilniaus pirkliai]]
+- Steponas Batoras siuntė į [[objektai/vietos/Rusija]]
 - Steponas Batoras užkariavo [[objektai/vietos/Ryga]]

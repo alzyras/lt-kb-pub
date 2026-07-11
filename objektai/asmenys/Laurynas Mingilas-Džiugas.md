@@ -41,19 +41,6 @@ Kautynes aprašė partizanas Laurynas Mingilas-Džiugas: „„Pažadino kažkok
 - t-001
   global_id: t-79102
   teiginys: "Partizanas Laurynas Mingilas-Džiugas aprašė 1949 m. rugpjūčio 13 d. Užpelkių kautynes."
-  temporaliniai_duomenys: "įvykio data: 1949 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1000477-1000764; hash=0f71b4c11c226946898a36946146433784e6a906428026a415d14954308b061a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Užpelkiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Laurynas Mingilas-Džiugas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Užpelkiai: mention_match, place, gap=57"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Laurynas Mingilas-Džiugas\" parinktas kaip owner_note_path. Targetas \"Užpelkiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-76191
 
@@ -61,19 +48,6 @@ Kautynes aprašė partizanas Laurynas Mingilas-Džiugas: „„Pažadino kažkok
 - t-001
   global_id: t-79102
   teiginys: "Partizanas Laurynas Mingilas-Džiugas aprašė 1949 m. rugpjūčio 13 d. Užpelkių kautynes."
-  temporaliniai_duomenys: "įvykio data: 1949 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1000477-1000764; hash=0f71b4c11c226946898a36946146433784e6a906428026a415d14954308b061a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Užpelkiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Laurynas Mingilas-Džiugas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Užpelkiai: mention_match, place, gap=57"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Laurynas Mingilas-Džiugas\" parinktas kaip owner_note_path. Targetas \"Užpelkiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-76191
 - susijęs iš Užpelkiai: Užpelkių miške buvo numatytas Prisikėlimo apygardos štabo posėdis ir susitikimas su vietos kovotojais.
@@ -91,8 +65,8 @@ Kautynes aprašė partizanas Laurynas Mingilas-Džiugas: „„Pažadino kažkok
     ginklo. Ir tuo pačiu metu iš vakarų ir šiaurinio kampo pusės pasipila automatinių ginklų
     serijos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

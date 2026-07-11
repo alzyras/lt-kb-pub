@@ -30,22 +30,6 @@ Narbutas nurodo, kad senovės geografai minėjo tris gelonų kolonijas: prie Meo
 - t-001
   global_id: t-192877
   teiginys: "Narbutas nurodo, kad senovės geografai minėjo tris gelonų kolonijas: prie Meotidės, tarp budinų ir prie Kaspijos."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Gelonai gyveno Kaspija (0.76)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "140135-140695; hash=2c026aea5267413d64042b85ab57144316de7446e87fed71a18978d2df6946fc; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Kaspija: 0.76"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gelonai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Kaspija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Gelonų kolonija tiesiogiai nurodyta prie Kaspijos, todėl tai laikytina gyvenamosios vietos ryšiu."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175647
 - susijęs iš [[objektai/asmenys/Bojaduras.md#claim-t-191378|Bojaduras]]: 1223 m. Bojaduras su Cipnovianu vadovavo Čingischano pasiųstam būriui į vakarinę Kaspijos pakrantę užimti Samachos ir Derbento.
@@ -78,8 +62,8 @@ Narbutas nurodo, kad senovės geografai minėjo tris gelonų kolonijas: prie Meo
     prie Meotidės arba į Dono žemupio apylinkes, o vėliau —
     pas budinus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -90,7 +74,8 @@ Narbutas nurodo, kad senovės geografai minėjo tris gelonų kolonijas: prie Meo
 - id: c-175647
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 78"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 78."
   citata_originali: |
     Jų kraštas derlingas, turtingas tankių miškų, o
     didžiausiame miške yra pelkėtas, nendrėmis apaugęs
@@ -109,8 +94,3 @@ Narbutas nurodo, kad senovės geografai minėjo tris gelonų kolonijas: prie Meo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192877
-
-## Ryšiai
-- Buvo siuntimo vieta: [[objektai/asmenys/Čingischanas]]
-- Buvo žygio kryptis: [[objektai/asmenys/Bojaduras]], [[objektai/asmenys/Cipnovianas]]
-- Gyvenamoji vieta: [[objektai/grupes/Gelonai]]

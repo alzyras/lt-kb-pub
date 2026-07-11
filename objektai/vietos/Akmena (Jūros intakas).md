@@ -32,18 +32,6 @@ Dusburgietis teigia, kad ašeradė) Akmena (Jūros intakas), u.
 - t-001
   global_id: t-58675
   teiginys: "Ašeradė) Akmena (Jūros intakas), u."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "839258-839343; hash=144dc43368fe8e587838e4e88d1026532a6b879ef55101446a5a812a653e3c52; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aizkrauklė: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Akmena (Jūros intakas): owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Aizkrauklė: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Akmena (Jūros intakas)\" parinktas kaip owner_note_path. Targetas \"Aizkrauklė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
-  vertinimo_autorius: "claim_quality_pipeline / rewrite"
   pagrindžia:
     - c-59307
 ## Reikšmingi paminėjimai
@@ -56,8 +44,8 @@ Dusburgietis teigia, kad ašeradė) Akmena (Jūros intakas), u.
       Akmena (Jūros intakas), u.
       Akmena (Mituvos intakas), u.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -68,7 +56,8 @@ Dusburgietis teigia, kad ašeradė) Akmena (Jūros intakas), u.
 - id: c-59307
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 298"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 298."
   citata_originali: |
     Aizkrauklė (buv. Ašeradė)
       Akmena (Jūros intakas), u.

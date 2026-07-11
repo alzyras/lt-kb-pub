@@ -30,22 +30,6 @@ Narbutas pateikė „Tėve mūsų“ tekstą Kuršo Alsungos katalikų parapijos
 - t-001
   global_id: t-188975
   teiginys: "Narbutas pateikė „Tėve mūsų“ tekstą Kuršo Alsungos katalikų parapijos tarme, gautą iš tenykščio klebono."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Alsunga priklausė Kuršas (0.88)"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "813931-814663; hash=40d96c8876af281e360de4220465a76c4471d3d269a7de861bcbaa3e1c4f5396; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Kuršas: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Alsunga: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Kuršas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Frazė tiesiogiai priskiria Alsungą Kuršui."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171864
 - susijęs iš [[objektai/grupes/Kuršiai ir latviai.md#claim-t-189519|Kuršiai ir latviai]]: Narbutas pateikė kuršišku arba latvišku vadinamą maldos tekstą ir atskirą Kuršo Alsungos katalikų parapijos tarmės variantą.
@@ -72,8 +56,8 @@ Narbutas pateikė „Tėve mūsų“ tekstą Kuršo Alsungos katalikų parapijos
     radnekiem, un niejewod mus eksz kardinaszenas bet atpesti mus
     nota launa.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -84,7 +68,8 @@ Narbutas pateikė „Tėve mūsų“ tekstą Kuršo Alsungos katalikų parapijos
 - id: c-171864
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 448"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 448."
   citata_originali: |
     Kuršiškai arba latviškai; iš Branto, imta iš Ksavero Bogu­
     šo (ten pat):
@@ -107,6 +92,3 @@ Narbutas pateikė „Tėve mūsų“ tekstą Kuršo Alsungos katalikų parapijos
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188975
-
-## Ryšiai
-- Alsunga priklausė [[objektai/vietos/Kuršas]]

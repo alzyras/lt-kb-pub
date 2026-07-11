@@ -48,20 +48,6 @@ Nenurodyta
 - t-001
   global_id: t-185658
   teiginys: "Vytauto pastangos išsaugoti su Zigmantu ir Vaclovu sudarytą susitarimą nuėjo niekais."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į Lenkija (0.90); Vytautas (Lietuvos valdovas, XIV–XV a.) sudarė sutartį su Zigmantas (Romos imperatorius) (0.86)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "655644-656356; hash=9890c56775645e0171108ed86fcd2b4f1050a5005f87578016504b2e6d392fae; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Lenkija: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata nurodo, kad Vytautas išvyko į Lenkiją."
   pagrindžia:
     - c-169019
 ## Reikšmingi paminėjimai
@@ -84,8 +70,8 @@ Nenurodyta
     atvirkščiai, visaip stengiamasi sulaužyti duotą žodį, iš­
     vyko į Lenkiją nė neatsisveikinęs su imperatoriumi.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -96,7 +82,8 @@ Nenurodyta
 - id: c-169019
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 375"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 375."
   citata_originali: |
     Nors Vytautas ėmėsi visų priemonių, kurios, jo galva,
     buvo reikalingos išsaugoti su Zigmantu ir Vaclovu

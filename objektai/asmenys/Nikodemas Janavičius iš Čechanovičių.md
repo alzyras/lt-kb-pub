@@ -32,17 +32,6 @@ Jonui, Polocko............................Stanislovui Jonui Da Vai­ nai, taurin
 - t-001
   global_id: t-87806
   teiginys: "Nikodemas Janavičius iš Čechanovičių buvo Melniko seniūnas ir stalininkas."
-  semantiniai_rysiai: "Nikodemas Janavičius iš Čechanovičių valdė miestą Melnikas (0.82)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "508687-509046; hash=8588c0cbb2cdafa4d09936c6f819875f3e8b84c55556261a536567efde1bec32; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde_miesta -> Melnikas: 0.82"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Nikodemas Janavičius iš Čechanovičių: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Melnikas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Melniko seniūno pareigos rodo administracinį valdymo ryšį su Melniku."
   pagrindžia:
     - c-83785
 ## Reikšmingi paminėjimai
@@ -58,8 +47,8 @@ Jonui, Polocko............................Stanislovui Jonui Da Vai­ nai, taurin
     driuševičiui ir kitiems mūsų tarybos nariams (senatoriams)
     ir pareigūnams, nuoširdžiai ištikimiems ir mieliems.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -84,6 +73,3 @@ Jonui, Polocko............................Stanislovui Jonui Da Vai­ nai, taurin
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87806
-
-## Ryšiai
-- Nikodemas Janavičius iš Čechanovičių valdė [[objektai/vietos/Melnikas]]

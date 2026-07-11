@@ -60,16 +60,6 @@ Nenurodyta
 - t-001
   global_id: t-86979
   teiginys: "Horodlės privilegija turėjo Žygimanto Augusto patvirtinimą su dviem antspaudais."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "331723-332001; hash=2f864c1998d627295387634076c5c5dba67a322379aabcd0fd0d3cff82d96327; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Augustas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Antspaudai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Augustas: mention_match, person, gap=30"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antspaudai\" parinktas kaip owner_note_path. Targetas \"Augustas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-82959
 
@@ -77,9 +67,6 @@ Nenurodyta
 - t-002
   global_id: t-86981
   teiginys: "Komisarai prisiekusių liudininkų žinias apie Pabaisko bažnyčios įkūrimą aprašė ir patvirtino savo antspaudais."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "492187-492842; hash=19f7f6bc2ea466b5688169379d644f784052a76dcf06b360739057ee12a2ebcc; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-82958
 
@@ -87,17 +74,6 @@ Nenurodyta
 - t-004
   global_id: t-86982
   teiginys: "Vilniaus magistratas viešiesiems reikalams turėjo naudoti senąjį miesto antspaudą su šventojo Kristoforo atvaizdu ant raudono lako."
-  semantiniai_rysiai: "Antspaudai priklausė Vilniaus magistratas (0.72)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "558639-560534; hash=98c325922d2800eac6807d1a4b13ef2761d2917df30f9d716d8e1c10e50e3d03; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Vilniaus magistratas: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Antspaudai: llm_allowed_candidate, thing"
-  ryšio_targeto_parinkimas: "Vilniaus magistratas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata nurodo, kad viešiesiems reikalams Vilniaus magistratas turėjo naudoti miesto antspaudą, tad ryšys su magistratu tiesiogiai pagrįstas."
   pagrindžia:
     - c-82960
 - susijęs iš [[objektai/asmenys/Jonas Jeronimaitis Chodkevičius.md#claim-t-101649|Jonas Jeronimaitis Chodkevičius]]: Jonas Jeronimaitis Chodkevičius apgynė LDK antspaudus ir nukėlė konkrečių Lenkijos bei Lietuvos ryšių ar unijos klausimų sprendimą.
@@ -182,8 +158,8 @@ Nenurodyta
     Valentinui iš Pilzno, naująją privilegiją amžiams suteikti nu­
     sprendėme ir suteikiame.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -202,8 +178,8 @@ Nenurodyta
     tos privilegijos Žygimanto Augusto
     patvirtinimas su dviem antspaudais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -258,8 +234,8 @@ Nenurodyta
     sų-palikuonių sutikimo ar kitos
     naujos ar atskiros privilegijos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -366,6 +342,3 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86982
-
-## Ryšiai
-- Antspaudai priklausė [[objektai/grupes/Bajorai]], [[objektai/grupes/Vilniaus magistratas]]

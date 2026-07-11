@@ -34,16 +34,6 @@ Bet visos didžiosios Europos tautos jau seniai pradėjo tvarkyti savo emigracij
 - t-001
   global_id: t-70183
   teiginys: "Pietų Amerikoje buvo laikoma įmanoma įkurti grynai lietuviškų kolonijų, kokių turėjo kitos tautos."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "1332771-1333164; hash=a53905f29bb11338c0bb7a1593b41348ecb0c0ef2482109f52d894f97363e4af; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "kolonijos: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=11"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"kolonijos\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-69263
 - susijęs iš [[objektai/grupes/Graikai.md#claim-t-192405|Graikai]]: Narbutas rašo, kad graikų kolonijos suklestėjo tuo metu, kai jos užgožė žlungančius skitus.
@@ -86,8 +76,8 @@ Bet visos didžiosios Europos tautos jau seniai pradėjo tvarkyti savo emigracij
     žemės plotai tebėra neišnaudoti, ir daugely vietų būtų galima įkurti
     grynai lietuviškų kolonijų, kokių kad turi kitos tautos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

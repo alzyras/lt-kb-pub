@@ -30,19 +30,6 @@ Jurgis Tiškevičius nuvežė į Maskvą karaliaus laišką ir sveikindamas Ivan
 - t-001
   global_id: t-186051
   teiginys: "Jurgis Tiškevičius nuvežė į Maskvą karaliaus laišką ir sveikindamas Ivaną pavadino jį Astrachanės caru."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1233739-1234681; hash=77d3b100b0198b258a935f0143300d25255163014a01bf922ce790d4adcc6584; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Ivanas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jurgis Tiškevičius: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Ivanas: mention_match, person, gap=68"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jurgis Tiškevičius\" parinktas kaip owner_note_path. Targetas \"Ivanas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-169412
 - susijęs iš [[objektai/grupes/Vilniaus kapitula.md#claim-t-176101|Vilniaus kapitula]]: Apaštališkasis nuncijus Jonas Andrius patvirtino Vilniaus kapitulos Akademijos kolegijos rektoriams perleistas patronato teises.
@@ -74,8 +61,8 @@ Jurgis Tiškevičius nuvežė į Maskvą karaliaus laišką ir sveikindamas Ivan
     katinti didįjį kunigaikštį sudaryti nuolatinės taikos su­
     sitarimą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -86,7 +73,8 @@ Jurgis Tiškevičius nuvežė į Maskvą karaliaus laišką ir sveikindamas Ivan
 - id: c-169412
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 692"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 692."
   citata_originali: |
     Išleidęs maskvėnų pasiuntinį ir Velykas atšventęs
     Liubline, karalius patraukė į Brestą bei Gardiną, o vė­

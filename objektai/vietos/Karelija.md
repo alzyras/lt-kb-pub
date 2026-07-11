@@ -32,9 +32,6 @@ Likimo lemties tremtiniai, sutelkę į draugę valtis, vadovauja­ mi išsirinkt
 - t-001
   global_id: t-86194
   teiginys: "Kronikininkas pasakoja, kad apie 880 metus iš Danijos išvaryti tremtiniai įsikūrė Prūsijoje, Žemaitijoje ir Karelijoje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "55503-55948; hash=5dfc9b9666c3518734b49aebfe9f2016f63bd2bbf99a1e273ca0012f7c73619d; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-82173
 - susijęs iš [[objektai/daiktai/Laivai, valtys, sieliai ir plaustai.md#claim-t-86991|Laivai, valtys, sieliai ir plaustai]]: Petro Olai kronikoje pasakojama, kad apie 880 metus Danijos tremtiniai valtimis persikėlė per jūrą ir įsikūrė Prūsijoje, Žemaitijoje bei Karelijoje.
@@ -63,8 +60,8 @@ Likimo lemties tremtiniai, sutelkę į draugę valtis, vadovauja­ mi išsirinkt
     Karelijoje, tarp vietinių gyventojų.
     Žr. P e t r i Olai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -46,16 +46,6 @@ Nenurodyta
 - t-002
   global_id: t-07829
   teiginys: "Sugautus priešo vyresniuosius lietuviai aukodavo dievams gyvus sudegindami."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "340329-340769; hash=efe98ac2a29486613fbc87e2e40ecd90a28215808dda4f7ce743fa35cf930b7f; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Paimtų priešo vadų aukojimas dievams ir kaukolių naudojimas pokyliuose: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=21"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Paimtų priešo vadų aukojimas dievams ir kaukolių naudojimas pokyliuose\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-09988
 ## Reikšmingi paminėjimai
@@ -69,8 +59,8 @@ Nenurodyta
         apačia, sudegino. Jei buvo keletą vyresniųjų sugavę, tad lėmė, kurs būt vertesnis dievams aukauti,
         tą, kurį nulėmė, taip pat sudegino, kaip jei pirmąjį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

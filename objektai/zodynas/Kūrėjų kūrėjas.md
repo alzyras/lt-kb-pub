@@ -39,9 +39,6 @@ Vartojamos formos: `kūrėjų kūrėjo`.
 - t-006
   global_id: t-70011
   teiginys: "Kūrėjų kūrėjas vienintelis galėjo įeiti į nurodytą vietą ir klausiantiems duodavo atsakus Perūno vardu."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "209007-209134; hash=cb1a364c6a8eed2b3d6bbcaa69b60250f59f9fe4a54ef8c6dd9190e36081027a; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-09697
 
@@ -49,9 +46,6 @@ Vartojamos formos: `kūrėjų kūrėjo`.
 - t-004
   global_id: t-70012
   teiginys: "`Kūrėjų kūrėjas` šiame tekste yra visų vyriausias žynys."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "236924-237342; hash=164aa1deec12becc1baac6c74ba907cf9e3b0387d1fd93d5b7d87365a95a2bda; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-09696
     - c-09697
@@ -60,9 +54,6 @@ Vartojamos formos: `kūrėjų kūrėjo`.
 - t-005
   global_id: t-70013
   teiginys: "Kūrėjų kūrėjas vienas valdė žynius, davė jiems įsakymus ir per tarnus skelbė iš dievų gautą pamokslą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "236924-237342; hash=164aa1deec12becc1baac6c74ba907cf9e3b0387d1fd93d5b7d87365a95a2bda; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-09696
 - susijęs iš [[objektai/daiktai/Dievų stabai.md#claim-t-08287|Dievų stabai]]: Tris dievų stabai buvo įstatyti ąžuolo uoksuose.
@@ -80,8 +71,8 @@ Vartojamos formos: `kūrėjų kūrėjo`.
         latuviai, arba kuržemiai, bet dar lybiešiai^876 ir krieviai, kurie nuo jo dievų valios jautojos ir
         teiravos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -93,8 +84,8 @@ Vartojamos formos: `kūrėjų kūrėjo`.
   citata_originali: |
     Pats tiktai visų vyriausiasis kunigaikštis kūrėjų kūrėjas tegalėjęs tenai įeiti, kurs davęs atsakus vardu Perūno klausiantiems.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

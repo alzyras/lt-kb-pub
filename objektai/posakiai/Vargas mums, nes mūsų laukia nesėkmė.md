@@ -32,16 +32,6 @@ Dusburgietis teigia, kad galop, kai lietuvių kariuomenė grįždama priėjo ši
 - t-001
   global_id: t-59166
   teiginys: "Lietuvių kariuomenei grįžtant, burtus metęs lietuvis sušuko: „Vargas mums, nes mūsų laukia nesėkmė.“"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "564442-564852; hash=13fb3fa21e95872ac11a8d9cf1faf5e76170ad41f2a45d3eb7cd7de7f6f0d84e; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Bebras: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vargas mums, nes mūsų laukia nesėkmė: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Bebras: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vargas mums, nes mūsų laukia nesėkmė\" parinktas kaip owner_note_path. Targetas \"Bebras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-59798
 ## Reikšmingi paminėjimai
@@ -58,8 +48,8 @@ Dusburgietis teigia, kad galop, kai lietuvių kariuomenė grįždama priėjo ši
     nesėkmė“. Vadas sušuko, kad jis nutiltų. Tačiau jis nesiliovė šaukęs, kol broliai, iššokę
     su savo kariais iš pasalų, neužpuolė jų ir nenukovė 350 jų žmonių.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -70,7 +60,8 @@ Dusburgietis teigia, kad galop, kai lietuvių kariuomenė grįždama priėjo ši
 - id: c-59798
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 179-180"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 179-180."
   citata_originali: |
     Galop, kai lietuvių kariuomenė grįždama priėjo šią vietą,
     voros priekyje žygiavęs lietuvis, metęs burtus, sušuko: „Vargas mums, nes mūsų laukia

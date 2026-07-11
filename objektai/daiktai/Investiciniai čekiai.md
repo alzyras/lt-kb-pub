@@ -68,9 +68,6 @@ Nenurodyta
 - t-011
   global_id: t-75327
   teiginys: "Už investicinius čekius pirktas privatus turtas buvo vienas iš pradinio kapitalo įsigijimo šaltinių."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "515027-515432; hash=785ffaa839828a2fd340c1a39c533b3c77e7013a3d790b86197bbcfba4fe1eaa; match=exact"
-  sprendimo_priezastis: "gap::items"
   pagrindžia:
     - c-22242
 
@@ -78,16 +75,6 @@ Nenurodyta
 - t-015
   global_id: t-75328
   teiginys: "Investicinius čekius patikėjusiems asmenims nebuvo palikta garantijų, kai privatizavimui kūrėsi žemės ūkio akcinės ir investicinės bendrovės."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "518098-518768; hash=0145398ffa8adf17418254d00ffcdfbfebb1fc575157c033a19cf127af52ccb6; match=exact"
-  sprendimo_priezastis: "gap::items"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Investiciniai čekiai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Investiciniai čekiai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-22244
 
@@ -95,9 +82,6 @@ Nenurodyta
 - t-014
   global_id: t-75329
   teiginys: "Daugelis gyventojų investicinius čekius pardavė ir nesugebėjo privatizuoti savo gyvenamojo būsto."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "515609-516217; hash=2b040b601a5b17f23fd058ce02ffe1469b87d546aa642a8bc172d8ab3bfd307c; match=whitespace_regex"
-  sprendimo_priezastis: "gap::items"
   pagrindžia:
     - c-73138
 
@@ -105,16 +89,6 @@ Nenurodyta
 - t-013
   global_id: t-75330
   teiginys: "Investicinius čekius bendrovėms patikėjusiems asmenims nebuvo palikta garantijų."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "518098-518768; hash=0145398ffa8adf17418254d00ffcdfbfebb1fc575157c033a19cf127af52ccb6; match=exact"
-  sprendimo_priezastis: "gap::items"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Investiciniai čekiai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Investiciniai čekiai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-22244
 
@@ -122,9 +96,6 @@ Nenurodyta
 - t-012
   global_id: t-75331
   teiginys: "Šalies piliečiams buvo sudarytos galimybės įsigyti privatizuojamo valstybės turto už investicinius čekius, bet tinkamai tuo pasinaudojo ne visi."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "515267-515775; hash=d8b4603cbb39ffd48e476eddcdf52814d350c4d0c2c999064831f68689c65cf6; match=exact"
-  sprendimo_priezastis: "gap::items"
   pagrindžia:
     - c-22243
 
@@ -132,9 +103,6 @@ Nenurodyta
 - t-016
   global_id: t-75333
   teiginys: "Nors visiems šalies piliečiams sudarytos tarsi vienodos galimybės įsigyti privatizuojamo valstybės turto už investicinius čekius, tinkamai tuo pasinaudojo ne visi."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "515609-516217; hash=2b040b601a5b17f23fd058ce02ffe1469b87d546aa642a8bc172d8ab3bfd307c; match=whitespace_regex"
-  sprendimo_priezastis: "gap::items"
   pagrindžia:
     - c-73138
 
@@ -142,14 +110,6 @@ Nenurodyta
 - t-017
   global_id: t-193578
   teiginys: "Privatizuojamam turtui įsigyti kūrėsi žemės ūkio akcinės ir investicinės bendrovės, tačiau nenumatyta savininkų teisinių įsipareigojimų dėl tokių įmonių veiklos pelningumo, nepalikta garantijų investicinius čekius patikėjusiems asmenims."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "518339-518911; hash=45e04d24f2c0d2969424f891c11ca33780f0ac1879758a59387c50b190d73504; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-176254
 ## Reikšmingi paminėjimai
@@ -165,8 +125,8 @@ Nenurodyta
     tas už investicinius čekius, banko paskolos ar iš užsienio pritrauktos lė-
     šos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -185,8 +145,8 @@ Nenurodyta
     gyti privatizuojamo valstybės turto už investicinius čekius, tinkamai tuo
     pasinaudojo ne visi.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -207,8 +167,8 @@ Nenurodyta
     savininkų teisinių įsipareigojimų dėl tokių įmonių veiklos pelningumo,
     nepalikta garantijų investicinius čekius patikėjusiems asmenims.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -228,8 +188,8 @@ Nenurodyta
     kos „išvalstybinimo“ būdas; šiaip ar taip, jis lėmė pirmojo dešimtmečio
     šalies ūkio raidą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -249,8 +209,8 @@ Nenurodyta
     sinaudojo buvę kolūkių pirmininkai ar tarybinių ūkių direktoriai, suge-
     bėję per trumpą laiką savo rankose sukaupti didžiulius turtus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

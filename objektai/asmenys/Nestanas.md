@@ -38,25 +38,6 @@ Nestanas, Teodoro vardu valdęs Podolę, Kamenece pateko Algirdui į nelaisvę i
 - t-001
   global_id: t-186242
   teiginys: "Nestanas, Teodoro vardu valdęs Podolę, Kamenece pateko Algirdui į nelaisvę ir buvo išsiųstas į Vilnių."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Nestanas valdė Podolė (0.96); Algirdas (Lietuvos valdovas) valdė teritoriją Podolė (0.96); Algirdas (Lietuvos valdovas) siuntė į Vilnius (0.91)"
-  temporaliniai_duomenys: "įvykio data: 1340 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Perrašyta, kad sakinio subjektas būtų Nestanas, o faktai liktų paremti citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "399078-399957; hash=5ac19210cd7c6461155e3fce08c277fb74fb566c9119241f5b87efb62f797a16; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde -> Podolė: 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Nestanas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Podolė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekste tiesiogiai pasakyta, kad Nestanas valdė Podolę Teodoro vardu."
-  vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-169603
 ## Reikšmingi paminėjimai
@@ -90,8 +71,8 @@ Nestanas, Teodoro vardu valdęs Podolę, Kamenece pateko Algirdui į nelaisvę i
     kurios jam atiteko įpėdinys­
     tės teisėmis iš motinos.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -102,7 +83,8 @@ Nestanas, Teodoro vardu valdęs Podolę, Kamenece pateko Algirdui į nelaisvę i
 - id: c-169603
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 229"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 229."
   citata_originali: |
     Kadangi Teodoras buvo išvykęs (įkurdinęs pily­
     se stiprias valachų įgulas, jis leidosi iš Podolės pas

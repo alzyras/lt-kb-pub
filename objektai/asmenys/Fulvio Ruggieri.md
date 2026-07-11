@@ -44,19 +44,6 @@ sutartimi su LDK panaikinta Livonijos konfederacija, didesnė dalis Livonijos ta
 - t-001
   global_id: t-78981
   teiginys: "Fulvio Ruggieri 1572 m. aprašė Lenkijos ir Lietuvos kariuomenių struktūrą."
-  temporaliniai_duomenys: "įvykio data: 1560 m.; įvykio data: 1561 m.; įvykio data: 1572 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai apibūdina Fulvio Ruggieri 1572 m. aprašymo temą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "356550-357077; hash=589be297f148207f9904b4e6e53d66bb10dd0ed5fc3d2241ff84cf9ca986226b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Fulvio Ruggieri: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=31"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Fulvio Ruggieri\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-76069
 
@@ -64,19 +51,6 @@ sutartimi su LDK panaikinta Livonijos konfederacija, didesnė dalis Livonijos ta
 - t-001
   global_id: t-78981
   teiginys: "Fulvio Ruggieri 1572 m. aprašė Lenkijos ir Lietuvos kariuomenių struktūrą."
-  temporaliniai_duomenys: "įvykio data: 1560 m.; įvykio data: 1561 m.; įvykio data: 1572 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai apibūdina Fulvio Ruggieri 1572 m. aprašymo temą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "356550-357077; hash=589be297f148207f9904b4e6e53d66bb10dd0ed5fc3d2241ff84cf9ca986226b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Fulvio Ruggieri: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=31"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Fulvio Ruggieri\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-76069
 
@@ -84,19 +58,6 @@ sutartimi su LDK panaikinta Livonijos konfederacija, didesnė dalis Livonijos ta
 - t-002
   global_id: t-78983
   teiginys: "Fulvio Ruggieri 1572 m. aprašė kazokų ginkluotę ir kariavimo būdą."
-  temporaliniai_duomenys: "įvykio data: 1572 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys ir jį pagrindžia citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "459468-459886; hash=88beb65ca5350ea4f7f8b1bcf0ec5f725d236a47dda0dabdf52001662a3476fd; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kazokai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Fulvio Ruggieri: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kazokai: mention_match, group, gap=31"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Fulvio Ruggieri\" parinktas kaip owner_note_path. Targetas \"Kazokai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-76071
 - susijęs iš Fulvio Ruggieri aprašymas apie ATR valdovo artileriją Vilniuje: Fulvio Ruggieri 1572 m. rašė, kad Vilniuje karalius turėjo 180 sunkiosios artilerijos vienetų ir daug lengvosios artilerijos.
@@ -130,8 +91,8 @@ sutartimi su LDK panaikinta Livonijos konfederacija, didesnė dalis Livonijos ta
 
     Gardino vaizdas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -156,8 +117,8 @@ sutartimi su LDK panaikinta Livonijos konfederacija, didesnė dalis Livonijos ta
 
     Rytietiška strėlinė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

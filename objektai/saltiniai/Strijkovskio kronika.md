@@ -30,21 +30,6 @@ Narbutas, remdamasis Strijkovskiu, rašė, kad Strijkovskio laikais dar girdėta
 - t-001
   global_id: t-191815
   teiginys: "Narbutas, remdamasis Strijkovskiu, rašė, kad Strijkovskio laikais dar girdėta apie išsklaidytų jotvingių likučius."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "211868-212170; hash=eeb65e0130289de2d01633197cf506f31eb13c67eeac1141efb69162ee892967; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jotvingiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Strijkovskio kronika: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Jotvingiai: mention_match, group, gap=74"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Strijkovskio kronika\" parinktas kaip owner_note_path. Targetas \"Jotvingiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174697
 ## Reikšmingi paminėjimai
@@ -66,8 +51,8 @@ Narbutas, remdamasis Strijkovskiu, rašė, kad Strijkovskio laikais dar girdėta
     terburgo, Kurše, Livonijoje, net Didžiojo Naugardo kraš­
     tuose, kur juos vadino igovėnais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

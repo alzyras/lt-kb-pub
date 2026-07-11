@@ -43,19 +43,6 @@ Danai — buvusias Kuršo vyskupystės žemes, vadinamąją Piltenę, ir Saremos
 - t-001
   global_id: t-43827
   teiginys: "Piltene vadintos buvusios Kuršo vyskupystės žemės."
-  semantiniai_rysiai: "Piltenė priklausė Kuršas (0.86)"
-  temporaliniai_duomenys: "įvykio data: iki 1582 m.; įvykio data: 1582 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "443483-444091; hash=725d0b683416467ef0abcdabb0b9539fe932ae59c16c73ccc1782a3e737c589e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Kuršas: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Piltenė: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Kuršas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Piltenė tiesiogiai apibrėžta kaip buvusios Kuršo vyskupystės žemės."
   pagrindžia:
     - c-47131
 - susijęs iš Hermano Vartbergės Livonijos kronika: Cituojama „Hermano Vartbergės Livonijos kronika“ ištrauka, kurioje rodoma, kaip lietuviai su apgulimo mašinomis sunaikina Piltenės pilį.
@@ -85,8 +72,8 @@ Danai — buvusias Kuršo vyskupystės žemes, vadinamąją Piltenę, ir Saremos
     Danai — buvusias Kuršo vyskupystės žemes, vadinamąją Pil-
     tenę, ir Saremos (Eželio) vyskupystę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -120,6 +107,3 @@ Danai — buvusias Kuršo vyskupystės žemes, vadinamąją Piltenę, ir Saremos
 
 ## Ryšiai
 - Puolė Piltenę: [[objektai/grupes/Lietuviai]]
-- Apgulė Piltenę: [[objektai/grupes/Lietuviai]]
-- Gyvenamoji vieta: [[objektai/grupes/Latviai]]
-- Piltenė priklausė [[objektai/vietos/Kuršas]]

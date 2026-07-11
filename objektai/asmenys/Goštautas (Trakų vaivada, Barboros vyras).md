@@ -43,17 +43,6 @@ media_all_json: |-
 - t-001
   global_id: t-87680
   teiginys: "Goštautas buvo Trakų vaivada ir Barboros Radvilaitės vyras, po kurio mirties Barbora liko našlė."
-  semantiniai_rysiai: "Goštautas (Trakų vaivada, Barboros vyras) buvo vyras Barbora Radvilaitė (0.96)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "547466-548070; hash=e451c8035cb8c4e9598e5fc148264484f9de3b1797f551a30766c69497c578d2; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_vyras -> Barbora Radvilaitė: 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Goštautas (Trakų vaivada, Barboros vyras): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Barbora Radvilaitė: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Goštautas buvo Barboros Radvilaitės vyras."
   pagrindžia:
     - c-83659
 ## Reikšmingi paminėjimai
@@ -78,8 +67,8 @@ media_all_json: |-
     atrado kuklumą ir sulaukė prielankumo. Barboros rūmai
     stovėjo prie Vilijos, tarp sodų, prie pat Žemutinės pilies.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

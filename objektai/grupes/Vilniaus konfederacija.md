@@ -40,19 +40,6 @@ Targovicos konfederacijai 1792 m. birželio 25 d. pritarė Vilniaus (t.
 - t-001
   global_id: t-20071
   teiginys: "Vilniaus konfederacija 1792 m. birželio 25 d. pritarė Targovicos konfederacijai."
-  temporaliniai_duomenys: "įvykio data: 1792 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra trumpas, aiškus ir tiesiogiai pagrįstas citata."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "176049-176584; hash=d69ff11c50205eca77b64ce7914d141a8b4e81b06c306b82eb533be5129e40f7; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Targovica: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilniaus konfederacija: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Targovica: mention_match, place, gap=54"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus konfederacija\" parinktas kaip owner_note_path. Targetas \"Targovica\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-22806
 ## Reikšmingi paminėjimai
@@ -69,8 +56,8 @@ Targovicos konfederacijai 1792 m. birželio 25 d. pritarė Vilniaus (t.
     konfederacijos Brastoje susijungė į vieną Abiejų Tautų konfederaciją ir
     savo centru paskelbė Gardiną.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

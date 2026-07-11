@@ -38,12 +38,6 @@ Dusburgietis teigia, kad mickevičius J.
 - t-001
   global_id: t-61179
   teiginys: "J. Mickevičiaus „Šilalės rajono senovė“ buvo 1968 m. parengtas mašinraštis."
-  temporaliniai_duomenys: "įvykio data: 1968 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata nurodo autorių, pavadinimą, formą ir metus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "786471-786530; hash=466db2e8789c8d68c52793f8785c69a90c96b943193c60e9acecfa26b81eb4b2; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-61811
 ## Reikšmingi paminėjimai
@@ -54,8 +48,8 @@ Dusburgietis teigia, kad mickevičius J.
   citata_originali: |
     Mickevičius J. Šilalės rajono senovė.— [Mašinraštis], 1968.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -66,7 +60,8 @@ Dusburgietis teigia, kad mickevičius J.
 - id: c-61811
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 267"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 267."
   citata_originali: |
     Mickevičius J. Šilalės rajono senovė.— [Mašinraštis], 1968.
   statusas: verified

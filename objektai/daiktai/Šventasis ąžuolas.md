@@ -53,17 +53,6 @@ Nenurodyta
 - t-001
   global_id: t-59712
   teiginys: "S. Grunau rašė, kad Romuvoje augęs milžiniškas trijų dalių šventasis ąžuolas su Perkūno, Patulo ir Patrimpo stabais."
-  semantiniai_rysiai: "Šventasis ąžuolas priklausė Romuva (0.77)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "218890-219486; hash=3a999e78296ce2766777d45185b7fcaa0f36ecae3de3e33343ef6e8996a75772; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Romuva: 0.77"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Šventasis ąžuolas: llm_allowed_candidate, thing"
-  ryšio_targeto_parinkimas: "Romuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Šventasis ąžuolas tiesiogiai lokalizuojamas Romuvoje."
   pagrindžia:
     - c-60344
 - susijęs iš [[objektai/autoriai/Powierski J.md#claim-t-60509|Powierski J]]: J. Powierski cituojamas aiškinant Romovės šventojo ąžuolo ryšį su indoeuropiečių mitologiniais vaizdiniais.
@@ -86,8 +75,8 @@ Nenurodyta
     Romovėje resp. Romuvoje ir kitų indoeuropiečių tautų mitologinių vaizdinių. Šventasis
     ąžuolas buvęs kosmogoninis tridalio pasaulio medžio simbolis (Иванов В.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -98,7 +87,8 @@ Nenurodyta
 - id: c-60344
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 66"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 66."
   citata_originali: |
     XVI a. 1-oje pusėje S. Grunau rašė, jog Romovėje resp. Romuvoje augęs milžiniškas
     ąžuolas, kurio kamienas buvęs padalytas  į tris lygias dalis, kiekvienoje jų — iškirstas
@@ -113,6 +103,3 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59712
-
-## Ryšiai
-- Šventasis ąžuolas priklausė [[objektai/vietos/Heiligenbeilis]], [[objektai/vietos/Romuva]]

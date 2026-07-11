@@ -38,23 +38,6 @@ Ibrahimas vadovavo turkams, atėjusiems į pagalbą Krymo skitams jų išpuoliuo
 - t-001
   global_id: t-186112
   teiginys: "Ibrahimas vadovavo turkams, atėjusiems į pagalbą Krymo skitams jų išpuoliuose prieš lietuvių žemes."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Ibrahimas kariavo prieš Lietuviai (0.78)"
-  temporaliniai_duomenys: "įvykio data: 1527 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pagrindžia Ibrahimo vaidmenį ir turkų pagalbą Krymo skitams."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1164693-1165324; hash=04cb5355661b6f59dd0194117ec2e19d79101e9f12202219de7b52cafa6770c0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Lietuviai: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Ibrahimas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Tekstas sieja Ibrahimo vedamus turkus su išpuoliais prieš lietuvių žemes."
   pagrindžia:
     - c-169473
 - susijęs iš [[objektai/asmenys/Ibrahimas (Turkijos čiaušas).md#claim-t-87512|Ibrahimas (Turkijos čiaušas)]]: Turkijos čiaušas Ibrahimas su dvidešimt dviem tarnais turėjo būti aprūpintas nakvyne Vilniaus mieste.
@@ -86,8 +69,8 @@ Ibrahimas vadovavo turkams, atėjusiems į pagalbą Krymo skitams jų išpuoliuo
     dolėn ir Pogorėn su trisdešimt keturiais tūkstančiais
     karių, skubiai įspėjo susitarimo dalyvius apie pavojų.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -98,7 +81,8 @@ Ibrahimas vadovavo turkams, atėjusiems į pagalbą Krymo skitams jų išpuoliuo
 - id: c-169473
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 653"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 653."
   citata_originali: |
     1527 m e ta i
     L ietu vių
@@ -127,6 +111,3 @@ Ibrahimas vadovavo turkams, atėjusiems į pagalbą Krymo skitams jų išpuoliuo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186112
-
-## Ryšiai
-- Ibrahimas kariavo prieš [[objektai/grupes/Lietuviai]]

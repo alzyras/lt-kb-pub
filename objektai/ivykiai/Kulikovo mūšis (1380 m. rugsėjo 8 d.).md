@@ -58,20 +58,6 @@ Nenurodyta
 - t-001
   global_id: t-86954
   teiginys: "Andrius Algirdaitis 1380 m. rugsėjo 8 d. Kulikovo lauke kovėsi prieš totorius ir daug prisidėjo prie pergalės."
-  semantiniai_rysiai: "Andrius Algirdaitis kariavo prieš Totoriai (0.95); Andrius Algirdaitis dalyvavo mūšyje Kulikovo mūšis (1380 m. rugsėjo 8 d.) (0.90)"
-  temporaliniai_duomenys: "įvykio data: 1380 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko asmens veiksmą mūšyje, bet pradinis teiginys yra fragmentiškas ir su OCR triukšmu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "99005-100009; hash=f9d0ea0f4b047faa33a26129f7a58eccba57f5c0a68628bf33d7a6b8798ee8a4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Totoriai: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Andrius Algirdaitis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Totoriai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Andrius Algirdaitis kovėsi prieš totorius."
   pagrindžia:
     - c-82933
 ## Reikšmingi paminėjimai
@@ -110,8 +96,8 @@ Nenurodyta
     rugpjūčio viduryje su stipriu žemaičių raitelių pulku apsupo
     Vilnių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

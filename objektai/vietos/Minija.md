@@ -32,17 +32,6 @@ media_all_json: |-
 - t-001
   global_id: t-32367
   teiginys: "Lietuva Žemaičiuose apėmė Ventos ir Minijos aukštupius."
-  semantiniai_rysiai: "Minija priklausė Lietuva (0.78); Venta priklausė Lietuva (0.78)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "357815-358144; hash=4caca716d31847c7b0b704169043d0f97b19d906453811eb47333f68bb4affef; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Lietuva: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Minija: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas nurodo, kad Lietuvos apimtas plotas Žemaičiuose apėmė Minijos aukštupius."
   pagrindžia:
     - c-33953
 - susijęs iš [[objektai/grupes/Skalviai.md#claim-t-89215|Skalviai]]: Skalviai ir lamatiečiai gyveno į šiaurę nuo Nemuno žiočių, Minijos žemupyje.
@@ -84,8 +73,8 @@ media_all_json: |-
     Lietuva Žemaičiuose apėmė plotą į vakarus nuo Nevėžio, t. y.
     Šušvės ir Dubysos baseinus, Ventos ir Minijos aukštupius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -114,4 +103,3 @@ media_all_json: |-
 
 ## Ryšiai
 - Gyvenamoji vieta: [[objektai/grupes/Lamatiečiai]], [[objektai/grupes/Skalviai]]
-- Minija priklausė [[objektai/vietos/Lietuva]]

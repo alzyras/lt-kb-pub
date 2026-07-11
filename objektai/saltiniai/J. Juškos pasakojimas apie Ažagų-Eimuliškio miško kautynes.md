@@ -46,16 +46,6 @@ Prisimena mūšio dalyvis J. Juška:. Prieš kokią valandą iki mūšio, - toli
 - t-004
   global_id: t-67411
   teiginys: "J. Juška teigė, kad Ažagų-Eimuliškio miško kautynėse okupantų pajėgos žmonių skaičiumi galėjo būti 10 ar 20 kartų pranašesnės už partizanus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "908821-909364; hash=fd733d8d124a9b4f8f31b85764f749f4f70603c735cd7aaf8b6b37187ff3f47f; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> J. Juška: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "J. Juškos pasakojimas apie Ažagų-Eimuliškio miško kautynes: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "J. Juška: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"J. Juškos pasakojimas apie Ažagų-Eimuliškio miško kautynes\" parinktas kaip owner_note_path. Targetas \"J. Juška\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-43255
 
@@ -63,16 +53,6 @@ Prisimena mūšio dalyvis J. Juška:. Prieš kokią valandą iki mūšio, - toli
 - t-003
   global_id: t-67412
   teiginys: "J. Juška pasakojo, kad Ažagų-Eimuliškio miško kautynės prasidėjo ankstų rytą ir truko iki pavakario."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "909365-910132; hash=b397500aa9ebe368bcecfe91f9639753eb9e7df2c59463f95d540f2918b58024; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "J. Juškos pasakojimas apie Ažagų-Eimuliškio miško kautynes: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.): mention_match, event, gap=23"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"J. Juškos pasakojimas apie Ažagų-Eimuliškio miško kautynes\" parinktas kaip owner_note_path. Targetas \"Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-11235
 ## Reikšmingi paminėjimai
@@ -101,8 +81,8 @@ Prisimena mūšio dalyvis J. Juška:. Prieš kokią valandą iki mūšio, - toli
     žuvusiuosius, susikrovė į sunkvežimius ir
     išsivežė. Mūsiškius paliko miške.“
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -132,8 +112,8 @@ Prisimena mūšio dalyvis J. Juška:. Prieš kokią valandą iki mūšio, - toli
     rumas ir tai, kad gerai žinojome mišką -
     kiekvieną kelmą, kiekvieną krūmelį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

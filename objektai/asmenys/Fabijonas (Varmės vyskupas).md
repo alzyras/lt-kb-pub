@@ -41,16 +41,6 @@ media_all_json: |-
 - t-001
   global_id: t-87667
   teiginys: "Fabijonas buvo paskirtas Varmės vyskupu be valdovo pritarimo, bet jo paskyrimą vėliau sutikta pripažinti galiojančiu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "721260-722054; hash=b5a305b0f7bbf0d75ad236a9a76c2bee1c9fdb0e082554a3a777c5a35600d593; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Varmė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Fabijonas (Varmės vyskupas): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Varmė: mention_match, place, gap=25"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Fabijonas (Varmės vyskupas)\" parinktas kaip owner_note_path. Targetas \"Varmė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-83646
 - susijęs iš [[objektai/grupes/Varmės kapitula.md#claim-t-86738|Varmės kapitula]]: Žygimantas sutiko su Varmės kapitulos prašymu pripažinti be jo pritarimo įvykusį Fabijono paskyrimą Varmės vyskupu.
@@ -88,8 +78,8 @@ media_all_json: |-
     šventajam Apaštalų Sostui, būtų tvirti ir nekeičiami, nutarė­
     me išrūpinti Šventojo Tėvo patvirtinimą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -17,7 +17,7 @@ type PeriodFilterWindow = Window &
 
 const periodFilterWindow = window as PeriodFilterWindow
 
-const initialized = new WeakSet<HTMLElement>()
+const initializedPeriodFilters = new WeakSet<HTMLElement>()
 
 function clampValue(value: number, min: number, max: number) {
   return Math.min(Math.max(value, min), max)
@@ -63,7 +63,7 @@ function getRefs(control: HTMLElement): PeriodFilterRefs | undefined {
   }
 }
 
-function updateFilter(refs: PeriodFilterRefs, changed: "start" | "end") {
+function updateFilter(refs: PeriodFilterRefs, changed: "start" | "end", writeUrl = false) {
   const min = Number(refs.minInput.min || 0)
   const max = Number(refs.minInput.max || 2000)
   let selectedStart = clampValue(Number(refs.minInput.value), min, max)
@@ -87,6 +87,15 @@ function updateFilter(refs: PeriodFilterRefs, changed: "start" | "end") {
   const right = 100 - ((selectedEnd - min) / range) * 100
   refs.rangeFill.style.left = `calc(${left}% + var(--period-thumb-size, 0px) / 2)`
   refs.rangeFill.style.right = `calc(${right}% + var(--period-thumb-size, 0px) / 2)`
+
+  if (writeUrl) {
+    const url = new URL(location.href)
+    selectedStart === min ? url.searchParams.delete("from") : url.searchParams.set("from", String(selectedStart))
+    selectedEnd === max ? url.searchParams.delete("to") : url.searchParams.set("to", String(selectedEnd))
+    refs.unknownInput.checked ? url.searchParams.delete("unknown") : url.searchParams.set("unknown", "0")
+    url.searchParams.delete("page")
+    history.replaceState({}, "", url)
+  }
 
   const entries = refs.lists.flatMap((list) => [...list.querySelectorAll<HTMLLIElement>("li.section-li")])
   entries.forEach((entry) => {
@@ -116,6 +125,7 @@ function updateFilter(refs: PeriodFilterRefs, changed: "start" | "end") {
     })
     refs.summary.textContent = `Rodoma ${visible} iš ${entries.length}`
   }
+  ;(document as EventTarget).dispatchEvent(new CustomEvent("periodfilterchange"))
 }
 
 function initPeriodFilters() {
@@ -124,7 +134,7 @@ function initPeriodFilters() {
   )
 
   controls.forEach((control) => {
-    if (initialized.has(control)) {
+    if (initializedPeriodFilters.has(control)) {
       return
     }
 
@@ -133,11 +143,16 @@ function initPeriodFilters() {
       return
     }
 
-    initialized.add(control)
+    initializedPeriodFilters.add(control)
 
-    const onStart = () => updateFilter(refs, "start")
-    const onEnd = () => updateFilter(refs, "end")
-    const onUnknown = () => updateFilter(refs, "end")
+    const params = new URLSearchParams(location.search)
+    if (params.has("from")) refs.minInput.value = params.get("from") ?? refs.minInput.value
+    if (params.has("to")) refs.maxInput.value = params.get("to") ?? refs.maxInput.value
+    refs.unknownInput.checked = params.get("unknown") !== "0"
+
+    const onStart = () => updateFilter(refs, "start", true)
+    const onEnd = () => updateFilter(refs, "end", true)
+    const onUnknown = () => updateFilter(refs, "end", true)
 
     refs.minInput.addEventListener("input", onStart)
     refs.maxInput.addEventListener("input", onEnd)

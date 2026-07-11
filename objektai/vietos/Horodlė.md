@@ -41,19 +41,6 @@ media_all_json: |-
 - t-001
   global_id: t-34186
   teiginys: "1413 m. spalio 2 d. Jogaila sušaukė suvažiavimą Horodlės miestelyje prie Būgo upės."
-  temporaliniai_duomenys: "įvykio data: 1413 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra tikslus, pilnas ir paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "335829-336035; hash=c0b463f6e81990fc9addec6b615b9f8b1c27f72d63469a21feb6190fe12b0ee8; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Būgas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Horodlė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Būgas: mention_match, place, gap=25"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Horodlė\" parinktas kaip owner_note_path. Targetas \"Būgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-35411
 
@@ -61,25 +48,6 @@ media_all_json: |-
 - t-002
   global_id: t-188699
   teiginys: "1413 m. Horodlės seime lenkų bajorai suteikė savo herbus lietuvių bajorams kaip abiejų tautų susijungimo ženklą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Herbai priklausė Lenkų bajorai (0.84)"
-  temporaliniai_duomenys: "priklausymo laikotarpis: 1413 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Herbai priklausė Lenkų bajorai“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Išskleistas Horodlės seimo kontekstas ir pašalinti OCR trūkiai. Teiginys nepapildytas detalėmis už citatos ribų."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "722076-722503; hash=6644a62598cb7e4ebcb041c04258e1e69112d81ad0e66b6f226e688d1e9f7292; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Lenkų bajorai: 0.84"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Herbai: llm_allowed_candidate, thing"
-  ryšio_targeto_parinkimas: "Lenkų bajorai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Žodžiai „savo herbus“ tiesiogiai rodo, kad herbai priklausė lenkų bajorams."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171588
 - susijęs iš [[objektai/grupes/Narbutai.md#claim-t-188013|Narbutai]]: Narbutai įvadiniame straipsnyje vadinami sena lietuvių bajorų gimine, dokumentuose minima nuo Horodlės unijos laikų.
@@ -139,8 +107,8 @@ media_all_json: |-
     Būgo upės). Suvažiavimo nutarimai palietė politinius Lietuvos
     ir Lenkijos santykius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -159,8 +127,8 @@ media_all_json: |-
     Bet mes turime kalbėti apie kai kuriuos ikiunijinių laikų
     herbus, mūsų pastebėtus senose Lietuvos bajorų sutartyse.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -188,7 +156,8 @@ media_all_json: |-
 - id: c-171588
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 402"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 402."
   citata_originali: |
     Vienas kitas aiškiai lietuviškas her­
     bas įėjo į Lenkijos herbynus, tikriausiai atsikėlus šeimoms, ku­
@@ -204,6 +173,3 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188699
-
-## Ryšiai
-- Horodlė priklausė [[objektai/vietos/Lenkija]]

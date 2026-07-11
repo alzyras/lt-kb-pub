@@ -35,16 +35,6 @@ Laikas nutrynė pėdsa­ kus raštuose: nežinia, kokių pokyčių miesto valdym
 - t-001
   global_id: t-86482
   teiginys: "Po pirmųjų Magdeburgo teisių suteikimo nežinoma, kokių miesto valdymo pokyčių ar laisvių gyventojams buvo duota."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "305934-306819; hash=fd0657809b45a2b02db33d96e87af76477d58f79c77f8d5ff3b97eea49546066; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Rusai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Magdeburgo teisės vokiečių teisės normos: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Rusai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Magdeburgo teisės vokiečių teisės normos\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-82462
 
@@ -52,12 +42,6 @@ Laikas nutrynė pėdsa­ kus raštuose: nežinia, kokių pokyčių miesto valdym
 - t-002
   global_id: t-194216
   teiginys: "Šio veikalo kitame tome įdėsime Lentelę, rodančią, kokiais laikais Lietuvos miestams buvo suteiktos Magdeburgo teisės."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "339782-340184; hash=d5cc5c6b6fcb0cc0438fc78b7e3cdd47147bc12de3ffc7d9e67d64e354737181; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176818
 ## Reikšmingi paminėjimai
@@ -82,8 +66,8 @@ Laikas nutrynė pėdsa­ kus raštuose: nežinia, kokių pokyčių miesto valdym
     maišties per tuos žiaurius karus ir dažną karinės valdžios kiši­
     mąsi į municipalinius valdymo reikalus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -108,8 +92,8 @@ Laikas nutrynė pėdsa­ kus raštuose: nežinia, kokių pokyčių miesto valdym
     kuriuos miestus palyginsime su Vil­
     niumi.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

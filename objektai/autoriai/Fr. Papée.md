@@ -32,16 +32,6 @@ i Papée, Fr.
 - t-001
   global_id: t-30617
   teiginys: "Fr. Papée su St. Smolka parengė veikalą „Władysław Jagiełło“."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "846826-847062; hash=def4d6ff9fcd8c3cc04d0a23aa94942c3e0db7b1d289676d49bf5a07986ae26c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> St. Smolka: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Fr. Papée: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "St. Smolka: mention_match, author, gap=13"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Fr. Papée\" parinktas kaip owner_note_path. Targetas \"St. Smolka\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-32929
 - susijęs iš [[objektai/autoriai/A. Brückner.md#claim-t-64508|A. Brückner]]: Al. Brückneris priklausė senosios istorikų kartai, kuri XIII a. pradžios lietuvius vaizdavo kaip vargšus ir skurdžius.
@@ -58,8 +48,8 @@ i Papée, Fr.
     Sruogienė, V. : _Sofija Vytautaitė,_ LE, t. 28, 271-273 p. — _Vytautas,_
     MLTE, III, 811-813 p.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -30,22 +30,6 @@ Narbutas Sipapilį lokalizavo Bartos vietoje, kur Gubros upė susilieja su Alna.
 - t-001
   global_id: t-192803
   teiginys: "Narbutas Sipapilį lokalizavo Bartos vietoje, kur Gubros upė susilieja su Alna."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Sipapilis priklausė Barta (0.86)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "651901-652437; hash=7668da093af3e654003de431aa78f713e9e1a2d6390b56d790946f6da925078b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Barta: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Sipapilis: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Barta: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Sipapilis lokalizuojamas Bartos provincijos vietoje."
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175573
 
@@ -53,22 +37,6 @@ Narbutas Sipapilį lokalizavo Bartos vietoje, kur Gubros upė susilieja su Alna.
 - t-002
   global_id: t-192804
   teiginys: "Narbutas Sipapilio pavadinimą siejo su senaisiais vardais Sepenbil, Scheppenbil ir Szeffenbil bei teisėjo būsto reikšme."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Sipapilis priklausė Barta (0.78)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "654085-654417; hash=b03321b894284cc7c4ed7a0a3d253d434bc2819156c42b49ffa06a220d95d099; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Barta: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Sipapilis: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Barta: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Sipapilio kontekste sakoma, kad čia gyveno Bartos karaliukas, todėl vieta siejama su Barta."
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175574
 ## Reikšmingi paminėjimai
@@ -92,8 +60,8 @@ Narbutas Sipapilį lokalizavo Bartos vietoje, kur Gubros upė susilieja su Alna.
     rie galėjo patvirtinti prielaidą, jog ten kitados turėjo būti
     Romovės šventykla.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -115,8 +83,8 @@ Narbutas Sipapilį lokalizavo Bartos vietoje, kur Gubros upė susilieja su Alna.
     kiečių kalba reikštų Schoeppen, arba Schoeffen, t. y. tei­
     sėjo. būstą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -172,6 +140,3 @@ Narbutas Sipapilį lokalizavo Bartos vietoje, kur Gubros upė susilieja su Alna.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192804
-
-## Ryšiai
-- Sipapilis priklausė [[objektai/vietos/Barta]]

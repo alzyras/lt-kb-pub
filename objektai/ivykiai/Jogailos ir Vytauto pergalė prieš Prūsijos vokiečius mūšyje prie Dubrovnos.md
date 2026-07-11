@@ -60,20 +60,6 @@ Nenurodyta
 - t-001
   global_id: t-186604
   teiginys: "Lietuvos metraščio pasakojime prie Dubrovnos Jogaila, Vytautas ir Prūsijos magistras sutelkė didžiules kariuomenes."
-  teiginio_tipas: "saltinio_teiginys"
-  semantiniai_rysiai: "Lenkai dalyvavo mūšyje Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos (mūšis, XV a.) (0.78); Lietuviai dalyvavo mūšyje Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos (mūšis, XV a.) (0.78); Vokiečiai dalyvavo mūšyje Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos (mūšis, XV a.) (0.68)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "183481-184668; hash=38947cf6552d43770a5e2c55f71d747f1066dadbfd1e7d6c423c03820b51f9e6; match=whitespace_regex"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
-  ryšio_patikimumas: "dalyvavo_musyje -> Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos (mūšis, XV a.): 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lenkai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos (mūšis, XV a.): llm_allowed_candidate, event"
-  ryšio_paaiskinimas: "Lenkai įvardyti kaip kariuomenės dalis mūšio prie Dubrovnos kontekste."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-169894
 
@@ -81,17 +67,6 @@ Nenurodyta
 - t-002
   global_id: t-186605
   teiginys: "Lietuvos metraštis pasakoja, kad vokiečiai prie Dubrovnos buvo prikasę duobių ir pridengę jas velėnomis."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "183481-184668; hash=38947cf6552d43770a5e2c55f71d747f1066dadbfd1e7d6c423c03820b51f9e6; match=whitespace_regex"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
-  ryšio_patikimumas: "susije_su -> Dubrovna: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos (mūšis, XV a.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Dubrovna: mention_match, place, gap=15"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos (mūšis, XV a.)\" parinktas kaip owner_note_path. Targetas \"Dubrovna\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-169894
 
@@ -99,17 +74,6 @@ Nenurodyta
 - t-003
   global_id: t-186606
   teiginys: "Lietuvos metraštis pasakoja, kad po pergalės buvo paimta daug vokiečių miestų ir žemių."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "186781-187373; hash=a6f3cbc742458b9dd2eb06b2d7435a96e5990c4de773a9548dbaa3602dd58746; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
-  ryšio_patikimumas: "susije_su -> Vokiečiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos (mūšis, XV a.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Vokiečiai: mention_match, group, gap=26"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jogailos ir Vytauto pergalė prieš Prūsijos vokiečius mūšyje prie Dubrovnos (mūšis, XV a.)\" parinktas kaip owner_note_path. Targetas \"Vokiečiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-169893
 
@@ -117,20 +81,6 @@ Nenurodyta
 - t-004
   global_id: t-186607
   teiginys: "Lietuvos metraštis pasakoja, kad po pergalės prie Dubrovnos vokiečių vėliavos ir nuo magistro bei komtūrų nuplėštos barzdos padalytos Lenkijai ir Lietuvai."
-  teiginio_tipas: "saltinio_teiginys"
-  semantiniai_rysiai: "Vėliavos priklausė Vokiečiai (0.88); Vėliavos priklausė Lenkija (0.78); Vėliavos priklausė Lietuva (0.78)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "186781-187373; hash=a6f3cbc742458b9dd2eb06b2d7435a96e5990c4de773a9548dbaa3602dd58746; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
-  ryšio_patikimumas: "priklause -> Vokiečiai: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vėliavos: llm_allowed_candidate, thing"
-  ryšio_targeto_parinkimas: "Vokiečiai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Formuluotė „vokiečių vėliavos“ tiesiogiai rodo vėliavų priklausymą vokiečiams."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-169893
 
@@ -138,12 +88,6 @@ Nenurodyta
 - t-005
   global_id: t-193850
   teiginys: "Lietuvos metraštis teigia, kad aPIE JOGAILOS IR VYTAUTO KARĄ SU PROSUOS VOKIEČIAIS IR APIE JŲ NUGALĖJIMĄ MOSYJE PRIE DUBROVNOS Sesi tūkstančiai devyni šimtai dvidešimt pirmaisiais metais nuo pasaulio sutvėrimo, o nuo dievo gimimo tūkstantis keturi šimtai dvyliktaisiais metais 1 prasidė jo."
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "183481-184668; hash=38947cf6552d43770a5e2c55f71d747f1066dadbfd1e7d6c423c03820b51f9e6; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-169894
 
@@ -151,12 +95,6 @@ Nenurodyta
 - t-006
   global_id: t-193851
   teiginys: "Karalius Jogaila ir didysis kunigaikštis Vytautas, su savo kariuomenėmis perėję per miškus, priėjo tuos Dubrovnos laukus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "184669-185074; hash=d3acdcc1d9a41459045810039b1c4ee46ea7a17a08bfb02a9395b4a572ae1521; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176491
 ## Reikšmingi paminėjimai
@@ -181,8 +119,8 @@ Nenurodyta
     nyčioje, o Vilniuje taip pat švento Stanislovo (ka­
     tedroje) ia.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -217,8 +155,8 @@ Nenurodyta
     lauke, ir todėl prikasė duobių ir pridengė velėnomis,
     kad žirgai ir žmonės į jas įgriūtų3 .
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -239,8 +177,8 @@ Nenurodyta
     2adivydas7 , Jogailos ir Vytauto brolis8 , o kiemo et­
     monu — ponas Jonas Goštautas9 .
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -336,6 +274,3 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193851
-
-## Ryšiai
-- Turėjo dalyvį: [[objektai/grupes/Lenkai]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Vokiečiai]]

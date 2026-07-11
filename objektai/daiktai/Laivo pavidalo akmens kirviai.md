@@ -52,16 +52,6 @@ Nenurodyta
 - t-001
   global_id: t-71566
   teiginys: "Laivo pavidalo akmens kirviai su skyle kotui įstatyti išskiriami kaip būdingas neolito įrankis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "276900-277412; hash=84476e03088a1516d32f549202fb6d8403c163e43579084713bee2815f82f72b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilniaus gaisro gesinimo įrankiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Laivo pavidalo akmens kirviai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Vilniaus gaisro gesinimo įrankiai: mention_match, thing, gap=87"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Laivo pavidalo akmens kirviai\" parinktas kaip owner_note_path. Targetas \"Vilniaus gaisro gesinimo įrankiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-70132
 ## Reikšmingi paminėjimai
@@ -78,8 +68,8 @@ Nenurodyta
     linių amforų kultūra^7. Kita svarbi šios kultūros žymė buvo gražios
     formos ir meniškai virvučių įspaudomis papuošti puodai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -47,21 +47,6 @@ Mitologijos tyrimų kritinės metodologijos terminas.
 - t-001
   global_id: t-189300
   teiginys: "Kabinetinės mitologijos sąvoka čia taikoma faktams, kuriuos tyrinėtojams reikia atskirti nuo lietuvių, prūsų, latvių ar kitų baltų mitologijos medžiagos."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "62364-63062; hash=1aec4d7e9c3dbc286250b2e9b6466000a3e98f52442086c22c99b5785dfc935b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Baltai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "kabinetinė mitologija: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Baltai: mention_match, group, gap=125"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"kabinetinė mitologija\" parinktas kaip owner_note_path. Targetas \"Baltai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171042
 ## Reikšmingi paminėjimai
@@ -82,8 +67,8 @@ Mitologijos tyrimų kritinės metodologijos terminas.
     produktas. Ir pagaliau dar reikia atskirti, kurie faktai priklau­
     so lietuvių, o kurie -  prūsų, latvių ar kitų baltų mitologijai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -94,7 +79,8 @@ Mitologijos tyrimų kritinės metodologijos terminas.
 - id: c-171042
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 35"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 35."
   citata_originali: |
     Deja, T. Narbutas šito nepadarė ir dėl to užsitraukė sau falsi-
     fikatoriaus nešlovę, o būsimiems lietuvių mitologijos tyrinė­

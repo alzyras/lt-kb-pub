@@ -39,12 +39,6 @@ Klimąszewskiego.
 - t-001
   global_id: t-194150
   teiginys: "Klimąszewskiego."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "683886-683983; hash=0c796dfd80d95b5599d2b1d96176fca71e9a6ef15a518532bea2b52a8463bc9a; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176763
 ## Reikšmingi paminėjimai
@@ -56,8 +50,8 @@ Klimąszewskiego.
     Noworocznik Utew ski na rok 1831. w ydany przez H. Klimą-
     szewskiego.  W ilno, 1830, s. 91— 102.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

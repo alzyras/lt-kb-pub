@@ -43,16 +43,6 @@ Preussens aeltere Geschichte, Band II, p. 353) - atsiskleidžia šio išskirti­
 - t-001
   global_id: t-88162
   teiginys: "Augustas Kotzebue veikale „Preussens aeltere Geschichte“ išspausdino Gedimino laiškus dominikonams, pranciškonams ir Hanzos miestams."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "67190-68139; hash=e7644186d7633a17dc0a719d794e93b2f50666aa985cddc619feb3a570e2324c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Preussens aeltere Geschichte: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=42"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Preussens aeltere Geschichte\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-84142
 
@@ -60,16 +50,6 @@ Preussens aeltere Geschichte, Band II, p. 353) - atsiskleidžia šio išskirti­
 - t-002
   global_id: t-88163
   teiginys: "Augustas Kotzebue į „Preussens aeltere Geschichte“ įdėjo tris Gedimino laiškus iš slaptojo Kryžiuočių archyvo Karaliaučiuje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "136711-137150; hash=c1d82811da584f8b6f11da1412ab9c3f46e0635435c7cb02f69acacbe462aae6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Preussens aeltere Geschichte: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=70"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Preussens aeltere Geschichte\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-84141
 ## Reikšmingi paminėjimai
@@ -89,8 +69,8 @@ Preussens aeltere Geschichte, Band II, p. 353) - atsiskleidžia šio išskirti­
     Kotzebue etc., Riga, 1808 4 D. 8-vo, iš Il t., p. 353 ir seąu.
     Foigto vertimas į len kųk ir teksto lotynų k. pataisymai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -133,8 +113,8 @@ Preussens aeltere Geschichte, Band II, p. 353) - atsiskleidžia šio išskirti­
     amatininkus, žemdirbius ir dvasi­
     ninkus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -35,16 +35,6 @@ Vos tik čionai atėjo žinia apie tą sutartį, Varmės vysku­ pas Eberhardas,
 - t-001
   global_id: t-86227
   teiginys: "Pomezanijos vyskupas Rudolfas Elblionge dalyvavo pasitarime dėl taikos sutarties."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "176021-177149; hash=bef9323d457b3864381f9e14cced233651c83ed30c1377342d1e8ca7aa35c562; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Elbliongas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Pomezanija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Elbliongas: mention_match, place, gap=30"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pomezanija\" parinktas kaip owner_note_path. Targetas \"Elbliongas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-82206
 - susijęs iš [[objektai/asmenys/Mikolajus Kulmietis.md#claim-t-87790|Mikolajus Kulmietis]]: Mikolajus Kulmietis buvo neseniai miręs, kai Varmės, Sembos ir Pomezanijos vyskupai Elbinge surengė pasitarimą.
@@ -90,8 +80,8 @@ Vos tik čionai atėjo žinia apie tą sutartį, Varmės vysku­ pas Eberhardas,
     myniniams kraštams. Jie rašo: „Tie velnio sūnūs savo suk­
     tybėmis klastingai sandėriais taikosi jus ir mus pražudytip.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

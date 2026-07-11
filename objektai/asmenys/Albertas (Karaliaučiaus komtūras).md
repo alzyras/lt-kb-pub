@@ -32,17 +32,6 @@ Dusburgietis teigia, kad žygio prieš Lietuvą metu Karaliaučiaus komtūrui br
 - t-001
   global_id: t-60228
   teiginys: "Dusburgiečio pasakojime per žygį prieš Lietuvą besimeldžiančiam Karaliaučiaus komtūrui Albertui prie burnos pasirodė komunijos paplotėlis."
-  semantiniai_rysiai: "Albertas (Karaliaučiaus komtūras) surengė žygį į Lietuva (0.72)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "41509-41920; hash=4a600ae313f909e155e5ab566c30d2b0fee876f79a111dc275f71a0db48aa957; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "surenge_zygi_i -> Lietuva: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Albertas (Karaliaučiaus komtūras): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai sieja Albertą su žygiu prieš Lietuvą, nors jis aprašomas kaip žygio dalyvis, ne vienintelis organizatorius."
   pagrindžia:
     - c-60860
 ## Reikšmingi paminėjimai
@@ -58,8 +47,8 @@ Dusburgietis teigia, kad žygio prieš Lietuvą metu Karaliaučiaus komtūrui br
     kryžiaus ženklu, Jėzaus Kristaus padedami, sėkmingai prasiveržė pro didžiulę lietuvių
     kariuomenę (III, 251).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -70,7 +59,8 @@ Dusburgietis teigia, kad žygio prieš Lietuvą metu Karaliaučiaus komtūrui br
 - id: c-60860
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 17"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 17."
   citata_originali: |
     Kitąkart mūšio metu danguje pasirodžiusi
     mergelė Marija  (III, 141). Žygio prieš Lietuvą metu Karaliaučiaus komtūrui broliui
@@ -85,6 +75,3 @@ Dusburgietis teigia, kad žygio prieš Lietuvą metu Karaliaučiaus komtūrui br
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60228
-
-## Ryšiai
-- Albertas (Karaliaučiaus komtūras) surengė žygį į [[objektai/vietos/Lietuva]]

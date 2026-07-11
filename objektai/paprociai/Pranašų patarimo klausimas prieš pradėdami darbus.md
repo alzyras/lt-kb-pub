@@ -45,21 +45,6 @@ Nenurodyta
 - t-001
   global_id: t-189857
   teiginys: "Narbutas vaizdavo lietuvius kaip prieš darbus pranašų patarimo klausdavusius žmones, o Krivių Krivaitį vadino gyvu orakulu."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "529292-530225; hash=2ce2b0df076a80e9aa02b2065259b7961b4e13e5d088f52b041d47b1fa386a02; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Burtininkai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Pranašų patarimo klausimas prieš pradėdami darbus: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Burtininkai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pranašų patarimo klausimas prieš pradėdami darbus\" parinktas kaip owner_note_path. Targetas \"Burtininkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172740
 ## Reikšmingi paminėjimai
@@ -86,8 +71,8 @@ Nenurodyta
     buvo nutarimų politiniais, teismo^ religijos klausimais pagrin­
     das.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -98,7 +83,8 @@ Nenurodyta
 - id: c-172740
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 303"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 303."
   citata_originali: |
     Alanai, senieji kai ku­
     rių plačiosios Lietuvos sričių gyventojai, arba veikiau klajok­

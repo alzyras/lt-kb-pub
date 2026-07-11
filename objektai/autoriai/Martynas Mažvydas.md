@@ -39,12 +39,6 @@ Kulvietis bandė įvykdyti emigracijoje, kur kartu su Stanislovu Rapolioniu tapo
 - t-001
   global_id: t-193712
   teiginys: "Kulvietis bandė įvykdyti emigracijoje, kur kartu su Stanislovu Rapolioniu tapo pirmaisiais ką tik (1544) įkurto Karaliaučiaus universiteto profesoriais, o jų programos dalimi ir reikia laikyti 1547 m. išleistą Martyno Mažvydo „Katekizmą“."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "116032-117220; hash=b0106deb2eaac213a90d8f166fb8cd3170f3955313ca629b53da943bb3dee2c3; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176381
 ## Reikšmingi paminėjimai
@@ -70,8 +64,8 @@ Kulvietis bandė įvykdyti emigracijoje, kur kartu su Stanislovu Rapolioniu tapo
     lietuviakalbės raštijos sureikšminimui ir oficialaus statuso suteikimo pro-
     jektui Lietuvos visuomenė nebuvo pasirengusi.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

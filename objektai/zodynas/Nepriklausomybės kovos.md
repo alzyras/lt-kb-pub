@@ -40,20 +40,6 @@ Gimstanti Pirmoji Lietuvos Respublika 1919-1920 m. turėjo kariauti Nepriklausom
 - t-001
   global_id: t-42425
   teiginys: "1919-1920 m. Nepriklausomybės kovose Pirmoji Lietuvos Respublika kariavo prieš bolševikus, stabdė juos prie Jiezno ir Kėdainių ir vijosi iki Daugpilio."
-  semantiniai_rysiai: "Lietuvos Respublika kariavo prieš Bermontininkai (0.90); Lietuvos Respublika kariavo prieš Lenkai (0.88)"
-  temporaliniai_duomenys: "mūšio data: 1919-1920; mūšio data: 1920 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra faktinis sakinys apie Nepriklausomybės kovas ir atitinka citatą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "21813-22546; hash=bce30202e49ca1982bdd35afb6c04adc8efc83f7da87861d1c8d40d61898ddd3; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Bermontininkai: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuvos Respublika: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Bermontininkai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata nurodo, kad Lietuvos Respublika buvo priversta kautis su bermontininkais."
   pagrindžia:
     - c-45497
 - susijęs iš Antano Šukio prisiminimai Du mediniai ir trys geležiniai kryžiai: Antano Šukio „Du mediniai ir trys geležiniai kryžiai“ yra atsiminimai apie Lietuvos nepriklausomybės kovas 1919-1921 metais.
@@ -84,8 +70,8 @@ Gimstanti Pirmoji Lietuvos Respublika 1919-1920 m. turėjo kariauti Nepriklausom
     net jei už jį Lietuva siūlė žemę, vis tiek pagalvokim, kokia auka
     buvo siūloma atgimstančiai valstybei.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -51,11 +51,6 @@ Nenurodyta
 - t-001
   global_id: t-66899
   teiginys: "Po Smolensko atsiėmimo tuo metu buvo išvengta karo su Maskva ir Pskovu, kuris taip pat rengėsi karui dėl Smolensko."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "hash=231e2991619a84ea078c3453e3b5569abef4a421849fd93f2abd9f9c77189e92; match=normalized; occurrences=1"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-66995
 ## Reikšmingi paminėjimai
@@ -75,8 +70,8 @@ Nenurodyta
     karo buvo išvengta ir su Maskva ir su Pskovu, kuris dėl Smo-
     lensko taip pat buvo bepradedąs karą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -40,18 +40,6 @@ Suardžius Maskvos ir imperatoriaus Maksimilijono I sąjungą, nukreiptą prieš
 - t-001
   global_id: t-40325
   teiginys: "Imperatorius Maksimilijonas I buvo sudaręs sąjungą su Maskva prieš Žygimantą Senąjį."
-  temporaliniai_duomenys: "įvykio data: 1515 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "348155-348446; hash=0d34d83e2bf8d5a47e472e13f639414c76a9a39950776bfe92eddac3dab310e9; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Maskva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Maksimilijonas I: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Maskva: mention_match, place, gap=54"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maksimilijonas I\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-44450
 
@@ -59,12 +47,6 @@ Suardžius Maskvos ir imperatoriaus Maksimilijono I sąjungą, nukreiptą prieš
 - t-002
   global_id: t-193760
   teiginys: "J 4 as 4 ) ANGLIJA a Atlanto vang etna < N Margaretą |."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "218674-218845; hash=aa4f2bc87d7d4cf77bcee6893f1af774abe6d07f355dc28eb0d921096cf3bc00; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176418
 ## Reikšmingi paminėjimai
@@ -81,8 +63,8 @@ Suardžius Maskvos ir imperatoriaus Maksimilijono I sąjungą, nukreiptą prieš
     jimo ryškiausia manifestacija buvo 1515 m.
     suvažiavimas Vienoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -110,8 +92,8 @@ Suardžius Maskvos ir imperatoriaus Maksimilijono I sąjungą, nukreiptą prieš
 
     Margaretą |. Buvo sudaryta Kalmaro unija, sujungusi visas tris Skandinavijos |.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

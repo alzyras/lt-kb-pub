@@ -39,19 +39,6 @@ Tuo pat laiku (1382 birželio gale) kryžiuočiai įsiveržę Lietuvon ir sunaik
 - t-001
   global_id: t-32154
   teiginys: "1382 m. birželio pabaigoje kryžiuočiai Kauno apylinkėje prie Neries sunaikino Eigulių pilį."
-  semantiniai_rysiai: "Jogaila (kunigaikštis, XIV–XV a.) sudarė sutartį su Kryžiuočių ordinas (0.91); Kryžiuočių ordinas puolė Eigulių pilis (pilis) (0.76)"
-  temporaliniai_duomenys: "įvykio data: 1382 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "756850-757236; hash=c29ec0b216d0cb8317e08e359d0b2b046a580a4b76c79afec9549c9365704960; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "sudare_sutarti_su -> Kryžiuočių ordinas: 0.91"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Jogailos sutarties pasirašymą su Ordinu."
   pagrindžia:
     - c-33837
 ## Reikšmingi paminėjimai
@@ -66,8 +53,8 @@ Tuo pat laiku (1382 birželio gale) kryžiuočiai įsiveržę Lietuvon ir sunaik
     žuolės kaime liepos 6 d. Jogaila su ordinu pasirašė naują sutartį,
     pasižadėdami iki rugsėjo 8 d. vienas kito nepuldinėti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -93,6 +80,3 @@ Tuo pat laiku (1382 birželio gale) kryžiuočiai įsiveržę Lietuvon ir sunaik
   patikimumo_saltinis: ai
   pagrindzia:
     - t-32154
-
-## Ryšiai
-- Puolė Eigulių pilį (pilis): [[objektai/grupes/Kryžiuočių ordinas]]

@@ -31,20 +31,6 @@ Lietuvių kariams buvo įsakyta traukti su grobiu į stovyklą netoli Zavichosto
 - t-001
   global_id: t-185257
   teiginys: "Lietuvių kariams buvo įsakyta traukti su grobiu į stovyklą netoli Zavichosto."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Lietuviai keliavo į Zavichostas (0.66)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "482264-482971; hash=46561665ab86133af1e23faea97f6860d4ef2afac6a117cc5111f3a10362cc3a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Zavichostas: 0.66"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Zavichostas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Lietuvių kariams buvo įsakyta traukti į stovyklą netoli Zavichosto, todėl kryptis siejama su Zavichostu."
   pagrindžia:
     - c-168618
 
@@ -52,22 +38,6 @@ Lietuvių kariams buvo įsakyta traukti su grobiu į stovyklą netoli Zavichosto
 - t-002
   global_id: t-187690
   teiginys: "Lietuvių kariai, primetę į miestą pagalių, sudegino visą Zavichostą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Lietuviai puolė Zavichostas (0.86)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "149528-149839; hash=c0d7004b14d27f41590ccfbf5f40f3b97dfa6fa9068c473791eb711a6022f417; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Zavichostas: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Zavichostas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Zavichosto sudeginimas lietuvių karių veiksmais tiesiogiai rodo miesto puolimą."
-  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-170630
 - susijęs iš [[objektai/ivykiai/1376 m. lietuvių žygis į pietų Lenkiją prie Zavichosto.md#claim-t-186706|1376 m. lietuvių žygis į pietų Lenkiją prie Zavichosto]]: Šio leidimo komentare pažymima, kad BK pasakojimas apie Zavichosto užėmimą ir nusiaubimą kituose šaltiniuose nėra paliudytas.
@@ -101,8 +71,8 @@ Lietuvių kariams buvo įsakyta traukti su grobiu į stovyklą netoli Zavichosto
     manta, manydami, jog priešas nieku būdu neįstengs
     persikelti per upę.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -122,8 +92,8 @@ Lietuvių kariams buvo įsakyta traukti su grobiu į stovyklą netoli Zavichosto
     miestų ir kaimų ligi pat Vislicos8 , ir daug ponių bei
     panelių parsivarė nelaisvėn.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -134,7 +104,8 @@ Lietuvių kariams buvo įsakyta traukti su grobiu į stovyklą netoli Zavichosto
 - id: c-168618
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 275"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 275."
   citata_originali: |
     Apie šį karą su lenkais nieko nepasakoja
     Kromeris, tačiau, kad kas nepasigestų to, ką aprašo
@@ -180,7 +151,3 @@ Lietuvių kariams buvo įsakyta traukti su grobiu į stovyklą netoli Zavichosto
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187690
-
-## Ryšiai
-- Buvo kelionės vieta: [[objektai/grupes/Lietuviai]]
-- Puolė Zavichostą: [[objektai/grupes/Lietuviai]]

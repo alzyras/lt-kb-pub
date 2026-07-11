@@ -34,9 +34,6 @@ Dusburgietis teigia, kad kam mes gimėme, kad matytume savo tautos sunaikinimą 
 - t-001
   global_id: t-59088
   teiginys: "Broliai posakiu „Deja mums? Kam mes gimėme?“ apgailestavo dėl tautos ir žemės sunaikinimo bei atidavimo nedraugams."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "295873-296208; hash=5db2649f40f6e8f0c617f0d615ba11bc9057496c7e2f0bb8c08f415254d5ff3b; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-59720
 ## Reikšmingi paminėjimai
@@ -51,8 +48,8 @@ Dusburgietis teigia, kad kam mes gimėme, kad matytume savo tautos sunaikinimą 
     ji atiduodama  į nedraugų rankas?“ „...jos seneliai užmušti, jos jaunikaičiai žuvo nuo
     nedraugų kalavijo“.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -63,7 +60,8 @@ Dusburgietis teigia, kad kam mes gimėme, kad matytume savo tautos sunaikinimą 
 - id: c-59720
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 89"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 89."
   citata_originali: |
     Jiems pasitraukus, broliai, išvydę visas nelaimes, pridarytas
     žmonėms, kalbėjo vieni kitiems (1 Mak 2, 7 ir toliau): „Deja mums? Kam mes gimėme,

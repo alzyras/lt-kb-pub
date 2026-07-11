@@ -46,11 +46,6 @@ Simono Grunau kronika minima kaip Prūsijos šaltinis, kuriuo romantikai rėmė 
 - t-001
   global_id: t-23409
   teiginys: "Simono Grunau kronikoje Rikojoto šventykla aprašoma kaip papuošta trimis stabais, vaizduojančiais tris prūsų dievus."
-  sudarymo_pagrindimas: "Teiginys yra pilnas faktinis sakinys apie Simono Grunau kronikos turinį."
-  susije_objektai: "mentioned_author: [[objektai/autoriai/Simono Grunau|Simono Grunau]]; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "34654-35211; hash=ea44a0ffb8e3fbac1133ca80ab4cbe2ba09e42814848be205916489e7b3e63fb; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-175825
 
@@ -58,10 +53,6 @@ Simono Grunau kronika minima kaip Prūsijos šaltinis, kuriuo romantikai rėmė 
 - t-003
   global_id: t-23411
   teiginys: "Simono Grunau kronikoje Rikojotas apibūdinamas kaip prūsų dievų kulto centras."
-  susije_objektai: "mentioned_author: [[objektai/autoriai/Simono Grunau|Simono Grunau]]; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "34654-35211; hash=ea44a0ffb8e3fbac1133ca80ab4cbe2ba09e42814848be205916489e7b3e63fb; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-175825
 
@@ -69,10 +60,6 @@ Simono Grunau kronika minima kaip Prūsijos šaltinis, kuriuo romantikai rėmė 
 - t-004
   global_id: t-23412
   teiginys: "Simono Grunau kronikoje Rikojotas vadinamas prūsų dievų kulto centru su ąžuolu ir po juo įsikūrusia šventykla."
-  susije_objektai: "mentioned_author: [[objektai/autoriai/Simono Grunau|Simono Grunau]]; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "34654-35211; hash=ea44a0ffb8e3fbac1133ca80ab4cbe2ba09e42814848be205916489e7b3e63fb; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-175825
 
@@ -80,11 +67,6 @@ Simono Grunau kronika minima kaip Prūsijos šaltinis, kuriuo romantikai rėmė 
 - t-005
   global_id: t-26928
   teiginys: "Romantikai rėmėsi XVI-XVII a. Prūsijos šaltiniais, kuriuose kronikininkai kalbėjo apie prūsų dievus."
-  sudarymo_pagrindimas: "Pradinis teiginys buvo fragmentas; citata leidžia sudaryti pilną sakinį."
-  susije_objektai: "mentioned_author: [[objektai/autoriai/Simono Grunau|Simono Grunau]]; mentioned_place: Prūsija; mentioned_place: Prūsų žemė"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "34654-35211; hash=ea44a0ffb8e3fbac1133ca80ab4cbe2ba09e42814848be205916489e7b3e63fb; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-175825
 
@@ -92,16 +74,6 @@ Simono Grunau kronika minima kaip Prūsijos šaltinis, kuriuo romantikai rėmė 
 - t-009
   global_id: t-193059
   teiginys: "Narbutas Simoną Grunau vadina suniekintu, bet didesnės pagarbos vertu kronikininku, nors pripažįsta jo šališkumą ir nekritiškumą."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "779999-780518; hash=8616106b8eaa9d1119f14f2531bcee478f8b3db0a054524fafd5443fde6b96ad; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Simono Grunau kronika: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Simono Grunau kronika\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-175826
 
@@ -109,20 +81,6 @@ Simono Grunau kronika minima kaip Prūsijos šaltinis, kuriuo romantikai rėmė 
 - t-008
   global_id: t-193060
   teiginys: "Narbutas rašo, kad Grunau pasakojo dalyvavęs ožio aukojimo išpažintyje ir prisiekęs Perkūnui neišduoti apeigos vyskupui."
-  semantiniai_rysiai: "Simonas Grunau gyveno Prūsija (0.74)"
-  temporaliniai_duomenys: "gyvenimo laikotarpis: iki 1529 m.; gyvenimo laikotarpis: po 1521 m.; gyvenimo laikotarpis: 1521 m.; gyvenimo laikotarpis: 1529 m.; gyvenimo laikotarpis: 1679 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Simonas Grunau gyveno Prūsija“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Mitologinis apeigos pasakojimas suformuluotas kaip Narbuto perteikta Grunau žinia. Nepridėta platesnių išvadų apie lietuvių religiją ar išpažinties tikrumą."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "560516-560865; hash=12cdd5712e7bd9aee5f21c7f43fd06a4cb49710c54ce2efaf4d262b7f3da0dc3; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Prūsija: 0.74"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Simonas Grunau: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata lokalizuoja Simono Grunau veiklą Prūsijoje; tai pakankamai palaiko gyvenimo ar buvimo vietos ryšį."
   pagrindžia:
     - c-175827
 
@@ -130,14 +88,6 @@ Simono Grunau kronika minima kaip Prūsijos šaltinis, kuriuo romantikai rėmė 
 - t-002
   global_id: t-193061
   teiginys: "Simonas Grunau XVI a. 3-iajame dešimtmetyje parašė Prūsijos istoriją, kurioje plačiai rėmėsi Petru iš Dusburgo."
-  sudarymo_pagrindimas: "Citata tiesiogiai pagrindžia konkretesnį teiginį apie Simono Grunau kroniką."
-  susije_objektai: "mentioned_author: [[objektai/autoriai/K. Hartknochas|K. Hartknochas]]; mentioned_person: [[objektai/asmenys/Simonas Grunau|Simonas Grunau]]; mentioned_place: Prūsija; llm_object: Prūsija"
-  temporaliniai_duomenys: "įvykio data: iki 1529 m.; įvykio data: po 1521 m.; įvykio data: 1521 m.; įvykio data: 1529 m.; įvykio data: 1679 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata tiesiogiai pagrindžia konkretesnį teiginį apie Simono Grunau kroniką."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "53973-54393; hash=9e6d1a62b5c854befa5655ad363d29bd8ef1a585755826dad57eb84f5847058d; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-175828
 
@@ -145,12 +95,6 @@ Simono Grunau kronika minima kaip Prūsijos šaltinis, kuriuo romantikai rėmė 
 - t-010
   global_id: t-194680
   teiginys: "Pasvėrę visa tai ir tas pačias smulkmenas, kuriomis Grunau ne kartą pagelbėjo rūsčiai jį kritikavusiam ponui Foigtui, taip pat turėdami omenyje kronikininkams būdingus trūku mus, negalime neginti Grunau15."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "780916-781482; hash=c6c57800f71cee9be3458f22269a1ddd3f2885833e6f18d3069295578549d63e; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177077
 ## Reikšmingi paminėjimai
@@ -167,8 +111,8 @@ Simono Grunau kronika minima kaip Prūsijos šaltinis, kuriuo romantikai rėmė 
     ir griausmų dievas, o trečiasis – javų dievas Patrimpas. Aprašomas šių
     dievų kultas ir kulto tarnų hierarchija, vaidilutės.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -191,8 +135,8 @@ Simono Grunau kronika minima kaip Prūsijos šaltinis, kuriuo romantikai rėmė 
     arba nesuprantamų įvykių tyrėjas, turintis rankose gausų šal­
     11 Sirvydo žodynas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -208,8 +152,8 @@ Simono Grunau kronika minima kaip Prūsijos šaltinis, kuriuo romantikai rėmė 
     patekęs į kaimą, į ožio aukojimą. Jis net turėjęs prisiekti Per­
     kūnui, kad tos apeigos neišduosiąs vyskupui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -225,8 +169,8 @@ Simono Grunau kronika minima kaip Prūsijos šaltinis, kuriuo romantikai rėmė 
        Pirmąjį Dusburgiečio kronikos leidimą parengė K. Hartknochas (Karaliaučius, 1679
     m.)82.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -251,8 +195,8 @@ Simono Grunau kronika minima kaip Prūsijos šaltinis, kuriuo romantikai rėmė 
     nėra pagrindo tvirtinti, kad anoje kronikoje to nebuvo, ka­
     dangi numylėtinis Lukas Davidas būtų iš jos paėmęs tą patį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -286,7 +230,8 @@ Simono Grunau kronika minima kaip Prūsijos šaltinis, kuriuo romantikai rėmė 
 - id: c-175826
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 431"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 431."
   citata_originali: |
     1.
     Seniausias žinomas šito šaltinis yra Simonas Grunau,
@@ -308,7 +253,8 @@ Simono Grunau kronika minima kaip Prūsijos šaltinis, kuriuo romantikai rėmė 
 - id: c-175827
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 319"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 319."
   citata_originali: |
     Strijkovskis, įsitikinęs, kad lietuviai atlikdavo išpa­
     žintį, rašo apie tai 147 puslapyje, remdamasis senųjų kroniki­
@@ -326,7 +272,8 @@ Simono Grunau kronika minima kaip Prūsijos šaltinis, kuriuo romantikai rėmė 
 - id: c-175828
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 20"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 20."
   citata_originali: |
     Per Dlugošą Dusburgiečio kronikos faktus panaudojo kai kurie vėlesni autoriai. XVI a.
     3-ame dešimtmetyje Simonas Grunau Prūsijoje parašė (išplėsdamas 1-ąją dominikonų

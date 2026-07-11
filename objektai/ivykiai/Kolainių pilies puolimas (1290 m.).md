@@ -58,19 +58,6 @@ Pilis liko nepaimta.
 - t-002
   global_id: t-70947
   teiginys: "1290 m. balandžio 23 d. Meinhardas su 500 raitelių ir 2 tūkst. pėstininkų puolė Kolainių pilį, kurią gynė Surminas su 120 vyrų."
-  semantiniai_rysiai: "Surminas gynė Kolainiai (0.91)"
-  temporaliniai_duomenys: "įvykio data: 1290 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "559643-560069; hash=a4485cd96ab5d634a2b2e5ddc610959e11d5b1ab1a92118bcbc4e2041e8fc57c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyne -> Kolainiai: 0.91"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Surminas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kolainiai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Surminas gynė Kolainių pilį."
   pagrindžia:
     - c-69731
 
@@ -78,16 +65,6 @@ Pilis liko nepaimta.
 - t-003
   global_id: t-70948
   teiginys: "Kolainių apgula nutrūko, kai sargybos raitelių triukšmo išgąsdinti paprasti kariai pabėgo prie laivų."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "559935-560590; hash=e390b53d2b5f5bc4a80b757dc3d7d65ca133400d97bd52f63c6473d7572cab13; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kolainiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kolainių pilies puolimas (1290 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Kolainiai: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kolainių pilies puolimas (1290 m.)\" parinktas kaip owner_note_path. Targetas \"Kolainiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-69732
 ## Reikšmingi paminėjimai
@@ -103,11 +80,11 @@ Pilis liko nepaimta.
     kraujas tekėjo, tarsi patvinęs vanduo », ir tik 12 gynėjų likę nesu­
     žeisti. Bet pilis liko nepaimta^3.
   citata_rodoma: ''
+  statusas: verified
+
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  statusas: verified
-
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -117,8 +94,8 @@ Pilis liko nepaimta.
     priešinosi broliams. Galop visi pilėnai, išskyrus 12 žmonių, buvo mirtinai sužeisti, kad
     nuo pilies sienų kraujas tekėjo nelyginant patvinęs liūčių vanduo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -137,8 +114,8 @@ Pilis liko nepaimta.
     apgulą. Neilgai trukus vadas Surminas paliko šią  pilį prisiekęs dievų galybe niekad
     ateityje nelaukti, kol broliai užpulsią kokią pilį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -149,7 +126,8 @@ Pilis liko nepaimta.
 - id: c-69731
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 178"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 178."
   citata_originali: |
     1290 viešpaties metais, švento Jurgio kankinio dieną (balandžio 23), brolis Meinhardas,
     magistras, smarkiai užpuolė Kolainių pilį529 su penkiais šimtais raitelių ir dviem tūkstančiais
@@ -166,7 +144,8 @@ Pilis liko nepaimta.
 - id: c-69732
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 178"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 178."
   citata_originali: |
     Galop visi pilėnai, išskyrus 12 žmonių, buvo mirtinai sužeisti, kad
     nuo pilies sienų kraujas tekėjo nelyginant patvinęs liūčių vanduo. Kai pradėjo temti,

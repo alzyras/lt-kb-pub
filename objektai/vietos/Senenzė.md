@@ -34,18 +34,6 @@ Dusburgietis teigia, kad apie Senenzės pilies puolimą ir ir bartų vado Divano
 - t-001
   global_id: t-63297
   teiginys: "Bartų vadas Divanas su 800 vyrų apsiautė Senenzės pilį ir reikalavo ją atiduoti."
-  teiginio_tipas: "saltinio_teiginys"
-  semantiniai_rysiai: "Divanas apgulė Senenzė (0.94); Bartai apgulė Senenzė (0.82)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "462029-462549; hash=6cda43e9d9e109780b4e471a8ee5ffb13d3e7c6c14ebe164e214a110d9080fef; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "apgule -> Senenzė: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Divanas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Senenzė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Divanas tiesiogiai nurodytas kaip apsiautęs Senenzės pilį."
   pagrindžia:
     - c-64338
 - susijęs iš [[objektai/ivykiai/Senenzės pilies apgula ir Divano žūtis.md#claim-t-66894|Senenzės pilies apgula ir Divano žūtis]]: Bartų vadas Divanas su aštuoniais šimtais vyrų apsiautė Senenzės pilį, bet brolis Arnoldas Krofas jį mirtinai peršovė arbaletu.
@@ -65,11 +53,11 @@ Dusburgietis teigia, kad apie Senenzės pilies puolimą ir ir bartų vado Divano
     444 D.— Schonense, Jer.— Schônensê; vėliau — Schönsee ir pan., dab. Kowalewo
     Pomorskie, gyvenvietė Kulmo žemėje  į šiaurės rytus nuo Torunės (SZCh, p. 59).
   citata_rodoma: ''
+  statusas: verified
+
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-
 - c-002
   santrauka: 'Bartų vadas Divanas su 800 vyrų apsiautė Senenzės pilį ir reikalavo ją atiduoti.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -82,8 +70,8 @@ Dusburgietis teigia, kad apie Senenzės pilies puolimą ir ir bartų vado Divano
     pastaruosius broliai apvilko savo vienuoliškais apsiaustais ir įteikė jiems savo skydelius,
     tikėdamiesi įvarysią priešams baimės, kai atrodys, jog pilyje daugiau brolių.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -94,7 +82,8 @@ Dusburgietis teigia, kad apie Senenzės pilies puolimą ir ir bartų vado Divano
 - id: c-64338
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 145"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 145."
   citata_originali: |
     165 (160). Apie Senenzės pilies puolimą ir ir bartų vado Divano žūtį
 
@@ -113,4 +102,4 @@ Dusburgietis teigia, kad apie Senenzės pilies puolimą ir ir bartų vado Divano
 
 ## Ryšiai
 - Puolė Senenzę: [[objektai/grupes/Bartai]]
-- Apgulė Senenzę: [[objektai/grupes/Bartai]], [[objektai/asmenys/Divanas]]
+- Apgulė Senenzę: [[objektai/asmenys/Divanas]]

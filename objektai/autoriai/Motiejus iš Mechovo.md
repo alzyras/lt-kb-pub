@@ -35,24 +35,6 @@ Motiejus iš Mechovo citatoje įvardijamas kaip Miechowita, Mechovita, gyvenęs 
 - t-001
   global_id: t-190355
   teiginys: "Motiejus iš Mechovo citatoje įvardijamas kaip Miechowita, Mechovita, gyvenęs 1456-1523 m."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1456-1523; įvykio data: 1523 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Bibliografinis fragmentas paverstas sakiniu apie note objektą. Nepridėta turinio apie jo kroniką, išskyrus citatoje esančią tapatybę ir datas."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "880914-881110; hash=1ff322e08679762af6729f9f978928aaa42520dae738118511451c29b61c467d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Motiejus: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Motiejus iš Mechovo: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Motiejus: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Motiejus iš Mechovo\" parinktas kaip owner_note_path. Targetas \"Motiejus\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173238
 ## Reikšmingi paminėjimai
@@ -67,8 +49,8 @@ Motiejus iš Mechovo citatoje įvardijamas kaip Miechowita, Mechovita, gyvenęs 
     ab ortu Polonorum usque ad an. 1506. -  Craco-
     viae, 1519; Cromer Martinus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -79,7 +61,8 @@ Motiejus iš Mechovo citatoje įvardijamas kaip Miechowita, Mechovita, gyvenęs 
 - id: c-173238
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 502"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 502."
   citata_originali: |
     -  Francofurti, 1709; Mie-
     chowita (Motiejus iš Mechovo, Mechovita, 1456-

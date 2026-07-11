@@ -49,9 +49,6 @@ Tai platus pajūrio kraštas tarp Išlos ir Daugavos, kuriam raštininkai priski
 - t-005
   global_id: t-69966
   teiginys: "Žemaičių kraštui buvo taikomi ir Ritland, Austurland bei Oestland vardai."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "25278-25577; hash=53c787b77c202a4ca4ce82b6ff2e2afa0de4da627acdbf9cba7b725431cc1f99; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-10528
 
@@ -59,16 +56,6 @@ Tai platus pajūrio kraštas tarp Išlos ir Daugavos, kuriam raštininkai priski
 - t-006
   global_id: t-69968
   teiginys: "To krašto gyventojai buvo siejami su gyvenimu žemai, pajūriuose."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "25578-25910; hash=02538651b7bd23b4c9272dce6ce20e3570f661382d63319a60a3c3281f544ef6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Saulė: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žemaičių kraštas (kraštas): owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Saulė: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaičių kraštas (kraštas)\" parinktas kaip owner_note_path. Targetas \"Saulė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-10529
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179435|Livonijos ordinas]]: Siena su Livonijos ordinu prasidėjo į Baltiją įtekančia Šventosios upe ir toliau rėmėsi senomis ribomis.
@@ -85,8 +72,8 @@ Tai platus pajūrio kraštas tarp Išlos ir Daugavos, kuriam raštininkai priski
         _Samland_ , iš žodžių žem ir _land_ , tai yra Žemasis kraštas, kaipo viršiau minavojau, o gyventojus to
         krašto vadino _Samländer_ , tai yra žemaičiai, beje: žmonės, gyvenantys žemai, arba pajūriais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -100,8 +87,8 @@ Tai platus pajūrio kraštas tarp Išlos ir Daugavos, kuriam raštininkai priski
         lietuviško žodžio aušra, arba aušra, ir vokiško sudėto _land_ , beje, aušros kraštas, dėl to, jog
         teutonams nuo tos pusės aušo ir saulė tekėjo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

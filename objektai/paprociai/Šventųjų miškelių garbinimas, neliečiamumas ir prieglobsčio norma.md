@@ -45,21 +45,6 @@ Nenurodyta
 - t-001
   global_id: t-189902
   teiginys: "Narbutas šventuosius miškelius aiškina kaip pirmąsias sueigų, visuomeninio gyvenimo ir religinių vizijų vietas, tapusias pirmąja tautų šventykla."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "453090-453620; hash=f5acb27054ff942ac708bb380d724de82c222b63dd164a94996fcf6777759fba; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Trakai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Šventųjų miškelių garbinimas, neliečiamumas ir prieglobsčio norma: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Trakai: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šventųjų miškelių garbinimas, neliečiamumas ir prieglobsčio norma\" parinktas kaip owner_note_path. Targetas \"Trakai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172785
 
@@ -67,14 +52,6 @@ Nenurodyta
 - t-002
   global_id: t-189903
   teiginys: "Narbutas rašo, kad šventuosiuose miškeliuose nederėjo medžioti ar gaudyti gyvūnų, o persekiojami žmonės ten rasdavę prieglobstį."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "453805-454489; hash=bc9085121c9a7ec758c01d8033c99c51840888f70730d19c5b2c718c41096bd5; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172786
 
@@ -82,14 +59,6 @@ Nenurodyta
 - t-003
   global_id: t-194641
   teiginys: "Lietuvių prisirišimas prie šventųjų miškų neišnyko iš kar to, pasikeitus tikėjimui; vietos dokumentuose, senesniuose už XVIII amžių, tarp reikšmingesnių nekilnojamojo turto objektų randame nuolat minimus miškus: kartais kalbama apie mišką su kovarniais, tai."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "455346-456149; hash=86256ad2f2c318ef479cca1d0946db8bcbf4560c6c642d6bc12867b867e9d17b; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-177039
 ## Reikšmingi paminėjimai
@@ -112,8 +81,8 @@ Nenurodyta
     mo pamatai ir čia išgyventos pirmosios religinės vizijos: taigi
     miškelis buvo pirmoji visų tautų šventykla.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -136,8 +105,8 @@ Nenurodyta
     draudžiama įžengti į tuos miškelius, bet nelaimingiesiems -
     tikriausiai ne4.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -166,8 +135,8 @@ Nenurodyta
     čiai yra įpratę krauti lizdus aukščiausiuose medžiuose, tan­
     kiausiame miške ar nuošaliausiose vietose.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -203,7 +172,8 @@ Nenurodyta
 - id: c-172786
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 262"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 262."
   citata_originali: |
     Miškelių garbinimas buvo taip sureikšmintas, kad juose
     jokiu būdu nederėjo ne tik medžioti ir gaudyti žvėris ir paukš­

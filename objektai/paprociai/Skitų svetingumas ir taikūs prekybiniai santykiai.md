@@ -51,21 +51,6 @@ Nenurodyta
 - t-002
   global_id: t-193018
   teiginys: "Pasak Narbuto, skitai dėl svetingumo priimdavo kitų tautų pirklius ir bičiuliškai sugyveno su kaimyninėmis tautomis."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "89841-90363; hash=9d35b4c657f7a454198f7a8becee9b9c18e77c9251fcea40d53785eb11a2e81a; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Chersonas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Skitų svetingumas ir taikūs prekybiniai santykiai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Chersonas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Skitų svetingumas ir taikūs prekybiniai santykiai\" parinktas kaip owner_note_path. Targetas \"Chersonas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175788
 
@@ -73,21 +58,6 @@ Nenurodyta
 - t-003
   global_id: t-193019
   teiginys: "Klajojantys skitai, iš pradžių vengę graikų atvykėlių, vėliau pradėjo su jais bendrauti ir pirkti civilizuoto pasaulio dirbinius."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "94966-95487; hash=56e55eeb0750e715ed91dfd6f211eab2e8ff5b9022c55f558bdb71bc20ee5dc2; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Graikai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Skitų svetingumas ir taikūs prekybiniai santykiai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Graikai: mention_match, group, gap=51"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Skitų svetingumas ir taikūs prekybiniai santykiai\" parinktas kaip owner_note_path. Targetas \"Graikai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175789
 
@@ -95,12 +65,6 @@ Nenurodyta
 - t-004
   global_id: t-194874
   teiginys: "Jau labai senais laikais graikai užmezgė santykius su Juodosios jūros pakrančių skitais."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "89305-89695; hash=404719e619e4be39fa94ffaf06c8fe8786e8d6f85beeb798dba673600515be48; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177270
 ## Reikšmingi paminėjimai
@@ -121,8 +85,8 @@ Nenurodyta
     34
     Skitijos geografija.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -143,8 +107,8 @@ Nenurodyta
     vivalė, krašte kilo netvarka ir neramumai, dingo vyres­
     nybė, žyniai ir teisėjai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -168,8 +132,8 @@ Nenurodyta
     Jau labai senais laikais graikai užmezgė santykius su
     Juodosios jūros pakrančių skitais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -180,7 +144,8 @@ Nenurodyta
 - id: c-175788
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 52"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 52."
   citata_originali: |
     Tai davė pradžią graikų emporiumams, arba
     prekyvietėms; jie jau VII amžiuje prieš Kristaus gimimą
@@ -203,7 +168,8 @@ Nenurodyta
 - id: c-175789
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 55"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 55."
   citata_originali: |
     Klajojantys skitai, iš karto vengę bend­
     rauti su graikų atvykėliais ir pasitraukdavę iš jų apgy­

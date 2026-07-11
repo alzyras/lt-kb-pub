@@ -45,21 +45,6 @@ Nenurodyta
 - t-001
   global_id: t-189956
   teiginys: "Narbutas žemaičių procesijų veiksmus aiškino kaip senųjų apeigų tąsą: nešant brolijų altorėlius žmonės suguldavo veidais į žemę."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "603365-603917; hash=a5afab4981d6cefce7e78b74219bccb0beaea916e09378a8dde8798a7c30d100; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Namas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žemaičių apeiginiai veiksmai katalikiškose procesijose ir šventėse: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Namas: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaičių apeiginiai veiksmai katalikiškose procesijose ir šventėse\" parinktas kaip owner_note_path. Targetas \"Namas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172839
 ## Reikšmingi paminėjimai
@@ -78,8 +63,8 @@ Nenurodyta
     vietos, dažniausiai šakelę medžio, panaudoto Viešpaties šven­
     tovei papuošti; yra daug kitų į šiuos panašių prietarų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -90,7 +75,8 @@ Nenurodyta
 - id: c-172839
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 343"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 343."
   citata_originali: |
     Perdėtai pamaldi žemaičių liaudis religiniame gyvenime
     iki šiol tebeatlieka kai kurias savo senąsias stabmeldiškas apei­

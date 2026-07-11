@@ -53,17 +53,6 @@ Nenurodyta
 - t-001
   global_id: t-87112
   teiginys: "Per Kęstučio laidotuves Vilniuje kartu su jo palaikais buvo sudeginti rūbai, ginklai, žirgai, medžiokliniai šunys ir paukščiai."
-  semantiniai_rysiai: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.) buvo palaidotas Vilnius (0.82)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "108315-109446; hash=f0b2037a20bb555b6be6b7f317d702e4d5e8fc9c473550408ce0570a65b80a91; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_palaidotas -> Vilnius: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo Kęstučio laidotuves Vilniuje; tai pakankamai pagrindžia palaidojimo ar laidojimo vietos ryšį."
   pagrindžia:
     - c-83091
 ## Reikšmingi paminėjimai
@@ -104,8 +93,8 @@ Nenurodyta
     buvo sudeginta: medžiokliniai
     paukščiai ir šunys su juo sudeginti].
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

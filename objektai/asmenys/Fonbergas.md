@@ -38,14 +38,6 @@ Ponas profesorius Fonbergas tiksliai ištyrė ir aprašė tą vande nį.
 - t-001
   global_id: t-194832
   teiginys: "Ponas profesorius Fonbergas tiksliai ištyrė ir aprašė tą vande nį."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "665052-665183; hash=bd88764d3ed58b5a97627989d3e2a2cbbcefab26f804ce3d65487ea906c93ab6; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-177228
 ## Reikšmingi paminėjimai
@@ -57,8 +49,8 @@ Ponas profesorius Fonbergas tiksliai ištyrė ir aprašė tą vande nį.
     -  Ponas profesorius Fonbergas tiksliai ištyrė ir aprašė tą vande­
     nį. (Wizerunki i Roztrząsania Naukowe. -  R. 1835. -  Cz. XI) *.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -69,7 +61,8 @@ Ponas profesorius Fonbergas tiksliai ištyrė ir aprašė tą vande nį.
 - id: c-177228
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 374"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 374."
   citata_originali: |
     -  Ponas profesorius Fonbergas tiksliai ištyrė ir aprašė tą vande­
     nį. (Wizerunki i Roztrząsania Naukowe. -  R. 1835. -  Cz. XI) *.

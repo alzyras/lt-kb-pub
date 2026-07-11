@@ -42,19 +42,6 @@ Nenurodyta
 - t-001
   global_id: t-185625
   teiginys: "Narimantas apgulė Uteną, kur buvo pasislėpęs Daumantas, vengęs atviro mūšio lauko."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "239578-240247; hash=97ff620f7bddc4c99877b3154f87aba7355a7e39df6ca3646c64824224cca271; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Narimantas (Pinsko kunigaikštis): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Narimanto karas su Daumantu ir Utenos apgultis: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Narimantas (Pinsko kunigaikštis): mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Narimanto karas su Daumantu ir Utenos apgultis\" parinktas kaip owner_note_path. Targetas \"Narimantas (Pinsko kunigaikštis)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-168986
 ## Reikšmingi paminėjimai
@@ -78,8 +65,8 @@ Nenurodyta
     supimą, nakčia, išleistas iš pilies, paspruko per supan­
     čiųjų eiles.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -90,7 +77,8 @@ Nenurodyta
 - id: c-168986
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 140"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 140."
   citata_originali: |
     To­
     dėl valdovas buvo priverstas griebtis ginklo ir pradėti

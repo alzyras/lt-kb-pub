@@ -54,16 +54,6 @@ Nenurodyta
 - t-001
   global_id: t-54479
   teiginys: "Akademijos aikštėje buvo medinis keturių šulų šulinys su stogeliu ir volu vandeniui traukti."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "384237-384953; hash=4870b2b21afe1ddd89d071044597494920cc61f858b83d26e04f27dbc8a238f9; match=whitespace_regex"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
-  ryšio_patikimumas: "susije_su -> Akademijos aikštė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Akademijos aikštės medinis šulinys: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Akademijos aikštė: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Akademijos aikštės medinis šulinys\" parinktas kaip owner_note_path. Targetas \"Akademijos aikštė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-55368
 ## Reikšmingi paminėjimai
@@ -84,8 +74,8 @@ Nenurodyta
     demijos aikštės dešinėje pusėje - medinis šulinys, 4 šulų, su
     stogeliu ir volu vandeniui traukti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

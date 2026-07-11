@@ -29,19 +29,18 @@ atnaujinta: ''
 amziai:
   - 'XIV'
   - 'XXI'
-media_total_count: '46'
-media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/3/30/Ukraine_pars_quae_Podolia_Palatinatus_Vulgo_dicitur_-_Per_Guil._le_Vasseur_de_Beauplan_-_btv1b525107634_%282_of_2%29.jpg'
-media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3AUkraine_pars_quae_Podolia_Palatinatus_Vulgo_dicitur_-_Per_Guil._le_Vasseur_de_Beauplan_-_btv1b525107634_%282_of_2%29.jpg'
-media_primary_directness: 'direct'
-media_primary_relation_type: 'map_of'
-media_primary_json: |-
-  {"mediaId":"m-1f67bcc5368eaacd9ecfd44f","title":"Ukraine pars quae Podolia Palatinatus Vulgo dicitur - Per Guil. le Vasseur de Beauplan - btv1b525107634 (2 of 2).jpg","caption":"Sujet : Podolie (région naturelle) Ukraine Couverture : Ukraine Langue : latin Éditeur : [s.n.]","creator":"Beauplan, Guillaume Le Vasseur (16..-1673 ; sieur de). Cartographe","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1648 date QS:P571,+1648-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AUkraine_pars_quae_Podolia_Palatinatus_Vulgo_dicitur_-_Per_Guil._le_Vasseur_de_Beauplan_-_btv1b525107634_%282_of_2%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/3/30/Ukraine_pars_quae_Podolia_Palatinatus_Vulgo_dicitur_-_Per_Guil._le_Vasseur_de_Beauplan_-_btv1b525107634_%282_of_2%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1}
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
 media_direct_json: |-
-  [{"mediaId":"m-1f67bcc5368eaacd9ecfd44f","title":"Ukraine pars quae Podolia Palatinatus Vulgo dicitur - Per Guil. le Vasseur de Beauplan - btv1b525107634 (2 of 2).jpg","caption":"Sujet : Podolie (région naturelle) Ukraine Couverture : Ukraine Langue : latin Éditeur : [s.n.]","creator":"Beauplan, Guillaume Le Vasseur (16..-1673 ; sieur de). Cartographe","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1648 date QS:P571,+1648-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AUkraine_pars_quae_Podolia_Palatinatus_Vulgo_dicitur_-_Per_Guil._le_Vasseur_de_Beauplan_-_btv1b525107634_%282_of_2%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/3/30/Ukraine_pars_quae_Podolia_Palatinatus_Vulgo_dicitur_-_Per_Guil._le_Vasseur_de_Beauplan_-_btv1b525107634_%282_of_2%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1},{"mediaId":"m-42e3de9c9dd52a3c3d6b7408","title":"Atlas Van der Hagen-KW1049B10 044-UKRAINAE PARS, quae PODOLIA PALATINATUS Vulgo dicitur.jpeg","caption":"The French military engineer Guillaume Le Vasseur de Beauplan (1595-1685), completed in the first half of the 17th century the extensive survey of the Ukraine commissioned by the king of Poland Władysław IV Vasa . Apart from the extensive map of the Ukraine which was finished in 1639, De Beauplan worked for a long time on a detailed map in six sheets that was only finished in 1651. Joan Blaeu (1598-1673) reduced the size of this map to a series of four separate maps. This is the second sheet of the series.","creator":"Guillaume Le Vasseur de Beauplan / Joan Blaeu","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1662 date QS:P571,+1662-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AAtlas_Van_der_Hagen-KW1049B10_044-UKRAINAE_PARS%2C_quae_PODOLIA_PALATINATUS_Vulgo_dicitur.jpeg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/a/ac/Atlas_Van_der_Hagen-KW1049B10_044-UKRAINAE_PARS%2C_quae_PODOLIA_PALATINATUS_Vulgo_dicitur.jpeg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-20a362a3144d7802e4b6cec8","title":"Atlas of Russian Empire (1800). Podolia governorate.jpg","caption":"Российский атлас \"Из сорока трех карт состоящий и на сорок одну губернию империю разделяющий\" (1800). Лист 40. Подольская губерния","creator":"Александр Михайлович Вильбрехт","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1800","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AAtlas_of_Russian_Empire_%281800%29._Podolia_governorate.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/44/Atlas_of_Russian_Empire_%281800%29._Podolia_governorate.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-9afa59e875da105ef9717e47","title":"Basse Podolie (Lower Podolia). (IA dr basse-podolie-lower-podolia-9741315).jpg","caption":"Zoomable full resolution image available at davidrumsey.com . This image 9741.315 is a part of image group 9741.000 . This is a very rare edition of Sanson's maps, published by his son, Guillaume Sanson. The title page is dated 1697 but the latest date on a map in the atlas is 1709. In French and Latin. Three volume set. Volume I is a huge set of hierarchies presenting the relative arrangement of thousands of places. Each page has from four to six levels of places, for example ranging from a country level down through states and counties on down to cities and towns. In cataloging, for the title of each page,we just list the first highest level place on the page. In the Short Title, liberty as been taken to explain the subjects of the page in English in more detail. Relief shown by sketches. Outline color. Subjects:","creator":"Sanson, Nicolas, 1600-1667 Sanson, Guillaume (1633-1703)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2026-06-19 11:43:51","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ABasse_Podolie_%28Lower_Podolia%29._%28IA_dr_basse-podolie-lower-podolia-9741315%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/02/Basse_Podolie_%28Lower_Podolia%29._%28IA_dr_basse-podolie-lower-podolia-9741315%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-aa172c70d19640811353f7fe","title":"Chortkiv, Atlas Van der Hagen-KW1049B10 044-UKRAINAE PARS, quae PODOLIA PALATINATUS Vulgo dicitur.png","caption":"The French military engineer Guillaume Le Vasseur de Beauplan (1595-1685), completed in the first half of the 17th century the extensive survey of the Ukraine commissioned by the king of Poland Władysław IV Vasa . Apart from the extensive map of the Ukraine which was finished in 1639, De Beauplan worked for a long time on a detailed map in six sheets that was only finished in 1651. Joan Blaeu (1598-1673) reduced the size of this map to a series of four separate maps. This is the second sheet of the series.","creator":"Guillaume Le Vasseur de Beauplan / Joan Blaeu","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1662 date QS:P571,+1662-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AChortkiv%2C_Atlas_Van_der_Hagen-KW1049B10_044-UKRAINAE_PARS%2C_quae_PODOLIA_PALATINATUS_Vulgo_dicitur.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/e7/Chortkiv%2C_Atlas_Van_der_Hagen-KW1049B10_044-UKRAINAE_PARS%2C_quae_PODOLIA_PALATINATUS_Vulgo_dicitur.png","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-a8226e71024282131d3a2a66","title":"Haute Podolie, Basse Podoie (Upper and Lower Podolia). (IA dr haute-podolie-basse-podoie-upper-and-lower-podolia-9741314).jpg","caption":"Zoomable full resolution image available at davidrumsey.com . This image 9741.314 is a part of image group 9741.000 . This is a very rare edition of Sanson's maps, published by his son, Guillaume Sanson. The title page is dated 1697 but the latest date on a map in the atlas is 1709. In French and Latin. Three volume set. Volume I is a huge set of hierarchies presenting the relative arrangement of thousands of places. Each page has from four to six levels of places, for example ranging from a country level down through states and counties on down to cities and towns. In cataloging, for the title of each page,we just list the first highest level place on the page. In the Short Title, liberty as been taken to explain the subjects of the page in English in more detail. Relief shown by sketches. Outline color. Subjects:","creator":"Sanson, Nicolas, 1600-1667 Sanson, Guillaume (1633-1703)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2026-06-21 16:14:37","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AHaute_Podolie%2C_Basse_Podoie_%28Upper_and_Lower_Podolia%29._%28IA_dr_haute-podolie-basse-podoie-upper-and-lower-podolia-9741314%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/0b/Haute_Podolie%2C_Basse_Podoie_%28Upper_and_Lower_Podolia%29._%28IA_dr_haute-podolie-basse-podoie-upper-and-lower-podolia-9741314%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-59a9da66e730731fa37fe760","title":"Map of Podolia Governorate, 1835.gif","caption":"Карта Подольской губернии, 1835","creator":"Военнотипографическое депо","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1835","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMap_of_Podolia_Governorate%2C_1835.gif","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/6f/Map_of_Podolia_Governorate%2C_1835.gif","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-0c565389027c6bbde32e62ff","title":"Map of Ukraine political Podolia.png","caption":"Position de la Podolie en Ukraine","creator":"Spiridon Ion Cepleanu","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","dateDisplay":"2011-12-20","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMap_of_Ukraine_political_Podolia.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5f/Map_of_Ukraine_political_Podolia.png","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-e14c32a1e81468a09d9623ad","title":"Palatinatus-Podolia map.jpg","caption":"Карта Подолії XVII ст.","creator":"Гійом Левассер де Боплан (Роки життя:1600-1673)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"before 1673 date QS:P,+1673-00-00T00:00:00Z/7,P1326,+1673-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APalatinatus-Podolia_map.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fe/Palatinatus-Podolia_map.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-40453c3b4f4c8d8d1ca80017","title":"Podolia in Russian Empire (1914).svg","caption":"Locator map of XY (see filename) province in Russian Empire (1914), extracted from File:Subdivisions of the Russian Empire in 1914.svg","creator":"Milenioscuro","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","dateDisplay":"2019-12-24","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APodolia_in_Russian_Empire_%281914%29.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fc/Podolia_in_Russian_Empire_%281914%29.svg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-ad51057aab64f73a2fcc5f8c","title":"Romanowka palatinatus-podolia-beauplan.jpg","caption":"Romanowka_palatinatus-podolia-beauplan.jpg: Фрагмент карти Боплана - Поділля 1650","creator":"Роман Мацелюх","provider":"commons","providerLabel":"Wikimedia Commons","license":"GFDL","rightsNote":"GNU Free Documentation License","dateDisplay":"2012","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ARomanowka_palatinatus-podolia-beauplan.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/7/77/Romanowka_palatinatus-podolia-beauplan.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-2cbed377c37e0ed56d8b2a29","title":"Russia in Europe Part V. Vilna, Grodno, Volhynia, Podolia, Minsk, Kiev, Tchernigov, Smolensk. Engraved by J. & C. Walker. (IA dr russia-in-europe-part-v-vilna-grodno-volhynia-podolia-minsk-kiev-tch-00524098).jpg","caption":"Zoomable full resolution image available at davidrumsey.com . This image 0890.066 is a part of image group 0890.000 . Engraved map. Relief shown by hachures. Provincial borders hand col. Sources: Imperial atlas of Russia, Fallon and others. The SDUK, as the Society was known, produced inexpensive maps to encourage broad use in education. The maps in these two volumes were issued in parts over several years. The city plans are of particular interest, with vignettes and great detail. The gnomonic star maps were issued separately in this edition in their own covers. This is the second edition, the first being by Baldwin and Cradock, with the maps issued in numbers and later bound as a set. Rumsey Collection copy originally issued without the 6 \"World on a gnomonic projection\" maps; copies of them have been laid in. Atlas is bound in half leather dark brown cloth covered boards with \"Maps. Vol. 1,\" \"Maps. Vol. 2\" stamped in gold on the spines. Maps with outline color; geological map of England and Wales hand colored in full color. Phillips, 794. Subjects:","creator":"Society for the Diffusion of Useful Knowledge (Great Britain) J. &amp; C. Walker","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2026-07-01 08:59:17","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ARussia_in_Europe_Part_V._Vilna%2C_Grodno%2C_Volhynia%2C_Podolia%2C_Minsk%2C_Kiev%2C_Tchernigov%2C_Smolensk._Engraved_by_J._%26_C._Walker._%28IA_dr_russia-in-europe-part-v-vilna-grodno-volhynia-podolia-minsk-kiev-tch-00524098%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/a/aa/Russia_in_Europe_Part_V._Vilna%2C_Grodno%2C_Volhynia%2C_Podolia%2C_Minsk%2C_Kiev%2C_Tchernigov%2C_Smolensk._Engraved_by_J._%26_C._Walker._%28IA_dr_russia-in-europe-part-v-vilna-grodno-volhynia-podolia-minsk-kiev-tch-00524098%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-f9372a62e5749cfc270d6abe","title":"Russia in Europe Part VIII with small index map. Podolia, Bessarabia, Kherson, Iekaterinoslav, Taurida (IA dr russia-in-europe-part-viii-with-small-index-map-podolia-bessarabia-khers-00524101).jpg","caption":"Zoomable full resolution image available at davidrumsey.com . This image 0890.069 is a part of image group 0890.000 . Engraved map. Relief shown by hachures. Provincial borders hand col. Sources: Imperial Russian atlas, Survey of Krimea and others. The SDUK, as the Society was known, produced inexpensive maps to encourage broad use in education. The maps in these two volumes were issued in parts over several years. The city plans are of particular interest, with vignettes and great detail. The gnomonic star maps were issued separately in this edition in their own covers. This is the second edition, the first being by Baldwin and Cradock, with the maps issued in numbers and later bound as a set. Rumsey Collection copy originally issued without the 6 \"World on a gnomonic projection\" maps; copies of them have been laid in. Atlas is bound in half leather dark brown cloth covered boards with \"Maps. Vol. 1,\" \"Maps. Vol. 2\" stamped in gold on the spines. Maps with outline color; geological map of England and Wales hand colored in full color. Phillips, 794. Subjects:","creator":"Society for the Diffusion of Useful Knowledge (Great Britain) J. &amp; C. Walker","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2026-06-28 04:41:35","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ARussia_in_Europe_Part_VIII_with_small_index_map._Podolia%2C_Bessarabia%2C_Kherson%2C_Iekaterinoslav%2C_Taurida_%28IA_dr_russia-in-europe-part-viii-with-small-index-map-podolia-bessarabia-khers-00524101%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a8/Russia_in_Europe_Part_VIII_with_small_index_map._Podolia%2C_Bessarabia%2C_Kherson%2C_Iekaterinoslav%2C_Taurida_%28IA_dr_russia-in-europe-part-viii-with-small-index-map-podolia-bessarabia-khers-00524101%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-ac824b84f1fa45d4934dc47c","title":"Ukraine pars quae Podolia Palatinatus Vulgo dicitur - Per Guil. le Vasseur de Beauplan - btv1b525107634 (1 of 2).jpg","caption":"Sujet : Podolie (région naturelle) Ukraine Couverture : Ukraine Langue : latin Éditeur : [s.n.]","creator":"Beauplan, Guillaume Le Vasseur (16..-1673 ; sieur de). Cartographe","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1648 date QS:P571,+1648-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AUkraine_pars_quae_Podolia_Palatinatus_Vulgo_dicitur_-_Per_Guil._le_Vasseur_de_Beauplan_-_btv1b525107634_%281_of_2%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Ukraine_pars_quae_Podolia_Palatinatus_Vulgo_dicitur_-_Per_Guil._le_Vasseur_de_Beauplan_-_btv1b525107634_%281_of_2%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-be66007391bad6a87a9585d9","title":"Ukraine. Podolia Palatinatus. Beauplan 1664.jpg","caption":"Ukraine. Podolia_Palatinatus","creator":"Beauplan","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"before 1648 date QS:P,+1648-00-00T00:00:00Z/7,P1326,+1648-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AUkraine._Podolia_Palatinatus._Beauplan_1664.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/7/7b/Ukraine._Podolia_Palatinatus._Beauplan_1664.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-1b5616ae75e7f5aa1e60249d","title":"Partie Occidentale de la Russie Polonoise.jpg","caption":"A map of \"Western part of Polish Rus/Russia/Ruthenia, where Black Ruthenia and Upper Volhynia and Upper Podolia are located\" (\"Partie occidentale de la Russie Polonoise, où se trouvent la Russie Noire, la Haute Volhynie et la Haute Podolie\").","creator":"Didier Robert de Vaugondy (1723-1786)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1749","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APartie_Occidentale_de_la_Russie_Polonoise.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/10/Partie_Occidentale_de_la_Russie_Polonoise.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-f09ad356f155a4a62d8c29ba","title":"Partie orientale de la Russie Polonoise, où se trouvent la Basse Volhynie et la Basse Podolie.jpg","caption":"A map of \"Eastern part of Polish Rus, where Lower Volhynia and Lower Podolia are located\" (\"Partie orientale de la Russie Polonoise, où se trouvent la Basse Volhynie et la Basse Podolie\"). From: G. Robert de Vaugondy's Atlas portatif, universel et militaire, 1748. Published in France (probably in Paris) in 1749. Available also as a digital image through the Harvard University Library Web site. Electronic reproduction. Cambridge, Mass. : Harvard College Library Digital Imaging Group, 2008. Harvard Map Collection digital maps. Ukraine.","creator":"Didier Robert de Vaugondy","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1749","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APartie_orientale_de_la_Russie_Polonoise%2C_o%C3%B9_se_trouvent_la_Basse_Volhynie_et_la_Basse_Podolie.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/9/9b/Partie_orientale_de_la_Russie_Polonoise%2C_o%C3%B9_se_trouvent_la_Basse_Volhynie_et_la_Basse_Podolie.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-386b77a46739ca5817ee28a8","title":"Russia. No. 5. Letts's popular atlas. Letts, Son & Co. Limited, London. (1883) (IA dr russia-no-5-lettss-popular-atlas-letts-son-co-limited-london-18-5371061).jpg","caption":"Zoomable full resolution image available at &lt;a href=\" https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~31412~1150368 \" rel=\"nofollow\"&gt;davidrumsey.com&lt;/a&gt;. This image &lt;a href=\"//www.davidrumsey.com/luna/servlet/view/search?q=list_no=%225371.061%22\" rel=\"nofollow\"&gt;5371.061&lt;/a&gt; is a part of image group &lt;a href=\" https://www.davidrumsey.com/luna/servlet/view/search?q=pub_list_no=%225371.000%22 \" rel=\"nofollow\"&gt;5371.000&lt;/a&gt;. Colored map. Sheet 5 (Vilna-Kiev) of 9 sheets. Relief shown by hachures and spot heights. Shows cities, British consulates, vice-consulates and consular agents, lights and lighthouses, railroads, etc. Covers Vilna, Grodno, Volhynia, Podolia, Minsk, Kiev, Tchernigov and Smolensk. Cf P900 and World 435 (4 v. in 2, 1881-1883) Subjects:","creator":"Letts, Son &amp; Co.","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2026-06-28 01:41:39","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ARussia._No._5._Letts%27s_popular_atlas._Letts%2C_Son_%26_Co._Limited%2C_London._%281883%29_%28IA_dr_russia-no-5-lettss-popular-atlas-letts-son-co-limited-london-18-5371061%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fa/Russia._No._5._Letts%27s_popular_atlas._Letts%2C_Son_%26_Co._Limited%2C_London._%281883%29_%28IA_dr_russia-no-5-lettss-popular-atlas-letts-son-co-limited-london-18-5371061%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-86d54b585fe89a288618c448","title":"Russia. No. 8. Letts's popular atlas. Letts, Son & Co. Limited, London. (1883) (IA dr russia-no-8-lettss-popular-atlas-letts-son-co-limited-london-18-5371064).jpg","caption":"Zoomable full resolution image available at davidrumsey.com . This image 5371.064 is a part of image group 5371.000 . Colored map. Sheet 8 (southwest) of 9 sheets. Relief shown by hachures and spot heights. Shows cities, British consulates, vice-consulates and consular agents, lights and lighthouses, railroads, etc. Includes statistical table and index map. Covers Podolia, Bessarabia, Kherson, Iekaterinoslav, Taurida and Crimea. Cf P900 and World 435 (4 v. in 2, 1881-1883) Subjects:","creator":"Letts, Son &amp; Co.","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2026-06-25 16:35:07","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ARussia._No._8._Letts%27s_popular_atlas._Letts%2C_Son_%26_Co._Limited%2C_London._%281883%29_%28IA_dr_russia-no-8-lettss-popular-atlas-letts-son-co-limited-london-18-5371064%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c7/Russia._No._8._Letts%27s_popular_atlas._Letts%2C_Son_%26_Co._Limited%2C_London._%281883%29_%28IA_dr_russia-no-8-lettss-popular-atlas-letts-son-co-limited-london-18-5371064%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-93e7b131970ccef614ac381d","title":"Червонная Русь, Подолье, Волынь и Украина.png","caption":"Map of historical Russian regions under Polish occupation: Red Russia, Podolia, Volhynia and Ukraine. Jakob von Sandrart, Nuremberg, 1687","creator":"Jakob Sandrart. Russia Rubra, Podolia, Volhynia et Ukraina. ‒ Nuremberg, 1687","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1687","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A%D0%A7%D0%B5%D1%80%D0%B2%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D0%A0%D1%83%D1%81%D1%8C%2C_%D0%9F%D0%BE%D0%B4%D0%BE%D0%BB%D1%8C%D0%B5%2C_%D0%92%D0%BE%D0%BB%D1%8B%D0%BD%D1%8C_%D0%B8_%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B0.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/9/9b/%D0%A7%D0%B5%D1%80%D0%B2%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D0%A0%D1%83%D1%81%D1%8C%2C_%D0%9F%D0%BE%D0%B4%D0%BE%D0%BB%D1%8C%D0%B5%2C_%D0%92%D0%BE%D0%BB%D1%8B%D0%BD%D1%8C_%D0%B8_%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B0.png","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-70e4adf76e81fa8a75e4b247","title":"\"Tabula Russiae - ex autographo, quod delineandum curavit Eoedor filius Tzaris Boris desumta ... ; dedicata ab Hesselo Gerardo \" (22065138090).jpg","caption":"Descripción bibliográfica: Geographia Blaviana. - [Amsterdam : Juan Blaeu, 1659] . - [32], VI, 96 p., 34 f., h. 35a, 35b, 35c, 35d, 36-44 f., 34, [2], 36-40, [2], 43-70 [i. e. 75], [1] f., [20] p. de map., [9] f. de map., [4] f. pleg. de map., [2] f. de plan., [2] f. ge grab. : |bil. ; |cFol. marca major (57 cm.) . - En la dedicatoria a Felipe IV: \"Presenta ... El Atlas Universal y Cosmographico de los orbes y terrestre ... Juan Blaeu\" . - Título tomado del frontispicio. -- Privilegio fechado en 1659. -Errores de pag. - Sign.: [ ]1, *2, **3, ***-****2, a-e2, A-I2, K1, L-Z2, Aa-Dd2, 4[ ]2, Ee-Ff2, A-I2, K1, L2, M1, N-Y2, Z5, Aa-Dd2, Ee1, A-D2, E-F1, G-I2, K-L1, M-O2, P1, Q-Z2, Aa-Bb2, Cc1, Dd3, Ff-Zz2, Aaa-Bbb2, [ ]. - Frontispicio grab. col. -- Incluye un total de 49 il. entre map., plan. i grab. Materia: Atlas - Obras anteriores a 1800 Impresor: Blaeu, Joan, 1596-1673, imp. Lugar de impresión: Holanda. Amsterdam Localización: fama.us.es/record=b2058758~S5*spi Vea la ilustración en su contexto Visite también la exposición \"Cartografía histórica en la Biblioteca de la Universidad de Sevilla\" expobus.us.es/cartografia//","creator":"Fondo Antiguo de la Biblioteca de la Universidad de Sevilla from Sevilla, España","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY 2.0","rightsNote":"Creative Commons Attribution 2.0","dateDisplay":"2015-10-17 17:43","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A%22Tabula_Russiae_-_ex_autographo%2C_quod_delineandum_curavit_Eoedor_filius_Tzaris_Boris_desumta_..._%3B_dedicata_ab_Hesselo_Gerardo_%22_%2822065138090%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c0/%22Tabula_Russiae_-_ex_autographo%2C_quod_delineandum_curavit_Eoedor_filius_Tzaris_Boris_desumta_..._%3B_dedicata_ab_Hesselo_Gerardo_%22_%2822065138090%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-c44ee3b9af9afbdf69451ac7","title":"1550 Map of Poland - Book Museum - National Library - Minsk - Belarus (27448006382).jpg","caption":"1550 Map of Poland - Book Museum - National Library - Minsk - Belarus","creator":"Adam Jones from Kelowna, BC, Canada","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 2.0","rightsNote":"Creative Commons Attribution-Share Alike 2.0","dateDisplay":"2016-06-08 05:07","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A1550_Map_of_Poland_-_Book_Museum_-_National_Library_-_Minsk_-_Belarus_%2827448006382%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/28/1550_Map_of_Poland_-_Book_Museum_-_National_Library_-_Minsk_-_Belarus_%2827448006382%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-b5b6dd30d431838123418d2a","title":"1747 La Feuille Map of Poland - Geographicus - Pologne-ratelband-1747.jpg","caption":"A stunning map of Poland first drawn by Daniel de la Feuille in 1706. Covers the entire territory of Poland as well as parts of Latvia, Prussia, Hungary, Transylvania, Moldova and Russia. Flanked on either side by the twelve armorial crests of Poland and its immediate neighbors. Title appears at the top center in both French and Dutch. This is Paul de la Feuille’s 1747 reissue of his father Daniel’s 1706 map. Prepared for issue as plate no. 31 in J. Ratelband’s 1747 Geographisch-Toneel .","creator":"Daniel de Lafeuille","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1747 (undated)","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A1747_La_Feuille_Map_of_Poland_-_Geographicus_-_Pologne-ratelband-1747.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/22/1747_La_Feuille_Map_of_Poland_-_Geographicus_-_Pologne-ratelband-1747.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-b0adf44dbc5b1a59eb021fb7","title":"368 of 'The Earth and its Inhabitants. The European section of the Universal Geography by E. Reclus. Edited by E. G. Ravenstein. Illustrated by ... engravings and maps' (11124137815).jpg","caption":"This file has been provided by the British Library from its digital collections. Links to the British Library's website may be broken as the library recovers from a October 2023 cyber attack, and will be updated once material becomes accessible online. For more information on the attack see: https://www.bl.uk/about/cyber-attack","creator":"The British Library","provider":"commons","providerLabel":"Wikimedia Commons","license":"No restrictions","rightsNote":"No known copyright restrictions","dateDisplay":"2013-11-29 23:43","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A368_of_%27The_Earth_and_its_Inhabitants._The_European_section_of_the_Universal_Geography_by_E._Reclus._Edited_by_E._G._Ravenstein._Illustrated_by_..._engravings_and_maps%27_%2811124137815%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/6d/368_of_%27The_Earth_and_its_Inhabitants._The_European_section_of_the_Universal_Geography_by_E._Reclus._Edited_by_E._G._Ravenstein._Illustrated_by_..._engravings_and_maps%27_%2811124137815%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-bfcac0448c0244fb941befbd","title":"370 of 'The Earth and its Inhabitants. The European section of the Universal Geography by E. Reclus. Edited by E. G. Ravenstein. Illustrated by ... engravings and maps' (11121499634).jpg","caption":"This file has been provided by the British Library from its digital collections. Links to the British Library's website may be broken as the library recovers from a October 2023 cyber attack, and will be updated once material becomes accessible online. For more information on the attack see: https://www.bl.uk/about/cyber-attack","creator":"The British Library","provider":"commons","providerLabel":"Wikimedia Commons","license":"No restrictions","rightsNote":"No known copyright restrictions","dateDisplay":"2013-11-29 20:04","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A370_of_%27The_Earth_and_its_Inhabitants._The_European_section_of_the_Universal_Geography_by_E._Reclus._Edited_by_E._G._Ravenstein._Illustrated_by_..._engravings_and_maps%27_%2811121499634%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d8/370_of_%27The_Earth_and_its_Inhabitants._The_European_section_of_the_Universal_Geography_by_E._Reclus._Edited_by_E._G._Ravenstein._Illustrated_by_..._engravings_and_maps%27_%2811121499634%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-4e1ebb51a32d5892518a9d2d","title":"60 of 'Подолія. Историческое описаніе ... Издано ... П. Н. Батюшковымъ (and M. I. Gorodetsky) ... Съ одной хромолитографіей ... и 2-мя картами' (11211123613).jpg","caption":"View this map on the BL Georeferencer service. Image taken from: Title : \"Подолія. Историческое описаніе ... Издано ... П. Н. Батюшковымъ [and M. I. Gorodetsky] ... Съ одной хромолитографіей ... и 2-мя картами\" Author : Petrov, Nikolaĭ Ivanovich. Contributor : BATYUSHKOV, Pompei Nikolaevich. Contributor : GORODETSKY, M. I. Shelfmark : \"British Library HMNTS 9456.ee.11.\" Page : 60 Place of Publishing : С.-Петербургъ Date of Publishing : 1891 Issuance : monographic Identifier : 002890427 Explore: Find this item in the British Library catalogue, 'Explore'. Download the PDF for this book (volume: 0) Image found on book scan 60 (NB not necessarily a page number) Download the OCR-derived text for this volume: (plain text) or (json) Click here to see all the illustrations in this book and click here to browse other illustrations published in books in the same year. Order a higher quality version from here .","creator":"The British Library","provider":"commons","providerLabel":"Wikimedia Commons","license":"No restrictions","rightsNote":"No known copyright restrictions","dateDisplay":"2013-12-04 20:26","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A60_of_%27%D0%9F%D0%BE%D0%B4%D0%BE%D0%BB%D1%96%D1%8F._%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D1%96%D0%B5_..._%D0%98%D0%B7%D0%B4%D0%B0%D0%BD%D0%BE_..._%D0%9F._%D0%9D._%D0%91%D0%B0%D1%82%D1%8E%D1%88%D0%BA%D0%BE%D0%B2%D1%8B%D0%BC%D1%8A_%28and_M._I._Gorodetsky%29_..._%D0%A1%D1%8A_%D0%BE%D0%B4%D0%BD%D0%BE%D0%B9_%D1%85%D1%80%D0%BE%D0%BC%D0%BE%D0%BB%D0%B8%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D1%96%D0%B5%D0%B9_..._%D0%B8_2-%D0%BC%D1%8F_%D0%BA%D0%B0%D1%80%D1%82%D0%B0%D0%BC%D0%B8%27_%2811211123613%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/9/9c/60_of_%27%D0%9F%D0%BE%D0%B4%D0%BE%D0%BB%D1%96%D1%8F._%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D1%96%D0%B5_..._%D0%98%D0%B7%D0%B4%D0%B0%D0%BD%D0%BE_..._%D0%9F._%D0%9D._%D0%91%D0%B0%D1%82%D1%8E%D1%88%D0%BA%D0%BE%D0%B2%D1%8B%D0%BC%D1%8A_%28and_M._I._Gorodetsky%29_..._%D0%A1%D1%8A_%D0%BE%D0%B4%D0%BD%D0%BE%D0%B9_%D1%85%D1%80%D0%BE%D0%BC%D0%BE%D0%BB%D0%B8%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D1%96%D0%B5%D0%B9_..._%D0%B8_2-%D0%BC%D1%8F_%D0%BA%D0%B0%D1%80%D1%82%D0%B0%D0%BC%D0%B8%27_%2811211123613%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-6dcfe224209e8b09f9344a66","title":"Carte des Estats de Suede, de Dannemarq, et de Pologne; sur la Mer Baltique.jpg","caption":"Published in Paris by Nicolas de Fer in 1700. Copper engraving, ca 1:4 200 000, 35 x 43 cm. The original map consists of two parts; the present is an Eastern part.","creator":"Nicolas de Fer (1646-1720)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1700","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ACarte_des_Estats_de_Suede%2C_de_Dannemarq%2C_et_de_Pologne%3B_sur_la_Mer_Baltique.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/ea/Carte_des_Estats_de_Suede%2C_de_Dannemarq%2C_et_de_Pologne%3B_sur_la_Mer_Baltique.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-15cd0a5f43e0761eb8c83468","title":"English map of Poland XVIII century.png","caption":"English map of Poland - XVIII century","creator":"","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2006-02-17 23:24:10","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AEnglish_map_of_Poland_XVIII_century.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/08/English_map_of_Poland_XVIII_century.png","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-3f4ca5f2512675cc0f1fc5b7","title":"Kyivstar vkraina 1560-2.jpg","caption":"\"A New Map of Poland and Hungary\" ( Polonia et Hungaria Nuova Tavola ), Girolamo Ruscelli (Venice, 1560) Примірник «Нової карти Польщі та Угорщини» Рушеллі 1560 р., де уперше використано назву Червона Русь [Rossia Rossa] щодо Правобережної України. При цьому назва Русі вживана на грецький манер – Rossia, що в подальшому так і не прижилася на заході. На карті вказаний Вишгород, а Київ – ні. https://uk.wikipedia.org/w/index.php?title=Vkraina","creator":"Ptolemy","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","dateDisplay":"6 December 2012 at 11:25:53","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKyivstar_vkraina_1560-2.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/7/74/Kyivstar_vkraina_1560-2.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-2750b1235cc5f1ac9c205206","title":"Russia Mercator 1595.jpg","caption":"Map of Eastern Europe by Gerard Mercator in 1595.","creator":"Gerard Mercator","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1595","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ARussia_Mercator_1595.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/69/Russia_Mercator_1595.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-92ced1192c096e5d86b70912","title":"Shubert map - R23L06.jpg","caption":"\"Shubert's map\". Fragment of topographic map of Russian Empire. 3 versta in inch (1260 m in 1 cm).","creator":"Фёдор Фёдорович Шуберт (1789-1865), гравёры Военно-топографического депо, \"вольные\" гравёры","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between 1850 and 1890 date QS:P,+1850-00-00T00:00:00Z/7,P1319,+1850-00-00T00:00:00Z/9,P1326,+1890-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AShubert_map_-_R23L06.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d7/Shubert_map_-_R23L06.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-bc02b2f58eb60a714bb4c409","title":"Shubert map - R24L06.jpg","caption":"\"Shubert's map\". Fragment of topographic map of Russian Empire. 3 versta in inch (1260 m in 1 cm).","creator":"Фёдор Фёдорович Шуберт (1789-1865), гравёры Военно-топографического депо, \"вольные\" гравёры","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between 1850 and 1890 date QS:P,+1850-00-00T00:00:00Z/7,P1319,+1850-00-00T00:00:00Z/9,P1326,+1890-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AShubert_map_-_R24L06.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/ce/Shubert_map_-_R24L06.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-895d384f70b215f70e29b2c7","title":"Shubert map - R25L05.jpg","caption":"\"Shubert's map\". Fragment of topographic map of Russian Empire. 3 versta in inch (1260 m in 1 cm).","creator":"Фёдор Фёдорович Шуберт (1789-1865), гравёры Военно-топографического депо, \"вольные\" гравёры","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between 1850 and 1890 date QS:P,+1850-00-00T00:00:00Z/7,P1319,+1850-00-00T00:00:00Z/9,P1326,+1890-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AShubert_map_-_R25L05.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/3/39/Shubert_map_-_R25L05.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-3ac059872dcc9cdcb489ecf4","title":"Shubert map - R25L06.jpg","caption":"\"Shubert's map\". Fragment of topographic map of Russian Empire. 3 versta in inch (1260 m in 1 cm).","creator":"Фёдор Фёдорович Шуберт (1789-1865), гравёры Военно-топографического депо, \"вольные\" гравёры","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between 1850 and 1890 date QS:P,+1850-00-00T00:00:00Z/7,P1319,+1850-00-00T00:00:00Z/9,P1326,+1890-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AShubert_map_-_R25L06.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/a/ab/Shubert_map_-_R25L06.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-1fa11b3be2c4be088918b065","title":"Shubert map - R25L07.jpg","caption":"\"Shubert's map\". Fragment of topographic map of Russian Empire. 3 versta in inch (1260 m in 1 cm).","creator":"Фёдор Фёдорович Шуберт (1789-1865), гравёры Военно-топографического депо, \"вольные\" гравёры","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between 1850 and 1890 date QS:P,+1850-00-00T00:00:00Z/7,P1319,+1850-00-00T00:00:00Z/9,P1326,+1890-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AShubert_map_-_R25L07.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/55/Shubert_map_-_R25L07.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-e903a9c539116692cbe491ad","title":"Shubert map - R26L07.jpg","caption":"\"Shubert's map\". Fragment of topographic map of Russian Empire. 3 versta in inch (1260 m in 1 cm).","creator":"Фёдор Фёдорович Шуберт (1789-1865), гравёры Военно-топографического депо, \"вольные\" гравёры","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between 1850 and 1890 date QS:P,+1850-00-00T00:00:00Z/7,P1319,+1850-00-00T00:00:00Z/9,P1326,+1890-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AShubert_map_-_R26L07.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a8/Shubert_map_-_R26L07.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-ed87220ffa39818f4feebb70","title":"Shubert map - R26L08.jpg","caption":"\"Shubert's map\". Fragment of topographic map of Russian Empire. 3 versta in inch (1260 m in 1 cm).","creator":"Фёдор Фёдорович Шуберт (1789-1865), гравёры Военно-топографического депо, \"вольные\" гравёры","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between 1850 and 1890 date QS:P,+1850-00-00T00:00:00Z/7,P1319,+1850-00-00T00:00:00Z/9,P1326,+1890-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AShubert_map_-_R26L08.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fa/Shubert_map_-_R26L08.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-cc042d09aa9a8f42cab3e75d","title":"Shubert map - R26l09.jpg","caption":"\"Shubert's map\". Fragment of topographic map of Russian Empire. 3 versta in inch (1260 m in 1 cm).","creator":"Фёдор Фёдорович Шуберт (1789-1865), гравёры Военно-топографического депо, \"вольные\" гравёры","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between 1850 and 1890 date QS:P,+1850-00-00T00:00:00Z/7,P1319,+1850-00-00T00:00:00Z/9,P1326,+1890-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AShubert_map_-_R26l09.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/2a/Shubert_map_-_R26l09.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-1050abf2ee8a9fd72413fb15","title":"Shubert map - R27L07.jpg","caption":"\"Shubert's map\". Fragment of topographic map of Russian Empire. 3 versta in inch (1260 m in 1 cm).","creator":"Фёдор Фёдорович Шуберт (1789-1865), гравёры Военно-топографического депо, \"вольные\" гравёры","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between 1850 and 1890 date QS:P,+1850-00-00T00:00:00Z/7,P1319,+1850-00-00T00:00:00Z/9,P1326,+1890-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AShubert_map_-_R27L07.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d3/Shubert_map_-_R27L07.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-a43741223fc9f85ef9050c84","title":"Shubert map - R27L08.jpg","caption":"\"Shubert's map\". Fragment of topographic map of Russian Empire. 3 versta in inch (1260 m in 1 cm).","creator":"Фёдор Фёдорович Шуберт (1789-1865), гравёры Военно-топографического депо, \"вольные\" гравёры","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between 1850 and 1890 date QS:P,+1850-00-00T00:00:00Z/7,P1319,+1850-00-00T00:00:00Z/9,P1326,+1890-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AShubert_map_-_R27L08.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/cd/Shubert_map_-_R27L08.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-74b54c11f19e9c4d4774b6d0","title":"Shubert map - R28L07.jpg","caption":"\"Shubert's map\". Fragment of topographic map of Russian Empire. 3 versta in inch (1260 m in 1 cm).","creator":"Фёдор Фёдорович Шуберт (1789-1865), гравёры Военно-топографического депо, \"вольные\" гравёры","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between 1850 and 1890 date QS:P,+1850-00-00T00:00:00Z/7,P1319,+1850-00-00T00:00:00Z/9,P1326,+1890-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AShubert_map_-_R28L07.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/45/Shubert_map_-_R28L07.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-8a7d12d43f03fc486281fa1c","title":"Shubert map - R28L08.jpg","caption":"\"Shubert's map\". Fragment of topographic map of Russian Empire. 3 versta in inch (1260 m in 1 cm).","creator":"Фёдор Фёдорович Шуберт (1789-1865), гравёры Военно-топографического депо, \"вольные\" гравёры","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between 1850 and 1890 date QS:P,+1850-00-00T00:00:00Z/7,P1319,+1850-00-00T00:00:00Z/9,P1326,+1890-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AShubert_map_-_R28L08.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/44/Shubert_map_-_R28L08.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-37f99d2c8503d3a6e2969daa","title":"Shubert map - R28L09.jpg","caption":"\"Shubert's map\". Fragment of topographic map of Russian Empire. 3 versta in inch (1260 m in 1 cm).","creator":"Фёдор Фёдорович Шуберт (1789-1865), гравёры Военно-топографического депо, \"вольные\" гравёры","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between 1850 and 1890 date QS:P,+1850-00-00T00:00:00Z/7,P1319,+1850-00-00T00:00:00Z/9,P1326,+1890-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AShubert_map_-_R28L09.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/b/bf/Shubert_map_-_R28L09.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-0432b47b0fd8fc2738bcb22c","title":"The map of Russia, late 16 c., Holland.jpg","caption":"The map of Russia, late 16 c., Holland","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"late 16 c.","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AThe_map_of_Russia%2C_late_16_c.%2C_Holland.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/52/The_map_of_Russia%2C_late_16_c.%2C_Holland.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-ebf0a980e561b59459cebad7","title":"Ukraine. Braclavia Palatinatus. Beauplan 1648.jpg","caption":"Ukraine. Braclavia","creator":"Beauplan","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"before 1648 date QS:P,+1648-00-00T00:00:00Z/7,P1326,+1648-00-00T00:00:00Z/9 (1639)","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AUkraine._Braclavia_Palatinatus._Beauplan_1648.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f7/Ukraine._Braclavia_Palatinatus._Beauplan_1648.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-bd0f98a815753a27dda32f39","title":"Visscher Moscoviae seu Russiae Magnae generalis tabula small.jpg","caption":"Map of Russia by Nicolaas Visscher II (1649-1702)","creator":"Nicolaas Visscher II (1649-1702)","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","dateDisplay":"1681","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVisscher_Moscoviae_seu_Russiae_Magnae_generalis_tabula_small.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/6e/Visscher_Moscoviae_seu_Russiae_Magnae_generalis_tabula_small.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0}]
+  []
 media_contextual_json: |-
   []
 media_all_json: |-
-  [{"mediaId":"m-1f67bcc5368eaacd9ecfd44f","title":"Ukraine pars quae Podolia Palatinatus Vulgo dicitur - Per Guil. le Vasseur de Beauplan - btv1b525107634 (2 of 2).jpg","caption":"Sujet : Podolie (région naturelle) Ukraine Couverture : Ukraine Langue : latin Éditeur : [s.n.]","creator":"Beauplan, Guillaume Le Vasseur (16..-1673 ; sieur de). Cartographe","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1648 date QS:P571,+1648-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AUkraine_pars_quae_Podolia_Palatinatus_Vulgo_dicitur_-_Per_Guil._le_Vasseur_de_Beauplan_-_btv1b525107634_%282_of_2%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/3/30/Ukraine_pars_quae_Podolia_Palatinatus_Vulgo_dicitur_-_Per_Guil._le_Vasseur_de_Beauplan_-_btv1b525107634_%282_of_2%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1},{"mediaId":"m-42e3de9c9dd52a3c3d6b7408","title":"Atlas Van der Hagen-KW1049B10 044-UKRAINAE PARS, quae PODOLIA PALATINATUS Vulgo dicitur.jpeg","caption":"The French military engineer Guillaume Le Vasseur de Beauplan (1595-1685), completed in the first half of the 17th century the extensive survey of the Ukraine commissioned by the king of Poland Władysław IV Vasa . Apart from the extensive map of the Ukraine which was finished in 1639, De Beauplan worked for a long time on a detailed map in six sheets that was only finished in 1651. Joan Blaeu (1598-1673) reduced the size of this map to a series of four separate maps. This is the second sheet of the series.","creator":"Guillaume Le Vasseur de Beauplan / Joan Blaeu","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1662 date QS:P571,+1662-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AAtlas_Van_der_Hagen-KW1049B10_044-UKRAINAE_PARS%2C_quae_PODOLIA_PALATINATUS_Vulgo_dicitur.jpeg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/a/ac/Atlas_Van_der_Hagen-KW1049B10_044-UKRAINAE_PARS%2C_quae_PODOLIA_PALATINATUS_Vulgo_dicitur.jpeg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-20a362a3144d7802e4b6cec8","title":"Atlas of Russian Empire (1800). Podolia governorate.jpg","caption":"Российский атлас \"Из сорока трех карт состоящий и на сорок одну губернию империю разделяющий\" (1800). Лист 40. Подольская губерния","creator":"Александр Михайлович Вильбрехт","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1800","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AAtlas_of_Russian_Empire_%281800%29._Podolia_governorate.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/44/Atlas_of_Russian_Empire_%281800%29._Podolia_governorate.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-9afa59e875da105ef9717e47","title":"Basse Podolie (Lower Podolia). (IA dr basse-podolie-lower-podolia-9741315).jpg","caption":"Zoomable full resolution image available at davidrumsey.com . This image 9741.315 is a part of image group 9741.000 . This is a very rare edition of Sanson's maps, published by his son, Guillaume Sanson. The title page is dated 1697 but the latest date on a map in the atlas is 1709. In French and Latin. Three volume set. Volume I is a huge set of hierarchies presenting the relative arrangement of thousands of places. Each page has from four to six levels of places, for example ranging from a country level down through states and counties on down to cities and towns. In cataloging, for the title of each page,we just list the first highest level place on the page. In the Short Title, liberty as been taken to explain the subjects of the page in English in more detail. Relief shown by sketches. Outline color. Subjects:","creator":"Sanson, Nicolas, 1600-1667 Sanson, Guillaume (1633-1703)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2026-06-19 11:43:51","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ABasse_Podolie_%28Lower_Podolia%29._%28IA_dr_basse-podolie-lower-podolia-9741315%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/02/Basse_Podolie_%28Lower_Podolia%29._%28IA_dr_basse-podolie-lower-podolia-9741315%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-aa172c70d19640811353f7fe","title":"Chortkiv, Atlas Van der Hagen-KW1049B10 044-UKRAINAE PARS, quae PODOLIA PALATINATUS Vulgo dicitur.png","caption":"The French military engineer Guillaume Le Vasseur de Beauplan (1595-1685), completed in the first half of the 17th century the extensive survey of the Ukraine commissioned by the king of Poland Władysław IV Vasa . Apart from the extensive map of the Ukraine which was finished in 1639, De Beauplan worked for a long time on a detailed map in six sheets that was only finished in 1651. Joan Blaeu (1598-1673) reduced the size of this map to a series of four separate maps. This is the second sheet of the series.","creator":"Guillaume Le Vasseur de Beauplan / Joan Blaeu","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1662 date QS:P571,+1662-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AChortkiv%2C_Atlas_Van_der_Hagen-KW1049B10_044-UKRAINAE_PARS%2C_quae_PODOLIA_PALATINATUS_Vulgo_dicitur.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/e7/Chortkiv%2C_Atlas_Van_der_Hagen-KW1049B10_044-UKRAINAE_PARS%2C_quae_PODOLIA_PALATINATUS_Vulgo_dicitur.png","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-a8226e71024282131d3a2a66","title":"Haute Podolie, Basse Podoie (Upper and Lower Podolia). (IA dr haute-podolie-basse-podoie-upper-and-lower-podolia-9741314).jpg","caption":"Zoomable full resolution image available at davidrumsey.com . This image 9741.314 is a part of image group 9741.000 . This is a very rare edition of Sanson's maps, published by his son, Guillaume Sanson. The title page is dated 1697 but the latest date on a map in the atlas is 1709. In French and Latin. Three volume set. Volume I is a huge set of hierarchies presenting the relative arrangement of thousands of places. Each page has from four to six levels of places, for example ranging from a country level down through states and counties on down to cities and towns. In cataloging, for the title of each page,we just list the first highest level place on the page. In the Short Title, liberty as been taken to explain the subjects of the page in English in more detail. Relief shown by sketches. Outline color. Subjects:","creator":"Sanson, Nicolas, 1600-1667 Sanson, Guillaume (1633-1703)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2026-06-21 16:14:37","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AHaute_Podolie%2C_Basse_Podoie_%28Upper_and_Lower_Podolia%29._%28IA_dr_haute-podolie-basse-podoie-upper-and-lower-podolia-9741314%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/0b/Haute_Podolie%2C_Basse_Podoie_%28Upper_and_Lower_Podolia%29._%28IA_dr_haute-podolie-basse-podoie-upper-and-lower-podolia-9741314%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-59a9da66e730731fa37fe760","title":"Map of Podolia Governorate, 1835.gif","caption":"Карта Подольской губернии, 1835","creator":"Военнотипографическое депо","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1835","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMap_of_Podolia_Governorate%2C_1835.gif","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/6f/Map_of_Podolia_Governorate%2C_1835.gif","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-0c565389027c6bbde32e62ff","title":"Map of Ukraine political Podolia.png","caption":"Position de la Podolie en Ukraine","creator":"Spiridon Ion Cepleanu","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","dateDisplay":"2011-12-20","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMap_of_Ukraine_political_Podolia.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5f/Map_of_Ukraine_political_Podolia.png","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-e14c32a1e81468a09d9623ad","title":"Palatinatus-Podolia map.jpg","caption":"Карта Подолії XVII ст.","creator":"Гійом Левассер де Боплан (Роки життя:1600-1673)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"before 1673 date QS:P,+1673-00-00T00:00:00Z/7,P1326,+1673-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APalatinatus-Podolia_map.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fe/Palatinatus-Podolia_map.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-40453c3b4f4c8d8d1ca80017","title":"Podolia in Russian Empire (1914).svg","caption":"Locator map of XY (see filename) province in Russian Empire (1914), extracted from File:Subdivisions of the Russian Empire in 1914.svg","creator":"Milenioscuro","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","dateDisplay":"2019-12-24","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APodolia_in_Russian_Empire_%281914%29.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fc/Podolia_in_Russian_Empire_%281914%29.svg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-ad51057aab64f73a2fcc5f8c","title":"Romanowka palatinatus-podolia-beauplan.jpg","caption":"Romanowka_palatinatus-podolia-beauplan.jpg: Фрагмент карти Боплана - Поділля 1650","creator":"Роман Мацелюх","provider":"commons","providerLabel":"Wikimedia Commons","license":"GFDL","rightsNote":"GNU Free Documentation License","dateDisplay":"2012","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ARomanowka_palatinatus-podolia-beauplan.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/7/77/Romanowka_palatinatus-podolia-beauplan.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-2cbed377c37e0ed56d8b2a29","title":"Russia in Europe Part V. Vilna, Grodno, Volhynia, Podolia, Minsk, Kiev, Tchernigov, Smolensk. Engraved by J. & C. Walker. (IA dr russia-in-europe-part-v-vilna-grodno-volhynia-podolia-minsk-kiev-tch-00524098).jpg","caption":"Zoomable full resolution image available at davidrumsey.com . This image 0890.066 is a part of image group 0890.000 . Engraved map. Relief shown by hachures. Provincial borders hand col. Sources: Imperial atlas of Russia, Fallon and others. The SDUK, as the Society was known, produced inexpensive maps to encourage broad use in education. The maps in these two volumes were issued in parts over several years. The city plans are of particular interest, with vignettes and great detail. The gnomonic star maps were issued separately in this edition in their own covers. This is the second edition, the first being by Baldwin and Cradock, with the maps issued in numbers and later bound as a set. Rumsey Collection copy originally issued without the 6 \"World on a gnomonic projection\" maps; copies of them have been laid in. Atlas is bound in half leather dark brown cloth covered boards with \"Maps. Vol. 1,\" \"Maps. Vol. 2\" stamped in gold on the spines. Maps with outline color; geological map of England and Wales hand colored in full color. Phillips, 794. Subjects:","creator":"Society for the Diffusion of Useful Knowledge (Great Britain) J. &amp; C. Walker","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2026-07-01 08:59:17","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ARussia_in_Europe_Part_V._Vilna%2C_Grodno%2C_Volhynia%2C_Podolia%2C_Minsk%2C_Kiev%2C_Tchernigov%2C_Smolensk._Engraved_by_J._%26_C._Walker._%28IA_dr_russia-in-europe-part-v-vilna-grodno-volhynia-podolia-minsk-kiev-tch-00524098%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/a/aa/Russia_in_Europe_Part_V._Vilna%2C_Grodno%2C_Volhynia%2C_Podolia%2C_Minsk%2C_Kiev%2C_Tchernigov%2C_Smolensk._Engraved_by_J._%26_C._Walker._%28IA_dr_russia-in-europe-part-v-vilna-grodno-volhynia-podolia-minsk-kiev-tch-00524098%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-f9372a62e5749cfc270d6abe","title":"Russia in Europe Part VIII with small index map. Podolia, Bessarabia, Kherson, Iekaterinoslav, Taurida (IA dr russia-in-europe-part-viii-with-small-index-map-podolia-bessarabia-khers-00524101).jpg","caption":"Zoomable full resolution image available at davidrumsey.com . This image 0890.069 is a part of image group 0890.000 . Engraved map. Relief shown by hachures. Provincial borders hand col. Sources: Imperial Russian atlas, Survey of Krimea and others. The SDUK, as the Society was known, produced inexpensive maps to encourage broad use in education. The maps in these two volumes were issued in parts over several years. The city plans are of particular interest, with vignettes and great detail. The gnomonic star maps were issued separately in this edition in their own covers. This is the second edition, the first being by Baldwin and Cradock, with the maps issued in numbers and later bound as a set. Rumsey Collection copy originally issued without the 6 \"World on a gnomonic projection\" maps; copies of them have been laid in. Atlas is bound in half leather dark brown cloth covered boards with \"Maps. Vol. 1,\" \"Maps. Vol. 2\" stamped in gold on the spines. Maps with outline color; geological map of England and Wales hand colored in full color. Phillips, 794. Subjects:","creator":"Society for the Diffusion of Useful Knowledge (Great Britain) J. &amp; C. Walker","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2026-06-28 04:41:35","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ARussia_in_Europe_Part_VIII_with_small_index_map._Podolia%2C_Bessarabia%2C_Kherson%2C_Iekaterinoslav%2C_Taurida_%28IA_dr_russia-in-europe-part-viii-with-small-index-map-podolia-bessarabia-khers-00524101%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a8/Russia_in_Europe_Part_VIII_with_small_index_map._Podolia%2C_Bessarabia%2C_Kherson%2C_Iekaterinoslav%2C_Taurida_%28IA_dr_russia-in-europe-part-viii-with-small-index-map-podolia-bessarabia-khers-00524101%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-ac824b84f1fa45d4934dc47c","title":"Ukraine pars quae Podolia Palatinatus Vulgo dicitur - Per Guil. le Vasseur de Beauplan - btv1b525107634 (1 of 2).jpg","caption":"Sujet : Podolie (région naturelle) Ukraine Couverture : Ukraine Langue : latin Éditeur : [s.n.]","creator":"Beauplan, Guillaume Le Vasseur (16..-1673 ; sieur de). Cartographe","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1648 date QS:P571,+1648-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AUkraine_pars_quae_Podolia_Palatinatus_Vulgo_dicitur_-_Per_Guil._le_Vasseur_de_Beauplan_-_btv1b525107634_%281_of_2%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Ukraine_pars_quae_Podolia_Palatinatus_Vulgo_dicitur_-_Per_Guil._le_Vasseur_de_Beauplan_-_btv1b525107634_%281_of_2%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-be66007391bad6a87a9585d9","title":"Ukraine. Podolia Palatinatus. Beauplan 1664.jpg","caption":"Ukraine. Podolia_Palatinatus","creator":"Beauplan","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"before 1648 date QS:P,+1648-00-00T00:00:00Z/7,P1326,+1648-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AUkraine._Podolia_Palatinatus._Beauplan_1664.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/7/7b/Ukraine._Podolia_Palatinatus._Beauplan_1664.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-1b5616ae75e7f5aa1e60249d","title":"Partie Occidentale de la Russie Polonoise.jpg","caption":"A map of \"Western part of Polish Rus/Russia/Ruthenia, where Black Ruthenia and Upper Volhynia and Upper Podolia are located\" (\"Partie occidentale de la Russie Polonoise, où se trouvent la Russie Noire, la Haute Volhynie et la Haute Podolie\").","creator":"Didier Robert de Vaugondy (1723-1786)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1749","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APartie_Occidentale_de_la_Russie_Polonoise.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/10/Partie_Occidentale_de_la_Russie_Polonoise.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-f09ad356f155a4a62d8c29ba","title":"Partie orientale de la Russie Polonoise, où se trouvent la Basse Volhynie et la Basse Podolie.jpg","caption":"A map of \"Eastern part of Polish Rus, where Lower Volhynia and Lower Podolia are located\" (\"Partie orientale de la Russie Polonoise, où se trouvent la Basse Volhynie et la Basse Podolie\"). From: G. Robert de Vaugondy's Atlas portatif, universel et militaire, 1748. Published in France (probably in Paris) in 1749. Available also as a digital image through the Harvard University Library Web site. Electronic reproduction. Cambridge, Mass. : Harvard College Library Digital Imaging Group, 2008. Harvard Map Collection digital maps. Ukraine.","creator":"Didier Robert de Vaugondy","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1749","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APartie_orientale_de_la_Russie_Polonoise%2C_o%C3%B9_se_trouvent_la_Basse_Volhynie_et_la_Basse_Podolie.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/9/9b/Partie_orientale_de_la_Russie_Polonoise%2C_o%C3%B9_se_trouvent_la_Basse_Volhynie_et_la_Basse_Podolie.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-386b77a46739ca5817ee28a8","title":"Russia. No. 5. Letts's popular atlas. Letts, Son & Co. Limited, London. (1883) (IA dr russia-no-5-lettss-popular-atlas-letts-son-co-limited-london-18-5371061).jpg","caption":"Zoomable full resolution image available at &lt;a href=\" https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~31412~1150368 \" rel=\"nofollow\"&gt;davidrumsey.com&lt;/a&gt;. This image &lt;a href=\"//www.davidrumsey.com/luna/servlet/view/search?q=list_no=%225371.061%22\" rel=\"nofollow\"&gt;5371.061&lt;/a&gt; is a part of image group &lt;a href=\" https://www.davidrumsey.com/luna/servlet/view/search?q=pub_list_no=%225371.000%22 \" rel=\"nofollow\"&gt;5371.000&lt;/a&gt;. Colored map. Sheet 5 (Vilna-Kiev) of 9 sheets. Relief shown by hachures and spot heights. Shows cities, British consulates, vice-consulates and consular agents, lights and lighthouses, railroads, etc. Covers Vilna, Grodno, Volhynia, Podolia, Minsk, Kiev, Tchernigov and Smolensk. Cf P900 and World 435 (4 v. in 2, 1881-1883) Subjects:","creator":"Letts, Son &amp; Co.","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2026-06-28 01:41:39","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ARussia._No._5._Letts%27s_popular_atlas._Letts%2C_Son_%26_Co._Limited%2C_London._%281883%29_%28IA_dr_russia-no-5-lettss-popular-atlas-letts-son-co-limited-london-18-5371061%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fa/Russia._No._5._Letts%27s_popular_atlas._Letts%2C_Son_%26_Co._Limited%2C_London._%281883%29_%28IA_dr_russia-no-5-lettss-popular-atlas-letts-son-co-limited-london-18-5371061%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-86d54b585fe89a288618c448","title":"Russia. No. 8. Letts's popular atlas. Letts, Son & Co. Limited, London. (1883) (IA dr russia-no-8-lettss-popular-atlas-letts-son-co-limited-london-18-5371064).jpg","caption":"Zoomable full resolution image available at davidrumsey.com . This image 5371.064 is a part of image group 5371.000 . Colored map. Sheet 8 (southwest) of 9 sheets. Relief shown by hachures and spot heights. Shows cities, British consulates, vice-consulates and consular agents, lights and lighthouses, railroads, etc. Includes statistical table and index map. Covers Podolia, Bessarabia, Kherson, Iekaterinoslav, Taurida and Crimea. Cf P900 and World 435 (4 v. in 2, 1881-1883) Subjects:","creator":"Letts, Son &amp; Co.","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2026-06-25 16:35:07","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ARussia._No._8._Letts%27s_popular_atlas._Letts%2C_Son_%26_Co._Limited%2C_London._%281883%29_%28IA_dr_russia-no-8-lettss-popular-atlas-letts-son-co-limited-london-18-5371064%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c7/Russia._No._8._Letts%27s_popular_atlas._Letts%2C_Son_%26_Co._Limited%2C_London._%281883%29_%28IA_dr_russia-no-8-lettss-popular-atlas-letts-son-co-limited-london-18-5371064%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-93e7b131970ccef614ac381d","title":"Червонная Русь, Подолье, Волынь и Украина.png","caption":"Map of historical Russian regions under Polish occupation: Red Russia, Podolia, Volhynia and Ukraine. Jakob von Sandrart, Nuremberg, 1687","creator":"Jakob Sandrart. Russia Rubra, Podolia, Volhynia et Ukraina. ‒ Nuremberg, 1687","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1687","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A%D0%A7%D0%B5%D1%80%D0%B2%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D0%A0%D1%83%D1%81%D1%8C%2C_%D0%9F%D0%BE%D0%B4%D0%BE%D0%BB%D1%8C%D0%B5%2C_%D0%92%D0%BE%D0%BB%D1%8B%D0%BD%D1%8C_%D0%B8_%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B0.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/9/9b/%D0%A7%D0%B5%D1%80%D0%B2%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D0%A0%D1%83%D1%81%D1%8C%2C_%D0%9F%D0%BE%D0%B4%D0%BE%D0%BB%D1%8C%D0%B5%2C_%D0%92%D0%BE%D0%BB%D1%8B%D0%BD%D1%8C_%D0%B8_%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B0.png","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-70e4adf76e81fa8a75e4b247","title":"\"Tabula Russiae - ex autographo, quod delineandum curavit Eoedor filius Tzaris Boris desumta ... ; dedicata ab Hesselo Gerardo \" (22065138090).jpg","caption":"Descripción bibliográfica: Geographia Blaviana. - [Amsterdam : Juan Blaeu, 1659] . - [32], VI, 96 p., 34 f., h. 35a, 35b, 35c, 35d, 36-44 f., 34, [2], 36-40, [2], 43-70 [i. e. 75], [1] f., [20] p. de map., [9] f. de map., [4] f. pleg. de map., [2] f. de plan., [2] f. ge grab. : |bil. ; |cFol. marca major (57 cm.) . - En la dedicatoria a Felipe IV: \"Presenta ... El Atlas Universal y Cosmographico de los orbes y terrestre ... Juan Blaeu\" . - Título tomado del frontispicio. -- Privilegio fechado en 1659. -Errores de pag. - Sign.: [ ]1, *2, **3, ***-****2, a-e2, A-I2, K1, L-Z2, Aa-Dd2, 4[ ]2, Ee-Ff2, A-I2, K1, L2, M1, N-Y2, Z5, Aa-Dd2, Ee1, A-D2, E-F1, G-I2, K-L1, M-O2, P1, Q-Z2, Aa-Bb2, Cc1, Dd3, Ff-Zz2, Aaa-Bbb2, [ ]. - Frontispicio grab. col. -- Incluye un total de 49 il. entre map., plan. i grab. Materia: Atlas - Obras anteriores a 1800 Impresor: Blaeu, Joan, 1596-1673, imp. Lugar de impresión: Holanda. Amsterdam Localización: fama.us.es/record=b2058758~S5*spi Vea la ilustración en su contexto Visite también la exposición \"Cartografía histórica en la Biblioteca de la Universidad de Sevilla\" expobus.us.es/cartografia//","creator":"Fondo Antiguo de la Biblioteca de la Universidad de Sevilla from Sevilla, España","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY 2.0","rightsNote":"Creative Commons Attribution 2.0","dateDisplay":"2015-10-17 17:43","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A%22Tabula_Russiae_-_ex_autographo%2C_quod_delineandum_curavit_Eoedor_filius_Tzaris_Boris_desumta_..._%3B_dedicata_ab_Hesselo_Gerardo_%22_%2822065138090%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c0/%22Tabula_Russiae_-_ex_autographo%2C_quod_delineandum_curavit_Eoedor_filius_Tzaris_Boris_desumta_..._%3B_dedicata_ab_Hesselo_Gerardo_%22_%2822065138090%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-c44ee3b9af9afbdf69451ac7","title":"1550 Map of Poland - Book Museum - National Library - Minsk - Belarus (27448006382).jpg","caption":"1550 Map of Poland - Book Museum - National Library - Minsk - Belarus","creator":"Adam Jones from Kelowna, BC, Canada","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 2.0","rightsNote":"Creative Commons Attribution-Share Alike 2.0","dateDisplay":"2016-06-08 05:07","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A1550_Map_of_Poland_-_Book_Museum_-_National_Library_-_Minsk_-_Belarus_%2827448006382%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/28/1550_Map_of_Poland_-_Book_Museum_-_National_Library_-_Minsk_-_Belarus_%2827448006382%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-b5b6dd30d431838123418d2a","title":"1747 La Feuille Map of Poland - Geographicus - Pologne-ratelband-1747.jpg","caption":"A stunning map of Poland first drawn by Daniel de la Feuille in 1706. Covers the entire territory of Poland as well as parts of Latvia, Prussia, Hungary, Transylvania, Moldova and Russia. Flanked on either side by the twelve armorial crests of Poland and its immediate neighbors. Title appears at the top center in both French and Dutch. This is Paul de la Feuille’s 1747 reissue of his father Daniel’s 1706 map. Prepared for issue as plate no. 31 in J. Ratelband’s 1747 Geographisch-Toneel .","creator":"Daniel de Lafeuille","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1747 (undated)","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A1747_La_Feuille_Map_of_Poland_-_Geographicus_-_Pologne-ratelband-1747.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/22/1747_La_Feuille_Map_of_Poland_-_Geographicus_-_Pologne-ratelband-1747.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-b0adf44dbc5b1a59eb021fb7","title":"368 of 'The Earth and its Inhabitants. The European section of the Universal Geography by E. Reclus. Edited by E. G. Ravenstein. Illustrated by ... engravings and maps' (11124137815).jpg","caption":"This file has been provided by the British Library from its digital collections. Links to the British Library's website may be broken as the library recovers from a October 2023 cyber attack, and will be updated once material becomes accessible online. For more information on the attack see: https://www.bl.uk/about/cyber-attack","creator":"The British Library","provider":"commons","providerLabel":"Wikimedia Commons","license":"No restrictions","rightsNote":"No known copyright restrictions","dateDisplay":"2013-11-29 23:43","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A368_of_%27The_Earth_and_its_Inhabitants._The_European_section_of_the_Universal_Geography_by_E._Reclus._Edited_by_E._G._Ravenstein._Illustrated_by_..._engravings_and_maps%27_%2811124137815%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/6d/368_of_%27The_Earth_and_its_Inhabitants._The_European_section_of_the_Universal_Geography_by_E._Reclus._Edited_by_E._G._Ravenstein._Illustrated_by_..._engravings_and_maps%27_%2811124137815%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-bfcac0448c0244fb941befbd","title":"370 of 'The Earth and its Inhabitants. The European section of the Universal Geography by E. Reclus. Edited by E. G. Ravenstein. Illustrated by ... engravings and maps' (11121499634).jpg","caption":"This file has been provided by the British Library from its digital collections. Links to the British Library's website may be broken as the library recovers from a October 2023 cyber attack, and will be updated once material becomes accessible online. For more information on the attack see: https://www.bl.uk/about/cyber-attack","creator":"The British Library","provider":"commons","providerLabel":"Wikimedia Commons","license":"No restrictions","rightsNote":"No known copyright restrictions","dateDisplay":"2013-11-29 20:04","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A370_of_%27The_Earth_and_its_Inhabitants._The_European_section_of_the_Universal_Geography_by_E._Reclus._Edited_by_E._G._Ravenstein._Illustrated_by_..._engravings_and_maps%27_%2811121499634%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d8/370_of_%27The_Earth_and_its_Inhabitants._The_European_section_of_the_Universal_Geography_by_E._Reclus._Edited_by_E._G._Ravenstein._Illustrated_by_..._engravings_and_maps%27_%2811121499634%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-4e1ebb51a32d5892518a9d2d","title":"60 of 'Подолія. Историческое описаніе ... Издано ... П. Н. Батюшковымъ (and M. I. Gorodetsky) ... Съ одной хромолитографіей ... и 2-мя картами' (11211123613).jpg","caption":"View this map on the BL Georeferencer service. Image taken from: Title : \"Подолія. Историческое описаніе ... Издано ... П. Н. Батюшковымъ [and M. I. Gorodetsky] ... Съ одной хромолитографіей ... и 2-мя картами\" Author : Petrov, Nikolaĭ Ivanovich. Contributor : BATYUSHKOV, Pompei Nikolaevich. Contributor : GORODETSKY, M. I. Shelfmark : \"British Library HMNTS 9456.ee.11.\" Page : 60 Place of Publishing : С.-Петербургъ Date of Publishing : 1891 Issuance : monographic Identifier : 002890427 Explore: Find this item in the British Library catalogue, 'Explore'. Download the PDF for this book (volume: 0) Image found on book scan 60 (NB not necessarily a page number) Download the OCR-derived text for this volume: (plain text) or (json) Click here to see all the illustrations in this book and click here to browse other illustrations published in books in the same year. Order a higher quality version from here .","creator":"The British Library","provider":"commons","providerLabel":"Wikimedia Commons","license":"No restrictions","rightsNote":"No known copyright restrictions","dateDisplay":"2013-12-04 20:26","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A60_of_%27%D0%9F%D0%BE%D0%B4%D0%BE%D0%BB%D1%96%D1%8F._%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D1%96%D0%B5_..._%D0%98%D0%B7%D0%B4%D0%B0%D0%BD%D0%BE_..._%D0%9F._%D0%9D._%D0%91%D0%B0%D1%82%D1%8E%D1%88%D0%BA%D0%BE%D0%B2%D1%8B%D0%BC%D1%8A_%28and_M._I._Gorodetsky%29_..._%D0%A1%D1%8A_%D0%BE%D0%B4%D0%BD%D0%BE%D0%B9_%D1%85%D1%80%D0%BE%D0%BC%D0%BE%D0%BB%D0%B8%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D1%96%D0%B5%D0%B9_..._%D0%B8_2-%D0%BC%D1%8F_%D0%BA%D0%B0%D1%80%D1%82%D0%B0%D0%BC%D0%B8%27_%2811211123613%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/9/9c/60_of_%27%D0%9F%D0%BE%D0%B4%D0%BE%D0%BB%D1%96%D1%8F._%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D1%96%D0%B5_..._%D0%98%D0%B7%D0%B4%D0%B0%D0%BD%D0%BE_..._%D0%9F._%D0%9D._%D0%91%D0%B0%D1%82%D1%8E%D1%88%D0%BA%D0%BE%D0%B2%D1%8B%D0%BC%D1%8A_%28and_M._I._Gorodetsky%29_..._%D0%A1%D1%8A_%D0%BE%D0%B4%D0%BD%D0%BE%D0%B9_%D1%85%D1%80%D0%BE%D0%BC%D0%BE%D0%BB%D0%B8%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D1%96%D0%B5%D0%B9_..._%D0%B8_2-%D0%BC%D1%8F_%D0%BA%D0%B0%D1%80%D1%82%D0%B0%D0%BC%D0%B8%27_%2811211123613%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-6dcfe224209e8b09f9344a66","title":"Carte des Estats de Suede, de Dannemarq, et de Pologne; sur la Mer Baltique.jpg","caption":"Published in Paris by Nicolas de Fer in 1700. Copper engraving, ca 1:4 200 000, 35 x 43 cm. The original map consists of two parts; the present is an Eastern part.","creator":"Nicolas de Fer (1646-1720)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1700","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ACarte_des_Estats_de_Suede%2C_de_Dannemarq%2C_et_de_Pologne%3B_sur_la_Mer_Baltique.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/ea/Carte_des_Estats_de_Suede%2C_de_Dannemarq%2C_et_de_Pologne%3B_sur_la_Mer_Baltique.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-15cd0a5f43e0761eb8c83468","title":"English map of Poland XVIII century.png","caption":"English map of Poland - XVIII century","creator":"","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2006-02-17 23:24:10","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AEnglish_map_of_Poland_XVIII_century.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/08/English_map_of_Poland_XVIII_century.png","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-3f4ca5f2512675cc0f1fc5b7","title":"Kyivstar vkraina 1560-2.jpg","caption":"\"A New Map of Poland and Hungary\" ( Polonia et Hungaria Nuova Tavola ), Girolamo Ruscelli (Venice, 1560) Примірник «Нової карти Польщі та Угорщини» Рушеллі 1560 р., де уперше використано назву Червона Русь [Rossia Rossa] щодо Правобережної України. При цьому назва Русі вживана на грецький манер – Rossia, що в подальшому так і не прижилася на заході. На карті вказаний Вишгород, а Київ – ні. https://uk.wikipedia.org/w/index.php?title=Vkraina","creator":"Ptolemy","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","dateDisplay":"6 December 2012 at 11:25:53","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKyivstar_vkraina_1560-2.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/7/74/Kyivstar_vkraina_1560-2.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-2750b1235cc5f1ac9c205206","title":"Russia Mercator 1595.jpg","caption":"Map of Eastern Europe by Gerard Mercator in 1595.","creator":"Gerard Mercator","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1595","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ARussia_Mercator_1595.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/69/Russia_Mercator_1595.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-92ced1192c096e5d86b70912","title":"Shubert map - R23L06.jpg","caption":"\"Shubert's map\". Fragment of topographic map of Russian Empire. 3 versta in inch (1260 m in 1 cm).","creator":"Фёдор Фёдорович Шуберт (1789-1865), гравёры Военно-топографического депо, \"вольные\" гравёры","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between 1850 and 1890 date QS:P,+1850-00-00T00:00:00Z/7,P1319,+1850-00-00T00:00:00Z/9,P1326,+1890-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AShubert_map_-_R23L06.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d7/Shubert_map_-_R23L06.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-bc02b2f58eb60a714bb4c409","title":"Shubert map - R24L06.jpg","caption":"\"Shubert's map\". Fragment of topographic map of Russian Empire. 3 versta in inch (1260 m in 1 cm).","creator":"Фёдор Фёдорович Шуберт (1789-1865), гравёры Военно-топографического депо, \"вольные\" гравёры","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between 1850 and 1890 date QS:P,+1850-00-00T00:00:00Z/7,P1319,+1850-00-00T00:00:00Z/9,P1326,+1890-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AShubert_map_-_R24L06.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/ce/Shubert_map_-_R24L06.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-895d384f70b215f70e29b2c7","title":"Shubert map - R25L05.jpg","caption":"\"Shubert's map\". Fragment of topographic map of Russian Empire. 3 versta in inch (1260 m in 1 cm).","creator":"Фёдор Фёдорович Шуберт (1789-1865), гравёры Военно-топографического депо, \"вольные\" гравёры","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between 1850 and 1890 date QS:P,+1850-00-00T00:00:00Z/7,P1319,+1850-00-00T00:00:00Z/9,P1326,+1890-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AShubert_map_-_R25L05.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/3/39/Shubert_map_-_R25L05.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-3ac059872dcc9cdcb489ecf4","title":"Shubert map - R25L06.jpg","caption":"\"Shubert's map\". Fragment of topographic map of Russian Empire. 3 versta in inch (1260 m in 1 cm).","creator":"Фёдор Фёдорович Шуберт (1789-1865), гравёры Военно-топографического депо, \"вольные\" гравёры","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between 1850 and 1890 date QS:P,+1850-00-00T00:00:00Z/7,P1319,+1850-00-00T00:00:00Z/9,P1326,+1890-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AShubert_map_-_R25L06.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/a/ab/Shubert_map_-_R25L06.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-1fa11b3be2c4be088918b065","title":"Shubert map - R25L07.jpg","caption":"\"Shubert's map\". Fragment of topographic map of Russian Empire. 3 versta in inch (1260 m in 1 cm).","creator":"Фёдор Фёдорович Шуберт (1789-1865), гравёры Военно-топографического депо, \"вольные\" гравёры","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between 1850 and 1890 date QS:P,+1850-00-00T00:00:00Z/7,P1319,+1850-00-00T00:00:00Z/9,P1326,+1890-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AShubert_map_-_R25L07.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/55/Shubert_map_-_R25L07.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-e903a9c539116692cbe491ad","title":"Shubert map - R26L07.jpg","caption":"\"Shubert's map\". Fragment of topographic map of Russian Empire. 3 versta in inch (1260 m in 1 cm).","creator":"Фёдор Фёдорович Шуберт (1789-1865), гравёры Военно-топографического депо, \"вольные\" гравёры","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between 1850 and 1890 date QS:P,+1850-00-00T00:00:00Z/7,P1319,+1850-00-00T00:00:00Z/9,P1326,+1890-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AShubert_map_-_R26L07.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a8/Shubert_map_-_R26L07.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-ed87220ffa39818f4feebb70","title":"Shubert map - R26L08.jpg","caption":"\"Shubert's map\". Fragment of topographic map of Russian Empire. 3 versta in inch (1260 m in 1 cm).","creator":"Фёдор Фёдорович Шуберт (1789-1865), гравёры Военно-топографического депо, \"вольные\" гравёры","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between 1850 and 1890 date QS:P,+1850-00-00T00:00:00Z/7,P1319,+1850-00-00T00:00:00Z/9,P1326,+1890-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AShubert_map_-_R26L08.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fa/Shubert_map_-_R26L08.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-cc042d09aa9a8f42cab3e75d","title":"Shubert map - R26l09.jpg","caption":"\"Shubert's map\". Fragment of topographic map of Russian Empire. 3 versta in inch (1260 m in 1 cm).","creator":"Фёдор Фёдорович Шуберт (1789-1865), гравёры Военно-топографического депо, \"вольные\" гравёры","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between 1850 and 1890 date QS:P,+1850-00-00T00:00:00Z/7,P1319,+1850-00-00T00:00:00Z/9,P1326,+1890-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AShubert_map_-_R26l09.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/2a/Shubert_map_-_R26l09.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-1050abf2ee8a9fd72413fb15","title":"Shubert map - R27L07.jpg","caption":"\"Shubert's map\". Fragment of topographic map of Russian Empire. 3 versta in inch (1260 m in 1 cm).","creator":"Фёдор Фёдорович Шуберт (1789-1865), гравёры Военно-топографического депо, \"вольные\" гравёры","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between 1850 and 1890 date QS:P,+1850-00-00T00:00:00Z/7,P1319,+1850-00-00T00:00:00Z/9,P1326,+1890-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AShubert_map_-_R27L07.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d3/Shubert_map_-_R27L07.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-a43741223fc9f85ef9050c84","title":"Shubert map - R27L08.jpg","caption":"\"Shubert's map\". Fragment of topographic map of Russian Empire. 3 versta in inch (1260 m in 1 cm).","creator":"Фёдор Фёдорович Шуберт (1789-1865), гравёры Военно-топографического депо, \"вольные\" гравёры","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between 1850 and 1890 date QS:P,+1850-00-00T00:00:00Z/7,P1319,+1850-00-00T00:00:00Z/9,P1326,+1890-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AShubert_map_-_R27L08.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/cd/Shubert_map_-_R27L08.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-74b54c11f19e9c4d4774b6d0","title":"Shubert map - R28L07.jpg","caption":"\"Shubert's map\". Fragment of topographic map of Russian Empire. 3 versta in inch (1260 m in 1 cm).","creator":"Фёдор Фёдорович Шуберт (1789-1865), гравёры Военно-топографического депо, \"вольные\" гравёры","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between 1850 and 1890 date QS:P,+1850-00-00T00:00:00Z/7,P1319,+1850-00-00T00:00:00Z/9,P1326,+1890-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AShubert_map_-_R28L07.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/45/Shubert_map_-_R28L07.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-8a7d12d43f03fc486281fa1c","title":"Shubert map - R28L08.jpg","caption":"\"Shubert's map\". Fragment of topographic map of Russian Empire. 3 versta in inch (1260 m in 1 cm).","creator":"Фёдор Фёдорович Шуберт (1789-1865), гравёры Военно-топографического депо, \"вольные\" гравёры","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between 1850 and 1890 date QS:P,+1850-00-00T00:00:00Z/7,P1319,+1850-00-00T00:00:00Z/9,P1326,+1890-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AShubert_map_-_R28L08.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/44/Shubert_map_-_R28L08.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-37f99d2c8503d3a6e2969daa","title":"Shubert map - R28L09.jpg","caption":"\"Shubert's map\". Fragment of topographic map of Russian Empire. 3 versta in inch (1260 m in 1 cm).","creator":"Фёдор Фёдорович Шуберт (1789-1865), гравёры Военно-топографического депо, \"вольные\" гравёры","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between 1850 and 1890 date QS:P,+1850-00-00T00:00:00Z/7,P1319,+1850-00-00T00:00:00Z/9,P1326,+1890-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AShubert_map_-_R28L09.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/b/bf/Shubert_map_-_R28L09.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-0432b47b0fd8fc2738bcb22c","title":"The map of Russia, late 16 c., Holland.jpg","caption":"The map of Russia, late 16 c., Holland","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"late 16 c.","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AThe_map_of_Russia%2C_late_16_c.%2C_Holland.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/52/The_map_of_Russia%2C_late_16_c.%2C_Holland.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-ebf0a980e561b59459cebad7","title":"Ukraine. Braclavia Palatinatus. Beauplan 1648.jpg","caption":"Ukraine. Braclavia","creator":"Beauplan","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"before 1648 date QS:P,+1648-00-00T00:00:00Z/7,P1326,+1648-00-00T00:00:00Z/9 (1639)","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AUkraine._Braclavia_Palatinatus._Beauplan_1648.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f7/Ukraine._Braclavia_Palatinatus._Beauplan_1648.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-bd0f98a815753a27dda32f39","title":"Visscher Moscoviae seu Russiae Magnae generalis tabula small.jpg","caption":"Map of Russia by Nicolaas Visscher II (1649-1702)","creator":"Nicolaas Visscher II (1649-1702)","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","dateDisplay":"1681","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVisscher_Moscoviae_seu_Russiae_Magnae_generalis_tabula_small.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/6e/Visscher_Moscoviae_seu_Russiae_Magnae_generalis_tabula_small.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0}]
+  []
 ---
 # Podolė
 
@@ -68,16 +67,6 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
 - t-031
   global_id: t-177907
   teiginys: "Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų vienuolynų Vilniuje steigėju ir vėlesniu Vilniaus vyskupu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "400920-401536; hash=44655a4a4a920f84d56227e2454a5b3f41e3d4398382fcf58e1cd51b9aa9d600; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Pranciškonų ordinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Podolė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Pranciškonų ordinas: mention_match, group, gap=17"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Podolė\" parinktas kaip owner_note_path. Targetas \"Pranciškonų ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-161726
 
@@ -85,16 +74,6 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
 - t-040
   global_id: t-177908
   teiginys: "Goštautas vedė Bučiacką iš Podolės ir priėmė Romos katalikų tikėjimą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "81730-82271; hash=a2913a6cb9e847ec3f9947b4144f86e74406b9cba4cf24937e71c4dfd23b2cd5; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Podolė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Podolė\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-161725
 
@@ -102,16 +81,6 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
 - t-032
   global_id: t-177909
   teiginys: "Vytautas buvo perleidęs Švitrigailai Kamenecą ir kitas Podolės pilis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "423262-424333; hash=3981265d982fd5fea8d6ad2c4bcc3e6ffc467f25faed1ee69a61c802b20ebace; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilniaus pilis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Podolė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Vilniaus pilis: mention_match, place, gap=8"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Podolė\" parinktas kaip owner_note_path. Targetas \"Vilniaus pilis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-161736
 
@@ -119,17 +88,6 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
 - t-056
   global_id: t-177910
   teiginys: "Žygimantas Augustas, palaikydamas Lenkiją, savo aktais prie jos prijungė Podolės vaivadiją ir kitas LDK teritorijas."
-  semantiniai_rysiai: "Kijevas priklausė Lenkija (0.82)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "123868-124282; hash=7f6a6225c00bb64abe1194d8ca608036c05c11924f0f17faa39c1deaa0abd991; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Lenkija: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kijevas: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata kartu su Podole mini Kijevo vaivadijos prijungimą prie Lenkijos."
   pagrindžia:
     - c-161734
 
@@ -137,17 +95,6 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
 - t-033
   global_id: t-177911
   teiginys: "Švitrigaila Lenkijos labui atsisakė Kameneco ir kitų Podolės pilių."
-  semantiniai_rysiai: "Kamenecas priklausė Lenkija (0.68)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "424586-424884; hash=3eebb5ddbcaedd189cf0c2ea659fd4efb084dc958bd117ede7b9ee4c6c690acf; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Lenkija: 0.68"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kamenecas: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Švitrigaila atsisakė Kameneco Lenkijos labui, todėl tekstas pagrindžia Kameneco perėjimą Lenkijos naudai."
   pagrindžia:
     - c-161723
 
@@ -155,21 +102,6 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
 - t-046
   global_id: t-177912
   teiginys: "1447 m. privilegijoje Kazimieras pasižadėjo išlaikyti Lietuvą Vytauto laikų ribose, todėl Podolė su Voluine turėjo likti Lietuvai."
-  temporaliniai_duomenys: "įvykio data: 1447 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sutrumpinta ir aiškiai susieta su Podole."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "377709-378027; hash=a3f94cd9e97fb8a101fbe6656112f8deb31de918f40d65e3cbc62cdba98e2b30; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Voluinė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Podolė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Voluinė: mention_match, place, gap=10"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Podolė\" parinktas kaip owner_note_path. Targetas \"Voluinė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-24389
 
@@ -177,16 +109,6 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
 - t-038
   global_id: t-177913
   teiginys: "Zigmantas Vaza nurodė LDK kariuomenei telktis prie Podolės Kameneco ir suteikti pagalbą Lenkijos kariuomenei."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "458730-459079; hash=7cd5e13a4fd57258420b2289d4ee54e78d9deea7417d80d0eaaf8e946fb46cc1; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kamenecas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Podolė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kamenecas: mention_match, place, gap=8"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Podolė\" parinktas kaip owner_note_path. Targetas \"Kamenecas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-161741
 
@@ -194,20 +116,6 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
 - t-020
   global_id: t-177914
   teiginys: "1362 m. prie Mėlynųjų Vandenų sumušęs totorius, Algirdas laimėjo plačią Podoliją palei Dniestrą."
-  semantiniai_rysiai: "Algirdas (Lietuvos valdovas) kariavo prieš Totoriai (0.94); Algirdas (Lietuvos valdovas) užėmė Podolė (0.90); Algirdas (Lietuvos valdovas) dalyvavo mūšyje Mėlynųjų Vandenų mūšis (1362 m.) (0.82)"
-  temporaliniai_duomenys: "įvykio data: 1362 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatoje nurodytą Algirdo pergalę ir Podolės laimėjimą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "723171-723630; hash=5cecc5ded9f21aa11cbfddb7f383afb94c7ff1fcea4c9c55ca7f3601c063665a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Totoriai: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Totoriai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Algirdą sumušus totorius."
   pagrindžia:
     - c-161755
 
@@ -215,16 +123,6 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
 - t-036
   global_id: t-177915
   teiginys: "Apsirūpinus artilerija ir amunicija Vilniuje, likusieji ginklai buvo siunčiami į Lietuvos, Rusios, Voluinės, Podolės ir Ukrainos pilis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "556840-557400; hash=c98b36f21a00608373b2af71a304c7d6ad5c482cb5cdb1afe7e5a37ffeff666c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Ukraina: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Podolė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Ukraina: mention_match, place, gap=11"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Podolė\" parinktas kaip owner_note_path. Targetas \"Ukraina\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-161728
 
@@ -232,17 +130,6 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
 - t-052
   global_id: t-177916
   teiginys: "Stryjkovskis konflikte su lenkais dėl Podolės ir Volinijos gynė lietuvių poziciją."
-  semantiniai_rysiai: "Lietuviai kariavo prieš Lenkai (0.60)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "129829-130329; hash=e9e73e735e6bff3c1e990af96f8a9a22cb2f8f52455af74f9fb7cb1cf481ea41; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Lenkai: 0.60"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lenkai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Tekstas kalba apie lietuvių-lenkų konfliktą dėl Podolės ir Volinijos, todėl atsargiai fiksuojama priešprieša."
   pagrindžia:
     - c-161748
 
@@ -250,17 +137,6 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
 - t-022
   global_id: t-177917
   teiginys: "Drauge su Podole į Lietuvos valstybę buvo įjungta ir Kijevo kunigaikštystė."
-  semantiniai_rysiai: "Podolė priklausė Lietuva (0.96); Kijevo kunigaikštystė priklausė Lietuva (0.96); Karijotaičiai pastatė Bakota (0.82)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "724197-724636; hash=beb74a2514cb721e6b43968009001d95172b83e287fd939ff2091ac35a953f6d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Lietuva: 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Podolė: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Podolė buvo įjungta į Lietuvos valstybę."
   pagrindžia:
     - c-161742
 
@@ -268,19 +144,6 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
 - t-055
   global_id: t-177918
   teiginys: "1395 m. Vytautas paskyrė savo vietininką Podolėje."
-  temporaliniai_duomenys: "įvykio data: 1393 m.; įvykio data: 1394 m.; įvykio data: 1395 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, aiškus ir paremtas citata."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "77765-78116; hash=2659f558cccbb16e4481f6b8b9fd71722edba1fa57fad5919f20451acc4adc13; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kijevas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Podolė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kijevas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Podolė\" parinktas kaip owner_note_path. Targetas \"Kijevas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-161722
 
@@ -288,21 +151,6 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
 - t-048
   global_id: t-177920
   teiginys: "Netrukus Voluinėje ir Podolėje įsiplieskė karas su Lietuva ir valakais."
-  temporaliniai_duomenys: "įvykio data: 1431 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra taisyklingas ir tiesiogiai paremtas citatos sakiniu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "134097-134292; hash=1e113444ae3a2600c4cd6fb1ee3b23d4d5b9cd7b9db25f3df6e401b6e4fbc782; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Podolė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=29"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Podolė\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-161745
 
@@ -310,19 +158,6 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
 - t-013
   global_id: t-177921
   teiginys: "Podolei ir Rusiai kazokai buvo svarbi jėga ginantis nuo totorių, todėl valdovas jiems mokėjo nedidelį atlygį."
-  semantiniai_rysiai: "Kazokai gynė Podolė (0.88); Kazokai kariavo prieš Totoriai (0.86)"
-  temporaliniai_duomenys: "valdymo laikotarpis: 1621 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „valdymo laikotarpis“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "460604-461030; hash=ef758955bed01da2dc13e3306bd7b7113035aacde846e91c0f64a5afc9b3d6f4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyne -> Podolė: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kazokai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Podolė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citatoje kazokai apibūdinti kaip svarbi jėga ginantis Podolei nuo totorių."
   pagrindžia:
     - c-161730
 
@@ -330,18 +165,6 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
 - t-046
   global_id: t-177922
   teiginys: "Švitrigaila Lenkijos labui atsisakė Kameneco ir kitų pilių Podolėje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "424334-424805; hash=2ff665bb1565573323f6badeb2da1530ae7179ff52c3704e4f32e41c6439bb06; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Podolė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Podolė\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-161744
 
@@ -349,19 +172,6 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
 - t-035
   global_id: t-177924
   teiginys: "Netrukus Voluinėje ir Podolėje įsiplieskė karas su Lietuva ir valakais, o 1431 m. Didžiojoje Lenkijoje - su Kryžiuočių ordinu."
-  temporaliniai_duomenys: "įvykio data: 1431 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "428638-429104; hash=d04a7944663118f5e689336b20a0c01f01930ba551ee245bed990735b12732e9; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Podolė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=86"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Podolė\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-161749
 
@@ -369,19 +179,6 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
 - t-023
   global_id: t-177926
   teiginys: "Kazokai Podolei ir Rusiai buvo svarbi jėga ginantis nuo totorių, todėl valdovas jiems mokėjo nedidelį atlygį."
-  semantiniai_rysiai: "Kazokai gynė Podolė (0.88); Kazokai kariavo prieš Totoriai (0.86)"
-  temporaliniai_duomenys: "valdymo laikotarpis: 1621 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „valdymo laikotarpis“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "460604-461030; hash=ef758955bed01da2dc13e3306bd7b7113035aacde846e91c0f64a5afc9b3d6f4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyne -> Podolė: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kazokai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Podolė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Kazokai citatoje tiesiogiai apibūdinti kaip svarbi gynybinė jėga Podolei."
   pagrindžia:
     - c-161730
 
@@ -389,19 +186,6 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
 - t-039
   global_id: t-177927
   teiginys: "Podolei ir Rusiai kazokai buvo svarbi jėga ginantis nuo totorių, kurie per Dniestrą drįsdavo keltis tik sutelkę dideles pajėgas."
-  temporaliniai_duomenys: "įvykio data: 1621 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pagrindžia faktą apie Podolės gynybinę reikšmę, pašalintas antraštės triukšmas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "460604-461030; hash=ef758955bed01da2dc13e3306bd7b7113035aacde846e91c0f64a5afc9b3d6f4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Dniestras: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Podolė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Dniestras: mention_match, place, gap=75"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Podolė\" parinktas kaip owner_note_path. Targetas \"Dniestras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-161730
 
@@ -409,17 +193,6 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
 - t-034
   global_id: t-177928
   teiginys: "Podolės bajorai, vadovaujami Gregoro Kierdėjaus, suėmė Daugirdą Gedgailą ir atplėšė Podolę nuo Lietuvos Lenkijos naudai."
-  semantiniai_rysiai: "Podolė priklausė Lenkija (0.90); Podolė priklausė Lietuva (0.74)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "426101-426717; hash=a6b738766c7b46bc32e3877ec88623a3974af8c2a95984fceb671b73768e9a0a; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Lenkija: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Podolė: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Podolės atplėšimą nuo Lietuvos ir perdavimą Lenkijai."
   pagrindžia:
     - c-161743
 
@@ -427,22 +200,6 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
 - t-012
   global_id: t-177929
   teiginys: "1621 m. liepos 14 d. LDK kariuomenė atžygiavo į bendrą stovyklą prie Orinino, netoli Podolės Kameneco."
-  semantiniai_rysiai: "Lietuvos kariuomenė keliavo į Kamenecas (0.70)"
-  temporaliniai_duomenys: "įvykio data: 1621 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Reikia papildyti metus ir patikslinti veikėją iš citatos."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "459318-459690; hash=fd5fbe369e8b5c555672f96f2058d3453284e1e248bf5fe9fa446c27f8e3cfbe; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Kamenecas: 0.70"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuvos kariuomenė: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Kamenecas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Kariuomenė atžygiavo į stovyklą netoli Podolės Kameneco; pats Orininas nėra kandidatuose, todėl Kamenecas naudojamas kaip artimiausia leidžiama vieta."
-  vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-161740
 
@@ -450,19 +207,6 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
 - t-047
   global_id: t-177930
   teiginys: "Podolės bajorai, vadovaujami Gregoro Kierdėjaus, atplėšė Podolę nuo Lietuvos ir perdavė Lenkijai."
-  semantiniai_rysiai: "Podolė priklausė Lenkija (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "426101-426717; hash=a6b738766c7b46bc32e3877ec88623a3974af8c2a95984fceb671b73768e9a0a; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Lenkija: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Podolė: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai sako, kad Podolė buvo atplėšta nuo Lietuvos ir perduota Lenkijai."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-161743
 
@@ -470,17 +214,6 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
 - t-021
   global_id: t-177931
   teiginys: "Menkai gyvenamoje Podolėje rado sau gerų žemių gausi Algirdo brolio Karijoto šeima."
-  semantiniai_rysiai: "Karijotas buvo brolis Algirdas (Lietuvos valdovas) (0.95); Karijotaičiai gyveno Podolė (0.63)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "723547-723761; hash=93429871d359cd169ec15cbdb8b43d9d5f6102d7255f692e27088ad60688f396; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_brolis -> Algirdas (Lietuvos valdovas): 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Karijotas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Karijotą kaip Algirdo brolį."
   pagrindžia:
     - c-32336
 
@@ -488,17 +221,6 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
 - t-011
   global_id: t-177932
   teiginys: "Susidarius grėsmingai situacijai, Zigmantas Vaza nurodė LDK kariuomenei telktis prie Podolės Kameneco ir padėti Lenkijos kariuomenei."
-  semantiniai_rysiai: "Zigmantas Vaza siuntė į Kamenecas (0.84)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "458730-459079; hash=7cd5e13a4fd57258420b2289d4ee54e78d9deea7417d80d0eaaf8e946fb46cc1; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "siunte_i -> Kamenecas: 0.84"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Zigmantas Vaza: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kamenecas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Zigmantas Vaza nurodė kariuomenei telktis prie Kameneco, todėl siuntimo į vietą ryšys pagrįstas."
   pagrindžia:
     - c-161741
 
@@ -506,19 +228,6 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
 - t-026
   global_id: t-177933
   teiginys: "Po Torno taikos Jogaila davė Vytautui lėno teisėmis vakarinę Podolijos dalį su Kamieniecu."
-  temporaliniai_duomenys: "įvykio data: 1403 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, faktinis ir paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "450842-451372; hash=bdb120a14ddb33d299942873819c7011702ba24854331b3784e5d7abbac8a018; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Podolė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=45"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Podolė\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-161752
 
@@ -526,16 +235,6 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
 - t-044
   global_id: t-177934
   teiginys: "Kai kurių autorių manymu, Podolės vaivada Goštautas vėliau tapo vienuoliu ir pirmuoju Vilniaus vyskupu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "400797-401404; hash=30b2274a650672720c4b665c9deab209428bcba24785d239d9c2257086dbb846; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Goštautas (vyskupas, XV a.): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Podolė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Goštautas (vyskupas, XV a.): mention_match, person, gap=16"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Podolė\" parinktas kaip owner_note_path. Targetas \"Goštautas (vyskupas, XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-161733
 
@@ -543,19 +242,6 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
 - t-054
   global_id: t-177935
   teiginys: "Jadvyga anksčiau kėlė protesto balsą dėl Podolijos, rūpindamasi, kad jos auka nenueitų niekais."
-  temporaliniai_duomenys: "įvykio data: 1398 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Perrašyta į pilną sakinį be kontekstinio fragmento."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "404761-405066; hash=b34ba810888e6c948a787cd846390c1d1a20810c283fe2b82333d5cdf6bb71e3; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jadvyga: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Podolė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Jadvyga: mention_match, person, gap=41"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Podolė\" parinktas kaip owner_note_path. Targetas \"Jadvyga\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-161746
 
@@ -563,17 +249,6 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
 - t-025
   global_id: t-177938
   teiginys: "Tuo metu Vytautas paėmė Podoliją ir įgijo įtakos aukščiausiai Lenkijos valdžiai."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) užėmė Podolė (0.94)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "449939-450552; hash=4c05d3fad9eaf571c2a2af55aca98c7bb50615c6d8584c530fb94afbf31948d8; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Podolė: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Podolė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Vytautas paėmė Podoliją."
   pagrindžia:
     - c-37636
 
@@ -581,20 +256,6 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
 - t-028
   global_id: t-177939
   teiginys: "Waddingo ir Antonijaus Melissanijaus pasakojimu, 1333 m. Podolės vaivada Petras Goštautas iš Rusios ir Podolės į Vilnių atkvietė keturiolika pranciškonų."
-  semantiniai_rysiai: "Pranciškonų ordinas keliavo į Vilnius (0.82)"
-  temporaliniai_duomenys: "įvykio data: 1333 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pateikia šį teiginį kaip kitų autorių pasakojimą, todėl reikia aiškios atribucijos."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "82932-83940; hash=4f26b5ce23a7b4ebcfd9e69d9dde30130c6b4f997ddfd4443cc106a203436f13; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Vilnius: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Pranciškonų ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo pranciškonų atvykimą į Vilnių."
   pagrindžia:
     - c-161721
 
@@ -602,18 +263,6 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
 - t-049
   global_id: t-177940
   teiginys: "Vorsklos mūšyje žuvo Vytauto bičiulis Spytkas iš Melštyno, valdęs Podoliją."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "167687-168010; hash=5a08f4ea590f95a02ec774332e2360ca00544a1e2abd795a7884eceabf648e77; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vladimiras: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Podolė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Vladimiras: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Podolė\" parinktas kaip owner_note_path. Targetas \"Vladimiras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-161732
 
@@ -621,20 +270,6 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
 - t-053
   global_id: t-177941
   teiginys: "1362 m. prie Mėlynųjų Vandenų Algirdas sumušė totorius ir laimėjo Podoliją bei Dniepro žemupį."
-  semantiniai_rysiai: "Algirdas (Lietuvos valdovas) kariavo prieš Totoriai (0.94); Algirdas (Lietuvos valdovas) užėmė Podolė (0.90); Algirdas (Lietuvos valdovas) dalyvavo mūšyje Mėlynųjų Vandenų mūšis (1362 m.) (0.82); Algirdas (Lietuvos valdovas) užėmė Dniepras (0.68)"
-  temporaliniai_duomenys: "įvykio data: 1362 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys glaustai ir tiksliai perteikia citatos faktą apie Algirdą, Podoliją ir Dniepro žemupį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "723002-723546; hash=f2b2841c6118b5ca0f301a7bb216a7ddd5933072f306415926d06a990ffa5fed; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Totoriai: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Totoriai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Algirdą sumušus totorius."
   pagrindžia:
     - c-161747
 
@@ -642,16 +277,6 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
 - t-043
   global_id: t-177942
   teiginys: "Kijevo kunigaikštystė ir Podolė, tuomet nusidriekusi iki Dniepro ir Dniestro žiočių, priklausė Lietuvai."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "342019-342396; hash=a90f0d345d10344515abea07e1d72004d00ae594e50ac5e7357ec822dbe284d3; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Dniepras: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Podolė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Dniepras: mention_match, place, gap=32"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Podolė\" parinktas kaip owner_note_path. Targetas \"Dniepras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-161738
 
@@ -659,16 +284,6 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
 - t-045
   global_id: t-177943
   teiginys: "Vytautas Švitrigailai buvo perleidęs Kamenecą ir kitas pilis Podolėje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "423262-424333; hash=3981265d982fd5fea8d6ad2c4bcc3e6ffc467f25faed1ee69a61c802b20ebace; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aleksandras: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Podolė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Aleksandras: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Podolė\" parinktas kaip owner_note_path. Targetas \"Aleksandras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-161736
 
@@ -676,20 +291,6 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
 - t-028
   global_id: t-177939
   teiginys: "Waddingo ir Antonijaus Melissanijaus pasakojimu, 1333 m. Podolės vaivada Petras Goštautas iš Rusios ir Podolės į Vilnių atkvietė keturiolika pranciškonų."
-  semantiniai_rysiai: "Pranciškonų ordinas keliavo į Vilnius (0.82)"
-  temporaliniai_duomenys: "įvykio data: 1333 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pateikia šį teiginį kaip kitų autorių pasakojimą, todėl reikia aiškios atribucijos."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "82932-83940; hash=4f26b5ce23a7b4ebcfd9e69d9dde30130c6b4f997ddfd4443cc106a203436f13; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Vilnius: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Pranciškonų ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo pranciškonų atvykimą į Vilnių."
   pagrindžia:
     - c-161721
 
@@ -697,17 +298,6 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
 - t-050
   global_id: t-177945
   teiginys: "Vytautas tuo metu paėmė Podoliją ir įgijo įtakos aukščiausiai Lenkijos valdžiai."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) užėmė Podolė (0.94)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "449939-450552; hash=4c05d3fad9eaf571c2a2af55aca98c7bb50615c6d8584c530fb94afbf31948d8; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Podolė: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Podolė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Vytautas paėmė Podoliją."
   pagrindžia:
     - c-37636
 
@@ -715,16 +305,6 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
 - t-029
   global_id: t-177946
   teiginys: "Petras Goštautas, vedęs Bučiacką iš Podolės, priėmė krikštą ir pagonišką dievaičių buveinę pavertė Šv. Petro bažnyčia."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "87311-87762; hash=62b7686d7f59a3e26dacb5940c6bdfcc4a811de2b7f53727fac4f73dc44ce3ce; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Podolė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Podolė\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-161739
 
@@ -732,18 +312,6 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
 - t-024
   global_id: t-177947
   teiginys: "Jadvyga anksčiau buvo kėlusi protestą dėl Podolijos."
-  temporaliniai_duomenys: "įvykio data: 1398 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "404761-405066; hash=b34ba810888e6c948a787cd846390c1d1a20810c283fe2b82333d5cdf6bb71e3; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jadvyga: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Podolė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Jadvyga: mention_match, person, gap=42"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Podolė\" parinktas kaip owner_note_path. Targetas \"Jadvyga\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-161746
 
@@ -751,24 +319,6 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
 - t-047
   global_id: t-183073
   teiginys: "Podolė ne visa perėjo į tiesioginę Vytauto valdžią, nes ji nuo seno buvo glaudžiai susijusi su Lenkija."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1431 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sutrumpinta ir pašalinta neaiški kontekstinė nuoroda."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "134097-134292; hash=1e113444ae3a2600c4cd6fb1ee3b23d4d5b9cd7b9db25f3df6e401b6e4fbc782; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Podolė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=95"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Podolė\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-166464
 
@@ -776,21 +326,6 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
 - t-048
   global_id: t-183074
   teiginys: "Po Vytauto mirties lenkai pradėjo konfliktą dėl Podolės žemių, suėmė Lietuvos vietininką Daugirdą ir užėmė pilis."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "167687-168010; hash=5a08f4ea590f95a02ec774332e2360ca00544a1e2abd795a7884eceabf648e77; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Podolė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=21"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Podolė\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-24388
 
@@ -798,20 +333,6 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
 - t-059
   global_id: t-185087
   teiginys: "Vytautas, vėl prijungęs Podolę prie Lietuvos, jos pilyse ir miestuose paliko lietuvių įgulas bei lietuvių kilmės vietininkus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) užėmė Podolė (0.84)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "600106-600383; hash=17a9ed09406e47c6056942c684fc74adca1dade1ce66e0bf4ab0535a87dde232; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Podolė: 0.84"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Podolė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata nurodo, kad Vytauto veiksmų kontekste Podolė vėl prijungta prie Lietuvos."
   pagrindžia:
     - c-168448
 
@@ -819,19 +340,6 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
 - t-060
   global_id: t-185088
   teiginys: "Jogailai išvykus iš Lietuvos į Lenkiją, Boleslovas su kariuomene patraukė į Podolę."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "757032-757421; hash=e9a18eefa0e677ac8006c454d1da4f28221f6dcb420be93f4bc5cd34e30515e4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "surenge_zygi_i -> Podolė: 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Boleslovas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Podolė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Boleslovo žygį į Podolę."
   pagrindžia:
     - c-168449
 
@@ -839,19 +347,6 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
 - t-061
   global_id: t-185089
   teiginys: "Lietuviai reikalavo sugrąžinti Podolę, kurią, jų teigimu, Lietuvos kunigaikščiai ginklu išvadavo iš skitų vergovės."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "856726-857732; hash=839f64a9328f1c40aabe3918d231e578dba2269962063295fd59ef698a5d7d96; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> kunigaikščiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Podolė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "kunigaikščiai: mention_match, thing, gap=36"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Podolė\" parinktas kaip owner_note_path. Targetas \"kunigaikščiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-168450
 
@@ -859,19 +354,6 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
 - t-062
   global_id: t-185090
   teiginys: "Lenkai tvirtino, kad Podolė Lenkijai atiteko dėl Kazimiero Didžiojo užkariavimo ir paveldėjimo teisių, o ne atplėšus ją nuo Lietuvos."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "857359-858296; hash=7b288a98c2011893d3257a5e149cdc087d0162fb9c6dc54290bcd089965d9d69; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Podolė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=7"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Podolė\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-168451
 
@@ -879,20 +361,6 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
 - t-063
   global_id: t-185091
   teiginys: "Lietuviai teigė, kad dėl Jogailos neapgalvotų pažadų Podolė buvo atplėšta nuo Lietuvos ir prijungta prie Lenkijos."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Podolė priklausė Lenkija (0.90); Podolė priklausė Lietuva (0.74)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "859639-860032; hash=1b83ba2a0d9be8420e6b1c7bb23251ddef1ddea5de251d4dc4104a14d900c5a1; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Lenkija: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Podolė: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Podolė buvo prijungta prie Lenkijos."
   pagrindžia:
     - c-168452
 
@@ -900,19 +368,6 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
 - t-064
   global_id: t-185092
   teiginys: "Visa Lietuva rengėsi karui dėl Podolės, bet apsiribojo grasinimais ir kariuomenės telkimu."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "897019-897532; hash=a01a33450f80811292608cc0ed227ec6a7bc2768070012d96765cbdb6f462616; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Goštautas (vyskupas, XV a.): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Podolė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Goštautas (vyskupas, XV a.): mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Podolė\" parinktas kaip owner_note_path. Targetas \"Goštautas (vyskupas, XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-168453
 
@@ -920,19 +375,6 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
 - t-065
   global_id: t-185093
   teiginys: "Dėl perdėtų žinių pasklido neteisingas gandas, kad Podolėje jau prasidėjo karas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "903738-904235; hash=4554d449aac3ac77572120578ad0920d9ac62c0e18480af6228a75f482acd134; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Baiga: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Podolė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Baiga: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Podolė\" parinktas kaip owner_note_path. Targetas \"Baiga\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-168454
 
@@ -940,24 +382,6 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
 - t-046
   global_id: t-187635
   teiginys: "Lietuvos metraštyje Jonas Žadivydas vadinamas kunigaikščiu, valdžiusiu Podolės žemę."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1431 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Valdovo titulas šiame profilyje turi likti atribuuotas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "134097-134292; hash=1e113444ae3a2600c4cd6fb1ee3b23d4d5b9cd7b9db25f3df6e401b6e4fbc782; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Podolė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Podolė\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-170582
 
@@ -965,22 +389,6 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
 - t-047
   global_id: t-187636
   teiginys: "Lietuvos metraštis Vytautą vadina didžiuoju kunigaikščiu ir rašo, kad pavasariop jis ištraukė į Podolės žemę."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) surengė žygį į Podolė (0.92)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "167687-168010; hash=5a08f4ea590f95a02ec774332e2360ca00544a1e2abd795a7884eceabf648e77; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "surenge_zygi_i -> Podolė: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Podolė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Vytauto žygį į Podolės žemę."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-170583
 
@@ -988,21 +396,6 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
 - t-066
   global_id: t-192721
   teiginys: "Teodoras Narbutas Podoliją priskiria miškingoms stepėms, per kurias jo pasakojime iš Juodosios jūros link Baltijos keliavo atvykėliai."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "352244-352611; hash=06e681e8b450490fe37f1d3b021e6d788eb411bce5ebe4021b9d5f5679d665c6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Baltija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Podolė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Baltija: mention_match, place, gap=88"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Podolė\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175491
 
@@ -1010,12 +403,6 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
 - t-067
   global_id: t-193225
   teiginys: "Kazimiero karaliavimas Lenkijoje ir jo santykiai su Lietuva Išleisdami Kazimierą į Lenkiją, lietuviai buvo gavę lenkų sutikimą, kad visa Podolė ir Voluinė bus pripažintos Lietuvai."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "379914-380218; hash=bc5a05404928af5bdd9bfba893f3654984478eb4744403f511dac27a64b0cc0f; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-46677
 
@@ -1023,12 +410,6 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
 - t-068
   global_id: t-194031
   teiginys: "5 Podolė — istorinis pavadinimas Ukrainos dalies (į šiaurę nuo Karpatų ir Dnestro, apimančios Dnestro bei Pietų Bugo aukštupių baseinų)."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "393050-393322; hash=a5fbf2f6033fe95ea7dc14adf2a76adde3e82255ad7098257fd0691a3d672c7a; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176653
 
@@ -1036,12 +417,6 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
 - t-069
   global_id: t-194032
   teiginys: "Usunigcie Fedora Korjatowicza г Podola w 1393 r.— Prace historyczne w 30-lecie dzialalnoici protesorskiej Stanislawa Zakrzewskiego, Lwow."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "686505-686663; hash=3772c73c689d0e39b83e1bebddd0f888b5297e22d835a687543f5eb6b0f869b5; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176654
 
@@ -1049,12 +424,6 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
 - t-070
   global_id: t-194257
   teiginys: "Čia pirmiausia Petras Goš tautas, kunigaikščio Algirdo laikų didikas ir Vilniaus vaivada, per Bučiacką, paimtą iš Podolės žmoną, garsios anuomet didikų giminės, pa sikrikštijęs, kai ir Algirdas, per Tve rės kunigaikštytę Mariją, šventąjį krikštą priėmė, tą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "87215-87689; hash=3e501de9b385d5ed1072b24910aee99be7298bcac33b6f1119c9063c74d3f17d; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176851
 - susijęs iš [[objektai/asmenys/Nestanas.md#claim-t-186242|Nestanas]]: Nestanas, Teodoro vardu valdęs Podolę, Kamenece pateko Algirdui į nelaisvę ir buvo išsiųstas į Vilnių.
@@ -1374,8 +743,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     mo, jam mirus tuojau klastingai suėmė Lietuvos vietininką Po-
     dolėje, Daugirdą, ir užėmė pilis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1392,8 +761,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
 
     kais. Tai reiškė, kad Podolė su Voluine turi likti Lietuvai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1407,8 +776,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     Šie galėjo ten įsikurti ir be Algirdo paramos. Dar nėra galutinai
     išaiškintas klausimas, kada Karijotaičiai yra pasirodę Podolėje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1429,8 +798,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     buvo į tą aukštą vietą ir apdovanotas Krokuvos katedra, sulau­
     žant lenkų papročius ir tradicijas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1448,8 +817,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     Kazimieras tą pažadėjo savo privilegijoje ir priesaikoje. Bet
     kai jis nuvyko į Lenkiją, lenkai pareikalavo sau tų žemių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1482,8 +851,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     įvairiais laikais pagonių nukankin­
     tų, ir apgyvendino juos prie Šv.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1500,8 +869,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     perėjo tiesiogiai Vytauto žinion, 1394 m. jis panaikino Kijevo kunigaikš-
     tiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1517,8 +886,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     ju kunigaikščiu. Tačiau vos tik tai įvyko, Jogaila beveik iškart
     ėmė gailėtis savo pasirinkęs.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1540,8 +909,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     18
     Wremiennik Sofijski, p. 334.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1563,8 +932,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     Grzybowski knygoje Skarb
     nieoszacowany O O. Franciszkanów.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1584,8 +953,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     gistrą Firstembergą, nuo seno engusį karaliaus giminaitį Ry­
     gos arkivyskupą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1605,8 +974,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
 
     CHOTINO MŪŠIS 1621 m. rugsėjo 2-spalio 10 d.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1628,8 +997,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     nus, turėjo pirmenybę į Lietuvos d. kunigaikščio sostą: Vy­
     tautas tos pirmenybės neturėjo, jis tik ją išsikovojo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1651,8 +1020,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     steigėjas Goštautas, arba tiksliau Gastowdas, esą paskui pats
     tapęs vienuoliu ir pagaliau pirmuoju Vilniaus vyskupu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1669,8 +1038,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     nės, Kijevo ir Podolės (Braclavo) vaivadijas). Prijungtų sričių bajorai turėjo
     prisiekti Lenkijai, o jų atstovai dalyvauti Lenkijos Seime.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1705,8 +1074,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     apeigų Lietuvos kunigaikščių bei didikų - labiausiai iš kitų
     Algirdaičių tiko į didžiuosius kunigaikščius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1731,8 +1100,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     tinė, palaikė prekybinius ryšius su
     Rytais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1756,8 +1125,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     sia mūsų lietuvių tauta Dievui nu­
     silenkė, kai anuomet Šv.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1778,8 +1147,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     sudarė 3350 husarų, 750 reitarų, 2200
     kazokų ir totorių, 2350 pėstininkų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1801,8 +1170,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     menės vadu karalius paskyrė Lietuvos di-
     dįjį etmoną Joną Karolį Chodkevičių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1822,8 +1191,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     brolis Teodoras. Galutinai senosios Rusios sostinę atėmęs iš totorių
     įtakos, ten Algirdas pasodino savo sūnų Vladimirą († 1398).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1849,8 +1218,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     dami viršenybę Bučackiams. Įširdęs Švitrigaila tuomet jau vi­
     sai nejautė savo įdūkio ribų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1871,8 +1240,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     tinės Šv. Stanislovo katedroje jį iškilmingai paskelbė didžiuo­
     ju kunigaikščiu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1888,8 +1257,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     Lietuva ir valakais, o 1431 m. Didžiojoje Lenkijoje - su Kry­
     žiuočių ordinu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1906,8 +1275,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     ka nenueitų niekais, ir ponų taryba, kuri sumanė visos unijos
     reikalą^1 ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1929,8 +1298,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     ne tik plačią Podoliją, turtingą žemę palei Dniestrą, bet ir patį
     Dniepro žemupį, kuris tada buvo tuščias^13.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1949,8 +1318,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     patiekia savo kritiškus argumentus. Taip yra, pvz., ir konflikte
     su lenkais dėl Podolės, dėl Volinijos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1968,8 +1337,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     nėtinai sėkmingas, taigi karalius, negalėdamas nieko jam pa­
     tarti, sudarė su juo ilgalaikes paliaubas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1989,8 +1358,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     mis taip pat tos žemės vakarinę dalį su Kamieniecu, išstumdamas
     iš čia karūnos seniūną.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2008,8 +1377,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     Dniepro žemupį, kuris tada buvo tuščias^13. Menkai gyvenamoje
     Podolėje rado sau gerų žemių gausi Algirdo brolio Karijoto šeima.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2028,8 +1397,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     tauto šalininkui, Lenkijos didikui Spytkui iš Melštyno, o Vy-
     tauto tiesioginei valdžiai atiteko tik rytinė jos dalis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2046,8 +1415,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     vių kilmės vietininkus. Kunigaikštį Teodorą su šeimy­
     na išgabeno į Vilnių.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2071,8 +1440,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     Įsiv e ržia  į P o d o lę
     kės.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2105,8 +1474,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     kartų patvirtintų abiejų tautų didikų bei valdovų prie­
     saikomis, antspaudais bei parašais.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2138,8 +1507,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     rodydamas malonę, turėjusią trukti ne ilgiau, kaip
     ligi jų gyvos galvos.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2158,8 +1527,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     pažadų, antra vertus, jų reikalas neleisti, kad valstybė
     dėl anų susitarimų patirtų kokių nuostolių.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2191,8 +1560,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     tik tuo metu mirė žymiausias šios grupuotės vadas Jo­
     nas Goštautas.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2214,8 +1583,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     tosiomis šaukiamą seimą atidėjo beveik ligi metų pa­
     baigos.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2231,8 +1600,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     mę. Trečias — kunigaikštis Simonas Lengvenis6 , jo da­
     lis— Mstislavlis7 .
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2253,8 +1622,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     Vladimiras Algirdaitis, valdąs Kijevą, nepanoro paklus­
     ti ir žemai nusilenkti didžiajam kunigaikščiui Vytautui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2271,8 +1640,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     vadinamos Rusija, Podolija ir Lietuva), kur kitados romėnai keliau­
     davo medžioti, prasiskverbė ligi Baltijos jūros...) Joan.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2288,8 +1657,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     Karpatų ir Dnestro, apimančios Dnestro bei Pietų Bugo aukštupių
     baseinų). D ab ar— UTSR Ternopolio, Chmelnickio Ir Vinicos sritys.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2303,8 +1672,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     Prace historyczne w  30-lecie dzialalnoici protesorskiej Stanislawa
     Zakrzewskiego, Lwow. 1934.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2329,8 +1698,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     Dievui pavertė ir savo Globėjo, Šv.
     Petro, vardui pašventė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3041,7 +2410,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
 - id: c-168448
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 344"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 344."
   citata_originali: |
     Kadangi Vytautas jiems paro­
     dė palankumą, apsuptieji visiškai pasidavė jo malonei.
@@ -3084,7 +2454,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
 - id: c-168450
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 487"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 487."
   citata_originali: |
     Lietuviai visų
     pirma reikalavo iš naujo surašyti Jogailos sudarytą su­
@@ -3151,7 +2522,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
 - id: c-168452
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 488"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 488."
   citata_originali: |
     Vėliau, susi­
     kivirčiję su lenkais dėl Rusios, lietuviai visada ginklu
@@ -3204,7 +2576,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
 - id: c-168454
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 512"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 512."
   citata_originali: |
     Kai
     žinia apie šį įvykį pasiekė Lenkiją ir Lietuvą, bemat
@@ -3266,7 +2639,8 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
 - id: c-175491
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 191"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 191."
   citata_originali: |
     Tačiau šie, bijodami imperato­
     riaus žiaurumo, išžudė kvietėjus, du ar tris kartus atplaukusius pas
@@ -3340,12 +2714,11 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     - t-194257
 
 ## Ryšiai
-- Buvo valdoma: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Daugirdas Gedgaila]], [[objektai/grupes/Gediminaičiai]], [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]], [[objektai/grupes/Karijotaičiai]], [[objektai/grupes/Lenkai]], [[objektai/asmenys/Nestanas]], [[objektai/asmenys/Spytekas iš Melštyno]], [[objektai/asmenys/Spytkas iš Melsztyno]], [[objektai/asmenys/Teodoras (Konstantino Karijotaičio brolis)]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Buvo valdoma: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Daugirdas Gedgaila]], [[objektai/grupes/Lenkai]], [[objektai/asmenys/Nestanas]], [[objektai/asmenys/Spytekas iš Melštyno]], [[objektai/asmenys/Spytkas iš Melsztyno]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - Buvo kelionės vieta: [[objektai/grupes/Karijotaičiai]]
-- Puolė Podolę: [[objektai/asmenys/Edyga]], [[objektai/asmenys/Fiodoras Ostrogiškis]], [[objektai/grupes/Krymo totoriai]], [[objektai/grupes/Totoriai]]
-- Užėmė Podolę: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Kazimieras Didysis]], [[objektai/grupes/Podolės bajorai]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Gynė Podolę: [[objektai/grupes/Karijotaičiai]], [[objektai/grupes/Kazokai]], [[objektai/grupes/Lenkai]]
+- Puolė Podolę: [[objektai/asmenys/Fiodoras Ostrogiškis]], [[objektai/grupes/Totoriai]]
+- Užėmė Podolę: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Gynė Podolę: [[objektai/grupes/Karijotaičiai]]
 - Buvo žygio kryptis: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Gyvenamoji vieta: [[objektai/asmenys/Borisas (Tverės kunigaikštis)]], [[objektai/asmenys/Borisas Karijotaitis]], [[objektai/grupes/Karijotaičiai]]
-- Turėjo priklausinį: [[objektai/vietos/Braclavo sritis]], [[objektai/vietos/Kamenecas]], [[objektai/vietos/Podolės Kamenecas]]
+- Gyvenamoji vieta: [[objektai/asmenys/Borisas Karijotaitis]]
 - Podolė priklausė [[objektai/vietos/Lenkija]], [[objektai/vietos/Lietuva]]

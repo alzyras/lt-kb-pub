@@ -40,12 +40,6 @@ sėkmingų L I E T U V O S I S T O R I J A 212 bandymų 1949 m. vasario 2–22 d
 - t-001
   global_id: t-193790
   teiginys: "Ladyga įsakė pradėti puolimą Radviliškio-Šiaulių kryptimi."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "790796-791122; hash=83efa87634b78d6433ce55e10a70ecc861a696bd84b61dd2abbcffb7102db135; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-43794
 ## Reikšmingi paminėjimai
@@ -64,8 +58,8 @@ sėkmingų L I E T U V O S I S T O R I J A 212 bandymų 1949 m. vasario 2–22 d
     apie 10-12 patrankų, daugybę kulkosvai-
     džių, minosvaidžių ir bombosvaidžių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -41,17 +41,6 @@ Mykolo bažnyčia buvo išmūryti didieji maldos namai.
 - t-001
   global_id: t-86286
   teiginys: "Ties Šv. Mykolo bažnyčia Vilniuje buvo išmūryti didieji reformos šalininkų maldos namai."
-  semantiniai_rysiai: "Šv. Mykolo bažnyčia Vilniuje priklausė Vilnius (0.82)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "569878-570451; hash=ada899ee774e9046bea317ce067ce7076028169a4f4d620891181dcb49d3638f; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Vilnius: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Šv. Mykolo bažnyčia Vilniuje: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Objektas tiesiogiai įvardytas kaip Šv. Mykolo bažnyčia Vilniuje."
   pagrindžia:
     - c-82265
 - susijęs iš [[objektai/daiktai/Reformatų didieji maldos namai prie Šv. Mykolo bažnyčios.md#claim-t-87092|Reformatų didieji maldos namai prie Šv. Mykolo bažnyčios]]: Reformatų didieji maldos namai buvo išmūryti ties Šv. Mykolo bažnyčia Vilniuje.
@@ -78,8 +67,8 @@ Mykolo bažnyčia buvo išmūryti didieji maldos namai.
     šai tas apeigas vykdė, kol ties Šv. Mykolo bažnyčia buvo
     išmūryti didieji maldos namai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -114,6 +103,3 @@ Mykolo bažnyčia buvo išmūryti didieji maldos namai.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86286
-
-## Ryšiai
-- Šv. Mykolo bažnyčia Vilniuje priklausė [[objektai/vietos/Vilnius]]

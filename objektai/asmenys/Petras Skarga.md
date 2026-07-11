@@ -30,12 +30,6 @@ Tie, kurie, priėmę krikščionybę, nuo jos atsimetė arba, prisidėję prie e
 - t-001
   global_id: t-193511
   teiginys: "Tie, kurie, priėmę krikščionybę, nuo jos atsimetė arba, prisidėję prie erezijų, sukėlė vidinius vaidus, silp nino monarcho valdžią ir griovė Žečpospolitą, kaip daug kartų yra sakęs Petras Skarga."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "46425-46985; hash=026628d8017c992c78f668a667c1d9a1ea05556e0866807fd15cab946a133d91; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176191
 ## Reikšmingi paminėjimai
@@ -56,8 +50,8 @@ Tie, kurie, priėmę krikščionybę, nuo jos atsimetė arba, prisidėję prie e
     turinčius ir gerbiančius savo istoriją, jungia su Lenki­
     ja katalikybė, bendra kalba ir monarcho išmintis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -68,7 +62,8 @@ Tie, kurie, priėmę krikščionybę, nuo jos atsimetė arba, prisidėję prie e
 - id: c-176191
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 27"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 27."
   citata_originali: |
     Priėmę krikščionybę, jie liko jai ištiki­
     mi. Tie, kurie, priėmę krikščionybę, nuo jos atsimetė

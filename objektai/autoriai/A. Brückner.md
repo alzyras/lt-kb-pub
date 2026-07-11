@@ -44,16 +44,6 @@ A. Brückner minimas kaip istorikas ir kultūros istorikas; šiame tome jo varda
 - t-003
   global_id: t-64507
   teiginys: "A. Brückner parašė Dzieje kultury polskiej pirmą tomą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "390816-391388; hash=21388869bfeb5d7826046011cebf907942ba7158d520711b264c6bbe3cf2e9a0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Baltai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "A. Brückner: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Baltai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"A. Brückner\" parinktas kaip owner_note_path. Targetas \"Baltai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-03960
 
@@ -61,16 +51,6 @@ A. Brückner minimas kaip istorikas ir kultūros istorikas; šiame tome jo varda
 - t-002
   global_id: t-64508
   teiginys: "Al. Brückneris priklausė senosios istorikų kartai, kuri XIII a. pradžios lietuvius vaizdavo kaip vargšus ir skurdžius."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "389269-389441; hash=c89297715f2e8593f6b6d03b9e1e4681f2157277b322b13176d30f7880be1fd9; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "A. Brückner: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=73"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"A. Brückner\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-03959
 
@@ -78,16 +58,6 @@ A. Brückner minimas kaip istorikas ir kultūros istorikas; šiame tome jo varda
 - t-004
   global_id: t-64509
   teiginys: "Al. Brückner pagonių lietuvių kultūrą laikė gana žema."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "808875-809153; hash=2d932549ddecfa04c3622cf881907e8ee31637fd927a5a8952d4c52dac3c7154; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "A. Brückner: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=21"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"A. Brückner\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-03961
 ## Reikšmingi paminėjimai
@@ -100,8 +70,8 @@ A. Brückner minimas kaip istorikas ir kultūros istorikas; šiame tome jo varda
     kokiais juos prieš pusę šimtmečio yra pristačiusi dalis senosios
     istorikų kartos (Al. Brückner, Fr. Papée).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -119,8 +89,8 @@ A. Brückner minimas kaip istorikas ir kultūros istorikas; šiame tome jo varda
     _Būdas senovės lietuvių Kalnėnų ir Žemaičių_ , red. J. Talmantas, Kaunas
     1935 (vokišką santrauką gerai paruošė V. Jungfer : _Alt-Litauen_ , 1926).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -135,8 +105,8 @@ A. Brückner minimas kaip istorikas ir kultūros istorikas; šiame tome jo varda
     laikė pagonių lietuvių kultūrą gana žema. Pati tauta tada buvusi
     gana neturtinga^3.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

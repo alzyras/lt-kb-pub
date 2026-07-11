@@ -32,20 +32,6 @@ Sudeginę Zavichostą lietuviai nužygiavo prie Opatovo. Opatovas yra Kielcų va
 - t-001
   global_id: t-187277
   teiginys: "Opatovas yra Lenkijos Kielcų vaivadijos miestas, esantis apie 30 km į vakarus nuo Zavichosto ir Vislos."
-  teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Opatovas priklausė Lenkija (0.94)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "429926-430326; hash=a5a32e344193c56be89308c21c5d6aebc1265a816ea8e22e6390b6f7e2d07456; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  ryšio_patikimumas: "priklause -> Lenkija: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Opatovas: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai apibūdina Opatovą kaip Lenkijos miestą."
-  vertinimo_atnaujinta: "2026-06-17T07:18:43Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-170325
 
@@ -53,20 +39,6 @@ Sudeginę Zavichostą lietuviai nužygiavo prie Opatovo. Opatovas yra Kielcų va
 - t-002
   global_id: t-187278
   teiginys: "Opatovas lokalizuojamas apie 30 km į vakarus nuo Zavichosto ir Vislos ir daugiau kaip 130 km į šiaurės rytus nuo Krokuvos."
-  teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Opatovas priklausė Lenkija (0.94)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "429926-430326; hash=a5a32e344193c56be89308c21c5d6aebc1265a816ea8e22e6390b6f7e2d07456; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  ryšio_patikimumas: "priklause -> Lenkija: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Opatovas: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai priskiria Opatovą Lenkijai."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-170325
 - susijęs iš Šventasis Kryžius: Šventasis Kryžius yra 593 m aukščio viršūnė prie Opatovo.
@@ -85,8 +57,8 @@ Sudeginę Zavichostą lietuviai nužygiavo prie Opatovo. Opatovas yra Kielcų va
     j vakarus nuo Zavichosto ir Vislos, 130 km su viršum | šiaurės
     rytus nuo Krokuvos).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -98,7 +70,8 @@ Sudeginę Zavichostą lietuviai nužygiavo prie Opatovo. Opatovas yra Kielcų va
 - id: c-170325
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 232"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 232."
   citata_originali: |
     BK pasakojimas apie Vislos per-
     plaukimą, nusitvėrus už arklio uodegos, gali taip pat būti liaudies

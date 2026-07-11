@@ -41,19 +41,6 @@ Be išsamaus išvar­ dijimo taikos sutarties tarpininkų, arkivyskupo ir Rygos 
 - t-001
   global_id: t-86747
   teiginys: "Rygos kapitula minima tarp 1323 m. Vilniuje sudarytos taikos sutarties tarpininkų."
-  temporaliniai_duomenys: "įvykio data: 1323 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata tiksliai pagrindžia Rygos kapitulos vaidmenį sutarties kontekste."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "175184-175827; hash=3ca2c4049fffaeb78b0cac26c1a4a5c585608bfedea9822860d2290338804f01; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Rygos kapitula: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=35"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rygos kapitula\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-82726
 
@@ -61,17 +48,6 @@ Be išsamaus išvar­ dijimo taikos sutarties tarpininkų, arkivyskupo ir Rygos 
 - t-002
   global_id: t-86748
   teiginys: "Popiežius nusprendė, kad Kryžiuočių ordino riteriai turi Rygos kapitulai grąžinti paimtą turtą ir jos nebepuldinėti."
-  semantiniai_rysiai: "Kryžiuočių ordinas puolė Rygos kapitula (0.66)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "187097-188149; hash=6799cddc832eafd333d0a8a7162e49f7bf97de60716215a338af707ed46dff8f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Rygos kapitula: 0.66"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Rygos kapitula: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Sprendime nurodyta, kad ordino riteriai turi nebepuldinėti Rygos Bažnyčios, vyskupų ir kapitulos; objektas čia yra viena iš įvardytų grupių."
   pagrindžia:
     - c-82727
 ## Reikšmingi paminėjimai
@@ -93,8 +69,8 @@ Be išsamaus išvar­ dijimo taikos sutarties tarpininkų, arkivyskupo ir Rygos 
     * wenbrulie), Mintaujos komtūras ir
     Eželis (Oeselis), dab.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -123,8 +99,8 @@ Be išsamaus išvar­ dijimo taikos sutarties tarpininkų, arkivyskupo ir Rygos 
     gresiantys Bažnyčios garbei, turi būti išsklaidyti ir ateityje
     nekuriami.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -187,6 +163,3 @@ Be išsamaus išvar­ dijimo taikos sutarties tarpininkų, arkivyskupo ir Rygos 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86748
-
-## Ryšiai
-- Puolė Rygos kapitulą: [[objektai/grupes/Kryžiuočių ordinas]]

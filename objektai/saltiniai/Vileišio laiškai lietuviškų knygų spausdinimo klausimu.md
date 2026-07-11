@@ -38,19 +38,6 @@ media_all_json: |-
 - t-001
   global_id: t-31967
   teiginys: "„Vileišio laiškai lietuviškų knygų spausdinimo klausimu“ paskelbti BBK 7 tome 1969 m., p. 201-214."
-  temporaliniai_duomenys: "įvykio data: 1969 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas bibliografinis sakinys ir citata patvirtina tomą, metus bei puslapius."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "227154-228084; hash=4a05b9fb8ccda8d840fe9c95fc95aa1ec667b45bb0e75b5584de7e6a94a49926; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vileišio laiškai lietuviškų knygų spausdinimo klausimu: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=17"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vileišio laiškai lietuviškų knygų spausdinimo klausimu\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-33739
 ## Reikšmingi paminėjimai
@@ -71,8 +58,8 @@ media_all_json: |-
     sąs. 2, 1969).**
     (^124) **Žurnale : Pedagogika ir psichologija, t. 8, 1966.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

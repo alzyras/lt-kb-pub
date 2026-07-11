@@ -24,13 +24,13 @@ media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3ATeodor_N
 media_primary_directness: 'direct'
 media_primary_relation_type: 'portrait_of'
 media_primary_json: |-
-  {"mediaId":"m-d801a4912b4c38ea2fc7bde6","title":"Teodor Narbutt 1851-1862 (31200201).jpg","caption":"Tytuł : Teodor Narbutt Adres wydawniczy : W Warszawie : odbito w lit. M. Fajansa, [1851-1862] Gatunek : grafika polska; portrety; litografia Forma i typ : grafiki i rysunki Opis fizyczny : 1 graf. : litogr. ; kompoz. 17x14 cm, z napisami 24,5x17,5 cm Sygn. pod kompoz. oraz z prawej u dołu: M. Fajans. Ryc. z: M. Fajans, Wizerunki polskie..., Warszawa 1851-1862. Pod kompoz. faksymile autografu.","creator":"Maksymilian Fajans","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between 1851 and 1862 date QS:P,+1850-00-00T00:00:00Z/7,P1319,+1851-00-00T00:00:00Z/9,P1326,+1862-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATeodor_Narbutt_1851-1862_%2831200201%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3e/Teodor_Narbutt_1851-1862_%2831200201%29.jpg","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1}
+  {"mediaId":"m-d801a4912b4c38ea2fc7bde6","title":"Teodor Narbutt 1851-1862 (31200201).jpg","caption":"Teodoras Narbutas, XIX a. litografinis portretas.","originalTitle":"Teodor Narbutt 1851-1862 (31200201).jpg","creator":"Maksymilian Fajans","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"National Library of Poland","dateDisplay":"between 1851 and 1862 date QS:P,+1850-00-00T00:00:00Z/7,P1319,+1851-00-00T00:00:00Z/9,P1326,+1862-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":5193,"height":7600,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATeodor_Narbutt_1851-1862_%2831200201%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3e/Teodor_Narbutt_1851-1862_%2831200201%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3e/Teodor_Narbutt_1851-1862_%2831200201%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"autorius","label":"autorius","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"mokslininkas","label":"mokslininkas","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"litografija","label":"litografija","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Teodoras Narbutas.md","title":"Teodoras Narbutas","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:47:14.207502+03:00","reviewedAt":"2026-07-11T02:47:33.182508+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matau litografinį vyro portretą su užrašu „TEODOR NARBUTT“ apačioje ir faksimiliniu parašu dešinėje apačioje.","metadataEvidence":"Kandidato pavadinimas yra „Teodor Narbutt 1851-1862“, aprašyme nurodyta „Tytuł: Teodor Narbutt“, žanras - portretas, kūrėjas Maksymilian Fajans.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdas ir metaduomenys tiesiogiai identifikuoja Teodorą Narbutą, todėl tai tinkamas tiesioginis istorinis portretas.","isPrimary":1}
 media_direct_json: |-
-  [{"mediaId":"m-d801a4912b4c38ea2fc7bde6","title":"Teodor Narbutt 1851-1862 (31200201).jpg","caption":"Tytuł : Teodor Narbutt Adres wydawniczy : W Warszawie : odbito w lit. M. Fajansa, [1851-1862] Gatunek : grafika polska; portrety; litografia Forma i typ : grafiki i rysunki Opis fizyczny : 1 graf. : litogr. ; kompoz. 17x14 cm, z napisami 24,5x17,5 cm Sygn. pod kompoz. oraz z prawej u dołu: M. Fajans. Ryc. z: M. Fajans, Wizerunki polskie..., Warszawa 1851-1862. Pod kompoz. faksymile autografu.","creator":"Maksymilian Fajans","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between 1851 and 1862 date QS:P,+1850-00-00T00:00:00Z/7,P1319,+1851-00-00T00:00:00Z/9,P1326,+1862-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATeodor_Narbutt_1851-1862_%2831200201%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3e/Teodor_Narbutt_1851-1862_%2831200201%29.jpg","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1}]
+  [{"mediaId":"m-d801a4912b4c38ea2fc7bde6","title":"Teodor Narbutt 1851-1862 (31200201).jpg","caption":"Teodoras Narbutas, XIX a. litografinis portretas.","originalTitle":"Teodor Narbutt 1851-1862 (31200201).jpg","creator":"Maksymilian Fajans","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"National Library of Poland","dateDisplay":"between 1851 and 1862 date QS:P,+1850-00-00T00:00:00Z/7,P1319,+1851-00-00T00:00:00Z/9,P1326,+1862-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":5193,"height":7600,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATeodor_Narbutt_1851-1862_%2831200201%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3e/Teodor_Narbutt_1851-1862_%2831200201%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3e/Teodor_Narbutt_1851-1862_%2831200201%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"autorius","label":"autorius","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"mokslininkas","label":"mokslininkas","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"litografija","label":"litografija","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Teodoras Narbutas.md","title":"Teodoras Narbutas","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:47:14.207502+03:00","reviewedAt":"2026-07-11T02:47:33.182508+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matau litografinį vyro portretą su užrašu „TEODOR NARBUTT“ apačioje ir faksimiliniu parašu dešinėje apačioje.","metadataEvidence":"Kandidato pavadinimas yra „Teodor Narbutt 1851-1862“, aprašyme nurodyta „Tytuł: Teodor Narbutt“, žanras - portretas, kūrėjas Maksymilian Fajans.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdas ir metaduomenys tiesiogiai identifikuoja Teodorą Narbutą, todėl tai tinkamas tiesioginis istorinis portretas.","isPrimary":1}]
 media_contextual_json: |-
   []
 media_all_json: |-
-  [{"mediaId":"m-d801a4912b4c38ea2fc7bde6","title":"Teodor Narbutt 1851-1862 (31200201).jpg","caption":"Tytuł : Teodor Narbutt Adres wydawniczy : W Warszawie : odbito w lit. M. Fajansa, [1851-1862] Gatunek : grafika polska; portrety; litografia Forma i typ : grafiki i rysunki Opis fizyczny : 1 graf. : litogr. ; kompoz. 17x14 cm, z napisami 24,5x17,5 cm Sygn. pod kompoz. oraz z prawej u dołu: M. Fajans. Ryc. z: M. Fajans, Wizerunki polskie..., Warszawa 1851-1862. Pod kompoz. faksymile autografu.","creator":"Maksymilian Fajans","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between 1851 and 1862 date QS:P,+1850-00-00T00:00:00Z/7,P1319,+1851-00-00T00:00:00Z/9,P1326,+1862-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATeodor_Narbutt_1851-1862_%2831200201%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3e/Teodor_Narbutt_1851-1862_%2831200201%29.jpg","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1}]
+  [{"mediaId":"m-d801a4912b4c38ea2fc7bde6","title":"Teodor Narbutt 1851-1862 (31200201).jpg","caption":"Teodoras Narbutas, XIX a. litografinis portretas.","originalTitle":"Teodor Narbutt 1851-1862 (31200201).jpg","creator":"Maksymilian Fajans","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"National Library of Poland","dateDisplay":"between 1851 and 1862 date QS:P,+1850-00-00T00:00:00Z/7,P1319,+1851-00-00T00:00:00Z/9,P1326,+1862-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":5193,"height":7600,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATeodor_Narbutt_1851-1862_%2831200201%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3e/Teodor_Narbutt_1851-1862_%2831200201%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3e/Teodor_Narbutt_1851-1862_%2831200201%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"autorius","label":"autorius","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"mokslininkas","label":"mokslininkas","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"litografija","label":"litografija","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Teodoras Narbutas.md","title":"Teodoras Narbutas","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:47:14.207502+03:00","reviewedAt":"2026-07-11T02:47:33.182508+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matau litografinį vyro portretą su užrašu „TEODOR NARBUTT“ apačioje ir faksimiliniu parašu dešinėje apačioje.","metadataEvidence":"Kandidato pavadinimas yra „Teodor Narbutt 1851-1862“, aprašyme nurodyta „Tytuł: Teodor Narbutt“, žanras - portretas, kūrėjas Maksymilian Fajans.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdas ir metaduomenys tiesiogiai identifikuoja Teodorą Narbutą, todėl tai tinkamas tiesioginis istorinis portretas.","isPrimary":1}]
 ---
 # Teodoras Narbutas
 
@@ -44,17 +44,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 - t-008
   global_id: t-186510
   teiginys: "Teodoras Narbutas plačiai, nors ir nekritiškai, panaudojo Bychovco kroniką devynių tomų „Lietuvių tautos istorijoje“ ir laikė ją itin vertingu šaltiniu."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "12732-13269; hash=e4b0bdc2456bf309e1165cf4e905fe476ec77475bd62b60f69bb28a750c44622; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Teodoras Narbutas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=89"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Teodoras Narbutas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-169854
 
@@ -62,17 +51,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 - t-002
   global_id: t-186511
   teiginys: "Teodoras Narbutas rašydavo apie istorinius įvykius ir be atitinkamos faktografinės bazės."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "1128-1824; hash=839cfae932fa91d496acf3f07542e8342efbc3e58ed879f2128c27cbdfa6e8d8; match=whitespace_regex"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  ryšio_patikimumas: "susije_su -> Aleksandras Balinskis: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Teodoras Narbutas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Aleksandras Balinskis: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Teodoras Narbutas\" parinktas kaip owner_note_path. Targetas \"Aleksandras Balinskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-169852
 
@@ -80,22 +58,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 - t-010
   global_id: t-186512
   teiginys: "1846 m. atskiru leidiniu paskelbtos Bychovco kronikos išnašose Teodoras Narbutas paaiškino kai kurias teksto vietas."
-  teiginio_tipas: "faktas"
-  temporaliniai_duomenys: "įvykio data: 1846 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sakinys sutelktas į Teodoro Narbuto veiksmą, išlaikant leidinio datą ir kontekstą. Neperkelti citatos vertinimai apie paaiškinimų pasenimą ar klaidingumą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "6427-6786; hash=f5efa65bc2d0377e6311cc1328f44e2939c93901adf89e86df8f28d09f86a783; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Teodoras Narbutas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Teodoras Narbutas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-17T07:18:43Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-169850
 
@@ -103,17 +65,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 - t-011
   global_id: t-186513
   teiginys: "Teodoro Narbuto dėka istoriografijoje įsigalėjo dabartinis kronikos pavadinimas „Bychovco kronika“."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "8109-8651; hash=2c91c2c128fccc3ea759ec004f8a4eb9f9995f6f41a365736cd8a9fd3a0b74fa; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  ryšio_patikimumas: "susije_su -> T. Narbutas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Teodoras Narbutas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "T. Narbutas: mention_match, author, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Teodoras Narbutas\" parinktas kaip owner_note_path. Targetas \"T. Narbutas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-169851
 
@@ -121,21 +72,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 - t-009
   global_id: t-186514
   teiginys: "Nuo 1838 m. Teodoras Narbutas rūpinosi Bychovco kronikos spausdinimu, o 1844 m. lapkričio 23 d. išsiuntė rankraštį į Vilnių A. Renjerui."
-  teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Teodoras Narbutas siuntė į Vilnius (0.90)"
-  temporaliniai_duomenys: "įvykio data: po 1838 m.; įvykio data: 1838 m.; įvykio data: 1844 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys tiksliai nurodo datą, veiksmą ir adresatą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "4939-5226; hash=b8eebfe830c963ea76e34cfe2f094263a4d90a699486d52761451a11b99d2029; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  ryšio_patikimumas: "siunte_i -> Vilnius: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Teodoras Narbutas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginyje tiesiogiai pasakyta, kad Teodoras Narbutas išsiuntė rankraštį į Vilnių."
   pagrindžia:
     - c-169848
 
@@ -143,17 +79,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 - t-003
   global_id: t-186515
   teiginys: "Lietuvoje populiarus Teodoras Narbutas susilaukė rūsčios Michało Balińskio kritikos."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "20804-21430; hash=b2046f8ae0eff6e55c50e3bce739cc1769f4397bcb04a96463ec963bb5b004fc; match=whitespace_regex"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  ryšio_patikimumas: "susije_su -> T. Narbutas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Teodoras Narbutas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "T. Narbutas: mention_match, author, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Teodoras Narbutas\" parinktas kaip owner_note_path. Targetas \"T. Narbutas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-169849
 
@@ -161,17 +86,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 - t-001
   global_id: t-186516
   teiginys: "Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos praeities veikalų buvo nedaug."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "10082-10538; hash=4b98b43f8089f70e143aece8198b9ce173006cf01b6dce73eb1e8017b73925c1; match=whitespace_regex"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Teodoras Narbutas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=28"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Teodoras Narbutas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-169853
 
@@ -179,19 +93,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 - t-008
   global_id: t-188622
   teiginys: "Teodoras Narbutas vertė, rašė eilėraščius, domėjosi socialinėmis idėjomis, dvaro ūkiu, archeologija ir tautosaka."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "4939-5226; hash=b8eebfe830c963ea76e34cfe2f094263a4d90a699486d52761451a11b99d2029; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Teodoras Narbutas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=89"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Teodoras Narbutas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-171511
 
@@ -199,22 +100,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 - t-009
   global_id: t-188623
   teiginys: "Pirmieji Teodoro Narbuto spausdinti darbai buvo užsienietiškų leidinių apžvalgos, eilėraščiai ir vertimai Vilniaus laikraščiuose."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1810 m.; įvykio data: apie 1810 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
-  temporalinis_llm_pakomentavimas: "Išskleistas pilnas asmens vardas ir pataisyti OCR lūžiai. Nepridėta vėlesnio susidomėjimo Lietuvos istorija."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "6427-6786; hash=f5efa65bc2d0377e6311cc1328f44e2939c93901adf89e86df8f28d09f86a783; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Teodoras Narbutas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=97"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Teodoras Narbutas\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-171512
 
@@ -222,24 +107,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 - t-010
   global_id: t-188624
   teiginys: "Rimanto Klimavičiaus nuomone, Teodoras Narbutas 1817 m. įstojo į masonų organizaciją."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1817 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys paliktas kaip Klimavičiaus nuomonė, nes citata remiasi datuotos taurės interpretacija. Neperrašyta kaip tikrai įrodytas faktas."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "8109-8651; hash=2c91c2c128fccc3ea759ec004f8a4eb9f9995f6f41a365736cd8a9fd3a0b74fa; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> T. Narbutas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Teodoras Narbutas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "T. Narbutas: mention_match, author, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Teodoras Narbutas\" parinktas kaip owner_note_path. Targetas \"T. Narbutas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-17T07:18:43Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171513
 
@@ -247,22 +114,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 - t-011
   global_id: t-188625
   teiginys: "Teodoras Narbutas 1830 m. išleido „Čigonų liaudies istorijos bruožus“ ir rengė Horacijaus bei Ž. B. Ruso kūrybos vertimus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1826 m.; įvykio data: 1830 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Vertinimas apie darbštumą pakeistas konkrečiais darbais. Nepridėta bendresnio teiginio apie interesų įvairovę."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "8652-8958; hash=538c1a972f7d9f8903ffc1053f007501b47a0defe096a7960c84a123072e7dba; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Teodoras Narbutas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Teodoras Narbutas\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-171514
 
@@ -270,24 +121,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 - t-012
   global_id: t-188626
   teiginys: "Teodoras Narbutas dalyvavo 1830-1831 m. sukilime, bet, anot citatos, nekovojo su ginklu rankose."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1830-1831; įvykio data: 1831 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sukilimo dalyvavimas susietas su svarbiu patikslinimu iš citatos. Nepridėta neįrodyto gandų turinio kaip fakto."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "8959-9257; hash=4f4606e91b28225941635d413fc785483a7d98061f1d5adbe78f26fc86c13588; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> T. Narbutas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Teodoras Narbutas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "T. Narbutas: mention_match, author, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Teodoras Narbutas\" parinktas kaip owner_note_path. Targetas \"T. Narbutas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171515
 
@@ -295,24 +128,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 - t-013
   global_id: t-188627
   teiginys: "Teodoras Narbutas LTI apžvelgė politinę ir kultūrinę lietuvių raidą nuo seniausių laikų iki 1569 m. Liublino unijos."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: iki 1569 m.; įvykio data: 1569 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pataisyti OCR lūžiai ir išskleista Liublino unijos data. Nepridėta Karamzino įtakos, nes pakanka pagrindinio veikalo apimties fakto."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "10053-10357; hash=1d8472d19397a11d6c830e5a41081508515ec5dfbdcc71f60e75371d1ad746d2; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Liublinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Teodoras Narbutas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Liublinas: mention_match, place, gap=100"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Teodoras Narbutas\" parinktas kaip owner_note_path. Targetas \"Liublinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171516
 
@@ -320,21 +135,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 - t-014
   global_id: t-188628
   teiginys: "Citatos autorius teigia, kad lenkų istoriografijoje Teodoro Narbuto darbai nėra vertinami teigiamai."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "11014-11346; hash=61ea622d9145236f6f3e4a57a92baadde77b10785105ce9b9cfccdbae83ecee9; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Teodoras Narbutas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=23"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Teodoras Narbutas\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171517
 
@@ -342,21 +142,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 - t-015
   global_id: t-188629
   teiginys: "Vytautas Berenis Teodorą Narbutą vadina lietuvių mitologijos tėvu ir tipišku savo epochos atstovu."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "21477-22320; hash=7cb444b2cc8ea1b075782cad96c918f81838d25da128c94c62b1fa9916326894; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> T. Narbutas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Teodoras Narbutas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "T. Narbutas: mention_match, author, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Teodoras Narbutas\" parinktas kaip owner_note_path. Targetas \"T. Narbutas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171518
 
@@ -364,21 +149,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 - t-016
   global_id: t-188630
   teiginys: "Vytauto Berenio teigimu, Teodoras Narbutas šaltinius rinkosi panašiai kaip pirmtakai, bet juos pralenkė tautosakos ir etnografijos gausa."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "37424-38801; hash=ac998b433d5f79e10d98b35a914221a26b721bc71e712c3f0428a8393c4f030f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Francas Bopas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Teodoras Narbutas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Francas Bopas: mention_match, author"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Teodoras Narbutas\" parinktas kaip owner_note_path. Targetas \"Francas Bopas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171519
 
@@ -386,21 +156,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 - t-017
   global_id: t-188631
   teiginys: "Analizuodamas Strijkovskio Prokorimą, Teodoras Narbutas dievą pervadino Pramžimu ir aiškino vardą kaip lemtį, likimą bei būtinybę."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "48307-48670; hash=3c2b30c1f1ab7c11d408c238c4eb751210f1bf17a632878129d4aad3ca349d60; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> T. Narbutas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Teodoras Narbutas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "T. Narbutas: mention_match, author, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Teodoras Narbutas\" parinktas kaip owner_note_path. Targetas \"T. Narbutas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171520
 
@@ -408,21 +163,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 - t-018
   global_id: t-188632
   teiginys: "Teodoras Narbutas laišką istorikui Ignotui Onacevičiui pradėjo deklaracija: „Aš nerašau lietuvių tautos istorijos <...>“."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "84867-85034; hash=ad110f3c5c80780d234ee4b27ec918e4875729795f100bde04f71104871a1845; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> T. Narbutas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Teodoras Narbutas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "T. Narbutas: mention_match, author, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Teodoras Narbutas\" parinktas kaip owner_note_path. Targetas \"T. Narbutas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171521
 
@@ -430,24 +170,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 - t-019
   global_id: t-188633
   teiginys: "Laiške Ignotui Onacevičiui Teodoras Narbutas savo uždaviniu vadino praeities įvykių esmės atskleidimą nuo tautos kilmės iki 1569 m."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: iki 1569 m.; įvykio data: 1569 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sugadintas fragmentas perrašytas pagal aiškią citatos mintį. Nepridėta Narbuto vertinimo apie šaltinių išblaškymą."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "85335-85872; hash=d91387370cd199513372842fac88013f8d8e34733f4e7421df1f1bf810eff58f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Teodoras Narbutas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Teodoras Narbutas\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171522
 
@@ -455,21 +177,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 - t-020
   global_id: t-188634
   teiginys: "Citatos autorius teigia, kad Teodoras Narbutas sąmoningai vengė žodžio „istorija“ ir save suvokė veikiau kaip aprašinėtoją."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "87045-87771; hash=2659906ea5721a4feb932a1f7964bfbc02cd87a4c3b52ef73da6402364d682e3; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Europa: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Teodoras Narbutas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Europa: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Teodoras Narbutas\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171523
 
@@ -477,21 +184,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 - t-021
   global_id: t-188635
   teiginys: "Oficialios recenzijos į Teodoro Narbuto „Lietuvių mitologiją“ pasirodė 1835 ir 1836 metais."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "100599-100956; hash=ad950ada1f60784590514e2462a364ccd10968b7c862c0f9edfbda643e56a04b; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kraševskis: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Teodoras Narbutas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kraševskis: mention_match, author"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Teodoras Narbutas\" parinktas kaip owner_note_path. Targetas \"Kraševskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171524
 
@@ -499,24 +191,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 - t-022
   global_id: t-188636
   teiginys: "1858 m. „Teka Wilenska“ puslapiuose Teodoras Narbutas davė atkirtį Stanislovo Mikuckio kaltinimams."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1858 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalinta nutrūkusi sakinio pabaiga ir paliktas konkretus įvykis. Nepridėtas apibendrinimas apie beveik niekada neatsakinėjimą į kritiką."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "112844-113211; hash=f6324270701f1fea2c5e59e74cd62436eb6e1c2e7adc806497aac19a1bb5801e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> S. Daukantas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Teodoras Narbutas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "S. Daukantas: mention_match, author, gap=31"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Teodoras Narbutas\" parinktas kaip owner_note_path. Targetas \"S. Daukantas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171525
 
@@ -524,21 +198,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 - t-023
   global_id: t-188637
   teiginys: "Teksto analizė rodo, kad Teodoras Narbutas savo parankinį LTI egzempliorių pildė iki 1863 metų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "119802-120244; hash=77fcef8dc3a4df03c4249320c3d4d797d89ade6390358698350d773fe4b0c6c0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Teodoras Narbutas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Teodoras Narbutas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171526
 
@@ -546,14 +205,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 - t-024
   global_id: t-188638
   teiginys: "Citatos autorius teigia, kad Teodoras Narbutas lietuvių mitologijos tyrinėjimams skyrė ypač daug dėmesio."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "135876-136176; hash=88ab9122b696cb9518b4e62fa08585b411cb5e9652d865b65b823b8ba0eca8bf; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171527
 
@@ -561,21 +212,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 - t-025
   global_id: t-188639
   teiginys: "Teodoras Narbutas Šaurų dvaro bibliotekoje saugojo visą „Dziennik Wilenski“ komplektą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "854471-854715; hash=6a42a80de8cbc1d12b9c7bed237205e9973fe80899d6ccfe79de8cb7a85249ec; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> T. Narbutas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Teodoras Narbutas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "T. Narbutas: mention_match, author, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Teodoras Narbutas\" parinktas kaip owner_note_path. Targetas \"T. Narbutas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171528
 
@@ -583,21 +219,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 - t-026
   global_id: t-188640
   teiginys: "Teodoras Narbutas Dievo Kovo stabą laikė vienu svarbiausių savo kolekcijos egzempliorių."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "868991-869227; hash=938dc8a1aa5aa72a72e6991464c1c7155a417589949df176b58cf8cbadffded0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> T. Narbutas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Teodoras Narbutas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "T. Narbutas: mention_match, author, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Teodoras Narbutas\" parinktas kaip owner_note_path. Targetas \"T. Narbutas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171529
 
@@ -605,24 +226,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 - t-027
   global_id: t-188641
   teiginys: "Teodoras Narbutas Rivijaus kroniką įsigijo 1808 m. Revelyje per vadinamąjį Suomijos karą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1808 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Išskleistas įsigytas objektas ir vietos bei laiko aplinkybės. Nepridėta vėlesnio rankraščio rengimo istorija."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "888188-888686; hash=b5864f3e2012f2a794b23300277307f6b1006ff06e136e89bc97299a3237b821; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Revelis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Teodoras Narbutas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Revelis: mention_match, place, gap=51"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Teodoras Narbutas\" parinktas kaip owner_note_path. Targetas \"Revelis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171530
 
@@ -630,17 +233,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 - t-028
   global_id: t-188642
   teiginys: "Papildymo tekstas leidžia spręsti, kad Teodoras Narbutas gerai pažinojo visus 1804 m. komisijos narius."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1804 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Nutrūkęs sakinys perrašytas į aiškią išvadą, paliekant atsargią formuluotę „leidžia spręsti“. Nepridėti komisijos narių vardai."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "896094-896390; hash=7a6df6f6fd0f2582b7bca5cd72996ac07b71db9da7ed266575bb53ee0122a7e2; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171531
 
@@ -648,21 +240,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 - t-029
   global_id: t-190985
   teiginys: "Narbutas vartoja terminą „dzieje“, o ne „historia“."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "736455-736699; hash=d5b30eed8928d0113474dc368f7c236c1f5682838367ede51aea6600600a3501; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Teodoras Narbutas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Teodoras Narbutas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Teodoras Narbutas: mention_match, author, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Teodoras Narbutas\" parinktas kaip owner_note_path. Targetas \"Teodoras Narbutas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173867
 
@@ -670,14 +247,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 - t-030
   global_id: t-190986
   teiginys: "Rasa Griškaitė Narbuto lietuvių mitologijos tyrinėjimų paieškas vadino atkaklesnėmis ir tragiškesnėmis, nei galėtų atrodyti jų nepažinus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "837026-837314; hash=d30ff1cadf1ceac57deedefb212033691f9255fa7caa6fbbad1999e758f32287; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173868
 
@@ -685,21 +254,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 - t-031
   global_id: t-190987
   teiginys: "Rengdamas antrąjį LTI leidimą, Narbutas išnašoje išbraukė žodžius „bene brolio“ apie A. Vijūką-Kojalavičių."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "888957-889261; hash=122cae9dc56cee4d59e54ed222ea83584140fa7f0c61855187bea0c48cd30e67; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Albertas Vijūkas-Kojalavičius: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Teodoras Narbutas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Albertas Vijūkas-Kojalavičius: mention_match, author"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Teodoras Narbutas\" parinktas kaip owner_note_path. Targetas \"Albertas Vijūkas-Kojalavičius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173869
 
@@ -707,21 +261,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 - t-032
   global_id: t-190988
   teiginys: "Teodoras Narbutas yra dailiau už anuos padarytas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "903458-904000; hash=c40b96239588ac78c1d1bb9e4a80712b9e9153dbeb66bc0afdb75881644d3510; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Plateliai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Teodoras Narbutas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Plateliai: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Teodoras Narbutas\" parinktas kaip owner_note_path. Targetas \"Plateliai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173870
 
@@ -729,21 +268,6 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 - t-033
   global_id: t-190989
   teiginys: "Teodoras Narbutas Dievo Kovo stabą ypač vertino ir laikė jį vienu svarbiausių savo kolekcijos egzempliorių."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "904268-904427; hash=a1a97fc81b5d57274ecbb7d83c457681ab12cb2780796eb5625c3e38aadd198e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Teodoras Narbutas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Teodoras Narbutas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Teodoras Narbutas: mention_match, author, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Teodoras Narbutas\" parinktas kaip owner_note_path. Targetas \"Teodoras Narbutas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T16:15:14Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173871
 - susijęs iš [[objektai/asmenys/Albertas Vijūkas-Kojalavičius.md#claim-t-191935|Albertas Vijūkas-Kojalavičius]]: Narbutas priekaištauja, kad per 400 metų krašto praeitimi pasirūpino tik Kojalavičius, Mykolas Lietuvis ir Teodoras Narbutas.
@@ -1015,8 +539,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     mas perduoti jį giminaičiui V. Narbutui * , kuris vėliau
     tvarkė spausdinimo reikalus ir skaitė korektūras.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1037,8 +561,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     kintų mūsų istorijos pagrindo, o išmonė nebūtų laikoma tiesa, -
     o tai mėginama jau daryti"13.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1057,8 +581,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     turi tik istoriografinės reikšmės, nes yra arba pasenę,
     arba klaidingi.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1079,8 +603,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     dėka istoriografijoje įsigalėjo ir dabartinis Kronikos
     pavadinimas — Bychovco kronika.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1102,8 +626,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     kitaip nei Teodoras Narbutas, be atitinkamos faktografinės ba­
     zės vengdavęs rašyti apie vieną ar kitą istorinį įvykį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1122,8 +646,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     formos kūrimas - lėmė gana vėlyvą istorinių veikalų pasirody­
     mą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1143,8 +667,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     grindu kaip vienintelį Lietuvos istorijos liudininką at­
     remti priekaištams, daromiems Strijkovskiui"7 .
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: tiesioginė-citata
   pagrindžia:
@@ -1160,8 +684,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     į archeologinius kasinėjimus, rinko ir užrašinėjo tautosaką. Vi­
     suomenės akyse jis tapo LTI autoriumi.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1178,8 +702,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     jo paskatinti pusbrolio Justino parašyta nedidelė knygelė
     „Trumpa lietuvių tautos istorijos bruožų apybraiža“.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1200,8 +724,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     tyrimai“, kuriame kartkarčiais pasirodydavo T. Narbuto
     straipsnių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1218,8 +742,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     teto konkursui pateiktas darbas apie linų ir kanapių augini­
     mą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1235,8 +759,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     tardė. Buvo pasklidę gandai, esą jis padėjęs sukilėliams lieti
     patrankas, tačiau caro valdžia negalėjo to įrodyti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1252,8 +776,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     mas rusų istoriku Nikolajumi Karamzinu, pirmenybę teikė po­
     litiniams įvykiams ir pagal juos suskirstė veikalo turinį6.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1270,8 +794,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     lietuvių tautai. T. Narbutas -  tipiškas gente lituanus, natione
     polonus lietuvis bajoras.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1300,8 +824,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     stovas; jį ta epocha pagimdė, išugdė, ir jis nuosekliai reiškė tos
     epochos idealus, buvo jos sąžinė ir balsas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1339,8 +863,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     ir etnografinės medžiagos gausumu T. Narbutas pralenkė sa­
     vo pirmtakus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1357,8 +881,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     gaidžiai. O T. Narbutas vadina jį „pirmutiniu ir visuotinai pa­
     plitusiu dievu“. Jo vardas reiškiąs lemtį, likimą, būtinybę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1372,8 +896,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     tokia iš pirmo žvilgsnio šokiruojančia deklaracija T. Narbutas
     pradėjo laišką istorikui Ignotui Onacevičiui3.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1393,8 +917,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     kilmės ab ovo (pabr. T. N. -  R. G.), iki pat tų laikų, kai ji 1569
     metais, valdant Žygimantui Augustui, susijungė su Lenkija.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1417,8 +941,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     veikalų, aiškiai ir teisingai išdėstytų. Toks yra mano ketinimas,
     o kaip jis pavyko -  įvertins palikuonys“5 6.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1436,8 +960,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     miška, o antroji priklausė Juozapo Ignoto Kraševskio
     plunksnai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1454,8 +978,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     se davė atkirtį Stanislovo Mikuckio kaltinimams33. Toks tylėji­
     mas stebino istoriko bičiulius, tarp jų ir S. Daukantą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1474,8 +998,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     pildė iki lemtingų 1863 metų -  tai rodo teksto analizė, t. y.
     datos bei senyvam istoriko amžiui būdingas braižas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1491,8 +1015,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     lima konstatuoti, kad mitologijai istorikas skyrė ypač daug dė­
     mesio, kurį galbūt net būtų galima pavadinti aistra.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1512,8 +1036,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     lenski“ komplektą ([Narbutt T] Spisanie Muzeum
     w Szawrach.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1530,8 +1054,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     rach. -  L. 2. -  Nr. 9). Šio stabo kopija buvo eks­
     ponuojama Vilniaus senienų muziejuje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1553,8 +1077,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     T. Narbuto plano leisti Lietuvos istorijos šaltinius
     dalių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1572,8 +1096,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     jos nariai T. Narbutui, kaip galima spręsti iš papil­
     dymo teksto, buvo gerai pažįstami.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1590,8 +1114,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     džius pirmam „Lietuvių tautos istorijos“ to­
     mui. P. 430—431).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1608,8 +1132,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     ypač daug dėmesio, kurį galbūt net būtų galima pavadinti
     aistra.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1630,8 +1154,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     jau neabejojo, kad Lietuvos bajorų herbyno autorius buvo pats
     A. Vijūkas-Kojalavičius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1652,8 +1176,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     kilimo iš Raseinių apskrities, 1836 metais gegužės mėnesį nuvyko
     aplankyti savo brolį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1669,8 +1193,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     egzempliorių
     ( [Narbutt T.] Spisanie Muzeum w Szawrach. L. 2. Nr. 9).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1842,7 +1366,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 - id: c-171511
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 5"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 5."
   citata_originali: |
     T. Narbutas, kaip ir daugelis to meto žmonių, bodėjosi vie-
     nakryptės veiklos. Jis daug vertė, rašė eilėraščius, domėjosi
@@ -1859,7 +1384,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 - id: c-171512
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 6"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 6."
   citata_originali: |
     Pirmieji T. Narbuto spausdinti darbai -  tai užsienietiškų
     leidinių apžvalgos, eilėraščiai, vertimai Vilniaus laikraščiuo­
@@ -1877,7 +1403,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 - id: c-171513
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 7"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 7."
   citata_originali: |
     Ant taurės išgraviruota data -  „1817 m.“ R. Kli­
     mavičiaus nuomone, tais metais T. Narbutas įstojo į masonų
@@ -1899,7 +1426,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 - id: c-171514
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 7"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 7."
   citata_originali: |
     T. Narbuto darbštumas ir interesų įvairovė stebina šiuo­
     laikinį žmogų. 1830 m. jis išleido „Čigonų liaudies istorijos
@@ -1917,7 +1445,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 - id: c-171515
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 7"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 7."
   citata_originali: |
     T. Narbutas gana aktyviai dalyvavo 1830-1831 m. sukili­
     me. Tiesa, jis nekovojo su ginklu rankose. T. Narbutas buvo
@@ -1934,7 +1463,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 - id: c-171516
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 8"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 8."
   citata_originali: |
     LTI T. Narbutas apžvelgė politine ir kultūrinę lietuvių rai­
     dą nuo seniausių laikų iki Liublino unijos. 1569 m. unija -  tai
@@ -1951,7 +1481,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 - id: c-171517
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 8"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 8."
   citata_originali: |
     Lenkų istoriografijoje T. Narbuto darbai nėra teigiamai
     vertinami. Tai susiję ne tik su gausiomis faktinėmis jo veikalo
@@ -2038,7 +1569,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 - id: c-171520
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 28"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 28."
   citata_originali: |
     Analizuodamas M. Strijkovskio minimą dievą Prokorimą,
     T. Narbutas pakeičia net jo vardą -  vadina Pramžimu (Pram-
@@ -2056,7 +1588,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 - id: c-171521
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 47"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 47."
   citata_originali: |
     Sumanymas. „Aš nerašau lietuvių tautos istorijos <...>“ -
     tokia iš pirmo žvilgsnio šokiruojančia deklaracija T. Narbutas
@@ -2071,7 +1604,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 - id: c-171522
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 47"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 47."
   citata_originali: |
     Taigi skaitome: „Aš nerašau
     lietuvių tautos istorijos, nes neįstengčiau susidoroti su tokiu
@@ -2092,7 +1626,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 - id: c-171523
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 48"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 48."
   citata_originali: |
     T. Narbutas sąmoningai vengė žodžio „istorija“; tarytum ne­
     pretendavo į moksliškumą, suvokdamas save tik kaip apraši­
@@ -2116,7 +1651,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 - id: c-171524
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 55"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 55."
   citata_originali: |
     Oficialūs atgarsiai į T. Narbuto „Lietu­
     vių mitologiją“ pasirodė netrukus, t. y. tais pačiais 1835 ir ki­
@@ -2135,7 +1671,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 - id: c-171525
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 61"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 61."
   citata_originali: |
     Naujos paieškos. T. Narbutas į oficialiąją kritiką beveik nie­
     kuomet neatsakinėjo, galbūt išskyrus tą bene vienintelį kartą,
@@ -2153,7 +1690,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 - id: c-171526
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 64"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 64."
   citata_originali: |
     1846 metais jis ra­
     šė S. Daukantui: „O tuo tarpu ant švarių lapų, įsiūtų į mano
@@ -2173,7 +1711,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 - id: c-171527
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 75"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 75."
   citata_originali: |
     Vietoj pabaigos. Taigi T. Narbuto paieškos lietuvių mito­
     logijos tyrinėjimų srityje buvo atkaklesnės ir tragiškesnės, ne­
@@ -2211,7 +1750,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 - id: c-171529
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 494"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 494."
   citata_originali: |
     Die­
     vo Kovo stabą T. Narbutas ypač vertino laikyda­
@@ -2229,7 +1769,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 - id: c-171530
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 507"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 507."
   citata_originali: |
     Kaip byloja šio parengto spaudai ran­
     kraščio pratarmė, Rivijaus kroniką T. Narbutas įsi­
@@ -2252,7 +1793,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 - id: c-171531
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 513"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 513."
   citata_originali: |
     T. Nar­
     butas apie 1804 metų komisiją sužinojo susipaži­
@@ -2271,7 +1813,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 - id: c-173867
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 403"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 403."
   citata_originali: |
     Siame sakinyje T. Narbutas vartoja terminą
     „dzieje“, o ne „historia“. Apie šių žodžių pras­
@@ -2289,7 +1832,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 - id: c-173868
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 461"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 461."
   citata_originali: |
     Vietoj pabaigos. Taigi T. Narbuto paieškos lietuvių
     mitologijos tyrinėjimų srityje buvo atkaklesnės ir tragiš-
@@ -2307,7 +1851,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 - id: c-173869
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 485"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 485."
   citata_originali: |
     86 /Ten
     pat,
@@ -2329,7 +1874,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 - id: c-173870
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 491"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 491."
   citata_originali: |
     Skulptūros stilius pri­
     mena Prilviėo dievus, nors jis yra dailiau už anuos padarytas.
@@ -2351,7 +1897,8 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 - id: c-173871
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 491"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 491."
   citata_originali: |
     Dievo Kovo stabą T. Narbutas ypač vertino
     laikydamas jį vienu svarbiausių savo
@@ -2367,4 +1914,3 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 
 ## Ryšiai
 - Teodoras Narbutas siuntė į [[objektai/vietos/Vilnius]]
-- Teodoras Narbutas dalyvavo mūšyje [[objektai/ivykiai/Mūšis prie Abo miesto|Mūšis prie Abo miesto (mūšis, XIX a.)]]

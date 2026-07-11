@@ -36,24 +36,6 @@ Teodoras Narbutas 1224 m. popiežiaus Honorijaus III bulėje skyrė Samlandia ir
 - t-001
   global_id: t-191840
   teiginys: "Teodoras Narbutas 1224 m. popiežiaus Honorijaus III bulėje skyrė Samlandia ir Witlandia, pabrėždamas, kad vietoj Wirlandia reikia skaityti Witlandia."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1224 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Paliktas Narbuto atribucinis skaitymo pataisos kontekstas. Nepridėta daugiau apie Gruberį ar Tunmaną, nes teiginiui pakanka citatos pagrindo."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "623655-623938; hash=c1e1f8e8c0053f22c5fc51d7818bba31ea1140faf0a005e0836797f3478e5b24; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Teodoras Narbutas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Honorijaus III 1224 metų bulė dėl Samlandia ir Witlandia: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Teodoras Narbutas: mention_match, person, gap=18"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Honorijaus III 1224 metų bulė dėl Samlandia ir Witlandia\" parinktas kaip owner_note_path. Targetas \"Teodoras Narbutas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174722
 ## Reikšmingi paminėjimai
@@ -69,8 +51,8 @@ Teodoras Narbutas 1224 m. popiežiaus Honorijaus III bulėje skyrė Samlandia ir
     kia skaityti Witlandia-, tai jau teigė Tunmanas (Unter­
     suchungen ettr. 5, 53).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -81,7 +63,8 @@ Teodoras Narbutas 1224 m. popiežiaus Honorijaus III bulėje skyrė Samlandia ir
 - id: c-174722
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 346"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 346."
   citata_originali: |
     Sis skirtumas yra esminis dalykas;
     mes jį aptinkame jau 1224 metais popiežiaus Honorijaus

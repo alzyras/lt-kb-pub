@@ -33,16 +33,6 @@ Dusburgietis teigia, kad dar apie tą patį Neilgai trukus po to, kai tas pats b
 - t-001
   global_id: t-59167
   teiginys: "Brolis Albertas žygyje atsiskyrė nuo kitų brolių ir meldėsi, kad namie būtų galėjęs priimti Kristaus kūną."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "554262-554817; hash=b3d93ea038b51f57774527bb97237aee8bfb63f378830f51e2c1539c66cd6e2a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Albertas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Viešpatie Jėzau Kristau, jeigu šis paplotėlis — tavo tikras kūnas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Albertas: mention_match, person, gap=85"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Viešpatie Jėzau Kristau, jeigu šis paplotėlis — tavo tikras kūnas\" parinktas kaip owner_note_path. Targetas \"Albertas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-59799
 
@@ -50,16 +40,6 @@ Dusburgietis teigia, kad dar apie tą patį Neilgai trukus po to, kai tas pats b
 - t-002
   global_id: t-59168
   teiginys: "Brolis Albertas paprašė, kad paplotėlis įeitų į jį, jei tai tikras Kristaus kūnas, ir priėmė ore pasirodžiusį paplotėlį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "554681-555059; hash=e3372f989c8f87acca88115d6dabc52e0fd845c73c1b067bba666e079c648f83; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kūnas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Viešpatie Jėzau Kristau, jeigu šis paplotėlis — tavo tikras kūnas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Kūnas: mention_match, person, gap=47"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Viešpatie Jėzau Kristau, jeigu šis paplotėlis — tavo tikras kūnas\" parinktas kaip owner_note_path. Targetas \"Kūnas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-59800
 ## Reikšmingi paminėjimai
@@ -77,8 +57,8 @@ Dusburgietis teigia, kad dar apie tą patį Neilgai trukus po to, kai tas pats b
     sukalbėjęs daug maldų, tavo kūną“. Vos šitaip tarė, staiga pasirodė viešpaties kūnas
     pavidalu paplotėlio, kuris duodamas prie altoriaus, ir pakibo ore jam prie pat burnos.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -100,8 +80,8 @@ Dusburgietis teigia, kad dar apie tą patį Neilgai trukus po to, kai tas pats b
 
                  233 (226).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -112,7 +92,8 @@ Dusburgietis teigia, kad dar apie tą patį Neilgai trukus po to, kai tas pats b
 - id: c-59799
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 176"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 176."
   citata_originali: |
     232 (225). Dar apie tą patį
 
@@ -133,7 +114,8 @@ Dusburgietis teigia, kad dar apie tą patį Neilgai trukus po to, kai tas pats b
 - id: c-59800
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 176"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 176."
   citata_originali: |
     Vos šitaip tarė, staiga pasirodė viešpaties kūnas
     pavidalu paplotėlio, kuris duodamas prie altoriaus, ir pakibo ore jam prie pat burnos.

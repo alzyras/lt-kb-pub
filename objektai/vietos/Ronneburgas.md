@@ -32,17 +32,6 @@ media_all_json: |-
 - t-001
   global_id: t-32511
   teiginys: "Pagal Stryjkovskio kroniką buvo restauruoti Livonijos Ronneburgo analai ir nekrologas."
-  semantiniai_rysiai: "Ronneburgas priklausė Livonija (0.82)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "125484-125775; hash=99f2c9c7cd8279cd7343bdf17c6326bda42ba5733cd802938608c3d3469e195a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Livonija: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Ronneburgas: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Livonija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Ronneburgo analai įvardyti kaip Livonijos, todėl vieta siejama su Livonija."
   pagrindžia:
     - c-34025
 - susijęs iš Livonija: Pagal Stryjkovskio kroniką buvo restauruoti Livonijos Ronneburgo analai ir nekrologas.
@@ -58,8 +47,8 @@ media_all_json: |-
     lotyniška restauracija parodė, kad analų originalo tekstu skubotas
     Stryjko vskis nesinaudojo tiksliai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -84,6 +73,3 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-32511
-
-## Ryšiai
-- Ronneburgas priklausė [[objektai/vietos/Livonija]]

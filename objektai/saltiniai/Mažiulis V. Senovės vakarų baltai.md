@@ -38,12 +38,6 @@ Dusburgietis teigia, kad mažiulis V.
 - t-001
   global_id: t-61174
   teiginys: "V. Mažiulio „Senovės vakarų baltai“ paskelbta MG 1981 m. Nr. 2, p. 7–8."
-  temporaliniai_duomenys: "įvykio data: 1981 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pateikia bibliografinį įrašo faktą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "785956-786016; hash=b11617d62fe8846726a4f0c60a42cc83a4b13d14517da6ed67a6cf0dafc303c2; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-61806
 ## Reikšmingi paminėjimai
@@ -54,8 +48,8 @@ Dusburgietis teigia, kad mažiulis V.
   citata_originali: |
     Mažiulis V. Senovės vakarų baltai.— MG, 1981, Nr. 2, p. 7—8.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -66,7 +60,8 @@ Dusburgietis teigia, kad mažiulis V.
 - id: c-61806
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 267"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 267."
   citata_originali: |
     Mažiulis V. Senovės vakarų baltai.— MG, 1981, Nr. 2, p. 7—8.
   statusas: verified

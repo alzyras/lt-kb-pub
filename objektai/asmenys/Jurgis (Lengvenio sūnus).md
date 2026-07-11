@@ -32,16 +32,6 @@ Centre tarp lietuvių ir lenkų (kariuomenės kairiojo sparno) pasilikusieji Smo
 - t-001
   global_id: t-29022
   teiginys: "Lengvenio sūnus Jurgis vadovavo Smolensko pulkams, kurie Žalgirio mūšyje laikėsi tarp lietuvių ir lenkų kariuomenės dalių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "930937-931129; hash=90a73d12facd141b0067cfb54b540a148b57964ba179c4ef5b88384de4bb10b5; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sunus -> Lengvenis: 0.98"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jurgis (Lengvenio sūnus): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lengvenis: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai įvardija Jurgį kaip Lengvenio sūnų."
   pagrindžia:
     - c-28927
 ## Reikšmingi paminėjimai
@@ -54,8 +44,8 @@ Centre tarp lietuvių ir lenkų (kariuomenės kairiojo sparno) pasilikusieji Smo
     Lengvenio sūnus Jurgis, anot Dlugošo, «laimėjo didelę... garbę
     karių ir herojų»^27.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -52,19 +52,6 @@ media_all_json: |-
 - t-003
   global_id: t-67517
   teiginys: "M. Strijkovskis 1582 m. Karaliaučiuje išspausdintoje Kronikoje panaudojo Dusburgiečio nuorašą, apėmusį įvykius iki 1326 m."
-  temporaliniai_duomenys: "įvykio data: iki 1326 m.; įvykio data: 1326 m.; įvykio data: 1582 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys turi OCR klaidą ir netikslų įvadą, o citata palaiko aiškų sakinį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "51546-51829; hash=2eedb79b70f9c89b7c96ecad34a1bff0907236026cc7d27414a8e6b537763e0e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Motiejus Strijkovskis (kronikininkas): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Pirmoji spausdinta Lietuvos istorija (1582 m.): owner_note_path, source"
-  ryšio_targeto_parinkimas: "Motiejus Strijkovskis (kronikininkas): mention_match, author, gap=4"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pirmoji spausdinta Lietuvos istorija (1582 m.)\" parinktas kaip owner_note_path. Targetas \"Motiejus Strijkovskis (kronikininkas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-67393
 ## Reikšmingi paminėjimai
@@ -78,8 +65,8 @@ media_all_json: |-
     — Lietuvos Didžiosios Kunigaikštystės istorijoje, tuo įvesdamas Dusburgiečio kronikos
     faktus į lituanistinę istorinę literatūrą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -90,7 +77,8 @@ media_all_json: |-
 - id: c-67393
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 19"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 19."
   citata_originali: |
     Jį gavęs perdavė M. Strijkovskiui. Sis Dusburgiečio nuorašą (apimantį
     įvykius iki 1326 m.) panaudojo savo 1582 m. Karaliaučiuje išspausdintoje Kronikoje76

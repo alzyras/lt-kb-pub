@@ -42,11 +42,6 @@ Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės gynybos) buvo naudoja
 - t-002
   global_id: t-78896
   teiginys: "Iš pradžių kartečė naudota ginant arba šturmuojant tvirtoves, o nuo Trisdešimtmečio karo plačiai taikyta ir lauko kautynėse."
-  temporaliniai_duomenys: "įvykio data: 1618-1648; įvykio data: 1648 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "622785-623079; hash=4fa622d4a1e9cad482ec43595779f10660afef043e0349bac1d45a1b0f7567a1; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-76008
 
@@ -54,9 +49,6 @@ Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės gynybos) buvo naudoja
 - t-005
   global_id: t-78898
   teiginys: "Ankstyvieji kartečės užtaisai buvo dedami į virvėmis aprišamus maišelius, o vėliau atsirado cilindro formos metalinėse dėžutėse laikoma kartečė."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "623378-624077; hash=f076b348bc969a151ec87a5d55a7c64c924bf04d395742e2fbfe635e7c2be61e; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-44137
 
@@ -64,9 +56,6 @@ Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės gynybos) buvo naudoja
 - t-006
   global_id: t-78900
   teiginys: "Kartečė buvo skirta žeisti priešo karius nedideliu atstumu, nes didelė kulkų sklaida ribojo jos efektyvumą toliau."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "623080-623532; hash=72e26683e19cee2f90cedf27722ba30968744052885e6d70fc7dddd3a30b8386; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-44136
 
@@ -74,9 +63,6 @@ Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės gynybos) buvo naudoja
 - t-003
   global_id: t-78901
   teiginys: "Pagal kulkų svorį kartečė buvo skirstoma į artimojo ir tolimojo nuotolio kartečę."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "622944-623211; hash=06666d3cb8349977d3da8d58ffa2a914424f680f5ebd195d040342d547f1593b; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-44135
 
@@ -84,9 +70,6 @@ Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės gynybos) buvo naudoja
 - t-004
   global_id: t-78902
   teiginys: "Kartečė buvo skirta žeisti priešo karius nedideliu atstumu, nes didelė kulkų sklaida neleido jos efektyviai naudoti toliau."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "623080-623532; hash=72e26683e19cee2f90cedf27722ba30968744052885e6d70fc7dddd3a30b8386; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-44136
 
@@ -94,14 +77,6 @@ Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės gynybos) buvo naudoja
 - t-007
   global_id: t-193753
   teiginys: "Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės gynybos) buvo naudojama muškietų kulkų kartečė."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "622311-622512; hash=1fd724956d75eef6b1201c9096db60ee578debf1d6444d5c7d86a5f5d2cf4ba5; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-176413
 ## Reikšmingi paminėjimai
@@ -116,8 +91,8 @@ Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės gynybos) buvo naudoja
     to galėjo įveikti didesnį atstumą, bet pabūklo užtaise jų tilpdavo
     mažiau.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -135,8 +110,8 @@ Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės gynybos) buvo naudoja
     kulkomis, vėliau ši problema buvo išspręsta panaudojant kulkų
     ryšulius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -164,8 +139,8 @@ Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės gynybos) buvo naudoja
     sviediniai su padegamuoju mišiniu, su-
     daryti iš geležinių žiedų).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -182,8 +157,8 @@ Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės gynybos) buvo naudoja
     nuotolių. Artimo nuotolio buvo sudaryta iš daugybės mažo kalibro
     kulkų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -199,8 +174,8 @@ Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės gynybos) buvo naudoja
     Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės
     gynybos) buvo naudojama muškietų kulkų kartečė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

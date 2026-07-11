@@ -48,19 +48,6 @@ Nenurodyta
 - t-001
   global_id: t-185756
   teiginys: "Lietuva suskato rengtis karui dėl Podolės, tačiau apsiribota grasinimais ir kariuomenės telkimu."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "897019-897532; hash=a01a33450f80811292608cc0ed227ec6a7bc2768070012d96765cbdb6f462616; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Nauja audra dėl Podolės ir Lietuvos rengimasis karui (1460 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Nauja audra dėl Podolės ir Lietuvos rengimasis karui (1460 m.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-169117
 
@@ -68,22 +55,6 @@ Nenurodyta
 - t-002
   global_id: t-185757
   teiginys: "1460 m. karalius Bresto seime stengėsi nukreipti didikų užmojus nuo Podolės."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "valdymo laikotarpis: 1460 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „valdymo laikotarpis“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai perteikia citatoje nurodytą karaliaus veiksmą Bresto seime."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "897362-898124; hash=f2b7cdca23bcc6934ce7e0d470a3b9a70e55b86e3552caec236d02aae8f320ad; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Podolė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Nauja audra dėl Podolės ir Lietuvos rengimasis karui (1460 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Podolė: mention_match, place, gap=60"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Nauja audra dėl Podolės ir Lietuvos rengimasis karui (1460 m.)\" parinktas kaip owner_note_path. Targetas \"Podolė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-169118
 ## Reikšmingi paminėjimai
@@ -114,8 +85,8 @@ Nenurodyta
     tik tuo metu mirė žymiausias šios grupuotės vadas Jo­
     nas Goštautas.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -145,8 +116,8 @@ Nenurodyta
     ram inti
     griebdavosi ginklų.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -190,7 +161,8 @@ Nenurodyta
 - id: c-169118
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 509"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 509."
   citata_originali: |
     Tačiau lemiamas žingsnis nebuvo žengtas: pasi­
     tenkinta grasinimais bei kariuomenės telkimu, nes kaip

@@ -40,19 +40,6 @@ media_all_json: |-
 - t-001
   global_id: t-88241
   teiginys: "Bohuszo „Summaryusz Aktów Kapituły Wileńskiej“ mini, kad 1556 m. naujosios sektos tapo reformos šalininkų prieglobsčiu ir mokykla."
-  temporaliniai_duomenys: "įvykio data: 1556 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis tekstas užterštas puslapio triukšmu ir nutrūkęs, bet citata pagrindžia glaustą faktą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "569803-570127; hash=3cda8386934ec1b54ee32ae5083e4795f8ff47a178a69ba5cb8d0cf0199307e7; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Cvinglis: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Bohuszo Summaryusz Aktów Kapituły Wileńskiej: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Cvinglis: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bohuszo Summaryusz Aktów Kapituły Wileńskiej\" parinktas kaip owner_note_path. Targetas \"Cvinglis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-84220
 ## Reikšmingi paminėjimai
@@ -76,8 +63,8 @@ media_all_json: |-
     1556 metų tapo visų reformos šalininkų prieglobsčiu ir mo­
     kykla.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

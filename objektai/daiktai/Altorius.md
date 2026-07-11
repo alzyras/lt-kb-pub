@@ -54,16 +54,6 @@ Nenurodyta
 - t-001
   global_id: t-59677
   teiginys: "Markburge priimami riteriai prieš įvilktuves kniūpsti puolė prieš altorių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "704544-705382; hash=d5fb0dbca3e76659f02f06642b3821a0342933f35fb2fa705e1321c9cf7d459f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Markburgas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Altorius: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Markburgas: mention_match, place, gap=66"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Altorius\" parinktas kaip owner_note_path. Targetas \"Markburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-60309
 - susijęs iš [[objektai/asmenys/Bona.md#claim-t-87469|Bona]]: Karalienė Bona Vytauto atminimą pagerbė marmuriniu antkapiniu paminklu didžiojo altoriaus dešinėje pusėje.
@@ -119,8 +109,8 @@ Nenurodyta
     ėmė permanyti visas žmonių paslaptis, todėl negalėjo pakęsti prie savęs nė vieno, kas
     buvo susitepęs paleistuvystės nuodėme.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -131,7 +121,8 @@ Nenurodyta
 - id: c-60309
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 231"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 231."
   citata_originali: |
     Išgirdęs
     šiuos žodžius, landgrafas taip nudžiugo, kad, puolęs iš džiaugsmo jam  į glėbį, atleido
@@ -151,6 +142,3 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59677
-
-## Ryšiai
-- Altorius priklausė [[objektai/vietos/Vilniaus katedra]]

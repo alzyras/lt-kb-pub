@@ -58,19 +58,6 @@ Nenurodyta
 - t-003
   global_id: t-66478
   teiginys: "1264 m. Bartenšteino pilyje broliai stokojo maisto, nebegalėjo ilgiau priešintis prūsams ir apgaule priviliojo juos pulti pilį."
-  temporaliniai_duomenys: "įvykio data: 1264 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pirminis teiginys per abstrakčiai mini tris apgavystes, o citata leidžia suformuluoti konkretesnį veiksmą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "411211-411777; hash=babd57076fef073053dafc93769f20eef176564ee56fe7e4230191cd89f73919; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Bartenšteinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Bartenšteino pilies apsiaustis, trijų kuorų sunaikinimas ir apleidimas (1264 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Bartenšteinas: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bartenšteino pilies apsiaustis, trijų kuorų sunaikinimas ir apleidimas (1264 m.)\" parinktas kaip owner_note_path. Targetas \"Bartenšteinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-66695
 
@@ -78,16 +65,6 @@ Nenurodyta
 - t-001
   global_id: t-66479
   teiginys: "Bartenšteino pilyje buvo apsupta 400 brolių ir ginklanešių, o prūsai aplink pilį įrengė tris kuorus su 1300 karių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "408486-409368; hash=86fa78687de00bd64737051bb876a6a248b860bd05a7fb78afceea1a484b38d1; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Bartenšteinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Bartenšteino pilies apsiaustis, trijų kuorų sunaikinimas ir apleidimas (1264 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Bartenšteinas: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bartenšteino pilies apsiaustis, trijų kuorų sunaikinimas ir apleidimas (1264 m.)\" parinktas kaip owner_note_path. Targetas \"Bartenšteinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-66693
 
@@ -95,16 +72,6 @@ Nenurodyta
 - t-002
   global_id: t-66480
   teiginys: "Broliai su 150 vyrų užgrobė prūsų katilą, sugriovė tris kuorus, o iš 1300 jų gynėjų mirties išvengė tik nedaugelis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "410565-411178; hash=752071b68809b0387437830ca0c229f619707e0548a1713d46fae51653463b37; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Katilas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Bartenšteino pilies apsiaustis, trijų kuorų sunaikinimas ir apleidimas (1264 m.): owner_note_path, event"
-  ryšio_targeto_parinkimas: "Katilas: mention_match, thing, gap=35"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bartenšteino pilies apsiaustis, trijų kuorų sunaikinimas ir apleidimas (1264 m.)\" parinktas kaip owner_note_path. Targetas \"Katilas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-66694
 
@@ -112,16 +79,6 @@ Nenurodyta
 - t-004
   global_id: t-66481
   teiginys: "Bartenšteino pilį palikę broliai pasitraukė į Karaliaučių ir Elbingą, o priešai vėliau įsibrovė į pilį ir ją panaudojo puldinėjimams."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "412088-412809; hash=8d2dde98684a3e042e75d5cb01e42b08a1aecfaa1999ff1b4f6ca2cfb0ae7be6; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Bartenšteinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Bartenšteino pilies apsiaustis, trijų kuorų sunaikinimas ir apleidimas (1264 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Bartenšteinas: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bartenšteino pilies apsiaustis, trijų kuorų sunaikinimas ir apleidimas (1264 m.)\" parinktas kaip owner_note_path. Targetas \"Bartenšteinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-66696
 ## Reikšmingi paminėjimai
@@ -146,8 +103,8 @@ Nenurodyta
     Miligedas, toks drąsus, kad prūsams rodėsi, jog,  jį nukovus, pusė pilies įgulos būtų
     buvusi sunaikinta.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -167,8 +124,8 @@ Nenurodyta
     turėjo juos ginti, retas kuris išvengė mirties, o brolių pusėje krito nukautas tik vienas
     maršalas392.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -187,8 +144,8 @@ Nenurodyta
     pilyje nesirodo, pamanė, jog apsuptieji pabėgo, ir drąsiai užpuolė pilį. Broliai, iššokę
     iš slėptuvių, juos atrėmė, daug nukaudami bei mirtinai sužeisdami šūviais ir kirčiais.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -209,8 +166,8 @@ Nenurodyta
     išvydę, kad niekas jiems nesipriešina, įsibrovė į pilį; nužudę brolį, pilį jie panaudojo savo
     reikalams, iš jos dažnai puldinėdami brolius.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -221,7 +178,8 @@ Nenurodyta
 - id: c-66693
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 126-127"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 126-127."
   citata_originali: |
     Apie Bartenšteino pilies puolimą
 
@@ -248,7 +206,8 @@ Nenurodyta
 - id: c-66694
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 127"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 127."
   citata_originali: |
     Apie trijų kuorų sunaikinimą ir daugiau nei tūkstančio prūsų žūtį
 
@@ -269,7 +228,8 @@ Nenurodyta
 - id: c-66695
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 127"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 127."
   citata_originali: |
     Apie Bartenšteino pilies apleidimą
 
@@ -289,7 +249,8 @@ Nenurodyta
 - id: c-66696
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 127-128"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 127-128."
   citata_originali: |
     Šitai išgirdę, broliai ir jų šeimyna, kitą dieną
     pasidaliję į dvi dalis, vieni patraukė į Karaliaučiaus pilį, o kiti į Elbingą paėmę šventųjų

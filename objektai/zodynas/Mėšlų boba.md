@@ -30,14 +30,6 @@ Narbutas Mėšlų bobą aprašo kaip deivę, globojusią iš namų iššluojamas
 - t-001
   global_id: t-189316
   teiginys: "Narbutas Mėšlų bobą aprašo kaip deivę, globojusią iš namų iššluojamas šiukšles ir pagerbiamą darželyje laikoma mėšlo ar šiukšlių krūva."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "255067-255369; hash=1c3230094e0fa0f7229599eadd32578d5d90bf5c67fbdb263c5c5ede5defab2b; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172203
 - susijęs iš [[objektai/paprociai/Mėšlo arba šiukšlių krūvos laikymas darželyje Mėšlų bobos garbei.md#claim-t-189927|Mėšlo arba šiukšlių krūvos laikymas darželyje Mėšlų bobos garbei]]: Narbutas Mėšlų bobą vadina iš namų iššluojamų šiukšlių globėja, kurios garbei šeimininkės darželiuose laikydavo mėšlo arba šiukšlių krūvą.
@@ -56,8 +48,8 @@ Narbutas Mėšlų bobą aprašo kaip deivę, globojusią iš namų iššluojamas
     Atrodo, ją žinojo tik latviai, kadangi kur nors kitur nieko
     panašaus nematome.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -68,7 +60,8 @@ Narbutas Mėšlų bobą aprašo kaip deivę, globojusią iš namų iššluojamas
 - id: c-172203
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 146"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 146."
   citata_originali: |
     Mėšlų boba (Mahslu Baba)
     Deivė, iššluojamų iš namų šiukšlių globėja. Jos garbei šei­

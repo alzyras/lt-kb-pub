@@ -40,12 +40,6 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
 - t-001
   global_id: t-193513
   teiginys: "Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikščio titulą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "265420-266219; hash=5fc9df3b85f874182d8d35a8f3f13bbbe98c02d23481bde423c31f1922a3cff0; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176193
 
@@ -53,12 +47,6 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
 - t-002
   global_id: t-193514
   teiginys: "Atmesti paminėjimai pats neturėjo nė vieno didesnio laivo."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "277689-278682; hash=246e4c03e2b91368badcd4263617f53d9994484f12fe9681330da39f343b3ff4; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176194
 
@@ -66,12 +54,6 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
 - t-003
   global_id: t-193515
   teiginys: "Atmesti paminėjimai niekinamai vadinęs Gediminą Vytenio arklininko sūnumi; Vytenį esą jo paties valdinys Gediminas, kitados savo valdovų arklininkas, nugalėjęs ir nužudęs."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "332050-332869; hash=ad499c4fd1b73960b09fd240e5d315e7dade1272e4f93e8725e9c282fe35b9be; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176195
 
@@ -79,12 +61,6 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
 - t-004
   global_id: t-193516
   teiginys: "Atmesti paminėjimai laikė šias pilis apsuptas ištisas dvidešimt dienų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "372233-372745; hash=20823f2396f58bcf7d73b2a704bf1d191e25217373ed2305ce321c0d327a4e66; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176196
 
@@ -92,12 +68,6 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
 - t-005
   global_id: t-193517
   teiginys: "Atmesti paminėjimai svajojo ir vylėsi užimsiąs Severską, Volynę, Kijevą, Vitebską, Polocką ir visas kitas buvusias Rusios žemes, dabar valdomas lietuvių."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "384044-384904; hash=bbeef045db2f7cf28d32b9197f33bdeaf35596a9ee4affabf0b981d14b036abf; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176197
 
@@ -105,12 +75,6 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
 - t-006
   global_id: t-193518
   teiginys: "Atmesti paminėjimai atėmė iš lietuvių bei žemaičių keletą pilių."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "581018-581436; hash=cc5492b21e610f85d961925fb9ad89752fe4c7e388a397801a1b8bd5e78e3bd4; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176198
 
@@ -118,12 +82,6 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
 - t-007
   global_id: t-193519
   teiginys: "Atmesti paminėjimai puikiausiai galėjo patenkinti karuose su kryžiuočiais, todėl atrodo, jog daug arčiau tiesos tie, kurie sako, kad jis pradėjo karą su skitais, rūpindamasis apginti Rusią."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "610440-610962; hash=5cc5939ee0bf755ce491ad121e8e8cd34d4ada411d076b628273d7958754aced; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176199
 
@@ -131,12 +89,6 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
 - t-008
   global_id: t-193520
   teiginys: "Atmesti paminėjimai ryžosi visas jėgas mesti į Severską, norėdamas galop pradėti žygį prieš Maskvą, apie kurį jau seniai galvojo."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "637517-637937; hash=53b3b7fb1cc0223d1adf3625ccf2b9cef0863648abb6c4cd0b8ad2fef633ec58; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176200
 
@@ -144,12 +96,6 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
 - t-009
   global_id: t-193521
   teiginys: "Atmesti paminėjimai vėliau niekada jau nebegalėjo pasiekti ankstesnio didingumo."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "687114-687840; hash=b5c5a57591915cce67cd1ea5852ea61df88942ebda647ca56f5cefd8e2df1a0f; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176201
 
@@ -157,12 +103,6 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
 - t-010
   global_id: t-193522
   teiginys: "Atmesti paminėjimai gali pakelti, be to, turėdamas mažametį ir negalintį valdyti sūnų, ne taip jau labai būgštavo, kad Vytautas tapsiąs jo įpėdiniu, guosdamasis viltimi, jog šis nebesusilauksiąs įpėdinių."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "737011-737752; hash=b10d70edb3742a32acd061bb10006ed5e8c97dc393ec44563cf0944a9abdbd62; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176202
 
@@ -170,12 +110,6 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
 - t-011
   global_id: t-193523
   teiginys: "Atmesti paminėjimai taip pat nuoširdžiai trokštąs taikos, ir išsiuntė raštą, kurio Žygimantas buvo prašęs."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1050512-1051111; hash=623d95f56297a8da7ccf72136c2f04ab28006b55084d4898280a31eef45986c8; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176203
 
@@ -183,12 +117,6 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
 - t-012
   global_id: t-193524
   teiginys: "Atmesti paminėjimai priprašė Vladislovą parašyti Žygimantui laišką ir priminti, kad nuolatinis bylos sprendimo atidėliojimas galįs pakenkti Glinskio vardui ir padėčiai."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1056102-1056582; hash=fa1f623800c9fa914900c5f271ebebbf54176a126c44d385efe8a441735ea267; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176204
 
@@ -196,12 +124,6 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
 - t-013
   global_id: t-193525
   teiginys: "Atmesti paminėjimai sutiko pakeisti savo nuomonę."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1135472-1136328; hash=755172495608e51b603a269a4f636d452c2ac2589bfe572cc312ad3464ded7b4; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176205
 
@@ -209,12 +131,6 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
 - t-014
   global_id: t-193526
   teiginys: "Atmesti paminėjimai esą lengviau galėsiąs tramdyti saviškius, jei šie susimanys be saiko ginčytis."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1154034-1154672; hash=20e5fcfcc7e468e8b163dcf64f1ff33b1e6fcf9269fdd71f7f04499a6a4eed04; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176206
 
@@ -222,12 +138,6 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
 - t-015
   global_id: t-193527
   teiginys: "Atmesti paminėjimai p irm ą k a rtą ir ryžęsis p e r savo d idikus v isk ą p aaišk in ti."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1299343-1299925; hash=c449409dba16eb6bc4c907fbdfed09866b68c826a24ae03d1222680b3c41f675; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176207
 
@@ -235,12 +145,6 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
 - t-016
   global_id: t-193528
   teiginys: "Atmesti paminėjimai skirstė į lietuvius ir rusus, atsižvelgdamas ne į kilmę ir kalbą, o į religiją ir pilietybę."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1374367-1374717; hash=05e0dece8c700db007db8108502b46462a081c95954a134f6f5c2b8a211a7cb9; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176208
 ## Reikšmingi paminėjimai
@@ -266,8 +170,8 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
     svetur gyvendamas, įsigyti didžiojo kunigaikščio ti­
     tulą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -305,8 +209,8 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
     jis pats neturėjo nė vieno di­
     desnio laivo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -333,8 +237,8 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
     esą jo paties valdinys Gediminas, kitados savo valdo­
     vų arklininkas, nugalėjęs ir nužudęs.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -356,8 +260,8 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
     smarkiai ir su baisiu trenksmu išmeta sviedinį į prie­
     šą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -392,8 +296,8 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
     verską, Volynę, Kijevą, Vitebską, Polocką ir visas ki­
     tas buvusias Rusios žemes, dabar valdomas lietuvių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -416,8 +320,8 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
     iškelia
     jo žygių šlovę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -438,8 +342,8 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
     tie, kurie sako, kad jis pradėjo karą su skitais, rūpin­
     damasis apginti Rusią.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -460,8 +364,8 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
     1406 m e ta i
     pusę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -489,8 +393,8 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
     taip nuniokojo, kad jis vėliau niekada jau nebegalėjo
     pasiekti ankstesnio didingumo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -515,8 +419,8 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
     jis nepadarysiąs jokios žalos valstybei ir patenkinsiąs
     didžiai iškilnius savo siekius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -541,8 +445,8 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
     džiojo kunigaikščio įpėdiniui
     rinkti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -562,8 +466,8 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
     damas karalių viešai bylą išnagrinėti ir kuo greičiausiai
     paskelbti karališkąjį sprendimą vieno ar kito naudai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -602,8 +506,8 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
     nenorinčios daugiau lieti krikščionių kraujo, ir nusi­
     leisdamas imperatoriui, kuris to maldaute maldavęs.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -631,8 +535,8 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
     buvo sutarę karalius Aleksandras ir jo tėvas Ivanas
     Vasiljevičius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -656,8 +560,8 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
     k araliu s, nei jo  leg ata i a te ity je  n ea tsa k y tų  didžiajam
     k u n ig aik ščiu i šios garbės.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -678,8 +582,8 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
     kalba. Ta pačia kalba parašyti ir Lietuvos
     statutai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -690,7 +594,8 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
 - id: c-176193
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 155"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 155."
   citata_originali: |
     Tame mūšyje žuvo keli tūkstančiai lie­
     tuvių, nemaža jų krito bėgant, visą grobį lenkai atsi­
@@ -718,7 +623,8 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
 - id: c-176194
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 162"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 162."
   citata_originali: |
     Vėliau,
     sužinoję, jog apsiriko, sugrįžo prie pilies, bet Surmi-
@@ -757,7 +663,8 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
 - id: c-176195
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 192"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 192."
   citata_originali: |
     Mat kaip upelis prie ištakų
     plukdo iš pradžių tyrą vandenį, kuris tik vėliau pa­
@@ -785,7 +692,8 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
 - id: c-176196
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 214"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 214."
   citata_originali: |
     Tuo tarpu Gedimi­
     nas, norėdamas padėti apsuptai Veliuonai, su didelėmis
@@ -844,7 +752,8 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
 - id: c-176198
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 334"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 334."
   citata_originali: |
     Nusiaubęs dideliuose
     plotuose kaimus šiapus ir anapus Nemuno, jis atėmė iš
@@ -868,7 +777,8 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
 - id: c-176199
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 350"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 350."
   citata_originali: |
     Tochtamyšas su žymiausiais didikais, kuriuos vadina
     emyrais, arba ulanais, pabėgo pas Vytautą ir be didelio
@@ -890,7 +800,8 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
 - id: c-176200
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 365"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 365."
   citata_originali: |
     Taigi liovęsis rūpintis karu su Prū­
     sija, jis ryžosi visas jėgas mesti į Severską, norėdamas
@@ -912,7 +823,8 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
 - id: c-176201
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 392"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 392."
   citata_originali: |
     S k ita i n io k o ja  R usią
     Tuo metu sugrįžo iš baž­
@@ -941,7 +853,8 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
 - id: c-176202
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 420"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 420."
   citata_originali: |
     Beje, ir Jogaila, smarkiai pasenęs ir su­
     vokęs, jog valdymo našta dabar kur kas sunkesnė, nei
@@ -967,7 +880,8 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
 - id: c-176203
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 592"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 592."
   citata_originali: |
     Eiti valstybines pareigas pra­
     dėjo nuo to, kad pabandė susitaikyti su Maskva pa­
@@ -993,7 +907,8 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
 - id: c-176204
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 595"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 595."
   citata_originali: |
     Tvarkydamas savo pairusius reikalus,
     pirmiausia kreipėsi pagalbos Vengrijoje į karalių Vla­
@@ -1083,7 +998,8 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
 - id: c-176207
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 723"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 723."
   citata_originali: |
     D ab ar jis p irm ą k a rtą  ir
     ryžęsis p e r savo d idikus v isk ą p aaišk in ti. M ask v o s d id i­
@@ -1108,7 +1024,8 @@ Atmesti paminėjimai susimanė, svetur gyvendamas, įsigyti didžiojo kunigaikš
 - id: c-176208
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 758"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 758."
   citata_originali: |
     Lietuvos
     Didžiosios Kunigaikštystės gyventojus jis skirstė į lietuvius ir rusus,

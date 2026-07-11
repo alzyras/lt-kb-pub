@@ -44,20 +44,6 @@ Dusburgietis teigia, kad apie apaštališkojo sosto pasiuntinį Tuo metu popiež
 - t-001
   global_id: t-60333
   teiginys: "1243 m. popiežius Inocentas IV pasiuntė Vilhelmą į Prūsiją padalyti žemės į keturias vyskupystes ir sutvarkyti taisytinus dalykus."
-  semantiniai_rysiai: "Inocentas IV siuntė į Prūsija (0.93)"
-  temporaliniai_duomenys: "įvykio data: 1243 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys buvo su OCR triukšmu; citata aiškiai pagrindžia konkrečią Inocento IV veiklą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "279240-280020; hash=c3cd5a98f9792fdbc4f3888ba0c64fe432bd152bdd7be34a11126b9208850b21; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "siunte_i -> Prūsija: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Inocentas IV: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Inocentas IV pasiuntė Vilhelmą į Prūsiją."
   pagrindžia:
     - c-60965
 - susijęs iš [[objektai/ivykiai/Kristijono įšventinimas Lietuvos vyskupu ir Lietuvos vyskupijos išskyrimas (1254 m.).md#claim-t-28779|Kristijono įšventinimas Lietuvos vyskupu ir Lietuvos vyskupijos išskyrimas (1254 m.)]]: Specialiu raštu panaikindamas Rygos arkivyskupo jurisdikciją Lietuvai, Inocentas IV Mindaugui pranešė apie Lietuvos vyskupijos išskyrimą iš kaimyninės metropolito jurisdikcijos.
@@ -85,8 +71,8 @@ Dusburgietis teigia, kad apie apaštališkojo sosto pasiuntinį Tuo metu popiež
     Aleksandru IV268, liepdamas šias žemes padalyti į keturias vyskupystes, pataisyti viską,
     kas ten taisytina, ir įstatyti  į tinkamas vėžes269.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -97,7 +83,8 @@ Dusburgietis teigia, kad apie apaštališkojo sosto pasiuntinį Tuo metu popiež
 - id: c-60965
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 84-85"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 84-85."
   citata_originali: |
     Apie apaštališkojo sosto pasiuntinį
 

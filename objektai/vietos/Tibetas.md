@@ -35,9 +35,6 @@ Sven Hedin'o KELIONE PO TIBETĄ, versta J. Čia nepaprastai įdomiai aprašoma d
 - t-001
   global_id: t-36597
   teiginys: "Sveno Hedino kelionė į Tibetą buvo aprašyta kaip kelionė į Azijos širdį ir kovos su vietos tautomis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "731540-731833; hash=36178a99d3b70b63f191c22fb89da214ead176a1fddb2aa75cde0ec489b9d958; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-38653
 
@@ -45,22 +42,6 @@ Sven Hedin'o KELIONE PO TIBETĄ, versta J. Čia nepaprastai įdomiai aprašoma d
 - t-002
   global_id: t-192765
   teiginys: "Teodoro Narbuto dėstyme pelazgai laikomi žmonių karta, atklydusia nuo Tibeto prie Viduržemio jūros pakrančių."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Pelazgai keliavo į Tibetas (0.72)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "68290-68619; hash=1c28bad0e52c28e3ba5368e50fce5c4a552e2c60ba03603991547651814a1109; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Tibetas: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Pelazgai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Tibetas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas nurodo pelazgų kilimą ar atėjimą nuo Tibeto; ryšys su kelione yra netikslus, bet artimiausias leistinas."
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175535
 - susijęs iš [[objektai/asmenys/Bodhidana.md#claim-t-190135|Bodhidana]]: Narbutas Bodhidaną pristato kaip Šakjamunio dvidešimt aštuntąjį įpėdinį, persikėlusį į Tibetą ir mirusį prie Sungo kalno 495 m.
@@ -82,8 +63,8 @@ Sven Hedin'o KELIONE PO TIBETĄ, versta J. Čia nepaprastai įdomiai aprašoma d
     tą — Lhasą.
     6.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -102,8 +83,8 @@ Sven Hedin'o KELIONE PO TIBETĄ, versta J. Čia nepaprastai įdomiai aprašoma d
     prie Viduržemio jūros pakrančių (§ 15). Tikra ir tai, kad
     jonėnai ir trojėnai kilę iš pelazgų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -135,7 +116,8 @@ Sven Hedin'o KELIONE PO TIBETĄ, versta J. Čia nepaprastai įdomiai aprašoma d
 - id: c-175535
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 40"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 40."
   citata_originali: |
     Nibūras, kurio darbus paėmėme, taip sa­
     ko apie juos: „Tai ne prielaida, kalbu kuo tvirčiausiai isto­
@@ -151,7 +133,3 @@ Sven Hedin'o KELIONE PO TIBETĄ, versta J. Čia nepaprastai įdomiai aprašoma d
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192765
-
-## Ryšiai
-- Buvo kelionės vieta: [[objektai/grupes/Pelazgai]]
-- Mirties vieta: [[objektai/asmenys/Bodhidana]]

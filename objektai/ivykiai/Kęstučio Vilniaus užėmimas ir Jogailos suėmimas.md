@@ -48,18 +48,6 @@ Nenurodyta
 - t-002
   global_id: t-186668
   teiginys: "Lietuvos metraštis pasakoja, kad po to Kęstutis nužygiavo į Vilnių, užėmė miestą ir paėmė Jogailą, jo brolius bei motiną į nelaisvę."
-  teiginio_tipas: "saltinio_teiginys"
-  semantiniai_rysiai: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.) užėmė Vilnius (0.96); Kęstutis (vakarų pasienio valdovas, XIV–XV a.) keliavo į Vilnius (0.93)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "303399-304326; hash=d74d9c2fff4362fb18aca3fe751ca8cf7b04dd0c8458d2b120ef381b8a8134ca; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
-  ryšio_patikimumas: "uzeme -> Vilnius: 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Kęstučio Vilniaus užėmimas įvardytas tiesiogiai."
   pagrindžia:
     - c-169920
 
@@ -67,19 +55,6 @@ Nenurodyta
 - t-004
   global_id: t-186669
   teiginys: "Lietuvos metraštis pasakoja, kad Jogaila prisiekė ištikimybę Kęstučiui ir pažadėjo Vilniaus nebereikalauti."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "304032-304888; hash=e20dff8e8058432b78ac223498c8257f3c17bc85be4da50e206322c3ecb2255b; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
-  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kęstučio Vilniaus užėmimas ir Jogailos suėmimas: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kęstučio Vilniaus užėmimas ir Jogailos suėmimas\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-169921
 
@@ -87,20 +62,6 @@ Nenurodyta
 - t-001
   global_id: t-186671
   teiginys: "Lietuvos metraštis pasakoja, kad Kęstutis sužinojo apie slaptą Jogailos taiką su Prūsų ir Livonijos kraštais ir laikė tai išdavyste."
-  teiginio_tipas: "saltinio_teiginys"
-  semantiniai_rysiai: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.) užėmė Vilnius (0.95)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "303399-304326; hash=d74d9c2fff4362fb18aca3fe751ca8cf7b04dd0c8458d2b120ef381b8a8134ca; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
-  ryšio_patikimumas: "uzeme -> Vilnius: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Kęstučio Vilniaus užėmimą."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-169920
 
@@ -108,17 +69,6 @@ Nenurodyta
 - t-003
   global_id: t-186672
   teiginys: "Lietuvos metraštis pasakoja, kad Kęstutis paėmė į savo rankas Jogailos žemes, pilis, auksą, iždą ir žirgyną."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "303399-304326; hash=d74d9c2fff4362fb18aca3fe751ca8cf7b04dd0c8458d2b120ef381b8a8134ca; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
-  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kęstučio Vilniaus užėmimas ir Jogailos suėmimas: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kęstučio Vilniaus užėmimas ir Jogailos suėmimas\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-169920
 
@@ -126,17 +76,6 @@ Nenurodyta
 - t-005
   global_id: t-186673
   teiginys: "Lietuvos metraštis pasakoja, kad Jogaila nesilaikė pažado Kęstučiui ir vėl užėmė Vilnių, kai Kęstutis buvo karo žygyje."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "304032-304888; hash=e20dff8e8058432b78ac223498c8257f3c17bc85be4da50e206322c3ecb2255b; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
-  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kęstučio Vilniaus užėmimas ir Jogailos suėmimas: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kęstučio Vilniaus užėmimas ir Jogailos suėmimas\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-169921
 ## Reikšmingi paminėjimai
@@ -163,8 +102,8 @@ Nenurodyta
     bei pilis jis paėmė taip pat į savo rankas; ir jo auksą,
     ir iždą, ir žirgyną, viską tą jis paėmė.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -193,8 +132,8 @@ Nenurodyta
     nių prieš mūsų tėvą: tuo metu mūsų tėvas buvo karo
     žygyje.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -206,7 +145,8 @@ Nenurodyta
 - id: c-169920
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 173"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 173."
   citata_originali: |
     Mūsų tėvas šito padaryti, atimti iš jo
     Vilnių, visiškai nenorėjo dėl savo brolio, kaip vyriau­
@@ -239,7 +179,8 @@ Nenurodyta
 - id: c-169921
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 173"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 173."
   citata_originali: |
     Mūsų tėvas šitą tikrai patyrė
     ir, pamatęs ant savo galvos nelaimę, nužygiavo į Vil­

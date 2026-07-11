@@ -30,21 +30,6 @@ Teodoras Narbutas Amianui Marcelinui priskiria pasakojimą apie Julijono žygūn
 - t-001
   global_id: t-191527
   teiginys: "Teodoras Narbutas Amianui Marcelinui priskiria pasakojimą apie Julijono žygūnų kelią per Dneprą ir alanų kraštą pas Saporą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "182437-182925; hash=c12231e9f8d923d81f241215b201df4092b3e4884bf295bbf31af9d40c60b936; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "siunte_i -> Dnepras: 0.76"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Julijonas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Dnepras: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Julijonas siuntė žygūnus maršrutu per Dneprą; objektas yra tiesiogiai minėta kelio vieta."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174409
 
@@ -52,22 +37,6 @@ Teodoras Narbutas Amianui Marcelinui priskiria pasakojimą apie Julijono žygūn
 - t-002
   global_id: t-191528
   teiginys: "Teodoras Narbutas rašo, kad Amianas Marcelinas XXXI knygoje mini agatirus, kuriuos Narbutas tapatino su agazirais."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Budinai gyveno Dnepras (0.72); Gelonai gyveno Dnepras (0.72)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "516626-517120; hash=f75606e39e35483dd37f2fd26bf0a36f689a15ed85082417511105de63d7488a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Dnepras: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Budinai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Dnepras: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata aprašo agatirų gyvenamą vietą budinų kaimynystėje prie Dnepro; budinai minimi kaip kaimynai, bet tikslus jų gyvenimo objektas išvestinis, todėl vidutinis pasitikėjimas."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174410
 ## Reikšmingi paminėjimai
@@ -87,8 +56,8 @@ Teodoras Narbutas Amianui Marcelinui priskiria pasakojimą apie Julijono žygūn
     po to keliavo toliau per alanų kraštą. Tai pasakoja Amia-
     nas Marcelinas1.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -109,8 +78,8 @@ Teodoras Narbutas Amianui Marcelinui priskiria pasakojimą apie Julijono žygūn
     nai ir antropofagai. Vėliau juos pavergė alanai išvien su
     gelonais ir budinais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -121,7 +90,8 @@ Teodoras Narbutas Amianui Marcelinui priskiria pasakojimą apie Julijono žygūn
 - id: c-174409
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 102"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 102."
   citata_originali: |
     Šie buvo Padneprės
     emporiumų graikų kolonistai, susigiminiavę su skitais ir
@@ -143,7 +113,8 @@ Teodoras Narbutas Amianui Marcelinui priskiria pasakojimą apie Julijono žygūn
 - id: c-174410
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 288"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 288."
   citata_originali: |
     Toliau nagrinėda­
     mi pamatome, kad agazirai buvo ta pati gentis kaip ir

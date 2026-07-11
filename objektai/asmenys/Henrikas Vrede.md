@@ -32,17 +32,6 @@ media_all_json: |-
 - t-001
   global_id: t-40135
   teiginys: "Švedų reitaras Henrikas Vrede atidavė karaliui savo žirgą ir žuvo, o Karolis IX dėl to išsigelbėjo."
-  semantiniai_rysiai: "Henrikas Vrede gynė Karolis IX (0.75)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "441000-441239; hash=fef47ae4215e55e70602f3abf72e35d617c91096eb9a5508efe183cdc66a0586; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyne -> Karolis IX: 0.75"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Henrikas Vrede: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Karolis IX: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Henrikas Vrede atidavė žirgą karaliui, todėl Karolis IX išsigelbėjo; tai palaiko gynimo ar gelbėjimo santykį."
   pagrindžia:
     - c-44343
 - susijęs iš [[objektai/asmenys/Karolis IX.md#claim-t-79079|Karolis IX]]: Karolis IX vos nepakliuvo į nelaisvę, bet išsigelbėjo, kai švedų reitaras Henrikas Vrede atidavė jam savo žirgą.
@@ -59,8 +48,8 @@ media_all_json: |-
     Ix išsigelbėjo. Lietuvos kavalerija iki su-
     temų persekiojo bėgančius priešo karius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -86,6 +75,3 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40135
-
-## Ryšiai
-- Henrikas Vrede gynė [[objektai/asmenys/Karolis IX]]

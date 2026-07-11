@@ -42,19 +42,6 @@ Raimundas Lopata įvardytas leidinio redakcinės kolegijos pirmininku ir minimas
 - t-002
   global_id: t-23254
   teiginys: "Raimundas Lopata buvo tarp mokslininkų, tyrusių istorijos politikos problemas."
-  temporaliniai_duomenys: "įvykio data: 1009 m.; įvykio data: 2004 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pagrindžia konkretesnį, gramatišką teiginį apie asmens veiklos sritį."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "8770-10057; hash=7acbfb5e6a8560fd349c1ba583c7a6005150f66cca963a742922dada33e5ee91; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Europa: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Raimundas Lopata: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Europa: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Raimundas Lopata\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-65427
 
@@ -62,16 +49,6 @@ Raimundas Lopata įvardytas leidinio redakcinės kolegijos pirmininku ir minimas
 - t-003
   global_id: t-23255
   teiginys: "Bibliografijoje Lopata R. siejamas su veikalu „Lietuvos valstybingumo raida 1914–1918 metais“."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "549490-549589; hash=2c83417e5925eb049dfdcf5b54bb1a1d3d5deba22803a40c50005d25e5c1f385; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Raimundas Lopata: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=31"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Raimundas Lopata\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-16800
 - susijęs iš [[objektai/autoriai/Alfonsas Eidintas.md#claim-t-169878|Alfonsas Eidintas]]: Alfonsui Eidintui nurodytos 2013 m. leidimo autorių teisės.
@@ -92,8 +69,8 @@ Raimundas Lopata įvardytas leidinio redakcinės kolegijos pirmininku ir minimas
     terdam–New York, 2010.
     Lopata R. Lietuvos valstybingumo raida 1914–1918 metais. Vilnius, 1996.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -123,8 +100,8 @@ Raimundas Lopata įvardytas leidinio redakcinės kolegijos pirmininku ir minimas
     paminėjimo vienoje iš Europos kronikų 1009 m. iki Lietuvos virsmo vi-
     sateise Europos Sąjungos nare 2004 m.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

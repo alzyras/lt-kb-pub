@@ -65,17 +65,6 @@ Nenurodyta
 - t-001
   global_id: t-34572
   teiginys: "Horodlės unijos 18 paragrafu 47 lietuvių bajorams buvo suteikti 47 lenkų bajorų herbai."
-  semantiniai_rysiai: "Herbai priklausė Lenkai (0.88); Herbai priklausė Bajorai (0.78)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "465839-466211; hash=b65bcc691d8dbffda915c94a9eacccf20de04657636e50f4a9ddae839cbcea51; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Lenkai: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Herbai: llm_allowed_candidate, thing"
-  ryšio_targeto_parinkimas: "Lenkai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Herbai apibūdinami kaip lenkų bajorų herbai."
   pagrindžia:
     - c-35797
 
@@ -83,21 +72,6 @@ Nenurodyta
 - t-003
   global_id: t-192498
   teiginys: "Narbutas rašo, kad Algirdo privilegija patvirtino Ostapo Kropotkovo riterišką kilmę ir herbą, duotą su Podbužo dvaru Voluinėje."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "948629-949230; hash=fadd39f48d62064cb8261e08b2b9eb6ecfa2caf93bf2e701cf915393659d720a; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Voluinė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Herbas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Voluinė: mention_match, place, gap=30"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Herbas\" parinktas kaip owner_note_path. Targetas \"Voluinė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175288
 
@@ -105,12 +79,6 @@ Nenurodyta
 - t-004
   global_id: t-194870
   teiginys: "180 /Ten pat, 3 pastraipos 1 sakinio minties tęsinys ir nauja išnaša/ Kartais didieji kunigaikščiai herbus suteikdavo slavų giminėms; tokį herbą 1302 metais Gediminas davė Krunevičiui."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "947888-948384; hash=2140822e61c077ac3a191908684cf2ac5b6bc8efd4b32e68d2337876dd99faa1; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177266
 
@@ -118,12 +86,6 @@ Nenurodyta
 - t-005
   global_id: t-194945
   teiginys: "Kiekvienas bajoras, kuris turėjo herbą, su to pačio herbo bajoru skaitėsi gi minėmis; buvo suteikta teisė ir abipusėms vedyboms."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "466082-466469; hash=92b83efa12a005695b7cfa3dedbc294d2e777898f884cddebeee09e024f9e383; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177341
 - susijęs iš [[objektai/asmenys/Alcis.md#claim-t-190049|Alcis]]: Narbutas su Alciu lygina Vilniaus herbui priskiriamą šarvuotą riterį, kuris remiasi į nulaužtą medžio kamieną ir laiko pasagą primenantį daiktą.
@@ -265,8 +227,8 @@ Nenurodyta
     bajoras, kuris turėjo herbą, su to pačio herbo bajoru skaitėsi gi­
     minėmis; buvo suteikta teisė ir abipusėms vedyboms.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -287,8 +249,8 @@ Nenurodyta
     Podbužo dvaru Voluinėje už nuopelnus kare su totoriais. Datuotas
     Vilniuje 1354 metų rugpjūčio 7 dieną.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -307,8 +269,8 @@ Nenurodyta
     kijoje. Bet, nepaisant to, visuomet, bent jau nuo Gedimino laikų,
     Lietuvoje šeimos herbai egzistavo70.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -326,8 +288,8 @@ Nenurodyta
     ko Lietuva ir neteko savo tautiškos aristokratijos. Šis unijos
     punktas ir bus buvęs vienas iš žalingiausių mūsų kraštui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -357,7 +319,8 @@ Nenurodyta
 - id: c-175288
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 510"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 510."
   citata_originali: |
     Rankoje turiu nuorašą Švitrigailos
     privilegijos, datuotos Lucke 1451 metų vasario 18 dieną, kuria jis
@@ -379,7 +342,8 @@ Nenurodyta
 - id: c-177266
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 509"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 509."
   citata_originali: |
     180 /Ten pat, 3 pastraipos 1 sakinio minties tęsinys ir nauja išnaša/
     Kartais didieji kunigaikščiai herbus suteikdavo slavų giminėms;
@@ -417,4 +381,4 @@ Nenurodyta
     - t-194945
 
 ## Ryšiai
-- Herbas priklausė [[objektai/asmenys/Ostapas Kropotkovas]], [[objektai/grupes/Prūsai]], [[objektai/vietos/Vilnius]]
+- Herbas priklausė [[objektai/asmenys/Ostapas Kropotkovas]], [[objektai/vietos/Vilnius]]

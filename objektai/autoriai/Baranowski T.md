@@ -34,16 +34,6 @@ Dusburgietis teigia, kad prie Didžiojo Selmento ežero (Selmęt Wielki) išliko
 - t-001
   global_id: t-60673
   teiginys: "T. Baranowskio darbu remiamasi teigiant, kad prie Didžiojo Selmento ežero išliko apie 60 m skersmens jotvingių piliakalnis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "511660-511933; hash=e10f06ab43581f341ac1410282b365a71df5ffa384af08ccfce10ea6e3eb4b8c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kimenava: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Baranowski T: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Kimenava: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Baranowski T\" parinktas kaip owner_note_path. Targetas \"Kimenava\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-61305
 ## Reikšmingi paminėjimai
@@ -57,8 +47,8 @@ Dusburgietis teigia, kad prie Didžiojo Selmento ežero (Selmęt Wielki) išliko
     Zajączkowski W., Archeologia..., p. 110). Prie ežero yra iš viso keturi piliakalniai (MGP,
     p. 55).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -69,7 +59,8 @@ Dusburgietis teigia, kad prie Didžiojo Selmento ežero (Selmęt Wielki) išliko
 - id: c-61305
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 161"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 161."
   citata_originali: |
     D. III, 217 irgi rašo apie Kimenavos pilį. Prie Didžiojo Selmento ežero (Selmęt Wielki)
     išliko jotvingių piliakalnis  (apskritos formos, skersmuo — apie 60 m.— Baranowski T.,

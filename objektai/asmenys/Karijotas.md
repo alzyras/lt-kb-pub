@@ -36,17 +36,6 @@ Lietuvos kariuomenė buvo sudaryta iš Lietuvos valdovo Algirdo ir jo brolio Kar
 - t-002
   global_id: t-179639
   teiginys: "Karijoto Gediminaičio sūnūs Borisas ir Konstantinas Podolėje prisidėjo prie Lietuvos ir Lenkijos suartėjimo."
-  semantiniai_rysiai: "Borisas (Tverės kunigaikštis) gyveno Podolė (0.82); Borisas (Tverės kunigaikštis) keliavo į Krokuva (0.76)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "780242-780594; hash=0cc3c8d8e50ee25a591003c3e30160f470de8851bb3b72a43199aded688ebc15; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Podolė: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Borisas (Tverės kunigaikštis): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Podolė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Borisas minimas tarp Karijoto sūnų, kurie buvo įsikūrę Podolėje."
   pagrindžia:
     - c-30227
 
@@ -54,20 +43,6 @@ Lietuvos kariuomenė buvo sudaryta iš Lietuvos valdovo Algirdo ir jo brolio Kar
 - t-003
   global_id: t-183748
   teiginys: "Karijotas buvo Lietuvos valdovo Algirdo brolis ir valdė Lietuvos Naugarduką."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Karijotas buvo brolis Algirdas (Lietuvos valdovas) (0.96); Karijotas valdė miestą Naugardukas (0.93)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "180244-180781; hash=61bd6a7e379de3d69ca0c08ec39a66db17a365d1e9cfcefd29861424478e5ae0; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_brolis -> Algirdas (Lietuvos valdovas): 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Karijotas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo, kad Karijotas buvo Algirdo brolis."
   pagrindžia:
     - c-167136
 - susijęs iš [[objektai/asmenys/Teodoras (Karijoto sūnus).md#claim-t-35291|Teodoras (Karijoto sūnus)]]: Karijoto sūnus Teodoras buvo nepaklusnus Podolijos kunigaikštis, kurį Vytautas suvaldė Jogailos pritarimu.
@@ -112,8 +87,8 @@ Lietuvos kariuomenė buvo sudaryta iš Lietuvos valdovo Algirdo ir jo brolio Kar
     kuriam rūpėjo Padolę apsaugoti nuo totorių, buvo Lietuvos ir
     Lenkijos sąjungos šalininkas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -147,8 +122,8 @@ Lietuvos kariuomenė buvo sudaryta iš Lietuvos valdovo Algirdo ir jo brolio Kar
 
     lės jų baskakams.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

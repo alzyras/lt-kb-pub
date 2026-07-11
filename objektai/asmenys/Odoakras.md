@@ -32,23 +32,6 @@ Odoakras užėmė Romą, nuvertė Vakarų Romos imperatorių ir pirmasis iš sve
 - t-001
   global_id: t-186153
   teiginys: "Odoakras užėmė Romą, nuvertė Vakarų Romos imperatorių ir pirmasis iš svetimšalių viešpatavo Romoje."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Odoakras buvo valdovas Herulai (0.98)"
-  temporaliniai_duomenys: "įvykio data: 475 m"
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "86032-86812; hash=b0ced727e323e26a4f33e85cd0fbf003903319e91cf727159b038833bde33aa0; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_valdovas -> Herulai: 0.98"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Odoakras: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Herulai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Odoakras tiesiogiai įvardytas herulų valdovu."
   pagrindžia:
     - c-169514
 
@@ -56,21 +39,6 @@ Odoakras užėmė Romą, nuvertė Vakarų Romos imperatorių ir pirmasis iš sve
 - t-002
   global_id: t-188599
   teiginys: "Narbutas rašo, kad po Odoakro žūties herulai įsikūrė Vokietijoje, kur buvusi upė Ross arba Russ vėliau vadinta Wessel."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "388002-388593; hash=c6281aaaa3b036aac85cd2c78045544b9ad3b8b0e4d49fb30cefd826dd9b1e62; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Herulai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Odoakras: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Herulai: mention_match, group, gap=15"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Odoakras\" parinktas kaip owner_note_path. Targetas \"Herulai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171488
 
@@ -78,21 +46,6 @@ Odoakras užėmė Romą, nuvertė Vakarų Romos imperatorių ir pirmasis iš sve
 - t-003
   global_id: t-190939
   teiginys: "Teodoro Narbuto perteikimu, Prokopijus minėjo estus kalbėdamas apie Odoakro vadovaujamus herulus, kilusius iš estų tautos."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "163037-163532; hash=37ec0f051e6d40588ba872a2fed97be0f644aa4bad8dfa181f11d7a23912212e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Estai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Odoakras: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Estai: mention_match, group, gap=22"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Odoakras\" parinktas kaip owner_note_path. Targetas \"Estai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173821
 
@@ -100,21 +53,6 @@ Odoakras užėmė Romą, nuvertė Vakarų Romos imperatorių ir pirmasis iš sve
 - t-004
   global_id: t-190940
   teiginys: "Teodoro Narbuto teigimu, Odoakras buvo krikščionis, o jo herulams buvo skelbiamas Kristaus mokslas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "367773-368228; hash=53c5a497af493c8cb6895f0018652556028ed5792e3dc22b4355c3ced7e88239; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Herulai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Odoakras: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Herulai: mention_match, group, gap=32"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Odoakras\" parinktas kaip owner_note_path. Targetas \"Herulai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173822
 
@@ -122,21 +60,6 @@ Odoakras užėmė Romą, nuvertė Vakarų Romos imperatorių ir pirmasis iš sve
 - t-005
   global_id: t-190941
   teiginys: "Teodoro Narbuto pasakojime Eduko sūnus Odoakras sakė, kad turėdamas Oresto valdžią neleistų sąjungininkų kariuomenei gailėtis žygio į Italiją."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "561767-562093; hash=1e51c34af33e49480e4217cca50da5fac5a4acef16a9ba803a097dd6c75de8b5; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Italija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Odoakras: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Italija: mention_match, place, gap=95"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Odoakras\" parinktas kaip owner_note_path. Targetas \"Italija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173823
 
@@ -144,25 +67,6 @@ Odoakras užėmė Romą, nuvertė Vakarų Romos imperatorių ir pirmasis iš sve
 - t-006
   global_id: t-190942
   teiginys: "Teodoro Narbuto pasakojime 476 m. pradžioje alanai, turcilingai, gepidai, skiriai ir herulai paskelbė Odoakrą savo vadu ir karaliumi."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Herulai paskyrė Odoakras (0.86); Skiriai paskyrė Odoakras (0.82)"
-  temporaliniai_duomenys: "įvykio data: 476 m"
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Herulai paskyrė Odoakras“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Skiriai paskyrė Odoakras“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie Odoakro paskelbimą vadu ir karaliumi 476 m. pradžioje. Atribucija palikta dėl valdovo titulo ir kronikinio pasakojimo pobūdžio."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "562246-562961; hash=6ca986cdc15e62862082e60493fbeb57cc84987169d223a947f83a0c1cb9402e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "paskyre -> Odoakras: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Herulai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Odoakras: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai sako, kad herulai paskelbė Odoakrą savo vadu ir karaliumi."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173824
 
@@ -170,22 +74,6 @@ Odoakras užėmė Romą, nuvertė Vakarų Romos imperatorių ir pirmasis iš sve
 - t-007
   global_id: t-190943
   teiginys: "Teodoro Narbuto pasakojime Rytų rūmai patvirtino Odoakrą Italijos vietininku ir pavedė jam valdžią Dalmatijoje."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Odoakras buvo sąjungininkas su Vandalai (0.74); Odoakras sudarė sutartį su Evarikas (0.62)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "565120-565805; hash=4187ef8a6fbb65e4a28fa32db13cb4d9f0b58cf47c04e8796a14303ef9a54065; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sajungininkas_su -> Vandalai: 0.74"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Odoakras: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vandalai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Draugiški santykiai su vandalų karaliumi tiesiogiai rodo politinį sąjunginį ryšį su vandalais."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173825
 
@@ -193,21 +81,6 @@ Odoakras užėmė Romą, nuvertė Vakarų Romos imperatorių ir pirmasis iš sve
 - t-008
   global_id: t-190944
   teiginys: "Teodoro Narbuto pasakojime Odoakras sutelkė gausesnę ir geriau už Teodoriko kariuomenę ginkluotą kariuomenę ir patraukė jo pasitikti."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "575183-575821; hash=4b43f015729c597280623f66ae2e37cf699a3b0f44581cb3c4d31f2d47b93718; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Teodorikas: 0.70"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Odoakras: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Teodorikas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Karinės konfrontacijos kontekste Odoakras telkia kariuomenę ir patraukia pasitikti Teodoriko."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173826
 
@@ -215,21 +88,6 @@ Odoakras užėmė Romą, nuvertė Vakarų Romos imperatorių ir pirmasis iš sve
 - t-009
   global_id: t-190945
   teiginys: "Teodoro Narbuto pasakojime Odoakras naktį netikėtai puolė prie Ados stovyklavusius Teodoriko būrius, bet vėliau vos išsigelbėjo sprukdamas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "576847-577464; hash=efed83f6874ad6b2799e649a42bd97f92ecdd0e2940dc6ff1fbac6e78cdf3527; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Teodorikas: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Odoakras: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Teodorikas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Odoakro puolimą prieš Teodoriko būrius."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173827
 
@@ -237,25 +95,6 @@ Odoakras užėmė Romą, nuvertė Vakarų Romos imperatorių ir pirmasis iš sve
 - t-010
   global_id: t-190946
   teiginys: "Teodoro Narbuto pasakojime Teodorikas pažadėjo išsaugoti Odoakro gyvybę ir turtus, bet 493 m. kovo 5 d. nužudė Odoakrą Ravenoje."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Odoakras mirė Ravena (0.60)"
-  temporaliniai_duomenys: "mirties data: 493 m"
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Odoakras mirė Ravena“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Palikta atribucija, nes citatoje yra moralinis Teodoriko veiksmų vertinimas ir motyvo priskyrimas. Teiginyje sąmoningai palikta tik pažadas, data, vieta ir nužudymas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "579401-579941; hash=5aa3d5d679eb2639763f5b39de9c3a79c78ef45b4505a153c4ff65c57f99cd2b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "mire -> Ravena: 0.60"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Odoakras: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Ravena: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Nužudymo pasakojimas siejamas su įvykiu Ravenoje ir jos apylinkėse, nors vieta nurodyta kitame sakinyje."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173828
 - susijęs iš [[objektai/asmenys/Telanas.md#claim-t-191477|Telanas]]: Odoakras po susitarimo patikėjo gotų karaliui Teodorikui savo sūnų Telaną.
@@ -358,8 +197,8 @@ Odoakras užėmė Romą, nuvertė Vakarų Romos imperatorių ir pirmasis iš sve
     mas iš svetimšalių Romoje, tačiau nesisavino nei val­
     dovo vardo, nei purpurinės mantijos.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -381,8 +220,8 @@ Odoakras užėmė Romą, nuvertė Vakarų Romos imperatorių ir pirmasis iš sve
     lonistų ir jie gyveno vienoje iš seniausių gatvių, vadintoje Prū­
     sų gatve.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -402,8 +241,8 @@ Odoakras užėmė Romą, nuvertė Vakarų Romos imperatorių ir pirmasis iš sve
     mus herulus, kilusius iš estų tautos. Sis istorikas gyveno
     imperatoriaus Justiniano laikais, arba VI amžiuje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -426,8 +265,8 @@ Odoakras užėmė Romą, nuvertė Vakarų Romos imperatorių ir pirmasis iš sve
     ta i— taip pat. Tad iš kur tie herulai galėjo prisirinkti tiek
     graikų, romėnų, indų dievų?
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -444,8 +283,8 @@ Odoakras užėmė Romą, nuvertė Vakarų Romos imperatorių ir pirmasis iš sve
     rėdamas tiek valdžios kiek Orestas, jis neleistų sąjungi­
     ninkų kariuomenei gailėtis savo žygio j Italiją1.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -474,8 +313,8 @@ Odoakras užėmė Romą, nuvertė Vakarų Romos imperatorių ir pirmasis iš sve
     tik Odoakro didžiadvasiškumo dėka; jis atėmė tik impe­
     ratoriaus ženklus ir purpurus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -500,8 +339,8 @@ Odoakras užėmė Romą, nuvertė Vakarų Romos imperatorių ir pirmasis iš sve
     problemas; samdyta kariuomenė, kaip buvo žadėta, gavo
     trečdalį žemės valdų1.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -525,8 +364,8 @@ Odoakras užėmė Romą, nuvertė Vakarų Romos imperatorių ir pirmasis iš sve
     tvirtino vietovėje, tarsi laukdamas priešo. Gotų karalius
     iškart ten iškeliavo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -549,8 +388,8 @@ Odoakras užėmė Romą, nuvertė Vakarų Romos imperatorių ir pirmasis iš sve
     rulus; Odoakras vos išsigelbėjo sprukdamas. Vienas se­
     niausių jo karvedžių Tufą perėjo priešo pusėn.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -572,8 +411,8 @@ Odoakras užėmė Romą, nuvertė Vakarų Romos imperatorių ir pirmasis iš sve
     na daug išžudė. Sis baisus įvykis įvyko 493 metų kovo 5
     dieną.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -620,7 +459,8 @@ Odoakras užėmė Romą, nuvertė Vakarų Romos imperatorių ir pirmasis iš sve
 - id: c-171488
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 227"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 227."
   citata_originali: |
     Kituose Lietu­
     vos pakraščiuose ir pas kitas tautas, kilusias iš jos kamieno,
@@ -643,7 +483,8 @@ Odoakras užėmė Romą, nuvertė Vakarų Romos imperatorių ir pirmasis iš sve
 - id: c-173821
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 91"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 91."
   citata_originali: |
     Sis autorius, aprašinėdamas Rytų gotų valdovo Germana-
     riko įtaką Europos vakaruose gyvenančioms tautoms ir
@@ -688,7 +529,8 @@ Odoakras užėmė Romą, nuvertė Vakarų Romos imperatorių ir pirmasis iš sve
 - id: c-173823
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 313"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 313."
   citata_originali: |
     Taigi sąjungininkai pradėjo atvirai murmėti prieš savo
     vadą. Mažiausiai jam palankūs herulai kreipėsi į savo
@@ -736,7 +578,8 @@ Odoakras užėmė Romą, nuvertė Vakarų Romos imperatorių ir pirmasis iš sve
 - id: c-173825
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 315"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 315."
   citata_originali: |
     Tuo
     metu Rytų rūmai nedviprasmiškai patvirtino Odoakrą
@@ -762,7 +605,8 @@ Odoakras užėmė Romą, nuvertė Vakarų Romos imperatorių ir pirmasis iš sve
 - id: c-173826
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 321"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 321."
   citata_originali: |
     327
     Odoakras savo ruožtu taip pat negaišo laiko; jis su­
@@ -787,7 +631,8 @@ Odoakras užėmė Romą, nuvertė Vakarų Romos imperatorių ir pirmasis iš sve
 - id: c-173827
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 322"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 322."
   citata_originali: |
     Tuo tar­
     pu Odoakras, skubiai surinkęs saviškius, tyliai ir taip
@@ -811,7 +656,8 @@ Odoakras užėmė Romą, nuvertė Vakarų Romos imperatorių ir pirmasis iš sve
 - id: c-173828
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 323"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 323."
   citata_originali: |
     Tik žinoma tai, kad Teodorikas paža­
     dėjo išsaugoti Odoakro gyvybę ir turtus, perleido jam
@@ -834,13 +680,7 @@ Odoakras užėmė Romą, nuvertė Vakarų Romos imperatorių ir pirmasis iš sve
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Telanas]]
 - Broliai: [[objektai/asmenys/Onulfas]]
-- Sąjungininkai: [[objektai/grupes/Vandalai]]
-- Sudarė sutartį su: [[objektai/asmenys/Teodorikas]], [[objektai/asmenys/Teodorikas Didysis]]
-- Paskyrė Odoakrą: [[objektai/grupes/Alanai]], [[objektai/grupes/Gepidai]], [[objektai/grupes/Herulai]], [[objektai/asmenys/Julijus Nepas]], [[objektai/grupes/Skiriai]], [[objektai/grupes/Turcilingai]]
+- Paskyrė Odoakrą: [[objektai/grupes/Herulai]], [[objektai/asmenys/Julijus Nepas]], [[objektai/grupes/Skiriai]], [[objektai/grupes/Turcilingai]]
 - Odoakras buvo valdovas [[objektai/grupes/Herulai]]
 - Odoakras valdė [[objektai/vietos/Italija]]
-- Odoakras mirė [[objektai/vietos/Ravena]]
-- Odoakras apgulė [[objektai/ivykiai/Odoakro paskelbimas vadu ir karaliumi bei 476 m. žygis prieš Orestą]], [[objektai/vietos/Pavija]]
-- Odoakras užėmė [[objektai/vietos/Pavija]]
-- Odoakras kariavo prieš [[objektai/asmenys/Orestas]]
-- Odoakras sudarė sutartį su [[objektai/asmenys/Evarikas]]
+- Odoakras apgulė [[objektai/vietos/Pavija]]

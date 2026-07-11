@@ -57,16 +57,6 @@ Nenurodyta
 - t-001
   global_id: t-59249
   teiginys: "Sausio 22 d. notangai sutelkė jėgas ir Pokarviuose užpuolė ten likusią brolių bei maldininkų kariuomenės dalį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "378735-379693; hash=63ec1aaad34c563c93667017d3b5cb3f127049dfd8fd90691b1da906e776e5fe; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> maldininkai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Susirėmimas Pokarviuose (1261 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "maldininkai: mention_match, thing, gap=43"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Susirėmimas Pokarviuose (1261 m.)\" parinktas kaip owner_note_path. Targetas \"maldininkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-59883
 
@@ -74,17 +64,6 @@ Nenurodyta
 - t-003
   global_id: t-59251
   teiginys: "Po susirėmimo Pokarviuose notangai belaisvį Hirtshalsą burtų keliu paskyrė aukai ir sudegino pririštą ant jo žirgo."
-  semantiniai_rysiai: "Notangai paskyrė Hirtshalsas (0.86)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "380137-380749; hash=b082dba1133dc541832e743446b2e5afaafb9f3decbf829c7277810589680119; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "paskyre -> Hirtshalsas: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Notangai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Hirtshalsas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Teiginyje tiesiogiai pasakyta, kad notangai Hirtshalsą paskyrė aukai."
   pagrindžia:
     - c-59882
 
@@ -92,19 +71,6 @@ Nenurodyta
 - t-004
   global_id: t-183964
   teiginys: "Sausio 22 d. notangai sutelkė jėgas ir Pokarviuose užpuolė ten likusią brolių bei maldininkų kariuomenės dalį."
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "378508-379517; hash=8a5a89a010fdf9cf40305b0aeacc7b0e29ee0c1160cdcc9457ac06ef83910af1; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> maldininkai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Susirėmimas Pokarviuose (1261 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "maldininkai: mention_match, thing, gap=43"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Susirėmimas Pokarviuose (1261 m.)\" parinktas kaip owner_note_path. Targetas \"maldininkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-167349
 ## Reikšmingi paminėjimai
@@ -120,11 +86,11 @@ Nenurodyta
     dalimi karių ir brolių, su juo ten drauge buvusių; kai kurie buvo paimti į nelaisvę, o likusieji
     pasileido bėgti.
   citata_rodoma: ''
+  statusas: verified
+
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-
 - c-002
   santrauka: 'Po susirėmimo Pokarviuose notangai belaisvį Hirtshalsą burtų keliu paskyrė aukai ir sudegino pririštą ant jo žirgo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -138,8 +104,8 @@ Nenurodyta
     burtai jam krito, pats atsižadėjo noro išsigelbėti  ir iš pagarbos tikėjimui laisva valia
     pasiaukojo dievui: pririštas ant savo žirgo, jis buvo sudegintas367.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -161,8 +127,8 @@ Nenurodyta
     dėlto, kai grįždamas brovėsi per juos, buvo nukautas, o tarp jų prasidėjo atkakli kova,
     pareikalavusi ir vienoje, ir kitoje pusėje daugybės mirtinai sužeistų arba užmuštų.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -185,8 +151,8 @@ Nenurodyta
     paspaudęs savo žirgą pentinais, atstatęs ietį, kaip paprastai daro kariai, įsibrovė į priešo
     rikiuotę, žudydamas nedorėlius į dešinę ir kairę, o jie krito žemėn vieni čia, kiti ten.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -197,7 +163,8 @@ Nenurodyta
 - id: c-59882
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 116"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 116."
   citata_originali: |
     Po šių skerdynių
     notangai, sumanę savo dievams paaukoti auką, metė burtus paimtų į nelaisvę teutonų
@@ -217,7 +184,8 @@ Nenurodyta
 - id: c-59883
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 116"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 116."
   citata_originali: |
     Broliai ir maldininkai nutarė, kad viena dalis jų kariuomenės
     sugrįžtų atgal ir pakartotinai nusiaubtų minėtąją žemę, o kita dalis — paliktų toje pačioje
@@ -240,7 +208,8 @@ Nenurodyta
 - id: c-167349
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 116"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 116."
   citata_originali: |
     Su jais įsibrovė
     į Notangos žemę broliai bei jų ginklanešiai  ir, nuniokoję ją ugnimi bei apiplėšę, daug

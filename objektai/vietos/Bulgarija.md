@@ -38,16 +38,6 @@ st.) ir lenkė Rumuniją, Bulgariją.
 - t-002
   global_id: t-46557
   teiginys: "Jonas Basanavičius, grįžęs iš emigracijos Bulgarijoje, buvo Didžiojo Vilniaus Seimo sumanymo iniciatorius."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "236216-236537; hash=4ec7f13268c9f30ffc189f79275097052bfc675b25bf70c764d641e53e90b76b; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Bulgarija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=27"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bulgarija\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-49121
 
@@ -55,19 +45,6 @@ st.) ir lenkė Rumuniją, Bulgariją.
 - t-001
   global_id: t-46558
   teiginys: "J. Basanavičius grįžo iš emigracijos Bulgarijoje ir tapo suvažiavimo sumanymo iniciatoriumi."
-  semantiniai_rysiai: "J. Basanavičius gyveno Bulgarija (0.88)"
-  temporaliniai_duomenys: "įvykio data: 1905 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "235850-236366; hash=69a077b31dce838b4bd8ce1336ecfb0937e1bfdf48c4a1d3e24c1a45b64f1923; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Bulgarija: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "J. Basanavičius: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Bulgarija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Emigracija Bulgarijoje tiesiogiai rodo Basanavičiaus gyvenimą ar buvimą Bulgarijoje."
   pagrindžia:
     - c-49120
 - susijęs iš [[objektai/ivykiai/Varnos mūšis.md#claim-t-186730|Varnos mūšis (mūšis, XV a.)]]: Vladislovas žuvo 1444 m. lapkričio 10 d. mūšyje su turkais ties Varna Bulgarijoje.
@@ -88,8 +65,8 @@ st.) ir lenkė Rumuniją, Bulgariją.
     manymo iniciatorius buvo iš emigracijos Bulgarijoje sugrįžęs J. Basanavi-
     čius. Gavus valdžios sutikimą, suvažiavimas, vėliau pavadintas Didžiuoju
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -107,8 +84,8 @@ st.) ir lenkė Rumuniją, Bulgariją.
     123
     Vilniaus Seimu, vyko Vilniuje, Miesto salėje, gruodžio 4–5 dienomis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -154,6 +131,3 @@ st.) ir lenkė Rumuniją, Bulgariją.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-46557
-
-## Ryšiai
-- Gyvenamoji vieta: [[objektai/asmenys/J. Basanavičius]]

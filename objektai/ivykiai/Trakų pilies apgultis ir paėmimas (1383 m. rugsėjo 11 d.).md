@@ -56,20 +56,6 @@ Nenurodyta
 - t-001
   global_id: t-86959
   teiginys: "1383 m. rugsėjo 11 d. kryžiuočių kariauna su Vytautu ir jo šalininkais apsupo Skirgailos užvaldytą Trakų pilį."
-  semantiniai_rysiai: "Kryžiuočių ordinas apgulė Trakai (0.93); Skirgaila valdė miestą Trakai (0.86)"
-  temporaliniai_duomenys: "įvykio data: 1383 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalintas OCR triukšmas ir išlaikyti citatoje pagrįsti faktai."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "110046-110454; hash=e939faad65c89054ad6c0d343274d0d0c7ce457d3063d9a41933a5229c21ecf4; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "apgule -> Trakai: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Kryžiuočių kariauna apsupo Trakų pilį."
   pagrindžia:
     - c-82938
 ## Reikšmingi paminėjimai
@@ -87,8 +73,8 @@ Nenurodyta
     tęsus atakai, mūrai buvo bombardų sugriauti, įgula pri­
     versta pasiduoti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

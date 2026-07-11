@@ -35,17 +35,6 @@ Keliavo jie Nemunu iš Merkinės į Kauną kartu su būriu kuni­ gijos ir daug 
 - t-001
   global_id: t-36216
   teiginys: "Kelionė iš Kauno tęsėsi Nemunu iki Dubysos upės, o Dubysa - iki Aukokalnio ties dabartine Betygala."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į Aukokalnis (0.82); Jogaila (kunigaikštis, XIV–XV a.) keliavo į Aukokalnis (0.82); Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į Kaunas (0.81); Jogaila (kunigaikštis, XIV–XV a.) keliavo į Kaunas (0.81)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "274626-275029; hash=d0b02269bff649abbd1e7c96d66f223660e274aa723c85a257b251cf58b7037a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Aukokalnis: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Aukokalnis: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai aprašo kelionę Dubysa iki Aukokalnio, o Jogaila yra vienas iš keliaujančiųjų."
   pagrindžia:
     - c-38483
 
@@ -53,17 +42,6 @@ Keliavo jie Nemunu iš Merkinės į Kauną kartu su būriu kuni­ gijos ir daug 
 - t-002
   global_id: t-36217
   teiginys: "Vytautas liepė atnaujinti Dubysos ir Nemuno krantuose buvusias pilis ir atstatyti sudegintą Veliuoną."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) pastatė Veliuona (0.79)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "327079-327591; hash=eedc10485a61dfac5ef75da70d938663bf82f895d39e32cbda962c105a35ad45; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "pastate -> Veliuona: 0.79"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Veliuona: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Vytautas liepė atstatyti Veliuoną; relation_kind pastate artimiausiai atitinka atstatymo veiksmą."
   pagrindžia:
     - c-38484
 ## Reikšmingi paminėjimai
@@ -79,8 +57,8 @@ Keliavo jie Nemunu iš Merkinės į Kauną kartu su būriu kuni­ gijos ir daug 
     ja iki Aukokalnio, buvusio ties dabartine Betygala. Nuo šios
     vietos ir buvo pradėtas apaštalavimo darbas Žemaitijoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -99,8 +77,8 @@ Keliavo jie Nemunu iš Merkinės į Kauną kartu su būriu kuni­ gijos ir daug 
     tuviškų žemių plotus, kuriose vis didėjo Vytauto valdžia ir
     autoritetas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -62,19 +62,6 @@ Nenurodyta
 - t-010
   global_id: t-64897
   teiginys: "1401 m. kovo 11 d. Radome duoto Lenkų karališkosios tarybos dokumento originalas išliko Radvilų archyve su 49 antspaudais."
-  temporaliniai_duomenys: "įvykio data: 1401 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis sakinys negramatiškas; citata aiškiai palaiko pataisytą faktą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "428285-428689; hash=ee995a45651dc2a62f092b25a3bb023f1050466d7d00f36a54edd8d3a50991db; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Antspaudai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Antspaudas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Antspaudai: mention_match, thing, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antspaudas\" parinktas kaip owner_note_path. Targetas \"Antspaudai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-14295
 
@@ -82,16 +69,6 @@ Nenurodyta
 - t-009
   global_id: t-64898
   teiginys: "XIX a. pradžios istorikai teigė matę tos sutarties originalą su visų keturių valdovų sveikais antspaudais."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "53725-54121; hash=b018b34f781725ba376de46ef6a836c2de0f4c7708d7d1c8966694ddea648e15; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Antspaudai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Antspaudas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Antspaudai: mention_match, thing, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antspaudas\" parinktas kaip owner_note_path. Targetas \"Antspaudai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-14294
 
@@ -99,22 +76,6 @@ Nenurodyta
 - t-011
   global_id: t-184601
   teiginys: "1649 m. rugpjūčio 25 d. Vilniuje leidimas spausdinti Lietuvos istorijos pirmą dalį buvo paliudytas įprastiniu tarnybos antspaudu."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1649 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra faktinis sakinys apie antspaudo panaudojimą ir paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "61660-62295; hash=548eb4e3cdd3545da76d605520a6d7864e63e8983252dd888ce10631dc53c7eb; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Antspaudas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=66"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antspaudas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-167962
 - susijęs iš [[objektai/asmenys/Bičkus.md#claim-t-190227|Bičkus]]: Narbutas nurodo, kad Bičkus 1604 metais pridėjo antspaudą su driežiuko piešiniu.
@@ -294,8 +255,8 @@ Nenurodyta
     mi tos sutarties originalą, sakė esą matę visų keturių valdovų
     sveikas antspaudas^2 ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -313,8 +274,8 @@ Nenurodyta
     dome, išlikęs originalas su 49 antspaudomis, yra Radvilų archyve Niesvyžiuj.
     (^2) ) C. ep. V., 223.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -344,8 +305,8 @@ Nenurodyta
     paliudydamas įprastiniu tarnybos antspaudu. Vilniuje,
     1649 viešpaties metais, rugpjūčio 25 dieną.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -427,4 +388,4 @@ Nenurodyta
     - t-184601
 
 ## Ryšiai
-- Antspaudas priklausė [[objektai/asmenys/Jonas Lenartaitis Kęsgaila]], [[objektai/asmenys/Katilas]], [[objektai/vietos/Vilnius]]
+- Antspaudas priklausė [[objektai/asmenys/Katilas]]

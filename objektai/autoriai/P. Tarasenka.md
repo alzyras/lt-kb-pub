@@ -42,19 +42,6 @@ Tarasenka, Lietuvos archeologijos medžiaga (1929); B. Tarasenka, Apeiginiai L.
 - t-001
   global_id: t-71551
   teiginys: "P. Tarasenka 1929 m. Kaune išleido veikalą „Lietuvos archeologijos medžiaga“."
-  temporaliniai_duomenys: "įvykio data: 1929 m.; įvykio data: 1973 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko faktą apie Tarasenkos leidinį ir jo išleidimo duomenis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "319535-320356; hash=36911df1ce2a43f6453be448356ecaebee6bd18d92685ba9eb8d67afdf512d16; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kaunas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "P. Tarasenka: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Kaunas: mention_match, place, gap=21"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"P. Tarasenka\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-70102
     - c-70106
@@ -77,8 +64,8 @@ Tarasenka, Lietuvos archeologijos medžiaga (1929); B. Tarasenka, Apeiginiai L.
     **—** Švoba, J.: _Aisčiai ir Baltijos pajūrys,_ Karys, 1970, 193-200 p. —
     Tarasenka, P. : _Lietuvos archeologijos medžiaga,_ Kaunas 1929.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -96,8 +83,8 @@ Tarasenka, Lietuvos archeologijos medžiaga (1929); B. Tarasenka, Apeiginiai L.
     Tarasenka, P. : _Lietuvos archeologijos medžiaga,_ Kaunas 1929. — (”)
     _Lietuvos piliakalniai,_ Vilnius 1956.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

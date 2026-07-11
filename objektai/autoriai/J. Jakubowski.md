@@ -41,19 +41,6 @@ Jakubowski, J.: Opis księstwa trockiego w 1387 r ., PH, t.
 - t-002
   global_id: t-64628
   teiginys: "J. Jakubowski parašė darbą „Opis Księstwa Trockiego“, paskelbtą 1907 m. leidinyje „Kwartalnink hist.“."
-  temporaliniai_duomenys: "įvykio data: 1907 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys yra nutrūkęs bibliografinis fragmentas, todėl jį reikia paversti pilnu sakiniu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "606351-606551; hash=ad27545e99b678a031b6be39a29a0bfbc2fa1d07e8114d65a78d8fb723590ac4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "J. Jakubowski: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"J. Jakubowski\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-36655
 
@@ -61,18 +48,6 @@ Jakubowski, J.: Opis księstwa trockiego w 1387 r ., PH, t.
 - t-001
   global_id: t-64629
   teiginys: "J. Jakubowski 1907 m. paskelbė darbą „Opis księstwa trockiego w 1387 r.“"
-  temporaliniai_duomenys: "įvykio data: 1907 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "359545-359837; hash=abac34e3d315686f2322a3a7684e07dd6515f8afdcbf7e4c618398a1f3dc1629; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kaunas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "J. Jakubowski: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Kaunas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"J. Jakubowski\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-65306
 ## Reikšmingi paminėjimai
@@ -86,8 +61,8 @@ Jakubowski, J.: Opis księstwa trockiego w 1387 r ., PH, t.
     Oblastnoe delenie L.R.Q. Moskva 1892, p. 321). 3
     ) J. Jakubowski, Opis Księstwa Trockiego (Kwartalnink hist. 1907 m.).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -102,8 +77,8 @@ Jakubowski, J.: Opis księstwa trockiego w 1387 r ., PH, t.
     stosunkami narodowościowymi na Litwie przed unią lubelską,_ Varšuva
     1912 ; liet. vertimas, Kaunas 1921.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -30,14 +30,6 @@ Narbutas, remdamasis Lasickiu, Trotytoją kibirkščių apibūdino kaip atsargau
 - t-001
   global_id: t-189336
   teiginys: "Narbutas, remdamasis Lasickiu, Trotytoją kibirkščių apibūdino kaip atsargaus elgesio su ugnimi dievaitį."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "281132-281365; hash=0c1eb62b2094eab34cf625461a9b701eb7e3d937a693000b4330826fe109b3fe; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172223
 ## Reikšmingi paminėjimai
@@ -52,8 +44,8 @@ Narbutas, remdamasis Lasickiu, Trotytoją kibirkščių apibūdino kaip atsargau
     dievinamas „Dims tipo“ vardu ir priklausė naminių gyvulių gru­
     pei*.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -64,7 +56,8 @@ Narbutas, remdamasis Lasickiu, Trotytoją kibirkščių apibūdino kaip atsargau
 - id: c-172223
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 162"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 162."
   citata_originali: |
     Trotytojas kibirkščių (Trotitas-Kirbixtu)
     Pasak Lasickio, atsargaus elgesio su ugnimi dievaitis. Pats

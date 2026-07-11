@@ -51,12 +51,6 @@ Nenurodyta
 - t-001
   global_id: t-193482
   teiginys: "Gardine, 1663 viešpaties metais, rugsėjo 9 d. J o n a s R iv o c k is CENZORIAUS PRITARIMAS Gerbiamo Tėvo Alberto Vijūko-Kojelavičiaus, Jė zaus draugijos kunigo, šventosios teologijos daktaro, Lietuvos istorijos antra dalis, gerbiamųjų Jėzaus drau gijos tėvų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "518237-519285; hash=95a1520efc856f9b0e31dfc3222200044e19daa7c83e2b45cef1954c23fd4368; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176182
 ## Reikšmingi paminėjimai
@@ -99,8 +93,8 @@ Nenurodyta
     spausdinama ir platinama kaip neturinti nieko, kas
     prieštarautų Romos katalikų tikėjimui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

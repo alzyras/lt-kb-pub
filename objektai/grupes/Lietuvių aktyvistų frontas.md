@@ -72,16 +72,6 @@ Nenurodyta
 - t-002
   global_id: t-13466
   teiginys: "LAF aktyvistai rinko žinias iš sovietų valdomos Lietuvos ir siuntė instrukcijas, o karinė LAF dalis bendradarbiavo su Abveru."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "399908-400326; hash=b21b2e0178cbb08d01fdcaf544b052ce8f1fbf1a2becc0a41a2ba963a959fef3; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Abveras: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvių aktyvistų frontas: owner_note_path, group"
-  ryšio_targeto_parinkimas: "Abveras: mention_match, group, gap=119"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvių aktyvistų frontas\" parinktas kaip owner_note_path. Targetas \"Abveras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-26863
 
@@ -89,16 +79,6 @@ Nenurodyta
 - t-003
   global_id: t-13467
   teiginys: "LAF programoje ir kituose dokumentuose buvo nacionalistinės retorikos ir antisemitizmo, o 16-asis programos punktas atšaukė teisę žydams gyventi Lietuvoje."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "395164-395827; hash=9d57a9c593c1717edca9a276b7495dc00faf6fdae7b0f9dd339ab4822105cfb3; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> K. Škirpa: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvių aktyvistų frontas: owner_note_path, group"
-  ryšio_targeto_parinkimas: "K. Škirpa: mention_match, person, gap=19"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvių aktyvistų frontas\" parinktas kaip owner_note_path. Targetas \"K. Škirpa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-22533
 
@@ -106,19 +86,6 @@ Nenurodyta
 - t-006
   global_id: t-23307
   teiginys: "1941 m. rugsėjo 26 d. naciai uždarė Lietuvių aktyvistų frontą."
-  temporaliniai_duomenys: "įvykio data: 1941 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pateikta citata nepagrindžia pradinio teiginio, bet pagrindžia faktą apie LAF uždarymą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "399908-400326; hash=b21b2e0178cbb08d01fdcaf544b052ce8f1fbf1a2becc0a41a2ba963a959fef3; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvių aktyvistų frontas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvių aktyvistų frontas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-26863
 
@@ -126,16 +93,6 @@ Nenurodyta
 - t-008
   global_id: t-24554
   teiginys: "LAF programoje ir kituose dokumentuose neišvengta nacionalistinės retorikos, antisemitizmo (16-asis LAF programos punktas atšaukė teisę žydams gyventi Lietuvoje)."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "395164-395827; hash=9d57a9c593c1717edca9a276b7495dc00faf6fdae7b0f9dd339ab4822105cfb3; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> K. Škirpa: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvių aktyvistų frontas: owner_note_path, group"
-  ryšio_targeto_parinkimas: "K. Škirpa: mention_match, person, gap=19"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvių aktyvistų frontas\" parinktas kaip owner_note_path. Targetas \"K. Škirpa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-22533
 
@@ -143,20 +100,6 @@ Nenurodyta
 - t-010
   global_id: t-26625
   teiginys: "Lietuvių aktyvistų frontas rinko žinias iš sovietų valdomos Lietuvos ir iš Vokietijos siuntė instrukcijas dėl valstybingumo atkūrimo bei sukilimo."
-  semantiniai_rysiai: "Lietuvių aktyvistų frontas siuntė į Lietuva (0.62)"
-  temporaliniai_duomenys: "įvykio data: 1940 m.; įvykio data: 1941 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra faktinis, aiškus ir tiesiogiai atitinka citatos turinį."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "394583-395729; hash=a054745d76a5e8975546a820a78b400bb756d8d9bdaf55cff390c5c6abd337ae; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "siunte_i -> Lietuva: 0.62"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuvių aktyvistų frontas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Claim nurodo instrukcijų siuntimą dėl Lietuvos, tačiau objektas yra šalis, o ne pačios instrukcijos."
   pagrindžia:
     - c-154379
 
@@ -164,16 +107,6 @@ Nenurodyta
 - t-011
   global_id: t-26626
   teiginys: "Naciai rugsėjo 26-ąją uždarė Lietuvių aktyvistų frontą, kai dauguma ministrų atsisakė tapti tarėjais."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "399781-400140; hash=06856adbd70faf714f81e7aef3ec4fb33dec2ae876c99f2308b6347420ca7f20; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvių aktyvistų frontas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvių aktyvistų frontas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-154378
 - susijęs iš Lietuvių aktyvistų fronto programa: Kazys Škirpa manė, kad Lietuvių aktyvistų frontas turi palaikyti ypač glaudžius ryšius su nacių Vokietija.
@@ -199,8 +132,8 @@ Nenurodyta
     K. Škirpa manė, kad nauja organizacija turi palaikyti ypač glaudžius
     ryšius su nacių Vokietija.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -218,8 +151,8 @@ Nenurodyta
     lietuvių tautos interesų, buvo paskelbta prieš vokiečių vadovybės valią ir
     nebuvo nacių politinių intrigų darinys.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -236,8 +169,8 @@ Nenurodyta
     sidariusią Lietuvių nacionalistų partiją). Taip nacių okupuotoje Lietuvoje
     baigėsi legalių lietuvių organizacijų veikla.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -268,8 +201,8 @@ Nenurodyta
     Vokietija – manyta, jog „Vokietijos vadovaujamoje Naujoje Europoje bus
     suteikta visoms tautoms teisė tvarkytis pas save, kaip nori“.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -371,7 +304,3 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-26625
-
-## Ryšiai
-- Sąjungininkai: [[objektai/grupes/Nacių Vokietija]]
-- Lietuvių aktyvistų frontas siuntė į [[objektai/vietos/Lietuva]]

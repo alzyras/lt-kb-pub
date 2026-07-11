@@ -46,17 +46,6 @@ media_all_json: |-
 - t-007
   global_id: t-74109
   teiginys: "Įstojusi į ES Lietuva galėjo Briuselyje reikšti savo poziciją ir turėjo savo komisarą bei 12 europarlamentarų."
-  semantiniai_rysiai: "Lietuva priklausė Europos Sąjunga (0.90)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "537669-538207; hash=7cf0525d99a29b175ab9b20741de232e0c81e1440529c89cd32c1754d56ea693; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Europos Sąjunga: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Europos Sąjunga: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Lietuva įstojo į ES."
   pagrindžia:
     - c-22391
 
@@ -64,16 +53,6 @@ media_all_json: |-
 - t-005
   global_id: t-74110
   teiginys: "Lietuva, Latvija ir Estija pasirašė Europos asociacijos sutartis su ES, kuriose pripažintas Baltijos valstybių tikslas tapti ES narėmis."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "535356-535780; hash=5516171f5e372e1b8fd7395c8079a893619f12167663616a588f3f69cf649727; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Baltija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Europos Sąjunga: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Baltija: mention_match, place, gap=56"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Europos Sąjunga\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-22389
 
@@ -81,20 +60,6 @@ media_all_json: |-
 - t-003
   global_id: t-74111
   teiginys: "2004 m. Lietuva buvo priimta į Europos Sąjungą ir Šiaurės Atlanto sutarties organizaciją."
-  semantiniai_rysiai: "Lietuva priklausė Europos Sąjunga (0.90)"
-  temporaliniai_duomenys: "įvykio data: 1991 m.; įvykio data: 1993 m.; įvykio data: 2004 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Paliktas šaltinio paremtas faktas, išlaikant aiškią formą apie ES."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "530391-531099; hash=91d4e8f01ef719506599215f356a39be3877b7c9e7799bbee24544cad7f33ee4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Europos Sąjunga: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Europos Sąjunga: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Lietuvos priėmimą į Europos Sąjungą."
   pagrindžia:
     - c-22387
 
@@ -102,16 +67,6 @@ media_all_json: |-
 - t-002
   global_id: t-74112
   teiginys: "Lietuvos aukštosios mokyklos ėmė dalyvauti Europos Sąjungos finansuojamose mokslo ir studijų programose."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "523225-523592; hash=811f12b854a883769570cfbd560ad7031d1e2901dbd2ab8cc192c7897c463983; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Europa: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Europos Sąjunga: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Europos Sąjunga\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-22386
 
@@ -119,19 +74,6 @@ media_all_json: |-
 - t-004
   global_id: t-74113
   teiginys: "Integracija į Europos Sąjungą – antras svarbiausias strateginis atsikūrusios Lietuvos užsienio politikos tikslas."
-  temporaliniai_duomenys: "įvykio data: 1990 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "534410-535231; hash=6962c34be08aac6b8b2ce9a850b7a349c85c77b3a9917c36e5ba0f9629d5a858; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Europa: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Europos Sąjunga: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Europos Sąjunga\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-22388
 
@@ -139,19 +81,6 @@ media_all_json: |-
 - t-001
   global_id: t-74114
   teiginys: "2013 m. Lietuva turėjo pirmininkauti Europos Sąjungai, apibūdintai kaip laisvų ir demokratinių Europos valstybių susivienijimas."
-  temporaliniai_duomenys: "įvykio data: 1990 m.; įvykio data: 2004 m.; įvykio data: 2013 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko konkretų faktą apie pirmininkavimą Europos Sąjungai."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "8261-8769; hash=651ab5311a83519ccc459e1a1bdbfe710164561ecd5705f04c8382bd0131d5fb; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Europa: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Europos Sąjunga: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Europos Sąjunga\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-22385
 
@@ -159,17 +88,6 @@ media_all_json: |-
 - t-006
   global_id: t-74115
   teiginys: "Lietuvai tapus ES nare, Lietuvoje įsigaliojo Europos Sąjungos nuostatos šalių narių gyventojams."
-  semantiniai_rysiai: "Lietuva priklausė Europos Sąjunga (0.90)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "536801-536995; hash=ab5844d8d908f96faaed67795bc285fcd5dcf0fa715270919108390963bd91e0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Europos Sąjunga: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Europos Sąjunga: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Formuluotė tiesiogiai sako, kad Lietuva tapo ES nare."
   pagrindžia:
     - c-22390
 
@@ -177,19 +95,6 @@ media_all_json: |-
 - t-009
   global_id: t-74116
   teiginys: "2003 m. Atėnuose Algirdas Brazauskas ir Antanas Valionis pasirašė Lietuvos stojimo į Europos Sąjungą sutartį."
-  temporaliniai_duomenys: "įvykio data: 2003 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalintas antraštinis fragmentiškumas, paliktas aiškus faktas."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "537482-538025; hash=64a0affa6ec80efedc7363d4d206b1684b000db979e76bea625c6b520e23a00f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Europa: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Europos Sąjunga: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Europos Sąjunga\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-72177
 
@@ -197,20 +102,6 @@ media_all_json: |-
 - t-008
   global_id: t-74117
   teiginys: "2004 m. Lietuva tapo Europos Sąjungos ir NATO nare."
-  semantiniai_rysiai: "Lietuva priklausė Europos Sąjunga (0.93); Lietuva priklausė NATO (0.93)"
-  temporaliniai_duomenys: "įvykio data: 2004 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Išskleista santrumpa, kad teiginys būtų enciklopediškai aiškesnis."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "29292-29526; hash=c09de3311b0fb0a29821f5b5c843d21ab0a1dee44f2f95221c3c3ef17d9bd31f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Europos Sąjunga: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Europos Sąjunga: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Lietuva tapo ES nare."
   pagrindžia:
     - c-72176
 
@@ -218,25 +109,6 @@ media_all_json: |-
 - t-011
   global_id: t-183127
   teiginys: "2004 m. gegužės 1 d. Lietuva įstojo į Europos Sąjungą ir įgijo teisę kurti savo bei žemyno ateitį su kitomis demokratinėmis valstybėmis."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Lietuva priklausė Europos Sąjunga (0.93)"
-  temporaliniai_duomenys: "įvykio data: 2004 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, aiškus ir paremtas citata."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "535510-535910; hash=e9ab8d908e1cd6d98c0f6380292a8bc77c6e85512e2a44fe2b35db795db3391e; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Europos Sąjunga: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Europos Sąjunga: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Lietuvos įstojimą į Europos Sąjungą, todėl tai pagrindžia narystės ryšį."
-  vertinimo_atnaujinta: "2026-06-13T14:18:10Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-166512
 
@@ -244,12 +116,6 @@ media_all_json: |-
 - t-012
   global_id: t-193534
   teiginys: "Dabartinė Lietuva yra visavertė demokratinė Europos valstybė, o nuo visų ES narių ir jų priimtų sprendimų priklauso ir pačios Europos valstybių likimas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "538208-538657; hash=760cd3b05b4c04ca9840535347ac99c712d459bbe6ffde9165dab2773257b399; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176214
 ## Reikšmingi paminėjimai
@@ -267,8 +133,8 @@ media_all_json: |-
     2013-aisiais Lietuva imsis istorinės pareigos pirmininkauti Europos Są-
     jungai – laisvų ir demokratinių Europos valstybių susivienijimui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -285,8 +151,8 @@ media_all_json: |-
     išsilavinimo ne tik Lietuvoje, bet ir kitose pasaulio valstybėse. Sparčiai
     išsiplėtė knygų, periodinės spaudos leidyba, šalies bibliotekų tinklas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -307,8 +173,8 @@ media_all_json: |-
     (ET), o 2004 m. – ir į svarbiausias organizacijas – karinę Šiaurės Atlanto
     sutarties organizaciją ir ekonominę organizaciją – Europos Sąjungą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -330,8 +196,8 @@ media_all_json: |-
     nominę bendriją (EEB), prašydami Baltijos šalims politinę, ekonominę
     ir kultūrinę paramą teikti ne per Sovietų Sąjungą, o tiesiogiai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -349,8 +215,8 @@ media_all_json: |-
     (asociacijos) sutartis su ES, kuriose ši pripažino Baltijos valstybių tikslą
     tapti ES narėmis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -364,8 +230,8 @@ media_all_json: |-
     Lietuvai tapus ES nare, joje įsigalėjo Sąjungos nuostatos šalių narių gy-
     ventojų atžvilgiu. Visų šalių narių piliečiai kartu yra ir ES piliečiai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -384,8 +250,8 @@ media_all_json: |-
     stojant į ES uždaryti Ignalinos atominę elektrinę, kurią europiečiai manė
     esant nesaugią.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -401,8 +267,8 @@ media_all_json: |-
     atkurti Nepriklausomybę.
     Ir dar labai svarbu žinoti – 2004 m. Lietuva tapo ES ir NATO nare.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -424,8 +290,8 @@ media_all_json: |-
     dimams nedidelė, Vidurio ir Rytų Europos šalių pozicijoms tam tikrais
     atvejais sutapus, jų kolektyvinė galia gali gerokai padidėti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -442,8 +308,8 @@ media_all_json: |-
     tapti ES narėmis. 2004 m. gegužės 1 d. Lietuva įstojo į ES ir įgijo teisę
     kurti savo ir žemyno ateitį kartu su kitomis demokratinėmis valstybėmis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -461,8 +327,8 @@ media_all_json: |-
     valstybė, o nuo visų ES narių ir jų priimtų sprendimų priklauso ir pačios
     Europos valstybių likimas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

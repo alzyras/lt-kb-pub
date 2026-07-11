@@ -11,6 +11,7 @@ import SettingsPage from "./SettingsPage"
 import HomeRandomTeiginiai from "./HomeRandomTeiginiai"
 import HomeCollection from "./HomeCollection"
 import LIHeader from "./LIHeader"
+import GoogleTranslate from "./GoogleTranslate"
 import ObjectMapCTA from "./ObjectMapCTA"
 import ObjectMediaGallery from "./ObjectMediaGallery"
 import Head from "./Head"
@@ -46,6 +47,7 @@ export {
   HomeRandomTeiginiai,
   HomeCollection,
   LIHeader,
+  GoogleTranslate,
   ObjectMapCTA,
   ObjectMediaGallery,
   Head,

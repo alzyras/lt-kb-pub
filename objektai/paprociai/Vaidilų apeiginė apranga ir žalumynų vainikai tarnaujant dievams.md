@@ -45,21 +45,6 @@ Nenurodyta
 - t-001
   global_id: t-189945
   teiginys: "Vaidilos tarnaudami dievams dėvėdavo ilgą viršutinį drabužį su baltu drobiniu apvadu ir žalumynų vainikus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "512551-513023; hash=13167d19834cd1980ee2f3316d9c8718d328d9c9166de1dfa8371ce4de2f4e56; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Baltai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vaidilų apeiginė apranga ir žalumynų vainikai tarnaujant dievams: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Baltai: mention_match, group, gap=43"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vaidilų apeiginė apranga ir žalumynų vainikai tarnaujant dievams\" parinktas kaip owner_note_path. Targetas \"Baltai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172828
 ## Reikšmingi paminėjimai
@@ -77,8 +62,8 @@ Nenurodyta
     dilos užsidėdavo ant galvos žalumynų vainikus, nupintus iš
     šventųjų medžių lapų ir kvapniųjų žolių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -89,7 +74,8 @@ Nenurodyta
 - id: c-172828
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 293"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 293."
   citata_originali: |
     Vaidilų viršutinis drabužis buvo ilgas, įprastinio sukirpi­
     mo, apsiūtas baltu drobiniu apvadu; krūtinė būdavo užsega­

@@ -39,12 +39,6 @@ Jonas Albertas užmiršo net savo ligą, ¡sakė vežti save rogėse ir atvyko s
 - t-001
   global_id: t-194090
   teiginys: "Jonas Albertas užmiršo net savo ligą, ¡sakė vežti save rogėse ir atvyko su visais savo žmonėmis, ir su turkais, ir su vengrais, ir su valachais, ir tuose miškuose bei bukynuose užpuolė karalių Olbrachtą bei jo kariuomenę , daugelį iš jo kariuomenės nukovė, o kitus paėmė gyvus; atėmė daug gurguolių su dideliu turtu ir kelias garsias patrankas, o pačiam karaliui Olbrachtui ir daugeliui jo ponų bei karių nieko nepakenkė."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "263278-264245; hash=30d973081152344ed9cc8b307535b0bac704c1a51c9db45746fc90e732480d50; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176703
 
@@ -52,12 +46,6 @@ Jonas Albertas užmiršo net savo ligą, ¡sakė vežti save rogėse ir atvyko s
 - t-002
   global_id: t-194091
   teiginys: "Kazimiero Jogallaičio trečiasis sūnus Jonas Albertas, vadin tas Olbrachtu."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "600738-601000; hash=5acc2ce73f83b09d7068953aee6c770e99705ef1e1f214189725087f76061ac5; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176704
 ## Reikšmingi paminėjimai
@@ -89,8 +77,8 @@ Jonas Albertas užmiršo net savo ligą, ¡sakė vežti save rogėse ir atvyko s
     Kai karalius perėjo miškus ir Bukoviną, Moldavijos
     vaivada su visais savo žmonėmis pasuko atgalios.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -106,8 +94,8 @@ Jonas Albertas užmiršo net savo ligą, ¡sakė vežti save rogėse ir atvyko s
     su broliu Vladislovu dėl Vengrijos sosto (1490—1492) buvo
     Liubline.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -152,7 +140,8 @@ Jonas Albertas užmiršo net savo ligą, ¡sakė vežti save rogėse ir atvyko s
 - id: c-176704
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 304"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 304."
   citata_originali: |
     8 Kazimiero Jogallaičio trečiasis sūnus Jonas Albertas, vadin­
     tas Olbrachtu. buvo vyresnis už brolį Aleksandra dviem  metais:

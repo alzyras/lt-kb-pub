@@ -39,19 +39,6 @@ Povilas Ksaveras Bžostovskis aprašomas kaip Paulavos respublikos kūrėjas; jo
 - t-001
   global_id: t-23214
   teiginys: "Povilas Ksaveras Bžostovskis 1769 m. įkūrė Paulavos respubliką."
-  semantiniai_rysiai: "Povilas Ksaveras Bžostovskis pastatė Paulava (0.93)"
-  temporaliniai_duomenys: "įkūrimo data: 1767 m.; įkūrimo data: 1769 m.; įkūrimo data: 1773 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "129814-130250; hash=7cd51cd06917dfc677d4db8aea1e80ee1cfa0bf89427efca0d9d497db526bd13; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "pastate -> Paulava: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Povilas Ksaveras Bžostovskis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Paulava: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad Bžostovskis įkūrė Paulavos respubliką."
   pagrindžia:
     - c-21942
 
@@ -59,20 +46,6 @@ Povilas Ksaveras Bžostovskis aprašomas kaip Paulavos respublikos kūrėjas; jo
 - t-002
   global_id: t-23215
   teiginys: "Povilo Ksavero Bžostovskio įkurtos Paulavos respublikos įstatus 1791 m. patvirtino Ketverių metų seimas."
-  semantiniai_rysiai: "Povilas Ksaveras Bžostovskis pastatė Paulava (0.91)"
-  temporaliniai_duomenys: "įvykio data: 1791 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradiniame teiginyje vartojami inicialai, todėl asmenvardis išplėstas."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "162808-163176; hash=a2a387a40de05c589083faf635994821471004af3ba9a4d8ee322fde3c4e069c; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "pastate -> Paulava: 0.91"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Povilas Ksaveras Bžostovskis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Paulava: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai sieja Paulavos respublikos įkūrimą su Bžostovskiu."
   pagrindžia:
     - c-21943
 
@@ -80,19 +53,6 @@ Povilas Ksaveras Bžostovskis aprašomas kaip Paulavos respublikos kūrėjas; jo
 - t-003
   global_id: t-23216
   teiginys: "Povilo Ksavero Bžostovskio 1769 m. įkurta Paulavos respublika kartais laikoma vienu Apšvietos epochos pradžios ženklų."
-  temporaliniai_duomenys: "įvykio data: 1767 m.; įvykio data: 1769 m.; įvykio data: 1773 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys per platus; perrašyta tik apie šio įrašo asmenį."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "129814-130250; hash=7cd51cd06917dfc677d4db8aea1e80ee1cfa0bf89427efca0d9d497db526bd13; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Abiejų Tautų Respublika: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Povilas Ksaveras Bžostovskis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Abiejų Tautų Respublika: mention_match, group, gap=51"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Povilas Ksaveras Bžostovskis\" parinktas kaip owner_note_path. Targetas \"Abiejų Tautų Respublika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-21942
 - susijęs iš [[objektai/asmenys/Antanas Tyzenhauzas.md#claim-t-46009|Antanas Tyzenhauzas (ūkio reformų veikėjas)]]: Antano Tyzenhauzo reformos (1767 m.), Povilo Ksavero Bžostovskio įkurta Paulavos respublika (1769 m.), jėzuitų ordino panaikinimas ir Edukacinės komisijos sukūrimas (1773 m.) – šie įvykiai kartais laikomi Apšvietos epochos pradžia.
@@ -114,8 +74,8 @@ Povilas Ksaveras Bžostovskis aprašomas kaip Paulavos respublikos kūrėjas; jo
     Baroko epocha valstybės istorijos požiūriu – tai Lenkijos ir Lietuvos
     sąjunga, sukurta Liublino unijos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -133,8 +93,8 @@ Povilas Ksaveras Bžostovskis aprašomas kaip Paulavos respublikos kūrėjas; jo
     „eksperimentui“, kuriuo buvo bandoma diegti respublikonišką gyvense-
     ną.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

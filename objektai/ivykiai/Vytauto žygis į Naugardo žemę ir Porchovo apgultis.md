@@ -48,19 +48,6 @@ Nenurodyta
 - t-003
   global_id: t-186595
   teiginys: "Lietuvos metraštis pasakoja, kad Vytautas, šešis mėnesius nepaėmęs Porchovo, niokojo, degino ir ėmė nelaisvėn Naugardo bei Pskovo žemėje."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "180747-181440; hash=e46452167b905794c170929eca156a810d7046e0bdb2de1f9b3831c69e844343; match=whitespace_regex"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
-  ryšio_patikimumas: "susije_su -> Didžiojo Naugardo respublika: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytauto žygis į Naugardo žemę ir Porchovo apgultis: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Didžiojo Naugardo respublika: mention_match, group, gap=77"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytauto žygis į Naugardo žemę ir Porchovo apgultis\" parinktas kaip owner_note_path. Targetas \"Didžiojo Naugardo respublika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-169890
 
@@ -68,19 +55,6 @@ Nenurodyta
 - t-001
   global_id: t-186596
   teiginys: "Lietuvos metraštis vaizduoja Vytautą siuntus pasiuntinius į Didįjį Naugardą ir Pskovą, kad miestai pripažintų jį valdovu ir mokėtų duoklę."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "180747-181440; hash=e46452167b905794c170929eca156a810d7046e0bdb2de1f9b3831c69e844343; match=whitespace_regex"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
-  ryšio_patikimumas: "susije_su -> Didžiojo Naugardo respublika: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytauto žygis į Naugardo žemę ir Porchovo apgultis: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Didžiojo Naugardo respublika: mention_match, group, gap=38"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytauto žygis į Naugardo žemę ir Porchovo apgultis\" parinktas kaip owner_note_path. Targetas \"Didžiojo Naugardo respublika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-169890
 
@@ -88,19 +62,6 @@ Nenurodyta
 - t-002
   global_id: t-186597
   teiginys: "Lietuvos metraštis pasakoja, kad naugardiečiams ir pskoviečiams atsisakius duoklės Vytautas ištraukė į Naugardo žemę ir šešis mėnesius stovėjo prie Porchovo."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "180747-181440; hash=e46452167b905794c170929eca156a810d7046e0bdb2de1f9b3831c69e844343; match=whitespace_regex"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
-  ryšio_patikimumas: "susije_su -> Didžiojo Naugardo respublika: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytauto žygis į Naugardo žemę ir Porchovo apgultis: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Didžiojo Naugardo respublika: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytauto žygis į Naugardo žemę ir Porchovo apgultis\" parinktas kaip owner_note_path. Targetas \"Didžiojo Naugardo respublika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-169890
 ## Reikšmingi paminėjimai
@@ -124,8 +85,8 @@ Nenurodyta
     nuėjo per Naugardo ir Pskovo žemę niokodamas, de­
     gindamas ir imdamas nelaisvėn * .
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

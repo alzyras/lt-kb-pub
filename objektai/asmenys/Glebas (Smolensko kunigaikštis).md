@@ -41,19 +41,6 @@ Taigi Lietuvos antpuolyje su totoriais buvo priversti dalyvauti Briansko kunigai
 - t-001
   global_id: t-40124
   teiginys: "Smolensko kunigaikštis Glebas buvo priverstas kartu su totoriais dalyvauti antpuolyje prieš Lietuvą."
-  semantiniai_rysiai: "Glebas (Smolensko kunigaikštis) puolė Lietuva (0.84); Totoriai puolė Lietuva (0.76)"
-  temporaliniai_duomenys: "valdymo laikotarpis: 1275 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Glebas (Smolensko kunigaikštis) buvo valdovas Smolenskas“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "113998-114504; hash=17beeddaafb9995e4a9d4f11b2fae7abdc4dd47ff8b735292d638d904e981bfe; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Lietuva: 0.84"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Glebas (Smolensko kunigaikštis): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Glebas įvardytas kaip priverstas dalyvauti antpuolyje prieš Lietuvą."
   pagrindžia:
     - c-44336
 - susijęs iš [[objektai/ivykiai/Smolensko prastųjų žmonių sukilimas.md#claim-t-186631|Smolensko prastųjų žmonių sukilimas (sukilimas)]]: Lietuvos metraštis teigia, kad Smolensko sukilimo metu Andriaus šalininkai susirėmė su prastaisiais žmonėmis prie šv. Boriso ir Glebo cerkvės.
@@ -79,8 +66,8 @@ Taigi Lietuvos antpuolyje su totoriais buvo priversti dalyvauti Briansko kunigai
     prieš Lietuvą taip pat dalyvavo Pietvakarių Rusios - Haličo, Lucko,
     Vladimiro, taip pat Pinsko, Turovo - kunigaikščiai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -108,6 +95,3 @@ Taigi Lietuvos antpuolyje su totoriais buvo priversti dalyvauti Briansko kunigai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40124
-
-## Ryšiai
-- Glebas (Smolensko kunigaikštis) puolė [[objektai/vietos/Lietuva]]

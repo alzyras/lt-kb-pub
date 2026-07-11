@@ -54,17 +54,6 @@ Nenurodyta
 - t-001
   global_id: t-62731
   teiginys: "Prūsai pagal seną paprotį žmonas pirkdavosi už tam tikrą pinigų sumą ir laikė jas tarsi tarnaitėmis."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "233029-233418; hash=b0565fb1c6cdaeab1e391a558102c785aa9feb81a50d0f84797b7a9d0588c9cb; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Namas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žmonų išpirka ir žmonos tarnystės pareigos Dusburgiečio vaizde: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Namas: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žmonų išpirka ir žmonos tarnystės pareigos Dusburgiečio vaizde\" parinktas kaip owner_note_path. Targetas \"Namas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-63497
     - c-63499
@@ -73,17 +62,6 @@ Nenurodyta
 - t-003
   global_id: t-62732
   teiginys: "Komentare teigiama, kad Dusburgietis veikiausiai supainiojo nelaisvos šeimynos moters padėtį su žmonos kaip gyvenimo draugės padėtimi."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "235031-235318; hash=0e394d62be2422d8670d798c32f23eb1200ff1502a90f4445e223117b9e7756c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žmonų išpirka ir žmonos tarnystės pareigos Dusburgiečio vaizde: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žmonų išpirka ir žmonos tarnystės pareigos Dusburgiečio vaizde\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-63496
 ## Reikšmingi paminėjimai
@@ -97,8 +75,8 @@ Nenurodyta
     Atrodo, Dusburgietis bus supainiojęs moters — nelaisvos šeimynos narės padėtį su
     žmonos — gyvenimo draugės padėtimi.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -115,8 +93,8 @@ Nenurodyta
     elgetauti, pavargėliai laisvai vaikšto nuo namo prie namo ir nesidrovėdami valgo kada
     tinkami.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -133,11 +111,11 @@ Nenurodyta
     tėvui, t. y. išpirktų žmoną. Galėjo tai būti praktikuojama ir XIII a., nes paprotys buvo
     žinomas  ir vėliau.
   citata_rodoma: ''
+  statusas: verified
+
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-
 - c-004
   santrauka: 'Prūsai pagal seną paprotį žmonas pirkdavosi už tam tikrą pinigų sumą ir laikė jas tarsi tarnaitėmis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -150,8 +128,8 @@ Nenurodyta
     laiko nelyginant tarnaitę [sicut ancillam]: ji su savo vyru nesėda prie vieno stalo, o tam
     tikromis dienomis plauna kojas namiškiams ir svečiams212.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -162,7 +140,8 @@ Nenurodyta
 - id: c-63496
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 70"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 70."
   citata_originali: |
     212 XIII a. stambieji žemvaldžiai pirkdavo  ir parduodavo moteris, nelaisvosios
     šeimynos nares. Lietuvių kalboje žodžiai moteris ir žmona XVI a. ir vėliau buvo sinonimai.
@@ -179,7 +158,8 @@ Nenurodyta
 - id: c-63497
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 70"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 70."
   citata_originali: |
     Pagal seną paprotį, kurį
     prūsai išlaikė po šiai dienai, jie žmonas perkasi už tam tikrą pinigų sumą211. Dėl to žmoną
@@ -198,7 +178,8 @@ Nenurodyta
 - id: c-63499
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 70"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 70."
   citata_originali: |
     Turi paprotį lažintis, jog vaišėse visi gers po lygiai ir be saiko, todėl svečiui
     namiškiai siūlo gerti su tokia sąlyga, kad, jiems štai savo žodį tesėjus ir štai tokį saiką

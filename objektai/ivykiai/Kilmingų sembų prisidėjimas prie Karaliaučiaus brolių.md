@@ -50,17 +50,6 @@ Nenurodyta
 - t-001
   global_id: t-62825
   teiginys: "Kai kurie kilmingi sembai su šeimomis paliko gimtuosius namus, atvyko į Karaliaučiaus pilį ir prisidėjo prie brolių."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "387778-388657; hash=7c8510b4f20d897b73a05d4cd07bdcaf835b4a42e74091518b7f22c7b9731091; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kvedenava: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kilmingų sembų prisidėjimas prie Karaliaučiaus brolių: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Kvedenava: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kilmingų sembų prisidėjimas prie Karaliaučiaus brolių\" parinktas kaip owner_note_path. Targetas \"Kvedenava\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-63643
 ## Reikšmingi paminėjimai
@@ -87,8 +76,8 @@ Nenurodyta
     be to, pernelyg pasikliaujantis savo jėgomis, manė, jog užsitrauksiąs gėdą, taip greitai
     paklusdamas broliams, ir nenorėjo sekti savo gimdytojų pavyzdžiu.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -99,7 +88,8 @@ Nenurodyta
 - id: c-63643
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 119"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 119."
   citata_originali: |
     Apie tikinčiuosius sembus, prisidėjusius prie Karaliaučiaus brolių
 

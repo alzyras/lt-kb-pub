@@ -59,20 +59,6 @@ Nenurodyta
 - t-001
   global_id: t-86973
   teiginys: "Gediminas 1337 m. žuvo mūšyje su kryžiuočiais prie Bajerburgo pilies, per mylią nuo Veliuonos."
-  semantiniai_rysiai: "Gediminas kariavo prieš Kryžiuočių ordinas (0.92); Gediminas mirė Bajerburgas (0.88); Gediminas mirė Veliuona (0.62)"
-  temporaliniai_duomenys: "įvykio data: 1337 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys nukrypsta į Vilniaus aprašymą, o citata tiesiogiai pagrindžia Gedimino žūties faktą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "76950-78076; hash=0ef0f495dc9763daad835f6f258e5aa480a1b240fda298cabf2e7faa004e9235; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Kryžiuočių ordinas: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo Gedimino mūšį su kryžiuočiais."
   pagrindžia:
     - c-82952
 ## Reikšmingi paminėjimai
@@ -106,8 +92,8 @@ Nenurodyta
     Bremeno pirkliai jau buvo pastaty­
     dinę keletą namų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

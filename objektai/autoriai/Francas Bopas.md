@@ -32,17 +32,6 @@ media_all_json: |-
 - t-002
   global_id: t-187951
   teiginys: "Francas Bopas buvo vienas iš kalbininkų, kurių darbais naudojosi Teodoras Narbutas."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "37540-38704; hash=5ea47900ff61c205c1d64d1d41bde78fca1e29424d912190b0700d15b736163c; match=exact"
-  sprendimo_priezastis: "gap::authors"
-  ryšio_patikimumas: "susije_su -> T. Narbutas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Francas Bopas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "T. Narbutas: mention_match, author, gap=65"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Francas Bopas\" parinktas kaip owner_note_path. Targetas \"T. Narbutas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-170936
 - susijęs iš [[objektai/asmenys/Teodoras Narbutas.md#claim-t-188630|Teodoras Narbutas]]: Vytauto Berenio teigimu, Teodoras Narbutas šaltinius rinkosi panašiai kaip pirmtakai, bet juos pralenkė tautosakos ir etnografijos gausa.
@@ -77,8 +66,8 @@ media_all_json: |-
     bais, archeologų radiniais, savo ir kitų kraštotyrininkų surink­
     ta tautosaka, etnografine medžiaga.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -89,7 +78,8 @@ media_all_json: |-
 - id: c-170936
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 23"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 23."
   citata_originali: |
     Kaip buvo įprasta, jis
     naudojosi senaisiais rašytiniais šaltiniais, savo ir kitų moksli­

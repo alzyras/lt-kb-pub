@@ -45,20 +45,6 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
 - t-002
   global_id: t-67840
   teiginys: "1505 m. totoriai siaubė Vilniaus, Polocko, Vitebsko, Drucko, Naugarduko ir Slucko apylinkes."
-  semantiniai_rysiai: "Totoriai puolė Druckas (0.78)"
-  temporaliniai_duomenys: "įvykio data: 1505 m.; įvykio data: 1506 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys yra per ilgas ir stilistiškai fragmentiškas; citata palaiko glaustesnį faktą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "304964-305302; hash=3d12ab11f0d9f3f87cd4cbc41add2e0182219d61a00aa3e40ac9b9b2e25b8a3b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Druckas: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Totoriai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Druckas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Totorių žygis ir siaubimas tiesiogiai apima Drucko apylinkes."
   pagrindžia:
     - c-43408
 
@@ -66,17 +52,6 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
 - t-001
   global_id: t-67841
   teiginys: "Druckas buvo paimtas kartu su Orša prieš priartėjant prie Vitebsko."
-  semantiniai_rysiai: "Skirgaila užėmė Druckas (0.82)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "143704-143900; hash=57168ef0a9981f78eb2364b1299dfa73ff2e353be4130aabbf753638baab428c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Druckas: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Skirgaila: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Druckas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Skirgaila nurodytas kaip kartu su Vytautu veikęs, o veiksmas tiesiogiai apima Drucko paėmimą."
   pagrindžia:
     - c-67601
 
@@ -84,18 +59,6 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
 - t-003
   global_id: t-67842
   teiginys: "Petro Šuiskio vadovaujama kariuomenė iš Polocko traukė į Drucką, kur turėjo susijungti su Baziliaus Serebriano pajėgomis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "350704-351200; hash=16766f13c5afcc8ecb0055de1ab964dad4ebb89e282a6d22187a4e8c94611976; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Druckas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Druckas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-43409
 
@@ -103,20 +66,6 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
 - t-004
   global_id: t-184947
   teiginys: "Užpuolęs ir užėmęs Oršą, Vytautas patraukė į Drucką."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į Druckas (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "604760-605473; hash=f35f0da5188a1b0746598d6205fe69b6f51688eb876439fb56670408f01c306b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Druckas: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Druckas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Vytautas patraukė į Drucką."
   pagrindžia:
     - c-168308
 
@@ -124,22 +73,6 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
 - t-005
   global_id: t-187574
   teiginys: "Lietuvos metraštyje Vytautas vaizduojamas kaip su Skirgaila ir didele kariuomene žygiuojantis prieš Švitrigailą į Vitebską ir pirmiausia atvykstantis prie Drucko pilies."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) surengė žygį į Vitebskas (0.87); Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į Druckas (0.86)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "166792-167055; hash=f7b28cb7460a0e83a6a29135852217981b5ff70bb9c511c58555938f4e038536; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "surenge_zygi_i -> Vitebskas: 0.87"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vitebskas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Vytautas įvardytas kaip žygiuojantis į Vitebską."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-170522
 - susijęs iš [[objektai/asmenys/Petras Šuiskis.md#claim-t-40393|Petras Šuiskis]]: Kunigaikštis Petras Šuiskis vadovavo kariuomenei, kuri iš Polocko traukė į Drucką.
@@ -171,8 +104,8 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
     krašte. Totoriai neturėjo pagrindo įtarti, kad
     sėkmė nuo jų šį kartą nusisuks.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -199,8 +132,8 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
     nurodyta suvežti atsargas, kurių kariuome-
     nei turėjo pakakti net pusei metų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -215,8 +148,8 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
     artino prie Vitebsko. Švitrigaila susilaukė pagalbos ir iš Smo­
     lensko.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -249,8 +182,8 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
     pažadėję ir prisiekę ištikimybę Vytautui bei jo įpėdi­
     niams, susilaukė, ko prašė.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -266,8 +199,8 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
     Švitrigailą'. Pirmiausia atvyko prie Drucko pilies.
     Drucko kunigaikščiai pasitiko jį ir stojo jam tarnauti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -345,7 +278,8 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
 - id: c-168308
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 347"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 347."
   citata_originali: |
     Vytautui ir pačiam rūpėjo šis karas, nes troško, kad
     Baltarusijos žemės būtų pa-
@@ -379,7 +313,8 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
 - id: c-170522
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 94"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 94."
   citata_originali: |
     Didysis kunigaikštis Vytautas pasiėmė su sa­
     vimi kunigaikštį Skirgailą, ir surinko didelę kariuome­
@@ -395,5 +330,3 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Petras Šuiskis]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Puolė Drucką: [[objektai/grupes/Totoriai]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Užėmė Drucką: [[objektai/asmenys/Skirgaila]]

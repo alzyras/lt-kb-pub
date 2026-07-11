@@ -65,18 +65,6 @@ Nenurodyta
 - t-002
   global_id: t-91907
   teiginys: "Jai tarus šiuos žodžius, regėjimas dingo."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "249450-250827; hash=f0f5ca67eb8acf8d70cee0eb8eac684b3ad36d2b25f4b2cbf4247250517a762a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Rudino pilies pastatymas ir Dusburgiečio pasakojamas regėjimas joje: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rudino pilies pastatymas ir Dusburgiečio pasakojamas regėjimas joje\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
-  vertinimo_autorius: "claim_quality_pipeline / rewrite"
   pagrindžia:
     - c-87550
 
@@ -84,19 +72,6 @@ Nenurodyta
 - t-001
   global_id: t-91908
   teiginys: "1234 m. magistras Hermanas, po prūsų išvijimo iš Kulmo žemės, pastatė Rudino pilį prie dykros tarp Pamedės ir Kulmo žemių."
-  temporaliniai_duomenys: "pastatymo data: po 1202 m.; pastatymo data: 1202 m.; pastatymo data: po 1229 m.; pastatymo data: 1229 m.; pastatymo data: po 1232 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip pastatymo data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Perrašyta sklandžiau ir pašalintas netaisyklingas konstrukcijos vartojimas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "247696-249449; hash=5c07b690f9bcefa54fb598b87ec2946b153b870e8015c212f85763f66f0f4ee6; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Pamedė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Rudino pilies pastatymas ir Dusburgiečio pasakojamas regėjimas joje: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Pamedė: mention_match, place, gap=29"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rudino pilies pastatymas ir Dusburgiečio pasakojamas regėjimas joje\" parinktas kaip owner_note_path. Targetas \"Pamedė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-87549
 ## Reikšmingi paminėjimai
@@ -130,8 +105,8 @@ Nenurodyta
     buvusią tarp Pamedės ir Kulmo žemių, toje vietoje, pro kur prūsai nuolatos puldinėdavo
     ir kur buvo įeiga į Kulmo žemę [fuerat [...] introitus ad terram Colmensem].
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -159,8 +134,8 @@ Nenurodyta
     priėmęs,  ir visiems papasakojo matytą regėjimą. Tas brolis, uoliai tarnavęs dievui,
     netrukus buvo netikėlių nužudytas.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -171,7 +146,8 @@ Nenurodyta
 - id: c-87549
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 74-75"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 74-75."
   citata_originali: |
     Apie Rudino pilies pastatymą ir stebuklingą regėjimą, kurį vienas brolis joje išvydo
 
@@ -207,7 +183,8 @@ Nenurodyta
 - id: c-87550
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 75"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 75."
   citata_originali: |
     Šioje pilyje
     gyveno vienas brolis, kuris, velnio klastingai sugundytas, kuo tvirčiausiai buvo įsitikinęs,

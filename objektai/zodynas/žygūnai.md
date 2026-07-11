@@ -34,16 +34,6 @@ Dusburgietis teigia, kad apie prūsams duotas dovanas, kuriomis norėta numalši
 - t-001
   global_id: t-58933
   teiginys: "Prūsai siųsdavo žygūnus pas Lenkijos kunigaikštį reikalauti žirgų ir ryškiaspalvių drabužių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "135423-136074; hash=9c8ca5d02bf59b2d343f202c78ad4927f0deadb196a83f418866f61b48e72b42; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Drabužiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "žygūnai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Drabužiai: mention_match, thing, gap=67"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"žygūnai\" parinktas kaip owner_note_path. Targetas \"Drabužiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-59565
 
@@ -51,19 +41,6 @@ Dusburgietis teigia, kad apie prūsams duotas dovanas, kuriomis norėta numalši
 - t-002
   global_id: t-184652
   teiginys: "Į Pinską buvo išsiųsti žygūnai pakviesti vienuolį Vaišvilką perimti tėvo paliktos valdžios."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "191677-192077; hash=59553a9e6ec3a5cdb9d7aae2fa05696e9857acda954c8a8fb11fb3f37f17b7c3; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Pinskas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "žygūnai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Pinskas: mention_match, place, gap=21"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"žygūnai\" parinktas kaip owner_note_path. Targetas \"Pinskas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-168013
 
@@ -71,19 +48,6 @@ Dusburgietis teigia, kad apie prūsams duotas dovanas, kuriomis norėta numalši
 - t-003
   global_id: t-184653
   teiginys: "Jedlnios seimas nutarė saugoti Lenkijos pasienio kelius, kad imperatoriaus ir Vytauto žygūnai negalėtų prasmukti."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "741684-742048; hash=1adeb48ac93462acca83c434a83f45569afe7c1088427d946d5e376322ea7f80; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "žygūnai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=55"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"žygūnai\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-168014
 
@@ -91,12 +55,6 @@ Dusburgietis teigia, kad apie prūsams duotas dovanas, kuriomis norėta numalši
 - t-004
   global_id: t-184654
   teiginys: "Karalius skubiai išsiuntė žygūnus pranešti išvykstantiems kunigaikščiams apie durininko nubaudimą mirtimi."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "949090-949591; hash=b2d2751b5353af0da78b494d690025e74e9b3804f9cbc8c91fa98201460e5b3b; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-168015
 - susijęs iš [[objektai/ivykiai/Kameneco kapituliacija ir Podolės prijungimas prie Lietuvos.md#claim-t-185580|Kameneco kapituliacija ir Podolės prijungimas prie Lietuvos]]: Kameneco gynėjų Podolės ir Valachijos kariai susipyko, todėl buvo pasiųsti žygūnai tartis dėl pilies perdavimo sąlygų.
@@ -120,8 +78,8 @@ Dusburgietis teigia, kad apie prūsams duotas dovanas, kuriomis norėta numalši
     šiems prie stalo smagiai bevalgant  ir begeriant, slapta įsakė perduoti minėtiesiems
     netikėlių pasiuntiniams jų drabužius bei žirgus165.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -149,8 +107,8 @@ Dusburgietis teigia, kad apie prūsams duotas dovanas, kuriomis norėta numalši
     jo pasirinktam gyvenimo bū­
     dui.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -172,8 +130,8 @@ Dusburgietis teigia, kad apie prūsams duotas dovanas, kuriomis norėta numalši
     vadovauti paskyrė Joną Čar-
     nkovskį.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -197,8 +155,8 @@ Dusburgietis teigia, kad apie prūsams duotas dovanas, kuriomis norėta numalši
     tu rė jo  pranešti, jog storžievis už neapdairumą nubaus­
     tas mirtimi.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -209,7 +167,8 @@ Dusburgietis teigia, kad apie prūsams duotas dovanas, kuriomis norėta numalši
 - id: c-59565
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 44"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 44."
   citata_originali: |
     3. Apie prūsams duotas dovanas, kuriomis norėta numalšinti jų žiaurumą
 
@@ -260,7 +219,8 @@ Dusburgietis teigia, kad apie prūsams duotas dovanas, kuriomis norėta numalši
 - id: c-168014
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 422"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 422."
   citata_originali: |
     Tačiau ligai išgy­
     dyti jau nebeužteko gydytojo, reikėjo veiksmingesnių

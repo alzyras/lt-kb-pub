@@ -46,18 +46,6 @@ Kai kurie iš jų sutapo su vaivadijomis, bet iš kai kurių didelių vaivadijų
 - t-001
   global_id: t-187201
   teiginys: "Breslauja priklausė Jaunučiui paskirtam žemių daliniui kartu su Vilniumi, Ašmena ir Ukmerge."
-  teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Ašmena priklausė Jaunutis (valdovas, XIV a.) (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "679223-679567; hash=3151dbb51ecbcd7300a36dc726ef5b996f965494a2c679656f75aa6ccff658ea; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  ryšio_patikimumas: "priklause -> Jaunutis (valdovas, XIV a.): 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Ašmena: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Jaunutis (valdovas, XIV a.): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Ašmena išvardyta tame pačiame Jaunučiui paskirtame dalinyje."
   pagrindžia:
     - c-170276
 
@@ -65,18 +53,6 @@ Kai kurie iš jų sutapo su vaivadijomis, bet iš kai kurių didelių vaivadijų
 - t-002
   global_id: t-187202
   teiginys: "Švitrigaila ir Livonijos magistras Breslaujoje sujungė savo pajėgas žygiui į Lietuvą."
-  teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Švitrigaila surengė žygį į Lietuva (0.91)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "275197-275454; hash=f21f25a7c0e8b759d65ac133f660ce70d40b2e5ea2ed81b9740c1de6b8f178dd; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  ryšio_patikimumas: "surenge_zygi_i -> Lietuva: 0.91"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citatoje tiesiogiai pasakyta, kad Švitrigaila išžygiavo į Lietuvą."
   pagrindžia:
     - c-170277
 
@@ -84,18 +60,6 @@ Kai kurie iš jų sutapo su vaivadijomis, bet iš kai kurių didelių vaivadijų
 - t-003
   global_id: t-187203
   teiginys: "Jaunučiui paskirtam žemių daliniui, be Vilniaus, priklausė Ašmena, Ukmergė ir Breslauja."
-  teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Ukmergė priklausė Jaunutis (valdovas, XIV a.) (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "679223-679567; hash=3151dbb51ecbcd7300a36dc726ef5b996f965494a2c679656f75aa6ccff658ea; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  ryšio_patikimumas: "priklause -> Jaunutis (valdovas, XIV a.): 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Ukmergė: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Jaunutis (valdovas, XIV a.): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Ukmergė išvardyta tame pačiame Jaunučiui paskirtame dalinyje."
   pagrindžia:
     - c-170276
 
@@ -103,17 +67,6 @@ Kai kurie iš jų sutapo su vaivadijomis, bet iš kai kurių didelių vaivadijų
 - t-005
   global_id: t-187204
   teiginys: "Breslauja su pilimi priklausė Jaunučiui paskirtam nedideliam žemių daliniui."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "679223-679567; hash=3151dbb51ecbcd7300a36dc726ef5b996f965494a2c679656f75aa6ccff658ea; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  ryšio_patikimumas: "susije_su -> Gediminas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Breslauja: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Gediminas: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Breslauja\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-170276
 
@@ -121,20 +74,6 @@ Kai kurie iš jų sutapo su vaivadijomis, bet iš kai kurių didelių vaivadijų
 - t-004
   global_id: t-187205
   teiginys: "Po Gedimino žūties 1337 m. Jaunutis paveldėjo Breslaują kartu su kitomis valdomis."
-  teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Jaunutis (valdovas, XIV a.) valdė teritoriją Breslauja (0.93)"
-  temporaliniai_duomenys: "įvykio data: 1337 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "77573-78734; hash=fd0313547e5b15d16abee193143df16d861327ef9fda76b1e894e5b10ad9b8f7; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  ryšio_patikimumas: "valde_teritorija -> Breslauja: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jaunutis (valdovas, XIV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Breslauja: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekste tiesiogiai pasakyta, kad Jaunutis paveldėjo Breslaują."
   pagrindžia:
     - c-170278
 - susijęs iš Ašmena: Jaunutis paveldėjo ne tik Lietuvos didžiojo kunigaikščio sostą, bet ir Ašmeną, Ukmergę bei Breslaują.
@@ -168,8 +107,8 @@ Kai kurie iš jų sutapo su vaivadijomis, bet iš kai kurių didelių vaivadijų
     Ukmerge, Breslauja (Braslaw).
     Kiti šeši Gedimino sūnus taip pat gavo savo dalis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -192,8 +131,8 @@ Kai kurie iš jų sutapo su vaivadijomis, bet iš kai kurių didelių vaivadijų
     „užpylus žemę liūtimis“
     žygiuoti gilyn į Lietuvą buvo nebegalima.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -240,8 +179,8 @@ Kai kurie iš jų sutapo su vaivadijomis, bet iš kai kurių didelių vaivadijų
     VILNIAUS MIESTO ISTORIJA / TOMAS
     bet ir Ašmeną, Ukmergę ir Breslaują.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -346,5 +285,3 @@ Kai kurie iš jų sutapo su vaivadijomis, bet iš kai kurių didelių vaivadijų
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Jaunutis|Jaunutis (valdovas, XIV a.)]]
-- Buvo žygio kryptis: [[objektai/asmenys/Kernius]]
-- Breslauja priklausė [[objektai/asmenys/Jaunutis|Jaunutis (valdovas, XIV a.)]]

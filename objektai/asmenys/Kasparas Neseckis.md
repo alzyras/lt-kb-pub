@@ -30,21 +30,6 @@ Kasparas Neseckis, Narbuto perteikimu, žinojo Krunevičiaus vardu pavadintą he
 - t-001
   global_id: t-191212
   teiginys: "Kasparas Neseckis, Narbuto perteikimu, žinojo Krunevičiaus vardu pavadintą herbą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "948290-948628; hash=4da9d641e410098c210df9d90c087b86cb9b65b650f38c7ee1af663c85b7ac31; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Herbai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kasparas Neseckis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Herbai: mention_match, thing, gap=75"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kasparas Neseckis\" parinktas kaip owner_note_path. Targetas \"Herbai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174094
 ## Reikšmingi paminėjimai
@@ -64,8 +49,8 @@ Kasparas Neseckis, Narbuto perteikimu, žinojo Krunevičiaus vardu pavadintą he
     suteikė herbą Krunevičiui. Neseckiui šis herbas, pavadintas Kru-
     nevičiaus vardu, yra žinomas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

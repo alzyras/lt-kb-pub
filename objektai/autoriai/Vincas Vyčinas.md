@@ -45,16 +45,6 @@ Kaina sutartinė ## Puslapis 495 Išleista: Jozefas Frankas Atsiminimai apie Vil
 - t-002
   global_id: t-88083
   teiginys: "Vinco Vyčino „Raštų“ III tomas buvo nurodytas tarp spaudai rengiamų leidinių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "881061-882254; hash=5d993a803e2b2e009fb30658e22b334e9eb2398c7722e3de53bc9023f0a60971; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aleksandras Balinskis: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vincas Vyčinas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Aleksandras Balinskis: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vincas Vyčinas\" parinktas kaip owner_note_path. Targetas \"Aleksandras Balinskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-84062
 
@@ -62,19 +52,6 @@ Kaina sutartinė ## Puslapis 495 Išleista: Jozefas Frankas Atsiminimai apie Vil
 - t-001
   global_id: t-88084
   teiginys: "Vinco Vyčino „Raštų“ I-II tomai buvo išleisti 2002-2007 m."
-  temporaliniai_duomenys: "įvykio data: 2002-2007; įvykio data: 2007 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pateikia leidyklos sąrašo faktą apie Vinco Vyčino raštus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "880316-881060; hash=19b88d0512d99e6b5fa4faa0652bbb5b438ffd3e6e383c9bf7f6e18830b3c4ce; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aleksandras Balinskis: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vincas Vyčinas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Aleksandras Balinskis: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vincas Vyčinas\" parinktas kaip owner_note_path. Targetas \"Aleksandras Balinskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-84063
 - susijęs iš [[objektai/autoriai/Michał Baliński Mykolas Balinskis.md#claim-t-182794|Michał Baliński Mykolas Balinskis]]: Mykolas Balinskis Vilnių apibūdino kaip Lietuvos mokslo ir vyriausiosios valdžios centrą.
@@ -124,8 +101,8 @@ Kaina sutartinė ## Puslapis 495 Išleista: Jozefas Frankas Atsiminimai apie Vil
     Prūsijos Kryžiuočių
     ordino.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -166,8 +143,8 @@ Kaina sutartinė ## Puslapis 495 Išleista: Jozefas Frankas Atsiminimai apie Vil
     Sudarytojas Antanas Katalynas
     Estetika - XX a.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

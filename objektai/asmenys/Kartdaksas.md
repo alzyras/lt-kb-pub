@@ -30,21 +30,6 @@ Kartdaksas Narbuto pasakojime buvo alanų karalius, kurio sekretoriumi dirbo got
 - t-001
   global_id: t-191429
   teiginys: "Kartdaksas Narbuto pasakojime buvo alanų karalius, kurio sekretoriumi dirbo gotų istoriko Jordano senelis."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "113044-113314; hash=44300b0518509e4f2b3bfe6f83cb2e0625efbdcd7c1457fbb35a7c3df13c4fcf; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gotai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kartdaksas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Gotai: mention_match, group, gap=76"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kartdaksas\" parinktas kaip owner_note_path. Targetas \"Gotai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174311
 - susijęs iš [[objektai/asmenys/Jordanas.md#claim-t-191954|Jordanas]]: Narbutas Jordano aprašymus laikė svarbiais alanams, nes Jordanas, būdamas gotas, esą gerai pažinojo alanus per savo senelio ryšius.
@@ -61,8 +46,8 @@ Kartdaksas Narbuto pasakojime buvo alanų karalius, kurio sekretoriumi dirbo got
     vo alanų karaliaus Kartdakso sekretorius. Tačiau šio ra-
     !
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -73,7 +58,8 @@ Kartdaksas Narbuto pasakojime buvo alanų karalius, kurio sekretoriumi dirbo got
 - id: c-174311
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 64"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 64."
   citata_originali: |
     Taip pat yra įrodymų, jog alanai buvo susi­
     giminiavę su gotais, kuriuos aprašo Jordanas2. Jo apra­

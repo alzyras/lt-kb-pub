@@ -39,17 +39,6 @@ Dusburgietis teigia, kad tokiomis aplinkybėmis Lubavos žemės nobiliai, vadova
 - t-001
   global_id: t-58764
   teiginys: "Lanzanijos nobiliai, vadovaujami Varpodos, pripažino Kristijono valdžią."
-  semantiniai_rysiai: "Kristijonas valdė Lanzanija (0.74)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "130266-130482; hash=70c40b5162491dc14da0357cc5c690c84bf897257fab2b1bc5699d83ea7e0f39; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde -> Lanzanija: 0.74"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kristijonas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lanzanija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Lanzanijos nobiliai pripažino Kristijono valdžią, todėl ryšys rodo jo valdymą ar valdžios pripažinimą."
   pagrindžia:
     - c-59396
 - susijęs iš [[objektai/ivykiai/Lubavos ir Lanzanijos nobilų Kristijono valdžios pripažinimo patvirtinimas.md#claim-t-59559|Lubavos ir Lanzanijos nobilų Kristijono valdžios pripažinimo patvirtinimas]]: Lubavos nobiliai, vadovaujami Survabūno, ir Lanzanijos nobiliai, vadovaujami Varpodos, pripažino Kristijono valdžią.
@@ -66,8 +55,8 @@ Dusburgietis teigia, kad tokiomis aplinkybėmis Lubavos žemės nobiliai, vadova
     Lanzanijos (Varmėje, Elbingo aukštumose), vadovaujami Varpodos, pripažino Kristijono
     valdžią. Abiejų užrašymus 1216.II.18 patvirtino popiežius.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -78,7 +67,8 @@ Dusburgietis teigia, kad tokiomis aplinkybėmis Lubavos žemės nobiliai, vadova
 - id: c-59396
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 42"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 42."
   citata_originali: |
     Tokiomis aplinkybėmis Lubavos žemės nobiliai, vadovaujami Survabūno,  ir
     Lanzanijos (Varmėje, Elbingo aukštumose), vadovaujami Varpodos, pripažino Kristijono
@@ -89,6 +79,3 @@ Dusburgietis teigia, kad tokiomis aplinkybėmis Lubavos žemės nobiliai, vadova
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58764
-
-## Ryšiai
-- Buvo valdoma: [[objektai/asmenys/Kristijonas|Kristijonas (vyskupas, XIII a.)]]

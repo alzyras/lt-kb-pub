@@ -30,12 +30,6 @@ Ir Smolensko vyskupas Semionas2 , ir kunigaikš čiai, ir bajorai, ir miestieči
 - t-001
   global_id: t-194143
   teiginys: "Ir Smolensko vyskupas Semionas2 , ir kunigaikš čiai, ir bajorai, ir miestiečiai, ir prastieji žmonės prisie kė Andriui laikysią jį pas save Smolensko vaivada, kaip pridera."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "224471-225417; hash=3a10c3f566c86db175b3976ff2118a7bfc2e5bf114c4763e5d73431c59b38b2d; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176756
 ## Reikšmingi paminėjimai
@@ -65,8 +59,8 @@ Ir Smolensko vyskupas Semionas2 , ir kunigaikš čiai, ir bajorai, ir miestieči
     ietimis bei strėlėmis, ir dalgiais, ir kirviais, ir ėmė
     skambinti varpu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

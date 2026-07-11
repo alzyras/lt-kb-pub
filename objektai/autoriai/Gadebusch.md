@@ -34,16 +34,6 @@ media_all_json: |-
 - t-001
   global_id: t-88056
   teiginys: "Gadebuscho „Livl. Jahrb.“ nurodytas kaip šaltinis, papildantis žinias apie nepaprastą šaltį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "161871-162363; hash=dbb741414542c43c7c44266d411199492cadd69190686105b38a28b68460012d; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Revelis: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gadebusch: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Revelis: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gadebusch\" parinktas kaip owner_note_path. Targetas \"Revelis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-84035
 ## Reikšmingi paminėjimai
@@ -65,8 +55,8 @@ media_all_json: |-
     žinioms apie tą nepaprastą šaltį
     papildyti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

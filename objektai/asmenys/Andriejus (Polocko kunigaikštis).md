@@ -35,17 +35,6 @@ Ordino magistras Zöllneris, bet šis atsisakė ir dar du kartu su Polocko kunig
 - t-001
   global_id: t-35024
   teiginys: "Polocko kunigaikštis Andriejus kartu su Ordino magistru Zöllneriu surengė žygį į Lietuvą Jogailos krikštynų ir vestuvių proga."
-  semantiniai_rysiai: "Andriejus (Polocko kunigaikštis) surengė žygį į Lietuva (0.92); Zöllneris surengė žygį į Lietuva (0.88)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "255072-255524; hash=d71d2190ed7c1b74e8ed9e9d496e9fb866d6da7fdc343fe2e331d98ac77085ae; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "surenge_zygi_i -> Lietuva: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Andriejus (Polocko kunigaikštis): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Andriejus su Ordino magistru surengė žygį į Lietuvą."
   pagrindžia:
     - c-37981
 ## Reikšmingi paminėjimai
@@ -62,8 +51,8 @@ Ordino magistras Zöllneris, bet šis atsisakė ir dar du kartu su Polocko kunig
     susitaikė su Jogaila ir skyrėsi su Ordinu, Jogailos verčiamas
     buvo priėmęs stačiatikių tikėjimą^2 ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

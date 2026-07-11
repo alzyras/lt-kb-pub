@@ -43,20 +43,6 @@ Vilniaus turguje 1580 metų birželio 18 dieną buvo nukirsdintas Jurgis Astikas
 - t-001
   global_id: t-87741
   teiginys: "Jurgis Astikas 1580 m. birželio 18 d. buvo nukirsdintas Vilniaus turguje už klastą ir tėvynės išdavystę."
-  semantiniai_rysiai: "Jurgis Astikas mirė Vilnius (0.88)"
-  temporaliniai_duomenys: "įvykio data: 1580 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "586922-587520; hash=c5b9a3a00fc7d4ddbb489f5bd8e1c0aed1e4eebfa30345fe665ac5e5490da7f4; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "mire -> Vilnius: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jurgis Astikas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Jurgis Astikas buvo nukirsdintas Vilniaus turguje, todėl tai palaiko mirties vietą Vilniuje."
   pagrindžia:
     - c-83720
 - susijęs iš Vilniaus turgus: 1580 m. birželio 18 d. Vilniaus turguje už klastą ir tėvynės išdavystę buvo nukirsdintas Jurgis Astikas.
@@ -85,8 +71,8 @@ Vilniaus turguje 1580 metų birželio 18 dieną buvo nukirsdintas Jurgis Astikas
     vyskupo stalo dvaro, vadinamo
     Vozgėliškėmis [Vaisgėliškis].
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -119,4 +105,4 @@ Vilniaus turguje 1580 metų birželio 18 dieną buvo nukirsdintas Jurgis Astikas
     - t-87741
 
 ## Ryšiai
-- Jurgis Astikas mirė [[objektai/vietos/Vilniaus turgus]], [[objektai/vietos/Vilnius]]
+- Jurgis Astikas mirė [[objektai/vietos/Vilniaus turgus]]

@@ -30,19 +30,6 @@ Treniotai buvo žadama, kad prireikus jėgos atvyks žemaičių kariuomenė ir n
 - t-001
   global_id: t-185442
   teiginys: "Treniotai buvo žadama, kad prireikus jėgos atvyks žemaičių kariuomenė ir naugardukiečių kariai."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "181105-181490; hash=c4542dbf08167be8bbc66e16317bf656858e1ed7b39cb13f5ff9b2cc5dca688c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Treniota: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Naugardukiečiai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Treniota: mention_match, person, gap=73"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Naugardukiečiai\" parinktas kaip owner_note_path. Targetas \"Treniota\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-168803
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-184594|Žemaičiai]]: Treniotai turėjo padėti jam atsidavusi žemaičių kariuomenė ir naugardukiečių kariai.
@@ -68,8 +55,8 @@ Treniotai buvo žadama, kad prireikus jėgos atvyks žemaičių kariuomenė ir n
     riais. Neilgai atsilaikė tiems kurstymams Treniotos
     širdis, iš prigimties pati linkusi į garbę.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -80,7 +67,8 @@ Treniotai buvo žadama, kad prireikus jėgos atvyks žemaičių kariuomenė ir n
 - id: c-168803
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 108"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 108."
   citata_originali: |
     Niekada prie jo
     nebūsią galima lengviau prieiti, kaip tada, kai, išren­
@@ -99,4 +87,3 @@ Treniotai buvo žadama, kad prireikus jėgos atvyks žemaičių kariuomenė ir n
 
 ## Ryšiai
 - Naugardukiečiai keliavo į [[objektai/vietos/Lietuva]]
-- Naugardukiečiai rėmė [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]

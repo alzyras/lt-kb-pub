@@ -42,17 +42,6 @@ Dusburgietis teigia, kad beveik 14 dienų žygiavęs per šią žemę nuo vieno 
 - t-001
   global_id: t-60134
   teiginys: "Henrikas iš Dobino su būriu ginklanešių nukovė 80 lietuvių, kai lietuvių kariuomenė traukėsi iš Sembos žemės."
-  semantiniai_rysiai: "Henrikas iš Dobino puolė Lietuviai (0.86)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "559031-559608; hash=5934d1180cb8a7d2690e64a5b6f80fa19b28ea9a37825be16dcf402746496631; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Lietuviai: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Henrikas iš Dobino: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Henrikas iš Dobino su būriu tiesiogiai nukovė 80 lietuvių."
   pagrindžia:
     - c-167463
 
@@ -60,20 +49,6 @@ Dusburgietis teigia, kad beveik 14 dienų žygiavęs per šią žemę nuo vieno 
 - t-002
   global_id: t-60135
   teiginys: "1300 m. Henrikas iš Dobino su kitais broliais ir 200 vyrų įsiveržė į Aukaimio pilies apylinkes ir sudegino šešis kaimus."
-  semantiniai_rysiai: "Henrikas iš Dobino puolė Aukaimis (0.86)"
-  temporaliniai_duomenys: "įvykio data: 1300 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys per ilgas ir su antraštės triukšmu; citata palaiko glaustą faktą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "604408-604797; hash=e41cf767ee9812494b40de509bdaec81c00501f82f060a1f80ab50f6f744d226; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Aukaimis: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Henrikas iš Dobino: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Aukaimis: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Henrikas iš Dobino su vyrais įsiveržė į Aukaimio pilies apylinkes."
   pagrindžia:
     - c-60767
 
@@ -81,17 +56,6 @@ Dusburgietis teigia, kad beveik 14 dienų žygiavęs per šią žemę nuo vieno 
 - t-001
   global_id: t-60134
   teiginys: "Henrikas iš Dobino su būriu ginklanešių nukovė 80 lietuvių, kai lietuvių kariuomenė traukėsi iš Sembos žemės."
-  semantiniai_rysiai: "Henrikas iš Dobino puolė Lietuviai (0.86)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "559031-559608; hash=5934d1180cb8a7d2690e64a5b6f80fa19b28ea9a37825be16dcf402746496631; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Lietuviai: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Henrikas iš Dobino: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Henrikas iš Dobino su būriu tiesiogiai nukovė 80 lietuvių."
   pagrindžia:
     - c-167463
 
@@ -99,20 +63,6 @@ Dusburgietis teigia, kad beveik 14 dienų žygiavęs per šią žemę nuo vieno 
 - t-002
   global_id: t-60135
   teiginys: "1300 m. Henrikas iš Dobino su kitais broliais ir 200 vyrų įsiveržė į Aukaimio pilies apylinkes ir sudegino šešis kaimus."
-  semantiniai_rysiai: "Henrikas iš Dobino puolė Aukaimis (0.86)"
-  temporaliniai_duomenys: "įvykio data: 1300 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys per ilgas ir su antraštės triukšmu; citata palaiko glaustą faktą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "604408-604797; hash=e41cf767ee9812494b40de509bdaec81c00501f82f060a1f80ab50f6f744d226; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Aukaimis: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Henrikas iš Dobino: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Aukaimis: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Henrikas iš Dobino su vyrais įsiveržė į Aukaimio pilies apylinkes."
   pagrindžia:
     - c-60767
 
@@ -120,12 +70,6 @@ Dusburgietis teigia, kad beveik 14 dienų žygiavęs per šią žemę nuo vieno 
 - t-005
   global_id: t-194487
   teiginys: "Apie Aukaimio pilies apylinkių nusiaubimą 1300 metais Tais pačiais metais brolis Henrikas iš Dobino ir kiti broliai su 200 vyrų įsiveržė į Aukaimio pilies apylinkes ir, sudeginęs šešis kaimus, pasitraukė paėmęs į nelaisvę ar išžudęs žmones."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "604408-604797; hash=e41cf767ee9812494b40de509bdaec81c00501f82f060a1f80ab50f6f744d226; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-60767
 - susijęs iš [[objektai/ivykiai/1289 m. rudens Sembos žemės nusiaubimas.md#claim-t-62188|1289 m. rudens Sembos žemės nusiaubimas]]: 1289 m. rudenį lietuvių karalius su 8000 raitelių įsiveržė į Sembą, sudegino pastatus ir pasėlius, bet išsigabeno palyginti nedaug grobio.
@@ -153,8 +97,8 @@ Dusburgietis teigia, kad beveik 14 dienų žygiavęs per šią žemę nuo vieno 
 
          277 (270).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -180,8 +124,8 @@ Dusburgietis teigia, kad beveik 14 dienų žygiavęs per šią žemę nuo vieno 
 
                       238 (231).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -193,7 +137,8 @@ Dusburgietis teigia, kad beveik 14 dienų žygiavęs per šią žemę nuo vieno 
 - id: c-60767
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 193"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 193."
   citata_originali: |
     Apie Aukaimio pilies apylinkių nusiaubimą 1300 metais
 
@@ -218,7 +163,8 @@ Dusburgietis teigia, kad beveik 14 dienų žygiavęs per šią žemę nuo vieno 
 - id: c-167463
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 178"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 178."
   citata_originali: |
     Apie Sembos žemės nusiaubimą
 
@@ -240,7 +186,3 @@ Dusburgietis teigia, kad beveik 14 dienų žygiavęs per šią žemę nuo vieno 
   pagrindzia:
     - t-184078
     - t-60134
-
-## Ryšiai
-- Henrikas iš Dobino puolė [[objektai/vietos/Aukaimio pilis|Aukaimio pilis (pilis)]], [[objektai/vietos/Aukaimis]], [[objektai/grupes/Lietuviai]]
-- Henrikas iš Dobino kariavo prieš [[objektai/grupes/Lietuviai]]

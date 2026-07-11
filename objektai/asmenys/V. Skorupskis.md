@@ -32,18 +32,6 @@ Skorupskio vadovaujamai kolonai (1-ojo pėst.
 - t-001
   global_id: t-40490
   teiginys: "V. Skorupskis vadovavo vidurinei kolonai, kuriai buvo įsakyta pulti Degučių-Zarasų kryptimi."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "766786-767414; hash=ddea9edf3a906deafab12f9e124ffa38b30e8fc089a826cca84892e5a53f91d8; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> brigada: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "V. Skorupskis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "brigada: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"V. Skorupskis\" parinktas kaip owner_note_path. Targetas \"brigada\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-44551
 ## Reikšmingi paminėjimai
@@ -70,8 +58,8 @@ Skorupskio vadovaujamai kolonai (1-ojo pėst.
     Purviškių-Lundaiškės linijoje, įsa-
     kyta pulti Degučių-Zarasų kryptimi.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

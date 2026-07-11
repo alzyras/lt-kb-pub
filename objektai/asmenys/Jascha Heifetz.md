@@ -42,20 +42,6 @@ Fantazuokime toliau: su dirigentų Sauliaus Sondeckio, Gintaro Rinkevičiaus ir 
 - t-001
   global_id: t-26445
   teiginys: "Jascha Heifetzas buvo 1901 m. Vilniuje gimęs ir smuiko mokęsis virtuozas."
-  semantiniai_rysiai: "Jascha Heifetz gimė Vilnius (0.99)"
-  temporaliniai_duomenys: "įvykio data: 1901 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie Jaschos Heifetzo kilmę ir veiklą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "541443-542487; hash=32ee2cc67c28586572f3f12eba546d8d294abb4b612a2c48b62328a92dd2b0b6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gime -> Vilnius: 0.99"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jascha Heifetz: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Jascha Heifetz gimė Vilniuje."
   pagrindžia:
     - c-26670
 - susijęs iš [[objektai/asmenys/Algirdas Julius Greimas.md#claim-t-78043|Algirdas Julius Greimas]]: Algirdas Julius Greimas buvo semiotikas, žinomas Prancūzijoje.
@@ -90,8 +76,8 @@ Fantazuokime toliau: su dirigentų Sauliaus Sondeckio, Gintaro Rinkevičiaus ir 
     torius iš Šiaulių Victor David Brenner (Viktoras Barnauskas, 1871–1924)
     ar Prancūzijoje labai išgarsėjęs dailininkas Vytautas Kasiulis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

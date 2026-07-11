@@ -48,23 +48,6 @@ Nenurodyta
 - t-001
   global_id: t-185672
   teiginys: "1298 m. rygiečiams pažadėjus atlyginimą, Vytenis sutelkė kariuomenę ir pagrindines pajėgas atvedė prie Karksio."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Vytenis buvo sąjungininkas su Rygiečiai (0.78)"
-  temporaliniai_duomenys: "įvykio data: 1298 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata leidžia suformuluoti pilną faktinį sakinį be boilerplate."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "301127-301941; hash=9394dff68522feb62ad07779395d5066d955f99ebe774968dc6b13b60f9dd7af; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sajungininkas_su -> Rygiečiai: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytenis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Rygiečiai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata rodo Vytenio ir rygiečių karinę sandraugą."
   pagrindžia:
     - c-169033
 
@@ -72,19 +55,6 @@ Nenurodyta
 - t-002
   global_id: t-185673
   teiginys: "Magistras Brunonas prie Treiderės upės užpuolė grobiu apsikrovusius Vytenio karius."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "302073-302531; hash=f8cc583be0ee2ec4b0a5f6fa4ee299e396338fedb278f284af6e1bc196ff1763; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Lietuviai: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Brunonas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Brunono puolimą prieš Vytenio lietuvių karius."
   pagrindžia:
     - c-169034
 
@@ -92,20 +62,6 @@ Nenurodyta
 - t-003
   global_id: t-185674
   teiginys: "Prie Treiderės upės lietuviai atrėmė kryžiuočių puolimą, privertė juos bėgti, o mūšyje žuvo magistras Brunonas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Lietuviai kariavo prieš Kryžiuočių ordinas (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "302608-303096; hash=ea34321bd51455e8a84a45dd0373f0151db1975e90ce069d73322363499d8112; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Kryžiuočių ordinas: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata tiesiogiai aprašo lietuvių kovą ir kryžiuočių kariuomenės sutriuškinimą."
   pagrindžia:
     - c-169035
 ## Reikšmingi paminėjimai
@@ -144,8 +100,8 @@ Nenurodyta
     keturi riteriai, komtūro sauga ir šiek tiek vertingesnių
     belaisvių.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -165,8 +121,8 @@ Nenurodyta
     trys tūkstančiai buvo paimta į nelaisvę, rodėsi, jog
     kryžiuočiai netoli pergalės, o lietuviams belieka bėgti.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -187,8 +143,8 @@ Nenurodyta
     tūkstančiai krito, žuvo mūšyje pats magistras su be­
     veik 20 ordino riterių.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -240,7 +196,8 @@ Nenurodyta
 - id: c-169034
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 175"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 175."
   citata_originali: |
     Pavijęs siaubėjus ne­
     toli Livonijos įlankos, magistras Brunonas nirtulingai
@@ -261,7 +218,8 @@ Nenurodyta
 - id: c-169035
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 175"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 175."
   citata_originali: |
     Kadangi iš užpakalio buvo jūra,
     vienoje pusėje trukdė Treiderės upė, o kitoje pusėje

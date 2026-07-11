@@ -40,19 +40,6 @@ media_all_json: |-
 - t-001
   global_id: t-88519
   teiginys: "„Wiadomość o funduszu i dochodach Szpitala i Probostwa Św. Trójcy w Wilnie będącego“ buvo duota 1789 m. rugsėjo 21 d."
-  temporaliniai_duomenys: "įvykio data: 1788 m.; įvykio data: 1789 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys ir atitinka citatoje pateiktą dokumento datą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "537205-537719; hash=3012a083ac7bc7be695882cb260cdfd4a1a081706378f170798b7cde263a7945; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Martynas iš Golino: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "„Wiadomość o funduszu i dochodach Szpitala i Probostwa Św. Trójcy w Wilnie będącego“: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Martynas iš Golino: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"„Wiadomość o funduszu i dochodach Szpitala i Probostwa Św. Trójcy w Wilnie będącego“\" parinktas kaip owner_note_path. Targetas \"Martynas iš Golino\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-84498
 ## Reikšmingi paminėjimai
@@ -78,8 +65,8 @@ media_all_json: |-
     jybės klebono ir kun. koadjutoriaus
     Kundzičiaus parašais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

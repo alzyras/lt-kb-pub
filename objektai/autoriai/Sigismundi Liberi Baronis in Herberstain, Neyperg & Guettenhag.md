@@ -40,9 +40,6 @@ p. 83, „LEMTINGA AROGANCIJA“, Rerum Moscoviticarum Commentarii Sigismundi Li
 - t-001
   global_id: t-39871
   teiginys: "Sigismundo Herbersteino „Rerum Moscoviticarum Commentarii“ cituojamas leidinio skyriuje „Lemtinga arogancija“."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1082286-1082565; hash=5509863fd4d1dcb78cea6812f4e80a2f3d6895ae4280947cd8dc03fb791f9a69; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-41675
 ## Reikšmingi paminėjimai
@@ -55,8 +52,8 @@ p. 83, „LEMTINGA AROGANCIJA“, Rerum Moscoviticarum Commentarii Sigismundi Li
     [1556], P. 12. (Bibliotheca Augustana):http://www.hsaugsburg.de/-harsch/Chronologia/
     Lsposti6/Sigismundus/sig_cooo.html.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

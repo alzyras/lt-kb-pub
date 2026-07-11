@@ -45,19 +45,6 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
 - t-001
   global_id: t-35040
   teiginys: "Bonifacas IX 1388–1404 m. kartu su kitais popiežiais siuntė į Malburgą bules, draudusias Vokiečių ordinui pulti lietuvius neofitus."
-  semantiniai_rysiai: "Bonifacas IX siuntė į Malburgas (0.92)"
-  temporaliniai_duomenys: "įvykio data: 1388-1404; įvykio data: 1404 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "269267-269604; hash=6fee01aa677103754d4f388f803c9eb66a542b6d3288f3e68027bf10e4d893bc; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "siunte_i -> Malburgas: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Bonifacas IX: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Malburgas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Bonifacas IX su kitais popiežiais siuntė bules į Malburgą."
   pagrindžia:
     - c-36265
 
@@ -65,17 +52,6 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
 - t-002
   global_id: t-35042
   teiginys: "Bonifacas IX parėmė Vytauto pastangas plėsti katalikybę tarp stačiatikių, patvirtindamas Vladimiro vyskupiją Volynijoje."
-  semantiniai_rysiai: "Bonifacas IX rėmė Vytautas (Lietuvos valdovas, XIV–XV a.) (0.95)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "271663-272260; hash=63e69e69ff7a8bfa8ed5e0fb654610ceb9107b6fc466755ad313b9a023fc00ad; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "reme -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Bonifacas IX: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai teigia, kad Bonifacas IX parėmė Vytauto pastangas."
   pagrindžia:
     - c-37993
 
@@ -83,23 +59,6 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
 - t-003
   global_id: t-184254
   teiginys: "1388–1404 m. popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII bulėmis draudė Vokiečių ordinui pulti lietuvius kaip neofitus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Bonifacas IX siuntė į Malburgas (0.92)"
-  temporaliniai_duomenys: "įvykio data: 1388-1404; įvykio data: 1404 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys ir citata jį pagrindžia."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "269162-269439; hash=6b9379aaa819837d7ad4ec50d9291864c28e7b1bad6204cbf15cf6f7641d72b3; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "siunte_i -> Malburgas: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Bonifacas IX: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Malburgas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad popiežiai, tarp jų Bonifacas IX, siuntė bules į Malburgą."
   pagrindžia:
     - c-167638
 - susijęs iš [[objektai/grupes/Domininkonų ordinas.md#claim-t-112511|Domininkonų ordinas]]: Bonifacas IX Vladimiro vyskupu paskyrė domininkoną Gregorijų ir taip parėmė Vytauto pastangas plėsti katalikybę.
@@ -125,8 +84,8 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
     popiežiai, turėdami savo rūpesčių, negalėjo Ordino gerai pa­
     spausti, todėl jis popiežių ir neklausė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -147,8 +106,8 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
     ir nesigirdėjo bažnyčios varpų, šaukiančių melstis tikrajam
     Dievui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -164,8 +123,8 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
     laikotarpy (1388—1404) pasiuntė į Malburgą kelias bules,
     drausdami Vok. Ordinui pulti lietuvius, kaipo neofitus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

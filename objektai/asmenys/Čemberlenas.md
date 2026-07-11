@@ -30,21 +30,6 @@ media_all_json: |-
 - t-001
   global_id: t-191989
   teiginys: "Čemberlenas perrašė Lazijaus išsaugotą užrašą, o iš Čemberleno tas užrašas vėliau pateko į Londono „Sylloge“."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "962122-962501; hash=b8bba510a161c7f669f95db780f6a766998ed662f2cb76f2ea911b3ffb354d02; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Londonas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Čemberlenas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Londonas: mention_match, place, gap=91"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Čemberlenas\" parinktas kaip owner_note_path. Targetas \"Londonas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174871
 ## Reikšmingi paminėjimai
@@ -61,8 +46,8 @@ media_all_json: |-
     dą į savo knygas vėliau įrašė gdanskietis Kliuverijus (Liuvenus),
     o vėliau — Dusburgo tęsėjas Hartknochas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -73,7 +58,8 @@ media_all_json: |-
 - id: c-174871
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 515"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 515."
   citata_originali: |
     Gal būtų pra­
     dingus toji istorija, o kartu su ja ir tas brangus paminklas, jeigu

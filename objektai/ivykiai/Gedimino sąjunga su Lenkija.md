@@ -57,19 +57,6 @@ Nenurodyta
 - t-005
   global_id: t-66537
   teiginys: "Ivinskis nurodo, kad 1325 m. taikos sutartis buvo sutvirtinta Kazimiero ir Gedimino dukters Aldonos vedybomis."
-  semantiniai_rysiai: "Aldona Gediminaitė buvo duktė Gediminas (0.98)"
-  temporaliniai_duomenys: "sutarties data: 1325 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "644030-644508; hash=d07314cab61f410fb211ae9c3796fff607db5f3a8d4ee05adee7bf9794c418e2; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_dukte -> Gediminas: 0.98"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Aldona Gediminaitė: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Gediminas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai įvardija Aldoną kaip Gedimino dukterį."
   pagrindžia:
     - c-66750
 
@@ -77,20 +64,6 @@ Nenurodyta
 - t-004
   global_id: t-66538
   teiginys: "1326 m. Gediminas pasiuntė Lokietkai 1200 Dovydo vadovaujamų vyrų kovai prieš Brandenburgo markgrafą."
-  semantiniai_rysiai: "Gediminas kariavo prieš Kryžiuočių ordinas (0.76)"
-  temporaliniai_duomenys: "įvykio data: 1326 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata leidžia tiksliau nurodyti, kam ir kokiai kovai Gediminas pasiuntė karių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "644891-645334; hash=e9903d83a80b46b8a6b4ff38d03559cfcc1e57ff146413ba433d815016102b88; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Kryžiuočių ordinas: 0.76"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata nurodo sąjungininkų bendrą kovą prieš ordiną."
   pagrindžia:
     - c-04902
 
@@ -98,19 +71,6 @@ Nenurodyta
 - t-005
   global_id: t-66540
   teiginys: "1325 m. Gediminas sudarė sąjungą su Vladislovu Lokietka ir ją sutvirtino išleisdamas dukterį Aldoną už Kazimiero Didžiojo."
-  temporaliniai_duomenys: "įvykio data: 1325 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys ilgas ir su daliniais kontekstiniais ryšiais, todėl perrašytas į glaustą faktinį sakinį."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "153044-153425; hash=2903e98baef3bb70e6ffebf88a562dcd012e53e8eddc411edc049c770e8690c7; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aldona Gediminaitė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gedimino sąjunga su Lenkija: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Aldona Gediminaitė: mention_match, person, gap=85"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gedimino sąjunga su Lenkija\" parinktas kaip owner_note_path. Targetas \"Aldona Gediminaitė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-66751
 
@@ -118,18 +78,6 @@ Nenurodyta
 - t-003
   global_id: t-66541
   teiginys: "1325 m. sutartis buvo pirmasis pastovesnis Lietuvos ir Lenkijos taikos sąlytis."
-  temporaliniai_duomenys: "sutarties data: 1325 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "153044-153425; hash=2903e98baef3bb70e6ffebf88a562dcd012e53e8eddc411edc049c770e8690c7; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gedimino sąjunga su Lenkija: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=47"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gedimino sąjunga su Lenkija\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-04901
 - susijęs iš [[objektai/asmenys/Aldona Gediminaitė.md#claim-t-05154|Aldona Gediminaitė]]: Aldona šiame šaltinyje tiesiogiai vadinama Gedimino dukterimi.
@@ -154,8 +102,8 @@ Nenurodyta
     čiamas Liublino unijos išvakarėse, t. y. beveik po pustrečio šimt­
     mečio.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -173,8 +121,8 @@ Nenurodyta
     markgrafą 1200 vyrų, kuriems vadovavo Gardino seniūnas Dovy­
     das. Sąjungininkai palaikė vienas kitą kovoje prieš ordiną.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -192,8 +140,8 @@ Nenurodyta
     Aldonos, kuri, kaip vėliau buvo pasakojama, Lenkijon atsivedusi
     24.000 Lietuvoje buvusių lenkų karo belaisvių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -222,8 +170,8 @@ Nenurodyta
     miero Didžiojo, savo
     dukterį Aldoną.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

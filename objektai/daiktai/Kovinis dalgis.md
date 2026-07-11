@@ -53,18 +53,6 @@ Nenurodyta
 - t-001
   global_id: t-39184
   teiginys: "Antanas Mackevičius sutelkė 150 dalgiais ir šautuvais ginkluotų vyrų kovai prie Naujaberžės kaimo."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "653417-653671; hash=dcc707d81896d9e398d3c87437cf8f37edf8006b0e4d8aaca54bd9e7031ab21a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kaimas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kovinis dalgis: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Kaimas: mention_match, place, gap=60"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kovinis dalgis\" parinktas kaip owner_note_path. Targetas \"Kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-40990
 
@@ -72,16 +60,6 @@ Nenurodyta
 - t-002
   global_id: t-39185
   teiginys: "Aprašytame sukilėlių būryje pusė kovotojų buvo ginkluoti dalgiais, o pusė - ietimis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "667709-668160; hash=0975bf9e56e66a5f6dda2d4ce3da200947f625c8cffbe7ef27acff02b2c92201; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Dalgis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kovinis dalgis: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Dalgis: mention_match, thing, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kovinis dalgis\" parinktas kaip owner_note_path. Targetas \"Dalgis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-40988
 ## Reikšmingi paminėjimai
@@ -96,8 +74,8 @@ Nenurodyta
 
     į save.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -115,8 +93,8 @@ Nenurodyta
     Dellingsgauzeno vadovaujamo dalinio
     puolimą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -47,19 +47,6 @@ viena iš Europos stipriausių valstybių tapusi Rusija (1721 m. pasirašius Ši
 - t-002
   global_id: t-41571
   teiginys: "1721 m. pasirašius Šiaurės karą užbaigusią Ništato sutartį, Rusija buvo iškilmingai paskelbta imperija."
-  temporaliniai_duomenys: "įvykio data: 1721 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas, konkretus ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "541972-542725; hash=144b20df0acacfc624d63e00ecdd6a58c5a4e70d883afa3de169dfdf2d53adae; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
-  ryšio_patikimumas: "susije_su -> Rusija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ništato sutartis (1721 m.): owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Rusija: mention_match, place, gap=17"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ništato sutartis (1721 m.)\" parinktas kaip owner_note_path. Targetas \"Rusija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-45010
 
@@ -67,19 +54,6 @@ viena iš Europos stipriausių valstybių tapusi Rusija (1721 m. pasirašius Ši
 - t-003
   global_id: t-41572
   teiginys: "Po 1721 m. Ništato sutarties Rusija buvo paskelbta imperija, o Prūsijos ir Brandenburgo unija pakėlė valstybės statusą iki karalystės."
-  temporaliniai_duomenys: "įvykio data: po 1721 m.; įvykio data: 1721 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie sutarties padarinius ir remiasi citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "541972-542725; hash=144b20df0acacfc624d63e00ecdd6a58c5a4e70d883afa3de169dfdf2d53adae; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
-  ryšio_patikimumas: "susije_su -> Prūsija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ništato sutartis (1721 m.): owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Prūsija: mention_match, place, gap=52"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ništato sutartis (1721 m.)\" parinktas kaip owner_note_path. Targetas \"Prūsija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-45010
 ## Reikšmingi paminėjimai
@@ -102,8 +76,8 @@ viena iš Europos stipriausių valstybių tapusi Rusija (1721 m. pasirašius Ši
     valstybės statusą iki karalystės ir ėmė sparčiai stiprėti, o Švedija
     ir ATR ėmė silpti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

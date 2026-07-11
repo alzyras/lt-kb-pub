@@ -56,19 +56,6 @@ Nenurodyta
 - t-001
   global_id: t-34540
   teiginys: "1384 m. gegužės 13 d. Vytauto atiduotame Kaune kryžiuočiai pradėjo pilies statybą."
-  temporaliniai_duomenys: "įvykio data: 1384 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pirminis teiginys per silpnai įvardija objektą, citata remia konkretesnį faktą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "92220-92570; hash=e133897511221b266cdee2de9cebb1823eff5e0cd776b471d934e1961c2ab271; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kaunas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kauno pilies statybos pradžia (1384 m. gegužės 13 d.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Kaunas: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kauno pilies statybos pradžia (1384 m. gegužės 13 d.)\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-35765
 ## Reikšmingi paminėjimai
@@ -83,8 +70,8 @@ Nenurodyta
     dalykui pritardamas, dalyvavo čia kartu su Vokiečių Ordino
     magistru, tvarkiusiu statybos reikalus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

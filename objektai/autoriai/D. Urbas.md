@@ -38,24 +38,6 @@ D. Urbas parengė tekstą 1959 m. Vilniuje išleistiems Dionizo Poškos „Rašt
 - t-001
   global_id: t-190346
   teiginys: "D. Urbas parengė tekstą 1959 m. Vilniuje išleistiems Dionizo Poškos „Raštams“."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1959 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Bibliografinė nuoroda perrašyta į sakinį apie D. Urbo vaidmenį. Nepridėta duomenų už citatoje esančios leidimo informacijos ribų."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "28201-28301; hash=51f4d3ff7784d07b4906ad00518e40a964dc9db563d4b598a92504f52a5e96ed; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "D. Urbas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=32"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"D. Urbas\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173229
 
@@ -63,24 +45,6 @@ D. Urbas parengė tekstą 1959 m. Vilniuje išleistiems Dionizo Poškos „Rašt
 - t-002
   global_id: t-190347
   teiginys: "D. Urbas išvertė 1959 m. Vilniuje išleistus L. A. Jucevičiaus „Raštus“."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1959 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sąrašo tipo bibliografinis fragmentas paverstas sakiniu apie D. Urbo atliktą vertimą. Įvado ir komentarų autoriai nepridėti, nes teiginys skirtas D. Urbui."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "67928-68045; hash=5199597cb81e867160a1a29879808f474c0f3ba6df01bb040159e8c57da279de; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "D. Urbas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=25"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"D. Urbas\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173230
 ## Reikšmingi paminėjimai
@@ -92,8 +56,8 @@ D. Urbas parengė tekstą 1959 m. Vilniuje išleistiems Dionizo Poškos „Rašt
     8 Žr.: Poška D. Raštai / Surinko V. Laurynaitis. Tekstą parengė
     D. Urbas. -  V, 1959. -  P. 330-417.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -106,8 +70,8 @@ D. Urbas parengė tekstą 1959 m. Vilniuje išleistiems Dionizo Poškos „Rašt
     22 Jucevičius L. A. Raštai / Vertė D. Urbas. įvadas M. Lukšienės.
     Komentarai M. Lukšienės ir Z. Slaviūno. -  V, 1959.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -118,7 +82,8 @@ D. Urbas parengė tekstą 1959 m. Vilniuje išleistiems Dionizo Poškos „Rašt
 - id: c-173229
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 18"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 18."
   citata_originali: |
     8 Žr.: Poška D. Raštai / Surinko V. Laurynaitis. Tekstą parengė
     D. Urbas. -  V, 1959. -  P. 330-417.
@@ -132,7 +97,8 @@ D. Urbas parengė tekstą 1959 m. Vilniuje išleistiems Dionizo Poškos „Rašt
 - id: c-173230
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 37"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 37."
   citata_originali: |
     22 Jucevičius L. A. Raštai / Vertė D. Urbas. įvadas M. Lukšienės.
     Komentarai M. Lukšienės ir Z. Slaviūno. -  V, 1959.

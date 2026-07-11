@@ -42,12 +42,6 @@ Dusburgietis teigia, kad voigt J.
 - t-001
   global_id: t-61353
   teiginys: "J. Voigto „Geschichte Preussens“ sudarė 9 tomai, leisti Karaliaučiuje 1827–1838 m."
-  temporaliniai_duomenys: "įvykio data: 1827-1838; įvykio data: 1838 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata nurodo tomų skaičių, leidimo vietą ir metų intervalą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "804066-804167; hash=fbc7bcb97bf3a7cd7f798f5b416832c8fa19448441730d23b2869b580b3310c8; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-61985
 ## Reikšmingi paminėjimai
@@ -59,8 +53,8 @@ Dusburgietis teigia, kad voigt J.
     Voigt J. Geschichte Preussens: 9 Bd., 1827—1838.— Königsberg.— Bd. 1, 1827; Bd.
     2, 1827; Bd. 3, 1828.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -71,7 +65,8 @@ Dusburgietis teigia, kad voigt J.
 - id: c-61985
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 273"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 273."
   citata_originali: |
     Voigt J. Geschichte Preussens: 9 Bd., 1827—1838.— Königsberg.— Bd. 1, 1827; Bd.
     2, 1827; Bd. 3, 1828.

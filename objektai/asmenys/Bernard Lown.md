@@ -38,20 +38,6 @@ media_all_json: |-
 - t-001
   global_id: t-18851
   teiginys: "Utenoje gimęs kardiologas Bernard Lown 1985 m. tapo Nobelio taikos premijos laureatu už kovą dėl branduolinio ginklo neplatinimo."
-  semantiniai_rysiai: "Bernard Lown gimė Utena (0.97)"
-  temporaliniai_duomenys: "įvykio data: 1865 m.; įvykio data: 1910 m.; įvykio data: 1921 m.; įvykio data: 1927 m.; įvykio data: 1935 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys išsamus, gramatiškas ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "543731-544787; hash=bb850c5f09ed2c1763ea06c3399bef58a3c2b5855f1878ee948b548ff31cd793; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gime -> Utena: 0.97"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Bernard Lown: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Utena: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Bernard Lown gimė Utenoje."
   pagrindžia:
     - c-21622
 - susijęs iš [[objektai/asmenys/Aaron Klug.md#claim-t-18753|Aaron Klug]]: Želvoje gimęs Aaron Klug 1982 m. tapo Nobelio premijos laureatu biochemijos srityje.
@@ -82,8 +68,8 @@ media_all_json: |-
     Lounas), gimęs Utenoje (kaip Boruchas Lacas 1921 m.), 1935 m. su šeima
     emigravęs į JAV.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

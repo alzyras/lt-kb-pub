@@ -36,17 +36,6 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
 - t-001
   global_id: t-32520
   teiginys: "Nustačius sieną, Nemunas, Rusnė ir Klaipėda buvo palikti Ordinui trijų mylių atstumu nuo Nemuno ir marių."
-  semantiniai_rysiai: "Rusnė priklausė Kryžiuočių ordinas (0.86); Klaipėda priklausė Kryžiuočių ordinas (0.86); Nemunas priklausė Kryžiuočių ordinas (0.78)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "979075-979574; hash=87bfc5b5699a5cdabf9168e981e8c811a645e5622d9c3a652a7f9b52de08f85c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Kryžiuočių ordinas: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Klaipėda: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Teiginys nurodo, kad Klaipėda buvo palikta Ordinui."
   pagrindžia:
     - c-34030
 
@@ -54,21 +43,6 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
 - t-002
   global_id: t-188828
   teiginys: "Narbutas aiškino, kad lietuvių protėviai Rusnę, dešiniąją Nemuno atšaką, pagal religines apeigas pavertė penktąja šventąja upe."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "386446-386916; hash=efe7d949ac897f1ab4015d85a354c340798611dcdc8d0099846006dbd5fe3acd; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Šventoji: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Rusnė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Šventoji: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rusnė\" parinktas kaip owner_note_path. Targetas \"Šventoji\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171717
 
@@ -76,21 +50,6 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
 - t-003
   global_id: t-192748
   teiginys: "Narbutas manė, kad seniausia lietuvių gyvenvietė buvo prie dešiniosios Nemuno vagos dalies, vadintos Ruse, Rusne arba Rusnia."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "394733-395340; hash=16456f8424df352154230ee67560f404c24f51957a4e4bb6f87c5e8caecab7f1; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Baltija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Rusnė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Baltija: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rusnė\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175518
 
@@ -98,22 +57,6 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
 - t-004
   global_id: t-192749
   teiginys: "Narbutas rašo, kad prie Sancinės dešinioji Nemuno vaga buvo vadinama Russ, Rusnytė, Rusna arba Rusnia."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Rusnė priklausė Nemunas (0.70)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "404110-404624; hash=e551c8ba2c7204b025ae2cc3c2de674630bc7caf55f0d9256ebc1f67af0a236b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Nemunas: 0.70"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Rusnė: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Nemunas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Rusnė apibūdinama kaip Nemuno šaka, tad vietos priklausymo Nemunui ryšys palaikomas."
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175519
 - susijęs iš [[objektai/asmenys/Henenbergeris.md#claim-t-190005|Henenbergeris]]: Henenbergeris tikino, kad XVI a. pabaigoje Sakininkų kaime prie Rusnės augo didžiulė liepa, prie kurios kaimiečiai slapčia melsdavosi.
@@ -154,8 +97,8 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
     Su Livonijos ordinu siena buvo pradėta į Baltiją įtekančia
     Šventosios upe, toliau paliekant « senas sienas » (« antiquos limites »).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -175,8 +118,8 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
     kančios per jų svarbiausias sodybas, būdavo praminamos tuo
     pačiu šventu vardu Ross.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -203,8 +146,8 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
     gali pasirodyti nauja suregzta išmone, kuri mažai susiju­
     si su nagrinėjamu dalyku.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -225,8 +168,8 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
     mis apie penkias mylias, suskyla į daugelį mažų vagų,
     arba protakų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -258,7 +201,8 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
 - id: c-171717
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 226"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 226."
   citata_originali: |
     Si ket­
     virta šventoji upė iki šiol išlaikė nepakitusį savo vardą. Lietu­
@@ -279,7 +223,8 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
 - id: c-175518
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 214"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 214."
   citata_originali: |
     Tun-
     manas savo tyrimais rodo, jog, kai lietuvių tautos tėvai
@@ -307,7 +252,8 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
 - id: c-175519
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 219"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 219."
   citata_originali: |
     Pusantros mylios už šio miesto aukštos pakrantės ima
     žemėti, vagos didingumas mažėja, o Nemunas ima vin­
@@ -325,6 +271,3 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192749
-
-## Ryšiai
-- Rusnė priklausė [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/vietos/Nemunas]]

@@ -30,12 +30,6 @@ Napoleonas leido Vilniuje įkurti savo pareigūnų prižiūrimą Laikinąją LDK
 - t-001
   global_id: t-193672
   teiginys: "Napoleonas leido Vilniuje įkurti savo pareigūnų prižiūrimą Laikinąją LDK vyriausybę, kuri palaikė viešąją tvarką krašte ir įsipareigojo organizuoti karinius dalinius, prisidėsiančius prie Napoleono kariuomenės (trečdalį jos sudarė Varšuvos kunigaikštystės."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "192030-192471; hash=2ad82e1f3389bd4953605ed0fa1673f6accb8d1efe24bf6a9831edb5d78e679d; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176341
 ## Reikšmingi paminėjimai
@@ -52,8 +46,8 @@ Napoleonas leido Vilniuje įkurti savo pareigūnų prižiūrimą Laikinąją LDK
     kunigaikštystės delegacijai, deklaruotas noras iš naujo susivienyti su Len-
     kija, susigrąžinant LDK prarastas žemes.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

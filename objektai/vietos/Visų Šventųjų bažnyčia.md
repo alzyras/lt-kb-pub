@@ -33,17 +33,6 @@ Uždarytoje Vilniaus arkikatedroje atidaryta Paveikslų galerija, panašiai prit
 - t-001
   global_id: t-21913
   teiginys: "Vilniaus Visų Šventųjų bažnyčioje sovietmečiu veikė Liaudies meno muziejus."
-  semantiniai_rysiai: "Visų Šventųjų bažnyčia priklausė Vilnius (0.70)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "451252-451602; hash=31b28648b815170e7e302bb43a63b777d281f51fb87f708394c6dba05ab3ca8e; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Vilnius: 0.70"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Visų Šventųjų bažnyčia: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai lokalizuoja Visų Šventųjų bažnyčią Vilniuje."
   pagrindžia:
     - c-24593
 ## Reikšmingi paminėjimai
@@ -58,8 +47,8 @@ Uždarytoje Vilniaus arkikatedroje atidaryta Paveikslų galerija, panašiai prit
     Įgulos bažnyčioje – Skulptūros ir vitražo muziejai, Pažaislio vienuolyne –
     M. K. Čiurlionio muziejaus senojo meno ekspozicija.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -85,6 +74,3 @@ Uždarytoje Vilniaus arkikatedroje atidaryta Paveikslų galerija, panašiai prit
   patikimumo_saltinis: ai
   pagrindzia:
     - t-21913
-
-## Ryšiai
-- Visų Šventųjų bažnyčia priklausė [[objektai/vietos/Vilnius]]

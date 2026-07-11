@@ -47,19 +47,6 @@ Nenurodyta
 - t-001
   global_id: t-87402
   teiginys: "1586 m. Lietuvos Ponų Tarybos laiškas Kristupui Radvilai pranešė apie karaliaus Stepono Batoro mirtį ir galimą kariuomenės maištą."
-  temporaliniai_duomenys: "įvykio data: 1586 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys tiksliai apibūdina cituojamo laiško paskirtį ir adresatą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "683841-684725; hash=aa4d1659ffa6bb21b1ca53c48c58398ce75684d0fefd2538049278f015c5408d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Steponas Batoras: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kristupas Radvila: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Steponas Batoras: mention_match, person, gap=42"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kristupas Radvila\" parinktas kaip owner_note_path. Targetas \"Steponas Batoras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-83382
 
@@ -67,19 +54,6 @@ Nenurodyta
 - t-003
   global_id: t-87403
   teiginys: "1586 m. atviras Lietuvos Ponų Tarybos laiškas Kristupui Radvilai įpareigojo Vilniuje parinkti namus čiaušui Ibrahimui."
-  temporaliniai_duomenys: "įvykio data: 1586 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus ir paremtas laiško antraštėje nurodytu įpareigojimu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "690267-692563; hash=ec6b043dbfafe96dbf2601c04e8dcf708efe8a8877c4bf338023e7b649976b79; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kristupas Radvila: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=30"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kristupas Radvila\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-83381
 - susijęs iš [[objektai/asmenys/Kristupas II Radvila.md#claim-t-49421|Kristupas II Radvila]]: 1633 m. žiemą tuometinis Lietuvos lauko etmonas Kristupas II Radvila atskubėjo į pagalbą.
@@ -162,8 +136,8 @@ Nenurodyta
     buvo Turkijos imperatoriaus atsiųstas pas jo karališkąją ma­
     lonybę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -200,8 +174,8 @@ Nenurodyta
     nią mūsų tarnystę, linkime Jūsų Malonybei geros sveikatos
     ir visokeriopos sėkmės.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -311,8 +285,3 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87402
-
-## Ryšiai
-- Kristupas Radvila keliavo į [[objektai/vietos/Rusija]], [[objektai/vietos/Rževas]]
-- Kristupas Radvila užėmė [[objektai/vietos/Usviatai]]
-- Kristupas Radvila surengė žygį į [[objektai/vietos/Veližas]]

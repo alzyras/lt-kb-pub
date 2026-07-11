@@ -33,14 +33,6 @@ Trečioji grupė, prasidėjus Aukščiausiosios Tarybos šturmui, turėjo pulti 
 - t-001
   global_id: t-193799
   teiginys: "Trečioji grupė, prasidėjus Aukščiausiosios Tarybos šturmui, turėjo pulti Šiaurės miestelį."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1062756-1063059; hash=eab607602af4b831facf3a362805bed7130f6e71db3602542691abd6b42662d6; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-176445
 ## Reikšmingi paminėjimai
@@ -55,8 +47,8 @@ Trečioji grupė, prasidėjus Aukščiausiosios Tarybos šturmui, turėjo pulti 
     Aukščiausiosios Tarybos šturmui, turėjo pulti Šiaurės miestelį. Tie planai, žinoma, lai-
     kui bėgant keitėsi.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -39,20 +39,6 @@ Jono Mejeno divizija, kurią sudarė 2-0ji ir 3-ioji Tautinės kavalerijos briga
 - t-001
   global_id: t-40223
   teiginys: "Gen. mjr. Jono Mejeno divizija gynė Vilnių nuo rusų puolimo."
-  semantiniai_rysiai: "Jono Mejeno divizija gynė Vilnius (0.95); Rusai puolė Vilnius (0.90)"
-  temporaliniai_duomenys: "įvykio data: 1794 m.; įvykio data: 2004 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir paremtas citatoje pateikta informacija apie Jono Mejeno diviziją."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "609065-609401; hash=6191bee5a77714110e02dca37670b95aaf0fc3b9daf6817c849e2ce58da917b7; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyne -> Vilnius: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jono Mejeno divizija: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad Jono Mejeno divizija gynė Vilnių."
   pagrindžia:
     - c-42021
 
@@ -60,17 +46,6 @@ Jono Mejeno divizija, kurią sudarė 2-0ji ir 3-ioji Tautinės kavalerijos briga
 - t-002
   global_id: t-40224
   teiginys: "Liepos ir rugpjūčio mėnesiais Vilniaus gynybai tiesiogiai vadovavo generolas majoras Jonas Mejenas."
-  semantiniai_rysiai: "Jonas Mejenas gynė Vilnius (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "612671-613189; hash=d1398e80c0192c6e8d132037e5092b5841ca30f9a490b309fc61d52dde73347a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyne -> Vilnius: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jonas Mejenas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Vadovavimas Vilniaus gynybai tiesiogiai sieja Joną Mejeną su Vilniaus gynimu."
   pagrindžia:
     - c-167132
 
@@ -78,17 +53,6 @@ Jono Mejeno divizija, kurią sudarė 2-0ji ir 3-ioji Tautinės kavalerijos briga
 - t-002
   global_id: t-40224
   teiginys: "Liepos ir rugpjūčio mėnesiais Vilniaus gynybai tiesiogiai vadovavo generolas majoras Jonas Mejenas."
-  semantiniai_rysiai: "Jonas Mejenas gynė Vilnius (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "612671-613189; hash=d1398e80c0192c6e8d132037e5092b5841ca30f9a490b309fc61d52dde73347a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyne -> Vilnius: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jonas Mejenas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Vadovavimas Vilniaus gynybai tiesiogiai sieja Joną Mejeną su Vilniaus gynimu."
   pagrindžia:
     - c-167132
 ## Reikšmingi paminėjimai
@@ -111,8 +75,8 @@ Jono Mejeno divizija, kurią sudarė 2-0ji ir 3-ioji Tautinės kavalerijos briga
     du 4-ojo pėstininkų regimento kadriniai
     batalionai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -145,8 +109,8 @@ Jono Mejeno divizija, kurią sudarė 2-0ji ir 3-ioji Tautinės kavalerijos briga
     buvo generolas leitenantas Niko-
     lajus Repinas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

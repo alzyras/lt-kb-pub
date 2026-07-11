@@ -33,20 +33,6 @@ LDK rytų slavai Rusijos žmones vadino maskvėnais, o maskvėnai savo ruožtu L
 - t-002
   global_id: t-184570
   teiginys: "Maskvėnai ryžtingai puolė Smolenską ir, sudaužę sienas, galėjo be vargo įeiti į miestą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Maskvėnai puolė Smolenskas (0.95)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "996862-997240; hash=6224c856ae298712c0bbba9065301fb81ea4cfe5ccb05837dac036c574b3e535; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Smolenskas: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Maskvėnai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Smolenskas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad maskvėnai užpuolė Smolenską."
   pagrindžia:
     - c-167931
 
@@ -54,19 +40,6 @@ LDK rytų slavai Rusijos žmones vadino maskvėnais, o maskvėnai savo ruožtu L
 - t-003
   global_id: t-184571
   teiginys: "Maskvėnai per derybas nenorėjo grąžinti nei Smolensko žemės, nei nė vieno iš Lietuvos atimto kaimo."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1154673-1155396; hash=58fd396f2afbd060f754260a9afbcb43e2e201188958b592c69ea9dfa5a31bc7; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kaimas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Maskvėnai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Kaimas: mention_match, place, gap=93"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskvėnai\" parinktas kaip owner_note_path. Targetas \"Kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-167932
 
@@ -74,19 +47,6 @@ LDK rytų slavai Rusijos žmones vadino maskvėnais, o maskvėnai savo ruožtu L
 - t-004
   global_id: t-184572
   teiginys: "Maskvėnai atidėjo derybas su Lukošiumi Garaburda ir Jonu Vilčeku, laukdami didesnius įgaliojimus turinčių pasiuntinių."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1243866-1244360; hash=6b2a4547e638657c9b556de3c91e65bc095064a743e7c3d10e1c6ad540ef5545; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "surenge_zygi_i -> Livonija: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Augustas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Livonija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Augusto žygį į Livoniją."
   pagrindžia:
     - c-167933
 
@@ -94,20 +54,6 @@ LDK rytų slavai Rusijos žmones vadino maskvėnais, o maskvėnai savo ruožtu L
 - t-006
   global_id: t-184574
   teiginys: "Maskvėnai į Livonijos žygį patraukė su 120 tūkstančių vyrų ir netrukus užėmė didelę Livonijos dalį, įskaitant Viljandį ir Dorpatą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Maskvėnai užėmė Livonija (0.92); Maskvėnai užėmė Viljandis (0.90); Maskvėnai užėmė Dorpatas (0.90); Maskvėnai surengė žygį į Livonija (0.84)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1247390-1247761; hash=b69fb1503738c0654262bac87d7ba30f36aba107fcedad505bfd1b27910dc862; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Livonija: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Maskvėnai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Livonija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad maskvėnai užėmė didelę Livonijos dalį."
   pagrindžia:
     - c-167935
 
@@ -115,12 +61,6 @@ LDK rytų slavai Rusijos žmones vadino maskvėnais, o maskvėnai savo ruožtu L
 - t-007
   global_id: t-193327
   teiginys: "Numalšinęs Livoniją ir iš siuntęs į Maskvą Palenkės vaivadą Vasilijų Tiškevičių, maršalą Mykolą Pašušvinskį bei Lietuvos raštininką Joną Gaiką, turėjusius derėtis su maskvėnais dėl taikos, kara lius iš stovyklos patraukė į Lenkiją, manydamas, jog ateina."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1246803-1247389; hash=9e91a22f0103c64eae60061ef0d744d157cfd254840fe0bcd07deef7b37f22a7; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176055
 
@@ -128,12 +68,6 @@ LDK rytų slavai Rusijos žmones vadino maskvėnais, o maskvėnai savo ruožtu L
 - t-008
   global_id: t-193328
   teiginys: "A n tra vertu s, / k u n ig aik štis Iv an as n en u trau - Maskvėnal pradeda k ė k a ro v eik sm ų n e t tuo m ekarą tu, kai k a ra lia u s įg alio tin iai b ergždžiai d e rėjo si M ask v o je."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1282584-1283546; hash=16efa80ec1199595d87111126fc58358ee72a59193a2e78025e5ec52ef406b4c; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176056
 - susijęs iš [[objektai/asmenys/Eustachijus Valavičius.md#claim-t-184697|Eustachijus Valavičius]]: Maršalas Eustachijus Valavičius dalyvavo derybose su maskvėnų pasiuntiniais.
@@ -311,8 +245,8 @@ LDK rytų slavai Rusijos žmones vadino maskvėnais, o maskvėnai savo ruožtu L
     narsumo visi priešo bandymai užgrobti pilį ne tik jam
     neatnešė naudos, bet anaiptol — galybę nuostolių.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -337,8 +271,8 @@ LDK rytų slavai Rusijos žmones vadino maskvėnais, o maskvėnai savo ruožtu L
     abi šalys susitarė dėl penkerių metų paliaubų ir Smo­
     lensko žemės sienos.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -360,8 +294,8 @@ LDK rytų slavai Rusijos žmones vadino maskvėnais, o maskvėnai savo ruožtu L
     Tuo tarpu Augustas patraukė į Livoniją su šimtu
     tūkstančių kariuomenės.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -380,8 +314,8 @@ LDK rytų slavai Rusijos žmones vadino maskvėnais, o maskvėnai savo ruožtu L
     apygardos valdytoją Dorpato vyskupą ir visą dvasinin­
     kų kolegiją.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -407,8 +341,8 @@ LDK rytų slavai Rusijos žmones vadino maskvėnais, o maskvėnai savo ruožtu L
     negalėjo nežinoti, kokiomis sąlygomis sudaryta sutar­
     tis su Livonijos magistru.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -448,8 +382,8 @@ LDK rytų slavai Rusijos žmones vadino maskvėnais, o maskvėnai savo ruožtu L
     b ergždžiai d e rėjo si M ask v o ­
     je.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -460,7 +394,8 @@ LDK rytų slavai Rusijos žmones vadino maskvėnais, o maskvėnai savo ruožtu L
 - id: c-167931
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 563"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 563."
   citata_originali: |
     Kariuo­
     menę vesti įpareigojo Joną Baltąjį, Žemaitijos vyriau­
@@ -480,7 +415,8 @@ LDK rytų slavai Rusijos žmones vadino maskvėnais, o maskvėnai savo ruožtu L
 - id: c-167932
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 648"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 648."
   citata_originali: |
     Kadangi Maskvos didikai atkirto, kad ne­
     gali būti nė kalbos apie šitokias sąlygas, pradėta derė­
@@ -506,7 +442,8 @@ LDK rytų slavai Rusijos žmones vadino maskvėnais, o maskvėnai savo ruožtu L
 - id: c-167933
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 697"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 697."
   citata_originali: |
     Antra vertus, netrukus atvyksią į Maskvą jo įgalioti
     legatai, kurie pasitarsią su Maskvos didikais ir pada­
@@ -529,7 +466,8 @@ LDK rytų slavai Rusijos žmones vadino maskvėnais, o maskvėnai savo ruožtu L
 - id: c-167935
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 699"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 699."
   citata_originali: |
     Maskvėnai, į šį žygį patraukę
     su šimtu dvidešimt tūkstančių vyrų, netrukus užėmė
@@ -549,7 +487,8 @@ LDK rytų slavai Rusijos žmones vadino maskvėnais, o maskvėnai savo ruožtu L
 - id: c-176055
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 699"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 699."
   citata_originali: |
     Numalšinęs Livoniją ir iš­
     siuntęs į Maskvą Palenkės
@@ -615,14 +554,6 @@ LDK rytų slavai Rusijos žmones vadino maskvėnais, o maskvėnai savo ruožtu L
     - t-193328
 
 ## Ryšiai
-- Priešai: [[objektai/asmenys/Konstantinas (Karijotaitis)]]
-- Sąjungininkai: [[objektai/grupes/Totoriai]]
-- Puolė Maskvėnai: [[objektai/asmenys/Konstantinas (Karijotaitis)]], [[objektai/grupes/Lietuviai]]
-- Kariavo prieš: [[objektai/asmenys/Konstantinas (Karijotaitis)]], [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Mikalojus Radvila Rudasis]]
-- Turėjo priklausinį: [[objektai/vietos/Maskva]]
-- Maskvėnai keliavo į [[objektai/vietos/Maskva]]
-- Maskvėnai puolė [[objektai/vietos/Dorpatas]], [[objektai/vietos/Lietuva]], [[objektai/vietos/Minskas]], [[objektai/vietos/Smolenskas]], [[objektai/vietos/Tykioji Sosna]], [[objektai/vietos/Viazma]], [[objektai/vietos/Vitebskas]]
-- Maskvėnai užėmė [[objektai/vietos/Dorpatas]], [[objektai/vietos/Livonija]], [[objektai/vietos/Rohačevas]], [[objektai/vietos/Viazma]], [[objektai/vietos/Viljandis]]
-- Maskvėnai surengė žygį į [[objektai/vietos/Livonija]]
-- Maskvėnai kariavo prieš [[objektai/asmenys/Konstantinas (Karijotaitis)]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Lietuvos kariuomenė]]
-- Maskvėnai dalyvavo mūšyje [[objektai/ivykiai/Karo su Maskva atsinaujinimas Ostrogiškių valdų nusiaubimas, Sitnos užėmimas ir reprezentacinio pulko sumušimas]], [[objektai/ivykiai/Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)]]
+- Maskvėnai puolė [[objektai/vietos/Lietuva]], [[objektai/vietos/Smolenskas]]
+- Maskvėnai užėmė [[objektai/vietos/Dorpatas]], [[objektai/vietos/Livonija]], [[objektai/vietos/Rohačevas]], [[objektai/vietos/Viljandis]]
+- Maskvėnai dalyvavo mūšyje [[objektai/ivykiai/Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)]]

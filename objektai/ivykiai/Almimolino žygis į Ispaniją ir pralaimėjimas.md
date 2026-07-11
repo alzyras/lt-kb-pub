@@ -51,18 +51,6 @@ Nenurodyta
 - t-001
   global_id: t-62194
   teiginys: "Almimolinas, saracėnų valdovas, su gausia kariuomene atvyko į Ispaniją, paskelbė karą krikščionims, buvo Ispanijos karalių nugalėtas ir pabėgo."
-  teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Almimolinas surengė žygį į Ispanija (0.88)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "694037-694443; hash=a9378459d9bdf4c7e70585e496075215b76fb9a7bd77fcc009abc4674ab167eb; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "surenge_zygi_i -> Ispanija: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Almimolinas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Ispanija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas nurodo Almimolino atvykimą su kariuomene į Ispaniją, todėl tai aiškus karinis žygis."
   pagrindžia:
     - c-62662
 ## Reikšmingi paminėjimai
@@ -78,8 +66,8 @@ Nenurodyta
     užpuolę, nugalėjo, o tiek daug jų kovoje krito, kad nuo užmuštų saracėnų plūdo upeliai
     kraujo. Almimolinas gėdingai pabėgo su keliais savo kariais (Ptol. 21,9; Mart. p. 392).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -90,7 +78,8 @@ Nenurodyta
 - id: c-62662
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 226"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 226."
   citata_originali: |
     Apie tai, kaip Ispanijoje buvo užmušta daugybė totorių
 

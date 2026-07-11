@@ -54,18 +54,6 @@ Nenurodyta
 - t-005
   global_id: t-179455
   teiginys: "1420 m. Vroclave imperatoriaus Zigmanto sprendimas dėl Žemaičių ir Sūduvos kryžiuočiams pripažino daugiau, negu jie patys buvo prašę."
-  temporaliniai_duomenys: "įvykio data: 1420 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "968550-968934; hash=22456d8a4068acc9361862e1b75e37585e4c2be8ca9fea62f813e17160846712; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Daugai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vroclavo sprendimas dėl Žemaičių ir Sūduvos (1420 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Daugai: mention_match, place, gap=90"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vroclavo sprendimas dėl Žemaičių ir Sūduvos (1420 m.)\" parinktas kaip owner_note_path. Targetas \"Daugai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-05001
 
@@ -73,18 +61,6 @@ Nenurodyta
 - t-008
   global_id: t-179456
   teiginys: "Melno taikos sąlygos anuliavo imperatoriaus sprendimus, priimtus Budoje 1412 m. ir Vroclave 1420 m."
-  temporaliniai_duomenys: "įvykio data: 1412 m.; įvykio data: 1420 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "981843-982227; hash=7649289de4f61a84310af00e537106b157f8a26b57a1edbd376f713125497b52; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vroclavas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vroclavo sprendimas dėl Žemaičių ir Sūduvos (1420 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Vroclavas: mention_match, place, gap=39"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vroclavo sprendimas dėl Žemaičių ir Sūduvos (1420 m.)\" parinktas kaip owner_note_path. Targetas \"Vroclavas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-163156
 
@@ -92,17 +68,6 @@ Nenurodyta
 - t-006
   global_id: t-179457
   teiginys: "Vytautas ir Jogaila po Vroclavo sprendimo tuojau pasiuntė protestus, kuriuos į Vroclavą gabeno Zbignievas Olesnickis."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) siuntė į Vroclavas (0.82)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "968550-968934; hash=22456d8a4068acc9361862e1b75e37585e4c2be8ca9fea62f813e17160846712; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "siunte_i -> Vroclavas: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vroclavas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo, kad Vytautas kartu su Jogaila pasiuntė protestus į Vroclavą."
   pagrindžia:
     - c-05001
 
@@ -110,19 +75,6 @@ Nenurodyta
 - t-009
   global_id: t-179458
   teiginys: "Melno taikos sąlygos anuliavo imperatoriaus sprendimus Budoje 1412 m. ir Vroclave 1420 m."
-  temporaliniai_duomenys: "įvykio data: 1412 m.; įvykio data: 1420 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginį reikia labiau susieti su Vroclavo sprendimu ir pašalinti perteklinę formuluotę."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "981912-982333; hash=c6255da8e534fdfcb8044db3ca5b53de32db6c65420d698a9ff57c541b0dcaca; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vroclavas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vroclavo sprendimas dėl Žemaičių ir Sūduvos (1420 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Vroclavas: mention_match, place, gap=29"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vroclavo sprendimas dėl Žemaičių ir Sūduvos (1420 m.)\" parinktas kaip owner_note_path. Targetas \"Vroclavas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-163157
 
@@ -130,16 +82,6 @@ Nenurodyta
 - t-007
   global_id: t-179459
   teiginys: "Jogaila apeliavo į popiežių Martyną V, prašydamas panaikinti Vroclavo sprendimą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "970368-970500; hash=8bf8db385c57ec9646bfefae90d003fbc4c22a875438cb110b4bd4173c30b81b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vroclavas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vroclavo sprendimas dėl Žemaičių ir Sūduvos (1420 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Vroclavas: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vroclavo sprendimas dėl Žemaičių ir Sūduvos (1420 m.)\" parinktas kaip owner_note_path. Targetas \"Vroclavas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-05002
 ## Reikšmingi paminėjimai
@@ -154,8 +96,8 @@ Nenurodyta
     broliai tuojau į Vroclavą pasiuntė savo protestus, kuriuos ten ga­
     beno savo politinę karjerą pradedąs Zbignievas Olesnickis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -169,8 +111,8 @@ Nenurodyta
     apeliavo į popiežių Martyną V, prašydamas panaikinti Vroclavo
     sprendimą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -187,8 +129,8 @@ Nenurodyta
     tinį. Melno taikos sąlygų įžeistas jautėsi ir pats imperatorius, nes
     buvo anuliuoti jo sprendimai (Budoje 1412, Vroclave 1420).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -206,8 +148,8 @@ Nenurodyta
     mantas taikėsi tačiau su Jogaila (1423), kai šis pažadėjo jį remti
     prieš sunkiai įveikiamus husitus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

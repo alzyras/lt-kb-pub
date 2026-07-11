@@ -46,19 +46,6 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
 - t-003
   global_id: t-60034
   teiginys: "Gajus Julijus Cezaris buvo Romos valstybės veikėjas, karvedys ir rašytojas, gyvenęs 102 arba 100-44 m. pr. m. e."
-  temporaliniai_duomenys: "įvykio data: 100-144"
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas enciklopedinis sakinys ir tiesiogiai paremtas išnašos tekstu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "150297-150724; hash=44862be1afac71a34d2f31b4d973e01a75626a0a68db199174ee2cb75cd46c51; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Viena: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Julijus Cezaris (vyskupas): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Viena: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Julijus Cezaris (vyskupas)\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-60666
 
@@ -66,16 +53,6 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
 - t-002
   global_id: t-60035
   teiginys: "Pasak Dusburgiečio, Julijus Cezaris buvo vienas iš senaisiais laikais su prūsais kariavusių veikėjų."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "149291-149946; hash=9eaeb2ad3553d660c5423be0370a3746202e94c9eb47660dc3865ef38a310517; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Prūsų žemė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; prusai_place_context; same_sentence_locality; single_candidate_actor; single_candidate_target; target_after_predicate"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Julijus Cezaris (vyskupas): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Prūsai: mention_match, place, gap=53"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Julijus Cezaris (vyskupas)\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-60668
 
@@ -83,16 +60,6 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
 - t-001
   global_id: t-60036
   teiginys: "Dusburgietis Julijų Cezarį įtraukia į senųjų kovotojų prieš prūsus genealogiją."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "44302-44591; hash=49c519aa0899fcdf566a6cb7d3974b06815d40c2e3e7005abf0d5d4b999526c4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Prūsai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; prusai_group_context; same_sentence_locality; single_candidate_actor; single_candidate_target; target_after_predicate"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Julijus Cezaris (vyskupas): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Prūsai: mention_match, place, gap=47"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Julijus Cezaris (vyskupas)\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-60667
 
@@ -100,14 +67,6 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
 - t-004
   global_id: t-190897
   teiginys: "Narbutas rašo, kad Julijaus Cezario laikais lietuvių vardas buvo gerai žinomas, ir šį teiginį sieja su numizmatiniais radiniais."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "485367-485537; hash=fc239879f986527b96f9965ec69296faa68331ad21eb7f936a959943aa3487bc; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-06T03:41:43Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173779
 - susijęs iš [[objektai/autoriai/Plinius C. Secundus.md#claim-t-64820|Plinius C. Secundus]]: Plinijus Vyresnysis pateikė žinių apie Nerono laikais surengtą žygį, iš kurio romėnų raitelis parvežė daug gintaro.
@@ -134,8 +93,8 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
       176 Gajus Julijus Cezaris (102 ar 100—44 m. pr. m. e.) —Romos valstybės veikėjas,
     karvedys, rašytojas.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -150,8 +109,8 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
     Cezaris, vėliau — Švedijos feodalai ir kt., kad į tai buvę nukreiptos vyskupo Kristijono bei
     Dobrynės brolių pastangos, tačiau prūsai vėl grįždavę prie savo „klaidų“.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -173,8 +132,8 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
     Potyre178, galop brolis Kristijonas, Prūsijos vyskupas, ir broliai Kristaus kariai, tai yra
     vadinamieji Dobrynės broliai.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -188,8 +147,8 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
     das buvo gerai žinomas. Tai liudija numizmatiniai radiniai (Tadeusza
     Wolanskiego listy o staroiytnoščiach slawiahskich. S, 21—22)*.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -200,7 +159,8 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
 - id: c-60666
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 48"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 48."
   citata_originali: |
     (Ts 5, 8) Šitai ir buvo tie nauji karai, kuriuos „viešpats
     išrinko“ nedraugų vartams išgriauti, nes, jiems nužudžius ar sunaikinus vieną kurį vadą
@@ -220,7 +180,8 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
 - id: c-60667
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 17"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 17."
   citata_originali: |
     Dusburgietis bando pateikti savotišką
     karų prieš prūsus genealogiją, pažymėdamas, kad prieš juos jau esąs kariavęs Julijus
@@ -236,7 +197,8 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
 - id: c-60668
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 47-48"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 47-48."
   citata_originali: |
     Apie naują Teutonų namų ordino brolių karą su prūsų gentimis
 
@@ -259,7 +221,8 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
 - id: c-173779
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 272"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 272."
   citata_originali: |
     Julijaus Cezario laikais lietuvių var­
     das buvo gerai žinomas. Tai liudija numizmatiniai radiniai (Tadeusza

@@ -30,21 +30,6 @@ Narbutas Ricimerą vadina imperatoriaus sosto griovėju ir rašo, kad jis iškė
 - t-001
   global_id: t-191464
   teiginys: "Narbutas Ricimerą vadina imperatoriaus sosto griovėju ir rašo, kad jis iškėlė Severą beveik vien Italija virtusios imperijos vadovu."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "560814-561297; hash=889733c4ea1e924e7be5c4830d9bba6b1d2a19d2d7c47b46ba1d318ffb12e9e6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Italija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Severas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Italija: mention_match, place, gap=19"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Severas\" parinktas kaip owner_note_path. Targetas \"Italija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174346
 - susijęs iš [[objektai/asmenys/Gliceras.md#claim-t-191271|Gliceras]]: Narbutas Glicerą mini tarp trumpai valdžiusių imperatorių per sumaištį iki Romulo Momilijaus Augustulo iškėlimo 475 metais.
@@ -69,8 +54,8 @@ Narbutas Ricimerą vadina imperatoriaus sosto griovėju ir rašo, kad jis iškė
     sostą pasodinti savo dar jauną sūnų Romulą Momilijų
     Augustulą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -81,7 +66,8 @@ Narbutas Ricimerą vadina imperatoriaus sosto griovėju ir rašo, kad jis iškė
 - id: c-174346
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 313"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 313."
   citata_originali: |
     Įvairiose šalyse atsirado
     įvairių imperatorių ir barbarų karaliukų. Imperatoriaus
@@ -99,6 +85,3 @@ Narbutas Ricimerą vadina imperatoriaus sosto griovėju ir rašo, kad jis iškė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191464
-
-## Ryšiai
-- Paskyrė Severą: [[objektai/asmenys/Ricimeras]]

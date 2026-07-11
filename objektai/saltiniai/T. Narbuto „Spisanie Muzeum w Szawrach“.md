@@ -30,21 +30,6 @@ I. Danilavičiaus rinkinys, davęs pradžią Lietuvos metraščių publikavimui,
 - t-001
   global_id: t-191816
   teiginys: "I. Danilavičiaus rinkinys, davęs pradžią Lietuvos metraščių publikavimui, buvo T. Narbuto Saurų dvaro bibliotekoje."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "864082-864265; hash=36037fdb501e34aa6a6a270dbb51cc5cb488fcefacafb1666f74799698758df2; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Šaurų dvaras: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "T. Narbuto „Spisanie Muzeum w Szawrach“: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Šaurų dvaras: mention_match, place, gap=17"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"T. Narbuto „Spisanie Muzeum w Szawrach“\" parinktas kaip owner_note_path. Targetas \"Šaurų dvaras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174698
 ## Reikšmingi paminėjimai
@@ -62,8 +47,8 @@ I. Danilavičiaus rinkinys, davęs pradžią Lietuvos metraščių publikavimui,
     Nr.
     85).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -74,7 +59,8 @@ I. Danilavičiaus rinkinys, davęs pradžią Lietuvos metraščių publikavimui,
 - id: c-174698
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 474"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 474."
   citata_originali: |
     Minėtas I. Danilavičiaus rinkinys,
     davęs pradžią Lietuvos metraščių publikavimui, buvo T. Narbuto

@@ -33,17 +33,6 @@ LAF programoje ir kituose dokumentuose neišvengta nacionalistinės retorikos, a
 - t-001
   global_id: t-21115
   teiginys: "Kazys Škirpa manė, kad Lietuvių aktyvistų frontas turi palaikyti ypač glaudžius ryšius su nacių Vokietija."
-  semantiniai_rysiai: "Lietuvių aktyvistų frontas buvo sąjungininkas su Nacių Vokietija (0.83)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "395164-395827; hash=9d57a9c593c1717edca9a276b7495dc00faf6fdae7b0f9dd339ab4822105cfb3; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sajungininkas_su -> Nacių Vokietija: 0.83"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuvių aktyvistų frontas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Nacių Vokietija: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad LAF turėjo palaikyti glaudžius ryšius su nacių Vokietija; tai atitinka sąjungininkišką politinį ryšį."
   pagrindžia:
     - c-23826
 ## Reikšmingi paminėjimai
@@ -63,8 +52,8 @@ LAF programoje ir kituose dokumentuose neišvengta nacionalistinės retorikos, a
     K. Škirpa manė, kad nauja organizacija turi palaikyti ypač glaudžius
     ryšius su nacių Vokietija.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

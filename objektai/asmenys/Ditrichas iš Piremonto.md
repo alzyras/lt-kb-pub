@@ -32,16 +32,6 @@ Dusburgietis teigia, kad kai po to broliai pasuko atgal, suplūdo, išvydę min�
 - t-001
   global_id: t-60267
   teiginys: "Ditrichas iš Piremonto žuvo, kai vietos stabmeldžiai užpuolė nuo pilies pasitraukiančius Ordino brolius."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "662547-662952; hash=a85a3802a2e093025020e8bbb2e9ca59108413da18da626dddf61f993c636c21; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> stabmeldžiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ditrichas iš Piremonto: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "stabmeldžiai: mention_match, thing, gap=40"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ditrichas iš Piremonto\" parinktas kaip owner_note_path. Targetas \"stabmeldžiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-60899
 - susijęs iš [[objektai/zodynas/pilėnas pilėnai.md#claim-t-58797|pilėnas pilėnai]]: Junigedos pilėnai, įspėti apie artėjančią brolių kariuomenę, ugnimi ir dūmais pranešė kaimyniniams stabmeldžiams.
@@ -63,8 +53,8 @@ Dusburgietis teigia, kad kai po to broliai pasuko atgal, suplūdo, išvydę min�
 
                 335 (328).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -75,7 +65,8 @@ Dusburgietis teigia, kad kai po to broliai pasuko atgal, suplūdo, išvydę min�
 - id: c-60899
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 214"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 214."
   citata_originali: |
     Broliai
     priartėję smarkiai užpuolė šią  pilį, galop po ilgų grumtynių pelenais pavertė papilį,

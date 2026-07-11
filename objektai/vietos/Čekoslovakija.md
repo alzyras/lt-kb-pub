@@ -40,19 +40,6 @@ S-gą suvaržyti pasižadėjimais saugoti mažumų teises, kaip tat buvo padaryt
 - t-001
   global_id: t-02908
   teiginys: "Su Čekoslovakija buvo sudaryta sutartis, įpareigojusi saugoti mažumų teises."
-  temporaliniai_duomenys: "sutarties data: 1921 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Reikia aiškiau perteikti citatoje minimą sutarties pobūdį."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "1149092-1149871; hash=357802662d9edda5ba875e8e946a8a7e030f4607b87031c3bd5eaf72777f5213; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Estija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Čekoslovakija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Estija: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Čekoslovakija\" parinktas kaip owner_note_path. Targetas \"Estija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-03146
 - susijęs iš Kauno IX fortas: Kauno IX forte sušaudyta apie 6–8 tūkst. žydų, atvežtų iš Austrijos, Vokietijos, Čekoslovakijos ir Prancūzijos.
@@ -79,8 +66,8 @@ S-gą suvaržyti pasižadėjimais saugoti mažumų teises, kaip tat buvo padaryt
     o Lietuvai tokį pripažinimą dar atidėjo, ligi bus išspręstas kon-
     fliktas su Lenkija.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

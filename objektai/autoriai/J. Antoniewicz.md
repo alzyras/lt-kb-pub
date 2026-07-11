@@ -41,16 +41,6 @@ Antoniewicz, J.
 - t-001
   global_id: t-30658
   teiginys: "J. Antoniewicz rašė apie sūduvius, jotvingius ir romėniškos provincinės kultūros importus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "343052-344006; hash=98e8d816a9100b3e1d218ea6e425fa7f13c23443f57103c63d34e927fbe66592; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "J. Antoniewicz: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"J. Antoniewicz\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-32954
 ## Reikšmingi paminėjimai
@@ -74,8 +64,8 @@ Antoniewicz, J.
     z okresu Rzymskiego_ , RoB, III, 1962, 205-223 p. (Žr. T. Dzierzykray-
     Rogalski padarytą to kapo analizę : RoB, III, 1962, 225-252 p.).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -39,12 +39,6 @@ media_all_json: |-
 - t-001
   global_id: t-42482
   teiginys: "Prie sienos nustatyta 6 km pločio neutrali zona, todėl abi pusės turėjo pasitraukti po 3 km."
-  temporaliniai_duomenys: "įvykio data: iki 1939 m.; įvykio data: 1923 m.; įvykio data: 1939 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata nepagrindžia neutralios zonos nustatymo metų, todėl pašalinta nepagrįsta data."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "869654-869942; hash=b62307c57cb93565e656b88eb4173c6d7b0a055825b7fe0377a2da520ee67162; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-45535
 ## Reikšmingi paminėjimai
@@ -76,8 +70,8 @@ media_all_json: |-
     nustatyta demarkacinė linija, galiojusi iki
     1939 m. Prasidėjo pasikeitimas belaisviais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

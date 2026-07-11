@@ -41,16 +41,6 @@ media_all_json: |-
 - t-001
   global_id: t-40866
   teiginys: "Bermontininkai buvo rusų monarchistų ir vokiečių organizuoti rusų bei vokiečių savanorių daliniai."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "783508-784051; hash=ab04d2fef9fb23d53f926f122625f6607c92c4afa42bdb25ac97e02bb46ffd47; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Rusai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Bermontininkai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Rusai: mention_match, group, gap=20"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bermontininkai\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-42650
 
@@ -58,19 +48,6 @@ media_all_json: |-
 - t-003
   global_id: t-40867
   teiginys: "1919 m. spalio 16 d. Lietuvos vyriausybė priėmė sprendimą jėga išvaryti bermontininkus iš Lietuvos."
-  temporaliniai_duomenys: "įvykio data: 1919 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Paliktas aiškiausiai su bermontininkais susijęs faktas apie sprendimą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "785749-786121; hash=bd1bcfaadfa47ba91daff6231d777d6255e4fef89e200531005bb6ef70c75404; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Bermontininkai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=51"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bermontininkai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-44726
 
@@ -78,17 +55,6 @@ media_all_json: |-
 - t-002
   global_id: t-40868
   teiginys: "Bermontininkai užėmė Šiaurės Lietuvą ir, palaipsniui judėdami į pietus, pasiekė Raseinius."
-  semantiniai_rysiai: "Bermontininkai užėmė Lietuva (0.92); Bermontininkai keliavo į Raseiniai (0.88)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "785370-785747; hash=2a89bd37ae71eea84fe3f256e70f9de4c4c9dab2bdd75e5247907701f819b6c7; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Lietuva: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Bermontininkai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginyje tiesiogiai sakoma, kad bermontininkai užėmė Šiaurės Lietuvą."
   pagrindžia:
     - c-42652
 - susijęs iš [[objektai/ivykiai/Radviliškio kautynės (1919 m. lapkričio 21–22 d.).md#claim-t-66849|Radviliškio kautynės (1919 m. lapkričio 21–22 d.)]]: 1919 m. lapkričio 22 d. Panevėžio batalionas išmušė bermontininkus iš Meškuičių, o Vilniaus batalionas - iš Pašiaušės ir Padubysio.
@@ -165,8 +131,8 @@ media_all_json: |-
     nes laikė šiuos kraštus neatskiriama Rusijos
     dalimi.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -189,8 +155,8 @@ media_all_json: |-
     vikų fronte veikusių Lietuvos
     kariuomenės dalinių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -212,8 +178,8 @@ media_all_json: |-
     Bermonto pajėgų sudarė vokiečių sa-
     vanoriai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -301,8 +267,7 @@ media_all_json: |-
     - t-40867
 
 ## Ryšiai
-- Puolė Bermontininkai: [[objektai/asmenys/Kazys Ladyga]], [[objektai/grupes/Panevėžio batalionas]]
-- Kariavo prieš: [[objektai/grupes/Lietuvos kariuomenė]], [[objektai/grupes/Lietuvos Respublika]], [[objektai/grupes/Panevėžio batalionas]]
-- Bermontininkai keliavo į [[objektai/vietos/Kuršėnai]], [[objektai/vietos/Raseiniai]]
-- Bermontininkai užėmė [[objektai/vietos/Kuršėnai]], [[objektai/vietos/Lietuva]]
-- Bermontininkai surengė žygį į [[objektai/vietos/Lietuva]]
+- Puolė Bermontininkai: [[objektai/grupes/Panevėžio batalionas]]
+- Kariavo prieš: [[objektai/grupes/Lietuvos Respublika]]
+- Bermontininkai keliavo į [[objektai/vietos/Raseiniai]]
+- Bermontininkai užėmė [[objektai/vietos/Lietuva]]

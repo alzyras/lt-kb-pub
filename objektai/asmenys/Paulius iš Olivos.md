@@ -35,17 +35,6 @@ Kai maždaug tuo metu sužinota, jog Gedimino skundas tikrai popiežiui pasiųst
 - t-001
   global_id: t-87818
   teiginys: "Paulius iš Olivos kartu su Jordanu iš Pelplino laiškais popiežiui gynė kryžiuočius nuo Gedimino skundo."
-  semantiniai_rysiai: "Paulius iš Olivos gynė Kryžiuočių ordinas (0.96); Paulius iš Olivos buvo sąjungininkas su Jordanas iš Pelplino (0.84)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "178501-179518; hash=c7727a9936e60cd4db58aecbc83230029c830c8b308d55f8a267c197d2b108c9; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyne -> Kryžiuočių ordinas: 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Paulius iš Olivos: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Paulius iš Olivos stojo ginti kryžiuočių."
   pagrindžia:
     - c-83797
 - susijęs iš Olivos ir Pelplino abatų laiškas dėl Teutonų ordino garbės (1324 m.): Olivos abatas Paulius ir Pelplino abatas Jordanas laiškais popiežiui gynė Teutonų ordino brolių garbę.
@@ -86,8 +75,8 @@ Kai maždaug tuo metu sužinota, jog Gedimino skundas tikrai popiežiui pasiųst
     genti peccatrici, populo nequam, filiis
     sceleratis aliqua pactione conjungi.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -126,6 +115,5 @@ Kai maždaug tuo metu sužinota, jog Gedimino skundas tikrai popiežiui pasiųst
     - t-87818
 
 ## Ryšiai
-- Sąjungininkai: [[objektai/asmenys/Jordanas iš Pelplino]]
-- Paulius iš Olivos gynė [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Teutonai]]
+- Paulius iš Olivos gynė [[objektai/grupes/Kryžiuočių ordinas]]
 - Paulius iš Olivos rėmė [[objektai/grupes/Kryžiuočių ordinas]]

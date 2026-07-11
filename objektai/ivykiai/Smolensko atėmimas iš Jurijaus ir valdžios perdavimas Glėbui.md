@@ -42,19 +42,6 @@ Nenurodyta
 - t-001
   global_id: t-185828
   teiginys: "Jurijui pabėgus iš Smolensko pas uošvį, smolenskiečiai atidavė pilį ir visą žemę Vytautui."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "608053-608840; hash=902f8a920cb92270d7a287d13998755b7aaa8c0cb71e2303bb37f44f6830adf2; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Smolenskas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Smolensko atėmimas iš Jurijaus ir valdžios perdavimas Glėbui: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Smolenskas: mention_match, place, gap=3"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Smolensko atėmimas iš Jurijaus ir valdžios perdavimas Glėbui\" parinktas kaip owner_note_path. Targetas \"Smolenskas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-169189
 ## Reikšmingi paminėjimai
@@ -88,8 +75,8 @@ Nenurodyta
     mas, tuo tarpu Riazanės kunigaikštis po senovei kurstė
     maištą, ieškodamas tinkamos dingsties.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

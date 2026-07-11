@@ -38,16 +38,6 @@ Mėlynųjų Vandenų įvykių pagrindiniai šaltiniai: žinios xv a. pirmosios p
 - t-004
   global_id: t-08845
   teiginys: "Rogožos metraštis plačiausiai nušvietė pirmąjį Lietuvos kariuomenės žygį į Maskvą ir pabrėžė Algirdo kariavimą gudrumu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "185689-186126; hash=81ea345a8e3f3db199c3b6013983a37962aa3872b341f17f1f8f154d5af8713f; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
-  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Rogožos metraštis: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person, gap=93"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rogožos metraštis\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-11147
 
@@ -55,16 +45,6 @@ Mėlynųjų Vandenų įvykių pagrindiniai šaltiniai: žinios xv a. pirmosios p
 - t-003
   global_id: t-08846
   teiginys: "Rogožos metraštyje prie 6871 (1363) m. rašoma, kad rudenį Algirdas nukariavo Mėlynuosius Vandenis ir Baltąją pakrantę."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "178683-179174; hash=607117d0dd7c1751177719500eaca58bfa917ed95b6b842e3a7a6d70646c597a; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Rogožos metraštis: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rogožos metraštis\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-11148
 ## Reikšmingi paminėjimai
@@ -85,8 +65,8 @@ Mėlynųjų Vandenų įvykių pagrindiniai šaltiniai: žinios xv a. pirmosios p
     „kariavimą gudrumu“, iškeliami jo kari-
     niai sugebėjimai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -109,8 +89,8 @@ Mėlynųjų Vandenų įvykių pagrindiniai šaltiniai: žinios xv a. pirmosios p
     Podolę“ - plačiausiai kalbantis šaltinis
     šia tema.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

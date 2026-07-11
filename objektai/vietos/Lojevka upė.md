@@ -34,17 +34,6 @@ Radvilos pajėgų sparnuose stovėjo pėstininkai ir dragūnai (jie gynė Lojevk
 - t-001
   global_id: t-41884
   teiginys: "Radvilos pajėgų sparnuose stovėję pėstininkai ir dragūnai gynė Lojevkos upės, juosiančios stovyklą, užtvanką."
-  semantiniai_rysiai: "Lietuviai gynė Lojevka upė (0.80)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "496262-496659; hash=8d4f82c523419c81dfc7d274f1ff46adbfcdd04bfbe44f219b9766f1a484d175; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyne -> Lojevka upė: 0.80"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lojevka upė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Lietuvių pėstininkai ir dragūnai gynė Lojevkos upės užtvanką."
   pagrindžia:
     - c-45193
 ## Reikšmingi paminėjimai
@@ -63,8 +52,8 @@ Radvilos pajėgų sparnuose stovėjo pėstininkai ir dragūnai (jie gynė Lojevk
     atlaikė kazokų kavalerijos ataką ir apgynė
     savo flangus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -94,6 +83,3 @@ Radvilos pajėgų sparnuose stovėjo pėstininkai ir dragūnai (jie gynė Lojevk
   patikimumo_saltinis: ai
   pagrindzia:
     - t-41884
-
-## Ryšiai
-- Gynė Lojevka upę: [[objektai/grupes/Lietuviai]]

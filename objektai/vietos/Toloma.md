@@ -30,22 +30,6 @@ Teodoras Narbutas nurodo, kad senovės tyrinėtojai Tolomą siejo su Valmieros a
 - t-001
   global_id: t-192905
   teiginys: "Teodoras Narbutas nurodo, kad senovės tyrinėtojai Tolomą siejo su Valmieros apylinkėmis Uždauguvio skirstyme."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Toloma priklausė Uždauguvis (0.90); Latviai gyveno Kuršas (0.88); Latviai gyveno Piltenė (0.86); Latviai gyveno Livonija (0.80)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "520931-521820; hash=d33e634c44b7c3f12213cb3cd41ce57626ae93eec680b6f7e01a2a9bafcdd2f0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Uždauguvis: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Toloma: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Uždauguvis: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Toloma pateikiama kaip viena Uždauguvio skirstymo dalių."
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175675
 ## Reikšmingi paminėjimai
@@ -73,8 +57,8 @@ Teodoras Narbutas nurodo, kad senovės tyrinėtojai Tolomą siejo su Valmieros a
     1 Žemėlapis Kruzės veikale „Necrolivonica"**,
     2 Lett.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -85,7 +69,8 @@ Teodoras Narbutas nurodo, kad senovės tyrinėtojai Tolomą siejo su Valmieros a
 - id: c-175675
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 290"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 290."
   citata_originali: |
     Šios lietuvių tautos valdos yra iškovotos iš
     lyvių, todėl vadinamos Livonija labai seniai ir gerokai

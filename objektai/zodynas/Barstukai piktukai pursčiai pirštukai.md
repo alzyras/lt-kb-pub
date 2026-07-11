@@ -30,21 +30,6 @@ Narbutas nurodė nuomonę, kad pirštukai (Pirsztuki) taip vadinti nuo žodžio 
 - t-001
   global_id: t-189115
   teiginys: "Narbutas nurodė nuomonę, kad pirštukai (Pirsztuki) taip vadinti nuo žodžio „pirštas“, nes tos mitinės būtybės laikytos mažomis kaip pirštai."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "308817-309090; hash=5ae5527376cac62f858ed0e187dd4cfa430d658dfe445d0df11e7b0acb68e25d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vokiečiai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Barstukai piktukai pursčiai pirštukai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Vokiečiai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Barstukai piktukai pursčiai pirštukai\" parinktas kaip owner_note_path. Targetas \"Vokiečiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172003
 ## Reikšmingi paminėjimai
@@ -59,8 +44,8 @@ Narbutas nurodė nuomonę, kad pirštukai (Pirsztuki) taip vadinti nuo žodžio 
     tai. Vokiečiai dėl tos pačios priežasties juos vadino “Däumling”. Pas
     čekus taip pat būta panašaus dievuko, vadinto „Pidimužik“*.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -71,7 +56,8 @@ Narbutas nurodė nuomonę, kad pirštukai (Pirsztuki) taip vadinti nuo žodžio 
 - id: c-172003
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 179"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 179."
   citata_originali: |
     17
     Kiti mano, jog turėtų vadintis pirštukais (Pirsztuki) -  nuo žodžio

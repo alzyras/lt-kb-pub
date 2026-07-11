@@ -41,18 +41,6 @@ IV Kražių apygardoje buvo Kaune, Kretingoje, Panevėžy, Raseiniuose ir Ukmerg
 - t-002
   global_id: t-171658
   teiginys: "Geležinkelio linija Klaipėda–Šiauliai per Kretingą ir Kužius buvo baigta tiesti tik 1936 m."
-  temporaliniai_duomenys: "įvykio data: 1936 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "880549-880866; hash=8651c64bd874bc7d2289c66eca2f305232d7e5246831e60540be9f4db83eab4a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kužiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kretinga: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kužiai: mention_match, place, gap=12"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kretinga\" parinktas kaip owner_note_path. Targetas \"Kužiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-43518
 
@@ -60,16 +48,6 @@ IV Kražių apygardoje buvo Kaune, Kretingoje, Panevėžy, Raseiniuose ir Ukmerg
 - t-010
   global_id: t-171659
   teiginys: "Jono Budrio traukinys per Mažeikius ir Latvijos Priekulę atvyko į Kretingą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "880396-880547; hash=37b548b9c0f6f6db949c797304b9498a04c070a7933e272357acd8e25d198e26; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Latvija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kretinga: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Latvija: mention_match, place, gap=27"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kretinga\" parinktas kaip owner_note_path. Targetas \"Latvija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-156139
 
@@ -77,19 +55,6 @@ IV Kražių apygardoje buvo Kaune, Kretingoje, Panevėžy, Raseiniuose ir Ukmerg
 - t-003
   global_id: t-183032
   teiginys: "IV Kražių apygardoje apygardėlinės mokyklos buvo Kaune, Kretingoje, Panevėžyje, Raseiniuose ir Ukmergėje."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "853346-853783; hash=a411b58d54838643a813c044d7ce2e9d02a5f6f69a8df6921c46771cbc33d2ed; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Raseiniai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kretinga: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Raseiniai: mention_match, place, gap=24"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kretinga\" parinktas kaip owner_note_path. Targetas \"Raseiniai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-166424
 - susijęs iš [[objektai/grupes/SD Einsatzgruppen.md#claim-t-19997|SD Einsatzgruppen]]: 1941 m. birželį SD Einsatzgruppen organizavo terorą, per kurį pasienyje buvo šaudomi žydai Gargžduose, Kretingoje, Palangoje ir kitur.
@@ -131,8 +96,8 @@ IV Kražių apygardoje buvo Kaune, Kretingoje, Panevėžy, Raseiniuose ir Ukmerg
     Klaipėdos kraštu vykti per Latviją (tai buvo ne-
     oficialiai suderinta su Latvijos vyriausybe).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -148,8 +113,8 @@ IV Kražių apygardoje buvo Kaune, Kretingoje, Panevėžy, Raseiniuose ir Ukmerg
     @ 1. Budrio traukinys per Mažeikius, per Latvijos
     teritoriją (Priekulę) atvyksta į Kretingą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -167,8 +132,8 @@ IV Kražių apygardoje buvo Kaune, Kretingoje, Panevėžy, Raseiniuose ir Ukmerg
     Dombrovicoje, Liubešave ir Žuravicuose. IV Kražių apygar-
     doje buvo Kaune, Kretingoje, Panevėžy, Raseiniuose ir Ukmergėje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -38,20 +38,6 @@ media_all_json: |-
 - t-001
   global_id: t-22167
   teiginys: "1812 m. antrojoje pusėje Lietuvos priklausymą Rusijos imperijai pusmečiui pertraukė Napoleono Bonaparto interliudas."
-  semantiniai_rysiai: "Lietuva priklausė Rusija (0.78)"
-  temporaliniai_duomenys: "įvykio data: 1812 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalintas OCR ir antraštės triukšmas, suformuluotas aiškus sakinys apie interliudą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "180467-181252; hash=e8825ed65636f6a15ac4991c5a631b220f8f2e0495927a77d084f4a01d0f8303; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Rusija: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Rusija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai kalba apie Lietuvos priklausymą Rusijos imperijai; kandidatas pateiktas kaip Rusija."
   pagrindžia:
     - c-24853
 ## Reikšmingi paminėjimai
@@ -78,8 +64,8 @@ media_all_json: |-
     mečiui 1812 m. antrojoje pusėje įsiterpusį Napoleono Bonaparto „inter-
     liudą“).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

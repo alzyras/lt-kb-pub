@@ -45,21 +45,6 @@ Nenurodyta
 - t-001
   global_id: t-189901
   teiginys: "Žymesni asmenys laidoti su luomui būdingais drabužiais ir gyvenimo užsiėmimą žymėjusiais daiktais, pavyzdžiui, karys su ginklu, o amatininkas su įrankiais."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "642293-642866; hash=99eff78fad4ba13ff4573fd7b081169d6bd64b66c70edfb584529be535b8896d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Drabužiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Įkapių dėjimas pagal mirusiojo luomą ir gyvenimo užsiėmimą: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Drabužiai: mention_match, thing, gap=17"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Įkapių dėjimas pagal mirusiojo luomą ir gyvenimo užsiėmimą\" parinktas kaip owner_note_path. Targetas \"Drabužiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172784
 ## Reikšmingi paminėjimai
@@ -79,8 +64,8 @@ Nenurodyta
     smagračiai, kartais variniai lygintuvai rūbams lyginti (turiu to­
     kio lygintuvo liekanas, iškastas Obeliuose).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -91,7 +76,8 @@ Nenurodyta
 - id: c-172784
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 363"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 363."
   citata_originali: |
     Kartais jie būna apdėti ak­
     menimis, dar kyšančiais iš žemės, bet labai retai. Žymesnių

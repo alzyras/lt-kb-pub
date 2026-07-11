@@ -35,17 +35,6 @@ Kai maždaug tuo metu sužinota, jog Gedimino skundas tikrai popiežiui pasiųst
 - t-001
   global_id: t-86635
   teiginys: "Mažesniųjų brolių Prūsijos kustodas ir Torunės, Kulmo, Braunsbergo bei Neuenbergo gvardijonai stojo ginti kryžiuočių dėl Gedimino skundo popiežiui."
-  semantiniai_rysiai: "Paulius iš Olivos rėmė Kryžiuočių ordinas (0.76); Jordanas iš Pelplino rėmė Kryžiuočių ordinas (0.76)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "178501-179518; hash=c7727a9936e60cd4db58aecbc83230029c830c8b308d55f8a267c197d2b108c9; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "reme -> Kryžiuočių ordinas: 0.76"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Paulius iš Olivos: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Paulius iš Olivos minimas tarp asmenų, stojusių ginti kryžiuočių, todėl tai laikytina parama ordinui."
   pagrindžia:
     - c-82614
 ## Reikšmingi paminėjimai
@@ -73,8 +62,8 @@ Kai maždaug tuo metu sužinota, jog Gedimino skundas tikrai popiežiui pasiųst
     genti peccatrici, populo nequam, filiis
     sceleratis aliqua pactione conjungi.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

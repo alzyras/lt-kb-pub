@@ -40,19 +40,6 @@ Užrašas ant pritvirtintos prie buožės lentelės: „Šitas Šautuvas yra 5 p
 - t-001
   global_id: t-41480
   teiginys: "Ant prie buožės pritvirtintos lentelės buvo užrašyta: „Šitas Šautuvas yra 5 p. pulko pirmas karo grobis paimtas mūšyje ties Seinais iš lenkų“."
-  temporaliniai_duomenys: "įvykio data: 1920 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie užrašą ir remiasi citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "805466-805923; hash=efc17c1b03533590f4b8baf3f190e8f81b502966cfdcda9d06622d67b39fe6c4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Seinai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Šitas Šautuvas yra 5 p. pulko pirmas karo grobis paimtas mūšyje ties Seinais iš lenkų (mūšis): owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Seinai: mention_match, place, gap=120"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šitas Šautuvas yra 5 p. pulko pirmas karo grobis paimtas mūšyje ties Seinais iš lenkų (mūšis)\" parinktas kaip owner_note_path. Targetas \"Seinai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-44972
 ## Reikšmingi paminėjimai
@@ -72,8 +59,8 @@ Užrašas ant pritvirtintos prie buožės lentelės: „Šitas Šautuvas yra 5 p
     100 kulkosvaidžių), 3 baterijos (12 artilerijos
     pabūklų) ir 1 raitininkų eskadronas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

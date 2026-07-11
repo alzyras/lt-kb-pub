@@ -30,21 +30,6 @@ Teodoro Narbuto aiškinime Plinijus Panotii vadino pasakojimo apie ilgaausius ž
 - t-001
   global_id: t-191710
   teiginys: "Teodoro Narbuto aiškinime Plinijus Panotii vadino pasakojimo apie ilgaausius žmones veikėjus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "318407-318882; hash=03f43e25bd6767c11d4f003dae1edd5b47da4afa26c6561535a58a779f79386e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Romai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Plinijaus „Naturalis historia“: owner_note_path, source"
-  ryšio_targeto_parinkimas: "Romai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Plinijaus „Naturalis historia“\" parinktas kaip owner_note_path. Targetas \"Romai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174592
 ## Reikšmingi paminėjimai
@@ -65,8 +50,8 @@ Teodoro Narbuto aiškinime Plinijus Panotii vadino pasakojimo apie ilgaausius ž
     sumanė atgabenti daug gintaro iš tų vietų, kur jis gauna­
     mas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -77,7 +62,8 @@ Teodoro Narbuto aiškinime Plinijus Panotii vadino pasakojimo apie ilgaausius ž
 - id: c-174592
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 174"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 174."
   citata_originali: |
     O gal pasitaikė
     iš toto regėti žmogų su didele kailine kepure ilgomis au­

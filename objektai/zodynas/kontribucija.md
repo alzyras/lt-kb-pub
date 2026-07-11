@@ -40,17 +40,6 @@ media_all_json: |-
 - t-011
   global_id: t-181977
   teiginys: "Totoriai pasuko Kijevo link ir paėmė iš miesto 3000 rublių kontribucijos."
-  semantiniai_rysiai: "Totoriai keliavo į Kijevas (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "177387-177621; hash=54bcb99cb932c6f126c92828d61b6476040436c84f3a65b9b5befa00afaaa725; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Kijevas: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Totoriai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Kijevas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo totorių judėjimą Kijevo link."
   pagrindžia:
     - c-37924
 ## Reikšmingi paminėjimai
@@ -64,8 +53,8 @@ media_all_json: |-
     link, paėmė iš jo 3000 rublių kontribucijos. Po to dar pasu­
     ko į Lucko žemes, ir tik iš ten grįžo į savo stepes.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

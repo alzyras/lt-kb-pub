@@ -40,18 +40,6 @@ media_all_json: |-
 - t-001
   global_id: t-40618
   teiginys: "Girolamo Lippomano 1575 m. aprašė Lenkijos ir Lietuvos kariuomenių stovyklos įsirengimo būdą."
-  temporaliniai_duomenys: "įvykio data: 1575 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "364600-365066; hash=061b5bc1b76a104a64ca832c00eea21c671fe88d257fdfc58ee655e6b6bd4bb1; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Girolamo Lippomano: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=34"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Girolamo Lippomano\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-44607
 - susijęs iš Lenkijos ir Lietuvos kariuomenių stovyklos aprašymas (1575 m.): Lenkijos ir Lietuvos kariuomenių stovyklos aprašymas yra 1575 m. Venecijos pasiuntinio Girolamo Lippomano teksto ištrauka.
@@ -77,8 +65,8 @@ media_all_json: |-
     „Nenutylėsiu ir būdo, kuriuo ši kariuomenė paprastai įsikuria stovyklose, nes šis būdas
     labai skiriasi nuo kitų ir dėl to pažymėtinas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

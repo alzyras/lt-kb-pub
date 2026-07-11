@@ -33,17 +33,6 @@ Dusburgietis teigia, kad apie Šnikenbergo pilies pastatymą Tą lauką, kur sto
 - t-001
   global_id: t-60328
   teiginys: "Hertvigas buvo kilmingas vyras, įkurdintas Šnikenbergo pilyje kartu su Ordino broliais ir kitais karingais vyrais."
-  semantiniai_rysiai: "Hertvigas gyveno Šnikenbergas (0.84)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "267770-268153; hash=7dfe92031dad160858d36c6fb6e874aec2df669196dbc6a7894c93b3363caa61; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Šnikenbergas: 0.84"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Hertvigas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Šnikenbergas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata nurodo, kad Hertvigas buvo įkurdintas Šnikenbergo pilyje."
   pagrindžia:
     - c-60960
 - susijęs iš [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus).md#claim-t-60446|Tomas (Hertvigo iš Pokarvių sūnus)]]: Kronikoje pasakojama, kad 1322 m. Brandenburgo pilyje ketverių metų Tomas, Hertvigo iš Pokarvių sūnus, mirė ir atgijo per Viešpaties kryžiaus atskalą.
@@ -71,8 +60,8 @@ Dusburgietis teigia, kad apie Šnikenbergo pilies pastatymą Tą lauką, kur sto
 
                         25.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -83,7 +72,8 @@ Dusburgietis teigia, kad apie Šnikenbergo pilies pastatymą Tą lauką, kur sto
 - id: c-60960
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 81"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 81."
   citata_originali: |
     24. Apie Šnikenbergo pilies pastatymą
 
@@ -103,6 +93,3 @@ Dusburgietis teigia, kad apie Šnikenbergo pilies pastatymą Tą lauką, kur sto
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60328
-
-## Ryšiai
-- Hertvigas gyveno [[objektai/vietos/Šnikenbergas]]

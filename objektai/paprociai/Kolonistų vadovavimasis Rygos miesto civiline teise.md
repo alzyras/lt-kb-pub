@@ -63,16 +63,6 @@ Nenurodyta
 - t-001
   global_id: t-87244
   teiginys: "Gediminas laiške pranešė, kad į Vilnių atvykę kolonistai galės vadovautis Rygos miesto civiline teise, kol bus sukurti geresni įstatymai."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "77573-78603; hash=a2e4e272221314dc652e389bd667f4faacfcd51e1cfa0c0152fa2afd67af4e75; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Bajerburgas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kolonistų vadovavimasis Rygos miesto civiline teise: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Bajerburgas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kolonistų vadovavimasis Rygos miesto civiline teise\" parinktas kaip owner_note_path. Targetas \"Bajerburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-83223
 ## Reikšmingi paminėjimai
@@ -110,8 +100,8 @@ Nenurodyta
     gos miesto teise, jei paskui geriau ne­
     bus sumanyta išmintingųjų tarybos].
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -48,18 +48,6 @@ Nenurodyta
 - t-001
   global_id: t-62394
   teiginys: "Martynas iš Golino su būreliu vyrų vakare užpuolė Sūduvos kaimą, išžudė žmones, pagrobė turtą ir išsivarė moteris bei vaikus į nelaisvę."
-  teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Martynas iš Golino puolė Sūduva (0.78)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "516836-517214; hash=2829adb66da6c49f7f1a6ee65d408b6a536a10c01cf1b42f66613676536a142f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Sūduva: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Martynas iš Golino: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Sūduva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Martynas užpuolė kaimą Sūduvos žemėje; objektas suvedamas į Sūduvą, nes konkretaus kaimo kandidato nėra."
   pagrindžia:
     - c-62995
 
@@ -67,18 +55,6 @@ Nenurodyta
 - t-001
   global_id: t-62394
   teiginys: "Martynas iš Golino su būreliu vyrų vakare užpuolė Sūduvos kaimą, išžudė žmones, pagrobė turtą ir išsivarė moteris bei vaikus į nelaisvę."
-  teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Martynas iš Golino puolė Sūduva (0.78)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "516836-517214; hash=2829adb66da6c49f7f1a6ee65d408b6a536a10c01cf1b42f66613676536a142f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Sūduva: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Martynas iš Golino: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Sūduva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Martynas užpuolė kaimą Sūduvos žemėje; objektas suvedamas į Sūduvą, nes konkretaus kaimo kandidato nėra."
   pagrindžia:
     - c-62995
 
@@ -86,12 +62,6 @@ Nenurodyta
 - t-003
   global_id: t-194405
   teiginys: "Apie tą patį Tas pats Martynas ir būrelis kitų vyrų kartą vėl priėjo vieną Sūduvos žemės kaimą ir vakaro prietemoje, kai vieni maudėsi pirtyje, antri vakarieniavo, o treti ėjo visokias tarnybas, jį užpuolė, o visus žmones išžudė."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "516836-517214; hash=2829adb66da6c49f7f1a6ee65d408b6a536a10c01cf1b42f66613676536a142f; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-62995
 ## Reikšmingi paminėjimai
@@ -111,8 +81,8 @@ Nenurodyta
 
                          200 (195).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -125,7 +95,8 @@ Nenurodyta
 - id: c-62995
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 163"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 163."
   citata_originali: |
     Apie tą patį
 

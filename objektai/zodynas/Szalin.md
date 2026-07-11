@@ -47,20 +47,6 @@ tiksli leksinė reikšmė tiesiogiai neįvardyta, todėl ją reikės formuluoti 
 - t-002
   global_id: t-192221
   teiginys: "Narbuto aiškinimu, Szalin siejamas su Salavija, nes ši buvo laikoma toliausiai į šiaurę plytinčia žeme."
-  teiginio_tipas: "saltinio_teiginys"
-  semantiniai_rysiai: "Rusia priklausė Salavija (0.92)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "478191-478389; hash=5afccca484f6dffc00188fc2f7f7d877f56511309e566fb865c2600381bc76c2; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  ryšio_patikimumas: "priklause -> Salavija: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Rusia: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Salavija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai teigia, kad Rusia priklausė Salavijai."
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175073
 
@@ -68,22 +54,6 @@ tiksli leksinė reikšmė tiesiogiai neįvardyta, todėl ją reikės formuluoti 
 - t-003
   global_id: t-192578
   teiginys: "Narbuto aiškinimu, Salavijos pavadinimas kilo iš lietuviško žodžio Szalin, nes ji laikyta toliausiai į šiaurę plytinčia žeme."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Rusia priklausė Salavija (0.92)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "478191-478389; hash=5afccca484f6dffc00188fc2f7f7d877f56511309e566fb865c2600381bc76c2; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Salavija: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Rusia: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Salavija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo priklausomybę: Rusia priklausė Salavijai."
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175073
 ## Reikšmingi paminėjimai
@@ -96,8 +66,8 @@ tiksli leksinė reikšmė tiesiogiai neįvardyta, todėl ją reikės formuluoti 
     tinčia žeme. Salavija nebuvo tikra prūsų lygos provincija,
     nes jai priklausė Rusia.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -110,7 +80,8 @@ tiksli leksinė reikšmė tiesiogiai neįvardyta, todėl ją reikės formuluoti 
 - id: c-175073
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 269"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 269."
   citata_originali: |
     Salavija {Szalamonia). Pavadinimas kilęs iš lietuviško
     žodžio Szalin, nes ji buvo laikoma toliausiai į šiaurę ply­

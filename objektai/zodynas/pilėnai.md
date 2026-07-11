@@ -38,12 +38,6 @@ Pilėnai, kuriems pirmas veržlus ant puolis neleido pabėgti, buvo arba išžud
 - t-001
   global_id: t-193462
   teiginys: "Pilėnai, kuriems pirmas veržlus ant puolis neleido pabėgti, buvo arba išžudyti, arba paimti į nelaisvę, o kurie paspruko į pilį, neteko namų, iš plėštų ir sudegintų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "314629-315360; hash=b28b018dda2aa13562a271f20de955a2950cde21b1ebf6d999ae43b04d631e9f; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176167
 
@@ -51,12 +45,6 @@ Pilėnai, kuriems pirmas veržlus ant puolis neleido pabėgti, buvo arba išžud
 - t-002
   global_id: t-193463
   teiginys: "Bisenės užpuolimas buvo nar siai pilėnų atremtas; smarkiai sumuštas ir didelės ka rių dalies netekęs priešas buvo priverstas pasitraukti nieko nepešęs."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "326498-327252; hash=31dab94ceef843f267999e11a09410cd0f965cd288a3fe09fff44a8a43c0ee41; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176168
 
@@ -64,12 +52,6 @@ Pilėnai, kuriems pirmas veržlus ant puolis neleido pabėgti, buvo arba išžud
 - t-003
   global_id: t-194460
   teiginys: "Šitai išvydę, pilėnai, pasičiupę ginklus, užpuolė laivą, o broliai ir ginklanešiai, jame buvę, pradėjo narsiai gintis."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "645551-646023; hash=f8c2302068c9ea53ca5953700c7561d420763063aa25523694a1194d84e6656e; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176940
 
@@ -77,12 +59,6 @@ Pilėnai, kuriems pirmas veržlus ant puolis neleido pabėgti, buvo arba išžud
 - t-004
   global_id: t-194461
   teiginys: "Dar apie tą patį Tais pačiais 1314 metais, apie grabnyčias (vasario 2), tas pats brolis Henrikas, maršalas, dar kartą nužygiavo su visa savo kariuomene į Medininkų valsčių ir ten užpuolė pilį, vardu Sizditė570, kurios pilėnai narsiai priešinosi; šioje kovoje."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "648166-648861; hash=f067a1e9f1731730a6143e52fab599037b7f3658b4ab5aa3f5b367001a31fcc2; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176941
 ## Reikšmingi paminėjimai
@@ -112,8 +88,8 @@ Pilėnai, kuriems pirmas veržlus ant puolis neleido pabėgti, buvo arba išžud
     į nelaisvę, o kurie paspruko į pilį, neteko namų, iš­
     plėštų ir sudegintų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -144,8 +120,8 @@ Pilėnai, kuriems pirmas veržlus ant puolis neleido pabėgti, buvo arba išžud
     dens pusę atsukti jų šonai, kaip pastebėjęs, esą pa­
     prastai menkiau sutvirtinti ir lengviau prieinami.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -163,8 +139,8 @@ Pilėnai, kuriems pirmas veržlus ant puolis neleido pabėgti, buvo arba išžud
     ginklus, užpuolė laivą, o broliai ir ginklanešiai, jame buvę, pradėjo narsiai gintis. Šiame
     mūšyje daugybė lietuvių buvo nukauta ir sunkiai sužeista. Šitaip broliai ir išsigelbėjo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -185,8 +161,8 @@ Pilėnai, kuriems pirmas veržlus ant puolis neleido pabėgti, buvo arba išžud
     ir Mindotės. Ne kažką laimėję, puldami pilį, jie vėliau patraukė į jos apylinkes ir dar kartą
     jas nusiaubė, degindami ir piešdami.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -197,7 +173,8 @@ Pilėnai, kuriems pirmas veržlus ant puolis neleido pabėgti, buvo arba išžud
 - id: c-176167
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 182"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 182."
   citata_originali: |
     Smarkios liū-
     I š v y k u s
@@ -261,7 +238,8 @@ Pilėnai, kuriems pirmas veržlus ant puolis neleido pabėgti, buvo arba išžud
 - id: c-176940
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 208"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 208."
   citata_originali: |
     Apie vieną brolių karo laivą
 
@@ -280,7 +258,8 @@ Pilėnai, kuriems pirmas veržlus ant puolis neleido pabėgti, buvo arba išžud
 - id: c-176941
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 209"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 209."
   citata_originali: |
     321 (314). Dar apie tą patį
 

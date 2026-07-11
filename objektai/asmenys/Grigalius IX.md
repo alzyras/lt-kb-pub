@@ -45,19 +45,6 @@ Dusburgietis teigia, kad apie tai, kaip popiežius patvirtino visa, kas aukšči
 - t-002
   global_id: t-79023
   teiginys: "Popiežius Grigalius IX su kardinolų taryba 1235 m. nutarė suvienyti gyvus išlikusius Kristaus karių brolijos brolius su kryžiuočiais."
-  temporaliniai_duomenys: "įvykio data: 1235 m.; įvykio data: 1236 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "75688-76111; hash=e54e742d0cc29479de5f265982955415ea654b9beecdcf696e19f0981ad8cc38; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Dorpatas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Grigalius IX: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Dorpatas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Grigalius IX\" parinktas kaip owner_note_path. Targetas \"Dorpatas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-41926
 
@@ -65,23 +52,6 @@ Dusburgietis teigia, kad apie tai, kaip popiežius patvirtino visa, kas aukšči
 - t-003
   global_id: t-184074
   teiginys: "1230 m. popiežius Grigalius IX patvirtino susitarimą su Teutonų ordino broliais ir įpareigojo juos kovoti dėl netikėlių užimtų krikščionių žemių."
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Grigalius IX sudarė sutartį su Teutonai (0.76)"
-  temporaliniai_duomenys: "įvykio data: 1230 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus ir remiasi citatoje nurodytais Grigaliaus IX veiksmais."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "146516-147222; hash=0c47ac53dc5d8a74b8cfa51751406da672b730f997e3900466530ed692dc8dd5; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "sudare_sutarti_su -> Teutonai: 0.76"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Grigalius IX: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Teutonai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Tekstas mini susitarimą su Teutonų ordino broliais, nors Grigalius IX jį patvirtino, o ne būtinai sudarė."
   pagrindžia:
     - c-167459
 - susijęs iš Chronicon Hermanui de Wartberge: „Chronicon Hermanui de Wartberge“ nurodė tokį pat Saulės mūšyje kritusių riterių skaičių kaip Grigaliaus IX bulė: 50.
@@ -111,8 +81,8 @@ Dusburgietis teigia, kad apie tai, kaip popiežius patvirtino visa, kas aukšči
 
     1236 m.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -133,8 +103,8 @@ Dusburgietis teigia, kad apie tai, kaip popiežius patvirtino visa, kas aukšči
     kančias, viešpaties kentėtas ant kryžiaus, ir atgauti netikėlių užimtas, bet krikščionims
     priklausomas žemes. Ragindamas juos į kovą, jis sakė (1 Mak 3.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -166,7 +136,8 @@ Dusburgietis teigia, kad apie tai, kaip popiežius patvirtino visa, kas aukšči
 - id: c-167459
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 47"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 47."
   citata_originali: |
     6. Apie tai, kaip popiežius patvirtino visa, kas aukščiau išdėstyta, ir paskatino brolius į
                                       kovų
@@ -184,8 +155,3 @@ Dusburgietis teigia, kad apie tai, kaip popiežius patvirtino visa, kas aukšči
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184074
-
-## Ryšiai
-- Grigalius IX sudarė sutartį su [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Teutonai]]
-- Grigalius IX paskyrė [[objektai/grupes/Teutonai]]
-- Grigalius IX rėmė [[objektai/grupes/Teutonai]]

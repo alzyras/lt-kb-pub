@@ -43,17 +43,6 @@ Trys į Vilnių pakviesti lenkų tapytojai: Martynas Ostrovskis, Vai­ tiekus Ch
 - t-001
   global_id: t-87726
   teiginys: "Jonas Marija buvo architektas ir raižytojas, savo meno kūriniais papuošęs Vilnių."
-  semantiniai_rysiai: "Jonas Marija keliavo į Vilnius (0.74)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "552852-554562; hash=e0be0bd4534a7a82f182d74135a7437b80e878b1defc925932e04adc73545007; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Vilnius: 0.74"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jonas Marija: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata sako, kad menininkai, tarp jų Jonas Marija, buvo pakviesti į Vilnių ir ten veikė."
   pagrindžia:
     - c-83705
 - susijęs iš [[objektai/asmenys/Martynas Ostrovskis.md#claim-t-87773|Martynas Ostrovskis]]: Martynas Ostrovskis buvo vienas iš trijų lenkų tapytojų, pakviestų į Vilnių ir papuošusių miestą savo kūriniais.
@@ -123,8 +112,8 @@ Trys į Vilnių pakviesti lenkų tapytojai: Martynas Ostrovskis, Vai­ tiekus Ch
     de Senis iš Italijos - papuošė Vilnių nuostabaus darbo savo
     meno kūriniais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -194,6 +183,3 @@ Trys į Vilnių pakviesti lenkų tapytojai: Martynas Ostrovskis, Vai­ tiekus Ch
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87726
-
-## Ryšiai
-- Jonas Marija keliavo į [[objektai/vietos/Vilnius]]

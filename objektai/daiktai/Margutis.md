@@ -45,12 +45,6 @@ Nenurodyta
 - t-001
   global_id: t-193479
   teiginys: "Mat rusai nuo senų senovės įpratę Velykų dieną do vanoti vienas kitam margutį kaip bičiuliškumo ženklą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "390568-391133; hash=17ff869f862c65d99c8575bb9df0976a5a2f7720017bbc47331140e5d1fdcec1; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176180
 ## Reikšmingi paminėjimai
@@ -77,8 +71,8 @@ Nenurodyta
     Mat rusai nuo senų senovės įpratę Velykų dieną do­
     vanoti vienas kitam margutį kaip bičiuliškumo ženklą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -89,7 +83,8 @@ Nenurodyta
 - id: c-176180
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 224"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 224."
   citata_originali: |
     Abiejų tautų
     priesaika turinti sustiprinti amžinąją taiką. Kai, sutik­

@@ -30,20 +30,6 @@ Kai kurie Kojelavičiaus minimi šaltiniai teigė, kad Daumantas įkūrė Svyri�
 - t-001
   global_id: t-185310
   teiginys: "Kai kurie Kojelavičiaus minimi šaltiniai teigė, kad Daumantas įkūrė Svyrių pilį."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Daumantas (kunigaikštis, XV a.) pastatė Svyrių pilis (pilis) (0.78)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "235778-236490; hash=9d01ce24f60635486d959a449169dbacae3154bc2d2d6f2fa79482e244212b8c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "pastate -> Svyrių pilis (pilis): 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Daumantas (kunigaikštis, XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Svyrių pilis (pilis): llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Šaltiniai teigia, kad Daumantas įkūrė Svyrių pilį; teiginys pateiktas su šaltinių išlyga."
   pagrindžia:
     - c-168671
 ## Reikšmingi paminėjimai
@@ -67,8 +53,8 @@ Kai kurie Kojelavičiaus minimi šaltiniai teigė, kad Daumantas įkūrė Svyri�
     gebėdamas numatyti kitų troškimus, jis spėjo, jog ir
     taryba bei tauta tylomis Traidenį skyrė jo įpėdiniu.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -79,7 +65,8 @@ Kai kurie Kojelavičiaus minimi šaltiniai teigė, kad Daumantas įkūrė Svyri�
 - id: c-168671
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 138"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 138."
   citata_originali: |
     Giedriui buvo
     duotos plačios valdos šiaurės pusėje: jis davė pradžią
@@ -101,6 +88,3 @@ Kai kurie Kojelavičiaus minimi šaltiniai teigė, kad Daumantas įkūrė Svyri�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185310
-
-## Ryšiai
-- Buvo pastatyta: [[objektai/asmenys/Daumantas|Daumantas (kunigaikštis, XV a.)]]

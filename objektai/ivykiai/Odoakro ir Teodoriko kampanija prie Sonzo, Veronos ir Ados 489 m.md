@@ -42,25 +42,6 @@ Nenurodyta
 - t-001
   global_id: t-191020
   teiginys: "Narbutas spėja, kad 489 m. Teodorikas po pergalės nepersekiojo Odoakro dėl nusilpusių gotų jėgų, bet užėmė Milaną ir Paviją bei ten peržiemojo."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Gotai dalyvavo mūšyje Odoakro ir Teodoriko kampanija prie Sonzo, Veronos ir Ados 489 m (0.70)"
-  temporaliniai_duomenys: "įvykio data: 489 m; mūšio data: 489 m"
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Teodorikas užėmė Milanas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Teodorikas užėmė Pavija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Gotai dalyvavo mūšyje Odoakro ir Teodoriko kampanija prie Sonzo, Veronos ir Ados 489 m“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Spėjama priežastis palikta su atribucija, nes citatoje vartojama abejonė. Nepridėta platesnio kampanijos konteksto už nurodytus miestus ir rezultatą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "577605-577922; hash=a11c2d9623c1dcf3970dba7e1618f4dbedfd26766d8156d20da305ecc9eadc0a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Milanas: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Teodorikas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Milanas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Teodorikas užėmė Milaną."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173902
 ## Reikšmingi paminėjimai
@@ -76,8 +57,8 @@ Nenurodyta
     užėmė Milaną ir Paviją, peržiemojo šiuose miestuose,
     ruošdamasis kitai kampanijai. Visa tai įvyko 489 metais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -88,7 +69,8 @@ Nenurodyta
 - id: c-173902
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 322"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 322."
   citata_originali: |
     Tuomet jis nusiaubė apylinkes ir, iš­
     keliavęs į Raveną1, užsidarė ten, savo rezidenciniame
@@ -102,6 +84,3 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191020
-
-## Ryšiai
-- Turėjo dalyvį: [[objektai/grupes/Gotai]]

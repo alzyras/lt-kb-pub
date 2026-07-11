@@ -39,12 +39,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 - t-001
   global_id: t-193705
   teiginys: "Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, redaguojamą Antano Smetonos, grupuote kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose, neretai ta kova virsdavo lenkų ir lietuvių muštynėmis."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "242047-242625; hash=12afba22416c4993e0989466b74309ca715fadd82d615183b62ba831161d5824; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176374
 
@@ -52,12 +46,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 - t-002
   global_id: t-193706
   teiginys: "Smetonos, tai nupirkti per dideli batai vaikams – parlamentarizmo tradicija vos per šešerius metus nesubrendo, neįsitvirtino, ypač sunkiai sekėsi sudaryti koalicijas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "313751-314454; hash=cdaeeb7a9ee76ff772bd6b28f293974ec006edb7ba40eb68934529c1c2143b06; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176375
 
@@ -65,12 +53,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 - t-003
   global_id: t-193707
   teiginys: "Smetona visą 1927 m. vasarą ir rudenį, lydimas karininkų, ministrų, žurnalistų ir kino kronikos kamerų, keliavo iš miestelio į miestelį, kuriuose jį iškilmingai sutikdavo prie lietuvių organizacijų, moksleivių gėlėmis ir vainikais išdabintų sutikimo vartų, po."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "318064-318861; hash=bff9a5ff377fd12c01b01632a9b1f39ba5d0e62918d7e54326d0cf89c6526c0a; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176376
 ## Reikšmingi paminėjimai
@@ -89,8 +71,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     teritorijoje, rūpinęsi lenkiškojo patriotizmo ir lenkų kalbos pozicijų stipri-
     nimu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -111,8 +93,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     jautė savo jėgą prieš politikus, jie skyrė laiko karių švietimui, lavino juos
     fiziškai, diegė sportą, higienos žinias.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -135,8 +117,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     Antanas Smetona – Lietuvos prezidentas
     1919–1920 ir 1926–1940 m.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -51,19 +51,6 @@ Nenurodyta
 - t-001
   global_id: t-01784
   teiginys: "Radome rusų kariuomenės apsupti konfederatai buvo priversti pasirašyti aktą, pripažinusį lygias teises kitatikiams."
-  semantiniai_rysiai: "Rusai apgulė Radomas (0.90)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "828888-829661; hash=2b6c1b1a0cd1c3d4dbd886b8c545c69ecf45f160e3b4bb2170d9171000aa3900; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "apgule -> Radomas: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Rusai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Radomas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Claim tiesiogiai nurodo rusų kariuomenės apsuptus konfederatus Radome."
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-02022
 ## Reikšmingi paminėjimai
@@ -92,8 +79,8 @@ Nenurodyta
     paprašyta garantijos, kad nė viena iš tų teisių nebus pa-
     keista.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

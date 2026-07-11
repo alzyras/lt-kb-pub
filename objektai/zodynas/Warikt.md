@@ -43,20 +43,6 @@ Vartojamas aiškinant varinų pavadinimą ir jį siejant su gyvulių ganymu.
 - t-002
   global_id: t-192206
   teiginys: "Teodoro Narbuto aiškinimu, varinų pavadinimas kilo iš Warikt, siejamo su piemeniu, varymu, gyvulių gynimu ir ganymu."
-  teiginio_tipas: "saltinio_teiginys"
-  semantiniai_rysiai: "Vitlandija priklausė Varmija (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "469508-469903; hash=83509833052bed7602f3dd4efcc8b3a39181715dd59f3b440b38c454c56f942e; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  ryšio_patikimumas: "priklause -> Varmija: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vitlandija: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Varmija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo, kad Vitlandijos kraštas priklausė Varmijai."
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175067
 
@@ -64,20 +50,6 @@ Vartojamas aiškinant varinų pavadinimą ir jį siejant su gyvulių ganymu.
 - t-001
   global_id: t-192207
   teiginys: "Teodoro Narbuto aiškinimu, Warikt lietuvių kalboje reiškė varyti, ginti gyvulius ir ganyti."
-  teiginio_tipas: "saltinio_teiginys"
-  semantiniai_rysiai: "Vitlandija priklausė Varmija (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "469508-469903; hash=83509833052bed7602f3dd4efcc8b3a39181715dd59f3b440b38c454c56f942e; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  ryšio_patikimumas: "priklause -> Varmija: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vitlandija: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Varmija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citatoje įvardyta Varmija, o po to sakoma, kad jai priklausė Vitlandijos kraštas."
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175067
 ## Reikšmingi paminėjimai
@@ -93,8 +65,8 @@ Vartojamas aiškinant varinų pavadinimą ir jį siejant su gyvulių ganymu.
     priklausė ir pradingęs Vitlandijos kraštas, įtvirtinti Bai­
     gos, Purverės, šiandien Heilsbergo, Glotau ir kiti miestai.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -106,7 +78,8 @@ Vartojamas aiškinant varinų pavadinimą ir jį siejant su gyvulių ganymu.
 - id: c-175067
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 264"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 264."
   citata_originali: |
     Varmija (Warmia). Pavadinimą galbūt davė gentys,
     kurios buvo vadinamos varinais; lietuvių kalba tai reiš­

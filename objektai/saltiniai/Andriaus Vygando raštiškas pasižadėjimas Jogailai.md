@@ -30,19 +30,6 @@ Starodubo kunigaikštis Andrius Vygandas raštiškai pasižadėjo po Vytauto mir
 - t-001
   global_id: t-186328
   teiginys: "Starodubo kunigaikštis Andrius Vygandas raštiškai pasižadėjo po Vytauto mirties su kitais Lietuvos kunigaikščiais pripažinti Jogailos valdžią."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "626339-626794; hash=b1363565e32c263d038be50187b87d3b8a27659e5942fcde4c24a15b0f6124a3; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Andriaus Vygando raštiškas pasižadėjimas Jogailai: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=59"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Andriaus Vygando raštiškas pasižadėjimas Jogailai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-169689
 ## Reikšmingi paminėjimai
@@ -61,8 +48,8 @@ Starodubo kunigaikštis Andrius Vygandas raštiškai pasižadėjo po Vytauto mir
     jam sveikam ir gyvam pasprukti iš nelemtojo praėjusių
     metų mūšio, todėl pastatė šv.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -73,7 +60,8 @@ Starodubo kunigaikštis Andrius Vygandas raštiškai pasižadėjo po Vytauto mir
 - id: c-169689
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 359"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 359."
   citata_originali: |
     Nutarė baigti derybas Lietuvoje. Tuo metu
     Andrius Vygandas, Starodubo kunigaikštis, raštiškai

@@ -42,20 +42,6 @@ Nenurodyta
 - t-001
   global_id: t-185842
   teiginys: "Prie Eželio žemaičiai ir lietuviai ant ledo kovojo su Livonijos magistru Otonu, kuris žuvo su penkiasdešimčia ordino brolių."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Žemaičiai dalyvavo mūšyje Žemaičių ir lietuvių pergalė prie Eželio prieš Livonijos magistrą Otoną (0.90); Lietuviai dalyvavo mūšyje Žemaičių ir lietuvių pergalė prie Eželio prieš Livonijos magistrą Otoną (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "222075-222523; hash=54155089b400be3583fb01996c89a39721a9941fec554487ed67037304651624; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "dalyvavo_musyje -> Žemaičių ir lietuvių pergalė prie Eželio prieš Livonijos magistrą Otoną: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Žemaičių ir lietuvių pergalė prie Eželio prieš Livonijos magistrą Otoną: llm_allowed_candidate, event"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad lietuviai kovojo šiame susidūrime."
   pagrindžia:
     - c-169203
 ## Reikšmingi paminėjimai
@@ -75,8 +61,8 @@ Nenurodyta
     Vestfalenas: tęsdamas karą, jis buvo lietuvių sumuštas
     ir žuvo.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -87,7 +73,8 @@ Nenurodyta
 - id: c-169203
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 131"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 131."
   citata_originali: |
     Vis dėl­
     to markgrafas, nenorėdamas, kad atrodytų, jog jis vel­

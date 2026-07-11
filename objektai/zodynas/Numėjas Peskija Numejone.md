@@ -30,14 +30,6 @@ Narbutas Numėją ir Peskiją apibūdina kaip dievaitį ir jo draugę dievaitę,
 - t-001
   global_id: t-189232
   teiginys: "Narbutas Numėją ir Peskiją apibūdina kaip dievaitį ir jo draugę dievaitę, laikytus svetingumo dievybėmis."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "284667-284918; hash=f12570cf0b582dc2cf2ecde90aee75181ccc5332b80157e728bdf4fb0ca40107; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172120
 
@@ -45,14 +37,6 @@ Narbutas Numėją ir Peskiją apibūdina kaip dievaitį ir jo draugę dievaitę,
 - t-002
   global_id: t-189233
   teiginys: "Narbutas rašo, kad miestuose buvę svečių namai, vadinti namijomis, arba Numejone, kur svetimšaliai jautėsi saugūs su savo turtu."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "285047-285423; hash=36f821fe357918e83c15eccb9b0d8b1e2ea847bb67b59b4c388a36e3ef49f582; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172121
 ## Reikšmingi paminėjimai
@@ -67,8 +51,8 @@ Narbutas Numėją ir Peskiją apibūdina kaip dievaitį ir jo draugę dievaitę,
     žodžių prasmė, senosios kalbos aiškinimu5, sutampa su šių die­
     vybių pašaukimu, žemaitiškai reiškia Swecias ir [Viešnia.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -86,8 +70,8 @@ Narbutas Numėją ir Peskiją apibūdina kaip dievaitį ir jo draugę dievaitę,
     ti svetimšaliai jausdavosi visiškai saugūs -  tiek asmenys, tiek
     turtas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -98,7 +82,8 @@ Narbutas Numėją ir Peskiją apibūdina kaip dievaitį ir jo draugę dievaitę,
 - id: c-172120
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 164"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 164."
   citata_originali: |
     Buvo ir keliautojų deivė Vibilia.
     Numėjas ir Peskija (Numejas i Peskia)
@@ -115,7 +100,8 @@ Narbutas Numėją ir Peskiją apibūdina kaip dievaitį ir jo draugę dievaitę,
 - id: c-172121
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 164"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 164."
   citata_originali: |
     Būta ir viešo svetingumo, tai yra šventyklose ir šventose
     giraitėse; ten ne tik žmogus, bet ir kiekvienas gyvas padaras

@@ -54,18 +54,6 @@ Vartojama kalbant apie etninės Lietuvos pietryčių dalies kalbines ir savimon�
 - t-003
   global_id: t-45859
   teiginys: "Rytiniuose ir pietrytiniuose lietuviško ploto pakraščiuose dalis gyventojų save laikė čiabuviais, arba tuteišiais."
-  temporaliniai_duomenys: "įvykio data: 1819 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "186317-186893; hash=73852dca8bcc92a114dcf9ef3afb63e0863948e092ebd249b9609d9c96a4c606; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gardinas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "tuteišiai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Gardinas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"tuteišiai\" parinktas kaip owner_note_path. Targetas \"Gardinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-26891
 
@@ -73,16 +61,6 @@ Vartojama kalbant apie etninės Lietuvos pietryčių dalies kalbines ir savimon�
 - t-004
   global_id: t-45860
   teiginys: "Tuteišiais vadinti rytinių ir pietrytinių lietuviškų žemių gyventojai, praradę lietuvio, bet neįgiję baltarusio etninės savimonės."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "186650-187208; hash=32dc41fd8e0d28f8ad02de6cc1d1bfed470d33350fabf26e1d56a2fcf3a457b2; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Baltarusiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "tuteišiai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Baltarusiai: mention_match, group, gap=101"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"tuteišiai\" parinktas kaip owner_note_path. Targetas \"Baltarusiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-48525
 
@@ -90,19 +68,6 @@ Vartojama kalbant apie etninės Lietuvos pietryčių dalies kalbines ir savimon�
 - t-005
   global_id: t-183480
   teiginys: "Tuteišiais vadinti rytinių ir pietrytinių lietuviškų žemių gyventojai, praradę lietuvio, bet neįgiję baltarusio etninės savimonės."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "186475-187044; hash=993e3d847890c1f30e02b91734633d127937a2684b09b0dd250317b3f0c134e4; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Baltarusiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "tuteišiai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Baltarusiai: mention_match, group, gap=101"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"tuteišiai\" parinktas kaip owner_note_path. Targetas \"Baltarusiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-26787
 ## Reikšmingi paminėjimai
@@ -120,8 +85,8 @@ Vartojama kalbant apie etninės Lietuvos pietryčių dalies kalbines ir savimon�
     tiniu požiūriu buvo patogesnė, nes leido suprasti ir lenkiškai kalbančius
     ponus bei kunigus, ir rusų valdžios atstovus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -140,8 +105,8 @@ Vartojama kalbant apie etninės Lietuvos pietryčių dalies kalbines ir savimon�
     procesų, prarandant lietuvio, bet neįgyjant baltarusio etninės savimonės,
     laikant save tiesiog čiabuviais (tuteišiais).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -160,8 +125,8 @@ Vartojama kalbant apie etninės Lietuvos pietryčių dalies kalbines ir savimon�
     įgis XIX a. antrojoje pusėje, jį sustabdys atsiradę autoritetingi etninių lie-
     tuvių tautinio sąjūdžio veikėjai, daugiausia kunigai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

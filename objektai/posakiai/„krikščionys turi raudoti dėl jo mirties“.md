@@ -38,11 +38,6 @@ Eiliuotinės kronikos autorius jam paskyrė kelioliką šiltų eilučių, tardam
 - t-002
   global_id: t-195040
   teiginys: "Eiliuotinės kronikos autorius žodžius „krikščionys turi raudoti dėl jo mirties“ įtraukė į kelias šiltas eilutes."
-  teiginio_tipas: "faktas"
-  susije_objektai: "mentioned_object: [[objektai/zodynas/neofitas|neofitas]]; mentioned_place: Livonija"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "556095-556437; hash=8dd658e6fdfda7df8a2fb2223ad71d9f871f5ee7936f6ea8d4c6cd68f2230ddf; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177408
 
@@ -50,12 +45,6 @@ Eiliuotinės kronikos autorius jam paskyrė kelioliką šiltų eilučių, tardam
 - t-003
   global_id: t-195041
   teiginys: "Eiliuotinės kronikos autorius jam paskyrė kelioliką šiltų eilučių, tardamas, «krikščionys turi raudoti dėl jo mirties» 220c."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "556095-556437; hash=8dd658e6fdfda7df8a2fb2223ad71d9f871f5ee7936f6ea8d4c6cd68f2230ddf; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177408
 
@@ -63,11 +52,6 @@ Eiliuotinės kronikos autorius jam paskyrė kelioliką šiltų eilučių, tardam
 - t-001
   global_id: t-195042
   teiginys: "Eiliuotinės kronikos autorius apie neofitą Suksę rašė, kad „krikščionys turi raudoti dėl jo mirties“."
-  teiginio_tipas: "faktas"
-  susije_objektai: "mentioned_object: [[objektai/zodynas/neofitas|neofitas]]; mentioned_place: Livonija"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "556095-556437; hash=8dd658e6fdfda7df8a2fb2223ad71d9f871f5ee7936f6ea8d4c6cd68f2230ddf; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177408
 ## Reikšmingi paminėjimai
@@ -81,8 +65,8 @@ Eiliuotinės kronikos autorius jam paskyrė kelioliką šiltų eilučių, tardam
     mirties» 220c. Buvo ir daugiau tokių pabėgėlių iš Lietuvos, tačiau
     tos rūšies suskilimą jauna valstybė atlaikė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

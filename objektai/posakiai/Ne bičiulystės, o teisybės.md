@@ -43,16 +43,6 @@ media_all_json: |-
 - t-002
   global_id: t-05378
   teiginys: "Imperatorius Zigmantas teisinosi, kad sprendimą priėmė žiūrėdamas ne bičiulystės, o teisybės."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "969963-970367; hash=8706eeb18552ae4113d2bad0d6bb9f5def4a5ac0ca0ce5a44337b54266c127d2; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
-  ryšio_patikimumas: "susije_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ne bičiulystės, o teisybės: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ne bičiulystės, o teisybės\" parinktas kaip owner_note_path. Targetas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-33479
 ## Reikšmingi paminėjimai
@@ -69,8 +59,8 @@ media_all_json: |-
     diną nugalėję ir priešo žemėje su ginklu stovėdami », patys sutiko
     jam pripažinti Žemaičius^16.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -45,17 +45,6 @@ Būtent čia, prie Bugo ir Narevo, susiformuos pagrindinis LDK javų ūkis, apr�
 - t-003
   global_id: t-175392
   teiginys: "Lietuviai puolė kryžiuočių kontroliuojamas Viznos apylinkes prie Narevo, kai Livonijos magistras buvo prie Vilniaus."
-  semantiniai_rysiai: "Lietuviai puolė Vizna (0.82)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "215035-215479; hash=c5f2921530e6fb3345f81c31af93b5df3ba7e19405ec3bf4949bcd759d427aee; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Vizna: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vizna: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo lietuvių ataką prieš Viznos apylinkes."
   pagrindžia:
     - c-159520
 
@@ -63,16 +52,6 @@ Būtent čia, prie Bugo ir Narevo, susiformuos pagrindinis LDK javų ūkis, apr�
 - t-002
   global_id: t-175393
   teiginys: "Vytauto kariuomenė žygiavo tarp Narevo ir Bugo upių, o jų santakoje persikėlė per Narevą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "217397-217645; hash=ce253b9e7b07d54a394fe57229c840c19c873cf4f58bd13c157c9edd26c982f2; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Narevas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Narevas\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-37557
 
@@ -80,19 +59,6 @@ Būtent čia, prie Bugo ir Narevo, susiformuos pagrindinis LDK javų ūkis, apr�
 - t-004
   global_id: t-185059
   teiginys: "Lietuviai, prieš kelias dienas perkėlę grobį ir kariuomenę per Narevą, pasislėpė miško tankmėje."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "244569-244919; hash=eac2f632f5386bd5e77ae245a8a8be2fe5a6101a387b69d0430a031ed83e785f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Krokuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Narevas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Krokuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Narevas\" parinktas kaip owner_note_path. Targetas \"Krokuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-168420
 
@@ -100,25 +66,6 @@ Būtent čia, prie Bugo ir Narevo, susiformuos pagrindinis LDK javų ūkis, apr�
 - t-005
   global_id: t-192702
   teiginys: "Teodoras Narbutas sprendė, kad po 1237 m. jotvingiai traukėsi nuo Bugo ir Narevo Prūsijos bei Lietuvos sienų link."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Jotvingiai keliavo į Prūsija (0.68); Jotvingiai keliavo į Lietuva (0.68)"
-  temporaliniai_duomenys: "kelionės data: po 1237 m.; kelionės data: 1237 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Jotvingiai keliavo į Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jotvingiai keliavo į Prūsija“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Išskleistas laiko kontekstas pagal citatoje minimus 1237 metus. Narbuto interpretacija palikta su atribucija, nepridedant kitų jotvingių judėjimo priežasčių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "220630-221020; hash=b763c30c72d3897a43f4f17c6b6bd9331f38f7a21727bb2b099deef5f926fd7e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Lietuva: 0.68"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jotvingiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekste nurodoma, kad jotvingiai traukėsi Lietuvos sienų link."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175472
 
@@ -126,25 +73,6 @@ Būtent čia, prie Bugo ir Narevo, susiformuos pagrindinis LDK javų ūkis, apr�
 - t-006
   global_id: t-192703
   teiginys: "Teodoro Narbuto pasakojime 1282 m. Lešeko Juodojo vadovaujami lenkai prie Narevo užklupo jotvingius ties Ostrolenka."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Lenkai puolė Jotvingiai (0.82); Lenkai kariavo prieš Jotvingiai (0.76)"
-  temporaliniai_duomenys: "mūšio data: 1282 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Lenkai kariavo prieš Jotvingiai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Lenkai puolė Jotvingiai“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sakinys sutvarko nutrūkusį OCR tekstą ir išskleidžia veikėjus, vietą bei datą. Vertinimai apie lemtį ir pražūtį neperimti kaip neutralūs faktai."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "241096-241540; hash=2140c7782e8ddd0a7aee82dcb1d79875fce88ca1f6bc3f0393874b9c263fcf00; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Jotvingiai: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lenkai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Jotvingiai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Lenkai užklupo jotvingius, todėl karinis puolimo santykis tiesiogiai pagrįstas."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175473
 - susijęs iš [[objektai/asmenys/Henrikas Cutsvertas.md#claim-t-59917|Henrikas Cutsvertas]]: Magistras pasiuntė Henriką Cutsvertą, 29 brolius ir 1200 vyrų tykoti dykrose tarp Luko ir Narevo.
@@ -189,8 +117,8 @@ Būtent čia, prie Bugo ir Narevo, susiformuos pagrindinis LDK javų ūkis, apr�
     persikėlė per Narevą ir lygiai birželio mėn. 30 d. atvyko į Čer­
     vinską, ties kuriuo kitoje upės pusėje buvo atėję lenkai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -210,8 +138,8 @@ Būtent čia, prie Bugo ir Narevo, susiformuos pagrindinis LDK javų ūkis, apr�
     Podolėje, Valakijoje, ragino dalyvauti ko-
     voje su totoriais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -229,8 +157,8 @@ Būtent čia, prie Bugo ir Narevo, susiformuos pagrindinis LDK javų ūkis, apr�
     kariuomenę perkėlę per Narevą, pasislėpė miško tan­
     kynėse. Sužinojęs apie tai, Lešekas visai nusivylė.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -250,8 +178,8 @@ Būtent čia, prie Bugo ir Narevo, susiformuos pagrindinis LDK javų ūkis, apr�
     prisidėdavo prie prūsų, kai šie sukildavo prieš kryžiuo­
     1 Hipatijaus ( Voluinės) metraštis (spausdintas).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -270,8 +198,8 @@ Būtent čia, prie Bugo ir Narevo, susiformuos pagrindinis LDK javų ūkis, apr�
     geliu kraujo praliejimų Ostrolenkos. Tačiau jotvingiai
     paniekino nelaisvę ir leidosi visi iškapojami.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -322,7 +250,8 @@ Būtent čia, prie Bugo ir Narevo, susiformuos pagrindinis LDK javų ūkis, apr�
 - id: c-168420
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 143"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 143."
   citata_originali: |
     Tuo tarpu Lešekas Juodasis,
     Lenkijos valdovas, Krokuvoje teisė savo valdinius; ki­
@@ -341,7 +270,8 @@ Būtent čia, prie Bugo ir Narevo, susiformuos pagrindinis LDK javų ūkis, apr�
 - id: c-175472
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 123"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 123."
   citata_originali: |
     1237 metais jis ve­
     dė savo būrius prieš jotvingius į Brastos apylinkes, bet
@@ -362,7 +292,8 @@ Būtent čia, prie Bugo ir Narevo, susiformuos pagrindinis LDK javų ūkis, apr�
 - id: c-175473
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 134"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 134."
   citata_originali: |
     Rusinai, kuriuos Oramas atsivedė, buvo apdovanoti1. Be
     to, Traidenis vakarinėje Jotvingijoje paliko visos tautos

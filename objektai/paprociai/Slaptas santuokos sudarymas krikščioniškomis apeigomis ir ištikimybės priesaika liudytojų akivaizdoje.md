@@ -51,22 +51,6 @@ Nenurodyta
 - t-001
   global_id: t-185891
   teiginys: "Augustas ir Barbora krikščioniškomis apeigomis prisiekė santuokinę ištikimybę Stanislovo Kęsgailos ir dviejų Radvilų akivaizdoje."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1546 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys gramatiškas ir tiesiogiai paremtas citata apie Augusto ir Barboros santuoką."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1198851-1199899; hash=766a9c609156376c20ff2615b5567b789061ff1045fb5cd42ee48375e78a5da4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_vyras -> Barbora Radvilaitė: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Augustas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Barbora Radvilaitė: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Tekstas Augustą ir Barborą tiesiogiai vadina sutuoktiniais."
   pagrindžia:
     - c-169252
 ## Reikšmingi paminėjimai
@@ -101,8 +85,8 @@ Nenurodyta
     Ruduoju,— Dubingių ir Biržų ir kad visi būtų įtraukti
     į Romos imperijos princų kolegiją.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -113,7 +97,8 @@ Nenurodyta
 - id: c-169252
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 673"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 673."
   citata_originali: |
     Mat
     tie apsilankymai iš tiesų rodėsi šiek tiek lengvapėdiš­

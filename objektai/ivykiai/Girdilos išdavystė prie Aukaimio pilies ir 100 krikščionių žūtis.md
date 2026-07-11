@@ -56,21 +56,6 @@ Nenurodyta
 - t-001
   global_id: t-62269
   teiginys: "1285 m. skalvis Girdila su 100 ginkluotų vyrų patraukė prie Aukaimio pilies, bet įspėti pilies gynėjai juos užpuolė ir beveik visus nukovė."
-  teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Girdila keliavo į Aukaimis (0.90)"
-  temporaliniai_duomenys: "įvykio data: 1285 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie įvykį ir remiasi citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "548002-548504; hash=64d5d57fd097016e93bb2458ddb3d77dc9a9263dbe2048a2650ef2bcace978c9; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Aukaimis: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Girdila: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Aukaimis: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Girdilos judėjimą prie Aukaimio pilies."
   pagrindžia:
     - c-62788
 
@@ -78,21 +63,6 @@ Nenurodyta
 - t-001
   global_id: t-62269
   teiginys: "1285 m. skalvis Girdila su 100 ginkluotų vyrų patraukė prie Aukaimio pilies, bet įspėti pilies gynėjai juos užpuolė ir beveik visus nukovė."
-  teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Girdila keliavo į Aukaimis (0.90)"
-  temporaliniai_duomenys: "įvykio data: 1285 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie įvykį ir remiasi citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "548002-548504; hash=64d5d57fd097016e93bb2458ddb3d77dc9a9263dbe2048a2650ef2bcace978c9; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Aukaimis: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Girdila: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Aukaimis: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Girdilos judėjimą prie Aukaimio pilies."
   pagrindžia:
     - c-62788
 
@@ -100,12 +70,6 @@ Nenurodyta
 - t-003
   global_id: t-194386
   teiginys: "Apie išdavystę, per kurią žuvo šimtas krikščionių 1285 viešpaties metais vienas skalvis, vardu Girdila, prieš atsivertimą saviškių didžiai gerbiamas, pasigyrė, jog, turėdamas šimtą ginkluotų vyrų, galėtų pridaryti lietuviams visokeriopų eibių."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "548002-548504; hash=64d5d57fd097016e93bb2458ddb3d77dc9a9263dbe2048a2650ef2bcace978c9; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-62788
 ## Reikšmingi paminėjimai
@@ -127,8 +91,8 @@ Nenurodyta
 
         227 (222).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -141,7 +105,8 @@ Nenurodyta
 - id: c-62788
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 174"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 174."
   citata_originali: |
     Apie išdavystę, per kurią žuvo šimtas krikščionių
 

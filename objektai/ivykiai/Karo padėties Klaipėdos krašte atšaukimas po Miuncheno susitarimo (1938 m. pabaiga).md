@@ -57,18 +57,6 @@ Nenurodyta
 - t-002
   global_id: t-169829
   teiginys: "Lietuvos vyriausybė į Klaipėdos uostą investavo 42 mln. litų, tačiau iš jo gavo tik 11 mln. litų pajamų."
-  temporaliniai_duomenys: "įvykio data: 1938 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "364236-364711; hash=17654d040426faa53fd085a37f533ad65ededd3eb2608c6609af05aa2222b506; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Karo padėties Klaipėdos krašte atšaukimas po Miuncheno susitarimo (1938 m. pabaiga): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=22"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Karo padėties Klaipėdos krašte atšaukimas po Miuncheno susitarimo (1938 m. pabaiga)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-154514
 
@@ -76,16 +64,6 @@ Nenurodyta
 - t-003
   global_id: t-169830
   teiginys: "Lietuviško mokymo ir lietuvių kalbos vartojimo skatinimas Klaipėdos krašte davė priešingą rezultatą, nes oponentai kliudė krašto integracijai."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "364712-365243; hash=e8e30e2f11cd52a0b67d8b30988f3c118be8fec86a5b7532d7577a1e82ec0f90; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Karo padėties Klaipėdos krašte atšaukimas po Miuncheno susitarimo (1938 m. pabaiga): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=58"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Karo padėties Klaipėdos krašte atšaukimas po Miuncheno susitarimo (1938 m. pabaiga)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-154512
 ## Reikšmingi paminėjimai
@@ -103,8 +81,8 @@ Nenurodyta
     vokiečiams nepatiko būti „tautine mažuma“, jie apskritai Lietuvos valdy-
     mą laike sezoniniu dalyku.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -121,8 +99,8 @@ Nenurodyta
     lygiateisiškumas tebuvo fikcija – lietuvių kalba galėjai susikalbėti tik lie-
     tuviškose įstaigose ir bendrovėse.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

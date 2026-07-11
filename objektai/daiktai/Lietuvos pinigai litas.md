@@ -60,19 +60,6 @@ Nenurodyta
 - t-001
   global_id: t-19550
   teiginys: "Lito susiejimas su JAV doleriu laikytas vienu išmintingiausių atsikūrusios Lietuvos ekonominės politikos sprendimų."
-  temporaliniai_duomenys: "įvykio data: po 1993 m.; įvykio data: 1993 m.; įvykio data: 1994 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pirminis teiginys neatitinka citatos, bet citata pagrindžia faktą apie litą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "513455-513934; hash=2d7fdd55c5420ce4edeb30830f7ea7e217ee969a6bb81543273fcca5433ab598; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos pinigai litas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=75"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos pinigai litas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-22261
 ## Reikšmingi paminėjimai
@@ -89,8 +76,8 @@ Nenurodyta
     giausių ekonominės politikos sprendimų per visą atsikūrusios Lietuvos
     laikotarpį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

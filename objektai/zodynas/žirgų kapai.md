@@ -32,16 +32,6 @@ media_all_json: |-
 - t-001
   global_id: t-28617
   teiginys: "Terminas „žirgų kapai“ kilo iš papročio šalia sudegintų žmonių lavonų su įkapėmis užkasti nedegintus žirgus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "310677-310994; hash=2337ebe7bd2f27e22564fb458e54d67b5ea78ad5ac18fe822beda3d417540f33; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Žirgai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "žirgų kapai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Žirgai: mention_match, thing, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"žirgų kapai\" parinktas kaip owner_note_path. Targetas \"Žirgai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-28521
 ## Reikšmingi paminėjimai
@@ -56,8 +46,8 @@ media_all_json: |-
     tose (Kėdainių, Panevėžio ir Kauno apskr.) sistemingai ištirtuose
     « žirgų kapinynuose » rasta apie 500 žirgų kapų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

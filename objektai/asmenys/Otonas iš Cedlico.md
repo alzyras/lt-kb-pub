@@ -42,20 +42,6 @@ Dusburgietis teigia, kad apie Pieštvės pilėnų apiplėšimą 1294 Tais pačia
 - t-001
   global_id: t-60402
   teiginys: "1294 m. Otonas iš Cedlico su Ditrichu iš Ezbeko ir Otonu iš Bergo buvo pasiųstas su 300 vyrų saugoti Ragainės pilies."
-  semantiniai_rysiai: "Otonas iš Cedlico siuntė į Ragainė (0.92); Otonas iš Cedlico surengė žygį į Pieštvė (0.83)"
-  temporaliniai_duomenys: "įvykio data: 1294 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Reikia pašalinti antraštės triukšmą ir suformuluoti pilną sakinį apie asmenį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "581198-581561; hash=dd47c26558786aaad46784d4638a20cbb78e6403aa61a0723fa968a19ea13d49; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "siunte_i -> Ragainė: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Otonas iš Cedlico: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Ragainė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Otonas iš Cedlico tiesiogiai įvardytas tarp pasiųstųjų saugoti Ragainės pilies."
   pagrindžia:
     - c-61034
 - susijęs iš [[objektai/asmenys/Ditrichas iš Ezbeko.md#claim-t-60106|Ditrichas iš Ezbeko]]: 1294 m. Ditrichas iš Ezbeko su Otonu iš Bergo ir Otonu iš Cedlico buvo pasiųstas saugoti Ragainės pilies.
@@ -73,8 +59,8 @@ Dusburgietis teigia, kad apie Pieštvės pilėnų apiplėšimą 1294 Tais pačia
     ginklanešių, jie patraukė prie Pieštvės pilies, kur pagrobė visą galvijų kaimenę; nužudę
     daug netikėlių, 70 žmonių išsivarė į nelaisvę.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -85,7 +71,8 @@ Dusburgietis teigia, kad apie Pieštvės pilėnų apiplėšimą 1294 Tais pačia
 - id: c-61034
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 185"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 185."
   citata_originali: |
     257 (250). Apie Pieštvės pilėnų apiplėšimą 1294
 
@@ -103,4 +90,3 @@ Dusburgietis teigia, kad apie Pieštvės pilėnų apiplėšimą 1294 Tais pačia
 
 ## Ryšiai
 - Otonas iš Cedlico siuntė į [[objektai/vietos/Ragainė]]
-- Otonas iš Cedlico surengė žygį į [[objektai/vietos/Pieštvė]]

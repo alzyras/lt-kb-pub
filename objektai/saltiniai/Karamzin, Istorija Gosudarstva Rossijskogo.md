@@ -30,14 +30,6 @@ Tad jei laimin gas atsitiktinumas leido užklydusiems su gotais į Rytus 1 Karam
 - t-001
   global_id: t-194897
   teiginys: "Tad jei laimin gas atsitiktinumas leido užklydusiems su gotais į Rytus 1 Karamzin."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "535910-536045; hash=d238a453b430b45a31ad95baec0056655b2cbeb8fd443190962efb36b9ad616e; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-177293
 ## Reikšmingi paminėjimai
@@ -50,8 +42,8 @@ Tad jei laimin gas atsitiktinumas leido užklydusiems su gotais į Rytus 1 Karam
     gas atsitiktinumas leido užklydusiems su gotais į Rytus
     1 Karamzin. Istor. Hosud, Ross. T. II. S. 25 (2-asis leidimas).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -62,7 +54,8 @@ Tad jei laimin gas atsitiktinumas leido užklydusiems su gotais į Rytus 1 Karam
 - id: c-177293
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 298"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 298."
   citata_originali: |
     Tad jei laimin­
     gas atsitiktinumas leido užklydusiems su gotais į Rytus

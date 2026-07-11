@@ -35,9 +35,6 @@ media_all_json: |-
 - t-001
   global_id: t-67534
   teiginys: "1398 m. Salyne Vytautas ir Ordino magistras pasirašė taikos sutartį, nuo pasirašymo vietos vadinamą Salyno sutartimi."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "248067-248354; hash=7ad09e9828e5303c9ad4a8bc09c803566c681af92f841485fa05113b34da8d12; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-67405
 
@@ -45,9 +42,6 @@ media_all_json: |-
 - t-004
   global_id: t-67535
   teiginys: "Salyno sutartyje buvo minimi tik nelaisvieji valstiečiai, todėl Vytautas teigė, kad laisvieji galėjo kilnotis kur tinkami."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "256703-256987; hash=21a46de3ec56c711275e4024f5cf5f5df12908fef4db0c5fd63503f74bb9fbdd; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-67406
 
@@ -55,9 +49,6 @@ media_all_json: |-
 - t-003
   global_id: t-67536
   teiginys: "Salyno sutartis buvo sudaryta Vytauto autoritetu, o Jogaila joje nebuvo minimas."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "248816-249357; hash=96b86812cb211b6d1aaef827b056bcd20d01ebc1f05e817aaca52d4273ac6a70; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-67404
 
@@ -65,9 +56,6 @@ media_all_json: |-
 - t-002
   global_id: t-67539
   teiginys: "Salyno sutartimi Vytautas sutiko Ordinui užleisti Žemaičius iki Nevėžio ir šiaurinę Suvalkų krašto dalį."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "248293-248646; hash=3afd425f32ac131c398de5b13bb57d68d36ba0961b26e7e88af69805c8478f63; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-67403
 ## Reikšmingi paminėjimai
@@ -84,8 +72,8 @@ media_all_json: |-
     ordinas sutiko ne tik nepulti Lietuvos, bet net padėti Vytautui
     rytuose.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -105,8 +93,8 @@ media_all_json: |-
     nesiklausęs Jogailos, padarė su ordinu taiką ir net užleido ordinui
     didelius jam pavestos valstybės plotus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -122,8 +110,8 @@ media_all_json: |-
     Nemune, buvusi apie dabartinę Kulautuvą). Nuo pasirašymo vie-
     tos ir sutartis vadinama Salyno sutartim.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -139,8 +127,8 @@ media_all_json: |-
     sinosi, kad laisvieji galį kilnotis kur tinkami. O nustatyti, kas
     Žemaičiuose buvo laisvas, o kas ne, buvo labai sunku.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

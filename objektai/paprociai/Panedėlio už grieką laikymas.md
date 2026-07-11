@@ -46,17 +46,6 @@ Nenurodyta
 - t-002
   global_id: t-07797
   teiginys: "Daug lietuvių panedėly vengė tolimos kelionės ar sunkaus darbo, nes šią dieną laikė grieku ir dangstė karaliaus dienos šventimu."
-  semantiniai_rysiai: "Lietuviai gyveno Vilnius (0.78)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "214632-215259; hash=a231968f325ab068503f57fbe3b2fe9656392198482074a72c8bfd326cecd336; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
-  ryšio_patikimumas: "gyveno -> Vilnius: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai sieja lietuvius su buvimu Vilniuje 1387 m."
   pagrindžia:
     - c-09953
 ## Reikšmingi paminėjimai
@@ -72,8 +61,8 @@ Nenurodyta
         dirbti panedėly už grieką^803 sau turi; nes, idant paslėptų tą savo gailesį nuo lenkų kunigų, sakės
         jiems karaliaus dieną šventinantys.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

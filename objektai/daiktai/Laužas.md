@@ -52,20 +52,6 @@ Nenurodyta
 - t-001
   global_id: t-186856
   teiginys: "Pagal komentare minimą J. Dlugošą, mirusio Algirdo palaikai Kukovaičio miške prie Maišiagalos buvo sudeginti ant laužo."
-  teiginio_tipas: "saltinio_vaizdinys"
-  semantiniai_rysiai: "Algirdas (Lietuvos valdovas) buvo palaidotas Maišiagala (0.72); Algirdas (Lietuvos valdovas) buvo palaidotas Laužas (0.69)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "351147-351661; hash=48ba019e6a8e1edca13806b55938d06d24c38c9225673b9ee7fc3a5f2d6479bf; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
-  ryšio_patikimumas: "buvo_palaidotas -> Maišiagala: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Maišiagala: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas nurodo Algirdo palaikų sudeginimo vietą prie Maišiagalos; tai artimiausias leistinas laidojimo vietos ryšys."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-170039
 - susijęs iš [[objektai/daiktai/Karinė apranga, ginklai ir grandinės padėkos aukoje.md#claim-t-189684|Karinė apranga, ginklai ir grandinės padėkos aukoje]]: Narbutas padėkos auką aprašė kaip apeigą, per kurią ant laužo sudegindavo žymų belaisvį su žirgu, karine apranga ir ginklais.
@@ -124,8 +110,8 @@ Nenurodyta
     (Jana Dlugosza, kanonika krakowsklcgo. dzlejów polsklch kslęg
     dwanascie (toliau — Dzieje), t. HI, Kraków. 1868, p. 444).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_vaizdinys
   statusas: verified
+  teiginio_tipas: saltinio_vaizdinys
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -153,7 +139,3 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186856
-
-## Ryšiai
-- Turėjo palaidotą asmenį: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- Laužas priklausė [[objektai/vietos/Išlaužas]]

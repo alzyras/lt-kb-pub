@@ -77,16 +77,6 @@ Nenurodyta
 - t-016
   global_id: t-71677
   teiginys: "Sovietų kariai ir NKVD prie vidinės sienos stabdė žmonių traukimąsi į Rusiją, laikydami juos dezertyrais ar panikos skleidėjais."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "400833-401470; hash=8c92939fd3a1f5a1b3a669bb90a1ba08010114104469b927fbe95fbaad7c6df6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "NKVD: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"NKVD\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-70212
 
@@ -94,17 +84,6 @@ Nenurodyta
 - t-014
   global_id: t-71680
   teiginys: "Sovietizavimą teroru grindė slaptoji tarnyba NKVD: pylėsi naktiniai areštai, žmones imta kalinti ir tremti į SSRS gilumą."
-  semantiniai_rysiai: "NKVD siuntė į SSRS (0.76)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "391070-391432; hash=517baf532d5fdcf0e9cab70b5f2f31bbf412416208212a35ecf3f7537f77db60; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "siunte_i -> SSRS: 0.76"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "NKVD: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "SSRS: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "NKVD nurodyta kaip represijas vykdžiusi tarnyba, o tekste tiesiogiai minima žmonių tremtis į SSRS gilumą."
   pagrindžia:
     - c-70213
 
@@ -112,20 +91,6 @@ Nenurodyta
 - t-017
   global_id: t-71681
   teiginys: "Kovai su partizanais Lietuvoje dislokuotoje NKVD kariuomenėje 1945 m. vasarą buvo iki 20 tūkst., o 1946 m. apie 14 tūkst. karių."
-  semantiniai_rysiai: "NKVD kariavo prieš Lietuviai (0.70)"
-  temporaliniai_duomenys: "įvykio data: 1945 m.; įvykio data: 1946 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra faktinis sakinys apie NKVD kariuomenę Lietuvoje ir tiksliai remiasi citata."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "433379-433902; hash=af8dd45fe91a0a748733171eafec014dfd02275cfb921fe13fcc576eb125786a; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Lietuviai: 0.70"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "NKVD: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata nurodo NKVD kariuomenę kovai su lietuvių partizanais; kandidatuose partizanų nėra, todėl naudojamas platesnis lietuvių grupės kandidatas."
   pagrindžia:
     - c-16639
 
@@ -133,12 +98,6 @@ Nenurodyta
 - t-018
   global_id: t-193736
   teiginys: "Liepos 22 d. apie 1500 NKVD karių ir stribų apsupo partizanų stovyklą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "977015-977209; hash=2f9c3dad0a75e81c33403e433f4394d23a93066f08e8fc303e08199c9e843dd9; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-42881
 - susijęs iš [[objektai/asmenys/Buiničius.md#claim-t-40074|Buiničius]]: Majoras Buiničius buvo NKVD kariuomenės 220-ojo Kutuzovo ordino pulko štabo viršininkas Kalniškės miško mūšyje.
@@ -248,8 +207,8 @@ Nenurodyta
     vadinimo istrebitelnyje bataliony), į kuriuos agitavo stoti vietinius gyvento-
     jus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -267,11 +226,11 @@ Nenurodyta
     194
     turėjo neleisti tokiems pabėgti į Vokietiją.
   citata_rodoma: ''
+  statusas: verified
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-
 - c-003
   santrauka: 'Liepos 22 d. apie 1500 NKVD karių ir stribų apsupo partizanų stovyklą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -280,8 +239,8 @@ Nenurodyta
     1500 NKVD karių ir stribų apsupo partizanų stovyklą. Partizanai nuo 10
     iki 13 valandos drąsiai atmušinėjo priešo atakas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -302,8 +261,8 @@ Nenurodyta
     nėjo šnipinėjimu. Nuo pirmų nacių okupacijos dienų žydai pajuto dalies
     gyventojų neapykantą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -321,8 +280,8 @@ Nenurodyta
     Represijos, areštai, deportacijos, jų baimė – sudedamoji
     bolševikų vykdytos politikos dalis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -409,12 +368,4 @@ Nenurodyta
     - t-71680
 
 ## Ryšiai
-- Sąjungininkai: [[objektai/grupes/NKGB]]
-- Kariavo prieš: [[objektai/grupes/Dzūkų būrys]], [[objektai/grupes/Lietuvos partizanai]]
-- Turėjo priklausinį: [[objektai/grupes/Naikintojų batalionai]]
-- NKVD keliavo į [[objektai/vietos/Kėdainiai]]
-- NKVD puolė [[objektai/grupes/Dainavos apygarda]], [[objektai/vietos/Kalniškės miškas]], [[objektai/vietos/Trakiniai]], [[objektai/vietos/Žuvinto palios]]
-- NKVD apgulė [[objektai/vietos/Žuvinto ežeras]], [[objektai/vietos/Žuvinto palios]]
-- NKVD siuntė į [[objektai/vietos/SSRS]]
-- NKVD kariavo prieš [[objektai/grupes/Lietuviai]]
-- NKVD dalyvavo mūšyje [[objektai/ivykiai/Šimonių girios apgultis]], [[objektai/ivykiai/Šimonių girios apgultis (1949 m.)]], [[objektai/ivykiai/Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)]]
+- NKVD puolė [[objektai/vietos/Trakiniai]], [[objektai/vietos/Žuvinto palios]]

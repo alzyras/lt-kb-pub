@@ -30,12 +30,6 @@ Tie generaliniai seimeliai neišnyko nė įvedus bendrą su lietuviais seimą.
 - t-001
   global_id: t-193302
   teiginys: "Tie generaliniai seimeliai neišnyko nė įvedus bendrą su lietuviais seimą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "551490-551836; hash=b515f54ed7685239d830c04ffe9270c7c88861cde32f04c66dc1a786544230bc; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176030
 ## Reikšmingi paminėjimai
@@ -53,8 +47,8 @@ Tie generaliniai seimeliai neišnyko nė įvedus bendrą su lietuviais seimą.
     seimą taip pat buvo pradėti daryti tokie pat į seimą vyks-
     tančių atstovų ir senatorių suvažiavimai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

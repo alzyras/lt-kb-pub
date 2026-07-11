@@ -38,19 +38,6 @@ Jis nebuvo toks puikus stilistas, kaip Juozapas Ignas Kraševskis, kuris be­ ve
 - t-003
   global_id: t-87432
   teiginys: "Juozapas Ignas Kraševskis savo Vilniaus istorijoje panaudojo archyvinę medžiagą, kronikas ir metraščius."
-  temporaliniai_duomenys: "įvykio data: 1840-1842; įvykio data: 1842 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "15871-16263; hash=a3e6108b1d0fbddca6a7ec43a28cd2f77d5e1878a497d5065031f1055e1a8f92; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kraševskis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Juozapas Ignas Kraševskis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kraševskis: mention_match, author, gap=15"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Juozapas Ignas Kraševskis\" parinktas kaip owner_note_path. Targetas \"Kraševskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-83411
 
@@ -58,16 +45,6 @@ Jis nebuvo toks puikus stilistas, kaip Juozapas Ignas Kraševskis, kuris be­ ve
 - t-001
   global_id: t-87433
   teiginys: "Juozapas Ignas Kraševskis beveik tuo pat metu kaip M. Balinskis rašė savo Vilniaus miesto istoriją."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "1653-2162; hash=d3a377b2e8f081d77ecde86853bd2684a83c1a31b51876ddc4f1314ddefb690a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aleksandras Balinskis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Juozapas Ignas Kraševskis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Aleksandras Balinskis: mention_match, person, gap=54"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Juozapas Ignas Kraševskis\" parinktas kaip owner_note_path. Targetas \"Aleksandras Balinskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-83413
 
@@ -75,19 +52,6 @@ Jis nebuvo toks puikus stilistas, kaip Juozapas Ignas Kraševskis, kuris be­ ve
 - t-002
   global_id: t-87434
   teiginys: "Juozapo Igno Kraševskio darbai laikyti senosios Vilniaus istoriografijos pagrindo dalimi."
-  temporaliniai_duomenys: "įvykio data: 1968 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata nurodo J. I. Kraševskio nuopelnus ir jo darbų reikšmę Vilniaus istoriografijai."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "13045-13449; hash=42264d74bda6bd22025c5bed6cf92ca5ebf619b6a2330043dae36991671c46ec; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kraševskis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Juozapas Ignas Kraševskis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kraševskis: mention_match, author, gap=13"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Juozapas Ignas Kraševskis\" parinktas kaip owner_note_path. Targetas \"Kraševskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-83412
 - susijęs iš J. I. Kraševskio Vilniaus miesto istorija: J. I. Kraševskio 1840–1842 m. išleista Vilniaus miesto istorija chronologiškai nušvietė miesto raidą iki 1750 m.
@@ -105,8 +69,8 @@ Jis nebuvo toks puikus stilistas, kaip Juozapas Ignas Kraševskis, kuris be­ ve
     puikiu stiliumi. Veikale chronologiškai Vilniaus miesto raida
     nušviesta iki 1750 metų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -125,8 +89,8 @@ Jis nebuvo toks puikus stilistas, kaip Juozapas Ignas Kraševskis, kuris be­ ve
     tybės patriotai ir tęsdami renesanso epochoje susiklosčiusią
     tradiciją"8.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -146,8 +110,8 @@ Jis nebuvo toks puikus stilistas, kaip Juozapas Ignas Kraševskis, kuris be­ ve
     nors sykiu suvokė LDK valstybės istorinį ir kultūrinį savitu­
     mą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

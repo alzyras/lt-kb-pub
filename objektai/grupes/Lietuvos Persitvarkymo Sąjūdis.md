@@ -79,16 +79,6 @@ Nenurodyta
 - t-001
   global_id: t-13469
   teiginys: "Lietuvos Persitvarkymo Sąjūdis tapo pagrindine Lietuvos nepriklausomybę atkūrusia jėga."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "480949-481258; hash=584d0de0f369872ccf809b79bc0a990a91ab575d56a5ae7f8b1c18751ab4837c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos Persitvarkymo Sąjūdis: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos Persitvarkymo Sąjūdis\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-16625
 
@@ -96,16 +86,6 @@ Nenurodyta
 - t-002
   global_id: t-13470
   teiginys: "Sąjūdis apibūdinamas kaip tautos frontas, suvienijęs plačius Lietuvos visuomenės sluoksnius, o jo priekyje stovėjo mokslo ir kultūros inteligentija."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "481384-482021; hash=4303cc39532ecf8dafc1f1d6b79904504745ff2acc562d01745e72bb36db5508; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos Persitvarkymo Sąjūdis: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=61"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos Persitvarkymo Sąjūdis\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-16626
 
@@ -113,19 +93,6 @@ Nenurodyta
 - t-003
   global_id: t-13471
   teiginys: "1988 m. birželio 3 d. Vilniuje Lietuvos mokslų akademijos salėje įsteigta Lietuvos Persitvarkymo Sąjūdžio iniciatyvinė grupė."
-  temporaliniai_duomenys: "įvykio data: 1988 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Išplėstas objekto pavadinimas ir pašalinta citata nepagrįsta detalė apie 35 narius."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "483262-483778; hash=655ee5c381c89f5875b269a08106de1a337356452e0d2e09c33743160b125c29; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos Persitvarkymo Sąjūdis: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos Persitvarkymo Sąjūdis\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-22559
 
@@ -133,18 +100,6 @@ Nenurodyta
 - t-004
   global_id: t-13472
   teiginys: "Pradiniame etape Sąjūdis buvo siejamas su gorbačiovine perestroika, jo pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“."
-  temporaliniai_duomenys: "įvykio data: 1939-1940; įvykio data: 1940 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "484233-484811; hash=b3d91147516472fc9b2fa1b2105c609e310a5262e66b84b2d6d7dc68bd5fbda2; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos Persitvarkymo Sąjūdis: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos Persitvarkymo Sąjūdis\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-22560
 
@@ -152,16 +107,6 @@ Nenurodyta
 - t-005
   global_id: t-13473
   teiginys: "Steigiant Lietuvos Persitvarkymo Sąjūdį sutarta nerinkti iniciatyvinės grupės vadovo."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "485305-485697; hash=0e54061028386947e7d95328ff4c94436bd431fa320ac89cdfe0648da4961f17; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos Persitvarkymo Sąjūdis: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos Persitvarkymo Sąjūdis\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-16629
 
@@ -169,19 +114,6 @@ Nenurodyta
 - t-006
   global_id: t-13474
   teiginys: "1988 m. birželio 10 d. Lietuvos Persitvarkymo Sąjūdžio iniciatyvinė grupė įsteigta Kaune, o liepos 6 d. – Klaipėdoje."
-  temporaliniai_duomenys: "įvykio data: 1988 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Palikti tik citatos palaikomi faktai, pašalintos nepagrįstos detalės."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "485698-486130; hash=a9c0557bb7d02b13262012d2e960e38738d0f29fa6529f1c241e17fef6438586; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos Persitvarkymo Sąjūdis: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos Persitvarkymo Sąjūdis\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-22561
 
@@ -189,19 +121,6 @@ Nenurodyta
 - t-007
   global_id: t-13475
   teiginys: "1988 m. spalio pabaigoje 1 200 Lietuvoje įregistruotų LPS grupių vienijo 300 000 narių."
-  temporaliniai_duomenys: "įvykio data: 1988 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys konkretus, gramatiškas ir tiesiogiai pagrįstas citata."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "487490-487959; hash=d59b09c8f1f9f07d7eebaf67f151aa18817ea4790a6252730d999de8c32d73e8; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos Persitvarkymo Sąjūdis: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos Persitvarkymo Sąjūdis\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-16631
 
@@ -209,19 +128,6 @@ Nenurodyta
 - t-008
   global_id: t-13476
   teiginys: "1988 m. spalio 22–23 d. Lietuvos Persitvarkymo Sąjūdžio steigiamajame suvažiavime dalyvavo 1 021 delegatas."
-  temporaliniai_duomenys: "įvykio data: 1988 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Išplėstas objekto pavadinimas."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "488114-488735; hash=7bf8364dbe5918513c40524e299df032950b5ba2bf4ffbb31da6a53e0e268c30; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos Persitvarkymo Sąjūdis: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos Persitvarkymo Sąjūdis\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-16632
 
@@ -229,17 +135,6 @@ Nenurodyta
 - t-009
   global_id: t-13477
   teiginys: "Per Lietuvos Persitvarkymo Sąjūdžio suvažiavimą išrinktas 220 narių seimas, o lapkričio 25 d. jo tarybos pirmininku išrinktas Vytautas Landsbergis."
-  semantiniai_rysiai: "Lietuvos Persitvarkymo Sąjūdis paskyrė Vytautas Landsbergis (0.78)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "489504-489858; hash=b990faec637f6708daec28845b3d26997a236af8032ad5eed6dbe0746f63d924; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "paskyre -> Vytautas Landsbergis: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuvos Persitvarkymo Sąjūdis: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vytautas Landsbergis: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Vytautas Landsbergis išrinktas Sąjūdžio tarybos pirmininku; subjektas apibendrintas iki organizacijos, nes atskiro suvažiavimo objekto kandidatuose nėra."
   pagrindžia:
     - c-16633
 
@@ -247,19 +142,6 @@ Nenurodyta
 - t-010
   global_id: t-13478
   teiginys: "1989 m. kovą rinkimus į SSRS Aukščiausiąją Tarybą triuškinamai laimėjo Lietuvos Persitvarkymo Sąjūdžio kandidatai."
-  temporaliniai_duomenys: "įvykio data: 1989 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sutrumpinta iki aiškaus citatos palaikomo fakto apie objektą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "491791-492407; hash=016463be5aba5c9914093e04a3b547f1fbf47504a53d82e1d2f5c27f794e2c09; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos Persitvarkymo Sąjūdis: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos Persitvarkymo Sąjūdis\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-16634
 
@@ -267,18 +149,6 @@ Nenurodyta
 - t-011
   global_id: t-13479
   teiginys: "1990 m. pradžioje LPS buvo viena iš dviejų pagrindinių Lietuvos SSR Aukščiausiosios Tarybos rinkimų kampanijos jėgų ir rengėsi nepriklausomybę atkurti parlamentiniu būdu."
-  temporaliniai_duomenys: "įvykio data: 1990 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "493991-494642; hash=c461a49562e855a39d368ce6b93e58572317c145ff821948ef0c72fb13b1c228; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aukščiausiosios Tarybos rūmai (institucija): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos Persitvarkymo Sąjūdis: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Aukščiausiosios Tarybos rūmai (institucija): mention_match, place, gap=13"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos Persitvarkymo Sąjūdis\" parinktas kaip owner_note_path. Targetas \"Aukščiausiosios Tarybos rūmai (institucija)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-16635
 
@@ -286,16 +156,6 @@ Nenurodyta
 - t-012
   global_id: t-23308
   teiginys: "1988 VI 3 įkuriamas Lietuvos Persitvarkymo Sąjūdis."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "31135-31323; hash=bdd15e2321a4c4c4ca15e0a284c070ac066eb33263a8a8998d87a2bfa91ead96; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos Persitvarkymo Sąjūdis: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos Persitvarkymo Sąjūdis\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-166551
 
@@ -303,19 +163,6 @@ Nenurodyta
 - t-013
   global_id: t-23309
   teiginys: "Pradiniame etape Sąjūdis iš esmės buvo gorbačiovinės perestroikos kūdikis, kurį su ankstesniais kovų etapais siejo tik laisvos Lietuvos siekis."
-  temporaliniai_duomenys: "įvykio data: 1939-1940; įvykio data: 1940 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys perteikia citatos interpretacinį vertinimą ir yra aiškus."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "484187-484615; hash=a458b20dd07f071f4e611b1ed5facfb2bf6d762b25ba5c8323a014990a9f58c5; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos Persitvarkymo Sąjūdis: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=110"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos Persitvarkymo Sąjūdis\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-22564
 
@@ -323,19 +170,6 @@ Nenurodyta
 - t-014
   global_id: t-23310
   teiginys: "1987, 1988 ir 1989 m. vasarą jaunimo muzikos koncertų žygiai per Lietuvą skleidė LPS idėjas ir drąsino režimo įbaugintus žmones."
-  temporaliniai_duomenys: "įvykio data: 1989 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Reikia pakeisti neenciklopedinę formuluotę „išlaisvinti žmones“ į tikslesnę."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "486390-486555; hash=45e77368a92f7d1c74431a5f1a0bb65721b1d79af71a3a217538cec982322810; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos Persitvarkymo Sąjūdis: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos Persitvarkymo Sąjūdis\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-22565
 
@@ -343,18 +177,6 @@ Nenurodyta
 - t-018
   global_id: t-26801
   teiginys: "Atgimimo laikotarpiu Lietuvos Persitvarkymo Sąjūdis, o ne Lietuvos laisvės lyga, tapo pagrindine Lietuvos nepriklausomybę atkūrusia jėga."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "481051-481383; hash=ab2ed93f0cc439ff5cd8e2f548c324053cc6b7e849d3255eba669457acb118d9; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos Persitvarkymo Sąjūdis: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos Persitvarkymo Sąjūdis\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-95027
 
@@ -362,19 +184,6 @@ Nenurodyta
 - t-019
   global_id: t-26802
   teiginys: "Sąjūdis buvo tautos frontas, suvienijęs plačius Lietuvos visuomenės sluoksnius ir kėlęs laisvės, demokratijos bei nepriklausomybės idealus."
-  temporaliniai_duomenys: "įvykio data: 1972 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs, todėl perrašytas į pilną sakinį."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "481518-482131; hash=1053771f2c00891a675f64fd92a6798dcaf4b41ee89f0f684f963e57e1db3b9a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos Persitvarkymo Sąjūdis: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=48"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos Persitvarkymo Sąjūdis\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-95026
 
@@ -382,16 +191,6 @@ Nenurodyta
 - t-021
   global_id: t-26804
   teiginys: "LPS įtaka visuomenėje didėjo, liepą–rugsėjį visoje Lietuvoje steigėsi iniciatyvinės grupės, vyko didžiuliai mitingai, kuriuose dalyvavo LPS iniciatyvinės grupės nariai."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "487336-487760; hash=0a55b0a9065dd870cb7758aa8bf56d63d3d4b6ad53e8536675043ad509ead65c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos Persitvarkymo Sąjūdis: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos Persitvarkymo Sąjūdis\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-95022
 
@@ -399,19 +198,6 @@ Nenurodyta
 - t-022
   global_id: t-26805
   teiginys: "LPS grupės pripažino Sąjūdžio iniciatyvinės grupės lyderystę, nors iniciatyvinę grupę rinko tik vilniečiai."
-  temporaliniai_duomenys: "įvykio data: 1988 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškus, gramatiškas ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "487490-487959; hash=d59b09c8f1f9f07d7eebaf67f151aa18817ea4790a6252730d999de8c32d73e8; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos Persitvarkymo Sąjūdis: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos Persitvarkymo Sąjūdis\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-16631
 
@@ -419,18 +205,6 @@ Nenurodyta
 - t-023
   global_id: t-26806
   teiginys: "Lietuvos Persitvarkymo Sąjūdžio suvažiavimas priėmė bendrąją programą, įstatus ir 30 rezoliucijų politikos, kultūros, ekonomikos bei demokratijos klausimais."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "489014-489633; hash=24bcb361a80da3387c72dc24ef754ee97f4da76ce5b5d4199789e357d3f71f9a; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos Persitvarkymo Sąjūdis: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos Persitvarkymo Sąjūdis\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-95029
 
@@ -438,21 +212,6 @@ Nenurodyta
 - t-024
   global_id: t-26807
   teiginys: "1988 m. lapkritį Lietuvos Persitvarkymo Sąjūdžio aplinkoje visoje Lietuvoje reikalauta nepritarti SSRS konstitucijos pataisoms."
-  temporaliniai_duomenys: "įvykio data: 1988 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Reikia aiškiai susieti teiginį su Lietuvos Persitvarkymo Sąjūdžiu ir pašalinti perteklinę formuluotę."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "489763-490263; hash=b4cb7d91b3b6682439de6f6dd8c1c7039f5e04a1b1a9f961ca161c7bed5225f9; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos Persitvarkymo Sąjūdis: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos Persitvarkymo Sąjūdis\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-13T14:18:10Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-95030
 
@@ -460,21 +219,6 @@ Nenurodyta
 - t-025
   global_id: t-26808
   teiginys: "1989 m. LPS kandidatams laimėjus rinkimus į SSRS Aukščiausiąją Tarybą, lietuvių tautinis išsivadavimas įgijo politinį pobūdį."
-  temporaliniai_duomenys: "įvykio data: 1989 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Reikia aiškiau susieti faktą su Lietuvos Persitvarkymo Sąjūdžiu."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "491791-492407; hash=016463be5aba5c9914093e04a3b547f1fbf47504a53d82e1d2f5c27f794e2c09; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos Persitvarkymo Sąjūdis: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos Persitvarkymo Sąjūdis\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-16634
 
@@ -482,19 +226,6 @@ Nenurodyta
 - t-026
   global_id: t-26809
   teiginys: "1990 m. sausį–vasarį rinkimų kampanijoje susidūrė LPS, skleidęs nepriklausomos Lietuvos atkūrimo idėją, ir savarankiška LKP."
-  temporaliniai_duomenys: "įvykio data: 1990 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra konkretus ir tiesiogiai paremtas citatos informacija apie rinkimų kampaniją."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "493991-494642; hash=c461a49562e855a39d368ce6b93e58572317c145ff821948ef0c72fb13b1c228; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos Persitvarkymo Sąjūdis: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos Persitvarkymo Sąjūdis\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-16635
 
@@ -502,22 +233,6 @@ Nenurodyta
 - t-027
   global_id: t-26810
   teiginys: "1988–1990 m. Lietuvos Sąjūdžio kūrėjai prisidėjo prie Sovietų Sąjungos aneksijos įveikimo ir Nepriklausomybės atkūrimo."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1909 m.; įvykio data: 1988-1990; įvykio data: 1990 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalintas OCR triukšmas ir suformuluotas pilnas citatos palaikomas sakinys."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "29002-29458; hash=a37fbc4b260911eaba00ef4899461c84f668e894e3b6a5de758ffd39052591b1; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos Persitvarkymo Sąjūdis: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos Persitvarkymo Sąjūdis\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-166550
 
@@ -525,16 +240,6 @@ Nenurodyta
 - t-012
   global_id: t-23308
   teiginys: "1988 VI 3 įkuriamas Lietuvos Persitvarkymo Sąjūdis."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "31135-31323; hash=bdd15e2321a4c4c4ca15e0a284c070ac066eb33263a8a8998d87a2bfa91ead96; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos Persitvarkymo Sąjūdis: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos Persitvarkymo Sąjūdis\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-166551
 - susijęs iš [[objektai/asmenys/Petras Griškevičius.md#claim-t-64026|Petras Griškevičius]]: Prasidėjus Michailo Gorbačiovo pertvarkai, LKP CK pirmasis sekretorius Petras Griškevičius Lietuvoje laikėsi pasyviai.
@@ -560,8 +265,8 @@ Nenurodyta
     susikūręs Lietuvos Persitvarkymo Sąjūdis, o ne LLL tapo pagrindine jėga,
     atkūrusia Lietuvos nepriklausomybę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -580,8 +285,8 @@ Nenurodyta
     kėlusi tautą visuotiniais, universaliais, pavergtai tautai ypač brangiais lais-
     vės, demokratijos, nepriklausomybės idealais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -602,8 +307,8 @@ Nenurodyta
     posėdžiams pirmininkavo kiekvienas
     narys iš eilės.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -621,8 +326,8 @@ Nenurodyta
     buvo atviras visiems Lietuvos žmonėms, o jo akcijose galėjo dalyvauti visi
     Lietuvos gyventojai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -644,8 +349,8 @@ Nenurodyta
     Svarbiausiu įvykiu tapo 1988 m. spalio 22–23 d. LPS steigiamasis suva-
     žiavimas, kuriame dalyvavo 1 021 delegatas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -662,8 +367,8 @@ Nenurodyta
     zuotas liaudies judėjimas atrodė pasirengęs mesti iššūkį komunistų par-
     tijai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -683,8 +388,8 @@ Nenurodyta
     sąlygos kurti įvairias politines partijas LPS atvėrė kelią legaliai dalyvauti
     šalies politiniame gyvenime.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -705,8 +410,8 @@ Nenurodyta
     nebuvo – LPS rengėsi Lietuvos nepriklausomybę atkurti parlamentiniu
     būdu, o savarankiška LKP šiam planui nesipriešino.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -726,8 +431,8 @@ Nenurodyta
     Vilniuje Lietuvos mokslų akademijos salėje įsteigė Lietuvos Persitvarkymo
     Sąjūdžio (LPS) iniciatyvinę grupę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -747,8 +452,8 @@ Nenurodyta
     o LPS stengėsi remti Maskvoje pradėtas reformas ir siekė jas įgyvendinti
     Lietuvoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -766,8 +471,8 @@ Nenurodyta
     dieną LPS iniciatyvinė grupė įsteigta Kaune, liepos 6 – Klaipėdoje. Pirmieji
     tūkstantiniai mitingai pasisekė: birželio 24 dieną Gedimino (dab.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -785,8 +490,8 @@ Nenurodyta
     mės buvo gorbačiovinės perestroikos kūdikis, kurį su ankstesniais kovų eta-
     pais siejo tik laisvos Lietuvos siekis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -800,8 +505,8 @@ Nenurodyta
     vyko 1987, 1988 ir 1989 m. vasarą – jie buvo skirti LPS idėjoms skleisti ir
     išlaisvinti režimo įbaugintus žmones.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -818,8 +523,8 @@ Nenurodyta
     ciatyvinės grupės nariai. Sąjūdžio grupės pripažino Sąjūdžio iniciatyvi-
     nės grupės lyderystę, nors ją rinko tik vilniečiai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -840,8 +545,8 @@ Nenurodyta
     Protesto eisena Kauno Laisvės alėjoje Kaune  1972 m.
     gegužės 18 d. KGB numeriais pažymėjo eisenos lyderius
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -858,8 +563,8 @@ Nenurodyta
     kyra galima laikyti ne vien jų taktikos nuostatas, bet ir skirtingas veiklos
     tradicijas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -881,8 +586,8 @@ Nenurodyta
     nis suverenitetas, teisinė socialistinė valstybė, tačiau siekta sudaryti įspūdį,
     kad LPS remia SSRS vadovybės pradėtas reformas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -901,8 +606,8 @@ Nenurodyta
     kurios numatė ne plėsti respublikų suverenumą, o stiprinti centralizaci-
     ją, prieš tai surinkta 1,8 mln. parašų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -923,8 +628,8 @@ Nenurodyta
     Sovietų Sąjungos aneksiją ir perestroikos bei naujo Atgimimo sąlygomis
     atkurti Nepriklausomybę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -942,8 +647,8 @@ Nenurodyta
     Lietuvos Respublikos Aukščiausioji Taryba paskelbia Lietuvos nepri-
     klausomybės atkūrimą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1372,6 +1077,3 @@ Nenurodyta
   pagrindzia:
     - t-26811
     - t-23308
-
-## Ryšiai
-- Lietuvos Persitvarkymo Sąjūdis paskyrė [[objektai/asmenys/Vytautas Landsbergis]]

@@ -34,16 +34,6 @@ Visus mūsų apdarus, drabužius, esančius mūsų sau­ gyklose ir kur tik ir p
 - t-001
   global_id: t-87907
   teiginys: "Gzovskis saugojo karalienės Barboros apdarus, kurie vėliau turėjo būti perduoti karalaitei Onai."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "669952-671407; hash=c3e88d83c490bc7ff9d2faef03461b3b1521a0dd7123a2f465f54859b5591581; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Barbora Radvilaitė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gzovskis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Barbora Radvilaitė: mention_match, person, gap=28"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gzovskis\" parinktas kaip owner_note_path. Targetas \"Barbora Radvilaitė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-83886
 - susijęs iš [[objektai/asmenys/Barbora Radvilaitė.md#claim-t-173122|Barbora Radvilaitė]]: Karalienės Barboros apdarai, saugoti Gzovskio ir kitur, buvo padovanoti karalaitei Onai.
@@ -85,8 +75,8 @@ Visus mūsų apdarus, drabužius, esančius mūsų sau­ gyklose ir kur tik ir p
     puošimais, tiek auksu lietais, aksominiais, purpuriniais ir
     kokiais kitais, kuriuos po mūsų ras.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

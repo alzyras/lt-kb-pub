@@ -55,21 +55,6 @@ Nenurodyta
 - t-001
   global_id: t-62897
   teiginys: "Dusburgietis Pipino mirtį vaizdavo kaip pakorimą po to, kai Pipinas buvo pririštas prie arklio ir atvilktas iki Torunės."
-  teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Pipinas mirė Torunė (0.90)"
-  temporaliniai_duomenys: "įvykio data: iki 1223 m.; įvykio data: 1223 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra apie autoriaus vaizdavimą, todėl atribucija tinkama; pradinė forma per ilga."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "85564-86334; hash=eafcf7213028bf68f354ef9a427eb4e54211137e1d647b0ff36c273c641e2eac; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "mire -> Torunė: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Pipinas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Torunė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Pipinas buvo pakartas Torunėje."
   pagrindžia:
     - c-63753
 ## Reikšmingi paminėjimai
@@ -89,8 +74,8 @@ Nenurodyta
     išpjovus jam iš pilvo bambą  ir prikalus ją prie medžio, Pipinas, smarkiai mušamas,
     buvo verčiamas vaikščioti, kol visos žarnos susivijo aplink kamieną.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -101,7 +86,8 @@ Nenurodyta
 - id: c-63753
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 28"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 28."
   citata_originali: |
     Nutyli lenkų feodalinės ekspansijos  į prūsų žemes
     bandymus iki 1223 m. kryžiaus žygio imtinai, lenkų — kryžiuočių ginčus dėl Kulmo

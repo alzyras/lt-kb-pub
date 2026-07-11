@@ -30,22 +30,6 @@ Narbutas Padneprės emporiumų graikų kolonistus siejo su skitais ir dešiniąj
 - t-001
   global_id: t-192847
   teiginys: "Narbutas Padneprės emporiumų graikų kolonistus siejo su skitais ir dešiniąja Dnepro pakrante ties Kijevu, kitapus Dnepro nurodydamas alanus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Graikai gyveno Dnepras (0.86); Graikai gyveno Padneprė (0.72)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "182294-182889; hash=273ffa17ceb1fa22711638e4fee69dfb10b02c536496fd6cbbf760b9d53d1f64; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Dnepras: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Graikai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Dnepras: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad graikų kolonistai gyveno dešiniojoje Dnepro pakrantėje."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175617
 
@@ -53,22 +37,6 @@ Narbutas Padneprės emporiumų graikų kolonistus siejo su skitais ir dešiniąj
 - t-002
   global_id: t-192848
   teiginys: "Pečenegų orda Charoboe turėjo dalį Padneprės žemių tarp Dnepro ir Bugo aukštupio, o jos sostine nurodomas Belotzebo miestas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Pečenegai valdė teritoriją Padneprė (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "191284-191606; hash=deed4f5126d78f52837ce7223ce26cfe33a3bade2f37845fd955eb82fe780d93; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde_teritorija -> Padneprė: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Pečenegai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Padneprė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Pečenegų orda tiesiogiai turėjo dalį Padneprės žemių."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175618
 - susijęs iš Belaja Cerkovė: Pasak Purpurinio, pečenegų ordos Charoboe sostinė buvo Belotzebo miestas, slaviškai vadintas Belaja Cerkove.
@@ -110,8 +78,8 @@ Narbutas Padneprės emporiumų graikų kolonistus siejo su skitais ir dešiniąj
     kurie kėlėsi per Dneprą chionitų kolonijos teritorijoje, o
     po to keliavo toliau per alanų kraštą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -129,8 +97,8 @@ Narbutas Padneprės emporiumų graikų kolonistus siejo su skitais ir dešiniąj
     Cerkovė1. Tad nuo X iki XII amžiaus antrojo dešimtme­
     čio šiai ordai priklausė kraštas prie Rosés upės.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -141,7 +109,8 @@ Narbutas Padneprės emporiumų graikų kolonistus siejo su skitais ir dešiniąj
 - id: c-175617
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 102"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 102."
   citata_originali: |
     Galima tik daryti gana tikėtiną prielaidą, kuri remia­
     si Ptolernėjo aprašymų nubraižytais žemėlapiais ir pa­
@@ -164,7 +133,8 @@ Narbutas Padneprės emporiumų graikų kolonistus siejo su skitais ir dešiniąj
 - id: c-175618
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 107"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 107."
   citata_originali: |
     100
     Geografija. Viena dešiniojoje Dnepro pakrantėje gy­
@@ -182,5 +152,3 @@ Narbutas Padneprės emporiumų graikų kolonistus siejo su skitais ir dešiniąj
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/grupes/Pečenegai]]
-- Gyvenamoji vieta: [[objektai/grupes/Boristeniečiai]], [[objektai/grupes/Graikai]]
-- Padneprė priklausė [[objektai/grupes/Pečenegai]]

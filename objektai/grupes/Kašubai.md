@@ -30,21 +30,6 @@ Narbutas kašubų protėvius sieja su Asubi ir Cassubi tauta, kuri, jo manymu, s
 - t-001
   global_id: t-192984
   teiginys: "Narbutas kašubų protėvius sieja su Asubi ir Cassubi tauta, kuri, jo manymu, susiliejo su slavų karta ir įsikūrė Pamaryje."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "181701-182060; hash=8bb6c9a86a874b05085d77e0b79ffbe05655918f233bb483ff92eb694d5e5926; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Pamaris: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kašubai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Pamaris: mention_match, place, gap=103"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kašubai\" parinktas kaip owner_note_path. Targetas \"Pamaris\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175754
 - susijęs iš Pamarys: Narbutas kašubų protėvius siejo su Asubi arba Cassubi tauta, kuri, jo teigimu, įsikūrė Pamaryje prie Vyslos žemupio.
@@ -62,8 +47,8 @@ Narbutas kašubų protėvius sieja su Asubi ir Cassubi tauta, kuri, jo manymu, s
     buvo tyrinėjama, bet darome išvadas, kad kašubų pro­
     tėviai nebuvo skitai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -74,7 +59,8 @@ Narbutas kašubų protėvius sieja su Asubi ir Cassubi tauta, kuri, jo manymu, s
 - id: c-175754
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 101"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 101."
   citata_originali: |
     Čia kažkur atsirado tauta Asubi, paskui Cassubi, dabar­
     tinių kašubų protėviai. Neabejotina, kad ji susiliejo su
@@ -89,7 +75,3 @@ Narbutas kašubų protėvius sieja su Asubi ir Cassubi tauta, kuri, jo manymu, s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192984
-
-## Ryšiai
-- Kašubai keliavo į [[objektai/vietos/Vysla]]
-- Kašubai gyveno [[objektai/vietos/Pamarys]]

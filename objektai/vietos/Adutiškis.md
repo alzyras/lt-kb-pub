@@ -38,19 +38,6 @@ liepą-rugpjūtį atsiimtos lietuviškos teritorijos SS [7] Rugpjūčio 8 d. Aug
 - t-001
   global_id: t-41584
   teiginys: "Adutiškis minimas tarp lietuviškų teritorijų, atsiimtų rugpjūčio 9 d."
-  semantiniai_rysiai: "Adutiškis priklausė Lietuva (0.63)"
-  temporaliniai_duomenys: "įvykio data: 1920 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "802895-803063; hash=e93eaced75a7f3716969923f2c85b225b3d8ff04525ee32b644e80e1a460c0f5; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Lietuva: 0.63"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Adutiškis: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Adutiškis įtrauktas į atsiimtas lietuviškas teritorijas, todėl remiamas priklausymo Lietuvai ryšys."
   pagrindžia:
     - c-45017
 ## Reikšmingi paminėjimai
@@ -64,8 +51,8 @@ liepą-rugpjūtį atsiimtos lietuviškos teritorijos SS [7] Rugpjūčio 8 d. Aug
     © Rugpjūčio 9 d. Švenčionėliai, |
     Švenčionys, Adutiškis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -90,6 +77,3 @@ liepą-rugpjūtį atsiimtos lietuviškos teritorijos SS [7] Rugpjūčio 8 d. Aug
   patikimumo_saltinis: ai
   pagrindzia:
     - t-41584
-
-## Ryšiai
-- Adutiškis priklausė [[objektai/vietos/Lietuva]]

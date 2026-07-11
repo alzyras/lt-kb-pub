@@ -55,11 +55,6 @@ Nenurodyta
 - t-002
   global_id: t-67060
   teiginys: "Nustojus vesti blaivybės brolijų narių knygas, blaivybė nesusilpnėjo, o parapijonys statė kryžius ir paminklus jai paminėti."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "988771-989287; hash=897bfa2b74db1acff9bd063920feaf494b82977c8e6df8b59bb2569e268009d1; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-67110
 
@@ -67,9 +62,6 @@ Nenurodyta
 - t-001
   global_id: t-67061
   teiginys: "XIX a. viduryje Lietuvos blaivybės skelbimas labiausiai paplito vyskupo Motiejaus Valančiaus valdomoje Žemaičių vyskupystėje."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "985742-986285; hash=53abf0e8a224b365ca73d1c75ede3adfd23ba69c378754a53c963784ce66f606; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-67111
 ## Reikšmingi paminėjimai
@@ -97,8 +89,8 @@ Nenurodyta
     ravjovas uždraudė visokius
     susibūrimus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -118,8 +110,8 @@ Nenurodyta
     galos dekanatai). Vyskupo raginama, kunigija tapo uoliausia
     blaivybės platintoja; ji surašinėjo žmones į blaivybės brolijas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -30,22 +30,6 @@ Pasakojime Sturlaugas Darbštusis kautynėse nužudė Ingvarą, kuris Narbuto te
 - t-001
   global_id: t-191420
   teiginys: "Pasakojime Sturlaugas Darbštusis kautynėse nužudė Ingvarą, kuris Narbuto tekste atsargiai siejamas su rusnėnų kariūnu."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Sturlaugas Darbštusis kariavo prieš Ingvaras (0.88)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "424374-424845; hash=307291336d1ce68370f4db13cbec47d1e387bb1cc92c1a19d5f60a0557f1eeca; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Ingvaras: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Sturlaugas Darbštusis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Ingvaras: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Nužudymas kautynėse tiesiogiai rodo karinį konfliktą tarp Sturlaugo ir Ingvaro."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174302
 - susijęs iš [[objektai/ivykiai/Sturlaugo žygis Rusioje Ingvaro nužudymas ir Aldejaborgo perdavimas.md#claim-t-192043|Sturlaugo žygis Rusioje Ingvaro nužudymas ir Aldejaborgo perdavimas]]: Narbuto datavime Sturlaugo žygis, Ingvaro nužudymas ir Aldejaborgo perdavimas siejami su II a. pabaiga arba III a. pradžia.
@@ -67,8 +51,8 @@ Pasakojime Sturlaugas Darbštusis kautynėse nužudė Ingvarą, kuris Narbuto te
     tas, net buvo įrodinėjama, jog tai turėjęs būti šiandienis
     Sliselburgas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -79,7 +63,8 @@ Pasakojime Sturlaugas Darbštusis kautynėse nužudė Ingvarą, kuris Narbuto te
 - id: c-174302
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 240"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 240."
   citata_originali: |
     Goterio sū­
     nus ir jo įpėdiniai ilgai užtrukusius karus su rusais nu­
@@ -98,6 +83,3 @@ Pasakojime Sturlaugas Darbštusis kautynėse nužudė Ingvarą, kuris Narbuto te
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191420
-
-## Ryšiai
-- Kariavo prieš: [[objektai/asmenys/Sturlaugas Darbštusis]]

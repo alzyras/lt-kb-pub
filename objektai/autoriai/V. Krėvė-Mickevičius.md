@@ -30,12 +30,6 @@ Krėvė-Mickevičius dar vaikščiojo Kauno gatvėmis) nebuvo labai patraukli ž
 - t-001
   global_id: t-193727
   teiginys: "Krėvė-Mickevičius dar vaikščiojo Kauno gatvėmis) nebuvo labai patraukli žydams, iš kitos pusės, carizmo priespaudą kentusių lietuvių tautinius jausmus žeidė, kad žydai tarpusavyje dažnai vartojo rusų kalbą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "340008-340944; hash=4209f10648cdb93f41fa736f4abb14595c621eb143c096bf6422a47e785b34de; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176396
 ## Reikšmingi paminėjimai
@@ -58,8 +52,8 @@ Krėvė-Mickevičius dar vaikščiojo Kauno gatvėmis) nebuvo labai patraukli ž
     pusės, carizmo priespaudą kentusių lietuvių tautinius jausmus žeidė, kad
     žydai tarpusavyje dažnai vartojo rusų kalbą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

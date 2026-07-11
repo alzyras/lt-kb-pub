@@ -32,9 +32,6 @@ Svarbi tyrinėtojos išvada, jog „susidaro įspūdis, kad jis niekuomet ir neb
 - t-001
   global_id: t-86566
   teiginys: "Požiūris į Jono Sniadeckio darbus laikytas romantikų, prepozityvistų ir „naujųjų klasikų“ skirties požymiu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "2282-2670; hash=a4998f7f20be2ce9244c33f1c03111cb35d553d459cab3546cb57de3c3ab3e48; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-82545
 ## Reikšmingi paminėjimai
@@ -51,8 +48,8 @@ Svarbi tyrinėtojos išvada, jog „susidaro įspūdis, kad jis niekuomet ir neb
     romantikų, prepozityvistų ar „naujųjų klasikų" lakmuso popie­
     rėlis - požiūris į Jono Sniadeckio darbus"1.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

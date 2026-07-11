@@ -43,20 +43,6 @@ Dusburgietis teigia, kad apie Brandenburgo markgrafo atvykimą Tais metais, tai 
 - t-001
   global_id: t-60341
   teiginys: "1255 m. žiemą Jonas, Brandenburgo markgrafas, su stipria kariuomene atžygiavo į Prūsiją, bet dėl šiltos žiemos nepasiekė tikėjimo priešų."
-  semantiniai_rysiai: "Jonas (Brandenburgo markgrafas) keliavo į Prūsija (0.90)"
-  temporaliniai_duomenys: "įvykio data: 1255 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs ir su antraštės triukšmu; citata leidžia suformuluoti pilną faktinį sakinį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "358833-359320; hash=92e6257eb27ec9194a9562d928407a1e686fe983dfb1251244cdb16edb371ccd; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Prūsija: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jonas (Brandenburgo markgrafas): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Claim tiesiogiai sako, kad Jonas atžygiavo į Prūsiją."
   pagrindžia:
     - c-60973
 ## Reikšmingi paminėjimai
@@ -74,8 +60,8 @@ Dusburgietis teigia, kad apie Brandenburgo markgrafo atvykimą Tais metais, tai 
     vietų, pereinamų tik tada, kai jas dengia labai storas ledas, antraip ten neįmanoma
     pereiti.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -86,7 +72,8 @@ Dusburgietis teigia, kad apie Brandenburgo markgrafo atvykimą Tais metais, tai 
 - id: c-60973
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 109"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 109."
   citata_originali: |
     77 (76). Apie Brandenburgo markgrafo atvykimą
 

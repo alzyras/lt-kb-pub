@@ -54,20 +54,6 @@ Nenurodyta
 - t-001
   global_id: t-39139
   teiginys: "1949 m. rugpjūčio 13 d. Radviliškio rajono Užpelkių miške buvo sunaikintas Prisikėlimo apygardos štabas."
-  semantiniai_rysiai: "Petras Bartkus-Žadgaila dalyvavo mūšyje Užpelkių kautynės (0.76)"
-  temporaliniai_duomenys: "įvykio data: 1949 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys pilnas, gramatiškas ir tiksliai paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "999970-1000475; hash=6a581e3148eaaf41f576c1acac1d58d597fa5a26455a760d856b11b1ac16c51e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "dalyvavo_musyje -> Užpelkių kautynės: 0.76"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Petras Bartkus-Žadgaila: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Užpelkių kautynės: llm_allowed_candidate, event"
-  ryšio_paaiskinimas: "Citatoje Petras Bartkus-Žadgaila minimas tarp žuvusiųjų tame kautynių įvykyje."
   pagrindžia:
     - c-40943
 - susijęs iš [[objektai/asmenys/Laurynas Mingilas-Džiugas.md#claim-t-79101|Laurynas Mingilas-Džiugas]]: Partizanas Laurynas Mingilas-Džiugas aprašė 1949 m. rugpjūčio 13 d. Užpelkių kautynes.
@@ -98,8 +84,8 @@ Nenurodyta
     Rimantas, pavaduotoju - Maironio rinkti-
     nės vadas Juozas Paliūnas-Rytas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -131,6 +117,3 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-39139
-
-## Ryšiai
-- Turėjo dalyvį: [[objektai/asmenys/Petras Bartkus-Žadgaila]]

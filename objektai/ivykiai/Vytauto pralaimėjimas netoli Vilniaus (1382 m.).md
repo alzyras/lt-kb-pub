@@ -57,17 +57,6 @@ Nenurodyta
 - t-001
   global_id: t-86967
   teiginys: "Vytautas, pralaimėjęs mūšį netoli Vilniaus ir netekęs tūkstančio žmonių, turėjo slėptis Trakų pilyje."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į Trakai (0.78)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "104679-105289; hash=8a0574e3bfad4db905df5406894cefca863420eddf861d0d40f091d5195c0c8f; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Trakai: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata rodo, kad po pralaimėjimo Vytautas pasitraukė į Trakų pilį."
   pagrindžia:
     - c-82946
 ## Reikšmingi paminėjimai
@@ -93,8 +82,8 @@ Nenurodyta
     vai užėmęs, jeigu Kęstutis su stipriais pulkais iš Žemaitijos į
     pagalbą sūnui pagaliau nebūtų atvykęs.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

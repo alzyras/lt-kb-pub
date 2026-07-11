@@ -40,19 +40,6 @@ Dusburgietis teigia, kad panašaus turinio „Trumpieji Prūsijos analai“ (pra
 - t-001
   global_id: t-61327
   teiginys: "„Trumpieji Prūsijos analai“ buvo pratęsti iki 1337 m."
-  temporaliniai_duomenys: "įvykio data: iki 1337 m.; įvykio data: 1337 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pirminis teiginys nutrūkęs ir užterštas nuorodų triukšmu, bet citata remia trumpą faktą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "58951-59859; hash=43e4d73eb7c9d552a053d81789b07f46674d5fb621d9c09937d7504992afcf18; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Prūsija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Trumpieji Prūsijos analai: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Prūsija: mention_match, place, gap=10"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trumpieji Prūsijos analai\" parinktas kaip owner_note_path. Targetas \"Prūsija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-61959
 ## Reikšmingi paminėjimai
@@ -80,8 +67,8 @@ Dusburgietis teigia, kad panašaus turinio „Trumpieji Prūsijos analai“ (pra
 
     Volfenbiutelio bibliotekos kopija99.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -92,7 +79,8 @@ Dusburgietis teigia, kad panašaus turinio „Trumpieji Prūsijos analai“ (pra
 - id: c-61959
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 21-22"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 21-22."
   citata_originali: |
     Panašaus turinio „Trumpieji Prūsijos analai“ (pratęsti iki 1337 m.)98 bei į Vieną patekusi
       87 Пашуто В. T. Борьба прусского народа..., с. 63—65; to paties, Образование...,

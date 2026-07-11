@@ -30,21 +30,6 @@ Narbutas, remdamasis senųjų amžių padavimais, hiperborėjais vadina graikams
 - t-001
   global_id: t-192972
   teiginys: "Narbutas, remdamasis senųjų amžių padavimais, hiperborėjais vadina graikams žinomus Tolimosios Šiaurės gyventojus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "61748-62176; hash=2d7b11b733a185aec527cd24845c8bf59a76fb02e49ae0649c4799ae0afe2ac6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Graikai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Hiperborėjai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Graikai: mention_match, group, gap=21"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Hiperborėjai\" parinktas kaip owner_note_path. Targetas \"Graikai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175742
 - susijęs iš [[objektai/posakiai/gintaru verkė Muleaigrido paukščiai arba hiperborėjų Apolonas.md#claim-t-193003|gintaru verkė Muleaigrido paukščiai arba hiperborėjų Apolonas]]: Narbutas pasakojimą, kad „gintaru verkė Muleaigrido paukščiai arba hiperborėjų Apolonas“, mini kaip senovės spėlionę apie gintaro kilmę.
@@ -71,8 +56,8 @@ Narbutas, remdamasis senųjų amžių padavimais, hiperborėjais vadina graikams
     šiaurės krašto valdovas2, o už jo valstybės būta dar šiau­
     resnių gyventojų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -83,7 +68,8 @@ Narbutas, remdamasis senųjų amžių padavimais, hiperborėjais vadina graikams
 - id: c-175742
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 37"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 37."
   citata_originali: |
     Apie šį sausumos iškilimą
     dar kalbėsime ir pateiksime kai kurių įrodymų; čia tik

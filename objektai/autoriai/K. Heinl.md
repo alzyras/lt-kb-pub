@@ -34,9 +34,6 @@ media_all_json: |-
 - t-001
   global_id: t-50874
   teiginys: "K. Heinlis teigė, kad Vytautui pasiekti savo tikslą buvo sunkiau negu jo pirmtakams."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "722425-722829; hash=9c6074ead0edcdc9bec01605ff5b8672014565af4f653edad4415d77cdb33b7d; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-36665
 
@@ -44,9 +41,6 @@ media_all_json: |-
 - t-002
   global_id: t-50875
   teiginys: "K. Heinl teigė, kad Vytautui valdžią įgyti buvo sunkiau nei pirmtakams, bet jis tikslą pasiekė puikiau už juos."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "722425-722829; hash=9c6074ead0edcdc9bec01605ff5b8672014565af4f653edad4415d77cdb33b7d; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-36665
 - susijęs iš K. Heinl, Fürst Witold von Litauen 1382-1401: K. Heinlio „Fürst Witold von Litauen 1382–1401“ 1925 m. buvo išleistas kaip 61 puslapio darbas.
@@ -65,8 +59,8 @@ media_all_json: |-
     kaip pasakoja Enejas Silvijus Picolomini, o užsieny jo įtaka
     taip pat buvo didžiausia.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

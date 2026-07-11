@@ -30,14 +30,6 @@ Narbuto aprašyme lietuvių liudytojas dėdavo kepurę prieš teisėją ir ja la
 - t-001
   global_id: t-189583
   teiginys: "Narbuto aprašyme lietuvių liudytojas dėdavo kepurę prieš teisėją ir ja laiduodavo savo liudijimo sąžiningumą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "563433-563934; hash=716e2ab4c00b2713ace5e5a700a3ea29b7cac902c1af69498dc62a6e5769141c; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172469
 ## Reikšmingi paminėjimai
@@ -60,8 +52,8 @@ Narbuto aprašyme lietuvių liudytojas dėdavo kepurę prieš teisėją ir ja la
     ginantys pasitikėti, yra senųjų lietuvių būdo bruožas; jiems liu­
     dytojo sąžiningumas buvo ne žaislas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

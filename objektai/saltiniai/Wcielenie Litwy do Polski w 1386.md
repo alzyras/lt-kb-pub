@@ -41,19 +41,6 @@ media_all_json: |-
 - t-001
   global_id: t-31986
   teiginys: "H. Łowmiańskio „Wcielenie Litwy do Polski w 1386“ išspausdintas AW 12 tome 1937 m., p. 36-145."
-  temporaliniai_duomenys: "įvykio data: 1937 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Fragmentas nepilnas, bet citata pateikia autorių, leidinį, tomą, metus ir puslapius."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "805499-805890; hash=97a056fc0686975b9eccc850989fe0d5df5bc99b2547b5a6c1024624454920c8; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Tomas (Hertvigo iš Pokarvių sūnus): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Wcielenie Litwy do Polski w 1386: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Tomas (Hertvigo iš Pokarvių sūnus): mention_match, person, gap=54"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Wcielenie Litwy do Polski w 1386\" parinktas kaip owner_note_path. Targetas \"Tomas (Hertvigo iš Pokarvių sūnus)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-33755
 ## Reikšmingi paminėjimai
@@ -70,8 +57,8 @@ media_all_json: |-
     Polska_ , Kraków 1934 (plati bibliogr.). — Ochmański, J. : _Biskupstwo
     wileńskie w średniowieczu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

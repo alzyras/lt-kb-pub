@@ -47,12 +47,6 @@ Lotyniškas botaninio pavadinimo pavidalas pateikiamas tik kaip gamtininkų apra
 - t-002
   global_id: t-192256
   teiginys: "Narbutas, remdamasis gamtininkais, apibūdina Hevea Gujanensis kamieną, vaisių, sėklų branduolius ir sakus."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "610520-610947; hash=1370bc5ccb344fc8999038436b814386c4fd6b0b67d89b21526cde22e7581796; match=ocr_normalized"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175091
 
@@ -60,12 +54,6 @@ Lotyniškas botaninio pavadinimo pavidalas pateikiamas tik kaip gamtininkų apra
 - t-003
   global_id: t-192257
   teiginys: "Narbuto perteikiamu gamtininkų aprašymu, Hevea Gujanensis sakai yra aromatingi ir naudojami žvakėms bei deglams daryti."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "610520-610947; hash=1370bc5ccb344fc8999038436b814386c4fd6b0b67d89b21526cde22e7581796; match=ocr_normalized"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175091
 
@@ -73,12 +61,6 @@ Lotyniškas botaninio pavadinimo pavidalas pateikiamas tik kaip gamtininkų apra
 - t-001
   global_id: t-192258
   teiginys: "Narbutas, remdamasis gamtininkų aprašymais, Hevea Gujanensis pristato kaip labai aukštą medį."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "610520-610947; hash=1370bc5ccb344fc8999038436b814386c4fd6b0b67d89b21526cde22e7581796; match=ocr_normalized"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175091
 ## Reikšmingi paminėjimai
@@ -96,8 +78,8 @@ Lotyniškas botaninio pavadinimo pavidalas pateikiamas tik kaip gamtininkų apra
     jami žvakėms ir deglams daryti. Tad čia rasta šiokia to­
     kia giminystė, bet tik giminystė“.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -110,7 +92,8 @@ Lotyniškas botaninio pavadinimo pavidalas pateikiamas tik kaip gamtininkų apra
 - id: c-175091
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 339"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 339."
   citata_originali: |
     Tik
     Hevea Gujanensis, anot gamtininkų aprašymų, išauga

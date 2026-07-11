@@ -32,16 +32,6 @@ Tą pavadinimą « Criwe-Kirwaito » pirmasis įvedė labai nepatikimas XVI amž
 - t-003
   global_id: t-30981
   teiginys: "Simonas Grunau rodyklėje nurodytas kaip kronikininkas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1055965-1056681; hash=c853f3b10a8bf33aaca91d00a5ddf684937cf1a470e5bf5d1ba1e849df0ac565; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Simonas Grunau: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Simono Grunau: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Simonas Grunau: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Simono Grunau\" parinktas kaip owner_note_path. Targetas \"Simonas Grunau\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-33142
 
@@ -49,16 +39,6 @@ Tą pavadinimą « Criwe-Kirwaito » pirmasis įvedė labai nepatikimas XVI amž
 - t-002
   global_id: t-30982
   teiginys: "Simonas Grunau paskelbė pagonių rašmenis, kuriuos kiti iki XX a. pradžios nekritiškai kartojo."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "808505-808874; hash=6ba4b9574c351f79ca3fe02ce14f00f08666db82211fbe47616b0c17fddc36b3; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Simonas Grunau: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Simono Grunau: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Simonas Grunau: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Simono Grunau\" parinktas kaip owner_note_path. Targetas \"Simonas Grunau\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-33141
 
@@ -66,16 +46,6 @@ Tą pavadinimą « Criwe-Kirwaito » pirmasis įvedė labai nepatikimas XVI amž
 - t-001
   global_id: t-30983
   teiginys: "Simonas Grunau pirmasis įvedė pavadinimą „Criwe-Kirwaito“."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "408117-408510; hash=07f78f655f8fdc30e305f28953ddd62d1d4e78ea14956dc61a275b6df8a4954a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Simonas Grunau: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Simono Grunau: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Simonas Grunau: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Simono Grunau\" parinktas kaip owner_note_path. Targetas \"Simonas Grunau\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-33140
 - susijęs iš [[objektai/asmenys/Simonas Grunau.md#claim-t-183568|Simonas Grunau]]: Simono Grunau kronikoje Rikojotas aprašytas kaip prūsų dievų kulto centras su žaliuojančiu ąžuolu, šventykla ir trimis dievų stabais.
@@ -101,8 +71,8 @@ Tą pavadinimą « Criwe-Kirwaito » pirmasis įvedė labai nepatikimas XVI amž
     reikšti pasižymėjusio žynio, ar burtininko tikrinį vardą (A. Mierzyń­
     ski).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -118,8 +88,8 @@ Tą pavadinimą « Criwe-Kirwaito » pirmasis įvedė labai nepatikimas XVI amž
     XVI amž. fantasto kronikininko Simono Grunau paskelbti pagonių
     rašmens, kuriuos kiti iki XX amž. pradžios nekritiškai kartojo^2.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -166,8 +136,8 @@ Tą pavadinimą « Criwe-Kirwaito » pirmasis įvedė labai nepatikimas XVI amž
     Guogų-Piliuonos piliakalnis 76
     Habsburgai 32, 83, 239, 284, 289,
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

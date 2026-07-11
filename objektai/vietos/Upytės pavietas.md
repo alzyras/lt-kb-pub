@@ -38,21 +38,6 @@ media_all_json: |-
 - t-001
   global_id: t-187369
   teiginys: "1434 m. rugpjūčio pabaigoje vienas Livonijos kryžiuočių dalinys buvo įsibrovęs į Upytės pavietą."
-  teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Kryžiuočių ordinas puolė Upytės pavietas (0.88)"
-  temporaliniai_duomenys: "įvykio data: 1434 m.; įvykio data: apie 1434 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
-  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir tiksliai perteikia citatoje minimą 1434 m. rugpjūčio pabaigos įsiveržimą į Upytės pavietą. Vertinamųjų ar poleminių formuluočių nepridėta."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "519826-520153; hash=93e67d8b8336b0d4532a29cfc53dd05520c95ab4a891536770aee711cf2a9af8; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  ryšio_patikimumas: "puole -> Upytės pavietas: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Upytės pavietas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Claimas tiesiogiai sako, kad kryžiuočių dalinys įsibrovė į Upytės pavietą."
   pagrindžia:
     - c-170381
 ## Reikšmingi paminėjimai
@@ -67,8 +52,8 @@ media_all_json: |-
     tų. o kiti du — | Žemaitija; Iš pastarųjų vienas buvo sumuštas
     Žemaičių seniūno vadovaujam ų lietuvių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -94,6 +79,3 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187369
-
-## Ryšiai
-- Puolė Upytės pavietą: [[objektai/grupes/Kryžiuočių ordinas]]

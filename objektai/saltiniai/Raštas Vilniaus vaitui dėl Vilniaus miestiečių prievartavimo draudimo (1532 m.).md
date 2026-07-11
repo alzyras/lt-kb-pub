@@ -41,19 +41,6 @@ Kreipėsi į mus Vilniaus miesto burmistrai ir tarybos nariai ir visi miestieči
 - t-002
   global_id: t-88207
   teiginys: "1532 m. raštu Vilniaus vaitui įsakyta neužkrauti miestiečiams prievolių ir gerbti jų Magdeburgo teises."
-  temporaliniai_duomenys: "įvykio data: 1532 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalintas puslapio triukšmas; citata tiesiogiai palaiko įsakymo esmę."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "606460-607534; hash=bfcdd27aef723b881da6aa44ad06a9064f2c06964bcff4a79eacff014896a9a4; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Raštas Vilniaus vaitui dėl Vilniaus miestiečių prievartavimo draudimo (1532 m.): owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=6"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Raštas Vilniaus vaitui dėl Vilniaus miestiečių prievartavimo draudimo (1532 m.)\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-84185
 ## Reikšmingi paminėjimai
@@ -88,8 +75,8 @@ Kreipėsi į mus Vilniaus miesto burmistrai ir tarybos nariai ir visi miestieči
     niaus vaitystei, pats sulaužysi ir per tai nebebūsi ten mūsų
     tarnautojas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

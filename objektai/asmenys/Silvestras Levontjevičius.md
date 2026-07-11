@@ -35,16 +35,6 @@ Likus trims sa­ vaitėms iki Velykų, pskoviečiai pa­ siuntė pas Vytautą po
 - t-001
   global_id: t-87928
   teiginys: "Pskoviečiai pasiuntė posadniką Silvestrą Levontjevičių pas Vytautą derėtis dėl belaisvių išpirkimo."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "348494-349405; hash=1221a8097c5045afe16291703d50ffab5604fc1b3188c571a4c85d507849af83; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Bajorai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Silvestras Levontjevičius: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Bajorai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Silvestras Levontjevičius\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-83907
 - susijęs iš [[objektai/zodynas/posadnikas bojarinas vietininkas.md#claim-t-86609|posadnikas bojarinas vietininkas]]: 1429 metais pas Vytautą buvo atsiųsti Pskovo posadnikas Silvestras Levontjevičius ir vietininkas Parfėjus.
@@ -81,8 +71,8 @@ Likus trims sa­ vaitėms iki Velykų, pskoviečiai pa­ siuntė pas Vytautą po
     dieną (spalio pirmą pagal Grigaliaus
     kalendorių)].
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -127,6 +117,3 @@ Likus trims sa­ vaitėms iki Velykų, pskoviečiai pa­ siuntė pas Vytautą po
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87928
-
-## Ryšiai
-- Silvestras Levontjevičius keliavo į [[objektai/vietos/Vilnius]]

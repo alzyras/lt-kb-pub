@@ -46,18 +46,6 @@ Tadas Kosciuška, pasižymėjęs Amerikos nepriklauso- mybės kovose generolas, 
 - t-008
   global_id: t-82738
   teiginys: "Tadas Kosciuška gegužės 4 d., spaudžiamas konservatyvių sukilimo vadovybės atstovų, pašalino Jasinskį iš Lietuvos sukilėlių vado pareigų."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "612027-612592; hash=7c4affd79e51ba32e059cce288066cc0da433ce1515da42567c6b816daa2886d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Tadas Kosciuška: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=105"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tadas Kosciuška\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-79181
 
@@ -65,16 +53,6 @@ Tadas Kosciuška, pasižymėjęs Amerikos nepriklauso- mybės kovose generolas, 
 - t-010
   global_id: t-82740
   teiginys: "Tadas Kosciuška mėgino gelbėti Lenkijos-Lietuvos valstybę jos žlugimo išvakarėse."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "893-1457; hash=4990dc0ce021d8c2b67fdcc8e8243e12d40cd398047aa2d6b072fc09e1f5e8a8; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Tadas Kosciuška: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=40"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tadas Kosciuška\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-79177
 
@@ -82,9 +60,6 @@ Tadas Kosciuška, pasižymėjęs Amerikos nepriklauso- mybės kovose generolas, 
 - t-006
   global_id: t-82741
   teiginys: "Tadas Kosciuška, norėdamas sukelti valstiečius, leido atsišaukimus, žadėdamas laisvę prisidėjusiems prie sukilimo."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "888773-889137; hash=528752ae53c9350dd002427a2dbe1351082c763359b9e67d04d2e7aca5682e31; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-79183
 
@@ -92,11 +67,6 @@ Tadas Kosciuška, pasižymėjęs Amerikos nepriklauso- mybės kovose generolas, 
 - t-005
   global_id: t-82742
   teiginys: "Tadas Kosciuška pasižymėjo Amerikos nepriklausomybės kovose, buvo Jurgio Vašingtono draugas ir 1794 m. sukilimo vadas."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "hash=572c84d72abfe2d79ebbf94a337c95c53122a675c6a1d9f9a4cb066fb1cf59e6; match=normalized; occurrences=1"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-79180
 - susijęs iš [[objektai/asmenys/Mykolas Velhorskis.md#claim-t-40363|Mykolas Velhorskis]]: Iš Lenkijos atsiųstas generolas leitenantas Mykolas Velhorskis pakeitė ankstesnį Lietuvos sukilėlių vadą.
@@ -126,8 +96,8 @@ Tadas Kosciuška, pasižymėjęs Amerikos nepriklauso- mybės kovose generolas, 
     bajoriškų atžalų, buvo Vilniaus universiteto suklestėjimo ir žlu­
     gimo liudininkas, miesto kultūrinio gyvenimo dalyvis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -144,8 +114,8 @@ Tadas Kosciuška, pasižymėjęs Amerikos nepriklauso- mybės kovose generolas, 
     limo vadas, 1794—1796 m. Rusų
     belaisvis († 1817 m.).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -170,8 +140,8 @@ Tadas Kosciuška, pasižymėjęs Amerikos nepriklauso- mybės kovose generolas, 
     Kosciuška gegužės 4 d. pašalino Jasinskį iš
     Lietuvos sukilėlių vado pareigų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -189,8 +159,8 @@ Tadas Kosciuška, pasižymėjęs Amerikos nepriklauso- mybės kovose generolas, 
     kimų, žadėdamas visiems, prie sukilimo prisidėjusiems, laisvę
     (tokių atsišaukimų buvo išleistų ir lietuviškų).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -286,6 +256,3 @@ Tadas Kosciuška, pasižymėjęs Amerikos nepriklauso- mybės kovose generolas, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82741
-
-## Ryšiai
-- Tadas Kosciuška paskyrė [[objektai/asmenys/Mykolas Velhorskis]]

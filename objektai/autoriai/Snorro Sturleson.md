@@ -35,12 +35,6 @@ media_all_json: |-
 - t-001
   global_id: t-194316
   teiginys: "Įdedame čia trumpą žinutę apie tą Snorro ir jo darbus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "131936-133007; hash=d9f3a204ab9be4ad9c1d5224aa8b9955eaa5994b6907dcc275108a029bcc06ed; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176908
 ## Reikšmingi paminėjimai
@@ -80,8 +74,8 @@ media_all_json: |-
     anuomet žinotas kai kurių skaldų
     giesmes.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

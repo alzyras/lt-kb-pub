@@ -65,22 +65,6 @@ Nenurodyta
 - t-007
   global_id: t-10287
   teiginys: "1236 m. rugsėjį į Lietuvą įžengusios Kalavijuočių ordino brolių ir Europos kryžininkų pajėgos pasidalijo į būrius ir ėmė plėšti."
-  semantiniai_rysiai: "Kalavijuočių ordinas puolė Lietuva (0.75)"
-  temporaliniai_duomenys: "įvykio data: 1236 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko informatyvesnį sakinį apie kryžininkų veiksmus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "65326-65700; hash=08b3063b18a187588f470fc8385988aec329023e558940d7c566f94b0cbbdef2; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Lietuva: 0.75"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kalavijuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys nurodo, kad Kalavijuočių ordino brolių pajėgos įžengė į Lietuvą ir ėmė plėšti."
-  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-11907
 
@@ -88,16 +72,6 @@ Nenurodyta
 - t-008
   global_id: t-10288
   teiginys: "Saulės žemėje lietuviai užmušė 50 ordino brolių ir daugybę tikratikių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "75192-75530; hash=8b085b4227f5ea27f815376b7ee9cc05abd00568d11f5051925fa51b5b638f0d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Saulės mūšis (1236 m. rugsėjo 22 d.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=14"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Saulės mūšis (1236 m. rugsėjo 22 d.)\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-11908
 
@@ -105,16 +79,6 @@ Nenurodyta
 - t-009
   global_id: t-10289
   teiginys: "Saulės mūšis išstūmė vokiečių ekspansiją iki Dauguvos ir paskatino žiemgalių, kuršių bei saremiečių sukilimus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "71424-71635; hash=d8f5472cc5a7a6b072e1dae7819a41fee4b653f50013f9370724efe9d6740b4f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Dauguva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Saulės mūšis (1236 m. rugsėjo 22 d.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Dauguva: mention_match, place, gap=45"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Saulės mūšis (1236 m. rugsėjo 22 d.)\" parinktas kaip owner_note_path. Targetas \"Dauguva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-11909
 
@@ -122,21 +86,6 @@ Nenurodyta
 - t-010
   global_id: t-10290
   teiginys: "1236 m. pergalė Šiaulių žemėje buvo itin reikšminga Lietuvos, Baltijos regiono ir Rytų Europos istorinei raidai."
-  temporaliniai_duomenys: "įvykio data: 1236 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Perrašyta tiksliau pagal citatą ir pašalinta perteklinė formuluotė."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "74377-74824; hash=c998959aa487e2495c0ffc746da639594a6728d7c14bd1b47753578e0dbdbba8; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Baltija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Saulės mūšis (1236 m. rugsėjo 22 d.): owner_note_path, event"
-  ryšio_targeto_parinkimas: "Baltija: mention_match, place, gap=63"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Saulės mūšis (1236 m. rugsėjo 22 d.)\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-11910
 
@@ -144,18 +93,6 @@ Nenurodyta
 - t-005
   global_id: t-66879
   teiginys: "Ivinskis Saulės mūšį lokalizuoja prie Saulės, Šiaulių srityje, ir datuoja 1236 m. rugsėjo 22 d."
-  temporaliniai_duomenys: "įvykio data: 1236 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1091205-1091629; hash=a81a551db7dde414e05e6f0f2d0f1cc672b6df4380fdbfffdd3f09c83a50cf96; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Šiauliai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Saulės mūšis (1236 m. rugsėjo 22 d.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Šiauliai: mention_match, place, gap=37"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Saulės mūšis (1236 m. rugsėjo 22 d.)\" parinktas kaip owner_note_path. Targetas \"Šiauliai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-66986
     - c-66987
@@ -164,20 +101,6 @@ Nenurodyta
 - t-011
   global_id: t-66880
   teiginys: "Prieš Saulės mūšį 1236 m. kalavijuočiai su svečiais įsiveržė į Lietuvą ir žiauriai nusiaubė kraštą."
-  semantiniai_rysiai: "Kalavijuočių ordinas puolė Lietuva (0.92)"
-  temporaliniai_duomenys: "įvykio data: 1236 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Perrašyta, kad teiginys būtų aiškiai susietas su pastabos objektu."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "hash=1939fe8c14e62b23d2c2b05d626a98a3af4ce470ab4af07f52dfbd62fb1b3f3c; match=not_found; occurrences=0"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Lietuva: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kalavijuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad kalavijuočiai įsiveržė į Lietuvą."
   pagrindžia:
     - c-66984
 
@@ -185,20 +108,6 @@ Nenurodyta
 - t-012
   global_id: t-66881
   teiginys: "Po pralaimėto Saulės mūšio likusieji kalavijuočiai paprašė kryžiuočius priimti juos į savo tarpą."
-  semantiniai_rysiai: "Kalavijuočių ordinas sudarė sutartį su Kryžiuočių ordinas (0.86)"
-  temporaliniai_duomenys: "įvykio data: 1237 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys turi neaiškią nuorodą „šitą mūšį“."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "116376-116606; hash=a67a4d8f371484c5272f1a11c22f5e9aa54e84adb8a27adcbfbf5333b8a28802; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "sudare_sutarti_su -> Kryžiuočių ordinas: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kalavijuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata nurodo, kad likusių kalavijuočių ir kryžiuočių susitarimas buvo patvirtintas."
   pagrindžia:
     - c-66988
 
@@ -206,19 +115,6 @@ Nenurodyta
 - t-006
   global_id: t-66882
   teiginys: "1236 m. rugsėjo 22 d. prie Saulės Vykinto vadovaujami būriai sumušė grįžtančius riterius; žuvo Volkevinas ir 48 riteriai."
-  temporaliniai_duomenys: "įvykio data: 1236 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalintas boilerplate ir teiginys aiškiai susietas su Saulės mūšiu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "468744-469191; hash=cae702095601262d2d1f6c75253979b726f6bee7a58051ecefc24dcbc10bb609; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Mauricijus: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Saulės mūšis (1236 m. rugsėjo 22 d.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Mauricijus: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Saulės mūšis (1236 m. rugsėjo 22 d.)\" parinktas kaip owner_note_path. Targetas \"Mauricijus\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-66987
 - susijęs iš [[objektai/autoriai/Hermanas Vartbergė.md#claim-t-171495|Hermanas Vartbergė]]: Hermano Vartbergės „Livonijos kronikoje“ aprašytas 1236 m. Saulės mūšis ir jo pasekmės Kalavijuočių ordinui.
@@ -240,8 +136,8 @@ Nenurodyta
     strateginė kelių sankryža yra Šiauliuose
     (ties dab.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -255,8 +151,8 @@ Nenurodyta
     ten Saulės žemėje (terram Sauleorum) šv. Maurikijaus ir jo draugų kankinių dieną patys
     lietuviai užmušė 50 ordino brolių ir daugybę tikratikių (multitudine fidelium).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -272,8 +168,8 @@ Nenurodyta
     blokšta iki Dauguvos, į XIII a. pradžios
     ribas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -297,8 +193,8 @@ Nenurodyta
     tijos regiono bei Rytų Europos istorinei
     raidai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -314,8 +210,8 @@ Nenurodyta
     riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai
     pastojo jiems kelią.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -345,8 +241,8 @@ Nenurodyta
     Schmid H. F. 293
     Schmidt Wilh.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -363,8 +259,8 @@ Nenurodyta
     Daugybės žuvusiųjų tarpe buvo pats Volkevinas ir 48 riteriai 7#,
     o kitus bėglius pakelyje žudė žiemgaliai^77.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -381,8 +277,8 @@ Nenurodyta
     prašė kryžiuočius priimti juos į savo tarpą. 1237 m. popie-
     žius patvirtino jų susitarimą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

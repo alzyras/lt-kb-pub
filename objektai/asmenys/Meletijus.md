@@ -30,14 +30,6 @@ Visi šie žynių - vyrų ir moterų - vardai paimti iš Meletijaus ir Pretorija
 - t-001
   global_id: t-194827
   teiginys: "Visi šie žynių - vyrų ir moterų - vardai paimti iš Meletijaus ir Pretorijaus, tyrusių dalyką pagal paprastų žmonių sa kytinius padavimus; jų teiginius patvirtino vėlesni tyrėjai."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "526434-526736; hash=01a822b59994ba7353b2fc703794974942a6133ee2784f6cae179c4c75ad7600; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-177223
 ## Reikšmingi paminėjimai
@@ -54,8 +46,8 @@ Visi šie žynių - vyrų ir moterų - vardai paimti iš Meletijaus ir Pretorija
     Burtininkė (Burte)
     Lietuvių barde -  Burtyniczka.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -66,7 +58,8 @@ Visi šie žynių - vyrų ir moterų - vardai paimti iš Meletijaus ir Pretorija
 - id: c-177223
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 301"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 301."
   citata_originali: |
     Daugeliu požiūrių
     šios žynės buvo Antikos bakchančių pamėgdžiojimas.

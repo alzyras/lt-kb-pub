@@ -34,17 +34,6 @@ Atvyko Jogaila su savo šimtais palydovų, Romos ciesorius Zigmantas su savo žm
 - t-001
   global_id: t-35031
   teiginys: "Barbora Cyleikaitė atvyko su savo vyru Romos ciesoriumi Zigmantu ir buvo Jogailos antrosios žmonos giminaitė."
-  semantiniai_rysiai: "Barbora Cyleikaitė buvo žmona Zigmantas (Romos imperatorius) (0.96)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "523223-523673; hash=2b4c8d487537f10275bf34e4af6bb8b7dcbc2fcf50f4ee01ccdd400fb8a6812c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_zmona -> Zigmantas (Romos imperatorius): 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Barbora Cyleikaitė: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Zigmantas (Romos imperatorius): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Barbora Cyleikaitė buvo Zigmanto žmona."
   pagrindžia:
     - c-37986
 ## Reikšmingi paminėjimai
@@ -61,8 +50,8 @@ Atvyko Jogaila su savo šimtais palydovų, Romos ciesorius Zigmantas su savo žm
     Buvo čia taip pat Vokietijos pasiuntiniai, Silezijos kunigaikš­
     čiai ir Hanzos atstovai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

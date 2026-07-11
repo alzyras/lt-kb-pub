@@ -30,12 +30,6 @@ APIE ROMOS KUNIGAIKŠTI PALEMONĄ IR KAIP JIS ĮSIKORĖ ŽEMAITIJOJE Kunigaikšt
 - t-001
   global_id: t-194128
   teiginys: "APIE ROMOS KUNIGAIKŠTI PALEMONĄ IR KAIP JIS ĮSIKORĖ ŽEMAITIJOJE Kunigaikštis, vardu Apolonas taip pat buvęs ta me mieste, [bėgo su jais), viską pasiėmęs, o su juo — penki šimtai vien Romos patricijų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "72134-72650; hash=606e4bfd68b292c4b2d8a4e0f519f00d34a7e71e461382d868c6c789b8f4ddca; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176741
 ## Reikšmingi paminėjimai
@@ -56,8 +50,8 @@ APIE ROMOS KUNIGAIKŠTI PALEMONĄ IR KAIP JIS ĮSIKORĖ ŽEMAITIJOJE Kunigaikšt
     Ir išplaukė jis Viduržemio jūra, pasiėmęs su savi­
     mi vieną astronomą, kuris nusivokė apie žvaigždes.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

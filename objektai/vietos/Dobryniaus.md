@@ -40,20 +40,6 @@ media_all_json: |-
 - t-001
   global_id: t-32136
   teiginys: "1300 m. lietuviai vėl pasirodė Dobryniaus ir Kujavijos srityse, kur patyrė kryžiuočių smūgį."
-  semantiniai_rysiai: "Lietuviai keliavo į Dobryniaus (0.80); Lietuviai keliavo į Kujavija (0.80); Kryžiuočių ordinas puolė Lietuviai (0.75)"
-  temporaliniai_duomenys: "įvykio data: 1300 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nusako lietuvių pasirodymą Dobryniaus srityje ir patirtą smūgį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "606328-606593; hash=0ce4db425bfcf5a7cd227c61810d5526f4d17fbee490a864d332a52fbc402a1b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Dobryniaus: 0.80"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Dobryniaus: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo lietuvių pasirodymą Dobryniaus srityje."
   pagrindžia:
     - c-33828
 - susijęs iš [[objektai/grupes/Dobryniaus riterių brolija.md#claim-t-99990|Dobryniaus riterių brolija]]: Kristijono įkurtoji Dobryniaus riterių brolija neturėjo jėgos.
@@ -69,8 +55,8 @@ media_all_json: |-
     su rusais tada lietuviai vėl puolė Sandomieriaus ir Liublino žemes,
     o 1307 buvo įsiveržę į Kališo sritį^5.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -95,6 +81,3 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-32136
-
-## Ryšiai
-- Buvo kelionės vieta: [[objektai/grupes/Lietuviai]]

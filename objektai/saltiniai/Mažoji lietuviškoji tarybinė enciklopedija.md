@@ -40,12 +40,6 @@ Dusburgietis teigia, kad mažoji lietuviškoji tarybinė enciklopedija.—T.
 - t-001
   global_id: t-61176
   teiginys: "„Mažoji lietuviškoji tarybinė enciklopedija“ išėjo trimis tomais 1966, 1968 ir 1971 m."
-  temporaliniai_duomenys: "įvykio data: 1971 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata patvirtina tomų skaičių ir leidimo metus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "786127-786200; hash=b3ea7d7365c7d18e6e045254ad7cf632f2435017a42958c12ff319c330e4f285; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-61808
 ## Reikšmingi paminėjimai
@@ -56,8 +50,8 @@ Dusburgietis teigia, kad mažoji lietuviškoji tarybinė enciklopedija.—T.
   citata_originali: |
     Mažoji lietuviškoji tarybinė enciklopedija.—T. 1—3.—V., 1966, 1968, 1971.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -68,7 +62,8 @@ Dusburgietis teigia, kad mažoji lietuviškoji tarybinė enciklopedija.—T.
 - id: c-61808
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 267"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 267."
   citata_originali: |
     Mažoji lietuviškoji tarybinė enciklopedija.—T. 1—3.—V., 1966, 1968, 1971.
   statusas: verified

@@ -40,12 +40,6 @@ Dusburgietis teigia, kad zimmermann P.
 - t-001
   global_id: t-61384
   teiginys: "P. Zimmermanno veikalas „Geschichte des Kreises Labiau bis etwa zum Jahre 1500“ išleistas Labiau 1925 m."
-  temporaliniai_duomenys: "įvykio data: 1925 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pateikia bibliografinę informaciją apie leidinį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "805740-805823; hash=462dbfbb9fdfacf885e9f660136f31652466afb1f95b3009aecde9775172d74e; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-62016
 ## Reikšmingi paminėjimai
@@ -57,8 +51,8 @@ Dusburgietis teigia, kad zimmermann P.
     Zimmermann P. Geschichte des Kreises Labiau bis etwa zum Jahre 1500.— Labiau,
     1925.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -69,7 +63,8 @@ Dusburgietis teigia, kad zimmermann P.
 - id: c-62016
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 274"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 274."
   citata_originali: |
     Zimmermann P. Geschichte des Kreises Labiau bis etwa zum Jahre 1500.— Labiau,
     1925.

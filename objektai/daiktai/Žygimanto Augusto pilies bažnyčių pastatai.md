@@ -63,16 +63,6 @@ Nenurodyta
 - t-002
   global_id: t-87041
   teiginys: "Žygimanto Augusto pradėti Šv. Onos bažnyčios pilyje pastatai jam gyvam esant nebuvo užbaigti."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "555739-556536; hash=c4d77ea6e6d04f576345f3cad1890b1eb2db0529bc817b3aff0a0bbce3779a88; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Augustas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žygimanto Augusto pilies bažnyčių pastatai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Augustas: mention_match, person, gap=10"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimanto Augusto pilies bažnyčių pastatai\" parinktas kaip owner_note_path. Targetas \"Augustas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-83020
 
@@ -80,17 +70,6 @@ Nenurodyta
 - t-001
   global_id: t-87042
   teiginys: "Žygimantas Augustas Žemutinėje pilyje pastatydino Šv. Barboros bažnyčią mylimos žmonos atminimui."
-  semantiniai_rysiai: "Žygimantas Augustas (arkivyskupas, XVI a.) pastatė Žygimanto Augusto pilies bažnyčių pastatai (0.79); Žygimantas Augustas (arkivyskupas, XVI a.) buvo vyras Barbora Radvilaitė (0.68)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "555064-555738; hash=c0788db8cd329b32cf7ab4b15eae98a446ffc64e7c8de327dfb36fe0b7729383; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "pastate -> Žygimanto Augusto pilies bažnyčių pastatai: 0.79"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Žygimantas Augustas (arkivyskupas, XVI a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Žygimanto Augusto pilies bažnyčių pastatai: llm_allowed_candidate, thing"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Augustas pastatydino bažnyčią, kuri įeina į savininko nurodytą bažnyčių pastatų objektą."
   pagrindžia:
     - c-83021
 ## Reikšmingi paminėjimai
@@ -124,8 +103,8 @@ Nenurodyta
     apleisti ir, vykdant karaliaus valią, vietoje jų, pastatyta nau­
     ja, šiandien egzistuojanti bažnyčia?
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -149,8 +128,8 @@ Nenurodyta
     mą Žygimantas Augustas testamentu rūpestingai pavedė se­
     serims36.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -218,6 +197,3 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87042
-
-## Ryšiai
-- Buvo pastatyta: [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]]

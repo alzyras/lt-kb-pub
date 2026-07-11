@@ -62,19 +62,6 @@ Nenurodyta
 - t-001
   global_id: t-54337
   teiginys: "Apskrities bajorų susirinkimas rinko kai kuriuos už viešąją tvarką atsakingus pareigūnus ir žemutinės teismų grandies teisėjus."
-  temporaliniai_duomenys: "įvykio data: 1795 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nusako bajorų susirinkimo funkciją ir yra paremtas citata."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "184968-185660; hash=ca221e0210fb3efc97df5372c3e7e7cb0bbbcaa91bcaf617332052cecea625d1; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Bajorai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Rusijos imperijos vietinė luominė savivalda ir bajorų seimeliai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Bajorai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rusijos imperijos vietinė luominė savivalda ir bajorų seimeliai\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-55203
 
@@ -82,19 +69,6 @@ Nenurodyta
 - t-003
   global_id: t-54339
   teiginys: "1795 m. Rusijos aneksuotoje LDK dalyje buvo įvesta vietinio valdymo sistema su bajorų susirinkimais."
-  temporaliniai_duomenys: "įvykio data: 1795 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir tiksliai perteikia citatos informaciją."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "184968-185660; hash=ca221e0210fb3efc97df5372c3e7e7cb0bbbcaa91bcaf617332052cecea625d1; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Bajorai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Rusijos imperijos vietinė luominė savivalda ir bajorų seimeliai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Bajorai: mention_match, group, gap=71"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rusijos imperijos vietinė luominė savivalda ir bajorų seimeliai\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-55203
 ## Reikšmingi paminėjimai
@@ -114,8 +88,8 @@ Nenurodyta
     ma buvo įvesta ir 1795 m. Rusijos aneksuotoje LDK dalyje, kurioje gyveno
     per 1,8 mln. žmonių, iš jų 1,1 mln. etnografinėje Lietuvoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

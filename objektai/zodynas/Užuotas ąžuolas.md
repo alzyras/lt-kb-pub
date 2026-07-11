@@ -30,21 +30,6 @@ Narbutas prūsų Romovės ąžuolą vaizdavo kaip didžiausių šventybių prieg
 - t-001
   global_id: t-189120
   teiginys: "Narbutas prūsų Romovės ąžuolą vaizdavo kaip didžiausių šventybių prieglaudą, kurią, kronikininkų liudijimu, puolant Prūsiją bandė sunaikinti Boleslovas Kreivaburnis."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "403293-403757; hash=00481d8432247612cb90e4ab5f708e05fdec94c5777b242fcc2557ae5d3e76fa; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Boleslovas Kreivaburnis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Užuotas ąžuolas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Boleslovas Kreivaburnis: mention_match, person, gap=118"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Užuotas ąžuolas\" parinktas kaip owner_note_path. Targetas \"Boleslovas Kreivaburnis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172008
 
@@ -52,21 +37,6 @@ Narbutas prūsų Romovės ąžuolą vaizdavo kaip didžiausių šventybių prieg
 - t-002
   global_id: t-189121
   teiginys: "Narbutas spėjo, kad senovės žyniai galėjo dirbtinai apauginti šventąjį ąžuolą amalu, kad jo vainikas žaliuotų ir žiemą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "406108-406676; hash=57d1dff77a0fbf370e7f14236b12dd89e9ee4b0a9dd5aabf649209d7b034a4cd; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Žyniai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Užuotas ąžuolas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Žyniai: mention_match, group, gap=43"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Užuotas ąžuolas\" parinktas kaip owner_note_path. Targetas \"Žyniai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172009
 
@@ -74,21 +44,6 @@ Narbutas prūsų Romovės ąžuolą vaizdavo kaip didžiausių šventybių prieg
 - t-003
   global_id: t-189122
   teiginys: "Narbutas manė, kad prie šventyklų augo šventieji ąžuolai, nes jų šventumas lietuvių mitologijoje susiliejo su dievų buveinės vaizdiniu."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "409890-410343; hash=624d81ea13fc0ab4be461544abb3e5cda18ecaf8d3e4846399e85870c769d0e5; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Prūsai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Užuotas ąžuolas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Prūsai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Užuotas ąžuolas\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172010
 ## Reikšmingi paminėjimai
@@ -106,8 +61,8 @@ Narbutas prūsų Romovės ąžuolą vaizdavo kaip didžiausių šventybių prieg
     dėl didysis kryžiuočių magistras Vinrichas Kniprodė, vyskupo
     Jono I prašomas, įsakė jį nukirsti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -129,8 +84,8 @@ Narbutas prūsų Romovės ąžuolą vaizdavo kaip didžiausių šventybių prieg
     kas ąžuolas, kuris tiek vasarą, tiek žiemą žaliavo (be abejo,
     velnio pastangomis).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -149,8 +104,8 @@ Narbutas prūsų Romovės ąžuolą vaizdavo kaip didžiausių šventybių prieg
     kadangi šio medžio šventumas lietuvių mitologijoje susiliejo
     su dievų buveinės vaizdiniu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -161,7 +116,8 @@ Narbutas prūsų Romovės ąžuolą vaizdavo kaip didžiausių šventybių prieg
 - id: c-172008
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 235"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 235."
   citata_originali: |
     Šitoks prūsų Romovės ąžuolas buvo didžiausių šventy­
     bių prieglauda. Turime kažkokį aprašymą šio medžio, kurį Bo­
@@ -181,7 +137,8 @@ Narbutas prūsų Romovės ąžuolą vaizdavo kaip didžiausių šventybių prieg
 - id: c-172009
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 236"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 236."
   citata_originali: |
     Vis dėlto galimas
     daiktas, kad amalą įveisdavo medžiuose dirbtiniu būdu; todėl
@@ -204,7 +161,8 @@ Narbutas prūsų Romovės ąžuolą vaizdavo kaip didžiausių šventybių prieg
 - id: c-172010
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 238"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 238."
   citata_originali: |
     Dabar tas medis jau nugriuvęs , bet dar būtų stovėjęs iki šiol,
     jeigu su juo būtų pagarbiau elgiamasi; mat kiekvienas jame

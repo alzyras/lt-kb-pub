@@ -42,16 +42,6 @@ Abiem kariuomenėm susitikus prie Durbės ežero, kovą laimėjo žemaičiai.
 - t-002
   global_id: t-67871
   teiginys: "Margaritos dieną (1260.VII.13) pietiniame Durbės ežero krante įvykęs susirėmimas baigėsi pagonių pergale."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "520738-520847; hash=0c2df4f898c876c5e69647588c0c3baedca08a14e57deace133b2135bd262746; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Durbė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Durbės ežeras: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Durbė: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Durbės ežeras\" parinktas kaip owner_note_path. Targetas \"Durbė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-32035
 
@@ -59,14 +49,6 @@ Abiem kariuomenėm susitikus prie Durbės ežero, kovą laimėjo žemaičiai.
 - t-003
   global_id: t-193180
   teiginys: "Abiem kariuomenėm susitikus prie Durbės ežero, kovą laimėjo žemaičiai."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "130165-130415; hash=87a83eec45a8e812ec0fc6ec6a11b47ec6f54c224383dda71e82b06c94481d79; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-175925
 ## Reikšmingi paminėjimai
@@ -78,8 +60,8 @@ Abiem kariuomenėm susitikus prie Durbės ežero, kovą laimėjo žemaičiai.
     Margaritos dieną (1260.VII.13) pietiniame Durbės ežero krante
     įvykęs susirėmimas baigėsi pagonių pergale.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -95,8 +77,8 @@ Abiem kariuomenėm susitikus prie Durbės ežero, kovą laimėjo žemaičiai.
     pavergtieji kuršiai, kurie čia buvo jų atvesti kartu su lybiais ir
     latgaliais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -45,14 +45,6 @@ Nenurodyta
 - t-001
   global_id: t-189930
   teiginys: "Narbutas prakeikimo auką siejo su žynio prakeikimu ir ištrėmimu, po kurių prie aukų ugniakuro būdavo pjaunamas galvijas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "558203-558532; hash=1d4525409ec60a70d5b26f8ac877d156e40d17f8bd6366ff4926ec566aae5063; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172813
 ## Reikšmingi paminėjimai
@@ -68,8 +60,8 @@ Nenurodyta
     rios aukos sukalbėdavo prakeikimo formulę, o po to viską su­
     mesdavo į pelkę*.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -80,7 +72,8 @@ Nenurodyta
 - id: c-172813
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 318"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 318."
   citata_originali: |
     16. Prakeikimo auka būdavo atnašaujama tuomet, kai žy­
     nys ką nors prakeikdavo ir ištremdavo iš šalies. Tuomet prie au­

@@ -30,14 +30,6 @@ Antonino Pamaldžiojo romėniškas sidabrinis pinigas leidinyje pateiktas kaip 1
 - t-001
   global_id: t-190130
   teiginys: "Antonino Pamaldžiojo romėniškas sidabrinis pinigas leidinyje pateiktas kaip 15 pav."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "832758-832935; hash=80cac420fa2316e55007e59972a79dc6e42b8a84f727905959e4e03cf7da2d8a; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173013
 ## Reikšmingi paminėjimai
@@ -52,8 +44,8 @@ Antonino Pamaldžiojo romėniškas sidabrinis pinigas leidinyje pateiktas kaip 1
     rinis pinigas
     15 pav.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -64,7 +56,8 @@ Antonino Pamaldžiojo romėniškas sidabrinis pinigas leidinyje pateiktas kaip 1
 - id: c-173013
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 461"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 461."
   citata_originali: |
     Sidabrinis pinigas su lietuviškais atvaizdais
     13pav. Sidabrinė moneta su tokiais pat piešiniais

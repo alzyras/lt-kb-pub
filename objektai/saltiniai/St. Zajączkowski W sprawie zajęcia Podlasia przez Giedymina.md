@@ -39,11 +39,6 @@ Zajączkowski, St.
 - t-001
   global_id: t-31929
   teiginys: "St. Zajączkowskio „W sprawie zajęcia Podlasia przez Giedymina“ paskelbta 1929 m. AW 6 tome, 1-8 puslapiuose."
-  temporaliniai_duomenys: "įvykio data: 1929 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "682775-683019; hash=aba8e0b23428c2073774d3f3cad1b8f628bba2579b7b94d5d9d9ca9e3f36e6b3; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-33722
 ## Reikšmingi paminėjimai
@@ -57,8 +52,8 @@ Zajączkowski, St.
     (^19) **PSRL, t. 17, 71 p.**
     (^20) **St.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

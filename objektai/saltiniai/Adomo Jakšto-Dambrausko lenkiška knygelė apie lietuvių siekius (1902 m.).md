@@ -40,19 +40,6 @@ media_all_json: |-
 - t-001
   global_id: t-20995
   teiginys: "Knygelėje Lietuvos bajorai raginti kalbėti lietuviškai, mylėti savo kraštą, jam dirbti ir rūpintis liaudies švietimu."
-  temporaliniai_duomenys: "įvykio data: 1902 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata nemini Adomo Jakšto-Dambrausko, todėl teiginys suformuluotas pagal tiesiogiai paremtą turinį."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "233998-234665; hash=272ce56718f69ba43a6c19fdea5bbeed5e2c86381aa05439f17e0fed69ef7408; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Bajorai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Adomo Jakšto-Dambrausko lenkiška knygelė apie lietuvių siekius (1902 m.): owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Bajorai: mention_match, group, gap=19"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Adomo Jakšto-Dambrausko lenkiška knygelė apie lietuvių siekius (1902 m.)\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-23720
 ## Reikšmingi paminėjimai
@@ -71,8 +58,8 @@ media_all_json: |-
     rūpintųsi liaudies švietimu ir gerove, kad jaunieji bajorai būtų Lietuvos že-
     mės druska.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

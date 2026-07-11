@@ -37,12 +37,6 @@ media_all_json: |-
 - t-001
   global_id: t-193529
   teiginys: "1412 m e ta i C im b a rk a , V y ta u to seserėčia , ište k a už A u s tr ijo s e rch erco g o 3 83 1413 m e ta l Ši aplinkybė ir paskatino Jogailą kitais metais sušaukti K araliu s J o g a ila suabiejų tautų seimą Horodlės tik kunigaikščių bei didikų, bet."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "667852-668543; hash=a0f769b3bb3aea53627fd0c02c33643d4ae591801bcef31bc43524103115837f; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176209
 ## Reikšmingi paminėjimai
@@ -78,8 +72,8 @@ media_all_json: |-
     mos tikėjimo diegimą Lietuvoje bei kovą su kai ku­
     riomis sektomis ir visokiais prietarais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

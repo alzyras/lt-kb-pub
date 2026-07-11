@@ -42,21 +42,6 @@ Nenurodyta
 - t-001
   global_id: t-185796
   teiginys: "Vytautas, nepasitikėdamas Švitrigaila, liepė jį suimti ir įkalinti Kremeneco kalėjime, iš kurio Švitrigailą netrukus išlaisvino rusų sąmokslininkai."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "691914-692369; hash=b47356ba43fdeaa80ed692f9084854e611fa5a98554b1a3dc83d2f9e922d54de; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kremenecas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Švitrigailos įkalinimas Kremeneco kalėjime ir pabėgimas: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Kremenecas: mention_match, place, gap=41"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Švitrigailos įkalinimas Kremeneco kalėjime ir pabėgimas\" parinktas kaip owner_note_path. Targetas \"Kremenecas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-169157
 ## Reikšmingi paminėjimai
@@ -79,8 +64,8 @@ Nenurodyta
     kalėjime. Jį netrukus paleido rusų sąmokslininkai, nu­
     žudę sargybos viršininką Konradą Frankenbergą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -91,7 +76,8 @@ Nenurodyta
 - id: c-169157
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 395"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 395."
   citata_originali: |
     Pasibaigus vestuvių iškilmėms, valdovai
     iš visų jėgų įniko rengtis karui su kryžiuočiais. Vytau­

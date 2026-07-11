@@ -59,19 +59,6 @@ Nenurodyta
 - t-001
   global_id: t-186841
   teiginys: "Vasilijus Dimitrijevičius Smolenske pagerbė Vytautą auksinėmis grandinėmis ir diržais tarp kitų brangių dovanų."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "171388-171969; hash=c8bc5a4fa6c20b982ee44a7b2761d59d013088166304399a188ef58008c5d05c; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
-  ryšio_patikimumas: "susije_su -> Bachmatai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Auksinės grandinės ir diržai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Bachmatai: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Auksinės grandinės ir diržai\" parinktas kaip owner_note_path. Targetas \"Bachmatai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-170024
 
@@ -79,12 +66,6 @@ Nenurodyta
 - t-002
   global_id: t-193866
   teiginys: "Tą pačią žiemą, pavasariop H , į Smolenską, pas savo tėvą uošvį, didįjį kunigaikštį Vytautą, atvažiavo Mask vos didysis kunigaikštis Vasilijus Dimitrijevičius ir pa gerbė didįjį kunigaikštį brangiomis dovanomis; auksi nėmis grandinėmis ir diržais, sabalais."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "171388-171969; hash=c8bc5a4fa6c20b982ee44a7b2761d59d013088166304399a188ef58008c5d05c; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-170024
 ## Reikšmingi paminėjimai
@@ -105,8 +86,8 @@ Nenurodyta
     nėmis grandinėmis ir diržais, sabalais, brangakmeniais,
     auksiniais indais ir bachmatais ls.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

@@ -41,19 +41,6 @@ JAV lietuviai finansiškai rėmė Lietuvių informacijos biuro Lozanoje veiklą 
 - t-001
   global_id: t-19014
   teiginys: "Juozas Gabrys-Paršaitis vadovavo Lietuvių informacijos biurui Lozanoje, kurio veiklą finansiškai rėmė JAV lietuviai."
-  temporaliniai_duomenys: "įvykio data: 1916 m.; įvykio data: 1917 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis sakinys per platus, citata leidžia sutelkti faktą į asmenį."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "262548-263324; hash=0386feb1bc51e38d0b7eaada2a5c02c4646e460e27d746b5c84869b36668efd5; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> JAV lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Juozas Gabrys-Paršaitis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "JAV lietuviai: mention_match, group, gap=33"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Juozas Gabrys-Paršaitis\" parinktas kaip owner_note_path. Targetas \"JAV lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-21773
 ## Reikšmingi paminėjimai
@@ -73,8 +60,8 @@ JAV lietuviai finansiškai rėmė Lietuvių informacijos biuro Lozanoje veiklą 
     brys-Paršaitis ir kt.), publikacijas užsienio kalbomis apie Lietuvą, kuriose
     kėlė Lietuvos nepriklausomybės reikalą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

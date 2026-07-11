@@ -36,24 +36,6 @@ Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniai
 - t-001
   global_id: t-189415
   teiginys: "Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniais Europos pakraščiais, rado kitokių polinkių žmones."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 2000 m.; įvykio data: apie 2000 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
-  temporalinis_llm_pakomentavimas: "Pašalintas vertinimo perteklius ir išlaikyta citatos data bei veiksmas. Narbuto civilizacinė interpretacija pažymėta atribucija."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "142409-142890; hash=55734afa0e2f611c1494ce82bd1f11df5ff5f41de3ad0fb9a1d244e7bb80533c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Egiptiečiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Senovės egiptiečiai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Egiptiečiai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Senovės egiptiečiai\" parinktas kaip owner_note_path. Targetas \"Egiptiečiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172302
 
@@ -61,21 +43,6 @@ Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniai
 - t-002
   global_id: t-189416
   teiginys: "Narbutas teigė, kad egiptiečiai prie iš chaldėjų perimto dangaus kūnų garbinimo pridėjo nemirtingais laikytų asmenų dievinimą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "148571-149044; hash=acb4bd456d6844cd25ba9803616f7ed0f8d392b321821c61d75ddb77723c31b0; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Chaldėjai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Senovės egiptiečiai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Chaldėjai: mention_match, group, gap=20"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Senovės egiptiečiai\" parinktas kaip owner_note_path. Targetas \"Chaldėjai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172303
 
@@ -83,21 +50,6 @@ Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniai
 - t-003
   global_id: t-189417
   teiginys: "Narbutas rašė, kad egiptiečiai, finikiečiai, graikai ir romėnai pasakojo apie Plutono vedybas su į pragarą pagrobtos deivės dukterimi."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "190424-190689; hash=9e7f48b714fc0c3637b9ed92ef88f8a34ffeba2a207c4b0e9d1fcb39b83174a1; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Graikai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Senovės egiptiečiai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Graikai: mention_match, group, gap=26"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Senovės egiptiečiai\" parinktas kaip owner_note_path. Targetas \"Graikai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172304
 
@@ -105,21 +57,6 @@ Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniai
 - t-004
   global_id: t-189418
   teiginys: "Narbutas rašė, kad egiptiečiai turėjo Kamefius, kuriuos Georgi siejo su japonų dievais Kami ir slavų Tryzna."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "200203-200520; hash=91195bd48c024df3bd54d167052d399fb393dced3ba17d848e846ecc546acd44; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Egiptiečiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Senovės egiptiečiai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Egiptiečiai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Senovės egiptiečiai\" parinktas kaip owner_note_path. Targetas \"Egiptiečiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172305
 
@@ -127,21 +64,6 @@ Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniai
 - t-005
   global_id: t-189420
   teiginys: "Narbutas rašė, kad egiptiečiai nelaikyti religinių paslapčių išradėjais, nors savo paslaptimis pranoko kitas antikines tautas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "332167-332865; hash=abaca94117af975e7cc7d8c91e165e5ac0dc96707ba3beaffa06aa7d86248a6b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Egiptiečiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Senovės egiptiečiai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Egiptiečiai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Senovės egiptiečiai\" parinktas kaip owner_note_path. Targetas \"Egiptiečiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172307
 
@@ -149,21 +71,6 @@ Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniai
 - t-006
   global_id: t-189421
   teiginys: "Narbutas teigė, kad senovėje žalčius garbino indai, chaldėjai, egiptiečiai, persai, finikiečiai, graikai, romėnai, gotai ir kitos tautos."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "345843-346147; hash=29c844fc7b17222f596f14f35e361031acd809561d8026a4d6232b5fdae9c348; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gotai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Senovės egiptiečiai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Gotai: mention_match, group, gap=95"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Senovės egiptiečiai\" parinktas kaip owner_note_path. Targetas \"Gotai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172308
 
@@ -171,21 +78,6 @@ Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniai
 - t-007
   global_id: t-189422
   teiginys: "Narbutas rašė, kad chaldėjai, persai, egiptiečiai, graikai, romėnai ir kitos tautos garbino ugnį kaip dievybę."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "379980-380361; hash=f54ab3ad0df3d9c906ca8d5fb742f9fe1d2378cb21ad5b46b0879c38f90aa431; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Romėnai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Senovės egiptiečiai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Romėnai: mention_match, group, gap=22"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Senovės egiptiečiai\" parinktas kaip owner_note_path. Targetas \"Romėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172309
 
@@ -193,21 +85,6 @@ Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniai
 - t-008
   global_id: t-189423
   teiginys: "Narbutas rašė, kad senovės egiptiečiai, graikai ir romėnai statė prabangius aukurus, skirtus atskiriems dievams."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "415584-415901; hash=98caddbbfe705fc64ec6b85bc3136134fc5443878d622418a13f6504cc071a21; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Graikai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Senovės egiptiečiai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Graikai: mention_match, group, gap=21"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Senovės egiptiečiai\" parinktas kaip owner_note_path. Targetas \"Graikai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172310
 
@@ -215,21 +92,6 @@ Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniai
 - t-009
   global_id: t-189424
   teiginys: "Narbutas, remdamasis Herodotu ir Strabonu, rašė, kad egiptiečiai ir finikiečiai pirmieji pradėjo statyti šventyklas dievams."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "455741-456416; hash=e05401576ced4c5e68ca748fe91cc0cb89384404db92621ffdd7ed0f9b4e27ea; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Egiptiečiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Senovės egiptiečiai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Egiptiečiai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Senovės egiptiečiai\" parinktas kaip owner_note_path. Targetas \"Egiptiečiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172311
 
@@ -237,14 +99,6 @@ Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniai
 - t-010
   global_id: t-194586
   teiginys: "Tegu mitologai sako ką nori apie senovės egiptiečių religi ją, mes esame įsitikinę, kad kultas, apie kurį dabar kalbame, yra kilęs iš indų, arba iš tautos, gyvenusios seniausiame pasau lio kontinente, tai yra prie Himalajų kalnų, iš kur kilo indai."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "316352-316949; hash=50e96887947ea5c73e821f175589e8edd325448649f950061cd482cae6f6535f; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-176985
 ## Reikšmingi paminėjimai
@@ -267,8 +121,8 @@ Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniai
 
     pakilo siekti šviesos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -292,8 +146,8 @@ Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniai
     įsakė vargšams žmonėms keliaklupsčiauti prieš žvėris, paukš­
     čius, šliužus, augalus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -309,8 +163,8 @@ Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniai
     Indai, kurių Plutonas vadinamas Mahadevu, priskiria jam žmo­
     ną, vardu Kali.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -327,8 +181,8 @@ Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniai
     siškai tapačius Kamefiams, o šie savo ruožtu, matyt, atitinką
     slavų Tryzną.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -351,8 +205,8 @@ Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniai
     šiuo požiūriu graikai ir romėnai tik pamėgdžioja tą nuostabią
     tautą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -368,8 +222,8 @@ Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniai
     gelis kitų tautų nebuvo laisvos nuo tų prietarų. Panašų į lietu­
     vių elgesį su žalčiais Julijus Cezaris pastebėjo Pirėnų tautose9.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -388,8 +242,8 @@ Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniai
     ro mokymą, įžiūri ugnyje Dievą, arba pasaulio visatos sielą,
     bet nemoka tos esybės pavadinti vardu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -406,8 +260,8 @@ Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniai
     prastumo turėjo primityvius ir nepuošnius aukurus, išskyrus
     kai kuriuos, buvusius Perkūno šventyklose.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -431,8 +285,8 @@ Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniai
     ilgai tų statinių nežinojo; joms aukų atnašavimo vieta buvo
     kalnai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -454,8 +308,8 @@ Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniai
     Taip pat lietuvių mitologijoje, kalbant apie šio objekto esmę,
     pagrindą ištisai sudaro indų padavimai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -516,7 +370,8 @@ Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniai
 - id: c-172304
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 107"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 107."
   citata_originali: |
     Čia tik pažymėsime, kad visose tautose, kuriose žinomas Plu­
     tonas, jis apvesdinamas su pagrobtos į pragarą deivės dukteri­
@@ -533,7 +388,8 @@ Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniai
 - id: c-172305
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 112"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 112."
   citata_originali: |
     Dar atkreipkime dėmesį, kad beveik kiekvienas bent kiek
     susiformavęs stabmeldiškas tikėjimas yra turėjęs savo trejybę.
@@ -551,7 +407,8 @@ Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniai
 - id: c-172307
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 195"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 195."
   citata_originali: |
     Taip pat neturime iš istorijos duomenų, patvirtinančių, kuri
     tauta pati pirmoji sugalvojo religines paslaptis; tikra tik tai,
@@ -575,7 +432,8 @@ Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniai
 - id: c-172308
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 203"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 203."
   citata_originali: |
     Šiuos prietarus žinojo ir Lietuvos rusinai.
     Senovėje žalčių garbinimas buvo visuotinis: indai, chaldė-
@@ -592,7 +450,8 @@ Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniai
 - id: c-172309
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 223"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 223."
   citata_originali: |
     Vis dėlto ši pastaba mūsų nesulaiko: eisime mūsų
     pasirinktu keliu, vildamiesi, kad ir mūsų pastangos bus nau­
@@ -612,7 +471,8 @@ Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniai
 - id: c-172310
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 241"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 241."
   citata_originali: |
     Kunigai, stovėdami ant pa­
     kopų, šioje ugniavietėje degino aukas. Senovės egiptiečiai, grai­
@@ -630,7 +490,8 @@ Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniai
 - id: c-172311
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 263"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 263."
   citata_originali: |
     Lietuvių prisirišimas prie šventųjų miškų neišnyko iš kar­
     to, pasikeitus tikėjimui; vietos dokumentuose, senesniuose už
@@ -655,7 +516,8 @@ Narbutas rašė, kad apie 2000 m. pr. Kr. egiptiečiai, bendraudami su pietiniai
 - id: c-176985
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 184"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 184."
   citata_originali: |
     Be jo­
     kios abejonės, ne tik patys seniausi, bet ir paskutiniai stabmel­

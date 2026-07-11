@@ -45,19 +45,6 @@ Nenurodyta
 - t-001
   global_id: t-185907
   teiginys: "Žemaičiai, nepratę prie svetimųjų valdymo, iš pasalų žudė kryžiuočių dvarų ir kaimų užvaizdas, o kaltininkų niekas neišdavė."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "635912-636397; hash=357b164238a35e909844a56bd2dcc2d6e2548fbd5d02d91f3ae9d8b58beb4cce; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žemaičių pasalinis pasipriešinimas kryžiuočių užvaizdoms ir tarpusavio neišdavimas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaičių pasalinis pasipriešinimas kryžiuočių užvaizdoms ir tarpusavio neišdavimas\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-169268
 ## Reikšmingi paminėjimai
@@ -77,8 +64,8 @@ Nenurodyta
     tačiau niekad nepavyko sugauti tų, kurie tuos nusikal­
     timus darė, nes niekas nieko neišdavė.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -89,7 +76,8 @@ Nenurodyta
 - id: c-169268
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 364"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 364."
   citata_originali: |
     Netrukus, išvedus
     Vytauto įgulas, ordino magistro kariuomenė užėmė vi­

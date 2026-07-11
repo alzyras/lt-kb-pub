@@ -40,19 +40,6 @@ Dusburgietis teigia, kad labuda G.
 - t-001
   global_id: t-61123
   teiginys: "G. Labudos publikacija apie Kryžiuočių ordino santykį su Vokietijos imperija paskelbta 1951 m. Poznanės leidinyje „Czasopismo prawno-historyczne“."
-  temporaliniai_duomenys: "įvykio data: 1951 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinė formuluotė fragmentiška; citata leidžia pateikti bibliografinį faktą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "780969-781154; hash=8db789fedf785734cf3fcb06cd0d088e17b5bc457d450c6c44744f7ee732e8ba; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Labuda G. Stosunek prawnopubliczny Zakonu Krzyżackiego do Rzeszy Niemieckiej w świetle ztotej bulli Fryderyka II z r. 1226: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=28"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Labuda G. Stosunek prawnopubliczny Zakonu Krzyżackiego do Rzeszy Niemieckiej w świetle ztotej bulli Fryderyka II z r. 1226\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-61755
 ## Reikšmingi paminėjimai
@@ -65,8 +52,8 @@ Dusburgietis teigia, kad labuda G.
     w świetle ztotej bulli Fryderyka II z r. 1226.—Czasopismo prawno-historyczne, Poznań,
     1951, t. 3, s. 87—124.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -77,7 +64,8 @@ Dusburgietis teigia, kad labuda G.
 - id: c-61755
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 266"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 266."
   citata_originali: |
     Labuda G. Stosunek prawnopubliczny Zakonu Krzyżackiego do Rzeszy Niemieckiej
     w świetle ztotej bulli Fryderyka II z r. 1226.—Czasopismo prawno-historyczne, Poznań,

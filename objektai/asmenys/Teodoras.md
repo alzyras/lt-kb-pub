@@ -45,9 +45,6 @@ media_all_json: |-
 - t-003
   global_id: t-79202
   teiginys: "Po Jono IV mirties jo sūnus Teodoras 15 metų buvo caru, o su Teodoro mirtimi pasibaigė Kalitos dinastija."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "594176-594486; hash=c2a819faffd8ac0da6f908f44a6968ea1239b5d5370a2629b8133e220e3a70cc; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-76275
 
@@ -55,20 +52,6 @@ media_all_json: |-
 - t-004
   global_id: t-79203
   teiginys: "1330-1331 m. šaltiniai mini Gedimino brolį Teodorą kaip Lietuvos valdovo vietininką Kijeve."
-  semantiniai_rysiai: "Teodoras buvo brolis Gediminas (0.99)"
-  temporaliniai_duomenys: "įvykio data: 1330-1331; įvykio data: 1331 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas, konkretus ir paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "134783-135135; hash=5b549e9ec4d1919165da75df461e8ba4d5a0df2bb545e3b30c20bc00ad769589; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_brolis -> Gediminas: 0.99"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Teodoras: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Gediminas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Teodoras buvo Gedimino brolis."
   pagrindžia:
     - c-76272
 - susijęs iš [[objektai/asmenys/Nestanas.md#claim-t-186242|Nestanas]]: Nestanas, Teodoro vardu valdęs Podolę, Kamenece pateko Algirdui į nelaisvę ir buvo išsiųstas į Vilnių.
@@ -101,8 +84,8 @@ media_all_json: |-
     aiškiai mini „Gedimino brolį“ Teodorą,
     Lietuvos valdovo vietininką Kijeve.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -118,8 +101,8 @@ media_all_json: |-
     pasibaigė Kalitos dinastija. Maskvoje tuomet prasidėjo per-
     versmų periodas — užėjo vadinamoji didžioji suirutė ( _smuta_ ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

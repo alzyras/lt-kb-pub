@@ -40,12 +40,6 @@ Senn, A. : On the Kinship between Slavic and Baltic , Slavonic and East European
 - t-001
   global_id: t-30541
   teiginys: "A. Senn 1941 m. paskelbė straipsnį „On the Kinship between Slavic and Baltic“."
-  temporaliniai_duomenys: "įvykio data: 1941 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir paremtas bibliografine citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "308242-308543; hash=51087d2c916e8d552c48e5b4ef03497e05ba81e309dbf0982dad1b2465378ddc; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-32889
 ## Reikšmingi paminėjimai
@@ -59,8 +53,8 @@ Senn, A. : On the Kinship between Slavic and Baltic , Slavonic and East European
     (”) _Die Beziehungen des Baltischen zum Slavischen und Germanischen,_
     Zeitschr. für vergleichende Sprachforschung, t. 70, 1954.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -30,24 +30,6 @@ Narbuto pasakojime 475 m. Orestas, vadovavęs samdytai kariuomenei, į imperator
 - t-001
   global_id: t-191313
   teiginys: "Narbuto pasakojime 475 m. Orestas, vadovavęs samdytai kariuomenei, į imperatoriaus sostą pasodino jauną sūnų Romulą Momilijų Augustulą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 475 m"
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai įvardija Romulą Momilijų Augustulą, Oresto veiksmą ir datą. Narbuto pasakojimo atribucija palikta, nes tai kronikinis valdžios perėmimo pasakojimas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "560882-561319; hash=0f4f76c1e4a688a321aae56d4159a524765d3335391ec9421b649a90867268c5; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Orestas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Romulas Momilijus Augustulas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Orestas: mention_match, person, gap=83"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Romulas Momilijus Augustulas\" parinktas kaip owner_note_path. Targetas \"Orestas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174195
 ## Reikšmingi paminėjimai
@@ -66,8 +48,8 @@ Narbuto pasakojime 475 m. Orestas, vadovavęs samdytai kariuomenei, į imperator
     sostą pasodinti savo dar jauną sūnų Romulą Momilijų
     Augustulą. Tai įvyko 475 metais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -78,7 +60,8 @@ Narbuto pasakojime 475 m. Orestas, vadovavęs samdytai kariuomenei, į imperator
 - id: c-174195
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 313"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 313."
   citata_originali: |
     Imperatoriaus
     sosto griovėjas Ricimeras iškėlė imperijos, kurią jau su­

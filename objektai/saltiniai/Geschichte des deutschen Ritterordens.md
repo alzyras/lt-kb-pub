@@ -44,19 +44,6 @@ Voigt 9 tomų veikale Geschichte Preusseus (1827-1838) nagrinėja kryžiuočių 
 - t-001
   global_id: t-31689
   teiginys: "Voigt atskirai išleido „Geschichte des deutschen Ritterordens“ 1857–1859 m."
-  temporaliniai_duomenys: "įvykio data: 1857-1859; įvykio data: 1859 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiksliai paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "250459-250772; hash=13ea132e48dcf9b7e1139c5a73abb786a72d3e728f6860bbf7cd656589a78be1; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Berlynas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Geschichte des deutschen Ritterordens: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Berlynas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Geschichte des deutschen Ritterordens\" parinktas kaip owner_note_path. Targetas \"Berlynas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-33566
 ## Reikšmingi paminėjimai
@@ -71,8 +58,8 @@ Voigt 9 tomų veikale Geschichte Preusseus (1827-1838) nagrinėja kryžiuočių 
     des deutschen Ritterordens_ (1857-1859) ir CDPr. Anksčiau buvęs
     Tartu archyvo direktorius, vėliau Berlyno univ.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

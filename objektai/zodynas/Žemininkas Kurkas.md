@@ -30,21 +30,6 @@ Narbutas, remdamasis Hartknochu, Žemininką (Ziemienikas) tapatina su prūsų K
 - t-001
   global_id: t-189144
   teiginys: "Narbutas, remdamasis Hartknochu, Žemininką (Ziemienikas) tapatina su prūsų Kurku (Kurko, Kurchus)."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "192495-192781; hash=f8d20dee4732211873f422d7328cedc0d0549925215387725f86bbe2e0d4e8b7; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Prūsai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žemininkas Kurkas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Prūsai: mention_match, group, gap=36"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemininkas Kurkas\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172032
 ## Reikšmingi paminėjimai
@@ -60,8 +45,8 @@ Narbutas, remdamasis Hartknochu, Žemininką (Ziemienikas) tapatina su prūsų K
     tamsą, buvo šviesos dievo antipodas, namų ir apskritai viso
     krašto globėjas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -72,7 +57,8 @@ Narbutas, remdamasis Hartknochu, Žemininką (Ziemienikas) tapatina su prūsų K
 - id: c-172032
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 108"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 108."
   citata_originali: |
     Žemininkas (Ziemienikas)
     Kitoniškai Kurkas (Kurko, Kurchus). Hartknochas labai ar­

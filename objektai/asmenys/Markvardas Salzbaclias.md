@@ -34,17 +34,6 @@ Vedant derybas, Markvardas Salzbaclias jį įžeidė, pasa­ kydamas, jog jis ja
 - t-001
   global_id: t-28968
   teiginys: "Markvardas Salzbaclias per derybas įžeidė Vytautą, sakydamas, kad šis jau tris kartus buvo išdavęs Ordiną."
-  semantiniai_rysiai: "Markvardas Salzbaclias buvo priešas Vytautas (Lietuvos valdovas, XIV–XV a.) (0.60)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "913508-913842; hash=1bcf9bac733089a2e44f02383724db47d26795c875420396b170f7e892cd3a88; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_priesas -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.60"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Markvardas Salzbaclias: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Derybose Markvardas tiesiogiai įžeidė Vytautą, rodydamas aiškią priešpriešą."
   pagrindžia:
     - c-28873
 
@@ -52,20 +41,6 @@ Vedant derybas, Markvardas Salzbaclias jį įžeidė, pasa­ kydamas, jog jis ja
 - t-002
   global_id: t-184375
   teiginys: "Derybose Markvardas Salzbaclias įžeidė Vytautą, sakydamas, kad šis jau tris kartus išdavė Ordiną."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Markvardas Salzbaclias buvo priešas Vytautas (Lietuvos valdovas, XIV–XV a.) (0.60)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "913320-913781; hash=772551e058198b5fdc38366bf881e5bf4e851eee7eab77ee762c4949867bd9f6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_priesas -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.60"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Markvardas Salzbaclias: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Įžeidimas derybose tiesiogiai rodo Markvardo priešišką veiksmą Vytauto atžvilgiu."
   pagrindžia:
     - c-167744
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176674|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas viešai dėjosi nekaltas ir, Markvardo Salzbacho įžeistas dėl kaltinimų išdavus ordiną, skundėsi magistrui.
@@ -82,8 +57,8 @@ Vedant derybas, Markvardas Salzbaclias jį įžeidė, pasa­ kydamas, jog jis ja
     valdovus. Užsigavęs dėl tokių kalbų, Vytautas skundėsi magis­
     trui^62.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -102,8 +77,8 @@ Vedant derybas, Markvardas Salzbaclias jį įžeidė, pasa­ kydamas, jog jis ja
     kartą sulaužius priesaiką, sunku butų pasiteisinti prieš krikščionių
     valdovus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -148,6 +123,3 @@ Vedant derybas, Markvardas Salzbaclias jį įžeidė, pasa­ kydamas, jog jis ja
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184375
-
-## Ryšiai
-- Priešai: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

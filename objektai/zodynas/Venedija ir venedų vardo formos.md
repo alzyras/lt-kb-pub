@@ -38,20 +38,6 @@ istorinis venedų vardo ir krašto pavadinimas, aiškinamas per vardų formas, e
 - t-002
   global_id: t-192163
   teiginys: "Venedų vardą Teodoras Narbutas kildino iš senovės Šiaurės Europos kalbų žodžių Unda, Wend ir Wand."
-  teiginio_tipas: "saltinio_teiginys"
-  semantiniai_rysiai: "Venedai gyveno Baltija (0.82)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "173681-174703; hash=51d7cc2610f067e3a91dd6daa8070f9a8a366911c3ac3e407e3d2f6b1a6a688a; match=whitespace_regex"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  ryšio_patikimumas: "gyveno -> Baltija: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Venedai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Baltija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citatoje apie venedus sakoma, kad ši sarmatų dalis gyveno prie Baltijos jūros."
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175039
 
@@ -59,19 +45,6 @@ istorinis venedų vardo ir krašto pavadinimas, aiškinamas per vardų formas, e
 - t-003
   global_id: t-192164
   teiginys: "Teodoro Narbuto aiškinimu, lygumų ir klampių pelkynų kraštas galėjo vadintis Venedija, o nuo jo slavai vadinti venedų tauta."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "176885-177041; hash=5ca8099ceff086f8ad944b3ece5d27f323d5f7a7dbcc9a354346501d189a2deb; match=whitespace_regex"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  ryšio_patikimumas: "susije_su -> Slavai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Venedija ir venedų vardo formos: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Slavai: mention_match, group, gap=62"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Venedija ir venedų vardo formos\" parinktas kaip owner_note_path. Targetas \"Slavai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175040
 ## Reikšmingi paminėjimai
@@ -100,8 +73,8 @@ istorinis venedų vardo ir krašto pavadinimas, aiškinamas per vardų formas, e
     kiečiams Niderländer, prancūzams Pays-bas, lietuviams
     Zomajten, žemaičiai.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -115,8 +88,8 @@ istorinis venedų vardo ir krašto pavadinimas, aiškinamas per vardų formas, e
     kynų kupinas kraštas tikrai galėjo vadintis Venedija, o
     nuo jo ir slavai buvo vadinami venedų tauta1.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -127,7 +100,8 @@ istorinis venedų vardo ir krašto pavadinimas, aiškinamas per vardų formas, e
 - id: c-175039
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 97"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 97."
   citata_originali: |
     Šio pavadinimo šaltinis glūdi senovės Šiaurės Eu­
     ropos tautų kalbų žodyje Unda, išlikusiame lietuvių kal­
@@ -159,7 +133,8 @@ istorinis venedų vardo ir krašto pavadinimas, aiškinamas per vardų formas, e
 - id: c-175040
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 99"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 99."
   citata_originali: |
     manų genčių“. Sis lygumų, lėkštų plotų ir klampių pel­
     kynų kupinas kraštas tikrai galėjo vadintis Venedija, o

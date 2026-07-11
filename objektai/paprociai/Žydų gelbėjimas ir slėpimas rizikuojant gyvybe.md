@@ -69,17 +69,6 @@ Nacių okupacijos metu dalis lietuvių visuomenės rizikuodama gyvybe padėjo ž
 - t-005
   global_id: t-20826
   teiginys: "Dalis lietuvių visuomenės rizikuodama gyvybe bandė padėti žydams ir juos gelbėti."
-  semantiniai_rysiai: "Lietuviai gynė Žydai (0.88)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "408570-409119; hash=7ee20bdf44b8804ff8f0b8b14411187eb2cb529cd9dfe7cacf8fc43c4a3e626e; match=exact"
-  sprendimo_priezastis: "gap::customs"
-  ryšio_patikimumas: "gyne -> Žydai: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Žydai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad lietuvių visuomenės dalis padėjo ir gelbėjo žydus."
   pagrindžia:
     - c-23548
 
@@ -87,17 +76,6 @@ Nacių okupacijos metu dalis lietuvių visuomenės rizikuodama gyvybe padėjo ž
 - t-006
   global_id: t-20827
   teiginys: "Už žydų gelbėjimą Pasaulio teisuoliais pripažinti 830 lietuvių, o jų sąrašas papildomas."
-  semantiniai_rysiai: "Lietuviai gynė Žydai (0.87)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "408570-409119; hash=7ee20bdf44b8804ff8f0b8b14411187eb2cb529cd9dfe7cacf8fc43c4a3e626e; match=exact"
-  sprendimo_priezastis: "gap::customs"
-  ryšio_patikimumas: "gyne -> Žydai: 0.87"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Žydai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai sieja lietuvius su žydų gelbėjimu."
   pagrindžia:
     - c-23548
 ## Reikšmingi paminėjimai
@@ -115,8 +93,8 @@ Nacių okupacijos metu dalis lietuvių visuomenės rizikuodama gyvybe padėjo ž
     pripažinti 830 lietuvių, nors iš tikrųjų jų buvo kur kas daugiau, jų sąrašas
     vis papildomas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

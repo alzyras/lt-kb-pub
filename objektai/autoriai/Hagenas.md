@@ -30,14 +30,6 @@ Narbutas nurodo, kad Hageno dar neišleistame veikale chemiškai įrodinėta, jo
 - t-001
   global_id: t-191880
   teiginys: "Narbutas nurodo, kad Hageno dar neišleistame veikale chemiškai įrodinėta, jog gintaras priklauso augalų pasauliui ir yra medžio sakai."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "608708-609116; hash=4ef69b78516ecdf77b6e4fb1c5cc28b54a8ce911cacb5c55d8331d51aa2efa41; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174762
 - susijęs iš Prūsija: Narbutas nurodo skirtingas nuomones apie gintare rastų vabzdžių kilmę: Masė jų tėvyne laikė Prūsiją, o Ragenas manė juos patekus iš šalies.
@@ -60,8 +52,8 @@ Narbutas nurodo, kad Hageno dar neišleistame veikale chemiškai įrodinėta, jo
 
     augalų pasauliui ir yra medžio sakai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

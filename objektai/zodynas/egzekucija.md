@@ -35,16 +35,6 @@ media_all_json: |-
 - t-001
   global_id: t-02983
   teiginys: "Egzekucija buvo vadinama įstatymų vykdymo politika."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "463862-464313; hash=bc82a6d5df5d84bbbf661ba4900d459b3fabff8f82e62857c326543b87327403; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Bajorai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "egzekucija: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Bajorai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"egzekucija\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-03221
 
@@ -52,16 +42,6 @@ media_all_json: |-
 - t-002
   global_id: t-02984
   teiginys: "Ginčuose su lenkais lietuviai reikalavo garantijos, kad Lietuvoje nebūtų vykdoma egzekucija."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "464037-464486; hash=21d3abb017a67d3dfb97e9c62882eee97fb0124ece9f25d5e08e94e7d43b20ec; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "egzekucija: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=69"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"egzekucija\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-03222
 
@@ -69,14 +49,6 @@ media_all_json: |-
 - t-003
   global_id: t-193141
   teiginys: "Tad ir šitam unijos projekte ir vėlesniuose ginčuose su lenkais lietuviai reikalavo, kad karalius duotų garantiją, jog Lietuvoje nebūsianti vykdoma vadinamoji egzekucija."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "464117-464540; hash=a8239c6e81c858f14dcc254620b4c01ae780c3f0ebb178053cc2c302c7232b1f; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-175895
 - susijęs iš [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas).md#claim-t-173213|Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]]: Vilniaus vyskupas Povilas turėjo teisę nubausti eretiką, bet prieš egzekuciją nusprendė apie bylą pranešti valdovui.
@@ -107,8 +79,8 @@ media_all_json: |-
     ir ponų rankas, — ypač Aleksandro laikais, nes jis juos dalino be
     atodairos, ir todėl jiems niekas neturėjo nuosavybės dokumentų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -126,8 +98,8 @@ media_all_json: |-
     lietuviai reikalavo, kad karalius duotų garantiją, jog Lietuvoje nebū-
     sianti vykdoma vadinamoji egzekucija.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -145,8 +117,8 @@ media_all_json: |-
     sianti vykdoma vadinamoji egzekucija.
     Lenkai šitokiu lietuvių siūlomu projektu pasipiktino.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -44,16 +44,6 @@ Tad kiek vėliau pas popiežių Urboną VI buvo pasiųsti kiti pasiunti­ niai s
 - t-003
   global_id: t-82253
   teiginys: "Poznanės vyskupas Dobrogostas buvo nusiųstas pas popiežių išprašyti bulės dėl Vilniaus vyskupijos fundacijos."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "242394-242988; hash=005aff0e054cd80348801a0cc46d7af6ea9e60cbe31003ecc7b4a8f21d75bc2f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Dobrogostas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=60"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dobrogostas\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-78741
 
@@ -61,17 +51,6 @@ Tad kiek vėliau pas popiežių Urboną VI buvo pasiųsti kiti pasiunti­ niai s
 - t-001
   global_id: t-82254
   teiginys: "Poznanės vyskupas Dobrogostas buvo pasiųstas pas popiežių Urboną VI ir anksčiau tarpininkavo Algirdui bei Inocentui VI."
-  semantiniai_rysiai: "Dobrogostas keliavo į Perudžija (0.70)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "261181-261709; hash=c9cd7f63d46ae26b5226c11d20d2de7edb11bef21a10260afb451a1b4d4adffd; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Perudžija: 0.70"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Dobrogostas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Perudžija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Dobrogostas buvo tarp pasiuntinių pas popiežių, o citata nurodo, kad pasiuntiniai rado popiežių Perudžijoje."
   pagrindžia:
     - c-78744
 
@@ -79,16 +58,6 @@ Tad kiek vėliau pas popiežių Urboną VI buvo pasiųsti kiti pasiunti­ niai s
 - t-005
   global_id: t-82255
   teiginys: "Poznanės vyskupas Dobrogostas buvo nusiųstas pas popiežių išprašyti bulės, patvirtinančios Vilniaus vyskupijos fundaciją ir naujo ganytojo išrinkimą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "242394-242988; hash=005aff0e054cd80348801a0cc46d7af6ea9e60cbe31003ecc7b4a8f21d75bc2f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Dobrogostas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=73"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dobrogostas\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-78741
 
@@ -96,17 +65,6 @@ Tad kiek vėliau pas popiežių Urboną VI buvo pasiųsti kiti pasiunti­ niai s
 - t-002
   global_id: t-82256
   teiginys: "Popiežius Urbonas VI įgaliojo vyskupą Dobrogostą tvarkyti bažnytinius reikalus Lietuvoje ir įkurti Vilniaus vyskupiją."
-  semantiniai_rysiai: "Urbonas VI paskyrė Dobrogostas (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "261714-262067; hash=f3cd1212a1577dbc011194da100393eaf56cfaf0039e88fff331a984c88415d4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "paskyre -> Dobrogostas: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Urbonas VI: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Dobrogostas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Urbonas VI įgaliojo Dobrogostą tvarkyti bažnytinius reikalus."
   pagrindžia:
     - c-78743
 
@@ -114,19 +72,6 @@ Tad kiek vėliau pas popiežių Urboną VI buvo pasiųsti kiti pasiunti­ niai s
 - t-004
   global_id: t-82257
   teiginys: "1389 m. pabaigoje Dobrogostas kaip Urbono VI pasiuntinys Vilniuje paskelbė bulę dėl Vilniaus katedros ir vyskupijos."
-  semantiniai_rysiai: "Dobrogostas keliavo į Vilnius (0.80)"
-  temporaliniai_duomenys: "įvykio data: 1389 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "255743-256298; hash=863b07ac0aeba3cc230c8ea15a7b2f2a1d898d55d8d6126a6ec3c9d88137ac65; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Vilnius: 0.80"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Dobrogostas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata nurodo, kad Dobrogostas atvyko ir veikė Vilniuje paskelbdamas bulę."
   pagrindžia:
     - c-78742
 - susijęs iš [[objektai/ivykiai/Vilniaus vyskupystės įkūrimas.md#claim-t-176181|Vilniaus vyskupystės įkūrimas]]: Popiežius Urbonas VI įgaliojo vyskupą Dobrogostą sutvarkyti bažnytinius reikalus Lietuvoje ir įkurti Vilniaus vyskupiją.
@@ -170,8 +115,8 @@ Tad kiek vėliau pas popiežių Urboną VI buvo pasiųsti kiti pasiunti­ niai s
     niaus kapitulos ar Karaliauč. slapt.
     archyvo dokumentuose.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -193,8 +138,8 @@ Tad kiek vėliau pas popiežių Urboną VI buvo pasiųsti kiti pasiunti­ niai s
     reigų, gavo popiežiaus patvirtinimą perimti Vilniaus vysku­
     piją20.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -211,8 +156,8 @@ Tad kiek vėliau pas popiežių Urboną VI buvo pasiųsti kiti pasiunti­ niai s
     pasiuntiniams, pirmiausia ji buvo ir pašventinta, suteikiant jai
     tris titulus: Šv.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -232,8 +177,8 @@ Tad kiek vėliau pas popiežių Urboną VI buvo pasiųsti kiti pasiunti­ niai s
     (Š. Italijoje), kur jie buvo maloniai priimti ir gavo jo brevę
     (1388.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -335,4 +280,3 @@ Tad kiek vėliau pas popiežių Urboną VI buvo pasiųsti kiti pasiunti­ niai s
 
 ## Ryšiai
 - Paskyrė Dobrogostą: [[objektai/asmenys/Urbonas VI]]
-- Dobrogostas keliavo į [[objektai/vietos/Perudžija]], [[objektai/vietos/Vilnius]]

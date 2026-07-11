@@ -34,19 +34,6 @@ Sprendžiant iš pagrindinių istorinių šaltinių, Švitrigailos ir Ordino paj
 - t-001
   global_id: t-42019
   teiginys: "Švitrigailos ir Ordino pajėgos iš Vilkmergės traukė į pietus pro Pašilę Gelvonų link."
-  semantiniai_rysiai: "Švitrigaila keliavo į Pašilė (0.78); Švitrigaila keliavo į Gelvonai (0.72)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "277121-277480; hash=77e898e6e37832ca0149db62af2e528d953b28445ae89238b4e91f11791ef973; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Pašilė: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Pašilė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Minimos Švitrigailos pajėgos judėjo pro Pašilę; ryšys siejamas su Švitrigailos puse."
-  vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-45268
 - susijęs iš [[objektai/asmenys/Mykolas.md#claim-t-64008|Mykolas]]: Kunigaikštis Mykolas su lietuviais ir lenkais žygiavo pasitikti priešo.
@@ -70,8 +57,8 @@ Sprendžiant iš pagrindinių istorinių šaltinių, Švitrigailos ir Ordino paj
     Jos viena kitą pastebėjo šiauriau Žirnajų
     ežero, kur išteka Žirnajos upelis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -100,6 +87,3 @@ Sprendžiant iš pagrindinių istorinių šaltinių, Švitrigailos ir Ordino paj
   patikimumo_saltinis: ai
   pagrindzia:
     - t-42019
-
-## Ryšiai
-- Buvo kelionės vieta: [[objektai/asmenys/Švitrigaila]]

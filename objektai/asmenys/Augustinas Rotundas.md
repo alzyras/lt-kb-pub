@@ -40,19 +40,6 @@ Dusburgietis teigia, kad iI-ojoje pusėje rado etmonas Jonas Chodkevičius, kuri
 - t-001
   global_id: t-60086
   teiginys: "Jonas Chodkevičius XVI a. antrojoje pusėje perdavė Dusburgiečio kroniką Vilniaus vaitui Augustinui Rotundui."
-  temporaliniai_duomenys: "įvykio data: 1582 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko aiškesnį sakinį apie Rotundui perduotą kroniką."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "51031-51279; hash=f61603120516bafebe8be0d2b458a080d9d9a22f4af0814eedd22bcc3bac65b2; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Chodkevičiai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Augustinas Rotundas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Chodkevičiai: mention_match, group, gap=82"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Augustinas Rotundas\" parinktas kaip owner_note_path. Targetas \"Chodkevičiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-60718
 
@@ -60,9 +47,6 @@ Dusburgietis teigia, kad iI-ojoje pusėje rado etmonas Jonas Chodkevičius, kuri
 - t-002
   global_id: t-60087
   teiginys: "Augustinas Rotundas, gavęs Dusburgiečio rankraštį, perdavė jį Motiejui Strijkovskiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "51426-51580; hash=0a8ea4ba49c6b1b4e9b094405f64265db336a53c3e2373aed3d973c2642e96b6; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-60719
 - susijęs iš [[objektai/asmenys/Augustinas Rotundas Milesijus.md#claim-t-87906|Augustinas Rotundas Milesijus]]: Augustinas Rotundas Milesijus buvo bajoras ir abiejų teisių daktaras, 1542 m. išrinktas iš magistrato narių.
@@ -81,8 +65,8 @@ Dusburgietis teigia, kad iI-ojoje pusėje rado etmonas Jonas Chodkevičius, kuri
     pavestas Žygimanto Augusto, lotyniškai rašęs pirmąją Lietuvos istoriją (rankraštis vėliau
     dingo).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -96,8 +80,8 @@ Dusburgietis teigia, kad iI-ojoje pusėje rado etmonas Jonas Chodkevičius, kuri
     tuo metu Rotundas Dusburgiečio rankraščio arba dar nebuvo turėjęs, arba jo plačiau
     nepanaudojo75. Jį gavęs perdavė M. Strijkovskiui.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -108,7 +92,8 @@ Dusburgietis teigia, kad iI-ojoje pusėje rado etmonas Jonas Chodkevičius, kuri
 - id: c-60718
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 19"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 19."
   citata_originali: |
     Jį ten XVI a. II-ojoje pusėje rado etmonas Jonas Chodkevičius, kuris
     perdavė kroniką Vilniaus vaitui Augustinui Rotundui (mirusiam 1582 m.). Rotundas,
@@ -124,7 +109,8 @@ Dusburgietis teigia, kad iI-ojoje pusėje rado etmonas Jonas Chodkevičius, kuri
 - id: c-60719
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 19"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 19."
   citata_originali: |
     Sis tekstas rodo, jog
     tuo metu Rotundas Dusburgiečio rankraščio arba dar nebuvo turėjęs, arba jo plačiau

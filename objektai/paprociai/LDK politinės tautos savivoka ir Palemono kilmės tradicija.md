@@ -55,18 +55,6 @@ Nenurodyta
 - t-001
   global_id: t-54264
   teiginys: "Lietuvos metraščiuose sukurta Palemono ir jo ainių legenda tapo lietuvių ir rusėnų bajorijos kilmės aiškinimo pagrindu."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "144727-145192; hash=1d5029bf33ea414c8e357501713a879b2884b73a0cb9ff5f27241965b851bb40; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Palemonas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "LDK politinės tautos savivoka ir Palemono kilmės tradicija: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Palemonas: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"LDK politinės tautos savivoka ir Palemono kilmės tradicija\" parinktas kaip owner_note_path. Targetas \"Palemonas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-55155
 
@@ -74,18 +62,6 @@ Nenurodyta
 - t-002
   global_id: t-54265
   teiginys: "Lietuvos metraščiuose sukurta Palemono legenda tapo lietuvių ir rusėnų bajorijos kilmės aiškinimo pagrindu."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "144727-145192; hash=1d5029bf33ea414c8e357501713a879b2884b73a0cb9ff5f27241965b851bb40; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Palemonas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "LDK politinės tautos savivoka ir Palemono kilmės tradicija: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Palemonas: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"LDK politinės tautos savivoka ir Palemono kilmės tradicija\" parinktas kaip owner_note_path. Targetas \"Palemonas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-55155
 ## Reikšmingi paminėjimai
@@ -103,8 +79,8 @@ Nenurodyta
     vesti savo kilmę Palemono tradicija arba sieti save su realia Gediminaičių
     dinastija.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

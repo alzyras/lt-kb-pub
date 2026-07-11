@@ -46,16 +46,6 @@ Ji įvardija antspaudo tikrumą ginčijantį žmogų kaip tiesos, tikėjimo ir g
 - t-001
   global_id: t-54762
   teiginys: "Gedimino vardu skelbtame laiške antspaudo tikrumu abejojantieji vadinami tiesos nedraugais, velnio garbintojais, tikėjimo priešais, bedieviais, melagiais ir negarbingais žmonėmis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "173201-173979; hash=825eb1ff4e46f29dc6f0e5f4a2ca8c53a19b4586b1340f2e6cfb3294956e4db2; match=whitespace_regex"
-  sprendimo_priezastis: "gap::sayings"
-  ryšio_patikimumas: "susije_su -> Antspaudas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Tiesos nedraugas, velnio garbintojas, tikėjimo priešas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Antspaudas: mention_match, thing, gap=41"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tiesos nedraugas, velnio garbintojas, tikėjimo priešas\" parinktas kaip owner_note_path. Targetas \"Antspaudas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-55762
 
@@ -63,16 +53,6 @@ Ji įvardija antspaudo tikrumą ginčijantį žmogų kaip tiesos, tikėjimo ir g
 - t-002
   global_id: t-54763
   teiginys: "Trijuose Gedimino laiškuose antspaudo tikrumu netikintieji pasmerkti kaip tikėjimo ardytojai, eretikai, melagiai ir garbės neturintys žmonės."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "211516-211937; hash=cbd8fa98c40636a12e0c1b94edddd20b1c81d2af1ed6a9809a79b4c9b1294946; match=whitespace_regex"
-  sprendimo_priezastis: "gap::sayings"
-  ryšio_patikimumas: "susije_su -> Antspaudas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Tiesos nedraugas, velnio garbintojas, tikėjimo priešas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Antspaudas: mention_match, thing, gap=46"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tiesos nedraugas, velnio garbintojas, tikėjimo priešas\" parinktas kaip owner_note_path. Targetas \"Antspaudas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-55763
 ## Reikšmingi paminėjimai
@@ -95,8 +75,8 @@ Ji įvardija antspaudo tikrumą ginčijantį žmogų kaip tiesos, tikėjimo ir g
     perskaičius būtų siunčiami toliau ir visur skelbiama juose
     nurodyti pranešimai bei įsipareigojimai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -113,8 +93,8 @@ Ji įvardija antspaudo tikrumą ginčijantį žmogų kaip tiesos, tikėjimo ir g
     laišku pasmerkiame kaip bjaurius tikėjimo ardytojus, ereti­
     kus, melagius ir jokios garbės neturinčius žmonės.].
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

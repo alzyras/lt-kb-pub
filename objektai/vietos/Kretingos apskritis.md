@@ -40,21 +40,6 @@ media_all_json: |-
 - t-001
   global_id: t-38360
   teiginys: "P. Končius slapstėsi Latvijoje ir Kretingos rajone, o 1965 m., apsuptas Kretingos saugumiečių, nusišovė."
-  temporaliniai_duomenys: "įvykio data: 1965 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys paremtas citata, bet reikia sutvarkyti skyrybą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "965457-965636; hash=1cde8afdb54ba3f06576908861875d2419d4ffdb98f58278631ab712f5cbdaa0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kretinga: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kretingos apskritis: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kretinga: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kretingos apskritis\" parinktas kaip owner_note_path. Targetas \"Kretinga\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-40163
 
@@ -62,12 +47,6 @@ media_all_json: |-
 - t-002
   global_id: t-193770
   teiginys: "1945 m. vadovavo Kretingos apskrities partizanų Klevo kuopai."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "964847-965129; hash=bf9cad35cbca08a671862e4bb7cd7a520c7b15649f4c2f8d4bcaf8a7908b6fbf; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176425
 ## Reikšmingi paminėjimai
@@ -83,8 +62,8 @@ media_all_json: |-
     paskutiniu žuvusiu Žemaičių
     apygardos partizanu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -100,8 +79,8 @@ media_all_json: |-
     toju, 1949 m. šiai rinktinei vadovavo (vėliau kurį laiką buvo iš šių pareigų
     pasitraukęs). 1952 m. žuvo patekęs į sovietų pasalą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -60,19 +60,6 @@ Nenurodyta
 - t-001
   global_id: t-26413
   teiginys: "1934 m. vasario 8 d. Tautai ir valstybei saugoti įstatymas numatė bausti už valstybinių ženklų ir vėliavos niekinimą ar įžeidinėjimą."
-  temporaliniai_duomenys: "įvykio data: 1934 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Patikslinta data, kurią aiškiai pateikia citata."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "361878-362421; hash=7628c017bf84230f6a68cf05ae0ef5cc03b1093845aa00aa43bd1d8b034a2dad; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vėliavos: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Valstybiniai ženklai ir vėliava: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Vėliavos: mention_match, thing, gap=70"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Valstybiniai ženklai ir vėliava\" parinktas kaip owner_note_path. Targetas \"Vėliavos\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-26638
 ## Reikšmingi paminėjimai
@@ -92,8 +79,8 @@ Nenurodyta
     180
     ženklus, vėliavą, dirbs užsienio naudai prieš Lietuvą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

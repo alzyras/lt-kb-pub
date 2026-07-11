@@ -41,16 +41,6 @@ Kunigaikštis Rostislavas, kunigaikščio Rogvoldo Borisovičiaus sūnus.
 - t-001
   global_id: t-87846
   teiginys: "Rogvoldas Borisovičius buvo Polocko Riuriko giminės kunigaikščio Rostislavo tėvas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "120798-121162; hash=69f24f51a465498fe730c76f5925a82c6ffb963567ea4fcd2116170f14b40f8d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Polockas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Rogvoldas Borisovičius: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Polockas: mention_match, place, gap=28"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rogvoldas Borisovičius\" parinktas kaip owner_note_path. Targetas \"Polockas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-83825
 ## Reikšmingi paminėjimai
@@ -67,8 +57,8 @@ Kunigaikštis Rostislavas, kunigaikščio Rogvoldo Borisovičiaus sūnus.
     nigaikščiai, Rodosłownik'e nurodyti: I. Kunigaikštis Rostis-
     lavas, kunigaikščio Rogvoldo Borisovičiaus sūnus. II.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

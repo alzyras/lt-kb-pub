@@ -42,18 +42,6 @@ Viena jų, vadovaujama kunigaikščio Baziliaus Serebriano, pajudėjo iš Smolen
 - t-002
   global_id: t-40392
   teiginys: "Kunigaikštis Petras Šuiskis su savo kariuomene iš Polocko pajudėjo sausio 23 d."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "351202-351687; hash=9de9ee5d44c9e844251782e372de484b7b36c254edbb92e2938c77c465155dcb; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Polockas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Petras Šuiskis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Polockas: mention_match, place, gap=37"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Petras Šuiskis\" parinktas kaip owner_note_path. Targetas \"Polockas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-13T14:20:43Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-44488
 
@@ -61,19 +49,6 @@ Viena jų, vadovaujama kunigaikščio Baziliaus Serebriano, pajudėjo iš Smolen
 - t-001
   global_id: t-40393
   teiginys: "Kunigaikštis Petras Šuiskis vadovavo kariuomenei, kuri iš Polocko traukė į Drucką."
-  semantiniai_rysiai: "Petras Šuiskis keliavo į Druckas (0.90); Petras Šuiskis surengė žygį į Lietuva (0.72)"
-  temporaliniai_duomenys: "įvykio data: 1564 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "350463-350963; hash=4fd292171d0b11fc655a8f3ddcc6886db77641f573d4e2519f9a062b72e7ea4b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Druckas: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Petras Šuiskis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Druckas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Petro Šuiskio kariuomenė tiesiogiai traukė į Drucką."
   pagrindžia:
     - c-44487
 - susijęs iš [[objektai/ivykiai/Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.).md#claim-t-09887|Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)]]: Petras Šuiskis pasirinko mūšio vietą prie Ulos upės netoli Čašnikų.
@@ -97,8 +72,8 @@ Viena jų, vadovaujama kunigaikščio Baziliaus Serebriano, pajudėjo iš Smolen
     susijungti ir pulti Minsko, Naugarduko, o
     vėliau Vilniaus kryptimi.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -121,8 +96,8 @@ Viena jų, vadovaujama kunigaikščio Baziliaus Serebriano, pajudėjo iš Smolen
     priešui kelią, raiteliai nelaukdami pėsti-
     ninkų ir artilerijos pajudėjo greitu maršu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -184,6 +159,3 @@ Viena jų, vadovaujama kunigaikščio Baziliaus Serebriano, pajudėjo iš Smolen
 
 ## Ryšiai
 - Petras Šuiskis keliavo į [[objektai/vietos/Druckas]]
-- Petras Šuiskis surengė žygį į [[objektai/vietos/Lietuva]]
-- Petras Šuiskis kariavo prieš [[objektai/grupes/Lietuviai]]
-- Petras Šuiskis dalyvavo mūšyje [[objektai/ivykiai/Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)]]

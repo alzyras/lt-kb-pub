@@ -30,21 +30,6 @@ Narbutas keltus sieja su skitų kilme, aiškindamas juos kaip giminingus senovė
 - t-001
   global_id: t-192985
   teiginys: "Narbutas keltus sieja su skitų kilme, aiškindamas juos kaip giminingus senovės Šiaurės Europos tautoms."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "64199-64813; hash=cd41c6c8317f1096b541330a6457b36437eb20d5ef6bae4366131f6495e8b73f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Europa: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Keltai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=78"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Keltai\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175755
 - susijęs iš [[objektai/asmenys/Henrikas Leo.md#claim-t-191207|Henrikas Leo]]: Narbuto papildyme Henrikas Leo teigė, kad „Die Malbergisch'e Glosse“ aptarti marienburgiškais vadinti žodžiai yra keltų kalbos žodžiai.
@@ -74,8 +59,8 @@ Narbutas keltus sieja su skitų kilme, aiškindamas juos kaip giminingus senovė
     navai, traukdamiesi iš rytų į vakarus, susitelkė Skandi­
     navijos pusiasalyje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -86,7 +71,8 @@ Narbutas keltus sieja su skitų kilme, aiškindamas juos kaip giminingus senovė
 - id: c-175755
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 38"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 38."
   citata_originali: |
     Padavimai, išlikę Šiaurės tautų
     sagose, visada pasakoja apie skandinavų protėvių atvy­

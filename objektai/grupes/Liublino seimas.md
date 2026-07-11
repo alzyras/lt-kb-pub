@@ -35,9 +35,6 @@ Kaip Varšuvos seime (1563—4 m.), taip ir Liubline lenkai reikalavo visiško a
 - t-001
   global_id: t-65847
   teiginys: "Liublino seime lenkai reikalavo visiško abiejų valstybių sujungimo, o lietuviai siekė išlaikyti abiejų valstybių savarankiškumą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "457105-457644; hash=09e68bf97171d5b36a1877e5b65d850eafaea847641dcf4e5652e0e52d719484; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-66214
 
@@ -45,14 +42,6 @@ Kaip Varšuvos seime (1563—4 m.), taip ir Liubline lenkai reikalavo visiško a
 - t-002
   global_id: t-193113
   teiginys: "Grįžę į seimą, lietuviai dar ilgai kovojo, stengdamiesi išsiderėti sau palankesnes sąlygas, ir reikalavo grąžinti atplėštąsias žemes, tačiau, karaliui palaikant lenkus, buvo priversti nusileisti."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "458409-459297; hash=ac7c72afd440fcd1cfab29496cc2ada458f70d25bf59a358c34c91d47f34ae19; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-175873
 - susijęs iš Liublinas: Liublino seimas unijos klausimui spręsti susirinko 1569 m. sausio 10 d.
@@ -74,8 +63,8 @@ Kaip Varšuvos seime (1563—4 m.), taip ir Liubline lenkai reikalavo visiško a
     lietuviai staiga nutraukė derybas ir išvažiavo iš Liublino (kovo
     1 d.).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -102,8 +91,8 @@ Kaip Varšuvos seime (1563—4 m.), taip ir Liubline lenkai reikalavo visiško a
     ir t.t. Visa tai liepos 1 d. buvo patvirtinta trimis unijos aktais
     — dviem abiejų valstybių luomų ir vienu karaliaus aktu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

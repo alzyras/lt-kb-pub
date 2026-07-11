@@ -43,20 +43,6 @@ Dusburgietis teigia, kad apie Morungeno pilies pastatymą 1327 viešpaties metai
 - t-001
   global_id: t-60321
   teiginys: "1327 m. Hermanas, Elbingo komtūras ir didysis Ordino špitolininkas, netoli Zalfeldo pastatė Morungeno miestą."
-  semantiniai_rysiai: "Hermanas (Elbingo komtūras ir didysis Ordino špitolininkas) pastatė Morungenas (0.95)"
-  temporaliniai_duomenys: "pastatymo data: 1327 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys pilnas ir tiksliai perteikia citatos faktą apie Hermaną."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "745134-745435; hash=5b276d40561b02677328463b60951a2cf7a5f32095882da944149b1cb1786bae; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "pastate -> Morungenas: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Hermanas (Elbingo komtūras ir didysis Ordino špitolininkas): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Morungenas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Hermanas pastatė Morungeno miestą."
   pagrindžia:
     - c-60953
 ## Reikšmingi paminėjimai
@@ -76,8 +62,8 @@ Dusburgietis teigia, kad apie Morungeno pilies pastatymą 1327 viešpaties metai
 
                              3.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -88,7 +74,8 @@ Dusburgietis teigia, kad apie Morungeno pilies pastatymą 1327 viešpaties metai
 - id: c-60953
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 252"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 252."
   citata_originali: |
     2. Apie Morungeno pilies pastatymą
 

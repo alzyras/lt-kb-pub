@@ -30,21 +30,6 @@ Narbutas indus ir kinus vadino seniausiomis žemės tautomis, saugojusiomis senu
 - t-001
   global_id: t-189410
   teiginys: "Narbutas indus ir kinus vadino seniausiomis žemės tautomis, saugojusiomis senuosius įstatymus, papročius ir visuomenės gyvenimo smulkmenas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "141496-142072; hash=70cb8d94c65e91b3295b9b24124573a10677a99b253208fea0d6f7cfe57bf0e2; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kinai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Indai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Kinai: mention_match, group, gap=9"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Indai\" parinktas kaip owner_note_path. Targetas \"Kinai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172297
 
@@ -52,21 +37,6 @@ Narbutas indus ir kinus vadino seniausiomis žemės tautomis, saugojusiomis senu
 - t-002
   global_id: t-189411
   teiginys: "Narbutas rašė, kad indų, kinų, chaldėjų, egiptiečių, izraelitų, persų ir graikų padavimai mena palaimingą praeitį."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "146256-146633; hash=a4e3a2cc7c80134f114052e25e41debb746d4449f72d06b07eebff197276abb5; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Graikai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Indai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Graikai: mention_match, group, gap=54"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Indai\" parinktas kaip owner_note_path. Targetas \"Graikai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172298
 
@@ -74,21 +44,6 @@ Narbutas indus ir kinus vadino seniausiomis žemės tautomis, saugojusiomis senu
 - t-003
   global_id: t-189412
   teiginys: "Narbutas buvo įsitikinęs, kad aptariamas kultas kilo iš indų arba iš tautos prie Himalajų kalnų, iš kurios kilo indai."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "316352-316949; hash=50e96887947ea5c73e821f175589e8edd325448649f950061cd482cae6f6535f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Egiptiečiai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Indai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Egiptiečiai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Indai\" parinktas kaip owner_note_path. Targetas \"Egiptiečiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172299
 
@@ -96,21 +51,6 @@ Narbutas indus ir kinus vadino seniausiomis žemės tautomis, saugojusiomis senu
 - t-004
   global_id: t-189413
   teiginys: "Narbutas žalčių garbinimą vadino senovėje visuotiniu ir prie jo priskyrė indus, chaldėjus, egiptiečius, persus, finikiečius, graikus, romėnus ir gotus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "345843-346147; hash=29c844fc7b17222f596f14f35e361031acd809561d8026a4d6232b5fdae9c348; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gotai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Indai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Gotai: mention_match, group, gap=72"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Indai\" parinktas kaip owner_note_path. Targetas \"Gotai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172300
 
@@ -118,21 +58,6 @@ Narbutas indus ir kinus vadino seniausiomis žemės tautomis, saugojusiomis senu
 - t-005
   global_id: t-189414
   teiginys: "Narbutas teigė, kad indai svarbia savo religingumo dalimi laikė šventomis pripažintų upių garbinimą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "384607-384896; hash=fd7b7140e80f37293f340a7403f12ccd677dae9c92f036dd0663f0b401675970; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Slavai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Indai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Slavai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Indai\" parinktas kaip owner_note_path. Targetas \"Slavai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172301
 - susijęs iš [[objektai/asmenys/Buda.md#claim-t-191259|Buda]]: Narbutas rašo, kad 1029 m. pr. Kr. pradėta garbinti indų dievą Budą, o jo sektos narių padaugėjo Indijoje ir Vidurinėje Azijoje.
@@ -195,8 +120,8 @@ Narbutas indus ir kinus vadino seniausiomis žemės tautomis, saugojusiomis senu
     dabar tebėra to paties apšvietos, politinių institucijų ir religi­
     jos lygio.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -214,8 +139,8 @@ Narbutas indus ir kinus vadino seniausiomis žemės tautomis, saugojusiomis senu
     žodžiai: aurea prima sata ėst aetas -  pirmasis gimė aukso am­
     žius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -237,8 +162,8 @@ Narbutas indus ir kinus vadino seniausiomis žemės tautomis, saugojusiomis senu
     Taip pat lietuvių mitologijoje, kalbant apie šio objekto esmę,
     pagrindą ištisai sudaro indų padavimai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -254,8 +179,8 @@ Narbutas indus ir kinus vadino seniausiomis žemės tautomis, saugojusiomis senu
     gelis kitų tautų nebuvo laisvos nuo tų prietarų. Panašų į lietu­
     vių elgesį su žalčiais Julijus Cezaris pastebėjo Pirėnų tautose9.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -273,8 +198,8 @@ Narbutas indus ir kinus vadino seniausiomis žemės tautomis, saugojusiomis senu
     protėvių tėvynė. Indai svarbiu savo religingumo dalyku laiko
     tų upių garbinimą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -285,7 +210,8 @@ Narbutas indus ir kinus vadino seniausiomis žemės tautomis, saugojusiomis senu
 - id: c-172297
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 79"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 79."
   citata_originali: |
     Kad mums būtų lengviau išsemti visą naudą iš mitologijos
     skaitymo, nepakenks iš pradžių apžvelgti atradimus, galinčius
@@ -308,7 +234,8 @@ Narbutas indus ir kinus vadino seniausiomis žemės tautomis, saugojusiomis senu
 - id: c-172298
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 81"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 81."
   citata_originali: |
     Tačiau tiesa visuomet išliko atmintyje. Senovės isto­
     rija gausi faktų apie žmogaus nuopuolį: indai, kinai, chaldėjai,
@@ -327,7 +254,8 @@ Narbutas indus ir kinus vadino seniausiomis žemės tautomis, saugojusiomis senu
 - id: c-172299
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 184"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 184."
   citata_originali: |
     Be jo­
     kios abejonės, ne tik patys seniausi, bet ir paskutiniai stabmel­
@@ -350,7 +278,8 @@ Narbutas indus ir kinus vadino seniausiomis žemės tautomis, saugojusiomis senu
 - id: c-172300
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 203"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 203."
   citata_originali: |
     Šiuos prietarus žinojo ir Lietuvos rusinai.
     Senovėje žalčių garbinimas buvo visuotinis: indai, chaldė-
@@ -367,7 +296,8 @@ Narbutas indus ir kinus vadino seniausiomis žemės tautomis, saugojusiomis senu
 - id: c-172301
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 225"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 225."
   citata_originali: |
     Kaip mano Naruševičius', slavai taip pat žinojo panašią
     ugnį, vadintą Zwicz.
@@ -382,7 +312,3 @@ Narbutas indus ir kinus vadino seniausiomis žemės tautomis, saugojusiomis senu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189414
-
-## Ryšiai
-- Turėjo priklausinį: [[objektai/grupes/Budinai]]
-- Indai gyveno [[objektai/vietos/Himalajų kalnai]]

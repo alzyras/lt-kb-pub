@@ -35,12 +35,6 @@ Vytautas buvo Kęstučio iš eilės ketvirtas, o Birutės bene pirmagimis sūnus
 - t-001
   global_id: t-194955
   teiginys: "Vytautas buvo Kęstučio iš eilės ketvirtas, o Birutės bene pirmagimis sūnus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "40126-40476; hash=406d9d2e23b5bf2c9112534c844434ebbdfd69a50042ce22ffe08b714d1553bd; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-36562
 
@@ -48,12 +42,6 @@ Vytautas buvo Kęstučio iš eilės ketvirtas, o Birutės bene pirmagimis sūnus
 - t-002
   global_id: t-194956
   teiginys: "Vytautas savo ka riuomenę pats vedė, o lenkai visai neturėjo vadų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "219944-220350; hash=15f6cf04735c68ee489980b2a04e98ee8c8d46d6840bb11ae2d9bd9785e756d0; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-36564
 
@@ -61,12 +49,6 @@ Vytautas buvo Kęstučio iš eilės ketvirtas, o Birutės bene pirmagimis sūnus
 - t-003
   global_id: t-194957
   teiginys: "Vytautas visą laiką, kai Jogaila tarėsi su pasiuntiniais, lakstė kariuome nės tarpe, darė tvarką."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "231530-231819; hash=3814d35aad62d0f54fda11589d5f274665855ba9eb875ed40299680f6454acfb; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-36566
 
@@ -74,12 +56,6 @@ Vytautas buvo Kęstučio iš eilės ketvirtas, o Birutės bene pirmagimis sūnus
 - t-004
   global_id: t-194958
   teiginys: "Daugiau Jogaila Lie tuvoje bažnyčių ir nestatęs; tai atliko Vytautas ir Lietuvos didikai."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "264455-264825; hash=d3b32f4e1be15c0665ed73dc60c9af4bb0e27a779e5ac674d0aa349520d6e2f8; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177351
 
@@ -87,12 +63,6 @@ Vytautas buvo Kęstučio iš eilės ketvirtas, o Birutės bene pirmagimis sūnus
 - t-005
   global_id: t-194959
   teiginys: "Vadinasi, taip stipriai Vytautas buvo užatakavęs šiuos stepių gyventojus, kurie nuo Aukso Ordos įkūrimo laikų (1273) vargi no rusus duoklėmis ir baidė Europą^2 )."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "359151-359691; hash=e4bcc184309a6d563e46a6d26e8646a192ca59d05039daa6d48762d75272d607; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177352
 
@@ -100,12 +70,6 @@ Vytautas buvo Kęstučio iš eilės ketvirtas, o Birutės bene pirmagimis sūnus
 - t-006
   global_id: t-194960
   teiginys: "Tuo būdu Vytautas gavo iš Jo gailos Lietuvą didž."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "392798-392956; hash=08e34b8bcbdf37dd33e01c5cd8fd64464acbbaf3cf3598caf943f2df0a0d38da; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-36576
 
@@ -113,12 +77,6 @@ Vytautas buvo Kęstučio iš eilės ketvirtas, o Birutės bene pirmagimis sūnus
 - t-007
   global_id: t-194961
   teiginys: "Vytautas šiuo laiku atmetė ir gundymą suardyti uniją, ka da jis buvo nuvykęs į Kėzmarką pas Vengrų karalių Zigmantą, norėdamas jį palenkti, kad ištesėtų paliaubas su Lenkija."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "442574-443218; hash=a902a854b6f4b41f458e45a7911d34c4393f5e8b296966900382e0f84931870f; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-36579
 
@@ -126,12 +84,6 @@ Vytautas buvo Kęstučio iš eilės ketvirtas, o Birutės bene pirmagimis sūnus
 - t-008
   global_id: t-194962
   teiginys: "Rytai ginklų kovoje nugalėjo Vakarus, vadovaujant genialiam Vytautui, kuris neveltui vadi namas Didžiuoju."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "444255-444787; hash=b98f7f5783e80876ccaac230723e4275f18d0946b392ef1f444c86b44ba96947; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-36580
 
@@ -139,12 +91,6 @@ Vytautas buvo Kęstučio iš eilės ketvirtas, o Birutės bene pirmagimis sūnus
 - t-009
   global_id: t-194963
   teiginys: "Kochanovskis yra tos nuomonės, kad paskutine unija Vytautas nenorėjęs Lietuvos len kinti, bet ją civilizuoti^3 )."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "469743-470369; hash=2e76fbc8c02043bad7f6174c6effbfc920b5a59b512dece2def0716cbc692e77; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-36581
 
@@ -152,12 +98,6 @@ Vytautas buvo Kęstučio iš eilės ketvirtas, o Birutės bene pirmagimis sūnus
 - t-010
   global_id: t-194964
   teiginys: "Kai šį sprendimą sužinojo Vytautas ir Jogaila, kurie tada viešėjo Dauguose, abu taip balsiai pra virko, kad jų verksmas, kaip sako Dlugošas, iš tolo buvo girdėti."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "476870-477297; hash=bcec3e9fa513243941761148b02a5a2af761725a8fb19bdd4bdc6612b5df8ce8; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-36583
 
@@ -165,12 +105,6 @@ Vytautas buvo Kęstučio iš eilės ketvirtas, o Birutės bene pirmagimis sūnus
 - t-011
   global_id: t-194965
   teiginys: "Šis pavojus ir turėjo būt aptartas suvažia vime, kurį paskyrė popiežius, o Vytautas sušaukė 1429 m. sau sio mėn."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "523092-523335; hash=c12e5bd3f18389a97c3bc730a406fdc22a0547ec3973469e8f4033482d8e9e03; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-36586
 
@@ -178,12 +112,6 @@ Vytautas buvo Kęstučio iš eilės ketvirtas, o Birutės bene pirmagimis sūnus
 - t-012
   global_id: t-194966
   teiginys: "Tuojau iš čia Vytautas nurašė Jogailai laišką, su pasipiktinimu pabrėždamas, kaip jį skaudžiai jis įžeidė, pasisakęs nenorįs todėl palaikyti jo karūnacijos, kad Lie tuvos bajorai ir gyventojai neturi teisės laisvai išsirinkti valdo vo be Lenkijos baronų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "538249-538684; hash=9b117ac0d6de8c8ee6abe7165be86b3b52b6d8cd28e8cdccc993b1350a2c6a74; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177353
 
@@ -191,12 +119,6 @@ Vytautas buvo Kęstučio iš eilės ketvirtas, o Birutės bene pirmagimis sūnus
 - t-013
   global_id: t-194967
   teiginys: "Kai sužinojo, kad kryžiuočių pasiuntinys, Tomo komtūras, atvyko pas Jogailą į Lenčicą, pa siuntė ten ir Vytautas savo delegatus: Vilniaus vaivadą (palati num) Gedgaudą (Gedigoldum) ir maršalką Rumbaudą (Rum poldum)."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "545502-545790; hash=98b7e9d04f61620815787b5893dc222ec7b68588b989e6bd7b6cb67ee1a89330; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-36588
 
@@ -204,12 +126,6 @@ Vytautas buvo Kęstučio iš eilės ketvirtas, o Birutės bene pirmagimis sūnus
 - t-014
   global_id: t-194968
   teiginys: "Sužinojęs iš savo pasiuntinio apie suvažiavimo pa sekmes Vytautas įsitikino, kad geruoju su Lenkija nesusitars, Vytautas dabar laukė karūnos, kaip ženklo, kuris turi išgelbėti valstybę^3 ) ir jos laisvę^4 )."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "561417-561887; hash=5eec6306cb5f5970610ec22c1eded8b17560ac2e788aea2bc52f8954a402045b; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177354
 
@@ -217,12 +133,6 @@ Vytautas buvo Kęstučio iš eilės ketvirtas, o Birutės bene pirmagimis sūnus
 - t-015
   global_id: t-194969
   teiginys: "Vytautas, atsisveikinęs su svečiais, susirgo^4 )."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "573819-573966; hash=af7a43029386abef28fc04800b6dc6db132c10243756753d85bc2cd2f70b3d2e; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177355
 
@@ -230,12 +140,6 @@ Vytautas buvo Kęstučio iš eilės ketvirtas, o Birutės bene pirmagimis sūnus
 - t-016
   global_id: t-194970
   teiginys: "Taip tad Vytautas, didysis mūsų valdovas, kaip geras ka talikas, susitaikinęs su Dievu, užmerkė akis ir paliko Lietuvą didelėms nelaimėms."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "589396-589814; hash=dd43463fae12fcf99e2052d2ab353ca42426a653ccd7ae52026d57f42db1f660; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177356
 
@@ -243,12 +147,6 @@ Vytautas buvo Kęstučio iš eilės ketvirtas, o Birutės bene pirmagimis sūnus
 - t-017
   global_id: t-194971
   teiginys: "Tai buvo tam tikra žemės valdymo reforma, Vytauto įvykdyta rusiškuose kraštuose, ir praplėtusi jo nuosavų žemių plotą, susiaurėjusi Lietuvoje."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "597940-598310; hash=9c295abf852f64d279265552eefec25be617a6a818a30741a10fc59c8418b04d; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177357
 
@@ -256,12 +154,6 @@ Vytautas buvo Kęstučio iš eilės ketvirtas, o Birutės bene pirmagimis sūnus
 - t-018
   global_id: t-194972
   teiginys: "Vytauto laikais čekų gra šiai buvo kalami ir Lietuvoje."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "605400-605691; hash=4461eb21f93b156118861446584660fd8570bdf1465ad780dbe75518a658ded2; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177358
 
@@ -269,12 +161,6 @@ Vytautas buvo Kęstučio iš eilės ketvirtas, o Birutės bene pirmagimis sūnus
 - t-019
   global_id: t-194973
   teiginys: "Nuo pat jaunystės Vytautas mėgo karo dalykus, ginklus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "641722-641949; hash=add0d932bfcc44a500b339533ebdb18ea120b0c8e4e714e5ec92f2668d9851a3; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177359
 
@@ -282,12 +168,6 @@ Vytautas buvo Kęstučio iš eilės ketvirtas, o Birutės bene pirmagimis sūnus
 - t-020
   global_id: t-194974
   teiginys: "Galimas daiktas, kad Vytautas mokėjęs ir totorių kal bos, nes jo dvare totorių daug pasimaišydavo ir nuolat būdavo kun. tarnyboj; o iš kun. kanceliarijos, kaip užsimena Ghillebert de Lannoy, buvo siuntinėjami totorių kalba raštai."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "642221-642580; hash=762385e1f5ae313a4295069b43c3e140318ebd03407233cc36f798a542ffeadf; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177360
 
@@ -295,12 +175,6 @@ Vytautas buvo Kęstučio iš eilės ketvirtas, o Birutės bene pirmagimis sūnus
 - t-021
   global_id: t-194975
   teiginys: "Istoriniai reikšmingas Vytauto veikimas prasideda Kęstu čio kovos metu su Jogaila."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "643475-643895; hash=eac6d1bec799cf6a863a69105e50c879aefa79511e9afa58dbbbd89184e14ba7; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177361
 
@@ -308,12 +182,6 @@ Vytautas buvo Kęstučio iš eilės ketvirtas, o Birutės bene pirmagimis sūnus
 - t-022
   global_id: t-194976
   teiginys: "1392 metai Vytauto gyvenime yra persilaužimo metai — jis galutinai atsisakė nuo sąjungos su Ordinu, susitaikė su Jogai la ir lenkais ir gavo valdyti ne tik tėviškę, bet ir visą Lietuvą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "649172-649523; hash=054812f06881d738f1f700a84da613d21500f3484b87ee2a198cfb53ce18f832; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177362
 ## Reikšmingi paminėjimai
@@ -329,8 +197,8 @@ Vytautas buvo Kęstučio iš eilės ketvirtas, o Birutės bene pirmagimis sūnus
     šyje^2 ), 1430 metais mirdamas jis turėjęs aštuoniasdešimt metų,
     vadinasi turėjo gimti apie 1350 metus^3 ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -349,8 +217,8 @@ Vytautas buvo Kęstučio iš eilės ketvirtas, o Birutės bene pirmagimis sūnus
     vyriausios vėliavos, tuo tarpu visos sąjunginės kariuomenės
     vadovybė atiteko Vytautui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -367,8 +235,8 @@ Vytautas buvo Kęstučio iš eilės ketvirtas, o Birutės bene pirmagimis sūnus
     lenkų ir lietuvių kariuomenių, dažnai mainydamas arklius“
     (Dlugošas). Tai Vytauto apsauga.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -382,8 +250,8 @@ Vytautas buvo Kęstučio iš eilės ketvirtas, o Birutės bene pirmagimis sūnus
     gailos Lietuvą didž. kunigaikščio teisėmis, kaip lėną. Ši sutar­
     tis grąžino jam Lietuvos valdžią.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -405,8 +273,8 @@ Vytautas buvo Kęstučio iš eilės ketvirtas, o Birutės bene pirmagimis sūnus
     tuo klausimu, bet priešingai, sugrįžęs tuojau pranešė Jogailai
     tuos pasitarimus^2 ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -426,8 +294,8 @@ Vytautas buvo Kęstučio iš eilės ketvirtas, o Birutės bene pirmagimis sūnus
     kad vargiai vieni lietuviai be lenkų sąjungininkystės, kad ir to­
     kiam gabiam Vytautui vadovaujant, būtų nugalėję kryžiuočius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -448,8 +316,8 @@ Vytautas buvo Kęstučio iš eilės ketvirtas, o Birutės bene pirmagimis sūnus
     auklėtas, negalėjo nepastebėti ir nejausti to didelio savo krašto
     atsilikimo, ko jis ir negalėjo ilgiau toleruoti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -468,8 +336,8 @@ Vytautas buvo Kęstučio iš eilės ketvirtas, o Birutės bene pirmagimis sūnus
     sekretorių Mikalojų Cebulką, kuris jo vardu pareiškė Zigmantui
     nepasitenkinimą^3 ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -485,8 +353,8 @@ Vytautas buvo Kęstučio iš eilės ketvirtas, o Birutės bene pirmagimis sūnus
     Į šį nepaprastą Vytauto kviečiamą susirinkimą gausiai su­
     plaukė svečių tiek iš Vakarų, tiek ir iš Rytų Europos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -503,8 +371,8 @@ Vytautas buvo Kęstučio iš eilės ketvirtas, o Birutės bene pirmagimis sūnus
     poldum). Atvykę jie į Lenčicą (1429 VI. 18), įteikė Jogailai Vy­
     tauto laišką.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -524,8 +392,8 @@ Vytautas buvo Kęstučio iš eilės ketvirtas, o Birutės bene pirmagimis sūnus
     spaudos pridėtos privilegijų raštuose; taigi jis prisidėjo ir prie
     naujos visuomeninės tvarkos įvedimo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -546,8 +414,8 @@ Vytautas buvo Kęstučio iš eilės ketvirtas, o Birutės bene pirmagimis sūnus
     gailą padėti besiginantiems vengrams, tai abiem valdovam pa­
     rašius grasinantį sultonui laišką, turkai iš Bosnijos pasitraukė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -567,8 +435,8 @@ Vytautas buvo Kęstučio iš eilės ketvirtas, o Birutės bene pirmagimis sūnus
     Toliau Vytautas pabrėžia, kad šis punktas galės būt pritai­
     kintas tik jam mirus^3 ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -588,8 +456,8 @@ Vytautas buvo Kęstučio iš eilės ketvirtas, o Birutės bene pirmagimis sūnus
     žinia kitos pusės, dabar lenkai išsirinko sau Jogailos įpėdinį be
     Vytauto ir lietuvių bajorų žinios ir pritarimo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -604,8 +472,8 @@ Vytautas buvo Kęstučio iš eilės ketvirtas, o Birutės bene pirmagimis sūnus
     su svečiais, susirgo^4 ). Vis dėlto jis ir dabar dar nenustojo
     vilties karūnuotis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -624,8 +492,8 @@ Vytautas buvo Kęstučio iš eilės ketvirtas, o Birutės bene pirmagimis sūnus
     šai išstatytas, kad galėtų žmonės paskutinį kartą atsisveikinti
     su savo dideliu valdovu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -643,8 +511,8 @@ Vytautas buvo Kęstučio iš eilės ketvirtas, o Birutės bene pirmagimis sūnus
     duktingumą, išplėsti jį naujose, neapgyventose žemėse, įkur­
     dinant juose dvaro žmones, arba nuomininkus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -662,8 +530,8 @@ Vytautas buvo Kęstučio iš eilės ketvirtas, o Birutės bene pirmagimis sūnus
     Šalia jų kursavo ir lietuviški denariukai, atsiradę 1387-1390
     m.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -678,8 +546,8 @@ Vytautas buvo Kęstučio iš eilės ketvirtas, o Birutės bene pirmagimis sūnus
     dalykų mielai mokydavosi ir lengvai juos pasisavindavo. Ypač
     jis sekdavo Vakarų Eurpos išradimus ir papročius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -696,8 +564,8 @@ Vytautas buvo Kęstučio iš eilės ketvirtas, o Birutės bene pirmagimis sūnus
     kun. tarnyboj; o iš kun. kanceliarijos, kaip užsimena Ghillebert
     de Lannoy, buvo siuntinėjami totorių kalba raštai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -715,8 +583,8 @@ Vytautas buvo Kęstučio iš eilės ketvirtas, o Birutės bene pirmagimis sūnus
     giau tėvą. Bet jo veikime nežymu dar didelio veiklumo, savos
     iniciatyvos jis nereiškė, pildė tik Kęstučio įsakymus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -733,8 +601,8 @@ Vytautas buvo Kęstučio iš eilės ketvirtas, o Birutės bene pirmagimis sūnus
     rino su tautos ir valstybės reikalais: tautos priešai yra ir jo
     priešai, tautos draugai — jo draugai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

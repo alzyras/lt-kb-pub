@@ -45,22 +45,6 @@ Nenurodyta
 - t-001
   global_id: t-189959
   teiginys: "Narbutas rašo, kad žemesnės kategorijos žyniai miškuose, prie vandenų ir turgavietėse įsirengdavo laikinus ar pastovius aukurus aukoms."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Žyniai pastatė Aukurai (0.72)"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "468293-469014; hash=d59bb18b9abd3be8fc2ed9b319598333173d1fbe89f5ea8031a9a3b3e5288a31; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "pastate -> Aukurai: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Žyniai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Aukurai: llm_allowed_candidate, thing"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad žyniai įsirengdavo aukurus; tai artimiausiai atitinka aukurų pastatymo arba įrengimo santykį."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172842
 ## Reikšmingi paminėjimai
@@ -82,8 +66,8 @@ Nenurodyta
     kuose, po šventaisiais medžiais, upių, ežerų pakrantėse, vidu­
     ry miestų turgaviečių ir ten prireikus atnašaudavo aukas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -94,7 +78,8 @@ Nenurodyta
 - id: c-172842
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 269"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 269."
   citata_originali: |
     Pačiuose Prūsuose yra panašių
     vietų, kurių suskaičiuojama iki šešeto, o Hartknochas veltui

@@ -42,16 +42,6 @@ Wermke : Bibliographie der Geschichte von Ostund Westpreußen (bis 1929). Wermke
 - t-001
   global_id: t-30602
   teiginys: "E. Wermke vėlesnėse bibliografijos tąsose rūpestingiau apžvelgė ir lietuvių kalba rašytus darbus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "49018-49536; hash=cde30cfa5b545ec6dacc48ba995a702f1e528c074603d7f52a1b44d2d3c04ea6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "E. Wermke: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=67"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"E. Wermke\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-32919
 - susijęs iš [[objektai/autoriai/Wermke E.md#claim-t-62664|Wermke E]]: E. Wermke parengė Rytų ir Vakarų Prūsijos istorijos bibliografiją, apimančią laikotarpius iki 1929 m., 1930–1938 m. ir 1939–1970 m.
@@ -73,8 +63,8 @@ Wermke : Bibliographie der Geschichte von Ostund Westpreußen (bis 1929). Wermke
     1)** **_Bibliographie d. Geschichte von Ost- und Westpreußen für die Jahre
     1930-1938,_** **Aalen 1964.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

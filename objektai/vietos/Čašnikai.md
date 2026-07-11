@@ -34,16 +34,6 @@ media_all_json: |-
 - t-001
   global_id: t-42350
   teiginys: "P. Šuiskis pasirinko mūšio vietą prie Ulos upės netoli Čašnikų, kai sužinojo, kad lietuviai rengiasi užkirsti jam kelią."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "352582-352959; hash=d6008bf537e7fa9e96e517ec1421c71e49162363ddc1f3d69dc58a2aefad3c7b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Čašnikai: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=27"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Čašnikai\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-45452
 - susijęs iš [[objektai/ivykiai/Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.).md#claim-t-09887|Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)]]: Petras Šuiskis pasirinko mūšio vietą prie Ulos upės netoli Čašnikų.
@@ -63,8 +53,8 @@ media_all_json: |-
     apie 25 km atstumą. P. Šuiskis išrikiavo
     savo kariuomenę ir laukė lietuvių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

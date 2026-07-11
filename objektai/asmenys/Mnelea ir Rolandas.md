@@ -30,21 +30,6 @@ Narbutas rašo, kad Mnelea ir Rolandas Katarus aiškino kaip tris pragaro arba m
 - t-001
   global_id: t-190186
   teiginys: "Narbutas rašo, kad Mnelea ir Rolandas Katarus aiškino kaip tris pragaro arba mirusiųjų dievus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "199284-200202; hash=f89cbb3d87a644d2f5a4fc0989157cd9cee934e207a8616d6fcff5e4e386db64; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Pragaras: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mnelea ir Rolandas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Pragaras: mention_match, place, gap=45"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mnelea ir Rolandas\" parinktas kaip owner_note_path. Targetas \"Pragaras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173069
 ## Reikšmingi paminėjimai
@@ -69,8 +54,8 @@ Narbutas rašo, kad Mnelea ir Rolandas Katarus aiškino kaip tris pragaro arba m
     nas -  požemį, arba egzistavimą po mirties. Tai iš tikrųjų ir yra
     graikų mitologijos Trejybė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -81,7 +66,8 @@ Narbutas rašo, kad Mnelea ir Rolandas Katarus aiškino kaip tris pragaro arba m
 - id: c-173069
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 112"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 112."
   citata_originali: |
     Dabar sunku tinkamai atskleisti to mito prasmę: pirma,
     apeigos buvo slaptos, antra, painiava net senovės mitologų vei­

@@ -42,12 +42,6 @@ media_all_json: |-
 - t-001
   global_id: t-185317
   teiginys: "Varmijos Braunsberge kardinolas Stanislovas Hozijus 1568 m. įsteigė kolegiją, netrukus tapusią svarbia jėzuitų atrama."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "7178-7379; hash=6fa80e096d7ab32feb40514be7625a8195ddb093dc9747dd98c81ca2f4ecd817; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-168678
 
@@ -55,21 +49,6 @@ media_all_json: |-
 - t-002
   global_id: t-192795
   teiginys: "Varmija buvo ketvirta provincija, nuo senų laikų vadinta šiuo vardu ir vakaruose besiribojusi su Pagude per Pasargės, arba Sargos, upę."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "647606-647875; hash=5f6a15f3f73bd03cc1ce40cfc35afb3199fd21987c7161d28e0627b6c630149e; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Galinda: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Varmija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Galinda: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Varmija\" parinktas kaip owner_note_path. Targetas \"Galinda\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175565
 
@@ -77,21 +56,6 @@ media_all_json: |-
 - t-003
   global_id: t-192796
   teiginys: "Varmijos ir Natangijos siena ėjo tarp Kroieburgo ir Giniau miestų iki Alnos upės, už kurios prasidėjo Barta."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "648317-648633; hash=4674712ffe2c9dee5915e394c59abd229573ef4952245fdf6ebd0a2582ba1424; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Barta: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Varmija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Barta: mention_match, place, gap=102"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Varmija\" parinktas kaip owner_note_path. Targetas \"Barta\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175566
 
@@ -99,21 +63,6 @@ media_all_json: |-
 - t-004
   global_id: t-192797
   teiginys: "Varmija užėmė didelį plotą ir turėjo daugiau dirbamos bei tankiau apgyvendintos žemės negu anksčiau minėtos provincijos."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "648538-648926; hash=6ba403eabc5ba02e82efb3fac0dfee9bcb3ccdeaa68ae3caa752b14960291924; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Galindai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Varmija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Galindai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Varmija\" parinktas kaip owner_note_path. Targetas \"Galindai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175567
 - susijęs iš [[objektai/zodynas/Warikt.md#claim-t-192206|Warikt]]: Teodoro Narbuto aiškinimu, varinų pavadinimas kilo iš Warikt, siejamo su piemeniu, varymu, gyvulių gynimu ir ganymu.
@@ -148,8 +97,8 @@ media_all_json: |-
     Stanislovas Hozijus 1568 m. buvo įsteigęs kolegiją, ne­
     trukus pasidariusią svarbia jėzuitų atrama.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -166,8 +115,8 @@ media_all_json: |-
     liavo Aistmarės, vakaruose ji ribojosi su Natangija ir
     Barta, o į pietus driekėsi net iki Galindos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -185,8 +134,8 @@ media_all_json: |-
     vienas šios sienos punktas buvo prie Morungeno, kur ir
     šiandien yra Galindų kaimas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -205,8 +154,8 @@ media_all_json: |-
     plačius valsčius, nes ir čia gyveno bajorų šeimos, kurioms
     taip pat priklausė didelės valdos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -217,7 +166,8 @@ media_all_json: |-
 - id: c-168678
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 6"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 6."
   citata_originali: |
     1644 m. A. Kojelavičius siunčiamas į Braunsbergą
     dėstyti teologijos. Šiame Varmijos mieste kardinolas
@@ -233,7 +183,8 @@ media_all_json: |-
 - id: c-175565
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 358"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 358."
   citata_originali: |
     Varmija
     Ketvirta provincija — Varmija, taip vadinama nuo
@@ -251,7 +202,8 @@ media_all_json: |-
 - id: c-175566
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 359"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 359."
   citata_originali: |
     Iš čia
     Varmijos ir Natangijos siena ėjo tarp Kroieburgo ir Gin­
@@ -270,7 +222,8 @@ media_all_json: |-
 - id: c-175567
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 359"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 359."
   citata_originali: |
     Atrodo, jog
     vienas šios sienos punktas buvo prie Morungeno, kur ir
@@ -288,6 +241,4 @@ media_all_json: |-
     - t-192797
 
 ## Ryšiai
-- Gynė Varmiją: [[objektai/grupes/Glotinų šeima]]
 - Turėjo priklausinį: [[objektai/vietos/Vitlandija]]
-- Varmija priklausė [[objektai/vietos/Liubekas]]

@@ -33,9 +33,6 @@ Tai buvo vadinamieji ordinariniai seimai, kurių darbas trukdavo šešetą savai
 - t-003
   global_id: t-72706
   teiginys: "Seime atstovai išsirinkdavo maršalką arba direktorių, o jų išrinkimo teisėtumo tikrinimas vadintas rugomis."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "550084-550286; hash=4ae56b15d89bcf0e8009dc35179b8950ca04c0b8900ed7bbbbc2d1e3a8dd5546; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-71086
 
@@ -43,9 +40,6 @@ Tai buvo vadinamieji ordinariniai seimai, kurių darbas trukdavo šešetą savai
 - t-001
   global_id: t-72708
   teiginys: "Ordinariniai seimai turėjo rinktis kas dveji metai, o jų darbas trukdavo šešias savaites."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "548628-548781; hash=8ea28af5b86a3b978eea3d0a7a3b695a6636f0e65616524b654c94eae034261d; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-71089
 
@@ -53,9 +47,6 @@ Tai buvo vadinamieji ordinariniai seimai, kurių darbas trukdavo šešetą savai
 - t-001
   global_id: t-72708
   teiginys: "Ordinariniai seimai turėjo rinktis kas dveji metai, o jų darbas trukdavo šešias savaites."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "548628-548781; hash=8ea28af5b86a3b978eea3d0a7a3b695a6636f0e65616524b654c94eae034261d; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-71089
 
@@ -63,9 +54,6 @@ Tai buvo vadinamieji ordinariniai seimai, kurių darbas trukdavo šešetą savai
 - t-002
   global_id: t-72710
   teiginys: "Po seimo ginčytinus mokesčių klausimus turėdavo spręsti reliaciniai seimeliai."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "549425-549860; hash=ff917b771f7eccf6f186646e4de68f3ed858aff3e62d506bf74d3810c12c2380; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-71088
 
@@ -73,12 +61,6 @@ Tai buvo vadinamieji ordinariniai seimai, kurių darbas trukdavo šešetą savai
 - t-005
   global_id: t-182962
   teiginys: "Ordinariniai seimai paprastai dirbdavo šešias savaites, tačiau seimui sutikus jų laikas galėjo būti pratęstas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "548701-548995; hash=7b3ba14efcf9358ef3aa7607c3b465579979dd87ea7cdedb465104c38b02e918; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-166361
 ## Reikšmingi paminėjimai
@@ -92,8 +74,8 @@ Tai buvo vadinamieji ordinariniai seimai, kurių darbas trukdavo šešetą savai
     tikrinamas atstovų išrinkimo teisėtumas. Ta procedūra buvo
     vadinama r u g o m i s.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -112,8 +94,8 @@ Tai buvo vadinamieji ordinariniai seimai, kurių darbas trukdavo šešetą savai
     „broliams", t. y. savo seimeliui. Tą dalyką turėdavo išspręsti
     tuojau po seimo įvykstą vadinamieji reliaciniai seimeliai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -127,8 +109,8 @@ Tai buvo vadinamieji ordinariniai seimai, kurių darbas trukdavo šešetą savai
     dveji metai. Tai buvo vadinamieji ordinariniai seimai,
     kurių darbas trukdavo šešetą savaičių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -146,8 +128,8 @@ Tai buvo vadinamieji ordinariniai seimai, kurių darbas trukdavo šešetą savai
     tiek kitų seimų laikas, pačiam seimui sutinkant, galėjo būti ir
     pratęstas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

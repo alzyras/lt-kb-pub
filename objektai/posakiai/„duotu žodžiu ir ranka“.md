@@ -35,12 +35,6 @@ Ta da kunigaikštis Skirgaila davė žodi mano tėvui kuni gaikščio Jogailos v
 - t-001
   global_id: t-195032
   teiginys: "Ta da kunigaikštis Skirgaila davė žodi mano tėvui kuni gaikščio Jogailos vardu ir davė jam savo ranką, ir savo vardu taip pat davė žodį ir savo ranką."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "305399-305833; hash=5687d7212ec6ef746613804f5834ff135cb71b9fbe14fabd4e4cb322771fd42f; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177403
 ## Reikšmingi paminėjimai
@@ -58,8 +52,8 @@ Ta da kunigaikštis Skirgaila davė žodi mano tėvui kuni gaikščio Jogailos v
     gaila, pasitikėdami jų duotu žodžiu ir ranka. Ir po duo­
     to žodžio suėmė jie mūsų tėvą ir jį nužudė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -70,7 +64,8 @@ Ta da kunigaikštis Skirgaila davė žodi mano tėvui kuni gaikščio Jogailos v
 - id: c-177403
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 174"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 174."
   citata_originali: |
     Ta­
     da kunigaikštis Skirgaila davė žodi mano tėvui kuni­

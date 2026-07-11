@@ -33,16 +33,6 @@ Vadas (Mykolas Kiełbasa) atsakęs, kad dabar ne laikas esąs karalių gelbėti.
 - t-001
   global_id: t-34820
   teiginys: "Mykolas Kiełbasa, artimiausios vėliavos vadas, atsakė, kad tuo metu ne laikas gelbėti karalių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "235589-235856; hash=84178581d78b5e2ed6208ec772a8efdf0f7ab997c038e0f7c5ff0c0b4688664f; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vėliavos: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mykolas Kiełbasa: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Vėliavos: mention_match, thing, gap=31"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mykolas Kiełbasa\" parinktas kaip owner_note_path. Targetas \"Vėliavos\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-36045
 ## Reikšmingi paminėjimai
@@ -56,8 +46,8 @@ Vadas (Mykolas Kiełbasa) atsakęs, kad dabar ne laikas esąs karalių gelbėti.
     traukimas kryžiuočiams atrodytų bėgimas, o tai pakeltų jų dva­
     sią ir sąjungininkų kariuomenė su karalium atsidurtų pavojuj.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

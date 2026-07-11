@@ -39,12 +39,6 @@ Sejny, 2008; Lietuvos fotografija: vakar ir šiandien ’09: Lietuvos Tūkstantm
 - t-001
   global_id: t-193729
   teiginys: "Sejny, 2008; Lietuvos fotografija: vakar ir šiandien ’09: Lietuvos Tūkstantmečio veidas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "551675-551824; hash=a86cdde0142c183e1cf2a33ef939c766e37e77237cc54e61ffeb05b9c5da82ad; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176398
 ## Reikšmingi paminėjimai
@@ -56,8 +50,8 @@ Sejny, 2008; Lietuvos fotografija: vakar ir šiandien ’09: Lietuvos Tūkstantm
     Sejny, 2008; Lietuvos fotografija: vakar ir šiandien ’09: Lietuvos Tūkstantmečio
     veidas. Sud. A. Aleksandravičius. Vilnius, 2009; Lietuvos istorija.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

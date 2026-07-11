@@ -36,12 +36,6 @@ Tegu jis nekvaršina sau tokiais tuščiais rūpesčiais galvos, tegu paskirtą 
 - t-001
   global_id: t-193461
   teiginys: "Tegu jis nekvaršina sau tokiais tuščiais rūpesčiais galvos, tegu paskirtą dieną laukia pažadėtų Lietuvos karaliaus insignijų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "742219-742795; hash=64ffbec586136da6051a315336e6388a454359dff8f2facad5e0fb968e574ae6; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176166
 ## Reikšmingi paminėjimai
@@ -73,8 +67,8 @@ Tegu jis nekvaršina sau tokiais tuščiais rūpesčiais galvos, tegu paskirtą 
     insignijų. Jau kelionėje jo pasiuntiniai, vežantys kara­
     liaus vainiką ir dalyvausiantys vainikavime".
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

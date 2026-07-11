@@ -56,20 +56,6 @@ Nenurodyta
 - t-001
   global_id: t-35892
   teiginys: "1381 m. šešiolikmetis Butauto sūnus Vaidotas pabėgo iš senelio Kęstučio globos į Prūsus ir vyko pas ciesorių priimti krikšto."
-  semantiniai_rysiai: "Vaidotas (Butauto sūnus) buvo sūnus Butautas (0.97); Vaidotas (Butauto sūnus) keliavo į Prūsų žemė (0.90)"
-  temporaliniai_duomenys: "įvykio data: 1381 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra konkretus, gramatiškas ir paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "38737-39167; hash=52ea98fc3e6a18e543ec69777536c66fa6b2b33a73b19cca38222c5c9a6418c5; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sunus -> Butautas: 0.97"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vaidotas (Butauto sūnus): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Butautas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Teiginyje tiesiogiai pasakyta, kad Vaidotas buvo Butauto sūnus."
   pagrindžia:
     - c-38326
 ## Reikšmingi paminėjimai
@@ -85,8 +71,8 @@ Nenurodyta
     nuvyko pas ciesorių, norėdamas priimti krikštą^2 ). Kitus Kęstu­
     čio sūnus mes vėliau minėsime sąryšyje su politiniais įvykiais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

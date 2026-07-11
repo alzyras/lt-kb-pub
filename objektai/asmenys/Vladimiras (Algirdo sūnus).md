@@ -33,17 +33,6 @@ Pritariamas Jogailos, jis pirmiausia atėmė valdomą Sievero žemę iš Dimitro
 - t-001
   global_id: t-35316
   teiginys: "Vytautas suvaldė nepaklusnų Kijevo kunigaikštį Vladimirą, Algirdo sūnų."
-  semantiniai_rysiai: "Vladimiras (Algirdo sūnus) buvo sūnus Algirdas (Lietuvos valdovas) (0.95)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "696053-696564; hash=42ee22519dc5c28bdb626ee7d487e95b14e82814a100f5d181e4c76033e8f389; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sunus -> Algirdas (Lietuvos valdovas): 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vladimiras (Algirdo sūnus): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Vladimiras tiesiogiai įvardytas Algirdo sūnumi."
   pagrindžia:
     - c-38137
 ## Reikšmingi paminėjimai
@@ -62,8 +51,8 @@ Pritariamas Jogailos, jis pirmiausia atėmė valdomą Sievero žemę iš Dimitro
     naičiais Vytautas nepasitikėjo, jais nesirėmė ir kiek leido apy­
     stovos, jų valdžią silpnino.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

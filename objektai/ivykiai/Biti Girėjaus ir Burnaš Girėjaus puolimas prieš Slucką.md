@@ -42,20 +42,6 @@ Nenurodyta
 - t-001
   global_id: t-185695
   teiginys: "Mengli Girėjaus kariuomenė, vadovaujama jo sūnaus, nusiaubė Lietuvą ir padarė daug žalos."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Biti Girėjus puolė Sluckas (0.86); Burnaš Girėjus puolė Sluckas (0.86)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1033069-1033323; hash=dea588a1097097e76105625cbdb3895a9c5f0ce774f21ac791c9d2b765151824; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Sluckas: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Burnaš Girėjus: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Sluckas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Burnaš Girėjų kaip vieną iš Slucko puolėjų."
   pagrindžia:
     - c-169056
 
@@ -63,20 +49,6 @@ Nenurodyta
 - t-002
   global_id: t-185696
   teiginys: "Po Slucko kunigaikščio Simono Olelkaičio mirties Biti Girėjus ir Burnaš Girėjus rugpjūčio viduryje užpuolė Slucką."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Biti Girėjus puolė Sluckas (0.92); Burnaš Girėjus puolė Sluckas (0.92)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1033190-1033687; hash=325df9a2adaf87dd616435a14af79e09ca222395b2b487b65dbb4590e143e94f; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Sluckas: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Burnaš Girėjus: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Sluckas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad Burnaš Girėjus užpuolė Slucką."
   pagrindžia:
     - c-169057
 ## Reikšmingi paminėjimai
@@ -92,8 +64,8 @@ Nenurodyta
     jaunesnieji sūnūs Biti Girėjus ir Burnaš Girėjus rugp­
     jūčio viduryje užpuolė Slucką.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -117,8 +89,8 @@ Nenurodyta
     kaimiečiai bei bajorai taip ryžtingai stojo į kovą, kad
     skitai, smarkiai jų sumušti, turėjo pasitraukti.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -129,7 +101,8 @@ Nenurodyta
 - id: c-169056
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 582"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 582."
   citata_originali: |
     Išklausė
     dangus varguolio maldų. Mengli Girėjaus kariai, veda­

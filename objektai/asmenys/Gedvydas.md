@@ -43,19 +43,6 @@ Stiprindamas centrinę valdžią Mindaugas 1249 m. iš žemaičių kunigaikšči
 - t-001
   global_id: t-40121
   teiginys: "1249 m. Gedvydas neteko valdų, kai Mindaugas, stiprindamas centrinę valdžią, jas atėmė iš Vykinto, Tautvilo ir Gedvydo."
-  semantiniai_rysiai: "Gedvydas kariavo prieš Mindaugas (valdovas, XIII a.) (0.88); Tautvilas kariavo prieš Mindaugas (valdovas, XIII a.) (0.88)"
-  temporaliniai_duomenys: "įvykio data: 1249 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "84761-85059; hash=4954bf12b2317b799d60ebf06a882a46bb9abca41c45748a29b90d2628a4d3b0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Mindaugas (valdovas, XIII a.): 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gedvydas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Mindaugas (valdovas, XIII a.): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Gedvydas priklauso prieš Mindaugą karą pradėjusiai asmenų grupei."
   pagrindžia:
     - c-44334
 - susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113913|Mindaugas (valdovas, XIII a.)]]: Mindaugas 1219 m. kartu su kitais Lietuvos žemės kunigaikščiais sudarė taikos sutartį su Haliču-Voluine.
@@ -70,8 +57,8 @@ Stiprindamas centrinę valdžią Mindaugas 1249 m. iš žemaičių kunigaikšči
     Mindaugas 1249 m. iš žemaičių kunigaikščio Vykinto ir savo sūnėnų Tautvilo bei Gedvydo atėmė jų valdas. Šie,
     remiami Haličo-Voluinės ir Livonijos, pradėjo karą prieš Mindaugą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -95,6 +82,3 @@ Stiprindamas centrinę valdžią Mindaugas 1249 m. iš žemaičių kunigaikšči
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40121
-
-## Ryšiai
-- Gedvydas kariavo prieš [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]

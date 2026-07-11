@@ -35,17 +35,6 @@ Dusburgietis teigia, kad valdovas Henrikas, turėdamas galvoje, kad kiekvienas p
 - t-001
   global_id: t-89597
   teiginys: "Henrikas iš Lichtenšteino Sventopelkui pareiškė, kad šis turįs ieškoti ne teisingumo, bet pasigailėjimo."
-  semantiniai_rysiai: "Henrikas iš Lichtenšteino keliavo į Kulmas (0.86); Sventopelkas kariavo prieš Krikščionys (0.82)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "326136-327510; hash=7cf5b22df82392bcefe2d66349b2d4d1f6786356fee7e9872e812f98fa34c2e6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Kulmas: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Henrikas iš Lichtenšteino: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kulmas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Henrikas buvo išleistas į Kulmo miestą."
   pagrindžia:
     - c-85538
 
@@ -53,17 +42,6 @@ Dusburgietis teigia, kad valdovas Henrikas, turėdamas galvoje, kad kiekvienas p
 - t-002
   global_id: t-89598
   teiginys: "Sventopelkui prašant grąžinti įkaitu duotą sūnų, Henrikas iš Lichtenšteino atsakė: „ne teisingumo ieškoki, bet pasigailėjimo“."
-  semantiniai_rysiai: "Henrikas iš Lichtenšteino keliavo į Kulmas (0.86); Sventopelkas kariavo prieš Krikščionys (0.82)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "326136-327510; hash=7cf5b22df82392bcefe2d66349b2d4d1f6786356fee7e9872e812f98fa34c2e6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Kulmas: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Henrikas iš Lichtenšteino: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kulmas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Henriko vykimą į Kulmo miestą."
   pagrindžia:
     - c-85538
 ## Reikšmingi paminėjimai
@@ -91,8 +69,8 @@ Dusburgietis teigia, kad valdovas Henrikas, turėdamas galvoje, kad kiekvienas p
     valdovą Henriką į Kulmo miestą, kur šis atpasakojo magistrui bei broliams visa, ką buvo
     girdėjęs.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -104,7 +82,8 @@ Dusburgietis teigia, kad valdovas Henrikas, turėdamas galvoje, kad kiekvienas p
 - id: c-85538
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 99"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 99."
   citata_originali: |
     Apie įvairias Sventopelko derybas ir sutartis
 

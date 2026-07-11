@@ -34,16 +34,6 @@ Dusburgietis teigia, kad apie Karaliaučiaus brolių karą su sembais antrosios 
 - t-001
   global_id: t-89993
   teiginys: "Noliubas, Sklodo iš Kvedenavos sūnus, atsisakė paklusti Karaliaučiaus broliams ir nesekė savo tėvų pavyzdžiu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "388269-388913; hash=8eb2a1d9d8bcde23a8ddef675f1f995a1431def2c7fb4c12a9c92c4eec7c3f74; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kvedenava: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Noliubas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kvedenava: mention_match, place, gap=20"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Noliubas\" parinktas kaip owner_note_path. Targetas \"Kvedenava\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-85898
 
@@ -51,9 +41,6 @@ Dusburgietis teigia, kad apie Karaliaučiaus brolių karą su sembais antrosios 
 - t-003
   global_id: t-89994
   teiginys: "Noliubas pabėgo į Ziokos valsčių, o vėliau, dažnų antpuolių nukamuotas, priėmė tikėjimą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "389207-389680; hash=8bc5aeffc64b7196cc9ce18fa095a1c9f005cf8cc57ac2c8646faacd9260a8ed; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-85899
 
@@ -61,9 +48,6 @@ Dusburgietis teigia, kad apie Karaliaučiaus brolių karą su sembais antrosios 
 - t-002
   global_id: t-89995
   teiginys: "Dažnų antpuolių nukamuotas Noliubas ilgainiui priėmė tikėjimą ir, Dusburgiečio vertinimu, tapo pagirtinu žmogumi."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "389207-389680; hash=8bc5aeffc64b7196cc9ce18fa095a1c9f005cf8cc57ac2c8646faacd9260a8ed; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-85899
 - susijęs iš [[objektai/posakiai/Prakeiktasis Noliube, eik dabar ir būk valkata.md#claim-t-89601|Prakeiktasis Noliube, eik dabar ir būk valkata]]: Po ištarmės Noliubas pabėgo į Ziokos valsčių, o vėliau, dažnų antpuolių nukamuotas, priėmė tikėjimą.
@@ -89,8 +73,8 @@ Dusburgietis teigia, kad apie Karaliaučiaus brolių karą su sembais antrosios 
     šiojo jaunatviško neapdairumo, broliams pritarus, išėjo į priekį ir pasakė jam: „Prakeiktasis
     p. 54), kelio iš Kaliningrado į Laduškiną pradžioje.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -107,8 +91,8 @@ Dusburgietis teigia, kad apie Karaliaučiaus brolių karą su sembais antrosios 
     antpuolių nukamuotas, nulenkė prieš tikėjimą galvą, tapdamas pagirtinu žmogumi ir dėl
     savo įsitikinimų, ir dėl darbų.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -120,7 +104,8 @@ Dusburgietis teigia, kad apie Karaliaučiaus brolių karą su sembais antrosios 
 - id: c-85898
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 119"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 119."
   citata_originali: |
     101 (96). Apie Karaliaučiaus brolių karą su sembais antrosios atskalūnybės metais, o
                             pirmiausia — prieš Kvedenavos valsčių
@@ -142,7 +127,8 @@ Dusburgietis teigia, kad apie Karaliaučiaus brolių karą su sembais antrosios 
 - id: c-85899
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 120"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 120."
   citata_originali: |
     Noliube, eik dabar ir būk valkata, ištremtas iš savo žemės, nes nepaklausei nei mano,
     nei savo tėvų balso; jei ir dabar nepaklusi, tave nužudys broliai ir jų ginklanešiai, kurie

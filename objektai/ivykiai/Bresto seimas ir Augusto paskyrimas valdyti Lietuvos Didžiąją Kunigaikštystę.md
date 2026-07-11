@@ -42,19 +42,6 @@ Nenurodyta
 - t-001
   global_id: t-185698
   teiginys: "Bresto seimo pradžioje Jurgis Chodkevičius buvo paskirtas Lietuvos Didžiosios Kunigaikštystės archikamerarijumi."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1197218-1197520; hash=1c1b7ab6fdbffb6bbb6ccdac09bd34d67bffd70cc7dee6bfe48a6ab5bf30b5fb; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Chodkevičiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Bresto seimas ir Augusto paskyrimas valdyti Lietuvos Didžiąją Kunigaikštystę (seimas): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Chodkevičiai: mention_match, group, gap=30"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bresto seimas ir Augusto paskyrimas valdyti Lietuvos Didžiąją Kunigaikštystę (seimas)\" parinktas kaip owner_note_path. Targetas \"Chodkevičiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-169059
 ## Reikšmingi paminėjimai
@@ -73,8 +60,8 @@ Nenurodyta
     žmonės vadina Lietuvos Didžiosios Kunigaikštystės ar-
     chikamerarij ūmi.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -85,7 +72,8 @@ Nenurodyta
 - id: c-169059
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 672"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 672."
   citata_originali: |
     Čia ir sugužėjo gausybė
     visų luomų atstovų. Karalius

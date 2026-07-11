@@ -33,16 +33,6 @@ media_all_json: |-
 - t-001
   global_id: t-80648
   teiginys: "2-ojo pėstininkų pulko I batalionas prie Panevėžio rinktinės prisijungė jau išlaisvinus Panevėžį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "742904-743175; hash=1957ff8e8b88afeeafbffd2c9a009461c54face95097746da05c3172b74d7e1a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Antanas Šukys: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "ojo pėstininkų pulko I batalionas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Antanas Šukys: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"ojo pėstininkų pulko I batalionas\" parinktas kaip owner_note_path. Targetas \"Antanas Šukys\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-77347
 ## Reikšmingi paminėjimai
@@ -61,8 +51,8 @@ media_all_json: |-
     frontą. Šis batalionas prie Panevėžio rinktinės
     prisijungė jau išlaisvinus Panevėžio miestą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

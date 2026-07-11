@@ -42,20 +42,6 @@ Iš jų išėjo tokie lietuvių veikėjai, kaip Jonas Užupys, Petras Kriaučiū
 - t-003
   global_id: t-75995
   teiginys: "Petras Kriaučiūnas 1912 m. Vilniuje dalyvavo Lietuvių mokslo draugijos suvažiavime."
-  semantiniai_rysiai: "Petras Kriaučiūnas keliavo į Vilnius (0.74)"
-  temporaliniai_duomenys: "įvykio data: 1905 m.; įvykio data: 1912 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys yra nutrūkusi nuotraukos antraštė su pertekliniais vardais."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "245658-246519; hash=e39536154c2a85a159fa458271c12fdd88140fa99de2e71fa40af274ee73dd26; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Vilnius: 0.74"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Petras Kriaučiūnas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Petras Kriaučiūnas nurodytas tarp suvažiavimo dalyvių Vilniuje."
   pagrindžia:
     - c-73656
 
@@ -63,16 +49,6 @@ Iš jų išėjo tokie lietuvių veikėjai, kaip Jonas Užupys, Petras Kriaučiū
 - t-002
   global_id: t-75996
   teiginys: "Petras Kriaučiūnas buvo vienas iš lietuvių veikėjų, išėjusių iš tautiškoje dvasioje augusių mokinių."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "1023559-1023910; hash=649253abea0306b526fc60732e8b6b11b28a8db588423d7cdef81c9f05f492bf; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Petras Kriaučiūnas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=34"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Petras Kriaučiūnas\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-73655
 
@@ -80,17 +56,6 @@ Iš jų išėjo tokie lietuvių veikėjai, kaip Jonas Užupys, Petras Kriaučiū
 - t-003
   global_id: t-75997
   teiginys: "Petras Kriaučiūnas vienu metu mokė Marijampolės gimnazijoje kartu su V. Staniškiu ir J. Jasiulaičiu."
-  semantiniai_rysiai: "Petras Kriaučiūnas gyveno Marijampolė (0.57)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "979729-979965; hash=da700de48967375b7e45dbd6bc3e863ea9e1f47c443e4796bfdc1381871ca737; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Marijampolė: 0.57"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Petras Kriaučiūnas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Marijampolė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Mokymas Marijampolės gimnazijoje tiesiogiai sieja Petrą Kriaučiūną su Marijampole, nors tai nėra aiškus gyvenimo faktas."
   pagrindžia:
     - c-73654
 ## Reikšmingi paminėjimai
@@ -105,8 +70,8 @@ Iš jų išėjo tokie lietuvių veikėjai, kaip Jonas Užupys, Petras Kriaučiū
     gimnazijoje mokė net trys lietuviai mokytojai (Petras Kriau-
     čiūnas, V. Staniškis ir J. Jasiulaitis).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -123,8 +88,8 @@ Iš jų išėjo tokie lietuvių veikėjai, kaip Jonas Užupys, Petras Kriaučiū
     lietuvių veikėjai, kaip Jonas Užupys, Petras Kriaučiūnas ir visa
     eilė vėlesnių „Aušros", „Varpo" ir kitų laikraščių bendradarbią.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -150,8 +115,8 @@ Iš jų išėjo tokie lietuvių veikėjai, kaip Jonas Užupys, Petras Kriaučiū
     jau šiuo laikotarpiu lietuvių visuo-
     menės laikytas tautos patriarchu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -223,7 +188,3 @@ Iš jų išėjo tokie lietuvių veikėjai, kaip Jonas Užupys, Petras Kriaučiū
   patikimumo_saltinis: ai
   pagrindzia:
     - t-75995
-
-## Ryšiai
-- Petras Kriaučiūnas keliavo į [[objektai/vietos/Vilnius]]
-- Petras Kriaučiūnas gyveno [[objektai/vietos/Marijampolė]]

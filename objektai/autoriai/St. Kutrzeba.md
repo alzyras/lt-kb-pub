@@ -42,12 +42,6 @@ media_all_json: |-
 - t-001
   global_id: t-100137
   teiginys: "St. Kutrzeba 1914 m. paskelbė darbą „Unja Litwy z Polską“."
-  temporaliniai_duomenys: "įvykio data: 1914 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko pilną faktą apie autoriaus publikaciją."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "805405-805545; hash=636e9e84e4b97417e81aa9e1026ff79f4ab98be0798054c47dff464afb0bdd58; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-94033
 - susijęs iš [[objektai/autoriai/Wł. Semkowiczius.md#claim-t-29646|Wł. Semkowiczius]]: Wł. Semkowiczius su J. Fijałeku išleido Vilniaus vyskupijos šaltinių tomą, o su St. Kutrzeba - Lenkijos ir Lietuvos unijos aktus.
@@ -66,8 +60,8 @@ media_all_json: |-
     giellonów,_ I, 1930, 11-51 p. — Kutrzeba, St. : _Unja Litwy z Polską,_
     PiL, 1914, 452-658 p.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

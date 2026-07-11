@@ -38,12 +38,6 @@ Jaroslavas tikrai buvo Tverės didžiojo kunigaikščio Boriso Aleksandravičiau
 - t-001
   global_id: t-194135
   teiginys: "Jaroslavas tikrai buvo Tverės didžiojo kunigaikščio Boriso Aleksandravičiaus brolis."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "513394-513665; hash=8c5aba44fd892d02625d5246cd230843b16570ce8ffcd62dc8c617272073a452; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176748
 ## Reikšmingi paminėjimai
@@ -59,8 +53,8 @@ Jaroslavas tikrai buvo Tverės didžiojo kunigaikščio Boriso Aleksandravičiau
     Aleksandravičiaus brolis. Talkininkaudamas Svitrigai'ai, žuvo Pa­
     baisko (Ukmergės) m ūšyje 1435 m.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

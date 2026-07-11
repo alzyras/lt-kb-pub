@@ -51,9 +51,6 @@ Nenurodyta
 - t-002
   global_id: t-66485
   teiginys: "1858 m. baudžiavos panaikinimo rengimui visose Lietuvos gubernijose buvo sudaryti bajorų komitetai."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "942475-943051; hash=6264b6efcbb9d22c49b4fa7366e2dbb5c7c94134e299c89effe759f6494e7825; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-66699
 
@@ -61,9 +58,6 @@ Nenurodyta
 - t-001
   global_id: t-66487
   teiginys: "Baudžiavos panaikinimo reformai vykdyti apskrityse buvo sudarytos valstiečių komisijos, o apylinkėms vadovavo taikos tarpininkai."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "943694-944105; hash=3949714dd61bc14882c8b7c91ec4c90f7e8538d5ff365bc4b6982a722ce4df82; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-66702
 ## Reikšmingi paminėjimai
@@ -98,8 +92,8 @@ Nenurodyta
     pat darbą dirbo speciali
     komisija visai Rusijai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -119,8 +113,8 @@ Nenurodyta
     Baudžiavos panaikinimo vykdymas buvo pačių dvarininkų
     rankose, nes visi taikos tarpininkai buvo renkami iš jų tarpo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

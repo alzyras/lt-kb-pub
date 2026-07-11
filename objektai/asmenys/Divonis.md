@@ -30,14 +30,6 @@ Divonis Narbuto pasakojime buvo vienintelis Bitinijos keliautojas, išgyvenęs l
 - t-001
   global_id: t-191139
   teiginys: "Divonis Narbuto pasakojime buvo vienintelis Bitinijos keliautojas, išgyvenęs ligą, kuri vasarą pražudė kitus jo bendrakeleivius."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "305930-306427; hash=61ad10f2898ecf04d21a3633e64f5de29a9e6eaa79e7f1a2697b642fa558269f; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174021
 - susijęs iš [[objektai/asmenys/Augustas Oktavianas.md#claim-t-191182|Augustas Oktavianas]]: Narbutas Augusto valdymo epochai priskiria pasakojimą, kad Bitinijos keliautojas Divonis neva 17 m. pr. Kr. apsilankė vėliau Prūsija pavadintame krašte.
@@ -71,8 +63,8 @@ Divonis Narbuto pasakojime buvo vienintelis Bitinijos keliautojas, išgyvenęs l
     reikėjo žiemoti. Kai atėjo vasara, visi susirgo ir išmirė,
     išskyrus vieną, vardu Divonis1.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -105,6 +97,3 @@ Divonis Narbuto pasakojime buvo vienintelis Bitinijos keliautojas, išgyvenęs l
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191139
-
-## Ryšiai
-- Divonis keliavo į [[objektai/vietos/Prūsija]]

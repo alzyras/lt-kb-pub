@@ -33,11 +33,6 @@ Jų tarpe buvo ir tokių, kurie jau stojo ant grynai tautiško pagrindo, gynė t
 - t-001
   global_id: t-67433
   teiginys: "Kilus nepasitenkinimui „Lietuviškos Ceitungos“ tautiškumu, redaktorius pavertė ją informaciniu laikraščiu be ideologijos."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "1242291-1242674; hash=8d0edc6a4d6233d008d44ccf6bb6173653dd7ed041dbe379493a461b5001316e; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-67331
 ## Reikšmingi paminėjimai
@@ -54,8 +49,8 @@ Jų tarpe buvo ir tokių, kurie jau stojo ant grynai tautiško pagrindo, gynė t
     jokios ideologijos. Tokio pat likimo susilaukė ir kitų laikraš-
     čių panašūs bandymai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

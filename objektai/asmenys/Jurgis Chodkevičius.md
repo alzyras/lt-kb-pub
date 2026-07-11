@@ -42,19 +42,6 @@ media_all_json: |-
 - t-001
   global_id: t-87742
   teiginys: "Jurgis Chodkevičius 1575 m. Vilniuje padėjo ir globojo spaustuvininką Petrą Timofejevą Mstislavliškį."
-  temporaliniai_duomenys: "įvykio data: 1575 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko Jurgio Chodkevičiaus pagalbą spaustuvininkui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "597210-597919; hash=988f04621cdf2c908f5dc39ddba45290fa0545a22bd7b2ea48540218dfcd702b; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Chodkevičiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jurgis Chodkevičius: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Chodkevičiai: mention_match, group, gap=7"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jurgis Chodkevičius\" parinktas kaip owner_note_path. Targetas \"Chodkevičiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-83721
 
@@ -62,19 +49,6 @@ media_all_json: |-
 - t-002
   global_id: t-184746
   teiginys: "Bresto seimo pradžioje Jurgis Chodkevičius paskirtas Lietuvos Didžiosios Kunigaikštystės archikamerarijumi."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1197262-1197724; hash=b7be1533db193b3892b1b9984eb678ddce0481d69b26f8fbe72e1df9af328e61; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Chodkevičiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jurgis Chodkevičius: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Chodkevičiai: mention_match, group, gap=7"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jurgis Chodkevičius\" parinktas kaip owner_note_path. Targetas \"Chodkevičiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-168107
 - susijęs iš [[objektai/ivykiai/Bresto seimas ir Augusto paskyrimas valdyti Lietuvos Didžiąją Kunigaikštystę.md#claim-t-185698|Bresto seimas ir Augusto paskyrimas valdyti Lietuvos Didžiąją Kunigaikštystę (seimas)]]: Bresto seimo pradžioje Jurgis Chodkevičius buvo paskirtas Lietuvos Didžiosios Kunigaikštystės archikamerarijumi.
@@ -108,8 +82,8 @@ media_all_json: |-
     o prieš kiekvieną evangeliją yra me­
     džio raižinys.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -132,8 +106,8 @@ media_all_json: |-
     Didžiosios Kunigaikštystės valdymą, o luomai tam pri­
     tarė.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -178,7 +152,8 @@ media_all_json: |-
 - id: c-168107
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 672"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 672."
   citata_originali: |
     Karalius
     B resto  se im a s

@@ -34,17 +34,6 @@ Lietuvos teritorijoje taip pat veikė daug visuomeninių ir kultūrinių organiz
 - t-001
   global_id: t-77826
   teiginys: "Lenkų tautiniai demokratai buvo labiausiai Lietuvoje veiklą išplėtojusi lenkų politinė jėga."
-  semantiniai_rysiai: "Lenkų tautiniai demokratai gyveno Lietuva (0.56)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "243866-244368; hash=9a6a744c6704c20c312b06b41bad5ff0ca81411bdb16d6f8e3844424c529aae9; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Lietuva: 0.56"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lenkų tautiniai demokratai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas nurodo, kad ši politinė jėga veikė Lietuvos teritorijoje; leistinas artimiausias vietos ryšys yra gyveno."
   pagrindžia:
     - c-75148
 - susijęs iš [[objektai/zodynas/tautinė mažuma etninė kultūrinė mažuma.md#claim-t-169934|tautinė mažuma etninė kultūrinė mažuma]]: Lenkų tautiniai demokratai etniniams lietuviams įsivaizduojamoje Lenkijos valstybėje numatė etninės kultūrinės mažumos statusą.
@@ -64,8 +53,8 @@ Lietuvos teritorijoje taip pat veikė daug visuomeninių ir kultūrinių organiz
     kijoje Rusijos sudėtyje) buvo numatytas etninės kultūrinės mažumos
     statusas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -92,6 +81,3 @@ Lietuvos teritorijoje taip pat veikė daug visuomeninių ir kultūrinių organiz
   patikimumo_saltinis: ai
   pagrindzia:
     - t-77826
-
-## Ryšiai
-- Lenkų tautiniai demokratai gyveno [[objektai/vietos/Lietuva]]

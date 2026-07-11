@@ -60,17 +60,6 @@ Nenurodyta
 - t-002
   global_id: t-186786
   teiginys: "Redakcinė pastaba nurodo, kad Aleksandras ir dalis Ponų Tarybos narių Melnike 1501.X.23-30 patvirtino naują Lenkijos ir Lietuvos unijos aktą."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "638940-639559; hash=ad61c86684ead8cded84e8d1c7c837b05353558310568289ec94c8f877301bbb; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
-  ryšio_patikimumas: "susije_su -> Aleksandras: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aleksandro patvirtintas Melniko unijos aktas (unija, XVI a.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Aleksandras: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksandro patvirtintas Melniko unijos aktas (unija, XVI a.)\" parinktas kaip owner_note_path. Targetas \"Aleksandras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-169980
 
@@ -78,19 +67,6 @@ Nenurodyta
 - t-003
   global_id: t-186787
   teiginys: "Aleksandro patvirtintas Melniko unijos aktas nebuvo įgyvendintas, nes Lietuvos didikai vėliau atsisakė jį ratifikuoti."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "638940-639559; hash=ad61c86684ead8cded84e8d1c7c837b05353558310568289ec94c8f877301bbb; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
-  ryšio_patikimumas: "susije_su -> Aleksandras: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aleksandro patvirtintas Melniko unijos aktas (unija, XVI a.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Aleksandras: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksandro patvirtintas Melniko unijos aktas (unija, XVI a.)\" parinktas kaip owner_note_path. Targetas \"Aleksandras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-169980
 
@@ -98,19 +74,6 @@ Nenurodyta
 - t-001
   global_id: t-186788
   teiginys: "Redakcinė pastaba nurodo, kad Lenkijos delegacija atvyko pas Aleksandrą į Melniką ir pateikė jam naują Lenkijos ir Lietuvos unijos aktą kaip išrinkimo karaliumi sąlygą."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "638940-639559; hash=ad61c86684ead8cded84e8d1c7c837b05353558310568289ec94c8f877301bbb; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
-  ryšio_patikimumas: "susije_su -> Aleksandras: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aleksandro patvirtintas Melniko unijos aktas (unija, XVI a.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Aleksandras: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksandro patvirtintas Melniko unijos aktas (unija, XVI a.)\" parinktas kaip owner_note_path. Targetas \"Aleksandras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-17T07:18:43Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-169980
 ## Reikšmingi paminėjimai
@@ -132,8 +95,8 @@ Nenurodyta
     30, bet nejgyvendino, nes j| vėliau atsisakė ratilikuoti Lietuvos di­
     dikai, Ir pats Aleksandras buvo priešingas dinastiniais sumetimais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

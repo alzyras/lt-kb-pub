@@ -57,19 +57,6 @@ Nenurodyta
 - t-002
   global_id: t-28789
   teiginys: "1717 m. Nebyliajam seimui generolas Grigorijus Dolgorukis padiktavo caro norimas bajorijos ir Augusto II susitaikymo sąlygas."
-  temporaliniai_duomenys: "įvykio data: 1717 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko faktą, tačiau pradiniame teiginyje yra santrumpų ir OCR triukšmo."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "110022-110534; hash=5b3d7550167d5c348056cfca6812fddaca56b38366314ee6ea47805b2dcd1f26; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Abiejų Tautų Respublika: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Nebylus seimas (1717 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Abiejų Tautų Respublika: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Nebylus seimas (1717 m.)\" parinktas kaip owner_note_path. Targetas \"Abiejų Tautų Respublika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-28694
 
@@ -77,19 +64,6 @@ Nenurodyta
 - t-001
   global_id: t-28790
   teiginys: "Nuo Nebyliojo seimo 1717 m. Petro I politika ilgainiui privedė prie Kotrynos II įvykdytų Respublikos padalijimų."
-  temporaliniai_duomenys: "įvykio data: 1717 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys taisytinas dėl OCR ir stiliaus, bet citata palaiko ryšį su vėlesniais padalijimais."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "85363-85701; hash=ac6384c4e7510ba7804c10e6ce999d025a73a24a98551d6c53bac4bbb8324499; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Abiejų Tautų Respublika: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Nebylus seimas (1717 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Abiejų Tautų Respublika: mention_match, group, gap=85"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Nebylus seimas (1717 m.)\" parinktas kaip owner_note_path. Targetas \"Abiejų Tautų Respublika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-28693
 ## Reikšmingi paminėjimai
@@ -104,8 +78,8 @@ Nenurodyta
     kurios trečdalį ji turėjo užleisti Prūsijai ir Austrijai. Tai sudarė
     visai naują epochą Lietuvos istorijoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -124,8 +98,8 @@ Nenurodyta
     Lietuvos istorijoje. Respublika nuo tada jau nebepajėgė toliau
     pasitraukti iš rusiškosios jėgos magneto lauko.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -35,17 +35,6 @@ Jos buvo pravestos nuo Mozūrijos sienos upe aukštyn į Grajevo ir Ragordo eže
 - t-001
   global_id: t-36351
   teiginys: "Vytauto nustatytos Žemaitijos ir Sūduvijos ribos ėjo pro Vištyčio ežerą į Leipūnos upę."
-  semantiniai_rysiai: "Palanga priklausė Lietuva (0.90); Klaipėda priklausė Kryžiuočių ordinas (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "344941-345565; hash=caf0f195e4a78307ecb020da7c6f1228b0ebc9e46d3368484f9a664f7768c64f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Kryžiuočių ordinas: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Klaipėda: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Klaipėda buvo palikta Ordinui."
   pagrindžia:
     - c-38538
 ## Reikšmingi paminėjimai
@@ -66,8 +55,8 @@ Jos buvo pravestos nuo Mozūrijos sienos upe aukštyn į Grajevo ir Ragordo eže
     skyrė Vokiečių ir Livonijos Ordinų žemes, kas apsaugojo Lie­
     tuvą nuo didesnės vokiečių įtakos1 2).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

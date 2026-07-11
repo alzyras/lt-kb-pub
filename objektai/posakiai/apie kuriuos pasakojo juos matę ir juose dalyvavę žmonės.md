@@ -32,16 +32,6 @@ Dusburgietis, kaip jis pats pažymi įvade, pasisėmė medžiagos ne tik iš ra�
 - t-001
   global_id: t-59073
   teiginys: "Dusburgietis įvade nurodė aprašęs ir įvykius, apie kuriuos jam pasakojo juos matę ir juose dalyvavę žmonės."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "73557-74210; hash=2aa5cf61be87250c55063bac06e087754d67bdf4330dab49ae83db838bb3c4c9; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Elbingas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "apie kuriuos pasakojo juos matę ir juose dalyvavę žmonės: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Elbingas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"apie kuriuos pasakojo juos matę ir juose dalyvavę žmonės\" parinktas kaip owner_note_path. Targetas \"Elbingas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-59705
 
@@ -49,12 +39,6 @@ Dusburgietis, kaip jis pats pažymi įvade, pasisėmė medžiagos ne tik iš ra�
 - t-002
   global_id: t-184023
   teiginys: "Dusburgietis įvade nurodė aprašęs ir įvykius, apie kuriuos jam pasakojo juos matę ir juose dalyvavę žmonės."
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "73486-73966; hash=cc997cd8fdd825a89a76a063975c7aa002db0b8da76bb5bde080aef0b807c3c7; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-167408
 ## Reikšmingi paminėjimai
@@ -72,8 +56,8 @@ Dusburgietis, kaip jis pats pažymi įvade, pasisėmė medžiagos ne tik iš ra�
     apie Elbingo pilį to pat vardo upės žiotyse ir jos sunaikinimą (III, 7, 16), apie pirmąsias
     kryžiuočių  pilis Varmės žemėje, Rudino miesto užkariavimus  ir kt.  (III, 27, 155).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -92,8 +76,8 @@ Dusburgietis, kaip jis pats pažymi įvade, pasisėmė medžiagos ne tik iš ra�
       Kai kuriose vietose Dusburgietis kartais prasitaria rašąs taip, kaip kiti jam kalbėję:
     „pasak kai kurių“.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -104,7 +88,8 @@ Dusburgietis, kaip jis pats pažymi įvade, pasisėmė medžiagos ne tik iš ra�
 - id: c-59705
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 25"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 25."
   citata_originali: |
     Dusburgietis, kaip  jis pats pažymi įvade, pasisėmė medžiagos ne tik iš rašytinių
     šaltinių, bet aprašė ir tuos įvykius, kuriuos pats buvo matęs, „apie kuriuos pasakojo juos
@@ -125,7 +110,8 @@ Dusburgietis, kaip jis pats pažymi įvade, pasisėmė medžiagos ne tik iš ra�
 - id: c-167408
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 25"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 25."
   citata_originali: |
     Visa tai rodo
     nemažą Dusburgiečio žinių originalumą, savarankiškumą.

@@ -44,20 +44,6 @@ Dusburgietis teigia, kad apie apaštališkojo sosto legatus ir taiką, padarytą
 - t-001
   global_id: t-60250
   teiginys: "Bernardas, Šv. Teofrido vienuolyno abatas, 1324 m. buvo popiežiaus Jono XXII pasiųstas į Livoniją kaip legatas."
-  semantiniai_rysiai: "Bernardas (Šv. Teofrido vienuolyno abatas) keliavo į Livonija (0.90); Bernardas (Šv. Teofrido vienuolyno abatas) keliavo į Ryga (0.86)"
-  temporaliniai_duomenys: "įvykio data: 1324 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys nemini Bernardo ir turi antraštės bei OCR triukšmo."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "679557-680817; hash=31147ad856378d84d2e1aa7af46149bab7d1822555dcaed50cc31d48756e3044; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Livonija: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Bernardas (Šv. Teofrido vienuolyno abatas): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Livonija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Popiežius pasiuntė Bernardą kaip vieną iš legatų į Livoniją."
   pagrindžia:
     - c-60882
 
@@ -65,19 +51,6 @@ Dusburgietis teigia, kad apie apaštališkojo sosto legatus ir taiką, padarytą
 - t-002
   global_id: t-184674
   teiginys: "Šv. Teofrido vienuolyno abatas Bernardas kartu su Alėto vyskupu Baltramiejumi tapo pasiuntiniu taikos ir krikšto reikalu."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "363424-363792; hash=cffbebc8a5fa6b4d29cb6972c478995e0eee6741090d0b962da6a46ac69a48ff; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Bernardas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Bernardas (Šv. Teofrido vienuolyno abatas): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Bernardas: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bernardas (Šv. Teofrido vienuolyno abatas)\" parinktas kaip owner_note_path. Targetas \"Bernardas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-168035
 ## Reikšmingi paminėjimai
@@ -103,8 +76,8 @@ Dusburgietis teigia, kad apie apaštališkojo sosto legatus ir taiką, padarytą
     tik apaštališkasis sostas, prie kurio  jie patys per  tris mėnesius turėsią prisistatyti,
     kad atvykę deramai pataisytų tai, kas atsitiko.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -123,8 +96,8 @@ Dusburgietis teigia, kad apie apaštališkojo sosto legatus ir taiką, padarytą
     niais tapo Alėto vyskupas Baltramiejus ir šv. Teofrido
     vienuolyno abatas Bernardas.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -135,7 +108,8 @@ Dusburgietis teigia, kad apie apaštališkojo sosto legatus ir taiką, padarytą
 - id: c-60882
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 221"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 221."
   citata_originali: |
     356 (349). Apie apaštališkojo sosto legatus ir taiką, padarytą tarp netikėlių bei krikš­
                                        čionių 1324 metais
@@ -164,7 +138,8 @@ Dusburgietis teigia, kad apie apaštališkojo sosto legatus ir taiką, padarytą
 - id: c-168035
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 209"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 209."
   citata_originali: |
     Tuo rei­
     kalu jis pasitelkė popiežiaus Jono XXII autoritetą, no­
@@ -182,4 +157,4 @@ Dusburgietis teigia, kad apie apaštališkojo sosto legatus ir taiką, padarytą
     - t-184674
 
 ## Ryšiai
-- Bernardas (Šv. Teofrido vienuolyno abatas) keliavo į [[objektai/vietos/Livonija]], [[objektai/vietos/Ryga]]
+- Bernardas (Šv. Teofrido vienuolyno abatas) keliavo į [[objektai/vietos/Livonija]]

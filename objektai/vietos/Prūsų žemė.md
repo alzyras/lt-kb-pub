@@ -44,18 +44,6 @@ Kaip tik tuo metu atsirado kitas svarbus ginkluotų misijų kraštas, būtent, P
 - t-001
   global_id: t-32483
   teiginys: "Prūsų žemė tapo svarbiu ginkluotų misijų kraštu ir rimtu Livonijos riterių bei kryžininkų prieaugliui varžovu."
-  temporaliniai_duomenys: "įvykio data: 1225 m.; įvykio data: 1231-1234; įvykio data: 1234 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "464561-465189; hash=d4030ff35fb42c525aaf2af472cffb95bb078c0d813aeda879de44f1231e5512; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Livonija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Prūsų žemė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Livonija: mention_match, place, gap=57"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsų žemė\" parinktas kaip owner_note_path. Targetas \"Livonija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-34010
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179323|Lietuviai]]: Pagal Dusburgą, 1262–1263 m. lietuviai surengė du žygius į Prūsus, talkindami prūsams.
@@ -669,8 +657,8 @@ Kaip tik tuo metu atsirado kitas svarbus ginkluotų misijų kraštas, būtent, P
     vyskupo» titulą ir Romos palaikomas, veikė cistersų vienuolis Kris­
     tijonas^73.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -703,10 +691,6 @@ Kaip tik tuo metu atsirado kitas svarbus ginkluotų misijų kraštas, būtent, P
     - t-32483
 
 ## Ryšiai
-- Buvo valdoma: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Buvo kelionės vieta: [[objektai/asmenys/Henrikas (Mozūrų kunigaikštis)]], [[objektai/asmenys/Skomantas]], [[objektai/asmenys/Vaidotas (Butauto sūnus)]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Puolė Prūsų žemę: [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Lietuviai]]
-- Buvo žygio kryptis: [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Lietuviai]]
-- Buvo užkariauta: [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Vokiečių ordinas]]
-- Gyvenamoji vieta: [[objektai/grupes/Pagudėnai]]
+- Buvo kelionės vieta: [[objektai/asmenys/Vaidotas (Butauto sūnus)]]
+- Buvo žygio kryptis: [[objektai/grupes/Lietuviai]]
 - Turėjo priklausinį: [[objektai/vietos/Pagudė]]

@@ -40,12 +40,6 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
 - t-003
   global_id: t-195192
   teiginys: "Hozijus buvo įpareigotas prie dominikonų Šv. Dvasios bažnyčios pastatyti ir išlaikyti viešą špitolę."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Vardas Ulrikas citatoje nepateiktas, todėl pašalintas nepagrįstas patikslinimas."
-  susije_objektai: "mentioned_place: Vilnius"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "536308-536812; hash=a846b9e41487b231ae456dcd1bc671a70a1523f7e75b36b4a58152e241f89bcc; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177560
 
@@ -53,12 +47,6 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
 - t-002
   global_id: t-195193
   teiginys: "Šventosios Trejybės prieglaudai plėsti ketinta supirkti Šv. Dvasios bažnyčios namelius ir du namelius priešais bažnyčią."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Fragmentas perrašytas į pilną sakinį, remiantis citata."
-  susije_objektai: "mentioned_object: [[objektai/daiktai/Namas|Namas]]"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "659819-660319; hash=49f412d256d5a183249287cd46f505381fb04e2ddb020ce867ed29eaa26cd83c; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177559
     - c-177561
@@ -67,12 +55,6 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
 - t-001
   global_id: t-195194
   teiginys: "Šv. Dvasios bažnyčios kapinių vartai buvo priešais įėjimą į prieglaudos namus."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Pirminis teiginys daugiausia apie prieglaudos sklypą, todėl suformuluotas faktas apie bažnyčios aplinką."
-  susije_objektai: "mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_place: Vilnius"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "746264-746820; hash=9f4c75802d887f726831390215c31ad1480dc130369d83f73fa5f547a1e67964; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177558
 
@@ -80,15 +62,6 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
 - t-006
   global_id: t-195195
   teiginys: "1501 m. Aleksandras pakvietė dominikonus į Vilnių, atidavė jiems Šv. Dvasios kleboniją ir skyrė lėšų bažnyčiai bei vienuolynui statyti."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Fragmentas perrašytas į aiškų sakinį be nutrūkusių dalių."
-  susije_objektai: "mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Korčiakas|Korčiakas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius; llm_object: Vilnius"
-  temporaliniai_duomenys: "įvykio data: 1501 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Fragmentas perrašytas į aiškų sakinį be nutrūkusių dalių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "746264-746820; hash=9f4c75802d887f726831390215c31ad1480dc130369d83f73fa5f547a1e67964; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177558
     - c-177557
@@ -97,12 +70,6 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
 - t-004
   global_id: t-195196
   teiginys: "Šv. Dvasios dominikonų bažnyčioje buvo galima matyti karaliaus Aleksandro ir kunigo Korčiako portretus ant priešais stovinčių kolonų."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Citata pagrindžia portretų buvimą ir vietą bažnyčioje."
-  susije_objektai: "mentioned_person: [[objektai/asmenys/Korčiakas|Korčiakas]]"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "746264-746820; hash=9f4c75802d887f726831390215c31ad1480dc130369d83f73fa5f547a1e67964; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177558
 
@@ -110,12 +77,6 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
 - t-005
   global_id: t-195197
   teiginys: "Hozijus buvo įpareigotas prie dominikonų Šv. Dvasios bažnyčios pastatyti ir nuolat išlaikyti viešą špitolę."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Pradinis teiginys nutrūkęs, citata leidžia suformuluoti pilną faktinį sakinį."
-  susije_objektai: "mentioned_place: Vilnius"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "536308-536812; hash=a846b9e41487b231ae456dcd1bc671a70a1523f7e75b36b4a58152e241f89bcc; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177560
 ## Reikšmingi paminėjimai
@@ -134,8 +95,8 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
     Vilniaus vyskupo valdinių, namo galo, per šimtą arba 34 uo­
     lektis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -154,8 +115,8 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
     šą špitolę (prieglaudą) ir visada ją išlaikyti, priežiūrai vado­
     vaujant Vilniaus vyskupui18.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -174,8 +135,8 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
     miausia, kaip ir kiti, būtų leidžiami į prieglaudą, o ši prie­
     glauda būtų plečiama.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -192,8 +153,8 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
     vo kapeliono kunigo Korčiako mirties, jiems atidavė Šv. Dva­
     sios kleboniją, skyrė lėšų bažnyčiai ir vienuolynui statyti50.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -216,8 +177,8 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
     tokio pat didumo kunigo Korčiako
     paveikslą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

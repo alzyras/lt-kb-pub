@@ -41,12 +41,6 @@ media_all_json: |-
 - t-001
   global_id: t-02165
   teiginys: "Laikraštis 1892–1894 m. ėjo „Garso“ vardu, o 1894–1899 m. jį leido dešimties kunigų bendrovė."
-  temporaliniai_duomenys: "įvykio data: 1892-1894; įvykio data: 1894 m.; įvykio data: 1894-1899; įvykio data: 1899 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Perrašyta sklandžiau, pašalinant santrumpas ir išlaikant citatos faktus."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "1288185-1288670; hash=a44ff7bc5473b1675dfbcd2967e9e66844c05027b64e992f049896ec918a1d2c; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-02403
 ## Reikšmingi paminėjimai
@@ -64,8 +58,8 @@ media_all_json: |-
     ninių, tridieninių ir savaitinių; kiti — dvisavaitiniai ir mėne-
     siniai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

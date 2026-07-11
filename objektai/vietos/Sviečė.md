@@ -35,17 +35,6 @@ Tuo metu ir įvyko lietuvių puolimas iš Žemaičių, o lenkų — netoli Svie�
 - t-002
   global_id: t-36593
   teiginys: "Iš Sviečės atvykę kryžiuočiai sustiprino Drevencos krantus ir apstatė juos patrankomis."
-  semantiniai_rysiai: "Kryžiuočių ordinas gynė Drevenca (0.85)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "220415-220685; hash=fc83e98261fa1cff1fa7e68e519b7a41cc8ca995cbf792f53edbd4b356da65ea; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyne -> Drevenca: 0.85"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Drevenca: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Kryžiuočiai tiesiogiai siejami su Drevencos perėjimo saugojimu."
   pagrindžia:
     - c-38650
 
@@ -53,16 +42,6 @@ Tuo metu ir įvyko lietuvių puolimas iš Žemaičių, o lenkų — netoli Svie�
 - t-001
   global_id: t-36594
   teiginys: "Lenkų puolimas įvyko netoli Sviečės, kai lietuviai puolė iš Žemaičių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "218398-218714; hash=d0b1147d82ab659b436e5ee9b8381adc34991a449d2bf346b07aab1f9a732477; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Sviečė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=13"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sviečė\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-38649
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179330|Lietuviai]]: Tuo metu lietuviai puolė iš Žemaitijos, o lenkai – netoli Sviečės.
@@ -80,8 +59,8 @@ Tuo metu ir įvyko lietuvių puolimas iš Žemaičių, o lenkų — netoli Svie�
     klausti Jogailos, kur ir kada būtų galima pradėti taikos dery­
     bas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -96,8 +75,8 @@ Tuo metu ir įvyko lietuvių puolimas iš Žemaičių, o lenkų — netoli Svie�
     Drevencą sąjungininkai nerizikavo, nes buvo pavojinga pradėti
     mūšį nepatogiose pozicijose.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -144,6 +123,3 @@ Tuo metu ir įvyko lietuvių puolimas iš Žemaičių, o lenkų — netoli Svie�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-36593
-
-## Ryšiai
-- Puolė Sviečę: [[objektai/grupes/Lenkai]]

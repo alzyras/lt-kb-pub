@@ -30,21 +30,6 @@ Hugas Grocijus, tyręs budinų kolonijas Prūsijoje, citavo Geropijų Bekaną.
 - t-001
   global_id: t-191572
   teiginys: "Hugas Grocijus, tyręs budinų kolonijas Prūsijoje, citavo Geropijų Bekaną."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "476744-477256; hash=78b0bb357c3b8f27a2434d24167f2d5beaeed9633661d6ee0a4bcbde7032ff2e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Budinai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Hugo Grocijus: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Budinai: mention_match, group, gap=16"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Hugo Grocijus\" parinktas kaip owner_note_path. Targetas \"Budinai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174454
 ## Reikšmingi paminėjimai
@@ -64,8 +49,8 @@ Hugas Grocijus, tyręs budinų kolonijas Prūsijoje, citavo Geropijų Bekaną.
     plėšikais gana daug laukinių, nepasitikinčių, tarpusavyje
     besivaidijančių gyventojų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -76,7 +61,8 @@ Hugas Grocijus, tyręs budinų kolonijas Prūsijoje, citavo Geropijų Bekaną.
 - id: c-174454
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 268"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 268."
   citata_originali: |
     Lietuvių protėviams atėjus į šiuos
     kraštus, Sambijoje įsikūrė daugiausia senovės budinus

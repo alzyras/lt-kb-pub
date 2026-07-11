@@ -30,14 +30,6 @@ Taip atsirado Čekiškės (Czekiszki) pa vadinimas; dabar taip vadinamas miestel
 - t-001
   global_id: t-194777
   teiginys: "Taip atsirado Čekiškės (Czekiszki) pa vadinimas; dabar taip vadinamas miestelis."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "374768-375331; hash=a094f15a51315498eff184b2562c6df832a6d94fa349f0ba8cc1f711f68057c8; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-177173
 ## Reikšmingi paminėjimai
@@ -60,8 +52,8 @@ Taip atsirado Čekiškės (Czekiszki) pa vadinimas; dabar taip vadinamas miestel
     ka, čia kiškim vėliavas. Taip atsirado Čekiškės (Czekiszki) pa­
     vadinimas; dabar taip vadinamas miestelis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

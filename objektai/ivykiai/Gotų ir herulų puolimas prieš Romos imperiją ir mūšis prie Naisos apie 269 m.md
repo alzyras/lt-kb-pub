@@ -48,25 +48,6 @@ Nenurodyta
 - t-002
   global_id: t-191042
   teiginys: "Apie 269 m. Aurelianas Klaudijus prie Naisos Dardanijoje sumušė gotus, tarp kurių, Narbuto pasakojimu, buvo ir herulų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Gotai dalyvavo mūšyje Gotų ir herulų puolimas prieš Romos imperiją ir mūšis prie Naisos apie 269 m (0.86); Aurelianas Klaudijus dalyvavo mūšyje Gotų ir herulų puolimas prieš Romos imperiją ir mūšis prie Naisos apie 269 m (0.82)"
-  temporaliniai_duomenys: "mūšio data: 269 m; mūšio data: apie 269 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Aurelianas Klaudijus dalyvavo mūšyje Gotų ir herulų puolimas prieš Romos imperiją ir mūšis prie Naisos apie 269 m“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Gotai dalyvavo mūšyje Gotų ir herulų puolimas prieš Romos imperiją ir mūšis prie Naisos apie 269 m“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai įvardija mūšį, veikėją, vietą ir rezultatą. Herulų dalyvavimas paliktas kaip Narbuto pasakojimo dalis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "540302-540594; hash=df9e0136c477ae3f8488b875bd0996e6b565f71deac01bdb6fca8a7596470a7e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "dalyvavo_musyje -> Gotų ir herulų puolimas prieš Romos imperiją ir mūšis prie Naisos apie 269 m: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gotai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Gotų ir herulų puolimas prieš Romos imperiją ir mūšis prie Naisos apie 269 m: llm_allowed_candidate, event"
-  ryšio_paaiskinimas: "Gotai tiesiogiai nurodyti kaip mūšio dalyviai, patyrę nuostolių."
-  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173924
 
@@ -74,14 +55,6 @@ Nenurodyta
 - t-003
   global_id: t-194869
   teiginys: "Taip ta pęs imperijos piliečiu, Malabatas gavo teisę užimti joje aukščiausias pareigas, nes netrukus imperatorius suteikė jam Romos konsulo titulą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "539998-540465; hash=7ce7ccd30ca5034b0841f8eee976603254e5c7329d87fd6b51fcf5f3300d8862; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-177265
 ## Reikšmingi paminėjimai
@@ -97,8 +70,8 @@ Nenurodyta
     nuostolių, o imperatorius prie savo titulų pridėjo Götti­
     ens. Tarp kitų tautų su gotais** buvo ir herulai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -120,8 +93,8 @@ Nenurodyta
     danijoje lemtingame mūšyje įveikė ir išvijo šiuos gro­
     bikų būrius, visiškai juos sumušęs.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -132,7 +105,8 @@ Nenurodyta
 - id: c-173924
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 301"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 301."
   citata_originali: |
     Imperatorius Au-
     relianas Klaudijus stojo į kovą, galop prie Naisos Dar-
@@ -150,7 +124,8 @@ Nenurodyta
 - id: c-177265
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 301"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 301."
   citata_originali: |
     Taip ta­
     pęs imperijos piliečiu, Malabatas gavo teisę užimti joje
@@ -169,6 +144,3 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194869
-
-## Ryšiai
-- Turėjo dalyvį: [[objektai/asmenys/Aurelianas Klaudijus]], [[objektai/grupes/Gotai]]

@@ -33,17 +33,6 @@ Be Naugardo, Pskovo, Tverės bei kitų sričių išrengtų raitelių ir Maskvos 
 - t-001
   global_id: t-40323
   teiginys: "Kunigaikštis Madykas buvo murzos Sivinduko tėvas."
-  semantiniai_rysiai: "Sivindukas buvo sūnus Madykas (0.95)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "326246-326609; hash=8e9fc40fd0a8864fecddbe5988f7069b8b0937992f52b891fcdd4a94d81f98a5; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sunus -> Madykas: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Sivindukas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Madykas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citatoje Sivindukas tiesiogiai vadinamas Madyko sūnumi."
   pagrindžia:
     - c-44448
 - susijęs iš [[objektai/asmenys/Sivindukas.md#claim-t-40423|Sivindukas]]: Murza Sivindukas, kunigaikščio Madyko sūnus, vadovavo mūšyje dalyvavusiems totoriams.
@@ -67,8 +56,8 @@ Be Naugardo, Pskovo, Tverės bei kitų sričių išrengtų raitelių ir Maskvos 
     pėstininkų pajėgų, kurios pasiliko prie
     Dorogobužo ir Smolensko.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

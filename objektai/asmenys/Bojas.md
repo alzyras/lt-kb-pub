@@ -30,22 +30,6 @@ Narbutas pasakoja, kad Bojas, Otino sūnus ir Rindos vyras, buvo sužeistas kaut
 - t-001
   global_id: t-191256
   teiginys: "Narbutas pasakoja, kad Bojas, Otino sūnus ir Rindos vyras, buvo sužeistas kautynėse su Goteriu ir trečią dieną mirė nuo žaizdų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Bojas buvo vyras Rinda (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "423920-424295; hash=a901770c43fa95f70ff1c4c15d52c23805076b6968ed4d89be2b2e4a8b2d8897; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_vyras -> Rinda: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Bojas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Rinda: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Bojas tiesiogiai apibūdintas kaip Rindos vyras."
-  vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174138
 - susijęs iš [[objektai/ivykiai/Gotbrodo žygiai Rusioje ir Goterio žūtis.md#claim-t-192035|Gotbrodo žygiai Rusioje ir Goterio žūtis]]: Narbuto pasakojime Gotbrodo įpėdinis Goteris žuvo kovodamas su Bojumi, o Rusios riteriai virš Bojo kapo supylė didžiulį pilkapį.
@@ -73,8 +57,8 @@ Narbutas pasakoja, kad Bojas, Otino sūnus ir Rindos vyras, buvo sužeistas kaut
     nėse, mirė trečią dieną nuo žaizdų, o Rusios riteriai pa­
     laidojo jį itin pagarbiai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -85,7 +69,8 @@ Narbutas pasakoja, kad Bojas, Otino sūnus ir Rindos vyras, buvo sužeistas kaut
 - id: c-174138
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 240"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 240."
   citata_originali: |
     Maždaug to
     paties amžiaus pabaigoje švedų karalius Got'brodas irgi

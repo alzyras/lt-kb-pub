@@ -30,22 +30,6 @@ Narbuto aprašytai Havolijos genčių sąjungai priklausė vėlinai, brėžanai,
 - t-001
   global_id: t-192994
   teiginys: "Narbuto aprašytai Havolijos genčių sąjungai priklausė vėlinai, brėžanai, stodorėnai ir herulai."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Brėžanai buvo sąjungininkas su Stodorėnai (0.72)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "586004-586422; hash=95c77f4413763e5656132c78a40d3e8dd1b8ef45ffea871497bd58f7f8695b10; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sajungininkas_su -> Stodorėnai: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Brėžanai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Stodorėnai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Brėžanai ir stodorėnai nurodyti kaip priklausę tai pačiai sąjungai."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175764
 ## Reikšmingi paminėjimai
@@ -64,8 +48,8 @@ Narbuto aprašytai Havolijos genčių sąjungai priklausė vėlinai, brėžanai,
     Šiai sąjungai priklausė vėlinai, brėžanai, stodorėnai, he­
     rulai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -76,7 +60,8 @@ Narbuto aprašytai Havolijos genčių sąjungai priklausė vėlinai, brėžanai,
 - id: c-175764
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 327"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 327."
   citata_originali: |
     Helmoldas ir
     Adomas Bremenietis teigia, jog herulai pirmiausia ap­
@@ -93,6 +78,3 @@ Narbuto aprašytai Havolijos genčių sąjungai priklausė vėlinai, brėžanai,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192994
-
-## Ryšiai
-- Sąjungininkai: [[objektai/grupes/Stodorėnai]]

@@ -36,16 +36,6 @@ media_all_json: |-
 - t-004
   global_id: t-96094
   teiginys: "Ivinskio vertinimu, Didžioji Lietuvos kunigaikštystė Jogailos laikais ilgiau nebegalėjo būti valdoma pagonio."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "748047-748477; hash=6899cf5bfa6ecc8cb42eb2a28dd42d26856d6069fa6eb595cbcb0449943b3a23; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Didžioji Lietuvos kunigaikštystė: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=9"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Didžioji Lietuvos kunigaikštystė\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-90814
 
@@ -53,16 +43,6 @@ media_all_json: |-
 - t-001
   global_id: t-96095
   teiginys: "Ivinskio vertinimu, Didžioji Lietuvos kunigaikštystė Jogailos laikais ilgiau nebegalėjo būti valdoma pagonio."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "747950-748353; hash=7e37b3772bed6a4f3d200480cf3700798d68164033fd790423fbb72eecd9e822; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Didžioji Lietuvos kunigaikštystė: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=33"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Didžioji Lietuvos kunigaikštystė\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-90810
     - c-90813
@@ -71,18 +51,6 @@ media_all_json: |-
 - t-002
   global_id: t-96096
   teiginys: "Liublino unijos akto trečiasis paragrafas skelbė, kad Didžioji Lietuvos Kunigaikštystė ir Lenkijos Karalystė sudaro vieną bendrą valstybę."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "530367-530830; hash=fc0c3f3507ece1484273399f554c4d9964b0f59bc67cc64fe0a03bd7d414a3ec; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Didžioji Lietuvos kunigaikštystė: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=36"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Didžioji Lietuvos kunigaikštystė\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-90816
 
@@ -90,12 +58,6 @@ media_all_json: |-
 - t-005
   global_id: t-193088
   teiginys: "Lietuviams reikalaujant, Lietuvai buvo paliktas nepaliestas visas valdžios aparatas (.. 10 ir 17)."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "531598-532158; hash=8ee95eed99cf19d8708888ab4a431f61182a50370011f8ad890d0eae65694197; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-175853
 - susijęs iš [[objektai/zodynas/dominija.md#claim-t-173017|dominija]]: Dokumente numatyta, kad po Vytauto mirties Didžioji Lietuvos Kunigaikštystė ir jos dominijos turi tekti Jogailai ir Lenkijai.
@@ -113,8 +75,8 @@ media_all_json: |-
     krikščionybę. Didžioji Lietuvos kunigaikštija ilgiau nebegalėjo būti
     pagonio valdoma.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -133,8 +95,8 @@ media_all_json: |-
     somi_ nuo priešo žemėje sėdinčio metropolito. Pagaliau jam pasi­
     sekė atstatyti Vytenio ir Gedimino laikų padėtį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -153,8 +115,8 @@ media_all_json: |-
     Jau dėl šitų priežasčių tarp Jogailos ir Kęstučio turėjo kilti
     pirmieji nesutarimai, kuriuos vikriai išnaudojo kryžiuočiai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -173,8 +135,8 @@ media_all_json: |-
     bendrą valdovą, kuris būsiąs bendrai renkamas Lietuvoje ir ka-
     rūnuojamas Krokuvoje (§ 4).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -196,8 +158,8 @@ media_all_json: |-
     teritorija su aiškiai nustatyta siena su Lenkija; liko taip pat
     savos skirtingos Lietuvos teisės, įstatymai ir teismai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -308,6 +270,3 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193088
-
-## Ryšiai
-- Didžioji Lietuvos kunigaikštystė priklausė [[objektai/vietos/Lenkija]]

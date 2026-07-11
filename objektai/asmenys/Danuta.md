@@ -44,17 +44,6 @@ Danuta 1380 m. ištekėjo už Mozūrijos kunigaikščio Jonušo, apsikrikštydam
 - t-002
   global_id: t-35045
   teiginys: "Danuta buvo Vytauto sesuo, nutekėjusi į Mozūriją, iš kurios katalikų svečiai lankydavosi Kęstučio dvare Trakuose."
-  semantiniai_rysiai: "Danuta buvo duktė Kęstutis (vakarų pasienio valdovas, XIV–XV a.) (0.84)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "252671-253233; hash=0c8be8d9576e9c62d8766bd88b077fb42b58d34956e0e0a2859599c5174cf2fd; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_dukte -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.84"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Danuta: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citatoje Danuta vadinama jo seserimi Vytautui, o Kęstutis įvardytas Vytauto tėvu; claimas sieja ją su Kęstučio šeima."
   pagrindžia:
     - c-37997
 
@@ -62,19 +51,6 @@ Danuta 1380 m. ištekėjo už Mozūrijos kunigaikščio Jonušo, apsikrikštydam
 - t-001
   global_id: t-35046
   teiginys: "Danuta 1380 m. ištekėjo už Mozūrijos kunigaikščio Jonušo, apsikrikštydama taip pat Marijos vardu."
-  temporaliniai_duomenys: "įvykio data: 1380 m.; įvykio data: 1392 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir tiesiogiai sutampa su citatos informacija."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "39285-39495; hash=4d4dd76906617eae5566669197dc8c56474cfe3294d469b974d1ca2f1c3ef041; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Mozūrija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Danuta: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Mozūrija: mention_match, place, gap=27"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Danuta\" parinktas kaip owner_note_path. Targetas \"Mozūrija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-37996
 - susijęs iš [[objektai/asmenys/Mozūrijos kunigaikštis Jonušas.md#claim-t-35250|Mozūrijos kunigaikštis Jonušas]]: Mozūrijos kunigaikštis Jonušas 1380 m. vedė Danutą, kuri krikšte gavo ir Marijos vardą.
@@ -89,8 +65,8 @@ Danuta 1380 m. ištekėjo už Mozūrijos kunigaikščio Jonušo, apsikrikštydam
     m. ištekėjo už Mozūrijos kunigaikščio Jonušo, apsikrikštydama
     taip pat Marijos vardu. 1392 m.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -110,8 +86,8 @@ Danuta 1380 m. ištekėjo už Mozūrijos kunigaikščio Jonušo, apsikrikštydam
     tikėjimu, nes mirus pirmajai žmonai Marijai, Vytautas vedė
     Smolensko kunigaikštytę Oną, taip pat stačiatikę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -163,4 +139,3 @@ Danuta 1380 m. ištekėjo už Mozūrijos kunigaikščio Jonušo, apsikrikštydam
 
 ## Ryšiai
 - Sutuoktiniai: [[objektai/asmenys/Mozūrijos kunigaikštis Jonušas]]
-- Tėvai: [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]

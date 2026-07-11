@@ -59,12 +59,6 @@ Nenurodyta
 - t-001
   global_id: t-194064
   teiginys: "• Jogailos ketvirtoji žmona Sollja vainikuota Lenkijos kara liene 1424 mvasario 12 tl."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "475025-475338; hash=b30e40d7ab6d39a46ee2b4f023cffc8ec72abc0f6cd5f233fd2a77dfee2bcc24; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176677
 ## Reikšmingi paminėjimai
@@ -85,8 +79,8 @@ Nenurodyta
     1 0  Kalbama apie Jogailos plrmųjį sūnų Vladislovų, gimusi
     1424 X 31.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

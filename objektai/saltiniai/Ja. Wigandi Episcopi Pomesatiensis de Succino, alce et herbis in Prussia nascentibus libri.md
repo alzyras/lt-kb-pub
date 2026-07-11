@@ -36,17 +36,6 @@ Veikalas „Ja. Wigandi Episcopi Pomesatiensis de Succino, alce et herbis in Pru
 - t-001
   global_id: t-191843
   teiginys: "Veikalas „Ja. Wigandi Episcopi Pomesatiensis de Succino, alce et herbis in Prussia nascentibus libri“ buvo išleistas 1590 m. Jenoje."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1590 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas bibliografinis sakinys apie veikalo išleidimo vietą ir metus. Neįtraukta papildoma pastaba apie Bajerio ketinimą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "608288-608612; hash=9a4722231e533ec7dacfac55a3456f4762a37f7b989b1d630b4e337a06737c67; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174725
 ## Reikšmingi paminėjimai
@@ -62,8 +51,8 @@ Veikalas „Ja. Wigandi Episcopi Pomesatiensis de Succino, alce et herbis in Pru
     nascentibus libri", išleistą 1590 metais Jenoje; Bajeris
     ją norėjo įdėti į savo „Monumentą Prussica“.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -74,7 +63,8 @@ Veikalas „Ja. Wigandi Episcopi Pomesatiensis de Succino, alce et herbis in Pru
 - id: c-174725
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 338"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 338."
   citata_originali: |
     Labiausiai jį primena skruzdėliniai gyvasakiai; gel­
     tonas ir baltas gintaras kvepia skirtingai. Smalsuoliams

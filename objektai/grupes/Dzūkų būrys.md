@@ -33,17 +33,6 @@ Tų pačių metų liepos 13 d., grįždami iš žygio, Dzūkų būrio partizanai
 - t-001
   global_id: t-40877
   teiginys: "Liepos 13 d. Dzūkų būrio partizanai prie Žuvinto ežero susidūrė su pasaloje laukusiais NKVD kareiviais ir vietiniais stribais."
-  semantiniai_rysiai: "Dzūkų būrys kariavo prieš NKVD (0.82)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "930059-930416; hash=902dd49a245893e1322440c62a3f4461850077adb0e34855cb7c9b7931ac253c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> NKVD: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Dzūkų būrys: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "NKVD: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Karinis susidūrimas su NKVD kareiviais tiesiogiai rodo kovą prieš NKVD."
   pagrindžia:
     - c-44734
 ## Reikšmingi paminėjimai
@@ -61,8 +50,8 @@ Tų pačių metų liepos 13 d., grįždami iš žygio, Dzūkų būrio partizanai
     Jurgis Krušinskas, Juozas Remeikis-Lokys
     vėliau mirė nuo sužeidimų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -91,6 +80,3 @@ Tų pačių metų liepos 13 d., grįždami iš žygio, Dzūkų būrio partizanai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40877
-
-## Ryšiai
-- Dzūkų būrys kariavo prieš [[objektai/grupes/NKVD]]

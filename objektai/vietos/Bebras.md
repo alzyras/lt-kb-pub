@@ -32,9 +32,6 @@ Dusburgietis teigia, kad bebirvytis (2-sis) Bebras (D.— Biber, Bobare, Jer.—
 - t-001
   global_id: t-58687
   teiginys: "Bebras kronikos rodyklėje siejamas su vardais Biber, Bobare, Bibber ir Bobir, o dabartinis jo vardas yra Biebrza."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "841086-841172; hash=5dc4e6ba2cdf5d4df953e604c527665962d1b0a3c505481874d9326de1e04e39; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-59319
 - susijęs iš [[objektai/grupes/Jotvingiai.md#claim-t-178774|Jotvingiai]]: XIII a. duomenimis, Jotvingija tęsėsi į šiaurę nuo Bebro aukštupio ir Nemuno prie Gardino.
@@ -61,8 +58,8 @@ Dusburgietis teigia, kad bebirvytis (2-sis) Bebras (D.— Biber, Bobare, Jer.—
     Bebirvytis (2-sis)
       Bebras (D.— Biber, Bobare, Jer.— Bibber, Bobir; dab. Biebrza), u.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -73,7 +70,8 @@ Dusburgietis teigia, kad bebirvytis (2-sis) Bebras (D.— Biber, Bobare, Jer.—
 - id: c-59319
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 300"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 300."
   citata_originali: |
     Bebirvytis (2-sis)
       Bebras (D.— Biber, Bobare, Jer.— Bibber, Bobir; dab. Biebrza), u.

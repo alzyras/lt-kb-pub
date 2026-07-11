@@ -49,18 +49,6 @@ Nenurodyta
 - t-001
   global_id: t-62247
   teiginys: "Dusburgiečio pasakojime prūsas Dargis po ketvirto balto žirgo bandymo įtikėjo ir tapo uoliu tikėjimo šalininku."
-  teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Dargis gyveno Semba (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "236954-237811; hash=bc693f677ae292a6e1748a9d0389f29e6ee2509416eee9dcda1b602e93591be1; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Semba: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Dargis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Semba: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Dargis gyveno Sembos žemėje."
   pagrindžia:
     - c-62752
 ## Reikšmingi paminėjimai
@@ -82,8 +70,8 @@ Nenurodyta
     tikinčiųjų šalininkas, karštas dievo bei šventųjų gerbėjas, sutvirtinęs tikėjimu daugeliui
     klystančiųjų naujakrikščių širdis.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -94,7 +82,8 @@ Nenurodyta
 - id: c-62752
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 71"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 71."
   citata_originali: |
     Apie vieną stebuklą
 

@@ -41,19 +41,6 @@ Atrodo, kad kiekvienas jų miestui ginti privalėjo tu­ rėti šarvus, muškiet
 - t-001
   global_id: t-86596
   teiginys: "1522 m. karaliaus Žygimanto įsakymu miesto sargyba ir policija buvo sugrąžintos magistratui, kuris turėjo išlaikyti 24 sargybinius."
-  temporaliniai_duomenys: "įvykio data: 1522 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Perrašyta, kad veiksnys ir tarinys derėtų ir sakinys būtų sklandesnis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "519783-520351; hash=8ee1716acb0f3290e7fa2fe2accd8dd9e341f8ee51843911036a24e6436e6ceb; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Krokuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "miesto sargyba ir policija: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Krokuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"miesto sargyba ir policija\" parinktas kaip owner_note_path. Targetas \"Krokuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-82575
 - susijęs iš [[objektai/grupes/Vilniaus magistratas.md#claim-t-172819|Vilniaus magistratas]]: Karaliaus Žygimanto 1522 m. įsakymu miesto sargyba ir policija buvo sugrąžinta Vilniaus magistratui.
@@ -74,8 +61,8 @@ Atrodo, kad kiekvienas jų miestui ginti privalėjo tu­ rėti šarvus, muškiet
     tinės ginkluotės sargybinius, kad tvarkos mieste būtų žiūri­
     ma dieną ir naktį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

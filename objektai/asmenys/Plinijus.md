@@ -31,21 +31,6 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
 - t-001
   global_id: t-190200
   teiginys: "Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus pastebėtą Saulės, arba Apolono, garbinimą prie Baltijos jūros."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "176897-177279; hash=715dbb3a7bd4520960790418870ec4a3a60ac494451b0fb26462b6ded3bf78b0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Baltija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Plinijus: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Baltija: mention_match, place, gap=57"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Plinijus\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173083
 
@@ -53,22 +38,6 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
 - t-002
   global_id: t-190950
   teiginys: "Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų palikuonis prie Dono žemupio ir Juodosios jūros."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Sarmatai gyveno Donas (0.83)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "105654-106368; hash=5918f1af19d4c6e300fea2c5c20441a73302485caf0192e991d4bdfa2dff001f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Donas: 0.83"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Sarmatai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Donas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai sieja sarmatus su gyvenimu prie Dono žemupio."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173832
 
@@ -76,21 +45,6 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
 - t-003
   global_id: t-190951
   teiginys: "Plinijus rašė, kad spaliai buvo kairiojoje Dono pakrantėje, prie Kimerijos Bosporo, o Narbutas šį teiginį laikė jų senumo ženklu."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "152733-153149; hash=41ce577f931d398c0df9a319760765bc2549477a478f51a5bce72524366ef9f5; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Donas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Plinijus: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Donas: mention_match, place, gap=43"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Plinijus\" parinktas kaip owner_note_path. Targetas \"Donas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173833
 
@@ -98,21 +52,6 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
 - t-004
   global_id: t-190952
   teiginys: "Plinijus rašė, kad Hilleviones, jo apibūdinti kaip labai gausūs žmonės, gyveno Skandinavijoje."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "166914-167279; hash=731e6453a372511bad92bb06163a307b1283db76db4827c29e1e06d64ea07a96; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Skandinavija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Plinijus: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Skandinavija: mention_match, place, gap=79"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Plinijus\" parinktas kaip owner_note_path. Targetas \"Skandinavija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173834
 
@@ -120,21 +59,6 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
 - t-005
   global_id: t-190953
   teiginys: "Plinijus rašė, kad sarmatai, venedai, skirtai ir tūriai gyvena iki Vyslos."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "180488-180806; hash=faca8aebff7dfd54609e1f39a98f1669026d674414f7acefa148c6acb16cb649; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vysla: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Plinijus: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Vysla: mention_match, place, gap=67"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Plinijus\" parinktas kaip owner_note_path. Targetas \"Vysla\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173835
 
@@ -142,21 +66,6 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
 - t-006
   global_id: t-190954
   teiginys: "Narbutas teigė, kad jūros išmetamas gintaras su medžių skiedromis patvirtina Plinijaus užrašytą Archelajo pasakojimą apie gintaro žaliavą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "267020-267525; hash=3c9dc0cac8aafb4ffe86754b2c2047efec040e04f7400b5cc8c9ce9564f9a4e1; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Archelajas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Plinijus: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Archelajas: mention_match, person, gap=19"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Plinijus\" parinktas kaip owner_note_path. Targetas \"Archelajas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173836
 
@@ -164,21 +73,6 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
 - t-007
   global_id: t-190955
   teiginys: "Narbutas aiškino, kad Plinijaus Germanijos aprašyme Guitalus pavadinimas tenka Oderiui, nes ši upė nebūtų buvusi praleista."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "291997-292647; hash=2f62168462f8f631fa8e7d4293f2f3684e0ea4985eff815c6f2e7bfa95266207; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Prieglius: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Plinijus: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Prieglius: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Plinijus\" parinktas kaip owner_note_path. Targetas \"Prieglius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173837
 
@@ -186,21 +80,6 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
 - t-009
   global_id: t-190957
   teiginys: "Narbutas teigė, kad sala, kurią Plinijus vadino Baltija, pagal Hardua rankraščius ir stebėjimus turėtų vadintis Basilia."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "602967-603312; hash=23f097c4b55e5a285a3d5087b9241cad6dec071025e2782584562b6ca7922d1f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Baltija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Plinijus: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Baltija: mention_match, place, gap=16"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Plinijus\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173839
 
@@ -208,21 +87,6 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
 - t-010
   global_id: t-190958
   teiginys: "Narbutas svarstė, kad Pitėjo laikais Baltija, Plinijaus vadinta gintaringa sala, galėjo plytėti už dabartinės nerijos."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "664479-665276; hash=572d291096d69f0909394211594fc10763c8e68791ab44a0b04d3906a8a0120a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vitlandija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Plinijus: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Vitlandija: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Plinijus\" parinktas kaip owner_note_path. Targetas \"Vitlandija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173840
 
@@ -230,21 +94,6 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
 - t-011
   global_id: t-190959
   teiginys: "Narbutas nurodė, kad Plinijus minėjo Carcine įlanką ir to paties pavadinimo miestelį prie Boristenio ir Bugo žiočių."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "682816-683465; hash=fc2a3a1b9310003a026fcda025e62f47c54388d2cb206f0eae6f31480da96ec3; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Skitija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Plinijus: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Skitija: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Plinijus\" parinktas kaip owner_note_path. Targetas \"Skitija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173841
 
@@ -252,21 +101,6 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
 - t-012
   global_id: t-191968
   teiginys: "Narbutas rašė, kad tyrinėtojai nuo Plinijaus kompiliacijų iki Uphageno painiojosi prielaidose apie skirių ir hirių gentis."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "489725-490267; hash=7d87c8dec0d1eace38f672af8a3d9d74457f8d03d7e8c33a77f6085e637ba606; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Hiriai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Plinijus: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Hiriai: mention_match, group, gap=74"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Plinijus\" parinktas kaip owner_note_path. Targetas \"Hiriai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174850
 ## Reikšmingi paminėjimai
@@ -286,8 +120,8 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
     binamoji saulė buvo vadinama Kovos. Apie tai plačiai kalba
     ponas Riteris savo Siaurės senovės tyrimuose15.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -315,8 +149,8 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
     kaip teigia mūsų senovės tyrinėtojas2, ir kalbą reikėtų
     laikyti panašia j skitų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -336,8 +170,8 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
     sena, be to, Jordanas teigia, kad spaliai gyveno dabarti­
     nėje Mazovijoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -356,8 +190,8 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
     ma lengvai įžvelgti lyvių protėvius, priklausiusius keltų-
     gerrnanų tautoms.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -374,8 +208,8 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
     riai gyvena net ligi Vyslos“1. Taip išdėsčius dalyką, ar
     sugebės kas nors nubraižyti šių tautų žemėlapį?
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -397,8 +231,8 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
     lių kasyklose, taip pat Danijos pakrantėse, nemažai ga­
     balų išmesdavo Švedijos ežeras Maeleras.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -421,8 +255,8 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
     upes, pateikia jas taip: Albis, Guitalus, Vistula4, tad tarp
     Elbės ir Vyslos, tikroje Oderio vietoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -440,8 +274,8 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
     roje, Austraviją, arba Glesariją, nurodo esant fryzų sala
     Amelandu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -468,8 +302,8 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
     labai daug gintaro, — ten seniau buvo daugelį mylių
     besitęsianti sausuma.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -492,8 +326,8 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
     nemokėjo rasti vietos jo Carcinites** įlankai ir to paties
     pavadinimo miestui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -515,8 +349,8 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
     ra vertus, tektų kartoti tai, ką jau rašėme arba ketiname
     vėliau parašyti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -578,7 +412,8 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
 - id: c-173833
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 85"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 85."
   citata_originali: |
     71
     Siame žygyje jie ėjo per spalių kraštą, kurio gyvento­
@@ -599,7 +434,8 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
 - id: c-173834
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 93"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 93."
   citata_originali: |
     Ta­
     citas mini Helvecones4, kurie, kaip sako kai kurie tyrinė­
@@ -619,7 +455,8 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
 - id: c-173835
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 101"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 101."
   citata_originali: |
     Pagaliau, papildydamas aprašymą, cituoju tą
     patį autorių: Welti, Hossii ir Karbony, — tai toliau į
@@ -637,7 +474,8 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
 - id: c-173836
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 148"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 148."
   citata_originali: |
     Jūroje išilgai prūsų pakrančių slypi
     ištisos jų girios. Jūra dažnai išmeta gintarą, prikibusį prie
@@ -660,7 +498,8 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
 - id: c-173837
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 161"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 161."
   citata_originali: |
     Šio labai tikslaus istoriko
     ir garbingo senovės krašto tyrinėtojo nuomonė verstų mus
@@ -684,7 +523,8 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
 - id: c-173839
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 336"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 336."
   citata_originali: |
     Sala, kurią Plinijus vadina Baltija, remdamasis visais
     Hardua rankraščiais ir stebėjimais, turėtų vadintis Basi-
@@ -703,7 +543,8 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
 - id: c-173840
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 367"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 367."
   citata_originali: |
     Kopija iš Karaliau­
     čiaus archyvo kopijos, sub titulo Pommeraniae pertinen­
@@ -731,7 +572,8 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
 - id: c-173841
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 376"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 376."
   citata_originali: |
     Iš tiesų žinoma ir Plinijaus užrašyta geografinė medžia­
     ga (Lib. IV. C. 12, 13), kur minima jūros įlanka Carcine
@@ -755,7 +597,8 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
 - id: c-174850
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 275"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 275."
   citata_originali: |
     Galbūt ir
     lietuvių kalba jie vadinosi skiriais, nes esama panašiai

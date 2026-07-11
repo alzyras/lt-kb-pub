@@ -39,11 +39,6 @@ Srokowski, St.
 - t-001
   global_id: t-31926
   teiginys: "St. Srokowskio „Granica Prus Wschodnich, jej przebieg, powstanie i znaczenie“ paskelbta 1933 m. žurnalo „Bellona“ 15 tome, 471-494 puslapiuose."
-  temporaliniai_duomenys: "įvykio data: 1933 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "986214-986514; hash=cc30a9c986e347fefc4a96a607def0ef7dd56ef0bf3a62e355923b320d708837; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-33720
 ## Reikšmingi paminėjimai
@@ -57,8 +52,8 @@ Srokowski, St.
     P. : _Vytauto D. kovos dėl Žemaičių ir Klaipėdos,_ NaR, nr. 18, 1932, 409-
     412 p. — (”) _Klaipėdos miesto istorijos bruožai 1252-1466,_ Mūsų Žinynas,
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

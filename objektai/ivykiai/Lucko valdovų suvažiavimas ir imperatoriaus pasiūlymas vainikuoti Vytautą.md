@@ -48,12 +48,6 @@ Nenurodyta
 - t-001
   global_id: t-194062
   teiginys: "Lietuvos m etraštis i!3 Ir viešėjo pas Vytautą7 Zigmantas, krikščionių im peratorius, buvęs tuo metu Vengrijos ir Čekijos kara liumi, ir Lenkijos karalius Jogaila, Vytauto brolis, ir Danijos karalius8 , ir Perekopo chanas9 , ir Riazanės didysis kunigaikštis."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "192243-193395; hash=9c94c7fe59a32cd656089ad4f0e319df47498e4e6c0bff1e7a5ce8e567ac16b9; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176675
 ## Reikšmingi paminėjimai
@@ -87,8 +81,8 @@ Nenurodyta
     po šimtą briedžių, neskaitant įvairios kitos žvėrienos
     ir daugelio kitų mėsiškų ir naminių patiekalų2 0 .
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

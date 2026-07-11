@@ -59,20 +59,6 @@ Nenurodyta
 - t-001
   global_id: t-77906
   teiginys: "1236 m. popiežius paskelbė kryžiaus žygį prieš lietuvius, kurį žemaičiai atlaikė Saulės mūšyje."
-  semantiniai_rysiai: "Žemaičiai dalyvavo mūšyje Saulės mūšis ir 1236 m. kryžiaus žygio atlaikymas (0.88)"
-  temporaliniai_duomenys: "įvykio data: 1202 m.; įvykio data: 1230 m.; įvykio data: 1236 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys prasideda neaiškia nuoroda, o citata palaiko aiškų faktą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "44675-45313; hash=1b34b7a900019dd158121a457a805c4d71dc111ba55d07ad378c58f436d4f79f; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "dalyvavo_musyje -> Saulės mūšis ir 1236 m. kryžiaus žygio atlaikymas: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Žemaičiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Saulės mūšis ir 1236 m. kryžiaus žygio atlaikymas: llm_allowed_candidate, event"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai sieja žemaičius su Saulės mūšiu."
   pagrindžia:
     - c-75222
 ## Reikšmingi paminėjimai
@@ -92,8 +78,8 @@ Nenurodyta
     Vokiečių ordino riteris pagrobia vaiką.
     Dail. J. Kossak, XIX a.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -122,6 +108,3 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-77906
-
-## Ryšiai
-- Turėjo dalyvį: [[objektai/grupes/Žemaičiai]]

@@ -48,22 +48,6 @@ Nenurodyta
 - t-001
   global_id: t-185693
   teiginys: "1485 m. Bajazitas pradėjo karą prieš Valachijos valdovą Steponą ir užėmė kelis Dakijos miestus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1485 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys perrašytas neutraliu enciklopediniu stiliumi."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "938853-939392; hash=936bae9ae3d6f5c084164580015a778c1e8133bed75e695011cfe1d2cff75064; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Bajazitas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Bajazito puolimas Valachijoje ir lenkų pagalba Steponui (1485 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Bajazitas: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bajazito puolimas Valachijoje ir lenkų pagalba Steponui (1485 m.)\" parinktas kaip owner_note_path. Targetas \"Bajazitas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-169054
 
@@ -71,19 +55,6 @@ Nenurodyta
 - t-002
   global_id: t-185694
   teiginys: "Karalius paskelbė Steponą ir Valachiją savo globotiniais ir nusiuntė jiems tris tūkstančius rinktinių karių."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "939393-939681; hash=1ca5cbdd77a4124ddc79529862c9d42355b51c26b63598d8760aed12b0a055d6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Valachija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Bajazito puolimas Valachijoje ir lenkų pagalba Steponui (1485 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Valachija: mention_match, place, gap=11"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bajazito puolimas Valachijoje ir lenkų pagalba Steponui (1485 m.)\" parinktas kaip owner_note_path. Targetas \"Valachija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-169055
 ## Reikšmingi paminėjimai
@@ -111,8 +82,8 @@ Nenurodyta
     tų: vienus jėga užgrobė, kiti
     patys pasidavė.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -130,8 +101,8 @@ Nenurodyta
     pabaiga: turkai buvo išstumti beveik iš visos Valachi­
     jos.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -142,7 +113,8 @@ Nenurodyta
 - id: c-169054
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 531"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 531."
   citata_originali: |
     Kitais metais jie palydėjo seno­
     vės Lietuvos kunigaikščių at-
@@ -172,7 +144,8 @@ Nenurodyta
 - id: c-169055
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 531"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 531."
   citata_originali: |
     Šitai sužino­
     jęs, karalius leidosi į Lvovą. Ten paskelbus, jog Ste­

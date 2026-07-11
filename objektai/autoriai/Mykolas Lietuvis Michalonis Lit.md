@@ -43,17 +43,6 @@ media_all_json: |-
 - t-004
   global_id: t-88036
   teiginys: "Mykolas Lietuvis rašė, kad Kafos miestas prie Juodosios jūros buvo svarbiausias Lietuvos prekybinis uostas ryšiams su Rytais."
-  semantiniai_rysiai: "Kijevo kunigaikštystė priklausė Lietuva (0.94)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "342023-342599; hash=92350c33d524f932073314ac1da39a30251965cb23019bd99ac78bfdc6a15bec; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Lietuva: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kijevo kunigaikštystė: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citatoje tiesiogiai pasakyta, kad Kijevo kunigaikštystė priklausė Lietuvai."
   pagrindžia:
     - c-84015
 
@@ -61,16 +50,6 @@ media_all_json: |-
 - t-001
   global_id: t-88037
   teiginys: "Mykolas Lietuvis liudijo, kad totoriai seniau garsėjo santūrumu, svetingumu ir iš kartos į kartą perduodamomis dorybėmis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "316271-316916; hash=fb37fe17936fd7d01e40f4271397ff659b9dd12d17fffaabf7dea6c4ed700fda; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Mykolas Lietuvis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mykolas Lietuvis Michalonis Lit: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Mykolas Lietuvis: mention_match, author, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mykolas Lietuvis Michalonis Lit\" parinktas kaip owner_note_path. Targetas \"Mykolas Lietuvis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-84014
 
@@ -78,16 +57,6 @@ media_all_json: |-
 - t-003
   global_id: t-88038
   teiginys: "Apie tai yra rašęs Mykolas L i e t u v i s, p. 28."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "320379-320747; hash=d9d184fb30a04c3ff849c4ead1fe9f678814136e34d9960f08b3425159839804; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Totoriai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mykolas Lietuvis Michalonis Lit: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Totoriai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mykolas Lietuvis Michalonis Lit\" parinktas kaip owner_note_path. Targetas \"Totoriai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-84017
 ## Reikšmingi paminėjimai
@@ -115,8 +84,8 @@ media_all_json: |-
     MDCXV - nurodo jis savo kūrinėlio
     gale: Epithomefragminis secundi, p. 14.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -145,8 +114,8 @@ media_all_json: |-
     Tauryka, p. 84.*
     Dab.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -168,8 +137,8 @@ media_all_json: |-
     ties Totorių kaimas. Apie tai yra rašęs
     Mykolas L i e t u v i s, p. 28.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

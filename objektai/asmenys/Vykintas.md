@@ -43,12 +43,6 @@ Kunigaikštis Vykintas netrukus ties Tverais buvo nugalėtas; jis pats žuvo mū
 - t-001
   global_id: t-194092
   teiginys: "Vykintas — XIII a."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "355341-355462; hash=10c6f30cfac5f5c60e29d284b342f100b79e48b15a1ba86e345d680d4d83d0d2; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176705
 ## Reikšmingi paminėjimai
@@ -60,8 +54,8 @@ Kunigaikštis Vykintas netrukus ties Tverais buvo nugalėtas; jis pats žuvo mū
     *  Vykintas — XIII a. pirmosios pusės žemaičių kunigaikštis,
     spėjamas lietuvių vadas I236.IX.22 Saulės (Šiaulių) mūšyje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -72,7 +66,8 @@ Kunigaikštis Vykintas netrukus ties Tverais buvo nugalėtas; jis pats žuvo mū
 - id: c-176705
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 200"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 200."
   citata_originali: |
     *  Vykintas — XIII a. pirmosios pusės žemaičių kunigaikštis,
     spėjamas lietuvių vadas I236.IX.22 Saulės (Šiaulių) mūšyje.

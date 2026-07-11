@@ -40,17 +40,6 @@ Podolei ir Rusiai jie svarbi Jėga ginantis nuo totorių, kurie, kazokų bijodam
 - t-003
   global_id: t-83302
   teiginys: "Kijevo kunigaikštystė ir Podolė anuomet siekė Dniepro ir Dniestro žiotis ir priklausė Lietuvai."
-  semantiniai_rysiai: "Kijevo kunigaikštystė priklausė Lietuva (0.99); Podolė priklausė Lietuva (0.99)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "342019-342396; hash=a90f0d345d10344515abea07e1d72004d00ae594e50ac5e7357ec822dbe284d3; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Lietuva: 0.99"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Podolė: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Podolė priklausė Lietuvai."
   pagrindžia:
     - c-79661
 
@@ -58,19 +47,6 @@ Podolei ir Rusiai jie svarbi Jėga ginantis nuo totorių, kurie, kazokų bijodam
 - t-001
   global_id: t-83303
   teiginys: "Totoriai per Dniestrą drįsdavo keltis tik surinkę dideles pajėgas, nes bijojo kazokų."
-  semantiniai_rysiai: "Totoriai keliavo į Dniestras (0.84); Totoriai buvo priešas Kazokai (0.67)"
-  temporaliniai_duomenys: "įvykio data: 1621 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "460604-461030; hash=ef758955bed01da2dc13e3306bd7b7113035aacde846e91c0f64a5afc9b3d6f4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Dniestras: 0.84"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Totoriai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Dniestras: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo totorių persikėlimą per Dniestrą."
   pagrindžia:
     - c-79662
 - susijęs iš [[objektai/ivykiai/Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.).md#claim-t-41268|Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)]]: Po Chotino mūšio Turkija pasirašė paliaubas, o 1623 m. taika atstatė sieną palei Dniestrą.
@@ -117,8 +93,8 @@ Podolei ir Rusiai jie svarbi Jėga ginantis nuo totorių, kurie, kazokų bijodam
     tinė, palaikė prekybinius ryšius su
     Rytais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -137,8 +113,8 @@ Podolei ir Rusiai jie svarbi Jėga ginantis nuo totorių, kurie, kazokų bijodam
 
     CHOTINO MŪŠIS 1621 m. rugsėjo 2-spalio 10 d.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -191,6 +167,3 @@ Podolei ir Rusiai jie svarbi Jėga ginantis nuo totorių, kurie, kazokų bijodam
   patikimumo_saltinis: ai
   pagrindzia:
     - t-83303
-
-## Ryšiai
-- Buvo kelionės vieta: [[objektai/grupes/Totoriai]]

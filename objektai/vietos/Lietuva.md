@@ -40,13 +40,13 @@ media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3ALietuva_
 media_primary_directness: 'direct'
 media_primary_relation_type: 'map_of'
 media_primary_json: |-
-  {"mediaId":"m-2a6a42e79dc9e9e46d7bd52d","title":"Lietuva 1921-1939.svg","caption":"Belarusian-language map of Lithuania in 1921–1939","creator":"Derivation of work Renata3 This W3C-unspecified vector image was created with Inkscape .","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","dateDisplay":"2009","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ALietuva_1921-1939.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d9/Lietuva_1921-1939.svg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1}
+  {"mediaId":"m-2a6a42e79dc9e9e46d7bd52d","title":"Lietuva 1921-1939.svg","caption":"Lietuvos žemėlapis 1921–1939 m.","originalTitle":"Lietuva 1921-1939.svg","creator":"Derivation of work Renata3 This W3C-unspecified vector image was created with Inkscape .","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Self-made using Inkscape; used Image:Lithuania territory 1939-1940.svg by Renata3 and Image:LithuaniaPhysicalMap-Clean.svg by Knutux for some background features; Source map: (2001) Lietuvos istorijos atlasas , Vilnius: Vaga, p. 44 &amp; 45","dateDisplay":"2009","dateStart":null,"dateEnd":null,"width":2078,"height":1689,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ALietuva_1921-1939.svg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d9/Lietuva_1921-1939.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d9/Lietuva_1921-1939.svg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"valstybė","label":"valstybė","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/vietos/Lietuva.md","title":"Lietuva","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:15:18.879721+03:00","reviewedAt":"2026-07-11T02:16:00.427017+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas žemėlapis su žaliai pažymėta teritorija, pažymėtais miestais ir dideliu užrašu „Коўна“; vaizdas apima Lietuvos teritoriją tarpukario laikotarpiu.","metadataEvidence":"Pavadinimas „Lietuva 1921-1939.svg“ ir aprašas „Belarusian-language map of Lithuania in 1921–1939“ tiesiogiai nurodo Lietuvą.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Kandidatas tiesiogiai vaizduoja Lietuvą kaip teritorinį-politinį vienetą žemėlapyje, todėl ryšys su target yra aiškus.","isPrimary":1}
 media_direct_json: |-
-  [{"mediaId":"m-2a6a42e79dc9e9e46d7bd52d","title":"Lietuva 1921-1939.svg","caption":"Belarusian-language map of Lithuania in 1921–1939","creator":"Derivation of work Renata3 This W3C-unspecified vector image was created with Inkscape .","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","dateDisplay":"2009","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ALietuva_1921-1939.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d9/Lietuva_1921-1939.svg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1}]
+  [{"mediaId":"m-2a6a42e79dc9e9e46d7bd52d","title":"Lietuva 1921-1939.svg","caption":"Lietuvos žemėlapis 1921–1939 m.","originalTitle":"Lietuva 1921-1939.svg","creator":"Derivation of work Renata3 This W3C-unspecified vector image was created with Inkscape .","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Self-made using Inkscape; used Image:Lithuania territory 1939-1940.svg by Renata3 and Image:LithuaniaPhysicalMap-Clean.svg by Knutux for some background features; Source map: (2001) Lietuvos istorijos atlasas , Vilnius: Vaga, p. 44 &amp; 45","dateDisplay":"2009","dateStart":null,"dateEnd":null,"width":2078,"height":1689,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ALietuva_1921-1939.svg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d9/Lietuva_1921-1939.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d9/Lietuva_1921-1939.svg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"valstybė","label":"valstybė","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/vietos/Lietuva.md","title":"Lietuva","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:15:18.879721+03:00","reviewedAt":"2026-07-11T02:16:00.427017+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas žemėlapis su žaliai pažymėta teritorija, pažymėtais miestais ir dideliu užrašu „Коўна“; vaizdas apima Lietuvos teritoriją tarpukario laikotarpiu.","metadataEvidence":"Pavadinimas „Lietuva 1921-1939.svg“ ir aprašas „Belarusian-language map of Lithuania in 1921–1939“ tiesiogiai nurodo Lietuvą.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Kandidatas tiesiogiai vaizduoja Lietuvą kaip teritorinį-politinį vienetą žemėlapyje, todėl ryšys su target yra aiškus.","isPrimary":1}]
 media_contextual_json: |-
   []
 media_all_json: |-
-  [{"mediaId":"m-2a6a42e79dc9e9e46d7bd52d","title":"Lietuva 1921-1939.svg","caption":"Belarusian-language map of Lithuania in 1921–1939","creator":"Derivation of work Renata3 This W3C-unspecified vector image was created with Inkscape .","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","dateDisplay":"2009","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ALietuva_1921-1939.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d9/Lietuva_1921-1939.svg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1}]
+  [{"mediaId":"m-2a6a42e79dc9e9e46d7bd52d","title":"Lietuva 1921-1939.svg","caption":"Lietuvos žemėlapis 1921–1939 m.","originalTitle":"Lietuva 1921-1939.svg","creator":"Derivation of work Renata3 This W3C-unspecified vector image was created with Inkscape .","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Self-made using Inkscape; used Image:Lithuania territory 1939-1940.svg by Renata3 and Image:LithuaniaPhysicalMap-Clean.svg by Knutux for some background features; Source map: (2001) Lietuvos istorijos atlasas , Vilnius: Vaga, p. 44 &amp; 45","dateDisplay":"2009","dateStart":null,"dateEnd":null,"width":2078,"height":1689,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ALietuva_1921-1939.svg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d9/Lietuva_1921-1939.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d9/Lietuva_1921-1939.svg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"valstybė","label":"valstybė","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/vietos/Lietuva.md","title":"Lietuva","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:15:18.879721+03:00","reviewedAt":"2026-07-11T02:16:00.427017+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas žemėlapis su žaliai pažymėta teritorija, pažymėtais miestais ir dideliu užrašu „Коўна“; vaizdas apima Lietuvos teritoriją tarpukario laikotarpiu.","metadataEvidence":"Pavadinimas „Lietuva 1921-1939.svg“ ir aprašas „Belarusian-language map of Lithuania in 1921–1939“ tiesiogiai nurodo Lietuvą.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Kandidatas tiesiogiai vaizduoja Lietuvą kaip teritorinį-politinį vienetą žemėlapyje, todėl ryšys su target yra aiškus.","isPrimary":1}]
 ---
 # Lietuva
 
@@ -74,16 +74,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-064
   global_id: t-180065
   teiginys: "Adolfo Jofės vadovaujami sovietai traktavo Lietuvą kaip naują politinį vienetą ir sutiko ją pripažinti nacijų apsisprendimo teise."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "279741-280166; hash=c75e9bc9f7a5a73d8a10cd2c0e4e20071788e3e93d6f87dedcb78cc4d7037ed9; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-163762
 
@@ -91,16 +81,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-124
   global_id: t-180066
   teiginys: "Iki taikos tarp Lietuvos žemių ir Prūsijos kryžiuočių kasmet per Kalėdas turėjo būti mokama šimtas grivinų."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "314253-314853; hash=8dafa7b4830dcc4fb8b20754ff234e9673bbe24d83b96ec9967848b23b63737d; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=27"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-163697
 
@@ -108,17 +88,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-117
   global_id: t-180067
   teiginys: "Pirmosios Lietuvoje suteiktos teisės būtų pagerinusios miesto būklę, jei šalyje nebūtų kilęs vidaus karas."
-  semantiniai_rysiai: "Skirgaila buvo brolis Vladislovas Jogaila (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "250970-251535; hash=c002d71d7c6b724e9ec13bb3751ed6c1ec6833c0400274e4ff9f9604eccff225; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_brolis -> Vladislovas Jogaila: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Skirgaila: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vladislovas Jogaila: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Skirgaila tiesiogiai įvardytas kaip tikrasis Jogailos brolis."
   pagrindžia:
     - c-163733
 
@@ -126,19 +95,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-092
   global_id: t-180068
   teiginys: "Lietuva pasirinko euroatlantinės integracijos kelią, todėl 1992 m. birželio 8 d. priėmė konstitucinį aktą „Dėl Lietuvos Respublikos nesijungimo į postsovietines Rytų sąjungas“ (panašiai pasielgė Latvija ir Estija)."
-  temporaliniai_duomenys: "įvykio data: 1992 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys pilnas ir sieja Lietuvos euroatlantinę kryptį su konstituciniu aktu."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "528541-529104; hash=8ea9d00ada9a7ba84485bf70446ce9c6756700912f1fc92ed41a9dc89b5c12e1; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Abiejų Tautų Respublika: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Abiejų Tautų Respublika: mention_match, group, gap=120"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Abiejų Tautų Respublika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-163705
 
@@ -146,19 +102,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-086
   global_id: t-180069
   teiginys: "1991 m. Lietuvą pripažino Prancūzija, Didžioji Britanija, JAV ir rugsėjo 6 d. SSRS."
-  temporaliniai_duomenys: "įvykio data: 1940 m.; įvykio data: 1991 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys pilnas ir paremtas citata apie Lietuvos tarptautinį pripažinimą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "507318-507834; hash=198358b94adb0ef1ae0382be6602dd0d0934469418ead533400fc119210ff641; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Didžioji Britanija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Didžioji Britanija: mention_match, place, gap=30"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Didžioji Britanija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-163763
 
@@ -166,16 +109,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-102
   global_id: t-180070
   teiginys: "Kalbos apie partizanų operacijos kautynes greitai pasklido po Lietuvą ir stiprino gyventojų patriotines nuotaikas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "958903-959593; hash=724df004c0d25f5387a0c7ef6c259b8b851d2c9643da2ec339b46688f3499ec4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Parakas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Parakas: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Parakas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-163717
 
@@ -183,19 +116,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-113
   global_id: t-180071
   teiginys: "1440 m. Kazimiero IV privilegija leido Vilniaus miestiečiams laisvai prekiauti be muito visoje Lietuvos valstybėje."
-  temporaliniai_duomenys: "įvykio data: 1440 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys tiksliai nurodo privilegijos turinį ir datą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "93891-94944; hash=f70de15a17ca95839d5c0862b4acf64cf1df5e9b8035c9cd03fcd4c49e64637d; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-163788
 
@@ -203,16 +123,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-106
   global_id: t-180072
   teiginys: "XIII a. viduryje Lietuva savo žemėje jau turėjo keletą miestų, nors ilgai buvo atsiribojusi nuo krikščionybės."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "40927-41458; hash=df1816bf9a244d4661784d2f74f1316ac738edaf96004192bd459d68990eefb9; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Baltija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Baltija: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-163725
 
@@ -220,16 +130,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-059
   global_id: t-180073
   teiginys: "Lietuvių tautinio judėjimo iškilimą dalis lenkų laikė Rusijos carizmo politikos projektu, gimusiu tik tam, kad skaldytų ir silpnintų lenkų jėgą, o vėliau Lietuvos valstybės atkūrimą laikys tik Vokietijos intriga."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "249306-249965; hash=2a9751e9f505e6358a1d25ec9f11718c76d73ae11e13732af72f571a55eb166c; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=42"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-163701
 
@@ -237,19 +137,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-082
   global_id: t-180074
   teiginys: "LLKS Vasario 16-osios deklaracijoje numatytas Lietuvos valstybės atkūrimas ir demokratinės respublikos santvarka."
-  temporaliniai_duomenys: "įvykio data: 1929 m.; įvykio data: 1936-1938; įvykio data: 1938 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys pilnas ir tiksliai nusako LLKS deklaracijos nuostatas."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "432627-433377; hash=485ae6c2e4a3e5f6f4638d1277a364cad6875d338ba7e5edb0e842db7c3cd122; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Abiejų Tautų Respublika: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Abiejų Tautų Respublika: mention_match, group, gap=45"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Abiejų Tautų Respublika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-163823
 
@@ -257,16 +144,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-041
   global_id: t-180075
   teiginys: "LDK lydymosi procesai baigėsi ne visuotine polonizacija, o modernių lietuvių, baltarusių ir ukrainiečių tautų susikūrimu."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "81614-81962; hash=803f3f3a33acc7bfe289c9dce0d6a0cd9d4694cafff7c411202988f693975dad; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Baltarusiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Baltarusiai: mention_match, group, gap=10"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Baltarusiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-163736
 
@@ -274,19 +151,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-062
   global_id: t-180076
   teiginys: "1918 m. vasario 16 d. Taryba Vilniuje paskelbė atkurianti nepriklausomą, demokratiniais pamatais sutvarkytą Lietuvos valstybę su sostine Vilniumi."
-  temporaliniai_duomenys: "įvykio data: 1918 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys pilnas ir tiksliai aprašo Vasario 16-osios rezoliucijos esmę."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "264939-265799; hash=298bbcfc765e65b9c5e9da46facdc349da9ef88a62fc6301187a06ee43f8e9bd; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=79"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-163749
 
@@ -294,19 +158,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-079
   global_id: t-180078
   teiginys: "Vokietija Lietuvą laikė sudedamąja SSRS dalimi ir iš pradžių ją administravo karinė valdžia, o 1941 m. liepos pabaigoje įvestas civilinis okupacinis valdymas."
-  temporaliniai_duomenys: "įvykio data: 1941 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys pilnas ir tiksliai aprašo Vokietijos okupacinį valdymą Lietuvoje."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "410159-410470; hash=4ba34493633215ac6bab1667c206bd1f6555b7baa937612e1d0cb44f496ac01a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> SSRS: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "SSRS: mention_match, place, gap=25"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"SSRS\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-163808
 
@@ -314,17 +165,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-114
   global_id: t-180079
   teiginys: "Balińskis Kryžiuočių ordino nuniokojimą iki Medininkų ir Ašmenos vadino paskutiniu smūgiu pagoniškai Lietuvai."
-  semantiniai_rysiai: "Kryžiuočių ordinas puolė Lietuva (0.80)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "114039-114568; hash=40de44ccce2b0ee216f080f31b219b0d282ffa3aa7b1a14fe05954ccef40237a; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Lietuva: 0.80"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata paskutinį smūgį pagoniškai Lietuvai priskiria Ordino riteriams."
   pagrindžia:
     - c-163753
 
@@ -332,16 +172,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-110
   global_id: t-180080
   teiginys: "Iki XII a. pabaigos Lietuva buvo Rusios įtakoje, o vėliau savo antpuoliais ėmė bauginti Rusią ir Lenkiją."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "54209-54886; hash=bef69b135ea4b1ea7059ef98c8574b6064b24cae296d255e379cbc7382a5aeb0; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=77"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-163740
 
@@ -349,19 +179,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-076
   global_id: t-180081
   teiginys: "1941 m. birželio 14–18 d. okupacinė valdžia įvykdė pirmąjį masinį Lietuvos gyventojų trėmimą ir deportavo 17,5 tūkst. žmonių."
-  temporaliniai_duomenys: "įvykio data: 1941 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys pilnas ir tiksliai nurodo trėmimo datą bei mastą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "392168-392470; hash=1ac814ebddb31f4f5ba5654e387cb8f6e7e8917769c7ee1c96c11a297c6b0e6d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> SSRS: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "SSRS: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"SSRS\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-163710
 
@@ -369,16 +186,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-087
   global_id: t-180082
   teiginys: "Sovietmečiu lietuviai gerai išmoko rusų kalbą ir galėjo tiesiogiai naudotis rusų kultūros pasiekimais."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "508769-509219; hash=93cc6f0ad7a0264dbfa3837dadf3ad7c227dc960f14dcc3dc5b183f4720c2e3f; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-163798
 
@@ -386,20 +193,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-123
   global_id: t-180083
   teiginys: "Švitrigaila, nepatenkintas Vytauto iškėlimu, išvyko pas kryžiuočius ieškoti pagalbos nuversti naująjį Lietuvos valdovą."
-  semantiniai_rysiai: "Kryžiuočių ordinas puolė Gardinas (0.72); Kryžiuočių ordinas surengė žygį į Šalčininkai (0.68)"
-  temporaliniai_duomenys: "įvykio data: 1394 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalintas puslapio triukšmas ir sutvarkytas nutrūkęs sakinys."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "298182-299319; hash=47bfdc462b944138e31f5a8480086b32f98f3f9f333d446d24cc37e49640b362; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Gardinas: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Gardinas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai mini Gardino apylinkių nusiaubimą kryžiuočių žygyje."
   pagrindžia:
     - c-163790
 
@@ -407,16 +200,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-108
   global_id: t-180084
   teiginys: "Lietuvoje miestai kūrėsi tada, kai aukštesnieji kunigaikščiai jau buvo įtvirtinę savo viršenybę."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "43588-44141; hash=9f03b9b76bb7d56c40594214dfbc60c4ab065c2a28bca6e0eded8f4712a994d0; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> kunigaikščiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "kunigaikščiai: mention_match, thing, gap=48"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"kunigaikščiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-163804
 
@@ -424,19 +207,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-055
   global_id: t-180085
   teiginys: "1864 m. – sąlyginė skiriamoji riba, kai Rusijos caro valdžia nuslopino paskutinį bajorijos vadovautą sukilimą, kuriuo siekta atkurti buvusią Lenkijos ir Lietuvos valstybę."
-  temporaliniai_duomenys: "įvykio data: 1864 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys pilnas ir paaiškina 1864 m. kaip ribos reikšmę Lietuvai."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "183017-183300; hash=c488bffec265d4af0549224bd300b26c82384d911af5b5765d31194b664c0a70; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Bajorai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Bajorai: mention_match, group, gap=72"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-163745
 
@@ -444,16 +214,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-105
   global_id: t-180086
   teiginys: "Michałas Balińskis suprato Lietuvos miestų ir miestiečių luomo vėlyvos raidos priežastis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "15197-15544; hash=f6aa8aa210f3d780c7d5ed18ccf76f2e283f32558f9a23df81a4a76f5deeadb0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aleksandras Balinskis: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Aleksandras Balinskis: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Aleksandras Balinskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-163728
 
@@ -461,16 +221,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-139
   global_id: t-180088
   teiginys: "Tvirtindama pozicijas prieš Kryžiuočių ordiną, Lietuva tais pačiais metais sudarė taiką su Didžiuoju Naugardu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "150057-150594; hash=6db5e522bba1f8f8648238181bc29c5de549d2a9eeedcce5a9b60dbbbcd61f2e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuvos kariuomenė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuvos kariuomenė: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Lietuvos kariuomenė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-163816
 
@@ -478,16 +228,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-069
   global_id: t-180090
   teiginys: "Per nepilnus du nepriklausomybės dešimtmečius Lietuva galutinai tapo lietuviška ir jos nebebuvo galima supainioti nei su Lenkija, nei su Rusija."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "345551-345944; hash=976b7123d81a80a656b31601e7cdc7c2fe8a2e0f93a946d29fb3c45d89a20416; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Rusija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Rusija: mention_match, place, gap=91"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Rusija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-163774
 
@@ -495,21 +235,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-127
   global_id: t-180091
   teiginys: "1430 m. Vytautas į Trakus ir Vilnių sukvietė šiaurės šalių kunigaikščius ir pasiuntinius, ketindamas karūnuotis Lietuvos karaliumi."
-  temporaliniai_duomenys: "įvykio data: 1430 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra išsamus ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "351644-352580; hash=087b648b919e769bd782d13f24e16cd9926e572120a16de8e95b6ffaa4aed41b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Karūna: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Karūna: mention_match, thing, gap=11"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Karūna\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-163756
 
@@ -517,19 +242,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-060
   global_id: t-180092
   teiginys: "XX a. Lietuva apsisprendė atkurti valstybę etnografiniu principu kaip lietuviškai kalbančią Lietuvą."
-  temporaliniai_duomenys: "įvykio data: 1795 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys buvo pernelyg ilgas ir stilistiškai neenciklopedinis."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "249960-250716; hash=7c496db7e73683abc58768f5c4a546225e34181dbd02009c0b6d4f0f3689bd76; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Europa: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Europa: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-163786
 
@@ -537,16 +249,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-029
   global_id: t-180093
   teiginys: "Paplitusi versija Lietuvos vardą kildina iš Lietaukos upelio, įtekančio į Nerį netoli Kernavės, vardo."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "15305-15714; hash=7257e9102ccd68ebfb9728901ab8cf6fecf6bb24dcde7ec364b4be542c073cfe; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietauka: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietauka: mention_match, place, gap=26"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Lietauka\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-163716
 
@@ -554,16 +256,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-047
   global_id: t-180094
   teiginys: "XVI–XVII a. Lietuva buvo šiauriausias katalikiškosios Pietų ir Vidurio Europos kultūrinio pasaulio pakraštys."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "128715-129178; hash=0410c9b709a1cdafbde1720ba8d681b3d60c379ba3952f3f4b5e3ad85a49d7fd; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Europa: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=59"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-163707
 
@@ -571,19 +263,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-134
   global_id: t-180095
   teiginys: "1506 m. rugpjūtį ties Kłecku pasiekta Lietuvos pergalė užkirto Krymo ordai kelią į artimiausias valstybės vaivadijų sostines."
-  temporaliniai_duomenys: "įvykio data: 1506 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra konkretus ir paremtas citatos duomenimis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "2605-3074; hash=a128300b4d7629bf2389c1341e5def6cae04c8636e560291d37df73c1e2891b2; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Krymas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Krymas: mention_match, place, gap=25"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Krymas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-163704
 
@@ -591,21 +270,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-129
   global_id: t-180096
   teiginys: "XIII a., Mindaugui pasiskelbus Lietuvos karaliumi ir siekus priimti Romos tikėjimą, popiežius paskyrė Lietuvai vyskupą."
-  temporaliniai_duomenys: "įvykio data: 1822 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko teiginį, bet pradiniame sakinyje yra antraščių ir fragmentų."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "399984-400634; hash=0d72c98daf366058d2c8e927024dc3bde069c975e792365a54e6d65b38e5c08e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gniezno: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Gniezno: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Gniezno\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-163764
 
@@ -613,17 +277,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-036
   global_id: t-180097
   teiginys: "Lietuva tapo politinės sistemos centru, apie kurį telkėsi ne tik Mindaugo laikais prijungtos Juodosios Rusios ir Polocko žemės, bet ir Lietuvos politinėje įtakoje buvę Voluinė ir Haličas, Kijevas, Pskovas."
-  semantiniai_rysiai: "Voluinė priklausė Lietuva (0.71); Pskovas priklausė Lietuva (0.69)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "53150-53655; hash=81a2b62b2abd9c8f1dbe1ec571270d110f62ea764957025fbb09de6f64f64e90; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Lietuva: 0.71"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Voluinė: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Voluinė buvo Lietuvos politinėje įtakoje."
   pagrindžia:
     - c-163818
 
@@ -631,19 +284,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-101
   global_id: t-180098
   teiginys: "1949 m. vasario 16 d. LLKS tarybos deklaracija numatė atkurti nepriklausomą demokratinę Lietuvos Respubliką."
-  temporaliniai_duomenys: "įvykio data: 1949 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko teiginį, tik sutvarkyta formuluotė į sklandų sakinį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "952120-952612; hash=0ca2e6101587d84d2f0acf3c50d3e410dc1327575583cb03beff037d72e7b27a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Abiejų Tautų Respublika: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Abiejų Tautų Respublika: mention_match, group, gap=9"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Abiejų Tautų Respublika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-163738
 
@@ -651,16 +291,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-119
   global_id: t-180099
   teiginys: "Nutrūkusi prekyba su Rusia ir Prūsija bei nuolatinis priešo pavojus Lietuvos sostinę vertė karine stovykla arba mūšio lauku."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "253218-253802; hash=533b9ef830a2f5cc48eeabec027b701b5fb00d53d59c1c5a62a0f8be1e5aa5fb; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-163801
 
@@ -668,20 +298,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-120
   global_id: t-180100
   teiginys: "Ordino vadovas siekė išardyti Lietuvos ir Lenkijos sąjungą ir 1390 m. sausio 19 d. per komtūrą sudarė sutartį su Vytautu."
-  semantiniai_rysiai: "Kryžiuočių ordinas užėmė Kernavė (0.95)"
-  temporaliniai_duomenys: "įvykio data: 1390 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalintas OCR triukšmas ir paliktas paremtas faktas apie Lietuvą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "257577-258349; hash=6aeb3893558ba7a2ee1240e323d03e0dd762d0c443814bda9c6373330e5146e4; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Kernavė: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Kernavė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Ordino kariauna užėmė Kernavę."
   pagrindžia:
     - c-163770
 
@@ -689,19 +305,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-072
   global_id: t-180101
   teiginys: "1940 m. birželio 14 d. V. Molotovas įteikė J. Urbšiui ultimatumą, reikalaujantį įsileisti neribotus sovietų dalinius ir pakeisti Lietuvos vyriausybę."
-  temporaliniai_duomenys: "įvykio data: 1940 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradiniame teiginyje trūksta aiškaus veikėjo ir datos."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "376933-377661; hash=9c349383807d03dd314aebb7c5d0fbda125e02da11fcd12fea447353551b09d7; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> A. Smetona: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "A. Smetona: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"A. Smetona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-163787
 
@@ -709,16 +312,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-050
   global_id: t-180103
   teiginys: "Ir šiandien vartojama sąvoka „litvakas“ susijusi su gyvenamosios vietos pavadinimu – tai žydas iš Lietuvos (turima omenyje istorinė Lietuva – LDK po Liublino unijos)."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "155293-155651; hash=1c18302ea61ff8852e20bae335f8ed1c4961fad4a9328999595693d2acc5546a; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Liublinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Liublinas: mention_match, place, gap=51"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Liublinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-163812
 
@@ -726,16 +319,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-125
   global_id: t-180104
   teiginys: "Kijevo kunigaikštystė ir Podolė tuo metu priklausė Lietuvai, o Kafa buvo svarbiausias Lietuvos prekybinis uostas prie Juodosios jūros."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "342019-342396; hash=a90f0d345d10344515abea07e1d72004d00ae594e50ac5e7357ec822dbe284d3; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kafa: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kafa: mention_match, place, gap=12"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Kafa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-163709
 
@@ -743,20 +326,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-143
   global_id: t-180105
   teiginys: "1392 m. Vytautas atsisakė sąjungos su Ordinu, susitaikė su Jogaila ir lenkais ir gavo valdyti visą Lietuvą."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) valdė Lietuva (0.92); Vytautas (Lietuvos valdovas, XIV–XV a.) buvo sąjungininkas su Jogaila (kunigaikštis, XIV–XV a.) (0.78); Vytautas (Lietuvos valdovas, XIV–XV a.) buvo sąjungininkas su Lenkai (0.75)"
-  temporaliniai_duomenys: "įvykio data: 1392 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "293914-294293; hash=a63b90cce5977434dcf79316ac7698b356c502ffacfc4cc008be18137035600d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde -> Lietuva: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad Vytautas gavo valdyti visą Lietuvą."
   pagrindžia:
     - c-163824
 
@@ -764,12 +333,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-068
   global_id: t-180107
   teiginys: "Naujieji 160 000 ūkininkų padidino Lietuvos pasėlių plotus trečdaliu, o 1938 m. Lietuva eksportavo 132 000 tonų grūdų pertekliaus."
-  temporaliniai_duomenys: "įvykio data: 1938 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Ilgas teiginys sutrumpintas iki pagrindinių citata paremtų faktų."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "328198-328590; hash=db57da6b3c7c589e232e30c0ec2bafe84ce157de6734a57661e939eb3ebb5706; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-163726
 
@@ -777,20 +340,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-143
   global_id: t-180108
   teiginys: "Lietuvos bajorija jautėsi sudaranti vieną luomą su Lenkijos bajorija, bet Lietuva pati rūpinosi savo gynyba ir sutartimis."
-  semantiniai_rysiai: "Lietuvos bajorija buvo sąjungininkas su Lenkijos bajorija (0.74)"
-  temporaliniai_duomenys: "įvykio data: 1600 m.; įvykio data: 1655 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sutvarkyta gramatika ir sutrumpinta iki aiškaus fakto apie Lietuvą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "562907-563417; hash=1eb13a29978604993a895a50812759bf5b47beabc3c443aa4cd29c92cae68017; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sajungininkas_su -> Lenkijos bajorija: 0.74"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuvos bajorija: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lenkijos bajorija: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata nurodo bendrą Lietuvos ir Lenkijos bajorijos luomą, tai pagrindžia socialinį-politinį artimumą."
   pagrindžia:
     - c-163723
 
@@ -798,19 +347,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-138
   global_id: t-180109
   teiginys: "Mykolo Balinskio veikalas laikomas informacijos šaltiniu apie ikikrikščionišką Lietuvos valstybės istoriją."
-  temporaliniai_duomenys: "įvykio data: 1836-1837; įvykio data: 1837 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko teiginį apie Lietuvos istoriją, bet pradinė formuluotė yra apie leidinį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "112488-112843; hash=3a703b14771f885b9e4bc1be232c22c93251baf6829a6ccae7d6e41ba2f34469; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aleksandras Balinskis: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Aleksandras Balinskis: mention_match, person, gap=72"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Aleksandras Balinskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-163765
 
@@ -818,19 +354,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-070
   global_id: t-180110
   teiginys: "1939 m. Kauno sporto halėje Lietuvos vyrų krepšinio rinktinė antrą kartą tapo Europos čempione."
-  temporaliniai_duomenys: "įvykio data: 1939 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pataisyta gramatinė derinimo forma pagal Lietuvos rinktinę."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "355508-356305; hash=c666cb358d30d386c28a40c13f0da9fdce37dd7510c94a2357fb89ab345feb8c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> A. Smetona: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "A. Smetona: mention_match, person, gap=33"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"A. Smetona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-163793
 
@@ -838,16 +361,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-131
   global_id: t-180115
   teiginys: "Po Vytauto mirties Vladislovas Jogaila netrukus paskyrė savo vietininką Lietuvai."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "90988-91358; hash=66d3277f451975f3f4accf708c3a19e91bf2f7a9f3e5d12c7c9f86eeac60410a; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=41"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-163739
 
@@ -855,19 +368,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-097
   global_id: t-180116
   teiginys: "Vakarams skirtoje korespondencijoje Lietuva buvo vadinama karalyste."
-  temporaliniai_duomenys: "įvykio data: 1387 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra gramatinis, aiškus ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "55048-55410; hash=9a46275050a6e8d300424d3a390ff624d8052aa1e20f097aa61498bb2f07808a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vokiečiai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Vokiečiai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Vokiečiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-163822
 
@@ -875,17 +375,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-051
   global_id: t-180117
   teiginys: "Per Šiaurės karą Lietuva ir Lenkija ekonomiškai ir politiškai nusilpo, o jų teritorijas nuniokojo kariuomenės."
-  semantiniai_rysiai: "Švedai puolė Palanga (0.70)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "159436-160072; hash=701e159cb0c05846bdeb3fe9ee7c9d4427c6f8ed3c86f68729eb97f8883679ad; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Palanga: 0.70"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Švedai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Palanga: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Švedai tiesiogiai įvardyti kaip sugriovę Lietuvos uostus Palangoje, tai karinio niokojimo veiksmas."
   pagrindžia:
     - c-163706
 
@@ -893,16 +382,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-140
   global_id: t-180118
   teiginys: "Vytauto karūnacija galėjo visiškai išvaduoti Lietuvą iš Lenkijos ir sumažinti Lenkijos galią Europoje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "153162-153686; hash=c54751fd984c3928c37b0df3fdc615287384992e6dcc4c8e7c857f3fe1531e4b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Europa: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=48"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-163792
 
@@ -910,19 +389,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-015
   global_id: t-180119
   teiginys: "Taigi Gedimino valdoma Lietuvos valstybė XIV a."
-  semantiniai_rysiai: "Gediminas valdė Lietuva (0.91)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "36953-37611; hash=409ce5f8b7621e5723289c8587b15f34bb9250afe8d7d42ac01bdfc1855788ec; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde -> Lietuva: 0.91"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Gedimino valdomą Lietuvos valstybę."
-  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
-  vertinimo_autorius: "claim_quality_pipeline / rewrite"
   pagrindžia:
     - c-163751
 
@@ -930,19 +396,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-049
   global_id: t-180120
   teiginys: "Nuo 1586 m. Nesvyžiaus jėzuitų bažnyčios iki 1784–1787 m. Vilniaus katedros fasado skulptūrų Lietuva gyveno baroko dvasia."
-  temporaliniai_duomenys: "gyvenimo laikotarpis: po 1586 m.; gyvenimo laikotarpis: 1586 m.; gyvenimo laikotarpis: 1784-1787; gyvenimo laikotarpis: 1787 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip gyvenimo laikotarpis su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „gyvenimo laikotarpis“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys pilnas ir paremtas citata apie baroko laikotarpį Lietuvoje."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "151288-151717; hash=abd0eb86f6c82b798941919882860858ebefcd2db5602787105e0fa4c53a17b5; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-163695
 
@@ -950,16 +403,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-137
   global_id: t-180121
   teiginys: "Žygimantas Augustas įsakė lietuvišką monetą, kainavusią du lietuviškus grašius, imti už pustrečio lenkiško grašio."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "304644-305023; hash=cfe04789c22c9eb0790151e75ea283930299bf8f86195c82814c31c6f75e50b6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Augustas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Augustas: mention_match, person, gap=15"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Augustas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-167243
 
@@ -967,16 +410,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-116
   global_id: t-180123
   teiginys: "Gedimino laiškų netikrumo įrodymu laikyta užuomina, kad svetimšaliai per Mazoviją galėjo saugiai vykti į Lietuvą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "216636-217137; hash=05c782ead10b40e229ed506b89732462152df5be8623654cfcbd9550faa8d7b3; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gediminas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=105"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-163729
 
@@ -984,16 +417,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-111
   global_id: t-180124
   teiginys: "Gediminas savo valstybėje turėjo dvi skirtingų kalbų ir religijų tautas: lietuvius ir rusus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "75703-76449; hash=986f056cd8d133314cfb2ea02a9a055d09224097dc18ec6fa71f67ac711856d3; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-163703
 
@@ -1001,16 +424,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-139
   global_id: t-180125
   teiginys: "Ūkiai Lietuvoje buvo netvarkyti nuo senų senovės."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "287878-288275; hash=7782779c6df53fce97fb7cbf0e30016017e31e9d46015f5f72200a712cd3666f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuvos kariuomenė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuvos kariuomenė: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Lietuvos kariuomenė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-163826
 
@@ -1018,19 +431,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-067
   global_id: t-180126
   teiginys: "1923 m. rugsėjo 17 d. pirmojo Lietuvos gyventojų surašymo duomenimis, Lietuvoje be Vilniaus ir Klaipėdos kraštų buvo 2 028 971 gyventojas."
-  temporaliniai_duomenys: "įvykio data: 1923 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys perrašytas be neaiškios nuorodos „jų“ ir su aiškiu objektu."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "302072-302572; hash=d1bdba427d9696b58ec8d2c656c00af69b1db590618c6d54b0925b39cd4ffa7d; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-163735
 
@@ -1038,19 +438,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-034
   global_id: t-180128
   teiginys: "1219 m. Lietuvoje vyriausiojo kunigaikščio dar nebuvo, bet 1245–1246 m. Mindaugas jau vadintas aukščiausiuoju karaliumi."
-  temporaliniai_duomenys: "įvykio data: 1219 m.; įvykio data: 1235 m.; įvykio data: 1240 m.; įvykio data: apie 1240 m.; įvykio data: 1245-1246"
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
-  temporalinis_llm_pakomentavimas: "Teiginys pilnas ir paremtas citata apie Lietuvos suvienijimo požymius."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "44136-44673; hash=e62aeab466d68562150cdc59c8f37b94819b615c0ea7ead2f721aea5c7f4ce20; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Rusai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Rusai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-163761
 
@@ -1058,16 +445,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-109
   global_id: t-180129
   teiginys: "Pasak citatos, Lietuvos vardas Europai tapo žinomas tik X amžiuje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "49422-50239; hash=8b5ad07ed3b365db9030d3b44782d01037fd87145ef98951553a781641d02183; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Europa: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=16"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-163743
 
@@ -1075,16 +452,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-030
   global_id: t-180130
   teiginys: "Manoma, kad jei ne vokiečių puolimas, slavų ekspansija, Lietuvos valstybė ir Lietuvos vardas būtų aprėpęs gerokai platesnes (gal net visas) baltų genčių žemes."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "17396-17988; hash=29d9e9c95f900c0f68749461ac0509fe065190d4187e6365d5ef90d0ecb88dc2; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Baltai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Baltai: mention_match, group, gap=84"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Baltai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-163722
 
@@ -1092,17 +459,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-115
   global_id: t-180131
   teiginys: "Gedimino misija popiežiui pranešė apie valdovo ryžtą pereiti į naują tikėjimą ir prašė siųsti mokytų tikėjimo vyrų į Lietuvą."
-  semantiniai_rysiai: "Gediminas siuntė į Lietuva (0.65); Gediminas siuntė į Livonija (0.62)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "174288-175183; hash=a0016b9d52fe1aad71050fbdcbeadbf7a74bcaf263914228708704a5ee204d48; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "siunte_i -> Lietuva: 0.65"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Gedimino misija prašė atsiųsti tikėjimo vyrų į Lietuvą; subjektas inferuojamas iš Gedimino ryžto ir prašymo."
   pagrindžia:
     - c-163700
 
@@ -1110,19 +466,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-037
   global_id: t-180132
   teiginys: "Iki Jogailos tapimo Lenkijos karaliumi 1386 m. Lietuva gali būti vadinama savotiška arba nesistemine karalyste."
-  temporaliniai_duomenys: "įvykio data: 1386 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalinta kontekstinė pradžia ir suformuluotas enciklopedinis sakinys."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "58027-58439; hash=a4b7162dec30d3a0afcee6ccac18eed52d26373d481edf24302c8e2e30b65ac4; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=27"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-163771
 
@@ -1130,17 +473,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-038
   global_id: t-180135
   teiginys: "Kryžiaus karai prieš Lietuvą iš dalies paaiškina Lietuvos ekspansiją į mongolų nuteriotas Kijevo Rusios žemes ir jų pajungimą – taip buvo kaupiami ištekliai kovai Vakaruose."
-  semantiniai_rysiai: "Algirdas (Lietuvos valdovas) valdė Lietuva (0.86)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "59411-59885; hash=5fdca1f487e60992229206a6c02ebbbf998b7c9ff11e67b5f3b5cf015314c33c; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde -> Lietuva: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata aiškiai nurodo Lietuvos valdymą Algirdo laikotarpiu."
   pagrindžia:
     - c-163782
 
@@ -1148,19 +480,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-142
   global_id: t-180136
   teiginys: "Lietuvos delegacija pareiškė nepripažįstanti Zigmanto didžiuoju kunigaikščiu, nes jis buvo išrinktas be lietuvių."
-  temporaliniai_duomenys: "įvykio data: 1569 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūksta sąraše, todėl paliktas pilnas ir citatos paremtas faktas."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "529137-530001; hash=630635a92c1db730cb35f7ff2b57e2be1b9218dc1973b15815f18e9571c682a4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Zigmantas (Romos imperatorius): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Zigmantas (Romos imperatorius): mention_match, person, gap=45"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Zigmantas (Romos imperatorius)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-163746
 
@@ -1168,19 +487,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-035
   global_id: t-180137
   teiginys: "Mindaugo karūnacija užbaigė Lietuvos valstybės susikūrimą, nes Lietuvą pripažino to meto pasaulis."
-  temporaliniai_duomenys: "įvykio data: 1952-1953; įvykio data: 1953 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys pilnas ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "46803-47263; hash=f14c6deffde549f2372813abe588055b30c2c6a7eadccfedc6c9e288381cc2f3; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-163800
 
@@ -1188,17 +494,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-121
   global_id: t-180138
   teiginys: "Kryžiuočiai, įsibrovę į Lietuvą su Vytauto pulkais, užėmė Kernavę ir Maišiagalą, bet Vilniaus neužėmė."
-  semantiniai_rysiai: "Kryžiuočių ordinas užėmė Kernavė (0.95)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "257832-258735; hash=69ceb257420d1882725db16cb397a50661f97d13da62e3766431284ac079ec91; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Kernavė: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Kernavė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Kernavės užėmimas tiesiogiai priskirtas kryžiuočių kariaunai."
   pagrindžia:
     - c-163741
 
@@ -1206,16 +501,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-017
   global_id: t-180139
   teiginys: "Dusburgietis, aprašydamas lietuvių puolimus, grindė būtinybę kariauti prieš Lietuvą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "44592-45020; hash=7550b52f89566620f5ec2f13f9217d6beae58e72a297245a03d37fb4575872d5; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-163698
 
@@ -1223,12 +508,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-090
   global_id: t-180140
   teiginys: "Praradusi senas rinkas, Lietuvos ekonomika 1992–1994 m. patyrė sukrėtimą, o 1993 m. realusis BVP sudarė 40 proc. 1988 m. BVP."
-  temporaliniai_duomenys: "įvykio data: 1988 m.; įvykio data: 1992-1994; įvykio data: 1993 m.; įvykio data: 1994 m.; įvykio data: po 1995 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data."
-  temporalinis_llm_pakomentavimas: "Teiginys pilnas ir tiksliai pateikia ekonomikos nuosmukio duomenį."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "513281-513466; hash=ced0bc39f29f46a678eb966199602885c72593fdef60e17df4c61eb0efd2a01a; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-163748
 
@@ -1236,19 +515,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-071
   global_id: t-180141
   teiginys: "Lietuva 1939 m. sausio 10 d. ratifikavo neutralumo įstatymą, bet toliau manevravo tarp Varšuvos, Maskvos ir Berlyno."
-  temporaliniai_duomenys: "įvykio data: 1938 m.; įvykio data: 1939 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "368507-369201; hash=9df69e10fbec65427c144c9b4e85f9782d41de4b0f0aa698bf643e62fb86e485; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Berlynas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Berlynas: mention_match, place, gap=108"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Berlynas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-163778
 
@@ -1256,16 +522,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-084
   global_id: t-180142
   teiginys: "Lietuvos nepriklausomybės atkūrimo tikslas skatino vienytis lietuvių diplomatus ir išeiviją."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "467123-467751; hash=e7bd9b217856401c3147119b5ba60ab036a0e38a6bcd81b04e606050a42cb21d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-163758
 
@@ -1273,19 +529,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-053
   global_id: t-180143
   teiginys: "Sukilimo pralaimėjimas pagreitino finalą – 1795 m. spalio 24 d. Peterburge Rusija, Austrija ir Prūsija pasirašė konvenciją dėl trečiojo Lenkijos ir Lietuvos valstybės padalijimo."
-  temporaliniai_duomenys: "įvykio data: 1795 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys pilnas ir tiksliai aprašo trečiąjį valstybės padalijimą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "179188-179617; hash=c3273f0aada520e83c06c116740c13aa2cd0ac5549d0c1fe04c0894d61c6df1c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Austrija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Austrija: mention_match, place, gap=65"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Austrija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-163803
 
@@ -1293,16 +536,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-031
   global_id: t-180144
   teiginys: "Modernioji Lietuvos vardo samprata vis labiau siejo Lietuvą su lietuvių kalbos vartojimu."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "20642-21019; hash=363a3bda4a4c62230552362d7f2515457a97bec0b76bae311fe1f8ee9932f353; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-163719
 
@@ -1310,16 +543,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-042
   global_id: t-180145
   teiginys: "Vytautas kovojo ne su Vakarais, o dėl Lietuvos vietos Vakaruose ir padėjo pagrindus Lietuvos tapsmui Europos dalimi."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "88042-88507; hash=cfb04707672cd180f531dca60fa41a1c1c155cfc8e2792c26daeee80af4eaaa1; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Europa: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=63"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-163802
 
@@ -1327,19 +550,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-081
   global_id: t-180146
   teiginys: "Nuo 1944 m. vasaros sovietų represijos ir teroras skatino lietuvių pasipriešinimą, todėl kilo partizaninis karas dėl Lietuvos nepriklausomybės atkūrimo."
-  temporaliniai_duomenys: "įvykio data: po 1944 m.; įvykio data: 1944 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys pilnas ir aiškiai sieja represijas su partizaniniu karu."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "427467-427786; hash=d84caf633d6cd20e47ac1e72c5af90655f5a5950e59daa3cf722702314e424d5; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-163711
 
@@ -1347,16 +557,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-140
   global_id: t-180148
   teiginys: "Tačiau lietuviai visą laiką reikalavo, kad seimai būtų šaukiami ir Lietuvoje ar bent pasienyje."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "304644-305023; hash=cfe04789c22c9eb0790151e75ea283930299bf8f86195c82814c31c6f75e50b6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-163760
 
@@ -1364,16 +564,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-133
   global_id: t-180149
   teiginys: "Aleksandro planai žlugo, nes totoriai netrukus su didelėmis pajėgomis įsiveržė į Lietuvą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "255822-256575; hash=13fa6c6a9b4d96e2df78a9a1255627716208f4adc5662cb8c801a911a6dd7f82; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Iki gyvos galvos: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Iki gyvos galvos: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Iki gyvos galvos\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-163783
 
@@ -1381,16 +571,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-137
   global_id: t-180150
   teiginys: "Lietuva savo suvažiavimus laikė savitais seimais, kurie skyrėsi nuo Lenkijos provincijų seimelių."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "293914-294293; hash=a63b90cce5977434dcf79316ac7698b356c502ffacfc4cc008be18137035600d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=68"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-163767
 
@@ -1398,16 +578,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-122
   global_id: t-180151
   teiginys: "Kryžiuočiai svetimtaučius įtikino, kad visa Lietuva tebėra pagonių šalis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "259944-260468; hash=fbd34d2bb97925978fc21d73c6661e527dd67b6262cfacd098f54a364d658da7; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Anglija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Anglija: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Anglija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-163732
 
@@ -1415,17 +585,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-112
   global_id: t-180152
   teiginys: "Pasak teksto, lietuvių tauta pirmiausia Dievui nusilenkė Vilniuje, kai Petras Goštautas pakvietė Šv. Pranciškaus vienuolius."
-  semantiniai_rysiai: "Petras Goštautas siuntė į Vilnius (0.82); Algirdas (Lietuvos valdovas) valdė Brasta (0.72); Algirdas (Lietuvos valdovas) valdė Možaiskas (0.72)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "87690-88431; hash=3e6ac17ef88129f57a65937d1731fa028ad9ebcb4c6a6b8f56d19012b26a6ff1; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "siunte_i -> Vilnius: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Petras Goštautas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Petras Goštautas atkvietė vienuolius į Vilnių."
   pagrindžia:
     - c-163797
 
@@ -1433,16 +592,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-061
   global_id: t-180153
   teiginys: "Lietuvos politinių grupuočių teritorinės aspiracijos apėmė etnines lietuvių žemes Vilniaus, Kauno, Suvalkų ir Gardino gubernijose bei dalį Kuršo."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "255260-255925; hash=6b6982d4119ee3c04ddb92f38e5283823b2c257356b4725dc6a3567ca0e225c0; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gardinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Gardinas: mention_match, place, gap=110"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Gardinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-163731
 
@@ -1450,19 +599,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-104
   global_id: t-180154
   teiginys: "1838 m. Mykolas Balinskis aiškino rusų valdžiai, kad jo Vilniaus istorijos veikalo tikslas buvo Lietuva ir jos senoji sostinė."
-  temporaliniai_duomenys: "įvykio data: po 1818 m.; įvykio data: 1818 m.; įvykio data: 1838 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko aiškesnį sakinį be nutrūkusios citatos."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "14074-14669; hash=b12e661945b1087d667945e294b7b3f748f927cc22d5bca5e8e85b38358df781; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aleksandras Balinskis: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Aleksandras Balinskis: mention_match, person, gap=80"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Aleksandras Balinskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-163747
 
@@ -1470,19 +606,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-052
   global_id: t-180155
   teiginys: "Po antrojo LLV padalijimo Lietuvos Didžiajai Kunigaikštijai liko tik etninės lietuvių ir vakarinės baltarusių žemės."
-  temporaliniai_duomenys: "įvykio data: 1793 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys pilnas ir tiesiogiai apie LDK teritorijos likutį po padalijimo."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "176585-177002; hash=06930a6ef4321383c3d00b77209633923ce05abcceb36d57e198a67440494bcd; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Baltarusiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Baltarusiai: mention_match, group, gap=73"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Baltarusiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-163809
 
@@ -1490,9 +613,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-091
   global_id: t-180156
   teiginys: "Masinis nedarbas paskatino masinę Lietuvos gyventojų emigraciją."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "519528-519737; hash=0e0e0dbe13128741c4fc5ffc31b6a340215e68fab7d174b2c944a34e2e8a01b6; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-163721
 
@@ -1500,19 +620,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-136
   global_id: t-180157
   teiginys: "1570 m. Lietuvos monetos buvo keičiamos į lenkiškus pinigus, fiksuojant dėl to patirtus nuostolius."
-  temporaliniai_duomenys: "įvykio data: 1570 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko faktą, bet pradiniame teiginyje yra antraštės triukšmo."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "53648-54054; hash=6138d077c877dafb659cafc9afe216f7c9baeb84658ccd07f028496bfb1069e2; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Monetos: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Monetos: mention_match, thing, gap=9"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Monetos\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-163796
 
@@ -1520,19 +627,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-132
   global_id: t-180158
   teiginys: "Nuo 1503 m. totoriai vis drąsiau puldinėjo Lietuvos žemes paskutiniaisiais Aleksandro valdymo metais."
-  temporaliniai_duomenys: "įvykio data: po 1503 m.; įvykio data: 1503 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškus, faktinis ir paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "93489-93794; hash=cd1575948bbda319726eb51efbc7f66e242a207467e64918008688147e67a14e; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Nemunas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Nemunas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Nemunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-163718
 
@@ -1540,19 +634,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-032
   global_id: t-180159
   teiginys: "Lietuvos Didžioji Kunigaikštija buvo sukurta XIII a. viduryje."
-  temporaliniai_duomenys: "įvykio data: 1253 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys pilnas ir tiesiogiai apie Lietuvos Didžiosios Kunigaikštijos sukūrimą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "23104-23687; hash=fde006f6ec75c59cff61c6ce2a352719847283509ffa6c16fbd8c95f7bce21cf; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-163775
 
@@ -1560,19 +641,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-077
   global_id: t-180160
   teiginys: "1941 m. birželio 22 d. prasidėjus Vokietijos ir Sovietų Sąjungos karui, Lietuvą vokiečiai užėmė per tris dienas, todėl sovietai tik kai kuriuos politinius kalinius paskubomis išgabeno iš Lietuvos."
-  temporaliniai_duomenys: "įvykio data: 1941 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys pilnas ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "392961-393611; hash=78200207aee6e42bf6c9da1e22bc82c292f1e30e3da38bdaf701b86a1f4cc81c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vokiečiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Vokiečiai: mention_match, group, gap=8"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Vokiečiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-163827
 
@@ -1580,16 +648,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-027
   global_id: t-180162
   teiginys: "Lietuvoje yra geografinis Europos centras, kurį Prancūzijos nacionalinis geografijos institutas lokalizavo 25 km į šiaurę nuo Vilniaus."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "12492-13287; hash=540630f6aa2dbfc3689e2749332d17d7eac7b1010e0217e7ff92aef0f62d59e5; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Europa: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=26"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-163768
 
@@ -1597,19 +655,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-073
   global_id: t-180163
   teiginys: "1940 m. vasarą Sovietų Sąjunga okupavo Lietuvą, Latviją ir Estiją, prievarta įvedė tariamai demokratinį valdymą ir įjungė jas į SSRS."
-  temporaliniai_duomenys: "įvykio data: 1940 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys pilnas ir aiškiai aprašo 1940 m. sovietinę okupaciją."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "381409-382426; hash=86f62c1033091ee1989eb25602ee63baf265ff86f8bc6cccdcbc1979d69089a3; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Latvija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Latvija: mention_match, place, gap=9"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Latvija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-163795
 
@@ -1617,16 +662,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-063
   global_id: t-180164
   teiginys: "Lietuvos delegacija tarptautiniame forume memorandumais, straipsniais ir pasisakymais kėlė Lietuvos valstybės pripažinimo klausimą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "271366-272212; hash=efe47fb8ac057e6592a10ad9aed8b761721fb4fce4abf4cd50931179cdccd050; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Estai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Estai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Estai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-163708
 
@@ -1634,16 +669,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-141
   global_id: t-180165
   teiginys: "XVI a. pabaigoje protestantizmas Lietuvoje buvo labai įsigalėjęs tarp didikų ir miestiečių."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "527290-527685; hash=e9e560822e57096b0d890bed89a0f9077caedeadccd48fc1deeb3b7c0043b23f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> protestantizmas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "protestantizmas: mention_match, thing, gap=16"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"protestantizmas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-163794
 
@@ -1651,16 +676,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-044
   global_id: t-180166
   teiginys: "Čekijai pasitraukus iš Jogailaičių dinastinės sistemos, joje liko Lenkija ir Lietuva."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "98465-98736; hash=3be692309adb0d6e4dc7dc98a8dc7fcf7581634b19f956a9691551fe4f1f896e; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jogailaičiai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Jogailaičiai: mention_match, group, gap=54"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Jogailaičiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-163712
 
@@ -1668,16 +683,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-085
   global_id: t-180169
   teiginys: "Sąjūdis įvykdė rinkimų programos dalį, susijusią su Lietuvos valstybės nepriklausomybės atkūrimu ir jos piliečių atskyrimu nuo sovietų jurisdikcijos."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "499171-499761; hash=00e85980200df155b453857dbf7666c7814967a15aa2bcd85bf873c1290bc509; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-163773
 
@@ -1685,19 +690,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-075
   global_id: t-180170
   teiginys: "Okupantų paskirto Liaudies seimo nutarimai panaikinti Lietuvos valstybingumą ir prašytis į SSRS buvo neteisėti."
-  temporaliniai_duomenys: "įvykio data: 1940 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradiniame teiginyje yra iliustracijos antraštės triukšmas."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "389084-389509; hash=4eef0714175c9cfd23458511ef2c93b821b9309dc5aff5f4b0407e6d7c37bc85; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-163789
 
@@ -1705,19 +697,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-083
   global_id: t-180171
   teiginys: "Lietuvos diplomatai padėjo išlaikyti okupuotos Lietuvos politinį atminimą tarptautinėje sąmonėje."
-  temporaliniai_duomenys: "įvykio data: iki 1940 m.; įvykio data: 1940 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys buvo metaforiškas; perrašyta į aiškų enciklopedinį sakinį."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "463007-463531; hash=49d2df7fd1bca568046a20b878bdd0894de8c5ef243809ef5316134e2e9dd44d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> primus inter pares: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "primus inter pares: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"primus inter pares\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-163754
 
@@ -1725,16 +704,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-107
   global_id: t-180172
   teiginys: "Kaunas, vadintas vartais į pagoniškąją Lietuvą, buvo miestas, pagarsėjęs tvirtovėmis ir prekyba."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "41761-42203; hash=afa233a538d0a591a46602d6351cc971af4622dd63e90727ec0e24bf158a93d4; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Bajorai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Bajorai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-163777
 
@@ -1742,19 +711,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-056
   global_id: t-180173
   teiginys: "1897 m. surašymo duomenimis, gyventojų skaičius maždaug dabartinės Lietuvos ribose (be Klaipėdos krašto) siekė apie 2,7 mln."
-  temporaliniai_duomenys: "įvykio data: 1897 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys pilnas ir pateikia citatoje nurodytą gyventojų skaičių."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "229114-229506; hash=2902c20c811af68674961311dc3d35989de1f15e05379ea067f8ee46b06eb76d; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-163813
 
@@ -1762,19 +718,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-089
   global_id: t-180175
   teiginys: "1992 m. Konstitucijos preambulė Lietuvos valstybės teisės pamatus siejo su Lietuvos Statutais ir Lietuvos Respublikos konstitucijomis."
-  temporaliniai_duomenys: "įvykio data: 1992 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Ilgas teiginys sutrumpintas ir aiškiai susietas su Konstitucija."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "509873-510740; hash=f550b44d8fb97571b1cf45ca8562e5331b8a403adda6ad00539369f0f62e7a93; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Abiejų Tautų Respublika: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Abiejų Tautų Respublika: mention_match, group, gap=74"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Abiejų Tautų Respublika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-163757
 
@@ -1782,18 +725,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-126
   global_id: t-180176
   teiginys: "Vytautas įvairiais būdais stiprino savo aukščiausią valdžią Lietuvoje ir atkakliai šalino kliūtis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "343753-344298; hash=df89d7d6cd1a20aef3e159ff329d0e11be693544b8d9328706fe4a7a249441e6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): mention_match, person, gap=60"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-163696
 
@@ -1801,16 +732,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-095
   global_id: t-180178
   teiginys: "Sėkmingai dalyvaudama įvairiose NATO ir ES veiklos srityse, Lietuva akivaizdžiai sustiprino savo saugumą ir tarptautinį statusą, sutvirtėjo ekonomiškai."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "538346-538670; hash=4c3838380e7611a4946b381f5ffdcd1c80e5d44586681c4b4fd11ce4da57fc86; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Europa: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Europa: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-163744
 
@@ -1818,19 +739,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-078
   global_id: t-180179
   teiginys: "Vokiečių vermachtui įžengiant į Lietuvą, daug lietuvių jį sutiko palankiai, kai kurie net su gėlėmis rankose."
-  temporaliniai_duomenys: "įvykio data: 1940 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys pilnas ir aprašo lietuvių reakciją į vermachto įžengimą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "394258-394954; hash=e70622a6c2ca4fbf4c5be204e14bf08323acc279712b6fba1d68b2a1d33ff152; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-163730
 
@@ -1838,16 +746,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-057
   global_id: t-180180
   teiginys: "Suvažiavimas priėmė rezoliuciją, kurioje reikalauta suteikti Lietuvai politinę autonomiją ir Vilniuje rinkti Seimą visuotiniu balsavimu."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "236857-237279; hash=f924f8d5a78012672de6720314a4cd4362772dbffa26f5802e5672c8ff6e24b9; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-163772
 
@@ -1855,16 +753,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-046
   global_id: t-180181
   teiginys: "J. J. Chodkevičius apgynė LDK antspaudus ir paliko galimybę išsaugoti Lietuvos valstybingumą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "125608-126016; hash=1e1d400158dff16bb4b6aabb858d0c73e100c8d6e8ffe8ac9be15d3b67c0cf09; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Antspaudai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Antspaudai: mention_match, thing, gap=40"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Antspaudai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-163769
 
@@ -1872,19 +760,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-014
   global_id: t-180183
   teiginys: "1219 m. priešmindauginė Lietuva, greičiausiai valdoma Živinbudo ir susijungusi su Žemaitija, sudarė sutartį su Volyne."
-  temporaliniai_duomenys: "įvykio data: 1205 m.; įvykio data: 1210 m.; įvykio data: 1218 m.; įvykio data: 1219 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir perteikia citatoje pateiktą atsargią išvadą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "15828-16543; hash=d38af3c06ab0633cfffd6fe7a9448dd935bce19c915ee78e0cf7e80cdbb5cde8; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Volynė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Volynė: mention_match, place, gap=87"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Volynė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-163780
 
@@ -1892,16 +767,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-141
   global_id: t-180184
   teiginys: "Zigmantas siūlė Jogailai karūnuoti Vytautą, nes Vytautas buvo nusipelnęs Lietuvai įvesdamas joje krikščionybę."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "159909-160116; hash=dba6f039f29c1829b7e060ec351c69c5eb72f003b992b3b7526fe30fc6966527; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): mention_match, person, gap=38"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-163799
 
@@ -1909,16 +774,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-066
   global_id: t-180186
   teiginys: "Steigiamojo Seimo rinkimai Vilnijoje ir Mažojoje Lietuvoje nevyko, nes Lietuva tų teritorijų nekontroliavo."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "295544-295952; hash=064251821351eab412268d2b16c50994eb19b5590dc7aa81524e71d2929932bf; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kaunas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kaunas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-163825
 
@@ -1926,16 +781,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-138
   global_id: t-180188
   teiginys: "Lietuvai ir Lenkijai seimų konstitucijos buvo rašomos atskirai, o vienos valstybės konstitucija kitoje negaliojo be specialaus priėmimo."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "313596-314060; hash=834de43b0d9f2eef90bb95ae7dcbcd10a6c610a93df636207cc28218cae01799; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=12"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-13427
 
@@ -1943,16 +788,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-016
   global_id: t-180189
   teiginys: "Žygio prieš Lietuvą metu Karaliaučiaus komtūrui Albertui meldžiantis, kronikoje aprašytas viešpaties kūno pasirodymas paplotėlio pavidalu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "41509-41920; hash=4a600ae313f909e155e5ab566c30d2b0fee876f79a111dc275f71a0db48aa957; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kūnas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kūnas: mention_match, person, gap=89"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Kūnas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-163784
 
@@ -1960,16 +795,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-058
   global_id: t-180190
   teiginys: "Lietuvos demokratų programinis idealas – nepriklausoma demokratinė Lietuvos Respublika lietuvių istorinių etnografinių žemių ribose, „su teisingu turto paskirstymu“ ir federacijos ryšiais susijusi su gretimomis demokratinėmis valstybėmis."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "242961-243530; hash=0ad52f63345a6b1d4fb99d005508f8fa8ca536d82c06afbf16997a1eea74b278; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Abiejų Tautų Respublika: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Abiejų Tautų Respublika: mention_match, group, gap=76"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Abiejų Tautų Respublika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-163702
 
@@ -1977,20 +802,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-118
   global_id: t-180192
   teiginys: "1388 m. dokumente Skirgaila save vadino Lietuvos kunigaikščiu ir Trakų bei Polocko valdovu."
-  semantiniai_rysiai: "Skirgaila buvo valdovas Lietuva (0.95)"
-  temporaliniai_duomenys: "įvykio data: 1388 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Iš footnote fragmento suformuluotas aiškus faktas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "252636-252995; hash=dc013424558156e5ce295aa85c812d1b2020a37e9a12b73ff4d0af2d1f1cfee4; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_valdovas -> Lietuva: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Skirgaila: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Dokumente Skirgaila tiesiogiai vadinamas didžiuoju Lietuvos kunigaikščiu."
   pagrindžia:
     - c-163815
 
@@ -1998,16 +809,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-043
   global_id: t-180193
   teiginys: "Vytauto politika pašalino didžiuosius pavojus Lietuvos valstybei, įteisino jos egzistenciją ir padėjo jai pritapti Europoje."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "95227-95745; hash=d9c2fbfe1624aa4a1207f601b58525d50988a4974441ceaa7e8b076ee3560d9a; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Europa: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=69"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-163720
 
@@ -2015,16 +816,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-018
   global_id: t-180195
   teiginys: "Aprašant XIV a. pradžios įvykius, kronikoje plačiau minimi karo žygių į Lietuvą sunkumai ir atsakomieji lietuvių smūgiai."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "79318-79692; hash=892d6653efc4bb8adbdb521b5013c480810d3dd6704e16f3ca9aa03fe0c16b11; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-163819
 
@@ -2032,19 +823,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-065
   global_id: t-180198
   teiginys: "1921 m. rugsėjo 22 d. Lietuva buvo priimta į Tautų Sąjungą, nors didžiosios Vakarų valstybės dar negarantavo Lietuvos pripažinimo de jure."
-  temporaliniai_duomenys: "įvykio data: 1921 m.; įvykio data: 1922 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys pilnas ir tiksliai nurodo Lietuvos priėmimą į Tautų Sąjungą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "283540-283936; hash=dbcfaa7b1cba7ae84ab975b07929bb973e5caf9b0742603955f87757147dee22; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Antantė: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Antantė: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Antantė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-163776
 
@@ -2052,19 +830,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-074
   global_id: t-180199
   teiginys: "1940 m. birželio 16 d. sovietų divizijos, žygiuodamos per Lietuvą, strategiškai atkirtusios Latviją ir Estiją nuo Vokietijos."
-  temporaliniai_duomenys: "įvykio data: 1940 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata remia aiškesnį sakinį apie sovietų kariuomenės veiksmus."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "382778-383449; hash=ccb84fb4c3acddf16818a4a27ebf892f88af751829339f8517adb0eefc9fecc1; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Estija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Estija: mention_match, place, gap=45"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Estija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-163755
 
@@ -2072,19 +837,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-088
   global_id: t-180200
   teiginys: "Tapusi visateise Europos valstybe, Lietuva siekė pertvarkyti savo vidaus valdymą pagal demokratinį Vakarų pasaulio modelį."
-  temporaliniai_duomenys: "įvykio data: 1992 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys pilnas ir apibūdina Lietuvos vidaus valdymo kryptį."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "509220-509635; hash=532b2a65839698daa23944709dcbe565ca6ab6a4cec09cb565cfdebf7adc3b73; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Abiejų Tautų Respublika: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Abiejų Tautų Respublika: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Abiejų Tautų Respublika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-163750
 
@@ -2092,16 +844,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-045
   global_id: t-180201
   teiginys: "Lenkijai prijungus sritis, neprisiekusių bajorų žemės buvo atimtos, todėl Lietuvai grėsė suvereniteto praradimas."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "124190-124478; hash=f0647abdcef9f5591eaf4a7e1d3cc4aaf59cb43fdad439a168e7d24e65b5e4cf; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Bajorai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Bajorai: mention_match, group, gap=33"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-163734
 
@@ -2109,16 +851,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-137
   global_id: t-180121
   teiginys: "Žygimantas Augustas įsakė lietuvišką monetą, kainavusią du lietuviškus grašius, imti už pustrečio lenkiško grašio."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "304644-305023; hash=cfe04789c22c9eb0790151e75ea283930299bf8f86195c82814c31c6f75e50b6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Augustas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Augustas: mention_match, person, gap=15"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Augustas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-167243
 
@@ -2126,19 +858,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-146
   global_id: t-185007
   teiginys: "Po lietuvių išpuolio Sembai lietuviai ir prūsai nuolat rengė karo žygius ir vieni kitiems smogė stiprių smūgių."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "527290-527685; hash=e9e560822e57096b0d890bed89a0f9077caedeadccd48fc1deeb3b7c0043b23f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-168368
 
@@ -2146,24 +865,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-147
   global_id: t-185008
   teiginys: "Pavasario pradžioje kariuomenės buvo išvestos į Lietuvą ir pirmiausia puolė Kauną."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1569 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalinta publicistinio veiksmažodžio forma, faktas išlaikytas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "529137-530001; hash=630635a92c1db730cb35f7ff2b57e2be1b9218dc1973b15815f18e9571c682a4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kaunas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kaunas: mention_match, place, gap=28"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-168369
 
@@ -2171,22 +872,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-148
   global_id: t-185009
   teiginys: "Sugriovus pilis, žemdirbiai palikdavo kaimus, o priešas leisdavosi vis toliau į Lietuvos gilumą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1600 m.; įvykio data: 1655 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie karo padarinius Lietuvoje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "562907-563417; hash=1eb13a29978604993a895a50812759bf5b47beabc3c443aa4cd29c92cae68017; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuvos bajorija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuvos bajorija: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Lietuvos bajorija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-168370
 
@@ -2194,19 +879,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-149
   global_id: t-185010
   teiginys: "Vytautas su žemaičiais ir Prūsijos magistras su savo kariais veržėsi į Lietuvos gilumą ir pasiekė Trakus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "621656-622093; hash=68ec91afa4b17b9b51cb3aa702858b73b906a1a700eebb4a3cea543e88e953c6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Trakai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Trakai: mention_match, place, gap=27"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Trakai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-168371
 
@@ -2214,19 +886,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-150
   global_id: t-185011
   teiginys: "Pagal Jogailos su Lenkija sutartį Vytauto valdoma Lietuva ir jai priklausoma Rusia turėjo likti Lenkijos karaliaus valdžioje."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "632316-632943; hash=d60d607e6b53ce8308c40c4438f2725acaf12f96114cf980bb429360e943a598; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Rusia: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Rusia: mention_match, place, gap=27"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Rusia\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-168372
 
@@ -2234,19 +893,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-151
   global_id: t-185012
   teiginys: "Riterių magistras Konradas su savo ir svetimšalių kariuomene pavasario pabaigoje patraukė į Lietuvą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "641852-642292; hash=e21000c6901f88027ffd0dd87d4ea69c91b69573f58f83c26a2c356c76368c3a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "surenge_zygi_i -> Lietuva: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Konradas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Konrado su kariuomene žygį į Lietuvą."
   pagrindžia:
     - c-168373
 
@@ -2254,20 +900,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-152
   global_id: t-185013
   teiginys: "Kojelavičius aiškina, kad Jogaila dėjosi nežinąs Vytauto sumanymų, nes troško Vytauto ir Lietuvos vardo išgarsėjimo."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Jogaila (kunigaikštis, XIV–XV a.) keliavo į Lietuva (0.86)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "657631-657927; hash=52db44046635aae02fd990f98e58d56dc7ae192724a2cc3d0420fb879a4c768a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Lietuva: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Jogailos kelionę į Lietuvą."
   pagrindžia:
     - c-168374
 
@@ -2275,20 +907,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-153
   global_id: t-185014
   teiginys: "Į Lietuvą su karaliumi atvykęs Kujavijos vyskupas Jonas Kropidlas parėmė Vytauto santuokos sumanymą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Jonas Kropidlas (vyskupas) keliavo į Lietuva (0.84)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "666780-667121; hash=f8d44a94c655b7df06d5d9b0bbbce8b38e41795e0e9916c56215aa56fc9ded2e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Lietuva: 0.84"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jonas Kropidlas (vyskupas): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Jono Kropidlo atvykimą į Lietuvą."
   pagrindžia:
     - c-168375
 
@@ -2296,20 +914,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-154
   global_id: t-185015
   teiginys: "Pasirašius paliaubų sutartį, Vytautas nuvyko į Lietuvą, o karalius išvyko į Didžiąją Lenkiją."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į Lietuva (0.95)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "699413-700196; hash=72176eb1af4a612e1142fcd8999389aa20081755b0905af98b5156a315c1a44d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Lietuva: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekste tiesiogiai pasakyta, kad Vytautas nuvyko į Lietuvą."
   pagrindžia:
     - c-168376
 
@@ -2317,19 +921,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-155
   global_id: t-185016
   teiginys: "Karalius lapkritį grįžo į Krokuvą ir leido Augustui vykti į Lietuvą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "702368-702835; hash=7e27a9a444e125a6dc0d5832b0b2a26bbe713331c7072b3522b5c9edbb20723d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Lietuva: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Augustas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Augusto vykimą į Lietuvą."
   pagrindžia:
     - c-168377
 
@@ -2337,19 +928,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-156
   global_id: t-185017
   teiginys: "Livonijos atstovai seime nusprendė, kad Livonija sudaro sąjungą su Lietuva ir pereina į Žygimanto Augusto globą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "707538-708467; hash=540bdcd54c70acdd6e3bcd18d48fd84c6b7deebbb93d9540e82bafabc2786341; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Dauguva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Dauguva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Dauguva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-168378
 
@@ -2357,19 +935,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-157
   global_id: t-185018
   teiginys: "Ivanas nesutiko sustabdyti karo veiksmų, kol bus gautas karaliaus atsakymas, o jo kariuomenė telkėsi netoli Lietuvos sienų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "775518-776221; hash=71fbe071b2b429d43f3d5c217e8d098d2d9e13cb61aa62c500ed2554ff1bcee1; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Ivanas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Ivanas: mention_match, person, gap=108"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Ivanas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-168379
 
@@ -2377,19 +942,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-158
   global_id: t-185019
   teiginys: "Andrejus Kurbskis, nepakęsdamas Ivano žiaurumo, su visa šeimyna persikėlė į Lietuvą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "784561-785478; hash=e4277d39dd3aa990e949051ec5059acd5d97ac72f46ae134187591f192ac8183; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-168380
 
@@ -2397,21 +949,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-126
   global_id: t-187594
   teiginys: "Rygos vyskupas ir katedros klebonas manė, kad neišvarius Tautvilos iš Lietuvos lietuviai būtų priėmę krikštą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "90988-91358; hash=66d3277f451975f3f4accf708c3a19e91bf2f7a9f3e5d12c7c9f86eeac60410a; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-170541
 
@@ -2419,21 +956,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-127
   global_id: t-187595
   teiginys: "Grįžęs į Naugarduką Vaišvilkas įkūrė vienuolyną prie Nemuno tarp Lietuvos ir Naugarduko ir ten gyveno."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "93489-93794; hash=cd1575948bbda319726eb51efbc7f66e242a207467e64918008688147e67a14e; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Naugardukas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Naugardukas: mention_match, place, gap=56"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Naugardukas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-170542
 
@@ -2441,21 +963,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-128
   global_id: t-187596
   teiginys: "Aleksandras pasiuntė į Maskvą pasiuntinius parvežti didžiosios kunigaikštytės Elenos į Lietuvą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "255822-256575; hash=13fa6c6a9b4d96e2df78a9a1255627716208f4adc5662cb8c801a911a6dd7f82; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aleksandras: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Aleksandras: mention_match, person, gap=87"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Aleksandras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-17T07:18:43Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-170543
 
@@ -2463,21 +970,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-129
   global_id: t-188737
   teiginys: "Nuo aušrininkų laikų įsigalėjusi vienmatė lietuvio samprata trukdė mūsų istorinei sąmonei tinkamai atspindėti istorinį Lie tuvos palikimą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "2605-3074; hash=a128300b4d7629bf2389c1341e5def6cae04c8636e560291d37df73c1e2891b2; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> S. Daukantas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "S. Daukantas: mention_match, author, gap=9"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"S. Daukantas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-171626
 
@@ -2485,19 +977,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-130
   global_id: t-188739
   teiginys: "T. Narbuto lenkiškai parašytas veikalas išryškino etnokultūrinius lietuvių ir „koroniažų“ skirtumus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "15648-16020; hash=415c8c6214556da94dcc9542c41d68baa191dc4128bada767738ddca699a1e8b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=55"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-171628
 
@@ -2505,19 +984,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-131
   global_id: t-188740
   teiginys: "Kadangi Kauno priemiestis vadinosi Aleksotu, Narbutas lietuviškąją Aleksotą apdainuojančias dainas siejo su Kauno apylinkėmis."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "53648-54054; hash=6138d077c877dafb659cafc9afe216f7c9baeb84658ccd07f028496bfb1069e2; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aleksotas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Aleksotas: mention_match, place, gap=19"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Aleksotas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-171629
 
@@ -2525,22 +991,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-132
   global_id: t-188741
   teiginys: "1829 m. „Dziennik Warszawski“ išspausdintas Dionizo Poškos straipsnis buvo skirtas rašantiems Lietuvos ir Žemaičių istoriją."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1829 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys susietas su Lietuvos istorijos rašymo tema. Subjektyvus „bene geriausiai“ neperkeltas kaip neutralus faktas."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "89106-89467; hash=310624a9e2dcc8a1552cb800858fbd63d7a92b849506a70cc4fe741eee47c5bf; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Nemunas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Nemunas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Nemunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-171630
 
@@ -2548,22 +998,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-133
   global_id: t-188742
   teiginys: "Narbutas citavo priekaištą, kad per 400 metų Lietuvos praeitimi rūpinosi tik Kojalavičius, Mykolas Lietuvis ir Teodoras Narbutas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1836-1837; įvykio data: 1837 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Vertinamasis priekaištas pateiktas su Narbuto citavimo atribucija. Neperimtas teiginys apie „amžiną dėmę“."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "112488-112843; hash=3a703b14771f885b9e4bc1be232c22c93251baf6829a6ccae7d6e41ba2f34469; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aleksandras Balinskis: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Aleksandras Balinskis: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Aleksandras Balinskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-171631
 
@@ -2571,19 +1005,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-134
   global_id: t-188743
   teiginys: "Narbutas vaizdavo, kad Graikijos ir Romos dievai persikėlė į Lietuvą ir susiliejo su vietos bei skandinavų religijomis."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "150057-150594; hash=6db5e522bba1f8f8648238181bc29c5de549d2a9eeedcce5a9b60dbbbcd61f2e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuvos kariuomenė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuvos kariuomenė: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Lietuvos kariuomenė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-171632
 
@@ -2591,19 +1012,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-135
   global_id: t-188744
   teiginys: "Narbutas teigė trisdešimt metų tyręs Lietuvos senovę ir rinkęs papročius, prietarus, burtus, pasakojimus bei dainas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "153162-153686; hash=c54751fd984c3928c37b0df3fdc615287384992e6dcc4c8e7c857f3fe1531e4b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Prūsai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Prūsai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-171633
 
@@ -2611,19 +1019,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-136
   global_id: t-188745
   teiginys: "Narbutas Prūsijoje buvusius žemės drebėjimus laikė argumentu, kad jie galėjo būti žinomi ir tolimesnei Lietuvai."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "159909-160116; hash=dba6f039f29c1829b7e060ec351c69c5eb72f003b992b3b7526fe30fc6966527; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Prūsija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Prūsija: mention_match, place, gap=94"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Prūsija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-171634
 
@@ -2631,19 +1026,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-137
   global_id: t-188746
   teiginys: "Narbutas dievaitį Lielhuwani siejo su Lietuvos vardo kilme ir laikė jį lietuvių mitu bei pamėgtu šūkiu."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "287878-288275; hash=7782779c6df53fce97fb7cbf0e30016017e31e9d46015f5f72200a712cd3666f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=68"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-171635
 
@@ -2651,19 +1033,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-138
   global_id: t-188747
   teiginys: "Narbutas linų ūkį Lietuvoje vadino žilos senovės paminklu ir siejo jo puoselėjimą su tolimiausiomis lietuvių epochomis."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "293914-294293; hash=a63b90cce5977434dcf79316ac7698b356c502ffacfc4cc008be18137035600d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=12"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-171636
 
@@ -2671,19 +1040,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-139
   global_id: t-188748
   teiginys: "Narbutas rašė, kad Lietuvoje pasakojimuose aitvaras kartais nematomas užpuola moteris, o kartais prijaukintas neša gėrybes."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "304644-305023; hash=cfe04789c22c9eb0790151e75ea283930299bf8f86195c82814c31c6f75e50b6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuvos kariuomenė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuvos kariuomenė: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Lietuvos kariuomenė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-171637
 
@@ -2691,19 +1047,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-140
   global_id: t-188749
   teiginys: "Narbutas rašė, kad tarakonai buvo paplitę Lydoje iki kairiojo Ditvos kranto, bet jų nebuvo tikrojoje Lietuvoje."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "313596-314060; hash=834de43b0d9f2eef90bb95ae7dcbcd10a6c610a93df636207cc28218cae01799; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Ditva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Ditva: mention_match, place, gap=39"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Ditva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-171638
 
@@ -2711,19 +1054,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-141
   global_id: t-188750
   teiginys: "Narbutas tikėjimą raganomis siejo su lietuvių stabmeldystės žlugimu ir svetimų prietarų plitimu."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "527290-527685; hash=e9e560822e57096b0d890bed89a0f9077caedeadccd48fc1deeb3b7c0043b23f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): mention_match, person, gap=38"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-171639
 
@@ -2731,22 +1061,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-142
   global_id: t-188751
   teiginys: "Narbutas rašė, kad alanai, senieji kai kurių plačiosios Lietuvos sričių gyventojai, būrė iš karklo šakų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1569 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Nebaigtas fragmentas paverstas pilnu sakiniu. Vertinamieji žodžiai apie tamsumą ir burtininkų vaipymąsi neperkelti."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "529137-530001; hash=630635a92c1db730cb35f7ff2b57e2be1b9218dc1973b15815f18e9571c682a4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-171640
 
@@ -2754,23 +1068,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-143
   global_id: t-188752
   teiginys: "Narbutas tikrosios Lietuvos teismų sprendimus minėjo kaip šaltinį apie liudytojų priesaikas per skrutinijas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Lietuvos bajorija buvo sąjungininkas su Lenkijos bajorija (0.72)"
-  temporaliniai_duomenys: "įvykio data: 1600 m.; įvykio data: 1655 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Lietuvos bajorija buvo sąjungininkas su Lenkijos bajorija“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Išskleistas šaltinio pobūdis ir Lietuvos kontekstas. Neperkelta neaiški citata apie kepures kaip atskiras faktas."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "562907-563417; hash=1eb13a29978604993a895a50812759bf5b47beabc3c443aa4cd29c92cae68017; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sajungininkas_su -> Lenkijos bajorija: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuvos bajorija: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lenkijos bajorija: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citatoje aiškiai nurodomas Lietuvos ir Lenkijos bajorijų bendro luomo suvokimas."
   pagrindžia:
     - c-171641
 
@@ -2778,19 +1075,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-144
   global_id: t-188753
   teiginys: "Narbutas rašė, kad lietuvių genties ikijungtuviniai papročiai skyrėsi pagal tautą, vietos aplinkybes ir laiką."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "621656-622093; hash=68ec91afa4b17b9b51cb3aa702858b73b906a1a700eebb4a3cea543e88e953c6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-171642
 
@@ -2798,12 +1082,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-145
   global_id: t-188754
   teiginys: "Narbutas lietuvių vaišingumą vadino gražiausia viešąja dorybe ir siejo jį su šeimininkės pareiga patarnauti svečiui."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "632316-632943; hash=d60d607e6b53ce8308c40c4438f2725acaf12f96114cf980bb429360e943a598; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-171643
 
@@ -2811,19 +1089,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-146
   global_id: t-188755
   teiginys: "Narbutas po Lietuvą išsibarsčiusius kapus ir laidojimo laukus laikė pagoniško laidojimo karstuose įrodymu."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "641852-642292; hash=e21000c6901f88027ffd0dd87d4ea69c91b69573f58f83c26a2c356c76368c3a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-171644
 
@@ -2831,21 +1096,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-147
   global_id: t-188756
   teiginys: "Narbutas rašė, kad Lietuvoje pilkapiai randami labai retai, dažnai giliai po žeme ir dažniausiai atsitiktinai kasant."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "657631-657927; hash=52db44046635aae02fd990f98e58d56dc7ae192724a2cc3d0420fb879a4c768a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Drabužiai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Drabužiai: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Drabužiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171645
 
@@ -2853,19 +1103,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-148
   global_id: t-188757
   teiginys: "Narbutas rašė, kad tikrojoje Lietuvoje sudegintų žmonių pelenams laikyti skirtos vietos buvo vadinamos Obelijomis."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "666780-667121; hash=f8d44a94c655b7df06d5d9b0bbbce8b38e41795e0e9916c56215aa56fc9ded2e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Sandara: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Sandara: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Sandara\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-171646
 
@@ -2873,19 +1110,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-149
   global_id: t-188758
   teiginys: "Narbutas lietuvių bajorų linkimą į Rytų krikščionybę vadino lietuviškuoju manicheizmu, Manicheismus Lilhuanicus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "699413-700196; hash=72176eb1af4a612e1142fcd8999389aa20081755b0905af98b5156a315c1a44d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Danija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Danija: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Danija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-171647
 
@@ -2893,19 +1117,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-150
   global_id: t-188759
   teiginys: "Narbutas nurodė, kad toliau pateikia smulkius kai kurių lietuvių mitologijos sričių aprašymus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "702368-702835; hash=7e27a9a444e125a6dc0d5832b0b2a26bbe713331c7072b3522b5c9edbb20723d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Augustas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Augustas: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Augustas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-171648
 
@@ -2913,20 +1124,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-151
   global_id: t-188761
   teiginys: "Narbutas nurodė, kad rankraštis baigiasi pagyrimu lietuvių tautos svetingumui, darbštumui ir namų gyvenimo dorybėms."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Sėlpilis priklausė Lietuva (0.68)"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "707538-708467; hash=540bdcd54c70acdd6e3bcd18d48fd84c6b7deebbb93d9540e82bafabc2786341; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Lietuva: 0.68"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Sėlpilis: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Sėlpilis išvardytas tarp objektų, kuriuos Livonijos ordinas atiduoda Lietuvai."
   pagrindžia:
     - c-171650
 
@@ -2934,19 +1131,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-152
   global_id: t-188762
   teiginys: "Narbutas rašė, kad nuo XI a. pabaigos ėmė smukti Krivių Krivaičio autoritetas lietuvių gyvenamose žemėse."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "775518-776221; hash=71fbe071b2b429d43f3d5c217e8d098d2d9e13cb61aa62c500ed2554ff1bcee1; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Maskvėnai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Maskvėnai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Maskvėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-171651
 
@@ -2954,19 +1138,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-153
   global_id: t-188763
   teiginys: "Narbutas teigė lietuvių žemėje aptikęs Biarmijos raidyno pėdsakų, rodančių, kad senovės lietuviai naudojosi tomis raidėmis."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "784561-785478; hash=e4277d39dd3aa990e949051ec5059acd5d97ac72f46ae134187591f192ac8183; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Biarmija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Biarmija: mention_match, place, gap=24"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Biarmija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-171652
 
@@ -2974,22 +1145,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-154
   global_id: t-188764
   teiginys: "1567 m. pabaigoje karalius, nenutraukęs karo veiksmų, išsiuntė Lietuvai universalus dėl Gardino seimo sušaukimo."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1567 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Fragmentas sutvarkytas į aiškų politinį teiginį apie Lietuvą. Nepridėta daugiau apie Sangušką ar Chodkevičių."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "898230-898875; hash=9bd338b226d47b70f330ee8370f5e8a9bde74cdc0e2637cd95d5c8e43b4a3b28; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gardinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Gardinas: mention_match, place, gap=25"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Gardinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-171653
 
@@ -2997,21 +1152,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-159
   global_id: t-192688
   teiginys: "Teodoras Narbutas Lietuvos susijungimą su Lenkija vertino kaip savanorišką nepriklausomybės atsisakymą ir niokojančių karų priežastį."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "48721-49080; hash=41739d332935ea29d74cc2e5bcb24ca7c8dbbc8d80e513b83c1c528ccf51919d; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=24"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175458
 
@@ -3019,22 +1159,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-160
   global_id: t-192689
   teiginys: "Narbutas estų žodį Litalain siejo su Lietuva ir Ukmergės apskritimi, aiškindamas lietuvių bei kuršių ankstyvą gyvenimą jų žemėse."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Kuršiai gyveno Lietuva (0.72)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "345130-345629; hash=0f24d8784a59793b4b6f2e58f5df6a74bf08066db6b9613eb95965ec5ac09655; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Lietuva: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kuršiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata teigia, kad kuršių gyventa jų dabartinėse žemėse; Lietuvos ryšys yra platesniame sakinio kontekste, todėl pasitikėjimas vidutinis."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175459
 
@@ -3042,21 +1166,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-161
   global_id: t-192690
   teiginys: "Teodoras Narbutas lietuvių kalbą kildino iš pelazgų kalbos šakos kartu su graikų ir lotynų kalbomis."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "358408-358702; hash=974ced7acef8da919f8651f01f2136cb032edff6ca0b1008f11faad1162ca2fc; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Graikai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Graikai: mention_match, group, gap=56"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Graikai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175460
 
@@ -3064,21 +1173,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-162
   global_id: t-192691
   teiginys: "Narbutas Nestorą laikė pirmuoju jam žinomu istoriku, paminėjusiu Lietuvą apie 860 metus ar kiek vėliau."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "483998-484576; hash=28640fb2d444cdb1f5521ab85b00b95531ddad742c51a422351b66746e02b726; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Herulai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Herulai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Herulai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175461
 
@@ -3086,14 +1180,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-163
   global_id: t-192692
   teiginys: "Narbutas Lietuvos sluoksnių formacijoje išskyrė įvairialypius jai nebūdingus akmenis, nes joje nematė panašių uolienų sluoksnių ar kalnų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "727865-728568; hash=fc4ced350b0e97f7d2a0b16b58ff82fb0de51c8ad408df9513c853f8162642c7; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175462
 
@@ -3101,21 +1187,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-164
   global_id: t-192693
   teiginys: "Tadas Voliankis Narbutui atsiuntė Lietuvoje rastos monetos piešinį ir manė, kad ji priklauso lietuviškiems paminklams."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "899180-899456; hash=ec7dfd6661ad102b81806f05519ad65acb38c2266f1c66b3f938bc8d4f406349; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Monetos: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Monetos: mention_match, thing, gap=17"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Monetos\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175463
 
@@ -3123,21 +1194,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-165
   global_id: t-192694
   teiginys: "Narbutas rašo, kad XVI a. teismuose nuosprendžiai būdavo sakomi lietuviškai, o į knygas įrašomi rusiškai, lotyniškai arba lenkiškai."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "956100-956428; hash=26a293b9c6f9ea0572c6d0366020203fe2a1ef37fe7b23bee343cc1220ff3f2f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuva\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175464
 
@@ -3145,14 +1201,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-166
   global_id: t-193205
   teiginys: "XVI amžiuje vakaruose Lietuva karų jau nebeturėjo."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "506386-506838; hash=4452b28c2a042eaa653971898e62191a50a1fe34dfa6d7df31ad68b4d696f5fc; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175949
 
@@ -3160,14 +1208,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-167
   global_id: t-193206
   teiginys: "Tie generaliniai seimeliai neišnyko nė įvedus bendrą su lietuviais seimą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "551622-551892; hash=23403c3142e409cccb65c236029e5d699d37641d3b59715de3239c42c6c2f7bc; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175950
 
@@ -3175,14 +1215,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-168
   global_id: t-193207
   teiginys: "Jis niekad nespaudė lietuvių lenkų naudai."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "604177-604483; hash=dfc00dc7b303ed6e349a11d04430b45624007a8ce44a0078a37650e2eb5ba779; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175951
 
@@ -3190,14 +1222,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-169
   global_id: t-193421
   teiginys: "Vaizdingi, nors ir žiaurūs, karo veiksmų aprašy mai su lietuvių kunigaikščių ir karvedžių charakteris tikomis leidžia pastebėti siužetų idėją."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "46119-46470; hash=6b79f6932fc01e78d88fb033495c02e77268e5a4cfd680d0377b5320a0aa79fd; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-176143
 
@@ -3205,14 +1229,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-170
   global_id: t-193645
   teiginys: "Lucko suvažiavime 1429 m. Lietuva buvo paskelbta suverenia valstybe, ir tik atsitiktinumas sutrukdė jai pasidaryti karalyste."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "76893-77148; hash=ffc331cc6b722a53f07511bbbd18011977db743d10e77214d0e0f2b3a1a17720; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-176315
 
@@ -3220,14 +1236,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-171
   global_id: t-193774
   teiginys: "Prie jau anksčiau lietuvių užvaldytų Juodosios Rusios (Naugarduko žemių) ir Polocko Gediminas pridėjo užkariautas Haličo-Voluinės, Vitebsko ir Kijevo žemes."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "52698-53100; hash=9f3ee9d30af397da1348d69ff4cc5229ebd5793506aa7dba14b320ed926cbcfa; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-176428
 
@@ -3235,14 +1243,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-172
   global_id: t-193775
   teiginys: "PREILIAI A 1920 m. liepos 12 d. Lietuva su Sovietų Rusija sudarė taikos sutartį."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "779720-779883; hash=254559824f77fbdede8de35a44a158dca69301d7946eb4b2f4eb53d028e1197e; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-176429
 
@@ -3250,14 +1250,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-173
   global_id: t-194030
   teiginys: "Tais pačiais metais Lietuvos žemę ištiko baisus ba das, ir paplito žmonėse prancūziškos ligos4 0 ."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "265417-265881; hash=396b6b744fe3f5b7ed9ed455a9b03432da34f9ed8a75bbbafbe77a5b97ae6dd0; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-176652
 
@@ -3265,14 +1257,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-174
   global_id: t-194255
   teiginys: "Mirtis ta galop ištiko 1430 metų spalio 30 dieną Trakuose, gedint visai Lietuvai ir net lenkams, kuriuos tiek kartų vedė į pergalingo mūšio lauką, kurių karalių tvirtu petimi parėmė ir apsaugojo."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "356861-357372; hash=a805c1d161a14396d15c45647b7d100386b5cf7d1736c4d592d9f22da002941c; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-176849
 
@@ -3280,14 +1264,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-175
   global_id: t-194737
   teiginys: "Istorinė Lietuva - tai Vilniaus, Kauno, Gardino ir Minsko gubernijos; „litvinai“ - tenai gyvenantys bajorai, išpažįstantys katalikų tikėjimą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "11701-11966; hash=68cfe72f49e8846b7ea16f61dcb9c8a16b461681fe193f939e0e260b7321e1f9; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-177133
 
@@ -3295,14 +1271,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-176
   global_id: t-194738
   teiginys: "Tokiu viešpačiu karaliumi Vladislovu ir jo broliais Dievas apdovanojo Lietuvą būtent ta da, kai jam prireikė stebuklingu būdu atversti tą užkietėjusią stabmeldiškais ir manichėjiškais paklydimais šalį ir įžiebti joje tikėjimo šviesą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "703691-704300; hash=e4138658e20d06f275f99769a50d3be3cd0618faa681fc7dd47d54475c103cf7; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-177134
 - susijęs iš [[objektai/asmenys/Jaroslavas (Kijevo valdovas).md#claim-t-39556|Jaroslavas (Kijevo valdovas)]]: 1040 m. Kijevo valdovas Jaroslavas surengė didelį žygį į Lietuvą.
@@ -14085,8 +12053,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     nutarimu; be jo nė viena lenkų priimtoji konstitucija negaliodavo
     Lietuvoje, o lietuvių priimtoji — Lenkijoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -14104,8 +12072,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     skulptūrų, sukurtų 1784–1787 m. du šimtus metų Lietuva gyveno baroko
     dvasia.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -14131,8 +12099,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     rusiškojo tikėjimo vyskupų Lietuvo­
     je atžvilgiu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -14161,8 +12129,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     vienais metais, taip pat iki gyvos
     galvos, ir 1.1.].
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -14180,8 +12148,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     žemėje, dovanotoje Mazovijos kunigaikščio Konrado, šis. aktas laikomas Ordino veiklos
     Prūsijoje pagrindu (II, 5, 6).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -14208,8 +12176,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     tį, ištisai visą abiejų besitariančių pusių priesaikomis pa­
     tvirtintą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -14230,8 +12198,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     nesuprato ir nepripažino.
     XX a.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -14250,8 +12218,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     bingumo perspektyvų ir su toms ložėms priklausiusiais lenkų visuome-
     nės veikėjais, tačiau bendros kalbos nerado.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -14275,8 +12243,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     Vilnius savo kilimo pradžioje turėjo laikytis tokios pačios
     tvarkos, kokia buvo ir kitur.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -14295,8 +12263,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     bės vaivadijų sostines47. Ši trokštama žinia jau merdintį
     Aleksandrą pasiekė Vilniuje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -14315,8 +12283,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     Respublikos nesijungimo į postsovietines Rytų sąjungas“ (panašiai pasi-
     elgė Latvija ir Estija).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -14339,8 +12307,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     saką lietuvių liaudies atmintyje, tai rodo įvairūs padavimai ir pasakojimai
     apie švedus, „švedkapius“ ir švedų buvimą Lietuvoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -14358,8 +12326,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     šviesą iki pat Meksikos, Paragvajaus. Kitas šio pasaulio pakraštys, labiau-
     siai nutolęs į šiaurę, buvo Lietuva.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -14383,8 +12351,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     estais ir latviais, lenkais, bandė brėžti savo sienas įtraukdama ir Suvalkų
     trikampį, dirbo informacinį propagandinį darbą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -14408,8 +12376,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     tinė, palaikė prekybinius ryšius su
     Rytais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -14425,8 +12393,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     1941 m. birželio 14–18 d. okupacinė valdžia įvykdė pirmąjį masinį
     Lietuvos gyventojų trėmimą – deportuota 17,5 tūkst. žmonių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -14443,8 +12411,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     lietuvių tautos pasipriešinimą, kilo dešimtmetį trukęs partizaninis karas
     dėl Lietuvos nepriklausomybės atkūrimo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -14460,8 +12428,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     raštijos modelio), XVI a. LDK visuomenė tampa europinė ir įsilieja į Va-
     karų civilizaciją.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -14478,8 +12446,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     buvo tarp Nemuno ir Neries upių. Taigi Lietaukos upelis, dešinysis Neries
     intakas, tekėjo Lietuvos žemės link, ir nebūtinai pačioje Lietuvoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -14516,8 +12484,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     šovinį iš dėtuvės, įstumia jį i šovinio
     lizdą ir jį iššauna.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -14552,8 +12520,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     paskutiniuosius trejus Aleksandro valdymo metus, tai yra,
     nuo 1503 metų, vis drąsiau puldinėjo lietuvių žemes.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -14570,8 +12538,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     tuvos Respublikos kūrėjai, siekę prie Lietuvos prijungti Mažąją Lietuvą,
     bet atsisakę pretenzijų į nelietuviškai kalbančias istorinės Lietuvos žemes.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -14590,8 +12558,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     gandoms ir prireikus visuomenei susitelkti, Vytautas tapo mitu, teikian-
     čiu stiprybę, žadinančiu orumą, ugdančiu patriotizmą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -14605,8 +12573,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     tavo, tūkstančiai žmonių neteko darbo. Masinis nedarbas paskatino ma-
     sinę Lietuvos gyventojų emigraciją.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -14625,8 +12593,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     rija (ne tik dabartinė Lietuva, bet ir Baltarusija) ilgainiui pradėta vadinti
     Lietuva, o šiandien ją vadiname istorine Lietuva.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -14645,8 +12613,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     kartais net nesiklausdama lenkų, darė atskiras sutartis, 1655 m.,
     kaip matėm, buvo net pasiryžusi visiškai skirtis su Lenkija.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -14667,8 +12635,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     jau turėjo keletą miestų. Naugardukas jau buvo garsiojo Min­
     daugo (Mendogo) sostinė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -14686,8 +12654,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     trečdaliu, Lietuva pati apsirūpindavo maistiniais ir pašariniais grūdais,
     o perteklių eksportuodavo (1938 m. – 132 000 tonų).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -14705,8 +12673,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     jos - Lietuvos valstybėje vyko daugiau destruktyvių procesų,
     nulėmusių jos žlugimą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -14727,8 +12695,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     dovo sąjungininku, sutartinai veikiančiu sprendžiant sve­
     timšalių atvykimo reikalus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -14751,8 +12719,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     mas 1940 m. lapkritį Berlyne grupės lietuvių emigrantų įkurtas Lietuvių
     aktyvistų frontas (LAF), save laikęs pagrindiniu sukilimo organizatoriumi.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -14774,8 +12742,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     idėją, nesiruošiant konvertuotis į lietuvybę, kristalizavosi Lietuvos ne-
     priklausomybės siekis etnografiniu pagrindu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -14796,8 +12764,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     Rabės22, kadangi didysis magistras Konradas Ciolneris gu­
     lėjo pakirstas sunkios ligos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -14818,8 +12786,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     vo vietininku ir titulavo Lietuvos didžiuoju kunigaikščiu,
     pavaldžiu karališkajai savo valdžiai16.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -14835,8 +12803,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     J. J. Chodkevičius suprato tragišką dilemą: arba Lietuva susisaisto su Len-
     kija, arba Lietuvą užkariauja Rusija.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -14854,8 +12822,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     jų. Nors buvo žemdirbių tauta, lietuviai sudarė 50 proc. miesto gyventojų,
     žydai – trečdalį miestų ir miestelių ir tik 0,5 proc. kaimo gyventojų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -14872,8 +12840,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     įėjo ne kaip tautų kalėjimas ar lydymosi katilas, o kaip tautų lopšys – tai
     svarbiausias LDK imperijos savitumas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -14893,8 +12861,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     atkurti nepriklausomą demokratinę Lietuvos Respubliką ir nubrėžė
     jos ateities raidos gaires.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -14929,8 +12897,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     apeigų Lietuvos kunigaikščių bei didikų - labiausiai iš kitų
     Algirdaičių tiko į didžiuosius kunigaikščius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -14959,8 +12927,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     sikračiusiomis netašyto barbariškumo, davė pradžią rastis
     Lietuvos žemėje medinėms pilims ir tvirtovėms.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -14987,8 +12955,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     pakanclerį Mikalojų Moskoževskį, naujais Lenkijos pulkais
     vediną, ir liepė įsikurti Vilniaus pilyse.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -15017,8 +12985,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     iki Vyslos, o į žemyno gilumą buvo pasistūmėjusi tiesiog iki
     Nemuno ir Būgo žiočių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -15034,8 +13002,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     Europos valstybių likimas.
     Trakų pilis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -15050,8 +13018,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     no paskutinį bajorijos vadovautą sukilimą, kuriuo siekta atkurti buvusią
     Lenkijos ir Lietuvos valstybę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -15085,8 +13053,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     pačių lietuvių paruošta nau-
     joji Lietuvos Statuto laida.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -15107,8 +13075,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     -lietuvių valstybė <....>. Tad kokiu būdu galima suderinti man
     primetamą tariamą patriotizmą su tokia mano veikalo dvasia?"9.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -15122,8 +13090,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     patyrė sukrėtimą (1993 m. realusis bendrasis vidaus produktas (BVP) su-
     darė 40 proc. 1988 m. BVP) – tik nuo 1995 m. BVP didėjo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -15146,8 +13114,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     tybės pamatus ir jos santykius su kitomis valstybėmis galutinai nustatys
     Steigiamasis Seimas, demokratiškai visų jos gyventojų išrinktas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -15164,8 +13132,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     daus valdymą pagal demokratinį Vakarų pasaulio modelį. 1992 m. spa-
     lio 25 d. piliečių referendume priimta Lietuvos Respublikos Konstitucija.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -15184,8 +13152,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     kritiškų balsų, raginančių netgi  jį likviduoti. Įtempta grupuočių kova vyko  ir Ordino
     viduje, siekiant restauruoti šią vokiečių feodalų karinę-religinę organizaciją.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -15205,8 +13173,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     valdovas paliko savo senąją sostinę ir gausios lietuvių kuni­
     gaikščių ir didikų svitos lydimas išvyko į Krokuvą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -15227,8 +13195,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     raiškos formą, nes valstybės laikėsi nuostatos pripažinti tik tuos Lietuvos
     diplomatus, kurie diplomatinėje tarnyboje dirbo iki 1940 m.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -15250,8 +13218,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     vos teritoriją strategiškai atkirtus Latviją ir Estiją nuo Vokietijos, žaibu
     okupuotos ir dvi gretimos Baltijos valstybės.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -15282,8 +13250,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     nus Elijas, Prūsijos didysis magistras Rusdorfas, Livonijos
     magistras, Mazovijos kunigaikščiai ir totorių chanai84.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -15306,8 +13274,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     tautinėms bendrijoms, turi teisę puoselėti savo kalbą, kultūrą ir papro-
     čius; tautinėms bendrijoms valstybė teikia paramą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -15331,8 +13299,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     228
     elgtasi brutaliau nei su kitomis religijomis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -15350,8 +13318,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     pripažino pirmenybę Lietuvos ministeriams, kai seimas būdavo
     Lietuvoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -15371,8 +13339,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     gal būta ir, tarkim, „Živinbudo“ ar „Dausprungo“ Lietuvos? Todėl linksta-
     ma prie apytikrės datos – Lietuvos valstybė susikūrė apie 1240 m.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -15390,8 +13358,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     atsisakė teisių į Lietuvą ir pripažino jos nepriklausomybę ir suverenumą.
     Teritoriniai klausimai taip pat buvo sprendžiami palankiai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -15413,8 +13381,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     vasarą. Lietuvos tarptautinis pripažinimas – dar vienas didžiulis lietuvių
     tautos pasiekimas XX a. istorijoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -15443,8 +13411,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     tuvos vyskupas, Gniezno arkivyskupo Pelkos įšventinti vys­
     kupais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -15480,8 +13448,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     Užsakymas
     „Minties" leidykla, Z. Sierakausko g. 15, LT-03105 Vilnius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -15498,8 +13466,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     įstatymus; visi tie skirtingi Lietuvos reikalai ir būdavo apsvars-
     tomi jos suvažiavimuose.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -15528,8 +13496,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     gal kuriuos iš 180 km aukščio geografiškai išvestas centro statmuo yra
     25 km į šiaurę nuo Lietuvos sostinės Vilniaus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -15547,8 +13515,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     ne Liublino seime, bet vėliau, todėl liko galimybė išsaugoti Lietuvos vals-
     tybingumą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -15573,8 +13541,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     mi, Vytauto labui nieko nenuveikę, nė negalvodami apie
     Vilniaus užėmimą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -15592,8 +13560,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     nepriskirtina nei lotyniškajai Vakarų Europai, nei bizantiškajai Rytų Eu-
     ropai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -15610,8 +13578,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     kaip etnografinės lietuvių žemės, įskaitant Lenkijos karalystei priklausiu-
     sią Užnemunę, arba Suvalkiją, ir tos žemės, kurios prie Vilniaus linksta.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -15635,8 +13603,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     nius, Sąjūdis atvedė Lietuvą į laisvę, svariai prisidėjo prie SSRS, visos
     komunistinės sistemos žlugimo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -15654,8 +13622,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     valstybės modelio, jo režimo prioritetai – tautinės kultūros kūrimas ir lie-
     tuviškai kalbanti Lietuva – iš esmės įgyvendintas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -15678,8 +13646,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     suspėjo krikštytis, o 1253 m. – karūnuotis
     karaliumi.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -15695,8 +13663,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     Italija, Japonija) pripažino Lietuvą de jure. Lietuva nelengvai, tačiau tapo
     visateise Europos valstybe.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -15715,8 +13683,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     nesnio ir pajėgesnio feodalizmo kūrėjas, sykiu ir miestų savo
     šalyje įkūrėjas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -15740,8 +13708,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     tarp Varšuvos, Maskvos ir Berlyno, stengdamasi neįsivelti į karinį konf-
     liktą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -15761,8 +13729,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     1219 m. sudarė sutartį su Volyne24, nes kilo pavojus Lietuvai, greičiausiai siekta apginti
     ir prūsų kraštą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -15779,8 +13747,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     pasidarė dvilypė – apėmė etnines pagoniškas lietuvių žemes ir platesnes
     teritoriškai, gausesnes gyventojų stačiatikiškas senrusių žemes.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -15800,8 +13768,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     kamuoti sunki liga; jau anksčiau ištiktas paralyžiaus, Vil­
     niuje jis vis labiau juto negalią.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -15818,8 +13786,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     kryžiaus ženklu, Jėzaus Kristaus padedami, sėkmingai prasiveržė pro didžiulę lietuvių
     kariuomenę (III, 251).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -15840,8 +13808,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     sienos nebesutapo su etnografinėmis, o absorbuoti Rytuose jau tik baltaru-
     siškai ir lenkiškai kalbančius gyventojus neatrodė įmanoma misija.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -15863,8 +13831,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     nę, nubaustų „kaltus“ pareigūnus ir duotų atsakymą iki birželio 15 dienos
     10 val. ryto.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -15908,8 +13876,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     ypač užtarė Marija, Algirdo žmona, pasinešusi lietuviams pa­
     gonims skiepyti krikščionišką graikų apeigų tikėjimą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -15930,8 +13898,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     panaikinti Lietuvos valstybingumą ir prašytis į SSRS, jo nutarimai buvo ne-
     teisėti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -15967,8 +13935,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     prisiplėšė daugybę grobio, niekur nesutikę pasipriešinimo,
     net iki Šalčininkų nusigavo51.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -15986,8 +13954,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     su Lietuva. Be to, tuo pat metu paaiškėjo ir lietuvių pažiūra į
     uniją su Lenkija.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -16012,8 +13980,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     besisukdamos juodos svastikos ir raudonas pjautuvas ims kapoti galvas
     geriausioms tautos dukterims ir sūnums.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -16035,8 +14003,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     bažnyčioj pastatydavo ponas, tokio tikėjimo turėdavo būti ir bau-
     džiauninkai).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -16062,8 +14030,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     tariamai demokratinį valdymą (oficialiai vadinamą „liaudies demokrati-
     ja“), per keletą savaičių šias valstybes įjungė į SSRS sudėtį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -16088,8 +14056,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     Karališkosios Didenybės paliepimu, po 25 lietuviškus gra­
     šius. Jiems išleista 15 florinų 26 grašiai ir 2 ą1g.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -16122,8 +14090,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     ekspedicijos į Rusią, kokie būdavo kruvini mūšiai su Ordi­
     nu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -16141,8 +14109,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     bet leido pakilti Lietuvos lygiui, tad pagaliau visais parametrais pasivijo-
     me kaimynus ir gaminome tiek, kiek latviai ir estai kartu sudėjus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -16162,8 +14130,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     Vytautas apie tą sumanymą nieko nežino, pasiuntė į jį patį Zig­
     mantą apie tai pasikalbėti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -16185,8 +14153,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     sios Lietuvos istorijos kūrinį – valstybę, suteikusią galimybę išlikti lietuvių
     tautai ir vėliau perimti Vakarų civilizaciją.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -16208,8 +14176,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     padėtis dar pablogėjo įsiliepsnojus Vytauto karui su Skir­
     gaila.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -16231,8 +14199,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     Vytautas tikėjo, kad viename pralaimėtame mūšyje buvęs
     išgelbėtas Švč.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -16249,8 +14217,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     ir Lietuvos valstybės padalijimo. LDK teritorijos dalis, t. y. etninės lietu-
     vių žemės, atiteko Rusijai (ir priklausė jai iki Pirmojo pasaulinio karo).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -16275,8 +14243,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     kunigaikščiai jau buvo galingi, daug prisigrobę ir užsigarantavę
     tvirtą viršenybę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -16292,8 +14260,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     ministravo karinė valdžia, o 1941 m. liepos pabaigoje įvestas civilinis
     okupacinis valdymas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -16312,8 +14280,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     Didžiajai Kunigaikštijai liko tik etninės lietuvių ir vakarinės baltarusių
     žemės.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -16329,8 +14297,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     po Liublino unijos). Tačiau kartu litvakais imta vadinti žydus, kuriems
     būdinga savita gyvensena, išlikusi ir po LDK sunaikinimo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -16346,8 +14314,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     ventojų), 13 proc. – žydai, 10 proc. – lenkai, 15 proc. – baltarusiai, rusai ir
     ukrainiečiai kartu sudėjus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -16369,8 +14337,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     Latopisiec Litwy, paskelbtas D a ni­
     to w i c z, Wilno, 1827, 8vo, 1.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -16390,8 +14358,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     sukūrė gilų užnugarį slavų žemėse, sulaikė kryžiuočių veržimąsi, prisidėjo prie Ordino
     veiksmų bei siekimų demaskavimo, jo pozicijų silpninimo tarptautiniu mastu.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -16408,8 +14376,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     buvę Voluinė ir Haličas, Kijevas, Pskovas. Tai leido Lietuvai tapti didelių
     politinių kombinacijų dalyve ir vyraujančia regiono jėga – didvalstybe.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -16425,8 +14393,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
        Žinių Dusburgiečiui teikė visų pirma Ordino broliai. Kronikos dalyje, aprašančioje karus
     prieš Lietuvą, išvardijama apie 70 brolių, tuo tarpu visose kitose dalyse —žymiai mažiau.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -16442,8 +14410,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     ruojant Lietuvos valstybę į Vakarų krikščioniškųjų valstybių
     sistemą Lietuvai suteiktas Didžiosios kunigaikštijos rangas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -16465,8 +14433,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     sudarytą vyriausybę. LLKS Tarybos prezidiumas tapo aukščiausiu valdžios
     organu iki laisvų demokratinių Seimo rinkimų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -16485,8 +14453,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     la ir lenkais ir gavo valdyti ne tik tėviškę, bet ir visą Lietuvą.
     Jo santykiai su tauta pasikeitė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -16503,8 +14471,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     kimai ten nevyko, nes Lietuva tų teritorijų nekontroliavo. Tai rodo, kad
     turimos teritorijos Lietuva dar nelaikė galutine.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -16518,8 +14486,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     Taip pat buvo išmėtyta ir bajorų žemė; daug kur jų laukai
     įsikišdavo į didžiojo kunigaikščio žemes.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -16539,8 +14507,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     Lietuvą vokiečiai užėmė per tris dienas, todėl sovietai tik kai kuriuos po-
     litinius kalinius paskubomis išgabeno iš Lietuvos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -16584,8 +14552,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     kiškų grivinų baudą ir ši bauda į bet kurio mūsų valdų mies­
     to valdybą, tiek pilies, tiek miesto, būtų atnešta ir paduota.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -16608,8 +14576,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     niokoti, o du tūkstančiai pėstininkų atkakliai puolė
     apsuptą pilį.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -16635,8 +14603,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     vykęs su kariuomene pralaužti apsupimo žiedo, nieko
     nelaimėjo ir buvo atstumtas.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -16662,8 +14630,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     nebūtų iš naujo atstatomos pilys, trukdančios jam leis­
     tis į žygį.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -16687,8 +14655,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     lyse stiprias vokiečių įgulas, aprūpintas viskuo, kas
     reikalinga.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -16712,8 +14680,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     antspaudais, parašais ir net priesaika ir nusiųstos į Kro­
     kuvą, į karalystės valstybinį archyvą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -16741,8 +14709,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     plotuose kaimus šiapus ir anapus Nemuno, jis atėmė iš
     lietuvių bei žemaičių keletą pilių.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -16779,8 +14747,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     kailio siūtų drabužių ir šimtą persiškųjų apsiaustų, iš­
     siuvinėtų aukso siūlais.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -16807,8 +14775,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 
     mos bažnyčia.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -16832,8 +14800,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     karalius į Didžiąją Lenkiją. Keliaudamas iš Poznanės į
     Srodą, vos neprarado gyvybės.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -16851,8 +14819,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     ir ten jo laukė visokios negerovės: pasipylė skundai,
     žmonės reiškė nepasitenkinimą, maištavo.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -16883,8 +14851,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     klės apygardos, be to, Bauskės, Rezeknės, Ludzos, Daug­
     pilio, Sėlpilio pilis su apylinkėmis.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -16916,8 +14884,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     jų  pėdom is priešų vėliavos, n ely g in an t p aties likim o
     stum te stum iam os lin k  ty k o jan čio s nelaim ės.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -16938,8 +14906,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     diką, palaidojusį nužudytojo palaikus, tol visaip kan­
     kino, kol šis bekankinamas mirė.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -16958,8 +14926,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     krikštą priėmę.
     Visa tai padarė, kad Lietuva netapo krikščioniška.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -16977,8 +14945,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     lyną prie Nemuno upės, tarp Lietuvos ir Naugarduko,
     ir gyveno tenai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -17008,8 +14976,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     lovskis, Michailas Rusalka, Ivanas Skuratovas, dijokas
     Vasilijus Kulešinas2 3 .
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -17028,8 +14996,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     lenkų, žydų, baltarusių, ukrainiečių politinio, socialinio, kul­
     tūrinio paveldo arealas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -17046,8 +15014,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     reikia rinkti grynai lietuviškos dvasios paminklus ir parodyti,
     kad mes jų turime daugiau ir kur kas geresnių negu lenkai“11.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -17070,8 +15038,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     Aleksotu, tai dainas, kuriose apdainuojamas lietuviškosios
     Aleksotos grožis, T. Narbutas ir išgirsta Kauno apylinkėse.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -17089,8 +15057,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     istoriją“8. Jis parašytas metai prieš mirtį, todėl jį drįstume lai­
     kyti tam tikru literatūriniu testamentu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -17107,8 +15075,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     rintis abejingumas bus amžina Lietuvos dėmė ir prisidės prie
     kadaise galingos ir didvyriškos tautos išnykimo“32.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -17128,8 +15096,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     sistemomis sumišo trečioji, tai yra skandinavų, o iš tos sam­
     plaikos kilo mitologija, kurią imamės išdėstyti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -17149,8 +15117,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     privalėjau išdėstyti šiame veikale, nes esu įsitikinęs, kad mito­
     logija yra raktas seniausiajai tautų istorijai pažinti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -17165,8 +15133,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     dangi žemės drebėjimų būta Prūsijoje, taigi jie buvo žinomi ir toli­
     mesnei Lietuvai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -17186,8 +15154,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     Dievaitis su savo drauge; jie globojo augalus, tinkamus
     amatams, ypač dažymui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -17206,8 +15174,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     mokėjimas juos puoselėti ir auginti siekia tolimiausias lietu­
     vių tautos epochas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -17225,8 +15193,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     duoną, rūkytą mėsą, nuneša savo mėgstamoms jaunoms mo­
     terims arba mergaitėms, duoda net pinigų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -17246,8 +15214,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     Tai buvusios mitinės pabaisos arba siaubą keliantys neūžau­
     gos, naktimis gąsdinantys žmones.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -17265,8 +15233,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     dies padavimai tas senes paprastai kildina iš Lietuvos Rusios,
     o vietinių nepripažįsta, jog šitiek daug moka.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -17292,8 +15260,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     si norint sužinoti vėlės padėtį mirus kokiam nors žmogui,
     kaip tai pamatysime toliau.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -17313,8 +15281,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     kėjimo, dėjo kepures (pokladali szapki)“. Tai buvo senovinis 17
     17 Lieflandische Geschichte (1757 metų leidimas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -17334,8 +15302,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     kas daug ką pakeitė. Aprašysime naujesnius pastebėjimus iš
     Pietų Lietuvos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -17357,8 +15325,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     dų kalbų, dainų, gašlių šokių ir net nusižengimų sutuoktinių
     ištikimybei, mergiškai skaistybei ir panašiai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -17377,8 +15345,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     arba laidojimo laukų, išsibarsčiusių po visą Lietuvą, kurie pa­
     davimuose laikomi pagoniškais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -17396,8 +15364,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     pi giliai po žeme ir aptinkami dažniausiai atsitiktinai, kasant že­
     mę*.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -17415,8 +15383,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     rias dėdavo sudegintų žmonių pelenus. Šias vietas vadindavo
     Obelijomis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -17440,8 +15408,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     subjaurojo ir aptemdė tą Rytų krikščionių sektą, kad kai kurie
     laikė juos veikiau stabmeldžiais negu krikščionimis“.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -17464,8 +15432,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     čių smulkius aprašymus; iš jų tas vietas, kurios mums šiaip ne­
     buvo žinomos, išdėstėme anksčiau įvairiuose straipsniuose.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -17492,8 +15460,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     Rusia. Susidarius tokiai padėčiai, rusų tikėjimo cerkvės galėjo
     paplisti Lietuvoje, ir gausėjo krikščionybės išpažinėjų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -17516,8 +15484,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     miausia Livonijoje, vėliau Prūsijoje, paskui Lietuvoje, paga­
     liau Žemaitijoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -17549,8 +15517,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     pasitaikyti atradimų, liudijančių, jog pas mus Biarmijos raidy­
     nas buvo plačiau pažįstamas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -17575,8 +15543,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     kas, jog tų metų balandžio 28 dieną karaliaus bū­
     ta Gardine.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -17598,8 +15566,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     išorinę gynybą ir sumažino reikšmę kaimyninėse šalyse.,
     padarė ją niokojančių karų grobiu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -17620,8 +15588,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     gyventa anksčiau, negu atvykėliai alanai davė pradžią
     šių lydinių susidarymui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -17639,8 +15607,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     201
     Kildinimas iš pelazgų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -17662,8 +15630,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     Merzeburgo vyskupas, pasakodamas apie Boleslovo Nar­
     siojo karus, 1009 metais mini ir lietuvius**.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -17694,8 +15662,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     kraštus; tai rodo, jog jie kadaise buvo atskilę nuo pir­
     mykščių uolų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -17711,8 +15679,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     Tad/as/ Voliankis. Ji buvo rasta Lietuvoje ir, jo nuomone, pri­
     klauso lietuviškiems paminklams.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -17729,8 +15697,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     niškai arba lenkiškai1. Vilniuje lietuviškus pamokslus kunigai iš
     ambonų sakydavo iki XVII amžiaus pirmojo ketvirčio2.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -17749,8 +15717,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     teko susirūpinti, kad būtų pertvarkytas ūkis ir kad jis duotų
     daugiau pajamų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -17766,8 +15734,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     tančių atstovų ir senatorių suvažiavimai. Iš pradžių jie įvyk-
     davo Volkoviske, o vėliau Slanime.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -17784,8 +15752,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     nuostatų, jis dažnai šaukdavo atskirus Lietuvos seimus ir visada
     skaitėsi su Lietuva, kaip su atskira valstybe.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -17807,8 +15775,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     tuvos valstybę. Priėmę krikščionybę, jie liko jai ištiki­
     mi.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -17826,8 +15794,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     imperiškai. Lucko suvažiavime 1429 m. Lietuva buvo paskelbta suverenia
     valstybe, ir tik atsitiktinumas sutrukdė jai pasidaryti karalyste.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -17845,8 +15813,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     latinių karo tarnybininkų sluoksnis - pilėnai, raiteliai, gerieji
     žmonės - kariai, galintys bet kada stoti į tarnybą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -17862,8 +15830,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     taikos sutartį. Sovietų Rusija pripažino Lietuvos nepriklausomybę.
     Buvo nustatyta Lietuvos siena.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -17885,8 +15853,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     Lvovo, ir net ligi Tamovo, už dešimties mylių nuo Kro­
     kuvos 4 3 .
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -17906,8 +15874,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     ir apsaugojo. Vytauto palaikai buvo atvežti į Vilnių ir iškil­
     mingai palaidoti85.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -17926,8 +15894,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     tenai gyvenantys bajorai, išpažįstantys katalikų tikėjimą. Jiems
     visų pirma ir buvo skirtas Lietuvos istorijos veikalas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -17949,8 +15917,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     riterių karai negalėjo pasiekti to, ką pasiekė silpno žmogaus
     patrauklumas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -18057,7 +16025,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - id: c-163698
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 17"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 17."
   citata_originali: |
     Ir štai Teutonų
     ordino broliai pradėję su jais naują karą (II, 7). Dusburgietis, rašydamas apie lietuvių
@@ -19082,7 +17051,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - id: c-163751
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 15"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 15."
   citata_originali: |
     Taigi Gedimino valdoma Lietuvos valstybė XIV a. 3-iame dešimtmetyje, atremdama
     priešo spaudimą prie Nemuno, kovodama plačiu frontu nuo Suomijos įlankos šiaurėje iki
@@ -19674,7 +17644,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - id: c-163780
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 10"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 10."
   citata_originali: |
     Kai kurie faktai, mūsų nuomone, rodo, kad kovoje prieš danų, lenkų, vokiečių
     ir kitų feodalų agresiją formavosi Lietuvos vadovaujama baltų sąjunga — federacija, tai
@@ -19736,7 +17707,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - id: c-163784
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 17"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 17."
   citata_originali: |
     Kitąkart mūšio metu danguje pasirodžiusi
     mergelė Marija  (III, 141). Žygio prieš Lietuvą metu Karaliaučiaus komtūrui broliui
@@ -20319,7 +18291,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - id: c-163816
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 15"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 15."
   citata_originali: |
     Lenkijos  ir Lietuvos kariuomenė įsiveržė  į Brandenburgo valdas, pasiekė
     Frankfurtą prie Oderio (III, 361). Tvirtindama savo pozicijas prieš Kryžiuočių ordiną,
@@ -20360,7 +18333,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - id: c-163819
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 27"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 27."
   citata_originali: |
     Aprašant XIV a. pradžios įvykius, vėl padaugėja detalių, jos įvairesnės, originalesnės,
     čia kur kas plačiau aprašomi karo žygių  į Lietuvos teritoriją sunkumai ir atsakomieji
@@ -20545,7 +18519,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - id: c-168368
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 161"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 161."
   citata_originali: |
     Už žalą, padarytą per šį niokojamą iš­
     puolį Sembai, lietuviams buvo atsilyginta kitais ir dar
@@ -20595,7 +18570,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - id: c-168370
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 246"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 246."
   citata_originali: |
     Labiausiai vis dėlto lietu­
     vius kamavo tai, kad, sugriovus pilis, žemdirbiai vie­
@@ -20622,7 +18598,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - id: c-168371
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 274"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 274."
   citata_originali: |
     Sėkmingai atgavus Poleksi-
     ją, kur kas didesni rūpesčiai paragino skubėti į tėvy­
@@ -20792,7 +18769,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - id: c-168377
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 675"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 675."
   citata_originali: |
     Ligos ten ištiktas, karalius, lapkričio mėnesį su­
     grįžęs į Krokuvą, leido Augustui vykti į Lietuvą, prieš
@@ -20843,7 +18821,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - id: c-168379
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 727"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 727."
   citata_originali: |
     Iv an as n ep rie šta rav o , k ai A u ­
     gusto
@@ -20876,7 +18855,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - id: c-168380
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 735"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 735."
   citata_originali: |
     Karalius turįs vi­
     siškai atsisakyti Livonijos, pasitraukti iš Ūlos, Sokolo,
@@ -20918,7 +18898,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - id: c-170542
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 52"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 52."
   citata_originali: |
     O Grigorijus buvo šven­
     tasis, kokio iki jo nėra buvę ir daugiau nebebus.
@@ -20968,7 +18949,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - id: c-171626
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 4"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 4."
   citata_originali: |
     Nuo aušrininkų laikų įsigalėjusi vienmatė lietuvio samprata
     trukdė mūsų istorinei sąmonei tinkamai atspindėti istorinį Lie­
@@ -20988,7 +18970,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - id: c-171628
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 11"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 11."
   citata_originali: |
     T. Narbuto lenkų kalba parašytas veikalas dar labiau išryš­
     kino etnokultūrinius lietuvių ir „koroniažų“ (Lenkijos gyven­
@@ -21030,7 +19013,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - id: c-171630
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 49"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 49."
   citata_originali: |
     Be to,
     ir anuometinė atmosfera buvo palanki tokiam sprendimui pri­
@@ -21049,7 +19033,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - id: c-171631
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 61"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 61."
   citata_originali: |
     Per 400 metų nė Vienas lietuvis, išskyrus Kojalavičių, My­
     kolą Lietuvį ir Teodorą Narbutą, nepasirūpino krašto praeiti­
@@ -21067,7 +19052,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - id: c-171632
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 83"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 83."
   citata_originali: |
     Mat jie ne tik kad buvo su helenais tos pačios kilmės -  kaip
     tatai paaiškės pažinus jų senovės istoriją, -  bet ir turėjo vieną
@@ -21088,7 +19074,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - id: c-171633
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 85"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 85."
   citata_originali: |
     Be to, mano pa­
     ties Lietuvos senovės tyrimai, trukę trisdešimt metų, sukaupė
@@ -21109,7 +19096,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - id: c-171634
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 90"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 90."
   citata_originali: |
     Šio dievo garbei buvo švenčiama šventė apie gruodžio 25
     1 Stender. Lettische Grammatik*. Tačiau tai klaidinga išvada, ka­
@@ -21125,7 +19113,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - id: c-171635
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 166"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 166."
   citata_originali: |
     Dėl šių priežasčių dievaitisLie-
     lhuwani (Lietuvonis) visuomet buvo lietuvių mitas ir pamėg­
@@ -21146,7 +19135,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - id: c-171636
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 170"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 170."
   citata_originali: |
     Apie tai
     žiūrėk straipsnyje „Vaižganto šventė“.
@@ -21166,7 +19156,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - id: c-171637
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 177"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 177."
   citata_originali: |
     Dar ir dabar jį tiki tamsūs žmonės“14 15.
     Lietuvoje apie jį girdėti panašūs pasakojimai: kartais ne­
@@ -21185,7 +19176,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - id: c-171638
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 182"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 182."
   citata_originali: |
     Tai galima pastebėti iš to, kas išdėstyta,
     ir iš kai kurių žmonių pasakojimų. Kaip tik tokie bjaurūs vabz­
@@ -21206,7 +19198,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - id: c-171639
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 302"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 302."
   citata_originali: |
     Kuo daugiau tikėta jų buvimu, tuo labiau
     artėjo lietuvių stabmeldystės žlugimas ir tuo daugiau svetimų
@@ -21225,7 +19218,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - id: c-171640
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 303"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 303."
   citata_originali: |
     Beveik nežinome tautos, kuri, būdama tamsi arba nepa­
     žindama tikrojo tikėjimo, neturėtų savų pranašavimo būdų;
@@ -21252,7 +19246,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - id: c-171641
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 320"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 320."
   citata_originali: |
     Arntas (Arndt) 17 pa-
     teilcia priesaiką su užkeikimu, kurios reikalauta iš latvių kai­
@@ -21273,7 +19268,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - id: c-171642
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 352"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 352."
   citata_originali: |
     Tuo tarpu sužadėtinę įvesdavo į trobą, vežėjas nu­
     šokdavo nuo stalelio, pasiimdavo savo rankšluostį, o ant stale­
@@ -21294,7 +19290,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - id: c-171643
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 358"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 358."
   citata_originali: |
     Gražiausia iš lietuvių viešųjų dory­
     bių -  vaišingumas -  uždėdavo namų šeimininkei pareigą būti
@@ -21317,7 +19314,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - id: c-171644
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 363"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 363."
   citata_originali: |
     „Palaidojimo vietoje trimituoja, dainuoja: „Eik, vargše, iš
     šio vargano pasaulio, pilno visokio vargo, į amžinas vestuves;
@@ -21337,7 +19335,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - id: c-171645
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 371"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 371."
   citata_originali: |
     Tuo pats tir­
     damas įsitikinau1 2.
@@ -21356,7 +19355,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - id: c-171646
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 375"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 375."
   citata_originali: |
     Vienoda jų sandara ir tokia pat radimo vieta įtikina,
     jog jos buvo skirtos ne kam kitam, kaip tik laikyti po akimis,
@@ -21375,7 +19375,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - id: c-171647
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 391"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 391."
   citata_originali: |
     Priešingai, lietuvių bajorai, urmu linkstantys į šią
     krikščionybę, sukūrė tarytum naują sektą, kurią autorius va­
@@ -21424,7 +19425,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - id: c-171650
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 395"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 395."
   citata_originali: |
     Rankraštis baigiasi pagyrimu lietuvių tautai, pripažįstamas di­
     delis lietuvių svetingumas, darbštumas, namų gyvenimo do­
@@ -21452,7 +19454,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - id: c-171651
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 429"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 429."
   citata_originali: |
     Nuo vienuoliktojo amžiaus pabaigos ėmė smukti autori­
     tetas vyriausiojo žynio, Krivių Krivaičio, kurio valdžia anks­
@@ -21509,7 +19512,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - id: c-171653
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 514"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 514."
   citata_originali: |
     Romanas Sanguška kovojo kruvinus mū­
     šius su Rusija; įvyko taip, kad karalius, Piotrkovo
@@ -21558,7 +19562,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - id: c-175459
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 188"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 188."
   citata_originali: |
     Sutiksime net
     ir su Strijkovskiu, jog egzistavę korolanai, arba kuršių-
@@ -21580,7 +19585,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - id: c-175460
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 195"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 195."
   citata_originali: |
     Pelazgų kalba yra viena iš seniausių
     šakų, iš kurios išsivystė graikų, lotynų ir lietuvių kalbos.
@@ -21599,7 +19605,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - id: c-175461
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 272"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 272."
   citata_originali: |
     Bet, kai smulkiame tautų sąva­
     de šiam bendriniam pavadinimui neliko vietos, jis buvo
@@ -21654,7 +19661,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - id: c-175463
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 489"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 489."
   citata_originali: |
     Moneta labai plona, labai apgadinta ir išliko
     lik todėl, kad buvo įdėta tarp dviejų stiklinių plokštelių (perpiešti
@@ -21671,7 +19679,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - id: c-175464
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 513"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 513."
   citata_originali: |
     Atvirkščiai,
     visi prieinami tyrinėjimai rodo, kad toji tauta skyrėsi nuo lietuvių.
@@ -21886,7 +19895,8 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - id: c-177134
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 393"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 393."
   citata_originali: |
     Jeigu Apvaizda nori atsilyginti
     tautoms, suteikdama joms laimės dovaną, ji duoda joms šven­
@@ -21907,19 +19917,18 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     - t-194738
 
 ## Ryšiai
-- Turėjo valdovą: [[objektai/asmenys/Aleksandras I]], [[objektai/asmenys/Aleksandras Jogailaitis]], [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/asmenys/Germantas]], [[objektai/asmenys/Jaunutis|Jaunutis (valdovas, XIV a.)]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Kukovaitis]], [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]], [[objektai/asmenys/Netimeras]], [[objektai/asmenys/Pukuveras|Pukuveras (Lietuvos karalius, XIII a.)]], [[objektai/asmenys/Simonas Lengvenis|Simonas Lengvenis (valdovas, XIV a.)]], [[objektai/asmenys/Skirgaila]], [[objektai/asmenys/Stanislovas Augustas Poniatovskis|Stanislovas Augustas Poniatovskis (valdovas)]], [[objektai/asmenys/Tautvila]], [[objektai/asmenys/Tautvilas]], [[objektai/asmenys/Vaišelga|Vaišelga (kunigaikštis)]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]], [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]], [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]], [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Žygimantas Senasis]]
-- Buvo valdoma: [[objektai/grupes/11 brigada]], [[objektai/asmenys/A. Smetona]], [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]], [[objektai/asmenys/Augustas]], [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/grupes/Jogailaičių dinastija]], [[objektai/asmenys/Kernius]], [[objektai/asmenys/Kukovaitis]], [[objektai/grupes/Laikinoji revoliucinė darbininkų ir valstiečių Vyriausybė]], [[objektai/grupes/Lietuvos partizanai]], [[objektai/grupes/Lietuvos Respublikos Seimas|Lietuvos Respublikos Seimas (seimas)]], [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]], [[objektai/grupes/Nacių Vokietija]], [[objektai/grupes/Saksų dinastija]], [[objektai/asmenys/Skirgaila]], [[objektai/asmenys/Šventaragis]], [[objektai/grupes/Totoriai]], [[objektai/asmenys/Trobius]], [[objektai/asmenys/Vladislovas Jogaila]], [[objektai/grupes/Vokiečiai]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]], [[objektai/asmenys/Zigmantas Augustas]], [[objektai/asmenys/Živinbudas]], [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]], [[objektai/asmenys/Žygimantas Senasis]]
-- Buvo kelionės vieta: [[objektai/asmenys/A. Smetona]], [[objektai/asmenys/Aleksandras Balinskis]], [[objektai/asmenys/Antanas Mackevičius]], [[objektai/asmenys/Audrys Juozas Bačkis|Audrys Juozas Bačkis (Vilniaus arkivyskupas metropolitas)]], [[objektai/grupes/Bartai]], [[objektai/asmenys/Bazilijus Serebrianas]], [[objektai/asmenys/Bona Sforca]], [[objektai/asmenys/Brunonas Bonifacijus]], [[objektai/grupes/Danijos karaliaus kariai iš Revelio]], [[objektai/asmenys/Ernekė]], [[objektai/asmenys/Fransua Miteranas]], [[objektai/asmenys/Fridrichas iš Libencelės|Fridrichas iš Libencelės (vyskupas, XIV a.)]], [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/asmenys/Glapiminas]], [[objektai/grupes/Gotai]], [[objektai/asmenys/Jaranda iš Brudzevo|Jaranda iš Brudzevo (vyskupas)]], [[objektai/grupes/Jėzuitų ordinas]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Jonas iš Lichino|Jonas iš Lichino (vyskupas)]], [[objektai/asmenys/Jonas iš Vienos]], [[objektai/asmenys/Jonas Kropidlas|Jonas Kropidlas (vyskupas)]], [[objektai/asmenys/Jonas Paulius II]], [[objektai/asmenys/Jonas Tarnovskis]], [[objektai/grupes/Jotvingiai]], [[objektai/grupes/Karaimai]], [[objektai/asmenys/Kazys Ladyga]], [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]], [[objektai/asmenys/Konradas Lichtenhagenas]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Lenkijos karalystės kariuomenė]], [[objektai/asmenys/Libonas]], [[objektai/asmenys/Michailas Aleksandrovičius]], [[objektai/asmenys/Mikalojus Maskoževskis]], [[objektai/grupes/Napoleono kariuomenė]], [[objektai/grupes/Naugardukiečiai]], [[objektai/grupes/osios oro desanto divizijos 234-asis pulkas]], [[objektai/grupes/Pijarų ordinas]], [[objektai/grupes/Romėnai]], [[objektai/grupes/Rusai]], [[objektai/grupes/Rusinai ir rusų sektantai]], [[objektai/grupes/Senovės romėnai]], [[objektai/grupes/Silezijos ir Vroclavo gyventojai]], [[objektai/asmenys/Skurda]], [[objektai/grupes/SSRS kariuomenė]], [[objektai/asmenys/Stasys Girėnas]], [[objektai/asmenys/Steponas Darius]], [[objektai/grupes/Sūduviai]], [[objektai/asmenys/Šich Achmetas]], [[objektai/grupes/Totoriai]], [[objektai/asmenys/Vladislovas Jogaila]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]], [[objektai/asmenys/Zbignevas Olesnickis|Zbignevas Olesnickis (vyskupas)]], [[objektai/asmenys/Zbignievas Olesnickis]], [[objektai/grupes/Želigovskininkai]], [[objektai/grupes/Žydai]]
-- Gimimo vieta: [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]]
+- Turėjo valdovą: [[objektai/asmenys/Aleksandras Jogailaitis]], [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/asmenys/Jaunutis|Jaunutis (valdovas, XIV a.)]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]], [[objektai/asmenys/Netimeras]], [[objektai/asmenys/Pukuveras|Pukuveras (Lietuvos karalius, XIII a.)]], [[objektai/asmenys/Skirgaila]], [[objektai/asmenys/Stanislovas Augustas Poniatovskis|Stanislovas Augustas Poniatovskis (valdovas)]], [[objektai/asmenys/Vaišelga|Vaišelga (kunigaikštis)]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]], [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]], [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Žygimantas Senasis]]
+- Buvo valdoma: [[objektai/asmenys/A. Smetona]], [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]], [[objektai/asmenys/Augustas]], [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/grupes/Jogailaičių dinastija]], [[objektai/grupes/Lietuvos partizanai]], [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]], [[objektai/asmenys/Šventaragis]], [[objektai/asmenys/Vladislovas Jogaila]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]], [[objektai/asmenys/Zigmantas Augustas]], [[objektai/asmenys/Žygimantas Senasis]]
+- Buvo kelionės vieta: [[objektai/asmenys/Brunonas Bonifacijus]], [[objektai/asmenys/Ernekė]], [[objektai/asmenys/Fransua Miteranas]], [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/asmenys/Glapiminas]], [[objektai/grupes/Jėzuitų ordinas]], [[objektai/asmenys/Jonas iš Lichino|Jonas iš Lichino (vyskupas)]], [[objektai/asmenys/Jonas Paulius II]], [[objektai/grupes/Karaimai]], [[objektai/asmenys/Kazys Ladyga]], [[objektai/asmenys/Libonas]], [[objektai/asmenys/Michailas Aleksandrovičius]], [[objektai/grupes/Naugardukiečiai]], [[objektai/grupes/Pijarų ordinas]], [[objektai/grupes/Silezijos ir Vroclavo gyventojai]], [[objektai/asmenys/Skurda]], [[objektai/grupes/SSRS kariuomenė]], [[objektai/asmenys/Stasys Girėnas]], [[objektai/asmenys/Steponas Darius]], [[objektai/asmenys/Šich Achmetas]], [[objektai/asmenys/Vladislovas Jogaila]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - Mirties vieta: [[objektai/asmenys/Germantas]], [[objektai/asmenys/Šach Achmedas]]
-- Puolė Lietuvą: [[objektai/grupes/Auksinė Orda]], [[objektai/grupes/Aukso orda]], [[objektai/asmenys/Boleslovas Švitrigaila]], [[objektai/asmenys/Burundajus]], [[objektai/asmenys/Dimitras Kaributas]], [[objektai/asmenys/Eberhardas (Varmės vyskupas)]], [[objektai/asmenys/Eberhardas de Virnemburgas]], [[objektai/asmenys/Glebas (Smolensko kunigaikštis)]], [[objektai/grupes/Haličo kunigaikščiai]], [[objektai/grupes/Kalavijuočių ordinas]], [[objektai/grupes/Katalikų Bažnyčia]], [[objektai/grupes/Kijevo Rusia]], [[objektai/asmenys/Konradas Ciolneris Rotenšteinas]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Lenkai]], [[objektai/asmenys/Levas (Haličo kunigaikštis)]], [[objektai/grupes/Livonijos ordinas]], [[objektai/grupes/Lotoriai]], [[objektai/grupes/Maskvėnai]], [[objektai/asmenys/Mechmet Girėjus]], [[objektai/grupes/Mongolai]], [[objektai/asmenys/Olegas (Riazanės didysis kunigaikštis)]], [[objektai/asmenys/Olegas (Romano sūnus)]], [[objektai/grupes/Pskoviečiai]], [[objektai/grupes/Rusai]], [[objektai/grupes/Švedai]], [[objektai/grupes/Totoriai]], [[objektai/grupes/Totorių pajėgos]], [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)]], [[objektai/grupes/Vokiečiai]], [[objektai/grupes/Vokiečių ordinas]], [[objektai/grupes/Želigovskininkai]], [[objektai/grupes/Žmogėdros (androfagai)]]
-- Užėmė Lietuvą: [[objektai/grupes/Bermontininkai]], [[objektai/grupes/Napoleono kariuomenė]], [[objektai/asmenys/P. Virgoličius]], [[objektai/grupes/Rusijos kariuomenė]], [[objektai/grupes/Sovietų Sąjunga]], [[objektai/grupes/Vokiečiai]]
-- Gynė Lietuvą: [[objektai/grupes/II brigada]], [[objektai/asmenys/Jaunutis|Jaunutis (valdovas, XIV a.)]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/grupes/NATO]], [[objektai/asmenys/Paulius Vladimiri]], [[objektai/asmenys/Stanislovas Kiška]], [[objektai/asmenys/Šv. Kazimieras]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]], [[objektai/asmenys/Vytautas Landsbergis]], [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]]
-- Buvo siuntimo vieta: [[objektai/asmenys/Benediktas Makras]], [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu]], [[objektai/grupes/Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti|Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti (institucija)]], [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/grupes/Lenkai]], [[objektai/grupes/Lenkijos karalystės kariuomenė]], [[objektai/grupes/Lenkijos senatas]], [[objektai/grupes/Lenkų senatas]], [[objektai/grupes/Lietuvių aktyvistų frontas]], [[objektai/asmenys/Nogajus (Aukso ordos valdytojas)]], [[objektai/grupes/Rusai]], [[objektai/asmenys/Švitrigaila]], [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)]], [[objektai/grupes/Vitebsko gvardijos 103-ioji oro desanto divizija]], [[objektai/asmenys/Vladislovas Jogaila]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]], [[objektai/asmenys/Žygimantas]]
-- Buvo žygio kryptis: [[objektai/asmenys/A. N. Trubeckojus]], [[objektai/asmenys/Albertas (Karaliaučiaus komtūras)]], [[objektai/asmenys/Andriejus (Polocko kunigaikštis)]], [[objektai/grupes/Bermontininkai]], [[objektai/asmenys/Burchardas Harenas]], [[objektai/asmenys/Darijus]], [[objektai/grupes/Europos kryžininkai]], [[objektai/asmenys/Fridrichas iš Libencelės|Fridrichas iš Libencelės (vyskupas, XIV a.)]], [[objektai/asmenys/Henrikas Cutsvertas]], [[objektai/asmenys/Jaroslavas]], [[objektai/asmenys/Jaroslavas (Kijevo valdovas)]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Livonijos ordinas]], [[objektai/asmenys/Petras Šuiskis]], [[objektai/grupes/Rusai]], [[objektai/asmenys/Švitrigaila]], [[objektai/asmenys/Valteris, pravarde Goldinas]], [[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]], [[objektai/asmenys/Vinrichas Kniprodė]], [[objektai/grupes/Vokiečiai]], [[objektai/asmenys/Volkvinas]], [[objektai/asmenys/Zigfridas fon Dahenfeldas]], [[objektai/asmenys/Zigfridas iš Rechbergo]], [[objektai/asmenys/Zöllneris]]
-- Prekiavo su: [[objektai/grupes/Anglai]], [[objektai/vietos/Kafa]], [[objektai/vietos/Leningradas]], [[objektai/vietos/Maskva]], [[objektai/vietos/Ryga]], [[objektai/grupes/Rygiečiai]], [[objektai/vietos/Silezija]], [[objektai/grupes/Vilniaus miestiečių luomas]], [[objektai/vietos/Vilnius]]
-- Buvo užkariauta: [[objektai/grupes/Rusai]], [[objektai/grupes/Sovietų Sąjunga]]
-- Gyvenamoji vieta: [[objektai/grupes/Anglai]], [[objektai/grupes/Armėnai]], [[objektai/grupes/Augustinijonų ordinas]], [[objektai/grupes/Bajorai]], [[objektai/grupes/Dalomoji Komisija]], [[objektai/asmenys/Derska]], [[objektai/grupes/Karaimai]], [[objektai/grupes/Karmelitų ordinas]], [[objektai/asmenys/Kazys Ladyga]], [[objektai/asmenys/Krivis]], [[objektai/grupes/Kuršiai]], [[objektai/grupes/Lenkai]], [[objektai/grupes/Lenkų socialistų partija]], [[objektai/grupes/Lenkų tautiniai demokratai]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Lietuvių Mokslo Draugija]], [[objektai/grupes/Lietuvos rusinai]], [[objektai/grupes/Lietuvos totoriai]], [[objektai/grupes/Litvakai]], [[objektai/grupes/Litvinai]], [[objektai/grupes/Manichėjai]], [[objektai/grupes/Normanai]], [[objektai/grupes/Pranciškonų ordinas]], [[objektai/grupes/Raganos]], [[objektai/grupes/Rusai]], [[objektai/grupes/Rusinai]], [[objektai/grupes/Skalviai]], [[objektai/grupes/Skandinavai]], [[objektai/grupes/Slavai]], [[objektai/grupes/Stačiatikiai]], [[objektai/grupes/Sūduviai]], [[objektai/asmenys/Tochtamišas]], [[objektai/grupes/Totoriai]], [[objektai/grupes/Triznų giminė]], [[objektai/grupes/Unitai]], [[objektai/grupes/Vokiečiai]], [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]], [[objektai/grupes/Žydai]]
-- Turėjo priklausinį: [[objektai/grupes/12-asis ulonų pulkas]], [[objektai/grupes/2-asis pėstininkų pulkas]], [[objektai/grupes/Abiejų Tautų Respublika]], [[objektai/vietos/Adutiškis]], [[objektai/vietos/Aukštaitija]], [[objektai/grupes/Bajorai]], [[objektai/vietos/Baltoji Rusia]], [[objektai/vietos/Dainava]], [[objektai/vietos/Drohičinas]], [[objektai/vietos/Dubysa]], [[objektai/grupes/Edukacinė Komisija]], [[objektai/vietos/Europos geografinis centras]], [[objektai/vietos/Gardino gubernija]], [[objektai/vietos/Juodoji Rusia]], [[objektai/vietos/Kafa]], [[objektai/vietos/Karaliaučius]], [[objektai/vietos/Kaunas]], [[objektai/vietos/Kauno gubernija]], [[objektai/vietos/Kauno pilis|Kauno pilis (pilis)]], [[objektai/vietos/Kijevas]], [[objektai/grupes/Kijevo kunigaikštystė]], [[objektai/vietos/Kijevo Rusia]], [[objektai/vietos/Klaipėda]], [[objektai/vietos/Klaipėdos kraštas]], [[objektai/grupes/Kuršo kunigaikštystė]], [[objektai/grupes/Laikinė Lietuvos vyriausybė]], [[objektai/vietos/Latgala]], [[objektai/grupes/Lietuviai]], [[objektai/daiktai/Lietuvos auksas]], [[objektai/daiktai/Lietuvos herbas Vytis]], [[objektai/grupes/Lietuvos kariuomenė]], [[objektai/vietos/Livonija]], [[objektai/grupes/Livonijos kunigaikštystė]], [[objektai/grupes/Livonijos ordinas]], [[objektai/vietos/Luckas]], [[objektai/vietos/Ludza]], [[objektai/vietos/Minija]], [[objektai/vietos/Minsko Lietuva]], [[objektai/daiktai/Monetos]], [[objektai/vietos/Mozyrius]], [[objektai/vietos/Nadruva]], [[objektai/vietos/Naugardukas]], [[objektai/vietos/Neroma]], [[objektai/vietos/Nevėžis]], [[objektai/vietos/Novosilė]], [[objektai/vietos/Obelijos]], [[objektai/vietos/Pagraudenė]], [[objektai/vietos/Pagraudė]], [[objektai/vietos/Palanga]], [[objektai/daiktai/Partizaninio pasipriešinimo pradžios Lietuvos laisvės kovotojų raištis]], [[objektai/vietos/Plateliai]], [[objektai/vietos/Podolė]], [[objektai/vietos/Podolija]], [[objektai/vietos/Polockas]], [[objektai/vietos/Pskovas]], [[objektai/vietos/Ragainė]], [[objektai/vietos/Rezeknė]], [[objektai/vietos/Rokiškio apskritis]], [[objektai/vietos/Romanova]], [[objektai/vietos/Rusia]], [[objektai/grupes/Rygos vyskupija]], [[objektai/vietos/Severskas]], [[objektai/vietos/Sėlpilis]], [[objektai/vietos/Skalva]], [[objektai/vietos/Smolenskas]], [[objektai/vietos/Sūduva]], [[objektai/daiktai/Šarvuotasis traukinys Gediminas]], [[objektai/vietos/Šušvė]], [[objektai/grupes/Totoriai]], [[objektai/vietos/Trakai]], [[objektai/vietos/Ukmergės apskritis]], [[objektai/vietos/Venta]], [[objektai/daiktai/Vėliavos]], [[objektai/vietos/Vilnius]], [[objektai/vietos/Vitebskas]], [[objektai/vietos/Voluinė]], [[objektai/vietos/Volynė]], [[objektai/grupes/Vyriausiasis Lietuvos tribunolas]], [[objektai/daiktai/Vytis]], [[objektai/grupes/Žemaičiai]], [[objektai/vietos/Žemaitija]], [[objektai/daiktai/Žygimanto Augusto Vilniuje pagaminti ginklai ir amunicija]]
-- Lietuva prekiavo su [[objektai/vietos/Dancigas]], [[objektai/grupes/Egiptiečiai]], [[objektai/grupes/Finikiečiai]], [[objektai/grupes/Hanza]], [[objektai/vietos/Karaliaučius]], [[objektai/vietos/Lenkija]], [[objektai/vietos/Livonija]], [[objektai/vietos/Maskva]], [[objektai/grupes/Nepriklausomų Valstybių Sandrauga]], [[objektai/vietos/Rusija]], [[objektai/vietos/Ryga]], [[objektai/vietos/Vokietija]]
-- Lietuva priklausė [[objektai/grupes/Abiejų Tautų Respublika]], [[objektai/grupes/Auksinė Orda]], [[objektai/vietos/Dubrovna]], [[objektai/vietos/Europa]], [[objektai/grupes/Europos Sąjunga]], [[objektai/grupes/Europos Taryba|Europos Taryba (institucija)]], [[objektai/asmenys/Jadvyga Jogailienė]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/vietos/Lenkija]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/NATO]], [[objektai/vietos/Rusija]], [[objektai/vietos/Rytų Europa]], [[objektai/vietos/Rytų kraštas (Ostlandas)]], [[objektai/vietos/SSRS]], [[objektai/grupes/Šiaurės Atlanto sutarties organizacija (NATO)]], [[objektai/grupes/Tautų Sąjunga]], [[objektai/vietos/Vidurio Europa]], [[objektai/vietos/Vokietija]]
+- Puolė Lietuvą: [[objektai/grupes/Aukso orda]], [[objektai/grupes/Haličo kunigaikščiai]], [[objektai/grupes/Kalavijuočių ordinas]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Lenkai]], [[objektai/grupes/Livonijos ordinas]], [[objektai/grupes/Maskvėnai]], [[objektai/asmenys/Mechmet Girėjus]], [[objektai/grupes/Mongolai]], [[objektai/asmenys/Olegas (Riazanės didysis kunigaikštis)]], [[objektai/grupes/Pskoviečiai]], [[objektai/grupes/Švedai]], [[objektai/grupes/Totoriai]], [[objektai/grupes/Totorių pajėgos]], [[objektai/grupes/Žmogėdros (androfagai)]]
+- Užėmė Lietuvą: [[objektai/grupes/Bermontininkai]], [[objektai/grupes/Napoleono kariuomenė]], [[objektai/grupes/Sovietų Sąjunga]], [[objektai/grupes/Vokiečiai]]
+- Gynė Lietuvą: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Buvo siuntimo vieta: [[objektai/asmenys/Benediktas Makras]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/grupes/Lenkai]], [[objektai/grupes/Lenkijos karalystės kariuomenė]], [[objektai/grupes/Lenkijos senatas]], [[objektai/grupes/Lenkų senatas]], [[objektai/asmenys/Nogajus (Aukso ordos valdytojas)]], [[objektai/grupes/Rusai]], [[objektai/grupes/Vitebsko gvardijos 103-ioji oro desanto divizija]], [[objektai/asmenys/Vladislovas Jogaila]]
+- Buvo žygio kryptis: [[objektai/asmenys/Andriejus (Polocko kunigaikštis)]], [[objektai/grupes/Europos kryžininkai]], [[objektai/asmenys/Jaroslavas (Kijevo valdovas)]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Švitrigaila]], [[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]], [[objektai/asmenys/Vinrichas Kniprodė]]
+- Prekiavo su: [[objektai/grupes/Vilniaus miestiečių luomas]]
+- Buvo užkariauta: [[objektai/grupes/Sovietų Sąjunga]]
+- Gyvenamoji vieta: [[objektai/asmenys/Derska]], [[objektai/grupes/Lietuvos rusinai]], [[objektai/asmenys/Tochtamišas]], [[objektai/grupes/Totoriai]], [[objektai/grupes/Triznų giminė]], [[objektai/grupes/Žydai]]
+- Turėjo priklausinį: [[objektai/vietos/Aukštaitija]], [[objektai/vietos/Baltoji Rusia]], [[objektai/vietos/Karaliaučius]], [[objektai/vietos/Kijevas]], [[objektai/grupes/Kijevo kunigaikštystė]], [[objektai/vietos/Kijevo Rusia]], [[objektai/vietos/Klaipėdos kraštas]], [[objektai/daiktai/Lietuvos auksas]], [[objektai/grupes/Lietuvos kariuomenė]], [[objektai/vietos/Livonija]], [[objektai/vietos/Pagraudė]], [[objektai/vietos/Palanga]], [[objektai/vietos/Podolė]], [[objektai/vietos/Podolija]], [[objektai/vietos/Polockas]], [[objektai/vietos/Ragainė]], [[objektai/vietos/Severskas]], [[objektai/vietos/Sėlpilis]], [[objektai/vietos/Smolenskas]], [[objektai/vietos/Trakai]], [[objektai/vietos/Ukmergės apskritis]], [[objektai/vietos/Vitebskas]], [[objektai/vietos/Voluinė]], [[objektai/grupes/Žemaičiai]], [[objektai/vietos/Žemaitija]]
+- Lietuva prekiavo su [[objektai/vietos/Dancigas]], [[objektai/vietos/Karaliaučius]], [[objektai/vietos/Lenkija]], [[objektai/vietos/Vokietija]]
+- Lietuva priklausė [[objektai/vietos/Europa]], [[objektai/grupes/Europos Sąjunga]], [[objektai/grupes/Europos Taryba|Europos Taryba (institucija)]], [[objektai/grupes/NATO]], [[objektai/vietos/Rusija]], [[objektai/vietos/Rytų Europa]], [[objektai/vietos/SSRS]], [[objektai/grupes/Šiaurės Atlanto sutarties organizacija (NATO)]], [[objektai/grupes/Tautų Sąjunga]]

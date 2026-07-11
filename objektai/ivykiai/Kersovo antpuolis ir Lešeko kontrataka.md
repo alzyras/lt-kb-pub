@@ -49,18 +49,6 @@ Nenurodyta
 - t-001
   global_id: t-62312
   teiginys: "Aštuoni šimtai Lietuvos raitelių nuniokojo 10 Kersovo kaimų, o Krokuvos kunigaikštis Lešekas kontratakoje beveik visus juos sunaikino."
-  teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Lietuviai puolė Kersovas (0.81)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "513266-514124; hash=a1f37a647a58e6d5fd0f5971929f72d31e1c571938506bef81c8a81cded49c56; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Kersovas: 0.81"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Kersovas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Lietuvos raiteliai nuniokojo kaimus Kersovo žemėje, todėl palaikomas puolimo ryšys į Kersovą."
   pagrindžia:
     - c-62859
 ## Reikšmingi paminėjimai
@@ -82,8 +70,8 @@ Nenurodyta
     smogė tikėjimo priešams tokį smūgį, kad iš aštuonių šimtų vyrų vos dešimčiai pavyko
     pasprukti.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -94,7 +82,8 @@ Nenurodyta
 - id: c-62859
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 162"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 162."
   citata_originali: |
     Dar apie tą patį: apie aštuonių šimtų lietuvių žūtį
 

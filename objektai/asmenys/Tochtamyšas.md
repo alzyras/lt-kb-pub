@@ -42,20 +42,6 @@ Vytautas pažadėjo grąžinti jam sostą, o Tochtamyšas už tai pažadėjo ats
 - t-002
   global_id: t-51184
   teiginys: "Tochtamyšas buvo Saladino tėvas; po Tochtamyšo mirties Saladinas prisiglaudė pas Vytautą."
-  semantiniai_rysiai: "Saladinas buvo sūnus Tochtamyšas (0.99)"
-  temporaliniai_duomenys: "įvykio data: 1409 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Kontekstinis fragmentas perrašytas į pilną citata paremtą sakinį apie Tochtamyšą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "356004-356328; hash=1d3584e89d3a4797843331b9f30bdf84b4e33451e4c76be0e1cc52e26dec29e0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sunus -> Tochtamyšas: 0.99"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Saladinas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Tochtamyšas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata tiesiogiai patvirtina Saladino ir Tochtamyšo tėvo-sūnaus ryšį."
   pagrindžia:
     - c-36521
 
@@ -63,19 +49,6 @@ Vytautas pažadėjo grąžinti jam sostą, o Tochtamyšas už tai pažadėjo ats
 - t-001
   global_id: t-51185
   teiginys: "Po Tochtamyšo mirties jo vyriausias sūnus Saladinas buvo prisiglaudęs pas Vytautą."
-  semantiniai_rysiai: "Saladinas buvo sūnus Tochtamyšas (0.99)"
-  temporaliniai_duomenys: "įvykio data: 1409 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "356004-356328; hash=1d3584e89d3a4797843331b9f30bdf84b4e33451e4c76be0e1cc52e26dec29e0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sunus -> Tochtamyšas: 0.99"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Saladinas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Tochtamyšas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo, kad Saladinas buvo Tochtamyšo sūnus."
   pagrindžia:
     - c-36521
 
@@ -83,19 +56,6 @@ Vytautas pažadėjo grąžinti jam sostą, o Tochtamyšas už tai pažadėjo ats
 - t-003
   global_id: t-184841
   teiginys: "Tochtamyšas, negalėdamas įveikti Kerim Berdžio, su svarbiausiais savo šalininkais pabėgo pas Vytautą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "694669-695149; hash=55eb61aebbdee1e89c71bc3d84931bbc82d0069bb828ed7fe5b5656f64e3ca5a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Viena: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Tochtamyšas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Viena: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tochtamyšas\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-168202
 
@@ -103,21 +63,6 @@ Vytautas pažadėjo grąžinti jam sostą, o Tochtamyšas už tai pažadėjo ats
 - t-004
   global_id: t-184842
   teiginys: "Tochtamyšas Vilniuje buvo Vytauto priimtas, gavo paramos pažadą ir buvo paskelbtas Užvolgio skitų chanu."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "694945-695510; hash=6d7a94bec726ddd283c9181b0d2b89ab33b2083c648c8dbb4af00bd72e7a7c52; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Tochtamyšas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=12"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tochtamyšas\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-168203
 
@@ -125,20 +70,6 @@ Vytautas pažadėjo grąžinti jam sostą, o Tochtamyšas už tai pažadėjo ats
 - t-005
   global_id: t-184843
   teiginys: "Kerim Berdis mūšyje išsklaidė Tochtamyšo dalinius ir nužudė savo brolį Tochtamyšą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Kerim Berdis puolė Tochtamyšas (0.97); Tochtamyšas buvo brolis Kerim Berdis (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "695511-695962; hash=9d174d4c5c54ed641f4ff9f99fa9adc5515ab434c60c7a270fa0d19aa54bfe37; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Tochtamyšas: 0.97"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kerim Berdis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Tochtamyšas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Kerim Berdis mūšyje išsklaidė Tochtamyšo dalinius ir nužudė patį Tochtamyšą."
   pagrindžia:
     - c-168204
 - susijęs iš [[objektai/posakiai/„Eime, užkariausime totorių žemę, sumušime Temir-Kutlujų, pasodinsime sostan chaną Tochtamyšą, o jis mus pasodins valdyti visos Rusų žemės.“.md#claim-t-195033|„Eime, užkariausime totorių žemę, sumušime Temir-Kutlujų, pasodinsime sostan chaną Tochtamyšą, o jis mus pasodins valdyti visos Rusų žemės.“]]: Šeši tūkstančiai devyni šimtai šeštaisiais1 7 metais įvyko baisus mūšis tarp didžiojo kunigaikščio Vytauto ir chano Temir-Kutlujaus Didysis kunigaikštis Vy tautas sutelkė nesuskaičiuojamą daugybę kariuomenės, jo pusėje buvo chanas Tochtamyšas su savo kariuome.
@@ -156,8 +87,8 @@ Vytautas pažadėjo grąžinti jam sostą, o Tochtamyšas už tai pažadėjo ats
     mirus, buvo pas Vytautą prisiglaudęs. Žalgirio karo metu ir jisai
     siuntė Vytautui pagalbos^1 ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -179,8 +110,8 @@ Vytautas pažadėjo grąžinti jam sostą, o Tochtamyšas už tai pažadėjo ats
     būsianti didelė nauda, jeigu palenks į save šios tautos
     vadą, jį užstodamas.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -202,8 +133,8 @@ Vytautas pažadėjo grąžinti jam sostą, o Tochtamyšas už tai pažadėjo ats
     šas sugrįžo į tėvynę, svajodamas apie valdžią, tačiau be
     savo krašto kariuomenės, o lydimas Vytauto pulkų.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -227,8 +158,8 @@ Vytautas pažadėjo grąžinti jam sostą, o Tochtamyšas už tai pažadėjo ats
     čias brolis Jerim Berdis, neišgąsdintas brolio likimo ir
     kraujo praliejimo, taip pat pabėgo pas Vytautą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -260,7 +191,8 @@ Vytautas pažadėjo grąžinti jam sostą, o Tochtamyšas už tai pažadėjo ats
 - id: c-168202
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 396"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 396."
   citata_originali: |
     Kerim Berdis,
     galingesnis nei kiti broliai, jėga paėmė tai, ko negalėjo
@@ -282,7 +214,8 @@ Vytautas pažadėjo grąžinti jam sostą, o Tochtamyšas už tai pažadėjo ats
 - id: c-168203
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 396"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 396."
   citata_originali: |
     Vytautas, ne vieną
     kartą ligi tol patyręs šios tautos tvirtą palankumą ir
@@ -330,5 +263,4 @@ Vytautas pažadėjo grąžinti jam sostą, o Tochtamyšas už tai pažadėjo ats
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Saladinas]]
 - Broliai: [[objektai/asmenys/Kerim Berdis]]
-- Sąjungininkai: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - Puolė Tochtamyšą: [[objektai/asmenys/Kerim Berdis]]

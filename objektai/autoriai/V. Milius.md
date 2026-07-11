@@ -41,16 +41,6 @@ Milius (AkMD, t.
 - t-001
   global_id: t-31040
   teiginys: "V. Milius pateikė duomenų apie Vilniaus amatų pramonę, darbininkų padėtį ir cechus XIX a. pabaigoje bei XX a. pradžioje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "226133-226570; hash=892db49e94a5d73f6ca9b6900bcb769b14df2f140235fcb8259bf56cb9587498; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> V. Merkys: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "V. Milius: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "V. Merkys: mention_match, author, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"V. Milius\" parinktas kaip owner_note_path. Targetas \"V. Merkys\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-33176
 - susijęs iš [[objektai/autoriai/Lietuvos istorikai ir socialinės istorijos tyrėjai.md#claim-t-179539|Lietuvos istorikai ir socialinės istorijos tyrėjai]]: P. Žostautaitė tyrė Prūsijos lietuvių vokietinimą ir pasipriešinimą jam 1848-1914 m.
@@ -72,8 +62,8 @@ Milius (AkMD, t.
     vičius (IstV, t. 9, 1968, 97-111 p.) ir V. Milius (AkMD, t. 19,
     1965, 169-183 p.).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

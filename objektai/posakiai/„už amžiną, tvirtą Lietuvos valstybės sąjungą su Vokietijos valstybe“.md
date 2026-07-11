@@ -45,19 +45,6 @@ media_all_json: |-
 - t-001
   global_id: t-45874
   teiginys: "1917 m. pabaigoje Vokietija spaudė Lietuvos Tarybą deklaruoti Lietuvos valstybę ir jos prisijungimą prie Vokietijos."
-  temporaliniai_duomenys: "įvykio data: 1917 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiksliai perteikia citatos informaciją."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "263427-264073; hash=356d6cd21f0158f79cbf15b6bcc60e6ba6938f9dc6428e15be5beffb7c18b349; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "„už amžiną, tvirtą Lietuvos valstybės sąjungą su Vokietijos valstybe“: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=17"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"„už amžiną, tvirtą Lietuvos valstybės sąjungą su Vokietijos valstybe“\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-23682
 
@@ -65,19 +52,6 @@ media_all_json: |-
 - t-003
   global_id: t-45873
   teiginys: "Lietuvos Taryba, vykdydama Vokietijos reikalavimą, pasisakė „už amžiną, tvirtą Lietuvos valstybės sąjungą su Vokietijos valstybe“."
-  temporaliniai_duomenys: "įvykio data: 1917 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai susieja Lietuvos Tarybos veiksmą su citatoje pateikta formuluote."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "263687-264607; hash=71eee29c64192dc0a7c768445d2ca9541ae5e0bde24cc4e24ac9ff590ba011f5; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "„už amžiną, tvirtą Lietuvos valstybės sąjungą su Vokietijos valstybe“: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"„už amžiną, tvirtą Lietuvos valstybės sąjungą su Vokietijos valstybe“\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-48534
 
@@ -85,19 +59,6 @@ media_all_json: |-
 - t-001
   global_id: t-45874
   teiginys: "1917 m. pabaigoje Vokietija spaudė Lietuvos Tarybą deklaruoti Lietuvos valstybę ir jos prisijungimą prie Vokietijos."
-  temporaliniai_duomenys: "įvykio data: 1917 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiksliai perteikia citatos informaciją."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "263427-264073; hash=356d6cd21f0158f79cbf15b6bcc60e6ba6938f9dc6428e15be5beffb7c18b349; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "„už amžiną, tvirtą Lietuvos valstybės sąjungą su Vokietijos valstybe“: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=17"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"„už amžiną, tvirtą Lietuvos valstybės sąjungą su Vokietijos valstybe“\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-23682
 ## Reikšmingi paminėjimai
@@ -117,8 +78,8 @@ media_all_json: |-
     kiek pataisęs, grąžino ją karinei administracijai gruodžio 11 dieną kaip
     priimtą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -144,8 +105,8 @@ media_all_json: |-
     keturiomis konvencijomis (karinė, transporto, finansų, muitų). Nebeliko
     nė žodžio apie Steigiamąjį Seimą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

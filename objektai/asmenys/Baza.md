@@ -30,21 +30,6 @@ Teodorikas mūšio lauke įveikė Bazos vadovaujamus bulgarus prieš surengdamas
 - t-001
   global_id: t-191375
   teiginys: "Teodorikas mūšio lauke įveikė Bazos vadovaujamus bulgarus prieš surengdamas savo kariuomenių vadų pasitarimą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "575183-575821; hash=4b43f015729c597280623f66ae2e37cf699a3b0f44581cb3c4d31f2d47b93718; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Teodorikas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Baza: owner_note_path, person"
-  ryšio_targeto_parinkimas: "Teodorikas: mention_match, person, gap=1"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Baza\" parinktas kaip owner_note_path. Targetas \"Teodorikas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174257
 ## Reikšmingi paminėjimai
@@ -67,8 +52,8 @@ Teodorikas mūšio lauke įveikė Bazos vadovaujamus bulgarus prieš surengdamas
     tvirtino vietovėje, tarsi laukdamas priešo. Gotų karalius
     iškart ten iškeliavo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -79,7 +64,8 @@ Teodorikas mūšio lauke įveikė Bazos vadovaujamus bulgarus prieš surengdamas
 - id: c-174257
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 321"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 321."
   citata_originali: |
     327
     Odoakras savo ruožtu taip pat negaišo laiko; jis su­

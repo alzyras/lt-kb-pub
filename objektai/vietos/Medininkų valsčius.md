@@ -43,16 +43,6 @@ Dusburgietis teigia, kad 1314 viešpaties metais, po jo [Kristaus] apipjaustymo 
 - t-003
   global_id: t-58353
   teiginys: "Medininkai centrinėje Žemaitijoje Dusburgiečio vadinti valsčiumi, nors XIV a. pabaigos duomenys rodo ten buvus žemę iš kelių valsčių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "648880-649628; hash=9d905b4f82c972afff9b87263f3a0b9aff7c22534b7c1e7447404c25d308da5d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Krivičiai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Medininkų valsčius: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Krivičiai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Medininkų valsčius\" parinktas kaip owner_note_path. Targetas \"Krivičiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-58985
 
@@ -60,19 +50,6 @@ Dusburgietis teigia, kad 1314 viešpaties metais, po jo [Kristaus] apipjaustymo 
 - t-005
   global_id: t-58354
   teiginys: "1316 m. Ragainės broliai Medininkų valsčiuje sudegino du kaimus, išžudė vyrus, o moteris ir vaikus paėmė į nelaisvę."
-  temporaliniai_duomenys: "įvykio data: 1316 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata remia konkretų faktą apie du sudegintus kaimus Medininkų valsčiuje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "657223-657770; hash=f04973f27e96d082c2d8566480be957f0412255b9f389a9e9169579056b3c739; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Medininkai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Medininkų valsčius: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Medininkai: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Medininkų valsčius\" parinktas kaip owner_note_path. Targetas \"Medininkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-58986
 
@@ -80,19 +57,6 @@ Dusburgietis teigia, kad 1314 viešpaties metais, po jo [Kristaus] apipjaustymo 
 - t-001
   global_id: t-58355
   teiginys: "1314 m. brolis Henrikas su Sembos ir Notangos vyrais įsiveržė į Medininkų valsčių, jį nusiaubė ir paėmė ar nužudė 700 žmonių."
-  temporaliniai_duomenys: "įvykio data: 1314 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata remia aiškų žygio, vietos ir padarinių faktą; pašalintos perteklinės detalės."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "647348-648137; hash=daa323e76e06a534a21e606ba8aab2e97e6deb84689291ed4dc4dad104a5db5f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Medininkai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Medininkų valsčius: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Medininkai: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Medininkų valsčius\" parinktas kaip owner_note_path. Targetas \"Medininkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-58987
 
@@ -100,19 +64,6 @@ Dusburgietis teigia, kad 1314 viešpaties metais, po jo [Kristaus] apipjaustymo 
 - t-004
   global_id: t-58356
   teiginys: "1316 m. brolis Henrikas su Reino krašto maldininkais nusiaubė Medininkų valsčių ir paėmė ar nukovė 200 žmonių."
-  temporaliniai_duomenys: "įvykio data: 1316 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata tiesiogiai remia Medininkų valsčiaus nusiaubimą 1316 m. ir jo padarinius."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "655186-655662; hash=a72516142084c9d7b3050ed544e7ca74580a99de66ca4ebf00f620dc3001b351; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Medininkai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Medininkų valsčius: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Medininkai: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Medininkų valsčius\" parinktas kaip owner_note_path. Targetas \"Medininkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-58989
 
@@ -120,19 +71,6 @@ Dusburgietis teigia, kad 1314 viešpaties metais, po jo [Kristaus] apipjaustymo 
 - t-002
   global_id: t-58357
   teiginys: "1314 m. apie Grabnyčias brolis Henrikas Medininkų valsčiuje užpuolė Sizditės pilį, o vėliau nusiaubė jos apylinkes."
-  temporaliniai_duomenys: "įvykio data: 1314 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata remia žygio į Medininkų valsčių ir Sizditės pilies puolimo faktą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "648177-648879; hash=973dcb1ead995272fa066f037bf2f6242dee803996dd93e24e8d063e3af202f0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Medininkai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Medininkų valsčius: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Medininkai: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Medininkų valsčius\" parinktas kaip owner_note_path. Targetas \"Medininkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-58988
 
@@ -140,19 +78,6 @@ Dusburgietis teigia, kad 1314 viešpaties metais, po jo [Kristaus] apipjaustymo 
 - t-002
   global_id: t-58357
   teiginys: "1314 m. apie Grabnyčias brolis Henrikas Medininkų valsčiuje užpuolė Sizditės pilį, o vėliau nusiaubė jos apylinkes."
-  temporaliniai_duomenys: "įvykio data: 1314 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata remia žygio į Medininkų valsčių ir Sizditės pilies puolimo faktą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "648177-648879; hash=973dcb1ead995272fa066f037bf2f6242dee803996dd93e24e8d063e3af202f0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Medininkai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Medininkų valsčius: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Medininkai: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Medininkų valsčius\" parinktas kaip owner_note_path. Targetas \"Medininkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-58988
 
@@ -160,23 +85,6 @@ Dusburgietis teigia, kad 1314 viešpaties metais, po jo [Kristaus] apipjaustymo 
 - t-007
   global_id: t-185046
   teiginys: "1316 m. kryžiuočiai nusiaubė Paštuvos, Medininkų ir Pagraudės valsčius."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Kryžiuočių ordinas puolė Medininkų valsčius (0.88); Kryžiuočių ordinas puolė Pagraudė (0.88)"
-  temporaliniai_duomenys: "įvykio data: 1316 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "334341-334759; hash=391439d7222eecbf3ef47172543a5126fbd10b32d3e92497bcb246af1eea13e8; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Medininkų valsčius: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Medininkų valsčius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Kryžiuočiai tiesiogiai nurodyti kaip Medininkų valsčiaus niokotojai."
   pagrindžia:
     - c-168407
 
@@ -184,12 +92,6 @@ Dusburgietis teigia, kad 1314 viešpaties metais, po jo [Kristaus] apipjaustymo 
 - t-008
   global_id: t-194541
   teiginys: "Dar apie tą patį Tais pačiais 1314 metais, apie grabnyčias (vasario 2), tas pats brolis Henrikas, maršalas, dar kartą nužygiavo su visa savo kariuomene į Medininkų valsčių ir ten užpuolė pilį, vardu Sizditė570, kurios pilėnai narsiai priešinosi; šioje kovoje."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "648177-648879; hash=973dcb1ead995272fa066f037bf2f6242dee803996dd93e24e8d063e3af202f0; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-58988
 ## Reikšmingi paminėjimai
@@ -209,8 +111,8 @@ Dusburgietis teigia, kad 1314 viešpaties metais, po jo [Kristaus] apipjaustymo 
     Žemaitijos centriniai valsčiai ir sudaryta vieninga gynybos prieš Ordino agresiją sistema,
     kurios centras, matyt, buvęs Medvėgalyje (Łowmiański H., Studja..., 2, p. 81—82).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -229,8 +131,8 @@ Dusburgietis teigia, kad 1314 viešpaties metais, po jo [Kristaus] apipjaustymo 
     200 lietuvių. Vis dėlto, išvydę krikščionių kariuomenę, per anksti išpuolusią iš pasalų, jie
     pasileido bėgti ir šitaip išsigelbėjo.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -250,8 +152,8 @@ Dusburgietis teigia, kad 1314 viešpaties metais, po jo [Kristaus] apipjaustymo 
     per tris mylias į vieną bei kitą pusę jį nusiaubė, degindami bei piešdami, o nužudę bei
     paėmę į nelaisvę septynis šimtus žmonių, sugrįžo namo su dideliu grobiu.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -276,8 +178,8 @@ Dusburgietis teigia, kad 1314 viešpaties metais, po jo [Kristaus] apipjaustymo 
 
        322 (315).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -297,8 +199,8 @@ Dusburgietis teigia, kad 1314 viešpaties metais, po jo [Kristaus] apipjaustymo 
     į Medininkų valsčių bei  jį nusiaubė, du šimtus žmonių nukaudamas ar paimdamas  į
     nelaisvę. Broliai neteko net penkiasdešimties vyrų nukautaisiais.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -319,8 +221,8 @@ Dusburgietis teigia, kad 1314 viešpaties metais, po jo [Kristaus] apipjaustymo 
     ir Sudargo šeimynai, nes netikėtai pasirodęs priešas
     paėmė į nelaisvę žmoną, sūnus ir visus šeimynykščius.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -331,7 +233,8 @@ Dusburgietis teigia, kad 1314 viešpaties metais, po jo [Kristaus] apipjaustymo 
 - id: c-58985
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 209"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 209."
   citata_originali: |
     Apie Krivičių žemės nuniokojimą ir Naugarduko miesto užkariavimą
 
@@ -353,7 +256,8 @@ Dusburgietis teigia, kad 1314 viešpaties metais, po jo [Kristaus] apipjaustymo 
 - id: c-58986
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 212"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 212."
   citata_originali: |
     330 (323). Apie dviejų kaimų sudeginimą Medininkų valsčiuje 1316 metais
 
@@ -374,7 +278,8 @@ Dusburgietis teigia, kad 1314 viešpaties metais, po jo [Kristaus] apipjaustymo 
 - id: c-58987
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 209"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 209."
   citata_originali: |
     1314 viešpaties metais, po jo [Kristaus] apipjaustymo dienos (sausio 1), tas pats
     brolis Henrikas, maršalas, su broliais ir Sembos bei Notangos vyrais žygiavo į Medininkų
@@ -395,7 +300,8 @@ Dusburgietis teigia, kad 1314 viešpaties metais, po jo [Kristaus] apipjaustymo 
 - id: c-58988
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 209"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 209."
   citata_originali: |
     Dar apie tą patį
 
@@ -424,7 +330,8 @@ Dusburgietis teigia, kad 1314 viešpaties metais, po jo [Kristaus] apipjaustymo 
 - id: c-58989
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 211"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 211."
   citata_originali: |
     327 (320). Apie Medininkų valsčiaus apiplėšimą 1316 metais
 
@@ -444,7 +351,8 @@ Dusburgietis teigia, kad 1314 viešpaties metais, po jo [Kristaus] apipjaustymo 
 - id: c-168407
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 193"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 193."
   citata_originali: |
     Kitų metų pradžioje kryžiuočiai, pasinaudodami
     pergale, pasiuntė skirtingais keliais skirtingas kariau­
@@ -462,6 +370,3 @@ Dusburgietis teigia, kad 1314 viešpaties metais, po jo [Kristaus] apipjaustymo 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185046
-
-## Ryšiai
-- Puolė Medininkų valsčių: [[objektai/grupes/Kryžiuočių ordinas]]

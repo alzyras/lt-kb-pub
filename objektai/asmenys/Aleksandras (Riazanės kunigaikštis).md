@@ -43,16 +43,6 @@ p. 247, byloja, kad tas Riazanės kunigaikščio autentiškas lai­ davimas už 
 - t-001
   global_id: t-87903
   teiginys: "Riazanės kunigaikštis Aleksandras laidavo karaliui už savo žentą Kaributą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "308324-309362; hash=6dab2a35d0174d45ee9be91761b308985dcb573506af593dc31044cb1460d562; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aleksandras: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aleksandras (Riazanės kunigaikštis): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Aleksandras: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksandras (Riazanės kunigaikštis)\" parinktas kaip owner_note_path. Targetas \"Aleksandras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-83882
 ## Reikšmingi paminėjimai
@@ -87,8 +77,8 @@ p. 247, byloja, kad tas Riazanės kunigaikščio autentiškas lai­ davimas už 
     archyve, antspauduotas, su kuriuo
     karalius iš kalėjimo paleistas].
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

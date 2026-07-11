@@ -61,16 +61,6 @@ Nenurodyta
 - t-003
   global_id: t-87177
   teiginys: "Normanai ilgainiui ėmėsi prekybos ir atvėrė jos kelius per Lietuvą, suomių ir slavų kraštus nuo Skandinavijos iki Graikijos."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "55980-56269; hash=b27c42f3ccccd38408c99c510dbf2b359ceaf51e531544876343ad8152d207bf; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Skandinavija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Normanų jūros kelionės, plėšikavimas ir prekyba Baltijos pakrantėse: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Skandinavija: mention_match, place, gap=71"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Normanų jūros kelionės, plėšikavimas ir prekyba Baltijos pakrantėse\" parinktas kaip owner_note_path. Targetas \"Skandinavija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-83158
 
@@ -78,16 +68,6 @@ Nenurodyta
 - t-001
   global_id: t-87178
   teiginys: "IX a. Rusioje variagais vadinti normanai iš Skandinavijos plėšikavo ir prekiavo Baltijos gintarinėse pakrantėse."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "51446-52559; hash=f8ee518e382d76752835146dd3571dd4876dd3f62372c5e6c625b4a7ca9edc1b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Baltija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Normanų jūros kelionės, plėšikavimas ir prekyba Baltijos pakrantėse: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Baltija: mention_match, place, gap=12"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Normanų jūros kelionės, plėšikavimas ir prekyba Baltijos pakrantėse\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-83157
 
@@ -95,16 +75,6 @@ Nenurodyta
 - t-002
   global_id: t-87179
   teiginys: "Atšiaurus klimatas, nenaši žemė, tvarkos stoka ir tarpusavio nesantaika skatino skandinavus leistis į jūros keliones per Baltiją."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "53733-54355; hash=6d95d95a02d708aeddc8226616f84ccfbd6ea5ce7100ef0296214a4b6438aca7; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Baltija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Normanų jūros kelionės, plėšikavimas ir prekyba Baltijos pakrantėse: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Baltija: mention_match, place, gap=74"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Normanų jūros kelionės, plėšikavimas ir prekyba Baltijos pakrantėse\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-83156
 ## Reikšmingi paminėjimai
@@ -131,8 +101,8 @@ Nenurodyta
     laivai pasklido iš Skandinavijos pu­
     siasalio po visą Baltijos pakrantę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -173,8 +143,8 @@ Nenurodyta
     tur, quod in Littwanico, terra inferior,
     interpretatur.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -193,8 +163,8 @@ Nenurodyta
     kalandu, regis, pirmą kartą visus
     tuos žmones išvedė iš girių ir liūnų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

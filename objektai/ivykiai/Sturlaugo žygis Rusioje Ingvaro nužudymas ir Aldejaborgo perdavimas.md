@@ -46,18 +46,6 @@ Nenurodyta
 - t-002
   global_id: t-192042
   teiginys: "Narbuto pasakojime Sturlaugas vėliau išleido Ingigerdą už Flamoro ir davė jam Aldejaborgą, kurį vadina Rusios uostu."
-  teiginio_tipas: "saltinio_teiginys"
-  semantiniai_rysiai: "Ingigerda buvo žmona Flamoras (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "424501-425329; hash=ada1e54e0f962c55a38a4367266d848cfd61b685e5a7064936a5f18c7576e7f7; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
-  ryšio_patikimumas: "buvo_zmona -> Flamoras: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Ingigerda: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Flamoras: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Formuluotė „išleido už“ tiesiogiai rodo Ingigerdos santuoką su Flamoru."
   pagrindžia:
     - c-174912
 
@@ -65,19 +53,6 @@ Nenurodyta
 - t-003
   global_id: t-192043
   teiginys: "Narbuto datavime Sturlaugo žygis, Ingvaro nužudymas ir Aldejaborgo perdavimas siejami su II a. pabaiga arba III a. pradžia."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "424501-425329; hash=ada1e54e0f962c55a38a4367266d848cfd61b685e5a7064936a5f18c7576e7f7; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
-  ryšio_patikimumas: "susije_su -> Ingvaras: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Sturlaugo žygis Rusioje Ingvaro nužudymas ir Aldejaborgo perdavimas: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Ingvaras: mention_match, person, gap=17"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sturlaugo žygis Rusioje Ingvaro nužudymas ir Aldejaborgo perdavimas\" parinktas kaip owner_note_path. Targetas \"Ingvaras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174912
 
@@ -85,22 +60,6 @@ Nenurodyta
 - t-004
   global_id: t-192488
   teiginys: "Narbuto pasakojime Sturlaugas Darbštusis kautynėse nužudė Ingvarą, vėliau Ingigerdą išleido už Flamoro ir jam perdavė Aldejaborgą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Ingigerda buvo žmona Flamoras (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "424501-425329; hash=ada1e54e0f962c55a38a4367266d848cfd61b685e5a7064936a5f18c7576e7f7; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_zmona -> Flamoras: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Ingigerda: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Flamoras: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Formuluotė „išleido už Flamoro“ tiesiogiai reiškia Ingigerdos santuoką su Flamoru."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174912
 ## Reikšmingi paminėjimai
@@ -124,8 +83,8 @@ Nenurodyta
     nusileido karaliams. Visi šie įvykiai susiję su II amžiaus
     pabaiga ar III amžiaus pradžia5.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -139,7 +98,8 @@ Nenurodyta
 - id: c-174912
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 240"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 240."
   citata_originali: |
     Skandinavų didvyris, vadinamas Sturlaugu Darbš-
     čiuoju, ¡kautynėse nužudė Ingvarą, gal rusnėnų kariūną,

@@ -33,12 +33,6 @@ Tada buvo įkurtos ir pirmosios septynios parapijos : Ukmergėje, Maišiagaloje,
 - t-001
   global_id: t-185293
   teiginys: "Aleksandras, sužinojęs apie pralaimėjimą prie Bobro upės, įtaisė karo stovyklą Obolcuose."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "991494-991966; hash=58f04ae1376fc65d41429396e422058e63e7faf4ed0923c2c6822ef7cb26dee2; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-168654
 
@@ -46,12 +40,6 @@ Tada buvo įkurtos ir pirmosios septynios parapijos : Ukmergėje, Maišiagaloje,
 - t-002
   global_id: t-193452
   teiginys: "Apie šį pralaimėjimą Aleksandras sužinojo prie Bobro upės; norėdamas su stabdyti priešo žygį, jis įtaisė karo stovyklą Obolcuose."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "991494-991966; hash=58f04ae1376fc65d41429396e422058e63e7faf4ed0923c2c6822ef7cb26dee2; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-168654
 ## Reikšmingi paminėjimai
@@ -71,8 +59,8 @@ Tada buvo įkurtos ir pirmosios septynios parapijos : Ukmergėje, Maišiagaloje,
     link Polocko, nei kur parašyta radau, nei pats atspėti
     galėjau.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -84,7 +72,8 @@ Tada buvo įkurtos ir pirmosios septynios parapijos : Ukmergėje, Maišiagaloje,
 - id: c-168654
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 560"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 560."
   citata_originali: |
     Atvestas pas Ivaną, Konstan­
     tinas, tironui įsakius, turėjo iškęsti neapsakomus kan­

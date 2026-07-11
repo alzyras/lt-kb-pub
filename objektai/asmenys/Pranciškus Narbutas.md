@@ -57,20 +57,6 @@ Pranciškus Narbutas Narbutų šeimos pasakojime minimas kaip vienas iš Teodoro
 - t-002
   global_id: t-187904
   teiginys: "1863 m. sukilime Pranciškus Narbutas išėjo į miškus, o vėliau spėjo pasitraukti į užsienį."
-  teiginio_tipas: "faktas"
-  temporaliniai_duomenys: "įvykio data: 1863 m.; įvykio data: 1864 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys jau yra pilnas lietuviškas sakinys apie Pranciškų Narbutą. Jis tiksliai apima citatoje nurodytą išėjimą į miškus ir pasitraukimą į užsienį."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "19590-20007; hash=3ea8812372fe04980831721d4ba779ad892c204c5c27e72e6bb8db858da8719c; match=exact"
-  sprendimo_priezastis: "gap::people"
-  ryšio_patikimumas: "susije_su -> Liudvikas Narbutas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Pranciškus Narbutas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Liudvikas Narbutas: mention_match, person, gap=11"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pranciškus Narbutas\" parinktas kaip owner_note_path. Targetas \"Liudvikas Narbutas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-170887
 ## Reikšmingi paminėjimai
@@ -88,8 +74,8 @@ Pranciškus Narbutas Narbutų šeimos pasakojime minimas kaip vienas iš Teodoro
     ciškus spėjo pasitraukti į užsienį, o pats Lietuvos praeities ty­
     rėjas 1864 m. lapkričio 26 d. mirė Vilniuje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -100,7 +86,8 @@ Pranciškus Narbutas Narbutų šeimos pasakojime minimas kaip vienas iš Teodoro
 - id: c-170887
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 13"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 13."
   citata_originali: |
     Sėkmingai iš­
     vengęs kalniečių kulkų, L. Narbutas žuvo Lietuvoje 1863 m.

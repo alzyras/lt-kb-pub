@@ -41,20 +41,6 @@ Pranciškaus vienuolius, kunigus, į Vilnių tas pats Petras Goštautas atkviet�
 - t-001
   global_id: t-88462
   teiginys: "Petras Korkonas 1621 m. rašė, kad Petras Goštautas prie senosios bažnyčios durų savo rankomis pasodino liepą."
-  semantiniai_rysiai: "Algirdas (Lietuvos valdovas) valdė Možaiskas (0.62); Algirdas (Lietuvos valdovas) valdė Brasta (0.62)"
-  temporaliniai_duomenys: "įvykio data: 1621 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko faktą apie Korkono liudijimą ir Goštauto liepą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "87666-88298; hash=3e4514d7ad2cfa9cd0b9e8cfb6ed248b8cf9c7b1c3c84678babd4779dd285a84; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde -> Brasta: 0.62"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Brasta: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata apibūdina Algirdo valdžią teritorijoje nuo Brastos, todėl Brasta patenka į jo valdas."
   pagrindžia:
     - c-84441
 ## Reikšmingi paminėjimai
@@ -83,8 +69,8 @@ Pranciškaus vienuolius, kunigus, į Vilnių tas pats Petras Goštautas atkviet�
     valdžioje buvusios, driekėsi nuo Brastos iki Možaisko į ry­
     tus ir nuo Baltijos krantų iki Juodosios jūros į pietus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

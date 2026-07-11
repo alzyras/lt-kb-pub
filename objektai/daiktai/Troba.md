@@ -50,17 +50,6 @@ Nenurodyta
 - t-001
   global_id: t-08339
   teiginys: "Troba buvo ketvirtasis trobesys, skirtas svečiams žiemą vaišinti."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "55782-56563; hash=fe8018ad8682a8b0184939556ce8095b767636214c08124228a86880b809b5b0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Viena: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Troba: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Viena: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Troba\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-10293
 
@@ -68,10 +57,6 @@ Nenurodyta
 - t-002
   global_id: t-08340
   teiginys: "Troboje buvo virenė, priemenė, alkierius, kakalys, kaminas ir dūmų kiaurynė."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "56564-57291; hash=81c0b40221c68d9940b4828b4600fb10e5a6aa08789461463632063c2cc4f42d; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-10294
 
@@ -79,17 +64,6 @@ Nenurodyta
 - t-003
   global_id: t-08341
   teiginys: "Troboje vyrai ir moterys vakarodami dirbo įvairius darbus, o be stiklo langų dar būdavo langeliai su lentelėmis."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "57700-58304; hash=615413fa4847e2aa122c6674d26a3bc9ba5631ab975fbec11966e8e7b9e2f414; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Juostos: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Troba: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Juostos: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Troba\" parinktas kaip owner_note_path. Targetas \"Juostos\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-10295
 - susijęs iš Antakalnis: Dabartinio Antakalnio užuomazgos buvo vienišos trobos palei Viliją tarp Aukštutinės pilies ir Antakalnio šventyklos.
@@ -111,8 +85,8 @@ Nenurodyta
         vadinos priemenė nuo žodžio pirma minti, kurioje buvo trejos durys be didžiųjų, beje; vienos į
         kuknę, antros į trobą, o trečiosios į priešininkę^222 , nuo žodžio prieš, jog prieš trobos duris buvo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -130,8 +104,8 @@ Nenurodyta
         skyle trobos asloj buvo apvalus ir slesnas^225 akmuo, ant trinkos ąžuolo padėtas, kurį išaušus į
         trobos kertę galėjo paristi ar laukan išnešti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -148,8 +122,8 @@ Nenurodyta
         juostos mierą langelis, per uolektį rąste išpjautas ir iš vidaus su lentele užšaunamas; tokią trobą
         vadina Kalne seklyčia, arba sauklėčia, nuo žodžių sau ir klėsti, beje: kame žmonės save nuo
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

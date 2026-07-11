@@ -60,17 +60,6 @@ Nenurodyta
 - t-002
   global_id: t-192052
   teiginys: "Narbutas rašo, kad riterių išėjimo į mūšį apraše skydai spindėjo kaip žvaigždės."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "235045-235414; hash=30b058dfe11464f9c5a498bf4f2497b3356f2cec80bcff0521060fe6064dba84; match=ocr_normalized"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
-  ryšio_patikimumas: "susije_su -> Ietys: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Skydai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Ietys: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Skydai\" parinktas kaip owner_note_path. Targetas \"Ietys\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-174923
 
@@ -78,12 +67,6 @@ Nenurodyta
 - t-001
   global_id: t-192053
   teiginys: "E. Radzvilovaitė pateikė žinių apie lietuvių genčių skydus II-VIII a."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys yra gramatiškas, faktinis ir paremtas citata."
-  susije_objektai: "mentioned_author: [[objektai/autoriai/E. Danilaitė|E. Danilaitė]]; mentioned_author: [[objektai/autoriai/E. Radzvilovaitė|E. Radzvilovaitė]]; mentioned_author: [[objektai/autoriai/J. Stankus|J. Stankus]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Brūkšniuotoji keramika|Brūkšniuotoji keramika]]; mentioned_object: [[objektai/daiktai/Sidabro dirbiniai|Sidabro dirbiniai]]; mentioned_place: Lietuva"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "212698-213268; hash=835bfc1495b0ba553561eccccd0d450c69fde18bc35b6c3a2d1aafabf95d2879; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
   pagrindžia:
     - c-174924
 
@@ -91,21 +74,6 @@ Nenurodyta
 - t-003
   global_id: t-192505
   teiginys: "Narbuto pasakojime vado įsakymu iš stovyklos išėję visiškai apsiginklavę riteriai turėjo skydus, spindėjusius kaip žvaigždės."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "235105-235476; hash=e4187bd999711aec12145b786775d90dbb44136811d8e4f5a2b224730594cdc4; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Ietys: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Skydai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Ietys: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Skydai\" parinktas kaip owner_note_path. Targetas \"Ietys\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175295
 - susijęs iš [[objektai/autoriai/E. Radzvilovaitė.md#claim-t-30597|E. Radzvilovaitė]]: E. Radzvilovaitė paskelbė darbą „Lietuvių genčių skydai II–VIII amžiais“.
@@ -131,8 +99,8 @@ Nenurodyta
     ietys žibėjo tankiai kaip tendrūnas, o iš šonų žygiavo šau­
     liai su lankais, paruoštais smūgiui.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -151,8 +119,8 @@ Nenurodyta
     a.^104 E. Radzvilovaitė pateikė žinių apie lietuvių genčių
     skydus II-VIII a. (AkMD, t. 21, 1966, 127-141 p.).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -170,8 +138,8 @@ Nenurodyta
     liai su lankais, paruoštais smūgiui. Pats Danielius, ant
     žirgo jodamas, tvarkė kariuomenės gretas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -182,7 +150,8 @@ Nenurodyta
 - id: c-174923
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 130"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 130."
   citata_originali: |
     Pastarasis pasiūlymą priėmė ir nuvedė net iki Li­
     kos upės. Kitą dieną priešams buvo atsiųsta pagalba —
@@ -224,7 +193,8 @@ Nenurodyta
 - id: c-175295
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 130"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 130."
   citata_originali: |
     Kitą dieną priešams buvo atsiųsta pagalba —
     prūsai ir bartai. Vadas visiems riteriams įsakė išeiti iš

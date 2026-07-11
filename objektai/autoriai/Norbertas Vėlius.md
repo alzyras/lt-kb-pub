@@ -53,17 +53,6 @@ Norbertas Vėlius nurodytas ir redaktorių kolegijoje, ir kaip įvedamojo straip
 - t-004
   global_id: t-188050
   teiginys: "Norbertas Vėlius nurodytas kaip vieno šio leidinio įvedamojo straipsnio autorius."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "1474-1989; hash=36c34ec000efea0571c7d9e1464e9454bf3cc392dedf897397f07fd1caa060cc; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/06_deduplication/01_deduplicate_entities.md"
-  ryšio_patikimumas: "susije_su -> V. Visockas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Norbertas Vėlius: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "V. Visockas: mention_match, author, gap=10"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Norbertas Vėlius\" parinktas kaip owner_note_path. Targetas \"V. Visockas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-170750
 
@@ -71,17 +60,6 @@ Norbertas Vėlius nurodytas ir redaktorių kolegijoje, ir kaip įvedamojo straip
 - t-003
   global_id: t-188051
   teiginys: "N. Vėlius cituojamas kaip šaltinis apie XVII a. pirmos pusės Rytprūsių burtininkus ir pas juos ėjusius žmones."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "207514-207927; hash=80884e2058eed96a546049d8d023bc512ea4b19873464c6873bc1b35155d5072; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/06_deduplication/01_deduplicate_entities.md"
-  ryšio_patikimumas: "susije_su -> Reda Griškaitė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Norbertas Vėlius: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Reda Griškaitė: mention_match, author, gap=59"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Norbertas Vėlius\" parinktas kaip owner_note_path. Targetas \"Reda Griškaitė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-171065
 
@@ -89,17 +67,6 @@ Norbertas Vėlius nurodytas ir redaktorių kolegijoje, ir kaip įvedamojo straip
 - t-003
   global_id: t-188052
   teiginys: "Norbertas Vėlius buvo „Lietuvių tautos istorijos“ leidinio redaktorių kolegijos narys."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "1474-1989; hash=36c34ec000efea0571c7d9e1464e9454bf3cc392dedf897397f07fd1caa060cc; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/06_deduplication/01_deduplicate_entities.md"
-  ryšio_patikimumas: "susije_su -> Reda Griškaitė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Norbertas Vėlius: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Reda Griškaitė: mention_match, author, gap=59"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Norbertas Vėlius\" parinktas kaip owner_note_path. Targetas \"Reda Griškaitė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-170750
 
@@ -107,12 +74,6 @@ Norbertas Vėlius nurodytas ir redaktorių kolegijoje, ir kaip įvedamojo straip
 - t-005
   global_id: t-194450
   teiginys: "Legendiniai kunigaikščiai sietini su žyniauti gebėjusių asmenų gimine (Vėlius N., Senovės baltų..., p. 226—229), ši tradicija, atrodo, išliko ir vėliau, tačiau kunigaikščių-vadų ir žynių funkcijos vis labiau diferencijavosi."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "222597-222821; hash=c832506b0be91929dd331ccaadfdbf87d3080dfc74ec14a41fdd2b9aba1f99c1; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176939
 - susijęs iš Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.): Leidinio metrikoje Rimantas Jasas nurodytas vertėju, Reda Griškaitė specialiąja redaktore, o Vytautas Berenis ir Norbertas Vėlius įvedamųjų straipsnių autoriais.
@@ -141,8 +102,8 @@ Norbertas Vėlius nurodytas ir redaktorių kolegijoje, ir kaip įvedamojo straip
     Įvedamasis straipsnis, paaiškinimai,
     papildymų vertimas, Reda Griškaitė,
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -158,8 +119,8 @@ Norbertas Vėlius nurodytas ir redaktorių kolegijoje, ir kaip įvedamojo straip
     kitose lietuviškose Rytprūsių apylinkėse buvę daug burtininkų (tiek vyrų, tiek moterų),
     pas kuriuos žmonės miniomis plūsdavę (Vėlius N., Mitinės..., p. 233—252).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -173,8 +134,8 @@ Norbertas Vėlius nurodytas ir redaktorių kolegijoje, ir kaip įvedamojo straip
     gimine (Vėlius N., Senovės baltų..., p. 226—229), ši tradicija, atrodo, išliko ir vėliau,
     tačiau kunigaikščių-vadų ir žynių funkcijos vis labiau diferencijavosi.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -185,7 +146,8 @@ Norbertas Vėlius nurodytas ir redaktorių kolegijoje, ir kaip įvedamojo straip
 - id: c-170750
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 3"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 3."
   citata_originali: |
     Wilno, naktadem i drukiem
     A. Marcinowskicgo, 1835.
@@ -216,7 +178,8 @@ Norbertas Vėlius nurodytas ir redaktorių kolegijoje, ir kaip įvedamojo straip
 - id: c-171065
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 63"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 63."
   citata_originali: |
     202 D. prophetissa — tai burtininkė, žynė, padedanti žmonėms; gydanti žmones
     ar galvijus, spėjanti ateitį ir pan. J. Bretkūno ir M. Daukšos postilėse (1591 ir 1599)
@@ -234,7 +197,8 @@ Norbertas Vėlius nurodytas ir redaktorių kolegijoje, ir kaip įvedamojo straip
 - id: c-176939
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 67"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 67."
   citata_originali: |
     Legendiniai kunigaikščiai sietini su žyniauti gebėjusių asmenų
     gimine (Vėlius N., Senovės baltų..., p. 226—229), ši tradicija, atrodo, išliko ir vėliau,

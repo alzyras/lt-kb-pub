@@ -38,19 +38,6 @@ media_all_json: |-
 - t-001
   global_id: t-22277
   teiginys: "1944 m. vasarą Lietuvos reokupacija reiškė antrą sovietų okupaciją, per kurią Lietuvai, Latvijai ir Estijai grąžintas stalininis režimas."
-  temporaliniai_duomenys: "įvykio data: 1944 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sakinys papildytas sąvoka ir aiškiai susietas su įrašo objektu."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "419603-420102; hash=8ce45cb504612c968aea99ab07bccbc94af0ce358dfc79d8c1526622bfdb4da1; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Estija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "reokupacija: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Estija: mention_match, place, gap=76"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"reokupacija\" parinktas kaip owner_note_path. Targetas \"Estija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-24966
 ## Reikšmingi paminėjimai
@@ -68,8 +55,8 @@ media_all_json: |-
     guoti komunistų partija, valstybės saugumo (NKGB ir NKVD) struktū-
     ros, sovietų valdininkai ir okupacinė kariuomenė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

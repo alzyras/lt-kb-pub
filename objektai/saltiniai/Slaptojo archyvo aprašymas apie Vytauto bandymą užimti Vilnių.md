@@ -32,16 +32,6 @@ Vytautas, žlugus viltims, vėl buvo priverstas ieškoti 19 Visą tą pasakojim�
 - t-001
   global_id: t-88474
   teiginys: "Slaptojo archyvo aprašyme Vytautui priskirtas ketinimas ištekinti dukterį Sofiją už Mazovijos didžiojo kunigaikščio."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "256299-256876; hash=5540ff5e520e89e3850afa4c07b6f56e780ff7d820303b8e908dd1d464d16b5a; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Mazovija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Slaptojo archyvo aprašymas apie Vytauto bandymą užimti Vilnių: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Mazovija: mention_match, place, gap=84"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Slaptojo archyvo aprašymas apie Vytauto bandymą užimti Vilnių\" parinktas kaip owner_note_path. Targetas \"Mazovija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-84453
 ## Reikšmingi paminėjimai
@@ -68,8 +58,8 @@ Vytautas, žlugus viltims, vėl buvo priverstas ieškoti 19 Visą tą pasakojim�
     ištekinti už Mazovijos didžiojo ku­
     nigaikščio.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

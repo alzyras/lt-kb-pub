@@ -42,20 +42,6 @@ Nenurodyta
 - t-001
   global_id: t-185802
   teiginys: "Kryžiuočiai, neįtarę klastos, priplaukė prie kranto, kur Nodamas su iš pasalų subėgusiais kariais užėmė jų laivą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Nodamas kariavo prieš Kryžiuočių ordinas (0.74); Nodamas užėmė Karine klasta paimamas kryžiuočių laivas (0.67)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "280011-280647; hash=2106ce63d58d4851decbd75fa2aab6357feba175e5c87f7a94f132c6c7c01c2a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Kryžiuočių ordinas: 0.74"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Nodamas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Kryžiuočiai yra tiesioginiai Nodamo klastos ir puolimo taikiniai."
   pagrindžia:
     - c-169163
 ## Reikšmingi paminėjimai
@@ -78,8 +64,8 @@ Nenurodyta
     dešimt penki Aukaimio įgulos vyrai, neatsargiai nusi­
     gavę į priešo žemę.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -90,7 +76,8 @@ Nenurodyta
 - id: c-169163
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 163"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 163."
   citata_originali: |
     Kryžiuočiai
     neįtarė nei klastos, nei pavojaus: krantai, medžiais ap­
@@ -111,6 +98,3 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185802
-
-## Ryšiai
-- Užėmė Karine klasta paimamas kryžiuočių laivą: [[objektai/asmenys/Nodamas]]

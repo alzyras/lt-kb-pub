@@ -61,17 +61,6 @@ Nenurodyta
 - t-001
   global_id: t-87302
   teiginys: "Maskvos, totorių ir valakų pirkliai Vilniuje, išskyrus metines muges, galėjo prekėmis mainytis tik su Vilniaus pirkliais."
-  semantiniai_rysiai: "Maskvos, totorių ir valakų pirkliai keliavo į Vilnius (0.91); Maskvos, totorių ir valakų pirkliai gyveno Vilnius (0.87)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "538440-541242; hash=aa4d19e04fb2ba7b0a662fb2e5d40a926d5fc5503e64ec287322fd0f6e217719; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Vilnius: 0.91"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Maskvos, totorių ir valakų pirkliai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad šie pirkliai atvykdavo į Vilnių."
   pagrindžia:
     - c-83281
 ## Reikšmingi paminėjimai
@@ -157,8 +146,8 @@ Nenurodyta
     ir krašto turtingumą, be kita ko, visi amatų srities pasieki­
     mai aniems laikams dažniausiai buvo neblogi24.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

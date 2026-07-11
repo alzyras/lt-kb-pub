@@ -170,6 +170,26 @@ body.graph-explorer-active {
 .graph-explorer[data-panel="hidden"] .graph-explorer-panel { display: none; }
 .graph-explorer-canvas { background: var(--graph-cream); min-height: 0; min-width: 0; overflow: hidden; position: relative; canvas { display: block; height: 100%; touch-action: none; width: 100%; } }
 .graph-explorer-status { align-items: center; background: rgba(246,241,232,.88); display: flex; inset: 0; justify-content: center; position: absolute; z-index: 5; &[hidden] { display: none; } }
+.graph-explorer-overview {
+  align-content: center;
+  background: var(--graph-cream);
+  box-sizing: border-box;
+  display: grid;
+  inset: 0;
+  justify-items: start;
+  padding: clamp(2rem, 8vw, 8rem) max(1.2rem, calc((100vw - 70rem) / 2));
+  position: absolute;
+  z-index: 8;
+  &[hidden] { display: none; }
+  h1 { font-size: clamp(2.7rem, 7vw, 6.5rem); letter-spacing: 0; line-height: .92; margin: .35rem 0 1rem; max-width: 9ch; }
+  > p:not(.graph-explorer-overview-eyebrow) { color: #665c53; font-size: clamp(1rem, 1.8vw, 1.25rem); line-height: 1.5; margin: 0 0 1.6rem; max-width: 42rem; }
+}
+.graph-explorer-overview-eyebrow { color: var(--graph-red); font: 800 .72rem/1.2 var(--codeFont, monospace); letter-spacing: .1em; margin: 0; text-transform: uppercase; }
+.graph-explorer-overview-search,
+.graph-explorer-overview-all { border-radius: 0; cursor: pointer; font: 800 .88rem/1 var(--bodyFont, sans-serif); }
+.graph-explorer-overview-search { background: #111; border: 1px solid #111; color: #fff; display: flex; justify-content: space-between; min-width: min(100%, 25rem); padding: 1rem; }
+.graph-explorer-overview-all { background: transparent; border: 0; border-bottom: 1px solid #241c18; color: #241c18; margin-top: 1.2rem; padding: .45rem 0; }
+.graph-explorer-overview-types { display: flex; flex-wrap: wrap; gap: .35rem; margin-top: 1.2rem; a { border: 1px solid #bfb3a5; color: #241c18; font-size: .78rem; font-weight: 700; padding: .45rem .6rem; text-decoration: none; &:hover,&:focus-visible { border-color: var(--graph-red); color: var(--graph-red); } } }
 .graph-explorer-legend { bottom: .75rem; display: flex; gap: .35rem; left: .75rem; pointer-events: none; position: absolute; span { background: rgba(8,8,8,.82); color: #fff; font-size: .68rem; font-weight: 700; padding: .28rem .42rem; } }
 .graph-explorer-show-panel { background: #111; border: 0; color: #fff; display: none; left: .75rem; padding: .45rem .6rem; position: absolute; top: .75rem; z-index: 6; }
 .graph-explorer[data-panel="hidden"] .graph-explorer-show-panel { display: block; }

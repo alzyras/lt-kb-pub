@@ -33,18 +33,6 @@ Besirengdamas žygiui į Sarajų, Aukso ordos chanas Timūr-Kutlukas atsiuntė s
 - t-003
   global_id: t-186382
   teiginys: "Vytautas atsakė Timūr-Kutluko pasiuntiniams, kad Tochtamišo neišduos ir su Timūr-Kutluku nori matytis pats."
-  teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Timūr-Kutlukas buvo priešas Tochtamišas (0.92)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "215774-216239; hash=a3b76ace67123a4f8040db1c45774a1eb3638593075b75b539ec3026a6f86cbf; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_priesas -> Tochtamišas: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Timūr-Kutlukas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Tochtamišas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citatoje Tochtamišas tiesiogiai įvardytas kaip Timūr-Kutluko priešas."
   pagrindžia:
     - c-169740
 
@@ -52,18 +40,6 @@ Besirengdamas žygiui į Sarajų, Aukso ordos chanas Timūr-Kutlukas atsiuntė s
 - t-004
   global_id: t-186383
   teiginys: "Vytautas pareiškė, kad caro Tochtamišo neišduos, o su caru Timūr-Kutluku nori susitikti pats."
-  teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Timūr-Kutlukas buvo priešas Tochtamišas (0.92)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "215774-216239; hash=a3b76ace67123a4f8040db1c45774a1eb3638593075b75b539ec3026a6f86cbf; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_priesas -> Tochtamišas: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Timūr-Kutlukas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Tochtamišas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citatoje Tochtamišas tiesiogiai įvardytas kaip Timūr-Kutluko priešas."
   pagrindžia:
     - c-169740
 
@@ -71,17 +47,6 @@ Besirengdamas žygiui į Sarajų, Aukso ordos chanas Timūr-Kutlukas atsiuntė s
 - t-002
   global_id: t-186384
   teiginys: "Vytautas atsakė Timūr-Kutluko pasiuntiniams, kad neišduos Tochtamišo ir nori pats susitikti su Timūr-Kutluku."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "215774-216239; hash=a3b76ace67123a4f8040db1c45774a1eb3638593075b75b539ec3026a6f86cbf; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Tochtamišas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "„caro Tochtamišo neišduosiu, o su caru Timūr-Kutluku noriu matytis pats“: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Tochtamišas: mention_match, person, gap=42"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"„caro Tochtamišo neišduosiu, o su caru Timūr-Kutluku noriu matytis pats“\" parinktas kaip owner_note_path. Targetas \"Tochtamišas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-169740
 
@@ -89,17 +54,6 @@ Besirengdamas žygiui į Sarajų, Aukso ordos chanas Timūr-Kutlukas atsiuntė s
 - t-001
   global_id: t-186385
   teiginys: "Vytautas atsakė Timūr-Kutluko pasiuntiniams, kad neišduos Tochtamišo ir nori pats matytis su Timūr-Kutluku."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "215958-216432; hash=86687560a0cfdb032ce85da14e6a25ff77784d39d671c3f02d7915a3e1b6d0d5; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Tochtamišas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "„caro Tochtamišo neišduosiu, o su caru Timūr-Kutluku noriu matytis pats“: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Tochtamišas: mention_match, person, gap=42"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"„caro Tochtamišo neišduosiu, o su caru Timūr-Kutluku noriu matytis pats“\" parinktas kaip owner_note_path. Targetas \"Tochtamišas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-169741
 - susijęs iš [[objektai/asmenys/Timūr-Kutlukas.md#claim-t-183762|Timūr-Kutlukas]]: Aukso ordos chanas Timūr-Kutlukas, rengdamasis žygiui į Sarajų, reikalavo, kad Vytautas išduotų jo priešą Tochtamišą.
@@ -123,8 +77,8 @@ Besirengdamas žygiui į Sarajų, Aukso ordos chanas Timūr-Kutlukas atsiuntė s
     „caro Tochtamišo neišduosiu, o su caru
     Timūr-Kutluku noriu matytis pats“.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -146,8 +100,8 @@ Besirengdamas žygiui į Sarajų, Aukso ordos chanas Timūr-Kutlukas atsiuntė s
     jam pavaldžių rusų kunigaikščių karius ir
     kitus) stovykloje prie Kijevo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

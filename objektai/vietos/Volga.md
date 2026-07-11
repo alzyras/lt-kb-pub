@@ -38,22 +38,6 @@ Kerim Berdis netoli Volgos su kariuomene ryžtingai užpuolė savo brolį Jerim 
 - t-001
   global_id: t-185256
   teiginys: "Kerim Berdis netoli Volgos su kariuomene ryžtingai užpuolė savo brolį Jerim Berdį."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Kerim Berdis puolė Jerim Berdis (0.96); Jerim Berdis buvo brolis Kerim Berdis (0.88)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "696768-697004; hash=dcac8d0b01703f30a79ee462436a39b5100f748ba387f5c01ea425f1f0b09d72; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Jerim Berdis: 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kerim Berdis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Jerim Berdis: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo, kad Kerim Berdis užpuolė brolį Jerim Berdį."
-  vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-168617
 
@@ -61,22 +45,6 @@ Kerim Berdis netoli Volgos su kariuomene ryžtingai užpuolė savo brolį Jerim 
 - t-002
   global_id: t-192780
   teiginys: "Volgą Narbutas mini pasakodamas padavimą, kad persų karalius Saporas žiemojo prie jos vidurupio, o Julijono žygūnai keliavo per alanų kraštą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Saporas gyveno Volga (0.72)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "182437-182925; hash=c12231e9f8d923d81f241215b201df4092b3e4884bf295bbf31af9d40c60b936; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Volga: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Saporas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Volga: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Žiemojimas prie Volgos tiesiogiai rodo laikiną buvimą, bet vieta nurodyta apytikriai."
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175550
 
@@ -84,25 +52,6 @@ Kerim Berdis netoli Volgos su kariuomene ryžtingai užpuolė savo brolį Jerim 
 - t-003
   global_id: t-192781
   teiginys: "Narbutas pasakoja, kad po kelių pralaimėjimų poloviečiai apie 1127 m. buvo priversti pasitraukti už Volgos."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Poloviečiai keliavo į Volga (0.78)"
-  temporaliniai_duomenys: "kelionės data: 1127 m.; kelionės data: apie 1127 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Poloviečiai keliavo į Volga“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Išskleistas subjektas – poloviečiai – ir išlaikyta chronikinė Narbuto atribucija. Sąmoningai nepridėtas jo aiškinimas apie totorių ordų pradžią."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "190339-190656; hash=a092310ed05867789c113ea86e201e6beb52150da8370d3ea465e6a54ac17e17; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Volga: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Poloviečiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Volga: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Poloviečių pasitraukimas už Volgos tiesiogiai rodo judėjimą Volgos kryptimi."
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175551
 - susijęs iš [[objektai/asmenys/Kerim Berdis.md#claim-t-186054|Kerim Berdis]]: Kerim Berdis, padrąsintas ankstesnės pergalės, ryžtingai su kariuomene užpuolė brolį netoli Volgos.
@@ -198,8 +147,8 @@ Kerim Berdis netoli Volgos su kariuomene ryžtingai užpuolė savo brolį Jerim 
     pritarė savo krašto žmonių norui pirmiesiems stoti į
     kovą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -220,8 +169,8 @@ Kerim Berdis netoli Volgos su kariuomene ryžtingai užpuolė savo brolį Jerim 
     po to keliavo toliau per alanų kraštą. Tai pasakoja Amia-
     nas Marcelinas1.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -239,8 +188,8 @@ Kerim Berdis netoli Volgos su kariuomene ryžtingai užpuolė savo brolį Jerim 
     jonės, davė pradžią daugeliui ordų, vėliau pavadintų to­
     toriais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -251,7 +200,8 @@ Kerim Berdis netoli Volgos su kariuomene ryžtingai užpuolė savo brolį Jerim 
 - id: c-168617
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 397"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 397."
   citata_originali: |
     Tačiau Kerim Ber­
     dis nė trupučio nesutriko, drąsos jam teikė prisimini­
@@ -269,7 +219,8 @@ Kerim Berdis netoli Volgos su kariuomene ryžtingai užpuolė savo brolį Jerim 
 - id: c-175550
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 102"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 102."
   citata_originali: |
     Šie buvo Padneprės
     emporiumų graikų kolonistai, susigiminiavę su skitais ir
@@ -291,7 +242,8 @@ Kerim Berdis netoli Volgos su kariuomene ryžtingai užpuolė savo brolį Jerim 
 - id: c-175551
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 106"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 106."
   citata_originali: |
     Tik 1101 metais Vladimiras
     Monomachas laimėjo didelę pergalę prieš poloviečius prie
@@ -306,7 +258,3 @@ Kerim Berdis netoli Volgos su kariuomene ryžtingai užpuolė savo brolį Jerim 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192781
-
-## Ryšiai
-- Buvo kelionės vieta: [[objektai/grupes/Poloviečiai]]
-- Gyvenamoji vieta: [[objektai/grupes/Kolchai]], [[objektai/grupes/Roksolanai]], [[objektai/asmenys/Saporas]]

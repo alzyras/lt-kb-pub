@@ -55,16 +55,6 @@ Nenurodyta
 - t-001
   global_id: t-59708
   teiginys: "Prūsai pastatė tiltą per Prieglių su tvirtais kuorais abiejuose galuose, siekdami trukdyti broliams plukdyti reikmenis į Karaliaučiaus pilį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "390603-391849; hash=42af88603a528ada89f94475f13272f0f80cfc858b3706dd18c400f5359a5592; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kuorai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Tiltas per Prieglių: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Kuorai: mention_match, thing, gap=31"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tiltas per Prieglių\" parinktas kaip owner_note_path. Targetas \"Kuorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-60340
 ## Reikšmingi paminėjimai
@@ -90,8 +80,8 @@ Nenurodyta
     su tokia daugybe priešų, kad broliai galėtų, juos išvaikę, iki pamatų išardyti ir sunaikinti
     tiltą bei kuorus.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -102,7 +92,8 @@ Nenurodyta
 - id: c-60340
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 120"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 120."
   citata_originali: |
     Apie tai, kaip buvo išardytas prūsų tiltas, pastatytas per Prieglių374
 

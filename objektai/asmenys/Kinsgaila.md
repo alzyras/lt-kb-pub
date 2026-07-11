@@ -33,17 +33,6 @@ Kiti vadai buvo maršalas Čupurna, per Žemaičių sukilimą pagarsėjęs Rumba
 - t-001
   global_id: t-30330
   teiginys: "Kinsgaila buvo Ukmergės seniūnas ir vienas iš sąjungininkų pusės vadų."
-  semantiniai_rysiai: "Kinsgaila valdė Ukmergė (0.64)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "927922-928387; hash=7a8c44f3ca6b58bc55a21f7b6ae6506824174ae1894ac3104e1fb1083175b8f1; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde -> Ukmergė: 0.64"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kinsgaila: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Ukmergė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Kinsgaila nurodytas kaip Ukmergės seniūnas, todėl galima sieti su vietos administravimu."
   pagrindžia:
     - c-32771
 - susijęs iš [[objektai/asmenys/Sungaila.md#claim-t-30386|Sungaila]]: Sungaila buvo Kauno seniūnas ir vienas iš Žalgirio kautynių vadų.
@@ -62,8 +51,8 @@ Kiti vadai buvo maršalas Čupurna, per Žemaičių sukilimą pagarsėjęs Rumba
     Kautynių _strategija_ taip pat nėra dar tiksliai išaiškinta ir pilnai
     įvertinta.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -92,6 +81,3 @@ Kiti vadai buvo maršalas Čupurna, per Žemaičių sukilimą pagarsėjęs Rumba
   patikimumo_saltinis: ai
   pagrindzia:
     - t-30330
-
-## Ryšiai
-- Kinsgaila valdė [[objektai/vietos/Ukmergė]]

@@ -35,17 +35,6 @@ Ponas Gabrielis Bekešas pats turi vaikų, palikuonių ir visiems pavieniams pav
 - t-001
   global_id: t-88345
   teiginys: "Vaitiekus Slavenckis aprašė Alantos valdas, jų priklausinius ir derlius, o sąrašus su antspaudu ir parašu atidavė iždui."
-  semantiniai_rysiai: "Alanta priklausė Gabrielius Bekešas (0.78)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "798092-800084; hash=15c85efffe7e001fe5d80981c675f6c1edeb9a718c8f58d5ad76a0c35aacd32f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Gabrielius Bekešas: 0.78"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Alanta: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Gabrielius Bekešas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata perduoda Alantos dvarą ir priklausinius Gabrieliui Bekešui naudoti ir turėti."
   pagrindžia:
     - c-84324
 
@@ -53,20 +42,6 @@ Ponas Gabrielis Bekešas pats turi vaikų, palikuonių ir visiems pavieniams pav
 - t-002
   global_id: t-183833
   teiginys: "Valdovas davė Gabrieliui Bekešui Vaitiekaus Slavenckio sudarytų Alantos valdų rejestrų nuorašą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Bajorai priklausė Gabrielius Bekešas (0.82); Alanta priklausė Gabrielius Bekešas (0.78)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "798382-800470; hash=4153b58bd9ab22eb427b4e40f1a873210649fcd2022e1ad7fa068188e4ef0f85; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Gabrielius Bekešas: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Bajorai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Gabrielius Bekešas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo, kad rejestruose išvardyti bajorai ir kiti žmonės yra Gabrielio Bekešo tėvoniškiai."
   pagrindžia:
     - c-167218
 ## Reikšmingi paminėjimai
@@ -116,8 +91,8 @@ Ponas Gabrielis Bekešas pats turi vaikų, palikuonių ir visiems pavieniams pav
     raštininko Vaitiekaus Slavenckio antspaudu davėme po­
     nui Bekešui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -169,8 +144,8 @@ Ponas Gabrielis Bekešas pats turi vaikų, palikuonių ir visiems pavieniams pav
     nors kartais Vaitiekaus Slavenckio į šiuos rejestrus kas nors
     ir nebūtų įtraukta ar aprašyta.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

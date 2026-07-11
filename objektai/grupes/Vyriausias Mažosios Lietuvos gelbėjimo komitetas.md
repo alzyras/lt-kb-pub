@@ -40,22 +40,6 @@ media_all_json: |-
 - t-003
   global_id: t-66320
   teiginys: "1923 m. sausio 24 d. Lietuvos Seimas patenkino VMLGK prašymą dėl pagalbos Klaipėdos kraštui."
-  semantiniai_rysiai: "Lietuvos seimas (seimas) rėmė Vyriausias Mažosios Lietuvos gelbėjimo komitetas (0.78)"
-  temporaliniai_duomenys: "įvykio data: 1923 m.; įvykio data: 1924 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Antroji sakinio dalis labiau apie Ambasadorių konferenciją, todėl teiginys sutelktas į VMLGK prašymą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "308094-308536; hash=1bc8c099a11254609dccc276d7a4faafa098de543321bc2d2d5273ac279fb8d8; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "reme -> Vyriausias Mažosios Lietuvos gelbėjimo komitetas: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuvos seimas (seimas): llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vyriausias Mažosios Lietuvos gelbėjimo komitetas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Seimas patenkino komiteto pagalbos prašymą, todėl tiesiogiai išreikšta institucinė parama."
-  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-22823
 - susijęs iš [[objektai/ivykiai/Klaipėdos prisijungimas prie Lietuvos (1923 m.).md#claim-t-23328|Klaipėdos prisijungimas prie Lietuvos (1923 m.)]]: 1923 m. sausio 17 d. Vyriausias Mažosios Lietuvos gelbėjimo komitetas paskelbė sprendimą prisijungti prie Lietuvos autonominėmis teisėmis.
@@ -76,8 +60,8 @@ media_all_json: |-
     naikino „Klaipėdos problemos“ teritorinį aspektą, paskelbdamas regioną
     autonomine Lietuvos dalimi.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -104,6 +88,3 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66320
-
-## Ryšiai
-- Rėmė Vyriausias Mažosios Lietuvos gelbėjimo komitetą: [[objektai/grupes/Lietuvos seimas|Lietuvos seimas (seimas)]]

@@ -53,11 +53,6 @@ Nenurodyta
 - t-002
   global_id: t-67189
   teiginys: "Jėzuitai visuomenę į bažnyčią traukė iškilmingomis pamaldomis, procesijomis ir kitomis iškilmėmis."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "526853-527357; hash=20d0a2c0f84df5db8aa1d99b3c3030d7a9dab7e0b71838ff12b2a8a2e25c1d41; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-67201
 
@@ -65,11 +60,6 @@ Nenurodyta
 - t-001
   global_id: t-67190
   teiginys: "Miestuose, ypač Vilniuje, per procesijas ir iškilmingas laidotuves dažnai kildavo katalikų ir protestantų rietenos bei muštynės."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "685574-685880; hash=5a39a193964e1f627ba3d4019cd5b0aab010d3013dbc79a5715783572e2416ed; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T14:12:56Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-67200
 ## Reikšmingi paminėjimai
@@ -87,8 +77,8 @@ Nenurodyta
     pat nemaža rietenų ir muštynių būdavo ir per iškilmingas lai-
     dotuves.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -108,8 +98,8 @@ Nenurodyta
     pilnos mokinių, jie patys tapo įtakingiausiųjų didikų kapelionais
     ir artimaisiais jų patarėjais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

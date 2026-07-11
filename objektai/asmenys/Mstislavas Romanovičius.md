@@ -30,20 +30,6 @@ Mstislavas Romanovičius prie Jaseldos upės buvo sumuštas, prarado kariuomenę
 - t-001
   global_id: t-186072
   teiginys: "Mstislavas Romanovičius prie Jaseldos upės buvo sumuštas, prarado kariuomenę ir vos gyvas paspruko į Lucką."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Mstislavas Romanovičius keliavo į Luckas (0.90); Mstislavas Romanovičius kariavo prieš Skirmantas (0.85)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "137475-138081; hash=94866a8dcd2ee40192e2703150b1ed556929501b8794c28a6ddf67258f5c0d56; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Luckas: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Mstislavas Romanovičius: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Luckas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citatoje aiškiai nurodyta, kad Mstislavas paspruko į Lucką."
   pagrindžia:
     - c-169433
 ## Reikšmingi paminėjimai
@@ -80,8 +66,8 @@ Mstislavas Romanovičius prie Jaseldos upės buvo sumuštas, prarado kariuomenę
     kovaitį ir jo karius apdova­
     nojo puikiomis dovanomis.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -92,7 +78,8 @@ Mstislavas Romanovičius prie Jaseldos upės buvo sumuštas, prarado kariuomenę
 - id: c-169433
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 83"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 83."
   citata_originali: |
     Mstisla­
     vas
@@ -130,4 +117,3 @@ Mstislavas Romanovičius prie Jaseldos upės buvo sumuštas, prarado kariuomenę
 
 ## Ryšiai
 - Mstislavas Romanovičius keliavo į [[objektai/vietos/Luckas]]
-- Mstislavas Romanovičius kariavo prieš [[objektai/asmenys/Skirmantas]]

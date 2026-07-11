@@ -43,19 +43,6 @@ media_all_json: |-
 - t-001
   global_id: t-35256
   teiginys: "Vytauto sekretorius Mykolas Sapienskis vadovavo žemaičių delegacijai, kuri 1415 m. gale atvyko į Konstanciją."
-  semantiniai_rysiai: "Mykolas Sapienskis keliavo į Konstancija (0.74)"
-  temporaliniai_duomenys: "kelionės data: 1415 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Mykolas Sapienskis keliavo į Konstancija“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "280813-281447; hash=4200835d0a4bef210f9424aedc21fad8899a2b4ea1fd72bc3c2e766e446699a6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Konstancija: 0.74"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Mykolas Sapienskis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Konstancija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Sapienskis vadovavo delegacijai, kuri atvyko į Konstanciją."
   pagrindžia:
     - c-38107
 ## Reikšmingi paminėjimai
@@ -75,8 +62,8 @@ media_all_json: |-
     bę, bet tam trukdė Ordinas, troškęs tik jų žemių ir laisvės, o
     krikštyti nekrikštijęs.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -108,6 +95,3 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-35256
-
-## Ryšiai
-- Mykolas Sapienskis keliavo į [[objektai/vietos/Konstancija]]

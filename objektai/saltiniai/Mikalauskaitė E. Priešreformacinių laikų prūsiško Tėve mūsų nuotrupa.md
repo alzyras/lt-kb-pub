@@ -38,12 +38,6 @@ Dusburgietis teigia, kad mikalauskaitė E.
 - t-001
   global_id: t-61181
   teiginys: "E. Mikalauskaitės straipsnis „Priešreformacinių laikų prūsiško Tėve mūsų nuotrupa“ paskelbtas 1938 m. „Archivum philologicum“ 7 knygoje."
-  temporaliniai_duomenys: "įvykio data: 1938 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pagrindžia publikavimo vietą ir metus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "786533-786656; hash=ae6d8a2e84bf04e80d368735ab6c8b536759a4e737cd600c584d957514aae145; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-61813
 ## Reikšmingi paminėjimai
@@ -56,8 +50,8 @@ Dusburgietis teigia, kad mikalauskaitė E.
 
     philologicum, K., 1938, kn. 7, p. 102— 106.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -68,7 +62,8 @@ Dusburgietis teigia, kad mikalauskaitė E.
 - id: c-61813
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 267-268"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 267-268."
   citata_originali: |
     Mikalauskaitė E. Priešreformacinių laikų prūsiško Tėve mūsų nuotrupa.—Archivum
 

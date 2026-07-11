@@ -43,19 +43,6 @@ Dusburgietis teigia, kad kristaus brolių ordinas, kaip vyskupo Kristijono karia
 - t-001
   global_id: t-60651
   teiginys: "T. Manteufelis siejo Kristaus brolių ordiną su 1223 m. vyskupo ir kunigaikščio Konrado sutartimi."
-  temporaliniai_duomenys: "įvykio data: 1223 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pagrindžia Manteufelio darbo ryšį su šiuo istoriniu aiškinimu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "138068-138401; hash=c65d1a9de381b43b98fd3efdbed6f5b8feed026479a1dca1f35582ba37e37690; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Manteufel T: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=37"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Manteufel T\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-61283
 ## Reikšmingi paminėjimai
@@ -69,8 +56,8 @@ Dusburgietis teigia, kad kristaus brolių ordinas, kaip vyskupo Kristijono karia
     apeitas 1223 m. vyskupo ir kunigaikščio Konrado sutartyje (Manteufel T. Papiestwo...,
     p. 101 104; Zientara B. Sprawy pruskie..., p. 37; Powierski J. Przekaz..., p. 409—410).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -81,7 +68,8 @@ Dusburgietis teigia, kad kristaus brolių ordinas, kaip vyskupo Kristijono karia
 - id: c-61283
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 44"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 44."
   citata_originali: |
     Daugelis Ordino brolių paėjo iš Meklenburgo, spėjamosios Kristijono
     gimtinės, riterijos. Kristaus brolių ordinas, kaip vyskupo Kristijono kariai, negalėjo būti

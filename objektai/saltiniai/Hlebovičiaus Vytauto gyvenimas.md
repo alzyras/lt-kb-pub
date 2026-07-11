@@ -30,21 +30,6 @@ Teodoras Narbutas Hlebovičiaus „Vytauto gyvenimą“ nurodė ginčydamas pož
 - t-001
   global_id: t-191839
   teiginys: "Teodoras Narbutas Hlebovičiaus „Vytauto gyvenimą“ nurodė ginčydamas požiūrį, kad senesnės kronikų žinios apie lietuvių gentis tėra išmonė."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "52167-52995; hash=2cb88349a3195ea59c9ce7c57be37a0ccf1a249064efea65437c651cc7b7c5b8; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Teodoras Narbutas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Hlebovičiaus Vytauto gyvenimas: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Teodoras Narbutas: mention_match, person, gap=18"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Hlebovičiaus Vytauto gyvenimas\" parinktas kaip owner_note_path. Targetas \"Teodoras Narbutas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174721
 ## Reikšmingi paminėjimai
@@ -70,8 +55,8 @@ Teodoras Narbutas Hlebovičiaus „Vytauto gyvenimą“ nurodė ginčydamas pož
     1 Hlebovičiaus „Vytauto gyvenimas“. P. 116 (Onacevičiaus pas­
     tabos)***.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -82,7 +67,8 @@ Teodoras Narbutas Hlebovičiaus „Vytauto gyvenimą“ nurodė ginčydamas pož
 - id: c-174721
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 31"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 31."
   citata_originali: |
     Todėl vieni tiesiog
     priimdavo kronikininkų geriau išdėstytas išvadas apie

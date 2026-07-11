@@ -49,19 +49,6 @@ Nenurodyta
 - t-001
   global_id: t-185558
   teiginys: "Per Choinicų apgultį karalius įsakė lietuvių kavalerijos vadui budėti, kad būtų atremti pilies gynėjų išpuoliai."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "908964-909544; hash=c6dec300d3c514df214697d1d745b8e160eb087163460b7e855d94f6aaa5bd7c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Choinicai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Choinicų apgultis ir pasidavimas karaliui (1466-1467 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Choinicai: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Choinicų apgultis ir pasidavimas karaliui (1466-1467 m.)\" parinktas kaip owner_note_path. Targetas \"Choinicai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-168919
 ## Reikšmingi paminėjimai
@@ -82,8 +69,8 @@ Nenurodyta
     todėl kiti pilies gynėjai, smarkiai sumažėjus jų skaičiui,
     liovėsi rengę išpuolius.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -94,7 +81,8 @@ Nenurodyta
 - id: c-168919
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 515"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 515."
   citata_originali: |
     Apsuptieji irgi neleido laiko vėjais: trukdyda­
     mi tinkamai pasirengti lemiamam smūgiui, protarpiais

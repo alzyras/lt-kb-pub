@@ -30,21 +30,6 @@ Narbutas pasakoja, kad Rytų valdovo įsakymu Kapadokijos valdytojas Ariamas su 
 - t-001
   global_id: t-191369
   teiginys: "Narbutas pasakoja, kad Rytų valdovo įsakymu Kapadokijos valdytojas Ariamas su 30 galerų puolė skitus iš jūros."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "96135-96499; hash=9a93510c6a2ad8a754c395212df381de1adbfd10706d6a2e11ecf89b29e649f9; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Persai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ariamas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Persai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ariamas\" parinktas kaip owner_note_path. Targetas \"Persai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:43Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174251
 - susijęs iš [[objektai/ivykiai/Ariamo jūrų puolimas prieš skitus.md#claim-t-191058|Ariamo jūrų puolimas prieš skitus]]: Narbutas Ariamo puolimą aiškina kerštu už pažeminimą: Kapadokijos valdytojas jūra puolė skitus, juos sumušė, paėmė grobio ir belaisvių.
@@ -68,8 +53,8 @@ Narbutas pasakoja, kad Rytų valdovo įsakymu Kapadokijos valdytojas Ariamas su 
     paėmė didelį grobį ir belaisvių, tarp kurių buvo ir kara­
     liaus brolis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -101,6 +86,3 @@ Narbutas pasakoja, kad Rytų valdovo įsakymu Kapadokijos valdytojas Ariamas su 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191369
-
-## Ryšiai
-- Ariamas puolė [[objektai/ivykiai/Ariamo jūrų puolimas prieš skitus]]

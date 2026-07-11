@@ -36,24 +36,6 @@ Radlofo veikalas apie Hesperą ir Fajetoną cituojamas vokišku pavadinimu ir nu
 - t-001
   global_id: t-191806
   teiginys: "Radlofo veikalas apie Hesperą ir Fajetoną cituojamas vokišku pavadinimu ir nurodomas kaip 1823 m. Berlyno leidinys."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1823 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra bibliografinis, aiškiai nurodo veikalo pavadinimą, leidimo vietą ir metus. Citatos fragmentas pakankamai palaiko šią informaciją."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "257867-258101; hash=13d17a5e9a5825f1b090b9b233cbe31dfbd880f3774d9c6d76792a7080290eb2; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Berlynas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Radlofo veikalas apie Hesperą ir Fajetoną: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Berlynas: mention_match, place, gap=98"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Radlofo veikalas apie Hesperą ir Fajetoną\" parinktas kaip owner_note_path. Targetas \"Berlynas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174688
 
@@ -61,21 +43,6 @@ Radlofo veikalas apie Hesperą ir Fajetoną cituojamas vokišku pavadinimu ir nu
 - t-002
   global_id: t-191807
   teiginys: "Teodoras Narbutas Radlofo veikalą siejo su planetų ar Žemės palydovų žuvimo aiškinimu ir rekomendavo jį skaitytojams."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "258614-259144; hash=7b03ef8e2e986080c14ba37f5fdebd1f4cb27f1f7413f733fdb46e652d2202a5; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Teodoras Narbutas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Radlofo veikalas apie Hesperą ir Fajetoną: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Teodoras Narbutas: mention_match, person, gap=18"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Radlofo veikalas apie Hesperą ir Fajetoną\" parinktas kaip owner_note_path. Targetas \"Teodoras Narbutas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174689
 ## Reikšmingi paminėjimai
@@ -91,8 +58,8 @@ Radlofo veikalas apie Hesperą ir Fajetoną cituojamas vokišku pavadinimu ir nu
     Erde. Berlin,
     1823.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -115,8 +82,8 @@ Radlofo veikalas apie Hesperą ir Fajetoną cituojamas vokišku pavadinimu ir nu
     tinius pokyčius, kuriuos sukėlė dideli potvyniai ar ilga­
     laikiai smarkūs-šiaurės vėjai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -127,7 +94,8 @@ Radlofo veikalas apie Hesperą ir Fajetoną cituojamas vokišku pavadinimu ir nu
 - id: c-174688
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 143"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 143."
   citata_originali: |
     Anot legendos, tuo metu uolos skilo į
     uolas, kalnai griuvo ant kalnų. Kai kurie kalnai būdavo
@@ -145,7 +113,8 @@ Radlofo veikalas apie Hesperą ir Fajetoną cituojamas vokišku pavadinimu ir nu
 - id: c-174689
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 144"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 144."
   citata_originali: |
     Taip įsivaizduojame mūsų žemyno susifor­
     mavimą.

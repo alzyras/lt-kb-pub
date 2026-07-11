@@ -36,17 +36,6 @@ Narbutas rašo, kad Amianas Marcelinas apie 378 m. prisiminė arimfėjų tautą 
 - t-001
   global_id: t-192548
   teiginys: "Narbutas rašo, kad Amianas Marcelinas apie 378 m. prisiminė arimfėjų tautą kaip alanų ir masagetų kaimynus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 378 m; įvykio data: apie 378 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
-  temporalinis_llm_pakomentavimas: "Pašalintas išnašos ir pavadinimo triukšmas, išlaikant Amiano Marcelino, datos ir arimfėjų kontekstą. Atribucija palikta, nes tai Narbuto pateikiamas istorinio šaltinio aiškinimas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "455829-456131; hash=e2bd6b39380fc9162d6d32977940dd368962b80f7ba2267d3909dbe6741fd9a7; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175336
 ## Reikšmingi paminėjimai
@@ -62,8 +51,8 @@ Narbutas rašo, kad Amianas Marcelinas apie 378 m. prisiminė arimfėjų tautą 
     1 ibid. Origines Livoniae Sacrae et civilis (Silva Documento-
     rum. P. 267, 268).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -74,7 +63,8 @@ Narbutas rašo, kad Amianas Marcelinas apie 378 m. prisiminė arimfėjų tautą 
 - id: c-175336
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 256"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 256."
   citata_originali: |
     Amianas Marcelinas, baigęs rašyti Romos istoriją apie
     378 metus, valdant imperatoriams Gracianui ir Valenti-

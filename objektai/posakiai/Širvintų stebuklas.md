@@ -43,16 +43,6 @@ media_all_json: |-
 - t-002
   global_id: t-41478
   teiginys: "Širvintų pergalė visuomenėje buvo praminta „Širvintų stebuklu“."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "854642-854928; hash=3d9d6e2c59466395da1f301dd1ccd382b764324995dd3db6701243ebcddccdfd; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md::validation_repair"
-  ryšio_patikimumas: "susije_su -> Balnas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Širvintų stebuklas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Balnas: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Širvintų stebuklas\" parinktas kaip owner_note_path. Targetas \"Balnas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-44971
 
@@ -60,16 +50,6 @@ media_all_json: |-
 - t-003
   global_id: t-41479
   teiginys: "Balno reidas į Gardino pulko užnugarį visuomenėje buvo pramintas „Širvintų stebuklu“."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "854642-854928; hash=3d9d6e2c59466395da1f301dd1ccd382b764324995dd3db6701243ebcddccdfd; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md::validation_repair"
-  ryšio_patikimumas: "susije_su -> Balnas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Širvintų stebuklas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Balnas: mention_match, thing, gap=66"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Širvintų stebuklas\" parinktas kaip owner_note_path. Targetas \"Balnas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-44971
 ## Reikšmingi paminėjimai
@@ -86,8 +66,8 @@ media_all_json: |-
     tėti prie Kauno, būtų iškilęs didelis pavojus
     Lietuvos valstybingumui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

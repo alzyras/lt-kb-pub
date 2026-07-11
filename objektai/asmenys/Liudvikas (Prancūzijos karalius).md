@@ -44,19 +44,6 @@ Dusburgietis teigia, kad apie viešpaties erškėčių vainiko perkėlimą 1239 
 - t-003
   global_id: t-60049
   teiginys: "1296 m. popiežius Bonifacas VIII kanonizavo Prancūzijos karalių Liudviką."
-  temporaliniai_duomenys: "įvykio data: 1296 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nusako kanonizavimo faktą ir atitinka citatą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "730260-730456; hash=fac3d87a477ac6ab4843e244748db89cadf04e34bf8ed1dd57eb8a8661546255; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Bonifacas VIII (arkivyskupas, XIII–XIV a.): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Liudvikas (Prancūzijos karalius): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Bonifacas VIII (arkivyskupas, XIII–XIV a.): mention_match, person, gap=46"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Liudvikas (Prancūzijos karalius)\" parinktas kaip owner_note_path. Targetas \"Bonifacas VIII (arkivyskupas, XIII–XIV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-60682
 
@@ -64,19 +51,6 @@ Dusburgietis teigia, kad apie viešpaties erškėčių vainiko perkėlimą 1239 
 - t-001
   global_id: t-60050
   teiginys: "1239 m. Prancūzijos karalius Liudvikas perkėlė Viešpaties erškėčių vainiką iš Konstantinopolio į Paryžių."
-  temporaliniai_duomenys: "valdymo laikotarpis: 1239 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Liudvikas (Prancūzijos karalius) buvo valdovas Prancūzija“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra tikslus, gramatiškas ir visiškai paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "699036-699226; hash=e828013d0f34a0d1576d88ccbbf1236003950aec7441a40e9b81aa7f197f6ea5; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Konstantinopolis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Liudvikas (Prancūzijos karalius): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Konstantinopolis: mention_match, place, gap=49"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Liudvikas (Prancūzijos karalius)\" parinktas kaip owner_note_path. Targetas \"Konstantinopolis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-60681
 
@@ -84,19 +58,6 @@ Dusburgietis teigia, kad apie viešpaties erškėčių vainiko perkėlimą 1239 
 - t-001
   global_id: t-60050
   teiginys: "1239 m. Prancūzijos karalius Liudvikas perkėlė Viešpaties erškėčių vainiką iš Konstantinopolio į Paryžių."
-  temporaliniai_duomenys: "valdymo laikotarpis: 1239 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Liudvikas (Prancūzijos karalius) buvo valdovas Prancūzija“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra tikslus, gramatiškas ir visiškai paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "699036-699226; hash=e828013d0f34a0d1576d88ccbbf1236003950aec7441a40e9b81aa7f197f6ea5; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Konstantinopolis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Liudvikas (Prancūzijos karalius): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Konstantinopolis: mention_match, place, gap=49"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Liudvikas (Prancūzijos karalius)\" parinktas kaip owner_note_path. Targetas \"Konstantinopolis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-60681
 
@@ -104,12 +65,6 @@ Dusburgietis teigia, kad apie viešpaties erškėčių vainiko perkėlimą 1239 
 - t-005
   global_id: t-194502
   teiginys: "Apie viešpaties erškėčių vainiko perkėlimą 1239 viešpaties metais Liudvikas, Prancūzijos karalius, perkėlė iš Konstantinopolio į Paryžių viešpaties erškėčių vainiką (Ptol."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "699036-699226; hash=e828013d0f34a0d1576d88ccbbf1236003950aec7441a40e9b81aa7f197f6ea5; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-60681
 ## Reikšmingi paminėjimai
@@ -126,8 +81,8 @@ Dusburgietis teigia, kad apie viešpaties erškėčių vainiko perkėlimą 1239 
 
     27.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -145,8 +100,8 @@ Dusburgietis teigia, kad apie viešpaties erškėčių vainiko perkėlimą 1239 
 
     karalių (Ptol. pried. p. 1217; Mart. p. 436).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -165,17 +120,18 @@ Dusburgietis teigia, kad apie viešpaties erškėčių vainiko perkėlimą 1239 
     šis didžiai krikščioniškasis karalius šitaip pasakė: „Einu  į tavo namus, lenkiuosi tavo
     šventovei, tavajam vardui dėkoju, viešpatie”, o šitai pasakęs, atidavė dievui sielą.
   citata_rodoma: ''
+  statusas: verified
+
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-
 ## Citatos
 
 - id: c-60681
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 229"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 229."
   citata_originali: |
     Apie viešpaties erškėčių vainiko perkėlimą
 
@@ -197,7 +153,8 @@ Dusburgietis teigia, kad apie viešpaties erškėčių vainiko perkėlimą 1239 
 - id: c-60682
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 242-243"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 242-243."
   citata_originali: |
     83. Apie švento Liudviko, Prancūzijos karaliaus, kanonizavimą
 

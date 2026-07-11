@@ -58,19 +58,6 @@ Nenurodyta
 - t-001
   global_id: t-186667
   teiginys: "Lietuvos metraštis Ivano Vasiljevičiaus karo prieš Aleksandrą sumanymą sieja su sąmokslu su Mengli-Girėjumi ir taika su Steponu."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "265882-266502; hash=77c9fd270a88f00160531ee8a6313db04eabb37d43acdd7226c98ef87b093098; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
-  ryšio_patikimumas: "susije_su -> Ivanas Vasiljevičius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ivano Vasiljevičiaus karo prieš Aleksandrą planavimas: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Ivanas Vasiljevičius: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ivano Vasiljevičiaus karo prieš Aleksandrą planavimas\" parinktas kaip owner_note_path. Targetas \"Ivanas Vasiljevičius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-169919
 ## Reikšmingi paminėjimai
@@ -93,8 +80,8 @@ Nenurodyta
     davijos vaivada Steponu prisiekęs jiems amžiną taiką
     bei pasirėmęs giminystės ryšiais.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -105,7 +92,8 @@ Nenurodyta
 - id: c-169919
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 150"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 150."
   citata_originali: |
     Sugrįžo, padarę Lenkijos žemei daug žalos.
     54. APIE MASKVOS DIDŽIOJO KUNIGAIKŠČIO IVANO

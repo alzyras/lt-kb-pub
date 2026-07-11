@@ -30,12 +30,6 @@ Užsidarė pilyje-vorutoje2 3 , ir (naktį) 2A išsiuntė savo svainį2 5 , ir t
 - t-001
   global_id: t-194050
   teiginys: "Užsidarė pilyje-vorutoje2 3 , ir (naktį) 2A išsiuntė savo svainį2 5 , ir tas išvaikė ir rusus, ir jotvingius."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "91360-91793; hash=846b1e46927cf88fb1a81d1cf95f927c00910b3f67f7a0deb4e43fcfad1a650a; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176663
 ## Reikšmingi paminėjimai
@@ -58,8 +52,8 @@ Užsidarė pilyje-vorutoje2 3 , ir (naktį) 2A išsiuntė savo svainį2 5 , ir t
     (naktį) 2A išsiuntė savo svainį2 5 , ir tas išvaikė ir rusus,
     ir jotvingius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

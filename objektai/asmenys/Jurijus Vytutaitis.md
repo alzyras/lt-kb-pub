@@ -38,22 +38,6 @@ Narbutas mini Jurijų Vytutaitį kaip lietuvių valdovą, kuris apie 1342 metus 
 - t-001
   global_id: t-190168
   teiginys: "Narbutas mini Jurijų Vytutaitį kaip lietuvių valdovą, kuris apie 1342 metus valdė Pskovo žemę."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Jurijus Vytutaitis valdė Pskovas (0.93)"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "429282-429675; hash=442b65b03d11f5a24860d1036eb7eade2c5075a6b55ac73e15c3cbf1a6bc7ccd; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde -> Pskovas: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jurijus Vytutaitis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Pskovas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai teigia, kad Jurijus Vytutaitis valdė Pskovo žemę."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173051
 ## Reikšmingi paminėjimai
@@ -70,8 +54,8 @@ Narbutas mini Jurijų Vytutaitį kaip lietuvių valdovą, kuris apie 1342 metus 
     vų, turėjusių Jurijaus vardą, kaip antai Jurijus (Jurgis) Vytau-
     taitis, kuris valdė Pskovo žemę apie 1342 metus27 28.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -82,7 +66,8 @@ Narbutas mini Jurijų Vytutaitį kaip lietuvių valdovą, kuris apie 1342 metus 
 - id: c-173051
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 248"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 248."
   citata_originali: |
     Iškiliojoje pusėje
     ženklas, panašus į vadinamojo biarmiškojo raidyno raidę A

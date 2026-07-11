@@ -30,21 +30,6 @@ Dregeris paminėjo Sambijos vyskupo Henriko sutartį, kuria žemės valdos Vitla
 - t-001
   global_id: t-191637
   teiginys: "Dregeris paminėjo Sambijos vyskupo Henriko sutartį, kuria žemės valdos Vitlandsorte perleistos Ordinui tvirtovei statyti."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "629154-629488; hash=d64c535c50fd84b66e5d48071ee6a9a5d0d03198dbc27476838b9fe33643d440; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Dregeris: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=95"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dregeris\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174519
 
@@ -52,14 +37,6 @@ Dregeris paminėjo Sambijos vyskupo Henriko sutartį, kuria žemės valdos Vitla
 - t-002
   global_id: t-191638
   teiginys: "Dregerio skelbta sutartis mini tvirtoves, kurių vietas, pasak Teodoro Narbuto, sunku atrasti dėl blogai išrašytų pavadinimų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "639217-639465; hash=273635165a008476efac48b824ed15c1c0e51bce067216d1404c4ac4ea1a1640; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174520
 ## Reikšmingi paminėjimai
@@ -76,8 +53,8 @@ Dregeris paminėjo Sambijos vyskupo Henriko sutartį, kuria žemės valdos Vitla
     tyti ten tvirtovę, kuri garantuotų įplaukiančių ir išplau­
     kiančių laivų saugumą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -93,8 +70,8 @@ Dregeris paminėjo Sambijos vyskupo Henriko sutartį, kuria žemės valdos Vitla
     išrašytos, antra vertus, dėl to, kad jų vietoje nieko, kas
     primintų jų pavadinimus, neatstatyta.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -105,7 +82,8 @@ Dregeris paminėjo Sambijos vyskupo Henriko sutartį, kuria žemės valdos Vitla
 - id: c-174519
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 349"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 349."
   citata_originali: |
     Aiškiausiai apie tai kalba
     Sambijos vyskupo Henriko sutartis, paminėta Dregerio*
@@ -124,7 +102,8 @@ Dregeris paminėjo Sambijos vyskupo Henriko sutartį, kuria žemės valdos Vitla
 - id: c-174520
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 354"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 354."
   citata_originali: |
     Beje, šiandien nelengva atrasti
     visas tvirtoves, kurias mini Dregerio skelbta sutartis (Nr.

@@ -30,20 +30,6 @@ Astikas su Manvydu ir Goštautu susitarė valdovu paskelbti karalių Vladislovą
 - t-001
   global_id: t-186182
   teiginys: "Astikas su Manvydu ir Goštautu susitarė valdovu paskelbti karalių Vladislovą, laikydamiesi senojo susitarimo su lenkais."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Astikas sudarė sutartį su Manvydas (0.78)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "818368-818899; hash=bb7e2b19c0aa3ecceecb969fcf43eab1011006de5166449c076bc512ac810ccf; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "sudare_sutarti_su -> Manvydas: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Astikas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Manvydas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata tiesiogiai mini Manvydo susitarimą su Astiku; kryptis parinkta pagal leidžiamą Astiko kandidato porą."
   pagrindžia:
     - c-169543
 - susijęs iš [[objektai/asmenys/Jurgis Astikas.md#claim-t-87741|Jurgis Astikas]]: Jurgis Astikas 1580 m. birželio 18 d. buvo nukirsdintas Vilniaus turguje už klastą ir tėvynės išdavystę.
@@ -82,8 +68,8 @@ Astikas su Manvydu ir Goštautu susitarė valdovu paskelbti karalių Vladislovą
     apie pavojų gauti, nei ką padėti, todėl griežtai prieši­
     nosi karaliaus kandidatūrai.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -94,7 +80,8 @@ Astikas su Manvydu ir Goštautu susitarė valdovu paskelbti karalių Vladislovą
 - id: c-169543
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 466"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 466."
   citata_originali: |
     Nugalėjo vis dėlto tie, kurie stojo už ryšius su Jogailos
     gimine ir sąjungą su lenkais. Manvydas susitarė su
@@ -112,8 +99,3 @@ Astikas su Manvydu ir Goštautu susitarė valdovu paskelbti karalių Vladislovą
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186182
-
-## Ryšiai
-- Sąjungininkai: [[objektai/asmenys/Manvydas]]
-- Turėjo priklausinį: [[objektai/vietos/Alanta]]
-- Astikas sudarė sutartį su [[objektai/asmenys/Manvydas]]

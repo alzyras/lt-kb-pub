@@ -56,21 +56,6 @@ Nenurodyta
 - t-001
   global_id: t-62239
   teiginys: "1305 m. liepos 26 d. Livonijos teutonų ordino broliai teisėta pirktimi įsigijo Diunamiundės pilį."
-  teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Diunamiundė priklausė Teutonai (0.81); Teutonai užėmė Diunamiundė (0.72)"
-  temporaliniai_duomenys: "įvykio data: 1305 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra tikslus, gramatiškas ir tiesiogiai remiasi citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "736384-736618; hash=ee6a68625138f4f7f04b9eb32226c37e8d04e19e55838180810151b793e80d49; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Teutonai: 0.81"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Diunamiundė: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Teutonai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Po įsigijimo Diunamiundės pilis priklausė teutonų ordino broliams."
   pagrindžia:
     - c-62741
 ## Reikšmingi paminėjimai
@@ -88,8 +73,8 @@ Nenurodyta
 
                     101.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -100,7 +85,8 @@ Nenurodyta
 - id: c-62741
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 246"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 246."
   citata_originali: |
     100. Apie tai, kaip buvo nupirkta Diunamiundės pilis
 

@@ -51,14 +51,6 @@ Nenurodyta
 - t-001
   global_id: t-194941
   teiginys: "Maistui ir gėrimui, gal sekdami budinais, vartojo kumelių pieną."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "142023-142391; hash=41e4ab94a6c9e23b04d376a423cc2a3211c4658a881b762d790817aff4024a22; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-177337
 ## Reikšmingi paminėjimai
@@ -75,8 +67,8 @@ Nenurodyta
     šviežiu arklio krauju, vyksta spiritinė fermentacija, todėl
     destiliuojant galima pagaminti svaiginantį gėrimą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -87,7 +79,8 @@ Nenurodyta
 - id: c-177337
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 79"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 79."
   citata_originali: |
     Maistui ir gėrimui, gal sekdami budi-
     nais, vartojo kumelių pieną. Tą sveiką gyvulinės kilmės

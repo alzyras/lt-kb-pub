@@ -51,9 +51,6 @@ Nenurodyta
 - t-001
   global_id: t-67005
   teiginys: "Coaequatio iurium šūkiu siekta suvienodinti Lietuvos ir Lenkijos ministerių teises."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "754387-754804; hash=a025d4184df49dc4e8bcd6ab9b77abc27c8145b3c6ef552f25cc49ed85138f11; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-67079
 ## Reikšmingi paminėjimai
@@ -71,8 +68,8 @@ Nenurodyta
     ginimo _(coaequatio iurium)_ šūkiu, nes tuo buvo norima su-
     vienodinti Lietuvos ir Lenkijos ministerių teises.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

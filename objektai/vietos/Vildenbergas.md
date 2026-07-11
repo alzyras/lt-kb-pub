@@ -32,18 +32,6 @@ Dusburgietis teigia, kad vildenbergas Vildenbergas (prie Nogato; Wildenbergk, Wi
 - t-001
   global_id: t-58748
   teiginys: "Vildenbergas Vildenbergas (prie Nogato; Wildenbergk, Wildinberc; vėliau Willenberg, dab."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "866700-866857; hash=b58db23f6ab6c9fb97e68dc7c80cf27273ee416629d0f4ef58b74bb948d09358; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Viljandis: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vildenbergas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Viljandis: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vildenbergas\" parinktas kaip owner_note_path. Targetas \"Viljandis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
-  vertinimo_autorius: "claim_quality_pipeline / rewrite"
   pagrindžia:
     - c-59380
 - susijęs iš [[objektai/asmenys/Fridrichas fon Vildenbergas.md#claim-t-87501|Fridrichas fon Vildenbergas]]: Krašto magistras Fridrichas fon Vildenbergas su 150 Ordino riterių nuvedė kariuomenę į Vaikius Žemaitijoje.
@@ -69,8 +57,8 @@ Dusburgietis teigia, kad vildenbergas Vildenbergas (prie Nogato; Wildenbergk, Wi
        Viljandis
        Vilka (Vilkė), u.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -81,7 +69,8 @@ Dusburgietis teigia, kad vildenbergas Vildenbergas (prie Nogato; Wildenbergk, Wi
 - id: c-59380
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 321"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 321."
   citata_originali: |
     Vildenbergas
       Vildenbergas (prie Nogato; Wildenbergk, Wildinberc; vėliau Willenberg, dab. Vilbarkas,

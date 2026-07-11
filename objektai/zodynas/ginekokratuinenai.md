@@ -47,20 +47,6 @@ Tai Narbuto perteikiamas ir pats jo paties atsargiai aiškinamas terminas; vieš
 - t-003
   global_id: t-192151
   teiginys: "Narbutas prie sarmatų galiausiai palieka tik ginekokratuinenus ir vadina juos medų-skitų gentimi."
-  teiginio_tipas: "saltinio_teiginys"
-  semantiniai_rysiai: "Sarmatai gyveno Donas (0.91)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "105674-106368; hash=5b20f49ec92ef464fa77ce54fa395a4df15da60fa72628d9a6b9f8b595cb3f31; match=ocr_normalized"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  ryšio_patikimumas: "gyveno -> Donas: 0.91"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Sarmatai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Donas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citatoje sarmatai apibūdinti kaip gyvenę prie Dono žemupio."
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175034
 
@@ -68,20 +54,6 @@ Tai Narbuto perteikiamas ir pats jo paties atsargiai aiškinamas terminas; vieš
 - t-002
   global_id: t-192152
   teiginys: "Narbutas ginekokratuinenus įtraukia į sarmatų tautų sąrašą, siejamą su Dono žemupiu ir Juodąja jūra."
-  teiginio_tipas: "saltinio_teiginys"
-  semantiniai_rysiai: "Sarmatai gyveno Donas (0.91)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "105674-106368; hash=5b20f49ec92ef464fa77ce54fa395a4df15da60fa72628d9a6b9f8b595cb3f31; match=ocr_normalized"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  ryšio_patikimumas: "gyveno -> Donas: 0.91"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Sarmatai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Donas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Claimas ir citata sieja sarmatus su gyvenimu prie Dono žemupio."
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175034
 
@@ -89,18 +61,6 @@ Tai Narbuto perteikiamas ir pats jo paties atsargiai aiškinamas terminas; vieš
 - t-001
   global_id: t-192153
   teiginys: "Narbutas aiškina, kad Plinijus sarmatus vardija kaip amazonių karalienių valdomus ginekokratuinenus."
-  teiginio_tipas: "saltinio_teiginys"
-  semantiniai_rysiai: "Sarmatai gyveno Donas (0.91)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "105674-106368; hash=5b20f49ec92ef464fa77ce54fa395a4df15da60fa72628d9a6b9f8b595cb3f31; match=ocr_normalized"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  ryšio_patikimumas: "gyveno -> Donas: 0.91"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Sarmatai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Donas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad sarmatai gyveno prie Dono žemupio."
   pagrindžia:
     - c-175034
 
@@ -108,20 +68,6 @@ Tai Narbuto perteikiamas ir pats jo paties atsargiai aiškinamas terminas; vieš
 - t-004
   global_id: t-192154
   teiginys: "Narbutas ginekokratuinenus sieja su amazonėmis ir perteikia nuomonę, kad amazonių kalba laikytina panašia į skitų kalbą."
-  teiginio_tipas: "saltinio_teiginys"
-  semantiniai_rysiai: "Sarmatai gyveno Donas (0.91)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "105674-106368; hash=5b20f49ec92ef464fa77ce54fa395a4df15da60fa72628d9a6b9f8b595cb3f31; match=ocr_normalized"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  ryšio_patikimumas: "gyveno -> Donas: 0.91"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Sarmatai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Donas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Nors claimas akcentuoja ginekokratuinenus, citata tiesiogiai nurodo sarmatų gyvenimą prie Dono."
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175034
 
@@ -129,22 +75,6 @@ Tai Narbuto perteikiamas ir pats jo paties atsargiai aiškinamas terminas; vieš
 - t-005
   global_id: t-192558
   teiginys: "Narbutas, remdamasis Plinijumi, ginekokratuinenus mini pirmus tarp sarmatų, kuriuos pasakojimai kildino iš medų prie Dono ir Juodosios jūros."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Sarmatai gyveno Donas (0.91)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "105674-106368; hash=5b20f49ec92ef464fa77ce54fa395a4df15da60fa72628d9a6b9f8b595cb3f31; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Donas: 0.91"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Sarmatai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Donas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad sarmatai gyveno prie Dono žemupio."
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175034
 ## Reikšmingi paminėjimai
@@ -166,8 +96,8 @@ Tai Narbuto perteikiamas ir pats jo paties atsargiai aiškinamas terminas; vieš
     kaip teigia mūsų senovės tyrinėtojas2, ir kalbą reikėtų
     laikyti panašia j skitų.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -183,7 +113,8 @@ Tai Narbuto perteikiamas ir pats jo paties atsargiai aiškinamas terminas; vieš
 - id: c-175034
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 61"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 61."
   citata_originali: |
     tam, kad būtų apgyvendintos Europos dykros. Tik iš
     Plinijaus žinome, kad sarmatai, kaip rašo pasakojimai,

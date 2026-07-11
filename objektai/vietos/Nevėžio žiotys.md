@@ -33,17 +33,6 @@ Siekdamas atkurti gynybą NemunoNeries-Nevėžio žiočių ruože, Kęstutis sta
 - t-001
   global_id: t-41975
   teiginys: "Kęstutis statydino Naująjį Kauną Nevėžio žiočių Vyrgalės saloje, siekdamas atkurti gynybą Nemuno, Neries ir Nevėžio žiočių ruože."
-  semantiniai_rysiai: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.) pastatė Kaunas (0.74); Kęstutis (vakarų pasienio valdovas, XIV–XV a.) gynė Nevėžio žiotys (0.66)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "163206-163528; hash=ccf2fa7143441a06a8920b858514887772cfde49cb0d33ebb3a43f15977ffe04; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "pastate -> Kaunas: 0.74"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kaunas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekste nurodoma, kad Kęstutis statydino pilį, vadinamą Naujuoju Kaunu; kandidatų sąraše yra Kaunas."
   pagrindžia:
     - c-45242
 ## Reikšmingi paminėjimai
@@ -61,8 +50,8 @@ Siekdamas atkurti gynybą NemunoNeries-Nevėžio žiočių ruože, Kęstutis sta
     Tiltas galuose turėjo du gynybinius bokš-
     tus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -91,6 +80,3 @@ Siekdamas atkurti gynybą NemunoNeries-Nevėžio žiočių ruože, Kęstutis sta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-41975
-
-## Ryšiai
-- Gynė Nevėžio žiotį: [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]

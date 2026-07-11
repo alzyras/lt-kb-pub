@@ -42,19 +42,6 @@ Nenurodyta
 - t-001
   global_id: t-185713
   teiginys: "Valdovo ir kariuomenės netekę lietuvių didikai sukvietė Kernavės susirinkimą valstybės vidaus reikalams kuo greičiau sutvarkyti."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "230001-230952; hash=d5228dd7b4fb2b9bee44c2d15ddd7cb554d487ee046d7309d3d61fd1404cd3bd; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kernavė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kernavės susirinkimas ir Narimanto išrinkimas valdovu: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Kernavė: mention_match, place, gap=56"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kernavės susirinkimas ir Narimanto išrinkimas valdovu\" parinktas kaip owner_note_path. Targetas \"Kernavė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-169074
 ## Reikšmingi paminėjimai
@@ -88,8 +75,8 @@ Nenurodyta
     Alšys, Daumantas, Giedrys ir
     Traidenis.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -100,7 +87,8 @@ Nenurodyta
 - id: c-169074
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 135"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 135."
   citata_originali: |
     Lietuvių didikams, netekusiems
     namie valdovo, o svetur — kariuomenės, dabar parūpo

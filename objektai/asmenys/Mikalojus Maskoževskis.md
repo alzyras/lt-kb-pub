@@ -40,20 +40,6 @@ Skirgailos valdymo metu Lietuvoj buvo „Vilniaus ir Lietuvos se­ niūnas“, k
 - t-001
   global_id: t-35228
   teiginys: "Mikalojus Maskoževskis 1389 m. buvo pasiųstas į Lietuvą ir vienus metus ėjo Vilniaus ir Lietuvos seniūno pareigas."
-  semantiniai_rysiai: "Mikalojus Maskoževskis keliavo į Lietuva (0.86)"
-  temporaliniai_duomenys: "įvykio data: 1389 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "381345-381740; hash=379e89da4eb7135495d1c8b360c55f2c62efc6eb504b1a15e11edeae4e88fe93; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Lietuva: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Mikalojus Maskoževskis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Mikalojus Maskoževskis buvo pasiųstas į Lietuvą."
   pagrindžia:
     - c-38094
 ## Reikšmingi paminėjimai
@@ -69,8 +55,8 @@ Skirgailos valdymo metu Lietuvoj buvo „Vilniaus ir Lietuvos se­ niūnas“, k
     vienus metus. Kokis buvo to seniūno vaidmuo, nėra visiškai
     aišku, bet tikra, kad visų pirma buvo karinis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -98,6 +84,3 @@ Skirgailos valdymo metu Lietuvoj buvo „Vilniaus ir Lietuvos se­ niūnas“, k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-35228
-
-## Ryšiai
-- Mikalojus Maskoževskis keliavo į [[objektai/vietos/Lietuva]]

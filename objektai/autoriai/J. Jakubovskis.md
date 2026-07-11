@@ -43,18 +43,6 @@ Jakubovskis : Tautiniai santykiai , Kaunas 1921. Jakubovskis : Tautybių santyki
 - t-001
   global_id: t-30674
   teiginys: "J. Jakubovskio „Tautybių santykiai Lietuvoje prieš Liublino uniją“ išėjo Kaune 1921 m."
-  temporaliniai_duomenys: "įvykio data: 1921 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "924737-925268; hash=20e847de632714f1b15368a38f2cc1b2fa58694c6e2b44c1261303182e180339; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kaunas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "J. Jakubovskis: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Kaunas: mention_match, place, gap=73"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"J. Jakubovskis\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-32965
 - susijęs iš [[objektai/autoriai/M. Ljubavskij.md#claim-t-30841|M. Ljubavskij]]: M. Ljubavskij parašė veikalą „Litovsko-Russkij sejm“, išleistą Maskvoje 1900 m.
@@ -75,8 +63,8 @@ Jakubovskis : Tautiniai santykiai , Kaunas 1921. Jakubovskis : Tautybių santyki
     tische Monatschrift, t. 54, 1902, 235-265, 310-336, 365-381 p.**
     (^12) **St.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

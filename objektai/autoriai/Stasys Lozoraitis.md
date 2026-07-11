@@ -39,12 +39,6 @@ Keturiasdešimtmečiai užsienio reikalų ministras Stasys Lozoraitis ir kariuom
 - t-001
   global_id: t-193726
   teiginys: "Keturiasdešimtmečiai užsienio reikalų ministras Stasys Lozoraitis ir kariuomenės vadas gen."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "357455-358140; hash=f60cb7f356a95db87aa8e365721466e449c72e3da2d3adc8349bf25438027ed4; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176395
 ## Reikšmingi paminėjimai
@@ -66,8 +60,8 @@ Keturiasdešimtmečiai užsienio reikalų ministras Stasys Lozoraitis ir kariuom
     178
     vivendi su Lenkija yra būtina nepriklausomybės sąlyga.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

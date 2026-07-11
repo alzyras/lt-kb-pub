@@ -48,19 +48,6 @@ Nenurodyta
 - t-002
   global_id: t-186568
   teiginys: "Lietuvos metraštis pasakoja, kad po pranciškonų nužudymo Algirdas pasmerkė myriop penkis šimtus vilniečių, o nubaustieji buvo nukankinti."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "132785-133401; hash=4d10b6a380d35f2b345010cb102acf7858d639f5e9dcd95b8eabd220e56295db; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
-  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilniečių nubaudimas po pranciškonų nužudymo: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person, gap=24"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniečių nubaudimas po pranciškonų nužudymo\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-169881
 
@@ -68,19 +55,6 @@ Nenurodyta
 - t-001
   global_id: t-186570
   teiginys: "Lietuvos metraštis pasakoja, kad Algirdas po pranciškonų nužudymo pasmerkė myriop penkis šimtus vilniečių pavyzdžio dėlei."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "132785-133401; hash=4d10b6a380d35f2b345010cb102acf7858d639f5e9dcd95b8eabd220e56295db; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
-  ryšio_patikimumas: "susije_su -> Pranciškonų ordinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilniečių nubaudimas po pranciškonų nužudymo: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Pranciškonų ordinas: mention_match, group, gap=3"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniečių nubaudimas po pranciškonų nužudymo\" parinktas kaip owner_note_path. Targetas \"Pranciškonų ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-169881
 ## Reikšmingi paminėjimai
@@ -101,8 +75,8 @@ Nenurodyta
     čioniui nieko pikto. Ir anieji buvo nugalabyti, visaip
     kankinant.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -114,7 +88,8 @@ Nenurodyta
 - id: c-169881
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 75"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 75."
   citata_originali: |
     Ir parvyksta didysis kunigaikštis Algirdas į Vilnių.
     Goštautas žemai lenkdamasis prašė didįjį kunigaikštį

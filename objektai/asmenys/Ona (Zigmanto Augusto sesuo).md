@@ -33,9 +33,6 @@ Ona (Zigmanto Augusto sesuo): zigmanto Augusto seseriai Onai paliktų privatini�
 - t-001
   global_id: t-64014
   teiginys: "Po Zigmanto Augusto mirties neliko vyriškų įpėdinių; viena iš likusių seserų, Ona, tebebuvo netekėjusi."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "470999-471290; hash=e185606592d3e1395614f00451e8346d7d5af76d94342fae37c7a79d3e54fad5; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-64890
 ## Reikšmingi paminėjimai
@@ -50,8 +47,8 @@ Ona (Zigmanto Augusto sesuo): zigmanto Augusto seseriai Onai paliktų privatini�
     seserys, kurių viena — Ona — tebebuvo netekėjusi), tad turėjo
     prasidėti laisvai renkamųjų valdovų periodas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

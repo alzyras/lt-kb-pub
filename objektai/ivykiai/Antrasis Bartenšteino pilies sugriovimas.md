@@ -50,18 +50,6 @@ Nenurodyta
 - t-001
   global_id: t-62195
   teiginys: "Sūduviai staiga apsiautė Bartenšteino pilį, sugriovė ją, gyventojus išžudė arba išsivarė į nelaisvę ir pilį pavertė pelenais."
-  teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Sūduviai apgulė Bartenšteinas (0.97)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "472828-473229; hash=6b129236c6eb174dba5a725463605faf66eef8541c83c640a28b985efe4befab; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "apgule -> Bartenšteinas: 0.97"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Sūduviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Bartenšteinas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo, kad sūduviai apsiautė Bartenšteino pilį."
   pagrindžia:
     - c-62664
 ## Reikšmingi paminėjimai
@@ -82,8 +70,8 @@ Nenurodyta
 
           174 (169).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -94,7 +82,8 @@ Nenurodyta
 - id: c-62664
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 148"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 148."
   citata_originali: |
     173 (168). Apie antrąjį Bartenšteino pilies sugriovimą
 

@@ -45,17 +45,6 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
 - t-002
   global_id: t-66129
   teiginys: "Vikingų epochoje prie jūros gyvenusiems prūsams ir kuršiams teko atremti plėšikaujančius skandinavus."
-  semantiniai_rysiai: "Prūsai kariavo prieš Skandinavai (0.82); Kuršiai kariavo prieš Skandinavai (0.82)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "151389-152234; hash=bcd1fbc4df3d9176b5e80ac1f09a5feb7491cd1960442859025789d308f534ac; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Skandinavai: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kuršiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Skandinavai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Kuršiai tekste įvardyti kaip turėję atremti plėšikaujančius skandinavus, todėl karinė priešprieša pagrįsta."
   pagrindžia:
     - c-42931
 
@@ -63,19 +52,6 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
 - t-002
   global_id: t-188332
   teiginys: "Narbutas mano, kad lietuvių ir skandinavų mitologijų panašumą ryškino skandinavų perimti graikų elementai."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "151389-152234; hash=bcd1fbc4df3d9176b5e80ac1f09a5feb7491cd1960442859025789d308f534ac; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Graikai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Skandinavai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Graikai: mention_match, group, gap=58"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Skandinavai\" parinktas kaip owner_note_path. Targetas \"Graikai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-171225
 
@@ -83,14 +59,6 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
 - t-003
   global_id: t-188334
   teiginys: "Narbutas rašo, kad skandinavai Frėjos kelione aiškino jos žinomumą ir garbinimą įvairiuose kraštuose."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "223231-223592; hash=005c2344160eb1e98c187a5cd9acdebcbae34735c6d9b818de1813388ddc0c29; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-171227
 
@@ -98,21 +66,6 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
 - t-004
   global_id: t-188335
   teiginys: "Narbutas rašo, kad skandinavams koboliai buvo įkyrios ir irzlios mitinės būtybės, su kuriomis buvo galima kovoti ir jas užmušti."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "312566-313021; hash=a9e2927ce0a98c71099619ce5c2a76a23f696cdb8611ff6830871e67d187fc92; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Koboliai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Skandinavai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Koboliai: mention_match, group, gap=13"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Skandinavai\" parinktas kaip owner_note_path. Targetas \"Koboliai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171228
 
@@ -120,21 +73,6 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
 - t-005
   global_id: t-188336
   teiginys: "Narbutas perteikia Prūsijos kronikininkų nuomonę, kad lietuviai paskutines penkias dievaičių rūšis perėmė iš skandinavų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "314421-314636; hash=30a77e8127b1ef6fea9589428fa99a19f960b9969d248689d2df0daf09c6eed3; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Skandinavai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=55"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Skandinavai\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-171229
 
@@ -142,21 +80,6 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
 - t-006
   global_id: t-188339
   teiginys: "Narbutas primena, kad skandinavų mitologijoje Išminties šaltinį valdo Mimiras, o Igdrasilis jame maitina vieną savo šaknį."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "390660-390922; hash=cd79815b2134a39123ea78604a6b8766a86fdc707fda6a2124793a1a1f3f0ffd; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Viena: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Skandinavai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Viena: mention_match, place, gap=83"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Skandinavai\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171232
 
@@ -164,21 +87,6 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
 - t-007
   global_id: t-188340
   teiginys: "Narbutas mano, kad skandinavai tikėjimą šventojo ąžuolo reikšme iš dalies perėmė iš lietuvių."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "410171-410651; hash=25e8962ee061cc8e940eca15c68045e20ddfbf15dca9222d45e703994059e142; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Švedai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Skandinavai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Švedai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Skandinavai\" parinktas kaip owner_note_path. Targetas \"Švedai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171233
 
@@ -186,21 +94,6 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
 - t-008
   global_id: t-190619
   teiginys: "Narbutas iš skandinavų legendų sprendžia, kad Biarmija buvo turtinga brangiųjų metalų ir viliojo skandinavų plėšikus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "786297-787085; hash=09773a83220a29c8f648fba074b100ab1290ca55fc2a722eddf58a67023190e8; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Biarmija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Skandinavai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Biarmija: mention_match, place, gap=34"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Skandinavai\" parinktas kaip owner_note_path. Targetas \"Biarmija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173502
 
@@ -208,21 +101,6 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
 - t-009
   global_id: t-192456
   teiginys: "Narbutas darė prielaidą, kad dalis žmonių iš Šiaurės Azijos per Lapiją galėjo patekti į Skandinaviją, Švediją ir Norvegiją."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "63933-64601; hash=9aa339745797cd6b3a6122ba17c5ffa5b257696aa1111d2a3ed70f23feafa9a7; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Skandinavija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Skandinavai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Skandinavija: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Skandinavai\" parinktas kaip owner_note_path. Targetas \"Skandinavija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175250
 
@@ -230,21 +108,6 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
 - t-010
   global_id: t-192457
   teiginys: "Narbutas spėjo, kad skandinavai iš Baltijos jūros per Nevą ir Ladogos ežerą galėjo pasiekti Pailmenės slavus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "299713-300172; hash=f711345f42f3ff96112405197d217ce8a4b3ddd110ee73ec3cb3de2fbe394ca7; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Baltija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Skandinavai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Baltija: mention_match, place, gap=15"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Skandinavai\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175251
 
@@ -252,21 +115,6 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
 - t-011
   global_id: t-192458
   teiginys: "Narbutas rašė, kad Malte-Brunas Baltijos jūros pavadinimą kildino iš senovės skandinavų žodžio Balt arba Beet."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "323909-324372; hash=6c6a5ab568163001e0c60d4412afc42d8779d4434709343c13388e0fa3499023; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Baltija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Skandinavai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Baltija: mention_match, place, gap=45"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Skandinavai\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175252
 
@@ -274,21 +122,6 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
 - t-012
   global_id: t-192459
   teiginys: "Narbutas Assagardą laikė senovės šiaurės miestu Rusioje, kur, jo teigimu, nuolat gyveno skandinavai."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "407077-407689; hash=2e7d306fc0a92bb68decdb25ad671b2629cd9b2e2d1f9a7d4bd392bd91468fb2; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Azovas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Skandinavai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Azovas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Skandinavai\" parinktas kaip owner_note_path. Targetas \"Azovas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175253
 
@@ -296,21 +129,6 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
 - t-013
   global_id: t-192460
   teiginys: "Narbutas skandinavų užkariavimus lietuvių žemėse apibūdino kaip labai senus ir didelius."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "428231-428631; hash=690c23f10eefad84e55eaf0ec52f8d25282af43eff442c01318e4cece4872ff2; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kaunas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Skandinavai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Kaunas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Skandinavai\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175254
 
@@ -318,14 +136,6 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
 - t-014
   global_id: t-193128
   teiginys: "Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolatinį upių susisiekimą su Bizantija."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "62704-63095; hash=9549189361aab2806dd8c15714144bdad09c3e39bfee2d55ca0b53e65bbfe9a3; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175887
 
@@ -333,14 +143,6 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
 - t-015
   global_id: t-194595
   teiginys: "Su šių dviejų religijų sistemomis sumišo trečioji, tai yra skandinavų, o iš tos sam plaikos kilo mitologija, kurią imamės išdėstyti."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "150057-150594; hash=6db5e522bba1f8f8648238181bc29c5de549d2a9eeedcce5a9b60dbbbcd61f2e; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-176994
 
@@ -348,12 +150,6 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
 - t-016
   global_id: t-194596
   teiginys: "Anot visų tyrimų, šios deivės ypatybės buvo perimtos iš skandinavų, kurie ją vadino Frėja; ji buvo jūrų ir ugnies dievo, žemiškos laimės, turtų, sostų dalintojo Niordo duktė, o pati buvo laisvės, nepriklausomybės, malonumų, meilės poezijos mo tina ."
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "222364-222828; hash=66f409ee70eab0a632443e063edf711929c4a633404bb604849bdabac44fa4cd; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176995
 
@@ -361,12 +157,6 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
 - t-017
   global_id: t-194597
   teiginys: "Tas skaičius devyni yra religinis, ypač, kaip pažymi ponas Rėza, Prūsijos lietuviams, kurie jį perėmė iš skandinavų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "323831-324177; hash=54a7e518fb4a405018167d2d967f2ff176c7cfaa4133d327cb45d1b7a9d0dac2; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176996
 
@@ -374,12 +164,6 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
 - t-018
   global_id: t-194598
   teiginys: "Atsakymas trumpas: pajūrio Lietuva, kaip ir Biarmija, buvo užkariauta skandinavų - tai patvirtins tolesnis šios istorijos tę sinys, - todėl tos šalys galėjo turėti tarpusavio ryšių, - taigi ir auksas, ir menininkai, ir naudingieji mokslai buvo bendri abiem."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "373358-373824; hash=f43e0e15361770caf37d4cb0ededc678ba6fe3ed196a403ee9a46e41f4af985d; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176997
 
@@ -387,12 +171,6 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
 - t-019
   global_id: t-194599
   teiginys: "Leisdamiesi nuo tryliktojo amžiaus gilyn į praeitį, pastebi me vedybų papročius, bendrus lietuviams ir skandinavams, tai yra kad tik viena, pirmoji, žmona buvo iš tikrųjų laikoma tei sėta žmona ir namų šeimininke, o vėliau paimtos į namus mo terys neturėjo."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "614764-615745; hash=d0508482fccc1567124a93f19c57302ea4f34519c359ffbe439e393f810631d1; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176998
 
@@ -400,12 +178,6 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
 - t-020
   global_id: t-194600
   teiginys: "Pasak islandų sagose esančių padavimų, skandinavai taip pat žinojo pakirptuves."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "626908-627238; hash=d3ed0c63c388fc865aabc94fd0c7c4a3cc1b3a0f2f3957a2d0b26c05e659b6e0; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176999
 - susijęs iš [[objektai/grupes/Kuršiai.md#claim-t-65555|Kuršiai]]: Vikingų epochoje prie jūros gyvenusiems prūsams ir kuršiams teko atremti plėšikaujančius skandinavus.
@@ -529,8 +301,8 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
     plėšikaujančius skandinavus. Tiesa, kuršiai XI a. jau ir patys reng-
     davo plėšiamuosius žygius į Danijos ir Švedijos pakrantes.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -555,8 +327,8 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
     jeigu lietuviai nuo seno nebūtų turėję savo pačių išsiugdytos
     religijos, kurią gana veiksmingai formavo graikų mitologija.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -574,8 +346,8 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
     tautų. Beveik tokį patį, kaip užrašytasis Edoje, pasakojimą ap­
     tinkame mūsų kaimiečių padavimuose.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -593,8 +365,8 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
     (Thergerd) ir Irpą (Yrpo). Jos statė šventyklą Odino garbei, gyveno
     miškuose ir Siaurės šalyse (Islandų saga, pavadinta Huldasaga).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -610,8 +382,8 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
     viai perėmę iš skandinavų.
     30 Stenden Lettische Grammatik.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -627,8 +399,8 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
     Kai Odinas panorėjo atsigerti iš to šaltinio, tai turėjo už tai ati­
     duoti vieną savo akį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -649,8 +421,8 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
     Lietuvių liaudies pasakos mini, kad žmonės valgydavę gi­
     les, iškeptas pelenuose arba virtas su pelenais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -678,8 +450,8 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
     ti jos provincija, tačiau ši tauta atkakliai laikėsi savo senosios
     stabmeldystės; smulkesnės žinios apie ją yra dingusios.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -703,8 +475,8 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
     perborėjų, o vėliau skandinavų, giminingų keltams, var­
     du, nes ir šie kilę iš skitų lizdo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -726,8 +498,8 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
     dėl šio kelio egzistavimo, atvirkščiai, yra išlikusių jo pėd­
     sakų2.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -749,8 +521,8 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
     mininkų, kalba Balt arba Beet reiškė vandens telkinį; iš jo
     Malte-Brunas kildina jūros pavadinimą3.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -776,8 +548,8 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
     dies pusdievių ir senovės didvyrių, vadinamų asais, kurių
     protėviai kartu su Odinu atėjo nuo Azovo jūros.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -796,8 +568,8 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
     tina Nestoro pateiktos žinios, kad skandinavams priklau­
     sė daug kraštų ir tautų2.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -815,8 +587,8 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
     jiems tekdavo sausuma pereiti tiktai nedidelį tarpą, skiriantį tų
     upių aukštupius).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -836,8 +608,8 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
     sistemomis sumišo trečioji, tai yra skandinavų, o iš tos sam­
     plaikos kilo mitologija, kurią imamės išdėstyti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -857,8 +629,8 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
     dalydavo su Odinu žuvusių karių vėles, lietuviškai vadinamas
     murgais (murgi).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -876,8 +648,8 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
     tam tikrus periodus, ir tam skaičiui būdavo priskiriamos įvai­
     rios ypatybės.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -897,8 +669,8 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
     ninko Juozapo Januškevičiaus sode buvo žinoma visiems to kraš­
     to gyventojams.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -926,8 +698,8 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
     kunigaikščiai būtų turėję daugiau kaip vieną žmoną; vėl ves­
     davo tiktai po žmonos mirties.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -944,8 +716,8 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
     islandų sagose esančių padavimų, skandinavai taip pat žinojo
     pakirptuves. Senovės lenkai ypač laikėsi šio papročio.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -975,7 +747,8 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
 - id: c-171225
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 84"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 84."
   citata_originali: |
     Kadangi ir šioje yra nemažai pasi­
     savinta iš graikų, todėl mūsų ir skandinavų mitologijos pana-
@@ -1001,7 +774,8 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
 - id: c-171227
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 127"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 127."
   citata_originali: |
     Labai sukrės­
     ta šio nutikimo, deivė klaidžiojo visur, ieškodama neištikimo
@@ -1020,7 +794,8 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
 - id: c-171228
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 181"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 181."
   citata_originali: |
     Vietiniai kaimiečiai dar nepaliauja tikėję, kad esama žmo­
     nių, susidėjusių su koboliais, kurie jiems slapčia neša dovanų
@@ -1039,7 +814,8 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
 - id: c-171229
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 182"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 182."
   citata_originali: |
     Šie dievaičiai atitinka Antikos Paną.
     Prūsijos kronikininkų, besivadovaujančių Olafo Didžiojo
@@ -1056,7 +832,8 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
 - id: c-171232
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 228"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 228."
   citata_originali: |
     Pamenu, jog skandinavų mitologijoje yra Iš­
     minties šaltinis, kuriame uosis Igdrasilis (arba Idrasibas) maiti­
@@ -1073,7 +850,8 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
 - id: c-171233
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 238"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 238."
   citata_originali: |
     Apskritai reikia ma­
     nyti, kad visur, kur buvo šventyklos, augo šventieji ąžuolai,
@@ -1124,7 +902,8 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
 - id: c-175250
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 38"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 38."
   citata_originali: |
     Į tai atsi­
     žvelgus, nesunku padaryti prielaidą, jog tam tikri žmo­
@@ -1149,7 +928,8 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
 - id: c-175251
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 165"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 165."
   citata_originali: |
     Beje, vėliau nustatyta, kad vietinės prekės
     niekad nebuvo gabenamos šia upe aukštyn, bet tik jūros
@@ -1172,7 +952,8 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
 - id: c-175252
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 177"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 177."
   citata_originali: |
     Taip pat įvai­
     riai buvo vadinamos ir įlankos: Plinijus Rygos įlanką va­
@@ -1222,7 +1003,8 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
 - id: c-175254
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 242"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 242."
   citata_originali: |
     Istorikas, rašęs jau praėjus
     šio Kauno įkūrėjo amžiui, neįsigilinęs į istorines detales,
@@ -1261,7 +1043,8 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
 - id: c-176994
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 83"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 83."
   citata_originali: |
     Mat jie ne tik kad buvo su helenais tos pačios kilmės -  kaip
     tatai paaiškės pažinus jų senovės istoriją, -  bet ir turėjo vieną
@@ -1282,7 +1065,8 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
 - id: c-176995
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 127"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 127."
   citata_originali: |
     Ją tebežino lietu­
     viai, ypač senojoje Trakų vaivadijoje, latviai ir estai.
@@ -1303,7 +1087,8 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
 - id: c-176996
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 189"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 189."
   citata_originali: |
     O į klausimą, kada apsi­
     vilkti baltus vestuvinius drabužius, motina atsako: tą dieną,
@@ -1322,7 +1107,8 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
 - id: c-176997
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 219"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 219."
   citata_originali: |
     Iškyla kitas klausimas: kaip šis raidynas pateko į Žemaitiją?
     Atsakymas trumpas: pajūrio Lietuva, kaip ir Biarmija, buvo
@@ -1343,7 +1129,8 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
 - id: c-176998
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 349"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 349."
   citata_originali: |
     Senovės prūsų merginas, jeigu norė­
     davo jas vesti, turėdavo iš tėvų nusipirkti1.
@@ -1372,7 +1159,8 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
 - id: c-176999
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 355"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 355."
   citata_originali: |
     Romėnai darydavo pakirptuves
     įvairiomis gyvenimo aplinkybėmis, įvairiais būdais: per vestu­
@@ -1388,7 +1176,4 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
     - t-194600
 
 ## Ryšiai
-- Kariavo prieš: [[objektai/grupes/Kuršiai]], [[objektai/grupes/Prūsai]]
-- Turėjo priklausinį: [[objektai/grupes/Variagai (normanai)]]
-- Skandinavai prekiavo su [[objektai/vietos/Bizantija]]
-- Skandinavai gyveno [[objektai/vietos/Lietuva]]
+- Kariavo prieš: [[objektai/grupes/Kuršiai]]

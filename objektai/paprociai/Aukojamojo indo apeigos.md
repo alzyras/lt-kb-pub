@@ -45,14 +45,6 @@ Nenurodyta
 - t-001
   global_id: t-189912
   teiginys: "Narbutas aukojamojo indo apeigas priskiria paprastosioms aukojimo maldoms arba žemesniosios kategorijos aukoms, kurias atnašaudavo viršaitis."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "599914-601008; hash=768fa15bb0bc01de2b9592a168255c7e0b052582df1cab3d0d0fececc2a163e5; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172795
 ## Reikšmingi paminėjimai
@@ -84,8 +76,8 @@ Nenurodyta
     ir sviesdavo per galvą. Tai kartodavo tiek kartų, kiek buvo die­
     vų, kuriems reikėjo duoti auką.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

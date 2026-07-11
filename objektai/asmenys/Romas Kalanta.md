@@ -41,16 +41,6 @@ media_all_json: |-
 - t-005
   global_id: t-46284
   teiginys: "Romo Kalantos auka sulaukė didžiulio atgarsio ir kėlė Lietuvos nelaisvės klausimą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "479975-480201; hash=9a196307bbeb1c436c6c1a5a680faaab4c962b88bed622612b7156dde9f1f373; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Romas Kalanta: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=54"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Romas Kalanta\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-48885
 
@@ -58,9 +48,6 @@ media_all_json: |-
 - t-002
   global_id: t-46285
   teiginys: "Sovietų valdžia paskelbė, kad Romo Kalantos susideginimo priežastis buvo sunki psichikos liga šizofrenija."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "479617-479974; hash=a1980de08741dab47bb000fb7e390696d1bfc3aa8d3dcdcec275445cb038d692; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-21954
 
@@ -68,16 +55,6 @@ media_all_json: |-
 - t-003
   global_id: t-46286
   teiginys: "Romo Kalantos auka sulaukė didžiulio atgarsio ir kėlė Lietuvos nelaisvės klausimą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "479841-480144; hash=e1f9b655636f4933112869a072e93fcb7a3663eb16c64fd14f06646e80930cb0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Romas Kalanta: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=54"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Romas Kalanta\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-21955
 
@@ -85,9 +62,6 @@ media_all_json: |-
 - t-001
   global_id: t-46287
   teiginys: "Sovietiniai saugumiečiai Romą Kalantą slapta palaidojo anksčiau paskelbto laiko."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "479258-479550; hash=c6c0c8225c5b0ed06ab5b6db2200631390e05186216225379c9902251d5bb33b; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-166958
 
@@ -95,16 +69,6 @@ media_all_json: |-
 - t-004
   global_id: t-46288
   teiginys: "Romas Kalanta tapo pasipriešinimo simboliu, o Kauno įvykiai suaktyvino neformalių jaunimo grupių judėjimą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "480286-480861; hash=fe5516040014b1b2cd4d6cf370cec6a2b916079c828f21c7dba2b871043bedac; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kaunas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Romas Kalanta: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kaunas: mention_match, place, gap=46"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Romas Kalanta\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-21956
 
@@ -112,23 +76,6 @@ media_all_json: |-
 - t-006
   global_id: t-183564
   teiginys: "1972 m. gegužės 14 d. Romas Kalanta Kauno miesto sode prie Muzikinio teatro apsipylė benzinu, sušuko „Laisvę Lietuvai!“, pasidegė ir mirė ligoninėje."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Romas Kalanta mirė Kaunas (0.62)"
-  temporaliniai_duomenys: "įvykio data: 1972 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys tiksliai nurodo Romo Kalantos veiksmus, vietą, datą ir rezultatą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "478802-479069; hash=82e38ed84c338ec0432d6ed7413d408ca00f4c9835f36fe5fc2b08d0a0165ea5; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "mire -> Kaunas: 0.62"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Romas Kalanta: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kaunas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys nurodo įvykio vietą Kaune ir kad Kalanta mirė ligoninėje; ligoninės vieta leidžiama tik per Kauno kandidatą."
   pagrindžia:
     - c-166957
 
@@ -136,12 +83,6 @@ media_all_json: |-
 - t-007
   global_id: t-183565
   teiginys: "Romo Kalantos susideginimas sukėlė LKP ir sovietų saugumo pareigūnams paniką."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "479258-479550; hash=c6c0c8225c5b0ed06ab5b6db2200631390e05186216225379c9902251d5bb33b; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-166958
 - susijęs iš [[objektai/posakiai/Laisvę Lietuvai!.md#claim-t-13497|Laisvę Lietuvai!]]: 1972 m. gegužės 14 d. Romas Kalanta prieš pasidegdamas sušuko „Laisvę Lietuvai!“.
@@ -162,8 +103,8 @@ media_all_json: |-
     sumenkinti šį įvykį, sovietų valdžia paskelbė, kad R. Kalantos susideginimo
     priežastis – sunki psichikos liga šizofrenija.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -180,8 +121,8 @@ media_all_json: |-
     R. Kalantos auka sulaukė didžiulio atgarsio, kėlė Lietuvos nelaisvės
     klausimą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -200,8 +141,8 @@ media_all_json: |-
     tautines šventes, viešose vietose piešdavo tautinio valstybingumo simbo-
     lius – sovietų valdžia visiškai nebekontroliavo Lietuvos visuomenės.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -216,8 +157,8 @@ media_all_json: |-
     R. Kalantos auka sulaukė didžiulio atgarsio, kėlė Lietuvos nelaisvės
     klausimą. Kiekvienais metais kauniečiai paminėdavo gegužės 14-ąją.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -233,8 +174,8 @@ media_all_json: |-
     lė benzinu ir, sušukęs „Laisvę Lietuvai!“, pasidegė. R. Kalanta ligoninėje
     mirė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -249,8 +190,8 @@ media_all_json: |-
     anksčiau paskelbto laiko. Susirinkę į laidotuves žmonės pasipiktino valdžios
     savivale. Prasidėjo masinės eitynės, kuriose skanduoti politiniai šūkiai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -368,6 +309,3 @@ media_all_json: |-
   pagrindzia:
     - t-183565
     - t-46287
-
-## Ryšiai
-- Romas Kalanta mirė [[objektai/vietos/Kaunas]]

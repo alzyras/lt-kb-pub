@@ -52,19 +52,6 @@ Nenurodyta
 - t-001
   global_id: t-01734
   teiginys: "1921 m. rugsėjo 22 d. Lietuva buvo priimta į Tautų Sąjungą ir įėjo lygiomis teisėmis į pasaulio valstybių draugiją."
-  temporaliniai_duomenys: "įvykio data: 1921 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko tikslesnę datą ir aiškesnį rezultatą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "1149310-1150342; hash=6ee06c4bbec834bcb43f8e4bf9f1a565bea0696a33ed607a7037e0f7671234a9; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos priėmimas į Tautų Sąjungą (1921 m. rugsėjo 22 d.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos priėmimas į Tautų Sąjungą (1921 m. rugsėjo 22 d.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-01972
 ## Reikšmingi paminėjimai
@@ -91,8 +78,8 @@ Nenurodyta
     Tuo būdu nuo 1921 metų rugsėjo 22 d. Lietuva įėjo lygio-
     mis teisėmis į pasaulio valstybių draugiją.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -48,22 +48,6 @@ Nenurodyta
 - t-001
   global_id: t-185525
   teiginys: "Ragainės komtūras Verneris pasiūlė kryžiuočiams laivais pulti prie Nemuno ir kitų upių stovėjusias lietuvių pilis."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1313 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys užterštas OCR triukšmu ir per ilgas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "326803-327601; hash=354453ce25df4e47d524ce37670fa67ed279a7c11838d31d4157fe18e9e80575; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kryžiuočių laivyno žygis prie Junigedos ir Surmino pergalė (1313 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=37"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kryžiuočių laivyno žygis prie Junigedos ir Surmino pergalė (1313 m.)\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-168886
 
@@ -71,19 +55,6 @@ Nenurodyta
 - t-002
   global_id: t-185526
   teiginys: "Kryžiuočiai su judama tvirtove ir parengtu laivynu patraukė prie Junigedos, kur audra beveik nustūmė didįjį laivą gynėjams."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "327253-328082; hash=3f3160a15a18e0b89428084b5b6eeebc7a235ab8cdbb8bf9298457b440a54db5; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Laivai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kryžiuočių laivyno žygis prie Junigedos ir Surmino pergalė (1313 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Laivai: mention_match, thing, gap=12"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kryžiuočių laivyno žygis prie Junigedos ir Surmino pergalė (1313 m.)\" parinktas kaip owner_note_path. Targetas \"Laivai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-168887
 
@@ -91,20 +62,6 @@ Nenurodyta
 - t-003
   global_id: t-185527
   teiginys: "Surminas po pergalės grįžo pas valdovą, tačiau mūšyje neteko brolio Goštauto ir kitų karių."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Surminas dalyvavo mūšyje Kryžiuočių laivyno žygis prie Junigedos ir Surmino pergalė (1313 m.) (0.78)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "328265-328752; hash=f33b96fe0cebb79cfc3459981b56794164dbd52282cdd7fb84b81a222083eace; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "dalyvavo_musyje -> Kryžiuočių laivyno žygis prie Junigedos ir Surmino pergalė (1313 m.): 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Surminas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kryžiuočių laivyno žygis prie Junigedos ir Surmino pergalė (1313 m.): llm_allowed_candidate, event"
-  ryšio_paaiskinimas: "Teiginys rodo, kad Surminas buvo pergalingos kovos dalyvis, nes joje neteko brolio."
   pagrindžia:
     - c-168888
 ## Reikšmingi paminėjimai
@@ -136,8 +93,8 @@ Nenurodyta
     geriau iš aukšto mėtyti ietis bei šaudyti strėlėmis į
     priešą, stovintį krante.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -170,8 +127,8 @@ Nenurodyta
     S u rm in as n u v e ja  k iy -
     no.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -196,8 +153,8 @@ Nenurodyta
     teko savo brolio Goštauto drauge su kitais narsiais
     kariais.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -208,7 +165,8 @@ Nenurodyta
 - id: c-168886
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 189"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 189."
   citata_originali: |
     Bisenės užpuolimas buvo nar­
     siai pilėnų atremtas; smarkiai sumuštas ir didelės ka­
@@ -242,7 +200,8 @@ Nenurodyta
 - id: c-168887
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 189"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 189."
   citata_originali: |
     To­
     dėl buvo pastatyta laivų, tarp jų vienas dydžiu ir for­
@@ -298,6 +257,3 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185527
-
-## Ryšiai
-- Turėjo dalyvį: [[objektai/asmenys/Surminas]]

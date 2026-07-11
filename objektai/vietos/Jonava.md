@@ -32,16 +32,6 @@ Tuo tarpu rusai atsiėmė Ukmergę, Jonavą ir Šiaulius.
 - t-001
   global_id: t-02477
   teiginys: "Rusai atsiėmė Jonavą kartu su Ukmerge ir Šiauliais."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "934749-934889; hash=3799fe27e8e9613cd992c80801d403b5aa7b29446f750bf8db836afe1e3d3c46; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Šiauliai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jonava: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Šiauliai: mention_match, place, gap=27"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jonava\" parinktas kaip owner_note_path. Targetas \"Šiauliai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-02715
 - susijęs iš Jonavos azotinių trąšų gamykla: Septintąjį–aštuntąjį dešimtmetį Jonavos azotinių trąšų gamykla buvo pastatyta vykstant sparčiai Lietuvos industrializacijai.
@@ -68,8 +58,8 @@ Tuo tarpu rusai atsiėmė Ukmergę, Jonavą ir Šiaulius.
     Ukmergę, Jonavą ir Šiau-
     lius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

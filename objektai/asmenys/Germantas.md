@@ -44,17 +44,6 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
 - t-002
   global_id: t-87425
   teiginys: "Pasak kronikų, Lietuvos kunigaikštis Germantas XIII a. Vilniaus vietoje turėjo pirmasis įkurdinti vaidilą."
-  semantiniai_rysiai: "Germantas buvo valdovas Lietuva (0.82)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "131118-131763; hash=e444ff34089dc2f62c85d16e318233034bf774122e97283681c739c7f637104f; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_valdovas -> Lietuva: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Germantas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Germantas tekste įvardytas Lietuvos kunigaikščiu."
   pagrindžia:
     - c-83406
 
@@ -62,16 +51,6 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
 - t-003
   global_id: t-87426
   teiginys: "Balińskis teigė, kad Germantas Šventaragio slėnyje plėtė senovinę Vilniaus gyvenvietę palei Vilnios krantus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "133008-133756; hash=bbf415e08c47a1fdd58a05cc7304cf7162eee3855db23ea69e95c1c59455247a; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Germantas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=45"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Germantas\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-83404
 
@@ -79,20 +58,6 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
 - t-001
   global_id: t-87427
   teiginys: "Pasak kronikų, Germantas pirmasis Šventaragio slėnyje iškirto miškus ir skyrė vietą kapavietėms."
-  semantiniai_rysiai: "Germantas buvo sūnus Šventaragis (0.95)"
-  temporaliniai_duomenys: "įvykio data: 1268 m.; įvykio data: apie 1268 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
-  temporalinis_llm_pakomentavimas: "Pašalintas OCR triukšmas ir suformuluotas pilnas sakinys apie Germanto veiksmą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "61799-62501; hash=a3b30e9ad7bf8408473e29e8e979a87f4b2b6ca7d2025353a1687b3ac93c9aa7; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sunus -> Šventaragis: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Germantas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Šventaragis: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citatoje Šventaragis tiesiogiai įvardytas Germanto tėvu."
   pagrindžia:
     - c-83405
 
@@ -100,20 +65,6 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
 - t-004
   global_id: t-184703
   teiginys: "Šventaragis, siekdamas ramybės tėvynėje, tarybos posėdyje paskyrė beveik šešiasdešimtmetį sūnų Germantą savo įpėdiniu."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Šventaragis paskyrė Germantas (0.96); Germantas buvo sūnus Šventaragis (0.94)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "213711-214135; hash=27ac4a6aec732fa54f16f7764b97dee1123da1fbf179a21de6314aacd177afc0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "paskyre -> Germantas: 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Šventaragis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Germantas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Šventaragis tiesiogiai paskyrė Germantą savo įpėdiniu."
   pagrindžia:
     - c-168064
 
@@ -121,12 +72,6 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
 - t-005
   global_id: t-184704
   teiginys: "Germantas apvalė valdovų laidojimo aikštę, paskelbė ją laidotuvių vieta ir įsteigė žynių tarnybas amžinajai ugniai prižiūrėti."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "214726-215623; hash=e4b9b46911c2a29ee8843e6423418257e2d76a8981cef958117d908aeccd2ffc; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-168065
 
@@ -134,19 +79,6 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
 - t-006
   global_id: t-184705
   teiginys: "Germantas sudarė sąjungą su lenkais, nes siekė visomis jėgomis pulti rusus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "217001-217597; hash=603101d811d6d2bd6b355714fe9e8c3f2b3269ff5d38d891aad953d91b9acc7c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Rusai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Germantas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Rusai: mention_match, group, gap=69"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Germantas\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-168066
 
@@ -154,20 +86,6 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
 - t-007
   global_id: t-184706
   teiginys: "Po Germanto mirties Kernavės didikų sueigoje jo vyresnysis sūnus Giliginas paskelbtas Lietuvos valdovu."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Giliginas buvo sūnus Germantas (0.96); Germantas mirė Lietuva (0.90); Trobius valdė teritoriją Žemaitija (0.86)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "222409-222793; hash=b07660a449b3a70e5f1c588519046ee1b850c7b63c453a6146d43eb919e6179f; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sunus -> Germantas: 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Giliginas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Germantas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Giliginas tiesiogiai įvardytas kaip Germanto vyresnysis sūnus."
   pagrindžia:
     - c-168067
 - susijęs iš [[objektai/posakiai/karo, ir taikos metu tokios pat santarvės bei šlovės.md#claim-t-185477|karo, ir taikos metu tokios pat santarvės bei šlovės]]: Kernavėje rūmų maršalas ragino Giliginą ir Trobį siekti tokios pat santarvės bei šlovės karo ir taikos metu.
@@ -208,8 +126,8 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
     vinę Vilniaus gyvenvietę, palei Vilnios, arba Vilnelės,
     krantus nusidriekusią ir medinės pilies saugomą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -241,8 +159,8 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
     tuvoje, tai vienas svarbiausių jau nykstančio tame krašte te­
     okratinio valdymo centrų tikrai galėjo būti8.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -267,8 +185,8 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
     čio Kopenhagos bibliotekoje, pirma­
     sis apie tai užsiminė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -288,8 +206,8 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
     veik šešiasdešimtmetį sūnų Germantą. Po to neilgai ir
     tebegyveno.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -317,8 +235,8 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
     būtų buvęs sudeginamas už nerūpestingumą ar už tai,
     kad deramai nepaisė tikėjimo nurodymų.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -344,8 +262,8 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
     letą metų jo buvo nužudytas vaišėse Lietuvos didysis
     kunigaikštis.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -366,8 +284,8 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
     Lietuvos didžiajam kunigaik­
     ščiui.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -467,7 +385,8 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
 - id: c-168064
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 126"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 126."
   citata_originali: |
     Kadangi buvo stengiamasi tramdyti
     savo norus ir nerodyti sumanymų, šitai įvyko veikiau
@@ -488,7 +407,8 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
 - id: c-168065
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 127"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 127."
   citata_originali: |
     Vos užmetus žvilgsnį, ši puiki lyguma taip sužavėjo
     seneliui širdį, jog jis paprašė Germantą, jam mirus,
@@ -517,7 +437,8 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
 - id: c-168066
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 128"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 128."
   citata_originali: |
     Valstybėje tada bu-
     ir k ry žiu o č ia is, k a ra s
@@ -544,7 +465,8 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
 - id: c-168067
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 131"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 131."
   citata_originali: |
     Tokio pat likimo susilaukė jo įpėdinis Andrius fon
     Vestfalenas: tęsdamas karą, jis buvo lietuvių sumuštas
@@ -564,10 +486,7 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
     - t-184706
 
 ## Ryšiai
-- Sūnūs: [[objektai/asmenys/Giliginas]], [[objektai/asmenys/Šventaragis]]
+- Sūnūs: [[objektai/asmenys/Giliginas]]
 - Tėvai: [[objektai/asmenys/Šventaragis]]
-- Sąjungininkai: [[objektai/grupes/Lenkai]]
-- Sudarė sutartį su: [[objektai/grupes/Kryžiuočių ordinas]]
 - Paskyrė Germantą: [[objektai/asmenys/Šventaragis]]
-- Germantas buvo valdovas [[objektai/vietos/Lietuva]]
 - Germantas mirė [[objektai/vietos/Lietuva]]

@@ -30,19 +30,6 @@ Magistras Henrikas paragino maršalą Šindekopfą vėl žygiuoti į Lietuvą, k
 - t-001
   global_id: t-186090
   teiginys: "Magistras Henrikas paragino maršalą Šindekopfą vėl žygiuoti į Lietuvą, kad būtų ginama nauja pilis ir nustumtas priešas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "434907-435363; hash=a43ed4418db784d81d66ece947b951965a5c9684ac6ac83b1e1aaf8fb627dbc6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Henrikas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Šindekopfas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Henrikas: mention_match, author, gap=26"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šindekopfas\" parinktas kaip owner_note_path. Targetas \"Henrikas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-169451
 
@@ -50,20 +37,6 @@ Magistras Henrikas paragino maršalą Šindekopfą vėl žygiuoti į Lietuvą, k
 - t-002
   global_id: t-186091
   teiginys: "Šindekopfas su kariuomene patraukė prie Bajorų pilaitės ir netrukus ją užgrobė."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Šindekopfas užėmė Pilaitė (0.84)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "435364-435935; hash=7bf168d587a5ab30cbe28067f28342cdd0bd34b1ebe79d04b3541a9bfed9258a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Pilaitė: 0.84"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Šindekopfas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Pilaitė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys nurodo, kad Šindekopfas užgrobė Bajorų pilaitę; kandidatuose konkrečiam objektui atitinka Pilaitė."
   pagrindžia:
     - c-169452
 - susijęs iš [[objektai/ivykiai/Bajorų pilaitės užėmimas ir belaisvių sudeginimas.md#claim-t-185797|Bajorų pilaitės užėmimas ir belaisvių sudeginimas]]: Šindekopfas su kariuomene patraukė prie Bajorų pilaitės ir netrukus ją užėmė.
@@ -91,8 +64,8 @@ Magistras Henrikas paragino maršalą Šindekopfą vėl žygiuoti į Lietuvą, k
     nustumtas. Tačiau Šindekopfas, atvykęs kur liepiamas,
     nerado nė buvusios pilies ženklo.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -119,8 +92,8 @@ Magistras Henrikas paragino maršalą Šindekopfą vėl žygiuoti į Lietuvą, k
     grasino užpulsiąs bei gyrėsi susidorosiąs, nei iš tiesų
     puolė.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -131,7 +104,8 @@ Magistras Henrikas paragino maršalą Šindekopfą vėl žygiuoti į Lietuvą, k
 - id: c-169451
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 249"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 249."
   citata_originali: |
     Įkurdinęs čia
     K ry žiu o č ia i
@@ -156,7 +130,8 @@ Magistras Henrikas paragino maršalą Šindekopfą vėl žygiuoti į Lietuvą, k
 - id: c-169452
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 249"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 249."
   citata_originali: |
     Mat Algirdas ir Kęs­
     tutis, suprasdami, jog ši prie pat Kauno esanti pilis —
@@ -182,4 +157,4 @@ Magistras Henrikas paragino maršalą Šindekopfą vėl žygiuoti į Lietuvą, k
     - t-186091
 
 ## Ryšiai
-- Šindekopfas užėmė [[objektai/vietos/Bajorų pilaitė]], [[objektai/vietos/Pilaitė]]
+- Šindekopfas užėmė [[objektai/vietos/Bajorų pilaitė]]

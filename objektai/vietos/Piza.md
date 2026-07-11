@@ -38,16 +38,6 @@ Dusburgietis teigia, kad apie Henriko, imperatoriaus, mirtį Tais pačiais metai
 - t-001
   global_id: t-58710
   teiginys: "Imperatorius Henrikas mirė Sienos grafystėje per Baltramiejaus dieną ir buvo palaidotas Pizoje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "740108-740404; hash=ae6db43c6007ce66581cde040606d00027c7ec7676cf5905f7e0819640cc1c13; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Henrikas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Piza: owner_note_path, place"
-  ryšio_targeto_parinkimas: "Henrikas: mention_match, author, gap=14"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Piza\" parinktas kaip owner_note_path. Targetas \"Henrikas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-59342
 ## Reikšmingi paminėjimai
@@ -62,8 +52,8 @@ Dusburgietis teigia, kad apie Henriko, imperatoriaus, mirtį Tais pačiais metai
     imperatorius Henrikas, o palaidojo  jį Pizoje. 10 dienų, kada rodėsi kometa, reiškė 10
     dienų, kuriomis imperatorius negalavo prieš savo mirtį (Ptol. p. 1240; Mart. p. 449).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -74,7 +64,8 @@ Dusburgietis teigia, kad apie Henriko, imperatoriaus, mirtį Tais pačiais metai
 - id: c-59342
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 248"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 248."
   citata_originali: |
     113. Apie Henriko, imperatoriaus, mirtį
 

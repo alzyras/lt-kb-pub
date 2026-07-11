@@ -30,20 +30,6 @@ Kauno pilį ir miestą gynė stambios lietuvių bei lenkų samdytinių įgulos.
 - t-001
   global_id: t-185412
   teiginys: "Kauno pilį ir miestą gynė stambios lietuvių bei lenkų samdytinių įgulos."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Lietuviai gynė Kaunas (0.90); Lenkai gynė Kaunas (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "562239-562695; hash=3dc8b9cecc16c4e7d995c625d83b81207e173835aeed83cdf97b3b1c49a7690a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyne -> Kaunas: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lenkai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Kaunas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad lenkų samdytinių įgulos gynė Kauno pilį ir miestą."
   pagrindžia:
     - c-168773
 ## Reikšmingi paminėjimai
@@ -70,8 +56,8 @@ Kauno pilį ir miestą gynė stambios lietuvių bei lenkų samdytinių įgulos.
 
     Todėl supti Kauną Vytautui buvo sunkiau nei tikėjosi.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

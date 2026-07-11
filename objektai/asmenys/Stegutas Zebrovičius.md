@@ -38,25 +38,6 @@ media_all_json: |-
 - t-001
   global_id: t-191320
   teiginys: "1227 m. jotvingių antpuoliuose iki Voluinės Vladimiro buvo suimtas jotvingių vadas Stegutas Zebrovičius."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Jotvingiai surengė žygį į Voluinė (0.86)"
-  temporaliniai_duomenys: "įvykio data: 1227 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Jotvingiai surengė žygį į Voluinė“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sakinys sutelktas į note objektą Stegutą Zebrovičių, o kitas vadas pašalintas kaip nebūtinas. Palikta data, veiksmas ir vietos kryptis, nepridedant suėmusiųjų."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "218287-219001; hash=17409317b75494b3b324a76ae4340e088b72b36dae452dd84ccc779ac5b115be; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "surenge_zygi_i -> Voluinė: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jotvingiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Voluinė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Jotvingių antpuoliai tiesiogiai išplėsti iki Voluinės Vladimiro."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174202
 - susijęs iš [[objektai/asmenys/Sutras Monoduničius.md#claim-t-191324|Sutras Monoduničius]]: 1227 metais prie Voluinės Vladimiro buvo suimti du jotvingių vadai: Sutras Monoduničius ir Stegutas Zebrovičius.
@@ -82,8 +63,8 @@ media_all_json: |-
     silka buvo priversti žygiuoti net iki jotvingių gyvenvie­
     1 Voigt.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -94,7 +75,8 @@ media_all_json: |-
 - id: c-174202
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 122"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 122."
   citata_originali: |
     Taip vadų rankose buvo su­
     kaupta turtų, nes, Mazovijos kunigaikščiui Konradui val­

@@ -71,7 +71,7 @@ export const ADVANCED_EVIDENCE_STORAGE_KEY = "advancedEvidenceMode"
 
 export const DEFAULT_SETTINGS_STATE: SettingsState = {
   version: 1,
-  minClaimCount: 5,
+  minClaimCount: 0,
   showPersonParentheticals: true,
   advancedEvidence: false,
   textSources: { mode: "all", rules: [] },

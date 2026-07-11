@@ -42,16 +42,6 @@ Talmantas, Kaunas 1935 (vokišką santrauką gerai paruošė V.
 - t-003
   global_id: t-64646
   teiginys: "Bendrinės kalbos žurnalo „Kalba“ pirmajame sąsiuvinyje buvo įdėtas kalbininko Talmanto straipsnis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "740481-740826; hash=a2363be0f1063946d00b6c26005a5d33f71a0ec483e330fcfaa979f6410013db; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kuzmickis: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "J. Talmantas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Kuzmickis: mention_match, author"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"J. Talmantas\" parinktas kaip owner_note_path. Targetas \"Kuzmickis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-36662
 
@@ -59,16 +49,6 @@ Talmantas, Kaunas 1935 (vokišką santrauką gerai paruošė V.
 - t-002
   global_id: t-64647
   teiginys: "J. Talmantas „Venecijos pirklį“ išvertė tiesiog iš originalo."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "734292-734516; hash=577310cf442e783615f79cda67d46a0f91956890bea4f26f34c591c0cbcd566f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Venecija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "J. Talmantas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Venecija: mention_match, place, gap=14"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"J. Talmantas\" parinktas kaip owner_note_path. Targetas \"Venecija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-36661
 
@@ -76,18 +56,6 @@ Talmantas, Kaunas 1935 (vokišką santrauką gerai paruošė V.
 - t-001
   global_id: t-64648
   teiginys: "J. Talmantas redagavo 1935 m. Kaune išleistą Simono Daukanto veikalą „Būdas senovės lietuvių Kalnėnų ir Žemaičių“."
-  temporaliniai_duomenys: "įvykio data: 1935 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "390816-391388; hash=21388869bfeb5d7826046011cebf907942ba7158d520711b264c6bbe3cf2e9a0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kalnėnai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "J. Talmantas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Kalnėnai: mention_match, group, gap=93"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"J. Talmantas\" parinktas kaip owner_note_path. Targetas \"Kalnėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-65317
 - susijęs iš Venecijos pirklys: Šekspyro „Venecijos pirklį“ J. Talmantas išvertė tiesiog iš originalo; leidimas turėjo iliustracijų ir komentarų.
@@ -102,8 +70,8 @@ Talmantas, Kaunas 1935 (vokišką santrauką gerai paruošė V.
     tarais. Yra tai vienas geriausiųjų klasiko dramaturgo Šekspyro veikalas.
     Kaina Lt. 3,50.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -121,8 +89,8 @@ Talmantas, Kaunas 1935 (vokišką santrauką gerai paruošė V.
     Mykolaičio, Dr. Pr. Skardžiaus, Dr. A. Salio, ir kalbininkų Talmanto,
     Laurynaičio ir Kuzmickio straipsniai. Šio numerio kaina Lt. 3. —.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -140,8 +108,8 @@ Talmantas, Kaunas 1935 (vokišką santrauką gerai paruošė V.
     _Būdas senovės lietuvių Kalnėnų ir Žemaičių_ , red. J. Talmantas, Kaunas
     1935 (vokišką santrauką gerai paruošė V. Jungfer : _Alt-Litauen_ , 1926).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

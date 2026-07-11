@@ -58,19 +58,6 @@ Nenurodyta
 - t-001
   global_id: t-23464
   teiginys: "Religinėse manifestacijose maldininkai įsigydavo draustų religinių relikvijų ir nelegaliai išspausdintos religinės literatūros."
-  temporaliniai_duomenys: "įvykio data: 1993 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pakeistas neaiškus įvardis ir suformuotas savarankiškas faktinis sakinys."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "469501-469882; hash=6807ecce65b9790e3b931db96767216e7cd34e86e51142f1c24fb783b75d16b3; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> maldininkai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Religinės relikvijos: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "maldininkai: mention_match, thing, gap=27"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Religinės relikvijos\" parinktas kaip owner_note_path. Targetas \"maldininkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-25105
 ## Reikšmingi paminėjimai
@@ -85,8 +72,8 @@ Nenurodyta
     davo, bet ir įsigydavo draustų religinių relikvijų, nelegaliai išspausdintos
     literatūros: maldaknygių, katekizmų ar Šventojo Rašto.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

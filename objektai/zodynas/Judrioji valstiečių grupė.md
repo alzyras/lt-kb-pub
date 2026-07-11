@@ -32,9 +32,6 @@ Vėliau sutinkama gausi valstiečių grupė, vad. «judrioji » (« pochožije �
 - t-001
   global_id: t-32751
   teiginys: "Judrioji valstiečių grupė buvo gausi anksčiau laisvų ūkininkų grupė, turėjusi teisę išsikelti kito pono priklausomybėn."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "376304-376736; hash=c4d0cf6128e3f5535b7acbc440c859d0f3ee7278b59938887806100119687bcf; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-34131
 ## Reikšmingi paminėjimai
@@ -50,8 +47,8 @@ Vėliau sutinkama gausi valstiečių grupė, vad. «judrioji » (« pochožije �
     Gyvendami savo medinėse šiaudais dengtose dvišlaičiais stogais
     triobose, lietuviai, kaip ir kiti baltai, būrėsi į kuopinius kaimus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

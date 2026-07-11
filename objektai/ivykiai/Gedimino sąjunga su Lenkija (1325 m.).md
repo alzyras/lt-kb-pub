@@ -57,20 +57,6 @@ Nenurodyta
 - t-001
   global_id: t-86946
   teiginys: "1325 m. Vilniuje Gediminas sudarė sutartį su Lokietka dėl bendros kovos su Prūsijos ordinu."
-  semantiniai_rysiai: "Gediminas sudarė sutartį su Lokietka (0.93); Gediminas kariavo prieš Kryžiuočių ordinas (0.86)"
-  temporaliniai_duomenys: "įvykio data: 1325 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pagrindžia sutarties vietą, metus ir tikslą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "70697-71589; hash=3d271c0059e87caed8577ec65527e95148e1db6c290904fe5bd57743357551d4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "sudare_sutarti_su -> Lokietka: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lokietka: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Gedimino sutartį su Lokietka."
   pagrindžia:
     - c-82925
 ## Reikšmingi paminėjimai
@@ -95,8 +81,8 @@ Nenurodyta
     iš to naujai iškilusio miesto nusidriekė dviejų kaimyninių tau­
     tų vėlesnio susijungimo ir galios pirmosios gijos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

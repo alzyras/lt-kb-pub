@@ -40,12 +40,6 @@ Norvegijos ir Švedijos ka raliumi tuo laikotarpiu buvo Erikas ХП1 Pomeranieti
 - t-001
   global_id: t-194131
   teiginys: "Norvegijos ir Švedijos ka raliumi tuo laikotarpiu buvo Erikas ХП1 Pomeranietis (1382— 1459 m )."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "496457-496752; hash=61afaf3618eb92c3125db0a461043b93689bcbd46c806d0b760be5a122015091; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176744
 ## Reikšmingi paminėjimai
@@ -60,8 +54,8 @@ Norvegijos ir Švedijos ka raliumi tuo laikotarpiu buvo Erikas ХП1 Pomeranieti
     kusi užsitikrinti im peratoriaus Zigmanto paramų prieš Hanzos są­
     jungai priklausančius Vokietijos miestus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

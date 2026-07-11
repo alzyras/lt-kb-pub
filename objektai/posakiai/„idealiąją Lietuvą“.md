@@ -43,18 +43,6 @@ media_all_json: |-
 - t-001
   global_id: t-75612
   teiginys: "„Idealioji Lietuva“ įsivaizduota kaip kultūrinė erdvė, kurioje filmus ir spektaklius kurtų Jonas Mekas, Eimuntas Nekrošius ir Robertas Zemeckis."
-  temporaliniai_duomenys: "įvykio data: 1952 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "540839-541442; hash=0b93b42aa1a784dabff6f0102b240d57edaf54e8595962d4ebbf147f1e3fe876; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Eimuntas Nekrošius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "„idealiąją Lietuvą“: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Eimuntas Nekrošius: mention_match, person, gap=93"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"„idealiąją Lietuvą“\" parinktas kaip owner_note_path. Targetas \"Eimuntas Nekrošius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-23622
 
@@ -62,19 +50,6 @@ media_all_json: |-
 - t-002
   global_id: t-75613
   teiginys: "„Idealiosios Lietuvos“ vaizdinyje Davidas Suchetas Tryškiuose ieškojo savo protėvių Suchedowitzų, emigravusių per Turkiją į PAR."
-  temporaliniai_duomenys: "įvykio data: 1901 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Reikia susieti faktą su posakio objektu ir sutrumpinti formuluotę."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "541443-542487; hash=32ee2cc67c28586572f3f12eba546d8d294abb4b612a2c48b62328a92dd2b0b6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Davidas Suchetas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "„idealiąją Lietuvą“: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Davidas Suchetas: mention_match, person, gap=21"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"„idealiąją Lietuvą“\" parinktas kaip owner_note_path. Targetas \"Davidas Suchetas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-73337
 
@@ -82,22 +57,6 @@ media_all_json: |-
 - t-003
   global_id: t-183492
   teiginys: "„Idealiojoje Lietuvoje“ įsivaizduojama, kad spektaklius ir filmus kuria Jonas Mekas, Eimuntas Nekrošius ir Robertas Zemeckis."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1952 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata kalba apie įsivaizduojamą vaizdinį, todėl tai reikia aiškiai pasakyti."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "541128-541764; hash=5a10e585036c25be7f10395b22e935281ef8dc92e379e880eda0b776974cb5d5; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Eimuntas Nekrošius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "„idealiąją Lietuvą“: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Eimuntas Nekrošius: mention_match, person, gap=72"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"„idealiąją Lietuvą“\" parinktas kaip owner_note_path. Targetas \"Eimuntas Nekrošius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-166886
 ## Reikšmingi paminėjimai
@@ -116,8 +75,8 @@ media_all_json: |-
     o juose vaidina seras John Gielgud (Džonas Gilgudas) ir Charles Bronson
     (Karolis Bučinskis).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -145,8 +104,8 @@ media_all_json: |-
     torius iš Šiaulių Victor David Brenner (Viktoras Barnauskas, 1871–1924)
     ar Prancūzijoje labai išgarsėjęs dailininkas Vytautas Kasiulis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -166,8 +125,8 @@ media_all_json: |-
     ieškantį savo protėvių Suchedowitzų, emigravusių per Turkiją į PAR, pa-
     galvoji, kiek dar tokių vardų slepia Lietuva?
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

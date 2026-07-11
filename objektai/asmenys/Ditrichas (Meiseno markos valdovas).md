@@ -43,20 +43,6 @@ Dusburgietis teigia, kad apie tai, kaip Notangos žemę nusiaubė Meiseno markos
 - t-001
   global_id: t-60263
   teiginys: "1272 m. Meiseno markos valdovas Ditrichas atvyko į Prūsiją su daugybe karių ir ketino pulti Notangos žemę."
-  semantiniai_rysiai: "Ditrichas (Meiseno markos valdovas) keliavo į Prūsija (0.95); Ditrichas (Meiseno markos valdovas) surengė žygį į Notanga (0.70)"
-  temporaliniai_duomenys: "kelionės data: 1272 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Ditrichas (Meiseno markos valdovas) keliavo į Prūsija“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas, glaustas ir tiesiogiai paremtas citatos duomenimis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "424239-425007; hash=74bb905fc3b297a15bb4ad817ee224288851c83da27d92b0b2f138fbe0be0838; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Prūsija: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Ditrichas (Meiseno markos valdovas): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Ditricho atvykimą į Prūsiją."
   pagrindžia:
     - c-60895
 ## Reikšmingi paminėjimai
@@ -76,8 +62,8 @@ Dusburgietis teigia, kad apie tai, kaip Notangos žemę nusiaubė Meiseno markos
     broliai Ditrichas ir Giunteris iš Regenšteino, tikri broliai, pasitelkę brolių bei ginklanešių,
     sugriovė šią pilaitę, o visą įgulą išžudė arba paėmė į nelaisvę.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -88,7 +74,8 @@ Dusburgietis teigia, kad apie tai, kaip Notangos žemę nusiaubė Meiseno markos
 - id: c-60895
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 132"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 132."
   citata_originali: |
     133 (128). Apie tai, kaip Notangos žemę nusiaubė Meiseno markos valdovas Ditrichas
 
@@ -110,4 +97,3 @@ Dusburgietis teigia, kad apie tai, kaip Notangos žemę nusiaubė Meiseno markos
 
 ## Ryšiai
 - Ditrichas (Meiseno markos valdovas) keliavo į [[objektai/vietos/Prūsija]]
-- Ditrichas (Meiseno markos valdovas) surengė žygį į [[objektai/vietos/Notanga]]

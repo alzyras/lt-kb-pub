@@ -44,20 +44,6 @@ Krašto padalinimas į pavietus ir vaivadijas.
 - t-002
   global_id: t-69428
   teiginys: "Nevėžis ilgą laiką buvo administracinė riba tarp Trakų vaivadijos ir Žemaičių seniūnijos."
-  semantiniai_rysiai: "Nevėžis priklausė Lietuva (0.52)"
-  temporaliniai_duomenys: "įvykio data: 1420 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys per ilgas ir nutrūkęs, bet citata remia aiškų faktą apie vaivadiją."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "357246-357814; hash=9f5666883326b2bb22e34aa4471c9b6f1f4f8fefca7467d357aacd5c1c179db7; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Lietuva: 0.52"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Nevėžis: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citatoje teigiama, kad aptariama sritis buvo Lietuvos dalis, tačiau subjektas nėra visiškai tiksliai Nevėžis."
   pagrindžia:
     - c-32477
 ## Reikšmingi paminėjimai
@@ -77,8 +63,8 @@ Krašto padalinimas į pavietus ir vaivadijas.
     dėties — jau Mindaugo laikais politiškai rodė savarankiškumo,
     tačiau ir XIII amž. buvo Lietuvos dalis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

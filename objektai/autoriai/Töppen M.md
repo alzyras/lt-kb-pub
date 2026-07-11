@@ -32,9 +32,6 @@ Dusburgietis teigia, kad 139 Töppen M. Dusburgietis teigia, kad 613; Töppen M.
 - t-001
   global_id: t-60803
   teiginys: "M. Töppenas parašė veikalą „Geschichte der preussischen Historiographie“."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "86631-86775; hash=29f18b854de2591971e4c3f4f90a547bb119c6fc7786a6a4f010ccfd50bc7422; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-61434
 ## Reikšmingi paminėjimai
@@ -47,8 +44,8 @@ Dusburgietis teigia, kad 139 Töppen M. Dusburgietis teigia, kad 613; Töppen M.
     138.
       140 Donner G. A. Kardinai Wilhelm von Sabina, S. 233—413.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -59,7 +56,8 @@ Dusburgietis teigia, kad 139 Töppen M. Dusburgietis teigia, kad 613; Töppen M.
 - id: c-61434
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 28"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 28."
   citata_originali: |
     139 Töppen M. Geschichte der preussischen Historiographie, S. 266, 140; PKD, s.
     138.

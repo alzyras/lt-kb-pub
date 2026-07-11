@@ -41,20 +41,6 @@ Pirmą kartą jį Dusburgas mini prie 1304 metų (356 lape), pasakodamas, kaip b
 - t-001
   global_id: t-87656
   teiginys: "1304 m. Eberhardas de Virnemburgas nusiaubė Lietuvos valsčių, vadintą Pagraudene."
-  semantiniai_rysiai: "Eberhardas de Virnemburgas puolė Lietuva (0.78)"
-  temporaliniai_duomenys: "įvykio data: 1304 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata aiškiai pagrindžia trumpą faktą, o pradinis teiginys buvo su OCR ir lotynišku intarpu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "125433-126144; hash=9d1b540915adb6893e83166bf2bf2ee34ca47103c86bf94561bddaac29bf17ac; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Lietuva: 0.78"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Eberhardas de Virnemburgas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Eberhardas de Virnemburgas nusiaubė Lietuvos teritoriją."
   pagrindžia:
     - c-83635
 ## Reikšmingi paminėjimai
@@ -76,8 +62,8 @@ Pirmą kartą jį Dusburgas mini prie 1304 metų (356 lape), pasakodamas, kaip b
     no, tai yra Gardino, valsčiaus ir pilies, į kurią tuojau po ano
     atėjo Brandenburgo komtūras Konradas Lichtenhagenas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -108,6 +94,3 @@ Pirmą kartą jį Dusburgas mini prie 1304 metų (356 lape), pasakodamas, kaip b
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87656
-
-## Ryšiai
-- Eberhardas de Virnemburgas puolė [[objektai/vietos/Lietuva]]

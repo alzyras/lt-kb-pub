@@ -30,20 +30,6 @@ Jonas Trizna su kitais karvedžiais patrankų ugnimi ir išpuoliais privertė pr
 - t-001
   global_id: t-186115
   teiginys: "Jonas Trizna su kitais karvedžiais patrankų ugnimi ir išpuoliais privertė priešą atsisakyti pilies puolimo."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Mechmet Girėjus puolė Lietuva (0.88)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1034132-1034641; hash=bca0b3b6065937f7bf156576983e524ae5041cc8af92a74509fa67ecf57a1eba; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Lietuva: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Mechmet Girėjus: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Lietuvos nusiaubimas tiesiogiai rodo Mechmeto Girėjaus puolimą."
   pagrindžia:
     - c-169476
 ## Reikšmingi paminėjimai
@@ -63,8 +49,8 @@ Jonas Trizna su kitais karvedžiais patrankų ugnimi ir išpuoliais privertė pr
     smarkiau ir plačiau nusiaubė Lietuvą Mengli Girėjaus
     sūnus Mechmet Girėjus.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -75,7 +61,8 @@ Jonas Trizna su kitais karvedžiais patrankų ugnimi ir išpuoliais privertė pr
 - id: c-169476
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 583"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 583."
   citata_originali: |
     Netoliese, toje vietoje, kur Nemunas netrukdo rengti
     išpuolių, įvyko smarkios kautynės, visa apylinkė liko

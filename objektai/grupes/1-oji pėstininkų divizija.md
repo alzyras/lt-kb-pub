@@ -32,17 +32,6 @@ Nastopką su beveik visu I divizijos štabu. Želigovskis lapkričio 17 d. aušt
 - t-002
   global_id: t-40818
   teiginys: "Želigovskis lapkričio 17 d. auštant pradėjo savo didžiąją ofenzyvą, puldamas lietuvių 1-osios pėstininkų divizijos užimamą barą nuo Nėries iki Dubingių."
-  semantiniai_rysiai: "Lenkai puolė 1-oji pėstininkų divizija (0.86)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "859203-859524; hash=015ab23c8a92713b992728e7bc21a50f4e22f5452cbe51b4460967528b775d6c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> 1-oji pėstininkų divizija: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lenkai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "1-oji pėstininkų divizija: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo puolimą į 1-osios pėstininkų divizijos užimamą barą."
   pagrindžia:
     - c-44706
 
@@ -50,19 +39,6 @@ Nastopką su beveik visu I divizijos štabu. Želigovskis lapkričio 17 d. aušt
 - t-001
   global_id: t-40819
   teiginys: "Spalio 21 d. lenkų kavalerijos prasiveržimas Širvintų apylinkėse palietė I diviziją: į nelaisvę pateko S. Nastopka su beveik visu jos štabu."
-  semantiniai_rysiai: "Lenkai puolė Lietuviai (0.82)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "845188-845405; hash=37e293f019c3f1c0f3da0de605ed7a49ed66b977952005a92ae533c8063be276; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Lietuviai: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lenkai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata tiesiogiai rodo lenkų kavalerijos veiksmą prieš lietuvių pozicijas."
-  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-44707
 - susijęs iš [[objektai/asmenys/S. Nastopka.md#claim-t-40411|S. Nastopka]]: S. Nastopkos vadovaujama 1-oji pėstininkų divizija įžengė į bolševikų paliktą Vilnių.
@@ -82,8 +58,8 @@ Nastopką su beveik visu I divizijos štabu. Želigovskis lapkričio 17 d. aušt
     pajėgos priartėjo prie Videniškio,
     Gelogalių ir judėjo Balnininkų link.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -98,8 +74,8 @@ Nastopką su beveik visu I divizijos štabu. Želigovskis lapkričio 17 d. aušt
     su beveik visu I divizijos štabu. Šis prasiveržimas priver-
     čia atsitraukti visą lietuvių frontą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -146,6 +122,3 @@ Nastopką su beveik visu I divizijos štabu. Želigovskis lapkričio 17 d. aušt
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40819
-
-## Ryšiai
-- Puolė 1-oji pėstininkų diviziją: [[objektai/grupes/Lenkai]]

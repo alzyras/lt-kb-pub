@@ -30,12 +30,6 @@ Ir, sudaręs tokią sutartį, karalius Olbrachtas išėjo iš jo žemės, bet, n
 - t-001
   global_id: t-194156
   teiginys: "Ir, sudaręs tokią sutartį, karalius Olbrachtas išėjo iš jo žemės, bet, nenorėdamas grįžti tuo pačiu keliu, kuriuo buvo atžygiavęs, o norėdamas greičiau ir tie siau išeiti iš [moldavų] žemės, traukė stačiai per Buko viną ir kalnus, per uolėtus, sunkiai."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "262515-263447; hash=7fd7e65dd27572fb30c839093de5265d09e583f5e09225572f2797e26450daf6; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176769
 ## Reikšmingi paminėjimai
@@ -66,8 +60,8 @@ Ir, sudaręs tokią sutartį, karalius Olbrachtas išėjo iš jo žemės, bet, n
 
     savo žmonėmis — raiteliais ir pėstininkais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -40,18 +40,6 @@ media_all_json: |-
 - t-003
   global_id: t-87996
   teiginys: "Daugiausia jų įsikūrė už 61 Naruszewicz Taurikoje, 1 ."
-  temporaliniai_duomenys: "įvykio data: 1816 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "315647-315933; hash=6e4f424fcfa36be4f00912fe43eebd02c1d12395fe72469418ac34a24afcfcc9; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Naruszewicz Naruševičius: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Naruszewicz Naruševičius\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-83974
 
@@ -59,14 +47,6 @@ media_all_json: |-
 - t-004
   global_id: t-194204
   teiginys: "Šitai pa kartojo Naruszewicz Histor."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "37482-37599; hash=d719444710558f41ea1b3f38fb33512a9f026bcb931970b74beedececf6c6afe; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T14:36:45Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-176807
 
@@ -74,12 +54,6 @@ media_all_json: |-
 - t-005
   global_id: t-194205
   teiginys: "Il, 1418- gos 1418 metų rugpjūčio 11 dieną; 1419 m. ir Naruszewicz Taurykū, iš pastarojo aišku, kad kunigaikštiep. 78."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "334768-335058; hash=3802d8b3be60e6c771693dd7b426b725ef1136274967e8a9aa5e866f284e1f05; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176808
 ## Reikšmingi paminėjimai
@@ -97,8 +71,8 @@ media_all_json: |-
     siradę dar Gedimino ir Algirdo lai­
     kais, tačiau nėra patikimų to įrodymų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -113,8 +87,8 @@ media_all_json: |-
     narod. Pols., Il, 97. ir S u r o w i e c k i
     O upadku Miast w Pols., 1. 168.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -130,8 +104,8 @@ media_all_json: |-
     gos 1418 metų rugpjūčio 11 dieną; 1419 m. ir Naruszewicz  Taurykū,
     iš pastarojo aišku, kad kunigaikštie- p. 78.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

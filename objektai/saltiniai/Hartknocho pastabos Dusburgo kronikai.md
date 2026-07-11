@@ -42,19 +42,6 @@ Hartknochas Dusburgoe kronikos pastabose Gedimino pilį, vadintą Castrum Gedemi
 - t-001
   global_id: t-88304
   teiginys: "Hartknochas Dusburgo kronikos pastabose Castrum Gedemini tapatino su Vilniumi ir manė, kad miestas įkurtas 1322 m."
-  temporaliniai_duomenys: "įvykio data: 1322 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata remia Hartknocho nuomonę, bet pradinis tekstas turi OCR ir citatos fragmentų."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "124946-125610; hash=23085bec652f051d1593ae1728db83273d0b852077ee96e69be14b1340d24fe2; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Dusburgas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Hartknocho pastabos Dusburgo kronikai: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Dusburgas: mention_match, author, gap=12"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Hartknocho pastabos Dusburgo kronikai\" parinktas kaip owner_note_path. Targetas \"Dusburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-84284
 
@@ -62,16 +49,6 @@ Hartknochas Dusburgoe kronikos pastabose Gedimino pilį, vadintą Castrum Gedemi
 - t-002
   global_id: t-88305
   teiginys: "Balińskis Hartknocho prielaidą, kad Vilnius buvo vadinamoji Castrum Gedemini, laikė visiškai atmestina."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "127645-128211; hash=df453cfad67f35c72742f1cb933f92738ceecad24da33a2ed3e0e19fd1dcb803; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Hartknochas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Hartknocho pastabos Dusburgo kronikai: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Hartknochas: mention_match, author, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Hartknocho pastabos Dusburgo kronikai\" parinktas kaip owner_note_path. Targetas \"Hartknochas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-84283
 ## Reikšmingi paminėjimai
@@ -93,8 +70,8 @@ Hartknochas Dusburgoe kronikos pastabose Gedimino pilį, vadintą Castrum Gedemi
     g
     Post haec XI Kalendas Junii Fr.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -117,8 +94,8 @@ Hartknochas Dusburgoe kronikos pastabose Gedimino pilį, vadintą Castrum Gedemi
     tas pasitikėjimo, apie tą pilį byloja, ta Hartknocho nuomonė
     negali atlaikyti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

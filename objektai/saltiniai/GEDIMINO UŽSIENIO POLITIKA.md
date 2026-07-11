@@ -32,16 +32,6 @@ P-34, „GEDIMINO UŽSIENIO POLITIKA“, Romas Batūra.
 - t-001
   global_id: t-80763
   teiginys: "P-34, „GEDIMINO UŽSIENIO POLITIKA“, Romas Batūra."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1126917-1127086; hash=7b8423679b4c52762f12c9be61de58875522d1205893a71249d54937d800dcff; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Romas Batūra: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "GEDIMINO UŽSIENIO POLITIKA: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Romas Batūra: mention_match, author, gap=29"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"GEDIMINO UŽSIENIO POLITIKA\" parinktas kaip owner_note_path. Targetas \"Romas Batūra\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-77410
 ## Reikšmingi paminėjimai
@@ -55,8 +45,8 @@ P-34, „GEDIMINO UŽSIENIO POLITIKA“, Romas Batūra.
 
     P. 43, „KRYŽIUOČIAI PRIEŠ LIETUVĄ XIV A.‘ Karolis Zikaras.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

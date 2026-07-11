@@ -54,16 +54,6 @@ Nenurodyta
 - t-001
   global_id: t-92931
   teiginys: "Kęstučio kūnas Vilniuje senu papročiu buvo iškilmingai sudegintas su jo arkliais, sakalais, šunimis ir ginklais."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "71906-72394; hash=8c3a7beca4cc2b6de67cd7ef6e8342733b9c415dc6ab9e9b08432451679b1dac; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Ginklai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kęstučio žūtis Krėvos kalėjime (1382 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Ginklai: mention_match, thing, gap=103"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kęstučio žūtis Krėvos kalėjime (1382 m.)\" parinktas kaip owner_note_path. Targetas \"Ginklai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-88371
 ## Reikšmingi paminėjimai
@@ -81,8 +71,8 @@ Nenurodyta
     degintas kartu su jo mylimais arkliais, sakalais, šunimis ir gink­
     lais^5 ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

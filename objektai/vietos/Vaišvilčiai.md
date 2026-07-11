@@ -35,17 +35,6 @@ media_all_json: |-
 - t-001
   global_id: t-32629
   teiginys: "Salyno akte ordinui tenkančių žemių siena nuo Vaišvilčių kaimo Nevėžio aukštupyje pratęsta Mūšos upe, Smardonės upeliu ir Apaščios ežeru."
-  semantiniai_rysiai: "Kryžiuočių ordinas užkariavo Sūduva (0.78)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "892258-892732; hash=11da21660daab3f63a95e375f3013dd1bf77a4ba462017802523e7969d69649a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzkariavo -> Sūduva: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Sūduva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citatoje Sūduva vadinama ordino anksčiau nukariautu kraštu."
   pagrindžia:
     - c-34069
 - susijęs iš Mūša: Salyno akte ordinui tenkančių žemių riba nuo Vaišvilčių kaimo buvo pratęsta Mūšos upe, Smardonės upeliu ir Apaščios ežeru.
@@ -72,8 +61,8 @@ media_all_json: |-
     lavo ir žymią dalį Sūduvos dykros, į kurią, kaip į jo paties XIII
     amž. gale nukariautą kraštą, vis reiškė pretenzijas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

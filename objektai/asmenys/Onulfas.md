@@ -30,22 +30,6 @@ Onulfas, Odoakro brolis, vadovavo herulams ir antrą kartą privertė Frederiką
 - t-001
   global_id: t-191303
   teiginys: "Onulfas, Odoakro brolis, vadovavo herulams ir antrą kartą privertė Frederiką pasitraukti iš krašto į Meziją."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Onulfas buvo brolis Odoakras (0.90); Herulai keliavo į Italija (0.78)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "571861-572351; hash=59d3a0cfe60c19001939ec89d5a71abe93b330e476582a0c36e9dc7f84cf12bf; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_brolis -> Odoakras: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Onulfas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Odoakras: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata tiesiogiai įvardija Onulfą Odoakro broliu."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174185
 - susijęs iš Norikas: Narbuto pasakojime Onulfas po pergalės perkėlė herulus ir senuosius Noriko gyventojus į Italiją.
@@ -66,8 +50,8 @@ Onulfas, Odoakro brolis, vadovavo herulams ir antrą kartą privertė Frederiką
     visokios piktų ir nedraugiškų rugių įtakos, visų pasiten­
     kinimui, perkėlė juos į Italiją.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -78,7 +62,8 @@ Onulfas, Odoakro brolis, vadovavo herulams ir antrą kartą privertė Frederiką
 - id: c-174185
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 319"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 319."
   citata_originali: |
     Bet,
     kai tik Odoakras grįžo į Italiją, Frederikas vėl pasirodė
@@ -99,4 +84,3 @@ Onulfas, Odoakro brolis, vadovavo herulams ir antrą kartą privertė Frederiką
 
 ## Ryšiai
 - Broliai: [[objektai/asmenys/Odoakras]]
-- Onulfas siuntė į [[objektai/vietos/Italija]]

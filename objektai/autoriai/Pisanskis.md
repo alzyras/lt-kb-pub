@@ -30,21 +30,6 @@ Teodoras Narbutas Pisanskio „Pastabas apie Baltijos jūrą“ nurodo lygindama
 - t-001
   global_id: t-191589
   teiginys: "Teodoras Narbutas Pisanskio „Pastabas apie Baltijos jūrą“ nurodo lygindamas senovės autorių teiginius apie vandens lygio kritimą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "603809-604371; hash=7e5538bca9b77bf2b4e053d5e3d9e3f55b02f0438e297416f66d86b4d9fb322a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Baltija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Pisanskis: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Baltija: mention_match, place, gap=25"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pisanskis\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174471
 - susijęs iš Pisanskio Pastabos apie Baltijos jūrą: Pisanskis pastabose apie Baltijos jūrą rašė, kad jūra toliau plauna vakarines ir šiaurines Sambijos pakrantes.
@@ -74,8 +59,8 @@ Teodoras Narbutas Pisanskio „Pastabas apie Baltijos jūrą“ nurodo lygindama
     šiandien, be to, matoma daug pavyzdžių ir gretimose že­
     mėse, kurios tarsi įrodo jos mažėjimą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -86,7 +71,8 @@ Teodoras Narbutas Pisanskio „Pastabas apie Baltijos jūrą“ nurodo lygindama
 - id: c-174471
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 336"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 336."
   citata_originali: |
     Tačiau Kelsijus ir Dalinas per­
     nelyg įsismagina skaičiuodami, kai įrodinėja, jog nuo

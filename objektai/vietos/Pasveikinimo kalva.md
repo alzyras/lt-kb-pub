@@ -32,20 +32,6 @@ Algirdas prie Maskvos pasirodė ant Pasveikinimo kalvos.
 - t-001
   global_id: t-187284
   teiginys: "Pasak Lietuvos metraščio, Velykų rytą Algirdas su savo pajėgomis pasirodė ant Pasveikinimo kalvos prie Maskvos."
-  teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Algirdas (Lietuvos valdovas) keliavo į Maskva (0.87); Algirdas (Lietuvos valdovas) keliavo į Pasveikinimo kalva (0.76)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "129392-130388; hash=3689288156eab27cefee46a4ff2d09f42021add8ff1aefa4b8ce7f967df0b1b5; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  ryšio_patikimumas: "keliavo_i -> Maskva: 0.87"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Maskva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Algirdo judėjimą į Maskvą."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-170329
 ## Reikšmingi paminėjimai
@@ -74,8 +60,8 @@ Algirdas prie Maskvos pasirodė ant Pasveikinimo kalvos.
     girdas su visomis savo pajėgomis, išskleidęs savo vė­
     liavas, pasirodė ant Pasveikinimo kalvos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -114,6 +100,3 @@ Algirdas prie Maskvos pasirodė ant Pasveikinimo kalvos.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187284
-
-## Ryšiai
-- Buvo kelionės vieta: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]

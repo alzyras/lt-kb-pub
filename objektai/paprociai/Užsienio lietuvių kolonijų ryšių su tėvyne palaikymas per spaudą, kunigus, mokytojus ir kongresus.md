@@ -58,20 +58,6 @@ Nenurodyta
 - t-001
   global_id: t-77962
   teiginys: "Draugija užsienio lietuviams remti buvo sukurta padėti emigrantams ir palaikyti jų ryšius su tėvyne."
-  semantiniai_rysiai: "Draugija užsienio lietuviams remti rėmė Lietuviai (0.78); Lietuviai keliavo į Venesuela (0.70)"
-  temporaliniai_duomenys: "įvykio data: 1939 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir paremtas citata."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "353497-354179; hash=49d9f47cefa5bbc4a0cbf9b373f4907bddb772639eea02cb158f2b3c3f92d6bf; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "reme -> Lietuviai: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Draugija užsienio lietuviams remti: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Draugijos pavadinimas ir teiginys rodo, kad ji buvo sukurta remti užsienio lietuvius."
   pagrindžia:
     - c-75278
 ## Reikšmingi paminėjimai
@@ -94,8 +80,8 @@ Nenurodyta
     176
     remti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -41,17 +41,6 @@ Jame pasakoja, kad „pasiunčiau nuo savęs maloningąjį poną Konradą, Vrocl
 - t-001
   global_id: t-86197
   teiginys: "Švitrigaila prašė, kad didysis magistras palydėtų Vroclavo vyskupą Konradą į Kistriną."
-  semantiniai_rysiai: "Švitrigaila siuntė į Kistrinas (0.72)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "432231-432846; hash=4416f3d914f534dc91bf813ba0f3c4b13348d90fb6bfcd779d8413337aded579; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "siunte_i -> Kistrinas: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kistrinas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Švitrigaila prašė palydėti Konradą į Kistriną; adresatas nėra tinkamas objektas, todėl ryšys su vieta išreikštas atsargiai."
   pagrindžia:
     - c-82176
 - susijęs iš [[objektai/asmenys/Konradas (Vroclavo vyskupas).md#claim-t-87758|Konradas (Vroclavo vyskupas)]]: 1432 m. Švitrigaila pasiuntė Vroclavo vyskupą Konradą į Kistriną pasiteirauti dėl galimos grėsmės iš Štolpensko kunigaikščio.
@@ -90,8 +79,8 @@ Jame pasakoja, kad „pasiunčiau nuo savęs maloningąjį poną Konradą, Vrocl
     kadangi mums rodo daug palanku­
     mo".
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -128,6 +117,3 @@ Jame pasakoja, kad „pasiunčiau nuo savęs maloningąjį poną Konradą, Vrocl
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86197
-
-## Ryšiai
-- Buvo siuntimo vieta: [[objektai/asmenys/Švitrigaila]]

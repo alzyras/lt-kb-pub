@@ -33,16 +33,6 @@ media_all_json: |-
 - t-001
   global_id: t-39987
   teiginys: "A. Šulskis-Šulas vadovavo Žaliosios girios Panevėžio rinktinės grupei pietrytinėje girios dalyje Subačiaus valsčiuje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "907190-907725; hash=5316c6311c4f1372305394dab4b5c25496da55b84226135a88198ed08751040c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Subačius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "A. Šulskis-Šulas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Subačius: mention_match, place, gap=97"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"A. Šulskis-Šulas\" parinktas kaip owner_note_path. Targetas \"Subačius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-44255
 ## Reikšmingi paminėjimai
@@ -79,8 +69,8 @@ media_all_json: |-
     ir Miežiškių vls. junginyje veikė 400-
     500 partizanų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

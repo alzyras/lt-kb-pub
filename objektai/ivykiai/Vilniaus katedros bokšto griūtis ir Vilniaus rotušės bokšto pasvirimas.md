@@ -55,14 +55,6 @@ Nenurodyta
 - t-001
   global_id: t-193685
   teiginys: "1769 m. nugriuvo Vilniaus katedros bokštas, tuo pačiu metu pasviro ir Vilniaus rotušės bokštas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "164011-164352; hash=3c2901ac7870f266e2d843cb4c434fb32cbdd864ec94fc45c5be8894e75cbaa4; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-176354
 ## Reikšmingi paminėjimai
@@ -78,8 +70,8 @@ Nenurodyta
     rynas Gucevičius (1753–1798) 1782  m. pradėjo Vilniaus katedros, o
     1786 m. – Vilniaus rotušės rekonstrukciją.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

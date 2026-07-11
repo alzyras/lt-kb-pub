@@ -48,18 +48,6 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
 - t-006
   global_id: t-102179
   teiginys: "1673 m. Chotino mūšio iliustracijoje priešais Chotino pilį pavaizduoti M. K. Radvilos kariai."
-  temporaliniai_duomenys: "įvykio data: 1673 m.; įvykio data: 1674 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "530402-531696; hash=53a293fbab44db31bd2d21c3c5b69ccf2ba40d8c6153e0181306832f6db25e1f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Chotinas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.): mention_match, event, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Chotinas\" parinktas kaip owner_note_path. Targetas \"Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-43365
 
@@ -67,16 +55,6 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
 - t-002
   global_id: t-102181
   teiginys: "Chotino mūšis tapo paskutine Jono Karolio Chodkevičiaus pasiekta pergale."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "479854-480089; hash=f1df5eb0c06237829e5138bd157424d7ceb25bf1ef22e3d3add94dbea6209ec3; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Chotinas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.): mention_match, event, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Chotinas\" parinktas kaip owner_note_path. Targetas \"Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-43362
 
@@ -84,19 +62,6 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
 - t-004
   global_id: t-102182
   teiginys: "1673 m. turkai prie Chotino įrengė stiprius lauko įtvirtinimus."
-  temporaliniai_duomenys: "įvykio data: 1621 m.; įvykio data: 1673 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir pagrįstas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "528537-529046; hash=540f684376a75a19f6b155620f65a6ef60cd95a214943ed14fadeb2ec458f48b; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Abiejų Tautų Respublika: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Chotinas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Abiejų Tautų Respublika: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Chotinas\" parinktas kaip owner_note_path. Targetas \"Abiejų Tautų Respublika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-43364
 
@@ -104,19 +69,6 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
 - t-003
   global_id: t-102183
   teiginys: "Chotino mūšis vyko 1621 m. rugsėjo 22-spalio 10 d."
-  temporaliniai_duomenys: "mūšio data: 1514 m.; mūšio data: 1621 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata yra antraštinis fragmentas, bet ji pagrindžia pilną faktinį sakinį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "480644-481136; hash=31e0700e2ca3e075d72f5b7c2a5465720cf005a700a58c80243fa478717b89d6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Chotinas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.): mention_match, event, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Chotinas\" parinktas kaip owner_note_path. Targetas \"Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-43363
 
@@ -124,19 +76,6 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
 - t-003
   global_id: t-102183
   teiginys: "Chotino mūšis vyko 1621 m. rugsėjo 22-spalio 10 d."
-  temporaliniai_duomenys: "mūšio data: 1514 m.; mūšio data: 1621 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata yra antraštinis fragmentas, bet ji pagrindžia pilną faktinį sakinį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "480644-481136; hash=31e0700e2ca3e075d72f5b7c2a5465720cf005a700a58c80243fa478717b89d6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Chotinas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.): mention_match, event, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Chotinas\" parinktas kaip owner_note_path. Targetas \"Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-43363
 
@@ -144,21 +83,6 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
 - t-001
   global_id: t-102185
   teiginys: "Mūšyje prie Chotino didysis etmonas, vadovaudamas jungtinei Lietuvos ir Lenkijos kariuomenei prieš turkus, pasiekė paskutinę pergalę."
-  temporaliniai_duomenys: "įvykio data: 1617-1618; įvykio data: 1618 m.; įvykio data: 1621 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sakinys pataisytas į aiškesnę, šaltinio citata paremtą formą apie Chotiną."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "451573-451891; hash=7d77a9d77baf7fd607c420693f8f381bf404f46db2e7adb02eff88136e42ab89; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Chotinas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=60"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Chotinas\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-95519
 
@@ -166,19 +90,6 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
 - t-008
   global_id: t-183781
   teiginys: "Chotino mūšis tapo paskutine Jono Karolio Chodkevičiaus pasiekta pergale."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "479579-480011; hash=db5edda531dbbb7e5267000439a3885aef009302124724838194f9a927e61cd2; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Chotinas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.): mention_match, event, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Chotinas\" parinktas kaip owner_note_path. Targetas \"Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-167169
 - susijęs iš [[objektai/asmenys/Jonas Tarnovskis.md#claim-t-184742|Jonas Tarnovskis]]: Jonui Tarnovskiui sutelkus daugiau jėgų, Valachijos kunigaikštis Petras prie Chotino paprašė taikos.
@@ -221,8 +132,8 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
 
     sukurti galingiausią savo laiko karinę jėgą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -267,8 +178,8 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
     nės konfrontacijos tarp Lietuvos ir Rusijos
     objektu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -287,8 +198,8 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
     tas egzistencinis pavojus ATR. 1673 m. įtvirtinimai) turkai įrengė stiprius lauko
     Abiejų Tautų Respublikos seimas atmetė įtvirtinimus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -322,8 +233,8 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
 
     1673 m.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -341,8 +252,8 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
     pergalę,mūšyje prie Chotino. Dar mūšiui nepasibai-
     gus didysis Lietuvos karvedys mirė Chotino pilyje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -366,8 +277,8 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
     džio Jono Karolio Chodkevičiaus pasiekta
     pergale.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -542,7 +453,3 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183781
-
-## Ryšiai
-- Buvo kelionės vieta: [[objektai/grupes/Turkijos kariuomenė]]
-- Apgulė Chotiną: [[objektai/asmenys/Jonas Tarnovskis]]

@@ -47,19 +47,6 @@ Narbutas šio žodžio neaiškina tiesiogiai, o mini jį kaip atmestiną etimolo
 - t-001
   global_id: t-192259
   teiginys: "Narbutas nurodo, kad Tatiščevas krivičių pavadinimą kildino iš sarmatų žodžio „Krirsae“, reiškiančio šaltinį."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "613003-613423; hash=753d5a4cead99b2b9c3c03f4bb9d75bcdf46ea6f248efaf2630a80927bebb2e9; match=ocr_normalized"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  ryšio_patikimumas: "susije_su -> Krivičiai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Krirsae: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Krivičiai: mention_match, group, gap=47"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Krirsae\" parinktas kaip owner_note_path. Targetas \"Krivičiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175092
 
@@ -67,19 +54,6 @@ Narbutas šio žodžio neaiškina tiesiogiai, o mini jį kaip atmestiną etimolo
 - t-002
   global_id: t-192260
   teiginys: "Narbutas nepripažįsta krivičių pavadinimo kildinimo iš sarmatų žodžio „Krirsae“."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "613003-613423; hash=753d5a4cead99b2b9c3c03f4bb9d75bcdf46ea6f248efaf2630a80927bebb2e9; match=ocr_normalized"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  ryšio_patikimumas: "susije_su -> Krivičiai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Krirsae: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Krivičiai: mention_match, group, gap=49"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Krirsae\" parinktas kaip owner_note_path. Targetas \"Krivičiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175092
 ## Reikšmingi paminėjimai
@@ -96,8 +70,8 @@ Narbutas šio žodžio neaiškina tiesiogiai, o mini jį kaip atmestiną etimolo
     kildinimo nepripažįstu, tačiau krivičių pavadinimo kili­
     mas iš Krivio, regis, atrodo visai natūralus.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -109,7 +83,8 @@ Narbutas šio žodžio neaiškina tiesiogiai, o mini jį kaip atmestiną etimolo
 - id: c-175092
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 341"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 341."
   citata_originali: |
     Jei jo prielaida teisinga,
     o aš tuo tikiu, be to, buvo su Kriviu to paties tikėjimo,

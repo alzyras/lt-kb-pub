@@ -35,12 +35,6 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
 - t-001
   global_id: t-186001
   teiginys: "Erdvilas atsisakė mokėti skitams duoklę, paskelbė karą ir jų kunigaikščiui įteikė dvi strėles."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "132582-133064; hash=489783c16e53f617813c7208d4654f2668c813150ec7d873fbc68f1654d6eadc; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-169362
 
@@ -48,12 +42,6 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
 - t-002
   global_id: t-193503
   teiginys: "Erdvilas atsisakė duoklės, paskelbė karą ir įteikė jų kunigaikščiui dovaną— dvi strėles."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "132582-133064; hash=489783c16e53f617813c7208d4654f2668c813150ec7d873fbc68f1654d6eadc; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-169362
 
@@ -61,12 +49,6 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
 - t-003
   global_id: t-193909
   teiginys: "Didysis kunigaikštis Erdvilą įsi rengė čionai sostinę ir ėmė vadintis Naugarduko di džiuoju kunigaikščiu I S ."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "79741-80088; hash=0e4eb44bb3cc45c41b66ad5bd352b1f193a7ff22736e67e0c456a6aecf16a1cd; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176534
 ## Reikšmingi paminėjimai
@@ -89,8 +71,8 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
     ir įteikė jų kunigaikščiui do­
     vaną— dvi strėles.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -109,8 +91,8 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
     ną 1 8 , ir Melniką 1 9  Batu nusiaubtus ir sunaikintus2 0 . Jis
     tuos miestus atstatė ir ėmė juose kunigaikščiauti 2I.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -121,7 +103,8 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
 - id: c-169362
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 80"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 80."
   citata_originali: |
     Tiesa, kai buvę toliau
     nuo pavojaus po kurio laiko atgavo drąsą, užvirė kru­

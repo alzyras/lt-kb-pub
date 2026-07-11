@@ -77,19 +77,6 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
 - t-028
   global_id: t-80769
   teiginys: "1797 m. Peterburgo konvencija patvirtino trečiąjį Abiejų Tautų Respublikos padalijimą ir panaikino jos valstybingumo likučius."
-  temporaliniai_duomenys: "įvykio data: 1797 m.; įvykio data: 1918 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys pagrįstas, bet santrumpa LLV pakeista aiškiu objekto pavadinimu."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "179956-180465; hash=bad370f756467671f2708db36488a1b7abd95649ee3a6b2cb4c86869633fd297; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Austrija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Abiejų Tautų Respublika: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Austrija: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Abiejų Tautų Respublika\" parinktas kaip owner_note_path. Targetas \"Austrija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-26828
 
@@ -97,19 +84,6 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
 - t-034
   global_id: t-80770
   teiginys: "1566–1795 m. Abiejų Tautų Respublikos bajoriškoji demokratija buvo luominė monarchija, paremta bajorų luomu."
-  temporaliniai_duomenys: "įvykio data: iki 1763 m.; įvykio data: 1566-1795; įvykio data: po 1573 m.; įvykio data: 1573 m.; įvykio data: 1689 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data."
-  temporalinis_llm_pakomentavimas: "Pašalintas OCR triukšmas ir suformuluotas pilnas sakinys su faktiniu predikatu."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "133548-134528; hash=0f8ec4124531416b334c53c8fb7e162f4a415a6dc017f4892a1651cc975b5dcb; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Bajorai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Abiejų Tautų Respublika: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Bajorai: mention_match, group, gap=25"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Abiejų Tautų Respublika\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-77420
 
@@ -117,19 +91,6 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
 - t-021
   global_id: t-80771
   teiginys: "1569 m. Liublino unija sukūrė jungtinę valstybę – Abiejų Tautų Respubliką."
-  temporaliniai_duomenys: "įvykio data: 1569 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie Abiejų Tautų Respubliką ir tiksliai remiasi citata."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "23890-24333; hash=6e875907dc7094424cf4795b174fe7f3018c36b077eacf3c7fcfcd1dc5ab0f6e; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Europa: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Abiejų Tautų Respublika: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Europa: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Abiejų Tautų Respublika\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-26821
     - c-26824
@@ -138,19 +99,6 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
 - t-027
   global_id: t-80772
   teiginys: "1793 m. Rusija ir Prūsija įvykdė antrąjį Abiejų Tautų Respublikos padalijimą, kurį Gardino seimas buvo priverstas patvirtinti."
-  temporaliniai_duomenys: "įvykio data: 1793 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys pagrįstas, bet santrumpa LLV pakeista aiškiu note objekto pavadinimu."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "176779-177557; hash=cfcb6ae84421385d7e4e0f7d4f21bc01dad278325ec3f6247a422a68642e15b3; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gardinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Abiejų Tautų Respublika: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Gardinas: mention_match, place, gap=42"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Abiejų Tautų Respublika\" parinktas kaip owner_note_path. Targetas \"Gardinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-26827
 
@@ -158,19 +106,6 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
 - t-023
   global_id: t-80773
   teiginys: "Abiejų Tautų Respublika buvo sunaikinta trimis XVIII a. pabaigos padalijimais, kuriuose dalyvavo Rusija, Austrija ir Prūsija."
-  temporaliniai_duomenys: "įvykio data: 1791 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys, paremtas citata apie Respublikos padalijimus."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "24334-25557; hash=425d160f7f718fff7c650aac2ca356e0ed5a42f356467d0bcc7eadbed94bb262; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Austrija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Abiejų Tautų Respublika: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Austrija: mention_match, place, gap=105"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Abiejų Tautų Respublika\" parinktas kaip owner_note_path. Targetas \"Austrija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-26823
     - c-26827
@@ -180,16 +115,6 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
 - t-032
   global_id: t-80774
   teiginys: "Lenkijoje gyvuoja tradicija Lietuvą net iki Liublino unijos laikyti Lenkijos dalimi, o Liublino unijos sukurtą valstybę vadinti ne Abiejų Tautų, o Lenkijos Respublika."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "122377-122852; hash=df8a80a0029a034e8858379274ae119120c270cb3a27e38c1d20c2213bc22c5a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Abiejų Tautų Respublika: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=131"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Abiejų Tautų Respublika\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-77418
 
@@ -197,16 +122,6 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
 - t-022
   global_id: t-80775
   teiginys: "Abiejų Tautų Respublika XVII-XVIII a. siejama su duonos, tolerancijos, demokratijos, konstitucijos ir baroko fenomenais."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "24064-24552; hash=ad3db8b7166c181c05794247111c6c973ecd456a8f76730993433a33e7c88167; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> barokas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Abiejų Tautų Respublika: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "barokas: mention_match, thing, gap=102"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Abiejų Tautų Respublika\" parinktas kaip owner_note_path. Targetas \"barokas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-26822
 
@@ -214,16 +129,6 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
 - t-033
   global_id: t-80776
   teiginys: "Oficialus Liublino unijos sukurtos jungtinės valstybės pavadinimas buvo Abiejų Tautų Respublika."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "130146-130881; hash=48dec761b1c9f1f61adb3f84fdac5c65370f04f589898d1f05806a657fe533aa; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Baroko epocha: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Abiejų Tautų Respublika: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Baroko epocha: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Abiejų Tautų Respublika\" parinktas kaip owner_note_path. Targetas \"Baroko epocha\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-77421
 
@@ -231,18 +136,6 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
 - t-026
   global_id: t-80777
   teiginys: "1791 m. Abiejų Tautų tarpusavio įžadas grąžino valstybės dualizmo, arba federacijos, principą."
-  temporaliniai_duomenys: "įvykio data: 1791 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "168224-168960; hash=c2d49596407491cbcadc5f4d2ade48fdd0bafcaaae4ea85c001dd06060764be7; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Abiejų Tautų Respublika: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Abiejų Tautų Respublika\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-26826
 
@@ -250,19 +143,6 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
 - t-031
   global_id: t-80778
   teiginys: "1569 m. Liublino unija sukūrė jungtinę valstybę – Abiejų Tautų Respubliką."
-  temporaliniai_duomenys: "įvykio data: 1386 m.; įvykio data: 1569 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys pilnas, aiškus ir tiesiogiai pagrįstas citata."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "121974-122376; hash=4959a1454be44b0c42a3753f19507609860a9c55628b28c0d395e34eddba73e6; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Europa: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Abiejų Tautų Respublika: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Europa: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Abiejų Tautų Respublika\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-26824
 
@@ -270,18 +150,6 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
 - t-024
   global_id: t-80779
   teiginys: "1569 m. Liublino unija sukūrė Abiejų Tautų Respubliką, vadinamą originaliu valstybių junginiu ir kartais laikomą Europos Sąjungos pirmtaku."
-  temporaliniai_duomenys: "įvykio data: 1386 m.; įvykio data: 1569 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "121974-122376; hash=4959a1454be44b0c42a3753f19507609860a9c55628b28c0d395e34eddba73e6; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Europa: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Abiejų Tautų Respublika: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=83"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Abiejų Tautų Respublika\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-26824
 
@@ -289,16 +157,6 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
 - t-025
   global_id: t-80780
   teiginys: "Lenkijoje gyvuoja tradicija Liublino unijos sukurtą valstybę vadinti ne Abiejų Tautų, o Lenkijos Respublika."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "122271-122713; hash=97452dd1377bd1677557af46dcfe28bcd0827f008c8c0a1fa8ea07b2bed2ea95; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Europa: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Abiejų Tautų Respublika: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Europa: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Abiejų Tautų Respublika\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-26825
 
@@ -306,19 +164,6 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
 - t-035
   global_id: t-80781
   teiginys: "1791 m. spalio 20 d. Lietuvos delegacija Ketverių metų seime išsireikalavo konstitucijos pataisą, pavadintą Abiejų Tautų tarpusavio įžadu."
-  temporaliniai_duomenys: "įvykio data: 1791 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra konkretus, gramatiškas ir atitinka citatos informaciją."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "168224-168960; hash=c2d49596407491cbcadc5f4d2ade48fdd0bafcaaae4ea85c001dd06060764be7; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Abiejų Tautų Respublika: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Abiejų Tautų Respublika\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-26826
 
@@ -326,19 +171,6 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
 - t-030
   global_id: t-80782
   teiginys: "Abiejų Tautų Respublika per Gdanską aprūpino Vakarus javais ir sukūrė religinės tolerancijos bei bajoriškosios demokratijos tradiciją."
-  temporaliniai_duomenys: "įvykio data: 1791 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra rišlus faktinis sakinys apie Respublikos poveikį ir atitinka citatą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "24334-25557; hash=425d160f7f718fff7c650aac2ca356e0ed5a42f356467d0bcc7eadbed94bb262; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Austrija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Abiejų Tautų Respublika: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Austrija: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Abiejų Tautų Respublika\" parinktas kaip owner_note_path. Targetas \"Austrija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-26823
 
@@ -346,20 +178,6 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
 - t-029
   global_id: t-80783
   teiginys: "Zigmantas III Vaza 1587 m. buvo išrinktas Abiejų Tautų Respublikos valdovu."
-  semantiniai_rysiai: "Zigmantas III buvo valdovas Abiejų Tautų Respublika (0.95)"
-  temporaliniai_duomenys: "įvykio data: 1587 m.; įvykio data: 1592 m.; įvykio data: 1594 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nusako valdovo išrinkimą ir yra pagrįstas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "392874-393169; hash=c3fca9f22eb753860bdd52f48bc1567d7add21d123c20161ce30f7ffffb2c2c3; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_valdovas -> Abiejų Tautų Respublika: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Zigmantas III: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Abiejų Tautų Respublika: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Zigmantas III buvo išrinktas ATR valdovu."
   pagrindžia:
     - c-42627
 
@@ -367,12 +185,6 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
 - t-036
   global_id: t-193310
   teiginys: "Žymesnieji buržuazinės istoriografijos atstovai, lai kydamiesi tokios didžiavalstybinės pažiūros, vadino Lietuvą valstybe, o uolų feodalinio imuniteto saugoji mą vaizdavo kaip valstybės ar net tautos reikalų gy nimą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "52237-52956; hash=2e80e5296c08a862acc0ad0c46c6054516bb3e05ce68b77b89ecc63c79bd77d9; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176038
 
@@ -380,12 +192,6 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
 - t-037
   global_id: t-194171
   teiginys: "Ir beveik jau būtų prasidėję didelės riau šės ir sumaištis, negalėdami jų jokiu kitu būdu išvengti ir atsižvelgdami į tai, kad mūsų tauta tokia netvarka neaptu rėtų kokios nors gėdos prieš pašalinius žmones ir mūsų mi rusiam valdovui nešlovė nekiltų, be to."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "689170-689993; hash=b87caf9755a5b792706d4612fa7c92c7815c6c7567dc2cb1c9afbbd5c9bf648e; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176784
 - susijęs iš [[objektai/ivykiai/Liublino unija (1569 m.).md#claim-t-169842|Liublino unija (1569 m.)]]: 1569 m. sudaryta Liublino unija sukūrė Abiejų Tautų Respubliką kaip Lietuvos ir Lenkijos suartėjimo nuo Jogailos ir Jadvygos vedybų padarinį.
@@ -872,8 +678,8 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
     ryje buvo sudaryta unija su Lenkijos Karalyste ir susiformavo jungtinė
     valstybė – Abiejų Tautų Respublika.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -892,8 +698,8 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
     mingus fenomenus, kurių trumpa formulė būtų tokia – duona, toleran-
     cija, demokratija, konstitucija, barokas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -923,8 +729,8 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
     Abiejų Tautų Respublika buvo sunaikinta trimis XVIII a. pabaigos pa-
     dalijimais, kuriuose dalyvavo Rusija, Austrija ir Prūsija.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -943,8 +749,8 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
     ginalus valstybių junginys, kuris šiandien kartais laikomas net Europos
     Sąjungos pirmtaku.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -964,8 +770,8 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
     kijos dalimi, o Liublino unijos sukurtą valstybę vadinti ne Abiejų Tautų,
     o Lenkijos Respublika.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -985,8 +791,8 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
     Tėvynę – Lenkijos Respubliką“, visur minima ir „abi tautos“ bei LDK.
     Taigi į konstituciją sugrąžintas valstybės dualizmo principas – federacija.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1008,8 +814,8 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
     gustas buvo priversti atšaukti Gegužės trečiosios konstituciją ir atkurti
     ikikonstitucinę „auksinių laisvių“ santvarką.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1028,8 +834,8 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
     nebeatsikūrė. Susikurs dvi naujos savarankiškos valstybės – Lietuva ir
     Lenkija.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1049,8 +855,8 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
     Jonui 111, Upsaloje 1594 m. jis taip pat vai-
     nikuotas ir Švedijos karaliumi.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1068,8 +874,8 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
     nės minties nelogiškumą: jei unija – „šventa santuoka“, tai kur santuokos
     partneris?
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1096,8 +902,8 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
     nepriėmę jokių sprendimų, nes kai kuriuos tokių seimų nutraukė pavie-
     niai atstovai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1118,8 +924,8 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
     turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provincijai (jos
     buvo dvi – Didžioji Lenkija su Poznane ir Mažoji Lenkija su Krokuva).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1145,8 +951,8 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
     sių ir ukrainiečių tautybėms tapti tautomis (nacijomis).
     Kai 1648 m.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1171,8 +977,8 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
     ryti tik tokia sąlyga, kad jiems rytoj būtina parodyti garan­
     tijos kopiją. Apie tai norėjome Jūsų Malonybei pranešti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1461,7 +1267,8 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
 - id: c-176038
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 30"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 30."
   citata_originali: |
     Žymesnieji buržuazinės istoriografijos atstovai, lai­
     kydamiesi tokios didžiavalstybinės pažiūros, vadino
@@ -1513,7 +1320,3 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
 
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Zigmantas III]]
-- Rėmė Abiejų Tautų Respubliką: [[objektai/asmenys/Gabrielius Bekešas]]
-- Turėjo priklausinį: [[objektai/daiktai/Husaro krūtinšarvis ir antpetis]], [[objektai/daiktai/Karacenos šarvų komplektas]], [[objektai/vietos/Lenkija]], [[objektai/vietos/Lietuva]]
-- Abiejų Tautų Respublika prekiavo su [[objektai/vietos/Amsterdamas]]
-- Abiejų Tautų Respublika priklausė [[objektai/vietos/Lenkija]], [[objektai/vietos/Lietuva]]

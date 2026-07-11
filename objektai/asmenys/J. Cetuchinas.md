@@ -32,16 +32,6 @@ Cetuchinas savo vadovaujamą grupę nuvedė pas bolševikus, liepęs nešaudyti,
 - t-001
   global_id: t-40154
   teiginys: "J. Cetuchinas per pirmąjį Jiezno puolimą nuvedė savo grupę pas bolševikus ir įsakė jai pasiduoti."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "717825-718100; hash=d49f58fb3b491fed2dcbf00a405cb8b5cc00a2c064a6a4116df6fd646dd140ba; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jieznas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "J. Cetuchinas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Jieznas: mention_match, place, gap=26"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"J. Cetuchinas\" parinktas kaip owner_note_path. Targetas \"Jieznas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-44358
 - susijęs iš [[objektai/asmenys/S. Zaskevičius.md#claim-t-40414|S. Zaskevičius]]: Vasario 10 d. rytą S. Zaskevičiaus vadovaujama sustiprintos kuopos dydžio rinktinė artėjo prie Jiezno.
@@ -60,8 +50,8 @@ Cetuchinas savo vadovaujamą grupę nuvedė pas bolševikus, liepęs nešaudyti,
     liepęs nešaudyti, o vėliau tiesiog įsakyda-
     mas jiems pasiduoti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

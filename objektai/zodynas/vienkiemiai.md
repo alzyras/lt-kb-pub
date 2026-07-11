@@ -35,9 +35,6 @@ Vykdant žemės reformą nyko senieji kaimai, žmonės kėlė savo sodybas į vi
 - t-001
   global_id: t-77808
   teiginys: "Vykdant žemės reformą žmonės kėlė sodybas į vienkiemius, nyko senieji kaimai ir dingo trilaukė sėjomaina."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "300065-300547; hash=48b9ed9994775098442aa811aff114f24cc27fc63908e3dcc8f21244579305bb; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-75133
 ## Reikšmingi paminėjimai
@@ -57,8 +54,8 @@ Vykdant žemės reformą nyko senieji kaimai, žmonės kėlė savo sodybas į vi
     šos, pagerėjo javų derlingumas (nuo 9 cnt prieš karą iki 12 cnt ketvirta-
     jame dešimtmetyje).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

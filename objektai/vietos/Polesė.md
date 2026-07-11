@@ -34,17 +34,6 @@ Senojoje Turovo — Pinsko kunigaikštijoje, arba Polesėje sėdėjo Algirdo bro
 - t-001
   global_id: t-28531
   teiginys: "Senojoje Turovo ir Pinsko kunigaikštijoje, vadintoje Polese, valdė Algirdo brolio Narimanto sūnus."
-  semantiniai_rysiai: "Narimantas (Pinsko kunigaikštis) buvo brolis Algirdas (Lietuvos valdovas) (0.93)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "816702-817027; hash=3d73aedaf49b967c1d604e3448df931eecb95433f4383cfea66bfa8197c99b07; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_brolis -> Algirdas (Lietuvos valdovas): 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Narimantas (Pinsko kunigaikštis): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata tiesiogiai įvardija Narimantą Algirdo broliu."
   pagrindžia:
     - c-28435
 
@@ -52,19 +41,6 @@ Senojoje Turovo — Pinsko kunigaikštijoje, arba Polesėje sėdėjo Algirdo bro
 - t-002
   global_id: t-185094
   teiginys: "Paaiškinime teigiama, kad Kojelavičius dažnai neskyrė Polesės nuo kaimyninės Palenkės, lenkiškai vadintos Poleksia."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1366662-1366934; hash=a3958bd1a30ca9026472f4fda241cc98b31f2da183c52109c3eb257a949a3853; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Palenkė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Polesė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Palenkė: mention_match, place, gap=23"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Polesė\" parinktas kaip owner_note_path. Targetas \"Palenkė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-168455
 
@@ -72,22 +48,6 @@ Senojoje Turovo — Pinsko kunigaikštijoje, arba Polesėje sėdėjo Algirdo bro
 - t-003
   global_id: t-192722
   teiginys: "Teodoras Narbutas rašo, kad Kazimieras, priėmęs nusižeminusią jotvingių vyresnybę, pavertė Polesę visiems laikams lenkų valdomis."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Lenkai valdė teritoriją Polesė (0.92); Lenkai puolė Jotvingiai (0.78)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "217048-217444; hash=ca360c3dbd687491848a6bef0fb3749551b9f32bd427837b88944b92dd0d48e0; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde_teritorija -> Polesė: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lenkai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Polesė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai teigia, kad Polesė tapo lenkų valdomis."
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175492
 
@@ -95,21 +55,6 @@ Senojoje Turovo — Pinsko kunigaikštijoje, arba Polesėje sėdėjo Algirdo bro
 - t-004
   global_id: t-192723
   teiginys: "Teodoras Narbutas Polesę po jotvingių iškapojimo vaizduoja kaip plačias kapines ir nykią dykrą, nebekėlusią baimės kaimynams."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "241476-241801; hash=6f75a4e2426069d902de8d120280fa2a18b104fd592e4c0b4c5620cd816c0899; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jotvingiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Polesė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Jotvingiai: mention_match, group, gap=10"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Polesė\" parinktas kaip owner_note_path. Targetas \"Jotvingiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175493
 - susijęs iš Pinskas: Pinskas minimas kaip vienas žymiausių baltarusių gyvenamos Polesės miestų.
@@ -158,8 +103,8 @@ Senojoje Turovo — Pinsko kunigaikštijoje, arba Polesėje sėdėjo Algirdo bro
     Volinijos ir Podolės) valdė Jaunučio sūnus. Po kietų kovų su
     Lenkija, Volinijoje (Lucke) išsilaikė senas Gediminaitis Liubartas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -175,8 +120,8 @@ Senojoje Turovo — Pinsko kunigaikštijoje, arba Polesėje sėdėjo Algirdo bro
     ritorija, kurios žymiausi miestai — Turovas, Pinskas, David Gorodo-
     kas.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -199,8 +144,8 @@ Senojoje Turovo — Pinsko kunigaikštijoje, arba Polesėje sėdėjo Algirdo bro
 
     visiems laikams lenkų valdomis1.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -219,8 +164,8 @@ Senojoje Turovo — Pinsko kunigaikštijoje, arba Polesėje sėdėjo Algirdo bro
     nes ir šimtui metų praėjus, kryžiuočių istorijos rašė, kad
     buvo labai mažai gyvenamas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -249,7 +194,8 @@ Senojoje Turovo — Pinsko kunigaikštijoje, arba Polesėje sėdėjo Algirdo bro
 - id: c-168455
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 755"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 755."
   citata_originali: |
     3 „Lietuvos istorijos" I tome A. Kojelavičius daugelyje atvejų
     neskyrė Polesės (lenk. Polesie) nuo kaimynystėje buvusios Palenkės
@@ -290,7 +236,8 @@ Senojoje Turovo — Pinsko kunigaikštijoje, arba Polesėje sėdėjo Algirdo bro
 - id: c-175493
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 134"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 134."
   citata_originali: |
     Tačiau jotvingiai
     paniekino nelaisvę ir leidosi visi iškapojami.
@@ -309,9 +256,5 @@ Senojoje Turovo — Pinsko kunigaikštijoje, arba Polesėje sėdėjo Algirdo bro
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/grupes/Lenkai]]
-- Buvo kelionės vieta: [[objektai/asmenys/Mechovita]]
 - Puolė Polesę: [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]]
-- Buvo žygio kryptis: [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]]
-- Gyvenamoji vieta: [[objektai/grupes/Baltarusiai]], [[objektai/grupes/Jotvingiai]]
-- Turėjo priklausinį: [[objektai/vietos/Pinskas]], [[objektai/vietos/Turovas]]
-- Polesė priklausė [[objektai/grupes/Jotvingiai]]
+- Gyvenamoji vieta: [[objektai/grupes/Baltarusiai]]

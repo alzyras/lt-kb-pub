@@ -30,19 +30,6 @@ Senoliai tvirtino, kad į tolimą kelią leidusiųsi italų ateivių buvo penki 
 - t-001
   global_id: t-185426
   teiginys: "Senoliai tvirtino, kad į tolimą kelią leidusiųsi italų ateivių buvo penki šimtai kilmingųjų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "92671-93394; hash=a409e3aa27a0c724fcd842acd75aeb8859f435c1bea93912382d680d4ae54135; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Herbas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Italų ateiviai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Herbas: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Italų ateiviai\" parinktas kaip owner_note_path. Targetas \"Herbas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-168787
 
@@ -50,12 +37,6 @@ Senoliai tvirtino, kad į tolimą kelią leidusiųsi italų ateivių buvo penki 
 - t-002
   global_id: t-193313
   teiginys: "Italai rodėsi esą tokie gabūs ir veikė taip sumaniai, kad jų vidaus padėtis tapo gana tvirta, o tarp sąjun gininkų nekėlė nei neapykantos, ne įtarimo."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "95712-96185; hash=91056851369516ad67cf92d9f34f428b27ff1976402ea13f9db1574820ba5cc6; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176041
 ## Reikšmingi paminėjimai
@@ -86,8 +67,8 @@ Senoliai tvirtino, kad į tolimą kelią leidusiųsi italų ateivių buvo penki 
     bo Stulpai, Ursinas bei Hektoras — herbo Rožės, arba
     Rožynas.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -107,8 +88,8 @@ Senoliai tvirtino, kad į tolimą kelią leidusiųsi italų ateivių buvo penki 
     voniją, o kiti vėliau Prūsiją, taip italai ypatingu su­
     manumu ir būdo meilumu užėmė Lietuvą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -152,7 +133,8 @@ Senoliai tvirtino, kad į tolimą kelią leidusiųsi italų ateivių buvo penki 
 - id: c-176041
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 59"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 59."
   citata_originali: |
     Italai rodėsi esą tokie gabūs ir veikė taip sumaniai,
     kad jų vidaus padėtis tapo gana tvirta, o tarp sąjun­

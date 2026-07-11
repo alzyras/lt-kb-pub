@@ -49,17 +49,6 @@ Nenurodyta
 - t-001
   global_id: t-62835
   teiginys: "Kristburgo komtūras Ditrichas Rodė antrosios atskalūnybės metais apiplėšė Pagudę ir privertė jį persekiojusius prūsus bėgti."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "435643-436397; hash=5fc502d257032f0fa500d9874b04fd619d5ab821f2723695a895329f34ba965f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kristburgas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kristburgo komtūro Ditricho iš Rodės žygis į Pagudę ir pergalė: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Kristburgas: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kristburgo komtūro Ditricho iš Rodės žygis į Pagudę ir pergalė\" parinktas kaip owner_note_path. Targetas \"Kristburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-63661
 ## Reikšmingi paminėjimai
@@ -78,11 +67,11 @@ Nenurodyta
 
                      142 (137).
   citata_rodoma: ''
+  statusas: verified
+
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-
 - c-002
   santrauka: 'Kristburgo komtūras Ditrichas Rodė antrosios atskalūnybės metais apiplėšė Pagudę ir privertė jį persekiojusius prūsus bėgti.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -97,8 +86,8 @@ Nenurodyta
     mergelę, ore vedančią paskui save brolių būrį. Šis regėjimas taip juos nugąsdino, taip
     palaužė jiems drąsą, kad niekam nė į galvą neatėjo gintis.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -109,7 +98,8 @@ Nenurodyta
 - id: c-63661
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 136"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 136."
   citata_originali: |
     Brolis Ditrichas, vardu Rodė, Kristburgo komtūras416, antrosios atskalūnybės metais
     patraukė su šimtine brolių bei maldininkų žygin  ir, apiplėšęs Pagudės žemę, pasuko

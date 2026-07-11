@@ -35,9 +35,6 @@ partizaniškas karas: tada Kęstutis su sūnum Vytautu pradėjo su jais partizan
 - t-001
   global_id: t-70270
   teiginys: "Kęstutis su sūnumi Vytautu pradėjo partizanišką karą prieš kryžiuočius, kai šie nesitraukė ir naikino miestus bei apylinkes."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "183723-184189; hash=ca90315a22580dba3586fcf0b5ea3e8df8cdb6cf062cff3ba94b2473d145baec; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-69324
 
@@ -45,9 +42,6 @@ partizaniškas karas: tada Kęstutis su sūnum Vytautu pradėjo su jais partizan
 - t-002
   global_id: t-70271
   teiginys: "Partizaniško karo metu Vytautas sunaikino kryžiuočių maisto atsargas, o Kęstučio ir Vytauto būriai puolė besitraukiančius kryžiuočius."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "184124-184493; hash=993a8d115221c7593b9c4bf0a8b5d4f17b60c8a479bcb8ef8527c2db332e8bff; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-69325
 ## Reikšmingi paminėjimai
@@ -67,8 +61,8 @@ partizaniškas karas: tada Kęstutis su sūnum Vytautu pradėjo su jais partizan
     pajėgdami paimti pilių, jie naikino miestus ir apylinkes. Tada
     Kęstutis su sūnum Vytautu pradėjo su jais partizanišką karą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -91,8 +85,8 @@ partizaniškas karas: tada Kęstutis su sūnum Vytautu pradėjo su jais partizan
     maži išbadėjusios ir sušalusios
     jų kariuomenės likučiai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

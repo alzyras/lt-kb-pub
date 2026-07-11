@@ -55,17 +55,6 @@ Nenurodyta
 - t-001
   global_id: t-59675
   teiginys: "Per vienuolika metų Prūsijoje broliai pastatė daug įtvirtinimų, miestų ir pilių."
-  semantiniai_rysiai: "Pilys priklausė Prūsija (0.71); Pilys priklausė Kulmas (0.58); Pilys priklausė Lubava (0.58)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "99443-99912; hash=3b0be79db2d8284bb95381276013197b6a0499b9ba73cddc7a47fbd3e3ab780d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Prūsija: 0.71"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Pilys: llm_allowed_candidate, thing"
-  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata sako, kad pilys buvo pastatytos užkariautose Prūsijos žemėse; leistinas ryšys sieja pilis su Prūsija."
   pagrindžia:
     - c-60306
 - susijęs iš [[objektai/daiktai/Gotikinių pastatų gynybiniai bokštai, šaunamosios angos ir kryžminiai skliautai.md#claim-t-64923|Gotikinių pastatų gynybiniai bokštai, šaunamosios angos ir kryžminiai skliautai]]: Vytauto laikų gotikinę gynybinę architektūrą liudijo mūrinės pilys Vilniuje, Trakuose, Kaune, Gardine, Naugarduke ir Lucke.
@@ -207,8 +196,8 @@ Nenurodyta
     kurios gyveno Pamedės, Pagudės, Varmės, Notangos  ir Bartos žemėse, pastatydami
     jose daugybę įtvirtinimų, miestų ir pilių, kurias išskaičiuosime ir išvardysime vėliau.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -219,7 +208,8 @@ Nenurodyta
 - id: c-60306
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 33-34"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 33-34."
   citata_originali: |
     Nieku būdu nereikia pamiršti ir to itin
     svarbaus įrodymo, jog šių brolių kovas lydėjusi tokia karo sėkmė, kad per vienuolika
@@ -237,4 +227,3 @@ Nenurodyta
 
 ## Ryšiai
 - Buvo pastatyta: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Pilys priklausė [[objektai/grupes/Bajorai]], [[objektai/vietos/Kulmas]], [[objektai/vietos/Lubava]], [[objektai/vietos/Melnikas]], [[objektai/vietos/Palenkė]], [[objektai/vietos/Prūsija]], [[objektai/vietos/Voluinė]]

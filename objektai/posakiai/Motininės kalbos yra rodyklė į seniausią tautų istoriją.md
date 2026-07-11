@@ -30,21 +30,6 @@ Narbutas iš Henriko Leo tyrimų apie Marienburgo glosas darė išvadą, kad mot
 - t-001
   global_id: t-189597
   teiginys: "Narbutas iš Henriko Leo tyrimų apie Marienburgo glosas darė išvadą, kad motininės kalbos rodo seniausią tautų istoriją."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "794786-795427; hash=948acecfceb246e1af35243f4e771059268f60abeb16d805e9f3dc6ec8e69809; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Henrikas Leo: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Motininės kalbos yra rodyklė į seniausią tautų istoriją: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Henrikas Leo: mention_match, author, gap=60"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Motininės kalbos yra rodyklė į seniausią tautų istoriją\" parinktas kaip owner_note_path. Targetas \"Henrikas Leo\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172482
 - susijęs iš Henrikas Leo, Die Malbergische Glosse: Narbutas nurodo, kad Henrikas Leo „Die Malbergische Glosse“ marienburgiškais vadintus žodžius aiškino kaip keltų kalbos liekanas.
@@ -65,8 +50,8 @@ Narbutas iš Henriko Leo tyrimų apie Marienburgo glosas darė išvadą, kad mot
     da svarbi išvada, kad motininės kalbos yra rodyklė į seniausią tautų
     istoriją **.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -77,7 +62,8 @@ Narbutas iš Henriko Leo tyrimų apie Marienburgo glosas darė išvadą, kad mot
 - id: c-172482
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 438"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 438."
   citata_originali: |
     22 Vokiečių istorikas Henrikas Leo darbe, pavadintame „Marien­
     burgo glosos“ (Die Malbergische Glosse), teigia, kad žodžiai, vadinti

@@ -30,14 +30,6 @@ Mat žinoma, kad visos vaidilutės buvo nesenos. Vaidilutės (Wejdalotki) Tai bu
 - t-001
   global_id: t-189444
   teiginys: "Mat žinoma, kad visos vaidilutės buvo nesenos."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "524109-524424; hash=69eefc279d00a0c60d50d4b16ddc21c337b3ebea57c0e58814ea981a784a5198; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-172331
 
@@ -45,12 +37,6 @@ Mat žinoma, kad visos vaidilutės buvo nesenos. Vaidilutės (Wejdalotki) Tai bu
 - t-002
   global_id: t-194604
   teiginys: "Vaidilutės (Wejdalotki) Tai buvo žynės, duodančios amžinos skaistybės - tikra šio žodžio prasme - įžadus; sulaužiusias tą priesaiką bausdavo 32 Lettische Grammatik."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "523054-523585; hash=be61950f5313184bf5099086a5e650fde6e6fa3aceb447dca48bfa728e57f8a5; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177003
 - susijęs iš [[objektai/paprociai/Žynių ir vaidilučių skaistybės norma bei sudeginimo bausmė.md#claim-t-189969|Žynių ir vaidilučių skaistybės norma bei sudeginimo bausmė]]: Narbutas rašo, kad žyniai ir vaidilutės privalėjo likti viengungiai, laikytis nepriekaištingos skaistybės ir už nusižengimą būdavo sudeginami.
@@ -72,8 +58,8 @@ Mat žinoma, kad visos vaidilutės buvo nesenos. Vaidilutės (Wejdalotki) Tai bu
     nauti dievams pasibaigus skirtam laikui, pasitraukdavo į nuo­
     šalias vietas, kur tapdavo ypatingomis pranašautojomis34.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -99,8 +85,8 @@ Mat žinoma, kad visos vaidilutės buvo nesenos. Vaidilutės (Wejdalotki) Tai bu
     mune, įkišę į odinį, akmenų prikimštą maišą ir užsiuvę kartu
     su katinu, šunimi bei nuodinga gyvate.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -111,7 +97,8 @@ Mat žinoma, kad visos vaidilutės buvo nesenos. Vaidilutės (Wejdalotki) Tai bu
 - id: c-172331
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 300"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 300."
   citata_originali: |
     Vis dėlto
     reikia daryti išvadą, kad tas pareigas eidavo jaunos merginos

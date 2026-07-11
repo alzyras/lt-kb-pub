@@ -32,16 +32,6 @@ Stanevičius — lietuviškų dainų rinkinį.
 - t-001
   global_id: t-01132
   teiginys: "S. Stanevičius išleido lietuviškų dainų rinkinį."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "920960-921216; hash=3eaedfb1dcbb08699281758f1628246182833bcab5d8d22bc93c74153630c400; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> D. Poška: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "S. Stanevičius: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "D. Poška: mention_match, author, gap=34"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"S. Stanevičius\" parinktas kaip owner_note_path. Targetas \"D. Poška\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-01370
 - susijęs iš [[objektai/autoriai/J. Lasickis.md#claim-t-30684|Jonas Lasickis]]: S. Stanevičius kritikavo J. Lasickio knygutę apie žemaičių dievus, nes joje paprasti kalbos žodžiai esą paversti dievų vardais.
@@ -59,8 +49,8 @@ Stanevičius — lietuviškų dainų rinkinį.
     čius — lietuviškų dainų rin-
     kinį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

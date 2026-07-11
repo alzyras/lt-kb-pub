@@ -32,16 +32,6 @@ O dabar atspėkime, kas bendra tokiems pasaulinio garso muzikantams kaip Jimi He
 - t-001
   global_id: t-18886
   teiginys: "Eric Clapton grojo iš Lietuvos emigrantų kilusio Tony’o Zemaicio sukurta gitara „Zemaitis“."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "544974-545514; hash=3203449c340cee00010cedacd446662ee791bbb59966a029ed7a697aa47f1471; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gitara „Zemaitis“: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Eric Clapton: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Gitara „Zemaitis“: mention_match, thing, gap=73"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Eric Clapton\" parinktas kaip owner_note_path. Targetas \"Gitara „Zemaitis“\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-21661
 - susijęs iš [[objektai/asmenys/Antanas Kazimeras Žemaitis.md#claim-t-18813|Antanas Kazimeras Žemaitis]]: Antanas Kazimeras Žemaitis sukūrė gitarą „Zemaitis“, kuria grojo Jimi Hendrixas, Ericas Claptonas, Bobas Dylanas ir kiti muzikantai.
@@ -76,8 +66,8 @@ O dabar atspėkime, kas bendra tokiems pasaulinio garso muzikantams kaip Jimi He
     Zemaicio (Antanas Kazimeras Žemaitis, g. Londone 1935) sukurta gita-
     ra „Zemaitis“, kuri roko pasaulyje tapo bendrine sąvoka.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

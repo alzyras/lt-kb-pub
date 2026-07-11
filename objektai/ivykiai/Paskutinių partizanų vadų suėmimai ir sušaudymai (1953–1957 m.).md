@@ -58,14 +58,6 @@ Nenurodyta
 - t-001
   global_id: t-193683
   teiginys: "Berija pripažino Lietuvoje vykstantį partizaninį karą rimta grėsme sovietų valdymui."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "435074-435861; hash=dfa2bd793888a37805c905af474af8f780c0d906194ac02895a36addcec9f8f2; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-176352
 ## Reikšmingi paminėjimai
@@ -102,8 +94,8 @@ Nenurodyta
     214
     sušaudytas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

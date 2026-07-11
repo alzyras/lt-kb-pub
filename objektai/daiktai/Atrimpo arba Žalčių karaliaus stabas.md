@@ -45,21 +45,6 @@ Nenurodyta
 - t-001
   global_id: t-189655
   teiginys: "Narbutas dievo Atrimpo stabą aprašo kaip spirale susivyniojusį žaltį, stovėjusį Romovės šventykloje į dešinę nuo Perkūno."
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "438591-438799; hash=ef2b8c97eef904dea963681009df7b4660c70abf06ef71aa0fcdd8ccb78e441f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Romovė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Atrimpo arba Žalčių karaliaus stabas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Romovė: mention_match, place, gap=65"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Atrimpo arba Žalčių karaliaus stabas\" parinktas kaip owner_note_path. Targetas \"Romovė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172538
 
@@ -67,14 +52,6 @@ Nenurodyta
 - t-002
   global_id: t-194611
   teiginys: "Narbutas teigia, kad taip pat kronikos liudija, jog šio dievo stabas, spirale susi raitęs žaltys, stovėjęs Romovės šventykloje, į kairę nuo Perkū no; varinis dievas buvęs su vidutinio amžiaus žmogaus galva."
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "185222-185596; hash=9a8606ee60ee7e1de1438b99dc1090c3f7cad000b2c15fa1a4163d292ee08c00; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-177010
 ## Reikšmingi paminėjimai
@@ -88,8 +65,8 @@ Nenurodyta
     loje, į dešinę nuo Perkūno; buvo iš medžio, galva vainikuota
     varpomis papuoštu vainiku.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -106,8 +83,8 @@ Nenurodyta
     tyrinėtojų, tas stabas turėjo vaizduoti Žalčių karalių (Žalcziu
     Karalus), kuris buvo laikomas tikru dievo Ukapirmo broliu25.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -118,7 +95,8 @@ Nenurodyta
 - id: c-172538
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 252"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 252."
   citata_originali: |
     Dievo Atrimpo stabas buvo žaltys, susivyniojęs j spiralę.
     Žiūrėk II lentelės 7-ąjį piešinį. Jis stovėjo Romovės šventyk­
@@ -134,7 +112,8 @@ Nenurodyta
 - id: c-177010
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 104"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 104."
   citata_originali: |
     Taip pat kronikos liudija, jog šio dievo stabas, spirale susi­
     raitęs žaltys, stovėjęs Romovės šventykloje, į kairę nuo Perkū­

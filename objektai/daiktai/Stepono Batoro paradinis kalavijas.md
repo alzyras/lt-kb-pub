@@ -64,19 +64,6 @@ Nenurodyta
 - t-002
   global_id: t-09926
   teiginys: "Stepono Batoro paradinis kalavijas buvo pagamintas pergalingoms lietuvių ir jų sąjungininkų kampanijoms Maskvos žemėse Livonijos karo metu atminti."
-  temporaliniai_duomenys: "įvykio data: 1569 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie objektą ir paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "45985-46350; hash=051971e6b61cfc0517c41289b3ca55f834a6f41695f7687b3d45a09555313f71; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/05_quality_control/02_clean_quotes.md"
-  ryšio_patikimumas: "susije_su -> Kalavijas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Stepono Batoro paradinis kalavijas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Kalavijas: mention_match, thing, gap=25"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Stepono Batoro paradinis kalavijas\" parinktas kaip owner_note_path. Targetas \"Kalavijas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-12243
 - susijęs iš [[objektai/asmenys/Steponas Batoras.md#claim-t-10099|Steponas Batoras]]: Stepono Batoro paradinis kalavijas buvo pagamintas pergalingoms lietuvių ir jų sąjungininkų kampanijoms Maskvos žemėse Livonijos karo metu atminti.
@@ -95,8 +82,8 @@ Nenurodyta
     uniją (1569 m.) su Lenkija Lietuvai
     nepalankiomis sąlygomis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -128,6 +115,3 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-09926
-
-## Ryšiai
-- Stepono Batoro paradinis kalavijas priklausė [[objektai/asmenys/Steponas Batoras]]

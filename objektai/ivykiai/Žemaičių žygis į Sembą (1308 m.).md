@@ -49,23 +49,6 @@ Nenurodyta
 - t-001
   global_id: t-185843
   teiginys: "1308 m. žemaičiai smarkiai nusiaubė Sembos žemę, žygiuodami į Prūsiją su penkių tūkstančių vyrų kariuomene, vadovaujama Mansto ir Sudargo."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Žemaičiai puolė Semba (0.90); Žemaičiai surengė žygį į Prūsija (0.88)"
-  temporaliniai_duomenys: "įvykio data: 1308 m.; įvykio data: 1309 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys turi OCR triukšmo; citata palaiko aiškų faktą apie žygį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "320833-321496; hash=30c213e56e4ad6f002be260a1fc868bc1642caea70627d969a4e1d83e1b31093; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Semba: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Žemaičiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Semba: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo žemaičių karinį nusiaubimą Sembos žemėje."
   pagrindžia:
     - c-169204
 ## Reikšmingi paminėjimai
@@ -99,8 +82,8 @@ Nenurodyta
     kiavo savo kariuomenę, iš­
     vežė visą grobį.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

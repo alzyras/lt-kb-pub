@@ -35,9 +35,6 @@ Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems 
 - t-002
   global_id: t-58572
   teiginys: "Dešiniajame Kaustros krante į pietus nuo miesto išliko aukštas piliakalnis su pilies griuvėsiais."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "272381-272593; hash=92c04c34420df85993de6c1a67bbf23992f2279e560c26003bcf84280461f1dc; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-59204
 
@@ -45,17 +42,6 @@ Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems 
 - t-001
   global_id: t-58573
   teiginys: "Kryžiuočių ordino broliai Notangos žemėje prie Kaustros upės pastatė Kroicburgo pilį."
-  semantiniai_rysiai: "Kryžiuočių ordinas pastatė Kroicburgas (0.95)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "270810-271464; hash=4d635ef697f22ab37872c6b3d0b34ef3b2af2bc77f92330502f372bec6a0a101; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "pastate -> Kroicburgas: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Kroicburgas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai susieja Kryžiuočių ordino brolius su Kroicburgo pilies pastatymu."
   pagrindžia:
     - c-59205
 - susijęs iš Kriukai: Kriukai buvo kaimas per 6 kilometrus į pietus nuo Kroicburgo, netoli ežerėlio tarp Kaustros ir Pasmaros upių.
@@ -72,8 +58,8 @@ Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems 
     Kauxtere; GAO, p. 58) krante (Boetticher A., Die Bau...., 2, p. 65; CV, t. 33, sąs. 2, p.
     299).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -92,8 +78,8 @@ Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems 
     ir Heilsbergo pilys260, o Galindos žemėje — vienas miestas261, o jų apsaugai ten palikta
     daug brolių ir ginklanešių.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -104,7 +90,8 @@ Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems 
 - id: c-59204
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 82"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 82."
   citata_originali: |
     Aukštas piliakalnis su
     pilies griuvėsiais išliko į pietus nuo miesto, deš. Kaustros (D.— Caustere, Jer.— tiliz [...]
@@ -120,7 +107,8 @@ Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems 
 - id: c-59205
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 82"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 82."
   citata_originali: |
     Varmės, Notangos  ir Bartos prūsai, dievo valia brolių bei minėtojo kunigaikščio
     nusilpninti, neįstengė ilgiau priešintis ir, priversti paklusti dorybei ir duoti įkaitų, pasidavė

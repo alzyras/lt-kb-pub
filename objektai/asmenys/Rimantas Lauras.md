@@ -30,12 +30,6 @@ media_all_json: |-
 - t-001
   global_id: t-194100
   teiginys: "14 APIE TRAIDENĮ, J O ŠONŲ VIENUOLĮ RIMANTĄ LAURĄ IR APIE J O KERŠTĄ DEDE1 DAUMANTUI UZ TĖVO TRAIDENIO NUŽUDYMĄ Traidenis vedė Mozūrų kunigaikščio dukterį1 ir su ja turėjo sūnų, vardu Rimantą2 ."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "105141-105562; hash=2a4ce45cb9f1a6b37530b9c53aafbd437fe40aad7a81c54b528f2590d1688028; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176713
 
@@ -43,12 +37,6 @@ media_all_json: |-
 - t-002
   global_id: t-194101
   teiginys: "Gyvendamas pas kunigaikštį Levą, Rimantas išmo ko rusiškai kalbėti, ir jam patiko krikščionių tikėji mas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "105382-105811; hash=6e75e4e5f459e3f23df1898e9784e2e4ea33c15bcebfe50075845a296d7ddc00; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176714
 
@@ -56,12 +44,6 @@ media_all_json: |-
 - t-003
   global_id: t-194102
   teiginys: "Ir minėtasis vienuolis Lauras, lietuviškai vadinęsis Rimantu, o rusiškai Vosyliumi, gedėdamas dėl savo tė vo, didžiojo kunigaikščio Traidenio, mirties ir atsisa kęs vienuolystės, atvyko pas didikus ir, sušaukęs visas lietuvių jėgas, patraukė prieš Daumantą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "106815-107356; hash=423ff3f80cf67c573103706c4925892b9d2a53710df727fee5f7ba9f9016349c; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176715
 ## Reikšmingi paminėjimai
@@ -81,8 +63,8 @@ media_all_json: |-
     jį Levui Mstislavičiui, įkūrusiam miestą, pagal jo var­
     dą pavadintą Lvovu 3 , kad išmokytų rusų kalbos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -102,8 +84,8 @@ media_all_json: |-
     nieko nevertas, ir, atsisakęs gyvenimo, tapo vienuoliu;
     ir jam buvo duotas Lauro vardas4 .
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -126,8 +108,8 @@ media_all_json: |-
     lietuvių jėgas, patraukė prieš Daumantą, degdamas troš­
     kimu atkeršyti už savo tėvo kraują.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

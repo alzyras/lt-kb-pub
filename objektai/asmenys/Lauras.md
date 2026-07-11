@@ -30,12 +30,6 @@ Lauras, žmonių vadintas Rimantu, po žinios apie tėvo nužudymą paliko vienu
 - t-001
   global_id: t-186007
   teiginys: "Lauras, žmonių vadintas Rimantu, po žinios apie tėvo nužudymą paliko vienuolyną ir pradėjo vadovauti karui prieš Daumantą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "250407-251301; hash=771db1745284aeb16a2dc4967beeb1e04094b73e21ad15dc2bd0d7730211177f; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-169368
 
@@ -43,12 +37,6 @@ Lauras, žmonių vadintas Rimantu, po žinios apie tėvo nužudymą paliko vienu
 - t-002
   global_id: t-186008
   teiginys: "Lauras po sutelktų pajėgų patraukė prieš Daumantą, mūšyje įgijo persvarą ir nukovė Daumantą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "251765-252504; hash=448e6b21e3bc039472940763e17c62af8588defa14394deefb85e310c2a2fe24; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-169369
 - susijęs iš [[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis).md#claim-t-184678|Boleslovas (Mazovijos kunigaikštis)]]: Boleslovas, Mazovijos kunigaikštis, vedė Lauro seserį, tikėdamasis per giminystę su valdovais sumažinti lietuvių užpuldinėjimus.
@@ -80,8 +68,8 @@ Lauras, žmonių vadintas Rimantu, po žinios apie tėvo nužudymą paliko vienu
     vės, tačiau, nebūdami tikri, kaip baigsis karas, dve­
     jojo dėl juodviejų siūlymų, nežinodami, paskui ką eiti.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -106,8 +94,8 @@ Lauras, žmonių vadintas Rimantu, po žinios apie tėvo nužudymą paliko vienu
     locko kraštą ir vienu užmoju atsiėmė žemes, kurias
     Daumantas anksčiau buvo užgrobęs.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -118,7 +106,8 @@ Lauras, žmonių vadintas Rimantu, po žinios apie tėvo nužudymą paliko vienu
 - id: c-169368
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 146"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 146."
   citata_originali: |
     Todėl, kuo greičiausiai sutelkęs Rusioje
     stiprią kariuomenę, jis patraukė į Lietuvą, manydamas,
@@ -150,7 +139,8 @@ Lauras, žmonių vadintas Rimantu, po žinios apie tėvo nužudymą paliko vienu
 - id: c-169369
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 147"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 147."
   citata_originali: |
     Sutelkęs jėgas, Lauras bemat patraukė į priešą:
     kol dar degė krūtinėse pirmykštis ryžtas, jis, nuspren­

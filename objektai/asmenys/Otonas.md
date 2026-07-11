@@ -33,17 +33,6 @@ Dusburgietis teigia, kad apie brolį Otoną, antrą magistrą Antras magistras b
 - t-001
   global_id: t-60400
   teiginys: "Brolis Otonas buvo antrasis magistras, daug metų vadovavo, mirė birželio 2 dieną ir buvo palaidotas Akone."
-  semantiniai_rysiai: "Otonas buvo palaidotas Akonas (0.99); Otonas mirė Akonas (0.68)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "123313-123483; hash=52fb4ae3758c9c074695315750b1f9e0e6d5f54a51adadee1dc603b2767a4634; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_palaidotas -> Akonas: 0.99"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Otonas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Akonas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citatoje tiesiogiai sakoma, kad Otonas palaidotas Akone."
   pagrindžia:
     - c-61032
 
@@ -51,20 +40,6 @@ Dusburgietis teigia, kad apie brolį Otoną, antrą magistrą Antras magistras b
 - t-002
   global_id: t-184812
   teiginys: "Livonijos magistras Otonas žuvo prie Eželio ant ledo kovodamas su žemaičiais ir lietuviais."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Otonas kariavo prieš Lietuviai (0.72); Otonas kariavo prieš Žemaičiai (0.72)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "222075-222523; hash=54155089b400be3583fb01996c89a39721a9941fec554487ed67037304651624; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Lietuviai: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Otonas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citatoje lietuviai ir žemaičiai kovojo su Otonu; kryptis iš Otono į lietuvius pagrįsta kaip karo priešprieša."
   pagrindžia:
     - c-168173
 - susijęs iš [[objektai/asmenys/Ditrichas iš Ezbeko.md#claim-t-60106|Ditrichas iš Ezbeko]]: 1294 m. Ditrichas iš Ezbeko su Otonu iš Bergo ir Otonu iš Cedlico buvo pasiųstas saugoti Ragainės pilies.
@@ -91,8 +66,8 @@ Dusburgietis teigia, kad apie brolį Otoną, antrą magistrą Antras magistras b
 
                              4.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -113,8 +88,8 @@ Dusburgietis teigia, kad apie brolį Otoną, antrą magistrą Antras magistras b
     Vestfalenas: tęsdamas karą, jis buvo lietuvių sumuštas
     ir žuvo.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -125,7 +100,8 @@ Dusburgietis teigia, kad apie brolį Otoną, antrą magistrą Antras magistras b
 - id: c-61032
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 40"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 40."
   citata_originali: |
     3. Apie brolį Otoną, antrą magistrą
 
@@ -147,7 +123,8 @@ Dusburgietis teigia, kad apie brolį Otoną, antrą magistrą Antras magistras b
 - id: c-168173
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 131"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 131."
   citata_originali: |
     Vis dėl­
     to markgrafas, nenorėdamas, kad atrodytų, jog jis vel­
@@ -167,6 +144,4 @@ Dusburgietis teigia, kad apie brolį Otoną, antrą magistrą Antras magistras b
     - t-184812
 
 ## Ryšiai
-- Otonas mirė [[objektai/vietos/Akonas]]
 - Otonas buvo palaidotas [[objektai/vietos/Akonas]]
-- Otonas kariavo prieš [[objektai/grupes/Lietuviai]], [[objektai/grupes/Žemaičiai]]

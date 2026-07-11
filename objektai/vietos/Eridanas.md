@@ -30,21 +30,6 @@ Narbutas rašo, kad keliautojas girdėjo apie gintarą, renkamą prie Eridano up
 - t-001
   global_id: t-192817
   teiginys: "Narbutas rašo, kad keliautojas girdėjo apie gintarą, renkamą prie Eridano upės, įtekančios į Šiaurės jūrą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "270600-271016; hash=dc0a54c7fce063a1e2f63c7cfb237825409c10a04572b85b88f6c9ff0f966da4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aldeskos upė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Eridanas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Aldeskos upė: mention_match, place, gap=8"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Eridanas\" parinktas kaip owner_note_path. Targetas \"Aldeskos upė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175587
 
@@ -52,21 +37,6 @@ Narbutas rašo, kad keliautojas girdėjo apie gintarą, renkamą prie Eridano up
 - t-002
   global_id: t-192818
   teiginys: "Narbutas cituoja pasakojimą, kuriame abejojama Eridano upe, įtekančia į Šiaurės jūrą ir siejama su gintaru."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "271833-272195; hash=d99ef199118ea4c50abab6ac50dd1802b8dc968efe106ecc41cc3c986405120b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Europa: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Eridanas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Europa: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Eridanas\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175588
 - susijęs iš [[objektai/asmenys/Cignas.md#claim-t-191382|Cignas]]: Graikų mito pasakojime Cignas, lygų karalius ir Fajetono bičiulis, iš sielvarto virto gulbinu prie Eridano ežero.
@@ -99,8 +69,8 @@ Narbutas rašo, kad keliautojas girdėjo apie gintarą, renkamą prie Eridano up
     laiko pasakų išmone, tačiau mes, spręsdami iš senovės
     1 Lib.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -118,8 +88,8 @@ Narbutas rašo, kad keliautojas girdėjo apie gintarą, renkamą prie Eridano up
     upė, vadinama Eridanu, įtekanti į Siaurės jūrą, iš kur
     gaunama ¡gintaro.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -130,7 +100,8 @@ Narbutas rašo, kad keliautojas girdėjo apie gintarą, renkamą prie Eridano up
 - id: c-175587
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 150"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 150."
   citata_originali: |
     Bet turbūt
     dėl kažkokio ¡pirkliško pavydo jie tiksliai nenurodė nei
@@ -151,7 +122,8 @@ Narbutas rašo, kad keliautojas girdėjo apie gintarą, renkamą prie Eridano up
 - id: c-175588
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 151"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 151."
   citata_originali: |
     Tad šis garsus keliautojas ir objektyviausias rašytojas
     buvo priverstas atsisakyti tolesnės kelionės; jis turbūt bu­
@@ -166,6 +138,3 @@ Narbutas rašo, kad keliautojas girdėjo apie gintarą, renkamą prie Eridano up
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192818
-
-## Ryšiai
-- Mirties vieta: [[objektai/asmenys/Fajetonas]]

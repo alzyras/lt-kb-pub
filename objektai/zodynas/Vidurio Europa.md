@@ -31,12 +31,6 @@ Tačiau civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pakraš
 - t-001
   global_id: t-193663
   teiginys: "Tačiau civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pakraščiams – Vidurio Europai."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "14170-14939; hash=1f10ad2e17fcb77fb2dfd0fb9c1e4f336130cd57571dac74c02a6f835ddea2ad; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176332
 ## Reikšmingi paminėjimai
@@ -60,8 +54,8 @@ Tačiau civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pakraš
     unijos idėją, o tai leidžia kalbėti apie Lietuvą kaip jungtį tarp lotyniško-
     sios Vidurio ir bizantinės Rytų Europos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

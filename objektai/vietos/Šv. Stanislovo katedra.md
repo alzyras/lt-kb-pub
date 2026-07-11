@@ -35,16 +35,6 @@ Stanislovo katedrą.
 - t-001
   global_id: t-86319
   teiginys: "Šv. Stanislovo katedroje Vilniaus vyskupas Vaitiekus Taboras sutuokė didįjį kunigaikštį Aleksandrą su Elena."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "467430-467851; hash=17dce260f34f777b0e355d3de9d1f395b09d5065cc031ba13246033c119be3f5; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aleksandras: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Šv. Stanislovo katedra: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Aleksandras: mention_match, person, gap=88"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šv. Stanislovo katedra\" parinktas kaip owner_note_path. Targetas \"Aleksandras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-82298
 - susijęs iš [[objektai/ivykiai/Lietuvos krikštas Vilniuje (1387 m.).md#claim-t-54447|Lietuvos krikštas Vilniuje (1387 m.)]]: Krikšto metu buvo užgesinta amžinoji ugnis, iškirstos šventos girios, sugriauta Perkūno šventykla ir pradėta statyti Šv. Stanislovo katedra.
@@ -64,8 +54,8 @@ Stanislovo katedrą.
     tienė Rapolovska laikė vainiką, o djakas Kulešinas - stik­
     linę vyno42.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

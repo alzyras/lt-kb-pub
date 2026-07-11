@@ -35,16 +35,6 @@ Iš čia ji tęsėsi vėl per dykrą tiesiai į Preivosto (Prawdzisken) šilus, 
 - t-001
   global_id: t-32365
   teiginys: "Siena per dykrą ėjo tiesia linija į Merūniškius ir Vystyčio ežerą, kuris liko Ordino pusėje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "978501-978862; hash=1e1a3c5263978e0ffa7c8e468a74d1c4db07e3523fcfa81e6ba0c5dcfe4c715b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Liepona: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Merūniškiai: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Liepona: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Merūniškiai\" parinktas kaip owner_note_path. Targetas \"Liepona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-33951
 - susijęs iš Preivosto šilai: Per dykrą einanti siena tiesėsi į Preivosto šilus, o iš ten - tiesia linija į Merūniškius ir Vystyčio ežerą.
@@ -67,8 +57,8 @@ Iš čia ji tęsėsi vėl per dykrą tiesiai į Preivosto (Prawdzisken) šilus, 
     visu Lieponos paupiu iki Širvintos upės ir šios krantu iki įtekėjimo
     Šešupėn.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

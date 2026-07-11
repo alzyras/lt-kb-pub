@@ -44,11 +44,6 @@ media_all_json: |-
 - t-002
   global_id: t-09681
   teiginys: "Kai bokšto gynėjų buvo gerokai mažiau, žmonės sušuko: „Vyrai, susikibkim rankom ir sudarykim grandinę, kad ir šaudys, visų neiššaudys!“."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1032921-1033071; hash=5bfc8fb348447e12f5f3604e6ba1ad81b7652268e158e498d23b9a6f72779998; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md::validation_repair"
-  vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-12492
 
@@ -56,12 +51,6 @@ media_all_json: |-
 - t-003
   global_id: t-193756
   teiginys: "Išgirdom, kaip žmonės sušuko: „Vyrai, susikibkim rankom ir sudarykim grandinę, kad ir šaudys, visų neiššaudys!“."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1032959-1033101; hash=7c240856507e92c7cbef07d84c6edc7e809a119fbb3147782d6c38fad07984fb; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176415
 ## Reikšmingi paminėjimai
@@ -74,8 +63,8 @@ media_all_json: |-
     gynėjų buvo žymiai mažiau. Išgirdom, kaip žmonės sušuko: „Vyrai, susikibkim rankom
     ir sudarykim grandinę, kad ir šaudys, visų neiššaudys!“.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -88,8 +77,8 @@ media_all_json: |-
     Išgirdom, kaip žmonės sušuko: „Vyrai, susikibkim rankom
     ir sudarykim grandinę, kad ir šaudys, visų neiššaudys!“. Tada vyrai sustojo ant kelio.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

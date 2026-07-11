@@ -61,17 +61,6 @@ Andrius Algirdaitis šaltinyje įvardijamas kaip Algirdo ir Julijonos sūnus, Jo
 - t-001
   global_id: t-54943
   teiginys: "Andrius Algirdaitis buvo Jogailos įbrolis, Kęstučiui palankus Polocko kunigaikštis."
-  semantiniai_rysiai: "Andrius Algirdaitis valdė miestą Polockas (0.63)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "97609-98137; hash=36fc3bcb6fffa06ac0cbabe353f01bca015929f3687dfb38f433ad31f4d7985e; match=whitespace_regex"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  ryšio_patikimumas: "valde_miesta -> Polockas: 0.63"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Andrius Algirdaitis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Polockas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Andrius įvardijamas Polocko kunigaikščiu; tai pagrindžia valdymo ryšį su Polocku tik vidutiniu tikslumu."
   pagrindžia:
     - c-55314
     - c-78714
@@ -80,17 +69,6 @@ Andrius Algirdaitis šaltinyje įvardijamas kaip Algirdo ir Julijonos sūnus, Jo
 - t-002
   global_id: t-54944
   teiginys: "Andrius Algirdaitis buvo Polocko kunigaikštis, Algirdo sūnus iš antrosios santuokos su Vitebsko kunigaikštyte Julijona."
-  semantiniai_rysiai: "Andrius Algirdaitis buvo sūnus Algirdas (Lietuvos valdovas) (0.97); Andrius Algirdaitis rėmė Kęstutis (vakarų pasienio valdovas, XIV–XV a.) (0.77); Andrius Algirdaitis valdė miestą Polockas (0.68)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "99005-100009; hash=f9d0ea0f4b047faa33a26129f7a58eccba57f5c0a68628bf33d7a6b8798ee8a4; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  ryšio_patikimumas: "buvo_sunus -> Algirdas (Lietuvos valdovas): 0.97"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Andrius Algirdaitis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Andrius buvo Algirdo sūnus."
   pagrindžia:
     - c-78714
 
@@ -98,19 +76,6 @@ Andrius Algirdaitis šaltinyje įvardijamas kaip Algirdo ir Julijonos sūnus, Jo
 - t-003
   global_id: t-54945
   teiginys: "Andrius Algirdaitis buvo Dmitrijaus Doniškio bendražygis ir prisidėjo prie 1380 m. rugsėjo 8 d. pergalės Kulikovo lauke."
-  temporaliniai_duomenys: "įvykio data: 1380 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "99005-100009; hash=f9d0ea0f4b047faa33a26129f7a58eccba57f5c0a68628bf33d7a6b8798ee8a4; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Andrius Algirdaitis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person, gap=8"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Andrius Algirdaitis\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-78714
 
@@ -118,19 +83,6 @@ Andrius Algirdaitis šaltinyje įvardijamas kaip Algirdo ir Julijonos sūnus, Jo
 - t-004
   global_id: t-54946
   teiginys: "Andrius, Algirdo sūnus, skiriamas nuo išgalvoto Andriaus Vaidoto; jis žuvo prie Vorsklos 1399 m."
-  semantiniai_rysiai: "Andrius Algirdaitis mirė Vorskla (0.93)"
-  temporaliniai_duomenys: "įvykio data: 1399 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "100197-100778; hash=6b47882142918ec91ef239cae83999882226b6946057c38db2ca474835206b80; match=whitespace_regex"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  ryšio_patikimumas: "mire -> Vorskla: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Andrius Algirdaitis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vorskla: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Andriaus žuvimo vietą prie Vorsklos."
   pagrindžia:
     - c-55316
 
@@ -138,17 +90,6 @@ Andrius Algirdaitis šaltinyje įvardijamas kaip Algirdo ir Julijonos sūnus, Jo
 - t-006
   global_id: t-82220
   teiginys: "Andrius Algirdaitis buvo Dmitrijaus Doniškio bendražygis ir kovėsi su juo prieš totorius Kulikovo mūšyje."
-  semantiniai_rysiai: "Andrius Algirdaitis kariavo prieš Totoriai (0.92)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "99005-100009; hash=f9d0ea0f4b047faa33a26129f7a58eccba57f5c0a68628bf33d7a6b8798ee8a4; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  ryšio_patikimumas: "kariavo_pries -> Totoriai: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Andrius Algirdaitis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Totoriai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Andrius kovėsi prieš totorius."
   pagrindžia:
     - c-78714
 
@@ -156,17 +97,6 @@ Andrius Algirdaitis šaltinyje įvardijamas kaip Algirdo ir Julijonos sūnus, Jo
 - t-005
   global_id: t-82221
   teiginys: "Andrius Algirdaitis buvo Jogailai pavaldus Polocko kunigaikštis, linkęs į Kęstučio pusę."
-  semantiniai_rysiai: "Andrius Algirdaitis rėmė Kęstutis (vakarų pasienio valdovas, XIV–XV a.) (0.77); Andrius Algirdaitis valdė miestą Polockas (0.68)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "98888-99389; hash=06848176cd77ff8caadd145c9248016b204f7e40f17409c75f183acf41f23cc9; match=whitespace_regex"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  ryšio_patikimumas: "reme -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.77"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Andrius Algirdaitis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Andrius buvo linkęs į Kęstučio pusę."
   pagrindžia:
     - c-78715
 
@@ -174,12 +104,6 @@ Andrius Algirdaitis šaltinyje įvardijamas kaip Algirdo ir Julijonos sūnus, Jo
 - t-007
   global_id: t-193894
   teiginys: "4 4 Iki 1377 m. Imtinai Polockas buvo valdomas ne Kęstučio sūnaus, o Algirdo sūnaus Andriaus, kuris po tėvo mirties 1378 m. Iš Polocko persikėlė | Pskovą, Didįjį Naugardą Ir Maskvą, stengda masis suorganizuoti nedraugiškų Lietuvai valstybių koaliciją ir su."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "418352-418649; hash=c142d830d4ac6e3a9fe9c3ac6216ef0b48a9df52e8f1bc99af1f018bf921a4b4; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176519
 - susijęs iš [[objektai/asmenys/Andrius Algirdaitis Polockietis.md#claim-t-183726|Andrius Algirdaitis Polockietis]]: Andrius Algirdaitis Polockietis buvo vienas iš žymių Lietuvos kunigaikščių, žuvusių mūšyje.
@@ -212,8 +136,8 @@ Andrius Algirdaitis šaltinyje įvardijamas kaip Algirdo ir Julijonos sūnus, Jo
     driaus Algirdaičio vietoje į Polocko kunigaikštystę pasiuntė
     tikrą brolį Skirgailą, buvo prieita iki atviro susirėmimo30.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -240,8 +164,8 @@ Andrius Algirdaitis šaltinyje įvardijamas kaip Algirdo ir Julijonos sūnus, Jo
     tas. Andrius žuvo prie Vorsklos 1399
     metais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -281,8 +205,8 @@ Andrius Algirdaitis šaltinyje įvardijamas kaip Algirdo ir Julijonos sūnus, Jo
     rugpjūčio viduryje su stipriu žemaičių raitelių pulku apsupo
     Vilnių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -312,8 +236,8 @@ Andrius Algirdaitis šaltinyje įvardijamas kaip Algirdo ir Julijonos sūnus, Jo
     jos magistru, kad anas padėtų jam
     vykdyti tuos kėslus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -329,8 +253,8 @@ Andrius Algirdaitis šaltinyje įvardijamas kaip Algirdo ir Julijonos sūnus, Jo
     masis suorganizuoti nedraugiškų Lietuvai valstybių koaliciją ir su
     jos pagalba užimti Lietuvos sostą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -480,9 +404,6 @@ Andrius Algirdaitis šaltinyje įvardijamas kaip Algirdo ir Julijonos sūnus, Jo
 
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- Andrius Algirdaitis valdė [[objektai/vietos/Polockas]]
 - Andrius Algirdaitis mirė [[objektai/vietos/Vorskla]]
-- Andrius Algirdaitis surengė žygį į [[objektai/vietos/Maskva]]
 - Andrius Algirdaitis kariavo prieš [[objektai/grupes/Totoriai]]
 - Andrius Algirdaitis dalyvavo mūšyje [[objektai/ivykiai/Kulikovo mūšis (1380 m. rugsėjo 8 d.)]]
-- Andrius Algirdaitis rėmė [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]

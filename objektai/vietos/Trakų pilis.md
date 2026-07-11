@@ -46,17 +46,6 @@ Trakų pilis.
 - t-008
   global_id: t-95314
   teiginys: "Skirgaila pasirinko Trakų pilį nuolatine buveine ir iš jos vykdavo į mūšius ar malšinti maištaujančių kunigaikščių."
-  semantiniai_rysiai: "Skirgaila gyveno Trakų pilis (pilis) (0.93); Skirgaila kariavo prieš Kryžiuočių ordinas (0.82)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "251769-252102; hash=cd06f7a9aa4e6a1f0824f55e32ffed68666b8486666747c53e03aad64f4172c8; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Trakų pilis (pilis): 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Skirgaila: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Trakų pilis (pilis): llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Trakų pilis tiesiogiai įvardyta kaip Skirgailos nuolatinė buveinė."
   pagrindžia:
     - c-90245
 
@@ -64,16 +53,6 @@ Trakų pilis.
 - t-003
   global_id: t-95316
   teiginys: "Iš Kreivosios pilies vienas pagrindinių kelių vedė vakarų link, į Trakų pilį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "733274-733593; hash=bd6b7a6051001be63113036f9e3d2199988c58bd16cc3dfe9a2c75a685967702; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Trakai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Trakų pilis (pilis): owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Trakai: mention_match, place, gap=52"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakų pilis (pilis)\" parinktas kaip owner_note_path. Targetas \"Trakai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-90247
 
@@ -81,17 +60,6 @@ Trakų pilis.
 - t-005
   global_id: t-95317
   teiginys: "Skirgaila nuolatine buveine pasirinko Trakų pilį ir išvykdavo tik į karo žygius."
-  semantiniai_rysiai: "Skirgaila gyveno Trakų pilis (pilis) (0.93); Skirgaila kariavo prieš Kryžiuočių ordinas (0.82)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "251862-252407; hash=bda77150df42c41e7868a252e0b0c2ee0bb687a5597cf95586f4d3249379f214; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Trakų pilis (pilis): 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Skirgaila: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Trakų pilis (pilis): llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Trakų pilis aiškiai įvardyta kaip nuolatinė Skirgailos buveinė."
   pagrindžia:
     - c-90250
 
@@ -99,16 +67,6 @@ Trakų pilis.
 - t-006
   global_id: t-95318
   teiginys: "Iš Kreivosios pilies vienas pagrindinių kelių vedė vakarų link į Trakų pilį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "733274-733593; hash=bd6b7a6051001be63113036f9e3d2199988c58bd16cc3dfe9a2c75a685967702; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Trakai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Trakų pilis (pilis): owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Trakai: mention_match, place, gap=51"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakų pilis (pilis)\" parinktas kaip owner_note_path. Targetas \"Trakai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-90247
 
@@ -116,20 +74,6 @@ Trakų pilis.
 - t-009
   global_id: t-95319
   teiginys: "Vokiečiai buvo išmėginę patrankas imdami Trakų pilį, o 1384 m. Jogaila jas nukreipė prieš Ordiną prie Marienverderio."
-  semantiniai_rysiai: "Jogaila (kunigaikštis, XIV–XV a.) kariavo prieš Kryžiuočių ordinas (0.80)"
-  temporaliniai_duomenys: "įvykio data: 1382 m.; įvykio data: 1384 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Ilgas sakinys sutrumpintas ir išvalytas nuo OCR triukšmo."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "630379-630795; hash=f612270f0fd8f41cf834c798007ec0ed45889bdde5af044aee58ebbbf9a1c786; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Kryžiuočių ordinas: 0.80"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Jogaila patrankas nukreipė prieš Ordiną mūšio kontekste."
   pagrindžia:
     - c-90244
 
@@ -137,20 +81,6 @@ Trakų pilis.
 - t-001
   global_id: t-95320
   teiginys: "Ordino patrankos buvo išmėgintos imant Trakų pilį, o 1384 m. Jogaila jas panaudojo prieš Ordiną prie Marienverderio."
-  semantiniai_rysiai: "Jogaila (kunigaikštis, XIV–XV a.) kariavo prieš Kryžiuočių ordinas (0.90); Kryžiuočių ordinas užėmė Trakų pilis (pilis) (0.78)"
-  temporaliniai_duomenys: "įvykio data: 1382 m.; įvykio data: 1384 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra faktinis, aiškus ir paremtas citata apie Trakų pilį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "630454-630863; hash=d728353fdf8ac9f0d226d1c2b9175169ebe743df1bf52b153e13ba8a1cb37c90; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Kryžiuočių ordinas: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Jogaila nukreipė patrankas prieš Ordiną."
   pagrindžia:
     - c-37767
 
@@ -158,19 +88,6 @@ Trakų pilis.
 - t-002
   global_id: t-95321
   teiginys: "Jogaila gavo iš Ordino maršalkos Kuno von Hattenšteino patrankų, anksčiau vokiečių išmėgintų imant Trakų pilį."
-  temporaliniai_duomenys: "įvykio data: 1382 m.; įvykio data: 1384 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra išbaigtas ir tiesiogiai pagrįstas pateikta citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "630454-630863; hash=d728353fdf8ac9f0d226d1c2b9175169ebe743df1bf52b153e13ba8a1cb37c90; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Trakai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Trakų pilis (pilis): owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Trakai: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trakų pilis (pilis)\" parinktas kaip owner_note_path. Targetas \"Trakai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-37767
 
@@ -178,20 +95,6 @@ Trakų pilis.
 - t-008
   global_id: t-188843
   teiginys: "Senojoje Trakų pilyje virš didžiųjų vartų anksčiau buvo akmenyje iškaltas kryžius skyde."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Kryžius priklausė Trakų pilis (pilis) (0.82)"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "733274-733593; hash=bd6b7a6051001be63113036f9e3d2199988c58bd16cc3dfe9a2c75a685967702; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Trakų pilis (pilis): 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžius: llm_allowed_candidate, thing"
-  ryšio_targeto_parinkimas: "Trakų pilis (pilis): llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Kryžius aiškiai lokalizuotas senojoje Trakų pilyje."
   pagrindžia:
     - c-171732
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179020|Kryžiuočių ordinas]]: Mūšis ties Rudamina ir Vilniaus pilių atsilaikymas pastūmėjo kryžiuočius derėtis su Algirdu ir Kęstučiu.
@@ -216,8 +119,8 @@ Trakų pilis.
     Marienverderio nukreipė jas prieš patį Ordiną. Vytautas savo
     karuose taip pat naudojo parako ginklus ir patrankas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -236,8 +139,8 @@ Trakų pilis.
     čių išmėgintos imant Trakų pilį, o Jogaila 1384 m. mūšyje prie
     Marienverderio nukreipė jas prieš patį Ordiną.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -256,8 +159,8 @@ Trakų pilis.
     Baltojoje Rusioje maištaujančiais įvairių valdų kunigaikš­
     čiais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -290,8 +193,8 @@ Trakų pilis.
     nios upę, prie bendro naudojimo malūno (dabar vadinamo
     Vyskupo), iš miesto suko į Polocką.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -315,8 +218,8 @@ Trakų pilis.
     censis, bet niekur nėra Dux Lithua-
     niae.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -334,8 +237,8 @@ Trakų pilis.
     niaus universiteto narių; mačiau su piešiniais, kuriuos darė asmuo,
     suteikęs mums tą žinią.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -469,7 +372,8 @@ Trakų pilis.
 - id: c-171732
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 407"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 407."
   citata_originali: |
     MITOLOGIJOS PABAIGA. 13
     13
@@ -486,6 +390,4 @@ Trakų pilis.
     - t-188843
 
 ## Ryšiai
-- Užėmė Trakų pilį (pilis): [[objektai/grupes/Kryžiuočių ordinas]]
 - Gyvenamoji vieta: [[objektai/asmenys/Skirgaila]]
-- Turėjo priklausinį: [[objektai/daiktai/Kryžius]]

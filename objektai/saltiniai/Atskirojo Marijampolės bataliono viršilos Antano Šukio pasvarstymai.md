@@ -32,17 +32,6 @@ APŠAUDYMAS ŠRAPNELE Viršila Antanas Šukys pasakoja apie lenkų | artilerijos
 - t-001
   global_id: t-41503
   teiginys: "6-ojo pėstininkų pulko 1-ojo bataliono viršila Antanas Šukys pasakojo apie savo kuopos kontrataką prieš lenkų pajėgas tarp Seinų ir Gibų."
-  semantiniai_rysiai: "Antanas Šukys kariavo prieš Lenkai (0.68)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "814823-815347; hash=89d330556baf1468bb32c52b38923520ade307b39fe66cbcafff3e1f73b2d254; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Lenkai: 0.68"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Antanas Šukys: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lenkai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Teiginys sieja Antano Šukio vadovaujamą kuopą su kontrataka prieš lenkų pajėgas; subjektas išvedamas per jo kuopą."
   pagrindžia:
     - c-44987
 ## Reikšmingi paminėjimai
@@ -74,8 +63,8 @@ APŠAUDYMAS ŠRAPNELE Viršila Antanas Šukys pasakoja apie lenkų | artilerijos
     6-ojo pėstininkų pulko 1-ojo bataliono viršila Antanas Šukys pasakoja, kaip jo va-
     dovaujama kuopa kontratakavo puolančias lenkų pajėgas ruože tarp Seinų ir Gibų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

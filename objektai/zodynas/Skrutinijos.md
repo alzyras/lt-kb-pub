@@ -36,21 +36,6 @@ Narbutas skrutinijomis vadina tardymus senuosiuose Lietuvos teismuose, kurių me
 - t-001
   global_id: t-189332
   teiginys: "Narbutas skrutinijomis vadina tardymus senuosiuose Lietuvos teismuose, kurių metu liudytojai prisiekdavo."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "562907-563417; hash=1eb13a29978604993a895a50812759bf5b47beabc3c443aa4cd29c92cae68017; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Skrutinijos: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=42"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Skrutinijos\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172219
 ## Reikšmingi paminėjimai
@@ -69,8 +54,8 @@ Narbutas skrutinijomis vadina tardymus senuosiuose Lietuvos teismuose, kurių me
     kėjimo, dėjo kepures (pokladali szapki)“. Tai buvo senovinis 17
     17 Lieflandische Geschichte (1757 metų leidimas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -81,7 +66,8 @@ Narbutas skrutinijomis vadina tardymus senuosiuose Lietuvos teismuose, kurių me
 - id: c-172219
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 320"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 320."
   citata_originali: |
     Arntas (Arndt) 17 pa-
     teilcia priesaiką su užkeikimu, kurios reikalauta iš latvių kai­

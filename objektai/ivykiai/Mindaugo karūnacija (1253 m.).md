@@ -67,20 +67,6 @@ Mindaugas patraukė į savo pusę Livonijos ordino magistrą Andrių Štirlandą
 - t-001
   global_id: t-13489
   teiginys: "1251 m. pavasarį arba vasaros pradžioje Mindaugas per Andrių Štirlandą išsirūpino sau ir žmonai Mortai krikštą, o sau – karaliaus karūną."
-  semantiniai_rysiai: "Mindaugas (valdovas, XIII a.) buvo vyras Morta (0.95); Morta buvo žmona Mindaugas (valdovas, XIII a.) (0.95)"
-  temporaliniai_duomenys: "įvykio data: 1248 m.; įvykio data: 1251 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas, faktinis ir paremtas citatoje nurodyta informacija."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "45920-46457; hash=f2beac14e7312de3e5d4bbc57834df5ad30d20bf16c994c32a8ed2809f7cf65e; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_vyras -> Morta: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Mindaugas (valdovas, XIII a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Morta: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Teiginyje Morta tiesiogiai įvardyta kaip Mindaugo žmona."
   pagrindžia:
     - c-16376
 
@@ -88,21 +74,6 @@ Mindaugas patraukė į savo pusę Livonijos ordino magistrą Andrių Štirlandą
 - t-002
   global_id: t-13490
   teiginys: "1251 m. Mindaugas krikštijosi perleidęs didelę dalį Žemaitijos Livonijos ordinui, o 1253 m. liepos 6 d. pasiekė karūnos tikslą."
-  temporaliniai_duomenys: "įvykio data: 1251 m.; įvykio data: 1253 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Reikia aiškiau susieti krikštą su karūnacijos rezultatu."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "46459-46802; hash=dc1cd866eac396b43de8eeb4f1ec6f58946f193a69a8dc264e6db1bd5f2e1dcd; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Karūna: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mindaugo karūnacija (1253 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Karūna: mention_match, thing, gap=104"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mindaugo karūnacija (1253 m.)\" parinktas kaip owner_note_path. Targetas \"Karūna\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-16377
 
@@ -110,18 +81,6 @@ Mindaugas patraukė į savo pusę Livonijos ordino magistrą Andrių Štirlandą
 - t-003
   global_id: t-24563
   teiginys: "Karūnos tikslas buvo pasiektas 1253 m. liepos 6 d., o Mindaugas įvardijamas kaip pirmas ir vienintelis vainikuotas Lietuvos karalius."
-  temporaliniai_duomenys: "valdymo laikotarpis: 1251 m.; valdymo laikotarpis: 1253 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Mindaugas (valdovas, XIII a.) buvo valdovas Lietuva“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "46459-46802; hash=dc1cd866eac396b43de8eeb4f1ec6f58946f193a69a8dc264e6db1bd5f2e1dcd; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mindaugo karūnacija (1253 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=61"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mindaugo karūnacija (1253 m.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-16377
 
@@ -129,16 +88,6 @@ Mindaugas patraukė į savo pusę Livonijos ordino magistrą Andrių Štirlandą
 - t-004
   global_id: t-24564
   teiginys: "Mindaugo vainikavimas šaltinyje aiškinamas kaip valstybės susikūrimo užbaigimas, nes Lietuvą pripažino to meto pasaulis."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "46916-48908; hash=334744bec098a750944fed6fd24ecc24548e5b11ce0778046302fb2e718c4325; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mindaugo karūnacija (1253 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=85"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mindaugo karūnacija (1253 m.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-16380
 
@@ -146,16 +95,6 @@ Mindaugas patraukė į savo pusę Livonijos ordino magistrą Andrių Štirlandą
 - t-005
   global_id: t-26855
   teiginys: "Mindaugas po karūnacijos tapo popiežiaus, o ne imperatoriaus vasalu ir gavo teisę į savarankišką, tiesiai popiežiui pavaldžią vyskupiją."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "46916-48908; hash=334744bec098a750944fed6fd24ecc24548e5b11ce0778046302fb2e718c4325; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Mindaugas (valdovas, XIII a.): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mindaugo karūnacija (1253 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Mindaugas (valdovas, XIII a.): mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mindaugo karūnacija (1253 m.)\" parinktas kaip owner_note_path. Targetas \"Mindaugas (valdovas, XIII a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-16380
 
@@ -163,16 +102,6 @@ Mindaugas patraukė į savo pusę Livonijos ordino magistrą Andrių Štirlandą
 - t-006
   global_id: t-26856
   teiginys: "Mindaugo pasiekti diplomatiniai laimėjimai šaltinyje vadinami pirma tarptautine Lietuvos diplomatijos pergale."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "46916-48908; hash=334744bec098a750944fed6fd24ecc24548e5b11ce0778046302fb2e718c4325; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mindaugo karūnacija (1253 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=80"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mindaugo karūnacija (1253 m.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-16380
 
@@ -180,21 +109,6 @@ Mindaugas patraukė į savo pusę Livonijos ordino magistrą Andrių Štirlandą
 - t-007
   global_id: t-26857
   teiginys: "A. Varnas 1952–1953 m. sukūrė darbą „Mindaugo vainikavimas. Mindaugo karūnacija“."
-  temporaliniai_duomenys: "įvykio data: 1952-1953; įvykio data: 1953 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata yra iliustracijos antraštė, todėl teiginys perrašytas į pilną sakinį apie autorių ir kūrinį."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "46803-46878; hash=971f8595b638b213e710f81f7e3c2541ce0c593db1b0a8b487aaf3afd6e8854a; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Mindaugas (valdovas, XIII a.): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mindaugo karūnacija (1253 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Mindaugas (valdovas, XIII a.): mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mindaugo karūnacija (1253 m.)\" parinktas kaip owner_note_path. Targetas \"Mindaugas (valdovas, XIII a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-13T14:30:30Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-25426
 - susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113908|Mindaugas (valdovas, XIII a.)]]: 1251 m. Mindaugas krikštijosi, mainais perleidęs didelę dalį Žemaitijos Livonijos ordinui.
@@ -218,8 +132,8 @@ Mindaugas patraukė į savo pusę Livonijos ordino magistrą Andrių Štirlandą
     vasaros pradžioje) Mindaugas išsirūpino sau ir žmonai Mortai krikštą, o
     sau – karaliaus karūną.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -234,8 +148,8 @@ Mindaugas patraukė į savo pusę Livonijos ordino magistrą Andrių Štirlandą
     dienai priklauso garbinga vieta mūsų kalendoriuje: juk Mindaugas – pir-
     mas ir vienintelis vainikuotas Lietuvos karalius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -274,8 +188,8 @@ Mindaugas patraukė į savo pusę Livonijos ordino magistrą Andrių Štirlandą
     kreipti įvykius sau naudinga linkme. Net savo priešų Mindaugas buvo
     vadinamas išmintinguoju.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -291,8 +205,8 @@ Mindaugas patraukė į savo pusę Livonijos ordino magistrą Andrių Štirlandą
     Mindaugo karūnacija.
     Dail. A. Varnas, 1952–1953 m.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -51,16 +51,6 @@ Nenurodyta
 - t-003
   global_id: t-19546
   teiginys: "Į Maskvą keliaudavo kyšiai, apibūdinti kaip lagaminai rūkytų dešrų ir kumpių."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "446031-446872; hash=284e26980555ef03b40b22003d7fe641a02410ad14a5049676a8afa5695d52ab; match=exact"
-  sprendimo_priezastis: "gap::items"
-  ryšio_patikimumas: "susije_su -> Leningradas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lagaminai rūkytų dešrų ir kumpių: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Leningradas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lagaminai rūkytų dešrų ir kumpių\" parinktas kaip owner_note_path. Targetas \"Leningradas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-22257
 ## Reikšmingi paminėjimai
@@ -82,8 +72,8 @@ Nenurodyta
     visiškai išvagiamos ir naujos įmonės paleidžiamos daugiau ar mažiau
     laiku.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

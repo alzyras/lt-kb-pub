@@ -43,19 +43,6 @@ Lietuvoje taip ir nebuvo įsteigtos šį modelį papildančios vietos savivaldos
 - t-001
   global_id: t-77810
   teiginys: "Lietuvoje nebuvo įsteigtos zemstvos, Rusijoje nuo 1864 m. veikusios vietos savivaldos institucijos."
-  temporaliniai_duomenys: "įvykio data: po 1864 m.; įvykio data: 1864 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "237821-238869; hash=1e06b3b5b77185d85c395f8cafa0e5e6b118a7fbd4c2be19bad6a8484e174037; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Rusija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "zemstvos: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Rusija: mention_match, place, gap=10"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"zemstvos\" parinktas kaip owner_note_path. Targetas \"Rusija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-75135
 ## Reikšmingi paminėjimai
@@ -80,8 +67,8 @@ Lietuvoje taip ir nebuvo įsteigtos šį modelį papildančios vietos savivaldos
     Suvalkija (mat didžioji jos dalis priklausė Suvalkų gubernijai). Tačiau Len-
     kijos karalystės autonomijai Dūma nepritarė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

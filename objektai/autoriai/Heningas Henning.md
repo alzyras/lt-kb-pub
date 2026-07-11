@@ -39,21 +39,6 @@ Heningas Henningas darė prielaidą, kad visi sūduviai buvo jotvingiai, tačiau
 - t-001
   global_id: t-191596
   teiginys: "Heningas Henningas darė prielaidą, kad visi sūduviai buvo jotvingiai, tačiau Teodoras Narbutas su tokia išvada nesutiko."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "242601-243287; hash=12a4bafdc07914ebbe789749bea57d5e67dd65a52452db371cc78dcd7fa2b681; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jotvingiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Heningas Henning: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Jotvingiai: mention_match, group, gap=58"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Heningas Henning\" parinktas kaip owner_note_path. Targetas \"Jotvingiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174478
 ## Reikšmingi paminėjimai
@@ -76,8 +61,8 @@ Heningas Henningas darė prielaidą, kad visi sūduviai buvo jotvingiai, tačiau
     sikrikštijo ir pagaliau davė savo vardą vienam ežerui,
     esančiam netoli Ario miesto.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -88,7 +73,8 @@ Heningas Henningas darė prielaidą, kad visi sūduviai buvo jotvingiai, tačiau
 - id: c-174478
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 135"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 135."
   citata_originali: |
     Galbūt jie ir buvo likučiai išvestų jot­
     vingių, kurių palikuonis Strijkovskis pastebėdavo prie

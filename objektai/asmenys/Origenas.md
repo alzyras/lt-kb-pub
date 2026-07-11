@@ -30,21 +30,6 @@ Narbutas Origeno aštuntąją knygą pasitelkia Celsui priskirtai minčiai apie 
 - t-001
   global_id: t-190193
   teiginys: "Narbutas Origeno aštuntąją knygą pasitelkia Celsui priskirtai minčiai apie amžinas bausmes po mirties ir paslapčių žynius."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "332866-333662; hash=35f7179e80aca6b31c809e7e9c67f46b364a69fcd71fac94d8ce8a8ccbcfd9d0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Celsas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Origenas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Celsas: mention_match, author, gap=35"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Origenas\" parinktas kaip owner_note_path. Targetas \"Celsas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173076
 ## Reikšmingi paminėjimai
@@ -71,8 +56,8 @@ Narbutas Origeno aštuntąją knygą pasitelkia Celsui priskirtai minčiai apie 
     patikimiems ir prisiekusiems amžinai tylėti, taip pat aklai klau­
     santiems paslaptingų statutų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

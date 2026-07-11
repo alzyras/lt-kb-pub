@@ -59,18 +59,6 @@ Nenurodyta
 - t-001
   global_id: t-50802
   teiginys: "1414 m. Konstancijos susirinkimas suteikė Lietuvai progą Vakarų Europai parodyti vykdomą krikšto darbą."
-  temporaliniai_duomenys: "įvykio data: 1414 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "276460-277230; hash=eff3efc10fb1d2bc1699dd982e35cb9cdd395ce31c3fe691518076cc45e46cad; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Europa: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Konstancijos susirinkimas (1414–1418 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=56"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Konstancijos susirinkimas (1414–1418 m.)\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-37010
 
@@ -78,16 +66,6 @@ Nenurodyta
 - t-003
   global_id: t-50803
   teiginys: "Konstancijos susirinkimas nusprendė pasiųsti vyskupus Žemaičių vyskupijai įkurti."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "281569-282461; hash=1b65d12faafce2eb8cafada807cee07e1a6d16808260eec1df45ea39e13639fb; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Konstancija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Konstancijos susirinkimas (1414–1418 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Konstancija: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Konstancijos susirinkimas (1414–1418 m.)\" parinktas kaip owner_note_path. Targetas \"Konstancija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-37013
 
@@ -95,19 +73,6 @@ Nenurodyta
 - t-002
   global_id: t-50804
   teiginys: "Vytautas į Konstancijos susirinkimą pasiuntė 60 žemaičių bajorų katalikų delegaciją kaip Lietuvos apsikrikštijimo įrodymą."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) siuntė į Konstancijos susirinkimas (1414–1418 m.) (0.89)"
-  temporaliniai_duomenys: "įvykio data: 1415 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "280813-281568; hash=049d2938c8f7b0211749de2c0bb5542c6d9980ec48fc57640ceb7a982a4280f6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "siunte_i -> Konstancijos susirinkimas (1414–1418 m.): 0.89"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Konstancijos susirinkimas (1414–1418 m.): llm_allowed_candidate, event"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Vytautas pasiuntė delegaciją susirinkimui."
   pagrindžia:
     - c-37012
 - susijęs iš [[objektai/asmenys/Aleksandras (Moldavijos valdovas).md#claim-t-35009|Aleksandras (Moldavijos valdovas)]]: Moldavijos valdovas Aleksandras buvo Vytauto remiamas prieš turkus.
@@ -136,8 +101,8 @@ Nenurodyta
     ropos parlamentą, kurį sudarė krikščioniškųjų Europos tautų
     dvasininkai ir pasauliniai atstovai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -160,8 +125,8 @@ Nenurodyta
     pasiųsti vyskupą įkurti vyskupijai ir sutvarkyti visus bažnyti­
     nius reikalus^2 ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -186,8 +151,8 @@ Nenurodyta
     mus: įkurti Žemaičių vyskupiją, įšventinti vyskupą, pašvęsti
     katedrą, paskirti kapitulą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -274,6 +239,3 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-50803
-
-## Ryšiai
-- Buvo siuntimo vieta: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

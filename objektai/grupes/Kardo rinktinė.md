@@ -45,19 +45,6 @@ Kairėje ŽEMAIČIŲ APYGARDOS Kardo rinktinės vadas Kazimieras Kontrimas-Tėva
 - t-001
   global_id: t-38962
   teiginys: "1949 m. Kazimieras Kontrimas-Tėvas vadovavo Žemaičių apygardos Kardo rinktinei."
-  temporaliniai_duomenys: "įvykio data: 1943 m.; įvykio data: po 1945 m.; įvykio data: 1945 m.; įvykio data: 1949 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data."
-  temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatoje nurodytą Kardo rinktinės vadovybę 1949 m."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "964583-965090; hash=79efd07ff4150a9e92b5a79c4b9256265ddc18320367fb7b8ccdb207a2b14255; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kardas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kardo rinktinė: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Kardas: mention_match, thing, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kardo rinktinė\" parinktas kaip owner_note_path. Targetas \"Kardas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-40766
 ## Reikšmingi paminėjimai
@@ -74,8 +61,8 @@ Kairėje ŽEMAIČIŲ APYGARDOS Kardo rinktinės vadas Kazimieras Kontrimas-Tėva
     toju, 1949 m. šiai rinktinei vadovavo (vėliau kurį laiką buvo iš šių pareigų
     pasitraukęs).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

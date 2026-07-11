@@ -57,18 +57,6 @@ Nenurodyta
 - t-001
   global_id: t-62885
   teiginys: "Vyteniui įsiveržus į Livoniją, Karaliaučiaus komtūras Bertoldas pasiuntė Henriko Cutsverto vadovaujamą kariuomenę į Lietuvą."
-  teiginio_tipas: "saltinio_teiginys"
-  semantiniai_rysiai: "Vytenis surengė žygį į Livonija (0.91)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "598311-599130; hash=e49cf284986d4467e01a3bd697bd6952dc884a938d6fcc1737aa3cf7818ab828; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "surenge_zygi_i -> Livonija: 0.91"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytenis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Livonija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Vytenis su lietuviais įsibrovė į Livonijos žemę."
   pagrindžia:
     - c-63737
 
@@ -76,18 +64,6 @@ Nenurodyta
 - t-002
   global_id: t-62886
   teiginys: "Henrikas Cutsvertas puolė Gardino pilį, bet dėl stipraus pilėnų pasipriešinimo ir sužeistų krikščionių pasitraukė nepasiekęs tikslo."
-  teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Henrikas Cutsvertas puolė Gardinas (0.94)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "598513-599354; hash=a7cd9a02eb922ae55c36638f7d6def3782d4f4bda4c72302a154880f5f61b03c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Gardinas: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Henrikas Cutsvertas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Gardinas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo, kad Henrikas Cutsvertas ketino ir bandė pulti Gardino pilį."
   pagrindžia:
     - c-63736
     - c-63737
@@ -96,18 +72,6 @@ Nenurodyta
 - t-001
   global_id: t-62885
   teiginys: "Vyteniui įsiveržus į Livoniją, Karaliaučiaus komtūras Bertoldas pasiuntė Henriko Cutsverto vadovaujamą kariuomenę į Lietuvą."
-  teiginio_tipas: "saltinio_teiginys"
-  semantiniai_rysiai: "Vytenis surengė žygį į Livonija (0.91)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "598311-599130; hash=e49cf284986d4467e01a3bd697bd6952dc884a938d6fcc1737aa3cf7818ab828; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "surenge_zygi_i -> Livonija: 0.91"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytenis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Livonija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Vytenis su lietuviais įsibrovė į Livonijos žemę."
   pagrindžia:
     - c-63737
 
@@ -115,12 +79,6 @@ Nenurodyta
 - t-004
   global_id: t-194411
   teiginys: "Dar apie tą patį Tais pačiais metais bei tuo laiku, kai karaliai paprastai traukia į karą, karalius Vytenis įsibrovė su didele galybe lietuvių į Livonijos žemę, ketindamas pradėti karą su broliais."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "598311-599130; hash=e49cf284986d4467e01a3bd697bd6952dc884a938d6fcc1737aa3cf7818ab828; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-63737
 ## Reikšmingi paminėjimai
@@ -145,8 +103,8 @@ Nenurodyta
       Po to lietuvių kariuomenė įsibrovė į Kulmo žemę ir Goliubo pilies549 apylinkėse apiplėšė
     penkis kaimus, paimdama į nelaisvę ar nužudydama daugybę krikščionių.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -167,8 +125,8 @@ Nenurodyta
     pilį, sutiko tokį stiprų pilėnų priešinimąsi gausiai svaidant [per crebra jacula], jog tada,
     kai daugybė krikščionių liko sunkiai sužeista, jis pasitraukė, nepasiekęs tikslo.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -182,7 +140,8 @@ Nenurodyta
 - id: c-63736
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 191"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 191."
   citata_originali: |
     Brolis Bertoldas, Karaliaučiaus komtūras, nuo seno didžiai troško sulaukti tokios progos,
     kai karalius bus iškeliavęs iš savo žemės,  ir ten nusigauti su brolių kariuomene; jis
@@ -210,7 +169,8 @@ Nenurodyta
 - id: c-63737
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 191"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 191."
   citata_originali: |
     Dar apie tą patį
 

@@ -37,21 +37,6 @@ Narbutas rašo, kad prie Druskininkų kaimo matė daugiau kaip margo dydžio sm�
 - t-001
   global_id: t-188933
   teiginys: "Narbutas rašo, kad prie Druskininkų kaimo matė daugiau kaip margo dydžio smėlio atidengtą pilkapyną, kurį kaimiečiai siejo su stabmeldystės laikais."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "663592-664267; hash=d4071ca97909b29b858135fb8e61c929412823e6c5bf6f75de8ac263ec504108; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Druskininkai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Druskininkų pilkapynas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Druskininkai: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Druskininkų pilkapynas\" parinktas kaip owner_note_path. Targetas \"Druskininkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171822
 
@@ -59,21 +44,6 @@ Narbutas rašo, kad prie Druskininkų kaimo matė daugiau kaip margo dydžio sm�
 - t-002
   global_id: t-188934
   teiginys: "Narbutas mini chemiko raštelį, kuriame teigta, kad 1819 metais Druskininkų vandenyje aptikta bromo, bet pats šios žinios nepatvirtino."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "664268-664845; hash=2a75672f58f082968bd84ef7038f2515e76ec7a8aa96bebe812d9722edc4d951; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Druskininkai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Druskininkų pilkapynas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Druskininkai: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Druskininkų pilkapynas\" parinktas kaip owner_note_path. Targetas \"Druskininkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171823
 ## Reikšmingi paminėjimai
@@ -95,8 +65,8 @@ Narbutas rašo, kad prie Druskininkų kaimo matė daugiau kaip margo dydžio sm�
     kią nors skeleto sandarą, bet pastebėjau, kad visi guli galvo­
     mis į vakarus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -118,8 +88,8 @@ Narbutas rašo, kad prie Druskininkų kaimo matė daugiau kaip margo dydžio sm�
     stanciją Druskininkų vandenyje. Bet nežinau, kas jis buvo ir ar tai
     teisybė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -130,7 +100,8 @@ Narbutas rašo, kad prie Druskininkų kaimo matė daugiau kaip margo dydžio sm�
 - id: c-171822
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 374"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 374."
   citata_originali: |
     Senoviniuose kapuose su kaulais randama me­
     talinių daiktų, amato įrankių, šarvų, šalmų, kalavijų, pinigų.
@@ -154,7 +125,8 @@ Narbutas rašo, kad prie Druskininkų kaimo matė daugiau kaip margo dydžio sm�
 - id: c-171823
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 374"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 374."
   citata_originali: |
     Kaulai tiek supuvę, kad neradau nė vienos svei­
     kos kaukolės; jos priklauso įvairaus amžiaus ir lyties asme­

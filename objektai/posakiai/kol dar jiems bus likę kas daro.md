@@ -34,16 +34,6 @@ Dusburgietis teigia, kad apie įvykius prieš šį karą Iš dievo malonės užk
 - t-001
   global_id: t-59117
   teiginys: "Užkariavę nadruvius, broliai nukreipė ginklus prieš skalvius, nes manė nieko nepasiekę, kol dar turėjo ką daryti."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "482983-483417; hash=5bb1ed2202654202e4a62620ee4fb44b0e6e6563bc9a94117e56da007f57dd52; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Ginklai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "kol dar jiems bus likę kas daro: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Ginklai: mention_match, thing, gap=50"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"kol dar jiems bus likę kas daro\" parinktas kaip owner_note_path. Targetas \"Ginklai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-59749
 ## Reikšmingi paminėjimai
@@ -65,8 +55,8 @@ Dusburgietis teigia, kad apie įvykius prieš šį karą Iš dievo malonės užk
 
       464  D. čia pats sau prieštarauja.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -77,7 +67,8 @@ Dusburgietis teigia, kad apie įvykius prieš šį karą Iš dievo malonės užk
 - id: c-59749
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 152"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 152."
   citata_originali: |
     Apie karą su skalviais. Apie įvykius prieš šį karą
 

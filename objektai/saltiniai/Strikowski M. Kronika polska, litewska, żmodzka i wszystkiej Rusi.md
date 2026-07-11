@@ -38,12 +38,6 @@ Dusburgietis teigia, kad strikowski M.
 - t-001
   global_id: t-61301
   teiginys: "M. Strikowskio „Kronika polska, litewska, żmodzka i wszystkiej Rusi“ išleista Karaliaučiuje 1582 m."
-  temporaliniai_duomenys: "įvykio data: 1582 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pateikia autorių, pavadinimą, leidimo vietą ir metus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "798378-798532; hash=930f8e09dd168f8678c4bdb4159751052ad8d8b54e7453c6c89547a840d79ba9; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-61933
 ## Reikšmingi paminėjimai
@@ -55,8 +49,8 @@ Dusburgietis teigia, kad strikowski M.
     Strikowski M. Kronika polska, litewska, żmodzka i wszystkiej Rusi.— Królewiec, 1582.
       Stryjkowski M. Kronika polska, litewska, żmódzka i wszystkiej Rusi.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -67,7 +61,8 @@ Dusburgietis teigia, kad strikowski M.
 - id: c-61933
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 271"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 271."
   citata_originali: |
     Strikowski M. Kronika polska, litewska, żmodzka i wszystkiej Rusi.— Królewiec, 1582.
       Stryjkowski M. Kronika polska, litewska, żmódzka i wszystkiej Rusi.

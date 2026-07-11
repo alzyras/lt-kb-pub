@@ -30,22 +30,6 @@ Pasijus, Paiako sūnus, Narbuto pasakojime vadovavo roksolanams, kai šie padėj
 - t-001
   global_id: t-191453
   teiginys: "Pasijus, Paiako sūnus, Narbuto pasakojime vadovavo roksolanams, kai šie padėjo skitų karaliui Skilūrui kariauti su Ponto karaliumi Mitridatu."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Pasijus buvo sūnus Paiakas (0.90); Pasijus rėmė Skilūras (0.78)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "115389-115820; hash=3819910b83388a5b1b2e08ac89275c35c2b1b9c30de5b519c7e9b38c0cd38fa0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sunus -> Paiakas: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Pasijus: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Paiakas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata tiesiogiai įvardija Pasijų Paiako sūnumi."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174335
 ## Reikšmingi paminėjimai
@@ -65,8 +49,8 @@ Pasijus, Paiako sūnus, Narbuto pasakojime vadovavo roksolanams, kai šie padėj
     tų karaliui Skilūrui kariauti su Ponio karaliumi Mitrida-
     hR.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -77,7 +61,8 @@ Pasijus, Paiako sūnus, Narbuto pasakojime vadovavo roksolanams, kai šie padėj
 - id: c-174335
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 66"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 66."
   citata_originali: |
     Tai, kad tie asai, arba osetinai, priklauso tai
     pačiai genčiai kaip ir senovės alanai, aiškiausiai įrodė
@@ -98,4 +83,3 @@ Pasijus, Paiako sūnus, Narbuto pasakojime vadovavo roksolanams, kai šie padėj
 
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Paiakas]]
-- Pasijus rėmė [[objektai/asmenys/Skilūras]]

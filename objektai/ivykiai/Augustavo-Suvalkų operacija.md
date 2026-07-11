@@ -49,16 +49,6 @@ Nenurodyta
 - t-001
   global_id: t-41246
   teiginys: "Per visą Augustavo-Suvalkų operaciją Lietuvos pajėgos nukautaisiais, sužeistaisiais ir patekusiais į nelaisvę prarado daugiau nei 2 000 karių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "828366-828677; hash=e2cc6e5daa6a596a964285f45eaea0a1899e438171989bafbe54144ed0044857; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Augustavo-Suvalkų operacija: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=28"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Augustavo-Suvalkų operacija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-44892
 - susijęs iš [[objektai/asmenys/Jonas Kuklieris.md#claim-t-40221|Jonas Kuklieris]]: Leitenantas Jonas Kuklieris žuvo mūšyje netoli Vidugirio kaimo iki 1920 m. rugsėjo 22 d.
@@ -82,8 +72,8 @@ Nenurodyta
     karo istorijoje nulėmė daugelis aplinky-
     bių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

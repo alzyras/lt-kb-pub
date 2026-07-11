@@ -43,16 +43,6 @@ Algirdas su Kęstučiu, neatsisakydami krikštytis, pareikalavo, kad kryžiuoči
 - t-022
   global_id: t-182874
   teiginys: "Rytų Pabaltijo žemėje išlikę senosios kultūros paminklai leidžia giliau pažinti lietuvių protėvių ir artimų baltų giminių praeitį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "262313-262828; hash=2860554ed49bd3a5b0eee7684e065045d21dd781453115e5bc4d4cf4614ec068; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Baltai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Pabaltijys: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Baltai: mention_match, group, gap=103"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pabaltijys\" parinktas kaip owner_note_path. Targetas \"Baltai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-166279
 
@@ -60,14 +50,6 @@ Algirdas su Kęstučiu, neatsisakydami krikštytis, pareikalavo, kad kryžiuoči
 - t-023
   global_id: t-193222
   teiginys: "Prasidėjus deryboms, Algirdas su Kęstučiu, neatsisakydami krikštytis, pareikalavo, kad kryžiuočių ordinas išsikraustytų iš Pabaltijo ir persikeltų į Rusijos tyrus ginti Europos nuo totorių."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "188382-188928; hash=efce073b53b9ccc7dd4829b5f6028af836c289a203f2fa10ef4d8eeee47e6fc4; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-175964
 - susijęs iš [[objektai/zodynas/kryžiaus karas.md#claim-t-05441|kryžiaus karas]]: Kryžiaus karo žygio vadovavimas šiame šaltinyje siejamas su Prūsų riterių magistru.
@@ -87,8 +69,8 @@ Algirdas su Kęstučiu, neatsisakydami krikštytis, pareikalavo, kad kryžiuoči
     pirmųjų žmogaus pėdsakų epochai pažinti reikia dar griebtis geolo­
     gijos, paleontologijos ir antropologijos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -109,8 +91,8 @@ Algirdas su Kęstučiu, neatsisakydami krikštytis, pareikalavo, kad kryžiuoči
     kairysis Dauguvos krantas, o nuo Aiviekstės upės intako — ana-
     pus Dauguvos esanti Latgala.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

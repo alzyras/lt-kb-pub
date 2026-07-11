@@ -30,21 +30,6 @@ Fragmento vertime Saulės rūmai vaizduojami aukšti, su dangų remiančiomis ko
 - t-001
   global_id: t-189572
   teiginys: "Fragmento vertime Saulės rūmai vaizduojami aukšti, su dangų remiančiomis kolonomis, auksu ir sidabrine dvivėrių durų šviesa."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "818341-818859; hash=ba84eb0c86dbc8c845c517f809e1af9943ad7ac907328e1fbd43f3ecb6dbd2f5; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Giwenimas Saulis buwa: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Giwenimas Saulis buwa\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-172460
 
@@ -52,14 +37,6 @@ Fragmento vertime Saulės rūmai vaizduojami aukšti, su dangų remiančiomis ko
 - t-002
   global_id: t-194694
   teiginys: "Giwenimas Saulis buwa, auksztejspakieha stabejmis, Swiesu iybunti auksu, grazej lipsnoju ligu pyropu: Kieno Elefanto kauleis, auksztus wirszunis dengioja; Sidobranej dwejapi swiesi blizgojosi dunes."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "816851-817260; hash=dcf0e5add66eb92c8e6a2022ec125134f0ed4d2ca7f307c7b4582e77b8c0013e; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-177091
 ## Reikšmingi paminėjimai
@@ -84,8 +61,8 @@ Fragmento vertime Saulės rūmai vaizduojami aukšti, su dangų remiančiomis ko
     gas; jo sostinė yra Vilnius -  Vyskupų miestas, toks pat didelis
     5.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -113,8 +90,8 @@ Fragmento vertime Saulės rūmai vaizduojami aukšti, su dangų remiančiomis ko
     Marios paslėpė, widutinos abjostitas žiemes,
     Ir žiemini swietu, ir Dangas, nie abdeja pa sauli.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

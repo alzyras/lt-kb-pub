@@ -30,22 +30,6 @@ Narbuto pasakojime Dausprungų giminės Zivinbudas, Ukmergės srities kunigaikš
 - t-001
   global_id: t-190222
   teiginys: "Narbuto pasakojime Dausprungų giminės Zivinbudas, Ukmergės srities kunigaikštis, vedė Kerniaus dukterį Pajautą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Zivinbudas valdė Ukmergė (0.78)"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "267316-267691; hash=fc0b94741a51817c47b2f04d082b34d246fcfe1869f1329ff1bee29e1161ece1; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde -> Ukmergė: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Zivinbudas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Ukmergė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Zivinbudas vadinamas Ukmergės srities kunigaikščiu, todėl remiamas valdymo ryšys su Ukmerge."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173105
 - susijęs iš [[objektai/grupes/Dausprungų giminė.md#claim-t-189487|Dausprungų giminė]]: Narbutas Dausprungų giminės Zivinbudą vadino Ukmergės srities kunigaikščiu, kuriam Pajauta kaip kraitį atnešė Kernavės kunigaikštystę.
@@ -68,8 +52,8 @@ Narbuto pasakojime Dausprungų giminės Zivinbudas, Ukmergės srities kunigaikš
     šė paveldimą Kernavės kunigaikštystę. Ji garsėjo grožiu ir do­
     rybėmis, dievintomis anais amžiais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -99,6 +83,3 @@ Narbuto pasakojime Dausprungų giminės Zivinbudas, Ukmergės srities kunigaikš
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190222
-
-## Ryšiai
-- Zivinbudas valdė [[objektai/vietos/Ukmergė]]

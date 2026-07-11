@@ -39,12 +39,6 @@ Dusburgietis teigia, kad mažiulis V.
 - t-001
   global_id: t-61168
   teiginys: "V. Mažiulio „Pasaulio tautų kalbos“ išleista 1979 m."
-  temporaliniai_duomenys: "įvykio data: 1979 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata patvirtina leidinio pavadinimą ir metus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "785667-785746; hash=9c7ad29e00edda8d2a1c8ef1d6a7975c09ea1b30dd5b7692ab038b2f221647e8; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-61800
 ## Reikšmingi paminėjimai
@@ -56,8 +50,8 @@ Dusburgietis teigia, kad mažiulis V.
     Mažiulis V. Pasaulio tautų kalbos.—V., 1979.
        Mažiulis V. Rec: B. H. Топоров.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -68,7 +62,8 @@ Dusburgietis teigia, kad mažiulis V.
 - id: c-61800
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 267"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 267."
   citata_originali: |
     Mažiulis V. Pasaulio tautų kalbos.—V., 1979.
        Mažiulis V. Rec: B. H. Топоров.

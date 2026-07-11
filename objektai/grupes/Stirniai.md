@@ -30,21 +30,6 @@ Narbutas stūmius, kuriuos taisė į Stirnii, lokalizavo toliausiai pietryčiuos
 - t-001
   global_id: t-192990
   teiginys: "Narbutas stūmius, kuriuos taisė į Stirnii, lokalizavo toliausiai pietryčiuose ir jų pavadinimą siejo su Styrės upe."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "180807-181214; hash=2a63a08033e87ac77e0f55dd33650d07a191e901f66299df265d1db469648f56; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Styrė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Stirniai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Styrė: mention_match, place, gap=70"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Stirniai\" parinktas kaip owner_note_path. Targetas \"Styrė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175760
 ## Reikšmingi paminėjimai
@@ -64,8 +49,8 @@ Narbutas stūmius, kuriuos taisė į Stirnii, lokalizavo toliausiai pietryčiuos
     pavadinimą išsaugojo, kaip teisingai pastebėjo Malte-
     Brunas2, Styrės upė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -76,7 +61,8 @@ Narbutas stūmius, kuriuos taisė į Stirnii, lokalizavo toliausiai pietryčiuos
 - id: c-175760
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 101"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 101."
   citata_originali: |
     Nei pa­
     sakojimo tvarkos, nei aiškių pavadinimų, nei nuorodos į

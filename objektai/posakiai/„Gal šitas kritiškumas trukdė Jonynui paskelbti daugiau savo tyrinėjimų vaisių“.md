@@ -32,17 +32,6 @@ media_all_json: |-
 - t-002
   global_id: t-186386
   teiginys: "Jonynas Lietuvos istorijos kursuose mokė analizuoti šaltinius ir skatino klausytojų visapusišką kritiškumą."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "168986-169444; hash=0c323985b5292f6b606b96519a72fca0945f38cb8b4525970d26ec401a8a2499; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "„Gal šitas kritiškumas trukdė Jonynui paskelbti daugiau savo tyrinėjimų vaisių“: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=8"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"„Gal šitas kritiškumas trukdė Jonynui paskelbti daugiau savo tyrinėjimų vaisių“\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-169742
 
@@ -50,17 +39,6 @@ media_all_json: |-
 - t-001
   global_id: t-186387
   teiginys: "Jonyno kritiškumas galėjo trukdyti jam paskelbti daugiau savo tyrinėjimų vaisių."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "168986-169444; hash=0c323985b5292f6b606b96519a72fca0945f38cb8b4525970d26ec401a8a2499; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "„Gal šitas kritiškumas trukdė Jonynui paskelbti daugiau savo tyrinėjimų vaisių“: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"„Gal šitas kritiškumas trukdė Jonynui paskelbti daugiau savo tyrinėjimų vaisių“\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-169742
 
@@ -68,17 +46,6 @@ media_all_json: |-
 - t-003
   global_id: t-186388
   teiginys: "Jonyno kritiškumas galėjo trukdyti jam paskelbti daugiau savo tyrinėjimų rezultatų."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "168986-169444; hash=0c323985b5292f6b606b96519a72fca0945f38cb8b4525970d26ec401a8a2499; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "„Gal šitas kritiškumas trukdė Jonynui paskelbti daugiau savo tyrinėjimų vaisių“: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"„Gal šitas kritiškumas trukdė Jonynui paskelbti daugiau savo tyrinėjimų vaisių“\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-169742
 ## Reikšmingi paminėjimai
@@ -96,8 +63,8 @@ media_all_json: |-
     Plataus dėmesio susilaukė jo studija « Vytauto šeimyna » (atsp.
     iš Praeities 2, 1933).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

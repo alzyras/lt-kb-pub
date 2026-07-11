@@ -33,16 +33,6 @@ Napiersk i s, išleidęs tik dokumentų rinkinio apie Livoniją, Estiją ir Kur�
 - t-001
   global_id: t-88456
   teiginys: "Napierskis išleido dokumentų rinkinio apie Livoniją, Estiją ir Kuršą rodyklę."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "70103-70552; hash=e91dc51cab207a518512df3545a9a654ae37b66c3aaacabd486f8c50938b40cb; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Estija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Napierskio dokumentų rinkinio apie Livoniją, Estiją ir Kuršą rodyklė: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Estija: mention_match, place, gap=53"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Napierskio dokumentų rinkinio apie Livoniją, Estiją ir Kuršą rodyklė\" parinktas kaip owner_note_path. Targetas \"Estija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-84435
 ## Reikšmingi paminėjimai
@@ -65,8 +55,8 @@ Napiersk i s, išleidęs tik dokumentų rinkinio apie Livoniją, Estiją ir Kur�
     me į papildymus kartu su vertimu į
     lenkų kalbą ir Foigto pastabomis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

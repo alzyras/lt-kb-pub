@@ -39,9 +39,6 @@ Vartojamos formos: `sargūnas`, `abažūnas`, `anginu`.
 - t-005
   global_id: t-70063
   teiginys: "`Vytūnas` šiame tekste yra karo vadovas, vedantis kariauną, kai nėra atmono."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "348891-349451; hash=aa682080b95b84168546792a9fd41307a5ce36a6144fdccd516a63bb0e68c712; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-09764
 
@@ -49,9 +46,6 @@ Vartojamos formos: `sargūnas`, `abažūnas`, `anginu`.
 - t-006
   global_id: t-70064
   teiginys: "Vytūnas vesdavo visą kariauną į karą, kai nebūdavo atmono."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "348891-349451; hash=aa682080b95b84168546792a9fd41307a5ce36a6144fdccd516a63bb0e68c712; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-09764
 
@@ -59,9 +53,6 @@ Vartojamos formos: `sargūnas`, `abažūnas`, `anginu`.
 - t-006
   global_id: t-70064
   teiginys: "Vytūnas vesdavo visą kariauną į karą, kai nebūdavo atmono."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "348891-349451; hash=aa682080b95b84168546792a9fd41307a5ce36a6144fdccd516a63bb0e68c712; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-09764
 
@@ -69,9 +60,6 @@ Vartojamos formos: `sargūnas`, `abažūnas`, `anginu`.
 - t-006
   global_id: t-70064
   teiginys: "Vytūnas vesdavo visą kariauną į karą, kai nebūdavo atmono."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "348891-349451; hash=aa682080b95b84168546792a9fd41307a5ce36a6144fdccd516a63bb0e68c712; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-09764
 ## Reikšmingi paminėjimai
@@ -81,8 +69,8 @@ Vartojamos formos: `sargūnas`, `abažūnas`, `anginu`.
   citata_originali: |
     Karės vyresnieji tie buvo: atmonas, nuo žodžio atmonyti, dešimtininkas, šimtininkas, arba pulkorius, nuo žodžio pulti, ir karūžasis, kuriuos viršiau minavojau; buvo dar vytūnas, kurs visą kariauną vedė į karę nesant atmono, sargūnas, kursai rūpinos kariaunos mitalu ir pavojumu^1308 , abažūnas, kurs priegule^1309 kariaunos rūpinos. Lygia dalia pilies vyras, arba pilies ponas, turėjo sau pripadėtoją vyresnįjį, anginu vadinamą, kurs angas pilies saugojo ir uždarius jų raktus pas save laikė, be jo žinios, karei esant, niekas negalėjo įeiti į pilį nei išeiti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

@@ -47,16 +47,6 @@ media_all_json: |-
 - t-009
   global_id: t-78088
   teiginys: "Eidintas ir bendraautoriai Gegužės 3 d. konstituciją laiko riba tarp senosios bajoriškosios santvarkos ir moderniųjų laikų."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "171536-171894; hash=5a5c4b6ed8db22fa9dfc02266f1c71c9a96031ee2698ef2868e82cd370b4194c; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> konstitucijos: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gegužės 3 d. konstitucija (1791 m.): owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "konstitucijos: mention_match, thing, gap=13"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gegužės 3 d. konstitucija (1791 m.)\" parinktas kaip owner_note_path. Targetas \"konstitucijos\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-75398
 
@@ -64,19 +54,6 @@ media_all_json: |-
 - t-003
   global_id: t-78090
   teiginys: "Gegužės trečiosios konstitucijos projekto apmatai parašyti pagal Prancūzijos revoliucijos metu (1789) priimtą Žmogaus ir piliečio teisių deklaraciją."
-  temporaliniai_duomenys: "įvykio data: 1783 m.; įvykio data: 1791 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys ir atitinka citatos turinį."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "156782-157637; hash=e5b727ae227ee39577160ed4f1bf05f284b026c8427d174d5d6a78761907b3a1; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Prancūzija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gegužės 3 d. konstitucija (1791 m.): owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Prancūzija: mention_match, place, gap=65"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gegužės 3 d. konstitucija (1791 m.)\" parinktas kaip owner_note_path. Targetas \"Prancūzija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-75392
 
@@ -84,20 +61,6 @@ media_all_json: |-
 - t-010
   global_id: t-78092
   teiginys: "1793 m. rugpjūčio 19 d. Gardino seimas ir Stanislovas Augustas buvo priversti atšaukti Gegužės 3 d. konstituciją."
-  semantiniai_rysiai: "Rusai apgulė Gardino seimas (0.82)"
-  temporaliniai_duomenys: "įvykio data: 1793 m.; įvykio data: 1794 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo datą, veikėjus ir veiksmą, remiamą citata."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "177003-177707; hash=44df1c440109a33b6dedcdd8b78bbe5006467c476fc5a82b50da4d93530f200e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "apgule -> Gardino seimas: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Rusai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Gardino seimas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citatoje tiesiogiai pasakyta, kad rusų kariuomenė apsupo Seimą; Gardino seimas yra leidžiamas grupės objektas."
   pagrindžia:
     - c-75396
 
@@ -105,19 +68,6 @@ media_all_json: |-
 - t-007
   global_id: t-78093
   teiginys: "Gegužės 3 d. konstitucija buvo suvokiama kaip Lietuvos atgaivinimo aktas."
-  temporaliniai_duomenys: "įvykio data: 1792 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys perteikia citatoje nurodytą Konstitucijos vertinimą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "169965-170909; hash=facc2c748f68a2a5bde3899303e661169aa21b17fb08e89a61c8f58d6e7ce363; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gegužės 3 d. konstitucija (1791 m.): owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=46"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gegužės 3 d. konstitucija (1791 m.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-75394
 
@@ -125,16 +75,6 @@ media_all_json: |-
 - t-005
   global_id: t-78094
   teiginys: "Gegužės 3 d. konstitucija baigiama tautos kaip valstybės vientisumo ir suverenumo idėja."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "166174-167030; hash=64c66afa119d1e1b1738f55a550c8d41a6d6fd9968fa013371ce1d1b6846ce02; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gegužės 3 d. konstitucija (1791 m.): owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gegužės 3 d. konstitucija (1791 m.)\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-75397
 
@@ -142,19 +82,6 @@ media_all_json: |-
 - t-002
   global_id: t-78095
   teiginys: "1791 m. gegužės 3 d. Lenkijos ir Lietuvos Seimas priėmė konstituciją, panaikinusią valdovų elekciją ir paskelbusią sosto paveldimumą."
-  temporaliniai_duomenys: "įvykio data: 1772 m.; įvykio data: 1791 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys prasideda kontekstiniu fragmentu, todėl reikia aiškios savarankiškos formuluotės."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "156162-156780; hash=9981f34baade6a97b561fa204b38e0acbea5efb6cb872bdad6370e2abd1d8399; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gegužės 3 d. konstitucija (1791 m.): owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=13"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gegužės 3 d. konstitucija (1791 m.)\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-23764
 
@@ -162,19 +89,6 @@ media_all_json: |-
 - t-004
   global_id: t-78096
   teiginys: "Nuo 1788 m. posėdžiavęs Ketverių metų seimas priėmė Gegužės 3 d. konstituciją."
-  temporaliniai_duomenys: "įvykio data: po 1788 m.; įvykio data: 1788 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir paremtas citata."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "165166-166173; hash=25fe4a9279111ff2096738b233f79678e394e4c7a2c9f275eb02cf2df36570ef; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Bajorai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gegužės 3 d. konstitucija (1791 m.): owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Bajorai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gegužės 3 d. konstitucija (1791 m.)\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-75395
 
@@ -182,16 +96,6 @@ media_all_json: |-
 - t-006
   global_id: t-78097
   teiginys: "Gegužės 3 d. konstitucijos III ir IV skyriuose „Respublikos valstybės“ reiškė Lenkiją ir Lietuvą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "167032-167533; hash=dcbf76aa3cc7c9b9bd6d94a6e009b3cb6624e287e0ed6c98a33917c515876ac8; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gegužės 3 d. konstitucija (1791 m.): owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=78"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gegužės 3 d. konstitucija (1791 m.)\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-75400
 
@@ -199,12 +103,6 @@ media_all_json: |-
 - t-011
   global_id: t-193593
   teiginys: "Gegužės trečiosios konstitucijos pagrindu buvo įsteigtas antspaudo ministro užsienio reikalams postas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "170910-171265; hash=3cee304882dbfe26ad89af6993bd70e0ab2b477bb33d8e22b26da35c55103044; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176268
 ## Reikšmingi paminėjimai
@@ -226,8 +124,8 @@ media_all_json: |-
     skelbiamas sosto paveldimumas, tačiau monarchas yra tiktai tautos valios
     reiškėjas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -249,8 +147,8 @@ media_all_json: |-
     Taigi, LLV Konstitucija buvo antroji pasaulyje ir pirmoji Europoje, keliais
     mėnesiais aplenkusi Prancūzijos konstituciją.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -274,8 +172,8 @@ media_all_json: |-
     Lietuvoje nei Lenkijoje, kurioje iš 45 seimelių tik 10 prisiekė Konstituci-
     jai, o dar 27 seimeliai jai tik pritarė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -302,8 +200,8 @@ media_all_json: |-
     mus turi leisti Seimas. Panaikinama liberum veto – bajorų teisė protestuo-
     ti prieš Seimo nutarimus ir žlugdyti jo darbą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -325,8 +223,8 @@ media_all_json: |-
     kilęs ir kovose dėl JAV nepriklausomybės pasižymėjęs generolas Tadas
     Kosciuška.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -350,8 +248,8 @@ media_all_json: |-
     atitinkantį pagrindinį įstatymą, formuojantį konstitucinės monarchijos
     santvarką.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -367,8 +265,8 @@ media_all_json: |-
     roko ir Apšvietos epochų. Visi XIX a. Lenkijos ir Lietuvos sukilimai prieš
     Rusiją vyko su Gegužės trečiosios konstitucijos idėjų vėliava.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -386,8 +284,8 @@ media_all_json: |-
     ir Lietuva. Minimi ne tik bendri valdovai, bet ir Lietuvos didysis kuni-
     gaikštis Vytautas ir jo privilegijos Lietuvos bajorams.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -404,8 +302,8 @@ media_all_json: |-
     nio reikalų ministeriją. Formaliai URM pradėjo veikti 1791-ųjų birželio
     19-ąją.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

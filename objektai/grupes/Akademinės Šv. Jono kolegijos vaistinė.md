@@ -39,12 +39,6 @@ Jono Kolegijos Vaistinės kronika 1546. Tėvai jėzuitai, tą mūrinį namą sur
 - t-001
   global_id: t-194297
   teiginys: "Jono Kolegijos Vaistinės kronika 1546."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "388757-389320; hash=ddf914e72374e9ac564e4d53fc4c4c2e11f16773af9cc358bb0caaeb8ecab146; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176889
 
@@ -52,12 +46,6 @@ Jono Kolegijos Vaistinės kronika 1546. Tėvai jėzuitai, tą mūrinį namą sur
 - t-002
   global_id: t-194298
   teiginys: "Tėvai jėzuitai, tą mūrinį namą suremontavę, vaisti nei atidavė, taip pat onus [mokesčius] pavedė vaistininkui mokėti kasmet po 140 auksinų bažnyčios labui."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "389991-390415; hash=75ff0a3a1ede2e2e416ec1a521ad46239d4a8f4ea4c4ded5324e139d7e005287; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176890
 
@@ -65,12 +53,6 @@ Jono Kolegijos Vaistinės kronika 1546. Tėvai jėzuitai, tą mūrinį namą sur
 - t-003
   global_id: t-194299
   teiginys: "Be aukščiau išvardintų pajamų ir išlaidų notandum [pa žymėtina], kad nemaža medikamentų dalis buvo išleista in Collegio sergantiems asmenims, kuriuos vaistininkams rei kia tenebantur be užmokesčio gydyti ir duoti vaistų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "392925-393267; hash=82193619c1fccd1e731944803414b244a229a0b4ae069d5df036b78bae8a8843; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176891
 ## Reikšmingi paminėjimai
@@ -95,8 +77,8 @@ Jono Kolegijos Vaistinės kronika 1546. Tėvai jėzuitai, tą mūrinį namą sur
     vė), kurio savininkas buvo Vilniaus burmistras ir auksaka­
     lys (Proconsul et aurifex) Erazmas Bretneris.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -115,8 +97,8 @@ Jono Kolegijos Vaistinės kronika 1546. Tėvai jėzuitai, tą mūrinį namą sur
     sinų mokestį nuo vaistinės namo pervedęs Švarco mūrui,
     paskyrė Collegio [kolegijai].
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -133,8 +115,8 @@ Jono Kolegijos Vaistinės kronika 1546. Tėvai jėzuitai, tą mūrinį namą sur
     gium, imdama iš vaistinės kas mėnesį po 100 auks., yra įpa­
     reigota du padėjėjus ir penkis iš tarnų maitinti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

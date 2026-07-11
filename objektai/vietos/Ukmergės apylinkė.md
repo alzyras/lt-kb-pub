@@ -41,20 +41,6 @@ media_all_json: |-
 - t-001
   global_id: t-28484
   teiginys: "1333 m. Aukštaičiuose kryžiuočiai pasiekė Ukmergės apylinkę."
-  semantiniai_rysiai: "Kryžiuočių ordinas keliavo į Ukmergės apylinkė (0.90)"
-  temporaliniai_duomenys: "įvykio data: 1333 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko glaustesnį teiginį tiesiogiai apie Ukmergės apylinkę."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "647258-647442; hash=4e70f1e39f94c3a23d915d53b0839e65f8f11e64c711b1869d84c3771e16a5b5; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Ukmergės apylinkė: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Ukmergės apylinkė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad kryžiuočiai pasiekė Ukmergės apylinkę."
   pagrindžia:
     - c-28388
 ## Reikšmingi paminėjimai
@@ -66,8 +52,8 @@ media_all_json: |-
     1334, nusiaubę Dubingius ir Šešuolius, jie buvo 4 mylios nuo Vil­
     niaus. Tada abiejų lyčių lietuvių buvę nužudyta 1200^4.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

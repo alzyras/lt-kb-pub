@@ -32,12 +32,6 @@ Dva­ sios [bažnyčios] namelius, stovinčius žemiau Šventosios Trejybės ba�
 - t-001
   global_id: t-194310
   teiginys: "Dva sios [bažnyčios] namelius, stovinčius žemiau Šventosios Trejybės bažnyčios, ties Merkelio Savickio namu nuo to, ku ris tik tuo metu turės, taip pat ir du kitus namelius viršuje už prieglaudos, ten pat, priešais Šv."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "659721-660149; hash=d373cc0cb9e0faeea356a51c4684f24c565dec9cda0047a821b45f34162c962e; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176902
 ## Reikšmingi paminėjimai
@@ -55,8 +49,8 @@ Dva­ sios [bažnyčios] namelius, stovinčius žemiau Šventosios Trejybės ba�
     ris tik tuo metu turės, taip pat ir du kitus namelius viršuje
     už prieglaudos, ten pat, priešais Šv.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

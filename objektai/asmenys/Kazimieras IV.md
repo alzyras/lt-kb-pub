@@ -43,16 +43,6 @@ media_all_json: |-
 - t-002
   global_id: t-87436
   teiginys: "Kazimieras IV, mėgęs medžioti, Rūdninkuose pasirinko medžioklės buveinę ir pasistatydino dvarą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "510949-511446; hash=ebbc42e1b910ce4cf5e60b86adf3381493bd444887db804885d5441abd645a9a; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Rūdninkai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kazimieras IV: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Rūdninkai: mention_match, place, gap=31"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kazimieras IV\" parinktas kaip owner_note_path. Targetas \"Rūdninkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-83417
 
@@ -60,16 +50,6 @@ media_all_json: |-
 - t-001
   global_id: t-87437
   teiginys: "Kazimieras IV 1440 metais suteikė Vilniaus miestiečiams privilegiją laisvai prekiauti Lietuvos valstybėje be muito."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "93891-94944; hash=f70de15a17ca95839d5c0862b4acf64cf1df5e9b8035c9cd03fcd4c49e64637d; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kazimieras IV: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=86"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kazimieras IV\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-83416
 
@@ -77,17 +57,6 @@ media_all_json: |-
 - t-003
   global_id: t-87438
   teiginys: "Kazimieras IV pamėgo Rūdninkus ir dažnai juose buvodavo."
-  semantiniai_rysiai: "Kazimieras IV gyveno Rūdninkai (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "511534-512160; hash=4aaba164dfbb448d1188de3a3b8f6163546e5b0747f1671c31559f90ece240bb; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Rūdninkai: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kazimieras IV: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Rūdninkai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai sako, kad Kazimieras dažnai būdavo Rūdninkuose."
   pagrindžia:
     - c-83415
 - susijęs iš [[objektai/ivykiai/Kazimiero IV privilegijos Vilniaus miestiečiams suteikimas (1440 m.).md#claim-t-86952|Kazimiero IV privilegijos Vilniaus miestiečiams suteikimas (1440 m.)]]: 1440 m. Kazimieras IV suteikė Vilniaus katalikų ir stačiatikių miestiečiams privilegiją laisvai prekiauti be muito Lietuvos valstybėje.
@@ -109,8 +78,8 @@ media_all_json: |-
     liau Zigmantas III ir Vladislovas IV, atvykę į Lietuvą, visa­
     da Rūdninkuose smagiai leisdavo laiką medžiodami.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -154,8 +123,8 @@ media_all_json: |-
     ypač užtarė Marija, Algirdo žmona, pasinešusi lietuviams pa­
     gonims skiepyti krikščionišką graikų apeigų tikėjimą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -175,8 +144,8 @@ media_all_json: |-
     rašto paminkluose nėra jokio pėdsako, kad kuris nors Kazi­
     miero pirmtakų būtų užsiminęs apie Rūdninkus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

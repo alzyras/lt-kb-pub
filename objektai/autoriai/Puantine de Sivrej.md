@@ -30,21 +30,6 @@ Puantine de Sivrej pirmuosius žmones po Tvano siejo su Pirėnais, o žemės roj
 - t-001
   global_id: t-191684
   teiginys: "Puantine de Sivrej pirmuosius žmones po Tvano siejo su Pirėnais, o žemės rojų lokalizavo Ispanijoje prie Tago, netoli Sevilijos."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "599586-600067; hash=fdfb56e2c2773fad39eafe4b5044a2f1fa38224a709c4ec21de25db5c7f92a7c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Ispanija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Puantine de Sivrej: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Ispanija: mention_match, place, gap=89"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Puantine de Sivrej\" parinktas kaip owner_note_path. Targetas \"Ispanija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174566
 - susijęs iš [[objektai/autoriai/Kur de Zebelen.md#claim-t-191679|Kur de Zebelen]]: Narbutas rašo, kad Kur de Zebelen „Monde primitif“ žodį Peruką kildino iš graikiško pavadinimo.
@@ -66,8 +51,8 @@ Puantine de Sivrej pirmuosius žmones po Tvano siejo su Pirėnais, o žemės roj
     Ebro upės atkeliavo hebrajai, o rusai yra roussis par
     le feu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -78,7 +63,8 @@ Puantine de Sivrej pirmuosius žmones po Tvano siejo su Pirėnais, o žemės roj
 - id: c-174566
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 334"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 334."
   citata_originali: |
     Pagal tas pačias taisykles
     Kur de Zebelen (Court de Gebelins) savo „Monde pri­

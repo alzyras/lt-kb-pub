@@ -45,22 +45,6 @@ Nenurodyta
 - t-001
   global_id: t-189784
   teiginys: "Narbutas, remdamasis Strijkovskiu, pasakoja, kad Kęstutis išsivežė vaidilutę Birutę į Naujuosius Trakus ir ten ją vedė."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.) keliavo į Trakai (0.78)"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "268013-268582; hash=2081ebf59d80a95aed83ed4576fefc696c68e8746f36de1ac9227869f2bc9339; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Trakai: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Kęstutis išsivežė Birutę į Naujuosius Trakus, todėl fiksuojamas judėjimas į Trakus."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-172667
 
@@ -68,21 +52,6 @@ Nenurodyta
 - t-002
   global_id: t-189785
   teiginys: "Narbutas rašo, kad kiekvienas žynys ar vaidilutė privalėjo likti viengungiai, laikytis skaistybės ir būti nepapeikiamų papročių."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "485756-486279; hash=fb558f456a14bdf2c047a0c6a50c005eea1edf79b2b420d86436d2d775a411f5; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> vaidilutė: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vaidilučių ir žynių skaistybės norma, šventyklinė tarnyba ir šventosios ugnies saugojimas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "vaidilutė: mention_match, thing, gap=48"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vaidilučių ir žynių skaistybės norma, šventyklinė tarnyba ir šventosios ugnies saugojimas\" parinktas kaip owner_note_path. Targetas \"vaidilutė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172668
 
@@ -90,21 +59,6 @@ Nenurodyta
 - t-003
   global_id: t-189786
   teiginys: "Narbutas vaidilutes apibūdina kaip žynes, davusias amžinos skaistybės įžadus ir už priesaikos sulaužymą baustas žiauria mirtimi."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "523054-523585; hash=be61950f5313184bf5099086a5e650fde6e6fa3aceb447dca48bfa728e57f8a5; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vaidilutės: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vaidilučių ir žynių skaistybės norma, šventyklinė tarnyba ir šventosios ugnies saugojimas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Vaidilutės: mention_match, group, gap=50"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vaidilučių ir žynių skaistybės norma, šventyklinė tarnyba ir šventosios ugnies saugojimas\" parinktas kaip owner_note_path. Targetas \"Vaidilutės\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172669
 
@@ -112,14 +66,6 @@ Nenurodyta
 - t-004
   global_id: t-194635
   teiginys: "Žmonės ją vadina skaisčiausiąja mergele, ugnies saugotoja, gyvybės davėja."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "202725-203354; hash=3e9f5f73b96a9c1aa9301a51a29a9e4ac9aac8f6ea96f663d055210920d91b8a; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-177033
 
@@ -127,14 +73,6 @@ Nenurodyta
 - t-005
   global_id: t-194636
   teiginys: "Apskritai visa, kas religijos dalykuose tiesiogiai susiję su moterimis arba kas iš pasakojimų, pranašavimų ir maldų sie josi su gražiąja lytimi, buvo vaidilučių sritis."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "523663-524036; hash=d3393096977d5c20da35840c8de25099b53fe0126a0c1a069933c1fd9e5eeaaa; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-177034
 ## Reikšmingi paminėjimai
@@ -156,8 +94,8 @@ Nenurodyta
     gaikštysčių sostinę, arba į Naujuosius Trakus, ir ten vedė kaip
     žmoną.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -177,8 +115,8 @@ Nenurodyta
     davo tiems įstatymams, kaip visuomenės papiktintojas būda­
     vo be gailesčio sudeginamas .
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -204,8 +142,8 @@ Nenurodyta
     mune, įkišę į odinį, akmenų prikimštą maišą ir užsiuvę kartu
     su katinu, šunimi bei nuodinga gyvate.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -230,8 +168,8 @@ Nenurodyta
     užgestų. Tos mergelės, kol gyvos, privalo laikytis skaistybės; ją
     praradusias šalies įstatymai baudžia žiauria mirtimi“.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -249,8 +187,8 @@ Nenurodyta
     moterimis arba kas iš pasakojimų, pranašavimų ir maldų sie­
     josi su gražiąja lytimi, buvo vaidilučių sritis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -261,7 +199,8 @@ Nenurodyta
 - id: c-172667
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 154"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 154."
   citata_originali: |
     Duomenų apie tai mums
     paliko Strijkovskis.
@@ -285,7 +224,8 @@ Nenurodyta
 - id: c-172668
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 278"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 278."
   citata_originali: |
     Visokios pastabos ir istorijos liudijimai teikia žinių, kad
     lietuvių stabmeldystės klestėjimo laikais kiekvieno laipsnio žy­
@@ -359,7 +299,8 @@ Nenurodyta
 - id: c-177034
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 300"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 300."
   citata_originali: |
     Jas rink­
     davo iš garsėjančių grožiu aukštos kilmės merginų, jos gyven­

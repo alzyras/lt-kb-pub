@@ -43,20 +43,6 @@ media_all_json: |-
 - t-001
   global_id: t-87927
   teiginys: "Petras Pliuščius 1620 m. buvo Vilniaus burmistras nuo katalikų."
-  semantiniai_rysiai: "Petras Pliuščius valdė miestą Vilnius (0.63)"
-  temporaliniai_duomenys: "įvykio data: 1597 m.; įvykio data: 1600 m.; įvykio data: 1610 m.; įvykio data: 1620 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatoje nurodytas pareigas, metus ir konfesinę grupę."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "603378-603859; hash=8017b95f430f3653bc2dd3de46fa30559da59da87a48b39eb6870a1000865b1f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde_miesta -> Vilnius: 0.63"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Petras Pliuščius: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Vilniaus burmistro pareigos rodo miesto valdymo ryšį su Vilniumi."
   pagrindžia:
     - c-83906
 - susijęs iš [[objektai/asmenys/Kiti priedo I vaitų ir burmistrų sąrašo kandidatai.md#claim-t-87350|Kiti priedo I vaitų ir burmistrų sąrašo kandidatai]]: 1620 m. burmistrais buvo nurodyti katalikų atstovas Petras Pliuščius ir stačiatikių atstovas Leonas Mamoničius.
@@ -89,8 +75,8 @@ media_all_json: |-
     nuo stačiatikių - Leonas Mamoničius
     11.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -130,6 +116,3 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87927
-
-## Ryšiai
-- Petras Pliuščius valdė [[objektai/vietos/Vilnius]]

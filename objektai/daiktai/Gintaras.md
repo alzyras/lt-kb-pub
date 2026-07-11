@@ -51,10 +51,6 @@ Nenurodyta
 - t-001
   global_id: t-08290
   teiginys: "Aukojant dievams degindavo gintarus kartu su kitomis aukojimo medžiagomis."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "225965-226449; hash=486e9acf8a970ac5e15e91d624b941a5604a5de6768acbb7a58744bbd752a40a; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-10247
 
@@ -62,21 +58,6 @@ Nenurodyta
 - t-002
   global_id: t-192494
   teiginys: "Narbutas pritaria Kocebui, kuris gintarą vadino saulės akmeniu ir sunkiai atskleidžiama gamtos mįsle."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "262108-262702; hash=5c5bb8f37826bef8dcc889888bee79da5fac54c152e4aa91564677f4f14131b8; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Hiperborėjai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gintaras: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Hiperborėjai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gintaras\" parinktas kaip owner_note_path. Targetas \"Hiperborėjai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175284
 
@@ -84,21 +65,6 @@ Nenurodyta
 - t-003
   global_id: t-192495
   teiginys: "Gintaras šaltinyje apibūdinamas kaip kietas, blizgus, skaidrus ir dėl šių savybių senovėje prilygintas brangakmeniams."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "268727-269448; hash=3ab91002335e533ce3369a840b510d3e3789edf7dac9098023d75dea73b7865d; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vaistinės prekės, vaistai ir gydomieji gėrimai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gintaras: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Vaistinės prekės, vaistai ir gydomieji gėrimai: mention_match, thing, gap=63"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gintaras\" parinktas kaip owner_note_path. Targetas \"Vaistinės prekės, vaistai ir gydomieji gėrimai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175285
 
@@ -106,21 +72,6 @@ Nenurodyta
 - t-004
   global_id: t-192496
   teiginys: "Narbutas mini pasakojimą, kad gintaro viduje esantys vandens lašai didėja ir mažėja kintant mėnuliui, bet neišdžiūva."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "607727-608384; hash=30d30ef2b35d91d75b54930a941f0173fe3d79fe51ab37f9d637cab555f9beee; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Viena: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gintaras: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Viena: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gintaras\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175286
 - susijęs iš [[objektai/autoriai/Kassiodoras.md#claim-t-30755|Kassiodoras]]: Kassiodoras, ostgotų karaliaus Teodoriko aukštas valdininkas, savo raštuose pateikė Teodoriko padėkos laišką aisčiams už gintaro dovanas.
@@ -162,8 +113,8 @@ Nenurodyta
         gintarus, mirą ir kitus kvepiančius daiktus ir melsdamos; ant kurių visados amžina ugnis kūrinos,
         kasant juos, šiandien dar randamos tenai supuvusios ir sutrynėjusios^841 anglys tą stigavoja.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -187,8 +138,8 @@ Nenurodyta
     įgrido paukščiai arba hiperborėjų Apolonas, būta apie jį
     gana tikslių žinių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -213,8 +164,8 @@ Nenurodyta
     eterinių aliejų, balzamų, kuriuos ir dabar labai vertina in­
     dai ir kinai; pas mus jis dedamas į lakus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -237,8 +188,8 @@ Nenurodyta
     lius. Labiausiai jį primena skruzdėliniai gyvasakiai; gel­
     tonas ir baltas gintaras kvepia skirtingai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -267,7 +218,8 @@ Nenurodyta
 - id: c-175284
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 146"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 146."
   citata_originali: |
     Lietuvių kalboje jis išliko žodyje
     Stiklas, kuris susideda iš s, si, sii, o tai išreiškia lotynų
@@ -292,7 +244,8 @@ Nenurodyta
 - id: c-175285
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 149"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 149."
   citata_originali: |
     153
     Gero gintaro kietumas šipina geležį, jis gražiausiai
@@ -318,7 +271,8 @@ Nenurodyta
 - id: c-175286
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 338"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 338."
   citata_originali: |
     Apie gintaro viduje esančius vandens lašus sakoma,
     jog jie didėja ir mažėja kintant mėnuliui, bet niekada

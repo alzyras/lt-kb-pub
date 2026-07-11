@@ -41,18 +41,6 @@ III Brastos apygardoje tų pat mokyklų buvo Pinske, Bialoje, Dombrovicoje, Liub
 - t-002
   global_id: t-67720
   teiginys: "1355 m. jo garnizonai įsikūrė Rževe ir Bialoje."
-  temporaliniai_duomenys: "įvykio data: 1355 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "730779-730923; hash=965db1aac17dd2b5f5303d4e5edd531754c2a6df7540bb571b8430c210105c81; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Mstislavlis: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Biala: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Mstislavlis: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Biala\" parinktas kaip owner_note_path. Targetas \"Mstislavlis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-31973
 
@@ -60,12 +48,6 @@ III Brastos apygardoje tų pat mokyklų buvo Pinske, Bialoje, Dombrovicoje, Liub
 - t-003
   global_id: t-193172
   teiginys: "III Brastos apygardoje tų pat mokyklų buvo Pinske, Bialoje, Dombrovicoje, Liubešave ir Žuravicuose."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "853346-853783; hash=a411b58d54838643a813c044d7ce2e9d02a5f6f69a8df6921c46771cbc33d2ed; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-175920
 - susijęs iš [[objektai/asmenys/Karamzinas.md#claim-t-191249|Karamzinas]]: Narbutas vertino, kad Karamzinas tiksliai įminė miesto pavadinimų Serkel, Biala wieza, Biata wies ir Bieloserkal tapatumo klausimą.
@@ -84,8 +66,8 @@ III Brastos apygardoje tų pat mokyklų buvo Pinske, Bialoje, Dombrovicoje, Liub
     jo garnizonai įsikūrė Rževe ir Bialoje. Iki 1362 jis užėmė Smolensko
     kunigaikštijai priklausantį Mogiliavą, Toropiecą, Mstislavlį ir kt.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -103,8 +85,8 @@ III Brastos apygardoje tų pat mokyklų buvo Pinske, Bialoje, Dombrovicoje, Liub
     Dombrovicoje, Liubešave ir Žuravicuose. IV Kražių apygar-
     doje buvo Kaune, Kretingoje, Panevėžy, Raseiniuose ir Ukmergėje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

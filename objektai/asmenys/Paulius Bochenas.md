@@ -43,20 +43,6 @@ Paulius Bochenas, neturė­ damas už ką minėtų mūrų remontuoti, mūrinį n
 - t-001
   global_id: t-87817
   teiginys: "1677 m. Paulius Bochenas pardavė mūrinį namą Bernardinų gatvėje Eustachijui Kotovičiui už 750 auksinų."
-  semantiniai_rysiai: "Namas priklausė Paulius Bochenas (0.65)"
-  temporaliniai_duomenys: "prekybos laikotarpis: 1677 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „prekybos laikotarpis“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatoje nurodytą pardavimą, vietą, pirkėją ir sumą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "398246-399168; hash=20a7bcd1dd68a2293a71cdb307f096ad2074be566c8acca279ebc509f82adc36; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Paulius Bochenas: 0.65"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Namas: llm_allowed_candidate, thing"
-  ryšio_targeto_parinkimas: "Paulius Bochenas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Bochenas pardavė mūrinį namą, tad tekstas palaiko, kad namas buvo jo disponuojamas turtas."
   pagrindžia:
     - c-83796
 - susijęs iš Bernardinų gatvė: 1677 m. Paulius Bochenas Bernardinų gatvėje buvusį mūrinį namą pardavė Eustachijui Kotovičiui už 750 auksinų.
@@ -85,8 +71,8 @@ Paulius Bochenas, neturė­ damas už ką minėtų mūrų remontuoti, mūrinį n
     miesto gaisrą irgi sudegė, in ruderibus [griuvėsiai] ilgai ne­
     remontuoti stovėjo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -123,6 +109,3 @@ Paulius Bochenas, neturė­ damas už ką minėtų mūrų remontuoti, mūrinį n
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87817
-
-## Ryšiai
-- Turėjo priklausinį: [[objektai/daiktai/Namas]]

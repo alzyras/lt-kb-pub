@@ -1,118 +1,72 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import style from "./styles/objectMediaGallery.scss"
-import { FullSlug, resolveRelative } from "../util/path"
+import photoswipeStyle from "./styles/photoswipe.scss"
 import {
   cleanText,
-  directnessLabel,
-  displayCaption,
-  displayMeta,
-  isObjectGalleryPage,
-  objectMediaSet,
-  relationLabel,
+  isMediaGalleryPage,
 } from "../util/objectMedia"
 // @ts-ignore
 import script from "./scripts/object-media-gallery.inline"
 
 const ObjectMediaGallery: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
-  if (!isObjectGalleryPage(fileData.slug)) {
+  if (!isMediaGalleryPage(fileData.slug)) {
     return null
   }
-
-  const { direct, contextual, all, totalCount } = objectMediaSet(fileData.frontmatter)
-
-  if (all.length === 0) {
-    return null
-  }
-
-  const defaultView = direct.length > 0 ? "direct" : contextual.length > 0 ? "contextual" : "all"
-  const relationOptions = [...new Set(all.map((entry) => String(entry.relationType ?? "").trim()).filter(Boolean))]
-    .sort((a, b) => relationLabel(a).localeCompare(relationLabel(b), "lt"))
   const objectTitle = cleanText(fileData.frontmatter?.object_title) || cleanText(fileData.frontmatter?.title)
-  const objectSlug = String(fileData.slug ?? "").replace(/\/galerija$/, "") as FullSlug
-  const objectHref = resolveRelative(fileData.slug as FullSlug, objectSlug)
+  const objectPath = cleanText(fileData.frontmatter?.object_note_path)
+  const isObjectGallery = Boolean(objectPath)
 
   return (
     <main
-      class="object-media-gallery object-media-gallery-page"
+      class="media-gallery-page"
       data-media-gallery="true"
-      data-default-view={defaultView}
-      data-total-count={String(totalCount)}
+      data-object-path={objectPath}
     >
-      <div class="object-media-gallery-header">
+      <header class="media-gallery-header">
         <div>
-          <p class="object-media-eyebrow">Atvaizdai</p>
-          <h1>Galerija{objectTitle ? ` (${objectTitle})` : ""}</h1>
-          <p class="object-media-lead">
-            Visi su objektu susieti atvaizdai. Pagal nutylėjimą rodomi tiesioginiai atvaizdai, o susijusius
-            gali įjungti atskirai.
+          <p class="media-gallery-eyebrow">Vaizdų archyvas</p>
+          <h1>{isObjectGallery ? objectTitle : "Galerija"}</h1>
+          <p class="media-gallery-lead">
+            {isObjectGallery
+              ? "Patikrinti tiesioginiai ir kontekstiniai šio objekto vaizdai."
+              : "Patikrinti Lietuvos istorijos vaizdai iš atvirų kultūros paveldo rinkinių."}
           </p>
-          <a class="object-media-backlink" href={objectHref}>
-            Grįžti į pagrindinį puslapį{objectTitle ? ` (${objectTitle})` : ""}
-          </a>
         </div>
-        <div class="object-media-summary">
-          <span>{totalCount} vaizd.</span>
-          <span>{direct.length} tiesiog.</span>
-          <span>{contextual.length} susij.</span>
-        </div>
-      </div>
+        <strong class="media-gallery-count" data-media-count>0 vaizdų</strong>
+      </header>
 
-      <div class="object-media-controls">
-        <div class="object-media-view-switch" role="tablist" aria-label="Atvaizdų rodymas">
-          <button type="button" data-media-view-button data-media-view="direct">
-            Tiesioginiai
-          </button>
-          <button type="button" data-media-view-button data-media-view="contextual">
-            Susiję
-          </button>
-          <button type="button" data-media-view-button data-media-view="all">
-            Visi
-          </button>
-        </div>
-        <label class="object-media-filter">
-          <span>Tipas</span>
-          <select data-media-relation-filter>
-            <option value="all">Visi tipai</option>
-            {relationOptions.map((relationType) => (
-              <option value={relationType}>{relationLabel(relationType)}</option>
-            ))}
-          </select>
+      <section class="media-gallery-controls" aria-label="Galerijos filtrai">
+        <label class="media-gallery-search">
+          <span class="sr-only">Ieškoti galerijoje</span>
+          <input type="search" placeholder="Ieškoti vaizdų, kūrėjų, objektų ar institucijų" data-media-search />
         </label>
-        <p class="object-media-status" data-media-status=""></p>
-      </div>
+        <select data-media-directness aria-label="Ryšys su objektu"><option value="">Visi ryšiai</option><option value="direct">Tiesioginiai</option><option value="contextual">Kontekstiniai</option></select>
+        <select data-media-type aria-label="Vaizdo tipas"><option value="">Visi tipai</option></select>
+        <select data-media-provider aria-label="Tiekėjas"><option value="">Visi tiekėjai</option></select>
+        <select data-media-sort aria-label="Rūšiavimas"><option value="recommended">Rekomenduojami</option><option value="date-asc">Seniausi kūriniai</option><option value="date-desc">Naujausi kūriniai</option><option value="collected-desc">Naujausiai surinkti</option></select>
+        <details class="media-gallery-more">
+          <summary>Daugiau filtrų</summary>
+          <div>
+            <label>Tagas<select data-media-tag><option value="">Visi tagai</option></select></label>
+            <label>Objektas<select data-media-object><option value="">Visi objektai</option></select></label>
+            <label>Objekto tipas<select data-media-object-type><option value="">Visi objektų tipai</option></select></label>
+            <label>Laikotarpis<select data-media-period><option value="">Visi laikotarpiai</option></select></label>
+            <label>Institucija<select data-media-institution><option value="">Visos institucijos</option></select></label>
+            <label>Licencija<select data-media-license><option value="">Visos licencijos</option></select></label>
+          </div>
+        </details>
+        <button type="button" class="media-gallery-reset" data-media-reset>Atstatyti</button>
+      </section>
 
-      <div class="object-media-grid" data-media-grid>
-        {all.map((entry) => {
-          const href = entry.canonicalUrl || entry.thumbUrl || "#"
-          const imageSrc = entry.thumbUrl || entry.canonicalUrl || ""
-          return (
-            <article
-              class="object-media-card"
-              data-media-card="true"
-              data-media-source-id={`media-${String(entry.provider ?? "other").trim().toLowerCase() || "other"}`}
-              data-media-directness={String(entry.directness ?? "weak")}
-              data-media-relation={String(entry.relationType ?? "")}
-            >
-              <a href={href} target="_blank" rel="noreferrer noopener">
-                <img src={imageSrc} alt={displayCaption(entry)} loading="lazy" decoding="async" />
-                <div class="object-media-card-body">
-                  <div class="object-media-chip-row">
-                    <span class="object-media-chip object-media-chip-directness">{directnessLabel(entry.directness)}</span>
-                    <span class="object-media-chip object-media-chip-relation">{relationLabel(entry.relationType)}</span>
-                  </div>
-                  <h4>{displayCaption(entry)}</h4>
-                  {displayMeta(entry) && <p class="object-media-meta-line">{displayMeta(entry)}</p>}
-                </div>
-              </a>
-            </article>
-          )
-        })}
-      </div>
+      <div class="media-gallery-active-filters" data-media-active-filters></div>
+      <div class="media-gallery-grid" data-media-grid aria-live="polite"></div>
+      <div class="media-gallery-empty" data-media-empty hidden>Nėra vaizdų, atitinkančių pasirinktus filtrus.</div>
+      <button type="button" class="media-gallery-more-results" data-media-load-more hidden>Rodyti daugiau</button>
     </main>
   )
 }
 
-ObjectMediaGallery.css = style
+ObjectMediaGallery.css = [photoswipeStyle, style]
 ObjectMediaGallery.afterDOMLoaded = script
 
 export default (() => ObjectMediaGallery) satisfies QuartzComponentConstructor

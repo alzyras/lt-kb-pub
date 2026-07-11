@@ -32,18 +32,6 @@ Abi pusi tą susitarimą patvirtino priesaiko- (^5) VMPL, I, nr.
 - t-001
   global_id: t-100142
   teiginys: "VMPL I tomo 693 numeris cituojamas prie susitarimo, kurį abi pusės patvirtino priesaika."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "717488-717711; hash=26edf76bc07945fde73c6c6ff31ec75a9fdc1688526f5bbc477bf853a2e30384; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Tomas (Hertvigo iš Pokarvių sūnus): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "VMPL: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Tomas (Hertvigo iš Pokarvių sūnus): mention_match, person, gap=7"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"VMPL\" parinktas kaip owner_note_path. Targetas \"Tomas (Hertvigo iš Pokarvių sūnus)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-13T14:38:41Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-94035
 ## Reikšmingi paminėjimai
@@ -59,8 +47,8 @@ Abi pusi tą susitarimą patvirtino priesaiko- (^5) VMPL, I, nr.
     (^5) **VMPL, I, nr. 693.**
     (^6) **VMPL, I, nr. 692.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -34,19 +34,18 @@ tags:
 amziai:
   - 'XII'
   - 'XVI'
-media_total_count: '42'
-media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/3/31/39-Litauen%2C_Kurland_und_Livland_%281917%29.png'
-media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3A39-Litauen%2C_Kurland_und_Livland_%281917%29.png'
-media_primary_directness: 'direct'
-media_primary_relation_type: 'map_of'
-media_primary_json: |-
-  {"mediaId":"m-b31e19913e12838ca8a9c6da","title":"39-Litauen, Kurland und Livland (1917).png","caption":"Flemming's military map of Baltic regions ( Lithuania , Courland , Livonia ), depicting the Russo-German front line in May 1917 (deep red), and also outlining ethnolinguistic boundaries of Lithuanians and Latvians (shaded red)","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2014-07-16 19:01:01","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A39-Litauen%2C_Kurland_und_Livland_%281917%29.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/3/31/39-Litauen%2C_Kurland_und_Livland_%281917%29.png","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1}
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
 media_direct_json: |-
-  [{"mediaId":"m-b31e19913e12838ca8a9c6da","title":"39-Litauen, Kurland und Livland (1917).png","caption":"Flemming's military map of Baltic regions ( Lithuania , Courland , Livonia ), depicting the Russo-German front line in May 1917 (deep red), and also outlining ethnolinguistic boundaries of Lithuanians and Latvians (shaded red)","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2014-07-16 19:01:01","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A39-Litauen%2C_Kurland_und_Livland_%281917%29.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/3/31/39-Litauen%2C_Kurland_und_Livland_%281917%29.png","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1},{"mediaId":"m-d156821c51d54cef494ab0fd","title":"\"Livonia vulgo Svefland.\" (22268205781).jpg","caption":"Descripción bibliográfica: Geographia Blaviana. - [Amsterdam : Juan Blaeu, 1659] . - [32], VI, 96 p., 34 f., h. 35a, 35b, 35c, 35d, 36-44 f., 34, [2], 36-40, [2], 43-70 [i. e. 75], [1] f., [20] p. de map., [9] f. de map., [4] f. pleg. de map., [2] f. de plan., [2] f. ge grab. : |bil. ; |cFol. marca major (57 cm.) . - En la dedicatoria a Felipe IV: \"Presenta ... El Atlas Universal y Cosmographico de los orbes y terrestre ... Juan Blaeu\" . - Título tomado del frontispicio. -- Privilegio fechado en 1659. -Errores de pag. - Sign.: [ ]1, *2, **3, ***-****2, a-e2, A-I2, K1, L-Z2, Aa-Dd2, 4[ ]2, Ee-Ff2, A-I2, K1, L2, M1, N-Y2, Z5, Aa-Dd2, Ee1, A-D2, E-F1, G-I2, K-L1, M-O2, P1, Q-Z2, Aa-Bb2, Cc1, Dd3, Ff-Zz2, Aaa-Bbb2, [ ]. - Frontispicio grab. col. -- Incluye un total de 49 il. entre map., plan. i grab. Materia: Atlas - Obras anteriores a 1800 Impresor: Blaeu, Joan, 1596-1673, imp. Lugar de impresión: Holanda. Amsterdam Localización: fama.us.es/record=b2058758~S5*spi Vea la ilustración en su contexto Visite también la exposición \"Cartografía histórica en la Biblioteca de la Universidad de Sevilla\" expobus.us.es/cartografia//","creator":"Fondo Antiguo de la Biblioteca de la Universidad de Sevilla from Sevilla, España","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY 2.0","rightsNote":"Creative Commons Attribution 2.0","dateDisplay":"2015-10-17 17:45","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A%22Livonia_vulgo_Svefland.%22_%2822268205781%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5a/%22Livonia_vulgo_Svefland.%22_%2822268205781%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-18f10310404c94ae8dbe6ebb","title":"(Text Page to) Livonia, Sive Liefland. (to accompany) Atlas minor Gerardi Mercatoris. (IA dr text-page-to-livonia-sive-liefland-to-accompany-atlas-minor-gerardi-m-11201098).jpg","caption":"Zoomable full resolution image available at &lt;a href=\" https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~283126~90055539 \" rel=\"nofollow\"&gt;davidrumsey.com&lt;/a&gt;. This image &lt;a href=\"//www.davidrumsey.com/luna/servlet/view/search?q=list_no=%2211201.098%22\" rel=\"nofollow\"&gt;11201.098&lt;/a&gt; is a part of image group &lt;a href=\" https://www.davidrumsey.com/luna/servlet/view/search?q=pub_list_no=%2211201.000%22 \" rel=\"nofollow\"&gt;11201.000&lt;/a&gt;. Text to map of Livonia. The Atlas published by Ioannes Janssonius, in 1607 (2nd prelim. leaf, is dated March 1607. Pagination irregular), with 8 + 656 p.,152 black and white maps, 1 color map, text and index. Decorative colored title page that is filled with allegorical female figures of the continents, geographers measuring the globe within an architectural surrounding. Maps with title cartouche, showing the boundaries, territories, topographical features, cities and towns, landmarks, rivers, forests, compass rose, coat of arms, sea monsters, sailing vessels, etc. In full vellum binding with title \" Atlas minor Gr. Mercatoris Hondius.\" on spine. Gerardus Mercator can confidently be called the greatest cartographer of the sixteenth century, he helped to establish Amsterdam as the leading center of 16th Century cartography. Gerard Mercator originally a student of philosophy, became an expert in land surveying and cartography, as well as a skilled engraver. His first maps were published in 1537 (Palestine), and 1538 (a map of the world). His most famous contribution to science is a technique of rendering the globe on a flat surface. In 1569 he published his masterpiece, the twenty-one-sheet map of the world, still known as \"Mercator’s projection.\" Shortly after the publication of the big folio-atlases (the Atlas, Sive cosmographicae meditationes de fabrica mundi et fabricati figura 1585-9, and the edition of Ptolemy's Geographia 1578) the need was apparently felt for a smaller-sized atlas, one that would be handier and, above all cheaper, so that a larger public might have access to the use of maps. During the preparation of the publication of Mercator's large Atlas, Hondius had the maps reduced, in order to publish them as the Atlas Minor in 1607. The publisher, Cornelis Claesz, also participated in this enterprise. Phillips no. 423 Subjects:","creator":"Mercator, Gerhard, 1512-1594 Hondius, Iodocus, 1563-1612 Nicolaus, Cornelius Bottius, Adrianus","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2026-06-26 08:07:01","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A%28Text_Page_to%29_Livonia%2C_Sive_Liefland._%28to_accompany%29_Atlas_minor_Gerardi_Mercatoris._%28IA_dr_text-page-to-livonia-sive-liefland-to-accompany-atlas-minor-gerardi-m-11201098%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b2/%28Text_Page_to%29_Livonia%2C_Sive_Liefland._%28to_accompany%29_Atlas_minor_Gerardi_Mercatoris._%28IA_dr_text-page-to-livonia-sive-liefland-to-accompany-atlas-minor-gerardi-m-11201098%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-8582119d6b7997f2433f972b","title":"(Text Page to) Livonia, Sive Liefland. (to accompany) Atlas minor Gerardi Mercatoris. (IA dr text-page-to-livonia-sive-liefland-to-accompany-atlas-minor-gerardi-m-11201100).jpg","caption":"Zoomable full resolution image available at &lt;a href=\" https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~283128~90055541 \" rel=\"ugc nofollow\"&gt;davidrumsey.com&lt;/a&gt;. This image &lt;a href=\"//www.davidrumsey.com/luna/servlet/view/search?q=list_no=%2211201.100%22\" rel=\"ugc nofollow\"&gt;11201.100&lt;/a&gt; is a part of image group &lt;a href=\" https://www.davidrumsey.com/luna/servlet/view/search?q=pub_list_no=%2211201.000%22 \" rel=\"ugc nofollow\"&gt;11201.000&lt;/a&gt;. Double page text to map of Livonia. The Atlas published by Ioannes Janssonius, in 1607 (2nd prelim. leaf, is dated March 1607. Pagination irregular), with 8 + 656 p.,152 black and white maps, 1 color map, text and index. Decorative colored title page that is filled with allegorical female figures of the continents, geographers measuring the globe within an architectural surrounding. Maps with title cartouche, showing the boundaries, territories, topographical features, cities and towns, landmarks, rivers, forests, compass rose, coat of arms, sea monsters, sailing vessels, etc. In full vellum binding with title \" Atlas minor Gr. Mercatoris Hondius.\" on spine. Gerardus Mercator can confidently be called the greatest cartographer of the sixteenth century, he helped to establish Amsterdam as the leading center of 16th Century cartography. Gerard Mercator originally a student of philosophy, became an expert in land surveying and cartography, as well as a skilled engraver. His first maps were published in 1537 (Palestine), and 1538 (a map of the world). His most famous contribution to science is a technique of rendering the globe on a flat surface. In 1569 he published his masterpiece, the twenty-one-sheet map of the world, still known as \"Mercator’s projection.\" Shortly after the publication of the big folio-atlases (the Atlas, Sive cosmographicae meditationes de fabrica mundi et fabricati figura 1585-9, and the edition of Ptolemy's Geographia 1578) the need was apparently felt for a smaller-sized atlas, one that would be handier and, above all cheaper, so that a larger public might have access to the use of maps. During the preparation of the publication of Mercator's large Atlas, Hondius had the maps reduced, in order to publish them as the Atlas Minor in 1607. The publisher, Cornelis Claesz, also participated in this enterprise. Phillips no. 423 Subjects:","creator":"Mercator, Gerhard, 1512-1594 Hondius, Iodocus, 1563-1612 Nicolaus, Cornelius Bottius, Adrianus","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2026-06-22 16:51:54","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A%28Text_Page_to%29_Livonia%2C_Sive_Liefland._%28to_accompany%29_Atlas_minor_Gerardi_Mercatoris._%28IA_dr_text-page-to-livonia-sive-liefland-to-accompany-atlas-minor-gerardi-m-11201100%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1f/%28Text_Page_to%29_Livonia%2C_Sive_Liefland._%28to_accompany%29_Atlas_minor_Gerardi_Mercatoris._%28IA_dr_text-page-to-livonia-sive-liefland-to-accompany-atlas-minor-gerardi-m-11201100%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-ba9e96328686dc4f7d427033","title":"(Text Page) Livonia. La Pomerania. Il Ducato Oswieczimense, Et Zatoriense. 112 (IA dr text-page-livonia-la-pomerania-il-ducato-oswieczimense-et-zatoriense-10001291).jpg","caption":"Zoomable full resolution image available at davidrumsey.com . This image 10001.291 is a part of image group 10001.000 . Koeman: \"This the first edition ever printed with Italian text. The heirs of Abraham Ortelius sold a manuscript translation by Filippo Pigafetta to Vrients, which was then printed by him. In this translation, the Parergon and the Nomenclator were included. Apart from this, Vrients also added at the end, an Introduction to Cosmography, written by Michel Coignet. Several new maps appear here for the first time.\" Vrients added 8 new maps, making this combined Theatrum and Parergon edition the largest with 166 maps. 128 maps in the \"Theatrum\", with the \"Parergon\" having 38 maps, a portrait of Pope Clement VIII., dedications to Pope Clement VIII. and to Cardinal Aldobrandino, 1605. The Theatrum and Parergon plates are uncolored. The Parergon is Ortelius' atlas of ancient geography. Koeman: \"This atlas of ancient geography must be regarded as a personal work of Ortelius. For this work he did not, as in the Theatrum, copy other people's maps but drew the originals himself which were later engraved by Jan Wierix i.a. He took many places and regions from the lands of classical civilization to illustrate and clarify their history, a subject very close to his heart... The maps and plates of the Parergon have to be evaluated as the most outstanding engravings depicting the wide-spread interest in classical geography in the 16th century.\" Koeman Ort 38; van der Krogt 31:651. See Dr. Marcel van den Broecke web site for excellent listing of all Ortelius maps http://orteliusmaps.com Koeman Ort 68abc; Van der Krogt 2190:31; 1710:31; 1940:31; Van den Broecke Ort 158abc Subjects:","creator":"Ortelius, Abraham, 1527-1598 Vrients, Jan Baptista","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2026-06-22 02:25:24","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A%28Text_Page%29_Livonia._La_Pomerania._Il_Ducato_Oswieczimense%2C_Et_Zatoriense._112_%28IA_dr_text-page-livonia-la-pomerania-il-ducato-oswieczimense-et-zatoriense-10001291%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/ff/%28Text_Page%29_Livonia._La_Pomerania._Il_Ducato_Oswieczimense%2C_Et_Zatoriense._112_%28IA_dr_text-page-livonia-la-pomerania-il-ducato-oswieczimense-et-zatoriense-10001291%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-5339db33bfe0cc71c5353ff8","title":"Atlas Van der Hagen-KW1049B10 029-LIVONIA Vulgo Lyetland.jpeg","caption":"This map depicts the Baltic states Latvia and Estonia. Ever since the Treaty of Altmar in 1629 this area was a Swedish province which was mainly inhabited by Germans. The map was published in 1662 in the second volume of Joan Blaeus Atlas Maior . As a basis for this map, Blaeu used a large-size wall map from the Swedish scientist Anders Bureus (1571-1661), who was head of the topographical survey.","creator":"Dirk Jansz van Santen","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1662 date QS:P571,+1662-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AAtlas_Van_der_Hagen-KW1049B10_029-LIVONIA_Vulgo_Lyetland.jpeg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f9/Atlas_Van_der_Hagen-KW1049B10_029-LIVONIA_Vulgo_Lyetland.jpeg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-3996657393d31c623487cf69","title":"Atlas of Livonia, or of the Two Governments and Duchies Livonia and Estonia, and of the Province of Oesel WDL2571.jpg","caption":"This work containing 14 maps is the first complete atlas of Latvia and Estonia. The compiler of the atlas, Count Ludwig August Mellin (1754-1835), was a Baltic German who was born in Tuhala, Estonia, then a province of the Russian Empire. On a visit to Riga in 1782, Crown Prince Paul of Russia reportedly asked to see a map showing the location of the Livonian division of the Russian Army. When it turned out that no such map existed, Mellin, then a young officer in the army trained in technical drawing, was asked to draw one. Having become interested in maps in this way, Mellin undertook what became a 28-year effort to produce this atlas. In addition to the coastline, islands, and settlements, his maps show roads, administrative divisions, and features of the terrain. To compile his atlas, Mellin used the maps of the Russian Academy of Sciences and military topographers, but mostly relied on manor house maps. Mellin’s maps were issued by a Riga bookseller, but were engraved abroad, so that at one point he was accused of revealing state secrets and arrested. In 1798, Tsar Paul I issued an order stopping the sale of the maps and ordering the return of copies in private possession. Mellin was regarded as a friend of the Latvian and Estonian peoples, whose history and culture he valued and sought to preserve. Livonia","creator":"Krause, Johann Wilhelm (1757-1828)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between 1791 and 1798 date QS:P571,+1791-00-00T00:00:00Z/8,P1319,+1791-00-00T00:00:00Z/9,P1326,+1798-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AAtlas_of_Livonia%2C_or_of_the_Two_Governments_and_Duchies_Livonia_and_Estonia%2C_and_of_the_Province_of_Oesel_WDL2571.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4a/Atlas_of_Livonia%2C_or_of_the_Two_Governments_and_Duchies_Livonia_and_Estonia%2C_and_of_the_Province_of_Oesel_WDL2571.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-5c657ef0da272e32f21fa4dd","title":"Cartouche in a Livonia map by Falck.tif","caption":"Tabula ducatuum Livoniae et Curlandiae / recentior incisa editaque per Gerardum Valck","creator":"Gerhard Valk (-1726)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"circa 1700 date QS:P571,+1700-00-00T00:00:00Z/9,P1480,Q5727902","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ACartouche_in_a_Livonia_map_by_Falck.tif","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/7/72/Cartouche_in_a_Livonia_map_by_Falck.tif","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-5c543f74257070541092d595","title":"Die Russischen Ost-See-Provinzen Livland, Ehstland und Kurland. Entworfen und gezeichnet von J. Grassl. Issleib sc. (IA dr die-russischen-ost-see-provinzen-livland-ehstland-und-kurland-entworfen-u-00694006).jpg","caption":"Zoomable full resolution image available at davidrumsey.com . This image 4807.087 is a part of image group 4807.000 . Engraved map. Administrative subdivision boundaries hand col. Relief shown by hachures. Inset maps: Riga und Umgegend -- Reval und Umgegend -- Mitau und Umgegend. \"Meyer's Handatlas ...\" may appear in upper margin but is not visible on this tightly bound sheet. Prime meridian: Ferro. This is Meyer's grandest production, a real tour de force that has fifty maps of the Americas including thirty three maps that are derived from the Tanner/Mitchell Universal atlas maps of the various U.S. States and Territories, Canada, and South America and are dated from 1844 to 1854 (with most dated 1844 or 1845). Many of the maps in this atlas have Philadelphia as a place of publication (along with several other cities) indicating that there may have been an arrangement with Tanner and/or Mitchell to copy the maps. The U.S. maps dated 1844-46 all appear to derive from a late 1830s edition of Tanner's Universal atlas. Those dated from 1850-54 derive from the Mitchell and Thomas Cowperthwait issues of the Universal atlas from 1850-54. Espenhorst lists a separate atlas (3.3.3) published in 1860 with these U.S. maps only, titled \"Grosse und vollstandiger Auswanderungs-Atlas fur Nordamerika.\" The Iowa, Wisconsin, and Texas maps are not copied from the Universal atlas, but all the others are almost exact copies and it is strange that no credit is given to Tanner or Mitchell. Notwithstanding that, the copies are beautifully done and in some cases (the California map adds an inset of San Francisco Bay not on the Mitchell version) superior to the American originals. Wheat misses the Tanner/Mitchell derivation in the two maps he cites. The other maps in the atlas are all superbly engraved and the city maps have exquisite views -- all combining to make this the finest German atlas of the mid 19th century. Full and outline hand coloring. Maps are bound in half leather marbled boards with \"Meyer's Grosser Hand-Atlas aller Theile der Erde.\" stamped on the spine in gilt. Scarce. Espenhorst, J. Andree, Stieler, Meyer &amp; Co., 3.3.1; not in Phillips. Subjects:","creator":"Grassl, J. (Joseph) Issleib, Wilhelm Meyer, Joseph, 1796-1856","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2026-06-19 07:57:38","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ADie_Russischen_Ost-See-Provinzen_Livland%2C_Ehstland_und_Kurland._Entworfen_und_gezeichnet_von_J._Grassl._Issleib_sc._%28IA_dr_die-russischen-ost-see-provinzen-livland-ehstland-und-kurland-entworfen-u-00694006%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/9/98/Die_Russischen_Ost-See-Provinzen_Livland%2C_Ehstland_und_Kurland._Entworfen_und_gezeichnet_von_J._Grassl._Issleib_sc._%28IA_dr_die-russischen-ost-see-provinzen-livland-ehstland-und-kurland-entworfen-u-00694006%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-16436349b7f62e494d55df9a","title":"Livland (105417975).jpg","caption":"Historical map of Livonian Confederation .","creator":"Abraham Ortelius","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1573","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ALivland_%28105417975%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/12/Livland_%28105417975%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-df95010d636d8338a79d40a0","title":"Livland 1260.png","caption":"Political map of the Medieval Livonia, circa 1260, along with surrounding areas: Possessions of the Sword Brothers (in Livonia) and the Teutonic Order (in Prussia) Ecclesiastical possessions","creator":"Originally created by User:MapMaster , commissioned by Attilios , translated by User:NordNordWest , SVG by User:Furfur , screenshot of SVG to corrected PNG by User:Ulamm","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","dateDisplay":"2009-09-01","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ALivland_1260.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/3/33/Livland_1260.png","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-8c7dd78514595b6aafe20c3d","title":"Livland 1260.svg","caption":"Political map of the Medieval Livonia, circa 1260, along with surrounding areas: Possessions of the Sword Brothers (in Livonia) and the Teutonic Order (in Prussia) Ecclesiastical possessions","creator":"Originally created by MapMaster , commissioned by Attilios , translated by NordNordWest , modified by Furfur","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","dateDisplay":"2009-09-01","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ALivland_1260.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3a/Livland_1260.svg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-b2e8b143fa3e07585001193b","title":"Livland 15jh.png","caption":"Historical map of Livonian Confederation , Antwerpen, 1573–1598. First published in Theatrum Orbis Terrarum (1570–1612) by Abraham Ortelius .","creator":"Joannes Portantius","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"from 1573 until 1598 date QS:P,+1550-00-00T00:00:00Z/7,P580,+1573-00-00T00:00:00Z/9,P582,+1598-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ALivland_15jh.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/8/88/Livland_15jh.png","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-91e6bd330a848e321c50e070","title":"Livonia (NYPL b15404146-1632223).tiff","caption":"* An addition to the epitomies of Abraham Ortelius his littel theatre, nevvly corected, augmentated and adorned with geographicall measures, by Michel Coignet ...\", appended at end on final 15 leaves. Citation/Reference: Phillips 3407 Includes index. Lawrence H. Slaughter Collection ; 301. Maps on rectos of leaves, with descriptive text on opposite versos. NYPL copy has ms. notes written in ink on t.p. and inside back cover. National Endowment for the Humanities Grant for Access to Early Maps of the Middle Atlantic Seaboard. Text on verso.","creator":"Scan by NYPL","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1603","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ALivonia_%28NYPL_b15404146-1632223%29.tiff","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/3/31/Livonia_%28NYPL_b15404146-1632223%29.tiff","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-63dd2ed7b4bb54ad1f4d16a0","title":"Livonia sive Liefland.jpg","caption":"Livonia: Livonia sive Liefland Published in: Gerardi Mercatoris atlas sive cosmographicæ meditationes de fabrica mundi et figura in Amsterdam. Copper engraving, ca 1:3 400 000, 24 x 17 cm.","creator":"Pieter van den Keere","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"circa 1630 date QS:P,+1630-00-00T00:00:00Z/9,P1480,Q5727902","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ALivonia_sive_Liefland.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/06/Livonia_sive_Liefland.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-3c5b4a6803e6b31a745873d0","title":"Livonia, Vulgo Lyefland (IA dr livonia-vulgo-lyefland-104187392).jpg","caption":"Zoomable full resolution image available at davidrumsey.com . This image 10017.088 is a part of image group 10017.000 . 10 Milliaria German. Comm: = 4.5 cm [et al.] Blaeu's 11 volume Atlas Maior is considered by many to be the greatest atlas ever published, both in its own time and even today. It excels in comprehensiveness, engraving, color, and overall production. Each vol. has title page. with general title: Geographiæ Blavianæ volumen primum.... Each vol. has engraved special title page, hand colored. The first Latin edition was published in 1662. Subsequently published in French, Dutch, German, and Spanish; the Latin version was also sold with v. 1 dated 1665 and v. 2-11 dated 1662 (this copy). Bound as issued in vellum stamped in gilt with Blaeu device. Issued in 11 volumes. Contents: v. 1. Arctica --Europa, liber 1-2:. Norvegia. Dania. Sleswic -- v. 2. Europa, liber 3-7: Suecia. Russia. Polonia. Regiones orientales ultra Germaniam circa Danubium. Graecia -- v. 3. Europa, liber 8: Germania - -v. 4. Europa, liber 9-10: Belgica regia -- v. 5. Europa, liber 11: Anglia -- v. 6. Europa, liber 12-13: Scotia. Hibernia -- v. 7. Europa, liber 14-15: Gallia. Helvetia -- v. 8. Europa, liber 16: Italia -- v. 9. Europa, liber 17: Hispania. Africa -- v. 10. Asia -- v. 11. America. This copy is from the National Library of Scotland and we are grateful to them for providing scanned images of the atlas as part of a joint project under the guidance of Christopher Fleet, Senior Map Curator at the NLS. For more information on Joan Blaeu and the Atlas Maior, see the National Library of Scotland website, http://maps.nls.uk Koeman B1 56; van der Krogt 2:601-3 (first volume dated 1665, all others dated 1662). van der Krogt 2:601 [-3].2 (10) Subjects:","creator":"Blaeu, Joan, 1596-1673","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2026-06-20 07:21:00","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ALivonia%2C_Vulgo_Lyefland_%28IA_dr_livonia-vulgo-lyefland-104187392%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f8/Livonia%2C_Vulgo_Lyefland_%28IA_dr_livonia-vulgo-lyefland-104187392%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-44af1fc83199c492ac9f7b2f","title":"Livonia. (to accompany) Atlas minor Gerardi Mercatoris. (IA dr livonia-to-accompany-atlas-minor-gerardi-mercatoris-11201099).jpg","caption":"Zoomable full resolution image available at davidrumsey.com . This image 11201.099 is a part of image group 11201.000 . Map of northern Baltic region. Covers west to Poland, Estonia, Latvia and part of Russia. The Atlas published by Ioannes Janssonius, in 1607 (2nd prelim. leaf, is dated March 1607. Pagination irregular), with 8 + 656 p.,152 black and white maps, 1 color map, text and index. Decorative colored title page that is filled with allegorical female figures of the continents, geographers measuring the globe within an architectural surrounding. Maps with title cartouche, showing the boundaries, territories, topographical features, cities and towns, landmarks, rivers, forests, compass rose, coat of arms, sea monsters, sailing vessels, etc. In full vellum binding with title \" Atlas minor Gr. Mercatoris Hondius.\" on spine. Gerardus Mercator can confidently be called the greatest cartographer of the sixteenth century, he helped to establish Amsterdam as the leading center of 16th Century cartography. Gerard Mercator originally a student of philosophy, became an expert in land surveying and cartography, as well as a skilled engraver. His first maps were published in 1537 (Palestine), and 1538 (a map of the world). His most famous contribution to science is a technique of rendering the globe on a flat surface. In 1569 he published his masterpiece, the twenty-one-sheet map of the world, still known as \"Mercator’s projection.\" Shortly after the publication of the big folio-atlases (the Atlas, Sive cosmographicae meditationes de fabrica mundi et fabricati figura 1585-9, and the edition of Ptolemy's Geographia 1578) the need was apparently felt for a smaller-sized atlas, one that would be handier and, above all cheaper, so that a larger public might have access to the use of maps. During the preparation of the publication of Mercator's large Atlas, Hondius had the maps reduced, in order to publish them as the Atlas Minor in 1607. The publisher, Cornelis Claesz, also participated in this enterprise. Phillips no. 423 Subjects:","creator":"Mercator, Gerhard, 1512-1594 Hondius, Iodocus, 1563-1612 Nicolaus, Cornelius Bottius, Adrianus","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2026-06-20 07:20:51","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ALivonia._%28to_accompany%29_Atlas_minor_Gerardi_Mercatoris._%28IA_dr_livonia-to-accompany-atlas-minor-gerardi-mercatoris-11201099%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/65/Livonia._%28to_accompany%29_Atlas_minor_Gerardi_Mercatoris._%28IA_dr_livonia-to-accompany-atlas-minor-gerardi-mercatoris-11201099%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-b6416f1a6729940e5c6a789f","title":"Maple Tree in Autumn in Historic Rosedale Gardens Neighborhood in Livonia, Michigan.jpg","caption":"Maple Tree in Autumn in Historic Rosedale Gardens Neighborhood in Livonia, Michigan","creator":"Quadmusic","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","dateDisplay":"2024-10-30 18:39:28","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMaple_Tree_in_Autumn_in_Historic_Rosedale_Gardens_Neighborhood_in_Livonia%2C_Michigan.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/e0/Maple_Tree_in_Autumn_in_Historic_Rosedale_Gardens_Neighborhood_in_Livonia%2C_Michigan.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-66a2acc5c634b9e1d298c397","title":"Maps of Pomerania, of Livonia, and of the Duchy of Oświęcim and Zator by Abraham Ortelius.jpeg","caption":"Maps of Pomerania, of Livonia, and of the Duchy of Oświęcim and Zator by Abraham Ortelius. Theatrum Orbis Terrarum . London, 1606 (i.e. 1608?). Plate 100.","creator":"Abraham Ortelius","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"circa 1608 date QS:P,+1608-00-00T00:00:00Z/9,P1480,Q5727902","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMaps_of_Pomerania%2C_of_Livonia%2C_and_of_the_Duchy_of_O%C5%9Bwi%C4%99cim_and_Zator_by_Abraham_Ortelius.jpeg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/19/Maps_of_Pomerania%2C_of_Livonia%2C_and_of_the_Duchy_of_O%C5%9Bwi%C4%99cim_and_Zator_by_Abraham_Ortelius.jpeg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-866aef840079f6817c6988ca","title":"Medieval Livonia 1260.svg","caption":"A political map of the Medieval Livonia , circa 1260, along with surrounding areas","creator":"No machine-readable author provided. Termer assumed (based on copyright claims).","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","dateDisplay":"13 November 2008 (original upload date)","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMedieval_Livonia_1260.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b5/Medieval_Livonia_1260.svg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-6c80610e2dbefdc5882c0283","title":"Russland, Polen und Livland bis ins 17. Jahrhundert (1886) (14783601485).jpg","caption":"Map of Sarmatia Asie originally from Cosmographia (1550) by Sebastian Münster; facsimile illustration taken from the book Rußland, Polen und Livland bis ins 17. Jahrhundert (vol. 2, 1887) by Theodor Schiemann. Identifier : russlandpolenund02schi ( find matches ) Title : Russland, Polen und Livland bis ins 17. Jahrhundert Publisher : Berlin G. Grote Contributing Library : Robarts - University of Toronto Digitizing Sponsor : University of Toronto View Book Page : Book Viewer About This Book : Catalog Entry View All Images : All Images From Book Click here to view book online to see this illustration in context in a browseable online version of this book. Note About Images : Please note that these images are extracted from scanned page images that may have been digitally enhanced for readability - coloration and appearance of these illustrations may not perfectly resemble the original work.","creator":"Sebastian Münster","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1887","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ARussland%2C_Polen_und_Livland_bis_ins_17._Jahrhundert_%281886%29_%2814783601485%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/e8/Russland%2C_Polen_und_Livland_bis_ins_17._Jahrhundert_%281886%29_%2814783601485%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-9e2743550f7cbba725c48076","title":"Russland. Gouv- 3. Esthland. 4. Livland. 5. Kurland. (to accompany) Atlas von Europa nebst den Kolonien - Dreizehnte Lieferung. (IA dr russland-gouv-3-esthland-4-livland-5-kurland-to-accompany-atlas-v-8328278).jpg","caption":"Zoomable full resolution image available at davidrumsey.com . This image 8328.278 is a part of image group 8328.000 . Outline hand color map. Shows administrative divisions, counties, cities and towns. Early topographical map of Europe, together with the colonies for businessmen, newspaper readers ... by German geographical author, Wilhelm August von Schlieben (1781-1839), published in parts from 1825-1830, in 3 volumes, and 15 parts; volume 1: 1-5, Volume 2: 6-10, Volume 3: 11-15. Each volume includes outline hand colored maps, manuscript index, forward, table of content, extensive descriptive text and index. Bound in half leather green marbled paper covered boards measuring 26.5x34.5, with \"Atlas von Europa ... Lieferung\" embossed on the spine. (v.1) 1. lief. Konigreich Frankreich. I. Heft. 2. lief. Konigreich Frankreich. II. heft. und das Turkische (Osmanische) reich in Europa. 3. lief. Die Helvetische eldgenossenschaft oder die Schweiz und das konigreich Portugal. 4. lief. Das konigreich Spanien. 5. lief. Die konigreiche 1) der Niederlands 2) Danemark. und 3) Schweden mit Norwegen.--(v.2) 6. lief. Der deutsche staatebund und zwar die suddeutschen staaten. 7. lief. Der deutsche staatenbund, und zwar der nordwestliche theil der nordeutschen staaten. 8. lief. Der deutsche staatenbund. und zwar der nordostliche theil der norddeutschen staaten. 9.-10. lief. Der Preussische staat.--(v.3) 11-12. lief. Der Osterreichische staat oder das kaiserthum Oesterreich. 13. lief. Das Russische reich in Europa mit ausschiuss von Polen. 14. lief. Das konigreich Polen, die republik Krakau, die Italienischen staaten. 15. lief. Das Britische reich. Subjects:","creator":"Schlieben, Wilhelm Ernst August Hermann, O.","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2026-06-21 09:33:48","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ARussland._Gouv-_3._Esthland._4._Livland._5._Kurland._%28to_accompany%29_Atlas_von_Europa_nebst_den_Kolonien_-_Dreizehnte_Lieferung._%28IA_dr_russland-gouv-3-esthland-4-livland-5-kurland-to-accompany-atlas-v-8328278%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/d/da/Russland._Gouv-_3._Esthland._4._Livland._5._Kurland._%28to_accompany%29_Atlas_von_Europa_nebst_den_Kolonien_-_Dreizehnte_Lieferung._%28IA_dr_russland-gouv-3-esthland-4-livland-5-kurland-to-accompany-atlas-v-8328278%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-387555a18328ae02802f6ee9","title":"Sanborn Fire Insurance Map from Livonia, Livingston County, New York. LOC sanborn06044 001.jpg","caption":"Jul 1886. 1 Sheet(s).","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1886-07","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASanborn_Fire_Insurance_Map_from_Livonia%2C_Livingston_County%2C_New_York._LOC_sanborn06044_001.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/2e/Sanborn_Fire_Insurance_Map_from_Livonia%2C_Livingston_County%2C_New_York._LOC_sanborn06044_001.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-ee8a5ee049935648a5c188a8","title":"Sanborn Fire Insurance Map from Livonia, Livingston County, New York. LOC sanborn06044 002.jpg","caption":"Jan 1894. 1 Sheet(s).","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1894-01","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASanborn_Fire_Insurance_Map_from_Livonia%2C_Livingston_County%2C_New_York._LOC_sanborn06044_002.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/a/ad/Sanborn_Fire_Insurance_Map_from_Livonia%2C_Livingston_County%2C_New_York._LOC_sanborn06044_002.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-ff88df4c4ab7eaed736df7a6","title":"Wayne County Michigan Incorporated and Unincorporated areas Livonia highlighted.svg","caption":"This map shows the incorporated and unincorporated areas in Wayne County , Michigan . Highlighting Livonia in red. I created it in Inkscape using data from the US Census Bureau.","creator":"Arkyan","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","dateDisplay":"2007-04-23","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AWayne_County_Michigan_Incorporated_and_Unincorporated_areas_Livonia_highlighted.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/9/9e/Wayne_County_Michigan_Incorporated_and_Unincorporated_areas_Livonia_highlighted.svg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-c023ca821cc9131c3f159421","title":"Generalʹnai︠a︡ Karta Lifli︠a︡ndskoĭ Gubernii Sʺ pokazaniemʺ pochtovykhʺ i bolʹshikhʺ proi︠e︡zzhikhʺ dorogʺ, stant︠s︡iĭ i razstoi︠a︡nii︠a︡ mezhdu onymi verstʺ. LOC 2018688642.jpg","caption":"This 1820 map of Livland Provinceis from a larger work,Geograficheskii atlas Rossiiskoi imperii, tsarstva Pol'skogo i velikogo kniazhestva Finliandskogo(Geographical atlas of the Russian Empire, the Kingdom of Poland, and the Grand Duchy of Finland), containing 60 maps of the Russian Empire. Compiled and engraved by Colonel V.P. Piadyshev, it reflects the detailed mapping carried out by Russian military cartographers in the first quarter of the 19th century. The map shows population centers (six gradations by size), postal stations, roads (four types), provincial and district borders,taverns, and customs houses. Distances are shown in versts, a Russian measure, now no longer used, equal to 1.07 kilometers.Legends and place-names are in Russian and German. The territory depicted on the map corresponds to the southern part of present-day Estonia and the northern part of present-day Latvia. In the 12th-13th centuries, a Catholic military order known as the Livonian Brothers of the Sword captured much of this region in the era of the Northern Crusades. This region borders Lake Peipus (Lake Chudskoye in Russian on this map), which was the site of the famous Battle on the Ice in 1242. This legendary clash, between the Teutonic Knights and the Russians from Novgorod, helped to establish Alexander Nevsky as the patron saint of Russia. This conflict set an effective border between the medieval Russian and German territories. In subsequent centuries, ecclesiastical German elites (later known as Baltic Germans) formed a landed nobility that enserfed the native Estonian and Latvian peasantry. Local German barons, inhabiting the castles and estates established by the Teutonic Knights, subsequently shared ruling status with the bishops and archbishops of Riga, Dorpat (present-day Tartu), and other regional cities in the Livonian Confederation. The Swedish kings conquered this entire area in the 16th century, and established a Lutheran culture in Swedish Livonia. The subsequent Livonian War between Russia, Sweden, and Poland-Lithuania led to further upheavals by the late 16th century. Peter the Great gained this region in the Great Northern War (1700-1721) with Charles XII of Sweden, after which it became part of the Russian Empire and known as Livland Province. World Digital Library.","creator":"Pi︠A︡Dyshev, Vasiliĭ Petrovich; Russia. General Staff. Military Topographical Depot; Iwanoff","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1820","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AGeneral%CA%B9nai%EF%B8%A0a%EF%B8%A1_Karta_Lifli%EF%B8%A0a%EF%B8%A1ndsko%C4%AD_Gubernii_S%CA%BA_pokazaniem%CA%BA_pochtovykh%CA%BA_i_bol%CA%B9shikh%CA%BA_proi%EF%B8%A0e%EF%B8%A1zzhikh%CA%BA_dorog%CA%BA%2C_stant%EF%B8%A0s%EF%B8%A1i%C4%AD_i_razstoi%EF%B8%A0a%EF%B8%A1nii%EF%B8%A0a%EF%B8%A1_mezhdu_onymi_verst%CA%BA._LOC_2018688642.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/ca/General%CA%B9nai%EF%B8%A0a%EF%B8%A1_Karta_Lifli%EF%B8%A0a%EF%B8%A1ndsko%C4%AD_Gubernii_S%CA%BA_pokazaniem%CA%BA_pochtovykh%CA%BA_i_bol%CA%B9shikh%CA%BA_proi%EF%B8%A0e%EF%B8%A1zzhikh%CA%BA_dorog%CA%BA%2C_stant%EF%B8%A0s%EF%B8%A1i%C4%AD_i_razstoi%EF%B8%A0a%EF%B8%A1nii%EF%B8%A0a%EF%B8%A1_mezhdu_onymi_verst%CA%BA._LOC_2018688642.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.98,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-c57d3c72103c51e5b9d8e4d4","title":"Generalʹnai︠a︡ Karta Lifli︠a︡ndskoĭ Gubernii Sʺ pokazaniemʺ pochtovykhʺ i bolʹshikhʺ proi︠e︡zzhikhʺ dorogʺ, stant︠s︡iĭ i razstoi︠a︡nii︠a︡ mezhdu onymi verstʺ. LOC 2018688642.tif","caption":"This 1820 map of Livland Provinceis from a larger work,Geograficheskii atlas Rossiiskoi imperii, tsarstva Pol'skogo i velikogo kniazhestva Finliandskogo(Geographical atlas of the Russian Empire, the Kingdom of Poland, and the Grand Duchy of Finland), containing 60 maps of the Russian Empire. Compiled and engraved by Colonel V.P. Piadyshev, it reflects the detailed mapping carried out by Russian military cartographers in the first quarter of the 19th century. The map shows population centers (six gradations by size), postal stations, roads (four types), provincial and district borders,taverns, and customs houses. Distances are shown in versts, a Russian measure, now no longer used, equal to 1.07 kilometers.Legends and place-names are in Russian and German. The territory depicted on the map corresponds to the southern part of present-day Estonia and the northern part of present-day Latvia. In the 12th-13th centuries, a Catholic military order known as the Livonian Brothers of the Sword captured much of this region in the era of the Northern Crusades. This region borders Lake Peipus (Lake Chudskoye in Russian on this map), which was the site of the famous Battle on the Ice in 1242. This legendary clash, between the Teutonic Knights and the Russians from Novgorod, helped to establish Alexander Nevsky as the patron saint of Russia. This conflict set an effective border between the medieval Russian and German territories. In subsequent centuries, ecclesiastical German elites (later known as Baltic Germans) formed a landed nobility that enserfed the native Estonian and Latvian peasantry. Local German barons, inhabiting the castles and estates established by the Teutonic Knights, subsequently shared ruling status with the bishops and archbishops of Riga, Dorpat (present-day Tartu), and other regional cities in the Livonian Confederation. The Swedish kings conquered this entire area in the 16th century, and established a Lutheran culture in Swedish Livonia. The subsequent Livonian War between Russia, Sweden, and Poland-Lithuania led to further upheavals by the late 16th century. Peter the Great gained this region in the Great Northern War (1700-1721) with Charles XII of Sweden, after which it became part of the Russian Empire and known as Livland Province. World Digital Library.","creator":"Pi︠A︡Dyshev, Vasiliĭ Petrovich; Russia. General Staff. Military Topographical Depot; Iwanoff","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1820","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AGeneral%CA%B9nai%EF%B8%A0a%EF%B8%A1_Karta_Lifli%EF%B8%A0a%EF%B8%A1ndsko%C4%AD_Gubernii_S%CA%BA_pokazaniem%CA%BA_pochtovykh%CA%BA_i_bol%CA%B9shikh%CA%BA_proi%EF%B8%A0e%EF%B8%A1zzhikh%CA%BA_dorog%CA%BA%2C_stant%EF%B8%A0s%EF%B8%A1i%C4%AD_i_razstoi%EF%B8%A0a%EF%B8%A1nii%EF%B8%A0a%EF%B8%A1_mezhdu_onymi_verst%CA%BA._LOC_2018688642.tif","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a0/General%CA%B9nai%EF%B8%A0a%EF%B8%A1_Karta_Lifli%EF%B8%A0a%EF%B8%A1ndsko%C4%AD_Gubernii_S%CA%BA_pokazaniem%CA%BA_pochtovykh%CA%BA_i_bol%CA%B9shikh%CA%BA_proi%EF%B8%A0e%EF%B8%A1zzhikh%CA%BA_dorog%CA%BA%2C_stant%EF%B8%A0s%EF%B8%A1i%C4%AD_i_razstoi%EF%B8%A0a%EF%B8%A1nii%EF%B8%A0a%EF%B8%A1_mezhdu_onymi_verst%CA%BA._LOC_2018688642.tif","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.98,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-f37b3ae459aa6244f63dcac3","title":"1730 Homann Map of Scandinavia, Norway, Sweden, Denmark, Finland and the Baltics - Geographicus - Scandinavia-homann-1730.jpg","caption":"A detailed c. 1730 J. B. Homann map of Scandinavia. Depicts both Denmark, Norway, Sweden, Finland and the Baltic states of Livonia, Latvia and Curlandia. The map notes fortified cities, villages, roads, bridges, forests, castles and topography. The elaborate title cartouche in the upper left quadrant features angels supporting a title curtain and a medallion supporting an alternative title in French, Les Trois Covronnes du Nord . Printed in Nuremburg. This map must have been engraved before 1715 when Homann was appointed Geographer to the King. The map does not have the cum privilegio (with privilege; i.e. copyright authority given by the Emperor) as part of the title, however it was included in the c. 1750 Homann Heirs Maior Atlas Scholasticus ex Triginta Sex Generalibus et Specialibus…. as well as in Homann’s Grosser Atlas .","creator":"Johann Homann","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between 1715 and 1750 date QS:P,+1750-00-00T00:00:00Z/7,P1319,+1715-00-00T00:00:00Z/9,P1326,+1750-00-00T00:00:00Z/9 (undated)","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A1730_Homann_Map_of_Scandinavia%2C_Norway%2C_Sweden%2C_Denmark%2C_Finland_and_the_Baltics_-_Geographicus_-_Scandinavia-homann-1730.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/e5/1730_Homann_Map_of_Scandinavia%2C_Norway%2C_Sweden%2C_Denmark%2C_Finland_and_the_Baltics_-_Geographicus_-_Scandinavia-homann-1730.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-1f19d36d918aa6433e0e4a13","title":"Afbeeldinghe der Zeecusten van Coerlant en̄ Lijflant niet alle de eijlanden en̄ Jnwijcken tusschen der Memel en̄ Revel (IA dr afbeeldinghe-der-zeecusten-van-coerlant-en-lijflant-niet-alle-de-eijlanden-14351163).jpg","caption":"Zoomable full resolution image available at davidrumsey.com . This image 14351.163 is a part of image group 14351.000 . Nautical chart showing the coastline of the Courland Spit (Lithuania and Russia) and Livonia. Parallel titles appears in Dutch and French, translating (loosely) to: Portrait of the shores of the Curonian Lagoon and Livonia ... Features cities, roads, ports, topography, coastlines, shoals, islands, anchorage, soundings and a ship. Relief shown pictorially. Includes three bar scales, rhumb lines and compass roses, with north oriented toward left. Decorative cartouche. Black and white engraving. Chart is 25 x 55 cm, on double sheet 26 x 58 cm. Appears in \"Tvveede boeck\" of atlas. Het Licht der Zee-vaert, by Willem Blaeu; published in Amsterdam, 1620. Title translates to: The light of the sea. This chart atlas was Blaeu's first atlas. Initially published in 1608, this is the fifth Dutch edition with 38 (of 42) maps. Oblong quarto. Engraved title, engraved frontispiece, 38 mostly double-page engraved charts (of 42, lacking 4 maps of Denmark), woodcut illustrations and diagrams within the text, 1 with volvelle (lacking 1), letterpress tables within decorative woodcut borders. Volume comprised of 261 woodcut coastal profiles in the text, illustrations, tables and charts. Recent fine full calf binding with richly gilt spine in compartments. Collation: Engraved title, (2), engraved frontispiece, 54 pp. (A4-F4, G2) lacking 2 pages; (2, title to Eerste Boeck), [1-8], 9-119, (1 blank) pp. (2, title to Tvveede Boeck), 3-130, [131] pp. 38 engraved maps (lacking 4). Probably lacking 1 volvelle in the beginning. Lacking 4 maps of Denmark, numbers 21-22, 24-25. Het Licht der Zee-vaert was the first book produced by the Blaeu publishing house, heralding a golden age of atlas production, and survives in only a few copies. It is one of the most important Dutch pilot-guides. Blaeu's pilot books were divided into chapters, each containing navigational instructions for specific sections of coastline, accompanied by a finely engraved coastal chart for each section. Map titles appeared in Dutch and French, with woodcut profile views illustrating the text. Blaeu included an editorial commentary at the beginning of the volume, condemning the generally held view of mariners that manuscript charts were better and more accurate than printed sea charts. Blaeu questioned the widely held belief of the time that manuscript charts were updated on a daily basis. Maps show the coasts of England, Scotland, Ireland, Norway, Sweden, Russia, Finland, Baltics, Pomerania, Spain, France, Northern Africa, Canaries, Maderia, etc. Richly embellished with decorative cartouches, sailing ships, sea-monsters, compass roses and sometimes with insets. The map \"Carte van de Reede ende Haven van Medenblick\" in the beginning, was not published until the edition 1618, and only published with the Dutch title until 1620 (the cartouche for the French title was, as in this case, blank). In 1618, Blaeu added a third chapter, covering the coastline of the Mediterranean. The first two charts, signed by Blaeu as Willem Jansz, cover the eastern and western Mediterranean. Willem Blaeu's earliest work focused on navigational aids for mariners. His first publication in this field was his Nieuw graetbouck, for which there are no known surviving examples. His next works of importance were two pilot guides, the Het licht der Zee-vaert and Zeespiegel (first edition 1623). In 1621, Johannes Jansson published a direct copy of Blaeu’s pilot guide Het licht der Zee-vaert, as Blaeu’s copyright had expired. Blaeu, in turn, competed against Jansson and his brother-in-law Henricus Hondius by producing an atlas, which spurred a rivalry lasting for over 50 years. Blaeu (1571-1638) was a prominent Dutch geographer and publisher. Born the son of a herring merchant, Blaeu became mathematician and astronomer. He studied with the Danish astronomer Tycho Brahe, with whom he honed his instrument and globe making skills. Blaeu set up shop in Amsterdam, where he sold instruments and globes, published maps, and edited the works of intellectuals such as Descartes and Hugo Grotius. In 1630 he issued his first world atlas, Atlas Appendix (see our 12202.000). In 1635, he released his atlas, Theatrum Orbis Terrarum, sive, Atlas novus. Willem died in 1638. He had two sons, Cornelis (1610-1648) and Joan (1596-1673). Joan trained as a lawyer, but joined his father’s business rather than practice law. After his father’s death, the brothers took over their father’s shop and Joan took on his work as hydrographer to the Dutch East India Company. Later in life, Joan would modify and greatly expand his father’s Atlas novus, eventually releasing his own masterpiece, the Atlas maior, between 1662 and 1672 (see our 10017.000). https://ota.bodleian.ox.ac.uk Subjects: Nautical Charts","creator":"Blaeu, Willem Janszoon, 1571-1638","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2026-06-17 22:03:16","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AAfbeeldinghe_der_Zeecusten_van_Coerlant_en%CC%84_Lijflant_niet_alle_de_eijlanden_en%CC%84_Jnwijcken_tusschen_der_Memel_en%CC%84_Revel_%28IA_dr_afbeeldinghe-der-zeecusten-van-coerlant-en-lijflant-niet-alle-de-eijlanden-14351163%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c3/Afbeeldinghe_der_Zeecusten_van_Coerlant_en%CC%84_Lijflant_niet_alle_de_eijlanden_en%CC%84_Jnwijcken_tusschen_der_Memel_en%CC%84_Revel_%28IA_dr_afbeeldinghe-der-zeecusten-van-coerlant-en-lijflant-niet-alle-de-eijlanden-14351163%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-5784e42f646373dd9f882351","title":"Beschijvinghe vande wonderlijcke gebroocken custe van Oost-Vinlant, Jtem vande noordelijcste deelen van Lijflant (IA dr beschijvinghe-vande-wonderlijcke-gebroocken-custe-van-oost-vinlant-jtem-va-14351168).jpg","caption":"Zoomable full resolution image available at davidrumsey.com . This image 14351.168 is a part of image group 14351.000 . Nautical chart showing the coastline of Finland, Livonia and Russia. Parallel titles appears in Dutch and French, translating (loosely) to: Description of the sea coast of eastern Finland, the Northern parts of Livonia, and of the coasts of Russia, located at the Gulf of Finland ... Features cities, roads, ports, topography, coastlines, shoals, islands, anchorage, soundings and a ship. Relief shown pictorially. Includes three bar scales, rhumb lines and compass roses, with north oriented toward top. Decorative cartouches. Black and white engraving. Chart is 25 x 55 cm, on double sheet 26 x 58 cm. Appears in \"Tvveede boeck\" of atlas. Het Licht der Zee-vaert, by Willem Blaeu; published in Amsterdam, 1620. Title translates to: The light of the sea. This chart atlas was Blaeu's first atlas. Initially published in 1608, this is the fifth Dutch edition with 38 (of 42) maps. Oblong quarto. Engraved title, engraved frontispiece, 38 mostly double-page engraved charts (of 42, lacking 4 maps of Denmark), woodcut illustrations and diagrams within the text, 1 with volvelle (lacking 1), letterpress tables within decorative woodcut borders. Volume comprised of 261 woodcut coastal profiles in the text, illustrations, tables and charts. Recent fine full calf binding with richly gilt spine in compartments. Collation: Engraved title, (2), engraved frontispiece, 54 pp. (A4-F4, G2) lacking 2 pages; (2, title to Eerste Boeck), [1-8], 9-119, (1 blank) pp. (2, title to Tvveede Boeck), 3-130, [131] pp. 38 engraved maps (lacking 4). Probably lacking 1 volvelle in the beginning. Lacking 4 maps of Denmark, numbers 21-22, 24-25. Het Licht der Zee-vaert was the first book produced by the Blaeu publishing house, heralding a golden age of atlas production, and survives in only a few copies. It is one of the most important Dutch pilot-guides. Blaeu's pilot books were divided into chapters, each containing navigational instructions for specific sections of coastline, accompanied by a finely engraved coastal chart for each section. Map titles appeared in Dutch and French, with woodcut profile views illustrating the text. Blaeu included an editorial commentary at the beginning of the volume, condemning the generally held view of mariners that manuscript charts were better and more accurate than printed sea charts. Blaeu questioned the widely held belief of the time that manuscript charts were updated on a daily basis. Maps show the coasts of England, Scotland, Ireland, Norway, Sweden, Russia, Finland, Baltics, Pomerania, Spain, France, Northern Africa, Canaries, Maderia, etc. Richly embellished with decorative cartouches, sailing ships, sea-monsters, compass roses and sometimes with insets. The map \"Carte van de Reede ende Haven van Medenblick\" in the beginning, was not published until the edition 1618, and only published with the Dutch title until 1620 (the cartouche for the French title was, as in this case, blank). In 1618, Blaeu added a third chapter, covering the coastline of the Mediterranean. The first two charts, signed by Blaeu as Willem Jansz, cover the eastern and western Mediterranean. Willem Blaeu's earliest work focused on navigational aids for mariners. His first publication in this field was his Nieuw graetbouck, for which there are no known surviving examples. His next works of importance were two pilot guides, the Het licht der Zee-vaert and Zeespiegel (first edition 1623). In 1621, Johannes Jansson published a direct copy of Blaeu’s pilot guide Het licht der Zee-vaert, as Blaeu’s copyright had expired. Blaeu, in turn, competed against Jansson and his brother-in-law Henricus Hondius by producing an atlas, which spurred a rivalry lasting for over 50 years. Blaeu (1571-1638) was a prominent Dutch geographer and publisher. Born the son of a herring merchant, Blaeu became mathematician and astronomer. He studied with the Danish astronomer Tycho Brahe, with whom he honed his instrument and globe making skills. Blaeu set up shop in Amsterdam, where he sold instruments and globes, published maps, and edited the works of intellectuals such as Descartes and Hugo Grotius. In 1630 he issued his first world atlas, Atlas Appendix (see our 12202.000). In 1635, he released his atlas, Theatrum Orbis Terrarum, sive, Atlas novus. Willem died in 1638. He had two sons, Cornelis (1610-1648) and Joan (1596-1673). Joan trained as a lawyer, but joined his father’s business rather than practice law. After his father’s death, the brothers took over their father’s shop and Joan took on his work as hydrographer to the Dutch East India Company. Later in life, Joan would modify and greatly expand his father’s Atlas novus, eventually releasing his own masterpiece, the Atlas maior, between 1662 and 1672 (see our 10017.000). https://ota.bodleian.ox.ac.uk Subjects: Nautical Charts","creator":"Blaeu, Willem Janszoon, 1571-1638","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2026-06-18 03:19:51","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ABeschijvinghe_vande_wonderlijcke_gebroocken_custe_van_Oost-Vinlant%2C_Jtem_vande_noordelijcste_deelen_van_Lijflant_%28IA_dr_beschijvinghe-vande-wonderlijcke-gebroocken-custe-van-oost-vinlant-jtem-va-14351168%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/8/80/Beschijvinghe_vande_wonderlijcke_gebroocken_custe_van_Oost-Vinlant%2C_Jtem_vande_noordelijcste_deelen_van_Lijflant_%28IA_dr_beschijvinghe-vande-wonderlijcke-gebroocken-custe-van-oost-vinlant-jtem-va-14351168%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-d37c2976759c3635f0966c0c","title":"Giovanni Antonio Magini. Moscoviae Imperivm. 1608.jpg","caption":"The map of Muscovite Empire includes also the territory of old Livonia and the North-eastern part of the Baltic Sea. The map depicts the end of the 16th century – the beginning of the 17th century cartographers’ notion of the Baltic Sea coastlines geographic view, which is of interest to us. Even though in the territory of present-day Latvia only a few place-names are noted (Riga, Venda, Dunemborg, Duina fluu., and Cureti pop.) and the coastline is significantly misrepresented, the map is testimony to the increasing geographical knowledge in Europe about our land. The map is included in M. Quad’s atlas published in Cologne in 1608. This map is a copy of G. A. Magini’s map of Moscowy, which was first published in the 1596 edition of Claudius Ptolemy’s Geography.","creator":"Giovanni Antonio Magini","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1608","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AGiovanni_Antonio_Magini._Moscoviae_Imperivm._1608.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/8/89/Giovanni_Antonio_Magini._Moscoviae_Imperivm._1608.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-5cfd0213db4dc2c576e3ed4c","title":"Polish-Lithuania map (1450-1600)-es.svg","caption":"Map showing the conflicts and territory of the union (later commonwealth) of Poland-Lithuania. National border Administrative or temporal division The Grand Duchy of Lithuania in 1450 Livonia Other rule Russia before 1494 Ceded to Russia in 1494 Ceded to Russia in 1503 Ceded to Russia in 1514 Ceded to Russia in 1536 Area recovered by Lithuania (Liubech) in 1508 Area recovered by Lithuania (Gomel) in 1537 Union of Lublin : Territory of the Kingdom of Poland before the Union of Lublin Territory of the Grand Duchy of Lithuania after the Union of Lublin Territory lost from the Grand Duchy of Lithuania to the Kingdom of Poland immediately preceding the Union of Lublin (the Voivodeships of Kiev, Podlaskie, Bracław, and Volhynia) The Polish-Lithuania Commonwealth after the Union of Lublin Border between Poland and Lithuania after the Union of Lublin Significant battles fought by Poland-Lithuania. Red: against the Tartars; Black: against Russia. Year given in small type. Significant fortress","creator":"Polish-Lithuania map (1450-1600).svg : Grandiose ( talk · contribs ) derivative work: Rowanwindwhistler ( talk )","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","dateDisplay":"2015-11-11","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APolish-Lithuania_map_%281450-1600%29-es.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b0/Polish-Lithuania_map_%281450-1600%29-es.svg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-a78b4753c42f87409fce7728","title":"Polish-Lithuania map (1450-1600).svg","caption":"Map showing the conflicts and territory of the union (later commonwealth) of Poland-Lithuania. National border Administrative or temporal division The Grand Duchy of Lithuania in 1450 Livonia Other rule Russia before 1494 Ceded to Russia in 1494 Ceded to Russia in 1503 Ceded to Russia in 1514 Ceded to Russia in 1536 Area recovered by Lithuania (Liubech) in 1508 Area recovered by Lithuania (Gomel) in 1537 Union of Lublin : Territory of the Kingdom of Poland before the Union of Lublin Territory of the Grand Duchy of Lithuania after the Union of Lublin Territory lost from the Grand Duchy of Lithuania to the Kingdom of Poland immediately preceding the Union of Lublin (the Voivodeships of Kiev, Podlaskie, Bracław, and Volhynia) The Polish-Lithuania Commonwealth after the Union of Lublin Border between Poland and Lithuania after the Union of Lublin Significant battles fought by Poland-Lithuania. Red: against the Tartars; Black: against Russia. Year given in small type. Significant fortress","creator":"Grandiose , adapted considerably from: (2001) Lietuvos istorijos atlasas , Vilnius: Vaga, pp. 16-17 ISBN 5-415-01577-9","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","dateDisplay":"2011-04-18","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APolish-Lithuania_map_%281450-1600%29.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/54/Polish-Lithuania_map_%281450-1600%29.svg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-cf824b3baa77d827bfe4a77f","title":"Text Page to) Capittel VII. Beschryvinghe der See-custen ende Eylanden van Lijflandt, tusschen der Memel ende Revel. (1 (IA dr text-page-to-capittel-vii-beschryvinghe-der-see-custen-ende-eylanden-van-14351162).jpg","caption":"Zoomable full resolution image available at &lt;a href=\" https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~338251~90106203 \" rel=\"ugc nofollow\"&gt;davidrumsey.com&lt;/a&gt;. This image &lt;a href=\"//www.davidrumsey.com/luna/servlet/view/search?q=list_no=%2214351.162%22\" rel=\"ugc nofollow\"&gt;14351.162&lt;/a&gt; is a part of image group &lt;a href=\" https://www.davidrumsey.com/luna/servlet/view/search?q=pub_list_no=%2214351.000%22 \" rel=\"ugc nofollow\"&gt;14351.000&lt;/a&gt;. Seventh chapter to \"Tvveede boeck\" - second book - of Het Licht der Zee-vaert. Title translates (loosely) to: Description of the sea coast of Livonia between \"Memel\" and \"Revel\" ... Includes section: I. De gheleghentheydt van der Memel af tot Domesnes. With historiated initial. Spans pages 50-56. Het Licht der Zee-vaert, by Willem Blaeu; published in Amsterdam, 1620. Title translates to: The light of the sea. This chart atlas was Blaeu's first atlas. Initially published in 1608, this is the fifth Dutch edition with 38 (of 42) maps. Oblong quarto. Engraved title, engraved frontispiece, 38 mostly double-page engraved charts (of 42, lacking 4 maps of Denmark), woodcut illustrations and diagrams within the text, 1 with volvelle (lacking 1), letterpress tables within decorative woodcut borders. Volume comprised of 261 woodcut coastal profiles in the text, illustrations, tables and charts. Recent fine full calf binding with richly gilt spine in compartments. Collation: Engraved title, (2), engraved frontispiece, 54 pp. (A4-F4, G2) lacking 2 pages; (2, title to Eerste Boeck), [1-8], 9-119, (1 blank) pp. (2, title to Tvveede Boeck), 3-130, [131] pp. 38 engraved maps (lacking 4). Probably lacking 1 volvelle in the beginning. Lacking 4 maps of Denmark, numbers 21-22, 24-25. Het Licht der Zee-vaert was the first book produced by the Blaeu publishing house, heralding a golden age of atlas production, and survives in only a few copies. It is one of the most important Dutch pilot-guides. Blaeu's pilot books were divided into chapters, each containing navigational instructions for specific sections of coastline, accompanied by a finely engraved coastal chart for each section. Map titles appeared in Dutch and French, with woodcut profile views illustrating the text. Blaeu included an editorial commentary at the beginning of the volume, condemning the generally held view of mariners that manuscript charts were better and more accurate than printed sea charts. Blaeu questioned the widely held belief of the time that manuscript charts were updated on a daily basis. Maps show the coasts of England, Scotland, Ireland, Norway, Sweden, Russia, Finland, Baltics, Pomerania, Spain, France, Northern Africa, Canaries, Maderia, etc. Richly embellished with decorative cartouches, sailing ships, sea-monsters, compass roses and sometimes with insets. The map \"Carte van de Reede ende Haven van Medenblick\" in the beginning, was not published until the edition 1618, and only published with the Dutch title until 1620 (the cartouche for the French title was, as in this case, blank). In 1618, Blaeu added a third chapter, covering the coastline of the Mediterranean. The first two charts, signed by Blaeu as Willem Jansz, cover the eastern and western Mediterranean. Willem Blaeu's earliest work focused on navigational aids for mariners. His first publication in this field was his Nieuw graetbouck, for which there are no known surviving examples. His next works of importance were two pilot guides, the Het licht der Zee-vaert and Zeespiegel (first edition 1623). In 1621, Johannes Jansson published a direct copy of Blaeu’s pilot guide Het licht der Zee-vaert, as Blaeu’s copyright had expired. Blaeu, in turn, competed against Jansson and his brother-in-law Henricus Hondius by producing an atlas, which spurred a rivalry lasting for over 50 years. Blaeu (1571-1638) was a prominent Dutch geographer and publisher. Born the son of a herring merchant, Blaeu became mathematician and astronomer. He studied with the Danish astronomer Tycho Brahe, with whom he honed his instrument and globe making skills. Blaeu set up shop in Amsterdam, where he sold instruments and globes, published maps, and edited the works of intellectuals such as Descartes and Hugo Grotius. In 1630 he issued his first world atlas, Atlas Appendix (see our 12202.000). In 1635, he released his atlas, Theatrum Orbis Terrarum, sive, Atlas novus. Willem died in 1638. He had two sons, Cornelis (1610-1648) and Joan (1596-1673). Joan trained as a lawyer, but joined his father’s business rather than practice law. After his father’s death, the brothers took over their father’s shop and Joan took on his work as hydrographer to the Dutch East India Company. Later in life, Joan would modify and greatly expand his father’s Atlas novus, eventually releasing his own masterpiece, the Atlas maior, between 1662 and 1672 (see our 10017.000). &lt;a href=\" https://ota.bodleian.ox.ac.uk/repository/xmlui/bitstream/handle/20.500.12024/A16189/A16189.html?sequence=5&amp;isAllowed=y \" rel=\"ugc nofollow\"&gt; https://ota.bodleian.ox.ac.uk &lt;/a&gt; Subjects:","creator":"Blaeu, Willem Janszoon, 1571-1638","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2026-06-22 07:26:38","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AText_Page_to%29_Capittel_VII._Beschryvinghe_der_See-custen_ende_Eylanden_van_Lijflandt%2C_tusschen_der_Memel_ende_Revel._%281_%28IA_dr_text-page-to-capittel-vii-beschryvinghe-der-see-custen-ende-eylanden-van-14351162%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fe/Text_Page_to%29_Capittel_VII._Beschryvinghe_der_See-custen_ende_Eylanden_van_Lijflandt%2C_tusschen_der_Memel_ende_Revel._%281_%28IA_dr_text-page-to-capittel-vii-beschryvinghe-der-see-custen-ende-eylanden-van-14351162%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-8b3ac0df6ca90926359b8f51","title":"Text Page to) Capittel VII. Beschryvinghe der See-custen ende Eylanden van Lijflandt, tusschen der Memel ende Revel. (2 (IA dr text-page-to-capittel-vii-beschryvinghe-der-see-custen-ende-eylanden-van-14351164).jpg","caption":"Zoomable full resolution image available at &lt;a href=\" https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~338252~90106206 \" rel=\"ugc nofollow\"&gt;davidrumsey.com&lt;/a&gt;. This image &lt;a href=\"//www.davidrumsey.com/luna/servlet/view/search?q=list_no=%2214351.164%22\" rel=\"ugc nofollow\"&gt;14351.164&lt;/a&gt; is a part of image group &lt;a href=\" https://www.davidrumsey.com/luna/servlet/view/search?q=pub_list_no=%2214351.000%22 \" rel=\"ugc nofollow\"&gt;14351.000&lt;/a&gt;. Seventh chapter to \"Tvveede boeck\" - second book - of Het Licht der Zee-vaert. Title translates (loosely) to: Description of the sea coast of Livonia between \"Memel\" and \"Revel\" ... Includes sections: I. De gheleghentheydt van der Memel af tot Domesnes. -- II. Om van Domesnes naer Ryghe ende Parnout te seylen. Features engraved profile views. Spans pages 50-56. Het Licht der Zee-vaert, by Willem Blaeu; published in Amsterdam, 1620. Title translates to: The light of the sea. This chart atlas was Blaeu's first atlas. Initially published in 1608, this is the fifth Dutch edition with 38 (of 42) maps. Oblong quarto. Engraved title, engraved frontispiece, 38 mostly double-page engraved charts (of 42, lacking 4 maps of Denmark), woodcut illustrations and diagrams within the text, 1 with volvelle (lacking 1), letterpress tables within decorative woodcut borders. Volume comprised of 261 woodcut coastal profiles in the text, illustrations, tables and charts. Recent fine full calf binding with richly gilt spine in compartments. Collation: Engraved title, (2), engraved frontispiece, 54 pp. (A4-F4, G2) lacking 2 pages; (2, title to Eerste Boeck), [1-8], 9-119, (1 blank) pp. (2, title to Tvveede Boeck), 3-130, [131] pp. 38 engraved maps (lacking 4). Probably lacking 1 volvelle in the beginning. Lacking 4 maps of Denmark, numbers 21-22, 24-25. Het Licht der Zee-vaert was the first book produced by the Blaeu publishing house, heralding a golden age of atlas production, and survives in only a few copies. It is one of the most important Dutch pilot-guides. Blaeu's pilot books were divided into chapters, each containing navigational instructions for specific sections of coastline, accompanied by a finely engraved coastal chart for each section. Map titles appeared in Dutch and French, with woodcut profile views illustrating the text. Blaeu included an editorial commentary at the beginning of the volume, condemning the generally held view of mariners that manuscript charts were better and more accurate than printed sea charts. Blaeu questioned the widely held belief of the time that manuscript charts were updated on a daily basis. Maps show the coasts of England, Scotland, Ireland, Norway, Sweden, Russia, Finland, Baltics, Pomerania, Spain, France, Northern Africa, Canaries, Maderia, etc. Richly embellished with decorative cartouches, sailing ships, sea-monsters, compass roses and sometimes with insets. The map \"Carte van de Reede ende Haven van Medenblick\" in the beginning, was not published until the edition 1618, and only published with the Dutch title until 1620 (the cartouche for the French title was, as in this case, blank). In 1618, Blaeu added a third chapter, covering the coastline of the Mediterranean. The first two charts, signed by Blaeu as Willem Jansz, cover the eastern and western Mediterranean. Willem Blaeu's earliest work focused on navigational aids for mariners. His first publication in this field was his Nieuw graetbouck, for which there are no known surviving examples. His next works of importance were two pilot guides, the Het licht der Zee-vaert and Zeespiegel (first edition 1623). In 1621, Johannes Jansson published a direct copy of Blaeu’s pilot guide Het licht der Zee-vaert, as Blaeu’s copyright had expired. Blaeu, in turn, competed against Jansson and his brother-in-law Henricus Hondius by producing an atlas, which spurred a rivalry lasting for over 50 years. Blaeu (1571-1638) was a prominent Dutch geographer and publisher. Born the son of a herring merchant, Blaeu became mathematician and astronomer. He studied with the Danish astronomer Tycho Brahe, with whom he honed his instrument and globe making skills. Blaeu set up shop in Amsterdam, where he sold instruments and globes, published maps, and edited the works of intellectuals such as Descartes and Hugo Grotius. In 1630 he issued his first world atlas, Atlas Appendix (see our 12202.000). In 1635, he released his atlas, Theatrum Orbis Terrarum, sive, Atlas novus. Willem died in 1638. He had two sons, Cornelis (1610-1648) and Joan (1596-1673). Joan trained as a lawyer, but joined his father’s business rather than practice law. After his father’s death, the brothers took over their father’s shop and Joan took on his work as hydrographer to the Dutch East India Company. Later in life, Joan would modify and greatly expand his father’s Atlas novus, eventually releasing his own masterpiece, the Atlas maior, between 1662 and 1672 (see our 10017.000). &lt;a href=\" https://ota.bodleian.ox.ac.uk/repository/xmlui/bitstream/handle/20.500.12024/A16189/A16189.html?sequence=5&amp;isAllowed=y \" rel=\"ugc nofollow\"&gt; https://ota.bodleian.ox.ac.uk &lt;/a&gt; Subjects:","creator":"Blaeu, Willem Janszoon, 1571-1638","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2026-06-22 07:26:47","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AText_Page_to%29_Capittel_VII._Beschryvinghe_der_See-custen_ende_Eylanden_van_Lijflandt%2C_tusschen_der_Memel_ende_Revel._%282_%28IA_dr_text-page-to-capittel-vii-beschryvinghe-der-see-custen-ende-eylanden-van-14351164%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d0/Text_Page_to%29_Capittel_VII._Beschryvinghe_der_See-custen_ende_Eylanden_van_Lijflandt%2C_tusschen_der_Memel_ende_Revel._%282_%28IA_dr_text-page-to-capittel-vii-beschryvinghe-der-see-custen-ende-eylanden-van-14351164%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-0a3ac55439286fa4a11f591d","title":"Text Page to) Capittel VII. Beschryvinghe der See-custen ende Eylanden van Lijflandt, tusschen der Memel ende Revel. (3 (IA dr text-page-to-capittel-vii-beschryvinghe-der-see-custen-ende-eylanden-van-14351165).jpg","caption":"Zoomable full resolution image available at &lt;a href=\" https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~338253~90106211 \" rel=\"nofollow\"&gt;davidrumsey.com&lt;/a&gt;. This image &lt;a href=\"//www.davidrumsey.com/luna/servlet/view/search?q=list_no=%2214351.165%22\" rel=\"nofollow\"&gt;14351.165&lt;/a&gt; is a part of image group &lt;a href=\" https://www.davidrumsey.com/luna/servlet/view/search?q=pub_list_no=%2214351.000%22 \" rel=\"nofollow\"&gt;14351.000&lt;/a&gt;. Seventh chapter to \"Tvveede boeck\" - second book - of Het Licht der Zee-vaert. Title translates (loosely) to: Description of the sea coast of Livonia between \"Memel\" and \"Revel\" ... Includes sections: II. Om van Domesnes naer Ryghe ende Parnout te seylen. -- III. De gheleghentheyt van de Oost-custe van Oesel. -- IV. De gheleghentheyt van de West-custe van Oesel ende van Dagheroort. Features engraved profile views. Spans pages 50-56. Het Licht der Zee-vaert, by Willem Blaeu; published in Amsterdam, 1620. Title translates to: The light of the sea. This chart atlas was Blaeu's first atlas. Initially published in 1608, this is the fifth Dutch edition with 38 (of 42) maps. Oblong quarto. Engraved title, engraved frontispiece, 38 mostly double-page engraved charts (of 42, lacking 4 maps of Denmark), woodcut illustrations and diagrams within the text, 1 with volvelle (lacking 1), letterpress tables within decorative woodcut borders. Volume comprised of 261 woodcut coastal profiles in the text, illustrations, tables and charts. Recent fine full calf binding with richly gilt spine in compartments. Collation: Engraved title, (2), engraved frontispiece, 54 pp. (A4-F4, G2) lacking 2 pages; (2, title to Eerste Boeck), [1-8], 9-119, (1 blank) pp. (2, title to Tvveede Boeck), 3-130, [131] pp. 38 engraved maps (lacking 4). Probably lacking 1 volvelle in the beginning. Lacking 4 maps of Denmark, numbers 21-22, 24-25. Het Licht der Zee-vaert was the first book produced by the Blaeu publishing house, heralding a golden age of atlas production, and survives in only a few copies. It is one of the most important Dutch pilot-guides. Blaeu's pilot books were divided into chapters, each containing navigational instructions for specific sections of coastline, accompanied by a finely engraved coastal chart for each section. Map titles appeared in Dutch and French, with woodcut profile views illustrating the text. Blaeu included an editorial commentary at the beginning of the volume, condemning the generally held view of mariners that manuscript charts were better and more accurate than printed sea charts. Blaeu questioned the widely held belief of the time that manuscript charts were updated on a daily basis. Maps show the coasts of England, Scotland, Ireland, Norway, Sweden, Russia, Finland, Baltics, Pomerania, Spain, France, Northern Africa, Canaries, Maderia, etc. Richly embellished with decorative cartouches, sailing ships, sea-monsters, compass roses and sometimes with insets. The map \"Carte van de Reede ende Haven van Medenblick\" in the beginning, was not published until the edition 1618, and only published with the Dutch title until 1620 (the cartouche for the French title was, as in this case, blank). In 1618, Blaeu added a third chapter, covering the coastline of the Mediterranean. The first two charts, signed by Blaeu as Willem Jansz, cover the eastern and western Mediterranean. Willem Blaeu's earliest work focused on navigational aids for mariners. His first publication in this field was his Nieuw graetbouck, for which there are no known surviving examples. His next works of importance were two pilot guides, the Het licht der Zee-vaert and Zeespiegel (first edition 1623). In 1621, Johannes Jansson published a direct copy of Blaeu’s pilot guide Het licht der Zee-vaert, as Blaeu’s copyright had expired. Blaeu, in turn, competed against Jansson and his brother-in-law Henricus Hondius by producing an atlas, which spurred a rivalry lasting for over 50 years. Blaeu (1571-1638) was a prominent Dutch geographer and publisher. Born the son of a herring merchant, Blaeu became mathematician and astronomer. He studied with the Danish astronomer Tycho Brahe, with whom he honed his instrument and globe making skills. Blaeu set up shop in Amsterdam, where he sold instruments and globes, published maps, and edited the works of intellectuals such as Descartes and Hugo Grotius. In 1630 he issued his first world atlas, Atlas Appendix (see our 12202.000). In 1635, he released his atlas, Theatrum Orbis Terrarum, sive, Atlas novus. Willem died in 1638. He had two sons, Cornelis (1610-1648) and Joan (1596-1673). Joan trained as a lawyer, but joined his father’s business rather than practice law. After his father’s death, the brothers took over their father’s shop and Joan took on his work as hydrographer to the Dutch East India Company. Later in life, Joan would modify and greatly expand his father’s Atlas novus, eventually releasing his own masterpiece, the Atlas maior, between 1662 and 1672 (see our 10017.000). &lt;a href=\" https://ota.bodleian.ox.ac.uk/repository/xmlui/bitstream/handle/20.500.12024/A16189/A16189.html?sequence=5&amp;isAllowed=y \" rel=\"nofollow\"&gt; https://ota.bodleian.ox.ac.uk &lt;/a&gt; Subjects:","creator":"Blaeu, Willem Janszoon, 1571-1638","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2026-06-22 07:26:54","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AText_Page_to%29_Capittel_VII._Beschryvinghe_der_See-custen_ende_Eylanden_van_Lijflandt%2C_tusschen_der_Memel_ende_Revel._%283_%28IA_dr_text-page-to-capittel-vii-beschryvinghe-der-see-custen-ende-eylanden-van-14351165%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f6/Text_Page_to%29_Capittel_VII._Beschryvinghe_der_See-custen_ende_Eylanden_van_Lijflandt%2C_tusschen_der_Memel_ende_Revel._%283_%28IA_dr_text-page-to-capittel-vii-beschryvinghe-der-see-custen-ende-eylanden-van-14351165%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-3dd82a109db73ac10a1a95a1","title":"Text Page to) Capittel VII. Beschryvinghe der See-custen ende Eylanden van Lijflandt, tusschen der Memel ende Revel. (4 (IA dr text-page-to-capittel-vii-beschryvinghe-der-see-custen-ende-eylanden-van-14351166).jpg","caption":"Zoomable full resolution image available at &lt;a href=\" https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~338254~90106213 \" rel=\"nofollow\"&gt;davidrumsey.com&lt;/a&gt;. This image &lt;a href=\"//www.davidrumsey.com/luna/servlet/view/search?q=list_no=%2214351.166%22\" rel=\"nofollow\"&gt;14351.166&lt;/a&gt; is a part of image group &lt;a href=\" https://www.davidrumsey.com/luna/servlet/view/search?q=pub_list_no=%2214351.000%22 \" rel=\"nofollow\"&gt;14351.000&lt;/a&gt;. Seventh chapter to \"Tvveede boeck\" - second book - of Het Licht der Zee-vaert. Title translates (loosely) to: Description of the sea coast of Livonia between \"Memel\" and \"Revel\" ... Includes sections: V. Om de Meunsondt in te seylen, achter ofte benoorden Oesel om tot in de Rijgsche Inwijck. -- VI. De gheleghentheyt van Oetgens holm af tot Revel toe. -- VII. Hoe dese Plaetsen van malcanderen zijn gheleghen. Features engraved profile view. Spans pages 50-56. Het Licht der Zee-vaert, by Willem Blaeu; published in Amsterdam, 1620. Title translates to: The light of the sea. This chart atlas was Blaeu's first atlas. Initially published in 1608, this is the fifth Dutch edition with 38 (of 42) maps. Oblong quarto. Engraved title, engraved frontispiece, 38 mostly double-page engraved charts (of 42, lacking 4 maps of Denmark), woodcut illustrations and diagrams within the text, 1 with volvelle (lacking 1), letterpress tables within decorative woodcut borders. Volume comprised of 261 woodcut coastal profiles in the text, illustrations, tables and charts. Recent fine full calf binding with richly gilt spine in compartments. Collation: Engraved title, (2), engraved frontispiece, 54 pp. (A4-F4, G2) lacking 2 pages; (2, title to Eerste Boeck), [1-8], 9-119, (1 blank) pp. (2, title to Tvveede Boeck), 3-130, [131] pp. 38 engraved maps (lacking 4). Probably lacking 1 volvelle in the beginning. Lacking 4 maps of Denmark, numbers 21-22, 24-25. Het Licht der Zee-vaert was the first book produced by the Blaeu publishing house, heralding a golden age of atlas production, and survives in only a few copies. It is one of the most important Dutch pilot-guides. Blaeu's pilot books were divided into chapters, each containing navigational instructions for specific sections of coastline, accompanied by a finely engraved coastal chart for each section. Map titles appeared in Dutch and French, with woodcut profile views illustrating the text. Blaeu included an editorial commentary at the beginning of the volume, condemning the generally held view of mariners that manuscript charts were better and more accurate than printed sea charts. Blaeu questioned the widely held belief of the time that manuscript charts were updated on a daily basis. Maps show the coasts of England, Scotland, Ireland, Norway, Sweden, Russia, Finland, Baltics, Pomerania, Spain, France, Northern Africa, Canaries, Maderia, etc. Richly embellished with decorative cartouches, sailing ships, sea-monsters, compass roses and sometimes with insets. The map \"Carte van de Reede ende Haven van Medenblick\" in the beginning, was not published until the edition 1618, and only published with the Dutch title until 1620 (the cartouche for the French title was, as in this case, blank). In 1618, Blaeu added a third chapter, covering the coastline of the Mediterranean. The first two charts, signed by Blaeu as Willem Jansz, cover the eastern and western Mediterranean. Willem Blaeu's earliest work focused on navigational aids for mariners. His first publication in this field was his Nieuw graetbouck, for which there are no known surviving examples. His next works of importance were two pilot guides, the Het licht der Zee-vaert and Zeespiegel (first edition 1623). In 1621, Johannes Jansson published a direct copy of Blaeu’s pilot guide Het licht der Zee-vaert, as Blaeu’s copyright had expired. Blaeu, in turn, competed against Jansson and his brother-in-law Henricus Hondius by producing an atlas, which spurred a rivalry lasting for over 50 years. Blaeu (1571-1638) was a prominent Dutch geographer and publisher. Born the son of a herring merchant, Blaeu became mathematician and astronomer. He studied with the Danish astronomer Tycho Brahe, with whom he honed his instrument and globe making skills. Blaeu set up shop in Amsterdam, where he sold instruments and globes, published maps, and edited the works of intellectuals such as Descartes and Hugo Grotius. In 1630 he issued his first world atlas, Atlas Appendix (see our 12202.000). In 1635, he released his atlas, Theatrum Orbis Terrarum, sive, Atlas novus. Willem died in 1638. He had two sons, Cornelis (1610-1648) and Joan (1596-1673). Joan trained as a lawyer, but joined his father’s business rather than practice law. After his father’s death, the brothers took over their father’s shop and Joan took on his work as hydrographer to the Dutch East India Company. Later in life, Joan would modify and greatly expand his father’s Atlas novus, eventually releasing his own masterpiece, the Atlas maior, between 1662 and 1672 (see our 10017.000). &lt;a href=\" https://ota.bodleian.ox.ac.uk/repository/xmlui/bitstream/handle/20.500.12024/A16189/A16189.html?sequence=5&amp;isAllowed=y \" rel=\"nofollow\"&gt; https://ota.bodleian.ox.ac.uk &lt;/a&gt; Subjects:","creator":"Blaeu, Willem Janszoon, 1571-1638","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2026-06-22 07:27:00","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AText_Page_to%29_Capittel_VII._Beschryvinghe_der_See-custen_ende_Eylanden_van_Lijflandt%2C_tusschen_der_Memel_ende_Revel._%284_%28IA_dr_text-page-to-capittel-vii-beschryvinghe-der-see-custen-ende-eylanden-van-14351166%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c2/Text_Page_to%29_Capittel_VII._Beschryvinghe_der_See-custen_ende_Eylanden_van_Lijflandt%2C_tusschen_der_Memel_ende_Revel._%284_%28IA_dr_text-page-to-capittel-vii-beschryvinghe-der-see-custen-ende-eylanden-van-14351166%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-e643cd7f0769f97d10372d2b","title":"Text Page to) Capittel VII. Beschryvinghe der See-custen ende Eylanden van Lijflandt, tusschen der Memel ende Revel. (5 (IA dr text-page-to-capittel-vii-beschryvinghe-der-see-custen-ende-eylanden-van-14351167).jpg","caption":"Zoomable full resolution image available at &lt;a href=\" https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~338255~90106209 \" rel=\"nofollow\"&gt;davidrumsey.com&lt;/a&gt;. This image &lt;a href=\"//www.davidrumsey.com/luna/servlet/view/search?q=list_no=%2214351.167%22\" rel=\"nofollow\"&gt;14351.167&lt;/a&gt; is a part of image group &lt;a href=\" https://www.davidrumsey.com/luna/servlet/view/search?q=pub_list_no=%2214351.000%22 \" rel=\"nofollow\"&gt;14351.000&lt;/a&gt;. Seventh chapter to \"Tvveede boeck\" - second book - of Het Licht der Zee-vaert. Title translates (loosely) to: Description of the sea coast of Livonia between \"Memel\" and \"Revel\" ... Includes sections: VII. Hoe dese Plaetsen van malcanderen zijn gheleghen. -- VIII. Hoe dese Landen ende Plaetsen van malkanderen in Streckinghen ende Distantien gheleghen zijn. Spans pages 50-56. Het Licht der Zee-vaert, by Willem Blaeu; published in Amsterdam, 1620. Title translates to: The light of the sea. This chart atlas was Blaeu's first atlas. Initially published in 1608, this is the fifth Dutch edition with 38 (of 42) maps. Oblong quarto. Engraved title, engraved frontispiece, 38 mostly double-page engraved charts (of 42, lacking 4 maps of Denmark), woodcut illustrations and diagrams within the text, 1 with volvelle (lacking 1), letterpress tables within decorative woodcut borders. Volume comprised of 261 woodcut coastal profiles in the text, illustrations, tables and charts. Recent fine full calf binding with richly gilt spine in compartments. Collation: Engraved title, (2), engraved frontispiece, 54 pp. (A4-F4, G2) lacking 2 pages; (2, title to Eerste Boeck), [1-8], 9-119, (1 blank) pp. (2, title to Tvveede Boeck), 3-130, [131] pp. 38 engraved maps (lacking 4). Probably lacking 1 volvelle in the beginning. Lacking 4 maps of Denmark, numbers 21-22, 24-25. Het Licht der Zee-vaert was the first book produced by the Blaeu publishing house, heralding a golden age of atlas production, and survives in only a few copies. It is one of the most important Dutch pilot-guides. Blaeu's pilot books were divided into chapters, each containing navigational instructions for specific sections of coastline, accompanied by a finely engraved coastal chart for each section. Map titles appeared in Dutch and French, with woodcut profile views illustrating the text. Blaeu included an editorial commentary at the beginning of the volume, condemning the generally held view of mariners that manuscript charts were better and more accurate than printed sea charts. Blaeu questioned the widely held belief of the time that manuscript charts were updated on a daily basis. Maps show the coasts of England, Scotland, Ireland, Norway, Sweden, Russia, Finland, Baltics, Pomerania, Spain, France, Northern Africa, Canaries, Maderia, etc. Richly embellished with decorative cartouches, sailing ships, sea-monsters, compass roses and sometimes with insets. The map \"Carte van de Reede ende Haven van Medenblick\" in the beginning, was not published until the edition 1618, and only published with the Dutch title until 1620 (the cartouche for the French title was, as in this case, blank). In 1618, Blaeu added a third chapter, covering the coastline of the Mediterranean. The first two charts, signed by Blaeu as Willem Jansz, cover the eastern and western Mediterranean. Willem Blaeu's earliest work focused on navigational aids for mariners. His first publication in this field was his Nieuw graetbouck, for which there are no known surviving examples. His next works of importance were two pilot guides, the Het licht der Zee-vaert and Zeespiegel (first edition 1623). In 1621, Johannes Jansson published a direct copy of Blaeu’s pilot guide Het licht der Zee-vaert, as Blaeu’s copyright had expired. Blaeu, in turn, competed against Jansson and his brother-in-law Henricus Hondius by producing an atlas, which spurred a rivalry lasting for over 50 years. Blaeu (1571-1638) was a prominent Dutch geographer and publisher. Born the son of a herring merchant, Blaeu became mathematician and astronomer. He studied with the Danish astronomer Tycho Brahe, with whom he honed his instrument and globe making skills. Blaeu set up shop in Amsterdam, where he sold instruments and globes, published maps, and edited the works of intellectuals such as Descartes and Hugo Grotius. In 1630 he issued his first world atlas, Atlas Appendix (see our 12202.000). In 1635, he released his atlas, Theatrum Orbis Terrarum, sive, Atlas novus. Willem died in 1638. He had two sons, Cornelis (1610-1648) and Joan (1596-1673). Joan trained as a lawyer, but joined his father’s business rather than practice law. After his father’s death, the brothers took over their father’s shop and Joan took on his work as hydrographer to the Dutch East India Company. Later in life, Joan would modify and greatly expand his father’s Atlas novus, eventually releasing his own masterpiece, the Atlas maior, between 1662 and 1672 (see our 10017.000). &lt;a href=\" https://ota.bodleian.ox.ac.uk/repository/xmlui/bitstream/handle/20.500.12024/A16189/A16189.html?sequence=5&amp;isAllowed=y \" rel=\"nofollow\"&gt; https://ota.bodleian.ox.ac.uk &lt;/a&gt; Subjects:","creator":"Blaeu, Willem Janszoon, 1571-1638","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2026-06-22 07:27:07","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AText_Page_to%29_Capittel_VII._Beschryvinghe_der_See-custen_ende_Eylanden_van_Lijflandt%2C_tusschen_der_Memel_ende_Revel._%285_%28IA_dr_text-page-to-capittel-vii-beschryvinghe-der-see-custen-ende-eylanden-van-14351167%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/9/91/Text_Page_to%29_Capittel_VII._Beschryvinghe_der_See-custen_ende_Eylanden_van_Lijflandt%2C_tusschen_der_Memel_ende_Revel._%285_%28IA_dr_text-page-to-capittel-vii-beschryvinghe-der-see-custen-ende-eylanden-van-14351167%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-902c6f573c43323ea1880093","title":"Text Page to) Capittel VIII. Beschryvinghe der See-custen van Lijflandt Ruffen ende Finlandt, van Revel af nae der Narve ende (IA dr text-page-to-capittel-viii-beschryvinghe-der-see-custen-van-lijflandt-ru-14351169).jpg","caption":"Zoomable full resolution image available at &lt;a href=\" https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~338256~90106212 \" rel=\"nofollow\"&gt;davidrumsey.com&lt;/a&gt;. This image &lt;a href=\"//www.davidrumsey.com/luna/servlet/view/search?q=list_no=%2214351.169%22\" rel=\"nofollow\"&gt;14351.169&lt;/a&gt; is a part of image group &lt;a href=\" https://www.davidrumsey.com/luna/servlet/view/search?q=pub_list_no=%2214351.000%22 \" rel=\"nofollow\"&gt;14351.000&lt;/a&gt;. Eighth chapter to \"Tvveede boeck\" - second book - of Het Licht der Zee-vaert. Title translates (loosely) to: Description of the sea coast of Livonia to Finland ... Includes section: I. De gheleghentheydt tusschen Revel ende der Narve. With historiated initial. Spans pages 57-61. Het Licht der Zee-vaert, by Willem Blaeu; published in Amsterdam, 1620. Title translates to: The light of the sea. This chart atlas was Blaeu's first atlas. Initially published in 1608, this is the fifth Dutch edition with 38 (of 42) maps. Oblong quarto. Engraved title, engraved frontispiece, 38 mostly double-page engraved charts (of 42, lacking 4 maps of Denmark), woodcut illustrations and diagrams within the text, 1 with volvelle (lacking 1), letterpress tables within decorative woodcut borders. Volume comprised of 261 woodcut coastal profiles in the text, illustrations, tables and charts. Recent fine full calf binding with richly gilt spine in compartments. Collation: Engraved title, (2), engraved frontispiece, 54 pp. (A4-F4, G2) lacking 2 pages; (2, title to Eerste Boeck), [1-8], 9-119, (1 blank) pp. (2, title to Tvveede Boeck), 3-130, [131] pp. 38 engraved maps (lacking 4). Probably lacking 1 volvelle in the beginning. Lacking 4 maps of Denmark, numbers 21-22, 24-25. Het Licht der Zee-vaert was the first book produced by the Blaeu publishing house, heralding a golden age of atlas production, and survives in only a few copies. It is one of the most important Dutch pilot-guides. Blaeu's pilot books were divided into chapters, each containing navigational instructions for specific sections of coastline, accompanied by a finely engraved coastal chart for each section. Map titles appeared in Dutch and French, with woodcut profile views illustrating the text. Blaeu included an editorial commentary at the beginning of the volume, condemning the generally held view of mariners that manuscript charts were better and more accurate than printed sea charts. Blaeu questioned the widely held belief of the time that manuscript charts were updated on a daily basis. Maps show the coasts of England, Scotland, Ireland, Norway, Sweden, Russia, Finland, Baltics, Pomerania, Spain, France, Northern Africa, Canaries, Maderia, etc. Richly embellished with decorative cartouches, sailing ships, sea-monsters, compass roses and sometimes with insets. The map \"Carte van de Reede ende Haven van Medenblick\" in the beginning, was not published until the edition 1618, and only published with the Dutch title until 1620 (the cartouche for the French title was, as in this case, blank). In 1618, Blaeu added a third chapter, covering the coastline of the Mediterranean. The first two charts, signed by Blaeu as Willem Jansz, cover the eastern and western Mediterranean. Willem Blaeu's earliest work focused on navigational aids for mariners. His first publication in this field was his Nieuw graetbouck, for which there are no known surviving examples. His next works of importance were two pilot guides, the Het licht der Zee-vaert and Zeespiegel (first edition 1623). In 1621, Johannes Jansson published a direct copy of Blaeu’s pilot guide Het licht der Zee-vaert, as Blaeu’s copyright had expired. Blaeu, in turn, competed against Jansson and his brother-in-law Henricus Hondius by producing an atlas, which spurred a rivalry lasting for over 50 years. Blaeu (1571-1638) was a prominent Dutch geographer and publisher. Born the son of a herring merchant, Blaeu became mathematician and astronomer. He studied with the Danish astronomer Tycho Brahe, with whom he honed his instrument and globe making skills. Blaeu set up shop in Amsterdam, where he sold instruments and globes, published maps, and edited the works of intellectuals such as Descartes and Hugo Grotius. In 1630 he issued his first world atlas, Atlas Appendix (see our 12202.000). In 1635, he released his atlas, Theatrum Orbis Terrarum, sive, Atlas novus. Willem died in 1638. He had two sons, Cornelis (1610-1648) and Joan (1596-1673). Joan trained as a lawyer, but joined his father’s business rather than practice law. After his father’s death, the brothers took over their father’s shop and Joan took on his work as hydrographer to the Dutch East India Company. Later in life, Joan would modify and greatly expand his father’s Atlas novus, eventually releasing his own masterpiece, the Atlas maior, between 1662 and 1672 (see our 10017.000). &lt;a href=\" https://ota.bodleian.ox.ac.uk/repository/xmlui/bitstream/handle/20.500.12024/A16189/A16189.html?sequence=5&amp;isAllowed=y \" rel=\"nofollow\"&gt; https://ota.bodleian.ox.ac.uk &lt;/a&gt; Subjects:","creator":"Blaeu, Willem Janszoon, 1571-1638","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2026-06-22 07:27:36","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AText_Page_to%29_Capittel_VIII._Beschryvinghe_der_See-custen_van_Lijflandt_Ruffen_ende_Finlandt%2C_van_Revel_af_nae_der_Narve_ende_%28IA_dr_text-page-to-capittel-viii-beschryvinghe-der-see-custen-van-lijflandt-ru-14351169%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1e/Text_Page_to%29_Capittel_VIII._Beschryvinghe_der_See-custen_van_Lijflandt_Ruffen_ende_Finlandt%2C_van_Revel_af_nae_der_Narve_ende_%28IA_dr_text-page-to-capittel-viii-beschryvinghe-der-see-custen-van-lijflandt-ru-14351169%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-29d23ae14afb33bea5fa47b8","title":"Text Page to) Capittel VIII. Beschryvinghe der See-custen van Lijflandt Ruffen ende Finlandt, van Revel af nae der Narve ende (IA dr text-page-to-capittel-viii-beschryvinghe-der-see-custen-van-lijflandt-ru-14351170).jpg","caption":"Zoomable full resolution image available at &lt;a href=\" https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~338257~90106217 \" rel=\"nofollow\"&gt;davidrumsey.com&lt;/a&gt;. This image &lt;a href=\"//www.davidrumsey.com/luna/servlet/view/search?q=list_no=%2214351.170%22\" rel=\"nofollow\"&gt;14351.170&lt;/a&gt; is a part of image group &lt;a href=\" https://www.davidrumsey.com/luna/servlet/view/search?q=pub_list_no=%2214351.000%22 \" rel=\"nofollow\"&gt;14351.000&lt;/a&gt;. Eighth chapter to \"Tvveede boeck\" - second book - of Het Licht der Zee-vaert. Title translates (loosely) to: Description of the sea coast of Livonia to Finland ... Includes sections: II. Om van Wrangher en oock van der Narve naer Wyborgh te seylen. -- III. De gheleghentheydt van Wyborgh tot Elsen-vos. -- IV. De gheleghentheydt van Elsen-vos af tot het Alandtsche Haf. Features engraved profile views. Spans pages 57-61. Het Licht der Zee-vaert, by Willem Blaeu; published in Amsterdam, 1620. Title translates to: The light of the sea. This chart atlas was Blaeu's first atlas. Initially published in 1608, this is the fifth Dutch edition with 38 (of 42) maps. Oblong quarto. Engraved title, engraved frontispiece, 38 mostly double-page engraved charts (of 42, lacking 4 maps of Denmark), woodcut illustrations and diagrams within the text, 1 with volvelle (lacking 1), letterpress tables within decorative woodcut borders. Volume comprised of 261 woodcut coastal profiles in the text, illustrations, tables and charts. Recent fine full calf binding with richly gilt spine in compartments. Collation: Engraved title, (2), engraved frontispiece, 54 pp. (A4-F4, G2) lacking 2 pages; (2, title to Eerste Boeck), [1-8], 9-119, (1 blank) pp. (2, title to Tvveede Boeck), 3-130, [131] pp. 38 engraved maps (lacking 4). Probably lacking 1 volvelle in the beginning. Lacking 4 maps of Denmark, numbers 21-22, 24-25. Het Licht der Zee-vaert was the first book produced by the Blaeu publishing house, heralding a golden age of atlas production, and survives in only a few copies. It is one of the most important Dutch pilot-guides. Blaeu's pilot books were divided into chapters, each containing navigational instructions for specific sections of coastline, accompanied by a finely engraved coastal chart for each section. Map titles appeared in Dutch and French, with woodcut profile views illustrating the text. Blaeu included an editorial commentary at the beginning of the volume, condemning the generally held view of mariners that manuscript charts were better and more accurate than printed sea charts. Blaeu questioned the widely held belief of the time that manuscript charts were updated on a daily basis. Maps show the coasts of England, Scotland, Ireland, Norway, Sweden, Russia, Finland, Baltics, Pomerania, Spain, France, Northern Africa, Canaries, Maderia, etc. Richly embellished with decorative cartouches, sailing ships, sea-monsters, compass roses and sometimes with insets. The map \"Carte van de Reede ende Haven van Medenblick\" in the beginning, was not published until the edition 1618, and only published with the Dutch title until 1620 (the cartouche for the French title was, as in this case, blank). In 1618, Blaeu added a third chapter, covering the coastline of the Mediterranean. The first two charts, signed by Blaeu as Willem Jansz, cover the eastern and western Mediterranean. Willem Blaeu's earliest work focused on navigational aids for mariners. His first publication in this field was his Nieuw graetbouck, for which there are no known surviving examples. His next works of importance were two pilot guides, the Het licht der Zee-vaert and Zeespiegel (first edition 1623). In 1621, Johannes Jansson published a direct copy of Blaeu’s pilot guide Het licht der Zee-vaert, as Blaeu’s copyright had expired. Blaeu, in turn, competed against Jansson and his brother-in-law Henricus Hondius by producing an atlas, which spurred a rivalry lasting for over 50 years. Blaeu (1571-1638) was a prominent Dutch geographer and publisher. Born the son of a herring merchant, Blaeu became mathematician and astronomer. He studied with the Danish astronomer Tycho Brahe, with whom he honed his instrument and globe making skills. Blaeu set up shop in Amsterdam, where he sold instruments and globes, published maps, and edited the works of intellectuals such as Descartes and Hugo Grotius. In 1630 he issued his first world atlas, Atlas Appendix (see our 12202.000). In 1635, he released his atlas, Theatrum Orbis Terrarum, sive, Atlas novus. Willem died in 1638. He had two sons, Cornelis (1610-1648) and Joan (1596-1673). Joan trained as a lawyer, but joined his father’s business rather than practice law. After his father’s death, the brothers took over their father’s shop and Joan took on his work as hydrographer to the Dutch East India Company. Later in life, Joan would modify and greatly expand his father’s Atlas novus, eventually releasing his own masterpiece, the Atlas maior, between 1662 and 1672 (see our 10017.000). &lt;a href=\" https://ota.bodleian.ox.ac.uk/repository/xmlui/bitstream/handle/20.500.12024/A16189/A16189.html?sequence=5&amp;isAllowed=y \" rel=\"nofollow\"&gt; https://ota.bodleian.ox.ac.uk &lt;/a&gt; Subjects:","creator":"Blaeu, Willem Janszoon, 1571-1638","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2026-06-22 07:27:43","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AText_Page_to%29_Capittel_VIII._Beschryvinghe_der_See-custen_van_Lijflandt_Ruffen_ende_Finlandt%2C_van_Revel_af_nae_der_Narve_ende_%28IA_dr_text-page-to-capittel-viii-beschryvinghe-der-see-custen-van-lijflandt-ru-14351170%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/0d/Text_Page_to%29_Capittel_VIII._Beschryvinghe_der_See-custen_van_Lijflandt_Ruffen_ende_Finlandt%2C_van_Revel_af_nae_der_Narve_ende_%28IA_dr_text-page-to-capittel-viii-beschryvinghe-der-see-custen-van-lijflandt-ru-14351170%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-fab2e87c94a116bd25fabfed","title":"Text Page to) Capittel VIII. Beschryvinghe der See-custen van Lijflandt Ruffen ende Finlandt, van Revel af nae der Narve ende (IA dr text-page-to-capittel-viii-beschryvinghe-der-see-custen-van-lijflandt-ru-14351171).jpg","caption":"Zoomable full resolution image available at &lt;a href=\" https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~338258~90106216 \" rel=\"ugc nofollow\"&gt;davidrumsey.com&lt;/a&gt;. This image &lt;a href=\"//www.davidrumsey.com/luna/servlet/view/search?q=list_no=%2214351.171%22\" rel=\"ugc nofollow\"&gt;14351.171&lt;/a&gt; is a part of image group &lt;a href=\" https://www.davidrumsey.com/luna/servlet/view/search?q=pub_list_no=%2214351.000%22 \" rel=\"ugc nofollow\"&gt;14351.000&lt;/a&gt;. Eighth chapter to \"Tvveede boeck\" - second book - of Het Licht der Zee-vaert. Title translates (loosely) to: Description of the sea coast of Livonia to Finland ... Includes sections: IV. De gheleghentheydt van Elsen-vos af tot het Alandtsche Haf. -- V. Hoe dese Landen ende Plaetsen van malcanderen gheleghen zijn. -- VI. Hoe dese :anden van andere Landen gheleghen zijn. Spans pages 57-61. Het Licht der Zee-vaert, by Willem Blaeu; published in Amsterdam, 1620. Title translates to: The light of the sea. This chart atlas was Blaeu's first atlas. Initially published in 1608, this is the fifth Dutch edition with 38 (of 42) maps. Oblong quarto. Engraved title, engraved frontispiece, 38 mostly double-page engraved charts (of 42, lacking 4 maps of Denmark), woodcut illustrations and diagrams within the text, 1 with volvelle (lacking 1), letterpress tables within decorative woodcut borders. Volume comprised of 261 woodcut coastal profiles in the text, illustrations, tables and charts. Recent fine full calf binding with richly gilt spine in compartments. Collation: Engraved title, (2), engraved frontispiece, 54 pp. (A4-F4, G2) lacking 2 pages; (2, title to Eerste Boeck), [1-8], 9-119, (1 blank) pp. (2, title to Tvveede Boeck), 3-130, [131] pp. 38 engraved maps (lacking 4). Probably lacking 1 volvelle in the beginning. Lacking 4 maps of Denmark, numbers 21-22, 24-25. Het Licht der Zee-vaert was the first book produced by the Blaeu publishing house, heralding a golden age of atlas production, and survives in only a few copies. It is one of the most important Dutch pilot-guides. Blaeu's pilot books were divided into chapters, each containing navigational instructions for specific sections of coastline, accompanied by a finely engraved coastal chart for each section. Map titles appeared in Dutch and French, with woodcut profile views illustrating the text. Blaeu included an editorial commentary at the beginning of the volume, condemning the generally held view of mariners that manuscript charts were better and more accurate than printed sea charts. Blaeu questioned the widely held belief of the time that manuscript charts were updated on a daily basis. Maps show the coasts of England, Scotland, Ireland, Norway, Sweden, Russia, Finland, Baltics, Pomerania, Spain, France, Northern Africa, Canaries, Maderia, etc. Richly embellished with decorative cartouches, sailing ships, sea-monsters, compass roses and sometimes with insets. The map \"Carte van de Reede ende Haven van Medenblick\" in the beginning, was not published until the edition 1618, and only published with the Dutch title until 1620 (the cartouche for the French title was, as in this case, blank). In 1618, Blaeu added a third chapter, covering the coastline of the Mediterranean. The first two charts, signed by Blaeu as Willem Jansz, cover the eastern and western Mediterranean. Willem Blaeu's earliest work focused on navigational aids for mariners. His first publication in this field was his Nieuw graetbouck, for which there are no known surviving examples. His next works of importance were two pilot guides, the Het licht der Zee-vaert and Zeespiegel (first edition 1623). In 1621, Johannes Jansson published a direct copy of Blaeu’s pilot guide Het licht der Zee-vaert, as Blaeu’s copyright had expired. Blaeu, in turn, competed against Jansson and his brother-in-law Henricus Hondius by producing an atlas, which spurred a rivalry lasting for over 50 years. Blaeu (1571-1638) was a prominent Dutch geographer and publisher. Born the son of a herring merchant, Blaeu became mathematician and astronomer. He studied with the Danish astronomer Tycho Brahe, with whom he honed his instrument and globe making skills. Blaeu set up shop in Amsterdam, where he sold instruments and globes, published maps, and edited the works of intellectuals such as Descartes and Hugo Grotius. In 1630 he issued his first world atlas, Atlas Appendix (see our 12202.000). In 1635, he released his atlas, Theatrum Orbis Terrarum, sive, Atlas novus. Willem died in 1638. He had two sons, Cornelis (1610-1648) and Joan (1596-1673). Joan trained as a lawyer, but joined his father’s business rather than practice law. After his father’s death, the brothers took over their father’s shop and Joan took on his work as hydrographer to the Dutch East India Company. Later in life, Joan would modify and greatly expand his father’s Atlas novus, eventually releasing his own masterpiece, the Atlas maior, between 1662 and 1672 (see our 10017.000). &lt;a href=\" https://ota.bodleian.ox.ac.uk/repository/xmlui/bitstream/handle/20.500.12024/A16189/A16189.html?sequence=5&amp;isAllowed=y \" rel=\"ugc nofollow\"&gt; https://ota.bodleian.ox.ac.uk &lt;/a&gt; Subjects:","creator":"Blaeu, Willem Janszoon, 1571-1638","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2026-06-22 07:27:50","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AText_Page_to%29_Capittel_VIII._Beschryvinghe_der_See-custen_van_Lijflandt_Ruffen_ende_Finlandt%2C_van_Revel_af_nae_der_Narve_ende_%28IA_dr_text-page-to-capittel-viii-beschryvinghe-der-see-custen-van-lijflandt-ru-14351171%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1c/Text_Page_to%29_Capittel_VIII._Beschryvinghe_der_See-custen_van_Lijflandt_Ruffen_ende_Finlandt%2C_van_Revel_af_nae_der_Narve_ende_%28IA_dr_text-page-to-capittel-viii-beschryvinghe-der-see-custen-van-lijflandt-ru-14351171%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-83acad98b876a9d05dba6c64","title":"17ct map with current borders of Belarus.jpg","caption":"== current borders added","creator":"LIVONIA_vulgo_Lyefland-Joan_Blaeu,_1662.jpg : UrusHyby derivative work: UrusHyby ( talk )","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2010-09-28 11:58","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A17ct_map_with_current_borders_of_Belarus.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/10/17ct_map_with_current_borders_of_Belarus.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0}]
+  []
 media_contextual_json: |-
   []
 media_all_json: |-
-  [{"mediaId":"m-b31e19913e12838ca8a9c6da","title":"39-Litauen, Kurland und Livland (1917).png","caption":"Flemming's military map of Baltic regions ( Lithuania , Courland , Livonia ), depicting the Russo-German front line in May 1917 (deep red), and also outlining ethnolinguistic boundaries of Lithuanians and Latvians (shaded red)","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2014-07-16 19:01:01","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A39-Litauen%2C_Kurland_und_Livland_%281917%29.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/3/31/39-Litauen%2C_Kurland_und_Livland_%281917%29.png","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1},{"mediaId":"m-d156821c51d54cef494ab0fd","title":"\"Livonia vulgo Svefland.\" (22268205781).jpg","caption":"Descripción bibliográfica: Geographia Blaviana. - [Amsterdam : Juan Blaeu, 1659] . - [32], VI, 96 p., 34 f., h. 35a, 35b, 35c, 35d, 36-44 f., 34, [2], 36-40, [2], 43-70 [i. e. 75], [1] f., [20] p. de map., [9] f. de map., [4] f. pleg. de map., [2] f. de plan., [2] f. ge grab. : |bil. ; |cFol. marca major (57 cm.) . - En la dedicatoria a Felipe IV: \"Presenta ... El Atlas Universal y Cosmographico de los orbes y terrestre ... Juan Blaeu\" . - Título tomado del frontispicio. -- Privilegio fechado en 1659. -Errores de pag. - Sign.: [ ]1, *2, **3, ***-****2, a-e2, A-I2, K1, L-Z2, Aa-Dd2, 4[ ]2, Ee-Ff2, A-I2, K1, L2, M1, N-Y2, Z5, Aa-Dd2, Ee1, A-D2, E-F1, G-I2, K-L1, M-O2, P1, Q-Z2, Aa-Bb2, Cc1, Dd3, Ff-Zz2, Aaa-Bbb2, [ ]. - Frontispicio grab. col. -- Incluye un total de 49 il. entre map., plan. i grab. Materia: Atlas - Obras anteriores a 1800 Impresor: Blaeu, Joan, 1596-1673, imp. Lugar de impresión: Holanda. Amsterdam Localización: fama.us.es/record=b2058758~S5*spi Vea la ilustración en su contexto Visite también la exposición \"Cartografía histórica en la Biblioteca de la Universidad de Sevilla\" expobus.us.es/cartografia//","creator":"Fondo Antiguo de la Biblioteca de la Universidad de Sevilla from Sevilla, España","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY 2.0","rightsNote":"Creative Commons Attribution 2.0","dateDisplay":"2015-10-17 17:45","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A%22Livonia_vulgo_Svefland.%22_%2822268205781%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5a/%22Livonia_vulgo_Svefland.%22_%2822268205781%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-18f10310404c94ae8dbe6ebb","title":"(Text Page to) Livonia, Sive Liefland. (to accompany) Atlas minor Gerardi Mercatoris. (IA dr text-page-to-livonia-sive-liefland-to-accompany-atlas-minor-gerardi-m-11201098).jpg","caption":"Zoomable full resolution image available at &lt;a href=\" https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~283126~90055539 \" rel=\"nofollow\"&gt;davidrumsey.com&lt;/a&gt;. This image &lt;a href=\"//www.davidrumsey.com/luna/servlet/view/search?q=list_no=%2211201.098%22\" rel=\"nofollow\"&gt;11201.098&lt;/a&gt; is a part of image group &lt;a href=\" https://www.davidrumsey.com/luna/servlet/view/search?q=pub_list_no=%2211201.000%22 \" rel=\"nofollow\"&gt;11201.000&lt;/a&gt;. Text to map of Livonia. The Atlas published by Ioannes Janssonius, in 1607 (2nd prelim. leaf, is dated March 1607. Pagination irregular), with 8 + 656 p.,152 black and white maps, 1 color map, text and index. Decorative colored title page that is filled with allegorical female figures of the continents, geographers measuring the globe within an architectural surrounding. Maps with title cartouche, showing the boundaries, territories, topographical features, cities and towns, landmarks, rivers, forests, compass rose, coat of arms, sea monsters, sailing vessels, etc. In full vellum binding with title \" Atlas minor Gr. Mercatoris Hondius.\" on spine. Gerardus Mercator can confidently be called the greatest cartographer of the sixteenth century, he helped to establish Amsterdam as the leading center of 16th Century cartography. Gerard Mercator originally a student of philosophy, became an expert in land surveying and cartography, as well as a skilled engraver. His first maps were published in 1537 (Palestine), and 1538 (a map of the world). His most famous contribution to science is a technique of rendering the globe on a flat surface. In 1569 he published his masterpiece, the twenty-one-sheet map of the world, still known as \"Mercator’s projection.\" Shortly after the publication of the big folio-atlases (the Atlas, Sive cosmographicae meditationes de fabrica mundi et fabricati figura 1585-9, and the edition of Ptolemy's Geographia 1578) the need was apparently felt for a smaller-sized atlas, one that would be handier and, above all cheaper, so that a larger public might have access to the use of maps. During the preparation of the publication of Mercator's large Atlas, Hondius had the maps reduced, in order to publish them as the Atlas Minor in 1607. The publisher, Cornelis Claesz, also participated in this enterprise. Phillips no. 423 Subjects:","creator":"Mercator, Gerhard, 1512-1594 Hondius, Iodocus, 1563-1612 Nicolaus, Cornelius Bottius, Adrianus","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2026-06-26 08:07:01","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A%28Text_Page_to%29_Livonia%2C_Sive_Liefland._%28to_accompany%29_Atlas_minor_Gerardi_Mercatoris._%28IA_dr_text-page-to-livonia-sive-liefland-to-accompany-atlas-minor-gerardi-m-11201098%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b2/%28Text_Page_to%29_Livonia%2C_Sive_Liefland._%28to_accompany%29_Atlas_minor_Gerardi_Mercatoris._%28IA_dr_text-page-to-livonia-sive-liefland-to-accompany-atlas-minor-gerardi-m-11201098%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-8582119d6b7997f2433f972b","title":"(Text Page to) Livonia, Sive Liefland. (to accompany) Atlas minor Gerardi Mercatoris. (IA dr text-page-to-livonia-sive-liefland-to-accompany-atlas-minor-gerardi-m-11201100).jpg","caption":"Zoomable full resolution image available at &lt;a href=\" https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~283128~90055541 \" rel=\"ugc nofollow\"&gt;davidrumsey.com&lt;/a&gt;. This image &lt;a href=\"//www.davidrumsey.com/luna/servlet/view/search?q=list_no=%2211201.100%22\" rel=\"ugc nofollow\"&gt;11201.100&lt;/a&gt; is a part of image group &lt;a href=\" https://www.davidrumsey.com/luna/servlet/view/search?q=pub_list_no=%2211201.000%22 \" rel=\"ugc nofollow\"&gt;11201.000&lt;/a&gt;. Double page text to map of Livonia. The Atlas published by Ioannes Janssonius, in 1607 (2nd prelim. leaf, is dated March 1607. Pagination irregular), with 8 + 656 p.,152 black and white maps, 1 color map, text and index. Decorative colored title page that is filled with allegorical female figures of the continents, geographers measuring the globe within an architectural surrounding. Maps with title cartouche, showing the boundaries, territories, topographical features, cities and towns, landmarks, rivers, forests, compass rose, coat of arms, sea monsters, sailing vessels, etc. In full vellum binding with title \" Atlas minor Gr. Mercatoris Hondius.\" on spine. Gerardus Mercator can confidently be called the greatest cartographer of the sixteenth century, he helped to establish Amsterdam as the leading center of 16th Century cartography. Gerard Mercator originally a student of philosophy, became an expert in land surveying and cartography, as well as a skilled engraver. His first maps were published in 1537 (Palestine), and 1538 (a map of the world). His most famous contribution to science is a technique of rendering the globe on a flat surface. In 1569 he published his masterpiece, the twenty-one-sheet map of the world, still known as \"Mercator’s projection.\" Shortly after the publication of the big folio-atlases (the Atlas, Sive cosmographicae meditationes de fabrica mundi et fabricati figura 1585-9, and the edition of Ptolemy's Geographia 1578) the need was apparently felt for a smaller-sized atlas, one that would be handier and, above all cheaper, so that a larger public might have access to the use of maps. During the preparation of the publication of Mercator's large Atlas, Hondius had the maps reduced, in order to publish them as the Atlas Minor in 1607. The publisher, Cornelis Claesz, also participated in this enterprise. Phillips no. 423 Subjects:","creator":"Mercator, Gerhard, 1512-1594 Hondius, Iodocus, 1563-1612 Nicolaus, Cornelius Bottius, Adrianus","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2026-06-22 16:51:54","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A%28Text_Page_to%29_Livonia%2C_Sive_Liefland._%28to_accompany%29_Atlas_minor_Gerardi_Mercatoris._%28IA_dr_text-page-to-livonia-sive-liefland-to-accompany-atlas-minor-gerardi-m-11201100%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1f/%28Text_Page_to%29_Livonia%2C_Sive_Liefland._%28to_accompany%29_Atlas_minor_Gerardi_Mercatoris._%28IA_dr_text-page-to-livonia-sive-liefland-to-accompany-atlas-minor-gerardi-m-11201100%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-ba9e96328686dc4f7d427033","title":"(Text Page) Livonia. La Pomerania. Il Ducato Oswieczimense, Et Zatoriense. 112 (IA dr text-page-livonia-la-pomerania-il-ducato-oswieczimense-et-zatoriense-10001291).jpg","caption":"Zoomable full resolution image available at davidrumsey.com . This image 10001.291 is a part of image group 10001.000 . Koeman: \"This the first edition ever printed with Italian text. The heirs of Abraham Ortelius sold a manuscript translation by Filippo Pigafetta to Vrients, which was then printed by him. In this translation, the Parergon and the Nomenclator were included. Apart from this, Vrients also added at the end, an Introduction to Cosmography, written by Michel Coignet. Several new maps appear here for the first time.\" Vrients added 8 new maps, making this combined Theatrum and Parergon edition the largest with 166 maps. 128 maps in the \"Theatrum\", with the \"Parergon\" having 38 maps, a portrait of Pope Clement VIII., dedications to Pope Clement VIII. and to Cardinal Aldobrandino, 1605. The Theatrum and Parergon plates are uncolored. The Parergon is Ortelius' atlas of ancient geography. Koeman: \"This atlas of ancient geography must be regarded as a personal work of Ortelius. For this work he did not, as in the Theatrum, copy other people's maps but drew the originals himself which were later engraved by Jan Wierix i.a. He took many places and regions from the lands of classical civilization to illustrate and clarify their history, a subject very close to his heart... The maps and plates of the Parergon have to be evaluated as the most outstanding engravings depicting the wide-spread interest in classical geography in the 16th century.\" Koeman Ort 38; van der Krogt 31:651. See Dr. Marcel van den Broecke web site for excellent listing of all Ortelius maps http://orteliusmaps.com Koeman Ort 68abc; Van der Krogt 2190:31; 1710:31; 1940:31; Van den Broecke Ort 158abc Subjects:","creator":"Ortelius, Abraham, 1527-1598 Vrients, Jan Baptista","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2026-06-22 02:25:24","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A%28Text_Page%29_Livonia._La_Pomerania._Il_Ducato_Oswieczimense%2C_Et_Zatoriense._112_%28IA_dr_text-page-livonia-la-pomerania-il-ducato-oswieczimense-et-zatoriense-10001291%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/ff/%28Text_Page%29_Livonia._La_Pomerania._Il_Ducato_Oswieczimense%2C_Et_Zatoriense._112_%28IA_dr_text-page-livonia-la-pomerania-il-ducato-oswieczimense-et-zatoriense-10001291%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-5339db33bfe0cc71c5353ff8","title":"Atlas Van der Hagen-KW1049B10 029-LIVONIA Vulgo Lyetland.jpeg","caption":"This map depicts the Baltic states Latvia and Estonia. Ever since the Treaty of Altmar in 1629 this area was a Swedish province which was mainly inhabited by Germans. The map was published in 1662 in the second volume of Joan Blaeus Atlas Maior . As a basis for this map, Blaeu used a large-size wall map from the Swedish scientist Anders Bureus (1571-1661), who was head of the topographical survey.","creator":"Dirk Jansz van Santen","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1662 date QS:P571,+1662-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AAtlas_Van_der_Hagen-KW1049B10_029-LIVONIA_Vulgo_Lyetland.jpeg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f9/Atlas_Van_der_Hagen-KW1049B10_029-LIVONIA_Vulgo_Lyetland.jpeg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-3996657393d31c623487cf69","title":"Atlas of Livonia, or of the Two Governments and Duchies Livonia and Estonia, and of the Province of Oesel WDL2571.jpg","caption":"This work containing 14 maps is the first complete atlas of Latvia and Estonia. The compiler of the atlas, Count Ludwig August Mellin (1754-1835), was a Baltic German who was born in Tuhala, Estonia, then a province of the Russian Empire. On a visit to Riga in 1782, Crown Prince Paul of Russia reportedly asked to see a map showing the location of the Livonian division of the Russian Army. When it turned out that no such map existed, Mellin, then a young officer in the army trained in technical drawing, was asked to draw one. Having become interested in maps in this way, Mellin undertook what became a 28-year effort to produce this atlas. In addition to the coastline, islands, and settlements, his maps show roads, administrative divisions, and features of the terrain. To compile his atlas, Mellin used the maps of the Russian Academy of Sciences and military topographers, but mostly relied on manor house maps. Mellin’s maps were issued by a Riga bookseller, but were engraved abroad, so that at one point he was accused of revealing state secrets and arrested. In 1798, Tsar Paul I issued an order stopping the sale of the maps and ordering the return of copies in private possession. Mellin was regarded as a friend of the Latvian and Estonian peoples, whose history and culture he valued and sought to preserve. Livonia","creator":"Krause, Johann Wilhelm (1757-1828)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between 1791 and 1798 date QS:P571,+1791-00-00T00:00:00Z/8,P1319,+1791-00-00T00:00:00Z/9,P1326,+1798-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AAtlas_of_Livonia%2C_or_of_the_Two_Governments_and_Duchies_Livonia_and_Estonia%2C_and_of_the_Province_of_Oesel_WDL2571.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4a/Atlas_of_Livonia%2C_or_of_the_Two_Governments_and_Duchies_Livonia_and_Estonia%2C_and_of_the_Province_of_Oesel_WDL2571.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-5c657ef0da272e32f21fa4dd","title":"Cartouche in a Livonia map by Falck.tif","caption":"Tabula ducatuum Livoniae et Curlandiae / recentior incisa editaque per Gerardum Valck","creator":"Gerhard Valk (-1726)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"circa 1700 date QS:P571,+1700-00-00T00:00:00Z/9,P1480,Q5727902","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ACartouche_in_a_Livonia_map_by_Falck.tif","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/7/72/Cartouche_in_a_Livonia_map_by_Falck.tif","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-5c543f74257070541092d595","title":"Die Russischen Ost-See-Provinzen Livland, Ehstland und Kurland. Entworfen und gezeichnet von J. Grassl. Issleib sc. (IA dr die-russischen-ost-see-provinzen-livland-ehstland-und-kurland-entworfen-u-00694006).jpg","caption":"Zoomable full resolution image available at davidrumsey.com . This image 4807.087 is a part of image group 4807.000 . Engraved map. Administrative subdivision boundaries hand col. Relief shown by hachures. Inset maps: Riga und Umgegend -- Reval und Umgegend -- Mitau und Umgegend. \"Meyer's Handatlas ...\" may appear in upper margin but is not visible on this tightly bound sheet. Prime meridian: Ferro. This is Meyer's grandest production, a real tour de force that has fifty maps of the Americas including thirty three maps that are derived from the Tanner/Mitchell Universal atlas maps of the various U.S. States and Territories, Canada, and South America and are dated from 1844 to 1854 (with most dated 1844 or 1845). Many of the maps in this atlas have Philadelphia as a place of publication (along with several other cities) indicating that there may have been an arrangement with Tanner and/or Mitchell to copy the maps. The U.S. maps dated 1844-46 all appear to derive from a late 1830s edition of Tanner's Universal atlas. Those dated from 1850-54 derive from the Mitchell and Thomas Cowperthwait issues of the Universal atlas from 1850-54. Espenhorst lists a separate atlas (3.3.3) published in 1860 with these U.S. maps only, titled \"Grosse und vollstandiger Auswanderungs-Atlas fur Nordamerika.\" The Iowa, Wisconsin, and Texas maps are not copied from the Universal atlas, but all the others are almost exact copies and it is strange that no credit is given to Tanner or Mitchell. Notwithstanding that, the copies are beautifully done and in some cases (the California map adds an inset of San Francisco Bay not on the Mitchell version) superior to the American originals. Wheat misses the Tanner/Mitchell derivation in the two maps he cites. The other maps in the atlas are all superbly engraved and the city maps have exquisite views -- all combining to make this the finest German atlas of the mid 19th century. Full and outline hand coloring. Maps are bound in half leather marbled boards with \"Meyer's Grosser Hand-Atlas aller Theile der Erde.\" stamped on the spine in gilt. Scarce. Espenhorst, J. Andree, Stieler, Meyer &amp; Co., 3.3.1; not in Phillips. Subjects:","creator":"Grassl, J. (Joseph) Issleib, Wilhelm Meyer, Joseph, 1796-1856","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2026-06-19 07:57:38","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ADie_Russischen_Ost-See-Provinzen_Livland%2C_Ehstland_und_Kurland._Entworfen_und_gezeichnet_von_J._Grassl._Issleib_sc._%28IA_dr_die-russischen-ost-see-provinzen-livland-ehstland-und-kurland-entworfen-u-00694006%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/9/98/Die_Russischen_Ost-See-Provinzen_Livland%2C_Ehstland_und_Kurland._Entworfen_und_gezeichnet_von_J._Grassl._Issleib_sc._%28IA_dr_die-russischen-ost-see-provinzen-livland-ehstland-und-kurland-entworfen-u-00694006%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-16436349b7f62e494d55df9a","title":"Livland (105417975).jpg","caption":"Historical map of Livonian Confederation .","creator":"Abraham Ortelius","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1573","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ALivland_%28105417975%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/12/Livland_%28105417975%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-df95010d636d8338a79d40a0","title":"Livland 1260.png","caption":"Political map of the Medieval Livonia, circa 1260, along with surrounding areas: Possessions of the Sword Brothers (in Livonia) and the Teutonic Order (in Prussia) Ecclesiastical possessions","creator":"Originally created by User:MapMaster , commissioned by Attilios , translated by User:NordNordWest , SVG by User:Furfur , screenshot of SVG to corrected PNG by User:Ulamm","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","dateDisplay":"2009-09-01","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ALivland_1260.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/3/33/Livland_1260.png","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-8c7dd78514595b6aafe20c3d","title":"Livland 1260.svg","caption":"Political map of the Medieval Livonia, circa 1260, along with surrounding areas: Possessions of the Sword Brothers (in Livonia) and the Teutonic Order (in Prussia) Ecclesiastical possessions","creator":"Originally created by MapMaster , commissioned by Attilios , translated by NordNordWest , modified by Furfur","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","dateDisplay":"2009-09-01","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ALivland_1260.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3a/Livland_1260.svg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-b2e8b143fa3e07585001193b","title":"Livland 15jh.png","caption":"Historical map of Livonian Confederation , Antwerpen, 1573–1598. First published in Theatrum Orbis Terrarum (1570–1612) by Abraham Ortelius .","creator":"Joannes Portantius","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"from 1573 until 1598 date QS:P,+1550-00-00T00:00:00Z/7,P580,+1573-00-00T00:00:00Z/9,P582,+1598-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ALivland_15jh.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/8/88/Livland_15jh.png","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-91e6bd330a848e321c50e070","title":"Livonia (NYPL b15404146-1632223).tiff","caption":"* An addition to the epitomies of Abraham Ortelius his littel theatre, nevvly corected, augmentated and adorned with geographicall measures, by Michel Coignet ...\", appended at end on final 15 leaves. Citation/Reference: Phillips 3407 Includes index. Lawrence H. Slaughter Collection ; 301. Maps on rectos of leaves, with descriptive text on opposite versos. NYPL copy has ms. notes written in ink on t.p. and inside back cover. National Endowment for the Humanities Grant for Access to Early Maps of the Middle Atlantic Seaboard. Text on verso.","creator":"Scan by NYPL","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1603","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ALivonia_%28NYPL_b15404146-1632223%29.tiff","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/3/31/Livonia_%28NYPL_b15404146-1632223%29.tiff","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-63dd2ed7b4bb54ad1f4d16a0","title":"Livonia sive Liefland.jpg","caption":"Livonia: Livonia sive Liefland Published in: Gerardi Mercatoris atlas sive cosmographicæ meditationes de fabrica mundi et figura in Amsterdam. Copper engraving, ca 1:3 400 000, 24 x 17 cm.","creator":"Pieter van den Keere","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"circa 1630 date QS:P,+1630-00-00T00:00:00Z/9,P1480,Q5727902","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ALivonia_sive_Liefland.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/06/Livonia_sive_Liefland.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-3c5b4a6803e6b31a745873d0","title":"Livonia, Vulgo Lyefland (IA dr livonia-vulgo-lyefland-104187392).jpg","caption":"Zoomable full resolution image available at davidrumsey.com . This image 10017.088 is a part of image group 10017.000 . 10 Milliaria German. Comm: = 4.5 cm [et al.] Blaeu's 11 volume Atlas Maior is considered by many to be the greatest atlas ever published, both in its own time and even today. It excels in comprehensiveness, engraving, color, and overall production. Each vol. has title page. with general title: Geographiæ Blavianæ volumen primum.... Each vol. has engraved special title page, hand colored. The first Latin edition was published in 1662. Subsequently published in French, Dutch, German, and Spanish; the Latin version was also sold with v. 1 dated 1665 and v. 2-11 dated 1662 (this copy). Bound as issued in vellum stamped in gilt with Blaeu device. Issued in 11 volumes. Contents: v. 1. Arctica --Europa, liber 1-2:. Norvegia. Dania. Sleswic -- v. 2. Europa, liber 3-7: Suecia. Russia. Polonia. Regiones orientales ultra Germaniam circa Danubium. Graecia -- v. 3. Europa, liber 8: Germania - -v. 4. Europa, liber 9-10: Belgica regia -- v. 5. Europa, liber 11: Anglia -- v. 6. Europa, liber 12-13: Scotia. Hibernia -- v. 7. Europa, liber 14-15: Gallia. Helvetia -- v. 8. Europa, liber 16: Italia -- v. 9. Europa, liber 17: Hispania. Africa -- v. 10. Asia -- v. 11. America. This copy is from the National Library of Scotland and we are grateful to them for providing scanned images of the atlas as part of a joint project under the guidance of Christopher Fleet, Senior Map Curator at the NLS. For more information on Joan Blaeu and the Atlas Maior, see the National Library of Scotland website, http://maps.nls.uk Koeman B1 56; van der Krogt 2:601-3 (first volume dated 1665, all others dated 1662). van der Krogt 2:601 [-3].2 (10) Subjects:","creator":"Blaeu, Joan, 1596-1673","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2026-06-20 07:21:00","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ALivonia%2C_Vulgo_Lyefland_%28IA_dr_livonia-vulgo-lyefland-104187392%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f8/Livonia%2C_Vulgo_Lyefland_%28IA_dr_livonia-vulgo-lyefland-104187392%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-44af1fc83199c492ac9f7b2f","title":"Livonia. (to accompany) Atlas minor Gerardi Mercatoris. (IA dr livonia-to-accompany-atlas-minor-gerardi-mercatoris-11201099).jpg","caption":"Zoomable full resolution image available at davidrumsey.com . This image 11201.099 is a part of image group 11201.000 . Map of northern Baltic region. Covers west to Poland, Estonia, Latvia and part of Russia. The Atlas published by Ioannes Janssonius, in 1607 (2nd prelim. leaf, is dated March 1607. Pagination irregular), with 8 + 656 p.,152 black and white maps, 1 color map, text and index. Decorative colored title page that is filled with allegorical female figures of the continents, geographers measuring the globe within an architectural surrounding. Maps with title cartouche, showing the boundaries, territories, topographical features, cities and towns, landmarks, rivers, forests, compass rose, coat of arms, sea monsters, sailing vessels, etc. In full vellum binding with title \" Atlas minor Gr. Mercatoris Hondius.\" on spine. Gerardus Mercator can confidently be called the greatest cartographer of the sixteenth century, he helped to establish Amsterdam as the leading center of 16th Century cartography. Gerard Mercator originally a student of philosophy, became an expert in land surveying and cartography, as well as a skilled engraver. His first maps were published in 1537 (Palestine), and 1538 (a map of the world). His most famous contribution to science is a technique of rendering the globe on a flat surface. In 1569 he published his masterpiece, the twenty-one-sheet map of the world, still known as \"Mercator’s projection.\" Shortly after the publication of the big folio-atlases (the Atlas, Sive cosmographicae meditationes de fabrica mundi et fabricati figura 1585-9, and the edition of Ptolemy's Geographia 1578) the need was apparently felt for a smaller-sized atlas, one that would be handier and, above all cheaper, so that a larger public might have access to the use of maps. During the preparation of the publication of Mercator's large Atlas, Hondius had the maps reduced, in order to publish them as the Atlas Minor in 1607. The publisher, Cornelis Claesz, also participated in this enterprise. Phillips no. 423 Subjects:","creator":"Mercator, Gerhard, 1512-1594 Hondius, Iodocus, 1563-1612 Nicolaus, Cornelius Bottius, Adrianus","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2026-06-20 07:20:51","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ALivonia._%28to_accompany%29_Atlas_minor_Gerardi_Mercatoris._%28IA_dr_livonia-to-accompany-atlas-minor-gerardi-mercatoris-11201099%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/65/Livonia._%28to_accompany%29_Atlas_minor_Gerardi_Mercatoris._%28IA_dr_livonia-to-accompany-atlas-minor-gerardi-mercatoris-11201099%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-b6416f1a6729940e5c6a789f","title":"Maple Tree in Autumn in Historic Rosedale Gardens Neighborhood in Livonia, Michigan.jpg","caption":"Maple Tree in Autumn in Historic Rosedale Gardens Neighborhood in Livonia, Michigan","creator":"Quadmusic","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","dateDisplay":"2024-10-30 18:39:28","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMaple_Tree_in_Autumn_in_Historic_Rosedale_Gardens_Neighborhood_in_Livonia%2C_Michigan.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/e0/Maple_Tree_in_Autumn_in_Historic_Rosedale_Gardens_Neighborhood_in_Livonia%2C_Michigan.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-66a2acc5c634b9e1d298c397","title":"Maps of Pomerania, of Livonia, and of the Duchy of Oświęcim and Zator by Abraham Ortelius.jpeg","caption":"Maps of Pomerania, of Livonia, and of the Duchy of Oświęcim and Zator by Abraham Ortelius. Theatrum Orbis Terrarum . London, 1606 (i.e. 1608?). Plate 100.","creator":"Abraham Ortelius","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"circa 1608 date QS:P,+1608-00-00T00:00:00Z/9,P1480,Q5727902","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMaps_of_Pomerania%2C_of_Livonia%2C_and_of_the_Duchy_of_O%C5%9Bwi%C4%99cim_and_Zator_by_Abraham_Ortelius.jpeg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/19/Maps_of_Pomerania%2C_of_Livonia%2C_and_of_the_Duchy_of_O%C5%9Bwi%C4%99cim_and_Zator_by_Abraham_Ortelius.jpeg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-866aef840079f6817c6988ca","title":"Medieval Livonia 1260.svg","caption":"A political map of the Medieval Livonia , circa 1260, along with surrounding areas","creator":"No machine-readable author provided. Termer assumed (based on copyright claims).","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","dateDisplay":"13 November 2008 (original upload date)","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMedieval_Livonia_1260.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b5/Medieval_Livonia_1260.svg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-6c80610e2dbefdc5882c0283","title":"Russland, Polen und Livland bis ins 17. Jahrhundert (1886) (14783601485).jpg","caption":"Map of Sarmatia Asie originally from Cosmographia (1550) by Sebastian Münster; facsimile illustration taken from the book Rußland, Polen und Livland bis ins 17. Jahrhundert (vol. 2, 1887) by Theodor Schiemann. Identifier : russlandpolenund02schi ( find matches ) Title : Russland, Polen und Livland bis ins 17. Jahrhundert Publisher : Berlin G. Grote Contributing Library : Robarts - University of Toronto Digitizing Sponsor : University of Toronto View Book Page : Book Viewer About This Book : Catalog Entry View All Images : All Images From Book Click here to view book online to see this illustration in context in a browseable online version of this book. Note About Images : Please note that these images are extracted from scanned page images that may have been digitally enhanced for readability - coloration and appearance of these illustrations may not perfectly resemble the original work.","creator":"Sebastian Münster","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1887","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ARussland%2C_Polen_und_Livland_bis_ins_17._Jahrhundert_%281886%29_%2814783601485%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/e8/Russland%2C_Polen_und_Livland_bis_ins_17._Jahrhundert_%281886%29_%2814783601485%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-9e2743550f7cbba725c48076","title":"Russland. Gouv- 3. Esthland. 4. Livland. 5. Kurland. (to accompany) Atlas von Europa nebst den Kolonien - Dreizehnte Lieferung. (IA dr russland-gouv-3-esthland-4-livland-5-kurland-to-accompany-atlas-v-8328278).jpg","caption":"Zoomable full resolution image available at davidrumsey.com . This image 8328.278 is a part of image group 8328.000 . Outline hand color map. Shows administrative divisions, counties, cities and towns. Early topographical map of Europe, together with the colonies for businessmen, newspaper readers ... by German geographical author, Wilhelm August von Schlieben (1781-1839), published in parts from 1825-1830, in 3 volumes, and 15 parts; volume 1: 1-5, Volume 2: 6-10, Volume 3: 11-15. Each volume includes outline hand colored maps, manuscript index, forward, table of content, extensive descriptive text and index. Bound in half leather green marbled paper covered boards measuring 26.5x34.5, with \"Atlas von Europa ... Lieferung\" embossed on the spine. (v.1) 1. lief. Konigreich Frankreich. I. Heft. 2. lief. Konigreich Frankreich. II. heft. und das Turkische (Osmanische) reich in Europa. 3. lief. Die Helvetische eldgenossenschaft oder die Schweiz und das konigreich Portugal. 4. lief. Das konigreich Spanien. 5. lief. Die konigreiche 1) der Niederlands 2) Danemark. und 3) Schweden mit Norwegen.--(v.2) 6. lief. Der deutsche staatebund und zwar die suddeutschen staaten. 7. lief. Der deutsche staatenbund, und zwar der nordwestliche theil der nordeutschen staaten. 8. lief. Der deutsche staatenbund. und zwar der nordostliche theil der norddeutschen staaten. 9.-10. lief. Der Preussische staat.--(v.3) 11-12. lief. Der Osterreichische staat oder das kaiserthum Oesterreich. 13. lief. Das Russische reich in Europa mit ausschiuss von Polen. 14. lief. Das konigreich Polen, die republik Krakau, die Italienischen staaten. 15. lief. Das Britische reich. Subjects:","creator":"Schlieben, Wilhelm Ernst August Hermann, O.","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2026-06-21 09:33:48","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ARussland._Gouv-_3._Esthland._4._Livland._5._Kurland._%28to_accompany%29_Atlas_von_Europa_nebst_den_Kolonien_-_Dreizehnte_Lieferung._%28IA_dr_russland-gouv-3-esthland-4-livland-5-kurland-to-accompany-atlas-v-8328278%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/d/da/Russland._Gouv-_3._Esthland._4._Livland._5._Kurland._%28to_accompany%29_Atlas_von_Europa_nebst_den_Kolonien_-_Dreizehnte_Lieferung._%28IA_dr_russland-gouv-3-esthland-4-livland-5-kurland-to-accompany-atlas-v-8328278%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-387555a18328ae02802f6ee9","title":"Sanborn Fire Insurance Map from Livonia, Livingston County, New York. LOC sanborn06044 001.jpg","caption":"Jul 1886. 1 Sheet(s).","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1886-07","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASanborn_Fire_Insurance_Map_from_Livonia%2C_Livingston_County%2C_New_York._LOC_sanborn06044_001.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/2e/Sanborn_Fire_Insurance_Map_from_Livonia%2C_Livingston_County%2C_New_York._LOC_sanborn06044_001.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-ee8a5ee049935648a5c188a8","title":"Sanborn Fire Insurance Map from Livonia, Livingston County, New York. LOC sanborn06044 002.jpg","caption":"Jan 1894. 1 Sheet(s).","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1894-01","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASanborn_Fire_Insurance_Map_from_Livonia%2C_Livingston_County%2C_New_York._LOC_sanborn06044_002.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/a/ad/Sanborn_Fire_Insurance_Map_from_Livonia%2C_Livingston_County%2C_New_York._LOC_sanborn06044_002.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-ff88df4c4ab7eaed736df7a6","title":"Wayne County Michigan Incorporated and Unincorporated areas Livonia highlighted.svg","caption":"This map shows the incorporated and unincorporated areas in Wayne County , Michigan . Highlighting Livonia in red. I created it in Inkscape using data from the US Census Bureau.","creator":"Arkyan","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","dateDisplay":"2007-04-23","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AWayne_County_Michigan_Incorporated_and_Unincorporated_areas_Livonia_highlighted.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/9/9e/Wayne_County_Michigan_Incorporated_and_Unincorporated_areas_Livonia_highlighted.svg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-c023ca821cc9131c3f159421","title":"Generalʹnai︠a︡ Karta Lifli︠a︡ndskoĭ Gubernii Sʺ pokazaniemʺ pochtovykhʺ i bolʹshikhʺ proi︠e︡zzhikhʺ dorogʺ, stant︠s︡iĭ i razstoi︠a︡nii︠a︡ mezhdu onymi verstʺ. LOC 2018688642.jpg","caption":"This 1820 map of Livland Provinceis from a larger work,Geograficheskii atlas Rossiiskoi imperii, tsarstva Pol'skogo i velikogo kniazhestva Finliandskogo(Geographical atlas of the Russian Empire, the Kingdom of Poland, and the Grand Duchy of Finland), containing 60 maps of the Russian Empire. Compiled and engraved by Colonel V.P. Piadyshev, it reflects the detailed mapping carried out by Russian military cartographers in the first quarter of the 19th century. The map shows population centers (six gradations by size), postal stations, roads (four types), provincial and district borders,taverns, and customs houses. Distances are shown in versts, a Russian measure, now no longer used, equal to 1.07 kilometers.Legends and place-names are in Russian and German. The territory depicted on the map corresponds to the southern part of present-day Estonia and the northern part of present-day Latvia. In the 12th-13th centuries, a Catholic military order known as the Livonian Brothers of the Sword captured much of this region in the era of the Northern Crusades. This region borders Lake Peipus (Lake Chudskoye in Russian on this map), which was the site of the famous Battle on the Ice in 1242. This legendary clash, between the Teutonic Knights and the Russians from Novgorod, helped to establish Alexander Nevsky as the patron saint of Russia. This conflict set an effective border between the medieval Russian and German territories. In subsequent centuries, ecclesiastical German elites (later known as Baltic Germans) formed a landed nobility that enserfed the native Estonian and Latvian peasantry. Local German barons, inhabiting the castles and estates established by the Teutonic Knights, subsequently shared ruling status with the bishops and archbishops of Riga, Dorpat (present-day Tartu), and other regional cities in the Livonian Confederation. The Swedish kings conquered this entire area in the 16th century, and established a Lutheran culture in Swedish Livonia. The subsequent Livonian War between Russia, Sweden, and Poland-Lithuania led to further upheavals by the late 16th century. Peter the Great gained this region in the Great Northern War (1700-1721) with Charles XII of Sweden, after which it became part of the Russian Empire and known as Livland Province. World Digital Library.","creator":"Pi︠A︡Dyshev, Vasiliĭ Petrovich; Russia. General Staff. Military Topographical Depot; Iwanoff","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1820","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AGeneral%CA%B9nai%EF%B8%A0a%EF%B8%A1_Karta_Lifli%EF%B8%A0a%EF%B8%A1ndsko%C4%AD_Gubernii_S%CA%BA_pokazaniem%CA%BA_pochtovykh%CA%BA_i_bol%CA%B9shikh%CA%BA_proi%EF%B8%A0e%EF%B8%A1zzhikh%CA%BA_dorog%CA%BA%2C_stant%EF%B8%A0s%EF%B8%A1i%C4%AD_i_razstoi%EF%B8%A0a%EF%B8%A1nii%EF%B8%A0a%EF%B8%A1_mezhdu_onymi_verst%CA%BA._LOC_2018688642.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/ca/General%CA%B9nai%EF%B8%A0a%EF%B8%A1_Karta_Lifli%EF%B8%A0a%EF%B8%A1ndsko%C4%AD_Gubernii_S%CA%BA_pokazaniem%CA%BA_pochtovykh%CA%BA_i_bol%CA%B9shikh%CA%BA_proi%EF%B8%A0e%EF%B8%A1zzhikh%CA%BA_dorog%CA%BA%2C_stant%EF%B8%A0s%EF%B8%A1i%C4%AD_i_razstoi%EF%B8%A0a%EF%B8%A1nii%EF%B8%A0a%EF%B8%A1_mezhdu_onymi_verst%CA%BA._LOC_2018688642.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.98,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-c57d3c72103c51e5b9d8e4d4","title":"Generalʹnai︠a︡ Karta Lifli︠a︡ndskoĭ Gubernii Sʺ pokazaniemʺ pochtovykhʺ i bolʹshikhʺ proi︠e︡zzhikhʺ dorogʺ, stant︠s︡iĭ i razstoi︠a︡nii︠a︡ mezhdu onymi verstʺ. LOC 2018688642.tif","caption":"This 1820 map of Livland Provinceis from a larger work,Geograficheskii atlas Rossiiskoi imperii, tsarstva Pol'skogo i velikogo kniazhestva Finliandskogo(Geographical atlas of the Russian Empire, the Kingdom of Poland, and the Grand Duchy of Finland), containing 60 maps of the Russian Empire. Compiled and engraved by Colonel V.P. Piadyshev, it reflects the detailed mapping carried out by Russian military cartographers in the first quarter of the 19th century. The map shows population centers (six gradations by size), postal stations, roads (four types), provincial and district borders,taverns, and customs houses. Distances are shown in versts, a Russian measure, now no longer used, equal to 1.07 kilometers.Legends and place-names are in Russian and German. The territory depicted on the map corresponds to the southern part of present-day Estonia and the northern part of present-day Latvia. In the 12th-13th centuries, a Catholic military order known as the Livonian Brothers of the Sword captured much of this region in the era of the Northern Crusades. This region borders Lake Peipus (Lake Chudskoye in Russian on this map), which was the site of the famous Battle on the Ice in 1242. This legendary clash, between the Teutonic Knights and the Russians from Novgorod, helped to establish Alexander Nevsky as the patron saint of Russia. This conflict set an effective border between the medieval Russian and German territories. In subsequent centuries, ecclesiastical German elites (later known as Baltic Germans) formed a landed nobility that enserfed the native Estonian and Latvian peasantry. Local German barons, inhabiting the castles and estates established by the Teutonic Knights, subsequently shared ruling status with the bishops and archbishops of Riga, Dorpat (present-day Tartu), and other regional cities in the Livonian Confederation. The Swedish kings conquered this entire area in the 16th century, and established a Lutheran culture in Swedish Livonia. The subsequent Livonian War between Russia, Sweden, and Poland-Lithuania led to further upheavals by the late 16th century. Peter the Great gained this region in the Great Northern War (1700-1721) with Charles XII of Sweden, after which it became part of the Russian Empire and known as Livland Province. World Digital Library.","creator":"Pi︠A︡Dyshev, Vasiliĭ Petrovich; Russia. General Staff. Military Topographical Depot; Iwanoff","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1820","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AGeneral%CA%B9nai%EF%B8%A0a%EF%B8%A1_Karta_Lifli%EF%B8%A0a%EF%B8%A1ndsko%C4%AD_Gubernii_S%CA%BA_pokazaniem%CA%BA_pochtovykh%CA%BA_i_bol%CA%B9shikh%CA%BA_proi%EF%B8%A0e%EF%B8%A1zzhikh%CA%BA_dorog%CA%BA%2C_stant%EF%B8%A0s%EF%B8%A1i%C4%AD_i_razstoi%EF%B8%A0a%EF%B8%A1nii%EF%B8%A0a%EF%B8%A1_mezhdu_onymi_verst%CA%BA._LOC_2018688642.tif","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a0/General%CA%B9nai%EF%B8%A0a%EF%B8%A1_Karta_Lifli%EF%B8%A0a%EF%B8%A1ndsko%C4%AD_Gubernii_S%CA%BA_pokazaniem%CA%BA_pochtovykh%CA%BA_i_bol%CA%B9shikh%CA%BA_proi%EF%B8%A0e%EF%B8%A1zzhikh%CA%BA_dorog%CA%BA%2C_stant%EF%B8%A0s%EF%B8%A1i%C4%AD_i_razstoi%EF%B8%A0a%EF%B8%A1nii%EF%B8%A0a%EF%B8%A1_mezhdu_onymi_verst%CA%BA._LOC_2018688642.tif","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.98,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-f37b3ae459aa6244f63dcac3","title":"1730 Homann Map of Scandinavia, Norway, Sweden, Denmark, Finland and the Baltics - Geographicus - Scandinavia-homann-1730.jpg","caption":"A detailed c. 1730 J. B. Homann map of Scandinavia. Depicts both Denmark, Norway, Sweden, Finland and the Baltic states of Livonia, Latvia and Curlandia. The map notes fortified cities, villages, roads, bridges, forests, castles and topography. The elaborate title cartouche in the upper left quadrant features angels supporting a title curtain and a medallion supporting an alternative title in French, Les Trois Covronnes du Nord . Printed in Nuremburg. This map must have been engraved before 1715 when Homann was appointed Geographer to the King. The map does not have the cum privilegio (with privilege; i.e. copyright authority given by the Emperor) as part of the title, however it was included in the c. 1750 Homann Heirs Maior Atlas Scholasticus ex Triginta Sex Generalibus et Specialibus…. as well as in Homann’s Grosser Atlas .","creator":"Johann Homann","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between 1715 and 1750 date QS:P,+1750-00-00T00:00:00Z/7,P1319,+1715-00-00T00:00:00Z/9,P1326,+1750-00-00T00:00:00Z/9 (undated)","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A1730_Homann_Map_of_Scandinavia%2C_Norway%2C_Sweden%2C_Denmark%2C_Finland_and_the_Baltics_-_Geographicus_-_Scandinavia-homann-1730.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/e5/1730_Homann_Map_of_Scandinavia%2C_Norway%2C_Sweden%2C_Denmark%2C_Finland_and_the_Baltics_-_Geographicus_-_Scandinavia-homann-1730.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-1f19d36d918aa6433e0e4a13","title":"Afbeeldinghe der Zeecusten van Coerlant en̄ Lijflant niet alle de eijlanden en̄ Jnwijcken tusschen der Memel en̄ Revel (IA dr afbeeldinghe-der-zeecusten-van-coerlant-en-lijflant-niet-alle-de-eijlanden-14351163).jpg","caption":"Zoomable full resolution image available at davidrumsey.com . This image 14351.163 is a part of image group 14351.000 . Nautical chart showing the coastline of the Courland Spit (Lithuania and Russia) and Livonia. Parallel titles appears in Dutch and French, translating (loosely) to: Portrait of the shores of the Curonian Lagoon and Livonia ... Features cities, roads, ports, topography, coastlines, shoals, islands, anchorage, soundings and a ship. Relief shown pictorially. Includes three bar scales, rhumb lines and compass roses, with north oriented toward left. Decorative cartouche. Black and white engraving. Chart is 25 x 55 cm, on double sheet 26 x 58 cm. Appears in \"Tvveede boeck\" of atlas. Het Licht der Zee-vaert, by Willem Blaeu; published in Amsterdam, 1620. Title translates to: The light of the sea. This chart atlas was Blaeu's first atlas. Initially published in 1608, this is the fifth Dutch edition with 38 (of 42) maps. Oblong quarto. Engraved title, engraved frontispiece, 38 mostly double-page engraved charts (of 42, lacking 4 maps of Denmark), woodcut illustrations and diagrams within the text, 1 with volvelle (lacking 1), letterpress tables within decorative woodcut borders. Volume comprised of 261 woodcut coastal profiles in the text, illustrations, tables and charts. Recent fine full calf binding with richly gilt spine in compartments. Collation: Engraved title, (2), engraved frontispiece, 54 pp. (A4-F4, G2) lacking 2 pages; (2, title to Eerste Boeck), [1-8], 9-119, (1 blank) pp. (2, title to Tvveede Boeck), 3-130, [131] pp. 38 engraved maps (lacking 4). Probably lacking 1 volvelle in the beginning. Lacking 4 maps of Denmark, numbers 21-22, 24-25. Het Licht der Zee-vaert was the first book produced by the Blaeu publishing house, heralding a golden age of atlas production, and survives in only a few copies. It is one of the most important Dutch pilot-guides. Blaeu's pilot books were divided into chapters, each containing navigational instructions for specific sections of coastline, accompanied by a finely engraved coastal chart for each section. Map titles appeared in Dutch and French, with woodcut profile views illustrating the text. Blaeu included an editorial commentary at the beginning of the volume, condemning the generally held view of mariners that manuscript charts were better and more accurate than printed sea charts. Blaeu questioned the widely held belief of the time that manuscript charts were updated on a daily basis. Maps show the coasts of England, Scotland, Ireland, Norway, Sweden, Russia, Finland, Baltics, Pomerania, Spain, France, Northern Africa, Canaries, Maderia, etc. Richly embellished with decorative cartouches, sailing ships, sea-monsters, compass roses and sometimes with insets. The map \"Carte van de Reede ende Haven van Medenblick\" in the beginning, was not published until the edition 1618, and only published with the Dutch title until 1620 (the cartouche for the French title was, as in this case, blank). In 1618, Blaeu added a third chapter, covering the coastline of the Mediterranean. The first two charts, signed by Blaeu as Willem Jansz, cover the eastern and western Mediterranean. Willem Blaeu's earliest work focused on navigational aids for mariners. His first publication in this field was his Nieuw graetbouck, for which there are no known surviving examples. His next works of importance were two pilot guides, the Het licht der Zee-vaert and Zeespiegel (first edition 1623). In 1621, Johannes Jansson published a direct copy of Blaeu’s pilot guide Het licht der Zee-vaert, as Blaeu’s copyright had expired. Blaeu, in turn, competed against Jansson and his brother-in-law Henricus Hondius by producing an atlas, which spurred a rivalry lasting for over 50 years. Blaeu (1571-1638) was a prominent Dutch geographer and publisher. Born the son of a herring merchant, Blaeu became mathematician and astronomer. He studied with the Danish astronomer Tycho Brahe, with whom he honed his instrument and globe making skills. Blaeu set up shop in Amsterdam, where he sold instruments and globes, published maps, and edited the works of intellectuals such as Descartes and Hugo Grotius. In 1630 he issued his first world atlas, Atlas Appendix (see our 12202.000). In 1635, he released his atlas, Theatrum Orbis Terrarum, sive, Atlas novus. Willem died in 1638. He had two sons, Cornelis (1610-1648) and Joan (1596-1673). Joan trained as a lawyer, but joined his father’s business rather than practice law. After his father’s death, the brothers took over their father’s shop and Joan took on his work as hydrographer to the Dutch East India Company. Later in life, Joan would modify and greatly expand his father’s Atlas novus, eventually releasing his own masterpiece, the Atlas maior, between 1662 and 1672 (see our 10017.000). https://ota.bodleian.ox.ac.uk Subjects: Nautical Charts","creator":"Blaeu, Willem Janszoon, 1571-1638","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2026-06-17 22:03:16","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AAfbeeldinghe_der_Zeecusten_van_Coerlant_en%CC%84_Lijflant_niet_alle_de_eijlanden_en%CC%84_Jnwijcken_tusschen_der_Memel_en%CC%84_Revel_%28IA_dr_afbeeldinghe-der-zeecusten-van-coerlant-en-lijflant-niet-alle-de-eijlanden-14351163%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c3/Afbeeldinghe_der_Zeecusten_van_Coerlant_en%CC%84_Lijflant_niet_alle_de_eijlanden_en%CC%84_Jnwijcken_tusschen_der_Memel_en%CC%84_Revel_%28IA_dr_afbeeldinghe-der-zeecusten-van-coerlant-en-lijflant-niet-alle-de-eijlanden-14351163%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-5784e42f646373dd9f882351","title":"Beschijvinghe vande wonderlijcke gebroocken custe van Oost-Vinlant, Jtem vande noordelijcste deelen van Lijflant (IA dr beschijvinghe-vande-wonderlijcke-gebroocken-custe-van-oost-vinlant-jtem-va-14351168).jpg","caption":"Zoomable full resolution image available at davidrumsey.com . This image 14351.168 is a part of image group 14351.000 . Nautical chart showing the coastline of Finland, Livonia and Russia. Parallel titles appears in Dutch and French, translating (loosely) to: Description of the sea coast of eastern Finland, the Northern parts of Livonia, and of the coasts of Russia, located at the Gulf of Finland ... Features cities, roads, ports, topography, coastlines, shoals, islands, anchorage, soundings and a ship. Relief shown pictorially. Includes three bar scales, rhumb lines and compass roses, with north oriented toward top. Decorative cartouches. Black and white engraving. Chart is 25 x 55 cm, on double sheet 26 x 58 cm. Appears in \"Tvveede boeck\" of atlas. Het Licht der Zee-vaert, by Willem Blaeu; published in Amsterdam, 1620. Title translates to: The light of the sea. This chart atlas was Blaeu's first atlas. Initially published in 1608, this is the fifth Dutch edition with 38 (of 42) maps. Oblong quarto. Engraved title, engraved frontispiece, 38 mostly double-page engraved charts (of 42, lacking 4 maps of Denmark), woodcut illustrations and diagrams within the text, 1 with volvelle (lacking 1), letterpress tables within decorative woodcut borders. Volume comprised of 261 woodcut coastal profiles in the text, illustrations, tables and charts. Recent fine full calf binding with richly gilt spine in compartments. Collation: Engraved title, (2), engraved frontispiece, 54 pp. (A4-F4, G2) lacking 2 pages; (2, title to Eerste Boeck), [1-8], 9-119, (1 blank) pp. (2, title to Tvveede Boeck), 3-130, [131] pp. 38 engraved maps (lacking 4). Probably lacking 1 volvelle in the beginning. Lacking 4 maps of Denmark, numbers 21-22, 24-25. Het Licht der Zee-vaert was the first book produced by the Blaeu publishing house, heralding a golden age of atlas production, and survives in only a few copies. It is one of the most important Dutch pilot-guides. Blaeu's pilot books were divided into chapters, each containing navigational instructions for specific sections of coastline, accompanied by a finely engraved coastal chart for each section. Map titles appeared in Dutch and French, with woodcut profile views illustrating the text. Blaeu included an editorial commentary at the beginning of the volume, condemning the generally held view of mariners that manuscript charts were better and more accurate than printed sea charts. Blaeu questioned the widely held belief of the time that manuscript charts were updated on a daily basis. Maps show the coasts of England, Scotland, Ireland, Norway, Sweden, Russia, Finland, Baltics, Pomerania, Spain, France, Northern Africa, Canaries, Maderia, etc. Richly embellished with decorative cartouches, sailing ships, sea-monsters, compass roses and sometimes with insets. The map \"Carte van de Reede ende Haven van Medenblick\" in the beginning, was not published until the edition 1618, and only published with the Dutch title until 1620 (the cartouche for the French title was, as in this case, blank). In 1618, Blaeu added a third chapter, covering the coastline of the Mediterranean. The first two charts, signed by Blaeu as Willem Jansz, cover the eastern and western Mediterranean. Willem Blaeu's earliest work focused on navigational aids for mariners. His first publication in this field was his Nieuw graetbouck, for which there are no known surviving examples. His next works of importance were two pilot guides, the Het licht der Zee-vaert and Zeespiegel (first edition 1623). In 1621, Johannes Jansson published a direct copy of Blaeu’s pilot guide Het licht der Zee-vaert, as Blaeu’s copyright had expired. Blaeu, in turn, competed against Jansson and his brother-in-law Henricus Hondius by producing an atlas, which spurred a rivalry lasting for over 50 years. Blaeu (1571-1638) was a prominent Dutch geographer and publisher. Born the son of a herring merchant, Blaeu became mathematician and astronomer. He studied with the Danish astronomer Tycho Brahe, with whom he honed his instrument and globe making skills. Blaeu set up shop in Amsterdam, where he sold instruments and globes, published maps, and edited the works of intellectuals such as Descartes and Hugo Grotius. In 1630 he issued his first world atlas, Atlas Appendix (see our 12202.000). In 1635, he released his atlas, Theatrum Orbis Terrarum, sive, Atlas novus. Willem died in 1638. He had two sons, Cornelis (1610-1648) and Joan (1596-1673). Joan trained as a lawyer, but joined his father’s business rather than practice law. After his father’s death, the brothers took over their father’s shop and Joan took on his work as hydrographer to the Dutch East India Company. Later in life, Joan would modify and greatly expand his father’s Atlas novus, eventually releasing his own masterpiece, the Atlas maior, between 1662 and 1672 (see our 10017.000). https://ota.bodleian.ox.ac.uk Subjects: Nautical Charts","creator":"Blaeu, Willem Janszoon, 1571-1638","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2026-06-18 03:19:51","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ABeschijvinghe_vande_wonderlijcke_gebroocken_custe_van_Oost-Vinlant%2C_Jtem_vande_noordelijcste_deelen_van_Lijflant_%28IA_dr_beschijvinghe-vande-wonderlijcke-gebroocken-custe-van-oost-vinlant-jtem-va-14351168%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/8/80/Beschijvinghe_vande_wonderlijcke_gebroocken_custe_van_Oost-Vinlant%2C_Jtem_vande_noordelijcste_deelen_van_Lijflant_%28IA_dr_beschijvinghe-vande-wonderlijcke-gebroocken-custe-van-oost-vinlant-jtem-va-14351168%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-d37c2976759c3635f0966c0c","title":"Giovanni Antonio Magini. Moscoviae Imperivm. 1608.jpg","caption":"The map of Muscovite Empire includes also the territory of old Livonia and the North-eastern part of the Baltic Sea. The map depicts the end of the 16th century – the beginning of the 17th century cartographers’ notion of the Baltic Sea coastlines geographic view, which is of interest to us. Even though in the territory of present-day Latvia only a few place-names are noted (Riga, Venda, Dunemborg, Duina fluu., and Cureti pop.) and the coastline is significantly misrepresented, the map is testimony to the increasing geographical knowledge in Europe about our land. The map is included in M. Quad’s atlas published in Cologne in 1608. This map is a copy of G. A. Magini’s map of Moscowy, which was first published in the 1596 edition of Claudius Ptolemy’s Geography.","creator":"Giovanni Antonio Magini","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1608","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AGiovanni_Antonio_Magini._Moscoviae_Imperivm._1608.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/8/89/Giovanni_Antonio_Magini._Moscoviae_Imperivm._1608.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-5cfd0213db4dc2c576e3ed4c","title":"Polish-Lithuania map (1450-1600)-es.svg","caption":"Map showing the conflicts and territory of the union (later commonwealth) of Poland-Lithuania. National border Administrative or temporal division The Grand Duchy of Lithuania in 1450 Livonia Other rule Russia before 1494 Ceded to Russia in 1494 Ceded to Russia in 1503 Ceded to Russia in 1514 Ceded to Russia in 1536 Area recovered by Lithuania (Liubech) in 1508 Area recovered by Lithuania (Gomel) in 1537 Union of Lublin : Territory of the Kingdom of Poland before the Union of Lublin Territory of the Grand Duchy of Lithuania after the Union of Lublin Territory lost from the Grand Duchy of Lithuania to the Kingdom of Poland immediately preceding the Union of Lublin (the Voivodeships of Kiev, Podlaskie, Bracław, and Volhynia) The Polish-Lithuania Commonwealth after the Union of Lublin Border between Poland and Lithuania after the Union of Lublin Significant battles fought by Poland-Lithuania. Red: against the Tartars; Black: against Russia. Year given in small type. Significant fortress","creator":"Polish-Lithuania map (1450-1600).svg : Grandiose ( talk · contribs ) derivative work: Rowanwindwhistler ( talk )","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","dateDisplay":"2015-11-11","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APolish-Lithuania_map_%281450-1600%29-es.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b0/Polish-Lithuania_map_%281450-1600%29-es.svg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-a78b4753c42f87409fce7728","title":"Polish-Lithuania map (1450-1600).svg","caption":"Map showing the conflicts and territory of the union (later commonwealth) of Poland-Lithuania. National border Administrative or temporal division The Grand Duchy of Lithuania in 1450 Livonia Other rule Russia before 1494 Ceded to Russia in 1494 Ceded to Russia in 1503 Ceded to Russia in 1514 Ceded to Russia in 1536 Area recovered by Lithuania (Liubech) in 1508 Area recovered by Lithuania (Gomel) in 1537 Union of Lublin : Territory of the Kingdom of Poland before the Union of Lublin Territory of the Grand Duchy of Lithuania after the Union of Lublin Territory lost from the Grand Duchy of Lithuania to the Kingdom of Poland immediately preceding the Union of Lublin (the Voivodeships of Kiev, Podlaskie, Bracław, and Volhynia) The Polish-Lithuania Commonwealth after the Union of Lublin Border between Poland and Lithuania after the Union of Lublin Significant battles fought by Poland-Lithuania. Red: against the Tartars; Black: against Russia. Year given in small type. Significant fortress","creator":"Grandiose , adapted considerably from: (2001) Lietuvos istorijos atlasas , Vilnius: Vaga, pp. 16-17 ISBN 5-415-01577-9","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","dateDisplay":"2011-04-18","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APolish-Lithuania_map_%281450-1600%29.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/54/Polish-Lithuania_map_%281450-1600%29.svg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-cf824b3baa77d827bfe4a77f","title":"Text Page to) Capittel VII. Beschryvinghe der See-custen ende Eylanden van Lijflandt, tusschen der Memel ende Revel. (1 (IA dr text-page-to-capittel-vii-beschryvinghe-der-see-custen-ende-eylanden-van-14351162).jpg","caption":"Zoomable full resolution image available at &lt;a href=\" https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~338251~90106203 \" rel=\"ugc nofollow\"&gt;davidrumsey.com&lt;/a&gt;. This image &lt;a href=\"//www.davidrumsey.com/luna/servlet/view/search?q=list_no=%2214351.162%22\" rel=\"ugc nofollow\"&gt;14351.162&lt;/a&gt; is a part of image group &lt;a href=\" https://www.davidrumsey.com/luna/servlet/view/search?q=pub_list_no=%2214351.000%22 \" rel=\"ugc nofollow\"&gt;14351.000&lt;/a&gt;. Seventh chapter to \"Tvveede boeck\" - second book - of Het Licht der Zee-vaert. Title translates (loosely) to: Description of the sea coast of Livonia between \"Memel\" and \"Revel\" ... Includes section: I. De gheleghentheydt van der Memel af tot Domesnes. With historiated initial. Spans pages 50-56. Het Licht der Zee-vaert, by Willem Blaeu; published in Amsterdam, 1620. Title translates to: The light of the sea. This chart atlas was Blaeu's first atlas. Initially published in 1608, this is the fifth Dutch edition with 38 (of 42) maps. Oblong quarto. Engraved title, engraved frontispiece, 38 mostly double-page engraved charts (of 42, lacking 4 maps of Denmark), woodcut illustrations and diagrams within the text, 1 with volvelle (lacking 1), letterpress tables within decorative woodcut borders. Volume comprised of 261 woodcut coastal profiles in the text, illustrations, tables and charts. Recent fine full calf binding with richly gilt spine in compartments. Collation: Engraved title, (2), engraved frontispiece, 54 pp. (A4-F4, G2) lacking 2 pages; (2, title to Eerste Boeck), [1-8], 9-119, (1 blank) pp. (2, title to Tvveede Boeck), 3-130, [131] pp. 38 engraved maps (lacking 4). Probably lacking 1 volvelle in the beginning. Lacking 4 maps of Denmark, numbers 21-22, 24-25. Het Licht der Zee-vaert was the first book produced by the Blaeu publishing house, heralding a golden age of atlas production, and survives in only a few copies. It is one of the most important Dutch pilot-guides. Blaeu's pilot books were divided into chapters, each containing navigational instructions for specific sections of coastline, accompanied by a finely engraved coastal chart for each section. Map titles appeared in Dutch and French, with woodcut profile views illustrating the text. Blaeu included an editorial commentary at the beginning of the volume, condemning the generally held view of mariners that manuscript charts were better and more accurate than printed sea charts. Blaeu questioned the widely held belief of the time that manuscript charts were updated on a daily basis. Maps show the coasts of England, Scotland, Ireland, Norway, Sweden, Russia, Finland, Baltics, Pomerania, Spain, France, Northern Africa, Canaries, Maderia, etc. Richly embellished with decorative cartouches, sailing ships, sea-monsters, compass roses and sometimes with insets. The map \"Carte van de Reede ende Haven van Medenblick\" in the beginning, was not published until the edition 1618, and only published with the Dutch title until 1620 (the cartouche for the French title was, as in this case, blank). In 1618, Blaeu added a third chapter, covering the coastline of the Mediterranean. The first two charts, signed by Blaeu as Willem Jansz, cover the eastern and western Mediterranean. Willem Blaeu's earliest work focused on navigational aids for mariners. His first publication in this field was his Nieuw graetbouck, for which there are no known surviving examples. His next works of importance were two pilot guides, the Het licht der Zee-vaert and Zeespiegel (first edition 1623). In 1621, Johannes Jansson published a direct copy of Blaeu’s pilot guide Het licht der Zee-vaert, as Blaeu’s copyright had expired. Blaeu, in turn, competed against Jansson and his brother-in-law Henricus Hondius by producing an atlas, which spurred a rivalry lasting for over 50 years. Blaeu (1571-1638) was a prominent Dutch geographer and publisher. Born the son of a herring merchant, Blaeu became mathematician and astronomer. He studied with the Danish astronomer Tycho Brahe, with whom he honed his instrument and globe making skills. Blaeu set up shop in Amsterdam, where he sold instruments and globes, published maps, and edited the works of intellectuals such as Descartes and Hugo Grotius. In 1630 he issued his first world atlas, Atlas Appendix (see our 12202.000). In 1635, he released his atlas, Theatrum Orbis Terrarum, sive, Atlas novus. Willem died in 1638. He had two sons, Cornelis (1610-1648) and Joan (1596-1673). Joan trained as a lawyer, but joined his father’s business rather than practice law. After his father’s death, the brothers took over their father’s shop and Joan took on his work as hydrographer to the Dutch East India Company. Later in life, Joan would modify and greatly expand his father’s Atlas novus, eventually releasing his own masterpiece, the Atlas maior, between 1662 and 1672 (see our 10017.000). &lt;a href=\" https://ota.bodleian.ox.ac.uk/repository/xmlui/bitstream/handle/20.500.12024/A16189/A16189.html?sequence=5&amp;isAllowed=y \" rel=\"ugc nofollow\"&gt; https://ota.bodleian.ox.ac.uk &lt;/a&gt; Subjects:","creator":"Blaeu, Willem Janszoon, 1571-1638","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2026-06-22 07:26:38","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AText_Page_to%29_Capittel_VII._Beschryvinghe_der_See-custen_ende_Eylanden_van_Lijflandt%2C_tusschen_der_Memel_ende_Revel._%281_%28IA_dr_text-page-to-capittel-vii-beschryvinghe-der-see-custen-ende-eylanden-van-14351162%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fe/Text_Page_to%29_Capittel_VII._Beschryvinghe_der_See-custen_ende_Eylanden_van_Lijflandt%2C_tusschen_der_Memel_ende_Revel._%281_%28IA_dr_text-page-to-capittel-vii-beschryvinghe-der-see-custen-ende-eylanden-van-14351162%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-8b3ac0df6ca90926359b8f51","title":"Text Page to) Capittel VII. Beschryvinghe der See-custen ende Eylanden van Lijflandt, tusschen der Memel ende Revel. (2 (IA dr text-page-to-capittel-vii-beschryvinghe-der-see-custen-ende-eylanden-van-14351164).jpg","caption":"Zoomable full resolution image available at &lt;a href=\" https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~338252~90106206 \" rel=\"ugc nofollow\"&gt;davidrumsey.com&lt;/a&gt;. This image &lt;a href=\"//www.davidrumsey.com/luna/servlet/view/search?q=list_no=%2214351.164%22\" rel=\"ugc nofollow\"&gt;14351.164&lt;/a&gt; is a part of image group &lt;a href=\" https://www.davidrumsey.com/luna/servlet/view/search?q=pub_list_no=%2214351.000%22 \" rel=\"ugc nofollow\"&gt;14351.000&lt;/a&gt;. Seventh chapter to \"Tvveede boeck\" - second book - of Het Licht der Zee-vaert. Title translates (loosely) to: Description of the sea coast of Livonia between \"Memel\" and \"Revel\" ... Includes sections: I. De gheleghentheydt van der Memel af tot Domesnes. -- II. Om van Domesnes naer Ryghe ende Parnout te seylen. Features engraved profile views. Spans pages 50-56. Het Licht der Zee-vaert, by Willem Blaeu; published in Amsterdam, 1620. Title translates to: The light of the sea. This chart atlas was Blaeu's first atlas. Initially published in 1608, this is the fifth Dutch edition with 38 (of 42) maps. Oblong quarto. Engraved title, engraved frontispiece, 38 mostly double-page engraved charts (of 42, lacking 4 maps of Denmark), woodcut illustrations and diagrams within the text, 1 with volvelle (lacking 1), letterpress tables within decorative woodcut borders. Volume comprised of 261 woodcut coastal profiles in the text, illustrations, tables and charts. Recent fine full calf binding with richly gilt spine in compartments. Collation: Engraved title, (2), engraved frontispiece, 54 pp. (A4-F4, G2) lacking 2 pages; (2, title to Eerste Boeck), [1-8], 9-119, (1 blank) pp. (2, title to Tvveede Boeck), 3-130, [131] pp. 38 engraved maps (lacking 4). Probably lacking 1 volvelle in the beginning. Lacking 4 maps of Denmark, numbers 21-22, 24-25. Het Licht der Zee-vaert was the first book produced by the Blaeu publishing house, heralding a golden age of atlas production, and survives in only a few copies. It is one of the most important Dutch pilot-guides. Blaeu's pilot books were divided into chapters, each containing navigational instructions for specific sections of coastline, accompanied by a finely engraved coastal chart for each section. Map titles appeared in Dutch and French, with woodcut profile views illustrating the text. Blaeu included an editorial commentary at the beginning of the volume, condemning the generally held view of mariners that manuscript charts were better and more accurate than printed sea charts. Blaeu questioned the widely held belief of the time that manuscript charts were updated on a daily basis. Maps show the coasts of England, Scotland, Ireland, Norway, Sweden, Russia, Finland, Baltics, Pomerania, Spain, France, Northern Africa, Canaries, Maderia, etc. Richly embellished with decorative cartouches, sailing ships, sea-monsters, compass roses and sometimes with insets. The map \"Carte van de Reede ende Haven van Medenblick\" in the beginning, was not published until the edition 1618, and only published with the Dutch title until 1620 (the cartouche for the French title was, as in this case, blank). In 1618, Blaeu added a third chapter, covering the coastline of the Mediterranean. The first two charts, signed by Blaeu as Willem Jansz, cover the eastern and western Mediterranean. Willem Blaeu's earliest work focused on navigational aids for mariners. His first publication in this field was his Nieuw graetbouck, for which there are no known surviving examples. His next works of importance were two pilot guides, the Het licht der Zee-vaert and Zeespiegel (first edition 1623). In 1621, Johannes Jansson published a direct copy of Blaeu’s pilot guide Het licht der Zee-vaert, as Blaeu’s copyright had expired. Blaeu, in turn, competed against Jansson and his brother-in-law Henricus Hondius by producing an atlas, which spurred a rivalry lasting for over 50 years. Blaeu (1571-1638) was a prominent Dutch geographer and publisher. Born the son of a herring merchant, Blaeu became mathematician and astronomer. He studied with the Danish astronomer Tycho Brahe, with whom he honed his instrument and globe making skills. Blaeu set up shop in Amsterdam, where he sold instruments and globes, published maps, and edited the works of intellectuals such as Descartes and Hugo Grotius. In 1630 he issued his first world atlas, Atlas Appendix (see our 12202.000). In 1635, he released his atlas, Theatrum Orbis Terrarum, sive, Atlas novus. Willem died in 1638. He had two sons, Cornelis (1610-1648) and Joan (1596-1673). Joan trained as a lawyer, but joined his father’s business rather than practice law. After his father’s death, the brothers took over their father’s shop and Joan took on his work as hydrographer to the Dutch East India Company. Later in life, Joan would modify and greatly expand his father’s Atlas novus, eventually releasing his own masterpiece, the Atlas maior, between 1662 and 1672 (see our 10017.000). &lt;a href=\" https://ota.bodleian.ox.ac.uk/repository/xmlui/bitstream/handle/20.500.12024/A16189/A16189.html?sequence=5&amp;isAllowed=y \" rel=\"ugc nofollow\"&gt; https://ota.bodleian.ox.ac.uk &lt;/a&gt; Subjects:","creator":"Blaeu, Willem Janszoon, 1571-1638","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2026-06-22 07:26:47","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AText_Page_to%29_Capittel_VII._Beschryvinghe_der_See-custen_ende_Eylanden_van_Lijflandt%2C_tusschen_der_Memel_ende_Revel._%282_%28IA_dr_text-page-to-capittel-vii-beschryvinghe-der-see-custen-ende-eylanden-van-14351164%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d0/Text_Page_to%29_Capittel_VII._Beschryvinghe_der_See-custen_ende_Eylanden_van_Lijflandt%2C_tusschen_der_Memel_ende_Revel._%282_%28IA_dr_text-page-to-capittel-vii-beschryvinghe-der-see-custen-ende-eylanden-van-14351164%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-0a3ac55439286fa4a11f591d","title":"Text Page to) Capittel VII. Beschryvinghe der See-custen ende Eylanden van Lijflandt, tusschen der Memel ende Revel. (3 (IA dr text-page-to-capittel-vii-beschryvinghe-der-see-custen-ende-eylanden-van-14351165).jpg","caption":"Zoomable full resolution image available at &lt;a href=\" https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~338253~90106211 \" rel=\"nofollow\"&gt;davidrumsey.com&lt;/a&gt;. This image &lt;a href=\"//www.davidrumsey.com/luna/servlet/view/search?q=list_no=%2214351.165%22\" rel=\"nofollow\"&gt;14351.165&lt;/a&gt; is a part of image group &lt;a href=\" https://www.davidrumsey.com/luna/servlet/view/search?q=pub_list_no=%2214351.000%22 \" rel=\"nofollow\"&gt;14351.000&lt;/a&gt;. Seventh chapter to \"Tvveede boeck\" - second book - of Het Licht der Zee-vaert. Title translates (loosely) to: Description of the sea coast of Livonia between \"Memel\" and \"Revel\" ... Includes sections: II. Om van Domesnes naer Ryghe ende Parnout te seylen. -- III. De gheleghentheyt van de Oost-custe van Oesel. -- IV. De gheleghentheyt van de West-custe van Oesel ende van Dagheroort. Features engraved profile views. Spans pages 50-56. Het Licht der Zee-vaert, by Willem Blaeu; published in Amsterdam, 1620. Title translates to: The light of the sea. This chart atlas was Blaeu's first atlas. Initially published in 1608, this is the fifth Dutch edition with 38 (of 42) maps. Oblong quarto. Engraved title, engraved frontispiece, 38 mostly double-page engraved charts (of 42, lacking 4 maps of Denmark), woodcut illustrations and diagrams within the text, 1 with volvelle (lacking 1), letterpress tables within decorative woodcut borders. Volume comprised of 261 woodcut coastal profiles in the text, illustrations, tables and charts. Recent fine full calf binding with richly gilt spine in compartments. Collation: Engraved title, (2), engraved frontispiece, 54 pp. (A4-F4, G2) lacking 2 pages; (2, title to Eerste Boeck), [1-8], 9-119, (1 blank) pp. (2, title to Tvveede Boeck), 3-130, [131] pp. 38 engraved maps (lacking 4). Probably lacking 1 volvelle in the beginning. Lacking 4 maps of Denmark, numbers 21-22, 24-25. Het Licht der Zee-vaert was the first book produced by the Blaeu publishing house, heralding a golden age of atlas production, and survives in only a few copies. It is one of the most important Dutch pilot-guides. Blaeu's pilot books were divided into chapters, each containing navigational instructions for specific sections of coastline, accompanied by a finely engraved coastal chart for each section. Map titles appeared in Dutch and French, with woodcut profile views illustrating the text. Blaeu included an editorial commentary at the beginning of the volume, condemning the generally held view of mariners that manuscript charts were better and more accurate than printed sea charts. Blaeu questioned the widely held belief of the time that manuscript charts were updated on a daily basis. Maps show the coasts of England, Scotland, Ireland, Norway, Sweden, Russia, Finland, Baltics, Pomerania, Spain, France, Northern Africa, Canaries, Maderia, etc. Richly embellished with decorative cartouches, sailing ships, sea-monsters, compass roses and sometimes with insets. The map \"Carte van de Reede ende Haven van Medenblick\" in the beginning, was not published until the edition 1618, and only published with the Dutch title until 1620 (the cartouche for the French title was, as in this case, blank). In 1618, Blaeu added a third chapter, covering the coastline of the Mediterranean. The first two charts, signed by Blaeu as Willem Jansz, cover the eastern and western Mediterranean. Willem Blaeu's earliest work focused on navigational aids for mariners. His first publication in this field was his Nieuw graetbouck, for which there are no known surviving examples. His next works of importance were two pilot guides, the Het licht der Zee-vaert and Zeespiegel (first edition 1623). In 1621, Johannes Jansson published a direct copy of Blaeu’s pilot guide Het licht der Zee-vaert, as Blaeu’s copyright had expired. Blaeu, in turn, competed against Jansson and his brother-in-law Henricus Hondius by producing an atlas, which spurred a rivalry lasting for over 50 years. Blaeu (1571-1638) was a prominent Dutch geographer and publisher. Born the son of a herring merchant, Blaeu became mathematician and astronomer. He studied with the Danish astronomer Tycho Brahe, with whom he honed his instrument and globe making skills. Blaeu set up shop in Amsterdam, where he sold instruments and globes, published maps, and edited the works of intellectuals such as Descartes and Hugo Grotius. In 1630 he issued his first world atlas, Atlas Appendix (see our 12202.000). In 1635, he released his atlas, Theatrum Orbis Terrarum, sive, Atlas novus. Willem died in 1638. He had two sons, Cornelis (1610-1648) and Joan (1596-1673). Joan trained as a lawyer, but joined his father’s business rather than practice law. After his father’s death, the brothers took over their father’s shop and Joan took on his work as hydrographer to the Dutch East India Company. Later in life, Joan would modify and greatly expand his father’s Atlas novus, eventually releasing his own masterpiece, the Atlas maior, between 1662 and 1672 (see our 10017.000). &lt;a href=\" https://ota.bodleian.ox.ac.uk/repository/xmlui/bitstream/handle/20.500.12024/A16189/A16189.html?sequence=5&amp;isAllowed=y \" rel=\"nofollow\"&gt; https://ota.bodleian.ox.ac.uk &lt;/a&gt; Subjects:","creator":"Blaeu, Willem Janszoon, 1571-1638","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2026-06-22 07:26:54","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AText_Page_to%29_Capittel_VII._Beschryvinghe_der_See-custen_ende_Eylanden_van_Lijflandt%2C_tusschen_der_Memel_ende_Revel._%283_%28IA_dr_text-page-to-capittel-vii-beschryvinghe-der-see-custen-ende-eylanden-van-14351165%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f6/Text_Page_to%29_Capittel_VII._Beschryvinghe_der_See-custen_ende_Eylanden_van_Lijflandt%2C_tusschen_der_Memel_ende_Revel._%283_%28IA_dr_text-page-to-capittel-vii-beschryvinghe-der-see-custen-ende-eylanden-van-14351165%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-3dd82a109db73ac10a1a95a1","title":"Text Page to) Capittel VII. Beschryvinghe der See-custen ende Eylanden van Lijflandt, tusschen der Memel ende Revel. (4 (IA dr text-page-to-capittel-vii-beschryvinghe-der-see-custen-ende-eylanden-van-14351166).jpg","caption":"Zoomable full resolution image available at &lt;a href=\" https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~338254~90106213 \" rel=\"nofollow\"&gt;davidrumsey.com&lt;/a&gt;. This image &lt;a href=\"//www.davidrumsey.com/luna/servlet/view/search?q=list_no=%2214351.166%22\" rel=\"nofollow\"&gt;14351.166&lt;/a&gt; is a part of image group &lt;a href=\" https://www.davidrumsey.com/luna/servlet/view/search?q=pub_list_no=%2214351.000%22 \" rel=\"nofollow\"&gt;14351.000&lt;/a&gt;. Seventh chapter to \"Tvveede boeck\" - second book - of Het Licht der Zee-vaert. Title translates (loosely) to: Description of the sea coast of Livonia between \"Memel\" and \"Revel\" ... Includes sections: V. Om de Meunsondt in te seylen, achter ofte benoorden Oesel om tot in de Rijgsche Inwijck. -- VI. De gheleghentheyt van Oetgens holm af tot Revel toe. -- VII. Hoe dese Plaetsen van malcanderen zijn gheleghen. Features engraved profile view. Spans pages 50-56. Het Licht der Zee-vaert, by Willem Blaeu; published in Amsterdam, 1620. Title translates to: The light of the sea. This chart atlas was Blaeu's first atlas. Initially published in 1608, this is the fifth Dutch edition with 38 (of 42) maps. Oblong quarto. Engraved title, engraved frontispiece, 38 mostly double-page engraved charts (of 42, lacking 4 maps of Denmark), woodcut illustrations and diagrams within the text, 1 with volvelle (lacking 1), letterpress tables within decorative woodcut borders. Volume comprised of 261 woodcut coastal profiles in the text, illustrations, tables and charts. Recent fine full calf binding with richly gilt spine in compartments. Collation: Engraved title, (2), engraved frontispiece, 54 pp. (A4-F4, G2) lacking 2 pages; (2, title to Eerste Boeck), [1-8], 9-119, (1 blank) pp. (2, title to Tvveede Boeck), 3-130, [131] pp. 38 engraved maps (lacking 4). Probably lacking 1 volvelle in the beginning. Lacking 4 maps of Denmark, numbers 21-22, 24-25. Het Licht der Zee-vaert was the first book produced by the Blaeu publishing house, heralding a golden age of atlas production, and survives in only a few copies. It is one of the most important Dutch pilot-guides. Blaeu's pilot books were divided into chapters, each containing navigational instructions for specific sections of coastline, accompanied by a finely engraved coastal chart for each section. Map titles appeared in Dutch and French, with woodcut profile views illustrating the text. Blaeu included an editorial commentary at the beginning of the volume, condemning the generally held view of mariners that manuscript charts were better and more accurate than printed sea charts. Blaeu questioned the widely held belief of the time that manuscript charts were updated on a daily basis. Maps show the coasts of England, Scotland, Ireland, Norway, Sweden, Russia, Finland, Baltics, Pomerania, Spain, France, Northern Africa, Canaries, Maderia, etc. Richly embellished with decorative cartouches, sailing ships, sea-monsters, compass roses and sometimes with insets. The map \"Carte van de Reede ende Haven van Medenblick\" in the beginning, was not published until the edition 1618, and only published with the Dutch title until 1620 (the cartouche for the French title was, as in this case, blank). In 1618, Blaeu added a third chapter, covering the coastline of the Mediterranean. The first two charts, signed by Blaeu as Willem Jansz, cover the eastern and western Mediterranean. Willem Blaeu's earliest work focused on navigational aids for mariners. His first publication in this field was his Nieuw graetbouck, for which there are no known surviving examples. His next works of importance were two pilot guides, the Het licht der Zee-vaert and Zeespiegel (first edition 1623). In 1621, Johannes Jansson published a direct copy of Blaeu’s pilot guide Het licht der Zee-vaert, as Blaeu’s copyright had expired. Blaeu, in turn, competed against Jansson and his brother-in-law Henricus Hondius by producing an atlas, which spurred a rivalry lasting for over 50 years. Blaeu (1571-1638) was a prominent Dutch geographer and publisher. Born the son of a herring merchant, Blaeu became mathematician and astronomer. He studied with the Danish astronomer Tycho Brahe, with whom he honed his instrument and globe making skills. Blaeu set up shop in Amsterdam, where he sold instruments and globes, published maps, and edited the works of intellectuals such as Descartes and Hugo Grotius. In 1630 he issued his first world atlas, Atlas Appendix (see our 12202.000). In 1635, he released his atlas, Theatrum Orbis Terrarum, sive, Atlas novus. Willem died in 1638. He had two sons, Cornelis (1610-1648) and Joan (1596-1673). Joan trained as a lawyer, but joined his father’s business rather than practice law. After his father’s death, the brothers took over their father’s shop and Joan took on his work as hydrographer to the Dutch East India Company. Later in life, Joan would modify and greatly expand his father’s Atlas novus, eventually releasing his own masterpiece, the Atlas maior, between 1662 and 1672 (see our 10017.000). &lt;a href=\" https://ota.bodleian.ox.ac.uk/repository/xmlui/bitstream/handle/20.500.12024/A16189/A16189.html?sequence=5&amp;isAllowed=y \" rel=\"nofollow\"&gt; https://ota.bodleian.ox.ac.uk &lt;/a&gt; Subjects:","creator":"Blaeu, Willem Janszoon, 1571-1638","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2026-06-22 07:27:00","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AText_Page_to%29_Capittel_VII._Beschryvinghe_der_See-custen_ende_Eylanden_van_Lijflandt%2C_tusschen_der_Memel_ende_Revel._%284_%28IA_dr_text-page-to-capittel-vii-beschryvinghe-der-see-custen-ende-eylanden-van-14351166%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c2/Text_Page_to%29_Capittel_VII._Beschryvinghe_der_See-custen_ende_Eylanden_van_Lijflandt%2C_tusschen_der_Memel_ende_Revel._%284_%28IA_dr_text-page-to-capittel-vii-beschryvinghe-der-see-custen-ende-eylanden-van-14351166%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-e643cd7f0769f97d10372d2b","title":"Text Page to) Capittel VII. Beschryvinghe der See-custen ende Eylanden van Lijflandt, tusschen der Memel ende Revel. (5 (IA dr text-page-to-capittel-vii-beschryvinghe-der-see-custen-ende-eylanden-van-14351167).jpg","caption":"Zoomable full resolution image available at &lt;a href=\" https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~338255~90106209 \" rel=\"nofollow\"&gt;davidrumsey.com&lt;/a&gt;. This image &lt;a href=\"//www.davidrumsey.com/luna/servlet/view/search?q=list_no=%2214351.167%22\" rel=\"nofollow\"&gt;14351.167&lt;/a&gt; is a part of image group &lt;a href=\" https://www.davidrumsey.com/luna/servlet/view/search?q=pub_list_no=%2214351.000%22 \" rel=\"nofollow\"&gt;14351.000&lt;/a&gt;. Seventh chapter to \"Tvveede boeck\" - second book - of Het Licht der Zee-vaert. Title translates (loosely) to: Description of the sea coast of Livonia between \"Memel\" and \"Revel\" ... Includes sections: VII. Hoe dese Plaetsen van malcanderen zijn gheleghen. -- VIII. Hoe dese Landen ende Plaetsen van malkanderen in Streckinghen ende Distantien gheleghen zijn. Spans pages 50-56. Het Licht der Zee-vaert, by Willem Blaeu; published in Amsterdam, 1620. Title translates to: The light of the sea. This chart atlas was Blaeu's first atlas. Initially published in 1608, this is the fifth Dutch edition with 38 (of 42) maps. Oblong quarto. Engraved title, engraved frontispiece, 38 mostly double-page engraved charts (of 42, lacking 4 maps of Denmark), woodcut illustrations and diagrams within the text, 1 with volvelle (lacking 1), letterpress tables within decorative woodcut borders. Volume comprised of 261 woodcut coastal profiles in the text, illustrations, tables and charts. Recent fine full calf binding with richly gilt spine in compartments. Collation: Engraved title, (2), engraved frontispiece, 54 pp. (A4-F4, G2) lacking 2 pages; (2, title to Eerste Boeck), [1-8], 9-119, (1 blank) pp. (2, title to Tvveede Boeck), 3-130, [131] pp. 38 engraved maps (lacking 4). Probably lacking 1 volvelle in the beginning. Lacking 4 maps of Denmark, numbers 21-22, 24-25. Het Licht der Zee-vaert was the first book produced by the Blaeu publishing house, heralding a golden age of atlas production, and survives in only a few copies. It is one of the most important Dutch pilot-guides. Blaeu's pilot books were divided into chapters, each containing navigational instructions for specific sections of coastline, accompanied by a finely engraved coastal chart for each section. Map titles appeared in Dutch and French, with woodcut profile views illustrating the text. Blaeu included an editorial commentary at the beginning of the volume, condemning the generally held view of mariners that manuscript charts were better and more accurate than printed sea charts. Blaeu questioned the widely held belief of the time that manuscript charts were updated on a daily basis. Maps show the coasts of England, Scotland, Ireland, Norway, Sweden, Russia, Finland, Baltics, Pomerania, Spain, France, Northern Africa, Canaries, Maderia, etc. Richly embellished with decorative cartouches, sailing ships, sea-monsters, compass roses and sometimes with insets. The map \"Carte van de Reede ende Haven van Medenblick\" in the beginning, was not published until the edition 1618, and only published with the Dutch title until 1620 (the cartouche for the French title was, as in this case, blank). In 1618, Blaeu added a third chapter, covering the coastline of the Mediterranean. The first two charts, signed by Blaeu as Willem Jansz, cover the eastern and western Mediterranean. Willem Blaeu's earliest work focused on navigational aids for mariners. His first publication in this field was his Nieuw graetbouck, for which there are no known surviving examples. His next works of importance were two pilot guides, the Het licht der Zee-vaert and Zeespiegel (first edition 1623). In 1621, Johannes Jansson published a direct copy of Blaeu’s pilot guide Het licht der Zee-vaert, as Blaeu’s copyright had expired. Blaeu, in turn, competed against Jansson and his brother-in-law Henricus Hondius by producing an atlas, which spurred a rivalry lasting for over 50 years. Blaeu (1571-1638) was a prominent Dutch geographer and publisher. Born the son of a herring merchant, Blaeu became mathematician and astronomer. He studied with the Danish astronomer Tycho Brahe, with whom he honed his instrument and globe making skills. Blaeu set up shop in Amsterdam, where he sold instruments and globes, published maps, and edited the works of intellectuals such as Descartes and Hugo Grotius. In 1630 he issued his first world atlas, Atlas Appendix (see our 12202.000). In 1635, he released his atlas, Theatrum Orbis Terrarum, sive, Atlas novus. Willem died in 1638. He had two sons, Cornelis (1610-1648) and Joan (1596-1673). Joan trained as a lawyer, but joined his father’s business rather than practice law. After his father’s death, the brothers took over their father’s shop and Joan took on his work as hydrographer to the Dutch East India Company. Later in life, Joan would modify and greatly expand his father’s Atlas novus, eventually releasing his own masterpiece, the Atlas maior, between 1662 and 1672 (see our 10017.000). &lt;a href=\" https://ota.bodleian.ox.ac.uk/repository/xmlui/bitstream/handle/20.500.12024/A16189/A16189.html?sequence=5&amp;isAllowed=y \" rel=\"nofollow\"&gt; https://ota.bodleian.ox.ac.uk &lt;/a&gt; Subjects:","creator":"Blaeu, Willem Janszoon, 1571-1638","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2026-06-22 07:27:07","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AText_Page_to%29_Capittel_VII._Beschryvinghe_der_See-custen_ende_Eylanden_van_Lijflandt%2C_tusschen_der_Memel_ende_Revel._%285_%28IA_dr_text-page-to-capittel-vii-beschryvinghe-der-see-custen-ende-eylanden-van-14351167%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/9/91/Text_Page_to%29_Capittel_VII._Beschryvinghe_der_See-custen_ende_Eylanden_van_Lijflandt%2C_tusschen_der_Memel_ende_Revel._%285_%28IA_dr_text-page-to-capittel-vii-beschryvinghe-der-see-custen-ende-eylanden-van-14351167%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-902c6f573c43323ea1880093","title":"Text Page to) Capittel VIII. Beschryvinghe der See-custen van Lijflandt Ruffen ende Finlandt, van Revel af nae der Narve ende (IA dr text-page-to-capittel-viii-beschryvinghe-der-see-custen-van-lijflandt-ru-14351169).jpg","caption":"Zoomable full resolution image available at &lt;a href=\" https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~338256~90106212 \" rel=\"nofollow\"&gt;davidrumsey.com&lt;/a&gt;. This image &lt;a href=\"//www.davidrumsey.com/luna/servlet/view/search?q=list_no=%2214351.169%22\" rel=\"nofollow\"&gt;14351.169&lt;/a&gt; is a part of image group &lt;a href=\" https://www.davidrumsey.com/luna/servlet/view/search?q=pub_list_no=%2214351.000%22 \" rel=\"nofollow\"&gt;14351.000&lt;/a&gt;. Eighth chapter to \"Tvveede boeck\" - second book - of Het Licht der Zee-vaert. Title translates (loosely) to: Description of the sea coast of Livonia to Finland ... Includes section: I. De gheleghentheydt tusschen Revel ende der Narve. With historiated initial. Spans pages 57-61. Het Licht der Zee-vaert, by Willem Blaeu; published in Amsterdam, 1620. Title translates to: The light of the sea. This chart atlas was Blaeu's first atlas. Initially published in 1608, this is the fifth Dutch edition with 38 (of 42) maps. Oblong quarto. Engraved title, engraved frontispiece, 38 mostly double-page engraved charts (of 42, lacking 4 maps of Denmark), woodcut illustrations and diagrams within the text, 1 with volvelle (lacking 1), letterpress tables within decorative woodcut borders. Volume comprised of 261 woodcut coastal profiles in the text, illustrations, tables and charts. Recent fine full calf binding with richly gilt spine in compartments. Collation: Engraved title, (2), engraved frontispiece, 54 pp. (A4-F4, G2) lacking 2 pages; (2, title to Eerste Boeck), [1-8], 9-119, (1 blank) pp. (2, title to Tvveede Boeck), 3-130, [131] pp. 38 engraved maps (lacking 4). Probably lacking 1 volvelle in the beginning. Lacking 4 maps of Denmark, numbers 21-22, 24-25. Het Licht der Zee-vaert was the first book produced by the Blaeu publishing house, heralding a golden age of atlas production, and survives in only a few copies. It is one of the most important Dutch pilot-guides. Blaeu's pilot books were divided into chapters, each containing navigational instructions for specific sections of coastline, accompanied by a finely engraved coastal chart for each section. Map titles appeared in Dutch and French, with woodcut profile views illustrating the text. Blaeu included an editorial commentary at the beginning of the volume, condemning the generally held view of mariners that manuscript charts were better and more accurate than printed sea charts. Blaeu questioned the widely held belief of the time that manuscript charts were updated on a daily basis. Maps show the coasts of England, Scotland, Ireland, Norway, Sweden, Russia, Finland, Baltics, Pomerania, Spain, France, Northern Africa, Canaries, Maderia, etc. Richly embellished with decorative cartouches, sailing ships, sea-monsters, compass roses and sometimes with insets. The map \"Carte van de Reede ende Haven van Medenblick\" in the beginning, was not published until the edition 1618, and only published with the Dutch title until 1620 (the cartouche for the French title was, as in this case, blank). In 1618, Blaeu added a third chapter, covering the coastline of the Mediterranean. The first two charts, signed by Blaeu as Willem Jansz, cover the eastern and western Mediterranean. Willem Blaeu's earliest work focused on navigational aids for mariners. His first publication in this field was his Nieuw graetbouck, for which there are no known surviving examples. His next works of importance were two pilot guides, the Het licht der Zee-vaert and Zeespiegel (first edition 1623). In 1621, Johannes Jansson published a direct copy of Blaeu’s pilot guide Het licht der Zee-vaert, as Blaeu’s copyright had expired. Blaeu, in turn, competed against Jansson and his brother-in-law Henricus Hondius by producing an atlas, which spurred a rivalry lasting for over 50 years. Blaeu (1571-1638) was a prominent Dutch geographer and publisher. Born the son of a herring merchant, Blaeu became mathematician and astronomer. He studied with the Danish astronomer Tycho Brahe, with whom he honed his instrument and globe making skills. Blaeu set up shop in Amsterdam, where he sold instruments and globes, published maps, and edited the works of intellectuals such as Descartes and Hugo Grotius. In 1630 he issued his first world atlas, Atlas Appendix (see our 12202.000). In 1635, he released his atlas, Theatrum Orbis Terrarum, sive, Atlas novus. Willem died in 1638. He had two sons, Cornelis (1610-1648) and Joan (1596-1673). Joan trained as a lawyer, but joined his father’s business rather than practice law. After his father’s death, the brothers took over their father’s shop and Joan took on his work as hydrographer to the Dutch East India Company. Later in life, Joan would modify and greatly expand his father’s Atlas novus, eventually releasing his own masterpiece, the Atlas maior, between 1662 and 1672 (see our 10017.000). &lt;a href=\" https://ota.bodleian.ox.ac.uk/repository/xmlui/bitstream/handle/20.500.12024/A16189/A16189.html?sequence=5&amp;isAllowed=y \" rel=\"nofollow\"&gt; https://ota.bodleian.ox.ac.uk &lt;/a&gt; Subjects:","creator":"Blaeu, Willem Janszoon, 1571-1638","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2026-06-22 07:27:36","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AText_Page_to%29_Capittel_VIII._Beschryvinghe_der_See-custen_van_Lijflandt_Ruffen_ende_Finlandt%2C_van_Revel_af_nae_der_Narve_ende_%28IA_dr_text-page-to-capittel-viii-beschryvinghe-der-see-custen-van-lijflandt-ru-14351169%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1e/Text_Page_to%29_Capittel_VIII._Beschryvinghe_der_See-custen_van_Lijflandt_Ruffen_ende_Finlandt%2C_van_Revel_af_nae_der_Narve_ende_%28IA_dr_text-page-to-capittel-viii-beschryvinghe-der-see-custen-van-lijflandt-ru-14351169%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-29d23ae14afb33bea5fa47b8","title":"Text Page to) Capittel VIII. Beschryvinghe der See-custen van Lijflandt Ruffen ende Finlandt, van Revel af nae der Narve ende (IA dr text-page-to-capittel-viii-beschryvinghe-der-see-custen-van-lijflandt-ru-14351170).jpg","caption":"Zoomable full resolution image available at &lt;a href=\" https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~338257~90106217 \" rel=\"nofollow\"&gt;davidrumsey.com&lt;/a&gt;. This image &lt;a href=\"//www.davidrumsey.com/luna/servlet/view/search?q=list_no=%2214351.170%22\" rel=\"nofollow\"&gt;14351.170&lt;/a&gt; is a part of image group &lt;a href=\" https://www.davidrumsey.com/luna/servlet/view/search?q=pub_list_no=%2214351.000%22 \" rel=\"nofollow\"&gt;14351.000&lt;/a&gt;. Eighth chapter to \"Tvveede boeck\" - second book - of Het Licht der Zee-vaert. Title translates (loosely) to: Description of the sea coast of Livonia to Finland ... Includes sections: II. Om van Wrangher en oock van der Narve naer Wyborgh te seylen. -- III. De gheleghentheydt van Wyborgh tot Elsen-vos. -- IV. De gheleghentheydt van Elsen-vos af tot het Alandtsche Haf. Features engraved profile views. Spans pages 57-61. Het Licht der Zee-vaert, by Willem Blaeu; published in Amsterdam, 1620. Title translates to: The light of the sea. This chart atlas was Blaeu's first atlas. Initially published in 1608, this is the fifth Dutch edition with 38 (of 42) maps. Oblong quarto. Engraved title, engraved frontispiece, 38 mostly double-page engraved charts (of 42, lacking 4 maps of Denmark), woodcut illustrations and diagrams within the text, 1 with volvelle (lacking 1), letterpress tables within decorative woodcut borders. Volume comprised of 261 woodcut coastal profiles in the text, illustrations, tables and charts. Recent fine full calf binding with richly gilt spine in compartments. Collation: Engraved title, (2), engraved frontispiece, 54 pp. (A4-F4, G2) lacking 2 pages; (2, title to Eerste Boeck), [1-8], 9-119, (1 blank) pp. (2, title to Tvveede Boeck), 3-130, [131] pp. 38 engraved maps (lacking 4). Probably lacking 1 volvelle in the beginning. Lacking 4 maps of Denmark, numbers 21-22, 24-25. Het Licht der Zee-vaert was the first book produced by the Blaeu publishing house, heralding a golden age of atlas production, and survives in only a few copies. It is one of the most important Dutch pilot-guides. Blaeu's pilot books were divided into chapters, each containing navigational instructions for specific sections of coastline, accompanied by a finely engraved coastal chart for each section. Map titles appeared in Dutch and French, with woodcut profile views illustrating the text. Blaeu included an editorial commentary at the beginning of the volume, condemning the generally held view of mariners that manuscript charts were better and more accurate than printed sea charts. Blaeu questioned the widely held belief of the time that manuscript charts were updated on a daily basis. Maps show the coasts of England, Scotland, Ireland, Norway, Sweden, Russia, Finland, Baltics, Pomerania, Spain, France, Northern Africa, Canaries, Maderia, etc. Richly embellished with decorative cartouches, sailing ships, sea-monsters, compass roses and sometimes with insets. The map \"Carte van de Reede ende Haven van Medenblick\" in the beginning, was not published until the edition 1618, and only published with the Dutch title until 1620 (the cartouche for the French title was, as in this case, blank). In 1618, Blaeu added a third chapter, covering the coastline of the Mediterranean. The first two charts, signed by Blaeu as Willem Jansz, cover the eastern and western Mediterranean. Willem Blaeu's earliest work focused on navigational aids for mariners. His first publication in this field was his Nieuw graetbouck, for which there are no known surviving examples. His next works of importance were two pilot guides, the Het licht der Zee-vaert and Zeespiegel (first edition 1623). In 1621, Johannes Jansson published a direct copy of Blaeu’s pilot guide Het licht der Zee-vaert, as Blaeu’s copyright had expired. Blaeu, in turn, competed against Jansson and his brother-in-law Henricus Hondius by producing an atlas, which spurred a rivalry lasting for over 50 years. Blaeu (1571-1638) was a prominent Dutch geographer and publisher. Born the son of a herring merchant, Blaeu became mathematician and astronomer. He studied with the Danish astronomer Tycho Brahe, with whom he honed his instrument and globe making skills. Blaeu set up shop in Amsterdam, where he sold instruments and globes, published maps, and edited the works of intellectuals such as Descartes and Hugo Grotius. In 1630 he issued his first world atlas, Atlas Appendix (see our 12202.000). In 1635, he released his atlas, Theatrum Orbis Terrarum, sive, Atlas novus. Willem died in 1638. He had two sons, Cornelis (1610-1648) and Joan (1596-1673). Joan trained as a lawyer, but joined his father’s business rather than practice law. After his father’s death, the brothers took over their father’s shop and Joan took on his work as hydrographer to the Dutch East India Company. Later in life, Joan would modify and greatly expand his father’s Atlas novus, eventually releasing his own masterpiece, the Atlas maior, between 1662 and 1672 (see our 10017.000). &lt;a href=\" https://ota.bodleian.ox.ac.uk/repository/xmlui/bitstream/handle/20.500.12024/A16189/A16189.html?sequence=5&amp;isAllowed=y \" rel=\"nofollow\"&gt; https://ota.bodleian.ox.ac.uk &lt;/a&gt; Subjects:","creator":"Blaeu, Willem Janszoon, 1571-1638","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2026-06-22 07:27:43","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AText_Page_to%29_Capittel_VIII._Beschryvinghe_der_See-custen_van_Lijflandt_Ruffen_ende_Finlandt%2C_van_Revel_af_nae_der_Narve_ende_%28IA_dr_text-page-to-capittel-viii-beschryvinghe-der-see-custen-van-lijflandt-ru-14351170%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/0d/Text_Page_to%29_Capittel_VIII._Beschryvinghe_der_See-custen_van_Lijflandt_Ruffen_ende_Finlandt%2C_van_Revel_af_nae_der_Narve_ende_%28IA_dr_text-page-to-capittel-viii-beschryvinghe-der-see-custen-van-lijflandt-ru-14351170%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-fab2e87c94a116bd25fabfed","title":"Text Page to) Capittel VIII. Beschryvinghe der See-custen van Lijflandt Ruffen ende Finlandt, van Revel af nae der Narve ende (IA dr text-page-to-capittel-viii-beschryvinghe-der-see-custen-van-lijflandt-ru-14351171).jpg","caption":"Zoomable full resolution image available at &lt;a href=\" https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~338258~90106216 \" rel=\"ugc nofollow\"&gt;davidrumsey.com&lt;/a&gt;. This image &lt;a href=\"//www.davidrumsey.com/luna/servlet/view/search?q=list_no=%2214351.171%22\" rel=\"ugc nofollow\"&gt;14351.171&lt;/a&gt; is a part of image group &lt;a href=\" https://www.davidrumsey.com/luna/servlet/view/search?q=pub_list_no=%2214351.000%22 \" rel=\"ugc nofollow\"&gt;14351.000&lt;/a&gt;. Eighth chapter to \"Tvveede boeck\" - second book - of Het Licht der Zee-vaert. Title translates (loosely) to: Description of the sea coast of Livonia to Finland ... Includes sections: IV. De gheleghentheydt van Elsen-vos af tot het Alandtsche Haf. -- V. Hoe dese Landen ende Plaetsen van malcanderen gheleghen zijn. -- VI. Hoe dese :anden van andere Landen gheleghen zijn. Spans pages 57-61. Het Licht der Zee-vaert, by Willem Blaeu; published in Amsterdam, 1620. Title translates to: The light of the sea. This chart atlas was Blaeu's first atlas. Initially published in 1608, this is the fifth Dutch edition with 38 (of 42) maps. Oblong quarto. Engraved title, engraved frontispiece, 38 mostly double-page engraved charts (of 42, lacking 4 maps of Denmark), woodcut illustrations and diagrams within the text, 1 with volvelle (lacking 1), letterpress tables within decorative woodcut borders. Volume comprised of 261 woodcut coastal profiles in the text, illustrations, tables and charts. Recent fine full calf binding with richly gilt spine in compartments. Collation: Engraved title, (2), engraved frontispiece, 54 pp. (A4-F4, G2) lacking 2 pages; (2, title to Eerste Boeck), [1-8], 9-119, (1 blank) pp. (2, title to Tvveede Boeck), 3-130, [131] pp. 38 engraved maps (lacking 4). Probably lacking 1 volvelle in the beginning. Lacking 4 maps of Denmark, numbers 21-22, 24-25. Het Licht der Zee-vaert was the first book produced by the Blaeu publishing house, heralding a golden age of atlas production, and survives in only a few copies. It is one of the most important Dutch pilot-guides. Blaeu's pilot books were divided into chapters, each containing navigational instructions for specific sections of coastline, accompanied by a finely engraved coastal chart for each section. Map titles appeared in Dutch and French, with woodcut profile views illustrating the text. Blaeu included an editorial commentary at the beginning of the volume, condemning the generally held view of mariners that manuscript charts were better and more accurate than printed sea charts. Blaeu questioned the widely held belief of the time that manuscript charts were updated on a daily basis. Maps show the coasts of England, Scotland, Ireland, Norway, Sweden, Russia, Finland, Baltics, Pomerania, Spain, France, Northern Africa, Canaries, Maderia, etc. Richly embellished with decorative cartouches, sailing ships, sea-monsters, compass roses and sometimes with insets. The map \"Carte van de Reede ende Haven van Medenblick\" in the beginning, was not published until the edition 1618, and only published with the Dutch title until 1620 (the cartouche for the French title was, as in this case, blank). In 1618, Blaeu added a third chapter, covering the coastline of the Mediterranean. The first two charts, signed by Blaeu as Willem Jansz, cover the eastern and western Mediterranean. Willem Blaeu's earliest work focused on navigational aids for mariners. His first publication in this field was his Nieuw graetbouck, for which there are no known surviving examples. His next works of importance were two pilot guides, the Het licht der Zee-vaert and Zeespiegel (first edition 1623). In 1621, Johannes Jansson published a direct copy of Blaeu’s pilot guide Het licht der Zee-vaert, as Blaeu’s copyright had expired. Blaeu, in turn, competed against Jansson and his brother-in-law Henricus Hondius by producing an atlas, which spurred a rivalry lasting for over 50 years. Blaeu (1571-1638) was a prominent Dutch geographer and publisher. Born the son of a herring merchant, Blaeu became mathematician and astronomer. He studied with the Danish astronomer Tycho Brahe, with whom he honed his instrument and globe making skills. Blaeu set up shop in Amsterdam, where he sold instruments and globes, published maps, and edited the works of intellectuals such as Descartes and Hugo Grotius. In 1630 he issued his first world atlas, Atlas Appendix (see our 12202.000). In 1635, he released his atlas, Theatrum Orbis Terrarum, sive, Atlas novus. Willem died in 1638. He had two sons, Cornelis (1610-1648) and Joan (1596-1673). Joan trained as a lawyer, but joined his father’s business rather than practice law. After his father’s death, the brothers took over their father’s shop and Joan took on his work as hydrographer to the Dutch East India Company. Later in life, Joan would modify and greatly expand his father’s Atlas novus, eventually releasing his own masterpiece, the Atlas maior, between 1662 and 1672 (see our 10017.000). &lt;a href=\" https://ota.bodleian.ox.ac.uk/repository/xmlui/bitstream/handle/20.500.12024/A16189/A16189.html?sequence=5&amp;isAllowed=y \" rel=\"ugc nofollow\"&gt; https://ota.bodleian.ox.ac.uk &lt;/a&gt; Subjects:","creator":"Blaeu, Willem Janszoon, 1571-1638","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2026-06-22 07:27:50","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AText_Page_to%29_Capittel_VIII._Beschryvinghe_der_See-custen_van_Lijflandt_Ruffen_ende_Finlandt%2C_van_Revel_af_nae_der_Narve_ende_%28IA_dr_text-page-to-capittel-viii-beschryvinghe-der-see-custen-van-lijflandt-ru-14351171%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1c/Text_Page_to%29_Capittel_VIII._Beschryvinghe_der_See-custen_van_Lijflandt_Ruffen_ende_Finlandt%2C_van_Revel_af_nae_der_Narve_ende_%28IA_dr_text-page-to-capittel-viii-beschryvinghe-der-see-custen-van-lijflandt-ru-14351171%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-83acad98b876a9d05dba6c64","title":"17ct map with current borders of Belarus.jpg","caption":"== current borders added","creator":"LIVONIA_vulgo_Lyefland-Joan_Blaeu,_1662.jpg : UrusHyby derivative work: UrusHyby ( talk )","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2010-09-28 11:58","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A17ct_map_with_current_borders_of_Belarus.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/10/17ct_map_with_current_borders_of_Belarus.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0}]
+  []
 ---
 # Livonija
 
@@ -60,19 +59,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-028
   global_id: t-180202
   teiginys: "1372 m. Ordinas puolė Lietuvą vienu metu iš Prūsijos ir Livonijos."
-  semantiniai_rysiai: "Kryžiuočių ordinas puolė Lietuva (0.88)"
-  temporaliniai_duomenys: "įvykio data: 1372 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "700008-700395; hash=c39b4bfab700ca42a8f26a8771cc41d7f9c90028c167151331f587d0e4c6728b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Lietuva: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Claim tiesiogiai nurodo Ordino puolimą prieš Lietuvą."
   pagrindžia:
     - c-163855
 
@@ -80,18 +66,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-020
   global_id: t-180203
   teiginys: "Mindaugui reikėjo kovoti su krikščioniškąja Livonija dėl pagoniškos Žemaitijos ir Vakaruose išlaikyti krikščionio valdovo statusą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "50915-51340; hash=4e38392dae2ae2a784c2596ceb2c081466b3042d791c8ffe21fa10e79b94c47c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Livonija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-163847
 
@@ -99,17 +73,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-044
   global_id: t-180204
   teiginys: "Lietuvių pulkas įsiveržė į Livoniją ir ugnimi bei kardu nusiaubė Dorpato vyskupiją."
-  semantiniai_rysiai: "Lietuviai puolė Livonija (0.92); Lietuviai puolė Dorpatas (0.88)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "159087-159799; hash=a788bdb92b38f9034d5dfb6756e29c7a00d366ae62451cba3e0af3236b0e82d8; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Livonija: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Livonija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Claim tiesiogiai sako, kad lietuvių pulkas įsiveržė į Livoniją."
   pagrindžia:
     - c-163829
 
@@ -117,19 +80,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-078
   global_id: t-180206
   teiginys: "1629 m. Altmarko paliaubomis Livonija anapus Dauguvos su Ryga buvo palikta švedams."
-  semantiniai_rysiai: "Livonija priklausė Švedai (0.86); Ryga priklausė Švedai (0.86)"
-  temporaliniai_duomenys: "įvykio data: 1629 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "630543-630765; hash=9a715e64a448e7f05c7820f7142abc6b4f0e40a918f7a1463ea7d223bb71741d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Švedai: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Ryga: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Švedai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Ryga aiškiai minima kaip kartu palikta švedams."
   pagrindžia:
     - c-163864
 
@@ -137,20 +87,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-060
   global_id: t-180208
   teiginys: "1621–1629 m. švedai užėmė ATR pavaldžios Livonijos kunigaikštystės teritoriją."
-  semantiniai_rysiai: "Švedai užėmė Livonija (0.95)"
-  temporaliniai_duomenys: "įvykio data: 1618 m.; įvykio data: 1621-1629; įvykio data: 1629 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Iš žemėlapio legendos galima pagrįsti trumpą faktinį teiginį, pašalinus OCR triukšmą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "652697-653017; hash=e4506876e1ce191f5c8c27a1f7bc87762a23bf65e146b771139a05201876a149; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Livonija: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Švedai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Livonija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai aprašo švedų užimtą Livonijos teritoriją."
   pagrindžia:
     - c-163851
 
@@ -158,17 +94,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-068
   global_id: t-180209
   teiginys: "Vytauto laikais Vilniaus prekyba plėtėsi su Prūsijos ir Livonijos miestais, Pskovu, Naugardu ir Maskva."
-  semantiniai_rysiai: "Vilnius prekiavo su Naugardas (0.79); Vilnius prekiavo su Maskva (0.79)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "297585-298500; hash=859af48acd0d764849264671c094e06cb6f11d04c09f7dcae60126379694ea2e; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "prekiavo_su -> Maskva: 0.79"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Maskva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata nurodo Vilniaus prekybos ryšį su Maskva."
   pagrindžia:
     - c-163862
 
@@ -176,19 +101,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-096
   global_id: t-180210
   teiginys: "1338 m. lapkričio 1 d. Gediminas su Livonija sudarė prekybinę sutartį."
-  temporaliniai_duomenys: "įvykio data: 1338 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas factualus sakinys ir atitinka citatos informaciją."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "676535-676735; hash=e6f19f447665dbc833174180fadd6c1978f9da33d58ede943b673c9d3f567c26; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gediminas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Livonija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=13"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonija\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-163880
 
@@ -196,16 +108,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-006
   global_id: t-180211
   teiginys: "Augustas II nusprendė išvyti švedus iš Livonijos ir ją užvaldyti."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "758865-759837; hash=c70c6f2c24a9bc6e8cd9c76f551eead71997d43a40bd83d835d53fdd7872aba0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Augustas II: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Livonija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Augustas II: mention_match, person, gap=39"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonija\" parinktas kaip owner_note_path. Targetas \"Augustas II\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-163836
 
@@ -213,16 +115,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-078
   global_id: t-180212
   teiginys: "Petro iš Dusburgo kronikos nuorašas buvo Livonijos Roneburgo pilies bažnyčioje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "50836-51030; hash=fca2861d8244555adc35863e1318a7a7c266242b4021a5ee9204d818c01421a7; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Roneburgas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Livonija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Roneburgas: mention_match, place, gap=10"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonija\" parinktas kaip owner_note_path. Targetas \"Roneburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-163861
 
@@ -230,17 +122,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-062
   global_id: t-180213
   teiginys: "Gedimino laikų Vilnių iš Livonijos pasiekdavo rykai ir rūbai."
-  semantiniai_rysiai: "Vilnius prekiavo su Livonija (0.72)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "775518-776221; hash=71fbe071b2b429d43f3d5c217e8d098d2d9e13cb61aa62c500ed2554ff1bcee1; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "prekiavo_su -> Livonija: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Livonija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Prekių judėjimas iš Livonijos į Vilnių rodo prekybinį ryšį."
   pagrindžia:
     - c-163900
 
@@ -248,16 +129,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-080
   global_id: t-180214
   teiginys: "Štumdorfo taika grąžino Lietuvai ir Lenkijai tik Latgalą, o didžioji Livonijos dalis su Ryga liko Švedijai."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "681260-681454; hash=b67ccd487df33393b8483d4add2cc132366215333bed36f2823b5f6d162c67fe; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Ryga: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Livonija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Ryga: mention_match, place, gap=19"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonija\" parinktas kaip owner_note_path. Targetas \"Ryga\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-163834
 
@@ -265,21 +136,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-057
   global_id: t-180215
   teiginys: "1248 m. Mindaugo opoziciją sudarė jo brolvaikiai, kurie į pagalbą pasitelkė Livonijos ordiną ir Voluinę."
-  temporaliniai_duomenys: "įvykio data: 1248 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Išplėstas dalyvinis junginys į aiškų šalutinį sakinį."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "45920-46146; hash=cf7c9be0a495a522bd999a3f43f511a3a42bfcaba3db98611174ba439bdc0544; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Livonija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=10"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonija\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-163907
 
@@ -287,19 +143,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-074
   global_id: t-180216
   teiginys: "1579 m. pavasarį Steponui Batorui atvykus į Vilnių buvo rimtai rengiamasi žygiui į Livoniją."
-  temporaliniai_duomenys: "įvykio data: 1579 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Fragmentas nutrūksta, bet pasirengimo Livonijos žygiui faktas aiškiai paremtas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "580956-581535; hash=4c57ee046dab42d16f7e207c1f66ea55a7f81c169177b4de507c9a67b231b4ef; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Ginklai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Livonija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Ginklai: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonija\" parinktas kaip owner_note_path. Targetas \"Ginklai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-163894
 
@@ -307,20 +150,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-076
   global_id: t-180217
   teiginys: "Didžiausioji Livonijos dalis teko Lietuvai."
-  semantiniai_rysiai: "Livonija priklausė Lietuva (0.88)"
-  temporaliniai_duomenys: "įvykio data: 1561 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai pakartoja citatos faktą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "443878-444218; hash=04bb72f674811c3f11a6f10dee16a95dcc003593026bc6e6477ba7074f63e75b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Lietuva: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Livonija: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai sako, kad didžiausioji Livonijos dalis teko Lietuvai."
   pagrindžia:
     - c-163883
 
@@ -328,19 +157,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-003
   global_id: t-180219
   teiginys: "1608 m. vasarą Livonijoje išsilaipino grafo Frederiko Joachimo Mansfeldo vadovaujamas 8000 Švedijos karių ekspedicinis korpusas."
-  temporaliniai_duomenys: "įvykio data: 1608 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas, konkretus ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "447990-448388; hash=48365e902312d8ca561cb34797ed5ec8e2652bff57394e480809ac0d0d621795; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Švedija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Livonija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Švedija: mention_match, place, gap=76"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonija\" parinktas kaip owner_note_path. Targetas \"Švedija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-163853
 
@@ -348,19 +164,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-077
   global_id: t-180220
   teiginys: "1323 m. spalio 2 d. Lietuva Vilniuje sudarė taikos sutartį su Livonijos vyskupais, Livonijos ordinu, Ryga ir Revelio žemės danų vietininku."
-  temporaliniai_duomenys: "įvykio data: 1323 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys pilnas, konkretus ir atitinka citatoje nurodytą sutartį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "30542-31122; hash=f84627b11ba6dc6ae195bc97cc682e3ca6c756070fb5b8d32ced87ef386ad5e9; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Livonija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=31"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonija\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-163909
 
@@ -368,17 +171,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-067
   global_id: t-180221
   teiginys: "Po nesėkmingos Vilniaus pilies apsupties kryžiuočiai atsitraukė ir grįžo į Prūsiją bei Livoniją."
-  semantiniai_rysiai: "Kryžiuočių ordinas apgulė Vilnius (0.86); Kryžiuočių ordinas keliavo į Prūsija (0.84); Kryžiuočių ordinas keliavo į Livonija (0.84)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "278499-279159; hash=0620ac87232121fb85bd5ee4ec7b2cabcd90b142e6a510f84448e13a1cae6348; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "apgule -> Vilnius: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginyje minima Vilniaus pilies apsuptis, susieta su kryžiuočių atsitraukimu."
   pagrindžia:
     - c-163850
 
@@ -386,16 +178,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-045
   global_id: t-180222
   teiginys: "Gedimino misija prašė popiežiaus į Livoniją ir Lietuvą atsiųsti tikėjimo mokymą išmanančių vyrų."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "174288-175183; hash=a0016b9d52fe1aad71050fbdcbeadbf7a74bcaf263914228708704a5ee204d48; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Livonija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=12"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-163844
 
@@ -403,16 +185,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-043
   global_id: t-180224
   teiginys: "Jogaila be Kęstučio žinios sudarė taikos sutartį su Prūsijos kraštu ir Livonija."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "102036-102744; hash=0513da44a04fb104392299d8d86ec780cfb5143b314c7f582dedccd0d0da5a11; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Livonija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=71"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonija\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-163884
 
@@ -420,19 +192,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-081
   global_id: t-180225
   teiginys: "Iki mirties 1229 m. vyskupas Albertas buvo naujos vokiečių valstybės Livonijoje valdovas."
-  temporaliniai_duomenys: "valdymo laikotarpis: 1229 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „valdymo laikotarpis“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys negramatiškas, todėl perrašytas į pilną sakinį."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "100409-100687; hash=2e44ace0d6fabb39ce3c7d1ede72b30bd19c43c2995b798aaa5ba9cf96edc068; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Albertas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Livonija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Albertas: mention_match, person, gap=40"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonija\" parinktas kaip owner_note_path. Targetas \"Albertas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-163899
 
@@ -440,20 +199,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-004
   global_id: t-180226
   teiginys: "1608 m. rudenį numalšinus rokošą Lenkijos karalystėje, Jonas Karolis Chodkevičius grįžo į Livoniją ir per trumpą laiką išvadavo Kuoknesę ir Viljandį."
-  semantiniai_rysiai: "Jonas Karolis Chodkevičius keliavo į Livonija (0.93); Jonas Karolis Chodkevičius užėmė Kuoknesė (0.80); Jonas Karolis Chodkevičius užėmė Viljandis (0.80)"
-  temporaliniai_duomenys: "įvykio data: 1608 m.; įvykio data: 1609 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo veikėją, vietą, laiką ir veiksmą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "448587-449164; hash=67ad2a792885b3b9c11ab677e208685c0b32763b93d5f968d9975bdcc8c4e871; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Livonija: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jonas Karolis Chodkevičius: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Livonija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Claim tiesiogiai nurodo Chodkevičiaus grįžimą į Livoniją."
   pagrindžia:
     - c-163870
 
@@ -461,17 +206,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-044
   global_id: t-180204
   teiginys: "Lietuvių pulkas įsiveržė į Livoniją ir ugnimi bei kardu nusiaubė Dorpato vyskupiją."
-  semantiniai_rysiai: "Lietuviai puolė Livonija (0.92); Lietuviai puolė Dorpatas (0.88)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "159087-159799; hash=a788bdb92b38f9034d5dfb6756e29c7a00d366ae62451cba3e0af3236b0e82d8; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Livonija: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Livonija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Claim tiesiogiai sako, kad lietuvių pulkas įsiveržė į Livoniją."
   pagrindžia:
     - c-163829
 
@@ -479,19 +213,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-030
   global_id: t-180228
   teiginys: "1608 m. vasarą Livonijoje išsilaipino grafo Frederiko Joachimo Mansfeldo vadovaujamas 8000 Švedijos karių korpusas."
-  temporaliniai_duomenys: "įvykio data: 1608 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, konkretus ir paremtas ta pačia citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "447990-448388; hash=48365e902312d8ca561cb34797ed5ec8e2652bff57394e480809ac0d0d621795; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Švedija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Livonija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Švedija: mention_match, place, gap=76"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonija\" parinktas kaip owner_note_path. Targetas \"Švedija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-163853
 
@@ -499,16 +220,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-072
   global_id: t-180229
   teiginys: "Livonija vis glaudžiau šliejosi prie Prūsijos."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "430395-430741; hash=1e2e1994733f16bae2e01ecc8be5316e21030d5eba7b92b65ecc73f40088c960; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Prūsija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Livonija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Prūsija: mention_match, place, gap=37"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonija\" parinktas kaip owner_note_path. Targetas \"Prūsija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-163897
 
@@ -516,19 +227,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-073
   global_id: t-180231
   teiginys: "1557 m. Vilniuje sutelkta kariuomenė žygiavo į Livoniją prieš kalavijuočių ordino magistrą Firstenbergą."
-  temporaliniai_duomenys: "įvykio data: 1557 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pagrindžia glaustą teiginį apie žygį į Livoniją."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "556940-557534; hash=e193b2f618764a896d8704d6ddfcf2b95adb3c13da641fcc960be07b1c91220d; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kalavijuočių ordinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Livonija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kalavijuočių ordinas: mention_match, group, gap=15"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonija\" parinktas kaip owner_note_path. Targetas \"Kalavijuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-163886
 
@@ -536,19 +234,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-080
   global_id: t-180233
   teiginys: "1302 m. didysis magistras Gotfridas su 50 brolių per Prūsiją atvyko į Livoniją."
-  temporaliniai_duomenys: "kelionės data: 1302 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys konkrečiai nusako Gotfrido atvykimą į Livoniją."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "610149-610792; hash=a35a7cfc01a04f4d23ca7e8c35c1bff5c882558488ecf324b36385deb9dcc50f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Elbingas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Livonija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Elbingas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonija\" parinktas kaip owner_note_path. Targetas \"Elbingas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-163901
 
@@ -556,20 +241,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-086
   global_id: t-180234
   teiginys: "Kryžiuočiai padažnino žygius į Lietuvą: 1370 m. surengė du, o 1372 m. puolė vienu metu iš Prūsų ir Livonijos."
-  semantiniai_rysiai: "Kryžiuočių ordinas puolė Prūsų žemė (0.62); Kryžiuočių ordinas puolė Livonija (0.62)"
-  temporaliniai_duomenys: "įvykio data: 1370 m.; įvykio data: 1372 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradiniame teiginyje neaiškus įvardis ir reikia pilno savarankiško sakinio."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "700008-700395; hash=c39b4bfab700ca42a8f26a8771cc41d7f9c90028c167151331f587d0e4c6728b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Livonija: 0.62"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Livonija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata nurodo kryžiuočių puolimą iš Livonijos krypties."
   pagrindžia:
     - c-163855
 
@@ -577,21 +248,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-022
   global_id: t-180235
   teiginys: "Didesnio uosto neturėjusi Lietuva buvo labiausiai suinteresuota kova dėl Livonijos, nes Lenkija turėjo Gdansko uostą."
-  temporaliniai_duomenys: "įvykio data: 1605 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sakinys pataisytas į sklandesnę ir gramatiškesnę formą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "158536-158770; hash=b416b742d0dc0282201897dcccb93fe9ea6a5258989c940bc70a057fe7139b59; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Livonija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=15"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonija\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-163854
 
@@ -599,19 +255,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-023
   global_id: t-180236
   teiginys: "Iškylanti Rusija Šiaurės karo metu (1700–1721) sutriuškino Švedijos karaliaus Karolio XII kariuomenę, užėmė visą Livoniją ir ėmė valdyti Baltijos pakrantę nuo Vyborgo iki Rygos."
-  temporaliniai_duomenys: "įvykio data: 1655 m.; įvykio data: 1655-1660; įvykio data: 1660 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir tiesiogiai nurodo Livonijos užėmimą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "159248-159908; hash=d8d2dc918a7932805df2c680bdb8a8a0e5808968f4ca07736af2ba66dc29f3b3; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Baltija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Livonija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Baltija: mention_match, place, gap=24"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonija\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-163902
 
@@ -619,17 +262,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-069
   global_id: t-180237
   teiginys: "Švitrigaila, nieko nepasiekęs prie Vilniaus, prikalbino Livonijos ordino riterius kartu pulti Vitebską."
-  semantiniai_rysiai: "Švitrigaila puolė Vitebskas (0.86)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "681260-681454; hash=b67ccd487df33393b8483d4add2cc132366215333bed36f2823b5f6d162c67fe; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Vitebskas: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vitebskas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Švitrigaila tiesiogiai siejamas su Vitebsko puolimu."
   pagrindžia:
     - c-163890
 
@@ -637,16 +269,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-006
   global_id: t-180211
   teiginys: "Augustas II nusprendė išvyti švedus iš Livonijos ir ją užvaldyti."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "758865-759837; hash=c70c6f2c24a9bc6e8cd9c76f551eead71997d43a40bd83d835d53fdd7872aba0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Augustas II: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Livonija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Augustas II: mention_match, person, gap=39"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonija\" parinktas kaip owner_note_path. Targetas \"Augustas II\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-163836
 
@@ -654,16 +276,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-001
   global_id: t-180242
   teiginys: "Magistras dar balandį prašė Švitrigailos kartu su Livonija, Podole, Valakija-Moldavija ir totoriais pulti Lenkiją."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "274361-274700; hash=f1a8bc81c221cf6fda94f8597653b7d3b61911ca637f8ef713dde1007a7aa62f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Livonija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=56"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonija\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-163841
 
@@ -671,16 +283,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-075
   global_id: t-180243
   teiginys: "Maskvos kariuomenės sutriuškintas Livonijos magistras Gotardas Ketleris patikėjo Žygimantui Augustui save, ordiną ir valdas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "636548-637446; hash=26ee0d783baf74024e9bc4a1751cd515798fc8b7899b43260a2ff40f0597b464; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gotardas Ketleris: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Livonija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Gotardas Ketleris: mention_match, person, gap=20"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonija\" parinktas kaip owner_note_path. Targetas \"Gotardas Ketleris\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-163867
 
@@ -688,18 +290,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-029
   global_id: t-180245
   teiginys: "Ordino kronikose 1345–1382 m. užregistruota 30 žygių iš Livonijos."
-  temporaliniai_duomenys: "įvykio data: 1345-1382; įvykio data: 1382 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "704603-705050; hash=623aa17b55080a8d0e565448a7695f65e0ba63542b3a07711e048e45f222e902; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Livonija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=56"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonija\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-163859
 
@@ -707,16 +297,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-066
   global_id: t-180246
   teiginys: "Livonijos magistras su savo pajėgomis dalyvavo Vytauto vedamuose pulkuose prie Vilijos."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "586673-587049; hash=1cb429db8a4f238b5f36c756cbc02c9c8ea862a2221e427981959b56ba4c3394; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Livonija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Vilija: mention_match, place, gap=79"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonija\" parinktas kaip owner_note_path. Targetas \"Vilija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-163908
 
@@ -724,17 +304,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-049
   global_id: t-180247
   teiginys: "Švitrigaila prikalbino Livonijos ordino riterius kartu su juo pulti Vitebską."
-  semantiniai_rysiai: "Švitrigaila puolė Vitebskas (0.86)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "681260-681454; hash=b67ccd487df33393b8483d4add2cc132366215333bed36f2823b5f6d162c67fe; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Vitebskas: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vitebskas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Švitrigaila tiesiogiai siejamas su Vitebsko puolimu."
   pagrindžia:
     - c-163890
 
@@ -742,17 +311,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-051
   global_id: t-180280
   teiginys: "Švitrigaila siekė tapti Lietuvos valdovu, remdamasis Prūsijos ir Livonijos kryžiuočių galybe."
-  semantiniai_rysiai: "Kryžiuočių ordinas rėmė Švitrigaila (0.72)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "426090-426652; hash=8a1d712645da179c0e981ff3d3994791bd4f302f84b9972230280111effeaf30; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "reme -> Švitrigaila: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Kryžiuočių galybė pateikiama kaip Švitrigailos atrama siekiant valdžios."
   pagrindžia:
     - c-163837
 
@@ -760,19 +318,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-081
   global_id: t-180249
   teiginys: "1204 m. Livonija popiežiaus Inocento rūpesčiu buvo atversta į Kristaus tikėjimą."
-  temporaliniai_duomenys: "įvykio data: 1204 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, faktinis ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "694471-694667; hash=2ae136434aa0ede56fb11f313c91330a8d59509a8da0319042384e05242abf9c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Ryga: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Livonija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Ryga: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonija\" parinktas kaip owner_note_path. Targetas \"Ryga\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-163906
 
@@ -780,16 +325,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-077
   global_id: t-180250
   teiginys: "Caras siekė įgyti Livoniją, kuri tuo metu buvo suskaldyta tarp kelių valstybių."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "586673-587049; hash=1cb429db8a4f238b5f36c756cbc02c9c8ea862a2221e427981959b56ba4c3394; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Prancūzai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Livonija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Prancūzai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonija\" parinktas kaip owner_note_path. Targetas \"Prancūzai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-163849
 
@@ -797,17 +332,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-065
   global_id: t-180251
   teiginys: "Gedimino misija popiežiaus prašė į Livoniją ir Lietuvą atsiųsti tikėjimo mokymą išmanančių vyrų."
-  semantiniai_rysiai: "Gediminas siuntė į Livonija (0.67); Gediminas siuntė į Lietuva (0.67)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "174288-175183; hash=a0016b9d52fe1aad71050fbdcbeadbf7a74bcaf263914228708704a5ee204d48; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "siunte_i -> Lietuva: 0.67"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Gedimino misija prašė atsiųsti tikėjimo mokytojus ir į Lietuvą."
   pagrindžia:
     - c-163844
 
@@ -815,20 +339,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-059
   global_id: t-180252
   teiginys: "1621 m. švedai užėmė didelę dalį Livonijos, o Rusija grasino Lietuvai karu."
-  semantiniai_rysiai: "Švedai užėmė Livonija (0.95)"
-  temporaliniai_duomenys: "įvykio data: 1621 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys ir remiasi citatos informacija."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "171752-172115; hash=680c4e6c6826130e80bf3e2eae88be35d70cc8cc78cf27c2f0a5e759edb7d758; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Livonija: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Švedai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Livonija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad švedai užėmė didelę Livonijos dalį."
   pagrindžia:
     - c-163904
 
@@ -836,17 +346,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-040
   global_id: t-180253
   teiginys: "Iš Livonijos Vilnių pasiekdavo rykai ir rūbai."
-  semantiniai_rysiai: "Livonija prekiavo su Vilnius (0.66)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "74516-75056; hash=957cc755dfb89a4cb2064594336dde9f2d3ae39791e3af64118d434fe63b3790; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "prekiavo_su -> Vilnius: 0.66"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Livonija: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Prekių patekimas iš Livonijos į Vilnių rodo prekybinį ryšį, nors žodis „prekiavo“ nevartojamas tiesiogiai."
   pagrindžia:
     - c-163839
 
@@ -854,16 +353,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-070
   global_id: t-180256
   teiginys: "Dinaburgo komtūras Livonijos magistrui pranešė, kad iš nelaisvės paleistas Švitrigaila vėl traukia į mūšio lauką."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "359768-360109; hash=2cba2440e1e8867f277949b14be120a84829efd68827dfe633daae1454843505; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Švitrigaila: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Livonija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Švitrigaila: mention_match, person, gap=56"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonija\" parinktas kaip owner_note_path. Targetas \"Švitrigaila\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-163889
 
@@ -871,22 +360,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-018
   global_id: t-180257
   teiginys: "Po 1183 m. žygio į Rusios žemes lietuviai kasmet rengė po vieną ar du žygius ne tik į Rusią, bet ir į Lenkiją bei Livoniją."
-  semantiniai_rysiai: "Lietuviai surengė žygį į Lenkija (0.86); Lietuviai surengė žygį į Livonija (0.86)"
-  temporaliniai_duomenys: "įvykio data: po 1183 m.; įvykio data: 1183 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalintas neaiškus pradžios žodis ir sukonkretintas kontekstas."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "43032-43413; hash=3ee5f116f9cd8d055b05a8dc149bd5fe909f750de78bb5007281e4d863fab4fb; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "surenge_zygi_i -> Lenkija: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Claim nurodo lietuvių kasmet rengiamus žygius į Lenkiją."
-  vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-163835
 
@@ -894,19 +367,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-075
   global_id: t-180258
   teiginys: "1201 m. pastatyta Rygos pilis vėliau tapo valstybės centru ir didžiausiu Livonijos miestu."
-  semantiniai_rysiai: "Ryga priklausė Livonija (0.78)"
-  temporaliniai_duomenys: "pastatymo data: 1201 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "775518-776221; hash=71fbe071b2b429d43f3d5c217e8d098d2d9e13cb61aa62c500ed2554ff1bcee1; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Livonija: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Ryga: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Livonija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Ryga apibūdinta kaip Livonijos miestas, todėl ryšys rodo priklausymą Livonijai."
   pagrindžia:
     - c-163830
 
@@ -914,17 +374,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-048
   global_id: t-180259
   teiginys: "Vytauto laikais Vilniaus prekyba buvo išsišakojusi su Prūsijos ir Livonijos miestais."
-  semantiniai_rysiai: "Vilnius prekiavo su Naugardas (0.79)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "297585-298500; hash=859af48acd0d764849264671c094e06cb6f11d04c09f7dcae60126379694ea2e; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "prekiavo_su -> Naugardas: 0.79"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Naugardas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Cituojama, kad Vilniaus prekyba plėtojosi su Naugardu."
   pagrindžia:
     - c-163862
 
@@ -932,17 +381,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-047
   global_id: t-180260
   teiginys: "Po nesėkmingos Vilniaus pilies apsupties kryžiuočiai atsitraukė į Prūsiją ir Livoniją."
-  semantiniai_rysiai: "Kryžiuočių ordinas apgulė Vilnius (0.86); Kryžiuočių ordinas keliavo į Prūsija (0.84); Kryžiuočių ordinas keliavo į Livonija (0.84)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "278499-279159; hash=0620ac87232121fb85bd5ee4ec7b2cabcd90b142e6a510f84448e13a1cae6348; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "apgule -> Vilnius: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginyje minima Vilniaus pilies apsuptis, po kurios kryžiuočiai atsitraukė."
   pagrindžia:
     - c-163850
 
@@ -950,16 +388,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-007
   global_id: t-180261
   teiginys: "Augusto II siekius rėmė dalis Švedijos karaliaus Karolio XII valdymu nepatenkintos Livonijos aristokratijos."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "570319-570764; hash=c2bf55c3dbe3d9bf37ea07c89b159ce9926c0db041d91cd098100463efeeeffb; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Livonija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-163856
 
@@ -967,17 +395,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-076
   global_id: t-180262
   teiginys: "Danijos karaliaus Valdemaro II valdžia plito vokiečių užkariautoje Livonijoje ir Rygoje."
-  semantiniai_rysiai: "Vokiečiai užkariavo Livonija (0.84)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "18590-18734; hash=f4369204bcd58b7fce944d5ad4fc677efab10f2429d8fe289fb9955cd05e6fa1; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzkariavo -> Livonija: 0.84"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vokiečiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Livonija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai apibūdina Livoniją kaip vokiečių užkariautą."
   pagrindžia:
     - c-163877
 
@@ -985,20 +402,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-087
   global_id: t-180264
   teiginys: "Ordino kronikose 1345-1382 m. suregistruoti 66 kryžiuočių žygiai iš Prūsų ir 30 žygių iš Livonijos."
-  semantiniai_rysiai: "Kryžiuočių ordinas surengė žygį į Livonija (0.64); Kryžiuočių ordinas surengė žygį į Prūsų žemė (0.64)"
-  temporaliniai_duomenys: "įvykio data: 1345-1382; įvykio data: 1382 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra tikslus, aiškus ir tiesiogiai pagrįstas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "704523-704809; hash=2844e3776f3791a04ad01872fc9af93c6954fd81ccbce3fc970df5f2e740f0c4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "surenge_zygi_i -> Livonija: 0.64"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Livonija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Kronikose registruoti kryžiuočių žygiai iš Livonijos; ryšys su Livonija tiesiogiai minimas kaip žygių krypties bazė."
   pagrindžia:
     - c-163875
 
@@ -1006,16 +409,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-079
   global_id: t-180265
   teiginys: "Karaliaučius buvo svarbus komunikacijos mazgas kelyje į Livoniją."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "82676-82978; hash=95269af515625598faef8a2e8545caef4d56669c82dce6a5d9caca6912056877; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Karaliaučius: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Livonija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Karaliaučius: mention_match, place, gap=56"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonija\" parinktas kaip owner_note_path. Targetas \"Karaliaučius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-163881
 
@@ -1023,19 +416,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-003
   global_id: t-180219
   teiginys: "1608 m. vasarą Livonijoje išsilaipino grafo Frederiko Joachimo Mansfeldo vadovaujamas 8000 Švedijos karių ekspedicinis korpusas."
-  temporaliniai_duomenys: "įvykio data: 1608 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas, konkretus ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "447990-448388; hash=48365e902312d8ca561cb34797ed5ec8e2652bff57394e480809ac0d0d621795; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Švedija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Livonija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Švedija: mention_match, place, gap=76"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonija\" parinktas kaip owner_note_path. Targetas \"Švedija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-163853
 
@@ -1043,19 +423,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-063
   global_id: t-180269
   teiginys: "1380 m. Jogailos aplinkoje buvo sudarytos paliaubos su Livonijos magistru Rygoje, apeinant Kęstutį ir Žemaitijos kunigaikštystę."
-  temporaliniai_duomenys: "įvykio data: 1380 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys konkretus, gramatiškas ir paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "100409-100687; hash=2e44ace0d6fabb39ce3c7d1ede72b30bd19c43c2995b798aaa5ba9cf96edc068; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Livonija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): mention_match, person, gap=36"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonija\" parinktas kaip owner_note_path. Targetas \"Kęstutis (vakarų pasienio valdovas, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-163840
 
@@ -1063,20 +430,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-005
   global_id: t-180270
   teiginys: "1621 m. švedai užėmė didelę dalį Livonijos, o Rusija tuo metu grasino Lietuvai karu."
-  semantiniai_rysiai: "Švedai užėmė Livonija (0.94)"
-  temporaliniai_duomenys: "įvykio data: 1621 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir atitinka citatoje pateiktą faktą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "459081-459690; hash=9c69aacba657f924433d41d65c597bec986f2a808f1a9d63387f74d5e75c85a0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Livonija: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Švedai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Livonija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Claim tiesiogiai teigia, kad švedai užėmė didelę Livonijos dalį."
   pagrindžia:
     - c-163842
 
@@ -1084,16 +437,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-042
   global_id: t-180271
   teiginys: "Rygoje buvo sudarytos paliaubos su Livonijos magistru, apeinant Kęstutį ir jo Žemaitijos kunigaikštystę."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "100409-100687; hash=2e44ace0d6fabb39ce3c7d1ede72b30bd19c43c2995b798aaa5ba9cf96edc068; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Livonija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): mention_match, person, gap=29"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonija\" parinktas kaip owner_note_path. Targetas \"Kęstutis (vakarų pasienio valdovas, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-163840
 
@@ -1101,16 +444,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-082
   global_id: t-180273
   teiginys: "Livonijos prijungimas Livonijos būklė XVI amžiuje."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "439098-439386; hash=fd19e8415b0446a69ebe4efbb5d3286f07ae279746833f6673251928d62c8615; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Livonijos valstybė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Livonija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Livonijos valstybė: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonija\" parinktas kaip owner_note_path. Targetas \"Livonijos valstybė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-163833
 
@@ -1118,16 +451,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-083
   global_id: t-180274
   teiginys: "Pagal Stryjkovskio kroniką buvo restauruoti Livonijos Ronneburgo analai ir nekrologas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "125484-125775; hash=99f2c9c7cd8279cd7343bdf17c6326bda42ba5733cd802938608c3d3469e195a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Ronneburgas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Livonija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Ronneburgas: mention_match, place, gap=10"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonija\" parinktas kaip owner_note_path. Targetas \"Ronneburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-163887
 
@@ -1135,20 +458,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-031
   global_id: t-180275
   teiginys: "1621 m. švedai užėmė didelę Livonijos dalį, o Rusija tuo metu grasino Lietuvai karu."
-  semantiniai_rysiai: "Švedai užėmė Livonija (0.94)"
-  temporaliniai_duomenys: "įvykio data: 1621 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus ir tiesiogiai paremtas šaltinio sakiniu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "459081-459690; hash=9c69aacba657f924433d41d65c597bec986f2a808f1a9d63387f74d5e75c85a0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Livonija: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Švedai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Livonija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Claim tiesiogiai teigia, kad švedai užėmė didelę Livonijos dalį."
   pagrindžia:
     - c-163842
 
@@ -1156,16 +465,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-041
   global_id: t-180276
   teiginys: "Livonijos vokiečių žemėse, kaip ir Lietuvoje bei jai priklausiusioje Rusioje, nuo seno buvo įsitvirtinęs feodalinis valdymas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "74688-75298; hash=5ef17ae25625b57bee694eb4bd3e7690d431bceedbc4f4f257957d581885c8ec; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Livonija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=35"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-163866
 
@@ -1173,16 +472,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-083
   global_id: t-180277
   teiginys: "Štumdorfo taika iš Lietuvos ir Lenkijos bendrai valdytos Livonijos grąžino tik Latgalą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "681260-681454; hash=b67ccd487df33393b8483d4add2cc132366215333bed36f2823b5f6d162c67fe; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Latgala: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Livonija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Latgala: mention_match, place, gap=22"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonija\" parinktas kaip owner_note_path. Targetas \"Latgala\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-163834
 
@@ -1190,16 +479,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-079
   global_id: t-180278
   teiginys: "Stepono Batoro laikais Lietuvos ir Lenkijos karai su Maskva baigėsi Polocko ir visos Livonijos atgavimu."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "680641-680977; hash=7432922ee1a69219bf52877f70055ae041ded3c1a8d570fd2ca84ec9a8403800; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Dauguva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Livonija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Dauguva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonija\" parinktas kaip owner_note_path. Targetas \"Dauguva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-163891
 
@@ -1207,20 +486,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-058
   global_id: t-180279
   teiginys: "Tragiškomis aplinkybėmis Livonijos ordinui buvo suduotas lemiamas smūgis, kartu paveikęs ir Vokiečių-kryžiuočių ordiną."
-  semantiniai_rysiai: "Žemaičiai puolė Durbė (0.79); Žemaičiai puolė Kuršas (0.74)"
-  temporaliniai_duomenys: "įvykio data: 1435 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalintas įžanginis vertinimo fragmentas ir sutvarkyta sakinio forma."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "281580-281886; hash=eece85ba309cbe6db892c7dd8ff729a227824ba4a9d29d6e2df0f14007e773a4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Durbė: 0.79"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Žemaičiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Durbė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Durbės pilies sudeginimas yra tiesioginis žemaičių puolimo veiksmas."
   pagrindžia:
     - c-163848
 
@@ -1228,17 +493,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-051
   global_id: t-180280
   teiginys: "Švitrigaila siekė tapti Lietuvos valdovu, remdamasis Prūsijos ir Livonijos kryžiuočių galybe."
-  semantiniai_rysiai: "Kryžiuočių ordinas rėmė Švitrigaila (0.72)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "426090-426652; hash=8a1d712645da179c0e981ff3d3994791bd4f302f84b9972230280111effeaf30; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "reme -> Švitrigaila: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Kryžiuočių galybė pateikiama kaip Švitrigailos atrama siekiant valdžios."
   pagrindžia:
     - c-163837
 
@@ -1246,20 +500,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-097
   global_id: t-185021
   teiginys: "Utenis perkėlė karą iš Kuršo į Livoniją, kur kuršių ir žemaičių kariuomenė nusiaubė didelius plotus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Kuršiai puolė Livonija (0.66)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "144629-145054; hash=6259ecfe641da1d56b6e450242e6432f3855544da859e24f0ed3d04b4eb6238c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Livonija: 0.66"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kuršiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Livonija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Kuršiai minimi kaip dalis kariuomenės, nusiaubusios Livonijos plotus."
   pagrindžia:
     - c-168382
 
@@ -1267,22 +507,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-098
   global_id: t-185022
   teiginys: "Mindaugo karvedžiai nuolat siaubė Livoniją, o prie Lielvardės pilies Dauguvos pakrantėse vyko kovos."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1262 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nusako Livonijoje vykusius veiksmus ir remiasi citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "177633-178734; hash=f8711c77b076057d48f8f9a8caabb25ebec97deacc752e3177051cc3d5d1f235; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Dauguva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Livonija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Dauguva: mention_match, place, gap=35"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonija\" parinktas kaip owner_note_path. Targetas \"Dauguva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-168383
 
@@ -1290,19 +514,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-099
   global_id: t-185023
   teiginys: "Jogaila, gavęs paramą iš Livonijos ir Prūsijos, su kariuomene traukė iš Vilniaus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "470086-470552; hash=80ab68718f09d8bba6e79de7ed6a76427bc642a8923bc962edbb11db4d29c074; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Livonija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=47"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonija\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-168384
 
@@ -1310,19 +521,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-100
   global_id: t-185024
   teiginys: "Vytautas įsiveržė į Livoniją, nusiaubė kaimus ir užėmė Daugpilį Dauguvos pakrantėje."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "602316-602829; hash=b98894e44c11712d8e48cfa25475be31ac80853d7c6a758035f84ca723848814; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Daugpilis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Livonija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Daugpilis: mention_match, place, gap=35"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonija\" parinktas kaip owner_note_path. Targetas \"Daugpilis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-168385
 
@@ -1330,19 +528,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-101
   global_id: t-185025
   teiginys: "Vitebsko apgula užtruko mėnesį, nes gynėjai, ypač Livonijos kariai, priešinosi iš paskutiniųjų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "605767-606229; hash=c5e17eab0ebba33b279d3b262dd61be7199edaf0ecca8b590b6faea022582790; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vitebskas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Livonija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Vitebskas: mention_match, place, gap=50"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonija\" parinktas kaip owner_note_path. Targetas \"Vitebskas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-168386
 
@@ -1350,19 +535,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-103
   global_id: t-185027
   teiginys: "Vilhelmui Fiurstenbergui su ordinu perėjus į Liuterio šalininkus, Livonijoje kilo neramumų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1239667-1240109; hash=a1f9e02bee8a93da63f8fb20a593860686caeafccb760879a84d80fbc4e3b457; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Livonija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=38"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonija\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-168388
 
@@ -1370,19 +542,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-104
   global_id: t-185028
   teiginys: "Numalšinęs Livoniją, Žygimantas Augustas pasiuntė pasiuntinius derėtis dėl taikos su Maskva."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1246803-1247389; hash=9e91a22f0103c64eae60061ef0d744d157cfd254840fe0bcd07deef7b37f22a7; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Augustas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Livonija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Augustas: mention_match, person, gap=21"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonija\" parinktas kaip owner_note_path. Targetas \"Augustas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-168389
 
@@ -1390,20 +549,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-105
   global_id: t-185029
   teiginys: "Livonijos luomų atstovai nusprendė, kad Livonija sudaro sąjungą su Lietuva ir pereina į Žygimanto Augusto globą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Livonija priklausė Lietuva (0.76)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1251762-1252423; hash=f5ee7ddb4ca879e4966f1b5f410120bc18f715b0c65b170480afa4d2c50ab3fb; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Lietuva: 0.76"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Livonija: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Sutarties sąlygose nurodyta, kad Livonijos ordinas atiduoda Lietuvai žemes."
   pagrindžia:
     - c-168390
 
@@ -1411,22 +556,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-072
   global_id: t-188765
   teiginys: "Narbutas rašė, kad 1243 m. Livonijos riteriai, šaukdami tikrojo Dievo vardą, užpuolė lietuvius."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1243 m.; įvykio data: 1621 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Fragmentas sutrumpintas iki pilno teiginio apie Livonijos riterius. Religinė formuluotė palikta kaip Narbuto pasakojimo dalis."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "171752-172115; hash=680c4e6c6826130e80bf3e2eae88be35d70cc8cc78cf27c2f0a5e759edb7d758; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Livonija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=58"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-171654
 
@@ -1434,22 +563,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-073
   global_id: t-188766
   teiginys: "1583 m. jėzuitai į Žemaičius ir Livoniją pasiuntė tris misionierius: kunigą Jokūbą Lencicijų ir du jo bičiulius."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1583 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalintos OCR klaidos ir išlaikytas aiškus veiksmas su vietomis. Nepridėta platesnė pastaba apie apeiginį garbinimą."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "652697-653017; hash=e4506876e1ce191f5c8c27a1f7bc87762a23bf65e146b771139a05201876a149; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kalavijuočių ordinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Livonija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kalavijuočių ordinas: mention_match, group, gap=15"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonija\" parinktas kaip owner_note_path. Targetas \"Kalavijuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-171655
 
@@ -1457,19 +570,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-074
   global_id: t-188767
   teiginys: "Narbutas svarstė, kodėl Henrikas Latvis, rašęs apie Livoniją, neminėjo krivio, jeigu šis valdė tą šalį."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "758865-759837; hash=c70c6f2c24a9bc6e8cd9c76f551eead71997d43a40bd83d835d53fdd7872aba0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Krivis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Livonija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Krivis: mention_match, person, gap=19"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonija\" parinktas kaip owner_note_path. Targetas \"Krivis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-171656
 
@@ -1477,19 +577,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-075
   global_id: t-188768
   teiginys: "Narbutas ginkluoto atvertimo pradžią siejo pirmiausia su Livonija, vėliau su Prūsija, Lietuva ir Žemaitija."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "775518-776221; hash=71fbe071b2b429d43f3d5c217e8d098d2d9e13cb61aa62c500ed2554ff1bcee1; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Livonija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=29"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-171657
 
@@ -1497,21 +584,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-106
   global_id: t-192695
   teiginys: "Narbutas pasakoja legendą, kad iš Bitinijos išsiųsti keliautojai per Tartariją, Roksolaniją, venedų ir alanų žemes pateko į Livoniją."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "304126-304670; hash=1a0d63eeaacfc02e9546327e607d4ebb2bf0b13dead3a22ba9729adf539925a4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Roksolanija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Livonija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Roksolanija: mention_match, place, gap=44"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonija\" parinktas kaip owner_note_path. Targetas \"Roksolanija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175465
 
@@ -1519,14 +591,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-107
   global_id: t-192696
   teiginys: "1583 metais jėzuitai į Žemaičius ir Livoniją pasiuntė tris misionierius: kunigą Jokūbą Lencicijų ir du jo bičiulius."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "929368-929643; hash=e1c710d02341c91521afd5fabfab4fb56001686a919753537d2b4ef02330fb09; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175466
 
@@ -1534,14 +598,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-108
   global_id: t-193208
   teiginys: "Livonija buvo valdoma abiejų jungtinių valstybių; mokesčiai iš jos vienais metais eidavo į Lietuvos, o kitais metais į Lenkijos iždą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "546322-546661; hash=b77916b5dca5ee7545ff38eff5f2fac2807c377f19325b0e94538ecf55bea10a; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175952
 
@@ -1549,14 +605,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-109
   global_id: t-193209
   teiginys: "Šitomis paliaubomis pasibaigė ilgai traukęsi karai su Maskva dėl Livonijos."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "593878-594082; hash=476c1376c8501b9777d47dd65d7abee4989315cc82964e5e4eecb654f07c5d98; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175953
 
@@ -1564,12 +612,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-110
   global_id: t-193423
   teiginys: "Septyni šimtai Livonij rs raitelių, išsiųstų kariau ti Prūsijoje, susiruošė į žygį 1466 m e ta i žiemos pabaigoje, manydami, L iv o n ijo s raiteliai žūjog tada bus lengviau išvensta Ž e m a itijo je gti lietuvių saugų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "907246-907611; hash=e7f591321e17e3b562f77ada2ed14619cef2e65d3ad7e71aa80eb92f1f859513; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176145
 
@@ -1577,12 +619,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - t-111
   global_id: t-194987
   teiginys: "Jau Livonijos (Ronneburgo) analai parodė, kad Stryjkovskis nebuvo tikslus šaltinių atžvilgiu."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "127173-127503; hash=165471261dd90725eaa6b20eed95cb37afa8c0d4f9fe78c02b0f3d405003d4cb; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177371
 - susijęs iš Žemaitija: Kol vokiečių kariuomenė stovyklavo Žemaitijoje, lietuvių pulkas įsiveržė į Livoniją ir nusiaubė Dorpato vyskupiją.
@@ -2914,8 +1950,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     nas dalykas, jog Gediminas nuo to laiko su arkivyskupu bu­
     vo susimokęs ir veikė jo patarimų ir planų paisydamas1 5 .
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2932,8 +1968,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     ir didžiausiu Livonijos miestu. Apsaugai jis ėmė kviestis karių iš
     Vokietijos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2951,8 +1987,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     ordinas priklausė Rygos arkivyskupui, bet XIV amžiuje (Ge-
     dimino laikais, — žiūr.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2966,8 +2002,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     jos dalis su Ryga liko Švedijai; Štumdorfo taika (žiūr. 318 psl.)
     tebuvo atgauta tik viena Latgala.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2986,8 +2022,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     Plėšiamieji žygiai rodė didėjant lietuvių jėgą, jie tokių žygių skaičiumi
     pralenkė turtingus prūsus ar karingus kuršius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3005,8 +2041,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     Augustas II susitarė su Rusijos valdovu
     Petru I dél jo paramos prieš Švediją.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3032,8 +2068,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     Podolę, visą šį kraštą nuo Lietuvos atplėšė Lenkijai, atiduo­
     dami viršenybę Bučackiams.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3056,8 +2092,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     ir Livonijos vokiečių žemėse buvo įsitvirtinęs feodalinis val­
     dymas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3077,8 +2113,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     driaus Algirdaičio vietoje į Polocko kunigaikštystę pasiuntė
     tikrą brolį Skirgailą, buvo prieita iki atviro susirėmimo30.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3098,8 +2134,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     įsiveržė į Ordino valdas birželio pradžioje,
     viską naikino ir degino.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3129,8 +2165,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     sudarė 3350 husarų, 750 reitarų, 2200
     kazokų ir totorių, 2350 pėstininkų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3157,8 +2193,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     tį, ištisai visą abiejų besitariančių pusių priesaikomis pa­
     tvirtintą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3177,8 +2213,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     Po Mindaugo nužudymo būta didžiulės sumaišties: per kelerius metus
     Lietuvoje nužudyti dar trys dėl valdžios kovoję kunigaikščiai, vienas išvytas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3197,8 +2233,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     1435 m. spalį smogta Livonijai dar kartą,
     kai žemaičiai Kurše sudegino Durbės pilį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3215,8 +2251,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     nusui, kuris, gavęs Livonijos karaliaus titulą, būtų caro va-
     salas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3246,8 +2282,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     čio sūnus, Vytauto tikras brolis Tautvilas ir Hohenšteino gra­
     fas Algardas34.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3270,8 +2306,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     fren Lietuvai atitekusios teritorijos
     „>. Staraja a,
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3291,8 +2327,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     užėmė Daugavgryvos senąją pilį ir pra-
     dėjo Rygos miesto blokadą, neleisdamas
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3309,8 +2345,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     teresuota didesnio uosto neturėjusi Lietuva, nes Lenkija turėjo Gdansko
     uostą. 1605 m.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3327,8 +2363,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     Kad būtų galima kiek pailsėti nuo tolimesnių teriojimų, Algir­
     das su Kęstučiu pradėjo su ordinu derybas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3351,8 +2387,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     lavęs iš Lietuvos teritorijos išvesti jo
     „ Saksonijos kariuomenę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3370,8 +2406,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     valdytojų vykdomi teriojimai į artimas Žemaičių ir Aukštaičių
     žemes.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3386,8 +2422,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
       Petro iš Dusburgo kronikos nuorašas buvo ir Livonijoje, Roneburgo (Raunos, Cėsių rj.)
     pilies bažnyčioje.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3413,8 +2449,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     tas Kristaus tikėjimo šviesos, miestai tikrai dar negalėjo su­
     klestėti!
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3430,8 +2466,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     6 metams paliaubos. Visa Livonija, anapus Dauguvos, su Ryga
     buvo palikta švedams.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3453,8 +2489,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     tos pasitarimus, taip klodami busimosios šlėktų laisvės pa­
     matus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3486,8 +2522,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     pusių sąlygomis, raštu ir priesaika iškilmingai patvirtinto­
     mis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3508,8 +2544,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     Joną Karolį Chodkevičių nutraukti karo komis sugebėjo atsilaikyti prieš netikėtą
     veiksmus Livonijoje ir vykti į Lenkiją padėti lietuvių puolimą. Po nepavykusio puolimo
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3525,8 +2561,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     Ordino kronikose 1345-1382 m. yra suregistruota 66 žygiai iš Prūsų
     kryžiuočių ir 30—iš Livonijos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3540,8 +2576,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     Эстонской ССР, l, с. 160—161), kai Danijos karaliaus Valdemaro II valdžia plito vokiečių
     užkariautoje Livonijoje ir Rygoje (Caune M.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3556,8 +2592,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     Veliuonos apgulimą 1338 m., į pečius kryžiuočių pašautas. Jis tada
     žiemop (XI. 1) su Livonija sudarė prekybinę sutartį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3572,8 +2608,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     suplaukdavo ne tik įvairiausia žodinė informacija, bet ir rašytiniai pranešimai, iš kurių
     Dusburgietis galėjo semtis žinių savo kronikai.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3591,8 +2627,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     Livonijos administratorium 1561 m. buvo paskirtas Kuršo
     kunigaikštis Ketleris.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3623,8 +2659,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     mentų akivaizdžiai įsitikino jo priešiškumu, bet, Vytautui
     užsistojus, kartu su motina į tėvoniją, į Vitebską, išsiuntė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3646,8 +2682,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     magistro visiško nuolankumo Žygimantui Augustui ir pri­
     pažinimo jam valdžios Livonijoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3663,8 +2699,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     lotyniška restauracija parodė, kad analų originalo tekstu skubotas
     Stryjko vskis nesinaudojo tiksliai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3681,8 +2717,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     nausiąs ir 1.1. Rašyta: Liksnoje, antrą savaitę po Viešpaties
     Prisikėlimo. Be metų (turbūt, 1396).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3710,8 +2746,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     užsitęsusio puolimo užėmė Vitebską, o Švitrigailą paėmė į
     nelaisvę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3729,8 +2765,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     Vazos laikais, šiam pradėjus karą dėl Švedijos sosto, Livonija
     buvo prarasta: ji net iki Dauguvos upės atiteko Švedijai (žiūr.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3757,8 +2793,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     lecki Loik i Statysta [pasaulietis ir
     valstybės veikėjas], gim.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3780,8 +2816,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     ruojančiai Lietuvos galiai. Livonija vis glaudžiau šliejosi prie
     Prūsijos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3798,8 +2834,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     jos vokiečių valstybės valdovas buvo jis. Tada buvo nukariauti
     visi lybiai, latgaliai, dalis sėlių ir dalis estų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3825,8 +2861,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     tinei, ypač turinčiai rūmus tokio galingo valdovo, koks bu­
     vo Gediminas, tie ryšiai, suprantama, buvo pravartus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3846,8 +2882,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     didžiuoju magistru brolis Zigfridas  iš Foichtvangeno, kuris  ir iškeliavo  į Veneciją,  į
     vyriausiąją [Ordino] būstinę.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3869,8 +2905,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     apraiškų ir magnatų tarpusavio kovų, be to, švedai sugriovė nedidelius
     Lietuvos uostus Palangoje ir Šventojoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3895,8 +2931,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     čiau nepaisant to, lietuviai atskubėjo len-
     kams į pagalbą kovoje su turkais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3911,8 +2947,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
       1204 viešpaties metais Livonija, Rygos provincijos žemė, buvo atversta popiežiaus
     Inocento rūpesčiu į Kristaus tikėjimą (Ptol. 21,10; Mart. loc. cit.).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3927,8 +2963,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     čiai – brolvaikiai, pagalbon pasitelkę ir svetimuosius – Livonijos ordiną
     ir Voluinę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3960,8 +2996,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     to girias ir brastas, staiga iš už nugaros puolė nenuovokų
     Skirgailą ir sudavė jam smarkų smūgį26.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3979,8 +3015,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     Gedimino vyriausybės pastangų dėka 1323 m. spalio 2 d. Lietuva sudarė Vilniuje taikos
     sutartį su Livonijos vyskupais, Revelio žemės danų vietininku, Livonijos ordinu ir Ryga52.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -4005,8 +3041,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     taip Utenis privertė priešą liautis puldinėjus Žemaiti­
     ją ir ginti savo kraštą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -4043,8 +3079,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     ginklo draugystė, nukreipta
     prieš lenkus.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -4068,8 +3104,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     nojo, kad priešas vedasi didžiulę kariuomenę, kuriai
     jie neprilygsta nei ginkluote, nei karių skaičiumi.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -4095,8 +3131,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     tauto vyrai būgštavo, kad šis nesusimanytų žygiuoti į
     tokias vietas, kurių ligi šiol kryžiuočiai nebuvo lietę.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -4119,8 +3155,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     kariai įsiveržė pro visiškai sugriautus įtvirtinimus į
     žemutinę pilį.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -4145,8 +3181,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     bes, brautis į vienuolynus, savintis dvasininkų mantą
     ir žemes.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -4172,8 +3208,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     negalėjo nežinoti, kokiomis sąlygomis sudaryta sutar­
     tis su Livonijos magistru.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -4204,8 +3240,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     klės apygardos, be to, Bauskės, Rezeknės, Ludzos, Daug­
     pilio, Sėlpilio pilis su apylinkėmis.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -4222,8 +3258,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     dami tikrojo Dievo vardą, užpuolė lietuvius, šie savo ruožtu
     rėkė: JogKauou, jogKauaile! („Jok Kove, jok Kovaiti!“).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -4240,8 +3276,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     siuntė tris misionierius: kunigą Jokūbą Lencicijų ir du jo bičiu­
     lius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -4268,8 +3304,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     kad ši pareigybė Lietuvoje gyvavo labai ilgai; tie šaltiniai galėjo pa­
     pasakoti ir daugiau smulkmenų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -4292,8 +3328,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     miausia Livonijoje, vėliau Prūsijoje, paskui Lietuvoje, paga­
     liau Žemaitijoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -4314,8 +3350,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     vadino tai Sargatia arba Sargaga, tai Getida arba Vatinla
     ir dar kitaip.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -4331,8 +3367,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     sionierius: kunigą Jokūbą Lencicijų ir du jo bičiulius. Ten jie
     rado pagonybės likučių ir juos skrupulingai išnaikino.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -4356,8 +3392,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     gaikštijos sienų susiėjimo vietoje
     pastatytas 1545 m.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -4372,8 +3408,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     Maskvos buvo apginta, bet netrukus dėl jos prasidėjo net 60
     metų trukę karai su Švedija.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -4396,8 +3432,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     vasaris, pelkes ir ežerus den­
     gė ledas, galintis atlaikyti bet kokį svorį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -4415,8 +3451,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     nebuvo tikslus šaltinių atžvilgiu. Jis neparodė ir žymesnio kritiš­
     kumo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -4941,7 +3977,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-163861
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 19"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 19."
   citata_originali: |
     Vienos
     bibliotekos rankraštis (XVII a., gal net vėliau) nurašytas nuo Berlyno teksto74.
@@ -5104,7 +4141,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-163877
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 10"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 10."
   citata_originali: |
     27; История
     Эстонской ССР, l, с. 160—161), kai Danijos karaliaus Valdemaro II valdžia plito vokiečių
@@ -5136,7 +4174,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-163881
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 27"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 27."
   citata_originali: |
     XIII a. antrojoje pusėje čia buvo kovos su rytinėmis prūsų žemėmis centrai.
     Karaliaučius, be to, buvo svarbus komunikacijos mazgas kelyje į Livoniją. Čia, be abejo,
@@ -5413,7 +4452,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-163901
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 195"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 195."
   citata_originali: |
     283 (276). Apie brolio Gotfrido, didžiojo magistro, atvykimą,  apie tai, kaip jis atsisa­
              kė savo pareigų, o buvo išrinktas brolis Zigfridas iš Foichtvangeno
@@ -5487,7 +4527,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-163906
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 226"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 226."
   citata_originali: |
     Apie Livonijos žemės atvertimą į tikėjimą
 
@@ -5553,7 +4594,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-163909
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 14"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 14."
   citata_originali: |
     Šie pareiškimai, taip pat Gedimino laiškai, adresuoti žymiems
     Europos miestams Liubekui, Bremenui, Kelnui ir kitiems „iki pat Romos“, „kiekvienam
@@ -5573,7 +4615,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-168382
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 87"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 87."
   citata_originali: |
     Kitais metais
     Utenis perkėlė karą iš Kuršo į Livoniją; ligi tol pratę
@@ -5599,7 +4642,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-168383
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 106"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 106."
   citata_originali: |
     Neliko saugi nuo karo tuo metu nė Livonija: ją nuo­
     latos siaubė Mindaugo karvedžiai, ten vyko kovos prie
@@ -5662,7 +4706,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-168385
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 345"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 345."
   citata_originali: |
     Norėdamas vis dėlto atsi­
     lyginti priešui už tą antpuolį, jis, kuo greičiausiai su­
@@ -5689,7 +4734,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-168386
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 347"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 347."
   citata_originali: |
     Smo-
     lenskiečiams prisidėjus, padidėjusi Vytauto kariuomenė
@@ -5713,7 +4759,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-168388
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 695"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 695."
   citata_originali: |
     Tos pačios priežastys sukėlė neramumus Livonijoje.
     Į Liuterio sektą perėjo Livo-
@@ -5739,7 +4786,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-168389
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 699"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 699."
   citata_originali: |
     Numalšinęs Livoniją ir iš­
     siuntęs į Maskvą Palenkės
@@ -5798,7 +4846,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-171654
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 97"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 97."
   citata_originali: |
     Henriko Latvio kronikos prierašuose, arba pastabose, ku­
     rias XVII amžiuje parašė kažkoks kunigas Glumeris ir kurias
@@ -5816,7 +4865,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-171655
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 368"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 368."
   citata_originali: |
     Dar negalime nepaminėti smulkmenų, bylojančių apie Že­
     maitijoje įsišaknijusį apeiginį dievų garbinimą. Ten jis buvo pa­
@@ -5834,7 +4884,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-171656
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 420"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 420."
   citata_originali: |
     Taigi, jei tiek Prūsijoje, tiek ir
     Lietuvoje buvo Romovė arba daug tokių šventovių, jei iš tik­
@@ -5862,7 +4913,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-171657
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 429"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 429."
   citata_originali: |
     Nuo vienuoliktojo amžiaus pabaigos ėmė smukti autori­
     tetas vyriausiojo žynio, Krivių Krivaičio, kurio valdžia anks­
@@ -5886,7 +4938,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-175465
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 168"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 168."
   citata_originali: |
     Saluros miesto Bitinijoje astronomai, panorę ištirti, ar gali
     gyventi žmonės septintojo dangaus- rato pabaigoje, — čia
@@ -5908,7 +4961,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-175466
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 502"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 502."
   citata_originali: |
     Ten jis buvo pastebėtas pra­
     ėjus daugiau nei pusantro šimto metų po krikščionybės įvedimo.
@@ -5966,7 +5020,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - id: c-176145
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 514"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 514."
   citata_originali: |
     Ir vieni, ir kiti puikiai atliko pavestus užda­
     vinius.
@@ -6007,15 +5062,12 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     - t-194987
 
 ## Ryšiai
-- Buvo kelionės vieta: [[objektai/asmenys/Baltramiejus (Aleto vyskupas)]], [[objektai/asmenys/Bernardas (Šv. Teofrido vienuolyno abatas)]], [[objektai/asmenys/Bertoldas Briuhavenas]], [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu]], [[objektai/asmenys/Jokūbas Lencicijus]], [[objektai/asmenys/Jonas Karolis Chodkevičius]], [[objektai/asmenys/Jonas Karolis Katkevičius]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]], [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]
-- Puolė Livoniją: [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Kuršiai]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Lietuvos kariuomenė]], [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]], [[objektai/grupes/Žemaičiai]]
+- Buvo kelionės vieta: [[objektai/asmenys/Bernardas (Šv. Teofrido vienuolyno abatas)]], [[objektai/asmenys/Jonas Karolis Chodkevičius]], [[objektai/asmenys/Jonas Karolis Katkevičius]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]]
+- Puolė Livoniją: [[objektai/grupes/Lietuviai]]
 - Užėmė Livoniją: [[objektai/grupes/Maskvėnai]], [[objektai/grupes/Maskvos kariuomenė]], [[objektai/grupes/Rusijos kariuomenė]], [[objektai/grupes/Švedai]]
-- Gynė Livoniją: [[objektai/grupes/Lietuvos luomai]], [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]]
-- Buvo siuntimo vieta: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/asmenys/Gotfridas Hohenlohė]], [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]], [[objektai/asmenys/Jonas XXII|Jonas XXII (arkivyskupas, XIV a.)]]
-- Buvo žygio kryptis: [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Maskvėnai]], [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]], [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]]
-- Prekiavo su: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/vietos/Lietuva]], [[objektai/grupes/Lietuviai]], [[objektai/vietos/Vilnius]]
-- Buvo užkariauta: [[objektai/grupes/Vokiečiai]]
-- Gyvenamoji vieta: [[objektai/grupes/Dobrynės broliai]], [[objektai/grupes/Jotvingiai]], [[objektai/grupes/Kalavijuočių ordinas]], [[objektai/grupes/Latviai]], [[objektai/grupes/Teutonai]]
-- Turėjo priklausinį: [[objektai/vietos/Dorpatas]], [[objektai/vietos/Karkuso pilis|Karkuso pilis (pilis, XIII a.)]], [[objektai/vietos/Latvija]], [[objektai/vietos/Pernava]], [[objektai/vietos/Rezeknės regionas]], [[objektai/vietos/Ronneburgas]], [[objektai/vietos/Ryga]], [[objektai/vietos/Viljandis]]
-- Livonija prekiavo su [[objektai/vietos/Vilnius]]
-- Livonija priklausė [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/vietos/Lietuva]], [[objektai/vietos/Ryga]], [[objektai/grupes/Švedai]]
+- Gynė Livoniją: [[objektai/grupes/Lietuvos luomai]]
+- Buvo siuntimo vieta: [[objektai/asmenys/Gotfridas Hohenlohė]], [[objektai/asmenys/Jonas XXII|Jonas XXII (arkivyskupas, XIV a.)]]
+- Buvo žygio kryptis: [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]], [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]]
+- Prekiavo su: [[objektai/vietos/Vilnius]]
+- Turėjo priklausinį: [[objektai/vietos/Karkuso pilis|Karkuso pilis (pilis, XIII a.)]]
+- Livonija priklausė [[objektai/vietos/Lietuva]]

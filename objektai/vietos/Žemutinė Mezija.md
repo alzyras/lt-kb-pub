@@ -30,22 +30,6 @@ Narbutas rašo, kad skiriat su sudargais kūrėsi Žemutinėje Mezijoje, arčiau
 - t-001
   global_id: t-192860
   teiginys: "Narbutas rašo, kad skiriat su sudargais kūrėsi Žemutinėje Mezijoje, arčiau Dunojaus žemupio, vadovaujami Kandakoso."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Sudargai gyveno Žemutinė Mezija (0.80); Sudargai gyveno Isteris (0.68)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "524870-525446; hash=3d74dd725956bba8175b44f67991a4972990432dcb9c70b5dd8115c702089e43; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Žemutinė Mezija: 0.80"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Sudargai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Žemutinė Mezija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad sudargai pradėjo kurtis Žemutinėje Mezijoje."
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175630
 ## Reikšmingi paminėjimai
@@ -69,8 +53,8 @@ Narbutas rašo, kad skiriat su sudargais kūrėsi Žemutinėje Mezijoje, arčiau
     varginti, beveik be paliovos puldinėję imperijos žemes,
     ėmė mąstyti apie įsikūrimą vienoje vietoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -103,6 +87,3 @@ Narbutas rašo, kad skiriat su sudargais kūrėsi Žemutinėje Mezijoje, arčiau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192860
-
-## Ryšiai
-- Gyvenamoji vieta: [[objektai/grupes/Sudargai]]

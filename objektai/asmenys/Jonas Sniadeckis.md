@@ -43,19 +43,6 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
 - t-003
   global_id: t-183544
   teiginys: "Filosofas Jonas Sniadeckis dirbo universitete didžiausio jo klestėjimo laikotarpiu."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "193575-194254; hash=2e0d9420c59543ae26e9345f725c71fc6545a01e12f167784931eb12026b252c; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Andrius Sniadeckis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jonas Sniadeckis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Andrius Sniadeckis: mention_match, person, gap=6"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jonas Sniadeckis\" parinktas kaip owner_note_path. Targetas \"Andrius Sniadeckis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-166937
 - susijęs iš [[objektai/asmenys/Andrius Sniadeckis.md#claim-t-183521|Andrius Sniadeckis]]: Andrius Sniadeckis dirbo Vilniaus universitete kaip chemikas ir biologas.
@@ -90,8 +77,8 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
     mastu. Su universitetu susijusi ir
     tuometinė itin gausi periodika.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

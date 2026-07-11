@@ -30,19 +30,6 @@ Po Florencijos bažnyčių unijos Aleksandras siekė, kad jo valdose gyvenantys 
 - t-001
   global_id: t-186329
   teiginys: "Po Florencijos bažnyčių unijos Aleksandras siekė, kad jo valdose gyvenantys rusai prisidėtų prie Rytų ir Vakarų bažnyčių santarvės."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "987077-987964; hash=ff67e8395ca7a38651ae18f80025c05ddbf0d2ed533527bd520e66b3d6980263; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aleksandras: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Florencijoje sudaryta Rytų ir Vakarų bažnyčių unija: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Aleksandras: mention_match, person, gap=16"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Florencijoje sudaryta Rytų ir Vakarų bažnyčių unija\" parinktas kaip owner_note_path. Targetas \"Aleksandras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-169690
 ## Reikšmingi paminėjimai
@@ -73,8 +60,8 @@ Po Florencijos bažnyčių unijos Aleksandras siekė, kad jo valdose gyvenantys 
     prievarta bei grasinimais nėra vertęs atsisakyti pro­
     tėvių tikėjimo.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

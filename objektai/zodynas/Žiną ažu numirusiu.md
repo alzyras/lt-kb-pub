@@ -30,14 +30,6 @@ Tai yra išmalda už mirusiuosius (Žiną ažu numirusiu).
 - t-001
   global_id: t-194789
   teiginys: "Tai yra išmalda už mirusiuosius (Žiną ažu numirusiu)."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "688508-688929; hash=ee18275ec277cdc5e7816e5d33009f1ceb59bb9baeb9e6402469f5c77971e5ca; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-177185
 ## Reikšmingi paminėjimai
@@ -54,8 +46,8 @@ Tai yra išmalda už mirusiuosius (Žiną ažu numirusiu).
     giai, sudėti į krepšelius, išnešami išdalyti sutiktiems pavargė­
     liams. Tai yra išmalda už mirusiuosius (Žiną ažu numirusiu).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -66,7 +58,8 @@ Tai yra išmalda už mirusiuosius (Žiną ažu numirusiu).
 - id: c-177185
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 385"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 385."
   citata_originali: |
     Susėdę prie stalo, dar kalba maldas, geria
     skirdami pirmąją gėrimo taurę mirusiųjų vėlių dievybėms (ge­

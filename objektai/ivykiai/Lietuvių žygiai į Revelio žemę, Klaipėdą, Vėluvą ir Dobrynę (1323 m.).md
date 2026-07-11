@@ -63,19 +63,6 @@ Nenurodyta
 - t-001
   global_id: t-59554
   teiginys: "M. Tepenas manė, kad Dusburgietis 1323 m. lietuvių žygius į Revelio žemę, Klaipėdą, Vėluvą ir Dobrynę aprašė remdamasis Varmės dokumentu."
-  temporaliniai_duomenys: "įvykio data: 1230 m.; įvykio data: 1243 m.; įvykio data: 1282 m.; įvykio data: 1323 m.; įvykio data: 1324 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys palaikomas, bet reikia glaustesnės formos ir be perteklinių detalių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "68040-68780; hash=ef3899237f0f775009915bb9b22c3dd98b480a11d1c8da5dd26b9006f9123d43; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Dobrynė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvių žygiai į Revelio žemę, Klaipėdą, Vėluvą ir Dobrynę (1323 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Dobrynė: mention_match, place, gap=52"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvių žygiai į Revelio žemę, Klaipėdą, Vėluvą ir Dobrynę (1323 m.)\" parinktas kaip owner_note_path. Targetas \"Dobrynė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-60186
 
@@ -83,19 +70,6 @@ Nenurodyta
 - t-002
   global_id: t-59555
   teiginys: "G. Liabuda atmetė nuomonę, kad 1323 m. lietuvių žygių ir Gedimino krikšto bei taikos pasakojimai paremti dokumentais."
-  temporaliniai_duomenys: "įvykio data: 1323 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Reikia pataisyti vardą, pašalinti klaidingą priskyrimą Dusburgiečiui ir suformuluoti visą sakinį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "69895-70208; hash=ffe01a1f757f4ed2d01a084443a94f614107d0071acf1063be97cf3ecd87c2ed; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvių žygiai į Revelio žemę, Klaipėdą, Vėluvą ir Dobrynę (1323 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=18"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvių žygiai į Revelio žemę, Klaipėdą, Vėluvą ir Dobrynę (1323 m.)\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-60187
 ## Reikšmingi paminėjimai
@@ -114,8 +88,8 @@ Nenurodyta
     apylinkes (III, 344), Vėluvą (III, 345) bei Dobrynę (III, 346), be to, 1324 m. popiežiaus
     legatų dokumentu dėl taikos su Gediminu (III, 356)122.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -130,8 +104,8 @@ Nenurodyta
     čia rašęs kaip įvykių amžininkas (vis dėlto pabrėžtinas įvykių sekos atitikimas 1323 m.
     spalio 16 d. dokumente ir Dusburgiečio kronikoje125).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -142,7 +116,8 @@ Nenurodyta
 - id: c-60186
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 24"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 24."
   citata_originali: |
     Rašydamas kroniką, Dusburgietis naudojosi dokumentais, tačiau kokiais  ir kaip —
     neaišku. M. Tepenas, leisdamas 1861 m. kroniką, pažymėjo, kad Dusburgietis rėmęsis
@@ -163,7 +138,8 @@ Nenurodyta
 - id: c-60187
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 24"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 24."
   citata_originali: |
     Tačiau G. Liabuda atmetė nuomonę, kad pasakojimai apie lietuvių niokojamus žygius
     1323 m. ir Gedimino krikštą bei taiką esą paremti dokumentais. Jis mano, kad Dusburgietis

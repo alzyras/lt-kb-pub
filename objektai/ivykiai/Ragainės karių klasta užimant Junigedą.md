@@ -42,19 +42,6 @@ Nenurodyta
 - t-001
   global_id: t-185826
   teiginys: "Junigedos puolime dalis karių buvo paslėpta abipus kelio, o Ragainės būriui įsakyta traukti prie pilies vartų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "283466-283879; hash=78c06b9ff340c3795c000f9180cdb16e7ae9d4342f0adc50870f6bf6f7a69038; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Junigeda: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ragainės karių klasta užimant Junigedą: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Junigeda: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ragainės karių klasta užimant Junigedą\" parinktas kaip owner_note_path. Targetas \"Junigeda\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-169187
 ## Reikšmingi paminėjimai
@@ -74,8 +61,8 @@ Nenurodyta
     saloje tykančių karių. Tada priešai stvėrėsi ginklo,
     visur aidėjo šauksmai ir švilpė ietys.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -86,7 +73,8 @@ Nenurodyta
 - id: c-169187
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 165"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 165."
   citata_originali: |
     Išdėstęs vi-
     ta  u žim a  J u n ig e d ą

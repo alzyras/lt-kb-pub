@@ -39,20 +39,6 @@ Per trumpa “| laiką Švedijos kariuomenė užėmė Paidę (Weisenstein), Kuok
 - t-001
   global_id: t-41999
   teiginys: "Švedijos kariuomenė per trumpą laiką užėmė Paidę, Kuoknesę ir Viljandį."
-  semantiniai_rysiai: "Švedijos kariuomenė užėmė Paidė (0.96); Švedijos kariuomenė užėmė Kuoknesė (0.96); Švedijos kariuomenė užėmė Viljandis (0.96)"
-  temporaliniai_duomenys: "įvykio data: 1608 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "448442-448740; hash=96714764cf05c5f6e2c407b76e23de23f1c7708d7d036e348d88003514096006; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Kuoknesė: 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Švedijos kariuomenė: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Kuoknesė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Kuoknesė tiesiogiai išvardyta tarp Švedijos kariuomenės užimtų vietų."
   pagrindžia:
     - c-45256
 
@@ -60,19 +46,6 @@ Per trumpa “| laiką Švedijos kariuomenė užėmė Paidę (Weisenstein), Kuok
 - t-002
   global_id: t-185077
   teiginys: "Kai lietuviai kariavo su Maskva, Švedijos karalius Erikas įsiveržė į Livoniją ir užėmė Revelį bei Paidę."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1318733-1319559; hash=056d8416b59aef5510d3c594eff61bd7b0ff2eeb091ad80d08d0a1b3904e8f32; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Paidė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=94"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Paidė\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-168438
 - susijęs iš Viljandis: Per trumpą laiką Švedijos kariuomenė užėmė Paidę, Kuoknesę ir Viljandį.
@@ -97,8 +70,8 @@ Per trumpa “| laiką Švedijos kariuomenė užėmė Paidę (Weisenstein), Kuok
     vičius grįžo į Livoniją ir per trumpą laiką
     išvadavo Kuoknesę ir Viljandį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -153,8 +126,8 @@ Per trumpa “| laiką Švedijos kariuomenė užėmė Paidę (Weisenstein), Kuok
     telk ė savo k ariu s ir n u v ed ė
     p rieš p lėšik au jan č iu s švedus.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -187,7 +160,8 @@ Per trumpa “| laiką Švedijos kariuomenė užėmė Paidę (Weisenstein), Kuok
 - id: c-168438
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 731"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 731."
   citata_originali: |
     F ilonas Km i-
     ta, S ev ersk o  k ra šte  su siju n g ęs su G urkos grafu, Lesnio-

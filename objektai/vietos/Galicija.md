@@ -34,17 +34,6 @@ Galicijoje.
 - t-001
   global_id: t-02443
   teiginys: "Po Lenkijos padalinimo Galicijoje išliko unitai, nes ši sritis buvo patekusi Austrijai."
-  semantiniai_rysiai: "Galicija priklausė Austrija (0.84); Unitai gyveno Galicija (0.82)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "621667-621906; hash=83ac1890c30b40a82e506eb9971fce0e466c990f8e073dcca8c5258720cf962d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Austrija: 0.84"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Galicija: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Austrija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Galicija po padalinimo buvo patekusi Austrijai."
   pagrindžia:
     - c-02681
 - susijęs iš [[objektai/asmenys/Vladislovas iš Opolės.md#claim-t-93547|Vladislovas iš Opolės]]: Kazimieras III buvo atidavęs Galiciją Vladislovui iš Opolės.
@@ -64,8 +53,8 @@ Galicijoje.
     išnaikinta. Unitai išliko tik tose Lenkijos dalyse, kurios po
     padalinimo buvo patekusios Austrijai, t. y. Galicijoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -92,5 +81,3 @@ Galicijoje.
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Vladislovas iš Opolės]]
-- Gyvenamoji vieta: [[objektai/grupes/Unitai]]
-- Galicija priklausė [[objektai/vietos/Austrija]], [[objektai/asmenys/Vladislovas iš Opolės]]

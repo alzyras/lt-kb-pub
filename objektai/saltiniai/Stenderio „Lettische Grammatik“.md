@@ -30,21 +30,6 @@ Narbutas vertino Stenderio latvių mitologijos straipsnius kaip saviškai pateik
 - t-001
   global_id: t-190480
   teiginys: "Narbutas vertino Stenderio latvių mitologijos straipsnius kaip saviškai pateikiančius klaidingas išvadas ir nutolstančius nuo tiesos."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "221328-221736; hash=c5ac8e3d0ef288261c9ed03ba8d57bf5af35fce75b05328e6e8232654d7a8cbc; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Latviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Stenderio „Lettische Grammatik“: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Latviai: mention_match, group, gap=10"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Stenderio „Lettische Grammatik“\" parinktas kaip owner_note_path. Targetas \"Latviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173363
 
@@ -52,21 +37,6 @@ Narbutas vertino Stenderio latvių mitologijos straipsnius kaip saviškai pateik
 - t-002
   global_id: t-190481
   teiginys: "Narbutas rašo, kad Stenderis latvių Dyžą arba Dyszą laikė deive, savo ypatybėmis atitikusia Pergrubę."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "229255-229523; hash=c7cbb70dcf0dfb77629ae6912e7bdcbccab482b55dd0bc804fd2f5f59435bbda; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Latviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Stenderio „Lettische Grammatik“: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Latviai: mention_match, group, gap=10"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Stenderio „Lettische Grammatik“\" parinktas kaip owner_note_path. Targetas \"Latviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173364
 
@@ -74,21 +44,6 @@ Narbutas vertino Stenderio latvių mitologijos straipsnius kaip saviškai pateik
 - t-003
   global_id: t-190482
   teiginys: "Narbutas nurodo, kad Stenderis Barstukų vardą kildino iš latviškų žodžių Berhns ir Stuhke."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "308369-308620; hash=5e18541fd6a3c2f230c18c093db42a4aab0e81c390b4c2edda68c8983fca5d61; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Barstukai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Stenderio „Lettische Grammatik“: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Barstukai: mention_match, group, gap=10"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Stenderio „Lettische Grammatik“\" parinktas kaip owner_note_path. Targetas \"Barstukai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173365
 
@@ -96,21 +51,6 @@ Narbutas vertino Stenderio latvių mitologijos straipsnius kaip saviškai pateik
 - t-004
   global_id: t-190483
   teiginys: "Narbutas rašo, kad Stenderio laikais Latvijoje dar buvo girdėti apie žynius, traukiančius lengvatikius iš apylinkių."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "522607-522956; hash=a8ca062f3f7927ca2055c33b7f63ff9c3386e716964ace4e2ffe2657eda8d805; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Latviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Stenderio „Lettische Grammatik“: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Latviai: mention_match, group, gap=18"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Stenderio „Lettische Grammatik“\" parinktas kaip owner_note_path. Targetas \"Latviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173366
 
@@ -118,21 +58,6 @@ Narbutas vertino Stenderio latvių mitologijos straipsnius kaip saviškai pateik
 - t-005
   global_id: t-190484
   teiginys: "Narbutas Vaidilutes apibūdino kaip žynes, davusias amžinos skaistybės įžadus ir už jų sulaužymą baustas žiauriausia mirtimi."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "523054-523585; hash=be61950f5313184bf5099086a5e650fde6e6fa3aceb447dca48bfa728e57f8a5; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vaidilutės: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Stenderio „Lettische Grammatik“: owner_note_path, source"
-  ryšio_targeto_parinkimas: "Vaidilutės: mention_match, group, gap=10"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Stenderio „Lettische Grammatik“\" parinktas kaip owner_note_path. Targetas \"Vaidilutės\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173367
 
@@ -140,21 +65,6 @@ Narbutas vertino Stenderio latvių mitologijos straipsnius kaip saviškai pateik
 - t-006
   global_id: t-190485
   teiginys: "Narbutas cituoja Stenderio prisiminimą, kad jaunystėje dėl „tokio bergždžio būrimo“ nekaltai nubaustas vienas žmogus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "534695-534989; hash=22dc27a88fb10790121a1e1a8201e16f58b98c41042ebd53032a57e2d8719473; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Stenderis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Stenderio „Lettische Grammatik“: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Stenderis: mention_match, author, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Stenderio „Lettische Grammatik“\" parinktas kaip owner_note_path. Targetas \"Stenderis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173368
 ## Reikšmingi paminėjimai
@@ -172,8 +82,8 @@ Narbutas vertino Stenderio latvių mitologijos straipsnius kaip saviškai pateik
     se saviškai pateikdamas klaidingas išvadas, nutolsta nuo es­
     mės ir tiesos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -189,8 +99,8 @@ Narbutas vertino Stenderio latvių mitologijos straipsnius kaip saviškai pateik
     dino Dyža arba Dysza; savo ypatybėmis ji visiškai atitiko Per-
     grubę. Senovės prūsai ją vadino Melitele, tai yra Meilutėle.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -206,8 +116,8 @@ Narbutas vertino Stenderio latvių mitologijos straipsnius kaip saviškai pateik
     ke -  lėlė. Kitaip juos vadindavo piktukais nuo Piktas', netoli
     Vilniaus yra Piktukonių (Piktukance) kaimas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -225,8 +135,8 @@ Narbutas vertino Stenderio latvių mitologijos straipsnius kaip saviškai pateik
     Latviai šitaip vadina kerėtoją, mokantį pasiversti vilku; mū­
     sų rusinai tokį vadina Wolkotak, o lietuviai -  Witkatas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -252,8 +162,8 @@ Narbutas vertino Stenderio latvių mitologijos straipsnius kaip saviškai pateik
     mune, įkišę į odinį, akmenų prikimštą maišą ir užsiuvę kartu
     su katinu, šunimi bei nuodinga gyvate.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -270,8 +180,8 @@ Narbutas vertino Stenderio latvių mitologijos straipsnius kaip saviškai pateik
     simenu iš savo jaunystės metų, kad dėl tokio bergždžio būri­
     mo nekaltai nubaudė vieną žmogų“42.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -282,7 +192,8 @@ Narbutas vertino Stenderio latvių mitologijos straipsnius kaip saviškai pateik
 - id: c-173363
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 126"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 126."
   citata_originali: |
     Beje, labai gali būti,
     kad vėlesniais laikais ir stabmeldystei išnykus liaudis klydo api­
@@ -302,7 +213,8 @@ Narbutas vertino Stenderio latvių mitologijos straipsnius kaip saviškai pateik
 - id: c-173364
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 131"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 131."
   citata_originali: |
     Kitaip vadinosi Grubytė (Grubite), nuo žodžio Grubios -
     gėlių ir vaismedžių sodas.
@@ -319,7 +231,8 @@ Narbutas vertino Stenderio latvių mitologijos straipsnius kaip saviškai pateik
 - id: c-173365
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 179"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 179."
   citata_originali: |
     Barstukai (Barstuki)
     Požemio dievaičiai, nykštukai. Tą vardą Stenderis išveda
@@ -336,7 +249,8 @@ Narbutas vertino Stenderio latvių mitologijos straipsnius kaip saviškai pateik
 - id: c-173366
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 299"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 299."
   citata_originali: |
     Tokie žyniai, mo­
     kantys pagarsėti, pritraukia lengvatikius iš tolimesnių ir arti­
@@ -382,7 +296,8 @@ Narbutas vertino Stenderio latvių mitologijos straipsnius kaip saviškai pateik
 - id: c-173368
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 306"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 306."
   citata_originali: |
     Buvo buriama
     stebint to rutuliuko judėjimą ir sukimąsi, ypač ieškant vagies.

@@ -39,9 +39,6 @@ Dusburgietis teigia, kad apie tai, kaip buvo paimtos kitos pilys ir pavergta Von
 - t-002
   global_id: t-58521
   teiginys: "Auktalitas buvo vėlesnis Auglitten kairiajame Alnos krante aukščiau Alenburgo."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "357749-357910; hash=676ffc92ad8dbab8e1f701afac7f66e119d8cb83b88536d221b5eddcc4a3f9c0; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-59153
 
@@ -49,20 +46,6 @@ Dusburgietis teigia, kad apie tai, kaip buvo paimtos kitos pilys ir pavergta Von
 - t-001
   global_id: t-58522
   teiginys: "1256 m. Karaliaučiaus komtūras Vonsdorfo žemėje apsupo, užėmė ir iki pamatų sudegino Auktalito pilį."
-  semantiniai_rysiai: "Auktalitas priklausė Vonsdorfas (0.72)"
-  temporaliniai_duomenys: "įvykio data: 1256 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys buvo negramatiškas ir su išnašos triukšmu; citata remia pilies užėmimą 1256 m."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "355314-355736; hash=4d9ecf4a2caa3b582932442526b1dda8a33d8793498b8def154ccac84099f153; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Vonsdorfas: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Auktalitas: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Vonsdorfas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys rodo, kad Auktalito pilis buvo Vonsdorfo žemėje."
   pagrindžia:
     - c-59154
 ## Reikšmingi paminėjimai
@@ -74,8 +57,8 @@ Dusburgietis teigia, kad apie tai, kaip buvo paimtos kitos pilys ir pavergta Von
     334 D.— Ochtolite, Jer.— Ouctolîte; vėlesnis Auglitten kair. Alnos krante aukščiau
     Alenburgo (dab. Družba). Piliavietėje vėliau buvo pastatyta bažnyčia (Ewald A.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -92,8 +75,8 @@ Dusburgietis teigia, kad apie tai, kaip buvo paimtos kitos pilys ir pavergta Von
     pilį334, ir anksčiau aprašytu būdu ją užėmė; paėmęs pilyje ir jos apylinkėse daug žmonių
     į nelaisvę  ir daug nukovęs, ją  iki pamatų sudegino. Pilėnai, gyvenę kitose trijose
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -104,7 +87,8 @@ Dusburgietis teigia, kad apie tai, kaip buvo paimtos kitos pilys ir pavergta Von
 - id: c-59153
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 108"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 108."
   citata_originali: |
     334 D.— Ochtolite, Jer.— Ouctolîte; vėlesnis Auglitten kair. Alnos krante aukščiau
     Alenburgo (dab. Družba). Piliavietėje vėliau buvo pastatyta bažnyčia (Ewald A.
@@ -118,7 +102,8 @@ Dusburgietis teigia, kad apie tai, kaip buvo paimtos kitos pilys ir pavergta Von
 - id: c-59154
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 108"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 108."
   citata_originali: |
     75 (74). Apie tai, kaip buvo paimtos kitos pilys ir pavergta Vonsdorfo žemė
 
@@ -133,6 +118,3 @@ Dusburgietis teigia, kad apie tai, kaip buvo paimtos kitos pilys ir pavergta Von
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58522
-
-## Ryšiai
-- Auktalitas priklausė [[objektai/vietos/Vonsdorfas]]

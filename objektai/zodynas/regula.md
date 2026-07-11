@@ -35,16 +35,6 @@ Dusburgietis teigia, kad šioje Kristburgo pilyje gyveno dievui atsidavę ir nuo
 - t-003
   global_id: t-82094
   teiginys: "Goštautas po vienuolių nužudymo vėl atkvietė tos pačios regulos vienuolių iš Lenkijos."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "85665-86513; hash=ef4057c7e279120acda7ff58b772660851baf048d730e25b707689a9d3e54286; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "regula: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=21"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"regula\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-78589
 
@@ -52,19 +42,6 @@ Dusburgietis teigia, kad šioje Kristburgo pilyje gyveno dievui atsidavę ir nuo
 - t-004
   global_id: t-184637
   teiginys: "Vaišvilkas Galiče gyveno pagal griežtesnes regulas, remdamasis Grigorijaus iš Polonos mokslu."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "184427-185084; hash=78042761d2e7e3f60824dc929d81a8917f563e21bb0d1b61deca62de3ffb99c0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Polona: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "regula: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Polona: mention_match, place, gap=35"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"regula\" parinktas kaip owner_note_path. Targetas \"Polona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-167998
 - susijęs iš [[objektai/grupes/Vilniaus magistratas.md#claim-t-172807|Vilniaus magistratas]]: Vilniaus tarėjams buvo nurodyta su ponais tartis dėl duonos dydžio, svorio ir kitų miesto tvarkos dalykų.
@@ -97,8 +74,8 @@ Dusburgietis teigia, kad šioje Kristburgo pilyje gyveno dievui atsidavę ir nuo
     įvykius iš tamsos į ryškią šviesą iš­
     kelti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -122,8 +99,8 @@ Dusburgietis teigia, kad šioje Kristburgo pilyje gyveno dievui atsidavę ir nuo
     baimingai ir pastoviai gyventi, kartkartėmis, tiesa,
     kurstomas didikų.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -165,7 +142,8 @@ Dusburgietis teigia, kad šioje Kristburgo pilyje gyveno dievui atsidavę ir nuo
 - id: c-167998
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 110"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 110."
   citata_originali: |
     Vaišvilkas mat, pasipiktinęs savo tėvo Min­
     daugo atsimetimu nuo krikščionių tikybos, pabėgo pas

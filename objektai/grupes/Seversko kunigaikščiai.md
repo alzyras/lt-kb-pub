@@ -30,19 +30,6 @@ Seversko kunigaikščiai atsiskyrė nuo karaliaus ir Lietuvos, išdavė valstyb�
 - t-002
   global_id: t-185437
   teiginys: "Seversko kunigaikščiai atsiskyrė nuo karaliaus ir Lietuvos, išdavė valstybę ir visas savo valdas prijungė prie Maskvos."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "950482-951228; hash=8712ab34b49ed42f7149b5c5060f0156071ff3e8fed3539fa4251514feeb0dbc; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Maskva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Seversko kunigaikščiai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Maskva: mention_match, place, gap=111"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Seversko kunigaikščiai\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-168798
 
@@ -50,12 +37,6 @@ Seversko kunigaikščiai atsiskyrė nuo karaliaus ir Lietuvos, išdavė valstyb�
 - t-003
   global_id: t-193339
   teiginys: "Susirinko gausybė didikų, ypač daug — iš Seversko že mės, nes visus juos baugino Seversko ku n igaikšdėl pavojingo artumo kaimyčiai atsiskiria nuo ninės Maskvos galybė ir verL ie tu v o s tė labiau rūpintis valstybe, kuri iro, patirdama vieną nuo stolį po."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "948154-948646; hash=7aff1eb36d30f79d281bfe082d10f37b8e2b080856c497a1f694a5340d80937e; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176067
 - susijęs iš Seversko Naugardas: Seversko Naugarde nuo seno gyveno Seversko kunigaikščiai.
@@ -80,8 +61,8 @@ Seversko kunigaikščiai atsiskyrė nuo karaliaus ir Lietuvos, išdavė valstyb�
     tačiau jis nieko kito nesugebėjo padaryti, tik užprotes­
     tuoti per pasiuntinį V a itie k ų  K iočką dėl šios skriaudos.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -109,8 +90,8 @@ Seversko kunigaikščiai atsiskyrė nuo karaliaus ir Lietuvos, išdavė valstyb�
     šiaip, ir taip išsisukinėjantį karalių rimtai susirūpinti
     tos žemės gynyba.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -121,7 +102,8 @@ Seversko kunigaikščiai atsiskyrė nuo karaliaus ir Lietuvos, išdavė valstyb�
 - id: c-168798
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 537"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 537."
   citata_originali: |
     Mažai
     tesutramdė užsispyrėlius ir Josifo, Kijevo metropolito,
@@ -147,7 +129,8 @@ Seversko kunigaikščiai atsiskyrė nuo karaliaus ir Lietuvos, išdavė valstyb�
 - id: c-176067
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 536"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 536."
   citata_originali: |
     Apie šiuos susitarimus karalius nieko nežinojo, mat
     tuo metu buvo išvykęs į Lietuvą, kur sušaukė seimą.

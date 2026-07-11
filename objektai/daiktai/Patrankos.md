@@ -65,16 +65,6 @@ Nenurodyta
 - t-013
   global_id: t-176197
   teiginys: "Žalgirio mūšio pradžioje kryžiuočiai porą kartų iššovė iš patrankų, bet sąjungininkų sumišimo nesukėlė."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "232017-232317; hash=4960ceda240f37d08a45d192408a9eb4af59ea2c2d7480c017a9a169fbaedf25; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Patrankos: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Patrankos\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-160232
 
@@ -82,9 +72,6 @@ Nenurodyta
 - t-011
   global_id: t-176198
   teiginys: "Žalgirio mūšyje patrankos buvo vartotos tik pradžioje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "212628-212812; hash=f69f916b02751df1fd0d8f39ab3c9d3e2ae2b0c33afbbb4377ceaf3da0525a34; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-160233
 
@@ -92,16 +79,6 @@ Nenurodyta
 - t-010
   global_id: t-176199
   teiginys: "XV a. patrankos buvo griozdiškos, didelės, sunkiai pervežamos ir labiau tiko tvirtovėms griauti."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "212432-212736; hash=8c90f973301985a85c107d8d274885ed3dde61b4151a88baed34a7b728ed456f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Artilerija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Patrankos: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Artilerija: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Patrankos\" parinktas kaip owner_note_path. Targetas \"Artilerija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-14335
 
@@ -109,17 +86,6 @@ Nenurodyta
 - t-012
   global_id: t-176200
   teiginys: "Prie Drevencos kryžiuočiai sustiprino upės krantus ir apstatė juos patrankomis."
-  semantiniai_rysiai: "Kryžiuočių ordinas gynė Drevenca (0.84)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "220351-220577; hash=f39c4e688b5dc550ee578438480ebd7ecf5d5be82c4354027e2d27e21788d2b5; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyne -> Drevenca: 0.84"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Drevenca: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad kryžiuočiai saugojo perėjimą per Drevencos upę."
   pagrindžia:
     - c-14337
 
@@ -127,16 +93,6 @@ Nenurodyta
 - t-014
   global_id: t-176201
   teiginys: "Skirgaila Trakų piliai ginti iš Ordino maršalkos dovanų gavo keletą didelių patrankų."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "66181-66865; hash=dd82c765b41a33af46e634fcfd37c94e98bfaa67773253f53d38dd1c59f936d3; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Ragainė: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Patrankos: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Ragainė: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Patrankos\" parinktas kaip owner_note_path. Targetas \"Ragainė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-14339
 
@@ -144,9 +100,6 @@ Nenurodyta
 - t-018
   global_id: t-176203
   teiginys: "Patrankos keldavo daug triukšmo, bet duodavo mažai naudos."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "212682-212894; hash=e00c59ba14e8b34b8611471c222b2e46f8b53c0c1f22e12db1ab9ba58fd44534; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-36744
 
@@ -154,9 +107,6 @@ Nenurodyta
 - t-016
   global_id: t-176204
   teiginys: "Žalgirio mūšyje patrankos buvo naudotos mažai ir tik mūšio pradžioje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "212682-212894; hash=e00c59ba14e8b34b8611471c222b2e46f8b53c0c1f22e12db1ab9ba58fd44534; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-36744
 
@@ -164,16 +114,6 @@ Nenurodyta
 - t-017
   global_id: t-176205
   teiginys: "Mūšio pradžioje kryžiuočiai porą kartų iššovė iš patrankų, bet sąjungininkų kariuomenėje sumišimo nesukėlė."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "8959-9257; hash=4f4606e91b28225941635d413fc785483a7d98061f1d5adbe78f26fc86c13588; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Dlugošas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Patrankos: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Dlugošas: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Patrankos\" parinktas kaip owner_note_path. Targetas \"Dlugošas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-36745
 
@@ -181,22 +121,6 @@ Nenurodyta
 - t-010
   global_id: t-188385
   teiginys: "Apie Teodorą Narbutą buvo pasklidę gandai, kad jis padėjo 1830-1831 m. sukilėliams lieti patrankas, bet caro valdžia to neįrodė."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1830-1831; įvykio data: 1831 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Išskleistas įvardis „jis“ ir pridėtas citatoje nurodytas sukilimo kontekstas. Gandas neperrašytas kaip faktas."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "8959-9257; hash=4f4606e91b28225941635d413fc785483a7d98061f1d5adbe78f26fc86c13588; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Dlugošas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Patrankos: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Dlugošas: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Patrankos\" parinktas kaip owner_note_path. Targetas \"Dlugošas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-171278
 
@@ -204,14 +128,6 @@ Nenurodyta
 - t-019
   global_id: t-193869
   teiginys: "Ir Lietuvos kariuomenė pradėjo šaudyti į juos iš patrankų, iš šautuvų, iš lankų, o tuo metu nedidelis būrys dvarionių leidosi per upę."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "298964-299479; hash=b58cf54d58148ddda7a01f082ba309bd60043ece897f7774a76bd682f10a12e8; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-176499
 - susijęs iš [[objektai/asmenys/V. Grigas.md#claim-t-80744|V. Grigas]]: Grigo vadovaujama lengvosios artilerijos 1-oji baterija (4 patrankos).
@@ -250,8 +166,8 @@ Nenurodyta
     švino. Patrankos padarydavo daug triukšmo, bet maža nau­
     dos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -265,8 +181,8 @@ Nenurodyta
     buvo saugojamas. Jie čia jau buvo atvykę iš Sviečės, sustipri­
     nę upės krantus ir apstatę juos patrankomis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -289,8 +205,8 @@ Nenurodyta
     gaila, Trakų piliai ginti gavo iš maršalkos dovanų keletą dide­
     lių armotų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -305,8 +221,8 @@ Nenurodyta
     Kautynėms kariuomenė rikiuodavosi įvairiai — eilėmis,
     trikampiais, keturkampiais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -325,8 +241,8 @@ Nenurodyta
     už keletos mylių, tarsi buvo mušama didžiausiais kūjais į šimtą
     priekalų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -342,8 +258,8 @@ Nenurodyta
     žiuočiai iššovė porą kartų iš patrankų, bet jos sumišimo sąjun­
     gininkų kariuomenėj nesukėlė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -357,8 +273,8 @@ Nenurodyta
     dos. Nors Žalgirio mūšyje patrankų buvo, bet jas mažai, tik
     pradžioje tevartojo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -374,8 +290,8 @@ Nenurodyta
     tardė. Buvo pasklidę gandai, esą jis padėjęs sukilėliams lieti
     patrankas, tačiau caro valdžia negalėjo to įrodyti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -396,8 +312,8 @@ Nenurodyta
     iš patrankų, iš šautuvų, iš lankų, o tuo metu nedidelis
     būrys dvarionių leidosi per upę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -547,7 +463,8 @@ Nenurodyta
 - id: c-171278
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 7"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 7."
   citata_originali: |
     T. Narbutas gana aktyviai dalyvavo 1830-1831 m. sukili­
     me. Tiesa, jis nekovojo su ginklu rankose. T. Narbutas buvo
@@ -564,7 +481,8 @@ Nenurodyta
 - id: c-176499
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 169"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 169."
   citata_originali: |
     Dėl keblaus upės perėjimo negalėjo ne­
     delsiant su jais susigrumti ir daugiau kaip tris valan­

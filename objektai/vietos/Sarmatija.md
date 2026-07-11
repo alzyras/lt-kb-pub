@@ -30,21 +30,6 @@ Narbutas cituoja geografą, kuris rašė, kad priešais Sarmatiją esančios že
 - t-001
   global_id: t-192793
   teiginys: "Narbutas cituoja geografą, kuris rašė, kad priešais Sarmatiją esančios žemės kartais atrodydavo kaip salos, o kartais kaip žemynas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "316613-317103; hash=6ba6343bec460604adc9d55101941eb8daed2f63c5b385a3441fd22b510f659d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Baltija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Sarmatija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Baltija: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sarmatija\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175563
 
@@ -52,21 +37,6 @@ Narbutas cituoja geografą, kuris rašė, kad priešais Sarmatiją esančios že
 - t-002
   global_id: t-192794
   teiginys: "Narbutas svarstė, kad Melos laikais priešais Sarmatiją plytėjusios žemės galėjo būti užliejamos ir kartais laikomos salomis."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "604937-605518; hash=3b42c43740d7aa34e9922bbe680a3a2408ad46dd99d97454f838c32ee8100938; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Baltija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Sarmatija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Baltija: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sarmatija\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175564
 - susijęs iš [[objektai/asmenys/Adomas Stanislovas Naruševičius.md#claim-t-191109|Adomas Stanislovas Naruševičius]]: Pasak Narbuto perteikiamų Naruševičiaus tyrimų, 161 m. gotai su karaliumi Filimeru kėlėsi iš Germanijos į Sarmatiją per Vyslos žemupį.
@@ -95,8 +65,8 @@ Narbutas cituoja geografą, kuris rašė, kad priešais Sarmatiją esančios že
     nutrūkstamas žemynas“. Negi Baltijos jūroje senovėje
     būta jūros potvynių ir atoslūgių?
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -118,8 +88,8 @@ Narbutas cituoja geografą, kuris rašė, kad priešais Sarmatiją esančios že
     galėjo būti, jog Melos laikais vis dėlto buvęs staigus
     vandens lygio kritimas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -130,7 +100,8 @@ Narbutas cituoja geografą, kuris rašė, kad priešais Sarmatiją esančios že
 - id: c-175563
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 173"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 173."
   citata_originali: |
     Po to
     tas pats geografas vardija tos pačios jūros, kurią vadina
@@ -152,7 +123,8 @@ Narbutas cituoja geografą, kuris rašė, kad priešais Sarmatiją esančios že
 - id: c-175564
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 337"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 337."
   citata_originali: |
     Palyginus vienus įrodymus su kitais, atrodo, jog
     gintaringą prūsų pakrantę kažkada išties sudarė salos.
@@ -173,4 +145,4 @@ Narbutas cituoja geografą, kuris rašė, kad priešais Sarmatiją esančios že
     - t-192794
 
 ## Ryšiai
-- Buvo kelionės vieta: [[objektai/asmenys/Filimeras]], [[objektai/grupes/Gotai]]
+- Buvo kelionės vieta: [[objektai/grupes/Gotai]]

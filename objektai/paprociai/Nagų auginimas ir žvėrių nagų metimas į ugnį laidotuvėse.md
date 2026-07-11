@@ -46,9 +46,6 @@ Nenurodyta
 - t-002
   global_id: t-07795
   teiginys: "Degindami mirusiuosius į ugnį mėtydavo meškos ir lūšies nagus, o kai kurie prieš mirtį augino nagus, kad galėtų įsikibti kopdami į dangų."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "184597-184919; hash=5ae2b04934e16090c643f422c5a56ec17e945437eb4bfdfb5a9a0b0cf8d66154; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
   pagrindžia:
     - c-09951
 ## Reikšmingi paminėjimai
@@ -61,8 +58,8 @@ Nenurodyta
         ir lūšies nagus, kiti prieš smertį patys nagų savo nepjaustę ir auginę, idant turėtų kuo įsikibti
         lipdami ir pasiilsėti galėtų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

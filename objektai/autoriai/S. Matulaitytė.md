@@ -41,16 +41,6 @@ Matulaitytė rašo apie astro­ nomijos mokslo įvedimą Vilniaus universitete X
 - t-001
   global_id: t-30970
   teiginys: "S. Matulaitytė rašė apie astronomijos mokslo įvedimą Vilniaus universitete XVIII a. ir astronomijos observatorijos įsteigimą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "225905-226334; hash=e42635c7f42283a6549896f2669ebea2555a263d61c6f9106936f402c028f417; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> A. Šidlauskas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "S. Matulaitytė: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "A. Šidlauskas: mention_match, author, gap=20"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"S. Matulaitytė\" parinktas kaip owner_note_path. Targetas \"A. Šidlauskas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-33133
 - susijęs iš [[objektai/autoriai/L. Truska.md#claim-t-30784|L. Truska]]: L. Truska parašė studiją „Emigracija iš Lietuvos 1868-1914 m.“.
@@ -73,8 +63,8 @@ Matulaitytė rašo apie astro­ nomijos mokslo įvedimą Vilniaus universitete X
     t. 29, 1969, 69-83 p.) ir astronomijos observatorijos įsteigimą (Ak­
     MD, t. 30, 1969, 121-129 p.).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

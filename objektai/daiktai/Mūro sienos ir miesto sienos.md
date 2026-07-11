@@ -66,17 +66,6 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
 - t-001
   global_id: t-55045
   teiginys: "Otono Didžiojo laikais Italijos miestai, saugodamiesi vengrų ir saracėnų antpuolių, apsitvėrė mūro sienomis."
-  semantiniai_rysiai: "Vengrai puolė Italija (0.84); Saracėnai puolė Italija (0.84)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "31142-31804; hash=b9608d251dcd59e9376b733f1bd6710ef5f6a02544a89170317c21ff4e658aa3; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Italija: 0.84"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Saracėnai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Italija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys nurodo saracėnų antpuolius, nuo kurių saugojosi Italijos miestai."
   pagrindžia:
     - c-55711
 
@@ -84,16 +73,6 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
 - t-002
   global_id: t-55046
   teiginys: "Krokuva Lešekui Juodajam buvo skolinga už svarbias privilegijas, svetimtaučių antplūdį ir gerai sutvirtintas mūro sienas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "39486-40026; hash=ba39cc90cfd2def8d10a33dfd8f7050c5876c69e881b092a359a3ddff2bdfed1; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Krokuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mūro sienos ir miesto sienos: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Krokuva: mention_match, place, gap=87"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mūro sienos ir miesto sienos\" parinktas kaip owner_note_path. Targetas \"Krokuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-85392
 
@@ -101,18 +80,6 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
 - t-003
   global_id: t-55047
   teiginys: "1505 m. Vilniaus gyventojams nurodyta apjuosti miestą mūro siena, o negalintiems jos statyti - tverti statinių tvorą."
-  temporaliniai_duomenys: "įvykio data: 1505 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "471124-471761; hash=0e856132f4167f3dd61e89c33892708f6896e31e6f65a6b8f037411e8c5cb6e2; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Išganytojo (Spaso) bažnyčia Vilniuje: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mūro sienos ir miesto sienos: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Išganytojo (Spaso) bažnyčia Vilniuje: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mūro sienos ir miesto sienos\" parinktas kaip owner_note_path. Targetas \"Išganytojo (Spaso) bažnyčia Vilniuje\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-55713
 
@@ -120,19 +87,6 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
 - t-007
   global_id: t-89428
   teiginys: "1330 m. Eberhardas iš Manheimo neįžengė į Rygą, kol miesto sienoje nebuvo išlaužta 30 uolekčių ilgio spraga."
-  temporaliniai_duomenys: "įvykio data: 1330 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys nebaigtas ir painus; citata pagrindžia konkretų faktą apie miesto sieną."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "755241-756133; hash=320dce04e1d0bf930d93bf19c1dc06edf7c71d9c4950f2319fca119fa6a9c618; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Eberhardas (Varmės vyskupas): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mūro sienos ir miesto sienos: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Eberhardas (Varmės vyskupas): mention_match, person, gap=44"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mūro sienos ir miesto sienos\" parinktas kaip owner_note_path. Targetas \"Eberhardas (Varmės vyskupas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-85389
 
@@ -140,16 +94,6 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
 - t-004
   global_id: t-89429
   teiginys: "Krokuva už geriausiai sutvirtintas mūro sienas ir svarbias privilegijas buvo skolinga Lešekui Juodajam."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "39486-40026; hash=ba39cc90cfd2def8d10a33dfd8f7050c5876c69e881b092a359a3ddff2bdfed1; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Krokuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mūro sienos ir miesto sienos: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Krokuva: mention_match, place, gap=35"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mūro sienos ir miesto sienos\" parinktas kaip owner_note_path. Targetas \"Krokuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-85392
 
@@ -157,16 +101,6 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
 - t-005
   global_id: t-89430
   teiginys: "Gedimino laikų Vilnius dar nebuvo bokštų ir mūro sienų saugomas miestas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "73578-74111; hash=ab191f2ba152584fe68df1083aacdea839058b98dbf5e6467d3576233785a3ad; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Bokštai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mūro sienos ir miesto sienos: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Bokštai: mention_match, place, gap=7"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mūro sienos ir miesto sienos\" parinktas kaip owner_note_path. Targetas \"Bokštai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-85390
 
@@ -174,20 +108,6 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
 - t-006
   global_id: t-89431
   teiginys: "1506 m. totorių grėsmės išsigandę vilniečiai apjuosė Vilnių mūro pylimu ir pašalino medinius statinius."
-  semantiniai_rysiai: "Totoriai puolė Sluckas (0.70); Totoriai puolė Minskas (0.70)"
-  temporaliniai_duomenys: "įvykio data: 1506 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalintas puslapio triukšmas; citata aiškiai remia faktą apie Vilniaus apjuosimą mūro pylimu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "471975-472544; hash=513bc221d29ec79f2c0eacb4cc80ed09b7f9107a22dc0abac9a4250c2fc7a75a; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Minskas: 0.70"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Totoriai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Minskas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citatos kontekste totoriai nusiaubė Minsko apylinkes, todėl pagrįstas puolimo ryšys su Minsku."
   pagrindžia:
     - c-85391
 - susijęs iš [[objektai/asmenys/Klemensas V.md#claim-t-59927|Klemensas V]]: Po Klemenso V vainikavimo prie Liono sugriuvusi mūro siena pražudė daug žmonių, o pats popiežius nukentėjo.
@@ -226,8 +146,8 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
     arba iš saracėnų išvaduotus miestus kvietė krikščionis, kad juo­
     se įsikūrę ateityje laiduotų šaliai saugumą nuo kitatikių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -248,8 +168,8 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
     dabar yra Aušros vartai, ketvirtuosius - ties Išganytojo (Spa-
     so) bažnyčia ir penktuosius - nuo Pilies.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -272,8 +192,8 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
     spraga. Tarė tada viena moteris: „Matyt, tas magistras labai storas, jeigu jam reikia
     tokios skylės ir negali įeiti pro kitus vartus kaip kiti krikščionys”.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -294,8 +214,8 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
     kokia Lenkijai buvo Boleslovo Didžiojo, o Henriko Paukšti-
     ninko - Vokietijai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -321,8 +241,8 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
     mediniai rūmai, tikriausiai, skirti karaliaus ir Elenos bu­
     veinei*.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -347,8 +267,8 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
     čių antplūdį ir geriausiai sutvirtintas mūro sienas - Lešekui Juo­
     dajam.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -406,7 +326,8 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
 - id: c-85389
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 256"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 256."
   citata_originali: |
     Apie Rygos miesto sugriovimą
 
@@ -502,6 +423,3 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
   pagrindzia:
     - t-89429
     - t-55046
-
-## Ryšiai
-- Mūro sienos ir miesto sienos priklausė [[objektai/vietos/Lionas]]

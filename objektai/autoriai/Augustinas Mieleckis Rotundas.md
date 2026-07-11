@@ -43,19 +43,6 @@ media_all_json: |-
 - t-001
   global_id: t-87998
   teiginys: "1560 m. vasario 12 d. Vilniaus vaitas Augustinas Mieleckis Rotundas Mikalojui Radvilai įteikė savo Lietuvos istoriją, kurios rankraštis yra dingęs."
-  temporaliniai_duomenys: "įvykio data: 1560 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatoje nurodytą datą, pareigas, adresatą ir rankraščio likimą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "25912-26557; hash=23e09236c8cd4a299ab35aafe6627cf264d09078427c5aecebe20e5021094ace; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Augustinas Mieleckis Rotundas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=61"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Augustinas Mieleckis Rotundas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-83978
 
@@ -63,16 +50,6 @@ media_all_json: |-
 - t-003
   global_id: t-87999
   teiginys: "Augustinas Mieleckis Rotundas buvo bajorų kilmės, nes miesto aktuose prie jo pavardės buvo pridedama „Nobilis“."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "566925-567342; hash=5677c014c352142286cc52420911e5cd8316bae630e0415403fafeae0b4527b7; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Bajorai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Augustinas Mieleckis Rotundas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Bajorai: mention_match, group, gap=35"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Augustinas Mieleckis Rotundas\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-83977
 
@@ -80,16 +57,6 @@ media_all_json: |-
 - t-004
   global_id: t-88000
   teiginys: "Augustinas Rotundas Mieleckis dokumente įvardytas abiejų teisių daktaru, karaliaus sekretoriumi, Stakliškių seniūnu ir Vilniaus vaitu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "814490-815403; hash=04de4bbed5258c70c1ee2dfd8e14bf0b300ae9cbca07a5d249ef4f0b5778de67; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Augustinas Rotundas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Augustinas Mieleckis Rotundas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Augustinas Rotundas: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Augustinas Mieleckis Rotundas\" parinktas kaip owner_note_path. Targetas \"Augustinas Rotundas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-83979
 
@@ -97,19 +64,6 @@ media_all_json: |-
 - t-002
   global_id: t-88001
   teiginys: "1560 m. vasario 12 d. Vilniaus vaitas Augustinas Mieleckis Rotundas Mikalojui Radvilai įteikė savo Lietuvos istoriją, kurios rankraštis yra dingęs."
-  temporaliniai_duomenys: "įvykio data: 1560 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Nors citatoje yra OCR triukšmo, teiginys yra aiškus ir tiesiogiai pagrįstas jos turiniu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "421347-421982; hash=b5976d253fcb229b1e8cd8bb30d9b750ef52a5ae34d69c6e41b3253dc4d05f87; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Augustinas Mieleckis Rotundas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=61"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Augustinas Mieleckis Rotundas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-83980
 ## Reikšmingi paminėjimai
@@ -131,8 +85,8 @@ media_all_json: |-
     ties tą darbą užmetęs, janociana, Vol.
     J, p. 223-227.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -161,8 +115,8 @@ media_all_json: |-
     Mikalojui Radvilai 1560 m. vasario 12 dieną įteikdamas jam
     savąją Lietuvos istoriją, kurios rankraštis yra dingęs.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -194,8 +148,8 @@ media_all_json: |-
     nostro sua sigilla apponerent. Georgius Radziwił Episcopus
     Vilnen. Dux Olicae manu propria.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -228,8 +182,8 @@ media_all_json: |-
     Il
     TOMAS.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

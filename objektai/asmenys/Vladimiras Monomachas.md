@@ -39,14 +39,6 @@ Tik 1101 metais Vladimiras Monomachas laimėjo didelę pergalę prieš polovieč
 - t-001
   global_id: t-194922
   teiginys: "Tik 1101 metais Vladimiras Monomachas laimėjo didelę pergalę prieš poloviečius prie Sutenio."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "190245-190573; hash=d2f228e6b3b5d6ee375261fda6c521c502437bd709074e5f7b6f2e235507c531; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-177318
 - susijęs iš Volga: Narbutas pasakoja, kad po kelių pralaimėjimų poloviečiai apie 1127 m. buvo priversti pasitraukti už Volgos.
@@ -64,8 +56,8 @@ Tik 1101 metais Vladimiras Monomachas laimėjo didelę pergalę prieš polovieč
     1121 metais patirto iš graikų sutriuškinimo buvo priversti
     apie 1127 metus pasitraukti už Volgos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -76,7 +68,8 @@ Tik 1101 metais Vladimiras Monomachas laimėjo didelę pergalę prieš polovieč
 - id: c-177318
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 106"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 106."
   citata_originali: |
     Ne sy­
     kį jie buvo smarkiai sutriuškinti, tačiau nebuvo taip pa­

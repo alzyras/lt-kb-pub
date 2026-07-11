@@ -33,16 +33,6 @@ N ors Rusijos imperijos vidaus politika nerusiškų imperijos regionų ir „pak
 - t-001
   global_id: t-18775
   teiginys: "Aleksandro III laikais rusų nacionalizmas tapo vyraujančiu Rusijos imperijos vidaus politikos principu."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "214949-215681; hash=8e52bb92818ce0ca9fbc0b3db7201a3f818aaec6fe5fb66029a3216e4cbbfb78; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Rusai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aleksandras III: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Rusai: mention_match, group, gap=23"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksandras III\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-21560
 ## Reikšmingi paminėjimai
@@ -64,8 +54,8 @@ N ors Rusijos imperijos vidaus politika nerusiškų imperijos regionų ir „pak
     po baudžiavos panaikinimo, valstiečius pavertus savarankišku luomu, tai
     įmanoma pasiekti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

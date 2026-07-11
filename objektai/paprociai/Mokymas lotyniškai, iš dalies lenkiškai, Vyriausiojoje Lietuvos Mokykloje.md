@@ -53,9 +53,6 @@ Nenurodyta
 - t-002
   global_id: t-67171
   teiginys: "Vyriausiojoje Lietuvos Mokykloje buvo dėstomi visi to meto universitetiniai mokslai."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "852613-852854; hash=52cce45281a4dcd1e72c79e715d852d1c89f949892b9fe8b1ce33b0f8cf6469b; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-67183
 
@@ -63,9 +60,6 @@ Nenurodyta
 - t-001
   global_id: t-67172
   teiginys: "Vyriausiojoje Lietuvos Mokykloje dauguma dalykų tebebuvo dėstoma lotyniškai, o kai kurie dalykai - lenkiškai."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "852708-853020; hash=1d20cabef89448d495412bc01378938ebc924add788d5befaa5af2115ea2036b; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-67184
 ## Reikšmingi paminėjimai
@@ -80,8 +74,8 @@ Nenurodyta
     buvo mokoma gamtos mokslų, matematikos ir medicinos. Tuo būdu
     V. Mokykloje buvo dėstomi visi to meto universitetiniai mokslai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -98,8 +92,8 @@ Nenurodyta
     kai — lenkiškai (galutinai lenkų kalba čia buvo įvesta tik 1816 m.,
     t. y. jau universiteto laikais).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

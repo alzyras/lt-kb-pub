@@ -42,19 +42,6 @@ Nenurodyta
 - t-001
   global_id: t-185760
   teiginys: "Pasak Kojelavičiaus, Rygos arkivyskupo katedros dvasininkai pasidalijo kolegijos valdas ir išsižadėjo skaistybės."
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1329966-1330504; hash=3c05c9cdf4abbfe5cb122beff8f5e1fbd8fa8d1be629a5d0d74037ba93c56f99; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Liuteronai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Pasak Kojelavičiaus, Rygos katedros kolegijos atsimetimas ir karaliaus lapkričio 26 d. apsaugos raštas: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Liuteronai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pasak Kojelavičiaus, Rygos katedros kolegijos atsimetimas ir karaliaus lapkričio 26 d. apsaugos raštas\" parinktas kaip owner_note_path. Targetas \"Liuteronai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-169121
 ## Reikšmingi paminėjimai
@@ -76,8 +63,8 @@ Nenurodyta
     nors jie, pamynę dieviškus įstatymus, visai nebijojo ir
     žmonių.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -88,7 +75,8 @@ Nenurodyta
 - id: c-169121
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 736"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 736."
   citata_originali: |
     Tais pačiais metais kara­
     liaus globojama liuteronų at­

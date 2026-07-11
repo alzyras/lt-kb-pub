@@ -30,12 +30,6 @@ Kol ieškojo valčių ir plaustų, iš kurių ketino pastatyti tiltą pėstinink
 - t-001
   global_id: t-193460
   teiginys: "Kol ieškojo valčių ir plaustų, iš kurių ketino pastatyti tiltą pėstininkams bei pabūklams persikelti, šešiolika tūkstančių lietuvių raitelių įniko ieškotis brastos, tačiau, jos nesuradę, plaukte perplau kė į kitą krantą netekę vos vieno savo vyro."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1120428-1120928; hash=56954fb62dd7f319ffd4f10cda760f9ae791840cc58895b0ecdc03057e033c67; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176165
 ## Reikšmingi paminėjimai
@@ -59,8 +53,8 @@ Kol ieškojo valčių ir plaustų, iš kurių ketino pastatyti tiltą pėstinink
     neatėjo, jog jis negalės padaryti to paties, ką jo akyse
     padarė kiti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

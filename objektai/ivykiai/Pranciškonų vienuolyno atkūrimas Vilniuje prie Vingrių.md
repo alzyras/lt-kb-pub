@@ -48,20 +48,6 @@ Nenurodyta
 - t-002
   global_id: t-186571
   teiginys: "Lietuvos metraštis pasakoja, kad Petras Goštautas pranciškonams įkūrė vienuolyną Smėlynėje prie Vingrių."
-  teiginio_tipas: "saltinio_teiginys"
-  semantiniai_rysiai: "Petras Goštautas pastatė Vilnius (0.62)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "133207-133802; hash=b1559c2273af52a34e6da34b221d46d3c0a42f1cdb4a3c71d03fd64f8c52871c; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
-  ryšio_patikimumas: "pastate -> Vilnius: 0.62"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Petras Goštautas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Petras Goštautas įkūrė vienuolyną, bet konkreti Smėlynės/Vingrių vieta nėra atskiras kandidatas; Vilnius minimas tik platesniame kontekste."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-169882
 
@@ -69,17 +55,6 @@ Nenurodyta
 - t-003
   global_id: t-186572
   teiginys: "Lietuvos metraštis šį vienuolyną pateikia kaip pirmą krikščionišką Romos tikėjimo vienuolyną Vilniuje."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "133207-133802; hash=b1559c2273af52a34e6da34b221d46d3c0a42f1cdb4a3c71d03fd64f8c52871c; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Pranciškonų vienuolyno atkūrimas Vilniuje prie Vingrių: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=71"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pranciškonų vienuolyno atkūrimas Vilniuje prie Vingrių\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-169882
 
@@ -87,20 +62,6 @@ Nenurodyta
 - t-001
   global_id: t-186573
   teiginys: "Lietuvos metraštis pasakoja, kad po pranciškonų nužudymo Petras Goštautas atsivedė į Vilnių kitus pranciškonus."
-  teiginio_tipas: "saltinio_teiginys"
-  semantiniai_rysiai: "Petras Goštautas keliavo į Vilnius (0.83); Pranciškonų ordinas keliavo į Vilnius (0.80)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "133207-133802; hash=b1559c2273af52a34e6da34b221d46d3c0a42f1cdb4a3c71d03fd64f8c52871c; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
-  ryšio_patikimumas: "keliavo_i -> Vilnius: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Petras Goštautas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai rodo Petro Goštauto judėjimą su pranciškonais į Vilnių."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-169882
 ## Reikšmingi paminėjimai
@@ -123,8 +84,8 @@ Nenurodyta
     lių vienuolynas 5 .
     ao
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

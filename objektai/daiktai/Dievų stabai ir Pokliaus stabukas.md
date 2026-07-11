@@ -45,14 +45,6 @@ Nenurodyta
 - t-001
   global_id: t-189708
   teiginys: "Narbutas spėjo, kad minėtame panteone galėjo būti dievų stabų rinkinys, nors smulkmenų apie jį neturėta."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "475434-475638; hash=ddbdcd8117e2a64c11b5a37bcddd0a35a9ec02a82bd0712cbd55281cb8439c77; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172591
 
@@ -60,14 +52,6 @@ Nenurodyta
 - t-002
   global_id: t-189709
   teiginys: "Narbutas teigė, kad tikėjimo vadovai veikė visuomenę nešiodamiesi baisios išvaizdos Pokliaus stabuką ir pranašaudami dievų bausmes bei dovanas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "502685-503195; hash=d9595a4bf9768213fd50d707b540c6079fc7ecb9d1264043853a4f16910f7482; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172592
 ## Reikšmingi paminėjimai
@@ -84,8 +68,8 @@ Nenurodyta
     kalnas, iškili vieta. Tačiau smulkmenų apie tą panteoną ne­
     turime; reikėtų manyti, kad jame turėjo būti stabų rinkinys.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -106,8 +90,8 @@ Nenurodyta
     sirodyti, ir kitokiais panašiais prasimanymais. Mat sumanęs
     14 Schütz.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -137,7 +121,8 @@ Nenurodyta
 - id: c-172592
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 287"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 287."
   citata_originali: |
     Politinė padėtis jau buvo
     nepalanki senajai religinei santvarkai, todėl tikėjimo galvos

@@ -41,12 +41,6 @@ Bičiūno tos misterijos pastabos ir komentarai. Bičiūno pastabos ir komentara
 - t-002
   global_id: t-34854
   teiginys: "V. Bičiūno pastabos ir komentarai padėjo skaitytojams suprasti „Likimo kelių“ autoriaus intencijas, tikslą ir veikalo idėją."
-  temporaliniai_duomenys: "įvykio data: 1930 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys per silpnas, citata pagrindžia komentarų reikšmę."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "733218-733505; hash=8f5eeeba5b4c4b194e7b5aa287ccb9af838685f33e4fcfcf5aa71e79d4978717; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-36079
 
@@ -54,16 +48,6 @@ Bičiūno tos misterijos pastabos ir komentarai. Bičiūno pastabos ir komentara
 - t-001
   global_id: t-34855
   teiginys: "V. Bičiūnas parengė Vinco Krėvės misterijos „Likimo keliais“ pastabas ir komentarus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "732623-733044; hash=b7d9fdd8ace31dd80bb32b8acce5adf4cf9ccf685fde8bdab8a2ad6ba1b2b080; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kaimas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "V. Bičiūnas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Kaimas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"V. Bičiūnas\" parinktas kaip owner_note_path. Targetas \"Kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-36080
 ## Reikšmingi paminėjimai
@@ -77,8 +61,8 @@ Bičiūno tos misterijos pastabos ir komentarai. Bičiūno pastabos ir komentara
     kalą suprantamą net ir mažiau išsilavinusiam skaitytojui.
     („Karys” Nr. 22, 1930 m.).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -95,8 +79,8 @@ Bičiūno tos misterijos pastabos ir komentarai. Bičiūno pastabos ir komentara
     siklausęs motinos pasakų apie karalių Žvaigždikį ir karalienę Panikę,
     ryžtasi prikelti iš miego Žvaigždikį, atseit, pačią Lietuvą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -30,21 +30,6 @@ Narbutas cituoja Nibūrą, kad pelazgų kolonijų pasklidimas esąs ne prielaida
 - t-001
   global_id: t-191802
   teiginys: "Narbutas cituoja Nibūrą, kad pelazgų kolonijų pasklidimas esąs ne prielaida, o tvirtas istorinis įsitikinimas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "67905-68411; hash=34d690facb87a79698334368c50d7fdb78c8ce521d0208e2112e68138887a0bb; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Pelazgai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Nibūras, Römische Geschichte: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Pelazgai: mention_match, group, gap=12"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Nibūras, Römische Geschichte\" parinktas kaip owner_note_path. Targetas \"Pelazgai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174684
 ## Reikšmingi paminėjimai
@@ -64,8 +49,8 @@ Narbutas cituoja Nibūrą, kad pelazgų kolonijų pasklidimas esąs ne prielaida
     ko apie juos: „Tai ne prielaida, kalbu kuo tvirčiausiai isto­
     riškai įsitikinęs“.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -76,7 +61,8 @@ Narbutas cituoja Nibūrą, kad pelazgų kolonijų pasklidimas esąs ne prielaida
 - id: c-174684
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 40"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 40."
   citata_originali: |
     Šia prasme mūsų is­
     torija yra pernelyg jauna, nes, kiek siekia jos atmintis,

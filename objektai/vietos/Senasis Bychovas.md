@@ -30,21 +30,6 @@ Narbutas Senojo Bychovo apskrities gydytoją Henerį apibūdino kaip istorinių 
 - t-001
   global_id: t-192854
   teiginys: "Narbutas Senojo Bychovo apskrities gydytoją Henerį apibūdino kaip istorinių dalykų tyrinėtoją, ilgai gyvenusį Baltarusijoje."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "697194-697824; hash=fb59df3e07d02aaa6d37ac62f568532218221c5c9259db3a02b2dd7571b1a774; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Baltarusija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Senasis Bychovas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Baltarusija: mention_match, place, gap=94"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Senasis Bychovas\" parinktas kaip owner_note_path. Targetas \"Baltarusija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175624
 ## Reikšmingi paminėjimai
@@ -66,8 +51,8 @@ Narbutas Senojo Bychovo apskrities gydytoją Henerį apibūdino kaip istorinių 
     žiuje rašytos slavų kalba Dombrovskio ar Dubrovskio;
     pirmoje jos dalyje, 31 puslapyje, yra pilkapių aprašymas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -78,7 +63,8 @@ Narbutas Senojo Bychovo apskrities gydytoją Henerį apibūdino kaip istorinių 
 - id: c-175624
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 383"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 383."
   citata_originali: |
     Tačiau tuos, kurie ką nors
     rasdavo, ištikdavo nelaimės, be to, tokių radinių saugo­

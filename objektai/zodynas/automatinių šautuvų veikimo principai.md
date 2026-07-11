@@ -32,16 +32,6 @@ AK-47 automatika veikia dujų nuvedimo principu, kai dalis kulką iš vamzdžio 
 - t-001
   global_id: t-38745
   teiginys: "AK-47 automatika veikia dujų nuvedimo principu, kai dalis kulką iš vamzdžio išstumiančių parako dujų grąžina spyną į galinę padėtį ir tokiu būdu leidžia kitam šoviniui iš dėtuvės patekti į šovinio lizdą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1041316-1041894; hash=5d956ec03a6334cc2471344a078172180e2cd033268517049fd419b4d5613e12; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Parakas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "automatinių šautuvų veikimo principai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Parakas: mention_match, thing, gap=51"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"automatinių šautuvų veikimo principai\" parinktas kaip owner_note_path. Targetas \"Parakas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-40549
 ## Reikšmingi paminėjimai
@@ -59,8 +49,8 @@ AK-47 automatika veikia dujų nuvedimo principu, kai dalis kulką iš vamzdžio 
     bet pusiau laisvos spynos atatrankos principu (dažniau naudojamu
     pistoletų ir pistoletų-kulkosvaidžių konstrukcijose).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -42,12 +42,6 @@ Nenurodyta
 - t-001
   global_id: t-193478
   teiginys: "Ir viena, ir kita šalis nuolatos puldinėjo priešo kai mus; tuo pat metu, mirus Lenkijos karaliui Kazimierui, lietuviai ėmė rengtis naujam karui, tikėdamiesi atgau ti Volynę."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "440759-442011; hash=f25a0ba789d4d3f93d2ac456aaf3b264892cc3148f0b5ec4a748bf8880d3a760; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176179
 ## Reikšmingi paminėjimai
@@ -85,8 +79,8 @@ Nenurodyta
     kymu dvejus metus statytą iš degtų plytų ir pareika­
     lavusią didelių išlaidų, paliepė iš pamatų sugriauti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -97,7 +91,8 @@ Nenurodyta
 - id: c-176179
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 252"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 252."
   citata_originali: |
     Ir viena, ir kita šalis nuolatos puldinėjo priešo kai­
     mus; tuo pat metu, mirus Lenkijos karaliui Kazimierui,

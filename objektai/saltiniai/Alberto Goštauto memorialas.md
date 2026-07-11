@@ -36,12 +36,6 @@ Pagaliau, bene svarbiausias liudininkas Alberto Goš tauto naudai yra jo paties 
 - t-001
   global_id: t-194155
   teiginys: "Pagaliau, bene svarbiausias liudininkas Alberto Goš tauto naudai yra jo paties memorialas lotynų kalba, rašytas 1525 m. Lenkijos karaliaus ir Lietuvos did. ku nigaikščio Žygimanto II Kazimieraičio žmonai karalie nei Bonai Sforcai 5 8 ."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "62348-62685; hash=b1ea00d6e89ee120dd43cde149a4c98d23e269bf31a57747c3507a94d3a2fbf6; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176768
 ## Reikšmingi paminėjimai
@@ -58,8 +52,8 @@ Pagaliau, bene svarbiausias liudininkas Alberto Goš tauto naudai yra jo paties 
     kreipė J. Ochmanskis 5 9 . Sis įdomus Renesanso epochos
     5 1  2r.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

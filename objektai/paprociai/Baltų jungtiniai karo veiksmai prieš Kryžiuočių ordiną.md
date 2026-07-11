@@ -68,20 +68,6 @@ Nenurodyta
 - t-002
   global_id: t-59725
   teiginys: "Sembų ir lietuvių bendri karo veiksmai siejami su Ordinui priklausiusios Klaipėdos pilies apgultimi XIII a. šeštajame dešimtmetyje."
-  semantiniai_rysiai: "Mindaugas (valdovas, XIII a.) valdė Lietuva (0.95); Lietuviai kariavo prieš Kryžiuočių ordinas (0.86); Sembai buvo sąjungininkas su Lietuviai (0.84); Sūduviai buvo sąjungininkas su Lietuviai (0.84)"
-  temporaliniai_duomenys: "įvykio data: 1262 m.; įvykio data: 1263 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata remia aiškų teiginį apie bendrus veiksmus, pašalintas nutrūkęs fragmentas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "19782-20624; hash=3af99cc94c86400dab3fffa299401ae29a540920617d7279b1275a2f99568288; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde -> Lietuva: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Mindaugas (valdovas, XIII a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Frazė tiesiogiai įvardija Mindaugo valdomą Lietuvą."
   pagrindžia:
     - c-60357
 
@@ -89,20 +75,6 @@ Nenurodyta
 - t-003
   global_id: t-59726
   teiginys: "Mindaugo žūtis, netvirta Lietuvos vidaus padėtis ir sudėtinga tarptautinė aplinka sunkino bendrą kovą prieš Ordino agresiją."
-  semantiniai_rysiai: "Sūduviai buvo sąjungininkas su Lietuviai (0.85); Sūduviai kariavo prieš Kryžiuočių ordinas (0.84); Lietuviai kariavo prieš Kryžiuočių ordinas (0.84); Žiemgaliai kariavo prieš Kryžiuočių ordinas (0.78)"
-  temporaliniai_duomenys: "įvykio data: 1277 m.; įvykio data: 1280 m.; įvykio data: 1282 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra faktinis, gramatiškas ir paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "22952-23876; hash=6c3ef2651dd6653c731dc39530c259225c73274b589b8b6026d2a39dcfb8af97; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sajungininkas_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Sūduviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Jungtinė kariuomenė rodo sūduvių ir lietuvių sąjunginius veiksmus."
   pagrindžia:
     - c-60360
 
@@ -110,20 +82,6 @@ Nenurodyta
 - t-004
   global_id: t-59727
   teiginys: "Dalis nadruvių, pagudėnų, sūduvių ir bartų pasitraukė į Lietuvos valstybę ir dalyvavo kovoje prieš Ordino bei Aukso ordos agresiją."
-  semantiniai_rysiai: "Lietuviai kariavo prieš Kryžiuočių ordinas (0.86); Sūduviai kariavo prieš Kryžiuočių ordinas (0.82); Bartai kariavo prieš Kryžiuočių ordinas (0.82); Gediminas kariavo prieš Kryžiuočių ordinas (0.82); Sūduviai kariavo prieš Auksinė Orda (0.78)"
-  temporaliniai_duomenys: "įvykio data: 1285 m.; įvykio data: 1292 m.; įvykio data: 1293 m.; įvykio data: 1337 m.; įvykio data: 1410 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Perrašyta, kad būtų aiškesnis bendros kovos objektas ir pašalintas neapibrėžtumas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "24186-24893; hash=a059be6a4c4df399093e0a3636c7950054523dad30aadfd6928a4a50535939b2; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Kryžiuočių ordinas: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata tiesiogiai mini lietuvių kariuomenę, naikinusią kryžiuočių pilis."
   pagrindžia:
     - c-60358
 
@@ -131,20 +89,6 @@ Nenurodyta
 - t-001
   global_id: t-59728
   teiginys: "Lietuvos ir vakarinių baltų bendradarbiavimas ypač išryškėjo prasidėjus kovai prieš Pavyslyje įsikūrusį Kryžiuočių ordiną."
-  semantiniai_rysiai: "Baltai kariavo prieš Kryžiuočių ordinas (0.76)"
-  temporaliniai_duomenys: "įvykio data: 1236 m.; įvykio data: 1242 m.; įvykio data: 1243 m.; įvykio data: 1245 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalinta netiksli autorinė įžanga ir suformuotas glaustas faktinis sakinys."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "19177-19779; hash=60970491205c871f82a1ce6fd444a958f27d0612ee747cba5fdbeadc10b515dd; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Kryžiuočių ordinas: 0.76"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Baltai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Vakarinių baltų bendradarbiavimas pateikiamas kovos prieš Kryžiuočių ordiną kontekste."
   pagrindžia:
     - c-60359
 ## Reikšmingi paminėjimai
@@ -164,8 +108,8 @@ Nenurodyta
     1263 m.) plačiu frontu nuo Dauguvos iki Vyslos sėkmingai kovojo prieš Ordino agresiją,
     aktyviai rėmė, kiek leido sąlygos, prūsų  ir jotvingių—sūduvių kovą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -185,8 +129,8 @@ Nenurodyta
     stengėsi likviduoti naują Ordino agresijos židinį, įkurtą prie Nemuno šalia Veliuonos,—
     Bajerburgą36. Net 1410 m.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -205,8 +149,8 @@ Nenurodyta
     liudija 1245 m. dokumentai. Prie pamarėnų—prūsų sąjungos prisidėjo jotvingiai  ir
     lietuviai29.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -228,8 +172,8 @@ Nenurodyta
     po Ordino užnugarį (Skomantas, Nameisis — pavaldūs Traideniui). Tai rodo glaudžius
     prūsų, jotvingių, lietuvių ir kt. baltų ryšius, jų bendrą kovą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -240,7 +184,8 @@ Nenurodyta
 - id: c-60357
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 11"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 11."
   citata_originali: |
     Sembų ir lietuvių (žemaičių) bendrus veiksmus galima įžiūrėti Ordinui priklausiusios
     Klaipėdos pilies apgulties eigoje (XIII a. 6-asis dešimtmetis)30. Priešiškuose lietuviams
@@ -262,7 +207,8 @@ Nenurodyta
 - id: c-60358
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 12"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 12."
   citata_originali: |
     Užgrobtų žemių gyventojai buvo pavergti, bet dalis nadruvių, pagudėnų, sūduvių,
     bartų ir kt. rado prieglobstį Lietuvos valstybės teritorijoje (III, 179, 191, 211, 217, 219,
@@ -284,7 +230,8 @@ Nenurodyta
 - id: c-60359
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 11"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 11."
   citata_originali: |
     Lietuvos  ir vakarinių baltų (prūsų, jotvingių) bendradarbiavimas tapo ypač ryškus
     tada, kai prasidėjo kova prieš pavyslyje įsikūrusį Kryžiuočių ordiną. Lietuviai, atrėmę ir
@@ -304,7 +251,8 @@ Nenurodyta
 - id: c-60360
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 12"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 12."
   citata_originali: |
     Netikėtas Mindaugo žuvimas, netvirta padėtis Lietuvos viduje, sudėtinga tarptautinė
     aplinka sunkino bendrą kovą prieš Ordino agresiją. Vis dėlto Lietuva ir toliau liko pagrindinė,

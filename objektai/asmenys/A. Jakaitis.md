@@ -33,19 +33,6 @@ Ramanausko grupė (2-ojo pulko batalionas) iš Beržininko žygiuoti per Gibus i
 - t-001
   global_id: t-39978
   teiginys: "Mjr. A. Jakaitis vadovavo 10-ajam pulkui, kuris iš Šipliškių turėjo žygiuoti į Suvalkus, o iš ten į Augustavą."
-  semantiniai_rysiai: "A. Jakaitis keliavo į Augustavas (0.72)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "817595-818040; hash=aa0579e5fa9b1b7b5689d09aa8f5b59006e54cb817d81232bf8d8395c67a0af6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Augustavas: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "A. Jakaitis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Augustavas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas nurodo A. Jakaičio vadovaujamo pulko numatytą žygį į Augustavą."
-  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-44247
 ## Reikšmingi paminėjimai
@@ -67,8 +54,8 @@ Ramanausko grupė (2-ojo pulko batalionas) iš Beržininko žygiuoti per Gibus i
     o iš ten į Augustavą, dešiniu sparnu siekti
     Vokietijos sieną.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -100,6 +87,3 @@ Ramanausko grupė (2-ojo pulko batalionas) iš Beržininko žygiuoti per Gibus i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-39978
-
-## Ryšiai
-- A. Jakaitis keliavo į [[objektai/vietos/Augustavas]]

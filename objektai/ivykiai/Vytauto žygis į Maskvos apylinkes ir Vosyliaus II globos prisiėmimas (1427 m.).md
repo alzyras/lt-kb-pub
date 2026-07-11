@@ -56,17 +56,6 @@ Nenurodyta
 - t-001
   global_id: t-35919
   teiginys: "Vytautas surengė žygį į Maskvos apylinkes, norėdamas suvaldyti jam nepaklusnius Okos ir Dono aukštupių kunigaikščius."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) surengė žygį į Maskva (0.92)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "350158-350633; hash=b10c309040c67b6880c77ac5b96802dec2ba96b426ce0ad7c67ff326c6c66d60; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "surenge_zygi_i -> Maskva: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Maskva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo Vytauto žygį į Maskvos apylinkes."
   pagrindžia:
     - c-37090
 
@@ -74,17 +63,6 @@ Nenurodyta
 - t-002
   global_id: t-35920
   teiginys: "Tapęs savo duktėno globėju ir Maskvos kunigaikštijos protektoriumi, Vytautas iškilo aukščiau kitų rusų kunigaikščių."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) valdė Maskva (0.70)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "350432-351195; hash=dc04081615b4c79b828538263341aa206bd4ea650365bd6b0032f9de0b4a19fd; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde -> Maskva: 0.70"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Maskva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata nurodo, kad Vytautas tapo Maskvos kunigaikštijos protektoriumi; tai artima valdymo santykiui."
   pagrindžia:
     - c-38332
 ## Reikšmingi paminėjimai
@@ -101,8 +79,8 @@ Nenurodyta
     sūnumi Vosylių II ir, pildydama savo mirusio vyro valią, prašė
     paimti sūnų savo globon, paliekant jam jo valstybę^2 ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -125,8 +103,8 @@ Nenurodyta
     nų kelio; toliausiai Vytautas nuėjo iki Okos prieupio Zna, už
     Pronsko (visai netoli dabartinės Penzos).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

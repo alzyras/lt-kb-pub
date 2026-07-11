@@ -50,17 +50,6 @@ Nenurodyta
 - t-001
   global_id: t-62350
   teiginys: "Prūsų kariuomenė apsiautė Kulmenzės miestą, o jos vadas pažadėjo pasitraukti mainais į sužeisto prūso grąžinimą."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "451141-451824; hash=1660da2fb1f55cd9892fcd6bcc35905357db90d0fa9a44a57d33c07e926ca59e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kulmenzė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kulmenzės miesto apgula ir sužeisto prūso iškeitimas (miestas): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Kulmenzė: mention_match, place, gap=26"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kulmenzės miesto apgula ir sužeisto prūso iškeitimas (miestas)\" parinktas kaip owner_note_path. Targetas \"Kulmenzė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-62926
 ## Reikšmingi paminėjimai
@@ -80,8 +69,8 @@ Nenurodyta
     nuo miesto ir nebeskriausti krikščionių, jeigu jiems būsiąs atiduotas šis sužeistasis, o
     šitaip abi šalys ir padarė.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -92,7 +81,8 @@ Nenurodyta
 - id: c-62926
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 141"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 141."
   citata_originali: |
     Apie Kulmenzės miesto apgulą
 

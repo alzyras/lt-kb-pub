@@ -32,17 +32,6 @@ Dusburgietis teigia, kad apie 3 brolių ir 40 vyrų nužudymą Netrukus po to du
 - t-001
   global_id: t-60435
   teiginys: "Skumas ir Stucė su didele kariuomene patraukė prie Baigos."
-  semantiniai_rysiai: "Skumas surengė žygį į Baiga (0.90); Stucė surengė žygį į Baiga (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "431426-431660; hash=a47355eec1f908b633856997d767e83c115ca4fb04ca8058e8f30acab0baf962; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "surenge_zygi_i -> Baiga: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Skumas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Baiga: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Skumas su kariuomene patraukė prie Baigos, tai tiesioginis karinio žygio ryšys."
   pagrindžia:
     - c-61067
 - susijęs iš [[objektai/asmenys/Stucė.md#claim-t-60440|Stucė]]: Stucė kartu su Skumu ir didele kariuomene patraukė prie Baigos.
@@ -60,8 +49,8 @@ Dusburgietis teigia, kad apie 3 brolių ir 40 vyrų nužudymą Netrukus po to du
     patraukė prie Baigos. Broliai su savo kariais, jiems priešindamiesi, nukovė du kilmingus
     prūsus.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -72,7 +61,8 @@ Dusburgietis teigia, kad apie 3 brolių ir 40 vyrų nužudymą Netrukus po to du
 - id: c-61067
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 134"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 134."
   citata_originali: |
     138 (133). Apie 3 brolių ir 40 vyrų nužudymą
 
@@ -88,5 +78,4 @@ Dusburgietis teigia, kad apie 3 brolių ir 40 vyrų nužudymą Netrukus po to du
     - t-60435
 
 ## Ryšiai
-- Sąjungininkai: [[objektai/asmenys/Stucė]]
 - Skumas surengė žygį į [[objektai/vietos/Baiga]]

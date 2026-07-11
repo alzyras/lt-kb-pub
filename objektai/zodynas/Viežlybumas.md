@@ -39,9 +39,6 @@ Vartojamos formos: `viežlybumą`, `viežlybai`, `viežlybos`.
 - t-004
   global_id: t-07649
   teiginys: "Viežlybumą moterys turėjo saugoti namuose kartu su ugnimi."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "95609-95934; hash=fd0087658e9089cf733896293385c965c75cc61b424d62e658e9c3de838f77e1; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
   pagrindžia:
     - c-09581
     - c-09582
@@ -50,9 +47,6 @@ Vartojamos formos: `viežlybumą`, `viežlybai`, `viežlybos`.
 - t-003
   global_id: t-07650
   teiginys: "Viežlybumas siejamas su namuose saugota dora, švara ir tvarkingu gyvenimu."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "95609-95934; hash=fd0087658e9089cf733896293385c965c75cc61b424d62e658e9c3de838f77e1; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
   pagrindžia:
     - c-09581
 ## Reikšmingi paminėjimai
@@ -62,8 +56,8 @@ Vartojamos formos: `viežlybumą`, `viežlybai`, `viežlybos`.
   citata_originali: |
     motriškosios varė plikį^377 laukan iš kiemo, o viežlybumą^378 namuose saugojo. Nesgi turėjo viežlybai^379 elgtis ir gyventi, jei iki šiai dienai tebėra jų kalboje, drabužį gerbiant, minavojami žodžiai: žluginti, skalbti, velėti, trinkti, prausti, plauti, mazgoti, balinti, skalurti, plūdurti, šviesti, baltinti ir anuoti^380.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -75,8 +69,8 @@ Vartojamos formos: `viežlybumą`, `viežlybai`, `viežlybos`.
   citata_originali: |
     didžiausias pasiėmimas kiekvienos žmonos yra saugoti namuose ugnį ir viežlybumą užlaikyti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

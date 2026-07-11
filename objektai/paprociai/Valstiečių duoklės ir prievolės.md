@@ -56,16 +56,6 @@ Nenurodyta
 - t-005
   global_id: t-05370
   teiginys: "Valstiečių prievolės dvarui gausėjo, o iš valstiečio kiemo reikėjo siųsti vis daugiau darbo rankų į dvaro laukus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "101397-101881; hash=c4332b5d8c46703210f7b6d51d0a91a302c10f9fe7d50af12a138525e3051773; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Bajorai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Valstiečių duoklės ir prievolės: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Bajorai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Valstiečių duoklės ir prievolės\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-05435
 
@@ -73,16 +63,6 @@ Nenurodyta
 - t-008
   global_id: t-97142
   teiginys: "Kai kurių sričių valstiečiai greta duoklių produktais ir gaminiais anksti mokėjo sidabrinę duoklę pinigais."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "341462-342001; hash=5f9623fbd627d9d41d444d1c02143ba26ea6f799adc2ac5e39b1264a2cff81d1; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kaunas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Valstiečių duoklės ir prievolės: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Kaunas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Valstiečių duoklės ir prievolės\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-91655
 
@@ -90,16 +70,6 @@ Nenurodyta
 - t-007
   global_id: t-97143
   teiginys: "XV a. pradžioje, Vytauto laikais, dauguma Lietuvos valstiečių dar buvo laisvieji ūkininkai."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "hash=efce20df5c3b83021a719f6e22db2490f2394a9ccf2bea59a567cad7a15aacda; match=not_found; occurrences=0"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Valstiečių duoklės ir prievolės: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=9"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Valstiečių duoklės ir prievolės\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-91653
 ## Reikšmingi paminėjimai
@@ -117,8 +87,8 @@ Nenurodyta
     lakus », gausėjo. Vis daugiau darbo rankų iš valstiečio kiemo rei­
     kėjo siųsti į dvaro laukus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -138,8 +108,8 @@ Nenurodyta
     žemės ploto ir turėjo nustatytas pareigas; tokie valstiečiai vadi-
     nosi nelaisvaisiais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -160,8 +130,8 @@ Nenurodyta
     kėjo ir vadinamąją sidabrinę (sidabrinę duoklę, t. y. mo-
     kestį sidabriniais pinigais).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

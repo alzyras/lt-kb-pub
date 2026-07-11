@@ -44,20 +44,6 @@ media_all_json: |-
 - t-001
   global_id: t-88484
   teiginys: "Trakų žydai dar 1388 m. atskirai gavo privilegiją, kurioje išsamiai apibūdinta jų elgsena krikščionių atžvilgiu."
-  semantiniai_rysiai: "Žydai gyveno Lietuva (0.90); Žydai gyveno Luckas (0.68)"
-  temporaliniai_duomenys: "įvykio data: 1388 m.; įvykio data: 1408 m.; įvykio data: 1408-1414; įvykio data: 1414 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata tiesiogiai pagrindžia datą, gavėjus ir privilegijos turinį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "324977-325699; hash=c34346953b6b23b76f2a020a6d5d531ec9ecde388ee1304ddba299f66104f179; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Lietuva: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Žydai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai mini žydus Lietuvoje."
   pagrindžia:
     - c-84463
 ## Reikšmingi paminėjimai
@@ -81,8 +67,8 @@ media_all_json: |-
     nukreiptos į vieną tikslą - susilpninti grėsmingas Prūsijos or­
     dino pajėgas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

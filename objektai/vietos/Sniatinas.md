@@ -38,17 +38,6 @@ Sniatinas lokalizuojamas į rytus nuo Kolomyjos. Apie 1485 m. rugsėjo 24 d. Kaz
 - t-001
   global_id: t-187332
   teiginys: "Sniatinas lokalizuojamas į rytus nuo Kolomyjos."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "596774-597306; hash=edbb5d8c5127ec97db7a33664a0957a4299ad8d7322dae36473cc779694e35cb; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  ryšio_patikimumas: "susije_su -> Kolomyja: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Sniatinas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kolomyja: mention_match, place, gap=37"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sniatinas\" parinktas kaip owner_note_path. Targetas \"Kolomyja\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-170359
 - susijęs iš [[objektai/ivykiai/Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje.md#claim-t-186761|Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje]]: Per vasalinės priesaikos ceremoniją Kolomyjoje Stepono palydovų ant žemės suguldytos vėliavėlės simbolizavo jų moldaviškąsias valdas.
@@ -68,8 +57,8 @@ Sniatinas lokalizuojamas į rytus nuo Kolomyjos. Apie 1485 m. rugsėjo 24 d. Kaz
     ligi Sniatino (j rytus nuo Kolomyjos), Kazimieras davė jam  3000
     algininkų daliuj.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

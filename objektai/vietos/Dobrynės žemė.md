@@ -48,12 +48,6 @@ Tačiau Gediminas, jei galiu taip sakyti, laiškų rašytojui padarė tikrą kia
 - t-003
   global_id: t-195084
   teiginys: "Per vieną lietuvių antpuolį smarkiai nukentėjo Dobrynės kunigaikštystė, tuo metu valdoma kunigaikštienės Anastazijos."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Citata pagrindžia faktą apie kunigaikštystės nuniokojimą."
-  susije_objektai: "mentioned_place: Dobrynė; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Mazovija; mentioned_place: Viena"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "163610-164079; hash=3afd6eeee7835892b2881c5b025303e30b722ca972b2e0f3615f544349940839; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177467
 
@@ -61,12 +55,6 @@ Tačiau Gediminas, jei galiu taip sakyti, laiškų rašytojui padarė tikrą kia
 - t-001
   global_id: t-195085
   teiginys: "1323 ir 1324 metais Gedimino kariauna įsiveržė į Mazoviją ir Dobrynės žemę bei žiauriai siaubė gyventojus."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Pašalintas puslapio triukšmas; citata palaiko glaustą faktą apie Dobrynės žemę."
-  susije_objektai: "mentioned_place: Dobrynė; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_place: Vilnius; llm_object: Dobrynė"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "216748-217925; hash=86da6ef375bc6ea2c80e19d1aa4332e0e6b866a7ae17b29f7d30a400306feb85; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177468
 - susijęs iš Slaptojo archyvo dokumentai apie Dobrynės žemės nusiaubimą: Slaptojo archyvo dokumente nurodyta, kad per antpuolį kentėjo Dobrynės žemė ir kaimyninės Kulmo žemės.
@@ -100,8 +88,8 @@ Tačiau Gediminas, jei galiu taip sakyti, laiškų rašytojui padarė tikrą kia
     terra Dobrynen et confinibus Culmensibus patet et patuit prohdo-
     lor evidenter!
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -121,8 +109,8 @@ Tačiau Gediminas, jei galiu taip sakyti, laiškų rašytojui padarė tikrą kia
     linkės1 1 . Iki to laiko sėkmės lydėti lietuviai taip suįžūlėjo, kad
     Šv.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

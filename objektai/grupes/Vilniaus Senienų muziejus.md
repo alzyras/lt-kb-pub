@@ -63,16 +63,6 @@ Mokslinė ir kultūros institucija.
 - t-001
   global_id: t-55074
   teiginys: "Vilniaus Senienų muziejus buvo įkurtas Eustachijaus Tiškevičiaus iniciatyva."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "17319-17670; hash=89976e34dbfdc825a8ddcc7691ac9ad3d0b3c6d8ddf7e0ba3b80f01672f42514; match=whitespace_regex"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilniaus Senienų muziejus: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus Senienų muziejus\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-55457
 
@@ -80,16 +70,6 @@ Mokslinė ir kultūros institucija.
 - t-002
   global_id: t-55075
   teiginys: "Vilniaus Senienų muziejus apibūdinamas kaip mokslinė institucija, sutelkusi krašto visuomenę."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "17319-17670; hash=89976e34dbfdc825a8ddcc7691ac9ad3d0b3c6d8ddf7e0ba3b80f01672f42514; match=whitespace_regex"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilniaus Senienų muziejus: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus Senienų muziejus\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-55457
 
@@ -97,19 +77,6 @@ Mokslinė ir kultūros institucija.
 - t-003
   global_id: t-81727
   teiginys: "Eustachijaus Tiškevičiaus iniciatyva įkurtas Vilniaus Senienų muziejus sutelkė krašto visuomenę."
-  temporaliniai_duomenys: "įvykio data: 1857-1858; įvykio data: 1858 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys sujungia citatoje nurodytą įkūrimo iniciatyvą ir muziejaus vaidmenį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "17383-17865; hash=94229c78522cf907bd104f6c55ec2bc3e9b4acddc518c50ccfa92acd35888967; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilniaus Senienų muziejus: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus Senienų muziejus\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-78306
 - susijęs iš [[objektai/asmenys/Eustachijus Tiškevičius.md#claim-t-87665|Eustachijus Tiškevičius]]: Eustachijaus Tiškevičiaus iniciatyva buvo įkurtas Vilniaus Senienų muziejus, sutelkęs krašto visuomenę.
@@ -135,8 +102,8 @@ Mokslinė ir kultūros institucija.
     tyva buvo įkurtas Vilniaus Senienų muziejus - mokslinė
     institucija, sutelkusi krašto visuomenę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -156,8 +123,8 @@ Mokslinė ir kultūros institucija.
     tuvių tautos kultūrinę būklę spaudos puslapiuose kėlė iš vals­
     tiečių kilęs švietėjas Mikalojus Akelaitis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

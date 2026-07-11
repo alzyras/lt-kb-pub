@@ -57,16 +57,6 @@ Nenurodyta
 - t-001
   global_id: t-86957
   teiginys: "Martynas Paleckis Vilniuje gavo leidimą steigti stiklo liejyklą ir privilegiją pardavinėti lenkišką stiklą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "551621-552148; hash=6ba813c6c696062d9adf50a9b0421d60fde9fe98c42153450ee0dcc9b70d0bf1; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Martynas Paleckis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Martyno Paleckio stiklo liejyklos privilegijos suteikimas Vilniuje (1547 m. gegužės 22 d.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Martynas Paleckis: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Martyno Paleckio stiklo liejyklos privilegijos suteikimas Vilniuje (1547 m. gegužės 22 d.)\" parinktas kaip owner_note_path. Targetas \"Martynas Paleckis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-82936
 ## Reikšmingi paminėjimai
@@ -91,8 +81,8 @@ Nenurodyta
     ti stiklo liejyklą, o kartu privilegiją, leidžiančią Vilniuje par­
     davinėti lenkišką stiklą34.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

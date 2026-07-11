@@ -43,16 +43,6 @@ Po sukilimo Lenkijos karalystė neteko politinės autonomijos, o buvusiose LDK �
 - t-001
   global_id: t-169940
   teiginys: "Šiame krašte buvo naikinamos nuo likusios Rusijos jį skyrusios institucijos ir neleista administracijoje vartoti lenkų kalbos."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "197473-198684; hash=b3db280c5ececf691953c5616a18b8b92a1d2c6201409923f1a2c0b3943a5e7c; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "„lenkų pradų naikinimo“ „istorinio pirmumo teisę“ „rusų pradų atkūrimo“: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"„lenkų pradų naikinimo“ „istorinio pirmumo teisę“ „rusų pradų atkūrimo“\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-154622
 
@@ -60,18 +50,6 @@ Po sukilimo Lenkijos karalystė neteko politinės autonomijos, o buvusiose LDK �
 - t-002
   global_id: t-169941
   teiginys: "Rusintojai tikėjosi laimėti, „lenkų pradų naikinimo“ politiką papildydami „rusų pradų atkūrimo“ politika."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "215345-215943; hash=ef5612511b18ef336bce4355d4f024bb35a79ecd219315942fdf2a7bba3d3420; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> separatizmas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "„lenkų pradų naikinimo“ „istorinio pirmumo teisę“ „rusų pradų atkūrimo“: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "separatizmas: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"„lenkų pradų naikinimo“ „istorinio pirmumo teisę“ „rusų pradų atkūrimo“\" parinktas kaip owner_note_path. Targetas \"separatizmas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-13T14:18:10Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-154618
 
@@ -79,16 +57,6 @@ Po sukilimo Lenkijos karalystė neteko politinės autonomijos, o buvusiose LDK �
 - t-003
   global_id: t-169943
   teiginys: "„Rusų pradus“ švietimo įstaigose turėjo diegti rusai mokytojai, paprastai atvykę iš Rusijos gilumos."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "216652-217311; hash=34746f3fc87fb9fed1078574487fe9731a62e80fe883391cd0409872374f5a34; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Rusai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "„lenkų pradų naikinimo“ „istorinio pirmumo teisę“ „rusų pradų atkūrimo“: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Rusai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"„lenkų pradų naikinimo“ „istorinio pirmumo teisę“ „rusų pradų atkūrimo“\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-166889
 
@@ -96,16 +64,6 @@ Po sukilimo Lenkijos karalystė neteko politinės autonomijos, o buvusiose LDK �
 - t-004
   global_id: t-169944
   teiginys: "Po sukilimo caro valdžia buvusiose LDK žemėse vykdė „lenkų pradų naikinimo“ politiką, grįstą Rusijos „istorinio pirmumo teisės“ idėja."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "197473-198684; hash=b3db280c5ececf691953c5616a18b8b92a1d2c6201409923f1a2c0b3943a5e7c; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "„lenkų pradų naikinimo“ „istorinio pirmumo teisę“ „rusų pradų atkūrimo“: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"„lenkų pradų naikinimo“ „istorinio pirmumo teisę“ „rusų pradų atkūrimo“\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-154622
 ## Reikšmingi paminėjimai
@@ -124,8 +82,8 @@ Po sukilimo Lenkijos karalystė neteko politinės autonomijos, o buvusiose LDK �
     nebuvo tos tautos nariai, tad rusintojai manė laimėti „lenkų pradų naiki-
     nimo“ politiką papildę „rusų pradų atkūrimo“ politika.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -155,8 +113,8 @@ Po sukilimo Lenkijos karalystė neteko politinės autonomijos, o buvusiose LDK �
     gali dirbti vietos administracijos įstaigose tik tada, kai 10 metų atidirbs
     kitose Rusijos gubernijose.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -177,8 +135,8 @@ Po sukilimo Lenkijos karalystė neteko politinės autonomijos, o buvusiose LDK �
     rusai mokytojai, paprastai atvykę iš Rusijos gilumos, pradžioje daugumą
     jų sudarė rusų stačiatikių dvasinių seminarijų auklėtiniai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -44,19 +44,6 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
 - t-018
   global_id: t-171341
   teiginys: "Algirdui leidus, trys Karijotaičiai su Lietuvos žemės pagalba patraukė į Podolės žemę."
-  semantiniai_rysiai: "Karijotaičiai keliavo į Podolė (0.92); Karijotaičiai gynė Podolė (0.87)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "180244-180781; hash=61bd6a7e379de3d69ca0c08ec39a66db17a365d1e9cfcefd29861424478e5ae0; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Podolė: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Karijotaičiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Podolė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad Karijotaičiai patraukė į Podolės žemę."
-  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-155909
 
@@ -64,17 +51,6 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
 - t-002
   global_id: t-171342
   teiginys: "Podolės Karijotaičiams priklausė Jurgis, Aleksandras, Konstantinas ir Teodoras."
-  semantiniai_rysiai: "Karijotaičiai gynė Podolė (0.86); Karijotaičiai pastatė Kamenecas (0.78)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "180305-180851; hash=4b02736590fa9f50277402d2b0e5232699f4bd20266451c84c08eff4c67526e4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyne -> Podolė: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Karijotaičiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Podolė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citatoje tiesiogiai pasakyta, kad Karijotaičiai ėmė ginti Podolės žemę."
   pagrindžia:
     - c-155910
 
@@ -82,17 +58,6 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
 - t-019
   global_id: t-171343
   teiginys: "Algirdo remiami Karijotaičiai Mažojoje Podolėje organizavo krašto gynybą nuo totorių puolimų ir statė Smotričo, Bakotos bei Kameneco pilis."
-  semantiniai_rysiai: "Algirdas (Lietuvos valdovas) rėmė Karijotaičiai (0.95); Karijotaičiai pastatė Kameneco pilis (pilis) (0.92); Karijotaičiai pastatė Bakota (0.78); Karijotaičiai kariavo prieš Totoriai (0.76)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "181689-182235; hash=a5149850f77211d003c8a426b7af95e7b240429d2784a1d67d004d954c92022b; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "reme -> Karijotaičiai: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Karijotaičiai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Karijotaičius rėmė Algirdas."
   pagrindžia:
     - c-155908
 
@@ -100,17 +65,6 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
 - t-017
   global_id: t-171344
   teiginys: "Lietuvos kariuomenėje buvo Lietuvos valdovo Algirdo pajėgos ir jo brolio Karijoto trijų sūnų, Karijotaičių, vadovaujami kariai."
-  semantiniai_rysiai: "Lietuvos kariuomenė kariavo prieš Totoriai (0.86); Lietuvos kariuomenė dalyvavo mūšyje Mėlynųjų Vandenų mūšis (1362 m.) (0.73)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "179175-179651; hash=a7e702c788d2c8b2fe1ef21e749f55a0ace6cc5c9601d55c3604705ce0eefd56; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Totoriai: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuvos kariuomenė: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Totoriai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Tiesiogiai nurodyta, kad Lietuvos kariuomenė susirėmė su totorių kariuomene."
   pagrindžia:
     - c-155906
 
@@ -118,19 +72,6 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
 - t-020
   global_id: t-184327
   teiginys: "Karijotaičių pasirodymo Podolėje laikas nėra galutinai išaiškintas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "723547-723761; hash=93429871d359cd169ec15cbdb8b43d9d5f6102d7255f692e27088ad60688f396; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Karijotas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Karijotaičiai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Karijotas: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Karijotaičiai\" parinktas kaip owner_note_path. Targetas \"Karijotas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-31095
 - susijęs iš Mažoji Podolė: Algirdo remiami Karijotaičiai įsitvirtino Mažojoje Podolėje, organizavo jos gynybą nuo totorių ir statė pilis.
@@ -176,8 +117,8 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
     Šie galėjo ten įsikurti ir be Algirdo paramos. Dar nėra galutinai
     išaiškintas klausimas, kada Karijotaičiai yra pasirodę Podolėje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -201,8 +142,8 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
     jos trijų vadų-kunigaikščių Chadžibėjaus,
     Kutlugbugo, Dmitrijaus kariuomene.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -228,8 +169,8 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
     dalies Moldavijai, Vengrijai) sudarė sau-
     gesnę padėtį rytuose.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -263,8 +204,8 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
 
     lės jų baskakams.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -296,8 +237,8 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
     Podolėje pastatė Smotričo,
     Bakotos, Kameneco pilis, už-
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -447,9 +388,6 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
 
 ## Ryšiai
 - Rėmė Karijotaičiai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- Karijotaičiai valdė [[objektai/vietos/Podolė]]
 - Karijotaičiai keliavo į [[objektai/vietos/Podolė]]
-- Karijotaičiai pastatė [[objektai/vietos/Bakota]], [[objektai/vietos/Bakotos pilis|Bakotos pilis (pilis)]], [[objektai/vietos/Kamenecas]], [[objektai/vietos/Kameneco pilis|Kameneco pilis (pilis)]], [[objektai/vietos/Smotričo pilis|Smotričo pilis (pilis)]], [[objektai/vietos/Smotryč]]
+- Karijotaičiai pastatė [[objektai/vietos/Bakotos pilis|Bakotos pilis (pilis)]], [[objektai/vietos/Kamenecas]], [[objektai/vietos/Kameneco pilis|Kameneco pilis (pilis)]], [[objektai/vietos/Smotričo pilis|Smotričo pilis (pilis)]]
 - Karijotaičiai gynė [[objektai/vietos/Podolė]]
-- Karijotaičiai kariavo prieš [[objektai/grupes/Totoriai]]
-- Karijotaičiai gyveno [[objektai/vietos/Podolė]]

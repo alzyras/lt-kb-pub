@@ -43,17 +43,6 @@ media_all_json: |-
 - t-001
   global_id: t-87550
   teiginys: "Maukoldas, pasak šaltinyje perteikto pasakojimo, buvo Rostislavo Rogvoldovičiaus sūnus ir Mindaugo tėvas."
-  semantiniai_rysiai: "Mindaugas (valdovas, XIII a.) buvo sūnus Maukoldas (0.95)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "116497-117007; hash=f0ddb0e66f5bccc32fed2d0b11187bdd0d85fed35c867bb59b499bc5cb1ceec2; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sunus -> Maukoldas: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Mindaugas (valdovas, XIII a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Maukoldas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Jei Maukoldas buvo Mindaugo tėvas, tada Mindaugas buvo Maukoldo sūnus."
   pagrindžia:
     - c-83528
 
@@ -61,12 +50,6 @@ media_all_json: |-
 - t-002
   global_id: t-194232
   teiginys: "Vis dėlto gal po ta genealogi nės painiavos migla slypi krislelis tiesos, galbūt Vilnius, kaip anksčiau minėjome, dar Mindaugo laikais buvo nedidelė Lie tuvos kunigaikščių valda, gal jame ir kažkoks Maukoldas bus valdęs, bet šito nei tvirtai teigti, nei."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "123395-124099; hash=7688932030a5e4475ccedfc11af28ce2c41418b16fd74749e3d32a218f27e6cd; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176829
 - susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113914|Mindaugas (valdovas, XIII a.)]]: Maukoldas buvo Mindaugo, dar vadinamo Mendogu, tėvas.
@@ -96,8 +79,8 @@ media_all_json: |-
     deno tėvas. Maukoldas buvo Mindaugo, arba Mendogo, tė­
     vas3.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -120,8 +103,8 @@ media_all_json: |-
     miestas, lietuvių tautos protėvių įkurtas ir gavęs vardą nuo
     vado Viliaus, kuris juos iš Italijos atvedęs0.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

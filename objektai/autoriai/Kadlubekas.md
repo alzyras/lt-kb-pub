@@ -30,22 +30,6 @@ Kadlubekas aprašė Maslavo karą su lenkų karaliumi Kazimieru, kuriame jotving
 - t-001
   global_id: t-191580
   teiginys: "Kadlubekas aprašė Maslavo karą su lenkų karaliumi Kazimieru, kuriame jotvingiai kovojo šalia mozūrų ir prūsų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Maslavas kariavo prieš Lenkai (0.82); Jotvingiai buvo sąjungininkas su Prūsai (0.79)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "205155-205479; hash=865b849aa5546fb790796acd1279cb9f691a264352ca069eb13812a193be5596; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Lenkai: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Maslavas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lenkai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Maslavo karą su lenkų karaliumi, todėl objektas siejamas su lenkų politine grupe."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174462
 ## Reikšmingi paminėjimai
@@ -64,8 +48,8 @@ Kadlubekas aprašė Maslavo karą su lenkų karaliumi Kazimieru, kuriame jotving
     ru; jo kariuomenėje jotvingiai kovojo šalia mozūrų ir
     prūsų. Tą patį sako ir Bogufalas*.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -76,7 +60,8 @@ Kadlubekas aprašė Maslavo karą su lenkų karaliumi Kazimieru, kuriame jotving
 - id: c-174462
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 115"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 115."
   citata_originali: |
     Lais­
     vų žemių buvo dar tuščioje, pelkėtoje ir miškingoje Po­

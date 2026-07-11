@@ -30,14 +30,6 @@ Narbutas teigia, kad matydamas, jog ta tauta meldžiasi kažkokia nesuprantama j
 - t-001
   global_id: t-194851
   teiginys: "Narbutas teigia, kad matydamas, jog ta tauta meldžiasi kažkokia nesuprantama jiems kalba, atminimui, dėl originalumo perrašė jų Dievo maldą ir įdėjo į savo „Meklenburgo istoriją “, parašytą XVamžiuje."
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "811396-811840; hash=2d15f4abc979c16822baa197fbde1014e33f5df2bd8ec36c4e96aaa4e82c4dc3; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-177247
 ## Reikšmingi paminėjimai
@@ -54,8 +46,8 @@ Narbutas teigia, kad matydamas, jog ta tauta meldžiasi kažkokia nesuprantama j
     istoriją. Iš Lazijaus perrašė Čemberlenas, o iš pastarojo tas užrašas bu­
     vo įdėtas į Londono „Sylloge“.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -66,7 +58,8 @@ Narbutas teigia, kad matydamas, jog ta tauta meldžiasi kažkokia nesuprantama j
 - id: c-177247
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 446"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 446."
   citata_originali: |
     Matydamas, jog ta tauta meldžiasi kažkokia nesuprantama jiems
     kalba, atminimui, dėl originalumo perrašė jų Dievo maldą ir įdėjo į

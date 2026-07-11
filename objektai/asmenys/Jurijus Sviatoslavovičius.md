@@ -30,22 +30,6 @@ Jurijus Sviatoslavovičius, išsigandęs Vytauto kariuomenės, nuslėpė prieši
 - t-001
   global_id: t-186120
   teiginys: "Jurijus Sviatoslavovičius, išsigandęs Vytauto kariuomenės, nuslėpė priešiškumą ir prijungė savo pajėgas prie Vytauto."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Jurijus Sviatoslavovičius valdė Smolenskas (0.89)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "605040-605851; hash=5909b1f12e6bda188fe032e11b1ca84ddc87603cbc990d5539f04fc92d603ad4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde -> Smolenskas: 0.89"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jurijus Sviatoslavovičius: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Smolenskas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Jurijus Sviatoslavovičius tiesiogiai vadinamas Smolensko valdovu."
-  vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-169481
 ## Reikšmingi paminėjimai
@@ -74,8 +58,8 @@ Jurijus Sviatoslavovičius, išsigandęs Vytauto kariuomenės, nuslėpė prieši
     lenskiečiams prisidėjus, padidėjusi Vytauto kariuomenė
     buvo nuvesta į Vitebską.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -86,7 +70,8 @@ Jurijus Sviatoslavovičius, išsigandęs Vytauto kariuomenės, nuslėpė prieši
 - id: c-169481
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 347"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 347."
   citata_originali: |
     Drucko kunigaikščiai, pirmųjų Rusios valdo­
     vų palikuonys, kurie šių neramumų pradžioje mažai
@@ -113,6 +98,3 @@ Jurijus Sviatoslavovičius, išsigandęs Vytauto kariuomenės, nuslėpė prieši
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186120
-
-## Ryšiai
-- Jurijus Sviatoslavovičius valdė [[objektai/vietos/Smolenskas]]

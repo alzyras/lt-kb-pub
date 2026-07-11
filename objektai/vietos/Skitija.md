@@ -31,20 +31,6 @@ Lietuvos maršalas Mikalojus Radvila gavo įsakymą sutelkti kariuomenę ir paly
 - t-001
   global_id: t-185274
   teiginys: "Lietuvos maršalas Mikalojus Radvila gavo įsakymą sutelkti kariuomenę ir palydėti Jerim Berdį į Skitiją."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Mikalojus Radvila keliavo į Skitija (0.86)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "696197-696626; hash=cd657b4a8f3facca80d022c4e494c13aca34d951f6814b221063c83f9720d92c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Skitija: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Mikalojus Radvila: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Skitija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai teigia, kad Radvila patraukė į skitų kraštą, tapatinamą su Skitija."
   pagrindžia:
     - c-168635
 
@@ -52,22 +38,6 @@ Lietuvos maršalas Mikalojus Radvila gavo įsakymą sutelkti kariuomenę ir paly
 - t-002
   global_id: t-192761
   teiginys: "Narbutas rašo, kad Herodotui keliaujant po Skitiją boristeniečiai gintarą siejo su šiaurės vakaruose esančia jūra."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Boristeniečiai gyveno Padneprė (0.87)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "270290-270727; hash=b1d7cdd1aa3e20ff2d0fbcfaa4235e207ec6db71f09a825257b3fefe422d53c1; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Padneprė: 0.87"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Boristeniečiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Padneprė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Boristeniečiai tiesiogiai apibūdinami kaip Padneprės graikų kolonistai."
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175531
 - susijęs iš [[objektai/asmenys/Herodotas.md#claim-t-190875|Herodotas]]: Teodoro Narbuto pasakojime Herodotas Skitijoje teiravosi apie gintaringas vietas, o boristeniečiai jam minėjo šiaurės vakarų jūrą.
@@ -162,8 +132,8 @@ Lietuvos maršalas Mikalojus Radvila gavo įsakymą sutelkti kariuomenę ir paly
     menę ir su ja palydėti Jerim Berdį į Skitiją. Vykdyda­
     mas šį įsakymą, Radvila ir patraukė į skitų kraštą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -182,8 +152,8 @@ Lietuvos maršalas Mikalojus Radvila gavo įsakymą sutelkti kariuomenę ir paly
     dėl kažkokio ¡pirkliško pavydo jie tiksliai nenurodė nei
     vietos, iš kur jis gabenamas, nei kelio, kuriuo jį veždavo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -194,7 +164,8 @@ Lietuvos maršalas Mikalojus Radvila gavo įsakymą sutelkti kariuomenę ir paly
 - id: c-168635
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 397"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 397."
   citata_originali: |
     Todėl ir Jerim Berdį iškilmingai paskelbė
     teisėtu valdovu; kad niekas nesakytų, jog jis iš draugo
@@ -214,7 +185,8 @@ Lietuvos maršalas Mikalojus Radvila gavo įsakymą sutelkti kariuomenę ir paly
 - id: c-175531
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 150"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 150."
   citata_originali: |
     Priartinus mūsų tyrimus prie
     geografijos, pirmiausia reikia kreiptis ¡patarimo į istorijos
@@ -232,9 +204,6 @@ Lietuvos maršalas Mikalojus Radvila gavo įsakymą sutelkti kariuomenę ir paly
     - t-192761
 
 ## Ryšiai
-- Buvo kelionės vieta: [[objektai/asmenys/Darijus]], [[objektai/asmenys/Herodotas]], [[objektai/asmenys/Jerim Berdis]], [[objektai/asmenys/Mikalojus Radvila]], [[objektai/grupes/Persai]], [[objektai/asmenys/Višnioveckis]]
-- Puolė Skitiją: [[objektai/asmenys/Darijus]], [[objektai/grupes/Persai]]
-- Buvo siuntimo vieta: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Buvo žygio kryptis: [[objektai/asmenys/Darijus]], [[objektai/grupes/Sarmatai]]
-- Prekiavo su: [[objektai/grupes/Graikai]]
-- Gyvenamoji vieta: [[objektai/grupes/Skiriai]], [[objektai/grupes/Sudargai]]
+- Buvo kelionės vieta: [[objektai/asmenys/Herodotas]], [[objektai/asmenys/Jerim Berdis]]
+- Puolė Skitiją: [[objektai/grupes/Persai]]
+- Buvo žygio kryptis: [[objektai/asmenys/Darijus]]

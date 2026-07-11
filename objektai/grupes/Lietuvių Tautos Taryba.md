@@ -40,20 +40,6 @@ Rusijoje 1917 metų kovo mėnesį iš visokių srovių buvo sudaryta Lietuvių T
 - t-001
   global_id: t-01389
   teiginys: "1917 m. kovą Rusijoje iš įvairių srovių buvo sudaryta Lietuvių Tautos Taryba, sušaukusi Rusijoje išblaškytų lietuvių seimą Petrapilyje."
-  semantiniai_rysiai: "Lietuviai gyveno Rusija (0.86); Lietuvių Tautos Taryba (institucija) gyveno Rusija (0.68)"
-  temporaliniai_duomenys: "įvykio data: 1917 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys buvo nutrūkęs, bet citata aiškiai pagrindžia sutrumpintą faktą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "1070390-1070653; hash=571a7d2e34a55e86a9f4991e7478c3527694bf77b4cfc4f30344857cb1d8b368; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Rusija: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Rusija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai kalba apie Rusijoje išblaškytus lietuvius."
   pagrindžia:
     - c-01627
 ## Reikšmingi paminėjimai
@@ -67,8 +53,8 @@ Rusijoje 1917 metų kovo mėnesį iš visokių srovių buvo sudaryta Lietuvių T
     išblaškytų lietuvių seimą (Petrapily 1917 m. gegužės 27 d.,
     sen. kal.).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -93,6 +79,3 @@ Rusijoje 1917 metų kovo mėnesį iš visokių srovių buvo sudaryta Lietuvių T
   patikimumo_saltinis: ai
   pagrindzia:
     - t-01389
-
-## Ryšiai
-- Lietuvių Tautos Taryba (institucija) gyveno [[objektai/vietos/Rusija]]

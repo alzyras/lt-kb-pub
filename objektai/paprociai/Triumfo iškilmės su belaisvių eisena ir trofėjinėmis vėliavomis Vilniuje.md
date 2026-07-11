@@ -58,18 +58,6 @@ Nenurodyta
 - t-003
   global_id: t-78727
   teiginys: "Valdovui grįžus į Vilnių, čia įvyko triumfo iškilmės su belaisviais Maskvos karvedžiais ir kariais."
-  temporaliniai_duomenys: "įvykio data: 1530 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "346445-346750; hash=53524aa18c073929554088483a4bfd94cea91560b21bfadfd9420851ce19b754; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Maskva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Triumfo iškilmės su belaisvių eisena ir trofėjinėmis vėliavomis Vilniuje: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Maskva: mention_match, place, gap=32"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Triumfo iškilmės su belaisvių eisena ir trofėjinėmis vėliavomis Vilniuje\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-43179
 
@@ -77,18 +65,6 @@ Nenurodyta
 - t-004
   global_id: t-78728
   teiginys: "Kilmingi žuvusieji buvo atvežti ir palaidoti Vilniuje."
-  temporaliniai_duomenys: "įvykio data: 1530 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "346445-346750; hash=53524aa18c073929554088483a4bfd94cea91560b21bfadfd9420851ce19b754; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Triumfo iškilmės su belaisvių eisena ir trofėjinėmis vėliavomis Vilniuje: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=13"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Triumfo iškilmės su belaisvių eisena ir trofėjinėmis vėliavomis Vilniuje\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-43179
 
@@ -96,19 +72,6 @@ Nenurodyta
 - t-005
   global_id: t-78729
   teiginys: "Vilniuje per triumfo iškilmes eisenoje buvo vedami Maskvos belaisviai karvedžiai ir kariai, o katedroje pakabintos trofėjinės vėliavos."
-  temporaliniai_duomenys: "įvykio data: 1530 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir tiesiogiai nusako citatoje aprašytas iškilmes."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "346445-346750; hash=53524aa18c073929554088483a4bfd94cea91560b21bfadfd9420851ce19b754; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Maskva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Triumfo iškilmės su belaisvių eisena ir trofėjinėmis vėliavomis Vilniuje: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Maskva: mention_match, place, gap=51"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Triumfo iškilmės su belaisvių eisena ir trofėjinėmis vėliavomis Vilniuje\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-43179
 
@@ -116,19 +79,6 @@ Nenurodyta
 - t-006
   global_id: t-183695
   teiginys: "Kilmingi žuvusieji buvo atvežti ir palaidoti Vilniuje."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "346351-346660; hash=0ca10c3181b8f948a848c1613688492197c92a76fa3656fa106b088671492e9a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Triumfo iškilmės su belaisvių eisena ir trofėjinėmis vėliavomis Vilniuje: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=13"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Triumfo iškilmės su belaisvių eisena ir trofėjinėmis vėliavomis Vilniuje\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-167085
 ## Reikšmingi paminėjimai
@@ -145,8 +95,8 @@ Nenurodyta
     jos su kitomis čia saugotomis sudegė per
     1530 m. gaisrą).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -169,8 +119,8 @@ Nenurodyta
     Vilniaus katedroje pakabintos trofėjinės
     vėliavos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

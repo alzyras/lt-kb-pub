@@ -35,9 +35,6 @@ Tam tikslui 1252 m. Livo- nijos ordinas ėmė statyti pilį toje vietoje, kur Ku
 - t-001
   global_id: t-67690
   teiginys: "1252 m. Livonijos ordinas pradėjo statyti pilį vietoje, kur Kuršių marios jungiasi su Baltija."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "129115-129317; hash=f87eb02629f2ecd2b53b64c0d650f084e08dc9c7b861b6e2583293d228107de0; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-67494
 
@@ -45,9 +42,6 @@ Tam tikslui 1252 m. Livo- nijos ordinas ėmė statyti pilį toje vietoje, kur Ku
 - t-001
   global_id: t-67690
   teiginys: "1252 m. Livonijos ordinas pradėjo statyti pilį vietoje, kur Kuršių marios jungiasi su Baltija."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "129115-129317; hash=f87eb02629f2ecd2b53b64c0d650f084e08dc9c7b861b6e2583293d228107de0; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-67494
 
@@ -55,21 +49,6 @@ Tam tikslui 1252 m. Livo- nijos ordinas ėmė statyti pilį toje vietoje, kur Ku
 - t-003
   global_id: t-192613
   teiginys: "Narbutas rašo, kad apie Pitėją manyta jį antrąją kelionę vykus į šiaurės rytus ir atradus Baltijos salą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "601598-602034; hash=d577a6e935a63d40e3d68fbc2aee8266a163a1b6c04aec5228f75b02e7f51069; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Argonautai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Baltija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Argonautai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Baltija\" parinktas kaip owner_note_path. Targetas \"Argonautai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175383
 
@@ -77,21 +56,6 @@ Tam tikslui 1252 m. Livo- nijos ordinas ėmė statyti pilį toje vietoje, kur Ku
 - t-004
   global_id: t-192614
   teiginys: "Narbutas nurodo, kad Plinijaus Baltija, remiantis Hardua rankraščiais ir stebėjimais, turėtų vadintis Basilia."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "602787-603167; hash=54c4bac4aabb66287b0f4033aa8f7865acea2e78f39b1d0af6278f673feb520d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Hardua: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Baltija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Hardua: mention_match, person, gap=19"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Baltija\" parinktas kaip owner_note_path. Targetas \"Hardua\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175384
 - susijęs iš [[objektai/grupes/Baltai.md#claim-t-96086|Baltai]]: Baltais vadinama indoeuropiečių genčių ir tautų grupė, gyvenusi arba gyvenanti rytiniame Baltijos jūros pakraštyje ir kalbanti giminiškomis kalbomis.
@@ -714,8 +678,8 @@ Tam tikslui 1252 m. Livo- nijos ordinas ėmė statyti pilį toje vietoje, kur Ku
     nijos ordinas ėmė statyti pilį toje vietoje, kur Kuršmarės
     jungiasi su Baltija.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -736,8 +700,8 @@ Tam tikslui 1252 m. Livo- nijos ordinas ėmė statyti pilį toje vietoje, kur Ku
     Baltijos salą. Fosas teigia, jog jis pasiekė tik Reiną ar
     toliausiai Elbės žiotis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -756,8 +720,8 @@ Tam tikslui 1252 m. Livo- nijos ordinas ėmė statyti pilį toje vietoje, kur Ku
     lia. Anot vienų, ji buvo vienos, anot kitų — trijų dienų
     kelionės nuo sausumos atstumu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -786,7 +750,8 @@ Tam tikslui 1252 m. Livo- nijos ordinas ėmė statyti pilį toje vietoje, kur Ku
 - id: c-175383
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 335"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 335."
   citata_originali: |
     Graikai, ypač
     masiliečiai, tęsė finikiečių tyrimus, bet rašė eilėmis, pa­
@@ -807,7 +772,8 @@ Tam tikslui 1252 m. Livo- nijos ordinas ėmė statyti pilį toje vietoje, kur Ku
 - id: c-175384
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 336"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 336."
   citata_originali: |
     Aes­
     tuarium, pasak lotyniško Pitėjo vertimo, reiškia negilias,
@@ -825,10 +791,6 @@ Tam tikslui 1252 m. Livo- nijos ordinas ėmė statyti pilį toje vietoje, kur Ku
     - t-192614
 
 ## Ryšiai
-- Buvo valdoma: [[objektai/grupes/Hanza]]
-- Buvo kelionės vieta: [[objektai/grupes/Estai]], [[objektai/grupes/Kimbrai]], [[objektai/grupes/Latviai]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Normanai]], [[objektai/asmenys/Pitėjas]], [[objektai/asmenys/Pitėjas Masilietis]], [[objektai/grupes/Romėnai]]
-- Užėmė Baltiją: [[objektai/grupes/Gotai]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Slavai]], [[objektai/grupes/Venedai]]
-- Buvo žygio kryptis: [[objektai/asmenys/Petras I Didysis]]
-- Prekiavo su: [[objektai/grupes/Gotai]]
-- Gyvenamoji vieta: [[objektai/grupes/Agentai-smogikai]], [[objektai/grupes/Aisčiai]], [[objektai/grupes/Aušrėnai]], [[objektai/grupes/Baltai]], [[objektai/grupes/Čeltyčios]], [[objektai/grupes/Kimbrai]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Lygai]], [[objektai/grupes/Prūsai]], [[objektai/grupes/Slavai]], [[objektai/grupes/Venedai]], [[objektai/grupes/Vilkai-liutikai]]
-- Turėjo priklausinį: [[objektai/grupes/Baltijos valstybės]]
+- Buvo kelionės vieta: [[objektai/grupes/Lietuviai]]
+- Užėmė Baltiją: [[objektai/grupes/Gotai]]
+- Gyvenamoji vieta: [[objektai/grupes/Aušrėnai]], [[objektai/grupes/Baltai]], [[objektai/grupes/Kimbrai]]

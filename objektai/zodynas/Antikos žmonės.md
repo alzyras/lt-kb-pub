@@ -30,21 +30,6 @@ Narbutas graikus ir romėnus šiame veikale vadino Antikos žmonėmis ir siejo j
 - t-001
   global_id: t-189275
   teiginys: "Narbutas graikus ir romėnus šiame veikale vadino Antikos žmonėmis ir siejo juos su lemties dievybėmis Sors bei Fatum."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "159272-159607; hash=0e22e9fe65a25e90f782642617a0e719ce0ca2a357d5d1207cd9d53afdc4cc4d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Graikai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Antikos žmonės: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Graikai: mention_match, group, gap=40"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antikos žmonės\" parinktas kaip owner_note_path. Targetas \"Graikai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172163
 - susijęs iš [[objektai/paprociai/Laukų apvalymas arba pašventinimas apeinant javus su auka.md#claim-t-189842|Laukų apvalymas arba pašventinimas apeinant javus su auka]]: Narbutas laukų apvalymo apeigas siejo su antikos praktika ir nurodė, kad romėnai jas vadino Ambervales.
@@ -79,8 +64,8 @@ Narbutas graikus ir romėnus šiame veikale vadino Antikos žmonėmis ir siejo j
     pasaulį ir dievus, antrajai buvo pripažįstama vienvaldė galia
     viskam.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -91,7 +76,8 @@ Narbutas graikus ir romėnus šiame veikale vadino Antikos žmonėmis ir siejo j
 - id: c-172163
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 90"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 90."
   citata_originali: |
     Iš jų dažnai galima išgirsti: tas jau
     biją winnam Likis („taip jam jau buvo lemta“)1 2.

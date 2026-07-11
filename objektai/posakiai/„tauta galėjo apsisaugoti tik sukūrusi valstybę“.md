@@ -35,20 +35,6 @@ Lietuvos valstybės atsiradimą pagreitino vokiečių riterių agresija ir jų k
 - t-002
   global_id: t-183510
   teiginys: "Lietuvos valstybė pirmiausia atsirado kaip apsigynimo priemonė, nes tauta galėjo apsisaugoti tik sukūrusi valstybę."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Vokiečiai puolė Lietuva (0.72)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "45456-45918; hash=6ba292336d77c26ee3cbcc062a60c018c6dc9784b0de7af37a9a97da58ed4a8c; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Lietuva: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vokiečiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata Lietuvos valstybės atsiradimą sieja su vokiečių riterių agresija, todėl palaikomas puolimo prieš Lietuvą ryšys."
   pagrindžia:
     - c-166904
 ## Reikšmingi paminėjimai
@@ -65,8 +51,8 @@ Lietuvos valstybės atsiradimą pagreitino vokiečių riterių agresija ir jų k
     mis. Iš šių dienų perspektyvos galima sakyti – tauta galėjo apsisaugoti tik
     sukūrusi valstybę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

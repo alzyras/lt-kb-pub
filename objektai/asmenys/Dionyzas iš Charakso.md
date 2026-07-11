@@ -30,21 +30,6 @@ Dionyzas iš Charakso Narbuto pasakojime mini gintarą, randamą ten, kur Aldesk
 - t-001
   global_id: t-191162
   teiginys: "Dionyzas iš Charakso Narbuto pasakojime mini gintarą, randamą ten, kur Aldeskos upė įteka į Šiaurės jūrą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "270600-271016; hash=dc0a54c7fce063a1e2f63c7cfb237825409c10a04572b85b88f6c9ff0f966da4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aldeskos upė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Dionyzas iš Charakso: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Aldeskos upė: mention_match, place, gap=71"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dionyzas iš Charakso\" parinktas kaip owner_note_path. Targetas \"Aldeskos upė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174044
 
@@ -52,21 +37,6 @@ Dionyzas iš Charakso Narbuto pasakojime mini gintarą, randamą ten, kur Aldesk
 - t-002
   global_id: t-191163
   teiginys: "Dionyzas iš Charakso, pasak Narbuto, Oktaviano Augusto laikais geografiškai aprašinėdamas pasaulį minėjo Pantikapą ir Aldeską."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "389155-389597; hash=608d64495e908027c756eaee44888a0e7853b5a269e6b4e58ee75ee669180c0d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Augustas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Dionyzas iš Charakso: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Augustas: mention_match, person, gap=47"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dionyzas iš Charakso\" parinktas kaip owner_note_path. Targetas \"Augustas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174045
 ## Reikšmingi paminėjimai
@@ -85,8 +55,8 @@ Dionyzas iš Charakso Narbuto pasakojime mini gintarą, randamą ten, kur Aldesk
     laiko pasakų išmone, tačiau mes, spręsdami iš senovės
     1 Lib.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -106,8 +76,8 @@ Dionyzas iš Charakso Narbuto pasakojime mini gintarą, randamą ten, kur Aldesk
     tojai pirmąja laiko Vyslą, bet dėl antrosios visų nuomo­
     nės sutampa.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -118,7 +88,8 @@ Dionyzas iš Charakso Narbuto pasakojime mini gintarą, randamą ten, kur Aldesk
 - id: c-174044
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 150"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 150."
   citata_originali: |
     Bet turbūt
     dėl kažkokio ¡pirkliško pavydo jie tiksliai nenurodė nei
@@ -139,7 +110,8 @@ Dionyzas iš Charakso Narbuto pasakojime mini gintarą, randamą ten, kur Aldesk
 - id: c-174045
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 211"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 211."
   citata_originali: |
     Be šių įrodymų, turime ir seno­
     vės autorių paliktų, ir naujų laikų tyrimais patvirtintų

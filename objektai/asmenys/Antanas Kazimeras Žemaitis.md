@@ -32,17 +32,6 @@ Ogi visi jie grojo iš Lietuvos emigrantų kilusio Tony’o Zemaicio (Antanas Ka
 - t-001
   global_id: t-18813
   teiginys: "Antanas Kazimeras Žemaitis sukūrė gitarą „Zemaitis“, kuria grojo Jimi Hendrixas, Ericas Claptonas, Bobas Dylanas ir kiti muzikantai."
-  semantiniai_rysiai: "Antanas Kazimeras Žemaitis gimė Londonas (0.93)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "544974-545514; hash=3203449c340cee00010cedacd446662ee791bbb59966a029ed7a697aa47f1471; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gime -> Londonas: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Antanas Kazimeras Žemaitis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Londonas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citatoje tiesiogiai nurodyta, kad Antanas Kazimeras Žemaitis gimė Londone."
   pagrindžia:
     - c-21587
 ## Reikšmingi paminėjimai
@@ -59,8 +48,8 @@ Ogi visi jie grojo iš Lietuvos emigrantų kilusio Tony’o Zemaicio (Antanas Ka
     Zemaicio (Antanas Kazimeras Žemaitis, g. Londone 1935) sukurta gita-
     ra „Zemaitis“, kuri roko pasaulyje tapo bendrine sąvoka.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

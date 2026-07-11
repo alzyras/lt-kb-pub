@@ -55,19 +55,6 @@ Nenurodyta
 - t-001
   global_id: t-86962
   teiginys: "1830 m. vėlyvą rudenį Vilniuje susikūręs sukilimo centrinis komitetas turėjo organizuoti sukilimą vakarinėse Rusijos imperijos gubernijose."
-  temporaliniai_duomenys: "įvykio data: 1830 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys nutrūksta ir turi OCR triukšmo; citata aiškiai nurodo komiteto susikūrimą ir paskirtį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "7699-8130; hash=08f7d10e04776b9d5e1fba51b5c00329ef278c92f65ac034a25297f2687bbe76; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Rusija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilniaus sukilimo centrinio komiteto susikūrimas: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Rusija: mention_match, place, gap=68"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus sukilimo centrinio komiteto susikūrimas\" parinktas kaip owner_note_path. Targetas \"Rusija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-82941
 ## Reikšmingi paminėjimai
@@ -85,8 +72,8 @@ Nenurodyta
     kas Zambrzyckis. Šis komitetas turėjo organizuoti sukilimą va­
     karinėse Rusijos imperijos gubernijose.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

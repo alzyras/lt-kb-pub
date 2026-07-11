@@ -30,21 +30,6 @@ Beržūna žymėjo ilgos įlankos, arba kairiosios Dnepro šakos, ruožo pradži
 - t-001
   global_id: t-192812
   teiginys: "Beržūna žymėjo ilgos įlankos, arba kairiosios Dnepro šakos, ruožo pradžią iki Dėsnios žiočių."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "685355-686118; hash=30ea6a16f7b515d1829c7f59e74201d434a58a544061c75c47521837b74c5edc; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Dnepras: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Beržūna: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Dnepras: mention_match, place, gap=46"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Beržūna\" parinktas kaip owner_note_path. Targetas \"Dnepras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175582
 
@@ -52,21 +37,6 @@ Beržūna žymėjo ilgos įlankos, arba kairiosios Dnepro šakos, ruožo pradži
 - t-002
   global_id: t-192813
   teiginys: "Daugiausia pilkapių aptikta uždarame Drutės ir Beržūnos upių žemupio plote."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "692837-693417; hash=1c5625f44f2c801add471d99f173eefebc550351d6533747fb7c710e2589e3ed; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Borisovas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Beržūna: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Borisovas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Beržūna\" parinktas kaip owner_note_path. Targetas \"Borisovas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175583
 - susijęs iš [[objektai/grupes/Vilkai-liutikai.md#claim-t-192965|Vilkai-liutikai]]: Narbutas vilkų, arba Wilkow, tautą laiko priešistorine grupe, kurios vardas, jo teigimu, buvo įvairiai iškraipomas.
@@ -100,8 +70,8 @@ Beržūna žymėjo ilgos įlankos, arba kairiosios Dnepro šakos, ruožo pradži
     žemiau Kijevo virstančią didele upe — tikruoju senovės
     Boristeniu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -123,8 +93,8 @@ Beržūna žymėjo ilgos įlankos, arba kairiosios Dnepro šakos, ruožo pradži
     linkėse plyti nesuskaičiuojama gausybė šių senojo am­
     žiaus paminklų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -135,7 +105,8 @@ Beržūna žymėjo ilgos įlankos, arba kairiosios Dnepro šakos, ruožo pradži
 - id: c-175582
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 377"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 377."
   citata_originali: |
     Tų įdubų juos­
     tos buvo dugnas Dnepro įlankų, kurios kitados, kai pa­
@@ -162,7 +133,8 @@ Beržūna žymėjo ilgos įlankos, arba kairiosios Dnepro šakos, ruožo pradži
 - id: c-175583
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 381"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 381."
   citata_originali: |
     Nors pilkapių pasitaiko visoje Baltarusijoje, tačiau
     daugiausia jų esti Dnepro vidurupyje, ypač kiek aukščiau
@@ -181,6 +153,3 @@ Beržūna žymėjo ilgos įlankos, arba kairiosios Dnepro šakos, ruožo pradži
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192813
-
-## Ryšiai
-- Gyvenamoji vieta: [[objektai/grupes/Vilkai-liutikai]]

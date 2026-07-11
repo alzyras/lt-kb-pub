@@ -36,21 +36,6 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
 - t-001
   global_id: t-189381
   teiginys: "A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima rasti tai, ką sukūrė Indija, Iranas, Graikija ir Roma."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "73767-74365; hash=15ec657b7dc3dfefaaeecf4328dd7566e6362b5539830772b9e0cd23512c2914; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Graikija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Senovės graikai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Graikija: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Senovės graikai\" parinktas kaip owner_note_path. Targetas \"Graikija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172268
 
@@ -58,21 +43,6 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
 - t-002
   global_id: t-189382
   teiginys: "Narbutas graikų nepastovumą vertino kaip ydą, lėmusią pasaulietinių ir religinių piktnaudžiavimų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "142664-143332; hash=e6777214adf111d35b5b9ee800b93f22eada12c23bd0d2c1574cfdb9cc85335d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Graikai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Senovės graikai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Graikai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Senovės graikai\" parinktas kaip owner_note_path. Targetas \"Graikai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172269
 
@@ -80,21 +50,6 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
 - t-003
   global_id: t-189383
   teiginys: "Narbutas rašė, kad graikai iš egiptiečių perėmė dalį dangaus kūnų ir Titanų giminės garbinimo ir išplėtojo savo daugiadievystę."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "149045-149455; hash=18bd34e4c08bfada5f6f0a3b9144a2b7d459425c1731c62cfafe68aba24fd7b3; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Egiptiečiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Senovės graikai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Egiptiečiai: mention_match, group, gap=11"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Senovės graikai\" parinktas kaip owner_note_path. Targetas \"Egiptiečiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172270
 
@@ -102,21 +57,6 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
 - t-004
   global_id: t-189385
   teiginys: "Narbutas rašė, kad graikai ir romėnai turėjo lemties dievybes Sors ir Fatum, siejamas su pasaulio, dievų ir visko valdymu."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "159272-159607; hash=0e22e9fe65a25e90f782642617a0e719ce0ca2a357d5d1207cd9d53afdc4cc4d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Graikai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Senovės graikai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Graikai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Senovės graikai\" parinktas kaip owner_note_path. Targetas \"Graikai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-172272
 
@@ -124,24 +64,6 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
 - t-005
   global_id: t-189386
   teiginys: "Narbutas, remdamasis graikų dievų padavimais, rašė, kad Melampas apie 1380 m. pr. Kr. Graikijoje įvedė Bakcho garbinimą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1380 m.; įvykio data: apie 1380 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
-  temporalinis_llm_pakomentavimas: "Padavimo kilmė ir data paliktos, pašalinus OCR triukšmą. Legendinis religinis teiginys aiškiai atribuuotas Narbutui."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "173922-174391; hash=b300752b08d64dae48673b0f205bbc648f3263bdd39e93895e1d852611865592; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Graikai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Senovės graikai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Graikai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Senovės graikai\" parinktas kaip owner_note_path. Targetas \"Graikai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172273
 
@@ -149,21 +71,6 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
 - t-006
   global_id: t-189387
   teiginys: "Narbutas rašė, kad graikai Šiaurės tautų Apolono garbinimą laikė pagarsėjusiu ir todėl Apoloną vadino Šiauriniu."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "176537-176885; hash=b80ae7f251db7a4cf05419dab6110c786ddaf8e3d8d8eca1aa9249b232efc9e7; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Graikai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Senovės graikai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Graikai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Senovės graikai\" parinktas kaip owner_note_path. Targetas \"Graikai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172274
 
@@ -171,21 +78,6 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
 - t-007
   global_id: t-189388
   teiginys: "Narbutas rašė, kad egiptiečiai, finikiečiai, graikai ir romėnai pasakojo apie Plutono vedybas su į pragarą pagrobtos deivės dukterimi."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "190287-190612; hash=7dbac8d3ea29200f857e0925fec14072686089e1ff4a3be8a55ad4e2c6870675; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Graikai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Senovės graikai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Graikai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Senovės graikai\" parinktas kaip owner_note_path. Targetas \"Graikai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172275
 
@@ -193,21 +85,6 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
 - t-008
   global_id: t-189389
   teiginys: "Narbutas rašė, kad graikai, egiptiečiai, romėnai, indai, japonai, slavai, lietuviai ir kitos tautos turėjo dievų Kabirų ritualą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "198058-198386; hash=d6254af41fc666e8cd9e6c33a10cd5f396aa07c498c59cb015932b94e125b07f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Egiptiečiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Senovės graikai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Egiptiečiai: mention_match, group, gap=9"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Senovės graikai\" parinktas kaip owner_note_path. Targetas \"Egiptiečiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172276
 
@@ -215,21 +92,6 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
 - t-009
   global_id: t-189390
   teiginys: "Narbutas rašė, kad senovės graikai iki Periklio laikų Venerą laikė dviem atskiromis žvaigždėmis."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "324695-325166; hash=7d1407240e0509e6a9870d0178451b136fa5a1f4f6cc8b78309b4975ce78b7ad; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Graikai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Senovės graikai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Graikai: mention_match, group, gap=8"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Senovės graikai\" parinktas kaip owner_note_path. Targetas \"Graikai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172277
 
@@ -237,21 +99,6 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
 - t-010
   global_id: t-189391
   teiginys: "Narbutas rašė, kad egiptiečių religinės paslaptys pranoko kitas antikines tautas, o graikai ir romėnai šiuo požiūriu juos mėgdžiojo."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "332505-333153; hash=475bdfad27137c970f46700391a7428cc8a578d440901ff06c3359b09f1bb948; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Graikai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Senovės graikai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Graikai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Senovės graikai\" parinktas kaip owner_note_path. Targetas \"Graikai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172278
 
@@ -259,21 +106,6 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
 - t-011
   global_id: t-189392
   teiginys: "Narbutas teigė, kad senovėje žalčius garbino indai, chaldėjai, egiptiečiai, persai, finikiečiai, graikai, romėnai, gotai ir kitos tautos."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "345843-346147; hash=29c844fc7b17222f596f14f35e361031acd809561d8026a4d6232b5fdae9c348; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gotai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Senovės graikai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Gotai: mention_match, group, gap=95"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Senovės graikai\" parinktas kaip owner_note_path. Targetas \"Gotai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172279
 
@@ -281,21 +113,6 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
 - t-012
   global_id: t-189393
   teiginys: "Narbutas rašė, kad antikos graikai ir romėnai Heraklį vadino Alkidu, Minervą Alkida ir turėjo dievybes Alkides."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "368321-368563; hash=be9adfcb44ede49318a890ef0feadd037997cda38804c04356040f3d5c36c3b6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Graikai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Senovės graikai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Graikai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Senovės graikai\" parinktas kaip owner_note_path. Targetas \"Graikai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172280
 
@@ -303,21 +120,6 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
 - t-013
   global_id: t-189394
   teiginys: "Narbutas rašė, kad chaldėjai, persai, egiptiečiai, graikai, romėnai ir kitos tautos garbino ugnį kaip dievybę."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "379980-380361; hash=f54ab3ad0df3d9c906ca8d5fb742f9fe1d2378cb21ad5b46b0879c38f90aa431; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Romėnai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Senovės graikai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Romėnai: mention_match, group, gap=9"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Senovės graikai\" parinktas kaip owner_note_path. Targetas \"Romėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172281
 
@@ -325,21 +127,6 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
 - t-014
   global_id: t-189395
   teiginys: "Narbutas rašė, kad graikai nuo didvyrių laikų šventu laikė tam tikros ąžuolo rūšies medį, paskirtą Jupiteriui."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "411041-411211; hash=f206648389022dff8034dbfd07df96b7887abe9247ddc5a73f64a8a5a817e607; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Graikai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Senovės graikai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Graikai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Senovės graikai\" parinktas kaip owner_note_path. Targetas \"Graikai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172282
 
@@ -347,21 +134,6 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
 - t-015
   global_id: t-189396
   teiginys: "Narbutas rašė, kad senovės egiptiečiai, graikai ir romėnai statė prabangius aukurus, skirtus atskiriems dievams."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "415584-415901; hash=98caddbbfe705fc64ec6b85bc3136134fc5443878d622418a13f6504cc071a21; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Graikai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Senovės graikai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Graikai: mention_match, group, gap=21"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Senovės graikai\" parinktas kaip owner_note_path. Targetas \"Graikai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172283
 
@@ -369,14 +141,6 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
 - t-016
   global_id: t-194587
   teiginys: "Mat jie ne tik kad buvo su helenais tos pačios kilmės - kaip tatai paaiškės pažinus jų senovės istoriją, - bet ir turėjo vieną ir tais pačiais principais besiremiančią religiją, pamėgdžiojančią beveik visas menkiausias smulkmenas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "149811-150291; hash=459de75cdc2057bbfdfeec5b44b14464befb7dcb6b139c1ec60350a40a31801e; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-176986
 - susijęs iš [[objektai/zodynas/Ratainyčia.md#claim-t-189324|Ratainyčia]]: Narbutas Ratainyčią (Ratajniczu), remdamasis Lasickio tyrimais, priskiria prie jojamuosius arklius globojančių deivių.
@@ -397,8 +161,8 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
     senovės lietuviams, priešinga jų dvasiai, jiems varu primesta“,
     T5 MierzyhskiA.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -424,8 +188,8 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
     šalia tų gražių privalumų -  lėmė daug pasaulietinių ir religi­
     nių piktnaudžiavimų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -444,8 +208,8 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
     būriui pridėjo poetai, be kurių jis greitai būtų netekęs reikš­
     mės.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -463,8 +227,8 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
     pasaulį ir dievus, antrajai buvo pripažįstama vienvaldė galia
     viskam.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -484,8 +248,8 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
     tauta brandino savo stabmeldystę, to dievo garbinimas kitur
     buvo labai senas ir visuotinai paplitęs.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -503,8 +267,8 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
     12 In Verrem Act. -  IV
     13 Aukščiau minėtas veikalas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -524,8 +288,8 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
     tonas, jis apvesdinamas su pagrobtos į pragarą deivės dukteri­
     mi. Egiptiečiai, finikiečiai, graikai, romėnai pasakojo tą patį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -543,8 +307,8 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
     dai, japonai, slavai, lietuviai ir daugelis kitų tautų turėjo dau­
     giau ar mažiau paslaptingą dievų Kabirų ritualą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -564,8 +328,8 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
     ne dangaus kūnų judėjimą, sukimąsi, suprato, kaip juda pla­
     neta Venera.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -591,8 +355,8 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
     dievybės garbinimą, į neišvengiamą bausmę arba atlyginimą
     busimajame gyvenime.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -608,8 +372,8 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
     gelis kitų tautų nebuvo laisvos nuo tų prietarų. Panašų į lietu­
     vių elgesį su žalčiais Julijus Cezaris pastebėjo Pirėnų tautose9.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -624,8 +388,8 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
     laikų graikai ir romėnai Heraklį vadino Alkidu, Minervą -  Al­
     kidą. Jie taip pat turėjo atskiras dievybes, vadintas Alkidėmis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -644,8 +408,8 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
     ro mokymą, įžiūri ugnyje Dievą, arba pasaulio visatos sielą,
     bet nemoka tos esybės pavadinti vardu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -664,8 +428,8 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
     lo rūšies medį, kurio gilėmis maitinosi tautos. Jis buvo paskir­
     tas Jupiteriui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -682,8 +446,8 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
     prastumo turėjo primityvius ir nepuošnius aukurus, išskyrus
     kai kuriuos, buvusius Perkūno šventyklose.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -703,8 +467,8 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
     ir tais pačiais principais besiremiančią religiją, pamėgdžiojan-
     čią beveik visas menkiausias smulkmenas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -715,7 +479,8 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
 - id: c-172268
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 40"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 40."
   citata_originali: |
     A. Briukneris sarkastiškai ironizuoja, kad mitologai („nuo Nar­
     buto iki Karo“) sukūrę „stebėtinai gausų ir įvairų“ lietuvių
@@ -764,7 +529,8 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
 - id: c-172270
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 83"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 83."
   citata_originali: |
     Graikai, kitokio dangaus ir sąmonės tauta, perėmę iš egip­
     tiečių dalį dangaus kūnų ir Titanų giminės garbinimą, išvystė
@@ -784,7 +550,8 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
 - id: c-172272
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 90"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 90."
   citata_originali: |
     Iš jų dažnai galima išgirsti: tas jau
     biją winnam Likis („taip jam jau buvo lemta“)1 2.
@@ -803,7 +570,8 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
 - id: c-172273
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 98"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 98."
   citata_originali: |
     Priklausomai nuo gėrimo pagaminimo būdo
     dievas įgydavo Bubilo arba Ragučio vardą, kaip tai pastebima
@@ -824,7 +592,8 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
 - id: c-172274
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 99"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 99."
   citata_originali: |
     Visose tautose ugnies ir saulės, arba Apolo­
     no, garbinimas sutampa. Ugniai ir saulei buvo nusilenkiama
@@ -864,7 +633,8 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
 - id: c-172276
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 111"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 111."
   citata_originali: |
     Kabirai (Kabiiy)
     Tai yra Trejybė, lietuviškai Trejopa (Triopa) arba Stabmel­
@@ -883,7 +653,8 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
 - id: c-172277
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 190"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 190."
   citata_originali: |
     Šį vardą visi
     siejo su planeta Venera, šviečiančia vakarų pusėje saulei nusi­
@@ -931,7 +702,8 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
 - id: c-172279
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 203"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 203."
   citata_originali: |
     Šiuos prietarus žinojo ir Lietuvos rusinai.
     Senovėje žalčių garbinimas buvo visuotinis: indai, chaldė-
@@ -948,7 +720,8 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
 - id: c-172280
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 216"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 216."
   citata_originali: |
     Senovės germanai nehervalai turėjo du dievaičius Alcius,
     amžinai jaunus, kurie buvo garbinami miškeliuose. Antikos
@@ -964,7 +737,8 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
 - id: c-172281
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 223"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 223."
   citata_originali: |
     Vis dėlto ši pastaba mūsų nesulaiko: eisime mūsų
     pasirinktu keliu, vildamiesi, kad ir mūsų pastangos bus nau­
@@ -1004,7 +778,8 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
 - id: c-172283
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 241"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 241."
   citata_originali: |
     Kunigai, stovėdami ant pa­
     kopų, šioje ugniavietėje degino aukas. Senovės egiptiečiai, grai­
@@ -1022,7 +797,8 @@ A. Brückneris ironizavo, kad romantikų sukurtame lietuvių Olimpe esą galima 
 - id: c-176986
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 83"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 83."
   citata_originali: |
     Štai kokia yra tikra
     ir per amžių amžius patikrinta tiesa, kad tikybinis sugedimas

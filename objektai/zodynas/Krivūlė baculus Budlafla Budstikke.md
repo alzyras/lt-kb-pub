@@ -30,14 +30,6 @@ Tantae fuit auctoritatis, quod non solum ipse vel ali quis de sanguine sua, veru
 - t-001
   global_id: t-194784
   teiginys: "Tantae fuit auctoritatis, quod non solum ipse vel ali quis de sanguine sua, verum et nuntius cum baculo suo vel alio signo nato transiens terminos infidelium praedictorum, a regi bus et nobilibus et communi populo, in magna reverentia haberetur (Šios."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "734890-736901; hash=b6879995a6eb961d11a0cee873ffa16ba21a897850a7e21bad5ac6e874d32863; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-177180
 ## Reikšmingi paminėjimai
@@ -83,8 +75,8 @@ Tantae fuit auctoritatis, quod non solum ipse vel ali quis de sanguine sua, veru
     siųstu, net kunigaikščiai ir prastuomenė priimdavo su didžiau­
     sia pagarba ir griežtai vykdydavo visus jo nurodymus).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

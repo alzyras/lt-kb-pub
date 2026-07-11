@@ -49,9 +49,6 @@ Nenurodyta
 - t-002
   global_id: t-66555
   teiginys: "1778 ir 1780 m. seimai pakartojo ir praplėtė gyventojų išlaidų normuojamąjį įstatymą, bet nenustatė jo vykdymo priežiūros."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "868581-869111; hash=8c903d23c2a0f2525a7a150ca6ea17421a717a617fc346963c4606efb3c2b0d9; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-66762
 
@@ -59,9 +56,6 @@ Nenurodyta
 - t-001
   global_id: t-66556
   teiginys: "1776 m. seimas priėmė gyventojų išlaidų normuojamąjį įstatymą, siekdamas mažinti importą ir remti vietinę pramonę."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "868417-868966; hash=6b6701e7577e5c054ec7c48691f38c5ae001c03a0a1e688645a3272ba481eb07; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-66763
 ## Reikšmingi paminėjimai
@@ -80,8 +74,8 @@ Nenurodyta
     ir praplėstas, tačiau niekuomet nebuvo nustatyta, kas ir kaip turi
     prižiūrėti jo vykdymą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -101,8 +95,8 @@ Nenurodyta
     vadijų bajorijai įsakyta nešioti tam tikros spalvos vietinės medžiagos
     mundierius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

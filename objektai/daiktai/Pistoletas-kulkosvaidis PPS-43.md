@@ -59,12 +59,6 @@ Nenurodyta
 - t-001
   global_id: t-40751
   teiginys: "PPS-43 buvo perdirbtas sovietinis pistoletas-kulkosvaidis, naudotas 1991 m. sausį Parlamente budėjusių savanorių."
-  temporaliniai_duomenys: "įvykio data: 1991 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir pagrįstas citatoje nurodytais faktais."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1049395-1049859; hash=5417ce4e8bc961cabdd3dc09bf5d28061d7ce538edd7c61553858418e8d98531; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-44674
 ## Reikšmingi paminėjimai
@@ -91,8 +85,8 @@ Nenurodyta
 
     puolančiųjų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -42,19 +42,6 @@ Nenurodyta
 - t-001
   global_id: t-185666
   teiginys: "Vytautas greitai užėmė Oršą, patraukė į Drucką ir privertė Drucko kunigaikščius prisiekti ištikimybę jam bei jo įpėdiniams."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "604760-605473; hash=f35f0da5188a1b0746598d6205fe69b6f51688eb876439fb56670408f01c306b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Druckas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytauto žygis prieš Švitrigailą ir Vitebsko atgavimas: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Druckas: mention_match, place, gap=40"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytauto žygis prieš Švitrigailą ir Vitebsko atgavimas\" parinktas kaip owner_note_path. Targetas \"Druckas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-169027
 
@@ -62,19 +49,6 @@ Nenurodyta
 - t-002
   global_id: t-185667
   teiginys: "Jurijus Sviatoslavovičius, išsigandęs Vytauto kariuomenės, prijungė Smolensko pajėgas prie Vytauto žygio į Vitebską."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "605474-606127; hash=4d9e3760f42bec985f5987a6d3012bcea91e9a285ea66c0a38bd78d098fc2a2f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Smolenskas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytauto žygis prieš Švitrigailą ir Vitebsko atgavimas: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Smolenskas: mention_match, place, gap=30"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytauto žygis prieš Švitrigailą ir Vitebsko atgavimas\" parinktas kaip owner_note_path. Targetas \"Smolenskas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-169028
 ## Reikšmingi paminėjimai
@@ -106,8 +80,8 @@ Nenurodyta
     pažadėję ir prisiekę ištikimybę Vytautui bei jo įpėdi­
     niams, susilaukė, ko prašė.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -133,8 +107,8 @@ Nenurodyta
     gailos skatinimų, kiek įsakymų bei grasinimų, prieši­
     nosi iš paskutiniųjų.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -145,7 +119,8 @@ Nenurodyta
 - id: c-169027
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 347"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 347."
   citata_originali: |
     Vytautui ir pačiam rūpėjo šis karas, nes troško, kad
     Baltarusijos žemės būtų pa-
@@ -179,7 +154,8 @@ Nenurodyta
 - id: c-169028
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 347"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 347."
   citata_originali: |
     Taip pat ir Jurijus Svia-
     toslavovičius, Smolensko valdovas, nors ir elgėsi kaip

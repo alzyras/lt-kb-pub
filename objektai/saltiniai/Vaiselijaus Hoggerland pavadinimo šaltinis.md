@@ -30,21 +30,6 @@ Narbutas nurodo, kad, remiantis Vaiselijumi, Hokerlando sritis vadinta Hoggerlan
 - t-001
   global_id: t-191862
   teiginys: "Narbutas nurodo, kad, remiantis Vaiselijumi, Hokerlando sritis vadinta Hoggerlandu pagal mitinio kunigaikščio Hogo vardą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "644595-644948; hash=1ffa520799231ff3833606729da181dd33f43bf70325b99a5a112d6bd6d193e9; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Pamaris: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vaiselijaus Hoggerland pavadinimo šaltinis: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Pamaris: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vaiselijaus Hoggerland pavadinimo šaltinis\" parinktas kaip owner_note_path. Targetas \"Pamaris\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174744
 ## Reikšmingi paminėjimai
@@ -61,8 +46,8 @@ Narbutas nurodo, kad, remiantis Vaiselijumi, Hokerlando sritis vadinta Hoggerlan
     mitinio tenykščio kunigaikščio Hogo, kunigaikštytės Po-
     gezanijos tėvo, vardą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -73,7 +58,8 @@ Narbutas nurodo, kad, remiantis Vaiselijumi, Hokerlando sritis vadinta Hoggerlan
 - id: c-174744
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 357"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 357."
   citata_originali: |
     Pamaryje buvo ne tiek daug gyventojų, nes ten plytėjo
     didžiuliai miškai. Čia gyveno stiprūs ir karingi žmonės,

@@ -51,9 +51,6 @@ Nenurodyta
 - t-001
   global_id: t-66794
   teiginys: "Didikai bandė sutrukdyti Mykolo Kaributo Višniaveckio elekciją, tačiau bajorija gynė savo išrinktąjį karalių."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "726397-726693; hash=8cc93231dcf0b5bed4854b601b529ede0ba991248f82a8c279e23cd7b3c92f91; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-66922
 
@@ -61,9 +58,6 @@ Nenurodyta
 - t-002
   global_id: t-66795
   teiginys: "Lenkijos vicekancleriui Olšovskiui iškėlus šūkį, karaliumi netikėtai buvo paskelbtas Mykolas Kaributas Višniaveckis."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "hash=b8d1dee7545ab8caf59ee3f222db89ae2ec0cbda42d5150cb11d9410e9ce490e; match=normalized; occurrences=1"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-66921
 ## Reikšmingi paminėjimai
@@ -79,8 +73,8 @@ Nenurodyta
     visai netikėtai karalium buvo paskelbtas Mykolas Kaributas Viš-
     niaveckis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -97,8 +91,8 @@ Nenurodyta
     vadovaujamoji Lietuva irgi pasisakė už jį, ir tuo būdu Višnia-
     veckis tapo karalium.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -41,16 +41,6 @@ Tą liudija Ordino pareigūno vienas laiš­ kas (įdėtas F o i g t o, V, 546) 
 - t-001
   global_id: t-88460
   teiginys: "Ordino pareigūno laiške Lenkijos karalienei teigta, kad Karigaila buvo kareivių neatpažintas ir nukautas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "275143-276334; hash=8c3dc614f62223a8c007e480bb3a502c29b20cbb07730d149c099c7665d704c6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Karigaila: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ordino pareigūno laiškas Lenkijos karalienei apie Karigailą: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Karigaila: mention_match, person, gap=56"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ordino pareigūno laiškas Lenkijos karalienei apie Karigailą\" parinktas kaip owner_note_path. Targetas \"Karigaila\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-84439
 ## Reikšmingi paminėjimai
@@ -91,8 +81,8 @@ Tą liudija Ordino pareigūno vienas laiš­ kas (įdėtas F o i g t o, V, 546) 
     šimai panašiai užginčija, kad Kari-
     gailalauvęs nukirsdintas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

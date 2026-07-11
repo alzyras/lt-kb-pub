@@ -33,17 +33,6 @@ Po to parašė jam dar kitą raš­ tą, kuriame labai gražiai išdėstė, kad 
 - t-001
   global_id: t-36595
   teiginys: "Sūdavija su Jotvingija buvo laikomos lietuvių kraštais, dėl kurių negalėjo kilti ginčas."
-  semantiniai_rysiai: "Sūdavija priklausė Lietuviai (0.86); Jotvingija priklausė Lietuviai (0.86)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "340820-341563; hash=2fe016e57664ed53aaa3f4d13cdf780f2fdcc9c7652bdd55743d4571c2ba2d41; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Lietuviai: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Sūdavija: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Sūdavija tiesiogiai apibūdinta kaip lietuvių kraštas."
   pagrindžia:
     - c-38651
 - susijęs iš [[objektai/asmenys/Martynas V.md#claim-t-184433|Martynas V]]: Popiežius Martynas V galutinai patvirtino Žemaičių vyskupiją.
@@ -68,8 +57,8 @@ Po to parašė jam dar kitą raš­ tą, kuriame labai gražiai išdėstė, kad 
     rių ir ginčo negali kilti; tad jei sprendimas nebus atmainytas,
     kol gyvas bus, nepalaikys su Zigmantu taikos^3 ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -102,6 +91,3 @@ Po to parašė jam dar kitą raš­ tą, kuriame labai gražiai išdėstė, kad 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-36595
-
-## Ryšiai
-- Sūdavija priklausė [[objektai/grupes/Lietuviai]]

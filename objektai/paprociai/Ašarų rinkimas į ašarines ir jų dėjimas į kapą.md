@@ -51,14 +51,6 @@ Nenurodyta
 - t-001
   global_id: t-189820
   teiginys: "Narbutas rašo, kad per laidotuves išverktas ašaras rinkdavo į molinius ar stiklinius indelius ir statydavo kape prie mirusiojo kojų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "650710-651096; hash=483624f108b97fde04e404fc085b69ab1a389cb70b3d667c2f8c32c5f28fff23; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172703
 
@@ -66,14 +58,6 @@ Nenurodyta
 - t-002
   global_id: t-189821
   teiginys: "Narbutas pastebėjo sudaužytų ašarinių liekanų, o kelių šukių vidus buvo dengtas tamsiai rudos spalvos glazūra."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "665357-665866; hash=fde4f5c452aed02e7301f1e2189bde3fe81a0bec90bd21bd857d8797ecc10309; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172704
 
@@ -81,21 +65,6 @@ Nenurodyta
 - t-003
   global_id: t-189822
   teiginys: "Narbutas rašo, kad toje vietoje buvo randama daug ašarinėms priskiriamų nuolaužų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "666710-667087; hash=c0e070a5baea18b68f4a6585e4fd105ed876953236d39b5e0458cc4fa53e6e1d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Sandara: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ašarų rinkimas į ašarines ir jų dėjimas į kapą: owner_note_path, thing"
-  ryšio_targeto_parinkimas: "Sandara: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ašarų rinkimas į ašarines ir jų dėjimas į kapą\" parinktas kaip owner_note_path. Targetas \"Sandara\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172705
 ## Reikšmingi paminėjimai
@@ -113,8 +82,8 @@ Nenurodyta
     indelių; šiuos indus, arba ašarines, pastatydavo kape prie mi­
     rusiojo kojų. Apie tai bus straipsnyje „Kapai“.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -134,8 +103,8 @@ Nenurodyta
     linius dubenėlius, kurių seniau niekas nedrįsdavo judinti; vė­
     liau smalsūs svečiai surinko ir šukes.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -154,8 +123,8 @@ Nenurodyta
     dos apskrityse, nuo seniausių laikų buvo specialios vietos, į ku­
     rias dėdavo sudegintų žmonių pelenus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -166,7 +135,8 @@ Nenurodyta
 - id: c-172703
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 367"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 367."
   citata_originali: |
     Ne­
     turtingų žmonių laidotuvėse nebūna tiek triukšmo; tačiau net
@@ -186,7 +156,8 @@ Nenurodyta
 - id: c-172704
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 375"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 375."
   citata_originali: |
     Radau keletą geležėlių, kurios man
     atrodė esančios mažų sagtelių liekanos. Dar pastebėjau su­
@@ -207,7 +178,8 @@ Nenurodyta
 - id: c-172705
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 375"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 375."
   citata_originali: |
     Ir
     šiandien ten randama daugybė nuolaužų, priklausančių ašari­

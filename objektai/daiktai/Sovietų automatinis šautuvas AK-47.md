@@ -62,19 +62,6 @@ Nenurodyta
 - t-001
   global_id: t-78677
   teiginys: "1947 m. M. Kalašnikovo sukurtas automatinis šautuvas AK-47 buvo priimtas į sovietinės armijos ginkluotę."
-  temporaliniai_duomenys: "įvykio data: 1947 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys tiesiogiai paremtas citata ir aiškiai apibūdina AK-47."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1040890-1041315; hash=6705d74244c6f67afec90bb859f159a0a13a82102c3bebe12f210c8d432ddb6e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Šautuvai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Sovietų automatinis šautuvas AK-47: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Šautuvai: mention_match, thing, gap=12"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sovietų automatinis šautuvas AK-47\" parinktas kaip owner_note_path. Targetas \"Šautuvai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-75891
 
@@ -82,21 +69,6 @@ Nenurodyta
 - t-003
   global_id: t-78678
   teiginys: "Sovietų automatinis šautuvas AK-47 pasižymėjo paprasta priežiūra, patikima veikimo konstrukcija ir pigia gamyba."
-  temporaliniai_duomenys: "įvykio data: 1959 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Perrašyta, kad subjektas aiškiai sutaptų su pastabos objektu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1042642-1043370; hash=494551e6bc9b08bf62780144faa3f219b46be36cfdbe4baaa47d523f575f5197; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Sovietų automatinis (pusiau automatinis) šautuvas SVT-40: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Sovietų automatinis šautuvas AK-47: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Sovietų automatinis (pusiau automatinis) šautuvas SVT-40: mention_match, thing, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sovietų automatinis šautuvas AK-47\" parinktas kaip owner_note_path. Targetas \"Sovietų automatinis (pusiau automatinis) šautuvas SVT-40\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-75893
 
@@ -104,19 +76,6 @@ Nenurodyta
 - t-002
   global_id: t-78679
   teiginys: "Sovietų automatinis šautuvas AK-47 pasižymėjo paprasta priežiūra, patikima konstrukcija ir pigia gamyba."
-  temporaliniai_duomenys: "įvykio data: 1959 m.; įvykio data: 1974 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, pilnas ir tiksliai perteikia citatos informaciją."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1043013-1043473; hash=d7828c7596c7ca1eac311467a585591a47c57209020c2a9ebf022eb02175a1bf; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Sovietų automatinis (pusiau automatinis) šautuvas SVT-40: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Sovietų automatinis šautuvas AK-47: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Sovietų automatinis (pusiau automatinis) šautuvas SVT-40: mention_match, thing, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sovietų automatinis šautuvas AK-47\" parinktas kaip owner_note_path. Targetas \"Sovietų automatinis (pusiau automatinis) šautuvas SVT-40\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-75892
 ## Reikšmingi paminėjimai
@@ -139,8 +98,8 @@ Nenurodyta
     1947 m. sovietų konstruktoriaus M. Kalašnikovo sukurtas automa-
     tinis šautuvas AK-47 buvo priimtas į sovietinės armijos ginkluotę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -160,8 +119,8 @@ Nenurodyta
     siją - AKM. 1974 m. buvo sukurtas naujas Kalašnikovo automato
     variantas — AK-74, kuris naudojo dar mažesnį šovinį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -188,8 +147,8 @@ Nenurodyta
     nizuotą (palengvintą ir supaprastintos konstrukcijos) AK-47 ver-
     siją - AKM.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -58,20 +58,6 @@ Nenurodyta
 - t-003
   global_id: t-186661
   teiginys: "Lietuvos metraštis pasakoja, kad tuo metu stepėje, dvylika mylių nuo Braclavo, lietuviai sumušė kelis šimtus totorių."
-  teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Lietuviai kariavo prieš Totoriai (0.86)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "265151-265486; hash=237bfb0f1f1b211f39cbe3740f832a0613ca668686b707ebf5359f9b6689c04a; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
-  ryšio_patikimumas: "kariavo_pries -> Totoriai: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Totoriai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo lietuvius sumušus totorius, todėl tai karinis priešiškumas."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-169917
 
@@ -79,19 +65,6 @@ Nenurodyta
 - t-002
   global_id: t-186662
   teiginys: "Lietuvos metraščio pasakojime visi iš Braclavo į Moldaviją išvaryti žmonės sugrįžo į Braclavą po miesto atstatymo."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "265151-265486; hash=237bfb0f1f1b211f39cbe3740f832a0613ca668686b707ebf5359f9b6689c04a; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
-  ryšio_patikimumas: "susije_su -> Braclavas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Braclavo atstatymas ir lietuvių pergalė prieš totorius stepėje: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Braclavas: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Braclavo atstatymas ir lietuvių pergalė prieš totorius stepėje\" parinktas kaip owner_note_path. Targetas \"Braclavas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-169917
 
@@ -99,19 +72,6 @@ Nenurodyta
 - t-001
   global_id: t-186663
   teiginys: "Lietuvos metraštis Aleksandrą vadina didžiuoju kunigaikščiu ir pasakoja, kad jis nemažai laiko praleido Braclave bei atstatė miestą."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "265151-265486; hash=237bfb0f1f1b211f39cbe3740f832a0613ca668686b707ebf5359f9b6689c04a; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
-  ryšio_patikimumas: "susije_su -> Braclavas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Braclavo atstatymas ir lietuvių pergalė prieš totorius stepėje: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Braclavas: mention_match, place, gap=44"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Braclavo atstatymas ir lietuvių pergalė prieš totorius stepėje\" parinktas kaip owner_note_path. Targetas \"Braclavas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-169917
 
@@ -119,12 +79,6 @@ Nenurodyta
 - t-004
   global_id: t-193849
   teiginys: "Didysis kunigaikštis Aleksandras išstovėjo Braclave nemaža laiko ir atstatė Braclavo miestą; visi žmonės, kurie iš Braclavo buvo išvaryti i Moldaviją, sugrįžo į Braciavą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "265151-265486; hash=237bfb0f1f1b211f39cbe3740f832a0613ca668686b707ebf5359f9b6689c04a; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-169917
 ## Reikšmingi paminėjimai
@@ -140,8 +94,8 @@ Nenurodyta
     kui didysis kunigaikštis Aleksandras sugrįžo į Lietu­
     vą 3 9 .
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

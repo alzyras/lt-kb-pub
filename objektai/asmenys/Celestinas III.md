@@ -35,17 +35,6 @@ Dusburgietis teigia, kad septyniais sakramentais, taip dievo vietininkas žemėj
 - t-001
   global_id: t-60224
   teiginys: "Popiežius Celestinas III Jeruzalėje įkūrė Šv. Marijos Teutonų ordino ligoninę ir paskyrė septynis kraštų valdytojus."
-  semantiniai_rysiai: "Celestinas III pastatė Jeruzalė (0.70)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "43119-43821; hash=e89ca5c0d803544e3cca59a576fee7330eee3b5a20ce209c3919c935841cd262; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "pastate -> Jeruzalė: 0.70"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Celestinas III: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Jeruzalė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata teigia, kad Celestinas III Jeruzalėje įkūrė ligoninę; konkrečios ligoninės objekto nėra, todėl fiksuojama vieta."
   pagrindžia:
     - c-60856
 
@@ -53,17 +42,6 @@ Dusburgietis teigia, kad septyniais sakramentais, taip dievo vietininkas žemėj
 - t-002
   global_id: t-60225
   teiginys: "Celestinas III Jeruzalėje įkūrė ir pašventino Šv. Marijos Teutonų ordino vienuolių ligoninę."
-  semantiniai_rysiai: "Celestinas III pastatė Jeruzalė (0.72)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "108711-109300; hash=86106ea03a5ed1aa0c7d12f7c82ca468b866b2a9e097a5b762409f618cb56d2f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "pastate -> Jeruzalė: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Celestinas III: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Jeruzalė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai sieja Celestiną III su namų arba ligoninės įkūrimu Jeruzalėje."
   pagrindžia:
     - c-60857
 - susijęs iš [[objektai/asmenys/Popiežius Celestinas III.md#claim-t-60480|Popiežius Celestinas III]]: Dusburgietis rašo, kad popiežius Celestinas III Jeruzalėje įkūrė Švč. Marijos Teutonų ordino ligoninę.
@@ -94,8 +72,8 @@ Dusburgietis teigia, kad septyniais sakramentais, taip dievo vietininkas žemėj
     Vokietijai, Austrijai ir kt. Šių namų pagrindą sudaręs didysis magistras ir kapitula, jų
     niekas negalėsiąs sugriauti, nes jie pastatyti „ant tvirtos uolos, o toji uola — Kristus“.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -114,8 +92,8 @@ Dusburgietis teigia, kad septyniais sakramentais, taip dievo vietininkas žemėj
     pamatai — didysis magistras bei kapitula; krašto komtūrai, arba kraštų valdytojai,— jo
     šulai, o kiti broliai—sienos.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -126,7 +104,8 @@ Dusburgietis teigia, kad septyniais sakramentais, taip dievo vietininkas žemėj
 - id: c-60856
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 17"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 17."
   citata_originali: |
     Kronikoje itin ryškus teologiniai momentai. Pratarmėje autorius pranašo Danieliaus
     žodžius panaudoja Kryžiuočių ordino nuopelnams Prūsijoje pabrėžti. Pirmosios dalies
@@ -147,7 +126,8 @@ Dusburgietis teigia, kad septyniais sakramentais, taip dievo vietininkas žemėj
 - id: c-60857
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 36"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 36."
   citata_originali: |
     Štai šis popiežius Celestinas
     III Jeruzalėje „pastatė namus“, tai yra įkūrė ir pašventino savo bei šventosios bažnyčios
@@ -163,6 +143,3 @@ Dusburgietis teigia, kad septyniais sakramentais, taip dievo vietininkas žemėj
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60225
-
-## Ryšiai
-- Celestinas III pastatė [[objektai/vietos/Jeruzalė]], [[objektai/daiktai/Namas]]

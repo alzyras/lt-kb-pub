@@ -32,9 +32,6 @@ Lazauskas ra­ šo: „Sunku bus laikyti mokytojum tasai, kurs nepasistengs su �
 - t-001
   global_id: t-95949
   teiginys: "Mokytojas J. Lazauskas „Mokyklos ir Gyvenimo“ 2-ajame numeryje rašė, kad sunku laikyti mokytoju tą, kuris nesusipažins su nauja kruopštaus švietimo darbuotojo dovana."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "738440-738631; hash=73181d3d719141857b4f3e2edc436db3ec9240e42fddcade01ba040ddd09c81d; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-37143
 ## Reikšmingi paminėjimai
@@ -47,8 +44,8 @@ Lazauskas ra­ šo: „Sunku bus laikyti mokytojum tasai, kurs nepasistengs su �
     šo: „Sunku bus laikyti mokytojum tasai, kurs nepasistengs su šia
     nauja kropštaus švietimo srities darbininko dovana susipažinti”.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

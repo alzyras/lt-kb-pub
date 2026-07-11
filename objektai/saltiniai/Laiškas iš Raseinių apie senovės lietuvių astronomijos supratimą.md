@@ -38,21 +38,6 @@ Narbutas antrajam LTI leidimui skyrių papildė iš Raseinių gauto laiško frag
 - t-001
   global_id: t-191791
   teiginys: "Narbutas antrajam LTI leidimui skyrių papildė iš Raseinių gauto laiško fragmentu."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "874636-874894; hash=5b8d513c3b4ad395ed406283aef03bcf9ebd62fb75509de559e64f492aee11d5; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Raseiniai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Laiškas iš Raseinių apie senovės lietuvių astronomijos supratimą: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Raseiniai: mention_match, place, gap=3"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Laiškas iš Raseinių apie senovės lietuvių astronomijos supratimą\" parinktas kaip owner_note_path. Targetas \"Raseiniai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174673
 ## Reikšmingi paminėjimai
@@ -72,8 +57,8 @@ Narbutas antrajam LTI leidimui skyrių papildė iš Raseinių gauto laiško frag
     nevičius
     (1799—1848).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -84,7 +69,8 @@ Narbutas antrajam LTI leidimui skyrių papildė iš Raseinių gauto laiško frag
 - id: c-174673
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 479"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 479."
   citata_originali: |
     1 Laiško,
     gauto

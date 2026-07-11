@@ -57,20 +57,6 @@ Nenurodyta
 - t-001
   global_id: t-100056
   teiginys: "1404 m. Raciąže Vytautas pažadėjo Ordinui pildyti Salyno taikos sąlygas, kad galėtų vėl veikti rytuose."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) sudarė sutartį su Kryžiuočių ordinas (0.78)"
-  temporaliniai_duomenys: "įvykio data: 1404 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalinta išnašos žyma ir sakinys suformuluotas enciklopediškai."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "873252-873637; hash=c6d532674c65d5f708eabda8af922d80da585665bbf8d58e86e075a116c38418; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "sudare_sutarti_su -> Kryžiuočių ordinas: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Teiginys ir citata sieja Vytautą su pažadu Ordinui taikos sąlygų kontekste."
   pagrindžia:
     - c-93983
 ## Reikšmingi paminėjimai
@@ -87,8 +73,8 @@ Nenurodyta
     maičiai, kurie 1401 Vytauto nurodymais buvo sulolę prieš kryžiuo­
     čių valdžią, vėl buvo jiems pažadami.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

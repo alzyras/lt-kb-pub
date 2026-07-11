@@ -53,19 +53,6 @@ Nenurodyta
 - t-001
   global_id: t-186830
   teiginys: "Lietuvos metraštyje pasakojama, kad prieš vokiečius išjoję Mindaugo kariai buvo ginkluoti arbaletais."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "91716-92052; hash=6ecf9cdbb89b43f46939a147f16bc467f218c80fd74cf9599e85a1e3ea692de2; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
-  ryšio_patikimumas: "susije_su -> Jotvingiai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Arbaletai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Jotvingiai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Arbaletai\" parinktas kaip owner_note_path. Targetas \"Jotvingiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-170014
 
@@ -73,12 +60,6 @@ Nenurodyta
 - t-002
   global_id: t-193865
   teiginys: "O rytojaus metą prieš vokiečius išjojo [Mindaugo kariai), ginkluoti arbaletais; ir jodinėjo ru sai bei poloviečiai su strėlėmis, o jotvingiai su trumpo mis ietimis, ir vaikėsi po lauką, tarytum turnyre."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "91716-92052; hash=6ecf9cdbb89b43f46939a147f16bc467f218c80fd74cf9599e85a1e3ea692de2; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-170014
 - susijęs iš [[objektai/daiktai/Arbaletas.md#claim-t-64900|Arbaletas]]: Sembų puolimo metu vienas Ordino brolis, gindamas pilį, paliko įtemptą arbaletą ir pabėgo.
@@ -103,8 +84,8 @@ Nenurodyta
     mis ietimis, ir vaikėsi po lauką, tarytum turnyre. Ir iš
     ten (Tautvilą) sugrįžo namo į Žemaitiją 2 6 .
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

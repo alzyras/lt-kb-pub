@@ -30,19 +30,6 @@ Lenkai tvirtino, kad Jogailos ir Vytauto laikų susitarimai bei Žygimanto laik�
 - t-001
   global_id: t-186315
   teiginys: "Lenkai tvirtino, kad Jogailos ir Vytauto laikų susitarimai bei Žygimanto laikų potvarkiai negali būti keičiami."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "857253-858037; hash=9a1a97a47c8365015d1a0844326a189586b0dbf4f380582d8254ab85c710cd9d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Žygimantas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jogailos sudaryta sutartis, paprastai vadinama unija: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Žygimantas: mention_match, person, gap=42"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jogailos sudaryta sutartis, paprastai vadinama unija\" parinktas kaip owner_note_path. Targetas \"Žygimantas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-169676
 ## Reikšmingi paminėjimai
@@ -67,8 +54,8 @@ Lenkai tvirtino, kad Jogailos ir Vytauto laikų susitarimai bei Žygimanto laik�
     pavertė Lenkijos sritimi bei Lenkijos karalių nuosavy­
     be.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -79,7 +66,8 @@ Lenkai tvirtino, kad Jogailos ir Vytauto laikų susitarimai bei Žygimanto laik�
 - id: c-169676
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 487"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 487."
   citata_originali: |
     Be to, turinti būti sugrąžinta Podolė, kurią Lie­
     tuvos kunigaikščių ginklas išvadavęs iš skitų vergovės.

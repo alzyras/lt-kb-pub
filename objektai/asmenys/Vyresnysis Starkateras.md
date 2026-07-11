@@ -30,22 +30,6 @@ Narbuto perteikiamuose skandinavų padavimuose Starkateras laikomas Sterverko s�
 - t-001
   global_id: t-191239
   teiginys: "Narbuto perteikiamuose skandinavų padavimuose Starkateras laikomas Sterverko sūnumi ir vyresniojo Starkatero anūku."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Starkateras buvo sūnus Sterverkas (0.96)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "429905-430383; hash=796041e8d2c54b2d6c5b7a420903e7e47519aaaecc812ceccfa572335590e2c8; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sunus -> Sterverkas: 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Starkateras: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Sterverkas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Starkaterą esant Sterverko sūnumi."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174121
 
@@ -53,21 +37,6 @@ Narbuto perteikiamuose skandinavų padavimuose Starkateras laikomas Sterverko s�
 - t-002
   global_id: t-191240
   teiginys: "Narbuto pasakojime Starkateras nuvyko į Rusią, iškvietė Viziną dvikovon ir, pasitelkęs gudrybę, jį nukovė."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "431802-432185; hash=00bc6627ec19fc18dd21eeb9be41c7356fce77aee64af3e5f07be16048b84902; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Rusai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vyresnysis Starkateras: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Rusai: mention_match, group, gap=21"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vyresnysis Starkateras\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174122
 
@@ -75,22 +44,6 @@ Narbuto perteikiamuose skandinavų padavimuose Starkateras laikomas Sterverko s�
 - t-003
   global_id: t-191241
   teiginys: "Narbuto pasakojime Starkateras privertė rusnėnų karaliuką Floką sprukti iš rūmų ir pasisavino jo aukso bei sidabro lobius."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Starkateras puolė Flokas (0.79)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "431968-432444; hash=2282a1644d5269a211d515f4cd0da665fa8538ec2f696dc16547639956b321a1; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Flokas: 0.79"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Starkateras: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Flokas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Nors veiksmas aprašytas ne techniniu puolimo žodžiu, Starkatero prievarta prieš Floką tiesiogiai išreikšta."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174123
 ## Reikšmingi paminėjimai
@@ -111,8 +64,8 @@ Narbuto perteikiamuose skandinavų padavimuose Starkateras laikomas Sterverko s�
     ringumo žmogus. Jis buvo auklėjamas Danijos karaliaus
     Haroldo rūmuose kartu su karalaičiu Vikaru.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -131,8 +84,8 @@ Narbuto perteikiamuose skandinavų padavimuose Starkateras laikomas Sterverko s�
     jam, nes, pasikliaudamas savo burtais, slibinas nebuvo itin
     atsargus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -152,8 +105,8 @@ Narbuto perteikiamuose skandinavų padavimuose Starkateras laikomas Sterverko s�
     Floką sprukti iš savo rūmų, pasisavino jo nesuskaičiuoja­
     mus lobius, daugybę aukso ir sidabro4.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -164,7 +117,8 @@ Narbuto perteikiamuose skandinavų padavimuose Starkateras laikomas Sterverko s�
 - id: c-174121
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 243"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 243."
   citata_originali: |
     235
     Frotono III sūnus Fridleifas buvo auklėjamas Rusioje,
@@ -187,7 +141,8 @@ Narbuto perteikiamuose skandinavų padavimuose Starkateras laikomas Sterverko s�
 - id: c-174122
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 244"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 244."
   citata_originali: |
     Pirkliavę Danijoje rusai
     guodėsi šia baisenybe. Narsusis Starkateras, tai sužino­
@@ -207,7 +162,8 @@ Narbuto perteikiamuose skandinavų padavimuose Starkateras laikomas Sterverko s�
 - id: c-174123
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 244"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 244."
   citata_originali: |
     Žinodamas, kad slibinas žvilgsniu
     užkerėdavo ginklą, jis liepė savo kalaviją apsiūti plona

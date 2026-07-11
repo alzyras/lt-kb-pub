@@ -32,9 +32,6 @@ Kleinas išleido net pirmąją lietuvių kalbos gramatiką, o 1666 m. — dvi gi
 - t-001
   global_id: t-67366
   teiginys: "1653 m. D. Kleinas išleido pirmąją lietuvių kalbos gramatiką."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "1215893-1216223; hash=080156330fffa534577d6491b3048f8b1cfa4cb02feca114edc00df1bd31840f; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-67305
 ## Reikšmingi paminėjimai
@@ -52,8 +49,8 @@ Kleinas išleido net pirmąją lietuvių kalbos gramatiką, o 1666 m. — dvi gi
     kurios ėjo pagrindu vėlesnėms lietuvių liu-
     terionių giesmynų laidoms.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

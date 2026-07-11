@@ -50,10 +50,6 @@ Nenurodyta
 - t-001
   global_id: t-08321
   teiginys: "Ritmuša buvo senovinis vaikų žaidimo ir karinės pratybos įrankis."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "213972-214301; hash=d0d77ef49b192807788045e527d906096fb10cef68baaef33f62fa202ee4064e; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-56403
 
@@ -61,17 +57,6 @@ Nenurodyta
 - t-002
   global_id: t-08322
   teiginys: "Ritmuša buvo senovinis jaunimo karės įrankis, kurio mokėsi nuo mažų dienų."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "214991-215237; hash=c0c336f7df539c7729fba407f62f09bc3061225e208e63a27fdb849934f8fed9; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kalnėnai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ritmuša: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Kalnėnai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ritmuša\" parinktas kaip owner_note_path. Targetas \"Kalnėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-56404
 ## Reikšmingi paminėjimai
@@ -84,8 +69,8 @@ Nenurodyta
         kurs lekiantį ant savęs ritinį pro save nepraleido, bet su ritmuša antram atbloškė ir dėl to vien
         jau vyru vadinos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -98,8 +83,8 @@ Nenurodyta
         kaipo visų didžiausia karės mokslinyčia^399 , kaip tuojau regėsim, nesgi tuo mokės nuo pat mažų
         dienų, kaip gintis ir kaip neprietelių paveikti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

@@ -42,12 +42,6 @@ Dusburgietis teigia, kad codex diplomaticus Warmiensis oder Regesten und Urkunde
 - t-001
   global_id: t-61059
   teiginys: "Codex diplomaticus Warmiensis pirmasis tomas, apimantis 1231–1340 m., išleistas Maince 1860 m."
-  temporaliniai_duomenys: "įvykio data: 1231-1340; įvykio data: 1340 m.; įvykio data: 1860 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pateikia leidinio tomą, chronologines ribas ir leidimo vietą bei metus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "767395-767540; hash=e0331692e1f01cbfc598a9ac91a18c9726da893830807afa6b69827f8a7dd07e; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-61691
 ## Reikšmingi paminėjimai
@@ -59,8 +53,8 @@ Dusburgietis teigia, kad codex diplomaticus Warmiensis oder Regesten und Urkunde
     Codex diplomaticus Warmiensis oder Regesten und Urkunden zur Geschichte Ermlands
     / K. P. Woelky und J. M. Saage.—Bd. 1 (1231 —1340), Mainz, 1860.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -71,7 +65,8 @@ Dusburgietis teigia, kad codex diplomaticus Warmiensis oder Regesten und Urkunde
 - id: c-61691
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 261"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 261."
   citata_originali: |
     Codex diplomaticus Warmiensis oder Regesten und Urkunden zur Geschichte Ermlands
     / K. P. Woelky und J. M. Saage.—Bd. 1 (1231 —1340), Mainz, 1860.

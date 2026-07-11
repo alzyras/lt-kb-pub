@@ -54,9 +54,6 @@ Nenurodyta
 - t-002
   global_id: t-65014
   teiginys: "Krokuvos katedroje esančiame Zigmanto II antkapyje Zigmantas II Senasis pavaizduotas kaip Lietuvos didysis kunigaikštis ir Lenkijos karalius."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "hash=56654550322c5c8fe3cf1d0579d6b0c04ed01c712637df11bfd96508fb131803; match=normalized; occurrences=1"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-65533
 
@@ -64,9 +61,6 @@ Nenurodyta
 - t-001
   global_id: t-65015
   teiginys: "Zigmanto II antkapis buvo Krokuvos katedroje."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "430369-430585; hash=ba2f477dfc9dc52ae60669a0d4a98cf1224d3a83b5371ed2bd0d327c7ebaf7c4; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-65534
 - susijęs iš Krokuva: Su Jogaila į Vilnių atvykę lenkų ponai buvo išsiųsti į Krokuvą, bet Vytautas jų susitarimo nebesulaukė.
@@ -82,8 +76,8 @@ Nenurodyta
     Lenkų karalius (taip jis atvaizduotas Kro-
     kuvos katedroje esančiam antkapy).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -98,8 +92,8 @@ Nenurodyta
     virvę. Jo sveikata pairo tik į gyvenimo pabaigą. Jaunystę praleido
     Zigmanto II antkapis Krokuvos katedroje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

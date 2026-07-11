@@ -48,21 +48,6 @@ Nenurodyta
 - t-001
   global_id: t-191024
   teiginys: "Narbutas, remdamasis Hartknochu, kimbrų epochos potvynį sieja su dideliais Baltijos jūros krantų reljefo ir pavidalo pokyčiais Prūsijoje."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "78509-79213; hash=62141f4576e3b31ce8278c8a005ffb6d5723c442053e1aa66675759e553f5e81; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Baltija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kimbrų epochos potvynis Baltijos pakrantėse: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Baltija: mention_match, place, gap=42"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kimbrų epochos potvynis Baltijos pakrantėse\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173906
 
@@ -70,22 +55,6 @@ Nenurodyta
 - t-002
   global_id: t-191025
   teiginys: "Narbutas rašo, kad Strijkovskis Karaliaučiuje turėjo Jokimo Rozencveigo veikalus, kuriuose buvo cituojamas kimbrų epochos potvynis."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Kimbrai keliavo į Baltija (0.62)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "78939-79848; hash=5ed08159a8ea86904a0eedaeb4d23038b9ed8c74fc57c22b38ae431b01dda28c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Baltija: 0.62"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kimbrai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Baltija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai mini kimbrų pasitraukimą nuo Baltijos jūros pakrančių, bet kryptis yra iš Baltijos, ne į ją."
-  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173907
 ## Reikšmingi paminėjimai
@@ -108,8 +77,8 @@ Nenurodyta
     mas Karaliaučiuje (kur tikriausiai rašė pirmąsias savo
     kronikos knygas), turėjo po ranka.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -137,8 +106,8 @@ Nenurodyta
     tenykščio prokonsulo Cyras-Karbo** vadovaujamais ro­
     mėnais; tai įvyko 190 metais prieš Kristaus gimimą4.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -149,7 +118,8 @@ Nenurodyta
 - id: c-173906
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 46"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 46."
   citata_originali: |
     Sis ypatingas įvykis, atsitikęs žemėje, kuria
     ypač domisi mūsų veikalas, vertas to, kad jam būtų skir­
@@ -174,7 +144,8 @@ Nenurodyta
 - id: c-173907
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 46"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 46."
   citata_originali: |
     O ypač stengė­
     si, kad išliktų atminimas apie tą didžiulį kimbrų epochos

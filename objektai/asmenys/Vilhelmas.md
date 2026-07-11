@@ -41,19 +41,6 @@ Vilhelmas iš Krokuvos pilies buvo išvytas; Jadvyga, norėjusi pas jį pabėgti
 - t-002
   global_id: t-51186
   teiginys: "Vienuolikmetė Jadvyga buvo sužieduota su Austrijos hercogu Vilhelmu."
-  temporaliniai_duomenys: "įvykio data: 1383 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata patvirtina faktą, o pradinis teiginys buvo fragmentiškas ir su OCR triukšmu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "366600-367201; hash=482de563d0d23bd9fb93f7f012ce4f336bd7d501db4297c998ef4efb1c97e8dc; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Austrija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilhelmas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Austrija: mention_match, place, gap=18"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilhelmas\" parinktas kaip owner_note_path. Targetas \"Austrija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-36533
 
@@ -61,18 +48,6 @@ Vilhelmas iš Krokuvos pilies buvo išvytas; Jadvyga, norėjusi pas jį pabėgti
 - t-001
   global_id: t-51187
   teiginys: "Austrijos hercogas Vilhelmas buvo sužieduotas su vienuolikmete Jadvyga dar jos tėvui mirštant."
-  temporaliniai_duomenys: "įvykio data: 1383 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "366600-367201; hash=482de563d0d23bd9fb93f7f012ce4f336bd7d501db4297c998ef4efb1c97e8dc; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jadvyga: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilhelmas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Jadvyga: mention_match, person, gap=44"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilhelmas\" parinktas kaip owner_note_path. Targetas \"Jadvyga\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-36533
 - susijęs iš [[objektai/asmenys/Matijas Ercbergeris.md#claim-t-26455|Matijas Ercbergeris]]: Matijas Ercbergeris rėmė Lietuvos Tarybos monarchistus, kai 1918 m. liepos 13 d. Vilhelmas fon Urachas buvo pakviestas į Lietuvos sostą.
@@ -105,8 +80,8 @@ Vilhelmas iš Krokuvos pilies buvo išvytas; Jadvyga, norėjusi pas jį pabėgti
     rija nuolat gyventų Lenkijoj; nes jie nenorėjo, kad jų kraštas, lyg
     provincija, būtų valdomas iš Budapešto.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

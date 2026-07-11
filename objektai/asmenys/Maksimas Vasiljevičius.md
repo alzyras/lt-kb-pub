@@ -34,16 +34,6 @@ Dovanojame Vilniaus miestiečiui Maksimui Vasiljevičiui šienaujamą pievą pal
 - t-001
   global_id: t-87769
   teiginys: "Didysis kunigaikštis Aleksandras dovanojo Vilniaus miestiečiui Maksimui Vasiljevičiui šienaujamą pievą už Vilnelės."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "693900-694293; hash=d82e97f3f0f655d08c067dfa1d60ada7ec002a327dcceb1ed64f93a78afedc00; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vasiljevičius (Maskvos valdovas): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Maksimas Vasiljevičius: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Vasiljevičius (Maskvos valdovas): mention_match, person, gap=9"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maksimas Vasiljevičius\" parinktas kaip owner_note_path. Targetas \"Vasiljevičius (Maskvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-83748
 ## Reikšmingi paminėjimai
@@ -63,8 +53,8 @@ Dovanojame Vilniaus miestiečiui Maksimui Vasiljevičiui šienaujamą pievą pal
     vaikams visiems laikams. Rašytas Vilniuje, sausio 13 dieną,
     Il indikte.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

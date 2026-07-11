@@ -46,16 +46,6 @@ Nenurodyta
 - t-004
   global_id: t-07813
   teiginys: "Kalnėnai ir žemaičiai kūrėsi vienkiemiuose atokiai vieni nuo kitų, kad išvengtų barnių, gaisrų plitimo ir galėtų padėti kaimynams."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "46126-46752; hash=8d0b0c159d8ec302d3af9073df32e07675aef91c0ced64c8c328f371e5871782; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
-  ryšio_patikimumas: "susije_su -> Žemaičiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vienkieminis gyvenimas dėl taikos ir gaisrų saugos: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Žemaičiai: mention_match, group, gap=3"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vienkieminis gyvenimas dėl taikos ir gaisrų saugos\" parinktas kaip owner_note_path. Targetas \"Žemaičiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-09973
 ## Reikšmingi paminėjimai
@@ -71,8 +61,8 @@ Nenurodyta
         antrasis, girdėdamas savo susiedo šunis lojant, pats galėtų tuo tarpu pasitiekti o jų^176 nuo savęs
         remti ar antram pagalbą duoti, jei to būt reikę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

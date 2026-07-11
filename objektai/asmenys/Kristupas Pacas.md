@@ -34,9 +34,6 @@ Pacų šeimos priešaky, taigi ir visos Lietuvos politikos vadu, buvo kancleris 
 - t-004
   global_id: t-79090
   teiginys: "Kancleris Kristupas Pacas vadovavo Pacų šeimai ir Lietuvos politikai, taip pat pastatė Pažaislio vienuolyną prie Kauno."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "728292-728764; hash=88ba8b4d30da579322ace66b626b509e5d2d021bf801c76320112eb78227ae9d; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-76184
 
@@ -44,9 +41,6 @@ Pacų šeimos priešaky, taigi ir visos Lietuvos politikos vadu, buvo kancleris 
 - t-005
   global_id: t-79091
   teiginys: "Jonui Kazimierui atsisakant sosto, Kristupas Pacas buvo vienas iš Lietuvoje vadovavusių Pacų ir ėjo kanclerio pareigas."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "722126-722466; hash=ec7b44fc4dbf5e9f6527f1999dfe694f518cd4bb8f1c261b9db80d75cfb89836; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-76182
 
@@ -54,16 +48,6 @@ Pacų šeimos priešaky, taigi ir visos Lietuvos politikos vadu, buvo kancleris 
 - t-003
   global_id: t-79092
   teiginys: "Kristupas Pacas buvo vienas bajorų konfederacijos vadovų, kovojusių prieš švedus ir jų sąjungininkus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "722126-722466; hash=ec7b44fc4dbf5e9f6527f1999dfe694f518cd4bb8f1c261b9db80d75cfb89836; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Bajorai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kristupas Pacas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Bajorai: mention_match, group, gap=28"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kristupas Pacas\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-76183
 ## Reikšmingi paminėjimai
@@ -79,8 +63,8 @@ Pacų šeimos priešaky, taigi ir visos Lietuvos politikos vadu, buvo kancleris 
     Vilniaus vyskupas, ketvirtas, Kazimieras, — Žemaičių vyskupas,
     o penktas, Petras, — Žemaičių seniūnas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -98,8 +82,8 @@ Pacų šeimos priešaky, taigi ir visos Lietuvos politikos vadu, buvo kancleris 
     Kristupo ir Mykolo Pacų. Jai priklausė ir dalis išlikusios Lietuvos
     kariuomenės.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -119,8 +103,8 @@ Pacų šeimos priešaky, taigi ir visos Lietuvos politikos vadu, buvo kancleris 
     kolas pastatė taip pat gražiausią Vilniuje barokinę šv. Petro
     ir Povilo -bažnyčią Antakalny).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -61,20 +61,6 @@ Nenurodyta
 - t-002
   global_id: t-87183
   teiginys: "1572 m. įsakymas numatė dešimties lenkiškų grivinų baudą atsisakiusiems priimti lietuvišką monetą."
-  semantiniai_rysiai: "Žygimantas Augustas (arkivyskupas, XVI a.) valdė Lietuva (0.74); Žygimantas Augustas (arkivyskupas, XVI a.) valdė Lenkija (0.72)"
-  temporaliniai_duomenys: "įvykio data: 1572 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko baudos ir lietuviškos monetos priėmimo faktą, bet pradinis teiginys nutrūkęs ir užterštas antrašte."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "832380-834712; hash=3d9f350f4dbeac1ffcc150391ce58c2897e42f0f85e9740bbb95f4f2aa4cdbd6; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde -> Lietuva: 0.74"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Žygimantas Augustas (arkivyskupas, XVI a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Valdovo edikte Lietuvos DK pavaldiniai pateikiami kaip jo pavaldiniai."
   pagrindžia:
     - c-83162
 
@@ -82,20 +68,6 @@ Nenurodyta
 - t-001
   global_id: t-87184
   teiginys: "1572 m. Žygimantas Augustas įsakė lietuvišką monetą imti nustatyta verte, o atsisakiusiesiems ją priimti numatė dešimties lenkiškų grivinų baudą."
-  semantiniai_rysiai: "Žygimantas Augustas (arkivyskupas, XVI a.) valdė Lietuva (0.74); Žygimantas Augustas (arkivyskupas, XVI a.) valdė Lenkija (0.72)"
-  temporaliniai_duomenys: "įvykio data: 1572 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys buvo nutrūkęs, o citata palaiko aiškų edikto turinį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "832380-834712; hash=3d9f350f4dbeac1ffcc150391ce58c2897e42f0f85e9740bbb95f4f2aa4cdbd6; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde -> Lietuva: 0.74"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Žygimantas Augustas (arkivyskupas, XVI a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Įsakyme valdovas Lietuvos DK pavaldinius įvardija kaip savo pavaldinius."
   pagrindžia:
     - c-83162
 
@@ -103,20 +75,6 @@ Nenurodyta
 - t-003
   global_id: t-183827
   teiginys: "Žygimantas Augustas įsakė Lietuvos ir Lenkijos pavaldiniams lietuvišką monetą priimti už nustatytą lenkiškų grašių vertę."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Žygimantas Augustas (arkivyskupas, XVI a.) valdė Lietuva (0.74); Žygimantas Augustas (arkivyskupas, XVI a.) valdė Lenkija (0.72)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "832380-834712; hash=3d9f350f4dbeac1ffcc150391ce58c2897e42f0f85e9740bbb95f4f2aa4cdbd6; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde -> Lietuva: 0.74"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Žygimantas Augustas (arkivyskupas, XVI a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Įsakymas kalba apie Lietuvos DK pavaldinius kaip valdovo pavaldinius."
   pagrindžia:
     - c-83162
 
@@ -124,12 +82,6 @@ Nenurodyta
 - t-004
   global_id: t-194190
   teiginys: "Visiems bendrai ir kiekvie nam atskirai, kam tiktai reikės žinoti, pranešame, kad mes, pasigailėję mūsų Lietuvos Didžiosios Kunigaikštystės pa valdinių dėl nuostolio, kurį savo Lietuvos monetų kalyklo je vietinėse mūsų Karalystės valstybėse iki šio laiko."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "832380-834712; hash=3d9f350f4dbeac1ffcc150391ce58c2897e42f0f85e9740bbb95f4f2aa4cdbd6; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-83162
 
@@ -137,12 +89,6 @@ Nenurodyta
 - t-005
   global_id: t-194191
   teiginys: "Šiuo mūsų įsakymu norime, kad visi bendrai VILNIAUS MIESTO ISTORIJA II TOMAS mūsų pavaldiniai kaip Lenkijoje, taip ir Lietuvoje, ir kitose mūsų karalystės valdose privalėtų išlaikyti dešimties len kiškų grivinų baudą ir ši bauda į bet kurio mūsų valdų mies to."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "832380-834712; hash=3d9f350f4dbeac1ffcc150391ce58c2897e42f0f85e9740bbb95f4f2aa4cdbd6; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-83162
 ## Reikšmingi paminėjimai
@@ -197,8 +143,8 @@ Nenurodyta
     mo 43-iais.
     Asmenišku Jo Didenybės karaliaus įsakymu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

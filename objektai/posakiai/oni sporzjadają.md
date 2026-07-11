@@ -30,21 +30,6 @@ Narbutas rašė, kad Lietuvos rusinai apie baidykles Zlydni sakydavo „oni spor
 - t-001
   global_id: t-189587
   teiginys: "Narbutas rašė, kad Lietuvos rusinai apie baidykles Zlydni sakydavo „oni sporzjadają“, aiškindami, jog jos per daug suėda."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "314720-315021; hash=a31928ed5fd2d7f899071d75ffcef798870cf3739d0d9a14fa0f788b5fdae55c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "oni sporzjadają: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=49"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"oni sporzjadają\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172473
 ## Reikšmingi paminėjimai
@@ -64,8 +49,8 @@ Narbutas rašė, kad Lietuvos rusinai apie baidykles Zlydni sakydavo „oni spor
     ir prisigeria iki nukritimo; įdomiai apie jas sako: oni sporzja-
     dają -  jos per daug suėda.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

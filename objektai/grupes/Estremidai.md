@@ -30,21 +30,6 @@ Narbuto aiškinimu, seni geografai estremidais vadino pakrančių gyventojus nuo
 - t-001
   global_id: t-192980
   teiginys: "Narbuto aiškinimu, seni geografai estremidais vadino pakrančių gyventojus nuo Šv. Vincento kyšulio iki Vakarų Prancūzijos ir Pietų Anglijos krantų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "276681-277232; hash=94e97959663447ab050a147e4c518fac7e5945e253034bbe1c1ecd2294a48deb; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Anglija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Estremidai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Anglija: mention_match, place, gap=97"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Estremidai\" parinktas kaip owner_note_path. Targetas \"Anglija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175750
 - susijęs iš [[objektai/asmenys/Hamilkaras.md#claim-t-191276|Hamilkaras]]: Narbuto pasakojime Hamilkaras išvyko į šiaurę, apiplaukė šv. Vincento kyšulį ir atrado Britaniją bei Airiją.
@@ -69,8 +54,8 @@ Narbuto aiškinimu, seni geografai estremidais vadino pakrančių gyventojus nuo
     davo' į Tartesą alavo iš Anglijos ir gintaro, kurį tiekdavo
     turbūt iš Baltijos jūros gotų gentis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -39,17 +39,6 @@ Paskutinės rytinių slavų pilys čia buvo Lohajskas, Gorodecas, Minskas, Zasla
 - t-001
   global_id: t-28339
   teiginys: "Gorodecas buvo viena iš paskutinių rytinių slavų pilių į rytus nuo lietuvių etnografinės ribos."
-  semantiniai_rysiai: "Gorodecas priklausė Slavai (0.76)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "355318-355663; hash=e0ae94ad44117edcbf61fa152b782ead01fced4fcaa319de631c7b49f146650f; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Slavai: 0.76"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gorodecas: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Slavai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Gorodecas įvardytas kaip viena rytinių slavų pilių."
   pagrindžia:
     - c-28243
 
@@ -57,20 +46,6 @@ Paskutinės rytinių slavų pilys čia buvo Lohajskas, Gorodecas, Minskas, Zasla
 - t-002
   global_id: t-184957
   teiginys: "Polockiečiai su kariuomene patraukė iki Gorodeco miesto, bet Mingaila juos užpuolė ir privertė sprukti."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Polockiečiai keliavo į Gorodecas (0.85)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "134874-135431; hash=f22851e17f9874b164d275e7885fb637507bf815ffc30a5266ef130c66a2356e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Gorodecas: 0.85"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Polockiečiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Gorodecas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Polockiečių kariuomenės judėjimas iki Gorodeco miesto nurodytas tiesiogiai."
   pagrindžia:
     - c-168318
 - susijęs iš [[objektai/grupes/Polockiečiai.md#claim-t-185443|Polockiečiai]]: Polockiečiai su kariuomene patraukė iki Gorodeco miesto ir užėmė Mingailos valdinių žemes.
@@ -89,8 +64,8 @@ Paskutinės rytinių slavų pilys čia buvo Lohajskas, Gorodecas, Minskas, Zasla
     Molodečnos Lebedžiai (Lebedev) «na russkoj storone », rodo, jog
     ten baigėsi lietuvių plotai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -117,8 +92,8 @@ Paskutinės rytinių slavų pilys čia buvo Lohajskas, Gorodecas, Minskas, Zasla
     o visai nemokančią kariauti, vienu smūgiu privertė
     sprukti ir iš kovos lauko, ir iš stovyklos.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -171,8 +146,3 @@ Paskutinės rytinių slavų pilys čia buvo Lohajskas, Gorodecas, Minskas, Zasla
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184957
-
-## Ryšiai
-- Buvo kelionės vieta: [[objektai/grupes/Polockiečiai]]
-- Buvo žygio kryptis: [[objektai/grupes/Polockiečiai]]
-- Gorodecas priklausė [[objektai/grupes/Slavai]]

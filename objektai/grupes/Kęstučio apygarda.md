@@ -41,19 +41,6 @@ media_all_json: |-
 - t-001
   global_id: t-40972
   teiginys: "1948 m. Jungtinė Kęstučio apygarda buvo padalinta į Kęstučio ir Prisikėlimo apygardas."
-  temporaliniai_duomenys: "įvykio data: 1948 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie Kęstučio apygardos sudarymą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "974311-974536; hash=912a6a69e9dbaad47cbd7f3467ee84d4fe4e5015d137479129d9e9dee0963834; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kęstučio apygarda: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kęstučio apygarda\" parinktas kaip owner_note_path. Targetas \"Kęstutis (vakarų pasienio valdovas, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-44778
 
@@ -61,12 +48,6 @@ media_all_json: |-
 - t-002
   global_id: t-193733
   teiginys: "1947 m. tapo Kęstučio apygardos partizanu, netrukus paskirtas Vaidoto rinktinės vadu, o 1949 m. Kęstučio apygardos vadu, 1951 m. Vakarų Lietuvos (Jūros) srities vadu."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "963728-963894; hash=db0e3a7c0cebc2bd76897b9c01abf56b8beb1492f31cb87e43c8d0a950d0cf7a; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176400
 - susijęs iš [[objektai/grupes/P. Lukšio rinktinė.md#claim-t-41107|P. Lukšio rinktinė]]: Prisikėlimo apygardoje buvo atkurta P. Lukšio rinktinė, netrukus pervadinta į Maironio rinktinę.
@@ -85,8 +66,8 @@ media_all_json: |-
     riai priklausė J. Paliūnas) buvo padalinta į Kęstučio ir
     Prisikėlimo apygardas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -102,8 +83,8 @@ media_all_json: |-
     1949 m. Kęstučio apygardos vadu, 1951 m. Vakarų Lietuvos (Jūros) srities
     vadu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

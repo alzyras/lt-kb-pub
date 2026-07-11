@@ -49,18 +49,6 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - t-012
   global_id: t-117247
   teiginys: "„Rusų pradus“ turėjo diegti iš Rusijos gilumos atvykę rusai mokytojai, kurių daugumą iš pradžių sudarė stačiatikių seminarijų auklėtiniai."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "217020-217532; hash=c9b736bdede52adef16b8e8c919631f196afb25d5fbaca930c45b33ef4edd930; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Rusija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Rusai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Rusija: mention_match, place, gap=30"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rusai\" parinktas kaip owner_note_path. Targetas \"Rusija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-107975
 
@@ -68,19 +56,6 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - t-003
   global_id: t-117248
   teiginys: "Prieš Strėvos mūšį į Lietuvos kariuomenę buvo pašaukti rusai iš Vladimiro, Brastos, Vitebsko, Smolensko ir Polocko."
-  temporaliniai_duomenys: "įvykio data: 1348 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus sakinys apie rusų pašaukimą į Lietuvos kariuomenę prieš Strėvos mūšį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "143239-144245; hash=e5734261e2cf790c1d2eae61cd394b6b03c0929b42ef40fa1a8ea5eecd9b102d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Polockas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Rusai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Polockas: mention_match, place, gap=52"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rusai\" parinktas kaip owner_note_path. Targetas \"Polockas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-42907
 
@@ -88,16 +63,6 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - t-008
   global_id: t-117249
   teiginys: "Didžiojoje Kunigaikštystėje gyvenę rusai atsisakydavo dvasininkams mokėti dešimtinę, pelno mokestį ir kitas duokles."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "764821-765917; hash=549c838b2d9bd5e63214ee1ebad2d9adeb03e301d42eab1ed3b0563097805dd8; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Maskvėnai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Rusai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Maskvėnai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rusai\" parinktas kaip owner_note_path. Targetas \"Maskvėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-107971
 
@@ -105,16 +70,6 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - t-010
   global_id: t-117250
   teiginys: "Didžiojoje Kunigaikštystėje gyvenę rusai atsisakydavo mokėti dešimtinę, pelno mokestį ir kitas duokles dvasininkams."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "764821-765917; hash=549c838b2d9bd5e63214ee1ebad2d9adeb03e301d42eab1ed3b0563097805dd8; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Maskvėnai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Rusai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Maskvėnai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rusai\" parinktas kaip owner_note_path. Targetas \"Maskvėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-107971
 
@@ -122,18 +77,6 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - t-002
   global_id: t-117251
   teiginys: "Strėvos mūšio pradžioje Lietuvos kariai rusai šaudė į priešą iš lankų."
-  temporaliniai_duomenys: "įvykio data: 1348 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "141708-142069; hash=4ba1c3d0ccc1043f76b4917ff1b9dc2783e8ff074c612eda5abb1114e1b3b444; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lankai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Rusai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lankai: mention_match, thing, gap=24"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rusai\" parinktas kaip owner_note_path. Targetas \"Lankai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-42906
 
@@ -141,16 +84,6 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - t-013
   global_id: t-117252
   teiginys: "Vytauto kariuomenėje buvo lietuvių, žemaičių, vokiečių, lenkų, totorių, rusų ir valakų, todėl ji buvo internacionalinė."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "174678-175010; hash=64afda3daa792d6959f9d5375b477da195da48ccafc1bd489be3414a5dd31244; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Rusai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=46"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rusai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-107970
 
@@ -158,16 +91,6 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - t-006
   global_id: t-117253
   teiginys: "XVII–XVIII a. rusai kelis kartus išvertė Stryjkovskio Kroniką arba jos dalis į rusų kalbą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "125993-126288; hash=77c12de178b95b8a097533b34968eb6e19769bf2121e86a178e56b3b9ea35da3; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Rusai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rusai\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-31253
 
@@ -175,16 +98,6 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - t-011
   global_id: t-117254
   teiginys: "Rusai XVII-XVIII a. kelis kartus vertė Stryjkovskio kroniką ar jos dalis į rusų kalbą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "125909-126237; hash=5ba18575d65c80bdbe7839e58049159d0e8d76b984c36b768c44b5c071d945dc; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Rusai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rusai\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-107974
 
@@ -192,19 +105,6 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - t-009
   global_id: t-117255
   teiginys: "Strėvos mūšio pradžioje Lietuvos kariai rusai priešą atakavo šaudydami iš lankų."
-  temporaliniai_duomenys: "įvykio data: 1348 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nusako Lietuvos karių rusų veiksmą Strėvos mūšio pradžioje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "141708-142069; hash=4ba1c3d0ccc1043f76b4917ff1b9dc2783e8ff074c612eda5abb1114e1b3b444; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lankai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Rusai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lankai: mention_match, thing, gap=34"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rusai\" parinktas kaip owner_note_path. Targetas \"Lankai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-42906
 
@@ -212,19 +112,6 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - t-016
   global_id: t-184580
   teiginys: "Polocko rusai valstybės valdymą buvo perdavę ne vienam kunigaikščiui, bet tautai."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "133715-134141; hash=ce92bbc354842e0753c3a5a353102ef0a91148f43eb8a3505e643a8856c2542b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Naugardukas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Rusai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Naugardukas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rusai\" parinktas kaip owner_note_path. Targetas \"Naugardukas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-167941
 
@@ -232,21 +119,6 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - t-017
   global_id: t-192453
   teiginys: "Pasak Karamzino ir kitų istorikų, Rusia vadintas kraštas egzistavo dar prieš epochą, kai slavai pradėjo vadintis rusais."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "395532-396006; hash=45faad687fcc91f1236ceb459abf34ca548c5f8e9c9550da82cfb9c7eb051d53; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Rusia: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Rusai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Rusia: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rusai\" parinktas kaip owner_note_path. Targetas \"Rusia\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175247
 
@@ -254,12 +126,6 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - t-018
   global_id: t-193127
   teiginys: "Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "44233-44654; hash=a5cfed95df6a1f0f429e5b692862514d974215e4b85b90fd677f7cecd5ad56eb; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-175886
 
@@ -267,12 +133,6 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - t-019
   global_id: t-193337
   teiginys: "Atleidęs pasiuntinius, įsakė juos klystitin reikšminga, nes rusai vėliau ėmė rodyti lietuvių valdovui ne tik didesnę pagarbą bei palankumą, bet ir pastovesnę ištikimybę."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "132670-133256; hash=a3c1388296248957773c67994935dfdcac0c946e625fe8a1e56e8b5d30dc185f; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176065
 - susijęs iš [[objektai/grupes/Vytauto būrys.md#claim-t-39019|Vytauto būrys]]: 14-ame kvartale stovėjęs Vytauto būrys nebuvo apsuptas ir smogė rusams į nugarą.
@@ -1783,8 +1643,8 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 
     (^11) **_Epitome principam Lithuaniae_****.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1804,8 +1664,8 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
     Daug ordino brolių žuvo, tarp jų Gdan-
     sko komtūras, Sembos vyskupo teisėjas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1828,8 +1688,8 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
     Gdansko komtūrui ir tokiam Sembos vyskupo teisėjui Jonui Lonei, su kuriuo prie vėlia-
     vos penkios dešimtys nukauta.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1846,8 +1706,8 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
     kariuomenė buvo internacionalinė. Pačių Lietuvos ir Rusijos
     kunigaikščių joje buvo per penkiasdešimt.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1881,8 +1741,8 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
     possessionibus acquisitis vėl acquirendis, quae sustinuerunt
     ii, a quibus eas acquisiverunt, aut acquisituri sunt.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1899,8 +1759,8 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
     jos dalis keliais atvejais XVII-XVIII amž. buvo išvertę į rusų kalbą
     (nuo jų neatsiliko ir ukrainiečiai), tebesidomi Stryjkovskiu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1921,8 +1781,8 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
     tikos šalininkai vadovavosi nuostata, kad vykstant pažangai lietuvių kal-
     bai vis tiek lemta išnykti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1941,8 +1801,8 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
     rėkite, kad, susiradę kokį valdovą, neprarastumėte per
     savo ištižimą laisvės, kurią iš priešų malonės gavote.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1965,8 +1825,8 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
     sais; tai buvo karinga skandinavų gentis, nuo seno val­
     džiusi taip pat ir rytines Baltijos jūros pakrantes.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1991,8 +1851,8 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
     ir istorijoje jie ieškojo argumen-
     tų šitai savo tezei paremti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2022,8 +1882,8 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
     valdovui ne tik didesnę pagarbą bei palankumą, bet
     ir pastovesnę ištikimybę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2199,7 +2059,8 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - id: c-167941
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 81"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 81."
   citata_originali: |
     Erdvilui mirus, Naugarduko kunigaikštystę valdyti
     žemių. Polocko rusai savo valstybės valdymą buvo
@@ -2298,23 +2159,16 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
     - t-193337
 
 ## Ryšiai
-- Sąjungininkai: [[objektai/grupes/Kazokai]], [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]], [[objektai/asmenys/Pavelas Bermontas-Avalovas]], [[objektai/grupes/Prūsai]], [[objektai/grupes/Sūduviai]]
-- Turėjo valdovą: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/asmenys/Heiraudas]], [[objektai/asmenys/Zigtrigas]]
-- Puolė Rusai: [[objektai/grupes/asis šaulių pulko batalionas]], [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/asmenys/K. Ladyga]], [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Mantvila Gimbutaitis]], [[objektai/grupes/Ukmergės batalionas]], [[objektai/grupes/Vytauto būrys]]
-- Kariavo prieš: [[objektai/grupes/2-asis šaulių pulko batalionas]], [[objektai/grupes/2-oji ir 3-ioji Tautinės kavalerijos brigados]], [[objektai/asmenys/B. Kolyška]], [[objektai/asmenys/Balušas]], [[objektai/grupes/Dembinskio rinktinė]], [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/asmenys/Gotbrodas]], [[objektai/asmenys/Goteris]], [[objektai/asmenys/J. Šarauskas]], [[objektai/grupes/Jotvingiai]], [[objektai/asmenys/Kristupas Radvila Perkūnas]], [[objektai/grupes/Lenkai]], [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Skirmantas]], [[objektai/asmenys/Sturlaugas Darbštusis]], [[objektai/grupes/Švedai]], [[objektai/grupes/Ukmergės batalionas]], [[objektai/asmenys/Vladislovas Vaza]]
-- Prekiavo su: [[objektai/grupes/Lietuviai]], [[objektai/vietos/Vilnius]], [[objektai/grupes/Vokiečių pirkliai]]
-- Turėjo priklausinį: [[objektai/grupes/Dono kazokų pulkas]], [[objektai/daiktai/Kapsuliniai šautuvai]], [[objektai/vietos/Polockas]]
-- Rusai valdė [[objektai/vietos/Liublinas]], [[objektai/vietos/Vilnius]]
-- Rusai keliavo į [[objektai/vietos/Lietuva]], [[objektai/vietos/Maskva]], [[objektai/vietos/Rusija]], [[objektai/vietos/Vilnius]]
-- Rusai puolė [[objektai/grupes/Jotvingiai]], [[objektai/vietos/Kališo sritis]], [[objektai/vietos/Kulmas]], [[objektai/vietos/Kulmo žemė]], [[objektai/vietos/Lietuva]], [[objektai/grupes/Lietuviai]], [[objektai/vietos/Mogiliavas]], [[objektai/asmenys/P. Vivulskis]], [[objektai/vietos/Šklovas]], [[objektai/vietos/Vilnius]]
-- Rusai apgulė [[objektai/grupes/Gardino seimas]], [[objektai/vietos/Radomas]], [[objektai/ivykiai/Smolensko apgultis (1632–1634 m.)]]
-- Rusai užėmė [[objektai/vietos/Alūksnė]], [[objektai/vietos/Brianskas]], [[objektai/vietos/Kaunas]], [[objektai/vietos/Paupys]], [[objektai/vietos/Trakai]], [[objektai/vietos/Užupis]], [[objektai/vietos/Vilijandis]], [[objektai/vietos/Viljandis]], [[objektai/vietos/Vilnius]]
-- Rusai siuntė į [[objektai/vietos/Lietuva]], [[objektai/vietos/Merkinė]], [[objektai/vietos/Sluckas]]
-- Rusai surengė žygį į [[objektai/vietos/Lietuva]]
-- Rusai kariavo prieš [[objektai/grupes/Lenkai]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Vokiečiai]]
-- Rusai dalyvavo mūšyje [[objektai/ivykiai/Rūdninkų ir Dubičių kautynės]], [[objektai/ivykiai/Strėvos mūšis (1348 m.)]]
-- Rusai prekiavo su [[objektai/vietos/Danija]], [[objektai/vietos/Vilnius]], [[objektai/grupes/Vokiečiai]]
-- Rusai gyveno [[objektai/vietos/Klaipėda]], [[objektai/vietos/Lietuva]], [[objektai/vietos/Polockas]], [[objektai/vietos/Sniečkus]], [[objektai/vietos/Vilnius]]
-- Rusai priklausė [[objektai/grupes/Auksinė Orda]]
+- Sąjungininkai: [[objektai/grupes/Kazokai]]
+- Turėjo valdovą: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/asmenys/Heiraudas]]
+- Puolė Rusai: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/grupes/Vytauto būrys]]
+- Kariavo prieš: [[objektai/grupes/Lenkai]]
+- Turėjo priklausinį: [[objektai/grupes/Dono kazokų pulkas]]
+- Rusai puolė [[objektai/vietos/Vilnius]]
+- Rusai apgulė [[objektai/vietos/Radomas]], [[objektai/ivykiai/Smolensko apgultis (1632–1634 m.)]]
+- Rusai užėmė [[objektai/vietos/Alūksnė]], [[objektai/vietos/Paupys]], [[objektai/vietos/Užupis]], [[objektai/vietos/Vilijandis]], [[objektai/vietos/Viljandis]], [[objektai/vietos/Vilnius]]
+- Rusai siuntė į [[objektai/vietos/Lietuva]]
+- Rusai kariavo prieš [[objektai/grupes/Lietuviai]]
+- Rusai prekiavo su [[objektai/vietos/Danija]]
+- Rusai gyveno [[objektai/vietos/Polockas]]
 - Rusai rėmė [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]], [[objektai/asmenys/Tautvila]]
-- Rusai užkariavo [[objektai/vietos/Lietuva]]

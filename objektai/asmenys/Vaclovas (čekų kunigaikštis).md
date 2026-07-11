@@ -34,16 +34,6 @@ Dusburgietis teigia, kad šitai karaliui išpranašavo šventas Vaclovas, čekų
 - t-001
   global_id: t-60455
   teiginys: "Dusburgiečio pasakojime šventas čekų kunigaikštis Vaclovas išpranašavo Danijos karaliaus Henriko nužudymą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "706180-706755; hash=2c2577ca10853cda76783fadfaad1081801fb8c9fb3d1b110eb6c62ca86769a1; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vaclovas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vaclovas (čekų kunigaikštis): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Vaclovas: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vaclovas (čekų kunigaikštis)\" parinktas kaip owner_note_path. Targetas \"Vaclovas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-61087
 ## Reikšmingi paminėjimai
@@ -64,8 +54,8 @@ Dusburgietis teigia, kad šitai karaliui išpranašavo šventas Vaclovas, čekų
 
       36.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -76,7 +66,8 @@ Dusburgietis teigia, kad šitai karaliui išpranašavo šventas Vaclovas, čekų
 - id: c-61087
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 232"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 232."
   citata_originali: |
     1250 metais Henriką, Danijos karalių, nužudė jo jaunesnysis brolis Abelis, norėjęs
     už jį karaliauti, tačiau teisingasis dievas taip patvarkė, kad jis iš piktadarystės negautų

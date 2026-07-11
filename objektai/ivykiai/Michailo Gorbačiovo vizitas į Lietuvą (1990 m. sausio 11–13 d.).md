@@ -55,18 +55,6 @@ Nenurodyta
 - t-002
   global_id: t-75252
   teiginys: "Sąjūdininkai buvo pasiryžę skelbti Lietuvos valstybę."
-  temporaliniai_duomenys: "įvykio data: 1990 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "495699-495993; hash=36f842177dd689adcab5aad7b08ec4f9424aded1c54a47d518bd5df68b49980b; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Michailo Gorbačiovo vizitas į Lietuvą (1990 m. sausio 11–13 d.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Michailo Gorbačiovo vizitas į Lietuvą (1990 m. sausio 11–13 d.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-23145
 
@@ -74,19 +62,6 @@ Nenurodyta
 - t-001
   global_id: t-75253
   teiginys: "Per 1990 m. sausio 11–13 d. Michailo Gorbačiovo vizitą Vilniuje Lietuvos gyventojai susitikimuose reikalavo nepriklausomybės."
-  temporaliniai_duomenys: "įvykio data: 1990 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie vizitą ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "494930-495538; hash=dfb8105ef2459b6b898b802d2667cb078dfb638b981b821c484213ded6c35c1c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Michailo Gorbačiovo vizitas į Lietuvą (1990 m. sausio 11–13 d.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=36"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Michailo Gorbačiovo vizitas į Lietuvą (1990 m. sausio 11–13 d.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-73098
 
@@ -94,19 +69,6 @@ Nenurodyta
 - t-003
   global_id: t-75254
   teiginys: "Per spaudimą Lietuvai grasinta Klaipėdos kraštą prijungti prie RSSFR Kaliningrado srities, o Vilniaus regione sukurti autonomiją."
-  temporaliniai_duomenys: "įvykio data: 1990 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalintas puslapio ir antraštės triukšmas, paliktas citatos palaikomas faktas."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "494930-495538; hash=dfb8105ef2459b6b898b802d2667cb078dfb638b981b821c484213ded6c35c1c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Michailo Gorbačiovo vizitas į Lietuvą (1990 m. sausio 11–13 d.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Michailo Gorbačiovo vizitas į Lietuvą (1990 m. sausio 11–13 d.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-73098
 ## Reikšmingi paminėjimai
@@ -120,8 +82,8 @@ Nenurodyta
     Nors M. Gorbačiovas aiškino, kad vienintelė Lietuva iš socializmo išsun-
     kė viską, kas geriausia, Lietuvai stigo esminio tikslo – nepriklausomybės.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -144,8 +106,8 @@ Nenurodyta
     Prie Aukščiausios Tarybos rūmų Vilniuje 1990 m. kovo 11 d.
     Mergaitė su plakatu reikalauja ne LSSR, o LR – Lietuvos Respublikos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

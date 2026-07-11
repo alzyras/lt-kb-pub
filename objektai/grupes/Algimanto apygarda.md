@@ -44,19 +44,6 @@ media_all_json: |-
 - t-003
   global_id: t-78161
   teiginys: "Antanas Slučka-Šarūnas, Algimanto apygardos vadas, žuvo susisprogdinus partizanams kartu su žmona ir dar vienu partizanu."
-  temporaliniai_duomenys: "įvykio data: 1945 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalintas OCR triukšmas; citata palaiko sakinį apie apygardos vadą ir jo žūtį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "982519-983063; hash=d762f0934234e2857717500e904cca843a94e2eaeb46e9447b33619d8118518f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Algimanto apygarda: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Algimanto apygarda\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-75468
 
@@ -64,20 +51,6 @@ media_all_json: |-
 - t-002
   global_id: t-78162
   teiginys: "1949 m. rudenį buvo sunaikinti Algimanto apygardos ir Šarūno rinktinės štabai, o per Šimonių girios apgultį žuvo beveik visa apygardos vadovybė."
-  semantiniai_rysiai: "Algimanto apygarda dalyvavo mūšyje Šimonių girios apgultis (0.70)"
-  temporaliniai_duomenys: "įvykio data: 1949 m.; įvykio data: 1950 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, faktinis ir paremtas citata apie 1949 m. įvykius."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1013097-1013802; hash=29a9f329219cbdddc25eca140ea15d298c3d01d247f3fc16e683905a6a7527ba; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "dalyvavo_musyje -> Šimonių girios apgultis: 0.70"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Algimanto apygarda: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Šimonių girios apgultis: llm_allowed_candidate, event"
-  ryšio_paaiskinimas: "Claimas nurodo, kad per Šimonių girios apgultį žuvo apygardos vadovybė, todėl apygarda tiesiogiai siejama su šiuo įvykiu."
   pagrindžia:
     - c-42634
 
@@ -85,12 +58,6 @@ media_all_json: |-
 - t-004
   global_id: t-193731
   teiginys: "Algimanto apygardą sudarė trys rinktinės: Šarūno, Kunigaikščio Margio ir Žalioji."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1002117-1002536; hash=60892ad893c34f0443d11fd01795b24af50a9f2c8d74f394fd94104e3a4221c9; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-42633
 - susijęs iš [[objektai/grupes/Kunigaikščio Margio rinktinė.md#claim-t-40958|Kunigaikščio Margio rinktinė]]: 1950 m. lapkričio 25 d. likę Šarūno ir Kunigaikščio Margio rinktinių kovotojai buvo sujungti į Tumo Vaižganto rinktinę.
@@ -117,8 +84,8 @@ media_all_json: |-
 
     KGB kontržvalgybos sąvokų žodyne pateikiamas agentų-smogikų apibrėžimas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -147,8 +114,8 @@ media_all_json: |-
     rinktinę ir įtraukti į Vytauto, o Žaliosios
     rinktinės kovotojai - į Vyčio apygardas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -185,8 +152,8 @@ media_all_json: |-
     es mal 2 TS apygarda Južintai | / | 5 Silenėo SKILVONIŲ MUSIS
     = ox Subačius ied : a X ; A 1945 m. vasario 17 d. į Panevėžio aps.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -287,6 +254,3 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78161
-
-## Ryšiai
-- Algimanto apygarda dalyvavo mūšyje [[objektai/ivykiai/Šimonių girios apgultis]]

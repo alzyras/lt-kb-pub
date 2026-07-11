@@ -30,21 +30,6 @@ Narbutas aiškino Wejdas kaip „stabą arba veidą, atvaizdą“ ir laikė jį 
 - t-001
   global_id: t-189346
   teiginys: "Narbutas aiškino Wejdas kaip „stabą arba veidą, atvaizdą“ ir laikė jį Vaidevučio vardo dalimi."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "492602-492959; hash=9024225494dd3dadc3bff162494a354edcbadf1542da8ad8a0fbf5f716bc8265; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Prulis: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Wejdas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Prulis: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Wejdas\" parinktas kaip owner_note_path. Targetas \"Prulis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172233
 - susijęs iš [[objektai/zodynas/Vaidevutis Wejdawutis.md#claim-t-189255|Vaidevutis Wejdawutis]]: Narbutas Vaidevučio (Wejdawutis) vardą kildino iš Wejdas ir Wujtis, aiškindamas jį kaip stabų viršininko arba pirmojo jų saugotojo vardą.
@@ -63,8 +48,8 @@ Narbutas aiškino Wejdas kaip „stabą arba veidą, atvaizdą“ ir laikė jį 
     (viršininkas). Tad išeitų, kad tai stabų viršininkas, pirmasis jų saugo­
     tojas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -75,7 +60,8 @@ Narbutas aiškino Wejdas kaip „stabą arba veidą, atvaizdą“ ir laikė jį 
 - id: c-172233
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 281"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 281."
   citata_originali: |
     10 Kronikininkai šitaip aiškina šių vardų kilmę: Bmteno arba ir
     Pruteno yra kilęs iš senovės prūsų žodžio Prulis - išminčius. Dėl Vai­

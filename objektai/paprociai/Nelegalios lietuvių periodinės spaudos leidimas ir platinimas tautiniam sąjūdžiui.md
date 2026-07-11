@@ -67,19 +67,6 @@ Nenurodyta
 - t-006
   global_id: t-54314
   teiginys: "1896 m. susikūrusi Lietuviškoji socialdemokratų partija leido savo spaudą lietuvių ir lenkų kalbomis."
-  temporaliniai_duomenys: "įvykio data: po 1896 m.; įvykio data: 1896 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, faktinis ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "227418-227990; hash=872a272aafc306e2771f56a4eced6628cd8eb7846141e56151155af78b861d72; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Nelegalios lietuvių periodinės spaudos leidimas ir platinimas tautiniam sąjūdžiui: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=19"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Nelegalios lietuvių periodinės spaudos leidimas ir platinimas tautiniam sąjūdžiui\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-55187
 
@@ -87,18 +74,6 @@ Nenurodyta
 - t-001
   global_id: t-54315
   teiginys: "Slaptai leistas ir nelegaliai platintas mėnraštis telkė tautinio sąjūdžio jėgas ir kėlė lietuvių kultūrinių bei švietimo teisių reikalavimus."
-  temporaliniai_duomenys: "įvykio data: 1883 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "225013-225725; hash=834d7449474dc0805306fc29b66baae3bdf24f3b3bec13c3121b69ffd6ce1910; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Nelegalios lietuvių periodinės spaudos leidimas ir platinimas tautiniam sąjūdžiui: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=72"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Nelegalios lietuvių periodinės spaudos leidimas ir platinimas tautiniam sąjūdžiui\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-166717
 
@@ -106,16 +81,6 @@ Nenurodyta
 - t-003
   global_id: t-54316
   teiginys: "„Varpas“ laikėsi liberalios demokratijos pozicijų, kritikavo caro režimą ir rūpinosi bendrinės literatūrinės lietuvių kalbos formavimu."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "226888-227345; hash=b091ab96b9a68c7f05694619d1e60b204a6c3915e597f7da52bbd2b2a23fc35b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Nelegalios lietuvių periodinės spaudos leidimas ir platinimas tautiniam sąjūdžiui: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=36"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Nelegalios lietuvių periodinės spaudos leidimas ir platinimas tautiniam sąjūdžiui\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-55186
 
@@ -123,18 +88,6 @@ Nenurodyta
 - t-002
   global_id: t-54318
   teiginys: "Po trejų metų sustojusi „Aušra“ išplėtė lietuvių tautinio ugdymo tęsėjų gretas, kurios ėmė leisti naujus periodinius leidinius lietuvių kalba."
-  temporaliniai_duomenys: "įvykio data: 1889-1890; įvykio data: 1890 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "226080-226534; hash=88bf61f40c8cf2e4b6410ec69c59fd5499e5079f01a4cac9ffc0b72d402a333f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Nelegalios lietuvių periodinės spaudos leidimas ir platinimas tautiniam sąjūdžiui: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Nelegalios lietuvių periodinės spaudos leidimas ir platinimas tautiniam sąjūdžiui\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-55189
 
@@ -142,18 +95,6 @@ Nenurodyta
 - t-005
   global_id: t-54319
   teiginys: "Sustojusi „Aušra“ išplėtė savarankiškos lietuvių tautos ugdymo tęsėjų gretas ir paskatino naujus lietuviškus periodinius leidinius."
-  temporaliniai_duomenys: "įvykio data: 1889-1890; įvykio data: 1890 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "226080-226534; hash=88bf61f40c8cf2e4b6410ec69c59fd5499e5079f01a4cac9ffc0b72d402a333f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Nelegalios lietuvių periodinės spaudos leidimas ir platinimas tautiniam sąjūdžiui: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Nelegalios lietuvių periodinės spaudos leidimas ir platinimas tautiniam sąjūdžiui\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-55189
 
@@ -161,24 +102,6 @@ Nenurodyta
 - t-007
   global_id: t-183327
   teiginys: "1883 m. Rytprūsiuose pradėta leisti „Aušra“ buvo pirmasis Didžiajai Lietuvai skirtas periodinis leidinys lietuvių kalba ir tradiciniu raidynu."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1883 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata leidžia pateikti tikslesnį enciklopedinį sakinį apie „Aušros“ reikšmę."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "225013-225725; hash=834d7449474dc0805306fc29b66baae3bdf24f3b3bec13c3121b69ffd6ce1910; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Baltai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Nelegalios lietuvių periodinės spaudos leidimas ir platinimas tautiniam sąjūdžiui: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Baltai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Nelegalios lietuvių periodinės spaudos leidimas ir platinimas tautiniam sąjūdžiui\" parinktas kaip owner_note_path. Targetas \"Baltai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-166717
 
@@ -186,19 +109,6 @@ Nenurodyta
 - t-008
   global_id: t-183328
   teiginys: "„Varpas“ laikėsi liberalios demokratijos pozicijų, kritikavo caro režimą ir rūpinosi bendrinės literatūrinės lietuvių kalbos formavimu."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "227002-227416; hash=77ee2cf513d0567b3abc59d9a4fd8a5a3fc1b0fcb980ca0d2f6d9aa10219d104; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Nelegalios lietuvių periodinės spaudos leidimas ir platinimas tautiniam sąjūdžiui: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=36"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Nelegalios lietuvių periodinės spaudos leidimas ir platinimas tautiniam sąjūdžiui\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-166718
 ## Reikšmingi paminėjimai
@@ -215,8 +125,8 @@ Nenurodyta
     lietuvių kalbos formavimu. Jame spausdinta gero lygio grožinė literatūra,
     poezija, originali ir verstinė, populiarūs mokslo straipsniai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -235,8 +145,8 @@ Nenurodyta
     tautiniu sąjūdžiu susijusi politinė partija – Lietuviškoji socialdemokratų
     partija, susikūrusi 1896 m.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -260,8 +170,8 @@ Nenurodyta
     liąją ir katalikiškąją – konservaty-
     viąją.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -282,8 +192,8 @@ Nenurodyta
     jau tokios pačios kultūrinės galimybės ir švietimo sąlygos, kokias Rusijos
     imperijoje turi latviai ir estai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -301,8 +211,8 @@ Nenurodyta
     poezija, originali ir verstinė, populiarūs mokslo straipsniai. Ta pati redakci-
     ja leido ir kaimiečiams skirtą laikraštį „Ūkininkas“.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

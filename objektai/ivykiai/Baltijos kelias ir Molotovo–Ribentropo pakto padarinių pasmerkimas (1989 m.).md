@@ -59,19 +59,6 @@ Nenurodyta
 - t-001
   global_id: t-26364
   teiginys: "LSSR Aukščiausiosios Tarybos komisija pasmerkė Molotovo–Ribentropo pakto padarinius – 1940 m. Lietuvos okupaciją ir neteisėtą prijungimą."
-  temporaliniai_duomenys: "įvykio data: 1939 m.; įvykio data: 1940 m.; įvykio data: 1988 m.; įvykio data: 1989 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nusako komisijos veiksmą ir pasmerkimo objektą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "490434-491310; hash=eb32c5a7203c456ded741ab0a8c4ccc2ba1fee7003319fba9144a423148c1d18; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Baltijos kelias ir Molotovo–Ribentropo pakto padarinių pasmerkimas (1989 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=47"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Baltijos kelias ir Molotovo–Ribentropo pakto padarinių pasmerkimas (1989 m.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-26590
 
@@ -79,19 +66,6 @@ Nenurodyta
 - t-002
   global_id: t-26365
   teiginys: "1989 m. rugpjūčio 23 d. Baltijos kelias buvo rankomis susikibusių žmonių grandinė Vilnius–Ryga–Talinas."
-  temporaliniai_duomenys: "įvykio data: 1989 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys, paremtas nuotraukos antrašte."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "492076-492941; hash=21f75dda116a96b505362f7e2d8591c62c323dc78d7810b7ff9216ca36c16464; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Baltija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Baltijos kelias ir Molotovo–Ribentropo pakto padarinių pasmerkimas (1989 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Baltija: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Baltijos kelias ir Molotovo–Ribentropo pakto padarinių pasmerkimas (1989 m.)\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-26589
 ## Reikšmingi paminėjimai
@@ -117,8 +91,8 @@ Nenurodyta
     sąmoningumą ir apsisprendimą reikalauti dar didesnių nuolaidų iš Mas-
     kvos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -146,8 +120,8 @@ Nenurodyta
     vo–Ribentropo pakto ir slaptųjų protokolų padarinius – 1940 m. vasarą
     sovietų valstybės įvykdytą Lietuvos okupaciją ir neteisėtą prijungimą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

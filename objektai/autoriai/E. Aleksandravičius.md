@@ -60,17 +60,6 @@ Nenurodyta
 - t-002
   global_id: t-187793
   teiginys: "E. Aleksandravičius buvo „Lietuvių tautos istorijos“ leidinio redaktorių kolegijos narys."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "1474-1989; hash=36c34ec000efea0571c7d9e1464e9454bf3cc392dedf897397f07fd1caa060cc; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/02_extract_authors_notes.md"
-  ryšio_patikimumas: "susije_su -> Reda Griškaitė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "E. Aleksandravičius: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Reda Griškaitė: mention_match, author, gap=62"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"E. Aleksandravičius\" parinktas kaip owner_note_path. Targetas \"Reda Griškaitė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-170735
 ## Reikšmingi paminėjimai
@@ -96,8 +85,8 @@ Nenurodyta
     Įvedamasis straipsnis, paaiškinimai,
     papildymų vertimas, Reda Griškaitė,
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -108,7 +97,8 @@ Nenurodyta
 - id: c-170735
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 3"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 3."
   citata_originali: |
     Wilno, naktadem i drukiem
     A. Marcinowskicgo, 1835.

@@ -56,16 +56,6 @@ Nenurodyta
 - t-003
   global_id: t-19547
   teiginys: "Mokyklose buvo įrengiami Lenino kampeliai ir leidžiami sienlaikraščiai, siekiant stiprinti idėjinį komunistinį mokinių auklėjimą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "454175-454618; hash=4f2cd2062aaf7298f5f882b3f70e64d6740dc8a300d1db0b90d339ddef790e93; match=exact"
-  sprendimo_priezastis: "gap::items"
-  ryšio_patikimumas: "susije_su -> Komjaunimas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lenino kampeliai ir sienlaikraščiai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Komjaunimas: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenino kampeliai ir sienlaikraščiai\" parinktas kaip owner_note_path. Targetas \"Komjaunimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-22258
 ## Reikšmingi paminėjimai
@@ -81,8 +71,8 @@ Nenurodyta
     steigiamos komjaunimo ir pionierių organizacijos, įrengiami Lenino kam-
     peliai, leisti sienlaikraščiai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

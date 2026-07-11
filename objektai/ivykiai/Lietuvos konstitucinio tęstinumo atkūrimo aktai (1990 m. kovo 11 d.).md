@@ -60,19 +60,6 @@ Nenurodyta
 - t-001
   global_id: t-20314
   teiginys: "Kovo 11 Aktas dvasia buvo artimas 1918 m. Vasario 16 Aktui, tačiau nebesirėmė tautų apsisprendimo teise."
-  temporaliniai_duomenys: "įvykio data: 1918 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus ir perteikia citatoje pateiktą vertinimą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "497304-498232; hash=42ad608a0348f1ff1b9929b32a31dfd23f214c15a9134307b599c67a28bef4a4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos konstitucinio tęstinumo atkūrimo aktai (1990 m. kovo 11 d.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos konstitucinio tęstinumo atkūrimo aktai (1990 m. kovo 11 d.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-23041
 
@@ -80,19 +67,6 @@ Nenurodyta
 - t-002
   global_id: t-20315
   teiginys: "Laikinasis Pagrindinis Įstatymas panaikino Lietuvos ir jos piliečių prievoles, neteisėtai nustatytas sovietų konstitucijos ir įstatymų."
-  temporaliniai_duomenys: "įvykio data: 1918-1940; įvykio data: 1940 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata nepagrindžia Aukščiausiosios Tarybos veiksmų formuluotės, bet pagrindžia įstatymo poveikį."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "498233-499170; hash=4114b60daa6148a205d702e549d1628186b012835e2ba62200be20fb9a815f3c; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos konstitucinio tęstinumo atkūrimo aktai (1990 m. kovo 11 d.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos konstitucinio tęstinumo atkūrimo aktai (1990 m. kovo 11 d.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-166634
 
@@ -100,24 +74,6 @@ Nenurodyta
 - t-003
   global_id: t-183246
   teiginys: "Lietuvos Aukščiausioji Taryba atkūrė 1938 m. Konstitucijos galiojimą, netrukus jį sustabdė ir patvirtino Laikinąjį Pagrindinį Įstatymą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1918-1940; įvykio data: 1938 m.; įvykio data: 1940 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata leidžia suformuluoti konkretesnį teiginį apie priimtus aktus."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "498233-499170; hash=4114b60daa6148a205d702e549d1628186b012835e2ba62200be20fb9a815f3c; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aukščiausioji Taryba (institucija): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos konstitucinio tęstinumo atkūrimo aktai (1990 m. kovo 11 d.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Aukščiausioji Taryba (institucija): mention_match, group, gap=9"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos konstitucinio tęstinumo atkūrimo aktai (1990 m. kovo 11 d.)\" parinktas kaip owner_note_path. Targetas \"Aukščiausioji Taryba (institucija)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-13T14:18:10Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-166634
 ## Reikšmingi paminėjimai
@@ -148,8 +104,8 @@ Nenurodyta
     savo gyventojais ir realizavo suverenitetą, o ne administravo okupuotą
     teritoriją.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -173,8 +129,8 @@ Nenurodyta
     bet panaikinęs visas buvusias Lietuvos ir jos piliečių prievoles, kurias ne-
     teisėtai nustatė Lietuvoje galiojusi sovietų konstitucija ir įstatymai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

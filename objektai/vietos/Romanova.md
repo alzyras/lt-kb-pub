@@ -30,20 +30,6 @@ Kojelavičius rašo, kad Palemonas pirmąją Lietuvos sodybą Romanovą paskyrė
 - t-001
   global_id: t-185273
   teiginys: "Kojelavičius rašo, kad Palemonas pirmąją Lietuvos sodybą Romanovą paskyrė vyriausiajam žyniui tikėjimui saugoti."
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Romanova priklausė Lietuva (0.86)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "97336-97907; hash=d38f0b319d94ea04e89ae89c0c6ec9fb5b6dd132d081a59b082fd05a175db390; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Lietuva: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Romanova: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Romanova įvardyta kaip Lietuvos sodyba, todėl tiesiogiai siejama su Lietuva."
   pagrindžia:
     - c-168634
 - susijęs iš [[objektai/asmenys/Petras iš Dusburgo.md#claim-t-186246|Petras iš Dusburgo (kunigas)]]: Petras iš Dusburgo veikale tvirtino, kad Palemonas Romanovą paskyrė vyriausiajam žyniui tikėjimui saugoti.
@@ -72,8 +58,8 @@ Kojelavičius rašo, kad Palemonas pirmąją Lietuvos sodybą Romanovą paskyrė
     vonijos riterių kunigas ir istorikas, gyvenęs arčiau anų
     laikų nei mūsų.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -84,7 +70,8 @@ Kojelavičius rašo, kad Palemonas pirmąją Lietuvos sodybą Romanovą paskyrė
 - id: c-168634
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 60"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 60."
   citata_originali: |
     Daug kartų iš naujo
     imdavo garbinti stabus tie, kurių šeimoms pradžią yra
@@ -104,6 +91,3 @@ Kojelavičius rašo, kad Palemonas pirmąją Lietuvos sodybą Romanovą paskyrė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185273
-
-## Ryšiai
-- Romanova priklausė [[objektai/vietos/Lietuva]]

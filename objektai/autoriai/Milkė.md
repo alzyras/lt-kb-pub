@@ -41,19 +41,6 @@ media_all_json: |-
 - t-001
   global_id: t-01117
   teiginys: "Milkės žodynui prakalbą 1800 m. parašė Karaliaučiaus filosofas Kantas."
-  temporaliniai_duomenys: "įvykio data: 1800 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sakinys pataisytas į sklandesnę formą, išlaikant citatoje pagrįstą faktą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "1226167-1226558; hash=739b2094d76cb1460a90785b95b0d747529327a8caf9d6e4942dfd9f5962e64a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Milkė: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Milkė\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-01355
 - susijęs iš [[objektai/autoriai/Kantas.md#claim-t-01079|Kantas]]: 1800 m. Karaliaučiaus filosofas Kantas Milkės žodyno prakalboje palaikė lietuvių kultūrines teises.
@@ -71,8 +58,8 @@ media_all_json: |-
     padorių žmonių, kaip lietuviai, todėl jų kultūrinės teisės pa-
     laikytinos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -35,17 +35,6 @@ Dusburgietis teigia, kad broliai ir miestiečiai su savo ginklanešiais išpuol�
 - t-001
   global_id: t-63148
   teiginys: "Prūsai prie Marienverderio iš pasalos išmušė brolius ir miestiečius, išskyrus kelis į miestą pasprukusius žmones."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "445301-445977; hash=f0a1a68c420be8748cf1a5d40941b746fb02c6b7eae793402344f9184bc2ecf6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Marienverderis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Marienverderio miestiečiai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Marienverderis: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Marienverderio miestiečiai\" parinktas kaip owner_note_path. Targetas \"Marienverderis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-64124
     - c-64126
@@ -54,17 +43,6 @@ Dusburgietis teigia, kad broliai ir miestiečiai su savo ginklanešiais išpuol�
 - t-002
   global_id: t-63149
   teiginys: "Prūsai po ilgų grumtynių sugriovė Marienverderio miestą, o dalį miestiečių paėmė į nelaisvę arba užmušė."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "446137-446879; hash=b0fefd5f7aeb38b4d9c493e13c7b46f187e7e18838f9a2ead1be96a0c02df6c3; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Marienverderis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Marienverderio miestiečiai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Marienverderis: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Marienverderio miestiečiai\" parinktas kaip owner_note_path. Targetas \"Marienverderis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-64125
     - c-64127
@@ -84,8 +62,8 @@ Dusburgietis teigia, kad broliai ir miestiečiai su savo ginklanešiais išpuol�
     gyventojų paėmė  į nelaisvę, dalį išžudė, išskyrus tuos, kurie paspruko  į pilį ir šitaip
     išsigelbėjo.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -105,8 +83,8 @@ Dusburgietis teigia, kad broliai ir miestiečiai su savo ginklanešiais išpuol�
     žūties, pabėgdami  į pilį, kiti — gindamiesi viename miesto kuore, tuo tarpu likusieji
     buvo arba paimti į nelaisvę, arba užmušti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -126,8 +104,8 @@ Dusburgietis teigia, kad broliai ir miestiečiai su savo ginklanešiais išpuol�
     pasalų iššoko prūsai ir išmušė visus brolius bei miestiečius, išskyrus kelis, pasprukusius
     į miestą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -146,8 +124,8 @@ Dusburgietis teigia, kad broliai ir miestiečiai su savo ginklanešiais išpuol�
     elgėsi su šventųjų paveikslais, bažnytiniais rūbais ir kitomis dievo garbinimui skirtomis
     šventenybėmis bei bažnytiniais sakramentais.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -158,7 +136,8 @@ Dusburgietis teigia, kad broliai ir miestiečiai su savo ginklanešiais išpuol�
 - id: c-64124
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 139"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 139."
   citata_originali: |
     Dėl to, subūrę daugybę karių, antrosios
     atskalūnybės metais patraukė prie Marienverderio miesto  ir, tinkamoje vietoje įrengę
@@ -180,7 +159,8 @@ Dusburgietis teigia, kad broliai ir miestiečiai su savo ginklanešiais išpuol�
 - id: c-64125
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 139"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 139."
   citata_originali: |
     Kai  broliai, padėję daug darbo  ir pasidarę daug  išlaidų, atstatė Marienverderio
     miestą, vieną kartą prūsai, su didžiausia kariuomene nusiaubę Kulmo žemę, patraukė
@@ -202,7 +182,8 @@ Dusburgietis teigia, kad broliai ir miestiečiai su savo ginklanešiais išpuol�
 - id: c-64126
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 139"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 139."
   citata_originali: |
     Prūsai, po  senovei  nepasisotinę  krikščionių  kraujo,  vėl suskato  ruošti  ginklus
     tikintiesiems žudyti, kankinti ir kryžiuoti, kad ant jų galvų kristų visas teisiųjų kraujas,
@@ -224,7 +205,8 @@ Dusburgietis teigia, kad broliai ir miestiečiai su savo ginklanešiais išpuol�
 - id: c-64127
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 139"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 139."
   citata_originali: |
     Iš šios pilies išėjo brolis Konradas Švabas iš
     Elbingo su daugybe ginklanešių428 ir susirėmė su priešais ietimis; šiose kautynėse abi

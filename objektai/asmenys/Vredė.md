@@ -35,21 +35,6 @@ Vredė buvo Karaliaučiuje miręs profesorius, kurio pastabas Narbutas pridėjo 
 - t-001
   global_id: t-191334
   teiginys: "Vredė buvo Karaliaučiuje miręs profesorius, kurio pastabas Narbutas pridėjo prie žinių apie Vitlandijos žemės egzistavimą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "633134-633777; hash=27c7c9010bc9e5a29a06aeaa1a21604dd024cab0a9a443386b50bcd37c072fe5; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vitlandija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vredė: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Vitlandija: mention_match, place, gap=92"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vredė\" parinktas kaip owner_note_path. Targetas \"Vitlandija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174216
 ## Reikšmingi paminėjimai
@@ -72,8 +57,8 @@ Vredė buvo Karaliaučiuje miręs profesorius, kurio pastabas Narbutas pridėjo 
     gylio dauba šioje vietoje yra vidutiniškai 1100 rykščių plo­
     čio.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -84,7 +69,8 @@ Vredė buvo Karaliaučiuje miręs profesorius, kurio pastabas Narbutas pridėjo 
 - id: c-174216
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 351"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 351."
   citata_originali: |
     Pagaliau iš šios sutarties reikia daryti prielaidą,
     jog čia paminėtas toje didelėje saloje buvęs miestas (Ci-

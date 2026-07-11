@@ -32,11 +32,6 @@ sulatvinimas: ne tik per mokyklas, bet ir kitokiais būdais dalis lietuvių sula
 - t-001
   global_id: t-70339
   teiginys: "Lietuvių sulatvinimas vyko per latviškas mokyklas ir kitais būdais."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "1324838-1325104; hash=127fbc56c59508488ac3c08897dcbe8cb2ab81db7127addbbae65bccb6523c35; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-69380
 ## Reikšmingi paminėjimai
@@ -51,8 +46,8 @@ sulatvinimas: ne tik per mokyklas, bet ir kitokiais būdais dalis lietuvių sula
     Ne tik per mokyklas, bet ir kitokiais būdais dalis lietuvių sulat-
     vėja.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

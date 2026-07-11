@@ -38,12 +38,6 @@ Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis 
 - t-001
   global_id: t-193708
   teiginys: "Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis Dominykas Semaško, daug JAV lietuvių, raštus dailino prancūzų poetas, kilęs iš senos Lietuvos giminės, Oskaras Milašius (Oscar Milosz)."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "270863-271651; hash=9f2b80a976490578b1fe0afc731c2f1fb8eeeedab5152a26db0ebf81d2a02f84; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176377
 ## Reikšmingi paminėjimai
@@ -65,8 +59,8 @@ Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis 
     gacija tarėsi ne su kitais lietuviais, o Lietuvos vardu veikė svarbiausiame
     tarptautiniame forume, kurdama sąlygas nepriklausomybei.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

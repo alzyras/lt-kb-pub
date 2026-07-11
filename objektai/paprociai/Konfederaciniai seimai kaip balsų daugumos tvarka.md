@@ -53,9 +53,6 @@ Nenurodyta
 - t-002
   global_id: t-67123
   teiginys: "Konfederaciniuose seimuose numatyti klausimai buvo sprendžiami balsų dauguma, todėl veto teisė juose nebeveikė."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "559207-559599; hash=b5e13e99261da695b7db148f3364271d07b3e5ea19685553061681759aab8c46; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-67150
 
@@ -63,11 +60,6 @@ Nenurodyta
 - t-001
   global_id: t-67124
   teiginys: "Konfederaciniuose seimuose numatyti klausimai buvo sprendžiami balsų dauguma, todėl juose nebeveikė veto teisė."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "559207-559599; hash=b5e13e99261da695b7db148f3364271d07b3e5ea19685553061681759aab8c46; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-67150
 ## Reikšmingi paminėjimai
@@ -83,8 +75,8 @@ Nenurodyta
     aktą, kad numatomus klausimus spręsią balsų dauguma. Tuo
     būdu šitokiam seime _veto_ teisė jau nebeveikė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

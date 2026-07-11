@@ -56,19 +56,6 @@ Nenurodyta
 - t-001
   global_id: t-31497
   teiginys: "1410 m. rugpjūtį Livonijos kariuomenė laivais atvyko į Sembą."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į Heilsbergas (0.66)"
-  temporaliniai_duomenys: "kelionės data: 1410 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "933677-933870; hash=bc0e3b79ebb9c8bb2498e32911e9b5dc6f8e9aa331622ba5b95a4989c7f8ee54; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Heilsbergas: 0.66"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Heilsbergas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata rodo, kad Vytautas buvo nuvykęs prie Heilsbergo."
   pagrindžia:
     - c-33443
 ## Reikšmingi paminėjimai
@@ -82,8 +69,8 @@ Nenurodyta
     maršalu B. Hevelmannu ir pradėjo taikos derybas.
     c.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

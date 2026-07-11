@@ -55,16 +55,6 @@ Nenurodyta
 - t-003
   global_id: t-87037
   teiginys: "Metraštininkai pasakojo, kad į Vilnių atvažiavo 300 įvairios žvėrienos prikrautų vežimų."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "256877-257253; hash=d42805a33674a3654321d2e60f265423742ee07ae43b551bd2f2e73c7410cabe; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vežimai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vežimai, rogės, karietos ir brikai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Vežimai: mention_match, thing, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vežimai, rogės, karietos ir brikai\" parinktas kaip owner_note_path. Targetas \"Vežimai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-83017
 
@@ -72,16 +62,6 @@ Nenurodyta
 - t-001
   global_id: t-87039
   teiginys: "Kęstučiui puolant Vilnių, į miestą įvairiais keliais buvo įvežta keli šimtai kailių ir šieno prikrautų vežimų su paslėptais ginkluotais vyrais."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "100738-101277; hash=e452ad47722e1067703a19701f31952ef9ef29162e6c64af69aa92e05ad62458; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vežimai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vežimai, rogės, karietos ir brikai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Vežimai: mention_match, thing, gap=19"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vežimai, rogės, karietos ir brikai\" parinktas kaip owner_note_path. Targetas \"Vežimai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-83018
 
@@ -89,12 +69,6 @@ Nenurodyta
 - t-004
   global_id: t-194183
   teiginys: "Rogėse pasislėpusiems žmonėms pavyko patekti į pilį, bet sargybai vadovavęs Sudimantas, perspėtas gyven tojų, davė atkirtį, visas tas pastangas užimti Vilnių niekais pavertė anksčiau negu suspėjo Vytautas su kariauna19."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "255045-255742; hash=74a497808b842195882ebf930604a2e0008012686a5dba25171cd54dd80f50f0; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176793
 ## Reikšmingi paminėjimai
@@ -116,8 +90,8 @@ Nenurodyta
     Vilniaus kapitulos archy­
     vas: MSS, vad. Acta, tai yra*
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -145,8 +119,8 @@ Nenurodyta
     slėptų, įvairiais keliais į ten buvo
     įvežti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -173,8 +147,8 @@ Nenurodyta
     tojų, davė atkirtį, visas tas pastangas užimti Vilnių niekais
     pavertė anksčiau negu suspėjo Vytautas su kariauna19.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

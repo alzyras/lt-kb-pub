@@ -40,9 +40,6 @@ Dusburgietis teigia, kad crome H.
 - t-001
   global_id: t-61063
   teiginys: "H. Crome darbas „Verzeichnis der Wehranlagen Ostpreussens“ publikuotas „Prussia“ leidinio tomuose 1938–1940 metais."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "767787-768032; hash=8b3e2a4da9c1db6a0a351ccbc36fcc8613f2129bfc7c665f402625a4871ca9eb; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-61695
 ## Reikšmingi paminėjimai
@@ -55,8 +52,8 @@ Dusburgietis teigia, kad crome H.
     32, Teil 1 (1938), S. 173—209; Teil 2 (1939), S.. 297—324; Bd. 33, Heft 1—2 (1939),
     S. 268—289; Bd. 34 (1940), S. 83—145 (Zusätze und Berichtigungen, S. 146—149).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -67,7 +64,8 @@ Dusburgietis teigia, kad crome H.
 - id: c-61695
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 261"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 261."
   citata_originali: |
     Crome H. Verzeichnis der Wehranlagen Ostpreussens.— Prussia, Königsberg (Pr.), Bd.
     32, Teil 1 (1938), S. 173—209; Teil 2 (1939), S.. 297—324; Bd. 33, Heft 1—2 (1939),

@@ -30,21 +30,6 @@ Teodoro Narbuto vertinimu, Strubė, kildindamas rusų tautą iš labai tolimos s
 - t-001
   global_id: t-191321
   teiginys: "Teodoro Narbuto vertinimu, Strubė, kildindamas rusų tautą iš labai tolimos senovės, labai supainiojo Šiaurės istorijos dalykus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "414195-414715; hash=4d554384f18ce80740d670cbd4138aee1ba7d8cac4451347101dfdcd75f747de; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Rusai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Strubė: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Rusai: mention_match, group, gap=20"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Strubė\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174203
 ## Reikšmingi paminėjimai
@@ -64,8 +49,8 @@ Teodoro Narbuto vertinimu, Strubė, kildindamas rusų tautą iš labai tolimos s
     sąvoka Estiorum terrae apėmęs kraštą, kur buvusi Rota-
     la.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -76,7 +61,8 @@ Teodoro Narbuto vertinimu, Strubė, kildindamas rusų tautą iš labai tolimos s
 - id: c-174203
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 235"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 235."
   citata_originali: |
     Vadinasi, privalome pasiteisinti dėl to priekaišto, kurį
     galima ¡būtų mums padaryti. Įkarščio ir nuoširdaus noro,

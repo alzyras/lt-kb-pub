@@ -41,20 +41,6 @@ Bent jau apie Narimantą kal­ bant, pirmiausia, Dlugošas, žinia, apsirinka j�
 - t-001
   global_id: t-87816
   teiginys: "Patrikas, arba Patricijus, po Narimanto perėmė valdžią Didžiajame Naugarde."
-  semantiniai_rysiai: "Patrikas, arba Patricijus buvo sūnus Narimantas (Pinsko kunigaikštis) (0.96); Patrikas, arba Patricijus valdė Naugardas (0.88)"
-  temporaliniai_duomenys: "įvykio data: iki 1348 m.; įvykio data: 1348 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata aiškiai nurodo Patriko valdžios perėmimą po Narimanto, o pradinis tekstas buvo fragmentiškas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "280723-281252; hash=e7133d3e86f66734b69a9eef28a64b4a2dddeb9c0fe2efac0985d84a99860754; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sunus -> Narimantas (Pinsko kunigaikštis): 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Patrikas, arba Patricijus: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Narimantas (Pinsko kunigaikštis): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Patriką kaip Narimanto sūnų."
   pagrindžia:
     - c-83795
 ## Reikšmingi paminėjimai
@@ -80,8 +66,8 @@ Bent jau apie Narimantą kal­ bant, pirmiausia, Dlugošas, žinia, apsirinka j�
     Algirdo sūnus: žr. D a n i L, Kronika
     Ruška pr 206.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -120,4 +106,3 @@ Bent jau apie Narimantą kal­ bant, pirmiausia, Dlugošas, žinia, apsirinka j�
 
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]]
-- Patrikas, arba Patricijus valdė [[objektai/vietos/Naugardas]]

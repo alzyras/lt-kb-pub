@@ -46,12 +46,6 @@ Nenurodyta
 - t-001
   global_id: t-185875
   teiginys: "Algirdo ir Maskvos valdovo amžinąją taiką turėjo sutvirtinti abiejų tautų priesaika."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "390019-390626; hash=6c5f02606fc2ec6658f5767cce146ad3d56445b09f5cc80d56afff97d39ac64a; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-169236
 
@@ -59,12 +53,6 @@ Nenurodyta
 - t-002
   global_id: t-193481
   teiginys: "Šitaip, kadangi ir Maskvos valdovas nepaprastai bi jojo visokių netikėtumų, ir lietuvis norėjo laiku iš vengti visokių atsitiktinumų, jie be didelio vargo su tarė sudaryti taiką šiomis sąlygomis: Algirdas, lydi mas žymiausiųjų palydovų ir T a ik o s ta ip m a."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "390019-390626; hash=6c5f02606fc2ec6658f5767cce146ad3d56445b09f5cc80d56afff97d39ac64a; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-169236
 ## Reikšmingi paminėjimai
@@ -88,8 +76,8 @@ Nenurodyta
     reiviams algą, o vadui — karo išlaidas. Abiejų tautų
     priesaika turinti sustiprinti amžinąją taiką.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -101,7 +89,8 @@ Nenurodyta
 - id: c-169236
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 224"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 224."
   citata_originali: |
     Šitaip, kadangi ir Maskvos valdovas nepaprastai bi­
     jojo visokių netikėtumų, ir lietuvis norėjo laiku iš­

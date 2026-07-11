@@ -36,14 +36,6 @@ Narbutas ašarinėmis vadino indus, į kuriuos per laidotuves surinktas ašaras 
 - t-001
   global_id: t-189113
   teiginys: "Narbutas ašarinėmis vadino indus, į kuriuos per laidotuves surinktas ašaras pastatydavo kape prie mirusiojo kojų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "650710-651096; hash=483624f108b97fde04e404fc085b69ab1a389cb70b3d667c2f8c32c5f28fff23; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172001
 
@@ -51,14 +43,6 @@ Narbutas ašarinėmis vadino indus, į kuriuos per laidotuves surinktas ašaras 
 - t-002
   global_id: t-189114
   teiginys: "Narbutas rašė pastebėjęs sudaužytų ašarinių liekanų, kurių kai kurių šukių vidus buvo dengtas tamsiai ruda glazūra."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "665432-666073; hash=1a71ab7ac187f6eb72dec1ce518d8352a4cce7377e2649132e4df6e17b4f1c19; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172002
 ## Reikšmingi paminėjimai
@@ -76,8 +60,8 @@ Narbutas ašarinėmis vadino indus, į kuriuos per laidotuves surinktas ašaras 
     indelių; šiuos indus, arba ašarines, pastatydavo kape prie mi­
     rusiojo kojų. Apie tai bus straipsnyje „Kapai“.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -99,8 +83,8 @@ Narbutas ašarinėmis vadino indus, į kuriuos per laidotuves surinktas ašaras 
     puodeliai, galėję turėti vos pusantro colio skersmenį ir gal iki
     dviejų colių gylio, su šiek tiek siaurėjančiu kakleliu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -111,7 +95,8 @@ Narbutas ašarinėmis vadino indus, į kuriuos per laidotuves surinktas ašaras 
 - id: c-172001
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 367"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 367."
   citata_originali: |
     Ne­
     turtingų žmonių laidotuvėse nebūna tiek triukšmo; tačiau net
@@ -131,7 +116,8 @@ Narbutas ašarinėmis vadino indus, į kuriuos per laidotuves surinktas ašaras 
 - id: c-172002
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 375"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 375."
   citata_originali: |
     Dar pastebėjau su­
     daužytų ašarinių liekanų; keleto šukių vidus buvo dengtas tam­

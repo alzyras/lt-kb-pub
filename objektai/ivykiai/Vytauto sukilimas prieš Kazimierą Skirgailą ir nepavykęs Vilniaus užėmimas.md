@@ -42,19 +42,6 @@ Nenurodyta
 - t-001
   global_id: t-185788
   teiginys: "Vytautą žygiuoti į Vilnių paskatino Kazimiero išvykimas į Polocką, kuris laikytas esančiu už 50 mylių nuo Vilniaus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "523698-524290; hash=c4cdd0eb66ce00a07675f416e12d060e93dbbb6ad5caf5b6f362da6b9456310c; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytauto sukilimas prieš Kazimierą Skirgailą ir nepavykęs Vilniaus užėmimas (sukilimas): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=19"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytauto sukilimas prieš Kazimierą Skirgailą ir nepavykęs Vilniaus užėmimas (sukilimas)\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-169149
 ## Reikšmingi paminėjimai
@@ -78,8 +65,8 @@ Nenurodyta
     lė miestą, tačiau abu kartus buvo atremtas miestiečių
     bei lenkų, kurie sudarė miesto įgulą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -90,7 +77,8 @@ Nenurodyta
 - id: c-169149
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 302"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 302."
   citata_originali: |
     Maištas prasidėjo verži-
     P ab a n d ęs u žim ti V ii-

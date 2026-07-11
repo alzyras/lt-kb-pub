@@ -52,9 +52,6 @@ Nenurodyta
 - t-001
   global_id: t-87259
   teiginys: "Akademijos teatro salė buvo skirta komedijoms ir tragedijoms rodyti, ją laikė keturios didelės ir dvi mažos arkados."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "382670-383329; hash=de74161e452e964e473abcbf1bd6c10f372712341e0c983a0f54f5b5651846a7; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-83238
 ## Reikšmingi paminėjimai
@@ -81,8 +78,8 @@ Nenurodyta
     mis didelėmis arkadomis ir dviem mažomis, jas laiko stul­
     pai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

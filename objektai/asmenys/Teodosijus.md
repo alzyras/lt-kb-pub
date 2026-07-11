@@ -44,17 +44,6 @@ Mirus Kijevo ir visos Rusios metropolitui Kiprijonui (1390-1406), Vytautas dėjo
 - t-001
   global_id: t-30394
   teiginys: "Vytautas siekė, kad Polocko vyskupas Teodosijus taptų Lietuvos stačiatikių metropolitu."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) rėmė Teodosijus (0.86)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "880431-880806; hash=6d3cd2243d13dd1c77b30c303fdc21789a1f9c3ae81d9b3de3c067232ea6060a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "reme -> Teodosijus: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Teodosijus: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Vytautas tiesiogiai siekė iškelti Teodosijų į metropolitus, todėl palaikymo ryšys pagrįstas."
   pagrindžia:
     - c-32808
 
@@ -62,14 +51,6 @@ Mirus Kijevo ir visos Rusios metropolitui Kiprijonui (1390-1406), Vytautas dėjo
 - t-002
   global_id: t-194723
   teiginys: "Rytų Romos imperatoriui Teodosijui įsakius nugriauti Aleksandrijos stabmeldžių šventyklas, ant Serapio šventovės akmenų tarp kitų hieroglifų buvo aptikti ženklai, panašūs į kryžių."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "674714-675188; hash=19d2f4c3351e664920405d5e79ef968eb58e34148099a2fe276ba8f1afaffb55; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-177119
 ## Reikšmingi paminėjimai
@@ -84,8 +65,8 @@ Mirus Kijevo ir visos Rusios metropolitui Kiprijonui (1390-1406), Vytautas dėjo
     Teodosijų. Jis buvo tačiau priverstas pripažinti « Kijevo ir visos
     Rusios» metropolitu graiką Fotijų (1408-1431)^62.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -105,8 +86,8 @@ Mirus Kijevo ir visos Rusios metropolitui Kiprijonui (1390-1406), Vytautas dėjo
     kryžių. Romoje, senovinio egiptiečių obelisko, iki šios dienos
     tebestovinčio priešais Laterano šv.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -136,7 +117,8 @@ Mirus Kijevo ir visos Rusios metropolitui Kiprijonui (1390-1406), Vytautas dėjo
 - id: c-177119
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 379"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 379."
   citata_originali: |
     Pirmiau­
     sia tvirtinu, kad kryžius senų senovėje beveik visoms tautoms,
@@ -153,6 +135,3 @@ Mirus Kijevo ir visos Rusios metropolitui Kiprijonui (1390-1406), Vytautas dėjo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194723
-
-## Ryšiai
-- Rėmė Teodosijų: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

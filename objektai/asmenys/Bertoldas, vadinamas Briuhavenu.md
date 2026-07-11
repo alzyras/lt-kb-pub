@@ -44,17 +44,6 @@ Dusburgietis teigia, kad bertoldas, vadinamas Briuhavenu visų vadinama nuo šal
 - t-004
   global_id: t-59876
   teiginys: "Bertoldas su tūkstančiu Sembos vyrų nesėkmingai bandė sutrukdyti statybai, o vėliau sudegino Medrabos pilį."
-  semantiniai_rysiai: "Bertoldas, vadinamas Briuhavenu puolė Medraba (0.86); Bertoldas, vadinamas Briuhavenu užėmė Medraba (0.73)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "567358-567767; hash=1e73b288d5b486196e4bc7811ab51d3676f71ea428de0e9282976dfeeb3e95a5; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Medraba: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Bertoldas, vadinamas Briuhavenu: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Medraba: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas nurodo, kad Bertoldas po nesėkmingo statybos trukdymo puolė Medrabos pilį."
   pagrindžia:
     - c-60513
 
@@ -62,20 +51,6 @@ Dusburgietis teigia, kad bertoldas, vadinamas Briuhavenu visų vadinama nuo šal
 - t-003
   global_id: t-59877
   teiginys: "1291 m. Karaliaučiaus komtūras Bertoldas Bruhavenas su broliais ir 1500 vyrų sudegino tuščią Kolainių pilį."
-  semantiniai_rysiai: "Bertoldas, vadinamas Briuhavenu puolė Junigeda (0.78); Bertoldas, vadinamas Briuhavenu puolė Kolainiai (0.76)"
-  temporaliniai_duomenys: "įvykio data: 1291 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pagrindžia datą, pareigas, pajėgas ir veiksmą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "566055-566545; hash=9efce24a191c07ae2821254d9f6a2a987c4632d006b0faae14dcde42937209c5; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Junigeda: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Bertoldas, vadinamas Briuhavenu: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Junigeda: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata nurodo, kad po Kolainių sudeginimo jo pajėgos patraukė į Junigedą ir ją nusiaubė."
   pagrindžia:
     - c-60509
 
@@ -83,17 +58,6 @@ Dusburgietis teigia, kad bertoldas, vadinamas Briuhavenu visų vadinama nuo šal
 - t-002
   global_id: t-59878
   teiginys: "Bertoldas Briuhavenas neilgai vadovavo Ragainės piliai, nes netrukus buvo paskirtas Karaliaučiaus brolių komtūru."
-  semantiniai_rysiai: "Bertoldas, vadinamas Briuhavenu valdė Ragainė (0.84)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "557028-557803; hash=ecb37398754b38c4d861223f7779891ee5fb3a0393cfc76d20b6d46efbd754dc; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde -> Ragainė: 0.84"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Bertoldas, vadinamas Briuhavenu: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Ragainė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo, kad Bertoldas vadovavo Ragainės piliai."
   pagrindžia:
     - c-60508
 
@@ -101,20 +65,6 @@ Dusburgietis teigia, kad bertoldas, vadinamas Briuhavenu visų vadinama nuo šal
 - t-006
   global_id: t-59879
   teiginys: "1298 m. didysis magistras Gotfridas Hohenlohė pasiuntė Karaliaučiaus komtūrą Bertoldą Briuhaveną į pagalbą Livonijos broliams."
-  semantiniai_rysiai: "Gotfridas Hohenlohė siuntė į Livonija (0.91); Bertoldas, vadinamas Briuhavenu kariavo prieš Lietuviai (0.82); Bertoldas, vadinamas Briuhavenu keliavo į Livonija (0.78)"
-  temporaliniai_duomenys: "įvykio data: 1298 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata tiesiogiai pagrindžia Bertoldo pasiuntimą į Livoniją."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "599782-600854; hash=0c3741e5684273f7bee483abc063ebfe388e475ddb26c7408f59202a40b6c4d6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "siunte_i -> Livonija: 0.91"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gotfridas Hohenlohė: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Livonija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Gotfridas Hohenlohė tiesiogiai pasiuntė Bertoldą į pagalbą Livonijos broliams."
   pagrindžia:
     - c-60510
 
@@ -122,20 +72,6 @@ Dusburgietis teigia, kad bertoldas, vadinamas Briuhavenu visų vadinama nuo šal
 - t-001
   global_id: t-59880
   teiginys: "1289 m. Meinhardas Ragainės piliai ginti paliko iš Austrijos kilusį komtūrą Bertoldą Briuhaveną su 40 brolių ir 100 ginklanešių."
-  semantiniai_rysiai: "Bertoldas, vadinamas Briuhavenu gimė Austrija (0.88); Bertoldas, vadinamas Briuhavenu gynė Ragainė (0.84)"
-  temporaliniai_duomenys: "įvykio data: 1289 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata aiškiai pagrindžia Bertoldo paskyrimą ginti Ragainę."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "556260-557011; hash=5ce5f7e10378c2bb68d85852f7fff96c9616d79f69740c6cca01cd70de3684ee; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gime -> Austrija: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Bertoldas, vadinamas Briuhavenu: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Austrija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Frazė tiesiogiai nurodo Bertoldo kilmę iš Austrijos."
   pagrindžia:
     - c-60511
 
@@ -143,17 +79,6 @@ Dusburgietis teigia, kad bertoldas, vadinamas Briuhavenu visų vadinama nuo šal
 - t-005
   global_id: t-59881
   teiginys: "Karaliaučiaus komtūras Bertoldas pavedė Henrikui Cutsvertui su kariuomene traukti link Lietuvos ir siaubti Vytenio žemes."
-  semantiniai_rysiai: "Bertoldas, vadinamas Briuhavenu siuntė į Lietuva (0.86)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "598332-599130; hash=d83dd3c83b6acdbc3d54397275ee883c84598d773e2a2fdf40e34a1ab9c38e82; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "siunte_i -> Lietuva: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Bertoldas, vadinamas Briuhavenu: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Bertoldas įsakė kariuomenei traukti link Lietuvos."
   pagrindžia:
     - c-60512
 ## Reikšmingi paminėjimai
@@ -174,8 +99,8 @@ Dusburgietis teigia, kad bertoldas, vadinamas Briuhavenu visų vadinama nuo šal
     negali būti skaistus, jeigu dievas neduoda tos malonės, ir nutarė imtis štai šio nepaprasto
     ir kupino pavojų išbandymo.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -193,8 +118,8 @@ Dusburgietis teigia, kad bertoldas, vadinamas Briuhavenu visų vadinama nuo šal
     Junigedos valsčių532, kurį nusiaubė, grobdami bei degindami; neskaitant kitų padarytų
     nuostolių, paėmė į nelaisvę ir nužudė septynis šimtus netikėlių.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -219,8 +144,8 @@ Dusburgietis teigia, kad bertoldas, vadinamas Briuhavenu visų vadinama nuo šal
 
       549 Goliubo pilis prie Drevantos,  į šiaurės rytus nuo Torunės (SZCh, p. 36), dab.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -241,8 +166,8 @@ Dusburgietis teigia, kad bertoldas, vadinamas Briuhavenu visų vadinama nuo šal
     su 40 brolių ir šimtu rinktinių ginklanešių. Neilgai trukus prie Nemuno, šiek tiek žemiau,
     pastatė Skalvių pilį528, kad turėtų kur gyventi skalviai, atsivertę į Kristaus tikėjimą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -262,8 +187,8 @@ Dusburgietis teigia, kad bertoldas, vadinamas Briuhavenu visų vadinama nuo šal
     pilį, sutiko tokį stiprų pilėnų priešinimąsi gausiai svaidant [per crebra jacula], jog tada,
     kai daugybė krikščionių liko sunkiai sužeista, jis pasitraukė, nepasiekęs tikslo.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -279,8 +204,8 @@ Dusburgietis teigia, kad bertoldas, vadinamas Briuhavenu visų vadinama nuo šal
     Medrabos pilies534, per kurią krikščionys patyrė daug bėdų, ir ją po stipraus antpuolio iki
     pamatų sudegino, o visus žmones išžudė ar paėmė į nelaisvę.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -291,7 +216,8 @@ Dusburgietis teigia, kad bertoldas, vadinamas Briuhavenu visų vadinama nuo šal
 - id: c-60508
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 177"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 177."
   citata_originali: |
     Apie brolį Karaliaučiaus komtūrą Bertoldą, vadinamą Briuhavenu, bei apie
                                             jo gyvenimą
@@ -314,7 +240,8 @@ Dusburgietis teigia, kad bertoldas, vadinamas Briuhavenu visų vadinama nuo šal
 - id: c-60509
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 180"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 180."
   citata_originali: |
     243 (236). Apie Kolainių pilies sudeginimą ir Junigedos valsčiaus apiplėšimą
 
@@ -334,7 +261,8 @@ Dusburgietis teigia, kad bertoldas, vadinamas Briuhavenu visų vadinama nuo šal
 - id: c-60510
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 191"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 191."
   citata_originali: |
     1298 viešpaties
     metais Vytenis, lietuvių karalius, Rygos miestiečių pakviestas, užėmė Karkuso pilį550, kur
@@ -361,7 +289,8 @@ Dusburgietis teigia, kad bertoldas, vadinamas Briuhavenu visų vadinama nuo šal
 - id: c-60511
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 177"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 177."
   citata_originali: |
     235 (228). Apie Ragainės ir Skalvių pilių pastatymą
 
@@ -384,7 +313,8 @@ Dusburgietis teigia, kad bertoldas, vadinamas Briuhavenu visų vadinama nuo šal
 - id: c-60512
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 191"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 191."
   citata_originali: |
     Tais pačiais metais bei tuo laiku, kai karaliai paprastai traukia į karą, karalius Vytenis
     įsibrovė su didele galybe lietuvių į Livonijos žemę, ketindamas pradėti karą su broliais.
@@ -406,7 +336,8 @@ Dusburgietis teigia, kad bertoldas, vadinamas Briuhavenu visų vadinama nuo šal
 - id: c-60513
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 181"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 181."
   citata_originali: |
     pavadino tuo pačiu vardu. Minėtas  brolis Bertoldas,  šitai sužinojęs, atžygiavo su
     tūkstančiu Sembos vyrų  ir pabandė sutrukdyti statybai, bet nestengė, nes netikėliai
@@ -420,13 +351,3 @@ Dusburgietis teigia, kad bertoldas, vadinamas Briuhavenu visų vadinama nuo šal
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59876
-
-## Ryšiai
-- Bertoldas, vadinamas Briuhavenu valdė [[objektai/vietos/Ragainė]]
-- Bertoldas, vadinamas Briuhavenu keliavo į [[objektai/vietos/Livonija]]
-- Bertoldas, vadinamas Briuhavenu gimė [[objektai/vietos/Austrija]]
-- Bertoldas, vadinamas Briuhavenu puolė [[objektai/vietos/Junigeda]], [[objektai/vietos/Kolainiai]], [[objektai/vietos/Medraba]]
-- Bertoldas, vadinamas Briuhavenu užėmė [[objektai/vietos/Medraba]]
-- Bertoldas, vadinamas Briuhavenu gynė [[objektai/vietos/Ragainė]]
-- Bertoldas, vadinamas Briuhavenu siuntė į [[objektai/vietos/Lietuva]]
-- Bertoldas, vadinamas Briuhavenu kariavo prieš [[objektai/grupes/Lietuviai]]

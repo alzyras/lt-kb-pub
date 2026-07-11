@@ -43,21 +43,6 @@ Dusburgietis teigia, kad trumpų žinių apie Ordino praeitį pateikia „Pelpli
 - t-001
   global_id: t-61218
   teiginys: "Trumpų žinių apie Ordino praeitį pateikia „Pelplino analai“97."
-  temporaliniai_duomenys: "įvykio data: 1190 m.; įvykio data: 1231 m.; įvykio data: 1260 m.; įvykio data: 1293 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "claim_quality_pipeline deterministic repair"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "58523-58950; hash=7ed0707753b25658c559162b0cb11cd3befbf94416d60fa2c9f64f9eca4c6506; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jeruzalė: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Pelplino analai: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Jeruzalė: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pelplino analai\" parinktas kaip owner_note_path. Targetas \"Jeruzalė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
-  vertinimo_autorius: "claim_quality_pipeline / rewrite"
   pagrindžia:
     - c-61850
 ## Reikšmingi paminėjimai
@@ -73,8 +58,8 @@ Dusburgietis teigia, kad trumpų žinių apie Ordino praeitį pateikia „Pelpli
     markgrafų, karalių atvykimą į Prūsiją. Tekstas baigiamas Skalvių pilies pastatymu 1293
     m.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -85,7 +70,8 @@ Dusburgietis teigia, kad trumpų žinių apie Ordino praeitį pateikia „Pelpli
 - id: c-61850
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 21"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 21."
   citata_originali: |
     Trumpų žinių apie Ordino praeitį pateikia „Pelplino analai“97. Pirmoje žinutėje kalbama
     apie Ordino įsikūrimą Jeruzalėje 1190 m., po to — apie Ordino pilių statybą Prūsijoje,

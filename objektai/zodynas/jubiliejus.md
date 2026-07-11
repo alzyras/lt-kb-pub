@@ -39,9 +39,6 @@ Dusburgietis teigia, kad apie jubiliejaus metų indulgenciją Tais pačiais meta
 - t-001
   global_id: t-58906
   teiginys: "Per jubiliejų popiežius Bonifacas suteikė visišką nuodėmių atleidimą lankantiems apaštalų Petro ir Pauliaus šventoves."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "731670-731933; hash=6f8fff7fde76cbd9e48db07cb24616b28fe2743409d5bd72ba381c1454538b40; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-59538
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176734|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Atgimstančios lietuvių tautos sąmonėje Vytautas buvo pasirinktas valstybės ir tautos didvyriu.
@@ -57,8 +54,8 @@ Dusburgietis teigia, kad apie jubiliejaus metų indulgenciją Tais pačiais meta
     visišką nuodėmių at leidimą kiekvienam, kas lanko šventųjų Petro be Pauliaus, apaštalų,
     slenksčius (Ptol. pried. p. 1220 Mart. p. 437).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -69,7 +66,8 @@ Dusburgietis teigia, kad apie jubiliejaus metų indulgenciją Tais pačiais meta
 - id: c-59538
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 243"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 243."
   citata_originali: |
     88. Apie jubiliejaus metų indulgenciją
 

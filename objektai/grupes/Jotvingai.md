@@ -35,14 +35,6 @@ Ji buvo daug platesnė, negu Mindaugo laikais, nes Traidenio klausė ir žemaič
 - t-001
   global_id: t-193304
   teiginys: "Ji buvo daug platesnė, negu Mindaugo laikais, nes Traidenio klausė ir žemaičiai ir jotvingai, kurie Mindaugo laikais labai neaiškiai laikėsi."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "hash=d21a589ef099ba52548287cc843b903dbf137de9b59439ccf3b15b3b571ec326; match=not_found; occurrences=0"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-176032
 ## Reikšmingi paminėjimai
@@ -57,8 +49,8 @@ Ji buvo daug platesnė, negu Mindaugo laikais, nes Traidenio klausė ir žemaič
     laikais, nes Traidenio klausė ir žemaičiai ir jotvingai, kurie
     Mindaugo laikais labai neaiškiai laikėsi.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

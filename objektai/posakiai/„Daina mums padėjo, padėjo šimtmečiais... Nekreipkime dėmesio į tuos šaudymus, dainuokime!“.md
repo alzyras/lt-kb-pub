@@ -33,16 +33,6 @@ Vilniaus televizijos bokšto šturmas – sovietų tankų vikšrai traiško taik
 - t-001
   global_id: t-26352
   teiginys: "Sausio 13 d. Vytautas Landsbergis prie parlamento susirinkusius žmones ragino nepasiduoti provokacijoms ir dainuoti."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "503438-504088; hash=128a1850906bd53d92a561f2422e86e87c20110940bace6ecfd10c05411e4cc0; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "„Daina mums padėjo, padėjo šimtmečiais... Nekreipkime dėmesio į tuos šaudymus, dainuokime!“: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"„Daina mums padėjo, padėjo šimtmečiais... Nekreipkime dėmesio į tuos šaudymus, dainuokime!“\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-26577
 ## Reikšmingi paminėjimai
@@ -65,8 +55,8 @@ Vilniaus televizijos bokšto šturmas – sovietų tankų vikšrai traiško taik
     Įvykiai prie televizijos bokšto sukrėtė visą Lietuvą ir nuskambėjo po
     visą pasaulį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

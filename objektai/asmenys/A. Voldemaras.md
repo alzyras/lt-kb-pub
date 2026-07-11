@@ -44,19 +44,6 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
 - t-003
   global_id: t-77996
   teiginys: "A. Voldemaras Vilniaus klausimo sprendimą siejo su Maskva ir Berlynu, todėl ieškojo SSRS paramos prieš Lenkiją."
-  temporaliniai_duomenys: "įvykio data: 1928 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalintas OCR įterptas pašalinis fragmentas."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "319470-320255; hash=3140f376936d609d958ea3b63fdc89e8bfddca2ff43630058548b2ccca3beabc; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> A. Smetona: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "A. Voldemaras: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "A. Smetona: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"A. Voldemaras\" parinktas kaip owner_note_path. Targetas \"A. Smetona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-75315
 
@@ -64,21 +51,6 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
 - t-004
   global_id: t-77997
   teiginys: "A. Voldemaras užsienio politiką pakreipė radikalesne kryptimi, pabrėždamas, kad be Vilniaus Lietuva nėra vienas kūnas."
-  temporaliniai_duomenys: "įvykio data: 1927 m.; įvykio data: 1928 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis sakinys gremėzdiškas; citata leidžia glaustesnę enciklopedinę formą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "320256-320785; hash=76fd02992d946954e420d0be92eb870e57c38873f8b441968f3d05d2b640e70c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "A. Voldemaras: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=92"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"A. Voldemaras\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-75312
 
@@ -86,21 +58,6 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
 - t-007
   global_id: t-77998
   teiginys: "1929 m. rugsėjį A. Voldemaras neteko pareigų, nes atsisakė tapti užsienio reikalų ministru."
-  temporaliniai_duomenys: "įvykio data: 1929 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinė formuluotė „liko be pareigų“ taisytina į neutralesnę enciklopedinę kalbą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "324257-324896; hash=f689d346e889eee33600d49ffd90f5b9516405e6147e74038bf119c02067e21d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> A. Smetona: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "A. Voldemaras: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "A. Smetona: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"A. Voldemaras\" parinktas kaip owner_note_path. Targetas \"A. Smetona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-75317
 
@@ -108,19 +65,6 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
 - t-001
   global_id: t-77999
   teiginys: "A. Smetona ir A. Voldemaras pabrėžė stiprių prezidento galių būtinybę ir menkino politinių partijų vaidmenį."
-  temporaliniai_duomenys: "įvykio data: 1924 m.; įvykio data: 1926 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata kalba apie du veikėjus, todėl teiginys patikslintas."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "315961-316821; hash=27a8aca5dc9f968845247c94dcb651fc36c8089be7559dee063f67259be3d61d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> 1926 m. gruodžio 17 d. perversmas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "A. Voldemaras: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "1926 m. gruodžio 17 d. perversmas: mention_match, event, gap=73"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"A. Voldemaras\" parinktas kaip owner_note_path. Targetas \"1926 m. gruodžio 17 d. perversmas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-75318
 
@@ -128,19 +72,6 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
 - t-005
   global_id: t-78000
   teiginys: "1927 m. rugsėjo 27 d. A. Voldemaras Romoje pasirašė konkordatą su Vatikanu dėl Lietuvos katalikų bažnyčios padėties valstybėje."
-  temporaliniai_duomenys: "įvykio data: 1927 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, tikslus ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "322420-322865; hash=baa834e532e25e9f03c43d3770ef44d1e23b87752d4f6ae1d12649e68fc7c541; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "A. Voldemaras: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=57"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"A. Voldemaras\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-75311
 
@@ -148,19 +79,6 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
 - t-006
   global_id: t-78001
   teiginys: "Stiprėjant Europos sienų neliečiamumo tendencijai, A. Voldemaras negalėjo pakeisti Lietuvos padėties Vilniaus klausimu."
-  temporaliniai_duomenys: "įvykio data: 1929 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys buvo per silpnai kontekstualizuotas."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "323999-324429; hash=5b546df62ba68354db0cd95157901b247507060254d588f5b33fddb7c7708b3a; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "A. Voldemaras: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=32"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"A. Voldemaras\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-75313
 
@@ -168,16 +86,6 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
 - t-002
   global_id: t-78002
   teiginys: "A. Voldemaras buvo ministras pirmininkas ir užsienio reikalų ministras."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "319250-319881; hash=479d78d33eee321566640c85f7ad3e9e91d0558638a14cbc3256b388f066468f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> A. Smetona: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "A. Voldemaras: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "A. Smetona: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"A. Voldemaras\" parinktas kaip owner_note_path. Targetas \"A. Smetona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-75316
 
@@ -185,20 +93,6 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
 - t-008
   global_id: t-78003
   teiginys: "Kariuomenėje įtakingi voldemarininkai pučais bandė grąžinti A. Voldemarą į valdžią."
-  semantiniai_rysiai: "Voldemarininkai rėmė A. Voldemaras (0.90); A. Voldemaras keliavo į Paryžius (0.86); A. Voldemaras keliavo į Zarasai (0.68)"
-  temporaliniai_duomenys: "įvykio data: 1934 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pagrindžia faktą apie bandymus grąžinti Voldemarą į valdžią."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "330648-331053; hash=c1df0e38885e7aaa0a3643e4936097a77b0e00e226a8f0fa5d24ccdc601671da; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "reme -> A. Voldemaras: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Voldemarininkai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "A. Voldemaras: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Voldemarininkų bandymas pučais grąžinti A. Voldemarą į valdžią tiesiogiai rodo paramą jam."
   pagrindžia:
     - c-75314
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75714|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Antanas Smetona ir Augustinas Voldemaras pabrėžė stiprių prezidento galių būtinybę ir menkino politinių partijų vaidmenį.
@@ -246,8 +140,8 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
     pasirašė konkordatą su Vatikanu, nustačiusį Lietuvos katalikų bažnyčios
     padėtį valstybėje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -266,8 +160,8 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
     išspręstas, A. Voldemaras prašovė – 1927 m. balandį derybose Lenkija
     atsisakė kalbėtis dėl Vilniaus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -284,8 +178,8 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
     tų eserų pasikėsinimo į A. Voldemaro gyvybę, 1929 m. rugsėjį visiems
     ministrams in corpore „atsistatydinus“, turėjo atsistatydinti ir premjeras.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -302,8 +196,8 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
     ir laiku sustabdomi. Tik A. Voldemaras šį kartą nubaustas ypač rimtai – iš
     Lietuvos provincijos miestelio Zarasų ištremtas į Paryžių...
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -329,8 +223,8 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
     159
     Lenkiją.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -351,8 +245,8 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
     jų, o A. Smetona stengėsi laikytis „vidurainės [A. Smetonos terminas –
     Red.] linijos“ – nesusisieti su kokia nors konkrečia valstybe ar jų grupe.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -373,8 +267,8 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
     ginkluotą radikaliausių tautininkų organizaciją „Geležinis vilkas“, kuri
     laikė A. Voldemarą savo vadu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -406,8 +300,8 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
     laikus“, prilygintus netvarkai ir
     anarchijai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -602,4 +496,4 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
 
 ## Ryšiai
 - Rėmė A. Voldemarą: [[objektai/grupes/Voldemarininkai]]
-- A. Voldemaras keliavo į [[objektai/vietos/Paryžius]], [[objektai/vietos/Zarasai]]
+- A. Voldemaras keliavo į [[objektai/vietos/Paryžius]]

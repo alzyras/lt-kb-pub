@@ -40,16 +40,6 @@ Jaśkiewicz : A Study in Lithuanian Mythologie.
 - t-001
   global_id: t-31031
   teiginys: "V. K. Jaśkiewicz paskelbė studiją apie Jono Lasickio aprašytus žemaičių dievus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "142881-143252; hash=e5c9894fee316edaa1c47e3ff8a9a0bf1181f97b316bb0136fa3c56e26c74710; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "V. K. Jaśkiewicz: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"V. K. Jaśkiewicz\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-33172
 ## Reikšmingi paminėjimai
@@ -64,8 +54,8 @@ Jaśkiewicz : A Study in Lithuanian Mythologie.
     Samogitian Gods,_** **žr. Studi Baltici, (N. S. - I(IX)), Firenze 1952, 65-106 p.**
     (^43) **Išl. Vilniuje 1848 ; naujai išl.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

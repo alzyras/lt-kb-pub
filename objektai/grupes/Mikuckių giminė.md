@@ -30,14 +30,6 @@ Narbutas Simonaitę įvardija kaip moteriškos giminės fetišą, kurį garbino 
 - t-001
   global_id: t-189526
   teiginys: "Narbutas Simonaitę įvardija kaip moteriškos giminės fetišą, kurį garbino Mikuckių giminė."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "350661-350896; hash=94d789cc1917bc05c198c9d4d964d51bad012553ad49237fc687035b6b9358da; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172414
 - susijęs iš [[objektai/zodynas/Simonaitė Sidzia Ventis Rageziowan Dievaitis Vetustis Guboja Tvertikas.md#claim-t-189251|Simonaitė Sidzia Ventis Rageziowan Dievaitis Vetustis Guboja Tvertikas]]: Narbutas Simonaitę (Simonajte) apibūdina kaip moteriškos giminės fetišą, kurį garbino Mikuckių giminė.
@@ -55,8 +47,8 @@ Narbutas Simonaitę įvardija kaip moteriškos giminės fetišą, kurį garbino 
     Sidzia
     Mikalauskų giminės fetišas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -67,7 +59,8 @@ Narbutas Simonaitę įvardija kaip moteriškos giminės fetišą, kurį garbino 
 - id: c-172414
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 206"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 206."
   citata_originali: |
     Kaimiečiai tų šliužų nelai­
     ko kenksmingais ir dabar nedaro jiems nieko bloga; priešin­

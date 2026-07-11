@@ -33,17 +33,6 @@ Podolėje veikė jų paskirti atamanai, kurie nuo Podolės žemės duodavo duokl
 - t-002
   global_id: t-42433
   teiginys: "Karijotaičiai susidraugavo su vietiniais atamanais ir ėmė ginti Podolės žemę bei neduoti duoklės baskakams."
-  semantiniai_rysiai: "Karijotaičiai gynė Podolė (0.94); Karijotaičiai pastatė Kamenecas (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "180611-180881; hash=2b3bd47121980bd978e5b077a0cf40edfd0e1cde1aa015bf32d07cb1463856d3; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyne -> Podolė: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Karijotaičiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Podolė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Karijotaičiai ėmė ginti Podolės žemę."
   pagrindžia:
     - c-45504
 
@@ -51,16 +40,6 @@ Podolėje veikė jų paskirti atamanai, kurie nuo Podolės žemės duodavo duokl
 - t-001
   global_id: t-42434
   teiginys: "Podolėje veikę atamanai nuo Podolės žemės duodavo duoklę atvykstantiems Ordos baskakams."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "178531-178681; hash=f43f7c7f3f23c3ebfe36ffed08c3cea269d18bfbe9bbbba8cbf3a82e98bbf757; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Podolė: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "atamanas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Podolė: mention_match, place, gap=15"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"atamanas\" parinktas kaip owner_note_path. Targetas \"Podolė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-45503
 ## Reikšmingi paminėjimai
@@ -74,8 +53,8 @@ Podolėje veikė jų paskirti atamanai, kurie nuo Podolės žemės duodavo duokl
     nuo Podolės žemės duodavo duoklę at-
     vykstantiems Ordos baskakams.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -100,8 +79,8 @@ Podolėje veikė jų paskirti atamanai, kurie nuo Podolės žemės duodavo duokl
 
     valdė visą šią žemę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

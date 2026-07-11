@@ -43,20 +43,6 @@ media_all_json: |-
 - t-001
   global_id: t-87638
   teiginys: "Boleslovas Pamaldusis XIII a. paskelbė atmintiną privilegiją žydų tautos gyventojams Didžiojoje Lenkijoje."
-  semantiniai_rysiai: "Žydai gyveno Lenkija (0.82)"
-  temporaliniai_duomenys: "įvykio data: 1408 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata aiškiai sieja Boleslovą Pamaldųjį su XIII a. privilegija žydams."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "324706-325345; hash=c3ee9ff09e80c60af8e5dd3cef97fbecfe43ace0d47a6716af317c420c7d82dc; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Lenkija: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Žydai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Frazė nurodo žydų tautos gyventojus Didžiojoje Lenkijoje."
   pagrindžia:
     - c-83617
 ## Reikšmingi paminėjimai
@@ -81,8 +67,8 @@ media_all_json: |-
     privilegiją tos tautos gyventojams, paskelbtą XIII amžiuje, ku­
     rią vėliau patvirtino Kazimieras Didysis68.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

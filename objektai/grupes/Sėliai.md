@@ -40,17 +40,6 @@ kairiajame Dauguvos vidurupio krante, siekdami dabartines Utenos ir Zarasų apsk
 - t-001
   global_id: t-52441
   teiginys: "Sėliai gyveno kairiajame Dauguvos vidurupio krante ir siekė dabartines Utenos bei Zarasų apskritis."
-  semantiniai_rysiai: "Sėliai gyveno Dauguva (0.90)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "58051-58683; hash=219b0ae1dc5d9cd6d676ca982a27f28c8f8d2335d721c92b1b06dcae7a33ef63; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Dauguva: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Sėliai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Dauguva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad sėliai gyveno prie Dauguvos vidurupio."
   pagrindžia:
     - c-46399
 
@@ -58,17 +47,6 @@ kairiajame Dauguvos vidurupio krante, siekdami dabartines Utenos ir Zarasų apsk
 - t-001
   global_id: t-52441
   teiginys: "Sėliai gyveno kairiajame Dauguvos vidurupio krante ir siekė dabartines Utenos bei Zarasų apskritis."
-  semantiniai_rysiai: "Sėliai gyveno Dauguva (0.90)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "58051-58683; hash=219b0ae1dc5d9cd6d676ca982a27f28c8f8d2335d721c92b1b06dcae7a33ef63; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Dauguva: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Sėliai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Dauguva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad sėliai gyveno prie Dauguvos vidurupio."
   pagrindžia:
     - c-46399
 - susijęs iš [[objektai/grupes/Latviai.md#claim-t-169588|Latviai]]: Latviai asimiliavo dalį išnykusių kuršių, žiemgalių ir sėlių kilčių teritorijų.
@@ -98,8 +76,8 @@ kairiajame Dauguvos vidurupio krante, siekdami dabartines Utenos ir Zarasų apsk
     vidurupio krante gyveno latgãliai (taip šitų sričių gyven-
     tojus vadina senieji raštai).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

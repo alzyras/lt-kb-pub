@@ -40,22 +40,6 @@ Odojevas lokalizuojamas prie Upos upės. Upa šiame gabale apibūdinama kaip Oko
 - t-001
   global_id: t-187367
   teiginys: "Upa buvo Okos aukštupio dešinysis intakas prie Odojevo."
-  teiginio_tipas: "faktas"
-  temporaliniai_duomenys: "įvykio data: 1401 m.; įvykio data: 1424 m.; įvykio data: 1429 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra faktinis, gramatiškas ir atitinka citatos geografiją."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "497257-497665; hash=e9c112c2efa9a87cb33662f69aded3658279300a6c2e8a226f0dfc78a088a696; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  ryšio_patikimumas: "susije_su -> Odojevas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Upa: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Odojevas: mention_match, place, gap=47"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Upa\" parinktas kaip owner_note_path. Targetas \"Odojevas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-170380
 
@@ -63,22 +47,6 @@ Odojevas lokalizuojamas prie Upos upės. Upa šiame gabale apibūdinama kaip Oko
 - t-002
   global_id: t-187368
   teiginys: "Upa apibūdinama kaip Okos aukštupio dešinysis intakas prie Odojevo, buvusio LDK rytų pasienyje."
-  teiginio_tipas: "faktas"
-  temporaliniai_duomenys: "įvykio data: 1401 m.; įvykio data: 1424 m.; įvykio data: 1429 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalinta miglota formuluotė „šiame gabale“ ir išlaikyta citatos informacija."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "497257-497665; hash=e9c112c2efa9a87cb33662f69aded3658279300a6c2e8a226f0dfc78a088a696; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  ryšio_patikimumas: "susije_su -> Odojevas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Upa: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Odojevas: mention_match, place, gap=59"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Upa\" parinktas kaip owner_note_path. Targetas \"Odojevas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-170380
 ## Reikšmingi paminėjimai
@@ -95,8 +63,8 @@ Odojevas lokalizuojamas prie Upos upės. Upa šiame gabale apibūdinama kaip Oko
     būti Jurijus Romanovičius, minimas 1423— 1424 m.
     '* Peremišlis — XV a.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

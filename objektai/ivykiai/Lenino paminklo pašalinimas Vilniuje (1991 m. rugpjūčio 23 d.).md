@@ -56,17 +56,6 @@ Nenurodyta
 - t-001
   global_id: t-24531
   teiginys: "Vilniuje buvo pašalintas Lenino paminklas."
-  semantiniai_rysiai: "Lenino paminklas Vilniuje priklausė Vilnius (0.70)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "507836-508441; hash=6d5b64b9538405cbe3ff180507bcb3523a637234bc67557fd3b833103cf46a0f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Vilnius: 0.70"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lenino paminklas Vilniuje: llm_allowed_candidate, thing"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Paminklo buvimo ir pašalinimo vieta tiesiogiai nurodyta Vilniuje."
   pagrindžia:
     - c-25401
 ## Reikšmingi paminėjimai
@@ -84,8 +73,8 @@ Nenurodyta
     Vakarų diplomatų epitetą „Baltic Kindergarten“…
     Vilniuje pašalinamas Lenino paminklas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

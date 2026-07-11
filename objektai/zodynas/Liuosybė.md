@@ -39,9 +39,6 @@ Vartojamos formos: `liuosais`, `liuosybę`.
 - t-003
   global_id: t-70017
   teiginys: "`Liuosybė` šiame tekste reiškia laisvę ir nevaržomą gyvenimą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "9086-9570; hash=328445826d0cabed8c019b2f52b89ab7bc5c1c663b129b95350bbc099c0fc181; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-09701
 - susijęs iš [[objektai/paprociai/Karo grobio dalijimas į keturias dalis.md#claim-t-07781|Karo grobio dalijimas į keturias dalis]]: Karo grobis buvo dalijamas į keturias dalis: dievams, kunigaikščiui su tarnais ar kunigais, kareiviams ir žuvusiųjų giminėms.
@@ -52,8 +49,8 @@ Vartojamos formos: `liuosais`, `liuosybę`.
   citata_originali: |
     pagal žmogaus būdą visi žmonės liuosais^47 turėjo gyventi, vienok didžturčiai visados neturtinguosius vergė; todėl, norėdami viens kitam jau savo tikėjimą antmesti^48 , jau liuosybę^49 išplėšti, tankiai tankesniai liejo kraują latakais su tokiu įnirtimu, jog nuveiktieji palikini neprieteliams^50 savo turtingus namus, vaisingus kraštus ir didelius lobius išsidangino jau į versmes ir balas, jau į tyrus dėl to vien, idant tenai galėtų kaip tinkami dievą garbinti ir liuosais gyventi.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

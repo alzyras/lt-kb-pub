@@ -30,14 +30,6 @@ Senovės lietuviai turėjo dar vieną gėrimą, kurį ypač gėrė kunigai, mote
 - t-001
   global_id: t-194852
   teiginys: "Senovės lietuviai turėjo dar vieną gėrimą, kurį ypač gėrė kunigai, moteriškoji lytis ir ligoniai; jis vadinosi Miecionikas 5 Senas lietuviškų dainų vertimų rankraštis."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "539192-539501; hash=12fef5c35e6594f35ba09fa880575c54cf270b0e32f6f9785996ddbdd2d0c2ee; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-177248
 ## Reikšmingi paminėjimai
@@ -54,8 +46,8 @@ Senovės lietuviai turėjo dar vieną gėrimą, kurį ypač gėrė kunigai, mote
     5 Senas lietuviškų dainų vertimų rankraštis.
     6 Czacki.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -66,7 +58,8 @@ Senovės lietuviai turėjo dar vieną gėrimą, kurį ypač gėrė kunigai, mote
 - id: c-177248
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 308"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 308."
   citata_originali: |
     Kaip ir alus, midus įeida­
     vo į Siaurės Europos tautų apeigas6; jo pavadinimas visose ci­

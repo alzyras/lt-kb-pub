@@ -30,22 +30,6 @@ Naruševičius, rašydamas apie jotvingius, Narbuto teigimu rėmėsi Kapitolinu 
 - t-001
   global_id: t-191245
   teiginys: "Naruševičius, rašydamas apie jotvingius, Narbuto teigimu rėmėsi Kapitolinu ir vadino juos Cestobochy."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Jotvingiai kariavo prieš Romėnai (0.94)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "198845-199296; hash=7c92e199f4fa5b79d9af2d3286ef9cc8362cd341dc726c7be854958d65ccbcab; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Romėnai: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jotvingiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Romėnai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Tekste tiesiogiai teigiama, kad jotvingiai kovojo su romėnais."
-  vertinimo_atnaujinta: "2026-07-06T03:41:43Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174127
 ## Reikšmingi paminėjimai
@@ -64,8 +48,8 @@ Naruševičius, rašydamas apie jotvingius, Narbuto teigimu rėmėsi Kapitolinu 
     lenkiški kraštai prie Bugo, jie kovojo su romėnais mar-
     komanų lygoje greta roksolanų, alanų ir peucinų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -76,7 +60,8 @@ Naruševičius, rašydamas apie jotvingius, Narbuto teigimu rėmėsi Kapitolinu 
 - id: c-174127
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 111"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 111."
   citata_originali: |
     Gal todėl,
     kad jotvingiai laikėsi lietuvių, kurie garbino nesuskai­

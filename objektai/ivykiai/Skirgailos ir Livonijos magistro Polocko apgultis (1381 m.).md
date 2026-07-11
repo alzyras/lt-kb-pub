@@ -57,19 +57,6 @@ Nenurodyta
 - t-002
   global_id: t-86925
   teiginys: "1381 m. Skirgaila su Livonijos magistru 12 savaičių laikė apsupę Polocką, bet apgultį nutraukė dėl pokyčių Lietuvoje."
-  temporaliniai_duomenys: "įvykio data: 1381 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Fragmentas perrašytas į užbaigtą sakinį apie apgultį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "100010-100737; hash=0714118e3b652ba37f3b2777c9c9aad82c7e692e4e1885385c01d8d2e1ba4299; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Skirgailos ir Livonijos magistro Polocko apgultis (1381 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=99"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Skirgailos ir Livonijos magistro Polocko apgultis (1381 m.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-82904
 
@@ -77,12 +64,6 @@ Nenurodyta
 - t-003
   global_id: t-194179
   teiginys: "Taip pat buvo sudarytos paliaubos su Livonijos magistru Rygo je, apeinant Kęstutį ir jo Žemaitijos kunigaikštystę29."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "97826-98460; hash=b39e6b340216c74b541fdedee1abbf2838f8ef17f397233967058ad55d5166b8; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176790
 ## Reikšmingi paminėjimai
@@ -111,8 +92,8 @@ Nenurodyta
     Polocko kunigaikštis - visai išgalvo­
     tas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -139,8 +120,8 @@ Nenurodyta
     Vaidilos, ir didysis komtūras, ku­
     ris jiems iškėlė puikias vaišes.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

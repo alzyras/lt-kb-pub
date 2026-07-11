@@ -54,19 +54,6 @@ Nenurodyta
 - t-001
   global_id: t-31465
   teiginys: "1381 m. pavasarį Andriaus partija Polocke sukėlė atvirą maištą prieš Jogailos paskirtą Skirgailą."
-  temporaliniai_duomenys: "įvykio data: 1381 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "753293-753596; hash=2da31803313699d023a4294f10b3150e5b0b7334c0e1c9322a31120ff9c819ee; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Polockas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Polocko maištas prieš Skirgailą (1381 m. pavasaris): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Polockas: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Polocko maištas prieš Skirgailą (1381 m. pavasaris)\" parinktas kaip owner_note_path. Targetas \"Polockas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-33423
 
@@ -74,22 +61,6 @@ Nenurodyta
 - t-002
   global_id: t-184341
   teiginys: "1381 m. pavasarį Andriaus partija Polocke sukėlė atvirą maištą prieš Jogailos paskirtą Skirgailą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1381 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalinta OCR klaida ir sakinys suformuluotas taisyklingai."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "753164-753447; hash=da0dedf935dd84301854cdcd63bbadf006533aff38a9037a5f3ceaa4ca34b03e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Polocko maištas prieš Skirgailą (1381 m. pavasaris): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=35"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Polocko maištas prieš Skirgailą (1381 m. pavasaris)\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-167711
 ## Reikšmingi paminėjimai
@@ -103,8 +74,8 @@ Nenurodyta
     kuris savo bažnytinės politikos ir iki tol nederino su Vilniaus inte­
     resais, 1381 m. persikėlė į Maskvos žemes.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -121,8 +92,8 @@ Nenurodyta
     Prieš Polockan Jogailos paskirtą Skirgailą Andriaus partija sukėlė
     1381 pavasarį atvirą maištą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

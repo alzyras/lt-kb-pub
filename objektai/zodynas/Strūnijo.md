@@ -39,9 +39,6 @@ Vartojamos formos: `strūnijo ar dailidavo`.
 - t-004
   global_id: t-07660
   teiginys: "Strūnijo vartojama kalbant apie namų įrengimą, kuriam reikalingus įrankius žmonės patys kalė."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "59901-60345; hash=a4800fbcdad21ea3f97bd075ef4f08feaa4f60e9540b26f3ccfe95598d9214c7; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
   pagrindžia:
     - c-09593
     - c-09594
@@ -50,16 +47,6 @@ Vartojamos formos: `strūnijo ar dailidavo`.
 - t-003
   global_id: t-07661
   teiginys: "Strūnijo reiškia statė sau trobesius be svetimo meistro pagalbos."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "143481-143932; hash=3c04df794863e5c36ed31769e8a0d6cbf36c5cdc2b37a64af2a2f74e48624bb1; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  ryšio_patikimumas: "susije_su -> Kalnėnai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "strūnijo: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Kalnėnai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"strūnijo\" parinktas kaip owner_note_path. Targetas \"Kalnėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-09594
 - susijęs iš [[objektai/daiktai/Ūkio įrankiai.md#claim-t-08360|Ūkio įrankiai]]: Įrankius jie patys sau kalė ir gaminosi be svetimo meistro, o šiame sąraše tiesiogiai minimi grąžtai, kaltai, Strūnos, skaptai, skrytulės, kirviai ir skliutai.
@@ -75,8 +62,8 @@ Vartojamos formos: `strūnijo ar dailidavo`.
         paregėjęs, tą turi padirbti. Ir taip jų grąžtai, kaltai, Strūnos^570 , skaptai, skrytulės^571 , kirviai, skliutai
         yra pačių dirbti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -91,8 +78,8 @@ Vartojamos formos: `strūnijo ar dailidavo`.
         dažyvėmis^567 savo prasma. Vyriškieji taip pat strūnijo^568 sau visus trobesius, svetimo meistro
         nereikalaudami, dailidavo ratus, važius, šlėdes, arba šlajas, ir roges.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

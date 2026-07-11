@@ -45,14 +45,6 @@ Nenurodyta
 - t-001
   global_id: t-189809
   teiginys: "Narbutas rupūžę vadino garsiu fetišu ir rašė, kad rupūžės laikytos prie šventyklų bei kai kuriuose namuose ypač gerbtos."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "347691-348012; hash=aea24a5da603a412db3200abb52965b58badf4912c8e48221be6868de8f46c4b; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172692
 ## Reikšmingi paminėjimai
@@ -68,8 +60,8 @@ Nenurodyta
     sakomą pasibjaurėjimą. Ji taip pat leidžiasi prijaukinama ir
     taip pripranta, kad ją galima išmokyti kai kurių judesių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -80,7 +72,8 @@ Nenurodyta
 - id: c-172692
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 204"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 204."
   citata_originali: |
     Rupužė (Raupuže)
     Sausumos varlė, rupūžė. Ji taip pat buvo garsus fetišas: jas

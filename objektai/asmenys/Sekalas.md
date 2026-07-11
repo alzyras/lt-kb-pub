@@ -38,21 +38,6 @@ Poloviečių vadas Sekalas po šešerių metų užpuolė rusų kraštus, nugalė
 - t-001
   global_id: t-191463
   teiginys: "Poloviečių vadas Sekalas po šešerių metų užpuolė rusų kraštus, nugalėjo Vsevolodą ir išsigabeno didžiulį grobį."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "189753-190244; hash=cede5017d8e9049c5ce49cf307cea0b31e1b4278975dd1428c933fbdedfa0808; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Rusai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Sekalas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Rusai: mention_match, group, gap=32"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sekalas\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174345
 ## Reikšmingi paminėjimai
@@ -72,8 +57,8 @@ Poloviečių vadas Sekalas po šešerių metų užpuolė rusų kraštus, nugalė
     visuomet būdamos stipresnės ir pridarydamos daug žalos,
     nesiliovė puldinėjusios pietinius Rusios kraštus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -84,7 +69,8 @@ Poloviečių vadas Sekalas po šešerių metų užpuolė rusų kraštus, nugalė
 - id: c-174345
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 106"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 106."
   citata_originali: |
     98
     Poloviečių santykiai su rusais klostėsi nedraugiškai

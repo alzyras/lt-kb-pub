@@ -33,9 +33,6 @@ Tačiau mūsų bajorija daugybe straipsnių ir specialia brošiūra atsakė: „
 - t-002
   global_id: t-67280
   teiginys: "Krokuvoje išleista brošiūra „Niekad, niekados“ griežtai atmetė lietuvių kvietimą bajorijai prisidėti prie tautinio darbo."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "1054559-1054875; hash=6bb9b27cbc89b4377be14f2bb46713de59b0b2127852a1b8724c7c81020c08c1; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-67250
 
@@ -43,9 +40,6 @@ Tačiau mūsų bajorija daugybe straipsnių ir specialia brošiūra atsakė: „
 - t-001
   global_id: t-67281
   teiginys: "Bajorija į raginimus prisidėti prie Lietuvos atgaivinimo darbo atsakė posakiu „Niekad, niekados“."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "1052352-1052759; hash=71c112774cdd0896e17926320401af163884ba6c64285ec69c049481f653b3e3; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-67251
 ## Reikšmingi paminėjimai
@@ -62,8 +56,8 @@ Tačiau mūsų bajorija daugybe straipsnių ir specialia brošiūra atsakė: „
     kados" (Przenigdy"). Apskritai mūsų bajorijos nusistatymas buvo
     laikytis Lenkijos ir remti lenkų kalbos įsigalėjimą Lietuvoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -81,8 +75,8 @@ Tačiau mūsų bajorija daugybe straipsnių ir specialia brošiūra atsakė: „
     nimo darbą. Tačiau mūsų bajorija daugybe straipsnių ir spe-
     cialia brošiūra atsakė: „Niekad, niekados".
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

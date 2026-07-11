@@ -39,14 +39,6 @@ Tuo tarpu Vokietija ir Austrija Vengrija 1916 metais lapkričio 5 dieną paskelb
 - t-001
   global_id: t-193305
   teiginys: "Tačiau nė vienas lietuvis nesutiko įeiti į tokią tarybą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "1076467-1076746; hash=05b34b498669a8af30ee5399f1e14a9f319895286d2a434b8098786da02bd3a0; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-176033
 ## Reikšmingi paminėjimai
@@ -62,8 +54,8 @@ Tuo tarpu Vokietija ir Austrija Vengrija 1916 metais lapkričio 5 dieną paskelb
     priklausiusių žemių. Naujoji Lenkų Valstybės Taryba netru-
     kus pareiškė savo pretenzijas į Lietuvą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

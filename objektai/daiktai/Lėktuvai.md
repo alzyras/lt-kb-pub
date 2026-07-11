@@ -59,19 +59,6 @@ Nenurodyta
 - t-001
   global_id: t-77929
   teiginys: "1919 m. rugsėjo 26 d. Kaune lėktuvai skraidė virš minios, tempdami Lietuvos trispalvę."
-  temporaliniai_duomenys: "įvykio data: 1919 m.; įvykio data: 1920 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pagrindžia faktą apie lėktuvus, bet įvesties sakinys nutrūksta ties iniciale."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "278027-278628; hash=0e7ab158270f30e243a7f58c35799adef9daa313827707fb633ce51d5fee02e5; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lėktuvai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=39"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lėktuvai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-75246
 - susijęs iš [[objektai/ivykiai/ANBO IV lėktuvų grupės skrydis per Europos sostines (1934 m.).md#claim-t-20158|ANBO IV lėktuvų grupės skrydis per Europos sostines (1934 m.)]]: Antanas Gustaitis sukonstravo ANBO lėktuvų seriją, kurios pavadinimas kilo iš sakinio „Antanas nori būti ore“ žodžių pirmųjų raidžių.
@@ -118,8 +105,8 @@ Nenurodyta
     vegija, Latvija, Suomija, 1920 m. – Prancūzija (gegužės 11 d.) ir Lenkija
     (liepos 4 d.).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

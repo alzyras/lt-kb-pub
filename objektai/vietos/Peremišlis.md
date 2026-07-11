@@ -32,17 +32,6 @@ media_all_json: |-
 - t-001
   global_id: t-36478
   teiginys: "Peremišlio kunigaikštija pasidavė Vytautui, kai jis plėtė valdžią Okos aukštupio kunigaikštėlių žemėse."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) valdė teritoriją Peremišlis (0.74)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "688946-689183; hash=457a2ebb0f663d913b43c7d0acd6e73da0771a7b840930f5332e257241b16f8f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde_teritorija -> Peremišlis: 0.74"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Peremišlis: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Kunigaikštijos pasidavimas Vytautui pagrindžia jo valdžios išplėtimą į šią teritoriją."
   pagrindžia:
     - c-38598
 - susijęs iš [[objektai/ivykiai/Peremišlio susitarimas dėl Jogailos ir Vytauto įpėdinių.md#claim-t-186609|Peremišlio susitarimas dėl Jogailos ir Vytauto įpėdinių]]: Lietuvos metraštis Peremišlio susitarimą sieja su Vytauto ir Jogailos susitikimu Peremišlyje žiemą po mūšio.
@@ -64,8 +53,8 @@ media_all_json: |-
     Mcensko, Novosielsko, Peremišlio, Vorotinsko, Odojevo ir kit.
     kunigaikštijos^2 ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -91,6 +80,3 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-36478
-
-## Ryšiai
-- Buvo valdoma: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

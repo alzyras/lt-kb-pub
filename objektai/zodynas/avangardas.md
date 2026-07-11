@@ -30,22 +30,6 @@ media_all_json: |-
 - t-001
   global_id: t-187541
   teiginys: "Žvalgai Aleksandrui prie Bobro upės pranešė, kad jo kariuomenės avangardas buvo sumuštas ties Vedroša."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Aleksandras Jogailaitis buvo valdovas Lietuva (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "273076-273564; hash=840da54994e4e2cf7ea48cdbc58bc674ec54f81de1b172ed9d959252ae4c21a8; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_valdovas -> Lietuva: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Aleksandras Jogailaitis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Aleksandras tiesiogiai pavadintas Lietuvos didžiuoju kunigaikščiu."
-  vertinimo_atnaujinta: "2026-06-16T16:17:41Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-170491
 ## Reikšmingi paminėjimai
@@ -66,8 +50,8 @@ media_all_json: |-
     riuomene labai nuliūdo, ir daug dienų jį kankino baisi
     širdgėla.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

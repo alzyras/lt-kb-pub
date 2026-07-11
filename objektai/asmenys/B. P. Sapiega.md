@@ -32,16 +32,6 @@ Sapiega ir maršalas A.
 - t-001
   global_id: t-40057
   teiginys: "Iždininkas B. P. Sapiega pasitraukė kartu su maršalu A. P. Sapiega ir totorių vėliavomis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "562948-563239; hash=0a5646fd508c804297d97226581efb8674979e73ba98b01a5f38e6612c04822d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Totoriai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "B. P. Sapiega: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Totoriai: mention_match, group, gap=59"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"B. P. Sapiega\" parinktas kaip owner_note_path. Targetas \"Totoriai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-44302
 - susijęs iš [[objektai/asmenys/J. P. Sapiega.md#claim-t-53890|J. P. Sapiega]]: Maršalas A. P. Sapiega pasitraukė kartu su B. P. Sapiega ir totorių vėliavomis.
@@ -64,8 +54,8 @@ Sapiega ir maršalas A.
     iždininkas B. P. Sapiega ir marša-
     las A. P. Sapiega bei totorių vėliavos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

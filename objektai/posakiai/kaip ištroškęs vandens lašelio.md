@@ -48,13 +48,6 @@ Labai stipraus laukimo ar troškimo palyginimas.
 - t-001
   global_id: t-186888
   teiginys: "1846 m. Bychovco kronikos leidimo laukimas apibūdinamas palyginimu „kaip ištroškęs vandens lašelio“."
-  teiginio_tipas: "faktas"
-  temporaliniai_duomenys: "įvykio data: 1846 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "14239-14498; hash=533ef41a87656e40ce64a2ea7415e0c2e02d23949cffee43e87a3f725ed1e4d8; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
   pagrindžia:
     - c-170074
 ## Reikšmingi paminėjimai
@@ -68,8 +61,8 @@ Labai stipraus laukimo ar troškimo palyginimas.
     perteiktas be jokių taisymų, su rašybos, skyrybos klai­
     domis ir paraščių pastabomis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -55,16 +55,6 @@ Nenurodyta
 - t-003
   global_id: t-75404
   teiginys: "Vyskupas Motiejus Valančius savo pirmąjį inauguracinį pamokslą sakė ir lietuviškai, ir lenkiškai."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "211012-211430; hash=05a33c6dbdbfee0b3fb650c48d0b222ffc2a771f6a03a93715ce1e03b3e60a2a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vyskupo M. Valančiaus lietuviški ir dvikalbiai pamokslai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=71"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vyskupo M. Valančiaus lietuviški ir dvikalbiai pamokslai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-73203
 
@@ -72,16 +62,6 @@ Nenurodyta
 - t-005
   global_id: t-75405
   teiginys: "Per Motiejaus Valančiaus inauguracinį pamokslą lietuvių žemaičių kalba katedroje iš vyskupo lūpų skambėjo bene pirmą kartą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "211242-211657; hash=0aa367cc06899ae5316755d5c418ea817a8f4350bde5d65855642e6e4c0d42b9; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vyskupo M. Valančiaus lietuviški ir dvikalbiai pamokslai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=43"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vyskupo M. Valančiaus lietuviški ir dvikalbiai pamokslai\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-73202
 
@@ -89,16 +69,6 @@ Nenurodyta
 - t-002
   global_id: t-75406
   teiginys: "M. Valančius ragino kunigus gerbti lietuviškai kalbančią liaudį, mokytis lietuvių kalbos, sakyti lietuviškus pamokslus ir steigti lietuviškas mokyklas."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "211242-211657; hash=0aa367cc06899ae5316755d5c418ea817a8f4350bde5d65855642e6e4c0d42b9; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vyskupo M. Valančiaus lietuviški ir dvikalbiai pamokslai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=35"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vyskupo M. Valančiaus lietuviški ir dvikalbiai pamokslai\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-73202
 
@@ -106,16 +76,6 @@ Nenurodyta
 - t-001
   global_id: t-75407
   teiginys: "Vyskupas Motiejus Valančius pirmąjį inauguracinį pamokslą sakė lietuviškai ir lenkiškai."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "211012-211430; hash=05a33c6dbdbfee0b3fb650c48d0b222ffc2a771f6a03a93715ce1e03b3e60a2a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vyskupo M. Valančiaus lietuviški ir dvikalbiai pamokslai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=63"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vyskupo M. Valančiaus lietuviški ir dvikalbiai pamokslai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-73203
 
@@ -123,16 +83,6 @@ Nenurodyta
 - t-004
   global_id: t-75408
   teiginys: "Motiejus Valančius rūpinosi, kad kunigai mokėtų lietuviškai, sakytų lietuviškus pamokslus ir prie bažnyčių steigtų lietuviškas mokyklas."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "211242-211657; hash=0aa367cc06899ae5316755d5c418ea817a8f4350bde5d65855642e6e4c0d42b9; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Motiejus Valančius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vyskupo M. Valančiaus lietuviški ir dvikalbiai pamokslai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Motiejus Valančius: mention_match, author, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vyskupo M. Valančiaus lietuviški ir dvikalbiai pamokslai\" parinktas kaip owner_note_path. Targetas \"Motiejus Valančius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-73202
 ## Reikšmingi paminėjimai
@@ -152,8 +102,8 @@ Nenurodyta
     mą kunigams prie bažnyčių steigti
     lietuviškas mokyklas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -172,8 +122,8 @@ Nenurodyta
     tuvių (žemaičių) kalba po katedros skliautais iš vyskupo lūpų skambėjo
     bene pirmą kartą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

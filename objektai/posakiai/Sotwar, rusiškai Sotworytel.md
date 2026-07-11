@@ -30,19 +30,6 @@ Narbutas pateikia kitų siūlymą tą patį užrašą skaityti kaip „Sotwar“
 - t-001
   global_id: t-192131
   teiginys: "Narbutas rašo, kad kiti Santvaro ženklo užrašą skaitė kaip „Sotwar“ arba rusiškai „Sotworytel“ ir nelaikė jo pagonišku simboliu."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "896583-897112; hash=2145e66ff9d6a251bf1ffd89a6ce3a2c933062c23593556122950f11e1b03c93; match=whitespace_regex"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Sotwar, rusiškai Sotworytel: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sotwar, rusiškai Sotworytel\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175019
 ## Reikšmingi paminėjimai
@@ -64,8 +51,8 @@ Narbutas pateikia kitų siūlymą tą patį užrašą skaityti kaip „Sotwar“
     egzistuoti nuo seno. Kiti skaitė Sotwar, rusiškai Sotworytel, ir
     net nemanė jį esant pagonišką simbolį.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -76,7 +63,8 @@ Narbutas pateikia kitų siūlymą tą patį užrašą skaityti kaip „Sotwar“
 - id: c-175019
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 488"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 488."
   citata_originali: |
     93 /P.
     194,

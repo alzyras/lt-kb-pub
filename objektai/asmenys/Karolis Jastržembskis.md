@@ -41,19 +41,6 @@ sukilėlių vėliava 200 sukilėlių būrys, vadovaujamas dimisijos karininko Ka
 - t-001
   global_id: t-40271
   teiginys: "Karolio Jastržembskio vadovaujamas 200 sukilėlių būrys susikovė su generolo majoro Suchodolskio kavalerijos daliniu."
-  semantiniai_rysiai: "Karolis Jastržembskis kariavo prieš Suchodolskis (0.78)"
-  temporaliniai_duomenys: "įvykio data: 1863-1864; įvykio data: 1864 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "652806-653125; hash=7696d40bac907905a1eff6e72834d1865005470a2351e17fafd35d05ea3a7b84; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Suchodolskis: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Karolis Jastržembskis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Suchodolskis: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Karolio Jastržembskio vadovaujamas būrys susikovė su Suchodolskio daliniu."
   pagrindžia:
     - c-44415
 ## Reikšmingi paminėjimai
@@ -72,8 +59,8 @@ sukilėlių vėliava 200 sukilėlių būrys, vadovaujamas dimisijos karininko Ka
 
     30 sukilėlių ir pats būrio vadas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -103,6 +90,3 @@ sukilėlių vėliava 200 sukilėlių būrys, vadovaujamas dimisijos karininko Ka
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40271
-
-## Ryšiai
-- Karolis Jastržembskis kariavo prieš [[objektai/asmenys/Suchodolskis]]

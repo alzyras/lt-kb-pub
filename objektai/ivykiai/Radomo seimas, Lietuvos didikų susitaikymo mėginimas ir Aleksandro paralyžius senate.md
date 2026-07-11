@@ -42,19 +42,6 @@ Nenurodyta
 - t-001
   global_id: t-185765
   teiginys: "Karalius viešai pažadėjo lenkams atsižvelgti į jų reikalavimus, bet reikalą ketino perduoti lietuvių seimui."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1030738-1031518; hash=93c594b4e63f0ce8ee1caa2ac90c4a45e6897b3ac239f9991ee7a4ed803c5c73; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Radomo seimas, Lietuvos didikų susitaikymo mėginimas ir Aleksandro paralyžius senate (seimas): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Radomo seimas, Lietuvos didikų susitaikymo mėginimas ir Aleksandro paralyžius senate (seimas)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-169126
 ## Reikšmingi paminėjimai
@@ -80,8 +67,8 @@ Nenurodyta
     nei teisių, patvirtintų tavo doringųjų senelių bei tavo
     paties priesaika.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -92,7 +79,8 @@ Nenurodyta
 - id: c-169126
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 581"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 581."
   citata_originali: |
     Ka­
     ralius viešai lenkams pasižadėjo, kad iš pagarbos jiems

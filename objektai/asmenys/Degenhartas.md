@@ -30,19 +30,6 @@ Vestfalijos vėliavininkas Degenhartas atleido savo priešininkams, nužudžiusi
 - t-001
   global_id: t-186194
   teiginys: "Vestfalijos vėliavininkas Degenhartas atleido savo priešininkams, nužudžiusiems jo tėvą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "581861-582162; hash=07d0846a469730ddec57cb17e4425878ba18a40ea2e397c310544f53ccceb135; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Degenhartas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Degenhartas\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-169555
 ## Reikšmingi paminėjimai
@@ -58,8 +45,8 @@ Vestfalijos vėliavininkas Degenhartas atleido savo priešininkams, nužudžiusi
     jo tėvą. Riteris Fridrichas, visuomet daręs viską, ko
     tik iš jo buvo reikalaujama šv.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -70,7 +57,8 @@ Vestfalijos vėliavininkas Degenhartas atleido savo priešininkams, nužudžiusi
 - id: c-169555
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 334"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 334."
   citata_originali: |
     Pagaliau pats Konradas, puotos kėlėjas, dėl to, kad iš
     meilės teutonų ordinui buvo metęs jauną nepaprasto

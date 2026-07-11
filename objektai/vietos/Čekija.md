@@ -47,17 +47,6 @@ media_all_json: |-
 - t-008
   global_id: t-182878
   teiginys: "Vytautas į Čekiją su 5000-7000 vyrų nusiuntė Zigmantą Kaributaitį, ten vadintą Kaributu."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) siuntė į Čekija (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "970916-971264; hash=1775d39ce9a0ef8d643805c742e1abcf688bc7ebb3943db51749d7b2b0eef255; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "siunte_i -> Čekija: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Čekija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citatoje tiesiogiai nurodyta, kad Vytautas nusiuntė pajėgas į Čekiją."
   pagrindžia:
     - c-166282
 
@@ -65,19 +54,6 @@ media_all_json: |-
 - t-009
   global_id: t-184326
   teiginys: "Vytautas Didysis į Čekiją su kariuomene nusiuntė Zigmantą Kaributą padėti husitams kovoti su imperatoriumi Zigmantu."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "305284-305813; hash=76f1ec619cd8927302887bbff2af3426e7fa38f8c30781fa2900bc46fb1fc111; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "reme -> Husitai: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kaributas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Husitai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Formuluotė tiesiogiai rodo, kad Kaributas turėjo padėti husitams."
   pagrindžia:
     - c-167697
 
@@ -85,22 +61,6 @@ media_all_json: |-
 - t-010
   global_id: t-184408
   teiginys: "Vytautas galėjo įsikišti į husitų reikalus Čekijoje, kurią Zigmantas siekė paveldėti po Vaclovo mirties 1419 m."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1419 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sakinys sutrumpintas ir pataisytas, paliekant tik citatos remiamus faktus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "970501-970895; hash=955ae0124e41d57983bc6a2fe3e36d2d52eed88d0731bdcc20c9b5e3c7add1d6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Zigmantas (Romos imperatorius): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Čekija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Zigmantas (Romos imperatorius): mention_match, person, gap=16"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Čekija\" parinktas kaip owner_note_path. Targetas \"Zigmantas (Romos imperatorius)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-167773
 
@@ -108,12 +68,6 @@ media_all_json: |-
 - t-011
   global_id: t-185214
   teiginys: "Mirus bevaikiam Čekijos karaliui Vladislovui, Kazimieras manė galėsiąs giminystės teisėmis paimti Čekiją sau arba sūnui."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "911145-911498; hash=d1b644537f45577299fdcb6b4c5031cffa407f8837ae9fd4f64ed048051742f1; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-168575
 
@@ -121,25 +75,6 @@ media_all_json: |-
 - t-012
   global_id: t-192787
   teiginys: "Narbutas rašė, kad 1402 ir 1403 m. Čekijoje veikė Vengrijos karaliaus Zigmanto Liuksemburgiečio kariai kartu su kumanais."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Jazygai gyveno Vengrija (0.92)"
-  temporaliniai_duomenys: "gyvenimo laikotarpis: 1403 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Jazygai gyveno Vengrija“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys susietas su Čekija ir pašalintas neenciklopedinis žodis „linksminosi“. Nepridėta daugiau apie jazigus, nes tai nėra tiesiogiai Čekijos faktas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "244472-244871; hash=306dbbfb5f15ed97215bd654e71f4895d12d3657bdee2ed9258633599e371908; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Vengrija: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jazygai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vengrija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo jazygų gyvenimą Vengrijoje."
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175557
 
@@ -147,21 +82,6 @@ media_all_json: |-
 - t-013
   global_id: t-192788
   teiginys: "Narbutas nurodė, kad pavienių gintaro gabalų randama Lietuvoje, Lenkijoje, Silezijoje, Čekijoje ir kitose vietose."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "267076-267633; hash=19df40dae9e110730be2564c6d9c58ad694891eb0cd1f5a86c0f25e7cc4c4935; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Archelajas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Čekija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Archelajas: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Čekija\" parinktas kaip owner_note_path. Targetas \"Archelajas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175558
 - susijęs iš [[objektai/ivykiai/Kėzmarko suvažiavimas ir santykių su husitais nutraukimas (1423 m.).md#claim-t-35843|Kėzmarko suvažiavimas ir santykių su husitais nutraukimas (1423 m.)]]: Lietuvių santykiai su husitais baigėsi, kai Kaributas po derybų su popiežiumi buvo išvytas iš Čekijos.
@@ -373,8 +293,8 @@ media_all_json: |-
     _«_ Kaributu ». Šis veikė vardu « kviestojo Čekijos karaliaus Vytau­
     to » (« postulati regis Bohemiae Vitoldi »)^17.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -394,8 +314,8 @@ media_all_json: |-
     rėmė agresingus jo žygius prieš Vytautą; pats gi kovojo su če­
     kais, kaip kandidatas į Čekijos sostą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -413,8 +333,8 @@ media_all_json: |-
     Jogailai atsisakius priimti jam husitų siūlomą Čekijos karūną,
     veiklusis pusbrolis čekams parodė žymiai daugiau palankumo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -432,8 +352,8 @@ media_all_json: |-
     m anė, jog g im in y stės teisėmis galėsiąs tą karalystę pa­
     imti sau arb a k u riam  savo sūnui.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -452,8 +372,8 @@ media_all_json: |-
     ravijoje Vengrijos karaliaus Zigmanto Liuksemburgiečio
     kariai kartu su kumanais linksminosi2.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -476,8 +396,8 @@ media_all_json: |-
     ponijos salose turėtų būti gintaro, nes tenykščiai gyven­
     tojai žino, iš ko jis atsiranda2.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -548,7 +468,8 @@ media_all_json: |-
 - id: c-168575
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 516"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 516."
   citata_originali: |
     N ei
     pasiuntinybei, nei chanui nepagailėta g au sių  dovanų.
@@ -567,7 +488,8 @@ media_all_json: |-
 - id: c-175557
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 136"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 136."
   citata_originali: |
     Taip pat pavyko rasti prie
     Skidliaus cerkvės 1553 metų užrašą, liudijantį, kad šioje
@@ -587,7 +509,8 @@ media_all_json: |-
 - id: c-175558
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 148"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 148."
   citata_originali: |
     Jūra dažnai išmeta gintarą, prikibusį prie
     supuvusių šių medžių skiedrų, ir kartu patvirtina Plini-
@@ -610,7 +533,6 @@ media_all_json: |-
 
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Jonas Liuksemburgietis]], [[objektai/asmenys/Pršemyslas Otokaras II]]
-- Buvo valdoma: [[objektai/grupes/Jogailaičių dinastija]], [[objektai/asmenys/Vladislovas Jogailaitis|Vladislovas Jogailaitis (Lenkijos karalius, XV a.)]]
+- Buvo valdoma: [[objektai/grupes/Jogailaičių dinastija]]
 - Buvo kelionės vieta: [[objektai/asmenys/Zigmantas Kaributas]]
 - Buvo siuntimo vieta: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Gyvenamoji vieta: [[objektai/asmenys/Martynas iš Opavos|Martynas iš Opavos (arkivyskupas, XIII a.)]]

@@ -40,20 +40,6 @@ Per trumpa “| laiką Švedijos kariuomenė užėmė Paidę (Weisenstein), Kuok
 - t-002
   global_id: t-42274
   teiginys: "1608 m. rudenį numalšinus rokošą Lenkijos karalystėje, Jonas Karolis Chodkevičius grįžo į Livoniją ir per trumpą laiką išvadavo Kuoknesę ir Viljandį."
-  semantiniai_rysiai: "Jonas Karolis Chodkevičius puolė Daugavgryva (0.93); Jonas Karolis Chodkevičius keliavo į Livonija (0.90); Jonas Karolis Chodkevičius užėmė Kuoknesė (0.78); Jonas Karolis Chodkevičius užėmė Viljandis (0.78)"
-  temporaliniai_duomenys: "įvykio data: 1608 m.; įvykio data: 1609 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo laiką, veikėją, vietą ir rezultatą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "448587-449164; hash=67ad2a792885b3b9c11ab677e208685c0b32763b93d5f968d9975bdcc8c4e871; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Daugavgryva: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jonas Karolis Chodkevičius: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Daugavgryva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Quote tiesiogiai nurodo bandymą pulti Daugavgryvą."
   pagrindžia:
     - c-45407
 
@@ -61,20 +47,6 @@ Per trumpa “| laiką Švedijos kariuomenė užėmė Paidę (Weisenstein), Kuok
 - t-001
   global_id: t-42275
   teiginys: "Per trumpą laiką Švedijos kariuomenė užėmė Paidę, Kuoknesę ir Viljandį."
-  semantiniai_rysiai: "Švedijos kariuomenė užėmė Viljandis (0.95); Švedijos kariuomenė užėmė Kuoknesė (0.94); Švedijos kariuomenė užėmė Paidė (0.94)"
-  temporaliniai_duomenys: "įvykio data: 1608 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie Viljandžio užėmimą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "448442-448740; hash=96714764cf05c5f6e2c407b76e23de23f1c7708d7d036e348d88003514096006; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Viljandis: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Švedijos kariuomenė: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Viljandis: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Švedijos kariuomenė užėmė Viljandį."
   pagrindžia:
     - c-45408
 
@@ -82,20 +54,6 @@ Per trumpa “| laiką Švedijos kariuomenė užėmė Paidę (Weisenstein), Kuok
 - t-004
   global_id: t-185178
   teiginys: "Maskvėnai, žygiavę su šimtu dvidešimt tūkstančių vyrų, netrukus užėmė didelę Livonijos dalį, įskaitant Viljandį ir Dorpatą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Viljandis priklausė Livonija (0.86); Dorpatas priklausė Livonija (0.86)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1247290-1247644; hash=ae7acc0e39221420511596dc45a1b984a04d646e667172b81106a34130c91769; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Livonija: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Viljandis: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Livonija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas aiškiai nurodo, kad Viljandis buvo Livonijos dalies, kurią užėmė, sudėtyje."
   pagrindžia:
     - c-168539
 
@@ -103,12 +61,6 @@ Per trumpa “| laiką Švedijos kariuomenė užėmė Paidę (Weisenstein), Kuok
 - t-005
   global_id: t-193430
   teiginys: "Po magistro ir kiti riteriai prisiekė laikytis šių sąlygų; susitarimo raš tus patvirtino savo parašais, be magistro, dar du rite rių išrinkti vyrai: Henrikas Štendichas, Kuldygos kom tūras, ir Kristupas iš Viljandžio, krašto maršalas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1246322-1247086; hash=b45bd018581c8e6f6878ed8e31882764625c71fd6ad9470bf5e1893018949087; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176152
 - susijęs iš Paidė: Švedijos kariuomenė per trumpą laiką užėmė Paidę, Kuoknesę ir Viljandį.
@@ -152,8 +104,8 @@ Per trumpa “| laiką Švedijos kariuomenė užėmė Paidę (Weisenstein), Kuok
     Joną Karolį Chodkevičių nutraukti karo komis sugebėjo atsilaikyti prieš netikėtą
     veiksmus Livonijoje ir vykti į Lenkiją padėti lietuvių puolimą. Po nepavykusio puolimo
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -172,8 +124,8 @@ Per trumpa “| laiką Švedijos kariuomenė užėmė Paidę (Weisenstein), Kuok
     vičius grįžo į Livoniją ir per trumpą laiką
     išvadavo Kuoknesę ir Viljandį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -192,8 +144,8 @@ Per trumpa “| laiką Švedijos kariuomenė užėmė Paidę (Weisenstein), Kuok
     stenbergas, bet niekur neradau parašyta, ar gyvas, ar
     žuvęs.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -228,8 +180,8 @@ Per trumpa “| laiką Švedijos kariuomenė užėmė Paidę (Weisenstein), Kuok
     Lenkiją, manydamas, jog ateina visuotinės ramybės me­
     tas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -286,7 +238,8 @@ Per trumpa “| laiką Švedijos kariuomenė užėmė Paidę (Weisenstein), Kuok
 - id: c-168539
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 699"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 699."
   citata_originali: |
     Šiaip ar taip, jis
     negalėjo nežinoti, kokiomis sąlygomis sudaryta sutar­
@@ -340,5 +293,4 @@ Per trumpa “| laiką Švedijos kariuomenė užėmė Paidę (Weisenstein), Kuok
     - t-193430
 
 ## Ryšiai
-- Užėmė Viljandį: [[objektai/asmenys/Jonas Karolis Chodkevičius]], [[objektai/asmenys/Jonas Karolis Katkevičius]], [[objektai/grupes/Maskvėnai]], [[objektai/grupes/Rusai]], [[objektai/grupes/Švedijos kariuomenė]]
-- Viljandis priklausė [[objektai/vietos/Livonija]]
+- Užėmė Viljandį: [[objektai/grupes/Maskvėnai]], [[objektai/grupes/Rusai]], [[objektai/grupes/Švedijos kariuomenė]]

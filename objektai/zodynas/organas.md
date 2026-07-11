@@ -42,18 +42,6 @@ Jo organas anksčiau buvo „Žvaigždė" ir „Draugas", nuo 1917 metų tapo �
 - t-001
   global_id: t-44102
   teiginys: "„Žvaigždė“ ir „Draugas“ anksčiau buvo organai, o nuo 1917 m. organu tapo „Garsas“."
-  temporaliniai_duomenys: "įvykio data: po 1917 m.; įvykio data: 1917 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "1278634-1278893; hash=1c4680520f7c5ec1513771d622cc3c13055ffeee1bd2e8d323bb4ba7003f8cc3; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "organas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"organas\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-47244
 - susijęs iš [[objektai/grupes/Susivienijimas Lietuvių Rymo Katalikų Amerikoje.md#claim-t-66151|Susivienijimas Lietuvių Rymo Katalikų Amerikoje]]: Susivienijimas Lietuvių Rymo Katalikų Amerikoje iš pradžių turėjo 704 narius, o 1936 m. turėjo daugiau kaip 300 kuopų ir 20 000 narių.
@@ -73,8 +61,8 @@ Jo organas anksčiau buvo „Žvaigždė" ir „Draugas", nuo 1917 metų tapo �
 
     gas", nuo 1917 metų tapo „Garsas".
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

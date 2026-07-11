@@ -30,19 +30,6 @@ Hunai drauge su dalimi alanų ir gotais dalyvavo didžiajame tautų kraustymesi 
 - t-001
   global_id: t-185449
   teiginys: "Hunai drauge su dalimi alanų ir gotais dalyvavo didžiajame tautų kraustymesi ir prisidėjo prie Romos imperijos sugriovimo."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1365494-1365869; hash=28cb46e1cddf9e7f7aef66ff10ce8e4c38cd9161ffee5c5a98aa09fe79b68dd9; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gotai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Hunai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Gotai: mention_match, group, gap=32"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Hunai\" parinktas kaip owner_note_path. Targetas \"Gotai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-168810
 - susijęs iš [[objektai/autoriai/Adomas Stanislovas Naruševičius.md#claim-t-190677|Adomas Stanislovas Naruševičius]]: Naruševičiaus nuomonę, kad jotvingiai nuo Tisos atėjo tiesiai į Polesę, Narbutas vadina labai panašia į tiesą.
@@ -99,8 +86,8 @@ Hunai drauge su dalimi alanų ir gotais dalyvavo didžiajame tautų kraustymesi 
     ma vadinti Vidurio ir Rytų Europos kraštai, gyvenami daugiausia
     slavų ir baltų.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -111,7 +98,8 @@ Hunai drauge su dalimi alanų ir gotais dalyvavo didžiajame tautų kraustymesi 
 - id: c-168810
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 755"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 755."
   citata_originali: |
     Viena sarmatų
     gentis — alanai.
@@ -130,9 +118,4 @@ Hunai drauge su dalimi alanų ir gotais dalyvavo didžiajame tautų kraustymesi 
     - t-185449
 
 ## Ryšiai
-- Gynė Hunai: [[objektai/grupes/Baltai]]
-- Kariavo prieš: [[objektai/grupes/Jotvingiai]]
-- Hunai keliavo į [[objektai/vietos/Reinas]]
-- Hunai puolė [[objektai/vietos/Europa]], [[objektai/vietos/Orleanas]]
-- Hunai gyveno [[objektai/vietos/Uralas]]
-- Hunai užkariavo [[objektai/grupes/Gotai]]
+- Hunai puolė [[objektai/vietos/Europa]]

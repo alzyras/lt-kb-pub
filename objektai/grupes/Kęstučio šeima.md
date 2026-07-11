@@ -30,12 +30,6 @@ Narbuto vadovaujami Žygimanto valdiniai bei žemai čiai, nuo seno atsidavę K�
 - t-001
   global_id: t-193471
   teiginys: "Narbuto vadovaujami Žygimanto valdiniai bei žemai čiai, nuo seno atsidavę Kęstučio šeimai, palaikė Mykolą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "816729-817171; hash=fbe40af0fbe60adea78dbf4c4fc51c04abd9a4b7d609cc5d801edbb4a9870821; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176172
 ## Reikšmingi paminėjimai
@@ -55,8 +49,8 @@ Narbuto vadovaujami Žygimanto valdiniai bei žemai čiai, nuo seno atsidavę K�
     L ietu vo s d id ik ų  pažiū-
     leslovą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -67,7 +61,8 @@ Narbuto vadovaujami Žygimanto valdiniai bei žemai čiai, nuo seno atsidavę K�
 - id: c-176172
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 465"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 465."
   citata_originali: |
     Tuo tarpu Lietuvos didikams visai nerūpėjo kraš­
     to gynyba: jie susiskirstė įvairiomis grupuotėmis, vieni

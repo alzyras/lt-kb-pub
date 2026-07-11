@@ -32,9 +32,6 @@ Be to, buvo keturi sidabriniai dubenys, užstatyti pas auksakalį Adomą a die 1
 - t-001
   global_id: t-87902
   teiginys: "Auksakaliui Adomui nuo gegužės 16 d. iki rugpjūčio 18 d. buvo užstatyti keturi sidabriniai dubenys už 300 florinų."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "829278-829472; hash=2a6e9e269ad39ba5692d0663efec9a6a4fa57a07601065cc14b848be12e5f96e; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-83881
 - susijęs iš [[objektai/autoriai/Adomas Stanislovas Naruševičius.md#claim-t-187943|Adomas Stanislovas Naruševičius]]: Adomas Stanislovas Naruševičius šešių tomų veikalu „Lenkų tautos istorija“ pradėjo kritiškas praeities studijas.
@@ -55,8 +52,8 @@ Be to, buvo keturi sidabriniai dubenys, užstatyti pas auksakalį Adomą a die 1
     žės 16 dienos iki rugpj. 18 dienos] už tris šimtus flor. Nuo to
     20 flor. palūkanų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

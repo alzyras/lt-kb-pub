@@ -38,23 +38,6 @@ Nuo 1502 m. Krymo totoriai pasiekdavo Vilniaus vaivadiją.
 - t-001
   global_id: t-187384
   teiginys: "Nuo 1502 m. Krymo totoriai persimetė į šiaurę nuo Pripetės pelkių ir pasiekdavo Vilniaus vaivadiją."
-  teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Krymo totoriai keliavo į Vilniaus vaivadija (0.90)"
-  temporaliniai_duomenys: "įvykio data: iki 1502 m.; įvykio data: po 1502 m.; įvykio data: 1502 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pridėtas citatoje nurodytas geografinis kontekstas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "643009-643391; hash=39d58346abbabd93cacf7101c272f2f75bbe7724ab209eb01bc23cc2e7dd29ba; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  ryšio_patikimumas: "keliavo_i -> Vilniaus vaivadija: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Krymo totoriai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vilniaus vaivadija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad Krymo totoriai judėjo į šiaurę ir pasiekdavo Vilniaus vaivadiją."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-170388
 
@@ -62,23 +45,6 @@ Nuo 1502 m. Krymo totoriai pasiekdavo Vilniaus vaivadiją.
 - t-001
   global_id: t-187384
   teiginys: "Nuo 1502 m. Krymo totoriai persimetė į šiaurę nuo Pripetės pelkių ir pasiekdavo Vilniaus vaivadiją."
-  teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Krymo totoriai keliavo į Vilniaus vaivadija (0.90)"
-  temporaliniai_duomenys: "įvykio data: iki 1502 m.; įvykio data: po 1502 m.; įvykio data: 1502 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pridėtas citatoje nurodytas geografinis kontekstas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "643009-643391; hash=39d58346abbabd93cacf7101c272f2f75bbe7724ab209eb01bc23cc2e7dd29ba; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  ryšio_patikimumas: "keliavo_i -> Vilniaus vaivadija: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Krymo totoriai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vilniaus vaivadija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad Krymo totoriai judėjo į šiaurę ir pasiekdavo Vilniaus vaivadiją."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-170388
 ## Reikšmingi paminėjimai
@@ -93,8 +59,8 @@ Nuo 1502 m. Krymo totoriai pasiekdavo Vilniaus vaivadiją.
     pelkių. ) dar nepažeistas ir palyginti tankiau gyvenam as Naugar­
     duko ir Vilniaus vaivadijas, pasiekdami pat| valstybės centrą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

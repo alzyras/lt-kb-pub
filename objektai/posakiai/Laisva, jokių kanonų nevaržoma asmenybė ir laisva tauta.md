@@ -42,14 +42,6 @@ Reikšmė nustatoma iš citatos konteksto; be jo frazė neturėtų būti vartoja
 - t-001
   global_id: t-189596
   teiginys: "„Laisva, jokių kanonų nevaržoma asmenybė ir laisva tauta“ citatoje apibūdinamas kaip vienas svarbiausių tautinio judėjimo devizų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "23181-23697; hash=9ce2dcb6543762641dfe45291464471501eab74d57e5934b030f19c45674a9fb; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171027
 ## Reikšmingi paminėjimai
@@ -68,8 +60,8 @@ Reikšmė nustatoma iš citatos konteksto; be jo frazė neturėtų būti vartoja
     ma asmenybė ir laisva tauta buvo vienas iš svarbiausių šio pla­
     taus, sudėtingo visuomeninio judėjimo devizų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -80,7 +72,8 @@ Reikšmė nustatoma iš citatos konteksto; be jo frazė neturėtų būti vartoja
 - id: c-171027
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 16"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 16."
   citata_originali: |
     Vietoj senosios feodalinės vals­
     tybės suvokimo formavosi naujos tautinės valstybės sampra­

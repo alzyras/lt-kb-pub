@@ -32,14 +32,6 @@ O visai emigracijai prižiūrėti prie Vidaus Reikalų Ministerijos yra įsteigt
 - t-001
   global_id: t-193289
   teiginys: "O visai emigracijai prižiūrėti prie Vidaus Reikalų Ministerijos yra įsteigta speciali referentūra."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "1329360-1329649; hash=2ef10c593933ef748b16097a47bb33482597899fa678c50f3ae9a600c84194a8; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-176017
 ## Reikšmingi paminėjimai
@@ -55,8 +47,8 @@ O visai emigracijai prižiūrėti prie Vidaus Reikalų Ministerijos yra įsteigt
     Vyriausybė ne tiktai rūpinasi apsaugoti vykstančius išeivius, bet
     taip pat rūpinasi ir jau anksčiau išvykusiais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

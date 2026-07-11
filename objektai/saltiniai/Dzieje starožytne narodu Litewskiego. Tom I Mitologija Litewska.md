@@ -37,17 +37,6 @@ T. Narbuto „Lietuvių mitologija“ 1835 ir 1836 m. sulaukė dviejų didelių 
 - t-001
   global_id: t-190511
   teiginys: "T. Narbuto „Lietuvių mitologija“ 1835 ir 1836 m. sulaukė dviejų didelių oficialių recenzijų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1836 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Fragmentas perrašytas į sakinį apie kūrinio recepciją, išskleidžiant metus ir recenzijų pobūdį. Leidinių pavadinimai nepridėti, kad sakinys liktų glaustas."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "100561-100872; hash=b12f51dceca4e833e729fddf2813639e00759a60be768d778e3df55e520d8cab; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173394
 ## Reikšmingi paminėjimai
@@ -66,8 +55,8 @@ T. Narbuto „Lietuvių mitologija“ 1835 ir 1836 m. sulaukė dviejų didelių 
     spausdinta leidinyje „Wizerunki i Roztrząsania Naukowe“, ant­
     roji -  oficioze „Tygodnik Petersburski“.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

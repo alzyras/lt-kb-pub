@@ -54,20 +54,6 @@ Nenurodyta
 - t-001
   global_id: t-28843
   teiginys: "1944 m. Lietuvą vėl okupavus rusams, buvo prievarta primestas marksistinis Lietuvos praeities supratimas."
-  semantiniai_rysiai: "Rusai užkariavo Lietuva (0.82)"
-  temporaliniai_duomenys: "įvykio data: 1944 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys turi neaiškų įvardį, bet citata leidžia suformuluoti aiškų faktą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "121628-121853; hash=88753605960b4489f83f14c90f379f8a93e496b1b1d4005a42ea481c271e1d88; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzkariavo -> Lietuva: 0.82"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Rusai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Okupavimas tiesiogiai nurodo rusų veiksmą prieš Lietuvą; ryšys normalizuotas kaip užkariavimas."
   pagrindžia:
     - c-28747
 - susijęs iš [[objektai/zodynas/reokupacija.md#claim-t-22277|reokupacija]]: 1944 m. vasarą Lietuvos reokupacija reiškė antrą sovietų okupaciją, per kurią Lietuvai, Latvijai ir Estijai grąžintas stalininis režimas.
@@ -81,8 +67,8 @@ Nenurodyta
     Lietuva vėl buvo rusų okupuota. Be jokių metodinių varžtų Lie­
     tuvos istorijos tyrinėjimai liko galimi tik laisvajame pasaulyje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

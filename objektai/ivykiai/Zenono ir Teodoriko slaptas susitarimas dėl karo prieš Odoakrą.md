@@ -42,21 +42,6 @@ Nenurodyta
 - t-001
   global_id: t-191056
   teiginys: "Narbutas vaizduoja Zenoną slapta susitarus su Teodoriku, galbūt tikintis sukelti barbarų valdovų karą ir pašalinti abi puses."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "573296-573978; hash=f7da7bbe6e598f165e03f5f769960113b49fbb2044a06790bd87e9f621a404ed; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Odoakras: 0.58"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Zenonas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Odoakras: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Zenonas kurstė Teodoriką prieš Odoakrą, todėl Zenono priešiškumas Odoakrui palaikomas, bet netiesiogiai."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173938
 
@@ -64,24 +49,6 @@ Nenurodyta
 - t-002
   global_id: t-191057
   teiginys: "Narbutas rašo, kad Teodorikas 479 m. nesileido Zenono kurstomas prieš Odoakrą, bet vėliau Italijos žygį jam paskatino pavydas ir krašto troškimas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 479 m"
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Teodorikas surengė žygį į Italija“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teodoriko motyvai palikti su Narbuto atribucija. Nepridėtos platesnės teisinės pretenzijos ar rugių skriaudos aiškinimas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "573731-574495; hash=9129e0f5b8ba23f2230e61a40e2d6d16e282dd7415a035fde1a40d8ff89ab73e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "surenge_zygi_i -> Italija: 0.91"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Teodorikas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Italija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai mini Teodoriko Italijos žygį."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173939
 ## Reikšmingi paminėjimai
@@ -104,8 +71,8 @@ Nenurodyta
     Nepo mirties nenorėjo laikyti Italijoje jo įtakingo vieti­
     ninko; tačiau tuomet Teodorikas nesileido sukurstomas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -131,8 +98,8 @@ Nenurodyta
     žiūra skirti vietininkus Italijoje ir nušalinti jam neįtin­
     kančius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -143,7 +110,8 @@ Nenurodyta
 - id: c-173938
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 320"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 320."
   citata_originali: |
     325
     Rytų imperatorius, silpstant jo galiai, blaškėsi pavy­
@@ -168,7 +136,8 @@ Nenurodyta
 - id: c-173939
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 320"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 320."
   citata_originali: |
     Nors Teodorikas gerai
     perprato ketinimus visuomet klastingo Zenono, kuris jau

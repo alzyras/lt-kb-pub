@@ -55,11 +55,6 @@ Nenurodyta
 - t-001
   global_id: t-67071
   teiginys: "Valdovai ir ponai dalijo bažnytines vietas, todėl dvasininkais dažnai tapdavo žmonės, siekę jų pelningumo."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "699950-700415; hash=f0650cfe76acdf5d593d7b30566e8bf17aa714a2d676536e156fb93f57e912ee; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-67116
 
@@ -67,11 +62,6 @@ Nenurodyta
 - t-002
   global_id: t-67073
   teiginys: "Pagal tuometinį dvasininkų skyrimo paprotį klebonus skirdavo bažnyčią pastačiusieji ir aprūpinusieji asmenys."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "518229-518629; hash=295662b004314d2a1487fc6d80229ba0c2e21a5b38968f002da306489cab6001; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-67119
 ## Reikšmingi paminėjimai
@@ -90,8 +80,8 @@ Nenurodyta
     vertybe, nes daugumas iš jų tapdavo dvasininkais tik dėl
     pelningumo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -112,8 +102,8 @@ Nenurodyta
     įkurtos didžiojo kunigaikščio, tai ir daugumą klebonų skyrė
     didysis kunigaikštis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

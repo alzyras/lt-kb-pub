@@ -56,20 +56,6 @@ Nenurodyta
 - t-001
   global_id: t-34537
   teiginys: "Butautas 1365 m. liepos 25 d. su draugu Survila pabėgo į Karaliaučių ir apsikrikštijo Henriko vardu."
-  semantiniai_rysiai: "Butautas buvo sąjungininkas su Survila (0.76); Butautas keliavo į Butauto bėgimas į Karaliaučių ir apsikrikštijimas (0.72); Survila keliavo į Butauto bėgimas į Karaliaučių ir apsikrikštijimas (0.70)"
-  temporaliniai_duomenys: "įvykio data: 1365 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Reikia sklandesnės formuluotės ir aiškesnio Survilos vaidmens pagal citatą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "38495-38907; hash=afba9277c3869b3cc4c0da2a0b3eb30fc66209c4c6906688a10033d6855af931; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sajungininkas_su -> Survila: 0.76"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Butautas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Survila: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Survila aiškiai įvardytas Butauto draugu ir bendru bėgimo dalyviu."
   pagrindžia:
     - c-35762
 ## Reikšmingi paminėjimai
@@ -86,8 +72,8 @@ Nenurodyta
     riaus Karolio IV pakeltas imperijos kunigaikščiu ir gyveno jo dvare (1369
     —81), paprastai vadinamas „lietuvių karaliumi Henriku”.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -114,6 +100,3 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-34537
-
-## Ryšiai
-- Buvo kelionės vieta: [[objektai/asmenys/Butautas]], [[objektai/asmenys/Survila]]

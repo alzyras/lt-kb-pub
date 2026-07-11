@@ -40,18 +40,6 @@ Eberhardtu.
 - t-001
   global_id: t-40540
   teiginys: "1919 m. spalio 12 d. generolas W. Eberhardtas pakeitė generolą R. von der Goltzą."
-  temporaliniai_duomenys: "įvykio data: 1919 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "776238-776493; hash=3746590536f246c3e2b3ee3ef9b786b5e58398b2498bc71fbd239888131eb00d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Latvija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "W. Eberhardtas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Latvija: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"W. Eberhardtas\" parinktas kaip owner_note_path. Targetas \"Latvija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-44577
 - susijęs iš [[objektai/asmenys/R. fon der Goltzas.md#claim-t-40401|R. fon der Goltzas]]: 1919 m. spalio 12 d. gen. R. von der Goltzą pakeitė gen. W. Eberhardtas.
@@ -66,8 +54,8 @@ Eberhardtu.
     mokama gera alga, pergalės atveju žadama duoti žemės
     Latvijoje ar Lietuvoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

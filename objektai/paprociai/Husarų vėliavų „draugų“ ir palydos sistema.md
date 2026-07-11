@@ -57,16 +57,6 @@ Nenurodyta
 - t-007
   global_id: t-71798
   teiginys: "Husarų „draugų“ tarnai nestodavo į rikiuotę, užsiimdavo ūkine veikla ir saugodavo stovyklą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "403204-404612; hash=957a3ea504af22f113b709dad55daef53731ad17b84d606ec5099c12501b277a; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> husarai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Husarų vėliavų „draugų“ ir palydos sistema: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "husarai: mention_match, thing, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Husarų vėliavų „draugų“ ir palydos sistema\" parinktas kaip owner_note_path. Targetas \"husarai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-43157
 
@@ -74,16 +64,6 @@ Nenurodyta
 - t-008
   global_id: t-71800
   teiginys: "Husarai ir jų XVII a. pavyzdžio organizacija Abiejų Tautų Respublikoje egzistavo iki XVIII a."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "404613-404892; hash=a89b52c11866efcb87e9c8cfd3a02bc44bd2a9a8d2d8069273a84af35e81802c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Abiejų Tautų Respublika: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Husarų vėliavų „draugų“ ir palydos sistema: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Abiejų Tautų Respublika: mention_match, group, gap=37"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Husarų vėliavų „draugų“ ir palydos sistema\" parinktas kaip owner_note_path. Targetas \"Abiejų Tautų Respublika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-43158
 
@@ -91,16 +71,6 @@ Nenurodyta
 - t-006
   global_id: t-71801
   teiginys: "Husarai paprastai atakuodavo priešą dviem linijomis, kurių pirmoji silpnindavo rikiuotę, o antroji pralauždavo gretas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "404872-405173; hash=5fa3a07c649107fc79c79fe5e92526494d51690544b75958dfe3ba8bb9ef780a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> husarai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Husarų vėliavų „draugų“ ir palydos sistema: owner_note_path, thing"
-  ryšio_targeto_parinkimas: "husarai: mention_match, thing, gap=1"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Husarų vėliavų „draugų“ ir palydos sistema\" parinktas kaip owner_note_path. Targetas \"husarai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-43159
 
@@ -108,16 +78,6 @@ Nenurodyta
 - t-005
   global_id: t-71802
   teiginys: "Husarų vėliavų branduolį sudarė turtingi bajorai - draugai."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "402268-403202; hash=e1423155852492573ee72a7a772cdfb03e369d92a9d9542ee227a1e38d61f24e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Bajorai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Husarų vėliavų „draugų“ ir palydos sistema: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Bajorai: mention_match, group, gap=41"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Husarų vėliavų „draugų“ ir palydos sistema\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-12385
 
@@ -125,16 +85,6 @@ Nenurodyta
 - t-009
   global_id: t-71803
   teiginys: "XVII a. Lietuvos ir Lenkijos husarai buvo vienintelė „šoko kavalerija“ Europoje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "404872-405173; hash=5fa3a07c649107fc79c79fe5e92526494d51690544b75958dfe3ba8bb9ef780a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Europa: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Husarų vėliavų „draugų“ ir palydos sistema: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=54"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Husarų vėliavų „draugų“ ir palydos sistema\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-43159
 ## Reikšmingi paminėjimai
@@ -161,8 +111,8 @@ Nenurodyta
     lyda stodavo už jo ir sudarydavo antrąją, trečiąją ir
     ketvirtąją eiles.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -198,8 +148,8 @@ Nenurodyta
     („užkabinančioji“ banga), o antroji linija turėdavo
     pralaužti priešų gretas („verčiančioji“ banga).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -218,8 +168,8 @@ Nenurodyta
 
     _ palydos poreikius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -239,8 +189,8 @@ Nenurodyta
 
     tai, sudarę vėliavą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

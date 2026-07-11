@@ -55,19 +55,6 @@ Nenurodyta
 - t-001
   global_id: t-20462
   teiginys: "1957 m. vietoje pramonės ir statybos ministerijų įsteigtos regioninės Liaudies ūkio tarybos turėjo pertvarkyti pramonės valdymą iš šakinio į teritorinį."
-  temporaliniai_duomenys: "įvykio data: 1953 m.; įvykio data: 1957 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys nėra užbaigtas, citata leidžia suformuluoti tikslų sakinį."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "441478-442163; hash=6f26381057cac7c1a7e955e175e9b06ed324a456a542c7c72b7b9dc9cd89650b; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Liaudies ūkio tarybos (institucija): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Regioninių Liaudies ūkio tarybų įsteigimas (1957 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Liaudies ūkio tarybos (institucija): mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Regioninių Liaudies ūkio tarybų įsteigimas (1957 m.)\" parinktas kaip owner_note_path. Targetas \"Liaudies ūkio tarybos (institucija)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-166657
 
@@ -75,22 +62,6 @@ Nenurodyta
 - t-002
   global_id: t-183268
   teiginys: "1957 m. vietoje pramonės ir statybos ministerijų įsteigus regionines Liaudies ūkio tarybas, pramonės valdymas turėjo pereiti iš šakinio į teritorinį."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1953 m.; įvykio data: 1957 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas, faktinis ir paremtas citata."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "441478-442163; hash=6f26381057cac7c1a7e955e175e9b06ed324a456a542c7c72b7b9dc9cd89650b; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Regioninių Liaudies ūkio tarybų įsteigimas (1957 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Regioninių Liaudies ūkio tarybų įsteigimas (1957 m.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-166657
 ## Reikšmingi paminėjimai
@@ -112,8 +83,8 @@ Nenurodyta
     persitvarkyti iš šakinio į teritorinį. Lietuvos LŪT ėmė kontroliuoti šalies
     įmones, kuriose iš viso dirbo 76 proc. šalies darbininkų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

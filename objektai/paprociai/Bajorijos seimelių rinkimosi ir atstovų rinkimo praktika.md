@@ -55,9 +55,6 @@ Nenurodyta
 - t-001
   global_id: t-67047
   teiginys: "1817 m. bajorijos seimeliai rinkosi baudžiavos panaikinimo šūkiais."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "926181-926454; hash=05fda4f17318743edaec857fd2d24c3761f16fd926ca49bc404f8e86355111f0; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-67101
 ## Reikšmingi paminėjimai
@@ -72,8 +69,8 @@ Nenurodyta
     jos seimelį ukmergiškiai aiškiai reikalavo atleisti valstiečius nuo
     baudžiavos, tik be žemės.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

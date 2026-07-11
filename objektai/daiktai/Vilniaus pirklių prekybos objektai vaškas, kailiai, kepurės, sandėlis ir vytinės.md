@@ -61,16 +61,6 @@ Nenurodyta
 - t-001
   global_id: t-87005
   teiginys: "Žaliaminės odos ir vaškas buvo svarbiausios Vilniaus pirklių išvežamosios prekės."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "537763-537982; hash=d136bcda105a0d8c9893ee7a31574fcb8b96faa2797fe026a11ffacccb238915; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vaškas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilniaus pirklių prekybos objektai vaškas, kailiai, kepurės, sandėlis ir vytinės: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Vaškas: mention_match, thing, gap=3"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus pirklių prekybos objektai vaškas, kailiai, kepurės, sandėlis ir vytinės\" parinktas kaip owner_note_path. Targetas \"Vaškas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-82986
 
@@ -78,16 +68,6 @@ Nenurodyta
 - t-002
   global_id: t-87006
   teiginys: "Miesto lėšomis pastatyti kailiadirbių namai turguje leido ant sienų pardavimui kabinti kepures ir kailius."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "538636-539159; hash=c6ef1d6b131baeef706b25dfe46d02f6eebada6dc05db6177ee7a53488c1110a; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vaškas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilniaus pirklių prekybos objektai vaškas, kailiai, kepurės, sandėlis ir vytinės: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Vaškas: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus pirklių prekybos objektai vaškas, kailiai, kepurės, sandėlis ir vytinės\" parinktas kaip owner_note_path. Targetas \"Vaškas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-82984
 
@@ -95,16 +75,6 @@ Nenurodyta
 - t-003
   global_id: t-87007
   teiginys: "Karaliaus raštu Vilniaus vaitui leista į užsienį parduoti tris vaško gabalus po 50 akmenų."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "539009-540981; hash=cd5dddad2df249956ddc79248d40ca4912eea017712be4e7f82467dc0befeca2; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vaškas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilniaus pirklių prekybos objektai vaškas, kailiai, kepurės, sandėlis ir vytinės: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Vaškas: mention_match, thing, gap=47"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus pirklių prekybos objektai vaškas, kailiai, kepurės, sandėlis ir vytinės\" parinktas kaip owner_note_path. Targetas \"Vaškas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-82985
 ## Reikšmingi paminėjimai
@@ -125,8 +95,8 @@ Nenurodyta
     vaitui į užsienį parduoti tris gaba­
     lus vaško po 50 akmenų], fol.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -200,8 +170,8 @@ Nenurodyta
     prekių sandėlis ir leista Vilijos upe laisvai plaukioti jų lai­
     vams, vadinamoms vytinėms.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -221,8 +191,8 @@ Nenurodyta
     kad nuo vaško ir kitų prekių iš Vil­
     niaus pirklių neimtų muito.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

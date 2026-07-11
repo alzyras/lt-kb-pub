@@ -42,17 +42,6 @@ Pradžios mokslu, be parapijų kunigų, dar rūpinosi šių ordinų vienuoliai: 
 - t-003
   global_id: t-112560
   teiginys: "Karmelitų ordino vienuoliai Lietuvoje rūpinosi pradžios mokslu kartu su kitų ordinų vienuoliais ir parapijų kunigais."
-  semantiniai_rysiai: "Karmelitų ordinas gyveno Lietuva (0.65)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "690983-691409; hash=e5c6cf510116e3fe9238d8bb8c9e315c756c7910bc444106c6407246d1465fbe; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Lietuva: 0.65"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Karmelitų ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata rodo, kad karmelitų ir kitų ordinų vienuolynų Lietuvoje buvo daug, tad ordinas veikė Lietuvoje."
   pagrindžia:
     - c-103937
 
@@ -60,16 +49,6 @@ Pradžios mokslu, be parapijų kunigų, dar rūpinosi šių ordinų vienuoliai: 
 - t-002
   global_id: t-112561
   teiginys: "Mikalojus Radvila pakvietė karmelitus ir prie Šv. Jurgio bažnyčios Vilniuje pastatydino jiems vienuolyną."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "531503-531929; hash=ab7b6841de56c9cd33b1dbbc7d64d88ca7b28df2fcae85eec785d0498bad04f4; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Mikalojus Radvila: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Karmelitų ordinas: owner_note_path, group"
-  ryšio_targeto_parinkimas: "Mikalojus Radvila: mention_match, person, gap=1"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Karmelitų ordinas\" parinktas kaip owner_note_path. Targetas \"Mikalojus Radvila\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-103938
 ## Reikšmingi paminėjimai
@@ -88,8 +67,8 @@ Pradžios mokslu, be parapijų kunigų, dar rūpinosi šių ordinų vienuoliai: 
 
     tuvoje buvo jau gana daug.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -108,8 +87,8 @@ Pradžios mokslu, be parapijų kunigų, dar rūpinosi šių ordinų vienuoliai: 
     gelės Dievo Gimdytojos garbei. Po to pakvietė karmelitus ir
     prie tos bažnyčios jiems pastatydino vienuolyną.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -158,6 +137,3 @@ Pradžios mokslu, be parapijų kunigų, dar rūpinosi šių ordinų vienuoliai: 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-112561
-
-## Ryšiai
-- Karmelitų ordinas gyveno [[objektai/vietos/Lietuva]]

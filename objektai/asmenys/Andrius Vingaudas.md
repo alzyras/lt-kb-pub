@@ -30,20 +30,6 @@ Andrius Vingaudas, Trubčevsko kunigaikštis ir Jogailos brolis, persikėlė per
 - t-001
   global_id: t-185996
   teiginys: "Andrius Vingaudas, Trubčevsko kunigaikštis ir Jogailos brolis, persikėlė per Dauguvą ir ėmė niokoti lietuvių valdas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Andrius Vingaudas buvo valdovas Trubčevskas (0.82); Andrius Vingaudas puolė Lietuviai (0.82)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "493642-494342; hash=46fd26c6c203eab58899248e9d542a72b8ba041fd67fe9f2c0d4971564cb5427; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_valdovas -> Trubčevskas: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Andrius Vingaudas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Trubčevskas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Andrius tiesiogiai įvardytas Trubčevsko kunigaikščiu."
   pagrindžia:
     - c-169357
 
@@ -51,20 +37,6 @@ Andrius Vingaudas, Trubčevsko kunigaikštis ir Jogailos brolis, persikėlė per
 - t-002
   global_id: t-185997
   teiginys: "Vytautas per susitikimą rūpinosi Andriaus Vingaudo paleidimu, siekdamas pelnyti Jogailos brolių palankumą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Kryžiuočių ordinas rėmė Andrius Vingaudas (0.80)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "578860-579448; hash=fab26cc1a0f9e37ec28604edeff1b5312710cff577445610e1abff0eadfb6a38; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "reme -> Andrius Vingaudas: 0.80"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Andrius Vingaudas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Andrius siekė valdžios su kryžiuočių pagalba."
   pagrindžia:
     - c-169358
 
@@ -72,20 +44,6 @@ Andrius Vingaudas, Trubčevsko kunigaikštis ir Jogailos brolis, persikėlė per
 - t-003
   global_id: t-185998
   teiginys: "Jogaila pirmaisiais savo viešpatavimo metais įkalino Andrių Vingaudą, kuris buvo linkęs maištauti ir su kryžiuočių pagalba siekė valdžios."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Kryžiuočių ordinas rėmė Andrius Vingaudas (0.86)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "579245-579727; hash=49212767145cd4c913f37d37358c4e0dcee72dcc508c6fce35fee9a8a7e841a0; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "reme -> Andrius Vingaudas: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Andrius Vingaudas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai sieja Andriaus valdžios siekį su kryžiuočių pagalba."
   pagrindžia:
     - c-169359
 ## Reikšmingi paminėjimai
@@ -112,8 +70,8 @@ Andrius Vingaudas, Trubčevsko kunigaikštis ir Jogailos brolis, persikėlė per
     kėlęs dėl visokių savo savybių beveik visos Rusios
     palankumą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -138,8 +96,8 @@ Andrius Vingaudas, Trubčevsko kunigaikštis ir Jogailos brolis, persikėlė per
     patavimo metais buvo uždaręs į kalėjimą, kur ligi šiol
     tebelaikė, šiam nė nežinant, ar liks gyvas, ar ne.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -159,8 +117,8 @@ Andrius Vingaudas, Trubčevsko kunigaikštis ir Jogailos brolis, persikėlė per
     tui prašant, susilaukė malonės ir Andrius. Vis dėlto
     sunkiai išprašė Andriui gyvybę, laisvę bei valdų.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -171,7 +129,8 @@ Andrius Vingaudas, Trubčevsko kunigaikštis ir Jogailos brolis, persikėlė per
 - id: c-169357
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 281"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 281."
   citata_originali: |
     Konradas Celneris, ne-
     J o g a ilo s broliu A n d -
@@ -200,7 +159,8 @@ Andrius Vingaudas, Trubčevsko kunigaikštis ir Jogailos brolis, persikėlė per
 - id: c-169358
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 333"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 333."
   citata_originali: |
     Kad ateityje nesirastų dėl kokio men­
     ko nesutarimo naujų dingsčių karui, jie sutarė, jog nuo
@@ -226,7 +186,8 @@ Andrius Vingaudas, Trubčevsko kunigaikštis ir Jogailos brolis, persikėlė per
 - id: c-169359
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 333"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 333."
   citata_originali: |
     Linkusį į maištus ir su kryžiuočių pagalba
     siekusį valdžios Andrių Jogaila pirmaisiais savo vieš­
@@ -243,8 +204,3 @@ Andrius Vingaudas, Trubčevsko kunigaikštis ir Jogailos brolis, persikėlė per
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185998
-
-## Ryšiai
-- Rėmė Andrius Vingaudą: [[objektai/grupes/Kryžiuočių ordinas]]
-- Andrius Vingaudas buvo valdovas [[objektai/vietos/Trubčevskas]]
-- Andrius Vingaudas puolė [[objektai/grupes/Lietuviai]]

@@ -44,20 +44,6 @@ Dusburgietis teigia, kad 1298 viešpaties metais Vytenis, lietuvių karalius, Ry
 - t-001
   global_id: t-58645
   teiginys: "1298 m. birželio 1 d. Livonijos magistras Brunonas užpuolė Vytenį pajūryje prie Treiderės upės."
-  semantiniai_rysiai: "Teutonai puolė Treiderės upė (0.54)"
-  temporaliniai_duomenys: "įvykio data: 1298 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra konkretus faktinis sakinys apie Treiderės upę ir atitinka citatos duomenis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "599445-600347; hash=bd8c8757b21eb21f1ef0a2f550a597bd7621bda7ed80569b18a7aedd6586e366; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Treiderės upė: 0.54"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Teutonai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Treiderės upė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Brunonas buvo Teutonų ordino brolis, tačiau pats Brunonas nėra allowed_candidates sąraše, todėl ryšys su grupe yra netiesioginis."
   pagrindžia:
     - c-59277
 
@@ -65,19 +51,6 @@ Dusburgietis teigia, kad 1298 viešpaties metais Vytenis, lietuvių karalius, Ry
 - t-002
   global_id: t-185164
   teiginys: "Magistras Brunonas prie Treiderės upės užpuolė grobiu apsikrovusius siaubėjus netoli Livonijos įlankos."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "301942-302385; hash=df56b39730b2ccd724ee136328794075a38f2e30f965511bd3469e62c66b1e58; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Treiderės upė: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Brunonas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Treiderės upė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Brunono puolimo vieta tiesiogiai nurodyta prie Treiderės upės."
   pagrindžia:
     - c-168525
 ## Reikšmingi paminėjimai
@@ -98,8 +71,8 @@ Dusburgietis teigia, kad 1298 viešpaties metais Vytenis, lietuvių karalius, Ry
     šimtus netikėlių, vis dėlto galop karalius paėmė viršų ir nukovė magistrą, 22 brolius ir
     1500 krikščionių.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -119,8 +92,8 @@ Dusburgietis teigia, kad 1298 viešpaties metais Vytenis, lietuvių karalius, Ry
     šitaip esti, kai gabenamas grobis), nes ji buvo išsisklai­
     džiusi po kaimus.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -131,7 +104,8 @@ Dusburgietis teigia, kad 1298 viešpaties metais Vytenis, lietuvių karalius, Ry
 - id: c-59277
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 191"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 191."
   citata_originali: |
     1297 viešpaties metais  kilo begaliniai Rygos miestiečių  ir Teutonų ordino brolių
     kivirčai, kurie vienu metu taip įsiliepsnojo, kad broliai per pusantrų metų, neišvengiamos
@@ -155,7 +129,8 @@ Dusburgietis teigia, kad 1298 viešpaties metais Vytenis, lietuvių karalius, Ry
 - id: c-168525
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 175"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 175."
   citata_originali: |
     Po to nugalėtojai, paleisti pasiplėšti grobio,
     nusiaubė visas apylinkes, naikindami ugnimi ir kala­
@@ -172,6 +147,3 @@ Dusburgietis teigia, kad 1298 viešpaties metais Vytenis, lietuvių karalius, Ry
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185164
-
-## Ryšiai
-- Puolė Treiderės upę: [[objektai/grupes/Teutonai]]

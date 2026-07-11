@@ -43,16 +43,6 @@ Camblakas.
 - t-001
   global_id: t-30257
   teiginys: "Metropolitas Gr. Camblakas Konstancos susirinkime Vytauto vardu rūpestingai kėlė aptariamą klausimą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1022584-1022885; hash=eff2f3c74e2ce968831b7bed324cedbe0fc760a4a5f9e836692b546b5dcfa9b1; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Konstanca: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gr. Camblakas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Konstanca: mention_match, place, gap=14"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gr. Camblakas\" parinktas kaip owner_note_path. Targetas \"Konstanca\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-32732
 
@@ -60,12 +50,6 @@ Camblakas.
 - t-002
   global_id: t-193390
   teiginys: "Suvažiavime d ū k o s u v a ž ia v im e suėmė Grigorijų Fotijų, Ki jevo metropolitą, Rusioje 3 9 2 kursčiusį ir plėtusį religinį bruzdėjimą, ir, baudžiant už šį nusikaltimą, pašalino visuotiniu pritarimu iš pareigų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "684648-685190; hash=5c019521eed3efaec19dc93aa5c64d1b51a979a77252aa4084360f7d72600a37; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176114
 
@@ -73,12 +57,6 @@ Camblakas.
 - t-003
   global_id: t-193621
   teiginys: "1415 m. Naugarduke sušaukęs LDK stačiatikių vyskupų suvažiavimą, Vytautas įkūrė LDK stačiatikių metropoliją ir į ją paskyrė vieną žymiausių to meto stačiatikybės teologų Grigorijų Camblaką."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "79794-80403; hash=63267e75af8a5ac8213ef6492e645e9b2c48cda00106bcca2f526a48299a0a29; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176292
 
@@ -86,12 +64,6 @@ Camblakas.
 - t-004
   global_id: t-193622
   teiginys: "Camblako stačiatikių delegaciją, turėjusią pagrįsti siekį gyventi unijoje su Katalikų bažnyčia."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "91537-91966; hash=0410311a5151af017d88e26aafbafa3a94199d7f4ba2748e8575bb9aff8ee1fb; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176293
 ## Reikšmingi paminėjimai
@@ -106,8 +78,8 @@ Camblakas.
     vaidmens, Vytautas įkurdino benediktinus S. Trakuose, atkeldamas
     juos iš Maž.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -136,8 +108,8 @@ Camblakas.
     čių suartėjimo reikalu pasiųstas ten savo tautos suva­
     žiavimo ir kunigaikščio Vytauto.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -157,8 +129,8 @@ Camblakas.
     bažnyčios susirinkimą Konstance, kur iškėlė visuotinės bažnyčių unijos
     idėją (ji įgyvendinta vėliau – 1439 m. Florencijoje).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -176,8 +148,8 @@ Camblakas.
     prie kryžiaus žygiuojančiomis Europos šalimis pateko į krikščioniškų ša-
     lių bendriją vaizduojančią Strasbūro freską.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

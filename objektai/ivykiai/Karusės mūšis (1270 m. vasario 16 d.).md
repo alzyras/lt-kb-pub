@@ -54,16 +54,6 @@ Nenurodyta
 - t-005
   global_id: t-66606
   teiginys: "Karusės mūšyje žuvo Livonijos magistras Ottonas Luterbergas ir 52 Ordino broliai."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "104987-105275; hash=adc544e8e5aff81141aa9e36b582ebe8a2def6c5aac0f92be7d05b749d7c640f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Livonija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Karusės mūšis (1270 m. vasario 16 d.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Livonija: mention_match, place, gap=20"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Karusės mūšis (1270 m. vasario 16 d.)\" parinktas kaip owner_note_path. Targetas \"Livonija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-66805
 
@@ -71,9 +61,6 @@ Nenurodyta
 - t-006
   global_id: t-66607
   teiginys: "Hermano Vartbergės kronika mūšį sieja su 52 ordino broliais ir 600 krikščionių prie Karuzo."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "104395-104559; hash=4b2af4fda0dccecb2e9f86563b0fdd966a0822a8ad38b586b614bf5d106ed249; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-11857
 
@@ -81,22 +68,6 @@ Nenurodyta
 - t-004
   global_id: t-66608
   teiginys: "Karusės mūšyje lietuviai ir vyskupų pajėgos 1270 m. vasario 16 d. ties Karuse susitiko ant užšalusios jūros ledo."
-  semantiniai_rysiai: "Lietuviai dalyvavo mūšyje Karusės mūšis (1270 m. vasario 16 d.) (0.90)"
-  temporaliniai_duomenys: "įvykio data: 1270 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradiniame teiginyje neaišku, kurios kariuomenės minimos."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "103582-103745; hash=e80014b1f66c8a826c32aa502a7fc0fbaff5a3bbe8a7082dd652335e06bbef07; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "dalyvavo_musyje -> Karusės mūšis (1270 m. vasario 16 d.): 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Karusės mūšis (1270 m. vasario 16 d.): llm_allowed_candidate, event"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo lietuvių dalyvavimą Karusės mūšyje."
-  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-66804
 - susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
@@ -110,8 +81,8 @@ Nenurodyta
     | prie Karuzo šv. Mergelės Julijonos dieną ant
     | ledo sumušė lietuviai.“
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -126,8 +97,8 @@ Nenurodyta
     ties Karuse (Virtsu) 1270 m. vasario 16 d.
     susitiko ant užšalusios jūros ledo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -145,8 +116,8 @@ Nenurodyta
     bėjo Tartu, Lealio vyskupai ir riteriai iš
     Talino.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

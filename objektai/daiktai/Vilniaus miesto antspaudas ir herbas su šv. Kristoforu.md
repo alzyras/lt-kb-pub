@@ -60,16 +60,6 @@ Nenurodyta
 - t-002
   global_id: t-87060
   teiginys: "Vilniaus miesto viešųjų aktų antspaude turėjo būti šv. Kristoforo atvaizdas raudoname lake."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "558995-560745; hash=9f29703550a85c892264d50a84b128541b4700b194f5236a5e549414a4ab646a; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Antspaudas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilniaus miesto antspaudas ir herbas su šv. Kristoforu: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Antspaudas: mention_match, thing, gap=29"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus miesto antspaudas ir herbas su šv. Kristoforu\" parinktas kaip owner_note_path. Targetas \"Antspaudas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-83039
 
@@ -77,16 +67,6 @@ Nenurodyta
 - t-003
   global_id: t-87061
   teiginys: "1548 metais Vilniaus miesto herbas buvo šv. Kristoforo atvaizdas raudoname fone."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "562169-563197; hash=62ba9e0eb0c8231630aaf69c946f391edff9a65622984a3105dbad027b1466b5; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Herbas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilniaus miesto antspaudas ir herbas su šv. Kristoforu: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Herbas: mention_match, thing, gap=16"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus miesto antspaudas ir herbas su šv. Kristoforu\" parinktas kaip owner_note_path. Targetas \"Herbas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-83041
 
@@ -94,16 +74,6 @@ Nenurodyta
 - t-001
   global_id: t-87062
   teiginys: "Viešiesiems reikalams Vilniaus magistratas turėjo naudoti senąjį miesto antspaudą su šv. Kristoforo atvaizdu raudoname lake."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "558639-560534; hash=98c325922d2800eac6807d1a4b13ef2761d2917df30f9d716d8e1c10e50e3d03; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Antspaudas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilniaus miesto antspaudas ir herbas su šv. Kristoforu: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Antspaudas: mention_match, thing, gap=50"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus miesto antspaudas ir herbas su šv. Kristoforu\" parinktas kaip owner_note_path. Targetas \"Antspaudas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-83040
 ## Reikšmingi paminėjimai
@@ -157,8 +127,8 @@ Nenurodyta
     tikrųjų, raudono lako, pirmųjų Len­
     kijos Karalystės miestų papročiu].
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -213,8 +183,8 @@ Nenurodyta
     sų-palikuonių sutikimo ar kitos
     naujos ar atskiros privilegijos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -254,8 +224,8 @@ Nenurodyta
     ne. Iš kur jis atsiradęs, tai gal vėliau
     daugiau paaiškės.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

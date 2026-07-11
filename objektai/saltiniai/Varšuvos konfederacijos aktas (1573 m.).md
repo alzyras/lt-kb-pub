@@ -33,9 +33,6 @@ Kita vertus, jis vis dėlto pripažino tikėjimo laisvę ir protestantams ir uol
 - t-002
   global_id: t-67555
   teiginys: "1573 metų Varšuvos konfederacija garantavo, kad dėl tikėjimo niekas nebus persekiojamas."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "616347-616690; hash=c72e5e2fa4c98c0a4c65bd897c3e7af474bae126a2c991b53bd952482ec7a000; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-67418
 
@@ -43,11 +40,6 @@ Kita vertus, jis vis dėlto pripažino tikėjimo laisvę ir protestantams ir uol
 - t-001
   global_id: t-67556
   teiginys: "Steponas Batoras saugojo 1573 m. Varšuvos konfederacijos akto nuostatus dėl protestantų tikėjimo laisvės."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "595063-595559; hash=9bae07b86b6dbaf293010251ff94241d2fb12235c6f1d34d69a5638d1fcdea9c; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-67419
 ## Reikšmingi paminėjimai
@@ -63,8 +55,8 @@ Kita vertus, jis vis dėlto pripažino tikėjimo laisvę ir protestantams ir uol
     metų Varšuvos konfederacijos, kuri garantavo, kad dėl tikė-
     jimo niekas nebus persekiojamas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -84,8 +76,8 @@ Kita vertus, jis vis dėlto pripažino tikėjimo laisvę ir protestantams ir uol
     racijos akto nuostatus, nors Lenkijos katalikų Bažnyčios sinodas
     buvo iškeikęs visus tos konfederacijos gynėjus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

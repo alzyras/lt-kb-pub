@@ -30,21 +30,6 @@ Lakariz, pasak Teodoro Narbuto, įrodinėjo, kad gotai, gotonai ir gotinai buvo 
 - t-001
   global_id: t-191437
   teiginys: "Lakariz, pasak Teodoro Narbuto, įrodinėjo, kad gotai, gotonai ir gotinai buvo skitų-keltų palikuonys."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "146610-147072; hash=05832e33e3b555ca587dff1ae651b9113944f0ceae735fe66a344bda91ffb899; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gotai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lakariz: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Gotai: mention_match, group, gap=47"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lakariz\" parinktas kaip owner_note_path. Targetas \"Gotai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174319
 - susijęs iš [[objektai/grupes/Gotai.md#claim-t-192395|Gotai]]: Narbutas, remdamasis Lakarizu, gotus, gotonus ir gotinus kildina iš skitų-keltų palikuonių.
@@ -73,8 +58,8 @@ Lakariz, pasak Teodoro Narbuto, įrodinėjo, kad gotai, gotonai ir gotinai buvo 
     met išsaugodavo įprastą senovės skitų valdžios formą,
     t. y. turėjo karalių valdžią.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

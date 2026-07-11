@@ -33,18 +33,6 @@ Dusburgietis teigia, kad be to, jie garbino, kaip buvo įprasta senovėje, negę
 - t-001
   global_id: t-59137
   teiginys: "Be to, jie garbino, kaip buvo įprasta senovėje, negęstančiąją ugnį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "224713-225138; hash=9edac2e797e6522d747d87b8bb41484657cf2bec0592e14b6e49f81cad8d3ee4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kūnas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "negęstančiąją ugnį: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Kūnas: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"negęstančiąją ugnį\" parinktas kaip owner_note_path. Targetas \"Kūnas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
-  vertinimo_autorius: "claim_quality_pipeline / rewrite"
   pagrindžia:
     - c-59769
 - susijęs iš [[objektai/asmenys/Krivis.md#claim-t-60047|Krivis]]: Krivis turėjo tokį autoritetą, kad jo pasiuntinys su krivūle sulaukdavo pagarbos iš kunigaikščių, kilmingųjų ir prastuomenės.
@@ -66,8 +54,8 @@ Dusburgietis teigia, kad be to, jie garbino, kaip buvo įprasta senovėje, negę
     senovėje, negęstančiąją ugnį. Prūsai tikėjo, kad kūnas prisikelia iš numirusiųjų, bet,
     žinoma, [tikėjo] ne taip, kaip dera.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -78,7 +66,8 @@ Dusburgietis teigia, kad be to, jie garbino, kaip buvo įprasta senovėje, negę
 - id: c-59769
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 68"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 68."
   citata_originali: |
     Toks didelis buvo jo autoritetas,
     kad ne tik jis pats, ne tik jo gentainiai, bet ir jo pasiuntinys, su jo krivūle206 ar kokiu

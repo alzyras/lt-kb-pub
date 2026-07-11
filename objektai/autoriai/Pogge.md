@@ -30,14 +30,6 @@ La Fontė Konstancos susirinkimo istorija (p. 546 etc.); Beli (Bayle) žodynas (
 - t-001
   global_id: t-194848
   teiginys: "La Fontė Konstancos susirinkimo istorija (p. 546 etc.); Beli (Bayle) žodynas (straipsnis „Jeronimas Prahiškis“); Bonegarto žodynas (tas pats ir straipsnis „Kobham“); Pogge."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "714638-714836; hash=27a17b3809c7288f82e5c89f51ed03e483316bbb812b5792a2218ed1c6aab2f1; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-177244
 ## Reikšmingi paminėjimai
@@ -50,8 +42,8 @@ La Fontė Konstancos susirinkimo istorija (p. 546 etc.); Beli (Bayle) žodynas (
     yle) žodynas (straipsnis „Jeronimas Prahiškis“); Bonegarto žodynas
     (tas pats ir straipsnis „Kobham“); Pogge. Epistola ad Aretinum.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -62,7 +54,8 @@ La Fontė Konstancos susirinkimo istorija (p. 546 etc.); Beli (Bayle) žodynas (
 - id: c-177244
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 398"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 398."
   citata_originali: |
     2 La Fontė Konstancos susirinkimo istorija (p. 546 etc.); Beli (Ba-
     yle) žodynas (straipsnis „Jeronimas Prahiškis“); Bonegarto žodynas

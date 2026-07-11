@@ -45,14 +45,6 @@ Nenurodyta
 - t-001
   global_id: t-194940
   teiginys: "Tam padėjo Valentiniano III sesuo Honorija, kuri, brolio įkalinta vienuolyne, slapta nusiuntė hunų karaliui savo sužieduotuvių žiedą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "555935-556318; hash=25435d25e667e1a05956efb39d704cb583dab97b4f749af3129f41918062253a; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-177336
 ## Reikšmingi paminėjimai
@@ -69,8 +61,8 @@ Nenurodyta
     sužieduotuvių žiedą. Taigi Atila pasinaudojo tuo: neva
     jam nebuvo leista vesti imperatoriaus sesers.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -81,7 +73,8 @@ Nenurodyta
 - id: c-177336
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 310"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 310."
   citata_originali: |
     Tuo pasipiktinęs barbaras įsakė viešai paskelbti, jog nuo
     tol laiko abu imperatorius savo belaisviais, o tuo tarpu

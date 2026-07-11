@@ -42,19 +42,6 @@ Jono Mejeno divizija, kurią sudarė 2-0ji ir 3-ioji Tautinės kavalerijos briga
 - t-001
   global_id: t-40822
   teiginys: "2-oji ir 3-ioji Tautinės kavalerijos brigados buvo gen. mjr. Jono Mejeno divizijos, gynusios Vilnių nuo rusų puolimo, sudėtyje."
-  semantiniai_rysiai: "2-oji ir 3-ioji Tautinės kavalerijos brigados gynė Vilnius (0.82); 2-oji ir 3-ioji Tautinės kavalerijos brigados kariavo prieš Rusai (0.78)"
-  temporaliniai_duomenys: "įvykio data: 1794 m.; įvykio data: 2004 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "609065-609348; hash=a0c09a0e4a585b241700774ea66f6b08cd1305080643edb536196e026f1acfa7; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyne -> Vilnius: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "2-oji ir 3-ioji Tautinės kavalerijos brigados: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Brigados buvo divizijos sudėtyje, kuri gynė Vilnių nuo rusų puolimo."
   pagrindžia:
     - c-44709
 - susijęs iš [[objektai/grupes/oji ir 3-ioji Tautinės kavalerijos brigados.md#claim-t-80647|oji ir 3-ioji Tautinės kavalerijos brigados]]: 2-oji ir 3-ioji Tautinės kavalerijos brigados priklausė gen. mjr. Jono Mejeno divizijai, gynusiai Vilnių nuo rusų puolimo.
@@ -75,8 +62,8 @@ Jono Mejeno divizija, kurią sudarė 2-0ji ir 3-ioji Tautinės kavalerijos briga
     1794 m. sukilimo
     kovų inscenizacija)
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -107,7 +94,3 @@ Jono Mejeno divizija, kurią sudarė 2-0ji ir 3-ioji Tautinės kavalerijos briga
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40822
-
-## Ryšiai
-- 2-oji ir 3-ioji Tautinės kavalerijos brigados gynė [[objektai/vietos/Vilnius]]
-- 2-oji ir 3-ioji Tautinės kavalerijos brigados kariavo prieš [[objektai/grupes/Rusai]]

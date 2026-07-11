@@ -41,19 +41,6 @@ Werminghoee, A.
 - t-001
   global_id: t-31987
   teiginys: "A. Werminghoee „Urkunde Ludwigs d. Bayers für den Hochmeister des Deutschen Ordens“ išspausdintas Archiv für Urkundenforschung 5 tome 1914 m., p. 21-40."
-  temporaliniai_duomenys: "įvykio data: 1914 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus bibliografinis faktas, paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "660628-660844; hash=6f5fa872f550f31696cf9261df3246a8764a31fcbe26ff7c1a619c96c2e46001; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Tomas (Hertvigo iš Pokarvių sūnus): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Werminghoee Urkunde Ludwigs d. Bayers für den Hochmeister des Deutschen Ordens: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Tomas (Hertvigo iš Pokarvių sūnus): mention_match, person, gap=126"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Werminghoee Urkunde Ludwigs d. Bayers für den Hochmeister des Deutschen Ordens\" parinktas kaip owner_note_path. Targetas \"Tomas (Hertvigo iš Pokarvių sūnus)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-33756
 ## Reikšmingi paminėjimai
@@ -68,8 +55,8 @@ Werminghoee, A.
     Archiv, f. Urkundenforschung, t. 5, 1914, 21-40 p. — Zajączkowski,
     St.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

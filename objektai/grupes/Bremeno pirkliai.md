@@ -46,20 +46,6 @@ Bremeno kilmės pirklių ir kolonistų grupė Baltijos prekybos kontekste.
 - t-001
   global_id: t-55060
   teiginys: "Bremeno pirkliai 1158 m. atrado Dauguvos žiotis ir užmezgė vokiečių prekybinius ryšius su tenykščiu pamariu."
-  semantiniai_rysiai: "Bremeno pirkliai prekiavo su Pamaris (0.91)"
-  temporaliniai_duomenys: "įvykio data: 1158 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys pilnas, gramatiškas ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "34660-35059; hash=18094be263f39d9e6643d51d9c2c52082a339e6c5ae0535da59aea7abd23ed5e; match=whitespace_regex"
-  sprendimo_priezastis: "gap::groups"
-  ryšio_patikimumas: "prekiavo_su -> Pamaris: 0.91"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Bremeno pirkliai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Pamaris: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai mini prekybinių ryšių užmezgimą su pamariu."
   pagrindžia:
     - c-55885
 
@@ -67,19 +53,6 @@ Bremeno kilmės pirklių ir kolonistų grupė Baltijos prekybos kontekste.
 - t-002
   global_id: t-55061
   teiginys: "Apie 1192 m. kolonija iš Bremeno, regis, įkūrė Rygą."
-  temporaliniai_duomenys: "įkūrimo data: 1158 m.; įkūrimo data: 1192 m.; įkūrimo data: apie 1192 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įkūrimo data su riba „circa“, o ne kaip tiksli pilna data."
-  temporalinis_llm_pakomentavimas: "Teiginys yra išbaigtas ir tiksliai perteikia citatos atsargią formuluotę."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "34660-35059; hash=18094be263f39d9e6643d51d9c2c52082a339e6c5ae0535da59aea7abd23ed5e; match=whitespace_regex"
-  sprendimo_priezastis: "gap::groups"
-  ryšio_patikimumas: "susije_su -> Bremenas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Bremeno pirkliai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Bremenas: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bremeno pirkliai\" parinktas kaip owner_note_path. Targetas \"Bremenas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-55885
 
@@ -87,20 +60,6 @@ Bremeno kilmės pirklių ir kolonistų grupė Baltijos prekybos kontekste.
 - t-003
   global_id: t-80802
   teiginys: "Bremeno pirkliai 1158 metais atrado Dauguvos žiotis ir užmezgė vokiečių prekybinius ryšius su tenykščiu pamariu."
-  semantiniai_rysiai: "Bremeno pirkliai prekiavo su Pamaris (0.91)"
-  temporaliniai_duomenys: "įvykio data: 1158 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir paremtas ta pačia citatos informacija."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "34660-35059; hash=18094be263f39d9e6643d51d9c2c52082a339e6c5ae0535da59aea7abd23ed5e; match=whitespace_regex"
-  sprendimo_priezastis: "gap::groups"
-  ryšio_patikimumas: "prekiavo_su -> Pamaris: 0.91"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Bremeno pirkliai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Pamaris: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai mini prekybinių ryšių užmezgimą su pamariu."
   pagrindžia:
     - c-55885
 - susijęs iš Daugava: Bremeno pirkliai 1158 m. atrado vakarinės Dvinos, arba Dauguvos, žiotis ir užmezgė prekybinius ryšius su tenykščiu pamariu.
@@ -140,8 +99,8 @@ Bremeno kilmės pirklių ir kolonistų grupė Baltijos prekybos kontekste.
     binius vokiečių ryšius su tenykščiu pamariu; o apie 1192 metus,
     regis, kolonija iš Bremeno įkūrė Rygą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

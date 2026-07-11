@@ -33,14 +33,6 @@ Tie vadai buvo vadinami rikiais ir kunigais.
 - t-001
   global_id: t-193298
   teiginys: "Tie vadai buvo vadinami rikiais ir kunigais."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "78414-78593; hash=626f6e7617dca4d9fe4f87f6157f206b45732703265a29bb5a99c78702096af3; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-176026
 ## Reikšmingi paminėjimai
@@ -54,8 +46,8 @@ Tie vadai buvo vadinami rikiais ir kunigais.
     vais. Jų valdžioje būdavo ir pilys. Tie vadai buvo vadinami
     rikiais ir kunigais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

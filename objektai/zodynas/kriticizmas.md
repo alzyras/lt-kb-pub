@@ -49,17 +49,6 @@ Istoriografijos metodo ir šaltinių kritikos terminas.
 - t-002
   global_id: t-188002
   teiginys: "Narbutas pabrėžė laikęsis „griežto kriticizmo“ ir apsiribojęs „kritikos patvirtinta medžiaga“."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "38802-39612; hash=049cc69cbebf445fb0dd63b637b102947a735c8a433f48d318f6efbdcac31284; match=exact"
-  sprendimo_priezastis: "gap::vocabulary"
-  ryšio_patikimumas: "susije_su -> T. Narbutas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "kriticizmas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "T. Narbutas: mention_match, author, gap=35"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"kriticizmas\" parinktas kaip owner_note_path. Targetas \"T. Narbutas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-171036
 ## Reikšmingi paminėjimai
@@ -87,8 +76,8 @@ Istoriografijos metodo ir šaltinių kritikos terminas.
     tikos patvirtinta medžiaga“, kad tikrinęs ir taisęs kur pastebė­
     jęs „aiškias klaidas“.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

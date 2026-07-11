@@ -58,17 +58,6 @@ Nenurodyta
 - t-002
   global_id: t-62814
   teiginys: "Po Folkvino ir daugelio brolių žūties popiežius įsakė Livonijos Kristaus karių ordino broliams vilkėti Teutonų ordino drabužius."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "273919-274845; hash=82045485ad4107932b1e941fce156a42ed6942246ab48cc4aa87994015545f35; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Drabužiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kalavijuočių ordino prijungimas prie Teutonų ordino ir Hermano Balko siuntimas į Livoniją (1236-1237 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Drabužiai: mention_match, thing, gap=106"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kalavijuočių ordino prijungimas prie Teutonų ordino ir Hermano Balko siuntimas į Livoniją (1236-1237 m.)\" parinktas kaip owner_note_path. Targetas \"Drabužiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-63627
 
@@ -76,21 +65,6 @@ Nenurodyta
 - t-003
   global_id: t-62815
   teiginys: "1237 m. didysis magistras Hermanas pasiuntė Hermaną Balką su 40 brolių ir daugybe ginklanešių į Livoniją."
-  teiginio_tipas: "saltinio_teiginys"
-  semantiniai_rysiai: "Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) paskyrė Hermanas Balkas (0.88); Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) siuntė į Livonija (0.86)"
-  temporaliniai_duomenys: "įvykio data: 1237 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sakinys yra pilnas, aiškus ir tiksliai paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "273919-274845; hash=82045485ad4107932b1e941fce156a42ed6942246ab48cc4aa87994015545f35; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "paskyre -> Hermanas Balkas: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Hermanas Balkas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Didysis magistras Hermanas tiesiogiai siunčia Hermaną Balką į Livoniją, todėl pavedimo ryšys aiškus."
   pagrindžia:
     - c-63627
 
@@ -98,18 +72,6 @@ Nenurodyta
 - t-001
   global_id: t-62816
   teiginys: "Hartmano iš Heldrungeno „Pranešimas“ aprašo Kalavijuočių ordino susijungimą su Vokiečių ordinu ir Livonijos atitekimą Vokiečių ordinui."
-  teiginio_tipas: "saltinio_teiginys"
-  semantiniai_rysiai: "Livonija priklausė Kryžiuočių ordinas (0.82)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "65478-65794; hash=f13042433b202c8b7dc7f0e16a05974b57a44ef427fe3a9f2eab2a116e72eee3; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Kryžiuočių ordinas: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Livonija: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Livonija atiteko Vokiečių ordinui, kuris kandidatų sąraše atitinka Kryžiuočių ordiną."
   pagrindžia:
     - c-63629
 
@@ -117,19 +79,6 @@ Nenurodyta
 - t-004
   global_id: t-62817
   teiginys: "263 Popiežius patvirtino abiejų ordinų susijungimą 1237.V.12."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "273919-274845; hash=82045485ad4107932b1e941fce156a42ed6942246ab48cc4aa87994015545f35; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Drabužiai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kalavijuočių ordino prijungimas prie Teutonų ordino ir Hermano Balko siuntimas į Livoniją (1236-1237 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Drabužiai: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kalavijuočių ordino prijungimas prie Teutonų ordino ir Hermano Balko siuntimas į Livoniją (1236-1237 m.)\" parinktas kaip owner_note_path. Targetas \"Drabužiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
-  vertinimo_autorius: "claim_quality_pipeline / rewrite"
   pagrindžia:
     - c-63627
     - c-63628
@@ -138,12 +87,6 @@ Nenurodyta
 - t-005
   global_id: t-194391
   teiginys: "Dusburgietis teigia, kad kaip tik tuo metu iš Livonijos buvo atvykęs ir brolis Gerlachas Rudasis, kuris pranešė, kad magistras Folkvinas, daug brolių, maldininkų ir šiaip dievo žmonių krito kovoje262."
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "273919-274845; hash=82045485ad4107932b1e941fce156a42ed6942246ab48cc4aa87994015545f35; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-63627
 
@@ -151,12 +94,6 @@ Nenurodyta
 - t-006
   global_id: t-194392
   teiginys: "Šitai išgirdęs, jo šventenybė popiežius nutraukė derybas ir papuošė mūsų minėtus brolius Gerlachą ir Joną šventosios Marijos Teutonų namų ligoninės ordino drabužiais, duodamas jiems baltą apsiaustą su juodu kryžiumi ir įsakydamas jiems bei kitiems to paties."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "273919-274845; hash=82045485ad4107932b1e941fce156a42ed6942246ab48cc4aa87994015545f35; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-63627
 ## Reikšmingi paminėjimai
@@ -176,8 +113,8 @@ Nenurodyta
     žemę, kur, kaip jau aukščiau esame sakę, brolis Hermanas Balkas beveik šešerius metus
     vadovavo, o sugrįžęs į Vokietiją, rado ten amžinojo poilsio vietą264 (1237).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -194,8 +131,8 @@ Nenurodyta
     263 Popiežius patvirtino abiejų ordinų susijungimą 1237.V.12.
       264  Žr. paaiškinimus D. II, 12, 182.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -210,8 +147,8 @@ Nenurodyta
     dvaruose dėl ordinų susijungimo vykusias derybas, kurias užbaigė popiežiaus sprendimas
     po kalavijuočių pralaimėjimo Saulės—Šiaulių mūšyje.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -222,7 +159,8 @@ Nenurodyta
 - id: c-63627
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 83"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 83."
   citata_originali: |
     Kaip tik tuo metu iš Livonijos buvo atvykęs ir brolis Gerlachas
     Rudasis, kuris pranešė, kad magistras Folkvinas, daug brolių, maldininkų ir šiaip dievo
@@ -250,7 +188,8 @@ Nenurodyta
 - id: c-63628
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 83"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 83."
   citata_originali: |
     263 Popiežius patvirtino abiejų ordinų susijungimą 1237.V.12.
       264  Žr. paaiškinimus D. II, 12, 182.
@@ -265,7 +204,8 @@ Nenurodyta
 - id: c-63629
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 23"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 23."
   citata_originali: |
     Hartmano iš Heldrungeno „Pranešimas...“ aprašo, kaip Kalavijuočių ordinas susijungė
     su Vokiečių ordinu ir kaip Livonija atiteko pastarajam116, parodo imperatoriaus ir popiežiaus

@@ -42,18 +42,6 @@ Griūvant Versalio sistemos postulatams, Tautų Sąjungai nebegarantuojant jos n
 - t-001
   global_id: t-75520
   teiginys: "Tautų Sąjungos Statuto 16 straipsnis galėjo reikalauti leisti užsienio kariuomenėms kirsti Baltijos valstybių teritoriją."
-  temporaliniai_duomenys: "įvykio data: 1938 m.; įvykio data: 1939 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "368507-369201; hash=9df69e10fbec65427c144c9b4e85f9782d41de4b0f0aa698bf643e62fb86e485; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Baltija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Tautų Sąjungos Statutas: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Baltija: mention_match, place, gap=91"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tautų Sąjungos Statutas\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-73281
 
@@ -61,19 +49,6 @@ Griūvant Versalio sistemos postulatams, Tautų Sąjungai nebegarantuojant jos n
 - t-002
   global_id: t-75521
   teiginys: "1938 m. Baltijos šalių ministrai nutarė neleisti užsienio kariuomenėms kirsti jų teritorijų net pagal Tautų Sąjungos Statuto 16 straipsnį."
-  temporaliniai_duomenys: "įvykio data: 1938 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo veikėjus, datą, veiksmą ir Statuto 16 straipsnį."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "368405-368921; hash=935967a3d0681f23d56cd1b2c8c9a8f1f7a3b22acea25e3e5729e9e4e1eb450f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Baltija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Tautų Sąjungos Statutas: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Baltija: mention_match, place, gap=94"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tautų Sąjungos Statutas\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-73282
 ## Reikšmingi paminėjimai
@@ -95,8 +70,8 @@ Griūvant Versalio sistemos postulatams, Tautų Sąjungai nebegarantuojant jos n
     tarp Varšuvos, Maskvos ir Berlyno, stengdamasi neįsivelti į karinį konf-
     liktą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -117,8 +92,8 @@ Griūvant Versalio sistemos postulatams, Tautų Sąjungai nebegarantuojant jos n
     jų teritoriją, net jeigu to būtų pareikalauta pagal Tautų Sąjungos Statuto
     16-ą straipsnį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -61,16 +61,6 @@ Nenurodyta
 - t-001
   global_id: t-86983
   teiginys: "Martinas Galias rašė, kad Poznanė duodavo 1300 šarvuotųjų ir 4000 skydais ginkluotų karių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "37183-37481; hash=92843d19218e20510e0f8be61e14140aa5f989b990b692c2bb7d2ee5bd8b56d3; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gnieznas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ginklai, skydai, šarvai ir šaudymo reikmenys: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Gnieznas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ginklai, skydai, šarvai ir šaudymo reikmenys\" parinktas kaip owner_note_path. Targetas \"Gnieznas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-82964
 
@@ -78,17 +68,6 @@ Nenurodyta
 - t-003
   global_id: t-86984
   teiginys: "Bisenės pilies įgula atrėmė vokiečius nepaisydama jų sunkiųjų ginklų."
-  semantiniai_rysiai: "Kryžiuočių ordinas puolė Bisenė (0.95)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "158401-158955; hash=6d3b9416fe7ae70d53b3bcd6d17941d8e955f01a2f9efbfa182000d908a50800; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Bisenė: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Bisenė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo kryžiuočių kariaunos puolimą Bisenės link."
   pagrindžia:
     - c-82963
 
@@ -96,17 +75,6 @@ Nenurodyta
 - t-002
   global_id: t-86985
   teiginys: "Per Kęstučio laidotuves Vilniuje kartu su jo palaikais buvo sudeginti drabužiai, ginklai, žirgai, medžiokliniai šunys ir paukščiai."
-  semantiniai_rysiai: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.) buvo palaidotas Vilnius (0.94)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "108315-109446; hash=f0b2037a20bb555b6be6b7f317d702e4d5e8fc9c473550408ce0570a65b80a91; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_palaidotas -> Vilnius: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Kęstučio laidotuves Vilniuje."
   pagrindžia:
     - c-82965
 
@@ -114,16 +82,6 @@ Nenurodyta
 - t-005
   global_id: t-86986
   teiginys: "Iki 1565 metų Žygimanto Augusto lėšomis Lietuvos Didžiojoje Kunigaikštystėje gaminti ginklai ir amunicija buvo paliekami Vilniuje ir siunčiami į kitas pilis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "617211-617992; hash=3b95585eca9aff2b310be61c1379613eeeaa1b683142737a2af827a16a0b48e3; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Ginklai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ginklai, skydai, šarvai ir šaudymo reikmenys: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Ginklai: mention_match, thing, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ginklai, skydai, šarvai ir šaudymo reikmenys\" parinktas kaip owner_note_path. Targetas \"Ginklai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-82966
 
@@ -131,16 +89,6 @@ Nenurodyta
 - t-006
   global_id: t-86987
   teiginys: "Vertingiausi ginklai turėjo vardus: keturios didžiosios akmenų patrankos vadinosi Elgeta, Vytautas, Boba ir Augustas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "618599-619388; hash=3534522f5c8c9e8d31275ec1a71197cb1b4a4ed3649202cc283ce621e669729c; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Ginklai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ginklai, skydai, šarvai ir šaudymo reikmenys: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Ginklai: mention_match, thing, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ginklai, skydai, šarvai ir šaudymo reikmenys\" parinktas kaip owner_note_path. Targetas \"Ginklai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-82962
 
@@ -148,16 +96,6 @@ Nenurodyta
 - t-007
   global_id: t-86988
   teiginys: "Lietuvos provincijos tvirtovėms buvo siunčiami naujai pagaminti pabūklai, ginklai, kulkos ir apkasams reikalinga įranga."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "620856-621701; hash=054979e2a24d6c32ee20703888c913bce0564b6920e11b5b2d260c1aab796dee; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Ginklai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ginklai, skydai, šarvai ir šaudymo reikmenys: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Ginklai: mention_match, thing, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ginklai, skydai, šarvai ir šaudymo reikmenys\" parinktas kaip owner_note_path. Targetas \"Ginklai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-82968
 
@@ -165,17 +103,6 @@ Nenurodyta
 - t-004
   global_id: t-86989
   teiginys: "Vilniaus miestiečiai gynybai turėjo turėti šarvus, muškietą ir ragotinę, o miesto taryba prižiūrėjo patrankas ir arkebuzas."
-  semantiniai_rysiai: "Vilniaus miestiečių luomas gynė Vilnius (0.82)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "519676-520351; hash=6bba86c2e49039f4339bc34017b430231426adf8150ea6400fcdc7bd1ae45831; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyne -> Vilnius: 0.82"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vilniaus miestiečių luomas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata nurodo, kad miestiečiai privalėjo turėti ginklus miesto gynybai."
   pagrindžia:
     - c-82967
 ## Reikšmingi paminėjimai
@@ -206,8 +133,8 @@ Nenurodyta
     Elgeta
     Quos gemitus noster non flectit; fulmina flectent.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -232,8 +159,8 @@ Nenurodyta
     joms kautynėms, gynėjai prašė taikos ir davė įkaitų laiduo­
     dami, kad sutiksią paklusti Ordinui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -254,8 +181,8 @@ Nenurodyta
     jų, 2 000 su skydais, Gdečas - 300
     pirmųjų ir 2 000 antrųjų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -297,8 +224,8 @@ Nenurodyta
     buvo sudeginta: medžiokliniai
     paukščiai ir šunys su juo sudeginti].
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -328,8 +255,8 @@ Nenurodyta
     paimta iš tos pačios knygos, geriausiai visa tai paaiškina. Iš
     jos pateikiame tik bendrą sumą ir pilių pavadinimus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -352,8 +279,8 @@ Nenurodyta
     tinės ginkluotės sargybinius, kad tvarkos mieste būtų žiūri­
     ma dieną ir naktį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -379,8 +306,8 @@ Nenurodyta
     ir jų liejimo formas bei daugybę įrangos, reikalingos apka­
     sams daryti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

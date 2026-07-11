@@ -55,21 +55,6 @@ Nenurodyta
 - t-001
   global_id: t-62333
   teiginys: "1200 m. Konstantinopolį užėmė prancūzai ir Venecijos kariai, o Flandrijos grafas Balduinas tapo imperatoriumi."
-  teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Prancūzai užėmė Konstantinopolis (0.88); Lotynai valdė miestą Konstantinopolis (0.82)"
-  temporaliniai_duomenys: "įvykio data: 1200 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys pilnas, faktinis ir paremtas citatos turiniu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "692161-692591; hash=11c8f5d2039245f5d7608166d31cc3250371ccc06e56f0d1a507dbe4c3f82009; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Konstantinopolis: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Prancūzai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Konstantinopolis: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Sakinys nurodo, kad Konstantinopolio miestą užėmė prancūzai ir Venecijos kariai."
   pagrindžia:
     - c-62896
 ## Reikšmingi paminėjimai
@@ -86,8 +71,8 @@ Nenurodyta
     apgavo miestiečius. Ir tapo ten Balduinas, Flandrijos grafas, imperatoriumi, ir valdė ten
     lotynai 57 metus (Ptol. 21,4; Mart. p. 387).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -98,7 +83,8 @@ Nenurodyta
 - id: c-62896
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 225"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 225."
   citata_originali: |
     Apie Konstantinopolio miesto užėmimą
 

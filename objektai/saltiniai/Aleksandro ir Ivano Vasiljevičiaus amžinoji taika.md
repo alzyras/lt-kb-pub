@@ -30,12 +30,6 @@ Nuvykę į Maskvą, pas didįjį kunigaikštį Ivaną VaSiljevičių, jie sudar�
 - t-001
   global_id: t-194158
   teiginys: "Nuvykę į Maskvą, pas didįjį kunigaikštį Ivaną VaSiljevičių, jie sudarė su juo amžiną taiką ir, sutvirtin dami sutartį, prisiekė 1 5 už save ir už savo vaikus, ir susitarė, kad jo duktė, didžioji kunigaikštytė Elena l9 , tekės už didžiojo kunigaikščio."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "255191-255674; hash=c2ceb1dd2f0ead0c37526cb3b550a27e2d9feb71b400b37a8e8275d3d39816a6; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176771
 ## Reikšmingi paminėjimai
@@ -54,8 +48,8 @@ Nuvykę į Maskvą, pas didįjį kunigaikštį Ivaną VaSiljevičių, jie sudar�
     smolenskiečius, kurie tuose miestuose buvo paimti ne­
     laisvėn, paleido į Smolenską l!.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

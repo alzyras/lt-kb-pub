@@ -36,21 +36,6 @@ Narbutas herulus laiko ta pačia gentimi, kuri anksčiau buvo vadinama hiriais. 
 - t-001
   global_id: t-192926
   teiginys: "Narbutas herulus laiko ta pačia gentimi, kuri anksčiau buvo vadinama hiriais."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "528904-529328; hash=b7e896678771c051706e63e2cfdd1841685f33c90081155e89f6d5a4c1cc6a09; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gotai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Hiriai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Gotai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Hiriai\" parinktas kaip owner_note_path. Targetas \"Gotai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175696
 
@@ -58,21 +43,6 @@ Narbutas herulus laiko ta pačia gentimi, kuri anksčiau buvo vadinama hiriais. 
 - t-002
   global_id: t-192927
   teiginys: "Narbutas spėja, kad hiriai, eidami paskui gotus, apie II amžiaus pabaigą apsigyveno dešiniajame Dnestro krante."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "532724-533577; hash=084b26f71b303b735ef991ed036bdc4713372243b6db2a33f7cf494f7399f8b2; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gotai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Hiriai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Gotai: mention_match, group, gap=22"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Hiriai\" parinktas kaip owner_note_path. Targetas \"Gotai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175697
 
@@ -80,21 +50,6 @@ Narbutas herulus laiko ta pačia gentimi, kuri anksčiau buvo vadinama hiriais. 
 - t-003
   global_id: t-192928
   teiginys: "Pasak Narbuto istorijos supratimo, hiriai į Rytus atėjo iš lietuvių krašto prie Jūros upės dešiniajame Nemuno žemupio krante."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "535027-535739; hash=50f4bd0dc5d6f56eef023b38eecba182471e84fd1d78296e7680656d9d0e83c8; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Upės (Oppen) kaimas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Hiriai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Upės (Oppen) kaimas: mention_match, place, gap=51"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Hiriai\" parinktas kaip owner_note_path. Targetas \"Upės (Oppen) kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175698
 - susijęs iš [[objektai/asmenys/Johanas Foigtas.md#claim-t-190889|Johanas Foigtas]]: Narbutas vertina, kad Johanas Foigtas, svarstydamas skirių ir hirių gentis, pateko į keblią padėtį ir darė netaiklias išvadas.
@@ -133,8 +88,8 @@ Narbutas herulus laiko ta pačia gentimi, kuri anksčiau buvo vadinama hiriais. 
     minimi herulai; tai gentis, laikoma ta pačia, kuri anks­
     čiau buvo vadinama hiriais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -161,8 +116,8 @@ Narbutas herulus laiko ta pačia gentimi, kuri anksčiau buvo vadinama hiriais. 
     rie vertėsi žemdirbyste, buvo vaišingi ir troško draugiš­
     kų santykių su kitais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -187,8 +142,8 @@ Narbutas herulus laiko ta pačia gentimi, kuri anksčiau buvo vadinama hiriais. 
     vių krašto, esančio Nemuno žemupio dešiniojoje pakran­
     tėje, kur jie gyveno prie Jūros upės.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -199,7 +154,8 @@ Narbutas herulus laiko ta pačia gentimi, kuri anksčiau buvo vadinama hiriais. 
 - id: c-175696
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 295"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 295."
   citata_originali: |
     290
     Istorijoje esama aiškių įrodymų, kad tarp gotų buvę
@@ -220,7 +176,8 @@ Narbutas herulus laiko ta pačia gentimi, kuri anksčiau buvo vadinama hiriais. 
 - id: c-175697
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 297"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 297."
   citata_originali: |
     Gotams persikėlus į deši­
     nįjį Dnestro krantą, tai žinoma iš gotų istorijos ir Bizan­
@@ -248,7 +205,8 @@ Narbutas herulus laiko ta pačia gentimi, kuri anksčiau buvo vadinama hiriais. 
 - id: c-175698
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 298"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 298."
   citata_originali: |
     294
     Išsiaiškinus visus šiuos dalykus, nereikia abejoti, kad
@@ -272,5 +230,4 @@ Narbutas herulus laiko ta pačia gentimi, kuri anksčiau buvo vadinama hiriais. 
     - t-192928
 
 ## Ryšiai
-- Sąjungininkai: [[objektai/grupes/Gotai]]
-- Hiriai keliavo į [[objektai/vietos/Dnepras]], [[objektai/vietos/Donas]]
+- Hiriai keliavo į [[objektai/vietos/Dnepras]]

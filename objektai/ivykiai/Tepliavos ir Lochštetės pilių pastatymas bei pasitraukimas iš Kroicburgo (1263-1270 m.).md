@@ -58,20 +58,6 @@ Nenurodyta
 - t-001
   global_id: t-62501
   teiginys: "Petro Dusburgiečio kronikoje Tepliavos ir Lochštetės pilių pastatymas aprašytas prieš pasitraukimą iš Kroicburgo, nors šis datuojamas 1263 m."
-  teiginio_tipas: "faktas"
-  temporaliniai_duomenys: "pastatymo data: 1263 m.; pastatymo data: 1265 m.; pastatymo data: 1270 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra apie kronikos chronologinį išdėstymą, todėl reikalinga autoriaus atribucija."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "83390-83825; hash=fede4ac65070ecac822f87143539970cac658be572dc4e78103ede310766a274; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kroicburgas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Tepliavos ir Lochštetės pilių pastatymas bei pasitraukimas iš Kroicburgo (1263-1270 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Kroicburgas: mention_match, place, gap=73"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tepliavos ir Lochštetės pilių pastatymas bei pasitraukimas iš Kroicburgo (1263-1270 m.)\" parinktas kaip owner_note_path. Targetas \"Kroicburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-63173
 ## Reikšmingi paminėjimai
@@ -88,8 +74,8 @@ Nenurodyta
     pastatyta 1265 m.., o antroji 1270 m.138), o jau po to aprašoma, kaip broliai pasitraukė
     iš Kroicburgo (įvykį kronikininkas datuoja 1263 m.) (III, 118).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -100,7 +86,8 @@ Nenurodyta
 - id: c-63173
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 28"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 28."
   citata_originali: |
     Netikslumai, tendencija
 

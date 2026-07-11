@@ -30,14 +30,6 @@ Tačiau skitų likučiai tikrąja šio pavadinimo prasme išliko Rytuose iki II 
 - t-001
   global_id: t-194881
   teiginys: "Tačiau skitų likučiai tikrąja šio pavadinimo prasme išliko Rytuose iki II amžiaus prieš Kristaus gimimą, nes iš istorijos žinome, kad 130 metais prieš mūsų erą skitų 1 Justin."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "101054-101973; hash=c1eeb3c416f1adb3392c980a1f986ad35920902d2aa6dbaa4b9e472dc855abd5; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-177277
 ## Reikšmingi paminėjimai
@@ -65,8 +57,8 @@ Tačiau skitų likučiai tikrąja šio pavadinimo prasme išliko Rytuose iki II 
     iš istorijos žinome, kad 130 metais prieš mūsų erą skitų
     1 Justin. L. II, 3; XII. 2; XXXVII, 3*.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -77,7 +69,8 @@ Tačiau skitų likučiai tikrąja šio pavadinimo prasme išliko Rytuose iki II 
 - id: c-177277
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 58"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 58."
   citata_originali: |
     Tačiau jie pakentė tai neilgai, nes istorijoje ran­
     dame prisiminimų apie skitų genčių susidūrimą su Pi­

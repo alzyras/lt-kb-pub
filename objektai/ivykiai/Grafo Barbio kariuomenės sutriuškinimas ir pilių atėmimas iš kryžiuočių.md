@@ -42,20 +42,6 @@ Nenurodyta
 - t-002
   global_id: t-185569
   teiginys: "Po pergalių iš kryžiuočių buvo atimtos Heilsbergo, Kroicburgo, Karaliaučiaus ir Bartenšteino pilys bei miestai."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Kryžiuočių ordinas priklausė Bartenšteinas (0.70)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "177462-177968; hash=24ff136506cd98d8ebc55c3c2abd3096137addfc53ea39a28c953712ab835917; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Bartenšteinas: 0.70"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Bartenšteinas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Atėmimas iš kryžiuočių rodo ankstesnę Bartenšteino priklausomybę kryžiuočiams, nors ryšys išvestinis."
   pagrindžia:
     - c-168930
 
@@ -63,12 +49,6 @@ Nenurodyta
 - t-003
   global_id: t-193354
   teiginys: "Šio vargingo likimo jis du kartus buvo išvengęs, pa sigailėjus kai kuriems prūsams, su kuriais anksčiau buvo susidraugavęs; kai trečią kartą krito toks pat burtas, jis su panieka atsisakė gyvybės, už kurią tu rėtų dėkoti gailestingiesiems barbarams."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "177030-177520; hash=bdf47d12fabcdadaa1369750181099cdbd871425f14291f85b6c782a580978de; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176082
 ## Reikšmingi paminėjimai
@@ -90,8 +70,8 @@ Nenurodyta
     vo kunigaikščio vaikaitis, palydėjo Mindaugą į žygį
     Mazovijos žemėn.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -113,8 +93,8 @@ Nenurodyta
     kinta per pačią šventosios Agnetės šventę. Pats va­
     das, praradęs kariuomenę, pateko į priešų rankas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -125,7 +105,8 @@ Nenurodyta
 - id: c-168930
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 106"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 106."
   citata_originali: |
     Pats va­
     das, praradęs kariuomenę, pateko į priešų rankas. Po

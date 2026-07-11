@@ -32,9 +32,6 @@ Dusburgietis teigia, kad šitaip sugalvojęs, pamatė sapne šventuosius Bernard
 - t-001
   global_id: t-60418
   teiginys: "Dusburgiečio pasakojime sapne regėtas šventasis Pranciškus su kitais šventaisiais atsisakė priimti maldaujantįjį į savo bendrininkus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "249654-249879; hash=b4c2b7fc6660bb9c4d74b57fd09792e8c0a4bb4028d894b94598180b584011d7; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-61050
 - susijęs iš [[objektai/autoriai/Pranciškus de Comitibus.md#claim-t-35472|Pranciškus de Comitibus]]: Pranciškus de Comitibus užrašė, kad Vytauto bijojo ir jį gerbė totorių ciesorius, vyriausiasis chanas.
@@ -49,8 +46,8 @@ Dusburgietis teigia, kad šitaip sugalvojęs, pamatė sapne šventuosius Bernard
     Augustiną, žingsniuojančius jo brolių priekyje, kurių jis su ašaromis maldaute maldavo
     priimti ir jį į savo bendrininkus, tačiau jie visi atsisakė.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -61,7 +58,8 @@ Dusburgietis teigia, kad šitaip sugalvojęs, pamatė sapne šventuosius Bernard
 - id: c-61050
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 75"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 75."
   citata_originali: |
     Šitaip sugalvojęs, pamatė sapne šventuosius Bernardą, Domininką, Pranciškų ir
     Augustiną, žingsniuojančius jo brolių priekyje, kurių jis su ašaromis maldaute maldavo

@@ -41,20 +41,6 @@ Kai sužinojo, kad kryžiuočių pasiuntinys, Tomo komtūras, atvyko pas Jogail�
 - t-001
   global_id: t-34728
   teiginys: "1429 m. Vytautas pasiuntė Vilniaus vaivadą Gedgaudą į Lenčicą kaip savo delegatą pas Jogailą."
-  semantiniai_rysiai: "Gedgaudas keliavo į Lenčica (0.86)"
-  temporaliniai_duomenys: "įvykio data: 1429 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sutvarkytas OCR triukšmas ir paliktas faktas apie Gedgaudo vaidmenį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "545502-545790; hash=98b7e9d04f61620815787b5893dc222ec7b68588b989e6bd7b6cb67ee1a89330; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Lenčica: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gedgaudas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lenčica: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Gedgaudas buvo vienas iš delegatų, kurie atvyko į Lenčicą."
   pagrindžia:
     - c-35953
 ## Reikšmingi paminėjimai
@@ -69,8 +55,8 @@ Kai sužinojo, kad kryžiuočių pasiuntinys, Tomo komtūras, atvyko pas Jogail�
     poldum). Atvykę jie į Lenčicą (1429 VI. 18), įteikė Jogailai Vy­
     tauto laišką.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -96,6 +82,3 @@ Kai sužinojo, kad kryžiuočių pasiuntinys, Tomo komtūras, atvyko pas Jogail�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-34728
-
-## Ryšiai
-- Gedgaudas keliavo į [[objektai/vietos/Lenčica]]

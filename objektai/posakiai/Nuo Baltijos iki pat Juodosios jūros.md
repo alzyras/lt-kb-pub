@@ -35,16 +35,6 @@ media_all_json: |-
 - t-001
   global_id: t-86866
   teiginys: "Vytauto užkariavimai pastūmė Lietuvos sienas nuo Baltijos iki Juodosios jūros, bet Vilniui tai dar nebuvo gražiausia epocha."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "296369-297259; hash=216b838271cef42a28debd3a8e8443e2355e55cb05def6690e189dd2367c82a6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Baltija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Nuo Baltijos iki pat Juodosios jūros: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Baltija: mention_match, place, gap=4"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Nuo Baltijos iki pat Juodosios jūros\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-82845
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176741|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytauto valdymo užkariavimai pastūmė Lietuvos sienas nuo Baltijos iki Juodosios jūros.
@@ -81,8 +71,8 @@ media_all_json: |-
     valiojo greit pakilti iš vargų, kokius patyrė per pastarąsias
     apgultis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

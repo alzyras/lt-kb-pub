@@ -42,12 +42,6 @@ media_all_json: |-
 - t-001
   global_id: t-185249
   teiginys: "Smolensko vaivadą Stanislovą Kišką pasiekė žinia, kad prie Vedrošos pasirodė priešų kariuomenė."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "988652-989062; hash=ed7ed4970d906e58626da6fff650afda1e4ee16591a5ba7211cdac4bad9875db; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-168610
 
@@ -55,12 +49,6 @@ media_all_json: |-
 - t-002
   global_id: t-185250
   teiginys: "Žvalgai pranešė, kad didelės priešo pajėgos įsitvirtino abiejuose Vedrošos krantuose."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "989249-989758; hash=7a8103db981770f4ee5de174c4ea1623b5f4ac4e33dee6c89b0a5c3ccfedc4eb; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-168611
 
@@ -68,12 +56,6 @@ media_all_json: |-
 - t-003
   global_id: t-185251
   teiginys: "Po paliaubų Lietuva neatgavo prie Vedrošos į nelaisvę paimtų didikų, kurie liko Maskvos rankose."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1013011-1013446; hash=4054ab63f909a5ff9dd3ee9b454afa866c1fab06a98c5c8720c23ef1b4c6937e; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-168612
 
@@ -81,12 +63,6 @@ media_all_json: |-
 - t-004
   global_id: t-193440
   teiginys: "Kai susirinkę jie tarėsi, kaip reikės kariauti, Smolensko vaivadą Stanislovą Kišką pasiekė žinia, kad prie Vedrošos pasirodžiusi priešų kariuomenė."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "988652-989062; hash=ed7ed4970d906e58626da6fff650afda1e4ee16591a5ba7211cdac4bad9875db; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-168610
 
@@ -94,12 +70,6 @@ media_all_json: |-
 - t-005
   global_id: t-193441
   teiginys: "Šiek tiek pažygiavus, žvalgai pra nešė, jog didelės priešo jėgos tikrai įsitvirtinusios abie juose Vedrošos krantuose, o dalis raitelių, atsiskyrusių nuo kitų jėgų ir išsirikiavusių kautynių tvarka plyna me lauke, už dviejų mylių laukianti atvykstančių lietu."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "989249-989758; hash=7a8103db981770f4ee5de174c4ea1623b5f4ac4e33dee6c89b0a5c3ccfedc4eb; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-168611
 
@@ -107,12 +77,6 @@ media_all_json: |-
 - t-006
   global_id: t-193442
   teiginys: "Pavyko atgauti vieną kitą nereikšmingą pilį, bet neatgavo nei pabėgėlių, nei ištisų žemių, nei pa galiau didikų, prie Vedrošos paimtų į nelaisvę, kurie pasiliko Maskvos rankose."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1013011-1013446; hash=4054ab63f909a5ff9dd3ee9b454afa866c1fab06a98c5c8720c23ef1b4c6937e; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-168612
 
@@ -120,12 +84,6 @@ media_all_json: |-
 - t-007
   global_id: t-193443
   teiginys: "Jie susitarė šitaip. Ir viena, ir kita šalis be jokių išlygų paleisianti į laisvę belaisvius, pirmiausia tuos, kurie paimti prie Vedrošos."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1076336-1076661; hash=8bfd4059aa1f12a4f872d12107fc794658874bfdf43781f82d528d5e82bc2f7f; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176156
 - susijęs iš [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.).md#claim-t-195013|Klecko mūšis (1506 m. rugpjūčio 6 d.)]]: Klecko mūšis buvo pirmoji stambi lietuvių pergalė po Vedrošos pralaimėjimo ir pirmoji Lietuvos pergalė prieš Krymo totorius apskritai.
@@ -150,8 +108,8 @@ media_all_json: |-
     \
     ¡šimtus vyrų.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -173,8 +131,8 @@ media_all_json: |-
     vių. Pagrindinės priešų jėgos bei jų stovykla esančios
     už upės, pulti trukdysią krūmai ir pelkės.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -195,8 +153,8 @@ media_all_json: |-
     vo vaivadoms buvo įsakyta tartis su magistro atsto­
     vais dėl taikos.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -217,8 +175,8 @@ media_all_json: |-
     belaisvius, pirmiausia tuos, kurie paimti prie Vedro-
     šos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -255,7 +213,8 @@ media_all_json: |-
 - id: c-168611
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 559"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 559."
   citata_originali: |
     Štai todėl ir pamanė,
     jog maskvėnai įprastu būdu dedasi esą stipresni nei iš
@@ -278,7 +237,8 @@ media_all_json: |-
 - id: c-168612
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 572"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 572."
   citata_originali: |
     Vargais negalais abi pusės sutarė dėl šešerių
     metų paliaubų, tiesa, gana bjauriomis Lietuvai sąly­
@@ -300,7 +260,8 @@ media_all_json: |-
 - id: c-176156
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 606"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 606."
   citata_originali: |
     Štai todėl Jonui Sapiegai, val­
     dančiam karaliaus vardu Vi-

@@ -50,16 +50,6 @@ Daug geriau buvo sutvarkytas unitų švietimas. Jų vienuolynų buvo net Žemai�
 - t-003
   global_id: t-45238
   teiginys: "Bajoriškoji santvarka leido šalia katalikų egzistuoti kalvinistų, liuteronų, stačiatikių, unitų ir kitoms etnokonfesinėms bendrijoms."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "694931-695296; hash=992604bf4992e7d06518684524cd8f20b0f09129aa323f5ccff876675aaed823; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Unitai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Unitai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-48118
 
@@ -67,20 +57,6 @@ Daug geriau buvo sutvarkytas unitų švietimas. Jų vienuolynų buvo net Žemai�
 - t-002
   global_id: t-182929
   teiginys: "Unitų bazilijonų vienuolynų buvo net Žemaičių Padubysyje, nors ten nebuvo nei pravoslavų, nei unitų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Unitai gyveno Lietuva (0.62)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "694931-695296; hash=992604bf4992e7d06518684524cd8f20b0f09129aa323f5ccff876675aaed823; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Lietuva: 0.62"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Unitai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata rodo unitų bazilijonų vienuolynų buvimą Lietuvoje; tai netiesiogiai remia unitų institucijų buvimą Lietuvoje."
   pagrindžia:
     - c-46404
 - susijęs iš [[objektai/grupes/Unitų bažnyčia unitai.md#claim-t-101479|Unitų bažnyčia unitai]]: 1839 m. Unitų bažnyčia buvo likviduota, o unitai prievarta grąžinti į Rusų stačiatikių bažnyčią.
@@ -110,8 +86,8 @@ Daug geriau buvo sutvarkytas unitų švietimas. Jų vienuolynų buvo net Žemai�
     prie jų vienuolynų buvo bent pradžios mokyklų, o kai kur net
     ir aukštesniųjų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -139,8 +115,8 @@ Daug geriau buvo sutvarkytas unitų švietimas. Jų vienuolynų buvo net Žemai�
     vazija (1654–1667), o valdant Saksų dinastijai (1697–1763) Lietuva tapo
     Šiaurės karo (1700–1721) tarp Rusijos ir Švedijos kovų arena.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -196,7 +172,3 @@ Daug geriau buvo sutvarkytas unitų švietimas. Jų vienuolynų buvo net Žemai�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-45238
-
-## Ryšiai
-- Unitai gyveno [[objektai/vietos/Galicija]], [[objektai/vietos/Lietuva]]
-- Unitai priklausė [[objektai/grupes/Rusų stačiatikių bažnyčia]]

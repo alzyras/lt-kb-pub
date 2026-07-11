@@ -39,17 +39,6 @@ Dusburgietis teigia, kad apie Auktuolyčių pilies užkariavimą Neilgai trukus 
 - t-001
   global_id: t-58523
   teiginys: "Brolis Ditrichas Nadruvos Katavos valsčiuje su kariuomene puolė Auktuolyčių pilį ir po kelių antpuolių į ją įsiveržė."
-  semantiniai_rysiai: "Auktuolyčiai priklausė Nadruva (0.72)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "476576-477189; hash=5c652ff6025e475b200f3d912e2cc7a414570313217633046d0a46b62af9a8c0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Nadruva: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Auktuolyčiai: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Nadruva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Auktuolyčių pilis nurodoma Nadruvos valsčiuje."
   pagrindžia:
     - c-59156
 
@@ -57,9 +46,6 @@ Dusburgietis teigia, kad apie Auktuolyčių pilies užkariavimą Neilgai trukus 
 - t-002
   global_id: t-58524
   teiginys: "Auktuolyčių pilis buvo Katavos, arba Katinavos, valsčiaus centras."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "478928-479820; hash=a8e363a1707cb0d413904ddf2eba9da52919b39600279b06c230e5b4527666ed; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-59155
 - susijęs iš Katavos valsčius: Brolis Ditrichas su kariuomene atžygiavo į Nadruvos valsčių Katavą ir pradėjo pulti Auktuolyčių pilį.
@@ -83,8 +69,8 @@ Dusburgietis teigia, kad apie Auktuolyčių pilies užkariavimą Neilgai trukus 
     HCGP), ji buvo tapatinama ir su Stanaičių (dab. Furmanovas) piliakalniu deš. Pisos krante
     į šiaurės vakarus nuo Gumbinės, dab. Gusevas (СV, t. 34, p. 92, 125).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -104,8 +90,8 @@ Dusburgietis teigia, kad apie Auktuolyčių pilies užkariavimą Neilgai trukus 
     nebegalėjo ilgai priešintis, ir broliai po kelių antpuolių įsiveržė į pilį, daug pilėnų mirtinai
     su D. Rethowi), dab.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -116,7 +102,8 @@ Dusburgietis teigia, kad apie Auktuolyčių pilies užkariavimą Neilgai trukus 
 - id: c-59155
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 150"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 150."
   citata_originali: |
     462 D.— castrum Otholichiam, Jer.— burg [...] Otholich; Auktuolyčių pilis, Katavos
     (Katinavos) valsčiaus centras (HGAPW). Pr. *aukt(a)s — aukštas, žr. Топоров В. H.,
@@ -139,7 +126,8 @@ Dusburgietis teigia, kad apie Auktuolyčių pilies užkariavimą Neilgai trukus 
 - id: c-59156
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 150"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 150."
   citata_originali: |
     177 (172). Apie Auktuolyčių pilies užkariavimą
 
@@ -157,6 +145,3 @@ Dusburgietis teigia, kad apie Auktuolyčių pilies užkariavimą Neilgai trukus 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58523
-
-## Ryšiai
-- Auktuolyčiai priklausė [[objektai/vietos/Nadruva]]

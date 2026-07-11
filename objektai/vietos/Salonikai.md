@@ -33,16 +33,6 @@ sandūros Vilnių priskiria pirmam žydų pasaulinių kultūros centrų dešimtu
 - t-001
   global_id: t-21793
   teiginys: "XVIII–XIX a. sandūroje Salonikai minimi tarp pirmojo žydų pasaulinių kultūros centrų dešimtuko miestų."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "155542-155993; hash=4dce2ac8ac367943cca1c7243bc314a566927ace0b2719817f25979e8a8e59a4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Žydai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Salonikai: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Žydai: mention_match, group, gap=30"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Salonikai\" parinktas kaip owner_note_path. Targetas \"Žydai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-24472
 ## Reikšmingi paminėjimai
@@ -58,8 +48,8 @@ sandūros Vilnių priskiria pirmam žydų pasaulinių kultūros centrų dešimtu
     žydų pasaulinių kultūros centrų dešimtukui (šalia Amsterdamo, Londo-
     no, Varšuvos, Lvovo, Salonikų, Stambulo, Tuniso ir Bagdado).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

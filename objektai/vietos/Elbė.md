@@ -31,14 +31,6 @@ Narbutas rašė, kad maldelė buvo rasta runomis išrašyta ant paminklų prie P
 - t-001
   global_id: t-188995
   teiginys: "Narbutas rašė, kad maldelė buvo rasta runomis išrašyta ant paminklų prie Penės upės, tarp Elbės ir Oderio."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "607504-607778; hash=aa1d1ca202abaddd326588b858f5c73559e2f21ace289a5e337c79beeaf748cf; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171884
 
@@ -46,21 +38,6 @@ Narbutas rašė, kad maldelė buvo rasta runomis išrašyta ant paminklų prie P
 - t-002
   global_id: t-192656
   teiginys: "Narbutas nurodo, kad gamtos tyrinėtojas, vadovaudamas romėnų kariuomenei, pats lankėsi prie Elbės."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "263944-264405; hash=5d607632e128cc867c940ed3847e82781dfde6c85c5022c3eb9d917e52b5e439; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Romėnai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Elbė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Romėnai: mention_match, group, gap=38"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Elbė\" parinktas kaip owner_note_path. Targetas \"Romėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175426
 
@@ -68,21 +45,6 @@ Narbutas rašė, kad maldelė buvo rasta runomis išrašyta ant paminklų prie P
 - t-004
   global_id: t-192658
   teiginys: "Fosas teigė, kad Pitėjas pasiekė tik Reiną arba toliausiai Elbės žiotis."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "601842-602113; hash=2c169718f30cbea7df39a622577f281b7ed541a0a901afcc712027036f016e14; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Baltija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Elbė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Baltija: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Elbė\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175428
 
@@ -90,12 +52,6 @@ Narbutas rašė, kad maldelė buvo rasta runomis išrašyta ant paminklų prie P
 - t-005
   global_id: t-194931
   teiginys: "Graikai, ypač masiliečiai, tęsė finikiečių tyrimus, bet rašė eilėmis, pa vyzdžiui, apie argonautų kelionę; romėnai, kaip nuga lėtojai, pažengė toliau, tačiau apie kraštus, esančius už Elbės ir Arkados žiočių, nepaliko jokių rašytinių žinių1."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "601451-601966; hash=9338ecd1239a162c676a35571fdcfca4868bc72b6f010a9855291630b8e09855; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177327
 ## Reikšmingi paminėjimai
@@ -111,8 +67,8 @@ Narbutas rašė, kad maldelė buvo rasta runomis išrašyta ant paminklų prie P
     gyveno herulai. Užrašo žodžiai buvo tokie: Perkun. Devvajte.
     ne. muskis. und man'.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -137,8 +93,8 @@ Narbutas rašė, kad maldelė buvo rasta runomis išrašyta ant paminklų prie P
     Naujųjų laikų gamtos tyrinėtojai ligi šiol nesutarė dėl
     gintaro prigimties ir kilmės.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -154,8 +110,8 @@ Narbutas rašė, kad maldelė buvo rasta runomis išrašyta ant paminklų prie P
     toliausiai Elbės žiotis. Spėjama, kad šališkas jo aiškin­
     tojas Strabonas daug ką jam priskyrė svetimo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -176,8 +132,8 @@ Narbutas rašė, kad maldelė buvo rasta runomis išrašyta ant paminklų prie P
     mą sykį į Britaniją, antrą — į šiaurės rytus, kur atrado
     Baltijos salą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -188,7 +144,8 @@ Narbutas rašė, kad maldelė buvo rasta runomis išrašyta ant paminklų prie P
 - id: c-171884
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 345"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 345."
   citata_originali: |
     Si
     maldelė buvo labai iškilminga ir visiems žinoma, ji rasta išra­
@@ -232,7 +189,8 @@ Narbutas rašė, kad maldelė buvo rasta runomis išrašyta ant paminklų prie P
 - id: c-175428
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 335"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 335."
   citata_originali: |
     Apie Pitėją manoma, jog jis keliavęs du kartus: pir­
     mą sykį į Britaniją, antrą — į šiaurės rytus, kur atrado
@@ -249,7 +207,8 @@ Narbutas rašė, kad maldelė buvo rasta runomis išrašyta ant paminklų prie P
 - id: c-177327
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 335"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 335."
   citata_originali: |
     Tuo remiantis galima suvokti, kaip mažai iš senovės
     autorių įmanoma gauti žinių apie Siaurės kraštus, nes

@@ -58,16 +58,6 @@ Nenurodyta
 - t-005
   global_id: t-67035
   teiginys: "MGB-KGB agentai-smogikai suvaidino svarbų vaidmenį galutinai sunaikinant ginkluotą rezistenciją Lietuvoje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "996258-997155; hash=49d641386902e513646cc48e8572c994da1062714710452c11e64ed06c1f0ff4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Agentai-smogikai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Agentų-smogikų infiltravimo į partizanų gretas ir provokacijų praktika: owner_note_path, thing"
-  ryšio_targeto_parinkimas: "Agentai-smogikai: mention_match, group, gap=9"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Agentų-smogikų infiltravimo į partizanų gretas ir provokacijų praktika\" parinktas kaip owner_note_path. Targetas \"Agentai-smogikai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-12363
 
@@ -75,19 +65,6 @@ Nenurodyta
 - t-007
   global_id: t-67036
   teiginys: "Apie 1948 m. sovietai aktyviai infiltravo agentus-smogikus į partizanų gretas ir net jų vadovybę."
-  temporaliniai_duomenys: "įvykio data: 1948 m.; įvykio data: apie 1948 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
-  temporalinis_llm_pakomentavimas: "Citata leidžia patikslinti laiką ir veikėją."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1013804-1014530; hash=b2d8821ebdaba0bd5ecf5fbced8f6b064162d6524aeaa3b5d32307a28b3e1367; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Agentų-smogikų infiltravimo į partizanų gretas ir provokacijų praktika: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Agentų-smogikų infiltravimo į partizanų gretas ir provokacijų praktika\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-12365
 
@@ -95,18 +72,6 @@ Nenurodyta
 - t-006
   global_id: t-67037
   teiginys: "Agentai buvo verbuojami ir iš čekistų, ir iš suimtų partizanų, o jų veikla buvo grindžiama griežta konspiracija."
-  temporaliniai_duomenys: "įvykio data: 1940-1950; įvykio data: 1950 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1002464-1003430; hash=55802598e32a5be1f88824818ecabdc37fa618fb54c0033e5c02f149ab48be49; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Agentai-smogikai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Agentų-smogikų infiltravimo į partizanų gretas ir provokacijų praktika: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Agentai-smogikai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Agentų-smogikų infiltravimo į partizanų gretas ir provokacijų praktika\" parinktas kaip owner_note_path. Targetas \"Agentai-smogikai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-12364
 ## Reikšmingi paminėjimai
@@ -129,8 +94,8 @@ Nenurodyta
     bių pabėgti ar pasitraukti iš spec. grupių sudėties, nes tuojau pat
     „kompromatas“ būtų pamestas tikriesiems partizanams.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -157,8 +122,8 @@ Nenurodyta
     kaip kovos su priešiškomis žvalgybinėmis-diversinėmis grupėmis ir nacionalistinėmis gau-
     jomis rezervą ypatinguoju laikotarpiu ar karo metu.“
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -187,8 +152,8 @@ Nenurodyta
     pajėgoms galutinai palaužti partizaninį ju-
     dėjimą Lietuvoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

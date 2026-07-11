@@ -49,22 +49,6 @@ Nenurodyta
 - t-002
   global_id: t-185771
   teiginys: "Kazimieras, sužinojęs apie skitų įsiveržimą į Lenkiją, pradėjo ryžtingiau rūpintis Lietuvos reikalais ir įsitraukė į karą dėl Podolės."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1489 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalintas nutrūkimas ir įvardytas sakinio subjektas pagal citatos kontekstą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "942548-943387; hash=10eb7f0797048c879b42280c84c86b326a1ee1c35a7509c5a4fb09f2106bac87; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Skitų įsiveržimas į Lenkiją ir Kazimiero įsitraukimas į karą dėl Podolės (1488 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=46"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Skitų įsiveržimas į Lenkiją ir Kazimiero įsitraukimas į karą dėl Podolės (1488 m.)\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-169132
 
@@ -72,12 +56,6 @@ Nenurodyta
 - t-003
   global_id: t-193364
   teiginys: "Su kruto visi nelyginant iš gilaus miego pabudę tik tada, kai sukrėtė širdis tarytum netoliese staiga blykstelėjęs žaibas skitų įsibrovimas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "942087-942547; hash=ba7f74022c84f906ff53745a912adf5ea13d79cdf6473ba55db48e612c7f1102; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176091
 ## Reikšmingi paminėjimai
@@ -111,8 +89,8 @@ Nenurodyta
     vyrais, prie Savranės upės at­
     virame lauke susikovė su priešu.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -136,8 +114,8 @@ Nenurodyta
     skutinioji, todėl iš visų jėgų stengėsi, išnaudodamas vi­
     sokias progas, iškelti sūnus į deramas aukštybes.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -148,7 +126,8 @@ Nenurodyta
 - id: c-169132
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 533"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 533."
   citata_originali: |
     Štai
     todėl pasirūpino, kad popiežius Inocentas paskelbtų
@@ -184,7 +163,8 @@ Nenurodyta
 - id: c-176091
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 533"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 533."
   citata_originali: |
     Netru­
     kus liautasi grasinti ginklu:

@@ -48,15 +48,6 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
 - t-013
   global_id: t-187873
   teiginys: "1401 m. susitarimą atskirais dokumentais patvirtino Vytautas, Jogaila, Lietuvos bajorai ir Lenkijos bajorai."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys sutrumpintas ir pašalinta perteklinė formuluotė."
-  susije_objektai: "llm_object: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkijos bajorai|Lenkijos bajorai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Daugirdas|Daugirdas]]; mentioned_person: [[objektai/asmenys/Manvydas|Manvydas]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_person: [[objektai/asmenys/Olelka|Olelka]]; mentioned_person: [[objektai/asmenys/Rumbautas|Rumbautas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Mstislavlis; mentioned_place: Trakai; mentioned_place: Vilnius"
-  temporaliniai_duomenys: "įvykio data: 1401 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys sutrumpintas ir pašalinta perteklinė formuluotė."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "254459-254941; hash=2049e684f00d2ec2978239431994b300a4ad27186ddc017d15f60b72745bad17; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md::validation_repair"
   pagrindžia:
     - c-170868
 
@@ -64,18 +55,6 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
 - t-006
   global_id: t-187874
   teiginys: "Pirmą kartą pabėgęs pas Ordiną, Vytautas sulaukė nemažai bajorų iš tikrosios Lietuvos ir Žemaičių paramos."
-  teiginio_tipas: "faktas"
-  susije_objektai: "llm_object: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Viena"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "700380-700807; hash=5db203074d357317842e56fbb98281dcfcbf7ace58f75903ca994ed90c2384ee; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md::validation_repair"
-  ryšio_patikimumas: "reme -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.89"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Bajorai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Claim tiesiogiai mini bajorų paramą Vytautui."
   pagrindžia:
     - c-170864
 
@@ -83,12 +62,6 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
 - t-012
   global_id: t-187875
   teiginys: "1560 metais Vilniuje vykusiame Ponų Tarybos seime karalius leido Lietuvos bajorams rinkti delegatus."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys yra pilnas, aiškus ir tiesiogiai paremtas citata."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Vilnius"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "560954-561529; hash=83357f2bf4c92b3c7c94d8893a6560382d4af2d6040e02a67da6fd178a217f53; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md::validation_repair"
   pagrindžia:
     - c-170863
 
@@ -96,12 +69,6 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
 - t-011
   global_id: t-187876
   teiginys: "Katalikiškajai Lietuvos bajorijai didžiojo kunigaikščio elgesys buvo nepriimtinas."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Pirminis teiginys buvo apie Jogailą, o citata tiesiogiai remia faktą apie Lietuvos bajoriją."
-  susije_objektai: "mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Starodubas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "435452-436039; hash=501dab7c5174f18e8bed30898c4fef4be0e57ed21d57f29d4adb1c0c27d081b9; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md::validation_repair"
   pagrindžia:
     - c-170870
 
@@ -109,19 +76,6 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
 - t-010
   global_id: t-187890
   teiginys: "Vasaliniai kunigaikščiai ir Lietuvos bajorai tapo ypatingu Žygimanto Kęstutaičio neapykantos taikiniu."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Perrašyta, nes pradiniame teiginyje nepakankamai aiškiai įvardytas Žygimantas."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Lietuva; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Vilnius"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "449237-449724; hash=fbcccb98080cf76a9f72a976b12db6270396ca875b60bc40934e5dd3a9edf8be; match=whitespace_regex"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md::validation_repair"
-  ryšio_patikimumas: "susije_su -> Bajorai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos bajorija: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Bajorai: mention_match, group, gap=9"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos bajorija\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-170866
 
@@ -129,14 +83,6 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
 - t-002
   global_id: t-187878
   teiginys: "Vytauto laikais Lietuvos bajorija išėjo į viešąjį gyvenimą kaip nauja socialinė jėga ir įgijo herbų."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys aiškiai apibendrina citatoje nurodytą bajorijos pokytį ir herbų gavimą."
-  susije_objektai: "mentioned_object: [[objektai/daiktai/Herbai|Herbai]]; mentioned_place: Lietuva"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "703974-704463; hash=3c228e754dc173cd4b3d061b950b9561a9bfe56bff63105a56b23f12062be3b6; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md::validation_repair"
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-170871
 
@@ -144,12 +90,6 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
 - t-016
   global_id: t-187879
   teiginys: "Lietuvos bajorijai buvo leista sudaryti laikinę Lietuvos vyriausybę, kuriai vadovavo grafas Soltanas."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Pradinis teiginys turi neaiškų įvardį, todėl perrašytas su aiškiais veikėjais."
-  susije_objektai: "mentioned_place: Lietuva"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "900734-900945; hash=566e4c846500b63e4c656ba8e3e0cdd16e0b9a7e83057abad3695edb8821d651; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md::validation_repair"
   pagrindžia:
     - c-46363
 
@@ -157,14 +97,6 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
 - t-001
   global_id: t-187880
   teiginys: "Žygimanto Kęstutaičio Trakuose sušauktas seimas turėjo parengti paskutinį smūgį Rusios ir Lietuvos bajorijai."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys yra pilnas, aiškus ir tiesiogiai paremtas citata."
-  susije_objektai: "mentioned_place: Lietuva; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Daugirdas|Daugirdas]]; mentioned_person: [[objektai/asmenys/Manvydas|Manvydas]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_person: [[objektai/asmenys/Olelka|Olelka]]; mentioned_person: [[objektai/asmenys/Rumbautas|Rumbautas]]; mentioned_place: Mstislavlis; mentioned_place: Trakai; mentioned_place: Vilnius"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "450579-451217; hash=d050acaf4895c8923ed2fde9e981de7b2ddd203af4cf66e9213fc10e0f3c2cb5; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md::validation_repair"
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-170862
 
@@ -172,19 +104,6 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
 - t-020
   global_id: t-187881
   teiginys: "Įvadinio straipsnio autorius teigia, kad neigiamas požiūris į sulenkėjusią Lietuvos bajoriją atitolino nuo jos kūrybos ir istorijos tyrimų supratimo."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "2187-2604; hash=faf93bd02ffc67f0a48eace1c8b8cf2d571c73634d9599591cbef943792f580a; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md::validation_repair"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos bajorija: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos bajorija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-170855
 
@@ -192,19 +111,6 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
 - t-021
   global_id: t-187882
   teiginys: "Įvadinio straipsnio autorius XVI–XVIII a. lietuvį istorinėje Lietuvoje apibrėžia kaip bajorą, gynusį politines laisves ir Lietuvos Statuto teises."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "2745-3215; hash=fe01a0888195bee73275f06be6c32fc2c16a0eb4486edc39594ced10a2d519a0; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md::validation_repair"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos bajorija: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos bajorija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T04:21:55Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-170856
 
@@ -212,15 +118,6 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
 - t-017
   global_id: t-187884
   teiginys: "1560 m. Vilniuje vykusiame LDK Ponų Tarybos seime karalius leido bajorams rinkti delegatus."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata apie bajorų delegatų rinkimą."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva"
-  temporaliniai_duomenys: "įvykio data: 1560 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata apie bajorų delegatų rinkimą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "560954-561529; hash=83357f2bf4c92b3c7c94d8893a6560382d4af2d6040e02a67da6fd178a217f53; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md::validation_repair"
   pagrindžia:
     - c-170863
 
@@ -228,14 +125,6 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
 - t-001
   global_id: t-187880
   teiginys: "Žygimanto Kęstutaičio Trakuose sušauktas seimas turėjo parengti paskutinį smūgį Rusios ir Lietuvos bajorijai."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys yra pilnas, aiškus ir tiesiogiai paremtas citata."
-  susije_objektai: "mentioned_place: Lietuva; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Daugirdas|Daugirdas]]; mentioned_person: [[objektai/asmenys/Manvydas|Manvydas]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_person: [[objektai/asmenys/Olelka|Olelka]]; mentioned_person: [[objektai/asmenys/Rumbautas|Rumbautas]]; mentioned_place: Mstislavlis; mentioned_place: Trakai; mentioned_place: Vilnius"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "450579-451217; hash=d050acaf4895c8923ed2fde9e981de7b2ddd203af4cf66e9213fc10e0f3c2cb5; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md::validation_repair"
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-170862
 
@@ -243,12 +132,6 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
 - t-005
   global_id: t-187886
   teiginys: "Lietuvos Didžiosios Kunigaikštystės bajorai šaukimo metu privalėjo vykdyti krašto karinę tarnybą ir vykti į karą."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys perrašytas taip, kad būtų tiesiogiai apie Lietuvos bajoriją."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Lietuva"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "801436-801966; hash=24a48a1d4adeea4214e364c0963b580bfb27cda45367da7a47e9a8e82cd5d619; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md::validation_repair"
   pagrindžia:
     - c-170865
 
@@ -256,12 +139,6 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
 - t-014
   global_id: t-187887
   teiginys: "Švitrigaila be teismo užgrobdavo kai kurių bajorų turtus, todėl papiktino didžiąją Lietuvos krašto dalį."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Perrašyta aiškiau, pašalinant vertinamąją formuluotę ir įvardijant veiksmą."
-  susije_objektai: "mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Starodubas; llm_object: [[objektai/asmenys/Jogaila|Jogaila]]"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "435452-436039; hash=501dab7c5174f18e8bed30898c4fef4be0e57ed21d57f29d4adb1c0c27d081b9; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md::validation_repair"
   pagrindžia:
     - c-170870
 
@@ -269,12 +146,6 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
 - t-007
   global_id: t-187888
   teiginys: "Kojalavičius rašė tuo metu, kai Lietuvos bajorijos sluoksniuose jau ryškėjo savos valstybingumo sąmonės silpnėjimas."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Pradinis teiginys labiau apie Kojalavičių, todėl perrašyta į citatos palaikomą faktą apie Lietuvos bajoriją."
-  susije_objektai: "mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Lenkija"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "133724-134259; hash=e6c000337f6875eb70818fee9a35a702641a8a08beddc9be4476ba96cbfcea29; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md::validation_repair"
   pagrindžia:
     - c-170869
 
@@ -282,11 +153,6 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
 - t-009
   global_id: t-187889
   teiginys: "Napoleonas leido Lietuvos bajorijai sudaryti laikiną savo valdžią."
-  teiginio_tipas: "faktas"
-  susije_objektai: "mentioned_place: Lietuva"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "900630-900868; hash=630addab9f1fddba14d981cfa59c8121049dd5c0dab3b7cc8122cd06a8e74108; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md::validation_repair"
   pagrindžia:
     - c-170867
 
@@ -294,19 +160,6 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
 - t-010
   global_id: t-187890
   teiginys: "Vasaliniai kunigaikščiai ir Lietuvos bajorai tapo ypatingu Žygimanto Kęstutaičio neapykantos taikiniu."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Perrašyta, nes pradiniame teiginyje nepakankamai aiškiai įvardytas Žygimantas."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Lietuva; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Vilnius"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "449237-449724; hash=fbcccb98080cf76a9f72a976b12db6270396ca875b60bc40934e5dd3a9edf8be; match=whitespace_regex"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md::validation_repair"
-  ryšio_patikimumas: "susije_su -> Bajorai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos bajorija: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Bajorai: mention_match, group, gap=9"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos bajorija\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-170866
 
@@ -314,13 +167,6 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
 - t-003
   global_id: t-187891
   teiginys: "Kojalavičiaus laikais Lietuvos bajorijos sluoksniuose jau ryškiau matėsi savos valstybingumo sąmonės silpnėjimas."
-  teiginio_tipas: "faktas"
-  susije_objektai: "mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Lenkija"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "133724-134259; hash=e6c000337f6875eb70818fee9a35a702641a8a08beddc9be4476ba96cbfcea29; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md::validation_repair"
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-170869
 
@@ -328,12 +174,6 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
 - t-004
   global_id: t-187892
   teiginys: "Vytautui pirmą kartą pabėgus pas Ordiną, prie jo prisidėjo nemažai bajorų iš tikrosios Lietuvos ir ypač Žemaitijos."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Šaltinis palaiko faktą, bet pradiniame teiginyje yra OCR triukšmo."
-  susije_objektai: "llm_object: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Viena"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "700380-700807; hash=5db203074d357317842e56fbb98281dcfcbf7ace58f75903ca994ed90c2384ee; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md::validation_repair"
   pagrindžia:
     - c-170864
 
@@ -341,21 +181,6 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
 - t-022
   global_id: t-188281
   teiginys: "Narbutas perteikia autoriaus pagyrimą Lietuvos bajorams, kurie, vėl paklusę Apaštališkajam sostui, esą nusipelnė didžio vardo Bažnyčioje."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "706043-706447; hash=80a56679bfacfee87334b75ae74b93a67aff478a28e6319442d49826a83021e9; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos bajorija: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos bajorija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171175
 
@@ -363,21 +188,6 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
 - t-023
   global_id: t-188282
   teiginys: "Narbutas teigė, kad keli aiškiai lietuviški herbai pateko į Lenkijos herbynus veikiausiai atsikėlus juos naudojusioms šeimoms."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "722076-722503; hash=6644a62598cb7e4ebcb041c04258e1e69112d81ad0e66b6f226e688d1e9f7292; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Herbai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos bajorija: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Herbai: mention_match, thing, gap=11"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos bajorija\" parinktas kaip owner_note_path. Targetas \"Herbai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171176
 
@@ -385,21 +195,6 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
 - t-024
   global_id: t-188283
   teiginys: "Įvadinio straipsnio autorius teigia, kad lenkiškai parašytas Narbuto veikalas išryškino lietuvių ir koroniažų etnokultūrinius skirtumus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "15648-16020; hash=415c8c6214556da94dcc9542c41d68baa191dc4128bada767738ddca699a1e8b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos bajorija: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=47"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos bajorija\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171177
 
@@ -407,22 +202,6 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
 - t-025
   global_id: t-188284
   teiginys: "Narbutas aiškino, kad herbo vardas „Kiniglis“ lietuvių kalboje reiškia triušį, o ne Neseckio nurodytą kiškį."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Antspaudai priklausė Bajorai (0.86)"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "724601-725204; hash=036be1fe91bc84ddf833475da27f1b04f9f0daa07374e52a528ab3c578327035; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Bajorai: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Antspaudai: llm_allowed_candidate, thing"
-  ryšio_targeto_parinkimas: "Bajorai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad bajorai turėjo senovinius antspaudus."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171178
 
@@ -430,12 +209,6 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
 - t-026
   global_id: t-193110
   teiginys: "Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laikąs jį ir Lietuvos bajorus laisvais ar nelaisvais."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "301757-302135; hash=672169d1025079029b48e7fea1f57642f74d8e51a8141c0fa6963d84aaf39941; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-175870
 
@@ -443,12 +216,6 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
 - t-027
   global_id: t-193111
   teiginys: "Jo valdymo metu Lietuva jau tiek sutvirtėjo, jog apie jos priklausomybę Lenkijai nebegalėjo būti nė kalbos, ir Lietuvos bajorai tuojau po jo mirties, nieko nesiklausę, paskelbė savo valdovu Švitrigailą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "308453-308868; hash=cec3dd617d065e4092d7c824886584ac2641ca27b5ab3f86f82288902df314ac; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-175871
 
@@ -456,12 +223,6 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
 - t-028
   global_id: t-193112
   teiginys: "Napoleono kariuomenei užėmus Lietuvą, bajorija tuojau sujudo rūpintis atgaivinti didžiąją kunigaikštiją Napoleono globoje."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "900345-900629; hash=fe1a3947e3248e2977de0a8be1852335640b38cb2ce20bc6f6066d174f46115f; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-175872
 - susijęs iš [[objektai/daiktai/Herbai.md#claim-t-12291|Herbai]]: Vytauto laikais Lietuvos bajorija gavo herbus ir per juos įgijo luomo savygarbos.
@@ -500,8 +261,8 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
     atsistojo grafas Soltanas. Toji vyriausybė turėjo tvarkyti
     krašto reikalus ir parūpinti armijai maisto.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -519,8 +280,8 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
     socialinių tautos vertybių išdavikę atitolindavo mus nuo lite­
     ratūrinės Lietuvos bajorų kūrybos, istorijos tyrimų supratimo.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -539,8 +300,8 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
     stropiai ginantis savo politines laisves ir besididžiuojantis Lie­
     tuvos statuto suteiktomis teisėmis.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -562,8 +323,8 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
     niaus pilį laikinai užėmė Švitrigailai, aukštutinę tvirtovę Nar­
     butas užgrobė naktį26.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -585,8 +346,8 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
     rėjus į visus didžiuosius seimus, vykstančius Karalystėje ar­
     ba Lietuvoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -605,8 +366,8 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
     sidedant nemaža bajorų iš tikrosios Lietuvos ir ypač ir Žemai­
     čių^2 ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -627,8 +388,8 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
     rašu, jo sutvirtinimui įsakome prikabinti mūsų antspaudą.
     Rašytas ir duotas Varšuvoje, didžiajame visuotiniame seime.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -646,8 +407,8 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
     neramumų grėsmę. Net pirkliai negalėjo jaustis saugūs dėl
     jo nežaboto gobšumo, ir Vilnius ėmė vis labiau smukti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -664,8 +425,8 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
     Laikinės Lietuvos vyriausybės priešaky
     atsistojo grafas Soltanas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -684,8 +445,8 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
     vęs, tad nežinia, kur jis duotas; lenkų bajorai savo dokumentą su-
     rašė Radome.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -704,8 +465,8 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
     skaitymų knygą, Lietuvos ir Lenkijos politiniai skirtumai nebe­
     buvo tokie ryškus kaip Stryjkovskiui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -731,8 +492,8 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
     ti Starodubo kunigaikštį Žygimantą Kęstutaitė Vytauto bro­
     lį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -753,8 +514,8 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
     luomu.
     Žinoma mes negalime patikėti Dlugošu, kad iki 1413 met.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -773,8 +534,8 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
     dovo tikėjimas bei valdinių prisirišimas prie sosto yra didelis
     šito laidas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -793,8 +554,8 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
     Bet mes turime kalbėti apie kai kuriuos ikiunijinių laikų
     herbus, mūsų pastebėtus senose Lietuvos bajorų sutartyse.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -811,8 +572,8 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
     reikia rinkti grynai lietuviškos dvasios paminklus ir parodyti,
     kad mes jų turime daugiau ir kur kas geresnių negu lenkai“11.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -834,8 +595,8 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
     XVII amžiaus vidurio išlikęs labai ryškus tokių dar seno pavi­
     dalo ir seno graviravimo signečių pėdsakas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -852,8 +613,8 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
     broliu. Taip pat ir Lietuvos kunigaikščius bei bajorus laikome
     laisvais, kaip ir mūsų (t. y. Lenkijos) ponus, ir lygiais su jais" ...
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -871,8 +632,8 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
     klausę, paskelbė savo valdovu Švitrigailą. Pats Jogaila, tuo metu
     buvęs Vilniuje ar Trakuose, turėjo sutikti su įvykusiu faktu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -889,8 +650,8 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
     boje. Bet Napoleonui pirmučiausia rūpėjo, kiek Lietuva galėtų
     duoti jo armijai maisto ir kareivių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -919,7 +680,8 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
 - id: c-170855
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 4"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 4."
   citata_originali: |
     Prie tokių žmonių galima priskirti
     Teodorą Narbutą. Jo epopėjinė lenkiškai parašyta „Lietuvių
@@ -939,7 +701,8 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
 - id: c-170856
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 4"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 4."
   citata_originali: |
     Juk Lietuvos istorija -  tai ne vien pagoniškas
     tikėjimas, Vytauto galybė, Simonas Daukantas ir žemaičių ba­
@@ -1196,7 +959,8 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
 - id: c-171175
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 394"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 394."
   citata_originali: |
     Autorius pateikia iš­
     kalbingų patarimų ir nurodymų dirbantiems Kristaus vynuo­
@@ -1216,7 +980,8 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
 - id: c-171176
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 402"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 402."
   citata_originali: |
     Vienas kitas aiškiai lietuviškas her­
     bas įėjo į Lenkijos herbynus, tikriausiai atsikėlus šeimoms, ku­
@@ -1236,7 +1001,8 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
 - id: c-171177
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 11"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 11."
   citata_originali: |
     T. Narbuto lenkų kalba parašytas veikalas dar labiau išryš­
     kino etnokultūrinius lietuvių ir „koroniažų“ (Lenkijos gyven­
@@ -1254,7 +1020,8 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
 - id: c-171178
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 403"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 403."
   citata_originali: |
     Pa­
     vyzdžiui, „Paparona“ arba „Kiniglis“, tai reiškia ne kiškį, kaip
@@ -1330,6 +1097,4 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
     - t-193112
 
 ## Ryšiai
-- Priešai: [[objektai/grupes/Sapiegos]], [[objektai/grupes/Sapiegų kariuomenė]]
-- Sąjungininkai: [[objektai/grupes/Lenkijos bajorija]]
-- Turėjo priklausinį: [[objektai/daiktai/Herbai]]
+- Priešai: [[objektai/grupes/Sapiegos]]

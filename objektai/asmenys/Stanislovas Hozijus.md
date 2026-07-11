@@ -40,22 +40,6 @@ Stanislovas Hozijus 1568 m. Braunsberge įsteigė kolegiją, netrukus tapusią s
 - t-001
   global_id: t-186254
   teiginys: "Stanislovas Hozijus 1568 m. Braunsberge įsteigė kolegiją, netrukus tapusią svarbia jėzuitų atrama."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įkūrimo data: 1568 m.; įkūrimo data: 1644 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Perrašyta į tiesioginį faktinį sakinį, pašalinant perteklinę atribuciją."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "7178-7379; hash=6fa80e096d7ab32feb40514be7625a8195ddb093dc9747dd98c81ca2f4ecd817; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Braunsbergas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Stanislovas Hozijus: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Braunsbergas: mention_match, place, gap=28"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Stanislovas Hozijus\" parinktas kaip owner_note_path. Targetas \"Braunsbergas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-169615
 - susijęs iš Varmijos vyskupystė: 1564 m. Varmijos vyskupas Stanislovas Hozijus atkvietė jėzuitus į Lenkiją ir įkurdino juos Braunsberge.
@@ -70,8 +54,8 @@ Stanislovas Hozijus 1568 m. Braunsberge įsteigė kolegiją, netrukus tapusią s
     Stanislovas Hozijus 1568 m. buvo įsteigęs kolegiją, ne­
     trukus pasidariusią svarbia jėzuitų atrama.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -82,7 +66,8 @@ Stanislovas Hozijus 1568 m. Braunsberge įsteigė kolegiją, netrukus tapusią s
 - id: c-169615
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 6"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 6."
   citata_originali: |
     1644 m. A. Kojelavičius siunčiamas į Braunsbergą
     dėstyti teologijos. Šiame Varmijos mieste kardinolas

@@ -33,16 +33,6 @@ Sūduvos dykroje toliau siena buvo nužymėta upių krantais : visu Lieponos pau
 - t-001
   global_id: t-32306
   teiginys: "Sūduvos dykroje siena buvo nužymėta visu Lieponos paupiu iki Širvintos upės ir jos krantu iki įtekėjimo į Šešupę."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "978572-978903; hash=4a614bf68f7786ffa98f7b68fc679fad6fe919e483207ee02f013c1bb0d3f9c6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Šešupė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Liepona: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Šešupė: mention_match, place, gap=65"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Liepona\" parinktas kaip owner_note_path. Targetas \"Šešupė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-33925
 - susijęs iš Merūniškiai: Siena per dykrą ėjo tiesia linija į Merūniškius ir Vystyčio ežerą, kuris liko Ordino pusėje.
@@ -64,8 +54,8 @@ Sūduvos dykroje toliau siena buvo nužymėta upių krantais : visu Lieponos pau
     visu Lieponos paupiu iki Širvintos upės ir šios krantu iki įtekėjimo
     Šešupėn. Šešupės krantu ji ėjo per girių masyvus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

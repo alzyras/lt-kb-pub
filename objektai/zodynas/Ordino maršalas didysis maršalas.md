@@ -44,16 +44,6 @@ Galop ta galinga kariauna išsiruošė į žygį vedama vyriausiojo vado Ordino 
 - t-001
   global_id: t-86490
   teiginys: "Ordino maršalas Engelhardas Rabė vadovavo žygiui, nes didysis magistras Konradas Ciolneris sirgo sunkia liga."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "260147-260926; hash=5d4ac1f7a24fb9fabafc1e3e804089fd38bb12a626f019a0587b6ba074b8989e; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Engelhardas Rabė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ordino maršalas didysis maršalas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Engelhardas Rabė: mention_match, person, gap=16"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ordino maršalas didysis maršalas\" parinktas kaip owner_note_path. Targetas \"Engelhardas Rabė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-82470
 
@@ -61,19 +51,6 @@ Galop ta galinga kariauna išsiruošė į žygį vedama vyriausiojo vado Ordino 
 - t-002
   global_id: t-86491
   teiginys: "Konradas Valenrodas 1382 metais buvo paskirtas Ordino didžiuoju maršalu, o 1391 m. kovo 12 d. išrinktas didžiuoju magistru."
-  temporaliniai_duomenys: "įvykio data: 1391 m.; įvykio data: 1393 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "260598-261538; hash=e5316db19e32837747e12d8e33575926b941d405cd32c9a7ea26214ced3e91a7; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Konradas Valenrodas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ordino maršalas didysis maršalas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Konradas Valenrodas: mention_match, person, gap=47"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ordino maršalas didysis maršalas\" parinktas kaip owner_note_path. Targetas \"Konradas Valenrodas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-82469
 ## Reikšmingi paminėjimai
@@ -112,8 +89,8 @@ Galop ta galinga kariauna išsiruošė į žygį vedama vyriausiojo vado Ordino 
     tas didž. magistru; mirė 1393 m.
     liepos 25 d.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -143,8 +120,8 @@ Galop ta galinga kariauna išsiruošė į žygį vedama vyriausiojo vado Ordino 
     Lietuvos istorijos žinovas Ignacas
     Onacevičius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

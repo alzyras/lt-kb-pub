@@ -35,17 +35,6 @@ Dusburgietis teigia, kad — balista, Jer.— armbrost; arbaletas— kilpinis la
 - t-002
   global_id: t-58846
   teiginys: "Henrikas Tupadelis buvo įgudęs balistininkas, raginęs apsuptuosius gintis ir gesinęs piliai padegti skirtus degalus."
-  semantiniai_rysiai: "Henrikas Tupadelis kariavo prieš Lietuviai (0.74)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "413102-413914; hash=478493997f8bc57d954152f11f52e0970968284cfb9958dbaea7261977cf0fd0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Lietuviai: 0.74"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Henrikas Tupadelis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Henrikas Tupadelis kovos metu nukovė lietuvių vadą, todėl ryšys su kova prieš lietuvius yra pagrįstas, nors objektas yra apibendrinta grupė."
   pagrindžia:
     - c-59479
 
@@ -53,16 +42,6 @@ Dusburgietis teigia, kad — balista, Jer.— armbrost; arbaletas— kilpinis la
 - t-001
   global_id: t-58847
   teiginys: "Arbaletas aiškinamas kaip kilpinis lankas, kurio templė įtempiama suktuvu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "394238-394656; hash=e282474001311efb551b1c7866b52fe62d99e646193699ad02b77f2c39715be3; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Arbaletas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "balista balistininkas arbaletas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Arbaletas: mention_match, thing, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"balista balistininkas arbaletas\" parinktas kaip owner_note_path. Targetas \"Arbaletas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-59478
 ## Reikšmingi paminėjimai
@@ -79,8 +58,8 @@ Dusburgietis teigia, kad — balista, Jer.— armbrost; arbaletas— kilpinis la
       375 D. — balista, Jer.— armbrost; arbaletas— kilpinis lankas, kurio templė įtempiama
     suktuvu.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -101,8 +80,8 @@ Dusburgietis teigia, kad — balista, Jer.— armbrost; arbaletas— kilpinis la
     vienam prižiūrėtojui, įkopusiam pataisyti apgulos mašinos viršūnės gedimo, ir prismeigė
     jam ranką prie mašinos; visa tai pamatę, netikėliai pabūgo ir nutraukė apgultį.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -113,7 +92,8 @@ Dusburgietis teigia, kad — balista, Jer.— armbrost; arbaletas— kilpinis la
 - id: c-59478
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 121"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 121."
   citata_originali: |
     106 (101). Apie tai, kaip buvo sugriautas Karaliaučiaus miestas, įsikūręs švento Mika­
                                          lojaus kalvoje
@@ -133,7 +113,8 @@ Dusburgietis teigia, kad — balista, Jer.— armbrost; arbaletas— kilpinis la
 - id: c-59479
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 128"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 128."
   citata_originali: |
     Galop vieną dieną visi pakilo  į
     kovą, lankininkai [šaudė] strėles, apgulos mašinos [mėtė] akmenis, kiti nešė malkų

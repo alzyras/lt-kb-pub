@@ -30,12 +30,6 @@ Senas senelis nutraukė pamokslininką ir pareiškė žmonėms, kad jaunėlis ai
 - t-001
   global_id: t-185483
   teiginys: "Senas senelis nutraukė pamokslininką ir pareiškė žmonėms, kad jaunėlis aiškių aiškiausiai meluoja apie pasaulio sutvėrimą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "674283-674652; hash=9832be2e0d150d9090e92c43195a802e3dd53f27c67a71e1562463927d45c02f; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-168844
 ## Reikšmingi paminėjimai
@@ -53,8 +47,8 @@ Senas senelis nutraukė pamokslininką ir pareiškė žmonėms, kad jaunėlis ai
     nugyvenęs ir visa ko patyręs, nieko tokio nesu nei ma­
     tęs, nei girdėjęs".
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -65,7 +59,8 @@ Senas senelis nutraukė pamokslininką ir pareiškė žmonėms, kad jaunėlis ai
 - id: c-168844
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 385"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 385."
   citata_originali: |
     Kai šventasis pa­
     mokslininkas iš sakyklos aiškino, kokia tvarka buvo

@@ -43,17 +43,6 @@ Tačiau šio karaliaus val­ dymo saulėlydyje, 1571 metais, baisus badas nuo pu
 - t-001
   global_id: t-87829
   teiginys: "Petras Roizijus buvo iš Aragono kilęs teisininkas, LDK miesto reikalų referendorius ir Vilniaus katedros kustodas."
-  semantiniai_rysiai: "Petras Roizijus gimė Aragonas (0.89); Petras Roizijus gyveno Vilnius (0.52)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "575057-575833; hash=35e13cf05d4a1abf96770288bbb251999aeee3905ce28e2644301326855c5c0d; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gime -> Aragonas: 0.89"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Petras Roizijus: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Aragonas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Roizijaus gimimą Aragone."
   pagrindžia:
     - c-83808
 ## Reikšmingi paminėjimai
@@ -82,8 +71,8 @@ Tačiau šio karaliaus val­ dymo saulėlydyje, 1571 metais, baisus badas nuo pu
     kuo nepalankiausiai nusiteikęs Lie­
     tuvos Statuto atžvilgiu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -121,7 +110,3 @@ Tačiau šio karaliaus val­ dymo saulėlydyje, 1571 metais, baisus badas nuo pu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87829
-
-## Ryšiai
-- Petras Roizijus gimė [[objektai/vietos/Aragonas]]
-- Petras Roizijus gyveno [[objektai/vietos/Vilnius]]

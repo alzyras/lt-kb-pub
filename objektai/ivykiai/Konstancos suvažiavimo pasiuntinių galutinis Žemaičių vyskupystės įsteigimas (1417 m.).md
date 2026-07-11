@@ -48,19 +48,6 @@ Nenurodyta
 - t-001
   global_id: t-185718
   teiginys: "Iš bažnytinio suvažiavimo grįžę pasiuntiniai parvežė laišką, kuriuo Lvovo arkivyskupui ir Vilniaus vyskupui pavesta steigti Žemaičių vyskupystę."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "686709-687514; hash=84375060556db34a066accea20deb6c65da54b74d388ee6a13dac5770409bb2e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lvovas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Konstancos suvažiavimo pasiuntinių galutinis Žemaičių vyskupystės įsteigimas (1417 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Lvovas: mention_match, place, gap=54"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Konstancos suvažiavimo pasiuntinių galutinis Žemaičių vyskupystės įsteigimas (1417 m.)\" parinktas kaip owner_note_path. Targetas \"Lvovas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-169079
 
@@ -68,21 +55,6 @@ Nenurodyta
 - t-002
   global_id: t-185719
   teiginys: "Vytauto pakviesti Konstancos suvažiavimo pasiuntiniai spalį Žemaitijoje naujuoju ganytoju paskyrė lietuvį Motiejų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "689439-690135; hash=3d63ae0592ed32c9f47dc760a189785540d77dd963f7cd5e4115695f442e5076; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Konstanca: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Konstancos suvažiavimo pasiuntinių galutinis Žemaičių vyskupystės įsteigimas (1417 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Konstanca: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Konstancos suvažiavimo pasiuntinių galutinis Žemaičių vyskupystės įsteigimas (1417 m.)\" parinktas kaip owner_note_path. Targetas \"Konstanca\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-169080
 ## Reikšmingi paminėjimai
@@ -113,8 +85,8 @@ Nenurodyta
     žiuočių, kaip rašo kai kurie metraštininkai, atsirado vi­
     sai netikėtų ir didelių kliūčių.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -155,8 +127,8 @@ Nenurodyta
     sutvarkyti kunigaikštystėje pagal bažnytinio suvažia­
     vimo nutarimą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -167,7 +139,8 @@ Nenurodyta
 - id: c-169079
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 392"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 392."
   citata_originali: |
     Vy­
     tautas priėmė Jogailą, kaip

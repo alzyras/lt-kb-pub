@@ -38,24 +38,6 @@ Narbutas rašo, kad danų mokslininkas Raskas 1817 m. lietuvius kildino iš to p
 - t-001
   global_id: t-191510
   teiginys: "Narbutas rašo, kad danų mokslininkas Raskas 1817 m. lietuvius kildino iš to paties „lizdo“ kaip ir Narbutas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1817 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie Raską ir palieka atribuciją Narbutui, nes kalbama apie kilmės aiškinimą. Nepridėtos papildomos Rasko mintys apie slavų kraštus ar trakų kalbą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "362752-363251; hash=2a79a5f926733230744ff4151ec3d0882e1196efadc2c2d33dab94cab2111512; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Baltija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Raskas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Baltija: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Raskas\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174392
 - susijęs iš [[objektai/asmenys/Rasmusas Raskas.md#claim-t-191354|Rasmusas Raskas]]: Narbutas rašo, kad danų mokslininkas Rasmusas Raskas 1817 m. lietuvius kildino iš to paties „lizdo“ kaip ir Narbutas.
@@ -76,8 +58,8 @@ Narbutas rašo, kad danų mokslininkas Raskas 1817 m. lietuvius kildino iš to p
     savo šaltinį yra kilusi iš kažkokios labai ¡senos, iš Trakijos
     kilusios kalbos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -88,7 +70,8 @@ Narbutas rašo, kad danų mokslininkas Raskas 1817 m. lietuvius kildino iš to p
 - id: c-174392
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 197"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 197."
   citata_originali: |
     Tačiau senovės
     tyrinėtojai, kurie teikėsi įsigilinti į mitologiją ir lietuvių

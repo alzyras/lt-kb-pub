@@ -40,16 +40,6 @@ Taip tikėtasi iš pačių lietuvių paruošti rusų aukštosios kultūros proce
 - t-001
   global_id: t-25372
   teiginys: "Caro valdžia „lenkų suartinimo su rusais“ strategija siekė apsaugoti karalystės ne etninius lenkus nuo sulenkėjimo."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "218622-219103; hash=34ca0eac2912ba68e1ea37e1d09ae60abe2761538860142b87550614a65da7ba; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "„lenkų suartinimo su rusais“: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"„lenkų suartinimo su rusais“\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-25843
 
@@ -57,19 +47,6 @@ Taip tikėtasi iš pačių lietuvių paruošti rusų aukštosios kultūros proce
 - t-002
   global_id: t-183497
   teiginys: "Lietuvos Užnemunėje švietimo politika siekė parengti lietuvius rusų aukštosios kultūros dalyviais ir suartinimo su rusų kultūra tarpininkais."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "219105-219670; hash=4a96b162e6c971a57aaf788a03f6d4b9cfec67d181a5746879c15d854a63115e; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "„lenkų suartinimo su rusais“: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=101"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"„lenkų suartinimo su rusais“\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-166891
 - susijęs iš Lenkijos karalystė: Lenkijos karalystės teritorijoje apie visišką lenkų kalbos ir kultūros išstūmimą iš viešojo gyvenimo ir švietimo įstaigų nekalbėta.
@@ -90,8 +67,8 @@ Taip tikėtasi iš pačių lietuvių paruošti rusų aukštosios kultūros proce
     džią. „Lenkų suartinimo su rusais“ strategine nuostata caro valdžia tuo
     pat metu siekė apsaugoti nuo sulenkėjimo karalystės ne etninius lenkus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -110,8 +87,8 @@ Taip tikėtasi iš pačių lietuvių paruošti rusų aukštosios kultūros proce
     paruošti rusų aukštosios kultūros proceso dalyvių, manant, kad jie taps ir
     lietuvių „suartinimo“ su rusų kultūra gija.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

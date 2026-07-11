@@ -39,19 +39,6 @@ Dusburgietis teigia, kad joachim; Herausgegeben von W.
 - t-001
   global_id: t-60694
   teiginys: "E. Joachimas prisidėjo rengiant Vokiečių ordino 1198-1525 m. privilegijų regestų antrąją dalį."
-  temporaliniai_duomenys: "įvykio data: 1198-1525; įvykio data: 1525 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata leidžia suformuluoti faktą apie E. Joachimo darbą rengiant leidinį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "794817-795068; hash=6c8c0db65e4534921280e2ca072fd70f12bc17c227403cd6bcfada4ab6a595a9; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Joachimas (Pskovo vietininkas): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "E. Joachim: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Joachimas (Pskovo vietininkas): mention_match, person, gap=3"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"E. Joachim\" parinktas kaip owner_note_path. Targetas \"Joachimas (Pskovo vietininkas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-61326
 ## Reikšmingi paminėjimai
@@ -65,8 +52,8 @@ Dusburgietis teigia, kad joachim; Herausgegeben von W.
     zahlreicher anderer von E. Joachim; Herausgegeben von W. Hubatsch.— Göttingen,
     1948.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -77,7 +64,8 @@ Dusburgietis teigia, kad joachim; Herausgegeben von W.
 - id: c-61326
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 270"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 270."
   citata_originali: |
     Regesta historico-diplomatica Ordinis S. Mariae Theutonicorum 1198—1525.— Pars
     II: Regesta privilegiorum Ordinis S. Mariae Theutonicorum / Bearbeitet unter Mitwirkung

@@ -32,16 +32,6 @@ media_all_json: |-
 - t-002
   global_id: t-19792
   teiginys: "Lenkų socialistų partijai vadovavo iš etninės Lietuvos kilęs Juzefas Pilsudskis."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "244369-244700; hash=6354d0a152439d6a9345a81f66248188a687d44b05de3c7b29d8c95c77ce4ae3; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Juzefas Pilsudskis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lenkų socialistų partija: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Juzefas Pilsudskis: mention_match, person, gap=61"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkų socialistų partija\" parinktas kaip owner_note_path. Targetas \"Juzefas Pilsudskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-22516
 
@@ -49,17 +39,6 @@ media_all_json: |-
 - t-001
   global_id: t-19793
   teiginys: "Lenkų socialistų partijos Lietuvoje delegatai dalyvavo susirinkime, į kurį atvyko apie 2 000 delegatų."
-  semantiniai_rysiai: "Lenkų socialistų partija gyveno Lietuva (0.61)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "236469-236963; hash=dbdb51084dbc3950f6b06bce32b78fe46011dcbe1332927ee9322ce0b303a799; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Lietuva: 0.61"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lenkų socialistų partija: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Partijos pavadinime ir tekste nurodyta, kad ši partija veikė Lietuvoje; artimiausias leistinas vietos ryšys yra gyveno."
   pagrindžia:
     - c-22515
 ## Reikšmingi paminėjimai
@@ -75,8 +54,8 @@ media_all_json: |-
     Lietuvoje delegatai. Kulminacinis suvažiavimo įvykis buvo rezoliucijos
     dėl politinės autonomijos Lietuvai suteikimo priėmimas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -91,8 +70,8 @@ media_all_json: |-
     tija. J. Pilsudskio šalininkai buvo ryžtingos kovos pirmiausia prieš Rusiją
     šalininkai, nevengę ir teroristinių veiksmų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -137,6 +116,3 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-19792
-
-## Ryšiai
-- Lenkų socialistų partija gyveno [[objektai/vietos/Lietuva]]

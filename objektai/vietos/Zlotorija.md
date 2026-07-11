@@ -30,19 +30,6 @@ Zlotorija buvo užimta po aštuonių dienų apsupties, pasidavus Bobrovnikams ir
 - t-001
   global_id: t-185322
   teiginys: "Zlotorija buvo užimta po aštuonių dienų apsupties, pasidavus Bobrovnikams ir išdavus Bidgoščių."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "651103-651346; hash=6e5d0e7c98d30a3fce5aa2d487a8ab75606f8649aeb1b34dde85aa7ade279bfe; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Bidgoščius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Zlotorija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Bidgoščius: mention_match, place, gap=85"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Zlotorija\" parinktas kaip owner_note_path. Targetas \"Bidgoščius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-168683
 - susijęs iš Bidgoščius: Pasidavus Bobrovnikams ir išdavus Bidgoščių, po aštuonių dienų apsupties buvo užimta Zlotorija.
@@ -66,8 +53,8 @@ Zlotorija buvo užimta po aštuonių dienų apsupties, pasidavus Bobrovnikams ir
     kryžiuočių sėkmę, įsakė visoms Lenkijos žemėms stoti
     į kovą su Prūsija.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -78,7 +65,8 @@ Zlotorija buvo užimta po aštuonių dienų apsupties, pasidavus Bobrovnikams ir
 - id: c-168683
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 372"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 372."
   citata_originali: |
     Žiau­
     riai nusiaubė Lipną ir Ripiną. Kai pasidavė Bobrovnikai
@@ -92,6 +80,3 @@ Zlotorija buvo užimta po aštuonių dienų apsupties, pasidavus Bobrovnikams ir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185322
-
-## Ryšiai
-- Užėmė Zlotoriją: [[objektai/grupes/Kryžiuočių ordinas]]

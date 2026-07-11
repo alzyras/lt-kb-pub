@@ -34,9 +34,6 @@ Sven Hedin'o KELIONE PO TIBETĄ, versta J. Čia nepaprastai įdomiai aprašoma d
 - t-001
   global_id: t-36059
   teiginys: "„Kelionėje po Tibetą“ aprašoma Sven Hedino kelionė į Tibetą, nuotykiai ir kovos su vietos tautelėmis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "731540-731833; hash=36178a99d3b70b63f191c22fb89da214ead176a1fddb2aa75cde0ec489b9d958; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-38415
 ## Reikšmingi paminėjimai
@@ -52,8 +49,8 @@ Sven Hedin'o KELIONE PO TIBETĄ, versta J. Čia nepaprastai įdomiai aprašoma d
     tą — Lhasą.
     6.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

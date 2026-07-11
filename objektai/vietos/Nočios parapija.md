@@ -30,14 +30,6 @@ Lydos apskrities Nočios parapijoje yra Ragutėniškių (Ragutieniszfd) bajorkai
 - t-001
   global_id: t-194768
   teiginys: "Lydos apskrities Nočios parapijoje yra Ragutėniškių (Ragutieniszfd) bajorkaimis; ši vieta, be abejo, susijusi su anksčiau nurodytu moterų žynių pavadinimu."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "525876-526247; hash=6fe50f503b753c4c3e109dbd7a5d1aafb13f3e9dc77afd852e72d8bd27888eae; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-177164
 ## Reikšmingi paminėjimai
@@ -54,8 +46,8 @@ Lydos apskrities Nočios parapijoje yra Ragutėniškių (Ragutieniszfd) bajorkai
     nurodytu moterų žynių pavadinimu. Negalima rasti ryškesnio
     prieštaravimo, kaip tarp anų ir šių žynių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -66,7 +58,8 @@ Lydos apskrities Nočios parapijoje yra Ragutėniškių (Ragutieniszfd) bajorkai
 - id: c-177164
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 301"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 301."
   citata_originali: |
     Ragelienė (Ragutienie)
     Dievo Ragučio žynės; vieną užuominą apie jas radau žmo­

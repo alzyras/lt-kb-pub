@@ -40,19 +40,6 @@ auksinų sumą, iš minėto pardavimo sudariusi, kuri 1759 metų balandžio 22 d
 - t-001
   global_id: t-87630
   teiginys: "1759 m. balandžio 22 d. pas Barborą iš Sulistrovskių Čechavičienę buvo investuota 4000 lenkų auksinų spaustuvės suma."
-  temporaliniai_duomenys: "įvykio data: 1759 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pagrindžia faktą apie pas ją investuotą spaustuvės sumą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "388232-388756; hash=8ecab514dcf39aaf25e2e75f9534fca6252f78105abcbea90c506b834ab23ce8; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Barbora Radvilaitė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Barbora iš Sulistrovskių Čechavičienė: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Barbora Radvilaitė: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Barbora iš Sulistrovskių Čechavičienė\" parinktas kaip owner_note_path. Targetas \"Barbora Radvilaitė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-83609
 ## Reikšmingi paminėjimai
@@ -72,8 +59,8 @@ auksinų sumą, iš minėto pardavimo sudariusi, kuri 1759 metų balandžio 22 d
     tų, skaičiuojant nuo 100 po 7, kasmet būdavo gaunama po
     280 auksinų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

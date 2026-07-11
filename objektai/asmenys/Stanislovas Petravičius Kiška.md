@@ -30,12 +30,6 @@ Etmonas ponas Stanislovas Petravičius Kiška tuo melu sunkiai susirgo ir visai 
 - t-001
   global_id: t-194125
   teiginys: "Etmonas ponas Stanislovas Petravičius Kiška tuo melu sunkiai susirgo ir visai nebegalėjo išsilaikyti balne, bet dėl didelio svar bumo įsakė vežioti jį su vežimu."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "298220-298714; hash=0fac3f85220bf12a40db49d24ed83f13ac489c7fbaa285b2aeccf00f983575c7; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176738
 - susijęs iš [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.).md#claim-t-195011|Klecko mūšis (1506 m. rugpjūčio 6 d.)]]: Lietuvos metraštis pasakoja, kad prieš Klecko mūšį etmonas Stanislovas Petravičius Kiška sunkiai susirgo ir nebegalėjo laikytis balne.
@@ -58,8 +52,8 @@ Etmonas ponas Stanislovas Petravičius Kiška tuo melu sunkiai susirgo ir visai 
     riuomenei ir patraukė į Klecką, o pirmyn išsiuntė ke­
     letą šimtų raitelių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -70,7 +64,8 @@ Etmonas ponas Stanislovas Petravičius Kiška tuo melu sunkiai susirgo ir visai 
 - id: c-176738
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 168"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 168."
   citata_originali: |
     Etmonas ponas
     Stanislovas Petravičius Kiška tuo melu sunkiai susirgo

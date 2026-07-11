@@ -61,16 +61,6 @@ Nenurodyta
 - t-001
   global_id: t-87243
   teiginys: "Pasak Lietuvos kronikininkų ir vietos padavimų, Lizdeika ir jo pirmtakai iš bokšto skelbdavo pranašystes Vilniaus pagonims."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "234499-235987; hash=aa81fc8435521c7f03f36671074baa58e32ccefa840737ffe9e904b3411b73ae; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žynių pranašysčių skelbimas iš bokšto Vilniaus pagonims: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=32"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žynių pranašysčių skelbimas iš bokšto Vilniaus pagonims\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-83222
 
@@ -78,19 +68,6 @@ Nenurodyta
 - t-002
   global_id: t-183829
   teiginys: "Padavimuose dabartinė katedros varpinė tapatinta su bokštu, iš kurio Lizdeika ir jo pirmtakai Vilniaus pagonims skelbdavo pranašystes."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "234499-235987; hash=aa81fc8435521c7f03f36671074baa58e32ccefa840737ffe9e904b3411b73ae; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lizdeika: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žynių pranašysčių skelbimas iš bokšto Vilniaus pagonims: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lizdeika: mention_match, person, gap=17"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žynių pranašysčių skelbimas iš bokšto Vilniaus pagonims\" parinktas kaip owner_note_path. Targetas \"Lizdeika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-83222
 
@@ -98,12 +75,6 @@ Nenurodyta
 - t-003
   global_id: t-194195
   teiginys: "Tas pats dviejų aukštų pastatas, la bai storo mūro sienomis, stovintis šalimais katedros bokšto, iki 1832 metų priklausęs diecezijos konsisto rijai ir gyvenamas kunigų invalidų, minėtais metais, kaip ir daugelis ki tų mūrinių pastatų, supančių kated ros."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "234499-235987; hash=aa81fc8435521c7f03f36671074baa58e32ccefa840737ffe9e904b3411b73ae; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-83222
 ## Reikšmingi paminėjimai
@@ -147,8 +118,8 @@ Nenurodyta
     pranašystės. Tačiau nėra patikimų
     tam įrodymu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

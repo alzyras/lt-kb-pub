@@ -46,16 +46,6 @@ Nenurodyta
 - t-004
   global_id: t-07812
   teiginys: "Vasarą visi valgė ant žemės, prisikloję dembliais ar meškenomis."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "89055-89707; hash=1926b744a82ae7243fb9fafa30c32448c1f9765ce26d4155b750ed36760b78f9; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
-  ryšio_patikimumas: "susije_su -> Duona: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vasaros valgymas ant žemės ir paprasti sriuobalai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Duona: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vasaros valgymas ant žemės ir paprasti sriuobalai\" parinktas kaip owner_note_path. Targetas \"Duona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-09971
 ## Reikšmingi paminėjimai
@@ -71,8 +61,8 @@ Nenurodyta
         stigavoja: „Duok, dievali,– sako, – pievoj karklyną, putroj kankolą^349 “; lygia dalia į skystą putrą
         sakoma tebėra: „Et, – sako, – pliurškalas, kruopas kruopą gaudo“.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

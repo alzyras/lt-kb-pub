@@ -32,16 +32,6 @@ f Kojelavičius Pagraudenę vadina apylinkę Žemaitijoje: pograudienb C S 7/7 S
 - t-001
   global_id: t-87997
   teiginys: "Kojelavičius Pagraudenę vadino Žemaitijos apylinke."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "126145-126601; hash=ceabc446aa391d0490ebb0f2ff05ea01bac31969faabb9984c16ddc766b38223; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Pagraudenė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kojałowicz Kojelavičius: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Pagraudenė: mention_match, place, gap=13"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kojałowicz Kojelavičius\" parinktas kaip owner_note_path. Targetas \"Pagraudenė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-83976
 ## Reikšmingi paminėjimai
@@ -63,8 +53,8 @@ f Kojelavičius Pagraudenę vadina apylinkę Žemaitijoje: pograudienb C S 7/7 S
     na apylinkę Žemaitijoje: pograudien-
     b C S 7/7 Samogitia agri. Hist. Lithu. p. 436.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

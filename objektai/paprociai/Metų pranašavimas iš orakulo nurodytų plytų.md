@@ -54,21 +54,6 @@ Nenurodyta
 - t-001
   global_id: t-189847
   teiginys: "Narbutas pasakoja, kad apvaliame šventyklos bokšte orakulo nurodytos plytos su ženklais turėjo rodyti gerus ar prastus metus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "471608-472495; hash=87a7bfb625151387150d675f28a0606fdc296cb8f40e2aa7e5f44df2116cc9b0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aukuras: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Metų pranašavimas iš orakulo nurodytų plytų: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Aukuras: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Metų pranašavimas iš orakulo nurodytų plytų\" parinktas kaip owner_note_path. Targetas \"Aukuras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172730
 
@@ -76,17 +61,6 @@ Nenurodyta
 - t-002
   global_id: t-189848
   teiginys: "Narbutas rašo, kad dauguma orakulo plytų dar buvo matoma pietinėje Katedros varpinės pusėje po jos perstatymo po 1399 m. gaisro."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: po 1399 m.; įvykio data: 1399 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Plytų siejimas su orakulo legenda paliktas su Narbuto atribucija. Nepridėtas teiginys apie 1387 m. šventyklos griovimo pradžią."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "472535-472980; hash=ac4a8438d1889fe817d43d2c504f49a355edf56d7ab1bdec6097f0c08881d448; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172731
 ## Reikšmingi paminėjimai
@@ -112,8 +86,8 @@ Nenurodyta
     dvigubo kryžiaus ženklu: tai ji buvo orakulo dovana kuni­
     gaikščiui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -133,8 +107,8 @@ Nenurodyta
     buvo 121-oji plyta; tą dieną pakilo pirmoji ranka šventyklai
     sugriauti“ .
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -145,7 +119,8 @@ Nenurodyta
 - id: c-172730
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 271"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 271."
   citata_originali: |
     Tas rūmas turėjo apvalų bokš­
     tą, iš kurio buvo stebimas saulės judėjimas; pagal tą stebėji­
@@ -173,7 +148,8 @@ Nenurodyta
 - id: c-172731
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 271"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 271."
   citata_originali: |
     Kiti pasa­
     kojo, kad, priėjus šį ženklą, žlugs stabmeldystė, ir krikščio­

@@ -60,17 +60,6 @@ Nenurodyta
 - t-002
   global_id: t-47822
   teiginys: "Per Rygą Lietuva iš Vakarų gaudavo būtinų prekių, tarp jų druskos, vilnonių medžiagų ir geležies."
-  semantiniai_rysiai: "Lietuva prekiavo su Ryga (0.74)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "813482-813819; hash=5eaf6a719085a4e090922657a8a5b45e9be42143b85e3ae63da4ebc389433595; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
-  ryšio_patikimumas: "prekiavo_su -> Ryga: 0.74"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Ryga: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys rodo Lietuvos prekybinį ryšį per Rygą, kuri citatoje apibūdinta kaip svarbus prekybos centras Lietuvai."
   pagrindžia:
     - c-31014
 
@@ -78,17 +67,6 @@ Nenurodyta
 - t-001
   global_id: t-47823
   teiginys: "Per Rygą Lietuva iš Vakarų gaudavo būtiniausių dalykų, tarp jų druską, vilnones medžiagas ir geležį."
-  semantiniai_rysiai: "Lietuva prekiavo su Ryga (0.74)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "813482-813819; hash=5eaf6a719085a4e090922657a8a5b45e9be42143b85e3ae63da4ebc389433595; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
-  ryšio_patikimumas: "prekiavo_su -> Ryga: 0.74"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Ryga: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys rodo Lietuvos prekybinį ryšį per Rygą, kuri citatoje apibūdinta kaip svarbus prekybos centras Lietuvai."
   pagrindžia:
     - c-31014
 ## Reikšmingi paminėjimai
@@ -104,8 +82,8 @@ Nenurodyta
     galėjo pasiūlyti Vakaruose gerą paklausą turinčių ir lengvai trans­
     portuojamų prekių (vaško ir kailių) neišsenkančius kiekius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

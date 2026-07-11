@@ -57,19 +57,6 @@ Nenurodyta
 - t-003
   global_id: t-89403
   teiginys: "Sventopelko ir brolių taika buvo sudaryta 1243 m. pavasarį."
-  temporaliniai_duomenys: "įvykio data: 1243 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata tiesiogiai palaiko datą, o pradinis teiginys turi bibliografinio triukšmo."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "293095-293210; hash=e31dfbc359579b19f4c28966d8efc823b9c6dba11e0a2498b8ed31f509b24d81; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Sventopelkas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Sventopelko ir brolių susitaikymas (1243 m. pavasaris): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Sventopelkas: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sventopelko ir brolių susitaikymas (1243 m. pavasaris)\" parinktas kaip owner_note_path. Targetas \"Sventopelkas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-85365
 
@@ -77,16 +64,6 @@ Nenurodyta
 - t-004
   global_id: t-89404
   teiginys: "Sventopelkas kaip užstatą turėjo atiduoti broliams Sartovicų pilį ir įkaitais atsiųsti Mstivojų, Vimarą bei Vojaką."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "291880-292872; hash=770b5ca533718554c3857298a2fc2b53462a46bbe602cdc5a2ebf7a75144bb5f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Sventopelkas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Sventopelko ir brolių susitaikymas (1243 m. pavasaris): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Sventopelkas: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sventopelko ir brolių susitaikymas (1243 m. pavasaris)\" parinktas kaip owner_note_path. Targetas \"Sventopelkas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-85362
 
@@ -94,16 +71,6 @@ Nenurodyta
 - t-002
   global_id: t-89405
   teiginys: "Po susitaikymo Sventopelkas grąžino brolius ir kitus rastus belaisvius, tarp jų 70 kilmingų matronų."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "291880-292872; hash=770b5ca533718554c3857298a2fc2b53462a46bbe602cdc5a2ebf7a75144bb5f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Sventopelkas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Sventopelko ir brolių susitaikymas (1243 m. pavasaris): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Sventopelkas: mention_match, person, gap=12"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sventopelko ir brolių susitaikymas (1243 m. pavasaris)\" parinktas kaip owner_note_path. Targetas \"Sventopelkas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-85362
 
@@ -111,16 +78,6 @@ Nenurodyta
 - t-001
   global_id: t-89406
   teiginys: "Sventopelkas atvyko pas legatą ir brolius, pripažino savo klaidą ir paprašė pasigailėjimo."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "290867-292509; hash=99ae3db70e39fecc6a596100c3c5b6e5f4a35254c5d261517ce0ad2d1ecc246c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Sventopelkas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Sventopelko ir brolių susitaikymas (1243 m. pavasaris): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Sventopelkas: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sventopelko ir brolių susitaikymas (1243 m. pavasaris)\" parinktas kaip owner_note_path. Targetas \"Sventopelkas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-85363
 ## Reikšmingi paminėjimai
@@ -146,8 +103,8 @@ Nenurodyta
 
                  40.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -180,8 +137,8 @@ Nenurodyta
     tai yra ėmęsis; šiems pažadams sutvirtinti jis davė broliams raštą, savo antspaudu
     patvirtintą277.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -194,8 +151,8 @@ Nenurodyta
     277 Taika sudaryta 1243 m. pavasarį (Ewald A. L., Die Eroberung..., 2, p. 99; Kujot
     S., Dzieje Prus..., 1, p. 713).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -206,7 +163,8 @@ Nenurodyta
 - id: c-85362
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 88"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 88."
   citata_originali: |
     Dėl to,
     brolių patariamas, sugrąžino jam bažnyčios malonę šiomis sąlygomis: kad jo ir brolių
@@ -237,7 +195,8 @@ Nenurodyta
 - id: c-85363
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 88"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 88."
   citata_originali: |
     Apie Sventopelko ir brolių susitaikymą
 
@@ -270,7 +229,8 @@ Nenurodyta
 - id: c-85365
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 88"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 88."
   citata_originali: |
     277 Taika sudaryta 1243 m. pavasarį (Ewald A. L., Die Eroberung..., 2, p. 99; Kujot
     S., Dzieje Prus..., 1, p. 713).

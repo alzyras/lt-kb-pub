@@ -35,9 +35,6 @@ Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те lib
 - t-001
   global_id: t-67258
   teiginys: "Posakis „Be manęs nieko negali būti sprendžiama apie mane“ buvo laikomas laisvės pagrindu ir siejamas su liberum veto teise."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "558776-559143; hash=b161875d2280b149bed27202b6e450d6c3640e64163b376438bf4aee13e2b1d8; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-67241
 
@@ -45,9 +42,6 @@ Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те lib
 - t-006
   global_id: t-67259
   teiginys: "Liberum veto reiškė laisvojo pasipriešinimo teisę, siejamą su principu „Be manęs nieko negali būti sprendžiama apie mane“."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "558776-559143; hash=b161875d2280b149bed27202b6e450d6c3640e64163b376438bf4aee13e2b1d8; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-67241
 
@@ -55,9 +49,6 @@ Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те lib
 - t-002
   global_id: t-67261
   teiginys: "Seime atsiradus atstovui, pasakiusiam „veto“, seimas turėdavo iširti."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "815019-815404; hash=edbef50a12f5694486eb4a912309248a8fbe84b7ba4b99112eeba5be361c2d22; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-67245
 
@@ -65,11 +56,6 @@ Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те lib
 - t-004
   global_id: t-67263
   teiginys: "Kardinalinių teisių įstatyme liberum veto buvo paliktas nepaliestas."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "830787-831291; hash=4a06a61e2fbd4bc942b2fa0b19a9b608b7b198122532119363a8b4402bbb15ca; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-67238
 
@@ -77,9 +63,6 @@ Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те lib
 - t-003
   global_id: t-67264
   teiginys: "Čartoriskiai siekė panaikinti liberum veto, bet pasipriešinus Rusų ir Prūsų atstovams veto buvo paliktas."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "824970-825197; hash=1e205d1c86bd6c045dcf4fef4fb99a0b6458e144d3917f74a2e6db312f737d30; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-67239
 
@@ -87,9 +70,6 @@ Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те lib
 - t-005
   global_id: t-67265
   teiginys: "Liberum veto buvo paliktas kartu su karalių elekcija ir bajorijos teise neklausyti karaliaus, jei nevykdomi pacta conventa punktai."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "842106-842610; hash=4d85b2f28dbba01510ca18ac17e74c14fe99fc4eef1453f82719a019511e80ce; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-67240
 ## Reikšmingi paminėjimai
@@ -108,8 +88,8 @@ Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те lib
     vėjais, o blogiausia buvo tai, kad Rusijai buvo pripažinta
     teisė prižiūrėti Respublikos vidaus gyvenimą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -128,8 +108,8 @@ Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те lib
     paliktas. Užtat buvo priimtas
     seimo darbų statutas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -149,8 +129,8 @@ Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те lib
     kariuomenės skaičių buvo leista padidinti iki 30.000 (nuo 1717
     m.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -168,8 +148,8 @@ Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те lib
     _(nihil de те, sine те)._ Tatai vadinosi _liberum veto,_ t. y. laisvojo
     pasipriešinimo teisė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -188,8 +168,8 @@ Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те lib
     susikalbėti. Visada atsirasdavo, kas pasakydavo _„veto",_ ir seimas
     turėdavo iširti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

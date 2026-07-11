@@ -32,9 +32,6 @@ Marija Lastauskienė - Lazdynų Pelėda.
 - t-001
   global_id: t-34879
   teiginys: "Marija Lastauskienė buvo siejama su Lazdynų Pelėdos vardu ir apysaka „Radybos“."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "741138-741399; hash=7d65448a5ca62468a7ce78d12a6731e34a226f0f7b988511d0e3d6ec09e63deb; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-36104
 ## Reikšmingi paminėjimai
@@ -48,8 +45,8 @@ Marija Lastauskienė - Lazdynų Pelėda.
     na jau mirusi, tačiau antroji dar gyva ir žada dar daug duoti mūsų
     literatūrai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

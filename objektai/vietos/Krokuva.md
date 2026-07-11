@@ -31,19 +31,19 @@ tags:
 amziai:
   - 'XII'
   - 'XVI'
-media_total_count: '10'
-media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/a/aa/1847_map_of_Krak%C3%B3w_by_Alexander_Kocziczka.jpg'
-media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3A1847_map_of_Krak%C3%B3w_by_Alexander_Kocziczka.jpg'
+media_total_count: '5'
+media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/0/01/Krakow_intages_1655_SP261.jpg'
+media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3AKrakow_intages_1655_SP261.jpg'
 media_primary_directness: 'direct'
-media_primary_relation_type: 'map_of'
+media_primary_relation_type: 'depicts'
 media_primary_json: |-
-  {"mediaId":"m-9024dea5ff7aa6650cae7b7d","title":"1847 map of Kraków by Alexander Kocziczka.jpg","caption":"1847 map of Kraków by Alexander Kocziczka","creator":"Alexander Kocziczka","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1847","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A1847_map_of_Krak%C3%B3w_by_Alexander_Kocziczka.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/a/aa/1847_map_of_Krak%C3%B3w_by_Alexander_Kocziczka.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1}
+  {"mediaId":"m-0653f7d4247ba8654b0d01d9","title":"Krakow intages 1655 SP261.jpg","caption":"1655 m. Krokuvos apsiausties ir miesto panoramos graviūra.","originalTitle":"Krakow intages 1655 SP261.jpg","creator":"Engraving by Dahlbergh.","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"http://libris.kb.se/bib/544922","dateDisplay":"1655","dateStart":null,"dateEnd":null,"width":8220,"height":4452,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKrakow_intages_1655_SP261.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/0/01/Krakow_intages_1655_SP261.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/01/Krakow_intages_1655_SP261.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"karas","label":"karas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.82},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/vietos/Krokuva.md","title":"Krokuva","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:38:56.674008+03:00","reviewedAt":"2026-07-11T02:39:59.511488+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matoma plati istorinė miesto panorama su įtvirtinimais, kariuomene, apšaudymu ir užrašu „CRACOVIA“.","metadataEvidence":"Pavadinimas mini „Krakow ... 1655“, aprašas nurodo „Cracovia Sedes Regia... capta... Anno 1655“.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Istorinė graviūra tiesiogiai vaizduoja Krokuvą.","isPrimary":1}
 media_direct_json: |-
-  [{"mediaId":"m-9024dea5ff7aa6650cae7b7d","title":"1847 map of Kraków by Alexander Kocziczka.jpg","caption":"1847 map of Kraków by Alexander Kocziczka","creator":"Alexander Kocziczka","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1847","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A1847_map_of_Krak%C3%B3w_by_Alexander_Kocziczka.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/a/aa/1847_map_of_Krak%C3%B3w_by_Alexander_Kocziczka.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1},{"mediaId":"m-add5e6adcbbc20103caf9f97","title":"20200502 Widok z Kopca Piłsudskiego w Krakowie 1411 1600.jpg","caption":"View from Piłsudski Mound in Kraków: Wolski Forest, Wawel Castle and Cathedral, Łęg Cogeneration and power plant, and part of the Old Town","creator":"Jakub Hałun","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","dateDisplay":"2020-05-02 14:11:49","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A20200502_Widok_z_Kopca_Pi%C5%82sudskiego_w_Krakowie_1411_1600.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/15/20200502_Widok_z_Kopca_Pi%C5%82sudskiego_w_Krakowie_1411_1600.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-62951e169f1682413b67b7d2","title":"20250529 104801 Running trails map in Polish Pilots Park, Kraków 01.jpg","caption":"Running trails map in Polish Pilots Park, Kraków","creator":"Dwxn","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","dateDisplay":"2025-05-29 10:48:01","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A20250529_104801_Running_trails_map_in_Polish_Pilots_Park%2C_Krak%C3%B3w_01.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/6f/20250529_104801_Running_trails_map_in_Polish_Pilots_Park%2C_Krak%C3%B3w_01.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-d84e6a1c9b8411372c095ae5","title":"20250529 104801 Running trails map in Polish Pilots Park, Kraków 02.jpg","caption":"Running trails map in Polish Pilots Park, Kraków","creator":"Dwxn","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","dateDisplay":"2025-05-29 10:48:16","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A20250529_104801_Running_trails_map_in_Polish_Pilots_Park%2C_Krak%C3%B3w_02.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/57/20250529_104801_Running_trails_map_in_Polish_Pilots_Park%2C_Krak%C3%B3w_02.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-77b268dc9912f75d4adadbbd","title":"20250529 104801 Running trails map in Polish Pilots Park, Kraków 03.jpg","caption":"Running trails map in Polish Pilots Park, Kraków","creator":"Dwxn","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","dateDisplay":"2025-05-29 10:48:21","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A20250529_104801_Running_trails_map_in_Polish_Pilots_Park%2C_Krak%C3%B3w_03.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/50/20250529_104801_Running_trails_map_in_Polish_Pilots_Park%2C_Krak%C3%B3w_03.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-0653f7d4247ba8654b0d01d9","title":"Krakow intages 1655 SP261.jpg","caption":"Krakow intages 1655. Pfalzgrefven Carl Gustafs festmåltid i Nürnberg. Cracovia Sedes Regia obsessa et à Serenissimo Sveo-Gothorum Rege Carolo Gvstavo diditone(!) capta d: 8 Octob: Anno 1655. Staden i hela dess utsträckning, öfver hvilken bomber nedfalla från svenskarnes batterier. I förgrunden svenska lägret. [Sign.] E.I. Dahlbergh ad viv: delin. - W. Swidde Sculp. Kopparstick i 2 blad, tills. 300 x 562. Ur Pufendorf. [Bildbeskrivning: Snoilsky: Historiska planscher. Ny uppl.]","creator":"Engraving by Dahlbergh.","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1655","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKrakow_intages_1655_SP261.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/01/Krakow_intages_1655_SP261.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-7ad94dac4b282700cd634693","title":"Kraków location map.svg","caption":"Location map of Kraków , Lesser Poland Voivodeship , Poland . Geographic limits of the map: N: 50.15 N S: 49.95 N W: 19.76 E E: 20.26 E","creator":"SANtosito","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","dateDisplay":"2020-10-07","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKrak%C3%B3w_location_map.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/3/37/Krak%C3%B3w_location_map.svg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-46cdf64ce27c982ddf0471d5","title":"Kraków rail location map.svg","caption":"Kraków location map","creator":"Winnetou14","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY 4.0","rightsNote":"Creative Commons Attribution 4.0","dateDisplay":"2023-12-14","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKrak%C3%B3w_rail_location_map.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fe/Krak%C3%B3w_rail_location_map.svg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-33d17ad3fa0703b1677c5f6b","title":"Andrzej Jan Dudrak - Explanation for the painting \"The Union of Lublin\" - MNK IX-4689-1 (450642).jpg","caption":"Explanation for the painting \"The Union of Lublin\"","creator":"Andrzej Jan Dudrak","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2 połowa XIX wieku","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AAndrzej_Jan_Dudrak_-_Explanation_for_the_painting_%22The_Union_of_Lublin%22_-_MNK_IX-4689-1_%28450642%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/9/90/Andrzej_Jan_Dudrak_-_Explanation_for_the_painting_%22The_Union_of_Lublin%22_-_MNK_IX-4689-1_%28450642%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-5ece2502d91058fe97787f70","title":"Dahlbergh Zawichost.jpg","caption":"Przeprawa wojsk szwedzkich przez Wisłę pod Zawichostem w 1657 roku. Na pierwszym planie miasto Zawichost, w tle zniszczony zamek.","creator":"Erik Dahlbergh","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1696","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ADahlbergh_Zawichost.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3a/Dahlbergh_Zawichost.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0}]
+  [{"mediaId":"m-0653f7d4247ba8654b0d01d9","title":"Krakow intages 1655 SP261.jpg","caption":"1655 m. Krokuvos apsiausties ir miesto panoramos graviūra.","originalTitle":"Krakow intages 1655 SP261.jpg","creator":"Engraving by Dahlbergh.","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"http://libris.kb.se/bib/544922","dateDisplay":"1655","dateStart":null,"dateEnd":null,"width":8220,"height":4452,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKrakow_intages_1655_SP261.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/0/01/Krakow_intages_1655_SP261.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/01/Krakow_intages_1655_SP261.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"karas","label":"karas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.82},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/vietos/Krokuva.md","title":"Krokuva","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:38:56.674008+03:00","reviewedAt":"2026-07-11T02:39:59.511488+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matoma plati istorinė miesto panorama su įtvirtinimais, kariuomene, apšaudymu ir užrašu „CRACOVIA“.","metadataEvidence":"Pavadinimas mini „Krakow ... 1655“, aprašas nurodo „Cracovia Sedes Regia... capta... Anno 1655“.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Istorinė graviūra tiesiogiai vaizduoja Krokuvą.","isPrimary":1},{"mediaId":"m-9024dea5ff7aa6650cae7b7d","title":"1847 map of Kraków by Alexander Kocziczka.jpg","caption":"1847 m. Krokuvos ir Podgórzės planas, sudarytas Alexanderio Kocziczkos.","originalTitle":"1847 map of Kraków by Alexander Kocziczka.jpg","creator":"Alexander Kocziczka","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"https://www.raremaps.com/gallery/detail/66009/plan-von-krakau-mit-podgorze-und-der-nachsten-umgebung-her-kocziczka","dateDisplay":"1847","dateStart":null,"dateEnd":null,"width":10658,"height":14578,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A1847_map_of_Krak%C3%B3w_by_Alexander_Kocziczka.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/a/aa/1847_map_of_Krak%C3%B3w_by_Alexander_Kocziczka.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/a/aa/1847_map_of_Krak%C3%B3w_by_Alexander_Kocziczka.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95},{"code":"miesto-planas","label":"miesto-planas","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/vietos/Krokuva.md","title":"Krokuva","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:38:56.671526+03:00","reviewedAt":"2026-07-11T02:39:59.508763+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas istorinis miesto planas su užrašu „PLAN von KRAKAU mit PODGORZE“, pažymėtomis gatvėmis, Vyslos upe ir miesto priemiesčiais.","metadataEvidence":"Pavadinimas ir aprašas nurodo „1847 map of Kraków by Alexander Kocziczka“, data 1847, Wikimedia Commons.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Aiškus istorinis Krokuvos žemėlapis, tiesiogiai vaizduojantis target.","isPrimary":0},{"mediaId":"m-add5e6adcbbc20103caf9f97","title":"20200502 Widok z Kopca Piłsudskiego w Krakowie 1411 1600.jpg","caption":"Krokuvos panorama nuo Piłsudskio piliakalnio, matyti Vavelis ir senamiesčio dalis.","originalTitle":"20200502 Widok z Kopca Piłsudskiego w Krakowie 1411 1600.jpg","creator":"Jakub Hałun","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2020-05-02 14:11:49","dateStart":null,"dateEnd":null,"width":5772,"height":3853,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A20200502_Widok_z_Kopca_Pi%C5%82sudskiego_w_Krakowie_1411_1600.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/1/15/20200502_Widok_z_Kopca_Pi%C5%82sudskiego_w_Krakowie_1411_1600.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/15/20200502_Widok_z_Kopca_Pi%C5%82sudskiego_w_Krakowie_1411_1600.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/vietos/Krokuva.md","title":"Krokuva","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:38:56.675075+03:00","reviewedAt":"2026-07-11T02:39:59.515064+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matoma miesto panorama, želdynai, Vavelio kompleksas, bažnyčių bokštai ir pramoniniai objektai.","metadataEvidence":"Aprašas nurodo vaizdą iš Piłsudskio piliakalnio Krokuvoje, su Vavelio pilimi, katedra ir senamiesčio dalimi.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdas tiesiogiai dokumentuoja Krokuvos miesto panoramą.","isPrimary":0},{"mediaId":"m-7ad94dac4b282700cd634693","title":"Kraków location map.svg","caption":"Krokuvos vietos žemėlapis su miesto ribomis, keliais ir vandens telkiniais.","originalTitle":"Kraków location map.svg","creator":"SANtosito","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2020-10-07","dateStart":null,"dateEnd":null,"width":1001,"height":641,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKrak%C3%B3w_location_map.svg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/3/37/Krak%C3%B3w_location_map.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/3/37/Krak%C3%B3w_location_map.svg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/vietos/Krokuva.md","title":"Krokuva","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:38:56.677650+03:00","reviewedAt":"2026-07-11T02:39:59.516520+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas detalus žemėlapis su Krokuvos miesto ribomis, kelių tinklu, upėmis ir aplinkinėmis teritorijomis.","metadataEvidence":"Pavadinimas „Kraków location map.svg“, aprašas nurodo „Location map of Kraków, Lesser Poland Voivodeship, Poland“.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Aiškiai identifikuotas ir vizualiai pateiktas Krokuvos miesto žemėlapis.","isPrimary":0},{"mediaId":"m-46cdf64ce27c982ddf0471d5","title":"Kraków rail location map.svg","caption":"Krokuvos geležinkelių vietos žemėlapis.","originalTitle":"Kraków rail location map.svg","creator":"Winnetou14","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY 4.0","rightsNote":"Creative Commons Attribution 4.0","licenseUrl":"https://creativecommons.org/licenses/by/4.0","attribution":"Own work","dateDisplay":"2023-12-14","dateStart":null,"dateEnd":null,"width":1001,"height":641,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKrak%C3%B3w_rail_location_map.svg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fe/Krak%C3%B3w_rail_location_map.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fe/Krak%C3%B3w_rail_location_map.svg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"transportas","label":"transportas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/vietos/Krokuva.md","title":"Krokuva","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:38:56.674719+03:00","reviewedAt":"2026-07-11T02:39:59.513286+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas miesto administracinių ribų ir geležinkelio linijų scheminis žemėlapis.","metadataEvidence":"Pavadinimas „Kraków rail location map.svg“, aprašas „Kraków location map“.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai tiesioginis Krokuvos vietos žemėlapis.","isPrimary":0}]
 media_contextual_json: |-
   []
 media_all_json: |-
-  [{"mediaId":"m-9024dea5ff7aa6650cae7b7d","title":"1847 map of Kraków by Alexander Kocziczka.jpg","caption":"1847 map of Kraków by Alexander Kocziczka","creator":"Alexander Kocziczka","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1847","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A1847_map_of_Krak%C3%B3w_by_Alexander_Kocziczka.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/a/aa/1847_map_of_Krak%C3%B3w_by_Alexander_Kocziczka.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1},{"mediaId":"m-add5e6adcbbc20103caf9f97","title":"20200502 Widok z Kopca Piłsudskiego w Krakowie 1411 1600.jpg","caption":"View from Piłsudski Mound in Kraków: Wolski Forest, Wawel Castle and Cathedral, Łęg Cogeneration and power plant, and part of the Old Town","creator":"Jakub Hałun","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","dateDisplay":"2020-05-02 14:11:49","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A20200502_Widok_z_Kopca_Pi%C5%82sudskiego_w_Krakowie_1411_1600.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/15/20200502_Widok_z_Kopca_Pi%C5%82sudskiego_w_Krakowie_1411_1600.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-62951e169f1682413b67b7d2","title":"20250529 104801 Running trails map in Polish Pilots Park, Kraków 01.jpg","caption":"Running trails map in Polish Pilots Park, Kraków","creator":"Dwxn","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","dateDisplay":"2025-05-29 10:48:01","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A20250529_104801_Running_trails_map_in_Polish_Pilots_Park%2C_Krak%C3%B3w_01.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/6f/20250529_104801_Running_trails_map_in_Polish_Pilots_Park%2C_Krak%C3%B3w_01.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-d84e6a1c9b8411372c095ae5","title":"20250529 104801 Running trails map in Polish Pilots Park, Kraków 02.jpg","caption":"Running trails map in Polish Pilots Park, Kraków","creator":"Dwxn","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","dateDisplay":"2025-05-29 10:48:16","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A20250529_104801_Running_trails_map_in_Polish_Pilots_Park%2C_Krak%C3%B3w_02.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/57/20250529_104801_Running_trails_map_in_Polish_Pilots_Park%2C_Krak%C3%B3w_02.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-77b268dc9912f75d4adadbbd","title":"20250529 104801 Running trails map in Polish Pilots Park, Kraków 03.jpg","caption":"Running trails map in Polish Pilots Park, Kraków","creator":"Dwxn","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","dateDisplay":"2025-05-29 10:48:21","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A20250529_104801_Running_trails_map_in_Polish_Pilots_Park%2C_Krak%C3%B3w_03.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/50/20250529_104801_Running_trails_map_in_Polish_Pilots_Park%2C_Krak%C3%B3w_03.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-0653f7d4247ba8654b0d01d9","title":"Krakow intages 1655 SP261.jpg","caption":"Krakow intages 1655. Pfalzgrefven Carl Gustafs festmåltid i Nürnberg. Cracovia Sedes Regia obsessa et à Serenissimo Sveo-Gothorum Rege Carolo Gvstavo diditone(!) capta d: 8 Octob: Anno 1655. Staden i hela dess utsträckning, öfver hvilken bomber nedfalla från svenskarnes batterier. I förgrunden svenska lägret. [Sign.] E.I. Dahlbergh ad viv: delin. - W. Swidde Sculp. Kopparstick i 2 blad, tills. 300 x 562. Ur Pufendorf. [Bildbeskrivning: Snoilsky: Historiska planscher. Ny uppl.]","creator":"Engraving by Dahlbergh.","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1655","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKrakow_intages_1655_SP261.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/01/Krakow_intages_1655_SP261.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-7ad94dac4b282700cd634693","title":"Kraków location map.svg","caption":"Location map of Kraków , Lesser Poland Voivodeship , Poland . Geographic limits of the map: N: 50.15 N S: 49.95 N W: 19.76 E E: 20.26 E","creator":"SANtosito","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","dateDisplay":"2020-10-07","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKrak%C3%B3w_location_map.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/3/37/Krak%C3%B3w_location_map.svg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-46cdf64ce27c982ddf0471d5","title":"Kraków rail location map.svg","caption":"Kraków location map","creator":"Winnetou14","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY 4.0","rightsNote":"Creative Commons Attribution 4.0","dateDisplay":"2023-12-14","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKrak%C3%B3w_rail_location_map.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fe/Krak%C3%B3w_rail_location_map.svg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-33d17ad3fa0703b1677c5f6b","title":"Andrzej Jan Dudrak - Explanation for the painting \"The Union of Lublin\" - MNK IX-4689-1 (450642).jpg","caption":"Explanation for the painting \"The Union of Lublin\"","creator":"Andrzej Jan Dudrak","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"2 połowa XIX wieku","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AAndrzej_Jan_Dudrak_-_Explanation_for_the_painting_%22The_Union_of_Lublin%22_-_MNK_IX-4689-1_%28450642%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/9/90/Andrzej_Jan_Dudrak_-_Explanation_for_the_painting_%22The_Union_of_Lublin%22_-_MNK_IX-4689-1_%28450642%29.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-5ece2502d91058fe97787f70","title":"Dahlbergh Zawichost.jpg","caption":"Przeprawa wojsk szwedzkich przez Wisłę pod Zawichostem w 1657 roku. Na pierwszym planie miasto Zawichost, w tle zniszczony zamek.","creator":"Erik Dahlbergh","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1696","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ADahlbergh_Zawichost.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3a/Dahlbergh_Zawichost.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0}]
+  [{"mediaId":"m-0653f7d4247ba8654b0d01d9","title":"Krakow intages 1655 SP261.jpg","caption":"1655 m. Krokuvos apsiausties ir miesto panoramos graviūra.","originalTitle":"Krakow intages 1655 SP261.jpg","creator":"Engraving by Dahlbergh.","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"http://libris.kb.se/bib/544922","dateDisplay":"1655","dateStart":null,"dateEnd":null,"width":8220,"height":4452,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKrakow_intages_1655_SP261.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/0/01/Krakow_intages_1655_SP261.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/01/Krakow_intages_1655_SP261.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"karas","label":"karas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.82},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/vietos/Krokuva.md","title":"Krokuva","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:38:56.674008+03:00","reviewedAt":"2026-07-11T02:39:59.511488+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matoma plati istorinė miesto panorama su įtvirtinimais, kariuomene, apšaudymu ir užrašu „CRACOVIA“.","metadataEvidence":"Pavadinimas mini „Krakow ... 1655“, aprašas nurodo „Cracovia Sedes Regia... capta... Anno 1655“.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Istorinė graviūra tiesiogiai vaizduoja Krokuvą.","isPrimary":1},{"mediaId":"m-9024dea5ff7aa6650cae7b7d","title":"1847 map of Kraków by Alexander Kocziczka.jpg","caption":"1847 m. Krokuvos ir Podgórzės planas, sudarytas Alexanderio Kocziczkos.","originalTitle":"1847 map of Kraków by Alexander Kocziczka.jpg","creator":"Alexander Kocziczka","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"https://www.raremaps.com/gallery/detail/66009/plan-von-krakau-mit-podgorze-und-der-nachsten-umgebung-her-kocziczka","dateDisplay":"1847","dateStart":null,"dateEnd":null,"width":10658,"height":14578,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A1847_map_of_Krak%C3%B3w_by_Alexander_Kocziczka.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/a/aa/1847_map_of_Krak%C3%B3w_by_Alexander_Kocziczka.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/a/aa/1847_map_of_Krak%C3%B3w_by_Alexander_Kocziczka.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95},{"code":"miesto-planas","label":"miesto-planas","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/vietos/Krokuva.md","title":"Krokuva","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:38:56.671526+03:00","reviewedAt":"2026-07-11T02:39:59.508763+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas istorinis miesto planas su užrašu „PLAN von KRAKAU mit PODGORZE“, pažymėtomis gatvėmis, Vyslos upe ir miesto priemiesčiais.","metadataEvidence":"Pavadinimas ir aprašas nurodo „1847 map of Kraków by Alexander Kocziczka“, data 1847, Wikimedia Commons.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Aiškus istorinis Krokuvos žemėlapis, tiesiogiai vaizduojantis target.","isPrimary":0},{"mediaId":"m-add5e6adcbbc20103caf9f97","title":"20200502 Widok z Kopca Piłsudskiego w Krakowie 1411 1600.jpg","caption":"Krokuvos panorama nuo Piłsudskio piliakalnio, matyti Vavelis ir senamiesčio dalis.","originalTitle":"20200502 Widok z Kopca Piłsudskiego w Krakowie 1411 1600.jpg","creator":"Jakub Hałun","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2020-05-02 14:11:49","dateStart":null,"dateEnd":null,"width":5772,"height":3853,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A20200502_Widok_z_Kopca_Pi%C5%82sudskiego_w_Krakowie_1411_1600.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/1/15/20200502_Widok_z_Kopca_Pi%C5%82sudskiego_w_Krakowie_1411_1600.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/15/20200502_Widok_z_Kopca_Pi%C5%82sudskiego_w_Krakowie_1411_1600.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/vietos/Krokuva.md","title":"Krokuva","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:38:56.675075+03:00","reviewedAt":"2026-07-11T02:39:59.515064+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matoma miesto panorama, želdynai, Vavelio kompleksas, bažnyčių bokštai ir pramoniniai objektai.","metadataEvidence":"Aprašas nurodo vaizdą iš Piłsudskio piliakalnio Krokuvoje, su Vavelio pilimi, katedra ir senamiesčio dalimi.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdas tiesiogiai dokumentuoja Krokuvos miesto panoramą.","isPrimary":0},{"mediaId":"m-7ad94dac4b282700cd634693","title":"Kraków location map.svg","caption":"Krokuvos vietos žemėlapis su miesto ribomis, keliais ir vandens telkiniais.","originalTitle":"Kraków location map.svg","creator":"SANtosito","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2020-10-07","dateStart":null,"dateEnd":null,"width":1001,"height":641,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKrak%C3%B3w_location_map.svg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/3/37/Krak%C3%B3w_location_map.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/3/37/Krak%C3%B3w_location_map.svg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/vietos/Krokuva.md","title":"Krokuva","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:38:56.677650+03:00","reviewedAt":"2026-07-11T02:39:59.516520+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas detalus žemėlapis su Krokuvos miesto ribomis, kelių tinklu, upėmis ir aplinkinėmis teritorijomis.","metadataEvidence":"Pavadinimas „Kraków location map.svg“, aprašas nurodo „Location map of Kraków, Lesser Poland Voivodeship, Poland“.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Aiškiai identifikuotas ir vizualiai pateiktas Krokuvos miesto žemėlapis.","isPrimary":0},{"mediaId":"m-46cdf64ce27c982ddf0471d5","title":"Kraków rail location map.svg","caption":"Krokuvos geležinkelių vietos žemėlapis.","originalTitle":"Kraków rail location map.svg","creator":"Winnetou14","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY 4.0","rightsNote":"Creative Commons Attribution 4.0","licenseUrl":"https://creativecommons.org/licenses/by/4.0","attribution":"Own work","dateDisplay":"2023-12-14","dateStart":null,"dateEnd":null,"width":1001,"height":641,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKrak%C3%B3w_rail_location_map.svg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fe/Krak%C3%B3w_rail_location_map.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fe/Krak%C3%B3w_rail_location_map.svg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"transportas","label":"transportas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/vietos/Krokuva.md","title":"Krokuva","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:38:56.674719+03:00","reviewedAt":"2026-07-11T02:39:59.513286+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas miesto administracinių ribų ir geležinkelio linijų scheminis žemėlapis.","metadataEvidence":"Pavadinimas „Kraków rail location map.svg“, aprašas „Kraków location map“.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai tiesioginis Krokuvos vietos žemėlapis.","isPrimary":0}]
 ---
 # Krokuva
 
@@ -57,16 +57,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - t-079
   global_id: t-177258
   teiginys: "Henrikas vainikavosi Krokuvoje, nepaisė savo pažadų ir atidėliojo vedybas su Ona."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "578508-578978; hash=affc0aa3af5822b0cbbd8092d12f3a00e88c6a7b9d7620736dde7fd093a3bf11; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Augustas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Krokuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Augustas: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Krokuva\" parinktas kaip owner_note_path. Targetas \"Augustas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-46550
 
@@ -74,19 +64,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - t-085
   global_id: t-177259
   teiginys: "Alavas ir varis iš Vengrijos buvo gabenami į Krokuvą, ten superkami Vilniui, o plienas ir geležis vežami iš Alkuskų kasyklos."
-  temporaliniai_duomenys: "įvykio data: 1525 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalinta nuorodos liekana ir pataisyta kalba, nekeičiant citatos faktų."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "426900-427128; hash=535ed00dacc4f47a0cb7ca922a93cdf4c53514fef7674bdfc4d1716912099d1a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Prūsų žemė: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; prusai_place_context; same_sentence_locality; single_candidate_actor; single_candidate_target"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Krokuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Prūsai: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Krokuva\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-161164
 
@@ -94,19 +71,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - t-086
   global_id: t-177260
   teiginys: "1532 m. lapkričio 27 d. raštas buvo surašytas Krokuvoje."
-  temporaliniai_duomenys: "įvykio data: 1532 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis tekstas buvo dokumento datavimo formulė; perrašyta į enciklopedinį sakinį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "607236-607800; hash=77da739f0dba91d6c71cf350d7657e360f1be36bd51f00fc7ae070d3be69784a; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Krokuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Krokuva\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-161192
 
@@ -114,18 +78,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - t-046
   global_id: t-177261
   teiginys: "1257 m. Krokuva iš Boleslovo Droviojo gavo pirmąją municipalinę tvarką ir teutonų teises."
-  temporaliniai_duomenys: "įvykio data: 1257 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "39598-40209; hash=b57a2c6a40c8a3502ac2a6c5ab37c2823ecdea87ab5b4a63cb731c49285323d1; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Teutonai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Krokuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Teutonai: mention_match, group, gap=66"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Krokuva\" parinktas kaip owner_note_path. Targetas \"Teutonai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-161171
 
@@ -133,16 +85,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - t-051
   global_id: t-177262
   teiginys: "Prisižiūrėjęs į klestinčią Krokuvą, Vladislovas Jogaila nusprendė vilioti svetimtaučius kurtis Vilniuje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "248748-249424; hash=876764555d324b340f46ec7941349af4ab632c5de7ed22242ac0a16d332757c4; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Krokuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=21"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Krokuva\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-161153
 
@@ -150,19 +92,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - t-074
   global_id: t-177263
   teiginys: "Krokuva tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai karinei sąjungai."
-  temporaliniai_duomenys: "priklausymo laikotarpis: 1241 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Krokuva priklausė Hamburgas“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys sutvarkytas į pilną sakinį ir paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "34293-34545; hash=09bb6d468d5d373dc83e5c84f7954b2834e5df1b055ea853849a2bfb82e3d6cc; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Hamburgas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Krokuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Hamburgas: mention_match, place, gap=45"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Krokuva\" parinktas kaip owner_note_path. Targetas \"Hamburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-161170
 
@@ -170,17 +99,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - t-059
   global_id: t-177264
   teiginys: "Žygimanto Augusto laikais geriausi amatininkai iš Krokuvos apsigyveno Vilniuje ir prisidėjo prie cechų organizavimo."
-  semantiniai_rysiai: "Lenkai keliavo į Krokuva (0.68)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "639560-639676; hash=3d97962bcfaf5f211c4bb5ed2cb7385c6840e5e688af04be51dbdb5cd62cc51d; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Krokuva: 0.68"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lenkai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Krokuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citatoje sakoma, kad į Krokuvą buvo išsiųsti lenkų ponai, nors claim_text kalba apie kitą, nepagrįstą faktą."
   pagrindžia:
     - c-161152
 
@@ -188,16 +106,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - t-027
   global_id: t-177265
   teiginys: "Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose prisidėjo prie europinės kultūros įsisavinimo."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "96654-96956; hash=ade6640cd053d602bbe4fb017692b33a1c4a9e75f13d5a4ea15d9db013d7ac9d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Italija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Krokuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Italija: mention_match, place, gap=24"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Krokuva\" parinktas kaip owner_note_path. Targetas \"Italija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-161156
 
@@ -205,16 +113,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - t-087
   global_id: t-177267
   teiginys: "Kryžius su Šventojo Kryžiaus medžiu turėjo būti paliktas Krokuvos pilies koplyčioje, kur ilsėjosi karaliaus kūnas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "673914-674751; hash=39a7c8e20b20c29526605f61c4a3306111056983fb8e8ba34022de61a8b4561f; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Drabužiai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Krokuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Drabužiai: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Krokuva\" parinktas kaip owner_note_path. Targetas \"Drabužiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-161186
 
@@ -222,19 +120,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - t-043
   global_id: t-177269
   teiginys: "1403 m. Vytautas užtikrino Krokuvos pirkliams apsaugą visoje savo valstybėje ir leido jiems laisvai prekiauti Lietuvoje bei Rusijoje."
-  temporaliniai_duomenys: "įvykio data: 1403 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys tiksliai nusako citatoje pateiktą Vytauto suteiktą teisę Krokuvos pirkliams."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "623242-623710; hash=bcac649c4d7bb8b2a55426191d6e00807c8bd6cb044c4a0287b8dc1a2ed5a295; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Krokuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=83"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Krokuva\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-161178
 
@@ -242,16 +127,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - t-076
   global_id: t-177270
   teiginys: "Grzybowskio teigimu, Goštautas pranciškonu tapo Krokuvoje, o vėliau Vilniuje vertė miestiečius į krikščionybę."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "84887-85481; hash=4cfcd4f7d0ef06a9971b12d1708d6ce6405693abb8b057ed68e59e9d5b6ec592; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Krokuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=20"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Krokuva\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-161208
 
@@ -259,16 +134,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - t-072
   global_id: t-177271
   teiginys: "Jogailos pastatyta katedra buvo iškilmingai pašvęsta Krokuvos vyskupo šv. Stanislovo garbei."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "73680-74020; hash=6cd56071b899de4e9bd7823341e78890fd325f79a2c5dc38f7d30d0b85ccc5e6; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Altorius: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Krokuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Altorius: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Krokuva\" parinktas kaip owner_note_path. Targetas \"Altorius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-161165
 
@@ -276,18 +141,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - t-056
   global_id: t-177272
   teiginys: "1506 m. mirusio karaliaus palaikai buvo palaidoti Vilniuje, nes lietuviai bijojo juos vežti į Krokuvą."
-  temporaliniai_duomenys: "įvykio data: 1506 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "476959-477314; hash=fce8054a6a87700fa9aec445f2dc562aaca407a8a19f530f14101544718aac38; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Krokuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=30"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Krokuva\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-161189
 
@@ -295,19 +148,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - t-092
   global_id: t-177273
   teiginys: "1399 m. pavasarį Vytautas praleido Krokuvoje ir vykdė plačius pasiruošimus."
-  temporaliniai_duomenys: "įvykio data: 1399 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "864129-864402; hash=4c1babb8aab9b8012dc24f6d71a82a863f3805aa74c453adf9ee761e35520ce3; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kijevas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Krokuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kijevas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Krokuva\" parinktas kaip owner_note_path. Targetas \"Kijevas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-32157
 
@@ -315,16 +155,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - t-080
   global_id: t-177274
   teiginys: "Zamoiskis, vadovaudamas Lenkijos kariuomenei, neįleido Maksimilijono į Krokuvą, todėl buvo karūnuotas Zigmantas."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "606540-606818; hash=79ec34c46d1da67c53e8e9eaf853dd3f4e514b8bfa8d328b706a268f7a3722ea; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Krokuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=47"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Krokuva\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-46551
 
@@ -332,16 +162,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - t-042
   global_id: t-177275
   teiginys: "Vytauto laikų Lietuvai netoli buvo prekybos centrai, tarp jų Ryga, Dancigas ir Krokuva."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "609516-610114; hash=4056125572e6c63b0d8a40773ad14db47c76034a4534dd83638c832b4c1e654d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Baltija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Krokuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Baltija: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Krokuva\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-37478
 
@@ -349,16 +169,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - t-099
   global_id: t-177278
   teiginys: "Jei valdovas mirtų Lenkijos Karalystėje, jis norėjo būti palaidotas Krokuvos pilies bažnyčios koplyčioje prie tėvo kapo."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "651162-652094; hash=a0efbec60f85f88bb3fe5d86db1b0b159d7de14c2f83060f46c9c7ae80544598; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kūnas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Krokuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kūnas: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Krokuva\" parinktas kaip owner_note_path. Targetas \"Kūnas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-161185
 
@@ -366,19 +176,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - t-048
   global_id: t-177285
   teiginys: "1385 m. pabaigoje Jogaila paliko senąją sostinę ir su lietuvių kunigaikščių bei didikų svita išvyko į Krokuvą."
-  semantiniai_rysiai: "Jogaila (kunigaikštis, XIV–XV a.) keliavo į Krokuva (0.97)"
-  temporaliniai_duomenys: "įvykio data: 1385 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "114216-114674; hash=0133e21d7c56364e67c6d2ec862635f83597044f58c09a87d95b2ffd42be9b08; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Krokuva: 0.97"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Krokuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekste tiesiogiai sakoma, kad Jogaila išvyko į Krokuvą."
   pagrindžia:
     - c-161160
 
@@ -386,17 +183,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - t-031
   global_id: t-177282
   teiginys: "Vasarą rusų ir prūsų kariuomenės perėmė iniciatyvą: birželį Prūsijos kariuomenė užėmė Krokuvą, o rugpjūtį Rusijos kariuomenė – Vilnių."
-  semantiniai_rysiai: "Rusijos kariuomenė užėmė Vilnius (0.95)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "178837-179187; hash=8583156a81df3ac987af65a865bbc8de6cbf802d5bda406b40a04d6ddd9d6797; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Vilnius: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Rusijos kariuomenė: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekste tiesiogiai pasakyta, kad Rusijos kariuomenė užėmė Vilnių."
   pagrindžia:
     - c-161196
 
@@ -404,16 +190,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - t-071
   global_id: t-177283
   teiginys: "Vakarinėje LDK dalyje tarp Vilniaus ir Lucko didikai kūrė rezidencijas dėl reprezentacijos ir artumo Krokuvai."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "67172-67570; hash=7fd2fdaa0a750d8228af17031d01d535f864418f70325d7eb2659c0034c1237e; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Duona: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Krokuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Duona: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Krokuva\" parinktas kaip owner_note_path. Targetas \"Duona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-161187
 
@@ -421,19 +197,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - t-048
   global_id: t-177285
   teiginys: "1385 m. pabaigoje Jogaila paliko senąją sostinę ir su lietuvių kunigaikščių bei didikų svita išvyko į Krokuvą."
-  semantiniai_rysiai: "Jogaila (kunigaikštis, XIV–XV a.) keliavo į Krokuva (0.97)"
-  temporaliniai_duomenys: "įvykio data: 1385 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "114216-114674; hash=0133e21d7c56364e67c6d2ec862635f83597044f58c09a87d95b2ffd42be9b08; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Krokuva: 0.97"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Krokuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekste tiesiogiai sakoma, kad Jogaila išvyko į Krokuvą."
   pagrindžia:
     - c-161160
 
@@ -441,19 +204,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - t-070
   global_id: t-177286
   teiginys: "1525 m. Krokuvoje būsimasis Prūsų kunigaikštis iškilmingai prisiekė karaliui Zigmantui."
-  temporaliniai_duomenys: "įvykio data: 1525 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradiniame teiginyje yra neaiškus įvardis, todėl reikia suformuluoti savarankišką sakinį."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "426900-427128; hash=535ed00dacc4f47a0cb7ca922a93cdf4c53514fef7674bdfc4d1716912099d1a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Prūsų žemė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; prusai_place_context; same_sentence_locality; single_candidate_actor; single_candidate_target; target_after_predicate"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Krokuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Prūsai: mention_match, place, gap=20"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Krokuva\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-161157
 
@@ -461,16 +211,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - t-052
   global_id: t-177287
   teiginys: "Vytautas bandė dovanomis ir pažadais palenkti Krokuvos vyskupą Olesnickį, turėjusį lemiamą balsą karaliaus taryboje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "354765-355686; hash=c9d2a6f9299d70afe143905e96fb130d19c3ceff69940c127964d25d00a7eb87; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Karūna: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Krokuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Karūna: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Krokuva\" parinktas kaip owner_note_path. Targetas \"Karūna\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-161173
 
@@ -478,19 +218,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - t-036
   global_id: t-177288
   teiginys: "1385 m. sausį Skirgailos vadovaujama delegacija Krokuvoje ir Budoje galutinai sutarė dėl vėliau Krėvos akte pažadėtų dalykų."
-  semantiniai_rysiai: "Skirgaila keliavo į Krokuva (0.73)"
-  temporaliniai_duomenys: "įvykio data: 1385 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "776338-776559; hash=d10a92b2a7fe5ff4aaf41f6c1ba20e2b1084e64e3095f052dba938212c5c5008; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Krokuva: 0.73"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Skirgaila: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Krokuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Delegacija buvo vadovaujama Skirgailos ir veikė Krokuvoje, todėl galima atsargi kelionės į Krokuvą kraštinė."
   pagrindžia:
     - c-32156
 
@@ -498,16 +225,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - t-081
   global_id: t-177289
   teiginys: "Vytautas mėgino dovanomis ir pažadais palenkti Krokuvos vyskupą Olesnickį palaikyti jo karūnavimo siekį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "354765-355686; hash=c9d2a6f9299d70afe143905e96fb130d19c3ceff69940c127964d25d00a7eb87; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Karūna: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Krokuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Karūna: mention_match, thing, gap=40"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Krokuva\" parinktas kaip owner_note_path. Targetas \"Karūna\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-161173
 
@@ -515,17 +232,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - t-069
   global_id: t-177290
   teiginys: "Jogailai siekiant ponų tarybos sutikimo dėl Vytauto karūnacijos, į Krokuvą buvo išsiųsti su Jogaila į Vilnių atvykę Lenkijos ponai."
-  semantiniai_rysiai: "Jogaila (kunigaikštis, XIV–XV a.) keliavo į Vilnius (0.82)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "639560-639676; hash=3d97962bcfaf5f211c4bb5ed2cb7385c6840e5e688af04be51dbdb5cd62cc51d; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Vilnius: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Fraze tiesiogiai pasakyta, kad Jogaila buvo atvykęs į Vilnių."
   pagrindžia:
     - c-161195
 
@@ -533,16 +239,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - t-064
   global_id: t-177291
   teiginys: "Auksinis kryžius su Šventojo Kryžiaus medžiu turėjo likti Krokuvos pilies koplyčioje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "557818-558229; hash=36ce5da462576ab0df21303f5a071c467d7fecd7ccf391e1573f77a05b329b92; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžius: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Krokuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kryžius: mention_match, thing, gap=49"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Krokuva\" parinktas kaip owner_note_path. Targetas \"Kryžius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-161169
 
@@ -550,19 +246,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - t-029
   global_id: t-177292
   teiginys: "Seime Lietuva turėjo tik trečdalį vietų, nes buvo prilyginta vienai Lenkijos provincijai greta Didžiosios Lenkijos su Poznane ir Mažosios Lenkijos su Krokuva."
-  temporaliniai_duomenys: "įvykio data: 1588 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Perrašyta aiškiau, išskleidžiant neaiškią įvardžio nuorodą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "130597-131213; hash=3d65c59eac9eee991e1577edc7399c7ce854245b9cf4cb595e937392ce32c95b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Didžioji Lenkija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Krokuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Didžioji Lenkija: mention_match, place, gap=82"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Krokuva\" parinktas kaip owner_note_path. Targetas \"Didžioji Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-161150
 
@@ -570,19 +253,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - t-037
   global_id: t-177294
   teiginys: "1399 m. pavasarį Krokuvoje praleidęs Vytautas vykdė plačius pasiruošimus."
-  temporaliniai_duomenys: "įvykio data: 1399 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "864129-864402; hash=4c1babb8aab9b8012dc24f6d71a82a863f3805aa74c453adf9ee761e35520ce3; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kijevas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Krokuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kijevas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Krokuva\" parinktas kaip owner_note_path. Targetas \"Kijevas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-32157
 
@@ -590,16 +260,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - t-077
   global_id: t-177295
   teiginys: "Lenkijos kariuomenei vadovavęs hetmonas neįleido Maksimilijono į Krokuvą, todėl buvo karūnuotas atvykęs Zigmantas."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "606540-606818; hash=79ec34c46d1da67c53e8e9eaf853dd3f4e514b8bfa8d328b706a268f7a3722ea; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Krokuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=65"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Krokuva\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-46551
 
@@ -607,16 +267,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - t-075
   global_id: t-177296
   teiginys: "Sujungtos valstybės turėjo turėti bendrą valdovą, bendrai renkamą Lietuvoje ir karūnuojamą Krokuvoje."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "530677-531046; hash=6a7ced2b3755412cf96df1e4a60bf4e469351d79ac832a6f511e0e6d8561e51a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Krokuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=25"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Krokuva\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-24211
 
@@ -624,20 +274,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - t-049
   global_id: t-177297
   teiginys: "1387 m. sausį į Vilnių su Jogaila atvyko ir Krokuvoje pakrikštyti Lietuvos bajorai."
-  semantiniai_rysiai: "Bajorai keliavo į Vilnius (0.76); Bajorai gyveno Lietuva (0.70)"
-  temporaliniai_duomenys: "kelionės data: 1387 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys klaidingai nurodė atvykimą į Krokuvą; citata kalba apie atvykimą į Vilnių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "232203-232816; hash=2e6e2607fe78153cb9b89e62b94342e1e47410190c001e8624360c69aa26f217; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Vilnius: 0.76"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Bajorai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Lietuvos bajorai minimi tarp kartu su Jogaila į Vilnių atvykusiųjų."
   pagrindžia:
     - c-161149
 
@@ -645,19 +281,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - t-094
   global_id: t-177298
   teiginys: "1384 m. spalio 15 d. Liudviko Anjou duktė Jadvyga Krokuvoje buvo vainikuota Lenkijos karaliumi."
-  temporaliniai_duomenys: "įvykio data: 1384 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata apie Krokuvą geriausiai palaiko trumpą faktą apie Jadvygos vainikavimą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "774054-774278; hash=04a752731c4a25cb705db0f72ebf16a3228481a69940dd16e1dc29d46b75f640; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Krokuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=26"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Krokuva\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-32155
 
@@ -665,18 +288,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - t-060
   global_id: t-177299
   teiginys: "Alavas ir varis iš Vengrijos buvo gabenami į Krokuvą, o ten superkami į Vilnių."
-  temporaliniai_duomenys: "įvykio data: 1525 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "426900-427128; hash=535ed00dacc4f47a0cb7ca922a93cdf4c53514fef7674bdfc4d1716912099d1a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Krokuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=27"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Krokuva\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-161164
 
@@ -684,16 +295,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - t-055
   global_id: t-177302
   teiginys: "Žygimanto privilegijoje Magdeburgo teisė apibūdinta kaip Krokuvoje nuo seno naudota teisė."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "442693-443166; hash=d260b8a44268054924937dddb792908aa19d129b824165b61ae28f63b5140035; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Krokuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Krokuva\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-161159
 
@@ -701,18 +302,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - t-035
   global_id: t-177303
   teiginys: "1384 m. spalio 15 d. Liudviko Anjou dukra Jadvyga Krokuvoje buvo vainikuota Lenkijos karaliumi."
-  temporaliniai_duomenys: "įvykio data: 1384 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "774054-774278; hash=04a752731c4a25cb705db0f72ebf16a3228481a69940dd16e1dc29d46b75f640; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Krokuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=26"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Krokuva\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-32155
 
@@ -720,16 +309,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - t-058
   global_id: t-177304
   teiginys: "Didžioji iš Krokuvos pargabentos karališkosios vaistinės dalis liko Vilniuje ir tapo nuolatinės miesto vaistinės pradžia."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "306887-307271; hash=76635cc10f0131902f352a45cc775707e73b70e70e7e6d651624558e67bb1a98; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Krokuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=56"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Krokuva\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-161154
 
@@ -737,16 +316,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - t-079
   global_id: t-177305
   teiginys: "XIV a. Krokuvoje ir Liubline buvo siauros tiesios gatvės, susidariusios tarp gotikinių rūmų ir aukštų sienų."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "239211-240063; hash=752615ccc6d0e93cbebbe13da0002def371bce17473271225e45d54623244953; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Liublinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Krokuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Liublinas: mention_match, place, gap=13"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Krokuva\" parinktas kaip owner_note_path. Targetas \"Liublinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-161155
 
@@ -754,16 +323,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - t-050
   global_id: t-177306
   teiginys: "Krokuvos gatvės buvo tiesios, nors siauros, o Kazimiero Didžiojo statydinti Gelumbės prekybos namai laikyti neįprastai dideliais."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "239211-240063; hash=752615ccc6d0e93cbebbe13da0002def371bce17473271225e45d54623244953; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Krokuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Krokuva\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-161155
 
@@ -771,16 +330,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - t-072
   global_id: t-177307
   teiginys: "Su Jogaila į Vilnių atvykę lenkų ponai buvo išsiųsti į Krokuvą, bet Vytautas jų susitarimo nebesulaukė."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "430369-430585; hash=ba2f477dfc9dc52ae60669a0d4a98cf1224d3a83b5371ed2bd0d327c7ebaf7c4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Krokuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): mention_match, person, gap=13"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Krokuva\" parinktas kaip owner_note_path. Targetas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-161209
 
@@ -788,16 +337,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - t-038
   global_id: t-177308
   teiginys: "Prie Vorsklos žuvo Krokuvos vaivada ir Podolės valdytojas Spytekas iš Melsztyno."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "867499-867973; hash=9f2feded0d372b9acd5e36e4873e760b01794d37169af4e2db59ce331f814d60; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Podolė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Krokuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Podolė: mention_match, place, gap=20"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Krokuva\" parinktas kaip owner_note_path. Targetas \"Podolė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-32158
 
@@ -805,19 +344,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - t-054
   global_id: t-177309
   teiginys: "Baško rašė, kad 1254 m. gegužės 8 d. Krokuvos bažnyčioje, skelbiant Šv. Stanislovo kanonizavimą, dalyvavo Lietuvos vyskupas Vitas."
-  temporaliniai_duomenys: "įvykio data: 1254 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata faktą pateikia kaip Baško liudijimą, todėl reikia šaltinio pozicijos atribucijos."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "400649-400918; hash=be2584969aa4a608b21897c932399ddf9c4ba272afb3c710b53d714dbbb5e87e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Krokuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=69"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Krokuva\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-161194
 
@@ -825,18 +351,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - t-074
   global_id: t-177310
   teiginys: "1550 m. Barbora Krokuvoje buvo iškilmingai karūnuota Lenkijos karaliene."
-  temporaliniai_duomenys: "įvykio data: 1550 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "557818-558229; hash=36ce5da462576ab0df21303f5a071c467d7fecd7ccf391e1573f77a05b329b92; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Krokuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=37"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Krokuva\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-161151
 
@@ -844,16 +358,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - t-080
   global_id: t-177311
   teiginys: "Vladislovas Jogaila, matydamas klestinčią Krokuvą, siekė vilioti svetimtaučius kurtis Vilniuje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "248748-249424; hash=876764555d324b340f46ec7941349af4ab632c5de7ed22242ac0a16d332757c4; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Krokuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=44"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Krokuva\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-161153
 
@@ -861,19 +365,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - t-053
   global_id: t-177312
   teiginys: "1578 m. Steponas Batoras patvirtino funduotas mokyklas, suteikė joms Akademijos vardą ir prilygino Krokuvos akademijai."
-  temporaliniai_duomenys: "įvykio data: 1578 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys glaustai ir tiksliai perteikia citatos faktą apie Krokuvos akademiją."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "394831-395521; hash=39709801406326186a93e50720db31d8a23ac7400289b82f993ce82492ece8dd; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Steponas Batoras: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Krokuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Steponas Batoras: mention_match, person, gap=91"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Krokuva\" parinktas kaip owner_note_path. Targetas \"Steponas Batoras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-161158
 
@@ -881,20 +372,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - t-089
   global_id: t-177313
   teiginys: "Po paskutinio pralaimėjimo Vytautas nuvyko į Krokuvą ir netrukus grįžo į Lietuvą."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į Krokuva (0.94); Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į Lietuva (0.92)"
-  temporaliniai_duomenys: "kelionės data: 1386 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į Lietuva“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pirminis tekstas turi OCR triukšmo ir perteklinio aiškinimo, bet citata remia aiškų faktą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "417416-417974; hash=8d757697dfa2bffcdc126a39617f7df75b53fbe081cb87ceb96bbfee22364c8f; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Krokuva: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Krokuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Vytauto nuvykimą į Krokuvą."
   pagrindžia:
     - c-37476
 
@@ -902,19 +379,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - t-030
   global_id: t-177314
   teiginys: "Manoma, kad senojo Vilniaus universiteto studijų lygis nebuvo menkesnis nei Prahos, Krokuvos, Vienos ar Romos universitetuose."
-  temporaliniai_duomenys: "įvykio data: 1650 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir paremtas citata."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "147595-148043; hash=12a040d70a2d25325f5abdfcf81271a9df6374e2ee318d38437abb561afb7971; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Viena: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Krokuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Viena: mention_match, place, gap=10"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Krokuva\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-161179
 
@@ -922,16 +386,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - t-047
   global_id: t-177316
   teiginys: "Grzybowski teigė, kad Goštautas Krokuvoje tapo pranciškonu, o vėliau Vilniuje vertė miestiečius į krikščionybę."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "84887-85481; hash=4cfcd4f7d0ef06a9971b12d1708d6ce6405693abb8b057ed68e59e9d5b6ec592; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Krokuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=37"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Krokuva\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-161208
 
@@ -939,20 +393,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - t-040
   global_id: t-177317
   teiginys: "Po paskutinio savo pralaimėjimo Vytautas nuvyko į Krokuvą ir netrukus sugrįžo į Lietuvą."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į Lietuva (0.94)"
-  temporaliniai_duomenys: "kelionės data: 1386 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į Lietuva“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Reikia aiškiau įvardyti, kad kalbama apie Vytauto pralaimėjimą, ir pašalinti silpną formuluotę „greitai“."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "417416-417974; hash=8d757697dfa2bffcdc126a39617f7df75b53fbe081cb87ceb96bbfee22364c8f; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Lietuva: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekste tiesiogiai sakoma, kad Vytautas sugrįžo į Lietuvą."
   pagrindžia:
     - c-37476
 
@@ -960,19 +400,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - t-078
   global_id: t-177318
   teiginys: "Maskvos kunigaikštis pasiuntiniams į Krokuvą nurodydavo pareikšti užuojautą, jei karalius Zigmantas būtų miręs."
-  temporaliniai_duomenys: "įvykio data: 1548 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko faktą apie pasiuntinius į Krokuvą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "430001-430349; hash=e3db3fc69b35ed89f02452d45a9d96de6b8c7f22631988d7f88a31b0663082a7; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Maskva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Krokuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Maskva: mention_match, place, gap=37"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Krokuva\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-46546
 
@@ -980,19 +407,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - t-082
   global_id: t-177319
   teiginys: "1578 m. Steponas Batoras Vilniaus mokykloms suteikė Akademijos vardą ir prilygino jas kitoms akademijoms, ypač Krokuvos."
-  temporaliniai_duomenys: "įvykio data: 1578 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalintas OCR triukšmas ir išlaikyti tik citatoje esantys faktai."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "394831-395521; hash=39709801406326186a93e50720db31d8a23ac7400289b82f993ce82492ece8dd; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Steponas Batoras: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Krokuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Steponas Batoras: mention_match, person, gap=103"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Krokuva\" parinktas kaip owner_note_path. Targetas \"Steponas Batoras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-161158
 
@@ -1000,16 +414,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - t-028
   global_id: t-177320
   teiginys: "Lenkijos poveikis LDK reiškėsi bažnytinės sistemos organizavimu, studijomis Krokuvos universitete, administracijos perėmimu ir ūkio reforma."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "113966-114348; hash=e08f287300c697586061e3ceb26470ddb8fd54249d5a5d3dace10aa4f7dcaa3d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Krokuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=76"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Krokuva\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-161172
 
@@ -1017,16 +421,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - t-026
   global_id: t-177322
   teiginys: "Pastatyta katedra buvo iškilmingai pašvęsta Krokuvos vyskupo šv. Stanislovo garbei."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "113966-114348; hash=e08f287300c697586061e3ceb26470ddb8fd54249d5a5d3dace10aa4f7dcaa3d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Krokuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Krokuva\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-161172
 
@@ -1034,19 +428,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - t-075
   global_id: t-177323
   teiginys: "Benjaminas iš Tudelio teigė, kad 1160 m. į Aleksandrijos uostą užsukdavo ir Krokuvos pirklių laivai."
-  temporaliniai_duomenys: "įvykio data: 1160 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys tinkamai atribuuoja Benjaminui iš Tudelio ir yra paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "39598-40209; hash=b57a2c6a40c8a3502ac2a6c5ab37c2823ecdea87ab5b4a63cb731c49285323d1; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Laivai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Krokuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Laivai: mention_match, thing, gap=17"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Krokuva\" parinktas kaip owner_note_path. Targetas \"Laivai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-161171
 
@@ -1054,18 +435,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - t-073
   global_id: t-177324
   teiginys: "Maskvos kunigaikštis į Krokuvą siunčiamų pasiuntinių instrukcijose nurodydavo pareikšti užuojautą, jei karalius būtų miręs."
-  temporaliniai_duomenys: "įvykio data: 1548 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "430001-430349; hash=e3db3fc69b35ed89f02452d45a9d96de6b8c7f22631988d7f88a31b0663082a7; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Maskva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Krokuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Maskva: mention_match, place, gap=23"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Krokuva\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-46546
 
@@ -1073,16 +442,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - t-093
   global_id: t-177326
   teiginys: "Prie Vorsklos žuvo Vytautui ištikimi Smolensko vietininkai Boreikaičiai ir Krokuvos vaivada Spytekas iš Melsztyno."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "867499-867973; hash=9f2feded0d372b9acd5e36e4873e760b01794d37169af4e2db59ce331f814d60; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> vaivada: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Krokuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "vaivada: mention_match, thing, gap=9"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Krokuva\" parinktas kaip owner_note_path. Targetas \"vaivada\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-32158
 
@@ -1090,16 +449,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - t-091
   global_id: t-177327
   teiginys: "Vytauto laikais Krokuva buvo vienas prekybos centrų netoli Lietuvos."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "609516-610114; hash=4056125572e6c63b0d8a40773ad14db47c76034a4534dd83638c832b4c1e654d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Krokuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=43"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Krokuva\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-37478
 
@@ -1107,17 +456,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - t-057
   global_id: t-177329
   teiginys: "Aleksandrui sergant, iš Krokuvos atvyko gydymo meną išmanę Motiejus iš Blonios ir Aleksandras Balinskis."
-  semantiniai_rysiai: "Motiejus iš Blonios keliavo į Krokuva (0.78); Aleksandras Balinskis keliavo į Krokuva (0.78)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "483795-484684; hash=077c1462a31aa53d33086bdcd1b2838497e82e25c11ce09be8009c96e64380cf; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Krokuva: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Aleksandras Balinskis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Krokuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Aleksandras Balinskis nurodytas tarp iš Krokuvos atvykusių gydytojų; kryptis iš Krokuvos, ne į ją."
   pagrindžia:
     - c-161175
 
@@ -1125,16 +463,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - t-083
   global_id: t-177330
   teiginys: "Žygimantas privilegijose miestui suteikė Magdeburgo teisę, kuria Krokuva naudojosi nuo seno."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "442693-443166; hash=d260b8a44268054924937dddb792908aa19d129b824165b61ae28f63b5140035; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Krokuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Krokuva\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-161159
 
@@ -1142,16 +470,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - t-076
   global_id: t-177331
   teiginys: "Krokuvoje vainikuotas valdovas nepaisė pažadų, atidėliojo vedybas su Ona ir svajojo valdyti kaip Prancūzijoje."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "578508-578978; hash=affc0aa3af5822b0cbbd8092d12f3a00e88c6a7b9d7620736dde7fd093a3bf11; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Prancūzija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Krokuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Prancūzija: mention_match, place, gap=97"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Krokuva\" parinktas kaip owner_note_path. Targetas \"Prancūzija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-46550
 
@@ -1159,16 +477,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - t-071
   global_id: t-177333
   teiginys: "Zigmanto II antkapis buvo Krokuvos katedroje."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "430369-430585; hash=ba2f477dfc9dc52ae60669a0d4a98cf1224d3a83b5371ed2bd0d327c7ebaf7c4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Zigmanto II antkapis: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Krokuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Zigmanto II antkapis: mention_match, thing, gap=26"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Krokuva\" parinktas kaip owner_note_path. Targetas \"Zigmanto II antkapis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-161209
 
@@ -1176,19 +484,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - t-097
   global_id: t-177335
   teiginys: "Lietuviai Lenkijoje puolė Sandomiro ir Krokuvos žemes."
-  semantiniai_rysiai: "Lietuviai puolė Sandomiras (0.90); Lietuviai puolė Krokuva (0.88)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "76961-77173; hash=d5f66a9a912ded0f4ab2d8b6c405d509b3ea2868e7b9ece71d6115008b4dd0af; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Sandomiras: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Sandomiras: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad lietuviai puolė Sandomiro žemes."
-  vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-161174
 
@@ -1196,16 +491,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - t-084
   global_id: t-177336
   teiginys: "Aleksandrui sunkiai sergant, iš Krokuvos atvyko gydymą išmanę Motiejus iš Blonios ir Aleksandras Balinskis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "483795-484684; hash=077c1462a31aa53d33086bdcd1b2838497e82e25c11ce09be8009c96e64380cf; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Motiejus: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Krokuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Motiejus: mention_match, person, gap=30"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Krokuva\" parinktas kaip owner_note_path. Targetas \"Motiejus\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-161175
 
@@ -1213,20 +498,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - t-100
   global_id: t-184991
   teiginys: "Susirgęs karalius buvo nuvežtas į Krokuvą, o Šich Achmetas su garbinga palyda sugrįžo į Lietuvą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Šich Achmetas keliavo į Lietuva (0.92)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1032226-1032599; hash=565b4a9a378def3ccf6ea78b2e8d9b5fa87e17aa577786d292617221d0fad286; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Lietuva: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Šich Achmetas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Šich Achmeto grįžimą į Lietuvą."
   pagrindžia:
     - c-168352
 
@@ -1234,21 +505,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - t-101
   global_id: t-184992
   teiginys: "Paleidęs seimą, karalius išvyko į Krokuvą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1156112-1156654; hash=006e65b1fdcee05a8a642b2844a8d7ec9d4c6f8da0cad4cce65f0080e26d9bb5; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Antspaudai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Krokuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Antspaudai: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Krokuva\" parinktas kaip owner_note_path. Targetas \"Antspaudai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-168353
 
@@ -1256,19 +512,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - t-102
   global_id: t-184993
   teiginys: "Didikai sutiko, kad Barbora Krokuvoje būtų vainikuota karaliene kaip ir kitos karalienės."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1215162-1215584; hash=40028d710bf1558143ff0c367a293baec78e3a7ec9d11b4956dbe966bf316add; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Augustas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Krokuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Augustas: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Krokuva\" parinktas kaip owner_note_path. Targetas \"Augustas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-168354
 
@@ -1276,21 +519,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - t-067
   global_id: t-187588
   teiginys: "Jogailai įsitvirtinus Krokuvoje, Lietuvos metraščio pasakotojas sako vėl pareiškęs savo krikščionių tikėjimą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "306887-307271; hash=76635cc10f0131902f352a45cc775707e73b70e70e7e6d651624558e67bb1a98; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Krokuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=11"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Krokuva\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-170535
 
@@ -1298,24 +526,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - t-068
   global_id: t-187589
   teiginys: "Aleksandras 1501 m. lapkričio 29 d. išvyko iš Melniko į Krokuvą, kur gruodžio 12 d. buvo vainikuotas Lenkijos karaliumi."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1501 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra išbaigtas sakinys apie Aleksandro kelionę į Krokuvą ir vainikavimą joje. Citata tiesiogiai pateikia tas pačias datas ir rezultatą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "639560-639676; hash=3d97962bcfaf5f211c4bb5ed2cb7385c6840e5e688af04be51dbdb5cd62cc51d; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Krokuva: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Aleksandras: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Krokuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Aleksandras išvyko į Krokuvą."
-  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-170536
 
@@ -1323,12 +533,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - t-103
   global_id: t-193194
   teiginys: "(Taip ji atvaizduota vieno seno Krokuvos pastato skliaute)."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "154087-154206; hash=972e35fa8cfe59ce4a4ad0a000df20528c0647933b1e41b6530e0beedf0d8700; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-175938
 
@@ -1336,12 +540,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - t-104
   global_id: t-193195
   teiginys: "Karūnacijos byla 1430 m. Lenkų ponai prispyrė grįžusį į Krokuvą Jogailą atšaukti savo duotąjį sutikimą dėl Vytauto karūnacijos."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "300331-300561; hash=5fa467e249a2d99eacc51282a5f5ce88b83fd2771bd693b878c99a4f4ec211da; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-175939
 
@@ -1349,12 +547,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - t-105
   global_id: t-193196
   teiginys: "Tad po dvejų metų lenkai pagaliau nusileido, ir 1550 m. Barbora buvo iškilmingai Krokuvoje karūnuota Lenkijos karaliene."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "437631-437910; hash=60eb82f70fadd176bf0d9144a97c905a5b400582e0ef9282ca9ea4f95abddf29; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-175940
 
@@ -1362,12 +554,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - t-106
   global_id: t-193197
   teiginys: "Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos universitetą, o visi kiti vykdavo į vakarų Europos universitetus: į Vokietiją, Italiją ir Prancūziją."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "511647-511958; hash=7a17338575ad12aaaa737c5d2975ebe5ffb795314854445965028fcb9bed47a3; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-175941
 
@@ -1375,12 +561,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - t-107
   global_id: t-193641
   teiginys: "Jos poveikis reiškėsi įvairiais pavidalais: bažnytinės sistemos organizavimu, studijomis Krokuvos universitete, administracinės sistemos perėmimu, ūkio reforma."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "113966-114348; hash=e08f287300c697586061e3ceb26470ddb8fd54249d5a5d3dace10aa4f7dcaa3d; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-161172
 - susijęs iš [[objektai/asmenys/Jadvyga Jogailienė.md#claim-t-176414|Jadvyga Jogailienė]]: Jadvyga 1384 m. spalio 13 d. iškilmingai įvažiavo į Krokuvą, o po dviejų dienų buvo karūnuota Lenkijos karaliumi.
@@ -1834,8 +1014,8 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     naujai išrinktasai valdovas abiejų valstybių turimąsias teises
     turėsiąs patvirtinti vienu bendru raštu, o ne skyrium (§ 7).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1849,8 +1029,8 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     ir vesti Liudviko Anjou dukterį Jadvygą, kuri jau 1384.X.15 d.
     Krokuvoje buvo vainikuota Lenkijos « karaliumi ».
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1866,8 +1046,8 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     galutinai sutarė, kas vėliau Kriavo akte (1385.VIII.14) buvo pa­
     žadėta.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1882,8 +1062,8 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     plačius pasiruošimus. Kijeve jau birželio mėn. prie gausių stalų
     buvo susirinkusi didelė kariuomenė^29.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1902,8 +1082,8 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     Jo didelį narsumą iškeldamas, Dlugošas pastebi, jog jis esą įtiki­
     nėjęs Vytautą nepradėti kautynių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1924,8 +1104,8 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     mas daug pasako: matyt, tikrai pajuto sau pavojų iš Jogailos
     pusės.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1947,8 +1127,8 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     tuva, jungianti Rytų ir Vakarų Europos kraštus, iš visų pusių
     buvo apsupta pirklių gyvenamų ir lankomų žemių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1966,8 +1146,8 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     reikšti užuojautą". Zigmantas mirė 1548 m., sulaukęs 81 m.
     amžiaus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1997,8 +1177,8 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     buvo valdoma Prancūzi-
     ja, t. y. absoliutiškai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2016,8 +1196,8 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     menei, jis atvykstančio Maksimilijono neįleido į Krokuvą
     Tuo būdu buvo karūnuotas atvykęs Zigmantas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2040,8 +1220,8 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     krikštytieji Krokuvoje. Lietuviai bajorai buvo puiki tų dviejų
     pirmaujančios anuomet Šiaurėje valstybės valdovų svita.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2061,8 +1241,8 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     atskiras iždas, kariuomenė, teismai ir teisinė sistema, kurią įformino Tre-
     čiasis Lietuvos Statutas 1588 m.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2080,8 +1260,8 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     mas, kuris visada būdavo šaukiamas Krokuvoje, nes ten įvyk-
     davo karūnacija.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2103,8 +1283,8 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     pažįstami Lietuvos sostinėje, iki tol prastais ir negrabiais pa­
     vyzdžiais plūdę iš rytų, šiuo laikotarpiu ėmė klestėti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2129,8 +1309,8 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     ba šiaip vietovė kokiam nors dievai­
     čiui pašvęsta.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2155,8 +1335,8 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     ba bei saugumu, bet akivaizdaus pagerėjimo valdant miestą
     nebuvo matyti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2182,8 +1362,8 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     tuvėlėmis ir, atsargumo dėlei, nuo kryžiuočių antpuolių ap­
     juosta statinių tvoromis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2200,8 +1380,8 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     versitetuose. Šios studijos, o ir apskritai europinės kultūros įsisavinimas
     davė konkrečių rezultatų XV a. pabaigoje–XVI a. pirmoje pusėje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2215,8 +1395,8 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     tikimą, jis visa tai įvykdė ir 1525 m. Krokuvoje iškilmingai
     prisiekė Zigmantui, kaip Prūsų kunigaikštis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2241,8 +1421,8 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     demijos kancleriu, o Žemaičių - globėju nuolatiniam laikui pa­
     skyrė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2263,8 +1443,8 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     sė spręsti ir bausti už miestiečių padarytus kriminalinius
     nusikaltimus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2284,8 +1464,8 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     Miesto, kurio istorijos įvykius keliame iš užmaršties, li­
     kimas glaudžiai susijęs su viso krašto likimu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2301,8 +1481,8 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     Šiame anuomet garsiame fabrike išlieta labai daug pabūk­
     lų, gaminta bombos ir kiti karo reikmenys.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2319,8 +1499,8 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     turėtų vieną globėją ir užtarėją“), o didysis jos altorius buvo toje vietoje,
     kur anksčiau degė pagonių amžinoji ugnis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2357,8 +1537,8 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     vo, į dvarą suvažiavę nusigriebti kąsnį bei pasipuikuoti, o
     mūsų tarnystės nežiūrėjo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2378,8 +1558,8 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     ĮVADAS
     Krokuva, Kališas ir Naugardas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2401,8 +1581,8 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     ketkos laikais -1317 metais, ėmė tvarkytis pagal vokiečių miestų
     teises.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2419,8 +1599,8 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     organizavimu, studijomis Krokuvos universitete, administracinės sistemos
     perėmimu, ūkio reforma.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2450,8 +1630,8 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     vė, užuot savo šlovę apvainikavęs, gėdą sau užtrauks, p
     tėvynei nelaimę atneš.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2470,8 +1650,8 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 
     kovinius veiksmus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2504,8 +1684,8 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     miko pargabentos iš Krokuvos, dalis liko Vilniuje ir vėliau
     tapo nuolatinės miesto vaistinės pradžia.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2527,8 +1707,8 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     Į Kijevą atvykdavo totorių, armėnų, Maskvos, Genujos, Vene­
     cijos pirkliai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2547,8 +1727,8 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     teorijos  kūrėjo K. Semenavičiaus veikalo
     „Artis magnae artilleriae“  frontispisas, 1650 m.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2575,8 +1755,8 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     darome atsižvelgdami, kad nebūtų nereikalingų išlaidų ir
     rūpesčių kūną po mirties iš valstybės į valstybę gabenant.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2601,8 +1781,8 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     paliktas Krokuvos pilies koplyčioje, kur ilsisi jo didenybės
     pono mūsų tėvo švento atminimo karaliaus kūnas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2622,8 +1802,8 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     40
     grūdais pagrindinį Europos duonos uostą  – Gdanską.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2640,8 +1820,8 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     garsintas, jiems nesant, kad kokios būtų užgrobęs Didžio­
     sios Kunigaikštystės valdžią48.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2663,8 +1843,8 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     rika, XVI, 80, karalius priekaištavo Vilniaus magistratui:
     Kad nesutaria su bendruomene.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2680,8 +1860,8 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     vo, kankinio, kanonizavimą ir palaikų pakylėjimą tarp da­
     lyvavusių buvęs Lietuvos vyskupas Vitas, dominikonas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2698,8 +1878,8 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     kėjo gauti savo ponų tarybos sutikimą. Tuo reikalu į Krokuvą
     buvo išsiųsti su Jogaila į Vilnių atvykę Lenkų ponai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2715,8 +1895,8 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     Rusijos kariuomenė – Vilnių. Lapkričio 5 dieną pasidavė Varšuva, kurią
     gynė ir pasitraukę Lietuvos sukilėliai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2744,8 +1924,8 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     lius ir su jais sykiu Goštautą nukan­
     kino.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2760,8 +1940,8 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     virvę. Jo sveikata pairo tik į gyvenimo pabaigą. Jaunystę praleido
     Zigmanto II antkapis Krokuvos katedroje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2781,8 +1961,8 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     metas, valdovo valia turėjęs būti Trakuose vaišingai
     priimtas, sugrįžo į Lietuvą garbingos palydos apsuptas.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2807,8 +1987,8 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     senatą pakliūtų žmonės, neišpažįstantys Romos tikėji­
     mo. Paleidęs seimą, karalius išvyko į Krokuvą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2827,8 +2007,8 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     gas. Neilgai trukus Barbora iškilmingai ir šventiškai
     buvo apvainikuota Krokuvoje karalienės vainiku.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2847,8 +2027,8 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     savo tikėjimą. Ir taip aš ir šiandien laikausi krikščionių
     tikėjimo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2861,8 +2041,8 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     °  Aleksandras išvyko iš Melniko (LDK) j Krokuvą 1501.XI.29,
     vainikuotas Krokuvoje Lenkijos karaliumi 1501.XII. 12.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2877,8 +2057,8 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     pastato skliaute).
     Kovos su ordinu, paliauboms pasibaigus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2894,8 +2074,8 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     Krokuvą Jogailą atšaukti savo duotąjį sutikimą dėl Vytauto karū-
     nacijos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2911,8 +2091,8 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     leido, ir 1550 m. Barbora buvo iškilmingai Krokuvoje karūnuota
     Lenkijos karaliene.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2931,8 +2111,8 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     visi kiti vykdavo į vakarų Europos universitetus: į Vokietiją,
     Italiją ir Prancūziją.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3932,7 +3112,8 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - id: c-168352
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 582"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 582."
   citata_originali: |
     Gal priepuolį sukėlė
     per didelis pyktis, išsiliejus
@@ -3978,7 +3159,8 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - id: c-168354
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 682"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 682."
   citata_originali: |
     Štai todėl daugelis išsigandusių didikų, nenorėda­
     mi daugiau karaliaus erzinti, ne tik paliovė reikalavę,
@@ -3998,7 +3180,8 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - id: c-170535
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 175"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 175."
   citata_originali: |
     Ir aš prieš savo norą, jų valią vyk­
     dydamas, tariau: aš priėmiau rusų tikėjimą ir pareiš­
@@ -4018,7 +3201,8 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - id: c-170536
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 321"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 321."
   citata_originali: |
     °  Aleksandras išvyko iš Melniko (LDK) j Krokuvą 1501.XI.29,
     vainikuotas Krokuvoje Lenkijos karaliumi 1501.XII. 12.
@@ -4100,9 +3284,5 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
     - t-193197
 
 ## Ryšiai
-- Buvo kelionės vieta: [[objektai/asmenys/Aleksandras Balinskis]], [[objektai/asmenys/Bodzanta|Bodzanta (arkivyskupas, XIV a.)]], [[objektai/asmenys/Borisas (Tverės kunigaikštis)]], [[objektai/asmenys/Borisas Karijotaitis]], [[objektai/asmenys/Jadvyga]], [[objektai/asmenys/Jadvyga Jogailienė]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Jonas Olbrachtas]], [[objektai/asmenys/Karigaila]], [[objektai/grupes/Lenkai]], [[objektai/grupes/Maskvos pasiuntiniai]], [[objektai/asmenys/Motiejus iš Blonios]], [[objektai/asmenys/Skirgaila]], [[objektai/asmenys/Švitrigaila]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Buvo kelionės vieta: [[objektai/asmenys/Aleksandras Balinskis]], [[objektai/asmenys/Jadvyga Jogailienė]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/grupes/Maskvos pasiuntiniai]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - Puolė Krokuvą: [[objektai/grupes/Lietuviai]]
-- Buvo siuntimo vieta: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Buvo žygio kryptis: [[objektai/asmenys/Traidenis|Traidenis (valdovas, XIII a.)]]
-- Gyvenamoji vieta: [[objektai/asmenys/Petras Goštautas]], [[objektai/asmenys/Petras Kustynia]]
-- Turėjo priklausinį: [[objektai/daiktai/Kryžius]], [[objektai/daiktai/Zigmanto Augusto antkapis]]

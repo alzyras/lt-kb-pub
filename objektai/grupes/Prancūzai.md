@@ -47,19 +47,6 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpatie
 - t-005
   global_id: t-81588
   teiginys: "1390 m. žygyje prancūzams ir kitiems kariams vadovavo riteris Boucicaut."
-  temporaliniai_duomenys: "įvykio data: 1390 m.; įvykio data: 1391 m.; įvykio data: 1393 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalintas išnašos ženklas ir pridėtas citatos kontekste nurodytas žygio laikas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "261169-262068; hash=c2e5e465ab7d84c01d711206634171618cf017313140cb398fae2bfb6632df89; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Anglija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Prancūzai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Anglija: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prancūzai\" parinktas kaip owner_note_path. Targetas \"Anglija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-78179
 
@@ -67,17 +54,6 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpatie
 - t-006
   global_id: t-81591
   teiginys: "Prancūzai, vadovaujami Boucicaut'o, per kautynes pridarė nemažai žalos apgultiesiems."
-  semantiniai_rysiai: "Prancūzai puolė Vilniaus prastuomenė (0.70)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "276629-277243; hash=0a936d0f9c5772097d75c1b54e72bd24430433201f30aec128ea12397530f3e7; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Vilniaus prastuomenė: 0.70"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Prancūzai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vilniaus prastuomenė: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Prancūzai su vadu pridarė žalos apgultiesiems; objektas siejamas su leistinu apgultųjų kandidatu."
   pagrindžia:
     - c-78180
 
@@ -85,17 +61,6 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpatie
 - t-007
   global_id: t-81592
   teiginys: "Prancūzai priėmė lenkų kvietimą į dvikovą ir kautynių vieta pasirinko Prahą."
-  semantiniai_rysiai: "Prancūzai kariavo prieš Lenkai (0.82)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "277244-277680; hash=6c47cf975be637581e12e70b9c742e1823f4a0012f342df168ad206d86e45f0c; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Lenkai: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Prancūzai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lenkai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Prancūzai priėmė lenkų kvietimą kautis dvikovoje."
   pagrindžia:
     - c-78187
 
@@ -103,17 +68,6 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpatie
 - t-004
   global_id: t-81593
   teiginys: "Prancūzijos savanoriai atvyko į Prūsiją dalyvauti žygyje prieš pagonimis laikytus lietuvius."
-  semantiniai_rysiai: "Prancūzai keliavo į Prūsija (0.90); Prancūzai kariavo prieš Lietuviai (0.82)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "259602-260285; hash=2221a93e3f8c6e9ee62076d811d681f92f08dc9e23441ab7cafcf8e6a82889da; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Prūsija: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Prancūzai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo prancūzų savanorių atvykimą į Prūsiją."
   pagrindžia:
     - c-78185
 
@@ -121,23 +75,6 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpatie
 - t-008
   global_id: t-183891
   teiginys: "1200 m. prancūzai ir Venecijos kariai užėmė Konstantinopolį, įsiveržę pro sieną, ant kurios buvo nupieštas angelas."
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Prancūzai užėmė Konstantinopolis (0.93); Lotynai valdė Konstantinopolis (0.84)"
-  temporaliniai_duomenys: "įvykio data: 1200 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir paremtas citata apie prancūzų dalyvavimą užimant Konstantinopolį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "692161-692591; hash=11c8f5d2039245f5d7608166d31cc3250371ccc06e56f0d1a507dbe4c3f82009; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Konstantinopolis: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Prancūzai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Konstantinopolis: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Konstantinopolį užėmė prancūzai ir Venecijos kariai."
   pagrindžia:
     - c-167276
 - susijęs iš [[objektai/grupes/Flandrai.md#claim-t-62997|Flandrai]]: Prancūzų ir flandrų kautynėse abi šalys prarado daug užmuštųjų.
@@ -315,8 +252,8 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpatie
     mis anglų, škotų bei prancūzų ir 1.1,
     pajėgomis įsibrovė į Lietuvą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -342,8 +279,8 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpatie
     jiems patikimesnį kelią į tokios rūšies garbę, patarinėjo ge­
     riau vykti pas turkus, tuo laiku puldinėjusius Europą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -366,8 +303,8 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpatie
     vai įkalbėjo tieką svetimtaučių, kad visa Lietuva iki šiol dar
     esanti pagonių šalis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -387,8 +324,8 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpatie
     penkios sunkios apsupties savaitės lenkų įgulai Aukštuti­
     nėje pilyje33.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -406,8 +343,8 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpatie
     apgavo miestiečius. Ir tapo ten Balduinas, Flandrijos grafas, imperatoriumi, ir valdė ten
     lotynai 57 metus (Ptol. 21,4; Mart. p. 387).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -530,7 +467,8 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpatie
 - id: c-167276
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 225"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 225."
   citata_originali: |
     Apie Konstantinopolio miesto užėmimą
 
@@ -547,14 +485,7 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpatie
     - t-183891
 
 ## Ryšiai
-- Puolė Prancūzai: [[objektai/grupes/Anglai]], [[objektai/grupes/Flandrai]]
 - Kariavo prieš: [[objektai/grupes/Flandrai]]
-- Turėjo priklausinį: [[objektai/vietos/Klaipėda]], [[objektai/grupes/Templininkų ordinas]]
-- Prancūzai valdė [[objektai/vietos/Klaipėda]], [[objektai/vietos/Klaipėdos kraštas]]
-- Prancūzai keliavo į [[objektai/vietos/Praha]], [[objektai/vietos/Prūsija]]
-- Prancūzai puolė [[objektai/grupes/Vilniaus prastuomenė]]
+- Prancūzai keliavo į [[objektai/vietos/Prūsija]]
 - Prancūzai užėmė [[objektai/vietos/Konstantinopolis]], [[objektai/vietos/Ruhro sritis]]
-- Prancūzai siuntė į [[objektai/vietos/Ruro kraštas|Ruro kraštas (kraštas)]]
-- Prancūzai kariavo prieš [[objektai/grupes/Flandrai]], [[objektai/grupes/Lenkai]], [[objektai/grupes/Lietuviai]]
-- Prancūzai dalyvavo mūšyje [[objektai/ivykiai/Daugybės prancūzų ir flandrų žūtis]]
-- Prancūzai rėmė [[objektai/grupes/Vokiečiai]]
+- Prancūzai kariavo prieš [[objektai/grupes/Flandrai]]

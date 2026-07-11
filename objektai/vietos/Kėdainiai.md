@@ -43,22 +43,6 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
 - t-041
   global_id: t-182770
   teiginys: "1919 m. sausio 9 d. Jonas Variakojis su pirmuoju savanorių būriu paliko Panevėžį ir atvyko į Kėdainius."
-  semantiniai_rysiai: "J. Variakojis keliavo į Kėdainiai (0.90)"
-  temporaliniai_duomenys: "kelionės data: 1918 m.; kelionės data: 1919 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Reikia išplėsti inicialą ir patikslinti datą pagal citatos kontekstą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "698377-698730; hash=2b0bf1af4c69d301e8e18920aec281f2834c5418d723bf5427f8e8bb15fd264d; match=ocr_normalized"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  ryšio_patikimumas: "keliavo_i -> Kėdainiai: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "J. Variakojis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kėdainiai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo J. Variakojo atvykimą į Kėdainius."
-  vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-43559
 
@@ -66,19 +50,6 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
 - t-007
   global_id: t-183041
   teiginys: "Kėdainių mokykla išgarsėjo, kai Radvilos Kėdainius darė protestantų kultūros centru."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "696132-696456; hash=cf076f667f056f18bb2e80315a02791f3e5af322bce2f277834ed45b0c384461; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Protestantai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kėdainiai: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Protestantai: mention_match, group, gap=56"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kėdainiai\" parinktas kaip owner_note_path. Targetas \"Protestantai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-166433
 
@@ -86,14 +57,6 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
 - t-042
   global_id: t-193200
   teiginys: "Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Voluinėje)."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "596871-597285; hash=8d70f2c7e72f75db1ed54c3d60510d6eb232a0927e8a3c44d2966ab62b70919e; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-175944
 - susijęs iš Panevėžys: 1919 m. sausio 9 d. bolševikų pajėgos užėmė Panevėžį, o J. Variakojis su pirmuoju savanorių būriu pasitraukė į Kėdainius.
@@ -206,8 +169,8 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
     su pirmuoju savanorių būriu paliko
     miestą ir atvyko į Kėdainius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -224,8 +187,8 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
     centru. Čia net buvo įsteigta spaustuvė, kurioje buvo spausdina-
     mos religinio turinio knygos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -244,8 +207,8 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
     Radvilų šeimos buvo dvi šakos. Vienos centras buvo Biržai
     ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Voluinėje).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -317,5 +280,5 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
     - t-193200
 
 ## Ryšiai
-- Buvo kelionės vieta: [[objektai/grupes/Bolševikų 2-asis šaulių pulkas]], [[objektai/asmenys/J. Variakojis]], [[objektai/grupes/NKVD]]
-- Gynė Kėdainiai: [[objektai/asmenys/J. Mikoliūnas]], [[objektai/asmenys/K. Dragunevičius]], [[objektai/grupes/Lietuviai]]
+- Buvo kelionės vieta: [[objektai/asmenys/J. Variakojis]]
+- Gynė Kėdainiai: [[objektai/asmenys/J. Mikoliūnas]], [[objektai/asmenys/K. Dragunevičius]]

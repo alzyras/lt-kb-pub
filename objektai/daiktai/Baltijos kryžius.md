@@ -52,16 +52,6 @@ Nenurodyta
 - t-001
   global_id: t-40695
   teiginys: "Baltijos kryžius buvo teikiamas pasižymėjusiems vokiečių bermontininkams."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1115873-1116052; hash=8dab7f1c3902ef40985b3d3a930c68586b42f34838aa41e91fd5e67bd37f9491; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Baltija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Baltijos kryžius: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Baltija: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Baltijos kryžius\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-44640
 ## Reikšmingi paminėjimai
@@ -75,8 +65,8 @@ Nenurodyta
 
     p. 190, Vokiečių kariai, Alvydo Tamošiūno nuotr.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -32,16 +32,6 @@ Jankus ir lietuvių draugas vokietis S.
 - t-001
   global_id: t-01103
   teiginys: "M. Jankus rašė „Aušrai“ kartu su Šernu, S. Zauerveinu ir Didžiosios Lietuvos lietuviais inteligentais."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "1005708-1006211; hash=4f095ad9266c922caf89de4072eff9139e911a4c5065f4afa8d6b811005a7cb8; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "M. Jankus: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=68"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"M. Jankus\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-01341
 - susijęs iš [[objektai/autoriai/Zauerveinas.md#claim-t-54145|Zauerveinas]]: Zauerveinas tyrė lietuvių kalbą, kovojo už lietuvių teises ir lietuvių laikraščiuose kėlė tautos susipratimą.
@@ -72,8 +62,8 @@ Jankus ir lietuvių draugas vokietis S.
     tuviai esame mes gi-
     mę").
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

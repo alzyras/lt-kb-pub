@@ -39,12 +39,6 @@ Smetonos, tai nupirkti per dideli batai vaikams – parlamentarizmo tradicija vo
 - t-001
   global_id: t-193703
   teiginys: "Smetonos, tai nupirkti per dideli batai vaikams – parlamentarizmo tradicija vos per šešerius metus nesubrendo, neįsitvirtino, ypač sunkiai sekėsi sudaryti koalicijas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "313751-314217; hash=7cd995839b8b56772c9aad744283435e498d1da2d1c8117771840006adddcb55; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176372
 
@@ -52,12 +46,6 @@ Smetonos, tai nupirkti per dideli batai vaikams – parlamentarizmo tradicija vo
 - t-002
   global_id: t-193704
   teiginys: "Smetona visą 1927 m. vasarą ir rudenį, lydimas karininkų, ministrų, žurnalistų ir kino kronikos kamerų, keliavo iš miestelio į miestelį, kuriuose jį iškilmingai sutikdavo prie lietuvių organizacijų, moksleivių gėlėmis ir vainikais išdabintų sutikimo vartų, po."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "318064-318861; hash=bff9a5ff377fd12c01b01632a9b1f39ba5d0e62918d7e54326d0cf89c6526c0a; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176373
 ## Reikšmingi paminėjimai
@@ -74,8 +62,8 @@ Smetonos, tai nupirkti per dideli batai vaikams – parlamentarizmo tradicija vo
     dė neatitinkąs tautos interesų, apleidžiantis lietuvybės sklaidą, sudarantis
     grėsmę bolševizmui tarpti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -98,8 +86,8 @@ Smetonos, tai nupirkti per dideli batai vaikams – parlamentarizmo tradicija vo
     Antanas Smetona – Lietuvos prezidentas
     1919–1920 ir 1926–1940 m.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

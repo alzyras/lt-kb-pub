@@ -44,19 +44,6 @@ Dusburgietis teigia, kad ordino konventas perkeltas iš Santyro į Marienburgo p
 - t-001
   global_id: t-60786
   teiginys: "B. Schmidas cituojamas dėl teiginio, kad Ordino konventas 1280 m. perkeltas iš Santyro į Marienburgo pilį."
-  temporaliniai_duomenys: "įvykio data: iki 1279 m.; įvykio data: 1272 m.; įvykio data: 1274 m.; įvykio data: 1275 m.; įvykio data: 1276 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
-  temporalinis_llm_pakomentavimas: "Citata leidžia susieti autorių su konkrečiu datuotu teiginiu, bet pradinis sakinys turi OCR triukšmo."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "524671-525104; hash=16324cd36a6283c02981017f26ad72374627fc0bf5135926c9d668d09548a1bc; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aukštutinė pilis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Schmid B: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Aukštutinė pilis: mention_match, place, gap=101"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Schmid B\" parinktas kaip owner_note_path. Targetas \"Aukštutinė pilis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-61418
 ## Reikšmingi paminėjimai
@@ -72,8 +59,8 @@ Dusburgietis teigia, kad ordino konventas perkeltas iš Santyro į Marienburgo p
     B., Die Gründung..., p. 199; Guerquin B., Zamek w Malborku, p. 6—7; Górski K., Dzieje
     Malborka, р. 22).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -84,7 +71,8 @@ Dusburgietis teigia, kad ordino konventas perkeltas iš Santyro į Marienburgo p
 - id: c-61418
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 166"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 166."
   citata_originali: |
     Marienburgo pilis Nogato deš. krante, kaip manyta, pradėta statyti
     1272 m. ar 1274 m. 1275 m. pradėta statyti Aukštutinė pilis (iki 1279 m. pastatytas jos

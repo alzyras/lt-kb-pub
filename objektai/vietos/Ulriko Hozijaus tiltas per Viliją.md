@@ -43,17 +43,6 @@ Taip pat šiek tiek vėliau, 1529 metais, Albertas Goš­ tautas, Vilniaus vaiva
 - t-003
   global_id: t-86154
   teiginys: "Ulrikas Hozijus pradėjo mūryti tiltą per Viliją ir špitolę, o po jo mirties statybą užbaigė sūnus Jonas."
-  semantiniai_rysiai: "Ulrikas Hozijus pastatė Ulriko Hozijaus tiltas per Viliją (0.76)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "536686-537144; hash=22ade30a65a28c1516d4403b7b94e728c0c985a904fc716553a21e3c2263d9c3; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "pastate -> Ulriko Hozijaus tiltas per Viliją: 0.76"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Ulrikas Hozijus: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Ulriko Hozijaus tiltas per Viliją: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata sieja Ulriko pavedimų įvykdymą su išmūrytu tiltu per upę, nors pabaigą užbaigė jo sūnus."
   pagrindžia:
     - c-82134
 
@@ -61,19 +50,6 @@ Taip pat šiek tiek vėliau, 1529 metais, Albertas Goš­ tautas, Vilniaus vaiva
 - t-002
   global_id: t-86155
   teiginys: "1536 metais Žygimantas Senasis Ulrikui Hozijui suteikė teisę pastatyti tiltą per Viliją vietoje nepatogios perkėlos."
-  temporaliniai_duomenys: "pastatymo data: 1536 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Perrašyta į konkretų faktą apie Ulriko Hozijaus tiltą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "535999-536685; hash=53c610aa54afe9a054bc6290d3aa246508bdb707c8709731cfa44d29232d4940; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ulriko Hozijaus tiltas per Viliją: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Vilija: mention_match, place, gap=50"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ulriko Hozijaus tiltas per Viliją\" parinktas kaip owner_note_path. Targetas \"Vilija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-82133
 
@@ -81,12 +57,6 @@ Taip pat šiek tiek vėliau, 1529 metais, Albertas Goš­ tautas, Vilniaus vaiva
 - t-004
   global_id: t-194260
   teiginys: "Taip pat šiek tiek vėliau, 1529 metais, Albertas Goš tautas, Vilniaus vaivada ir LDK kancleris, gavo karaliaus lei dimą priešais Žemutinės Vilniaus pilies vartus, per Vilijos upę nutiesti tiltą iš akmenų arba plytų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "534104-534604; hash=dc6eb1dc453f9c1d9a5187a046820aee058b0c4679177a74697c6f06b38a805f; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176854
 ## Reikšmingi paminėjimai
@@ -108,8 +78,8 @@ Taip pat šiek tiek vėliau, 1529 metais, Albertas Goš­ tautas, Vilniaus vaiva
     zijus buvo įpareigotas vėliau, kai jam sugrįš tilto statybos
     išlaidos, prie dominikonų Šv.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -129,8 +99,8 @@ Taip pat šiek tiek vėliau, 1529 metais, Albertas Goš­ tautas, Vilniaus vaiva
     prekyba, mieste atsirado daug lobingų, su svečiais kraštais
     mainus vykdančių pirklių19.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -150,8 +120,8 @@ Taip pat šiek tiek vėliau, 1529 metais, Albertas Goš­ tautas, Vilniaus vaiva
     kliams būdeles, arba stogines, ir iš jų jis pats ir jo palikuonys
     gavo teisę visiems laikams imti mokestį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -225,6 +195,3 @@ Taip pat šiek tiek vėliau, 1529 metais, Albertas Goš­ tautas, Vilniaus vaiva
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194260
-
-## Ryšiai
-- Buvo pastatyta: [[objektai/asmenys/Ulrikas Hozijus]]

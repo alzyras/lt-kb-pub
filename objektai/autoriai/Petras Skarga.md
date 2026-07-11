@@ -33,17 +33,6 @@ Pirmuoju akademijos rektorium buvo paskirtas mozūras, ir tada jau žinomas, o v
 - t-002
   global_id: t-184468
   teiginys: "Petras Skarga buvo pirmasis Akademijos rektorius, žymus pamokslininkas ir publicistas."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "12103-12503; hash=ddf89add53757e455b6fcc826ce5857f43448d9de295a6727d0027499564d9d0; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/02_extract_authors_notes.md::validation_repair"
-  ryšio_patikimumas: "susije_su -> Bajorai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Petras Skarga: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Bajorai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Petras Skarga\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-167831
 - susijęs iš Seimų pamokslai: Petro Skargos „Seimų pamoksluose“ pasisakoma už stiprią jungtinės valstybės valdžią su karaliumi priešakyje.
@@ -65,8 +54,8 @@ Pirmuoju akademijos rektorium buvo paskirtas mozūras, ir tada jau žinomas, o v
     smerkiamas didikų ir bajorų nepaklusnumas, nepaisy­
     mas krikščioniškosios moralės.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -77,7 +66,8 @@ Pirmuoju akademijos rektorium buvo paskirtas mozūras, ir tada jau žinomas, o v
 - id: c-167831
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 8"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 8."
   citata_originali: |
     Abi politinės tendencijos rado šalininkų ir Akade­
     mijoje. Uoliausias religinės, tautinės ir valstybinės

@@ -55,19 +55,6 @@ Nenurodyta
 - t-001
   global_id: t-20465
   teiginys: "Disko metikas Romas Ubartas 1992 m. Barselonos olimpinėse žaidynėse iškovojo pirmą aukso medalį nepriklausomai Lietuvai."
-  temporaliniai_duomenys: "įvykio data: 1991 m.; įvykio data: 1992 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie Romo Ubarto laimėjimą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "521654-522017; hash=e626fd400a7e7b407e411c19be246e0897954f2727b8da21107651b5e6bae319; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Barselona: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Romo Ubarto aukso medalis Barselonos olimpinėse žaidynėse (1992 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Barselona: mention_match, place, gap=16"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Romo Ubarto aukso medalis Barselonos olimpinėse žaidynėse (1992 m.)\" parinktas kaip owner_note_path. Targetas \"Barselona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-23189
 ## Reikšmingi paminėjimai
@@ -82,8 +69,8 @@ Nenurodyta
     metikas Romas Ubartas 1992 m. Barselonos olimpinėse žaidynėse iško-
     vojo pirmą aukso medalį nepriklausomai Lietuvai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

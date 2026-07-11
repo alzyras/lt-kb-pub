@@ -45,16 +45,6 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
 - t-003
   global_id: t-59900
   teiginys: "Bonifaco VIII ir Prancūzijos karaliaus Pilypo nesantarvė prasidėjo dėl popiežiaus pretenzijų į Prancūzijos reikalų pavaldumą Apaštalų sostui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "733186-733970; hash=1a6926aa977aca430ad5969abcd29d50cb0a549681fb2e22847dc5d0f787fb4d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Prancūzija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Bonifacas VIII (arkivyskupas, XIII–XIV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Prancūzija: mention_match, place, gap=17"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bonifacas VIII (arkivyskupas, XIII–XIV a.)\" parinktas kaip owner_note_path. Targetas \"Prancūzija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-60536
 
@@ -62,16 +52,6 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
 - t-001
   global_id: t-59901
   teiginys: "Popiežius Bonifacas VIII paskyrė magistrą Egidijų Beri arkivyskupu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "719988-720400; hash=c44af7674fb407d977f1259c1e71d1f5cee1880f5daf0360b1b26313f0ba4cb4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> magistras: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Bonifacas VIII (arkivyskupas, XIII–XIV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "magistras: mention_match, thing, gap=23"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bonifacas VIII (arkivyskupas, XIII–XIV a.)\" parinktas kaip owner_note_path. Targetas \"magistras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-60535
 
@@ -79,19 +59,6 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
 - t-004
   global_id: t-59902
   teiginys: "1303 m. Bonifacas VIII paskelbė Romos karalių Albrechtą imperatoriumi ir perdavė jam Prancūzijos karalystę, bet Klemensas V tai atšaukė."
-  temporaliniai_duomenys: "įvykio data: 1303 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko faktą, pašalinti bibliografiniai ir fragmentiniai priedai."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "734222-734592; hash=cea1bfc521e75963551cc1b8f1b0f232aa897e726f05420830c1ee09ba744c33; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Klemensas V: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Bonifacas VIII (arkivyskupas, XIII–XIV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Klemensas V: mention_match, person, gap=10"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bonifacas VIII (arkivyskupas, XIII–XIV a.)\" parinktas kaip owner_note_path. Targetas \"Klemensas V\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-60533
 
@@ -99,12 +66,6 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
 - t-005
   global_id: t-59903
   teiginys: "1303 m. rugsėjo pradžioje popiežius Bonifacas VIII buvo įkalintas Ananyje, o bažnyčios turtas išnešiotas."
-  temporaliniai_duomenys: "įvykio data: 1303 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko įvykį; pradinis tekstas prasideda šaltinio boilerplate."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "734609-734979; hash=f5c43af674243791c29f4d26421af1e08974d17b750771a6e03a077bd7280b3a; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-60532
 
@@ -112,19 +73,6 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
 - t-002
   global_id: t-59904
   teiginys: "1296 m. popiežius Bonifacas VIII kanonizavo Prancūzijos karalių Liudviką."
-  temporaliniai_duomenys: "įvykio data: 1296 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata tiesiogiai pagrindžia glaustą faktinį sakinį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "730260-730456; hash=fac3d87a477ac6ab4843e244748db89cadf04e34bf8ed1dd57eb8a8661546255; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Prancūzija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Bonifacas VIII (arkivyskupas, XIII–XIV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Prancūzija: mention_match, place, gap=26"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bonifacas VIII (arkivyskupas, XIII–XIV a.)\" parinktas kaip owner_note_path. Targetas \"Prancūzija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-60534
 
@@ -132,16 +80,6 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
 - t-001
   global_id: t-59901
   teiginys: "Popiežius Bonifacas VIII paskyrė magistrą Egidijų Beri arkivyskupu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "719988-720400; hash=c44af7674fb407d977f1259c1e71d1f5cee1880f5daf0360b1b26313f0ba4cb4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> magistras: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Bonifacas VIII (arkivyskupas, XIII–XIV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "magistras: mention_match, thing, gap=23"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bonifacas VIII (arkivyskupas, XIII–XIV a.)\" parinktas kaip owner_note_path. Targetas \"magistras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-60535
 
@@ -149,12 +87,6 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
 - t-007
   global_id: t-194476
   teiginys: "Apie brolį Egidijų, švento Augustino ordino didįjį mokytoją, bei apie jo mirtį Tuo metu garsėjo magistras Egidijus, didysis augustinų ordino mokytojas, vėliau Bonifaco VIII, popiežiaus, paskirtas Beri arkivyskupu (Ptol."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "719988-720400; hash=c44af7674fb407d977f1259c1e71d1f5cee1880f5daf0360b1b26313f0ba4cb4; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-60535
 - susijęs iš [[objektai/asmenys/Egidijus.md#claim-t-60271|Egidijus (arkivyskupas, XIV a.)]]: Egidijus buvo augustinų ordino mokytojas, o popiežius Bonifacas VIII jį paskyrė Beri arkivyskupu.
@@ -175,8 +107,8 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
     gyventojai jį išvadavo, palydėjo į Romą ir sugrąžino į švento Petro sostą, o neilgai trukus
     jis ir numirė (Mart. p. 438; Ptol. p. 1223).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -192,8 +124,8 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
        Tais pačiais metais įvyko smarkios prancūzų ir flandrų kautynės, kuriose abi šalys
     prarado labai daug užmuštaisiais (Ptol. p. 1223),
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -209,8 +141,8 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
 
     karalių (Ptol. pried. p. 1217; Mart. p. 436).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -230,8 +162,8 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
 
      73.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -254,8 +186,8 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
     15 kaltinimų popiežiui ir kreipėsi į busimąjį susirinkimą arba popiežių. Vis dėlto popiežius
     Romos susirinkime išsiteisino nuo šių kaltinimų (Ptol. p. 1221 ir kt.; Mart. p. 438).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -266,7 +198,8 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
 - id: c-60532
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 245"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 245."
   citata_originali: |
     95. Apie Bonifaco, popiežiaus, suėmimą ir turtų iššvaistymą
 
@@ -285,7 +218,8 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
 - id: c-60533
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 245"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 245."
   citata_originali: |
     1303 viešpaties metais Bonifacas, popiežius, paskelbė Albrechtą, Romos karalių,
     imperatoriumi ir jam atidavė  į valdas Prancūzijos karalystę, tačiau vėliau šitai atšaukė
@@ -303,7 +237,8 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
 - id: c-60534
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 242-243"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 242-243."
   citata_originali: |
     83. Apie švento Liudviko, Prancūzijos karaliaus, kanonizavimą
 
@@ -321,7 +256,8 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
 - id: c-60535
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 239"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 239."
   citata_originali: |
     Apie brolį Egidijų, švento Augustino ordino didįjį mokytoją, bei apie jo mirtį
 
@@ -345,7 +281,8 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
 - id: c-60536
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 244"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 244."
   citata_originali: |
     Apie Bonifaco, popiežiaus, ir Pilypo, Prancūzijos karaliaus, nesantarvę
 
@@ -363,6 +300,3 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59900
-
-## Ryšiai
-- Bonifacas VIII (arkivyskupas, XIII–XIV a.) paskyrė [[objektai/asmenys/Albrechtas (Romos karalius)]], [[objektai/asmenys/Egidijus|Egidijus (arkivyskupas, XIV a.)]]

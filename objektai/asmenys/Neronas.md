@@ -30,21 +30,6 @@ Pasak Teodoro Narbuto, imperatorius Neronas 54 ar 55 m. sumanė atgabenti daug g
 - t-001
   global_id: t-191218
   teiginys: "Pasak Teodoro Narbuto, imperatorius Neronas 54 ar 55 m. sumanė atgabenti daug gintaro, norėdamas Romai parodyti prašmatnų reginį."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "318621-318961; hash=3343b6d945eaf16f41b73225f216fd975e9853277c058b94a28df2958a934bf0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Romai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Neronas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Romai: mention_match, group, gap=61"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Neronas\" parinktas kaip owner_note_path. Targetas \"Romai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174100
 
@@ -52,14 +37,6 @@ Pasak Teodoro Narbuto, imperatorius Neronas 54 ar 55 m. sumanė atgabenti daug g
 - t-002
   global_id: t-194918
   teiginys: "Neronas sugrįžo į Romą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "319080-319506; hash=523358dc542181f8b7264daced780d8cef6295731f08db00eb2d6e7e98d35b30; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-177314
 - susijęs iš [[objektai/ivykiai/Nerono pasiųsto romėnų riterio kelionė pargabenti gintaro.md#claim-t-191026|Nerono pasiųsto romėnų riterio kelionė pargabenti gintaro]]: Teodoro Narbuto pasakojime Neronas 54 ar 55 m., siekdamas Romai parodyti prašmatnų reginį, pasiuntė kilmingą romėną pargabenti gintaro.
@@ -80,8 +57,8 @@ Pasak Teodoro Narbuto, imperatorius Neronas 54 ar 55 m. sumanė atgabenti daug g
     mas. Dėl to iš Karnunto gyvenvietės prie Dunojaus buvo
     išsiųstas kilmingas romėnas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -101,8 +78,8 @@ Pasak Teodoro Narbuto, imperatorius Neronas 54 ar 55 m. sumanė atgabenti daug g
     13 romėniškų svarų, arba apie pusę dešimties mūsų sva­
     rų2.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -113,7 +90,8 @@ Pasak Teodoro Narbuto, imperatorius Neronas 54 ar 55 m. sumanė atgabenti daug g
 - id: c-174100
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 174"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 174."
   citata_originali: |
     Čia ir gimė Melas pasaka apie ilgaau­
     sius žmones Satmali, Plinijaus vadintus Panotii1.
@@ -133,7 +111,8 @@ Pasak Teodoro Narbuto, imperatorius Neronas 54 ar 55 m. sumanė atgabenti daug g
 - id: c-177314
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 174"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 174."
   citata_originali: |
     Daugiau smulkmenų apie
     šią kelionę nėra, išskyrus tai, kad po metų jis sugrįžo į

@@ -33,18 +33,6 @@ media_all_json: |-
 - t-001
   global_id: t-100220
   teiginys: "„Užsienio Lietuvių Spaudos Metraštis“ rodyklėje nurodytas 17 puslapyje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1100629-1101790; hash=bc79d00eee937184f7ee892d45989afa7656316c089a7cbedb1ab9b6f06f3ef2; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Užsienio Lietuvių Spaudos Metraštis: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=9"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Užsienio Lietuvių Spaudos Metraštis\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-13T14:38:41Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-94082
 ## Reikšmingi paminėjimai
@@ -101,8 +89,8 @@ media_all_json: |-
     70, 71, 74, 81
     Valdemaras IV, Danijos karalius
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

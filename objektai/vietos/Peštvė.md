@@ -42,17 +42,6 @@ Kryžiuočiams tada pasisekė sudeginti priešpilį ir Peštvės (Seredžiuje �
 - t-001
   global_id: t-32446
   teiginys: "Kryžiuočiai sudegino Peštvės priešpilį Seredžiuje prie Dubysos žiočių, o pati Peštvė du kartus pamečiui buvo apgulta."
-  semantiniai_rysiai: "Kryžiuočių ordinas apgulė Peštvė (0.79)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "602551-603091; hash=1743901abf2bb7b0a3915243e3921f5f5f434a52e32a0c155710574270333eb4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "apgule -> Peštvė: 0.79"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Peštvė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Toje pačioje ištraukoje Peštvės apgultis siejama su kryžiuočių veiksmais."
   pagrindžia:
     - c-33992
 
@@ -60,17 +49,6 @@ Kryžiuočiams tada pasisekė sudeginti priešpilį ir Peštvės (Seredžiuje �
 - t-003
   global_id: t-32447
   teiginys: "Pasak užrašo, Peštvės įgula pažadėjo apgulusiems kryžiuočiams krikštytis, bet po derybų nakčia išbėgiojo."
-  semantiniai_rysiai: "Kryžiuočių ordinas apgulė Peštvė (0.88)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "695448-695782; hash=19b231083dd7f1187a457f914d04dbfcf2873d4f1f7cbb53ffbc1b277b5fa9f9; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "apgule -> Peštvė: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Peštvė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Kryžiuočiai tiesiogiai įvardyti kaip Peštvę apgulę veikėjai."
   pagrindžia:
     - c-33993
 
@@ -78,17 +56,6 @@ Kryžiuočiams tada pasisekė sudeginti priešpilį ir Peštvės (Seredžiuje �
 - t-002
   global_id: t-32448
   teiginys: "Kryžiuočiai grįždami sudegino Peštvę ir Veliuoną, dvi svarbias lietuvių pilis, ilgai rodžiusias tvirtą atsparumą."
-  semantiniai_rysiai: "Kryžiuočių ordinas puolė Peštvė (0.88)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "695238-695524; hash=57b545196e4d2f4374a4edc05bb67d3bd465137ed52ed69a15ca5a1193290528; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Peštvė: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Peštvė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Peštvės sudeginimas kryžiuočių žygio metu tiesiogiai rodo puolimą."
   pagrindžia:
     - c-33994
 - susijęs iš [[objektai/ivykiai/Junigėdos ir Peštvės priešpilių sudeginimas (1298 m.).md#claim-t-97019|Junigėdos ir Peštvės priešpilių sudeginimas (1298 m.)]]: 1298 m. Brandenburgo komtūras su gausiu būriu sudegino Junigėdos ir Peštvės priešpilius.
@@ -118,8 +85,8 @@ Kryžiuočiams tada pasisekė sudeginti priešpilį ir Peštvės (Seredžiuje �
     nusiaubdama Gaižuvos (« Gesovie ») ir prie Vilkijos Pačtuvos (« Pa­
     stovie ») sritis^27.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -136,8 +103,8 @@ Kryžiuočiams tada pasisekė sudeginti priešpilį ir Peštvės (Seredžiuje �
     10 dienų apgulimo, o pilies gynėjai su vadu Goštautu (Gastot)
     pakeliui į vyr. magistro stovyklą buvo išžudyti^16.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -153,8 +120,8 @@ Kryžiuočiams tada pasisekė sudeginti priešpilį ir Peštvės (Seredžiuje �
     buvo rodžiusios tvirtą atsparumą. Tuo būdu Nemuno krantuose
     iki Kauno nebeliko jokio lietuvių gynimosi punkto.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -220,7 +187,3 @@ Kryžiuočiams tada pasisekė sudeginti priešpilį ir Peštvės (Seredžiuje �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-32448
-
-## Ryšiai
-- Puolė Peštvę: [[objektai/grupes/Kryžiuočių ordinas]]
-- Apgulė Peštvę: [[objektai/grupes/Kryžiuočių ordinas]]

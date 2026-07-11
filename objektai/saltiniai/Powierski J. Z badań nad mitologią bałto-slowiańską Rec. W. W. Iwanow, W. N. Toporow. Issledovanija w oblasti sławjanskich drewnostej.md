@@ -38,12 +38,6 @@ Dusburgietis teigia, kad powierski J.
 - t-001
   global_id: t-61248
   teiginys: "J. Powierskio recenzija apie W. W. Iwanowo ir W. N. Toporowo veikalą paskelbta 1977 m. žurnale „Slavia antiqua“."
-  temporaliniai_duomenys: "įvykio data: 1977 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata remia bibliografinį faktą, o pradinis teiginys neturi predikato."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "792897-793093; hash=ba4adfb29218851e78ac511d693cbd2d4071f4c1ab213610744eb6a701f8f84a; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-61880
 ## Reikšmingi paminėjimai
@@ -56,8 +50,8 @@ Dusburgietis teigia, kad powierski J.
     Toporow. Issledovanija w oblasti sławjanskich drewnostej.— Slavia antiqua, Warszawa—
     Poznań, 1977, t. 24, s. 305—316.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -68,7 +62,8 @@ Dusburgietis teigia, kad powierski J.
 - id: c-61880
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 270"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 270."
   citata_originali: |
     Powierski J. Z badań nad mitologią bałto-slowiańską: Rec.: W. W. Iwanow, W. N.
     Toporow. Issledovanija w oblasti sławjanskich drewnostej.— Slavia antiqua, Warszawa—

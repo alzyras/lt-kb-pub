@@ -38,12 +38,6 @@ media_all_json: |-
 - t-001
   global_id: t-194170
   teiginys: "7 1443— 1447 m. Lietuvos didžiojo kunigaikščio rūm ų maršalas buvo Vaitkus (Wojtko), Jono Goštauto sūnus (Rocznik Towarzystwa Heraldycznego, t."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "556560-556840; hash=f2b1e56bbb1e08097a0b609cdbf6502a2d25b19763ec4f912ccafc3bcbbaf24c; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176783
 ## Reikšmingi paminėjimai
@@ -58,8 +52,8 @@ media_all_json: |-
     BK klaida, arba Vaitkus Jonaitis Goštautas turėjo dar kitą — A nd­
     riaus — vardą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

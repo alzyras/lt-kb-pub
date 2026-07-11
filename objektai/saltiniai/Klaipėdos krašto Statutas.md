@@ -43,19 +43,6 @@ Nors Lietuvos vyriausybė skyrė Klaipėdos kraštui nemažai lėšų – vien �
 - t-001
   global_id: t-78149
   teiginys: "Klaipėdos krašto Statute įrašytas dviejų kalbų lygiateisiškumas 1938 m. pabaigoje faktiškai buvo virtęs fikcija."
-  temporaliniai_duomenys: "įvykio data: 1938 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys yra nepilnas fragmentas, o citata leidžia suformuluoti pilną faktą apie Statutą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "364236-364711; hash=17654d040426faa53fd085a37f533ad65ededd3eb2608c6609af05aa2222b506; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Klaipėdos krašto Statutas: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Klaipėdos krašto Statutas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-75457
 ## Reikšmingi paminėjimai
@@ -72,8 +59,8 @@ Nors Lietuvos vyriausybė skyrė Klaipėdos kraštui nemažai lėšų – vien �
     lygiateisiškumas tebuvo fikcija – lietuvių kalba galėjai susikalbėti tik lie-
     tuviškose įstaigose ir bendrovėse.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

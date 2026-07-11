@@ -54,13 +54,6 @@ Nenurodyta
 - t-001
   global_id: t-62237
   teiginys: "1241 m. birželio 3 d. per pietus įvykęs didysis saulės užtemimas buvo toks smarkus, kad matėsi žvaigždės."
-  teiginio_tipas: "faktas"
-  temporaliniai_duomenys: "įvykio data: 1241 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalintas boilerplate ir OCR triukšmas; teiginys suformuluotas kaip pilnas faktas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "699754-699937; hash=2b297b1010bbe9f5f746b8fb8d7c983457cc783048225cfaef1fb7c74d623bb4; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-62737
 
@@ -68,13 +61,6 @@ Nenurodyta
 - t-001
   global_id: t-62237
   teiginys: "1241 m. birželio 3 d. per pietus įvykęs didysis saulės užtemimas buvo toks smarkus, kad matėsi žvaigždės."
-  teiginio_tipas: "faktas"
-  temporaliniai_duomenys: "įvykio data: 1241 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalintas boilerplate ir OCR triukšmas; teiginys suformuluotas kaip pilnas faktas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "699754-699937; hash=2b297b1010bbe9f5f746b8fb8d7c983457cc783048225cfaef1fb7c74d623bb4; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-62737
 
@@ -82,12 +68,6 @@ Nenurodyta
 - t-003
   global_id: t-194382
   teiginys: "Apie didįjį saulės užtemimą Tų pačių metų birželio trečią dieną, per pietus, taip smarkiai užtemo saulė, kad net žvaigždes galima buvo matyti nelyginant sutemus (Ptol."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "699754-699937; hash=2b297b1010bbe9f5f746b8fb8d7c983457cc783048225cfaef1fb7c74d623bb4; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-62737
 ## Reikšmingi paminėjimai
@@ -102,8 +82,8 @@ Nenurodyta
 
     29.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -116,7 +96,8 @@ Nenurodyta
 - id: c-62737
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 229-230"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 229-230."
   citata_originali: |
     Apie didįjį saulės užtemimą
 

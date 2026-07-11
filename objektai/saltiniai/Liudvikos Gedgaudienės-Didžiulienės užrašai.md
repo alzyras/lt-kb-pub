@@ -39,16 +39,6 @@ Iš Liudvikos Gedgaudienės-Didžiulienės užrašų. Sukilimo metu dar vaiku bu
 - t-007
   global_id: t-49257
   teiginys: "Liudvikos Gedgaudienės-Didžiulienės užrašuose minima į Salas atėjusi Lietuvos kariuomenė, sudaryta iš trijų didelių pulkų."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "656735-657108; hash=88f1839dbd138bb63bd31d3d10e329de7ba5b6f1fda4a87ecf9223542a31febb; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Liudvikos Gedgaudienės-Didžiulienės užrašai: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=69"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Liudvikos Gedgaudienės-Didžiulienės užrašai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-11255
 
@@ -56,16 +46,6 @@ Iš Liudvikos Gedgaudienės-Didžiulienės užrašų. Sukilimo metu dar vaiku bu
 - t-008
   global_id: t-49259
   teiginys: "Kunigas Mackevičius pamokslą sakė lenkiškai ir lietuviškai, o kariuomenė bei daugybė žmonių jo klausėsi lauke."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "657110-657276; hash=d597bb0c3b16bbfaa3ee47a2957bcaba45b027e4604c84bbb5511064b92e12ed; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
-  ryšio_patikimumas: "susije_su -> kunigas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Liudvikos Gedgaudienės-Didžiulienės užrašai: owner_note_path, source"
-  ryšio_targeto_parinkimas: "kunigas: mention_match, thing, gap=1"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Liudvikos Gedgaudienės-Didžiulienės užrašai\" parinktas kaip owner_note_path. Targetas \"kunigas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-11256
 ## Reikšmingi paminėjimai
@@ -79,8 +59,8 @@ Iš Liudvikos Gedgaudienės-Didžiulienės užrašų. Sukilimo metu dar vaiku bu
     kos. Antrasai pulkas aptaisytas, kas ką turėjo; o trečiasai - sodiečių, beveik visų vyzoty,
     dalgėm apginkluotų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -93,8 +73,8 @@ Iš Liudvikos Gedgaudienės-Didžiulienės užrašų. Sukilimo metu dar vaiku bu
     Gražų pamokslą lenkiškai, tą pat ir lietuviškai sakęs kunigas Mackevičius. Visa kariuo-
     menė ir pulkų pulkai žmonių klausę tyrame lauke ir net verkę girdėdami sakant:
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -41,14 +41,6 @@ Po mūšio Prie Polianovkos upės Lietuva ir Lenkija su Rusija sudarė „amžin
 - t-001
   global_id: t-193797
   teiginys: "Po mūšio Prie Polianovkos upės Lietuva ir Lenkija su Rusija sudarė „amžinosios taikos“ sutartį."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "486817-487098; hash=0111733340a339ba4a1c8415d44b3318394d5ec559b37a2b9555cf4715a6037a; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-176443
 ## Reikšmingi paminėjimai
@@ -67,8 +59,8 @@ Po mūšio Prie Polianovkos upės Lietuva ir Lenkija su Rusija sudarė „amžin
     1654 m., kai sulaužę ją rusai vėl įsiveržė į
     Lietuvą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

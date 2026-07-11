@@ -42,19 +42,6 @@ Nenurodyta
 - t-001
   global_id: t-185570
   teiginys: "Kojelavičius patikimiausia laikė prielaidą, kad italai į šias žemes atvyko po devintojo amžiaus nuo Kristaus gimimo."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "91381-91901; hash=082904680bdc5f1149eca2cc17893f20ce3ec7712a912ff67a2c66d62ac1bfed; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Italija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Italų atvykimas į Lietuvą A. Kojelavičiaus pasakojime: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Italija: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Italų atvykimas į Lietuvą A. Kojelavičiaus pasakojime\" parinktas kaip owner_note_path. Targetas \"Italija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-168931
 
@@ -62,12 +49,6 @@ Nenurodyta
 - t-002
   global_id: t-193355
   teiginys: "Galimas daiktas, alanai, arba herulai (kurie, istorijos žiniomis, tuo metu ėjo Italijos stovyklose ka ro tarnybą), pirmieji pradėjo: ilgėdamiesi taikos, jie pasitraukė iš tėvynės ir pasuko į tas žemes, kurios buvo tinkamiausios įsikurti ir neniokojamos karų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "92671-93394; hash=a409e3aa27a0c724fcd842acd75aeb8859f435c1bea93912382d680d4ae54135; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176083
 ## Reikšmingi paminėjimai
@@ -92,8 +73,8 @@ Nenurodyta
     amžiaus nuo Kristaus gimimo. Tada visoje Italijoje
     liepsnojo tarpusavio rietenos.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -125,8 +106,8 @@ Nenurodyta
     bo Stulpai, Ursinas bei Hektoras — herbo Rožės, arba
     Rožynas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

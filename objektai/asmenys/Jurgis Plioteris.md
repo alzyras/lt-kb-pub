@@ -38,21 +38,6 @@ Simonas Stanevičius Narbutui rašė, kad Raseinių maršalka Jurgis Plioteris t
 - t-001
   global_id: t-190167
   teiginys: "Simonas Stanevičius Narbutui rašė, kad Raseinių maršalka Jurgis Plioteris turėjo keletą tokių auksinių monetų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "373691-374060; hash=9f2e7e11fe37afb87375db6bc2221ae2b92dc0aba7ee24fbbde9fb4b841d1a72; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Raseiniai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jurgis Plioteris: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Raseiniai: mention_match, place, gap=18"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jurgis Plioteris\" parinktas kaip owner_note_path. Targetas \"Raseiniai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173050
 - susijęs iš [[objektai/asmenys/Simonas Stanevičius.md#claim-t-190045|Simonas Stanevičius]]: Simonas Stanevičius 1836 m. balandžio 19 d. laiške Narbutui tvirtino, kad Jurgis Plioteris turėjo keletą Švėkšnoje rastų auksinių monetų.
@@ -72,8 +57,8 @@ Simonas Stanevičius Narbutui rašė, kad Raseinių maršalka Jurgis Plioteris t
     nas Stanevičius, filosofijos magistras, lietuviškų dainų rinkinio
     autorius, man rašytame laiške (Raseiniai. -  1836.IV19)*.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -84,7 +69,8 @@ Simonas Stanevičius Narbutui rašė, kad Raseinių maršalka Jurgis Plioteris t
 - id: c-173050
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 219"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 219."
   citata_originali: |
     Apie šio lobio suradimą Švėkšnos klebono kunigo kanau­
     ninko Juozapo Januškevičiaus sode buvo žinoma visiems to kraš­

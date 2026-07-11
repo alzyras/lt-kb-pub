@@ -51,14 +51,6 @@ Nenurodyta
 - t-002
   global_id: t-193027
   teiginys: "Skitų klajokliai maistą gaudavo augindami gyvulius, medžiodami ir žvejodami, o grūdus mainydavo iš žemdirbių."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "89211-89603; hash=f5c59a359b831000d4b6f53f8733ba848f6d1fddf0a31ed8dfa123815f539080; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175797
 
@@ -66,12 +58,6 @@ Nenurodyta
 - t-003
   global_id: t-194875
   teiginys: "Skitų gentys dalijosi į įvairias kartas arba klases, bet dvi svarbiausios buvo šios: žemdirbių ir klajoklių."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "88043-88414; hash=4d8258d6ca2cfeb342df6c7462dd68c5cf4800a7f02910b0ad1c5412d3bb7ec2; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177271
 ## Reikšmingi paminėjimai
@@ -94,8 +80,8 @@ Nenurodyta
     bet dėl savo gyvenimo būdo buvo mažiau civilizuoti už
     anuos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -114,8 +100,8 @@ Nenurodyta
     grūdų, kurių duodavo ir kitoms gentims. Jų žemės buvo
     abipus Dnepro, netoli šios upės.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -151,7 +137,8 @@ Nenurodyta
 - id: c-177271
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 51"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 51."
   citata_originali: |
     32
     Skitų gentys dalijosi į įvairias kartas arba klases, bet

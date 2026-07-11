@@ -61,11 +61,6 @@ Nenurodyta
 - t-001
   global_id: t-23318
   teiginys: "1926 m. birželio 17 d. panaikinta karo padėtis."
-  temporaliniai_duomenys: "įvykio data: 1926 m.; įvykio data: po 1927 m.; įvykio data: 1927 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "312095-312725; hash=5b16c5aae214e66c565542c53b3105376c220b9245433793d51774e1d50bf39b; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-26866
 
@@ -73,11 +68,6 @@ Nenurodyta
 - t-002
   global_id: t-23319
   teiginys: "Tą pačią reformų bangą lydėjo politinių kalinių amnestija, spaudos apribojimų panaikinimas ir susirinkimų laisvės suteikimas."
-  temporaliniai_duomenys: "įvykio data: po 1927 m.; įvykio data: 1927 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "312095-312725; hash=5b16c5aae214e66c565542c53b3105376c220b9245433793d51774e1d50bf39b; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-26866
 
@@ -85,19 +75,6 @@ Nenurodyta
 - t-003
   global_id: t-23320
   teiginys: "III Seimo naujoji valdančioji dauguma skubėjo Lietuvoje įdiegti visateisę demokratinę santvarką."
-  temporaliniai_duomenys: "įvykio data: po 1927 m.; įvykio data: 1927 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatinis ir atitinka citatos turinį."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "312095-312725; hash=5b16c5aae214e66c565542c53b3105376c220b9245433793d51774e1d50bf39b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "III Seimo daugumos demokratinės reformos (1926 m. birželio 17 d.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=46"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"III Seimo daugumos demokratinės reformos (1926 m. birželio 17 d.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-26866
 
@@ -105,19 +82,6 @@ Nenurodyta
 - t-003
   global_id: t-23320
   teiginys: "III Seimo naujoji valdančioji dauguma skubėjo Lietuvoje įdiegti visateisę demokratinę santvarką."
-  temporaliniai_duomenys: "įvykio data: po 1927 m.; įvykio data: 1927 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatinis ir atitinka citatos turinį."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "312095-312725; hash=5b16c5aae214e66c565542c53b3105376c220b9245433793d51774e1d50bf39b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "III Seimo daugumos demokratinės reformos (1926 m. birželio 17 d.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=46"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"III Seimo daugumos demokratinės reformos (1926 m. birželio 17 d.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-26866
 ## Reikšmingi paminėjimai
@@ -137,8 +101,8 @@ Nenurodyta
     likų kunigams, nes nuo 1927 m. pradžios dar ketinta nebemokėti algų
     dvasininkams), ėmė mažinti karininkų skaičių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

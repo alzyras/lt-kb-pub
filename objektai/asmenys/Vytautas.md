@@ -32,19 +32,19 @@ amziai:
   - 'XIV'
 periodo_grupes:
   - 'LDK'
-media_total_count: '62'
-media_primary_thumb_url: 'http://www.limis.lt/limisk-portlet/external/image/exhibit/130000000695455/130000002309904?q=low'
-media_primary_canonical_url: 'https://www.europeana.eu/item/2064101/Museu_ProvidedCHO_Maironio_lietuvi__literat_ros_muziejus___Maironis_Lithuanian_Literature_Museum_LIMIS_130000000695455'
+media_total_count: '59'
+media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/1/13/Vita%C5%ADt_Vialiki%2C_Pahonia._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%281443%29.jpg'
+media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki%2C_Pahonia._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%281443%29.jpg'
 media_primary_directness: 'direct'
-media_primary_relation_type: 'portrait_of'
+media_primary_relation_type: 'manuscript_depiction_of'
 media_primary_json: |-
-  {"mediaId":"m-65f29a5b48f003ff1bdfdc40","title":"Vytauto Didžiojo portretas","caption":"Vytauto Didžiojo portretas.","creator":"","provider":"europeana","providerLabel":"Europeana","license":"http://creativecommons.org/licenses/by/4.0/","rightsNote":"http://creativecommons.org/licenses/by/4.0/","dateDisplay":"","canonicalUrl":"https://www.europeana.eu/item/2064101/Museu_ProvidedCHO_Maironio_lietuvi__literat_ros_muziejus___Maironis_Lithuanian_Literature_Museum_LIMIS_130000000695455","thumbUrl":"http://www.limis.lt/limisk-portlet/external/image/exhibit/130000000695455/130000002309904?q=low","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.98,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"Atrinkta rankiniu būdu iš saugios licencijos Europeana rezultatų.","isPrimary":0}
+  {"mediaId":"m-f396e7f6eccd59dd3f8167fc","title":"Vitaŭt Vialiki, Pahonia. Вітаўт Вялікі, Пагоня (1443).jpg","caption":"Vytauto Didžiojo mirties arba laidotuvių scenos rankraštinis atvaizdas su Pahonia, 1443 m.","originalTitle":"Vitaŭt Vialiki, Pahonia. Вітаўт Вялікі, Пагоня (1443).jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Андрэй Строцаў, герб Пагоня (herb Pahonia / Погоня / Pogonia): усё пра гістарычны герб беларусаў","dateDisplay":"1443 date QS:P571,+1443-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":1406,"height":2048,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki%2C_Pahonia._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%281443%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/1/13/Vita%C5%ADt_Vialiki%2C_Pahonia._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%281443%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/13/Vita%C5%ADt_Vialiki%2C_Pahonia._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%281443%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"rankraštis","label":"rankraštis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"laidotuvės","label":"laidotuvės","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"scena","label":"scena","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"manuscript_depiction_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:15:23.661195+03:00","reviewedAt":"2026-07-11T02:17:30.216926+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matoma rankraščio miniatiūra: grupė gedinčių asmenų prie mirusio valdovo kūno, viršuje pavaizduotas raitelio herbas.","metadataEvidence":"Pavadinimas nurodo Vitaŭt Vialiki ir Pahonia, aprašas teigia, kad tai Vytauto Didžiojo atvaizdas; data pateikta kaip 1443.","confidenceLevel":"high","relationType":"manuscript_depiction_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Nors vaizde nėra vien portretas, metaduomenys ir scena tiesiogiai sieja atvaizdą su Vytautu Didžiuoju.","isPrimary":0}
 media_direct_json: |-
-  [{"mediaId":"m-25a52d83da16bb71dce53621","title":"Vitaŭt Vialiki. Вітаўт Вялікі (A. Guagnini, 1578, 1885).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1885","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Guagnini%2C_1578%2C_1885%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c2/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Guagnini%2C_1578%2C_1885%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.98,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1},{"mediaId":"m-ea1dbbe398596cd2dcc84124","title":"Seal of Vytautas the Great.jpg","caption":"Portrait seal of Grand Duke of Lithuania Vytautas the Great.","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"14-15th centuries","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_Vytautas_the_Great.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c2/Seal_of_Vytautas_the_Great.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-51353d97f244528b962f46db","title":"Vytautas the great.png","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"17 th century date QS:P,+1650-00-00T00:00:00Z/7","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVytautas_the_great.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/52/Vytautas_the_great.png","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-c0011d2677e2dcece9cf8f30","title":"Wielki książę litewski Witold.jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Jan Matejko","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1866","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AWielki_ksi%C4%85%C5%BC%C4%99_litewski_Witold.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/8/8e/Wielki_ksi%C4%85%C5%BC%C4%99_litewski_Witold.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-ba34a3fefd0874a4d9a8fef3","title":"Portrait of a Lithuanian Grand-Duke, Trakai Castle, Lithuania.jpg","caption":"Portrait of a Lithuanian Grand-Duke Vytautas The Great , Trakai Castle, Lithuania.","creator":"Ricardo Filipe Pereira","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","dateDisplay":"2013-10-09 16:39:07","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APortrait_of_a_Lithuanian_Grand-Duke%2C_Trakai_Castle%2C_Lithuania.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/53/Portrait_of_a_Lithuanian_Grand-Duke%2C_Trakai_Castle%2C_Lithuania.jpg","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.98,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-484ab5f62e4a960c1d978db8","title":"Vitaŭt Vialiki. Вітаўт Вялікі (A. Guagnini, 1578).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Alessandro Guagnini","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1578","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Guagnini%2C_1578%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/01/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Guagnini%2C_1578%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.98,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-1e708d0a5620d5a9bf639d0d","title":"Vitaŭt Vialiki. Вітаўт Вялікі (A. Guagnini, 1578, 1611).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Alessandro Guagnini","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1611","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Guagnini%2C_1578%2C_1611%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/55/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Guagnini%2C_1578%2C_1611%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.98,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-bab4d4f2e4fcffa6c0431405","title":"Vitaŭt Vialiki. Вітаўт Вялікі (A. Klukoŭski, 1850).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Antoni Klukowski","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"circa 1850 date QS:P,+1850-00-00T00:00:00Z/9,P1480,Q5727902","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Kluko%C5%ADski%2C_1850%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/6d/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Kluko%C5%ADski%2C_1850%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.98,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-91da24b2fe281b6c2a89696a","title":"Vitaŭt Vialiki. Вітаўт Вялікі (A. Lesser, 1830-84).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Aleksander Lesser","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between 1830 and 1884 date QS:P,+1850-00-00T00:00:00Z/7,P1319,+1830-00-00T00:00:00Z/9,P1326,+1884-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Lesser%2C_1830-84%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/e5/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Lesser%2C_1830-84%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.98,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-d15bf12daf2da3d85cc37a07","title":"Vitaŭt Vialiki. Вітаўт Вялікі (A. Tarasievič, 1675).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Alaksandar Tarasievič (Aleksander Tarasowicz)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1675","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Tarasievi%C4%8D%2C_1675%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/24/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Tarasievi%C4%8D%2C_1675%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.98,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-ab0b3bb8379a2cf0c44289f8","title":"Vitaŭt Vialiki. Вітаўт Вялікі (A. Tomaszewski, 1837).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Alojzy Tomaszewski","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1840 date QS:P571,+1840-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Tomaszewski%2C_1837%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/9/98/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Tomaszewski%2C_1837%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.98,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-c6a643bef80f021679128f09","title":"Vitaŭt Vialiki. Вітаўт Вялікі (M. Barvicki, 1908).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Мечыслаў Барвіцкі","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1908","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28M._Barvicki%2C_1908%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5e/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28M._Barvicki%2C_1908%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.98,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-31a4e9b62c25702eb084368b","title":"Wisztyniec 2016 A 656.jpg","caption":"Vištytis - town in southern Lituania. Monument to Vytautas, Duke of Lithuania.","creator":"Ciacho5","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","dateDisplay":"2016-01","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AWisztyniec_2016_A_656.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/13/Wisztyniec_2016_A_656.jpg","relationType":"statue_of","directness":"direct","reviewStatus":"accepted","confidence":0.98,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-8d0eb2efcd6c13c8b1e3ae63","title":"Paveikslas „Vytautas Didysis“","caption":"Paveikslas „Vytautas Didysis“.","creator":"Majeris Mironas Kodkinas","provider":"europeana","providerLabel":"Europeana","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","dateDisplay":"2023","canonicalUrl":"https://www.europeana.eu/item/2021802/LIMIS_1023016325","thumbUrl":"https://www.epaveldas.lt/static/vdkm-bucket/LIMIS-1023016325/thumbnail-original/get.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.98,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"Atrinkta rankiniu būdu iš saugios licencijos Europeana rezultatų.","isPrimary":0},{"mediaId":"m-936338ab9ecdc203a98eea21","title":"Lietuvos didysis kunigaikštis Vytautas","caption":"Lietuvos didžiojo kunigaikščio Vytauto atvaizdas.","creator":"Elena Zalogaitė","provider":"europeana","providerLabel":"Europeana","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","dateDisplay":"2024","canonicalUrl":"https://www.europeana.eu/item/2021802/LIMIS_879974553","thumbUrl":"https://www.epaveldas.lt/static/rkm-bucket/LIMIS-879974553/thumbnail-original/get.jpg","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.98,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"Atrinkta rankiniu būdu iš saugios licencijos Europeana rezultatų.","isPrimary":0},{"mediaId":"m-359dd4ec749cade04f726b8a","title":"Did. Lietuvos kunigaikštis Vytautas Didysis 1392–1430 : [portretas] | Grand Duc de Lituanie Vytautas-le-Grand 1392–1430 | Didysis Lietuvos kunigaikštis Vytautas Didysis 1392–1430","caption":"Didžiojo Lietuvos kunigaikščio Vytauto Didžiojo portretas, 1392–1430.","creator":"https://www.epaveldas.lt/thesaurus/_source/cr6bpy63jer5r28nbxdw3jn","provider":"europeana","providerLabel":"Europeana","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","dateDisplay":"","canonicalUrl":"https://www.europeana.eu/item/2021803/C1B0004651396","thumbUrl":"https://www.epaveldas.lt/static/lnb-bucket/C1B0004651396/thumbnail-original/C1B0004651396.jpg","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.98,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"Atrinkta rankiniu būdu iš saugios licencijos Europeana rezultatų.","isPrimary":0},{"mediaId":"m-65f29a5b48f003ff1bdfdc40","title":"Vytauto Didžiojo portretas","caption":"Vytauto Didžiojo portretas.","creator":"","provider":"europeana","providerLabel":"Europeana","license":"http://creativecommons.org/licenses/by/4.0/","rightsNote":"http://creativecommons.org/licenses/by/4.0/","dateDisplay":"","canonicalUrl":"https://www.europeana.eu/item/2064101/Museu_ProvidedCHO_Maironio_lietuvi__literat_ros_muziejus___Maironis_Lithuanian_Literature_Museum_LIMIS_130000000695455","thumbUrl":"http://www.limis.lt/limisk-portlet/external/image/exhibit/130000000695455/130000002309904?q=low","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.98,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"Atrinkta rankiniu būdu iš saugios licencijos Europeana rezultatų.","isPrimary":0},{"mediaId":"m-d8d74190630a9fd5aea593bd","title":"Vitaut grav xvi.jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"en:Alexander Guagnini (1538-1614)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1578","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVitaut_grav_xvi.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/44/Vitaut_grav_xvi.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-4f98322ce1aeb38e99e94f17","title":"Vitaŭt Vialiki, Kalumny. Вітаўт Вялікі, Калюмны (1555) (2).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"circa 1555 date QS:P,+1555-00-00T00:00:00Z/9,P1480,Q5727902","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki%2C_Kalumny._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9A%D0%B0%D0%BB%D1%8E%D0%BC%D0%BD%D1%8B_%281555%29_%282%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c6/Vita%C5%ADt_Vialiki%2C_Kalumny._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9A%D0%B0%D0%BB%D1%8E%D0%BC%D0%BD%D1%8B_%281555%29_%282%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-a964f48573419803d459c024","title":"Vitaŭt Vialiki, Kalumny. Вітаўт Вялікі, Калюмны (1555).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"circa 1555 date QS:P,+1555-00-00T00:00:00Z/9,P1480,Q5727902","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki%2C_Kalumny._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9A%D0%B0%D0%BB%D1%8E%D0%BC%D0%BD%D1%8B_%281555%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/04/Vita%C5%ADt_Vialiki%2C_Kalumny._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9A%D0%B0%D0%BB%D1%8E%D0%BC%D0%BD%D1%8B_%281555%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-3d9cc48e7f9a3b7c760eec00","title":"Vitaŭt Vialiki, Kalumny. Вітаўт Вялікі, Калюмны (1555, B. Starzyński, 1875-1900).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Bolesław Starzyński","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between 1875 and 1900 date QS:P,+1500-00-00T00:00:00Z/6,P1319,+1875-00-00T00:00:00Z/9,P1326,+1900-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki%2C_Kalumny._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9A%D0%B0%D0%BB%D1%8E%D0%BC%D0%BD%D1%8B_%281555%2C_B._Starzy%C5%84ski%2C_1875-1900%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/41/Vita%C5%ADt_Vialiki%2C_Kalumny._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9A%D0%B0%D0%BB%D1%8E%D0%BC%D0%BD%D1%8B_%281555%2C_B._Starzy%C5%84ski%2C_1875-1900%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-f396e7f6eccd59dd3f8167fc","title":"Vitaŭt Vialiki, Pahonia. Вітаўт Вялікі, Пагоня (1443).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1443 date QS:P571,+1443-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki%2C_Pahonia._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%281443%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/13/Vita%C5%ADt_Vialiki%2C_Pahonia._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%281443%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-bd5ab71ba61450749fdfcce7","title":"Vitaŭt Vialiki. Вітаўт Вялікі (1831).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1831","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%281831%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a8/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%281831%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-e01248be6ca9e26479f8f67a","title":"Vitaŭt Vialiki. Вітаўт Вялікі (1836).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1836","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%281836%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/2a/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%281836%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-35077b2615b9697b59f18d18","title":"Vitaŭt Vialiki. Вітаўт Вялікі (1837-38).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between 1837 and 1838 date QS:P571,+1837-00-00T00:00:00Z/8,P1319,+1837-00-00T00:00:00Z/9,P1326,+1838-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%281837-38%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fe/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%281837-38%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-012a4cf974383751a1d50c94","title":"Vitaŭt Vialiki. Вітаўт Вялікі (1851-1900).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between 1851 and 1900 date QS:P,+1500-00-00T00:00:00Z/6,P1319,+1851-00-00T00:00:00Z/9,P1326,+1900-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%281851-1900%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c4/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%281851-1900%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-79dddd30565bc350c4217f0a","title":"Vitaŭt Vialiki. Вітаўт Вялікі (1885).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1885","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%281885%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4a/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%281885%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-cce7ef2ff57be05f19ef17db","title":"Vitaŭt Vialiki. Вітаўт Вялікі (1930).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"circa 1930 date QS:P,+1930-00-00T00:00:00Z/9,P1480,Q5727902","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%281930%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/2f/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%281930%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-9271846f686d86ef49142b33","title":"Vitaŭt Vialiki. Вітаўт Вялікі (F. Smuglevič, 1786).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Franciszek Smuglewicz","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1786","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28F._Smuglevi%C4%8D%2C_1786%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/09/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28F._Smuglevi%C4%8D%2C_1786%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-1d7eddf304eaada630f0e2e4","title":"Vitaŭt Vialiki. Вітаўт Вялікі (J. Aziambłoŭski, 1839).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Józef Oziębłowski","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1839","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28J._Aziamb%C5%82o%C5%ADski%2C_1839%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/8/8d/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28J._Aziamb%C5%82o%C5%ADski%2C_1839%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-2d72aff9a456f81aec23e64b","title":"Vitaŭt Vialiki. Вітаўт Вялікі (J. Aziambłoŭski, 1840) (2).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Józef Oziębłowski","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1840 date QS:P571,+1840-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28J._Aziamb%C5%82o%C5%ADski%2C_1840%29_%282%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/9/90/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28J._Aziamb%C5%82o%C5%ADski%2C_1840%29_%282%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-58015edc64d7dd16971c2487","title":"Vitaŭt Vialiki. Вітаўт Вялікі (J. Aziambłoŭski, 1840) (3).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Józef Oziębłowski","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1840 date QS:P571,+1840-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28J._Aziamb%C5%82o%C5%ADski%2C_1840%29_%283%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/56/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28J._Aziamb%C5%82o%C5%ADski%2C_1840%29_%283%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-26f02b1d51fcb3413d9f1702","title":"Vitaŭt Vialiki. Вітаўт Вялікі (J. Aziambłoŭski, 1840).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Józef Oziębłowski","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1840 date QS:P571,+1840-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28J._Aziamb%C5%82o%C5%ADski%2C_1840%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/01/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28J._Aziamb%C5%82o%C5%ADski%2C_1840%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-d40580df0a4d385cdf5d7d00","title":"Vitaŭt Vialiki. Вітаўт Вялікі (J. Hesse, 1842).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Jan Hesse","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1842","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28J._Hesse%2C_1842%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/7/78/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28J._Hesse%2C_1842%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-c3cdf2ed3b7f84c7ecb7ec6f","title":"Vitaŭt Vialiki. Вітаўт Вялікі (J. Polkowski, 1864).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Józef Tadeusz Polkowski","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1864","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28J._Polkowski%2C_1864%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d6/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28J._Polkowski%2C_1864%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-6cf00eb9b49f971b1ba818df","title":"Vitaŭt Vialiki. Вітаўт Вялікі (J. Ziankievič, 1853).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Jan Ziankievič","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1853","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28J._Ziankievi%C4%8D%2C_1853%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/54/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28J._Ziankievi%C4%8D%2C_1853%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-ef3a92e376d5c48b81f60aaf","title":"Vitaŭt Vialiki. Вітаўт Вялікі (J. Ziankievič, 1864).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Jan Ziankievič","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between 1864 and 1870 date QS:P,+1850-00-00T00:00:00Z/7,P1319,+1864-00-00T00:00:00Z/9,P1326,+1870-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28J._Ziankievi%C4%8D%2C_1864%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/68/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28J._Ziankievi%C4%8D%2C_1864%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-a3e0336946b8605650d43434","title":"Vitaŭt Vialiki. Вітаўт Вялікі (R. Žukoŭski, XIX).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Rudolf Žukoŭski","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"19 th century date QS:P,+1850-00-00T00:00:00Z/7","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28R._%C5%BDuko%C5%ADski%2C_XIX%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1a/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28R._%C5%BDuko%C5%ADski%2C_XIX%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-b439b9ea85a1a40d2d56519f","title":"Vitaŭt Vialiki. Вітаўт Вялікі (V. Dmachoŭski, 1848).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Wincenty Dmochowski","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1848","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28V._Dmacho%C5%ADski%2C_1848%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d1/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28V._Dmacho%C5%ADski%2C_1848%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-07b98ddb6657ef599a10a45d","title":"Vitaŭt Vialiki. Вітаўт Вялікі (V. Dmachoŭski, 1854).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Wincenty Dmochowski","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1854","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28V._Dmacho%C5%ADski%2C_1854%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/15/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28V._Dmacho%C5%ADski%2C_1854%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-a122c7776956396d14c6dfef","title":"Vitaŭt Vialiki. Вітаўт Вялікі (V. Słaviecki, 1831-41) (2).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Vincent Słaviecki","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between 1831 and 1841 date QS:P,+1850-00-00T00:00:00Z/7,P1319,+1831-00-00T00:00:00Z/9,P1326,+1841-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28V._S%C5%82aviecki%2C_1831-41%29_%282%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/61/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28V._S%C5%82aviecki%2C_1831-41%29_%282%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-a6684ef6e82e8375a5efb21e","title":"Vitaŭt Vialiki. Вітаўт Вялікі (V. Słaviecki, 1831-41).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Vincent Słaviecki","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between 1831 and 1841 date QS:P,+1850-00-00T00:00:00Z/7,P1319,+1831-00-00T00:00:00Z/9,P1326,+1841-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28V._S%C5%82aviecki%2C_1831-41%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/8/8d/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28V._S%C5%82aviecki%2C_1831-41%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-3cf550452aee94802aa495df","title":"Vitaŭt Vialiki. Вітаўт Вялікі (XIX).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"19 th century date QS:P571,+1850-00-00T00:00:00Z/7","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28XIX%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/d/dc/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28XIX%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-5f9421818d1ac9542f1ab16d","title":"Vitaŭt Vialiki. Вітаўт Вялікі (XVII).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"17 th century date QS:P,+1650-00-00T00:00:00Z/7","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28XVII%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4a/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28XVII%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-d0e6857061d1744a3f518af6","title":"Vitaŭt Vialiki. Вітаўт Вялікі (XVII, 1893).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"17 th century date QS:P,+1650-00-00T00:00:00Z/7 1893","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28XVII%2C_1893%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c7/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28XVII%2C_1893%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-d0f45f8e764022d84712e3d2","title":"Vitaŭt Vialiki. Вітаўт Вялікі (XVIII) (2).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"18 th century date QS:P,+1750-00-00T00:00:00Z/7","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28XVIII%29_%282%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5a/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28XVIII%29_%282%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-989533b28dc1a535cd1cf93c","title":"Vitaŭt Vialiki. Вітаўт Вялікі (XVIII).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"18 th century date QS:P,+1750-00-00T00:00:00Z/7","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28XVIII%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a2/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28XVIII%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-e510b14e04cbf3694a3520e2","title":"Vitaŭt Vialiki. Вітаўт Вялікі (XX).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"before 1941 date QS:P,+1941-00-00T00:00:00Z/7,P1326,+1941-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28XX%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/24/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28XX%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-d2c4738684a48dbed6e7277e","title":"Vitaŭt Vialiki. Вітаўт Вялікі (Z. Gloger, 1900).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Zygmunt Gloger","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"before 1901 date QS:P,+1901-00-00T00:00:00Z/7,P1326,+1901-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28Z._Gloger%2C_1900%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d5/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28Z._Gloger%2C_1900%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-dcdbe87268bf50ba7819977b","title":"Vitaŭt. Вітаўт (XVIII).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"18 th century date QS:P,+1750-00-00T00:00:00Z/7","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%28XVIII%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c4/Vita%C5%ADt._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%28XVIII%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-e3b89856b0418d42bd4e7312","title":"Medžio drožinys „Vytautas Didysis“","caption":"Medžio drožinys „Vytautas Didysis“.","creator":"Antanas Bagdonas","provider":"europeana","providerLabel":"Europeana","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","dateDisplay":"","canonicalUrl":"https://www.europeana.eu/item/2021802/LIMIS_610110146","thumbUrl":"https://www.epaveldas.lt/static/tkm-bucket/LIMIS-610110146/thumbnail-original/get.jpg","relationType":"statue_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"Atrinkta rankiniu būdu iš saugios licencijos Europeana rezultatų.","isPrimary":0},{"mediaId":"m-9161a5dc35b1cb26f4a50841","title":"Medžio skulptūra „Vytautas Didysis, Lietuvos didysis kunigaikštis (1392–1430)“","caption":"Medžio skulptūra „Vytautas Didysis, Lietuvos didysis kunigaikštis (1392–1430)“.","creator":"Antanas Bagdonas","provider":"europeana","providerLabel":"Europeana","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","dateDisplay":"","canonicalUrl":"https://www.europeana.eu/item/2021802/LIMIS_609869752","thumbUrl":"https://www.epaveldas.lt/static/tkm-bucket/LIMIS-609869752/thumbnail-original/get.jpg","relationType":"statue_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"Atrinkta rankiniu būdu iš saugios licencijos Europeana rezultatų.","isPrimary":0},{"mediaId":"m-043970e67a10dacfa87474d2","title":"Bareljefas „Vytautas – Lietuvos didysis kunigaikštis“","caption":"Bareljefas „Vytautas – Lietuvos didysis kunigaikštis“.","creator":"E. Juškevičius","provider":"europeana","providerLabel":"Europeana","license":"http://creativecommons.org/licenses/by/4.0/","rightsNote":"http://creativecommons.org/licenses/by/4.0/","dateDisplay":"2021","canonicalUrl":"https://www.europeana.eu/item/2021802/LIMIS_942401200","thumbUrl":"https://www.epaveldas.lt/static/lnm-bucket/LIMIS-942401200/thumbnail-original/get.jpg","relationType":"statue_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"Atrinkta rankiniu būdu iš saugios licencijos Europeana rezultatų.","isPrimary":0}]
+  [{"mediaId":"m-d8d74190630a9fd5aea593bd","title":"Vitaut grav xvi.jpg","caption":"Vytauto Didžiojo XVI a. graviūra, priskiriama Aleksandrui Guagniniui, 1578 m.","originalTitle":"Vitaut grav xvi.jpg","creator":"en:Alexander Guagnini (1538-1614)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Sarmatiae Europeae descriptio published in 1578 / \"Дмитрий Донской\" (ЖЗЛ), Москва","dateDisplay":"1578","dateStart":null,"dateEnd":null,"width":2017,"height":2228,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVitaut_grav_xvi.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/44/Vitaut_grav_xvi.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/44/Vitaut_grav_xvi.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"karyba","label":"karyba","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:15:23.663902+03:00","reviewedAt":"2026-07-11T02:17:30.234778+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas šarvuotas valdovas su puošniu šalmu, lazda / skeptru ir karine atributika.","metadataEvidence":"Aprašas tiesiogiai nurodo „Grand Duke of Lithuania Vytautas the Great“, data 1578 m.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Metaduomenys aiškiai tapatina vaizduojamą asmenį su Vytautu Didžiuoju.","isPrimary":1},{"mediaId":"m-043970e67a10dacfa87474d2","title":"Bareljefas „Vytautas – Lietuvos didysis kunigaikštis“","caption":"Bareljefas „Vytautas – Lietuvos didysis kunigaikštis“","originalTitle":"Bareljefas „Vytautas – Lietuvos didysis kunigaikštis“","creator":"E. Juškevičius","provider":"europeana","providerLabel":"Europeana","license":"http://creativecommons.org/licenses/by/4.0/","rightsNote":"http://creativecommons.org/licenses/by/4.0/","licenseUrl":"http://creativecommons.org/licenses/by/4.0/","attribution":"","dateDisplay":"2021","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021802/LIMIS_942401200","sourceUrl":"https://www.epaveldas.lt/static/lnm-bucket/LIMIS-942401200/thumbnail-original/get.jpg","thumbUrl":"https://www.epaveldas.lt/static/lnm-bucket/LIMIS-942401200/thumbnail-original/get.jpg","institution":"National Museum of Lithuania","collection":"","country":"","language":"","tags":[{"code":"skulptūra","label":"skulptūra","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"daiktas","label":"daiktas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"bareljefas","label":"bareljefas","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"statue_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T00:20:48.482869+03:00","reviewedAt":"2026-07-11T02:49:26.564127+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Mediniame bareljefe vaizduojamas valdovas su atributais, karūna apačioje ir pilies motyvais fone.","metadataEvidence":"Pavadinimas ir aprašymas nurodo „Vytautas – Lietuvos didysis kunigaikštis“.","confidenceLevel":"high","relationType":"statue_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tiesioginis skulptūrinis Vytauto atvaizdas, aiškiai patvirtintas metaduomenimis.","isPrimary":0},{"mediaId":"m-5a8de8ab28f8dd7ece0f471a","title":"Briedžio ragas su išraižytu Vytauto Didžiojo bareljefu","caption":"Briedžio ragas su Vytauto Didžiojo bareljefu.","originalTitle":"Briedžio ragas su išraižytu Vytauto Didžiojo bareljefu","creator":"Antanas Bagdonas","provider":"europeana","providerLabel":"Europeana","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"http://creativecommons.org/publicdomain/mark/1.0/","attribution":"","dateDisplay":"","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021802/LIMIS_610357555","sourceUrl":"https://www.epaveldas.lt/static/tkm-bucket/LIMIS-610357555/thumbnail-original/get.jpg","thumbUrl":"https://www.epaveldas.lt/static/tkm-bucket/LIMIS-610357555/thumbnail-original/get.jpg","institution":"Tauragė Regional Museum","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T00:20:48.484261+03:00","reviewedAt":"2026-07-11T00:21:21.406702+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Ant rago matomas išraižytas karūnuoto valdovo bareljefas ir užrašas „VYTAUTAS“ su datomis.","metadataEvidence":"Pavadinimas ir aprašymas tiesiogiai nurodo „Vytauto Didžiojo bareljefą“.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai aiškus konkretaus Vytauto Didžiojo memorialinis atvaizdas.","isPrimary":0},{"mediaId":"m-359dd4ec749cade04f726b8a","title":"Did. Lietuvos kunigaikštis Vytautas Didysis 1392–1430 : [portretas] | Grand Duc de Lituanie Vytautas-le-Grand 1392–1430 | Didysis Lietuvos kunigaikštis Vytautas Didysis 1392–1430","caption":"Didysis Lietuvos kunigaikštis Vytautas Didysis 1392–1430","originalTitle":"Did. Lietuvos kunigaikštis Vytautas Didysis 1392–1430 : [portretas] | Grand Duc de Lituanie Vytautas-le-Grand 1392–1430 | Didysis Lietuvos kunigaikštis Vytautas Didysis 1392–1430","creator":"https://www.epaveldas.lt/thesaurus/_source/cr6bpy63jer5r28nbxdw3jn","provider":"europeana","providerLabel":"Europeana","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"http://creativecommons.org/publicdomain/mark/1.0/","attribution":"","dateDisplay":"","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021803/C1B0004651396","sourceUrl":"https://www.epaveldas.lt/static/lnb-bucket/C1B0004651396/thumbnail-original/C1B0004651396.jpg","thumbUrl":"https://www.epaveldas.lt/static/lnb-bucket/C1B0004651396/thumbnail-original/C1B0004651396.jpg","institution":"Martynas Mažvydas National Library of Lithuania","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T00:20:48.482419+03:00","reviewedAt":"2026-07-11T02:49:26.559529+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas valdovo portretas su kunigaikštiška kepure ir mantija; apačioje įrašyta Vytauto Didžiojo tapatybė ir datos.","metadataEvidence":"Pavadinimas ir aprašymas tiesiogiai nurodo Didįjį Lietuvos kunigaikštį Vytautą Didįjį, 1392–1430.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tapatybė aiškiai įrodyta tiek užrašu pačiame vaizde, tiek metaduomenimis.","isPrimary":0},{"mediaId":"m-936338ab9ecdc203a98eea21","title":"Lietuvos didysis kunigaikštis Vytautas","caption":"Lietuvos didysis kunigaikštis Vytautas","originalTitle":"Lietuvos didysis kunigaikštis Vytautas","creator":"Elena Zalogaitė","provider":"europeana","providerLabel":"Europeana","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"http://creativecommons.org/publicdomain/mark/1.0/","attribution":"","dateDisplay":"2024","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021802/LIMIS_879974553","sourceUrl":"https://www.epaveldas.lt/static/rkm-bucket/LIMIS-879974553/thumbnail-original/get.jpg","thumbUrl":"https://www.epaveldas.lt/static/rkm-bucket/LIMIS-879974553/thumbnail-original/get.jpg","institution":"Rokiškis Regional Museum","collection":"","country":"","language":"","tags":[{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"karyba","label":"karyba","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"scena","label":"scena","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T00:20:48.482662+03:00","reviewedAt":"2026-07-11T02:49:26.562217+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Kairėje matomas valdovo portretas su kunigaikščio kepure, aplink jį - raiteliai, pilys ir istorinės scenos.","metadataEvidence":"Pavadinimas „Lietuvos didysis kunigaikštis Vytautas“, aprašymas nurodo Vytauto atvaizdą.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Nors vaizdas stilizuotas, metaduomenys ir kompozicija aiškiai rodo Vytauto Didžiojo atvaizdą.","isPrimary":0},{"mediaId":"m-bedd635657c08dd8b0b509d8","title":"Lietuvos didžiojo kunigaikščio Vytauto Didžiojo medalis. 1930 m., bronza","caption":"Vytauto Didžiojo medalis, 1930 m.","originalTitle":"Lietuvos didžiojo kunigaikščio Vytauto Didžiojo medalis. 1930 m., bronza","creator":"P. Rimša","provider":"europeana","providerLabel":"Europeana","license":"http://creativecommons.org/licenses/by-sa/4.0/","rightsNote":"http://creativecommons.org/licenses/by-sa/4.0/","licenseUrl":"http://creativecommons.org/licenses/by-sa/4.0/","attribution":"","dateDisplay":"1959","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021803/KPCPBF41Ap3Nr349","sourceUrl":"https://www.epaveldas.lt/static/kpcpb-bucket/KPCPBF41Ap3Nr349/thumbnail-original/0001-KPCPBF41Ap3Nr349.jpg","thumbUrl":"https://www.epaveldas.lt/static/kpcpb-bucket/KPCPBF41Ap3Nr349/thumbnail-original/0001-KPCPBF41Ap3Nr349.jpg","institution":"Heritage Conservation Library of the Cultural Heritage Center","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T00:20:48.484083+03:00","reviewedAt":"2026-07-11T00:21:21.402103+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matosi medalio portretas su valdovo atvaizdu ir aiškiu užrašu „VYTAUTAS DIDYSIS“ bei datomis „1430–1930“.","metadataEvidence":"Pavadinimas ir aprašymas nurodo, kad tai Lietuvos didžiojo kunigaikščio Vytauto Didžiojo 1930 m. bronzinis medalis.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdas ir metaduomenys tiesiogiai identifikuoja Vytautą Didįjį.","isPrimary":0},{"mediaId":"m-e3b89856b0418d42bd4e7312","title":"Medžio drožinys „Vytautas Didysis“","caption":"Medžio drožinys „Vytautas Didysis“.","originalTitle":"Medžio drožinys „Vytautas Didysis“","creator":"Antanas Bagdonas","provider":"europeana","providerLabel":"Europeana","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"http://creativecommons.org/publicdomain/mark/1.0/","attribution":"","dateDisplay":"","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021802/LIMIS_610110146","sourceUrl":"https://www.epaveldas.lt/static/tkm-bucket/LIMIS-610110146/thumbnail-original/get.jpg","thumbUrl":"https://www.epaveldas.lt/static/tkm-bucket/LIMIS-610110146/thumbnail-original/get.jpg","institution":"Tauragė Regional Museum","collection":"","country":"","language":"","tags":[{"code":"skulptūra","label":"skulptūra","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"daiktas","label":"daiktas","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"bareljefas","label":"bareljefas","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"statue_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T00:20:48.483415+03:00","reviewedAt":"2026-07-11T02:22:51.426209+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas ovaliame rėme išdrožtas istorinio valdovo biustas su karūna, šarvais ir valdžios lazda.","metadataEvidence":"Pavadinimas ir aprašas tiesiogiai nurodo „Medžio drožinys „Vytautas Didysis““, tai sutampa su target Vytautas Didysis.","confidenceLevel":"high","relationType":"statue_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdas ir metaduomenys aiškiai identifikuoja Vytauto Didžiojo atvaizdą.","isPrimary":0},{"mediaId":"m-9161a5dc35b1cb26f4a50841","title":"Medžio skulptūra „Vytautas Didysis, Lietuvos didysis kunigaikštis (1392–1430)“","caption":"Medžio skulptūra „Vytautas Didysis, Lietuvos didysis kunigaikštis (1392–1430)“","originalTitle":"Medžio skulptūra „Vytautas Didysis, Lietuvos didysis kunigaikštis (1392–1430)“","creator":"Antanas Bagdonas","provider":"europeana","providerLabel":"Europeana","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"http://creativecommons.org/publicdomain/mark/1.0/","attribution":"","dateDisplay":"","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021802/LIMIS_609869752","sourceUrl":"https://www.epaveldas.lt/static/tkm-bucket/LIMIS-609869752/thumbnail-original/get.jpg","thumbUrl":"https://www.epaveldas.lt/static/tkm-bucket/LIMIS-609869752/thumbnail-original/get.jpg","institution":"Tauragė Regional Museum","collection":"","country":"","language":"","tags":[{"code":"skulptūra","label":"skulptūra","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"daiktas","label":"daiktas","facetKind":"tema","confidence":0.95},{"code":"ginklas","label":"ginklas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"statue_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T00:20:48.483108+03:00","reviewedAt":"2026-07-11T02:49:26.565785+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matoma medinė stovinti valdovo figūra su kalaviju, skydu ir įrašu postamente „Vytautas Didysis Lietuvos kunigaikštis 1392–1430“.","metadataEvidence":"Pavadinimas ir aprašymas tiesiogiai nurodo Vytautą Didįjį, Lietuvos didįjį kunigaikštį, 1392–1430.","confidenceLevel":"high","relationType":"statue_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdo įrašas ir metaduomenys vienareikšmiškai patvirtina, kad tai Vytauto Didžiojo skulptūra.","isPrimary":0},{"mediaId":"m-8d0eb2efcd6c13c8b1e3ae63","title":"Paveikslas „Vytautas Didysis“","caption":"Paveikslas „Vytautas Didysis“","originalTitle":"Paveikslas „Vytautas Didysis“","creator":"Majeris Mironas Kodkinas","provider":"europeana","providerLabel":"Europeana","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"http://creativecommons.org/publicdomain/mark/1.0/","attribution":"","dateDisplay":"2023","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021802/LIMIS_1023016325","sourceUrl":"https://www.epaveldas.lt/static/vdkm-bucket/LIMIS-1023016325/thumbnail-original/get.jpg","thumbUrl":"https://www.epaveldas.lt/static/vdkm-bucket/LIMIS-1023016325/thumbnail-original/get.jpg","institution":"Vytautas the Great War Museum","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T00:20:48.482134+03:00","reviewedAt":"2026-07-11T02:49:26.552533+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas karūnuotas valdovas su mantija, kalaviju ir reprezentacine poza.","metadataEvidence":"Pavadinimas ir aprašymas nurodo „Vytautas Didysis“.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdas ir metaduomenys tiesiogiai identifikuoja Vytautą Didįjį.","isPrimary":0},{"mediaId":"m-ba34a3fefd0874a4d9a8fef3","title":"Portrait of a Lithuanian Grand-Duke, Trakai Castle, Lithuania.jpg","caption":"Vytauto Didžiojo portretas Trakų pilyje.","originalTitle":"Portrait of a Lithuanian Grand-Duke, Trakai Castle, Lithuania.jpg","creator":"Ricardo Filipe Pereira","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2013-10-09 16:39:07","dateStart":null,"dateEnd":null,"width":1944,"height":2592,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APortrait_of_a_Lithuanian_Grand-Duke%2C_Trakai_Castle%2C_Lithuania.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/5/53/Portrait_of_a_Lithuanian_Grand-Duke%2C_Trakai_Castle%2C_Lithuania.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/53/Portrait_of_a_Lithuanian_Grand-Duke%2C_Trakai_Castle%2C_Lithuania.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T00:14:02.899128+03:00","reviewedAt":"2026-07-11T02:17:30.198462+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas karūnuotas valdovas su šarvais, raudonu apsiaustu ir kalaviju istorinio portreto kompozicijoje.","metadataEvidence":"Aprašas tiesiogiai nurodo „Vytautas The Great“ ir Trakų pilį Lietuvoje.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Metaduomenys aiškiai įvardija Vytautą Didįjį, o vaizdas atitinka valdovo portretą.","isPrimary":0},{"mediaId":"m-ea1dbbe398596cd2dcc84124","title":"Seal of Vytautas the Great.jpg","caption":"Vytauto Didžiojo portretinis antspaudas, XIV–XV a.","originalTitle":"Seal of Vytautas the Great.jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"http://alkas.lt/2012/10/21/traku-pilyje-vytauto-didziojo-mirties-metiniu-minejimas-ir-knygos-didzioji-lietuva-pristatymas/","dateDisplay":"14-15th centuries","dateStart":null,"dateEnd":null,"width":1228,"height":1264,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_Vytautas_the_Great.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c2/Seal_of_Vytautas_the_Great.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c2/Seal_of_Vytautas_the_Great.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"seal_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T00:14:02.897540+03:00","reviewedAt":"2026-07-11T02:14:53.504709+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Apskritame antspaude matomas soste sėdintis valdovas, aplink jį skydai ir įrašas.","metadataEvidence":"Pavadinimas „Seal of Vytautas the Great“, aprašymas „Portrait seal of Grand Duke of Lithuania Vytautas the Great“, data XIV–XV a.","confidenceLevel":"high","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai konkretus Vytauto Didžiojo portretinis antspaudas, ne vien bendras simbolis.","isPrimary":0},{"mediaId":"m-4f98322ce1aeb38e99e94f17","title":"Vitaŭt Vialiki, Kalumny. Вітаўт Вялікі, Калюмны (1555) (2).jpg","caption":"Vytauto Didžiojo atvaizdas su Gediminaičių stulpais, apie 1555 m.","originalTitle":"Vitaŭt Vialiki, Kalumny. Вітаўт Вялікі, Калюмны (1555) (2).jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Paulmy (Antoine-René d'Argenson, marquis de). Recueil d'armoiries polonaises. Bibliothèque nationale de France. Bibliothèque de l'Arsenal, Ms-X, fol. Y. Ms-1114. Polaczkówna H. Stemmata Polonica; rękopis nr 1114 klejnotów Długosza w Bibliotece Arsenału w Paryżu. Lwów, 1926.","dateDisplay":"circa 1555 date QS:P,+1555-00-00T00:00:00Z/9,P1480,Q5727902","dateStart":null,"dateEnd":null,"width":950,"height":1355,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki%2C_Kalumny._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9A%D0%B0%D0%BB%D1%8E%D0%BC%D0%BD%D1%8B_%281555%29_%282%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c6/Vita%C5%ADt_Vialiki%2C_Kalumny._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9A%D0%B0%D0%BB%D1%8E%D0%BC%D0%BD%D1%8B_%281555%29_%282%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c6/Vita%C5%ADt_Vialiki%2C_Kalumny._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9A%D0%B0%D0%BB%D1%8E%D0%BC%D0%BD%D1%8B_%281555%29_%282%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T00:14:02.901377+03:00","reviewedAt":"2026-07-11T02:14:53.523189+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Sėdintis karūnuotas valdovas, priekyje pavaizduotas skydas su Gediminaičių stulpais.","metadataEvidence":"Pavadinime ir aprašyme nurodyta Vitaŭt Vialiki / Vytautas the Great, Grand Duke of Lithuania, data apie 1555 m.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tapatybė aiškiai patvirtinta metaduomenimis ir ikonografija.","isPrimary":0},{"mediaId":"m-a964f48573419803d459c024","title":"Vitaŭt Vialiki, Kalumny. Вітаўт Вялікі, Калюмны (1555).jpg","caption":"Vytauto Didžiojo atvaizdas su Gediminaičių stulpais, apie 1555 m.","originalTitle":"Vitaŭt Vialiki, Kalumny. Вітаўт Вялікі, Калюмны (1555).jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Paulmy (Antoine-René d'Argenson, marquis de). Recueil d'armoiries polonaises. Bibliothèque nationale de France. Bibliothèque de l'Arsenal, Ms-X, fol. Y. Ms-1114. Polaczkówna H. Stemmata Polonica; rękopis nr 1114 klejnotów Długosza w Bibliotece Arsenału w Paryżu. Lwów, 1926.","dateDisplay":"circa 1555 date QS:P,+1555-00-00T00:00:00Z/9,P1480,Q5727902","dateStart":null,"dateEnd":null,"width":1050,"height":1199,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki%2C_Kalumny._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9A%D0%B0%D0%BB%D1%8E%D0%BC%D0%BD%D1%8B_%281555%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/0/04/Vita%C5%ADt_Vialiki%2C_Kalumny._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9A%D0%B0%D0%BB%D1%8E%D0%BC%D0%BD%D1%8B_%281555%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/04/Vita%C5%ADt_Vialiki%2C_Kalumny._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9A%D0%B0%D0%BB%D1%8E%D0%BC%D0%BD%D1%8B_%281555%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:15:23.662370+03:00","reviewedAt":"2026-07-11T02:17:30.222874+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Sėdintis karūnuotas valdovas su raudonu apsiaustu; priekyje raudonas skydas su Gediminaičių stulpais.","metadataEvidence":"Pavadinime nurodyta „Vitaŭt Vialiki, Kalumny“, aprašyme – „Grand Duke of Lithuania Vytautas the Great“, data apie 1555 m.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tiek portretas, tiek metaduomenys tiesiogiai sieja vaizdą su Vytautu.","isPrimary":0},{"mediaId":"m-f396e7f6eccd59dd3f8167fc","title":"Vitaŭt Vialiki, Pahonia. Вітаўт Вялікі, Пагоня (1443).jpg","caption":"Vytauto Didžiojo mirties arba laidotuvių scenos rankraštinis atvaizdas su Pahonia, 1443 m.","originalTitle":"Vitaŭt Vialiki, Pahonia. Вітаўт Вялікі, Пагоня (1443).jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Андрэй Строцаў, герб Пагоня (herb Pahonia / Погоня / Pogonia): усё пра гістарычны герб беларусаў","dateDisplay":"1443 date QS:P571,+1443-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":1406,"height":2048,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki%2C_Pahonia._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%281443%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/1/13/Vita%C5%ADt_Vialiki%2C_Pahonia._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%281443%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/13/Vita%C5%ADt_Vialiki%2C_Pahonia._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%281443%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"rankraštis","label":"rankraštis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"laidotuvės","label":"laidotuvės","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"scena","label":"scena","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"manuscript_depiction_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:15:23.661195+03:00","reviewedAt":"2026-07-11T02:17:30.216926+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matoma rankraščio miniatiūra: grupė gedinčių asmenų prie mirusio valdovo kūno, viršuje pavaizduotas raitelio herbas.","metadataEvidence":"Pavadinimas nurodo Vitaŭt Vialiki ir Pahonia, aprašas teigia, kad tai Vytauto Didžiojo atvaizdas; data pateikta kaip 1443.","confidenceLevel":"high","relationType":"manuscript_depiction_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Nors vaizde nėra vien portretas, metaduomenys ir scena tiesiogiai sieja atvaizdą su Vytautu Didžiuoju.","isPrimary":0},{"mediaId":"m-6975acb48a7a0b8feaf99616","title":"Vitaŭt Vialiki, Pahonia. Вітаўт Вялікі, Пагоня (K. Kielisiński, 1385, 1841).jpg","caption":"Kajetano Kielisińskio pieštas Vytauto Didžiojo antspaudo atvaizdas.","originalTitle":"Vitaŭt Vialiki, Pahonia. Вітаўт Вялікі, Пагоня (K. Kielisiński, 1385, 1841).jpg","creator":"Kajetan Wincenty Kielisiński","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"","dateDisplay":"1385, 1841","dateStart":null,"dateEnd":null,"width":2302,"height":3012,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki%2C_Pahonia._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%28K._Kielisi%C5%84ski%2C_1385%2C_1841%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/8/8a/Vita%C5%ADt_Vialiki%2C_Pahonia._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%28K._Kielisi%C5%84ski%2C_1385%2C_1841%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/8/8a/Vita%C5%ADt_Vialiki%2C_Pahonia._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%28K._Kielisi%C5%84ski%2C_1385%2C_1841%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"seal_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T00:14:02.899625+03:00","reviewedAt":"2026-07-11T02:14:53.514684+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Piešinyje matomas apvalus antspaudas su raiteliu, kalaviju ir legenda, pats antspaudas pavaizduotas tarsi pritvirtintas prie dokumento.","metadataEvidence":"Aprašyme nurodyta, kad tai Lietuvos didžiojo kunigaikščio Vytauto Didžiojo antspaudas; kūrėjas Kajetan Wincenty Kielisiński, data 1385/1841.","confidenceLevel":"high","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Aiškiai identifikuotas konkretaus Vytauto antspaudo istorinis atvaizdas.","isPrimary":0},{"mediaId":"m-bd5ab71ba61450749fdfcce7","title":"Vitaŭt Vialiki. Вітаўт Вялікі (1831).jpg","caption":"1831 m. Vytauto, Lietuvos didvyrio, portretinis atvaizdas.","originalTitle":"Vitaŭt Vialiki. Вітаўт Вялікі (1831).jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Bernardo Zaydler. Storia della Polonia. Florencija, 1831","dateDisplay":"1831","dateStart":null,"dateEnd":null,"width":2348,"height":3911,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%281831%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a8/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%281831%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a8/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%281831%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"litografija","label":"litografija","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T00:14:02.902699+03:00","reviewedAt":"2026-07-11T02:14:53.529366+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Profilinis šarvuoto valdovo biustas su šalmu ir plunksna; apačioje įrašas „Vitoldo Eroe della Lituania“.","metadataEvidence":"Pavadinimas ir aprašymas nurodo Vitaŭt Vialiki / Vytautas the Great, data 1831 m.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdo įrašas ir metaduomenys sutampa su Vytauto tapatybe.","isPrimary":0},{"mediaId":"m-e01248be6ca9e26479f8f67a","title":"Vitaŭt Vialiki. Вітаўт Вялікі (1836).jpg","caption":"Vytauto Didžiojo portretas, 1836 m.","originalTitle":"Vitaŭt Vialiki. Вітаўт Вялікі (1836).jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Baliński, Michał. Historya miasta Wilna. T. 1. 1836.","dateDisplay":"1836","dateStart":null,"dateEnd":null,"width":726,"height":800,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%281836%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/2/2a/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%281836%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/2a/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%281836%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:15:23.660999+03:00","reviewedAt":"2026-07-11T02:17:30.215344+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas karūnuotas vyras su valdovo mantija, šarvais, kalaviju ir kryžiaus insignija.","metadataEvidence":"Pavadinimas ir aprašas nurodo Vitaŭt Vialiki / Vytautą Didįjį, Lietuvos didįjį kunigaikštį; data 1836.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Aiškus metaduomenų sutapimas su target ir portretinis istorinis Vytauto atvaizdas.","isPrimary":0},{"mediaId":"m-35077b2615b9697b59f18d18","title":"Vitaŭt Vialiki. Вітаўт Вялікі (1837-38).jpg","caption":"Vytauto Didžiojo XIX a. portretinė graviūra","originalTitle":"Vitaŭt Vialiki. Вітаўт Вялікі (1837-38).jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"La Pologne, historique, littéraire, monumentale et pittoresque... T. 2. Paris, 1837-1838. Tabl. m.s. 68-69.","dateDisplay":"between 1837 and 1838 date QS:P571,+1837-00-00T00:00:00Z/8,P1319,+1837-00-00T00:00:00Z/9,P1326,+1838-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":3287,"height":4433,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%281837-38%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fe/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%281837-38%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fe/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%281837-38%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:15:23.659466+03:00","reviewedAt":"2026-07-11T02:17:30.209300+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Po portretu užrašyta „Alexandre Witold, Grand Duc de Lituanie, 1350-1430“.","metadataEvidence":"Pavadinimas ir aprašas nurodo Vytautą Didįjį; data 1837–1838 m.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Užrašas pačiame vaizde tiesiogiai sutampa su target vardu, titulu ir gyvenimo datomis.","isPrimary":0},{"mediaId":"m-012a4cf974383751a1d50c94","title":"Vitaŭt Vialiki. Вітаўт Вялікі (1851-1900).jpg","caption":"Vytauto Didžiojo portretas, XIX a. antros pusės paveikslas.","originalTitle":"Vitaŭt Vialiki. Вітаўт Вялікі (1851-1900).jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Lietuvos nacionalinis muziejus. LNM T 1696.","dateDisplay":"between 1851 and 1900 date QS:P,+1500-00-00T00:00:00Z/6,P1319,+1851-00-00T00:00:00Z/9,P1326,+1900-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":658,"height":800,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%281851-1900%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c4/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%281851-1900%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c4/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%281851-1900%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:15:23.661619+03:00","reviewedAt":"2026-07-11T02:17:30.218740+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas karūnuotas vyras su šermuonėlių mantija, šarvais, kalaviju ir valdovo insignijomis.","metadataEvidence":"Pavadinimas ir aprašas nurodo Vitaŭt Vialiki / Vytautą Didįjį, Lietuvos didįjį kunigaikštį; data 1851–1900.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Metaduomenys aiškiai įvardija Vytautą, o vaizdas atitinka valdovo portretą.","isPrimary":0},{"mediaId":"m-79dddd30565bc350c4217f0a","title":"Vitaŭt Vialiki. Вітаўт Вялікі (1885).jpg","caption":"1885 m. Vytauto Didžiojo portretinis atvaizdas.","originalTitle":"Vitaŭt Vialiki. Вітаўт Вялікі (1885).jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Kirkor A. H. Vytautas, didis Lietuvos kunįgaiksztis. Tilžeje: kaszta ir spauda Mikszo Jurgio, 1885.","dateDisplay":"1885","dateStart":null,"dateEnd":null,"width":758,"height":817,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%281885%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4a/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%281885%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4a/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%281885%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T00:14:02.901823+03:00","reviewedAt":"2026-07-11T02:14:53.525365+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Profilinis valdovo biustas su puošniu šalmu, plunksna, šarvais ir valdžios lazdomis.","metadataEvidence":"Pavadinimas ir aprašymas nurodo Vitaŭt Vialiki / Vytautas the Great, 1885 m.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Metaduomenys tiesiogiai identifikuoja atvaizduotą asmenį kaip Vytautą Didįjį.","isPrimary":0},{"mediaId":"m-cce7ef2ff57be05f19ef17db","title":"Vitaŭt Vialiki. Вітаўт Вялікі (1930).jpg","caption":"Vytautas Didysis, apie 1930 m. tapytas portretas.","originalTitle":"Vitaŭt Vialiki. Вітаўт Вялікі (1930).jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Maironio lietuvių literatūros muziejus. MLLM MD 1277.","dateDisplay":"circa 1930 date QS:P,+1930-00-00T00:00:00Z/9,P1480,Q5727902","dateStart":null,"dateEnd":null,"width":414,"height":800,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%281930%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/2/2f/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%281930%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/2f/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%281930%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:15:23.657841+03:00","reviewedAt":"2026-07-11T02:17:30.200101+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Karūnuotas valdovas su hermelino apsiaustu, šarvais ir kalaviju, nutapytas reprezentaciniu portreto formatu.","metadataEvidence":"Pavadinimas ir aprašas nurodo „Vitaŭt Vialiki / Vytautas the Great“, data apie 1930 m.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Metaduomenys aiškiai identifikuoja portretuojamą asmenį kaip Vytautą Didįjį.","isPrimary":0},{"mediaId":"m-484ab5f62e4a960c1d978db8","title":"Vitaŭt Vialiki. Вітаўт Вялікі (A. Guagnini, 1578).jpg","caption":"Vytauto Didžiojo atvaizdas iš Alessandro Guagnini leidinio, 1578 m.","originalTitle":"Vitaŭt Vialiki. Вітаўт Вялікі (A. Guagnini, 1578).jpg","creator":"Alessandro Guagnini","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Sarmatiae Europeae descriptio, quae Regnum Poloniae, Lituaniam, Samogitiam, Russiam, Masoviam, Prussiam, Pomeraniam... complectitur","dateDisplay":"1578","dateStart":null,"dateEnd":null,"width":2568,"height":2571,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Guagnini%2C_1578%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/0/01/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Guagnini%2C_1578%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/01/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Guagnini%2C_1578%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"knyga","label":"knyga","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T00:14:02.898607+03:00","reviewedAt":"2026-07-11T02:17:30.193593+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Graviūroje matomas šarvuotas valdovas su kunigaikštiška kepure, skeptru ir ietimi, įrėmintas ornamentais.","metadataEvidence":"Pavadinimas ir aprašas nurodo Vytautą Didįjį; kūrėjas Alessandro Guagnini, 1578 m.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai tiesioginis istorinis Vytauto atvaizdas iš ankstyvo leidinio.","isPrimary":0},{"mediaId":"m-1e708d0a5620d5a9bf639d0d","title":"Vitaŭt Vialiki. Вітаўт Вялікі (A. Guagnini, 1578, 1611).jpg","caption":"Vytauto Didžiojo atvaizdas iš Alessandro Guagnini tradicijos, 1611 m.","originalTitle":"Vitaŭt Vialiki. Вітаўт Вялікі (A. Guagnini, 1578, 1611).jpg","creator":"Alessandro Guagnini","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Kronika Sarmacyey Europskiey, w Ktorey Sie Zamyka krolestwo Polskie ze wszystkiemi Państwy, Xięstwy, y Prowincyami swemi: tudzież też Wielkie Xięstwo Lithew: Ruskie, Pruskie, Zmudzkie, Inflantskie, Moskiewskie, y część Tatarow. Przez Alexandra Gwagnina z Werony ... W Krakowie, w Drukarni Mikołaia Loba, Roku Pańskiego 1611.","dateDisplay":"1611","dateStart":null,"dateEnd":null,"width":1066,"height":1023,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Guagnini%2C_1578%2C_1611%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/5/55/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Guagnini%2C_1578%2C_1611%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/55/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Guagnini%2C_1578%2C_1611%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"karyba","label":"karyba","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T00:14:02.900274+03:00","reviewedAt":"2026-07-11T02:17:30.226352+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Karūnuotas šarvuotas valdovas medalione, laikantis vėliavos kotą ir skeptrą ar buožę.","metadataEvidence":"Pavadinime nurodyta „Vitaŭt Vialiki“, aprašyme – „Grand Duke of Lithuania Vytautas the Great“, kūrėjas Alessandro Guagnini, data 1611 m.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Istorinis portretinis atvaizdas aiškiai identifikuotas kaip Vytautas.","isPrimary":0},{"mediaId":"m-25a52d83da16bb71dce53621","title":"Vitaŭt Vialiki. Вітаўт Вялікі (A. Guagnini, 1578, 1885).jpg","caption":"Vytauto Didžiojo portretas pagal Guagnini atvaizdą, 1885 m.","originalTitle":"Vitaŭt Vialiki. Вітаўт Вялікі (A. Guagnini, 1578, 1885).jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Сапунов А. Витебская старина. Т. 4. Ч. 1. Полоцкое воеводство под властью царя Иоанна Васильевича Грозного (1563-1580); Ч. 2. Полоцкое и Витебское воеводство под властью царя Алексея Михайловича (1654-1667 гг.). — Витебск, 1885. С. 12.","dateDisplay":"1885","dateStart":null,"dateEnd":null,"width":531,"height":622,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Guagnini%2C_1578%2C_1885%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c2/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Guagnini%2C_1578%2C_1885%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c2/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Guagnini%2C_1578%2C_1885%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"knyga","label":"knyga","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T00:14:02.897157+03:00","reviewedAt":"2026-07-11T02:17:30.195282+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Juodai balta iliustracija rodo šarvuotą valdovą su kepure, plunksna, skeptru ir ietimi.","metadataEvidence":"Pavadinimas ir aprašas nurodo Vytautą Didįjį pagal A. Guagnini 1578 m. atvaizdą, 1885 m.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdas yra tiesioginis Vytauto ikonografinio portreto variantas.","isPrimary":0},{"mediaId":"m-bab4d4f2e4fcffa6c0431405","title":"Vitaŭt Vialiki. Вітаўт Вялікі (A. Klukoŭski, 1850).jpg","caption":"Aleksandro Vytauto Didžiojo portretas, Antoni Klukowski, apie 1850 m.","originalTitle":"Vitaŭt Vialiki. Вітаўт Вялікі (A. Klukoŭski, 1850).jpg","creator":"Antoni Klukowski","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Muzeum Narodowe w Krakowie. MNK III-ryc.-36105.","dateDisplay":"circa 1850 date QS:P,+1850-00-00T00:00:00Z/9,P1480,Q5727902","dateStart":null,"dateEnd":null,"width":2547,"height":3910,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Kluko%C5%ADski%2C_1850%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/6/6d/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Kluko%C5%ADski%2C_1850%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/6d/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Kluko%C5%ADski%2C_1850%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"litografija","label":"litografija","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T00:14:02.898869+03:00","reviewedAt":"2026-07-11T02:17:30.196745+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas karūnuotas ir šarvuotas valdovas su mantija bei kardu; apačioje įrašyta „ALEXANDER WITOLD W.X.L.“.","metadataEvidence":"Pavadinimas ir aprašas nurodo Vytautą Didįjį, kūrėjas Antoni Klukowski, apie 1850 m.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Įrašas ir metaduomenys aiškiai identifikuoja Aleksandrą Vytautą, Lietuvos didįjį kunigaikštį.","isPrimary":0},{"mediaId":"m-91da24b2fe281b6c2a89696a","title":"Vitaŭt Vialiki. Вітаўт Вялікі (A. Lesser, 1830-84).jpg","caption":"Aleksanderio Lesserio Vytauto Didžiojo valdovo atvaizdas.","originalTitle":"Vitaŭt Vialiki. Вітаўт Вялікі (A. Lesser, 1830-84).jpg","creator":"Aleksander Lesser","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Muzeum Narodowe w Warszawie. DI 31543 MNW.","dateDisplay":"between 1830 and 1884 date QS:P,+1850-00-00T00:00:00Z/7,P1319,+1830-00-00T00:00:00Z/9,P1326,+1884-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":800,"height":697,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Lesser%2C_1830-84%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/e/e5/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Lesser%2C_1830-84%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/e5/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Lesser%2C_1830-84%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T00:14:02.900694+03:00","reviewedAt":"2026-07-11T02:14:53.520108+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Pavaizduotas soste sėdintis karūnuotas valdovas su vėliava ir skydais; viename skyde matoma Vytis.","metadataEvidence":"Aprašyme nurodyta, kad tai Lietuvos didžiojo kunigaikščio Vytauto Didžiojo paveikslas; failo pavadinime Vitaŭt Vialiki, kūrėjas Aleksander Lesser.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Metaduomenys aiškiai identifikuoja Vytautą, o vaizdas rodo valdovo ikonografiją su Lietuvos simboliais.","isPrimary":0},{"mediaId":"m-d15bf12daf2da3d85cc37a07","title":"Vitaŭt Vialiki. Вітаўт Вялікі (A. Tarasievič, 1675).jpg","caption":"Vytauto Didžiojo atvaizdas, Aleksandro Tarasevičiaus raižinys, 1675 m.","originalTitle":"Vitaŭt Vialiki. Вітаўт Вялікі (A. Tarasievič, 1675).jpg","creator":"Alaksandar Tarasievič (Aleksander Tarasowicz)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Biblioteka Narodowa, G.2165.","dateDisplay":"1675","dateStart":null,"dateEnd":null,"width":424,"height":426,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Tarasievi%C4%8D%2C_1675%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/2/24/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Tarasievi%C4%8D%2C_1675%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/24/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Tarasievi%C4%8D%2C_1675%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T00:14:02.900066+03:00","reviewedAt":"2026-07-11T02:17:30.221679+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas karūnuotas valdovas su skeptru ir apsiaustu; apačioje užrašas „WITOLD. W.XL.“","metadataEvidence":"Pavadinime nurodyta „Vitaŭt Vialiki“, aprašyme – „Grand Duke of Lithuania Vytautas the Great“, data 1675 m., autorius A. Tarasievičius.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdas ir metaduomenys aiškiai identifikuoja Vytautą Didįjį.","isPrimary":0},{"mediaId":"m-ab0b3bb8379a2cf0c44289f8","title":"Vitaŭt Vialiki. Вітаўт Вялікі (A. Tomaszewski, 1837).jpg","caption":"Vytauto Didžiojo portretas, Alojzy Tomaszewski, XIX a.","originalTitle":"Vitaŭt Vialiki. Вітаўт Вялікі (A. Tomaszewski, 1837).jpg","creator":"Alojzy Tomaszewski","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Lwowianin. 1837, T. 1. Tabl. m. s. 50-51.","dateDisplay":"1840 date QS:P571,+1840-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":3659,"height":5561,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Tomaszewski%2C_1837%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/9/98/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Tomaszewski%2C_1837%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/9/98/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Tomaszewski%2C_1837%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T00:14:02.900475+03:00","reviewedAt":"2026-07-11T02:17:30.187642+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas šarvuotas valdovas su kunigaikštiška kepure, skeptru ir ietimi; apačioje įrašyta „Witold Wielki książę Litewski“.","metadataEvidence":"Pavadinimas ir aprašas nurodo „Vitaŭt Vialiki / Vytautas the Great“, kūrėjas Alojzy Tomaszewski, data XIX a.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdas ir įrašas tiesiogiai identifikuoja Vytautą Didįjį.","isPrimary":0},{"mediaId":"m-9271846f686d86ef49142b33","title":"Vitaŭt Vialiki. Вітаўт Вялікі (F. Smuglevič, 1786).jpg","caption":"Scena su Vytautu Didžiuoju prie totorių pasiuntinių, Franciszek Smuglewicz, 1786 m.","originalTitle":"Vitaŭt Vialiki. Вітаўт Вялікі (F. Smuglevič, 1786).jpg","creator":"Franciszek Smuglewicz","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Gabinet Rycin Biblioteki Uniwersyteckiej w Warszawie. Inw.zb.d. 10400.","dateDisplay":"1786","dateStart":null,"dateEnd":null,"width":2221,"height":1500,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28F._Smuglevi%C4%8D%2C_1786%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/0/09/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28F._Smuglevi%C4%8D%2C_1786%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/09/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28F._Smuglevi%C4%8D%2C_1786%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"diplomatas","label":"diplomatas","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"scena","label":"scena","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:15:23.663334+03:00","reviewedAt":"2026-07-11T02:17:30.231296+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Palapinės scenoje matomas šarvuotas stovintis valdovas ir kiti asmenys; apačioje rankraštinis tekstas prasideda „Roku 1390. Witold W.X.L...“.","metadataEvidence":"Pavadinime nurodyta „Vitaŭt Vialiki“, aprašyme – „Grand Duke of Lithuania Vytautas the Great“, autorius Franciszek Smuglewicz, data 1786 m.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Scena ir įrašas aiškiai vaizduoja Vytautą, todėl ryšys su target yra tiesioginis.","isPrimary":0},{"mediaId":"m-1d7eddf304eaada630f0e2e4","title":"Vitaŭt Vialiki. Вітаўт Вялікі (J. Aziambłoŭski, 1839).jpg","caption":"Vytauto Didžiojo portretas, Józefo Oziębłowskio atvaizdas, 1839 m.","originalTitle":"Vitaŭt Vialiki. Вітаўт Вялікі (J. Aziambłoŭski, 1839).jpg","creator":"Józef Oziębłowski","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Narbutt T. Dzieje narodu litewskiego. T. 6, Panowanie Witolda w wieku piętnastym. Wilno, 1839. Lietuvos dailės muziejus. LDM G 10722.","dateDisplay":"1839","dateStart":null,"dateEnd":null,"width":1024,"height":1453,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28J._Aziamb%C5%82o%C5%ADski%2C_1839%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/8/8d/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28J._Aziamb%C5%82o%C5%ADski%2C_1839%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/8/8d/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28J._Aziamb%C5%82o%C5%ADski%2C_1839%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"karyba","label":"karyba","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:15:23.662582+03:00","reviewedAt":"2026-07-11T02:17:30.224329+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Šarvuotas karūnuotas vyras su ietimi ir vėliava; po atvaizdu įrašas „Witold“ ir rankraštinis „W. X. Litewski“.","metadataEvidence":"Pavadinime nurodyta „Vitaŭt Vialiki“, aprašyme – „Grand Duke of Lithuania Vytautas the Great“, autorius Józef Oziębłowski, data 1839 m.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Užrašas ir metaduomenys patvirtina, kad tai Vytauto atvaizdas.","isPrimary":0},{"mediaId":"m-2d72aff9a456f81aec23e64b","title":"Vitaŭt Vialiki. Вітаўт Вялікі (J. Aziambłoŭski, 1840) (2).jpg","caption":"Vytautas Didysis, Józefo Oziębłowskio 1840 m. portreto variantas.","originalTitle":"Vitaŭt Vialiki. Вітаўт Вялікі (J. Aziambłoŭski, 1840) (2).jpg","creator":"Józef Oziębłowski","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Kraszewski J. I. Wilno od początków jego do roku 1750. T. 1. S. 89.","dateDisplay":"1840 date QS:P571,+1840-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":1460,"height":2468,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28J._Aziamb%C5%82o%C5%ADski%2C_1840%29_%282%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/9/90/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28J._Aziamb%C5%82o%C5%ADski%2C_1840%29_%282%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/9/90/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28J._Aziamb%C5%82o%C5%ADski%2C_1840%29_%282%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"litografija","label":"litografija","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:15:23.658068+03:00","reviewedAt":"2026-07-11T02:17:30.201602+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Pavaizduotas karūnuotas valdovas su šarvais ir apsiaustu; apačioje matomas „WITOLD W. K. L.“.","metadataEvidence":"Pavadinimas ir aprašas nurodo Vytautą Didįjį, Józefą Oziębłowskį ir 1840 m.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdas yra tiesioginis to paties Vytauto portreto variantas.","isPrimary":0},{"mediaId":"m-58015edc64d7dd16971c2487","title":"Vitaŭt Vialiki. Вітаўт Вялікі (J. Aziambłoŭski, 1840) (3).jpg","caption":"Vytautas Didysis, J. Oziębłowskio 1840 m. atvaizdas","originalTitle":"Vitaŭt Vialiki. Вітаўт Вялікі (J. Aziambłoŭski, 1840) (3).jpg","creator":"Józef Oziębłowski","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Vilnia University Library","dateDisplay":"1840 date QS:P571,+1840-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":1757,"height":2766,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28J._Aziamb%C5%82o%C5%ADski%2C_1840%29_%283%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/5/56/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28J._Aziamb%C5%82o%C5%ADski%2C_1840%29_%283%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/56/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28J._Aziamb%C5%82o%C5%ADski%2C_1840%29_%283%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"litografija","label":"litografija","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:15:23.658947+03:00","reviewedAt":"2026-07-11T02:17:30.205953+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Apačioje įrašyta „WITOLD W. K. L.“, figūra pavaizduota su karūna, šarvais ir valdovo apsiaustu.","metadataEvidence":"Pavadinimas ir aprašas nurodo Vytautą Didįjį; kūrėjas Józef Oziębłowski, data 1840 m.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Metaduomenys ir vaizdo užrašas tiesiogiai sieja atvaizdą su Vytautu.","isPrimary":0},{"mediaId":"m-26f02b1d51fcb3413d9f1702","title":"Vitaŭt Vialiki. Вітаўт Вялікі (J. Aziambłoŭski, 1840).jpg","caption":"Józefo Oziębłowskio 1840 m. Vytauto Didžiojo portretas.","originalTitle":"Vitaŭt Vialiki. Вітаўт Вялікі (J. Aziambłoŭski, 1840).jpg","creator":"Józef Oziębłowski","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Kraszewski J. I. Wilno od początków jego do roku 1750. T. 1. S. 89.","dateDisplay":"1840 date QS:P571,+1840-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":2514,"height":4440,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28J._Aziamb%C5%82o%C5%ADski%2C_1840%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/0/01/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28J._Aziamb%C5%82o%C5%ADski%2C_1840%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/01/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28J._Aziamb%C5%82o%C5%ADski%2C_1840%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T00:14:02.902300+03:00","reviewedAt":"2026-07-11T02:14:53.527394+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Karūnuotas valdovas su šarvais ir mantija, apačioje įrašas „WITOLD“.","metadataEvidence":"Pavadinime nurodyta Vitaŭt Vialiki / Vytautas the Great, autorius Józef Oziębłowski, 1840 m.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Įrašas ir metaduomenys aiškiai identifikuoja portretą kaip Vytautą.","isPrimary":0},{"mediaId":"m-d40580df0a4d385cdf5d7d00","title":"Vitaŭt Vialiki. Вітаўт Вялікі (J. Hesse, 1842).jpg","caption":"Vytauto Didžiojo portretas, Jan Hesse, 1842 m.","originalTitle":"Vitaŭt Vialiki. Вітаўт Вялікі (J. Hesse, 1842).jpg","creator":"Jan Hesse","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Muzeum Narodowe w Krakowie. MNK III-ryc.-36104.","dateDisplay":"1842","dateStart":null,"dateEnd":null,"width":2142,"height":3867,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28J._Hesse%2C_1842%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/7/78/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28J._Hesse%2C_1842%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/7/78/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28J._Hesse%2C_1842%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:15:23.663159+03:00","reviewedAt":"2026-07-11T02:17:30.229803+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Stovintis valdovas su karūna, šarvais, apsiaustu ir kalaviju; apačioje matomas įrašas „WITOLD W.X.L.“","metadataEvidence":"Pavadinime nurodyta „Vitaŭt Vialiki“, aprašyme – „Grand Duke of Lithuania Vytautas the Great“, autorius Jan Hesse, data 1842 m.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Užrašas paveiksle ir metaduomenys vienareikšmiškai sieja vaizdą su Vytautu.","isPrimary":0},{"mediaId":"m-c3cdf2ed3b7f84c7ecb7ec6f","title":"Vitaŭt Vialiki. Вітаўт Вялікі (J. Polkowski, 1864).jpg","caption":"Józefo Tadeuszo Polkowskio 1864 m. Vytauto Didžiojo portretas.","originalTitle":"Vitaŭt Vialiki. Вітаўт Вялікі (J. Polkowski, 1864).jpg","creator":"Józef Tadeusz Polkowski","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Biblioteka Narodowa. G.29035/I.","dateDisplay":"1864","dateStart":null,"dateEnd":null,"width":3865,"height":6362,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28J._Polkowski%2C_1864%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d6/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28J._Polkowski%2C_1864%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d6/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28J._Polkowski%2C_1864%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T00:14:02.902499+03:00","reviewedAt":"2026-07-11T02:14:53.528333+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Karūnuotas valdovas šarvais ir mantija, kompozicijoje matomas skydas su raitelio simboliu.","metadataEvidence":"Pavadinimas ir aprašymas nurodo Vitaŭt Vialiki / Vytautas the Great, kūrėjas Józef Tadeusz Polkowski, 1864 m.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Metaduomenys tiesiogiai patvirtina, kad tai Vytauto Didžiojo atvaizdas.","isPrimary":0},{"mediaId":"m-6cf00eb9b49f971b1ba818df","title":"Vitaŭt Vialiki. Вітаўт Вялікі (J. Ziankievič, 1853).jpg","caption":"Vytauto Didžiojo portretas, Jan Ziankievič, 1853 m.","originalTitle":"Vitaŭt Vialiki. Вітаўт Вялікі (J. Ziankievič, 1853).jpg","creator":"Jan Ziankievič","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Lithuanian National Museum","dateDisplay":"1853","dateStart":null,"dateEnd":null,"width":425,"height":676,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28J._Ziankievi%C4%8D%2C_1853%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/5/54/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28J._Ziankievi%C4%8D%2C_1853%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/54/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28J._Ziankievi%C4%8D%2C_1853%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"drabužis","label":"drabužis","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:15:23.662956+03:00","reviewedAt":"2026-07-11T02:17:30.228214+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Stovintis karūnuotas valdovas su šermuonėlių apsiaustu, šarvais ir kalaviju.","metadataEvidence":"Pavadinime nurodyta „Vitaŭt Vialiki“, aprašyme – „Grand Duke of Lithuania Vytautas the Great“, autorius Jan Ziankievič, data 1853 m.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Metaduomenys ir valdovo ikonografija rodo tiesioginį Vytauto atvaizdą.","isPrimary":0},{"mediaId":"m-ef3a92e376d5c48b81f60aaf","title":"Vitaŭt Vialiki. Вітаўт Вялікі (J. Ziankievič, 1864).jpg","caption":"Vytautas Didysis, Jano Ziankievičiaus paveikslas, 1864–1870 m.","originalTitle":"Vitaŭt Vialiki. Вітаўт Вялікі (J. Ziankievič, 1864).jpg","creator":"Jan Ziankievič","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Church of Saints Peter and Paul in Kowna","dateDisplay":"between 1864 and 1870 date QS:P,+1850-00-00T00:00:00Z/7,P1319,+1864-00-00T00:00:00Z/9,P1326,+1870-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":273,"height":500,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28J._Ziankievi%C4%8D%2C_1864%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/6/68/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28J._Ziankievi%C4%8D%2C_1864%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/68/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28J._Ziankievi%C4%8D%2C_1864%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:15:23.665215+03:00","reviewedAt":"2026-07-11T02:17:30.241759+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas visu ūgiu pavaizduotas valdovas su karūna, kailiu puoštu apsiaustu ir kalaviju.","metadataEvidence":"Pavadinime „Vitaŭt Vialiki“, apraše „Painting of the Grand Duke of Lithuania Vytautas the Great“, kūrėjas Jan Ziankievič.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Aiškiai identifikuotas Vytauto Didžiojo istorinis portretas.","isPrimary":0},{"mediaId":"m-c6a643bef80f021679128f09","title":"Vitaŭt Vialiki. Вітаўт Вялікі (M. Barvicki, 1908).jpg","caption":"M. Barvickio Vytauto Didžiojo atvaizdas.","originalTitle":"Vitaŭt Vialiki. Вітаўт Вялікі (M. Barvicki, 1908).jpg","creator":"Мечыслаў Барвіцкі","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Nacionalinis M. K. Čiurlionio dailės muziejus","dateDisplay":"1908","dateStart":null,"dateEnd":null,"width":476,"height":800,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28M._Barvicki%2C_1908%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5e/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28M._Barvicki%2C_1908%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5e/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28M._Barvicki%2C_1908%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T00:14:02.899853+03:00","reviewedAt":"2026-07-11T02:14:53.515627+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Pavaizduotas karūnuotas šarvuotas valdovas su kalaviju ir skydu; apačioje ranka įrašyta „Witold“ ir datos 1392-1430.","metadataEvidence":"Aprašyme nurodyta: „Painting of the Grand Duke of Lithuania Vytautas the Great“, failo pavadinime Vitaŭt Vialiki, kūrėjas M. Barvicki, 1908.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Portretas turi ir vizualų vardinį įrašą, ir metaduomenų identifikaciją su Vytautu.","isPrimary":0},{"mediaId":"m-a3e0336946b8605650d43434","title":"Vitaŭt Vialiki. Вітаўт Вялікі (R. Žukoŭski, XIX).jpg","caption":"Vytauto Didžiojo portretas, Rudolf Žukoŭski, XIX a.","originalTitle":"Vitaŭt Vialiki. Вітаўт Вялікі (R. Žukoŭski, XIX).jpg","creator":"Rudolf Žukoŭski","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Lietuvos dailės muziejus","dateDisplay":"19 th century date QS:P,+1850-00-00T00:00:00Z/7","dateStart":null,"dateEnd":null,"width":337,"height":455,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28R._%C5%BDuko%C5%ADski%2C_XIX%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1a/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28R._%C5%BDuko%C5%ADski%2C_XIX%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1a/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28R._%C5%BDuko%C5%ADski%2C_XIX%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:15:23.663542+03:00","reviewedAt":"2026-07-11T02:17:30.232453+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Karūnuotas valdovas su šarvais ir apsiaustu stovi interjere; šalia matomas herbinis skydas.","metadataEvidence":"Pavadinime nurodyta „Vitaŭt Vialiki“, aprašyme – „Grand Duke of Lithuania Vytautas the Great“, autorius Rudolf Žukoŭski, data XIX a.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Metaduomenys aiškiai identifikuoja portretą kaip Vytauto Didžiojo atvaizdą.","isPrimary":0},{"mediaId":"m-b439b9ea85a1a40d2d56519f","title":"Vitaŭt Vialiki. Вітаўт Вялікі (V. Dmachoŭski, 1848).jpg","caption":"Vytauto Didžiojo portretas, Vincento Dmochowskio paveikslas, 1848 m.","originalTitle":"Vitaŭt Vialiki. Вітаўт Вялікі (V. Dmachoŭski, 1848).jpg","creator":"Wincenty Dmochowski","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Biblioteka Jagiellońska. BJ Graf. I.R. 1059.","dateDisplay":"1848","dateStart":null,"dateEnd":null,"width":582,"height":722,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28V._Dmacho%C5%ADski%2C_1848%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d1/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28V._Dmacho%C5%ADski%2C_1848%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d1/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28V._Dmacho%C5%ADski%2C_1848%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:15:23.660585+03:00","reviewedAt":"2026-07-11T02:17:30.212287+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas karūnuotas šarvuotas valdovas su mantija ir valdžios lazda, portretinis biustas ovaliame formate.","metadataEvidence":"Pavadinimas ir aprašas tiesiogiai nurodo Vitaŭt Vialiki / Vytautą Didįjį, Lietuvos didįjį kunigaikštį; autorius ir data pateikti kaip V. Dmochowski, 1848.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Metaduomenys aiškiai identifikuoja Vytautą Didįjį, o vaizdas yra jo portretinis valdovo atvaizdas.","isPrimary":0},{"mediaId":"m-07b98ddb6657ef599a10a45d","title":"Vitaŭt Vialiki. Вітаўт Вялікі (V. Dmachoŭski, 1854).jpg","caption":"Vytauto Didžiojo portretas, Vincento Dmochowskio paveikslas, 1854 m.","originalTitle":"Vitaŭt Vialiki. Вітаўт Вялікі (V. Dmachoŭski, 1854).jpg","creator":"Wincenty Dmochowski","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Киркор А. Черты из истории и жизни литовского народа. Вильно, 1854.","dateDisplay":"1854","dateStart":null,"dateEnd":null,"width":250,"height":308,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28V._Dmacho%C5%ADski%2C_1854%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/1/15/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28V._Dmacho%C5%ADski%2C_1854%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/15/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28V._Dmacho%C5%ADski%2C_1854%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:15:23.660786+03:00","reviewedAt":"2026-07-11T02:17:30.213715+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas karūnuotas šarvuotas valdovas su mantija ir lazda, nukreiptas profiliu.","metadataEvidence":"Pavadinimas ir aprašas nurodo Vytautą Didįjį, Lietuvos didįjį kunigaikštį; data 1854, autorius Vincentas Dmochowskis.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tapatybė pakankamai pagrįsta metaduomenimis ir vaizdas tiesiogiai vaizduoja valdovą.","isPrimary":0},{"mediaId":"m-a122c7776956396d14c6dfef","title":"Vitaŭt Vialiki. Вітаўт Вялікі (V. Słaviecki, 1831-41) (2).jpg","caption":"Vytauto Didžiojo portretinis atvaizdas, Vincento Słavieckio darbas, 1831–1841 m.","originalTitle":"Vitaŭt Vialiki. Вітаўт Вялікі (V. Słaviecki, 1831-41) (2).jpg","creator":"Vincent Słaviecki","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Lietuvos dailės muziejus","dateDisplay":"between 1831 and 1841 date QS:P,+1850-00-00T00:00:00Z/7,P1319,+1831-00-00T00:00:00Z/9,P1326,+1841-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":1024,"height":1795,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28V._S%C5%82aviecki%2C_1831-41%29_%282%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/6/61/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28V._S%C5%82aviecki%2C_1831-41%29_%282%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/61/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28V._S%C5%82aviecki%2C_1831-41%29_%282%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"litografija","label":"litografija","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:15:23.661804+03:00","reviewedAt":"2026-07-11T02:17:30.220316+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas stovintis valdovas su kalaviju, mantija ir karūna ant stalo; apačioje įrašyta „WITOLD W. X. LIT.“","metadataEvidence":"Pavadinimas ir aprašas nurodo Vitaŭt Vialiki / Vytautą Didįjį, autorius V. Słaviecki, data 1831–1841.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdo užrašas ir metaduomenys tiesiogiai identifikuoja Vytautą Didįjį.","isPrimary":0},{"mediaId":"m-a6684ef6e82e8375a5efb21e","title":"Vitaŭt Vialiki. Вітаўт Вялікі (V. Słaviecki, 1831-41).jpg","caption":"Vytautas Didysis, Vincento Słavieckio piešinys, 1831–1841 m.","originalTitle":"Vitaŭt Vialiki. Вітаўт Вялікі (V. Słaviecki, 1831-41).jpg","creator":"Vincent Słaviecki","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Lietuvos dailės muziejus","dateDisplay":"between 1831 and 1841 date QS:P,+1850-00-00T00:00:00Z/7,P1319,+1831-00-00T00:00:00Z/9,P1326,+1841-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":1794,"height":3000,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28V._S%C5%82aviecki%2C_1831-41%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/8/8d/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28V._S%C5%82aviecki%2C_1831-41%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/8/8d/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28V._S%C5%82aviecki%2C_1831-41%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:15:23.663721+03:00","reviewedAt":"2026-07-11T02:17:30.233581+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas valdovo figūrinis atvaizdas su karališka apranga, kalaviju ir karūna šalia; apačioje įrašas „Witold W. X. Lit.“","metadataEvidence":"Pavadinimas ir aprašas nurodo „Vitaŭt Vialiki / Vytautas the Great“, Lietuvos didįjį kunigaikštį.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Aiškiai identifikuotas istorinis Vytauto Didžiojo atvaizdas.","isPrimary":0},{"mediaId":"m-3cf550452aee94802aa495df","title":"Vitaŭt Vialiki. Вітаўт Вялікі (XIX).jpg","caption":"XIX a. Vytauto Didžiojo portretas.","originalTitle":"Vitaŭt Vialiki. Вітаўт Вялікі (XIX).jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Biblioteka Narodowa","dateDisplay":"19 th century date QS:P571,+1850-00-00T00:00:00Z/7","dateStart":null,"dateEnd":null,"width":6848,"height":10074,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28XIX%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/d/dc/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28XIX%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/d/dc/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28XIX%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T00:14:02.902091+03:00","reviewedAt":"2026-07-11T02:14:53.526409+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Viso ūgio karūnuotas valdovas su šarvais, mantija; apačioje įrašas „WYTOLD W. K. L.“, šalia skydas su raiteliu.","metadataEvidence":"Pavadinimas ir aprašymas nurodo Vitaŭt Vialiki / Vytautas the Great, Grand Duke of Lithuania.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdas ir įrašas tiesiogiai patvirtina Vytauto tapatybę.","isPrimary":0},{"mediaId":"m-5f9421818d1ac9542f1ab16d","title":"Vitaŭt Vialiki. Вітаўт Вялікі (XVII).jpg","caption":"Vytauto Didžiojo XVII a. portretinis atvaizdas","originalTitle":"Vitaŭt Vialiki. Вітаўт Вялікі (XVII).jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"1. Витовт Чаропко. Великий князь Витовт. Мн., 2010. 2. Trakų bažnyčia. Vytauto Didžiojo portretas .","dateDisplay":"17 th century date QS:P,+1650-00-00T00:00:00Z/7","dateStart":null,"dateEnd":null,"width":522,"height":1000,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28XVII%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4a/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28XVII%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4a/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28XVII%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:15:23.658654+03:00","reviewedAt":"2026-07-11T02:17:30.204278+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas visu ūgiu pavaizduotas valdovas su kunigaikščio regalijomis; apačioje įrašas mini „Alexander Witoldus Magnus Dux Litvaniae“.","metadataEvidence":"Pavadinimas ir aprašas nurodo „Vitaŭt Vialiki“ ir „Grand Duke of Lithuania Vytautas the Great“, data – XVII a.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdas ir įrašas tiesiogiai identifikuoja Vytautą Didįjį, ne tik bendrą valdovo tipą.","isPrimary":0},{"mediaId":"m-d0e6857061d1744a3f518af6","title":"Vitaŭt Vialiki. Вітаўт Вялікі (XVII, 1893).jpg","caption":"Vytauto Didžiojo portretinis paveikslas","originalTitle":"Vitaŭt Vialiki. Вітаўт Вялікі (XVII, 1893).jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Trakų istorijos muziejus","dateDisplay":"17 th century date QS:P,+1650-00-00T00:00:00Z/7 1893","dateStart":null,"dateEnd":null,"width":1140,"height":2854,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28XVII%2C_1893%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c7/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28XVII%2C_1893%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c7/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28XVII%2C_1893%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:15:23.659246+03:00","reviewedAt":"2026-07-11T02:17:30.207708+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas valdovas su regalijomis, kailiniu apsiaustu, kalaviju ir kunigaikštiškais atributais; kompozicija atitinka Vytauto portretų ikonografiją.","metadataEvidence":"Pavadinimas ir aprašas nurodo „Vitaŭt Vialiki“ / Vytautą Didįjį, XVII a. tradicijos atvaizdą su 1893 m. nuoroda.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai ne bendrinis valdovas, o metaduomenimis ir ikonografija identifikuotas Vytauto atvaizdas.","isPrimary":0},{"mediaId":"m-d0f45f8e764022d84712e3d2","title":"Vitaŭt Vialiki. Вітаўт Вялікі (XVIII) (2).jpg","caption":"XVIII a. Vytauto Didžiojo portretas.","originalTitle":"Vitaŭt Vialiki. Вітаўт Вялікі (XVIII) (2).jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Lietuvos dailės muziejus","dateDisplay":"18 th century date QS:P,+1750-00-00T00:00:00Z/7","dateStart":null,"dateEnd":null,"width":2116,"height":3039,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28XVIII%29_%282%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5a/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28XVIII%29_%282%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5a/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28XVIII%29_%282%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T00:14:02.901597+03:00","reviewedAt":"2026-07-11T02:14:53.524187+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Karūnuotas valdovas su šarvais, mantija ir valdovo atributais.","metadataEvidence":"Pavadinimas ir aprašymas identifikuoja kaip Vitaŭt Vialiki / Vytautas the Great, Grand Duke of Lithuania.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Konkretus vaizdas pateiktas kaip Vytauto Didžiojo portretas.","isPrimary":0},{"mediaId":"m-989533b28dc1a535cd1cf93c","title":"Vitaŭt Vialiki. Вітаўт Вялікі (XVIII).jpg","caption":"Vytauto Didžiojo XVIII a. portretas","originalTitle":"Vitaŭt Vialiki. Вітаўт Вялікі (XVIII).jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Витовт Чаропко. Великий князь Витовт. Менск, 2010. [1] [ dead link ]","dateDisplay":"18 th century date QS:P,+1750-00-00T00:00:00Z/7","dateStart":null,"dateEnd":null,"width":1580,"height":2563,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28XVIII%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a2/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28XVIII%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a2/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28XVIII%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:15:23.659920+03:00","reviewedAt":"2026-07-11T02:17:30.210741+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Apačioje įrašyta „ALEXANDER WITOLDUS MAGNUS DUX LITHUANIAE“; figūra su kunigaikščio apsiaustu, šarvais ir regalijomis.","metadataEvidence":"Pavadinimas ir aprašas nurodo „Vitaŭt Vialiki“ ir Vytautą Didįjį, data XVIII a.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdo užrašas ir metaduomenys aiškiai identifikuoja konkretų target.","isPrimary":0},{"mediaId":"m-e510b14e04cbf3694a3520e2","title":"Vitaŭt Vialiki. Вітаўт Вялікі (XX).jpg","caption":"Vytautas Didysis, nežinomo autoriaus paveikslas, iki 1941 m.","originalTitle":"Vitaŭt Vialiki. Вітаўт Вялікі (XX).jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Alytaus Kraštotyros muziejus","dateDisplay":"before 1941 date QS:P,+1941-00-00T00:00:00Z/7,P1326,+1941-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":1054,"height":1429,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28XX%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/2/24/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28XX%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/24/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28XX%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"karyba","label":"karyba","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:15:23.664246+03:00","reviewedAt":"2026-07-11T02:17:30.236246+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas profiliu pavaizduotas valdovas su puošniu šalmu, lazda ir skydu su Vyčio simboliu.","metadataEvidence":"Aprašas: „Painting of the Grand Duke of Lithuania Vytautas the Great“, pavadinime „Vitaŭt Vialiki“.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tapatybė aiškiai pagrįsta metaduomenimis ir vaizdo atributika.","isPrimary":0},{"mediaId":"m-d2c4738684a48dbed6e7277e","title":"Vitaŭt Vialiki. Вітаўт Вялікі (Z. Gloger, 1900).jpg","caption":"Vytautas Didysis, Zygmunto Glogerio piešinys, iki 1901 m.","originalTitle":"Vitaŭt Vialiki. Вітаўт Вялікі (Z. Gloger, 1900).jpg","creator":"Zygmunt Gloger","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Archiwum Narodowe w Krakowie. 29/678/0/12.","dateDisplay":"before 1901 date QS:P,+1901-00-00T00:00:00Z/7,P1326,+1901-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":1114,"height":2518,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28Z._Gloger%2C_1900%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d5/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28Z._Gloger%2C_1900%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d5/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28Z._Gloger%2C_1900%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:15:23.658308+03:00","reviewedAt":"2026-07-11T02:17:30.203134+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Ranka pieštas karūnuoto valdovo su šarvais, apsiaustu ir kalaviju atvaizdas; šalia užrašyta „Witold“ ir biografinės datos.","metadataEvidence":"Pavadinimas ir aprašas nurodo „Vitaŭt Vialiki / Vytautas the Great“, kūrėją Zygmuntą Glogerį ir datą iki 1901 m.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tekstas vaizde ir metaduomenys aiškiai patvirtina, kad tai Vytautas.","isPrimary":0},{"mediaId":"m-dcdbe87268bf50ba7819977b","title":"Vitaŭt. Вітаўт (XVIII).jpg","caption":"Vytautas Didysis, XVIII a. portretas.","originalTitle":"Vitaŭt. Вітаўт (XVIII).jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Lietuvos nacionalinis muziejus. LNM T 5. Витовт Чаропко. Великий князь Витовт. Минск, 2010.","dateDisplay":"18 th century date QS:P,+1750-00-00T00:00:00Z/7","dateStart":null,"dateEnd":null,"width":563,"height":800,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%28XVIII%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c4/Vita%C5%ADt._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%28XVIII%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c4/Vita%C5%ADt._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%28XVIII%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:15:23.664645+03:00","reviewedAt":"2026-07-11T02:17:30.238900+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas jauno valdovo portretas ovale, su raudona kepure, šarvais, grandine ir kailiu puoštu apsiaustu.","metadataEvidence":"Aprašas nurodo „Painting of the Grand Duke of Lithuania Vytautas the Great“, data XVIII a.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Metaduomenys aiškiai patvirtina, kad portretas vaizduoja Vytautą Didįjį.","isPrimary":0},{"mediaId":"m-51353d97f244528b962f46db","title":"Vytautas the great.png","caption":"XVII a. Vytauto Didžiojo tapytas portretas.","originalTitle":"Vytautas the great.png","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"http://ldmuziejus.mch.mii.lt/Ekspozicijos/Vytautas_Didysis.htm","dateDisplay":"17 th century date QS:P,+1650-00-00T00:00:00Z/7","dateStart":null,"dateEnd":null,"width":326,"height":481,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVytautas_the_great.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/5/52/Vytautas_the_great.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/52/Vytautas_the_great.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T00:14:02.898107+03:00","reviewedAt":"2026-07-11T02:14:53.505978+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas karūnuotas valdovas su ermine primenančiu apsiaustu, šarvais ir kardu.","metadataEvidence":"Pavadinimas „Vytautas the great.png“, aprašymas nurodo Lietuvos didįjį kunigaikštį Vytautą Didįjį, data apie XVII a.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Metaduomenys tiesiogiai identifikuoja portretuojamą asmenį kaip Vytautą.","isPrimary":0},{"mediaId":"m-c0011d2677e2dcece9cf8f30","title":"Wielki książę litewski Witold.jpg","caption":"Vytauto Didžiojo portretas pagal Jano Mateikos 1866 m. kūrinį.","originalTitle":"Wielki książę litewski Witold.jpg","creator":"Jan Matejko","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Kazimierz Władysław Wójcicki \"Album Jana Matejki\", 1876","dateDisplay":"1866","dateStart":null,"dateEnd":null,"width":1713,"height":2298,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AWielki_ksi%C4%85%C5%BC%C4%99_litewski_Witold.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/8/8e/Wielki_ksi%C4%85%C5%BC%C4%99_litewski_Witold.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/8/8e/Wielki_ksi%C4%85%C5%BC%C4%99_litewski_Witold.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T00:14:02.897827+03:00","reviewedAt":"2026-07-11T02:14:53.501779+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas valdovas su karūnišku galvos apdangalu, kailiniu apsiaustu, šarvais ir kalaviju, sėdintis reprezentacine poza.","metadataEvidence":"Pavadinimas nurodo „Wielki książę litewski Witold“, aprašymas tiesiogiai įvardija Vytautą Didįjį, kūrėjas Jan Matejko, data 1866.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Metaduomenys ir vaizdinis tipas aiškiai rodo istorinį Vytauto Didžiojo portretą.","isPrimary":0}]
 media_contextual_json: |-
-  [{"mediaId":"m-9c29bb67d5143a97f7907180","title":"Vitaŭt Vialiki, Pahonia. Вітаўт Вялікі, Пагоня (1385).jpg","caption":"Seal of the Grand Duke of Lithuania Vytautas the Great .","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1385","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki%2C_Pahonia._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%281385%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/61/Vita%C5%ADt_Vialiki%2C_Pahonia._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%281385%29.jpg","relationType":"seal_of","directness":"contextual","reviewStatus":"accepted","confidence":0.98,"sourceMethod":"media_collector","judgeModel":"gpt-5.4","judgeReason":"Tai Vytauto Didžiojo antspaudas, aiškiai susijęs su asmeniu, tačiau ne tiesioginis jo atvaizdas, todėl ryšys laikytinas kontekstiniu.","isPrimary":0},{"mediaId":"m-9d22e349eebbb9f58b1ca524","title":"Vitaŭt Vialiki, Pahonia. Вітаўт Вялікі, Пагоня (1385, 1930).jpg","caption":"Seal of the Grand Duke of Lithuania Vytautas the Great .","creator":"Marian Gumowski","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1385, 1930","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki%2C_Pahonia._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%281385%2C_1930%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/01/Vita%C5%ADt_Vialiki%2C_Pahonia._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%281385%2C_1930%29.jpg","relationType":"seal_of","directness":"contextual","reviewStatus":"accepted","confidence":0.98,"sourceMethod":"media_collector","judgeModel":"gpt-5.4","judgeReason":"Vaizdas rodo Vytauto Didžiojo antspaudą, kuris yra aiškiai susijęs su asmeniu, bet nėra tiesioginis jo portretinis atvaizdas, todėl ryšys laikytinas kontekstiniu.","isPrimary":0},{"mediaId":"m-158f6f025e34eb1233ef1b69","title":"Vitaŭt Vialiki, Pahonia. Вітаўт Вялікі, Пагоня (1385, 1931).jpg","caption":"Seal of the Grand Duke of Lithuania Vytautas the Great .","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1385, 1931","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki%2C_Pahonia._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%281385%2C_1931%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fe/Vita%C5%ADt_Vialiki%2C_Pahonia._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%281385%2C_1931%29.jpg","relationType":"seal_of","directness":"contextual","reviewStatus":"accepted","confidence":0.98,"sourceMethod":"media_collector","judgeModel":"gpt-5.4","judgeReason":"Aprašyme aiškiai nurodyta, kad tai Vytauto Didžiojo antspaudas. Ryšys su asmeniu yra tvirtas, tačiau antspaudas laikytinas simboliniu ar reprezentaciniu objektu, todėl ryšys contextual, ne direct.","isPrimary":0},{"mediaId":"m-6975acb48a7a0b8feaf99616","title":"Vitaŭt Vialiki, Pahonia. Вітаўт Вялікі, Пагоня (K. Kielisiński, 1385, 1841).jpg","caption":"Seal of the Grand Duke of Lithuania Vytautas the Great .","creator":"Kajetan Wincenty Kielisiński","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1385, 1841","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki%2C_Pahonia._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%28K._Kielisi%C5%84ski%2C_1385%2C_1841%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/8/8a/Vita%C5%ADt_Vialiki%2C_Pahonia._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%28K._Kielisi%C5%84ski%2C_1385%2C_1841%29.jpg","relationType":"seal_of","directness":"contextual","reviewStatus":"accepted","confidence":0.98,"sourceMethod":"media_collector","judgeModel":"gpt-5.4","judgeReason":"Aprašymas aiškiai nurodo, kad tai Vytauto Didžiojo antspaudas. Ryšys su asmeniu yra tvirtas, tačiau antspaudas yra susijęs simbolinis objektas, o ne tiesioginis paties valdovo atvaizdas.","isPrimary":0},{"mediaId":"m-64c8f6b241dadcbaa07399d7","title":"Moneta. LDK. Vytauto Didžiojo denaras","caption":"LDK Vytauto Didžiojo denaras.","creator":"","provider":"europeana","providerLabel":"Europeana","license":"http://creativecommons.org/licenses/by/4.0/","rightsNote":"http://creativecommons.org/licenses/by/4.0/","dateDisplay":"","canonicalUrl":"https://www.europeana.eu/item/2021802/LIMIS_752732193","thumbUrl":"https://www.epaveldas.lt/static/tim-bucket/LIMIS-752732193/thumbnail-original/get.jpg","relationType":"coin_depiction_of","directness":"contextual","reviewStatus":"accepted","confidence":0.88,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"Atrinkta rankiniu būdu iš saugios licencijos Europeana rezultatų.","isPrimary":0},{"mediaId":"m-5a8de8ab28f8dd7ece0f471a","title":"Briedžio ragas su išraižytu Vytauto Didžiojo bareljefu","caption":"Briedžio ragas su išraižytu Vytauto Didžiojo bareljefu.","creator":"Antanas Bagdonas","provider":"europeana","providerLabel":"Europeana","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","dateDisplay":"","canonicalUrl":"https://www.europeana.eu/item/2021802/LIMIS_610357555","thumbUrl":"https://www.epaveldas.lt/static/tkm-bucket/LIMIS-610357555/thumbnail-original/get.jpg","relationType":"contextual_about","directness":"contextual","reviewStatus":"accepted","confidence":0.86,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"Atrinkta rankiniu būdu iš saugios licencijos Europeana rezultatų.","isPrimary":0},{"mediaId":"m-6851325c4413313b7c70d728","title":"Lietuva. 10 litų. 1936 m.","caption":"1936 m. Lietuvos 10 litų banknotas su Vytauto Didžiojo atvaizdu.","creator":"http://data.europeana.eu/agent/160074 | Juozas Zikaras","provider":"europeana","providerLabel":"Europeana","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","dateDisplay":"20","canonicalUrl":"https://www.europeana.eu/item/2021802/LIMIS_201579249","thumbUrl":"https://www.epaveldas.lt/static/sam-bucket/LIMIS-201579249/thumbnail-original/get.jpg","relationType":"coin_depiction_of","directness":"contextual","reviewStatus":"accepted","confidence":0.86,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"Atrinkta rankiniu būdu iš saugios licencijos Europeana rezultatų.","isPrimary":0},{"mediaId":"m-bedd635657c08dd8b0b509d8","title":"Lietuvos didžiojo kunigaikščio Vytauto Didžiojo medalis. 1930 m., bronza","caption":"1930 m. bronzinis Vytauto Didžiojo medalis.","creator":"P. Rimša","provider":"europeana","providerLabel":"Europeana","license":"http://creativecommons.org/licenses/by-sa/4.0/","rightsNote":"http://creativecommons.org/licenses/by-sa/4.0/","dateDisplay":"1959","canonicalUrl":"https://www.europeana.eu/item/2021803/KPCPBF41Ap3Nr349","thumbUrl":"https://www.epaveldas.lt/static/kpcpb-bucket/KPCPBF41Ap3Nr349/thumbnail-original/0001-KPCPBF41Ap3Nr349.jpg","relationType":"coin_depiction_of","directness":"contextual","reviewStatus":"accepted","confidence":0.86,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"Atrinkta rankiniu būdu iš saugios licencijos Europeana rezultatų.","isPrimary":0},{"mediaId":"m-c7367f575ad13fe8d4204619","title":"M. Barkausko, gyvenusio Kuršėnuose, Vytauto Didžiojo paveikslas 1930 m. nešamas apie Lietuvą","caption":"1930 m. Vytauto Didžiojo paveikslo kelionė per Lietuvą.","creator":"Nežinomas fotografas","provider":"europeana","providerLabel":"Europeana","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","dateDisplay":"","canonicalUrl":"https://www.europeana.eu/item/2021802/LIMIS_724702788","thumbUrl":"https://www.epaveldas.lt/static/zam-bucket/LIMIS-724702788/thumbnail-original/724702808.jpg","relationType":"commemoration_of","directness":"contextual","reviewStatus":"accepted","confidence":0.84,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"Atrinkta rankiniu būdu iš saugios licencijos Europeana rezultatų.","isPrimary":0}]
+  [{"mediaId":"m-c7367f575ad13fe8d4204619","title":"M. Barkausko, gyvenusio Kuršėnuose, Vytauto Didžiojo paveikslas 1930 m. nešamas apie Lietuvą","caption":"Vytauto Didžiojo paveikslo nešimas Palangoje, 1930 m.","originalTitle":"M. Barkausko, gyvenusio Kuršėnuose, Vytauto Didžiojo paveikslas 1930 m. nešamas apie Lietuvą","creator":"Nežinomas fotografas","provider":"europeana","providerLabel":"Europeana","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"http://creativecommons.org/publicdomain/mark/1.0/","attribution":"","dateDisplay":"","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021802/LIMIS_724702788","sourceUrl":"https://www.epaveldas.lt/static/zam-bucket/LIMIS-724702788/thumbnail-original/724702808.jpg","thumbUrl":"https://www.epaveldas.lt/static/zam-bucket/LIMIS-724702788/thumbnail-original/724702808.jpg","institution":"Samogitian Museum \"Alka\"","collection":"","country":"","language":"","tags":[{"code":"dokumentas","label":"dokumentas","facetKind":"vaizdo_tipas","confidence":1.0}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"event_documentation_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T00:20:48.484463+03:00","reviewedAt":"2026-07-11T00:21:21.407415+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Fotografijoje matomas žmonių laikomas stendas su Vytauto portretu, užrašu apie Vytautą ir datomis „1430–1930“.","metadataEvidence":"Pavadinimas ir aprašymas nurodo, kad tai Vytauto Didžiojo paveikslo kelionė per Lietuvą 1930 m.","confidenceLevel":"high","relationType":"event_documentation_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Fotografija tiesiogiai dokumentuoja Vytauto Didžiojo paveikslo viešą nešimą, todėl ryšys aiškus, bet pats pagrindinis objektas yra dokumentuotas įvykis.","isPrimary":0},{"mediaId":"m-9c29bb67d5143a97f7907180","title":"Vitaŭt Vialiki, Pahonia. Вітаўт Вялікі, Пагоня (1385).jpg","caption":"Vytauto Didžiojo antspaudas su Pahonia / Vyčiu, 1385 m.","originalTitle":"Vitaŭt Vialiki, Pahonia. Вітаўт Вялікі, Пагоня (1385).jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"","dateDisplay":"1385","dateStart":null,"dateEnd":null,"width":601,"height":607,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki%2C_Pahonia._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%281385%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/6/61/Vita%C5%ADt_Vialiki%2C_Pahonia._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%281385%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/61/Vita%C5%ADt_Vialiki%2C_Pahonia._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%281385%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.82},{"code":"vytis","label":"vytis","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"seal_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T00:14:02.900910+03:00","reviewedAt":"2026-07-11T02:17:30.237533+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas apskritas, nusidėvėjęs antspaudo atspaudas su raitelio / Pahonia tipo figūra.","metadataEvidence":"Aprašas tiesiogiai nurodo „Seal of the Grand Duke of Lithuania Vytautas the Great“, data 1385 m.","confidenceLevel":"high","relationType":"seal_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdas aiškiai susijęs su Vytautu kaip jo antspaudas, bet nėra tiesioginis asmens portretas.","isPrimary":0},{"mediaId":"m-9d22e349eebbb9f58b1ca524","title":"Vitaŭt Vialiki, Pahonia. Вітаўт Вялікі, Пагоня (1385, 1930).jpg","caption":"Vytauto Didžiojo antspaudas su raiteliu, 1385 m. rekonstrukcija.","originalTitle":"Vitaŭt Vialiki, Pahonia. Вітаўт Вялікі, Пагоня (1385, 1930).jpg","creator":"Marian Gumowski","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"","dateDisplay":"1385, 1930","dateStart":null,"dateEnd":null,"width":330,"height":333,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki%2C_Pahonia._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%281385%2C_1930%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/0/01/Vita%C5%ADt_Vialiki%2C_Pahonia._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%281385%2C_1930%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/01/Vita%C5%ADt_Vialiki%2C_Pahonia._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%281385%2C_1930%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"seal_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T00:14:02.898362+03:00","reviewedAt":"2026-07-11T02:17:30.191779+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas apskritas antspaudo atvaizdas su raiteliu ir aplinkine legenda.","metadataEvidence":"Aprašas nurodo, kad tai Lietuvos didžiojo kunigaikščio Vytauto Didžiojo antspaudas; data 1385, 1930.","confidenceLevel":"high","relationType":"seal_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai ne portretas, bet aiškiai identifikuotas Vytauto antspaudas, todėl ryšys kontekstinis ir stiprus.","isPrimary":0},{"mediaId":"m-1a00bacecf8e2bb4e8149227","title":"Vitaŭt Vialiki, Pahonia. Вітаўт Вялікі, Пагоня (K. Kielisiński, 1404, 1842).jpg","caption":"Vytauto Didžiojo antspaudo atvaizdas su Lietuvos Didžiosios Kunigaikštystės heraldika.","originalTitle":"Vitaŭt Vialiki, Pahonia. Вітаўт Вялікі, Пагоня (K. Kielisiński, 1404, 1842).jpg","creator":"Kajetan Wincenty Kielisiński","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Biblioteka Jagiellońska. BJ Graf. I. 8592.","dateDisplay":"1404, 1842","dateStart":null,"dateEnd":null,"width":1581,"height":1583,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki%2C_Pahonia._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%28K._Kielisi%C5%84ski%2C_1404%2C_1842%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c7/Vita%C5%ADt_Vialiki%2C_Pahonia._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%28K._Kielisi%C5%84ski%2C_1404%2C_1842%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c7/Vita%C5%ADt_Vialiki%2C_Pahonia._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%28K._Kielisi%C5%84ski%2C_1404%2C_1842%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.82},{"code":"heraldika","label":"heraldika","facetKind":"tema","confidence":0.82},{"code":"vytis","label":"vytis","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"seal_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T02:15:15.320845+03:00","reviewedAt":"2026-07-11T02:17:50.972766+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas apskritas istorinio antspaudo piešinys su gotikiniu įrašu, centriniu skydu, raiteliu ir kitais heraldiniais laukais.","metadataEvidence":"Pavadinime nurodyta „Vitaŭt Vialiki“ ir „Pahonia“, aprašyme aiškiai sakoma, kad tai Lietuvos didžiojo kunigaikščio Vytauto Didžiojo antspaudas.","confidenceLevel":"high","relationType":"seal_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Konkretus ryšys su target yra aiškus: kandidatas identifikuotas kaip Vytauto Didžiojo antspaudo atvaizdas.","isPrimary":0},{"mediaId":"m-31a4e9b62c25702eb084368b","title":"Wisztyniec 2016 A 656.jpg","caption":"Paminklas Vytautui Vištytyje, 2016 m.","originalTitle":"Wisztyniec 2016 A 656.jpg","creator":"Ciacho5","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2016-01","dateStart":null,"dateEnd":null,"width":3648,"height":2736,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AWisztyniec_2016_A_656.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/1/13/Wisztyniec_2016_A_656.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/13/Wisztyniec_2016_A_656.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"skulptūra","label":"skulptūra","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"paminklas","label":"paminklas","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"statue_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T00:14:02.901179+03:00","reviewedAt":"2026-07-11T02:17:30.240404+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas lauko paminklas su Vytauto biustu viršuje ir Vyčio reljefu ant postamento.","metadataEvidence":"Aprašas nurodo „Monument to Vytautas, Duke of Lithuania“ Vištytyje.","confidenceLevel":"high","relationType":"statue_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Aiškiai pagrįstas Vytauto memorialas, ne atsitiktinė vieta ar bendrinis simbolis.","isPrimary":0},{"mediaId":"m-64c8f6b241dadcbaa07399d7","title":"Moneta. LDK. Vytauto Didžiojo denaras","caption":"LDK Vytauto Didžiojo denaras.","originalTitle":"Moneta. LDK. Vytauto Didžiojo denaras","creator":"","provider":"europeana","providerLabel":"Europeana","license":"http://creativecommons.org/licenses/by/4.0/","rightsNote":"http://creativecommons.org/licenses/by/4.0/","licenseUrl":"http://creativecommons.org/licenses/by/4.0/","attribution":"","dateDisplay":"","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021802/LIMIS_752732193","sourceUrl":"https://www.epaveldas.lt/static/tim-bucket/LIMIS-752732193/thumbnail-original/get.jpg","thumbUrl":"https://www.epaveldas.lt/static/tim-bucket/LIMIS-752732193/thumbnail-original/get.jpg","institution":"Trakai History Museum","collection":"","country":"","language":"","tags":[{"code":"simbolis","label":"simbolis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"daiktas","label":"daiktas","facetKind":"tema","confidence":0.82},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.82},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.82},{"code":"pinigai","label":"pinigai","facetKind":"tema","confidence":0.82},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"associated_symbol_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T00:20:48.483673+03:00","reviewedAt":"2026-07-11T02:22:51.430597+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomi du smulkūs monetos fragmentai su skalės juostele ir raidėmis „A“ bei „R“, portretinio Vytauto atvaizdo nematyti.","metadataEvidence":"Pavadinimas ir aprašas nurodo „LDK Vytauto Didžiojo denaras“.","confidenceLevel":"medium","relationType":"associated_symbol_of","directness":"contextual","reviewStatus":"accepted","confidence":0.82,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai nėra tiesioginis Vytauto portretas, bet konkrečiai su Vytautu Didžiuoju siejamas LDK denaras, todėl ryšys kontekstinis.","isPrimary":0}]
 media_all_json: |-
-  [{"mediaId":"m-25a52d83da16bb71dce53621","title":"Vitaŭt Vialiki. Вітаўт Вялікі (A. Guagnini, 1578, 1885).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1885","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Guagnini%2C_1578%2C_1885%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c2/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Guagnini%2C_1578%2C_1885%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.98,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1},{"mediaId":"m-ea1dbbe398596cd2dcc84124","title":"Seal of Vytautas the Great.jpg","caption":"Portrait seal of Grand Duke of Lithuania Vytautas the Great.","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"14-15th centuries","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_Vytautas_the_Great.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c2/Seal_of_Vytautas_the_Great.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-51353d97f244528b962f46db","title":"Vytautas the great.png","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"17 th century date QS:P,+1650-00-00T00:00:00Z/7","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVytautas_the_great.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/52/Vytautas_the_great.png","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-c0011d2677e2dcece9cf8f30","title":"Wielki książę litewski Witold.jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Jan Matejko","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1866","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AWielki_ksi%C4%85%C5%BC%C4%99_litewski_Witold.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/8/8e/Wielki_ksi%C4%85%C5%BC%C4%99_litewski_Witold.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-ba34a3fefd0874a4d9a8fef3","title":"Portrait of a Lithuanian Grand-Duke, Trakai Castle, Lithuania.jpg","caption":"Portrait of a Lithuanian Grand-Duke Vytautas The Great , Trakai Castle, Lithuania.","creator":"Ricardo Filipe Pereira","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","dateDisplay":"2013-10-09 16:39:07","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APortrait_of_a_Lithuanian_Grand-Duke%2C_Trakai_Castle%2C_Lithuania.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/53/Portrait_of_a_Lithuanian_Grand-Duke%2C_Trakai_Castle%2C_Lithuania.jpg","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.98,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-484ab5f62e4a960c1d978db8","title":"Vitaŭt Vialiki. Вітаўт Вялікі (A. Guagnini, 1578).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Alessandro Guagnini","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1578","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Guagnini%2C_1578%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/01/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Guagnini%2C_1578%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.98,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-1e708d0a5620d5a9bf639d0d","title":"Vitaŭt Vialiki. Вітаўт Вялікі (A. Guagnini, 1578, 1611).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Alessandro Guagnini","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1611","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Guagnini%2C_1578%2C_1611%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/55/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Guagnini%2C_1578%2C_1611%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.98,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-bab4d4f2e4fcffa6c0431405","title":"Vitaŭt Vialiki. Вітаўт Вялікі (A. Klukoŭski, 1850).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Antoni Klukowski","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"circa 1850 date QS:P,+1850-00-00T00:00:00Z/9,P1480,Q5727902","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Kluko%C5%ADski%2C_1850%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/6d/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Kluko%C5%ADski%2C_1850%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.98,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-91da24b2fe281b6c2a89696a","title":"Vitaŭt Vialiki. Вітаўт Вялікі (A. Lesser, 1830-84).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Aleksander Lesser","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between 1830 and 1884 date QS:P,+1850-00-00T00:00:00Z/7,P1319,+1830-00-00T00:00:00Z/9,P1326,+1884-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Lesser%2C_1830-84%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/e5/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Lesser%2C_1830-84%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.98,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-d15bf12daf2da3d85cc37a07","title":"Vitaŭt Vialiki. Вітаўт Вялікі (A. Tarasievič, 1675).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Alaksandar Tarasievič (Aleksander Tarasowicz)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1675","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Tarasievi%C4%8D%2C_1675%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/24/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Tarasievi%C4%8D%2C_1675%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.98,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-ab0b3bb8379a2cf0c44289f8","title":"Vitaŭt Vialiki. Вітаўт Вялікі (A. Tomaszewski, 1837).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Alojzy Tomaszewski","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1840 date QS:P571,+1840-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Tomaszewski%2C_1837%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/9/98/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Tomaszewski%2C_1837%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.98,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-c6a643bef80f021679128f09","title":"Vitaŭt Vialiki. Вітаўт Вялікі (M. Barvicki, 1908).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Мечыслаў Барвіцкі","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1908","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28M._Barvicki%2C_1908%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5e/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28M._Barvicki%2C_1908%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.98,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-31a4e9b62c25702eb084368b","title":"Wisztyniec 2016 A 656.jpg","caption":"Vištytis - town in southern Lituania. Monument to Vytautas, Duke of Lithuania.","creator":"Ciacho5","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","dateDisplay":"2016-01","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AWisztyniec_2016_A_656.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/13/Wisztyniec_2016_A_656.jpg","relationType":"statue_of","directness":"direct","reviewStatus":"accepted","confidence":0.98,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-8d0eb2efcd6c13c8b1e3ae63","title":"Paveikslas „Vytautas Didysis“","caption":"Paveikslas „Vytautas Didysis“.","creator":"Majeris Mironas Kodkinas","provider":"europeana","providerLabel":"Europeana","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","dateDisplay":"2023","canonicalUrl":"https://www.europeana.eu/item/2021802/LIMIS_1023016325","thumbUrl":"https://www.epaveldas.lt/static/vdkm-bucket/LIMIS-1023016325/thumbnail-original/get.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.98,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"Atrinkta rankiniu būdu iš saugios licencijos Europeana rezultatų.","isPrimary":0},{"mediaId":"m-936338ab9ecdc203a98eea21","title":"Lietuvos didysis kunigaikštis Vytautas","caption":"Lietuvos didžiojo kunigaikščio Vytauto atvaizdas.","creator":"Elena Zalogaitė","provider":"europeana","providerLabel":"Europeana","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","dateDisplay":"2024","canonicalUrl":"https://www.europeana.eu/item/2021802/LIMIS_879974553","thumbUrl":"https://www.epaveldas.lt/static/rkm-bucket/LIMIS-879974553/thumbnail-original/get.jpg","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.98,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"Atrinkta rankiniu būdu iš saugios licencijos Europeana rezultatų.","isPrimary":0},{"mediaId":"m-359dd4ec749cade04f726b8a","title":"Did. Lietuvos kunigaikštis Vytautas Didysis 1392–1430 : [portretas] | Grand Duc de Lituanie Vytautas-le-Grand 1392–1430 | Didysis Lietuvos kunigaikštis Vytautas Didysis 1392–1430","caption":"Didžiojo Lietuvos kunigaikščio Vytauto Didžiojo portretas, 1392–1430.","creator":"https://www.epaveldas.lt/thesaurus/_source/cr6bpy63jer5r28nbxdw3jn","provider":"europeana","providerLabel":"Europeana","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","dateDisplay":"","canonicalUrl":"https://www.europeana.eu/item/2021803/C1B0004651396","thumbUrl":"https://www.epaveldas.lt/static/lnb-bucket/C1B0004651396/thumbnail-original/C1B0004651396.jpg","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.98,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"Atrinkta rankiniu būdu iš saugios licencijos Europeana rezultatų.","isPrimary":0},{"mediaId":"m-65f29a5b48f003ff1bdfdc40","title":"Vytauto Didžiojo portretas","caption":"Vytauto Didžiojo portretas.","creator":"","provider":"europeana","providerLabel":"Europeana","license":"http://creativecommons.org/licenses/by/4.0/","rightsNote":"http://creativecommons.org/licenses/by/4.0/","dateDisplay":"","canonicalUrl":"https://www.europeana.eu/item/2064101/Museu_ProvidedCHO_Maironio_lietuvi__literat_ros_muziejus___Maironis_Lithuanian_Literature_Museum_LIMIS_130000000695455","thumbUrl":"http://www.limis.lt/limisk-portlet/external/image/exhibit/130000000695455/130000002309904?q=low","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.98,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"Atrinkta rankiniu būdu iš saugios licencijos Europeana rezultatų.","isPrimary":0},{"mediaId":"m-d8d74190630a9fd5aea593bd","title":"Vitaut grav xvi.jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"en:Alexander Guagnini (1538-1614)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1578","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVitaut_grav_xvi.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/44/Vitaut_grav_xvi.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-4f98322ce1aeb38e99e94f17","title":"Vitaŭt Vialiki, Kalumny. Вітаўт Вялікі, Калюмны (1555) (2).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"circa 1555 date QS:P,+1555-00-00T00:00:00Z/9,P1480,Q5727902","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki%2C_Kalumny._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9A%D0%B0%D0%BB%D1%8E%D0%BC%D0%BD%D1%8B_%281555%29_%282%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c6/Vita%C5%ADt_Vialiki%2C_Kalumny._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9A%D0%B0%D0%BB%D1%8E%D0%BC%D0%BD%D1%8B_%281555%29_%282%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-a964f48573419803d459c024","title":"Vitaŭt Vialiki, Kalumny. Вітаўт Вялікі, Калюмны (1555).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"circa 1555 date QS:P,+1555-00-00T00:00:00Z/9,P1480,Q5727902","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki%2C_Kalumny._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9A%D0%B0%D0%BB%D1%8E%D0%BC%D0%BD%D1%8B_%281555%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/04/Vita%C5%ADt_Vialiki%2C_Kalumny._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9A%D0%B0%D0%BB%D1%8E%D0%BC%D0%BD%D1%8B_%281555%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-3d9cc48e7f9a3b7c760eec00","title":"Vitaŭt Vialiki, Kalumny. Вітаўт Вялікі, Калюмны (1555, B. Starzyński, 1875-1900).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Bolesław Starzyński","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between 1875 and 1900 date QS:P,+1500-00-00T00:00:00Z/6,P1319,+1875-00-00T00:00:00Z/9,P1326,+1900-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki%2C_Kalumny._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9A%D0%B0%D0%BB%D1%8E%D0%BC%D0%BD%D1%8B_%281555%2C_B._Starzy%C5%84ski%2C_1875-1900%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/41/Vita%C5%ADt_Vialiki%2C_Kalumny._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9A%D0%B0%D0%BB%D1%8E%D0%BC%D0%BD%D1%8B_%281555%2C_B._Starzy%C5%84ski%2C_1875-1900%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-f396e7f6eccd59dd3f8167fc","title":"Vitaŭt Vialiki, Pahonia. Вітаўт Вялікі, Пагоня (1443).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1443 date QS:P571,+1443-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki%2C_Pahonia._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%281443%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/13/Vita%C5%ADt_Vialiki%2C_Pahonia._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%281443%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-bd5ab71ba61450749fdfcce7","title":"Vitaŭt Vialiki. Вітаўт Вялікі (1831).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1831","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%281831%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a8/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%281831%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-e01248be6ca9e26479f8f67a","title":"Vitaŭt Vialiki. Вітаўт Вялікі (1836).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1836","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%281836%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/2a/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%281836%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-35077b2615b9697b59f18d18","title":"Vitaŭt Vialiki. Вітаўт Вялікі (1837-38).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between 1837 and 1838 date QS:P571,+1837-00-00T00:00:00Z/8,P1319,+1837-00-00T00:00:00Z/9,P1326,+1838-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%281837-38%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fe/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%281837-38%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-012a4cf974383751a1d50c94","title":"Vitaŭt Vialiki. Вітаўт Вялікі (1851-1900).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between 1851 and 1900 date QS:P,+1500-00-00T00:00:00Z/6,P1319,+1851-00-00T00:00:00Z/9,P1326,+1900-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%281851-1900%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c4/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%281851-1900%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-79dddd30565bc350c4217f0a","title":"Vitaŭt Vialiki. Вітаўт Вялікі (1885).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1885","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%281885%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4a/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%281885%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-cce7ef2ff57be05f19ef17db","title":"Vitaŭt Vialiki. Вітаўт Вялікі (1930).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"circa 1930 date QS:P,+1930-00-00T00:00:00Z/9,P1480,Q5727902","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%281930%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/2f/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%281930%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-9271846f686d86ef49142b33","title":"Vitaŭt Vialiki. Вітаўт Вялікі (F. Smuglevič, 1786).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Franciszek Smuglewicz","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1786","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28F._Smuglevi%C4%8D%2C_1786%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/09/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28F._Smuglevi%C4%8D%2C_1786%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-1d7eddf304eaada630f0e2e4","title":"Vitaŭt Vialiki. Вітаўт Вялікі (J. Aziambłoŭski, 1839).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Józef Oziębłowski","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1839","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28J._Aziamb%C5%82o%C5%ADski%2C_1839%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/8/8d/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28J._Aziamb%C5%82o%C5%ADski%2C_1839%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-2d72aff9a456f81aec23e64b","title":"Vitaŭt Vialiki. Вітаўт Вялікі (J. Aziambłoŭski, 1840) (2).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Józef Oziębłowski","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1840 date QS:P571,+1840-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28J._Aziamb%C5%82o%C5%ADski%2C_1840%29_%282%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/9/90/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28J._Aziamb%C5%82o%C5%ADski%2C_1840%29_%282%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-58015edc64d7dd16971c2487","title":"Vitaŭt Vialiki. Вітаўт Вялікі (J. Aziambłoŭski, 1840) (3).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Józef Oziębłowski","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1840 date QS:P571,+1840-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28J._Aziamb%C5%82o%C5%ADski%2C_1840%29_%283%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/56/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28J._Aziamb%C5%82o%C5%ADski%2C_1840%29_%283%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-26f02b1d51fcb3413d9f1702","title":"Vitaŭt Vialiki. Вітаўт Вялікі (J. Aziambłoŭski, 1840).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Józef Oziębłowski","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1840 date QS:P571,+1840-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28J._Aziamb%C5%82o%C5%ADski%2C_1840%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/01/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28J._Aziamb%C5%82o%C5%ADski%2C_1840%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-d40580df0a4d385cdf5d7d00","title":"Vitaŭt Vialiki. Вітаўт Вялікі (J. Hesse, 1842).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Jan Hesse","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1842","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28J._Hesse%2C_1842%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/7/78/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28J._Hesse%2C_1842%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-c3cdf2ed3b7f84c7ecb7ec6f","title":"Vitaŭt Vialiki. Вітаўт Вялікі (J. Polkowski, 1864).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Józef Tadeusz Polkowski","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1864","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28J._Polkowski%2C_1864%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d6/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28J._Polkowski%2C_1864%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-6cf00eb9b49f971b1ba818df","title":"Vitaŭt Vialiki. Вітаўт Вялікі (J. Ziankievič, 1853).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Jan Ziankievič","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1853","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28J._Ziankievi%C4%8D%2C_1853%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/54/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28J._Ziankievi%C4%8D%2C_1853%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-ef3a92e376d5c48b81f60aaf","title":"Vitaŭt Vialiki. Вітаўт Вялікі (J. Ziankievič, 1864).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Jan Ziankievič","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between 1864 and 1870 date QS:P,+1850-00-00T00:00:00Z/7,P1319,+1864-00-00T00:00:00Z/9,P1326,+1870-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28J._Ziankievi%C4%8D%2C_1864%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/68/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28J._Ziankievi%C4%8D%2C_1864%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-a3e0336946b8605650d43434","title":"Vitaŭt Vialiki. Вітаўт Вялікі (R. Žukoŭski, XIX).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Rudolf Žukoŭski","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"19 th century date QS:P,+1850-00-00T00:00:00Z/7","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28R._%C5%BDuko%C5%ADski%2C_XIX%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1a/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28R._%C5%BDuko%C5%ADski%2C_XIX%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-b439b9ea85a1a40d2d56519f","title":"Vitaŭt Vialiki. Вітаўт Вялікі (V. Dmachoŭski, 1848).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Wincenty Dmochowski","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1848","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28V._Dmacho%C5%ADski%2C_1848%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d1/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28V._Dmacho%C5%ADski%2C_1848%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-07b98ddb6657ef599a10a45d","title":"Vitaŭt Vialiki. Вітаўт Вялікі (V. Dmachoŭski, 1854).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Wincenty Dmochowski","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1854","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28V._Dmacho%C5%ADski%2C_1854%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/15/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28V._Dmacho%C5%ADski%2C_1854%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-a122c7776956396d14c6dfef","title":"Vitaŭt Vialiki. Вітаўт Вялікі (V. Słaviecki, 1831-41) (2).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Vincent Słaviecki","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between 1831 and 1841 date QS:P,+1850-00-00T00:00:00Z/7,P1319,+1831-00-00T00:00:00Z/9,P1326,+1841-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28V._S%C5%82aviecki%2C_1831-41%29_%282%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/61/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28V._S%C5%82aviecki%2C_1831-41%29_%282%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-a6684ef6e82e8375a5efb21e","title":"Vitaŭt Vialiki. Вітаўт Вялікі (V. Słaviecki, 1831-41).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Vincent Słaviecki","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between 1831 and 1841 date QS:P,+1850-00-00T00:00:00Z/7,P1319,+1831-00-00T00:00:00Z/9,P1326,+1841-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28V._S%C5%82aviecki%2C_1831-41%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/8/8d/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28V._S%C5%82aviecki%2C_1831-41%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-3cf550452aee94802aa495df","title":"Vitaŭt Vialiki. Вітаўт Вялікі (XIX).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"19 th century date QS:P571,+1850-00-00T00:00:00Z/7","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28XIX%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/d/dc/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28XIX%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-5f9421818d1ac9542f1ab16d","title":"Vitaŭt Vialiki. Вітаўт Вялікі (XVII).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"17 th century date QS:P,+1650-00-00T00:00:00Z/7","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28XVII%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4a/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28XVII%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-d0e6857061d1744a3f518af6","title":"Vitaŭt Vialiki. Вітаўт Вялікі (XVII, 1893).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"17 th century date QS:P,+1650-00-00T00:00:00Z/7 1893","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28XVII%2C_1893%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c7/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28XVII%2C_1893%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-d0f45f8e764022d84712e3d2","title":"Vitaŭt Vialiki. Вітаўт Вялікі (XVIII) (2).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"18 th century date QS:P,+1750-00-00T00:00:00Z/7","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28XVIII%29_%282%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5a/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28XVIII%29_%282%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-989533b28dc1a535cd1cf93c","title":"Vitaŭt Vialiki. Вітаўт Вялікі (XVIII).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"18 th century date QS:P,+1750-00-00T00:00:00Z/7","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28XVIII%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a2/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28XVIII%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-e510b14e04cbf3694a3520e2","title":"Vitaŭt Vialiki. Вітаўт Вялікі (XX).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"before 1941 date QS:P,+1941-00-00T00:00:00Z/7,P1326,+1941-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28XX%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/24/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28XX%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-d2c4738684a48dbed6e7277e","title":"Vitaŭt Vialiki. Вітаўт Вялікі (Z. Gloger, 1900).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Zygmunt Gloger","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"before 1901 date QS:P,+1901-00-00T00:00:00Z/7,P1326,+1901-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28Z._Gloger%2C_1900%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d5/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28Z._Gloger%2C_1900%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-dcdbe87268bf50ba7819977b","title":"Vitaŭt. Вітаўт (XVIII).jpg","caption":"Painting of the Grand Duke of Lithuania Vytautas the Great .","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"18 th century date QS:P,+1750-00-00T00:00:00Z/7","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%28XVIII%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c4/Vita%C5%ADt._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%28XVIII%29.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-e3b89856b0418d42bd4e7312","title":"Medžio drožinys „Vytautas Didysis“","caption":"Medžio drožinys „Vytautas Didysis“.","creator":"Antanas Bagdonas","provider":"europeana","providerLabel":"Europeana","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","dateDisplay":"","canonicalUrl":"https://www.europeana.eu/item/2021802/LIMIS_610110146","thumbUrl":"https://www.epaveldas.lt/static/tkm-bucket/LIMIS-610110146/thumbnail-original/get.jpg","relationType":"statue_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"Atrinkta rankiniu būdu iš saugios licencijos Europeana rezultatų.","isPrimary":0},{"mediaId":"m-9161a5dc35b1cb26f4a50841","title":"Medžio skulptūra „Vytautas Didysis, Lietuvos didysis kunigaikštis (1392–1430)“","caption":"Medžio skulptūra „Vytautas Didysis, Lietuvos didysis kunigaikštis (1392–1430)“.","creator":"Antanas Bagdonas","provider":"europeana","providerLabel":"Europeana","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","dateDisplay":"","canonicalUrl":"https://www.europeana.eu/item/2021802/LIMIS_609869752","thumbUrl":"https://www.epaveldas.lt/static/tkm-bucket/LIMIS-609869752/thumbnail-original/get.jpg","relationType":"statue_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"Atrinkta rankiniu būdu iš saugios licencijos Europeana rezultatų.","isPrimary":0},{"mediaId":"m-043970e67a10dacfa87474d2","title":"Bareljefas „Vytautas – Lietuvos didysis kunigaikštis“","caption":"Bareljefas „Vytautas – Lietuvos didysis kunigaikštis“.","creator":"E. Juškevičius","provider":"europeana","providerLabel":"Europeana","license":"http://creativecommons.org/licenses/by/4.0/","rightsNote":"http://creativecommons.org/licenses/by/4.0/","dateDisplay":"2021","canonicalUrl":"https://www.europeana.eu/item/2021802/LIMIS_942401200","thumbUrl":"https://www.epaveldas.lt/static/lnm-bucket/LIMIS-942401200/thumbnail-original/get.jpg","relationType":"statue_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"Atrinkta rankiniu būdu iš saugios licencijos Europeana rezultatų.","isPrimary":0},{"mediaId":"m-9c29bb67d5143a97f7907180","title":"Vitaŭt Vialiki, Pahonia. Вітаўт Вялікі, Пагоня (1385).jpg","caption":"Seal of the Grand Duke of Lithuania Vytautas the Great .","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1385","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki%2C_Pahonia._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%281385%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/61/Vita%C5%ADt_Vialiki%2C_Pahonia._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%281385%29.jpg","relationType":"seal_of","directness":"contextual","reviewStatus":"accepted","confidence":0.98,"sourceMethod":"media_collector","judgeModel":"gpt-5.4","judgeReason":"Tai Vytauto Didžiojo antspaudas, aiškiai susijęs su asmeniu, tačiau ne tiesioginis jo atvaizdas, todėl ryšys laikytinas kontekstiniu.","isPrimary":0},{"mediaId":"m-9d22e349eebbb9f58b1ca524","title":"Vitaŭt Vialiki, Pahonia. Вітаўт Вялікі, Пагоня (1385, 1930).jpg","caption":"Seal of the Grand Duke of Lithuania Vytautas the Great .","creator":"Marian Gumowski","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1385, 1930","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki%2C_Pahonia._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%281385%2C_1930%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/01/Vita%C5%ADt_Vialiki%2C_Pahonia._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%281385%2C_1930%29.jpg","relationType":"seal_of","directness":"contextual","reviewStatus":"accepted","confidence":0.98,"sourceMethod":"media_collector","judgeModel":"gpt-5.4","judgeReason":"Vaizdas rodo Vytauto Didžiojo antspaudą, kuris yra aiškiai susijęs su asmeniu, bet nėra tiesioginis jo portretinis atvaizdas, todėl ryšys laikytinas kontekstiniu.","isPrimary":0},{"mediaId":"m-158f6f025e34eb1233ef1b69","title":"Vitaŭt Vialiki, Pahonia. Вітаўт Вялікі, Пагоня (1385, 1931).jpg","caption":"Seal of the Grand Duke of Lithuania Vytautas the Great .","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1385, 1931","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki%2C_Pahonia._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%281385%2C_1931%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fe/Vita%C5%ADt_Vialiki%2C_Pahonia._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%281385%2C_1931%29.jpg","relationType":"seal_of","directness":"contextual","reviewStatus":"accepted","confidence":0.98,"sourceMethod":"media_collector","judgeModel":"gpt-5.4","judgeReason":"Aprašyme aiškiai nurodyta, kad tai Vytauto Didžiojo antspaudas. Ryšys su asmeniu yra tvirtas, tačiau antspaudas laikytinas simboliniu ar reprezentaciniu objektu, todėl ryšys contextual, ne direct.","isPrimary":0},{"mediaId":"m-6975acb48a7a0b8feaf99616","title":"Vitaŭt Vialiki, Pahonia. Вітаўт Вялікі, Пагоня (K. Kielisiński, 1385, 1841).jpg","caption":"Seal of the Grand Duke of Lithuania Vytautas the Great .","creator":"Kajetan Wincenty Kielisiński","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1385, 1841","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki%2C_Pahonia._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%28K._Kielisi%C5%84ski%2C_1385%2C_1841%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/8/8a/Vita%C5%ADt_Vialiki%2C_Pahonia._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%28K._Kielisi%C5%84ski%2C_1385%2C_1841%29.jpg","relationType":"seal_of","directness":"contextual","reviewStatus":"accepted","confidence":0.98,"sourceMethod":"media_collector","judgeModel":"gpt-5.4","judgeReason":"Aprašymas aiškiai nurodo, kad tai Vytauto Didžiojo antspaudas. Ryšys su asmeniu yra tvirtas, tačiau antspaudas yra susijęs simbolinis objektas, o ne tiesioginis paties valdovo atvaizdas.","isPrimary":0},{"mediaId":"m-64c8f6b241dadcbaa07399d7","title":"Moneta. LDK. Vytauto Didžiojo denaras","caption":"LDK Vytauto Didžiojo denaras.","creator":"","provider":"europeana","providerLabel":"Europeana","license":"http://creativecommons.org/licenses/by/4.0/","rightsNote":"http://creativecommons.org/licenses/by/4.0/","dateDisplay":"","canonicalUrl":"https://www.europeana.eu/item/2021802/LIMIS_752732193","thumbUrl":"https://www.epaveldas.lt/static/tim-bucket/LIMIS-752732193/thumbnail-original/get.jpg","relationType":"coin_depiction_of","directness":"contextual","reviewStatus":"accepted","confidence":0.88,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"Atrinkta rankiniu būdu iš saugios licencijos Europeana rezultatų.","isPrimary":0},{"mediaId":"m-5a8de8ab28f8dd7ece0f471a","title":"Briedžio ragas su išraižytu Vytauto Didžiojo bareljefu","caption":"Briedžio ragas su išraižytu Vytauto Didžiojo bareljefu.","creator":"Antanas Bagdonas","provider":"europeana","providerLabel":"Europeana","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","dateDisplay":"","canonicalUrl":"https://www.europeana.eu/item/2021802/LIMIS_610357555","thumbUrl":"https://www.epaveldas.lt/static/tkm-bucket/LIMIS-610357555/thumbnail-original/get.jpg","relationType":"contextual_about","directness":"contextual","reviewStatus":"accepted","confidence":0.86,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"Atrinkta rankiniu būdu iš saugios licencijos Europeana rezultatų.","isPrimary":0},{"mediaId":"m-6851325c4413313b7c70d728","title":"Lietuva. 10 litų. 1936 m.","caption":"1936 m. Lietuvos 10 litų banknotas su Vytauto Didžiojo atvaizdu.","creator":"http://data.europeana.eu/agent/160074 | Juozas Zikaras","provider":"europeana","providerLabel":"Europeana","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","dateDisplay":"20","canonicalUrl":"https://www.europeana.eu/item/2021802/LIMIS_201579249","thumbUrl":"https://www.epaveldas.lt/static/sam-bucket/LIMIS-201579249/thumbnail-original/get.jpg","relationType":"coin_depiction_of","directness":"contextual","reviewStatus":"accepted","confidence":0.86,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"Atrinkta rankiniu būdu iš saugios licencijos Europeana rezultatų.","isPrimary":0},{"mediaId":"m-bedd635657c08dd8b0b509d8","title":"Lietuvos didžiojo kunigaikščio Vytauto Didžiojo medalis. 1930 m., bronza","caption":"1930 m. bronzinis Vytauto Didžiojo medalis.","creator":"P. Rimša","provider":"europeana","providerLabel":"Europeana","license":"http://creativecommons.org/licenses/by-sa/4.0/","rightsNote":"http://creativecommons.org/licenses/by-sa/4.0/","dateDisplay":"1959","canonicalUrl":"https://www.europeana.eu/item/2021803/KPCPBF41Ap3Nr349","thumbUrl":"https://www.epaveldas.lt/static/kpcpb-bucket/KPCPBF41Ap3Nr349/thumbnail-original/0001-KPCPBF41Ap3Nr349.jpg","relationType":"coin_depiction_of","directness":"contextual","reviewStatus":"accepted","confidence":0.86,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"Atrinkta rankiniu būdu iš saugios licencijos Europeana rezultatų.","isPrimary":0},{"mediaId":"m-c7367f575ad13fe8d4204619","title":"M. Barkausko, gyvenusio Kuršėnuose, Vytauto Didžiojo paveikslas 1930 m. nešamas apie Lietuvą","caption":"1930 m. Vytauto Didžiojo paveikslo kelionė per Lietuvą.","creator":"Nežinomas fotografas","provider":"europeana","providerLabel":"Europeana","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","dateDisplay":"","canonicalUrl":"https://www.europeana.eu/item/2021802/LIMIS_724702788","thumbUrl":"https://www.epaveldas.lt/static/zam-bucket/LIMIS-724702788/thumbnail-original/724702808.jpg","relationType":"commemoration_of","directness":"contextual","reviewStatus":"accepted","confidence":0.84,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"Atrinkta rankiniu būdu iš saugios licencijos Europeana rezultatų.","isPrimary":0}]
+  [{"mediaId":"m-d8d74190630a9fd5aea593bd","title":"Vitaut grav xvi.jpg","caption":"Vytauto Didžiojo XVI a. graviūra, priskiriama Aleksandrui Guagniniui, 1578 m.","originalTitle":"Vitaut grav xvi.jpg","creator":"en:Alexander Guagnini (1538-1614)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Sarmatiae Europeae descriptio published in 1578 / \"Дмитрий Донской\" (ЖЗЛ), Москва","dateDisplay":"1578","dateStart":null,"dateEnd":null,"width":2017,"height":2228,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVitaut_grav_xvi.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/44/Vitaut_grav_xvi.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/44/Vitaut_grav_xvi.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"karyba","label":"karyba","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:15:23.663902+03:00","reviewedAt":"2026-07-11T02:17:30.234778+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas šarvuotas valdovas su puošniu šalmu, lazda / skeptru ir karine atributika.","metadataEvidence":"Aprašas tiesiogiai nurodo „Grand Duke of Lithuania Vytautas the Great“, data 1578 m.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Metaduomenys aiškiai tapatina vaizduojamą asmenį su Vytautu Didžiuoju.","isPrimary":1},{"mediaId":"m-043970e67a10dacfa87474d2","title":"Bareljefas „Vytautas – Lietuvos didysis kunigaikštis“","caption":"Bareljefas „Vytautas – Lietuvos didysis kunigaikštis“","originalTitle":"Bareljefas „Vytautas – Lietuvos didysis kunigaikštis“","creator":"E. Juškevičius","provider":"europeana","providerLabel":"Europeana","license":"http://creativecommons.org/licenses/by/4.0/","rightsNote":"http://creativecommons.org/licenses/by/4.0/","licenseUrl":"http://creativecommons.org/licenses/by/4.0/","attribution":"","dateDisplay":"2021","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021802/LIMIS_942401200","sourceUrl":"https://www.epaveldas.lt/static/lnm-bucket/LIMIS-942401200/thumbnail-original/get.jpg","thumbUrl":"https://www.epaveldas.lt/static/lnm-bucket/LIMIS-942401200/thumbnail-original/get.jpg","institution":"National Museum of Lithuania","collection":"","country":"","language":"","tags":[{"code":"skulptūra","label":"skulptūra","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"daiktas","label":"daiktas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"bareljefas","label":"bareljefas","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"statue_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T00:20:48.482869+03:00","reviewedAt":"2026-07-11T02:49:26.564127+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Mediniame bareljefe vaizduojamas valdovas su atributais, karūna apačioje ir pilies motyvais fone.","metadataEvidence":"Pavadinimas ir aprašymas nurodo „Vytautas – Lietuvos didysis kunigaikštis“.","confidenceLevel":"high","relationType":"statue_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tiesioginis skulptūrinis Vytauto atvaizdas, aiškiai patvirtintas metaduomenimis.","isPrimary":0},{"mediaId":"m-5a8de8ab28f8dd7ece0f471a","title":"Briedžio ragas su išraižytu Vytauto Didžiojo bareljefu","caption":"Briedžio ragas su Vytauto Didžiojo bareljefu.","originalTitle":"Briedžio ragas su išraižytu Vytauto Didžiojo bareljefu","creator":"Antanas Bagdonas","provider":"europeana","providerLabel":"Europeana","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"http://creativecommons.org/publicdomain/mark/1.0/","attribution":"","dateDisplay":"","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021802/LIMIS_610357555","sourceUrl":"https://www.epaveldas.lt/static/tkm-bucket/LIMIS-610357555/thumbnail-original/get.jpg","thumbUrl":"https://www.epaveldas.lt/static/tkm-bucket/LIMIS-610357555/thumbnail-original/get.jpg","institution":"Tauragė Regional Museum","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T00:20:48.484261+03:00","reviewedAt":"2026-07-11T00:21:21.406702+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Ant rago matomas išraižytas karūnuoto valdovo bareljefas ir užrašas „VYTAUTAS“ su datomis.","metadataEvidence":"Pavadinimas ir aprašymas tiesiogiai nurodo „Vytauto Didžiojo bareljefą“.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai aiškus konkretaus Vytauto Didžiojo memorialinis atvaizdas.","isPrimary":0},{"mediaId":"m-359dd4ec749cade04f726b8a","title":"Did. Lietuvos kunigaikštis Vytautas Didysis 1392–1430 : [portretas] | Grand Duc de Lituanie Vytautas-le-Grand 1392–1430 | Didysis Lietuvos kunigaikštis Vytautas Didysis 1392–1430","caption":"Didysis Lietuvos kunigaikštis Vytautas Didysis 1392–1430","originalTitle":"Did. Lietuvos kunigaikštis Vytautas Didysis 1392–1430 : [portretas] | Grand Duc de Lituanie Vytautas-le-Grand 1392–1430 | Didysis Lietuvos kunigaikštis Vytautas Didysis 1392–1430","creator":"https://www.epaveldas.lt/thesaurus/_source/cr6bpy63jer5r28nbxdw3jn","provider":"europeana","providerLabel":"Europeana","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"http://creativecommons.org/publicdomain/mark/1.0/","attribution":"","dateDisplay":"","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021803/C1B0004651396","sourceUrl":"https://www.epaveldas.lt/static/lnb-bucket/C1B0004651396/thumbnail-original/C1B0004651396.jpg","thumbUrl":"https://www.epaveldas.lt/static/lnb-bucket/C1B0004651396/thumbnail-original/C1B0004651396.jpg","institution":"Martynas Mažvydas National Library of Lithuania","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T00:20:48.482419+03:00","reviewedAt":"2026-07-11T02:49:26.559529+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas valdovo portretas su kunigaikštiška kepure ir mantija; apačioje įrašyta Vytauto Didžiojo tapatybė ir datos.","metadataEvidence":"Pavadinimas ir aprašymas tiesiogiai nurodo Didįjį Lietuvos kunigaikštį Vytautą Didįjį, 1392–1430.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tapatybė aiškiai įrodyta tiek užrašu pačiame vaizde, tiek metaduomenimis.","isPrimary":0},{"mediaId":"m-936338ab9ecdc203a98eea21","title":"Lietuvos didysis kunigaikštis Vytautas","caption":"Lietuvos didysis kunigaikštis Vytautas","originalTitle":"Lietuvos didysis kunigaikštis Vytautas","creator":"Elena Zalogaitė","provider":"europeana","providerLabel":"Europeana","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"http://creativecommons.org/publicdomain/mark/1.0/","attribution":"","dateDisplay":"2024","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021802/LIMIS_879974553","sourceUrl":"https://www.epaveldas.lt/static/rkm-bucket/LIMIS-879974553/thumbnail-original/get.jpg","thumbUrl":"https://www.epaveldas.lt/static/rkm-bucket/LIMIS-879974553/thumbnail-original/get.jpg","institution":"Rokiškis Regional Museum","collection":"","country":"","language":"","tags":[{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"karyba","label":"karyba","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"scena","label":"scena","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T00:20:48.482662+03:00","reviewedAt":"2026-07-11T02:49:26.562217+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Kairėje matomas valdovo portretas su kunigaikščio kepure, aplink jį - raiteliai, pilys ir istorinės scenos.","metadataEvidence":"Pavadinimas „Lietuvos didysis kunigaikštis Vytautas“, aprašymas nurodo Vytauto atvaizdą.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Nors vaizdas stilizuotas, metaduomenys ir kompozicija aiškiai rodo Vytauto Didžiojo atvaizdą.","isPrimary":0},{"mediaId":"m-bedd635657c08dd8b0b509d8","title":"Lietuvos didžiojo kunigaikščio Vytauto Didžiojo medalis. 1930 m., bronza","caption":"Vytauto Didžiojo medalis, 1930 m.","originalTitle":"Lietuvos didžiojo kunigaikščio Vytauto Didžiojo medalis. 1930 m., bronza","creator":"P. Rimša","provider":"europeana","providerLabel":"Europeana","license":"http://creativecommons.org/licenses/by-sa/4.0/","rightsNote":"http://creativecommons.org/licenses/by-sa/4.0/","licenseUrl":"http://creativecommons.org/licenses/by-sa/4.0/","attribution":"","dateDisplay":"1959","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021803/KPCPBF41Ap3Nr349","sourceUrl":"https://www.epaveldas.lt/static/kpcpb-bucket/KPCPBF41Ap3Nr349/thumbnail-original/0001-KPCPBF41Ap3Nr349.jpg","thumbUrl":"https://www.epaveldas.lt/static/kpcpb-bucket/KPCPBF41Ap3Nr349/thumbnail-original/0001-KPCPBF41Ap3Nr349.jpg","institution":"Heritage Conservation Library of the Cultural Heritage Center","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T00:20:48.484083+03:00","reviewedAt":"2026-07-11T00:21:21.402103+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matosi medalio portretas su valdovo atvaizdu ir aiškiu užrašu „VYTAUTAS DIDYSIS“ bei datomis „1430–1930“.","metadataEvidence":"Pavadinimas ir aprašymas nurodo, kad tai Lietuvos didžiojo kunigaikščio Vytauto Didžiojo 1930 m. bronzinis medalis.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdas ir metaduomenys tiesiogiai identifikuoja Vytautą Didįjį.","isPrimary":0},{"mediaId":"m-e3b89856b0418d42bd4e7312","title":"Medžio drožinys „Vytautas Didysis“","caption":"Medžio drožinys „Vytautas Didysis“.","originalTitle":"Medžio drožinys „Vytautas Didysis“","creator":"Antanas Bagdonas","provider":"europeana","providerLabel":"Europeana","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"http://creativecommons.org/publicdomain/mark/1.0/","attribution":"","dateDisplay":"","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021802/LIMIS_610110146","sourceUrl":"https://www.epaveldas.lt/static/tkm-bucket/LIMIS-610110146/thumbnail-original/get.jpg","thumbUrl":"https://www.epaveldas.lt/static/tkm-bucket/LIMIS-610110146/thumbnail-original/get.jpg","institution":"Tauragė Regional Museum","collection":"","country":"","language":"","tags":[{"code":"skulptūra","label":"skulptūra","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"daiktas","label":"daiktas","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"bareljefas","label":"bareljefas","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"statue_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T00:20:48.483415+03:00","reviewedAt":"2026-07-11T02:22:51.426209+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas ovaliame rėme išdrožtas istorinio valdovo biustas su karūna, šarvais ir valdžios lazda.","metadataEvidence":"Pavadinimas ir aprašas tiesiogiai nurodo „Medžio drožinys „Vytautas Didysis““, tai sutampa su target Vytautas Didysis.","confidenceLevel":"high","relationType":"statue_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdas ir metaduomenys aiškiai identifikuoja Vytauto Didžiojo atvaizdą.","isPrimary":0},{"mediaId":"m-9161a5dc35b1cb26f4a50841","title":"Medžio skulptūra „Vytautas Didysis, Lietuvos didysis kunigaikštis (1392–1430)“","caption":"Medžio skulptūra „Vytautas Didysis, Lietuvos didysis kunigaikštis (1392–1430)“","originalTitle":"Medžio skulptūra „Vytautas Didysis, Lietuvos didysis kunigaikštis (1392–1430)“","creator":"Antanas Bagdonas","provider":"europeana","providerLabel":"Europeana","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"http://creativecommons.org/publicdomain/mark/1.0/","attribution":"","dateDisplay":"","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021802/LIMIS_609869752","sourceUrl":"https://www.epaveldas.lt/static/tkm-bucket/LIMIS-609869752/thumbnail-original/get.jpg","thumbUrl":"https://www.epaveldas.lt/static/tkm-bucket/LIMIS-609869752/thumbnail-original/get.jpg","institution":"Tauragė Regional Museum","collection":"","country":"","language":"","tags":[{"code":"skulptūra","label":"skulptūra","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"daiktas","label":"daiktas","facetKind":"tema","confidence":0.95},{"code":"ginklas","label":"ginklas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"statue_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T00:20:48.483108+03:00","reviewedAt":"2026-07-11T02:49:26.565785+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matoma medinė stovinti valdovo figūra su kalaviju, skydu ir įrašu postamente „Vytautas Didysis Lietuvos kunigaikštis 1392–1430“.","metadataEvidence":"Pavadinimas ir aprašymas tiesiogiai nurodo Vytautą Didįjį, Lietuvos didįjį kunigaikštį, 1392–1430.","confidenceLevel":"high","relationType":"statue_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdo įrašas ir metaduomenys vienareikšmiškai patvirtina, kad tai Vytauto Didžiojo skulptūra.","isPrimary":0},{"mediaId":"m-8d0eb2efcd6c13c8b1e3ae63","title":"Paveikslas „Vytautas Didysis“","caption":"Paveikslas „Vytautas Didysis“","originalTitle":"Paveikslas „Vytautas Didysis“","creator":"Majeris Mironas Kodkinas","provider":"europeana","providerLabel":"Europeana","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"http://creativecommons.org/publicdomain/mark/1.0/","attribution":"","dateDisplay":"2023","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021802/LIMIS_1023016325","sourceUrl":"https://www.epaveldas.lt/static/vdkm-bucket/LIMIS-1023016325/thumbnail-original/get.jpg","thumbUrl":"https://www.epaveldas.lt/static/vdkm-bucket/LIMIS-1023016325/thumbnail-original/get.jpg","institution":"Vytautas the Great War Museum","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T00:20:48.482134+03:00","reviewedAt":"2026-07-11T02:49:26.552533+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas karūnuotas valdovas su mantija, kalaviju ir reprezentacine poza.","metadataEvidence":"Pavadinimas ir aprašymas nurodo „Vytautas Didysis“.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdas ir metaduomenys tiesiogiai identifikuoja Vytautą Didįjį.","isPrimary":0},{"mediaId":"m-ba34a3fefd0874a4d9a8fef3","title":"Portrait of a Lithuanian Grand-Duke, Trakai Castle, Lithuania.jpg","caption":"Vytauto Didžiojo portretas Trakų pilyje.","originalTitle":"Portrait of a Lithuanian Grand-Duke, Trakai Castle, Lithuania.jpg","creator":"Ricardo Filipe Pereira","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2013-10-09 16:39:07","dateStart":null,"dateEnd":null,"width":1944,"height":2592,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APortrait_of_a_Lithuanian_Grand-Duke%2C_Trakai_Castle%2C_Lithuania.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/5/53/Portrait_of_a_Lithuanian_Grand-Duke%2C_Trakai_Castle%2C_Lithuania.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/53/Portrait_of_a_Lithuanian_Grand-Duke%2C_Trakai_Castle%2C_Lithuania.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T00:14:02.899128+03:00","reviewedAt":"2026-07-11T02:17:30.198462+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas karūnuotas valdovas su šarvais, raudonu apsiaustu ir kalaviju istorinio portreto kompozicijoje.","metadataEvidence":"Aprašas tiesiogiai nurodo „Vytautas The Great“ ir Trakų pilį Lietuvoje.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Metaduomenys aiškiai įvardija Vytautą Didįjį, o vaizdas atitinka valdovo portretą.","isPrimary":0},{"mediaId":"m-ea1dbbe398596cd2dcc84124","title":"Seal of Vytautas the Great.jpg","caption":"Vytauto Didžiojo portretinis antspaudas, XIV–XV a.","originalTitle":"Seal of Vytautas the Great.jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"http://alkas.lt/2012/10/21/traku-pilyje-vytauto-didziojo-mirties-metiniu-minejimas-ir-knygos-didzioji-lietuva-pristatymas/","dateDisplay":"14-15th centuries","dateStart":null,"dateEnd":null,"width":1228,"height":1264,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_Vytautas_the_Great.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c2/Seal_of_Vytautas_the_Great.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c2/Seal_of_Vytautas_the_Great.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"seal_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T00:14:02.897540+03:00","reviewedAt":"2026-07-11T02:14:53.504709+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Apskritame antspaude matomas soste sėdintis valdovas, aplink jį skydai ir įrašas.","metadataEvidence":"Pavadinimas „Seal of Vytautas the Great“, aprašymas „Portrait seal of Grand Duke of Lithuania Vytautas the Great“, data XIV–XV a.","confidenceLevel":"high","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai konkretus Vytauto Didžiojo portretinis antspaudas, ne vien bendras simbolis.","isPrimary":0},{"mediaId":"m-4f98322ce1aeb38e99e94f17","title":"Vitaŭt Vialiki, Kalumny. Вітаўт Вялікі, Калюмны (1555) (2).jpg","caption":"Vytauto Didžiojo atvaizdas su Gediminaičių stulpais, apie 1555 m.","originalTitle":"Vitaŭt Vialiki, Kalumny. Вітаўт Вялікі, Калюмны (1555) (2).jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Paulmy (Antoine-René d'Argenson, marquis de). Recueil d'armoiries polonaises. Bibliothèque nationale de France. Bibliothèque de l'Arsenal, Ms-X, fol. Y. Ms-1114. Polaczkówna H. Stemmata Polonica; rękopis nr 1114 klejnotów Długosza w Bibliotece Arsenału w Paryżu. Lwów, 1926.","dateDisplay":"circa 1555 date QS:P,+1555-00-00T00:00:00Z/9,P1480,Q5727902","dateStart":null,"dateEnd":null,"width":950,"height":1355,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki%2C_Kalumny._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9A%D0%B0%D0%BB%D1%8E%D0%BC%D0%BD%D1%8B_%281555%29_%282%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c6/Vita%C5%ADt_Vialiki%2C_Kalumny._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9A%D0%B0%D0%BB%D1%8E%D0%BC%D0%BD%D1%8B_%281555%29_%282%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c6/Vita%C5%ADt_Vialiki%2C_Kalumny._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9A%D0%B0%D0%BB%D1%8E%D0%BC%D0%BD%D1%8B_%281555%29_%282%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T00:14:02.901377+03:00","reviewedAt":"2026-07-11T02:14:53.523189+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Sėdintis karūnuotas valdovas, priekyje pavaizduotas skydas su Gediminaičių stulpais.","metadataEvidence":"Pavadinime ir aprašyme nurodyta Vitaŭt Vialiki / Vytautas the Great, Grand Duke of Lithuania, data apie 1555 m.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tapatybė aiškiai patvirtinta metaduomenimis ir ikonografija.","isPrimary":0},{"mediaId":"m-a964f48573419803d459c024","title":"Vitaŭt Vialiki, Kalumny. Вітаўт Вялікі, Калюмны (1555).jpg","caption":"Vytauto Didžiojo atvaizdas su Gediminaičių stulpais, apie 1555 m.","originalTitle":"Vitaŭt Vialiki, Kalumny. Вітаўт Вялікі, Калюмны (1555).jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Paulmy (Antoine-René d'Argenson, marquis de). Recueil d'armoiries polonaises. Bibliothèque nationale de France. Bibliothèque de l'Arsenal, Ms-X, fol. Y. Ms-1114. Polaczkówna H. Stemmata Polonica; rękopis nr 1114 klejnotów Długosza w Bibliotece Arsenału w Paryżu. Lwów, 1926.","dateDisplay":"circa 1555 date QS:P,+1555-00-00T00:00:00Z/9,P1480,Q5727902","dateStart":null,"dateEnd":null,"width":1050,"height":1199,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki%2C_Kalumny._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9A%D0%B0%D0%BB%D1%8E%D0%BC%D0%BD%D1%8B_%281555%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/0/04/Vita%C5%ADt_Vialiki%2C_Kalumny._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9A%D0%B0%D0%BB%D1%8E%D0%BC%D0%BD%D1%8B_%281555%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/04/Vita%C5%ADt_Vialiki%2C_Kalumny._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9A%D0%B0%D0%BB%D1%8E%D0%BC%D0%BD%D1%8B_%281555%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:15:23.662370+03:00","reviewedAt":"2026-07-11T02:17:30.222874+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Sėdintis karūnuotas valdovas su raudonu apsiaustu; priekyje raudonas skydas su Gediminaičių stulpais.","metadataEvidence":"Pavadinime nurodyta „Vitaŭt Vialiki, Kalumny“, aprašyme – „Grand Duke of Lithuania Vytautas the Great“, data apie 1555 m.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tiek portretas, tiek metaduomenys tiesiogiai sieja vaizdą su Vytautu.","isPrimary":0},{"mediaId":"m-f396e7f6eccd59dd3f8167fc","title":"Vitaŭt Vialiki, Pahonia. Вітаўт Вялікі, Пагоня (1443).jpg","caption":"Vytauto Didžiojo mirties arba laidotuvių scenos rankraštinis atvaizdas su Pahonia, 1443 m.","originalTitle":"Vitaŭt Vialiki, Pahonia. Вітаўт Вялікі, Пагоня (1443).jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Андрэй Строцаў, герб Пагоня (herb Pahonia / Погоня / Pogonia): усё пра гістарычны герб беларусаў","dateDisplay":"1443 date QS:P571,+1443-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":1406,"height":2048,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki%2C_Pahonia._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%281443%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/1/13/Vita%C5%ADt_Vialiki%2C_Pahonia._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%281443%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/13/Vita%C5%ADt_Vialiki%2C_Pahonia._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%281443%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"rankraštis","label":"rankraštis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"laidotuvės","label":"laidotuvės","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"scena","label":"scena","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"manuscript_depiction_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:15:23.661195+03:00","reviewedAt":"2026-07-11T02:17:30.216926+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matoma rankraščio miniatiūra: grupė gedinčių asmenų prie mirusio valdovo kūno, viršuje pavaizduotas raitelio herbas.","metadataEvidence":"Pavadinimas nurodo Vitaŭt Vialiki ir Pahonia, aprašas teigia, kad tai Vytauto Didžiojo atvaizdas; data pateikta kaip 1443.","confidenceLevel":"high","relationType":"manuscript_depiction_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Nors vaizde nėra vien portretas, metaduomenys ir scena tiesiogiai sieja atvaizdą su Vytautu Didžiuoju.","isPrimary":0},{"mediaId":"m-6975acb48a7a0b8feaf99616","title":"Vitaŭt Vialiki, Pahonia. Вітаўт Вялікі, Пагоня (K. Kielisiński, 1385, 1841).jpg","caption":"Kajetano Kielisińskio pieštas Vytauto Didžiojo antspaudo atvaizdas.","originalTitle":"Vitaŭt Vialiki, Pahonia. Вітаўт Вялікі, Пагоня (K. Kielisiński, 1385, 1841).jpg","creator":"Kajetan Wincenty Kielisiński","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"","dateDisplay":"1385, 1841","dateStart":null,"dateEnd":null,"width":2302,"height":3012,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki%2C_Pahonia._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%28K._Kielisi%C5%84ski%2C_1385%2C_1841%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/8/8a/Vita%C5%ADt_Vialiki%2C_Pahonia._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%28K._Kielisi%C5%84ski%2C_1385%2C_1841%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/8/8a/Vita%C5%ADt_Vialiki%2C_Pahonia._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%28K._Kielisi%C5%84ski%2C_1385%2C_1841%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"seal_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T00:14:02.899625+03:00","reviewedAt":"2026-07-11T02:14:53.514684+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Piešinyje matomas apvalus antspaudas su raiteliu, kalaviju ir legenda, pats antspaudas pavaizduotas tarsi pritvirtintas prie dokumento.","metadataEvidence":"Aprašyme nurodyta, kad tai Lietuvos didžiojo kunigaikščio Vytauto Didžiojo antspaudas; kūrėjas Kajetan Wincenty Kielisiński, data 1385/1841.","confidenceLevel":"high","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Aiškiai identifikuotas konkretaus Vytauto antspaudo istorinis atvaizdas.","isPrimary":0},{"mediaId":"m-bd5ab71ba61450749fdfcce7","title":"Vitaŭt Vialiki. Вітаўт Вялікі (1831).jpg","caption":"1831 m. Vytauto, Lietuvos didvyrio, portretinis atvaizdas.","originalTitle":"Vitaŭt Vialiki. Вітаўт Вялікі (1831).jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Bernardo Zaydler. Storia della Polonia. Florencija, 1831","dateDisplay":"1831","dateStart":null,"dateEnd":null,"width":2348,"height":3911,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%281831%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a8/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%281831%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a8/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%281831%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"litografija","label":"litografija","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T00:14:02.902699+03:00","reviewedAt":"2026-07-11T02:14:53.529366+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Profilinis šarvuoto valdovo biustas su šalmu ir plunksna; apačioje įrašas „Vitoldo Eroe della Lituania“.","metadataEvidence":"Pavadinimas ir aprašymas nurodo Vitaŭt Vialiki / Vytautas the Great, data 1831 m.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdo įrašas ir metaduomenys sutampa su Vytauto tapatybe.","isPrimary":0},{"mediaId":"m-e01248be6ca9e26479f8f67a","title":"Vitaŭt Vialiki. Вітаўт Вялікі (1836).jpg","caption":"Vytauto Didžiojo portretas, 1836 m.","originalTitle":"Vitaŭt Vialiki. Вітаўт Вялікі (1836).jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Baliński, Michał. Historya miasta Wilna. T. 1. 1836.","dateDisplay":"1836","dateStart":null,"dateEnd":null,"width":726,"height":800,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%281836%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/2/2a/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%281836%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/2a/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%281836%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:15:23.660999+03:00","reviewedAt":"2026-07-11T02:17:30.215344+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas karūnuotas vyras su valdovo mantija, šarvais, kalaviju ir kryžiaus insignija.","metadataEvidence":"Pavadinimas ir aprašas nurodo Vitaŭt Vialiki / Vytautą Didįjį, Lietuvos didįjį kunigaikštį; data 1836.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Aiškus metaduomenų sutapimas su target ir portretinis istorinis Vytauto atvaizdas.","isPrimary":0},{"mediaId":"m-35077b2615b9697b59f18d18","title":"Vitaŭt Vialiki. Вітаўт Вялікі (1837-38).jpg","caption":"Vytauto Didžiojo XIX a. portretinė graviūra","originalTitle":"Vitaŭt Vialiki. Вітаўт Вялікі (1837-38).jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"La Pologne, historique, littéraire, monumentale et pittoresque... T. 2. Paris, 1837-1838. Tabl. m.s. 68-69.","dateDisplay":"between 1837 and 1838 date QS:P571,+1837-00-00T00:00:00Z/8,P1319,+1837-00-00T00:00:00Z/9,P1326,+1838-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":3287,"height":4433,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%281837-38%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fe/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%281837-38%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fe/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%281837-38%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:15:23.659466+03:00","reviewedAt":"2026-07-11T02:17:30.209300+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Po portretu užrašyta „Alexandre Witold, Grand Duc de Lituanie, 1350-1430“.","metadataEvidence":"Pavadinimas ir aprašas nurodo Vytautą Didįjį; data 1837–1838 m.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Užrašas pačiame vaizde tiesiogiai sutampa su target vardu, titulu ir gyvenimo datomis.","isPrimary":0},{"mediaId":"m-012a4cf974383751a1d50c94","title":"Vitaŭt Vialiki. Вітаўт Вялікі (1851-1900).jpg","caption":"Vytauto Didžiojo portretas, XIX a. antros pusės paveikslas.","originalTitle":"Vitaŭt Vialiki. Вітаўт Вялікі (1851-1900).jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Lietuvos nacionalinis muziejus. LNM T 1696.","dateDisplay":"between 1851 and 1900 date QS:P,+1500-00-00T00:00:00Z/6,P1319,+1851-00-00T00:00:00Z/9,P1326,+1900-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":658,"height":800,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%281851-1900%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c4/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%281851-1900%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c4/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%281851-1900%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:15:23.661619+03:00","reviewedAt":"2026-07-11T02:17:30.218740+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas karūnuotas vyras su šermuonėlių mantija, šarvais, kalaviju ir valdovo insignijomis.","metadataEvidence":"Pavadinimas ir aprašas nurodo Vitaŭt Vialiki / Vytautą Didįjį, Lietuvos didįjį kunigaikštį; data 1851–1900.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Metaduomenys aiškiai įvardija Vytautą, o vaizdas atitinka valdovo portretą.","isPrimary":0},{"mediaId":"m-79dddd30565bc350c4217f0a","title":"Vitaŭt Vialiki. Вітаўт Вялікі (1885).jpg","caption":"1885 m. Vytauto Didžiojo portretinis atvaizdas.","originalTitle":"Vitaŭt Vialiki. Вітаўт Вялікі (1885).jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Kirkor A. H. Vytautas, didis Lietuvos kunįgaiksztis. Tilžeje: kaszta ir spauda Mikszo Jurgio, 1885.","dateDisplay":"1885","dateStart":null,"dateEnd":null,"width":758,"height":817,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%281885%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4a/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%281885%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4a/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%281885%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T00:14:02.901823+03:00","reviewedAt":"2026-07-11T02:14:53.525365+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Profilinis valdovo biustas su puošniu šalmu, plunksna, šarvais ir valdžios lazdomis.","metadataEvidence":"Pavadinimas ir aprašymas nurodo Vitaŭt Vialiki / Vytautas the Great, 1885 m.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Metaduomenys tiesiogiai identifikuoja atvaizduotą asmenį kaip Vytautą Didįjį.","isPrimary":0},{"mediaId":"m-cce7ef2ff57be05f19ef17db","title":"Vitaŭt Vialiki. Вітаўт Вялікі (1930).jpg","caption":"Vytautas Didysis, apie 1930 m. tapytas portretas.","originalTitle":"Vitaŭt Vialiki. Вітаўт Вялікі (1930).jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Maironio lietuvių literatūros muziejus. MLLM MD 1277.","dateDisplay":"circa 1930 date QS:P,+1930-00-00T00:00:00Z/9,P1480,Q5727902","dateStart":null,"dateEnd":null,"width":414,"height":800,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%281930%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/2/2f/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%281930%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/2f/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%281930%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:15:23.657841+03:00","reviewedAt":"2026-07-11T02:17:30.200101+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Karūnuotas valdovas su hermelino apsiaustu, šarvais ir kalaviju, nutapytas reprezentaciniu portreto formatu.","metadataEvidence":"Pavadinimas ir aprašas nurodo „Vitaŭt Vialiki / Vytautas the Great“, data apie 1930 m.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Metaduomenys aiškiai identifikuoja portretuojamą asmenį kaip Vytautą Didįjį.","isPrimary":0},{"mediaId":"m-484ab5f62e4a960c1d978db8","title":"Vitaŭt Vialiki. Вітаўт Вялікі (A. Guagnini, 1578).jpg","caption":"Vytauto Didžiojo atvaizdas iš Alessandro Guagnini leidinio, 1578 m.","originalTitle":"Vitaŭt Vialiki. Вітаўт Вялікі (A. Guagnini, 1578).jpg","creator":"Alessandro Guagnini","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Sarmatiae Europeae descriptio, quae Regnum Poloniae, Lituaniam, Samogitiam, Russiam, Masoviam, Prussiam, Pomeraniam... complectitur","dateDisplay":"1578","dateStart":null,"dateEnd":null,"width":2568,"height":2571,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Guagnini%2C_1578%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/0/01/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Guagnini%2C_1578%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/01/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Guagnini%2C_1578%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"knyga","label":"knyga","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T00:14:02.898607+03:00","reviewedAt":"2026-07-11T02:17:30.193593+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Graviūroje matomas šarvuotas valdovas su kunigaikštiška kepure, skeptru ir ietimi, įrėmintas ornamentais.","metadataEvidence":"Pavadinimas ir aprašas nurodo Vytautą Didįjį; kūrėjas Alessandro Guagnini, 1578 m.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai tiesioginis istorinis Vytauto atvaizdas iš ankstyvo leidinio.","isPrimary":0},{"mediaId":"m-1e708d0a5620d5a9bf639d0d","title":"Vitaŭt Vialiki. Вітаўт Вялікі (A. Guagnini, 1578, 1611).jpg","caption":"Vytauto Didžiojo atvaizdas iš Alessandro Guagnini tradicijos, 1611 m.","originalTitle":"Vitaŭt Vialiki. Вітаўт Вялікі (A. Guagnini, 1578, 1611).jpg","creator":"Alessandro Guagnini","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Kronika Sarmacyey Europskiey, w Ktorey Sie Zamyka krolestwo Polskie ze wszystkiemi Państwy, Xięstwy, y Prowincyami swemi: tudzież też Wielkie Xięstwo Lithew: Ruskie, Pruskie, Zmudzkie, Inflantskie, Moskiewskie, y część Tatarow. Przez Alexandra Gwagnina z Werony ... W Krakowie, w Drukarni Mikołaia Loba, Roku Pańskiego 1611.","dateDisplay":"1611","dateStart":null,"dateEnd":null,"width":1066,"height":1023,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Guagnini%2C_1578%2C_1611%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/5/55/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Guagnini%2C_1578%2C_1611%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/55/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Guagnini%2C_1578%2C_1611%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"karyba","label":"karyba","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T00:14:02.900274+03:00","reviewedAt":"2026-07-11T02:17:30.226352+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Karūnuotas šarvuotas valdovas medalione, laikantis vėliavos kotą ir skeptrą ar buožę.","metadataEvidence":"Pavadinime nurodyta „Vitaŭt Vialiki“, aprašyme – „Grand Duke of Lithuania Vytautas the Great“, kūrėjas Alessandro Guagnini, data 1611 m.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Istorinis portretinis atvaizdas aiškiai identifikuotas kaip Vytautas.","isPrimary":0},{"mediaId":"m-25a52d83da16bb71dce53621","title":"Vitaŭt Vialiki. Вітаўт Вялікі (A. Guagnini, 1578, 1885).jpg","caption":"Vytauto Didžiojo portretas pagal Guagnini atvaizdą, 1885 m.","originalTitle":"Vitaŭt Vialiki. Вітаўт Вялікі (A. Guagnini, 1578, 1885).jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Сапунов А. Витебская старина. Т. 4. Ч. 1. Полоцкое воеводство под властью царя Иоанна Васильевича Грозного (1563-1580); Ч. 2. Полоцкое и Витебское воеводство под властью царя Алексея Михайловича (1654-1667 гг.). — Витебск, 1885. С. 12.","dateDisplay":"1885","dateStart":null,"dateEnd":null,"width":531,"height":622,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Guagnini%2C_1578%2C_1885%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c2/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Guagnini%2C_1578%2C_1885%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c2/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Guagnini%2C_1578%2C_1885%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"knyga","label":"knyga","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T00:14:02.897157+03:00","reviewedAt":"2026-07-11T02:17:30.195282+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Juodai balta iliustracija rodo šarvuotą valdovą su kepure, plunksna, skeptru ir ietimi.","metadataEvidence":"Pavadinimas ir aprašas nurodo Vytautą Didįjį pagal A. Guagnini 1578 m. atvaizdą, 1885 m.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdas yra tiesioginis Vytauto ikonografinio portreto variantas.","isPrimary":0},{"mediaId":"m-bab4d4f2e4fcffa6c0431405","title":"Vitaŭt Vialiki. Вітаўт Вялікі (A. Klukoŭski, 1850).jpg","caption":"Aleksandro Vytauto Didžiojo portretas, Antoni Klukowski, apie 1850 m.","originalTitle":"Vitaŭt Vialiki. Вітаўт Вялікі (A. Klukoŭski, 1850).jpg","creator":"Antoni Klukowski","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Muzeum Narodowe w Krakowie. MNK III-ryc.-36105.","dateDisplay":"circa 1850 date QS:P,+1850-00-00T00:00:00Z/9,P1480,Q5727902","dateStart":null,"dateEnd":null,"width":2547,"height":3910,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Kluko%C5%ADski%2C_1850%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/6/6d/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Kluko%C5%ADski%2C_1850%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/6d/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Kluko%C5%ADski%2C_1850%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"litografija","label":"litografija","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T00:14:02.898869+03:00","reviewedAt":"2026-07-11T02:17:30.196745+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas karūnuotas ir šarvuotas valdovas su mantija bei kardu; apačioje įrašyta „ALEXANDER WITOLD W.X.L.“.","metadataEvidence":"Pavadinimas ir aprašas nurodo Vytautą Didįjį, kūrėjas Antoni Klukowski, apie 1850 m.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Įrašas ir metaduomenys aiškiai identifikuoja Aleksandrą Vytautą, Lietuvos didįjį kunigaikštį.","isPrimary":0},{"mediaId":"m-91da24b2fe281b6c2a89696a","title":"Vitaŭt Vialiki. Вітаўт Вялікі (A. Lesser, 1830-84).jpg","caption":"Aleksanderio Lesserio Vytauto Didžiojo valdovo atvaizdas.","originalTitle":"Vitaŭt Vialiki. Вітаўт Вялікі (A. Lesser, 1830-84).jpg","creator":"Aleksander Lesser","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Muzeum Narodowe w Warszawie. DI 31543 MNW.","dateDisplay":"between 1830 and 1884 date QS:P,+1850-00-00T00:00:00Z/7,P1319,+1830-00-00T00:00:00Z/9,P1326,+1884-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":800,"height":697,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Lesser%2C_1830-84%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/e/e5/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Lesser%2C_1830-84%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/e5/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Lesser%2C_1830-84%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T00:14:02.900694+03:00","reviewedAt":"2026-07-11T02:14:53.520108+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Pavaizduotas soste sėdintis karūnuotas valdovas su vėliava ir skydais; viename skyde matoma Vytis.","metadataEvidence":"Aprašyme nurodyta, kad tai Lietuvos didžiojo kunigaikščio Vytauto Didžiojo paveikslas; failo pavadinime Vitaŭt Vialiki, kūrėjas Aleksander Lesser.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Metaduomenys aiškiai identifikuoja Vytautą, o vaizdas rodo valdovo ikonografiją su Lietuvos simboliais.","isPrimary":0},{"mediaId":"m-d15bf12daf2da3d85cc37a07","title":"Vitaŭt Vialiki. Вітаўт Вялікі (A. Tarasievič, 1675).jpg","caption":"Vytauto Didžiojo atvaizdas, Aleksandro Tarasevičiaus raižinys, 1675 m.","originalTitle":"Vitaŭt Vialiki. Вітаўт Вялікі (A. Tarasievič, 1675).jpg","creator":"Alaksandar Tarasievič (Aleksander Tarasowicz)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Biblioteka Narodowa, G.2165.","dateDisplay":"1675","dateStart":null,"dateEnd":null,"width":424,"height":426,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Tarasievi%C4%8D%2C_1675%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/2/24/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Tarasievi%C4%8D%2C_1675%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/24/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Tarasievi%C4%8D%2C_1675%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T00:14:02.900066+03:00","reviewedAt":"2026-07-11T02:17:30.221679+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas karūnuotas valdovas su skeptru ir apsiaustu; apačioje užrašas „WITOLD. W.XL.“","metadataEvidence":"Pavadinime nurodyta „Vitaŭt Vialiki“, aprašyme – „Grand Duke of Lithuania Vytautas the Great“, data 1675 m., autorius A. Tarasievičius.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdas ir metaduomenys aiškiai identifikuoja Vytautą Didįjį.","isPrimary":0},{"mediaId":"m-ab0b3bb8379a2cf0c44289f8","title":"Vitaŭt Vialiki. Вітаўт Вялікі (A. Tomaszewski, 1837).jpg","caption":"Vytauto Didžiojo portretas, Alojzy Tomaszewski, XIX a.","originalTitle":"Vitaŭt Vialiki. Вітаўт Вялікі (A. Tomaszewski, 1837).jpg","creator":"Alojzy Tomaszewski","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Lwowianin. 1837, T. 1. Tabl. m. s. 50-51.","dateDisplay":"1840 date QS:P571,+1840-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":3659,"height":5561,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Tomaszewski%2C_1837%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/9/98/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Tomaszewski%2C_1837%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/9/98/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28A._Tomaszewski%2C_1837%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T00:14:02.900475+03:00","reviewedAt":"2026-07-11T02:17:30.187642+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas šarvuotas valdovas su kunigaikštiška kepure, skeptru ir ietimi; apačioje įrašyta „Witold Wielki książę Litewski“.","metadataEvidence":"Pavadinimas ir aprašas nurodo „Vitaŭt Vialiki / Vytautas the Great“, kūrėjas Alojzy Tomaszewski, data XIX a.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdas ir įrašas tiesiogiai identifikuoja Vytautą Didįjį.","isPrimary":0},{"mediaId":"m-9271846f686d86ef49142b33","title":"Vitaŭt Vialiki. Вітаўт Вялікі (F. Smuglevič, 1786).jpg","caption":"Scena su Vytautu Didžiuoju prie totorių pasiuntinių, Franciszek Smuglewicz, 1786 m.","originalTitle":"Vitaŭt Vialiki. Вітаўт Вялікі (F. Smuglevič, 1786).jpg","creator":"Franciszek Smuglewicz","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Gabinet Rycin Biblioteki Uniwersyteckiej w Warszawie. Inw.zb.d. 10400.","dateDisplay":"1786","dateStart":null,"dateEnd":null,"width":2221,"height":1500,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28F._Smuglevi%C4%8D%2C_1786%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/0/09/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28F._Smuglevi%C4%8D%2C_1786%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/09/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28F._Smuglevi%C4%8D%2C_1786%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"diplomatas","label":"diplomatas","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"scena","label":"scena","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:15:23.663334+03:00","reviewedAt":"2026-07-11T02:17:30.231296+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Palapinės scenoje matomas šarvuotas stovintis valdovas ir kiti asmenys; apačioje rankraštinis tekstas prasideda „Roku 1390. Witold W.X.L...“.","metadataEvidence":"Pavadinime nurodyta „Vitaŭt Vialiki“, aprašyme – „Grand Duke of Lithuania Vytautas the Great“, autorius Franciszek Smuglewicz, data 1786 m.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Scena ir įrašas aiškiai vaizduoja Vytautą, todėl ryšys su target yra tiesioginis.","isPrimary":0},{"mediaId":"m-1d7eddf304eaada630f0e2e4","title":"Vitaŭt Vialiki. Вітаўт Вялікі (J. Aziambłoŭski, 1839).jpg","caption":"Vytauto Didžiojo portretas, Józefo Oziębłowskio atvaizdas, 1839 m.","originalTitle":"Vitaŭt Vialiki. Вітаўт Вялікі (J. Aziambłoŭski, 1839).jpg","creator":"Józef Oziębłowski","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Narbutt T. Dzieje narodu litewskiego. T. 6, Panowanie Witolda w wieku piętnastym. Wilno, 1839. Lietuvos dailės muziejus. LDM G 10722.","dateDisplay":"1839","dateStart":null,"dateEnd":null,"width":1024,"height":1453,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28J._Aziamb%C5%82o%C5%ADski%2C_1839%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/8/8d/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28J._Aziamb%C5%82o%C5%ADski%2C_1839%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/8/8d/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28J._Aziamb%C5%82o%C5%ADski%2C_1839%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"karyba","label":"karyba","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:15:23.662582+03:00","reviewedAt":"2026-07-11T02:17:30.224329+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Šarvuotas karūnuotas vyras su ietimi ir vėliava; po atvaizdu įrašas „Witold“ ir rankraštinis „W. X. Litewski“.","metadataEvidence":"Pavadinime nurodyta „Vitaŭt Vialiki“, aprašyme – „Grand Duke of Lithuania Vytautas the Great“, autorius Józef Oziębłowski, data 1839 m.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Užrašas ir metaduomenys patvirtina, kad tai Vytauto atvaizdas.","isPrimary":0},{"mediaId":"m-2d72aff9a456f81aec23e64b","title":"Vitaŭt Vialiki. Вітаўт Вялікі (J. Aziambłoŭski, 1840) (2).jpg","caption":"Vytautas Didysis, Józefo Oziębłowskio 1840 m. portreto variantas.","originalTitle":"Vitaŭt Vialiki. Вітаўт Вялікі (J. Aziambłoŭski, 1840) (2).jpg","creator":"Józef Oziębłowski","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Kraszewski J. I. Wilno od początków jego do roku 1750. T. 1. S. 89.","dateDisplay":"1840 date QS:P571,+1840-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":1460,"height":2468,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28J._Aziamb%C5%82o%C5%ADski%2C_1840%29_%282%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/9/90/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28J._Aziamb%C5%82o%C5%ADski%2C_1840%29_%282%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/9/90/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28J._Aziamb%C5%82o%C5%ADski%2C_1840%29_%282%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"litografija","label":"litografija","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:15:23.658068+03:00","reviewedAt":"2026-07-11T02:17:30.201602+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Pavaizduotas karūnuotas valdovas su šarvais ir apsiaustu; apačioje matomas „WITOLD W. K. L.“.","metadataEvidence":"Pavadinimas ir aprašas nurodo Vytautą Didįjį, Józefą Oziębłowskį ir 1840 m.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdas yra tiesioginis to paties Vytauto portreto variantas.","isPrimary":0},{"mediaId":"m-58015edc64d7dd16971c2487","title":"Vitaŭt Vialiki. Вітаўт Вялікі (J. Aziambłoŭski, 1840) (3).jpg","caption":"Vytautas Didysis, J. Oziębłowskio 1840 m. atvaizdas","originalTitle":"Vitaŭt Vialiki. Вітаўт Вялікі (J. Aziambłoŭski, 1840) (3).jpg","creator":"Józef Oziębłowski","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Vilnia University Library","dateDisplay":"1840 date QS:P571,+1840-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":1757,"height":2766,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28J._Aziamb%C5%82o%C5%ADski%2C_1840%29_%283%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/5/56/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28J._Aziamb%C5%82o%C5%ADski%2C_1840%29_%283%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/56/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28J._Aziamb%C5%82o%C5%ADski%2C_1840%29_%283%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"litografija","label":"litografija","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:15:23.658947+03:00","reviewedAt":"2026-07-11T02:17:30.205953+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Apačioje įrašyta „WITOLD W. K. L.“, figūra pavaizduota su karūna, šarvais ir valdovo apsiaustu.","metadataEvidence":"Pavadinimas ir aprašas nurodo Vytautą Didįjį; kūrėjas Józef Oziębłowski, data 1840 m.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Metaduomenys ir vaizdo užrašas tiesiogiai sieja atvaizdą su Vytautu.","isPrimary":0},{"mediaId":"m-26f02b1d51fcb3413d9f1702","title":"Vitaŭt Vialiki. Вітаўт Вялікі (J. Aziambłoŭski, 1840).jpg","caption":"Józefo Oziębłowskio 1840 m. Vytauto Didžiojo portretas.","originalTitle":"Vitaŭt Vialiki. Вітаўт Вялікі (J. Aziambłoŭski, 1840).jpg","creator":"Józef Oziębłowski","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Kraszewski J. I. Wilno od początków jego do roku 1750. T. 1. S. 89.","dateDisplay":"1840 date QS:P571,+1840-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":2514,"height":4440,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28J._Aziamb%C5%82o%C5%ADski%2C_1840%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/0/01/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28J._Aziamb%C5%82o%C5%ADski%2C_1840%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/01/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28J._Aziamb%C5%82o%C5%ADski%2C_1840%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T00:14:02.902300+03:00","reviewedAt":"2026-07-11T02:14:53.527394+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Karūnuotas valdovas su šarvais ir mantija, apačioje įrašas „WITOLD“.","metadataEvidence":"Pavadinime nurodyta Vitaŭt Vialiki / Vytautas the Great, autorius Józef Oziębłowski, 1840 m.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Įrašas ir metaduomenys aiškiai identifikuoja portretą kaip Vytautą.","isPrimary":0},{"mediaId":"m-d40580df0a4d385cdf5d7d00","title":"Vitaŭt Vialiki. Вітаўт Вялікі (J. Hesse, 1842).jpg","caption":"Vytauto Didžiojo portretas, Jan Hesse, 1842 m.","originalTitle":"Vitaŭt Vialiki. Вітаўт Вялікі (J. Hesse, 1842).jpg","creator":"Jan Hesse","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Muzeum Narodowe w Krakowie. MNK III-ryc.-36104.","dateDisplay":"1842","dateStart":null,"dateEnd":null,"width":2142,"height":3867,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28J._Hesse%2C_1842%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/7/78/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28J._Hesse%2C_1842%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/7/78/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28J._Hesse%2C_1842%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:15:23.663159+03:00","reviewedAt":"2026-07-11T02:17:30.229803+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Stovintis valdovas su karūna, šarvais, apsiaustu ir kalaviju; apačioje matomas įrašas „WITOLD W.X.L.“","metadataEvidence":"Pavadinime nurodyta „Vitaŭt Vialiki“, aprašyme – „Grand Duke of Lithuania Vytautas the Great“, autorius Jan Hesse, data 1842 m.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Užrašas paveiksle ir metaduomenys vienareikšmiškai sieja vaizdą su Vytautu.","isPrimary":0},{"mediaId":"m-c3cdf2ed3b7f84c7ecb7ec6f","title":"Vitaŭt Vialiki. Вітаўт Вялікі (J. Polkowski, 1864).jpg","caption":"Józefo Tadeuszo Polkowskio 1864 m. Vytauto Didžiojo portretas.","originalTitle":"Vitaŭt Vialiki. Вітаўт Вялікі (J. Polkowski, 1864).jpg","creator":"Józef Tadeusz Polkowski","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Biblioteka Narodowa. G.29035/I.","dateDisplay":"1864","dateStart":null,"dateEnd":null,"width":3865,"height":6362,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28J._Polkowski%2C_1864%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d6/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28J._Polkowski%2C_1864%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d6/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28J._Polkowski%2C_1864%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T00:14:02.902499+03:00","reviewedAt":"2026-07-11T02:14:53.528333+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Karūnuotas valdovas šarvais ir mantija, kompozicijoje matomas skydas su raitelio simboliu.","metadataEvidence":"Pavadinimas ir aprašymas nurodo Vitaŭt Vialiki / Vytautas the Great, kūrėjas Józef Tadeusz Polkowski, 1864 m.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Metaduomenys tiesiogiai patvirtina, kad tai Vytauto Didžiojo atvaizdas.","isPrimary":0},{"mediaId":"m-6cf00eb9b49f971b1ba818df","title":"Vitaŭt Vialiki. Вітаўт Вялікі (J. Ziankievič, 1853).jpg","caption":"Vytauto Didžiojo portretas, Jan Ziankievič, 1853 m.","originalTitle":"Vitaŭt Vialiki. Вітаўт Вялікі (J. Ziankievič, 1853).jpg","creator":"Jan Ziankievič","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Lithuanian National Museum","dateDisplay":"1853","dateStart":null,"dateEnd":null,"width":425,"height":676,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28J._Ziankievi%C4%8D%2C_1853%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/5/54/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28J._Ziankievi%C4%8D%2C_1853%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/54/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28J._Ziankievi%C4%8D%2C_1853%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"drabužis","label":"drabužis","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:15:23.662956+03:00","reviewedAt":"2026-07-11T02:17:30.228214+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Stovintis karūnuotas valdovas su šermuonėlių apsiaustu, šarvais ir kalaviju.","metadataEvidence":"Pavadinime nurodyta „Vitaŭt Vialiki“, aprašyme – „Grand Duke of Lithuania Vytautas the Great“, autorius Jan Ziankievič, data 1853 m.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Metaduomenys ir valdovo ikonografija rodo tiesioginį Vytauto atvaizdą.","isPrimary":0},{"mediaId":"m-ef3a92e376d5c48b81f60aaf","title":"Vitaŭt Vialiki. Вітаўт Вялікі (J. Ziankievič, 1864).jpg","caption":"Vytautas Didysis, Jano Ziankievičiaus paveikslas, 1864–1870 m.","originalTitle":"Vitaŭt Vialiki. Вітаўт Вялікі (J. Ziankievič, 1864).jpg","creator":"Jan Ziankievič","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Church of Saints Peter and Paul in Kowna","dateDisplay":"between 1864 and 1870 date QS:P,+1850-00-00T00:00:00Z/7,P1319,+1864-00-00T00:00:00Z/9,P1326,+1870-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":273,"height":500,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28J._Ziankievi%C4%8D%2C_1864%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/6/68/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28J._Ziankievi%C4%8D%2C_1864%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/68/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28J._Ziankievi%C4%8D%2C_1864%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:15:23.665215+03:00","reviewedAt":"2026-07-11T02:17:30.241759+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas visu ūgiu pavaizduotas valdovas su karūna, kailiu puoštu apsiaustu ir kalaviju.","metadataEvidence":"Pavadinime „Vitaŭt Vialiki“, apraše „Painting of the Grand Duke of Lithuania Vytautas the Great“, kūrėjas Jan Ziankievič.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Aiškiai identifikuotas Vytauto Didžiojo istorinis portretas.","isPrimary":0},{"mediaId":"m-c6a643bef80f021679128f09","title":"Vitaŭt Vialiki. Вітаўт Вялікі (M. Barvicki, 1908).jpg","caption":"M. Barvickio Vytauto Didžiojo atvaizdas.","originalTitle":"Vitaŭt Vialiki. Вітаўт Вялікі (M. Barvicki, 1908).jpg","creator":"Мечыслаў Барвіцкі","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Nacionalinis M. K. Čiurlionio dailės muziejus","dateDisplay":"1908","dateStart":null,"dateEnd":null,"width":476,"height":800,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28M._Barvicki%2C_1908%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5e/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28M._Barvicki%2C_1908%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5e/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28M._Barvicki%2C_1908%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T00:14:02.899853+03:00","reviewedAt":"2026-07-11T02:14:53.515627+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Pavaizduotas karūnuotas šarvuotas valdovas su kalaviju ir skydu; apačioje ranka įrašyta „Witold“ ir datos 1392-1430.","metadataEvidence":"Aprašyme nurodyta: „Painting of the Grand Duke of Lithuania Vytautas the Great“, failo pavadinime Vitaŭt Vialiki, kūrėjas M. Barvicki, 1908.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Portretas turi ir vizualų vardinį įrašą, ir metaduomenų identifikaciją su Vytautu.","isPrimary":0},{"mediaId":"m-a3e0336946b8605650d43434","title":"Vitaŭt Vialiki. Вітаўт Вялікі (R. Žukoŭski, XIX).jpg","caption":"Vytauto Didžiojo portretas, Rudolf Žukoŭski, XIX a.","originalTitle":"Vitaŭt Vialiki. Вітаўт Вялікі (R. Žukoŭski, XIX).jpg","creator":"Rudolf Žukoŭski","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Lietuvos dailės muziejus","dateDisplay":"19 th century date QS:P,+1850-00-00T00:00:00Z/7","dateStart":null,"dateEnd":null,"width":337,"height":455,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28R._%C5%BDuko%C5%ADski%2C_XIX%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1a/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28R._%C5%BDuko%C5%ADski%2C_XIX%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1a/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28R._%C5%BDuko%C5%ADski%2C_XIX%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:15:23.663542+03:00","reviewedAt":"2026-07-11T02:17:30.232453+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Karūnuotas valdovas su šarvais ir apsiaustu stovi interjere; šalia matomas herbinis skydas.","metadataEvidence":"Pavadinime nurodyta „Vitaŭt Vialiki“, aprašyme – „Grand Duke of Lithuania Vytautas the Great“, autorius Rudolf Žukoŭski, data XIX a.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Metaduomenys aiškiai identifikuoja portretą kaip Vytauto Didžiojo atvaizdą.","isPrimary":0},{"mediaId":"m-b439b9ea85a1a40d2d56519f","title":"Vitaŭt Vialiki. Вітаўт Вялікі (V. Dmachoŭski, 1848).jpg","caption":"Vytauto Didžiojo portretas, Vincento Dmochowskio paveikslas, 1848 m.","originalTitle":"Vitaŭt Vialiki. Вітаўт Вялікі (V. Dmachoŭski, 1848).jpg","creator":"Wincenty Dmochowski","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Biblioteka Jagiellońska. BJ Graf. I.R. 1059.","dateDisplay":"1848","dateStart":null,"dateEnd":null,"width":582,"height":722,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28V._Dmacho%C5%ADski%2C_1848%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d1/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28V._Dmacho%C5%ADski%2C_1848%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d1/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28V._Dmacho%C5%ADski%2C_1848%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:15:23.660585+03:00","reviewedAt":"2026-07-11T02:17:30.212287+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas karūnuotas šarvuotas valdovas su mantija ir valdžios lazda, portretinis biustas ovaliame formate.","metadataEvidence":"Pavadinimas ir aprašas tiesiogiai nurodo Vitaŭt Vialiki / Vytautą Didįjį, Lietuvos didįjį kunigaikštį; autorius ir data pateikti kaip V. Dmochowski, 1848.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Metaduomenys aiškiai identifikuoja Vytautą Didįjį, o vaizdas yra jo portretinis valdovo atvaizdas.","isPrimary":0},{"mediaId":"m-07b98ddb6657ef599a10a45d","title":"Vitaŭt Vialiki. Вітаўт Вялікі (V. Dmachoŭski, 1854).jpg","caption":"Vytauto Didžiojo portretas, Vincento Dmochowskio paveikslas, 1854 m.","originalTitle":"Vitaŭt Vialiki. Вітаўт Вялікі (V. Dmachoŭski, 1854).jpg","creator":"Wincenty Dmochowski","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Киркор А. Черты из истории и жизни литовского народа. Вильно, 1854.","dateDisplay":"1854","dateStart":null,"dateEnd":null,"width":250,"height":308,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28V._Dmacho%C5%ADski%2C_1854%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/1/15/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28V._Dmacho%C5%ADski%2C_1854%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/15/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28V._Dmacho%C5%ADski%2C_1854%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:15:23.660786+03:00","reviewedAt":"2026-07-11T02:17:30.213715+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas karūnuotas šarvuotas valdovas su mantija ir lazda, nukreiptas profiliu.","metadataEvidence":"Pavadinimas ir aprašas nurodo Vytautą Didįjį, Lietuvos didįjį kunigaikštį; data 1854, autorius Vincentas Dmochowskis.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tapatybė pakankamai pagrįsta metaduomenimis ir vaizdas tiesiogiai vaizduoja valdovą.","isPrimary":0},{"mediaId":"m-a122c7776956396d14c6dfef","title":"Vitaŭt Vialiki. Вітаўт Вялікі (V. Słaviecki, 1831-41) (2).jpg","caption":"Vytauto Didžiojo portretinis atvaizdas, Vincento Słavieckio darbas, 1831–1841 m.","originalTitle":"Vitaŭt Vialiki. Вітаўт Вялікі (V. Słaviecki, 1831-41) (2).jpg","creator":"Vincent Słaviecki","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Lietuvos dailės muziejus","dateDisplay":"between 1831 and 1841 date QS:P,+1850-00-00T00:00:00Z/7,P1319,+1831-00-00T00:00:00Z/9,P1326,+1841-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":1024,"height":1795,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28V._S%C5%82aviecki%2C_1831-41%29_%282%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/6/61/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28V._S%C5%82aviecki%2C_1831-41%29_%282%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/61/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28V._S%C5%82aviecki%2C_1831-41%29_%282%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"litografija","label":"litografija","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:15:23.661804+03:00","reviewedAt":"2026-07-11T02:17:30.220316+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas stovintis valdovas su kalaviju, mantija ir karūna ant stalo; apačioje įrašyta „WITOLD W. X. LIT.“","metadataEvidence":"Pavadinimas ir aprašas nurodo Vitaŭt Vialiki / Vytautą Didįjį, autorius V. Słaviecki, data 1831–1841.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdo užrašas ir metaduomenys tiesiogiai identifikuoja Vytautą Didįjį.","isPrimary":0},{"mediaId":"m-a6684ef6e82e8375a5efb21e","title":"Vitaŭt Vialiki. Вітаўт Вялікі (V. Słaviecki, 1831-41).jpg","caption":"Vytautas Didysis, Vincento Słavieckio piešinys, 1831–1841 m.","originalTitle":"Vitaŭt Vialiki. Вітаўт Вялікі (V. Słaviecki, 1831-41).jpg","creator":"Vincent Słaviecki","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Lietuvos dailės muziejus","dateDisplay":"between 1831 and 1841 date QS:P,+1850-00-00T00:00:00Z/7,P1319,+1831-00-00T00:00:00Z/9,P1326,+1841-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":1794,"height":3000,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28V._S%C5%82aviecki%2C_1831-41%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/8/8d/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28V._S%C5%82aviecki%2C_1831-41%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/8/8d/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28V._S%C5%82aviecki%2C_1831-41%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:15:23.663721+03:00","reviewedAt":"2026-07-11T02:17:30.233581+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas valdovo figūrinis atvaizdas su karališka apranga, kalaviju ir karūna šalia; apačioje įrašas „Witold W. X. Lit.“","metadataEvidence":"Pavadinimas ir aprašas nurodo „Vitaŭt Vialiki / Vytautas the Great“, Lietuvos didįjį kunigaikštį.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Aiškiai identifikuotas istorinis Vytauto Didžiojo atvaizdas.","isPrimary":0},{"mediaId":"m-3cf550452aee94802aa495df","title":"Vitaŭt Vialiki. Вітаўт Вялікі (XIX).jpg","caption":"XIX a. Vytauto Didžiojo portretas.","originalTitle":"Vitaŭt Vialiki. Вітаўт Вялікі (XIX).jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Biblioteka Narodowa","dateDisplay":"19 th century date QS:P571,+1850-00-00T00:00:00Z/7","dateStart":null,"dateEnd":null,"width":6848,"height":10074,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28XIX%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/d/dc/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28XIX%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/d/dc/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28XIX%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T00:14:02.902091+03:00","reviewedAt":"2026-07-11T02:14:53.526409+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Viso ūgio karūnuotas valdovas su šarvais, mantija; apačioje įrašas „WYTOLD W. K. L.“, šalia skydas su raiteliu.","metadataEvidence":"Pavadinimas ir aprašymas nurodo Vitaŭt Vialiki / Vytautas the Great, Grand Duke of Lithuania.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdas ir įrašas tiesiogiai patvirtina Vytauto tapatybę.","isPrimary":0},{"mediaId":"m-5f9421818d1ac9542f1ab16d","title":"Vitaŭt Vialiki. Вітаўт Вялікі (XVII).jpg","caption":"Vytauto Didžiojo XVII a. portretinis atvaizdas","originalTitle":"Vitaŭt Vialiki. Вітаўт Вялікі (XVII).jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"1. Витовт Чаропко. Великий князь Витовт. Мн., 2010. 2. Trakų bažnyčia. Vytauto Didžiojo portretas .","dateDisplay":"17 th century date QS:P,+1650-00-00T00:00:00Z/7","dateStart":null,"dateEnd":null,"width":522,"height":1000,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28XVII%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4a/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28XVII%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4a/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28XVII%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:15:23.658654+03:00","reviewedAt":"2026-07-11T02:17:30.204278+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas visu ūgiu pavaizduotas valdovas su kunigaikščio regalijomis; apačioje įrašas mini „Alexander Witoldus Magnus Dux Litvaniae“.","metadataEvidence":"Pavadinimas ir aprašas nurodo „Vitaŭt Vialiki“ ir „Grand Duke of Lithuania Vytautas the Great“, data – XVII a.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdas ir įrašas tiesiogiai identifikuoja Vytautą Didįjį, ne tik bendrą valdovo tipą.","isPrimary":0},{"mediaId":"m-d0e6857061d1744a3f518af6","title":"Vitaŭt Vialiki. Вітаўт Вялікі (XVII, 1893).jpg","caption":"Vytauto Didžiojo portretinis paveikslas","originalTitle":"Vitaŭt Vialiki. Вітаўт Вялікі (XVII, 1893).jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Trakų istorijos muziejus","dateDisplay":"17 th century date QS:P,+1650-00-00T00:00:00Z/7 1893","dateStart":null,"dateEnd":null,"width":1140,"height":2854,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28XVII%2C_1893%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c7/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28XVII%2C_1893%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c7/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28XVII%2C_1893%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:15:23.659246+03:00","reviewedAt":"2026-07-11T02:17:30.207708+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas valdovas su regalijomis, kailiniu apsiaustu, kalaviju ir kunigaikštiškais atributais; kompozicija atitinka Vytauto portretų ikonografiją.","metadataEvidence":"Pavadinimas ir aprašas nurodo „Vitaŭt Vialiki“ / Vytautą Didįjį, XVII a. tradicijos atvaizdą su 1893 m. nuoroda.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai ne bendrinis valdovas, o metaduomenimis ir ikonografija identifikuotas Vytauto atvaizdas.","isPrimary":0},{"mediaId":"m-d0f45f8e764022d84712e3d2","title":"Vitaŭt Vialiki. Вітаўт Вялікі (XVIII) (2).jpg","caption":"XVIII a. Vytauto Didžiojo portretas.","originalTitle":"Vitaŭt Vialiki. Вітаўт Вялікі (XVIII) (2).jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Lietuvos dailės muziejus","dateDisplay":"18 th century date QS:P,+1750-00-00T00:00:00Z/7","dateStart":null,"dateEnd":null,"width":2116,"height":3039,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28XVIII%29_%282%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5a/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28XVIII%29_%282%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5a/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28XVIII%29_%282%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T00:14:02.901597+03:00","reviewedAt":"2026-07-11T02:14:53.524187+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Karūnuotas valdovas su šarvais, mantija ir valdovo atributais.","metadataEvidence":"Pavadinimas ir aprašymas identifikuoja kaip Vitaŭt Vialiki / Vytautas the Great, Grand Duke of Lithuania.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Konkretus vaizdas pateiktas kaip Vytauto Didžiojo portretas.","isPrimary":0},{"mediaId":"m-989533b28dc1a535cd1cf93c","title":"Vitaŭt Vialiki. Вітаўт Вялікі (XVIII).jpg","caption":"Vytauto Didžiojo XVIII a. portretas","originalTitle":"Vitaŭt Vialiki. Вітаўт Вялікі (XVIII).jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Витовт Чаропко. Великий князь Витовт. Менск, 2010. [1] [ dead link ]","dateDisplay":"18 th century date QS:P,+1750-00-00T00:00:00Z/7","dateStart":null,"dateEnd":null,"width":1580,"height":2563,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28XVIII%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a2/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28XVIII%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a2/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28XVIII%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:15:23.659920+03:00","reviewedAt":"2026-07-11T02:17:30.210741+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Apačioje įrašyta „ALEXANDER WITOLDUS MAGNUS DUX LITHUANIAE“; figūra su kunigaikščio apsiaustu, šarvais ir regalijomis.","metadataEvidence":"Pavadinimas ir aprašas nurodo „Vitaŭt Vialiki“ ir Vytautą Didįjį, data XVIII a.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdo užrašas ir metaduomenys aiškiai identifikuoja konkretų target.","isPrimary":0},{"mediaId":"m-e510b14e04cbf3694a3520e2","title":"Vitaŭt Vialiki. Вітаўт Вялікі (XX).jpg","caption":"Vytautas Didysis, nežinomo autoriaus paveikslas, iki 1941 m.","originalTitle":"Vitaŭt Vialiki. Вітаўт Вялікі (XX).jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Alytaus Kraštotyros muziejus","dateDisplay":"before 1941 date QS:P,+1941-00-00T00:00:00Z/7,P1326,+1941-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":1054,"height":1429,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28XX%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/2/24/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28XX%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/24/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28XX%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"karyba","label":"karyba","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:15:23.664246+03:00","reviewedAt":"2026-07-11T02:17:30.236246+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas profiliu pavaizduotas valdovas su puošniu šalmu, lazda ir skydu su Vyčio simboliu.","metadataEvidence":"Aprašas: „Painting of the Grand Duke of Lithuania Vytautas the Great“, pavadinime „Vitaŭt Vialiki“.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tapatybė aiškiai pagrįsta metaduomenimis ir vaizdo atributika.","isPrimary":0},{"mediaId":"m-d2c4738684a48dbed6e7277e","title":"Vitaŭt Vialiki. Вітаўт Вялікі (Z. Gloger, 1900).jpg","caption":"Vytautas Didysis, Zygmunto Glogerio piešinys, iki 1901 m.","originalTitle":"Vitaŭt Vialiki. Вітаўт Вялікі (Z. Gloger, 1900).jpg","creator":"Zygmunt Gloger","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Archiwum Narodowe w Krakowie. 29/678/0/12.","dateDisplay":"before 1901 date QS:P,+1901-00-00T00:00:00Z/7,P1326,+1901-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":1114,"height":2518,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28Z._Gloger%2C_1900%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d5/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28Z._Gloger%2C_1900%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d5/Vita%C5%ADt_Vialiki._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96_%28Z._Gloger%2C_1900%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:15:23.658308+03:00","reviewedAt":"2026-07-11T02:17:30.203134+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Ranka pieštas karūnuoto valdovo su šarvais, apsiaustu ir kalaviju atvaizdas; šalia užrašyta „Witold“ ir biografinės datos.","metadataEvidence":"Pavadinimas ir aprašas nurodo „Vitaŭt Vialiki / Vytautas the Great“, kūrėją Zygmuntą Glogerį ir datą iki 1901 m.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tekstas vaizde ir metaduomenys aiškiai patvirtina, kad tai Vytautas.","isPrimary":0},{"mediaId":"m-dcdbe87268bf50ba7819977b","title":"Vitaŭt. Вітаўт (XVIII).jpg","caption":"Vytautas Didysis, XVIII a. portretas.","originalTitle":"Vitaŭt. Вітаўт (XVIII).jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Lietuvos nacionalinis muziejus. LNM T 5. Витовт Чаропко. Великий князь Витовт. Минск, 2010.","dateDisplay":"18 th century date QS:P,+1750-00-00T00:00:00Z/7","dateStart":null,"dateEnd":null,"width":563,"height":800,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%28XVIII%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c4/Vita%C5%ADt._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%28XVIII%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c4/Vita%C5%ADt._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%28XVIII%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:15:23.664645+03:00","reviewedAt":"2026-07-11T02:17:30.238900+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas jauno valdovo portretas ovale, su raudona kepure, šarvais, grandine ir kailiu puoštu apsiaustu.","metadataEvidence":"Aprašas nurodo „Painting of the Grand Duke of Lithuania Vytautas the Great“, data XVIII a.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Metaduomenys aiškiai patvirtina, kad portretas vaizduoja Vytautą Didįjį.","isPrimary":0},{"mediaId":"m-51353d97f244528b962f46db","title":"Vytautas the great.png","caption":"XVII a. Vytauto Didžiojo tapytas portretas.","originalTitle":"Vytautas the great.png","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"http://ldmuziejus.mch.mii.lt/Ekspozicijos/Vytautas_Didysis.htm","dateDisplay":"17 th century date QS:P,+1650-00-00T00:00:00Z/7","dateStart":null,"dateEnd":null,"width":326,"height":481,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVytautas_the_great.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/5/52/Vytautas_the_great.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/52/Vytautas_the_great.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T00:14:02.898107+03:00","reviewedAt":"2026-07-11T02:14:53.505978+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas karūnuotas valdovas su ermine primenančiu apsiaustu, šarvais ir kardu.","metadataEvidence":"Pavadinimas „Vytautas the great.png“, aprašymas nurodo Lietuvos didįjį kunigaikštį Vytautą Didįjį, data apie XVII a.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Metaduomenys tiesiogiai identifikuoja portretuojamą asmenį kaip Vytautą.","isPrimary":0},{"mediaId":"m-c0011d2677e2dcece9cf8f30","title":"Wielki książę litewski Witold.jpg","caption":"Vytauto Didžiojo portretas pagal Jano Mateikos 1866 m. kūrinį.","originalTitle":"Wielki książę litewski Witold.jpg","creator":"Jan Matejko","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Kazimierz Władysław Wójcicki \"Album Jana Matejki\", 1876","dateDisplay":"1866","dateStart":null,"dateEnd":null,"width":1713,"height":2298,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AWielki_ksi%C4%85%C5%BC%C4%99_litewski_Witold.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/8/8e/Wielki_ksi%C4%85%C5%BC%C4%99_litewski_Witold.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/8/8e/Wielki_ksi%C4%85%C5%BC%C4%99_litewski_Witold.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T00:14:02.897827+03:00","reviewedAt":"2026-07-11T02:14:53.501779+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas valdovas su karūnišku galvos apdangalu, kailiniu apsiaustu, šarvais ir kalaviju, sėdintis reprezentacine poza.","metadataEvidence":"Pavadinimas nurodo „Wielki książę litewski Witold“, aprašymas tiesiogiai įvardija Vytautą Didįjį, kūrėjas Jan Matejko, data 1866.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Metaduomenys ir vaizdinis tipas aiškiai rodo istorinį Vytauto Didžiojo portretą.","isPrimary":0},{"mediaId":"m-c7367f575ad13fe8d4204619","title":"M. Barkausko, gyvenusio Kuršėnuose, Vytauto Didžiojo paveikslas 1930 m. nešamas apie Lietuvą","caption":"Vytauto Didžiojo paveikslo nešimas Palangoje, 1930 m.","originalTitle":"M. Barkausko, gyvenusio Kuršėnuose, Vytauto Didžiojo paveikslas 1930 m. nešamas apie Lietuvą","creator":"Nežinomas fotografas","provider":"europeana","providerLabel":"Europeana","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"http://creativecommons.org/publicdomain/mark/1.0/","attribution":"","dateDisplay":"","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021802/LIMIS_724702788","sourceUrl":"https://www.epaveldas.lt/static/zam-bucket/LIMIS-724702788/thumbnail-original/724702808.jpg","thumbUrl":"https://www.epaveldas.lt/static/zam-bucket/LIMIS-724702788/thumbnail-original/724702808.jpg","institution":"Samogitian Museum \"Alka\"","collection":"","country":"","language":"","tags":[{"code":"dokumentas","label":"dokumentas","facetKind":"vaizdo_tipas","confidence":1.0}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"event_documentation_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T00:20:48.484463+03:00","reviewedAt":"2026-07-11T00:21:21.407415+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Fotografijoje matomas žmonių laikomas stendas su Vytauto portretu, užrašu apie Vytautą ir datomis „1430–1930“.","metadataEvidence":"Pavadinimas ir aprašymas nurodo, kad tai Vytauto Didžiojo paveikslo kelionė per Lietuvą 1930 m.","confidenceLevel":"high","relationType":"event_documentation_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Fotografija tiesiogiai dokumentuoja Vytauto Didžiojo paveikslo viešą nešimą, todėl ryšys aiškus, bet pats pagrindinis objektas yra dokumentuotas įvykis.","isPrimary":0},{"mediaId":"m-9c29bb67d5143a97f7907180","title":"Vitaŭt Vialiki, Pahonia. Вітаўт Вялікі, Пагоня (1385).jpg","caption":"Vytauto Didžiojo antspaudas su Pahonia / Vyčiu, 1385 m.","originalTitle":"Vitaŭt Vialiki, Pahonia. Вітаўт Вялікі, Пагоня (1385).jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"","dateDisplay":"1385","dateStart":null,"dateEnd":null,"width":601,"height":607,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki%2C_Pahonia._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%281385%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/6/61/Vita%C5%ADt_Vialiki%2C_Pahonia._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%281385%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/61/Vita%C5%ADt_Vialiki%2C_Pahonia._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%281385%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.82},{"code":"vytis","label":"vytis","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"seal_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T00:14:02.900910+03:00","reviewedAt":"2026-07-11T02:17:30.237533+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas apskritas, nusidėvėjęs antspaudo atspaudas su raitelio / Pahonia tipo figūra.","metadataEvidence":"Aprašas tiesiogiai nurodo „Seal of the Grand Duke of Lithuania Vytautas the Great“, data 1385 m.","confidenceLevel":"high","relationType":"seal_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdas aiškiai susijęs su Vytautu kaip jo antspaudas, bet nėra tiesioginis asmens portretas.","isPrimary":0},{"mediaId":"m-9d22e349eebbb9f58b1ca524","title":"Vitaŭt Vialiki, Pahonia. Вітаўт Вялікі, Пагоня (1385, 1930).jpg","caption":"Vytauto Didžiojo antspaudas su raiteliu, 1385 m. rekonstrukcija.","originalTitle":"Vitaŭt Vialiki, Pahonia. Вітаўт Вялікі, Пагоня (1385, 1930).jpg","creator":"Marian Gumowski","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"","dateDisplay":"1385, 1930","dateStart":null,"dateEnd":null,"width":330,"height":333,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki%2C_Pahonia._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%281385%2C_1930%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/0/01/Vita%C5%ADt_Vialiki%2C_Pahonia._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%281385%2C_1930%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/01/Vita%C5%ADt_Vialiki%2C_Pahonia._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%281385%2C_1930%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"seal_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T00:14:02.898362+03:00","reviewedAt":"2026-07-11T02:17:30.191779+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas apskritas antspaudo atvaizdas su raiteliu ir aplinkine legenda.","metadataEvidence":"Aprašas nurodo, kad tai Lietuvos didžiojo kunigaikščio Vytauto Didžiojo antspaudas; data 1385, 1930.","confidenceLevel":"high","relationType":"seal_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai ne portretas, bet aiškiai identifikuotas Vytauto antspaudas, todėl ryšys kontekstinis ir stiprus.","isPrimary":0},{"mediaId":"m-1a00bacecf8e2bb4e8149227","title":"Vitaŭt Vialiki, Pahonia. Вітаўт Вялікі, Пагоня (K. Kielisiński, 1404, 1842).jpg","caption":"Vytauto Didžiojo antspaudo atvaizdas su Lietuvos Didžiosios Kunigaikštystės heraldika.","originalTitle":"Vitaŭt Vialiki, Pahonia. Вітаўт Вялікі, Пагоня (K. Kielisiński, 1404, 1842).jpg","creator":"Kajetan Wincenty Kielisiński","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Biblioteka Jagiellońska. BJ Graf. I. 8592.","dateDisplay":"1404, 1842","dateStart":null,"dateEnd":null,"width":1581,"height":1583,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVita%C5%ADt_Vialiki%2C_Pahonia._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%28K._Kielisi%C5%84ski%2C_1404%2C_1842%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c7/Vita%C5%ADt_Vialiki%2C_Pahonia._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%28K._Kielisi%C5%84ski%2C_1404%2C_1842%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c7/Vita%C5%ADt_Vialiki%2C_Pahonia._%D0%92%D1%96%D1%82%D0%B0%D1%9E%D1%82_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D1%96%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%28K._Kielisi%C5%84ski%2C_1404%2C_1842%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.82},{"code":"heraldika","label":"heraldika","facetKind":"tema","confidence":0.82},{"code":"vytis","label":"vytis","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"seal_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T02:15:15.320845+03:00","reviewedAt":"2026-07-11T02:17:50.972766+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas apskritas istorinio antspaudo piešinys su gotikiniu įrašu, centriniu skydu, raiteliu ir kitais heraldiniais laukais.","metadataEvidence":"Pavadinime nurodyta „Vitaŭt Vialiki“ ir „Pahonia“, aprašyme aiškiai sakoma, kad tai Lietuvos didžiojo kunigaikščio Vytauto Didžiojo antspaudas.","confidenceLevel":"high","relationType":"seal_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Konkretus ryšys su target yra aiškus: kandidatas identifikuotas kaip Vytauto Didžiojo antspaudo atvaizdas.","isPrimary":0},{"mediaId":"m-31a4e9b62c25702eb084368b","title":"Wisztyniec 2016 A 656.jpg","caption":"Paminklas Vytautui Vištytyje, 2016 m.","originalTitle":"Wisztyniec 2016 A 656.jpg","creator":"Ciacho5","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2016-01","dateStart":null,"dateEnd":null,"width":3648,"height":2736,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AWisztyniec_2016_A_656.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/1/13/Wisztyniec_2016_A_656.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/13/Wisztyniec_2016_A_656.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"skulptūra","label":"skulptūra","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"paminklas","label":"paminklas","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"statue_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T00:14:02.901179+03:00","reviewedAt":"2026-07-11T02:17:30.240404+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas lauko paminklas su Vytauto biustu viršuje ir Vyčio reljefu ant postamento.","metadataEvidence":"Aprašas nurodo „Monument to Vytautas, Duke of Lithuania“ Vištytyje.","confidenceLevel":"high","relationType":"statue_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Aiškiai pagrįstas Vytauto memorialas, ne atsitiktinė vieta ar bendrinis simbolis.","isPrimary":0},{"mediaId":"m-64c8f6b241dadcbaa07399d7","title":"Moneta. LDK. Vytauto Didžiojo denaras","caption":"LDK Vytauto Didžiojo denaras.","originalTitle":"Moneta. LDK. Vytauto Didžiojo denaras","creator":"","provider":"europeana","providerLabel":"Europeana","license":"http://creativecommons.org/licenses/by/4.0/","rightsNote":"http://creativecommons.org/licenses/by/4.0/","licenseUrl":"http://creativecommons.org/licenses/by/4.0/","attribution":"","dateDisplay":"","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021802/LIMIS_752732193","sourceUrl":"https://www.epaveldas.lt/static/tim-bucket/LIMIS-752732193/thumbnail-original/get.jpg","thumbUrl":"https://www.epaveldas.lt/static/tim-bucket/LIMIS-752732193/thumbnail-original/get.jpg","institution":"Trakai History Museum","collection":"","country":"","language":"","tags":[{"code":"simbolis","label":"simbolis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"daiktas","label":"daiktas","facetKind":"tema","confidence":0.82},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.82},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.82},{"code":"pinigai","label":"pinigai","facetKind":"tema","confidence":0.82},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Vytautas.md","title":"Vytautas (Lietuvos valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"associated_symbol_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T00:20:48.483673+03:00","reviewedAt":"2026-07-11T02:22:51.430597+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomi du smulkūs monetos fragmentai su skalės juostele ir raidėmis „A“ bei „R“, portretinio Vytauto atvaizdo nematyti.","metadataEvidence":"Pavadinimas ir aprašas nurodo „LDK Vytauto Didžiojo denaras“.","confidenceLevel":"medium","relationType":"associated_symbol_of","directness":"contextual","reviewStatus":"accepted","confidence":0.82,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai nėra tiesioginis Vytauto portretas, bet konkrečiai su Vytautu Didžiuoju siejamas LDK denaras, todėl ryšys kontekstinis.","isPrimary":0}]
 ---
 # Vytautas (Lietuvos valdovas, XIV–XV a.)
 
@@ -79,17 +79,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-010
   global_id: t-05208
   teiginys: "Vytauto pasirodymas Dniepro žemupyje šaltinyje siejamas su pastovesnių santykių atsiradimu stepėje."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į Dniepras (0.76)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "64897-65371; hash=5dc09d44a2037ed63f74e07c835fdf6cd56be5eac3e628156d94d7dbdf89f6bd; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Dniepras: 0.76"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Dniepras: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Vytauto pasirodymas Dniepro žemupyje rodo jo atvykimą ar žygį į šią vietą."
   pagrindžia:
     - c-34195
 
@@ -97,17 +86,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-011
   global_id: t-05209
   teiginys: "Vytauto „arklių girdymas“ Juodojoje jūroje ilgai išliko žmonių atmintyje."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) užkariavo Dniepras (0.72)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "64897-65371; hash=5dc09d44a2037ed63f74e07c835fdf6cd56be5eac3e628156d94d7dbdf89f6bd; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzkariavo -> Dniepras: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Dniepras: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citatoje tiesiogiai siejamas Vytauto pasirodymas Dniepro žemupyje su užvaldymu, todėl galima fiksuoti užkariavimo / užvaldymo ryšį."
   pagrindžia:
     - c-34195
 
@@ -115,17 +93,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-012
   global_id: t-05210
   teiginys: "Žemaičiai į Lietuvos valstybę labiau buvo įjungti Vytauto laikais."
-  semantiniai_rysiai: "Žemaičiai priklausė Lietuva (0.84)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "591259-591509; hash=856150fa2d27c65e17797e7c7c8c92909584be58774f5e08aabad33e8cdef443; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Lietuva: 0.84"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Žemaičiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad žemaičiai buvo įjungti į Lietuvos valstybę."
   pagrindžia:
     - c-34197
 
@@ -133,19 +100,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-013
   global_id: t-05211
   teiginys: "Sugrįžęs iš ordino, Vytautas 1384–1389 m. tarnavo Jogailai ir rėmė jo politinius bei kultūrinius žygius."
-  temporaliniai_duomenys: "įvykio data: 1384-1389; įvykio data: 1389 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "823820-824151; hash=3de528b5270397dfc84a349b73b31257c89e190545f49b97ca3a1de4fa26cdb2; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-34201
 
@@ -153,16 +107,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-014
   global_id: t-05212
   teiginys: "Vytautas aktyviai rūpinosi krikščionybės plėtra ir, šaltinio vertinimu, kaip Lietuvos krikščionintojas turėjo žymių nuopelnų greta Jogailos."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1021806-1022166; hash=a5fa1fbfc5119f7f2315c2ea2220cc937017d8e99ce071bba43a5d3864a1bf49; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=77"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-34205
 
@@ -170,16 +114,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-015
   global_id: t-05213
   teiginys: "Vytautas įsteigė ir aprūpino Medininkų vyskupiją bei organizavo eilę parapinių bažnyčių Lietuvoje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1021922-1022345; hash=82ecb7c795e9e97f2975201939ad67031b8fbc4c4b39f68efc3c52058dd31022; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=88"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-34206
 
@@ -187,17 +121,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-016
   global_id: t-05214
   teiginys: "Vytautas laiškuose gynė Lietuvos reikalus ir nepriklausomybę prieš lenkų nusistatymą."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) gynė Lietuva (0.91)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1012470-1012831; hash=c74e6ddf4cf5845351a3a2bafd9efe443640109e25c4a0ae9aacbedb6a43628c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyne -> Lietuva: 0.91"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Vytautas gynė Lietuvos reikalus ir nepriklausomybę."
   pagrindžia:
     - c-34204
     - c-160704
@@ -206,16 +129,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-017
   global_id: t-05215
   teiginys: "Trakų Galvės ežero salos pilis tapo Vytauto Didžiojo pasididžiavimu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "418458-418803; hash=9b1c0b5775b9676430e55a3a970f73fa4636615acf6e5062e82cd5e5cc87ec9c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Galvės ežero salos pilis (pilis): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Galvės ežero salos pilis (pilis): mention_match, place, gap=30"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Galvės ežero salos pilis (pilis)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-34196
 
@@ -223,20 +136,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-018
   global_id: t-05216
   teiginys: "1392 m. gavęs Vilnių Vytautas įgijo didžiojo Lietuvos kunigaikščio titulą."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) valdė miestą Vilnius (0.73)"
-  temporaliniai_duomenys: "įvykio data: 1392 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo datą, veiksmą ir rezultatą, paremtą citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "843310-843599; hash=2e12a80b8a84c77a54bbfd76cd5daf4f4b504f0f67f923347dc07576a5be1da0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde_miesta -> Vilnius: 0.73"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Claim tiesiogiai sako, kad Vytautas gavo Vilnių; tai pagrindžia miesto valdymo ryšį."
   pagrindžia:
     - c-21390
     - c-34198
@@ -246,18 +145,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-019
   global_id: t-05217
   teiginys: "Algirdo pasiektas Okos šaltinių valdas papildomai teužvaldė Vytautas, paimdamas Okos aukštupių kunigaikštijas."
-  temporaliniai_duomenys: "įvykio data: 1362 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "723002-723546; hash=f2b2841c6118b5ca0f301a7bb216a7ddd5933072f306415926d06a990ffa5fed; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person, gap=60"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-34199
 
@@ -265,19 +152,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-020
   global_id: t-05218
   teiginys: "Per 1384-1404 m. Vytautas keturis kartus raštu pažadėjo ordinui Žemaičius ir tiek pat kartų juos vėl susigrąžino."
-  temporaliniai_duomenys: "įvykio data: 1384-1404; įvykio data: 1404 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra konkretus ir atitinka citatoje pateiktą informaciją."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "913508-913842; hash=1bcf9bac733089a2e44f02383724db47d26795c875420396b170f7e892cd3a88; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=39"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-21393
     - c-34202
@@ -286,18 +160,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-021
   global_id: t-05219
   teiginys: "Salyno suvažiavimo puotoje Vytautas buvo paskelbtas Lietuvos karaliumi."
-  temporaliniai_duomenys: "įvykio data: 1392 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "894152-894710; hash=59999d18c9f7263297df3e3080732f782a1f5bf264209d946e977943fb976655; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=25"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-04402
 
@@ -305,19 +167,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-022
   global_id: t-05220
   teiginys: "1404 m. prie Lampėdžių Vytautas pažadėjo per dešimtį metų nepriiminėti iš ordino žemių činšininkų."
-  temporaliniai_duomenys: "įvykio data: 1404 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus ir tiksliai perteikia Vytauto pažadą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "904878-905260; hash=7b2a36c32fe0d1ef31cfbf50295cffaa4533e2128d43e9d3a1ebb1a107486f25; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=51"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-04403
 
@@ -325,16 +174,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-023
   global_id: t-05221
   teiginys: "Vytautas kautynių metu tvarkė pulkus, davinėjo įsakymus, jodinėjo keisdamas žirgus ir atstatinėjo pralaužtas vietas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "926880-927415; hash=a813543824546684e8ee9824e4d1ce4a980bd83d67d69455d6fb2a7446d77a54; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Žirgai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Žirgai: mention_match, thing, gap=76"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Žirgai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-04404
 
@@ -342,9 +181,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-024
   global_id: t-05222
   teiginys: "Vytautui buvo būdingas taupumas, bet jis dosniai švaistydavosi, kai reikėdavo pasirodyti užsieniečiams."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1032378-1032679; hash=dccdd5e2159fe1ede660761fd9fbbef45e8a41e1e4d7bf7f63f42c911b91cf34; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-34207
 
@@ -352,20 +188,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-025
   global_id: t-10104
   teiginys: "1410 m. Vytautas, suvienijęs jėgas su Jogailos vedama Lenkijos kariuomene, Žalgirio mūšyje visiškai sutriuškino Kryžiuočių ordiną."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) kariavo prieš Kryžiuočių ordinas (0.90)"
-  temporaliniai_duomenys: "įvykio data: 1410 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie Vytauto veiksmą ir mūšio rezultatą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "55638-55851; hash=8cd9be8404bcb8bbe607727783d1132bfbadae6cf566985922bf4cb7c8123711; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Kryžiuočių ordinas: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Claim ir citata tiesiogiai nurodo karinį susidūrimą, kuriame Vytautas sutriuškino Kryžiuočių ordiną."
   pagrindžia:
     - c-11544
 
@@ -373,20 +195,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-026
   global_id: t-10105
   teiginys: "Vytautas buvo vienas galingiausių Lietuvos valdovų ir maksimaliai išplėtė valstybę, prijungdamas Smolenską ir pasiekdamas Juodąją jūrą."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) užėmė Smolenskas (0.88); Vytautas (Lietuvos valdovas, XIV–XV a.) valdė Lietuva (0.86)"
-  temporaliniai_duomenys: "įvykio data: 1399 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas, išsamus ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "55853-56103; hash=699760c6fe9a1d133d8ac154f2fcf7e825041424073df8d09626d493d74ea967; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Smolenskas: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Smolenskas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "„Prijungęs Smolenską“ tiesiogiai pagrindžia Smolensko užėmimo / prijungimo ryšį."
   pagrindžia:
     - c-11545
 
@@ -394,20 +202,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-027
   global_id: t-10106
   teiginys: "Vytauto pralaimėjimas totoriams prie Vorsklos 1399 m. sulėtino Lietuvos plėtrą rytuose."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) kariavo prieš Totoriai (0.84)"
-  temporaliniai_duomenys: "įvykio data: 1399 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys su aiškia priežastine pasekme."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "55853-56103; hash=699760c6fe9a1d133d8ac154f2fcf7e825041424073df8d09626d493d74ea967; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Totoriai: 0.84"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Totoriai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Pralaimėjimas totoriams prie Vorsklos tiesiogiai reiškia karinę priešpriešą su totoriais."
   pagrindžia:
     - c-11545
     - c-160650
@@ -416,18 +210,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-028
   global_id: t-10107
   teiginys: "1430 m. spalio 27 d. mirė Vytautas Didysis Kęstutaitis, šaltinyje įvardijamas valstybės galybės kūrėju."
-  temporaliniai_duomenys: "įvykio data: 1430 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "103307-103902; hash=0adc1c33aa30d9febe966e03c8333701fcba46f6eb977a7b20c9ce3d733e9cfb; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): mention_match, person, gap=17"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Kęstutis (vakarų pasienio valdovas, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-160610
     - c-160616
@@ -436,20 +218,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-029
   global_id: t-10108
   teiginys: "Po Žalgirio pergalės 1410 m. ir 1411 m. Torunės taikos Žemaitija Vytautui ir Jogailai atiteko iki gyvos galvos, o Vytautas siekė ją susigrąžinti visam laikui kartu su Klaipėda ir visa Užnemune."
-  semantiniai_rysiai: "Žemaitija priklausė Vytautas (Lietuvos valdovas, XIV–XV a.) (0.84)"
-  temporaliniai_duomenys: "įvykio data: 1410 m.; įvykio data: 1411 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir tiksliai perteikia citatoje pateiktą faktą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "269742-270194; hash=7effdb0030b85a010bec1c68b68d404d66ab6dfaf7ba8478c35831a6e70e09a7; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.84"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Žemaitija: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata tiesiogiai teigia, kad Žemaitija atiteko Vytautui ir Jogailai iki gyvos galvos."
   pagrindžia:
     - c-160720
     - c-160747
@@ -458,16 +226,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-184
   global_id: t-10703
   teiginys: "Vytautas iš Krėvos pabėgo su žmona Ona ir paspruko pas Jonušą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "hash=5f9882b083d4b5c7ea9e9f0eb4dd915834d8182baee692a4a88c9aa266076a45; match=not_found; occurrences=0"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Krėva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Krėva: mention_match, place, gap=12"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Krėva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-00171
 
@@ -475,19 +233,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-185
   global_id: t-10704
   teiginys: "1384 m. Vytautas, ieškodamas ordino paramos, pasižadėjo būti jo vasalu ir buvo pakrikštytas Vygando vardu."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į Lietuva (0.76)"
-  temporaliniai_duomenys: "įvykio data: 1384 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "206706-206950; hash=614d6798629c0250962f3e940bc528f04f9a813488260cdd7a5a6ccdf996ba5e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Lietuva: 0.76"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata nurodo, kad Vytautas buvo išsiųstas su kariuomene į Lietuvą."
   pagrindžia:
     - c-00172
 
@@ -495,16 +240,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-187
   global_id: t-10709
   teiginys: "Lucko suvažiavime Vytautas buvo šeimininkas, o ten iškeltas jo karūnavimo Lietuvos karaliumi sumanymas."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "299689-299995; hash=0bddac43cbe053d66e5b88e5121a5d1ac391c8090aa1fe21e454b3eabbca9c87; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=56"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-160707
 
@@ -512,19 +247,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-142
   global_id: t-176624
   teiginys: "1401 m. Vytautas iškilmingu aktu laidavo, kad po jo mirties Lietuva ir Rusia pereis Jogailos valdžion."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) valdė Lietuva (0.82)"
-  temporaliniai_duomenys: "įvykio data: 1401 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "321855-322628; hash=c95bd9fbfb234d4ed7ebe01a11458f2830a2e71dc2cefcf298e019c3af3f67c9; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde -> Lietuva: 0.82"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata nurodo, kad Jogaila aukščiausiąją valdžią Lietuvoje patikėjo Vytautui."
   pagrindžia:
     - c-160649
 
@@ -532,18 +254,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-152
   global_id: t-176625
   teiginys: "Vytautas tikėjo, kad viename pralaimėtame mūšyje jį išgelbėjo Švč. Mergelė Marija."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "268684-268964; hash=0ad7f16c1c7f67f03ca6415a09588d48539df600dbd2e7d0364a0dc7ad5c1fa1; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Mergelė Marija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Mergelė Marija: mention_match, person, gap=67"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Mergelė Marija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-160639
 
@@ -551,16 +261,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-100
   global_id: t-176626
   teiginys: "Vytautas pirmasis metė Lietuvos kariuomenę į Žalgirio mūšį, nes nesulaukė Jogailos žodžio pradėti kovą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "84275-84496; hash=f92b353dd06b1c6c1600f65903e31609521d62ffb8c831f58a42bc6eebcef5c1; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=23"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-160634
 
@@ -568,17 +268,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-032
   global_id: t-176628
   teiginys: "Vytautas augo susidurdamas ir su pagoniška pasaulėžiūra, ir su krikščionybės idėjomis."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) gyveno Vilnius (0.70)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "41741-42264; hash=0a0baba4d63f074916811d88c516bd046d4d77780d889d6281d62e36e383e319; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Vilnius: 0.70"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata rodo Vytauto buvimą Algirdo šeimoje Vilniuje, kur jis susidurdavo su krikščionybės idėjomis."
   pagrindžia:
     - c-160640
 
@@ -586,17 +275,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-069
   global_id: t-176629
   teiginys: "Vytautas laiškuose gynė Lietuvos reikalus ir nepriklausomybę, nepakęsdamas Didžiosios Lietuvos Kunigaikštijos žeminimo."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) gynė Lietuva (0.91)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1012470-1012831; hash=c74e6ddf4cf5845351a3a2bafd9efe443640109e25c4a0ae9aacbedb6a43628c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyne -> Lietuva: 0.91"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Vytautas gynė Lietuvos reikalus ir nepriklausomybę."
   pagrindžia:
     - c-34204
 
@@ -604,17 +282,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-113
   global_id: t-176630
   teiginys: "Vytauto tolerancijos įvaizdis sietas su totorių pakvietimu į Lietuvą ir žydams suteiktomis privilegijomis."
-  semantiniai_rysiai: "Totoriai keliavo į Lietuva (0.84)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "326541-327165; hash=8b666d5e30a97322b3e146058ce919a5396396073073b37147e64ce7db02ebe0; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Lietuva: 0.84"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Totoriai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad totoriai buvo pakviesti į Lietuvą, todėl palaikomas judėjimas į šią vietą."
   pagrindžia:
     - c-160647
 
@@ -622,20 +289,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-174
   global_id: t-176631
   teiginys: "1401 m. Vytautas davė Jogailai aktą, kad po jo mirties Lietuva ir Rusia pereis karaliaus valdžion."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) valdė Lietuva (0.82)"
-  temporaliniai_duomenys: "įvykio data: 1401 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko faktą apie Vytauto įsipareigojimą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "321692-322289; hash=1d00dbb4a2a019b2b119517b8d27e30f08ff2459597777d723033ffe77240484; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde -> Lietuva: 0.82"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata nurodo, kad Jogaila valdžią Lietuvoje patikėjo Vytautui."
   pagrindžia:
     - c-160670
 
@@ -643,19 +296,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-102
   global_id: t-176632
   teiginys: "Po Žalgirio mūšio atsirado Vytauto funduotų bažnyčių ir vienuolynų, o 1413 m. buvo apkrikštyta Žemaitija."
-  temporaliniai_duomenys: "įvykio data: 1413 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis sakinys per ilgas; citata remia glaustesnį faktą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "88932-89404; hash=50407cef301c05e2ae0bd0435943636dcd14e89066d65afd7ad38e7638ac8c2a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Katalikų Bažnyčia: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Katalikų Bažnyčia: mention_match, group, gap=17"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Katalikų Bažnyčia\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-160667
 
@@ -663,16 +303,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-164
   global_id: t-176633
   teiginys: "Po sūnų Jono ir Jurgio netekties Vytautas puolėsi prie sutarties su Jogaila."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "115424-115668; hash=90c0742cc15637e1be7361a20e1ccef813f9d0a404e79b9e2a746792b5735559; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sunus -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jonas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Teiginio konstrukcija rodo, kad Jonas minimas kaip vienas Vytauto sūnų."
   pagrindžia:
     - c-160695
 
@@ -680,20 +310,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-092
   global_id: t-176634
   teiginys: "Vytautas valdė 1392–1430 m. ir šaltinyje vadinamas žymiausiu Lietuvos valdovu."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) valdė Lietuva (0.94)"
-  temporaliniai_duomenys: "įvykio data: 1392-1430; įvykio data: 1430 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis tekstas yra lentelės fragmentas, ne sakinys."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "30044-30165; hash=ba6616bb171caed7f6c7ed48bd4d820a0a19f4bd88382e3c7815f14c132252f8; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde -> Lietuva: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai vadina Vytautą Lietuvos valdovu ir pateikia jo valdymo metus."
   pagrindžia:
     - c-166968
 
@@ -701,19 +317,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-178
   global_id: t-176635
   teiginys: "1386 m. Vytautas užbaigė Šv. Jono bažnyčią, kurią Vladislovas Jogaila buvo pradėjęs statyti savo lėšomis."
-  temporaliniai_duomenys: "įvykio data: 1386 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata tiesiogiai nurodo, kad Jogailos pradėtą Šv. Jono bažnyčią užbaigė Vytautas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "346860-347328; hash=93207ca826bb1749ad95601dd68bd40a9f488a9ff942b5ed37569a35a6600508; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=54"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-160736
 
@@ -721,18 +324,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-052
   global_id: t-176636
   teiginys: "Po Žalgirio mūšio Vytautas fundavo bažnyčias ir vienuolynus, o 1413 m. buvo apkrikštyta Žemaitija."
-  temporaliniai_duomenys: "įvykio data: 1413 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "88932-89404; hash=50407cef301c05e2ae0bd0435943636dcd14e89066d65afd7ad38e7638ac8c2a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Katalikų Bažnyčia: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Katalikų Bažnyčia: mention_match, group, gap=17"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Katalikų Bažnyčia\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-160667
 
@@ -740,19 +331,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-112
   global_id: t-176638
   teiginys: "Vytauto Didžiojo kulto pasakojime jis vaizduotas kaip Žalgirio mūšį laimėjęs karvedys ir Lietuvos karūnos siekęs valdovas."
-  temporaliniai_duomenys: "įvykio data: 1930 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis tekstas nutrūksta ir turi būti perrašytas į užbaigtą sakinį."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "325684-326242; hash=aab4322351b229351b2b3d1accbf96b0d0e48a85deae68eda430f4161e3c4feb; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Karūna: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Karūna: mention_match, thing, gap=98"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Karūna\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-160625
 
@@ -760,20 +338,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-169
   global_id: t-176639
   teiginys: "1390 m. sausio 19 d. prie Gardino Ordino pasiųstas komtūras sudarė sutartį su Vytautu."
-  semantiniai_rysiai: "Kryžiuočių ordinas sudarė sutartį su Vytautas (Lietuvos valdovas, XIV–XV a.) (0.83)"
-  temporaliniai_duomenys: "įvykio data: 1390 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko datą, vietą ir sutarties faktą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "257326-258053; hash=2f57fc040dd8e78dd8c01edb59398aa1d27625b2d107bd3f079c86ddb3034bf7; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "sudare_sutarti_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Teiginys nurodo, kad Ordino pasiųstas komtūras sudarė sutartį su Vytautu, todėl ryšys laikomas Ordino atstovaujamu."
   pagrindžia:
     - c-160694
 
@@ -781,20 +345,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-149
   global_id: t-176640
   teiginys: "Vytautas Didysis, Kęstučio sūnus, valdė 1392–1430 m. ir šaltinyje vadinamas iškiliausiu Gediminaičių dinastijos atstovu."
-  semantiniai_rysiai: "Algirdas (Lietuvos valdovas) buvo sūnus Gediminas (0.94); Vytautas (Lietuvos valdovas, XIV–XV a.) valdė Lietuva (0.78)"
-  temporaliniai_duomenys: "įvykio data: 1392-1430; įvykio data: 1430 m.; įvykio data: 1838 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalintas OCR triukšmas ir paliktas citatos palaikomas faktas."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "56209-56685; hash=d58e2e66fa6bf7146b7582573af7997f1c62b0385361fc88723eb874b96b35ef; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sunus -> Gediminas: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Gediminas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Algirdas buvo Gedimino sūnus."
   pagrindžia:
     - c-160656
 
@@ -802,19 +352,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-034
   global_id: t-176641
   teiginys: "1377 m. Vytautas surengė žygį į Ordino žemes ir pasirodė kaip savarankiškas lietuvių kariuomenės vadas."
-  temporaliniai_duomenys: "įvykio data: 1377 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, faktinis ir paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "46696-46898; hash=1f021425403b9f64c145bee767db78ed406516df714de4a829c16726d43a5616; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=68"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-21377
 
@@ -822,16 +359,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-110
   global_id: t-176642
   teiginys: "Vytauto Didžiojo vardas siejamas su LDK tradicija, kėlusia atgimstančios lietuvių tautos sąmonę."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "325130-325467; hash=4fb8845c7612f6bd678b08ca8d74b2b06c3e6dc2d8c80485670a2df87e77f3b2; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=73"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-160623
 
@@ -839,19 +366,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-175
   global_id: t-176643
   teiginys: "Vytautas savo sostinėje iškilmingai priėmė Vladislovą Jogailą, atvykusį malšinti kivirčų su kryžiuočiais."
-  temporaliniai_duomenys: "įvykio data: 1418 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pagrindžia Vytauto priėmimą ir Jogailos apsilankymo tikslą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "332973-333848; hash=0811eda00dc2b7162f93f2c8490d09baaf301d6a8c1a6fa1a1f82e7c4cee5bf4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Alšėnai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Alšėnai: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Alšėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-160722
 
@@ -859,20 +373,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-055
   global_id: t-176644
   teiginys: "1413 m. Vytautas su Jogaila pradėjo krikštyti žemaičius."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) siuntė į Konstanca (0.86)"
-  temporaliniai_duomenys: "įvykio data: 1413 m.; įvykio data: 1418 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie Vytauto veiksmą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "91472-91686; hash=acc2bd1b68d6bf2f5e57f5355f2a1f3935f13d6d1f6dc4ccbe921d3e5cf600f4; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "siunte_i -> Konstanca: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Konstanca: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Vytautas siunčia delegaciją į Konstancą."
   pagrindžia:
     - c-160653
 
@@ -880,19 +380,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-041
   global_id: t-176646
   teiginys: "Kęstučio sūnus Vytautas Didysis valdė 1392–1430 m. ir laikytas iškiliausiu dinastijos atstovu."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) valdė Lietuva (0.82)"
-  temporaliniai_duomenys: "įvykio data: 1392-1430; įvykio data: 1430 m.; įvykio data: 1838 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "56209-56685; hash=d58e2e66fa6bf7146b7582573af7997f1c62b0385361fc88723eb874b96b35ef; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde -> Lietuva: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Kontekstas yra Lietuvos valdovai, o šalia Vytauto nurodyti jo valdymo metai."
   pagrindžia:
     - c-160656
 
@@ -900,19 +387,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-184
   global_id: t-176647
   teiginys: "1384 m. rugpjūčio 23 d. Vytauto dovanojimo aktas Trakų miestui liudijo, kad jis jau buvo krikščionis."
-  temporaliniai_duomenys: "įvykio data: 1384 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatos informaciją apie Vytautą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "357888-358611; hash=b7bde951f5027d3d12d260599c774d47f3b47048f217708bddb3a9746003ab6e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Trakai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Trakai: mention_match, place, gap=25"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Trakai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-160679
 
@@ -920,16 +394,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-085
   global_id: t-176648
   teiginys: "Sužinojęs sprendimą Dauguose, Vytautas Didysis pasiuntė sekretorių Mikalojų Cebulką pareikšti Zigmantui nepasitenkinimą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "476870-477297; hash=bcec3e9fa513243941761148b02a5a2af761725a8fb19bdd4bdc6612b5df8ce8; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Zigmantas (Romos imperatorius): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Zigmantas (Romos imperatorius): mention_match, person, gap=64"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Zigmantas (Romos imperatorius)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-160618
 
@@ -937,20 +401,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-150
   global_id: t-176650
   teiginys: "Vytauto valdymas 1392–1430 m. šaltinyje apibūdinamas kaip epochinių permainų metas."
-  semantiniai_rysiai: "Jogaila (kunigaikštis, XIV–XV a.) buvo valdovas Lenkija (0.95); Vytautas (Lietuvos valdovas, XIV–XV a.) valdė Lietuva (0.86)"
-  temporaliniai_duomenys: "įvykio data: 1392 m.; įvykio data: 1392-1430; įvykio data: 1430 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalintas antraštės ir OCR triukšmas."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "76406-77021; hash=53ccae6509b071ce087b5be467054e8f332bf67eb2e1ddf5b6749dc36204b6cf; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_valdovas -> Lenkija: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Jogaila tapo Lenkijos karaliumi."
   pagrindžia:
     - c-160696
 
@@ -958,18 +408,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-086
   global_id: t-176651
   teiginys: "1429 m. sausio 6 d. Vytautas Didysis Lucke sušaukė popiežiaus paskirtą suvažiavimą."
-  temporaliniai_duomenys: "įvykio data: 1429 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "523092-523335; hash=c12e5bd3f18389a97c3bc730a406fdc22a0547ec3973469e8f4033482d8e9e03; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Luckas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Luckas: mention_match, place, gap=17"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Luckas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-160629
 
@@ -977,19 +415,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-077
   global_id: t-176652
   teiginys: "Tų metų rugpjūtį Vytautas Didysis su lietuvių, lenkų, čekų ir totorių kariuomene užpuolė Pskovą."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) puolė Pskovas (0.96); Vytautas (Lietuvos valdovas, XIV–XV a.) surengė žygį į Pskovas (0.83)"
-  temporaliniai_duomenys: "įvykio data: 1426 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "349324-349885; hash=9249d97975066683c84d3c05de8a8e06d36f57f90886ce6f0e5e4da72db2c8e7; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Pskovas: 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Pskovas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Vytautas užpuolė Pskovą."
   pagrindžia:
     - c-160648
 
@@ -997,20 +422,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-116
   global_id: t-176653
   teiginys: "1430 m. spalio 27 d. mirė Lietuvos valdovas Vytautas Didysis Kęstutaitis."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) buvo valdovas Lietuva (0.95)"
-  temporaliniai_duomenys: "valdymo laikotarpis: 1430 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Vytautas (Lietuvos valdovas, XIV–XV a.) buvo valdovas Lietuva“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie Vytauto mirtį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "262777-263233; hash=baedf8bba4ac84ed95d1afd7d9f0ac1e4b584bc6010b878dddbe4965ebf3615b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_valdovas -> Lietuva: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Vytautas aiškiai vadinamas Lietuvos valdovu."
   pagrindžia:
     - c-160616
 
@@ -1018,16 +429,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-119
   global_id: t-176654
   teiginys: "Vytautas mokėjo vokiečių ir lotynų kalbas, o šaltinyje svarstoma, kad galėjo mokėti ir rusų bei totorių kalbas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "642221-642580; hash=762385e1f5ae313a4295069b43c3e140318ebd03407233cc36f798a542ffeadf; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lotynai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lotynai: mention_match, group, gap=28"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Lotynai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-36592
 
@@ -1035,19 +436,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-193
   global_id: t-176655
   teiginys: "1398 m. spalio 12 d. Salyne Vytautas ir Konradas Jungingenas galutinai patvirtino sutartį."
-  temporaliniai_duomenys: "įvykio data: 1398 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Fragmentas perrašytas į pilną sakinį ir išplėstas asmens vardas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "892005-892257; hash=7344e7e949e7f40c3002ee46171c5a0aef83d7232fe77eaad8057a5d1dfceb18; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Konradas Jungingenas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Konradas Jungingenas: mention_match, person, gap=12"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Konradas Jungingenas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-30358
 
@@ -1055,16 +443,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-084
   global_id: t-176656
   teiginys: "Kochanovskio nuomone, Horodlės unija Vytautas Didysis siekė ne lenkinti Lietuvą, o ją civilizuoti."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "469743-470369; hash=2e76fbc8c02043bad7f6174c6effbfc920b5a59b512dece2def0716cbc692e77; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=35"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-160739
 
@@ -1072,20 +450,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-189
   global_id: t-176657
   teiginys: "1410 m. Vytautas, su kariuomene įžengęs į Prūsiją, rado jam palankių prūsų bajorų."
-  semantiniai_rysiai: "Kryžiuočių ordinas puolė Lietuva (0.90); Bajorai rėmė Vytautas (Lietuvos valdovas, XIV–XV a.) (0.80)"
-  temporaliniai_duomenys: "įvykio data: 1285 m.; įvykio data: 1292 m.; įvykio data: 1293 m.; įvykio data: 1337 m.; įvykio data: 1410 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalinta perteklinė interpretacinė dalis ir išlaikyta citatos esmė."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "24439-25021; hash=93c7ff71aa3b0a8c525dee8818c93dbbd364a402e596dcbc78e41ede945c4bd4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Lietuva: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai mini kryžiuočių antpuolius prieš Lietuvą."
   pagrindžia:
     - c-160662
 
@@ -1093,16 +457,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-078
   global_id: t-176658
   teiginys: "Vytautas Didysis palaikė neblogus santykius su turkais, kurie jo valdymo metu vis labiau skverbėsi į Balkanų pusiasalį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "359316-359973; hash=1bb05927b7cb95d29604737250a448f36421964c77eaddeec7158cd6389a214e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Konstancija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Konstancija: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Konstancija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-160715
 
@@ -1110,16 +464,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-040
   global_id: t-176659
   teiginys: "Nuo jaunystės Vytautas mėgo karo dalykus ir sekė Vakarų Europos naujoves."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "641722-641949; hash=add0d932bfcc44a500b339533ebdb18ea120b0c8e4e714e5ec92f2668d9851a3; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Europa: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=42"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-21382
 
@@ -1127,17 +471,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-072
   global_id: t-176660
   teiginys: "Žalgirio mūšio metu Vytautas Didysis pats vedė savo kariuomenę ir vadovavo visai sąjunginei kariuomenei."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) buvo sąjungininkas su Lenkai (0.62)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "219944-220350; hash=15f6cf04735c68ee489980b2a04e98ee8c8d46d6840bb11ae2d9bd9785e756d0; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sajungininkas_su -> Lenkai: 0.62"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lenkai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Sąjunginės kariuomenės kontekste minimi lenkai, todėl galima atsargiai fiksuoti sąjunginį ryšį su lenkais."
   pagrindžia:
     - c-160631
 
@@ -1145,16 +478,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-171
   global_id: t-176661
   teiginys: "Mazovijos kunigaikštis Henrikas su slaptu Jogailos pavedimu atvyko pas Vytautą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "294610-295125; hash=6f73e4f6232d1e88319ce92114628c08a40075810adc54ee92a78d1411ec3829; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Henrikas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Henrikas: mention_match, author, gap=48"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Henrikas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-160734
 
@@ -1162,20 +485,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-037
   global_id: t-176662
   teiginys: "1392 m. Vytautas galutinai atsisakė sąjungos su Ordinu, susitaikė su Jogaila ir gavo valdyti visą Lietuvą."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) valdė Lietuva (0.94); Vytautas (Lietuvos valdovas, XIV–XV a.) sudarė sutartį su Jogaila (kunigaikštis, XIV–XV a.) (0.78)"
-  temporaliniai_duomenys: "įvykio data: 1392 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatoje nurodytą faktą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "649172-649523; hash=054812f06881d738f1f700a84da613d21500f3484b87ee2a198cfb53ce18f832; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde -> Lietuva: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Vytautas gavo valdyti visą Lietuvą."
   pagrindžia:
     - c-21380
 
@@ -1183,16 +492,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-030
   global_id: t-176663
   teiginys: "Vytautas šiame veikale pavadintas žymiausiu dinastijos atstovu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "36732-37179; hash=973f9517fe020c952fadb36cb288f5d9fced367a14aa9b3ddb0f3d1111fbe9a1; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vydimantas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Vydimantas: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Vydimantas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-160665
 
@@ -1200,17 +499,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-170
   global_id: t-176664
   teiginys: "Vytautas išvyko į Žemaitiją, kur jo tėvui Kęstučiui nuo seno buvo palankūs paprasti žmonės ir bajorai."
-  semantiniai_rysiai: "Žemaičiai sudarė sutartį su Kryžiuočių ordinas (0.86); Bajorai rėmė Kęstutis (vakarų pasienio valdovas, XIV–XV a.) (0.76)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "259271-260146; hash=df49085245a70c0b42b38fd76dcc6a18524acf1963da851ea186813fba4ff0ab; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "sudare_sutarti_su -> Kryžiuočių ordinas: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Žemaičiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citatoje sakoma, kad žemaičiai sudarė sutartį su Ordinu."
   pagrindžia:
     - c-160678
 
@@ -1218,16 +506,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-073
   global_id: t-176666
   teiginys: "Kol Jogaila tarėsi su pasiuntiniais, Vytautas Didysis judėjo tarp kariuomenių ir rūpinosi jų tvarka."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "231530-231819; hash=3814d35aad62d0f54fda11589d5f274665855ba9eb875ed40299680f6454acfb; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=33"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-160730
 
@@ -1235,20 +513,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-076
   global_id: t-176667
   teiginys: "1422 m. liepos pabaigoje Vytautas Didysis ir Jogaila, nelaukdami Ordino užpuolimo, išžygiavo prieš Ordiną."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) kariavo prieš Kryžiuočių ordinas (0.91)"
-  temporaliniai_duomenys: "įvykio data: po 1414 m.; įvykio data: 1414 m.; įvykio data: 1422 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "343643-344090; hash=939fe77091e498ead5b5d74d403019e1aa134f3ea0cfb7cf9240ae37621dbc99; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Kryžiuočių ordinas: 0.91"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Vytautas su Jogaila išžygiavo prieš Ordiną."
   pagrindžia:
     - c-160611
 
@@ -1256,19 +520,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-056
   global_id: t-176668
   teiginys: "Vytauto karūnacijos projektas siejamas su Lietuvos christianizacijos ir europeizacijos kontekstu."
-  temporaliniai_duomenys: "įvykio data: 1422 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata remia interpretacinį teiginį, todėl reikia aiškesnės formuluotės."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "92131-92724; hash=15dcd2fa1888d60cd5446dc7db3346f6da01cd005c67acbf780bed6568717623; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=42"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-160620
 
@@ -1276,17 +527,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-136
   global_id: t-176669
   teiginys: "Puolant Vilnių Vytautas su žemaičiais, Derbio kunigaikščiu ir anglų pėstininkais kovėsi su Karigaila."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) puolė Vilnius (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "269277-269638; hash=22af16b7ad8e19aef13470074223f3f3ccaff5693c18491ace164f764e70748e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Vilnius: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai sieja Vytautą su Vilniaus puolimu."
   pagrindžia:
     - c-160624
 
@@ -1294,17 +534,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-138
   global_id: t-176670
   teiginys: "Vilniuje Vytautas iš vyskupo Andriaus Važilo gavo patepimą tapti didžiuoju Lietuvos kunigaikščiu."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) buvo valdovas Lietuva (0.93)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "295126-295696; hash=5cada1fdf8473aa590a76101ce10f8187782c8e94b1b6465365224ff328d48fa; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_valdovas -> Lietuva: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai sieja Vytauto įvesdinimą su tapimu Lietuvos didžiuoju kunigaikščiu."
   pagrindžia:
     - c-160674
 
@@ -1312,20 +541,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-194
   global_id: t-176671
   teiginys: "1422 m. Vytautas į Prahą pasiuntė savo sūnėną Žygimantą Kaributaitį kaip čekų pageidaujamą valdovą."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) siuntė į Praha (0.91)"
-  temporaliniai_duomenys: "įvykio data: 1420 m.; įvykio data: 1422 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko datą, veiksmą ir asmenį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "335693-336291; hash=186a717fef636cb8e4d63afeacc3048ecbc8caf7971ee0e4cae68bce0b7bfcbf; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "siunte_i -> Praha: 0.91"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Praha: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Vytautas pasiuntė asmenį į Prahą."
   pagrindžia:
     - c-160636
 
@@ -1333,17 +548,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-127
   global_id: t-176672
   teiginys: "Kęstutis ir jo sūnus Vytautas išplėtė Trakų pilį ir pritaikė ją nuolatinei buveinei."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) buvo sūnus Kęstutis (vakarų pasienio valdovas, XIV–XV a.) (0.97)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "134840-135533; hash=1e9aeb0972b828f1a107bc45003b31b90b1bd827578e819e38b8f3246c9a43fa; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sunus -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.97"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Vytautas buvo Kęstučio sūnus."
   pagrindžia:
     - c-160718
 
@@ -1351,17 +555,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-140
   global_id: t-176673
   teiginys: "Vytautas su lietuviais ir lenkais užklupo Rittersverderio pilį stačiusį magistrą ir ragino jį pasitraukti iš krašto."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) buvo sąjungininkas su Lietuviai (0.78); Vytautas (Lietuvos valdovas, XIV–XV a.) buvo sąjungininkas su Lenkai (0.78)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "299634-299950; hash=c02a1afd2f8317919bf16d7886cd706e547c269699ba232db95e4b855a044f15; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sajungininkas_su -> Lenkai: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lenkai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citatoje Vytautas veikia kartu su lenkais karinėje situacijoje, todėl palaikomas sąjungininkystės ryšys."
   pagrindžia:
     - c-160748
 
@@ -1369,16 +562,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-067
   global_id: t-176674
   teiginys: "Vytautas viešai dėjosi nekaltas ir, Markvardo Salzbacho įžeistas dėl kaltinimų išdavus ordiną, skundėsi magistrui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "913508-913842; hash=1bcf9bac733089a2e44f02383724db47d26795c875420396b170f7e892cd3a88; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Markvardas Salzbaclias: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Markvardas Salzbaclias: mention_match, person, gap=36"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Markvardas Salzbaclias\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-21393
 
@@ -1386,16 +569,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-047
   global_id: t-176760
   teiginys: "Vytautas per savo agentus Lenkijoje skleidė nuostatą, kad karas su Vokiečių ordinu būtinas."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "82320-82539; hash=13959913473e77a8fa03f80329f20cf4d51917d8e3d36629ca4568aa17c53149; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=76"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-160692
 
@@ -1403,20 +576,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-055
   global_id: t-176644
   teiginys: "1413 m. Vytautas su Jogaila pradėjo krikštyti žemaičius."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) siuntė į Konstanca (0.86)"
-  temporaliniai_duomenys: "įvykio data: 1413 m.; įvykio data: 1418 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie Vytauto veiksmą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "91472-91686; hash=acc2bd1b68d6bf2f5e57f5355f2a1f3935f13d6d1f6dc4ccbe921d3e5cf600f4; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "siunte_i -> Konstanca: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Konstanca: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Vytautas siunčia delegaciją į Konstancą."
   pagrindžia:
     - c-160653
 
@@ -1424,20 +583,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-117
   global_id: t-176677
   teiginys: "Vytautas dažnai paremdavo prieš Vokiečių ordino valdžią sukilusius žemaičius."
-  semantiniai_rysiai: "Žemaitija priklausė Vytautas (Lietuvos valdovas, XIV–XV a.) (0.90)"
-  temporaliniai_duomenys: "įvykio data: 1410 m.; įvykio data: 1411 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys sujungė nesusijusius fragmentus; citata leidžia aiškų sakinį apie Vytautą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "269742-270194; hash=7effdb0030b85a010bec1c68b68d404d66ab6dfaf7ba8478c35831a6e70e09a7; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Žemaitija: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Žemaitija atiteko Vytautui ir Jogailai."
   pagrindžia:
     - c-160720
 
@@ -1445,16 +590,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-126
   global_id: t-176678
   teiginys: "Po sūnų Jono ir Jurgio netekties Vytautas puolėsi prie sutarties su Jogaila."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "115463-115836; hash=994fcf6a27c2fdec1ed7d82e75a9b96e8e9b121c29e76cd241f4fd6399e6dd6b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sunus -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jonas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Teiginio konstrukcija rodo, kad Jonas minimas kaip vienas Vytauto sūnų."
   pagrindžia:
     - c-160630
 
@@ -1462,20 +597,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-163
   global_id: t-176679
   teiginys: "1384 m. Vytautas sudarė sutartį su Ordinu, kuris prisiekė atgauti jam atimtą tėvoniją."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) sudarė sutartį su Kryžiuočių ordinas (0.92)"
-  temporaliniai_duomenys: "įvykio data: 1384 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko datą ir sutarties turinį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "114675-115423; hash=9230dfd1aa72995013477e7d3336d59f38a3ac27efd82b8e5ef61b4e8a697b11; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "sudare_sutarti_su -> Kryžiuočių ordinas: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad Vytautas sudarė sutartį su Ordinu."
   pagrindžia:
     - c-160745
 
@@ -1483,17 +604,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-155
   global_id: t-176680
   teiginys: "Vytautas įkūnijo tautinį ir politinį idealą, siejamą su Lietuvos vadavimu iš priklausomybės nuo lenkų."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) gynė Lietuva (0.76)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "326708-327380; hash=b5cb371c19378978e7dac9be4d9c19d92ebd422e2c2686e9f2ae0c4adc7e02f2; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyne -> Lietuva: 0.76"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys Vytautą sieja su Lietuvos vadavimu iš priklausomybės, todėl palaikomas Lietuvos gynimo ryšys."
   pagrindžia:
     - c-160643
 
@@ -1501,19 +611,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-151
   global_id: t-176682
   teiginys: "Vytauto laikais Lietuvos Didžioji Kunigaikštystė buvo itin galinga, o jo galią jautė visas regionas."
-  temporaliniai_duomenys: "įvykio data: 1429 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko apibendrintą faktą apie Vytauto galios mastą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "268228-268748; hash=110703b1dc4e04d6b8640df45d1cf9d9ece6836884f9840c876cc2ee541d913f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=16"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-160729
 
@@ -1521,19 +618,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-159
   global_id: t-176683
   teiginys: "1420 m. Vytautas laiške Romos imperatoriui Zigmantui rašė apie Lietuvos ir Žemaitijos tapatumą."
-  temporaliniai_duomenys: "įvykio data: 1420 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko laiško faktą, pašalinti puslapio ir OCR likučiai."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "51060-51869; hash=14443dc7d34d8025814768ad14a14f321d9aa80e0ab291a7f62a9f58b0917643; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=55"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-160650
 
@@ -1541,19 +625,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-059
   global_id: t-176685
   teiginys: "1430 m. Vytautas vėl gavo Jogailos sutikimą karūnacijai, bet nesulaukė lenkų didikų pritarimo ir mirė 1430 m. spalio 27 d."
-  temporaliniai_duomenys: "įvykio data: 1430 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie Vytautą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "95078-95471; hash=4566e112ac5cdc027e9e072217e5da9b91ab88fd99cde2b77121e4d5377de2ce; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=63"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-160659
 
@@ -1561,17 +632,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-071
   global_id: t-176687
   teiginys: "Vytautas Didysis Trakuose ir Algirdo šeimoje Vilniuje susidurdavo su krikščionybės idėjomis."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) gyveno Trakai (0.78); Vytautas (Lietuvos valdovas, XIV–XV a.) gyveno Vilnius (0.78)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "41844-42400; hash=260adaa8116e3c974c77a1f49dabc85a65f8e9ddcd7e55eb9ed3ae805f4cada9; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Trakai: 0.78"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Trakus kaip vietą, kur Vytautui teko gyventi ir susidurti su krikščionybės idėjomis."
   pagrindžia:
     - c-160668
 
@@ -1579,16 +639,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-167
   global_id: t-176688
   teiginys: "Jogaila negrąžino Vytautui nei Lietuvos valdymo, nei po Kęstučio mirties priklausiusio paveldo."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "253803-254677; hash=08dcade37c70a316d59fb7339b63378e2e141cd06d167fe2c166bdf86a398d9b; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=13"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-160673
 
@@ -1596,16 +646,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-050
   global_id: t-176690
   teiginys: "Vytautas, nesulaukęs Jogailos įsakymo pradėti mūšį, surizikavo ir pirmasis pasiuntė į kovą Lietuvos kariuomenę."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "84275-84496; hash=f92b353dd06b1c6c1600f65903e31609521d62ffb8c831f58a42bc6eebcef5c1; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=91"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-160634
 
@@ -1613,19 +653,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-059
   global_id: t-176685
   teiginys: "1430 m. Vytautas vėl gavo Jogailos sutikimą karūnacijai, bet nesulaukė lenkų didikų pritarimo ir mirė 1430 m. spalio 27 d."
-  temporaliniai_duomenys: "įvykio data: 1430 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie Vytautą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "95078-95471; hash=4566e112ac5cdc027e9e072217e5da9b91ab88fd99cde2b77121e4d5377de2ce; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=63"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-160659
 
@@ -1633,19 +660,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-031
   global_id: t-176692
   teiginys: "Vytautas laikomas Kęstučio ir Birutės sūnumi, gimusiu apie 1350 m."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) buvo sūnus Kęstutis (vakarų pasienio valdovas, XIV–XV a.) (0.95); Vytautas (Lietuvos valdovas, XIV–XV a.) buvo sūnus Birutė (0.88)"
-  temporaliniai_duomenys: "įvykio data: 1350 m.; įvykio data: apie 1350 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "40126-40476; hash=406d9d2e23b5bf2c9112534c844434ebbdfd69a50042ce22ffe08b714d1553bd; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sunus -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Vytauto tėvystę Kęstučio atžvilgiu."
   pagrindžia:
     - c-21374
 
@@ -1653,16 +667,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-161
   global_id: t-176693
   teiginys: "Vytautas, pralaimėjęs mūšį ir netoli Vilniaus praradęs tūkstantį žmonių, turėjo slėptis Trakų pilyje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "104679-105289; hash=8a0574e3bfad4db905df5406894cefca863420eddf861d0d40f091d5195c0c8f; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Trakai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Trakai: mention_match, place, gap=88"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Trakai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-160747
 
@@ -1670,17 +674,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-079
   global_id: t-176694
   teiginys: "Vytautas Didysis antrą kartą sulaužė sutartį su Ordinu ir su savo šalininkais sugrįžo į Lietuvą."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į Lietuva (0.90); Vytautas (Lietuvos valdovas, XIV–XV a.) sudarė sutartį su Kryžiuočių ordinas (0.84)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "391775-392014; hash=b70739fab6fc7fab41bd2e2dd7f1f68a082c3436ac6221d28488a7cff0c6daac; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Lietuva: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Vytautas sugrįžo į Lietuvą."
   pagrindžia:
     - c-160686
 
@@ -1688,16 +681,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-093
   global_id: t-176695
   teiginys: "Vytautas siekė gauti karūną ir Vakarų pripažinimą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "42579-42877; hash=174f1950a388d3faf18c73ba4fee4bf426173bcdf282a152f0baa375f8ae0f36; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Karūna: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Karūna: mention_match, thing, gap=21"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Karūna\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-160612
 
@@ -1705,19 +688,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-065
   global_id: t-176696
   teiginys: "1404 m. rugpjūčio viduryje Vytautas po Smolensko operacijos susitiko su didžiuoju magistru Ritterswerderio saloje."
-  temporaliniai_duomenys: "įvykio data: 1404 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, faktinis ir paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "904878-905260; hash=7b2a36c32fe0d1ef31cfbf50295cffaa4533e2128d43e9d3a1ebb1a107486f25; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Ritterswerderis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Ritterswerderis: mention_match, place, gap=64"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Ritterswerderis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-04403
 
@@ -1725,17 +695,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-130
   global_id: t-176698
   teiginys: "Vytauto karas su Skirgaila pablogino Vilniaus padėtį."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) kariavo prieš Skirgaila (0.94)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "253717-254253; hash=190ee0073152dcee4f47326319647735762bc86fd31a3a47769003e190447f6b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Skirgaila: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Skirgaila: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai apibūdina Vytauto karą su Skirgaila."
   pagrindžia:
     - c-160750
 
@@ -1743,19 +702,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-083
   global_id: t-176699
   teiginys: "1410 m. liepos 15 d. Žalgirio mūšyje Vytautas Didysis vadovavo kovai su Vokiečių Ordinu ir jo sąjungininkais."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) kariavo prieš Kryžiuočių ordinas (0.91); Vytautas (Lietuvos valdovas, XIV–XV a.) buvo sąjungininkas su Lenkai (0.83); Vytautas (Lietuvos valdovas, XIV–XV a.) buvo sąjungininkas su Lietuviai (0.77)"
-  temporaliniai_duomenys: "įvykio data: 1410 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "444255-444787; hash=b98f7f5783e80876ccaac230723e4275f18d0946b392ef1f444c86b44ba96947; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Kryžiuočių ordinas: 0.91"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata tiesiogiai aprašo kovą su Ordinu, vadovaujant Vytautui."
   pagrindžia:
     - c-160714
 
@@ -1763,20 +709,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-094
   global_id: t-176700
   teiginys: "Vytautas Didysis buvo Kęstučio sūnus ir valdė 1392–1430 m."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) valdė Lietuva (0.82)"
-  temporaliniai_duomenys: "įvykio data: 1392-1430; įvykio data: 1430 m.; įvykio data: 1838 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie Vytautą Didįjį."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "56209-56685; hash=d58e2e66fa6bf7146b7582573af7997f1c62b0385361fc88723eb874b96b35ef; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde -> Lietuva: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Kontekstas yra Lietuvos valdovai, o šalia Vytauto nurodyti valdymo metai."
   pagrindžia:
     - c-160656
 
@@ -1784,17 +716,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-154
   global_id: t-176701
   teiginys: "Vytauto politika šaltinyje siejama su bažnytine politika, Lietuvos konversija ir Žemaičių krikštu."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) valdė Lietuva (0.86)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "830784-831207; hash=f0803dfac03e425e8b719914da9530cd3f79be6144c93b500c3b24d74cc5d94b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde -> Lietuva: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Frazė „ypač valdant Vytautui“ tiesiogiai teigia Vytauto valdymą Lietuvos laikotarpio kontekste."
   pagrindžia:
     - c-160638
 
@@ -1802,16 +723,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-080
   global_id: t-176702
   teiginys: "Vytautas Didysis iš Jogailos gavo Lietuvą kaip lėną didžiojo kunigaikščio teisėmis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "392798-392956; hash=08e34b8bcbdf37dd33e01c5cd8fd64464acbbaf3cf3598caf943f2df0a0d38da; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=34"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-160697
 
@@ -1819,16 +730,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-188
   global_id: t-176703
   teiginys: "Pasiligojusi Vytauto žmona Julijona buvo apsistojusi prie Vilniaus buvusiame kunigaikščių kaime Memitz."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "511447-512044; hash=cd22f737a47b1695e18ac7bdf590e1eb91025dc07729bec00a00e1d9e06153bf; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Julijona: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Julijona: mention_match, person, gap=14"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Julijona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-160723
 
@@ -1836,16 +737,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-087
   global_id: t-176704
   teiginys: "Vytautas Didysis laiške Jogailai piktinosi jo teiginiu, kad Lietuvos bajorai negali laisvai rinkti valdovo be lenkų sutikimo."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "538249-538684; hash=9b117ac0d6de8c8ee6abe7165be86b3b52b6d8cd28e8cdccc993b1350a2c6a74; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Bajorai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Bajorai: mention_match, group, gap=69"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-160731
 
@@ -1853,16 +744,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-165
   global_id: t-176705
   teiginys: "Vytautui priskiriama pirmoji vienos Žemaitijos bažnyčios fundacija po krikščionybės įvedimo."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "223914-224418; hash=01dece01c0a21a5aeaf46c134ebbe108de68c7d3b58e3cc2a726da5fa8e71850; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Viena: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Viena: mention_match, place, gap=29"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-160655
 
@@ -1870,19 +751,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-186
   global_id: t-176706
   teiginys: "1426 m. Vytautas dėl žmonos Julijonos ligos kreipėsi į didįjį magistrą prašydamas gydytojo."
-  temporaliniai_duomenys: "įvykio data: 1426 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra konkretus ir paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "481102-481927; hash=4de902e0e2aeae062f7dcc1a62c9acf77a700f24393c687c7b771fa77a36b3d5; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_zmona -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Julijona: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Julijoną kaip Vytauto žmoną."
   pagrindžia:
     - c-160614
 
@@ -1890,19 +758,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-106
   global_id: t-176707
   teiginys: "Vytauto politika šaltinyje interpretuojama kaip orientuota į „švento valdovo“ įvaizdį."
-  temporaliniai_duomenys: "įvykio data: 1422 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Tai interpretacija, todėl reikalinga aiški atribucija."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "92131-92724; hash=15dcd2fa1888d60cd5446dc7db3346f6da01cd005c67acbf780bed6568717623; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-160620
 
@@ -1910,17 +765,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-172
   global_id: t-176708
   teiginys: "Vytautas susitaikė su pusbroliu Skirgaila ir sudarė su juo sąjungą prieš kiekvieną priešą, išskyrus Lenkijos karalių."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) buvo sąjungininkas su Skirgaila (0.93); Vytautas (Lietuvos valdovas, XIV–XV a.) sudarė sutartį su Skirgaila (0.84)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "296369-297259; hash=216b838271cef42a28debd3a8e8443e2355e55cb05def6690e189dd2367c82a6; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sajungininkas_su -> Skirgaila: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Skirgaila: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Vytautas sudarė sąjungą su Skirgaila."
   pagrindžia:
     - c-160652
 
@@ -1928,17 +772,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-173
   global_id: t-176709
   teiginys: "Vėlesniais Vytauto valdymo laikais Vilnius atsigavo po Skirgailos valdymo ir praturtėjo."
-  semantiniai_rysiai: "Vilnius prekiavo su Prūsija (0.84); Vilnius prekiavo su Livonija (0.84); Vilnius prekiavo su Naugardas (0.84)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "297585-298500; hash=859af48acd0d764849264671c094e06cb6f11d04c09f7dcae60126379694ea2e; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "prekiavo_su -> Livonija: 0.84"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Livonija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata nurodo, kad Vilniaus prekyba išsišakojo su Livonijos miestais."
   pagrindžia:
     - c-160735
 
@@ -1946,16 +779,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-182
   global_id: t-176710
   teiginys: "Vytautas priėmė Maskvos metropolitą Fotijų, tačiau šis nieko nelaimėjęs išvyko į Maskvą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "356379-357372; hash=a8642c4254d549a3037f107c710012254434436f6c50345c1c4ce62a2e2b321d; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Maskva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Maskva: mention_match, place, gap=16"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-160658
 
@@ -1963,19 +786,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-148
   global_id: t-176711
   teiginys: "1424 m. Vytautas suteikė Vilniui privilegijų, kuriomis nuo įvairių duoklių buvo atleisti Romos katalikų tikėjimą išpažinę miestiečiai."
-  temporaliniai_duomenys: "įvykio data: 1424 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata patikslina, kad privilegijomis naudojosi tik Romos katalikai."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "342898-343529; hash=823f2f008c041dbb94880d157d5b6e371f824f89f9da9a0c8a0ed06866faa260; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=17"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-160725
 
@@ -1983,19 +793,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-157
   global_id: t-176712
   teiginys: "Pirmoji Balinskio Vilniaus istorijos dalis baigiama 1430 m., kai mirė Vytautas Didysis."
-  temporaliniai_duomenys: "įvykio data: 1430 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko bibliografinį faktą apie Vytauto mirtį kaip ribą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "262908-263160; hash=e3c239b5d0733f05f189f923af25e2fd272322dc9d994084e9ca3f697acef7f5; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aleksandras Balinskis: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Aleksandras Balinskis: mention_match, person, gap=62"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Aleksandras Balinskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-160684
 
@@ -2003,19 +800,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-180
   global_id: t-176714
   teiginys: "1430 m. Vytautas ketino karūnuotis Lietuvos karaliumi, dalyvaujant sušauktiems kunigaikščiams ir pasiuntiniams."
-  temporaliniai_duomenys: "įvykio data: 1430 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata nurodo Vytauto ketinimą karūnuotis ir pakviestus dalyvius."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "351644-352580; hash=087b648b919e769bd782d13f24e16cd9926e572120a16de8e95b6ffaa4aed41b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Karūna: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Karūna: mention_match, thing, gap=16"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Karūna\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-160646
 
@@ -2023,17 +807,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-109
   global_id: t-176715
   teiginys: "Vytautas Lietuvos Didžiojoje Kunigaikštystėje apgyvendino musulmonų totorių ir karaimų bendruomenes."
-  semantiniai_rysiai: "Totoriai gyveno Lietuva (0.86); Karaimai gyveno Lietuva (0.86)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "137810-138323; hash=f479109d4aa35e28aaa3f8ae3ca3361d763f4c0a79fa808cc978923fc1342bf5; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Lietuva: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Karaimai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad karaimų bendruomenės buvo apgyvendintos Lietuvos Didžiojoje Kunigaikštystėje."
   pagrindžia:
     - c-160633
 
@@ -2041,19 +814,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-061
   global_id: t-176716
   teiginys: "Sugrįžęs iš ordino, Vytautas 1384–1389 m. tarnavo Jogailai ir rėmė jo politinius bei kultūrinius žygius."
-  temporaliniai_duomenys: "įvykio data: 1384-1389; įvykio data: 1389 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "823692-824110; hash=4f6fb39397f95c0e32d2d833902b3de4918e9732239d0dc63caab89c02710534; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=8"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-34200
 
@@ -2061,17 +821,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-134
   global_id: t-176717
   teiginys: "Sausio 19 d. prie Gardino Ordino komtūras sudarė sutartį su Vytautu."
-  semantiniai_rysiai: "Kryžiuočių ordinas sudarė sutartį su Vytautas (Lietuvos valdovas, XIV–XV a.) (0.82)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "257577-258349; hash=6aeb3893558ba7a2ee1240e323d03e0dd762d0c443814bda9c6373330e5146e4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "sudare_sutarti_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.82"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Sutartį sudarė Ordino komtūras, todėl ryšys su Ordinu laikomas atstovaujamu, bet ne tiesiogiai įvardytu kaip visas ordinas."
   pagrindžia:
     - c-160657
 
@@ -2079,16 +828,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-181
   global_id: t-176718
   teiginys: "Vytautas siekė Lietuvos karaliaus karūnos, tačiau tam priešinosi Vladislovas Jogaila ir Lenkijos senatas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "354765-355686; hash=c9d2a6f9299d70afe143905e96fb130d19c3ceff69940c127964d25d00a7eb87; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=77"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-160675
 
@@ -2096,17 +835,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-183
   global_id: t-176719
   teiginys: "Vytauto palaikai buvo atvežti į Vilnių ir iškilmingai palaidoti."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) buvo palaidotas Vilnius (0.97)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "357304-357791; hash=c7177d965bbd2162cb4ce9bdb7a969c54c2ccebe38783c84f92ce610fb76f6de; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_palaidotas -> Vilnius: 0.97"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Vytauto palaikai buvo palaidoti Vilniuje."
   pagrindžia:
     - c-160709
 
@@ -2114,16 +842,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-068
   global_id: t-176720
   teiginys: "Vytautas kautynių metu tvarkė pulkus, davinėjo įsakymus ir pralaužtas vietas atstatinėjo arba keitė naujais daliniais."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "926880-927415; hash=a813543824546684e8ee9824e4d1ce4a980bd83d67d69455d6fb2a7446d77a54; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Dlugošas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Dlugošas: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Dlugošas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-04404
 
@@ -2131,16 +849,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-114
   global_id: t-176721
   teiginys: "Vytauto Didžiojo mirties 500-ųjų metinių komitetas nutarė Kaune pastatyti Vytauto Didžiojo karo muziejų."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "326708-327380; hash=b5cb371c19378978e7dac9be4d9c19d92ebd422e2c2686e9f2ae0c4adc7e02f2; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kaunas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kaunas: mention_match, place, gap=58"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-160643
 
@@ -2148,16 +856,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-066
   global_id: t-176724
   teiginys: "Vytautas, apsimetęs ordino draugu, mainėsi laiškais, davė patarimus, keitėsi brangiomis dovanomis ir tarėsi nematąs įvykių Žemaičiuose."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "908485-908825; hash=a0b4e2e922d366d4ebe15cb398c47ec7b9ac42e7cda06c2546826c64d8b42898; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Salos: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Salos: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Salos\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-30359
 
@@ -2165,18 +863,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-081
   global_id: t-176726
   teiginys: "1398 m. pabaigos kompromisu Vytautui Didžiajam buvo pripažinta nuo Lenkijos priklausanti didžiojo kunigaikščio valdžia."
-  temporaliniai_duomenys: "įvykio data: 1398 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "414805-415383; hash=801b3019b1aa5a7203a1f5f5dc5f8875422528485fd2ef494bde7fecf0b6c0f0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=39"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-160651
 
@@ -2184,16 +870,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-186
   global_id: t-176728
   teiginys: "Vytautas buvo karo tarybos pirmininkas ir tikrasis Tanenbergo mūšio vadas."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "262908-263160; hash=e3c239b5d0733f05f189f923af25e2fd272322dc9d994084e9ca3f697acef7f5; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Tanenbergas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Tanenbergas: mention_match, place, gap=51"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Tanenbergas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-21368
 
@@ -2201,17 +877,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-160
   global_id: t-176729
   teiginys: "Palikdamas Vilnių, Kęstutis Trakų pilies gynybą ir valdžią pavedė savo sūnui Vytautui."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) gynė Trakai (0.87); Vytautas (Lietuvos valdovas, XIV–XV a.) valdė miestą Trakai (0.82)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "103307-103902; hash=0adc1c33aa30d9febe966e03c8333701fcba46f6eb977a7b20c9ce3d733e9cfb; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyne -> Trakai: 0.87"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Vytautui buvo pavesta Trakų pilies gynyba."
   pagrindžia:
     - c-160610
 
@@ -2219,19 +884,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-146
   global_id: t-176730
   teiginys: "1422 m. Vytautas pasiuntė į Prahą savo sūnėną Žygimantą Kaributaitį kaip pageidaujamą valdovą."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) siuntė į Praha (0.88)"
-  temporaliniai_duomenys: "įvykio data: 1420 m.; įvykio data: 1422 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "335693-336291; hash=186a717fef636cb8e4d63afeacc3048ecbc8caf7971ee0e4cae68bce0b7bfcbf; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "siunte_i -> Praha: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Praha: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Vytautas pasiuntė asmenį į Prahą."
   pagrindžia:
     - c-160636
 
@@ -2239,17 +891,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-058
   global_id: t-176731
   teiginys: "Vytautas Lucko suvažiavime priėmė imperatoriaus siūlomą vainiką ir pareiškė tai darantis niekieno neatsiklausdamas."
-  semantiniai_rysiai: "Zigmantas I rėmė Vytautas (Lietuvos valdovas, XIV–XV a.) (0.91); Vokiečiai rėmė Vytautas (Lietuvos valdovas, XIV–XV a.) (0.63)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "94225-94813; hash=452058276a32793e7100b9fdac9c0e6646f8427633537cad418beb3ffc10375c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "reme -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.91"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Zigmantas I: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Zigmantas I rėmė Vytauto vainikavimo planą."
   pagrindžia:
     - c-160661
 
@@ -2257,16 +898,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-090
   global_id: t-176732
   teiginys: "Po suvažiavimo Vytautas įsitikino, kad su Lenkija geruoju nesusitars, ir laukė karūnos kaip valstybės laisvės ženklo."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "561417-561887; hash=5eec6306cb5f5970610ec22c1eded8b17560ac2e788aea2bc52f8954a402045b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Karūna: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Karūna: mention_match, thing, gap=64"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Karūna\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-160744
 
@@ -2274,20 +905,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-062
   global_id: t-176733
   teiginys: "Su Jogailos žinia, Vytautas kartu su Skirgaila 1392 m. paėmė Vitebską."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) užėmė Vitebskas (0.95); Skirgaila užėmė Vitebskas (0.93)"
-  temporaliniai_duomenys: "įvykio data: 1392 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo Vytauto, Skirgailos, Jogailos ir Vitebsko ryšį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "850985-851297; hash=7a064592788a2e738c5637b842d3c2c4b9f911d3e28d18b4e2996d5ed5641578; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Vitebskas: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vitebskas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Vytautas kartu su Skirgaila paėmė Vitebską."
   pagrindžia:
     - c-34203
 
@@ -2295,21 +912,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-111
   global_id: t-176734
   teiginys: "Atgimstančios lietuvių tautos sąmonėje Vytautas buvo pasirinktas valstybės ir tautos didvyriu."
-  temporaliniai_duomenys: "įvykio data: 1930 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sakinys sutrumpintas ir pašalinta perteklinė vardijimo forma."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "325301-325683; hash=6671866a3106537eda5b6836d83f203dd05a99edb12335454ed6bb1879bfc7c4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=25"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-160700
 
@@ -2317,20 +919,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-176
   global_id: t-176735
   teiginys: "Vilniaus vyskupui Petrui atsisakius sutuokti dėl artimos giminystės, tarp jo ir Vytauto kilo karšti ginčai."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) kariavo prieš Totoriai (0.86)"
-  temporaliniai_duomenys: "įvykio data: 1419 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko ginčo faktą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "333524-334673; hash=07c853747ca390637bc349d209abbeff234e429bd9f3816c7381a13eee412db1; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Totoriai: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Totoriai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata nurodo Vytauto laimėtus mūšius su totoriais."
   pagrindžia:
     - c-160663
 
@@ -2338,18 +926,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-036
   global_id: t-176736
   teiginys: "1383 m. Tapiau Vytautas buvo pakrikštytas ir gavo Vigando vardą."
-  temporaliniai_duomenys: "įvykio data: 1383 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "88783-89050; hash=57f4ad87b83f8dc9f691de7f1a099ee941fb326c4140339e6739ce2aba4f2f57; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vytautas (Lietuvos valdovas, 1384 m.): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, 1384 m.): mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Vytautas (Lietuvos valdovas, 1384 m.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-21379
 
@@ -2357,16 +933,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-166
   global_id: t-176737
   teiginys: "Vytauto seserį Oną vedė vyresnysis Mazovijos kunigaikštis Jonušas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "251348-251861; hash=37f97643b7ae6d1f1140b81f5722603ea8eb03c28fc2eeaaaa02e9881ec19b64; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Mazovija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Mazovija: mention_match, place, gap=35"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Mazovija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-160635
 
@@ -2374,17 +940,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-107
   global_id: t-176738
   teiginys: "Lucko suvažiavimas Lietuvos istorijoje siejamas su Vytauto vainikavimo planu, kurį rėmė Zigmantas I ir Vokiečių ordinas."
-  semantiniai_rysiai: "Vokiečių ordinas rėmė Vytautas (Lietuvos valdovas, XIV–XV a.) (0.92); Zigmantas I rėmė Vytautas (Lietuvos valdovas, XIV–XV a.) (0.91)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "94225-94813; hash=452058276a32793e7100b9fdac9c0e6646f8427633537cad418beb3ffc10375c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "reme -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vokiečių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Vokiečių ordiną kaip Vytauto vainikavimo plano rėmėją."
   pagrindžia:
     - c-160661
 
@@ -2392,16 +947,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-060
   global_id: t-176739
   teiginys: "Vytautas LDK apgyvendino musulmonų totorių ir karaimų bendruomenes."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "137810-138323; hash=f479109d4aa35e28aaa3f8ae3ca3361d763f4c0a79fa808cc978923fc1342bf5; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Karaimai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Karaimai: mention_match, group, gap=46"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Karaimai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-160633
 
@@ -2409,16 +954,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-139
   global_id: t-176741
   teiginys: "Vytauto valdymo užkariavimai pastūmė Lietuvos sienas nuo Baltijos iki Juodosios jūros."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "296369-297259; hash=216b838271cef42a28debd3a8e8443e2355e55cb05def6690e189dd2367c82a6; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Baltija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Baltija: mention_match, place, gap=57"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-160652
 
@@ -2426,22 +961,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-044
   global_id: t-176742
   teiginys: "Vytautas nustojo mokėti duoklę mongolams, panaikino dalinių kunigaikštijų sistemą, paskyrė vietininkus ir sutelkė realią valdžią LDK savo rankose."
-  semantiniai_rysiai: "Luckas priklausė Vytautas (Lietuvos valdovas, XIV–XV a.) (0.94); Vytautas (Lietuvos valdovas, XIV–XV a.) valdė teritoriją Podolė (0.78)"
-  temporaliniai_duomenys: "įvykio data: 1393 m.; įvykio data: 1394 m.; įvykio data: 1395 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalinta kontekstinė pradžia ir suformuluotas enciklopedinis sakinys."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "77765-78116; hash=2659f558cccbb16e4481f6b8b9fd71722edba1fa57fad5919f20451acc4adc13; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Luckas: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Luckas perėjo Vytauto žinion."
-  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-160682
 
@@ -2449,20 +968,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-064
   global_id: t-176743
   teiginys: "Pasižadėdamas ordinui padėti užimti Žemaičius, Vytautas sutiko ten jam pastatyti dvi naujas pilis."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) rėmė Kryžiuočių ordinas (0.86)"
-  temporaliniai_duomenys: "pastatymo data: 1392 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra tikslus ir paremtas citata apie Vytauto įsipareigojimą ordinui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "894152-894710; hash=59999d18c9f7263297df3e3080732f782a1f5bf264209d946e977943fb976655; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "reme -> Kryžiuočių ordinas: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Vytautas pažadėjo ordinui padėti užimti Žemaičius."
   pagrindžia:
     - c-04402
 
@@ -2470,19 +975,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-115
   global_id: t-176744
   teiginys: "Nuo 1930 m. rugsėjo 8 d. Tautos šventė minėjo neįvykusį Vytauto karūnavimą ir Švenčiausiosios Mergelės Marijos gimimą."
-  temporaliniai_duomenys: "įvykio data: po 1930 m.; įvykio data: 1930 m.; įvykio data: 1934 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko faktą apie Vytauto karūnavimo atminimą Tautos šventėje."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "349832-350691; hash=6b0135246e2fe0343ae3918cd072c9f00d42a1e48ecada67cd5ef939736c6736; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> A. Smetona: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "A. Smetona: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"A. Smetona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-160619
 
@@ -2490,17 +982,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-089
   global_id: t-176745
   teiginys: "Vytautas Didysis lenkų pasiuntinius apdovanojo ir išvykstant pats palydėjo iki Volkovisko."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į Volkoviskas (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "552987-553390; hash=5ff20f73710f0a688d898d3c615bf179047531c517f3c0da383e10679824461e; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Volkoviskas: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Volkoviskas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Vytautas palydėjo pasiuntinius iki Volkovisko."
   pagrindžia:
     - c-160644
 
@@ -2508,16 +989,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-048
   global_id: t-176746
   teiginys: "Vytautas įsakė žemaičiams puldinėti Ordino pilis ir taip slėpė jungtinės Lenkijos ir Lietuvos kariuomenės puolimo kryptį."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "82765-83213; hash=b1e4af18c13393e7c7aa35f13e9b9151aa817dd5c647c6e77dc235b3dbfda1af; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=73"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-160627
 
@@ -2525,16 +996,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-131
   global_id: t-176747
   teiginys: "Jogailai išvykus į Lenkiją, akylai stebimas Vytautas negalėjo savarankiškai imtis veiksmų."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "253803-254677; hash=08dcade37c70a316d59fb7339b63378e2e141cd06d167fe2c166bdf86a398d9b; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gardinas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Gardinas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Gardinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-160673
 
@@ -2542,19 +1003,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-045
   global_id: t-176748
   teiginys: "1415 m. Naugarduke sušaukęs LDK stačiatikių vyskupų suvažiavimą, Vytautas įkūrė LDK stačiatikių metropoliją ir į ją paskyrė vieną žymiausių to meto stačiatikybės teologų Grigorijų Camblaką."
-  temporaliniai_duomenys: "įkūrimo data: 1415 m.; įkūrimo data: 1439 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie Vytauto veiksmus."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "79794-80403; hash=63267e75af8a5ac8213ef6492e645e9b2c48cda00106bcca2f526a48299a0a29; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Grigorijus Camblakas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Grigorijus Camblakas: mention_match, author, gap=105"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Grigorijus Camblakas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-160732
 
@@ -2562,16 +1010,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-099
   global_id: t-176749
   teiginys: "Vytautas įsakė žemaičiams puldinėti Ordino pilis, kad pridengtų jungtinės Lenkijos ir Lietuvos kariuomenės puolimo kryptį."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "82765-83213; hash=b1e4af18c13393e7c7aa35f13e9b9151aa817dd5c647c6e77dc235b3dbfda1af; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=74"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-160627
 
@@ -2579,16 +1017,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-177
   global_id: t-176750
   teiginys: "Vytautas nutraukė ryšius su Maskvos metropolitu Fotijumi ir liepė Naugarduke išrinkti Lietuvai atskirą metropolitą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "344299-344900; hash=3b180e586fb12d7d4ca13236c1ac842f249456aec01167e9b21683c65e7db94f; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Fotijus: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Fotijus: mention_match, person, gap=48"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Fotijus\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-160680
 
@@ -2596,20 +1024,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-070
   global_id: t-176751
   teiginys: "Zenonas Ivinskis Vytautui priskyrė taupumą ir didelį švaistymąsi materialinėmis gėrybėmis, ypač siekiant pasirodyti užsieniečiams."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) surengė žygį į Naugardas (0.88)"
-  temporaliniai_duomenys: "įvykio data: 1428 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Tai autoriaus charakterio vertinimas, todėl reikalinga atribucija."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1032456-1032928; hash=87d26cce5464c907e9a68d5180b308bef80dbda3710cc22f5b4f85a5a9c17ebe; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "surenge_zygi_i -> Naugardas: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Naugardas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Vytauto žygį prieš Naugardą."
   pagrindžia:
     - c-34208
 
@@ -2617,19 +1031,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-187
   global_id: t-176752
   teiginys: "Vytauto laiškas dėl gydytojo buvo datuotas Obolcuose 1426 m. sausio 13 dieną."
-  temporaliniai_duomenys: "įvykio data: 1426 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys nurodo laiško vietą ir datą pagal citatą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "483529-483768; hash=6aaad502192e3748de0bc36ef12e033274777cc32b6bd7d7ae687e81cb0dae8f; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vitebskas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Vitebskas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Vitebskas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-160733
 
@@ -2637,16 +1038,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-179
   global_id: t-176753
   teiginys: "Jogaila ir Vytautas buvo paskatinti Lucke sušaukti monarchų ir kunigaikščių suvažiavimą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "349844-350399; hash=e7f4483208e351a6c136847d1ef61b787f8370e1f3a94d829ee70ea1d89a1089; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Luckas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Luckas: mention_match, place, gap=25"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Luckas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-160622
 
@@ -2654,16 +1045,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-141
   global_id: t-176754
   teiginys: "Vytautas sukvietė Lietuvos ir Rusios didikus į tarybą ir klausė, ar jie nori būti pavaldūs Lenkijai."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "320770-321256; hash=5a62492ffaa39ea19f01f484f90fd2528add9d5e26fe4165d2467242a135e945; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=91"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-160641
 
@@ -2671,16 +1052,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-049
   global_id: t-176755
   teiginys: "Žalgirio mūšio rytą Vytautas siekė lemiamo mūšio, o Jogaila delsė, laukdamas Ordino pasiūlymo derėtis."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "83684-84028; hash=c8725f7d83378c40233d008c47e649cd518c95d48133a62ba9b735a26c17253a; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=32"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-160690
 
@@ -2688,19 +1059,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-190
   global_id: t-176756
   teiginys: "1413 m. Salyno derybose Vytautas pareiškė, kad Prūsai iki Osos yra jo tėvų palikimas."
-  temporaliniai_duomenys: "įvykio data: 1413 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pagrindžia Vytauto pareiškimą, bet pradinis teiginys nutrūkęs ir su kabučių klaidomis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "25834-26080; hash=7ff0f4c49ea0b76ec9afceb18bad1bfc7003242e3c9445f8c6bbb10284851906; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Prūsų žemė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; prusai_place_context; same_sentence_locality; single_candidate_actor; single_candidate_target; target_after_predicate"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Prūsai: mention_match, place, gap=23"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-160672
 
@@ -2708,16 +1066,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-137
   global_id: t-176758
   teiginys: "Mazovijos kunigaikštis Henrikas su slaptu Jogailos pavedimu buvo atvykęs pas Vytautą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "294706-295277; hash=37de4925435d08097d375d5a8016f0256ae600be6a7d9177658ff626a61d9d3d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Henrikas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Henrikas: mention_match, author, gap=54"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Henrikas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-160669
 
@@ -2725,19 +1073,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-185
   global_id: t-176759
   teiginys: "Nuo 1400 m. Vytautas, Žygimantas ir Kazimieras Trakuose svarstė svarbiausius Lietuvos reikalus, nors Vilnius liko Didžiosios Kunigaikštystės sostinė."
-  temporaliniai_duomenys: "įvykio data: po 1400 m.; įvykio data: 1400 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata kalba ne tik apie Vytautą, bet ir apie Žygimantą bei Kazimierą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "477656-478203; hash=9805002f1235f0757a5a5ac3926e15c2a0578716b6ace6444eef6a8f6dd40b21; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=65"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-160721
 
@@ -2745,16 +1080,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-047
   global_id: t-176760
   teiginys: "Vytautas per savo agentus Lenkijoje skleidė nuostatą, kad karas su Vokiečių ordinu būtinas."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "82320-82539; hash=13959913473e77a8fa03f80329f20cf4d51917d8e3d36629ca4568aa17c53149; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=76"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-160692
 
@@ -2762,9 +1087,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-191
   global_id: t-176761
   teiginys: "Vytautas dėl teisingo elgesio pelnė didelę pagarbą tarp savųjų ir svetimųjų."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "640600-641067; hash=9dca1d2cf4b10333da16394cdb5a239e5215919fc32110222b79207dd707254d; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-36591
 
@@ -2772,16 +1094,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-074
   global_id: t-176762
   teiginys: "Lietuviai krikštijosi Vytauto Didžiojo ir Jogailos paraginti bei vykdydami jų įsakymus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "258736-259081; hash=c6bd4b689ccb20416ea2ce5086b85b91fa2dfe73a620da015dad6f5186ee120e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Krikščionys: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Krikščionys: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Krikščionys\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-160621
 
@@ -2789,17 +1101,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-091
   global_id: t-176763
   teiginys: "Mokslininkai kelia mintį, kad Vytauto valstybės pakraščiuose galėjo būti įkurdinti ištikimi žmonės iš Lietuvos."
-  semantiniai_rysiai: "Lietuviai gyveno Lietuva (0.72)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "15889-16439; hash=c6203bb33092d0dd4a662e73a643b259cf927c59dada081af323b791aec2297f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Lietuva: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata kalba apie ištikimus žmones iš Lietuvos, siejamus su lietuviais; tai pagrindžia atsargų gyvenamosios / kilmės vietos ryšį."
   pagrindžia:
     - c-160626
 
@@ -2807,16 +1108,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-168
   global_id: t-176764
   teiginys: "Jogailai išvykus į Lenkiją, Vytautas buvo akylai stebimas ir negalėjo savarankiškai veikti."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "253996-254835; hash=9b6688806b0d96ffdf1ac801c57e03445e0640ec2c784bba0de52864942e38d4; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gardinas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Gardinas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Gardinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-160609
 
@@ -2824,16 +1115,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-132
   global_id: t-176765
   teiginys: "Vytautas Gardine susimokė su jam palankiais Lietuvos kunigaikščiais ir didikais išvyti Skirgailą iš sostinės ir paimti valdžią."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "253996-254835; hash=9b6688806b0d96ffdf1ac801c57e03445e0640ec2c784bba0de52864942e38d4; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gardinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Gardinas: mention_match, place, gap=9"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Gardinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-160609
 
@@ -2841,17 +1122,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-075
   global_id: t-176766
   teiginys: "Vytautas Didysis nuo pirmos krikšto dienos aktyviai dalyvavo krikštijime, aiškino tikėjimą ir ragino žmones krikštytis."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) valdė miestą Gardinas (0.82)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "264547-264952; hash=bad9d95f8001551dca5939a85031ebdcd5560a57ab45a115dc86d1d6d83f1506; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde_miesta -> Gardinas: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Gardinas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai vadina Vytautą Gardino kunigaikščiu, todėl pagrindžia Gardino valdymą."
   pagrindžia:
     - c-160737
 
@@ -2859,18 +1129,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-144
   global_id: t-176767
   teiginys: "1418 m. mirus žmonai Onai, Vytautas nusprendė vesti jos dukterėčią Julijoną Alšėniškę."
-  temporaliniai_duomenys: "įvykio data: 1418 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "332973-333848; hash=0811eda00dc2b7162f93f2c8490d09baaf301d6a8c1a6fa1a1f82e7c4cee5bf4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Alšėnai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Alšėnai: mention_match, place, gap=49"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Alšėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-160722
 
@@ -2878,17 +1136,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-133
   global_id: t-176768
   teiginys: "Vytautas bandė užimti Žemutinę pilį, į Vilnių pasiuntęs roges su jose paslėptais ginkluotais žmonėmis."
-  semantiniai_rysiai: "Skirgaila keliavo į Polockas (0.90); Vytautas (Lietuvos valdovas, XIV–XV a.) siuntė į Vilnius (0.82)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "255045-255742; hash=74a497808b842195882ebf930604a2e0008012686a5dba25171cd54dd80f50f0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Polockas: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Skirgaila: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Polockas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Skirgailos išvykimą į Polocką."
   pagrindžia:
     - c-160683
 
@@ -2896,17 +1143,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-120
   global_id: t-176769
   teiginys: "Vytauto istoriškai reikšminga veikla prasidėjo Kęstučio kovos su Jogaila metu."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) buvo sūnus Kęstutis (vakarų pasienio valdovas, XIV–XV a.) (0.92)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "643475-643895; hash=eac6d1bec799cf6a863a69105e50c879aefa79511e9afa58dbbbd89184e14ba7; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sunus -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata tiesiogiai įvardija Kęstutį kaip Vytauto tėvą."
   pagrindžia:
     - c-36593
 
@@ -2914,17 +1150,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-162
   global_id: t-176770
   teiginys: "Po Kęstučio mirties Vytautas buvo pervežtas iš Vilniaus į Krėvą ir įkalintas."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į Krėva (0.83)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "107282-107965; hash=d500c2d91d770247fbaeb5f5ed650b01605817bc2dc9f2f95945adf0ad837613; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Krėva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Krėva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys nurodo Vytauto pervežimą į Krėvą, nors judėjimas buvo priverstinis."
   pagrindžia:
     - c-160617
 
@@ -2932,17 +1157,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-082
   global_id: t-176771
   teiginys: "Kėzmarke Vytautas Didysis atmetė Zigmanto siūlymą suardyti uniją ir priimti karaliaus karūną."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į Kėzmarkas (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "442574-443218; hash=a902a854b6f4b41f458e45a7911d34c4393f5e8b296966900382e0f84931870f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Kėzmarkas: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kėzmarkas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Vytauto kelionę į Kėzmarką."
   pagrindžia:
     - c-160712
 
@@ -2950,19 +1164,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-088
   global_id: t-176772
   teiginys: "1429 m. Vytautas Didysis į Lenčicą pas Jogailą pasiuntė delegatus Gedgaudą ir Rumbaudą."
-  temporaliniai_duomenys: "įvykio data: 1429 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra konkretus ir paremtas citatoje nurodytais asmenimis bei vieta."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "545502-545790; hash=98b7e9d04f61620815787b5893dc222ec7b68588b989e6bd7b6cb67ee1a89330; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenčica: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lenčica: mention_match, place, gap=19"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Lenčica\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-160746
 
@@ -2970,20 +1171,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-092
   global_id: t-176634
   teiginys: "Vytautas valdė 1392–1430 m. ir šaltinyje vadinamas žymiausiu Lietuvos valdovu."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) valdė Lietuva (0.94)"
-  temporaliniai_duomenys: "įvykio data: 1392-1430; įvykio data: 1430 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis tekstas yra lentelės fragmentas, ne sakinys."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "30044-30165; hash=ba6616bb171caed7f6c7ed48bd4d820a0a19f4bd88382e3c7815f14c132252f8; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde -> Lietuva: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai vadina Vytautą Lietuvos valdovu ir pateikia jo valdymo metus."
   pagrindžia:
     - c-166968
 
@@ -2991,19 +1178,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-196
   global_id: t-183576
   teiginys: "Vytautas įsakė žemaičiams puldinėti Ordino pilis, kad pridengtų jungtinės Lenkijos ir Lietuvos kariuomenės puolimo kryptį."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "82628-83054; hash=964e98b4f6d076fbecfd0794126784fe7907d6e88b6d9276b67449c9ebd90848; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=74"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-166969
 
@@ -3011,20 +1185,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-197
   global_id: t-183844
   teiginys: "Vytauto karas su Skirgaila dar labiau pablogino Vilniaus padėtį."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) kariavo prieš Skirgaila (0.94)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "253367-253995; hash=8aeeae0013a42a785f118991b7fce285ee3ffbea09a820fff293230daa82b7ca; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Skirgaila: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Skirgaila: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai apibūdina Vytauto karą su Skirgaila."
   pagrindžia:
     - c-167229
 
@@ -3032,19 +1192,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-198
   global_id: t-184379
   teiginys: "Vytautas, apsimetęs ordino draugu, mainėsi laiškais, davė patarimus, keitėsi brangiomis dovanomis ir tarėsi nematąs įvykių Žemaičiuose."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "908418-908693; hash=3df2b5218658b53d259874f86416456e504a07463dd07083f1a56cc760fc1986; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Dubysa: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Dubysa: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Dubysa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-167748
 
@@ -3052,20 +1199,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-199
   global_id: t-184862
   teiginys: "Vytautas, iš draugų sužinojęs apie Jogailos veiksmus, su Birute pasitraukė į Gardiną."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Jogaila (kunigaikštis, XIV–XV a.) puolė Trakai (0.91); Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į Gardinas (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "468799-469269; hash=d440b3f9d4e1793d7b5d712784bdcaa7ec245abe05378c85c03416c8a3086a78; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Trakai: 0.91"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Jogaila puolė Trakus."
   pagrindžia:
     - c-168223
 
@@ -3073,19 +1206,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-200
   global_id: t-184863
   teiginys: "Skirgaila Jogailos vardu turėjo viešai pažadėti Vytautui saugumą ir neliečiamybę taikos derybose."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "472315-473011; hash=e610806d8bbeef1780b9b6b962177a9d03f72ec42d4cc53ae666ef5b4a98ea4e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=38"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-168224
 
@@ -3093,19 +1213,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-201
   global_id: t-184864
   teiginys: "Ona įspėjo Vytautą apie gresiančią mirtį ir patarė jam pabėgti apsirengus merginos drabužiais."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "476635-477094; hash=c9559b4859f3f677d8bfc324585e0e4d31bec8accb93b6ca6d1704c8bdfec225; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Drabužiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Drabužiai: mention_match, thing, gap=72"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Drabužiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-168225
 
@@ -3113,19 +1220,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-202
   global_id: t-184865
   teiginys: "Mazovijos kunigaikščiai Jonušas ir Zemovitas priėmė Vytautą, bet nesistengė suteikti jam deramos pagalbos."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "524291-525174; hash=e3a393d9dda295d45dfc4cc4f8a01e83aba3f74e90cd8101bd85df22cc03c179; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kamenecas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kamenecas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Kamenecas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-168226
 
@@ -3133,19 +1227,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-203
   global_id: t-184866
   teiginys: "Vytautas iš Konrado Celnerio gavo karių ir lėšų karui."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "525554-526129; hash=1200387a0db3dc0f7c4e1c9a17ae28d92cfc5881b486d70c3420c79e9e09a553; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-168227
 
@@ -3153,19 +1234,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-204
   global_id: t-184867
   teiginys: "Sklido gandai, kad tariamasi dėl Henriko Mazoviečio ir Vytauto sesers Ringailės santuokos."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "537644-538087; hash=f055555b62065ed5c681472a2d68ad8591ec8293d2dc220fa48e9765a2ab7f39; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Mazovija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Mazovija: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Mazovija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-168228
 
@@ -3173,19 +1241,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-205
   global_id: t-184868
   teiginys: "Vytautas po mūšio nukreipė visas savo jėgas į Vilnių, norėdamas užimti pilis."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "550976-551254; hash=3fc82b3555d83d23735901aa2f0e7b94a31e6dc8a59c260eaf4769b5c813e17b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Skirgaila: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Skirgaila: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Skirgaila\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-168229
 
@@ -3193,22 +1248,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-206
   global_id: t-184869
   teiginys: "Vytautas, pranešęs Olesnickiui apie atvykimą, buvo jo prielankiai įlydėtas į Vilnių."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į Vilnius (0.91)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "570834-571244; hash=9ab7d28360b1da40bbfb70f614d72774dd847475349bd97719d06958e4b12e50; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Vilnius: 0.91"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citatoje tiesiogiai sakoma, kad Vytautas patraukė į Vilnių."
-  vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-168230
 
@@ -3216,19 +1255,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-207
   global_id: t-184870
   teiginys: "Vytautui parodžius palankumą, apsuptieji pasidavė jo malonei."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "600106-600383; hash=17a9ed09406e47c6056942c684fc74adca1dade1ce66e0bf4ab0535a87dde232; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-168231
 
@@ -3236,20 +1262,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-208
   global_id: t-184871
   teiginys: "Vytautas ėmėsi karo prieš Švitrigailą, siekdamas didesnio Baltarusijos žemių paklusnumo Lietuvos didžiajam kunigaikščiui."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) puolė Druckas (0.68)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "604760-605473; hash=f35f0da5188a1b0746598d6205fe69b6f51688eb876439fb56670408f01c306b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Druckas: 0.68"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Druckas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Po užpuolimo ir Oršos užėmimo tekstas nurodo, kad Vytautas traukė į Drucką karinėje kampanijoje."
   pagrindžia:
     - c-168232
 
@@ -3257,19 +1269,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-209
   global_id: t-184872
   teiginys: "Trisdešimtą apgulos dieną Vytauto kariai pro sugriautus įtvirtinimus įsiveržė į žemutinę pilį."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "605852-606284; hash=4c3692eec5618d940588965caad5dacf6ccd70708270dc650b2845158a2ab242; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Livonija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Livonija: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Livonija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-168233
 
@@ -3277,19 +1276,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-211
   global_id: t-184874
   teiginys: "Stovėdamas su raitija vienoje vietoje, Vytautas kasdien vis labiau juto maisto stoką."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "642889-643280; hash=29b9ecf9917099a5cb579cefbf30bb6b3fb2342260d404fc490f37cd140eb856; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Viena: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Viena: mention_match, place, gap=17"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-168235
 
@@ -3297,19 +1283,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-212
   global_id: t-184875
   teiginys: "Vytautas su didikais Goštautu, Rumbaudu ir Radvila išvyko pas imperatorių."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "655087-655643; hash=c93c31e97a2337c22b5bd628369a13439b476128106a343faf8c0fbf3e0827c0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Radvila: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Radvila: mention_match, person, gap=43"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Radvila\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-168236
 
@@ -3317,20 +1290,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-213
   global_id: t-184876
   teiginys: "Vytautui pavyko sušaukti rusų tautos suvažiavimą Lietuvos Naugarduke."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į Naugardukas (0.66)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "684249-684647; hash=422fbc5be4eec8e5efce85c75a0d52121e79079ead0e7a5c809a4e0e07e21110; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Naugardukas: 0.66"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Naugardukas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas nurodo, kad Vytautas pats dalyvavo suvažiavime, vykusiame Lietuvos Naugarduke."
   pagrindžia:
     - c-168237
 
@@ -3338,20 +1297,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-214
   global_id: t-184877
   teiginys: "Po žmonos Onos mirties Vytautas Trakuose nutarė tuoktis su Alšėnų kunigaikščio Algimantaičio dukra Julijona."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į Trakai (0.93); Vytautas (Lietuvos valdovas, XIV–XV a.) buvo vyras Ona Vytautienė (0.91)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "691123-691400; hash=4201cc37bc46932468fb2f04be939b0165a693678549e21d659e6d55718b03f0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Trakai: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Vytauto vykimą į Trakus."
   pagrindžia:
     - c-168238
 
@@ -3359,20 +1304,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-215
   global_id: t-184878
   teiginys: "Vytautas paskelbė Jerim Berdį teisėtu valdovu ir pasiryžo jį paremti grąžinant į valdžią."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) siuntė į Skitija (0.74)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "696031-696565; hash=c48ed69b81959feeba64ed74e96803a28ce60851ac12e58bf87c2b5ca415b800; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "siunte_i -> Skitija: 0.74"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Skitija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Vytautas įsakė kariuomenei palydėti Jerim Berdį į Skitiją, todėl kryptis tiesiogiai paremta tekstu."
   pagrindžia:
     - c-168239
 
@@ -3380,20 +1311,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-216
   global_id: t-184879
   teiginys: "Kojelavičiaus vertinimu, garbės troškimas sutrukdė Vytautui įžvelgti, kad Zigmanto siūlymai ardė lietuvių ir lenkų sandraugą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) buvo sąjungininkas su Zigmantas (Romos imperatorius) (0.78)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "729561-730144; hash=17e1147afe690ed1314240e56670845d61d50b86ce796410e417829657daaec6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sajungininkas_su -> Zigmantas (Romos imperatorius): 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Zigmantas (Romos imperatorius): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata teigia, kad Vytautas susidraugavo su imperatoriumi; Zigmantas yra nurodytas šiame kontekste."
   pagrindžia:
     - c-168240
 
@@ -3401,12 +1318,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-217
   global_id: t-184880
   teiginys: "Gavęs slaptų laiškų iš kai kurių lenkų, Vytautas griežtai atsakė pasiuntiniams dėl karališkojo vainiko."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "738861-739555; hash=c31cee6f0f22ef94b8e6857fca853454f505a6636316b6805271ed94e7175777; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-168241
 
@@ -3414,20 +1325,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-218
   global_id: t-184881
   teiginys: "Artėjant laukiamai dienai, Vytautui vis didesnį nerimą kėlė galimos kliūtys."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į Vilnius (0.72)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "743176-743646; hash=ff4f448ed59d9d3183b53abce59ddd3dc034d9cca44a5976c1df123b3d9b0b72; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Vilnius: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata rodo veiksmą Vilniuje ir kvietimą į Vilnių Vytauto rengiamoms iškilmėms."
   pagrindžia:
     - c-168242
 
@@ -3435,12 +1332,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-219
   global_id: t-184882
   teiginys: "Žygimantas buvo palaidotas tame pačiame kape, kuriame jau ilsėjosi jo brolio Vytauto palaikai."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "815107-815581; hash=ce5da3284c1748a81ef8ff5af0a0d59475fe09d159026083d9c254ed154adab6; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-168243
 
@@ -3448,22 +1339,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-180
   global_id: t-188647
   teiginys: "Narbutas Vytautą įvardija kaip Kęstučio ir kunigaikštienės Birutės sūnų, kartu su Patriku, Tautvila, Sigaila ir Danute."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1429 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Legendinė Birutės genealogija palikta su Narbuto atribucija. Nepridėtos datos ar vėlesnis Vytauto statusas."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "268228-268748; hash=110703b1dc4e04d6b8640df45d1cf9d9ece6836884f9840c876cc2ee541d913f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Birutė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Birutė: mention_match, person, gap=50"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Birutė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-171536
 
@@ -3471,22 +1346,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-181
   global_id: t-188648
   teiginys: "Narbutas rašo, kad Vytautui viešpataujant Lietuvoje kunigaikštienė Birutė sugrįžo į Palangą ir ten mirė 1416 m."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1416 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys susietas su Vytauto valdymo kontekstu, o Birutės gyvenimo pabaiga palikta su Narbuto atribucija. Neperimtas vertinimas apie šventumą."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "268684-268964; hash=0ad7f16c1c7f67f03ca6415a09588d48539df600dbd2e7d0364a0dc7ad5c1fa1; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Birutė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Birutė: mention_match, person, gap=48"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Birutė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-171537
 
@@ -3494,19 +1353,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-182
   global_id: t-188649
   teiginys: "Narbutas aiškina, kad Jogaila ir Vytautas iš pagarbos Birutei paliko jai aukurą ir apeigas, nes negalėjo palenkti jos į krikščionybę."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "269929-270472; hash=5b2e5d5e58dc9439184c299e330b32f127b67ba7ac49ad455958c18efbf7e101; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aukuras: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Aukuras: mention_match, thing, gap=40"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Aukuras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-171538
 
@@ -3514,23 +1360,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-183
   global_id: t-188650
   teiginys: "Narbutas 1386–1447 m. laikotarpį laiko didžiausios Lietuvos galybės epocha, ypač Vytauto valdymo metu."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) valdė Lietuva (0.86)"
-  temporaliniai_duomenys: "valdymo laikotarpis: 1386-1447; valdymo laikotarpis: 1447 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Vytautas (Lietuvos valdovas, XIV–XV a.) valdė Lietuva“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Vertinamasis teiginys apie Lietuvos galybę paliktas su Narbuto atribucija. Nepridėta papildomų politinės istorijos faktų."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "830784-831207; hash=f0803dfac03e425e8b719914da9530cd3f79be6144c93b500c3b24d74cc5d94b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde -> Lietuva: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai mini laikotarpį, kai Lietuva buvo „ypač valdant Vytautui“."
   pagrindžia:
     - c-171539
 
@@ -3538,24 +1367,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-220
   global_id: t-190999
   teiginys: "Narbutas nurodo turėjęs Švitrigailos 1451 m. privilegijos nuorašą, kuriame pakartota 1439 m. Vytauto privilegija."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1439 m.; įvykio data: 1451 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys paliktas kaip Narbuto turėto nuorašo liudijimas. Nepridėta heraldikos ir Ostapo Kropotkovo detalių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "948561-949183; hash=0118151f03a417f29cdc7dae508dff174cd57dd4e6d19051a0642d2ecfd8f5b5; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173881
 
@@ -3563,21 +1374,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-221
   global_id: t-191000
   teiginys: "Narbutas Lietuvos didžiausios galybės laikotarpį sieja ypač su Vytauto valdymu po Skirgailos."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "968271-968498; hash=60a61568053ba856c4c6fe2889189501294adeba0f138570848309995f0bc17c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=54"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173882
 
@@ -3585,14 +1381,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-222
   global_id: t-193406
   teiginys: "Vytautas įsakė visų Lietuvos žemių karo jėgoms susirinkti į Smolenską."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "640824-641173; hash=d093184d88c02e34ed2228afac67af60b812cd050772f3c578cf8ee1e294cc1a; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-176128
 
@@ -3600,14 +1388,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-223
   global_id: t-193407
   teiginys: "Vytautas nesusipažinęs su L ietuvos isto rija, k u r aišk iai p asak y ta, k ad jo p irm tak ai Jo g a ila bei V y tau tas p a p rastai už p inigus L iv o n ijo je sam dydavęsi k arių?"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1281378-1281838; hash=a4789cd1483540dcc45b98217a08aaf64f6610838be567ff07caa49db7d43b0f; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-176129
 
@@ -3615,12 +1395,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-224
   global_id: t-193631
   teiginys: "Mūsų kultūroje ypač garbingą vietą užima žymiausių jos atstovų – Gedimino, Algirdo, Kęstučio, Vytauto – vardai, o dinastijos ženklas – Gediminaičių stulpai – yra vienas iš svarbiausių lietuvių tautos ir Lietuvos valstybės simbolių."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "56871-57251; hash=fa4649c68abb449c9969ddd2666031346b09f47b71c3a94413c717d235e413b4; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176302
 
@@ -3628,12 +1402,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-225
   global_id: t-193632
   teiginys: "Vytauto centralizacijos politika sutelkė plačios erdvės Rytų Europoje išteklius."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "80528-81019; hash=d42e70cf89b8044b4e3c33d4bf2b718f6c6babd85ea98ba292ae1e32b4d648ef; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176303
 
@@ -3641,12 +1409,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-226
   global_id: t-193633
   teiginys: "O sava valstybė, atėjusi iš Mindaugo, Kęstučio, Algirdo ir Vytauto laikų, buvo jų svajonių, ateities planų garantas, pati didžiausia vertybė."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "355328-355535; hash=892c969976a8c4e9754e8eedafe7f72affcdb1c2deb595a246710e3de5ae575b; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176304
 
@@ -3654,12 +1416,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-227
   global_id: t-194006
   teiginys: "Dėl dalyvavimo 1831 m. sukilime turėdamas emigruoti į už sienį, jis tespėjo paskelbti dramatiškiausią Bychovco kronikos fragmentą — pasakojimą apie Vytauto brolio Žygimanto Kęstutaičio nužudymą 1440 m."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "11364-11719; hash=1059e5b81ee054313830ca5badba144068c41347265a542c7f1d3d1ab107458f; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176631
 
@@ -3667,12 +1423,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-228
   global_id: t-194007
   teiginys: "Pirmas — Vytautas2 6 , o kai krikštijosi pravos lavu, buvo jam duotas Jurgio vardas, o kai priėmė len kų tikėjimo krikštą, jam davė Aleksandro vardą2 7 ."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "134878-135389; hash=5b1dffec566f52dcba1cf19bcd32cf013e11574651a359c58b4e60ab5c0308ad; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176632
 
@@ -3680,12 +1430,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-229
   global_id: t-194008
   teiginys: "Didysis kunigaikštis Vytautas prieš Riazanės kunigaikštį Olegą pasiuntė kunigaikštį Simoną Lengvenį su didele kariuomene ir su Smolensko pajė gomis; tie parsivarė daugybę belaisvių riazaniečių ir su dideliu grobiu sugrįžo pas Vytautą (1396)1 3 ."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "171403-172286; hash=3ea1d27f2d48ea66fedbaae4d4891cb2d7c3b521fc950f9c215a46666b1dcb62; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176633
 
@@ -3693,12 +1437,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-230
   global_id: t-194009
   teiginys: "Didysis kunigaikštis Vytautas, tai išgirdęs, susijun gė su savo broliu, Lenkijos karaliumi Vladislovu Jogai la 4 0 , ir tą patį rudenį su visomis savo kariuomenėmis atvyko į Smolenską1 1 , išvijo kunigaikščius Jurijų Svetoslavovičių ir Riazanės kunigaikštį."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "175060-175603; hash=1e400c7fa144fe7fa5bc88c8cf4e56c3714eeb950d0afe76f177f28ddb397f65; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176634
 
@@ -3706,12 +1444,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-231
   global_id: t-194010
   teiginys: "Lietuvos metraštis teigia, kad aPIE JOGAILOS IR VYTAUTO KARĄ SU PROSUOS VOKIEČIAIS IR APIE JŲ NUGALĖJIMĄ MOSYJE PRIE DUBROVNOS Sesi tūkstančiai devyni šimtai dvidešimt pirmaisiais metais nuo pasaulio sutvėrimo, o nuo dievo gimimo tūkstantis keturi šimtai dvyliktaisiais metais 1 prasidė jo."
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "183455-184134; hash=746598988d4e2eda9af2132548ad6046588c5dd8fc8d82054b8c5b7f1cecf5bc; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176635
 
@@ -3719,12 +1451,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-232
   global_id: t-194011
   teiginys: "Esant šiam Vytautui didžiuoju kunigaikščiu ir val dant Lietuvos ir Rusų Didžiąją Kunigaikštystę ir daugelį kitų šalių, tiesiog visa Rusų žemė, ir ne vien Rusų že mė, bet ir Vengrų žemės valdovas, vadinamas Romos im peratorium igyveno su juo didelėje meilėje."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "310785-311403; hash=fa9df32d0ac923da900738fb5a804372d2277a119856976deb495eab5a772c71; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176636
 
@@ -3732,12 +1458,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-233
   global_id: t-194012
   teiginys: "Ir Danijos karalius didžiai šlovino ir daugeliu dovanų apdovanojo šlovingąjį valdovą, didį kunigaikštį Vytautą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "311990-312244; hash=ea9d18a813e2eb9a05d5f8f46641c49deee042261a1c05dd12ef8d38a9afa77a; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176637
 
@@ -3745,12 +1465,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-234
   global_id: t-194013
   teiginys: "Ir šis didysis kunigaikštis Aleksandras, vadinamas Vytautu, valdė didžiai gerbiamas ir šlovi namas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "314015-314375; hash=67e48e5ab82216f917b4acbcdbb6ddb0fbf05486784813a83a78cd1ba139c5b5; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176638
 
@@ -3758,12 +1472,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-235
   global_id: t-194014
   teiginys: "VYTAUTO SKUNDAS PRIEŠ JOGAILĄ IR SKIRGAILĄ Vytauto skundas — tai neabejotina Lietuvos Didžiosios Ku nigaikštystės lietuviškosios istoriografijos užuomazga."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "663525-664224; hash=c21625482ee2e0a55b44676fa1c976de981ddf430d62fd39f083c46e06f824a8; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176639
 
@@ -3771,12 +1479,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-236
   global_id: t-194245
   teiginys: "Mažai težinoma mums patiems, o Europai visai negirdė ta, istorija, garsi riterių žygiais ir išmintingiausia Mindaugo, Ge dimino, Algirdo, Kęstučio, Jogailos ir Vytauto politika, istorija menkame plote išsitenkančios Tautos, kuri pati viena, savosios pagonybės."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "26701-28139; hash=c0b098f5b00de528c9f5f03b8eea51a3dc442b34c962d0cf0859dfc4ab2a1950; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176841
 - susijęs iš [[objektai/asmenys/Marija (pirmoji Vytauto žmona).md#claim-t-35217|Marija (pirmoji Vytauto žmona)]]: Vytauto pirmoji žmona Marija buvo Rusijos kunigaikštytė ir, anot šaltinio, veikiausiai stačiatikė.
@@ -5173,8 +2875,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     ruoštais arkliais paspruko pas savo sesers vyrą, Mozūrų kuni-
     gaikštį Jonušą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -5188,8 +2890,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     nijoje būti ordino vasalu (1384 m.). Ordinas pakrikštijo Vytautą
     Vygando vardu ir išsiuntė su didele kariuomene į Lietuvą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -5208,8 +2910,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     jo didikų ir bajorų, kurie per Prūsų ir Livonijos magistrų surengtą
     puotą Vytautą paskelbė Lietuvos karaliumi.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -5228,8 +2930,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     Jungingenu, Vytautas pažadėjo per dešimtį metų nepriiminėti iš
     ordino žemių (Žemaičių) činšininkų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -5248,8 +2950,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     pulkus, davinėjo įsakymus, keisdamas žirgus visur jodinėjo, kau­
     tynių metu atstatinėjo pralaužtas vietas ar keitė naujais daliniais^19.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -5264,8 +2966,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     vedama Lenkijos kariuomene, viename didžiausių viduramžių
     Europos Žalgirio mūšyje visiškai sutriuškino Kryžiuočių ordiną..
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -5279,8 +2981,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     Smolenską ir pasiekęs Juodąją jūrą. Vytauto pralaimėjimas toto-
     riams prie Vorsklos 1399 m. sulėtino Lietuvos plėtrą rytuose.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -5296,8 +2998,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     šio laimėjimo nuopelnas, be abejo, pirmučiausia priklauso Vy-
     tautui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -5313,8 +3015,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     šyje^2 ), 1430 metais mirdamas jis turėjęs aštuoniasdešimt metų,
     vadinasi turėjo gimti apie 1350 metus^3 ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -5328,8 +3030,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     sant, į Ordino žemes. Tuokart jis pasirodė savarankiškas lie­
     tuvių kariuomenės vadas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -5344,8 +3046,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     jų įgula be vilties kovojo su gausiu priešu. Krikšte Vytautui
     buvo duotas Vigando vardas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -5361,8 +3063,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     rino su tautos ir valstybės reikalais: tautos priešai yra ir jo
     priešai, tautos draugai — jo draugai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -5376,8 +3078,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     dalykų mielai mokydavosi ir lengvai juos pasisavindavo. Ypač
     jis sekdavo Vakarų Eurpos išradimus ir papročius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -5392,8 +3094,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     duoti dokumentai (1392.VIII.5) rodo, kad jis su Ona jau titulavosi
     Trakų ir Lucko kunigaikščiais2S.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -5409,8 +3111,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     valdovus. Užsigavęs dėl tokių kalbų, Vytautas skundėsi magis­
     trui^62.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -5427,8 +3129,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     tino sutartį^6. Pasilikdamas sau Nevėžio žiotis, Vytautas kryžiuo­
     čiams užleido visus Žemaičius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -5445,8 +3147,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     savo meisterį į Trakus garsiajai salos piliai statyti Trakų (Galvės)
     ežere^44.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -5464,8 +3166,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     pastovesnius santykius. Vytauto «arklių girdymas» Juodojoje
     jūroje ilgai pasiliko žmonių atminime.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -5484,8 +3186,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     (Galvės) ežero salos didelė pilis, tapusi Vytauto Didžiojo pasidi­
     džiavimu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -5500,8 +3202,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     XVI amž.
     Žemaičius įveikti kryžiuočiams buvo sunku.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -5517,8 +3219,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     gaikščio titulą, kai 1392 m. gavo vyriausią Lietuvos miestą Vilnių ;
     taip ėjo ir toliau.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -5538,8 +3240,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     ne tik plačią Podoliją, turtingą žemę palei Dniestrą, bet ir patį
     Dniepro žemupį, kuris tada buvo tuščias^13.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -5558,8 +3260,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     Pusbroliui išsikėlus Krokuvon, Kęstutaitis galėjo tikėtis įgyti žy­
     mesni vaidmenį Lietuvoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -5574,8 +3276,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     Pusbroliui išsikėlus Krokuvon, Kęstutaitis galėjo tikėtis įgyti žy­
     mesni vaidmenį Lietuvoje. Bet jis nesulaukė užtarnauto įvertinimo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -5593,8 +3295,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     ordinui raštu pažadėjo Žemaičius ir tiek pat kartų juos vėl greitai
     susigrąžino.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: vertinimas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -5609,8 +3311,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     Jogailos valią buvo įsišeimininkavęs Vitebske. Su Jogailos žinia,
     Vytautas kartu su Skirgaila 1392 m. paėmė Vitebską.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -5627,8 +3329,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     nusistatymą gynė visos Lietuvos reikalus ir jos nepriklausomybę,
     nepakęsdamas D. L. kunigaikštijos žeminimo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -5646,8 +3348,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     plėsti, ir kaip Lietuvos krikščionintojas, šalia Jogailos, turi jis žy­
     mių, o gal ir žymesnių nuopelnų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -5667,8 +3369,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     ir aprūpindamas Medininkų vyskupiją, bet taip pat organizuodamas
     eilę parapinių bažnyčių Lietuvoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -5683,8 +3385,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     charakteringas didelis švaistymasis materialinėmis gėrybėmis, ypač
     kai reikėdavo pasirodyti užsieniečiams.
   citata_rodoma: ''
-  teiginio_tipas: vertinimas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -5703,8 +3405,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     10.000 rb. gautos kontribucijos išdalijo jis žygio dalyviams lenkų
     karininkams (riteriams).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -5723,8 +3425,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     laiką, jei jo kiek atlikdavo, praleisdavo medžioklėje arba eida­
     mas šachmatais. Bet visur kur matėsi saikas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -5741,8 +3443,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     kun. tarnyboj; o iš kun. kanceliarijos, kaip užsimena Ghillebert
     de Lannoy, buvo siuntinėjami totorių kalba raštai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -5760,8 +3462,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     giau tėvą. Bet jo veikime nežymu dar didelio veiklumo, savos
     iniciatyvos jis nereiškė, pildė tik Kęstučio įsakymus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -5788,8 +3490,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     18
     Slap t. Karai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -5810,8 +3512,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     mažas pajėgas ir, turėdamas ryšių su Vilniaus miestiečiais,
     nusprendė užimti Vilnių ir Trakus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -5830,8 +3532,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     limo, 1422 m. liepos mėn. gale išžygiavo prieš Ordiną tuo pat
     keliu, kaip ir į Žalgirio mūšį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -5846,8 +3548,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     mandagesnis ir sieks įgyti karūną ir pripažinimą iš Vakarų.
     Mindaugas sukuria Lietuvos valstybę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -5880,8 +3582,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     i dwa skotcy [Vilniuje, birželio 9-ta
     diena, 2 indiktas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -5904,8 +3606,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     tik patvirtino jau esamą padėtį, LDK diduo-
     menės valią.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -5930,8 +3632,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     jo, 1382 metų lapkričio pradžioje Dubysos upės salelėje
     sudarė su jais paliaubas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -5950,8 +3652,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     sekretorių Mikalojų Cebulką, kuris jo vardu pareiškė Zigmantui
     nepasitenkinimą^3 ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -5974,8 +3676,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     portretai, vykdavo kariuomenės paradai, inscenizuotos eitynės miestų ga-
     tvėmis, vaidinami spektakliai, užsienio svečiams rengiami pokyliai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -5994,8 +3696,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     Siekti karūnacijos Vytautas pradėjo išsprendęs savo politikos priori-
     tetą – 1422 m.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -6012,8 +3714,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     taujančiu tikėjimu ir įsakąs visiems jį priimti^1 ). Laisvi liko tik
     stačiatikiai, kaipo krikščionys.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -6034,8 +3736,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     lių ir dviejų tautų, pargrįžęs tuoj pat išleido pasiuntinius su
     karūna pas Vytautą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -6051,8 +3753,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     gaikščių bei bajorijos, karvedžių Gedimino, Kęstučio, Vytauto Didžiojo
     vardai visuomet kėlė atgimstančios lietuvių tautos sąmonę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -6068,11 +3770,11 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     sienų. Visos tuometinės artilerijos karo mašinos ir ugnias-
     vaidės bombardos ėmė be paliovos ir pašėlusiai šaudyti.
   citata_rodoma: ''
+  statusas: verified
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-
 - c-049
   santrauka: 'Vytauto Didžiojo kulto pasakojime jis vaizduotas kaip Žalgirio mūšį laimėjęs karvedys ir Lietuvos karūnos siekęs valdovas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -6089,8 +3791,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     162
     Vytauto Didžiojo kulto kūrimo momentas: 1930 m.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -6109,8 +3811,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     Lietuvos. Šie žmonės aplinkinių buvo vadinami „leičiais“ (latviai iki šiol
     vadina lietuvius „leišiais“), o gal ir „liečiais“.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -6127,8 +3829,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     giuojama tiesiai link sostinės, siekiant strateginio tikslo – susidurti su vi-
     somis Ordino pajėgomis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -6144,8 +3846,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     Į šį nepaprastą Vytauto kviečiamą susirinkimą gausiai su­
     plaukė svečių tiek iš Vakarų, tiek ir iš Rytų Europos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -6166,8 +3868,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     galėtų būti prilyginti tai nelaimei,
     kokią pats per juos iškentėjo?
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -6185,8 +3887,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     vyriausios vėliavos, tuo tarpu visos sąjunginės kariuomenės
     vadovybė atiteko Vytautui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -6205,8 +3907,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     pastarojoje nebuvo tokių ryškių musulmonų totorių ir karaimų bendruo-
     menių, kurias Lietuvos didysis kunigaikštis Vytautas apgyvendino LDK.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -6222,8 +3924,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     lenkų riteriai. Todėl Vytautas surizikavo – pirmasis metė į mūšį Lietuvos
     kariuomenę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -6245,8 +3947,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     to karalius, spiriamas karalystės reikalų, greitai išskubėjo į
     Lenkiją, Vilnių palikęs.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -6267,8 +3969,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     siuntė jiems į Prahą (1422 m.) pageidaujamu valdovu kunigaikštį
     Žygimantą Kaributaitį, savo sūnėną.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -6289,8 +3991,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     mulių su stačiatikiškąja arba graikiškąja tradicija, jo karūnacijos projektą
     reikėtų matyti Lietuvos christianizacijos ir europeizacijos kontekste.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -6309,8 +4011,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     nytinę politiką Lietuvos krikšto akcijoje užgožė Jogaila, o pagrindinis Vy-
     tauto tikslas buvo pastatyti Lietuvą Europos katalikiškųjų šalių greton.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -6329,8 +4031,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     tikėjimo skelbimo reikalais, bet ir apsigyvendavo kunigaikščių
     dvaruose raštininkais, patarėjais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -6349,8 +4051,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     nemokėję Lenkijai duoklių - toks buvo atsakymas į tą prama­
     naus Vytauto klausimą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -6370,8 +4072,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     jų senovės laikų didvyrio praeitį ir su juo susiejęs stipraus tautos vado –
     A. Smetonos, tarsi ir antrojo Vytauto – valdomą Lietuvos valstybę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -6389,8 +4091,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     neatmesiąs^1 ). Apie karą su Lenkija, jis nemanąs, bet kiekvieną
     jos puolimą atremsiąs^2 ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -6421,8 +4123,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     nus Elijas, Prūsijos didysis magistras Rusdorfas, Livonijos
     magistras, Mazovijos kunigaikščiai ir totorių chanai84.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -6442,8 +4144,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     veikslas – šias apeigas lydėjo daugybė įvairiausių renginių visuose Lietu-
     vos miestuose ir miesteliuose, jam pastatyti paminklai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -6464,8 +4166,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     turėjo savo globėju, skundėsi, kad pskoviečiai vargina jo že­
     mes^1 ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -6490,8 +4192,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     Jahrbücher Johannes Linde.nblatts,
     P-113.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -6530,8 +4232,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     mis, palei gausių upių, versmių, ežerų krantus, stovėjo var­
     ganos medžioklių trobelės.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -6553,8 +4255,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     Vytautui didžiojo kunigaikščio valdžia, bet pareinanti nuo Len­
     kijos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -6589,8 +4291,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     valiojo greit pakilti iš vargų, kokius patyrė per pastarąsias
     apgultis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -6606,8 +4308,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     Konstancą jau minėtą G. Camblako stačiatikių delegaciją, turėjusią pa-
     grįsti siekį gyventi unijoje su Katalikų bažnyčia.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -6628,8 +4330,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad ta
     klebonija tapo išties reikšmingiausia Žemaitijoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -6652,8 +4354,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     tapus Lenkijos karaliumi (1386), atsirado Gediminaičių šakos Jogailai-
     čių dinastija.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -6679,8 +4381,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     mi, Vytauto labui nieko nenuveikę, nė negalvodami apie
     Vilniaus užėmimą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -6712,8 +4414,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     ir apsaugojo. Vytauto palaikai buvo atvežti į Vilnių ir iškil­
     mingai palaidoti85.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -6729,8 +4431,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     pašalino didžiuosius pavojus, įteisino savo egzistenciją, įžengė į Europą,
     pritapo prie jos ir joje išsilaikė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -6751,8 +4453,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     numatytą XIV a. pabaigoje ir atvedusį į galutinį tikslą: Lietuvos monar-
     chija turėjo įsitvirtinti Europos politinėje sistemoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -6771,8 +4473,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     Bajerburgą36. Net 1410 m. Vytautas, įžengęs su kariuomene į Prūsiją, rado jam palankių
     prūsų bajorų, kurie dar nebuvo užmiršę savo baltiškosios kilmės37.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -6803,8 +4505,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     73 nė Ona mirė Trakuose, o palaidota
     Ona buvo Smolensko kunigaikščio buvo Vilniuje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -6822,8 +4524,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     giems valdovams buvę nepatogu susirišti giminystės ryšiais su
     savo pavaldiniais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -6841,8 +4543,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     ją, sukurti Lietuvos stačiatikių metropoliją ar vyskupiją ir šią sujungti su
     Katalikų bažnyčia.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -6863,8 +4565,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     buvo kryžiuotis, nes tėvo dvare vokiečių belaisvių nestigdavo;
     todėl jis iš jų bus išmokęs skaityti ir rašyti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -6884,11 +4586,11 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     narsus, kaip ir apsukrus, skubinai išvyksta iš Marienburgo, ir
     pridurmais puolusiems kryžiuočiams nuo jo gerokai kliūna.
   citata_rodoma: ''
+  statusas: verified
+
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  statusas: verified
-
 - c-085
   santrauka: '1401 m. Vytautas davė Jogailai aktą, kad po jo mirties Lietuva ir Rusia pereis karaliaus valdžion.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -6904,8 +4606,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     Rusia, ištisai visa, pereisianti karaliaus valdžion ir būsianti pri­
     jungta prie Lenkijos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -6919,8 +4621,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     „...Prūsai taip pat yra buvę mano tėvų žemė ir aš reikalausiu jų iki Osos (t. y. visų
     prūsų žemių iki Vyslos su Pamede imtinai — R. B.), nes jie yra mano tėvų palikimas“41.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -6945,8 +4647,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     Lietuvos kunigaikščiais ir didikais, nusprendė išvyti iš sos­
     tinės Skirgailą ir paimti valdžią.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -6967,8 +4669,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     gaikščiu, kartu dalyvavo žmona Ona, Jogaila, aukščiausiasis
     valdovas, daugelis kunigaikščių ir bajorų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -6996,8 +4698,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     vė, užuot savo šlovę apvainikavęs, gėdą sau užtrauks, p
     tėvynei nelaimę atneš.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -7028,8 +4730,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     pročiu, noriai eidavo kariauti su pagonimis, kur tik užgirdę
     jų esant.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -7061,8 +4763,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     pėdsakų šios pilies vienos sienos se­
     novinėje tapyboje yra iki šiol išlikę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -7091,8 +4793,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     k i Specimen Ecclesiae Ruthenicae,
     Pars.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -7108,8 +4810,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     perėjo tiesiogiai Vytauto žinion, 1394 m. jis panaikino Kijevo kunigaikš-
     tiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -7135,11 +4837,11 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     tojų, davė atkirtį, visas tas pastangas užimti Vilnių niekais
     pavertė anksčiau negu suspėjo Vytautas su kariauna19.
   citata_rodoma: ''
+  statusas: verified
+
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  statusas: verified
-
 - c-095
   santrauka: 'Pirmoji Balinskio Vilniaus istorijos dalis baigiama 1430 m., kai mirė Vytautas Didysis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -7156,8 +4858,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     Batoro valdymo metais 1586 m. Pirmoji knygos dalis užbaigia­
     ma 1430 m. - Vytauto Didžiojo mirtimi.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -7171,8 +4873,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     kartą sutartį su Ordinu ir su savo šalininkais sugrįžo į Lietuvą.
     Vytautui grįžus, tarp jo ir Jogailos rugpiūčio mėn.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -7187,8 +4889,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     menės dydžiu, žygio kryptimi, grėsmingu jėgos demonstravimu manė
     priversti Ordiną pradėti derybas ir jam padiktuoti savo sąlygas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -7202,8 +4904,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     dinu būtina. Jogaila į karą su Ordinu nesiveržė, nes pralaimėjęs galėjo
     prarasti Lenkijos sostą. Vytauto pastangos davė rezultatų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -7228,8 +4930,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     Maišiagalą, o prie pat sostinės su karių likučiais nusiaubė
     aplinkines žemes.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -7248,8 +4950,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     prie sutarties su Jogaila, visą širdį
     dėdamas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -7274,8 +4976,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     44
     imperiškai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -7288,8 +4990,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     gailos Lietuvą didž. kunigaikščio teisėmis, kaip lėną. Ši sutar­
     tis grąžino jam Lietuvos valdžią.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -7306,8 +5008,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     vos didysis kunigaikštis, didis karo vadas, tautos genijus. 1930 m. iškil-
     mingai pažymėtas Vytauto mirties 500 metų jubiliejus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -7325,8 +5027,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     Visos aplinkybės taip susidėjo, kad Vytautui jėga reikėjo vai­
     niką išsikovoti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -7342,8 +5044,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     vavo Lietuvos savarankiškumo priešas, vysk. Zbignevas
     Olesnickis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -7363,8 +5065,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     tikslo bet kokiomis priemonėmis, - tokie tad buvo Vytauto
     geri ir blogi bruožai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -7385,8 +5087,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     tuo klausimu, bet priešingai, sugrįžęs tuojau pranešė Jogailai
     tuos pasitarimus^2 ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -7405,8 +5107,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     kad vargiai vieni lietuviai be lenkų sąjungininkystės, kad ir to­
     kiam gabiam Vytautui vadovaujant, būtų nugalėję kryžiuočius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -7427,8 +5129,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     tytę, bet tas nepakenkė geriems Vytauto santykiams su turkais,
     apie ką jis pats gyrėsi Zigmantui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -7458,11 +5160,11 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     mo Galve, buvęs kunigaikščio žvė­
     rynas.
   citata_rodoma: ''
+  statusas: verified
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-
 - c-111
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -7480,8 +5182,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     galvos“, Vytautas siekė susigrąžinti ją visam laikui kartu su
     Klaipėda ir visa Užnemune.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -7503,8 +5205,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     gaikštystės sostinė. Toksai pagrindinės valdžios nutolimas
     nuo sostinės galėjo turėti blogos įtakos jos gerovei.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -7529,8 +5231,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     Janas Kropidła iš Jogailos svitos, kurį Vytautui pavyko įkalbė­
     ti, ir kuris palaimino tą santuoką.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -7554,8 +5256,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     atsirado nauji vartai, Aleksandro laikais dar nežinomi, ir ga­
     vo Rūdninkų vardą, kaip ir nuo jų vingiuojanti gatvė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -7576,11 +5278,11 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     įstatymus ar įsipareigojimus, kurie buvo reikalingi išimtinai
     Lietuvos interesams ginti.
   citata_rodoma: ''
+  statusas: verified
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-
 - c-116
   santrauka: 'Vytauto laikais Lietuvos Didžioji Kunigaikštystė buvo itin galinga, o jo galią jautė visas regionas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -7599,8 +5301,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     procesą, bet būtent Vytautas geriausiai sugebėjo pasinaudoti istorijos tei-
     kiamomis galimybėmis ir nutiesė kelius Europos kultūrai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -7616,8 +5318,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     lenkų ir lietuvių kariuomenių, dažnai mainydamas arklius“
     (Dlugošas). Tai Vytauto apsauga.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -7636,8 +5338,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     Toliau Vytautas pabrėžia, kad šis punktas galės būt pritai­
     kintas tik jam mirus^3 ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -7656,8 +5358,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     bažnyčios susirinkimą Konstance, kur iškėlė visuotinės bažnyčių unijos
     idėją (ji įgyvendinta vėliau – 1439 m. Florencijoje).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -7675,8 +5377,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     ce, tarp Vitebsko ir Smolensko, 1426
     metų sausio 13 dieną.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -7700,8 +5402,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     rikui, vėliau grįžus į Plocką, kainavo gyvybę, lėmė greitesnį
     karaliaus susitarimą su Vytautu48.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -7728,8 +5430,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     tas Kristaus tikėjimo šviesos, miestai tikrai dar negalėjo su­
     klestėti!
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -7754,8 +5456,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     mes pašventino vyskupai: Kijevo - Mykolas ir Plocko -
     Stanislovas82.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -7772,8 +5474,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     vadovu buvo Jogaila, kuris stengėsi Vytautą nustumti į šalį
     nuo rūpinimosi Lietuva ir krikšto reikalais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -7793,8 +5495,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     auklėtas, negalėjo nepastebėti ir nejausti to didelio savo krašto
     atsilikimo, ko jis ir negalėjo ilgiau toleruoti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -7814,8 +5516,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     žinia kitos pusės, dabar lenkai išsirinko sau Jogailos įpėdinį be
     Vytauto ir lietuvių bajorų žinios ir pritarimo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -7845,8 +5547,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     savo paveldėjimo teises į valstybę
     Perleistų kryžiuočiams.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -7863,8 +5565,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     poldum). Atvykę jie į Lenčicą (1429 VI. 18), įteikė Jogailai Vy­
     tauto laišką.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -7891,8 +5593,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     vai užėmęs, jeigu Kęstutis su stipriais pulkais iš Žemaitijos į
     pagalbą sūnui pagaliau nebūtų atvykęs.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -7910,11 +5612,11 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     51
     Lindenblatt Jahrbücher, p. 9 4 .
   citata_rodoma: ''
+  statusas: verified
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-
 - c-131
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -7929,8 +5631,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     mų, o dėl Skirgailos niršaus būdo negalėjo netgi būti tikras,
     kad nebus pasikėsinta į jo gyvybę18.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -7947,8 +5649,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     1410 
     Žalgirio (Griunvaldo) mūšis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -7967,8 +5669,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     ir netikėtas – paprastai karuose su Lenkija ar su Lietuva Ordinas būdavo
     puolančioji pusė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -7990,8 +5692,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     tuvos valdymo, bet ir paveldo, po Kęstučio mirties priklau­
     sančio, negrąžino.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -8007,8 +5709,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     įvairiomis brangiomis dovanomis^43 , tarėsi nematąs, kas dėjosi Že­
     maičiuose.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -8033,8 +5735,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     mi iš niekur paramos, jie perėjo į Jogailos pusę, ati­
     duodami miestą, pilis bei turtą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -8064,8 +5766,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     J o gai-
     tas patarė atjoti.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -8089,8 +5791,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     ties: draugai jau, girdi, parūpinę visko, kas reikalinga
     bėgliui.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -8120,8 +5822,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     gauti, nei karaliaus įžeisti, rūpindamiesi, kad, kilus ka­
     rui, patys vienaip ar kitaip išvengtų bėdos.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -8146,8 +5848,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     duoda, tikėdamasis, kad visas pelnas ilgainiui atiteks
     kryžiuočiams.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -8171,8 +5873,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     parinko būrį bajorų, pasirengusių tokiam žygiui, ir jį
     išsiuntė.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -8189,8 +5891,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     pilis. Jas užkariauti vis dėlto pasirodė kur kas sunkiau,
     nei tikėjosi.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -8214,8 +5916,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     turėdamas vilties užimti val­
     džią.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -8232,8 +5934,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     vių kilmės vietininkus. Kunigaikštį Teodorą su šeimy­
     na išgabeno į Vilnių.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -8266,8 +5968,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     pažadėję ir prisiekę ištikimybę Vytautui bei jo įpėdi­
     niams, susilaukė, ko prašė.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -8289,8 +5991,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     žemutinę pilį. Kovojant dėl miesto sienos, žuvo vienas
     kitas pilėnas.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -8313,8 +6015,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     p ra šy-
     syti taikos.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -8339,8 +6041,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     jų reikalui, kuo greičiausiai, niekam nieko nesakyda­
     mas, ten išvyks ir Jogaila patvirtinti naujo susitarimo.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -8361,8 +6063,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     h  u žgniaužia N augar-
     jame dalyvavo.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -8379,8 +6081,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     šėnų kunigaikščio Algimantaičio dukra. Julijona mi-
     rusiajai buvo teta.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -8401,8 +6103,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     Radvilai skubiai sutelkti Lietuvos žemėse didelę kariuo­
     menę ir su ja palydėti Jerim Berdį į Skitiją.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -8428,8 +6130,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     susidraugavo su imperatoriumi sau pačiam davęs žodį
     nieko nedaryti be karaliaus žinios ir sutikimo.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -8461,8 +6163,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     liškąjį vainiką ir pats jį užsidėtų, tada neabejotinai pa­
     tirtų iš žmonių daugiau gėdos nei garbės.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -8484,8 +6186,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     gistrus, kuriuos visus svetingai vaišino valstybės lė­
     šomis.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -8506,8 +6208,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     dytas valdovas, bet ir todėl, kad krito galybė paprastų
     atsitiko.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -8527,8 +6229,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     Sigailą, arba Žygimantą, bei dukterį Danutę. Si kunigaikštie­
     nė, būdama gyva, garsėjo savo kilniaširdiškumu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -8545,8 +6247,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     užbaigė gyvenimą. Žmonės, menantys jos dorybes ir nuopel­
     nus, laikė ją šventa.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -8566,8 +6268,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     senuosius prietarus, dar jai gyvai esant, ėmė garbinti ją kaip
     deivę, juk ir Strijkovskis tą patvirtina.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -8586,8 +6288,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     siekė didžiausios savo galybės laikotarpį, ypač valdant Vytautui,
     kuris sostą paveldėjo iš Skirgailos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -8608,8 +6310,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     erelio sparnai. Herbas buvo duotas Ostapui Kropotkovui kartu su
     Podbužo dvaru Voluinėje už nuopelnus kare su totoriais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -8624,8 +6326,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     džiausios savo galybės laikotarpį, ypač valdant Vytautui, kuris
     sostą paveldėjo iš Skirgailos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -8645,8 +6347,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     su Vasilijumi. Vytautas įsakė visų Lietuvos žemių karo
     jėgoms susirinkti į Smolenską.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -8665,8 +6367,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     L ivonija nuo seno b ū tų  L ietuvos d id žių jų  k u n ig aik ščių
     tėv o n ija.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -8683,8 +6385,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     yra vienas iš svarbiausių lietuvių tautos ir Lietuvos valstybės simbolių.
     PAGONIŲ VALSTYBĖ.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -8706,8 +6408,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     46
     laikyti tėvonijos dalimi.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -8722,8 +6424,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     ateities planų garantas, pati didžiausia vertybė.
     Kauno sporto halėje 1939 m.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -8741,8 +6443,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     kronikos fragmentą — pasakojimą apie Vytauto brolio
     Žygimanto Kęstutaičio nužudymą 1440 m.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -8763,8 +6465,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     Vaidotas3 2 ; jie visi trys mirė, jauni būdami, negavę
     dalių 3 3 .
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -8792,8 +6494,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     išlydėjęs jį su didele pagarba į Maskvą, pats išvyko
     j Lietuvą l6 .
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -8819,8 +6521,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     gal į Lietuvą,
     34.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -8849,8 +6551,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     mis ir su daugeliu Ordos totorių, o Prūsijos magistras
     taip pat su savo pajėgomis ir su visa Vokiečių imperija.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -8873,8 +6575,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     ir dovanojo brangių dovanų2 , ir nuo tol tarpe jų įsiga­
     lėjo didelė meilė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -8891,8 +6593,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     vadinamas, sėdėjo Krokuvos karalystės soste. Ir tasai
     gyveno su juo didelėje meilėje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -8911,8 +6613,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     skirti jiems chaną, kad juos valdytų. Mat, daug buvo
     Ordos didžiųjų chanų, tarnaujančių jo rūmuose.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -8934,8 +6636,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     įrodyti, kad Vytautas — doras krikščionis ir katalikas, kuriam pri­
     klausanti teisė į didžiojo kunigaikščio valdžių Lietuvoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -8978,8 +6680,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     kia detaliai išnarplioti atskirų šios šalies miestų, būtent jos sos­
     tinės, istoriją.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -10671,7 +8373,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - id: c-160662
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 12"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 12."
   citata_originali: |
     Ordino valdžioje likę prūsai buvo verčiami dalyvauti jo žygiuose35, tačiau yra žinoma,
     kad kai kurie pavergtieji prūsai bandė žlugdyti kryžiuočių antpuolius prieš Lietuvą (III,
@@ -10832,7 +8535,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - id: c-160672
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 12"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 12."
   citata_originali: |
     1413 m., Salyno derybų metu, Vytautas griežtai pareiškė kryžiuočiams, jog
     „...Prūsai taip pat yra buvę mano tėvų žemė ir aš reikalausiu jų iki Osos (t. y. visų
@@ -11974,7 +9678,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - id: c-168223
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 268"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 268."
   citata_originali: |
     Tuo būdu
     užėmęs Vilnių, išsiuntė žygūnus į Prūsiją bei Livoni­
@@ -12000,7 +9705,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - id: c-168224
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 270"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 270."
   citata_originali: |
     Todėl Jogai­
     la išsiuntė savo brolį Skirgailą, kuris, prisiekęs visais
@@ -12031,7 +9737,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - id: c-168225
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 272"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 272."
   citata_originali: |
     Ši
     aplinkybė kaip tik ir pagelbėjo Vytautui ištrūkti į lais­
@@ -12056,7 +9763,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - id: c-168226
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 302"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 302."
   citata_originali: |
     Nieko nepešęs
     klasta, metė savo sumanymus ir, aplinkybių verčiamas,
@@ -12087,7 +9795,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - id: c-168227
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 303"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 303."
   citata_originali: |
     Iš M a z o v ijo s  į Prū-
     Nors Urbonas IV, Romos po-
@@ -12113,7 +9822,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - id: c-168228
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 309"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 309."
   citata_originali: |
     Tuo
     metu kaip tik pasitaikė tin-
@@ -12138,7 +9848,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - id: c-168229
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 316"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 316."
   citata_originali: |
     Išlikę po mūšio gyvi, narsiai grumdamiesi su puo­
     lančiu nugalėtoju, pasitraukė su Skirgaila į Trakus.
@@ -12156,7 +9867,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - id: c-168230
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 327"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 327."
   citata_originali: |
     Išsiuntęs žygūną,
     turintį Olesnickiui pranešti apie jo atvykimą, patraukė
@@ -12181,7 +9893,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - id: c-168231
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 344"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 344."
   citata_originali: |
     Kadangi Vytautas jiems paro­
     dė palankumą, apsuptieji visiškai pasidavė jo malonei.
@@ -12199,7 +9912,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - id: c-168232
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 347"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 347."
   citata_originali: |
     Vytautui ir pačiam rūpėjo šis karas, nes troško, kad
     Baltarusijos žemės būtų pa-
@@ -12233,7 +9947,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - id: c-168233
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 347"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 347."
   citata_originali: |
     Apgula užtruko ištisą mėnesį,
     tačiau ne dėl to, kad nebuvo
@@ -12256,7 +9971,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - id: c-168235
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 368"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 368."
   citata_originali: |
     Stovėdamas su' raitija toje
     pačioje vietoje, jis kiekvieną dieną vis labiau juto mais­
@@ -12306,7 +10022,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - id: c-168237
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 390"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 390."
   citata_originali: |
     Kadangi
     šias negeras naujoves vykdė ne paprasti žmonės, o žy­
@@ -12328,7 +10045,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - id: c-168238
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 394"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 394."
   citata_originali: |
     Po to ir viena, ir kita šalis puldinėjo
     ir siaubė viską, kas pakliuvo po ranka. Nutaręs sutelkti
@@ -12346,7 +10064,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - id: c-168239
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 397"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 397."
   citata_originali: |
     Beje, ir Vytautas ne tiek paisė ką tik patirtos ne­
     sėkmės, kiek rūpinosi asmenine garbe ir nauda, norė­
@@ -12428,7 +10147,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - id: c-168242
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 423"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 423."
   citata_originali: |
     Ginkluoti didžia-
     lą, pasiuntiniai pasuko į Fran­
@@ -12451,7 +10171,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - id: c-168243
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 463"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 463."
   citata_originali: |
     Luomai, susirinkę į Tra­
     kus, nutarė, pasiūlius Goštautui bei Kęsgailai, surengti
@@ -12473,7 +10194,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - id: c-171536
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 154"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 154."
   citata_originali: |
     Žemaičių ir Trakų kuni­
     gaikščiui Kęstučiui, grįžtančiam iš žygio prieš kryžiuočius, pa­
@@ -12494,7 +10216,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - id: c-171537
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 154"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 154."
   citata_originali: |
     Si kunigaikštie­
     nė, būdama gyva, garsėjo savo kilniaširdiškumu. Žuvus vyrui
@@ -12512,7 +10235,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - id: c-171538
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 155"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 155."
   citata_originali: |
     Patys kryžiuočiai tą vietą visuomet palikdavo neliestą:
     viena, tikėdami kažkokiais pranašavimais, antra, dėl tos ug­
@@ -12533,7 +10257,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - id: c-171539
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 457"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 457."
   citata_originali: |
     Si epocha baigėsi 1386 metais, tai yra visiškai
     įvedus krikščionybę Lietuvoje, kai Jogaila vedė Lenkijos kara­
@@ -12553,7 +10278,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - id: c-173881
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 510"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 510."
   citata_originali: |
     Neseckiui šis herbas, pavadintas Kru-
     nevičiaus vardu, yra žinomas. Rankoje turiu nuorašą Švitrigailos
@@ -12575,7 +10301,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - id: c-173882
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 518"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 518."
   citata_originali: |
     IV. 1386—1447 metai, t. y. iki to laikotarpio, kai Lietuva nustojo
     turėjusi dalinius kunigaikščius. Šiuo periodu Lietuva pasiekė di­
@@ -12591,7 +10318,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - id: c-176128
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 367"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 367."
   citata_originali: |
     Mat tų pačių metų pabaigoje, sudeginęs Briansko ir
     Starodubo pilis, jis perdavė kunigaikščiui Vasilijui Nau-
@@ -12612,7 +10340,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - id: c-176129
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 715"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 715."
   citata_originali: |
     A p sk rita i n e o ru  to k iam
     v ald o v u i k aip  A u g u stas ra šy ti tokius p rieštarin g u s, to ­
@@ -12689,7 +10418,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - id: c-176631
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 8"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 8."
   citata_originali: |
     Bychovco kronikos rankraštį prieš 1830 m. Alek­
     sandro Bychovco Mogiliovcų dvaro b-koje aptiko Vil­
@@ -12840,7 +10570,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - id: c-176637
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 178"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 178."
   citata_originali: |
     Ir Danijos
     karalius didžiai šlovino ir daugeliu dovanų apdovanojo
@@ -12858,7 +10589,8 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - id: c-176638
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 179"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 179."
   citata_originali: |
     Ir šis didysis kunigaikštis Aleksandras,
     vadinamas Vytautu, valdė didžiai gerbiamas ir šlovi­
@@ -12944,34 +10676,32 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 
 ## Ryšiai
 - Žmonos: [[objektai/asmenys/Marija (pirmoji Vytauto žmona)]], [[objektai/asmenys/Ona Vytautienė]]
-- Tėvai: [[objektai/asmenys/Birutė]], [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- Tėvai: [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - Dukterys: [[objektai/asmenys/Sofija (Vytauto duktė)]]
 - Broliai: [[objektai/asmenys/Karigaila]], [[objektai/asmenys/Kazimieras Karigaila]]
-- Priešai: [[objektai/grupes/Auksinė Orda]], [[objektai/grupes/Didžlenkiai]], [[objektai/asmenys/Dimitras Kaributas]], [[objektai/asmenys/Jonas Šafranas]], [[objektai/asmenys/Kerimberdėjus]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Markvardas Salzbaclias]], [[objektai/grupes/Maskvos kunigaikštija]], [[objektai/asmenys/Mikalojus Michalovskis]], [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]], [[objektai/grupes/Pamario kunigaikščių sąjunga]], [[objektai/asmenys/Skirgaila]], [[objektai/asmenys/Švitrigaila]], [[objektai/asmenys/Timūr-Kutlukas]], [[objektai/asmenys/Zbignievas Olesnickis]], [[objektai/asmenys/Zigmantas Liuksemburgietis]]
-- Sąjungininkai: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/grupes/Karo partija]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Lenkai]], [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Markvardas (Ragainės komtūras)]], [[objektai/grupes/Podoliečiai]], [[objektai/asmenys/Skirgaila]], [[objektai/grupes/Smolensko pulkai]], [[objektai/asmenys/Tochtamyšas]], [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
-- Puolė Vytautą (Lietuvos valdovas, XIV–XV a.): [[objektai/grupes/Livonijos ordinas]], [[objektai/grupes/Vokiečiai]]
-- Gynė Vytautą (Lietuvos valdovas, XIV–XV a.): [[objektai/grupes/Karaimai]], [[objektai/grupes/Kryžiuočių ordinas]]
-- Kariavo prieš: [[objektai/asmenys/Mikalojus iš Moskožovo]], [[objektai/asmenys/Timuras]]
-- Sudarė sutartį su: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Ulrichas von Jungingenas]], [[objektai/grupes/Žemaičiai]]
-- Paskyrė Vytautą (Lietuvos valdovas, XIV–XV a.): [[objektai/asmenys/Martynas V]], [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
-- Rėmė Vytautą (Lietuvos valdovas, XIV–XV a.): [[objektai/grupes/Bajorai]], [[objektai/asmenys/Bonifacas IX]], [[objektai/grupes/Čekai]], [[objektai/grupes/Didžiojo Naugardo respublika]], [[objektai/asmenys/Jedigėjus]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Marquardas von Salzbachas]], [[objektai/asmenys/Martynas V]], [[objektai/grupes/Pskoviečiai]], [[objektai/asmenys/Saladinas]], [[objektai/asmenys/Sventopelkas]], [[objektai/grupes/Vokiečiai]], [[objektai/grupes/Vokiečių ordinas]], [[objektai/asmenys/Zigmantas I]]
-- Turėjo priklausinį: [[objektai/daiktai/Karūna]], [[objektai/grupes/Lenkai]], [[objektai/vietos/Luckas]], [[objektai/vietos/Novosielsko]], [[objektai/vietos/Prūsija]], [[objektai/vietos/Žemaitija]]
+- Priešai: [[objektai/asmenys/Skirgaila]], [[objektai/asmenys/Zbignievas Olesnickis]]
+- Sąjungininkai: [[objektai/asmenys/Skirgaila]]
+- Puolė Vytautą (Lietuvos valdovas, XIV–XV a.): [[objektai/grupes/Livonijos ordinas]]
+- Gynė Vytautą (Lietuvos valdovas, XIV–XV a.): [[objektai/grupes/Kryžiuočių ordinas]]
+- Sudarė sutartį su: [[objektai/grupes/Žemaičiai]]
+- Paskyrė Vytautą (Lietuvos valdovas, XIV–XV a.): [[objektai/asmenys/Martynas V]]
+- Rėmė Vytautą (Lietuvos valdovas, XIV–XV a.): [[objektai/asmenys/Bonifacas IX]], [[objektai/asmenys/Martynas V]], [[objektai/grupes/Vokiečių ordinas]], [[objektai/asmenys/Zigmantas I]]
+- Turėjo priklausinį: [[objektai/vietos/Luckas]], [[objektai/vietos/Žemaitija]]
 - Vytautas (Lietuvos valdovas, XIV–XV a.) buvo valdovas [[objektai/grupes/Didžiojo Naugardo respublika]], [[objektai/vietos/Gardinas]], [[objektai/vietos/Lietuva]], [[objektai/grupes/Pskoviečiai]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) valdė [[objektai/vietos/Drohičinas]], [[objektai/vietos/Gardinas]], [[objektai/vietos/Kijevas]], [[objektai/vietos/Lietuva]], [[objektai/vietos/Liubutskas]], [[objektai/vietos/Luckas]], [[objektai/vietos/Maskva]], [[objektai/vietos/Mcenskas]], [[objektai/vietos/Mielnikas]], [[objektai/vietos/Naugardas]], [[objektai/vietos/Novosielsko]], [[objektai/vietos/Odojevas]], [[objektai/vietos/Palanga]], [[objektai/vietos/Palenkė]], [[objektai/vietos/Peremišlis]], [[objektai/vietos/Podolė]], [[objektai/vietos/Prūsų žemė]], [[objektai/vietos/Rusų žemė]], [[objektai/vietos/Smolenskas]], [[objektai/vietos/Trakai]], [[objektai/vietos/Veliuona]], [[objektai/vietos/Vilnius]], [[objektai/vietos/Volinija]], [[objektai/vietos/Žitomiras]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į [[objektai/vietos/Aukokalnis]], [[objektai/vietos/Azovas]], [[objektai/vietos/Černigovas]], [[objektai/vietos/Daugai]], [[objektai/vietos/Dniepras]], [[objektai/vietos/Drohičinas]], [[objektai/vietos/Druckas]], [[objektai/vietos/Dubrovna]], [[objektai/vietos/Dubysa]], [[objektai/vietos/Gardinas]], [[objektai/vietos/Heilsbergas]], [[objektai/vietos/Kaunas]], [[objektai/vietos/Kezmarkas]], [[objektai/vietos/Kėzmarkas]], [[objektai/vietos/Kijevas]], [[objektai/vietos/Krėva]], [[objektai/vietos/Krokuva]], [[objektai/vietos/Lenkija]], [[objektai/vietos/Lietuva]], [[objektai/vietos/Maskva]], [[objektai/vietos/Mazovija]], [[objektai/vietos/Naugardukas]], [[objektai/vietos/Nemunas]], [[objektai/vietos/Palenkė]], [[objektai/vietos/Panemunė]], [[objektai/vietos/Pronskas]], [[objektai/vietos/Prūsija]], [[objektai/vietos/Prūsų žemė]], [[objektai/vietos/Smolenskas]], [[objektai/vietos/Trakai]], [[objektai/vietos/Ukmergė]], [[objektai/vietos/Užnemunė]], [[objektai/vietos/Vengrija]], [[objektai/vietos/Vilnius]], [[objektai/vietos/Vitebskas]], [[objektai/vietos/Volkoviskas]], [[objektai/vietos/Vorskla]], [[objektai/vietos/Zna]], [[objektai/vietos/Žemaitija]]
+- Vytautas (Lietuvos valdovas, XIV–XV a.) valdė [[objektai/vietos/Gardinas]], [[objektai/vietos/Lietuva]], [[objektai/vietos/Luckas]], [[objektai/vietos/Podolė]], [[objektai/vietos/Trakai]]
+- Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į [[objektai/vietos/Aukokalnis]], [[objektai/vietos/Azovas]], [[objektai/vietos/Černigovas]], [[objektai/vietos/Drohičinas]], [[objektai/vietos/Druckas]], [[objektai/vietos/Gardinas]], [[objektai/vietos/Kaunas]], [[objektai/vietos/Kezmarkas]], [[objektai/vietos/Kėzmarkas]], [[objektai/vietos/Krėva]], [[objektai/vietos/Krokuva]], [[objektai/vietos/Lenkija]], [[objektai/vietos/Lietuva]], [[objektai/vietos/Mazovija]], [[objektai/vietos/Palenkė]], [[objektai/vietos/Panemunė]], [[objektai/vietos/Smolenskas]], [[objektai/vietos/Trakai]], [[objektai/vietos/Vengrija]], [[objektai/vietos/Vilnius]], [[objektai/vietos/Vitebskas]], [[objektai/vietos/Volkoviskas]], [[objektai/vietos/Vorskla]], [[objektai/vietos/Zna]], [[objektai/vietos/Žemaitija]]
 - Vytautas (Lietuvos valdovas, XIV–XV a.) mirė [[objektai/vietos/Trakai]]
 - Vytautas (Lietuvos valdovas, XIV–XV a.) buvo palaidotas [[objektai/vietos/Vilnius]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) pastatė [[objektai/vietos/Ašmena]], [[objektai/vietos/Kaunas]], [[objektai/vietos/Kelmė]], [[objektai/vietos/Naugardėlis]], [[objektai/vietos/Nemunas]], [[objektai/daiktai/Pilys]], [[objektai/vietos/Pinskas]], [[objektai/vietos/Veliuona]], [[objektai/vietos/Vilniaus katedra]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) puolė [[objektai/vietos/Bajerburgas]], [[objektai/asmenys/Dmitrijus Kaributas]], [[objektai/vietos/Druckas]], [[objektai/vietos/Jurbarkas]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/vietos/Marienburgas]], [[objektai/vietos/Marijenburgas]], [[objektai/vietos/Metena]], [[objektai/vietos/Naujasis Gardinas]], [[objektai/vietos/Opočka]], [[objektai/vietos/Pskovas]], [[objektai/vietos/Riazanė]], [[objektai/vietos/Riazanės kunigaikštystė]], [[objektai/vietos/Ritterswerderis]], [[objektai/vietos/Smolenskas]], [[objektai/asmenys/Švitrigaila]], [[objektai/asmenys/Teodoras (Karijoto sūnus)]], [[objektai/vietos/Vilniaus pilis]], [[objektai/vietos/Vilnius]], [[objektai/vietos/Vladimiras]], [[objektai/vietos/Voronačas]], [[objektai/vietos/Žemutinė pilis Kreivoji pilis|Žemutinė pilis Kreivoji pilis (pilis)]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) apgulė [[objektai/vietos/Kulmas]], [[objektai/vietos/Seversko Naugardas]], [[objektai/vietos/Trakai]], [[objektai/vietos/Vilnius]], [[objektai/vietos/Vitebskas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) užėmė [[objektai/vietos/Kijevas]], [[objektai/vietos/Koloža]], [[objektai/vietos/Krasnyj Gorod]], [[objektai/vietos/Naugardas]], [[objektai/vietos/Ovručas]], [[objektai/vietos/Podolė]], [[objektai/vietos/Podolija]], [[objektai/vietos/Seversko Naugardas]], [[objektai/vietos/Smolenskas]], [[objektai/vietos/Trakai]], [[objektai/vietos/Veližas]], [[objektai/vietos/Viazma]], [[objektai/vietos/Vitebskas]], [[objektai/vietos/Vladimiras]], [[objektai/vietos/Žitomiras]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) gynė [[objektai/vietos/Kijevo Rusia]], [[objektai/grupes/Lenkai]], [[objektai/vietos/Lietuva]], [[objektai/vietos/Trakai]], [[objektai/grupes/Žemaičiai]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) siuntė į [[objektai/vietos/Čekija]], [[objektai/vietos/Konstanca]], [[objektai/vietos/Konstancija]], [[objektai/ivykiai/Konstancijos susirinkimas (1414–1418 m.)]], [[objektai/vietos/Korčinas]], [[objektai/vietos/Krokuva]], [[objektai/vietos/Lietuva]], [[objektai/vietos/Praga]], [[objektai/vietos/Praha]], [[objektai/vietos/Prūsija]], [[objektai/vietos/Riazanė]], [[objektai/vietos/Skitija]], [[objektai/vietos/Trakai]], [[objektai/vietos/Vilnius]], [[objektai/vietos/Vroclavas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) surengė žygį į [[objektai/vietos/Didysis Naugardas]], [[objektai/vietos/Donas]], [[objektai/vietos/Krymas]], [[objektai/vietos/Maskva]], [[objektai/vietos/Maskvos žemės]], [[objektai/vietos/Medininkai]], [[objektai/vietos/Naugardas]], [[objektai/vietos/Podolė]], [[objektai/vietos/Pskovas]], [[objektai/vietos/Trakai]], [[objektai/vietos/Vitebskas]], [[objektai/vietos/Vorskla]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) kariavo prieš [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Lenkai]], [[objektai/asmenys/Skirgaila]], [[objektai/grupes/Totoriai]], [[objektai/grupes/Vengrai]]
+- Vytautas (Lietuvos valdovas, XIV–XV a.) pastatė [[objektai/daiktai/Pilys]], [[objektai/vietos/Veliuona]], [[objektai/vietos/Vilniaus katedra]]
+- Vytautas (Lietuvos valdovas, XIV–XV a.) puolė [[objektai/vietos/Opočka]], [[objektai/vietos/Pskovas]], [[objektai/vietos/Riazanės kunigaikštystė]], [[objektai/vietos/Smolenskas]], [[objektai/vietos/Vilnius]], [[objektai/vietos/Voronačas]]
+- Vytautas (Lietuvos valdovas, XIV–XV a.) apgulė [[objektai/vietos/Trakai]], [[objektai/vietos/Vilnius]]
+- Vytautas (Lietuvos valdovas, XIV–XV a.) užėmė [[objektai/vietos/Kijevas]], [[objektai/vietos/Koloža]], [[objektai/vietos/Krasnyj Gorod]], [[objektai/vietos/Ovručas]], [[objektai/vietos/Podolė]], [[objektai/vietos/Podolija]], [[objektai/vietos/Seversko Naugardas]], [[objektai/vietos/Smolenskas]], [[objektai/vietos/Veližas]], [[objektai/vietos/Viazma]], [[objektai/vietos/Vitebskas]], [[objektai/vietos/Vladimiras]], [[objektai/vietos/Žitomiras]]
+- Vytautas (Lietuvos valdovas, XIV–XV a.) gynė [[objektai/vietos/Lietuva]]
+- Vytautas (Lietuvos valdovas, XIV–XV a.) siuntė į [[objektai/vietos/Čekija]], [[objektai/vietos/Konstanca]], [[objektai/vietos/Korčinas]], [[objektai/vietos/Praga]], [[objektai/vietos/Praha]], [[objektai/vietos/Prūsija]], [[objektai/vietos/Vilnius]], [[objektai/vietos/Vroclavas]]
+- Vytautas (Lietuvos valdovas, XIV–XV a.) surengė žygį į [[objektai/vietos/Didysis Naugardas]], [[objektai/vietos/Donas]], [[objektai/vietos/Krymas]], [[objektai/vietos/Maskva]], [[objektai/vietos/Maskvos žemės]], [[objektai/vietos/Medininkai]], [[objektai/vietos/Naugardas]], [[objektai/vietos/Podolė]], [[objektai/vietos/Pskovas]]
+- Vytautas (Lietuvos valdovas, XIV–XV a.) kariavo prieš [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Lenkai]], [[objektai/asmenys/Skirgaila]], [[objektai/grupes/Totoriai]]
 - Vytautas (Lietuvos valdovas, XIV–XV a.) dalyvavo mūšyje [[objektai/ivykiai/Rūdavos mūšis (1370 m. vasario 17 d.)]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) sudarė sutartį su [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Konradas Jungingenas]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Livonijos ordinas]], [[objektai/asmenys/Skirgaila]], [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) gyveno [[objektai/vietos/Gardinas]], [[objektai/vietos/Marienburgas]], [[objektai/vietos/Smolenskas]], [[objektai/vietos/Trakai]], [[objektai/vietos/Vilnius]], [[objektai/vietos/Vorskla]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) paskyrė [[objektai/grupes/Didžiojo Naugardo respublika]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Jomantas]], [[objektai/asmenys/Jurgis Cemblakas]], [[objektai/asmenys/Saladinas]], [[objektai/asmenys/Teodoras (Liubarto sūnus)]], [[objektai/grupes/Totoriai]], [[objektai/asmenys/Zigmantas Kaributas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) rėmė [[objektai/asmenys/Aleksandras (Moldavijos valdovas)]], [[objektai/asmenys/Andrius Važila]], [[objektai/asmenys/Bazilius (Vasilius) II]], [[objektai/grupes/Domininkonų ordinas]], [[objektai/grupes/Husitai]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Machmetas]], [[objektai/asmenys/Manuelis]], [[objektai/asmenys/Skirgaila]], [[objektai/asmenys/St. Ciolką]], [[objektai/asmenys/Teodosijus]], [[objektai/asmenys/Tochtamišas]], [[objektai/asmenys/Vosylius I]], [[objektai/asmenys/Zbignievas Olesnickis]], [[objektai/grupes/Žemaičiai]], [[objektai/grupes/Žydai]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) užkariavo [[objektai/vietos/Didysis Naugardas]], [[objektai/vietos/Dniepras]], [[objektai/vietos/Pskovas]]
+- Vytautas (Lietuvos valdovas, XIV–XV a.) sudarė sutartį su [[objektai/asmenys/Konradas Jungingenas]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Livonijos ordinas]]
+- Vytautas (Lietuvos valdovas, XIV–XV a.) gyveno [[objektai/vietos/Gardinas]], [[objektai/vietos/Marienburgas]]
+- Vytautas (Lietuvos valdovas, XIV–XV a.) paskyrė [[objektai/asmenys/Jomantas]], [[objektai/asmenys/Teodoras (Liubarto sūnus)]]
+- Vytautas (Lietuvos valdovas, XIV–XV a.) rėmė [[objektai/asmenys/Aleksandras (Moldavijos valdovas)]], [[objektai/grupes/Domininkonų ordinas]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Machmetas]], [[objektai/asmenys/Skirgaila]], [[objektai/asmenys/St. Ciolką]], [[objektai/grupes/Žemaičiai]]

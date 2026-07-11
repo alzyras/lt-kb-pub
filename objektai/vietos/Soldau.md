@@ -34,16 +34,6 @@ Po to, sąjun­ gininkai ėmė trauktis atgal (liepos 11 d.) Lautenburgo Soldau 
 - t-001
   global_id: t-36584
   teiginys: "Liepos 11 d. sąjungininkai ėmė trauktis Lautenburgo ir Soldau link."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "221499-221843; hash=cbeea9f130f4af6fe1837a62a0bd2f876f6c72ac52c318d29cf62378ae7861c5; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lautenburgas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Soldau: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lautenburgas: mention_match, place, gap=15"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Soldau\" parinktas kaip owner_note_path. Targetas \"Lautenburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-38644
 - susijęs iš Hohendorfas: Hohendorfe prie Soldau sustojusiems sąjungininkams Vengrijos pasiuntinys įteikė Jogailai raštą, kuriuo Vengrijos karalius skelbė Lenkijai karą.
@@ -67,8 +57,8 @@ Po to, sąjun­ gininkai ėmė trauktis atgal (liepos 11 d.) Lautenburgo Soldau 
     hendorfe, pas juos atvyko iš Vengrijos pasiuntinys ir įteikė Jo­
     gailai raštą, kuriuo vengrų karalius skelbia Lenkijai karą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

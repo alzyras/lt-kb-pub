@@ -55,9 +55,6 @@ Nenurodyta
 - t-001
   global_id: t-67213
   teiginys: "Lietuvai tapus krikščioniška valstybe, Lietuvos žmonės pradėjo vykti mokytis į Europos universitetus."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "310942-311205; hash=7dd28585108affb16c38bec659a8e34f28170bc1a2a8800b4c6c71bcb5c92e5a; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-67225
 
@@ -65,9 +62,6 @@ Nenurodyta
 - t-002
   global_id: t-67214
   teiginys: "Aukštesniojo ir aukštojo mokslo siekę Lietuvos gyventojai turėdavo vykti į užsienį: dvasininkai dažniausiai rinkdavosi Krokuvą, kiti - Vakarų Europą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "511647-511958; hash=7a17338575ad12aaaa737c5d2975ebe5ffb795314854445965028fcb9bed47a3; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-67224
 ## Reikšmingi paminėjimai
@@ -85,8 +79,8 @@ Nenurodyta
     visi kiti vykdavo į vakarų Europos universitetus: į Vokietiją,
     Italiją ir Prancūziją.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -103,8 +97,8 @@ Nenurodyta
     dėjo glaudūs prekybos ryšiai su Vakarais, ir Lietuva žymiai
     praturtėjo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

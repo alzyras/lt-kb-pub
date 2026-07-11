@@ -41,16 +41,6 @@ media_all_json: |-
 - t-003
   global_id: t-78379
   teiginys: "Lietuvos totoriai naudodavo rytietiškas strėlines ir buvo ginkluoti lanku, kardu bei skydu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "459866-460112; hash=320659545cbea4e02aa5710d4883c3bb6884198d1419d1bd39fb8b1b60ecfa1a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kardas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos totoriai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Kardas: mention_match, thing, gap=75"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos totoriai\" parinktas kaip owner_note_path. Targetas \"Kardas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-75664
 
@@ -58,17 +48,6 @@ media_all_json: |-
 - t-002
   global_id: t-78380
   teiginys: "Lietuvos totorių vėliavų įvedimas į mūšį dar labiau padidino švedų kavalerijoje kilusią paniką."
-  semantiniai_rysiai: "Lietuvos totoriai kariavo prieš Švedai (0.67)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "439009-439357; hash=f68a0130a434fb9c85079e6c90362a26f41680c6ec9c732779c3c5eaf9f79d94; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Švedai: 0.67"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuvos totoriai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Švedai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Teiginys sieja Lietuvos totorių vėliavų įvedimą į mūšį su panika švedų kavalerijoje, todėl remia kovą prieš švedus."
   pagrindžia:
     - c-75665
 
@@ -76,19 +55,6 @@ media_all_json: |-
 - t-004
   global_id: t-78381
   teiginys: "Lietuvos totoriai naudodavo rytietiškas strėlines, kaip ir kita Lietuvos lengvoji kariuomenė."
-  temporaliniai_duomenys: "įvykio data: 1572 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys apie kazokus netinka objektui, bet citata palaiko faktą apie Lietuvos totorius."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "459695-460053; hash=2516dc7d9554c05cee32ae7e03e90d27c423b73770683c54e9b9b70f53dcf7c1; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos totoriai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos totoriai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-75662
 
@@ -96,16 +62,6 @@ media_all_json: |-
 - t-001
   global_id: t-78382
   teiginys: "Lietuvos totoriai šiame sparne buvo vertinami dėl manevringumo persekiojant bėgantį priešą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "432966-433371; hash=eed62762cb00045bb04c59ce4a871e775c62cb960f0227fa351c587183a37afd; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos totoriai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos totoriai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-75663
 
@@ -113,21 +69,6 @@ media_all_json: |-
 - t-005
   global_id: t-188287
   teiginys: "Narbutas rašo, kad Lietuvos totoriai mitines būtybes vadino fereikomis ir džinais, o jų religinė raštija joms priskyrė kenksmingumą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "310733-311472; hash=5eda55cba552328924324da7fc5796b4aa14067b9982e7ce7b05cc0d3414f56b; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos totoriai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos totoriai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171181
 - susijęs iš [[objektai/asmenys/Kurovičius.md#claim-t-39772|Kurovičius]]: Kurovičius buvo „vengrų“ pėstininkų rotmistras, kurį paryčiais girti bajorai nužudė kartu su kitais žymesniais belaisviais.
@@ -159,8 +100,8 @@ media_all_json: |-
     „Rengiasi jie beveik taip pat kaip totoriai, ir ginkluoti taip pat - lanku,
     kardu ir skydu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -180,8 +121,8 @@ media_all_json: |-
     nublokšti švedus į šiaurėje esantį pelkėtą
     mišką ir ten juos sunaikinti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -199,8 +140,8 @@ media_all_json: |-
     „Rengiasi jie beveik taip pat kaip totoriai, ir ginkluoti taip pat - lanku,
     kardu ir skydu. Tik dar papildomai kazokai turi ietis ir kaustytus vėzdus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -220,8 +161,8 @@ media_all_json: |-
     vėliavų įvedimas į mūšį. Prasidėjo žiau-
     rios besitraukiančio priešo kapotynés.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -248,8 +189,8 @@ media_all_json: |-
     gyvena po žeme. Pagaliau totoriai painioja Rytų musulmoniš­
     kas pasakas su mūsų vietinėmis fantazijomis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -373,8 +314,3 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188287
-
-## Ryšiai
-- Lietuvos totoriai puolė [[objektai/grupes/Švedai]]
-- Lietuvos totoriai kariavo prieš [[objektai/grupes/Švedai]]
-- Lietuvos totoriai gyveno [[objektai/vietos/Lietuva]]

@@ -35,17 +35,6 @@ Konradas Hesneris Narbuto pastaboje įvardijamas kaip šveicarų gydytojas, gamt
 - t-001
   global_id: t-191651
   teiginys: "Konradas Hesneris Narbuto pastaboje įvardijamas kaip šveicarų gydytojas, gamtininkas ir bibliografas, gyvenęs 1516–1565 m."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1516-1565; įvykio data: 1565 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie Konradą Hesnerį ir aiškiai perteikia Narbuto pastaboje nurodytą tapatybę bei datas. Nepridėta daugiau duomenų apie jo tyrinėjimus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "783605-783851; hash=102f1441e590a81330d69ea76a63a9426e7b67190898056e2644d2ce62839369; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174533
 ## Reikšmingi paminėjimai
@@ -64,8 +53,8 @@ Konradas Hesneris Narbuto pastaboje įvardijamas kaip šveicarų gydytojas, gamt
     1705—■
     1783), istoriografas ir akademikas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -76,7 +65,8 @@ Konradas Hesneris Narbuto pastaboje įvardijamas kaip šveicarų gydytojas, gamt
 - id: c-174533
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 433"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 433."
   citata_originali: |
     Ypač žymus jo veikalas-dialogas
     „Geografika“.

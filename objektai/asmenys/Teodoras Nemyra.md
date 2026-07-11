@@ -30,19 +30,6 @@ Teodoras Nemyra, sužeistas ir beveik išsekęs, su kardu rankoje prasiskynė ke
 - t-001
   global_id: t-186259
   teiginys: "Teodoras Nemyra, sužeistas ir beveik išsekęs, su kardu rankoje prasiskynė kelią per ginkluotus būrius ir paspruko iš pavojaus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "990933-991721; hash=efe4ccf27201a389df6a5dcadf643951e2d80132d402a7baecbd08380b17341c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kardas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Teodoras Nemyra: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kardas: mention_match, thing, gap=49"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Teodoras Nemyra\" parinktas kaip owner_note_path. Targetas \"Kardas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-169620
 - susijęs iš [[objektai/ivykiai/Vedrošos mūšis ir Konstantino Ostrogiškio paėmimas į nelaisvę.md#claim-t-185541|Vedrošos mūšis ir Konstantino Ostrogiškio paėmimas į nelaisvę (mūšis)]]: Po Vedrošos mūšio nelaisvės ar mirties išvengė Ivanas Jacyničius, Jurgis Valavičius, Teodoras Nemyra ir Bogdanas Maskevičius.
@@ -73,8 +60,8 @@ Teodoras Nemyra, sužeistas ir beveik išsekęs, su kardu rankoje prasiskynė ke
     mis, bet ir rankas užlaužė už nugaros ir nelyginant
     raiščiais apliejo ištirpintu švinu.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -113,6 +100,3 @@ Teodoras Nemyra, sužeistas ir beveik išsekęs, su kardu rankoje prasiskynė ke
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186259
-
-## Ryšiai
-- Teodoras Nemyra dalyvavo mūšyje [[objektai/ivykiai/Vedrošos mūšis ir Konstantino Ostrogiškio paėmimas į nelaisvę|Vedrošos mūšis ir Konstantino Ostrogiškio paėmimas į nelaisvę (mūšis)]]

@@ -35,16 +35,6 @@ Kilo didelis pavojus karaliaus saugumui, tad Aleksandras, ponų patarimu, kariuo
 - t-001
   global_id: t-87755
   teiginys: "Krymo totoriams priartėjus prie Lydos, Aleksandras pavedė kariuomenei vadovauti etmonui Kiškai ir kunigaikščiui Glinskiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "474960-475472; hash=d58a2c066455c2f635ebb59fca3e2839e1c72782097837084768a9aa2e16598c; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "paskyre -> Kiška: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Aleksandras: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kiška: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Aleksandras tiesiogiai pavedė Kiškai vadovauti kariuomenei."
   pagrindžia:
     - c-83734
 - susijęs iš [[objektai/asmenys/Aleksandras.md#claim-t-89626|Aleksandras]]: Mirtinai negaluojantis LDK valdovas Aleksandras kariuomenės vadais paskyrė Stanislovą Kišką ir Mykolą Glinskį.
@@ -101,8 +91,8 @@ Kilo didelis pavojus karaliaus saugumui, tad Aleksandras, ponų patarimu, kariuo
     Taboras, Jonas Zabžezinskis ir Karalystės kancleris Jonas
     Laskis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -131,6 +121,3 @@ Kilo didelis pavojus karaliaus saugumui, tad Aleksandras, ponų patarimu, kariuo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87755
-
-## Ryšiai
-- Priešai: [[objektai/asmenys/Mikalojus Radvila]]

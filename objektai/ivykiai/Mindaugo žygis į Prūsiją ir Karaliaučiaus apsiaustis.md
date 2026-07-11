@@ -42,12 +42,6 @@ Nenurodyta
 - t-001
   global_id: t-193476
   teiginys: "Sudeginus po to Kurše Karšuvos ir Heilsbergo pilis, kariuomenė buvo nuvesta į Žemaitiją, o vėliau — į Prūsiją."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "173191-173690; hash=3388e27b32be0e566137ee7e7f680e85c77989814c7289a5280dbab6ea1319b1; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176177
 ## Reikšmingi paminėjimai
@@ -70,8 +64,8 @@ Nenurodyta
     nusiaubus Sembą, buvo apsuptas Karaliaučiaus mies­
     tas, čekų karaliaus Otokaro visai neseniai įkurtas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

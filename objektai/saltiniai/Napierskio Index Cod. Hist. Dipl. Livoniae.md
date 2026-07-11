@@ -35,16 +35,6 @@ media_all_json: |-
 - t-002
   global_id: t-88316
   teiginys: "Napierskio „Index Cod. Hist. Dipl. Livoniae“ siejamas su Dinaburgo komtūro pranešimu apie Vilniaus miesto, kapitulos ir pilies gaisrą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "365034-365377; hash=39d5d80d43d7ef2d3f6ed4eaa2811bee06a0558e6f15a97158a3aa3fdcedb671; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Dinaburgas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Napierskio Index Cod. Hist. Dipl. Livoniae: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Dinaburgas: mention_match, place, gap=57"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Napierskio Index Cod. Hist. Dipl. Livoniae\" parinktas kaip owner_note_path. Targetas \"Dinaburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-84296
 
@@ -52,16 +42,6 @@ media_all_json: |-
 - t-001
   global_id: t-88317
   teiginys: "Napierskio „Index Cod. Hist. Dipl. Livoniae“ minimas kaip Livonijos dokumentų rinkinio nuoroda."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "359509-359767; hash=06988cdb0e00a13c506b11e10620cb4a85636c65b5aaa4b879cc2186c12bef15; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Livonija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Napierskio Index Cod. Hist. Dipl. Livoniae: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Livonija: mention_match, place, gap=58"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Napierskio Index Cod. Hist. Dipl. Livoniae\" parinktas kaip owner_note_path. Targetas \"Livonija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-84295
 ## Reikšmingi paminėjimai
@@ -86,8 +66,8 @@ media_all_json: |-
     (Plg. Ind. cod. kist. dipt. Livoniae)
     TI, p. 132, N 518.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -111,8 +91,8 @@ media_all_json: |-
     Vilniaus miesto, tenykštės kapitulos ir pilies gaisrą, apie
     nuostolius, kokių per tai patyrė Vytautas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

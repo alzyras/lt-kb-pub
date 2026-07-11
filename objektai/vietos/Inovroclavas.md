@@ -34,16 +34,6 @@ Trys į Vilnių pakviesti lenkų tapytojai: Martynas Ostrovskis, Vai­ tiekus Ch
 - t-001
   global_id: t-86190
   teiginys: "Vienas iš trijų į Vilnių pakviestų lenkų tapytojų buvo Vaitiekus Chelminskis iš Inovroclavo."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "552492-553254; hash=608d4b877fb16f875fa0a0fcf4c9f47f17f84073e2f5291fa6a5bced8405f4b4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Antspaudas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Inovroclavas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Antspaudas: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Inovroclavas\" parinktas kaip owner_note_path. Targetas \"Antspaudas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-82169
 - susijęs iš [[objektai/asmenys/Vaitiekus Chelminskis.md#claim-t-87872|Vaitiekus Chelminskis]]: Vaitiekus Chelminskis iš Inovroclavo buvo vienas iš trijų lenkų tapytojų, pakviestų į Vilnių.
@@ -86,8 +76,8 @@ Trys į Vilnių pakviesti lenkų tapytojai: Martynas Ostrovskis, Vai­ tiekus Ch
     Lietuvos Didžiosios Kunigaikštystės
     antspaudu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

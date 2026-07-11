@@ -41,19 +41,6 @@ media_all_json: |-
 - t-001
   global_id: t-30336
   teiginys: "Konradas von Jungingenas 1394 m. vasarą su gausiais svečiais suruošė didelį žygį į Lietuvą."
-  temporaliniai_duomenys: "įvykio data: 1394 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "890456-890691; hash=93c8d988be2486508952f481f553ee95fed1dcfba966e74ba5a237d4dd0dfca5; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Konradas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Konradas von Jungingen: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Konradas: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Konradas von Jungingen\" parinktas kaip owner_note_path. Targetas \"Konradas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-32776
 ## Reikšmingi paminėjimai
@@ -66,8 +53,8 @@ media_all_json: |-
     siais svečiais suruošė didelį žygį Lietuvon^3. Kryžiuočiai vėl atėjo
     iki pat Vilniaus ir per kelias savaites bandė jį paimti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

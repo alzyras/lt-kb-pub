@@ -40,16 +40,6 @@ media_all_json: |-
 - t-001
   global_id: t-31851
   teiginys: "Kardinolas J. Slipyj išleido metropolito A. Šeptyckio surinktų dokumentų rinkinį „Monumenta Ucrainae Historica“."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "249538-249999; hash=89f9eaee1b2a483c6e9cf16ba044af9f20eeb950993558fdc4f4bb5c05407e39; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Monumenta Ucrainae Historica: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Monumenta Ucrainae Historica\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-33666
 
@@ -57,19 +47,6 @@ media_all_json: |-
 - t-002
   global_id: t-31852
   teiginys: "A. Šeptyckio „Monumenta Ucrainae Historica“ I–XII tomai išleisti Romoje 1964–1975 m., redaguojant V. Jatuliui."
-  temporaliniai_duomenys: "įvykio data: 1964-1975; įvykio data: 1975 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata patvirtina autorių, tomus, leidimo vietą, metus ir redaktorių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "251388-252030; hash=568c1ce5cd32b7b5f954e0cd25747d2c857dd30e6976fa1f184dfd96d36865fb; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Roma: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Monumenta Ucrainae Historica: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Roma: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Monumenta Ucrainae Historica\" parinktas kaip owner_note_path. Targetas \"Roma\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-33665
 ## Reikšmingi paminėjimai
@@ -88,8 +65,8 @@ media_all_json: |-
     (^151) **M. Zeiller :** **_Neue Beschreibung des Königreiches Polen und Gross -
     herzogthums Lithauen,_** **Ulm 1647.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -107,8 +84,8 @@ media_all_json: |-
     vokiečių ordino karo žygiai į Lietuvą ir nuo XVI a. Prūsų Kuni­
     gaikštystės santykiai su ja.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

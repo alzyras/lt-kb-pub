@@ -39,12 +39,6 @@ media_all_json: |-
 - t-001
   global_id: t-194088
   teiginys: "Štai kas nutiko po šito dangaus ženklo didžiajam kunigaikščiui Vytautui, draugiškai sugyvenusiam su savo žentu, Maskvos didžiuoju kunigaikščiu Vasilijumi Dimitrijevičiumi."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "178097-178639; hash=a670f00ce99742410c8837ad5ff8165167de92949c22acc8f151f8870a436830; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176701
 
@@ -52,12 +46,6 @@ media_all_json: |-
 - t-002
   global_id: t-194089
   teiginys: "Vasilijus Dimitrijevičius ja u buvo Maskvoje."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "439909-440108; hash=002a8c92d824d2eaad5762cf172c1874495beae74f7417c366302a86cae9270b; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176702
 ## Reikšmingi paminėjimai
@@ -81,8 +69,8 @@ media_all_json: |-
     nuostolius severskiečiams. Maskvos didysis kunigaikš­
     tis neatkreipė į tai dėmesio.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -98,8 +86,8 @@ media_all_json: |-
     laisvės, Jo  sužadėtuvės su Sofija Vytautaite turėjo įvykti 1387 m
     pabaigoje, nes 1388.1.19 jis ja u  buvo Maskvoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

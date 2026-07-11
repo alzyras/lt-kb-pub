@@ -48,19 +48,6 @@ Nenurodyta
 - t-002
   global_id: t-186601
   teiginys: "Lietuvos metraštis pasakoja, kad Vytautas Naugardo vietininku paskyrė savo svainį Simoną Alšėniškį, vadinamą Rūsčiuoju."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "181981-182905; hash=de2a156564ca8f4d20373682edbe6d17fe1cefcb3ef9352f911b2f2ccb539f12; match=whitespace_regex"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
-  ryšio_patikimumas: "susije_su -> Didžiojo Naugardo respublika: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Naugardo pasidavimas Vytautui ir duoklės nustatymas: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Didžiojo Naugardo respublika: mention_match, group, gap=9"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Naugardo pasidavimas Vytautui ir duoklės nustatymas\" parinktas kaip owner_note_path. Targetas \"Didžiojo Naugardo respublika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-169892
 
@@ -68,20 +55,6 @@ Nenurodyta
 - t-001
   global_id: t-186602
   teiginys: "Lietuvos metraštis pasakoja, kad naugardiečiai pasižadėjo tarnauti Vytautui, duoti duoklę ir laikyti jį savo valdovu."
-  teiginio_tipas: "saltinio_teiginys"
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) paskyrė Didžiojo Naugardo respublika (0.74)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "181981-182905; hash=de2a156564ca8f4d20373682edbe6d17fe1cefcb3ef9352f911b2f2ccb539f12; match=whitespace_regex"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
-  ryšio_patikimumas: "paskyre -> Didžiojo Naugardo respublika: 0.74"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Didžiojo Naugardo respublika: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata rodo, kad Vytautas paskyrė vietininką naugardiečiams; konkretus paskirtas asmuo nėra kandidatų sąraše."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-169892
 
@@ -89,19 +62,6 @@ Nenurodyta
 - t-003
   global_id: t-186603
   teiginys: "Lietuvos metraštis nurodo, kad Naugardas Vytauto iždui kasmet mokėjo dešimt tūkstančių auksinų, žirgus ir kailius, o Pskovas davė pusę tiek."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "181981-182905; hash=de2a156564ca8f4d20373682edbe6d17fe1cefcb3ef9352f911b2f2ccb539f12; match=whitespace_regex"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
-  ryšio_patikimumas: "susije_su -> Didžiojo Naugardo respublika: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Naugardo pasidavimas Vytautui ir duoklės nustatymas: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Didžiojo Naugardo respublika: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Naugardo pasidavimas Vytautui ir duoklės nustatymas\" parinktas kaip owner_note_path. Targetas \"Didžiojo Naugardo respublika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-169892
 
@@ -109,12 +69,6 @@ Nenurodyta
 - t-004
   global_id: t-193856
   teiginys: "Pskoviečiai, nebenorėdami, kad jis toliau niokotų jų žemę, atsiuntė savo pasiunti nius pas didįjį kunigaikštį Vytautą, kad jis būtų jų valdovu, žadėjo jo klausyti ir kasmet mokėti jam duok lę bei įsileisti jo vietininką, ir didysis kunigaikštis (07 pasodino."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "181577-182399; hash=bff27cec143d9f3ca4ba6357a0f83ad94ca4774b3e51eb0f1bda641e1d56af83; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176493
 ## Reikšmingi paminėjimai
@@ -141,8 +95,8 @@ Nenurodyta
     ką davė naugardiečiai, tiek auksu ir žirgais, tiek kai­
     liais ".
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -175,8 +129,8 @@ Nenurodyta
     paskyrė jiems vietininku savo svainį, kunigaikštį Si­
     moną Alšėniškį, vadinamą Rūsčiuoju 9 .
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

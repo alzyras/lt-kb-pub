@@ -30,12 +30,6 @@ Tiktai kuni gaikštis Mstislavas su nedidele palyda spėjo pabėgti į Lucko mie
 - t-001
   global_id: t-194115
   teiginys: "Tiktai kuni gaikštis Mstislavas su nedidele palyda spėjo pabėgti į Lucko miestą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "85021-85302; hash=9ccdd07c2eaa9b4813f06fa7b3fcb1ee35b964c46c44ea0e82ead0cb40ab4cb6; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176728
 ## Reikšmingi paminėjimai
@@ -51,8 +45,8 @@ Tiktai kuni gaikštis Mstislavas su nedidele palyda spėjo pabėgti į Lucko mie
     į Lucko miestą. O didysis kunigaikštis Skirmantas už­
     ėmė Pinsko miestą7  ir Turovo miestą".
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

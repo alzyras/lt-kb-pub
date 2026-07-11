@@ -64,19 +64,6 @@ Nenurodyta
 - t-001
   global_id: t-87162
   teiginys: "1785 m. kovo 14 d. Laurynas Ozechovskis pateikė Pabaisko fundacijos privilegijos originalą įtraukti į LDK Vyriausiojo Tribunolo aktų knygas."
-  temporaliniai_duomenys: "įvykio data: 1426 m.; įvykio data: 1785 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir paremtas fundacijos privilegijos pateikimo aprašymu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "485046-486763; hash=32382d22c73f3add608764b63fdd2753d2a97ccd6a4f324bc2556b53217720cc; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> fundacija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Fundacijos privilegijos pateikimas ir įrašymas į teismo aktų knygas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "fundacija: mention_match, thing, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Fundacijos privilegijos pateikimas ir įrašymas į teismo aktų knygas\" parinktas kaip owner_note_path. Targetas \"fundacija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-83142
 
@@ -84,19 +71,6 @@ Nenurodyta
 - t-002
   global_id: t-87163
   teiginys: "1649 m. gruodžio 29 d. Jonas Kazimieras Pinkevičius pateikė Pabaisko klebonijos fundacijos privilegiją įrašyti į teismo aktų knygas."
-  temporaliniai_duomenys: "įvykio data: 1649 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pirminis teiginys yra dokumento fragmentas, bet citata remia aiškų faktą apie privilegijos įrašymą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "509405-510503; hash=16bebf153d66fc4aee5b0d025a8788f4c4e811381d9835bdf7cfab15665fc89b; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> fundacija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Fundacijos privilegijos pateikimas ir įrašymas į teismo aktų knygas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "fundacija: mention_match, thing, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Fundacijos privilegijos pateikimas ir įrašymas į teismo aktų knygas\" parinktas kaip owner_note_path. Targetas \"fundacija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-83141
 
@@ -104,19 +78,6 @@ Nenurodyta
 - t-003
   global_id: t-183823
   teiginys: "LDK Vyriausiasis Tribunolas priėmė fundacijos privilegiją ir pavedė ją žodis žodin įrašyti į viešųjų reikalų knygas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "485415-487535; hash=292a0dfc0b4a0e30a749843910db7fec2c80f9663275d214493a5db7b8596e06; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> fundacija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Fundacijos privilegijos pateikimas ir įrašymas į teismo aktų knygas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "fundacija: mention_match, thing, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Fundacijos privilegijos pateikimas ir įrašymas į teismo aktų knygas\" parinktas kaip owner_note_path. Targetas \"fundacija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-167208
 ## Reikšmingi paminėjimai
@@ -145,8 +106,8 @@ Nenurodyta
     tas Jo Malonybei kunigui Ignotui Houvaitui, Smolensko ka­
     nauninkui, Pabaisko klebonui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -200,8 +161,8 @@ Nenurodyta
     Lietuvos Didžiosios Kunigaikštystės Vyriausiojo Tribunolo
     Aktų knygas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -260,8 +221,8 @@ Nenurodyta
     yra įrašyta žodis žodin, tokio turinio:
     In Nomine Domini Amen.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

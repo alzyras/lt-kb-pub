@@ -32,16 +32,6 @@ media_all_json: |-
 - t-001
   global_id: t-26653
   teiginys: "Komandinės, planinės ekonomikos neefektyvumas buvo pašiepiamas formule apie socializmą Sacharos dykumoje ir smėlio deficitą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "442742-443269; hash=25ad6e3236a8a2dccfbbf95a5a7d904423615e82de12f3f92743f70fa5b8c11f; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vaistinės prekės, vaistai ir gydomieji gėrimai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "„jeigu Sacharos dykumoje būtų įvestas socializmas...“: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Vaistinės prekės, vaistai ir gydomieji gėrimai: mention_match, thing, gap=29"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"„jeigu Sacharos dykumoje būtų įvestas socializmas...“\" parinktas kaip owner_note_path. Targetas \"Vaistinės prekės, vaistai ir gydomieji gėrimai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-26744
 
@@ -49,16 +39,6 @@ media_all_json: |-
 - t-002
   global_id: t-26905
   teiginys: "Posakiu apie socializmą Sacharos dykumoje šaipytasi iš komandinės planinės ekonomikos neefektyvumo ir SSRS deficito."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "442742-443269; hash=25ad6e3236a8a2dccfbbf95a5a7d904423615e82de12f3f92743f70fa5b8c11f; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> SSRS: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "„jeigu Sacharos dykumoje būtų įvestas socializmas...“: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "SSRS: mention_match, place, gap=89"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"„jeigu Sacharos dykumoje būtų įvestas socializmas...“\" parinktas kaip owner_note_path. Targetas \"SSRS\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-26744
 ## Reikšmingi paminėjimai
@@ -75,8 +55,8 @@ media_all_json: |-
     neefektyvumo niūriai juokauta, kad jeigu Sacharos dykumoje būtų įvestas
     socializmas, netrukus ten atsirastų smėlio deficitas...
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

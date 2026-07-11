@@ -58,19 +58,6 @@ Nenurodyta
 - t-001
   global_id: t-31422
   teiginys: "1291 m. kryžiuočiai puolė Junigėdą, jos nepaėmė, bet netoliese sunaikino Mederabos pilį."
-  semantiniai_rysiai: "Kryžiuočių ordinas puolė Junigėdos puolimas ir Mederabos sunaikinimas (1291 m.) (0.86); Kryžiuočių ordinas užėmė Mederaba (0.72)"
-  temporaliniai_duomenys: "įvykio data: 1291 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "602170-602550; hash=de2dce7c59393ee1d39a0e4d6efd9ddc754bf8c3bfba2dbf1dd59b114e5d00e5; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Junigėdos puolimas ir Mederabos sunaikinimas (1291 m.): 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Junigėdos puolimas ir Mederabos sunaikinimas (1291 m.): llm_allowed_candidate, event"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad kryžiuočiai vykdė Junigėdos puolimą, kurį reprezentuoja savininko įvykis."
   pagrindžia:
     - c-33397
 ## Reikšmingi paminėjimai
@@ -85,8 +72,8 @@ Nenurodyta
     pilis «Mederaba»^23. Grįždami nuo Junigėdos 1292, kryžiuočiai
     teriojo sritį pernykščiai sudegintos Aukaimio (« Oukaym ») pilies^24.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -112,6 +99,3 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-31422
-
-## Ryšiai
-- Puolė Junigėdos puolimas ir Mederabos sunaikinimą (1291 m.): [[objektai/grupes/Kryžiuočių ordinas]]

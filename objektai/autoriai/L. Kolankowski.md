@@ -48,9 +48,6 @@ L. Kolankowski minimas kaip istorikas ir autorius. Viešame įraše jis jau buvo
 - t-002
   global_id: t-12253
   teiginys: "L. Kolankowski šiame šaltinyje bibliografiškai pateikiamas kaip veikalo „Dzieje Wielkiego Księstwa Litewskiego za Jagiełłonów“ autorius."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "8698-8847; hash=a162c31893a315a67af29cbccf08ef1a6abd8206b66ecda35c9fe77846c6a6fa; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-13916
     - c-13917
@@ -59,16 +56,6 @@ L. Kolankowski minimas kaip istorikas ir autorius. Viešame įraše jis jau buvo
 - t-003
   global_id: t-12254
   teiginys: "L. Kolankowski diarchiją aiškino ne susitarimu, o brolių varžybomis dėl aukščiausios valdžios."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "27141-27539; hash=3f48086447cdb66d53d449e00b9d17218c01915f21b40dd2017d1e4f6f727a77; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Diarchijos sistema: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "L. Kolankowski: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Diarchijos sistema: mention_match, thing, gap=15"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"L. Kolankowski\" parinktas kaip owner_note_path. Targetas \"Diarchijos sistema\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-13918
 - susijęs iš [[objektai/autoriai/Kolankowski L.md#claim-t-60728|Kolankowski L]]: Kolankowski L. parašė darbą „Litwini a Prusacy“, paskelbtą 1931 m. Lvove istorikų suvažiavimo leidinyje.
@@ -89,8 +76,8 @@ L. Kolankowski minimas kaip istorikas ir autorius. Viešame įraše jis jau buvo
     za Jagiełłonów. Tom I. 1377—1499. Skład główny-.
     Kasa Im. Mianowskiego. Warszawa, 1930.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -103,8 +90,8 @@ L. Kolankowski minimas kaip istorikas ir autorius. Viešame įraše jis jau buvo
     giellonów. Tom. 1. 1377—1490. Warszawa, 1930. Termino „diarchija“, kaip la­
     biau atitinkančio šiam reikalui už „dualizmą“ ir toliau laikysimės
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -121,8 +108,8 @@ L. Kolankowski minimas kaip istorikas ir autorius. Viešame įraše jis jau buvo
     na, kad šaltinis vėlyvas, o antra, kad ir tekstą aiškinti taip, kaip aiškina
     Kolankovskis, negalima.
   citata_rodoma: ''
-  teiginio_tipas: interpretacija
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -135,11 +122,11 @@ L. Kolankowski minimas kaip istorikas ir autorius. Viešame įraše jis jau buvo
     — Kolankowski, L. : _Dzieje Wielkiego Księstwa Litewskiego za Ja­
     giellonów,_ I, 1930, 11-51 p. — Kutrzeba, St.
   citata_rodoma: ''
+  statusas: verified
+
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  statusas: verified
-
 - c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -149,11 +136,11 @@ L. Kolankowski minimas kaip istorikas ir autorius. Viešame įraše jis jau buvo
     specialus nr., su J. Dąbrowski, O. Halecki, L. Kolankowski, Fr. Papee,
     Wł. Semkowicz ir kt. straipsniais). — Kryczyński, St.: _Tatarzy litewscy.
   citata_rodoma: ''
+  statusas: verified
+
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  statusas: verified
-
 ## Citatos
 
 - id: c-13916

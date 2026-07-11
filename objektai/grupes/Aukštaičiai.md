@@ -42,12 +42,6 @@ media_all_json: |-
 - t-001
   global_id: t-194991
   teiginys: "Vis daugiau duomenų atsiranda teigti, jog Gedimino dinastijos kilmės reikia ieškoti Aukštaičiuose."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "598500-598789; hash=d6c1e26e2ab0e322b77ec70c459806bf0fcd0a5ea3412371f844c4d142e6f71d; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177374
 
@@ -55,12 +49,6 @@ media_all_json: |-
 - t-002
   global_id: t-194992
   teiginys: "Ordino maršalo vadovaujama kariuomenė, pasidalinusi į tris grupes, (1377.II.) teriojo Aukštaičius."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "702031-702129; hash=270e3312774b3e0d36b8c7fbbdcac74ae883df5e6daea5abcc5e576893301276; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-31037
 ## Reikšmingi paminėjimai
@@ -72,8 +60,8 @@ media_all_json: |-
     Ordino maršalo vadovaujama kariuomenė, pasidalinusi į tris
     grupes, (1377.II.) teriojo Aukštaičius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -90,8 +78,8 @@ media_all_json: |-
     kilmės reikia ieškoti Aukštaičiuose. Iš Aukštaičių kilo Lietuvos
     valstybės pradžia.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

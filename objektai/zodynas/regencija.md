@@ -32,9 +32,6 @@ Kadangi jis tuomet buvo dar mažas, tai buvo sudaryta regencija. regencija: su j
 - t-001
   global_id: t-70301
   teiginys: "Po Vosyliaus III mirties Maskvos kunigaikščiu tapus mažamečiam Jonui IV Žiauriajam, buvo sudaryta regencija."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "424067-424325; hash=618c8eb2a7c653675d5bc0ab86c954b56bf6cc7ab627763066a6c393c3910981; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-69353
 
@@ -42,9 +39,6 @@ Kadangi jis tuomet buvo dar mažas, tai buvo sudaryta regencija. regencija: su j
 - t-002
   global_id: t-70302
   teiginys: "Po 1533 m. Vosyliaus III mirties sudaryta Jono IV regencija Maskvos kunigaikštystėje sukėlė vidaus neramumus."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "424185-424591; hash=3eb6688bd231fc7d81be57733c8725a1bc46f9b787b83107b5911d8b97bcd1cf; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-69352
 ## Reikšmingi paminėjimai
@@ -62,8 +56,8 @@ Kadangi jis tuomet buvo dar mažas, tai buvo sudaryta regencija. regencija: su j
     mokėti po 15.000 dukatų, ir Maskvai nuolat grėsė iš jų pusės
     pavojus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -79,8 +73,8 @@ Kadangi jis tuomet buvo dar mažas, tai buvo sudaryta regencija. regencija: su j
     kunigaikščiu tapo Jonas IV Žiaurusis. Kadangi jis tuomet buvo
     dar mažas, tai buvo sudaryta regencija.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

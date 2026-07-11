@@ -30,21 +30,6 @@ Narbutas Ragutienę patį (Ragutenapati) apibūdina kaip aludarystę globojanči
 - t-001
   global_id: t-189323
   teiginys: "Narbutas Ragutienę patį (Ragutenapati) apibūdina kaip aludarystę globojančią deivę ir pagal vardą sieja ją su Ragučio žmona."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "257251-257653; hash=82b306a5a50bb2dc59feb06ccf9b2d68297a16f6643b8ae7a2f2c804a59fb6c0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lasickis: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ragutienė pati Nukijdimas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lasickis: mention_match, author"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ragutienė pati Nukijdimas\" parinktas kaip owner_note_path. Targetas \"Lasickis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172210
 ## Reikšmingi paminėjimai
@@ -62,8 +47,8 @@ Narbutas Ragutienę patį (Ragutenapati) apibūdina kaip aludarystę globojanči
     davo pats šeimininkas arba, jo nesant, šeimininkė, paskui visi
     dalyvaujantys.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -74,7 +59,8 @@ Narbutas Ragutienę patį (Ragutenapati) apibūdina kaip aludarystę globojanči
 - id: c-172210
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 147"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 147."
   citata_originali: |
     Ragutienė pati (Ragutenapati)
     Deivė, globojanti tik aludarystę, o pagal savo vardą -  Ra­

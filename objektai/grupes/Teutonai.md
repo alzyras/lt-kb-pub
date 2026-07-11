@@ -32,9 +32,6 @@ Teutonai čia siejami su kraštovardžių formavimu ir ankstesnių pajūrio gyve
 - t-002
   global_id: t-07849
   teiginys: "Teutonai pavergė pajūryje gyvenusius erulius ir kraštovardžiams pridėdavo savo žodį land."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "25278-25577; hash=53c787b77c202a4ca4ce82b6ff2e2afa0de4da627acdbf9cba7b725431cc1f99; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
   pagrindžia:
     - c-10083
     - c-10084
@@ -427,8 +424,8 @@ Teutonai čia siejami su kraštovardžių formavimu ir ankstesnių pajūrio gyve
         _Samland_ , iš žodžių žem ir _land_ , tai yra Žemasis kraštas, kaipo viršiau minavojau, o gyventojus to
         krašto vadino _Samländer_ , tai yra žemaičiai, beje: žmonės, gyvenantys žemai, arba pajūriais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -441,8 +438,8 @@ Teutonai čia siejami su kraštovardžių formavimu ir ankstesnių pajūrio gyve
         nuvergė, tad nuo jų, kaipo žinovų Žemaičių jūros, apie tą rytų, arba aušros, kraštą išsijautojo^106 ir
         tais pačiais vardais vadino, pridėdami savo žodį _land_ – kraštas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -483,17 +480,6 @@ Teutonai čia siejami su kraštovardžių formavimu ir ankstesnių pajūrio gyve
     - t-07849
 
 ## Ryšiai
-- Priešai: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
-- Gynė Teutonai: [[objektai/asmenys/Jordanas iš Pelplino]], [[objektai/grupes/Lietuvos luomai]], [[objektai/asmenys/Paulius iš Olivos]]
-- Kariavo prieš: [[objektai/grupes/Notangai]], [[objektai/asmenys/Sventopelkas]]
-- Sudarė sutartį su: [[objektai/asmenys/Grigalius IX]], [[objektai/grupes/Lietuviai]]
-- Paskyrė Teutonai: [[objektai/asmenys/Grigalius IX]], [[objektai/asmenys/Popiežius Celestinas III]]
-- Rėmė Teutonai: [[objektai/asmenys/Agota|Agota (kunigaikščio žmona, XIII a.)]], [[objektai/asmenys/Grigalius IX]], [[objektai/asmenys/Jėzus Kristus]], [[objektai/asmenys/Konradas iš Foichtvangeno]]
-- Turėjo priklausinį: [[objektai/vietos/Diunamiundė]], [[objektai/vietos/Kulmas]], [[objektai/vietos/Lubava]], [[objektai/vietos/Lubavos žemė]], [[objektai/daiktai/Namas]], [[objektai/grupes/Notangai]], [[objektai/vietos/Prūsija]], [[objektai/vietos/Vancka]], [[objektai/grupes/Varmiai]]
-- Teutonai keliavo į [[objektai/vietos/Prūsija]]
-- Teutonai pastatė [[objektai/daiktai/Kuoras aukštai ąžuole]], [[objektai/vietos/Malburgas]], [[objektai/vietos/Mevė]], [[objektai/vietos/Poterbergas]], [[objektai/vietos/Štarkenbergas]], [[objektai/vietos/Torunė]]
-- Teutonai puolė [[objektai/vietos/Dramenava]], [[objektai/vietos/Treiderės upė]]
-- Teutonai užėmė [[objektai/vietos/Diunamiundė]], [[objektai/vietos/Partigala]]
-- Teutonai gynė [[objektai/vietos/Lenkija]]
-- Teutonai gyveno [[objektai/vietos/Livonija]]
-- Teutonai užkariavo [[objektai/grupes/Prūsai]]
+- Kariavo prieš: [[objektai/asmenys/Sventopelkas]]
+- Sudarė sutartį su: [[objektai/grupes/Lietuviai]]
+- Turėjo priklausinį: [[objektai/vietos/Kulmas]], [[objektai/vietos/Lubava]]

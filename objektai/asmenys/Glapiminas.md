@@ -38,22 +38,6 @@ Narbutas pasakoja, kad Imino vaikaitis Glapiminas XII amžiuje po kunigaikščio
 - t-001
   global_id: t-190153
   teiginys: "Narbutas pasakoja, kad Imino vaikaitis Glapiminas XII amžiuje po kunigaikščio užkariavimo sugrįžo į Lietuvą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Glapiminas keliavo į Lietuva (0.92)"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "361734-361980; hash=73f9b86b5b1f5f04cf03eef7c0e370b25c6098b75946181f912f028a4007463a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Lietuva: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Glapiminas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Glapimino sugrįžimą į Lietuvą."
-  vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173036
 - susijęs iš [[objektai/asmenys/Sutinkąs.md#claim-t-190211|Sutinkąs]]: Narbutas pasakoja, kad Imino vaikaičio Glapimino sūnus Sutinkąs valdė Žemaitijoje.
@@ -73,8 +57,8 @@ Narbutas pasakoja, kad Imino vaikaitis Glapiminas XII amžiuje po kunigaikščio
     vaikaitis Dormunimundas valdė Žemaitijoje. Šiojo sūnus Liu­
     tauras, jūrų karžygys, 1262 metais atstatė senovinę Ariogalą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -85,7 +69,8 @@ Narbutas pasakoja, kad Imino vaikaitis Glapiminas XII amžiuje po kunigaikščio
 - id: c-173036
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 213"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 213."
   citata_originali: |
     Kai XII amžiuje kunigaikštis užkariavo šitą šalį, Imino vaikai­
     tis Glapiminas sugrįžo atgal į Lietuvą. Jo sūnus Sutinkąs, o

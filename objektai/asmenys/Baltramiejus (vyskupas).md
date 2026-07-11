@@ -43,19 +43,6 @@ Baltramiejus ir abatas Bernardas), Gediminas diplomatiškai išsisukinėjo, veng
 - t-001
   global_id: t-30210
   teiginys: "Vyskupas Baltramiejus 1324 m. vasarop atvyko į Rygą kaip vienas iš dviejų Avinjono legatų."
-  semantiniai_rysiai: "Baltramiejus (vyskupas) keliavo į Avinjonas (0.65)"
-  temporaliniai_duomenys: "kelionės data: 1324 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Baltramiejus (vyskupas) keliavo į Avinjonas“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "639679-640226; hash=f7768b33ad985c4622de79cd1f3f17b5cdefa3582fe04564ac7bce73ffff6226; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Avinjonas: 0.65"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Baltramiejus (vyskupas): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Avinjonas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata nurodo, kad legatai, tarp jų Baltramiejus, atvyko iš Avinjono; tai kelionės pradžios, ne tikslo vieta."
   pagrindžia:
     - c-32711
 ## Reikšmingi paminėjimai
@@ -74,8 +61,8 @@ Baltramiejus ir abatas Bernardas), Gediminas diplomatiškai išsisukinėjo, veng
     riusi kitokia, negu prieš 75 metus valdant Mindaugui, nes Gedi­
     mino nespaudė jokia koalicija, nei baimino koks sosto pretendentas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -105,6 +92,3 @@ Baltramiejus ir abatas Bernardas), Gediminas diplomatiškai išsisukinėjo, veng
   patikimumo_saltinis: ai
   pagrindzia:
     - t-30210
-
-## Ryšiai
-- Baltramiejus (vyskupas) keliavo į [[objektai/vietos/Avinjonas]]

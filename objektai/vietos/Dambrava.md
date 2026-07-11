@@ -35,17 +35,6 @@ I1l ## Puslapis 128 VILNIAUS MIESTO ISTORIJA / TOMAS vyskupui, iškilmingu aktu 
 - t-001
   global_id: t-86174
   teiginys: "Dambravos kaimas prie Vilniaus buvo tarp valdų, kuriomis iškilmingu aktu buvo aprūpinta Vilniaus katedra."
-  semantiniai_rysiai: "Dambrava priklausė Vilniaus katedra (0.88)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "243217-243696; hash=a2b05c81000ebbbb9769499d32e5613678c07ab38299e30def47b1a0051e08c9; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Vilniaus katedra: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Dambrava: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Vilniaus katedra: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Dambrava tiesiogiai įvardyta tarp valdų, kuriomis aprūpinta Vilniaus katedra."
   pagrindžia:
     - c-82153
 - susijęs iš [[objektai/asmenys/J. P. Sapiega.md#claim-t-53891|J. P. Sapiega]]: J. P. Sapiegos ir T. Dambravos raiteliai flanguose susikovė su atakuojančia švedų kavalerija.
@@ -75,8 +64,8 @@ I1l ## Puslapis 128 VILNIAUS MIESTO ISTORIJA / TOMAS vyskupui, iškilmingu aktu 
     teko jai ir Dubrovno pavietas, kadaise buvusi iš Lietuvos
     istorijos žinomo Jogailos patikėtinio Vaidilos nuosavybė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -109,6 +98,3 @@ I1l ## Puslapis 128 VILNIAUS MIESTO ISTORIJA / TOMAS vyskupui, iškilmingu aktu 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86174
-
-## Ryšiai
-- Dambrava priklausė [[objektai/vietos/Vilniaus katedra]]

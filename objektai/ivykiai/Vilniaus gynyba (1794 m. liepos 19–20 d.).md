@@ -56,20 +56,6 @@ Nenurodyta
 - t-001
   global_id: t-80676
   teiginys: "1794 m. liepos 19 d. B. Knorringo vadovaujamas Rusijos kariuomenės korpusas, padalytas į tris kolonas, pasiekė Vilnių."
-  semantiniai_rysiai: "Rusai keliavo į Vilnius (0.66)"
-  temporaliniai_duomenys: "įvykio data: 1794 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo veikėją, veiksmą, datą ir vietą, citata tai pagrindžia."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "617995-619030; hash=ed92aa8cfdf80085b8fffae4b13a520d6cae8940505ca830444916770485bfdb; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Vilnius: 0.66"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Rusai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys nurodo, kad Rusijos kariuomenės korpusas pasiekė Vilnių; kandidatas „Rusai“ vartojamas kaip artimiausias grupinis šios kariuomenės atitikmuo."
   pagrindžia:
     - c-43133
 - susijęs iš [[objektai/asmenys/Bogdanas Knorringas.md#claim-t-40069|Bogdanas Knorringas]]: 1794 m. liepos 19 d. Bogdano Knorringo vadovaujamas Rusijos kariuomenės korpusas pasiekė Vilnių.
@@ -115,8 +101,8 @@ Nenurodyta
     įtvirtinimus ir užimti gynybą
     prie miesto gynybinių sienų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -169,6 +155,3 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-80676
-
-## Ryšiai
-- Turėjo dalyvį: [[objektai/grupes/Rusijos kariuomenės korpusas]]

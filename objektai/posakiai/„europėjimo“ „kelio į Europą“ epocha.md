@@ -34,14 +34,6 @@ Lietuva, apsikrikštijusi ir nugalėjusi Ordiną, pašalino 200 metų grėsmę s
 - t-001
   global_id: t-193676
   teiginys: "Lietuva, apsikrikštijusi ir nugalėjusi Ordiną, pašalino 200 metų grėsmę savo egzistencijai ir perėjo į naują savo istorijos stadiją – „europėjimo“ arba „kelio į Europą“ epochą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "70146-70500; hash=033e6eff2c9774ee5812e6563d9ba1cd2aaddef737d634d6bbee79862a21550a; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-176345
 ## Reikšmingi paminėjimai
@@ -56,8 +48,8 @@ Lietuva, apsikrikštijusi ir nugalėjusi Ordiną, pašalino 200 metų grėsmę s
     Ordiną, pašalino 200 metų grėsmę savo egzistencijai ir perėjo į naują savo
     istorijos stadiją – „europėjimo“ arba „kelio į Europą“ epochą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

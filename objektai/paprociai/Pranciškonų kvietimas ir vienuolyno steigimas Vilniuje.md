@@ -45,12 +45,6 @@ Nenurodyta
 - t-001
   global_id: t-194074
   teiginys: "Lietuvos metraštis teigia, kad būdamas Vilniaus vaivada \ didžiajam kunigaikščiui Algirdui leidus, jis pirmą kar tą parsikvietė iš Lenkijos 14 vienuolių pranciškonų5 , ir savo rūmuose Vilniuje, kur dabar yra Vilniaus vys kupo rūmai6 , įsteigė dievo motinos vienuolyną, o sau rūmus pasistatė."
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "128152-128642; hash=31d8feaabba00c72052467472110b7a92e026507883a958810bf3b67fbfcd822; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176687
 ## Reikšmingi paminėjimai
@@ -71,8 +65,8 @@ Nenurodyta
     rūmus pasistatė Smėlynėje7 , priešais Vingrius8 , kur
     dabar dievo motinos vienuolynas9 .
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

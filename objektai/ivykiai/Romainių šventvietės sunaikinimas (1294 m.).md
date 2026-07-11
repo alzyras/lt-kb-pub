@@ -59,19 +59,6 @@ Kryžiuočiai ilgai siekė sunaikinti Romainių šventvietę, o 1294 m. užėmė
 - t-001
   global_id: t-55130
   teiginys: "1294 m. kryžiuočiai užėmė Romainių pilį, pasiėmė turtą ir išžudė žynius."
-  temporaliniai_duomenys: "įvykio data: 1294 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, faktinis ir tiksliai atitinka citatos informaciją."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "63944-65021; hash=b8e666ee5a4aa8669bed8ecc8dee8fcfe7b349c4189b8779966eb5ddd379ac37; match=whitespace_regex"
-  sprendimo_priezastis: "gap::events"
-  ryšio_patikimumas: "susije_su -> Romainiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Romainių šventvietės sunaikinimas (1294 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Romainiai: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Romainių šventvietės sunaikinimas (1294 m.)\" parinktas kaip owner_note_path. Targetas \"Romainiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-78376
 
@@ -79,16 +66,6 @@ Kryžiuočiai ilgai siekė sunaikinti Romainių šventvietę, o 1294 m. užėmė
 - t-002
   global_id: t-55131
   teiginys: "Balińskio manymu, po Romainių sunaikinimo Perkūno tikėjimo relikvijos ir Krivių Krivaitis su aukotojais galėjo būti perkelti į Vilnių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "63944-65021; hash=b8e666ee5a4aa8669bed8ecc8dee8fcfe7b349c4189b8779966eb5ddd379ac37; match=whitespace_regex"
-  sprendimo_priezastis: "gap::events"
-  ryšio_patikimumas: "susije_su -> Romainiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Romainių šventvietės sunaikinimas (1294 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Romainiai: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Romainių šventvietės sunaikinimas (1294 m.)\" parinktas kaip owner_note_path. Targetas \"Romainiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-78376
 
@@ -96,19 +73,6 @@ Kryžiuočiai ilgai siekė sunaikinti Romainių šventvietę, o 1294 m. užėmė
 - t-001
   global_id: t-55130
   teiginys: "1294 m. kryžiuočiai užėmė Romainių pilį, pasiėmė turtą ir išžudė žynius."
-  temporaliniai_duomenys: "įvykio data: 1294 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, faktinis ir tiksliai atitinka citatos informaciją."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "63944-65021; hash=b8e666ee5a4aa8669bed8ecc8dee8fcfe7b349c4189b8779966eb5ddd379ac37; match=whitespace_regex"
-  sprendimo_priezastis: "gap::events"
-  ryšio_patikimumas: "susije_su -> Romainiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Romainių šventvietės sunaikinimas (1294 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Romainiai: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Romainių šventvietės sunaikinimas (1294 m.)\" parinktas kaip owner_note_path. Targetas \"Romainiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-78376
 ## Reikšmingi paminėjimai
@@ -148,8 +112,8 @@ Kryžiuočiai ilgai siekė sunaikinti Romainių šventvietę, o 1294 m. užėmė
     XIII amžiaus gale jau galėjo būti tan­
     kiai gvvenama ir svarbi gyvenvietė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

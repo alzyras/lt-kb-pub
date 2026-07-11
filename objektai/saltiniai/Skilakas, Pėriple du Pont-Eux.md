@@ -36,14 +36,6 @@ Tai buvo 1350 metais iki Kristaus gimimo, 70 metų prieš 1 Skilakas, kilęs iš
 - t-001
   global_id: t-194900
   teiginys: "Tai buvo 1350 metais iki Kristaus gimimo, 70 metų prieš 1 Skilakas, kilęs iš Kariando (Pėriple du Pont-Eux)."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "72483-72808; hash=9b7c951b8289e9dffb1caa3a0906c324f1f3a1bba5478583f5bfd8a23ae78970; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-177296
 ## Reikšmingi paminėjimai
@@ -59,8 +51,8 @@ Tai buvo 1350 metais iki Kristaus gimimo, 70 metų prieš 1 Skilakas, kilęs iš
     buvo 1350 metais iki Kristaus gimimo, 70 metų prieš
     1 Skilakas, kilęs iš Kariando (Pėriple du Pont-Eux)*.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -71,7 +63,8 @@ Tai buvo 1350 metais iki Kristaus gimimo, 70 metų prieš 1 Skilakas, kilęs iš
 - id: c-177296
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 42"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 42."
   citata_originali: |
     Juodąja jūrą pavadino vėliau dėl dažnai virš jos tvy­
     rančių ir labai tirštų rūkų1. Jasono vadovaujama kelionė

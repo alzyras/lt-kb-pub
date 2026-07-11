@@ -35,17 +35,6 @@ Tikrai tikėtina, jog vardas tautos, įsikūru­ sios prie Vyslos žiočių - vi
 - t-001
   global_id: t-88069
   teiginys: "Jornandesas Vyslos žiotyse gyvenusiai tautai suteikė vidivarijų vardą."
-  semantiniai_rysiai: "Vidivarii gyveno Vysla (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "50572-51445; hash=dc860b9b062ebdb222d6e9f803d50cd20effcc812cb78e1d785693a6ecb40a8e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Vysla: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vidivarii: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vysla: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad vidivarii buvo įsikūrę prie Vyslos žiočių."
   pagrindžia:
     - c-84048
 ## Reikšmingi paminėjimai
@@ -79,8 +68,8 @@ Tikrai tikėtina, jog vardas tautos, įsikūru­ sios prie Vyslos žiočių - vi
     vardas], koks yra frankų pavadini­
     mas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

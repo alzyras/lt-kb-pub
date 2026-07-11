@@ -40,16 +40,6 @@ Spaustuvė turėjo karališkosios vardą todėl, kad tas titu­ las jai buvo sut
 - t-001
   global_id: t-87857
   teiginys: "Stanislovas Augustas suteikė privilegiją, dėl kurios Akademijos spaustuvė turėjo karališkosios vardą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "386931-387576; hash=0f032ef4f8971c0fbaf9a126d4b67a93437adb996b31d6b44dfdba85bd27d9a1; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kūnas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Stanislovas Augustas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kūnas: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Stanislovas Augustas\" parinktas kaip owner_note_path. Targetas \"Kūnas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-83836
 
@@ -57,14 +47,6 @@ Spaustuvė turėjo karališkosios vardą todėl, kad tas titu­ las jai buvo sut
 - t-002
   global_id: t-194721
   teiginys: "Vienas kaimietis man pasakojo, kad valdant karaliui Stanislovui Augustui, maždaug prieš 38 me tus, tai yra apie 1789 metus, kažkokie ponai, atvažiavę iš Gar dino apžiūrėti mineralinių šaltinių, pasiėmė su savim visus mo linius dubenėlius, kurių seniau niekas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "665432-666073; hash=1a71ab7ac187f6eb72dec1ce518d8352a4cce7377e2649132e4df6e17b4f1c19; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-177117
 - susijęs iš [[objektai/asmenys/Stanislovas Augustas Poniatovskis.md#claim-t-170087|Stanislovas Augustas Poniatovskis (valdovas)]]: 1792 m. liepos 23 d. Varšuvoje Stanislovas Augustas Poniatovskis siūlė nebesipriešinti prie Varšuvos stovėjusiai Rusijos armijai.
@@ -109,8 +91,8 @@ Spaustuvė turėjo karališkosios vardą todėl, kad tas titu­ las jai buvo sut
     egzempliorių privalo duoti Lietuvos kancleriams ir Viešajai
     bibliotekai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -132,8 +114,8 @@ Spaustuvė turėjo karališkosios vardą todėl, kad tas titu­ las jai buvo sut
     puodeliai, galėję turėti vos pusantro colio skersmenį ir gal iki
     dviejų colių gylio, su šiek tiek siaurėjančiu kakleliu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -174,7 +156,8 @@ Spaustuvė turėjo karališkosios vardą todėl, kad tas titu­ las jai buvo sut
 - id: c-177117
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 375"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 375."
   citata_originali: |
     Dar pastebėjau su­
     daužytų ašarinių liekanų; keleto šukių vidus buvo dengtas tam­

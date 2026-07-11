@@ -32,17 +32,6 @@ Lenkų pajėgos priartėjo prie Videniškio, Gelogalių ir judėjo Balnininkų l
 - t-001
   global_id: t-38344
   teiginys: "Lenkų pajėgos per puolimą priartėjo prie Videniškio ir Gelogalių, o paskui judėjo Balnininkų link."
-  semantiniai_rysiai: "Lenkai keliavo į Balnininkai (0.88)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "859413-859582; hash=a07a37dd097b8fdf902482b0654235be318b05d328495d9329e6d4a807bcde6f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Balnininkai: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lenkai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Balnininkai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Lenkų pajėgos buvo nukreiptos Balnininkų link."
   pagrindžia:
     - c-40148
 - susijęs iš [[objektai/grupes/1-oji pėstininkų divizija.md#claim-t-40818|1-oji pėstininkų divizija]]: Želigovskis lapkričio 17 d. auštant pradėjo savo didžiąją ofenzyvą, puldamas lietuvių 1-osios pėstininkų divizijos užimamą barą nuo Nėries iki Dubingių.
@@ -60,8 +49,8 @@ Lenkų pajėgos priartėjo prie Videniškio, Gelogalių ir judėjo Balnininkų l
     Užėmę Kurklius, lenkai veržėsi Vidiškių
     ir Ukmergės link.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -85,6 +74,3 @@ Lenkų pajėgos priartėjo prie Videniškio, Gelogalių ir judėjo Balnininkų l
   patikimumo_saltinis: ai
   pagrindzia:
     - t-38344
-
-## Ryšiai
-- Buvo kelionės vieta: [[objektai/grupes/Lenkai]]

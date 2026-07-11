@@ -54,17 +54,6 @@ Nenurodyta
 - t-001
   global_id: t-59718
   teiginys: "Ragainės pilies viduryje buvo maždaug 20 žingsnių ilgio ir beveik tokio pat pločio žuvų tvenkinys."
-  semantiniai_rysiai: "Žuvų tvenkinys Ragainės pilyje (pilis) priklausė Ragainė (0.78)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "487718-488423; hash=d7c0d88df47bfb1ddef4943bbf36d8c93cd708c00de271d1a5006b3a62c8f34d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Ragainė: 0.78"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Žuvų tvenkinys Ragainės pilyje (pilis): llm_allowed_candidate, thing"
-  ryšio_targeto_parinkimas: "Ragainė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tvenkinys tiesiogiai apibūdintas kaip buvęs Ragainės pilies viduryje."
   pagrindžia:
     - c-60350
 ## Reikšmingi paminėjimai
@@ -83,8 +72,8 @@ Nenurodyta
     Kodėl šitaip yra, nežinau, težino vienas dievas, kurio sprendimai nesuprantami, o keliai
     nesuvokiami.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -95,7 +84,8 @@ Nenurodyta
 - id: c-60350
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 154"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 154."
   citata_originali: |
     atitraukusi čia 9 metais anksčiau, nei Teutonų ordinas atvyko į Prūsijos žemę467. Galop
     rutėnai, pavargę nuo įstangų  ir patyrę didelių išlaidų, paklausė apsiaustųjų, kuo jie
@@ -112,6 +102,3 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59718
-
-## Ryšiai
-- Žuvų tvenkinys Ragainės pilyje (pilis) priklausė [[objektai/vietos/Ragainė]]

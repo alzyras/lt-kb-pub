@@ -58,16 +58,6 @@ Nenurodyta
 - t-001
   global_id: t-87284
   teiginys: "Spaustuvė kas savaitę privalėjo duoti statinę alaus, silpnesnio alaus oxeftą, 8 asmenims po 8 kepalus duonos ir valgį iš kolegijos virtuvės."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "387577-388336; hash=f2d0564adf632d95deb24443d9b6bbc86a0c38f15eda0b9e7aede81157f8f14b; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Duona: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Spaustuvės darbuotojų savaitinis aprūpinimas alumi, duona ir valgiu: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Duona: mention_match, thing, gap=102"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Spaustuvės darbuotojų savaitinis aprūpinimas alumi, duona ir valgiu\" parinktas kaip owner_note_path. Targetas \"Duona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-83263
 ## Reikšmingi paminėjimai
@@ -90,8 +80,8 @@ Nenurodyta
     Be to, duoti 8 asmenims kas savaitę po 8 kepalus duonos
     ir tiems patiems 8 valgį iš kolegijos virtuvės.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

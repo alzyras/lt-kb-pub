@@ -45,14 +45,6 @@ Nenurodyta
 - t-001
   global_id: t-194817
   teiginys: "Kai dėl atskirų aukų atnašavimo kuriam nors iš dievų, kro nikininkai specialistai to neaprašo, tik priduria, kad senais lai kais, kai svarbiausioji šventykla - prūsų Romovė - dar nebuvo galutinai sunaikinta, kur nors kitur atnašauti iškilmingų aukų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "559994-560437; hash=d77093761eb29fbd97260beaed40ebe568c4742f2c91fb47a2ceefe79d8aa9cd; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-177213
 ## Reikšmingi paminėjimai
@@ -70,8 +62,8 @@ Nenurodyta
     visur pristatė aukurų. Saulės tekėjimas buvo aukų atnašavimo
     laikas*.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -82,7 +74,8 @@ Nenurodyta
 - id: c-177213
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 319"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 319."
   citata_originali: |
     Kai dėl atskirų aukų atnašavimo kuriam nors iš dievų, kro­
     nikininkai specialistai to neaprašo, tik priduria, kad senais lai­

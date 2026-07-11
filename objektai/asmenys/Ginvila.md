@@ -30,12 +30,6 @@ Sa vo įpėdiniais paliko du savo sūnus: vieną Skirmantą, o kitą Ginvilą. R
 - t-001
   global_id: t-194098
   teiginys: "Sa vo įpėdiniais paliko du savo sūnus: vieną Skirmantą, o kitą Ginvilą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "82093-82338; hash=7be5b81a63787534a3942f9ccf8d83f45437e62c218e6b1ccbaac186d4124f7a; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176711
 
@@ -43,12 +37,6 @@ Sa vo įpėdiniais paliko du savo sūnus: vieną Skirmantą, o kitą Ginvilą. R
 - t-002
   global_id: t-194099
   teiginys: "Rusų metraščiai Polocko kunigaikščio Ginvilos nemini."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "341168-341472; hash=714765f574be3dfee885961f0f324a229b0515028178c1e35034704655632a47; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176712
 ## Reikšmingi paminėjimai
@@ -63,8 +51,8 @@ Sa vo įpėdiniais paliko du savo sūnus: vieną Skirmantą, o kitą Ginvilą. R
     o kitą Ginvilą. Ir Skirmantas ėmė kunigaikšėiauti Nau­
     garduke 7 , o Ginvila Polockes.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -84,8 +72,8 @@ Sa vo įpėdiniais paliko du savo sūnus: vieną Skirmantą, o kitą Ginvilą. R
     jos vedybas su Polocko kunigaikščiu Ginvila kilmė ir patikimumas
     neišaiškinti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -64,16 +64,6 @@ Nenurodyta
 - t-008
   global_id: t-92967
   teiginys: "Seimeliuose plikbajoriai turėjo bajoriškąjį ženklą kardą, kuriuo galėjo paremti savo pono ar užmokėjusio asmens nuomonę."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "811288-811718; hash=1e39db8b062f7f703fa3a7f2940579e7f529692703ca85465c8596b9df9d6a8c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Artilerija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kardas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Artilerija: mention_match, thing, gap=27"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kardas\" parinktas kaip owner_note_path. Targetas \"Artilerija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-88398
 
@@ -81,16 +71,6 @@ Nenurodyta
 - t-009
   global_id: t-92968
   teiginys: "1919 m. gegužės viduryje Lietuvos kariuomenė turėjo apie 200 kardų, tai yra raitelių."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "1096327-1096766; hash=6d6fe4477b896008dde2838c003f31a00dd0991c94c521f04c6d4317a856602c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Ginklai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kardas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Ginklai: mention_match, thing, gap=15"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kardas\" parinktas kaip owner_note_path. Targetas \"Ginklai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-88402
 
@@ -98,19 +78,6 @@ Nenurodyta
 - t-008
   global_id: t-92969
   teiginys: "1917 m. modelio lenkiškas kardas buvo skirtas ulonų, artilerijos ir gurguolės puskarininkiams."
-  temporaliniai_duomenys: "įvykio data: 1917 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie kardą ir atitinka citatą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "765608-765940; hash=b888a96438430cf03125d13bcb6d45887b345ac29743b34266c4c6fea67f93ac; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Artilerija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kardas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Artilerija: mention_match, thing, gap=27"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kardas\" parinktas kaip owner_note_path. Targetas \"Artilerija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-88400
 
@@ -118,9 +85,6 @@ Nenurodyta
 - t-011
   global_id: t-92970
   teiginys: "Sibiro batalijone penki karininkai ir trys kareiviai buvo nurengti ir pusplikiai sukapoti kardais."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "1072347-1072798; hash=8959190301312bc33113e6c4c30749c01fe3f13b3149eecd49c7e1a00dbb1aed; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-88397
 
@@ -128,16 +92,6 @@ Nenurodyta
 - t-007
   global_id: t-92971
   teiginys: "Lenkų raitelis žvilgančiu kardu kelis kartus puolė griovyje atsigulusį žvalgą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "hash=de53b032681bbe7532401aa2e5b57b7c8961a3e5a283f9e3524dd69e9b851dc4; match=normalized; occurrences=1"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Bajorai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kardas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Bajorai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kardas\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-88401
 
@@ -145,16 +99,6 @@ Nenurodyta
 - t-009
   global_id: t-92972
   teiginys: "Kautynėse po iečių buvo naudojami kirviai, kardai ir kiti ginklai."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "811288-811718; hash=1e39db8b062f7f703fa3a7f2940579e7f529692703ca85465c8596b9df9d6a8c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Ginklai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kardas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Ginklai: mention_match, thing, gap=15"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kardas\" parinktas kaip owner_note_path. Targetas \"Ginklai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-88396
 
@@ -162,16 +106,6 @@ Nenurodyta
 - t-007
   global_id: t-92974
   teiginys: "Valkininkuose bajorų minia kardais sukapojo Mykolą Sapiegą ir dar du belaisvius."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "hash=de53b032681bbe7532401aa2e5b57b7c8961a3e5a283f9e3524dd69e9b851dc4; match=normalized; occurrences=1"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Bajorai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kardas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Bajorai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kardas\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-88404
 
@@ -179,9 +113,6 @@ Nenurodyta
 - t-010
   global_id: t-92975
   teiginys: "Mykolui Sapiegai pasidavus, bajorijos regimentorius grąžino jam kardą ir nusivežė į Valkininkus."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "765608-765940; hash=b888a96438430cf03125d13bcb6d45887b345ac29743b34266c4c6fea67f93ac; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-88399
 - susijęs iš [[objektai/asmenys/Paulius Vladimiri.md#claim-t-35262|Paulius Vladimiri]]: Paulius Vladimiri rašte išdėstė Lietuvai žalingą Ordino politiką, siekusią lietuvius krikštyti kardu ir ugnimi.
@@ -250,8 +181,8 @@ Nenurodyta
     žiuočiai iššovė porą kartų iš patrankų, bet jos sumišimo sąjun­
     gininkų kariuomenėj nesukėlė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -270,8 +201,8 @@ Nenurodyta
     džiausiam Sibiro speige buvo nurengti ir pusplikiai kardais su-
     kapoti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -289,8 +220,8 @@ Nenurodyta
     šono bajoriškąjį ženklą — kardą, kurį kiekvienu momentu galėdavo
     vartoti savo pono ar to, kuris gerai užmokėdavo, nuomonei paremti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -306,8 +237,8 @@ Nenurodyta
     Valkininkus (kautynės įvyko į šiaurę nuo Valkininkų, Leipūnuose).
     Čia jis uždarė belaisvį pranciškonų vienuolyno celėje, greta savęs.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -325,8 +256,8 @@ Nenurodyta
 
     1920 m. lapkričio 17-21 d. GIEDRAIČIŲ KAUTYNĖS 209
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -342,8 +273,8 @@ Nenurodyta
 
     vėl puolė, ir taip kartojo jis kelis kartus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -362,8 +293,8 @@ Nenurodyta
     tada dar nebuvo didesnės, kaip 5—6 tūkstančiai durtuvų, 10
     patrankų ir 200 kardų (raitelių).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -383,8 +314,8 @@ Nenurodyta
     sydama Višniaveckio pasipriešinimo, jį kardais sukapojo (kartu
     buvo sukapoti dar du belaisviai).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

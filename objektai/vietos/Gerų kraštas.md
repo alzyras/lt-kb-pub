@@ -36,22 +36,6 @@ Narbutas darė išvadą, kad Gerų kraštas plytėjo abiejose Dnepro pakrantėse
 - t-001
   global_id: t-192819
   teiginys: "Narbutas darė išvadą, kad Gerų kraštas plytėjo abiejose Dnepro pakrantėse, o jo vidurys buvo Rogačiovas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Rogačiovas priklausė Gerų kraštas (0.82); Gerų kraštas priklausė Dnepras (0.63)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "684635-685354; hash=69bdb800d2a625729c88d6efbc12e66dcb43235854cde029dae8a37513e7825a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Gerų kraštas: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Rogačiovas: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Gerų kraštas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Rogačiovas tiesiogiai įvardytas kaip Gerų krašto vidurys."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175589
 
@@ -59,21 +43,6 @@ Narbutas darė išvadą, kad Gerų kraštas plytėjo abiejose Dnepro pakrantėse
 - t-002
   global_id: t-192820
   teiginys: "Narbutas Gerų kraštą siejo su Herodoto minėta vieta, kur skitai nuo Dnepro žemupio esą veždavo laidoti mirusiuosius."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "699768-700534; hash=167ebe79fc3f7b132745bcf008385720711bfec2e109222aa29933ce33b1e79f; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Dnepras: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gerų kraštas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Dnepras: mention_match, place, gap=59"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gerų kraštas\" parinktas kaip owner_note_path. Targetas \"Dnepras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175590
 - susijęs iš Rogačiovas: Narbutas Rogačiovą laikė Gerų krašto viduriu, nes jo apylinkėse esą buvo gausiausi pilkapių rinkiniai.
@@ -98,8 +67,8 @@ Narbutas darė išvadą, kad Gerų kraštas plytėjo abiejose Dnepro pakrantėse
     sąnašų perskirtos įdubo-s, kur pavasario potvynių vande­
     nys sudaro vasarą išdžiūstančius ežerus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -129,8 +98,8 @@ Narbutas darė išvadą, kad Gerų kraštas plytėjo abiejose Dnepro pakrantėse
     gerai buvo tie senovės duobkasiai, kurie labai ilgai gy­
     veno prie Dnepro vidurupio.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -141,7 +110,8 @@ Narbutas darė išvadą, kad Gerų kraštas plytėjo abiejose Dnepro pakrantėse
 - id: c-175589
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 377"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 377."
   citata_originali: |
     1810 me­
     tais kaip inžinierius, įpareigotas parinkti tinkamą tvirto­
@@ -194,7 +164,3 @@ Narbutas darė išvadą, kad Gerų kraštas plytėjo abiejose Dnepro pakrantėse
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192820
-
-## Ryšiai
-- Turėjo priklausinį: [[objektai/vietos/Rogačiovas]]
-- Gerų kraštas priklausė [[objektai/vietos/Dnepras]]

@@ -50,19 +50,6 @@ Nenurodyta
 - t-002
   global_id: t-187979
   teiginys: "Vėlius nurodė, kad Narbutas lietuvių Kabirus grindė prie Drujos rastomis trimis sujungtomis žalvarinėmis statulėlėmis ir užrašu „Triopa“."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "51345-52081; hash=1eb9bb29ccc56a1e9cd6768dc2d6100a539c48c78eb08dd1ea520c7377bc4da2; match=exact"
-  sprendimo_priezastis: "gap::items"
-  ryšio_patikimumas: "susije_su -> Druja: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Drujos žalvarinės statulėlės su užrašu Triopa: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Druja: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Drujos žalvarinės statulėlės su užrašu Triopa\" parinktas kaip owner_note_path. Targetas \"Druja\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-170986
 ## Reikšmingi paminėjimai
@@ -88,8 +75,8 @@ Nenurodyta
     varinės statulėlės; buvęs net lietuviškas užrašas Triopa, patvir­
     tinantis, kad tai panaši lietuviška minėtų dievų trijulė.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: zemas
   patikimumo_saltinis: ai
   pagrindžia:

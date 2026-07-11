@@ -39,24 +39,6 @@ Pasak Narbuto, Treteris neigė pasakojimą apie Boleslovo padegtą ąžuolą ir 
 - t-001
   global_id: t-190078
   teiginys: "Pasak Narbuto, Treteris neigė pasakojimą apie Boleslovo padegtą ąžuolą ir teigė, kad Vinrichas Kniprodė 1351–1355 m. įsakė jį nukirsti."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1351-1355; įvykio data: 1355 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Subjektu padarytas Treterio aiškinimas apie ąžuolą. Religinis ir kronikinis pasakojimas paliktas su Narbuto atribucija."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "403362-403833; hash=bd70ddf023614c99732b4400c10ef148220787008a0a02c5e9f965d56387eaed; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vinrichas Kniprodė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Treteris: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Vinrichas Kniprodė: mention_match, person, gap=70"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Treteris\" parinktas kaip owner_note_path. Targetas \"Vinrichas Kniprodė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172961
 
@@ -64,21 +46,6 @@ Pasak Narbuto, Treteris neigė pasakojimą apie Boleslovo padegtą ąžuolą ir 
 - t-002
   global_id: t-190079
   teiginys: "Narbutas vertino, kad Treteris Jono I, Varmijos vyskupo, gyvenimo aprašyme tiksliausiai nurodė, kur ieškoti Romovės šventyklos."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "459794-460118; hash=6a330491f388f8d8d85282c1f9edb19d862555c5cf8d17456a1dc87e4b15b168; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Romovė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Treteris: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Romovė: mention_match, place, gap=86"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Treteris\" parinktas kaip owner_note_path. Targetas \"Romovė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172962
 ## Reikšmingi paminėjimai
@@ -96,8 +63,8 @@ Pasak Narbuto, Treteris neigė pasakojimą apie Boleslovo padegtą ąžuolą ir 
     Jono I prašomas, įsakė jį nukirsti. Tai buvo tarp 1351 ir 1355
     metų; tada tasai Jonas I buvo Varmijos vyskupas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -114,8 +81,8 @@ Pasak Narbuto, Treteris neigė pasakojimą apie Boleslovo padegtą ąžuolą ir 
     vyskupo, gyveninio aprašyme teisingiausiai nurodo tyrėjui, kur
     reiktų jos ieškoti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -126,7 +93,8 @@ Pasak Narbuto, Treteris neigė pasakojimą apie Boleslovo padegtą ąžuolą ir 
 - id: c-172961
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 235"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 235."
   citata_originali: |
     Turime kažkokį aprašymą šio medžio, kurį Bo­
     leslovas Kreivaburnis, užpuolęs Prūsiją, įsakė padegti, nes ne­
@@ -146,7 +114,8 @@ Pasak Narbuto, Treteris neigė pasakojimą apie Boleslovo padegtą ąžuolą ir 
 - id: c-172962
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 265"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 265."
   citata_originali: |
     O dėl prūsų turėtų šventyklų, tai suminėsime smulkesnes
     žinias apie jas, paimtas iš kronikininkų pranešimų ir nušvies­

@@ -45,17 +45,6 @@ misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikšči
 - t-016
   global_id: t-182877
   teiginys: "Apie VIII-IX a. slavai pasiekė Gardino sritį ir įsikūrė Pamaryje."
-  semantiniai_rysiai: "Slavai gyveno Pamaris (0.90); Slavai keliavo į Gardinas (0.80)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "304500-304671; hash=fc8cce8a3083709da4cbc44edcc955f778a0e65725e1a330424fa1359e39b854; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Pamaris: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Slavai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Pamaris: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Įsikūrimas Pamaryje tiesiogiai rodo slavų gyvenamąją vietą."
   pagrindžia:
     - c-166280
 
@@ -63,19 +52,6 @@ misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikšči
 - t-002
   global_id: t-183068
   teiginys: "Aisčiai vengė iš Pamario atvykusių misijonierių, nes nuolat kovojo su Pamario kunigaikščiais."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "95823-96265; hash=ee64887a980d5c4975a95676cb50ae2f4ea89cbda1b2c9d8d61e85bf73441b04; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Pamaris: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Pamarys: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Pamaris: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pamarys\" parinktas kaip owner_note_path. Targetas \"Pamaris\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-166459
 
@@ -83,23 +59,6 @@ misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikšči
 - t-003
   global_id: t-188797
   teiginys: "1247 m. Pamario kunigaikščio Sviatopelko remiamos kovos, Narbuto aiškinimu, trukdė kryžiuočiams tvarkyti Pamedę ir įtvirtinti krikščionybę."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Kryžiuočių ordinas valdė Pamedė (0.91)"
-  temporaliniai_duomenys: "valdymo laikotarpis: 1247 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Kryžiuočių ordinas valdė Pamedė“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Nutrauktas fragmentas perrašytas į užbaigtą sakinį apie Pamario kunigaikščio vaidmenį. Priežastinis aiškinimas paliktas su Narbuto atribucija."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "305024-305524; hash=0e6139b766649c82e4dce6766ada659c9c5e4e8c7a52f6216fb686a0216178bf; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde -> Pamedė: 0.91"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Pamedė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai teigia, kad kryžiuočiai valdė Pamedę."
   pagrindžia:
     - c-171686
 
@@ -107,22 +66,6 @@ misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikšči
 - t-017
   global_id: t-192714
   teiginys: "Narbutas kašubų protėvius siejo su Asubi arba Cassubi tauta, kuri, jo teigimu, įsikūrė Pamaryje prie Vyslos žemupio."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Kašubai gyveno Pamarys (0.88); Kašubai keliavo į Vysla (0.82)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "181658-181941; hash=2ebba84677e1b8c8834718edd13bb13eedaff99c0a9f5de244797b82f0d7646e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Pamarys: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kašubai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Pamarys: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Kašubų protėvių tauta tiesiogiai nurodoma įsikūrusi Pamaryje."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175484
 
@@ -130,14 +73,6 @@ misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikšči
 - t-018
   global_id: t-194743
   teiginys: "Mat tokiais pačiais ženklais pažymėtų akmenų, ant kurių senovės tyrėjai matė ir užrašų runomis, yra ne tik ne vienoje tikrosios Lietuvos vietovėje, bet ir Pamaryje, Žemutinėje Sak sonijoje ir lužitėnų krašte."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "674278-674662; hash=6f42137b50227c282d5198164f4c02b5f70bb05a87c2bd2c08562e00ebffdbfc; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-177139
 ## Reikšmingi paminėjimai
@@ -150,8 +85,8 @@ misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikšči
     amž. jie jau buvo prie Polocko - Minsko, net pasiekė iš pietų
     Gardino sritį. Tada jie įsikūrė ir Pamaryje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -169,8 +104,8 @@ misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikšči
     kunigaikščiai kariavo su Prūsų kiltimis; su jotvingais kariavo
     lenkai ir rytų Bažnyčiai priklausanti Voluinės kunigaikštija.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -190,8 +125,8 @@ misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikšči
     matyt, neturėjo pakankamai laiko pasirūpinti Pamedės vidaus
     sutvarkymu bei atverstos tautos tikėjimo įtvirtinimu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -208,8 +143,8 @@ misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikšči
     kūrė Pamaryje; ji ligi šiol turi neslaviškų, visai skirtin­
     gų bruožų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -227,8 +162,8 @@ misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikšči
     sonijoje ir lužitėnų krašte. Todėl ne be pagrindo darome išva­
     dą, kad tai buvo deivės Velionos aukurai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -273,7 +208,8 @@ misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikšči
 - id: c-171686
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 177"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 177."
   citata_originali: |
     Moteris, suviliota
     šios dvasios gundymo, niekaip negali išsivaduoti iš jos meilės.
@@ -294,7 +230,8 @@ misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikšči
 - id: c-175484
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 101"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 101."
   citata_originali: |
     Tai buvo miškinė gyvulių augintojų gentis.
     Čia kažkur atsirado tauta Asubi, paskui Cassubi, dabar­
@@ -312,7 +249,8 @@ misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikšči
 - id: c-177139
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 379"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 379."
   citata_originali: |
     Sako, kad lietuviai kaimiečiai
     šitaip vadina akmenis su panašiais ženklais ir kituose kraštuo­
@@ -327,6 +265,3 @@ misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikšči
   patikimumo_saltinis: ai
   pagrindzia:
     - t-194743
-
-## Ryšiai
-- Gyvenamoji vieta: [[objektai/grupes/Kašubai]]

@@ -64,22 +64,6 @@ Nenurodyta
 - t-001
   global_id: t-186717
   teiginys: "Lietuvių nekrikščionių masinis krikštijimas katalikais vyko Vilniuje ir visoje Rytų Lietuvoje 1387 m. pirmojoje pusėje."
-  teiginio_tipas: "faktas"
-  temporaliniai_duomenys: "įvykio data: 1387 m.; įvykio data: 1393 m.; įvykio data: po 1410 m.; įvykio data: 1410 m.; įvykio data: 1428 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data."
-  temporalinis_llm_pakomentavimas: "Pašalintas komentarą minintis įvadas ir išlaikytas faktinis turinys."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "438793-439230; hash=ba366ab090776b370b23ca3fced438a055a39cc978b0f34555972e99b5db5263; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvių nekrikščionių masinis krikštijimas Vilniuje ir Rytų Lietuvoje: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvių nekrikščionių masinis krikštijimas Vilniuje ir Rytų Lietuvoje\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-169945
 ## Reikšmingi paminėjimai
@@ -97,8 +81,8 @@ Nenurodyta
     talikais Vilniuje ir visoje Rytų Lietuvoje 1387 m. pirm ojoje pusėje
     (jį smulkiai aprašė J . Dlugošas).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

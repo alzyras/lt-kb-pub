@@ -64,17 +64,6 @@ Kazimieras Karigaila aprašomas kaip kunigaikštis ir vyriausiasis vadas Vilniau
 - t-001
   global_id: t-54975
   teiginys: "Karigaila kovėsi su Vytautu, žemaičiais, Derbio kunigaikščiu ir anglų pėstininkais Vilniaus puolimo metu."
-  semantiniai_rysiai: "Kazimieras Karigaila gynė Vilnius (0.72)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "269154-269528; hash=56b1df87f6e1e198bee92115c4b43f47dfb54a6742b922c08bbc5dbcb86fd88c; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyne -> Vilnius: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kazimieras Karigaila: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Kontekstas rodo, kad Karigaila vadovavo gynėjams Vilniaus miesto tvirtovėse puolimo metu."
   pagrindžia:
     - c-55519
 
@@ -82,17 +71,6 @@ Kazimieras Karigaila aprašomas kaip kunigaikštis ir vyriausiasis vadas Vilniau
 - t-002
   global_id: t-54976
   teiginys: "Karigaila, vadinamas vyriausiuoju vadu, žuvo bėgdamas į Aukštutinę pilį."
-  semantiniai_rysiai: "Kazimieras Karigaila mirė Vilnius (0.71)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "271456-272192; hash=6fa92a01127552f423de1b81934f6b2acf020434afbdb44ff84d6e085f87b77a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "mire -> Vilnius: 0.71"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kazimieras Karigaila: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata aprašo Karigailos žūtį Vilniaus puolimo kontekste; vieta išvada iš to paties epizodo."
   pagrindžia:
     - c-157519
 
@@ -100,16 +78,6 @@ Kazimieras Karigaila aprašomas kaip kunigaikštis ir vyriausiasis vadas Vilniau
 - t-003
   global_id: t-54977
   teiginys: "Viena versija Kazimierą Karigailą vadina tikru karaliaus broliu ir teigia, kad po nužudymo nuo kūno buvo atskirta jo galva."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "273469-274028; hash=f8b46eb569d250978434a2562235b7f95e49772c26068fe83f5a6521dc0689ab; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Karigaila: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kazimieras Karigaila: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Karigaila: mention_match, person, gap=10"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kazimieras Karigaila\" parinktas kaip owner_note_path. Targetas \"Karigaila\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-55521
 
@@ -117,16 +85,6 @@ Kazimieras Karigaila aprašomas kaip kunigaikštis ir vyriausiasis vadas Vilniau
 - t-004
   global_id: t-54978
   teiginys: "Kita versija teigia, kad kunigaikštis Karigaila buvo kareivių neatpažintas nukautas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "275143-276334; hash=8c3dc614f62223a8c007e480bb3a502c29b20cbb07730d149c099c7665d704c6; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Karigaila: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kazimieras Karigaila: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Karigaila: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kazimieras Karigaila\" parinktas kaip owner_note_path. Targetas \"Karigaila\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-55522
 
@@ -134,16 +92,6 @@ Kazimieras Karigaila aprašomas kaip kunigaikštis ir vyriausiasis vadas Vilniau
 - t-008
   global_id: t-173188
   teiginys: "Kazimieras Karigaila buvo nužudytas, o jo galva atskirta nuo kūno ir išniekinta karaliaus paniekinimui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "273469-274028; hash=f8b46eb569d250978434a2562235b7f95e49772c26068fe83f5a6521dc0689ab; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Karigaila: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kazimieras Karigaila: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Karigaila: mention_match, person, gap=11"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kazimieras Karigaila\" parinktas kaip owner_note_path. Targetas \"Karigaila\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-55521
 
@@ -151,17 +99,6 @@ Kazimieras Karigaila aprašomas kaip kunigaikštis ir vyriausiasis vadas Vilniau
 - t-007
   global_id: t-173189
   teiginys: "Kazimieras Karigaila žuvo mūšio lauke, bėgdamas gelbėtis į Aukštutinę pilį ir priešų neatpažintas."
-  semantiniai_rysiai: "Kazimieras Karigaila mirė Vilnius (0.71)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "271456-272192; hash=6fa92a01127552f423de1b81934f6b2acf020434afbdb44ff84d6e085f87b77a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "mire -> Vilnius: 0.71"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kazimieras Karigaila: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Karigaila žuvo aprašomame Vilniaus puolimo epizode; konkretesnė pilis nėra leistinas kandidatas."
   pagrindžia:
     - c-157519
 
@@ -169,20 +106,6 @@ Kazimieras Karigaila aprašomas kaip kunigaikštis ir vyriausiasis vadas Vilniau
 - t-011
   global_id: t-173190
   teiginys: "1396 m. Vytauto privilegija Kazimierui Karigailai, kaip mirusiam jo broliui, numatė kasdienes skaitytines mišias."
-  semantiniai_rysiai: "Kazimieras Karigaila buvo brolis Vytautas (Lietuvos valdovas, XIV–XV a.) (0.66)"
-  temporaliniai_duomenys: "įvykio data: 1396 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pagrindžia faktą apie privilegijoje nustatytas mišias už Karigailą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "308512-309783; hash=f28e04c8376f8af561202be60e54e3ea76665bd727361a0f086927db9cd3d0f6; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_brolis -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.66"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kazimieras Karigaila: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Vytautas mini Kazimierą Karigailą tarp savo mirusių brolių, todėl ryšys palaikomas, nors citatoje įtrauktas ir kitas brolis."
   pagrindžia:
     - c-157520
 
@@ -190,16 +113,6 @@ Kazimieras Karigaila aprašomas kaip kunigaikštis ir vyriausiasis vadas Vilniau
 - t-010
   global_id: t-173192
   teiginys: "Kazimieras Karigaila buvo palaidotas katedroje, šalia vėliau iškilmingai palaidoto mirusiojo."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "293696-294246; hash=aad83725fa72e29e3a89c0acd4edd58f79d55c897a237d21d954bcb2241d6457; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Karigaila: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kazimieras Karigaila: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Karigaila: mention_match, person, gap=11"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kazimieras Karigaila\" parinktas kaip owner_note_path. Targetas \"Karigaila\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-157523
 
@@ -207,16 +120,6 @@ Kazimieras Karigaila aprašomas kaip kunigaikštis ir vyriausiasis vadas Vilniau
 - t-005
   global_id: t-173193
   teiginys: "Kazimieras Karigaila buvo palaidotas katedroje, o šalia jo iškilmingai palaidotas Aleksandras Vygantas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "293425-294011; hash=ca5741dfe9337e5d34e5eb94fb579edf061af63d8fd315e32d510fe8787dc3be; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aleksandras Jogailaitis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kazimieras Karigaila: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Aleksandras Jogailaitis: mention_match, person, gap=82"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kazimieras Karigaila\" parinktas kaip owner_note_path. Targetas \"Aleksandras Jogailaitis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-55523
 
@@ -224,16 +127,6 @@ Kazimieras Karigaila aprašomas kaip kunigaikštis ir vyriausiasis vadas Vilniau
 - t-009
   global_id: t-173194
   teiginys: "Ordino pareigūno laiške teigta, kad Karigaila buvo nukautas kareivių neatpažintas, o apie jo žūtį sužinota penktą dieną."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "275143-276334; hash=8c3dc614f62223a8c007e480bb3a502c29b20cbb07730d149c099c7665d704c6; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Karigaila: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kazimieras Karigaila: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Karigaila: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kazimieras Karigaila\" parinktas kaip owner_note_path. Targetas \"Karigaila\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-55522
 - susijęs iš [[objektai/daiktai/Vilniaus pilys ir miesto sutvirtinimai 1390 m. apgultyje.md#claim-t-87016|Vilniaus pilys ir miesto sutvirtinimai 1390 m. apgultyje]]: 1390 m. Vilniaus apgultyje vienai iš trijų miesto pilių, vadintai Krautuvių pilimi, vadovavo Jogailos brolis Kazimieras Karigaila.
@@ -256,8 +149,8 @@ Kazimieras Karigaila aprašomas kaip kunigaikštis ir vyriausiasis vadas Vilniau
     Prūsijos - stovyklas, priartėjo prie Aukštutinės pilies mūro
     sienų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -282,8 +175,8 @@ Kazimieras Karigaila aprašomas kaip kunigaikštis ir vyriausiasis vadas Vilniau
     tę, iš šios galvos visaip tyčiojosi ir ją
     užgauliojo karaliaus paniekinimui].
   citata_rodoma: ''
-  teiginio_tipas: vertinimas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -325,8 +218,8 @@ Kazimieras Karigaila aprašomas kaip kunigaikštis ir vyriausiasis vadas Vilniau
     šimai panašiai užginčija, kad Kari-
     gailalauvęs nukirsdintas.
   citata_rodoma: ''
-  teiginio_tipas: vertinimas
   statusas: verified
+  teiginio_tipas: vertinimas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -348,8 +241,8 @@ Kazimieras Karigaila aprašomas kaip kunigaikštis ir vyriausiasis vadas Vilniau
     gedulas liudijo mirusįjį buvus didžiu žmogumi; tačiau toks
     liūdnas įvykis suartino Jogailą su Vytautu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: vertinimas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -379,8 +272,8 @@ Kazimieras Karigaila aprašomas kaip kunigaikštis ir vyriausiasis vadas Vilniau
     valdovui, S 1 a p t. Arch, esantis
     (Briefe des Grosskomthurs an den Köm.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -432,8 +325,8 @@ Kazimieras Karigaila aprašomas kaip kunigaikštis ir vyriausiasis vadas Vilniau
     mirusius brolius kunigaikščius: Kazimierą Karigailą ir
     Aleksandrą Vygantą58.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -454,8 +347,8 @@ Kazimieras Karigaila aprašomas kaip kunigaikštis ir vyriausiasis vadas Vilniau
     sį Vladislovą Jogailą taikytis su Vytautu ir pavesti jam
     Didžiosios Kunigaikštystės valdymą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -688,5 +581,3 @@ Kazimieras Karigaila aprašomas kaip kunigaikštis ir vyriausiasis vadas Vilniau
 
 ## Ryšiai
 - Broliai: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Kazimieras Karigaila mirė [[objektai/vietos/Vilnius]]
-- Kazimieras Karigaila gynė [[objektai/vietos/Vilnius]]

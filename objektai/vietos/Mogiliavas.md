@@ -42,19 +42,6 @@ media_all_json: |-
 - t-002
   global_id: t-114776
   teiginys: "1578 m. sausio 28 d. Steponas Batoras suteikė Mogiliavui privilegiją, kuria miestas gavo Magdeburgo teisę."
-  temporaliniai_duomenys: "įvykio data: 1578 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalintas bibliografinis ir OCR triukšmas, paliktas esminis faktas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "341685-342022; hash=f00ec5f2e5992d31d339747f230f4a41b35dc2edc7c5d7cdc530127128c094a0; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Baltarusija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mogiliavas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Baltarusija: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mogiliavas\" parinktas kaip owner_note_path. Targetas \"Baltarusija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-105804
 
@@ -62,17 +49,6 @@ media_all_json: |-
 - t-001
   global_id: t-114777
   teiginys: "Žlugus deryboms, rusai Padneprėje įsiveržė į rytines LDK valdas ir sudegino Mogiliavą, siaubė Šklovo apylinkes."
-  semantiniai_rysiai: "Rusai puolė Mogiliavas (0.88); Rusai puolė Šklovas (0.84)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "377936-378177; hash=f77272fdcbbde461f549cdba4996cd6b4fa25532bfcedcb570207ec3ddb1f94b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Mogiliavas: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Rusai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Mogiliavas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Rusų sudegintas Mogiliavas tiesiogiai rodo karinį puolimą prieš miestą."
   pagrindžia:
     - c-105805
 - susijęs iš Karaliaus Aleksandro privilegija Elenai dėl Mogiliavo pilies (1503 m.): 1503 m. Aleksandro privilegija suteikė karalienei Elenai teisę iki gyvos galvos turėti, naudotis ir ramiai valdyti Mogiliavo pilį su priklausiniais.
@@ -101,8 +77,8 @@ media_all_json: |-
     gos atminties kanclerio Rumiancevo lėšomis: EeAopyccKuü apxuBb, HacTb
     I, MocKBa, 1824, in 4to, p. 27.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -120,8 +96,8 @@ media_all_json: |-
     Liepos 15 d. karaliaus S. Batoro ka-
     riuomenė patraukė į Pskovą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -165,10 +141,3 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-114777
-
-## Ryšiai
-- Buvo valdoma: [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]
-- Puolė Mogiliavą: [[objektai/grupes/Rusai]]
-- Apgulė Mogiliavą: [[objektai/asmenys/M. K. Pacas]]
-- Užėmė Mogiliavą: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- Mogiliavas priklausė [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]

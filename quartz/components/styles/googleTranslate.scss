@@ -1,0 +1,68 @@
+.google-translate {
+  display: inline-flex;
+  min-height: 1.8rem;
+  align-items: center;
+  gap: 0.3rem;
+  color: #fff;
+  font-family: var(--codeFont);
+  line-height: 1;
+  white-space: nowrap;
+}
+
+.google-translate button {
+  min-width: 1.65rem;
+  padding: 0.35rem 0.12rem;
+  opacity: 0.62;
+  transition: opacity 140ms ease;
+}
+
+.google-translate button.is-active,
+.google-translate button[aria-pressed="true"] {
+  opacity: 1;
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 0.3rem;
+}
+
+.google-translate button:disabled {
+  cursor: not-allowed;
+  opacity: 0.3;
+}
+
+.google-translate-divider {
+  color: rgba(255, 255, 255, 0.45);
+  font-size: 0.68rem;
+  font-weight: 700;
+}
+
+#google_translate_element {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  clip: rect(0 0 0 0);
+  clip-path: inset(50%);
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+.google-translate-status {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  border: 0;
+  clip: rect(0 0 0 0);
+  clip-path: inset(50%);
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+.goog-te-banner-frame.skiptranslate,
+iframe.goog-te-banner-frame,
+.VIpgJd-ZVi9od-ORHb-OEVmcd.skiptranslate {
+  display: none !important;
+}
+
+body {
+  top: 0 !important;
+}

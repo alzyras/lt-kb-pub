@@ -56,14 +56,6 @@ Nenurodyta
 - t-001
   global_id: t-193815
   teiginys: "PREILIAI A 1920 m. liepos 12 d. Lietuva su Sovietų Rusija sudarė taikos sutartį."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "779720-779883; hash=254559824f77fbdede8de35a44a158dca69301d7946eb4b2f4eb53d028e1197e; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-43124
 ## Reikšmingi paminėjimai
@@ -78,8 +70,8 @@ Nenurodyta
     taikos sutartį. Sovietų Rusija pripažino Lietuvos nepriklausomybę.
     Buvo nustatyta Lietuvos siena.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

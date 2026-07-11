@@ -51,19 +51,6 @@ Nenurodyta
 - t-003
   global_id: t-09821
   teiginys: "Po Bezdežo mūšio M. K. Oginskio pajėgos netrukus buvo sumuštos prie Stalovičių ir išblaškytos Aleksandro Suvorovo pajėgų."
-  temporaliniai_duomenys: "įvykio data: 1772 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata leidžia suformuoti konkretesnį teiginį apie tiesiogines pasekmes."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "579216-579589; hash=8a3304897bf8efa47cb1ca516d9cfc997c5a7d058e6f797f7c6afb21dfeba921; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
-  ryšio_patikimumas: "susije_su -> Stalovičiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Bezdežo (Antopolio) mūšis (1771 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Stalovičiai: mention_match, place, gap=65"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bezdežo (Antopolio) mūšis (1771 m.)\" parinktas kaip owner_note_path. Targetas \"Stalovičiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-11835
 - susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
@@ -85,8 +72,8 @@ Nenurodyta
     Konfederatams nepavyko sutrukdyti
     1772 m. įvykusio pirmajo ATR padalijimo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

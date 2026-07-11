@@ -35,21 +35,6 @@ media_all_json: |-
 - t-001
   global_id: t-192908
   teiginys: "Teodoras Narbutas Uralo kalnus ir turtingas rūdynas nurodė kaip tikėtiną šios plačiai pasklidusios tautos įtakos ribą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "70010-70450; hash=d519d115af901a88963a2e2ac89f5a4f37fd1a8abd73d5a2bd9550c68a836e0d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kaukazas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Uralas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kaukazas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Uralas\" parinktas kaip owner_note_path. Targetas \"Kaukazas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175678
 - susijęs iš [[objektai/asmenys/Paiakas.md#claim-t-191452|Paiakas]]: Paiakas Narbuto cituojamame pasakojime įvardytas Pasijaus tėvu, o Pasijus vadovavo roksolanams kare Skilūro pusėje prieš Mitridatą.
@@ -74,8 +59,8 @@ media_all_json: |-
     mums artimą gentį, tad remkimės tik moksliniu ir kruopš­
     čiai parašytu pono Riterio** veikalu1.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -86,7 +71,8 @@ media_all_json: |-
 - id: c-175678
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 41"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 41."
   citata_originali: |
     Tai buvo
     didelė, plačiai pasklidusi tauta, nes jos kolonijos driekė­
@@ -103,6 +89,3 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192908
-
-## Ryšiai
-- Gyvenamoji vieta: [[objektai/grupes/Hunai]]

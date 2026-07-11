@@ -46,16 +46,6 @@ Nenurodyta
 - t-002
   global_id: t-07770
   teiginys: "Graikai šiaurėje gyvenusius žmones vadino skitais arba kailinuočiais, nes jie žiemą ir vasarą dėvėdavo kailinius."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "14726-15037; hash=3d7793769f2e97aed5fa12d08dddb8397cf96beadb85e977c9f1643417826422; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
-  ryšio_patikimumas: "susije_su -> Juodoji jūra: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kailinių dėvėjimas žiemą ir vasarą, vasarą išvirkščius: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Juodoji jūra: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kailinių dėvėjimas žiemą ir vasarą, vasarą išvirkščius\" parinktas kaip owner_note_path. Targetas \"Juodoji jūra\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-09926
 ## Reikšmingi paminėjimai
@@ -68,8 +58,8 @@ Nenurodyta
          dėvėjo, žiemą įvirsčius, o vasarą išvirsčius; bet pervis^73 tankiau lig paskuojų laikų vadino juos
          getais, kaip tuojau regėsim.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

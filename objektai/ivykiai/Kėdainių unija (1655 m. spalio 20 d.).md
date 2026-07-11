@@ -55,19 +55,6 @@ Nenurodyta
 - t-002
   global_id: t-80673
   teiginys: "Jonušo Radvilos pastangomis Kėdainių unija su Švedija buvo sudaryta 1655 m. spalio 20 d."
-  temporaliniai_duomenys: "įvykio data: 1655 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalinta nutrūkusi dalis ir aiškiai įvardytas veikėjas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "513771-514267; hash=3ab5837742271ca197f8594aa0d348f839fedb2360cdf5c0e7e7b7a31f882abd; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kėdainiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kėdainių unija (1655 m. spalio 20 d.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Kėdainiai: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kėdainių unija (1655 m. spalio 20 d.)\" parinktas kaip owner_note_path. Targetas \"Kėdainiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-43064
 
@@ -75,16 +62,6 @@ Nenurodyta
 - t-003
   global_id: t-80674
   teiginys: "Po Kėdainių unijos švedai nepateisino Jonušo Radvilos lūkesčių: jis negavo reikšmingų pareigų, o karinė pagalba nebuvo suteikta."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "514075-514500; hash=b3abb8c6848a83d2172aca88531c1e0d4aba7cf9dd2defc2235f523b49b9afb9; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> J. Radvila: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kėdainių unija (1655 m. spalio 20 d.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "J. Radvila: mention_match, person, gap=35"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kėdainių unija (1655 m. spalio 20 d.)\" parinktas kaip owner_note_path. Targetas \"J. Radvila\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-43066
 
@@ -92,19 +69,6 @@ Nenurodyta
 - t-001
   global_id: t-80675
   teiginys: "Jonušas Radvila siekė nutraukti LDK uniją su Lenkija ir sudaryti naują uniją su Švedija."
-  temporaliniai_duomenys: "įvykio data: 1655 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Reikia išplėsti inicialą ir aiškiai įvardyti asmenį bei unijos objektą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "513771-514267; hash=3ab5837742271ca197f8594aa0d348f839fedb2360cdf5c0e7e7b7a31f882abd; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kėdainių unija (1655 m. spalio 20 d.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=9"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kėdainių unija (1655 m. spalio 20 d.)\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-43064
 ## Reikšmingi paminėjimai
@@ -123,8 +87,8 @@ Nenurodyta
     reikšmingų pareigų, karinė pagalba suteikta nebuvo,
     užimtoje teritorijoje švedai elgėsi kaip okupantai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -145,8 +109,8 @@ Nenurodyta
     diškos alternatyvos“ Lietuvai pabandymą paprastai
     vadinamas išdaviku.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

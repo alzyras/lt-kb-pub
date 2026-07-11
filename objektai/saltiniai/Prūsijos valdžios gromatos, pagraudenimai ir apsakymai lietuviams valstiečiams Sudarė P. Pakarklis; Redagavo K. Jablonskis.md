@@ -38,16 +38,6 @@ Dusburgietis teigia, kad prūsijos valdžios gromatos, pagraudenimai ir apsakyma
 - t-001
   global_id: t-61263
   teiginys: "Rinkinį „Prūsijos valdžios gromatos, pagraudenimai ir apsakymai lietuviams valstiečiams“ sudarė P. Pakarklis, redagavo K. Jablonskis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "794520-794656; hash=830d6e1c59e9af8e015b005446b5e0232b0cf0599b79a3a7ff14baf52b18fbe0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> K. Jablonskis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Prūsijos valdžios gromatos, pagraudenimai ir apsakymai lietuviams valstiečiams Sudarė P. Pakarklis; Redagavo K. Jablonskis: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "K. Jablonskis: mention_match, author, gap=110"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsijos valdžios gromatos, pagraudenimai ir apsakymai lietuviams valstiečiams Sudarė P. Pakarklis; Redagavo K. Jablonskis\" parinktas kaip owner_note_path. Targetas \"K. Jablonskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-61895
 ## Reikšmingi paminėjimai
@@ -59,8 +49,8 @@ Dusburgietis teigia, kad prūsijos valdžios gromatos, pagraudenimai ir apsakyma
     Prūsijos valdžios gromatos, pagraudenimai  ir apsakymai lietuviams valstiečiams/
     Sudarė P. Pakarklis; Redagavo K. Jablonskis.— V., 1960.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -71,7 +61,8 @@ Dusburgietis teigia, kad prūsijos valdžios gromatos, pagraudenimai ir apsakyma
 - id: c-61895
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 270"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 270."
   citata_originali: |
     Prūsijos valdžios gromatos, pagraudenimai  ir apsakymai lietuviams valstiečiams/
     Sudarė P. Pakarklis; Redagavo K. Jablonskis.— V., 1960.

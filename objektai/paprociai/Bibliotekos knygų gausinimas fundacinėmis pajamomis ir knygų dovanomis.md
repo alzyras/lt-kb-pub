@@ -60,16 +60,6 @@ Nenurodyta
 - t-003
   global_id: t-87159
   teiginys: "Leonas Sapiega, vyskupas Bžostovskis, kanauninkas Vaišnarovičius ir kiti dovanotomis bei užrašytomis knygomis praturtino biblioteką."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "394381-394830; hash=a9a4f4d3f388b61a40acfbe7704646084b3a620e427931746538b322e4132b19; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Bibliotekos knygų gausinimas fundacinėmis pajamomis ir knygų dovanomis: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bibliotekos knygų gausinimas fundacinėmis pajamomis ir knygų dovanomis\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-83140
 
@@ -77,19 +67,6 @@ Nenurodyta
 - t-002
   global_id: t-87160
   teiginys: "1623 m. Adrijanas Vežbickis įpareigojo Akademijos kolegiją iš Blonių valdos pajamų kasmet skirti po 100 auksinų knygoms įsigyti."
-  temporaliniai_duomenys: "įvykio data: 1623 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra konkretus, gramatiškas ir tiksliai paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "393268-394302; hash=6ce318841a2511391c8fdf7bc2d3bb075503115432844978b8ba428ca8772478; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kaunas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Bibliotekos knygų gausinimas fundacinėmis pajamomis ir knygų dovanomis: owner_note_path, thing"
-  ryšio_targeto_parinkimas: "Kaunas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bibliotekos knygų gausinimas fundacinėmis pajamomis ir knygų dovanomis\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-83139
 ## Reikšmingi paminėjimai
@@ -124,8 +101,8 @@ Nenurodyta
     nių namų, tiek ir iš sklypų pelnomų, jas užrašė bibliotekai
     knygų gausinimo dėlei.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -146,8 +123,8 @@ Nenurodyta
     Nuo sklypų Užupyje - 168 auks.
     Summa facit [suma sudaro] -468 auks.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

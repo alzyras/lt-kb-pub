@@ -41,19 +41,6 @@ media_all_json: |-
 - t-001
   global_id: t-88422
   teiginys: "1578 m. Steponas Batoras funduotoms mokykloms suteikė Akademijos vardą ir prilygino jas kitoms akademijoms."
-  temporaliniai_duomenys: "įvykio data: 1578 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata remia sakinį, bet pradinį tekstą reikia išvalyti ir sutrumpinti."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "395077-395569; hash=d184a467a79641c1eccaaa942fc7609c8df5681ab8eb5b0b10569ef180240550; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Grigalius XIII: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Grigaliaus XIII bulė dėl Vilniaus akademijos privilegijos aprobavimo: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Grigalius XIII: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Grigaliaus XIII bulė dėl Vilniaus akademijos privilegijos aprobavimo\" parinktas kaip owner_note_path. Targetas \"Grigalius XIII\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-84401
 ## Reikšmingi paminėjimai
@@ -71,8 +58,8 @@ media_all_json: |-
     demijos kancleriu, o Žemaičių - globėju nuolatiniam laikui pa­
     skyrė. Tokią privilegiją Grigalius XIII bule aprobavo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

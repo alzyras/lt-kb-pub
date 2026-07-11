@@ -61,19 +61,6 @@ Nenurodyta
 - t-001
   global_id: t-87157
   teiginys: "1323 m. gegužės 26 d. Vilniuje rašytuose Gedimino laiškuose pavesta juos perskaičius siųsti toliau ir visur skelbti jų pranešimus."
-  temporaliniai_duomenys: "įvykio data: 1323 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys yra triukšmingas fragmentas, o citata aiškiai patvirtina persiuntimo ir skelbimo pavedimą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "173436-173998; hash=4447f2fbc6e0943aa8642e900a5770095bc246cb5d1a89f79a78fc218e697f43; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gedimino vardu rašytų laiškų viešas skelbimas, persiuntimas ir pamokslinis platinimas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gedimino vardu rašytų laiškų viešas skelbimas, persiuntimas ir pamokslinis platinimas\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-83137
 
@@ -81,16 +68,6 @@ Nenurodyta
 - t-002
   global_id: t-87158
   teiginys: "Jerošino teigimu, Rygos arkivyskupas ir miestiečiai pajūrio miestuose bei popiežiui platino žinią, kad Gediminas norėjęs krikštytis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "204484-205559; hash=718016377435939e4d14985b049a55c234be11b6e94f48d4a7a7e369c69f78db; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gedimino vardu rašytų laiškų viešas skelbimas, persiuntimas ir pamokslinis platinimas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=66"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gedimino vardu rašytų laiškų viešas skelbimas, persiuntimas ir pamokslinis platinimas\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-83136
 ## Reikšmingi paminėjimai
@@ -124,8 +101,8 @@ Nenurodyta
     nenorį, kad jie priimtų, ir taip pat įteikė laiškus Apaštalų
     Sostui].
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -148,8 +125,8 @@ Nenurodyta
     73
     Palyginimui žr.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

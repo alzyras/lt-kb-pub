@@ -47,16 +47,6 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
 - t-014
   global_id: t-173444
   teiginys: "Persekiojami kryžiuočiai pasiekė Papartėnus, buvusius netoli Kernavės."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "383293-383505; hash=fda26d12a95535b2c7c5cfb381a26e38c2ddf4e3024c3e7b9ef6fc9c84de8d12; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kernavė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kernavė\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-157751
 
@@ -64,17 +54,6 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
 - t-013
   global_id: t-173445
   teiginys: "Ordino maršalas su kryžiuočių kariuomene ir Vytauto pulkais užėmė Kernavę ir Maišiagalą."
-  semantiniai_rysiai: "Kryžiuočių ordinas užėmė Kernavė (0.82); Kryžiuočių ordinas užėmė Maišiagala (0.82)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "267224-267630; hash=966493f836b3fb549f8ce80df5eddbfc89048f5a35247ca20ed943707614640b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Kernavė: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Kernavė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys nurodo, kad kryžiuočių kariuomenė kartu su Vytauto pulkais užėmė Kernavę."
   pagrindžia:
     - c-157744
 
@@ -82,16 +61,6 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
 - t-001
   global_id: t-173446
   teiginys: "H. Paszkiewiczius Mindaugo sostine laikė Kernavę, jei Mindaugas apskritai turėjo pastovią sostinę."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "432164-432561; hash=1f148f4fdcd9fb00b74a2c63fcc7ce2525df2f687e2b2a24eefa2982a2a13eda; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> H. Paszkiewicz: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kernavė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "H. Paszkiewicz: mention_match, author, gap=41"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kernavė\" parinktas kaip owner_note_path. Targetas \"H. Paszkiewicz\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-32122
 
@@ -99,16 +68,6 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
 - t-017
   global_id: t-173447
   teiginys: "Paplitusi versija Lietuvos vardą kildina iš Lietaukos upelio, įtekančio į Nerį netoli Kernavės."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "15211-15603; hash=12c45790112d7bf0b40a5d21338cdba11b960c9ba111a47506385c4d4bac7006; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietauka: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kernavė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietauka: mention_match, place, gap=42"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kernavė\" parinktas kaip owner_note_path. Targetas \"Lietauka\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-157750
 
@@ -116,16 +75,6 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
 - t-009
   global_id: t-173449
   teiginys: "Iš Žemutinės pilies vedęs kelias prie kelto per Viliją šakojosi į Kernavę, senąją Lietuvos sostinę, ir Ukmergės pilį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "234928-235388; hash=f1d04a532f6c8c75a5d02fa461abb7281b86f59a89d1f8c1efd7f17b7cdef20e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kernavė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=16"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kernavė\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-157754
 
@@ -133,16 +82,6 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
 - t-001
   global_id: t-173446
   teiginys: "H. Paszkiewiczius Mindaugo sostine laikė Kernavę, jei Mindaugas apskritai turėjo pastovią sostinę."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "432164-432561; hash=1f148f4fdcd9fb00b74a2c63fcc7ce2525df2f687e2b2a24eefa2982a2a13eda; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> H. Paszkiewicz: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kernavė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "H. Paszkiewicz: mention_match, author, gap=41"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kernavė\" parinktas kaip owner_note_path. Targetas \"H. Paszkiewicz\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-32122
 
@@ -150,16 +89,6 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
 - t-002
   global_id: t-173452
   teiginys: "XVI a. plačioji Lietuvos metraščio redakcija Trakų pilies įkūrimo vietą nurodė už 5 mylių nuo Kernavės."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "675172-675515; hash=af100b4c61bdeddc20c6fe33b9ef053259fe3dedc9ff0c96a2c0209d7028d275; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gediminas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kernavė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Gediminas: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kernavė\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-157747
 
@@ -167,16 +96,6 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
 - t-010
   global_id: t-173453
   teiginys: "Ordino maršalas, susijungęs su Vytauto pulkais, užėmė Kernavę ir Maišiagalą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "267224-267630; hash=966493f836b3fb549f8ce80df5eddbfc89048f5a35247ca20ed943707614640b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Maišiagala: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kernavė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Maišiagala: mention_match, place, gap=11"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kernavė\" parinktas kaip owner_note_path. Targetas \"Maišiagala\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-157744
 
@@ -184,16 +103,6 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
 - t-011
   global_id: t-173454
   teiginys: "Draudimas statyti per upę mažus tiltelius galiojo nuo Nemenčinės dvaro iki Kernavės miestelio."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "743946-745490; hash=281a9bcbd05b029e3fb2b4f7008258081fe8fb513678cc9585aace371c7d7629; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Nemenčinė: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kernavė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Nemenčinė: mention_match, place, gap=21"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kernavė\" parinktas kaip owner_note_path. Targetas \"Nemenčinė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-157748
 
@@ -201,16 +110,6 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
 - t-015
   global_id: t-173455
   teiginys: "XVI a. plačioji Lietuvos metraščio redakcija nurodė, kad Trakų pilis įkurta už penkių mylių nuo Kernavės."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "468803-469216; hash=76e18fafb950a301d3126d140be31c50e3f32655ac302adc07e6e44d695174b4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aukurai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kernavė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Aukurai: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kernavė\" parinktas kaip owner_note_path. Targetas \"Aukurai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-157755
 
@@ -218,19 +117,6 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
 - t-018
   global_id: t-184982
   teiginys: "Kernavė buvo įkurta prie upės kranto kaip nausėdija ir pilis, kadaise buvusi Lietuvos sostinė."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "102106-102680; hash=c97b36803fddecbe84a1efe3a2134a1e7b57e8de42c2f1d40eb9b01787217513; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kernavė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=77"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kernavė\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-168343
 
@@ -238,19 +124,6 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
 - t-019
   global_id: t-184983
   teiginys: "Kunigaikštystės sostinė buvo perkelta iš Naugarduko į Kernavę."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "236674-237377; hash=759c6bc1bb6e38023f9176d41bea62d2beb4d29db20ea8efe50cb0fa5bdfa393; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jotvingiai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kernavė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Jotvingiai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kernavė\" parinktas kaip owner_note_path. Targetas \"Jotvingiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-168344
 
@@ -258,19 +131,6 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
 - t-020
   global_id: t-184984
   teiginys: "Kernavės kunigaikštis Aleksandras Vygandas mėgino išvaryti priešą iš Ritersverderio."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "563248-563819; hash=eeabad85e6031aeaf1581af747dae6775ef1a035978864bcea718672bab10b32; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aleksandras Jogailaitis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kernavė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Aleksandras Jogailaitis: mention_match, person, gap=22"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kernavė\" parinktas kaip owner_note_path. Targetas \"Aleksandras Jogailaitis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-168345
 
@@ -278,19 +138,6 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
 - t-014
   global_id: t-188720
   teiginys: "Narbutas cituoja aiškinimą, kad Neries deivės aukurai buvę įvairiose pakrantės vietose, pirmiausia Kernavėje prie Neriškių miško."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "261042-261735; hash=144fb96e9d46405c3d141b92a0ede353e979cfd60f018a11e9af668b103d9d29; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aukurai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kernavė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Aukurai: mention_match, thing, gap=53"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kernavė\" parinktas kaip owner_note_path. Targetas \"Aukurai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-171609
 
@@ -298,19 +145,6 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
 - t-015
   global_id: t-188721
   teiginys: "Narbutas Pajautą apibūdino kaip Kerniaus, valdžiusio Vidurio arba Užnerio Lietuvą su sostine Kernavėje, dukterį."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "267224-267630; hash=966493f836b3fb549f8ce80df5eddbfc89048f5a35247ca20ed943707614640b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kernavė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=19"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kernavė\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-171610
 
@@ -318,19 +152,6 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
 - t-016
   global_id: t-188722
   teiginys: "Pasak Narbuto perteikiamų padavimų, XIII a. didžioji šventykla kurį laiką buvusi Kernavėje, o vėliau Vilniuje."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "383293-383505; hash=fda26d12a95535b2c7c5cfb381a26e38c2ddf4e3024c3e7b9ef6fc9c84de8d12; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kernavė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=20"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kernavė\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-171611
 
@@ -338,19 +159,6 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
 - t-017
   global_id: t-188723
   teiginys: "Narbutas aiškino, kad iki Vilniaus įkūrimo XIII a. Kernavėje buvusi valstybės sostinė, vyriausiojo žynio buveinė ir šventykla."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "468803-469216; hash=76e18fafb950a301d3126d140be31c50e3f32655ac302adc07e6e44d695174b4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Žyniai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kernavė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Žyniai: mention_match, group, gap=48"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kernavė\" parinktas kaip owner_note_path. Targetas \"Žyniai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-171612
 - susijęs iš Lietuva: Ordino vadovas siekė išardyti Lietuvos ir Lenkijos sąjungą ir 1390 m. sausio 19 d. per komtūrą sudarė sutartį su Vytautu.
@@ -441,8 +249,8 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
     sritį. H. Paszkiewicz tad Mindaugo sostine laikė, jeigu jis iš viso
     pastovią sostinę bus turėjęs, Kernavę (dešiniajame Neries krante)^17.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -468,8 +276,8 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
     mi, Vytauto labui nieko nenuveikę, nė negalvodami apie
     Vilniaus užėmimą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -486,8 +294,8 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
     žvėrienos. Gražia legenda yra apipintas Vilniuje valstybės sostinės
     įkūrimas^14.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -523,8 +331,8 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
     kimo tam pačiam mūsų nustatytam muitui, su bausmėmis,
     aukščiau mūsų nurodytomis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -541,8 +349,8 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
     duolys – Lietuvos žemė siaurąja prasme ankstyvaisiais istoriniais laikais
     buvo tarp Nemuno ir Neries upių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -559,8 +367,8 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
 
     (^1) ) C. ep.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -579,8 +387,8 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
     senų senovės kerojo įvairioms dievybėms pašvęsti ąžuolai,
     šen bei ten palei Viliją laukuose augo pušys5.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -600,8 +408,8 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
     Kernavės, toje girios vietoje, kur Gediminas primedžiojęs daug
     žvėrienos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -628,8 +436,8 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
     Kernius bei Gimbutas dėjosi nematą
     skriaudų, tačiau paslapčiomis ryžosi pulti Rusią.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -657,8 +465,8 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
     ištisus šešiolika metų nepavyko nieko padaryti reikš­
     mingesnio, kad iš lenkų būtų atsiimti jotvingiai.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -684,8 +492,8 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
     pilį, jeigu būtų parodęs daugiau ryžto ir nepasitraukęs,
     kai gynėjai jau ketino pasiduoti.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -711,8 +519,8 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
     tėse, pirmiausia vietovėje, vadintoje Kernave, kur buvo ir Ne-
     riškių miškas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -736,8 +544,8 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
     vinbudo, Ukmergės srities kunigaikščio, kuriam kraičio atne­
     šė paveldimą Kernavės kunigaikštystę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -754,8 +562,8 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
     gė šventoji ugnis.
     4.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -774,8 +582,8 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
     ir vyriausioji šventykla.
     Greitai augantis Vilnius turėjo ne vieną šventyklą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1029,7 +837,8 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
 - id: c-168345
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 323"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 323."
   citata_originali: |
     Šios įgulos nepaprastai kenkė aplinkiniam
     kraštui: nesutikdamos pasipriešinimo, jos pridarydavo
@@ -1056,7 +865,8 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
 - id: c-171609
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 150"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 150."
   citata_originali: |
     Te tavo Neris (a) apreiškia ir dievams,
     Kurių valdžioje jūrų gelmės,
@@ -1108,7 +918,8 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
 - id: c-171611
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 224"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 224."
   citata_originali: |
     To­
     kie yra praamžių padavimai. XIII amžiuje, vyriausiesiems žy­
@@ -1126,7 +937,8 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
 - id: c-171612
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 269"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 269."
   citata_originali: |
     Taip pat ir žemesnės kate­
     gorijos žyniai įsirengdavo laikinus arba pastovius aukurus miš­
@@ -1144,7 +956,4 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
     - t-188723
 
 ## Ryšiai
-- Turėjo valdovą: [[objektai/asmenys/Aleksandras Vygantas]]
-- Buvo valdoma: [[objektai/asmenys/Živinbudas]]
-- Puolė Kernavę: [[objektai/grupes/Kryžiuočių ordinas]]
-- Užėmė Kernavę: [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Vytauto šalininkai]]
+- Užėmė Kernavę: [[objektai/grupes/Kryžiuočių ordinas]]

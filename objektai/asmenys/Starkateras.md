@@ -30,22 +30,6 @@ Narbutas perteikia skandinavų padavimus, kuriuose Starkateras vadinamas Sterver
 - t-001
   global_id: t-191317
   teiginys: "Narbutas perteikia skandinavų padavimus, kuriuose Starkateras vadinamas Sterverko sūnumi ir vyresniojo Starkatero anūku."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Starkateras buvo sūnus Sterverkas (0.98)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "429905-430383; hash=796041e8d2c54b2d6c5b7a420903e7e47519aaaecc812ceccfa572335590e2c8; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sunus -> Sterverkas: 0.98"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Starkateras: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Sterverkas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai pasako, kad Starkateras buvo Sterverko sūnus."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174199
 
@@ -53,22 +37,6 @@ Narbutas perteikia skandinavų padavimus, kuriuose Starkateras vadinamas Sterver
 - t-002
   global_id: t-191318
   teiginys: "Narbutas pasakoja, kad Starkateras nuvyko į Rusią, iškvietė Viziną dvikovon ir, pasitelkęs gudrybę, jį nukovė."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Rusai prekiavo su Danija (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "431802-432185; hash=00bc6627ec19fc18dd21eeb9be41c7356fce77aee64af3e5f07be16048b84902; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "prekiavo_su -> Danija: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Rusai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Danija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai mini rusus, prekiavusius Danijoje."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174200
 
@@ -76,21 +44,6 @@ Narbutas perteikia skandinavų padavimus, kuriuose Starkateras vadinamas Sterver
 - t-003
   global_id: t-191319
   teiginys: "Narbutas pasakoja, kad Starkateras privertė rusnėnų karaliuką Floką sprukti iš rūmų ir pasisavino jo aukso bei sidabro lobius."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "431968-432444; hash=2282a1644d5269a211d515f4cd0da665fa8538ec2f696dc16547639956b321a1; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Flokas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Starkateras: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Flokas: mention_match, person, gap=39"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Starkateras\" parinktas kaip owner_note_path. Targetas \"Flokas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174201
 - susijęs iš [[objektai/asmenys/Sterverkas.md#claim-t-191982|Sterverkas]]: Skandinavų padavimuose, kuriuos perteikia Narbutas, Sterverkas vadinamas didvyrio Starkatero tėvu.
@@ -125,8 +78,8 @@ Narbutas perteikia skandinavų padavimus, kuriuose Starkateras vadinamas Sterver
     ringumo žmogus. Jis buvo auklėjamas Danijos karaliaus
     Haroldo rūmuose kartu su karalaičiu Vikaru.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -145,8 +98,8 @@ Narbutas perteikia skandinavų padavimus, kuriuose Starkateras vadinamas Sterver
     jam, nes, pasikliaudamas savo burtais, slibinas nebuvo itin
     atsargus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -166,8 +119,8 @@ Narbutas perteikia skandinavų padavimus, kuriuose Starkateras vadinamas Sterver
     Floką sprukti iš savo rūmų, pasisavino jo nesuskaičiuoja­
     mus lobius, daugybę aukso ir sidabro4.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -178,7 +131,8 @@ Narbutas perteikia skandinavų padavimus, kuriuose Starkateras vadinamas Sterver
 - id: c-174199
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 243"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 243."
   citata_originali: |
     235
     Frotono III sūnus Fridleifas buvo auklėjamas Rusioje,
@@ -201,7 +155,8 @@ Narbutas perteikia skandinavų padavimus, kuriuose Starkateras vadinamas Sterver
 - id: c-174200
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 244"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 244."
   citata_originali: |
     Pirkliavę Danijoje rusai
     guodėsi šia baisenybe. Narsusis Starkateras, tai sužino­
@@ -221,7 +176,8 @@ Narbutas perteikia skandinavų padavimus, kuriuose Starkateras vadinamas Sterver
 - id: c-174201
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 244"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 244."
   citata_originali: |
     Žinodamas, kad slibinas žvilgsniu
     užkerėdavo ginklą, jis liepė savo kalaviją apsiūti plona
@@ -241,5 +197,3 @@ Narbutas perteikia skandinavų padavimus, kuriuose Starkateras vadinamas Sterver
 
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Sterverkas]]
-- Starkateras puolė [[objektai/asmenys/Flokas]]
-- Starkateras gyveno [[objektai/vietos/Danija]]

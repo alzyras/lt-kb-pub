@@ -37,21 +37,6 @@ Oficioze „Tygodnik Petersburski“ pasirodė antroji didelė oficialių atgars
 - t-001
   global_id: t-189318
   teiginys: "Oficioze „Tygodnik Petersburski“ pasirodė antroji didelė oficialių atgarsių recenzija apie T. Narbuto „Lietuvių mitologiją“."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "100561-100956; hash=839166241f86afca213ecb8d906eb95dc3942052fdadcd9f21038abbcc18488c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kraševskis: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Oficiozas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Kraševskis: mention_match, author"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Oficiozas\" parinktas kaip owner_note_path. Targetas \"Kraševskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172205
 ## Reikšmingi paminėjimai
@@ -72,8 +57,8 @@ Oficioze „Tygodnik Petersburski“ pasirodė antroji didelė oficialių atgars
     miška, o antroji priklausė Juozapo Ignoto Kraševskio
     plunksnai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

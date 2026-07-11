@@ -45,12 +45,6 @@ Mikalojaus Husoviano poema „Giesmė apie stumbro išvaizdą, žiaurumą ir med
 - t-001
   global_id: t-23240
   teiginys: "Jau pirmoji Lietuvos poema, tikras renesansinis kūrinys, 1523 m. išleista Mikalojaus Husoviano poema „Giesmė apie stumbro išvaizdą, žiaurumą ir medžioklę“ būtent ir siekė Vytauto laikus parodyti kaip idealą savo laikų visuomenei."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "113343-114075; hash=09a4825302b70779f59fb8a4bc81d8e245690f943d8875fd0082ea0012526f0f; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176391
 ## Reikšmingi paminėjimai
@@ -70,8 +64,8 @@ Mikalojaus Husoviano poema „Giesmė apie stumbro išvaizdą, žiaurumą ir med
     girtuoklystei ir netvarkai. Mykolas Lietuvis siūlo ir kalbos permainas – at-
     sisakyti rusėnų kalbos ir pereiti prie romėnų, t. y. lotynų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

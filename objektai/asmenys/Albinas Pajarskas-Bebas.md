@@ -41,12 +41,6 @@ Algimanto apygardos vadovybė 1949 m. Iš kairės: organizacinio skyriaus virši
 - t-001
   global_id: t-39473
   teiginys: "1949 m. Albinas Pajarskas-Bebas buvo Algimanto apygardos štabo viršininkas."
-  temporaliniai_duomenys: "įvykio data: 1949 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatinis ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1003735-1004146; hash=635486c6c8d18e913033262f0ae58bf42feca45e8f3923fa0d209feed63a3b98; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-41277
 - susijęs iš Priepado ežeras: 1949 m. lapkričio 1 d. Šimonių girioje prie Priepado ežero MGB karių apsuptame bunkeryje po atkaklios kovos žuvo 7 partizanai.
@@ -68,8 +62,8 @@ Algimanto apygardos vadovybė 1949 m. Iš kairės: organizacinio skyriaus virši
     glūdumoje vienu metu telkėsi šeši būriai —
     iki 180 ginkluotų kovotojų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

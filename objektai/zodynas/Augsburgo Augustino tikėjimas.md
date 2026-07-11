@@ -35,16 +35,6 @@ Tarp jų buvo išsakyta ir tokia, kad tiems žmonėms, ku­ rie mums su pačiomi
 - t-001
   global_id: t-86514
   teiginys: "Gotardas Ketleris siekė, kad perduodamų apskričių žmonėms būtų leista laisvai išpažinti Augustino tikėjimą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "636548-637820; hash=1981eff6558cf56d575cb906e878b8516a9ee3179126b12a91a319122ddcde5c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Augustinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Augsburgo Augustino tikėjimas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Augustinas: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Augsburgo Augustino tikėjimas\" parinktas kaip owner_note_path. Targetas \"Augustinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-82494
 
@@ -52,12 +42,6 @@ Tarp jų buvo išsakyta ir tokia, kad tiems žmonėms, ku­ rie mums su pačiomi
 - t-002
   global_id: t-194215
   teiginys: "IL 4U tautoms, kurios paprastai patenka jų globai, visas jų teises, taip ir religijos bei tikėjimo papročius, jei pasižadėtų, nepa keistus išsaugoti."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "639487-640452; hash=31df7212ae31260ccece9d23741c0507f02016522ce77c9cad41af08ac235112; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176817
 ## Reikšmingi paminėjimai
@@ -94,8 +78,8 @@ Tarp jų buvo išsakyta ir tokia, kad tiems žmonėms, ku­ rie mums su pačiomi
     ir pareigas, paprieštaravo, kad neturėtumėme šios sąlygos
     įtraukti į sutartį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -129,8 +113,8 @@ Tarp jų buvo išsakyta ir tokia, kad tiems žmonėms, ku­ rie mums su pačiomi
     reigoti [sutikdamas su] šiomis sąlygomis, kurios prieštarauja
     katalikų tikėjimui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

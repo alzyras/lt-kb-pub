@@ -30,21 +30,6 @@ Teodoras Narbutas rašo, kad Aristotelis, kaip ir keli kiti senovės autoriai, �
 - t-001
   global_id: t-191633
   teiginys: "Teodoras Narbutas rašo, kad Aristotelis, kaip ir keli kiti senovės autoriai, žinojo gintarą, jo savybes ir tyrinėjo jo gavybos vietas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "269755-270129; hash=1bc043d02c5cd315ccf6a2b105f7ad0d580b7476a8969fc5f4f199d1b163251d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Pitėjas Masilietis: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aristotelis: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Pitėjas Masilietis: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aristotelis\" parinktas kaip owner_note_path. Targetas \"Pitėjas Masilietis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174515
 
@@ -52,21 +37,6 @@ Teodoras Narbutas rašo, kad Aristotelis, kaip ir keli kiti senovės autoriai, �
 - t-002
   global_id: t-191634
   teiginys: "Teodoras Narbutas Aristotelį mini tarp autorių, kurie, jo teigimu, kalbėjo apie vandens lygio kritimą ir pateikė įrodymų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "603809-604371; hash=7e5538bca9b77bf2b4e053d5e3d9e3f55b02f0438e297416f66d86b4d9fb322a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Baltija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aristotelis: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Baltija: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aristotelis\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174516
 ## Reikšmingi paminėjimai
@@ -83,8 +53,8 @@ Teodoras Narbutas rašo, kad Aristotelis, kaip ir keli kiti senovės autoriai, �
     pat gintaras lėmė, kaip sakėme, seniausius geografinius
     tyrinėjimus pakrančių, kur gyveno lietuvių genties tautos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -111,8 +81,8 @@ Teodoras Narbutas rašo, kad Aristotelis, kaip ir keli kiti senovės autoriai, �
     šiandien, be to, matoma daug pavyzdžių ir gretimose že­
     mėse, kurios tarsi įrodo jos mažėjimą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -123,7 +93,8 @@ Teodoras Narbutas rašo, kad Aristotelis, kaip ir keli kiti senovės autoriai, �
 - id: c-174515
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 150"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 150."
   citata_originali: |
     Plinijus surinkęs liudijimų,
     kad gintaras vaidinęs svarbų vaidmenį senovės moterų
@@ -142,7 +113,8 @@ Teodoras Narbutas rašo, kad Aristotelis, kaip ir keli kiti senovės autoriai, �
 - id: c-174516
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 336"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 336."
   citata_originali: |
     Tačiau Kelsijus ir Dalinas per­
     nelyg įsismagina skaičiuodami, kai įrodinėja, jog nuo

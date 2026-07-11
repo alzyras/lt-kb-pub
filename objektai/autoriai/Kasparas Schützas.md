@@ -38,17 +38,6 @@ Narbutas cituojamu veikalu nurodo Casparo Schützo „Rerum Prussicarum historia
 - t-001
   global_id: t-190354
   teiginys: "Narbutas cituojamu veikalu nurodo Casparo Schützo „Rerum Prussicarum historia“, išleistą Gdanske 1769 m."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1769 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Bibliografinė nuotrupa paversta rišliu sakiniu apie cituojamą Schützo veikalą. Nepridėta informacijos apie veikalo turinį."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "856691-856785; hash=097c10065cdc0a2d706fe37ad00652fbe6b8370ce6075ef004f9d44b69daf9ab; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173237
 ## Reikšmingi paminėjimai
@@ -60,8 +49,8 @@ Narbutas cituojamu veikalu nurodo Casparo Schützo „Rerum Prussicarum historia
     P. 178** -  Cituojamas veikalas: Schütz Caspar. Rerum Prus-
     sicarum historia. -  Gedani, 1769.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -72,7 +61,8 @@ Narbutas cituojamu veikalu nurodo Casparo Schützo „Rerum Prussicarum historia
 - id: c-173237
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 484"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 484."
   citata_originali: |
     P. 178** -  Cituojamas veikalas: Schütz Caspar. Rerum Prus-
     sicarum historia. -  Gedani, 1769.

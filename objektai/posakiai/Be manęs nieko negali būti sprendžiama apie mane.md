@@ -41,16 +41,6 @@ media_all_json: |-
 - t-002
   global_id: t-06868
   teiginys: "Posakis „Be manęs nieko negali būti sprendžiama apie mane“ buvo laikomas bajorų laisvės dėsniu."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "558776-559143; hash=b161875d2280b149bed27202b6e450d6c3640e64163b376438bf4aee13e2b1d8; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Bajorai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Be manęs nieko negali būti sprendžiama apie mane: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Bajorai: mention_match, group, gap=64"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Be manęs nieko negali būti sprendžiama apie mane\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-00242
     - c-00243
@@ -67,8 +57,8 @@ media_all_json: |-
     _(nihil de те, sine те)._ Tatai vadinosi _liberum veto,_ t. y. laisvojo
     pasipriešinimo teisė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -85,8 +75,8 @@ media_all_json: |-
     susikalbėti. Visada atsirasdavo, kas pasakydavo _„veto",_ ir seimas
     turėdavo iširti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

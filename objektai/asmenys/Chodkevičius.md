@@ -38,25 +38,6 @@ Narbutas mini lotynišką rankraštį, kuriame rašoma, kad 1605 m. rugsėjo 27 
 - t-001
   global_id: t-191380
   teiginys: "Narbutas mini lotynišką rankraštį, kuriame rašoma, kad 1605 m. rugsėjo 27 d. Ketleris atvyko padėti Chodkevičiui."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Ketleris rėmė Chodkevičius (0.88)"
-  temporaliniai_duomenys: "kelionės data: 1605 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Ketleris rėmė Chodkevičius“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie Chodkevičių ir cituojamą rankraščio detalę. Paliktas Narbuto minimos rankraštinės žinios kontekstas, nepridedant mūšio interpretacijų."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "518358-518973; hash=b15e8a26b0ae2f641a3ed89f8fffa01be04fbe505aa782a1b95eb0a5b271e9e5; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "reme -> Chodkevičius: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Ketleris: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Chodkevičius: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Ketlerio atvykimas pagelbėti Chodkevičiui tiesiogiai rodo rėmimą."
-  vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174262
 - susijęs iš [[objektai/asmenys/Ketleris.md#claim-t-191432|Ketleris]]: Teodoro Narbuto cituotame lotyniškame rankraštyje Kuršo kunigaikščiu vadinamas Ketleris 1605 m. rugsėjo 27 d. atvyko pagelbėti Chodkevičiui.
@@ -83,8 +64,8 @@ Narbutas mini lotynišką rankraštį, kuriame rašoma, kad 1605 m. rugsėjo 27 
     kuri buvo tokia sena kaip ir jų kaimynystė Uždneprėje
     su gelonais ir budinais (§ 268).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -118,6 +99,3 @@ Narbutas mini lotynišką rankraštį, kuriame rašoma, kad 1605 m. rugsėjo 27 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191380
-
-## Ryšiai
-- Rėmė Chodkevičių: [[objektai/asmenys/Ketleris]]

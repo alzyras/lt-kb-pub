@@ -64,11 +64,6 @@ Nenurodyta
 - t-001
   global_id: t-10226
   teiginys: "Po mūšio lietuviai paėmė arba nukovė daugybę totorių ir paėmė daug belaisvių bei grobio."
-  teiginio_tipas: "faktas"
-  susije_objektai: "llm_object: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Lietuva; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "321523-321752; hash=5072e5b3db443ff0b48c092e2d24709e709acf517baa441feaeb73d23eac1305; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-11860
 
@@ -76,11 +71,6 @@ Nenurodyta
 - t-005
   global_id: t-10230
   teiginys: "Bychoveco kronikoje Klecko pergalė siejama su krikščionių kovos prieš kitatikius motyvais ir Dievo gailestingumu LDK."
-  teiginio_tipas: "faktas"
-  susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Lietuva"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "323138-323826; hash=9199afdaf906854917247e2d56aebc1f54f68017b7bee07b3e5233b95e3e9110; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-43057
 
@@ -88,12 +78,6 @@ Nenurodyta
 - t-014
   global_id: t-195010
   teiginys: "Bychovco kronika Klecko mūšio pergalę apibūdina kaip Lietuvos Didžiosios Kunigaikštystės patirtą „begalinį dievo gailestingumą“."
-  teiginio_tipas: "saltinio_teiginys"
-  sudarymo_pagrindimas: "Teiginys yra aiškus ir tinkamai atribuuoja religinį vertinimą kronikai."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė|Lietuvos Didžioji Kunigaikštystė]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Korano giminė|Korano giminė]]; mentioned_person: [[objektai/asmenys/Mykolas Glinskis|Mykolas Glinskis]]; mentioned_place: Cepra; mentioned_place: Volynė"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "300811-301582; hash=8cd10fb97e91f0d7a62ed8ad02f804fa9ed9dd2a685e8fcc31483626852f7d33; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177395
 
@@ -101,12 +85,6 @@ Nenurodyta
 - t-012
   global_id: t-195011
   teiginys: "Lietuvos metraštis pasakoja, kad prieš Klecko mūšį etmonas Stanislovas Petravičius Kiška sunkiai susirgo ir nebegalėjo laikytis balne."
-  teiginio_tipas: "saltinio_teiginys"
-  sudarymo_pagrindimas: "Taisytina didžioji raidė po „kad“ ir stilius."
-  susije_objektai: "mentioned_object: [[objektai/daiktai/Balnas|Balnas]]; mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_person: [[objektai/asmenys/Kiška|Kiška]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Kaimas; mentioned_place: Lietuva"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "297909-298591; hash=109a63c5a16dd08924164c3d06a150cd84df1b36f78f7b26523c5ccb7c1ccc4c; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177394
 
@@ -114,12 +92,6 @@ Nenurodyta
 - t-008
   global_id: t-195012
   teiginys: "Lietuvos metraštis pasakoja, kad po Klecko mūšio Mykolas Glinskis ir Lietuvos kariuomenė grįžo į stovyklą su belaisviais, auksu, sidabru, ginklais ir žirgais."
-  teiginio_tipas: "saltinio_teiginys"
-  sudarymo_pagrindimas: "Reikia įvardyti veikėjus ir aiškiau susieti faktą su Klecko mūšiu."
-  susije_objektai: "mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Mykolas Glinskis|Mykolas Glinskis]]; mentioned_group: [[objektai/grupes/Korano giminė|Korano giminė]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė|Lietuvos Didžioji Kunigaikštystė]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Cepra; mentioned_place: Lietuva; mentioned_place: Volynė"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "300811-301582; hash=8cd10fb97e91f0d7a62ed8ad02f804fa9ed9dd2a685e8fcc31483626852f7d33; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177395
 
@@ -127,15 +99,6 @@ Nenurodyta
 - t-006
   global_id: t-195014
   teiginys: "Klecko mūšis buvo pirmoji stambi lietuvių pergalė po Vedrošos pralaimėjimo ir pirmoji Lietuvos pergalė prieš Krymo totorius apskritai."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys dubliuoja paremtą ir gramatiškai tinkamą faktą."
-  susije_objektai: "llm_object: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_event: [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.)|Klecko mūšis]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Krymas; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Rusija"
-  temporaliniai_duomenys: "mūšio data: 1500-1503; mūšio data: 1503 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Lietuviai dalyvavo mūšyje Klecko mūšis (mūšis, XVI a.)“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Totoriai dalyvavo mūšyje Klecko mūšis (mūšis, XVI a.)“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys dubliuoja paremtą ir gramatiškai tinkamą faktą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "322814-323285; hash=3f2e3d77c76eb44e176673ded915b98322e26fddc4b17cdee24da66560a0da0c; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-43056
 
@@ -143,15 +106,6 @@ Nenurodyta
 - t-006
   global_id: t-195014
   teiginys: "Klecko mūšis buvo pirmoji stambi lietuvių pergalė po Vedrošos pralaimėjimo ir pirmoji Lietuvos pergalė prieš Krymo totorius apskritai."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys dubliuoja paremtą ir gramatiškai tinkamą faktą."
-  susije_objektai: "llm_object: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_event: [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.)|Klecko mūšis]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Krymas; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Rusija"
-  temporaliniai_duomenys: "mūšio data: 1500-1503; mūšio data: 1503 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Lietuviai dalyvavo mūšyje Klecko mūšis (mūšis, XVI a.)“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Totoriai dalyvavo mūšyje Klecko mūšis (mūšis, XVI a.)“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys dubliuoja paremtą ir gramatiškai tinkamą faktą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "322814-323285; hash=3f2e3d77c76eb44e176673ded915b98322e26fddc4b17cdee24da66560a0da0c; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-43056
 
@@ -159,12 +113,6 @@ Nenurodyta
 - t-015
   global_id: t-195015
   teiginys: "Lietuvos metraštis pasakoja, kad prieš Klecko mūšį dėl Stanislovo Petravičiaus Kiškos ligos etmono pareigos buvo pavestos Mykolui Glinskiui."
-  teiginio_tipas: "saltinio_teiginys"
-  sudarymo_pagrindimas: "Taisytina didžioji raidė po „kad“ ir paliekama būtina metraščio atribucija."
-  susije_objektai: "mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_person: [[objektai/asmenys/Kiška|Kiška]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Kaimas; mentioned_place: Lietuva"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "297909-298591; hash=109a63c5a16dd08924164c3d06a150cd84df1b36f78f7b26523c5ccb7c1ccc4c; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177394
     - c-177395
@@ -173,12 +121,6 @@ Nenurodyta
 - t-017
   global_id: t-195016
   teiginys: "Kunigaikštis Mykolas Glinskis ir Lietuvos kariuomenė tą dieną pasiliko prie lavonų, vi są dieną jodinėdami ir vaikydamiesi aplink Ceprą ir už Cepros, paėmė arba nukovė daugybą totorių, sugrįžo į kariuomenės stovyklą prie Klecko, vesdamiesi su sa vimi daug."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "300087-300788; hash=fe954a554a3c59c5bbd9f9665e4dadb7b9fd495875e8e93187491c4d556fed26; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177392
     - c-177395
@@ -187,15 +129,6 @@ Nenurodyta
 - t-016
   global_id: t-195017
   teiginys: "Klecko mūšio aprašymu N. N. Ulaščikas rėmė spėjimą apie Bychovco kronikos kilmę iš Naugarduko ar Slucko krašto."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys yra gramatiškas ir tiksliai perteikia citatos mintį apie Ulaščiko argumentą. Nepridėta Liachovičių ar Alberto Goštauto konteksto, nes jis nėra būtinas šiam faktui."
-  susije_objektai: "mentioned_author: [[objektai/autoriai/N. Ulaščikas|N. Ulaščikas]]; mentioned_place: Naugardukas; mentioned_place: Sluckas; mentioned_place: Lietuva"
-  temporaliniai_duomenys: "įvykio data: 1506 m.; įvykio data: 1522 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir tiksliai perteikia citatos mintį apie Ulaščiko argumentą. Nepridėta Liachovičių ar Alberto Goštauto konteksto, nes jis nėra būtinas šiam faktui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "300087-300788; hash=fe954a554a3c59c5bbd9f9665e4dadb7b9fd495875e8e93187491c4d556fed26; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177392
     - c-177393
@@ -204,12 +137,6 @@ Nenurodyta
 - t-013
   global_id: t-195018
   teiginys: "Lietuvos metraštis pasakoja, kad po Klecko mūšio lietuviai gaudė pabėgusius totorius Slucko, Petrikovičių, Ovručo, Žitomiro ir Volynės keliais."
-  teiginio_tipas: "saltinio_teiginys"
-  sudarymo_pagrindimas: "Reikia konkretesnio, citata paremto sakinio ir aiškaus objekto."
-  susije_objektai: "llm_object: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Volynė; mentioned_place: Žitomiras; mentioned_group: [[objektai/grupes/Korano giminė|Korano giminė]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė|Lietuvos Didžioji Kunigaikštystė]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Mykolas Glinskis|Mykolas Glinskis]]; mentioned_place: Cepra; mentioned_place: Lietuva"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "300811-301582; hash=8cd10fb97e91f0d7a62ed8ad02f804fa9ed9dd2a685e8fcc31483626852f7d33; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177395
 ## Reikšmingi paminėjimai
@@ -220,8 +147,8 @@ Nenurodyta
     nės stovyklą prie Klecko, vesdamiesi su savimi daug belaisvių ir turėdami rankas pilnas
     aukso, ir sidabro, ir ginklų, ir drabužių, ir brangių žirgų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -244,8 +171,8 @@ Nenurodyta
     ir linksmybė“ kaip tik ir perteikia tą ūpo pa-
     kilimą, kuris leido toliau kovoti ir nepalūžti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -272,8 +199,8 @@ Nenurodyta
     mūšis, kuriame esą tik 9000 lietuvių įveikė
     net 27000 totorių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -296,8 +223,8 @@ Nenurodyta
     upėje ir pelkėje, jog lietuviai galėjo joti raiti ir pėsti
     pereiti, lipdami per totorių ir jų arklių lavonus.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -319,8 +246,8 @@ Nenurodyta
     mentų, kuriuo jis rėmė savo spėjimą apie Bychovco
     kronikos kilmę iš Naugarduko ar Slucko krašto.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -342,8 +269,8 @@ Nenurodyta
     vedė tą sykį etmono pareigas kunigaikščiui Mykolui
     Glinskiui ir teikėsi būti visi jam paklusnūs.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -368,8 +295,8 @@ Nenurodyta
     pini neapsakomo džiaugsmo ir linksmybės, ramiai pra­
     leido tą naktį 2 S .
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -566,4 +493,4 @@ Nenurodyta
     - t-195016
 
 ## Ryšiai
-- Turėjo dalyvį: [[objektai/grupes/Lietuvos kariuomenė]], [[objektai/asmenys/Mykolas]], [[objektai/grupes/Totoriai]]
+- Turėjo dalyvį: [[objektai/grupes/Lietuvos kariuomenė]], [[objektai/grupes/Totoriai]]

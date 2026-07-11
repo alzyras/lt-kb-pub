@@ -32,9 +32,6 @@ Valančiaus, VAIKŲ KNYGELĖ. Knygelė skiriama visiems: vaikams ir suaugusiems.
 - t-001
   global_id: t-36119
   teiginys: "Knygelė skiriama visiems: vaikams ir suaugusiems."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "732021-732202; hash=ed9fd6b05f9151484096caa88491e16aadc1be12a11cb9a8772fa422c25f67ae; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-37263
 ## Reikšmingi paminėjimai
@@ -47,8 +44,8 @@ Valančiaus, VAIKŲ KNYGELĖ. Knygelė skiriama visiems: vaikams ir suaugusiems.
     kyti gražiausio mūsų gimtosios galbos stiliaus.
     7.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

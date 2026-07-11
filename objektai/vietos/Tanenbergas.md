@@ -36,17 +36,6 @@ Ordino siena su Lietuva nusistojo tik po Tanenbergo mūšio ir Torno taikos (ži
 - t-002
   global_id: t-186422
   teiginys: "Sąjungininkai, paėmę Gilgenburgą, žygiavo Tanenbergo kryptimi."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "928507-928804; hash=122067596100b247d5eef8e0367e9626919d26a86f5a4905087f324964ed3d0b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Drevenca: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Tanenbergas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Drevenca: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tanenbergas\" parinktas kaip owner_note_path. Targetas \"Drevenca\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-169760
 
@@ -54,12 +43,6 @@ Ordino siena su Lietuva nusistojo tik po Tanenbergo mūšio ir Torno taikos (ži
 - t-003
   global_id: t-193235
   teiginys: "Ordino siena su Lietuva nusistojo tik po Tanenbergo mūšio ir Torno taikos (žiūr."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "1197139-1197414; hash=6823e51029330f8a06ed64db9d82a2461604e743c64182a8aa1fc4771d0489c4; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-175972
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176728|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas buvo karo tarybos pirmininkas ir tikrasis Tanenbergo mūšio vadas.
@@ -88,8 +71,8 @@ Ordino siena su Lietuva nusistojo tik po Tanenbergo mūšio ir Torno taikos (ži
     pulkus, magistras iš pabėgėlių patyrė, jog sąjungininkai, paėmę
     Gilgenburgą, žygiavo Tannenbergo kryptimi.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -105,8 +88,8 @@ Ordino siena su Lietuva nusistojo tik po Tanenbergo mūšio ir Torno taikos (ži
     bet jau kitokio pobūdžio: tai buvo paprasti dviejų valstybių
     karai, o ne krašto teriojimas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

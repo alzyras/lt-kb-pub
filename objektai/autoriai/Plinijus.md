@@ -31,21 +31,6 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
 - t-001
   global_id: t-190376
   teiginys: "Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie Baltijos jūros."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "176897-177279; hash=715dbb3a7bd4520960790418870ec4a3a60ac494451b0fb26462b6ded3bf78b0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Baltija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Plinijus: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Baltija: mention_match, place, gap=62"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Plinijus\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173259
 
@@ -53,22 +38,6 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
 - t-002
   global_id: t-190377
   teiginys: "Narbutas Plinijumi grindė teiginį, kad romėnų laivai prieš Kristaus gimimą plaukiojo Baltijos jūroje."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Laivai priklausė Romėnai (0.86); Romėnai keliavo į Baltija (0.74)"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "370360-370666; hash=bd8f8f299fb19585ca8ed7c981c66f1417bd68b7d9bbbc2fc6b7f1b489f10bae; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Romėnai: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Laivai: llm_allowed_candidate, thing"
-  ryšio_targeto_parinkimas: "Romėnai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Posakis „romėnų laivai“ tiesiogiai priskiria laivus romėnams."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173260
 
@@ -76,22 +45,6 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
 - t-003
   global_id: t-190778
   teiginys: "Teodoro Narbuto pasakojime Plinijus spalius lokalizavo kairiojoje Dono pakrantėje, prie Kimerijos Bosporo."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Gotai keliavo į Azovas (0.56)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "152820-153339; hash=f707c6c3955d14d7a584fcc5e3432478139f9bb451252233de4f25195198995d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Azovas: 0.56"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gotai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Azovas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata sako, kad spalių dalis keliavo su gotais nuo Azovo jūros; kryptis į Azovą nėra aiški, todėl ryšys tik vidutinio tikrumo."
-  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173660
 
@@ -99,21 +52,6 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
 - t-004
   global_id: t-190779
   teiginys: "Teodoras Narbutas pažymi, kad Diodoras Sicilietis, Mela ir Plinijus, rėmęsi Šiaurės jūrų kelionių aprašymais, estų neminėjo."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "158973-159494; hash=16bc2db0a453ac57fad6c21ffe033dc31c2459ab41d1f94ec46064c1160dedff; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Estai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Plinijus: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Estai: mention_match, group, gap=51"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Plinijus\" parinktas kaip owner_note_path. Targetas \"Estai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173661
 
@@ -121,21 +59,6 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
 - t-005
   global_id: t-190780
   teiginys: "Teodoro Narbuto pasakojime Plinijus Hilleviones vadino labai gausia Skandinavijoje gyvenusia žmonių grupe."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "166914-167279; hash=731e6453a372511bad92bb06163a307b1283db76db4827c29e1e06d64ea07a96; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Skandinavija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Plinijus: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Skandinavija: mention_match, place, gap=41"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Plinijus\" parinktas kaip owner_note_path. Targetas \"Skandinavija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173662
 
@@ -143,21 +66,6 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
 - t-006
   global_id: t-190781
   teiginys: "Teodoras Narbutas cituoja Plinijų, kad sarmatai, venedai, skirtai ir tūriai gyveno iki Vyslos."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "180488-180806; hash=faca8aebff7dfd54609e1f39a98f1669026d674414f7acefa148c6acb16cb649; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vysla: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Plinijus: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Vysla: mention_match, place, gap=61"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Plinijus\" parinktas kaip owner_note_path. Targetas \"Vysla\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173663
 
@@ -165,21 +73,6 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
 - t-007
   global_id: t-190782
   teiginys: "Teodoro Narbuto pasakojime Plinijus užrašė Archelajo pasakojimą apie gintaro žaliavą, dar neatskirtą nuo medžių žievės."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "266929-267315; hash=1e5a864d8a1c53ed776603755104793ec64fc586b55b2f731a9beb0cfa1bc1b5; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Archelajas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Plinijus: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Archelajas: mention_match, person, gap=16"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Plinijus\" parinktas kaip owner_note_path. Targetas \"Archelajas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173664
 
@@ -187,21 +80,6 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
 - t-009
   global_id: t-190784
   teiginys: "Teodoro Narbuto teigimu, Plinijaus Baltija pagal Hardua rankraščius ir stebėjimus turėtų vadintis Basilia."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "602967-603312; hash=23f097c4b55e5a285a3d5087b9241cad6dec071025e2782584562b6ca7922d1f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Baltija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Plinijus: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Baltija: mention_match, place, gap=10"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Plinijus\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173666
 
@@ -209,21 +87,6 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
 - t-010
   global_id: t-190785
   teiginys: "Teodoro Narbuto pasakojime Plinijus mini Carcine įlanką ir to paties pavadinimo miestelį prie Boristenio ir Bugo žiočių."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "682816-683465; hash=fc2a3a1b9310003a026fcda025e62f47c54388d2cb206f0eae6f31480da96ec3; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Skitija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Plinijus: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Skitija: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Plinijus\" parinktas kaip owner_note_path. Targetas \"Skitija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173667
 
@@ -231,21 +94,6 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
 - t-011
   global_id: t-191903
   teiginys: "Teodoro Narbuto vertinimu, tyrinėtojai nuo Plinijaus kompiliacijų iki Uphageno klydo prielaidose apie skirių ir hirių gentis."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "489725-490267; hash=7d87c8dec0d1eace38f672af8a3d9d74457f8d03d7e8c33a77f6085e637ba606; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Hiriai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Plinijus: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Hiriai: mention_match, group, gap=69"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Plinijus\" parinktas kaip owner_note_path. Targetas \"Hiriai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174785
 ## Reikšmingi paminėjimai
@@ -265,8 +113,8 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
     binamoji saulė buvo vadinama Kovos. Apie tai plačiai kalba
     ponas Riteris savo Siaurės senovės tyrimuose15.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -284,8 +132,8 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
     šius su Prūsijos gyventojais, renkančiais gintarą, taip pat tie­
     sa7.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -306,8 +154,8 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
     karų šalis nuo Azovo jūros, o vėliau visi ar galbūt veik­
     lesnė jų dalis keliavo su gotais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -328,8 +176,8 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
     nijus, rėmęsis Pitėjo ir kitais kelionių Šiaurės jūromis
     aprašymais, estų nemini.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -348,8 +196,8 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
     ma lengvai įžvelgti lyvių protėvius, priklausiusius keltų-
     gerrnanų tautoms.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -366,8 +214,8 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
     riai gyvena net ligi Vyslos“1. Taip išdėsčius dalyką, ar
     sugebės kas nors nubraižyti šių tautų žemėlapį?
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -386,8 +234,8 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
     mą, kad iš Indijos atvežama gintaro žaliavos, dar neat­
     skirtos nuo medžių žievės1.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -405,8 +253,8 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
     roje, Austraviją, arba Glesariją, nurodo esant fryzų sala
     Amelandu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -429,8 +277,8 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
     nemokėjo rasti vietos jo Carcinites** įlankai ir to paties
     pavadinimo miestui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -452,8 +300,8 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
     ra vertus, tektų kartoti tai, ką jau rašėme arba ketiname
     vėliau parašyti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -486,7 +334,8 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
 - id: c-173260
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 217"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 217."
   citata_originali: |
     Reikėtų surasti vidurį tarp tų dviejų
     kraštutinumų.
@@ -505,7 +354,8 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
 - id: c-173660
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 85"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 85."
   citata_originali: |
     Apie šią tautą senovės ty­
     rinėtojai ničnieko neaiškina. Plinijus rašo, kad spaliai
@@ -527,7 +377,8 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
 - id: c-173661
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 89"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 89."
   citata_originali: |
     Vėliau kalbėsime apie šio astronomo
     keliones, o dabar pasakysime tik tiek, jog visas jo apra­
@@ -549,7 +400,8 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
 - id: c-173662
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 93"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 93."
   citata_originali: |
     Ta­
     citas mini Helvecones4, kurie, kaip sako kai kurie tyrinė­
@@ -569,7 +421,8 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
 - id: c-173663
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 101"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 101."
   citata_originali: |
     Pagaliau, papildydamas aprašymą, cituoju tą
     patį autorių: Welti, Hossii ir Karbony, — tai toliau į
@@ -587,7 +440,8 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
 - id: c-173664
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 148"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 148."
   citata_originali: |
     Tie medžiai,
     neteisingai laikomi medį mėgdžiojančiomis iškasenomis,
@@ -607,7 +461,8 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
 - id: c-173666
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 336"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 336."
   citata_originali: |
     Sala, kurią Plinijus vadina Baltija, remdamasis visais
     Hardua rankraščiais ir stebėjimais, turėtų vadintis Basi-
@@ -626,7 +481,8 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
 - id: c-173667
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 376"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 376."
   citata_originali: |
     Iš tiesų žinoma ir Plinijaus užrašyta geografinė medžia­
     ga (Lib. IV. C. 12, 13), kur minima jūros įlanka Carcine
@@ -650,7 +506,8 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
 - id: c-174785
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 275"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 275."
   citata_originali: |
     Galbūt ir
     lietuvių kalba jie vadinosi skiriais, nes esama panašiai

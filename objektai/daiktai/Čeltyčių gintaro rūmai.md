@@ -45,22 +45,6 @@ Nenurodyta
 - t-001
   global_id: t-189756
   teiginys: "Narbutas Čeltyčias vaizdavo kaip Baltijos jūros nimfas, pajūrio žemaičių vaizduotėje gyvenusias gintaro rūmuose jūros gelmėse."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Čeltyčios gyveno Baltija (0.72)"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "263982-264344; hash=11b81c9f8a6169cd3930bf7f73b102c0f5a547b10a3c015f320c85791b55587b; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Baltija: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Čeltyčios: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Baltija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Čeltyčios apibūdintos kaip Baltijos jūros vandenų būtybės, todėl ryšys su Baltija tiesiogiai paremtas, bet gyvenimo ryšys yra interpretacinis."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172639
 ## Reikšmingi paminėjimai
@@ -81,8 +65,8 @@ Nenurodyta
     met iš ten nebesugrįždavo . Tų deivių karalienės vardas buvo
     Jūratė .
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

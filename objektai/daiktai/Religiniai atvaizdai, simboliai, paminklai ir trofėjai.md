@@ -45,14 +45,6 @@ Nenurodyta
 - t-001
   global_id: t-189743
   teiginys: "Narbutas aiškina, kad religiniai atvaizdai, simboliai, paminklai ir trofėjai, pažymėti tikėjimo ženklu, susiliejo su religija."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "147573-148083; hash=d108777b1de1a4187f9c9026a6bdbabcf63590c88a64f5920668d432ce809515; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172626
 ## Reikšmingi paminėjimai
@@ -71,8 +63,8 @@ Nenurodyta
     žmonių pareigų jo atžvilgiu pažinimui, virto esybėmis, garbi­
     namomis su smilkytuvu rankose“1.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -83,7 +75,8 @@ Nenurodyta
 - id: c-172626
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 82"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 82."
   citata_originali: |
     Dėl to buvo išrasti atvaizdai, sim­
     boliai, paminklai, trofėjai. Jie, pažymėti tikėjimo ženklu, susi­

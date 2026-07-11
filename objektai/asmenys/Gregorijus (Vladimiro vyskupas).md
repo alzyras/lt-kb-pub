@@ -34,17 +34,6 @@ Bonifacas IX parėmė Vytauto pastangas plėsti katalikybę ir stačiatikių tar
 - t-001
   global_id: t-35082
   teiginys: "Bonifacas IX domininkoną Gregorijų paskyrė Vytauto įkurtos Vladimiro vyskupijos Volynijoje vyskupu."
-  semantiniai_rysiai: "Bonifacas IX paskyrė Gregorijus (Vladimiro vyskupas) (0.95); Bonifacas IX rėmė Vytautas (Lietuvos valdovas, XIV–XV a.) (0.91)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "271663-272260; hash=63e69e69ff7a8bfa8ed5e0fb654610ceb9107b6fc466755ad313b9a023fc00ad; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "paskyre -> Gregorijus (Vladimiro vyskupas): 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Bonifacas IX: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Gregorijus (Vladimiro vyskupas): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Bonifacas IX paskyrė Gregorijų vyskupu."
   pagrindžia:
     - c-38022
 - susijęs iš [[objektai/grupes/Domininkonų ordinas.md#claim-t-112511|Domininkonų ordinas]]: Bonifacas IX Vladimiro vyskupu paskyrė domininkoną Gregorijų ir taip parėmė Vytauto pastangas plėsti katalikybę.
@@ -66,8 +55,8 @@ Bonifacas IX parėmė Vytauto pastangas plėsti katalikybę ir stačiatikių tar
     ir nesigirdėjo bažnyčios varpų, šaukiančių melstis tikrajam
     Dievui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

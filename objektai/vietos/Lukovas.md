@@ -33,9 +33,6 @@ Turčinas, keisdamas lietuviškas monetas į lenkiškas, Lukove prie 20 lietuvi�
 - t-001
   global_id: t-86082
   teiginys: "Lukove Turčinas, keisdamas lietuviškas monetas į lenkiškas, prie 20 lietuviškų kapų pridėjo 2 florinus ir 20 grašių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "826496-826628; hash=1ef8313ac508f3a6456a5b98b019752738e6faa090a18f6077625c26c4313cdf; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-82061
 
@@ -43,20 +40,6 @@ Turčinas, keisdamas lietuviškas monetas į lenkiškas, Lukove prie 20 lietuvi�
 - t-002
   global_id: t-185035
   teiginys: "Vytenis, nuniokojęs Lukovo apygardas, nuvedė kariuomenę į Sandomiro žemę."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Vytenis surengė žygį į Sandomiras (0.90); Vytenis puolė Lukovas (0.86); Vytenis kariavo prieš Lenkai (0.75)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "259337-260290; hash=72f41166a579b8ea41460fca826150dce92d8ef92ee0eadb8439f5e3b7de4f69; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "surenge_zygi_i -> Sandomiras: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytenis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Sandomiras: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Vytenis nuvedė kariuomenę į Sandomiro žemę."
   pagrindžia:
     - c-168396
 - susijęs iš Sandomiras: Vytenis, nuniokojęs Lukovo apygardas, nuvedė kariuomenę į Sandomiro žemę ir siaubė jos kaimus bei dvarus.
@@ -83,8 +66,8 @@ Turčinas, keisdamas lietuviškas monetas į lenkiškas, Lukove prie 20 lietuvi�
     Turčinas, keisdamas lietuviškas monetas į lenkiškas, Lu-
     kove prie 20 lietuviškų kapų pridėjo 2 flor. 20 grašių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -114,8 +97,8 @@ Turčinas, keisdamas lietuviškas monetas į lenkiškas, Lukove prie 20 lietuvi�
     vaikų, be kito grobio, išsivarė šešis tūkstančius žmo­
     nių.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -142,7 +125,8 @@ Turčinas, keisdamas lietuviškas monetas į lenkiškas, Lukove prie 20 lietuvi�
 - id: c-168396
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 152"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 152."
   citata_originali: |
     Staigiai ir be var­
     go iškilęs į valdžios viršūnes, Vytenis turėjo pamato
@@ -169,6 +153,3 @@ Turčinas, keisdamas lietuviškas monetas į lenkiškas, Lukove prie 20 lietuvi�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185035
-
-## Ryšiai
-- Puolė Lukovą: [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]]

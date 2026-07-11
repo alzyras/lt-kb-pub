@@ -40,19 +40,6 @@ media_all_json: |-
 - t-004
   global_id: t-69891
   teiginys: "1923 m. sausio 19 d. Vyriausiasis Mažosios Lietuvos gelbėjimo komitetas Šilutėje sušaukė vadinamąjį Visuotinį seimą."
-  temporaliniai_duomenys: "įvykio data: 1923 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas, aiškus ir tiesiogiai pagrįstas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "883416-883738; hash=57497b130bb86b355ea6743479c49789ad6d42c0e1c8b162a7f040bb98c0da55; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Abiejų Tautų Respublika: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Šilutė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Abiejų Tautų Respublika: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šilutė\" parinktas kaip owner_note_path. Targetas \"Abiejų Tautų Respublika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-44088
 
@@ -60,19 +47,6 @@ media_all_json: |-
 - t-003
   global_id: t-69893
   teiginys: "1923 m. sausio 9 d. Vyriausiasis Mažosios Lietuvos gelbėjimo komitetas Šilutėje paskelbė manifestą, kuriuo buvo pranešta, jog Krašto direktorija yra nušalinama, valdžią į savo rankas perima Valstybės taryba."
-  temporaliniai_duomenys: "įvykio data: 1923 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys ir atitinka citatos informaciją."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "879009-879453; hash=9b9c844f6262b1c534320b4cab5a2d2e9a5c5ca6a2857fca393deb6a191535c5; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Valstybės Taryba: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Šilutė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Valstybės Taryba: mention_match, group, gap=119"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šilutė\" parinktas kaip owner_note_path. Targetas \"Valstybės Taryba\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-44087
 
@@ -80,12 +54,6 @@ media_all_json: |-
 - t-005
   global_id: t-193788
   teiginys: "Sukilėlių pajėgos Vyriausiasis Mažosios Lietuvos gelbėjimo komitetas įsikūrė Šilutėje."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "878426-878676; hash=c151b17af1b5e1e7965e01fb5db39c0a7bdcb6b381d095d088845b0a805c87ca; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-44086
 - susijęs iš Šilutės deklaracija: 1923 m. sausio 19 d. Šilutėje sušauktame Visuotiniame seime krašto atstovai vienbalsiai priėmė Šilutės deklaraciją.
@@ -108,8 +76,8 @@ media_all_json: |-
     ties rinktinę, jos štabo viršininku paskyrė
     Oksą (kpt. Juozą Tomkų).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -131,8 +99,8 @@ media_all_json: |-
     rija yra nušalinama, valdžią į savo
     rankas perima Valstybės taryba.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -155,8 +123,8 @@ media_all_json: |-
     kuria buvo nutarta autonomijos teisėmis
     prisijungti prie Lietuvos respublikos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

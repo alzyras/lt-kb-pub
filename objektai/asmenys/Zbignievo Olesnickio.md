@@ -33,12 +33,6 @@ Dlugošas turėjo žinių ir iš kitų dalyvių, pasižymėjusių riterių, kaip
 - t-001
   global_id: t-195000
   teiginys: "Dlugošas turėjo žinių ir iš kitų dalyvių, pasižymėjusių riterių, kaip Zbignievo Olesnickio."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "926831-927040; hash=f7b8f52c51f4afd70790bd715e8a065d8adc09f2fdb6c2314d4efccffa1d1a24; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177382
 ## Reikšmingi paminėjimai
@@ -52,8 +46,8 @@ Dlugošas turėjo žinių ir iš kitų dalyvių, pasižymėjusių riterių, kaip
     Zbignievo Olesnickio. Pagal kronikininką, karalius formaliai skai­
     tėsi vyriausiuoju vadu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

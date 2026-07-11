@@ -32,16 +32,6 @@ Dusburgietis teigia, kad vieną gražią dieną, bėgdamas nuo žmonių spūstie
 - t-001
   global_id: t-60266
   teiginys: "Ditrichas iš Gruningeno kartu su Hartmanu iš Heldrungeno buvo Teneburgo pilyje, kur Konradas ieškojo ramybės."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "701606-702097; hash=5e5359ec69d82a55ff098a5be01f6c0c6775e5e82b35a5326cf06976e343e303; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Hartmanas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ditrichas iš Gruningeno: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Hartmanas: mention_match, person, gap=33"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ditrichas iš Gruningeno\" parinktas kaip owner_note_path. Targetas \"Hartmanas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-60898
 ## Reikšmingi paminėjimai
@@ -57,8 +47,8 @@ Dusburgietis teigia, kad vieną gražią dieną, bėgdamas nuo žmonių spūstie
     ten kartą, kai jie visi sėdėjo drauge, atėjo viena paleistuvė, kurią landgrafas paklausė:
       597 D.— Deneburgk — Teneburgas į pietvakarius nuo Gotos.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -69,7 +59,8 @@ Dusburgietis teigia, kad vieną gražią dieną, bėgdamas nuo žmonių spūstie
 - id: c-60898
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 230"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 230."
   citata_originali: |
     Vis dėlto niekas jo nepalietė, išskyrus vieną senutę, kuri jam sukirto daug smūgių.
     Šitaip brolis Konradas palinko  į Teutonų namų ordiną. Vieną gražią dieną, bėgdamas

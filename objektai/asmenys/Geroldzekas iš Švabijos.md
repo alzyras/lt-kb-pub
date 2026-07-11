@@ -42,20 +42,6 @@ Atskirus pulkus vedė: Silezijos kunigaikštis Bernardas iš Svidnicos, grafas G
 - t-001
   global_id: t-87679
   teiginys: "1322 m. žiemą grafas Geroldzekas iš Švabijos vedė vieną iš atskirų kryžiuočių ekspedicijos į Prūsiją pulkų."
-  semantiniai_rysiai: "Geroldzekas iš Švabijos surengė žygį į Prūsija (0.70)"
-  temporaliniai_duomenys: "įvykio data: 1322 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Reikia sutelkti teiginį į note minimą asmenį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "157341-157685; hash=0688e02507c1f3a89f95d457d731ed49d69f4990eb86246c06ace9e782c2b545; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "surenge_zygi_i -> Prūsija: 0.70"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Geroldzekas iš Švabijos: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Geroldzekas vedė vieną iš atskirų ekspedicijos į Prūsiją pulkų."
   pagrindžia:
     - c-83658
 ## Reikšmingi paminėjimai
@@ -73,8 +59,8 @@ Atskirus pulkus vedė: Silezijos kunigaikštis Bernardas iš Svidnicos, grafas G
     iš Lichtenbergo, taip pat Plihta su savo broliu iš Čekijos ir
     daug kitų riterių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -102,6 +88,3 @@ Atskirus pulkus vedė: Silezijos kunigaikštis Bernardas iš Svidnicos, grafas G
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87679
-
-## Ryšiai
-- Geroldzekas iš Švabijos surengė žygį į [[objektai/vietos/Prūsija]]

@@ -44,16 +44,6 @@ Prie jų dar prisidėjo Austrijos Juozapas II. Čartoriskius, darančius reforma
 - t-018
   global_id: t-182067
   teiginys: "Per Abiejų Tautų Respublikos padalijimus Kotryna II trečdalį padalytos valstybės turėjo užleisti Prūsijai ir Austrijai."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "85363-85701; hash=ac6384c4e7510ba7804c10e6ce999d025a73a24a98551d6c53bac4bbb8324499; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Abiejų Tautų Respublika: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Austrija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Abiejų Tautų Respublika: mention_match, group, gap=105"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Austrija\" parinktas kaip owner_note_path. Targetas \"Abiejų Tautų Respublika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-165561
 
@@ -61,12 +51,6 @@ Prie jų dar prisidėjo Austrijos Juozapas II. Čartoriskius, darančius reforma
 - t-002
   global_id: t-182996
   teiginys: "Austrijos Juozapas II vykdė reformas, kuriomis net Bažnyčią pajungė valstybės valdžiai."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "809142-809395; hash=4a1a50d2f6af4bbed316e01c6533046c69e8f581658c25428910d4c25b5d7813; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-24050
 - susijęs iš [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu.md#claim-t-59880|Bertoldas, vadinamas Briuhavenu]]: 1289 m. Meinhardas Ragainės piliai ginti paliko iš Austrijos kilusį komtūrą Bertoldą Briuhaveną su 40 brolių ir 100 ginklanešių.
@@ -243,8 +227,8 @@ Prie jų dar prisidėjo Austrijos Juozapas II. Čartoriskius, darančius reforma
     mas valstybės valdžiai (jozefinizmas). Dėl šitų reiškinių visas perio-
     das vadinamas šviesiojo absoliutizmo laikotarpiu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -261,8 +245,8 @@ Prie jų dar prisidėjo Austrijos Juozapas II. Čartoriskius, darančius reforma
     kurios trečdalį ji turėjo užleisti Prūsijai ir Austrijai. Tai sudarė
     visai naują epochą Lietuvos istorijoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -303,8 +287,3 @@ Prie jų dar prisidėjo Austrijos Juozapas II. Čartoriskius, darančius reforma
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182067
-
-## Ryšiai
-- Buvo valdoma: [[objektai/asmenys/Albrechtas (Rudolfo sūnus)]]
-- Gimimo vieta: [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu]]
-- Turėjo priklausinį: [[objektai/vietos/Galicija]]

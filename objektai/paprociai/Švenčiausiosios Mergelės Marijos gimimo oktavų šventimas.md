@@ -59,20 +59,6 @@ Nenurodyta
 - t-001
   global_id: t-62178
   teiginys: "1245 m. Lione sušauktame popiežiaus suvažiavime nutarta švęsti Švenčiausiosios Mergelės Marijos gimimo oktavas."
-  teiginio_tipas: "faktas"
-  temporaliniai_duomenys: "įvykio data: 1245 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalintas antraštės ir bibliografinis triukšmas, paliktas citatos remiamas faktas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "700273-700497; hash=2b3459319f9e321342b9bd1c0c135a5439a01a49fe6711865c6082234cfae54b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lionas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Švenčiausiosios Mergelės Marijos gimimo oktavų šventimas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lionas: mention_match, place, gap=55"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Švenčiausiosios Mergelės Marijos gimimo oktavų šventimas\" parinktas kaip owner_note_path. Targetas \"Lionas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-62634
 
@@ -80,20 +66,6 @@ Nenurodyta
 - t-001
   global_id: t-62178
   teiginys: "1245 m. Lione sušauktame popiežiaus suvažiavime nutarta švęsti Švenčiausiosios Mergelės Marijos gimimo oktavas."
-  teiginio_tipas: "faktas"
-  temporaliniai_duomenys: "įvykio data: 1245 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalintas antraštės ir bibliografinis triukšmas, paliktas citatos remiamas faktas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "700273-700497; hash=2b3459319f9e321342b9bd1c0c135a5439a01a49fe6711865c6082234cfae54b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lionas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Švenčiausiosios Mergelės Marijos gimimo oktavų šventimas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lionas: mention_match, place, gap=55"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Švenčiausiosios Mergelės Marijos gimimo oktavų šventimas\" parinktas kaip owner_note_path. Targetas \"Lionas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-62634
 
@@ -101,12 +73,6 @@ Nenurodyta
 - t-003
   global_id: t-194447
   teiginys: "Apie švenčiausiosios Marijos gimimo oktavos įsteigimą 1245 viešpaties metais tas pats popiežius sušaukė Lione suvažiavimą, kur nutarė švęsti švenčiausiosios mergelės Marijos gimimo oktavas (Ptol."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "700273-700497; hash=2b3459319f9e321342b9bd1c0c135a5439a01a49fe6711865c6082234cfae54b; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-62634
 ## Reikšmingi paminėjimai
@@ -123,8 +89,8 @@ Nenurodyta
 
                 31.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -137,7 +103,8 @@ Nenurodyta
 - id: c-62634
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 230"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 230."
   citata_originali: |
     Apie švenčiausiosios Marijos gimimo oktavos įsteigimą
 

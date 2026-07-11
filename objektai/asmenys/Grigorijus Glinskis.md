@@ -30,12 +30,6 @@ media_all_json: |-
 - t-001
   global_id: t-194134
   teiginys: "\" Grigorijus Glinskis — Boriso Ivanovičiaus Glinskio sūnus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "645320-645442; hash=f9971ff2d6bc9a7b64257579549edc5958481fa36fdaca40f7aeca068be9de1a; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176747
 ## Reikšmingi paminėjimai
@@ -47,8 +41,8 @@ media_all_json: |-
     "  Grigorijus Glinskis — Boriso Ivanovičiaus Glinskio sūnus.
     Gyvenimas mažai žinomas. N uo 14% m. buvo Ovručo vietininku.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

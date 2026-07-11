@@ -40,24 +40,6 @@ Andrius Droždža 1498 m. gavo didžiojo kunigaikščio taurininko pareigas ir v
 - t-001
   global_id: t-187561
   teiginys: "Andrius Droždža 1498 m. gavo didžiojo kunigaikščio taurininko pareigas ir vyko su diplomatine misija pas totorius."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1498 m.; įvykio data: 1500 m.; įvykio data: apie 1500 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai susieja Andrių Droždžą su didžiojo kunigaikščio taurininko pareigomis ir diplomatine misija. Papildomų biografinių detalių iš citatos nepridėta."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "649176-649611; hash=3f9ed57b87235d92c31219d8d2ba6506341516401019aff31f0c1bda94dea17c; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Totoriai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "taurininkas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Totoriai: mention_match, group, gap=54"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"taurininkas\" parinktas kaip owner_note_path. Targetas \"Totoriai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-16T16:17:41Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-170511
 - susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-103052|Jurgis Radvila (vyskupas, XVI a.)]]: Jurgis Radvila, tuometinis Kijevo vaivada ir LDK taurininkas, vadovavo ne mažiau kaip 8000 lietuvių pašauktinių bajorų.
@@ -78,8 +60,8 @@ Andrius Droždža 1498 m. gavo didžiojo kunigaikščio taurininko pareigas ir v
     totorius, o  apie 1500 m. tajio Vilniaus žirgininku ir gavo valdyti
     Belicą (1503) ir Zblianus prie Lydos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

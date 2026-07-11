@@ -48,19 +48,6 @@ P. Šležas minimas kaip autorius ir redaktorius; jam priskiriami darbai Lietuvo
 - t-010
   global_id: t-64799
   teiginys: "P. Šležas 1937 m. leidinyje „Naujoji Romuva“ paskelbė straipsnį „Lietuvos krikštas“."
-  temporaliniai_duomenys: "įvykio data: 1937 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pateikia autoriaus, straipsnio, leidinio ir metų duomenis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "962482-962827; hash=7a39e0578a75855490970fc9386d364849c0a8cfae9420db366e2232c67ff10f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "P. Šležas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=65"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"P. Šležas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-30804
 
@@ -68,19 +55,6 @@ P. Šležas minimas kaip autorius ir redaktorius; jam priskiriami darbai Lietuvo
 - t-009
   global_id: t-64800
   teiginys: "P. Šležas 1930 m. redagavo kolektyvinę monografiją apie Vytautą Didįjį."
-  temporaliniai_duomenys: "įvykio data: 1930 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata aiškiai sieja Šležą su 1930 m. kolektyvinės monografijos redagavimu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "175847-176702; hash=5878d2f9f291f2b328da52e505d6026afc0c4716f84e6a4d5e46aca711cded6a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kaunas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "P. Šležas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Kaunas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"P. Šležas\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-30803
 
@@ -88,16 +62,6 @@ P. Šležas minimas kaip autorius ir redaktorius; jam priskiriami darbai Lietuvo
 - t-006
   global_id: t-64801
   teiginys: "Turinyje P. Šležui priskiriami skyriai „Vytauto santykiai su Lenkija“ ir „Vytauto konfliktas su Lenkija dėl karūnacijos“."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1745-1887; hash=e7cb0244497a2608ce2e2c1ad5d6c7ea30637005cfe2e8f3337df220761a0ff3; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "P. Šležas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=52"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"P. Šležas\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-13685
 - susijęs iš [[objektai/autoriai/P. Klimas.md#claim-t-00063|P. Klimas]]: P. Klimas parašė veikalo dalį apie nepriklausomosios valstybės atstatymą ir gyvenimą.
@@ -116,8 +80,8 @@ P. Šležas minimas kaip autorius ir redaktorius; jam priskiriami darbai Lietuvo
     P. Šležas. Vytauto santykiai su Lenkija ....................... 141
     P. Šležas. Vytauto konfliktas su Lenkija dėl karūnacijos ............. 205
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -141,8 +105,8 @@ P. Šležas minimas kaip autorius ir redaktorius; jam priskiriami darbai Lietuvo
     Navakienė, V. Trumpa). Lietuvos istorikų eiles papildė užsienyje
     iš Lietuvos istorijos savo disertacijas rašiusieji (M. Krasauskaitė,
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -159,8 +123,8 @@ P. Šležas minimas kaip autorius ir redaktorius; jam priskiriami darbai Lietuvo
     ker, K. : Die Kirchenpolitik der Jagiellonem, Zeitschr. f. Kirchenge-
     schichte, t. 10, 1928, 357-368 p.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

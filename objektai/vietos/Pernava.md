@@ -34,17 +34,6 @@ Li­ vonijos pilys: Marienhausenas, Lutzenas, Švarcenburgas, Rosytė, Dinaburga
 - t-001
   global_id: t-86305
   teiginys: "Pernava nurodyta kaip viena iš Livonijos pilių."
-  semantiniai_rysiai: "Pernava priklausė Livonija (0.84)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "619842-620855; hash=f1a2fa39aed23ce7e5d575b637faa03778ade0edc4f85e82cd7f32324870af71; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Livonija: 0.84"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Pernava: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Livonija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Pernava įvardyta kaip viena iš Livonijos pilių, todėl priklausomybės ryšys yra tiesiogiai pagrįstas."
   pagrindžia:
     - c-82284
 ## Reikšmingi paminėjimai
@@ -78,8 +67,8 @@ Li­ vonijos pilys: Marienhausenas, Lutzenas, Švarcenburgas, Rosytė, Dinaburga
     Volmera, Vendenė, Kokenhauzenas, Rundborgas, Diuna-
     mundė, Ryga, Šmetenė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -122,6 +111,3 @@ Li­ vonijos pilys: Marienhausenas, Lutzenas, Švarcenburgas, Rosytė, Dinaburga
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86305
-
-## Ryšiai
-- Pernava priklausė [[objektai/vietos/Livonija]]

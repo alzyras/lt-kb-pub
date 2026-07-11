@@ -30,22 +30,6 @@ Narbutas rašė matęs kapo laužą kairiajame Nemuno krante, prie kelio iš Kau
 - t-001
   global_id: t-188950
   teiginys: "Narbutas rašė matęs kapo laužą kairiajame Nemuno krante, prie kelio iš Kauno į Prienus, važiuodamas per Išlaužą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Laužas priklausė Išlaužas (0.63)"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "648468-648986; hash=e57cb3c1bf7eca7e8e776002897872ca2324b164b4a0d7de1727083d6d90dc01; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Išlaužas: 0.63"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Laužas: llm_allowed_candidate, thing"
-  ryšio_targeto_parinkimas: "Išlaužas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys laužo matymo vietą sieja su važiavimu per Išlaužą."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171839
 - susijęs iš Nemunas: Narbutas rašė matęs laužą kairiajame Nemuno krante, prie kelio iš Kauno į Prienus per Išlaužą.
@@ -66,8 +50,8 @@ Narbutas rašė matęs kapo laužą kairiajame Nemuno krante, prie kelio iš Kau
     gus, išsaugojęs vietinį dievobaimingumą, eidamas pro laužą,
     turi rūpestingai užmesti ant jo kokią nors šakelę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -78,7 +62,8 @@ Narbutas rašė matęs kapo laužą kairiajame Nemuno krante, prie kelio iš Kau
 - id: c-171839
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 366"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 366."
   citata_originali: |
     Šiuo atveju, kadangi tokių atsitikimų dažniausiai
     pasitaikydavo miške, kapą pridengia laužu iš kokių nors me­
@@ -95,6 +80,3 @@ Narbutas rašė matęs kapo laužą kairiajame Nemuno krante, prie kelio iš Kau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188950
-
-## Ryšiai
-- Turėjo priklausinį: [[objektai/daiktai/Laužas]]

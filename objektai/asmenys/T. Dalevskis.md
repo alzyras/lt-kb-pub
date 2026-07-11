@@ -40,18 +40,6 @@ Dalevskiui, K.
 - t-001
   global_id: t-40451
   teiginys: "T. Dalevskiui buvo įvykdyta egzekucija kartu su B. Kolyška, Z. Sierakausku, K. Kalinausku, A. Mackevičiumi ir kitais."
-  temporaliniai_duomenys: "įvykio data: 1864 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "675237-675596; hash=dae28f04dff331896f467d2311ee55f0c9ce3718217f0729a85ae69ccc3f5b46; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> egzekucija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "T. Dalevskis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "egzekucija: mention_match, thing, gap=28"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"T. Dalevskis\" parinktas kaip owner_note_path. Targetas \"egzekucija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-44526
 ## Reikšmingi paminėjimai
@@ -69,8 +57,8 @@ Dalevskiui, K.
     kilėlių kova vis labiau silpo, kol galiau-
     siai 1864 m. pabaigoje visai išblėso.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -45,12 +45,6 @@ Nenurodyta
 - t-001
   global_id: t-194079
   teiginys: "Ant šio kalno XII a, buvo įkurtas benediktinų vienuolynas ir bažnyčia, kurioje buvo saugoma relikvija — kryžius su tariamai stebuklingu Jėzaus Kristaus kryžiaus medžio gabalu sidabriniuose apsoduose."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "430727-431082; hash=abe4cabae7793145a45b27a3f968b7a7514be36f6c9a0ab8a16b4f13edc3a6c7; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176692
 ## Reikšmingi paminėjimai
@@ -66,8 +60,8 @@ Nenurodyta
     buvo viena iš labiausiai maldininkų lankomų Lenkijos vietų. Žal­
     girio mūšio išvakarėse čia lankėsi ir Jogaila.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -78,7 +72,8 @@ Nenurodyta
 - id: c-176692
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 233"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 233."
   citata_originali: |
     Ant šio kalno XII a, buvo įkurtas benediktinų
     vienuolynas ir bažnyčia, kurioje buvo saugoma relikvija — kryžius

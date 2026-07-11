@@ -33,16 +33,6 @@ media_all_json: |-
 - t-001
   global_id: t-86313
   teiginys: "Šventojo Kryžiaus altorius buvo Vilniaus katedros bažnyčioje ties šventovės viduriu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "792954-793728; hash=c7b65dce825aed10bd8bead85779858d74450cdb45db48d7df2ef5777dd7a798; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Altorius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilniaus katedros bažnyčia ir Šventojo Kryžiaus altorius: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Altorius: mention_match, thing, gap=18"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus katedros bažnyčia ir Šventojo Kryžiaus altorius\" parinktas kaip owner_note_path. Targetas \"Altorius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-82292
 ## Reikšmingi paminėjimai
@@ -71,8 +61,8 @@ media_all_json: |-
     tūkstantis penki šimtai septyniasdešimt devintaisiais metais
     nuo Kristaus gimimo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

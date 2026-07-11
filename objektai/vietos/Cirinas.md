@@ -32,17 +32,6 @@ Cirinas yra kaimas prie Servečio upės, 5 km į pietus nuo Ostašino. LDK kariu
 - t-002
   global_id: t-187215
   teiginys: "LDK kariuomenė žygiuodama į Klecką paliko Ciriną po dešinei."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "660328-660798; hash=41c332a9442769df84f45064e5004c299fcd9d5d880adf1fdaadf904977fcf65; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  ryšio_patikimumas: "susije_su -> Kaimas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Cirinas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kaimas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Cirinas\" parinktas kaip owner_note_path. Targetas \"Kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-170284
 
@@ -50,17 +39,6 @@ Cirinas yra kaimas prie Servečio upės, 5 km į pietus nuo Ostašino. LDK kariu
 - t-001
   global_id: t-187216
   teiginys: "Cirinas yra kaimas prie Servečio upės, 5 km į pietus nuo Ostašino."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "660328-660798; hash=41c332a9442769df84f45064e5004c299fcd9d5d880adf1fdaadf904977fcf65; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  ryšio_patikimumas: "susije_su -> Kaimas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Cirinas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kaimas: mention_match, place, gap=12"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Cirinas\" parinktas kaip owner_note_path. Targetas \"Kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-170284
 - susijęs iš Polonka: Polonka, dabar vadinama Polonečka, yra kaimas apie 10 km į pietryčius nuo Cirino, prie Dviejos upės.
@@ -81,8 +59,8 @@ Cirinas yra kaimas prie Servečio upės, 5 km į pietus nuo Ostašino. LDK kariu
     nuo Ostašino). LDK kariuom enė žygiavo i Klecką, palikdama Ciriną
     po dešinei.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

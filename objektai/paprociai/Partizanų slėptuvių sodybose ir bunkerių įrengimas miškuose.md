@@ -46,9 +46,6 @@ Nenurodyta
 - t-008
   global_id: t-09593
   teiginys: "Partizanai dažnai įrengdavo požemines slėptuves upelio kranto šlaite, kur buvo lengviau gauti vandens ir slėpti pėdsakus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "913625-913818; hash=872180cc5e364f420a6a632fe662d23b56a8395f5b34b709e067edabc6771bb6; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
   pagrindžia:
     - c-12346
 
@@ -56,9 +53,6 @@ Nenurodyta
 - t-005
   global_id: t-09594
   teiginys: "Partizanai iš pradžių laikėsi miško stovyklose arba apsistodavo pas ūkininkus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "911071-911709; hash=d2b5fdcffe6c345175d35549bbf7742bc87a35e9b7526e546f66103998d2d70a; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
   pagrindžia:
     - c-12347
 
@@ -66,9 +60,6 @@ Nenurodyta
 - t-006
   global_id: t-09595
   teiginys: "Partizanai slėptuves įsirengdavo sodybose, o nenorėdami pakenkti rėmėjams stengdavosi bunkerius įrengti miške."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "911274-911863; hash=279d4420dd87b1c6f084227f2c96416d37e3dc61c8ba37743876fd227f9abfdf; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
   pagrindžia:
     - c-12348
 
@@ -76,9 +67,6 @@ Nenurodyta
 - t-007
   global_id: t-09596
   teiginys: "Bunkerių įėjimai buvo kruopščiai maskuojami ir dažnai naudojami tik naktį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "912600-913126; hash=55056ba5aef95914ee501b484ec305329ee13a4f05303d98fedd813ddf4d3675; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
   pagrindžia:
     - c-12345
 ## Reikšmingi paminėjimai
@@ -93,8 +81,8 @@ Nenurodyta
     partizanų judėjimas būdavo labai apribotas, ant sniego pėdsakus aptikti lengva, todėl
     ypač vėlesniais rezistencijos metais dažniausiai tekdavo visą žiemą pratūnoti po žeme.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -106,8 +94,8 @@ Nenurodyta
     Tipiškas partizanų bunkeris. Žaliukai dažnai stengdavosi įrengti savo požemines slėptuves upelio
     kranto šlaite (lengvai pasiekiamas vanduo, einant upeliu, buvo galima geriau paslėpti pėdsakus).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -125,8 +113,8 @@ Nenurodyta
     ir šeimininkai, sodyba šturmo metu, ar po jo, dažnai būdavo sudeginama, šeimininkai,
     jei likdavo gyvi, ištremiami.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -144,8 +132,8 @@ Nenurodyta
     bunkerius įsirengti miške. Ankstyviausi bunkeriai būdavo maži, skirti laikinam prie-
     globsčiui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

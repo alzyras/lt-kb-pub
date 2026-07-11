@@ -41,9 +41,6 @@ Koppebs.
 - t-001
   global_id: t-30912
   teiginys: "P. W. Koppebsas žurnale „Soter“ paskelbė darbą „Indoeuropiečių religijos kultūriniai istoriniai santykiai“."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "413998-414274; hash=f74a5b80b30a9714b1d6cec9ce02a4c2a544fe1920de092bb4378556e6024138; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-33097
 ## Reikšmingi paminėjimai
@@ -57,8 +54,8 @@ Koppebs.
     santykiai,_ Soter, t. 6, 1929, 113-117 p. ; t. 7, 1930, 19-29 p. — Kroll-
     mann, Chr.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

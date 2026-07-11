@@ -38,25 +38,6 @@ media_all_json: |-
 - t-001
   global_id: t-191373
   teiginys: "1055 m. poloviečių vadas Balušas kovojo su Rusia, bet po nesėkmingų kautynių sudarė paliaubas su kunigaikščiu Vsevolodu."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Balušas kariavo prieš Rusai (0.86)"
-  temporaliniai_duomenys: "mūšio data: 1055 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Balušas kariavo prieš Rusai“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo Balušą, jo veiksmus, datą, nesėkmingų kautynių rezultatą ir paliaubas. Nepridėta nieko už citatos ribų."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "189583-190088; hash=6e0c5f762ab53c305ee852ec6d98a35e461e2934cf8080223a54e1587410c3c1; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Rusai: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Balušas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Rusai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Balušas kovojo su Rusia; kandidatuose tai atitinka rusus."
-  vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174255
 - susijęs iš [[objektai/asmenys/Sekalas.md#claim-t-191463|Sekalas]]: Poloviečių vadas Sekalas po šešerių metų užpuolė rusų kraštus, nugalėjo Vsevolodą ir išsigabeno didžiulį grobį.
@@ -80,8 +61,8 @@ media_all_json: |-
     kraštus, nugalėjo Vsevolodą ir išsigabeno didžiulį gro­
     bį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -92,7 +73,8 @@ media_all_json: |-
 - id: c-174255
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 106"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 106."
   citata_originali: |
     Neabejotinai slaviš­
     ką pavadinimą, atitinkantį minėtų genčių padėtį, ne iš­
@@ -112,7 +94,3 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191373
-
-## Ryšiai
-- Balušas kariavo prieš [[objektai/grupes/Rusai]]
-- Balušas sudarė sutartį su [[objektai/asmenys/Vsevolodas]]

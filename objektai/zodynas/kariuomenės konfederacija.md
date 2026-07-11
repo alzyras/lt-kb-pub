@@ -35,9 +35,6 @@ Toks jų susibūrimas vadinosi kariuomenės konfederacija. kariuomenės konfeder
 - t-001
   global_id: t-70169
   teiginys: "Kai kariuomenei nemokėdavo algos, jos atsisakymas klausyti vadų ir plėšikavimas iki algos gavimo vadinosi kariuomenės konfederacija."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "561870-562348; hash=3495119068c24843bd5701c0ea49a7135345a783ad4eca055ccdf7342607e83e; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-69252
 ## Reikšmingi paminėjimai
@@ -56,8 +53,8 @@ Toks jų susibūrimas vadinosi kariuomenės konfederacija. kariuomenės konfeder
     norėjo jų duoti, tai netrukus tokie rinktiniai pėstininkai turėjo
     išnykti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

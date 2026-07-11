@@ -39,19 +39,6 @@ Tada pirmą kartą tautų teisės buvo pradėtos ginti ir literatūroje (pirmasi
 - t-001
   global_id: t-02273
   teiginys: "Fichtė 1808 m. išleido veikalą „Reden an die deutsche Nation“, kuriame aiškiai kėlė tautų teises."
-  temporaliniai_duomenys: "įvykio data: 1808 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sakinys sutrumpintas ir išvalytas nuo OCR bei skyrybos triukšmo."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "997598-998256; hash=3d7bfb2a8289998df82f23f9999056465e1169a8324fd1d2481423c66886c01e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Europa: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Reden an die deutsche Nation (1808 m.): owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Europa: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Reden an die deutsche Nation (1808 m.)\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-02511
 ## Reikšmingi paminėjimai
@@ -72,8 +59,8 @@ Tada pirmą kartą tautų teisės buvo pradėtos ginti ir literatūroje (pirmasi
     ir bajorijos daugumą paskatino kovoti su rusais dėl savo senųjų
     valstybinių teisių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -30,19 +30,6 @@ Vytautas Vilniuje paskelbė Tochtamyšą Užvolgio skitų chanu, paprastai vadin
 - t-001
   global_id: t-185400
   teiginys: "Vytautas Vilniuje paskelbė Tochtamyšą Užvolgio skitų chanu, paprastai vadinamu caru, ir pakėlė jį į valdovus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "694945-695510; hash=6d7a94bec726ddd283c9181b0d2b89ab33b2083c648c8dbb4af00bd72e7a7c52; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Viena: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "chanas caras: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Viena: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"chanas caras\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-168761
 ## Reikšmingi paminėjimai
@@ -63,8 +50,8 @@ Vytautas Vilniuje paskelbė Tochtamyšą Užvolgio skitų chanu, paprastai vadin
     šas sugrįžo į tėvynę, svajodamas apie valdžią, tačiau be
     savo krašto kariuomenės, o lydimas Vytauto pulkų.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -75,7 +62,8 @@ Vytautas Vilniuje paskelbė Tochtamyšą Užvolgio skitų chanu, paprastai vadin
 - id: c-168761
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 396"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 396."
   citata_originali: |
     Vytautas, ne vieną
     kartą ligi tol patyręs šios tautos tvirtą palankumą ir

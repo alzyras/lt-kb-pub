@@ -41,20 +41,6 @@ Kuo rimčiausiai rengian­ tis žygiui į Livoniją, kai Vilniaus ginklų liejyk
 - t-001
   global_id: t-86241
   teiginys: "1579 m. rengiantis žygiui į Livoniją, rinktinės kariuomenės būriai Vilniaus gatvėmis traukė į stovyklą Svyre."
-  semantiniai_rysiai: "Steponas Batoras keliavo į Vilnius (0.90)"
-  temporaliniai_duomenys: "įvykio data: 1579 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai ir glaustai perteikia citatoje nurodytą faktą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "580956-581535; hash=4c57ee046dab42d16f7e207c1f66ea55a7f81c169177b4de507c9a67b231b4ef; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Vilnius: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Steponas Batoras: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai mini Stepono Batoro atvykimą į Vilnių."
   pagrindžia:
     - c-82220
 ## Reikšmingi paminėjimai
@@ -80,8 +66,8 @@ Kuo rimčiausiai rengian­ tis žygiui į Livoniją, kai Vilniaus ginklų liejyk
     lecki Loik i Statysta [pasaulietis ir
     valstybės veikėjas], gim.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

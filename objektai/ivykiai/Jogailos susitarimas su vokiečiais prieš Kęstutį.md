@@ -48,12 +48,6 @@ Nenurodyta
 - t-001
   global_id: t-194063
   teiginys: "Paskui, po didžiojo kunigaikš čio Algirdo mirties praėjus dvejiems ar daugiau metų, didysis kunigaikštis Jogaila jį labai aukštai iškėlė ir išleido už jo tikrą savo seserį, kunigaikštytę Mariją 3 B , kuri buvo pirmiau ištekėjusi už kunigaikščio Dovydo 4 0 ."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "136156-136939; hash=4f9f2962f11fa81436e68cbc9c53a958146173c9e4317e07d465b7287e4cc382; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176676
 ## Reikšmingi paminėjimai
@@ -77,8 +71,8 @@ Nenurodyta
     sers, kam ją ištekino už vergo. Tas Vaidila turėjo di­
     delę galią pas didįjį kunigaikštį Jogailą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

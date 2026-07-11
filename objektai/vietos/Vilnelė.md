@@ -52,11 +52,6 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
 - t-029
   global_id: t-195132
   teiginys: "Gediminas įsakė pastatyti mūrinę pilį Vilnelės ir Vilijos upių santakoje."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Panaudota citatos dalis, kuri aiškiai susijusi su Vilnele."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "586922-587520; hash=c5b9a3a00fc7d4ddbb489f5bd8e1c0aed1e4eebfa30345fe665ac5e5490da7f4; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177512
     - c-177518
@@ -65,11 +60,6 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
 - t-027
   global_id: t-195133
   teiginys: "Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Citata remiasi kitų autorių pasakojimu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "128628-129938; hash=704d428b54070e2afb0c35dc752261f697ae90bd6e6977fe3be2c3171afc72bb; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177522
 
@@ -77,12 +67,6 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
 - t-031
   global_id: t-195134
   teiginys: "Man atrodo, kad jei Lietuvo je buvo keletas tokių šventų vieto vių, tai Vilnius būtinai turėjo būti viena iš jų, o jeigu buvo tik ta vie nintelė, tad tikriausiai po to smūgio Perkūno tikėjimo relikvijos ir Krivių Krivaitis su aukotojais iš Romainių buvo."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "64652-65499; hash=987a45deafc5df801598ea9cdb8ff3ca308e49421d67f648d4fc9aa481ade69c; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177515
 
@@ -90,12 +74,6 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
 - t-032
   global_id: t-195135
   teiginys: "Netgi pats Vilniaus vardas, paeinantis ne nuo didesniosios Vilijos, bet nuo mažesniosios upės, Vilnios, į aną įtekančios, rodo, kad pirmykštė gyvenvietė turėjo būti prie Vilnios, ir kad Germantas, Šventaragio slėnyje miškus lydimais vertęs, kaip ir Gediminas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "133109-134071; hash=2ae595d202bd67fb598d574ca7a66bec2163a88f2b6f4a5417c674e7d41e6a07; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177523
 
@@ -103,12 +81,6 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
 - t-012
   global_id: t-195136
   teiginys: "Gedimino pastatydinta mūro tvirtovė stovėjo prie Vilnelės žiočių į Viliją."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys yra aiškus ir paremtas citata apie tvirtovę prie Vilnelės žiočių."
-  susije_objektai: "mentioned_place: Vilija; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Manvydas|Manvydas]]; mentioned_place: Lietuva"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "232817-233377; hash=bfe98eeaea6cffd3087f6fa909bd58a38ebccf49db9dd6c91884e593ba8f813a; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177514
 
@@ -116,11 +88,6 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
 - t-025
   global_id: t-195137
   teiginys: "Vietovė prie Vilijos ir Vilnios santakos Islandijos keliautojų pasakojimuose buvo žinoma jau XII amžiuje."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys yra pilnas, gramatiškas ir paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "527306-528093; hash=09e9c96377f340c341803c6e69f3465883663b41a0e5d2afa1d7082a7d6ee22c; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177513
     - c-177519
@@ -129,19 +96,6 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
 - t-005
   global_id: t-195160
   teiginys: "Kiščina valdė Markučius ir ant kalno prie Vilnelės turėjo didelius kaimo stiliaus namus."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys yra pilnas ir paremtas citata apie Kiščinos namus prie Vilnelės."
-  susije_objektai: "mentioned_place: Kaimas; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_object: [[objektai/daiktai/Vamzdžiai|Vamzdžiai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Lietuva; mentioned_place: Vitebskas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "527306-528093; hash=09e9c96377f340c341803c6e69f3465883663b41a0e5d2afa1d7082a7d6ee22c; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kaimas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilnelė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kaimas: mention_match, place, gap=25"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilnelė\" parinktas kaip owner_note_path. Targetas \"Kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-177513
 
@@ -149,11 +103,6 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
 - t-019
   global_id: t-195139
   teiginys: "Nuo tvirtovės prie Vilnios palei krantą pažemiais trobelės tęsėsi iki Vilijos."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Perrašyta į aiškesnį pilną sakinį be negrabios konstrukcijos."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "232817-233377; hash=bfe98eeaea6cffd3087f6fa909bd58a38ebccf49db9dd6c91884e593ba8f813a; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177514
 
@@ -161,12 +110,6 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
 - t-010
   global_id: t-195140
   teiginys: "Aleksandras dovanojo Maksimui Vasiljevičiui šienaujamą pievą už Vilnelės prie kelio iš miesto į Užupį."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys yra pilnas faktinis sakinys ir paremtas dovanojimo tekstu."
-  susije_objektai: "mentioned_place: Užupis; mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_person: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]; mentioned_place: Vilnius"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "693900-694245; hash=8c612950a853081791fa46b280eff28b7d7a5dc94e439cbac19301cc39f32987; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177524
 
@@ -174,12 +117,6 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
 - t-006
   global_id: t-195141
   teiginys: "1580 metais ant kalno prie Vilnelės, prie Kasparo Bekešo kapo, pastatytas apvalaus bokšto pavidalo paminklas."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys aiškiai perteikia citatoje minimą paminklo pastatymą prie Vilnelės."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija|Vilniaus vyskupijos klierikų kolegija]]; mentioned_object: [[objektai/zodynas/fundacija|fundacija]]; mentioned_person: [[objektai/asmenys/Astikas|Astikas]]; mentioned_person: [[objektai/asmenys/Jurgis Astikas|Jurgis Astikas]]; mentioned_place: Vilnius"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "586922-587520; hash=c5b9a3a00fc7d4ddbb489f5bd8e1c0aed1e4eebfa30345fe665ac5e5490da7f4; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177512
 
@@ -187,13 +124,6 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
 - t-002
   global_id: t-195142
   teiginys: "1522 m. prie Vilnelės iškilo popieriaus malūnas."
-  teiginio_tipas: "faktas"
-  susije_objektai: "mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Vilija; mentioned_place: Vilnius"
-  temporaliniai_duomenys: "įvykio data: 1522 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "533832-534468; hash=7325eb9ffeea910618d083348dad22f6cd5b09aae8db14549f4e0d9171d0ad90; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177517
 
@@ -201,20 +131,6 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
 - t-007
   global_id: t-195143
   teiginys: "1580 m. ant kalno prie Vilnelės Kasparo Bekešo kapą pažymėjo apvalaus bokšto pavidalo paminklas."
-  teiginio_tipas: "faktas"
-  susije_objektai: "mentioned_group: [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija|Vilniaus vyskupijos klierikų kolegija]]; mentioned_object: [[objektai/zodynas/fundacija|fundacija]]; mentioned_person: [[objektai/asmenys/Astikas|Astikas]]; mentioned_person: [[objektai/asmenys/Jurgis Astikas|Jurgis Astikas]]; mentioned_place: Vilnius"
-  temporaliniai_duomenys: "įvykio data: 1580 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "586922-587520; hash=c5b9a3a00fc7d4ddbb489f5bd8e1c0aed1e4eebfa30345fe665ac5e5490da7f4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Astikas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilnelė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Astikas: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilnelė\" parinktas kaip owner_note_path. Targetas \"Astikas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-177512
 
@@ -222,11 +138,6 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
 - t-021
   global_id: t-195144
   teiginys: "1580 metais ant kalno prie Vilnelės Kasparo Bekešo kapui buvo pastatytas apvalaus bokšto pavidalo paminklas."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Pirminis teiginys ne apie objektą, bet citata remia faktą apie Vilnelę."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "586922-587520; hash=c5b9a3a00fc7d4ddbb489f5bd8e1c0aed1e4eebfa30345fe665ac5e5490da7f4; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177512
 
@@ -234,12 +145,6 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
 - t-001
   global_id: t-195145
   teiginys: "Ten, kur Vilnelė įteka į Viliją, stovėjo Gedimino pastatydinta mūro tvirtovė."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys yra aiškus faktinis sakinys apie Vilnelės žiotis."
-  susije_objektai: "mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Manvydas|Manvydas]]; mentioned_place: Lietuva"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "232817-233377; hash=bfe98eeaea6cffd3087f6fa909bd58a38ebccf49db9dd6c91884e593ba8f813a; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177514
 
@@ -247,12 +152,6 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
 - t-030
   global_id: t-195146
   teiginys: "VILNIAUS MIESTO ISTORIJA I TOMAS Vilnele, ilgą laiką ji nebuvo jokio svarbaus Lietuvos regiono sostinė, mat kunigaikščiai, arba tos tautos vadai, rengdami puolimus vis gilyn į Rusią, užgrobtose šio krašto žemėse įkurdavo savo valdžios buveines."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "60043-60701; hash=e8c9b18aa854863984cecdd2a863375545e9292d62e33af9fe8d671a0b4e0117; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177521
 
@@ -260,11 +159,6 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
 - t-023
   global_id: t-195147
   teiginys: "Narbutas Vilnios, arba Vilnelės, vardą laikė pirminiu ir iš jo kildino Vilniaus bei vėliau Vilija pramintos Neries pavadinimus."
-  teiginio_tipas: "faktas"
-  susije_objektai: "mentioned_place: Vilija; mentioned_place: Vilnius; mentioned_place: Upės (Oppen) kaimas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "586922-587520; hash=c5b9a3a00fc7d4ddbb489f5bd8e1c0aed1e4eebfa30345fe665ac5e5490da7f4; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177512
     - c-177511
@@ -273,11 +167,6 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
 - t-018
   global_id: t-195148
   teiginys: "Vilnia tekėjo kalnų apsupta vaga ir įtekėjo į Viliją ties Gedimino pastatyta mūro tvirtove."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Citata palaiko konkretų teiginį apie Vilnios vagą ir santaką."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "586922-587520; hash=c5b9a3a00fc7d4ddbb489f5bd8e1c0aed1e4eebfa30345fe665ac5e5490da7f4; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177512
 
@@ -285,12 +174,6 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
 - t-003
   global_id: t-195149
   teiginys: "Pilies kalno pietų pusėje tarp kalno ir Vilnelės stovėjo didžiuliai Manvydo rūmai."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys yra pilnas faktinis sakinys ir tiesiogiai atitinka citatą."
-  susije_objektai: "llm_object: [[objektai/asmenys/Manvydas|Manvydas]]; mentioned_person: [[objektai/asmenys/Manvydas|Manvydas]]; mentioned_place: Manvydo rūmai; mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_place: Lietuva; mentioned_place: Vilija"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "233177-233676; hash=c34c1558d9458573cfbc750c9149973a67b455f4ffd6b91ee1fed955137e21e1; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177525
 
@@ -298,11 +181,6 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
 - t-026
   global_id: t-195150
   teiginys: "Balińskis Vilniaus vardą siejo su Vilnia, o ne Vilija, ir iš to sprendė, kad pirmykštė gyvenvietė buvo prie Vilnios."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Ilgas interpretacinis sakinys sutrumpintas ir priskirtas autoriui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "527306-528093; hash=09e9c96377f340c341803c6e69f3465883663b41a0e5d2afa1d7082a7d6ee22c; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177513
 
@@ -310,11 +188,6 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
 - t-009
   global_id: t-195151
   teiginys: "Maksimui Vasiljevičiui buvo dovanota šienaujama pieva prie kelio į Užupį, už Vilnelės."
-  teiginio_tipas: "faktas"
-  susije_objektai: "mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_person: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]; mentioned_place: Vilnius"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "693900-694245; hash=8c612950a853081791fa46b280eff28b7d7a5dc94e439cbac19301cc39f32987; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177524
 
@@ -322,12 +195,6 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
 - t-013
   global_id: t-195152
   teiginys: "Vilnelė anuomet tekėjo pro Pilies gatvę, palei Pilies vartus ir už dabartinės katedros įtekėjo į Viliją."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys yra gramatiškas ir tiksliai paremtas citatos geografiniu aprašymu."
-  susije_objektai: "mentioned_place: Vilija; mentioned_place: Vingrių upokšnis"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "235954-236351; hash=ad4c0181b6bd2b3b9364112693d5a036157b448e63723782f1997a238efbb8e2; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177516
 
@@ -335,12 +202,6 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
 - t-004
   global_id: t-195153
   teiginys: "Šventaragio slėnis buvo lanka tarp Vilijos ir Vilnelės, kur degė lietuvių garbinama amžinoji ugnis Gabija."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys pilnai perteikia citatoje aprašytą Šventaragio slėnio vietą."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Manvydas|Manvydas]]; mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_place: Vilija; mentioned_place: Šventaragio slėnis"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "233177-233676; hash=c34c1558d9458573cfbc750c9149973a67b455f4ffd6b91ee1fed955137e21e1; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177525
 
@@ -348,11 +209,6 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
 - t-024
   global_id: t-195154
   teiginys: "Didysis kunigaikštis Aleksandras dovanojo Maksimui Vasiljevičiui šienaujamą pievą už Vilnelės prie kelio į Užupį."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Patikslintas Aleksandro vaidmuo ir sakinys sutrumpintas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "693900-694245; hash=8c612950a853081791fa46b280eff28b7d7a5dc94e439cbac19301cc39f32987; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177524
 
@@ -360,11 +216,6 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
 - t-016
   global_id: t-195155
   teiginys: "Narbutas Vilnią apibūdino kaip kadaise laivybai tikusią, sraunią, vingiuotą ir akmenuoto dugno upę, priešindamas ją giliai Vilijai."
-  teiginio_tipas: "faktas"
-  susije_objektai: "mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_place: Vilija"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "527306-528093; hash=09e9c96377f340c341803c6e69f3465883663b41a0e5d2afa1d7082a7d6ee22c; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177513
 
@@ -372,12 +223,6 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
 - t-033
   global_id: t-195156
   teiginys: "Vilnia, arba Vilnelė, anuomet, atite kėjusi iš už Plikojo kalno, bėgo pro Pilies [gatvę], per senuosius roki tų mūrus, palei Pilies vartus, paskui per mažąjį turgų ir, apsukusi lankstu pi lies teritoriją, už dabartinės katedros įtekėjo į Viliją."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "235954-236351; hash=ad4c0181b6bd2b3b9364112693d5a036157b448e63723782f1997a238efbb8e2; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177516
 
@@ -385,11 +230,6 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
 - t-017
   global_id: t-195157
   teiginys: "Balińskis manė, kad iki Gedimino ant Vilnios srovę supančių kalvų, kur dabar stovi Vilnius, tikėtina, buvo medinė tvirtovė."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Citata pateikia autoriaus atsargią interpretaciją."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "128628-129938; hash=704d428b54070e2afb0c35dc752261f697ae90bd6e6977fe3be2c3171afc72bb; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177522
 
@@ -397,12 +237,6 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
 - t-011
   global_id: t-195158
   teiginys: "Vilnia, arba Vilnelė, anuomet tekėjo pro Pilies gatvę, palei Pilies vartus ir už dabartinės katedros įtekėjo į Viliją."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys aiškiai perteikia citatoje aprašytą ankstesnę Vilnelės vagą."
-  susije_objektai: "mentioned_place: Vilija; mentioned_place: Vingrių upokšnis"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "235954-236351; hash=ad4c0181b6bd2b3b9364112693d5a036157b448e63723782f1997a238efbb8e2; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177516
 
@@ -410,12 +244,6 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
 - t-008
   global_id: t-195159
   teiginys: "1522 metais prie Vilnelės iškilo popieriaus malūnas, buvęs aukščiau Vilniaus vaivados malūno ir žemiau Charitonovo palivarko."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys tiksliai nurodo popieriaus malūno datą ir vietą prie Vilnelės."
-  susije_objektai: "mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Vilnius; mentioned_place: Vilija"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "533832-534468; hash=7325eb9ffeea910618d083348dad22f6cd5b09aae8db14549f4e0d9171d0ad90; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177517
 
@@ -423,19 +251,6 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
 - t-005
   global_id: t-195160
   teiginys: "Kiščina valdė Markučius ir ant kalno prie Vilnelės turėjo didelius kaimo stiliaus namus."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys yra pilnas ir paremtas citata apie Kiščinos namus prie Vilnelės."
-  susije_objektai: "mentioned_place: Kaimas; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_object: [[objektai/daiktai/Vamzdžiai|Vamzdžiai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Lietuva; mentioned_place: Vitebskas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "527306-528093; hash=09e9c96377f340c341803c6e69f3465883663b41a0e5d2afa1d7082a7d6ee22c; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kaimas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilnelė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kaimas: mention_match, place, gap=25"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilnelė\" parinktas kaip owner_note_path. Targetas \"Kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-177513
 
@@ -443,11 +258,6 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
 - t-014
   global_id: t-195161
   teiginys: "Gedimino legendoje medžioklė vyko kalne prie Neries ir Vilnelės santakos, o sapną Šventaragio slėnyje išaiškino Lizdeika."
-  teiginio_tipas: "faktas"
-  susije_objektai: "mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Vilnius"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "675446-675923; hash=eeb5788ee93c4c6236e5669c1a205f28607727e5f5486bcbc74f37ed95df6115; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177520
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176351|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Balińskis manė, kad Gediminas, statydindamas pilį Rusios belaisvių rankomis, iškasė Vilnelei kitą vagą ir paaukštino Pilies kalną.
@@ -511,8 +321,8 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
     siausių Lietuvos didikų Manvydo rūmai, o kalno papėdėje,
     palei Viliją, driekėsi Žemutinė pilis, vadinta Kreivąja.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -543,8 +353,8 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
     Vitebsko vaivadienė turėjo gerą sko­
     nį ir gyveno žavingoje vietoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -563,8 +373,8 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
     čio iš miesto į Užupį, už Vilnelės. Tai davėme jam ir jo
     vaikams visiems laikams.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -588,8 +398,8 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
     siškai greta Vilnios žiočių įtekėjo į Vi­
     liją.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -611,8 +421,8 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
     dimą priešais Žemutinės Vilniaus pilies vartus, per Vilijos upę
     nutiesti tiltą iš akmenų arba plytų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -634,8 +444,8 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
     vyskupo stalo dvaro, vadinamo
     Vozgėliškėmis [Vaisgėliškis].
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -654,8 +464,8 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
     didžiai garbinama lietuvių. Čia pat medinė šventykla, prie
     kurios šliejosi pagonių vaidilų būstai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -673,8 +483,8 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
     vilkų », reiškęs, jog toje vietoje busiąs pastatytas miestas, kuris
     pasieksiąs didelio garso.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -706,8 +516,8 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
     senovės laikais iš ten eidavę į Vilnių
     kalnų kasti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -728,8 +538,8 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
     šiaurės kronikos byloja ne apie vie­
     ną tokį žygį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -744,8 +554,8 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
     niui; nuo to ir didžioji upė, laikui bėgant, buvo praminta Vili­
     ja, kurią seniau vadino Nerimi.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -780,8 +590,8 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
     regėjo geležinį vilką, nepaprasto didumo, o jo kauksmas bu­
     vęs toks galingas, kad atrodė, tarsi šimtas vilkų staugtų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -806,8 +616,8 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
     išaugusiam miestui, pagaliau nuo tos tvirtovės prie Vilnios
     palei krantą pažemiais tęsėsi trobelės iki pat Vilijos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -840,8 +650,8 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
     gaikščių, keisdamas savo pirmtakų politiką, užmezgė ry­
     šius su krikščioniškąja Europa, būtent Lenkija ir Rusia10.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -867,8 +677,8 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
     pilys, pirmiausia medinės, o jau XIV amžiuje perstatytos į
     mūrines, kaip antai: Kernavė, Senieji ir Naujieji Trakai1 .
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -879,7 +689,8 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
 - id: c-177511
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 151"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 151."
   citata_originali: |
     Iš to žodžio paimtas pa­
     vadinimas turėtų būti taikomas Vilniai, arba Vilnelei, prie Vil­

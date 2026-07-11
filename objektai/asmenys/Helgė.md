@@ -30,22 +30,6 @@ Narbuto pasakojime danų karalius Helgė kariavo su salas užėmusiais slavais, 
 - t-001
   global_id: t-191412
   teiginys: "Narbuto pasakojime danų karalius Helgė kariavo su salas užėmusiais slavais, o į pagalbą jam buvo pakviestas Jarmerikas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Jarmerikas rėmė Helgė (0.86)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "433366-433716; hash=60e6050d8691b9922f454a0eef42d5bd741e1884a1c28399fb147028850f8a54; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "reme -> Helgė: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jarmerikas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Helgė: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Jarmerikas buvo pakviestas į pagalbą Helgei, todėl ryšys nusako paramą."
-  vertinimo_atnaujinta: "2026-07-06T03:41:43Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174294
 - susijęs iš [[objektai/asmenys/Jarmerikas.md#claim-t-191184|Jarmerikas]]: Narbuto pasakojime Jarmerikas, pakviestas padėti danų karaliui Helgei, įsiveržė į slavų kraštą ir sumušė venedų karalių Skalką.
@@ -69,8 +53,8 @@ Narbuto pasakojime danų karalius Helgė kariavo su salas užėmusiais slavais, 
     bą Jarmerikas mielai atskubėjo gal trokšdamas atkeršyti
     už savo nelaisvę ar norėdamas turėti naudos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

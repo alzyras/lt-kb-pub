@@ -45,14 +45,6 @@ Nenurodyta
 - t-001
   global_id: t-194824
   teiginys: "Kiekvienas laiptas buvo skirtas kuriam nors vienam Zodiako ženklui; kas mėnesį, tą dieną, kai saulė kildama ar leisdamasi įžengdavo į tą ženklą, ant tų laiptų buvo uždegami ir aukų aukojimo laužai; taigi aukščiausias laiptas buvo Vė žio, o žemiausias -."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "470650-471436; hash=f50e6b312c3d13cdf920d107b1acceeb93dc4f60d27d83b0e1c429eaba0f82d2; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-177220
 ## Reikšmingi paminėjimai
@@ -75,8 +67,8 @@ Nenurodyta
     negalėdavo užgesinti ugnies; priešingai, tokiais atvejais lieps­
     nos kildavo dar aukščiau; tikriausiai tai dėl degių medžiagų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -87,7 +79,8 @@ Nenurodyta
 - id: c-177220
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 270"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 270."
   citata_originali: |
     Kiekvienas laiptas buvo skirtas kuriam nors vienam
     Zodiako ženklui; kas mėnesį, tą dieną, kai saulė kildama ar

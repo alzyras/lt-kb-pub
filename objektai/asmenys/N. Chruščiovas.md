@@ -41,19 +41,6 @@ Chruščiovo laikais bažnyčią imta diskredituoti, spausti morališkai, nors i
 - t-001
   global_id: t-19166
   teiginys: "N. Chruščiovo laikais bažnyčia buvo diskredituojama ir morališkai spaudžiama, nors iš trėmimų vietų grįžo 130 kunigų."
-  temporaliniai_duomenys: "įvykio data: 1962 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys paremtas citata, bet taisytina forma „bažnyčią imta“ į aiškesnį sakinį apie objektą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "468149-468532; hash=df9aaca4198e42d42f85572bde19cb259d846a6777d17eb4cc5ecd7a56ee13f9; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Viena: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "N. Chruščiovas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Viena: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"N. Chruščiovas\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-21911
 ## Reikšmingi paminėjimai
@@ -69,8 +56,8 @@ Chruščiovo laikais bažnyčią imta diskredituoti, spausti morališkai, nors i
     čią imta diskredituoti, spausti morališkai, nors iš trėmimų vietų sugrįžo
     130 kunigų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

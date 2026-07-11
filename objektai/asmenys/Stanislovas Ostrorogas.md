@@ -30,20 +30,6 @@ Stanislovas Ostrorogas, Kališo vaivada, atvyko į Vilniaus lietuvių seimą kai
 - t-001
   global_id: t-186257
   teiginys: "Stanislovas Ostrorogas, Kališo vaivada, atvyko į Vilniaus lietuvių seimą kaip Lenkijos pasiuntinys."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Stanislovas Ostrorogas keliavo į Vilnius (0.83)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "901172-901582; hash=abd998b4b2ea76707ccc59a1bf6d469c47085c8ffe2fb41fbfed558ca13f62e8; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Vilnius: 0.83"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Stanislovas Ostrorogas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Ostrorogas nurodytas tarp Lenkijos pasiuntinių, kurie atvyko į Vilnių."
   pagrindžia:
     - c-169618
 - susijęs iš [[objektai/ivykiai/Piotrkovo ir Vilniaus seimai bei Podolės ginčo atidėjimas Parčevui (1463 m.).md#claim-t-185635|Piotrkovo ir Vilniaus seimai bei Podolės ginčo atidėjimas Parčevui (1463 m.)]]: Į Vilniuje susirinkusį lietuvių seimą atvyko Lenkijos pasiuntiniai Stanislovas Ostrorogas ir Jonas Ritvianskis.
@@ -62,8 +48,8 @@ Stanislovas Ostrorogas, Kališo vaivada, atvyko į Vilniaus lietuvių seimą kai
     asmeniškai aptramdyti priešingų grupuočių įniršį, ne­
     paisant to, seimo posėdžiuose užvirė atkakli kova.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -74,7 +60,8 @@ Stanislovas Ostrorogas, Kališo vaivada, atvyko į Vilniaus lietuvių seimą kai
 - id: c-169618
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 511"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 511."
   citata_originali: |
     Gavo jie tik tokį atsakymą, kad
     lenkai nieku būdu neatsisakysią atsilyginti lietuvių luo­
@@ -90,6 +77,3 @@ Stanislovas Ostrorogas, Kališo vaivada, atvyko į Vilniaus lietuvių seimą kai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186257
-
-## Ryšiai
-- Stanislovas Ostrorogas keliavo į [[objektai/vietos/Vilnius]]

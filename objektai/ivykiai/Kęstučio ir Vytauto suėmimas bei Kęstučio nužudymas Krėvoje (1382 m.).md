@@ -59,17 +59,6 @@ Nenurodyta
 - t-002
   global_id: t-86895
   teiginys: "Kęstutis su Vytautu buvo priverstas vykti į Vilnių, vėliau perkeltas į Krėvą ir penktą naktį pasmaugtas pilies bokšte."
-  semantiniai_rysiai: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.) keliavo į Krėva (0.86); Kęstutis (vakarų pasienio valdovas, XIV–XV a.) keliavo į Vilnius (0.83)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "107022-107444; hash=30610c3637eca2f66e0f02e2d5f66b8b2c15ba1f828720d4132f15ad7d54b3d5; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Krėva: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Krėva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Kęstučio perkėlimas į Krėvą yra tiesiogiai nurodytas."
   pagrindžia:
     - c-82875
 
@@ -77,16 +66,6 @@ Nenurodyta
 - t-001
   global_id: t-86896
   teiginys: "Jogailos atsiųstas Skirgaila atvyko į Kęstučio stovyklą ir pareiškė esąs pasirengęs taikytis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "105565-107107; hash=9e553fdb01ef4b1c15c73e94e9c1e59c43718f473d43daa37792b7799033c26e; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jonas Hanulaitis: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kęstučio ir Vytauto suėmimas bei Kęstučio nužudymas Krėvoje (1382 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Jonas Hanulaitis: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kęstučio ir Vytauto suėmimas bei Kęstučio nužudymas Krėvoje (1382 m.)\" parinktas kaip owner_note_path. Targetas \"Jonas Hanulaitis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-82874
 ## Reikšmingi paminėjimai
@@ -144,8 +123,8 @@ Nenurodyta
     VILNIAUS MIESTO ISTORIJA / TOMAS
     stovyklą kuo greičiau susitarti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -168,8 +147,8 @@ Nenurodyta
     rėjo būti sudeginti su visu tuo, ką jis dažniausiai naudoda­
     vo37.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -61,19 +61,6 @@ Nenurodyta
 - t-002
   global_id: t-49168
   teiginys: "Po Liublino unijos sudarymo Lietuva ir Lenkija kurį laiką negalėjo imtis rimtų karo veiksmų."
-  temporaliniai_duomenys: "įvykio data: 1570 m.; įvykio data: 1571 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis sakinys per daug kontekstinis, todėl aiškiau įvardytas objektas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "367025-367307; hash=7fdab2d31888f3a85039afaa5f8df8afc09ad6027eee8418024ea8164e4e462e; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Liublino unijos akto priėmimas ir patvirtinimas (1569 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=36"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Liublino unijos akto priėmimas ir patvirtinimas (1569 m.)\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-43084
 
@@ -81,19 +68,6 @@ Nenurodyta
 - t-003
   global_id: t-49169
   teiginys: "1569 m. LDK gana nepalankiomis sąlygomis sudarė Liublino uniją su Lenkija, tikėdamasi karinės pagalbos kare su Maskva."
-  temporaliniai_duomenys: "įvykio data: 1569 m.; įvykio data: 1570 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "366800-367113; hash=7a73e29cde26a2e028c604d0efba5060fcb048b05fa928e24fc40dcd1dbbea7d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Liublino unijos akto priėmimas ir patvirtinimas (1569 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=18"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Liublino unijos akto priėmimas ir patvirtinimas (1569 m.)\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-43083
 
@@ -101,19 +75,6 @@ Nenurodyta
 - t-001
   global_id: t-49170
   teiginys: "1569 m. LDK sudarė Liublino uniją su Lenkija tikėdamasi karinės pagalbos, kuri padėtų pasiekti persilaužimą kare su Maskva."
-  temporaliniai_duomenys: "įvykio data: 1569 m.; įvykio data: 1570 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir pagrįstas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "366800-367113; hash=7a73e29cde26a2e028c604d0efba5060fcb048b05fa928e24fc40dcd1dbbea7d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Liublino unijos akto priėmimas ir patvirtinimas (1569 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=18"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Liublino unijos akto priėmimas ir patvirtinimas (1569 m.)\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-43083
 ## Reikšmingi paminėjimai
@@ -132,8 +93,8 @@ Nenurodyta
     laiką neleido imtis rimtų karo veiksmų.
     1570 m.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -152,8 +113,8 @@ Nenurodyta
     ir atsisakant pretenzijų į 1570 m. rusų už-
     grobtą rytinę Livonijos dalį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

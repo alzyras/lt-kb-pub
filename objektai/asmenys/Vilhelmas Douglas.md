@@ -35,17 +35,6 @@ Tačiau netrukus Karaliaučiuje prasidėję anglų vaidai su škotais, Vilhelmo 
 - t-001
   global_id: t-87882
   teiginys: "Vilhelmas Douglas buvo įžymus škotas, žuvęs dvikovoje per anglų ir škotų vaidus Karaliaučiuje."
-  semantiniai_rysiai: "Vilhelmas Douglas buvo priešas Anglai (0.58)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "288836-289457; hash=eed984e6341323e92c12c8723db14aa7fdfd4a9d6ec99413eaa0ac5f2d56003b; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_priesas -> Anglai: 0.58"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vilhelmas Douglas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Anglai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Vilhelmas Douglas įvardytas kaip škotas, žuvęs anglų ir škotų vaidų kontekste."
   pagrindžia:
     - c-83861
 ## Reikšmingi paminėjimai
@@ -66,8 +55,8 @@ Tačiau netrukus Karaliaučiuje prasidėję anglų vaidai su škotais, Vilhelmo 
     galbą atėjusiais Vytauto pulkais sudarė aniems laikams milži­
     nišką ginkluotų žmonių minią - 46 00041.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -97,6 +86,3 @@ Tačiau netrukus Karaliaučiuje prasidėję anglų vaidai su škotais, Vilhelmo 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87882
-
-## Ryšiai
-- Priešai: [[objektai/grupes/Anglai]]

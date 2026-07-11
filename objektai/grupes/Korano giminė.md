@@ -30,22 +30,6 @@ Lietuvos metraštyje Klecko kautynių aprašyme Korano giminės patirtis vaizduo
 - t-001
   global_id: t-187779
   teiginys: "Lietuvos metraštyje Klecko kautynių aprašyme Korano giminės patirtis vaizduojama kaip neapsakomas kraujo praliejimas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Lietuvos kariuomenė kariavo prieš Korano giminė (0.67)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "300995-301504; hash=da4d260523070393c61f14e63071dc727c795da0cfddd738a1b3260dc68b4f54; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Korano giminė: 0.67"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuvos kariuomenė: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Korano giminė: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata mūšio kontekste rodo, kad Lietuvos kariuomenė smarkiai nugalėjo Korano giminę."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-170718
 - susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė.md#claim-t-169700|Lietuvos Didžioji Kunigaikštystė]]: 1564 m. pradžioje į Lietuvos Didžiąją Kunigaikštystę įsiveržė dvi didelės Maskvos kariuomenės.
@@ -73,8 +57,8 @@ Lietuvos metraštyje Klecko kautynių aprašyme Korano giminės patirtis vaizduo
     vimi daug belaisvių ir turėdami rankas pilnas aukso,
     ir sidabro, ir ginklų, ir drabužių, ir brangių žirgų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -85,7 +69,8 @@ Lietuvos metraštyje Klecko kautynių aprašyme Korano giminės patirtis vaizduo
 - id: c-170718
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 170"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 170."
   citata_originali: |
     Labai maža jų grįžo į Ordą.
     Ir patyrė Lietuvos Didžioji Kunigaikštystė begalinį
@@ -103,6 +88,3 @@ Lietuvos metraštyje Klecko kautynių aprašyme Korano giminės patirtis vaizduo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-187779
-
-## Ryšiai
-- Kariavo prieš: [[objektai/grupes/Lietuvos kariuomenė]]

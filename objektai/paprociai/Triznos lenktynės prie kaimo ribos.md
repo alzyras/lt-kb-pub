@@ -45,14 +45,6 @@ Nenurodyta
 - t-001
   global_id: t-189964
   teiginys: "Narbutas triznos papročio dalimi laiko lenktynes, kuriose raiteliai jodavo prie stulpelio, o pirmasis paėmęs pinigą pelnydavo šlovę."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "641449-641851; hash=0fb3ab20002424575f80d7f20d06fa9df8f1484f0d4d21c12af2967a4d25a9b3; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172847
 ## Reikšmingi paminėjimai
@@ -70,8 +62,8 @@ Nenurodyta
     dalis triznos papročio, žmonių pamėgdžiojamo ir mūsų istori­
     ko pastebėto.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -82,7 +74,8 @@ Nenurodyta
 - id: c-172847
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 363"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 363."
   citata_originali: |
     Toje
     vietoje būna įkaltas stulpelis ir ant jo padėtas pinigas. Raite­

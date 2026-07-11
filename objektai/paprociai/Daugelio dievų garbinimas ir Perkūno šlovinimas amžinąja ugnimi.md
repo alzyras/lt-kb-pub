@@ -45,19 +45,6 @@ Nenurodyta
 - t-001
   global_id: t-185914
   teiginys: "Lietuvos krikšto aprašyme bajorų ir kunigaikščių pagonybė siejama su daugelio dievų garbinimu ir Perkūno šlovinimu amžinąja ugnimi."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1373574-1373913; hash=8e2a58028666ad42d84ad777be9ccffe7c80629bfd9d5042def71dd649f0dcd9; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> pagonybė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Daugelio dievų garbinimas ir Perkūno šlovinimas amžinąja ugnimi: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "pagonybė: mention_match, thing, gap=16"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Daugelio dievų garbinimas ir Perkūno šlovinimas amžinąja ugnimi\" parinktas kaip owner_note_path. Targetas \"pagonybė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-169275
 ## Reikšmingi paminėjimai
@@ -74,8 +61,8 @@ Nenurodyta
     vino amžinąja ugnimi. Krikštydamiesi jie pasižadėjo garbinti vieną
     dievą pagal krikščionių apeigas.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -86,7 +73,8 @@ Nenurodyta
 - id: c-169275
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 758"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 758."
   citata_originali: |
     Lietuvių pagonybės ir antikinės stabmel­
     dystės jis netapatino ir neieškojo tarp jų panašumo. Iš Lietuvos

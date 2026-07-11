@@ -39,16 +39,6 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
 - t-002
   global_id: t-68825
   teiginys: "Lėktuvėliu „Lituanica“ buvo atliktas tiesioginis skrydis iš Niujorko į Lietuvą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "351109-351363; hash=f508b66405f30abe57bb2490d1c20bdff3a84753c254b6827ba0743d7b334fee; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Niujorkas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=11"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Niujorkas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-68310
 
@@ -56,20 +46,6 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
 - t-001
   global_id: t-68826
   teiginys: "1917 m. JAV įstojimas į karą suaktyvino daugiau kaip 300 000 lietuvių imigrantų, gyvenusių daugiausia Čikagoje, Niujorke ir Pensilvanijoje."
-  semantiniai_rysiai: "Lietuviai gyveno Niujorkas (0.92); Lietuviai gyveno Pensilvanija (0.92); Lietuviai gyveno Peterburgas (0.78); Lietuviai gyveno Voronežas (0.78)"
-  temporaliniai_duomenys: "įvykio data: 1917 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sakinys aiškiai mini Niujorką ir citata patvirtina nurodytą imigrantų suaktyvėjimą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "261929-262920; hash=5a68c88ff7d83c9184a63d032a5556ed6beb91b5f6ba176f7ef8d5f7ae503ec2; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Niujorkas: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Niujorkas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo lietuvių imigrantus, gyvenusius Niujorke."
   pagrindžia:
     - c-68311
 - susijęs iš [[objektai/asmenys/Magdalena Avietėnaitė.md#claim-t-19122|Magdalena Avietėnaitė]]: Magdalena Avietėnaitė vadovavo rengiant specialų Lietuvos skyrių 1939 m. pasaulinei parodai Niujorke.
@@ -116,8 +92,8 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
     metu ilgiausią atstumą be nusileidimo pasaulyje, aviatoriai patyrė katas-
     trofą tuometinėje Rytų Prūsijoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -143,8 +119,8 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
     (Woodrow Wilson) paskelbti „14 punktų“, davę progą kelti ir Lietuvos
     klausimą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -198,4 +174,4 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
     - t-68826
 
 ## Ryšiai
-- Gyvenamoji vieta: [[objektai/grupes/JAV lietuviai]], [[objektai/grupes/Lietuviai]]
+- Gyvenamoji vieta: [[objektai/grupes/Lietuviai]]

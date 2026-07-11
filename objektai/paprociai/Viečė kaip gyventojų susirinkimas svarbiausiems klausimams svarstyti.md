@@ -45,12 +45,6 @@ Nenurodyta
 - t-001
   global_id: t-194083
   teiginys: "3 Viečė — žymesniuose Kijevo Rusios miestuose gyventojų susirinkimas karo ir taikos, valdžios pareigūnų skyrimo ir atlei dimo ir kitiems svarbiausiems klausimams svarstyti."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "340222-340498; hash=e35051be4e237311e5c17f2a66bb9dfd08c05e191a5d87bd3ebb52f57a232560; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176696
 ## Reikšmingi paminėjimai
@@ -66,8 +60,8 @@ Nenurodyta
     dimo ir kitiems svarbiausiems klausimams svarstyti.
     *  Orig.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -78,7 +72,8 @@ Nenurodyta
 - id: c-176696
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 193"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 193."
   citata_originali: |
     Tačiau tiesioginių žinių apie paties Polocko puolimą ki­
     tuose patikimuose šaltiniuose nėra.

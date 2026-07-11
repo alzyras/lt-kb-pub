@@ -30,21 +30,6 @@ Narbutas nurodo kritiką, kuris Pomoloys vardą, drauge su Jaygello ir Jargallo,
 - t-001
   global_id: t-190237
   teiginys: "Narbutas nurodo kritiką, kuris Pomoloys vardą, drauge su Jaygello ir Jargallo, laikė aiškiai lietuvišku, ginčydamas vyriausiųjų žynių sąrašą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "782892-783401; hash=14dfe99413d22afdd0c05820770e46b29468aa1fb2578df7345c7398b23862d9; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Žyniai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Pomoloys: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Žyniai: mention_match, group, gap=97"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pomoloys\" parinktas kaip owner_note_path. Targetas \"Žyniai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173120
 - susijęs iš [[objektai/asmenys/Jargallo.md#claim-t-190229|Jargallo]]: Narbutas mini kritiko teiginį, kad Jargallo, Jaygello ir Pomoloys esą aiškiai lietuviški vardai.
@@ -69,8 +54,8 @@ Narbutas nurodo kritiką, kuris Pomoloys vardą, drauge su Jaygello ir Jargallo,
     anų amžių prūsai, jei ne lietuviai, ar jie nebuvo vienos su Lie­
     tuva kilties ir vienos genties broliai?
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

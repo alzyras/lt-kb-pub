@@ -32,16 +32,6 @@ Stanišauskas. Stanišausko batalionai, centre pozicijas užsiėmė Antonieviči
 - t-002
   global_id: t-40321
   teiginys: "M. Stanišausko batalionai stovėjo kairiajame sparne."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "663901-664218; hash=375f72543ab259ebe2aff0e53862605e517d52bda3ef95ea73a1a1a17f1509ca; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Antonievičius: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "M. Stanišauskas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Antonievičius: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"M. Stanišauskas\" parinktas kaip owner_note_path. Targetas \"Antonievičius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-44446
 
@@ -49,9 +39,6 @@ Stanišauskas. Stanišausko batalionai, centre pozicijas užsiėmė Antonieviči
 - t-001
   global_id: t-40322
   teiginys: "M. Stanišauskas buvo paskirtas vienu iš batalionų vadų."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "657671-657870; hash=eeb006a6fbff04107513adf6eb01e0e4e2aec434ee7f0562a24ca4d4f5e1e96a; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-44447
 - susijęs iš [[objektai/asmenys/D. Maleckis.md#claim-t-40080|D. Maleckis]]: D. Maleckis buvo paskirtas vienu iš batalionų vadų.
@@ -77,8 +64,8 @@ Stanišauskas. Stanišausko batalionai, centre pozicijas užsiėmė Antonieviči
     kai ir dvi rezervinės 4-tojo ba-
     taliono kuopos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -97,8 +84,8 @@ Stanišauskas. Stanišausko batalionai, centre pozicijas užsiėmė Antonieviči
 
     K. Maleckis, M. Stanišauskas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

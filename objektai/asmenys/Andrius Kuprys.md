@@ -30,12 +30,6 @@ Mes štai jau trečią kartą kariaujame su vokiečiais, o jis su jais puola Pol
 - t-001
   global_id: t-194105
   teiginys: "Mes štai jau trečią kartą kariaujame su vokiečiais, o jis su jais puola Polocką, kuris priklauso mano sūnui, o tavo broliui Andriui Kupriui."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "138203-138708; hash=cb1f749f24045114e84e576c838a2b581309763e77921f34f00a8f11e32bfd36; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176718
 ## Reikšmingi paminėjimai
@@ -55,8 +49,8 @@ Mes štai jau trečią kartą kariaujame su vokiečiais, o jis su jais puola Pol
     broliui Andriui Kupriui. Tai jau antras jo priešiškumo
     mums ženklas * 8 .
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

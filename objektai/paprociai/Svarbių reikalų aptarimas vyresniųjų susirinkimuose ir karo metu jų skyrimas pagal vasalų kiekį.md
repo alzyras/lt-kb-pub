@@ -51,12 +51,6 @@ Nenurodyta
 - t-001
   global_id: t-192103
   teiginys: "Šalavijoje svarbesni reikalai buvo aptariami vyresniųjų susirinkimuose, o karo metu vadai skirti pagal vasalų kiekį ir tinkamumą."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "671374-671791; hash=97b7468d90e527ead7f060ac3a39e0ea655ce5d5ec4897c01ed26b3795a1ce7b; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174970
 
@@ -64,21 +58,6 @@ Nenurodyta
 - t-002
   global_id: t-192513
   teiginys: "Šalavijoje svarbesni reikalai buvo aptariami vyresniųjų susirinkimuose, o karo metu vadai skirti pagal vasalų kiekį ir tinkamumą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "671494-672096; hash=feb9a03608171acd3b49d3e9acf4fdb6dc81c391f8b5b384531ea95be5bfe7b6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Viena: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Svarbių reikalų aptarimas vyresniųjų susirinkimuose ir karo metu jų skyrimas pagal vasalų kiekį: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Viena: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Svarbių reikalų aptarimas vyresniųjų susirinkimuose ir karo metu jų skyrimas pagal vasalų kiekį\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175303
 ## Reikšmingi paminėjimai
@@ -97,8 +76,8 @@ Nenurodyta
     sižvelgdami į vasalų kiekį ir tinkamumą, taip pat paskir­
     davo skyrių vadus, kurie vadovavo būriams mūšio lauke.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -125,8 +104,8 @@ Nenurodyta
     kankamai faktų ir, jais remdamiesi, atskleidėme ne vieną
     istorinę tiesą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -137,7 +116,8 @@ Nenurodyta
 - id: c-174970
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 370"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 370."
   citata_originali: |
     Šalavija taip pat turėjo savo
     savarankiškų ponų, valdžiusių žmones ir kraštą; buvo
@@ -159,7 +139,8 @@ Nenurodyta
 - id: c-175303
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 370"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 370."
   citata_originali: |
     Iš šių galingų
     žmonių buvo renkami vyriausieji vadai, kurių vienas buvo

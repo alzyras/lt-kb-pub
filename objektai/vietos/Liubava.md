@@ -30,20 +30,6 @@ Liubavą apiplėšęs lietuvių būrys neteko penkiolikos karių ir didelės gro
 - t-001
   global_id: t-185253
   teiginys: "Liubavą apiplėšęs lietuvių būrys neteko penkiolikos karių ir didelės grobio dalies."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Lietuviai puolė Liubava (0.84)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "308509-309006; hash=edf38f24c1a03d5f9c1305aa2381f8ad4b3289b52a0a181f2587457e9192af50; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Liubava: 0.84"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Liubava: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Lietuvių būrys tiesiogiai nurodomas apiplėšęs Liubavą, todėl ryšys žymi puolamąjį veiksmą."
   pagrindžia:
     - c-168614
 - susijęs iš [[objektai/ivykiai/Traidenio ir Skomanto žygiai į Mazoviją, Kulmo žemę, Kujaviją ir Lenčicą.md#claim-t-185648|Traidenio ir Skomanto žygiai į Mazoviją, Kulmo žemę, Kujaviją ir Lenčicą]]: Skomantas su žemaičių ir sūduvių kariais sudegino Liubavos ir Kulmo miestus ir nusiaubė visą Kujaviją.
@@ -80,8 +66,8 @@ Liubavą apiplėšęs lietuvių būrys neteko penkiolikos karių ir didelės gro
     sumą ar godumą: neteko penkiolikos karių ir didelės
     grobio dalies.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -114,7 +100,3 @@ Liubavą apiplėšęs lietuvių būrys neteko penkiolikos karių ir didelės gro
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185253
-
-## Ryšiai
-- Buvo kelionės vieta: [[objektai/grupes/Sūduvos prūsai]]
-- Puolė Liubavą: [[objektai/grupes/Lietuviai]]

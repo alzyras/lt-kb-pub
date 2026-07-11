@@ -55,20 +55,6 @@ Nenurodyta
 - t-001
   global_id: t-80681
   teiginys: "1792 m. birželio 18 d. Lenkijos kariuomenė prie Zelencų sumušė Rusijos kariuomenę."
-  semantiniai_rysiai: "Lenkijos kariuomenė dalyvavo mūšyje Zelencų mūšis (1792 m. birželio 18 d.) (0.86)"
-  temporaliniai_duomenys: "įvykio data: 1792 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūksta ir apima kitus įvykius, o citata pagrindžia glaustą faktą apie Zelencų mūšį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "585964-586288; hash=65866d3942dc19c3160959e801178ac1448e2051dba43e71c5d792c782fc3ffb; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "dalyvavo_musyje -> Zelencų mūšis (1792 m. birželio 18 d.): 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lenkijos kariuomenė: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Zelencų mūšis (1792 m. birželio 18 d.): llm_allowed_candidate, event"
-  ryšio_paaiskinimas: "Lenkijos kariuomenės veiksmas prie Zelencų tiesiogiai siejamas su šiuo mūšiu."
   pagrindžia:
     - c-77365
 ## Reikšmingi paminėjimai
@@ -88,8 +74,8 @@ Nenurodyta
     4 d. LDK kariuomenė patyrė an-
     trąjį pralaimėjimą prie Zelvos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -119,6 +105,3 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-80681
-
-## Ryšiai
-- Turėjo dalyvį: [[objektai/grupes/Lenkijos kariuomenė]]

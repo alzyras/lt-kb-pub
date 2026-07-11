@@ -54,16 +54,6 @@ Nenurodyta
 - t-005
   global_id: t-93029
   teiginys: "Iki Jogailos privilegijos bajorai dėl dvarų ir kraičių turėjo atsiklausti didžiojo kunigaikščio."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "267544-268189; hash=602e00cbc7c99d7266fbe6b76231a3e30d9b5e5a2a1e52b74abd33b29988dae0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Bajorai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jogailos privilegija apsikrikštijusiems bajorams: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Bajorai: mention_match, group, gap=22"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jogailos privilegija apsikrikštijusiems bajorams\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-88439
 
@@ -71,16 +61,6 @@ Nenurodyta
 - t-003
   global_id: t-93030
   teiginys: "Apsikrikštijusiems bajorams suteikta pilna laisvė šeimos reikaluose, įskaitant dukterų išleidimą už vyro."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "267195-267543; hash=c44e9cf6ba6217d32a421e4a79ee70fed7df39b9f7670ddd02ab2add3696d91c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Bajorai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jogailos privilegija apsikrikštijusiems bajorams: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Bajorai: mention_match, group, gap=19"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jogailos privilegija apsikrikštijusiems bajorams\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-88436
 ## Reikšmingi paminėjimai
@@ -95,8 +75,8 @@ Nenurodyta
     teikta laisvė savo dukteris ir giminaites leisti už joms tinkamų
     vyrų, tik kad jie nebūtų stačiatikiai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -118,8 +98,8 @@ Nenurodyta
     ir bajorai, sekdami kunigaikščių pavyzdžiu, taip pat statė baž­
     nyčias ir dovanojo joms žemių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

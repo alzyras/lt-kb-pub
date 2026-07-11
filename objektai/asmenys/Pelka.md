@@ -39,20 +39,6 @@ media_all_json: |-
 - t-001
   global_id: t-87821
   teiginys: "Gniezno arkivyskupas Pelka 1253 m. įšventino Petrą ir pirmąjį Lietuvos vyskupą Vitą vyskupais."
-  semantiniai_rysiai: "Pelka paskyrė Vitas (0.82)"
-  temporaliniai_duomenys: "įvykio data: 1253 m.; įvykio data: 1822 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata aiškiai nurodo Pelkos atliktą įšventinimą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "400026-400642; hash=b165420dd50e9f13fc9e983aa17d496bb9e8c6fe6b65b4a55a2f178d6a42d0cf; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "paskyre -> Vitas: 0.82"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Pelka: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vitas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Pelka tiesiogiai įšventino Vitą vyskupu; artimiausias leistinas santykis yra paskyrimas."
   pagrindžia:
     - c-83800
 - susijęs iš [[objektai/asmenys/Petras (Poznanės vyskupas).md#claim-t-87823|Petras (Poznanės vyskupas)]]: 1253 m. Petras, išrinktas Poznanės vyskupu, Gniezno arkivyskupo Pelkos buvo įšventintas vyskupu.
@@ -83,8 +69,8 @@ media_all_json: |-
     tuvos vyskupas, Gniezno arkivyskupo Pelkos įšventinti vys­
     kupais. (Žr. 1.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -118,6 +104,3 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87821
-
-## Ryšiai
-- Pelka paskyrė [[objektai/asmenys/Vitas]]

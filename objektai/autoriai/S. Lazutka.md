@@ -32,16 +32,6 @@ Lazutka, E.
 - t-001
   global_id: t-19468
   teiginys: "S. Lazutka kartu su E. Gudavičiumi parengė „Pirmojo Lietuvos Statuto“ nuorašų faksimilių leidinio pirmo tomo antrą dalį."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "552125-552292; hash=cc092287dbe50bfd9377be48e5bf66618583d310378dd30abdce1810ff66da56; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "S. Lazutka: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=52"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"S. Lazutka\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-22189
 - susijęs iš [[objektai/autoriai/E. Gudavičius.md#claim-t-19388|E. Gudavičius]]: E. Gudavičius kartu su S. Lazutka parengė Pirmojo Lietuvos Statuto Dzialinskio, Lauryno ir Ališavos nuorašų faksimiles.
@@ -56,8 +46,8 @@ Lazutka, E.
     Kraków, 1989; Pirmasis Lietuvos Statutas: Dzialinskio, Lauryno ir Ališavos
     nuorašų faksimilės. Parengė S. Lazutka, E. Gudavičius. T. 1, d. 2. Vilnius, 1985; E. Rimša.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

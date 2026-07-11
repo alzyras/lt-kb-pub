@@ -41,19 +41,6 @@ Dusburgietis teigia, kad apie tai, kaip Sembos žemėje buvo pastatytos Tepliavo
 - t-001
   global_id: t-60374
   teiginys: "Laukstetų pilies vardas kildinamas iš ten gyvenusio sembo, vadinamo Laukstetu, vardo."
-  temporaliniai_duomenys: "įvykio data: 1265 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pagrindžia etimologinį teiginį; pradinis tekstas turi antraštės ir OCR triukšmo."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "401271-401640; hash=e818f8fbe833a3019ef0226c4beaea1799a0a356087385fba90ca6270d1e7b57; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Pilys: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Laukstetas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Pilys: mention_match, thing, gap=10"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Laukstetas\" parinktas kaip owner_note_path. Targetas \"Pilys\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-61006
 - susijęs iš Lochštetė: Viklandsorto pilis vėliau buvo vadinama Lochštete pagal ten gyvenusio sembo Lauksteto vardą.
@@ -70,8 +57,8 @@ Dusburgietis teigia, kad apie tai, kaip Sembos žemėje buvo pastatytos Tepliavo
     vieno ten gyvenusio sembo, vadinamo Laukstetu, vardo, jas sustiprinant, kad būtų
     lengviau tramdyti sembus.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -82,7 +69,8 @@ Dusburgietis teigia, kad apie tai, kaip Sembos žemėje buvo pastatytos Tepliavo
 - id: c-61006
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 124"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 124."
   citata_originali: |
     112 (107). Apie tai, kaip Sembos žemėje buvo pastatytos Tepliavos ir Laukstetų pilys
 
@@ -97,6 +85,3 @@ Dusburgietis teigia, kad apie tai, kaip Sembos žemėje buvo pastatytos Tepliavo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60374
-
-## Ryšiai
-- Laukstetas gyveno [[objektai/vietos/Semba]]

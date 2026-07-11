@@ -32,14 +32,6 @@ media_all_json: |-
 - t-001
   global_id: t-187702
   teiginys: "Šventojo Kryžiaus kalnai yra Lenkijos Kielcų vaivadijos kalnų ketera, kurioje yra 593 m aukščio Šventojo Kryžiaus viršūnė."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "430516-430929; hash=1cd50eb840bbafa7323effb58c4ae2a96427f3cd750fbc9512ef3023e5d9ebc6; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-170641
 ## Reikšmingi paminėjimai
@@ -56,8 +48,8 @@ media_all_json: |-
     su tariamai stebuklingu Jėzaus Kristaus kryžiaus medžio gabalu
     sidabriniuose apsoduose.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

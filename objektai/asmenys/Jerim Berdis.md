@@ -30,12 +30,6 @@ media_all_json: |-
 - t-001
   global_id: t-186046
   teiginys: "Žuvus Tochtamyšui, Jerim Berdis pabėgo pas Vytautą, nepaisydamas brolio likimo ir kraujo praliejimo."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "695707-696030; hash=1e77aef49e9c823e5e2e9a341d195db898a41a09bf531e7e4cd0ca15deb93946; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-169407
 - susijęs iš Volga: Kerim Berdis netoli Volgos su kariuomene ryžtingai užpuolė savo brolį Jerim Berdį.
@@ -55,8 +49,8 @@ media_all_json: |-
     dyje degė kur kas galingesnis garbės troškimas nei bai­
     mė.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -67,7 +61,8 @@ media_all_json: |-
 - id: c-169407
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 397"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 397."
   citata_originali: |
     Kerim Berdis, sutelkęs stiprią kariuome­
     nę, sutiko atvykstantį ir, stojęs į mūšį, išsklaidė jo
@@ -84,6 +79,5 @@ media_all_json: |-
     - t-186046
 
 ## Ryšiai
-- Broliai: [[objektai/asmenys/Kerim Berdis]]
 - Puolė Jerim Berdį: [[objektai/asmenys/Kerim Berdis]]
 - Jerim Berdis keliavo į [[objektai/vietos/Skitija]]

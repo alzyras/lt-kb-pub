@@ -30,19 +30,6 @@ Gandui apie pralaimėjimą pasiekus Krokuvą, Lešekas sutelkė bajorus ir su tu
 - t-001
   global_id: t-186061
   teiginys: "Gandui apie pralaimėjimą pasiekus Krokuvą, Lešekas sutelkė bajorus ir su turimais didikais leidosi persekioti priešą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "260003-260863; hash=6e26b049a9c71d2e20270951d23ac16fa2186dc85d3c955da85aeb1040e561a4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Bajorai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lešekas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Bajorai: mention_match, group, gap=16"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lešekas\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-169422
 
@@ -50,19 +37,6 @@ Gandui apie pralaimėjimą pasiekus Krokuvą, Lešekas sutelkė bajorus ir su tu
 - t-002
   global_id: t-186062
   teiginys: "Lešekas prieš puolančius lietuvius pasiuntė Krokuvos vaivadą Žegotą su prityrusių karių pulku ir rūmų raiteliais."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "263950-264957; hash=dc40a082c828084e44550aaf35a3da9cc9caa84299d99c6262eac15875203bb8; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Krokuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lešekas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Krokuva: mention_match, place, gap=44"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lešekas\" parinktas kaip owner_note_path. Targetas \"Krokuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-169423
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-184521|Lenkai]]: Lešekas teigė, kad ginkluoti lenkai turės ne kovoti su bėgančiais priešais, o juos žudyti.
@@ -91,8 +65,8 @@ Gandui apie pralaimėjimą pasiekus Krokuvą, Lešekas sutelkė bajorus ir su tu
     kariuomenę, paskyrė jiems vėliavas bei vadus, paragino
     stoti į kovą ir siekti pergalės.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -129,8 +103,8 @@ Gandui apie pralaimėjimą pasiekus Krokuvą, Lešekas sutelkė bajorus ir su tu
     leido kitiems atgauti drąsą (Lešekui visur dedant di­
     džiules pastangas) ir atsikratyti gėdingos baimės.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -141,7 +115,8 @@ Gandui apie pralaimėjimą pasiekus Krokuvą, Lešekas sutelkė bajorus ir su tu
 - id: c-169422
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 152"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 152."
   citata_originali: |
     Len­
     kams pasitraukus į miestus ir neleidus savo turtą nio­

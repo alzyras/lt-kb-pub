@@ -30,12 +30,6 @@ Ir aš prieš savo norą, jų valią vyk dydamas, tariau: aš priėmiau rusų ti
 - t-001
   global_id: t-194157
   teiginys: "Ir aš prieš savo norą, jų valią vyk dydamas, tariau: aš priėmiau rusų tikėjimą ir pareiš kiau tai viešai žmonėms, o sykiu slaptai laikiausi savo tikėjimo, kurj pirma buvau priėmęs, krikščionių tikė jimo."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "306792-307271; hash=49485923ff293c467cf34ff0423fc4b5462b03b164b311480b2a1cd6d1d963c6; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176770
 ## Reikšmingi paminėjimai
@@ -55,8 +49,8 @@ Ir aš prieš savo norą, jų valią vyk dydamas, tariau: aš priėmiau rusų ti
     savo tikėjimą. Ir taip aš ir šiandien laikausi krikščionių
     tikėjimo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

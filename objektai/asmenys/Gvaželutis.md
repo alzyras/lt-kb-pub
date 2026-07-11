@@ -40,21 +40,6 @@ Narbutas nurodo, kad Gvaželutis gimė 1295 metais kaip Vytenio ir jo antrosios 
 - t-001
   global_id: t-190154
   teiginys: "Narbutas nurodo, kad Gvaželutis gimė 1295 metais kaip Vytenio ir jo antrosios žmonos sūnus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "363309-363661; hash=1ee34a4c6a3cffbc041d070dcd5311e17287f4db0b673ed809fefe9834c1a1c0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Trobius: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gvaželutis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Trobius: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gvaželutis\" parinktas kaip owner_note_path. Targetas \"Trobius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173037
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-188527|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Narbutas nurodo, kad Gediminas gimė 1257 m. iš pirmosios Vytenio žmonos.
@@ -77,8 +62,8 @@ Narbutas nurodo, kad Gvaželutis gimė 1295 metais kaip Vytenio ir jo antrosios 
     rosios 1295 metais -  Gvaželutis ir 1296 metais -  Vainius. Tre­
     čioji paliko bevaikė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -107,6 +92,3 @@ Narbutas nurodo, kad Gvaželutis gimė 1295 metais kaip Vytenio ir jo antrosios 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190154
-
-## Ryšiai
-- Broliai: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]

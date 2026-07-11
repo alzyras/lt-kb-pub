@@ -42,19 +42,6 @@ Nenurodyta
 - t-002
   global_id: t-185708
   teiginys: "Jonušas nesuteikė Kęstučiui pagalbos, užpuolė Poleksiją ir staigiu įsiveržimu užėmė Drohičiną, Melniką, Suražą bei Kamenecą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "470005-470434; hash=5f4b19354b367a3b29a6690de6d259c28a8a9eda0b15d10c9f0f11de745f6b1e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kamenecas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jonušo antpuolis į Poleksiją ir pasienio pilių užėmimas: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Kamenecas: mention_match, place, gap=115"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jonušo antpuolis į Poleksiją ir pasienio pilių užėmimas\" parinktas kaip owner_note_path. Targetas \"Kamenecas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-169069
 
@@ -62,12 +49,6 @@ Nenurodyta
 - t-003
   global_id: t-193357
   teiginys: "Kęstutis, savo ruožtu apie viską sužinojęs, paliko rusų pulkus, turėjusius toliau pulti Seversko NauK ęstu tis traukia p rieš gardą ir ginti apylinkes nuo Jogailą, su p a T raku s Kaributo antpuolių, o pats skubiai sugrįžo į Žemaitiją; čia greitosiomis."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "469270-470004; hash=ad6d52f0379c7a817cb470c5bed536dcb6302caa99b63c6d51190ce041d70a7a; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176084
 ## Reikšmingi paminėjimai
@@ -89,8 +70,8 @@ Nenurodyta
     Be to, Jogaila, sulaukęs paramos iš Livonijos ir Prūsi­
     jos, jau traukė su kariuomene iš Vilniaus.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -119,8 +100,8 @@ Nenurodyta
     ėmimą ir kad neleistų tuščiai laiko, jis pradėjo pulti
     Trakus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -155,7 +136,8 @@ Nenurodyta
 - id: c-176084
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 268"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 268."
   citata_originali: |
     Kęstutis, savo ruožtu
     apie viską sužinojęs, paliko rusų pulkus, turėjusius

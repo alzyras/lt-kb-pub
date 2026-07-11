@@ -41,16 +41,6 @@ Karalius ŽYGIMANTAS 411 ## Puslapis 428 VILNIAUS MIESTO ISTORIJA II TOMAS VALER
 - t-003
   global_id: t-88136
   teiginys: "Valerijono Bursos raštas buvo surašytas steigėjo ranka, patvirtintas jo antspaudu ir perduotas saugoti rektoriui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "790763-791502; hash=3d717d59673ddf7a38b451485d4a601cb1b350a10afcbadf7df3cba8fcbaba0e; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Antspaudas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Valerijono Bursos pastatymo ir aprūpinimo raštas (1579 m.): owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Antspaudas: mention_match, thing, gap=72"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Valerijono Bursos pastatymo ir aprūpinimo raštas (1579 m.)\" parinktas kaip owner_note_path. Targetas \"Antspaudas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-84116
 
@@ -58,16 +48,6 @@ Karalius ŽYGIMANTAS 411 ## Puslapis 428 VILNIAUS MIESTO ISTORIJA II TOMAS VALER
 - t-002
   global_id: t-88137
   teiginys: "Valerijono Bursos raštu kolegijos mokiniams, dėl sunkios padėties negalėjusiems baigti studijų, skirta amžina ir neatšaukiama dovana."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "781952-783325; hash=d6312100b614bc18759ae9102ce076b89197d5ff85eb4d4cd2e532f3449212f0; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Valerijono bursos: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Valerijono Bursos pastatymo ir aprūpinimo raštas (1579 m.): owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Valerijono bursos: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Valerijono Bursos pastatymo ir aprūpinimo raštas (1579 m.)\" parinktas kaip owner_note_path. Targetas \"Valerijono bursos\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-84117
 
@@ -75,19 +55,6 @@ Karalius ŽYGIMANTAS 411 ## Puslapis 428 VILNIAUS MIESTO ISTORIJA II TOMAS VALER
 - t-001
   global_id: t-88138
   teiginys: "Valerijono Bursos pastatymo ir aprūpinimo raštas datuojamas 1579 m. ir pradėtas Vilniaus vyskupo Valerijono vardu."
-  temporaliniai_duomenys: "pastatymo data: 1579 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalinus puslapio triukšmą, citata pagrindžia dokumento pavadinimą, datą ir vyskupo vardą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "780072-780483; hash=9aece53cf9fdd0fb1b340f304329154fb7865c2eb8b5c1a40b1293185714fc50; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Valerijono bursos: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Valerijono Bursos pastatymo ir aprūpinimo raštas (1579 m.): owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Valerijono bursos: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Valerijono Bursos pastatymo ir aprūpinimo raštas (1579 m.)\" parinktas kaip owner_note_path. Targetas \"Valerijono bursos\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-84115
 ## Reikšmingi paminėjimai
@@ -113,8 +80,8 @@ Karalius ŽYGIMANTAS 411 ## Puslapis 428 VILNIAUS MIESTO ISTORIJA II TOMAS VALER
     mus universis et singulis, quibus id scire interest, aut Interes­
     se poterit.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -142,8 +109,8 @@ Karalius ŽYGIMANTAS 411 ## Puslapis 428 VILNIAUS MIESTO ISTORIJA II TOMAS VALER
     manus R-ndi Patris Rectoris, ubi tutius cum reliquis literis,
     in omnem posteritatem reservari possunt.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -182,8 +149,8 @@ Karalius ŽYGIMANTAS 411 ## Puslapis 428 VILNIAUS MIESTO ISTORIJA II TOMAS VALER
     VILNIAUS MIESTO ISTORIJA// TOMAS
     ferremus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

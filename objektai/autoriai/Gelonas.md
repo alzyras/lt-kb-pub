@@ -30,21 +30,6 @@ Teodoras Narbutas Geloną minėjo tarp pavardžių, kuriomis grindė prielaidas 
 - t-001
   global_id: t-191607
   teiginys: "Teodoras Narbutas Geloną minėjo tarp pavardžių, kuriomis grindė prielaidas apie Galindos kilmę."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "472203-472745; hash=68254079c5bc7b0d865f629abd74bdc1ba8f0860bd38738f129e1401abc1886f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Galinda: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gelonas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Galinda: mention_match, place, gap=62"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gelonas\" parinktas kaip owner_note_path. Targetas \"Galinda\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174489
 ## Reikšmingi paminėjimai
@@ -65,8 +50,8 @@ Teodoras Narbutas Geloną minėjo tarp pavardžių, kuriomis grindė prielaidas 
     pašventinti išsikėlę iš AMlkovysko Rosės. Tai atrodo dar
     !
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -77,7 +62,8 @@ Teodoras Narbutas Geloną minėjo tarp pavardžių, kuriomis grindė prielaidas 
 - id: c-174489
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 265"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 265."
   citata_originali: |
     Vėliau, laikui bėgant, sla­
     vams ar kitoms tautoms spaudžiant iš rytų, jie buvo pri­

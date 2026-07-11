@@ -51,15 +51,6 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
 - t-007
   global_id: t-195096
   teiginys: "1576 m. rugsėjo 23 d. Marienburge Steponas Batoras parašė laišką Vilniaus vyskupui ir Vilniaus vaivadai Radvilai."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Citata patikimai pagrindžia laiško vietą, datą ir adresatus."
-  susije_objektai: "mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_place: Marienburgas; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_person: [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]]; mentioned_place: Lietuva"
-  temporaliniai_duomenys: "įvykio data: 1576 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata patikimai pagrindžia laiško vietą, datą ir adresatus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "640746-641874; hash=e9c85d52b37dd94387fa3d10640ba9b81018672a485b5069447c3b25cdcae25a; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177481
 
@@ -67,14 +58,6 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
 - t-004
   global_id: t-195097
   teiginys: "Ordino pasiuntinys grįžo į Malburgą aiškiai supratęs, kad Vytautas lengvai Žemaitijos neužleis, o Makras dar labiau palinko į Vytauto pusę."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
-  susije_objektai: "mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Kaunas; mentioned_place: Salos"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "333170-333504; hash=2e94d5196b9bb3ef12f921b91623ecffa75aba3c5634473ebd33069b1233add8; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177478
 
@@ -82,14 +65,6 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
 - t-001
   global_id: t-195098
   teiginys: "Malburgas, dar vadintas Marienburgu, 1281 m. buvo pastatytas kryžiuočių."
-  teiginio_tipas: "faktas"
-  susije_objektai: "llm_object: Malburgas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Baltija; mentioned_place: Lenkija; mentioned_place: Torunė; mentioned_place: Varmė; mentioned_place: Čekija"
-  semantiniai_rysiai: "[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] pastatė Malburgas"
-  temporaliniai_duomenys: "pastatymo data: 1281 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "35138-35671; hash=036d93124793b5d2e6a825e45f575741bff2c9516a253ab27d211d79f21e997b; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177482
 
@@ -97,16 +72,6 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
 - t-006
   global_id: t-195099
   teiginys: "Malburgą, dar vadinamą Marienburgu, 1281 m. pastatė kryžiuočiai."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Pašalintas kitų miestų sąrašas ir paliktas teiginys apie objektą."
-  susije_objektai: "llm_object: Malburgas; mentioned_place: Malburgas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Baltija; mentioned_place: Lenkija; mentioned_place: Torunė; mentioned_place: Varmė; mentioned_place: Čekija"
-  semantiniai_rysiai: "[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] pastatė Malburgas"
-  temporaliniai_duomenys: "pastatymo data: 1281 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalintas kitų miestų sąrašas ir paliktas teiginys apie objektą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "35138-35671; hash=036d93124793b5d2e6a825e45f575741bff2c9516a253ab27d211d79f21e997b; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177482
 
@@ -114,18 +79,6 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
 - t-003
   global_id: t-195100
   teiginys: "1388-1404 m. popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII pasiuntė į Malburgą kelias bules, drausdami Vokiečių Ordinui pulti lietuvius neofitus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
-  susije_objektai: "llm_object: Malburgas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Bonifacas IX|Bonifacas IX]]; mentioned_person: [[objektai/asmenys/Inocentas VII|Inocentas VII]]"
-  semantiniai_rysiai: "[[objektai/asmenys/Bonifacas IX|Bonifacas IX]] siuntė į Malburgas; [[objektai/asmenys/Inocentas VII|Inocentas VII]] siuntė į Malburgas"
-  temporaliniai_duomenys: "įvykio data: 1388-1404; įvykio data: 1404 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "269162-269439; hash=6b9379aaa819837d7ad4ec50d9291864c28e7b1bad6204cbf15cf6f7641d72b3; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177479
 
@@ -133,12 +86,6 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
 - t-005
   global_id: t-195101
   teiginys: "Didysis magistras slapta iš Marienburgo išplaukė Vysla laivais, o paskui per jūros įlanką įplaukė į Nemuną."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys yra faktinis, gramatiškas ir paremtas citata."
-  susije_objektai: "mentioned_place: Marienburgas; mentioned_place: Nemunas; mentioned_place: Vysla; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "299918-300267; hash=611d3c5c4bb0c3e1df721f2b1114f4781edfed5252814bca1521a7fad4c15bf4; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177480
 
@@ -146,13 +93,6 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
 - t-002
   global_id: t-195102
   teiginys: "Malburgą, dar vadintą Marienburgu, kryžiuočiai pastatė 1281 metais."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys paremtas citata, bet reikia pašalinti OCR triukšmą ir perteklinį miestų sąrašą."
-  susije_objektai: "llm_object: Malburgas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Prūsai|Prūsai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Baltija; mentioned_place: Lenkija; mentioned_place: Torunė; mentioned_place: Varmė; mentioned_place: Čekija"
-  semantiniai_rysiai: "[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] pastatė Malburgas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "35138-35671; hash=036d93124793b5d2e6a825e45f575741bff2c9516a253ab27d211d79f21e997b; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177482
 - susijęs iš [[objektai/asmenys/Bonifacas IX.md#claim-t-184254|Bonifacas IX]]: 1388–1404 m. popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII bulėmis draudė Vokiečių ordinui pulti lietuvius kaip neofitus.
@@ -190,8 +130,8 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
     amžiumi vėliau, Lenkijoje pasuko vienas galingiausių anų lai­
     kų karalių - Boleslovas Didysis, pramintas Narsiuoju.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -207,8 +147,8 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
     laikotarpy (1388—1404) pasiuntė į Malburgą kelias bules,
     drausdami Vok. Ordinui pulti lietuvius, kaipo neofitus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -225,8 +165,8 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
     aiškiai supratęs, kad Vytautas lengvai Žemaitijos neužleis, o
     Makras dar labiau palinko į Vytauto pusę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -247,8 +187,8 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
     bendrais bruožais ir ne taip išsamiai
     apie šitai pasakoja.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -284,8 +224,8 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
     kių, kad vėliau, po seimo sprendimo, būtų žinoma, ko gali­
     ma reikalauti iš pirklių, o ko reikėtų atsisakyti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -421,5 +361,5 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
     - t-195102
 
 ## Ryšiai
-- Buvo pastatyta: [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Teutonai]]
-- Buvo siuntimo vieta: [[objektai/asmenys/Bonifacas IX]], [[objektai/asmenys/Inocentas VII]]
+- Buvo pastatyta: [[objektai/grupes/Kryžiuočių ordinas]]
+- Buvo siuntimo vieta: [[objektai/asmenys/Bonifacas IX]]

@@ -30,12 +30,6 @@ Priešas sudegino Dorogobužą ir miške nukirstais medžiais užtvėrė kelią 
 - t-001
   global_id: t-185285
   teiginys: "Priešas sudegino Dorogobužą ir miške nukirstais medžiais užtvėrė kelią karaliaus kariuomenei."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1072888-1073350; hash=69fcad0b2a2343cb6209da4bdd08f6f9192dee2e705a3e5a9cfc537e9a3ec06d; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-168646
 - susijęs iš [[objektai/asmenys/Madykas.md#claim-t-40323|Madykas]]: Kunigaikštis Madykas buvo murzos Sivinduko tėvas.
@@ -64,8 +58,8 @@ Priešas sudegino Dorogobužą ir miške nukirstais medžiais užtvėrė kelią 
     šo kraštą ir išsivarė iš ten
     daug grobio.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -76,7 +70,8 @@ Priešas sudegino Dorogobužą ir miške nukirstais medžiais užtvėrė kelią 
 - id: c-168646
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 604"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 604."
   citata_originali: |
     Dėl žymiau­
     siųjų didikų nesutarimų, o ypač dėl to, kad kai kas

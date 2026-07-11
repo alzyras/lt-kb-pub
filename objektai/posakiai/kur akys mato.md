@@ -30,12 +30,6 @@ Vaišvilkas 1 ėmė kunigaikščiauti visoje Lietuvos že mėje ir žudyti savo 
 - t-001
   global_id: t-194058
   teiginys: "Vaišvilkas 1 ėmė kunigaikščiauti visoje Lietuvos že mėje ir žudyti savo priešininkus, išžudė jų be saiko, o kiti išbėgiojo, kur akys mato."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "96116-96393; hash=faf34ac2db30c5a3aad6a09cf7c32f4aa1f48c4e372d00e9bbf2844e85621066; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176671
 ## Reikšmingi paminėjimai
@@ -51,8 +45,8 @@ Vaišvilkas 1 ėmė kunigaikščiauti visoje Lietuvos že mėje ir žudyti savo 
     o kiti išbėgiojo, kur akys mato. Nužudė ir aną pasiutusį
     prakeiktą2  Eustachą3, nuožmųjį Mindaugo vaivadą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -63,7 +57,8 @@ Vaišvilkas 1 ėmė kunigaikščiauti visoje Lietuvos že mėje ir žudyti savo 
 - id: c-176671
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 53"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 53."
   citata_originali: |
     Visa Lietuva sutiko
     savo valdovo sūnų didžiai džiaugdamasi.

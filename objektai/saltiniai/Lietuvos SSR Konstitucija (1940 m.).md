@@ -40,20 +40,6 @@ Pavertus Lietuvą SSRS sudedamąja dalimi, savanoriškumo kamufliažo atsisakyta
 - t-001
   global_id: t-21137
   teiginys: "1940 m. Lietuvos SSR Konstitucija buvo patvirtinta pertvarkant Lietuvos valdymo sistemą pagal Sovietų Sąjungos modelį."
-  semantiniai_rysiai: "Lietuva priklausė SSRS (0.94)"
-  temporaliniai_duomenys: "įvykio data: po 1936 m.; įvykio data: 1936 m.; įvykio data: 1940 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs, o citata pagrindžia konstitucijos priėmimo kontekstą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "389510-390157; hash=8c1807a6fcd578dc719312f90262e16f73c15d6a2a9759d16e93b2a245bb0169; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> SSRS: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "SSRS: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai teigia, kad Lietuva buvo paversta SSRS sudedamąja dalimi."
   pagrindžia:
     - c-23847
 ## Reikšmingi paminėjimai
@@ -72,8 +58,8 @@ Pavertus Lietuvą SSRS sudedamąja dalimi, savanoriškumo kamufliažo atsisakyta
     Liaudies vyriausybę, patvirtinta sovietinė konstitucija, kuri niekuo ne-
     siskyrė nuo 1936 m.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -53,11 +53,6 @@ Nenurodyta
 - t-001
   global_id: t-67043
   teiginys: "Aukso laisvės ideologai netvarką laikė Respublikos saugumo sąlyga, nes manė, kad tokia valstybė niekam nepavojinga."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "716248-716697; hash=1ef006a52f81f39e43271dd37fab435aa0a10d616d0937ddfc3ff359c01a4880; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-67096
 ## Reikšmingi paminėjimai
@@ -76,8 +71,8 @@ Nenurodyta
     nepulsiąs; taigi bajorija galinti džiaugtis savo laisve ir niekuo
     nesirūpinti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

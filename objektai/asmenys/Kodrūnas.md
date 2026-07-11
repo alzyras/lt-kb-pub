@@ -42,17 +42,6 @@ Dusburgietis teigia, kad magistras, galop nurimęs, pasiuntė laivais didžiulę
 - t-001
   global_id: t-60356
   teiginys: "Kodrūnas, apgultos prūsų pilies vadas, talkino broliams užimant Baigos pilį."
-  semantiniai_rysiai: "Kodrūnas užėmė Baiga (0.68)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "262037-263069; hash=c0d9b4ab641128fb79bb13ea5e065c334eae809f6f401eed8bb08586187abdf4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Baiga: 0.68"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kodrūnas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Baiga: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Kodrūnas talkino užimant Baigos pilį; jis nėra pagrindinis užėmėjas, bet dalyvavimas užėmime tiesiogiai palaikomas."
   pagrindžia:
     - c-60988
 ## Reikšmingi paminėjimai
@@ -74,8 +63,8 @@ Dusburgietis teigia, kad magistras, galop nurimęs, pasiuntė laivais didžiulę
     apsigyveno toje pilyje245 1239 viešpaties dievo metais ir ten dar garbingiau kovojo su
     minėtaisiais prūsais viešpaties dievo kariuomenei deramas kovas.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -86,7 +75,8 @@ Dusburgietis teigia, kad magistras, galop nurimęs, pasiuntė laivais didžiulę
 - id: c-60988
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 79"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 79."
   citata_originali: |
     Išgirdęs šią liūdną naujieną, magistras nepaprastai susikrimto, tačiau jam priminė
     pavyzdį Dovydo, kuris savo kariuomenės vadą Joabą, didžiai besisielojantį dėl saviškių
@@ -107,6 +97,3 @@ Dusburgietis teigia, kad magistras, galop nurimęs, pasiuntė laivais didžiulę
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60356
-
-## Ryšiai
-- Kodrūnas užėmė [[objektai/vietos/Baiga]]

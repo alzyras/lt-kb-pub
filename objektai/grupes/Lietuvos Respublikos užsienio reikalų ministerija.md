@@ -46,19 +46,6 @@ Išleista Lietuvos Respublikos užsienio reikalų ministerijos užsakymu. Rengia
 - t-002
   global_id: t-65772
   teiginys: "Rengiantis Lietuvos pirmininkavimui ES, Užsienio reikalų ministerija paprašė VU TSPMI mokslininkų parengti glaustą Lietuvos istorijos veikalą."
-  temporaliniai_duomenys: "įvykio data: 1990 m.; įvykio data: 2004 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs, todėl perrašytas į pilną sakinį."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "8513-9535; hash=97d59e5aa5065f3c0469a3f7ca9a875c5238f458dc62f521b5cacc14a9f6b739; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos Respublikos užsienio reikalų ministerija (institucija): owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos Respublikos užsienio reikalų ministerija (institucija)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-22571
 
@@ -66,19 +53,6 @@ Išleista Lietuvos Respublikos užsienio reikalų ministerijos užsakymu. Rengia
 - t-004
   global_id: t-65773
   teiginys: "Knygos antrasis leidimas 2013 m. išleistas Lietuvos Respublikos užsienio reikalų ministerijos užsakymu."
-  temporaliniai_duomenys: "įvykio data: 2013 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalintas OCR ir turinio triukšmas, paliktas paremtas faktas apie objektą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "151-1087; hash=5e6be72620a475a44e5ae3abdf4ef02768a55f34c888953cd2705206fbbcd164; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Abiejų Tautų Respublika: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos Respublikos užsienio reikalų ministerija (institucija): owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Abiejų Tautų Respublika: mention_match, group, gap=9"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos Respublikos užsienio reikalų ministerija (institucija)\" parinktas kaip owner_note_path. Targetas \"Abiejų Tautų Respublika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-66165
 - susijęs iš [[objektai/ivykiai/Lietuvos skyriaus parengimas 1939 m. pasaulinei parodai Niujorke.md#claim-t-20358|Lietuvos skyriaus parengimas 1939 m. pasaulinei parodai Niujorke]]: 1939 m. pasaulinei parodai Niujorke Lietuvos Respublikos užsienio reikalų ministerija inicijavo specialaus Lietuvos skyriaus parengimą.
@@ -106,8 +80,8 @@ Išleista Lietuvos Respublikos užsienio reikalų ministerijos užsakymu. Rengia
     prašydama parengti glaustą, lengvai skaitomą, tiesos ir atvirumo kriteri-
     jais grįstą Lietuvos istorijos veikalą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -147,8 +121,8 @@ Išleista Lietuvos Respublikos užsienio reikalų ministerijos užsakymu. Rengia
     Gediminaičių dinastijos iškilimas 31
     PAGONIŲ VALSTYBĖ.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

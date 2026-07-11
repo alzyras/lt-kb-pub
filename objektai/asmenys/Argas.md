@@ -30,21 +30,6 @@ Narbutas pasakoja, kad Prikso sūnus Argas pirmasis susiruošė kelionei Juodąj
 - t-001
   global_id: t-191368
   teiginys: "Narbutas pasakoja, kad Prikso sūnus Argas pirmasis susiruošė kelionei Juodąja jūra, tuomet vadinta Pontos-Axenos."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "72276-72698; hash=3bd88e12d25dbf2249a07606368e4c3f842d6012e748aa49fd26020fb144a744; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Argonautai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Argas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Argonautai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Argas\" parinktas kaip owner_note_path. Targetas \"Argonautai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174250
 - susijęs iš [[objektai/asmenys/Jasonas.md#claim-t-191280|Jasonas]]: Teodoras Narbutas Jasono vadovaujamą kelionę datuoja 1350 m. pr. Kr. ir aprašo kaip vykusią Argo laivu su argonautais.
@@ -65,8 +50,8 @@ Narbutas pasakoja, kad Prikso sūnus Argas pirmasis susiruošė kelionei Juodąj
     vyko Argo laivu, taip vadinamu gal dėl jo statytojo, o
     plaukę kartu jūreiviai buvo vadinami argonautais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -77,7 +62,8 @@ Narbutas pasakoja, kad Prikso sūnus Argas pirmasis susiruošė kelionei Juodąj
 - id: c-174250
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 42"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 42."
   citata_originali: |
     Prikso sūnus Argas pirmasis susiruošė į ke­
     lionę minėta jūra, kurią tuomet vadino Pontos-Axenos,

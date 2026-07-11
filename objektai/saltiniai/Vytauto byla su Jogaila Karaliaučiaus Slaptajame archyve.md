@@ -35,16 +35,6 @@ Net ir pats Vytautas dėstydamas savo bylą su Jogaila, esančią Karaliauč. Ta
 - t-001
   global_id: t-88355
   teiginys: "Vytauto byloje su Jogaila aiškinta, kad Jogaila slapta sudarė taiką su Prūsija ir Livonija."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "101954-102744; hash=25f23f0d15c1f873d61237035a15b3a89763a7ab9d657a1a4e7a34864490c061; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytauto byla su Jogaila Karaliaučiaus Slaptajame archyve: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=18"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytauto byla su Jogaila Karaliaučiaus Slaptajame archyve\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-84334
 
@@ -52,16 +42,6 @@ Net ir pats Vytautas dėstydamas savo bylą su Jogaila, esančią Karaliauč. Ta
 - t-002
   global_id: t-88356
   teiginys: "Vytauto byloje su Jogaila Hanulas tapatinamas su Hanka, paminėtu autentiškame Vladislovo Jogailos laiške."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "103903-104448; hash=90ab5830355a4bd3ed997f7f49b0898c35356389173a1854f04086457d514e39; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Hanulas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytauto byla su Jogaila Karaliaučiaus Slaptajame archyve: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Hanulas: mention_match, person, gap=26"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytauto byla su Jogaila Karaliaučiaus Slaptajame archyve\" parinktas kaip owner_note_path. Targetas \"Hanulas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-84335
 ## Reikšmingi paminėjimai
@@ -94,8 +74,8 @@ Net ir pats Vytautas dėstydamas savo bylą su Jogaila, esančią Karaliauč. Ta
     mentų akivaizdžiai įsitikino jo priešiškumu, bet, Vytautui
     užsistojus, kartu su motina į tėvoniją, į Vitebską, išsiuntė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -122,8 +102,8 @@ Net ir pats Vytautas dėstydamas savo bylą su Jogaila, esančią Karaliauč. Ta
     tiškame laiške: Datum in Krewferia
     2da in vigilia assumptionis B .
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

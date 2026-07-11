@@ -30,21 +30,6 @@ Narbutas Šarkį apibūdina kaip galingą ir narsų karžygį, gyvenusį Sarkais
 - t-001
   global_id: t-191493
   teiginys: "Narbutas Šarkį apibūdina kaip galingą ir narsų karžygį, gyvenusį Sarkais vadintoje šalaviečių pilyje Lietuvos pasienyje."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "669742-670247; hash=0b051727e766ac7ab96cb6f0a887c7edb24f668704ae25152f89f1fac85ad4d6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Šarkis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=92"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šarkis\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174375
 ## Reikšmingi paminėjimai
@@ -63,8 +48,8 @@ Narbutas Šarkį apibūdina kaip galingą ir narsų karžygį, gyvenusį Sarkais
     dos apskrityje, Nočios parapijoje netoli Kalesnykų; Szar-
     kutis lietuvių kalba reiškia kiauliaskerdį, skerdiką.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -75,7 +60,8 @@ Narbutas Šarkį apibūdina kaip galingą ir narsų karžygį, gyvenusį Sarkais
 - id: c-174375
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 369"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 369."
   citata_originali: |
     Ponas Foigtas rado Berlyno rankraštyje vietovardį
     Raganita, ir tai žinomas pats tikriausias pavadinimas, nes

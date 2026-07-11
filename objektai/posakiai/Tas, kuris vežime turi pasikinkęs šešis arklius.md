@@ -38,17 +38,6 @@ Patarlė ironiškai sieja drąsą dėti kepurę ant stalo su pabėgimo, pinigų 
 - t-002
   global_id: t-187840
   teiginys: "Narbutas posakį „Tas, kuris vežime turi pasikinkęs šešis arklius“ pateikia kaip labai seną patarlę iš XVI a. vietinių dokumentų."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "564615-565046; hash=98a3d2e229b16a880feb1a4486cf5f1ac2470d6f5fe66181ef64e1688ea7a32d; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
-  ryšio_patikimumas: "susije_su -> Dėti kepurę: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Tas, kuris vežime turi pasikinkęs šešis arklius: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Dėti kepurę: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tas, kuris vežime turi pasikinkęs šešis arklius\" parinktas kaip owner_note_path. Targetas \"Dėti kepurę\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-170799
 ## Reikšmingi paminėjimai
@@ -66,8 +55,8 @@ Patarlė ironiškai sieja drąsą dėti kepurę ant stalo su pabėgimo, pinigų 
     drąsiai dėti kepurę ant stalo“'9. Tai išrašyta iš XVI amžiaus vie­
     tinių dokumentų18 19 20.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -78,7 +67,8 @@ Patarlė ironiškai sieja drąsą dėti kepurę ant stalo su pabėgimo, pinigų 
 - id: c-170799
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 321"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 321."
   citata_originali: |
     Tą užmo­
     kestį paimdavo prisiekusioji pusė, dalį pinigų atidavusi teismui1*.

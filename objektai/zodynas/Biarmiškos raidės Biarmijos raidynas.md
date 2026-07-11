@@ -30,14 +30,6 @@ Narbutas rašo, kad mažo sidabrinio pinigėlio įdubusioje pusėje užrašas bi
 - t-001
   global_id: t-189281
   teiginys: "Narbutas rašo, kad mažo sidabrinio pinigėlio įdubusioje pusėje užrašas biarmiškomis raidėmis reiškė „Jurhii“."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "429026-429398; hash=4944600f79109a013efe065b99f51e95f035d26c18e75ea28c8458d9b6ec98c1; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172169
 ## Reikšmingi paminėjimai
@@ -57,8 +49,8 @@ Narbutas rašo, kad mažo sidabrinio pinigėlio įdubusioje pusėje užrašas bi
     ženklas, panašus į vadinamojo biarmiškojo raidyno raidę A
     arbatų, prie kurios yra dobilo lapelis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

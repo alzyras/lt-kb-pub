@@ -38,24 +38,6 @@ Alberichas 1228 m. kronikoje, Narbuto perteikimu, tarp įgytinų pagonių provin
 - t-001
   global_id: t-191666
   teiginys: "Alberichas 1228 m. kronikoje, Narbuto perteikimu, tarp įgytinų pagonių provincijų minėjo Prūsiją, Kuršą, Lietuvą, Vitlandiją ir Sembą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1228 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai sieja Albericho 1228 m. kroniką su išvardytomis provincijomis. Lotyniškas sąrašas perteiktas lietuviškai ir su Narbuto atribucija."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "623939-624390; hash=899a7557ebd5264bb248f47df17c9154c317acde6dfe53dc21f6d6d125bf802a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Semba: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Alberichas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Semba: mention_match, place, gap=128"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Alberichas\" parinktas kaip owner_note_path. Targetas \"Semba\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174548
 ## Reikšmingi paminėjimai
@@ -74,8 +56,8 @@ Alberichas 1228 m. kronikoje, Narbuto perteikimu, tarp įgytinų pagonių provin
     Vitlandijos vardu, Be to, ši senovės Vitlandija driekėsi
     rytine Vyslos pakrante.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -86,7 +68,8 @@ Alberichas 1228 m. kronikoje, Narbuto perteikimu, tarp įgytinų pagonių provin
 - id: c-174548
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 346"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 346."
   citata_originali: |
     Taip pat apie skirtingas šalis ra­
     šo Alberichas savo 1228 metų kronikoje (Leibnitz: Access.

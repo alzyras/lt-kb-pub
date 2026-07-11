@@ -70,19 +70,6 @@ Terminas pasitelkiamas atpasakoti vieną akto aiškinimą ir tuoj pat jam polemi
 - t-004
   global_id: t-47923
   teiginys: "Ivinskio aiškinimu, 1385 m. aktas rodė ne inkorporaciją, o būsimą Lietuvos Didžiosios Kunigaikštystės leno santykį su karūna."
-  temporaliniai_duomenys: "įvykio data: 1385 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Tai autoriaus interpretacija, todėl reikia aiškios atribucijos ir taisyklingos formuluotės."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "786529-786915; hash=d9b2b80f55ca2b8b7d62606daad917b9ac759b9e8014ed34776d48b9f915b097; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  ryšio_patikimumas: "susije_su -> Karūna: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "inkorporacija: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Karūna: mention_match, thing, gap=76"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"inkorporacija\" parinktas kaip owner_note_path. Targetas \"Karūna\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-32651
 
@@ -90,18 +77,6 @@ Terminas pasitelkiamas atpasakoti vieną akto aiškinimą ir tuoj pat jam polemi
 - t-003
   global_id: t-47924
   teiginys: "1385 m. aktas nerodė Lietuvos inkorporacijos, o veikiau būsimą Lietuvos Didžiosios Kunigaikštijos ir karūnos leno santykį."
-  temporaliniai_duomenys: "įvykio data: 1385 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "786529-786915; hash=d9b2b80f55ca2b8b7d62606daad917b9ac759b9e8014ed34776d48b9f915b097; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  ryšio_patikimumas: "susije_su -> Karūna: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "inkorporacija: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Karūna: mention_match, thing, gap=71"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"inkorporacija\" parinktas kaip owner_note_path. Targetas \"Karūna\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-32651
 - susijęs iš [[objektai/posakiai/didelis „remontas“ Krėvės unijoj.md#claim-t-35997|didelis „remontas“ Krėvės unijoj]]: Knygos autorius 1401 m. aktą vertino kaip didelį Lietuvos atsipalaidavimo nuo Lenkijos žingsnį ir Krėvės unijos „remontą“.
@@ -119,8 +94,8 @@ Terminas pasitelkiamas atpasakoti vieną akto aiškinimą ir tuoj pat jam polemi
     voje toliau išliko ne tik valstybinio gyvenimo skirtingumas, bet ir
     pati didžiojo kunigaikščio institucija.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

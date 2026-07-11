@@ -49,17 +49,6 @@ Nenurodyta
 - t-001
   global_id: t-41356
   teiginys: "Vilniaus apskrityje veikę Liudviko Narbuto vadovaujami sukilėliai kovėsi su rusų kariuomene prie Rūdninkų ir Dubičių, kur žuvo pats Narbutas, o sukilėliai buvo išblaškyti."
-  semantiniai_rysiai: "Rusai dalyvavo mūšyje Rūdninkų ir Dubičių kautynės (0.86)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "653081-653396; hash=462f183a84370c5595d9024b1a3d10b05fab6859541d9fb895e48e65eb9e591d; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "dalyvavo_musyje -> Rūdninkų ir Dubičių kautynės: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Rusai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Rūdninkų ir Dubičių kautynės: llm_allowed_candidate, event"
-  ryšio_paaiskinimas: "Rusų kariuomenė tiesiogiai įvardyta kaip kautynių dalyvė."
   pagrindžia:
     - c-167068
 
@@ -67,17 +56,6 @@ Nenurodyta
 - t-001
   global_id: t-41356
   teiginys: "Vilniaus apskrityje veikę Liudviko Narbuto vadovaujami sukilėliai kovėsi su rusų kariuomene prie Rūdninkų ir Dubičių, kur žuvo pats Narbutas, o sukilėliai buvo išblaškyti."
-  semantiniai_rysiai: "Rusai dalyvavo mūšyje Rūdninkų ir Dubičių kautynės (0.86)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "653081-653396; hash=462f183a84370c5595d9024b1a3d10b05fab6859541d9fb895e48e65eb9e591d; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "dalyvavo_musyje -> Rūdninkų ir Dubičių kautynės: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Rusai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Rūdninkų ir Dubičių kautynės: llm_allowed_candidate, event"
-  ryšio_paaiskinimas: "Rusų kariuomenė tiesiogiai įvardyta kaip kautynių dalyvė."
   pagrindžia:
     - c-167068
 ## Reikšmingi paminėjimai
@@ -98,8 +76,8 @@ Nenurodyta
     kilimo organizatorių buvo kunigas An-
     tanas Mackevičius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -131,6 +109,3 @@ Nenurodyta
   pagrindzia:
     - t-183676
     - t-41356
-
-## Ryšiai
-- Turėjo dalyvį: [[objektai/grupes/Rusai]]

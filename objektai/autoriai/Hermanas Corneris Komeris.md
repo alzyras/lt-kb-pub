@@ -34,16 +34,6 @@ Hermano C o r neri o, dominikono, Kroniką, Naruševi­ čiau s t.
 - t-001
   global_id: t-88061
   teiginys: "Hermanas Corneris Komeris buvo dominikonas, kurio kronika cituojama apie Vilniaus miestiečių palankumą Jogailai."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "106137-106568; hash=ace8fffcd401c55e40ce7ed9f039ccd8bd12ea3fe256efabacf935d8b5701f3b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Hermanas Corneris: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Hermanas Corneris Komeris: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Hermanas Corneris: mention_match, author, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Hermanas Corneris Komeris\" parinktas kaip owner_note_path. Targetas \"Hermanas Corneris\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-84040
 ## Reikšmingi paminėjimai
@@ -67,8 +57,8 @@ Hermano C o r neri o, dominikono, Kroniką, Naruševi­ čiau s t.
     kito ir tarsi kokį piktadarį nuvarę į
     pilį].
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

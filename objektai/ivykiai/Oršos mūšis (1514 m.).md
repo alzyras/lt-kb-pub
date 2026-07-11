@@ -64,16 +64,6 @@ Nenurodyta
 - t-007
   global_id: t-54178
   teiginys: "Po Oršos mūšio propagandos kampanija padėjo Žygimantui spręsti tarptautinius klausimus, o žymesni belaisviai buvo siunčiami į Europos valdovų dvarus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "347939-348246; hash=09fc9be46401bbc2e30d5611fb633579fb143338b0d36c9e5cdbf5004b2bebcf; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Europa: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Oršos mūšis (1514 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=123"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Oršos mūšis (1514 m.)\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-55111
 
@@ -81,18 +71,6 @@ Nenurodyta
 - t-005
   global_id: t-54179
   teiginys: "Po Oršos mūšio Vilniuje buvo surengtos triumfo iškilmės, vedami belaisviai ir pakabintos trofėjinės vėliavos."
-  temporaliniai_duomenys: "įvykio data: 1530 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "346445-346750; hash=53524aa18c073929554088483a4bfd94cea91560b21bfadfd9420851ce19b754; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Oršos mūšis (1514 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=12"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Oršos mūšis (1514 m.)\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-11890
 
@@ -100,17 +78,6 @@ Nenurodyta
 - t-006
   global_id: t-54180
   teiginys: "Po Oršos mūšio Vasilijus III pasitraukė iš Smolensko, o Lietuvai vėl atiteko Mstislavlio, Dubrovnos ir Kryčevo pilys."
-  semantiniai_rysiai: "Lietuva priklausė Dubrovna (0.78)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "346752-346925; hash=ab54f953a3131a24bb11a47487937f1bda628935079c6e61ae0a98e620c3669e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Dubrovna: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Dubrovna: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas sako, kad Dubrovna vėl atiteko Lietuvai; formaliai tai priklausomybės ryšys, nors kryptis leistinoje schemoje yra iš Lietuvos į Dubrovną."
   pagrindžia:
     - c-11891
 
@@ -118,18 +85,6 @@ Nenurodyta
 - t-008
   global_id: t-54181
   teiginys: "Po Oršos mūšio kilmingi žuvusieji buvo palaidoti Vilniuje, o per triumfo iškilmes eisenoje vesti belaisviai Maskvos karvedžiai ir kariai."
-  temporaliniai_duomenys: "įvykio data: 1530 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "346445-346750; hash=53524aa18c073929554088483a4bfd94cea91560b21bfadfd9420851ce19b754; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Maskva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Oršos mūšis (1514 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Maskva: mention_match, place, gap=105"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Oršos mūšis (1514 m.)\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-11890
 - susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
@@ -149,8 +104,8 @@ Nenurodyta
     jos su kitomis čia saugotomis sudegė per
     1530 m. gaisrą).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -167,8 +122,8 @@ Nenurodyta
     vėl atiteko Mstislavlis, Dubrovnos,
     Kryčevo pilys.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -186,8 +141,8 @@ Nenurodyta
     buvo vaizduojamos kaip Europos forpostas
     prieš „schizmatikus“ maskvėnus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

@@ -54,16 +54,6 @@ Nenurodyta
 - t-002
   global_id: t-87172
   teiginys: "Žydai turėjo būti teisiami tik mokyklose arba įprastose žydų teismo vietose, išskyrus valdovo ar seniūno šaukimą jų akivaizdon."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "416333-416944; hash=a9e79608f1f81844ace6d36e945d6b8594c396dca5a7dd0e78529ee48688ee45; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Užstato daiktai Trakų žydų privilegijoje: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žydų savivaldos, teismo ir priesaikos prie mokyklos tvarka: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Užstato daiktai Trakų žydų privilegijoje: mention_match, thing, gap=25"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žydų savivaldos, teismo ir priesaikos prie mokyklos tvarka\" parinktas kaip owner_note_path. Targetas \"Užstato daiktai Trakų žydų privilegijoje\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-83152
 
@@ -71,16 +61,6 @@ Nenurodyta
 - t-001
   global_id: t-87173
   teiginys: "Jei žydas per gaisrą, vagystę ar prievartą prarasdavo užstatus, krikščioniui jį pašaukus į teismą jis turėjo išsiteisinti asmenine priesaika."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "411303-411886; hash=3572bb57cd8e3e8eb02368afa2a66c1032c5de89e5ed3875ce867596aa9ab34c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Tomas (Hertvigo iš Pokarvių sūnus): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žydų savivaldos, teismo ir priesaikos prie mokyklos tvarka: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Tomas (Hertvigo iš Pokarvių sūnus): mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žydų savivaldos, teismo ir priesaikos prie mokyklos tvarka\" parinktas kaip owner_note_path. Targetas \"Tomas (Hertvigo iš Pokarvių sūnus)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-83151
 ## Reikšmingi paminėjimai
@@ -105,8 +85,8 @@ Nenurodyta
     VILNIAUS MIESTO ISTORIJA I TOMAS
     arba mūsų seniūnas tai galės vykdyti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -128,8 +108,8 @@ Nenurodyta
     naudoti, kadangi pagal Senojo Testamento nuostatas visi žy­
     dai absoliučiai susilaiko nuo bet kokio kraujo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -41,14 +41,6 @@ media_all_json: |-
 - t-001
   global_id: t-193730
   teiginys: "1922 m. vasario 15 d. Steigiamasis Seimas krikščionių demokratų balsais priėmė pagrindinį Žemės reformos įstatymą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "299055-300063; hash=c0a325391f67394f5e76e2502e55686fb1bb557d99c144e8f531ac4a12e7c2df; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-176399
 ## Reikšmingi paminėjimai
@@ -72,8 +64,8 @@ media_all_json: |-
     ir mažažemiai (turėję mažiau kaip 10 ha) valstiečiai, kaimo amatininkai,
     kai kurios valstybinės ir visuomeninės įstaigos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

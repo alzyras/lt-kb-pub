@@ -38,24 +38,6 @@ Narbutas turėjo omenyje G. Brauno 1541-1622 m. didžiųjų pasaulio miestų atl
 - t-001
   global_id: t-190497
   teiginys: "Narbutas turėjo omenyje G. Brauno 1541-1622 m. didžiųjų pasaulio miestų atlasą „Civitates orbis terrarum“."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1541-1622; įvykio data: 1622 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sakinys suformuluotas apie Narbuto identifikaciją ir atlasą, ištaisant laužytą pavadinimą. Nepridėta duomenų apie leidimo istoriją ar turinį."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "900197-900429; hash=1eb4c31b28501ac7d1d18b88e64672dbde93b45fc33c352d261b71941480ea27; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> T. Narbutas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Georgo Brauno „Civitates orbis terrarum“: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "T. Narbutas: mention_match, author, gap=27"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Georgo Brauno „Civitates orbis terrarum“\" parinktas kaip owner_note_path. Targetas \"T. Narbutas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173380
 ## Reikšmingi paminėjimai
@@ -70,8 +52,8 @@ Narbutas turėjo omenyje G. Brauno 1541-1622 m. didžiųjų pasaulio miestų atl
     (1541-1622) didžiųjų pasaulio miestų atlasą (Civi­
     tates orbis terrarum).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -82,7 +64,8 @@ Narbutas turėjo omenyje G. Brauno 1541-1622 m. didžiųjų pasaulio miestų atl
 - id: c-173380
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 515"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 515."
   citata_originali: |
     P. 456* -  Tekstas, kuriuo autorius papildė paragrafą, reng­
     damas antrąjį leidimą (PEĮ. -  L. 310). T. Narbutas

@@ -35,16 +35,6 @@ Dusburgietis teigia, kad tais metais brolis Konradas Štangė, Ragainės komtūr
 - t-001
   global_id: t-60159
   teiginys: "Konradas Štangė, Ragainės komtūras, apie liepos 25 d. patraukė link Junigedos pilies ir pasiuntė žvalgą sužinoti padėties pilyje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "576485-576997; hash=e5a848f3f365101817dddde2faaeaed9a431c85c149740652304538bbcb009c3; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Junigeda: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Konradas Štangė: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Junigeda: mention_match, place, gap=68"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Konradas Štangė\" parinktas kaip owner_note_path. Targetas \"Junigeda\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-60792
 
@@ -52,9 +42,6 @@ Dusburgietis teigia, kad tais metais brolis Konradas Štangė, Ragainės komtūr
 - t-002
   global_id: t-60160
   teiginys: "Konradas Štangė padrąsino sutrikusius brolius Judo Makabėjaus žodžiais ir ragino prasiskverbti pro priešus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "576815-577289; hash=859b6ccd06a01a6d5830d7e771f2f5ea18f9d143958bc916611d50a9db5b7c25; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-60791
 - susijęs iš [[objektai/ivykiai/Konrado Štangės prasiveržimas pro Junigedos kariuomenę (1292 m. liepos 25 d.).md#claim-t-66632|Konrado Štangės prasiveržimas pro Junigedos kariuomenę (1292 m. liepos 25 d.)]]: Apie 1292 m. liepos 25 d. Ragainės komtūras Konradas Štangė su broliais ir ginklanešiais patraukė link Junigedos pilies.
@@ -73,8 +60,8 @@ Dusburgietis teigia, kad tais metais brolis Konradas Štangė, Ragainės komtūr
     bet stiprybė ateina iš dangaus“, todėl drąsiai prasiskverbkime pro juos, o viešpats mus
     apgins.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -91,8 +78,8 @@ Dusburgietis teigia, kad tais metais brolis Konradas Štangė, Ragainės komtūr
     labai sutrikę, tarė: „Vadinasi, negalėsime pro juos praeiti, ką mums tada daryti?“ Jiems
     atsakė komtūras, juos padrąsindamas Judo Makabėjaus žodžiais.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -103,7 +90,8 @@ Dusburgietis teigia, kad tais metais brolis Konradas Štangė, Ragainės komtūr
 - id: c-60791
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 184"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 184."
   citata_originali: |
     Šitai išgirdę, broliai ir kiti,
     labai sutrikę, tarė: „Vadinasi, negalėsime pro juos praeiti, ką mums tada daryti?“ Jiems
@@ -123,7 +111,8 @@ Dusburgietis teigia, kad tais metais brolis Konradas Štangė, Ragainės komtūr
 - id: c-60792
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 184"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 184."
   citata_originali: |
     Tais metais brolis Konradas Štangė, Ragainės komtūras, apie švento Jokūbo apaštalo
     dieną (liepos 25) patraukė su keliais broliais bei ginklanešiais link Junigedos pilies,
@@ -141,4 +130,3 @@ Dusburgietis teigia, kad tais metais brolis Konradas Štangė, Ragainės komtūr
 
 ## Ryšiai
 - Konradas Štangė keliavo į [[objektai/vietos/Junigeda]]
-- Konradas Štangė puolė [[objektai/grupes/Lietuviai]]

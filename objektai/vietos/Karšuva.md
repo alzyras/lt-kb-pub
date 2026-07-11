@@ -44,17 +44,6 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
 - t-004
   global_id: t-90529
   teiginys: "XIV a. Karšuvos sritis, apėmusi beveik visą Jūros baseiną, tapo negyvenama dykra."
-  semantiniai_rysiai: "Karšuvos sritis priklausė Karšuva (0.66)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "611018-611247; hash=f8d3d3a58a3b81e4875613920b07c1bfec64cd116643a68602a3bfaea77681f6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Karšuva: 0.66"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Karšuvos sritis: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Karšuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata įvardija Karšuvos sritį kaip Karšuvos vietovės darinį, todėl fiksuojamas priklausymo ryšys su Karšuva."
   pagrindžia:
     - c-32090
 
@@ -62,19 +51,6 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
 - t-005
   global_id: t-90530
   teiginys: "1303 m. žiemą magistras brolis Konradas su didele kariuomene įsiveržė į Karšuvos žemę ir sudegino visus pastatus."
-  temporaliniai_duomenys: "pastatymo data: 1303 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai susijęs su Karšuva ir atitinka citatoje nurodytą įvykį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "614766-615151; hash=6fd1e0fdf5e520b8f23d434962cbcfc40256e16f7c404022378fa1918c79e959; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "surenge_zygi_i -> Karšuva: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Konradas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Karšuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Konradas su kariuomene įsiveržė į Karšuvos žemę."
   pagrindžia:
     - c-86347
 
@@ -82,17 +58,6 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
 - t-002
   global_id: t-90531
   teiginys: "Karšuva buvo po du ar tris kartus teriota per Ordino žygius prieš Žemaičių sodybas ir pilis."
-  semantiniai_rysiai: "Žemaičiai gynė Karšuva (0.68)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "608070-608416; hash=1d3787dfab498716d260c033a75911c6a7fc58bc131ff0b2807385fcf5730b9d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyne -> Karšuva: 0.68"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Žemaičiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Karšuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citatos kontekste Karšuva minima tarp teriotų sričių, o po to sakoma, kad žemaičiai gynėsi; ryšys su Karšuva pagrįstas, bet ne visiškai tiesioginis."
   pagrindžia:
     - c-32088
 
@@ -100,16 +65,6 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
 - t-003
   global_id: t-90533
   teiginys: "Nesisekė tada lietuviams ir Karšuvos srityje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "610466-610839; hash=56e71fb71e7020590b7439fab96d032ba355ca001c52fbb70259d79764fe34ba; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Karšuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Karšuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Karšuviai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Karšuva\" parinktas kaip owner_note_path. Targetas \"Karšuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-32089
 
@@ -117,20 +72,6 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
 - t-006
   global_id: t-184972
   teiginys: "Kurše sudeginus Karšuvos ir Heilsbergo pilis, kariuomenė buvo nuvesta į Žemaitiją, o vėliau į Prūsiją."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Karšuva priklausė Kuršas (0.62); Heilsbergas priklausė Kuršas (0.62)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "173191-173690; hash=3388e27b32be0e566137ee7e7f680e85c77989814c7289a5280dbab6ea1319b1; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Kuršas: 0.62"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Heilsbergas: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Kuršas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata lokalizuoja Heilsbergo pilis Kurše, todėl galimas vietos priklausymo ryšys."
   pagrindžia:
     - c-168333
 
@@ -138,20 +79,6 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
 - t-007
   global_id: t-184973
   teiginys: "Kryžiuočiai taip nusiaubė Karšuvos žemę Žemaitijoje, kad jos gyventojai su visu turtu turėjo išsikelti į Lietuvą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Kryžiuočių ordinas puolė Karšuva (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "319644-320058; hash=6a34e33be164a8bb91f292c7156e9bfeeca235682d6b2b9fc3a6270b7f973015; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Karšuva: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Karšuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad kryžiuočiai nusiaubė Karšuvos žemę; tai karinio puolimo semantika."
   pagrindžia:
     - c-168334
 - susijęs iš Putvė: Putvė, dar vadinta Putenicka, buvo viena iš Karšuvos srities pilių, kurias priešai atakavo po du ar tris kartus.
@@ -212,8 +139,8 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
     gynėsi, bet karo laimė įvairavo, kai priešui talkon ateidavo ir koks
     lietuvių pilių gynėjų išdavimas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -229,8 +156,8 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
     traukė ir paliko dvi savo pilis Skronaičius (Scroneyte) ir Bebirvai­
     čius (Biverwate) », kurias riteriai sudegino^14.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -246,8 +173,8 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
     venama dykra.
     1311 ordinas turėjo vėl laikinų pasisekimų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -264,8 +191,8 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
     saugias vietas. Dėl to visai nedaug žmonių pavyko čia nukauti ar paimti į nelaisvę, tiesa,
     sudegino visus pastatus, o patys pernakvojo čia pat pastatytose palapinėse.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -289,8 +216,8 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
     nusiaubus Sembą, buvo apsuptas Karaliaučiaus mies­
     tas, čekų karaliaus Otokaro visai neseniai įkurtas.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -309,8 +236,8 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
     buvo priešo ir liepsnų sunaikintos, o truputį anksčiau
     Pūtvės pilį išdavė jos seniūnas Spūdas.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -376,7 +303,8 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
 - id: c-86347
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 197"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 197."
   citata_originali: |
     285 (278). Apie Karšuvos žemės nusiaubimą
 
@@ -419,7 +347,8 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
 - id: c-168334
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 185"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 185."
   citata_originali: |
     Sutelktu būriu užgriuvę iš pasalų nieko nenu-
     jaučiančius, beveik visus išžudė. Vėliau, ir tais pačiais,
@@ -437,8 +366,5 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
     - t-184973
 
 ## Ryšiai
-- Buvo pastatyta: [[objektai/asmenys/Burchardas iš Hornhauzeno]]
 - Puolė Karšuvą: [[objektai/grupes/Kryžiuočių ordinas]]
-- Gynė Karšuvą: [[objektai/grupes/Žemaičiai]]
-- Turėjo priklausinį: [[objektai/vietos/Karšuvos sritis]], [[objektai/vietos/Karšuvos žemė]], [[objektai/vietos/Putvė]], [[objektai/vietos/Švento Jurgio pilis|Švento Jurgio pilis (pilis, XIII a.)]]
-- Karšuva priklausė [[objektai/vietos/Kuršas]]
+- Turėjo priklausinį: [[objektai/vietos/Putvė]]

@@ -45,14 +45,6 @@ Nenurodyta
 - t-001
   global_id: t-194811
   teiginys: "Kai kraštą ištikdavo pralaimėjimai ir nelaimės, žyniai kartais įsivaizduodavo, kad užrūstinti dievai trokštą, idant kas nors pasiaukotų už tėvynę pagal jų būrimą, arba reikėdavo, kad kas nors savo noru susidegintų ant laužo ar žūtų kovoje su priešu."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "555985-556702; hash=8dd08a4b41832250b9669afd0f696bd9d9fc492d955382f6f0046f0b866930e5; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-177207
 ## Reikšmingi paminėjimai
@@ -74,8 +66,8 @@ Nenurodyta
     deginti ant laužo, kad būtų išmelstas dievų palankumas tėvy­
     nei; apie tai jau kalbėjome straipsnyje apie Krivių Krivaitį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -86,7 +78,8 @@ Nenurodyta
 - id: c-177207
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 317"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 317."
   citata_originali: |
     Kai kraštą ištikdavo pralaimėjimai ir
     nelaimės, žyniai kartais įsivaizduodavo, kad užrūstinti dievai

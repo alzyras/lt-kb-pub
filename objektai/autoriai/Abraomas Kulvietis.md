@@ -37,12 +37,6 @@ Abraomas Kulvietis dar išleido keletą kitų reikalingų tikybinių knygučių.
 - t-001
   global_id: t-193709
   teiginys: "Kulvietis įkūrė mokyklą kilmingai jaunuomenei, kurioje mokėsi 60 mokinių, sakė pamokslus, kritikuojančius Katalikų bažnyčią, ir patraukė į savo pusę daug žmonių, o 1542 m. turėjo emigruoti į protestantiškąją (nuo 1525 m.) Prūsiją, kur jį priglobė kunigaikštis."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "116032-117220; hash=b0106deb2eaac213a90d8f166fb8cd3170f3955313ca629b53da943bb3dee2c3; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176378
 ## Reikšmingi paminėjimai
@@ -68,8 +62,8 @@ Abraomas Kulvietis dar išleido keletą kitų reikalingų tikybinių knygučių.
     lietuviakalbės raštijos sureikšminimui ir oficialaus statuso suteikimo pro-
     jektui Lietuvos visuomenė nebuvo pasirengusi.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

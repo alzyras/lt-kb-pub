@@ -42,9 +42,6 @@ media_all_json: |-
 - t-001
   global_id: t-32011
   teiginys: "„Raciąžo taika“ nurodyta „Lietuvių enciklopedijos“ 24 tome, 315-316 puslapiuose."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "916918-917273; hash=37bedcb442b3a1f9936e6aa5eb043637edbca85e2984f305e1c781b685247e33; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-33767
 ## Reikšmingi paminėjimai
@@ -59,8 +56,8 @@ media_all_json: |-
 
     (^66) **CEV, 192 p. ; DlugO, XII, 572 p. — Plg.** **_Marienb.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

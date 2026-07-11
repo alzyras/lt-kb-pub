@@ -43,19 +43,6 @@ Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyria
 - t-003
   global_id: t-44993
   teiginys: "Juozas Tūbelis 1931–1938 m. pirmininkavo ir Lietuvos vyriausybei, ir Lietuvių tautininkų sąjungai."
-  temporaliniai_duomenys: "įvykio data: 1931-1938; įvykio data: 1938 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys pilnas, konkretus ir tiesiogiai sieja J. Tūbelį su Lietuvių tautininkų sąjunga."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "327167-327848; hash=cc50cbd266e5146e25fbd96c645e3fcb8b8fccd3c1fbac394765d350a755b412; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> A. Smetona: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvių tautininkų sąjunga: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "A. Smetona: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvių tautininkų sąjunga\" parinktas kaip owner_note_path. Targetas \"A. Smetona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-22542
 
@@ -63,17 +50,6 @@ Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyria
 - t-001
   global_id: t-44994
   teiginys: "LKDP bloko balsais tautininkų lyderis Antanas Smetona buvo išrinktas Lietuvos prezidentu ir prisiekė laikytis Konstitucijos."
-  semantiniai_rysiai: "Lietuvių tautininkų sąjunga buvo sąjungininkas su Antanas Smetona (Lietuvos prezidentas, XX a.) (0.72)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "315378-315863; hash=9306b853fd0388920029cd59fc5c49f1b3c7d290a7a3655af81210879cac2e9c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sajungininkas_su -> Antanas Smetona (Lietuvos prezidentas, XX a.): 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuvių tautininkų sąjunga: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Antanas Smetona (Lietuvos prezidentas, XX a.): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata apibūdina Smetoną kaip tautininkų lyderį; ryšys artimiausias politiniam susiejimui."
   pagrindžia:
     - c-22540
 
@@ -81,16 +57,6 @@ Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyria
 - t-005
   global_id: t-44995
   teiginys: "Kandidatus į Seimą siūlė apskričių tarybos, o Kaune – miesto taryba, tačiau juos kelti galėjo tik tautininkų kontroliuojamos savivaldybės."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "334489-334791; hash=a747033f1fc8919a4d6f13d029179aeed4428483d5e4f2553a8a6431577cc9ae; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kaunas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvių tautininkų sąjunga: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Kaunas: mention_match, place, gap=52"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvių tautininkų sąjunga\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-47941
 
@@ -98,16 +64,6 @@ Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyria
 - t-004
   global_id: t-44996
   teiginys: "Kandidatus į Seimą galėjo kelti tik tautininkų kontroliuojamos savivaldybės, o ne visuomeninės organizacijos ar piliečių grupės."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "334166-334727; hash=df6b59a828e55d7cf776d97d52d773be82c9f2c93516cfa85ab60f32994b16ca; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> seimas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvių tautininkų sąjunga: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "seimas: mention_match, thing, gap=23"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvių tautininkų sąjunga\" parinktas kaip owner_note_path. Targetas \"seimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-22543
 
@@ -115,18 +71,6 @@ Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyria
 - t-002
   global_id: t-44997
   teiginys: "Tautininkai ir krikščionys demokratai gruodžio įvykius teisino skelbdami, kad išgelbėjo Lietuvą nuo komunistų perversmo."
-  temporaliniai_duomenys: "įvykio data: 1924 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "315727-316164; hash=344bbecbde102368e5d7bc6c9b8ff64adfb8047ec5a19c091c747c88e1eb112b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Krikščionys: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvių tautininkų sąjunga: owner_note_path, group"
-  ryšio_targeto_parinkimas: "Krikščionys: mention_match, group, gap=16"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvių tautininkų sąjunga\" parinktas kaip owner_note_path. Targetas \"Krikščionys\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-22541
 ## Reikšmingi paminėjimai
@@ -143,8 +87,8 @@ Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyria
     balsais nauju šalies prezidentu išrinktas tautininkų lyderis A. Smetona,
     kuris prisiekė laikytis šalies konstitucijos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -161,8 +105,8 @@ Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyria
     kratai skelbė Lietuvą išgelbėję nuo komunistų perversmo (1924 m. gruo-
     džio 1 d. komunistų pučas Estijoje rodė esant tokią galimybę).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -184,8 +128,8 @@ Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyria
     ramiai pirmininkavo ir vyriausybei, ir Lietuvių tautininkų sąjungai 1931–
     1938 m.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -203,8 +147,8 @@ Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyria
     kandidatų į Seimą negalėjo kelti visuomeninės organizacijos ir piliečių
     grupės, o tik tautininkų kontroliuojamos savivaldybės.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -220,8 +164,8 @@ Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyria
     grupės, o tik tautininkų kontroliuojamos savivaldybės. Taip opozicijos
     atstovams neleista dalyvauti Seimo rinkimuose.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -331,6 +275,3 @@ Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyria
   patikimumo_saltinis: ai
   pagrindzia:
     - t-44995
-
-## Ryšiai
-- Sąjungininkai: [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]

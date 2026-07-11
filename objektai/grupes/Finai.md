@@ -30,21 +30,6 @@ Tacito aprašyme, kurį perteikia Narbutas, finai minimi kaip venedų šiaurinia
 - t-001
   global_id: t-192968
   teiginys: "Tacito aprašyme, kurį perteikia Narbutas, finai minimi kaip venedų šiauriniai kaimynai."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "175581-176040; hash=16962cbb9ca299a98f6601d29c4917eeefdef29e896e5fbaf762cf5a90f9c804; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Venedai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Finai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Venedai: mention_match, group, gap=18"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Finai\" parinktas kaip owner_note_path. Targetas \"Venedai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175738
 - susijęs iš [[objektai/asmenys/Safaržykas.md#claim-t-191980|Safaržykas]]: Narbutas rašo, kad Safaržykas senovės lietuvius visiškai sugiminiavo su slavais, jų skirtumus aiškindamas germanų ir finų valdžia.
@@ -72,8 +57,8 @@ Tacito aprašyme, kurį perteikia Narbutas, finai minimi kaip venedų šiaurinia
     dent, turi pėstininkų kariuomenę; jų gyvenimo būdas vi­
     siškai skiriasi nuo sarmatų klajoklių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -84,7 +69,8 @@ Tacito aprašyme, kurį perteikia Narbutas, finai minimi kaip venedų šiaurinia
 - id: c-175738
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 98"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 98."
   citata_originali: |
     Siek tiek labiau venedų reika­
     lus aiškina Tacitas 46 skyriuje1. Jis sako, kad jie nepri­
@@ -101,6 +87,3 @@ Tacito aprašyme, kurį perteikia Narbutas, finai minimi kaip venedų šiaurinia
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192968
-
-## Ryšiai
-- Finai gyveno [[objektai/vietos/Vysla]]

@@ -30,12 +30,6 @@ Septyni tūkstančiai ketvirtaisiais metais, o nuo Kris taus gimimo tūkstantis 
 - t-001
   global_id: t-194118
   teiginys: "Septyni tūkstančiai ketvirtaisiais metais, o nuo Kris taus gimimo tūkstantis keturi šimtai devyniasdešimt šeštaisiais didysis kunigaikštis Aleksandras išvyko į Brastą \ o karalius Olbrachtas su jų broliu, karalai čiu Zigmantu — į Liubliną 5 ."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "257989-258762; hash=c370dcc117d9b4a54729757fe074e7f6f5f7e8180f2f73a9704b98fb579341bf; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176731
 
@@ -43,12 +37,6 @@ Septyni tūkstančiai ketvirtaisiais metais, o nuo Kris taus gimimo tūkstantis 
 - t-002
   global_id: t-194119
   teiginys: "Ir kai ka ralius Olbrachtas su visa kariuomene jau buvo Buko vinoje ir žygiavo be baimės dėl sudarytos amžinosios taikos ir priesaikos, nesitikėdamas iš niekur smūgio, tuo metu Moldavijos vaivadai Steponui labai skaudėjo kojos, bet, norėdamas įvykdyti savo."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "263278-264245; hash=30d973081152344ed9cc8b307535b0bac704c1a51c9db45746fc90e732480d50; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176732
 ## Reikšmingi paminėjimai
@@ -73,8 +61,8 @@ Septyni tūkstančiai ketvirtaisiais metais, o nuo Kris taus gimimo tūkstantis 
     tis 7 , Ir išvažinėjo savais keliais; Olbrachtas j Kroku­
     vą ® ,  o didysis kunigaikštis Aleksandras — į Vilnių9 .
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -107,8 +95,8 @@ Septyni tūkstančiai ketvirtaisiais metais, o nuo Kris taus gimimo tūkstantis 
     Kai karalius perėjo miškus ir Bukoviną, Moldavijos
     vaivada su visais savo žmonėmis pasuko atgalios.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

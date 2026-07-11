@@ -38,19 +38,6 @@ Apie farmacijos būklę Lietuvoje trumpą žinutę išspausdino profeso­ rius V
 - t-001
   global_id: t-88496
   teiginys: "Profesorius Volfgangas 1816 m. „Dziennik Wileński“ IV tome išspausdino trumpą žinutę apie farmacijos būklę Lietuvoje."
-  temporaliniai_duomenys: "įvykio data: 1816 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškus, faktinis ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "545280-545819; hash=c1716b1e7cc9f6ee978d48b5154a21136213b06fe238369135aec1bc46d2816b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Volfgango „Uwagi Historyczne“ leidinyje „Dziennik Wileński“: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=95"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Volfgango „Uwagi Historyczne“ leidinyje „Dziennik Wileński“\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-84475
 ## Reikšmingi paminėjimai
@@ -76,8 +63,8 @@ Apie farmacijos būklę Lietuvoje trumpą žinutę išspausdino profeso­ rius V
     m.-T. IV, 1.251.
     —  • —
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

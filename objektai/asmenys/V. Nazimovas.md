@@ -34,18 +34,6 @@ Nazimovas balandžio pabaigoje įsakė gen.
 - t-001
   global_id: t-40489
   teiginys: "Šiaurės Vakarų krašto generalgubernatorius V. Nazimovas balandžio pabaigoje įsakė I. Ganeckiui žygiuoti į Ukmergės apskritį ir sunaikinti sukilėlius."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "658334-658653; hash=fba4f368bb7033b936a3b85e87647f5b07fb5130f5897dd182015c29e5e0b881; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Ukmergė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "V. Nazimovas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Ukmergė: mention_match, place, gap=98"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"V. Nazimovas\" parinktas kaip owner_note_path. Targetas \"Ukmergė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-44550
 - susijęs iš [[objektai/asmenys/Ivanas Ganeckis.md#claim-t-40146|Ivanas Ganeckis]]: V. Nazimovas balandžio pabaigoje įsakė Ivanui Ganeckiui žygiuoti Anykščių kryptimi ir sunaikinti Ukmergės apskrityje susibūrusius sukilėlius.
@@ -65,8 +53,8 @@ Nazimovas balandžio pabaigoje įsakė gen.
     Ukmergės apskritį Anykščių kryptimi ir
     sunaikinti ten susibūrusius sukilėlius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -95,6 +83,3 @@ Nazimovas balandžio pabaigoje įsakė gen.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40489
-
-## Ryšiai
-- V. Nazimovas siuntė į [[objektai/vietos/Ukmergė]]

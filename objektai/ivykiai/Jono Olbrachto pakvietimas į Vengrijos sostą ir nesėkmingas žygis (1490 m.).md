@@ -48,22 +48,6 @@ Nenurodyta
 - t-001
   global_id: t-185575
   teiginys: "Po Motiejaus Korvino mirties vengrai pakvietė Joną Olbrachtą į Vengrijos karalystės sostą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1490 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys sugadintas OCR fragmentais."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "945180-945561; hash=b84ba531407221e0e625e6c5205e51f468e3fb55e059205cbb20582084a5e1ea; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vengrija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jono Olbrachto pakvietimas į Vengrijos sostą ir nesėkmingas žygis (1490 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Vengrija: mention_match, place, gap=12"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jono Olbrachto pakvietimas į Vengrijos sostą ir nesėkmingas žygis (1490 m.)\" parinktas kaip owner_note_path. Targetas \"Vengrija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-168936
 
@@ -71,19 +55,6 @@ Nenurodyta
 - t-002
   global_id: t-185576
   teiginys: "Tėvo raginamas ir gavęs iš jo karių, Jonas Olbrachtas išvyko į Vengriją, nors jo viltys pasirodė nepagrįstos."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "945562-946005; hash=e83507bf361ec07c919a208294487e9284d4ca14559d705d3ae02752717ac820; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jonas Olbrachtas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jono Olbrachto pakvietimas į Vengrijos sostą ir nesėkmingas žygis (1490 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Jonas Olbrachtas: mention_match, person, gap=22"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jono Olbrachto pakvietimas į Vengrijos sostą ir nesėkmingas žygis (1490 m.)\" parinktas kaip owner_note_path. Targetas \"Jonas Olbrachtas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-168937
 ## Reikšmingi paminėjimai
@@ -113,8 +84,8 @@ Nenurodyta
 
     sostą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -134,8 +105,8 @@ Nenurodyta
     damas šiokias tokias viltis, bet, kaip paaiškėjo, nepa­
     grįstas.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -178,7 +149,8 @@ Nenurodyta
 - id: c-168937
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 535"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 535."
   citata_originali: |
     Jonas nepritarė jų troškimui, nes gerai žinojo,
     kad seime buvo ginčų ir skirtingų nuomonių, mat dau­

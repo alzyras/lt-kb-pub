@@ -39,12 +39,6 @@ Valsčių savivaldybės buvo įkurtos jau 1861 m. baudžiavos panaikinimo įstat
 - t-001
   global_id: t-03210
   teiginys: "1861 m. įkurtų valsčių viršaičiai ir raštininkai buvo atstatyti po Muravjovo pertvarkymo."
-  temporaliniai_duomenys: "įvykio data: 1861 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Perrašyta taip, kad teiginys būtų apie viršaičius ir remtųsi citata."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "963309-963619; hash=21261998df4fc5c96cd9162b8e8f151096dbcb92795935ef74df314855600c53; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-166384
 
@@ -52,17 +46,6 @@ Valsčių savivaldybės buvo įkurtos jau 1861 m. baudžiavos panaikinimo įstat
 - t-002
   global_id: t-182987
   teiginys: "1861 m. įkurtų valsčių viršaičiai buvo vadinami staršinomis."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1861 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pirminis teiginys daugiau kalba apie savivaldybes, o citata leidžia suformuluoti faktą apie viršaičius."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "963309-963619; hash=21261998df4fc5c96cd9162b8e8f151096dbcb92795935ef74df314855600c53; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-166384
 ## Reikšmingi paminėjimai
@@ -79,8 +62,8 @@ Valsčių savivaldybės buvo įkurtos jau 1861 m. baudžiavos panaikinimo įstat
     šinos) ir raštininkai, kurių daugumas buvo dvarininkų pastatyti,
     buvo atstatyti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

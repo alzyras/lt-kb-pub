@@ -41,19 +41,6 @@ media_all_json: |-
 - t-001
   global_id: t-34925
   teiginys: "„Polnoje sobranije Russkich letopisej“ XVII tomą 1907 m. Sankt Peterburge išleido Imperatoriškoji archeologijos komisija."
-  temporaliniai_duomenys: "įvykio data: 1907 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys buvo santrumpos fragmentas be predikato; citata pagrindžia leidimo duomenis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "5830-5957; hash=9882731012bcd4ee4bc0ee36b4977173ad7469d78fb0b76cc9895bea3ca372fd; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Peterburgas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Polnoje sobranije Russkich letopisej: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Peterburgas: mention_match, place, gap=62"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Polnoje sobranije Russkich letopisej\" parinktas kaip owner_note_path. Targetas \"Peterburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-36150
 ## Reikšmingi paminėjimai
@@ -65,8 +52,8 @@ media_all_json: |-
     Imperatorskoj Archeologičeskoj Komis. Tom XVII.
     S.-Peterburg, 1907.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

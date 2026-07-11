@@ -39,12 +39,6 @@ Andrius Algimantaitls — iš tik r ų jų Andrius Jonaitis Alglmantaitls, Alš�
 - t-001
   global_id: t-194097
   teiginys: "Andrius Algimantaitls — iš tik r ų jų Andrius Jonaitis Alglmantaitls, Alšėnų kunigaikščio Jono Algimantaičio sūnus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "474784-475155; hash=fa433c5dc783ea3f77db6e3e871d22586a00b7e126906fcb7507547a722d9a7d; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176710
 ## Reikšmingi paminėjimai
@@ -60,8 +54,8 @@ Andrius Algimantaitls — iš tik r ų jų Andrius Jonaitis Alglmantaitls, Alš�
     organizatorius sąmokslo (1432), iškalusio didžiuoju kunigaikščiu Vy­
     tauto broli Žygimantą KąstulaitĮ.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

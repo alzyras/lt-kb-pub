@@ -51,12 +51,6 @@ Nenurodyta
 - t-001
   global_id: t-194081
   teiginys: "Tą pačią žiemą, pavasariop H , į Smolenską, pas savo tėvą uošvį, didįjį kunigaikštį Vytautą, atvažiavo Mask vos didysis kunigaikštis Vasilijus Dimitrijevičius ir pa gerbė didįjį kunigaikštį brangiomis dovanomis; auksi nėmis grandinėmis ir diržais, sabalais."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "171403-172286; hash=3ea1d27f2d48ea66fedbaae4d4891cb2d7c3b521fc950f9c215a46666b1dcb62; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176694
 ## Reikšmingi paminėjimai
@@ -83,8 +77,8 @@ Nenurodyta
     išlydėjęs jį su didele pagarba į Maskvą, pats išvyko
     j Lietuvą l6 .
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -45,20 +45,6 @@ media_all_json: |-
 - t-001
   global_id: t-10469
   teiginys: "1667 m. sausio 30 d. netoli Smolensko pasirašytos Andrusavo paliaubos, pagal kurių sąlygas Rusijai atiteko Smolenskas, Černigovas, Severų Naugardas, Kijevas."
-  semantiniai_rysiai: "Smolenskas priklausė Rusija (0.98); Kijevas priklausė Rusija (0.93); Lietuvos kariuomenė gynė Kaunas (0.82); Rusijos kariuomenė užėmė Kaunas (0.68)"
-  temporaliniai_duomenys: "įvykio data: 1659 m.; įvykio data: 1661 m.; įvykio data: 1667 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, faktinis ir tiksliai paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "520601-521005; hash=56bb238a2ce6b6cdd0895a1d46270556f566e50bdbf31b1bf4dcda122d146f7e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Rusija: 0.98"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Smolenskas: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Rusija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad Smolenskas atiteko Rusijai."
   pagrindžia:
     - c-11207
 
@@ -66,20 +52,6 @@ media_all_json: |-
 - t-002
   global_id: t-10470
   teiginys: "Andrusavos paliaubose nustatytos sienos buvo patvirtintos 1686 m. „amžinąja taika“ ir išliko iki Pirmojo ATR padalijimo 1772 m."
-  semantiniai_rysiai: "Polockas priklausė Lietuva (0.93); Ukraina priklausė Rusija (0.80)"
-  temporaliniai_duomenys: "įvykio data: 1686 m.; įvykio data: 1772 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Reikia aiškiai įvardyti, kad kalbama apie Andrusavos paliaubas, o ne palikti neapibrėžtą „sutartį“."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "521006-521269; hash=f470b7b5a4cb0ae45ff5535ce5e76cde489532c5902a320eaa4b314b69559db9; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Lietuva: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Polockas: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai sako, kad Lietuva atgavo Polocką."
   pagrindžia:
     - c-77403
 ## Reikšmingi paminėjimai
@@ -95,8 +67,8 @@ media_all_json: |-
     sirašytos Andrusavo paliaubos, pagal kurių sąlygas Rusijai atiteko
     Smolenskas, Černigovas, Severų Naugardas, Kijevas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -112,8 +84,8 @@ media_all_json: |-
     Sutartyje nustatytos sienos buvo patvirtintos 1686 m. „amžinąja
     taika“ ir išliko iki Pirmojo ATR padalijimo 1772 m.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

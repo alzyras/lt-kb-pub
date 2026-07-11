@@ -35,16 +35,6 @@ Albertas buvo Rygos vyskupas ir vienas Livonijos vokiečių valdžios kūrėjų.
 - t-001
   global_id: t-09984
   teiginys: "Rygos vyskupas Albertas nugalėjo Visvaldį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "60763-60882; hash=2743616543b8e1bb132de25d723aacb89c1fc420774e62ce4f92e2f954a00dfb; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/06_deduplication/01_deduplicate_entities.md"
-  ryšio_patikimumas: "susije_su -> Europa: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Albertas (Rygos vyskupas): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Europa: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Albertas (Rygos vyskupas)\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-13108
 - susijęs iš [[objektai/asmenys/Albertas.md#claim-t-78932|Albertas]]: Rygos vyskupas Albertas nugalėjo Jersikos karalių Visvaldį.
@@ -60,8 +50,8 @@ Albertas buvo Rygos vyskupas ir vienas Livonijos vokiečių valdžios kūrėjų.
     NY Rygos vyskupo Alberto.
     Teutonų ordiną padėti kar- Europos rytuose didelius
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

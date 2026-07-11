@@ -32,9 +32,6 @@ media_all_json: |-
 - t-001
   global_id: t-39747
   teiginys: "Vadas Jablonauskis sušaukė karius, pranešė apie „kirilo“ atsitraukimą ir liepė jiems dainuoti."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "660094-660303; hash=5d655db440069158f5cdc534abd46de7462d717ac651dce3661abd37b42a5a3a; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-41551
 ## Reikšmingi paminėjimai
@@ -46,8 +43,8 @@ media_all_json: |-
     dainuoti. Uždainavom balsiai, kiek galėjome; miškas mums pritarė. Beskambant mūsų
     balsams, sugrįžo ir raitininkai netušti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

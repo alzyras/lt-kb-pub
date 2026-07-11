@@ -44,19 +44,6 @@ O tada, carui sutikus, kad Lietuvos valdovas vestų jo duk­ terį (1495 m.), su
 - t-001
   global_id: t-87852
   teiginys: "Kunigaikštis Simonas Rapolovskis lydėjo didžiąją kunigaikštytę Eleną, kai ji 1496 m. atvyko iš Maskvos į Vilnių."
-  temporaliniai_duomenys: "kelionės data: 1494 m.; kelionės data: 1495 m.; kelionės data: 1496 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Simonas Rapolovskis keliavo į Maskva“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pagrindžia Rapolovskio vaidmenį Elenos palydoje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "466573-467429; hash=88deac52e1f69b557732fbda5fa92e575e48ed7e521602387536f79d240ceee5; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Maskva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Simonas Rapolovskis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Maskva: mention_match, place, gap=82"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Simonas Rapolovskis\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-83831
 ## Reikšmingi paminėjimai
@@ -82,8 +69,8 @@ O tada, carui sutikus, kad Lietuvos valdovas vestų jo duk­ terį (1495 m.), su
     tiesalo, padavė vienas kitam rankas ir pirmąkart pasikal­
     bėjo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

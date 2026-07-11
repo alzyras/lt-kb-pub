@@ -42,20 +42,6 @@ Tada Salza priėmė kvietimą Konrado, kuris 1230 m. kryžiuočiams užrašė Ku
 - t-001
   global_id: t-99929
   teiginys: "1230 m. Mozūrijos kunigaikštis Konradas kryžiuočiams užrašė Kulmiją."
-  semantiniai_rysiai: "Kulmija priklausė Kryžiuočių ordinas (0.90)"
-  temporaliniai_duomenys: "valdymo laikotarpis: 1226 m.; valdymo laikotarpis: 1230 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Konradas (Mozūrijos kunigaikštis) buvo valdovas Mozūrija“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalinta kontekstinė pradžia ir patikslintas veikėjas pagal citatą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "466060-466581; hash=c4faaa0504cf2e907755313b7ad9939494ba3caf64fdbdd103585814530d5437; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Kryžiuočių ordinas: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kulmija: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Kulmija tiesiogiai nurodyta kaip Konrado užrašyta kryžiuočiams."
   pagrindžia:
     - c-93880
 - susijęs iš [[objektai/grupes/Lietuvos vyskupai.md#claim-t-35714|Lietuvos vyskupai]]: Popiežius uždraudė Lietuvos vyskupams ir Kulmijos vyskupui karūnuoti Vytautą.
@@ -82,8 +68,8 @@ Tada Salza priėmė kvietimą Konrado, kuris 1230 m. kryžiuočiams užrašė Ku
     ninku užkariausimoje prūsų žemėje. Tada Salza priėmė kvietimą
     Konrado, kuris 1230 m. kryžiuočiams užrašė Kulmiją.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

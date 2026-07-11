@@ -38,12 +38,6 @@ Dusburgietis teigia, kad kolendo J.
 - t-001
   global_id: t-61100
   teiginys: "J. Kolendo darbas „Wyprawa po bursztyn bałtycki za Nerona“ paskelbtas leidinyje „Pomorania antiqua“ 1981 m."
-  temporaliniai_duomenys: "įvykio data: 1981 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pateikia bibliografinį įrašo faktą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "779227-779359; hash=dc31359c5f0bc81a0ac898abb0d16c9a102c96eb91a927b68ac3579380b8b755; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-61732
 ## Reikšmingi paminėjimai
@@ -55,8 +49,8 @@ Dusburgietis teigia, kad kolendo J.
     Kolendo J. Wyprawa po bursztyn bałtycki za Nerona.— Pomorania antiqua, Wrocław—
     Warszawa—Kraków—Gdańsk— Łódź, 1981, t. 10, s. 25—62.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -67,7 +61,8 @@ Dusburgietis teigia, kad kolendo J.
 - id: c-61732
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 265"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 265."
   citata_originali: |
     Kolendo J. Wyprawa po bursztyn bałtycki za Nerona.— Pomorania antiqua, Wrocław—
     Warszawa—Kraków—Gdańsk— Łódź, 1981, t. 10, s. 25—62.

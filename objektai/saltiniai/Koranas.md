@@ -30,21 +30,6 @@ Anot Teodoro Narbuto minimų Korano aiškintojų, Ashabir-Ross buvo tauta prie R
 - t-001
   global_id: t-191788
   teiginys: "Anot Teodoro Narbuto minimų Korano aiškintojų, Ashabir-Ross buvo tauta prie Ross upės, išsisklaidžiusi žiloje senovėje."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "122637-123407; hash=34c963efe15568588c9ed4815ef2ba1319cd1c3c9c1cbd293f27e22d67dc98e6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Arabai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Koranas: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Arabai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Koranas\" parinktas kaip owner_note_path. Targetas \"Arabai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174670
 ## Reikšmingi paminėjimai
@@ -68,8 +53,8 @@ Anot Teodoro Narbuto minimų Korano aiškintojų, Ashabir-Ross buvo tauta prie R
     tai, kad nepriėmė mokslo, siunčiamo jiems per pranašą
     Khaintają, Šafrano sūnų, kurį jie nukankino5.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -80,7 +65,8 @@ Anot Teodoro Narbuto minimų Korano aiškintojų, Ashabir-Ross buvo tauta prie R
 - id: c-174670
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 70"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 70."
   citata_originali: |
     Iš pono Hamerio tyrimų ir ištraukų apie
     Rytus2 matome, jog arabai Rass, arba Ross3, vadino Arak-

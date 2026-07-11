@@ -35,17 +35,6 @@ media_all_json: |-
 - t-001
   global_id: t-86497
   teiginys: "Vilniaus rusinai ir rusų vienuoliai, žmonių vadinti čiornais, nuo Gedimino laikų turėjo savo vienuolyną."
-  semantiniai_rysiai: "Vilniaus rusinai gyveno Vilnius (0.82)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "302728-303396; hash=63a4c047b67e5dc34a3037a2b105e39bf548a639357b8c49e8786c9f65b6ef5a; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Vilnius: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vilniaus rusinai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Claimas tiesiogiai įvardija Vilniaus rusinus, o citata juos apibūdina kaip miesto gyventojų dalį."
   pagrindžia:
     - c-82476
 ## Reikšmingi paminėjimai
@@ -73,8 +62,8 @@ media_all_json: |-
     kurie nuo Gedimino laikų, kaip matėme, turėjo savo vie­
     nuolyną.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

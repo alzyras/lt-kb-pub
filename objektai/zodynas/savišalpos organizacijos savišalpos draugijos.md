@@ -33,9 +33,6 @@ media_all_json: |-
 - t-002
   global_id: t-70324
   teiginys: "Jungtinėse Amerikos Valstijose smulkios lietuvių draugijos dažniausiai rėmė tautiečius nelaimėje arba bendrai plėtojo verslą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "1284306-1284595; hash=79db3cbd211a8a3c724a93ce5f844e1128d0d71d04a54d121fdb1158a6c7c876; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-69367
 
@@ -43,9 +40,6 @@ media_all_json: |-
 - t-001
   global_id: t-70325
   teiginys: "Argentinoje dar prieš Pirmąjį pasaulinį karą veikė smulkios lietuvių savišalpos organizacijos."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "1311227-1311585; hash=e499f7c737af2f5c7bc06ba1e87d1aefdc85f91644809040005d97bbe291a425; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-69368
 ## Reikšmingi paminėjimai
@@ -62,8 +56,8 @@ media_all_json: |-
     niausiai turi tikslą remti savo tautiečius nelaimėje ar bendrai va-
     ryti kokį nors verslą (biznį).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -80,8 +74,8 @@ media_all_json: |-
     smulkių lietuvių savišalpos organizacijų, nes didesnis lietuvių
     skaičius į Argentiną atvyko dar XIX amž. gale.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -39,19 +39,6 @@ Mindaugo pergamentai kryžiuočiams teteikė formalią teisę į jiems užrašyt
 - t-001
   global_id: t-32772
   teiginys: "Mindaugo donacijos kryžiuočiams suteikė tik formalią teisę į užrašytas sritis, kurias jie galėjo užvaldyti tik savo jėga."
-  temporaliniai_duomenys: "įvykio data: 1259-1260; įvykio data: 1260 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Reikia aiškiau susieti teiginį su donacijos sąvoka ir pašalinti perteklinę formuluotę."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "513284-513697; hash=f2c748ffa1e32694d67eb1d72c9c5e8a584d5035e7440c8af6f79a1f22b3fa03; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Georgenburgas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "donacija: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Georgenburgas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"donacija\" parinktas kaip owner_note_path. Targetas \"Georgenburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-34147
 ## Reikšmingi paminėjimai
@@ -68,8 +55,8 @@ Mindaugo pergamentai kryžiuočiams teteikė formalią teisę į jiems užrašyt
     tegalėjo priklausyti, kiek jie patys savo jėga įstengs užvaldyti. Že­
     maičiai tačiau nesidavė nulenkiami.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

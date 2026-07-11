@@ -33,9 +33,6 @@ Mūsų valia yra tokia: Jono Jurgeravičiaus, Mikalojaus Sachovskio, Sofijos Ši
 - t-001
   global_id: t-87787
   teiginys: "Mikalojaus Sachovskio privilegijos buvo atšauktos ir paskelbtos negaliojančiomis visiems laikams."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "495947-497071; hash=4e540f9134f3771e86530b11cb1a6d4e34fc658465bc5676f74b81474a843edd; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-83766
 ## Reikšmingi paminėjimai
@@ -65,8 +62,8 @@ Mūsų valia yra tokia: Jono Jurgeravičiaus, Mikalojaus Sachovskio, Sofijos Ši
     kio pasėlio ar daržovių, išskyrus avižas, ir [dešimtinę] nuo
     visų naminių gyvulių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

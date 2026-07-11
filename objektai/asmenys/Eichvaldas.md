@@ -30,21 +30,6 @@ Eichvaldas „Dorpater Jahrbuch“ paskelbė straipsnį apie Darijaus žygį pri
 - t-001
   global_id: t-191390
   teiginys: "Eichvaldas „Dorpater Jahrbuch“ paskelbė straipsnį apie Darijaus žygį prieš skitus ir jame Darijaus žygio vietą siejo su Polese."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "99022-99793; hash=2b55f15c164c8f96f40a209e0cbbcb3257fd7aee39ff7d7ef14a2aa317defe48; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Persai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Eichvaldas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Persai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Eichvaldas\" parinktas kaip owner_note_path. Targetas \"Persai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174272
 ## Reikšmingi paminėjimai
@@ -75,8 +60,8 @@ Eichvaldas „Dorpater Jahrbuch“ paskelbė straipsnį apie Darijaus žygį pri
     įžvelgti
     panašumą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -87,7 +72,8 @@ Eichvaldas „Dorpater Jahrbuch“ paskelbė straipsnį apie Darijaus žygį pri
 - id: c-174272
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 57"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 57."
   citata_originali: |
     Ko
     gero, remdami Skitijos kolonistus graikus, persai palaikė

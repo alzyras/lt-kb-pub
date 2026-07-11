@@ -64,16 +64,6 @@ Nenurodyta
 - t-003
   global_id: t-176229
   teiginys: "Iš Krokuvos išvykdami Skirgaila ir Vytautas turėjo duoti priesaika patvirtintus raštus dėl ištikimybės Jogailai ir Jadvygai."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "225061-225501; hash=d0fc6d705fed69fd5b0322f6d92c64bf8d9910b48634ad4a3a8028c5b2106620; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Krokuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ištikimybės priesaikos Jogailai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Krokuva: mention_match, place, gap=54"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ištikimybės priesaikos Jogailai\" parinktas kaip owner_note_path. Targetas \"Krokuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-160252
 
@@ -81,16 +71,6 @@ Nenurodyta
 - t-003
   global_id: t-176231
   teiginys: "Tuo metu Jogailai ir Karūnai buvo duotos trys ištikimybės priesaikos."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "225061-225501; hash=d0fc6d705fed69fd5b0322f6d92c64bf8d9910b48634ad4a3a8028c5b2106620; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Karūna: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ištikimybės priesaikos Jogailai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Karūna: mention_match, thing, gap=12"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ištikimybės priesaikos Jogailai\" parinktas kaip owner_note_path. Targetas \"Karūna\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-160253
 ## Reikšmingi paminėjimai
@@ -107,8 +87,8 @@ Nenurodyta
     ištikimi Lenkų karaliui Jogailai su karaliene Jadvyga ir kad pa-
     šaukti tuojau atvyksią į Lenkiją.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -124,8 +104,8 @@ Nenurodyta
     kos aktu Kauno sutartis, kiek ji buvo nukreipta prieš uniją, nu­
     stojo savo galios^3 ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

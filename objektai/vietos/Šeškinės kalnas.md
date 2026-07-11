@@ -35,17 +35,6 @@ Dar tarp Verkių ir Šeškinės kalno įsiplieskė kitas įnir­ tingas mūšis,
 - t-001
   global_id: t-86273
   teiginys: "Tarp Verkių ir Šeškinės kalno įsiplieskė mūšis, kuriame kryžiuočiai neleido lietuvių ir lenkų kariuomenei ilgai priešintis."
-  semantiniai_rysiai: "Kryžiuočių ordinas kariavo prieš Lietuviai (0.86); Kryžiuočių ordinas kariavo prieš Lenkai (0.86)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "264789-265412; hash=2257bcebd815d994b9d679a1880f7ecb5540c64266c1f48657e7d4812af22f25; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Lenkai: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lenkai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Mūšio aprašyme kryžiuočiai tiesiogiai priešpastatomi lenkų kariuomenei."
   pagrindžia:
     - c-82252
 ## Reikšmingi paminėjimai
@@ -66,8 +55,8 @@ Dar tarp Verkių ir Šeškinės kalno įsiplieskė kitas įnir­ tingas mūšis,
     lenkų kariuomenei ilgai priešintis, o miestui reikėjo stip­
     rios ir platų frontą rėpiančios gynybos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

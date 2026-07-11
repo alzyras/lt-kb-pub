@@ -30,12 +30,6 @@ Tam reikėjo pradinio kapitalo, kuriam įsigyti buvo panaudotas privatus turtas,
 - t-001
   global_id: t-193660
   teiginys: "Tam reikėjo pradinio kapitalo, kuriam įsigyti buvo panaudotas privatus turtas, pirktas už investicinius čekius, banko paskolos ar iš užsienio pritrauktos lėšos."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "515085-515607; hash=f8885f64748ee3e8275a488f2d8a4a05fe1d7cab459ee7877ef628b99c984a76; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176329
 
@@ -43,12 +37,6 @@ Tam reikėjo pradinio kapitalo, kuriam įsigyti buvo panaudotas privatus turtas,
 - t-002
   global_id: t-193661
   teiginys: "Nors visiems šalies piliečiams sudarytos tarsi vienodos galimybės įsigyti privatizuojamo valstybės turto už investicinius čekius, tinkamai tuo pasinaudojo ne visi."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "515609-515981; hash=f45f24080f571866fb089db9f1136505cf0272b83318616145ab534d5a87c0d5; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176330
 
@@ -56,12 +44,6 @@ Tam reikėjo pradinio kapitalo, kuriam įsigyti buvo panaudotas privatus turtas,
 - t-003
   global_id: t-193662
   teiginys: "Privatizuojamam turtui įsigyti kūrėsi žemės ūkio akcinės ir investicinės bendrovės, tačiau nenumatyta savininkų teisinių įsipareigojimų dėl tokių įmonių veiklos pelningumo, nepalikta garantijų investicinius čekius patikėjusiems asmenims."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "518339-518911; hash=45e04d24f2c0d2969424f891c11ca33780f0ac1879758a59387c50b190d73504; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176331
 ## Reikšmingi paminėjimai
@@ -79,8 +61,8 @@ Tam reikėjo pradinio kapitalo, kuriam įsigyti buvo panaudotas privatus turtas,
     tapo privačios, susidarė naujas verslininkų sluoksnis, veikęs pagal Vakarų
     pasaulio ekonomikos standartus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -97,8 +79,8 @@ Tam reikėjo pradinio kapitalo, kuriam įsigyti buvo panaudotas privatus turtas,
     gyventojų čekius pardavė ir net nesugebėjo privatizuoti savo gyvenamojo
     būsto.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -117,8 +99,8 @@ Tam reikėjo pradinio kapitalo, kuriam įsigyti buvo panaudotas privatus turtas,
     sinaudojo buvę kolūkių pirmininkai ar tarybinių ūkių direktoriai, suge-
     bėję per trumpą laiką savo rankose sukaupti didžiulius turtus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

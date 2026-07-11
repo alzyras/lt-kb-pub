@@ -58,12 +58,6 @@ Nenurodyta
 - t-001
   global_id: t-194305
   teiginys: "1208, kur nurodytas Slaptajame archyve esantis vokiečių kalba rašy tas didžiojo Lietuvos kunigaikščio Vytauto žmonos Julijonos, dėkojančios didžiajam magistrui Pauliui fon VILNIAUS MIESTO ISTORIJA I I TOMAS Nebūta gydytojų Lietuvos kunigaikščių rūmuose ir."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "483769-484121; hash=b3544a71759c8c207b5b1923889aa951b91d77da527e2fe9d86190f8a4640c42; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176897
 ## Reikšmingi paminėjimai
@@ -87,8 +81,8 @@ Nenurodyta
     Nebūta gydytojų Lietuvos kunigaikščių rūmuose ir vėles­
     niais laikais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

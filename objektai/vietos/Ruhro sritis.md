@@ -43,17 +43,6 @@ Didžiosios valstybės, kurios tuo metu buvo susidomėjusios vakarinės Vokietij
 - t-002
   global_id: t-69178
   teiginys: "Tarptautinės bendruomenės dėmesys buvo nukrypęs į Vokietijos Ruhro sritį, kurią tuo metu okupavo prancūzų kariuomenė."
-  semantiniai_rysiai: "Prancūzai užėmė Ruhro sritis (0.92); Ruhro sritis priklausė Vokietija (0.76)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "878031-878424; hash=40b10f789223e6fed75680d5a29efc5a1407f459a58514afb9c165e5c749ca9e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Ruhro sritis: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Prancūzai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Ruhro sritis: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Okupavimas tiesiogiai atitinka užėmimo santykį tarp prancūzų kariuomenės ir Ruhro srities."
   pagrindžia:
     - c-43818
 ## Reikšmingi paminėjimai
@@ -73,8 +62,8 @@ Didžiosios valstybės, kurios tuo metu buvo susidomėjusios vakarinės Vokietij
     pradėti karinę operaciją, suvaidino ryž-
     tingai nusiteikę Šaulių sąjungos nariai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -108,4 +97,3 @@ Didžiosios valstybės, kurios tuo metu buvo susidomėjusios vakarinės Vokietij
 
 ## Ryšiai
 - Užėmė Ruhro sritį: [[objektai/grupes/Prancūzai]]
-- Ruhro sritis priklausė [[objektai/vietos/Vokietija]]

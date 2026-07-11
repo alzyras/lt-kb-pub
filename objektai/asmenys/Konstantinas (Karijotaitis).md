@@ -42,16 +42,6 @@ Lietuvai ir Lenkijai suartėti įtakos turėjo ir Jogailos pusbroliai, Podolėje
 - t-001
   global_id: t-29032
   teiginys: "Konstantinas Karijotaitis palaikė Lietuvos ir Lenkijos sąjungą, nes jam rūpėjo apsaugoti Podolę nuo totorių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "780242-780594; hash=0cc3c8d8e50ee25a591003c3e30160f470de8851bb3b72a43199aded688ebc15; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Konstantinas Karijotaitis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Konstantinas (Karijotaitis): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Konstantinas Karijotaitis: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Konstantinas (Karijotaitis)\" parinktas kaip owner_note_path. Targetas \"Konstantinas Karijotaitis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-28937
 
@@ -59,12 +49,6 @@ Lietuvai ir Lenkijai suartėti įtakos turėjo ir Jogailos pusbroliai, Podolėje
 - t-002
   global_id: t-193395
   teiginys: "Konstantinas buvo Sučiavoje nunuodytas; Teodoras sugrįžo į Lietuvą valdyti Naugarduko tėvonijos, o visa Podolė pasiliko kunigaikščių Aleksandro bei Konstantino valdžioje."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "383574-384306; hash=04e355bdc2b97b1d07261a5ddd2b6274cf9bf4fbd0d8294ad05c278920df80ad; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176119
 - susijęs iš Cartoryskas: Lietuvos metraštyje Konstantino dalimi įvardijami Černigovas ir Cartoryskas.
@@ -100,8 +84,8 @@ Lietuvai ir Lenkijai suartėti įtakos turėjo ir Jogailos pusbroliai, Podolėje
     kuriam rūpėjo Padolę apsaugoti nuo totorių, buvo Lietuvos ir
     Lenkijos sąjungos šalininkas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -134,8 +118,8 @@ Lietuvai ir Lenkijai suartėti įtakos turėjo ir Jogailos pusbroliai, Podolėje
     ne pagal kalendorių, o pagal
     jo karus bei pergales.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -194,10 +178,3 @@ Lietuvai ir Lenkijai suartėti įtakos turėjo ir Jogailos pusbroliai, Podolėje
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193395
-
-## Ryšiai
-- Priešai: [[objektai/grupes/Maskvėnai]]
-- Kariavo prieš: [[objektai/grupes/Maskvėnai]]
-- Turėjo priklausinį: [[objektai/vietos/Cartoryskas]], [[objektai/vietos/Černigovas]]
-- Konstantinas (Karijotaitis) puolė [[objektai/grupes/Maskvėnai]]
-- Konstantinas (Karijotaitis) kariavo prieš [[objektai/grupes/Maskvėnai]]

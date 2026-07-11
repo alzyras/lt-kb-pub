@@ -560,6 +560,16 @@ function initObjectMapPreviews() {
     if (objectMapPreviewInitialized.has(root)) return
     objectMapPreviewInitialized.add(root)
 
+    const sectionNav = root.querySelector<HTMLElement>(".object-section-nav")
+    const pageHeader = root.closest<HTMLElement>(".page-header")
+    if (sectionNav && pageHeader) {
+      sectionNav.querySelectorAll<HTMLAnchorElement>('a[href^="#"]').forEach((link) => {
+        const targetId = decodeURIComponent(link.hash.slice(1))
+        if (!document.getElementById(targetId)) link.hidden = true
+      })
+      pageHeader.insertAdjacentElement("afterend", sectionNav)
+    }
+
     const render = () => {
       window.requestAnimationFrame(() => renderObjectMapPreview(root))
     }

@@ -59,20 +59,6 @@ Nenurodyta
 - t-001
   global_id: t-41382
   teiginys: "1655 m. rugpjūčio 7 d. po aršių kautynių Rusijos kariuomenė ir jos sąjungininkai kazokai užėmė Lietuvos sostinę Vilnių."
-  semantiniai_rysiai: "Rusijos kariuomenė užėmė Vilnius (0.96); Kazokai buvo sąjungininkas su Rusijos kariuomenė (0.93); Kazokai užėmė Vilnius (0.90)"
-  temporaliniai_duomenys: "įvykio data: 1648 m.; įvykio data: 1649 m.; įvykio data: 1651 m.; įvykio data: 1654 m.; įvykio data: 1654-1655"
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, užbaigtas ir tiesiogiai paremtas citatos kontekstu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "517822-518692; hash=f050cadf2d952fc6c7d7a57e372ea62e67f6e1659e7ed3db3d6b88ae0adca167; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Vilnius: 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Rusijos kariuomenė: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Rusijos kariuomenė užėmė Vilnių."
   pagrindžia:
     - c-44934
 ## Reikšmingi paminėjimai
@@ -115,8 +101,8 @@ Nenurodyta
     priartėjo prie Vilniaus. Rugpjūčio 7 d. po aršių kautynių priešas
     užėmė Lietuvos sostinę, netrukus buvo užimti Trakai ir Kaunas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

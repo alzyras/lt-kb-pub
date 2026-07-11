@@ -30,14 +30,6 @@ Vertime posakis „Skrindau Kaunis iž tola“ perteikiamas žodžiais „Skrido
 - t-001
   global_id: t-189567
   teiginys: "Vertime posakis „Skrindau Kaunis iž tola“ perteikiamas žodžiais „Skrido Kaunis iš toli, Kur vasara amžinoji“."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "274688-274979; hash=d89983fc7b82c542732faad43ed486ed339c573502dcf17644f3a81e9cfa7b07; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-172455
 
@@ -45,14 +37,6 @@ Vertime posakis „Skrindau Kaunis iž tola“ perteikiamas žodžiais „Skrido
 - t-002
   global_id: t-194696
   teiginys: "Mūsų kraštuose dar išliko dainelė, susijusi su tuo dievuku: Skrindau Kaunis iž tola, Kur vvassara umžynoja."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "274341-274687; hash=5252d9740c643a30248d5de9733dbb93fcdfdf3be2f17057dc9fd390a0f66feb; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-177093
 ## Reikšmingi paminėjimai
@@ -73,8 +57,8 @@ Vertime posakis „Skrindau Kaunis iž tola“ perteikiamas žodžiais „Skrido
     Nenoriu aš brangių daiktų,
     Gan man tavo apėmimo)*.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -98,8 +82,8 @@ Vertime posakis „Skrindau Kaunis iž tola“ perteikiamas žodžiais „Skrido
     Ne noru až brangiu diklej,
     Gan man sauos apimirnos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -110,7 +94,8 @@ Vertime posakis „Skrindau Kaunis iž tola“ perteikiamas žodžiais „Skrido
 - id: c-172455
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 158"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 158."
   citata_originali: |
     (Skrido Kaunis iš toli,
     Kur vasara amžinoji.
@@ -133,7 +118,8 @@ Vertime posakis „Skrindau Kaunis iž tola“ perteikiamas žodžiais „Skrido
 - id: c-177093
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 158"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 158."
   citata_originali: |
     Mūsų kraštuose dar išliko dainelė, susijusi
     su tuo dievuku:

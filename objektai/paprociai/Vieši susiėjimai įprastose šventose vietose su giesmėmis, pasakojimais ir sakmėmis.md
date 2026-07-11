@@ -51,14 +51,6 @@ Nenurodyta
 - t-001
   global_id: t-193035
   teiginys: "Narbutas krikščionių kunigų nusistatymui priskiria draudimą viešai rinktis šventose vietose, kur giesmės ir sakmės primindavo senus prisiminimus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "47725-48511; hash=55182f3f35139d6670c8369efa1fedcadd183fbe80209c9f45a065d351a9621d; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175805
 ## Reikšmingi paminėjimai
@@ -82,8 +74,8 @@ Nenurodyta
     rėdama iš tiesų nepatvarius paminklus, bet iš kartos į
     kartą atstatomus iš paveldėtos tautiškumo meilės.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -94,7 +86,8 @@ Nenurodyta
 - id: c-175805
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 29"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 29."
   citata_originali: |
     Nelaimė netgi lėmė, kad ir švelniais būdais priimant švie­
     są kitose lietuvių žemės šalyse tautos prarado visas savo

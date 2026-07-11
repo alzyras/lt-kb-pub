@@ -61,20 +61,6 @@ Nenurodyta
 - t-003
   global_id: t-87166
   teiginys: "Vytauto įkurdinti totoriai gyveno prie Vokės, Vilniuje, Nemėžyje ir Lydos, Ašmenos bei Naugarduko pavietuose."
-  semantiniai_rysiai: "Totoriai gyveno Vilnius (0.93); Totoriai gyveno Nemėžis (0.90); Totoriai gyveno Ašmena (0.86); Totoriai gyveno Naugardukas (0.86); Totoriai gyveno Lietuva (0.82)"
-  temporaliniai_duomenys: "gyvenimo laikotarpis: 1398 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „gyvenimo laikotarpis“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pagrindžia totorių įkurdinimo vietas; pašalintas vertinamasis ir fragmentiškas tekstas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "318807-319797; hash=22e3239807a6a3b81d957ef167dd26ce4a59e6533b372a9ec15b55dc6201b52e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Vilnius: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Totoriai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginyje tiesiogiai pasakyta, kad totoriai gyveno Vilniuje."
   pagrindžia:
     - c-83147
 
@@ -82,17 +68,6 @@ Nenurodyta
 - t-001
   global_id: t-87168
   teiginys: "Vytautas prie Vilniaus apgyvendino iš Azovo atsivežtus totorius, paliko jiems senąjį tikėjimą ir suteikė žemės valdų bei laisvių."
-  semantiniai_rysiai: "Totoriai gyveno Vilnius (0.88)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "312500-315646; hash=8c2b1061c6c09d2689ab31ce919730dad9b4774f7ee08f4e228f8ba7608bc040; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Vilnius: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Totoriai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad totoriai buvo apgyvendinti prie Vilniaus."
   pagrindžia:
     - c-83146
 ## Reikšmingi paminėjimai
@@ -187,8 +162,8 @@ Nenurodyta
     žemės valdų ir laisvių, tėvynei iš jų gavo narsių ir ištikimų
     gynėjų ir pavyzdingų piliečių62.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -225,8 +200,8 @@ Nenurodyta
     pavadinimuose: Totoriškės, Totorių
     kapinės ir 1.1.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

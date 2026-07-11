@@ -32,16 +32,6 @@ Dusburgietis teigia, kad tačiau minėtasis Herkus Mantas, iš tolo pamatęs bro
 - t-001
   global_id: t-59171
   teiginys: "Herkus Mantas, pasakęs Henrikui Ulenbušui „Šiandien pat pasiųsiu tave į dangų“, sunkiai sužeidė jį ietimi."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "392932-393357; hash=acbc6a18843dbfa5e00a01dc119244987b0645134e2e9edbe68df38e4fe0dab5; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Herkus Mantas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Šiandien pat pasiųsiu tave į dangų: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Herkus Mantas: mention_match, person, gap=43"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šiandien pat pasiųsiu tave į dangų\" parinktas kaip owner_note_path. Targetas \"Herkus Mantas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-59803
 ## Reikšmingi paminėjimai
@@ -57,8 +47,8 @@ Dusburgietis teigia, kad tačiau minėtasis Herkus Mantas, iš tolo pamatęs bro
     vėliau ir užgijo. Sitai matydamas, vienas tarnas trumpąja ietimi sužeidė minėtąjį Herkų
     ir šitaip jam atseikėjo tuo pačiu saiku.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -69,7 +59,8 @@ Dusburgietis teigia, kad tačiau minėtasis Herkus Mantas, iš tolo pamatęs bro
 - id: c-59803
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 121"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 121."
   citata_originali: |
     Susidūrę su juo, broliai su savo
     ginklanešiais narsiai pasipriešino. Tačiau minėtasis Herkus Mantas, iš tolo pamatęs brolį

@@ -33,9 +33,6 @@ Dusburgietis teigia, kad 14 Mažiulis V.
 - t-001
   global_id: t-61332
   teiginys: "V. Mažiulio „Pasaulio tautų kalbos“ cituojama nurodant 11–12 puslapius."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "14387-14558; hash=4edfb583d5cbc225a64e8f49f25b1e30e8ee5f2d6dec0598fec83ec000086ea5; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-61964
 ## Reikšmingi paminėjimai
@@ -47,8 +44,8 @@ Dusburgietis teigia, kad 14 Mažiulis V.
     14 Mažiulis V. Pasaulio tautų kalbos, p. 11—12; to paties, Senovės vakarų baltai, p.
     7; Lietuvininkai.— LTE, t. 6, p. 527— 528; Mažoji Lietuva.— Ten pat, t. 7, p. 338—340.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -59,7 +56,8 @@ Dusburgietis teigia, kad 14 Mažiulis V.
 - id: c-61964
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 9"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 9."
   citata_originali: |
     14 Mažiulis V. Pasaulio tautų kalbos, p. 11—12; to paties, Senovės vakarų baltai, p.
     7; Lietuvininkai.— LTE, t. 6, p. 527— 528; Mažoji Lietuva.— Ten pat, t. 7, p. 338—340.

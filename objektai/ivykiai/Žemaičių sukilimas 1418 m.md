@@ -58,9 +58,6 @@ Nenurodyta
 - t-002
   global_id: t-50813
   teiginys: "Įkūrus Žemaičių vyskupiją, baigėsi bažnytinių reikalų tvarkymo etapas ir prasidėjo katalikų tikėjimo įsąmoninimas žmonėse."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "286727-287229; hash=60307e6736183a052e0c13965250ff9596b02ca9162539eafd14abdf19605c40; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-37097
 
@@ -68,16 +65,6 @@ Nenurodyta
 - t-001
   global_id: t-50814
   teiginys: "Žemaičių sukilimas prasidėjo Raseinių apskrityje, apėmė Ariogalą, Kražius ir Medininkus, o Vytautas jį malšino du kartus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "287598-287964; hash=c06871801a1bcac108296f1b55610523284abd4cbae9b0298e9ff8a16e402d3c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kražiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žemaičių sukilimas 1418 m (sukilimas): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Kražiai: mention_match, place, gap=66"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaičių sukilimas 1418 m (sukilimas)\" parinktas kaip owner_note_path. Targetas \"Kražiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-37098
 ## Reikšmingi paminėjimai
@@ -97,8 +84,8 @@ Nenurodyta
 
     (^1) ) C. ep.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -115,8 +102,8 @@ Nenurodyta
     tautas dukart malšino sukilimą, mirtimi nubausdamas 60 suki­
     limo vadų^1 ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

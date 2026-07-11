@@ -67,19 +67,6 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
 - t-001
   global_id: t-54956
   teiginys: "Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti siekdamas užgesinti politinius vaidus."
-  semantiniai_rysiai: "Elena (vyskupas, XV–XVI a.) buvo duktė Vasiljevičius (Maskvos valdovas) (0.92)"
-  temporaliniai_duomenys: "įvykio data: 1494 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "466259-466839; hash=5b39012f4ca1eddac84a7dd15353d6be395cde5ee46eeab84707c218aa4c6ace; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  ryšio_patikimumas: "buvo_dukte -> Vasiljevičius (Maskvos valdovas): 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Elena (vyskupas, XV–XVI a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vasiljevičius (Maskvos valdovas): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai įvardija Eleną Ivano Vasiljevičiaus dukterimi."
   pagrindžia:
     - c-78766
 
@@ -87,19 +74,6 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
 - t-002
   global_id: t-54957
   teiginys: "1495 m. sužadėtinė Elena iš Maskvos atvyko į Vilnių, lydima bojarinų ir dvariškių, o Aleksandras ją sutiko prie Nemėžio kelio."
-  semantiniai_rysiai: "Elena (vyskupas, XV–XVI a.) keliavo į Vilnius (0.90)"
-  temporaliniai_duomenys: "kelionės data: 1494 m.; kelionės data: 1495 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "466573-467429; hash=88deac52e1f69b557732fbda5fa92e575e48ed7e521602387536f79d240ceee5; match=whitespace_regex"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  ryšio_patikimumas: "keliavo_i -> Vilnius: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Elena (vyskupas, XV–XVI a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo, kad Elena atvyko į Vilnių."
   pagrindžia:
     - c-55318
 
@@ -107,16 +81,6 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
 - t-003
   global_id: t-54958
   teiginys: "Vaitiekus Taboras ir graikų tikėjimo dvasininkas Foma sutuokė Aleksandrą su Elena."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "467430-467851; hash=17dce260f34f777b0e355d3de9d1f395b09d5065cc031ba13246033c119be3f5; match=whitespace_regex"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  ryšio_patikimumas: "vede -> Elena (vyskupas, XV–XVI a.): 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Aleksandras: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Elena (vyskupas, XV–XVI a.): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai patvirtina Aleksandro ir Elenos santuoką."
   pagrindžia:
     - c-55319
 
@@ -124,20 +88,6 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
 - t-004
   global_id: t-54959
   teiginys: "Aleksandro ir Elenos santuoka išplėtė Vilniaus prekybinius santykius su Rusios miestais."
-  semantiniai_rysiai: "Vilnius prekiavo su Pskovas (0.72); Vilnius prekiavo su Tverė (0.72)"
-  temporaliniai_duomenys: "įvykio data: 1500 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir citata tiesiogiai pagrindžia santuokos poveikį Vilniaus prekybai."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "468227-468775; hash=1fb7fb5fc57b6b92c6916b46b8136d02f6e5c5278092662697257ceb36eb3afb; match=whitespace_regex"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  ryšio_patikimumas: "prekiavo_su -> Pskovas: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Pskovas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata nurodo Vilniaus prekybinių santykių plėtrą su Rusios miestais, tarp jų Pskovu."
   pagrindžia:
     - c-55320
 
@@ -145,17 +95,6 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
 - t-005
   global_id: t-54960
   teiginys: "Karalienė Elena lydėjo paliegusį Aleksandrą, kai jis buvo vežamas į Vilnių."
-  semantiniai_rysiai: "Elena (vyskupas, XV–XVI a.) keliavo į Vilnius (0.75)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "474960-475472; hash=d58a2c066455c2f635ebb59fca3e2839e1c72782097837084768a9aa2e16598c; match=whitespace_regex"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  ryšio_patikimumas: "keliavo_i -> Vilnius: 0.75"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Elena (vyskupas, XV–XVI a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Elena lydėjo Aleksandrą, kai šis buvo gabenamas į Vilnių."
   pagrindžia:
     - c-55321
 
@@ -163,17 +102,6 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
 - t-006
   global_id: t-54961
   teiginys: "Karalienė Elena savo lėšomis Vilniaus pilyje pastatydino namą iš Maskvos atvykstantiems bojarinams ir pasiuntiniams."
-  semantiniai_rysiai: "Elena (vyskupas, XV–XVI a.) pastatė Namas (0.92)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "473474-474113; hash=209bad3c8ce86d33c43b94a34369b2362f3595f67e4ebc6f2cedee0d5e930032; match=whitespace_regex"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  ryšio_patikimumas: "pastate -> Namas: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Elena (vyskupas, XV–XVI a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Namas: llm_allowed_candidate, thing"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai sako, kad Elena savo lėšomis pastatydino namą."
   pagrindžia:
     - c-55322
 
@@ -181,19 +109,6 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
 - t-009
   global_id: t-54962
   teiginys: "1503 m. Aleksandras dovanojo Elenai Mogiliavo pilį jos gyvenimo laikui."
-  semantiniai_rysiai: "Mogiliavas priklausė Elena (vyskupas, XV–XVI a.) (0.86)"
-  temporaliniai_duomenys: "įvykio data: 1503 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "705175-706849; hash=d630a5ecab1ca85606481ead2b13ca00da0150d99623bd43eab11775912069c2; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  ryšio_patikimumas: "priklause -> Elena (vyskupas, XV–XVI a.): 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Mogiliavas: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Elena (vyskupas, XV–XVI a.): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Mogiliavo pilis buvo dovanojama Elenai jos naudojimui."
   pagrindžia:
     - c-78769
 
@@ -201,16 +116,6 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
 - t-010
   global_id: t-54963
   teiginys: "Aleksandro testamentas pavedė Žygimantui ir kitiems globoti Eleną bei jos teises."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "714220-716031; hash=0629d8d35613d72b43cc0a834673b20d4cd1dae458e8076100085765eebe1fa9; match=whitespace_regex"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  ryšio_patikimumas: "susije_su -> Antspaudas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Elena (vyskupas, XV–XVI a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Antspaudas: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Elena (vyskupas, XV–XVI a.)\" parinktas kaip owner_note_path. Targetas \"Antspaudas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-55324
 
@@ -218,20 +123,6 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
 - t-011
   global_id: t-82283
   teiginys: "Aleksandras nutarė vesti Ivano Vasiljevičiaus dukterį Eleną, siekdamas užgesinti kilusius tarpusavio vaidus."
-  semantiniai_rysiai: "Elena (vyskupas, XV–XVI a.) buvo duktė Vasiljevičius (Maskvos valdovas) (0.92)"
-  temporaliniai_duomenys: "įvykio data: 1494 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pagrindžia vedybų motyvą, o pradinis teiginys prasidėjo neaiškiu įvardžiu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "466259-466839; hash=5b39012f4ca1eddac84a7dd15353d6be395cde5ee46eeab84707c218aa4c6ace; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  ryšio_patikimumas: "buvo_dukte -> Vasiljevičius (Maskvos valdovas): 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Elena (vyskupas, XV–XVI a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vasiljevičius (Maskvos valdovas): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai įvardija Eleną Ivano Vasiljevičiaus dukterimi."
   pagrindžia:
     - c-78766
 
@@ -239,17 +130,6 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
 - t-018
   global_id: t-82284
   teiginys: "Aleksandras dovanojo Elenai Mogiliavo pilį prie Dniepro ir jai priklausančias valdas tik Elenos gyvenimo laikui."
-  semantiniai_rysiai: "Mogiliavas priklausė Elena (vyskupas, XV–XVI a.) (0.86)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "705175-706849; hash=d630a5ecab1ca85606481ead2b13ca00da0150d99623bd43eab11775912069c2; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  ryšio_patikimumas: "priklause -> Elena (vyskupas, XV–XVI a.): 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Mogiliavas: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Elena (vyskupas, XV–XVI a.): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Mogiliavo pilis tekste tiesiogiai dovanojama Elenai jos gyvenimo laikui."
   pagrindžia:
     - c-78769
 
@@ -257,17 +137,6 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
 - t-017
   global_id: t-82285
   teiginys: "Aleksandras užrašė Elenai ir jos įpėdiniams Smolnėnus, Horodiščę, Losičius ir kitas valdas su jų priklausiniais."
-  semantiniai_rysiai: "Losičiai priklausė Elena (vyskupas, XV–XVI a.) (0.88)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "699392-701438; hash=a1699172e642578dccecb3c7aca5af8332f2304d59726efa585ee3990a75927a; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  ryšio_patikimumas: "priklause -> Elena (vyskupas, XV–XVI a.): 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Losičiai: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Elena (vyskupas, XV–XVI a.): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Losičiai yra išvardyti tarp valdų, kurias Aleksandras užrašė Elenai ir jos įpėdiniams."
   pagrindžia:
     - c-78767
 
@@ -275,20 +144,6 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
 - t-014
   global_id: t-82286
   teiginys: "Aleksandro ir Elenos santuoka išplėtė Vilniaus prekybinius ryšius su Maskva, Naugardu, Pskovu ir Tvere."
-  semantiniai_rysiai: "Vilnius prekiavo su Pskovas (0.73)"
-  temporaliniai_duomenys: "įvykio data: 1500 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata tiesiogiai pagrindžia poveikį prekybiniams ryšiams."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "468419-468950; hash=58e1933f8b19df3b36d40842bc611abafee5e4bb671d3e565ad0379034ff79e2; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  ryšio_patikimumas: "prekiavo_su -> Pskovas: 0.73"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Pskovas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata Vilniaus prekybinius ryšius sieja su Rusios miestais, tarp kurių įvardytas Pskovas."
   pagrindžia:
     - c-78765
 
@@ -296,20 +151,6 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
 - t-015
   global_id: t-82287
   teiginys: "Karalienė Elena mirė Vilniuje 1513 m. ir buvo palaidota graikų apeigų koplyčioje."
-  semantiniai_rysiai: "Elena (vyskupas, XV–XVI a.) mirė Vilnius (0.94)"
-  temporaliniai_duomenys: "mirties data: 1513 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „mirties data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir paremtas citata, nepaisant OCR triukšmo šaltinio fragmente."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "478509-478988; hash=29674020b83c5d56c890d843aa93acae5702d34c5b90a2f46deec3fb157598f2; match=whitespace_regex"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  ryšio_patikimumas: "mire -> Vilnius: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Elena (vyskupas, XV–XVI a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Elena mirė Vilniuje."
   pagrindžia:
     - c-78764
 
@@ -317,20 +158,6 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
 - t-012
   global_id: t-82288
   teiginys: "1495 m. carui sutikus su vedybomis, sužadėtinė Elena kitų metų vasarį atvyko iš Maskvos į Vilnių."
-  semantiniai_rysiai: "Elena (vyskupas, XV–XVI a.) keliavo į Vilnius (0.91)"
-  temporaliniai_duomenys: "kelionės data: 1494 m.; kelionės data: 1495 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Elena (vyskupas, XV–XVI a.) keliavo į Maskva“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys ir tiksliai perteikia citatos turinį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "466573-467429; hash=88deac52e1f69b557732fbda5fa92e575e48ed7e521602387536f79d240ceee5; match=whitespace_regex"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  ryšio_patikimumas: "keliavo_i -> Vilnius: 0.91"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Elena (vyskupas, XV–XVI a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad Elena atvyko į Vilnių."
   pagrindžia:
     - c-55318
 
@@ -338,16 +165,6 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
 - t-016
   global_id: t-82289
   teiginys: "Aleksandras dovanojo Elenai ir jos palikuonims Kniazičius, Teteriną, Popova Huros pilį ir kitas valdas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "696420-697033; hash=c066b6851011b1766abe81163897d00d3148decf50f8fa1167e5f04eedcc6313; match=whitespace_regex"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  ryšio_patikimumas: "susije_su -> Aleksandras: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Elena (vyskupas, XV–XVI a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Aleksandras: mention_match, person, gap=21"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Elena (vyskupas, XV–XVI a.)\" parinktas kaip owner_note_path. Targetas \"Aleksandras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-78768
 
@@ -355,16 +172,6 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
 - t-013
   global_id: t-82290
   teiginys: "Vilniaus vyskupas Vaitiekus Taboras ir graikų tikėjimo dvasininkas Foma sutuokė didįjį kunigaikštį Aleksandrą su Elena."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "467608-468045; hash=a03a12e62592cd523721aa13c3e5352bd3063aadbc883d8ef691f9c001d15211; match=whitespace_regex"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  ryšio_patikimumas: "susije_su -> Foma: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Elena (vyskupas, XV–XVI a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Foma: mention_match, person, gap=46"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Elena (vyskupas, XV–XVI a.)\" parinktas kaip owner_note_path. Targetas \"Foma\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-78763
 
@@ -372,19 +179,6 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
 - t-019
   global_id: t-184695
   teiginys: "Karalienė Elena, didikams išvykus į seimą, pamėgino pabėgti į Maskvos kunigaikštystę."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1092205-1092929; hash=114de11ddc2cdbd98c3d2529104f41474752c6ba209ea729817061fa55738f49; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Maskva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Elena (vyskupas, XV–XVI a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Maskva: mention_match, place, gap=52"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Elena (vyskupas, XV–XVI a.)\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-168056
 
@@ -392,12 +186,6 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
 - t-020
   global_id: t-193907
   teiginys: "Lietuvos didy sis kunigaikštis Aleksandras nusiuntė į Maskvą, pas didįjį Maskvos kunigaikštį Ivaną, pasiuntinius1 9 par vežti didžiosios kunigaikštytės Elenos: Vilniaus kašte lioną, Gardino vietininką kunigaikštį Aleksandrą Jurjevičių2 0 , Trakų kaštelioną."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "255822-256575; hash=13fa6c6a9b4d96e2df78a9a1255627716208f4adc5662cb8c801a911a6dd7f82; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176532
 
@@ -405,12 +193,6 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
 - t-021
   global_id: t-193908
   teiginys: "” Maskvos kunigaikštytė Elena atvyko | Vilnių I495.II.IS ir tų pačių dienų Vilniaus katedroje įvyko jos jungtuvės su Lietuvos did. kunigaikščiu Aleksandru."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "607711-607869; hash=a0edcf9294640fe4ea9d2a994c494c522ea123ebebac30ce4f8d6c2caf22290a; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176533
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-54942|Aleksandras Jogailaitis]]: Aleksandras pasirinko Vilnių nuolatiniam gyvenimui ir po vedybų su Elena atgaivino sostinę.
@@ -530,8 +312,8 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
     tiesalo, padavė vienas kitam rankas ir pirmąkart pasikal­
     bėjo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -550,8 +332,8 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
     tienė Rapolovska laikė vainiką, o djakas Kulešinas - stik­
     linę vyno42.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -571,8 +353,8 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
     tino steigti naujas užeigas pirkliams, atvykstantiems į Lie­
     tuvos sostinę iš Maskvos, Naugardo, Pskovo ir Tverės.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -592,8 +374,8 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
     Taboras, Jonas Zabžezinskis ir Karalystės kancleris Jonas
     Laskis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -623,8 +405,8 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
     je, vasario 12-tą dieną, 12 indikte, su
     antspaudu. Raidė aa.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -665,8 +447,8 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
     džiąją Lietuvos, Rusios, Žemaitijos kunigaikštienę, jos veiks­
     mų bei teisių globą (protectio).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -685,8 +467,8 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
     vanoti43, o iškilmės Lietuvos sostinėje tęsėsi beveik iki
     42 daugelyje rusų metraščių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -710,8 +492,8 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
     namų statymas teikė naudingos veiklos Vilniaus gyvento­
     jams, ir miestiečiai darėsi turtingesni.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -731,8 +513,8 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
     pirkliai privalėdavo apsistoti, sumokėti prekių muitą ir apie
     savo atvykimą iškart pranešti pilininkui4 3  44.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -757,8 +539,8 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
     lovas Goštautas, Žemaičių seniūnas, Aleksandras prisie­
     kė Vilniuje, iš Maskvos atvykusių pasiuntinių akivaizdoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -809,8 +591,8 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
     pedire. In quorum omnium fidem, et robur praesentibus si­
     gillum nostrum est subappensum.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -834,8 +616,8 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
     *
     Mstislavlis (vert.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -879,8 +661,8 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
     dum, tenendum, utifruendum pacifice, et quiete possidendum,
     sicut expressum est ad tempora vitae suae.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -916,8 +698,8 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
     tystės sienos ji valdė iš valstybės asmeninėms išlai­
     doms gautą Breslaujos apskritį su dideliais dvarais.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -947,8 +729,8 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
     lovskis, Michailas Rusalka, Ivanas Skuratovas, dijokas
     Vasilijus Kulešinas2 3 .
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -962,8 +744,8 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
     tų pačių dienų Vilniaus katedroje įvyko jos jungtuvės su Lietuvos
     did. kunigaikščiu Aleksandru.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1427,7 +1209,8 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
 - id: c-176533
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 307"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 307."
   citata_originali: |
     ”  Maskvos kunigaikštytė Elena atvyko | Vilnių I495.II.IS ir
     tų pačių dienų Vilniaus katedroje įvyko jos jungtuvės su Lietuvos
@@ -1441,11 +1224,7 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
 
 ## Ryšiai
 - Vyrai: [[objektai/asmenys/Aleksandras Jogailaitis]]
-- Sutuoktiniai: [[objektai/asmenys/Aleksandras Jogailaitis]]
 - Tėvai: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)]]
-- Rėmė Eleną (vyskupas, XV–XVI a.): [[objektai/asmenys/Žygimantas Senasis]]
-- Turėjo priklausinį: [[objektai/vietos/Losičiai]], [[objektai/vietos/Mogiliavas]]
-- Elena (vyskupas, XV–XVI a.) valdė [[objektai/vietos/Mogiliavas]], [[objektai/vietos/Mogiliavo pilis]], [[objektai/vietos/Vilnius]]
-- Elena (vyskupas, XV–XVI a.) keliavo į [[objektai/vietos/Maskva]], [[objektai/vietos/Polockas]], [[objektai/vietos/Vilnius]], [[objektai/vietos/Vitebskas]]
+- Elena (vyskupas, XV–XVI a.) keliavo į [[objektai/vietos/Vilnius]]
 - Elena (vyskupas, XV–XVI a.) mirė [[objektai/vietos/Vilnius]]
 - Elena (vyskupas, XV–XVI a.) pastatė [[objektai/daiktai/Namas]]

@@ -41,20 +41,6 @@ Dusburgietis teigia, kad su jais ir su visa Kulmo žemės bei gretimų žemių b
 - t-001
   global_id: t-60279
   teiginys: "1322 m. Fridrichas iš Vildenbergo, pavadavęs didįjį magistrą, su Ordino kariuomene žiemą įsiveržė į Vaikių valsčių."
-  semantiniai_rysiai: "Fridrichas iš Vildenbergo puolė Vaikiai (0.90); Fridrichas iš Vildenbergo puolė Raseiniai (0.86); Fridrichas iš Vildenbergo puolė Ariogala (0.86)"
-  temporaliniai_duomenys: "įvykio data: 1322 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "666412-667132; hash=67f6d3bcb86f4c1ff9966de7d94460d26b94c26a88893fe2a0d1bf9f31d24616; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Vaikiai: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Fridrichas iš Vildenbergo: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vaikiai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Fridricho įsiveržimą į Vaikių valsčių."
   pagrindžia:
     - c-60911
 ## Reikšmingi paminėjimai
@@ -73,8 +59,8 @@ Dusburgietis teigia, kad su jais ir su visa Kulmo žemės bei gretimų žemių b
     jie įsiveržė į Raseinių valsčių, o trečią dieną — į Ariogalos valsčių ir abu valsčius nusiaubė
     ugnimi.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -85,7 +71,8 @@ Dusburgietis teigia, kad su jais ir su visa Kulmo žemės bei gretimų žemių b
 - id: c-60911
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 216"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 216."
   citata_originali: |
     1322 viešpaties metais atvyko į Prūsijos žemę garbingi vyrai bei valdovai Bernardas,
     Vroclavo kunigaikštis, iš Lenkijos, grafas iš Geroldizekės, Reino grafų iš Julicho  ir iš
@@ -105,4 +92,4 @@ Dusburgietis teigia, kad su jais ir su visa Kulmo žemės bei gretimų žemių b
     - t-60279
 
 ## Ryšiai
-- Fridrichas iš Vildenbergo puolė [[objektai/vietos/Ariogala]], [[objektai/vietos/Raseiniai]], [[objektai/vietos/Vaikiai]]
+- Fridrichas iš Vildenbergo puolė [[objektai/vietos/Vaikiai]]

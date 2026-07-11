@@ -76,19 +76,6 @@ Nenurodyta
 - t-024
   global_id: t-169728
   teiginys: "LLKS Vasario 16-osios deklaracijoje numatyta atkurti Lietuvos valstybę kaip demokratinę respubliką."
-  temporaliniai_duomenys: "įvykio data: 1929 m.; įvykio data: 1936-1938; įvykio data: 1938 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs ir per ilgas."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "432627-433377; hash=485ae6c2e4a3e5f6f4638d1277a364cad6875d338ba7e5edb0e842db7c3cd122; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Abiejų Tautų Respublika: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos laisvės kovos sąjūdis: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Abiejų Tautų Respublika: mention_match, group, gap=35"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos laisvės kovos sąjūdis\" parinktas kaip owner_note_path. Targetas \"Abiejų Tautų Respublika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-154427
 - susijęs iš [[objektai/asmenys/Henrikas Danilevičius-Vidmantas.md#claim-t-40134|Henrikas Danilevičius-Vidmantas]]: LLKS vadovybės specialusis atstovas RL sričiai Henrikas Danilevičius-Vidmantas nusišovė po nelygios kovos su okupantų kariuomene.
@@ -162,8 +149,8 @@ Nenurodyta
     sudarytą vyriausybę. LLKS Tarybos prezidiumas tapo aukščiausiu valdžios
     organu iki laisvų demokratinių Seimo rinkimų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -194,6 +181,3 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-169728
-
-## Ryšiai
-- Turėjo priklausinį: [[objektai/grupes/LLKS gynybos pajėgos]], [[objektai/daiktai/Prisikėlimo apygardos partizanų antsiuvas]]

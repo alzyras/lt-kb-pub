@@ -35,11 +35,6 @@ Tegyvuoja gegužės 3 d. konstitucija!: vienas Vilniaus gimnazijos mokinys ant l
 - t-001
   global_id: t-67286
   teiginys: "Po šūkio „Tegyvuoja gegužės 3 d. konstitucija!“ užrašymo prasidėjo mokinių ir studentų kratos bei areštai."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "930012-930297; hash=56ed0449507b95b1efd995339d9a70a99afb08e1c964220e953f8bcabebd1af0; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-67252
 ## Reikšmingi paminėjimai
@@ -54,8 +49,8 @@ Tegyvuoja gegužės 3 d. konstitucija!: vienas Vilniaus gimnazijos mokinys ant l
     ma siektinu idealu ir laisvės garantija). Tuojau po to prasi-
     dėjo kratos ir areštai mokinių ir studentų tarpe.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

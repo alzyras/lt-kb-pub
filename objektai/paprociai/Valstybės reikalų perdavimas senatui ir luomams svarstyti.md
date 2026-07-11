@@ -45,12 +45,6 @@ Nenurodyta
 - t-001
   global_id: t-193480
   teiginys: "Vytautui išėjus, senatas kuo rimčiau siai paaiškino karaliui, kad, pritardamas pavojingiems ir suktiems imperatoriaus sumanymams, nusileistų žmo gui, kuris ne tik jo šeimos, bet ir Lietuvos bei Lenkijos priešas, nes šitai esąs parodęs praeityje ne vieną kar."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "733313-733874; hash=7332f951fefe986b101d0701817664b5983a4d62f3f1d491db05f58564389bf6; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176181
 ## Reikšmingi paminėjimai
@@ -74,8 +68,8 @@ Nenurodyta
     spręstų, kaip dera priešintis
     nesaikingiems Vytauto potroškiams.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -86,7 +80,8 @@ Nenurodyta
 - id: c-176181
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 418"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 418."
   citata_originali: |
     Vytautui išėjus, senatas kuo rimčiau­
     siai paaiškino karaliui, kad, pritardamas pavojingiems ir

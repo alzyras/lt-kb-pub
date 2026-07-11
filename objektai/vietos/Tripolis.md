@@ -41,16 +41,6 @@ Dusburgietis teigia, kad apie Mikalojų IV, popiežių, bei karalių Rudolfą ir
 - t-001
   global_id: t-58740
   teiginys: "Popiežiaus Mikalojaus IV antraisiais metais Tripolis buvo sugriautas, o miesto krikščionys paimti į nelaisvę arba nužudyti."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "720781-721146; hash=cfe3905a4c108b140d4f2196f740cd37cbaefaa49c0df13592fb7b558c503a51; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Krikščionys: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Tripolis: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Krikščionys: mention_match, group, gap=35"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tripolis\" parinktas kaip owner_note_path. Targetas \"Krikščionys\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-59372
 - susijęs iš [[objektai/ivykiai/Tripolio miesto sugriovimas (1288 m.).md#claim-t-62514|Tripolio miesto sugriovimas (1288 m.)]]: Popiežiaus Mikalojaus IV antraisiais metais Tripolis buvo sugriautas, o ten gyvenę krikščionys paimti į nelaisvę arba nužudyti.
@@ -69,8 +59,8 @@ Dusburgietis teigia, kad apie Mikalojų IV, popiežių, bei karalių Rudolfą ir
     Tripolis, o ten gyvenę krikščionys paimti  į nelaisvę ar nužudyti (Ptol. 24, 20; Mart. p.
     432; Mart. p. 421).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -81,7 +71,8 @@ Dusburgietis teigia, kad apie Mikalojų IV, popiežių, bei karalių Rudolfą ir
 - id: c-59372
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 239"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 239."
   citata_originali: |
     Apie Mikalojų IV, popiežių, bei karalių Rudolfą ir apie Tripolio miesto sugriovimą
 

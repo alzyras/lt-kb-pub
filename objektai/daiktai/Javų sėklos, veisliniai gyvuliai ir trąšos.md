@@ -67,9 +67,6 @@ Nenurodyta
 - t-001
   global_id: t-23286
   teiginys: "Valstybė lengvatinėmis sąlygomis aprūpindavo ūkininkus geresnėmis javų sėklomis ir veisliniais gyvuliais."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "300250-300706; hash=50a54e3aff6ee35f9d77e03097d636e2fe3178bc6396f57bde787ca941bd9680; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-166686
 
@@ -77,11 +74,6 @@ Nenurodyta
 - t-002
   global_id: t-23287
   teiginys: "Žemės ūkyje pradėjus naudoti organines ir mineralines trąšas, javų derlingumas padidėjo nuo 9 cnt prieš karą iki 12 cnt ketvirtajame dešimtmetyje."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "300250-300706; hash=50a54e3aff6ee35f9d77e03097d636e2fe3178bc6396f57bde787ca941bd9680; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-166686
 ## Reikšmingi paminėjimai
@@ -98,8 +90,8 @@ Nenurodyta
     dirbimo bendrovės, įsigijus modernią įrangą, šaldytuvus, didėjo pieno ir
     mėsos produktų eksportas į užsienį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

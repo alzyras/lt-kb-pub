@@ -50,17 +50,6 @@ Nenurodyta
 - t-001
   global_id: t-08352
   teiginys: "Virš ugnavietės kabėjęs ąžuolo ramentas buvo vadinamas vąšu."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "51637-51998; hash=cebc27a55a239b1620f51b9909969e382b5d78b9fde973b60847898093faf23b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Mietas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vąšas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Mietas: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vąšas\" parinktas kaip owner_note_path. Targetas \"Mietas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-10306
 
@@ -68,17 +57,6 @@ Nenurodyta
 - t-002
   global_id: t-08353
   teiginys: "Prie vąšo rišdavo druskos gabalą, kurį gaspadinė galėdavo įleisti į katilą."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "51999-52299; hash=14603db2238e5cc8802a0fda872dd4b0ef2da7c8a657065af469c99dcc4205e7; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Druska: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vąšas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Druska: mention_match, thing, gap=13"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vąšas\" parinktas kaip owner_note_path. Targetas \"Druska\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-10307
 ## Reikšmingi paminėjimai
@@ -92,8 +70,8 @@ Nenurodyta
         pakumpusios šaknies it nosia, iki pat ugnies nutįsęs taip, idant katilas, antkabintas^201 valgiui virti,
         galėtų kaisti ir virti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -107,8 +85,8 @@ Nenurodyta
         kliupurį^202 į katilą įleisti ir vėl pamirkiusi aukštyn patraukti, kursai, iškeltas iš viralo, lašėjo tenai iki
         nudžiūnąs.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

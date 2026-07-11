@@ -42,20 +42,6 @@ media_all_json: |-
 - t-001
   global_id: t-40377
   teiginys: "Aukso ordos valdytojas Nogajus pasiuntė Mamšėjaus vadovaujamą kariuomenę prieš Traidenio Lietuvą."
-  semantiniai_rysiai: "Nogajus (Aukso ordos valdytojas) siuntė į Lietuva (0.95)"
-  temporaliniai_duomenys: "įvykio data: 1278-1279; įvykio data: 1279 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, enciklopedinis ir paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "115286-115733; hash=04c56dd8cefdfa3d7a9a7edbef69a77b9ab4ea4e90c42feb98d4b94c1f46562d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "siunte_i -> Lietuva: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Nogajus (Aukso ordos valdytojas): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Nogajus pasiuntė kariuomenę prieš Traidenio Lietuvą."
   pagrindžia:
     - c-44480
 ## Reikšmingi paminėjimai
@@ -73,8 +59,8 @@ media_all_json: |-
     Totorių kariuomenei artėjant prie Naugarduko, Haličo-Voluinės
     kunigaikščiai nuo Bresto patraukė Gardino link.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

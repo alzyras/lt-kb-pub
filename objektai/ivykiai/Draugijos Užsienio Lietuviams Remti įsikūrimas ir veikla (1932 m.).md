@@ -52,20 +52,6 @@ Nenurodyta
 - t-001
   global_id: t-01610
   teiginys: "1932 m. įsikūrusi Draugija Užsienio Lietuviams Remti siekė kultūriškai ir, kiek įmanoma, materialiai remti užsienyje gyvenančius lietuvius."
-  semantiniai_rysiai: "Draugija užsienio lietuviams remti rėmė Lietuviai (0.90)"
-  temporaliniai_duomenys: "įvykio data: 1932 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata leidžia aiškiau suformuluoti draugijos įsikūrimą ir tikslą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "1330473-1330900; hash=91ebd5e9e124f1fbbeba872146fb4820a8544d5bc04fb1663049c56afe797482; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "reme -> Lietuviai: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Draugija užsienio lietuviams remti: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad draugija rėmė užsienyje gyvenančius lietuvius."
   pagrindžia:
     - c-01849
 
@@ -73,20 +59,6 @@ Nenurodyta
 - t-002
   global_id: t-01611
   teiginys: "Draugija Užsienio Lietuviams Remti rūpinosi lietuviškomis mokyklomis, mokytojais ir knygomis išeivių bibliotekoms."
-  semantiniai_rysiai: "Draugija užsienio lietuviams remti rėmė Lietuviai (0.86)"
-  temporaliniai_duomenys: "įvykio data: 1935 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata leidžia pakeisti santrumpą aiškiu organizacijos pavadinimu ir sutrumpinti sakinį."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "1331406-1331690; hash=adbd647a2849724915654c8d90bc073908f0d10228502f16a2940814cc86e803; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "reme -> Lietuviai: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Draugija užsienio lietuviams remti: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Draugija tiesiogiai rūpinosi užsienio lietuvių švietimu, tad rėmė lietuvius."
   pagrindžia:
     - c-01848
 ## Reikšmingi paminėjimai
@@ -101,8 +73,8 @@ Nenurodyta
     lietuviškų mokyklų steigimu, parūpina išeivių mokykloms mokytojų,
     siunčia išeivių bibliotekoms knygų ir vadovėlių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -119,8 +91,8 @@ Nenurodyta
     ekskursijoms, suartina panašias užsienio lietuvių ir Lietuvos orga-
     nizacijas, padeda susitikti sportininkams ir pasirodyti menininkams.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

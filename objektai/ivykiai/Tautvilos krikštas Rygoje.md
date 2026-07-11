@@ -48,19 +48,6 @@ Nenurodyta
 - t-001
   global_id: t-187495
   teiginys: "Lietuvos metraščio pasakojimu, Tautvilas su Danieliui skirtais belaisviais nuvyko į Rygą, kur rygiečiai jį iškilmingai priėmė ir pakrikštijo."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "89690-89941; hash=fa3b59dbe0a435d09eb3d67ce973d97034953c5dbb66bc9ccb5b3a4fe6a9323d; match=ocr_normalized"
-  sprendimo_priezastis: "gap::events"
-  ryšio_patikimumas: "susije_su -> Rygiečiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Tautvilos krikštas Rygoje (krikštas): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Rygiečiai: mention_match, group, gap=63"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tautvilos krikštas Rygoje (krikštas)\" parinktas kaip owner_note_path. Targetas \"Rygiečiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-170454
 ## Reikšmingi paminėjimai
@@ -76,8 +63,8 @@ Nenurodyta
     vyko į Rygą. Rygiečiai jį priėmė su didžiausia iškilme,
     ir jis buvo pakrikštytas.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -88,7 +75,8 @@ Nenurodyta
 - id: c-170454
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 49"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 49."
   citata_originali: |
     Danielius iš­
     siuntė Tautvilą ", ir jam į pagalbą— rusus bei polovie-

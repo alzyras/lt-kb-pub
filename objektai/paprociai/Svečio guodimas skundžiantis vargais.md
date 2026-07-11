@@ -46,9 +46,6 @@ Nenurodyta
 - t-002
   global_id: t-07806
   teiginys: "Neturėdami kuo pavaišinti svečio, šeimininkai verkdavo ir guosdavosi vargais, kad nebūtų palaikyti blogais gaspadoriais."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "129481-129798; hash=738ff5945a6939eb83ab8465bcc5afa8f50de9ba81aa43b9e46f966510c5e036; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
   pagrindžia:
     - c-09964
 ## Reikšmingi paminėjimai
@@ -61,8 +58,8 @@ Nenurodyta
         prispaudimais ir neteisybėmis, to vien dėjęsi^502 , idant svetys neturėtų jo už piktos širdies žmogų
         ir netartų jį paiku gaspadorium esant.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

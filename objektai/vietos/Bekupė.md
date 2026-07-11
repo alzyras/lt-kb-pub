@@ -32,14 +32,6 @@ Tuo metu 3-iasis pulko batalionas užėmė Bekupės-Juozapavo ruožą.
 - t-001
   global_id: t-193793
   teiginys: "Tuo metu 3-iasis pulko batalionas užėmė Bekupės-Juozapavo ruožą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "860759-860997; hash=ea8d11346c2dbc93121bb6468766e8566179831613850935dee9bfd2673bd718; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-176439
 ## Reikšmingi paminėjimai
@@ -56,8 +48,8 @@ Tuo metu 3-iasis pulko batalionas užėmė Bekupės-Juozapavo ruožą.
     du batalionus, kurie sulaikė lietuvių puo-
     limą Giedraičių prieigose.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -31,23 +31,6 @@ Gepidai, pasak Prokopijaus, dalyvavo visuose herulų žygiuose ir buvo pakviesti
 - t-001
   global_id: t-185459
   teiginys: "Gepidai, pasak Prokopijaus, dalyvavo visuose herulų žygiuose ir buvo pakviesti langobardų į žygį į Italiją."
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Gepidai keliavo į Italija (0.72)"
-  temporaliniai_duomenys: "įvykio data: 559 m"
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sakinys sutrumpintas ir sutvarkytas, paliekant citatos remiamus faktus apie gepidus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "88370-89045; hash=70396e8e5157800185d346bb219847fbee6ce93ba3fc884452e148522ae60622; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Italija: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gepidai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Italija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys nurodo, kad gepidai buvo pakviesti į žygį į Italiją; tai pagrindžia judėjimą į Italiją."
   pagrindžia:
     - c-168820
 
@@ -55,22 +38,6 @@ Gepidai, pasak Prokopijaus, dalyvavo visuose herulų žygiuose ir buvo pakviesti
 - t-002
   global_id: t-192392
   teiginys: "Narbutas rašo, kad 476 metų pradžioje alanai, turcilingai, gepidai, skiriai ir herulai paskelbė Odoakrą savo vadu ir karaliumi."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Herulai paskyrė Odoakras (0.90); Gepidai paskyrė Odoakras (0.86); Skiriai paskyrė Odoakras (0.86)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "562171-562567; hash=a997a361e7bb6767df2ba194a3a56e6f94d2ce083260e7c52d621b2e4c9e5931; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "paskyre -> Odoakras: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Herulai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Odoakras: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citatoje tiesiogiai pasakyta, kad herulai paskelbė Odoakrą savo vadu."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175186
 - susijęs iš [[objektai/autoriai/Prokopijus.md#claim-t-186291|Prokopijus]]: Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose.
@@ -105,8 +72,8 @@ Gepidai, pasak Prokopijaus, dalyvavo visuose herulų žygiuose ir buvo pakviesti
     beveik ištisus du šimtmečius be pertraukos viešpatavo
     langobardai.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -130,8 +97,8 @@ Gepidai, pasak Prokopijaus, dalyvavo visuose herulų žygiuose ir buvo pakviesti
     naujasis vadas tuojau pat išskubėjo iš Panonijos, vesda­
     mas gausius būrius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -142,7 +109,8 @@ Gepidai, pasak Prokopijaus, dalyvavo visuose herulų žygiuose ir buvo pakviesti
 - id: c-168820
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 54"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 54."
   citata_originali: |
     Atgavęs Italiją, jis, mi­
     rus Justinianui, buvo kviečiamas atgal į Bizantiją, o
@@ -194,9 +162,3 @@ Gepidai, pasak Prokopijaus, dalyvavo visuose herulų žygiuose ir buvo pakviesti
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192392
-
-## Ryšiai
-- Sąjungininkai: [[objektai/grupes/Langobardai]]
-- Gepidai keliavo į [[objektai/vietos/Italija]]
-- Gepidai puolė [[objektai/vietos/Italija]]
-- Gepidai paskyrė [[objektai/asmenys/Odoakras]]

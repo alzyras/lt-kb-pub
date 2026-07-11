@@ -48,23 +48,6 @@ Nenurodyta
 - t-001
   global_id: t-185836
   teiginys: "Lietuviai staigiu antpuoliu užėmė Dobrynę, kai sekmadienį žmonės buvo išėję iš kaimų į bažnyčias."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Lietuviai užėmė Dobrynė (0.86)"
-  temporaliniai_duomenys: "įvykio data: 1297 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Nepatikimos OCR vietos praleistos, paliktas citatos aiškiai pagrįstas faktas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "273216-273866; hash=a02a155bd4ef38bdf11210a833c59f4a23a6a4deae1d18c9da6ff6b628dd7415; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Dobrynė: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Dobrynė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad lietuviams pavyko užimti Dobrynės miestą."
   pagrindžia:
     - c-169197
 ## Reikšmingi paminėjimai
@@ -91,8 +74,8 @@ Nenurodyta
     miestą pavyko užimti staigiu
     antpuoliu.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -103,7 +86,8 @@ Nenurodyta
 - id: c-169197
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 159"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 159."
   citata_originali: |
     Kadangi Dobrynėje sekmadienį visi žmonės buvo su-
     D o b iy n ą , ž u d o  k i y -

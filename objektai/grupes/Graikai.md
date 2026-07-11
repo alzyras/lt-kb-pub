@@ -33,21 +33,6 @@ Su tolimaisiais Europos pietumis, kur dar prieš Kristų graikai ir romėnai buv
 - t-001
   global_id: t-189508
   teiginys: "Narbutas graikus minėjo tarp tautų, kurios senovėje, jo vertinimu, nebuvo laisvos nuo žalčių garbinimo prietarų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "345843-346147; hash=29c844fc7b17222f596f14f35e361031acd809561d8026a4d6232b5fdae9c348; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gotai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Graikai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Gotai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Graikai\" parinktas kaip owner_note_path. Targetas \"Gotai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172396
 
@@ -55,21 +40,6 @@ Su tolimaisiais Europos pietumis, kur dar prieš Kristų graikai ir romėnai buv
 - t-002
   global_id: t-189509
   teiginys: "Narbutas rašė, kad antikos graikai ir romėnai Heraklį vadino Alkidu, Minervą - Alkida ir turėjo atskiras Alkidėmis vadintas dievybes."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "368321-368563; hash=be9adfcb44ede49318a890ef0feadd037997cda38804c04356040f3d5c36c3b6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Romėnai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Graikai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Romėnai: mention_match, group, gap=11"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Graikai\" parinktas kaip owner_note_path. Targetas \"Romėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172397
 
@@ -77,21 +47,6 @@ Su tolimaisiais Europos pietumis, kur dar prieš Kristų graikai ir romėnai buv
 - t-003
   global_id: t-189510
   teiginys: "Narbutas rašė, kad graikai, kaip ir chaldėjai, persai, egiptiečiai bei romėnai, garbino ugnį kaip dievybę."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "379980-380361; hash=f54ab3ad0df3d9c906ca8d5fb742f9fe1d2378cb21ad5b46b0879c38f90aa431; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Egiptiečiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Graikai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Egiptiečiai: mention_match, group, gap=36"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Graikai\" parinktas kaip owner_note_path. Targetas \"Egiptiečiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172398
 
@@ -99,21 +54,6 @@ Su tolimaisiais Europos pietumis, kur dar prieš Kristų graikai ir romėnai buv
 - t-004
   global_id: t-192404
   teiginys: "Graikai jau senais laikais užmezgė santykius su Juodosios jūros pakrančių skitais."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "89604-90033; hash=a943a1d0bac46dd8f8403890334f4d8261ce022d14825469c99edae06f5e01f2; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Chersonas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Graikai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Chersonas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Graikai\" parinktas kaip owner_note_path. Targetas \"Chersonas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175198
 
@@ -121,22 +61,6 @@ Su tolimaisiais Europos pietumis, kur dar prieš Kristų graikai ir romėnai buv
 - t-005
   global_id: t-192405
   teiginys: "Narbutas rašo, kad graikų kolonijos suklestėjo tuo metu, kai jos užgožė žlungančius skitus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Persai puolė Skitija (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "95488-95725; hash=0953e9541a4fae9d8d7ec1a3647e832cc3fe573c14a35a6fa6a1101398e4cd59; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Skitija: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Persai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Skitija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citatoje tiesiogiai minimas persų antpuolis prieš Skitiją."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175199
 
@@ -144,22 +68,6 @@ Su tolimaisiais Europos pietumis, kur dar prieš Kristų graikai ir romėnai buv
 - t-006
   global_id: t-192406
   teiginys: "514 metais prieš Kristų persų būriai, remiami graikų sąjungininkų, įžengė į Europą ir brovėsi Dunojaus link."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Persai keliavo į Europa (0.90); Persai keliavo į Isteris (0.84)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "96500-96848; hash=98378a978504d2a9a2332e705fdc57e3a547b8b66b59418244ffb63e15c5fe2d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Europa: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Persai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Europa: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai teigia, kad persų būriai įžengė į Europą."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175200
 - susijęs iš [[objektai/grupes/Boristeniečiai.md#claim-t-192947|Boristeniečiai]]: Narbuto aiškinimu, graikų boristeniečių prekyba su skitų žemdirbiais lėmė jų apsigyvenimą Kankinėje.
@@ -329,8 +237,8 @@ Su tolimaisiais Europos pietumis, kur dar prieš Kristų graikai ir romėnai buv
     gelis kitų tautų nebuvo laisvos nuo tų prietarų. Panašų į lietu­
     vių elgesį su žalčiais Julijus Cezaris pastebėjo Pirėnų tautose9.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -345,8 +253,8 @@ Su tolimaisiais Europos pietumis, kur dar prieš Kristų graikai ir romėnai buv
     laikų graikai ir romėnai Heraklį vadino Alkidu, Minervą -  Al­
     kidą. Jie taip pat turėjo atskiras dievybes, vadintas Alkidėmis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -365,8 +273,8 @@ Su tolimaisiais Europos pietumis, kur dar prieš Kristų graikai ir romėnai buv
     ro mokymą, įžiūri ugnyje Dievą, arba pasaulio visatos sielą,
     bet nemoka tos esybės pavadinti vardu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -386,8 +294,8 @@ Su tolimaisiais Europos pietumis, kur dar prieš Kristų graikai ir romėnai buv
     pradėjo klestėti ir vėliau virto tokiais turtingais kaip
     Olbija, Heraklėja, Chersonas ir kiti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -403,8 +311,8 @@ Su tolimaisiais Europos pietumis, kur dar prieš Kristų graikai ir romėnai buv
     gančius skitus. Bet tikras šių genčių žlugimas prasidėjo
     persų antpuolio prieš Skitiją metu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -423,8 +331,8 @@ Su tolimaisiais Europos pietumis, kur dar prieš Kristų graikai ir romėnai buv
     pastatyti reikėjo daug darbo ir kurį saugoti patikėjo grai­
     kams.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -435,7 +343,8 @@ Su tolimaisiais Europos pietumis, kur dar prieš Kristų graikai ir romėnai buv
 - id: c-172396
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 203"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 203."
   citata_originali: |
     Šiuos prietarus žinojo ir Lietuvos rusinai.
     Senovėje žalčių garbinimas buvo visuotinis: indai, chaldė-
@@ -452,7 +361,8 @@ Su tolimaisiais Europos pietumis, kur dar prieš Kristų graikai ir romėnai buv
 - id: c-172397
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 216"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 216."
   citata_originali: |
     Senovės germanai nehervalai turėjo du dievaičius Alcius,
     amžinai jaunus, kurie buvo garbinami miškeliuose. Antikos
@@ -468,7 +378,8 @@ Su tolimaisiais Europos pietumis, kur dar prieš Kristų graikai ir romėnai buv
 - id: c-172398
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 223"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 223."
   citata_originali: |
     Vis dėlto ši pastaba mūsų nesulaiko: eisime mūsų
     pasirinktu keliu, vildamiesi, kad ir mūsų pastangos bus nau­
@@ -488,7 +399,8 @@ Su tolimaisiais Europos pietumis, kur dar prieš Kristų graikai ir romėnai buv
 - id: c-175198
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 52"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 52."
   citata_originali: |
     33
     Jau labai senais laikais graikai užmezgė santykius su
@@ -509,7 +421,8 @@ Su tolimaisiais Europos pietumis, kur dar prieš Kristų graikai ir romėnai buv
 - id: c-175199
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 55"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 55."
   citata_originali: |
     Padaugėjo nedorų žmonių būrių,
     pradėjo lietis kraujas ir ėmė veržtis nevaržomos aistros.
@@ -526,7 +439,8 @@ Su tolimaisiais Europos pietumis, kur dar prieš Kristų graikai ir romėnai buv
 - id: c-175200
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 56"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 56."
   citata_originali: |
     39
     Po kurio laiko, 514 metais prieš Kristaus gimimą, kai
@@ -544,9 +458,5 @@ Su tolimaisiais Europos pietumis, kur dar prieš Kristų graikai ir romėnai buv
     - t-192406
 
 ## Ryšiai
-- Rėmė Graikai: [[objektai/grupes/Persai]]
-- Turėjo priklausinį: [[objektai/grupes/Boristeniečiai]]
 - Graikai pastatė [[objektai/daiktai/Aukurai]]
-- Graikai prekiavo su [[objektai/vietos/Chersonas]], [[objektai/vietos/Olbija]], [[objektai/vietos/Skitija]]
-- Graikai gyveno [[objektai/vietos/Dnepras]], [[objektai/vietos/Kijevas]], [[objektai/vietos/Padneprė]]
 - Graikai rėmė [[objektai/grupes/Persai]]

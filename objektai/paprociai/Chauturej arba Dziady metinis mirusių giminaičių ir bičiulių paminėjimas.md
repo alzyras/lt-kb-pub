@@ -45,21 +45,6 @@ Nenurodyta
 - t-001
   global_id: t-189800
   teiginys: "Narbutas rašo, kad per Dziady pirmoji gėrimo taurė būdavo skiriama mirusiųjų vėlių dievybėms ir statoma už lango."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "688508-688929; hash=ee18275ec277cdc5e7816e5d33009f1ceb59bb9baeb9e6402469f5c77971e5ca; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Troba: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Chauturej arba Dziady metinis mirusių giminaičių ir bičiulių paminėjimas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Troba: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Chauturej arba Dziady metinis mirusių giminaičių ir bičiulių paminėjimas\" parinktas kaip owner_note_path. Targetas \"Troba\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-172683
 
@@ -67,14 +52,6 @@ Nenurodyta
 - t-002
   global_id: t-194624
   teiginys: "Dievobaimingiesiems vaide nasi, kad per garus, kylančius nuo valgių, jie mato valgančias mirusiųjų vėles, net girdi kažkokį šlamėjimą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "687170-687812; hash=b5bdd65a3d9ccd467ff191c27f58b9551a08f4407ddf31cc7ef5031dcf89924a; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-177023
 ## Reikšmingi paminėjimai
@@ -91,8 +68,8 @@ Nenurodyta
     giai, sudėti į krepšelius, išnešami išdalyti sutiktiems pavargė­
     liams. Tai yra išmalda už mirusiuosius (Žiną ažu numirusiu).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -114,8 +91,8 @@ Nenurodyta
     koks nors raganius gali jį suerzinti, o lojimas išgąsdintų vėles,
     jos liktų nepagerbtos ir kliudytų namams.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -126,7 +103,8 @@ Nenurodyta
 - id: c-172683
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 385"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 385."
   citata_originali: |
     Susėdę prie stalo, dar kalba maldas, geria
     skirdami pirmąją gėrimo taurę mirusiųjų vėlių dievybėms (ge­
@@ -145,7 +123,8 @@ Nenurodyta
 - id: c-177023
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 385"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 385."
   citata_originali: |
     Tęsiasi nepertraukia­
     ma tyla, niekas neišdrįsta nei sujudėti, nei sukelti mažiausią šla­

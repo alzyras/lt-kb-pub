@@ -45,19 +45,6 @@ Nenurodyta
 - t-002
   global_id: t-88176
   teiginys: "1565 m. rankraštyje minima, kad vertingiausi ginklai turėjo vardus, o dvi etmono patrankos vadintos Žygimantu Senuoju ir Žygimantu Augustu."
-  temporaliniai_duomenys: "įvykio data: 1565 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pirminis teiginys nutrūkęs, citata leidžia atkurti pilną enciklopedinį sakinį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "618528-618873; hash=72a9caf8b227ca61a02fa07b500fc697c6b3ae03af21f404a182ccc0a38195b9; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Ginklai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "1565 metų 39 lapų rankraštis apie Vilniuje pagamintus ginklus ir sprogmenis: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Ginklai: mention_match, thing, gap=45"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"1565 metų 39 lapų rankraštis apie Vilniuje pagamintus ginklus ir sprogmenis\" parinktas kaip owner_note_path. Targetas \"Ginklai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-84157
 
@@ -65,19 +52,6 @@ Nenurodyta
 - t-001
   global_id: t-88177
   teiginys: "1565 m. 39 lapų rankraštis aprašė Žygimanto Augusto lėšomis iki 1565 m. LDK gamintus ginklus ir amuniciją."
-  temporaliniai_duomenys: "įvykio data: iki 1565 m.; įvykio data: 1565 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Reikia patikslinti, kad rankraštis aprašė gamybą iki 1565 m. ir neišplėsti teiginio už citatos ribų."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "616996-617849; hash=92fef97bb88aad7c31875235fb207de46dd5dec9a85597bd8cd78ef5fa2a8c1f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Augustas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "1565 metų 39 lapų rankraštis apie Vilniuje pagamintus ginklus ir sprogmenis: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Augustas: mention_match, person, gap=44"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"1565 metų 39 lapų rankraštis apie Vilniuje pagamintus ginklus ir sprogmenis\" parinktas kaip owner_note_path. Targetas \"Augustas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-84155
 
@@ -85,16 +59,6 @@ Nenurodyta
 - t-003
   global_id: t-88178
   teiginys: "Golembiovskio artilerijos sąraše pateikti tik naujai pagaminti ir į tvirtoves išsiuntinėti pabūklai."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "620856-621130; hash=0caf3c8bf3b1d380d500f0865f75fe13178238c0c135626f4f91e3152725e61c; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Artilerija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "1565 metų 39 lapų rankraštis apie Vilniuje pagamintus ginklus ir sprogmenis: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Artilerija: mention_match, thing, gap=39"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"1565 metų 39 lapų rankraštis apie Vilniuje pagamintus ginklus ir sprogmenis\" parinktas kaip owner_note_path. Targetas \"Artilerija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-84156
 ## Reikšmingi paminėjimai
@@ -128,8 +92,8 @@ Nenurodyta
     Didžiojoje Kunigaikštystėje iki 1565 metų ir, dalį palikus Vil­
     niuje, išsiuntinėtus po kitas pilis".
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -145,8 +109,8 @@ Nenurodyta
     nių pabūklų. Čia išvardyti tik tie, kurie buvo naujai
     pagaminti ir ten išsiuntinėti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -164,8 +128,8 @@ Nenurodyta
     tėje dvi labiausiai pasižymėjusias patrankas vadino - Žygi­
     mantu Senuoju ir Žygimantu Augustu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

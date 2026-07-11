@@ -42,19 +42,6 @@ Nenurodyta
 - t-001
   global_id: t-185534
   teiginys: "Prūsai Notangos krašte įrengė pylimu ir gynybiniu grioviu sustiprintą stovyklą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "174716-175428; hash=8e88b1f89f23500c033eabe5f00a1dccd10ccd0769d2befe11391d676c3f187d; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Notanga: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Prūsų pergalė prieš kryžiuočių stovyklą ir Hirtshalso sudeginimas: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Notanga: mention_match, place, gap=30"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsų pergalė prieš kryžiuočių stovyklą ir Hirtshalso sudeginimas\" parinktas kaip owner_note_path. Targetas \"Notanga\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-168895
 
@@ -62,19 +49,6 @@ Nenurodyta
 - t-002
   global_id: t-185535
   teiginys: "Prūsai puolė negausiai saugomą kryžiuočių stovyklą, ją paėmė pirmuoju antpuoliu ir išžudė apsaugos karius."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "175617-176230; hash=5619f2eaac017fb0f599055129db9b606d1cd8a6eb73b98faabd44fa97c49239; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Prūsų pergalė prieš kryžiuočių stovyklą ir Hirtshalso sudeginimas: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prūsų pergalė prieš kryžiuočių stovyklą ir Hirtshalso sudeginimas\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-168896
 
@@ -82,20 +56,6 @@ Nenurodyta
 - t-003
   global_id: t-185536
   teiginys: "Prūsams pasirodžius iš užnugario, prasidėjo žiaurus mūšis, kuriame krikščionys galiausiai buvo sumušti."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Krikščionys dalyvavo mūšyje Prūsų pergalė prieš kryžiuočių stovyklą ir Hirtshalso sudeginimas (0.82); Vokiečiai dalyvavo mūšyje Prūsų pergalė prieš kryžiuočių stovyklą ir Hirtshalso sudeginimas (0.70)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "176435-176825; hash=3e6b9a23cac269399d12bc21b98f2d6fe901f7d93c85200a69bf3e0efb57f37c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "dalyvavo_musyje -> Prūsų pergalė prieš kryžiuočių stovyklą ir Hirtshalso sudeginimas: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Krikščionys: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Prūsų pergalė prieš kryžiuočių stovyklą ir Hirtshalso sudeginimas: llm_allowed_candidate, event"
-  ryšio_paaiskinimas: "Citata tiesiogiai rodo krikščionis kaip mūšio pusę šiame įvykyje."
   pagrindžia:
     - c-168897
 ## Reikšmingi paminėjimai
@@ -135,8 +95,8 @@ Nenurodyta
     gomis patraukė link priešo, kuris, pasak kalbų, taip
     pat buvo įsitvirtinęs stovykloje.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -162,8 +122,8 @@ Nenurodyta
     Pirmuoju antpuoliu paėmę stovyklą, išžudė apsaugai
     paliktus karius.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -182,8 +142,8 @@ Nenurodyta
     sumušti. Visi kilmingieji arba į nelaisvę pakliuvo, arba
     galvas padėjo.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -236,7 +196,8 @@ Nenurodyta
 - id: c-168896
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 105"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 105."
   citata_originali: |
     Štai todėl jie nutarė kokia nors nedidele
     pergale atimti priešui iš pat pradžių progą džiaugsmui
@@ -263,7 +224,8 @@ Nenurodyta
 - id: c-168897
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 105"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 105."
   citata_originali: |
     Kai pasirodė iš užnugario grėsmingi barbarai,
     kurių vokiečiai laukė iš priekio, netikėtai kilo įtarimas
@@ -279,6 +241,3 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185536
-
-## Ryšiai
-- Turėjo dalyvį: [[objektai/grupes/Krikščionys]], [[objektai/grupes/Vokiečiai]]

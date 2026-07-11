@@ -43,19 +43,6 @@ Visiems bendrai ir kiekvie­ nam atskirai, kam tiktai reikės žinoti, pranešam
 - t-002
   global_id: t-88160
   teiginys: "1572 m. kovo 26 d. Varšuvoje paskelbtame potvarkyje numatyta bauda atsisakiusiems priimti lietuvišką monetą."
-  temporaliniai_duomenys: "įvykio data: 1572 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata remia baudos nuostatą ir datą, bet pradinis teiginys negramatiškas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "834192-834712; hash=2c1966b91c2bc7892f1465058c9a764d370afa64ae268e2674916318cec46571; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Varšuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Generalinis potvarkis dėl lietuviškų monetų: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Varšuva: mention_match, place, gap=22"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Generalinis potvarkis dėl lietuviškų monetų\" parinktas kaip owner_note_path. Targetas \"Varšuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-84140
 
@@ -63,16 +50,6 @@ Visiems bendrai ir kiekvie­ nam atskirai, kam tiktai reikės žinoti, pranešam
 - t-001
   global_id: t-88161
   teiginys: "Žygimantas Augustas įsakė lietuviškus grašius imti po pustrečio lenkiško grašio už du lietuviškus grašius."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "832475-834190; hash=57fee4f38e9ca3384a83dbfc4857a7c963e19901b60f735e5c67b1d56a86a898; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Augustas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Generalinis potvarkis dėl lietuviškų monetų: owner_note_path, source"
-  ryšio_targeto_parinkimas: "Augustas: mention_match, person, gap=12"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Generalinis potvarkis dėl lietuviškų monetų\" parinktas kaip owner_note_path. Targetas \"Augustas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-167216
 
@@ -80,22 +57,6 @@ Visiems bendrai ir kiekvie­ nam atskirai, kam tiktai reikės žinoti, pranešam
 - t-003
   global_id: t-183831
   teiginys: "Potvarkis numatė, kad 1558-1565 m. nukaldintos lietuviškos monetos galės būti keičiamos kalykloje pagal nustatytą kainą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1558-1565; įvykio data: 1565 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata remia aiškesnę potvarkio nuostatą, o pradinis tekstas nutrūkęs."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "832475-834190; hash=57fee4f38e9ca3384a83dbfc4857a7c963e19901b60f735e5c67b1d56a86a898; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Generalinis potvarkis dėl lietuviškų monetų: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=47"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Generalinis potvarkis dėl lietuviškų monetų\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-167216
 ## Reikšmingi paminėjimai
@@ -115,8 +76,8 @@ Visiems bendrai ir kiekvie­ nam atskirai, kam tiktai reikės žinoti, pranešam
     mo 43-iais.
     Asmenišku Jo Didenybės karaliaus įsakymu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -160,8 +121,8 @@ Visiems bendrai ir kiekvie­ nam atskirai, kam tiktai reikės žinoti, pranešam
     kiškų grivinų baudą ir ši bauda į bet kurio mūsų valdų mies­
     to valdybą, tiek pilies, tiek miesto, būtų atnešta ir paduota.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

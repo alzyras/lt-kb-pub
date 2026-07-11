@@ -34,9 +34,6 @@ Kazimiero Draugija knygoms ir laikraščiams leisti (ji leido „Ned. Skaitymą"
 - t-001
   global_id: t-67373
   teiginys: "„Draugija“ atsirado iš Šv. Kazimiero draugijos leisto „Nedėldienio Skaitymo“."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "1048472-1048814; hash=40637309936001c8cf3957f93683884adb4e5dd8b160c0c72fc743a942e9a630; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-67309
 ## Reikšmingi paminėjimai
@@ -52,8 +49,8 @@ Kazimiero Draugija knygoms ir laikraščiams leisti (ji leido „Ned. Skaitymą"
     lietuvių tautą, jos kultūrą ir kelti lietuviškąjį mokslą (ji ir dabar
     tebėra gyva ir tebeleidžia savo žurnalą Lietuvių Tautą).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

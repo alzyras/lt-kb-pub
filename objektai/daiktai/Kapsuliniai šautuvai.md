@@ -63,17 +63,6 @@ Nenurodyta
 - t-001
   global_id: t-40722
   teiginys: "Rusų kariai pranoko sukilėlius ginkluote, nes buvo ginkluoti naujo pavyzdžio kapsuliniais šautuvais."
-  semantiniai_rysiai: "Kapsuliniai šautuvai priklausė Rusai (0.78)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "658130-658410; hash=aded673afb90454aa3f176e59d1f025adb2d53244e6aebfc8d55d728baaf05bb; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Rusai: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kapsuliniai šautuvai: llm_allowed_candidate, thing"
-  ryšio_targeto_parinkimas: "Rusai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Rusų kariai apibūdinami kaip ginkluoti kapsuliniais šautuvais, todėl daiktai siejami su rusų grupe."
   pagrindžia:
     - c-44659
 ## Reikšmingi paminėjimai
@@ -89,8 +78,8 @@ Nenurodyta
     rimą. Daugelis sukilėlių turėjo tik senus
     titnaginius arba medžioklinius šautuvus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -117,6 +106,3 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40722
-
-## Ryšiai
-- Kapsuliniai šautuvai priklausė [[objektai/grupes/Rusai]]

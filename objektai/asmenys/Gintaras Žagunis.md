@@ -42,14 +42,6 @@ media_all_json: |-
 - t-001
   global_id: t-193823
   teiginys: "1991 m. gegužės 19 d. Šalčininkų rajone, Krakūnų pasienio poste žuvo pirmasis Lietuvos pasienietis Gintaras Žagunis."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1066682-1067017; hash=0a42335062aadede3e1d46ecd822060095fd670e2ff4a56251c297413fe22be6; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-176467
 ## Reikšmingi paminėjimai
@@ -67,8 +59,8 @@ media_all_json: |-
     rajone, Krakūnų pasienio poste žuvo pirmasis
     Lietuvos pasienietis Gintaras Žagunis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

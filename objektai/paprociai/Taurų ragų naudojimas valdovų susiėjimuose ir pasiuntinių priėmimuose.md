@@ -64,16 +64,6 @@ Nenurodyta
 - t-001
   global_id: t-55157
   teiginys: "Pasak Strijkovskio, Vytautas dideliuose susiėjimuose ir svetimšalių pasiuntinių priėmimuose gerdavo iš auksu aptaisytų tauro ragų."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "128628-129938; hash=704d428b54070e2afb0c35dc752261f697ae90bd6e6977fe3be2c3171afc72bb; match=exact"
-  sprendimo_priezastis: "gap::customs"
-  ryšio_patikimumas: "susije_su -> Aukštutinė pilis: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Taurų ragų naudojimas valdovų susiėjimuose ir pasiuntinių priėmimuose: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Aukštutinė pilis: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Taurų ragų naudojimas valdovų susiėjimuose ir pasiuntinių priėmimuose\" parinktas kaip owner_note_path. Targetas \"Aukštutinė pilis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-78410
 
@@ -81,19 +71,6 @@ Nenurodyta
 - t-002
   global_id: t-55158
   teiginys: "Pasak Strijkovskio, 1429 m. Lucko suvažiavime Vytautas vieną auksu aptaisytą tauro ragą įteikė Zigmantui kaip didžią dovaną."
-  temporaliniai_duomenys: "įvykio data: 1429 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata remia teiginį, bet jis yra legendinio pasakojimo dalis, todėl būtina atribucija."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "128628-129938; hash=704d428b54070e2afb0c35dc752261f697ae90bd6e6977fe3be2c3171afc72bb; match=exact"
-  sprendimo_priezastis: "gap::customs"
-  ryšio_patikimumas: "susije_su -> Luckas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Taurų ragų naudojimas valdovų susiėjimuose ir pasiuntinių priėmimuose: owner_note_path, thing"
-  ryšio_targeto_parinkimas: "Luckas: mention_match, place, gap=29"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Taurų ragų naudojimas valdovų susiėjimuose ir pasiuntinių priėmimuose\" parinktas kaip owner_note_path. Targetas \"Luckas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-78410
 
@@ -101,16 +78,6 @@ Nenurodyta
 - t-003
   global_id: t-81868
   teiginys: "Pasak Strijkovskio, Vytautas dideliuose susiėjimuose ir svetimšalių pasiuntinių priėmimuose gerdavo iš Gedimino sumedžioto tauro ragų."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "128628-129938; hash=704d428b54070e2afb0c35dc752261f697ae90bd6e6977fe3be2c3171afc72bb; match=exact"
-  sprendimo_priezastis: "gap::customs"
-  ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Taurų ragų naudojimas valdovų susiėjimuose ir pasiuntinių priėmimuose: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=63"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Taurų ragų naudojimas valdovų susiėjimuose ir pasiuntinių priėmimuose\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-78410
 ## Reikšmingi paminėjimai
@@ -146,8 +113,8 @@ Nenurodyta
     regėjo geležinį vilką, nepaprasto didumo, o jo kauksmas bu­
     vęs toks galingas, kad atrodė, tarsi šimtas vilkų staugtų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

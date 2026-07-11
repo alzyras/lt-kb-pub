@@ -42,20 +42,6 @@ Nenurodyta
 - t-001
   global_id: t-185591
   teiginys: "Kojelavičiaus pasakojime skitai sutartis sudarydavo pildami vandenį ant kardų ir tardami prakeikimą sutarties laužytojui."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Šich Achmetas puolė Severskas (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1002274-1003052; hash=e9c088b1d3fcbfeb6bfc8744227c01117bd38e6710ef7ce80bca3be43f20f551; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Severskas: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Šich Achmetas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Severskas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Šich Achmeto puolimą prieš Seversko žemę."
   pagrindžia:
     - c-168952
 
@@ -63,20 +49,6 @@ Nenurodyta
 - t-002
   global_id: t-185592
   teiginys: "Šich Achmetas staigiu antpuoliu užėmė Seversko Naugardą ir Aleksandro vardu perdavė jį valdyti Chaleckiui."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Šich Achmetas užėmė Naugardas (0.92); Šich Achmetas surengė žygį į Severskas (0.86)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1002771-1003611; hash=1d2b10a03be3f5e47874d2d3e5fd92a850e03868178e060a0425c13800c675c7; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Naugardas: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Šich Achmetas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Naugardas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad Šich Achmetas užėmė Seversko Naugardą."
   pagrindžia:
     - c-168953
 ## Reikšmingi paminėjimai
@@ -103,8 +75,8 @@ Nenurodyta
     kunigaikštį, išdrįsusį jam pastoti kelią su ginkluotais
     būriais.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -140,8 +112,8 @@ Nenurodyta
     sandro karvedžiu, į Severs­
     ką.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -152,7 +124,8 @@ Nenurodyta
 - id: c-168952
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 566"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 566."
   citata_originali: |
     Sako, jog skitai,
     laikydamiesi barbariškųjų papročių, šitaip sudarydavę
@@ -181,7 +154,8 @@ Nenurodyta
 - id: c-168953
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 566"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 566."
   citata_originali: |
     Staigiu
     antpuoliu užėmęs Seversko Naugardą, Aleksandro var­

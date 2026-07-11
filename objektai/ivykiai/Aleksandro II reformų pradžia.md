@@ -59,19 +59,6 @@ Nenurodyta
 - t-001
   global_id: t-86905
   teiginys: "1855 m., po Nikolajaus I mirties ir Rusijos pralaimėjimo Krymo kare, imperijoje prasidėjo Aleksandro II reformos."
-  temporaliniai_duomenys: "įvykio data: 1855 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata remia reformų pradžios aplinkybes, pašalintas puslapio triukšmas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "17152-17539; hash=3700f5d2ddeb5793b5328326096791058627e7f64e17bf4427191ec19c2918c4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aleksandras II: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aleksandro II reformų pradžia: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Aleksandras II: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksandro II reformų pradžia\" parinktas kaip owner_note_path. Targetas \"Aleksandras II\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-82884
 
@@ -79,19 +66,6 @@ Nenurodyta
 - t-002
   global_id: t-86906
   teiginys: "Aleksandro II atėjimas į sostą pradėjo liberalias reformas ir atgaivino visuomenės siekius susigrąžinti po 1830-1831 m. sukilimo prarastus dalykus."
-  temporaliniai_duomenys: "įvykio data: 1830-1831; įvykio data: 1831 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys palaikomas, bet reikia sutvarkyti OCR triukšmą ir padaryti sakinį aiškesnį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "19548-20113; hash=3b28240906cedce51f83d697794ebbfa313b01cfae23389795d64ae81c827e99; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aleksandras Balinskis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aleksandro II reformų pradžia: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Aleksandras Balinskis: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksandro II reformų pradžia\" parinktas kaip owner_note_path. Targetas \"Aleksandras Balinskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-82885
 - susijęs iš [[objektai/ivykiai/1830-1831 m. sukilimas.md#claim-t-55116|1830-1831 m. sukilimas (sukilimas, XIX a.)]]: Aleksandro II reformų pradžia atgaivino viltis atkurti iki 1830-1831 m. sukilimo klestėjusį Vilniaus universitetą.
@@ -113,8 +87,8 @@ Nenurodyta
     mo projektus, vakarinėse imperijos gubernijose pagyvėjo visuo­
     meninis - politinis gyvenimas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -134,8 +108,8 @@ Nenurodyta
     buvo prarasta po 1830-1831 m. sukilimo, o gal net iškovoti daug
     daugiau - nepriklausomybę arba bent autonomiją.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

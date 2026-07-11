@@ -30,19 +30,6 @@ media_all_json: |-
 - t-001
   global_id: t-185349
   teiginys: "Čekai pasiūlė Jogailai ir Vytautui Čekijos karaliaus vainiką, manydami, kad jie norės atkeršyti už pablogėjusius santykius."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "699246-699677; hash=a69f2d73a95bbddf2204c760762364d5d880a21a207e49b2aa023369cbe83ad1; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "karaliaus vainikas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=29"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"karaliaus vainikas\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-168710
 
@@ -50,19 +37,6 @@ media_all_json: |-
 - t-002
   global_id: t-185350
   teiginys: "Čekai neišsižadėjo sumanymo ir antrą kartą siuntė žygūnus palenkti Jogailą bei Vytautą priimti karaliaus vainiką."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "699796-700048; hash=2fde76827256c747b8535fbb316cab146be23dac99da40f87df30fdf7f373342; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Čekai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "karaliaus vainikas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Čekai: mention_match, group, gap=95"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"karaliaus vainikas\" parinktas kaip owner_note_path. Targetas \"Čekai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-168711
 
@@ -70,19 +44,6 @@ media_all_json: |-
 - t-003
   global_id: t-185351
   teiginys: "Žygimantas, Dimitro Kaributaičio sūnus, apibūdintas kaip prityręs karvedys, galintis užsidėti bet kokios karalystės vainiką."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "703677-704138; hash=6a02d2d01a60db5815f33950917d94d0bd1bad9b2e6fde9bc51f864255148cef; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Čekai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "karaliaus vainikas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Čekai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"karaliaus vainikas\" parinktas kaip owner_note_path. Targetas \"Čekai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-168712
 ## Reikšmingi paminėjimai
@@ -110,8 +71,8 @@ media_all_json: |-
     vo, nieko neskriausdamas, o svetimų valdų visai ne­
     trokštas.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -128,8 +89,8 @@ media_all_json: |-
     gūnus, jie vėl bandė palenkti Jogailos bei Vytauto šir­
     dis.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -149,8 +110,8 @@ media_all_json: |-
     gu čekai jį paskelbsią karaliumi, be pavydo paremsiąs
     pusbrolį, valdantį Čekiją, kariais ir pinigais.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -191,7 +152,8 @@ media_all_json: |-
 - id: c-168711
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 399"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 399."
   citata_originali: |
     Panašų atsakymą gavo jie ir iš
     Vytauto. Tačiau čekai neišsižadėjo savo sumanymo,
@@ -209,7 +171,8 @@ media_all_json: |-
 - id: c-168712
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 401"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 401."
   citata_originali: |
     Imperatorius Zigmantas,
     skriausdamas Lenkiją, vis dėlto verčiąs jį neatsisakyti

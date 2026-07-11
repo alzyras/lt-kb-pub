@@ -41,20 +41,6 @@ Dusburgietis teigia, kad gyvenvietė minima 1222 m. dokumente Lozos vardu (PUB, 
 - t-001
   global_id: t-58701
   teiginys: "Loza minima 1222 m. dokumente, o 1246 m. dokumente rašoma apie prie Lozos kaimo esantį ežerą."
-  semantiniai_rysiai: "Kaimas priklausė Loza (0.62)"
-  temporaliniai_duomenys: "įvykio data: 1222 m.; įvykio data: 1246 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo dokumentų datas ir yra paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "183093-183303; hash=30874b4137e979e65922e9aa28b1555c1d82a7728d172c505def7c122d6b7439; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Loza: 0.62"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kaimas: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Loza: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata nurodo Lozos kaimą, tad kaimas tiesiogiai siejamas su Loza."
   pagrindžia:
     - c-59333
 - susijęs iš [[objektai/ivykiai/Kulmo vyskupijos katedros ir miesto Culmense įkūrimas (1251 m.).md#claim-t-59552|Kulmo vyskupijos katedros ir miesto Culmense įkūrimas (1251 m.)]]: 1251 m. Culmense vietovėje įkurta Kulmo vyskupijos katedra ir miestas Culmense.
@@ -69,8 +55,8 @@ Dusburgietis teigia, kad gyvenvietė minima 1222 m. dokumente Lozos vardu (PUB, 
     Lozos vardu (PUB, 1, 1, Nr. 41, p. 29); 1246 m. dokumente rašoma, kad prie Lozos
     kaimo (villa) esąs ežeras: Loza cum stagno (ten pat. Nr. 182, p. 133).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -81,7 +67,8 @@ Dusburgietis teigia, kad gyvenvietė minima 1222 m. dokumente Lozos vardu (PUB, 
 - id: c-59333
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 57"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 57."
   citata_originali: |
     Chełmżyńskie jezioro). Gyvenvietė minima 1222 m. dokumente
     Lozos vardu (PUB, 1, 1, Nr. 41, p. 29); 1246 m. dokumente rašoma, kad prie Lozos
@@ -93,6 +80,3 @@ Dusburgietis teigia, kad gyvenvietė minima 1222 m. dokumente Lozos vardu (PUB, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58701
-
-## Ryšiai
-- Turėjo priklausinį: [[objektai/vietos/Kaimas]]

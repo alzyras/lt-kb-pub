@@ -60,9 +60,6 @@ Nenurodyta
 - t-004
   global_id: t-78619
   teiginys: "1787 m. Kaneve Kotryna ir Stanislovas Augustas sutarė, kad kitų metų seime karalius sieks Respublikos paramos Rusijai kare su turkais."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "hash=806f5f6d75b47bac7f91e594042a385b59874481ff48245356f6953f325cc827; match=normalized; occurrences=1"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-75849
 
@@ -70,19 +67,6 @@ Nenurodyta
 - t-005
   global_id: t-78620
   teiginys: "Ketverių metų seimas 1791 m. gegužės 3 d. priėmė konstituciją ir kitus įstatymus, turėjusius reformuoti valstybę bei atsikratyti Rusijos protektorato."
-  temporaliniai_duomenys: "įvykio data: 1791 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalintas antraštės ir puslapio triukšmas, paliktas citatos remiamas faktas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "584699-585173; hash=dec2f1986443e5ff3fea85729fd5143f90731f972ef9c6c5a968fb963f51b8e2; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Ketverių metų seimas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ketverių metų seimas (1788–1792 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Ketverių metų seimas: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ketverių metų seimas (1788–1792 m.)\" parinktas kaip owner_note_path. Targetas \"Ketverių metų seimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-43055
 
@@ -90,9 +74,6 @@ Nenurodyta
 - t-003
   global_id: t-78623
   teiginys: "Ketverių metų seimas atmetė siūlymą sudaryti karinę sąjungą su Rusija ir, Prūsijos palaikomas, ėmėsi reformų."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "874330-874644; hash=02498c65274031b56772df9c0d39e6ff9e4695a0c846f5786052a34de55b52ae; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-75848
 ## Reikšmingi paminėjimai
@@ -118,8 +99,8 @@ Nenurodyta
     kija, o dar anksčiau su Švedija, Rusija vėl
     sutelkė dėmesį į ATR.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -138,8 +119,8 @@ Nenurodyta
     sija ir, Prūsijos palaikomas,
     ėmėsi reformų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -158,8 +139,8 @@ Nenurodyta
     dėjo leisti padidinti Respublikos kariuomenę ir bent kiek
     praplėsti karaliaus valdžią.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

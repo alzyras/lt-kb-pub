@@ -36,21 +36,6 @@ Jasono vadovaujamos kelionės jūreiviai Narbuto tekste vadinami argonautais, ne
 - t-001
   global_id: t-192977
   teiginys: "Jasono vadovaujamos kelionės jūreiviai Narbuto tekste vadinami argonautais, nes plaukė Argo laivu."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "72483-72808; hash=9b7c951b8289e9dffb1caa3a0906c324f1f3a1bba5478583f5bfd8a23ae78970; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Argas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Argonautai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Argas: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Argonautai\" parinktas kaip owner_note_path. Targetas \"Argas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175747
 - susijęs iš [[objektai/asmenys/Jasonas.md#claim-t-191280|Jasonas]]: Teodoras Narbutas Jasono vadovaujamą kelionę datuoja 1350 m. pr. Kr. ir aprašo kaip vykusią Argo laivu su argonautais.
@@ -75,8 +60,8 @@ Jasono vadovaujamos kelionės jūreiviai Narbuto tekste vadinami argonautais, ne
     buvo 1350 metais iki Kristaus gimimo, 70 metų prieš
     1 Skilakas, kilęs iš Kariando (Pėriple du Pont-Eux)*.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -87,7 +72,8 @@ Jasono vadovaujamos kelionės jūreiviai Narbuto tekste vadinami argonautais, ne
 - id: c-175747
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 42"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 42."
   citata_originali: |
     Juodąja jūrą pavadino vėliau dėl dažnai virš jos tvy­
     rančių ir labai tirštų rūkų1. Jasono vadovaujama kelionė
@@ -101,6 +87,3 @@ Jasono vadovaujamos kelionės jūreiviai Narbuto tekste vadinami argonautais, ne
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192977
-
-## Ryšiai
-- Argonautai keliavo į [[objektai/ivykiai/Argonautų kelionė Argo laivu]]

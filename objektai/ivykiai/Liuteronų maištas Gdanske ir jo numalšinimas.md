@@ -42,19 +42,6 @@ Nenurodyta
 - t-001
   global_id: t-185746
   teiginys: "Prūsijoje plintantis liuteronizmas rado pasekėjų Gdanske ir sukėlė miesto gyvenimą sukrėtusius sambrūzdžius."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1163918-1164318; hash=856644481cc2a411a3de59404ab824cae311f29da676c9eca21adde4fffbb49e; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Prūsija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Liuteronų maištas Gdanske ir jo numalšinimas: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Prūsija: mention_match, place, gap=49"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Liuteronų maištas Gdanske ir jo numalšinimas\" parinktas kaip owner_note_path. Targetas \"Prūsija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-169107
 
@@ -62,12 +49,6 @@ Nenurodyta
 - t-002
   global_id: t-185747
   teiginys: "Atvykęs į Gdanską karalius dalį maištininkų nubaudė mirtimi, o pabėgusius įtraukė į pasmerktųjų sąrašus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1164190-1164692; hash=8af188f04591d5d935703674be6beb68ee9baf81bb1e938f3369d64d13363c20; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-169108
 ## Reikšmingi paminėjimai
@@ -88,8 +69,8 @@ Nenurodyta
     kad esą tie, kurie atsisako prisidėti prie naujos sek­
     tos, netenką iki šiol eitų pareigų.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -111,8 +92,8 @@ Nenurodyta
     taip nubaudęs kaltininkus, jis sugrąžino miestiečiams
     ir tikintiesiems ramybę.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -123,7 +104,8 @@ Nenurodyta
 - id: c-169107
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 653"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 653."
   citata_originali: |
     Prūsijoje plintanti Liuterio sekta su­
     sirado pasekėjų Gdanske ir smarkiai sukrėtė tokį iki
@@ -146,7 +128,8 @@ Nenurodyta
 - id: c-169108
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 653"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 653."
   citata_originali: |
     Savava­
     liškai jie paskelbė įstatymą,

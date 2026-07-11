@@ -30,12 +30,6 @@ Nemę Polocko girias su keliais tūks tančiais Livonijos karių, užVytautui to
 - t-001
   global_id: t-193453
   teiginys: "Nemę Polocko girias su keliais tūks tančiais Livonijos karių, užVytautui tol kariauti, kol neatsiims žemės ir nesutriuš kins Švitrigailos."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "603950-604759; hash=4450f18868b53f586992118379a1941e236fe3d73cc32055e6766f5864e6c139; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176164
 ## Reikšmingi paminėjimai
@@ -68,8 +62,8 @@ Nemę Polocko girias su keliais tūks tančiais Livonijos karių, užVytautui to
     Vytautui tol kariauti, kol neatsiims žemės ir nesutriuš­
     kins Švitrigailos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

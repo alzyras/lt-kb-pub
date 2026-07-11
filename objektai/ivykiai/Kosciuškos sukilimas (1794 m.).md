@@ -51,11 +51,6 @@ Nenurodyta
 - t-001
   global_id: t-66634
   teiginys: "Kosciuškos vadovaujamas sukilimas sudarė savo valdžią, o netrukus po jo buvo atliktas paskutinis Respublikos padalijimas."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "887334-887680; hash=f3e639e640f10fea9440e132b7b27dececf7d3e47fb40ddeb329353c61056311; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-66832
 
@@ -63,11 +58,6 @@ Nenurodyta
 - t-002
   global_id: t-66635
   teiginys: "1794 m. sukilėliai visą valdžią atidavė generolui Kosciuškai, kilusiam iš Naugarduko vaivadijos ir laikiusiam save lietuviu."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "888305-888578; hash=d7c9e34330b4e0f5464c284f0773ac4017146bb9f44316c65ac9c05a44e4b470; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T14:12:56Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-66831
 
@@ -75,11 +65,6 @@ Nenurodyta
 - t-003
   global_id: t-66637
   teiginys: "Kosciuška leido atsišaukimus, žadėdamas laisvę prie sukilimo prisidėjusiems valstiečiams; tokių atsišaukimų buvo ir lietuviškų."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "888773-889137; hash=528752ae53c9350dd002427a2dbe1351082c763359b9e67d04d2e7aca5682e31; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T14:12:56Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-66834
 ## Reikšmingi paminėjimai
@@ -99,8 +84,8 @@ Nenurodyta
     nizuota vadinamoji Tautos
     Taryba.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -118,8 +103,8 @@ Nenurodyta
     savo valdžią; o netrukus po to buvo atliktas paskutinis Res-
     publikos padalinimas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -137,8 +122,8 @@ Nenurodyta
     kimų, žadėdamas visiems, prie sukilimo prisidėjusiems, laisvę
     (tokių atsišaukimų buvo išleistų ir lietuviškų).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -41,17 +41,6 @@ Dusburgietis teigia, kad 158 Didysis magistras Hermanas iš Zalcos (1209 ar 1210
 - t-001
   global_id: t-58767
   teiginys: "Didysis magistras Hermanas iš Zalcos mirė Salerne, o palaidotas Ordino koplyčioje Barletoje."
-  semantiniai_rysiai: "Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) mirė Salernas (0.98); Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) buvo palaidotas Barleta (0.96)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "125299-125575; hash=bcb00c30fb656ef3a791893dce289fb3c02971c4e63985744cfca424e57d76b2; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "mire -> Salernas: 0.98"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Salernas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Claimas tiesiogiai nurodo Hermano iš Zalcos mirties vietą."
   pagrindžia:
     - c-59399
 - susijęs iš Barleta: Didysis magistras Hermanas iš Zalcos mirė Salerne, o buvo palaidotas Ordino koplyčioje Barletos mieste.
@@ -70,8 +59,8 @@ Dusburgietis teigia, kad 158 Didysis magistras Hermanas iš Zalcos (1209 ar 1210
 
     jam nusivylimą? Tikrai ne. Anaiptol, tu gausiai davei jiems visa, ko troško jo širdis.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -82,7 +71,8 @@ Dusburgietis teigia, kad 158 Didysis magistras Hermanas iš Zalcos (1209 ar 1210
 - id: c-59399
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 40-41"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 40-41."
   citata_originali: |
     158 Didysis magistras Hermanas iš Zalcos (1209 ar 1210—1239) mirė Salerne (į
     pietryčius nuo Neapolio), o palaidotas Ordino koplyčioje Barletos mieste (pietryčių Italija,

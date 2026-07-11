@@ -30,21 +30,6 @@ Narbutas skaitytojui, norėjusiam išsamiau sužinoti herulų istoriją, rekomen
 - t-001
   global_id: t-191827
   teiginys: "Narbutas skaitytojui, norėjusiam išsamiau sužinoti herulų istoriją, rekomendavo veikalą „Apie herulus, lietuvių giminaičius“."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "583312-583773; hash=d088004a5c3c53967bfeedcf7215109da5eafe962269482234b64ce6b9753e54; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Herulai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Apie herulus, lietuvių giminaičius: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Herulai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Apie herulus, lietuvių giminaičius\" parinktas kaip owner_note_path. Targetas \"Herulai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174709
 ## Reikšmingi paminėjimai
@@ -67,8 +52,8 @@ Narbutas skaitytojui, norėjusiam išsamiau sužinoti herulų istoriją, rekomen
     vų gyvenamą kraštą; slavai juos, sakiusius, jog eina į
     Tūlą1, ramiai praleido.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

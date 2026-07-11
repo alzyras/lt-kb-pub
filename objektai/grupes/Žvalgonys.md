@@ -30,14 +30,6 @@ Narbutas Žvalgonis apibūdino kaip žynius, atlikdavusius vedybų apeigas, pran
 - t-001
   global_id: t-189543
   teiginys: "Narbutas Žvalgonis apibūdino kaip žynius, atlikdavusius vedybų apeigas, pranašaudavusius jaunavedžiams ateitį ir sakydavusius kalbas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "516419-516899; hash=9ccace1623f3a6c864612247786bae15ca7b8031eabd8d98bfa35bdef3b7a3ff; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172431
 - susijęs iš [[objektai/zodynas/Žvalgonys Swalgones.md#claim-t-189354|Žvalgonys Swalgones]]: Narbutas žvalgonis (Swalgones) aprašo kaip žynius, atlikdavusius vedybų apeigas, pranašaudavusius jaunavedžiams ir sakiusius kalbas.
@@ -57,8 +49,8 @@ Narbutas Žvalgonis apibūdino kaip žynius, atlikdavusius vedybų apeigas, pran
     sutampa su pareigomis, kurių priedermė tirti sunkiai išaiški­
     namus dalykus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -69,7 +61,8 @@ Narbutas Žvalgonis apibūdino kaip žynius, atlikdavusius vedybų apeigas, pran
 - id: c-172431
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 295"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 295."
   citata_originali: |
     Žvalgonys (Swalgones)
     Tai buvo žyniai, atliekantys vedybų apeigas, arba tekančių

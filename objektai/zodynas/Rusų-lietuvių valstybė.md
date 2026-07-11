@@ -41,19 +41,6 @@ Pavyzdžiui, 1838 m. aiškinosi rusų valdžiai Varšuvoje: „Leidžiant Vilnia
 - t-001
   global_id: t-86639
   teiginys: "Michałas Balińskis teigė įrodęs, kad iki susijungimo su Lenkija Lietuva iš esmės buvo rusų-lietuvių valstybė."
-  temporaliniai_duomenys: "įvykio data: po 1818 m.; įvykio data: 1818 m.; įvykio data: 1838 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinė frazė neišbaigta, bet citata tiesiogiai pagrindžia aiškų teiginį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "14074-14669; hash=b12e661945b1087d667945e294b7b3f748f927cc22d5bca5e8e85b38358df781; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Rusai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Rusų-lietuvių valstybė: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Rusai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rusų-lietuvių valstybė\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-82618
 ## Reikšmingi paminėjimai
@@ -73,8 +60,8 @@ Pavyzdžiui, 1838 m. aiškinosi rusų valdžiai Varšuvoje: „Leidžiant Vilnia
     -lietuvių valstybė <....>. Tad kokiu būdu galima suderinti man
     primetamą tariamą patriotizmą su tokia mano veikalo dvasia?"9.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

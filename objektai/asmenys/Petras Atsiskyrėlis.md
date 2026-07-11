@@ -35,18 +35,6 @@ Dusburgietis teigia, kad prancūzijos karalystės vieną vargšą bei dievotą �
 - t-002
   global_id: t-90005
   teiginys: "Petras Atsiskyrėlis smarkiai nuliūdo ir apgraudo, vienas pats nerimastingai svarstydamas, ar negalėtų vienaip ar kitaip pagelbėti prislėgtiesiems."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "723163-724161; hash=0159d9ed81282646381521ab6aef9795dc0df20fb80c79af0159c313aafcf80e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Viena: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Petras Atsiskyrėlis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Viena: mention_match, place, gap=50"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Petras Atsiskyrėlis\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
-  vertinimo_autorius: "claim_quality_pipeline / rewrite"
   pagrindžia:
     - c-85910
 
@@ -54,17 +42,6 @@ Dusburgietis teigia, kad prancūzijos karalystės vieną vargšą bei dievotą �
 - t-003
   global_id: t-90006
   teiginys: "Petras Atsiskyrėlis su Jeruzalės patriarcho Simeono laiškais vyko pas popiežių Urboną II ir ragino leistis į kelionę į Jeruzalę."
-  semantiniai_rysiai: "Petras Atsiskyrėlis keliavo į Italija (0.88); Petras Atsiskyrėlis keliavo į Jeruzalė (0.74)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "723861-724793; hash=64c7e33e68f62ac43575e272e8eb6a2179954d73cc5c31bf9bbb0d7d085781f6; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Italija: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Petras Atsiskyrėlis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Italija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata aiškiai sako, kad Petras pervažiavo Italiją."
   pagrindžia:
     - c-85911
 
@@ -72,17 +49,6 @@ Dusburgietis teigia, kad prancūzijos karalystės vieną vargšą bei dievotą �
 - t-004
   global_id: t-90007
   teiginys: "Pasak Dusburgiečio, Petrui Atsiskyrėliui sapne pasirodęs Jėzus Kristus įpareigojo jį kreiptis į popiežių ir Vakarų valdovus dėl Šventosios Žemės išvadavimo."
-  semantiniai_rysiai: "Petras Atsiskyrėlis keliavo į Italija (0.86)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "723861-724793; hash=64c7e33e68f62ac43575e272e8eb6a2179954d73cc5c31bf9bbb0d7d085781f6; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Italija: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Petras Atsiskyrėlis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Italija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Petro judėjimą per Italiją."
   pagrindžia:
     - c-85911
 
@@ -90,17 +56,6 @@ Dusburgietis teigia, kad prancūzijos karalystės vieną vargšą bei dievotą �
 - t-001
   global_id: t-90008
   teiginys: "Petras Atsiskyrėlis buvo vargšas ir dievotas žmogus iš Prancūzijos karalystės, gyvenęs atsiskyręs Amjeno vyskupystėje."
-  semantiniai_rysiai: "Petras Atsiskyrėlis gyveno Prancūzija (0.78)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "723052-723860; hash=e4cfc8289ef487dc6df535260fa1ddac875be9326339b03b25610203ca670f57; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Prancūzija: 0.78"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Petras Atsiskyrėlis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Prancūzija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Petras apibūdintas kaip žmogus iš Prancūzijos karalystės, todėl vietos ryšys tiesiogiai palaikomas."
   pagrindžia:
     - c-85909
 
@@ -108,20 +63,6 @@ Dusburgietis teigia, kad prancūzijos karalystės vieną vargšą bei dievotą �
 - t-005
   global_id: t-184118
   teiginys: "Petras Atsiskyrėlis buvo vargšas ir dievotas žmogus iš Prancūzijos karalystės, gyvenęs atsiskyręs Amjeno vyskupystėje."
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Petras Atsiskyrėlis gyveno Prancūzija (0.77); Arabai užėmė Jeruzalė (0.51)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "722637-723378; hash=87719c6e390e8ac38b6a871234f0097bf1de38a8894c4baa6eb4823cc6a37700; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Prancūzija: 0.77"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Petras Atsiskyrėlis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Prancūzija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Petras nurodytas kaip kilęs iš Prancūzijos karalystės."
   pagrindžia:
     - c-167503
 - susijęs iš [[objektai/zodynas/Ordino brolis.md#claim-t-58861|Ordino brolis]]: Petras Dusburgietis buvo Ordino brolis kunigas ir Prūsijos žemės kronikos autorius.
@@ -142,8 +83,8 @@ Dusburgietis teigia, kad prancūzijos karalystės vieną vargšą bei dievotą �
     mylėdamas prispaustuosius, jis smarkiai nuliūdo ir apgraudo, vienas pats nerimastingai
     svarstydamas, ar negalėtų vienaip ar kitaip pagelbėti prislėgtiesiems.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -167,8 +108,8 @@ Dusburgietis teigia, kad prancūzijos karalystės vieną vargšą bei dievotą �
     Kristus, įpareigodamas keliauti pas jo šventenybę popiežių bei pas Vakarų valdovus
     dėl šventosios žemės išvadavimo.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -191,8 +132,8 @@ Dusburgietis teigia, kad prancūzijos karalystės vieną vargšą bei dievotą �
     sunkiai maldininkų kelionei   į Jeruzalę, talkinant viešpačiui, o jo pasiuntiniui savo
     kalbomis teikiant [kryžininkams] visokeriopų malonių.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -215,8 +156,8 @@ Dusburgietis teigia, kad prancūzijos karalystės vieną vargšą bei dievotą �
     atsiskyręs, todėl  jį vadino Petru Atsiskyrėliu, ragindamas  jį aplankyti viešpaties kapą
     bei kitas šventąsias vietas.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -227,7 +168,8 @@ Dusburgietis teigia, kad prancūzijos karalystės vieną vargšą bei dievotą �
 - id: c-85909
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 240"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 240."
   citata_originali: |
     Galop valdovas, ilgokai rūstinamas,
     pajuto širdyje užuojautą, matydamas savo Žmonių sielvartą, ir pakvietė iš. Prancūzijos
@@ -249,7 +191,8 @@ Dusburgietis teigia, kad prancūzijos karalystės vieną vargšą bei dievotą �
 - id: c-85910
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 240"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 240."
   citata_originali: |
     Prancūzijos
     karalystės vieną vargšą bei dievotą žmogų, kuris gyveno Amjeno vyskupystėje nuo visų
@@ -275,7 +218,8 @@ Dusburgietis teigia, kad prancūzijos karalystės vieną vargšą bei dievotą �
 - id: c-85911
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 240-241"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 240-241."
   citata_originali: |
     Kai vieną naktį
     jis meldėsi dievui bažnyčioje per viešpaties prisikėlimo šventę  ir, nuo ilgo budėjimo
@@ -301,7 +245,8 @@ Dusburgietis teigia, kad prancūzijos karalystės vieną vargšą bei dievotą �
 - id: c-167503
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 240"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 240."
   citata_originali: |
     Apie šventosios žemės reikalus
 
@@ -320,7 +265,3 @@ Dusburgietis teigia, kad prancūzijos karalystės vieną vargšą bei dievotą �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184118
-
-## Ryšiai
-- Petras Atsiskyrėlis keliavo į [[objektai/vietos/Italija]], [[objektai/vietos/Jeruzalė]]
-- Petras Atsiskyrėlis gyveno [[objektai/vietos/Prancūzija]]

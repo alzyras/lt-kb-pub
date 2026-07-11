@@ -55,17 +55,6 @@ Nenurodyta
 - t-001
   global_id: t-87185
   teiginys: "Dovanotų valdų gavėjas ir jo palikuonys galėjo jomis laisvai disponuoti, bet privalėjo atlikti Lietuvos Didžiosios Kunigaikštystės bajorų karinę tarnybą."
-  semantiniai_rysiai: "Bajorai priklausė Lietuva (0.80)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "801124-801747; hash=8058ac0d7b3ec2cecbbbcccc1ab93680e5dd54c5ca1e32dbca9a0084ad9f4faa; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Lietuva: 0.80"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Bajorai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Bajorai tiesiogiai apibūdinti kaip Lietuvos Didžiosios Kunigaikštystės bajorai."
   pagrindžia:
     - c-83164
 ## Reikšmingi paminėjimai
@@ -87,8 +76,8 @@ Nenurodyta
     gi, kaip kiti Lietuvos Didžiosios Kunigaikštystės bajorai,
     vyks į karą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

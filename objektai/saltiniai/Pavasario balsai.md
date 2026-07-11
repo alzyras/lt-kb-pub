@@ -41,21 +41,6 @@ media_all_json: |-
 - t-001
   global_id: t-78134
   teiginys: "Maironio poezijos knyga „Pavasario balsai“ išleista 1895 m., o jo eilėraščiai virto liaudies dainomis."
-  temporaliniai_duomenys: "įvykio data: 1895 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Reikia aiškiau susieti teiginį su „Pavasario balsais“ ir pataisyti sakinio struktūrą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "227991-228735; hash=8f397015cbee4cff689811fea1cd4646fe7d781a6400d755e7e89748bc8a6470; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jonas Basanavičius: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Pavasario balsai: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Jonas Basanavičius: mention_match, author"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pavasario balsai\" parinktas kaip owner_note_path. Targetas \"Jonas Basanavičius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-75442
 ## Reikšmingi paminėjimai
@@ -79,8 +64,8 @@ media_all_json: |-
     ba rašyta poezija. 1895 m. išleistos Maironio knygos „Pavasario balsai“
     ir „Jaunoji Lietuva“, jo eilėraščiai virto liaudies dainomis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

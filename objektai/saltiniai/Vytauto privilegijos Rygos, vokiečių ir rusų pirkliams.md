@@ -35,17 +35,6 @@ Jau nuo to laiko ir per visą ilgą Vytauto viešpatavimo peri­ odą, toli buvo
 - t-001
   global_id: t-88505
   teiginys: "Vytauto privilegijos Rygos, vokiečių ir rusų pirkliams liudija jo rūpinimąsi prekyba Vilniuje ir visoje šalyje."
-  semantiniai_rysiai: "Vokiečiai prekiavo su Vilnius (0.74); Rusai prekiavo su Vilnius (0.74)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "305768-306491; hash=b741caecdb1d67a9a6b3492d0360e6c8931c1958ed093177b05d559192eadaeb; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "prekiavo_su -> Vilnius: 0.74"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Rusai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Privilegijos rusų pirkliams siejamos su prekyba Vilniuje, todėl ryšys pagrįstas, bet pirklių grupė apibendrinta iki rusų."
   pagrindžia:
     - c-84484
 ## Reikšmingi paminėjimai
@@ -67,8 +56,8 @@ Jau nuo to laiko ir per visą ilgą Vytauto viešpatavimo peri­ odą, toli buvo
     Vladislovas Jogaila, kai po krikščionybės įvedimo krašto val­
     dymą buvo pavedęs Skirgailai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

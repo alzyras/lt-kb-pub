@@ -46,16 +46,6 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
 - t-004
   global_id: t-67651
   teiginys: "Į Aukaimio pilies apylinkes įsibrovę broliai jas nuniokojo degindami ir plėšdami, paėmė belaisvių ir pasitraukė su grobiu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "571543-572022; hash=32780fc6fdf8c184050d36b4a9f172a3a03a1f395c2cc83caf9de9d50830869c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aukaimis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aukaimio pilis (pilis): owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Aukaimis: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aukaimio pilis (pilis)\" parinktas kaip owner_note_path. Targetas \"Aukaimis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-67473
 
@@ -63,20 +53,6 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
 - t-002
   global_id: t-67652
   teiginys: "1305 m. Karaliaučiaus komtūrui apgulus atstatytą Aukaimio pilį, pilies žmogus Svirtila ją išdavė kryžiuočiams."
-  semantiniai_rysiai: "Kryžiuočių ordinas apgulė Aukaimio pilis (pilis) (0.82); Kryžiuočių ordinas užėmė Aukaimio pilis (pilis) (0.82)"
-  temporaliniai_duomenys: "įvykio data: 1305 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo datą, veikėjus ir Aukaimio pilies išdavimą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "609023-609532; hash=a23e0e64ad50ca99c934206d8995f7d07a21002b4882752be12998c4ecaef18b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "apgule -> Aukaimio pilis (pilis): 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Aukaimio pilis (pilis): llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginyje pilis apgulta ir išduota kryžiuočiams."
   pagrindžia:
     - c-31946
 
@@ -84,16 +60,6 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
 - t-008
   global_id: t-67653
   teiginys: "Kariuomenės dalis nusiaubė Aukaimio pilies apylinkes, daug žmonių išžudė arba paėmė į nelaisvę."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "618487-618873; hash=d87af5810c964f475b8471ac75e59a7a33fa8988c73cd3812ba2ce7a4d90b044; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aukaimis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aukaimio pilis (pilis): owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Aukaimis: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aukaimio pilis (pilis)\" parinktas kaip owner_note_path. Targetas \"Aukaimis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-67478
 
@@ -101,19 +67,6 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
 - t-007
   global_id: t-67654
   teiginys: "1305 m. per gavėnią Svirtilas išdavė Aukaimio pilį broliams, kurie ją antrą kartą sugriovė iki pamatų."
-  temporaliniai_duomenys: "įvykio data: 1305 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir paremtas pateikta citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "618024-618574; hash=991380c5240f18394052720a0b3a4bf2446534f52dde3bf8d9b1c2aec2a31295; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aukaimis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aukaimio pilis (pilis): owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Aukaimis: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aukaimio pilis (pilis)\" parinktas kaip owner_note_path. Targetas \"Aukaimis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-67475
 
@@ -121,20 +74,6 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
 - t-001
   global_id: t-67655
   teiginys: "1292 m. kryžiuočiai, grįždami nuo Junigėdos, teriojo 1291 m. sudegintos Aukaimio pilies sritį."
-  semantiniai_rysiai: "Kryžiuočių ordinas puolė Aukaimio pilis (pilis) (0.77)"
-  temporaliniai_duomenys: "įvykio data: 1291 m.; įvykio data: 1292 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "602274-602691; hash=1707e28e0993f636fc355292ba25b2338ab3c793eaca90d9fc99646094b5022b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Aukaimio pilis (pilis): 0.77"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Aukaimio pilis (pilis): llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Kryžiuočiai teriojo Aukaimio pilies sritį, todėl tai laikoma puolamuoju veiksmu."
   pagrindžia:
     - c-67474
 
@@ -142,17 +81,6 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
 - t-006
   global_id: t-67656
   teiginys: "Draikai slapta atidarius Aukaimio pilies vartus, broliai įsiveržė į pilį, ją ir papilį sudegino iki pamatų."
-  semantiniai_rysiai: "Kryžiuočių ordinas puolė Aukaimio pilis (pilis) (0.84); Kryžiuočių ordinas užėmė Aukaimio pilis (pilis) (0.79)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "607850-608593; hash=c87298c5a22cf67172ab8b122cc5161b4f5d5154b1863fae42370db81e32a7e8; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Aukaimio pilis (pilis): 0.84"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Aukaimio pilis (pilis): llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Broliai, t. y. kryžiuočiai, susirengė pulti Aukaimio pilį."
   pagrindžia:
     - c-67477
 
@@ -160,20 +88,6 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
 - t-005
   global_id: t-67657
   teiginys: "1300 m. Henrikas iš Dobino su kitais broliais ir 200 vyrų įsiveržė į Aukaimio pilies apylinkes ir sudegino šešis kaimus."
-  semantiniai_rysiai: "Henrikas iš Dobino puolė Aukaimio pilis (pilis) (0.86)"
-  temporaliniai_duomenys: "įvykio data: 1300 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys jungė antraštę su tekstu; citata remia glaustą faktą apie 1300 m. antpuolį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "604397-604777; hash=be87845cbd91fbb98245627c8cabf1957f8e609af9fef5cd92318473a561a217; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Aukaimio pilis (pilis): 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Henrikas iš Dobino: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Aukaimio pilis (pilis): llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Henriko iš Dobino įsiveržimą į Aukaimio pilies apylinkes."
   pagrindžia:
     - c-67479
 
@@ -181,17 +95,6 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
 - t-003
   global_id: t-67658
   teiginys: "Per šv. Jono Krikštytojo dieną 36 lietuviai iš Aukaimio pilies apylinkių patraukė plėšikiškais išpuoliais trikdyti Ragainės brolių ramybės."
-  semantiniai_rysiai: "Lietuviai puolė Ragainė (0.70)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "562898-563284; hash=34a64e34d6122b95391f37e11a503a4130f89720c7e1f3a9ca2419d53617a084; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Ragainė: 0.70"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Ragainė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Lietuviai patraukė trikdyti Ragainės brolių plėšikiškais išpuoliais."
   pagrindžia:
     - c-67476
 
@@ -199,23 +102,6 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
 - t-009
   global_id: t-184382
   teiginys: "1305 m. Karaliaučiaus komtūrui apgulus atstatytą Aukaimio pilį, Svirtila ją išdavė kryžiuočiams."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Kryžiuočių ordinas apgulė Aukaimio pilis (pilis) (0.82); Kryžiuočių ordinas užėmė Aukaimio pilis (pilis) (0.82)"
-  temporaliniai_duomenys: "įvykio data: 1305 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys buvo kontekstinis ir nepakankamai aiškus be ankstesnio sakinio."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "608817-609385; hash=2bc6521a59becdb6339e3e5a0c1adf155bf67ed54223f6e5cbf7fe04dcef532c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "apgule -> Aukaimio pilis (pilis): 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Aukaimio pilis (pilis): llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Karaliaučiaus komtūras kaip kryžiuočių pareigūnas apgulė Aukaimio pilį."
   pagrindžia:
     - c-167751
 - susijęs iš [[objektai/ivykiai/Kryžiuočių žygis į Karšuvą ir Aukaimio pilies praradimas per Draikos išdavystę.md#claim-t-185726|Kryžiuočių žygis į Karšuvą ir Aukaimio pilies praradimas per Draikos išdavystę (pilis)]]: Aukaimio pilis buvo prarasta per jos viršininko Draikos išdavystę.
@@ -234,8 +120,8 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
     linkėje « daug žmonių išžudė, ar paėmė į nelaisvę, grobė visa, kas
     tik ten buvo rasta, o (kitką) degino »^11.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -253,8 +139,8 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
     greitai perėjo ir, lauke juos užpuolę, 12 nukovė, tuo tarpu kiti, pasileidę bėgti, vėliau nė
     nedrįso rodytis.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -273,8 +159,8 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
     gindamas du jos priešpilius (suburbia), vieną slėnyje, kitą pilies
     kalne^25.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -293,8 +179,8 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
     pamatų sugriovė pilį. Tuo tarpu Svirtilas bei visa jo šeimyna nusekė paskui brolius ir
     priėmė krikšto malonę.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -311,8 +197,8 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
     plėšikiškais išpuoliais Ragainės broliams ramybę. Artėdami jie metė — kaip reikalauja
     jų papročiai — burtus, kurie jiems nežadėjo sėkmės.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -334,8 +220,8 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
     sužeistas. Paėmę į nelaisvę moteris ir vaikus, sudegino iki pamatų pilį ir papilį, o minėtąjį
     Draiką nuvedė į Ragainę, kur jis su visa šeimyna buvo pakrikštytas.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -351,8 +237,8 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
     Trisdešimt šios kariuomenės krikščionių žuvo nuo kalavijo, o brolis Henrikas iš Volferštorfo
     pateko  į užvartą  ir visa kariuomenė per  jį perėjo.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -369,8 +255,8 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
     išžudęs žmones. Lietuviai vydamiesi ne vieną kartą juos smarkiai puolė, todėl abi šalys
     turėjo didelių nuostolių sunkiai sužeistaisiais.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -391,8 +277,8 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
     kos lyties, o moteris ir vaikus paėmė į nelaisvę, ir dar kartą iš
     pagrindų sunaikino pilį ».
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -423,7 +309,8 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
 - id: c-67473
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 182"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 182."
   citata_originali: |
     Todėl, įsibrovę
     į Aukaimio pilies apylinkes, jas nuniokojo, degindami ir piešdami. Paėmę  į nelaisvę ir
@@ -462,7 +349,8 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
 - id: c-67475
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 198"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 198."
   citata_originali: |
     290 (283). Apie antrąjį Aukaimio sugriovimą ir jo apylinkių nusiaubimą 1305 metais
 
@@ -483,7 +371,8 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
 - id: c-67476
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 179"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 179."
   citata_originali: |
     240 (233). Apie tai, kaip Ragainės broliai nukovė 25 lietuvius
 
@@ -502,7 +391,8 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
 - id: c-67477
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 194-195"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 194-195."
   citata_originali: |
     Tas komtūras, magistro patartas, patraukė su kariuomene prieš Aukaimio pilį, ir
     štai kokie nuostabūs visi darbai dievo, kurio apvaizda taip sutvarkė šį itin svarbų reikalą,
@@ -525,7 +415,8 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
 - id: c-67478
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 198"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 198."
   citata_originali: |
     Tuo tarpu Svirtilas bei visa jo šeimyna nusekė paskui brolius ir
     priėmė krikšto malonę. Kita kariuomenės dalis užgriuvo šios pilies apylinkes, kur, išžudę
@@ -543,7 +434,8 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
 - id: c-67479
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 193"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 193."
   citata_originali: |
     276 (269). Apie Aukaimio pilies apylinkių nusiaubimą 1300 metais
 
@@ -580,8 +472,3 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184382
-
-## Ryšiai
-- Puolė Aukaimio pilį (pilis): [[objektai/asmenys/Henrikas iš Dobino]], [[objektai/grupes/Kryžiuočių ordinas]]
-- Apgulė Aukaimio pilį (pilis): [[objektai/grupes/Kryžiuočių ordinas]]
-- Užėmė Aukaimio pilį (pilis): [[objektai/grupes/Kryžiuočių ordinas]]

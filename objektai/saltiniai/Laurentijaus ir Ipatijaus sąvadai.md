@@ -38,20 +38,6 @@ Nuo XII amž. antros pusės, kai lietuviai išvystė gausius puolimus į rusų �
 - t-001
   global_id: t-31784
   teiginys: "Nuo XII a. antros pusės Laurentijaus ir Ipatijaus sąvaduose daugėjo žinių apie lietuvių puolimus į rusų žemes."
-  semantiniai_rysiai: "Lietuviai puolė Rusai (0.79)"
-  temporaliniai_duomenys: "įvykio data: 1044 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Reikia sklandesnio sakinio su aiškesniu faktiniu predikatu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "335789-336149; hash=fc75a5c94be4801e43ada204f0382f58e1402efc01bf6a6188a1218f5ff94734; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Rusai: 0.79"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Rusai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Frazė tiesiogiai mini lietuvių puolimus į rusų žemes; objektas normalizuojamas į rusų grupę, nes atskiro rusų žemių kandidato nėra."
   pagrindžia:
     - c-33619
 ## Reikšmingi paminėjimai
@@ -68,8 +54,8 @@ Nuo XII amž. antros pusės, kai lietuviai išvystė gausius puolimus į rusų �
     Lenkų pirmuosiuose metraščiuose tačiau žinių apie lietuvius
     nėra.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

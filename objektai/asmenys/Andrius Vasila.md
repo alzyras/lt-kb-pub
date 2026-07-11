@@ -30,19 +30,6 @@ Vilniaus vyskupas Andrius Vasila šv. Stanislovo bažnyčioje iškilmingai pakė
 - t-001
   global_id: t-186095
   teiginys: "Vilniaus vyskupas Andrius Vasila šv. Stanislovo bažnyčioje iškilmingai pakėlė Vytautą ir jo žmoną Oną į sostą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "574450-574960; hash=14be1084f6a6115a4eda13f354464d6ab6e59fd4f9cb3cecd7ac3dd52299499a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Andrius Vasila: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=18"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Andrius Vasila\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-169456
 ## Reikšmingi paminėjimai
@@ -65,8 +52,8 @@ Vilniaus vyskupas Andrius Vasila šv. Stanislovo bažnyčioje iškilmingai pakė
     tas apeigas, krikščionių tikėjimo apvalytas nuo bet
     kokių prietarų tikėjimo.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -77,7 +64,8 @@ Vilniaus vyskupas Andrius Vasila šv. Stanislovo bažnyčioje iškilmingai pakė
 - id: c-169456
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 330"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 330."
   citata_originali: |
     Tai buvo karštos prigim­
     ties, be galo veiklus vyras;

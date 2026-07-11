@@ -55,20 +55,6 @@ Nenurodyta
 - t-003
   global_id: t-45355
   teiginys: "Baigiantis Antrajam pasauliniam karui tūkstančiai Lietuvos gyventojų pasitraukė į Vakarus, bijodami Raudonosios armijos sugrįžimo ir deportacijų."
-  semantiniai_rysiai: "Lietuviai gyveno Europa (0.75)"
-  temporaliniai_duomenys: "įvykio data: 1945 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nusako pasitraukimo laiką, veikėjus, kryptį ir priežastį."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "460034-460711; hash=b6f27c76cef47f37c6d361ab2d7f6cc15bc98115039dd97e2d3f86b92e8dd10e; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Europa: 0.75"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Europa: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata nurodo, kad lietuvių pabėgėliai buvo Vakarų Europoje; tai palaiko gyvenimo ar buvimo vietos ryšį."
   pagrindžia:
     - c-48209
 
@@ -76,20 +62,6 @@ Nenurodyta
 - t-001
   global_id: t-45357
   teiginys: "Pabėgėlių gretas papildė nacių okupacijos metais prievarta į Vokietiją dirbti išvežti lietuviai."
-  semantiniai_rysiai: "Lietuviai keliavo į Vokietija (0.85)"
-  temporaliniai_duomenys: "įvykio data: 1945 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys ir apibūdina pabėgėlių sudėties papildymą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "460034-460711; hash=b6f27c76cef47f37c6d361ab2d7f6cc15bc98115039dd97e2d3f86b92e8dd10e; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Vokietija: 0.85"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vokietija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo, kad lietuviai buvo išvežti į Vokietiją."
   pagrindžia:
     - c-48209
 
@@ -97,20 +69,6 @@ Nenurodyta
 - t-001
   global_id: t-45357
   teiginys: "Pabėgėlių gretas papildė nacių okupacijos metais prievarta į Vokietiją dirbti išvežti lietuviai."
-  semantiniai_rysiai: "Lietuviai keliavo į Vokietija (0.85)"
-  temporaliniai_duomenys: "įvykio data: 1945 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys ir apibūdina pabėgėlių sudėties papildymą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "460034-460711; hash=b6f27c76cef47f37c6d361ab2d7f6cc15bc98115039dd97e2d3f86b92e8dd10e; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Vokietija: 0.85"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vokietija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo, kad lietuviai buvo išvežti į Vokietiją."
   pagrindžia:
     - c-48209
 
@@ -118,19 +76,6 @@ Nenurodyta
 - t-004
   global_id: t-183241
   teiginys: "Tarp lietuvių dipukų buvo 400 Kauno ir Vilniaus universiteto dėstytojų, pusė rašytojų sąjungos narių, tūkstančiai mokytojų, inžinierių."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "460712-460931; hash=98d8ed6c9b5cb4e0c2f921ea7259e5c87ce3022882bb119fef6494ba3bac5917; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kaunas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos gyventojų pasitraukimas į Vakarus baigiantis Antrajam pasauliniam karui: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Kaunas: mention_match, place, gap=25"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos gyventojų pasitraukimas į Vakarus baigiantis Antrajam pasauliniam karui\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-166629
 ## Reikšmingi paminėjimai
@@ -149,8 +94,8 @@ Nenurodyta
     (angl. displaced persons (DP) – perkeltieji asmenys) – karo pabėgėlių, dėl
     įvairių priežasčių atsidūrusių už tėvynės ribų, stovyklas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -167,8 +112,8 @@ Nenurodyta
     sąjungos narių, tūkstančiai mokytojų, inžinierių. Tad lietuvių inteligentija
     iškeliavo dviem kryptimis – į Vakarus ar į Sibirą...
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

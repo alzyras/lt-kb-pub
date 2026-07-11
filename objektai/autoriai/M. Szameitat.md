@@ -41,11 +41,6 @@ Szameitat : Bibliographie des Memellandes (Ostdeutsche Beiträge aus dem Göttin
 - t-001
   global_id: t-30850
   teiginys: "M. Szameitat parengė Klaipėdos krašto bibliografiją „Bibliographie des Memellandes“, 1957 m. išleistą Viurcburge."
-  temporaliniai_duomenys: "įvykio data: 1957 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "52593-52901; hash=285496015b456cc97308e4b870a9ddbe9332590e53e9f31b9e3b14fa9bddad66; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-33064
 - susijęs iš Bibliographie des Memellandes: „Bibliographie des Memellandes“ buvo atskira Klaipėdos krašto bibliografija, išleista 1957 m. Würzburge.
@@ -61,8 +56,8 @@ Szameitat : Bibliographie des Memellandes (Ostdeutsche Beiträge aus dem Göttin
     aus dem Göttinger Arbeitskreis, t. 7), Würzburg (Holzner-Yerlag) 1957.
     Duodant keletą specialių priedų, sužymėta 2395 bibliogr. numeriai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

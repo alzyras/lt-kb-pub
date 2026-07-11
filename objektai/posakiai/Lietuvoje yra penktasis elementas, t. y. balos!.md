@@ -30,17 +30,6 @@ Napoleonas, pasak Narbuto, apie Lietuvą yra pasakęs, kad joje yra penktasis el
 - t-001
   global_id: t-192111
   teiginys: "Napoleonas, pasak Narbuto, apie Lietuvą yra pasakęs, kad joje yra penktasis elementas, t. y. balos."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "867739-868185; hash=ab066e5f7742c25079713ed35e1334f179b595a8377c7025980d23e39ea2ba39; match=whitespace_regex"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvoje yra penktasis elementas, t. y. balos!: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=8"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvoje yra penktasis elementas, t. y. balos!\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-174992
 ## Reikšmingi paminėjimai
@@ -58,8 +47,8 @@ Napoleonas, pasak Narbuto, apie Lietuvą yra pasakęs, kad joje yra penktasis el
     nas kraštas; ir dabar vasaros čia yra labai lietingos. Taigi šios
     išvados patvirtina mūsų spėjimus dėl šio krašto vardo kilmės.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -70,7 +59,8 @@ Napoleonas, pasak Narbuto, apie Lietuvą yra pasakęs, kad joje yra penktasis el
 - id: c-174992
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 476"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 476."
   citata_originali: |
     47 /P.
     123, 4 pastraipos

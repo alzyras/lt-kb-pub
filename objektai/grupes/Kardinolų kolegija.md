@@ -41,17 +41,6 @@ Dusburgietis teigia, kad apie tris saulės spindulius ir kolegijos suskilimą 13
 - t-001
   global_id: t-62600
   teiginys: "Po popiežiaus mirties kardinolų kolegijos skilimas truko dvejus metus ir keturis mėnesius, kol kardinolai sutarė dėl naujo popiežiaus."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "740607-741332; hash=e7eb519341abf1b1d604bd86437c4464a4a080d84d1a60dd10bd8b0a2b64d08d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Viena: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kardinolų kolegija: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Viena: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kardinolų kolegija\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-63328
 - susijęs iš [[objektai/ivykiai/Trijų saulių pasirodymas ir kardinolų kolegijos skilimas (1314–1316 m.).md#claim-t-62942|Trijų saulių pasirodymas ir kardinolų kolegijos skilimas (1314–1316 m.)]]: Dusburgietis trijų saulių pasirodymą laikė ženklu, kad mirs popiežius, o po jo mirties suskils kardinolų kolegija.
@@ -72,8 +61,8 @@ Dusburgietis teigia, kad apie tris saulės spindulius ir kolegijos suskilimą 13
     išrinkimo. Pasak Komestoriaus, panašūs ženklai šitaip rodęsi ir tuo metu, kai mirė Julijus
     Cezaris, o po jo mirties suskilo senatas (Ptol. n 1241).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -84,7 +73,8 @@ Dusburgietis teigia, kad apie tris saulės spindulius ir kolegijos suskilimą 13
 - id: c-63328
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 248"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 248."
   citata_originali: |
     Apie tris saulės spindulius ir kolegijos suskilimą
 

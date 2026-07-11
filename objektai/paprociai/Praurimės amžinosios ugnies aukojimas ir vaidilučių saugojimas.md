@@ -45,14 +45,6 @@ Nenurodyta
 - t-001
   global_id: t-194819
   teiginys: "Žmonės ją vadina skaisčiausiąja mergele, ugnies saugotoja, gyvybės davėja."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "202725-203354; hash=3e9f5f73b96a9c1aa9301a51a29a9e4ac9aac8f6ea96f663d055210920d91b8a; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-177215
 ## Reikšmingi paminėjimai
@@ -76,8 +68,8 @@ Nenurodyta
     užgestų. Tos mergelės, kol gyvos, privalo laikytis skaistybės; ją
     praradusias šalies įstatymai baudžia žiauria mirtimi“.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -30,12 +30,6 @@ Barbora (Aleksandro sesuo) priėmė jas su didžiausiu džiaugsmu ir daug dienų
 - t-001
   global_id: t-194129
   teiginys: "Barbora (Aleksandro sesuo) priėmė jas su didžiausiu džiaugsmu ir daug dienų kėlė puotas ir nesuskaičiuojamas pramogas, kaip geras sūnus mylimai motinai ir kaip ištikimas brolis mylimam broliui."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "256914-257492; hash=930d7f670b008df633902faac3f33234332449de960b3ed27d4112848a3ae4f9; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176742
 ## Reikšmingi paminėjimai
@@ -57,8 +51,8 @@ Barbora (Aleksandro sesuo) priėmė jas su didžiausiu džiaugsmu ir daug dienų
     geras sūnus mylimai motinai ir kaip ištikimas brolis
     mylimam broliui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

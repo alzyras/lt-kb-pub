@@ -61,20 +61,6 @@ Nenurodyta
 - t-001
   global_id: t-25169
   teiginys: "Pramonės ir prekybos rūmų Kaune architektas buvo V. Landsbergis-Žemkalnis; objektas datuojamas 1938 m."
-  semantiniai_rysiai: "Pramonės ir prekybos rūmai Kaune priklausė Kaunas (0.90)"
-  temporaliniai_duomenys: "įvykio data: 1938 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalintas puslapio ir OCR triukšmas, išlaikyti citatoje esantys faktai."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "347694-348091; hash=e0bfda05783496f7a5d64d034562e922d4f5d3765a3c5b1dbdd4757e8b024ba1; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Kaunas: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Pramonės ir prekybos rūmai Kaune: llm_allowed_candidate, thing"
-  ryšio_targeto_parinkimas: "Kaunas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Objektas tiesiogiai įvardytas kaip esantis Kaune."
   pagrindžia:
     - c-25725
 ## Reikšmingi paminėjimai
@@ -91,8 +77,8 @@ Nenurodyta
     Valstybės biudžeto lėšos leido sukurti profesionalią operą ir baletą, teatrą,
     formuotis tautiniam kultūros elitui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

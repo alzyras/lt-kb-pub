@@ -41,19 +41,6 @@ Mindaugo - „Lietuvos galingo karaliaus“ pajėgos įsiveržė į Kuršą, su 
 - t-001
   global_id: t-41712
   teiginys: "Mindaugo pajėgos įsiveržė į Kuršą ir su piliadaužėmis puolė Ordino valdytą Embutės pilį, bet jos neužėmė."
-  semantiniai_rysiai: "Mindaugas (valdovas, XIII a.) puolė Embutė (0.88); Mindaugas (valdovas, XIII a.) surengė žygį į Kuršas (0.86)"
-  temporaliniai_duomenys: "įvykio data: 1244 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "78290-78557; hash=99bceab75f25b058808a913aa73f2624a90871561da181cba9460370ea8403c7; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Embutė: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Mindaugas (valdovas, XIII a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Embutė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Mindaugo pajėgų puolimą prieš Embutės pilį."
   pagrindžia:
     - c-45093
 - susijęs iš Kuršas: Mindaugo pajėgos įsiveržė į Kuršą ir su piliadaužėmis nesėkmingai puolė Ordino valdytą Embutės pilį.
@@ -74,8 +61,8 @@ Mindaugo - „Lietuvos galingo karaliaus“ pajėgos įsiveržė į Kuršą, su 
     nuolatinės kovos, abi pusės jų metu pa-
     tyrė didelių nuostolių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

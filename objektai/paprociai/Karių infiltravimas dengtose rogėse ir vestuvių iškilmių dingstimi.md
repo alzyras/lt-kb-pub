@@ -61,17 +61,6 @@ Nenurodyta
 - t-002
   global_id: t-87211
   teiginys: "Strijkovskis ir Kojalavičius rašė, kad Vytautas kelionę į Vilnių dangstė sesers Ringailės vestuvių su Mazovijos kunigaikščiu Henriku dingstimi."
-  semantiniai_rysiai: "Skirgaila keliavo į Polockas (0.97); Vytautas (Lietuvos valdovas, XIV–XV a.) puolė Vilnius (0.88); Sudimantas gynė Vilnius (0.82)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "255045-257194; hash=45556bdcf60c008152ba55e94aae0cd5e99debc8417d957964f0407751086d13; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Polockas: 0.97"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Skirgaila: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Polockas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Skirgailos išvykimą į Polocką."
   pagrindžia:
     - c-83190
 
@@ -79,17 +68,6 @@ Nenurodyta
 - t-001
   global_id: t-87212
   teiginys: "Vytauto žmonės dengtose rogėse pateko į Žemutinę pilį, bet Sudimantas, perspėtas gyventojų, sutrukdė mėginimą užimti Vilnių."
-  semantiniai_rysiai: "Skirgaila keliavo į Polockas (0.97); Vytautas (Lietuvos valdovas, XIV–XV a.) puolė Vilnius (0.88); Sudimantas gynė Vilnius (0.86); Dobrogostas keliavo į Vilnius (0.84)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "255045-257194; hash=45556bdcf60c008152ba55e94aae0cd5e99debc8417d957964f0407751086d13; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Polockas: 0.97"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Skirgaila: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Polockas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Skirgailos išvykimą į Polocką."
   pagrindžia:
     - c-83190
 
@@ -97,20 +75,6 @@ Nenurodyta
 - t-003
   global_id: t-183825
   teiginys: "Vytauto ginkluoti žmonės dengtose rogėse pasiekė pilį, tačiau Sudimantas, perspėtas gyventojų, sužlugdė Vilniaus užėmimo planą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Skirgaila keliavo į Polockas (0.97); Vytautas (Lietuvos valdovas, XIV–XV a.) puolė Vilnius (0.88); Sudimantas gynė Vilnius (0.86); Dobrogostas keliavo į Vilnius (0.84)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "255045-257194; hash=45556bdcf60c008152ba55e94aae0cd5e99debc8417d957964f0407751086d13; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Polockas: 0.97"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Skirgaila: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Polockas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai pasako, kad Skirgaila išvyko į Polocką."
   pagrindžia:
     - c-83190
 
@@ -118,12 +82,6 @@ Nenurodyta
 - t-004
   global_id: t-194188
   teiginys: "Rogėse pasislėpusiems žmonėms pavyko patekti į pilį, bet sargybai vadovavęs Sudimantas, perspėtas gyven tojų, davė atkirtį, visas tas pastangas užimti Vilnių niekais pavertė anksčiau negu suspėjo Vytautas su kariauna19."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "255045-257194; hash=45556bdcf60c008152ba55e94aae0cd5e99debc8417d957964f0407751086d13; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-83190
 ## Reikšmingi paminėjimai
@@ -183,8 +141,8 @@ Nenurodyta
     vienas jų, matyt, išdavęs paslaptį, o
     apie Sudimantą nėra užsiminta.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

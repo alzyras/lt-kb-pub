@@ -41,19 +41,6 @@ Elenos dieną, už šimtą kapų lietu­ viškų grašių ir dešimtį pūdų pi
 - t-001
   global_id: t-86875
   teiginys: "Formulė „Vendimus abscedimus, et resignamus“ pavartota 1536 m. dominikonų sutartyje, kuria miestui parduotas Vingrių šaltinis."
-  temporaliniai_duomenys: "įvykio data: 1536 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys turi OCR triukšmo ir yra per ilgas, bet citata pagrindžia sutarties faktą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "528647-529656; hash=3e263df94308427c5d0ddb9556daf85bd55b963bdc96d30aedb81380277bd5ce; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vingrių šaltinis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vendimus abscedimus, et resignamus: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Vingrių šaltinis: mention_match, place, gap=100"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vendimus abscedimus, et resignamus\" parinktas kaip owner_note_path. Targetas \"Vingrių šaltinis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-82854
 - susijęs iš [[objektai/paprociai/Vilniaus vandens tiekimo kanalais miesto reikmėms tvarka.md#claim-t-87310|Vilniaus vandens tiekimo kanalais miesto reikmėms tvarka]]: Žygimantas Senasis Vilniaus vandens tiekimui skyrė savo šaltinį už Subačiaus vartų ir leido vandenį vamzdžiais išvedžioti po namus.
@@ -92,8 +79,8 @@ Elenos dieną, už šimtą kapų lietu­ viškų grašių ir dešimtį pūdų pi
     šimtą kapų lietuviškų grašių ir de­
     šimtį pūdų pipirų].
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

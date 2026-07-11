@@ -55,17 +55,6 @@ Nenurodyta
 - t-001
   global_id: t-87297
   teiginys: "Rugpjūtį lietuviai prie Vėluvos sudegino šešis kaimus ir nužudė kryžiuotį Fridrichą fon Quitzą su 36 kariais."
-  semantiniai_rysiai: "Lietuviai surengė žygį į Vėluva (0.86); Lietuviai užėmė Dobrynė (0.84); Lietuviai puolė Dobrynė (0.82)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "163610-165932; hash=11dfd33d0a0f41d6e32595d8801f50c61e46d4a43a082d2f08009befeb814321; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "surenge_zygi_i -> Vėluva: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vėluva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai rodo lietuvių žygį iki Vėluvos apylinkių."
   pagrindžia:
     - c-83276
 ## Reikšmingi paminėjimai
@@ -141,8 +130,8 @@ Nenurodyta
     nužudo daug kunigų, ir užimtame Dobrynės mieste žūsta
     apie du tūkstančius gyventojų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

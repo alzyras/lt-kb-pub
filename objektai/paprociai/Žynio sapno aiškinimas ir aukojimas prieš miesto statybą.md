@@ -55,17 +55,6 @@ Nenurodyta
 - t-001
   global_id: t-87312
   teiginys: "Lizdeikos sapno aiškinimas paskatino Gediminą po aukų pastatyti Aukštutinę mūro pilį ant Tauro kalno ir medinę pilį slėnyje, pavadintą Vilniumi."
-  semantiniai_rysiai: "Gediminas pastatė Aukštutinė pilis (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "129003-130508; hash=8dd715ea5d3b22a45dd87b645c89537cedf25008edcc5bfcb8ee24032d8b3b30; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "pastate -> Aukštutinė pilis: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Aukštutinė pilis: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Gediminas pastatydino Aukštutinę mūro pilį."
   pagrindžia:
     - c-83291
 ## Reikšmingi paminėjimai
@@ -102,8 +91,8 @@ Nenurodyta
     h i
     XI Knyga, sk.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -40,12 +40,6 @@ Benjaminas iš Tudelio, žydų kilmės ke liauninkas, tvirtina, kad 1160 metais 
 - t-001
   global_id: t-194308
   teiginys: "Benjaminas iš Tudelio, žydų kilmės ke liauninkas, tvirtina, kad 1160 metais į Aleksandrijos uostą ne tik anglų, bet ir Krokuvos pirklių laivai užsukdavęd)."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "39486-40026; hash=ba39cc90cfd2def8d10a33dfd8f7050c5876c69e881b092a359a3ddff2bdfed1; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176900
 ## Reikšmingi paminėjimai
@@ -69,8 +63,8 @@ Benjaminas iš Tudelio, žydų kilmės ke liauninkas, tvirtina, kad 1160 metais 
     čių antplūdį ir geriausiai sutvirtintas mūro sienas - Lešekui Juo­
     dajam.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

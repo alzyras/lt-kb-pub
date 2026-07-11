@@ -49,21 +49,6 @@ Mūšis įvyko ordino žemėje, tarp Tanenbergo ir Griunvaldo.
 - t-006
   global_id: t-63395
   teiginys: "1410 m. liepos 15 d. Griunvaldo apylinkėse Lietuvos kariuomenė su lenkų sąjungininkais sutriuškino Kryžiuočių ordino kariuomenę."
-  teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Lietuvos kariuomenė buvo sąjungininkas su Lenkai (0.93); Lietuvos kariuomenė kariavo prieš Kryžiuočių ordinas (0.90); Kryžiuočių ordinas puolė Lietuva (0.90)"
-  temporaliniai_duomenys: "įvykio data: 1387 m.; įvykio data: 1410 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sakinys aiškus, gramatiškas ir tiesiogiai pagrįstas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "46352-46877; hash=d8f3f20bb648d4b179a21bdb490ac76de76ef105f2c6319d696a24e6bbfe3117; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sajungininkas_su -> Lenkai: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuvos kariuomenė: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lenkai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Lenkai tiesiogiai įvardyti Lietuvos kariuomenės sąjungininkais."
   pagrindžia:
     - c-64433
 
@@ -71,14 +56,6 @@ Mūšis įvyko ordino žemėje, tarp Tanenbergo ir Griunvaldo.
 - t-007
   global_id: t-193184
   teiginys: "Mūšis įvyko ordino žemėje, tarp Tanenbergo ir Griunvaldo."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "261855-262029; hash=8c75f9b3cad4960f3c74b1faf45afbcb68dc2dd484493bbed431e506591f4bd4; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-175928
 
@@ -86,12 +63,6 @@ Mūšis įvyko ordino žemėje, tarp Tanenbergo ir Griunvaldo.
 - t-008
   global_id: t-193658
   teiginys: "LDK politinės tautos prielaidas kūrė LDK karinės pergalės Žalgiryje, Klecke, Oršoje, Kirchholme (dab."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "144055-144509; hash=9edbec2475046d55b67a468a7343424f93328fdc9c0d51429100e0a2e29ff6d3; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176327
 
@@ -99,12 +70,6 @@ Mūšis įvyko ordino žemėje, tarp Tanenbergo ir Griunvaldo.
 - t-009
   global_id: t-193764
   teiginys: "NUO PAGONIŠKOSIOS IKI VYTAUTO IMPERIJOS p. 16-17, Žalgirio mūšio inscenizacija, Griunvaldas, Lenkija."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1088989-1089114; hash=b731df777f1b248c2efa53ee2341de98b375e78b7a2dae6a820636fdfe98f86e; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176420
 
@@ -112,12 +77,6 @@ Mūšis įvyko ordino žemėje, tarp Tanenbergo ir Griunvaldo.
 - t-010
   global_id: t-194948
   teiginys: "Ir kai karalius ėjo mels tis (galėjo būti ryto kokia 10 valanda), jam buvo pranešta, kad Grünvaldo (Žalgirio) apylinkėse pasirodžiusi priešų vėliava, po jos ir kita."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "223198-223532; hash=64acfc14ed858b8bbbe55a62181a929c456fd4dcbb897eab4963e4ab3b1887af; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177344
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178812|Kryžiuočių ordinas]]: 1410 m. liepos 15 d. Žalgirio mūšyje Lietuvos kariuomenė su lenkų sąjungininkais sutriuškino Kryžiuočių ordino kariuomenę.
@@ -143,8 +102,8 @@ Mūšis įvyko ordino žemėje, tarp Tanenbergo ir Griunvaldo.
     Europos viduramžių mūšyje. Ši pergalė padėjo Lietuvai įtvirtinti savo, kaip pilnavertės Europos valstybės, statusą.
     Oficialiai Lietuva pasikrikštijo dar 1387 m., tačiau Ordinas šį faktą ignoravo ir toliau puolė Lietuvą kovos prieš pagonis
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -159,8 +118,8 @@ Mūšis įvyko ordino žemėje, tarp Tanenbergo ir Griunvaldo.
     Ordinas prisikvietė daugybę svečių ir samdytos kariuome-
     nės iš vakarų Europos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -178,8 +137,8 @@ Mūšis įvyko ordino žemėje, tarp Tanenbergo ir Griunvaldo.
     pergalės Žalgiryje, Klecke, Oršoje, Kirchholme (dab. Salaspilis), Chotyne,
     kuriose lietuviai kovojo petys į petį su rusėnais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -193,8 +152,8 @@ Mūšis įvyko ordino žemėje, tarp Tanenbergo ir Griunvaldo.
 
     p. 16-17, Žalgirio mūšio inscenizacija, Griunvaldas, Lenkija. Donato Babensko nuotr.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -212,8 +171,8 @@ Mūšis įvyko ordino žemėje, tarp Tanenbergo ir Griunvaldo.
     ninkams kelią į Alenšteiną ir atvyko į Grünvaldo ir Tannenbergo
     apylinkes.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -61,15 +61,6 @@ Malūnas minimas prie Vilnios upės ir bernardinams skirto slėnio.
 - t-002
   global_id: t-55248
   teiginys: "1515 m. Žygimantas Senasis leido Ulrikui Hošui savo lėšomis statyti Karališkąjį malūną ir iki gyvos galvos imti trečią grūdą."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Reikėjo įvardyti karalių ir pašalinti dviprasmį agentą."
-  susije_objektai: "mentioned_object: [[objektai/posakiai/Iki gyvos galvos|Iki gyvos galvos]]; mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_person: [[objektai/asmenys/Žygimantas Senasis|Žygimantas Senasis]]; mentioned_place: Vilnius"
-  temporaliniai_duomenys: "įvykio data: 1515 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Reikėjo įvardyti karalių ir pašalinti dviprasmį agentą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "533631-534249; hash=035a1adf8268300bf5c3287831d33dd9c96da24f4c0780dedbb2b326f1460aa8; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177469
 
@@ -77,13 +68,6 @@ Malūnas minimas prie Vilnios upės ir bernardinams skirto slėnio.
 - t-003
   global_id: t-55249
   teiginys: "1515 metais karalius leido Ulrikui Hošui savo lėšomis statyti Vilniaus Karališkąjį malūną."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Citata palaiko statybos leidimą, pradinė formuluotė nutrūkusi."
-  susije_objektai: "mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_place: Vilnius; llm_object: Vilnius"
-  semantiniai_rysiai: "Karališkasis malūnas Vilniuje priklausė Vilnius"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "533631-534249; hash=035a1adf8268300bf5c3287831d33dd9c96da24f4c0780dedbb2b326f1460aa8; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177469
 
@@ -91,12 +75,6 @@ Malūnas minimas prie Vilnios upės ir bernardinams skirto slėnio.
 - t-004
   global_id: t-195086
   teiginys: "Antraštė: Molendinum Vilnense [Vil niaus malūnas]."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "535108-535233; hash=c9a175e0d647f7033552141840283a3aa68082211f8016fb985f05842be7ede7; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-55849
 
@@ -104,12 +82,6 @@ Malūnas minimas prie Vilnios upės ir bernardinams skirto slėnio.
 - t-001
   global_id: t-195087
   teiginys: "Karališkasis malūnas Vilniuje Lietuvos Metrikoje buvo įvardytas kaip Molendinum Vilnense, arba Vilniaus malūnas."
-  teiginio_tipas: "faktas"
-  susije_objektai: "mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_place: Karališkasis malūnas; mentioned_place: Lietuva; mentioned_place: Vilnius; llm_object: Vilnius"
-  semantiniai_rysiai: "Karališkasis malūnas Vilniuje priklausė Vilnius"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "535108-535233; hash=c9a175e0d647f7033552141840283a3aa68082211f8016fb985f05842be7ede7; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-55849
 - susijęs iš [[objektai/grupes/Bernardinų ordinas.md#claim-t-181538|Bernardinų ordinas]]: 1469 metais į Vilnių pakviestam Bernardinų ordinui bažnyčiai ir vienuolynui statyti buvo atiduotas slėnis palei Vilnią prie Karališkojo malūno.
@@ -128,8 +100,8 @@ Malūnas minimas prie Vilnios upės ir bernardinams skirto slėnio.
     Antraštė: Molendinum Vilnense [Vil­
     niaus malūnas].
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -156,8 +128,8 @@ Malūnas minimas prie Vilnios upės ir bernardinams skirto slėnio.
     žemiau Charitonovo palivarko prie Vilnelės16 iškilo popieriaus
     malūnas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -213,6 +185,3 @@ Malūnas minimas prie Vilnios upės ir bernardinams skirto slėnio.
   pagrindzia:
     - t-55248
     - t-55249
-
-## Ryšiai
-- Karališkasis malūnas Vilniuje priklausė [[objektai/vietos/Vilnius]]

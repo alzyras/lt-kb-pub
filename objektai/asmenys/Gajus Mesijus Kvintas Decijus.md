@@ -30,22 +30,6 @@ Teodoro Narbuto pasakojime Decijaus laikais nuo jūros toliau gyvenę lietuviai 
 - t-001
   global_id: t-191400
   teiginys: "Teodoro Narbuto pasakojime Decijaus laikais nuo jūros toliau gyvenę lietuviai kariavo su romėnais ir buvo germanų sąjungininkai."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Lietuviai kariavo prieš Romėnai (0.88); Lietuviai buvo sąjungininkas su Germanai (0.86)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "536490-537243; hash=e02cdd18a99f8d84e09ccafe2ea09f83d1b7b0bdf025ceb9b4c39f21b9441ff0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Romėnai: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Romėnai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Tekste tiesiogiai sakoma, kad lietuviai kariavo su romėnais."
-  vertinimo_atnaujinta: "2026-07-04T15:36:38Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174282
 ## Reikšmingi paminėjimai
@@ -75,8 +59,8 @@ Teodoro Narbuto pasakojime Decijaus laikais nuo jūros toliau gyvenę lietuviai 
     vino kaip vandalų, finų, galindų ir venedų nugalėto­
     ją.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -87,7 +71,8 @@ Teodoro Narbuto pasakojime Decijaus laikais nuo jūros toliau gyvenę lietuviai 
 - id: c-174282
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 299"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 299."
   citata_originali: |
     Juk buvo kariaujama su skandina­
     vais, gentys įvairiais būdais patirdavo tų užjūrio kai­

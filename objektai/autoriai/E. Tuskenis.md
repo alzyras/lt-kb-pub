@@ -32,9 +32,6 @@ Tuskenis.
 - t-001
   global_id: t-19390
   teiginys: "E. Tuskenis redagavo leidinį „Lithuania in European Politics“."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "548166-548252; hash=6aed9685b3c765b9da3968aa6af142e9311ec35cd3080e0185d50a4d3da50472; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-22127
 ## Reikšmingi paminėjimai
@@ -45,8 +42,8 @@ Tuskenis.
     Eidintas A., Senn A. E., Žalys V., edit. E. Tuskenis. Lithuania in European
     politics.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

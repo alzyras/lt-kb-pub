@@ -52,16 +52,6 @@ Nenurodyta
 - t-001
   global_id: t-05339
   teiginys: "Tačiau ir čia jis veikė ne tiek kardu, kiek gudria politika ir daugybės savo sūnų bei dukterų vedybomis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "681121-681608; hash=6c6caa5f285fc58ea04b8df6cc6c2334b48090a6cbf5960514a6d936559ed1a7; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gedimino dinastinė vedybų politika: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gedimino dinastinė vedybų politika\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-67121
 
@@ -69,16 +59,6 @@ Nenurodyta
 - t-002
   global_id: t-05340
   teiginys: "Keli Gedimino sūnūs priėmė stačiatikių tikėjimą arba vedė rusų kunigaikštytes."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "673220-673606; hash=060ba7bd29cac66d15e4cd5c9828a3fd2b5d3013f0cca86fefce5bd6834c2bfc; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gedimino dinastinė vedybų politika: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gedimino dinastinė vedybų politika\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-67123
 
@@ -86,16 +66,6 @@ Nenurodyta
 - t-003
   global_id: t-05341
   teiginys: "Gediminaičių vedybos ir rusų papročių perėmimas davė pradžią vėlesnėms kunigaikščių giminėms."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "715212-715634; hash=8de01d195be9a83ba64eb587cb972957646b06dcb7234861bc8ea4d3a4cfdf9b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Rusai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gedimino dinastinė vedybų politika: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Rusai: mention_match, group, gap=24"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gedimino dinastinė vedybų politika\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-67124
 
@@ -103,9 +73,6 @@ Nenurodyta
 - t-004
   global_id: t-12427
   teiginys: "Dinastinėse vedybose valdovai vesdavo svetimų kraštų kunigaikštytes, vengdami giminystės ryšių su savo pavaldiniais."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "37017-37235; hash=578c48009bc54bca2ee4c7e95ea9c605e963105de6c7bf14022e5a2e312ac69c; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-14486
 ## Reikšmingi paminėjimai
@@ -120,8 +87,8 @@ Nenurodyta
     savo pavaldiniais. O, be to, jie šitai darydavę ir kitokiais sume­
     timais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -140,8 +107,8 @@ Nenurodyta
     Łokietka) ir apdairiomis vaikų vedybomis, Gediminas išugdė vals­
     tybę, kurios stiprybė nesibaigė jo mirtimi.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -159,8 +126,8 @@ Nenurodyta
     Dimitras) priėmė stačiatikių tikėjimą arba vedė rusų kunigaikšty­
     tes.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -177,8 +144,8 @@ Nenurodyta
     (iš Konstantino), Bielskiams ir Sluckiams (iš Vladimiro), Sanguš­
     koms ir Kobrinskiams (iš Teodoro).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

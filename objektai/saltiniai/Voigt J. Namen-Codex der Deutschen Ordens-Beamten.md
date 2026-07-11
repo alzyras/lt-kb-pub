@@ -40,12 +40,6 @@ Dusburgietis teigia, kad voigt J.
 - t-001
   global_id: t-61354
   teiginys: "J. Voigto „Namen-Codex der Deutschen Ordens-Beamten“ išleistas Karaliaučiuje 1843 m."
-  temporaliniai_duomenys: "įvykio data: 1843 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pateikia leidinio pavadinimą, vietą ir metus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "804170-804342; hash=0c08d4a678c13ca9437f10fbb0f28ffb0383d8c9780203630ffa229434ac42b5; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-61986
 ## Reikšmingi paminėjimai
@@ -58,8 +52,8 @@ Dusburgietis teigia, kad voigt J.
       Wojtecki D. Studien zur Personengeschichte des Deutschen Ordens im 13. Jahrhundert
     —Wiesbaden, 1971.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -70,7 +64,8 @@ Dusburgietis teigia, kad voigt J.
 - id: c-61986
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 273"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 273."
   citata_originali: |
     Voigt J. Namen-Codex der Deutschen Ordens-Beamten — Königsberg, 1843.
       Wojtecki D. Studien zur Personengeschichte des Deutschen Ordens im 13. Jahrhundert

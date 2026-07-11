@@ -54,21 +54,6 @@ Nenurodyta
 - t-001
   global_id: t-62386
   teiginys: "1303 m. penkiasdešimt plėšikautojų iš Lietuvos įsibrovė į Lubavos žemę, apiplėšė daug kaimų ir paėmė į nelaisvę arba nukovė daugybę krikščionių."
-  teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Lietuviai puolė Lubava (0.94)"
-  temporaliniai_duomenys: "įvykio data: 1303 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata remia faktą, o pradinis tekstas yra nutrūkęs ir su boilerplate."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "615540-616105; hash=f931e0c907248a1d5822b2673cb205f0e279435120e24bd83b0af0a0b1d3b0dd; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Lubava: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lubava: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata nurodo lietuvių plėšikautojų įsiveržimą į Lubavos žemę ir kaimų apiplėšimą."
   pagrindžia:
     - c-62980
 ## Reikšmingi paminėjimai
@@ -86,8 +71,8 @@ Nenurodyta
     pasiskirstė dviem būriais, vieną pasivijo Kristburgo broliai, nukovė 15 lietuvių ir atėmė
     iš jų 50 krikščionių. Kitas netikėlių būrys paspruko.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -98,7 +83,8 @@ Nenurodyta
 - id: c-62980
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 197"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 197."
   citata_originali: |
     Apie Lubavos žemės nusiaubimą ir 15 lietuvių žūtį 1303 metais
 

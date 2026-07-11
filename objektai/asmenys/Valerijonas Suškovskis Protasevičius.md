@@ -30,19 +30,6 @@ Vilniaus vyskupo įpėdiniu tapo Lucko vyskupas Valerijonas Suškovskis Protasev
 - t-001
   global_id: t-186263
   teiginys: "Vilniaus vyskupo įpėdiniu tapo Lucko vyskupas Valerijonas Suškovskis Protasevičius."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1227619-1228224; hash=8c0f42434ce6189c77920fdebfbc252b6fe7f25e2c4cbf37cb269933087fc2ee; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Liuteronai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Valerijonas Suškovskis Protasevičius (vyskupas): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Liuteronai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Valerijonas Suškovskis Protasevičius (vyskupas)\" parinktas kaip owner_note_path. Targetas \"Liuteronai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-169624
 ## Reikšmingi paminėjimai
@@ -70,8 +57,8 @@ Vilniaus vyskupo įpėdiniu tapo Lucko vyskupas Valerijonas Suškovskis Protasev
     tū lo
     neturi užmiršti caro titulo.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -82,7 +69,8 @@ Vilniaus vyskupo įpėdiniu tapo Lucko vyskupas Valerijonas Suškovskis Protasev
 - id: c-169624
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 689"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 689."
   citata_originali: |
     Didžiais darbais Vilniuje įrodė savo — kaip gany­
     tojo— pamaldumą ir ryžtingumą: jis ypač sėkmingai

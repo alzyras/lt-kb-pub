@@ -32,17 +32,6 @@ Tuo būdu reguliarinės kariuomenės Lietuvoje teliko tik Dembinskio rinktinė (
 - t-003
   global_id: t-72057
   teiginys: "Rusams atgabenus į Lietuvą daugiau kariuomenės, Dembinskio rinktinei tapo nebeįmanoma kariauti."
-  semantiniai_rysiai: "Rusai siuntė į Lietuva (0.91); Dembinskio rinktinė kariavo prieš Rusai (0.68)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "936046-936360; hash=6ebcac6c9985e737cacec74ecebaf105a63ec0f8473fd8a2511451afc37effca; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "siunte_i -> Lietuva: 0.91"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Rusai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad rusai atgabeno daugiau kariuomenės į Lietuvą."
   pagrindžia:
     - c-70483
 
@@ -50,9 +39,6 @@ Tuo būdu reguliarinės kariuomenės Lietuvoje teliko tik Dembinskio rinktinė (
 - t-002
   global_id: t-72058
   teiginys: "Dembinskis su savo rinktine prasimušė iki Varšuvos, kur buvo iškilmingai sutiktas ir paskirtas Varšuvos gubernatoriumi."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "936046-936360; hash=6ebcac6c9985e737cacec74ecebaf105a63ec0f8473fd8a2511451afc37effca; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-70483
 
@@ -60,9 +46,6 @@ Tuo būdu reguliarinės kariuomenės Lietuvoje teliko tik Dembinskio rinktinė (
 - t-001
   global_id: t-72059
   teiginys: "Po Rohland'o būrio pasitraukimo į Prūsiją Dembinskio rinktinė liko vienintelė reguliarinė kariuomenė Lietuvoje."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "935875-936152; hash=a4ba40d9f0b0f77231f020dfe1cdb355af6397b2c0dcfb03fbb07c1bf63e195a; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-70484
 ## Reikšmingi paminėjimai
@@ -78,8 +61,8 @@ Tuo būdu reguliarinės kariuomenės Lietuvoje teliko tik Dembinskio rinktinė (
     simušė iki Varšuvos, kur buvo iškilmingai sutiktas ir už nuo-
     pelnus paskirtas Varšuvos gubernatorium.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -97,8 +80,8 @@ Tuo būdu reguliarinės kariuomenės Lietuvoje teliko tik Dembinskio rinktinė (
     beno į Lietuvą daugiau savo kariuomenės, ir Dembinskiui nebe-
     įmanoma buvo kariauti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -144,6 +127,3 @@ Tuo būdu reguliarinės kariuomenės Lietuvoje teliko tik Dembinskio rinktinė (
   patikimumo_saltinis: ai
   pagrindzia:
     - t-72059
-
-## Ryšiai
-- Dembinskio rinktinė kariavo prieš [[objektai/grupes/Rusai]]

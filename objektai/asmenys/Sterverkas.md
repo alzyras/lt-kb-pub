@@ -30,22 +30,6 @@ Skandinavų padavimuose, kuriuos perteikia Narbutas, Sterverkas vadinamas didvyr
 - t-001
   global_id: t-191982
   teiginys: "Skandinavų padavimuose, kuriuos perteikia Narbutas, Sterverkas vadinamas didvyrio Starkatero tėvu."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Starkateras buvo sūnus Sterverkas (0.98)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "429905-430383; hash=796041e8d2c54b2d6c5b7a420903e7e47519aaaecc812ceccfa572335590e2c8; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sunus -> Sterverkas: 0.98"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Starkateras: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Sterverkas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Starkaterą kaip Sterverko sūnų."
-  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174864
 - susijęs iš [[objektai/asmenys/Starkateras.md#claim-t-191317|Starkateras]]: Narbutas perteikia skandinavų padavimus, kuriuose Starkateras vadinamas Sterverko sūnumi ir vyresniojo Starkatero anūku.
@@ -77,8 +61,8 @@ Skandinavų padavimuose, kuriuos perteikia Narbutas, Sterverkas vadinamas didvyr
     ringumo žmogus. Jis buvo auklėjamas Danijos karaliaus
     Haroldo rūmuose kartu su karalaičiu Vikaru.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -89,7 +73,8 @@ Skandinavų padavimuose, kuriuos perteikia Narbutas, Sterverkas vadinamas didvyr
 - id: c-174864
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 243"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 243."
   citata_originali: |
     235
     Frotono III sūnus Fridleifas buvo auklėjamas Rusioje,

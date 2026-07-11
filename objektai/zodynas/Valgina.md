@@ -30,14 +30,6 @@ Narbutas Valginą (Walgina) apibūdino kaip deivę, globojusią naminių gyvuli�
 - t-001
   global_id: t-189342
   teiginys: "Narbutas Valginą (Walgina) apibūdino kaip deivę, globojusią naminių gyvulių tuklumą, maistinį tinkamumą ir mėsos apsaugą nuo sugedimo."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "253868-254169; hash=e433455e77cc348304930e942d6efa9c72bec114966bc5b40ead8ee7599590f9; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172229
 ## Reikšmingi paminėjimai
@@ -54,8 +46,8 @@ Narbutas Valginą (Walgina) apibūdino kaip deivę, globojusią naminių gyvuli�
     Jos vardas reiškia Maitintoją, sutampa su Romos Deive
     Vika (Viccci).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -66,7 +58,8 @@ Narbutas Valginą (Walgina) apibūdino kaip deivę, globojusią naminių gyvuli�
 - id: c-172229
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 145"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 145."
   citata_originali: |
     Valgina (Walgina)
     Deivė, globojanti naminius gyvulius jų tuklumo bei tinka­

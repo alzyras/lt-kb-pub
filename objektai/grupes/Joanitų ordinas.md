@@ -46,18 +46,6 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
 - t-006
   global_id: t-72078
   teiginys: "Bagrationovskas) Jaučakiai Jeruzalė Jezioranai Joanitai, Jono šv."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "104431-104856; hash=8ad493ae16c43a7243903cfd02b5edb16c4eff8c6547d9d25bab48beeaa52507; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jeruzalė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Joanitų ordinas: owner_note_path, group"
-  ryšio_targeto_parinkimas: "Jeruzalė: mention_match, place, gap=28"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Joanitų ordinas\" parinktas kaip owner_note_path. Targetas \"Jeruzalė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
-  vertinimo_autorius: "claim_quality_pipeline / rewrite"
   pagrindžia:
     - c-70501
 
@@ -65,16 +53,6 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
 - t-002
   global_id: t-72079
   teiginys: "Švento Jono ligoninės magistras buvo tarp Šventosios Žemės ordinų ir didikų atstovų, palaikiusių naujai įsteigtą ligoninę."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "112073-114173; hash=d887f1e43b930e90277dbb06614b87d8e98bbb7872c9e40d1d2c8ba001db7b4a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Albertas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Joanitų ordinas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Albertas: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Joanitų ordinas\" parinktas kaip owner_note_path. Targetas \"Albertas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-70502
 
@@ -82,18 +60,6 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
 - t-006
   global_id: t-72080
   teiginys: "Kryžiaus karų aplinkoje italai turėjo Joanitų ordiną kaip kariaujančiųjų riterių ordiną."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "104431-104856; hash=8ad493ae16c43a7243903cfd02b5edb16c4eff8c6547d9d25bab48beeaa52507; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Joanitų ordinas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=8"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Joanitų ordinas\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
-  vertinimo_autorius: "claim_quality_pipeline / rewrite"
   pagrindžia:
     - c-70505
 
@@ -101,19 +67,6 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
 - t-003
   global_id: t-72081
   teiginys: "Popiežius patvirtino Jeruzalės ligoninės brolių ordiną, skirtą pavargėliams ir paliegėliams slaugyti."
-  temporaliniai_duomenys: "įvykio data: iki 1291 m.; įvykio data: 1187 m.; įvykio data: 1191 m.; įvykio data: 1291 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys fragmentiškas ir turi OCR triukšmo."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "114174-115132; hash=c0a2848faf52d33dadc4a2783a9c144ee9703276417c981dc1abd4395fbb9725; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Joanitų ordinas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Joanitų ordinas\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-70504
 
@@ -121,16 +74,6 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
 - t-004
   global_id: t-72082
   teiginys: "Švento Jono ligoninės ordinas datuojamas 1104 metais, popiežiaus Urbono II laikais."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "695322-695846; hash=cb949f1150f53d95db6742c554f1776da0fdfd37614f78135e93d0f91e6ca081; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Tamplierių ordinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Joanitų ordinas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Tamplierių ordinas: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Joanitų ordinas\" parinktas kaip owner_note_path. Targetas \"Tamplierių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-70506
 - susijęs iš [[objektai/asmenys/Fridrichas (Švabijos kunigaikštis).md#claim-t-60015|Fridrichas (Švabijos kunigaikštis)]]: Fridrichas, Švabijos kunigaikštis, patarė Bremeno ir Liubeko miestiečiams padovanoti ligoninę Henrikui Valpotui.
@@ -158,8 +101,8 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
     Junigeda, Junigėda (Junigede, Junigêdin; Veliuona)
     Juodasis ež.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -195,8 +138,8 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
     Henriką VI, Romos karalių, busimąjį imperatorių, kuris privaląs paprašyti jo šventenybę
     popiežių leisti įsteigti mūsų minėtąją ligoninę ir ją patvirtinti.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -220,8 +163,8 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
     teikė tokiems garbingiems ordinams, kaip jau minėtieji joanitai  ir tamplieriai, taigi
     duodamas teisę laisvai naudotis tomis pat privilegijomis kaip ir anieji.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -239,8 +182,8 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
     ordiną, prancūzai — templininkų, o trečiojo kryžiaus žygio metu
     vokiečiai įkūrė savo Marijos Mergelės ordiną (1190 m.).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -258,8 +201,8 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
       Teutonų namų ordinas — 1190 viešpaties metais popiežiaus Celestino III ir imperatoriaus
     Henriko VI laikais (Dusb.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -270,7 +213,8 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
 - id: c-70501
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 305"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 305."
   citata_originali: |
     Pr. Eylau, dab. Bagrationovskas)
 
@@ -295,7 +239,8 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
 - id: c-70502
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 37"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 37."
   citata_originali: |
     Nors
     apaštalas sako: „Aš sodinau, Apolonas laistė, o dievas augino“, nors iš šių žodžių visiškai
@@ -333,7 +278,8 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
 - id: c-70504
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 37-38"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 37-38."
   citata_originali: |
     Tad popiežius, išklausęs šią
     pasiuntinybę, įkūrė, palenktas prašančiųjų dorų maldavimų, šioje ligoninėje ir viešpaties
@@ -378,7 +324,8 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
 - id: c-70506
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 227"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 227."
   citata_originali: |
     Švento Jono ligoninės ordinas — 1104 viešpaties metais popiežiaus Urbono II laikais.
       Tamplierių ordinas — 1112 viešpaties metais popiežiaus Paskalio II laikais; jį panaikino

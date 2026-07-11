@@ -57,21 +57,6 @@ Nenurodyta
 - t-001
   global_id: t-62796
   teiginys: "1230 m. popiežius Grigalius IX patvirtino susitarimą su Teutonų ordino broliais ir paragino juos kovoti."
-  teiginio_tipas: "saltinio_teiginys"
-  semantiniai_rysiai: "Grigalius IX sudarė sutartį su Teutonai (0.82); Grigalius IX paskyrė Teutonai (0.70)"
-  temporaliniai_duomenys: "įvykio data: 1230 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "146650-147456; hash=7ee74b655749d29005f6170ac11ee73294d4c56c1057c1ef32cd48216077b912; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "sudare_sutarti_su -> Teutonai: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Grigalius IX: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Teutonai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Popiežius patvirtino susitarimą su Teutonų ordino broliais."
   pagrindžia:
     - c-63599
     - c-63600
@@ -80,18 +65,6 @@ Nenurodyta
 - t-002
   global_id: t-62797
   teiginys: "Popiežius Grigalius IX patvirtino susitarimą su Teutonų ordino broliais ir įpareigojo juos atgauti krikščionims priklausančias žemes."
-  teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Grigalius IX sudarė sutartį su Teutonai (0.82); Grigalius IX paskyrė Teutonai (0.72)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "146650-147456; hash=7ee74b655749d29005f6170ac11ee73294d4c56c1057c1ef32cd48216077b912; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "sudare_sutarti_su -> Teutonai: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Grigalius IX: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Teutonai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai mini popiežiaus patvirtintą susitarimą su Teutonų ordino broliais."
   pagrindžia:
     - c-63599
     - c-63601
@@ -111,8 +84,8 @@ Nenurodyta
     mus sunaikinti mūsų  ir mūsų šventovių, nes geriau mums mirti kovoje, kaip matyti
     mūsų tautos ir šventovės nelaimes14.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -134,8 +107,8 @@ Nenurodyta
     kančias, viešpaties kentėtas ant kryžiaus, ir atgauti netikėlių užimtas, bet krikščionims
     priklausomas žemes. Ragindamas juos į kovą, jis sakė (1 Mak 3.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -151,8 +124,8 @@ Nenurodyta
     mūsų tautos ir šventovės nelaimes14. Stiprindamas jų kilnias širdis, jis guodė juos šiais
     viešpaties žodžiais, kuriais šis bylojo  į Izraelio tautą (Ist 20.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -163,7 +136,8 @@ Nenurodyta
 - id: c-63599
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 47"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 47."
   citata_originali: |
     Kai Romos  kurija  išgirdo (1230) minėtojo kunigaikščio pagalbos šauksmą apie
     Lenkijos žemių nuniokojimą, švenčiausiasias tėvas bei valdovas popiežius Grigalius IX,
@@ -187,7 +161,8 @@ Nenurodyta
 - id: c-63600
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 47"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 47."
   citata_originali: |
     6. Apie tai, kaip popiežius patvirtino visa, kas aukščiau išdėstyta, ir paskatino brolius į
                                       kovų
@@ -210,7 +185,8 @@ Nenurodyta
 - id: c-63601
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 47"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 47."
   citata_originali: |
     Ragindamas juos į kovą, jis sakė (1 Mak 3. 58—59): „Prisirenkite
     ir būkite drąsūs vyrai, būkite prisirengę kovoti prieš šituos pagonis, kurie susirinko prieš

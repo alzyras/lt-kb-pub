@@ -42,19 +42,6 @@ N aują impulsą savo veiklai Europos šalių tautiniai sąjūdžiai gavo 1914 m
 - t-001
   global_id: t-19201
   teiginys: "Į Austrijos-Vengrijos erchercogą Pranciškų Ferdinandą 1914 m. birželio 28 d. Sarajeve buvo paleisti šūviai."
-  temporaliniai_duomenys: "įvykio data: 1914 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas faktinis sakinys apie Pranciškų Ferdinandą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "250970-251976; hash=7ee02576f017a7bff795f32bba5ae38b4dc58f5a712b1a25785af68807e9890e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Donatas Malinauskas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Pranciškus Ferdinandas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Donatas Malinauskas: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pranciškus Ferdinandas\" parinktas kaip owner_note_path. Targetas \"Donatas Malinauskas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-21945
 ## Reikšmingi paminėjimai
@@ -80,8 +67,8 @@ N aują impulsą savo veiklai Europos šalių tautiniai sąjūdžiai gavo 1914 m
     esančias apie Nemuną – Didžiąją ir Mažąją (Rytų Prūsiją), kad tokia Lie-
     tuva norėtų gauti autonomiją Rusijos tautų šeimoje), rusai nutylėjo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

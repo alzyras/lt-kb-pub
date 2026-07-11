@@ -40,19 +40,6 @@ Tam reikėjo nutraukti svetimos valstybės konstitucinių aktų galiojimą Lietu
 - t-001
   global_id: t-20990
   teiginys: "Atkuriant valstybę reikėjo atkurti paskutinės nepriklausomos Lietuvos konstitucijos galiojimą."
-  temporaliniai_duomenys: "įvykio data: 1918-1940; įvykio data: 1940 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Patikslinta, kad kalbama apie konstitucijos galiojimą, be neaiškaus konteksto."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "498087-498645; hash=58075c5a2a1441ddbc58b6d0a5736728009f91e9436f7db489a7b3d96da96763; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "1938 metų gegužės 12 dienos Lietuvos Konstitucija: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"1938 metų gegužės 12 dienos Lietuvos Konstitucija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-23716
 
@@ -60,22 +47,6 @@ Tam reikėjo nutraukti svetimos valstybės konstitucinių aktų galiojimą Lietu
 - t-002
   global_id: t-183351
   teiginys: "Atkuriant Lietuvos valstybę buvo priimtas įstatymas dėl 1938 metų gegužės 12 dienos Lietuvos Konstitucijos galiojimo atstatymo."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1918-1940; įvykio data: 1940 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie konstitucijos galiojimo atkūrimo įstatymą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "498427-499170; hash=19cc1e92f70ff070af9dd05bda5239746e1df1922899fe9133c001f8feb2fd6c; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "1938 metų gegužės 12 dienos Lietuvos Konstitucija: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"1938 metų gegužės 12 dienos Lietuvos Konstitucija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-166743
 ## Reikšmingi paminėjimai
@@ -92,8 +63,8 @@ Tam reikėjo nutraukti svetimos valstybės konstitucinių aktų galiojimą Lietu
     ir, vadovaujantis valstybės tęstinumu bei tapatumu, atkurti paskutinės
     nepriklausomos Lietuvos (1918–1940 m.) konstitucijos galiojimą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -115,8 +86,8 @@ Tam reikėjo nutraukti svetimos valstybės konstitucinių aktų galiojimą Lietu
     bet panaikinęs visas buvusias Lietuvos ir jos piliečių prievoles, kurias ne-
     teisėtai nustatė Lietuvoje galiojusi sovietų konstitucija ir įstatymai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

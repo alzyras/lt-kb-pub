@@ -30,14 +30,6 @@ Pasak islandų sagose esančių padavimų, skandinavai taip pat žinojo pakirptu
 - t-001
   global_id: t-194854
   teiginys: "Pasak islandų sagose esančių padavimų, skandinavai taip pat žinojo pakirptuves."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "626908-627238; hash=d3ed0c63c388fc865aabc94fd0c7c4a3cc1b3a0f2f3957a2d0b26c05e659b6e0; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-177250
 ## Reikšmingi paminėjimai
@@ -53,8 +45,8 @@ Pasak islandų sagose esančių padavimų, skandinavai taip pat žinojo pakirptu
     islandų sagose esančių padavimų, skandinavai taip pat žinojo
     pakirptuves. Senovės lenkai ypač laikėsi šio papročio.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -65,7 +57,8 @@ Pasak islandų sagose esančių padavimų, skandinavai taip pat žinojo pakirptu
 - id: c-177250
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 355"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 355."
   citata_originali: |
     Romėnai darydavo pakirptuves
     įvairiomis gyvenimo aplinkybėmis, įvairiais būdais: per vestu­

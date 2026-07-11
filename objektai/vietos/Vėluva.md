@@ -57,17 +57,6 @@ media_all_json: |-
 - t-012
   global_id: t-99858
   teiginys: "Rugpjūtį lietuviai pasiekė Vėluvos apylinkes, sudegino šešis kaimus ir nužudė Fridrichą fon Quitzą su 36 kariais."
-  semantiniai_rysiai: "Lietuviai keliavo į Vėluva (0.84)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "163457-164017; hash=3e8d76201cc699275c82db3f04c0805cf55f17548b3da3a735892493e18ebd99; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Vėluva: 0.84"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vėluva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad lietuviai pasiekė Vėluvos apylinkes."
   pagrindžia:
     - c-93821
 
@@ -75,20 +64,6 @@ media_all_json: |-
 - t-011
   global_id: t-99859
   teiginys: "1347 m. spalio pradžioje lietuvių karalius priėjo Vėluvą, o lietuviai tyliai įėję sudegino miestą."
-  semantiniai_rysiai: "Lietuviai puolė Vėluva (0.82); Lietuviai puolė Ragainė (0.78)"
-  temporaliniai_duomenys: "įvykio data: 1347 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis sakinys buvo per ilgas; paliktas aiškus, citata paremtas faktas apie Vėluvą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "409594-410069; hash=d63516141fc6d32bf555168ed1ddd042214b0cab67d49535d2f52b43cd428681; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Vėluva: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vėluva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata aprašo lietuvių veiksmą prieš Vėluvą ir miesto sudeginimą."
   pagrindžia:
     - c-93822
 
@@ -96,17 +71,6 @@ media_all_json: |-
 - t-004
   global_id: t-99860
   teiginys: "Rugpjūtį lietuviai prasigavo iki Vėluvos apylinkių, sudegino šešis kaimus ir nužudė Fridrichą fon Quitzą su 36 kariais."
-  semantiniai_rysiai: "Lietuviai keliavo į Vėluva (0.82)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "163457-164017; hash=3e8d76201cc699275c82db3f04c0805cf55f17548b3da3a735892493e18ebd99; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Vėluva: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vėluva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Lietuviai tiesiogiai nurodyti kaip pasiekę Vėluvos apylinkes."
   pagrindžia:
     - c-93821
 
@@ -114,17 +78,6 @@ media_all_json: |-
 - t-010
   global_id: t-99861
   teiginys: "Prūsų, sūduvių ir lietuvių kariuomenė aštuonias dienas laikė apsupusi Vėluvos pilį ir kasdien ją puolė."
-  semantiniai_rysiai: "Lietuviai apgulė Vėluva (0.90); Sūduviai apgulė Vėluva (0.90); Lietuviai puolė Vėluva (0.86); Sūduviai puolė Vėluva (0.86)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "412844-413494; hash=a6e478a6c0456ffa9335acc22253055bd883b6c40fd867b1eec170f7d84280a8; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "apgule -> Vėluva: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Sūduviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vėluva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Sūduviai įvardyti kariuomenėje, kuri aštuonias dienas laikė apsupusi Vėluvos pilį."
   pagrindžia:
     - c-93826
 
@@ -132,20 +85,6 @@ media_all_json: |-
 - t-005
   global_id: t-99862
   teiginys: "Per Didįjį prūsų sukilimą jungtinė prūsų, sūduvių ir lietuvių kariuomenė apgulė Vėluvos pilį Priegliaus pakrantėje."
-  semantiniai_rysiai: "Lietuviai apgulė Vėluva (0.90); Sūduviai apgulė Vėluva (0.90); Lietuviai kariavo prieš Kryžiuočių ordinas (0.86); Sūduviai kariavo prieš Kryžiuočių ordinas (0.86)"
-  temporaliniai_duomenys: "įvykio data: 1262 m.; įvykio data: 1263 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs; citata remia pilną faktą apie Vėluvos pilies apgulą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "19933-20431; hash=14c709d8903f18c2c6d494b516f1feea206497e3f79263f593d72c14e15dd4b4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "apgule -> Vėluva: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Sūduviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vėluva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Sūduviai yra įvardyti jungtinėje kariuomenėje, kuri apgulė Vėluvos pilį."
   pagrindžia:
     - c-93827
 
@@ -153,17 +92,6 @@ media_all_json: |-
 - t-008
   global_id: t-99864
   teiginys: "Nadruviai, skalviai ir sūduviai pastatė Vėluvos pilį, siekdami trukdyti broliams ir sembams brautis į Nadruvą."
-  semantiniai_rysiai: "Skalviai pastatė Vėluva (0.88); Sūduviai pastatė Vėluva (0.88); Skalviai puolė Semba (0.78); Sūduviai puolė Semba (0.78)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "352142-352881; hash=25672d73b2bb8c3bbf055b7ccfa26890d09f1e2f3b15366f5e09e3ddbe9d5cd7; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "pastate -> Vėluva: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Skalviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vėluva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Skalviai įvardyti tarp genčių, pastačiusių Vėluvos pilį."
   pagrindžia:
     - c-93825
 
@@ -171,16 +99,6 @@ media_all_json: |-
 - t-002
   global_id: t-99865
   teiginys: "Žygis Ordino žemėse pasiekė Įsručio ir Vėluvos apylinkes."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "696051-696490; hash=2f2a2a934a626fa70433ce1b3fb6026c45e62d035f08f91d5b192aad4dad22af; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Angerburgas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vėluva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Angerburgas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vėluva\" parinktas kaip owner_note_path. Targetas \"Angerburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-32576
 
@@ -188,18 +106,6 @@ media_all_json: |-
 - t-014
   global_id: t-99866
   teiginys: "Vėluvos ir Angerburgo pilys nurodytos kaip įkurtos 1335 metais."
-  temporaliniai_duomenys: "įvykio data: 1347 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "409594-410069; hash=d63516141fc6d32bf555168ed1ddd042214b0cab67d49535d2f52b43cd428681; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Angerburgas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vėluva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Angerburgas: mention_match, place, gap=11"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vėluva\" parinktas kaip owner_note_path. Targetas \"Angerburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-93824
 
@@ -207,16 +113,6 @@ media_all_json: |-
 - t-013
   global_id: t-99867
   teiginys: "Ordino žemėse vykusio žygio metu buvo pasiektos Įsruties ir Vėluvos apylinkės."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "696051-696490; hash=2f2a2a934a626fa70433ce1b3fb6026c45e62d035f08f91d5b192aad4dad22af; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Angerburgas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vėluva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Angerburgas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vėluva\" parinktas kaip owner_note_path. Targetas \"Angerburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-32576
 
@@ -224,19 +120,6 @@ media_all_json: |-
 - t-007
   global_id: t-99868
   teiginys: "1323 m. spalio 16 d. Varmės vyskupo ir kapitulos dokumente buvo minėti lietuvių žygiai į Vėluvą."
-  temporaliniai_duomenys: "įvykio data: 1230 m.; įvykio data: 1243 m.; įvykio data: 1282 m.; įvykio data: 1323 m.; įvykio data: 1324 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pagrindžia konkretų faktą apie Vėluvą ir dokumentą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "68040-68780; hash=ef3899237f0f775009915bb9b22c3dd98b480a11d1c8da5dd26b9006f9123d43; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Dobrynė: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vėluva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Dobrynė: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vėluva\" parinktas kaip owner_note_path. Targetas \"Dobrynė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-93820
 
@@ -244,20 +127,6 @@ media_all_json: |-
 - t-006
   global_id: t-99869
   teiginys: "1323 m. vasarą Lietuvos kariuomenė puolė Sembą ties Vėluva."
-  semantiniai_rysiai: "Lietuvos kariuomenė puolė Semba (0.93); Lietuvos kariuomenė puolė Kryžiuočių ordinas (0.84)"
-  temporaliniai_duomenys: "įvykio data: 1320 m.; įvykio data: 1322 m.; įvykio data: 1323 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata remia glaustą faktą apie Vėluvą, o pradinis teiginys apima ir kitus įvykius."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "31298-32159; hash=650350e4baaa3eff584bdc6fc9eac3bc26f0d1e6b81d274202cbedfd28461c7b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Semba: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuvos kariuomenė: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Semba: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad Lietuvos kariuomenė puolė Sembą."
   pagrindžia:
     - c-93817
 
@@ -265,17 +134,6 @@ media_all_json: |-
 - t-010
   global_id: t-99861
   teiginys: "Prūsų, sūduvių ir lietuvių kariuomenė aštuonias dienas laikė apsupusi Vėluvos pilį ir kasdien ją puolė."
-  semantiniai_rysiai: "Lietuviai apgulė Vėluva (0.90); Sūduviai apgulė Vėluva (0.90); Lietuviai puolė Vėluva (0.86); Sūduviai puolė Vėluva (0.86)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "412844-413494; hash=a6e478a6c0456ffa9335acc22253055bd883b6c40fd867b1eec170f7d84280a8; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "apgule -> Vėluva: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Sūduviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vėluva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Sūduviai įvardyti kariuomenėje, kuri aštuonias dienas laikė apsupusi Vėluvos pilį."
   pagrindžia:
     - c-93826
 
@@ -283,21 +141,6 @@ media_all_json: |-
 - t-016
   global_id: t-185213
   teiginys: "Prūsijos magistras sudegino miestą, o Vėluvos ir Tapiavos kraštą sulygino su žeme."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "432449-432788; hash=f0637fe1de69a755a0a67f466080d1e2c5e0f0cd1ea6091719990c8cc297b3bf; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Tapiava: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vėluva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Tapiava: mention_match, place, gap=11"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vėluva\" parinktas kaip owner_note_path. Targetas \"Tapiava\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-168574
 
@@ -305,23 +148,6 @@ media_all_json: |-
 - t-014
   global_id: t-188873
   teiginys: "Narbutas cituoja liudijimą, kad Vėluvos miesto taryba galėjo patvirtinti nugriuvusio medžio buvusią dvidešimt septynių uolekčių apimtį prie žemės."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Lietuviai puolė Vėluva (0.82)"
-  temporaliniai_duomenys: "mūšio data: 1347 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Lietuviai puolė Vėluva“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Išskleistas, kad kalbama apie cituojamą liudijimą ir Vėluvos tarybos patvirtinimą. Nepridėta, koks tai medis, nes pateikta ištrauka to nepaaiškina."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "409594-410069; hash=d63516141fc6d32bf555168ed1ddd042214b0cab67d49535d2f52b43cd428681; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Vėluva: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vėluva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai aprašo lietuvių karinį veiksmą prieš Vėluvą."
   pagrindžia:
     - c-171762
 
@@ -329,14 +155,6 @@ media_all_json: |-
 - t-017
   global_id: t-194553
   teiginys: "Apie Vėluvos pilies puolimą Tuo metu stipri prūsų, sūduvių ir lietuvių kariuomenė įsibrovė į Sembos žemę; lietuviai su viena apgulos mašina vienoje pusėje, likusieji su antra — kitoje pusėje aštuonias dienas laikė apsupę Vėluvos pilį, kasdien ją puldami."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "412844-413494; hash=a6e478a6c0456ffa9335acc22253055bd883b6c40fd867b1eec170f7d84280a8; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-93826
 - susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175106|Sūduviai-jotvingiai]]: Jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje.
@@ -443,8 +261,8 @@ media_all_json: |-
     damas Įsručio ir Vėluvos apylinkes. O kitame žygyje (1365) paėmė
     ir sunaikino Angerburgo pilį^17.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -467,8 +285,8 @@ media_all_json: |-
     patraukė  į Dobrynės kunigaikštystę, gindama Mazoviją, kurią norėta  išlaikyti savo
     pusėje56.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -488,8 +306,8 @@ media_all_json: |-
     apylinkes (III, 344), Vėluvą (III, 345) bei Dobrynę (III, 346), be to, 1324 m. popiežiaus
     legatų dokumentu dėl taikos su Gediminu (III, 356)122.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -515,8 +333,8 @@ media_all_json: |-
     gaikštienė Anastazija, kaimyninė Mazovija bei artimos apy­
     linkės1 1 .
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -535,8 +353,8 @@ media_all_json: |-
 
     Taip lietuviai „dar ie sumušė krikščionis“.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -556,8 +374,8 @@ media_all_json: |-
     - Kaip matome, Į pietus nuo Ragainės, be vėlyvos Lykos pilaitės, nebuvo
         jokios ordino pilies.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -578,8 +396,8 @@ media_all_json: |-
     brautis į Nadruvos žemę. Pastatę šią pilį, jie sugrįžo pas savuosius, palikę pilyje Tirską330
     bei jo sūnų Maudelį331 su daugybe ginklanešių.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -599,8 +417,8 @@ media_all_json: |-
     ragino apsuptuosius gintis ir drauge su jais daug kartų gesino degalus, [pakišamus]
     piliai padegti.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -620,8 +438,8 @@ media_all_json: |-
     122), Manto vadovaujami prūsai nusiaubė Kulmo žemę, o po to (1263 m.) visiškai
     sutriuškino kryžiuočius mūšio lauke (III, 123).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -639,8 +457,8 @@ media_all_json: |-
     praradęs miestą, vargais negalais išgelbėjo pilį ir išsau­
     gojo gyvybę.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -659,8 +477,8 @@ media_all_json: |-
     jeigu su juo būtų pagarbiau elgiamasi; mat kiekvienas jame
     išrėždavo savo vardą ir metus, elgdavosi kaip norėdavo“.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -695,7 +513,8 @@ media_all_json: |-
 - id: c-93817
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 14"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 14."
   citata_originali: |
     XIV a. 3-iajame dešimtmetyje, kai rašė savo kroniką Dusburgietis, Lietuva, tęsdama
     ginklo kovą prieš Vakarų Europos feodalų agresiją, 1320 m. liepos 27 d. Medininkų
@@ -719,7 +538,8 @@ media_all_json: |-
 - id: c-93820
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 24"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 24."
   citata_originali: |
     Rašydamas kroniką, Dusburgietis naudojosi dokumentais, tačiau kokiais  ir kaip —
     neaišku. M. Tepenas, leisdamas 1861 m. kroniką, pažymėjo, kad Dusburgietis rėmęsis
@@ -812,7 +632,8 @@ media_all_json: |-
 - id: c-93825
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 107"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 107."
   citata_originali: |
     73 (72). Apie Sembos žemės nuniokojimą ir Vėluvos pilies pastatymą
 
@@ -835,7 +656,8 @@ media_all_json: |-
 - id: c-93826
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 128"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 128."
   citata_originali: |
     Apie Vėluvos pilies puolimą
 
@@ -859,7 +681,8 @@ media_all_json: |-
 - id: c-93827
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 11"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 11."
   citata_originali: |
     Priešiškuose lietuviams
     šaltiniuose randame ir vėlesnių, šiuo atveju svarbių žinių. Štai Didžiojo prūsų sukilimo
@@ -879,7 +702,8 @@ media_all_json: |-
 - id: c-168574
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 247"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 247."
   citata_originali: |
     Šitaip praėjo ir kiti metai, pakaitomis vieniems
     kitus puldinėjant. Prūsijos magistras, susilaukęs pa­
@@ -898,7 +722,8 @@ media_all_json: |-
 - id: c-171762
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 238"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 238."
   citata_originali: |
     Anksčiau, kai tas medis žaliavo ir turėjo žievę, jis
     prie žemės buvo dvidešimt septynių uolekčių apimties (vadi­
@@ -916,10 +741,4 @@ media_all_json: |-
     - t-188873
 
 ## Ryšiai
-- Buvo valdoma: [[objektai/asmenys/Tirskas]]
-- Buvo kelionės vieta: [[objektai/grupes/Lietuviai]]
-- Buvo pastatyta: [[objektai/grupes/Nadruviai]], [[objektai/grupes/Skalviai]], [[objektai/grupes/Sūduviai]]
-- Puolė Vėluvą: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Sūduviai]]
 - Apgulė Vėluvą: [[objektai/grupes/Lietuviai]], [[objektai/grupes/Sūduviai]]
-- Gynė Vėluvą: [[objektai/asmenys/Henrikas Tupadelis]]
-- Buvo žygio kryptis: [[objektai/grupes/Lietuviai]]

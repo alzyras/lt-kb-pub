@@ -45,16 +45,6 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
 - t-020
   global_id: t-109066
   teiginys: "Alytaus, Plungės ir Utenos gamyklose 50–70 proc. darbininkų buvo to paties miesto ar rajono gyventojai."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "443532-443957; hash=d83cdd7f16d6ca3423fc4d12adf0a792bc6e32110bd2a71da3a861e118f194f8; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Plungė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Alytus: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Plungė: mention_match, place, gap=9"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Alytus\" parinktas kaip owner_note_path. Targetas \"Plungė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-101170
 
@@ -62,19 +52,6 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
 - t-013
   global_id: t-109067
   teiginys: "1919 m. kovos su bolševikais vyko prie Alytaus, o kovo mėnesį iš rusų buvo atimti Jėznas, Butrimonys ir Krekenava."
-  temporaliniai_duomenys: "įvykio data: 1919 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalinti kontekstiniai fragmentai ir patikslintas karo kontekstas iš citatos."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "1096069-1096438; hash=f9f5db1dce23d813a252e94454951fde5824a3777636487dc541d322c5eff37f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Butrimonys: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Alytus: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Butrimonys: mention_match, place, gap=51"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Alytus\" parinktas kaip owner_note_path. Targetas \"Butrimonys\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-24038
 
@@ -82,16 +59,6 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
 - t-017
   global_id: t-109068
   teiginys: "Bolševikų pajėgos planavo persikelti per Nemuną Prienuose ir Alytuje, kad iš pietų pultų Kauną."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1096069-1096438; hash=f9f5db1dce23d813a252e94454951fde5824a3777636487dc541d322c5eff37f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kaunas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Alytus: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kaunas: mention_match, place, gap=28"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Alytus\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-101173
 
@@ -99,19 +66,6 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
 - t-007
   global_id: t-109069
   teiginys: "Bolševikų pajėgos planavo persikelti per Nemuną Prienuose ir Alytuje ir iš pietų pulti Kauną."
-  temporaliniai_duomenys: "įvykio data: 1919 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sakinys yra aiškus, gramatiškas ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "711768-712347; hash=4edccd636a1618f643847d6a50553d2c95bd578c59eb2ca280a12eaec3040590; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kaunas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Alytus: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kaunas: mention_match, place, gap=26"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Alytus\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-43311
 
@@ -119,16 +73,6 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
 - t-016
   global_id: t-109072
   teiginys: "Michało Balińskio manymu, slaptas sandėris sudarytas girioje prie dabartinių Daugų, Trakų paviete, netoli Alytaus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "97945-98483; hash=d59af8952c1209ca1b7a8cae30e54158d4cd3bfe00233cc0c3f3ff01487c9c0e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Alytus: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Alytus\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-101165
 
@@ -136,16 +80,6 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
 - t-016
   global_id: t-109072
   teiginys: "Michało Balińskio manymu, slaptas sandėris sudarytas girioje prie dabartinių Daugų, Trakų paviete, netoli Alytaus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "97945-98483; hash=d59af8952c1209ca1b7a8cae30e54158d4cd3bfe00233cc0c3f3ff01487c9c0e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Alytus: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Alytus\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-101165
 
@@ -153,18 +87,6 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
 - t-015
   global_id: t-109073
   teiginys: "Bolševikų pajėgos planavo persikelti per Nemuną Alytuje ir Prienuose, kad galėtų pulti Kauną iš pietų."
-  temporaliniai_duomenys: "įvykio data: 1919 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "711768-712347; hash=4edccd636a1618f643847d6a50553d2c95bd578c59eb2ca280a12eaec3040590; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kaunas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Alytus: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kaunas: mention_match, place, gap=39"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Alytus\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-43311
 
@@ -172,17 +94,6 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
 - t-018
   global_id: t-109075
   teiginys: "Vasario 14–15 d. naktį lietuviai ir vokiečiai išstūmė bolševikus iš Alytaus."
-  semantiniai_rysiai: "Lietuviai buvo sąjungininkas su Vokiečiai (0.80); Lietuviai užėmė Alytus (0.72); Vokiečiai užėmė Alytus (0.72)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "726446-726756; hash=f7cb0fb8dfafa121ab002f15f08ed68d5e00574ab77dbd8b5b05e862adf33149; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sajungininkas_su -> Vokiečiai: 0.80"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vokiečiai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Lietuviai ir vokiečiai kartu veikė prieš bolševikus."
   pagrindžia:
     - c-101172
 
@@ -190,19 +101,6 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
 - t-008
   global_id: t-109076
   teiginys: "1919 m. vasario 14–15 d. naktį lietuviai ir vokiečiai išstūmė bolševikus iš Alytaus."
-  semantiniai_rysiai: "Lietuviai buvo sąjungininkas su Vokiečiai (0.80); Lietuviai užėmė Alytus (0.72); Vokiečiai užėmė Alytus (0.72)"
-  temporaliniai_duomenys: "įvykio data: 1919 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "726600-726949; hash=5a46a2fc7c2890f253cdf7b669eb742e55465f555844a92af598eb7a3d7d7668; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sajungininkas_su -> Vokiečiai: 0.80"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vokiečiai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Lietuviai ir vokiečiai kartu atliko tą patį karinį veiksmą prieš bolševikus."
   pagrindžia:
     - c-101168
 
@@ -210,16 +108,6 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
 - t-014
   global_id: t-109077
   teiginys: "Mezolito įrankių gausiai aptikta paežerėse nuo Lydos iki Alytaus, taip pat palei Nemuną, Nerį, Merkį, Ūlą ir Katrą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "266356-266799; hash=69007dfbcf2eb41e5a86f8166eb6a080507c2ba76affdb104da126d8d8851d6e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Katra: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Alytus: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Katra: mention_match, place, gap=52"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Alytus\" parinktas kaip owner_note_path. Targetas \"Katra\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-31935
 
@@ -227,12 +115,6 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
 - t-021
   global_id: t-193761
   teiginys: "Balandžio 3-8 d. lietuviai iš Alytaus ir Kauno puolė Vilniaus link."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "780494-780727; hash=fa21704cf42b6e96b1257507d879b1ca139a7307595b4ee0b143eec1107058a2; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-12696
 - susijęs iš [[objektai/asmenys/Jonas Neifalta-Lakūnas.md#claim-t-79052|Jonas Neifalta-Lakūnas]]: Jonas Neifalta-Lakūnas iki okupacijos tarnavo Alytaus ulonų pulke ir turėjo puskarininkio laipsnį.
@@ -287,8 +169,8 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
     Pietinė grupė turėjo užimti Daugus ir Varéng@, tada palei gelezin-
     kelį pro Lentvarį pulti Vilnių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -307,8 +189,8 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
     rusų buvo atimtas Jėznas, Butrimonys ir toliau, šiaurėj, Kreke-
     nava.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -328,8 +210,8 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
     prijaukintas gyvulys, būtent šuo, kuris tada vartotas ir mėsai (gy­
     vos mėsos « konservavimas »)^3.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -384,8 +266,8 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
     ryžosi pradėti Kauno puolimą iš pietų
     pusės.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -412,8 +294,8 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
     ris jiems iškėlė puikias vaišes. Žr.
     Voigt, T. V, 355.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -433,8 +315,8 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
     Kauną - laikinąją Lietuvos sostinę ir nu-
     traukti Lietuvos valstybės egzistavimą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -452,8 +334,8 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
     nuo 50 iki 70 proc. darbininkų buvo to paties miesto ar rajono gyventojai
     ir tik 3–5 proc. – atvykėliai iš SSRS.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -476,8 +358,8 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
     sario 14-15 d. naktį lietuviai ir vokie-
     čiai išstūmė bolševikus iš Alytaus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -531,8 +413,8 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
     jos veiksmų plano, nukreipto prieš at-
     gimusį Lietuvos valstybingumą, dalis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -807,6 +689,3 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
   patikimumo_saltinis: ai
   pagrindzia:
     - t-109068
-
-## Ryšiai
-- Užėmė Alytų: [[objektai/grupes/Lietuviai]], [[objektai/grupes/Vokiečiai]]

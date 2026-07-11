@@ -40,20 +40,6 @@ Apgultos Pilėnų (Pillenen) pilies^16 įgula, kunigaikščio Margirio vadovauja
 - t-001
   global_id: t-32452
   teiginys: "Kunigaikščio Margirio vadovaujama apgultos Pilėnų pilies įgula narsiai gynėsi."
-  semantiniai_rysiai: "Kryžiuočių ordinas apgulė Pilėnai (0.72)"
-  temporaliniai_duomenys: "įvykio data: 1336 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nusako Pilėnų įgulos vadovą ir veiksmą, citata tai patvirtina."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "652533-653305; hash=6d9dea4237449cc7f08ae6b0f19f390c83768fd996ec390254f7635c0e208b33; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "apgule -> Pilėnai: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Pilėnai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Apgultos Pilėnų pilies kontekste puolamoji jėga yra kryžiuočiai."
   pagrindžia:
     - c-33997
 - susijęs iš [[objektai/posakiai/Bemeilijo žūti ugny, negu pasiduoti vokiečiams.md#claim-t-06869|Bemeilijo žūti ugny, negu pasiduoti vokiečiams]]: 1336 m. kunigaikščio Margio vadovaujami lietuviai, nebegalėdami apsiginti, verčiau rinkosi žūti ugnyje, negu pasiduoti vokiečiams.
@@ -208,8 +194,8 @@ Apgultos Pilėnų (Pillenen) pilies^16 įgula, kunigaikščio Margirio vadovauja
     turtą, ir « nužudę visas moteris ir vaikus ir sumetę lavonus į ugnį,
     vienas po kito patys išsižudė».
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -243,5 +229,4 @@ Apgultos Pilėnų (Pillenen) pilies^16 įgula, kunigaikščio Margirio vadovauja
     - t-32452
 
 ## Ryšiai
-- Apgulė Pilėnai: [[objektai/grupes/Kryžiuočių ordinas]]
 - Gynė Pilėnai: [[objektai/grupes/Lietuviai]]

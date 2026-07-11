@@ -40,21 +40,6 @@ Didžiųjų kunigaikščių monarchijos irimo ir ponų įsigalėjimo laikotarpis
 - t-001
   global_id: t-74034
   teiginys: "A. Šapokos „Lietuvos istorijoje“ Kazimiero laikai (1440–1492 m.) priskirti pereinamajam ponų įsigalėjimo laikotarpiui."
-  temporaliniai_duomenys: "įvykio data: 1440-1492; įvykio data: 1492 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata yra turinio antraštė, todėl reikia aiškios šaltinio vartosenos atribucijos."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "15143-15412; hash=763f23a1591af67afa95ebd49f89c6e03ba2f3434314ad9fa3f452a7d12991b6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> pereinamasis laikotarpis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "ponų įsigalėjimo laikotarpis: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "pereinamasis laikotarpis: mention_match, thing, gap=17"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"ponų įsigalėjimo laikotarpis\" parinktas kaip owner_note_path. Targetas \"pereinamasis laikotarpis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-72115
 - susijęs iš [[objektai/asmenys/Kazimieras Jogailaitis.md#claim-t-82507|Kazimieras Jogailaitis]]: A. Šapokos redaguotoje „Lietuvos istorijoje“ Kazimiero Jogailaičio laikai 1440–1492 m. vadinami pereinamuoju laikotarpiu.
@@ -77,8 +62,8 @@ Didžiųjų kunigaikščių monarchijos irimo ir ponų įsigalėjimo laikotarpis
     I. Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis
     1.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

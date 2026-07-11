@@ -51,9 +51,6 @@ Nenurodyta
 - t-001
   global_id: t-01857
   teiginys: "Vladislovo Vazos elekcija užtruko vos pusę valandos, nes jis neturėjo priešininkų."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "644832-644996; hash=89c21cae4b2d95e4cfd4308fbc9b19bef88a2a4437c41b121fad3da69b6b7ef2; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-02095
 ## Reikšmingi paminėjimai
@@ -70,8 +67,8 @@ Nenurodyta
     valandos, nes Vladislovo
     priešų nebuvo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

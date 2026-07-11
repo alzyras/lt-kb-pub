@@ -30,19 +30,6 @@ Prie Mėlynųjų Vandenų Dimitras sultanas buvo vienas iš trijų kunigaikšči
 - t-001
   global_id: t-186196
   teiginys: "Prie Mėlynųjų Vandenų Dimitras sultanas buvo vienas iš trijų kunigaikščių, vadovavusių padalytai priešo kariuomenei."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "381281-381626; hash=e08d08283b77ef707dac26359439cb1bc718ab81fbf299968c82c04b0fa30824; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Chadžibėjus Girėjus: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Dimitras sultanas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Chadžibėjus Girėjus: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dimitras sultanas\" parinktas kaip owner_note_path. Targetas \"Chadžibėjus Girėjus\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-169557
 ## Reikšmingi paminėjimai
@@ -59,8 +46,8 @@ Prie Mėlynųjų Vandenų Dimitras sultanas buvo vienas iš trijų kunigaikšči
     Girėjus ir Dimitras sultanas. Buvo aišku, jog jie ge­
     rai pasirengę mūšiui ir negaišdami stos į kovą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -71,7 +58,8 @@ Prie Mėlynųjų Vandenų Dimitras sultanas buvo vienas iš trijų kunigaikšči
 - id: c-169557
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 219"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 219."
   citata_originali: |
     Pražygiavęs Kanevą ir Čerka­
     sus, jis priėjo vietą, kurią žmonės vadina Mėlynaisiais

@@ -31,20 +31,6 @@ Goštautas, vykdamas į Lietuvą, paliko Andrių Sakavičių Smolensko vietinink
 - t-001
   global_id: t-186032
   teiginys: "Goštautas, vykdamas į Lietuvą, paliko Andrių Sakavičių Smolensko vietininku."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Andrius Sakavičius valdė miestą Smolenskas (0.82)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "827823-828221; hash=4cfba91c38483ba28a88bebc42a1646e0f192784b5befe389d82a24c88a8d58c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde_miesta -> Smolenskas: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Andrius Sakavičius: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Smolenskas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Sakavičius paliktas Smolenske vietininku, todėl ryšys su miesto valdymu yra tiesiogiai paremtas."
   pagrindžia:
     - c-169393
 
@@ -52,20 +38,6 @@ Goštautas, vykdamas į Lietuvą, paliko Andrių Sakavičių Smolensko vietinink
 - t-002
   global_id: t-186033
   teiginys: "Andrius Sakavičius atrėmė pirmą smolenskiečių antpuolį, atvėręs vartus ir paleidęs prieš užpuolėjus raituosius ietininkus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Andrius Sakavičius kariavo prieš Smolenskiečiai (0.78)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "827971-828428; hash=1179cc6871ec3edbf210f1a11a12362ff2ef73554ab1c673aa40a2e2065305fd; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Smolenskiečiai: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Andrius Sakavičius: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Smolenskiečiai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Smolenskiečiai aprašyti kaip puolėjai, o Sakavičius atrėmė jų antpuolį."
   pagrindžia:
     - c-169394
 
@@ -73,20 +45,6 @@ Goštautas, vykdamas į Lietuvą, paliko Andrių Sakavičių Smolensko vietinink
 - t-003
   global_id: t-186034
   teiginys: "Kazimieras, užėmęs Smolensko pilį ir ne per griežtai nubaudęs maištininkus, paliko Andrių Sakavičių vietininku."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Andrius Sakavičius valdė miestą Smolenskas (0.78)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "830129-830713; hash=b0b393a6b7d34a011da49f3855e530a4526d7cd6a7d584909b9b40d378c94abf; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde_miesta -> Smolenskas: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Andrius Sakavičius: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Smolenskas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Po Smolensko pilies užėmimo Sakavičius paliktas ten vietininku."
   pagrindžia:
     - c-169395
 
@@ -94,12 +52,6 @@ Goštautas, vykdamas į Lietuvą, paliko Andrių Sakavičių Smolensko vietinink
 - t-004
   global_id: t-193896
   teiginys: "46 APIE PRASTŲJŲ ŽMONIŲ SUKILIMĄ SMOLENSKE IR KAZIMIERO JOGAILA1CIO KARĄ SU MASKVENAIS Andrius Sakavičius, dar Žygimanto siųstas vieton Jono Goštauto, valdė Smolenską Išgirdo jis apie Žy gimanto mirtj ir ėmė reikalauti iš smolenskiečių prie saikos, kad nuo."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "224424-225132; hash=79ecd8c041ab7a50c95ab54dab9ca0ad4d76b5a8af468cb8b025e2070e0f28be; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176521
 ## Reikšmingi paminėjimai
@@ -125,8 +77,8 @@ Goštautas, vykdamas į Lietuvą, paliko Andrių Sakavičių Smolensko vietinink
     ginklavo ir apsupo iš visų pusių pilį; niekieno dorai ne­
     vadovaujami, jie veikiau triukšmavo, nei rimtai kovojo.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -149,8 +101,8 @@ Goštautas, vykdamas į Lietuvą, paliko Andrių Sakavičių Smolensko vietinink
     Kito antpuolio jis nedrįso laukti, todėl skubiai su savo
     žmonėmis pasitraukė į saugesnę vietą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -176,8 +128,8 @@ Goštautas, vykdamas į Lietuvą, paliko Andrių Sakavičių Smolensko vietinink
     atgavo Mstislavlio kunigaikš­
     tystę.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -206,8 +158,8 @@ Goštautas, vykdamas į Lietuvą, paliko Andrių Sakavičių Smolensko vietinink
     kė Andriui laikysią jį pas save Smolensko vaivada,
     kaip pridera.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -218,7 +170,8 @@ Goštautas, vykdamas į Lietuvą, paliko Andrių Sakavičių Smolensko vietinink
 - id: c-169393
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 471"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 471."
   citata_originali: |
     Pasibaigus seimui, iš­
     siuntė
@@ -246,7 +199,8 @@ Goštautas, vykdamas į Lietuvą, paliko Andrių Sakavičių Smolensko vietinink
 - id: c-169394
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 471"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 471."
   citata_originali: |
     G o šta u tą  siunčia m al-
     Išgirdę apie Žygimanto galą,
@@ -270,7 +224,8 @@ Goštautas, vykdamas į Lietuvą, paliko Andrių Sakavičių Smolensko vietinink
 - id: c-169395
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 472"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 472."
   citata_originali: |
     Visuomet kariuomenė sėkmingai
     kariauja, kai valdovas ne tik jai duoda nurodymų, o
@@ -323,7 +278,3 @@ Goštautas, vykdamas į Lietuvą, paliko Andrių Sakavičių Smolensko vietinink
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193896
-
-## Ryšiai
-- Andrius Sakavičius valdė [[objektai/vietos/Smolenskas]]
-- Andrius Sakavičius kariavo prieš [[objektai/grupes/Smolenskiečiai]]

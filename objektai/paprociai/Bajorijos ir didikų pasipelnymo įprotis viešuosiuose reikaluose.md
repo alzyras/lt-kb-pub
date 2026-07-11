@@ -55,9 +55,6 @@ Nenurodyta
 - t-001
   global_id: t-67044
   teiginys: "XVIII a. bajorija ir didikai buvo įpratę pasipelnyti iš viešųjų reikalų, prie kurių prisidėdavo."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "854657-854999; hash=23fd15ea7afcb94c642fd4c44f7353f50f40a0ed5b9fa49a6ac2f874f4c9e841; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-67098
 
@@ -65,9 +62,6 @@ Nenurodyta
 - t-002
   global_id: t-67045
   teiginys: "Bajorijos ir didikų pasipelnymo įprotis viešuosiuose reikaluose: užtat daugumas mokykloms skirtų pinigų žūdavo visokių agentų kišenėse, ir mokyklos pradėjo skursti."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "854796-855099; hash=85de5c2c99ea85b91aa2baafe8c2c75bbbecebb3a0c9f026fea270d764cd518b; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-67099
 ## Reikšmingi paminėjimai
@@ -83,8 +77,8 @@ Nenurodyta
     ir didikai buvo įpratę visur, kur tik prikišdavo savo pirštus, pasipel-
     nyti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -99,8 +93,8 @@ Nenurodyta
     nyti. Užtat daugumas mokykloms skirtų pinigų žūdavo visokių
     agentų kišenėse, ir mokyklos pradėjo skursti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

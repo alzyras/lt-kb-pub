@@ -31,21 +31,6 @@ Narbutas rašo, kad Pretorijus penkias pranašautojų rūšis pateikė remdamasi
 - t-001
   global_id: t-190329
   teiginys: "Narbutas rašo, kad Pretorijus penkias pranašautojų rūšis pateikė remdamasis savo paties matytais pastebėjimais."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "521794-522171; hash=6a4049bcf83c9f6114114005b4b115c1c3940eab5271f63ce529af612bb0f935; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Latviai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Motiejus Pretorijus: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Latviai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Motiejus Pretorijus\" parinktas kaip owner_note_path. Targetas \"Latviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173212
 
@@ -53,21 +38,6 @@ Narbutas rašo, kad Pretorijus penkias pranašautojų rūšis pateikė remdamasi
 - t-002
   global_id: t-190330
   teiginys: "Narbutas žynių vyrų ir moterų vardus kildina iš Meletijaus ir Pretorijaus, rėmusiųsi paprastų žmonių sakytiniais padavimais."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "526434-526736; hash=01a822b59994ba7353b2fc703794974942a6133ee2784f6cae179c4c75ad7600; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Meletijus: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Motiejus Pretorijus: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Meletijus: mention_match, author, gap=14"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Motiejus Pretorijus\" parinktas kaip owner_note_path. Targetas \"Meletijus\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173213
 
@@ -75,21 +45,6 @@ Narbutas rašo, kad Pretorijus penkias pranašautojų rūšis pateikė remdamasi
 - t-003
   global_id: t-190760
   teiginys: "Pasak Pretorijaus, Poiein ziemme senovės prūsams turėjo reikšti galingos genties žemę."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "468571-469038; hash=d03f6aa77127e7e8fb7652c56ddb9c5d3269b73e36c9c08058b7de7584c2a7d9; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Prūsai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Motiejus Pretorijus: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Prūsai: mention_match, group, gap=35"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Motiejus Pretorijus\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173642
 
@@ -97,21 +52,6 @@ Narbutas rašo, kad Pretorijus penkias pranašautojų rūšis pateikė remdamasi
 - t-004
   global_id: t-190761
   teiginys: "Pretorijus prūsus ir rusus laikė iš pradžių viena gentimi, o variagų vardą kildino iš prūsiško žodžio Warejs."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "614185-614577; hash=94567bb9a1876174c5d56735ac2a71a8ebeea3e6bfb4cbaf6288ae48b432625e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Prūsai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Motiejus Pretorijus: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Prūsai: mention_match, group, gap=11"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Motiejus Pretorijus\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173643
 
@@ -119,22 +59,6 @@ Narbutas rašo, kad Pretorijus penkias pranašautojų rūšis pateikė remdamasi
 - t-005
   global_id: t-190762
   teiginys: "Pretorijus teigė, kad Sasavos tvirtovė buvo prie Šyšos upės, kuri anksčiau turėjusi vadintis Cyse arba Sussa."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Sasava (Salavijos tvirtovė) priklausė Nadruva (0.73)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "670248-670751; hash=ccef6a95ef7400d49031df36e6472f4f7f12c3839c98293e25802cb8d7c3af60; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Nadruva: 0.73"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Sasava (Salavijos tvirtovė): llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Nadruva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata nurodo, kad ši vieta, Narbuto nuomone, priklauso Nadruvai; tai palaiko vietos priklausymo vietovei ryšį."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173644
 ## Reikšmingi paminėjimai
@@ -156,8 +80,8 @@ Narbutas rašo, kad Pretorijus penkias pranašautojų rūšis pateikė remdamasi
     teliu uždengiamą ryką; iš alaus šnypštimo spėdavo slaptus da­
     lykus, ypač apie pamestus daiktus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -175,8 +99,8 @@ Narbutas rašo, kad Pretorijus penkias pranašautojų rūšis pateikė remdamasi
     Burtininkė (Burte)
     Lietuvių barde -  Burtyniczka.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -196,8 +120,8 @@ Narbutas rašo, kad Pretorijus penkias pranašautojų rūšis pateikė remdamasi
     ties pavadinimo ežero, buvęs Truso prekybos miestas, da­
     bar netoli šiandienio Elbliongo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -216,8 +140,8 @@ Narbutas rašo, kad Pretorijus penkias pranašautojų rūšis pateikė remdamasi
     jog 859 metais variagai paskyrė kailių duoklę, be kitų, ir
     krivičiams.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -241,8 +165,8 @@ Narbutas rašo, kad Pretorijus penkias pranašautojų rūšis pateikė remdamasi
     tai labiau primena šį pavadinimą, nors ši vieta, mūsų
     nuomone, priklauso Nadruvai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -277,7 +201,8 @@ Narbutas rašo, kad Pretorijus penkias pranašautojų rūšis pateikė remdamasi
 - id: c-173213
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 301"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 301."
   citata_originali: |
     Daugeliu požiūrių
     šios žynės buvo Antikos bakchančių pamėgdžiojimas.
@@ -296,7 +221,8 @@ Narbutas rašo, kad Pretorijus penkias pranašautojų rūšis pateikė remdamasi
 - id: c-173642
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 263"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 263."
   citata_originali: |
     Pavadinimą gavo nuo Jesse, ar­
     ba Wesseke, upės, prie kurios ir buvo jos žemės; šios sri­
@@ -317,7 +243,8 @@ Narbutas rašo, kad Pretorijus penkias pranašautojų rūšis pateikė remdamasi
 - id: c-173643
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 341"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 341."
   citata_originali: |
     Tai, žinoma, vien panašumai, kuriuos
     pastebėjo dar Bachmeisteris. Be to, ir Pretorijus sako,

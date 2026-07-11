@@ -36,17 +36,6 @@ M. Akelaičio „Słowko o bogach Litewskich“ paskelbta „Biblioteka Warszaws
 - t-001
   global_id: t-190516
   teiginys: "M. Akelaičio „Słowko o bogach Litewskich“ paskelbta „Biblioteka Warszawska“ 1858 m. trečiame tome, p. 192-195."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1858 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Bibliografinė nuotrupa perrašyta į pilną sakinį apie patį tekstą. Nepridėta jokio turinio vertinimo ar santraukos, nes citata pateikia tik publikacijos duomenis."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "68196-68310; hash=c6b25bdec618a3bdcce518901fecc5b40a128d4b4761613199d1a5814dbd08cd; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173399
 ## Reikšmingi paminėjimai
@@ -58,8 +47,8 @@ M. Akelaičio „Słowko o bogach Litewskich“ paskelbta „Biblioteka Warszaws
     25 Akielewicz М. Stowko о bogach Litewskich // Biblioteka Wars-
     zawska. -  Warszawa, 1858. -  T. 3. -  S. 192-195.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -70,7 +59,8 @@ M. Akelaičio „Słowko o bogach Litewskich“ paskelbta „Biblioteka Warszaws
 - id: c-173399
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 37"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 37."
   citata_originali: |
     25 Akielewicz М. Stowko о bogach Litewskich // Biblioteka Wars-
     zawska. -  Warszawa, 1858. -  T. 3. -  S. 192-195.

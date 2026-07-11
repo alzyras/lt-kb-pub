@@ -30,21 +30,6 @@ Kozmo Prahiečio biografijos duomenimis, Narbutas Siggo vadina stabmeldžių žy
 - t-001
   global_id: t-190209
   teiginys: "Kozmo Prahiečio biografijos duomenimis, Narbutas Siggo vadina stabmeldžių žyniu ir prūsų minios vadu, užpuolusiu šventąjį Adalbertą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "514687-515217; hash=6caaff7d649ec543fa899947a7e706daac5284fe16d9b9fc94b351e9681faa07; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Prūsai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Siggo: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Prūsai: mention_match, group, gap=34"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Siggo\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173092
 - susijęs iš [[objektai/asmenys/Kozmas Prahietis.md#claim-t-190174|Kozmas Prahietis]]: Narbutas Kozmui Prahiečiui priskiria šventojo Adalberto biografiją, kurioje Siggo vaizduojamas kaip prūsų minios vadas ir pirmasis žudikas.
@@ -64,8 +49,8 @@ Kozmo Prahiečio biografijos duomenimis, Narbutas Siggo vadina stabmeldžių žy
     ankstesnių kronikininkų mintį, tai yra kad tai buvo dvasinin­
     kai, gyvenę bendruomenėje su tam tikromis teisėmis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -76,7 +61,8 @@ Kozmo Prahiečio biografijos duomenimis, Narbutas Siggo vadina stabmeldžių žy
 - id: c-173092
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 294"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 294."
   citata_originali: |
     Tie žyniai buvo išskirtinai dievo Atrimpo arba
     Gardaičio tarnai, todėl jų būdavo pajūrio srityse. Iš šventojo

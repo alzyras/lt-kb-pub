@@ -40,17 +40,6 @@ Sūnui su Barbora atvykstant į Lenkiją, ji pasišalino su dukterimis į Mozūr
 - t-001
   global_id: t-52959
   teiginys: "Mozūrų kunigaikštis Konradas įkurdino vyskupą Kristijoną Kulmo žemės pakraštyje."
-  semantiniai_rysiai: "Kulmas priklausė Mozūrai (0.86)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "102741-103138; hash=aa3b34118dd876ff8d523ab2d3d1fc65ba25a943409fc861b0c97c7ee17bf1a3; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Mozūrai: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kulmas: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Mozūrai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Kulmas priklausė Mozūrams."
   pagrindžia:
     - c-54204
 
@@ -58,18 +47,6 @@ Sūnui su Barbora atvykstant į Lenkiją, ji pasišalino su dukterimis į Mozūr
 - t-002
   global_id: t-52960
   teiginys: "Kryžeiviams išvykus, prūsai nusiaubdavo Kulmą, Mozūrus ir aplinkinius krikščioniškuosius kraštus."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "103139-103499; hash=b6e990095092d1adf2a21e060bd3bcca30fa6de08732eec0ca11a0186398c07e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Albertas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mozūrai: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Albertas: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mozūrai\" parinktas kaip owner_note_path. Targetas \"Albertas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-46627
 ## Reikšmingi paminėjimai
@@ -86,8 +63,8 @@ Sūnui su Barbora atvykstant į Lenkiją, ji pasišalino su dukterimis į Mozūr
     ganizaciją krikščionių reikalams ginti, kokią vysk. Albertas bu-
     vo įkūręs Livonijoj.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -105,8 +82,8 @@ Sūnui su Barbora atvykstant į Lenkiją, ji pasišalino su dukterimis į Mozūr
     mės pakraštėj. Naujosios sodybos ir dovanotieji turtai turėjo
     būti veikimo bazė vyskupui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -152,6 +129,3 @@ Sūnui su Barbora atvykstant į Lenkiją, ji pasišalino su dukterimis į Mozūr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-52959
-
-## Ryšiai
-- Turėjo priklausinį: [[objektai/vietos/Kulmas]]

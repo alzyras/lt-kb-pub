@@ -56,19 +56,6 @@ Vytauto veiksmai sutrikdė ordino kariuomenės aprūpinimą.
 - t-006
   global_id: t-66998
   teiginys: "1377 m. žygis buvo pirmas žinomas Vytauto savarankiškas pasirodymas karo lauke."
-  temporaliniai_duomenys: "mūšio data: 1377 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, faktinis ir paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "669244-669604; hash=ea6660135a2328ef9576cb393a5c65a0ba6ab387cbac0782c1000c11690fd1f6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> žygis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytauto žygis į Ordino žemes (1377 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "žygis: mention_match, thing, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytauto žygis į Ordino žemes (1377 m.)\" parinktas kaip owner_note_path. Targetas \"žygis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-14188
 
@@ -76,17 +63,6 @@ Vytauto veiksmai sutrikdė ordino kariuomenės aprūpinimą.
 - t-005
   global_id: t-66999
   teiginys: "Kęstučio lieptas Vytautas sunaikino ordino maisto atsargas nuo Nemuno iki Tamovos, todėl kryžiuočiai šešias dienas neturėjo duonos ir pašaro."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į Užnemunė (0.88); Vytautas (Lietuvos valdovas, XIV–XV a.) puolė Kryžiuočių ordinas (0.72)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "46899-47615; hash=34c35244f268dd4575e662bfcbc00a77f93d7fa8ebb45feb91945b0b2bd0e5bd; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Užnemunė: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Užnemunė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Vytautas buvo pasiųstas į Užnemunę."
   pagrindžia:
     - c-14187
 
@@ -94,19 +70,6 @@ Vytauto veiksmai sutrikdė ordino kariuomenės aprūpinimą.
 - t-004
   global_id: t-67000
   teiginys: "1377 m. Vytautas, tėvo pavedamas, surengė žygį į Ordino žemes ir pasirodė kaip savarankiškas lietuvių kariuomenės vadas."
-  temporaliniai_duomenys: "įvykio data: 1377 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir atitinka citatoje nurodytus faktus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "46696-46898; hash=1f021425403b9f64c145bee767db78ed406516df714de4a829c16726d43a5616; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytauto žygis į Ordino žemes (1377 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=85"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytauto žygis į Ordino žemes (1377 m.)\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-14186
 ## Reikšmingi paminėjimai
@@ -119,8 +82,8 @@ Vytauto veiksmai sutrikdė ordino kariuomenės aprūpinimą.
     sant, į Ordino žemes. Tuokart jis pasirodė savarankiškas lie­
     tuvių kariuomenės vadas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -142,8 +105,8 @@ Vytauto veiksmai sutrikdė ordino kariuomenės aprūpinimą.
     žiuočiai, kaip rašo kronikininkas Vygandas Marburgietis, šešias
     dienas turėjo išbūti nematę duonos, o arkliai — pašaro^1 ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -159,8 +122,8 @@ Vytauto veiksmai sutrikdė ordino kariuomenės aprūpinimą.
     jog grįžtanti kariuomenė turėjo badauti. Kai kurie kareiviai,
     sako, nematę duonos bent po šešias dienas.^4 ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

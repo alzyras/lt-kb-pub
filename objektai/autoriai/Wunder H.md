@@ -43,19 +43,6 @@ Dusburgietis teigia, kad senuoju prūsišku vardu vadino pilį ir kryžiuočiai 
 - t-001
   global_id: t-60635
   teiginys: "H. Wunderio darbas cituojamas aiškinant, kad 1239 m. dokumente kryžiuočiai pilį vadino Kirsberg."
-  temporaliniai_duomenys: "įvykio data: 1239 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys buvo negramatiškas ir per daug apkrautas citavimo detalėmis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "323876-324456; hash=b03b24dec1898bd53bbffaa770d85a56529b8198c551d9c65e376c850a28f800; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kristburgas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Wunder H: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Kristburgas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Wunder H\" parinktas kaip owner_note_path. Targetas \"Kristburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-61267
 ## Reikšmingi paminėjimai
@@ -72,8 +59,8 @@ Dusburgietis teigia, kad senuoju prūsišku vardu vadino pilį ir kryžiuočiai 
     paimta Kristaus gimimo naktį ir todėl pavadinta Kristburgu (žr. SRP, 1, p. 83, išnaša
     5; Kujot S., Dzieje Prus..., 1, p. 730—731).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -84,7 +71,8 @@ Dusburgietis teigia, kad senuoju prūsišku vardu vadino pilį ir kryžiuočiai 
 - id: c-61267
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 98"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 98."
   citata_originali: |
     Prūsų kalboje šis vardas tikriausiai skambėjo *Kirsapilis, t. y. ’Viršpilis’ (plg. Kirsmemela
     ir pan., III, 315 paaiškinimą. Elementą kirsa, tik su protetinius — turi Skirsnemunė (:

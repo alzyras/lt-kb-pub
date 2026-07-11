@@ -30,22 +30,6 @@ Teodoras Narbutas Kandaksą vadino skirių ir sudargų vadu ar karaliuku, kuriam
 - t-001
   global_id: t-191287
   teiginys: "Teodoras Narbutas Kandaksą vadino skirių ir sudargų vadu ar karaliuku, kuriam vadovaujant šios gentys kūrėsi Mažojoje Skitijoje ir žemutinėje Mezijoje."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Skiriai gyveno Skitija (0.78); Sudargai gyveno Skitija (0.78)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "524870-525446; hash=3d74dd725956bba8175b44f67991a4972990432dcb9c70b5dd8115c702089e43; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Skitija: 0.78"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Sudargai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Skitija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekste sakoma, kad sudargai kartu su skiriais kūrėsi Mažojoje Skitijoje."
-  vertinimo_atnaujinta: "2026-07-06T03:41:43Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174169
 ## Reikšmingi paminėjimai
@@ -69,8 +53,8 @@ Teodoras Narbutas Kandaksą vadino skirių ir sudargų vadu ar karaliuku, kuriam
     varginti, beveik be paliovos puldinėję imperijos žemes,
     ėmė mąstyti apie įsikūrimą vienoje vietoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

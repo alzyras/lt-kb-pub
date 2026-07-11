@@ -56,9 +56,6 @@ Nenurodyta
 - t-004
   global_id: t-67116
   teiginys: "Traukiant į karę žalčio pasirodymas kelyje buvo laikomas laimės ženklu."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "357621-357717; hash=f5268e50fefa47bf29892294f96e6d1e2dabcbccb3a3dc96501af25dee10d292; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-10005
 
@@ -66,16 +63,6 @@ Nenurodyta
 - t-003
   global_id: t-67117
   teiginys: "Prieš pradėdami karą senovės kalnėnai ir žemaičiai pirmiausia klausdavo žynių apie būsimą laimę."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "356971-357620; hash=e083f9f004f38e713ede08a2d4ccfd563085e0eae3e1212d15cbecbb44a3b682; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kalnėnai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Karo būrimas prieš žygį iš žynių, žvalgo kraujo ir žalčio ženklų: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Kalnėnai: mention_match, group, gap=29"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Karo būrimas prieš žygį iš žynių, žvalgo kraujo ir žalčio ženklų\" parinktas kaip owner_note_path. Targetas \"Kalnėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-10004
 ## Reikšmingi paminėjimai
@@ -91,8 +78,8 @@ Nenurodyta
         laimės, nesgi tas buvo ženklu, jog dievai suteiks jiems pergalę, bet jei kraujas sulojo^1333 , tad reiškė
         sau atenčioj karėj nelaimę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -104,8 +91,8 @@ Nenurodyta
     Lygia dalia traukdami į karę kad išvydo žaltį, slenkantį per kelią, taip pat
         tarės laimėsiantys.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

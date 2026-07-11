@@ -41,12 +41,6 @@ Gavę žinią apie skitų antplūdį, vieni, vadovau jami Naugarduko vaivados Al
 - t-001
   global_id: t-193509
   teiginys: "Gavę žinią apie skitų antplūdį, vieni, vadovau jami Naugarduko vaivados Alberto Goštauto, subruz do ginti pilies, o kiti pasitraukė už Nemuno."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1033735-1034131; hash=d421ae8f4996e2a5802d8327f61b095fe829c2dd2bcd5ab10bd0c07a5c8478fa; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176189
 
@@ -54,12 +48,6 @@ Gavę žinią apie skitų antplūdį, vieni, vadovau jami Naugarduko vaivados Al
 - t-002
   global_id: t-193895
   teiginys: "Ir kai jie nujojo į medžioklės vietą, girių sargai, ra tu saugantys medžioklės vietą, pamatė ginkluotus vy rus ir pranešė apie tai didžiojo kunigaikščio rūmų mar šalui Andriui Goštautui 7 ; tasai, nors buvo jaunas, su mojo greitai pasiimti didįjį kunigaikštį."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "230965-231575; hash=23825368643fba616b82c8f976cde4d6862b7ecee7d06cd0d816288ee5b25305; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176520
 
@@ -67,12 +55,6 @@ Gavę žinią apie skitų antplūdį, vieni, vadovau jami Naugarduko vaivados Al
 - t-003
   global_id: t-194220
   teiginys: "Taip pat šiek tiek vėliau, 1529 metais, Albertas Goš tautas, Vilniaus vaivada ir LDK kancleris, gavo karaliaus lei dimą priešais Žemutinės Vilniaus pilies vartus, per Vilijos upę nutiesti tiltą iš akmenų arba plytų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "534104-534604; hash=dc6eb1dc453f9c1d9a5187a046820aee058b0c4679177a74697c6f06b38a805f; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176821
 ## Reikšmingi paminėjimai
@@ -90,8 +72,8 @@ Gavę žinią apie skitų antplūdį, vieni, vadovau jami Naugarduko vaivados Al
     įžengęs į tuščią miestą, įsakė lengvai ginkluotiems rai­
     teliams vytis bėgančiuosius, o su kitais apgulė pilį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -117,8 +99,8 @@ Gavę žinią apie skitų antplūdį, vieni, vadovau jami Naugarduko vaivados Al
     nųjų Trakų ir, labai apgailestaudamas dėl to, skubiai
     siunčia jų vytis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -138,8 +120,8 @@ Gavę žinią apie skitų antplūdį, vieni, vadovau jami Naugarduko vaivados Al
     kliams būdeles, arba stogines, ir iš jų jis pats ir jo palikuonys
     gavo teisę visiems laikams imti mokestį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -150,7 +132,8 @@ Gavę žinią apie skitų antplūdį, vieni, vadovau jami Naugarduko vaivados Al
 - id: c-176189
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 583"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 583."
   citata_originali: |
     Tuo metu ten
     susirinkę didikai tarėsi, kaip susigerinti su karaliumi,

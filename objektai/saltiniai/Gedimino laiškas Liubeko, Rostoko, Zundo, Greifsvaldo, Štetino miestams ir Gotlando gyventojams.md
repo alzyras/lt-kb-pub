@@ -43,17 +43,6 @@ Po Gedimino, nužudyto 1337 metais prie Bajerburgo pi­ lies, per mylią nuo Vel
 - t-001
   global_id: t-88420
   teiginys: "Gedimino laiške šiaurės Vokietijos miestams ir Gotlando gyventojams nurodyta, kad į Vilnių atvykę kolonistai galės naudotis Rygos civiline teise."
-  semantiniai_rysiai: "Gediminas mirė Bajerburgas (0.87)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "77573-78603; hash=a2e4e272221314dc652e389bd667f4faacfcd51e1cfa0c0152fa2afd67af4e75; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "mire -> Bajerburgas: 0.87"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Bajerburgas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata nurodo Gedimino nužudymą prie Bajerburgo pilies."
   pagrindžia:
     - c-84399
 ## Reikšmingi paminėjimai
@@ -91,8 +80,8 @@ Po Gedimino, nužudyto 1337 metais prie Bajerburgo pi­ lies, per mylią nuo Vel
     gos miesto teise, jei paskui geriau ne­
     bus sumanyta išmintingųjų tarybos].
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

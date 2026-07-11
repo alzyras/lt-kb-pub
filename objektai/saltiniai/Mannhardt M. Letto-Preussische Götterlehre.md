@@ -38,12 +38,6 @@ Dusburgietis teigia, kad mannhardt M.
 - t-001
   global_id: t-61155
   teiginys: "M. Mannhardto „Letto-Preussische Götterlehre“ išleista Rygoje 1936 m."
-  temporaliniai_duomenys: "įvykio data: 1936 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pagrindžia autorių, pavadinimą, leidimo vietą ir metus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "818671-818806; hash=a250c7b69313e6251138616c85b335fc2126dbba21e6a9181b0cd6ff43c569ef; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-61787
 ## Reikšmingi paminėjimai
@@ -55,8 +49,8 @@ Dusburgietis teigia, kad mannhardt M.
     Mannhardt M. Letto-Preussische Götterlehre.—Riga, 1936.
       Odoj R. Dorobek archeologii na Warmii i Mazurach —Z otchłani wieków, 1965, z.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -67,7 +61,8 @@ Dusburgietis teigia, kad mannhardt M.
 - id: c-61787
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 278"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 278."
   citata_originali: |
     Mannhardt M. Letto-Preussische Götterlehre.—Riga, 1936.
       Odoj R. Dorobek archeologii na Warmii i Mazurach —Z otchłani wieków, 1965, z.

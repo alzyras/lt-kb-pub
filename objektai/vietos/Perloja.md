@@ -43,9 +43,6 @@ media_all_json: |-
 - t-001
   global_id: t-50179
   teiginys: "Gruodžio 16 d. Marcinkonių bataliono vyrai puolė Perlojos stribų įgulą ir ją sunaikino."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "953687-953995; hash=c92f33acc1c603c3876be45056eb66b3a767e343a9865914a5fb27a3af7889b7; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-43737
 
@@ -53,9 +50,6 @@ media_all_json: |-
 - t-001
   global_id: t-50179
   teiginys: "Gruodžio 16 d. Marcinkonių bataliono vyrai puolė Perlojos stribų įgulą ir ją sunaikino."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "953687-953995; hash=c92f33acc1c603c3876be45056eb66b3a767e343a9865914a5fb27a3af7889b7; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-43737
 
@@ -63,16 +57,6 @@ media_all_json: |-
 - t-002
   global_id: t-50180
   teiginys: "Kitą dieną Perlojoje Marcinkonių bataliono vyrai nukovė 5 stribus, o partizanai nuostolių nepatyrė."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "953996-954321; hash=891a38e6868ab843c808845360ecc0e3ed45c497aa7d1a8ad30b44f8f55ab121; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> NKVD: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Perloja: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "NKVD: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Perloja\" parinktas kaip owner_note_path. Targetas \"NKVD\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-43738
 
@@ -80,16 +64,6 @@ media_all_json: |-
 - t-004
   global_id: t-50181
   teiginys: "Kitą dieną Perlojoje Marcinkonių bataliono vyrai nukovė dar 5 stribus ir patys nuostolių nepatyrė."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "953996-954321; hash=891a38e6868ab843c808845360ecc0e3ed45c497aa7d1a8ad30b44f8f55ab121; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> NKVD: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Perloja: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "NKVD: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Perloja\" parinktas kaip owner_note_path. Targetas \"NKVD\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-43738
 - susijęs iš [[objektai/grupes/Marcinkonių batalionas.md#claim-t-41087|Marcinkonių batalionas]]: Marcinkonių bataliono vyrams buvo nesmagu dėl savo pavėlavimo į kautynes, todėl jie kitą, gruodžio 16 d. puolė Perlojos stribų įgulą ir ją sunaikino.
@@ -120,8 +94,8 @@ media_all_json: |-
     Operacijos metu žuvo 4 partizanai ir 2 buvo
     sužeisti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -140,8 +114,8 @@ media_all_json: |-
     ir nemažas kiekis šaudmenų, sunaikin-
     tas valsčius, dalinai milicija ir paštas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

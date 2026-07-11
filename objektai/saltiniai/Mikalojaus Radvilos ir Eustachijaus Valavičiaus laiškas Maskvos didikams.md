@@ -30,20 +30,6 @@ Mikalojus Radvila ir Eustachijus Valavičius laiške Maskvos didikams pareiškė
 - t-001
   global_id: t-186341
   teiginys: "Mikalojus Radvila ir Eustachijus Valavičius laiške Maskvos didikams pareiškė, kad Žygimantas Augustas vengė karo su Maskva."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Žygimantas Augustas (arkivyskupas, XVI a.) gynė Livonija (0.86); Žygimantas Augustas (arkivyskupas, XVI a.) gynė Lietuva (0.78)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1255312-1255957; hash=5ff1173f6fda949b9e344175a3f5b2a9c503a2f425bf87dc3ce152028503834e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyne -> Livonija: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Žygimantas Augustas (arkivyskupas, XVI a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Livonija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Žygimantas Augustas ketino ginti Livoniją."
   pagrindžia:
     - c-169702
 ## Reikšmingi paminėjimai
@@ -69,8 +55,8 @@ Mikalojus Radvila ir Eustachijus Valavičius laiške Maskvos didikams pareiškė
     v o n i ja
     23.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -81,7 +67,8 @@ Mikalojus Radvila ir Eustachijus Valavičius laiške Maskvos didikams pareiškė
 - id: c-169702
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 703"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 703."
   citata_originali: |
     Štai dėl to jis ir prašąs, kad, paisydamas
     paliaubų, kurios ligi šiol išsaugojo tarp jų šalių san­

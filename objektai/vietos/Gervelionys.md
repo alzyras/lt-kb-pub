@@ -30,14 +30,6 @@ Gervelionių akalicoje, vieno bajoro sode, stovėjo labai senos vinkšnos kelmas
 - t-001
   global_id: t-188948
   teiginys: "Gervelionių akalicoje, vieno bajoro sode, stovėjo labai senos vinkšnos kelmas, apačioje siekęs penkias uolektis."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "414488-414841; hash=1d5e85280f253aeb2afa643afb8957ae5af1a3ac828522851e9d85013063df14; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171837
 ## Reikšmingi paminėjimai
@@ -54,8 +46,8 @@ Gervelionių akalicoje, vieno bajoro sode, stovėjo labai senos vinkšnos kelmas
     uolektis; prieš 30 metų medis nulūžo; buvo nudžiūvęs nuo ne­
     atmenamų laikų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -66,7 +58,8 @@ Gervelionių akalicoje, vieno bajoro sode, stovėjo labai senos vinkšnos kelmas
 - id: c-171837
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 240"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 240."
   citata_originali: |
     Tikriausiai tai davė dingstį laikyti blindę šventa ir ma­
     nyti, kad ji galinti turėti įtakos vaisingumui.

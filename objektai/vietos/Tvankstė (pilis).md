@@ -33,18 +33,6 @@ Dusburgietis teigia, kad prie Upytės Tvankstė, miškas Tvankstė, Tvanksta (Tu
 - t-001
   global_id: t-58768
   teiginys: "Prie Upytės Tvankstė, miškas Tvankstė, Tvanksta (Tuwangste, Twangste), p. (žr."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "864603-864997; hash=05b02dcfdc825b63b66b6e6832696e7bb5b694a4f7c30f66d06f3f3d0abc24a5; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Tripolis: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Tvankstė (pilis): owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Tripolis: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tvankstė (pilis)\" parinktas kaip owner_note_path. Targetas \"Tripolis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
-  vertinimo_autorius: "claim_quality_pipeline / rewrite"
   pagrindžia:
     - c-59400
 - susijęs iš [[objektai/asmenys/Tirskas.md#claim-t-60068|Tirskas]]: Tirsko vedamas Karaliaučiaus komtūras su sembų kariuomene įsibrovė į Vonsdorfo žemę ir užkariavo Kapstetos pilį.
@@ -75,8 +63,8 @@ Dusburgietis teigia, kad prie Upytės Tvankstė, miškas Tvankstė, Tvanksta (Tu
 
       Unzatrapis (D.— Unsatrapis, literatūroje — Instraupis), ž.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -87,7 +75,8 @@ Dusburgietis teigia, kad prie Upytės Tvankstė, miškas Tvankstė, Tvanksta (Tu
 - id: c-59400
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 320"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 320."
   citata_originali: |
     Tropai)
       Traupis

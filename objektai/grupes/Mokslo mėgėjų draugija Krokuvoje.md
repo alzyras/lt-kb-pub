@@ -33,16 +33,6 @@ Iš Krokuvos atėjo į Vilnių prašymas, kad arčiau lietuvių stovįs universi
 - t-001
   global_id: t-01420
   teiginys: "Mokslo mėgėjų draugija Krokuvoje prašė Vilniaus universiteto patyrinėti lietuvių praeitį ir jai apie tai pranešti."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "912469-912898; hash=de0cad1680d57fc684ed07373f55022dd23c15ea3c5369d1e73210e692025036; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Krokuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mokslo mėgėjų draugija Krokuvoje: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Krokuva: mention_match, place, gap=23"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mokslo mėgėjų draugija Krokuvoje\" parinktas kaip owner_note_path. Targetas \"Krokuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-01658
 
@@ -50,19 +40,6 @@ Iš Krokuvos atėjo į Vilnių prašymas, kad arčiau lietuvių stovįs universi
 - t-002
   global_id: t-182910
   teiginys: "Krokuvos mokslininkai prašė Vilniaus universiteto patyrinėti lietuvių praeitį ir pranešti Mokslo Mėgėjų Draugijai Krokuvoje."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "912615-912994; hash=dc79127bb748fa8518ed5b19ead7b98d70a6064286b267cb0d2b676b7d936c4c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mokslo mėgėjų draugija Krokuvoje: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=52"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mokslo mėgėjų draugija Krokuvoje\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-166313
 ## Reikšmingi paminėjimai
@@ -86,8 +63,8 @@ Iš Krokuvos atėjo į Vilnių prašymas, kad arčiau lietuvių stovįs universi
     patyrinėtų jų praeitį ir šį
     tą praneštų Mokslo Mėgėjų Draugijai Krokuvoj.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -110,8 +87,8 @@ Iš Krokuvos atėjo į Vilnių prašymas, kad arčiau lietuvių stovįs universi
     nešimą Krokuvoje padarė Vilniaus universiteto garbės narys, uk-
     mergiškis kunigas Ks.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

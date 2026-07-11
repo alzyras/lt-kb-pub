@@ -61,20 +61,6 @@ Nenurodyta
 - t-001
   global_id: t-26416
   teiginys: "„Lituania Propria“ žemėlapis pateiktas Jono Žiliaus knygoje „The Boundaries of Lithuania“, išleistoje Paryžiuje 1920 m."
-  semantiniai_rysiai: "Žemėlapis „Lituania Propria“ priklausė Paryžius (0.62)"
-  temporaliniai_duomenys: "įvykio data: 1914 m.; įvykio data: 1920 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalintas puslapio triukšmas ir palikta citatos pagrįsta objekto informacija."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "250718-251976; hash=ec9f6b8acfe08e339463368958f4ebeb82acd57655879fed949e4ad3278572a8; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Paryžius: 0.62"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Žemėlapis „Lituania Propria“: llm_allowed_candidate, thing"
-  ryšio_targeto_parinkimas: "Paryžius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys nurodo, kad knyga, kurioje pateiktas žemėlapis, išleista Paryžiuje."
   pagrindžia:
     - c-26641
 - susijęs iš The Boundaries of Lithuania: Jono Žiliaus knygoje „The Boundaries of Lithuania“, išleistoje Paryžiuje 1920 m., buvo žemėlapis „Lituania Propria“.
@@ -109,8 +95,8 @@ Nenurodyta
     esančias apie Nemuną – Didžiąją ir Mažąją (Rytų Prūsiją), kad tokia Lie-
     tuva norėtų gauti autonomiją Rusijos tautų šeimoje), rusai nutylėjo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -155,6 +141,3 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-26416
-
-## Ryšiai
-- Žemėlapis „Lituania Propria“ priklausė [[objektai/vietos/Paryžius]]

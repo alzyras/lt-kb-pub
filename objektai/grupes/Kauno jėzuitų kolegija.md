@@ -38,19 +38,6 @@ Jo Karališkosios Didenybės sekretorius Adrijanas Vežbickis, užrašydamas Blo
 - t-001
   global_id: t-86798
   teiginys: "1746 m. Kazimieras ir Mykolas Vežbickiai nupirko sklypus Užupyje su Kauno jėzuitų kolegijos pastatais."
-  temporaliniai_duomenys: "pastatymo data: 1746 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys buvo apie kitą kolegiją, bet citata pagrindžia faktą apie Kauno jėzuitų kolegiją."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "393268-394302; hash=6ce318841a2511391c8fdf7bc2d3bb075503115432844978b8ba428ca8772478; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kaunas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kauno jėzuitų kolegija: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Kaunas: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kauno jėzuitų kolegija\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-82777
 ## Reikšmingi paminėjimai
@@ -85,8 +72,8 @@ Jo Karališkosios Didenybės sekretorius Adrijanas Vežbickis, užrašydamas Blo
     nių namų, tiek ir iš sklypų pelnomų, jas užrašė bibliotekai
     knygų gausinimo dėlei.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

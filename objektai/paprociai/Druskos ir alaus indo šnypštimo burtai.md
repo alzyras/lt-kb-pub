@@ -45,14 +45,6 @@ Nenurodyta
 - t-001
   global_id: t-194812
   teiginys: "Paimdavo į saują druskos, pašnibždėdavo ir pūsdavo, tada įmesdavo į dang- 31 Vėjininkai (Wejones) Šias penkias pranašautojų rūšis pateikia Pretorijus, remdama sis savais pastebėjimais, ką buvo matęs savo akimis."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "521837-522222; hash=19d44435c0b4428bde67ea5cf0608bf36b15161c9e13c4318507a5cc883c6259; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-177208
 ## Reikšmingi paminėjimai
@@ -76,8 +68,8 @@ Nenurodyta
     Zihlneeki (ateities spėjikai)
     Kitaip -  Zihmlehmi.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

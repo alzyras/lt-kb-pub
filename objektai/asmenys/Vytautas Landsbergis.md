@@ -45,18 +45,6 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
 - t-010
   global_id: t-170245
   teiginys: "Vytautas Landsbergis ir B. Jelcinas 1991 m. liepos 29 d. buvo savo šalių parlamentų pirmininkai."
-  temporaliniai_duomenys: "įvykio data: po 1991 m.; įvykio data: 1991 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "527363-527926; hash=f65014b63600bc2df5b422e849b90ae97fcd1fe614d53477bd5b4d794ea09b51; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Borisas Jelcinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas Landsbergis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Borisas Jelcinas: mention_match, person, gap=27"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas Landsbergis\" parinktas kaip owner_note_path. Targetas \"Borisas Jelcinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-154926
 
@@ -64,19 +52,6 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
 - t-008
   global_id: t-170246
   teiginys: "1992 m. Vilniuje Seimo pirmininkas Vytautas Landsbergis prie Aušros vartų buvo su Prancūzijos prezidentu Fransua Miteranu."
-  temporaliniai_duomenys: "įvykio data: 1992 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata patvirtina vizito nuotraukos aplinkybę, bet ne teiginį, kad Landsbergis Miteraną priėmė."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "511972-512304; hash=05437d5deefa9e08a370934010f2123fc2eeac1790c793ddd4a6ea5a652ab624; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Prancūzija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas Landsbergis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Prancūzija: mention_match, place, gap=47"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas Landsbergis\" parinktas kaip owner_note_path. Targetas \"Prancūzija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-154922
 
@@ -84,16 +59,6 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
 - t-009
   global_id: t-170247
   teiginys: "Dauguma Lietuvos gyventojų dėl žemės reformos nesėkmių kaltino tuometinį Lietuvos Aukščiausiosios Tarybos pirmininką Vytautą Landsbergį."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "517853-518527; hash=d79fb5a27a8ff956870f6d6cd6de338e9d3fb7362cf76a5eb9d56a0704908dfa; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aukščiausiosios Tarybos rūmai (institucija): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas Landsbergis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Aukščiausiosios Tarybos rūmai (institucija): mention_match, place, gap=35"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas Landsbergis\" parinktas kaip owner_note_path. Targetas \"Aukščiausiosios Tarybos rūmai (institucija)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-154923
 
@@ -101,19 +66,6 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
 - t-003
   global_id: t-170248
   teiginys: "Sausio 12 d. Vytautas Landsbergis vadovavo Aukščiausiajai Tarybai - Atkuriamajam Seimui, priėmusiam nutarimą „Dėl priemonių Lietuvos Respublikai ginti“."
-  semantiniai_rysiai: "Vytautas Landsbergis gynė Lietuva (0.64)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1020058-1020404; hash=047c67f812a8009116065bed6de0374a60d0dd391228e6bbe2087da9857fff82; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyne -> Lietuva: 0.64"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas Landsbergis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Landsbergio vadovaujama taryba priėmė nutarimą dėl Lietuvos Respublikos gynimo."
-  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-154921
 
@@ -121,19 +73,6 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
 - t-002
   global_id: t-170249
   teiginys: "1991 m. sausio 13 d. Vytautas Landsbergis ragino prie parlamento susirinkusius žmones užslopinti pyktį, nepasiduoti provokacijoms ir dainuoti."
-  temporaliniai_duomenys: "įvykio data: 1991 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie Vytautą Landsbergį."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "503430-503724; hash=6a43062588788dbeda654e258aeecb883c352183754374e43fc5a35d0f0d2d6f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas Landsbergis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas Landsbergis\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-154919
 
@@ -141,19 +80,6 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
 - t-007
   global_id: t-170250
   teiginys: "1996 m. Seimo rinkimuose sėkmė lydėjo Vytauto Landsbergio vadovaujamus konservatorius."
-  temporaliniai_duomenys: "įvykio data: 1992 m.; įvykio data: 1993 m.; įvykio data: 1996 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys yra fragmentas; citata pagrindžia konkretų politinį faktą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "511211-511639; hash=733bdbb8d34d03aa05cf3a656f7a00d731a4de5f638e6e0f6546a26fa886df6e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas Landsbergis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas Landsbergis\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-154924
 
@@ -161,19 +87,6 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
 - t-002
   global_id: t-170249
   teiginys: "1991 m. sausio 13 d. Vytautas Landsbergis ragino prie parlamento susirinkusius žmones užslopinti pyktį, nepasiduoti provokacijoms ir dainuoti."
-  temporaliniai_duomenys: "įvykio data: 1991 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie Vytautą Landsbergį."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "503430-503724; hash=6a43062588788dbeda654e258aeecb883c352183754374e43fc5a35d0f0d2d6f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas Landsbergis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas Landsbergis\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-154919
 
@@ -181,20 +94,6 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
 - t-004
   global_id: t-170253
   teiginys: "1991 m. sausio 13 d. Vytautas Landsbergis buvo Aukščiausiosios Tarybos pirmininkas ir šalies vadovas."
-  semantiniai_rysiai: "ATAS gynė Vytautas Landsbergis (0.82)"
-  temporaliniai_duomenys: "įvykio data: 1991 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1129656-1129853; hash=d7ed66797d827869c25312b812b261df9627777af6085b9b6bea51a74ed1f36a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyne -> Vytautas Landsbergis: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "ATAS: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vytautas Landsbergis: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "ATAS pareigūnai tiesiogiai saugojo Vytautą Landsbergį."
   pagrindžia:
     - c-42328
 - susijęs iš [[objektai/asmenys/Borisas Jelcinas.md#claim-t-63519|Borisas Jelcinas]]: 1991 m. liepos 29 d. Borisas Jelcinas ir Vytautas Landsbergis pasirašė Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį.
@@ -222,8 +121,8 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
     sausio 13 d. saugomas ATAS (Aukščiausiosios Tarybos Apsaugos skyriaus) pareigūnų,
     Romualdo Požerskio nuotr.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -242,8 +141,8 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
     246
     dainuoti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -264,8 +163,8 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
     jos komitetą, o tankų ir šarvuočių vora
     pajudėjo Parlamento link.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -283,8 +182,8 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
     su svečiu Vilniaus senamiestyje  prie Aušros vartų.
     Vilnius, 1992 m.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -306,8 +205,8 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
     privatizavimą vykdyti nesilaikant viešojo konkurso procedūrų, pusvelčiui
     į privačias rankas perleisti valstybės turtą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -325,8 +224,8 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
     sakoma, kad Lietuvos visuomenė suskilo į „brazauskininkus“ ir „lands-
     bergininkus“.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -344,8 +243,8 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
     Abiejų šalių parlamentų pirmininkai – V. Landsbergis ir B. Jelcinas – ją
     pasirašė 1991 m. liepos 29 d. (įsigaliojo po metų).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -497,9 +396,5 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
     - t-170245
 
 ## Ryšiai
-- Gynė Vytautas Landsbergį: [[objektai/grupes/ATAS]]
 - Sudarė sutartį su: [[objektai/asmenys/Borisas Jelcinas]]
-- Paskyrė Vytautas Landsbergį: [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis]]
-- Vytautas Landsbergis keliavo į [[objektai/vietos/Aušros vartai]]
-- Vytautas Landsbergis gynė [[objektai/vietos/Lietuva]]
 - Vytautas Landsbergis sudarė sutartį su [[objektai/asmenys/Borisas Jelcinas]]

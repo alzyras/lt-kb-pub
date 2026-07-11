@@ -33,17 +33,6 @@ Dusburgietis teigia, kad tada karalius įsibrovė į Sembą su savo kariuomene n
 - t-002
   global_id: t-58593
   teiginys: "Medenava buvo to paties vardo valsčiaus centras pietvakarių Semboje."
-  semantiniai_rysiai: "Medenava priklausė Semba (0.80)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "346326-346593; hash=e0ab3421588ccd861e3abe1c1b636e0f674213b5fc1739625649d10afdfcf5cc; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Semba: 0.80"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Medenava: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Semba: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Medenava lokalizuojama pietvakarių Semboje."
   pagrindžia:
     - c-59224
 - susijęs iš [[objektai/asmenys/Gedūnas.md#claim-t-60016|Gedūnas]]: Gedūnas buvo senas vyras iš Kandeimu vadinamos šakos, Visigaudo iš Medenavos tėvas, gerai žinojęs Sembos karių galią.
@@ -62,8 +51,8 @@ Dusburgietis teigia, kad tada karalius įsibrovė į Sembą su savo kariuomene n
       321 D.— Medenow, Jer. — Medenouwe; Medenava (vėliau — Medenau, dab. Logvinovas),
     to pat vardo valsčiaus centras pietvakarių Semboje.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -74,7 +63,8 @@ Dusburgietis teigia, kad tada karalius įsibrovė į Sembą su savo kariuomene n
 - id: c-59224
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 105"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 105."
   citata_originali: |
     Kitą dieną patraukė  į Rudavos valsčių ir ten
     pat, smogęs galingą smūgį, užėmė pilį323; toje vietoje buvo išžudyta tiek daug sembų,
@@ -87,6 +77,3 @@ Dusburgietis teigia, kad tada karalius įsibrovė į Sembą su savo kariuomene n
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58593
-
-## Ryšiai
-- Medenava priklausė [[objektai/vietos/Semba]]

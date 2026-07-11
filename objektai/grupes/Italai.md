@@ -30,14 +30,6 @@ Jau vien mūsų dalyko dėstymas iš esmės paneigia šią nuomo Tradunt veteres
 - t-001
   global_id: t-194862
   teiginys: "Jau vien mūsų dalyko dėstymas iš esmės paneigia šią nuomo Tradunt veteres, majores Samogitarum Italos fuisse."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "351414-352005; hash=4a42b172e6ec29ec5aaa1e9af8e2d4a4b2c8b60aef243f5581a4c788f4896303; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-177258
 - susijęs iš [[objektai/asmenys/Džiovani Ramusio.md#claim-t-191388|Džiovani Ramusio]]: Džiovani Ramusio Narbuto tekste nurodomas kaip italų Rytų senovės tyrinėtojas, įrodinėjęs osų arba osetinų ryšį su senovės alanais.
@@ -79,8 +71,8 @@ Jau vien mūsų dalyko dėstymas iš esmės paneigia šią nuomo Tradunt veteres
     Romana venatio fuit, quique hodie magna ex parte excii jam, Russiae,
     Podoliae, Lituaniaeque cognomina habent, usque ad mare Balticum...
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -91,7 +83,8 @@ Jau vien mūsų dalyko dėstymas iš esmės paneigia šią nuomo Tradunt veteres
 - id: c-177258
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 191"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 191."
   citata_originali: |
     Jau
     vien mūsų dalyko dėstymas iš esmės paneigia šią nuomo­

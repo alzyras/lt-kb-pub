@@ -40,12 +40,6 @@ Dusburgietis teigia, kad voigt J.
 - t-001
   global_id: t-61352
   teiginys: "J. Voigto „Geschichte Marienburg“ išleista Karaliaučiuje 1824 m."
-  temporaliniai_duomenys: "įvykio data: 1824 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pateikia leidinio pavadinimą, vietą ir metus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "804013-804063; hash=9c3552e0780bd53ce5abe91c2725e184552c8ba568c62ef332feb9b5da449c40; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-61984
 ## Reikšmingi paminėjimai
@@ -56,8 +50,8 @@ Dusburgietis teigia, kad voigt J.
   citata_originali: |
     Voigt J. Geschichte Marienburg.— Königsberg, 1824.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -68,7 +62,8 @@ Dusburgietis teigia, kad voigt J.
 - id: c-61984
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 273"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 273."
   citata_originali: |
     Voigt J. Geschichte Marienburg.— Königsberg, 1824.
   statusas: verified

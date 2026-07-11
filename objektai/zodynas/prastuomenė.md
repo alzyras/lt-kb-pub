@@ -30,21 +30,6 @@ Išbadėjusi prastuomenė ir eiliniai kariai sukilo prieš Švitrigailą, todėl
 - t-001
   global_id: t-185408
   teiginys: "Išbadėjusi prastuomenė ir eiliniai kariai sukilo prieš Švitrigailą, todėl pilis atiteko Vytautui."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "606463-606998; hash=6081b85847ca6db239b30a78311a32a958f14be3aea48360720135b5990adebe; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Švitrigaila: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "prastuomenė: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Švitrigaila: mention_match, person, gap=44"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"prastuomenė\" parinktas kaip owner_note_path. Targetas \"Švitrigaila\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-168769
 - susijęs iš [[objektai/ivykiai/Vilniaus pranciškonų nužudymas apie 1345 m..md#claim-t-55145|Vilniaus pranciškonų nužudymas apie 1345 m.]]: Apie 1345 m. Vilniaus prastuomenė smurtu užėmė pranciškonų vienuolyną ir nužudė keturiolika vienuolių.
@@ -70,8 +55,8 @@ Išbadėjusi prastuomenė ir eiliniai kariai sukilo prieš Švitrigailą, todėl
     ti bado, kilusioje maišatyje, nors Švitrigaila dar bergž­
     džiai priešinosi, pilis atiteko Vytautui.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -82,7 +67,8 @@ Išbadėjusi prastuomenė ir eiliniai kariai sukilo prieš Švitrigailą, todėl
 - id: c-168769
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 348"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 348."
   citata_originali: |
     Ši aplinkybė daugiausia ir lėmė jų greitą žūtį. Juo
     daugiau žmonių, vaikų bei moterų, suplūdo į pilį, juo

@@ -43,19 +43,6 @@ media_all_json: |-
 - t-008
   global_id: t-80590
   teiginys: "Žuvinto ežeras ir Palios buvo apsupti šarvuočių."
-  semantiniai_rysiai: "NKVD apgulė Žuvinto ežeras (0.76)"
-  temporaliniai_duomenys: "įvykio data: 1945 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "930630-931219; hash=6795fe969c91f645f0d627673d63050089e7b5bb73ca07d3c38fe2966fa25a9c; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  ryšio_patikimumas: "apgule -> Žuvinto ežeras: 0.76"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "NKVD: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Žuvinto ežeras: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citatos kontekste NKVD pajėgos vykdė operaciją, o Žuvinto ežeras buvo apsuptas šarvuočių."
   pagrindžia:
     - c-77306
 
@@ -63,16 +50,6 @@ media_all_json: |-
 - t-005
   global_id: t-80591
   teiginys: "Liepos 13 d. Dzūkų būrio partizanai prie Žuvinto ežero susidūrė su pasaloje laukusiais NKVD kareiviais ir vietiniais stribais."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "930059-930416; hash=902dd49a245893e1322440c62a3f4461850077adb0e34855cb7c9b7931ac253c; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  ryšio_patikimumas: "susije_su -> NKVD: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žuvinto ežeras: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "NKVD: mention_match, group, gap=46"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žuvinto ežeras\" parinktas kaip owner_note_path. Targetas \"NKVD\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-44123
 
@@ -80,19 +57,6 @@ media_all_json: |-
 - t-004
   global_id: t-80592
   teiginys: "Žuvinto ežerą ir Palias buvo apsupę šarvuočiai, o lėktuvai raketų šūviais nurodydavo įtartinas ežero vietas."
-  semantiniai_rysiai: "NKVD apgulė Žuvinto ežeras (0.76)"
-  temporaliniai_duomenys: "įvykio data: 1945 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "930630-931219; hash=6795fe969c91f645f0d627673d63050089e7b5bb73ca07d3c38fe2966fa25a9c; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  ryšio_patikimumas: "apgule -> Žuvinto ežeras: 0.76"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "NKVD: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Žuvinto ežeras: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Ankstesnis sakinys įvardija NKVD pajėgas, o kitas sakinys nurodo Žuvinto ežero apsuptį."
   pagrindžia:
     - c-77306
 
@@ -100,16 +64,6 @@ media_all_json: |-
 - t-005
   global_id: t-80591
   teiginys: "Liepos 13 d. Dzūkų būrio partizanai prie Žuvinto ežero susidūrė su pasaloje laukusiais NKVD kareiviais ir vietiniais stribais."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "930059-930416; hash=902dd49a245893e1322440c62a3f4461850077adb0e34855cb7c9b7931ac253c; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  ryšio_patikimumas: "susije_su -> NKVD: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žuvinto ežeras: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "NKVD: mention_match, group, gap=46"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žuvinto ežeras\" parinktas kaip owner_note_path. Targetas \"NKVD\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-44123
 
@@ -117,16 +71,6 @@ media_all_json: |-
 - t-009
   global_id: t-80594
   teiginys: "Pritrūkę valčių, enkavėdistai nulupo Aleknonių ir Žuvinto kaimų ūkininkų kluonų duris ir jomis kaip plaustais plaukė Žuvinto ežeru."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "934154-934469; hash=08f82ec3a8059dada8ce64f99caf78341e8405807e61ea451c2269f7b267cac2; match=ocr_normalized"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  ryšio_patikimumas: "susije_su -> Žuvintas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žuvinto ežeras: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Žuvintas: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žuvinto ežeras\" parinktas kaip owner_note_path. Targetas \"Žuvintas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-77305
 
@@ -134,16 +78,6 @@ media_all_json: |-
 - t-006
   global_id: t-80595
   teiginys: "Per Žuvinto ežerą enkavėdistai plaukė iš kluonų durų pasidarytais plaustais."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "934154-934469; hash=08f82ec3a8059dada8ce64f99caf78341e8405807e61ea451c2269f7b267cac2; match=ocr_normalized"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  ryšio_patikimumas: "susije_su -> Žuvintas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žuvinto ežeras: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Žuvintas: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žuvinto ežeras\" parinktas kaip owner_note_path. Targetas \"Žuvintas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-77305
 - susijęs iš [[objektai/grupes/Dzūkų būrys.md#claim-t-40877|Dzūkų būrys]]: Liepos 13 d. Dzūkų būrio partizanai prie Žuvinto ežero susidūrė su pasaloje laukusiais NKVD kareiviais ir vietiniais stribais.
@@ -168,8 +102,8 @@ media_all_json: |-
     Jurgis Krušinskas, Juozas Remeikis-Lokys
     vėliau mirė nuo sužeidimų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -188,8 +122,8 @@ media_all_json: |-
     plaukė ežeru. Partizanai be paliovos juos
     apšaudė ir granatomis skandino.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -229,8 +163,8 @@ media_all_json: |-
     šūvio metu išsiskirianti parako dujų energija ne tik išstumdavo
     kulką iš vamzdžio, bet ir pertaisydavo spyną.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -324,6 +258,3 @@ media_all_json: |-
   pagrindzia:
     - t-80590
     - t-80592
-
-## Ryšiai
-- Apgulė Žuvinto ežerą: [[objektai/grupes/NKVD]]

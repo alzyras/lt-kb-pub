@@ -33,16 +33,6 @@ Sukilėlių pajėgos Sukilėlių kariuomenės pagrindą Panerių mūšyje sudar�
 - t-001
   global_id: t-38961
   teiginys: "Panerių mūšyje Kališo raitininkų eskadronai buvo tarp Lenkijos sukilėlių junginių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "631766-632189; hash=417d3785be8b7480122c93134f919440c2dafd4a8f99f5de0bb651411b85f7b2; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kališo raitelių dalinys: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=39"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kališo raitelių dalinys\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-40765
 ## Reikšmingi paminėjimai
@@ -63,8 +53,8 @@ Sukilėlių pajėgos Sukilėlių kariuomenės pagrindą Panerių mūšyje sudar�
     Poznanės raitininkų eskadronai ir kiti ma-
     zesni junginiai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

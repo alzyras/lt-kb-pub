@@ -35,16 +35,6 @@ Dusburgietis teigia, kad apie vieno Karaliaučiaus brolio šlovingą gyvenimą T
 - t-002
   global_id: t-59920
   teiginys: "Hermanas Saracėnas per ietininkų turnyro susidūrimą nubloškė varžovą ant žemės, o laimėtą žirgą ir ginklus atidavė vargšams."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "361567-362145; hash=6551a2ae106f7af52a6b260a381d966bb6e42c20542c4c9c9447d7721426706c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Ginklai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Hermanas Saracėnas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Ginklai: mention_match, thing, gap=99"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Hermanas Saracėnas\" parinktas kaip owner_note_path. Targetas \"Ginklai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-60556
 
@@ -52,16 +42,6 @@ Dusburgietis teigia, kad apie vieno Karaliaučiaus brolio šlovingą gyvenimą T
 - t-004
   global_id: t-59921
   teiginys: "Hermanas Saracėnas iš Karaliaučiaus pilies rengėsi vykti į karą Kurše, kai, pasak pasakojimo, jam pasirodė Mergelė Marija."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "369544-370039; hash=aec449af279fc7a111c477ea130341e0a11403dced4a2fe21a32dc8840aa7add; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Hermanas Saracėnas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.): mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Hermanas Saracėnas\" parinktas kaip owner_note_path. Targetas \"Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-60555
 
@@ -69,16 +49,6 @@ Dusburgietis teigia, kad apie vieno Karaliaučiaus brolio šlovingą gyvenimą T
 - t-005
   global_id: t-59922
   teiginys: "Kronikos pasakojime Hermano Saracėno siela minima tarp dviejų už kitas pranašesnių vėlių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "372403-372614; hash=9b55434c53995baf7908a625d81314b56d3b891fad2fbf608e01f12c61a14912; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kristburgas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Hermanas Saracėnas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kristburgas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Hermanas Saracėnas\" parinktas kaip owner_note_path. Targetas \"Kristburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-60552
 
@@ -86,16 +56,6 @@ Dusburgietis teigia, kad apie vieno Karaliaučiaus brolio šlovingą gyvenimą T
 - t-003
   global_id: t-59923
   teiginys: "Pasakojime Mergelė Marija ne kartą slapta ir draugiškai kalbėjosi su Hermanu Saracėnu, jau priimtu į Teutonų ordiną."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "362137-362802; hash=fbc296c8392a21b2e7a857a26e4d943909b18c0f1a545b660c8707481e18575e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Hermanas Saracėnas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=40"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Hermanas Saracėnas\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-60554
 
@@ -103,9 +63,6 @@ Dusburgietis teigia, kad apie vieno Karaliaučiaus brolio šlovingą gyvenimą T
 - t-001
   global_id: t-59924
   teiginys: "Hermanas Saracėnas gyveno Karaliaučiaus pilies brolių konvente ir buvo gimęs Švabijoje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "360903-361566; hash=26bbb3f65833e474d8eeae5d31b01b454553d4eadc55311b963d5e796c9a450f; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-60553
 
@@ -113,9 +70,6 @@ Dusburgietis teigia, kad apie vieno Karaliaučiaus brolio šlovingą gyvenimą T
 - t-001
   global_id: t-59924
   teiginys: "Hermanas Saracėnas gyveno Karaliaučiaus pilies brolių konvente ir buvo gimęs Švabijoje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "360903-361566; hash=26bbb3f65833e474d8eeae5d31b01b454553d4eadc55311b963d5e796c9a450f; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-60553
 
@@ -123,16 +77,6 @@ Dusburgietis teigia, kad apie vieno Karaliaučiaus brolio šlovingą gyvenimą T
 - t-002
   global_id: t-59920
   teiginys: "Hermanas Saracėnas per ietininkų turnyro susidūrimą nubloškė varžovą ant žemės, o laimėtą žirgą ir ginklus atidavė vargšams."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "361567-362145; hash=6551a2ae106f7af52a6b260a381d966bb6e42c20542c4c9c9447d7721426706c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Ginklai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Hermanas Saracėnas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Ginklai: mention_match, thing, gap=99"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Hermanas Saracėnas\" parinktas kaip owner_note_path. Targetas \"Ginklai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-60556
 
@@ -140,12 +84,6 @@ Dusburgietis teigia, kad apie vieno Karaliaučiaus brolio šlovingą gyvenimą T
 - t-008
   global_id: t-194492
   teiginys: "Apie vieno Karaliaučiaus brolio šlovingą gyvenimą Tuo metu Karaliaučiaus pilies brolių konvente gyveno brolis Hermanas, pravarde Saracėnas341, gimęs Švabijoje; dar būdamas pasaulietis, jis taip karštai pamilo švenčiausiąją mergelę Mariją, kad niekada niekam."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "360903-361566; hash=26bbb3f65833e474d8eeae5d31b01b454553d4eadc55311b963d5e796c9a450f; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-60553
 
@@ -153,12 +91,6 @@ Dusburgietis teigia, kad apie vieno Karaliaučiaus brolio šlovingą gyvenimą T
 - t-009
   global_id: t-194493
   teiginys: "Dar apie tą patį Tas pats brolis Hermanas, kai, priimtas į Teutonų ordiną, skubėjo ton vieton, kur turėjo būti jo įvilktuvės, užėjo viename lauke daug karių, susirinkusių į ietininkų turnyrą; vienas jų, jau apsiginklavęs ir raitas, liepė skelbti, ar rasis."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "361567-362145; hash=6551a2ae106f7af52a6b260a381d966bb6e42c20542c4c9c9447d7721426706c; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-60556
 ## Reikšmingi paminėjimai
@@ -171,8 +103,8 @@ Dusburgietis teigia, kad apie vieno Karaliaučiaus brolio šlovingą gyvenimą T
     pranašesnes nei kitos, tai buvo sielos brolio Hermano, vadinamo Saracėnu, ir kito brolio,
     vardu [..?] iš Glizbergo, kurį paminėjome, kalbėdami apie Kristburgo pilies statybą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -196,8 +128,8 @@ Dusburgietis teigia, kad apie vieno Karaliaučiaus brolio šlovingą gyvenimą T
 
                              80 (78).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -220,8 +152,8 @@ Dusburgietis teigia, kad apie vieno Karaliaučiaus brolio šlovingą gyvenimą T
     pasaulio tuštybę, o labai retai kada arba niekada nemini nei mano sūnaus, nei manęs,
     nei šventųjų darbų“.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -244,8 +176,8 @@ Dusburgietis teigia, kad apie vieno Karaliaučiaus brolio šlovingą gyvenimą T
 
                                86 (82).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -268,8 +200,8 @@ Dusburgietis teigia, kad apie vieno Karaliaučiaus brolio šlovingą gyvenimą T
 
                              81 (78).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -282,7 +214,8 @@ Dusburgietis teigia, kad apie vieno Karaliaučiaus brolio šlovingą gyvenimą T
 - id: c-60552
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 114"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 114."
   citata_originali: |
     Tarp tų sielų jie abu matė dvi vėles
     pranašesnes nei kitos, tai buvo sielos brolio Hermano, vadinamo Saracėnu, ir kito brolio,
@@ -297,7 +230,8 @@ Dusburgietis teigia, kad apie vieno Karaliaučiaus brolio šlovingą gyvenimą T
 - id: c-60553
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 110"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 110."
   citata_originali: |
     Apie vieno Karaliaučiaus brolio šlovingą gyvenimą
 
@@ -325,7 +259,8 @@ Dusburgietis teigia, kad apie vieno Karaliaučiaus brolio šlovingą gyvenimą T
 - id: c-60554
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 110"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 110."
   citata_originali: |
     81 (78). Dar apie tą patį
 
@@ -348,7 +283,8 @@ Dusburgietis teigia, kad apie vieno Karaliaučiaus brolio šlovingą gyvenimą T
 - id: c-60555
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 113"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 113."
   citata_originali: |
     Apie tai, kaip iš anksto buvo išpranašautas šis mūšis
 
@@ -372,7 +308,8 @@ Dusburgietis teigia, kad apie vieno Karaliaučiaus brolio šlovingą gyvenimą T
 - id: c-60556
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 110"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 110."
   citata_originali: |
     Dar apie tą patį
 

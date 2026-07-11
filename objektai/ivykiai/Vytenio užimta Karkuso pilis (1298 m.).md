@@ -57,21 +57,6 @@ Nenurodyta
 - t-001
   global_id: t-62953
   teiginys: "1298 m. Rygos miestiečių pakviestas Lietuvos karalius Vytenis užėmė Karkuso pilį, paėmė belaisvių ir nusiaubė pilies apylinkes."
-  teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Vytenis užėmė Vytenio užimta Karkuso pilis (1298 m.) (0.65)"
-  temporaliniai_duomenys: "valdymo laikotarpis: 1298 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Vytenis buvo valdovas Lietuva“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko faktą, bet pradinis teiginys per ilgas, nutrūkęs ir turi išnašos triukšmo."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "599445-600347; hash=bd8c8757b21eb21f1ef0a2f550a597bd7621bda7ed80569b18a7aedd6586e366; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Vytenio užimta Karkuso pilis (1298 m.): 0.65"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytenis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vytenio užimta Karkuso pilis (1298 m.): llm_allowed_candidate, event"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai mini Vytenio Karkuso pilies užėmimą, bet atskiro Karkuso objekto kandidatuose nėra."
   pagrindžia:
     - c-63838
 ## Reikšmingi paminėjimai
@@ -92,8 +77,8 @@ Nenurodyta
     šimtus netikėlių, vis dėlto galop karalius paėmė viršų ir nukovė magistrą, 22 brolius ir
     1500 krikščionių.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -104,7 +89,8 @@ Nenurodyta
 - id: c-63838
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 191"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 191."
   citata_originali: |
     1297 viešpaties metais  kilo begaliniai Rygos miestiečių  ir Teutonų ordino brolių
     kivirčai, kurie vienu metu taip įsiliepsnojo, kad broliai per pusantrų metų, neišvengiamos
@@ -124,6 +110,3 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-62953
-
-## Ryšiai
-- Užėmė Vytenio užimta Karkuso pilį (1298 m.): [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]]

@@ -42,12 +42,6 @@ Dusburgietis teigia, kad see, lyginame su 1401 m. dokumentų Colmen/Kaelmen (GAO
 - t-001
   global_id: t-60743
   teiginys: "G. Leydingas pateikė Kölmsee ir Kolm formas ežero vardui Osos aukštupyje apibūdinti."
-  temporaliniai_duomenys: "įvykio data: 1401 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko konkretų autoriaus žodyne pateiktų vardų faktą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "183751-184024; hash=a9ecaf2dded8da44eeb89b312699a84d73e7e894035f8110e0a01bc185631289; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-61375
 ## Reikšmingi paminėjimai
@@ -61,8 +55,8 @@ Dusburgietis teigia, kad see, lyginame su 1401 m. dokumentų Colmen/Kaelmen (GAO
     Słownik..., d. 2, p, 315) — ežero  į šiaurės vakarus nuo dab, Ylavos Osos aukštupyje
     (pietrytinėje Pamedėje) vardu.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -73,7 +67,8 @@ Dusburgietis teigia, kad see, lyginame su 1401 m. dokumentų Colmen/Kaelmen (GAO
 - id: c-61375
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 57"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 57."
   citata_originali: |
     Šį hidronimą, kildinamą iš le. Chełm ir vok. See, lyginame su 1401 m. dokumentų
     Colmen/Kaelmen (GAO, p. 69), Koelmsee (Sch-K, XVI), Kölmsee, Kolm (Leyding G.

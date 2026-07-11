@@ -45,14 +45,6 @@ Nenurodyta
 - t-001
   global_id: t-189887
   teiginys: "Per žiemos švenčių žaidimus kaimiečiai, Narbuto aprašymu, vaidindavo sceninę pantomimą su vienu ar dviem veikėjais."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "291964-292452; hash=1961d45e9cba13741c504355beef7fe182f194d45d9b39db1e49b6a010142419; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172770
 
@@ -60,14 +52,6 @@ Nenurodyta
 - t-002
   global_id: t-189888
   teiginys: "Narbuto aprašytame žiemos pantomimos žaidime pradžioje vaizduotas netikėtas susitikimas, kvietimas susiimti rankomis ir juokaujama grumtis."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "292798-293436; hash=9e73ef53c02e6e8c2460148d2b77bae1df0e66ac40cab281a54e9be54280fa42; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172771
 ## Reikšmingi paminėjimai
@@ -85,8 +69,8 @@ Nenurodyta
     tis, muštynės, pasipūtimas, orumas, šiurkštumas, gašlūs jude­
     siai -  čia yra visa, ką gali mimo fantazija.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -108,8 +92,8 @@ Nenurodyta
     šokinėja kartodami tai su didžiausiu įkarščiu ir juokinimu; tuo
     pasibaigia vaidinimas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -120,7 +104,8 @@ Nenurodyta
 - id: c-172770
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 169"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 169."
   citata_originali: |
     Lietuviškai Ligas reiškia plyną, lygų, vienodą; iš to Lygičius
     (Ligiczus) -  taikinantis, vienodinantis. Per žiemos švenčių žai­
@@ -140,7 +125,8 @@ Nenurodyta
 - id: c-172771
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 169"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 169."
   citata_originali: |
     Antras veikėjas -  lengvabūdiškas, simpa­
     tiškas, su maža kepuraite ant galvos. Žaidimo pradžioje vaiz­

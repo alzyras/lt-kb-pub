@@ -41,16 +41,6 @@ O ko verta Vytauto Žalakevičiaus ir Almanto Grikevičiaus „Jausmų“ (1968)
 - t-001
   global_id: t-41475
   teiginys: "Filmo „Jausmai“ scenoje lietuviškasis Rembo pasisako už „pif paf“ - ginkluotą pasipriešinimą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "31134-31923; hash=94863c9eda1996da22ba679f80ca160d57cc42e7cf3d5775612692943b88d45b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "pif paf: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=33"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"pif paf\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-44968
 ## Reikšmingi paminėjimai
@@ -75,8 +65,8 @@ O ko verta Vytauto Žalakevičiaus ir Almanto Grikevičiaus „Jausmų“ (1968)
     drumo, neužtenka ryžto kovoti, kai jau žuvę paskutiniai he-
     rojai?
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

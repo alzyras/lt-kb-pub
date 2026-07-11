@@ -30,22 +30,6 @@ Narbutas rašo, kad Hartknochas kimbrus laikė gyvenusiais žemėje, kur vėliau
 - t-001
   global_id: t-192932
   teiginys: "Narbutas rašo, kad Hartknochas kimbrus laikė gyvenusiais žemėje, kur vėliau įsikūrė prūsai."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Kimbrai gyveno Semba (0.68)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "76879-77356; hash=8fc5a459888544aa5437697097d78aea892db4a2e08b11b914d9e3a9af35f133; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Semba: 0.68"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kimbrai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Semba: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Kimbrai siejami su žeme, iš kurios kildinamas Sembos pavadinimas."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175702
 
@@ -53,22 +37,6 @@ Narbutas rašo, kad Hartknochas kimbrus laikė gyvenusiais žemėje, kur vėliau
 - t-002
   global_id: t-192933
   teiginys: "Narbutas aiškina, kad Baltijos pakrančių nelaimė išstūmė kimbrus iš jų gyvenamųjų vietų ir privertė trauktis į Rytus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Kimbrai gyveno Baltija (0.90); Kimbrai keliavo į Ilyrija (0.84)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "80675-81108; hash=341f8c7f470a6296675ab37c2293da8e4ee9d0899998cdd42ec974f3617e9ccf; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Baltija: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kimbrai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Baltija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai apibūdina kimbrus kaip Baltijos jūros pakrančių gyventojus."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175703
 
@@ -76,21 +44,6 @@ Narbutas rašo, kad Hartknochas kimbrus laikė gyvenusiais žemėje, kur vėliau
 - t-003
   global_id: t-192934
   teiginys: "Narbutas, remdamasis Herodotu ir senovės tyrinėtojais, kimbrus laiko kadaise Prūsijoje viešėjusia gentimi."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "84129-84532; hash=ba1baf28d5d265e91c806d7ac110dc45127a1285892730ad503a14a465167951; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Prūsija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kimbrai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Prūsija: mention_match, place, gap=22"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kimbrai\" parinktas kaip owner_note_path. Targetas \"Prūsija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175704
 - susijęs iš [[objektai/asmenys/Cyras-Karbo.md#claim-t-191384|Cyras-Karbo]]: Narbutas rašo, kad Strijkovskis kimbrus siejo su mūšiu prie Nortbėjos, kur jie 190 m. pr. Kr. pirmą kartą kovėsi su Cyras-Karbo vadovaujamais romėnais.
@@ -140,8 +93,8 @@ Narbutas rašo, kad Hartknochas kimbrus laikė gyvenusiais žemėje, kur vėliau
     vėliau įsikūrė prūsai. Ten jie vadinami Sembi\ iš čia ki­
     lęs Sembos — vienos prūsų provincijos — pavadinimas2.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -164,8 +117,8 @@ Narbutas rašo, kad Hartknochas kimbrus laikė gyvenusiais žemėje, kur vėliau
     vertė pirmiausia pasitraukti į Rytus, o vėliau įsikurti net
     Ilyrijoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -187,8 +140,8 @@ Narbutas rašo, kad Hartknochas kimbrus laikė gyvenusiais žemėje, kur vėliau
     ros pakrančių gyventojais paminklų. Savo pavadinimą
     jie įamžino iki šiol išlikusiose pavardėse.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -199,7 +152,8 @@ Narbutas rašo, kad Hartknochas kimbrus laikė gyvenusiais žemėje, kur vėliau
 - id: c-175702
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 45"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 45."
   citata_originali: |
     Mūsų kronikinin­
     kas Strijkovskis vėlgi tai patvirtina savo istoriniais šal­
@@ -265,8 +219,7 @@ Narbutas rašo, kad Hartknochas kimbrus laikė gyvenusiais žemėje, kur vėliau
     - t-192934
 
 ## Ryšiai
-- Kariavo prieš: [[objektai/asmenys/Cyras-Karbo]], [[objektai/grupes/Romėnai]]
-- Kimbrai keliavo į [[objektai/vietos/Baltija]], [[objektai/vietos/Europa]], [[objektai/vietos/Ilyrija]], [[objektai/vietos/Vakarų Europa]]
-- Kimbrai kariavo prieš [[objektai/grupes/Romėnai]], [[objektai/asmenys/Scipionas]]
+- Kimbrai keliavo į [[objektai/vietos/Vakarų Europa]]
+- Kimbrai kariavo prieš [[objektai/asmenys/Scipionas]]
 - Kimbrai dalyvavo mūšyje [[objektai/ivykiai/Kimbrų pergalė prieš konsulą Scipioną]]
-- Kimbrai gyveno [[objektai/vietos/Baltija]], [[objektai/vietos/Baltijos jūra]], [[objektai/vietos/Semba]], [[objektai/vietos/Trentas]], [[objektai/vietos/Verona]]
+- Kimbrai gyveno [[objektai/vietos/Baltija]]

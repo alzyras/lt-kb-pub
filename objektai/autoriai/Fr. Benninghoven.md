@@ -35,16 +35,6 @@ Benninghoven davė studiją apie kalavijuočių ordiną (BeOSch); Lietuvos žila
 - t-001
   global_id: t-30615
   teiginys: "Fr. Benninghovenas parašė studiją apie Kalavijuočių ordiną."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "253018-253372; hash=829cc85d6c9b3327a66ea5f1ec7a944270e00128c3b9591e0db01208e704636d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Fr. Mager: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Fr. Benninghoven: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Fr. Mager: mention_match, author, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Fr. Benninghoven\" parinktas kaip owner_note_path. Targetas \"Fr. Mager\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-32927
 - susijęs iš [[objektai/autoriai/Fr. Mager.md#claim-t-30616|Fr. Mager]]: Fr. Magerio veikalas laikytas įdomiu Lietuvos žilai senovei tyrinėti.
@@ -63,8 +53,8 @@ Benninghoven davė studiją apie kalavijuočių ordiną (BeOSch); Lietuvos žila
     veikalas^16 °, o apie I pasaulinį karą W. Conze 161 , ir paskutiniu
     metu išsp.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

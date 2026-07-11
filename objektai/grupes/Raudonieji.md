@@ -41,21 +41,6 @@ media_all_json: |-
 - t-001
   global_id: t-19973
   teiginys: "„Raudonieji“ buvo prodemokratiškas bajorų jaunimas, 1862 m. Kongresinėje Lenkijoje ir Lietuvoje rengęs sukilimą."
-  temporaliniai_duomenys: "įvykio data: 1862 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Perrašyta į aiškų faktinį sakinį su tariniu ir data."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "201163-201454; hash=3dd8866e47918810b092252e8dbcb1d34e2718a339f2621a81153592ff7b769b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Bajorai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Raudonieji: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Bajorai: mention_match, group, gap=34"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Raudonieji\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-22707
 
@@ -63,14 +48,6 @@ media_all_json: |-
 - t-002
   global_id: t-193559
   teiginys: "„Raudonieji“ savo propagandoje ne tik lenkų, bet ir lietuvių bei baltarusių kalbomis žadėjo valstiečiams laisvę ir nuosavybės teisę į visą jų dirbamą žemę be jokių išpirkų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "201661-202197; hash=fe1bf9640e5b43f9c82b6be785cfd50a6deabc48315b1d14f4c803de6adb074a; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-176239
 - susijęs iš Brasta: Brastoje iš žydo buvo paimti 96 raudonieji auksinai po 56 lenkiškus grašius už sidabro užstatą karaliaus reikalams.
@@ -89,8 +66,8 @@ media_all_json: |-
     bajorų jaunimas, tikėjęs, kad pavyks įtraukti į sukilimą valstiečius, ku-
     riuos, anot jų, turėjo nuvilti caro paskelbta baudžiavos naikinimo tvarka.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -110,8 +87,8 @@ media_all_json: |-
     reformai, kils neramumai ir Rusijos kaime, ir valdžia neturės galimybių
     mesti prieš sukilėlius didelių karinių pajėgų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

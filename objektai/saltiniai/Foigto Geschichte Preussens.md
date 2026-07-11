@@ -30,21 +30,6 @@ Foigto „Geschichte Preussens“ ištraukoje teigiama, kad Aistmarės gerokai i
 - t-001
   global_id: t-191774
   teiginys: "Foigto „Geschichte Preussens“ ištraukoje teigiama, kad Aistmarės gerokai išplėtė plotą į rytus tarp Baigos pilies ir Piliavos."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "618573-618949; hash=5da3a0d9416ad9e3a9382773f25e33c97fb5ce796e80594a91024a4e110a78f8; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Baiga: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Foigto Geschichte Preussens: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Baiga: mention_match, place, gap=100"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Foigto Geschichte Preussens\" parinktas kaip owner_note_path. Targetas \"Baiga\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174656
 
@@ -52,21 +37,6 @@ Foigto „Geschichte Preussens“ ištraukoje teigiama, kad Aistmarės gerokai i
 - t-002
   global_id: t-191775
   teiginys: "Foigto „Geschichte Preussens“ ištrauka aprašo senovės Prūsijos provincijas taip, kaip jas XIII a. pradžioje rado kryžiuočiai."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "636613-637169; hash=005d28df3718847479c12b8fc9453fc443524dcb6136a927046b81b954d3f3a5; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Prūsija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Foigto Geschichte Preussens: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Prūsija: mention_match, place, gap=54"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Foigto Geschichte Preussens\" parinktas kaip owner_note_path. Targetas \"Prūsija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174657
 ## Reikšmingi paminėjimai
@@ -96,8 +66,8 @@ Foigto „Geschichte Preussens“ ištraukoje teigiama, kad Aistmarės gerokai i
     tesniais laikais buvo gyvenama sausuma, jokiais požiūriais
     nėra naujas teiginys.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -126,8 +96,8 @@ Foigto „Geschichte Preussens“ ištraukoje teigiama, kad Aistmarės gerokai i
     tojus su tomis žiniomis, kurias surinko mokslininkas is­
     torikas ponas Foigtas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

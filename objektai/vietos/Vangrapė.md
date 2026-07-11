@@ -33,11 +33,6 @@ Dusburgietis teigia, kad juos sulaikė išdavikas, tikindamas, kad prie Vangrap�
 - t-001
   global_id: t-58648
   teiginys: "Juos sulaikė išdavikas, tikindamas, kad prie Vangrapės391 juos tikriausiai užtiksią."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "406528-406815; hash=53daa7fe40d869de6de16629453f9165c0b902ae80545d824e4633ea99a01b0f; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
-  vertinimo_autorius: "claim_quality_pipeline / rewrite"
   pagrindžia:
     - c-59281
 
@@ -45,9 +40,6 @@ Dusburgietis teigia, kad juos sulaikė išdavikas, tikindamas, kad prie Vangrap�
 - t-002
   global_id: t-58649
   teiginys: "Vangrapė, dar vadinta Ungurupe arba Unguriške, išteka iš Mamrų ežero ir šiaurėje siekia Įsruties apylinkes."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "408862-409176; hash=ad03a4fb87480cfdbfc434f8c2dfb5098d1e49edca2be35fcdf9f6c53d14c986; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-59280
 - susijęs iš [[objektai/autoriai/Basanavičius J.md#claim-t-64568|Basanavičius J]]: Basanavičiaus veikale nurodomas Vangrapės upės kilpoje, apie 400 m į pietus nuo Tamoviškių, žinomas Kampsvykalnio piliakalnis.
@@ -73,8 +65,8 @@ Dusburgietis teigia, kad juos sulaikė išdavikas, tikindamas, kad prie Vangrap�
     Vengorapa), ištekanti iš Mamrų ežero, šiaurėje siekianti Įsruties (dab. Černiachovskas)
     apylinkes. Aprašytos kautynės įvyko, matyt, kiek į šiaurę nuo Mamrų ežero.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -89,8 +81,8 @@ Dusburgietis teigia, kad juos sulaikė išdavikas, tikindamas, kad prie Vangrap�
     juos tikriausiai užtiksią. Artėjančius prie tos vietos staiga užgriuvo priešai, kaip iš anksto
     buvo susitarę.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -101,7 +93,8 @@ Dusburgietis teigia, kad juos sulaikė išdavikas, tikindamas, kad prie Vangrap�
 - id: c-59280
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 126"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 126."
   citata_originali: |
     391 D.— Wangrapia, Jer.— an der Wangrapien; vėliau — Angerapp. Vangrapė
     (literatūroje — Ungurupė arba Unguriškė, dab. Kaliningrado srt.— Angrapa, LLR —
@@ -117,7 +110,8 @@ Dusburgietis teigia, kad juos sulaikė išdavikas, tikindamas, kad prie Vangrap�
 - id: c-59281
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 126"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 126."
   citata_originali: |
     Pritardami šiai nuomonei, broliai su kariuomene greitai patraukė į priekį, tačiau, jų
     nepaviję, sugalvojo grįžti atgal. Juos sulaikė išdavikas, tikindamas, kad prie Vangrapės391

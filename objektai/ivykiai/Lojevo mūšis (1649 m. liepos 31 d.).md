@@ -54,16 +54,6 @@ Nenurodyta
 - t-008
   global_id: t-49171
   teiginys: "Lojevo mūšis buvo pirmoji svari kunigaikščio J. Radvilos pergalė."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "506542-506970; hash=19dfdcbf9ff6a6aac9fecb91628c553617d8a352a699708d742ddbf267381eae; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
-  ryšio_patikimumas: "dalyvavo_musyje -> Lojevo mūšis (1649 m. liepos 31 d.): 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Radvila: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lojevo mūšis (1649 m. liepos 31 d.): llm_allowed_candidate, event"
-  ryšio_paaiskinimas: "Citata apibūdina Radvilos padėtį Lojevo mūšio fazėje."
   pagrindžia:
     - c-51239
 
@@ -71,20 +61,6 @@ Nenurodyta
 - t-005
   global_id: t-49172
   teiginys: "1649 m. liepos 21 d. J. Radvila atvedė kariuomenę prie Lojevo, kur buvo numatyta pasitikti artėjančius kazokus."
-  semantiniai_rysiai: "J. Radvila surengė žygį į Lojevas (0.90)"
-  temporaliniai_duomenys: "įvykio data: 1649 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas, faktinis ir paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "492659-493279; hash=74a793e2bc393dc10c717ee4b8d142c4f8b40aa816c2612434056e94bf9884ec; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
-  ryšio_patikimumas: "surenge_zygi_i -> Lojevas: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "J. Radvila: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lojevas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad J. Radvila atvedė kariuomenę prie Lojevo."
   pagrindžia:
     - c-11877
 
@@ -92,17 +68,6 @@ Nenurodyta
 - t-006
   global_id: t-49173
   teiginys: "Lojevo mūšyje kazokų kariuomenė buvo perskelta į dvi dalis, jos kairysis sparnas sumuštas, o M. Kričevskio kariai atsitraukė į mišką."
-  semantiniai_rysiai: "Kazokai dalyvavo mūšyje Lojevo mūšis (1649 m. liepos 31 d.) (0.95); Lietuviai dalyvavo mūšyje Lojevo mūšis (1649 m. liepos 31 d.) (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "496582-497195; hash=743fb304d82a46bd53575496c67f5bb7f90f85e8f40ebe204b2773c18a53a65b; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
-  ryšio_patikimumas: "dalyvavo_musyje -> Lojevo mūšis (1649 m. liepos 31 d.): 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kazokai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lojevo mūšis (1649 m. liepos 31 d.): llm_allowed_candidate, event"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai mini kazokų kariuomenę Lojevo mūšyje."
   pagrindžia:
     - c-11879
 
@@ -110,17 +75,6 @@ Nenurodyta
 - t-007
   global_id: t-49174
   teiginys: "Lojevo mūšis buvo pirmoji svari kunigaikščio J. Radvilos pergalė, o žinia apie ją pasklido visoje Europoje."
-  semantiniai_rysiai: "Kazokai dalyvavo mūšyje Lojevo mūšis (1649 m. liepos 31 d.) (0.84)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "506542-506970; hash=19dfdcbf9ff6a6aac9fecb91628c553617d8a352a699708d742ddbf267381eae; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
-  ryšio_patikimumas: "dalyvavo_musyje -> Lojevo mūšis (1649 m. liepos 31 d.): 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Radvila: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lojevo mūšis (1649 m. liepos 31 d.): llm_allowed_candidate, event"
-  ryšio_paaiskinimas: "Citata aprašo Radvilą mūšio fazėje, todėl tiesiogiai remia jo dalyvavimą Lojevo mūšyje."
   pagrindžia:
     - c-51239
 - susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
@@ -151,8 +105,8 @@ Nenurodyta
     (dešinėje) upės pusėje, buvo sudegintas,
     kad priešui nebūtų kur įsitvirtinti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -181,8 +135,8 @@ Nenurodyta
     prie Dniepro ir įsitvirtino stovykloje netoli
     Bragino.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -208,8 +162,8 @@ Nenurodyta
 
     apie ją pasklido ir visoje Europoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -30,12 +30,6 @@ Vyskupo Petro rankrašty je yra pasakyta: Habuerunt autem baptismum per ignem, s
 - t-001
   global_id: t-189578
   teiginys: "Vyskupo Petro rankrašty je yra pasakyta: Habuerunt autem baptismum per ignem, scilicet purificationem (O krikštas jiems buvo ugnis, tai yra ele mentarusis apsivalymas)."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "603918-604453; hash=857e0096bf5e2085bed0f1273c3d6d62fbc89f386b8b2ed0524a475f424c87e1; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-172465
 ## Reikšmingi paminėjimai
@@ -54,8 +48,8 @@ Vyskupo Petro rankrašty je yra pasakyta: Habuerunt autem baptismum per ignem, s
     sakysime kalbėdami apie vestuvines apeigas), visiškai skirtin­
     gas nuo apsivalomojo šokinėjimo per ugnį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -66,7 +60,8 @@ Vyskupo Petro rankrašty je yra pasakyta: Habuerunt autem baptismum per ignem, s
 - id: c-172465
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 343"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 343."
   citata_originali: |
     Įprastas dalykas buvo apeigos ir būrimai, susiję su ugnimi.
     Švenčiant Rasos šventę, šokinėta per degantį laužą, sukrautą

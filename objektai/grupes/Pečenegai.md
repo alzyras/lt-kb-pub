@@ -36,21 +36,6 @@ Teodoras Narbutas aiškina, kad poloviečiai nebuvo atskira tauta, o pečenegų 
 - t-001
   global_id: t-192989
   teiginys: "Teodoras Narbutas aiškina, kad poloviečiai nebuvo atskira tauta, o pečenegų palikuonys ar dalis, susiformavusi iš hunams giminingų genčių likučių."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "187755-188442; hash=a4c19e95881f76bd159f95533bd69e8b99f0666734b945014bbee05091f0b221; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Hunai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Pečenegai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Hunai: mention_match, group, gap=47"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pečenegai\" parinktas kaip owner_note_path. Targetas \"Hunai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175759
 - susijęs iš [[objektai/asmenys/Jonas Komninas.md#claim-t-191284|Jonas Komninas]]: Pasak Narbuto, 1121 m. graikų imperatorius Jonas Komninas galutinai nugalėjo pečenegus, ir nuo tada prasidėjo jų vardo smukimas.
@@ -86,8 +71,8 @@ Teodoras Narbutas aiškina, kad poloviečiai nebuvo atskira tauta, o pečenegų 
     Komninas, tad nuo šio laiko skaičiuojami pečenegų vardo
     smukimo metai2.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -98,7 +83,8 @@ Teodoras Narbutas aiškina, kad poloviečiai nebuvo atskira tauta, o pečenegų 
 - id: c-175759
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 105"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 105."
   citata_originali: |
     Juo labiau kad poloviečiai nebuvo atskira tauta, bet bu­
     vo palikuonys ar dalis pečenegų, kurie, — o tai pana­
@@ -122,6 +108,4 @@ Teodoras Narbutas aiškina, kad poloviečiai nebuvo atskira tauta, o pečenegų 
 
 ## Ryšiai
 - Kariavo prieš: [[objektai/asmenys/Jonas Komninas]]
-- Turėjo priklausinį: [[objektai/vietos/Belaja Cerkovė]], [[objektai/vietos/Padneprė]]
 - Pečenegai valdė [[objektai/vietos/Padneprė]]
-- Pečenegai gyveno [[objektai/vietos/Ukraina]]

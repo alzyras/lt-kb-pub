@@ -63,19 +63,6 @@ Nenurodyta
 - t-001
   global_id: t-87231
   teiginys: "1579 m. kovo 6 d. Vilniaus vyskupas Valerijonas Protasevičius užrašė Akademijai tris mūrinius namus studentų maitinimui ir maldoms už fundatorių."
-  temporaliniai_duomenys: "įvykio data: 1579 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs; citata palaiko glaustą faktą apie fundacijos sąlygas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "396733-397457; hash=e055ef4245fd71b1e87429db4276b9677076d2a510afe559696c16cf9ca4d312; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Valerijonas Protasevičius (vyskupas): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Valerijono bursos studentų maitinimas ir maldos už fundatorių: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Valerijonas Protasevičius (vyskupas): mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Valerijono bursos studentų maitinimas ir maldos už fundatorių\" parinktas kaip owner_note_path. Targetas \"Valerijonas Protasevičius (vyskupas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-83210
 
@@ -83,12 +70,6 @@ Nenurodyta
 - t-002
   global_id: t-194194
   teiginys: "1631 metais garbioji Vilniaus kapitula 4000 auksinų sumą davė kun. Pilypui Frizijui, o kun. Frizijus, pridėjęs savų 1500 auksinų, iki 5 500 išaugusią sumą atidavė Vilniaus kahalo žydams; nuo šios sumos kahalas iki 1763 metų Valerijono konvikto gyventojams 8."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "397458-398245; hash=f2aac640088d99ac9ed8f0fa7ba8494c6c3c61f2c36c0e37548262dce8a830b4; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176798
 ## Reikšmingi paminėjimai
@@ -111,8 +92,8 @@ Nenurodyta
     dolskis - 500 auksinų, Stanislovas Goreckis - 2500 auksinų,
     Laurynas Volskis - 250 auksinų, ir susidarė 4 000 suma.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -142,8 +123,8 @@ Nenurodyta
     šiol būdavo punktualiai atiduodama Valerijono konvikto gy­
     ventojams.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -30,14 +30,6 @@ Narbutas Laukpatį (Laukpatimą) apibūdino kaip žemdirbių dievaitį, kuriam m
 - t-001
   global_id: t-189308
   teiginys: "Narbutas Laukpatį (Laukpatimą) apibūdino kaip žemdirbių dievaitį, kuriam melstasi einant arti ar sėti."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "276188-276380; hash=b5bab303ed216f865df2d05ac9259bf556888335fd2226b371bf080a01bdd217; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172195
 ## Reikšmingi paminėjimai
@@ -52,8 +44,8 @@ Narbutas Laukpatį (Laukpatimą) apibūdino kaip žemdirbių dievaitį, kuriam m
     Šis vardas lietuviškai reiškė laukų viešpatį, todėl jo buvo
     globojamos ariamos žemės.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -64,7 +56,8 @@ Narbutas Laukpatį (Laukpatimą) apibūdino kaip žemdirbių dievaitį, kuriam m
 - id: c-172195
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 159"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 159."
   citata_originali: |
     Laukpatis (.Laukpatimas)
     Žemdirbių dievaitis, kuriam buvo meldžiamasi einant dir­

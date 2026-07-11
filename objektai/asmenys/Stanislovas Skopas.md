@@ -32,16 +32,6 @@ Taip pat dešimtinė nuo visų garbin­ gojo Stanislovo Skopo gėrybių, kurias 
 - t-001
   global_id: t-87581
   teiginys: "Stanislovas Skopas Pabaisko parapijoje turėjo gėrybių, nuo kurių anksčiau buvo mokama dešimtinė."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "497072-497398; hash=61550ee5d497e401d1a4de22cbe4cadbaf9323b4d19093a80f5e909e00b0c743; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> dešimtinė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Stanislovas Skopas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "dešimtinė: mention_match, thing, gap=86"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Stanislovas Skopas\" parinktas kaip owner_note_path. Targetas \"dešimtinė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-83559
 ## Reikšmingi paminėjimai
@@ -58,8 +48,8 @@ Taip pat dešimtinė nuo visų garbin­ gojo Stanislovo Skopo gėrybių, kurias 
     ...................žemių su Martynu Špingučiu, iš
     kurių anksčiau visada dešimtinė būdavo mokama.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

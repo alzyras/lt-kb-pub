@@ -42,22 +42,6 @@ Nenurodyta
 - t-001
   global_id: t-185831
   teiginys: "475 m. herulų valdovas Otokaras, arba Odoakras, užėmė Romą, nuvertė Vakarų Romos imperatorių ir valdė Romoje kaip pirmasis svetimšalis."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 475 m"
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys buvo OCR triukšmingas ir negramatiškas; citata palaiko aiškų faktą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "86032-86812; hash=b0ced727e323e26a4f33e85cd0fbf003903319e91cf727159b038833bde33aa0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Herulai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vakarų Romos imperatoriaus nuvertimas ir Otokaro įsigalėjimas Romoje (475 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Herulai: mention_match, group, gap=16"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vakarų Romos imperatoriaus nuvertimas ir Otokaro įsigalėjimas Romoje (475 m.)\" parinktas kaip owner_note_path. Targetas \"Herulai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-169192
 ## Reikšmingi paminėjimai
@@ -91,8 +75,8 @@ Nenurodyta
     mas iš svetimšalių Romoje, tačiau nesisavino nei val­
     dovo vardo, nei purpurinės mantijos.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

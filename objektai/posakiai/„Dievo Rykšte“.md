@@ -30,12 +30,6 @@ Lietuvos metraštis teigia, kad aPIE ATILĄ IR JO 2IAURUMĄ <40t-siais' viešpat
 - t-001
   global_id: t-194054
   teiginys: "Lietuvos metraštis teigia, kad aPIE ATILĄ IR JO 2IAURUMĄ <40t-siais' viešpaties metais pasirodė Atila2 , pra mintas Dievo Rykšte."
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "69986-70281; hash=691970fe12b8e8b86fab2d82ebcf51c349fe5c28c5a436e5dc776fdb4ca841ca; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176667
 ## Reikšmingi paminėjimai
@@ -58,8 +52,8 @@ Lietuvos metraštis teigia, kad aPIE ATILĄ IR JO 2IAURUMĄ <40t-siais' viešpat
     o Ju ra4  ir dabar tebėra karaliaus Ivako5  žemėje. Jo
     tėvas buvo vardu Mandazigas6 .
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -43,18 +43,6 @@ media_all_json: |-
 - t-001
   global_id: t-30898
   teiginys: "P. Girdzijauskienė 1955 m. paskelbė darbą „1905-1907 metų revoliucija Lietuvoje“."
-  temporaliniai_duomenys: "įvykio data: 1861-1913; įvykio data: 1863 m.; įvykio data: apie 1863 m.; įvykio data: 1905 m.; įvykio data: 1913 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "222771-223507; hash=29e00702ba6de9f51ae92b292668a19b21c3d999e2793bd841168d10649941b0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> L. Mulevičius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "P. Girdzijauskienė: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "L. Mulevičius: mention_match, author, gap=70"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"P. Girdzijauskienė\" parinktas kaip owner_note_path. Targetas \"L. Mulevičius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-33091
 - susijęs iš [[objektai/autoriai/Lietuvos istorikai ir socialinės istorijos tyrėjai.md#claim-t-179544|Lietuvos istorikai ir socialinės istorijos tyrėjai]]: P. Girdzijauskienė parašė veikalą „1905-1907 metų revoliucija Lietuvoje“.
@@ -76,8 +64,8 @@ media_all_json: |-
     1905 m. sukilimą lietė E. Griškūnaitė 121 , P. Girdzijaus­
     kienė: _1905-1907 metų revoliucija Lietuvoje_ (1955).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

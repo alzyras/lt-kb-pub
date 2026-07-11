@@ -45,14 +45,6 @@ Nenurodyta
 - t-001
   global_id: t-189913
   teiginys: "Narbuto pasakojime Deivės Valdytojos vasaros naktimis nužengdavo į slėnius prie upių ir ežerų, kur garbintojai joms įrengdavo akmenimis apdėtas aikšteles."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "248174-248818; hash=6807690bea38d413db55fa0325f5ced819b15a1f11db03f86e095221c7ed58e6; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172796
 ## Reikšmingi paminėjimai
@@ -73,8 +65,8 @@ Nenurodyta
     Žemaitijoje paprasta liaudis dainuoja dainas, turinčias kažkokį
     ryšį su tuo deivių verpėjų arba audėjų garbinimu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -85,7 +77,8 @@ Nenurodyta
 - id: c-172796
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 142"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 142."
   citata_originali: |
     Kartais va­
     saros naktį, mėnuliui šviečiant, tos deivės nužengdavo ant že­

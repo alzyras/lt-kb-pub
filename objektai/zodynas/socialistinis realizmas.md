@@ -32,16 +32,6 @@ Naujomis sąlygomis menininkai vis dažniau atsiribodavo nuo socialistinio reali
 - t-001
   global_id: t-22301
   teiginys: "Brežnevinėje epochoje menininkai vis dažniau atsiribodavo nuo socialistinio realizmo ir vengė derinti meną su politika bei propaganda."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "453179-453651; hash=81662d1a66abaeaffc3040e0b578a171531d362f008b6f455f79c34abbeef358; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> „visi lygūs“: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "socialistinis realizmas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "„visi lygūs“: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"socialistinis realizmas\" parinktas kaip owner_note_path. Targetas \"„visi lygūs“\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-24990
 ## Reikšmingi paminėjimai
@@ -59,8 +49,8 @@ Naujomis sąlygomis menininkai vis dažniau atsiribodavo nuo socialistinio reali
     nuo socialistinio realizmo, pagal galimybę stengėsi nederinti politikos ir
     propagandos su menu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

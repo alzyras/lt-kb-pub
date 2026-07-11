@@ -62,20 +62,6 @@ Nenurodyta
 - t-002
   global_id: t-41353
   teiginys: "1654 m. Rusija pasiuntė gausią kariuomenę į Lietuvą."
-  semantiniai_rysiai: "Rusai buvo sąjungininkas su Kazokai (0.90)"
-  temporaliniai_duomenys: "įvykio data: 1648 m.; įvykio data: 1649 m.; įvykio data: 1651 m.; įvykio data: 1654 m.; įvykio data: 1654-1655"
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas faktinis sakinys ir remiasi citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "517822-518692; hash=f050cadf2d952fc6c7d7a57e372ea62e67f6e1659e7ed3db3d6b88ae0adca167; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sajungininkas_su -> Kazokai: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Rusai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Kazokai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citatoje kazokai tiesiogiai įvardyti kaip rusų sąjungininkai."
   pagrindžia:
     - c-44926
 
@@ -83,19 +69,6 @@ Nenurodyta
 - t-001
   global_id: t-41354
   teiginys: "1654 m. prasidėjo Rusijos ir Lenkijos-Lietuvos karas."
-  temporaliniai_duomenys: "įvykio data: 1654 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra trumpas, aiškus ir pagrįstas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "508991-509186; hash=8ddd4771ede55b65264213b52f0ffef74717b753b34727bda3210941f9843b4c; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Rusijos ir Lenkijos-Lietuvos karas (1654–1667 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=20"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rusijos ir Lenkijos-Lietuvos karas (1654–1667 m.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-43113
 ## Reikšmingi paminėjimai
@@ -113,8 +86,8 @@ Nenurodyta
 
     kuris buvo vadinamas „vartais į LDK“.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -157,8 +130,8 @@ Nenurodyta
     priartėjo prie Vilniaus. Rugpjūčio 7 d. po aršių kautynių priešas
     užėmė Lietuvos sostinę, netrukus buvo užimti Trakai ir Kaunas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

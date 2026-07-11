@@ -30,20 +30,6 @@ Gediminui ilsintis prie Kijevo, Belgorodas ir kitos artimiausios pilys pasidavė
 - t-001
   global_id: t-185279
   teiginys: "Gediminui ilsintis prie Kijevo, Belgorodas ir kitos artimiausios pilys pasidavė nugalėtojui."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Gediminas užėmė Brianskas (0.94); Gediminas užėmė Perejeslavlis (0.94)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "349853-350320; hash=ea6f34efee42d1523e3b128f0ae676b95a946f46a230c5bdad223bef7ad3d632; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Brianskas: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Brianskas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Gediminas užėmė Brianską."
   pagrindžia:
     - c-168640
 - susijęs iš [[objektai/asmenys/Aleksandras Gvaninis.md#claim-t-191362|Aleksandras Gvaninis]]: Narbutas remiasi Aleksandru Gvaniniu, kuris Klerkei, arba Bialohrodo, pilį siejo su Belgorodo totorių vardu.
@@ -82,8 +68,8 @@ Gediminui ilsintis prie Kijevo, Belgorodas ir kitos artimiausios pilys pasidavė
     kariavęs Kijevą, Volynę ir didelę Seversko dalį, jis
     išplėtė lietuvių valdų ribas ligi Putivlio.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -94,7 +80,8 @@ Gediminui ilsintis prie Kijevo, Belgorodas ir kitos artimiausios pilys pasidavė
 - id: c-168640
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 202"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 202."
   citata_originali: |
     Visi luo­
     mai, išėję iš miesto, sveikino
@@ -115,6 +102,3 @@ Gediminui ilsintis prie Kijevo, Belgorodas ir kitos artimiausios pilys pasidavė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185279
-
-## Ryšiai
-- Gyvenamoji vieta: [[objektai/grupes/Totoriai]]

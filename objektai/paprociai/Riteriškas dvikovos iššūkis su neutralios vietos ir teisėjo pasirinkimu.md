@@ -55,17 +55,6 @@ Nenurodyta
 - t-001
   global_id: t-87220
   teiginys: "Lenkų iššūkyje prancūzai turėjo pasirinkti dvikovos vietą, o priėmę kvietimą pasirinko Prahą ir imperatorių Vaclovą teisėju."
-  semantiniai_rysiai: "Prancūzai keliavo į Praha (0.74); Lenkai keliavo į Praha (0.74)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "276763-278320; hash=62f962a067547164a7c35031debf384e3b44064562606b7dc5ad149dcc82eeb0; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Praha: 0.74"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lenkai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Praha: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Pastaba nurodo, kad abi dvikovos pusės atvyko į Prahą; lenkai yra kita pusė."
   pagrindžia:
     - c-83200
 
@@ -73,17 +62,6 @@ Nenurodyta
 - t-001
   global_id: t-87220
   teiginys: "Lenkų iššūkyje prancūzai turėjo pasirinkti dvikovos vietą, o priėmę kvietimą pasirinko Prahą ir imperatorių Vaclovą teisėju."
-  semantiniai_rysiai: "Prancūzai keliavo į Praha (0.74); Lenkai keliavo į Praha (0.74)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "276763-278320; hash=62f962a067547164a7c35031debf384e3b44064562606b7dc5ad149dcc82eeb0; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Praha: 0.74"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lenkai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Praha: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Pastaba nurodo, kad abi dvikovos pusės atvyko į Prahą; lenkai yra kita pusė."
   pagrindžia:
     - c-83200
 ## Reikšmingi paminėjimai
@@ -121,8 +99,8 @@ Nenurodyta
     delių pastangų dėka buvo susitarta
     taikytis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

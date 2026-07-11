@@ -35,19 +35,6 @@ Pagrindinės Konstitucijos nuostatos skelbė, kad Lietuva yra demokratinė respu
 - t-003
   global_id: t-74771
   teiginys: "Konstitucija nustatė, kad valstybės valdžią Lietuvoje vykdo Seimas, Respublikos prezidentas, Vyriausybė ir teismas."
-  semantiniai_rysiai: "Lietuvos Respublikos Seimas (seimas) valdė Lietuva (0.82)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "509873-510740; hash=f550b44d8fb97571b1cf45ca8562e5331b8a403adda6ad00539369f0f62e7a93; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde -> Lietuva: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuvos Respublikos Seimas (seimas): llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Formuluotė tiesiogiai nurodo, kad Seimas vykdo valstybės valdžią Lietuvoje."
-  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-72787
 
@@ -55,19 +42,6 @@ Pagrindinės Konstitucijos nuostatos skelbė, kad Lietuva yra demokratinė respu
 - t-001
   global_id: t-74773
   teiginys: "Pagal Konstituciją Seimas kartu su Respublikos prezidentu, Vyriausybe ir teismu vykdo valstybės valdžią Lietuvoje."
-  semantiniai_rysiai: "Lietuvos Respublikos Seimas (seimas) valdė Lietuva (0.80)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "509637-510497; hash=54ab75c8e8ec9e747c3858059bb5226352f0c03fc37d886afc5d8da5fd6da778; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde -> Lietuva: 0.80"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuvos Respublikos Seimas (seimas): llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Seimas įvardytas kaip vienas valstybės valdžią Lietuvoje vykdančių subjektų, todėl ryšys atitinka valdymą."
-  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-22569
 ## Reikšmingi paminėjimai
@@ -89,8 +63,8 @@ Pagrindinės Konstitucijos nuostatos skelbė, kad Lietuva yra demokratinė respu
     Lietuvoje vykdo Seimas, Respublikos prezidentas ir vyriausybė, teismas,
     valdžios galias riboja konstitucija.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -113,8 +87,8 @@ Pagrindinės Konstitucijos nuostatos skelbė, kad Lietuva yra demokratinė respu
     tautinėms bendrijoms, turi teisę puoselėti savo kalbą, kultūrą ir papro-
     čius; tautinėms bendrijoms valstybė teikia paramą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -170,6 +144,3 @@ Pagrindinės Konstitucijos nuostatos skelbė, kad Lietuva yra demokratinė respu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-74771
-
-## Ryšiai
-- Lietuvos Respublikos Seimas (seimas) valdė [[objektai/vietos/Lietuva]]

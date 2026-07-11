@@ -43,20 +43,6 @@ Todėl 1404 m. Racionže (Lenkijoje) buvo padaryta nauja taika su ordinu.
 - t-001
   global_id: t-178158
   teiginys: "1404 m. Racionže buvo sudaryta nauja taika su Vokiečių ordinu."
-  semantiniai_rysiai: "Žemaičiai priklausė Kryžiuočių ordinas (0.87)"
-  temporaliniai_duomenys: "įvykio data: 1404 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalintas kontekstinis žodis „Todėl“ ir patikslintas sutarties objektas."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "257720-258069; hash=5d14ba22179c6e112341deeb14891a9326a0a3bbcc41948fed5b00a9f31a0a99; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Kryžiuočių ordinas: 0.87"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Žemaičiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Žemaičiai buvo atiduoti ordinui."
   pagrindžia:
     - c-161938
 - susijęs iš [[objektai/ivykiai/Racionžo taika (1404 m.).md#claim-t-92939|Racionžo taika (1404 m.)]]: 1404 m. Racionžo taika atgaivino prekybą su Ordinu, kuri buvo suirusi po 1401 m. Žemaičių sukilimo prieš Ordiną.
@@ -82,8 +68,8 @@ Todėl 1404 m. Racionže (Lenkijoje) buvo padaryta nauja taika su ordinu.
     tui labai naudingas nuostatas, — kad jis galėsiąs pasiimti iš Že-
     maičių 250 gyventojų. Tatai jam vėliau labai pravertė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

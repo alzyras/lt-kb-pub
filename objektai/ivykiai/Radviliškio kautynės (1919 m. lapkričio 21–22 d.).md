@@ -58,22 +58,6 @@ Nenurodyta
 - t-007
   global_id: t-66848
   teiginys: "1919 m. lapkričio 20 d. fronto vadas pulkininkas leitenantas Kazys Ladyga įsakė pradėti puolimą Radviliškio-Šiaulių kryptimi."
-  semantiniai_rysiai: "Kazys Ladyga puolė Bermontininkai (0.76)"
-  temporaliniai_duomenys: "įvykio data: 1919 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Perrašyta išplečiant inicialą ir patikslinant pareigas pagal citatą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "790796-791423; hash=e00cea57ff5bdf9d9d4b9e44e940a3fcdb68fc035e5f59e9953ffe4864969ed8; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Bermontininkai: 0.76"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kazys Ladyga: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Bermontininkai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Claim nurodo, kad Kazys Ladyga įsakė pradėti puolimą prieš įsitvirtinusius bermontininkus."
-  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-43110
 
@@ -81,20 +65,6 @@ Nenurodyta
 - t-006
   global_id: t-66850
   teiginys: "1919 m. lapkričio 22 d. Panevėžio batalionas išmušė bermontininkus iš Meškuičių, o Vilniaus batalionas - iš Pašiaušės ir Padubysio."
-  semantiniai_rysiai: "Panevėžio batalionas puolė Bermontininkai (0.90)"
-  temporaliniai_duomenys: "įvykio data: 1919 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas, aiškus ir paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "794417-794696; hash=46c3981d8ac1e1d73c3951d3314407e34b143b3e95f947311210a7ce51e7faea; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Bermontininkai: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Panevėžio batalionas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Bermontininkai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Panevėžio bataliono veiksmą prieš bermontininkus."
   pagrindžia:
     - c-43111
 
@@ -102,20 +72,6 @@ Nenurodyta
 - t-006
   global_id: t-66850
   teiginys: "1919 m. lapkričio 22 d. Panevėžio batalionas išmušė bermontininkus iš Meškuičių, o Vilniaus batalionas - iš Pašiaušės ir Padubysio."
-  semantiniai_rysiai: "Panevėžio batalionas puolė Bermontininkai (0.90)"
-  temporaliniai_duomenys: "įvykio data: 1919 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas, aiškus ir paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "794417-794696; hash=46c3981d8ac1e1d73c3951d3314407e34b143b3e95f947311210a7ce51e7faea; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Bermontininkai: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Panevėžio batalionas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Bermontininkai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Panevėžio bataliono veiksmą prieš bermontininkus."
   pagrindžia:
     - c-43111
 - susijęs iš [[objektai/autoriai/Dalius Žygelis.md#claim-t-40613|Dalius Žygelis]]: Dalius Žygelis buvo kelių tekstų apie 1945–1949 m. Lietuvos partizanų kautynes bendraautoris.
@@ -144,8 +100,8 @@ Nenurodyta
     priversti greitai palikti pozicijas ir trauktis.
     Tačiau šis puolimas nepavyko.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -166,8 +122,8 @@ Nenurodyta
     lietuviai atsiėmė Joniškį. Plk. Bermontas
     buvo priverstas kapituliuoti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

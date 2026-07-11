@@ -56,22 +56,6 @@ Nenurodyta
 - t-001
   global_id: t-75097
   teiginys: "1960 m. Aleksandras Štromas, Tomas Venclova ir Pranas Morkus užmezgė ryšius su Maskvos disidentais, padėjo leisti „Sintaksis“ ir teikė informaciją iš Lietuvos."
-  semantiniai_rysiai: "Pranas Morkus buvo sąjungininkas su Tomas Venclova (0.70)"
-  temporaliniai_duomenys: "įvykio data: 1948 m.; įvykio data: 1960 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Papildyta citatoje nurodytu informacijos teikimu ir patikslintas žurnalo leidimas."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "472010-472675; hash=a03e2071d997acc6324addf61b26b8aeeb94da7aa507b1547aac8898588629f9; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sajungininkas_su -> Tomas Venclova: 0.70"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Pranas Morkus: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Tomas Venclova: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Abu asmenys kartu įvardyti kaip pirmieji lietuviai disidentai, veikę su Maskvos disidentais."
-  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-73013
 - susijęs iš [[objektai/grupes/Lietuvos disidentai.md#claim-t-74671|Lietuvos disidentai]]: Lietuvos disidentinio judėjimo pradžia laikoma 1960 m., kai Aleksandras Štromas, Tomas Venclova ir Pranas Morkus užmezgė ryšius su Maskvos disidentais.
@@ -99,8 +83,8 @@ Nenurodyta
     užmezgė santykius su Maskvos disidentais, pagelbėjo jiems Maskvoje leisti
     žurnalą „Sintaksis“, teikė informaciją iš Lietuvos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

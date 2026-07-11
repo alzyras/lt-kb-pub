@@ -39,16 +39,6 @@ Nepaisydami Lietuvos neutraliteto pareiškimo abiejų kariaujančių pusių atž
 - t-004
   global_id: t-73989
   teiginys: "Nepaisydamos Lietuvos neutraliteto, kariaujančios pusės puolė lietuvių įgulas Gardino ir Augustavo ruože."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "1114072-1114656; hash=eb36343fd5ed94e5747e4a57039894afc73f1984a289f1257f639333e355a256; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gardinas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Augustavas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Gardinas: mention_match, place, gap=11"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Augustavas\" parinktas kaip owner_note_path. Targetas \"Gardinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-72073
 - susijęs iš [[objektai/asmenys/A. Jakaitis.md#claim-t-39978|A. Jakaitis]]: Mjr. A. Jakaitis vadovavo 10-ajam pulkui, kuris iš Šipliškių turėjo žygiuoti į Suvalkus, o iš ten į Augustavą.
@@ -98,8 +88,8 @@ Nepaisydami Lietuvos neutraliteto pareiškimo abiejų kariaujančių pusių atž
     riuomenė pasitrauktų ligi demarkacijos linijos, dar 1919 metų
     liepos 27 d. nustatytos (tai antroji, arba Fošo, linija).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -130,8 +120,3 @@ Nepaisydami Lietuvos neutraliteto pareiškimo abiejų kariaujančių pusių atž
   patikimumo_saltinis: ai
   pagrindzia:
     - t-73989
-
-## Ryšiai
-- Buvo kelionės vieta: [[objektai/asmenys/A. Jakaitis]], [[objektai/asmenys/J. Čaplikas]]
-- Gynė Augustavą: [[objektai/grupes/2-oji divizija]]
-- Buvo žygio kryptis: [[objektai/asmenys/K. Ramanauskas]]

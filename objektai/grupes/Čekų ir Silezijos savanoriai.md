@@ -34,16 +34,6 @@ media_all_json: |-
 - t-001
   global_id: t-86838
   teiginys: "Čekų ir Silezijos savanorių vadai pateko į nelaisvę po nesėkmės brastoje per Šventosios upę ties Ukmerge."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "446784-447149; hash=a4d5391b4bfa259931e0f471b52946ee9c84e820892ab503a8ba0deacd4d1c1b; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Brasta: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Čekų ir Silezijos savanoriai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Brasta: mention_match, place, gap=64"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Čekų ir Silezijos savanoriai\" parinktas kaip owner_note_path. Targetas \"Brasta\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-82817
 ## Reikšmingi paminėjimai
@@ -60,8 +50,8 @@ media_all_json: |-
     laisvę. Tik pats Švitrigaila su savo sūnėnu, Maskvos kuni­
     gaikščiu Jurgiu, išvengė sutriuškinimo21.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

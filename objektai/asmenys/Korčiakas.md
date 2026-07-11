@@ -43,16 +43,6 @@ Aleksandras iš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­ v
 - t-002
   global_id: t-87536
   teiginys: "Šv. Dvasios dominikonų bažnyčioje priešais karaliaus Aleksandro portretą buvo kunigo Korčiako paveikslas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "479728-480046; hash=b04afb9d19d13c96e726237517ebeb00eba97bbdde679c9181178e33cc86ea98; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aleksandro portretas ir kunigo Korčiako paveikslas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Korčiakas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Aleksandro portretas ir kunigo Korčiako paveikslas: mention_match, thing, gap=32"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Korčiakas\" parinktas kaip owner_note_path. Targetas \"Aleksandro portretas ir kunigo Korčiako paveikslas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-83515
 
@@ -60,19 +50,6 @@ Aleksandras iš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­ v
 - t-001
   global_id: t-87537
   teiginys: "Kunigas Korčiakas buvo Aleksandro kapelionas; po Korčiako mirties Aleksandras Šv. Dvasios kleboniją perdavė dominikonams."
-  temporaliniai_duomenys: "įvykio data: 1501 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pagrindžia Korčiako statusą ir su jo mirtimi susietą perdavimą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "478989-479379; hash=c76a53ab14359c293f800198a568a81408b4a55030f5b3e03d1ccc5780bf8057; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Korčiakas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Korčiakas\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-83516
 - susijęs iš [[objektai/daiktai/Aleksandro portretas ir kunigo Korčiako paveikslas.md#claim-t-55030|Aleksandro portretas ir kunigo Korčiako paveikslas]]: Šv. Dvasios dominikonų bažnyčioje buvo matomas karaliaus Aleksandro viso ūgio portretas ir tokio pat dydžio kunigo Korčiako paveikslas.
@@ -107,8 +84,8 @@ Aleksandras iš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­ v
     tokio pat didumo kunigo Korčiako
     paveikslą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -126,8 +103,8 @@ Aleksandras iš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­ v
     vo kapeliono kunigo Korčiako mirties, jiems atidavė Šv. Dva­
     sios kleboniją, skyrė lėšų bažnyčiai ir vienuolynui statyti50.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -32,9 +32,6 @@ Jis net buvo sumanęs tam tikslui leisti specialų laikraštį ,,Pakeleivingą",
 - t-001
   global_id: t-02263
   teiginys: "„Pakeleivingą“ buvo sumanyta leisti kaip specialų laikraštį, bet leidimas jam nebuvo gautas."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "988132-988435; hash=2daa0780eb116fb0b5c59164ed5287258cfc06301833c0304ffc9c751a55dfa5; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-02501
 ## Reikšmingi paminėjimai
@@ -49,8 +46,8 @@ Jis net buvo sumanęs tam tikslui leisti specialų laikraštį ,,Pakeleivingą",
     net buvo sumanęs tam tikslui leisti specialų laikraštį ,,Pake-
     leivingą", bet negavo leidimo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

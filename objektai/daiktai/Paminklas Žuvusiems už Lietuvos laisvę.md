@@ -59,20 +59,6 @@ Nenurodyta
 - t-001
   global_id: t-19579
   teiginys: "1934 m. lapkričio 23 d. Kaune, Karo muziejaus sodelyje, šalia paminklo Žuvusiems už Lietuvos laisvę palaidotas Nežinomas kareivis."
-  semantiniai_rysiai: "Paminklas Žuvusiems už Lietuvos laisvę priklausė Kaunas (0.66)"
-  temporaliniai_duomenys: "mirties data: 1934 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „mirties data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "349624-350334; hash=e993ce331278d1831564d4865fc0072471cb73a5ecd16459cb449c09e145780a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Kaunas: 0.66"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Paminklas Žuvusiems už Lietuvos laisvę: llm_allowed_candidate, thing"
-  ryšio_targeto_parinkimas: "Kaunas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata lokalizuoja paminklą Kaune, todėl daiktas siejamas su Kaunu priklausymo ar buvimo ryšiu."
   pagrindžia:
     - c-22283
 ## Reikšmingi paminėjimai
@@ -91,8 +77,8 @@ Nenurodyta
     karių kapų tvarkymu, intensyviai kuriamas žuvusių karių kultas, kasmet iš-
     kilmingai paminima kariuomenės įkūrimo diena – lapkričio 23-ioji.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -122,6 +108,3 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-19579
-
-## Ryšiai
-- Paminklas Žuvusiems už Lietuvos laisvę priklausė [[objektai/vietos/Kaunas]]

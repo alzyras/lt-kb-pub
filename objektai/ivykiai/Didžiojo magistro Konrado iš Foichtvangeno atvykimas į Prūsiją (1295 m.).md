@@ -55,21 +55,6 @@ Nenurodyta
 - t-001
   global_id: t-62238
   teiginys: "1295 m. Teutonų ordino didysis magistras Konradas iš Foichtvangeno atvyko į Prūsiją ir parėmė brolius dovanomis bei pamokymais."
-  teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Konradas iš Foichtvangeno keliavo į Prūsija (0.90); Konradas iš Foichtvangeno rėmė Teutonai (0.74)"
-  temporaliniai_duomenys: "kelionės data: 1295 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) keliavo į Prūsija“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nusako asmenį, datą, veiksmą ir yra paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "595303-595678; hash=1c9a469b8d897b2408ccf1a2322febcf9257137525cdde04f066f4d63c51bf50; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Prūsija: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Konradas iš Foichtvangeno: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Konrado atvykimą į Prūsijos žemę."
   pagrindžia:
     - c-62739
 ## Reikšmingi paminėjimai
@@ -88,8 +73,8 @@ Nenurodyta
 
                  265 (258). Apie Kimelio pilies sunaikinimą 1296 metais
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -100,7 +85,8 @@ Nenurodyta
 - id: c-62739
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 190"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 190."
   citata_originali: |
     Tuo metu (1295 metais), kai prūsų atskalūnybė dar nebuvo išsikvėpusi, atvyko  į
     Prūsijos žemę brolis Konradas iš Foichtvangeno, Teutonų ordino didysis magistras,  ir,

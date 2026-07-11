@@ -65,17 +65,6 @@ Gabrielius Bekešas Skornatas pristatomas kaip vengrų pulkų vadas, apdovanotas
 - t-001
   global_id: t-54970
   teiginys: "Gabrielius Bekešas Skornatas buvo vengrų pulkų vadas, kurio nuopelnai apibūdinti kaip ištikimi, drąsūs ir pasiaukojami."
-  semantiniai_rysiai: "Gabrielius Bekešas buvo valdovas Vengrai (0.82); Gabrielius Bekešas puolė Polockas (0.61)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "794738-795934; hash=e60fef0846c964300e7a0c95bd4ad46ec6214402537563970d2d67a87edbfcc3; match=whitespace_regex"
-  sprendimo_priezastis: "gap::people"
-  ryšio_patikimumas: "buvo_valdovas -> Vengrai: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gabrielius Bekešas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vengrai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata tiesiogiai įvardija Bekešą vengrų pulkų vadu."
   pagrindžia:
     - c-78791
 
@@ -83,17 +72,6 @@ Gabrielius Bekešas Skornatas pristatomas kaip vengrų pulkų vadas, apdovanotas
 - t-002
   global_id: t-54971
   teiginys: "Gabrielius Bekešas prie Polocko rizikavo gyvybe, o vėliau ties Velikije Lūki buvo paskirtas vadovauti vengrų kariuomenės riteriams."
-  semantiniai_rysiai: "Gabrielius Bekešas paskyrė Vengrai (0.76); Gabrielius Bekešas puolė Polockas (0.61)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "795605-796416; hash=72126e4ab2af47df0c53b068f70461ff22fe699f93ae95fa7b435834db7296e6; match=whitespace_regex"
-  sprendimo_priezastis: "gap::people"
-  ryšio_patikimumas: "paskyre -> Vengrai: 0.76"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gabrielius Bekešas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vengrai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Bekešas buvo paskirtas vadovauti vengrų kariuomenės riteriams."
   pagrindžia:
     - c-55515
 
@@ -101,17 +79,6 @@ Gabrielius Bekešas Skornatas pristatomas kaip vengrų pulkų vadas, apdovanotas
 - t-003
   global_id: t-54972
   teiginys: "Už nuopelnus Gabrieliui Bekešui tėvonijos teise perduotas Alantos dvaras su Kristupiškių, Kirdeikiškių, Germaniškio ir Gelminiškio priklausiniais."
-  semantiniai_rysiai: "Alanta priklausė Gabrielius Bekešas (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "795961-797749; hash=f273d3db4df3f23dd82469582c83e85a1078e0ea86300ad1d25500229c754d3f; match=whitespace_regex"
-  sprendimo_priezastis: "gap::people"
-  ryšio_patikimumas: "priklause -> Gabrielius Bekešas: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Alanta: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Gabrielius Bekešas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Alantos dvaras perduotas Gabrieliui Bekešui."
   pagrindžia:
     - c-55516
 
@@ -119,17 +86,6 @@ Gabrielius Bekešas Skornatas pristatomas kaip vengrų pulkų vadas, apdovanotas
 - t-004
   global_id: t-54973
   teiginys: "Bekešo vaikams, palikuonims, paveldėtojams ir giminaičiams leista paveldimai valdyti suteiktas valdas."
-  semantiniai_rysiai: "Alanta priklausė Gabrielius Bekešas (0.74)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "798092-799986; hash=5b33f053d6c8264d35deaf307d5e778cd53a5b3b03ea7b6926e79269d072bf99; match=whitespace_regex"
-  sprendimo_priezastis: "gap::people"
-  ryšio_patikimumas: "priklause -> Gabrielius Bekešas: 0.74"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Alanta: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Gabrielius Bekešas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Tekstas kalba apie Bekešui ir jo paveldėtojams leidžiamą turėti Alantos valdą."
   pagrindžia:
     - c-55517
 
@@ -137,16 +93,6 @@ Gabrielius Bekešas Skornatas pristatomas kaip vengrų pulkų vadas, apdovanotas
 - t-005
   global_id: t-54974
   teiginys: "Bekešui ir jo palikuonims leista plėtoti dovanotas valdas, bet už jas reikėjo vykdyti krašto karinę tarnybą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "800471-801665; hash=8a17d1bade4920434662362d6506b441bea5dc5ea0ddbde9b0ca8936da0a5f99; match=whitespace_regex"
-  sprendimo_priezastis: "gap::people"
-  ryšio_patikimumas: "susije_su -> Bajorai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gabrielius Bekešas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Bajorai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gabrielius Bekešas\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-55518
 
@@ -154,16 +100,6 @@ Gabrielius Bekešas Skornatas pristatomas kaip vengrų pulkų vadas, apdovanotas
 - t-006
   global_id: t-82311
   teiginys: "Gabrieliui Bekešui po Astiko Varšuvos seime pagal paveldėjimo teisę buvo atiduotas Alantos dvaras."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "588451-588868; hash=272dc4c996b50cbe277e4c6446be3795008e3f6119164a0af1274986ac9e36fe; match=exact"
-  sprendimo_priezastis: "gap::people"
-  ryšio_patikimumas: "susije_su -> Alanta: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gabrielius Bekešas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Alanta: mention_match, place, gap=83"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gabrielius Bekešas\" parinktas kaip owner_note_path. Targetas \"Alanta\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-78790
 
@@ -171,9 +107,6 @@ Gabrielius Bekešas Skornatas pristatomas kaip vengrų pulkų vadas, apdovanotas
 - t-008
   global_id: t-82312
   teiginys: "Gabrieliui Bekešui ir jo palikuonims buvo leista valdose naudoti derlių, statyti bažnyčias, mokyklas, smukles ir malūnus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "800085-801123; hash=d2cc9fc13d1ff2f25dc4584419b60e7276eeb565e02300eebddde7fbb70fc994; match=whitespace_regex"
-  sprendimo_priezastis: "gap::people"
   pagrindžia:
     - c-78789
 
@@ -181,17 +114,6 @@ Gabrielius Bekešas Skornatas pristatomas kaip vengrų pulkų vadas, apdovanotas
 - t-007
   global_id: t-82313
   teiginys: "Gabrielius Bekešas Skornatas vadovavo karaliaus vengrų pulkams ir buvo įvertintas už ištikimą, drąsią bei pasiaukojamą tarnybą."
-  semantiniai_rysiai: "Gabrielius Bekešas buvo valdovas Vengrai (0.82); Gabrielius Bekešas puolė Polockas (0.61)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "794738-795934; hash=e60fef0846c964300e7a0c95bd4ad46ec6214402537563970d2d67a87edbfcc3; match=whitespace_regex"
-  sprendimo_priezastis: "gap::people"
-  ryšio_patikimumas: "buvo_valdovas -> Vengrai: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gabrielius Bekešas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vengrai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata tiesiogiai įvardija Bekešą vengrų pulkų vadu."
   pagrindžia:
     - c-78791
 - susijęs iš [[objektai/ivykiai/Gabrieliaus Bekešo vadovavimas vengrų kariuomenei žygyje prieš Maskvos kunigaikštį ties Velikije Lūki.md#claim-t-86945|Gabrieliaus Bekešo vadovavimas vengrų kariuomenei žygyje prieš Maskvos kunigaikštį ties Velikije Lūki]]: Žygyje ties Velikije Lūki Gabrielis Bekešas buvo paskirtas vadovauti vengrų kariuomenės riteriams.
@@ -233,8 +155,8 @@ Gabrielius Bekešas Skornatas pristatomas kaip vengrų pulkų vadas, apdovanotas
     dydamas tikrą ir ryžtingą norą bei nuoširdumą mums, savo
     valdovui, ir Respublikai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -275,8 +197,8 @@ Gabrielius Bekešas Skornatas pristatomas kaip vengrų pulkų vadas, apdovanotas
     laikų nusižengimus jį nubaudus mirties bausme, pagal vi­
     suotinę teisę atiteko mums, valdovui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -319,8 +241,8 @@ Gabrielius Bekešas Skornatas pristatomas kaip vengrų pulkų vadas, apdovanotas
     iždui, o mes šių rejestrų nuorašą su to paties mūsų iždo
     --- • ---
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -351,8 +273,8 @@ Gabrielius Bekešas Skornatas pristatomas kaip vengrų pulkų vadas, apdovanotas
     ir kiti Lietuvos Didžiosios Kunigaikštystės bajorai vykdo,
     tuomet kai bus šaukiama nereguliarioji kariuomenė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -381,8 +303,8 @@ Gabrielius Bekešas Skornatas pristatomas kaip vengrų pulkų vadas, apdovanotas
     tyti, daryti tvenkinius, malūnus statyti, visokeriopą nau­
     dą tose valdose sau didinti ir plėsti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -408,8 +330,8 @@ Gabrielius Bekešas Skornatas pristatomas kaip vengrų pulkų vadas, apdovanotas
     niuje jau Stepono Batoro laikais pakirto protestantų įtaką
     Lietuvoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -442,8 +364,8 @@ Gabrielius Bekešas Skornatas pristatomas kaip vengrų pulkų vadas, apdovanotas
     420
     Transiivanijos (vert.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -698,9 +620,4 @@ Gabrielius Bekešas Skornatas pristatomas kaip vengrų pulkų vadas, apdovanotas
     - t-54970
 
 ## Ryšiai
-- Rėmė Gabrielius Bekešą: [[objektai/asmenys/Steponas Batoras]]
-- Turėjo priklausinį: [[objektai/vietos/Alanta]], [[objektai/grupes/Bajorai]]
-- Gabrielius Bekešas buvo valdovas [[objektai/grupes/Vengrai]]
-- Gabrielius Bekešas puolė [[objektai/vietos/Polockas]]
-- Gabrielius Bekešas paskyrė [[objektai/grupes/Vengrai]]
-- Gabrielius Bekešas rėmė [[objektai/grupes/Abiejų Tautų Respublika]]
+- Turėjo priklausinį: [[objektai/vietos/Alanta]]

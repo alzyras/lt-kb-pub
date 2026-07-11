@@ -30,12 +30,6 @@ Sokolas Čekas — tai Jonas Soko'as iš Lamberko (m. I410.IX).
 - t-001
   global_id: t-194136
   teiginys: "Sokolas Čekas — tai Jonas Soko'as iš Lamberko (m. I410.IX)."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "484919-485186; hash=34115be18e6849e90cf8e19ff1eebc645aa4315e94e6b60e87eab51c581aed25; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176749
 ## Reikšmingi paminėjimai
@@ -50,8 +44,8 @@ Sokolas Čekas — tai Jonas Soko'as iš Lamberko (m. I410.IX).
     kovojusiam Žalgirio m ūšyje prieš vokiečius Lenkijos kariuomenės
     sudėtyje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

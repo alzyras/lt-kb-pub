@@ -34,16 +34,6 @@ prie arsenalo (pasak kitų šaltinių - nuo Gedimino pilies kalno) driokstelėjo
 - t-001
   global_id: t-41726
   teiginys: "Velykų naktį patrankos šūvis, pasak kai kurių šaltinių, driokstelėjo nuo Gedimino pilies kalno ir davė puolimo signalą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "613813-614006; hash=d12ed00fd3e0db75c987d93bb5fece539e55232c829afc8b46a70967769e81fd; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gedimino pilies kalnas (pilis): owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gedimino pilies kalnas (pilis)\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-43445
 ## Reikšmingi paminėjimai
@@ -57,8 +47,8 @@ prie arsenalo (pasak kitų šaltinių - nuo Gedimino pilies kalno) driokstelėjo
     driokstelėjo patrankos šūvis. Tai buvo
     signalas puolimui pradėti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

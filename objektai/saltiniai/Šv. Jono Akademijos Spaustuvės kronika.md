@@ -42,19 +42,6 @@ Jono Ak ademi jos Spaustuvės kronika 1547. Vilniaus kanauninkas Vilčiopolskis 
 - t-002
   global_id: t-88361
   teiginys: "1631 m. Akademijos kolegija įgijo sklypą ir mūrinį namą, kurį vėliau pavertė spaustuve."
-  temporaliniai_duomenys: "įvykio data: 1631 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatoje nurodytą 1631 m. įvykį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "386661-387326; hash=ccf4c03a0dbbf0e296261f0f9ca48b256858a9fd4af6015647d8b11aa33c5372; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Augustas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Šv. Jono Akademijos Spaustuvės kronika: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Augustas: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šv. Jono Akademijos Spaustuvės kronika\" parinktas kaip owner_note_path. Targetas \"Augustas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-84341
 
@@ -62,19 +49,6 @@ Jono Ak ademi jos Spaustuvės kronika 1547. Vilniaus kanauninkas Vilčiopolskis 
 - t-001
   global_id: t-88362
   teiginys: "1547 m. Jonas Hozijus pardavė sklypą ir mūrinį namą, kuriame buvo spaustuvė, Sebastijonui Vitinskiui."
-  temporaliniai_duomenys: "prekybos laikotarpis: 1547 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „prekybos laikotarpis“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra faktinis, gramatiškas ir paremtas kronikos įrašu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "386029-387170; hash=e61db882aacb496927b8239838a879943170adf9606fff246d88e94e647d7942; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Augustas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Šv. Jono Akademijos Spaustuvės kronika: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Augustas: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šv. Jono Akademijos Spaustuvės kronika\" parinktas kaip owner_note_path. Targetas \"Augustas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-84340
 ## Reikšmingi paminėjimai
@@ -111,8 +85,8 @@ Jono Ak ademi jos Spaustuvės kronika 1547. Vilniaus kanauninkas Vilčiopolskis 
     mūrinį namą, kurį vėlesniais laikais toji pati Akademijos ko­
     legija spaustuve pavertė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -140,8 +114,8 @@ Jono Ak ademi jos Spaustuvės kronika 1547. Vilniaus kanauninkas Vilčiopolskis 
     las jai buvo suteiktas privilegijomis šviesiausiųjų karalių: Au­
     gusto III ir Stanislovo Augusto.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

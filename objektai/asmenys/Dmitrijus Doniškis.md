@@ -45,20 +45,6 @@ Tuo metu, kai Andrius, nuolatinis Dmitrijaus Do­ niškio bendražygis, karo rū
 - t-001
   global_id: t-87652
   teiginys: "Dmitrijus Doniškis kovojo prieš totorius kartu su Andriumi, kuris daug prisidėjo prie pergalės Kulikovo lauke 1380 m. rugsėjo 8 d."
-  semantiniai_rysiai: "Dmitrijus Doniškis kariavo prieš Totoriai (0.91)"
-  temporaliniai_duomenys: "mūšio data: 1380 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Dmitrijus Doniškis kariavo prieš Totoriai“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata remia Dmitrijaus Doniškio ryšį su Andriumi ir Kulikovo mūšiu, bet pradinis sakinys fragmentiškas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "99005-100009; hash=f9d0ea0f4b047faa33a26129f7a58eccba57f5c0a68628bf33d7a6b8798ee8a4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Totoriai: 0.91"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Dmitrijus Doniškis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Totoriai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata tiesiogiai teigia, kad Dmitrijus Doniškis kartu kovojo prieš totorius."
   pagrindžia:
     - c-83631
 
@@ -66,14 +52,6 @@ Tuo metu, kai Andrius, nuolatinis Dmitrijaus Do­ niškio bendražygis, karo rū
 - t-002
   global_id: t-194700
   teiginys: "Iškalti Dmitrijaus Doniškio laikų rusiški žen klai ir kitokie lietuvių kariški ženklai 2 pav."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "831385-831645; hash=ee11f97f1f79e772825b810fc2a046bd7e411c7a80f7d7dfa1a22d8df4f8ac10; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-177096
 ## Reikšmingi paminėjimai
@@ -112,8 +90,8 @@ Tuo metu, kai Andrius, nuolatinis Dmitrijaus Do­ niškio bendražygis, karo rū
     rugpjūčio viduryje su stipriu žemaičių raitelių pulku apsupo
     Vilnių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -138,8 +116,8 @@ Tuo metu, kai Andrius, nuolatinis Dmitrijaus Do­ niškio bendražygis, karo rū
     klai ir kitokie lietuvių kariški ženklai
     2 pav.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

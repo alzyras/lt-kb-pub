@@ -31,19 +31,6 @@ Karalius, atleidęs kryžiuočių žygūną, sušaukė Lenčicos seimą. Bychovc
 - t-001
   global_id: t-185391
   teiginys: "Karalius, atleidęs kryžiuočių žygūną, sušaukė Lenčicos seimą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "649767-650237; hash=30fe339935415112a3aa076f5f1e884257efcfc082b96157154e386cc7467384; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "seimas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=36"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"seimas\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-168752
 
@@ -51,21 +38,6 @@ Karalius, atleidęs kryžiuočių žygūną, sušaukė Lenčicos seimą. Bychovc
 - t-002
   global_id: t-187527
   teiginys: "Bychovco kronikos pasakojime karalius Aleksandras Brastos seime nepagrįstai pyko ant didikų dėl Droždžai atiduotos Lydos."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "286842-287144; hash=b5fd1e558fc80892b7f5936ba462db71b7a7be64e006e7fd703a681e876f7a58; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aleksandras Jogailaitis: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "seimas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Aleksandras Jogailaitis: mention_match, person, gap=20"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"seimas\" parinktas kaip owner_note_path. Targetas \"Aleksandras Jogailaitis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-170477
 
@@ -73,21 +45,6 @@ Karalius, atleidęs kryžiuočių žygūną, sušaukė Lenčicos seimą. Bychovc
 - t-003
   global_id: t-187528
   teiginys: "Po Maskvos Didžiosios Kunigaikštystės pralaimėjimo karalius Aleksandras rudenį paskyrė Lenkijos ponams seimą Radome."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "292931-293239; hash=058ac7fcbcf0f120e5b28b3a1aff2ed3842ba07ba88efe84c855636f1c04d9ef; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Radomas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "seimas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Radomas: mention_match, place, gap=6"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"seimas\" parinktas kaip owner_note_path. Targetas \"Radomas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-170478
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77965|A. Smetona]]: 1927 m. balandžio 12 d. A. Smetona paleido III Seimą ir taip pašalino krikščionis demokratus iš valdžios.
@@ -332,8 +289,8 @@ Karalius, atleidęs kryžiuočių žygūną, sušaukė Lenčicos seimą. Bychovc
     gų, visokiais būdais skatinti magistrą draugiškai už­
     baigti ginčą su Vytautu.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -350,8 +307,8 @@ Karalius, atleidęs kryžiuočių žygūną, sušaukė Lenčicos seimą. Bychovc
     dėl ko. Kunigaikščio Glinskio priprašytas, jis davė
     Droždžai Lydą3 8 , priklausiusią Iljiničiui3 9 .
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -369,8 +326,8 @@ Karalius, atleidęs kryžiuočių žygūną, sušaukė Lenčicos seimą. Bychovc
     nams seimą Radome rudenį, šventųjų Kozmo ir Dami­
     jono dieną 6 5 . Ten dalyvavo ir Lietuvos didikai 6 6 .
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

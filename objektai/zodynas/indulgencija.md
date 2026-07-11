@@ -41,17 +41,6 @@ Martynas V pa­ skyrė Vytautą vikaru Rusijos kraštuose ir Livonijos vyskupij�
 - t-001
   global_id: t-36782
   teiginys: "Martynas V suteikė indulgencijų Vytautui ir jo patarėjams."
-  semantiniai_rysiai: "Martynas V paskyrė Vytautas (Lietuvos valdovas, XIV–XV a.) (0.91); Martynas V rėmė Vytautas (Lietuvos valdovas, XIV–XV a.) (0.84)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "316573-317255; hash=19d74678dc8772a52a037932ee391961dff82b46172ccc0a5bf3052c3779a773; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "paskyre -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.91"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Martynas V: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citatoje Martynas V yra veiksmo subjektas, o Vytautas tiesiogiai nurodytas kaip paskirtasis."
   pagrindžia:
     - c-38735
 ## Reikšmingi paminėjimai
@@ -72,8 +61,8 @@ Martynas V pa­ skyrė Vytautą vikaru Rusijos kraštuose ir Livonijos vyskupij�
     jos, draudė Vytautui remti husitus, nepritarė Vytauto karūna­
     cijai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -60,16 +60,6 @@ Nenurodyta
 - t-004
   global_id: t-05325
   teiginys: "Kai imperatorius pranešė parengęs du vainikus, lenkams pavyko įtikinti popiežių Martyną V sulaikyti Vytauto vainikavimą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1013269-1013675; hash=c3ead185c6fdd55adcce921e5a80c657cacbafbd8ed43c4df3a901345149d692; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytauto karūnacijos byla (1429–1430 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=53"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytauto karūnacijos byla (1429–1430 m.)\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-67061
 
@@ -77,17 +67,6 @@ Nenurodyta
 - t-005
   global_id: t-05326
   teiginys: "Lenkai pasienyje sulaikė Cigalos delegaciją, atėmė diplomus ir taip sužlugdė 1430.IX.8 Vilniuje planuotą vainikavimą."
-  semantiniai_rysiai: "Lenkai puolė Vytauto karūnacijos byla (1429–1430 m.) (0.58)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1017371-1017821; hash=a128a7e7beef3a3d2349bebfa01764d0fe46abf0ad12b85e3b6cdd35a4c74455; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Vytauto karūnacijos byla (1429–1430 m.): 0.58"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lenkai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vytauto karūnacijos byla (1429–1430 m.): llm_allowed_candidate, event"
-  ryšio_paaiskinimas: "Delegacijos sulaikymas ir dokumentų atėmimas buvo tiesioginis veiksmas prieš karūnavimo procesą, bet objektas modeliuojamas įvykiu."
   pagrindžia:
     - c-04918
     - c-67067
@@ -96,16 +75,6 @@ Nenurodyta
 - t-003
   global_id: t-66986
   teiginys: "Lenkai dar visaip bandė sutrukdyti Vytauto sumanymą, prašė Vytautą nors nesiskubinti ir buvo pasiūlę jam įteikti net Lenkų karūną (tuo būdu Jogailai būtų tekę atsisakyti nuo sosto)."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "510777-511394; hash=1140d63f72807d05ff481413c2aa15261f2b3bb20e80af1dcc25ab157fb12ebb; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Karūna: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytauto karūnacijos byla (1429–1430 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Karūna: mention_match, thing, gap=88"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytauto karūnacijos byla (1429–1430 m.)\" parinktas kaip owner_note_path. Targetas \"Karūna\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-67066
 
@@ -113,16 +82,6 @@ Nenurodyta
 - t-001
   global_id: t-66987
   teiginys: "Lenkų ponai įrodinėjo, kad Vytauto karūnavimas būtų priešingas Lietuvos ir Lenkijos sutartims, nes tada Lietuva, esą, galėtų po Vytauto išsirinkti sau kitą karalių, o ne tą, kurį išsirinktų po Jogailos mirties lenkai."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "499078-499639; hash=8d134c24307b580813873faedc73fd2415fc460f08b4e551259ed04dabff2c72; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytauto karūnacijos byla (1429–1430 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=48"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytauto karūnacijos byla (1429–1430 m.)\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-67062
 
@@ -130,19 +89,6 @@ Nenurodyta
 - t-006
   global_id: t-184600
   teiginys: "Išvykęs iš Lucko, karalius Korčine sukvietė seimą spręsti, kaip priešintis Vytauto karūnacijos siekiams."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "733578-734030; hash=7bc1fae9149e53a5307f153dd6d1ae64b631fb5127e8bb3902e5c801638980a5; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Korčinas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytauto karūnacijos byla (1429–1430 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Korčinas: mention_match, place, gap=48"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytauto karūnacijos byla (1429–1430 m.)\" parinktas kaip owner_note_path. Targetas \"Korčinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-167961
 - susijęs iš [[objektai/asmenys/Zbignievas Olesnickis.md#claim-t-176851|Zbignievas Olesnickis]]: Vytautas siekė patraukti Zbignievą Olesnickį į savo pusę ir negailėjo jam dovanų.
@@ -159,8 +105,8 @@ Nenurodyta
     sugavo Cigalos delegaciją, atėmė diplomus ir vainikavimo reikšmę
     aiškinančius laiškus, delegatus apmušė ir paleido ordino žemėse.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -177,8 +123,8 @@ Nenurodyta
     esąs parengęs du vainikus (Vytautui ir jo žmonai), lenkams pavyko
     įtikinti popiežių Martyną V, kad jis sulaikytų Vytauto vainikavimą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -197,8 +143,8 @@ Nenurodyta
     paslėptų tikslų. O kai pamatė, kad tos jo viltys yra žuvusios, tada
     jis ir ėmė šalintis ir atšalti nuo Lenkijos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -219,8 +165,8 @@ Nenurodyta
     Kutrzeba, uniją paliko galioje, bet faktiškai ji buvo smarkiai iš
     naujo suardyta^1 ), suduotas jai didelis smūgis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -235,8 +181,8 @@ Nenurodyta
     Išgirdę apie pasienio trukdymus, tie pasiuntiniai su vainikais grįžo
     Vokietijon. Vainikavimas susitrukdė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -259,8 +205,8 @@ Nenurodyta
     simus, nebedrįso ilgiau čia užtrukti ir patraukė tiesiai
     iš Volynės į Vengriją.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -374,7 +320,8 @@ Nenurodyta
 - id: c-167961
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 418"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 418."
   citata_originali: |
     Štai todėl karalius po senato posėdžio, net neatsi­
     sveikinęs su imperatoriumi, skubiai išvyko iš Lucko.
@@ -394,6 +341,3 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184600
-
-## Ryšiai
-- Puolė Vytauto karūnacijos bylą (1429–1430 m.): [[objektai/grupes/Lenkai]]

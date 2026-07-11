@@ -39,9 +39,6 @@ Papildomos aiškios formos neišskirtos.
 - t-003
   global_id: t-07690
   teiginys: "Karmūšų vietos buvo kovų laukai, kuriuose su priešais grūmėsi ir žuvo kariai."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "26896-27806; hash=79aa79a6d7f1c9bdb6e6ddbb091fe992029471f8d19d3e4f5f7b9d21afbf6399; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
   pagrindžia:
     - c-09620
 
@@ -49,9 +46,6 @@ Papildomos aiškios formos neišskirtos.
 - t-004
   global_id: t-07691
   teiginys: "Karmūšų vietos buvo vadinamos šventomis, nes jose žuvo už laisvę ir namus kovoję žmonės."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "26896-27806; hash=79aa79a6d7f1c9bdb6e6ddbb091fe992029471f8d19d3e4f5f7b9d21afbf6399; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
   pagrindžia:
     - c-09620
 ## Reikšmingi paminėjimai
@@ -70,8 +64,8 @@ Papildomos aiškios formos neišskirtos.
         kokias vietas paprastai milžinų kapais vadina, apie kuriuos pasakos šiandien dar visiems yra
         žinomos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

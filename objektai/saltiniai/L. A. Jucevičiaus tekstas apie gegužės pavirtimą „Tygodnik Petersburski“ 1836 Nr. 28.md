@@ -36,17 +36,6 @@ Narbuto teigimu, Adomas Jucevičius „Tygodnik Petersburski“ 1836 m. Nr. 28 a
 - t-001
   global_id: t-191848
   teiginys: "Narbuto teigimu, Adomas Jucevičius „Tygodnik Petersburski“ 1836 m. Nr. 28 aprašė ilgą legendą apie gegužės pavirtimą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1836 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Išskleistas citatoje vartojamas Jucevičiaus vardas ir palikta atribucija legendos kontekstui. Nepridėta paties pavirtimo turinio."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "877964-878194; hash=ce31214ad57f8758d12800664e11ef44eecbde295b40ce56d592fc6815e9fbc1; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174730
 ## Reikšmingi paminėjimai
@@ -60,8 +49,8 @@ Narbuto teigimu, Adomas Jucevičius „Tygodnik Petersburski“ 1836 m. Nr. 28 a
     cevičius užėmė nemenką „Tygodnik Petersburski“ (1836. Nr. 28)
     dalį. Vis dėlto patį pavirtimo turinį privalau aprašyti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -72,7 +61,8 @@ Narbuto teigimu, Adomas Jucevičius „Tygodnik Petersburski“ 1836 m. Nr. 28 a
 - id: c-174730
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 480"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 480."
   citata_originali: |
     O taip atsitiktų, jeigu aš pateikčiau ilgą legendą
     apie gegužės pavirtimą, kurio aprašymu ekskunigas Adomas Ju­

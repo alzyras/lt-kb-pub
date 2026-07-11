@@ -45,14 +45,6 @@ Nenurodyta
 - t-001
   global_id: t-194802
   teiginys: "Apklausinėjus žydą ir kaimietį, paaiškėjo, kad dau giausia buvo plonų monetų, visos vienodo antspaudo; dviejų rūšių storosios sudarė pusę viso radinio svorio; sidabras aukš- 31 Dėl Santvaro atvaizdo buvo įvairiausių nuomonių."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "432346-432945; hash=3ce981d98ef52024097db3857baa6ab62a6abaa525acdf29afae3f17d55419d1; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-177198
 ## Reikšmingi paminėjimai
@@ -72,8 +64,8 @@ Nenurodyta
     jog kažkur Lietuvoje arba Lietuvos Rusioje buvo fabrikas, gaminęs to­
     kios rūšies popierių. Taigi galėjo panašus egzistuoti nuo seno.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -84,7 +76,8 @@ Nenurodyta
 - id: c-177198
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 249"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 249."
   citata_originali: |
     Apklausinėjus žydą ir kaimietį, paaiškėjo, kad dau­
     giausia buvo plonų monetų, visos vienodo antspaudo; dviejų

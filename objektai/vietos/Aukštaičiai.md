@@ -34,12 +34,6 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
 - t-001
   global_id: t-193270
   teiginys: "Tiesiogiai Gediminui priklausė tik Aukštaičiai, visos pietinės jotvingų žemės (vadinamoji Juodoji Rusija) ir artimos gudų sritys — Minskas, Vitebskas, Polockas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "163395-163863; hash=b94c562c88729dda5c7053756db8e155f80e5bccd2fabc88faa6efc96c8af550; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-175999
 ## Reikšmingi paminėjimai
@@ -58,8 +52,8 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
     Gediminas, Polocke — jo brolis Vainys, o kitose kunigaikštys-
     tėse — jo sūnūs.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

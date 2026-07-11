@@ -36,12 +36,6 @@ Beje, ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos ir sie
 - t-001
   global_id: t-193671
   teiginys: "Beje, ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos ir siekė „laisvojo miesto“ statuso (panašaus į Dancigo (dabar Gdanskas))."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "22580-23103; hash=99b33441233b457b7b3af816d15c9585b2cccd50f1e25f4946f2eefabb90d611; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176340
 ## Reikšmingi paminėjimai
@@ -61,8 +55,8 @@ Beje, ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos ir sie
     tarp miškingosios Rytų Europos priešistorinių archeologinių kultūrų
     3–2  tūkstančiai metų prieš Kristų atsirado baltų kultūra.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

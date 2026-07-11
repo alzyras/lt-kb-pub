@@ -38,20 +38,6 @@ ORiebiniai 1920 m. sausio pradžioje Latvijos ir LenkiJos kariuomenės išstūm�
 - t-001
   global_id: t-38971
   teiginys: "1920 m. sausio pradžioje Latvijos ir Lenkijos kariuomenės išstūmė Raudonąją armiją iš Daugpilio."
-  semantiniai_rysiai: "Latvijos kariuomenė užėmė Daugpilis (0.78)"
-  temporaliniai_duomenys: "įvykio data: 1920 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie Latvijos kariuomenės veiksmą ir rezultatą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "779557-779718; hash=b50b56faa082f7335256a7241f078f1a605a62012974bf432693f10a4627159f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Daugpilis: 0.78"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Latvijos kariuomenė: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Daugpilis: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Raudonosios armijos išstūmimas iš Daugpilio rodo miesto perėmimą kariniu veiksmu."
   pagrindžia:
     - c-40775
 ## Reikšmingi paminėjimai
@@ -65,8 +51,8 @@ ORiebiniai 1920 m. sausio pradžioje Latvijos ir LenkiJos kariuomenės išstūm�
     Jos kariuomenės išstūmė Raudonąją armiją iš Daug-
     pilio. Latvijos teritorija buvo išvalyta nuo bolševikų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -90,6 +76,3 @@ ORiebiniai 1920 m. sausio pradžioje Latvijos ir LenkiJos kariuomenės išstūm�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-38971
-
-## Ryšiai
-- Latvijos kariuomenė užėmė [[objektai/vietos/Daugpilis]]

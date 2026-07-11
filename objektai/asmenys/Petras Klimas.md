@@ -41,20 +41,6 @@ Vokiečiams modernizuojant aneksijos ir prisijungimo planus, prireikus tam ir ok
 - t-002
   global_id: t-46282
   teiginys: "Petras Klimas buvo 1917 m. Vilniuje leistos surengti lietuvių konferencijos organizacinio komiteto narys."
-  semantiniai_rysiai: "Petras Klimas gyveno Vilnius (0.52)"
-  temporaliniai_duomenys: "įvykio data: 1917 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pagrindžia narystę organizaciniame komitete, o pradinis tekstas sugadintas puslapio ir OCR triukšmo."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "258721-259330; hash=acfc7bebc8f5ddf4654964dfd4a0822eb2a21927c5cee4462a4eee240d12717d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Vilnius: 0.52"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Petras Klimas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Petras Klimas buvo organizacinio komiteto narys konferencijai Vilniuje; tiesioginė vietos sąsaja yra, bet ne gyvenimo faktas siaurąja prasme."
   pagrindžia:
     - c-48884
 
@@ -62,20 +48,6 @@ Vokiečiams modernizuojant aneksijos ir prisijungimo planus, prireikus tam ir ok
 - t-001
   global_id: t-46283
   teiginys: "Petras Klimas 1926 m. dalyvavo Lietuvos delegacijoje Tautų Sąjungoje Ženevoje kaip pasiuntinys."
-  semantiniai_rysiai: "Petras Klimas keliavo į Ženeva (0.86)"
-  temporaliniai_duomenys: "įvykio data: 1926 m.; įvykio data: 1927 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir paremtas citata."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "321346-321997; hash=5010259d8d2540bd83398b4f81b12056d60cb4f13ac25ade4186bc6aac6a3c7c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Ženeva: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Petras Klimas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Ženeva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata nurodo Petrą Klimą Lietuvos delegacijoje Ženevoje."
   pagrindžia:
     - c-48883
 - susijęs iš [[objektai/asmenys/Augustinas Voldemaras.md#claim-t-75772|Augustinas Voldemaras]]: 1927 m. gruodžio 10 d. Ženevoje Augustinas Voldemaras atsakė Juzefui Pilsudskiui, kad karo padėties tarp Lietuvos ir Lenkijos nėra.
@@ -105,8 +77,8 @@ Vokiečiams modernizuojant aneksijos ir prisijungimo planus, prireikus tam ir ok
     išeities, paprasčiausiai pasakė, jog karo padėties tarp Lietuvos ir Lenkijos
     nėra.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -127,8 +99,8 @@ Vokiečiams modernizuojant aneksijos ir prisijungimo planus, prireikus tam ir ok
     iš kiekvienos apskrities po 5–8 aktyviausius įvairių socialinių ir politinių
     grupių atstovus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -185,7 +157,3 @@ Vokiečiams modernizuojant aneksijos ir prisijungimo planus, prireikus tam ir ok
   patikimumo_saltinis: ai
   pagrindzia:
     - t-46282
-
-## Ryšiai
-- Petras Klimas keliavo į [[objektai/vietos/Ženeva]]
-- Petras Klimas gyveno [[objektai/vietos/Vilnius]]

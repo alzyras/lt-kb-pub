@@ -42,11 +42,6 @@ Gókski, K.
 - t-002
   global_id: t-54118
   teiginys: "K. Gókski 1888 m. paskelbė darbą „Bitwa pod Grunwaldem“ leidinyje „Biblioteka Warszawska“."
-  temporaliniai_duomenys: "įvykio data: 1888 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "937737-938094; hash=2762f915cab502ec40a78b47bc73d3423c8b89193d728d7386a96e6acd6a8c5a; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-55067
 
@@ -54,11 +49,6 @@ Gókski, K.
 - t-001
   global_id: t-54119
   teiginys: "K. Gókski 1888 m. „Biblioteka Warszawska“ paskelbė darbą „Bitwa pod Grunwaldem“ apie Žalgirio mūšį."
-  temporaliniai_duomenys: "įvykio data: 1888 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "937737-938094; hash=2762f915cab502ec40a78b47bc73d3423c8b89193d728d7386a96e6acd6a8c5a; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-55067
 ## Reikšmingi paminėjimai
@@ -72,8 +62,8 @@ Gókski, K.
     1886, 142-150 p. — Ivinskis, Z. : _Kovos bruožai dėl Žemaičių ir jų
     sienų,_ Athenaeum, VI, 1935, 54-117 p. — (”) _Vytauto Didžiojo perijodo_
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

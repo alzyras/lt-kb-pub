@@ -34,16 +34,6 @@ Kunigaikščiai valdė savo žemes ir teisė jose gyvenančius žmones per savo 
 - t-002
   global_id: t-12593
   teiginys: "Tėvūnai dvaruose prižiūrėjo visą tų dvarų ūkį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "342549-342961; hash=dafb39900f42347ee905db8a7225ee49ab11e151daecb6d7b060ec969ae6f69f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Bajorai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "tėvūnas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Bajorai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"tėvūnas\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-14716
 
@@ -51,18 +41,6 @@ Kunigaikščiai valdė savo žemes ir teisė jose gyvenančius žmones per savo 
 - t-003
   global_id: t-70370
   teiginys: "Tėvūnais vadinti dvarų prievaizdai, per kuriuos kunigaikščiai valdė savo žemes ir teisė jose gyvenančius žmones."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "342549-342961; hash=dafb39900f42347ee905db8a7225ee49ab11e151daecb6d7b060ec969ae6f69f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> kunigaikščiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "tėvūnas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "kunigaikščiai: mention_match, thing, gap=48"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"tėvūnas\" parinktas kaip owner_note_path. Targetas \"kunigaikščiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-69407
 
@@ -70,19 +48,6 @@ Kunigaikščiai valdė savo žemes ir teisė jose gyvenančius žmones per savo 
 - t-004
   global_id: t-182983
   teiginys: "Tėvūnai iš valstiečių galėjo reikalauti tik kunigaikščio nustatytų prievolių."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "342671-343033; hash=922b3b891975dc2919426c0f14a3778f2d24834e4ca04ce1fc4fe1ae1ffd5ed9; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> kunigaikščiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "tėvūnas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "kunigaikščiai: mention_match, thing, gap=44"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"tėvūnas\" parinktas kaip owner_note_path. Targetas \"kunigaikščiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-166381
 ## Reikšmingi paminėjimai
@@ -97,8 +62,8 @@ Kunigaikščiai valdė savo žemes ir teisė jose gyvenančius žmones per savo 
     prižiūrėti tvarką, teismus, rinkti mokesčius; be to, dar d. kun.
     dvaruose sėdėjo ir tėvūnai, prižiūrintieji visą tų dvarų ūkį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -117,8 +82,8 @@ Kunigaikščiai valdė savo žemes ir teisė jose gyvenančius žmones per savo 
     iš valstiečių galėjo reikalauti tik tokių prievolių, kokios buvo
     kunigaikščio nustatytos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -136,8 +101,8 @@ Kunigaikščiai valdė savo žemes ir teisė jose gyvenančius žmones per savo 
     kunigaikščio nustatytos. Tuo tarpu bajorai stengėsi kuo dau-
     giausia išnaudoti savo valstiečius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

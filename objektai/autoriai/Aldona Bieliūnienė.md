@@ -43,19 +43,6 @@ Bieliūnienė ir kiti. Parengė Aldona Bieliūnienė ir kiti.
 - t-002
   global_id: t-64534
   teiginys: "Aldona Bieliūnienė ir kiti parengė 1999 m. Vilniuje vykusios parodos „Lietuva žemėlapiuose“ katalogą."
-  temporaliniai_duomenys: "įvykio data: 1999 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys per trumpas ir neinformatyvus; citata pagrindžia parengto katalogo faktą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "551260-551439; hash=7984e6f876620572edcd9d190f1aab76904e4f6876a8465b2ab2f9bc54906630; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aldona Gediminaitė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aldona Bieliūnienė: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Aldona Gediminaitė: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aldona Bieliūnienė\" parinktas kaip owner_note_path. Targetas \"Aldona Gediminaitė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-65249
 
@@ -63,22 +50,6 @@ Bieliūnienė ir kiti. Parengė Aldona Bieliūnienė ir kiti.
 - t-003
   global_id: t-183340
   teiginys: "Aldona Bieliūnienė buvo viena iš 2011 m. antrojo papildyto leidinio „Lietuva žemėlapiuose“ sudarytojų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 2011 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko faktą apie Bieliūnienės sudarytojos vaidmenį."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "551193-551402; hash=19ac337f498848cb2aa15b179662a59fb095fd2a729d09cfb087b26e12faf4cd; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aldona Gediminaitė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aldona Bieliūnienė: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Aldona Gediminaitė: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aldona Bieliūnienė\" parinktas kaip owner_note_path. Targetas \"Aldona Gediminaitė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-166730
 
@@ -86,22 +57,6 @@ Bieliūnienė ir kiti. Parengė Aldona Bieliūnienė ir kiti.
 - t-004
   global_id: t-183341
   teiginys: "Aldona Bieliūnienė ir kiti parengė 1999 m. Vilniuje vykusios parodos „Lietuva žemėlapiuose“ katalogą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1999 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys per trumpas ir neinformatyvus; citata pagrindžia parengto katalogo faktą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "551290-551513; hash=4535c4c6999c3a0ac666cef56c8e5daf69ac24a89dd91c8aa378e9438f35e827; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aldona Gediminaitė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aldona Bieliūnienė: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Aldona Gediminaitė: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aldona Bieliūnienė\" parinktas kaip owner_note_path. Targetas \"Aldona Gediminaitė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-166731
 - susijęs iš Lietuva žemėlapiuose = Lithuania on the map: „Lietuva žemėlapiuose = Lithuania on the map“ buvo 1999 m. Vilniuje vykusios parodos katalogas.
@@ -120,8 +75,8 @@ Bieliūnienė ir kiti. Parengė Aldona Bieliūnienė ir kiti.
     = Lithuania on the map: paroda, Vilnius, 1999 09 26–1999 12 11: katalogas. Parengė
     Aldona Bieliūnienė ir kiti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -135,8 +90,8 @@ Bieliūnienė ir kiti. Parengė Aldona Bieliūnienė ir kiti.
     A. Bieliūnienė ir kiti. Antrasis papildytas leidimas. Vilnius, 2011; Lietuva žemėlapiuose:
     = Lithuania on the map: paroda, Vilnius, 1999 09 26–1999 12 11: katalogas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -151,8 +106,8 @@ Bieliūnienė ir kiti. Parengė Aldona Bieliūnienė ir kiti.
     Aldona Bieliūnienė ir kiti. Vilnius, 1999; Lietuvos bažnyčių menas = The Art of
     Lithuanian Churches.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

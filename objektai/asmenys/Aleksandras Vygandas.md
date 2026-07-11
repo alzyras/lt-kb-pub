@@ -32,12 +32,6 @@ Iš karto tokiuo vietininku buvo numatytas Jogailos brolis Aleksandras Vygandas,
 - t-001
   global_id: t-186028
   teiginys: "Kernavės kunigaikštis Aleksandras Vygandas mėgino išvaryti priešą iš Ritersverderio."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "563248-563819; hash=eeabad85e6031aeaf1581af747dae6775ef1a035978864bcea718672bab10b32; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-169389
 
@@ -45,12 +39,6 @@ Iš karto tokiuo vietininku buvo numatytas Jogailos brolis Aleksandras Vygandas,
 - t-002
   global_id: t-186029
   teiginys: "Pagarba Aleksandrui Vygandui kuriam laikui trukdė Jogailai paskelbti Vytautą Lietuvos didžiuoju kunigaikščiu."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "564224-564894; hash=866453bd1aa61d8ebc10720eccca237f17373f38d123360d76a84680b7a37d43; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-169390
 
@@ -58,12 +46,6 @@ Iš karto tokiuo vietininku buvo numatytas Jogailos brolis Aleksandras Vygandas,
 - t-003
   global_id: t-193504
   teiginys: "Šitokia padėtis paskatino Kernavės ku nigaikštį Aleksandrą Vygandą pamėginti priešą iš ten išvaryti."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "563248-563819; hash=eeabad85e6031aeaf1581af747dae6775ef1a035978864bcea718672bab10b32; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-169389
 
@@ -71,12 +53,6 @@ Iš karto tokiuo vietininku buvo numatytas Jogailos brolis Aleksandras Vygandas,
 - t-004
   global_id: t-193505
   teiginys: "Karalius Jogaila gerai žiJ o g a ila m ėg in a susinojo, kad taika Lietuvoje ta ik y ti su V y ta u tu būsianti tvirtesnė, jeigu pas kelbs Vytautą Lietuvos di džiuoju kunigaikščiu, tačiau kol kas to sumanymo įgy vendinti jam neleido Vygandui jaučiama pagarba."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "564224-564894; hash=866453bd1aa61d8ebc10720eccca237f17373f38d123360d76a84680b7a37d43; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-169390
 ## Reikšmingi paminėjimai
@@ -101,8 +77,8 @@ Iš karto tokiuo vietininku buvo numatytas Jogailos brolis Aleksandras Vygandas,
     pilį, jeigu būtų parodęs daugiau ryžto ir nepasitraukęs,
     kai gynėjai jau ketino pasiduoti.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -135,8 +111,8 @@ Iš karto tokiuo vietininku buvo numatytas Jogailos brolis Aleksandras Vygandas,
     džiuoju kunigaikščiu, tačiau kol kas to sumanymo įgy­
     vendinti jam neleido Vygandui jaučiama pagarba.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -148,7 +124,8 @@ Iš karto tokiuo vietininku buvo numatytas Jogailos brolis Aleksandras Vygandas,
 - id: c-169389
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 323"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 323."
   citata_originali: |
     Šios įgulos nepaprastai kenkė aplinkiniam
     kraštui: nesutikdamos pasipriešinimo, jos pridarydavo

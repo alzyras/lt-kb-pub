@@ -42,19 +42,6 @@ Nenurodyta
 - t-001
   global_id: t-185544
   teiginys: "Maskvėnų metraščiai mini popiežiaus Klemenso legatą Joną Frentijulijų, grafo Leonardo ir Zigmanto Herberšteino pasiuntinybes."
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1161157-1161508; hash=749202290d15b89ba7e9207a54b2973a71db11634acadefbd15b84cacab8daa0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Maskvėnai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Šešerių metų paliaubos su Maskva ir Maskvos valdovo titulo pripažinimas: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Maskvėnai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šešerių metų paliaubos su Maskva ir Maskvos valdovo titulo pripažinimas\" parinktas kaip owner_note_path. Targetas \"Maskvėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-168905
 
@@ -62,19 +49,6 @@ Nenurodyta
 - t-002
   global_id: t-185545
   teiginys: "Per šešerių metų paliaubas Vasilijus pasilaikė Smolenską, bet atsisakė Smolensko didžiojo kunigaikščio titulo."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1162631-1163330; hash=a89212a20c8d1677e0465fee9e7e0f588faeb3c290c6805e05d6956d988fbfe3; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Smolenskas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Šešerių metų paliaubos su Maskva ir Maskvos valdovo titulo pripažinimas: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Smolenskas: mention_match, place, gap=43"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šešerių metų paliaubos su Maskva ir Maskvos valdovo titulo pripažinimas\" parinktas kaip owner_note_path. Targetas \"Smolenskas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-168906
 ## Reikšmingi paminėjimai
@@ -91,8 +65,8 @@ Nenurodyta
     tijulijų, imperatoriaus Karolio V — grafą Leonardą ir
     karaliaus Ferdinando — Zigmantą Herberšteiną.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -120,8 +94,8 @@ Nenurodyta
     kirsiančios nepaprastus tei­
     sėjus, kurie ir teis kaimynystėje gyvenančius žmones.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -132,7 +106,8 @@ Nenurodyta
 - id: c-168905
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 651"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 651."
   citata_originali: |
     Pirmoji pasiuntinybė patraukė į Možaiską
     tik tada, kai gavo žinią, jog karaliaus legatai Smo­
@@ -151,7 +126,8 @@ Nenurodyta
 - id: c-168906
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 652"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 652."
   citata_originali: |
     Kad šitokiam tvirtini­
     mui nėra jokio pagrindo, tarpininkai puikiausiai ži­

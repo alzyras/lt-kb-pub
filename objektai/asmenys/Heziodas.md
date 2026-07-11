@@ -30,21 +30,6 @@ Narbutas nurodo, kad apie antikos žmonių atliekamas panašias aukojimo apeigas
 - t-001
   global_id: t-190156
   teiginys: "Narbutas nurodo, kad apie antikos žmonių atliekamas panašias aukojimo apeigas kalba Heziodas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "608872-609240; hash=da2d5ef6380ace059b77c0884d6ae2da3d2a86ada9669bb3eca1df85cb5e404f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Antikos žmonės: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Heziodas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Antikos žmonės: mention_match, thing, gap=58"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Heziodas\" parinktas kaip owner_note_path. Targetas \"Antikos žmonės\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173039
 ## Reikšmingi paminėjimai
@@ -64,8 +49,8 @@ Narbutas nurodo, kad apie antikos žmonių atliekamas panašias aukojimo apeigas
     nepalyginamai iškilmingiau. Antikos žmonės atlikdavo tas pa­
     čias apeigas; apie jas kalba Heziodas*.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

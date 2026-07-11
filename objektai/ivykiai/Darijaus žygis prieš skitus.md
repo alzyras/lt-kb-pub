@@ -42,25 +42,6 @@ Nenurodyta
 - t-001
   global_id: t-191007
   teiginys: "Narbuto pasakojimu, 514 m. pr. Kr. Darijus patraukė prieš Indatirą, kai skitai neketino žemintis."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Darijus surengė žygį į Darijaus žygis prieš skitus (0.90); Persai keliavo į Europa (0.89)"
-  temporaliniai_duomenys: "įvykio data: 514 m; kelionės data: 514 m"
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Darijus surengė žygį į Darijaus žygis prieš skitus“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Persai keliavo į Europa“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys paliktas su atribucija, nes skitų nenoras žemintis yra interpretacinė formuluotė. Nepridėta daugiau žygio eigos detalių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "96500-97136; hash=fee029faddee6d99d482556034700189e1a2c36da68202db2fe483ec857bfdbf; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "surenge_zygi_i -> Darijaus žygis prieš skitus: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Darijus: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Darijaus žygis prieš skitus: llm_allowed_candidate, event"
-  ryšio_paaiskinimas: "Darijus tiesiogiai nurodytas kaip pradėjęs žygį prieš Indatirą, o įvykio objektas yra Darijaus žygis."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173889
 
@@ -68,22 +49,6 @@ Nenurodyta
 - t-002
   global_id: t-191008
   teiginys: "Darijaus žygio metu persų kariuomenė, skitams traukiantis, perėjo Skitiją ir persikėlė per Dnestrą, Būgą, Dneprą bei Donecą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Darijus keliavo į Skitija (0.84); Persai keliavo į Skitija (0.74)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "97505-98035; hash=43239e9e93fc53c692805637f52233c91378acaffdc1f6353ad1e468b37359f0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Skitija: 0.84"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Darijus: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Skitija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Darijus buvo priverstas pereiti visą Skitiją."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173890
 
@@ -91,22 +56,6 @@ Nenurodyta
 - t-004
   global_id: t-191010
   teiginys: "Narbutas vertino, kad Darijui nepavykęs žygis prieš skitus paveikė Skitijos vidaus sąlygas ir artino ją prie žlugimo."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Darijus surengė žygį į Darijaus žygis prieš skitus (0.86)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "98547-99021; hash=a3eb40e27e555951cdb2ccf75c4975fdb5514eedcdfe0890d767952b578a1462; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "surenge_zygi_i -> Darijaus žygis prieš skitus: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Darijus: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Darijaus žygis prieš skitus: llm_allowed_candidate, event"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai aptaria Darijaus žygį prieš skitus kaip jam nepavykusį."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173892
 
@@ -114,22 +63,6 @@ Nenurodyta
 - t-005
   global_id: t-191011
   teiginys: "Narbutas spėja, kad persai, remdami Skitijos graikų kolonistus, palaikė jų siekį sunaikinti seną krašto tvarką."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Persai rėmė Graikai (0.82)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "99022-99793; hash=2b55f15c164c8f96f40a209e0cbbcb3257fd7aee39ff7d7ef14a2aa317defe48; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "reme -> Graikai: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Persai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Graikai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad persai rėmė Skitijos kolonistus graikus."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173893
 
@@ -137,22 +70,6 @@ Nenurodyta
 - t-006
   global_id: t-191867
   teiginys: "Narbuto pasakojimu, Darijus siekė pasiekti tolimiausias Skitijos sritis, bet jo kariuomenė patyrė didelių nuostolių ir traukėsi tuo pačiu keliu."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Darijus keliavo į Skitija (0.78)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "98036-98630; hash=87392cc9b34933e108bb91459a9ff38ffb37ae6268d82788dbe73e45a412e389; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Skitija: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Darijus: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Skitija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Darijus aprašytas kaip siekęs pasiekti tolimiausias Skitijos sritis."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174749
 ## Reikšmingi paminėjimai
@@ -175,8 +92,8 @@ Nenurodyta
     persams ir taip darė be paliovos traukdamiesi nuo jų
     kariuomenės.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -197,8 +114,8 @@ Nenurodyta
     visiškai nusiaubtam ir sausringam kraštui, kur visko la­
     bai stigo, o tai buvo pavojingiau negu priešo ginklai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -219,8 +136,8 @@ Nenurodyta
     didelę įtaką Skitijos vidaus gyvenimo sąlygoms, nes bū­
     tent nuo to laiko ji aiškiai ėmė artėti prie žlugimo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -252,8 +169,8 @@ Nenurodyta
     įžvelgti
     panašumą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -279,8 +196,8 @@ Nenurodyta
     reikėjo trauktis tuo pat keliu, kuriuo kariuomenė buvo
     atėjusi.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -291,7 +208,8 @@ Nenurodyta
 - id: c-173889
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 56"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 56."
   citata_originali: |
     39
     Po kurio laiko, 514 metais prieš Kristaus gimimą, kai
@@ -316,7 +234,8 @@ Nenurodyta
 - id: c-173890
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 56"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 56."
   citata_originali: |
     Taip Darijus buvo
     priverstas greitai pereiti visą Skitiją, persikelti per to­
@@ -338,7 +257,8 @@ Nenurodyta
 - id: c-173892
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 57"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 57."
   citata_originali: |
     Dėl įvairių trūkumų
     reikėjo trauktis tuo pat keliu, kuriuo kariuomenė buvo
@@ -360,7 +280,8 @@ Nenurodyta
 - id: c-173893
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 57"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 57."
   citata_originali: |
     Ko
     gero, remdami Skitijos kolonistus graikus, persai palaikė

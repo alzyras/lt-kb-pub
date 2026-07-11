@@ -48,25 +48,6 @@ Nenurodyta
 - t-001
   global_id: t-191047
   teiginys: "Narbutas apie 253 m. datuoja jungtinių finų, galindų ir venedų būrių karą su imperatoriumi Valuzianu, kai šis kariavo su sarmatais."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Galindai dalyvavo mūšyje Jungtinių finų, galindų ir venedų būrių karas su Valuzianu apie 253 m (0.90); Venedai dalyvavo mūšyje Jungtinių finų, galindų ir venedų būrių karas su Valuzianu apie 253 m (0.90); Galindai buvo sąjungininkas su Venedai (0.76)"
-  temporaliniai_duomenys: "mūšio data: 253 m; mūšio data: apie 253 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Galindai buvo sąjungininkas su Venedai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Galindai dalyvavo mūšyje Jungtinių finų, galindų ir venedų būrių karas su Valuzianu apie 253 m“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Venedai dalyvavo mūšyje Jungtinių finų, galindų ir venedų būrių karas su Valuzianu apie 253 m“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus sakinys apie karo datavimą, dalyvius ir Valuziano kontekstą. Narbuto atribucija palikta, nes tai jo argumentuojamas kronikinis datavimas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "536706-537311; hash=064dbc706ee031e044cc2a8f5661766d171e5df49b531d01b221a37761213a5c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "dalyvavo_musyje -> Jungtinių finų, galindų ir venedų būrių karas su Valuzianu apie 253 m: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Galindai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Jungtinių finų, galindų ir venedų būrių karas su Valuzianu apie 253 m: llm_allowed_candidate, event"
-  ryšio_paaiskinimas: "Galindai tiesiogiai įvardyti kaip jungtinių būrių, kariavusių šiame įvykyje, dalis."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173929
 ## Reikšmingi paminėjimai
@@ -93,8 +74,8 @@ Nenurodyta
     ją. Šito įrodymų aptikta ant atrastų auksinių ir sidabri­
     nių medalių1.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -105,7 +86,8 @@ Nenurodyta
 - id: c-173929
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 299"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 299."
   citata_originali: |
     Lietuviai, gyvenę toliau nuo jūros, dalyva­
     vo įvairiuose sarmatų maištuose, būdavo įtraukiami į

@@ -33,9 +33,6 @@ Quum Nobis Exposuisset Venerabilis Valentinus a Pilzno Vilnensis, et Luceoriensi
 - t-001
   global_id: t-86858
   teiginys: "Formulė „In Nomine Domini Amen. Ad Perpetuam Rei Memoriam“ lietuviškai pateikta kaip „Vardan Viešpaties Amen. Amžinai dalykų atminčiai“."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "488057-488732; hash=647dd5498c9bab3d855fc422e9d9fd5eaf3a87791b2e99d4d25ed8e395fe4cb2; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-82837
 ## Reikšmingi paminėjimai
@@ -62,8 +59,8 @@ Quum Nobis Exposuisset Venerabilis Valentinus a Pilzno Vilnensis, et Luceoriensi
     garbinimu, kuriuo žmonės ir įrodo, kad prisimena iš visa­
     galio DIEVO gaunamas geradarybes ir yra dėkingi.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -48,20 +48,6 @@ Nenurodyta
 - t-001
   global_id: t-185488
   teiginys: "Gedimino valdymo pradžia buvo nerami, nes į karą stojo Prūsijos ir Livonijos kryžiuočiai."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Kryžiuočių ordinas kariavo prieš Lietuviai (0.63)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "332401-333529; hash=3846e5b91cdbeba8a419359c133d0b5313a71f1e9a40d5444b18860e43f2620d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Lietuviai: 0.63"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Kryžiuočiai stojo į karą Gedimino valdymo pradžioje; citatos kontekste prieš lietuvius."
   pagrindžia:
     - c-168849
 
@@ -69,20 +55,6 @@ Nenurodyta
 - t-002
   global_id: t-185489
   teiginys: "Gediminas nestojo į atvirą kovą, kai kryžiuočiai užėmė Jurbarko ir Kauno pilis, o Livonijos kryžiuočiai atėmė Kuršą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Kryžiuočių ordinas užėmė Kauno pilis (pilis) (0.95); Kryžiuočių ordinas užėmė Jurbarkas (0.91); Kryžiuočių ordinas užėmė Kaunas (0.91)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "333530-334340; hash=5512d96ad7a0f5394ed640d9aef3a0a154d9eb3eb9580ef16fa81bac2feb4752; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Kauno pilis (pilis): 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Kauno pilis (pilis): llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai mini Kauno pilies užėmimą ir gynėjų išžudymą."
   pagrindžia:
     - c-168850
 
@@ -90,23 +62,6 @@ Nenurodyta
 - t-003
   global_id: t-185490
   teiginys: "1316 m. pradžioje kryžiuočiai pasiuntė skirtingas kariaunas krašto niokoti ir nusiaubė Paštuvos, Medininkų bei Pagraudės valsčius."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Kryžiuočių ordinas puolė Medininkai (0.88); Kryžiuočių ordinas puolė Pagraudė (0.88)"
-  temporaliniai_duomenys: "įvykio data: 1316 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys gramatiškas, konkretus ir remiasi citatos duomenimis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "334101-334599; hash=5c2ddc0b5bfe60082f00e895b9c9c2eb83bfb530ae5df4774f29ab6930fd1531; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Medininkai: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Medininkai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekste tiesiogiai sakoma, kad kryžiuočiai nusiaubė Medininkų valsčių."
   pagrindžia:
     - c-168851
 
@@ -114,19 +69,6 @@ Nenurodyta
 - t-004
   global_id: t-185491
   teiginys: "Sutelkęs visas jėgas, Gediminas per Žemaitiją nužygiavo prie Žeimelės upelio ir įrengė įtvirtintą stovyklą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "335777-336107; hash=58b8fb581bc383b31f3bf8d6807374beaa0df60e1fa608667291d832ae449e55; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.)\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-168852
 
@@ -134,20 +76,6 @@ Nenurodyta
 - t-005
   global_id: t-185492
   teiginys: "Žeimelės mūšyje Gedimino kariuomenės priekyje stovėję totoriai puslankiu išsisklaidė ir išvengė kryžiuočių ietininkų antpuolio."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Kryžiuočių ordinas puolė Totoriai (0.78); Totoriai dalyvavo mūšyje Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.) (0.64)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "337202-337765; hash=c09203281fd7f4ac2bab1c7ad942c2d3b1358c83392a76883bb61be713f45e5a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Totoriai: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Totoriai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Pirmose eilėse stovėjo totoriai, o kryžiuočiai jas užpuolė."
   pagrindžia:
     - c-168853
 ## Reikšmingi paminėjimai
@@ -190,8 +118,8 @@ Nenurodyta
     bei Livonijos kryžiuočiams stojus į karą, buvo ne tik
     nerami, bet ir liūdna.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -222,8 +150,8 @@ Nenurodyta
     diminas sumokėjo didelę iš­
     pirką.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -250,8 +178,8 @@ Nenurodyta
     į pasalas ir sunaikinta, jie
     nusiaubė Paštuvos, Medininkų ir Pagraudės valsčius.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -269,8 +197,8 @@ Nenurodyta
     atremti priešą. Kryžiuočiai turėjo keturis tūkstančius
     žemaičių karių.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -292,8 +220,8 @@ Nenurodyta
     žingsnį, išsisklaidė, kaip jų tautos kariai įpratę, puslan­
     kiu ir tuo būdu išvengė ietininkų antpuolio.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -349,7 +277,8 @@ Nenurodyta
 - id: c-168850
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 193"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 193."
   citata_originali: |
     Mat jis gal dėl to, kad uoliai
     tvarkė valstybės vidaus reikalus, negalėjo atremti iš­
@@ -381,7 +310,8 @@ Nenurodyta
 - id: c-168851
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 193"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 193."
   citata_originali: |
     Vis
     dėlto nei pilies sienos, nei gynėjai neatlaikė stiprių ant­
@@ -409,7 +339,8 @@ Nenurodyta
 - id: c-168852
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 194"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 194."
   citata_originali: |
     Iš tolo, iš pasalų kamavo priešą, bet at­
     sargiai, kad dėl kokio neatsargaus žingsnio nereikėtų
@@ -428,7 +359,8 @@ Nenurodyta
 - id: c-168853
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 195"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 195."
   citata_originali: |
     Dėjosi skatinąs žemaičių
     narsumą, žadėdamas dovanų bei laisvių, tačiau sakėsi
@@ -447,6 +379,3 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185492
-
-## Ryšiai
-- Turėjo dalyvį: [[objektai/grupes/Totoriai]]

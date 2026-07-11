@@ -30,19 +30,6 @@ Konstantinopolio patriarchas Juozapas dalyvavo Florencijos suvažiavime, kuriame
 - t-001
   global_id: t-186221
   teiginys: "Konstantinopolio patriarchas Juozapas dalyvavo Florencijos suvažiavime, kuriame tartasi dėl Rytų ir Romos bažnyčių tikėjimo santarvės."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "950107-951056; hash=15966f6d317e374aecf5db782d1f369ff0c28450ea3784e0dde465fe242eaeee; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Florencija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Juozapas (Konstantinopolio patriarchas): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Florencija: mention_match, place, gap=18"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Juozapas (Konstantinopolio patriarchas)\" parinktas kaip owner_note_path. Targetas \"Florencija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-169582
 - susijęs iš [[objektai/autoriai/Juozapas fon Hameris.md#claim-t-191573|Juozapas fon Hameris]]: Juozapas fon Hameris prieš Volianskį mėgino iššifruoti senovės tyrinėtojams nesuprantamą užrašą ir perskaitė vieną žodį.
@@ -82,8 +69,8 @@ Konstantinopolio patriarchas Juozapas dalyvavo Florencijos suvažiavime, kuriame
     išdavė valstybę ir v isas savo valdas prijungė prie Mas­
     kvos.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -94,7 +81,8 @@ Konstantinopolio patriarchas Juozapas dalyvavo Florencijos suvažiavime, kuriame
 - id: c-169582
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 537"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 537."
   citata_originali: |
     Beje, d a r vienas dalykas užgavo jiems širdis:
     k a raliu s mat buvo išleidęs

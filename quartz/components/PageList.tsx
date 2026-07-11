@@ -131,11 +131,7 @@ function normalizedType(value: unknown): string {
 
 function shouldGroupByType(slug: string | undefined): boolean {
   const current = slug ?? ""
-  return (
-    current.startsWith("tags/") ||
-    current.startsWith("temos/") ||
-    current.startsWith("laikotarpiai/")
-  )
+  return current.startsWith("tags/")
 }
 
 function isObjectRoot(slug: string | undefined): boolean {
@@ -265,7 +261,9 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
         ...new Set(
           prepared
             .filter(({ page }) => isObjectPage(page))
-            .flatMap(({ page }) => page.frontmatter?.tags ?? []),
+            .flatMap(({ page }) => page.frontmatter?.tags ?? [])
+            .map((tag) => String(tag).trim())
+            .filter(Boolean),
         ),
       ].sort((a, b) => {
         const rank = { topic: 0, period: 1, type: 2 }
@@ -302,7 +300,7 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
     periodDisplay,
   }: PreparedPage) => {
     const title = page.frontmatter?.title
-    const tags = page.frontmatter?.tags ?? []
+    const tags = (page.frontmatter?.tags ?? []).map((tag) => String(tag).trim()).filter(Boolean)
     const tipas = normalizedType(page.frontmatter?.tipas)
     const objectPage = isObjectPage(page, tipas)
     const citationMetadata = objectPage ? citationMetadataForPage(page) : emptyCitationMetadata
@@ -386,6 +384,15 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
     <>
       {showObjectListControls && (
         <div class="object-list-controls" data-object-list-controls="true">
+          <div class="object-list-control-group object-list-query-control">
+            <label for="object-list-query">Paieška</label>
+            <input
+              id="object-list-query"
+              type="search"
+              placeholder="Ieškoti šiame sąraše"
+              data-object-list-query=""
+            />
+          </div>
           <div class="object-list-control-group">
             <label for="object-list-sort">Rikiavimas</label>
             <select id="object-list-sort" data-object-list-sort="">
@@ -413,6 +420,19 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
           <span class="object-list-summary" data-object-list-summary="">
             Rodoma 0 iš 0
           </span>
+          <nav
+            class="object-list-pagination"
+            aria-label="Rezultatų puslapiai"
+            data-object-list-pagination=""
+          >
+            <a href="?page=1" data-object-list-previous aria-label="Ankstesnis puslapis">←</a>
+            <span data-object-list-page-label>Puslapis 1</span>
+            <a href="?page=2" data-object-list-next aria-label="Kitas puslapis">→</a>
+          </nav>
+          <div class="object-list-active-filters" data-object-list-active-filters="" hidden>
+            <div data-object-list-active-pills="" />
+            <button type="button" data-object-list-reset="">Atstatyti visus</button>
+          </div>
         </div>
       )}
       {showPeriodFilter && (
@@ -665,7 +685,7 @@ PageList.css = `
 .object-list-controls {
   box-sizing: border-box;
   display: grid;
-  grid-template-columns: minmax(10rem, 14rem) minmax(0, 1fr) max-content;
+  grid-template-columns: minmax(13rem, 1.2fr) minmax(10rem, 0.7fr) minmax(14rem, 1.4fr);
   gap: 0.9rem 1rem;
   align-items: end;
   width: 100%;
@@ -673,7 +693,7 @@ PageList.css = `
   padding: 0.95rem 1.1rem;
   border: 1px solid var(--bm-border, var(--lightgray));
   border-top-color: var(--bm-purple, var(--dark));
-  background: var(--bm-white, var(--light));
+  background: var(--ui-surface, var(--light));
 }
 
 .object-list-control-group {
@@ -693,15 +713,21 @@ PageList.css = `
   text-transform: uppercase;
 }
 
-.object-list-control-group select {
+.object-list-control-group select,
+.object-list-control-group input {
   width: 100%;
   min-height: 2rem;
   border: 1px solid var(--bm-border, var(--lightgray));
   border-radius: 0;
-  background: var(--bm-white, var(--light));
-  color: var(--dark);
+  background: var(--ui-input, var(--light));
+  color: var(--ui-text, var(--dark));
   font: inherit;
   font-size: 0.9rem;
+}
+
+.object-list-control-group input {
+  box-sizing: border-box;
+  padding: 0 0.65rem;
 }
 
 .object-list-tag-control {
@@ -743,9 +769,77 @@ PageList.css = `
 }
 
 .object-list-summary {
-  justify-self: end;
-  color: var(--gray);
+  grid-column: 1 / span 2;
+  align-self: center;
+  color: var(--ui-muted, var(--gray));
   white-space: nowrap;
+}
+
+.object-list-pagination {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 0.65rem;
+  font-family: var(--codeFont);
+  font-size: 0.75rem;
+  font-weight: 800;
+}
+
+.object-list-pagination a {
+  display: inline-grid;
+  width: 2rem;
+  height: 2rem;
+  place-items: center;
+  border: 1px solid var(--bm-purple, var(--secondary));
+  color: var(--bm-purple, var(--secondary));
+  text-decoration: none;
+}
+
+.object-list-pagination a[aria-disabled="true"] {
+  opacity: 0.32;
+  pointer-events: none;
+}
+
+.object-list-active-filters {
+  grid-column: 1 / -1;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+  padding-top: 0.75rem;
+  border-top: 1px solid var(--bm-border, var(--lightgray));
+}
+
+.object-list-active-filters[hidden] { display: none; }
+.object-list-active-filters > div { display: flex; flex-wrap: wrap; gap: 0.35rem; }
+.object-list-active-filters button {
+  padding: 0.28rem 0.55rem;
+  border: 1px solid var(--bm-purple, var(--secondary));
+  border-radius: 0;
+  background: transparent;
+  color: var(--bm-purple, var(--secondary));
+  cursor: pointer;
+  font: 750 0.72rem/1.2 var(--codeFont);
+}
+
+@media all and (max-width: 850px) {
+  .object-list-controls { grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); }
+  .object-list-query-control,
+  .object-list-tag-control,
+  .object-list-active-filters { grid-column: 1 / -1; }
+  .object-list-summary { grid-column: auto; white-space: normal; }
+}
+
+@media all and (max-width: 560px) {
+  .object-list-controls { grid-template-columns: minmax(0, 1fr); }
+  .object-list-query-control,
+  .object-list-tag-control,
+  .object-list-summary,
+  .object-list-pagination,
+  .object-list-active-filters { grid-column: 1; }
+  .object-list-tag-control { grid-template-columns: minmax(0, 1fr); }
+  .object-list-pagination { justify-content: flex-start; }
+  .object-list-active-filters { align-items: flex-start; flex-direction: column; }
 }
 
 .period-filter-controls {

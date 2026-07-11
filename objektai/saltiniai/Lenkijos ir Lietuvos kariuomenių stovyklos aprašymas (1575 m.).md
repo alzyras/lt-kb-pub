@@ -50,19 +50,6 @@ Cituojama „Lenkijos ir Lietuvos kariuomenių stovyklos aprašymas (1575 m.)“
 - t-002
   global_id: t-41554
   teiginys: "Lenkijos ir Lietuvos kariuomenių stovyklos aprašymas yra 1575 m. Venecijos pasiuntinio Girolamo Lippomano teksto ištrauka."
-  temporaliniai_duomenys: "įvykio data: 1564 m.; įvykio data: 1575 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys ir atitinka citatos antraštinę informaciją."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "364719-365510; hash=dbd96b91edbff9c2202e858ba1bf06341f0f3d92895a2bf7b470bc4c52818d6e; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
-  ryšio_patikimumas: "susije_su -> Girolamo Lippomano: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lenkijos ir Lietuvos kariuomenių stovyklos aprašymas (1575 m.): owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Girolamo Lippomano: mention_match, author, gap=87"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkijos ir Lietuvos kariuomenių stovyklos aprašymas (1575 m.)\" parinktas kaip owner_note_path. Targetas \"Girolamo Lippomano\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-45005
 
@@ -70,18 +57,6 @@ Cituojama „Lenkijos ir Lietuvos kariuomenių stovyklos aprašymas (1575 m.)“
 - t-003
   global_id: t-41555
   teiginys: "Lenkijos ir Lietuvos kariuomenė stovyklose apsisupdavo amunicijos, provianto ir kitų reikmenų vežimais, palikdama tik kelis praėjimus."
-  temporaliniai_duomenys: "įvykio data: 1564 m.; įvykio data: 1575 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "364719-365510; hash=dbd96b91edbff9c2202e858ba1bf06341f0f3d92895a2bf7b470bc4c52818d6e; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lenkijos ir Lietuvos kariuomenių stovyklos aprašymas (1575 m.): owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkijos ir Lietuvos kariuomenių stovyklos aprašymas (1575 m.)\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-45005
 ## Reikšmingi paminėjimai
@@ -106,8 +81,8 @@ Cituojama „Lenkijos ir Lietuvos kariuomenių stovyklos aprašymas (1575 m.)“
 
     1564 m. sausio 23 d. ULOS (CASNIKY) MŪŠIS 89
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

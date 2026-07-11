@@ -46,15 +46,6 @@ Aleksandras Gvaninis šiame leidinyje siejamas su senąja lietuvių mitologijos 
 - t-003
   global_id: t-187917
   teiginys: "Narbutas citavo Gvaninio 1610 m. liudijimą, kad kai kurie žmonės namuose laikė žalčius ar gyvates ir aukos vietoj duodavo jiems pieno."
-  teiginio_tipas: "saltinio_teiginys"
-  temporaliniai_duomenys: "įvykio data: 1610 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Religinis paprotys suformuluotas kaip Narbuto cituojamas Gvaninio liudijimas. Nepridėta pasakojimo apie nelaimės ženklus tąsa."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "348892-349993; hash=38dff3b021837c5f4168e35291e5696cfac1afe99f0b859dfbe2c29b779e4ec0; match=exact"
-  sprendimo_priezastis: "gap::authors"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-170905
 
@@ -62,19 +53,6 @@ Aleksandras Gvaninis šiame leidinyje siejamas su senąja lietuvių mitologijos 
 - t-002
   global_id: t-187918
   teiginys: "Narbutas Gvaninį nurodė kaip pasakojimo apie senus Lietuvos naminių žalčių prietarus šaltinį."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "343310-343722; hash=5713feeb5ad00af6770d7b9df16ae4133f1efe524be4e10f6aaa74ffdac9cf5c; match=exact"
-  sprendimo_priezastis: "gap::authors"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aleksandras Gvaninis: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=42"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksandras Gvaninis\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-170906
 
@@ -82,19 +60,6 @@ Aleksandras Gvaninis šiame leidinyje siejamas su senąja lietuvių mitologijos 
 - t-001
   global_id: t-187919
   teiginys: "Narbutas rašė, kad Gvaninis ir Meletijus Ukapirmą lygino su Perkūnu, nes šis laikytas dangaus ir žemės viešpačiu."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "160537-161089; hash=bca455c3815937a1d8c798dc138ef4a7db1e3422f60eeb7043c01fcdd67246ad; match=exact"
-  sprendimo_priezastis: "gap::authors"
-  ryšio_patikimumas: "susije_su -> Romėnai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aleksandras Gvaninis: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Romėnai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksandras Gvaninis\" parinktas kaip owner_note_path. Targetas \"Romėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-170907
 
@@ -102,14 +67,6 @@ Aleksandras Gvaninis šiame leidinyje siejamas su senąja lietuvių mitologijos 
 - t-004
   global_id: t-190625
   teiginys: "Gvaninio pasakojime šeimininkas avilyje pamatė juodą žmogaus pavidalo būtybę, Narbuto tekste vadinamą pragariška pabaisa."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "343806-344292; hash=16aeab4b7a7f0f861effae731ca1c58cdaa1a5a2f004e4ddff7772045f4125f0; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173508
 
@@ -117,21 +74,6 @@ Aleksandras Gvaninis šiame leidinyje siejamas su senąja lietuvių mitologijos 
 - t-005
   global_id: t-190626
   teiginys: "Gvaninio pasakojime krikščionis šeimininkas šventu kryžiumi nuvijo pabaisą, kuri tuoj pat nežinia kur dingo."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "344293-344591; hash=a151186728f2158c974b2ded10a97ca9ee2b5a706e034364f9be6cb7b6c5f829; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aleksandras Gvaninis: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Kryžius: mention_match, thing, gap=51"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksandras Gvaninis\" parinktas kaip owner_note_path. Targetas \"Kryžius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173509
 
@@ -139,21 +81,6 @@ Aleksandras Gvaninis šiame leidinyje siejamas su senąja lietuvių mitologijos 
 - t-006
   global_id: t-190689
   teiginys: "Aleksandras Gvaninis Kerkelio, arba Bialohrodo, totorių vardą siejo su Klerkei, arba Bialohrodo, pilimi ant uolos."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "194777-195213; hash=937edc6511a35ac2b685542c44a97b3217ba331aac95bae2992f4b6c5e5f7e44; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Totoriai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aleksandras Gvaninis: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Totoriai: mention_match, group, gap=48"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksandras Gvaninis\" parinktas kaip owner_note_path. Targetas \"Totoriai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173571
 - susijęs iš [[objektai/asmenys/Aleksandras Gvaninis.md#claim-t-191362|Aleksandras Gvaninis]]: Narbutas remiasi Aleksandru Gvaniniu, kuris Klerkei, arba Bialohrodo, pilį siejo su Belgorodo totorių vardu.
@@ -187,8 +114,8 @@ Aleksandras Gvaninis šiame leidinyje siejamas su senąja lietuvių mitologijos 
     ka kokia nors nelaimė dėl kokio nors atsitiktinumo arba dėl 12
     12 Lib.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -207,8 +134,8 @@ Aleksandras Gvaninis šiame leidinyje siejamas su senąja lietuvių mitologijos 
     ras katalikų tikėjimo išpažinėtojas, pirko iš vieno tų žalčių gar­
     bintojų keletą avilių bičių.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -230,8 +157,8 @@ Aleksandras Gvaninis šiame leidinyje siejamas su senąja lietuvių mitologijos 
     aukštesniojo lygio dievų, besiskiriančių tik savo pavidalu ir skir­
     tingais mitais.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -251,8 +178,8 @@ Aleksandras Gvaninis šiame leidinyje siejamas su senąja lietuvių mitologijos 
     do; paskui, šiek tiek atsigavęs, klausia pabaisos, kas esanti ir
     ką čia veikianti?
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -269,8 +196,8 @@ Aleksandras Gvaninis šiame leidinyje siejamas su senąja lietuvių mitologijos 
     čionis, nuvijo pabaisą šventu kryžiumi-ji tuoj pat nežinia kur
     dingo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: zemas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -290,8 +217,8 @@ Aleksandras Gvaninis šiame leidinyje siejamas su senąja lietuvių mitologijos 
     Belgorodo totoriai buvo mūsų neseniai aprašytų polovie-
     čių-lietuvių likučiai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -302,7 +229,8 @@ Aleksandras Gvaninis šiame leidinyje siejamas su senąja lietuvių mitologijos 
 - id: c-170905
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 205"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 205."
   citata_originali: |
     Siauras (Siauras)
     Driežas. Lasickis, kalbėdamas apie fetišus, pamini tik kai
@@ -335,7 +263,8 @@ Aleksandras Gvaninis šiame leidinyje siejamas su senąja lietuvių mitologijos 
 - id: c-170906
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 202"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 202."
   citata_originali: |
     Žaltys (Žaltis)
     Žaltys, laikytas namų dievu ir drauge gydytoju, arba Auš-
@@ -356,7 +285,8 @@ Aleksandras Gvaninis šiame leidinyje siejamas su senąja lietuvių mitologijos 
 - id: c-170907
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 91"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 91."
   citata_originali: |
     Per­
     sai, romėnai ir kiti kaip tik kalėdiniu laikotarpiu, arba prieš
@@ -380,7 +310,8 @@ Aleksandras Gvaninis šiame leidinyje siejamas su senąja lietuvių mitologijos 
 - id: c-173508
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 202"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 202."
   citata_originali: |
     Sunkiai, labai steng­
     damasis prikalbino, kad šis užmuštų bjaurų žaltį, kurį gyrė kaip
@@ -401,7 +332,8 @@ Aleksandras Gvaninis šiame leidinyje siejamas su senąja lietuvių mitologijos 
 - id: c-173509
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 202"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 202."
   citata_originali: |
     Pabaisa atsakė: „Aš esu tas, kuris čia būsiu,
     kol atkeršysiu už tai, kad užmušei savo namų dievą. Tu būsi
@@ -419,7 +351,8 @@ Aleksandras Gvaninis šiame leidinyje siejamas su senąja lietuvių mitologijos 
 - id: c-173571
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 109"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 109."
   citata_originali: |
     Ar mūsų latviai
     kažkada išėjo iš tų užkampių, ar buvo ten nuvesti toto­

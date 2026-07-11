@@ -57,19 +57,6 @@ Nenurodyta
 - t-003
   global_id: t-66992
   teiginys: "1430 m. spalio 17 d. iš Vilniaus į Trakus išjojęs Vytautas pakeliui nukrito nuo arklio ir nuo patalo nebepakilo."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į Trakai (0.93)"
-  temporaliniai_duomenys: "įvykio data: 1430 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "303758-304126; hash=42839fad0cea47967e30ea02fb5b81b9ca60b91ff8ff1f206940861689f5c29e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Trakai: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Vytautas išjojo į Trakus."
   pagrindžia:
     - c-04920
 
@@ -77,16 +64,6 @@ Nenurodyta
 - t-004
   global_id: t-66993
   teiginys: "Pagal Dlugošo pasakojimą, prieš mirtį Vytautas Lietuvą pavedė Jogailai ir liepė jam atiduoti raktus nuo iždo ir pilių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1018763-1019014; hash=a553262172bad6b7fcdb1d8022efb5fce87bf9bf4f740f7e012a9a27eb46f7ed; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytauto mirtis (1430 m. spalio 27 d.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=15"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytauto mirtis (1430 m. spalio 27 d.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-04921
 
@@ -94,16 +71,6 @@ Nenurodyta
 - t-003
   global_id: t-66995
   teiginys: "Vienuose šaltiniuose Vytauto mirties priežastimi laikyta votis ant peties, kituose - susitrenkimas nukritus nuo žirgo."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "303758-304126; hash=42839fad0cea47967e30ea02fb5b81b9ca60b91ff8ff1f206940861689f5c29e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytauto mirtis (1430 m. spalio 27 d.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytauto mirtis (1430 m. spalio 27 d.)\" parinktas kaip owner_note_path. Targetas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-67071
 - susijęs iš [[objektai/posakiai/Mirė tikrai mūsų tautos garbė.md#claim-t-67274|Mirė tikrai mūsų tautos garbė.]]: Vytauto mirtis apibūdinta žodžiais, kad mirė tikrai mūsų tautos garbė.
@@ -116,8 +83,8 @@ Nenurodyta
     kelyje Vytautas nukrito nuo arklio ir į Trakus buvo nuvežtas jo
     žmonos vežime. Iš patalo daugiau nebepakilo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -132,8 +99,8 @@ Nenurodyta
     lišką aprašymą, Vytautas prieš mirtį (X.27) Lietuvą pavedęs Jo­
     gailai ir liepęs jam nuo iždo ir pilių atiduoti raktus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -150,8 +117,8 @@ Nenurodyta
     žirgo. Susitrenkęs nebegalėjo toliau joti, todėl važiavo žmonos
     vežime. Nuvykęs į Trakus, atsigulė ir daugiau nebekėlė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

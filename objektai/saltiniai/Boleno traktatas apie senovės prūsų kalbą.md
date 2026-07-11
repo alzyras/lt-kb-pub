@@ -30,21 +30,6 @@ Narbuto išnašoje Boleno traktatas apie senovės prūsų kalbą nurodytas per V
 - t-001
   global_id: t-191829
   teiginys: "Narbuto išnašoje Boleno traktatas apie senovės prūsų kalbą nurodytas per Voigto „Geschichte Preussens“ pirmą tomą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "263659-263753; hash=48ac1647e067da87a616ed73ea33e6ab53925b2806a6167fb8764016608c0351; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Prūsai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Boleno traktatas apie senovės prūsų kalbą: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Prūsai: mention_match, group, gap=30"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Boleno traktatas apie senovės prūsų kalbą\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174711
 ## Reikšmingi paminėjimai
@@ -61,8 +46,8 @@ Narbuto išnašoje Boleno traktatas apie senovės prūsų kalbą nurodytas per V
     S.
     721).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -73,7 +58,8 @@ Narbuto išnašoje Boleno traktatas apie senovės prūsų kalbą nurodytas per V
 - id: c-174711
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 146"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 146."
   citata_originali: |
     2 Profesoriaus Boleno traktatas apie senovės prūsų kalbą (Voigt,
     Gesch.

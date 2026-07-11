@@ -42,18 +42,6 @@ Mulevičius 120.
 - t-001
   global_id: t-30781
   teiginys: "L. Mulevičius rašė apie to laiko žemėvaldos klausimus."
-  temporaliniai_duomenys: "įvykio data: 1861-1913; įvykio data: 1863 m.; įvykio data: apie 1863 m.; įvykio data: 1905 m.; įvykio data: 1913 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "222771-223507; hash=29e00702ba6de9f51ae92b292668a19b21c3d999e2793bd841168d10649941b0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Antspaudai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "L. Mulevičius: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Antspaudai: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"L. Mulevičius\" parinktas kaip owner_note_path. Targetas \"Antspaudai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-33013
 - susijęs iš [[objektai/autoriai/A. Tyla.md#claim-t-30546|A. Tyla]]: A. Tyla svarstė 1905 m. revoliucijos klausimus ir teikė pastabų dėl lietuviškos knygos istorijos.
@@ -79,8 +67,8 @@ Mulevičius 120.
     1905 m. sukilimą lietė E. Griškūnaitė 121 , P. Girdzijaus­
     kienė: _1905-1907 metų revoliucija Lietuvoje_ (1955).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

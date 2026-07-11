@@ -32,18 +32,6 @@ Sprangerio vadovaujamas dalinys, veikiantis pagal atskirą įsakymą, turėjo u�
 - t-001
   global_id: t-40425
   teiginys: "Saksų karininko Sprangerio vadovaujamas dalinys turėjo užimti Šimonių-Kupiškio liniją ir apsaugoti Ukmergės rinktinės kairįjį sparną."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "747996-748251; hash=775e0f487b54652cde8548644d970d9faad0d515b76ab5f8212cf0b6e2327402; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kupiškis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Sprangeris: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kupiškis: mention_match, place, gap=54"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sprangeris\" parinktas kaip owner_note_path. Targetas \"Kupiškis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-44512
 ## Reikšmingi paminėjimai
@@ -66,8 +54,8 @@ Sprangerio vadovaujamas dalinys, veikiantis pagal atskirą įsakymą, turėjo u�
     Puolimo eiga . a ;
     raudonosios armijos kario
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

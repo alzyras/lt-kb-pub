@@ -39,12 +39,6 @@ Dusburgietis teigia, kad tautavičius A.
 - t-001
   global_id: t-61313
   teiginys: "A. Tautavičiaus „Mūsų giminaičiai prūsai“ paskelbtas 1968 m. žurnalo MG 6 numeryje, 17–22 puslapiuose."
-  temporaliniai_duomenys: "įvykio data: 1968 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pateikia bibliografinius publikacijos duomenis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "799491-799558; hash=f79d46f01a3d8002099581343902057526219109382d6c4ffe54972e5461c2bb; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-61945
 ## Reikšmingi paminėjimai
@@ -55,8 +49,8 @@ Dusburgietis teigia, kad tautavičius A.
   citata_originali: |
     Tautavičius A. Mūsų giminaičiai prūsai.— MG, 1968, Nr. 6, p. 17—22.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -67,7 +61,8 @@ Dusburgietis teigia, kad tautavičius A.
 - id: c-61945
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 272"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 272."
   citata_originali: |
     Tautavičius A. Mūsų giminaičiai prūsai.— MG, 1968, Nr. 6, p. 17—22.
   statusas: verified

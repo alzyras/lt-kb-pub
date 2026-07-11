@@ -41,16 +41,6 @@ Schmidt, W.
 - t-001
   global_id: t-31071
   teiginys: "W. Schmidt parašė veikalus „Ursprung und Werden der Religion“ ir „Der Ursprung der Gottesidee“."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "415802-416102; hash=79df154479a13f5e90ac31bd4dc40729dcea4e92a5b9bb2fd3a447ad64ac798a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Saulė: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "W. Schmidt: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Saulė: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"W. Schmidt\" parinktas kaip owner_note_path. Targetas \"Saulė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-33200
 ## Reikšmingi paminėjimai
@@ -64,8 +54,8 @@ Schmidt, W.
     und Werden der Religion, 1930. — (”) Der Ursprung der Gottesidee, I :
     Historisch-kritischer Teil, Münster i. W. 1912.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

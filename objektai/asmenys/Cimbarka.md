@@ -30,20 +30,6 @@ Cimbarka buvo Aleksandros ir Mazovijos kunigaikščio Zemovito duktė, vėliau t
 - t-001
   global_id: t-186192
   teiginys: "Cimbarka buvo Aleksandros ir Mazovijos kunigaikščio Zemovito duktė, vėliau tapusi Austrijos erchercogo Ernesto žmona."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Cimbarka buvo žmona Ernestas (Livonijos žemės magistras) (0.74)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "504012-505075; hash=61358b7805ef198c9aeec53ce1799e80b571beecf04bf525be061267fa27211f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_zmona -> Ernestas (Livonijos žemės magistras): 0.74"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Cimbarka: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Ernestas (Livonijos žemės magistras): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata tiesiogiai vadina Cimbarką Ernesto žmona, nors kandidato Ernesto aprašas gali neatitikti Austrijos erchercogo."
   pagrindžia:
     - c-169553
 ## Reikšmingi paminėjimai
@@ -80,8 +66,8 @@ Cimbarka buvo Aleksandros ir Mazovijos kunigaikščio Zemovito duktė, vėliau t
     sąlygos, kad aukščiausioji galia Lietuvoje pasiliekanti
     karaliui Jogailai.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -127,6 +113,3 @@ Cimbarka buvo Aleksandros ir Mazovijos kunigaikščio Zemovito duktė, vėliau t
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186192
-
-## Ryšiai
-- Vyrai: [[objektai/asmenys/Ernestas (Livonijos žemės magistras)]]

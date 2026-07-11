@@ -53,16 +53,6 @@ Nenurodyta
 - t-001
   global_id: t-95978
   teiginys: "Skirgaila Trakų piliai ginti iš vokiečių kariuomenės maršalkos dovanų gavo keletą didelių armotų."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "66181-66865; hash=dd82c765b41a33af46e634fcfd37c94e98bfaa67773253f53d38dd1c59f936d3; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Ragainė: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Armotos: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Ragainė: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Armotos\" parinktas kaip owner_note_path. Targetas \"Ragainė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-36711
 ## Reikšmingi paminėjimai
@@ -84,8 +74,8 @@ Nenurodyta
     gaila, Trakų piliai ginti gavo iš maršalkos dovanų keletą dide­
     lių armotų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

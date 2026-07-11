@@ -32,9 +32,6 @@ Lietuviškasis Balsas: „Lietuviškojo Balso" pirmojo numerio antraštė. (Laik
 - t-003
   global_id: t-67434
   teiginys: "„Lietuviškasis Balsas“ ketverius metus kėlė lietuvių susipratimą ir ragino lietuvius patiems tvarkyti savo gyvenimą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "1270519-1270973; hash=9d66131779be7284f67f35b9ed24a01354bf3320273b31f4b81e8a69d19c4f99; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-67334
 
@@ -42,11 +39,6 @@ Lietuviškasis Balsas: „Lietuviškojo Balso" pirmojo numerio antraštė. (Laik
 - t-001
   global_id: t-67435
   teiginys: "Laikraštis „Lietuviškasis Balsas“ buvo leidžiamas 1885–1889 m."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "1270051-1270317; hash=dd7969dd0aed0a40aaae3a30c2e156bbfddb317e063685ea2780169746c1f93f; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-67333
 
@@ -54,9 +46,6 @@ Lietuviškasis Balsas: „Lietuviškojo Balso" pirmojo numerio antraštė. (Laik
 - t-002
   global_id: t-67436
   teiginys: "1885 m. pradėtas leisti laikraštis „Lietuviškasis Balsas“, kurį leidėjui teko beveik vienam rašyti, spausdinti ir platinti."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "1270519-1270973; hash=9d66131779be7284f67f35b9ed24a01354bf3320273b31f4b81e8a69d19c4f99; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-67334
 ## Reikšmingi paminėjimai
@@ -71,8 +60,8 @@ Lietuviškasis Balsas: „Lietuviškojo Balso" pirmojo numerio antraštė. (Laik
     nemažėjo; jį dar labiau paskatino tautiškasis Amerikos lietu-
     vių judėjimas, ypač pagyvėjęs su 1883 m. atsiradusia „Aušra".
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -91,8 +80,8 @@ Lietuviškasis Balsas: „Lietuviškojo Balso" pirmojo numerio antraštė. (Laik
     susipratimą, ragino pačius lietuvius tvarkyti savo gyvenimą, o
     nesiglausti prie lenkų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

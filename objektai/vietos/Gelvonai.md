@@ -34,17 +34,6 @@ Sprendžiant iš pagrindinių istorinių šaltinių, Švitrigailos ir Ordino paj
 - t-001
   global_id: t-41728
   teiginys: "Švitrigailos ir Ordino pajėgos iš Vilkmergės patraukė į pietus pro Pašilę keliu Gelvonų link."
-  semantiniai_rysiai: "Švitrigaila keliavo į Pašilė (0.82); Švitrigaila keliavo į Gelvonai (0.78)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "277121-277480; hash=77e898e6e37832ca0149db62af2e528d953b28445ae89238b4e91f11791ef973; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Pašilė: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Pašilė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Švitrigailos pajėgų kelias tiesiogiai ėjo pro Pašilę."
   pagrindžia:
     - c-45099
 - susijęs iš Pašilė: Švitrigailos ir Ordino pajėgos iš Vilkmergės traukė į pietus pro Pašilę Gelvonų link.
@@ -74,8 +63,8 @@ Sprendžiant iš pagrindinių istorinių šaltinių, Švitrigailos ir Ordino paj
     Jos viena kitą pastebėjo šiauriau Žirnajų
     ežero, kur išteka Žirnajos upelis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -104,6 +93,3 @@ Sprendžiant iš pagrindinių istorinių šaltinių, Švitrigailos ir Ordino paj
   patikimumo_saltinis: ai
   pagrindzia:
     - t-41728
-
-## Ryšiai
-- Buvo kelionės vieta: [[objektai/asmenys/Švitrigaila]]

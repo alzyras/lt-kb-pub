@@ -41,20 +41,6 @@ Apie tai galima spręsti iš to, kad Jogaila, kartu su „brangiausia žmona“,
 - t-001
   global_id: t-35189
   teiginys: "Jogaila per savo seną gynėją Klemensą iš Moskoževo pasiuntė į Vilnių papuoštą knygą apie Kristaus kančias."
-  semantiniai_rysiai: "Jogaila (kunigaikštis, XIV–XV a.) siuntė į Vilnius (0.94)"
-  temporaliniai_duomenys: "įvykio data: 1398 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Reikia aiškiai nurodyti, kad Klemensas iš Moskoževo buvo Jogailos senas gynėjas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "414735-415259; hash=be1f94225cb61c7614c9d338eed9e1d05bb5442b50934e91bea82b967496ae08; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "siunte_i -> Vilnius: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo, kad Jogaila pasiuntė objektą į Vilnių."
   pagrindžia:
     - c-38073
 ## Reikšmingi paminėjimai
@@ -74,8 +60,8 @@ Apie tai galima spręsti iš to, kad Jogaila, kartu su „brangiausia žmona“,
     cis Lituaniae“, kokį duoda Vytautui anas raštas iš 1398 m. pa­
     baigos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

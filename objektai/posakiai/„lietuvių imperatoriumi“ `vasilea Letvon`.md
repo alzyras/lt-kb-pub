@@ -41,21 +41,6 @@ Tačiau būtent šių žygių į Maskvą metu 1371 m. laiške Konstantinopolio p
 - t-001
   global_id: t-186395
   teiginys: "1371 m. laiške Konstantinopolio patriarchui Algirdas pasivadino „lietuvių imperatoriumi“ („vasilea Letvon“)."
-  teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Algirdas (Lietuvos valdovas) surengė žygį į Maskva (0.94)"
-  temporaliniai_duomenys: "įvykio data: 1371 m.; įvykio data: 1372 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra tikslus, gramatinis ir tiesiogiai pagrįstas citata."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "62635-63324; hash=398ede3c5ffc499c5dfe1e4c33a5a21408cb53e931df792512f131d88af1335a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "surenge_zygi_i -> Maskva: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Maskva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Algirdas surengė žygį į Maskvą."
   pagrindžia:
     - c-169746
 
@@ -63,20 +48,6 @@ Tačiau būtent šių žygių į Maskvą metu 1371 m. laiške Konstantinopolio p
 - t-002
   global_id: t-186396
   teiginys: "1371 m. laiške Konstantinopolio patriarchui Algirdas pasivadino „lietuvių imperatoriumi“ ir taip prilygino save Bizantijos imperatoriui."
-  teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Algirdas (Lietuvos valdovas) surengė žygį į Maskva (0.94)"
-  temporaliniai_duomenys: "įvykio data: 1371 m.; įvykio data: 1372 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "62635-63324; hash=398ede3c5ffc499c5dfe1e4c33a5a21408cb53e931df792512f131d88af1335a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "surenge_zygi_i -> Maskva: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Maskva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Algirdo žygį į Maskvą."
   pagrindžia:
     - c-169746
 ## Reikšmingi paminėjimai
@@ -96,8 +67,8 @@ Tačiau būtent šių žygių į Maskvą metu 1371 m. laiške Konstantinopolio p
     Lietuvos valdovai puikiai orientavosi ne tik Vakarų, bet ir Rytų Europos
     politinėje sistemoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

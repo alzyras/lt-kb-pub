@@ -40,17 +40,6 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
 - t-018
   global_id: t-178755
   teiginys: "Į Červinską atvyko vengrų pasiuntiniai iš kryžiuočių pusės teirautis Jogailos dėl taikos derybų vietos ir laiko."
-  semantiniai_rysiai: "Vengrai keliavo į Červinskas (0.87)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "218513-218910; hash=416c1b70f0a392b5629cb1000839a3f0ce922712c0cd07b317e198d0e0e9921d; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Červinskas: 0.87"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vengrai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Červinskas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citatoje tiesiogiai nurodyta, kad vengrų pasiuntiniai atvyko į Červinską."
   pagrindžia:
     - c-162451
 
@@ -58,19 +47,6 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
 - t-019
   global_id: t-178759
   teiginys: "1418 m. Vytautas ir Jogaila sutelkė kariuomenes prie Červinsko, bet popiežiaus pasiuntiniai pratęsė paliaubas dar metams."
-  temporaliniai_duomenys: "įvykio data: 1418 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pagrindžia glaustesnį faktinį sakinį apie Červinską."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "338408-338950; hash=f7dc3ae68d45880310ce5ff8de14464dcd9c3929c05bb975b8760b572dde4d6f; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> paliaubos: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Červinskas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "paliaubos: mention_match, thing, gap=47"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Červinskas\" parinktas kaip owner_note_path. Targetas \"paliaubos\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-162452
 - susijęs iš [[objektai/ivykiai/1422 m. Červinsko stovykla ir bajorų privilegijų suteikimas.md#claim-t-34530|1422 m. Červinsko stovykla ir bajorų privilegijų suteikimas (privilegija)]]: 1422 m. Červinsko stovykloje Jogaila, Vytautui tarpininkaujant, padidino lenkų bajorijos luomo teises.
@@ -101,8 +77,8 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
     tę, bet magistras nepatikėjęs, kad sąjungininkai įstengtų čia su­
     sirinkti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -123,8 +99,8 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
     Tokia netikra kelių metų padėtis nepaprastai trukdė kul­
     tūrišką Vytauto darbą, kuris šiuo laiku buvo labai intensyvus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -177,6 +153,3 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   patikimumo_saltinis: ai
   pagrindzia:
     - t-178759
-
-## Ryšiai
-- Buvo kelionės vieta: [[objektai/grupes/Vengrai]]

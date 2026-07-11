@@ -30,22 +30,6 @@ Narbutas rašė, kad skiriai su sudargais po 245 metų kūrėsi Mažojoje Skitij
 - t-001
   global_id: t-192935
   teiginys: "Narbutas rašė, kad skiriai su sudargais po 245 metų kūrėsi Mažojoje Skitijoje ir Žemutinėje Mezijoje, vadovaujami Kandako."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Skiriai gyveno Skitija (0.88); Sudargai gyveno Skitija (0.88)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "524870-525446; hash=3d74dd725956bba8175b44f67991a4972990432dcb9c70b5dd8115c702089e43; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Skitija: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Sudargai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Skitija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Sudargai kartu su skiriais tiesiogiai nurodyti kaip kūręsi Mažojoje Skitijoje."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175705
 
@@ -53,21 +37,6 @@ Narbutas rašė, kad skiriai su sudargais po 245 metų kūrėsi Mažojoje Skitij
 - t-002
   global_id: t-192936
   teiginys: "Pasak Narbuto cituojamo Jordano, skiriai iš pradžių taikiai gyveno su gotų gentimis ir labiau linko į žemdirbystę negu į karą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "525605-526242; hash=13d03f6dbf2d9551f731bef48f709c06c4ad806841b7f7131630f88d9074a301; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gotai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Skiriai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Gotai: mention_match, group, gap=37"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Skiriai\" parinktas kaip owner_note_path. Targetas \"Gotai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175706
 
@@ -75,22 +44,6 @@ Narbutas rašė, kad skiriai su sudargais po 245 metų kūrėsi Mažojoje Skitij
 - t-003
   global_id: t-192937
   teiginys: "476 metų pradžioje alanai, turcilingai, gepidai, skiriai ir herulai paskelbė Odoakrą savo vadu ir karaliumi."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Skiriai paskyrė Odoakras (0.90); Herulai paskyrė Odoakras (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "562171-562567; hash=a997a361e7bb6767df2ba194a3a56e6f94d2ce083260e7c52d621b2e4c9e5931; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "paskyre -> Odoakras: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Herulai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Odoakras: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Herulai tiesiogiai išvardyti tarp genčių, paskelbusių Odoakrą savo vadu ir karaliumi."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175707
 - susijęs iš [[objektai/asmenys/Johanas Foigtas.md#claim-t-190889|Johanas Foigtas]]: Narbutas vertina, kad Johanas Foigtas, svarstydamas skirių ir hirių gentis, pateko į keblią padėtį ir darė netaiklias išvadas.
@@ -141,8 +94,8 @@ Narbutas rašė, kad skiriai su sudargais po 245 metų kūrėsi Mažojoje Skitij
     varginti, beveik be paliovos puldinėję imperijos žemes,
     ėmė mąstyti apie įsikūrimą vienoje vietoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -165,8 +118,8 @@ Narbutas rašė, kad skiriai su sudargais po 245 metų kūrėsi Mažojoje Skitij
     kvadai. Skiriai, dar turėję čia savo kėslų, sudarė sąjungą
     su sukilėliais ir išvien su jais puolė gotus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -190,8 +143,8 @@ Narbutas rašė, kad skiriai su sudargais po 245 metų kūrėsi Mažojoje Skitij
     naujasis vadas tuojau pat išskubėjo iš Panonijos, vesda­
     mas gausius būrius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -228,7 +181,8 @@ Narbutas rašė, kad skiriai su sudargais po 245 metų kūrėsi Mažojoje Skitij
 - id: c-175706
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 293"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 293."
   citata_originali: |
     Tas pats istorikas Jorda­
     nas, pasakodamas apie gotų kivirčus, pirmiausia mini
@@ -275,8 +229,5 @@ Narbutas rašė, kad skiriai su sudargais po 245 metų kūrėsi Mažojoje Skitij
     - t-192937
 
 ## Ryšiai
-- Sąjungininkai: [[objektai/grupes/Gotai]], [[objektai/grupes/Sudargai]]
 - Skiriai puolė [[objektai/grupes/Gotai]]
-- Skiriai kariavo prieš [[objektai/grupes/Gotai]]
-- Skiriai gyveno [[objektai/vietos/Isteris]], [[objektai/vietos/Skitija]]
 - Skiriai paskyrė [[objektai/asmenys/Odoakras]]

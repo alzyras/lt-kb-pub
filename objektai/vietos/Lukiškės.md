@@ -42,16 +42,6 @@ media_all_json: |-
 - t-002
   global_id: t-85840
   teiginys: "Ankstyvojo Vilniaus aprašyme Lukiškėse šventų girių kryptimi buvo išsibarsčiusios vienišos trobos."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "240064-240572; hash=e5326d0c3ab313f70e9cd115602866314a7f9ca5c6970c4691678a886adc3851; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Troba: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lukiškės: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Troba: mention_match, thing, gap=62"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lukiškės\" parinktas kaip owner_note_path. Targetas \"Troba\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-81824
 
@@ -59,19 +49,6 @@ media_all_json: |-
 - t-004
   global_id: t-85843
   teiginys: "Mikalojaus Radvilos Juodojo dvaras Lukiškėse prie Vilijos nuo 1556 m. tapo reformos šalininkų prieglobsčiu ir mokykla."
-  temporaliniai_duomenys: "įvykio data: po 1556 m.; įvykio data: 1556 m.; įvykio data: 1557 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys konkrečiai nusako Lukiškių dvaro vaidmenį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "569004-570451; hash=fd598990f4fa07f7b41e42cae93e8a6178fac3ac39bc4d16cc1cc21fb0c5d5b0; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lukiškės: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Vilija: mention_match, place, gap=15"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lukiškės\" parinktas kaip owner_note_path. Targetas \"Vilija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-81825
 - susijęs iš Polockas: Vienas vieškelis iš Vilniaus per Vilnios upę prie Vyskupo malūno suko į Polocką.
@@ -93,8 +70,8 @@ media_all_json: |-
     kuris jau krikščionybės laikais atsi- tai yra esančiu ant kalno, vadiname],
     rado.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -146,8 +123,8 @@ media_all_json: |-
     šai tas apeigas vykdė, kol ties Šv. Mykolo bažnyčia buvo
     išmūryti didieji maldos namai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

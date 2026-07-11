@@ -34,16 +34,6 @@ Esant poreikiui agentai-smogikai apjungiami į kovines-agentūrines grupes.
 - t-001
   global_id: t-42474
   teiginys: "Prireikus agentai-smogikai būdavo sujungiami į kovines-agentūrines grupes."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1003133-1003430; hash=a25ff1c455720220a88990c629fe5048a429941a56b6a998bb717a7cec5c531a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Agentai-smogikai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "kovinė-agentūrinė grupė: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Agentai-smogikai: mention_match, group, gap=57"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"kovinė-agentūrinė grupė\" parinktas kaip owner_note_path. Targetas \"Agentai-smogikai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-45529
 ## Reikšmingi paminėjimai
@@ -58,8 +48,8 @@ Esant poreikiui agentai-smogikai apjungiami į kovines-agentūrines grupes.
     kaip kovos su priešiškomis žvalgybinėmis-diversinėmis grupėmis ir nacionalistinėmis gau-
     jomis rezervą ypatinguoju laikotarpiu ar karo metu.“
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -34,16 +34,6 @@ XII amžiaus antrojoje pusėje, kai amatai ir prekyba jau įsi­ tvirtino Vokiet
 - t-001
   global_id: t-86578
   teiginys: "XII a. antrojoje pusėje Vokietijos miestuose pradėta steigti cechus, o XIII a. daugelis jų išsivadavo iš vyskupų jurisdikcijos."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "32845-33622; hash=9b5866f4d3356e15e54888c9619919510cd160e9775f6a63d46f8206bddaf358; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Italija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Cechai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Italija: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Cechai\" parinktas kaip owner_note_path. Targetas \"Italija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-82557
 - susijęs iš [[objektai/posakiai/„jogailaičių Europa“ „krikščionybės forpostas“.md#claim-t-101622|„jogailaičių Europa“ „krikščionybės forpostas“]]: LDK visuomenei europėjant susiformavo leno teisė, feodai, baudžiava, bajorų luomas, luominė monarchija, cechai ir europinė švietimo sistema.
@@ -68,8 +58,8 @@ XII amžiaus antrojoje pusėje, kai amatai ir prekyba jau įsi­ tvirtino Vokiet
     radęsi Švabijoje ir Frankonijoje dėl Hohenštaufenų giminės žlu­
     gimo, miestams suteikė lemiamą persvarą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

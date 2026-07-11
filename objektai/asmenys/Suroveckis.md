@@ -30,21 +30,6 @@ Pasak Teodoro Narbuto, Suroveckis teigė, kad VI amžiaus pradžioje slavai už�
 - t-002
   global_id: t-191323
   teiginys: "Pasak Teodoro Narbuto, Suroveckis teigė, kad VI amžiaus pradžioje slavai užėmė budinų kraštus dešiniajame Vyslos krante."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "472955-473452; hash=5878cd9c2738494524b14f2b493514e78a2eb7eb6370eaef71d06d3561b02a8b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Budinai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Suroveckis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Budinai: mention_match, group, gap=56"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Suroveckis\" parinktas kaip owner_note_path. Targetas \"Budinai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174205
 
@@ -52,21 +37,6 @@ Pasak Teodoro Narbuto, Suroveckis teigė, kad VI amžiaus pradžioje slavai už�
 - t-003
   global_id: t-191983
   teiginys: "Teodoro Narbuto vertinimu, Suroveckis gerai aiškino, kad venedų srityse buvo seniausios slavų gyvenamosios vietos."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "176100-176898; hash=ddf305284097016e639936cced7381ca6a14da9f064a4863e594be8d4ba9801a; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Slavai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Suroveckis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Slavai: mention_match, group, gap=61"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Suroveckis\" parinktas kaip owner_note_path. Targetas \"Slavai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174865
 ## Reikšmingi paminėjimai
@@ -90,8 +60,8 @@ Pasak Teodoro Narbuto, Suroveckis teigė, kad VI amžiaus pradžioje slavai už�
     261
     Natangija (Natangia).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -122,8 +92,8 @@ Pasak Teodoro Narbuto, Suroveckis teigė, kad VI amžiaus pradžioje slavai už�
 
     manų genčių“.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -39,19 +39,6 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
 - t-001
   global_id: t-72652
   teiginys: "Templininkų ordinas buvo prancūzų ordinas, minimas šalia italų joanitų ir vokiečių Marijos Mergelės ordino."
-  semantiniai_rysiai: "Templininkų ordinas priklausė Prancūzai (0.78)"
-  temporaliniai_duomenys: "įvykio data: 1190 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "104431-104856; hash=8ad493ae16c43a7243903cfd02b5edb16c4eff8c6547d9d25bab48beeaa52507; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Prancūzai: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Templininkų ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Prancūzai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Teiginys priskiria Templininkų ordiną prancūzams."
   pagrindžia:
     - c-71046
 
@@ -59,20 +46,6 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
 - t-002
   global_id: t-72653
   teiginys: "Prancūzai turėjo templininkų ordiną, priskiriamą kariaujančiųjų riterių ordinams."
-  semantiniai_rysiai: "Templininkų ordinas priklausė Prancūzai (0.82)"
-  temporaliniai_duomenys: "įvykio data: 1190 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Bendras kontekstas perrašytas į faktą apie pastabos objektą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "104431-104856; hash=8ad493ae16c43a7243903cfd02b5edb16c4eff8c6547d9d25bab48beeaa52507; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Prancūzai: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Templininkų ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Prancūzai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad prancūzai turėjo templininkų ordiną."
   pagrindžia:
     - c-71046
 ## Reikšmingi paminėjimai
@@ -89,8 +62,8 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
     ordiną, prancūzai — templininkų, o trečiojo kryžiaus žygio metu
     vokiečiai įkūrė savo Marijos Mergelės ordiną (1190 m.).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -119,6 +92,3 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
   pagrindzia:
     - t-72652
     - t-72653
-
-## Ryšiai
-- Templininkų ordinas priklausė [[objektai/grupes/Prancūzai]]

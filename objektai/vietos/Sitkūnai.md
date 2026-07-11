@@ -32,14 +32,6 @@ Sausio 13 dieną nutrūkus radijo transliacijai, pradėjo dirbti Sitkūnų (neto
 - t-001
   global_id: t-193659
   teiginys: "Sausio 13 dieną nutrūkus radijo transliacijai, pradėjo dirbti Sitkūnų (netoli Kauno) radijo stotis."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "505327-505775; hash=c4e0aa6f4e9e68cc9d0bf4da4af3b292e2e48dab7d22a46323b8d71a6624c742; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-176328
 ## Reikšmingi paminėjimai
@@ -56,8 +48,8 @@ Sausio 13 dieną nutrūkus radijo transliacijai, pradėjo dirbti Sitkūnų (neto
     formacijos. Sausio 13 dieną nutrūkus radijo transliacijai, pradėjo dirbti
     Sitkūnų (netoli Kauno) radijo stotis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

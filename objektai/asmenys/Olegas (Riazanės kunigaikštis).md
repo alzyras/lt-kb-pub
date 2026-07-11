@@ -35,17 +35,6 @@ Paimtas su žmona ir vaikais, kuni­ gaikštis buvo uždarytas Vilniaus Aukštut
 - t-001
   global_id: t-87808
   teiginys: "Riazanės kunigaikštis Olegas atkakliai prašė ir laidavo, kad Dmitrijus Kaributas būtų paleistas iš Vilniaus Aukštutinės pilies."
-  semantiniai_rysiai: "Olegas (Riazanės kunigaikštis) rėmė Dmitrijus Kaributas (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "306820-307652; hash=7db3582b2e72bab88f6ba644baf32b037a6de41cc89caaf970adb7efc842e818; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "reme -> Dmitrijus Kaributas: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Olegas (Riazanės kunigaikštis): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Dmitrijus Kaributas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Olegas prašė ir laidavo dėl Dmitrijaus Kaributo paleidimo, todėl tiesiogiai jį rėmė."
   pagrindžia:
     - c-83787
 ## Reikšmingi paminėjimai
@@ -74,8 +63,8 @@ Paimtas su žmona ir vaikais, kuni­ gaikštis buvo uždarytas Vilniaus Aukštut
     paleistas ir iš Seversko valstybės, jau prijungtos prie Lie­
     tuvos, perkeltas į Volumes ir Podolės didžiules vaidas55.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

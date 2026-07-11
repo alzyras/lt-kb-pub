@@ -30,19 +30,6 @@ Laiške karaliui Ivanas pasirašė nauju Livonijos valdovo titulu.
 - t-001
   global_id: t-186330
   teiginys: "Laiške karaliui Ivanas pasirašė nauju Livonijos valdovo titulu."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1248718-1249465; hash=396dd36f019070b96ec70489ba60e82fd18f5455f4a0e05699d85b19bdcd0c0e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Ivanas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ivano laiškas karaliui su Livonijos valdovo titulu: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Ivanas: mention_match, person, gap=16"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ivano laiškas karaliui su Livonijos valdovo titulu\" parinktas kaip owner_note_path. Targetas \"Ivanas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-169691
 ## Reikšmingi paminėjimai
@@ -66,8 +53,8 @@ Laiške karaliui Ivanas pasirašė nauju Livonijos valdovo titulu.
     ir pasipūtėlišką, paaiškėjo, kad Ivanas prasimanė dar
     vieną titulą, pasirašydamas Livonijos valdovu.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -78,7 +65,8 @@ Laiške karaliui Ivanas pasirašė nauju Livonijos valdovo titulu.
 - id: c-169691
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 700"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 700."
   citata_originali: |
     Antra vertus, be reikalo Augustas imąsis rūpintis
     Livonijos gyventojais: jie — Maskvos kunigaikštystės

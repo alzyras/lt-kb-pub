@@ -43,14 +43,6 @@ Kitatikius varžančių įstatymų atsirado tik XVII amž. pabaigoje ir XVIII am
 - t-001
   global_id: t-193287
   teiginys: "Kitatikius varžančių įstatymų atsirado tik XVII amž. pabaigoje ir XVIII amžiuje."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "687159-687658; hash=9b4a607051f5d61ae7722ae4fbefa4bc8d969b20589d6bd310e76ae9326ad79d; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-46901
 - susijęs iš [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.).md#claim-t-10230|Klecko mūšis (1506 m. rugpjūčio 6 d.)]]: Bychoveco kronikoje Klecko pergalė siejama su krikščionių kovos prieš kitatikius motyvais ir Dievo gailestingumu LDK.
@@ -69,8 +61,8 @@ Kitatikius varžančių įstatymų atsirado tik XVII amž. pabaigoje ir XVIII am
     jonys) buvo išvarytos iš krašto. Pagaliau buvo išleistas įstaty-
     mas, kuriuo į senatą ir į seimą galėjo patekti tiktai katalikai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

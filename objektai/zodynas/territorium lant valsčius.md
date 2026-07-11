@@ -35,16 +35,6 @@ Dusburgietis teigia, kad žemė susideda iš mažesnių „teritorijų” (in te
 - t-001
   global_id: t-58874
   teiginys: "Dusburgiečio kronikoje žemė susideda iš mažesnių teritorijų, kurioms istoriografijoje taikomas valsčiaus terminas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "176785-177481; hash=2ade4e2eb954ecb10cbe86be781820b74d2d8c8bfd74ec5bd3cf2566afd7ba03; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "territorium lant valsčius: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"territorium lant valsčius\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-59506
 
@@ -52,16 +42,6 @@ Dusburgietis teigia, kad žemė susideda iš mažesnių „teritorijų” (in te
 - t-002
   global_id: t-58875
   teiginys: "Valsčių sudarė pilis, laukai, pievos ir miškeliai su bajorų kaimais bei žemdirbių sodžiais."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "179855-180123; hash=bf9ffdfcb183d3dd56e9a3ced2b33ee7866f7b3edea6a014a2a9916f29d851e7; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Bajorai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "territorium lant valsčius: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Bajorai: mention_match, group, gap=53"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"territorium lant valsčius\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-59507
 ## Reikšmingi paminėjimai
@@ -80,8 +60,8 @@ Dusburgietis teigia, kad žemė susideda iš mažesnių „teritorijų” (in te
     dokumentuose Lietuvoje vadinamas valsčiumi. Valsčiaus terminą galime (istoriografijoje
     tai priimta) taikyti ir XIII—XIV a. pradžiai.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -96,8 +76,8 @@ Dusburgietis teigia, kad žemė susideda iš mažesnių „teritorijų” (in te
     Studja..., 2, p. 6— 44, 78; Пашуто В. T. Образование..., c. 333; Pašuta V. Lietuvos...,
     p. 206—207).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -108,7 +88,8 @@ Dusburgietis teigia, kad žemė susideda iš mažesnių „teritorijų” (in te
 - id: c-59506
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 55"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 55."
   citata_originali: |
     D. žemė susideda iš mažesnių „teritorijų” (in terrilorio Scoken, III, 6; ad territorium
     Reysen, III, 11; de depredatione territorium Pastovie et Gesovie, III, 246 ir kt.); žinomas
@@ -129,7 +110,8 @@ Dusburgietis teigia, kad žemė susideda iš mažesnių „teritorijų” (in te
 - id: c-59507
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 56"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 56."
   citata_originali: |
     Valsčių sudarė  pilis  ir didelis laukų, pievų, miškelių plotas su bajorų sodybomis
     — kaimais ir žemdirbių — sodžiais (Jurginis J. Baudžiavos..., p. 168; Łowmiański H.

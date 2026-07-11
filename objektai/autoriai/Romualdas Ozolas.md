@@ -30,12 +30,6 @@ LPS tapo dar populiaresnis, kai nuo rugsėjo 16 dienos, be biuletenio „Sąjūd
 - t-001
   global_id: t-193723
   teiginys: "LPS tapo dar populiaresnis, kai nuo rugsėjo 16 dienos, be biuletenio „Sąjūdžio žinios“, pradėtas leisti laikraštis „Atgimimas“ (red. Romualdas Ozolas)."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "486860-487489; hash=f5a6e57f6acfdbfda12f58fee90432cbfb4e09b5533b516f7a223d8ff41f13ca; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176392
 ## Reikšmingi paminėjimai
@@ -54,8 +48,8 @@ LPS tapo dar populiaresnis, kai nuo rugsėjo 16 dienos, be biuletenio „Sąjūd
     kai nuo rugsėjo 16 dienos, be biuletenio „Sąjūdžio žinios“, pradėtas leisti
     laikraštis „Atgimimas“ (red. Romualdas Ozolas).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

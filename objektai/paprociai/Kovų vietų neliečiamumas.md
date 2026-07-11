@@ -56,16 +56,6 @@ Nenurodyta
 - t-002
   global_id: t-67129
   teiginys: "Tokias vietas žmonės paprastai vadino milžinų kapais ir net vyresnybės nurodymu jas ardydami nerasdavo nieko, kas patvirtintų liaudies pasakas."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "227577-227894; hash=fc398996441e51a9f4383a69f6f0c052d1330160fcb8a026ad3a1b597daec333; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Ginklai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kovų vietų neliečiamumas: owner_note_path, thing"
-  ryšio_targeto_parinkimas: "Ginklai: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kovų vietų neliečiamumas\" parinktas kaip owner_note_path. Targetas \"Ginklai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-10011
     - c-11077
@@ -79,8 +69,8 @@ Nenurodyta
         sutrynėję ginklai praėjusiųjų gadynių ir kaulai žmonių tokių, kokius šiandien regim dar
         gyvojančius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -100,8 +90,8 @@ Nenurodyta
         kokias vietas paprastai milžinų kapais vadina, apie kuriuos pasakos šiandien dar visiems yra
         žinomos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

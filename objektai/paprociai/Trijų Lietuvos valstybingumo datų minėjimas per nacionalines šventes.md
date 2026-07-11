@@ -61,19 +61,6 @@ Nenurodyta
 - t-004
   global_id: t-78722
   teiginys: "Per nacionalines šventes minimos Liepos 6-osios, Vasario 16-osios ir 1990 m. Kovo 11-osios Lietuvos valstybingumo datos."
-  temporaliniai_duomenys: "įvykio data: 1795 m.; įvykio data: 1990 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, aiškus ir paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "19834-20417; hash=7e0a7903c8e3a3bc9a974117998edf5d9ce00fee32264f347700f2b7b0b80de6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Trijų Lietuvos valstybingumo datų minėjimas per nacionalines šventes: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=91"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trijų Lietuvos valstybingumo datų minėjimas per nacionalines šventes\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-12431
 
@@ -81,19 +68,6 @@ Nenurodyta
 - t-006
   global_id: t-78723
   teiginys: "Nacionalinėse šventėse minimi trys Lietuvos valstybės kūrimosi ar atkūrimo momentai po istorinių valstybingumo praradimų."
-  temporaliniai_duomenys: "įvykio data: 1795 m.; įvykio data: 1990 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pirminis sakinys yra kontekstinis ir prasideda jungtuku, todėl perrašytas kaip savarankiškas faktas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "19587-20284; hash=74266fd101d43e31a25dba2e24af96d223848f5d7f1c0dd02e337aa569d4a700; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Trijų Lietuvos valstybingumo datų minėjimas per nacionalines šventes: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trijų Lietuvos valstybingumo datų minėjimas per nacionalines šventes\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-43178
 
@@ -101,19 +75,6 @@ Nenurodyta
 - t-004
   global_id: t-78722
   teiginys: "Per nacionalines šventes minimos Liepos 6-osios, Vasario 16-osios ir 1990 m. Kovo 11-osios Lietuvos valstybingumo datos."
-  temporaliniai_duomenys: "įvykio data: 1795 m.; įvykio data: 1990 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, aiškus ir paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "19834-20417; hash=7e0a7903c8e3a3bc9a974117998edf5d9ce00fee32264f347700f2b7b0b80de6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Trijų Lietuvos valstybingumo datų minėjimas per nacionalines šventes: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=91"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trijų Lietuvos valstybingumo datų minėjimas per nacionalines šventes\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-12431
 
@@ -121,21 +82,6 @@ Nenurodyta
 - t-008
   global_id: t-78725
   teiginys: "Lietuva tris valstybingumo atkūrimo ar kūrimo kartus mini per nacionalines šventes."
-  temporaliniai_duomenys: "įvykio data: 1795 m.; įvykio data: 1990 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys per ilgas ir nutolęs nuo objekto; citata palaiko glaustesnę formuluotę."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "19587-20284; hash=74266fd101d43e31a25dba2e24af96d223848f5d7f1c0dd02e337aa569d4a700; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Trijų Lietuvos valstybingumo datų minėjimas per nacionalines šventes: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trijų Lietuvos valstybingumo datų minėjimas per nacionalines šventes\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-13T14:20:43Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-43178
 
@@ -143,19 +89,6 @@ Nenurodyta
 - t-005
   global_id: t-78726
   teiginys: "Trijų Lietuvos valstybingumo datų minėjimas siejamas su Mindaugo karūnavimu, valstybingumo atkūrimu ir atsiskyrimu nuo sovietų imperijos."
-  temporaliniai_duomenys: "įvykio data: 1795 m.; įvykio data: 1990 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Reikia pakeisti neaiškų įvardį ir tiksliau įvardyti minėjimo turinį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "19834-20417; hash=7e0a7903c8e3a3bc9a974117998edf5d9ce00fee32264f347700f2b7b0b80de6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Trijų Lietuvos valstybingumo datų minėjimas per nacionalines šventes: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=6"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trijų Lietuvos valstybingumo datų minėjimas per nacionalines šventes\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-12431
 ## Reikšmingi paminėjimai
@@ -174,8 +107,8 @@ Nenurodyta
     Lietuvą arba Antrąją Respubliką, bet pirmąją, atsiskyrusią nuo so-
     vietų imperijos, ir pradėjusią suverenitetų paradą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -198,8 +131,8 @@ Nenurodyta
     (1918-aisiais tą dieną buvo deklaruojama Lietuvos valstybingumo,
     panaikinto 1795 m., atkūrimas), pagaliau 1990 m.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

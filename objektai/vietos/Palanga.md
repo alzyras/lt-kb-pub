@@ -47,13 +47,6 @@ media_all_json: |-
 - t-002
   global_id: t-192349
   teiginys: "Lietuvai atiteko tuomet dar menkai naudingas pajūris nuo Palangos iki Kuršo Šventosios."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys yra pilnas faktinis sakinys apie pajūrį nuo Palangos ir remiasi citata."
-  susije_objektai: "mentioned_place: Kuršas; mentioned_place: Lietuva; mentioned_place: Minija; llm_object: Lietuva"
-  semantiniai_rysiai: "Palanga priklausė Lietuva"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "980839-981136; hash=cb9f020a66b1ad7548bd9532cfde0eb5a509452276fa5ccca98855e57164f6e6; match=exact"
-  sprendimo_priezastis: "manual_places_boilerplate_fix"
   pagrindžia:
     - c-175149
 
@@ -61,22 +54,6 @@ media_all_json: |-
 - t-006
   global_id: t-192350
   teiginys: "Jucevičiaus nuomone, prie Palangos gyvenę lietuviai žvejai Atrimpą vadino „Dzivsvits“."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Sakinys sutrumpintas iki aiškaus teiginio apie Palangą ir žvejų vartotą vardą. Nuomonės pobūdis paliktas su Jucevičiaus atribucija, footnote triukšmas pašalintas."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_place: Lenkija; mentioned_place: Liepoja; llm_object: Palanga"
-  semantiniai_rysiai: "[[objektai/grupes/Lietuviai|Lietuviai]] gyveno Palanga"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "184351-184607; hash=259471a1816def746dadc320753c3a7e91288e4c1f3e3ee33cb5d79a5ef8e999; match=ocr_normalized"
-  sprendimo_priezastis: "manual_places_boilerplate_fix"
-  ryšio_patikimumas: "gyveno -> Palanga: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Palanga: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai mini prie Palangos gyvenusius lietuvius žvejus."
   pagrindžia:
     - c-175148
 
@@ -84,14 +61,6 @@ media_all_json: |-
 - t-003
   global_id: t-192351
   teiginys: "Sukilėliai planavo užimti Palangos ir Liepojos uostus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata."
-  susije_objektai: "mentioned_place: Liepoja; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_place: Lenkija"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "654113-654367; hash=e70310ef920e66cc4ed8ae77dede78881ff4ab4e5a120268b583d7b09d3c7c51; match=whitespace_regex"
-  sprendimo_priezastis: "manual_places_boilerplate_fix"
   pagrindžia:
     - c-175147
 
@@ -99,14 +68,6 @@ media_all_json: |-
 - t-004
   global_id: t-192352
   teiginys: "Livonijos kariai pasuko prie Baltijos jūros, tikėdamiesi apie Palangą rasti retesnių medžių ir lygesnį kelią."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Pašalintas autorinis boilerplate; citata pagrindžia veiksmą ir motyvą apie Palangą."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Baltija; mentioned_place: Livonija"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "907612-908165; hash=dd65ffd11b4dc770c44f13052e666af9ae86839e564ac1b2cfd9f640f0924b61; match=exact"
-  sprendimo_priezastis: "manual_places_boilerplate_fix"
   pagrindžia:
     - c-175151
 
@@ -114,11 +75,6 @@ media_all_json: |-
 - t-001
   global_id: t-192353
   teiginys: "Sukilėliai planavo užimti Palangos ir Liepojos uostus."
-  teiginio_tipas: "faktas"
-  susije_objektai: "mentioned_place: Liepoja; mentioned_place: Kuršas; mentioned_place: Lietuva; mentioned_place: Minija"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "980839-981136; hash=cb9f020a66b1ad7548bd9532cfde0eb5a509452276fa5ccca98855e57164f6e6; match=exact"
-  sprendimo_priezastis: "manual_places_boilerplate_fix"
   pagrindžia:
     - c-175149
 
@@ -126,23 +82,6 @@ media_all_json: |-
 - t-007
   global_id: t-192354
   teiginys: "Narbutas daro išvadą, kad ant kalno prie Palangos nuolat degė Praurimės ugnis, saugota vaidilutėmis vadintų žynių."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Fragmentas paverstas vienu aiškiu teiginiu apie Palangą. Interpretacinė išvada ir religinis turinys palikti su Narbuto atribucija, nepridedant išorinių faktų."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Žyniai|Žyniai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Baltija"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "382140-382470; hash=3a1467a14ff79202fbd52b679a5351665d0e4e0fc3df2a111d21b754d24a36da; match=exact"
-  sprendimo_priezastis: "manual_places_boilerplate_fix"
-  ryšio_patikimumas: "susije_su -> Žyniai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Palanga: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Žyniai: mention_match, group, gap=67"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Palanga\" parinktas kaip owner_note_path. Targetas \"Žyniai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175150
 
@@ -150,12 +89,6 @@ media_all_json: |-
 - t-008
   global_id: t-192355
   teiginys: "Redakcinėje pastaboje Senoji Palanga lokalizuojama Olandiškos Skrybėlės kalvos papėdėje."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "864652-864980; hash=ba288f52cbeb3b9835123ef72ef370e635e9fcbca31e2312039e74402a5a8749; match=exact"
-  sprendimo_priezastis: "manual_places_boilerplate_fix"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175145
 
@@ -163,24 +96,6 @@ media_all_json: |-
 - t-005
   global_id: t-192356
   teiginys: "Pasak Lietuvos metraščio, Palangoje Prūsijos ir Livonijos vokiečiai telkė kariuomenę prieš žemaičius, bet žemaičiai ją nuo kopų sumušė akmenimis."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Reikia šaltinio atribucijos prie polemiško konflikto ir priešo vaizdavimo."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Lietuva; llm_object: [[objektai/grupes/Žemaičiai|Žemaičiai]]"
-  semantiniai_rysiai: "Vokiečiai puolė Žemaičiai (0.78)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "188841-189342; hash=1e1ef53a073b494bde8bfc378fa9adee5fc5e9bc86cbf14adecc3326723ae7d1; match=whitespace_regex"
-  sprendimo_priezastis: "manual_places_boilerplate_fix"
-  ryšio_patikimumas: "puole -> Žemaičiai: 0.78"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vokiečiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Žemaičiai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Prūsijos ir Livonijos vokiečiai telkė kariuomenę prieš žemaičius."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175146
 
@@ -188,14 +103,6 @@ media_all_json: |-
 - t-009
   global_id: t-194741
   teiginys: "Mat ant švento kalno prie Palangos, prie Nevėžio upės, Vilniuje ir ki tose vietose būta aukurų, kuriuose degė Amžinoji ugnis, sau goma mergelių."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "203355-203698; hash=218b678223de72e54df886e1495869649979092e608336517568b75890c7cd58; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-177137
 
@@ -203,14 +110,6 @@ media_all_json: |-
 - t-010
   global_id: t-194742
   teiginys: "Birutė (Biruta) Žemaičių didiko duktė29, kuri iš pašaukimo tapo vaidilu te būryje mergelių, saugojančių šventą Praurimės aukuro ug nį netoli Palangos, ant švento kalno."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "268013-268582; hash=2081ebf59d80a95aed83ed4576fefc696c68e8746f36de1ac9227869f2bc9339; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-177138
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-188261|Lietuviai]]: Narbutas nurodė Jucevičiaus nuomonę, kad Palangos apylinkių lietuviai žvejai Atrimpą vadino Dzivsvits.
@@ -310,8 +209,8 @@ media_all_json: |-
     (PE. L.
     70—71).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -331,8 +230,8 @@ media_all_json: |-
     kam nebeužstatinėjąs, o tevaldąs pats ir tebūnąs jų
     valdovu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -350,8 +249,8 @@ media_all_json: |-
     ryšius su Lenkija ir kitomis šalimis, iš kur
     tikėtasi paramos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -366,8 +265,8 @@ media_all_json: |-
     prie jūros, tai yra žvejai, Atrimpą vadina „Dzivsvits“. Tas žymu­
     23 Ks.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -383,8 +282,8 @@ media_all_json: |-
     Žemaičių žemės kylio pats smaigalys — negailestingai skėlė vokie­
     čių ordino valstybę į dvi dalis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -401,8 +300,8 @@ media_all_json: |-
     iš jų buvo Birutė; tad šitokia ugnis, nuolat kurstoma, be abejo,
     degė ant kalno prie Palangos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -423,8 +322,8 @@ media_all_json: |-
     juos plona, nepastebima, bet žirgo neatlaikančia dan­
     ga, o patys išsislapstė gretimuose miškuose.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -442,8 +341,8 @@ media_all_json: |-
     goma mergelių. Jos visuotinai buvo vadinamos vaidilutėmis,
     lietuviškai Wejdalotenie.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -466,8 +365,8 @@ media_all_json: |-
     gaikštysčių sostinę, arba į Naujuosius Trakus, ir ten vedė kaip
     žmoną.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -478,7 +377,8 @@ media_all_json: |-
 - id: c-175145
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 475"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 475."
   citata_originali: |
     Port morski w litewskiej czystej mowie nazywa się Langas
     mariu, okno morza, otwor, przez ktory možna pušcič się na mor-
@@ -543,7 +443,8 @@ media_all_json: |-
 - id: c-175148
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 103"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 103."
   citata_originali: |
     Atrimpo ženklas buvo javų pėdu uždengtas indas arba ur­
     na, pripildyta vandens, kurioje laikomas vandens žaltys. Kuni­
@@ -581,7 +482,8 @@ media_all_json: |-
 - id: c-175150
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 224"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 224."
   citata_originali: |
     Šias smulkmenas aptarsime vėliau atskiruose straips­
     niuose; dabar kalbėsime apie patį šventosios ugnies garbinimą.
@@ -600,7 +502,8 @@ media_all_json: |-
 - id: c-175151
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 514"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 514."
   citata_originali: |
     Tuo tarpu
     miškuose, prikirtę medžių, suvertę juos kaip papuolė į
@@ -624,7 +527,8 @@ media_all_json: |-
 - id: c-177137
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 114"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 114."
   citata_originali: |
     Strijkov­
     skis, pasakodamas apie kunigaikščio Kęstučio ir Birutės vedy­
@@ -643,7 +547,8 @@ media_all_json: |-
 - id: c-177138
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 154"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 154."
   citata_originali: |
     Duomenų apie tai mums
     paliko Strijkovskis.
@@ -665,10 +570,7 @@ media_all_json: |-
     - t-194742
 
 ## Ryšiai
-- Buvo valdoma: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - Buvo kelionės vieta: [[objektai/asmenys/Birutė]]
-- Mirties vieta: [[objektai/asmenys/Birutė]]
-- Puolė Palangą: [[objektai/grupes/Švedai]]
 - Gyvenamoji vieta: [[objektai/grupes/Lietuviai]]
 - Turėjo priklausinį: [[objektai/vietos/Birutės kalnas]]
 - Palanga priklausė [[objektai/vietos/Lietuva]]

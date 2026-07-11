@@ -30,12 +30,6 @@ Narbutas šį tekstą taip pat pateikia kaip epigrafą prie antrojo leidimo pata
 - t-001
   global_id: t-192126
   teiginys: "Posakis „Wolnošč bez grožy, to bezrząd, Groza bez wolnošči, to niewola. Moję przyslowko“ pateiktas kaip epigrafas, kuriuo Narbutas papildė tekstą rengdamas antrąjį leidimą."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "736267-736454; hash=a3e3e8aa428952d861c4c81071f09538fa1bb4c1e7aa7cba90469f0115b9d337; match=whitespace_regex"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175012
 ## Reikšmingi paminėjimai
@@ -52,8 +46,8 @@ Narbutas šį tekstą taip pat pateikia kaip epigrafą prie antrojo leidimo pata
     Groza bez wolnošči, to niewola. Moję przys-
     lowko“.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -64,7 +58,8 @@ Narbutas šį tekstą taip pat pateikia kaip epigrafą prie antrojo leidimo pata
 - id: c-175012
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 403"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 403."
   citata_originali: |
     Epigrafas, kuriuo
     autorius

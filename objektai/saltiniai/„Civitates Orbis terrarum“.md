@@ -30,14 +30,6 @@ Pasak Narbuto, „Civitates Orbis terrarum“ buvo užrašyta ant jo naudoto vei
 - t-001
   global_id: t-190508
   teiginys: "Pasak Narbuto, „Civitates Orbis terrarum“ buvo užrašyta ant jo naudoto veikalo litografuoto viršelio."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "827942-828254; hash=567dd3ddcbe0154cdeac866720dbd280d80569d9a0273a1afbe8d189e3e29729; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173391
 ## Reikšmingi paminėjimai
@@ -52,8 +44,8 @@ Pasak Narbuto, „Civitates Orbis terrarum“ buvo užrašyta ant jo naudoto vei
     Braun Agrippinensis“, pabaigoje „Coloniae Agrippinae M. D. L.
     XXIP‘. Knygos formatas toks, koks ir įprasta atlasams.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -64,7 +56,8 @@ Pasak Narbuto, „Civitates Orbis terrarum“ buvo užrašyta ant jo naudoto vei
 - id: c-173391
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 455"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 455."
   citata_originali: |
     Veikalą, iš kario paėmiau šį vertimą, turiu po ranka. Ant puikiai
     litografuoto viršelio užrašytas toks pavadinimas: „ Civitates Or­

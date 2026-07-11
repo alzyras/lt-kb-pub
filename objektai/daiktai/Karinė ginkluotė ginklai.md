@@ -45,19 +45,6 @@ Nenurodyta
 - t-002
   global_id: t-185853
   teiginys: "Vaidevutis vengė karinių stovyklų, nes iš patirties matė, kad ginklą paėmę žmonės suįžūlėja ir nebeklauso įsakymų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "81265-82090; hash=e83485fa62d6ea135a294502b6c5b2f3505d3017a3eb651c954cce4d52194197; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Laužas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Karinė ginkluotė ginklai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Laužas: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Karinė ginkluotė ginklai\" parinktas kaip owner_note_path. Targetas \"Laužas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-169214
 
@@ -65,12 +52,6 @@ Nenurodyta
 - t-003
   global_id: t-193368
   teiginys: "Jie džiaugėsi, kad smarkiai padidėjo jėgos ypač tokiu laiku, kada kaimyninės tautos, atsikėlusios prie Vyslos, iš arti ėmė grasinti ginklais Prūsijai."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "73763-74267; hash=9fceb3b5ce0b2670708469f1dc193ee7fac1b73806fe34c9235357f3ec898b58; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176095
 ## Reikšmingi paminėjimai
@@ -96,8 +77,8 @@ Nenurodyta
     dieninės patirties matė, jog žmonės, paėmę į rankas
     ginklą, suįžūlėja ir nebeklauso įsakymų.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -119,8 +100,8 @@ Nenurodyta
     žmonių gausa, kėlusi priešui baimę, ir patiems tapo
     lemtinga.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -131,7 +112,8 @@ Nenurodyta
 - id: c-169214
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 50"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 50."
   citata_originali: |
     Todėl neilgai trukus paaiškė­
     jo; j°g Per šį bendravimą, atšiauriausias širdis suvi­
@@ -159,7 +141,8 @@ Nenurodyta
 - id: c-176095
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 46"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 46."
   citata_originali: |
     Prū­
     sai mielai priglaudė kaimyninę tautą: nebūgštavo, kad

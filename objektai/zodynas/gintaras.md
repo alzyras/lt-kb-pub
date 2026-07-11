@@ -30,22 +30,6 @@ Narbutas Sembos pakrantės medžius, neteisingai laikytus medį mėgdžiojančio
 - t-002
   global_id: t-192920
   teiginys: "Narbutas Sembos pakrantės medžius, neteisingai laikytus medį mėgdžiojančiomis iškasenomis, vadina gintaro sandėliais."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Semba priklausė Prūsai (0.78)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "266222-267315; hash=7b2379534ef4fb7b91cb041a047172d0237a3e7a4bb326510fa76b013d9adc19; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Prūsai: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Semba: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Prūsai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Formuluotė „prūsų Sembos“ rodo Sembos priskyrimą prūsams, nors tai išreikšta būdvardžiu."
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175690
 
@@ -53,21 +37,6 @@ Narbutas Sembos pakrantės medžius, neteisingai laikytus medį mėgdžiojančio
 - t-003
   global_id: t-192921
   teiginys: "Narbutas gerą gintarą apibūdina kaip kietą, blizgų, skaidrų ir senovėje brangakmeniams prilygintą sakų klasės daiktą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "268727-269448; hash=3ab91002335e533ce3369a840b510d3e3789edf7dac9098023d75dea73b7865d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vaistinės prekės, vaistai ir gydomieji gėrimai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "gintaras: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Vaistinės prekės, vaistai ir gydomieji gėrimai: mention_match, thing, gap=46"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"gintaras\" parinktas kaip owner_note_path. Targetas \"Vaistinės prekės, vaistai ir gydomieji gėrimai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175691
 
@@ -75,12 +44,6 @@ Narbutas Sembos pakrantės medžius, neteisingai laikytus medį mėgdžiojančio
 - t-004
   global_id: t-194902
   teiginys: "Kocebus teisingai vadina gintarą saulės akmeniu, se novėje žinomu vardu3, taip pat tikra gamtos mįsle, kurią gaubia sunkiai atskleidžiamos uždangos4."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "262003-262494; hash=8660a61393413a3991d148a5bb899ee3394f2b487bacf34b49bd19427ada0b3c; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177298
 ## Reikšmingi paminėjimai
@@ -110,8 +73,8 @@ Narbutas Sembos pakrantės medžius, neteisingai laikytus medį mėgdžiojančio
     mą, kad iš Indijos atvežama gintaro žaliavos, dar neat­
     skirtos nuo medžių žievės1.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -136,8 +99,8 @@ Narbutas Sembos pakrantės medžius, neteisingai laikytus medį mėgdžiojančio
     eterinių aliejų, balzamų, kuriuos ir dabar labai vertina in­
     dai ir kinai; pas mus jis dedamas į lakus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -162,8 +125,8 @@ Narbutas Sembos pakrantės medžius, neteisingai laikytus medį mėgdžiojančio
     novėje žinomu vardu3, taip pat tikra gamtos mįsle, kurią
     gaubia sunkiai atskleidžiamos uždangos4.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -174,7 +137,8 @@ Narbutas Sembos pakrantės medžius, neteisingai laikytus medį mėgdžiojančio
 - id: c-175690
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 148"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 148."
   citata_originali: |
     Syvai, kurie kažkada sunkėsi iš ypa­
     tingos rūšies palmės, pradingusios senovės pasaulio re­
@@ -206,7 +170,8 @@ Narbutas Sembos pakrantės medžius, neteisingai laikytus medį mėgdžiojančio
 - id: c-175691
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 149"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 149."
   citata_originali: |
     153
     Gero gintaro kietumas šipina geležį, jis gražiausiai

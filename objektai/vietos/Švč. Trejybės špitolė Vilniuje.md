@@ -45,12 +45,6 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
 - t-002
   global_id: t-195211
   teiginys: "Dvasios bažnyčios pastatyti vie šą špitolę (prieglaudą) ir visada ją išlaikyti, priežiūrai vado vaujant Vilniaus vyskupui18."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "536308-536812; hash=a846b9e41487b231ae456dcd1bc671a70a1523f7e75b36b4a58152e241f89bcc; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177575
     - c-177576
@@ -59,11 +53,6 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
 - t-004
   global_id: t-195212
   teiginys: "Karalius testamentu pavedė seserims plėsti Švč. Trejybės prieglaudą, supirkinėjant aplinkinius namus."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Citata palaiko prieglaudos plėtimo pavedimą, bet pradinis teiginys nutrūkęs."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "536308-536812; hash=a846b9e41487b231ae456dcd1bc671a70a1523f7e75b36b4a58152e241f89bcc; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177575
 
@@ -71,15 +60,6 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
 - t-001
   global_id: t-195213
   teiginys: "1545 m. gegužės 4 d. Švč. Trejybės prieglaudos pajamų valdymas buvo patikėtas Vilniaus magistratui."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys yra aiškus, enciklopedinis ir tiesiogiai paremtas citata."
-  susije_objektai: "mentioned_place: Vilnius"
-  temporaliniai_duomenys: "įvykio data: 1545 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, enciklopedinis ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "550447-550779; hash=afa8955efbc0db241cdf047f0402c453495ef290c3a683395ac000d226f5faff; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177577
     - c-177578
@@ -88,12 +68,6 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
 - t-003
   global_id: t-195214
   teiginys: "Šventosios Trejybės prieglaudą buvo numatyta plėsti supirkus namelius prie Šventosios Trejybės ir Šv. Dvasios bažnyčių."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Citata palaiko prieglaudos plėtimo faktą, bet pradinis teiginys yra OCR fragmentas."
-  susije_objektai: "mentioned_object: [[objektai/daiktai/Namas|Namas]]"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "550447-550779; hash=afa8955efbc0db241cdf047f0402c453495ef290c3a683395ac000d226f5faff; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177577
 ## Reikšmingi paminėjimai
@@ -108,8 +82,8 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
     Hozijui pasitraukus iš šių pareigų, vyriausiojo jos globėjo
     titulą nuo vyskupo karalius perkėlė sau.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -128,8 +102,8 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
     šą špitolę (prieglaudą) ir visada ją išlaikyti, priežiūrai vado­
     vaujant Vilniaus vyskupui18.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -148,8 +122,8 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
     miausia, kaip ir kiti, būtų leidžiami į prieglaudą, o ši prie­
     glauda būtų plečiama.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -166,8 +140,8 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
     viršuje, priešais dominikonų Šv. Dvasios bažnyčią stovin­
     čius33.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

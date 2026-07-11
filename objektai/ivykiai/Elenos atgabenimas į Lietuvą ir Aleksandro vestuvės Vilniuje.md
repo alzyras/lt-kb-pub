@@ -58,17 +58,6 @@ Nenurodyta
 - t-003
   global_id: t-186644
   teiginys: "Vilniuje įvyko iškilmingos Aleksandro ir Elenos vestuvės, trukusios kelias savaites."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "256576-257026; hash=e2622116e19aff9919e242d4faa889be3f39ad3e0a31a7df2f103c3b3c449304; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
-  ryšio_patikimumas: "susije_su -> Aleksandras: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Elenos atgabenimas į Lietuvą ir Aleksandro vestuvės Vilniuje: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Aleksandras: mention_match, person, gap=27"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Elenos atgabenimas į Lietuvą ir Aleksandro vestuvės Vilniuje\" parinktas kaip owner_note_path. Targetas \"Aleksandras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-169909
 
@@ -76,20 +65,6 @@ Nenurodyta
 - t-004
   global_id: t-186645
   teiginys: "Po Aleksandro ir Elenos vestuvių Vilniuje Maskvos pasiuntiniai buvo pagerbti, gausiai apdovanoti ir išleisti atgal."
-  teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Maskvos pasiuntiniai keliavo į Maskva (0.64)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "256576-257026; hash=e2622116e19aff9919e242d4faa889be3f39ad3e0a31a7df2f103c3b3c449304; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
-  ryšio_patikimumas: "keliavo_i -> Maskva: 0.64"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Maskvos pasiuntiniai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Maskva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Maskvos pasiuntiniai buvo išleisti atgal; kryptis į Maskvą numanoma iš jų įvardijimo, bet nėra visiškai eksplicitiška."
-  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-169909
 
@@ -97,20 +72,6 @@ Nenurodyta
 - t-001
   global_id: t-186646
   teiginys: "Aleksandro pasiuntiniai parvežė Eleną į Lietuvą kartu su jos tėvo Ivano Vasiljevičiaus atsiųstais Maskvos pasiuntiniais."
-  teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Aleksandras Jogailaitis siuntė į Maskva (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "255675-256575; hash=b2116040a7af2b737c2af35b7782aa6d560885c09a9d5e8084ab82a4b2934a5e; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
-  ryšio_patikimumas: "siunte_i -> Maskva: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Aleksandras Jogailaitis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Maskva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Aleksandras nusiuntė pasiuntinius į Maskvą."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-169910
 
@@ -118,18 +79,6 @@ Nenurodyta
 - t-002
   global_id: t-186647
   teiginys: "Elena buvo atgabenta į Vilnių dvi savaitės prieš Užgavėnes."
-  teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Elena (vyskupas, XV–XVI a.) keliavo į Vilnius (0.82)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "256576-257026; hash=e2622116e19aff9919e242d4faa889be3f39ad3e0a31a7df2f103c3b3c449304; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
-  ryšio_patikimumas: "keliavo_i -> Vilnius: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Elena (vyskupas, XV–XVI a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Elena buvo parvežta į Vilnių, todėl krypties ryšys yra tiesiogiai pagrįstas."
   pagrindžia:
     - c-169909
 ## Reikšmingi paminėjimai
@@ -148,8 +97,8 @@ Nenurodyta
     džiai pagerbti ir gausiai apdovanoti, buvo išleisti at­
     galios.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -183,8 +132,8 @@ Nenurodyta
     lovskis, Michailas Rusalka, Ivanas Skuratovas, dijokas
     Vasilijus Kulešinas2 3 .
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -195,7 +144,8 @@ Nenurodyta
 - id: c-169909
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 145"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 145."
   citata_originali: |
     Ir parvežė ją į Vilniaus miestą
     dvi savaitės prieš Užgavėnes.

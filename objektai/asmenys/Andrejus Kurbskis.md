@@ -30,19 +30,6 @@ Maskvėnai derybose reikalavo, kad karalius išduotų perbėgėlį Andrejų Kurb
 - t-001
   global_id: t-186030
   teiginys: "Maskvėnai derybose reikalavo, kad karalius išduotų perbėgėlį Andrejų Kurbskį su visais palydovais."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1327312-1328109; hash=ff9a88fa246b5b6fa4848c1791d1edca7dcef8469abbb9d191f930bfe4fd522b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Eustachijus Valavičius: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Andrejus Kurbskis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Eustachijus Valavičius: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Andrejus Kurbskis\" parinktas kaip owner_note_path. Targetas \"Eustachijus Valavičius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-169391
 
@@ -50,19 +37,6 @@ Maskvėnai derybose reikalavo, kad karalius išduotų perbėgėlį Andrejų Kurb
 - t-002
   global_id: t-186031
   teiginys: "Karalius pažadėjo atiduoti Andrejų Kurbskį tik tada, jei Ivanas grąžins Lietuvos pusės kunigaikščius su šeimomis ir tėvonijomis."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1328856-1329453; hash=be318f0a907dacd1a43a724d6385643400c0f0e415a40c8fcd37f54d99194ca8; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Ivanas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Andrejus Kurbskis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Ivanas: mention_match, person, gap=30"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Andrejus Kurbskis\" parinktas kaip owner_note_path. Targetas \"Ivanas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-169392
 - susijęs iš [[objektai/asmenys/Ivanas (Maskvos valdovas).md#claim-t-185947|Ivanas (Maskvos valdovas)]]: Andrejus Kurbskis su šeima persikėlė į Lietuvą, nes nepakentė Ivano žiaurumo.
@@ -89,8 +63,8 @@ Maskvėnai derybose reikalavo, kad karalius išduotų perbėgėlį Andrejų Kurb
     Jezeriščės, Usviatų, išduoti perbėgėlį Andrejų Kurbskį
     su visais palydovais.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -122,8 +96,8 @@ Maskvėnai derybose reikalavo, kad karalius išduotų perbėgėlį Andrejų Kurb
     kdami, kol pasibaigs paliau­
     bos.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -134,7 +108,8 @@ Maskvėnai derybose reikalavo, kad karalius išduotų perbėgėlį Andrejų Kurb
 - id: c-169391
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 735"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 735."
   citata_originali: |
     Sutiko ir priėmė
     maskvėnus pataurininkis Mikalojus Kiška, stalininkas

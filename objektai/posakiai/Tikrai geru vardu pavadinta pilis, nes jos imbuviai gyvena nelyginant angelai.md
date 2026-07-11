@@ -33,16 +33,6 @@ Dusburgietis teigia, kad kai kurie vienuoliai, atėję į Engelsbergo pilį248 i
 - t-001
   global_id: t-59162
   teiginys: "Vienuoliai Engelsbergo pilies vardą aiškino tuo, kad pilies gyventojai gyvena nelyginant angelai."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "265523-266003; hash=4d5fffdb4a43f0ee72ade939d4877b06259e0042cd892a31fecbdce0757d06b7; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Engelsbergas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Tikrai geru vardu pavadinta pilis, nes jos imbuviai gyvena nelyginant angelai (pilis): owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Engelsbergas: mention_match, place, gap=12"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tikrai geru vardu pavadinta pilis, nes jos imbuviai gyvena nelyginant angelai (pilis)\" parinktas kaip owner_note_path. Targetas \"Engelsbergas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-167426
 
@@ -50,16 +40,6 @@ Dusburgietis teigia, kad kai kurie vienuoliai, atėję į Engelsbergo pilį248 i
 - t-001
   global_id: t-59162
   teiginys: "Vienuoliai Engelsbergo pilies vardą aiškino tuo, kad pilies gyventojai gyvena nelyginant angelai."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "265523-266003; hash=4d5fffdb4a43f0ee72ade939d4877b06259e0042cd892a31fecbdce0757d06b7; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Engelsbergas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Tikrai geru vardu pavadinta pilis, nes jos imbuviai gyvena nelyginant angelai (pilis): owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Engelsbergas: mention_match, place, gap=12"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tikrai geru vardu pavadinta pilis, nes jos imbuviai gyvena nelyginant angelai (pilis)\" parinktas kaip owner_note_path. Targetas \"Engelsbergas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-167426
 ## Reikšmingi paminėjimai
@@ -75,8 +55,8 @@ Dusburgietis teigia, kad kai kurie vienuoliai, atėję į Engelsbergo pilį248 i
     kuo vardu jų pilis. Kai jiems atsakė, jog Engelsbergas, tai yra Angelų kalnas, šie atrėžė:
     „Tikrai geru vardu pavadinta pilis, nes jos imbuviai gyvena nelyginant angelai“.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -88,7 +68,8 @@ Dusburgietis teigia, kad kai kurie vienuoliai, atėję į Engelsbergo pilį248 i
 - id: c-167426
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 80"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 80."
   citata_originali: |
     Niekad arba beveik niekad netruko čia
     maldos namuose maldininkų, ir nerastum šiose pilyse tokio kampelio, kur po vakarinių ar

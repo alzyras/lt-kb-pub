@@ -38,12 +38,6 @@ Dusburgietis teigia, kad schmid B.
 - t-001
   global_id: t-61287
   teiginys: "B. Schmido „Die Gründung der Marienburg“ paskelbtas „Altpreussische Forschungen“ 1929 m. antrajame sąsiuvinyje."
-  temporaliniai_duomenys: "įvykio data: 1929 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pagrindžia autorių, pavadinimą, leidinį, metus ir sąsiuvinį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "796753-796865; hash=9f1bdb54f58f9feb0463e03314c4932e02c9ccfa008de742d009c0deb97a76f5; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-61919
 ## Reikšmingi paminėjimai
@@ -55,8 +49,8 @@ Dusburgietis teigia, kad schmid B.
     Schmid B. Die Gründung der Marienburg.— Altpreussische Forschungen, Königsberg
     i. Pr., 1929, Heft 2, S. 191—200.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -67,7 +61,8 @@ Dusburgietis teigia, kad schmid B.
 - id: c-61919
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 271"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 271."
   citata_originali: |
     Schmid B. Die Gründung der Marienburg.— Altpreussische Forschungen, Königsberg
     i. Pr., 1929, Heft 2, S. 191—200.

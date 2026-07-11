@@ -45,17 +45,6 @@ Nenurodyta
 - t-002
   global_id: t-88255
   teiginys: "Aleksandras Elenai iki gyvos galvos dovanojo Mogiliavo pilį prie Dniepro su jai priklausančiomis žemėmis ir valdomis."
-  semantiniai_rysiai: "Mogiliavas priklausė Elena (vyskupas, XV–XVI a.) (0.86)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "703717-706849; hash=0a28ab93d71933b597c07ea3f86f8eba22ff7375ecaefaf11a4bead81c3896f9; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Elena (vyskupas, XV–XVI a.): 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Mogiliavas: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Elena (vyskupas, XV–XVI a.): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Mogiliavo pilis buvo dovanojama Elenai iki gyvos galvos."
   pagrindžia:
     - c-84234
 
@@ -63,20 +52,6 @@ Nenurodyta
 - t-003
   global_id: t-88257
   teiginys: "1503 m. Aleksandro privilegija suteikė karalienei Elenai teisę iki gyvos galvos turėti, naudotis ir ramiai valdyti Mogiliavo pilį su priklausiniais."
-  semantiniai_rysiai: "Elena (vyskupas, XV–XVI a.) valdė miestą Mogiliavas (0.88)"
-  temporaliniai_duomenys: "įvykio data: 1503 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pagrindžia konkrečią privilegijos suteiktą teisę ir jos trukmę."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "707652-708899; hash=087ed28cc5a471021881b857ad1de0018e3843155092cd9f0af6af1776300e5c; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde_miesta -> Mogiliavas: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Elena (vyskupas, XV–XVI a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Mogiliavas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai suteikia Elenai teisę turėti, naudotis ir valdyti Mogiliavo pilį."
   pagrindžia:
     - c-84236
 ## Reikšmingi paminėjimai
@@ -147,8 +122,8 @@ Nenurodyta
     dum, tenendum, utifruendum pacifice, et quiete possidendum,
     sicut expressum est ad tempora vitae suae.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -184,8 +159,8 @@ Nenurodyta
     taro, Vilniaus prepozito ir Vroclavo scholasto, garbingojo
     Erazmo, dalyvavusio sprendime, ranka.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

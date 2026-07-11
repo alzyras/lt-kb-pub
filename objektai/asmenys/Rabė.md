@@ -43,16 +43,6 @@ Dusburgietis teigia, kad apie tai, kaip buvo atnaujinta ir sulaužyta taika ir p
 - t-001
   global_id: t-60422
   teiginys: "Brolis Rabė iš Rudino patarė pasiųsti Mstivojų Austrijos kunigaikščiui kaip įkaitą ir prašyti pagalbos Prūsijai."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "302463-303177; hash=3c555d671805b5ec88f5f0fe1f389746aae887483b1c657c55f6775d5004ad28; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Austrija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Rabė: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Austrija: mention_match, place, gap=40"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rabė\" parinktas kaip owner_note_path. Targetas \"Austrija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-61054
 - susijęs iš [[objektai/asmenys/Engelhardas Rabė.md#claim-t-184430|Engelhardas Rabė]]: Ordino maršalas Engelhardas Rabė vadovavo kryžiuočių žygiui, nes didysis magistras Konradas Ciolneris sunkiai sirgo.
@@ -76,8 +66,8 @@ Dusburgietis teigia, kad apie tai, kaip buvo atnaujinta ir sulaužyta taika ir p
     nepaskubėsianti ateiti ir dieviškoji, ir jų pagalba. Kai šitai buvo padaryta, 1244 atvyko
     brolis Poponas, magistras, su 4 broliais ir dar šeši broliai iš Markos, Meiseno ir Tiuringijos.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -88,7 +78,8 @@ Dusburgietis teigia, kad apie tai, kaip buvo atnaujinta ir sulaužyta taika ir p
 - id: c-61054
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 91"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 91."
   citata_originali: |
     45(44). Apie tai, kaip buvo atnaujinta ir sulaužyta taika ir pastatyta Santyro pilis
 

@@ -54,20 +54,6 @@ Nenurodyta
 - t-001
   global_id: t-28877
   teiginys: "1393 m. Vytauto ir Skirgailos ginčui spręsti Jogaila ir Jadvyga nuvyko į Vilnių."
-  semantiniai_rysiai: "Jogaila (kunigaikštis, XIV–XV a.) keliavo į Vilnius (0.91)"
-  temporaliniai_duomenys: "kelionės data: 1393 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Jadvyga keliavo į Vilnius“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradiniame teiginyje įvardis neįvardija Vytauto, todėl sakinys patikslintas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "844484-844687; hash=fbcadcfb9edd137db8f68f4981fc5f26dec5f76faf18783b5302264a162adadf; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Vilnius: 0.91"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jadvyga: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Claimas tiesiogiai nurodo Jadvygos kelionę į Vilnių."
   pagrindžia:
     - c-28781
 ## Reikšmingi paminėjimai
@@ -80,8 +66,8 @@ Nenurodyta
     liai isipareigoįo, reikalui esant, šauktis karalienės tarpininkavimo
     (1393.X.3)^27.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -43,18 +43,6 @@ media_all_json: |-
 - t-001
   global_id: t-35174
   teiginys: "Jurgis Geldgaudas 1415 m. pabaigoje vadovavo į Konstanciją atvykusiai žemaičių delegacijai."
-  temporaliniai_duomenys: "įvykio data: 1415 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "280813-281447; hash=4200835d0a4bef210f9424aedc21fad8899a2b4ea1fd72bc3c2e766e446699a6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Konstancija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jurgis Geldgaudas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Konstancija: mention_match, place, gap=47"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jurgis Geldgaudas\" parinktas kaip owner_note_path. Targetas \"Konstancija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-38065
 - susijęs iš [[objektai/asmenys/Jurgis Boliminas.md#claim-t-35171|Jurgis Boliminas]]: Jurgis Boliminas 1415 m. pabaigoje vadovavo į Konstanciją atvykusiai žemaičių delegacijai.
@@ -77,8 +65,8 @@ media_all_json: |-
     bę, bet tam trukdė Ordinas, troškęs tik jų žemių ir laisvės, o
     krikštyti nekrikštijęs.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

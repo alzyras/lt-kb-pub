@@ -35,9 +35,6 @@ Kariška monarchija, jeigu taip trum­ pai galima išsireikšti.
 - t-001
   global_id: t-36787
   teiginys: "Kariškoje monarchijoje valstybės priešakyje stovėjo nevaržomas didysis kunigaikštis, valdęs monarcho teisėmis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "194706-195122; hash=521aa3f32e8642d69d58e8503213e382b5df7e60331907921b90dd8814deb707; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-38738
 ## Reikšmingi paminėjimai
@@ -53,8 +50,8 @@ Kariška monarchija, jeigu taip trum­ pai galima išsireikšti.
     prižiūrėti tvarką, teismus, rinkti mokesčius; be to, dar d. kun.
     dvaruose sėdėjo ir tėvūnai, prižiūrintieji visą tų dvarų ūkį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

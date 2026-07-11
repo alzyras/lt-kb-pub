@@ -36,25 +36,6 @@ media_all_json: |-
 - t-001
   global_id: t-192859
   teiginys: "1247 m. kunigaikštis Vasilka išžygiavo iš Voluinės Vladimiro ir trečią dieną pasivijo jotvingius prie Drohičino."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Vasilka keliavo į Voluinės Vladimiras (0.66)"
-  temporaliniai_duomenys: "kelionės data: 1247 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Vasilka keliavo į Voluinės Vladimiras“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Išskleistas veiksmo subjektas, data, kelionės pradžios vieta ir rezultatas. Neperkelti Narbuto spėjimai apie jotvingių ketinimus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "221462-222010; hash=86b3a9d5cfd73bbac6679b54967543186c91abe35fe5e66e0415d76ab47fb855; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Voluinės Vladimiras: 0.66"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vasilka: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Voluinės Vladimiras: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata nurodo Vasilkos išvykimo vietą, nors ryšys „keliavo_i“ tik apytikriai dengia išžygiavimą iš vietos."
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175629
 ## Reikšmingi paminėjimai
@@ -75,8 +56,8 @@ media_all_json: |-
     Vladimiro, jau trečią dieną pasivijo juos prie pat Drohi-
     čino (dabar Kobrino apskritis).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -87,7 +68,8 @@ media_all_json: |-
 - id: c-175629
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 124"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 124."
   citata_originali: |
     Ne
     viskam galime įvirtai pritaikyti tai, ką dabar pateikėme,
@@ -106,6 +88,3 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192859
-
-## Ryšiai
-- Buvo kelionės vieta: [[objektai/asmenys/Vasilka]]

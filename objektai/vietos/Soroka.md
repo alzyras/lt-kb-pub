@@ -38,20 +38,6 @@ Slaptame plane Aleksandro žygis turėjo eiti link Sorokos. Soroka šiame gabale
 - t-001
   global_id: t-187336
   teiginys: "Lietuvos metraštis pasakoja, kad Aleksandras Parčevo seime slapta sutarė žygiuoti į Moldavijos žemę per Braclavą link Sorokos."
-  teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Aleksandras Jogailaitis keliavo į Braclavas (0.78); Aleksandras Jogailaitis keliavo į Soroka (0.72)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "258451-259396; hash=92873a23c7a188396ace65cd413e183030cb49e2ba786cbca57a142b8de17208; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  ryšio_patikimumas: "keliavo_i -> Braclavas: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Aleksandras Jogailaitis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Braclavas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata nurodo, kad Aleksandro planuotas žygis turėjo eiti per Braclavą."
-  vertinimo_atnaujinta: "2026-06-17T07:18:43Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-170362
 
@@ -59,20 +45,6 @@ Slaptame plane Aleksandro žygis turėjo eiti link Sorokos. Soroka šiame gabale
 - t-002
   global_id: t-187337
   teiginys: "Soroka minima kaip didžiojo kunigaikščio Aleksandro planuoto žygio į Moldavijos žemę krypties orientyras."
-  teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Aleksandras Jogailaitis keliavo į Soroka (0.70)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "258451-259396; hash=92873a23c7a188396ace65cd413e183030cb49e2ba786cbca57a142b8de17208; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  ryšio_patikimumas: "keliavo_i -> Soroka: 0.70"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Aleksandras Jogailaitis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Soroka: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Soroka minima kaip žygio krypties orientyras, todėl ryšys yra kryptinis, bet ne galutinės paskirties."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-170362
 - susijęs iš [[objektai/ivykiai/Aleksandro žygis Braclavo link Moldavijos kampanijoje.md#claim-t-186651|Aleksandro žygis Braclavo link Moldavijos kampanijoje]]: Lietuvos metraštis pasakoja, kad Parčevo seime Aleksandras ir Olbrachtas slapta sutarė pulti Moldaviją iš dviejų krypčių.
@@ -101,8 +73,8 @@ Slaptame plane Aleksandro žygis turėjo eiti link Sorokos. Soroka šiame gabale
     vijos žemę per Braclavą. link Sorokos “ , o karalius
     Olbrachtas — iš kito šono.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -143,6 +115,3 @@ Slaptame plane Aleksandro žygis turėjo eiti link Sorokos. Soroka šiame gabale
   pagrindzia:
     - t-187336
     - t-187337
-
-## Ryšiai
-- Buvo kelionės vieta: [[objektai/asmenys/Aleksandras Jogailaitis]]

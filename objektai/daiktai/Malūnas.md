@@ -55,17 +55,6 @@ Nenurodyta
 - t-001
   global_id: t-35536
   teiginys: "Vytautas suteikė Vokiečių ordinui teisę abipus Nevėžio statytis malūnus."
-  semantiniai_rysiai: "Kryžiuočių ordinas gynė Vytautas (Lietuvos valdovas, XIV–XV a.) (0.97); Vytautas (Lietuvos valdovas, XIV–XV a.) rėmė Kryžiuočių ordinas (0.78)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "436645-437106; hash=e63e46bf414b176f7e77b31b2c7db480aa9a5c925dd60874a4beb9e1010dc30a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyne -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.97"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Ordinas sutartyje pasižadėjo ginti Vytautą."
   pagrindžia:
     - c-38219
 - susijęs iš [[objektai/autoriai/Boetticher A.md#claim-t-64570|Boetticher A]]: Boetticherio darbas cituojamas teiginiui, kad kryžiuočiai Baigoje įsitvirtino, pastatė mūrinę pilį ir didelį papilį.
@@ -157,8 +146,8 @@ Nenurodyta
     karalių^4 ), bet ši nauja sutartis aiškiausiai prieštaravo jo praeitų
     metų pasižadėjimams.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -189,5 +178,4 @@ Nenurodyta
     - t-35536
 
 ## Ryšiai
-- Buvo pastatyta: [[objektai/grupes/Kryžiuočių ordinas]]
-- Malūnas priklausė [[objektai/asmenys/Aleksandras Jogailaitis]], [[objektai/asmenys/Mikalojus Radvila]], [[objektai/grupes/Vokiečių pirkliai]]
+- Malūnas priklausė [[objektai/asmenys/Aleksandras Jogailaitis]], [[objektai/asmenys/Mikalojus Radvila]]

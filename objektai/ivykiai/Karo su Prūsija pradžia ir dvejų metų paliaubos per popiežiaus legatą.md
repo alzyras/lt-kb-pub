@@ -42,20 +42,6 @@ Nenurodyta
 - t-001
   global_id: t-185711
   teiginys: "Karo su Prūsija pradžioje lenkų ir lietuvių kariuomenės peržengė sienas ir įsiveržė į Prūsiją."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Lenkai puolė Prūsija (0.83); Lietuviai puolė Prūsija (0.83)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "692370-692895; hash=a6ffdb6e379e3c96659cdf4e5a3a6a6d60e0138266821da3e1591e78569ccc72; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Prūsija: 0.83"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Lietuvių kariuomenės kartu su lenkais tiesiogiai įsiveržė į Prūsiją."
   pagrindžia:
     - c-169072
 ## Reikšmingi paminėjimai
@@ -81,8 +67,8 @@ Nenurodyta
     trokšdami, kad kryžiuočiai, nusilenkę jėgai, amžiams
     liktų arba ramūs bei klusnūs, arba draugiški.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -93,7 +79,8 @@ Nenurodyta
 - id: c-169072
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 395"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 395."
   citata_originali: |
     Atsi­
     dūręs laisvėje, Švitrigaila pabėgo pas imperatorių Zig­

@@ -38,11 +38,6 @@ Dusburgietis teigia, kad 2: Niemiecko-polska.— Wrocław—Warszawa, 1951.
 - t-001
   global_id: t-61199
   teiginys: "2: Niemiecko-polska.— Wrocław—Warszawa, 1951."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "795719-795785; hash=56e18f96be4c782d817e99dfeafce731d7b52969a5a5cd01ed35648d05579a1b; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
-  vertinimo_autorius: "claim_quality_pipeline / rewrite"
   pagrindžia:
     - c-61831
 ## Reikšmingi paminėjimai
@@ -56,8 +51,8 @@ Dusburgietis teigia, kad 2: Niemiecko-polska.— Wrocław—Warszawa, 1951.
     Niemiecko-polska.— Wrocław—Warszawa, 1951.
       [Ruigys] Ruhig P.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -68,7 +63,8 @@ Dusburgietis teigia, kad 2: Niemiecko-polska.— Wrocław—Warszawa, 1951.
 - id: c-61831
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 270-271"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 270-271."
   citata_originali: |
     2:
 

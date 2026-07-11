@@ -30,22 +30,6 @@ Narbuto aiškinime pelūzų giminė gyveno Peluzijos krašte, o jos vardą jis s
 - t-001
   global_id: t-192800
   teiginys: "Narbuto aiškinime pelūzų giminė gyveno Peluzijos krašte, o jos vardą jis siejo su dviejų to krašto Nočiomis vadintų upių pavadinimais."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Pelazgai gyveno Peluzija (0.84)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "504813-505716; hash=f64f4feb6e1c94cf21f3423b533be46d1f4537213ea047246c329176f66d062c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Peluzija: 0.84"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Pelazgai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Peluzija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Pelūzų giminė apibūdinta kaip pelazgų šaka ir tiesiogiai sakoma, kad ji gyveno Peluzijoje."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175570
 - susijęs iš [[objektai/zodynas/chorunžuos.md#claim-t-192224|chorunžuos]]: Narbutas „chorunžuos“ aiškina kaip karinius valsčius Peluzijoje.
@@ -76,8 +60,8 @@ Narbuto aiškinime pelūzų giminė gyveno Peluzijos krašte, o jos vardą jis s
     kurią jau sakėme, jog gavo lietuvių protėvių vardą (§
     215).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -88,7 +72,8 @@ Narbuto aiškinime pelūzų giminė gyveno Peluzijos krašte, o jos vardą jis s
 - id: c-175570
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 282"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 282."
   citata_originali: |
     Panašu­
     mas į prie Ponto buvusias tvirtoves leidžia manyti ir
@@ -116,6 +101,3 @@ Narbuto aiškinime pelūzų giminė gyveno Peluzijos krašte, o jos vardą jis s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192800
-
-## Ryšiai
-- Gyvenamoji vieta: [[objektai/grupes/Pelazgai]]

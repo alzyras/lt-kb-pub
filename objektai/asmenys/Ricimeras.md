@@ -30,24 +30,6 @@ Narbutas pasakoja, kad 457 m. svebų samdytas karvedys Ricimeras paėmė valdži
 - t-001
   global_id: t-191311
   teiginys: "Narbutas pasakoja, kad 457 m. svebų samdytas karvedys Ricimeras paėmė valdžią į savo rankas, Avitui sėdint imperatoriaus soste."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 457 m"
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie Ricimerą ir išlaiko Narbuto pasakojimo atribuciją dėl kronikinio konteksto. Nepridėti vertinamieji šaltinio epitetai apie Romos valstybės silpnumą ar Avitą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "559592-560111; hash=0887aebd4902bd0587cce8185313c8ad16b39fb47321a9a875b5d83d153c0a7a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Avitas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ricimeras: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Avitas: mention_match, person, gap=39"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ricimeras\" parinktas kaip owner_note_path. Targetas \"Avitas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174193
 
@@ -55,21 +37,6 @@ Narbutas pasakoja, kad 457 m. svebų samdytas karvedys Ricimeras paėmė valdži
 - t-002
   global_id: t-191975
   teiginys: "Narbutas pasakoja, kad Ricimeras, atsikratęs Majorijano, neteko vieningos imperijos valdžios ir imperijos vadovu iškėlė Severą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "560726-561036; hash=dcdadf7044b2e940ae355af34ecfc8ee424441ae705eeae76afabe4969838bf8; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Konstantinopolis: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ricimeras: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Konstantinopolis: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ricimeras\" parinktas kaip owner_note_path. Targetas \"Konstantinopolis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174857
 - susijęs iš [[objektai/asmenys/Avitas.md#claim-t-191371|Avitas]]: Narbutas Avitą vaizduoja kaip visigotų išrinktą imperatorių, kuris 457 m., Ricimerui įsakius, atsisakė aukšto posto.
@@ -97,8 +64,8 @@ Narbutas pasakoja, kad 457 m. svebų samdytas karvedys Ricimeras paėmė valdži
     nas, kuris būtų buvęs vienas garbingiausių monarchų,
     jei būtų valdęs ne tuo apverktinu žlugimo metu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -116,8 +83,8 @@ Narbutas pasakoja, kad 457 m. svebų samdytas karvedys Ricimeras paėmė valdži
     darė beveik vien Italija, vadovu Severą ir šaukėsi pa­
     galbos iš Konstantinopolio.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -128,7 +95,8 @@ Narbutas pasakoja, kad 457 m. svebų samdytas karvedys Ricimeras paėmė valdži
 - id: c-174193
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 312"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 312."
   citata_originali: |
     Einanti savo politinio gyvenimo saulė­
     lydžio link galinga Cezarių valstybė 457 metais, kai
@@ -150,7 +118,8 @@ Narbutas pasakoja, kad 457 m. svebų samdytas karvedys Ricimeras paėmė valdži
 - id: c-174857
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 313"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 313."
   citata_originali: |
     Ne­
     trukus Ricimeras atsikratė Majorijano, o kartu neteko
@@ -165,6 +134,3 @@ Narbutas pasakoja, kad 457 m. svebų samdytas karvedys Ricimeras paėmė valdži
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191975
-
-## Ryšiai
-- Ricimeras paskyrė [[objektai/asmenys/Severas]]

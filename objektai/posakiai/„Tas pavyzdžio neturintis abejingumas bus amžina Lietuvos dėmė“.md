@@ -35,16 +35,6 @@ Narbutas Lietuvos abejingumą savo praeičiai vadino „amžina Lietuvos dėme�
 - t-001
   global_id: t-195049
   teiginys: "Narbutas Lietuvos abejingumą savo praeičiai vadino „amžina Lietuvos dėme“ ir siejo jį su menku lietuvių istorijos darbų skaičiumi per 400 metų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Vertinamasis posakis suformuluotas kaip Narbuto moralinis vertinimas. Palikti tik citatoje esantys argumentai, nepridedant platesnių priežasčių."
-  susije_objektai: "mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Mongolai|Mongolai]]; mentioned_group: [[objektai/grupes/Samojedai|Samojedai]]"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "816847-817292; hash=b60417d808bc48c3946c2765c8499bfae76067eebf7ab983176005004d820784; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-177411
 ## Reikšmingi paminėjimai
@@ -61,8 +51,8 @@ Narbutas Lietuvos abejingumą savo praeičiai vadino „amžina Lietuvos dėme�
     tis abejingumas bus amžina Lietuvos dėmė ir prisidės
     prie kadaise galingos ir didvyriškos tauos išnykimo“1.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -73,7 +63,8 @@ Narbutas Lietuvos abejingumą savo praeičiai vadino „amžina Lietuvos dėme�
 - id: c-177411
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 452"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 452."
   citata_originali: |
     Vyrauja tuščias pasididžiavimas senoliais, o protėvių
     istorijai paprasčiausiai atsuko nugarą. Per 400 metų nė

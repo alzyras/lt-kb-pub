@@ -42,18 +42,6 @@ media_all_json: |-
 - t-002
   global_id: t-45782
   teiginys: "Vietiniame Rusijos imperijos valdyme gubernijai vadovavo caro skiriamas, vidaus reikalų žinybai pavaldus gubernatorius."
-  temporaliniai_duomenys: "įvykio data: 1905 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "183936-184575; hash=9b0c3651038a9388ac794e2d30bc52dcb9ac7054a40e79d988f6c97a4ae277b6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "autokratinė monarchinė imperija: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"autokratinė monarchinė imperija\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-24748
 
@@ -61,18 +49,6 @@ media_all_json: |-
 - t-002
   global_id: t-45782
   teiginys: "Vietiniame Rusijos imperijos valdyme gubernijai vadovavo caro skiriamas, vidaus reikalų žinybai pavaldus gubernatorius."
-  temporaliniai_duomenys: "įvykio data: 1905 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "183936-184575; hash=9b0c3651038a9388ac794e2d30bc52dcb9ac7054a40e79d988f6c97a4ae277b6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "autokratinė monarchinė imperija: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"autokratinė monarchinė imperija\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-24748
 
@@ -80,20 +56,6 @@ media_all_json: |-
 - t-001
   global_id: t-45784
   teiginys: "1795–1915 m. Lietuva, išskyrus Užnemunę ir 1812 m. Napoleono interliudą, priklausė autokratinei Rusijos imperijai."
-  semantiniai_rysiai: "Lietuva priklausė Rusija (0.96)"
-  temporaliniai_duomenys: "priklausymo laikotarpis: 1795-1915; priklausymo laikotarpis: 1812 m.; priklausymo laikotarpis: 1915 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Užnemunė susiję su autokratinė monarchinė imperija“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nusako Lietuvos priklausymą autokratinei Rusijos imperijai nurodytu laikotarpiu."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "180467-181252; hash=e8825ed65636f6a15ac4991c5a631b220f8f2e0495927a77d084f4a01d0f8303; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Rusija: 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Rusija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai konstatuoja Lietuvos priklausymą Rusijos imperijai."
   pagrindžia:
     - c-24747
 
@@ -101,16 +63,6 @@ media_all_json: |-
 - t-004
   global_id: t-45785
   teiginys: "LDK teritorijų prijungimas prie Rusijos reiškė patekimą į autokratinės monarchinės imperijos valdžią."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "184145-184679; hash=9128b1cff60069c5d795f29a872737b627ad90f3ffe713d93435dfb9a49ffd47; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Rusija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "autokratinė monarchinė imperija: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Rusija: mention_match, place, gap=26"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"autokratinė monarchinė imperija\" parinktas kaip owner_note_path. Targetas \"Rusija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-48466
 ## Reikšmingi paminėjimai
@@ -138,8 +90,8 @@ media_all_json: |-
     mečiui 1812 m. antrojoje pusėje įsiterpusį Napoleono Bonaparto „inter-
     liudą“).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -162,8 +114,8 @@ media_all_json: |-
     riamas, bet vidaus reikalų žinybai pavaldus gubernatorius, atsiunčiamas
     iš centro arba kitų gubernijų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -185,8 +137,8 @@ media_all_json: |-
     iš centro arba kitų gubernijų. Gubernijos skirstytos į apskritis (ujezd) su
     gubernatoriaus skiriamu apskrities viršininku priešakyje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

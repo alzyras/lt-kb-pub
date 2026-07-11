@@ -40,24 +40,6 @@ Ksavero Bogušo studija „O początkach narodu i języka Litewskiego rozprawa�
 - t-001
   global_id: t-191846
   teiginys: "Ksavero Bogušo studija „O początkach narodu i języka Litewskiego rozprawa“ buvo perskaityta 1806 m. gruodžio 12 d. ir išspausdinta 1808 m. Varšuvoje."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1806 m.; įvykio data: 1808 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys jau yra gramatinis sakinys apie Bogušo studiją, su aiškiomis skaitymo ir spausdinimo datomis. Citata tiesiogiai palaiko šiuos bibliografinius duomenis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "844478-845009; hash=0cbbf6ed8baf18de191d8ab0cc43f37fe0202d3ed90816b1fd43375a0212bb2e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Ksaveras Bogušas (kunigas, XIX a.): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ksavero Bogušo „O początkach narodu i języka Litewskiego rozprawa“: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Ksaveras Bogušas (kunigas, XIX a.): mention_match, author, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ksavero Bogušo „O początkach narodu i języka Litewskiego rozprawa“\" parinktas kaip owner_note_path. Targetas \"Ksaveras Bogušas (kunigas, XIX a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174728
 ## Reikšmingi paminėjimai
@@ -85,8 +67,8 @@ Ksavero Bogušo studija „O początkach narodu i języka Litewskiego rozprawa�
     Nr.
     175).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -97,7 +79,8 @@ Ksavero Bogušo studija „O początkach narodu i języka Litewskiego rozprawa�
 - id: c-174728
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 465"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 465."
   citata_originali: |
     11 /Ten
     pat,

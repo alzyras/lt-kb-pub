@@ -33,17 +33,6 @@ Lietuvos pajėgos Vilniaus puolime balandžio 23 d. dalyvavo LDK 4-ojo pėstinin
 - t-001
   global_id: t-40828
   teiginys: "Balandžio 23 d. Vilniaus puolime dalyvavo dvi sumažintos 7-ojo fuzilierių regimento kuopos."
-  semantiniai_rysiai: "7-ojo fuzilierių regimento puolė Vilnius (0.84)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "608612-609064; hash=fd10ce61330b232c4644c56fcad1b3e593515f80d7e871f741a1ba0f469844be; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Vilnius: 0.84"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "7-ojo fuzilierių regimento: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Claimas tiesiogiai nurodo, kad regimento kuopos dalyvavo Vilniaus puolime."
   pagrindžia:
     - c-44712
 - susijęs iš [[objektai/grupes/LDK 4-ojo pėstininkų regimento.md#claim-t-40976|LDK 4-ojo pėstininkų regimento]]: Vilniaus puolime balandžio 23 d. dalyvavo dvi sumažintos LDK 4-ojo pėstininkų regimento kuopos.
@@ -68,8 +57,8 @@ Lietuvos pajėgos Vilniaus puolime balandžio 23 d. dalyvavo LDK 4-ojo pėstinin
     zicijose). Jiems talkino apie 500 įvairiai
     ginkluotų civilių Vilniaus gyventojų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -101,6 +90,3 @@ Lietuvos pajėgos Vilniaus puolime balandžio 23 d. dalyvavo LDK 4-ojo pėstinin
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40828
-
-## Ryšiai
-- 7-ojo fuzilierių regimento puolė [[objektai/vietos/Vilnius]]

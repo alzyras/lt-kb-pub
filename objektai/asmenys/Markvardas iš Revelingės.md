@@ -33,17 +33,6 @@ Dusburgietis teigia, kad todėl brolis Liudvikas iš Libencelės ir brolis Markv
 - t-001
   global_id: t-60383
   teiginys: "Markvardas iš Revelingės su Liudviku iš Libencelės, dviem broliais ir 26 ginklanešiais užpuolė plėšikautojus ir 25 jų nukovė."
-  semantiniai_rysiai: "Markvardas iš Revelingės buvo sąjungininkas su Liudvikas iš Libencelės (0.82)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "563316-563740; hash=84bdcf4a9f311cf0b1f06d8499d32c8b02f0826ce9a566d967965fc11834c310; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sajungininkas_su -> Liudvikas iš Libencelės: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Markvardas iš Revelingės: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Liudvikas iš Libencelės: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Abu asmenys kartu vykdė tą patį puolimą, todėl sąjunginis veiksmas tiesiogiai pagrįstas."
   pagrindžia:
     - c-61015
 - susijęs iš [[objektai/asmenys/Liudvikas iš Libencelės.md#claim-t-59884|Liudvikas iš Libencelės]]: Liudvikas iš Libencelės ir Markvardas iš Revelingės su dviem broliais ir 26 ginklanešiais užpuolė plėšikautojus ir 25 jų nukovė.
@@ -69,8 +58,8 @@ Dusburgietis teigia, kad todėl brolis Liudvikas iš Libencelės ir brolis Markv
 
                    241 (234).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -81,7 +70,8 @@ Dusburgietis teigia, kad todėl brolis Liudvikas iš Libencelės ir brolis Markv
 - id: c-61015
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 179"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 179."
   citata_originali: |
     Tuo
     tarpu Ragainės broliai, sunerimę dėl savo žmonių naikinimo ir norėdami apsisaugti nuo
@@ -103,5 +93,4 @@ Dusburgietis teigia, kad todėl brolis Liudvikas iš Libencelės ir brolis Markv
     - t-60383
 
 ## Ryšiai
-- Sąjungininkai: [[objektai/asmenys/Liudvikas iš Libencelės]]
 - Markvardas iš Revelingės puolė [[objektai/grupes/Lietuviai]]

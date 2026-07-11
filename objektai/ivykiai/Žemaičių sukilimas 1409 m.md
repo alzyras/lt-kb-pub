@@ -59,20 +59,6 @@ Nenurodyta
 - t-005
   global_id: t-67016
   teiginys: "1409 m. gegužę žemaičiai sudegino Skirsnemunę ir puolė kitas naujas pilis bei Klaipėdą."
-  semantiniai_rysiai: "Žemaičiai puolė Skirsnemunė (0.90)"
-  temporaliniai_duomenys: "įvykio data: 1409 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, pilnas ir tiesiogiai pagrįstas citata apie 1409 m. sukilimo veiksmus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "912944-913184; hash=31fe1b5def4d79612a5c4cf5b26a08db51852914c6ef52c9a881cef043815c75; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Skirsnemunė: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Žemaičiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Skirsnemunė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad žemaičiai sudegino Skirsnemunę."
   pagrindžia:
     - c-04923
 
@@ -80,16 +66,6 @@ Nenurodyta
 - t-007
   global_id: t-67018
   teiginys: "Tų pačių įvykių fone ordinas 1409.VIII.6 buvo priverstas skelbti karą Lenkijai."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "916062-916259; hash=3a24ccf370a336cdfef3f8ac50346bc45420d4cb7a6b9d02def3316b88867b58; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žemaičių sukilimas 1409 m: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=41"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaičių sukilimas 1409 m\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-04925
 
@@ -97,19 +73,6 @@ Nenurodyta
 - t-004
   global_id: t-67019
   teiginys: "1409 m. pradžioje Ordinas uždarė Žemaičių sieną su Lietuva ir uždraudė ten pardavinėti arklius, galvijus ir medų."
-  temporaliniai_duomenys: "įvykio data: 1409 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys pataisytas į sklandesnę bendrinę lietuvių kalbą, išlaikant citatos faktus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "911344-911522; hash=9c7066e7969607e27c1632b6450140092cfbeaa4f281b5bae46c65710a45b3bc; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žemaičių sukilimas 1409 m: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=51"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaičių sukilimas 1409 m\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-04922
 
@@ -117,16 +80,6 @@ Nenurodyta
 - t-006
   global_id: t-67022
   teiginys: "Kai sukilimas apėmė visą Žemaičių kraštą, ordino vietininkas pasitraukė į Prūsus ir sudegino Dubysos pilį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "915689-916061; hash=81078678a8692474d86b2b1ae67a83dfc36374063b5d850da6a873125d35e231; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Dubysa: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žemaičių sukilimas 1409 m: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Dubysa: mention_match, place, gap=89"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaičių sukilimas 1409 m\" parinktas kaip owner_note_path. Targetas \"Dubysa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-67088
 ## Reikšmingi paminėjimai
@@ -139,8 +92,8 @@ Nenurodyta
     tuvon. Jis uždraudė ten pardavinėti arklius, galvijus ir medų 54 55.
     Vytautas ėmė skųstis tokiu kaimyno griežtumu^55.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -154,8 +107,8 @@ Nenurodyta
     sudegino ordino vietininkui reikalingą Skirsnemunę^59 , be to, puolė
     Žemaičiuose kitas dvi naujas pilis ir Klaipėdą^60.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -169,8 +122,8 @@ Nenurodyta
     skelbti karą Lenkijai (1409.VIII.6), nes ordinui nepasisekė Jogailos
     atskirti nuo ketvirtą kartą atsimetusio Vytauto.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -186,8 +139,8 @@ Nenurodyta
     puolimus^69. Ordino vietininkas su savo įgula pasitraukė į Prūsus,
     savo sostinę — Dubysos pilį pats sudegindamas^70.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

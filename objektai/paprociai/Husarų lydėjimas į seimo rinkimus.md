@@ -58,16 +58,6 @@ Nenurodyta
 - t-004
   global_id: t-67083
   teiginys: "Husarai buvo bajorai, kuriuos karalius ir etmonai pagerbdavo suteikdami draugo vardą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "548852-549290; hash=bcfaf4e9d15d36370ca5daca2765e3d9b1b81d3f5dc16365fa30c52e81e543ec; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> husarai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Husarų lydėjimas į seimo rinkimus (seimas): owner_note_path, thing"
-  ryšio_targeto_parinkimas: "husarai: mention_match, thing, gap=1"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Husarų lydėjimas į seimo rinkimus (seimas)\" parinktas kaip owner_note_path. Targetas \"husarai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-43155
 
@@ -75,16 +65,6 @@ Nenurodyta
 - t-005
   global_id: t-67084
   teiginys: "Daugelis husarų gaudavo rentas iš etmonų bei didelių senjorų."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "548852-549290; hash=bcfaf4e9d15d36370ca5daca2765e3d9b1b81d3f5dc16365fa30c52e81e543ec; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Karūna: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Husarų lydėjimas į seimo rinkimus (seimas): owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Karūna: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Husarų lydėjimas į seimo rinkimus (seimas)\" parinktas kaip owner_note_path. Targetas \"Karūna\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-43155
 
@@ -92,16 +72,6 @@ Nenurodyta
 - t-006
   global_id: t-67085
   teiginys: "Husarai buvo bajorai, o daugelis jų gaudavo rentas iš etmonų ir didikų, kuriuos lydėdavo į seimo rinkimus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "548852-549290; hash=bcfaf4e9d15d36370ca5daca2765e3d9b1b81d3f5dc16365fa30c52e81e543ec; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Karūna: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Husarų lydėjimas į seimo rinkimus (seimas): owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Karūna: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Husarų lydėjimas į seimo rinkimus (seimas)\" parinktas kaip owner_note_path. Targetas \"Karūna\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-43155
 ## Reikšmingi paminėjimai
@@ -115,8 +85,8 @@ Nenurodyta
     Fax stalo, savo provincijoje yra labai vertinami ir netgi gerbiami, o dauguma gauna rentas iš
     etmonų bei didelių senjorų, kuriuos pagerbdami lydi į seimo rinkimus.“
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

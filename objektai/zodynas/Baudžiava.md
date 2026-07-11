@@ -68,19 +68,6 @@ Nenurodyta
 - t-017
   global_id: t-108568
   teiginys: "Petrapily paruoštas ir 1861 m. vasario 19 d. paskelbtas manifestas Rusijos imperijoje panaikino baudžiavą ir suteikė valstiečiams teisę per 49 metus išsipirkti žemę."
-  temporaliniai_duomenys: "įvykio data: 1861 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis tekstas sudarytas iš dviejų sakinių, todėl perrašytas į vieną glaustą faktinį sakinį."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "943261-943692; hash=faad9ac25756a74e92469b2554c2ed68ddcd3937ee964e9565f25376a4135c89; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Bajorai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Baudžiava: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Bajorai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Baudžiava\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-00274
 
@@ -88,16 +75,6 @@ Nenurodyta
 - t-016
   global_id: t-108570
   teiginys: "Po Napoleono sutriuškinimo Rusijoje drąsiau buvo keliami valdžios reformavimo ir baudžiavos paveldo klausimai."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "877799-878082; hash=e0330aebfee2fbc69438d69c6b95f3829313ed3aea5fec940f971d44b27612dd; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Rusija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Baudžiava: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Rusija: mention_match, place, gap=54"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Baudžiava\" parinktas kaip owner_note_path. Targetas \"Rusija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-100728
 
@@ -105,19 +82,6 @@ Nenurodyta
 - t-023
   global_id: t-108573
   teiginys: "1864 m. carizmas pradėjo anksčiau paskelbtą valstiečių paleidimo iš baudžiavinės priklausomybės procesą."
-  temporaliniai_duomenys: "įvykio data: 1864 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sakinys aiškus ir susijęs su baudžiavos panaikinimu."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "183126-183562; hash=49ae3aa217e2852c4c7008b81c7737bddef6c5eb54076811dd240c73965c6563; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Baudžiava: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Baudžiava\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-100727
 
@@ -125,16 +89,6 @@ Nenurodyta
 - t-016
   global_id: t-108574
   teiginys: "Į baudžiavą nebegalėjo būti grąžinti valstiečiai, kuriuos buvo atleidę patys dvarininkai."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "877799-878082; hash=e0330aebfee2fbc69438d69c6b95f3829313ed3aea5fec940f971d44b27612dd; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Rusija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Baudžiava: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Rusija: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Baudžiava\" parinktas kaip owner_note_path. Targetas \"Rusija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-24661
 
@@ -142,19 +96,6 @@ Nenurodyta
 - t-024
   global_id: t-108575
   teiginys: "1831 m. sukilimo atsišaukimuose lenkų ir lietuvių kalbomis keltas reikalavimas paleisti valstiečius iš baudžiavos."
-  temporaliniai_duomenys: "įvykio data: 1831 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sakinys aiškiai perteikia faktą apie baudžiavą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "195817-196272; hash=abc753973ec8a576eb4659f3125ecef0d7c99739c025fd899554cc1a741cf7aa; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Baudžiava: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=71"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Baudžiava\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-100721
 
@@ -162,19 +103,6 @@ Nenurodyta
 - t-017
   global_id: t-108582
   teiginys: "Caras Aleksandras II ir jo aplinka rengė baudžiavos panaikinimo projektus."
-  temporaliniai_duomenys: "įvykio data: 1855 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "17257-17670; hash=9465e12f9de49ef797d9f39fe968f88e635758b948b61641a0c7f437c3e3a7ad; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aleksandras II: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Baudžiava: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Aleksandras II: mention_match, person, gap=35"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Baudžiava\" parinktas kaip owner_note_path. Targetas \"Aleksandras II\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-100726
 
@@ -182,18 +110,6 @@ Nenurodyta
 - t-015
   global_id: t-108577
   teiginys: "1861 m. vasario 19 d. manifestu baudžiava Rusijos imperijoje buvo panaikinta, paliekant valstiečiams teisę išsipirkti žemę per 49 metus."
-  temporaliniai_duomenys: "įvykio data: 1861 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "943261-943692; hash=faad9ac25756a74e92469b2554c2ed68ddcd3937ee964e9565f25376a4135c89; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Rusija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Baudžiava: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Rusija: mention_match, place, gap=10"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Baudžiava\" parinktas kaip owner_note_path. Targetas \"Rusija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-00274
 
@@ -201,16 +117,6 @@ Nenurodyta
 - t-014
   global_id: t-108579
   teiginys: "Valstiečiai ir toliau liko beteisiai baudžiauninkai, bet atleistųjų dvarininkai nebegalėjo grąžinti į baudžiavą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "877799-878082; hash=e0330aebfee2fbc69438d69c6b95f3829313ed3aea5fec940f971d44b27612dd; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Rusija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Baudžiava: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Rusija: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Baudžiava\" parinktas kaip owner_note_path. Targetas \"Rusija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-24661
 
@@ -218,11 +124,6 @@ Nenurodyta
 - t-013
   global_id: t-108580
   teiginys: "Po 1447 m. privilegijos prasidėjo tikroji baudžiava, vis labiau apkraudama valstiečius mokesčiais ir darbais."
-  temporaliniai_duomenys: "įvykio data: po 1447 m.; įvykio data: 1447 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "394607-394878; hash=3cddc208ff440e9cc46fcb406d666fec3ca67eb697ad81f8d237b51bfe6422af; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-00271
 
@@ -230,19 +131,6 @@ Nenurodyta
 - t-017
   global_id: t-108582
   teiginys: "Caras Aleksandras II ir jo aplinka rengė baudžiavos panaikinimo projektus."
-  temporaliniai_duomenys: "įvykio data: 1855 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "17257-17670; hash=9465e12f9de49ef797d9f39fe968f88e635758b948b61641a0c7f437c3e3a7ad; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aleksandras II: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Baudžiava: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Aleksandras II: mention_match, person, gap=35"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Baudžiava\" parinktas kaip owner_note_path. Targetas \"Aleksandras II\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-100726
 
@@ -250,19 +138,6 @@ Nenurodyta
 - t-025
   global_id: t-108583
   teiginys: "Rusijos pralaimėjimas Krymo kare paskatino carą Aleksandrą II rengtis baudžiavos panaikinimui."
-  temporaliniai_duomenys: "įvykio data: 1861 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sakinys pilnas, gramatiškas ir paremtas citata."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "200538-201015; hash=322f11dc87f8858a98dbd6c021d255e89aa2bc3fbff5569129cfd848dd3b65a3; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Krymas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Baudžiava: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Krymas: mention_match, place, gap=48"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Baudžiava\" parinktas kaip owner_note_path. Targetas \"Krymas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-100725
 
@@ -270,12 +145,6 @@ Nenurodyta
 - t-026
   global_id: t-193138
   teiginys: "Labai dažnai bajorai versdavo valstiečius pirkti tam tikrą kiekį degtinės, kaip kad, pav., vertė eiti baudžiavą ar mokėti mokesčius."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "868173-868416; hash=b609cd5b19f4aeac0c2a98afd0254c261dec580696d991ba4766e37ec28661a2; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-175893
 ## Reikšmingi paminėjimai
@@ -289,8 +158,8 @@ Nenurodyta
     džiava (žiūr. 180 psl.): iš savo vietų nebegalį išsikelti valstie-
     čiai buvo apkraunami vis didesniais mokesčiais ir darbais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -308,8 +177,8 @@ Nenurodyta
     rijoje buvo panaikinta baudžiava, o valstiečiams
     duota teisė per 49 metus išsipirkti žemę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -325,8 +194,8 @@ Nenurodyta
     bus grąžinti į baudžiavą tų, kurie atleisti pačių dvarininkų.
     Daugiau teisių gavo miestiečiai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -345,8 +214,8 @@ Nenurodyta
     dauguma, tad atsišaukimuose lenkų ir lietuvių (žemaičių) kalbomis keltas
     ir reikalavimas paleisti valstiečius iš baudžiavos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -364,8 +233,8 @@ Nenurodyta
     matyta privaloma valstiečiams skiriamo žemės sklypo išpirka. Valstiečių
     reformą numatyta pradėti po dvejų metų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -387,8 +256,8 @@ Nenurodyta
     tyva buvo įkurtas Vilniaus Senienų muziejus - mokslinė
     institucija, sutelkusi krašto visuomenę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -407,8 +276,8 @@ Nenurodyta
     mą žemę įgijusiu žemiausiu, bet savarankišku valstiečių žemdirbių luo-
     mu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -424,8 +293,8 @@ Nenurodyta
     tarinėjamos socialinės, politinės problemos. Drąsiau keliami val­
     džios reformavimo, baudžiavos paveldo klausimai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -441,8 +310,8 @@ Nenurodyta
     versdavo valstiečius pirkti tam tikrą kiekį degtinės, kaip kad, pav.,
     vertė eiti baudžiavą ar mokėti mokesčius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

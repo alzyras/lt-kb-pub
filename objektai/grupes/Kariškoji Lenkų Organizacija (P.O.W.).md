@@ -35,11 +35,6 @@ Organizacijos centras buvo Kaune; visa nepriklausomoji Lietuva buvo suskirstyta 
 - t-001
   global_id: t-72110
   teiginys: "P.O.W. sąmokslininkai tikėjosi kelioms valandoms paimti valdžią, kol ateis Lenkijos kariuomenė."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "1110658-1111357; hash=89ee175c74a55b44f97b59ace3c5b9c5d65e6cd9340d47b493b00113d7beb87d; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-70527
 
@@ -47,16 +42,6 @@ Organizacijos centras buvo Kaune; visa nepriklausomoji Lietuva buvo suskirstyta 
 - t-002
   global_id: t-72112
   teiginys: "Kariškoji Lenkų Organizacija, instruktuojama ir finansuojama iš okupuoto Vilniaus, šnipinėjo Lietuvos kariuomenę ir verbavo narius."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "1109884-1110657; hash=92722be1179cc839594f90bc38e37bbc7bc3d712c7130eb343514ca28e2af165; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kariškoji Lenkų Organizacija (P.O.W.): owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=10"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kariškoji Lenkų Organizacija (P.O.W.)\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-70525
 ## Reikšmingi paminėjimai
@@ -78,8 +63,8 @@ Organizacijos centras buvo Kaune; visa nepriklausomoji Lietuva buvo suskirstyta 
     daroma slaptai: kiekvienas narys turėjo slapyvardį, o visi svar-
     besnieji raštai buvo rašomi šifruoti (slapta, sutartine abėcėle).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -102,8 +87,8 @@ Organizacijos centras buvo Kaune; visa nepriklausomoji Lietuva buvo suskirstyta 
     rybos valdžią ir, norėdamas likti laisvas, prisidedąs prie Len-
     kijos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

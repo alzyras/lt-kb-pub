@@ -37,19 +37,19 @@ tags:
 amziai:
   - 'IX'
   - 'XXI'
-media_total_count: '6'
-media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/6/68/1759_polska_litwa_samogitia.jpg'
-media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3A1759_polska_litwa_samogitia.jpg'
+media_total_count: '1'
+media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/6/61/Map_of_the_Duchy_of_Samogitia_%28%C5%BDemaitija%29%2C_1753.jpg'
+media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3AMap_of_the_Duchy_of_Samogitia_%28%C5%BDemaitija%29%2C_1753.jpg'
 media_primary_directness: 'direct'
 media_primary_relation_type: 'map_of'
 media_primary_json: |-
-  {"mediaId":"m-a085364e658e5d3a25f0e6d4","title":"1759 polska litwa samogitia.jpg","caption":"Geographical map representing the Kingdom of Poland and the Grand Duchy of Lithuania, Ruthenia and Samogitia based on the latest observations. Published by Tobias Conrad Lotter in Augsburg.","creator":"Craft37by","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","dateDisplay":"2016-07-31","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A1759_polska_litwa_samogitia.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/68/1759_polska_litwa_samogitia.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1}
+  {"mediaId":"m-b4d05157156f3bacad09e5cc","title":"Map of the Duchy of Samogitia (Žemaitija), 1753.jpg","caption":"1753 m. Žemaitijos kunigaikštystės žemėlapis.","originalTitle":"Map of the Duchy of Samogitia (Žemaitija), 1753.jpg","creator":"Leonhard Euler (1707–1783), Johann Christoph Rhode (1713–1786)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"DavidRumsey.com","dateDisplay":"1753","dateStart":null,"dateEnd":null,"width":1187,"height":903,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMap_of_the_Duchy_of_Samogitia_%28%C5%BDemaitija%29%2C_1753.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/6/61/Map_of_the_Duchy_of_Samogitia_%28%C5%BDemaitija%29%2C_1753.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/61/Map_of_the_Duchy_of_Samogitia_%28%C5%BDemaitija%29%2C_1753.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"kraštas","label":"kraštas","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"regionas","label":"regionas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemaitija","label":"žemaitija","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/vietos/Žemaitija.md","title":"Žemaitija","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:38:38.553862+03:00","reviewedAt":"2026-07-11T02:38:56.619530+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas senasis žemėlapis su aiškiai pažymėta teritorija „Hertzogthum Samaiten“ ir aplinkinėmis vietovėmis, įskaitant Kuršą, Kauną, Tilžę ir Prūsijos pasienį.","metadataEvidence":"Pavadinimas nurodo „Map of the Duchy of Samogitia (Žemaitija), 1753.jpg“, aprašas teigia, kad tai Žemaitijos kunigaikštystės žemėlapis, žemėlapyje įvardytas kaip „Hertzogthum Samaiten“.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Kandidatas tiesiogiai vaizduoja target Žemaitiją kaip istorinį jos teritorijos žemėlapį; tapatybę patvirtina ir vaizdo užrašas, ir metaduomenys.","isPrimary":1}
 media_direct_json: |-
-  [{"mediaId":"m-a085364e658e5d3a25f0e6d4","title":"1759 polska litwa samogitia.jpg","caption":"Geographical map representing the Kingdom of Poland and the Grand Duchy of Lithuania, Ruthenia and Samogitia based on the latest observations. Published by Tobias Conrad Lotter in Augsburg.","creator":"Craft37by","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","dateDisplay":"2016-07-31","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A1759_polska_litwa_samogitia.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/68/1759_polska_litwa_samogitia.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1},{"mediaId":"m-6a890744c6451f5b720b4e31","title":"Lub Chelmski Zmudz.png","caption":"Map of gmina Żmudź, Chełm county, Lublin voivodship Mapa gminy Żmudź, powiat chełmski, województwo lubelskie","creator":"No machine-readable author provided. Qqerim assumed (based on copyright claims).","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","dateDisplay":"27 February 2007 (original upload date)","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ALub_Chelmski_Zmudz.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3d/Lub_Chelmski_Zmudz.png","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-b4d05157156f3bacad09e5cc","title":"Map of the Duchy of Samogitia (Žemaitija), 1753.jpg","caption":"Map of the Duchy of Samogitia (named in the map as Hertzogthum Samaiten ), created by Leonhard Euler and Johann Christoph Rhode in 1753.","creator":"Leonhard Euler (1707–1783), Johann Christoph Rhode (1713–1786)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1753","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMap_of_the_Duchy_of_Samogitia_%28%C5%BDemaitija%29%2C_1753.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/61/Map_of_the_Duchy_of_Samogitia_%28%C5%BDemaitija%29%2C_1753.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-7fd401808da75db3e0284cd6","title":"Żmudź (gmina) location map.png","caption":"Location map","creator":"Smat","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 2.0","rightsNote":"Creative Commons Attribution-Share Alike 2.0","dateDisplay":"2017-09-02","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A%C5%BBmud%C5%BA_%28gmina%29_location_map.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3a/%C5%BBmud%C5%BA_%28gmina%29_location_map.png","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-ebb69c14a601b1fee11970bc","title":"Litthauen, Litthauische Reussen, Samogitien - Johann Ulrich Müller - Вялікае Княства Літоўскае, Рускае і Жамойцкае - Vialikaje Kniastva Litoŭskaje, Ruskaje i Žamojckaje.png","caption":"A page from an early 18th-century German pocket atlas (likely by Johann Ulrich Müller). It features a miniature map of the region and a text headed \"Litthauen theilet sich:\" (Lithuania divides itself:). The text explicitly outlines the administrative division of the state into three parts: 1. Lithuania proper ( In Litthauen selbsten ) ( https://en.wikipedia.org/wiki/Vilnius_Voivodeship , https://en.wikipedia.org/wiki/Trakai_Voivodeship , https://en.wikipedia.org/wiki/Brest_Litovsk_Voivodeship , https://en.wikipedia.org/wiki/Nowogr%C3%B3dek_Voivodeship_(1507%E2%80%931795) , 2. Lithuanian Ruthenia ( Das Litthauische Reussen )( https://en.wikipedia.org/wiki/Minsk_Voivodeship , https://en.wikipedia.org/wiki/Mstsislaw_Voivodeship , https://en.wikipedia.org/wiki/Vitebsk_Voivodeship , https://en.wikipedia.org/wiki/Polotsk_Voivodeship , https://en.wikipedia.org/wiki/Smolensk_Voivodeship ) , and 3. Samogitia ( Samogitien ) https://en.wikipedia.org/wiki/Duchy_of_Samogitia . This division reflects the full historical name of the state: Grand Duchy of Lithuania, Ruthenia and Samogitia .","creator":"Attributed to Creator:Johann Ulrich Müller (1653–1715)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"circa 1702 date QS:P571,+1702-00-00T00:00:00Z/9,P1480,Q5727902","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ALitthauen%2C_Litthauische_Reussen%2C_Samogitien_-_Johann_Ulrich_M%C3%BCller_-_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D0%B0%D0%B5_%D0%9A%D0%BD%D1%8F%D1%81%D1%82%D0%B2%D0%B0_%D0%9B%D1%96%D1%82%D0%BE%D1%9E%D1%81%D0%BA%D0%B0%D0%B5%2C_%D0%A0%D1%83%D1%81%D0%BA%D0%B0%D0%B5_%D1%96_%D0%96%D0%B0%D0%BC%D0%BE%D0%B9%D1%86%D0%BA%D0%B0%D0%B5_-_Vialikaje_Kniastva_Lito%C5%ADskaje%2C_Ruskaje_i_%C5%BDamojckaje.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/8/84/Litthauen%2C_Litthauische_Reussen%2C_Samogitien_-_Johann_Ulrich_M%C3%BCller_-_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D0%B0%D0%B5_%D0%9A%D0%BD%D1%8F%D1%81%D1%82%D0%B2%D0%B0_%D0%9B%D1%96%D1%82%D0%BE%D1%9E%D1%81%D0%BA%D0%B0%D0%B5%2C_%D0%A0%D1%83%D1%81%D0%BA%D0%B0%D0%B5_%D1%96_%D0%96%D0%B0%D0%BC%D0%BE%D0%B9%D1%86%D0%BA%D0%B0%D0%B5_-_Vialikaje_Kniastva_Lito%C5%ADskaje%2C_Ruskaje_i_%C5%BDamojckaje.png","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-89c96bcd5e51cf4614b8bc40","title":"Teutonic state 1455.png","caption":"history map of Ordensstaat , 1455","creator":"self made by en:User:Space Cadet , recoloured by Ulamm 01:31, 6 October 2007 (UTC)","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","dateDisplay":"2006-03-02","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATeutonic_state_1455.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5f/Teutonic_state_1455.png","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0}]
+  [{"mediaId":"m-b4d05157156f3bacad09e5cc","title":"Map of the Duchy of Samogitia (Žemaitija), 1753.jpg","caption":"1753 m. Žemaitijos kunigaikštystės žemėlapis.","originalTitle":"Map of the Duchy of Samogitia (Žemaitija), 1753.jpg","creator":"Leonhard Euler (1707–1783), Johann Christoph Rhode (1713–1786)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"DavidRumsey.com","dateDisplay":"1753","dateStart":null,"dateEnd":null,"width":1187,"height":903,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMap_of_the_Duchy_of_Samogitia_%28%C5%BDemaitija%29%2C_1753.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/6/61/Map_of_the_Duchy_of_Samogitia_%28%C5%BDemaitija%29%2C_1753.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/61/Map_of_the_Duchy_of_Samogitia_%28%C5%BDemaitija%29%2C_1753.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"kraštas","label":"kraštas","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"regionas","label":"regionas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemaitija","label":"žemaitija","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/vietos/Žemaitija.md","title":"Žemaitija","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:38:38.553862+03:00","reviewedAt":"2026-07-11T02:38:56.619530+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas senasis žemėlapis su aiškiai pažymėta teritorija „Hertzogthum Samaiten“ ir aplinkinėmis vietovėmis, įskaitant Kuršą, Kauną, Tilžę ir Prūsijos pasienį.","metadataEvidence":"Pavadinimas nurodo „Map of the Duchy of Samogitia (Žemaitija), 1753.jpg“, aprašas teigia, kad tai Žemaitijos kunigaikštystės žemėlapis, žemėlapyje įvardytas kaip „Hertzogthum Samaiten“.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Kandidatas tiesiogiai vaizduoja target Žemaitiją kaip istorinį jos teritorijos žemėlapį; tapatybę patvirtina ir vaizdo užrašas, ir metaduomenys.","isPrimary":1}]
 media_contextual_json: |-
   []
 media_all_json: |-
-  [{"mediaId":"m-a085364e658e5d3a25f0e6d4","title":"1759 polska litwa samogitia.jpg","caption":"Geographical map representing the Kingdom of Poland and the Grand Duchy of Lithuania, Ruthenia and Samogitia based on the latest observations. Published by Tobias Conrad Lotter in Augsburg.","creator":"Craft37by","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","dateDisplay":"2016-07-31","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A1759_polska_litwa_samogitia.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/68/1759_polska_litwa_samogitia.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1},{"mediaId":"m-6a890744c6451f5b720b4e31","title":"Lub Chelmski Zmudz.png","caption":"Map of gmina Żmudź, Chełm county, Lublin voivodship Mapa gminy Żmudź, powiat chełmski, województwo lubelskie","creator":"No machine-readable author provided. Qqerim assumed (based on copyright claims).","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","dateDisplay":"27 February 2007 (original upload date)","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ALub_Chelmski_Zmudz.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3d/Lub_Chelmski_Zmudz.png","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-b4d05157156f3bacad09e5cc","title":"Map of the Duchy of Samogitia (Žemaitija), 1753.jpg","caption":"Map of the Duchy of Samogitia (named in the map as Hertzogthum Samaiten ), created by Leonhard Euler and Johann Christoph Rhode in 1753.","creator":"Leonhard Euler (1707–1783), Johann Christoph Rhode (1713–1786)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1753","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMap_of_the_Duchy_of_Samogitia_%28%C5%BDemaitija%29%2C_1753.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/61/Map_of_the_Duchy_of_Samogitia_%28%C5%BDemaitija%29%2C_1753.jpg","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-7fd401808da75db3e0284cd6","title":"Żmudź (gmina) location map.png","caption":"Location map","creator":"Smat","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 2.0","rightsNote":"Creative Commons Attribution-Share Alike 2.0","dateDisplay":"2017-09-02","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A%C5%BBmud%C5%BA_%28gmina%29_location_map.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3a/%C5%BBmud%C5%BA_%28gmina%29_location_map.png","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-ebb69c14a601b1fee11970bc","title":"Litthauen, Litthauische Reussen, Samogitien - Johann Ulrich Müller - Вялікае Княства Літоўскае, Рускае і Жамойцкае - Vialikaje Kniastva Litoŭskaje, Ruskaje i Žamojckaje.png","caption":"A page from an early 18th-century German pocket atlas (likely by Johann Ulrich Müller). It features a miniature map of the region and a text headed \"Litthauen theilet sich:\" (Lithuania divides itself:). The text explicitly outlines the administrative division of the state into three parts: 1. Lithuania proper ( In Litthauen selbsten ) ( https://en.wikipedia.org/wiki/Vilnius_Voivodeship , https://en.wikipedia.org/wiki/Trakai_Voivodeship , https://en.wikipedia.org/wiki/Brest_Litovsk_Voivodeship , https://en.wikipedia.org/wiki/Nowogr%C3%B3dek_Voivodeship_(1507%E2%80%931795) , 2. Lithuanian Ruthenia ( Das Litthauische Reussen )( https://en.wikipedia.org/wiki/Minsk_Voivodeship , https://en.wikipedia.org/wiki/Mstsislaw_Voivodeship , https://en.wikipedia.org/wiki/Vitebsk_Voivodeship , https://en.wikipedia.org/wiki/Polotsk_Voivodeship , https://en.wikipedia.org/wiki/Smolensk_Voivodeship ) , and 3. Samogitia ( Samogitien ) https://en.wikipedia.org/wiki/Duchy_of_Samogitia . This division reflects the full historical name of the state: Grand Duchy of Lithuania, Ruthenia and Samogitia .","creator":"Attributed to Creator:Johann Ulrich Müller (1653–1715)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"circa 1702 date QS:P571,+1702-00-00T00:00:00Z/9,P1480,Q5727902","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ALitthauen%2C_Litthauische_Reussen%2C_Samogitien_-_Johann_Ulrich_M%C3%BCller_-_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D0%B0%D0%B5_%D0%9A%D0%BD%D1%8F%D1%81%D1%82%D0%B2%D0%B0_%D0%9B%D1%96%D1%82%D0%BE%D1%9E%D1%81%D0%BA%D0%B0%D0%B5%2C_%D0%A0%D1%83%D1%81%D0%BA%D0%B0%D0%B5_%D1%96_%D0%96%D0%B0%D0%BC%D0%BE%D0%B9%D1%86%D0%BA%D0%B0%D0%B5_-_Vialikaje_Kniastva_Lito%C5%ADskaje%2C_Ruskaje_i_%C5%BDamojckaje.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/8/84/Litthauen%2C_Litthauische_Reussen%2C_Samogitien_-_Johann_Ulrich_M%C3%BCller_-_%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D0%B0%D0%B5_%D0%9A%D0%BD%D1%8F%D1%81%D1%82%D0%B2%D0%B0_%D0%9B%D1%96%D1%82%D0%BE%D1%9E%D1%81%D0%BA%D0%B0%D0%B5%2C_%D0%A0%D1%83%D1%81%D0%BA%D0%B0%D0%B5_%D1%96_%D0%96%D0%B0%D0%BC%D0%BE%D0%B9%D1%86%D0%BA%D0%B0%D0%B5_-_Vialikaje_Kniastva_Lito%C5%ADskaje%2C_Ruskaje_i_%C5%BDamojckaje.png","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-89c96bcd5e51cf4614b8bc40","title":"Teutonic state 1455.png","caption":"history map of Ordensstaat , 1455","creator":"self made by en:User:Space Cadet , recoloured by Ulamm 01:31, 6 October 2007 (UTC)","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","dateDisplay":"2006-03-02","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATeutonic_state_1455.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5f/Teutonic_state_1455.png","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.92,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0}]
+  [{"mediaId":"m-b4d05157156f3bacad09e5cc","title":"Map of the Duchy of Samogitia (Žemaitija), 1753.jpg","caption":"1753 m. Žemaitijos kunigaikštystės žemėlapis.","originalTitle":"Map of the Duchy of Samogitia (Žemaitija), 1753.jpg","creator":"Leonhard Euler (1707–1783), Johann Christoph Rhode (1713–1786)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"DavidRumsey.com","dateDisplay":"1753","dateStart":null,"dateEnd":null,"width":1187,"height":903,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMap_of_the_Duchy_of_Samogitia_%28%C5%BDemaitija%29%2C_1753.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/6/61/Map_of_the_Duchy_of_Samogitia_%28%C5%BDemaitija%29%2C_1753.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/61/Map_of_the_Duchy_of_Samogitia_%28%C5%BDemaitija%29%2C_1753.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"kraštas","label":"kraštas","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"regionas","label":"regionas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemaitija","label":"žemaitija","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/vietos/Žemaitija.md","title":"Žemaitija","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:38:38.553862+03:00","reviewedAt":"2026-07-11T02:38:56.619530+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas senasis žemėlapis su aiškiai pažymėta teritorija „Hertzogthum Samaiten“ ir aplinkinėmis vietovėmis, įskaitant Kuršą, Kauną, Tilžę ir Prūsijos pasienį.","metadataEvidence":"Pavadinimas nurodo „Map of the Duchy of Samogitia (Žemaitija), 1753.jpg“, aprašas teigia, kad tai Žemaitijos kunigaikštystės žemėlapis, žemėlapyje įvardytas kaip „Hertzogthum Samaiten“.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Kandidatas tiesiogiai vaizduoja target Žemaitiją kaip istorinį jos teritorijos žemėlapį; tapatybę patvirtina ir vaizdo užrašas, ir metaduomenys.","isPrimary":1}]
 ---
 # Žemaitija
 
@@ -77,16 +77,6 @@ media_all_json: |-
 - t-007
   global_id: t-123002
   teiginys: "Žemaitijoje Vytautas pastatė Varnių katedrą ir bažnyčias Ariogaloje, Betygaloje, Kelmėje, Kražiuose, Kaltinėnuose, Luokėje, Raseiniuose, Viduklėje, Senvarniuose ir Veliuonoje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "310952-311543; hash=88182443cc961625d2a2966c1dec8c0e27657a440451226d2d2eacc0ae55846d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Senvarniai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žemaitija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Senvarniai: mention_match, place, gap=148"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaitija\" parinktas kaip owner_note_path. Targetas \"Senvarniai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-37881
 
@@ -94,16 +84,6 @@ media_all_json: |-
 - t-012
   global_id: t-123003
   teiginys: "Kryžiuočių ordinui Žemaitijos užvaldymas buvo valstybės gerovės ir net egzistencijos klausimas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "672173-672613; hash=d3c1e83f9dec6a33852c5e1bdfd26151798e992f0560cd70acf9fae294691349; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žemaitija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=19"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaitija\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-37886
 
@@ -111,16 +91,6 @@ media_all_json: |-
 - t-035
   global_id: t-123004
   teiginys: "Žemaitija, siekianti Baltijos jūrą, apibūdinta kaip lietuvių genties centras, išsaugojęs gryniausius padermės bruožus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "49940-51059; hash=c2c2fd2a81204ec6ff5f81fb8134596f49755f5cd141844a1f8c4ae1300e00eb; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Baltija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žemaitija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Baltija: mention_match, place, gap=21"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaitija\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-112489
 
@@ -128,17 +98,6 @@ media_all_json: |-
 - t-062
   global_id: t-123005
   teiginys: "Vytauto tėvas, gindamas Žemaitijos ir lietuvių laisvę, nuolat kariavo su kardininkais iš šiaurės ir kryžiuočiais iš vakarų."
-  semantiniai_rysiai: "Kryžiuočių ordinas puolė Lietuva (0.94); Kalavijuočių ordinas puolė Lietuva (0.92)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "42644-43015; hash=4102e8225f1605fa15c704c67ca3e29c7300e983325b353c363a47b064578387; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Lietuva: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Kryžiuočiai tiesiogiai įvardyti kaip puldavę Lietuvą."
   pagrindžia:
     - c-37880
 
@@ -146,16 +105,6 @@ media_all_json: |-
 - t-008
   global_id: t-123006
   teiginys: "Derybose dėl sienų Vytautas reikalavo Žemaitijai plačių sienų, tačiau Ordinas su tuo nesutiko."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "338211-338830; hash=8d623377608a0bce718070ba3526fc3445daf340c12df0b9cc72dd94107ec849; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vokiečiai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žemaitija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Vokiečiai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaitija\" parinktas kaip owner_note_path. Targetas \"Vokiečiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-37882
 
@@ -163,21 +112,6 @@ media_all_json: |-
 - t-022
   global_id: t-123007
   teiginys: "1422 m. Vokiečių ordinas galutinai atsisakė pretenzijų į Žemaitiją ir nebekėlė grėsmės Lietuvai."
-  temporaliniai_duomenys: "įvykio data: 1422 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sakinys yra pilnas ir paremtas citata."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "92640-92868; hash=aeb3476000e8f9b8df4beb1b5209041a62f2b47a27129743befb6fde2b26ddcb; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žemaitija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=30"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaitija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-13T14:18:10Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-112499
 
@@ -185,20 +119,6 @@ media_all_json: |-
 - t-056
   global_id: t-123008
   teiginys: "Vytautas išvyko į Žemaitiją, kur žmonės ir bajorai buvo palankūs jo tėvui Kęstučiui ir nusistatę prieš Jogailą."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į Žemaitija (0.93)"
-  temporaliniai_duomenys: "įvykio data: po 1441 m.; įvykio data: 1441 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra užbaigtas ir tiksliai perteikia citatos faktą apie Vytauto išvykimą į Žemaitiją."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "41436-41784; hash=0befd38b7c9583edda8992bcf6bb1aac5550e91270cb29914a40ec4762747aea; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Žemaitija: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Žemaitija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Vytautas išvyko į Žemaitiją."
   pagrindžia:
     - c-112509
 
@@ -206,19 +126,6 @@ media_all_json: |-
 - t-016
   global_id: t-123009
   teiginys: "1251 m. Mindaugas perleido didelę dalį Žemaitijos Livonijos ordinui mainais į krikštą."
-  semantiniai_rysiai: "Žemaitija priklausė Kryžiuočių ordinas (0.82)"
-  temporaliniai_duomenys: "įvykio data: 1251 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "46459-46613; hash=1a58c8ad3cb719046aca9a6e07465a8ea229f96f05858f6880c4d67db36cd925; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Kryžiuočių ordinas: 0.82"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Žemaitija: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Tekste nurodoma, kad Mindaugas perleido didelę Žemaitijos dalį ordinui; kandidatuose tam naudojamas Kryžiuočių ordino objektas."
   pagrindžia:
     - c-112508
 
@@ -226,17 +133,6 @@ media_all_json: |-
 - t-041
   global_id: t-123010
   teiginys: "Kęstutis su stipriais pulkais iš Žemaitijos atvyko į pagalbą sūnui Vytautui Trakų pilyje."
-  semantiniai_rysiai: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.) keliavo į Trakai (0.75)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "104936-105467; hash=e32676041cba84eb84dccca124b48486065b22680717235fc6cdebbe26ee045b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Trakai: 0.75"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata nurodo, kad Kęstutis atvyko į pagalbą prie Trakų pilies, todėl kelionės tikslas siejamas su Trakais."
   pagrindžia:
     - c-112531
 
@@ -244,20 +140,6 @@ media_all_json: |-
 - t-060
   global_id: t-123011
   teiginys: "1320 m. liepos 27 d. Medininkų žemėje Lietuva sutriuškino į Žemaitiją įsiveržusius kryžiuočius."
-  semantiniai_rysiai: "Kryžiuočių ordinas puolė Žemaitija (0.92)"
-  temporaliniai_duomenys: "įvykio data: 1320 m.; įvykio data: 1322 m.; įvykio data: 1323 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pagrindžia konkretų faktą apie Žemaitiją; pradinė formuluotė buvo per ilga ir nutrūkusi."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "351515-351999; hash=ea0ab798b9cd9b7a990a87f3e8b72ac34a914502866aa033df15dc0232e0dbe7; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Žemaitija: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Žemaitija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Įsiveržimas į Žemaitiją yra tiesioginis puolimo požymis."
   pagrindžia:
     - c-112518
 
@@ -265,17 +147,6 @@ media_all_json: |-
 - t-042
   global_id: t-123012
   teiginys: "Kol vokiečių kariuomenė stovyklavo Žemaitijoje, lietuvių pulkas įsiveržė į Livoniją ir nusiaubė Dorpato vyskupiją."
-  semantiniai_rysiai: "Lietuviai puolė Livonija (0.96); Lietuviai puolė Dorpatas (0.88)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "159087-159799; hash=a788bdb92b38f9034d5dfb6756e29c7a00d366ae62451cba3e0af3236b0e82d8; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Livonija: 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Livonija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekste tiesiogiai pasakyta, kad lietuvių pulkas įsiveržė į Livoniją."
   pagrindžia:
     - c-112490
 
@@ -283,17 +154,6 @@ media_all_json: |-
 - t-018
   global_id: t-123013
   teiginys: "Po Lietuvos krikšto Žemaitija vis dar priklausė Vokiečių ordinui."
-  semantiniai_rysiai: "Žemaitija priklausė Kryžiuočių ordinas (0.91)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "81826-82171; hash=57eff9986bc0bd9f1cfd3798b28e7dca16635ef0a82267e23643dc840c2af525; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Kryžiuočių ordinas: 0.91"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Žemaitija: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Ankstesnėje frazėje minimas Vokiečių ordinas, o ši frazė tiesiogiai nurodo, kad Žemaitija jam priklausė."
   pagrindžia:
     - c-112491
 
@@ -301,17 +161,6 @@ media_all_json: |-
 - t-006
   global_id: t-123014
   teiginys: "Vytauto tėvas gynė Žemaitijos ir lietuvių laisvę, kai kardininkai ir kryžiuočiai smarkiai puldinėjo Lietuvą."
-  semantiniai_rysiai: "Kryžiuočių ordinas puolė Lietuva (0.94); Kalavijuočių ordinas puolė Lietuva (0.92)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "42644-43015; hash=4102e8225f1605fa15c704c67ca3e29c7300e983325b353c363a47b064578387; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Lietuva: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Kryžiuočiai tiesiogiai įvardyti kaip puldavę Lietuvą."
   pagrindžia:
     - c-37880
 
@@ -319,20 +168,6 @@ media_all_json: |-
 - t-009
   global_id: t-123015
   teiginys: "1398 m. spalio 12 d. Salyne Vytautas atidavė Ordinui visą Žemaitiją."
-  semantiniai_rysiai: "Žemaitija priklausė Kryžiuočių ordinas (0.90)"
-  temporaliniai_duomenys: "įvykio data: 1398 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo datą, vietą, veikėją ir veiksmą, kurie paremti citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "407468-408135; hash=6819e1887db084a5fb4640862095b3f846d9523dffc0916846fd1641fd61d927; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Kryžiuočių ordinas: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Žemaitija: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo, kad Vytautas atidavė visą Žemaitiją Ordinui."
   pagrindžia:
     - c-37883
 
@@ -340,17 +175,6 @@ media_all_json: |-
 - t-034
   global_id: t-123016
   teiginys: "Gedimino laikais Žemaitijoje tik šen bei ten stovėjo vienišos feodalinių kunigaikščių ir bajorų pilys bei gynybinės gyvenvietės."
-  semantiniai_rysiai: "Pilys priklausė Bajorai (0.78)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "41761-42203; hash=afa233a538d0a591a46602d6351cc971af4622dd63e90727ec0e24bf158a93d4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Bajorai: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Pilys: llm_allowed_candidate, thing"
-  ryšio_targeto_parinkimas: "Bajorai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Genityvinė frazė rodo, kad dalis pilių buvo bajorų pilys, tad priklausymo ryšys pagrįstas."
   pagrindžia:
     - c-112513
 
@@ -358,17 +182,6 @@ media_all_json: |-
 - t-048
   global_id: t-123017
   teiginys: "Žemaitijoje ir kitose Lietuvos žemėse kilo tik pavienės feodalinių kunigaikščių ir bajorų gynybinės pilys."
-  semantiniai_rysiai: "Pilys priklausė Bajorai (0.78)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "41761-42203; hash=afa233a538d0a591a46602d6351cc971af4622dd63e90727ec0e24bf158a93d4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Bajorai: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Pilys: llm_allowed_candidate, thing"
-  ryšio_targeto_parinkimas: "Bajorai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Frazė nurodo bajorų gynybines pilis, todėl priklausymo ryšys yra tiesiogiai paremtas."
   pagrindžia:
     - c-112513
 
@@ -376,16 +189,6 @@ media_all_json: |-
 - t-024
   global_id: t-123018
   teiginys: "Bendros sukilimo vadovybės Lietuvoje nebuvo, daug „vyriausybių“ veikė konkrečios apskrities teritorijoje, o viena tokių „vyriausybių“ pasiskelbė Žemaitijos vyriausybe."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "196020-196543; hash=355899e3408ed7f6d623730d35d5bd9e94290332d4fdd13ff665956a9b49c95c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žemaitija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaitija\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-112501
 
@@ -393,16 +196,6 @@ media_all_json: |-
 - t-011
   global_id: t-123019
   teiginys: "Vytauto laikais kolonizuota Žemaitija ir kiti jam priklausę kraštai."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "602581-603126; hash=8bb19f8484a8f84fee7ef74a98b4ba2edd15e34ddf1492efa75169a799e7273b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Augustas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žemaitija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Augustas: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaitija\" parinktas kaip owner_note_path. Targetas \"Augustas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-112498
 
@@ -410,19 +203,6 @@ media_all_json: |-
 - t-038
   global_id: t-123029
   teiginys: "Kronikininkas pasakoja, kad apie 880 m. iš Danijos ištremti žmonės persikėlė per jūrą ir įsikūrė Prūsijoje, Žemaitijoje bei Karelijoje."
-  temporaliniai_duomenys: "įvykio data: 880 m; įvykio data: apie 880 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
-  temporalinis_llm_pakomentavimas: "Perrašyta su aiškia kilme ir šaltinio pobūdžiu, nes citata perteikia kronikininko pasakojimą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "55503-55948; hash=5dfc9b9666c3518734b49aebfe9f2016f63bd2bbf99a1e273ca0012f7c73619d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Karelija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žemaitija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Karelija: mention_match, place, gap=16"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaitija\" parinktas kaip owner_note_path. Targetas \"Karelija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-112521
 
@@ -430,16 +210,6 @@ media_all_json: |-
 - t-050
   global_id: t-123021
   teiginys: "Žemaitija aiškinta kaip žemesnė žemė, o Aukštaitija - kaip aukštesnė žemė palyginti su Žemaitija."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "52977-53344; hash=fb187b0f3fcf47a436581d91fe85f5278b26bbc809644fc26e3ae84a375ec533; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aukštaitija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žemaitija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Aukštaitija: mention_match, place, gap=40"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaitija\" parinktas kaip owner_note_path. Targetas \"Aukštaitija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-112523
 
@@ -447,19 +217,6 @@ media_all_json: |-
 - t-023
   global_id: t-123022
   teiginys: "Lietuvoje sukilimas prasidėjo spontaniškai 1831 m. pavasariop Žemaitijoje dėl valdžios paskelbto rekrutų ėmimo."
-  temporaliniai_duomenys: "įvykio data: 1831 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sakinys gramatiškas ir nurodo Žemaitijoje prasidėjusį įvykį."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "195817-196272; hash=abc753973ec8a576eb4659f3125ecef0d7c99739c025fd899554cc1a741cf7aa; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žemaitija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaitija\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-112520
 
@@ -467,16 +224,6 @@ media_all_json: |-
 - t-021
   global_id: t-123023
   teiginys: "Po Žalgirio mūšio Žemaitija liko pagrindinė Vytauto konflikto su Ordinu priežastis."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "91099-91471; hash=0e8c1df100e5d92aba7e07e087aa29ac850a93aec99924d6d1650d7d84d2d54c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žemaitija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=47"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaitija\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-112500
 
@@ -484,19 +231,6 @@ media_all_json: |-
 - t-040
   global_id: t-123024
   teiginys: "1380 m. Rygoje sudarytos paliaubos su Livonijos magistru aplenkė Kęstutį ir jo Žemaitijos kunigaikštystę."
-  temporaliniai_duomenys: "įvykio data: 1380 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus ir tiesiogiai pagrįstas citata apie 1380 m. paliaubas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "97609-98137; hash=36fc3bcb6fffa06ac0cbabe353f01bca015929f3687dfb38f433ad31f4d7985e; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žemaitija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaitija\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-112495
 
@@ -504,16 +238,6 @@ media_all_json: |-
 - t-037
   global_id: t-123025
   teiginys: "Žemaitijos žemė aiškinta kaip ta pati Lietuvos žemė, tik vadinama žemesne žeme."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "52977-53344; hash=fb187b0f3fcf47a436581d91fe85f5278b26bbc809644fc26e3ae84a375ec533; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žemaitija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=38"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaitija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-112523
 
@@ -521,17 +245,6 @@ media_all_json: |-
 - t-053
   global_id: t-123026
   teiginys: "Vokiečių kariuomenei stovyklaujant Žemaitijoje, lietuvių pulkas įsiveržė į Livoniją ir nusiaubė Dorpato vyskupiją."
-  semantiniai_rysiai: "Lietuviai puolė Livonija (0.96); Lietuviai puolė Dorpatas (0.88)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "159087-159799; hash=a788bdb92b38f9034d5dfb6756e29c7a00d366ae62451cba3e0af3236b0e82d8; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Livonija: 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Livonija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekste tiesiogiai pasakyta, kad lietuvių pulkas įsiveržė į Livoniją."
   pagrindžia:
     - c-112490
 
@@ -539,17 +252,6 @@ media_all_json: |-
 - t-026
   global_id: t-123027
   teiginys: "Vytauto tėvas gynė Žemaitijos ir lietuvių laisvę nuo kardininkų ir kryžiuočių antpuolių."
-  semantiniai_rysiai: "Kryžiuočių ordinas puolė Lietuva (0.94); Kalavijuočių ordinas puolė Lietuva (0.92)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "42644-43015; hash=4102e8225f1605fa15c704c67ca3e29c7300e983325b353c363a47b064578387; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Lietuva: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Kryžiuočiai tiesiogiai įvardyti kaip puldavę Lietuvą."
   pagrindžia:
     - c-37880
 
@@ -557,19 +259,6 @@ media_all_json: |-
 - t-044
   global_id: t-123028
   teiginys: "1251 m. Mindaugas krikštijosi, mainais perleidęs didelę dalį Žemaitijos Livonijos ordinui."
-  temporaliniai_duomenys: "įvykio data: 1251 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sakinys pilnas, gramatiškas ir susijęs su Žemaitija."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "46332-46551; hash=87e3877442772f1f8d2d05caa999f115496fb17d52e134fb9ba1025d23932003; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žemaitija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=21"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaitija\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-112494
 
@@ -577,19 +266,6 @@ media_all_json: |-
 - t-038
   global_id: t-123029
   teiginys: "Kronikininkas pasakoja, kad apie 880 m. iš Danijos ištremti žmonės persikėlė per jūrą ir įsikūrė Prūsijoje, Žemaitijoje bei Karelijoje."
-  temporaliniai_duomenys: "įvykio data: 880 m; įvykio data: apie 880 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
-  temporalinis_llm_pakomentavimas: "Perrašyta su aiškia kilme ir šaltinio pobūdžiu, nes citata perteikia kronikininko pasakojimą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "55503-55948; hash=5dfc9b9666c3518734b49aebfe9f2016f63bd2bbf99a1e273ca0012f7c73619d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Karelija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žemaitija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Karelija: mention_match, place, gap=16"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaitija\" parinktas kaip owner_note_path. Targetas \"Karelija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-112521
 
@@ -597,16 +273,6 @@ media_all_json: |-
 - t-032
   global_id: t-123030
   teiginys: "Pavasarį sukilimas spontaniškai prasidėjo Žemaitijoje ir greitai apėmė visą Lietuvą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "8045-8359; hash=06ff577a4e4bad9a592ce8e68cadcad218e33e61e0e044acd47143af0edfebda; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žemaitija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=34"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaitija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-112535
 
@@ -614,16 +280,6 @@ media_all_json: |-
 - t-063
   global_id: t-123031
   teiginys: "Vytautas reikalavo plačių Žemaitijos sienų, o Vokiečių ordinas nenorėjo su tuo sutikti."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "338211-338830; hash=8d623377608a0bce718070ba3526fc3445daf340c12df0b9cc72dd94107ec849; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vokiečiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žemaitija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Vokiečiai: mention_match, group, gap=20"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaitija\" parinktas kaip owner_note_path. Targetas \"Vokiečiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-37882
 
@@ -631,18 +287,6 @@ media_all_json: |-
 - t-046
   global_id: t-123032
   teiginys: "Po Žalgirio mūšio Vytautas pretendavo į visą Žemaitiją iki Nemuno, įskaitant Klaipėdą, ir Užnemunę."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "91099-91471; hash=0e8c1df100e5d92aba7e07e087aa29ac850a93aec99924d6d1650d7d84d2d54c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Nemunas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žemaitija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Nemunas: mention_match, place, gap=14"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaitija\" parinktas kaip owner_note_path. Targetas \"Nemunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-112500
 
@@ -650,16 +294,6 @@ media_all_json: |-
 - t-039
   global_id: t-123033
   teiginys: "Balińskis Žemaitijoje Milžinų Kapais vadintus didžiulius pilkapius laikė Skandinavijos įtakos Lietuvoje liudijimu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "56015-56557; hash=201ef7e321e5c5222fae30b87f35096bdb5aacee80aaecc2b61914a634d26b4f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žemaitija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=84"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaitija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-112502
 
@@ -667,16 +301,6 @@ media_all_json: |-
 - t-049
   global_id: t-123034
   teiginys: "Žemaitija, siekusi Baltijos jūrą, apibūdinta kaip lietuvių genties centras, išsaugojęs gryniausius savo padermės bruožus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "49940-51059; hash=c2c2fd2a81204ec6ff5f81fb8134596f49755f5cd141844a1f8c4ae1300e00eb; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Baltija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žemaitija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Baltija: mention_match, place, gap=19"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaitija\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-112489
 
@@ -684,16 +308,6 @@ media_all_json: |-
 - t-019
   global_id: t-123035
   teiginys: "Žalgirio mūšyje buvo pakirsta Vokiečių ordino hegemonija, nors Žemaitijai pripažinti Lietuvai dar reikėjo dviejų karų."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "86709-87232; hash=11594739eed3572e5f8a09a3237cd871f97429085ab5681209085d9a93461d3c; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žemaitija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=22"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaitija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-112533
 
@@ -701,22 +315,6 @@ media_all_json: |-
 - t-065
   global_id: t-123036
   teiginys: "1398 m. vasarį Kryžiuočių ordino Livonijos atšakos pajėgos smogė Žemaitijai ir daug žmonių išsivedė į nelaisvę."
-  semantiniai_rysiai: "Kryžiuočių ordinas puolė Žemaitija (0.94)"
-  temporaliniai_duomenys: "įvykio data: 1397 m.; įvykio data: 1398 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko trumpesnį, aiškesnį sakinį apie Žemaitiją."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "392669-392839; hash=888d6fb6ee1b769495a2862ba8f571922c978006406908738b4f24e3d5e12e39; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Žemaitija: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Žemaitija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Frazė „pajėgos smogė Žemaitijai“ tiesiogiai reiškia puolimą."
-  vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-112492
 
@@ -724,16 +322,6 @@ media_all_json: |-
 - t-036
   global_id: t-123037
   teiginys: "Vilniaus ir dalies Gardino gubernijų kraštas laikytas dviejų lietuvių padermių, Žemaitijos ir aukštutinės Lietuvos, gyvenviete."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "49940-51059; hash=c2c2fd2a81204ec6ff5f81fb8134596f49755f5cd141844a1f8c4ae1300e00eb; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Baltija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žemaitija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Baltija: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaitija\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-112489
 
@@ -741,18 +329,6 @@ media_all_json: |-
 - t-017
   global_id: t-123038
   teiginys: "Po Mindaugo krikšto Žemaitija buvo prarasta kaip etninės Lietuvos dalis, o ordinų pavojus neišnyko."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "50915-51340; hash=4e38392dae2ae2a784c2596ceb2c081466b3042d791c8ffe21fa10e79b94c47c; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žemaitija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=37"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaitija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-112504
 
@@ -760,17 +336,6 @@ media_all_json: |-
 - t-058
   global_id: t-123039
   teiginys: "Kronikos įvade Žemaitija minima kaip viena teritorijų, kurias pasiekė Kryžiuočių ordino ekspansija ir niokojimai."
-  semantiniai_rysiai: "Kryžiuočių ordinas puolė Žemaitija (0.67)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "223500-223913; hash=ae3fbc0eccfebcedd822a9c2da2dfd48398dc7fb05c4473fb29efa8daef033a6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Žemaitija: 0.67"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Žemaitija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Ekspansija ir niokojimai leidžia laikyti Ordiną Žemaitiją puolusia jėga, bet formuluotė nėra tiesioginis veiksmažodis „puolė“."
   pagrindžia:
     - c-112507
 
@@ -778,16 +343,6 @@ media_all_json: |-
 - t-054
   global_id: t-123041
   teiginys: "Veliuona, tikriausiai XIII a. pastatyta pilis, turėjo saugoti Žemaitijos sienas nuo kryžiuočių puldinėjimų."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "223377-223913; hash=5dc14196e9122e881a092358db2fcd652edf57abe67d943d2d783ad5a5d6dc26; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žemaitija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=22"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaitija\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-112487
 
@@ -795,20 +350,6 @@ media_all_json: |-
 - t-015
   global_id: t-123042
   teiginys: "1387 m. Lietuva krikštijosi katalikišku krikštu, o jos dalis Žemaitija tapo paskutiniu Europoje apsikrikštijimo regionu – šiais įvykiais baigė formuotis krikščioniškoji Europa."
-  semantiniai_rysiai: "Žemaitija priklausė Lietuva (0.95)"
-  temporaliniai_duomenys: "įvykio data: 1387 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sakinys aiškiai teigia faktą apie Žemaitiją."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "23881-24212; hash=d10f73cac28e0d28e132901327403d681a62d7dd456275f71104bfd6a37067bb; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Lietuva: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Žemaitija: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Formuluotė tiesiogiai pasako, kad Žemaitija buvo Lietuvos dalis."
   pagrindžia:
     - c-112517
 
@@ -816,16 +357,6 @@ media_all_json: |-
 - t-055
   global_id: t-123043
   teiginys: "Vytautui priskiriama bažnyčios fundacija buvo laikoma viena pirmųjų bažnyčių Žemaitijoje po krikščionybės įvedimo."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "223914-224418; hash=01dece01c0a21a5aeaf46c134ebbe108de68c7d3b58e3cc2a726da5fa8e71850; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Bona: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žemaitija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Bona: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaitija\" parinktas kaip owner_note_path. Targetas \"Bona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-112527
 
@@ -833,19 +364,6 @@ media_all_json: |-
 - t-010
   global_id: t-123045
   teiginys: "Arklių ūkis buvo labiau paplitęs Žemaitijoje ir apie Trakus, o žemaičiai Vytautui duoklę dažnai mokėdavo arkliais."
-  temporaliniai_duomenys: "įvykio data: 1427 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir tiksliai perteikia citatos informaciją apie arklių ūkį ir duoklę."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "599553-600113; hash=41183d2df52404676e85124f72b8ed48d06d6aa8e47e93947fa7c6f36a7cfaba; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Žemaičiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žemaitija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Žemaičiai: mention_match, group, gap=30"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaitija\" parinktas kaip owner_note_path. Targetas \"Žemaičiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-37884
 
@@ -853,17 +371,6 @@ media_all_json: |-
 - t-061
   global_id: t-123046
   teiginys: "Žemaitijoje plėšikavusios kryžiuočių kariuomenės karys, atsilikęs po kritimo nuo žirgo, pėsčiomis grįžo į Ragainę."
-  semantiniai_rysiai: "Kryžiuočių ordinas puolė Žemaitija (0.70)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "361734-361980; hash=73f9b86b5b1f5f04cf03eef7c0e370b25c6098b75946181f912f028a4007463a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Žemaitija: 0.70"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Žemaitija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Kryžiuočių kariuomenės plėšikavimas Žemaitijoje rodo karinį puolimą, nors formuluotė nėra tiesioginė „puolė“."
   pagrindžia:
     - c-112522
 
@@ -871,19 +378,6 @@ media_all_json: |-
 - t-020
   global_id: t-123047
   teiginys: "Po Žalgirio mūšio Žemaitija buvo apkrikštyta 1413 m., o 1417 m. įsteigta Žemaičių vyskupija."
-  temporaliniai_duomenys: "įvykio data: 1413 m.; įvykio data: 1417 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sakinys aiškus, glaustas ir paremtas citata."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "88932-89404; hash=50407cef301c05e2ae0bd0435943636dcd14e89066d65afd7ad38e7638ac8c2a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Katalikų Bažnyčia: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žemaitija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Katalikų Bažnyčia: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaitija\" parinktas kaip owner_note_path. Targetas \"Katalikų Bažnyčia\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-112503
 
@@ -891,19 +385,6 @@ media_all_json: |-
 - t-064
   global_id: t-123048
   teiginys: "Vytauto laikais arklių ūkis buvo labiau paplitęs Žemaitijoje ir apie Trakus."
-  temporaliniai_duomenys: "įvykio data: 1427 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pagrindžia glaustą faktą apie Žemaitiją, pašalintas OCR triukšmas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "599553-600113; hash=41183d2df52404676e85124f72b8ed48d06d6aa8e47e93947fa7c6f36a7cfaba; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Trakai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žemaitija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Trakai: mention_match, place, gap=20"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaitija\" parinktas kaip owner_note_path. Targetas \"Trakai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-37884
 
@@ -911,19 +392,6 @@ media_all_json: |-
 - t-052
   global_id: t-123049
   teiginys: "1380 m. sudarytos paliaubos su Livonijos magistru Rygoje aplenkė Kęstutį ir jo Žemaitijos kunigaikštystę."
-  temporaliniai_duomenys: "įvykio data: 1380 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra gramatinis ir paremtas ta pačia citatos informacija apie paliaubas Rygoje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "97609-98137; hash=36fc3bcb6fffa06ac0cbabe353f01bca015929f3687dfb38f433ad31f4d7985e; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žemaitija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaitija\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-112495
 
@@ -931,17 +399,6 @@ media_all_json: |-
 - t-059
   global_id: t-123050
   teiginys: "Istoriografijoje buvo formavusis nuomonė, kad Nadruva, Skalva ir Semba yra Žemaitijos dalys."
-  semantiniai_rysiai: "Skalva priklausė Žemaitija (0.91); Semba priklausė Žemaitija (0.91)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "269929-270472; hash=5b2e5d5e58dc9439184c299e330b32f127b67ba7ac49ad455958c18efbf7e101; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Žemaitija: 0.91"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Skalva: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Žemaitija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad Skalva laikyta Žemaitijos dalimi."
   pagrindžia:
     - c-112511
 
@@ -949,19 +406,6 @@ media_all_json: |-
 - t-029
   global_id: t-123051
   teiginys: "Arklių ūkis labiau buvo paplitęs Žemaitijoje ir apie Trakus, o žemaičiai Vytautui dažnai mokėdavo duoklę arkliais."
-  temporaliniai_duomenys: "įvykio data: 1427 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, pilnas ir paremtas citata apie Žemaitiją bei duoklę arkliais."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "599553-600113; hash=41183d2df52404676e85124f72b8ed48d06d6aa8e47e93947fa7c6f36a7cfaba; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Žemaičiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žemaitija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Žemaičiai: mention_match, group, gap=30"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaitija\" parinktas kaip owner_note_path. Targetas \"Žemaičiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-37884
 
@@ -969,16 +413,6 @@ media_all_json: |-
 - t-043
   global_id: t-123052
   teiginys: "Veliuonos pilis tikriausiai pastatyta XIII a. Žemaitijos sienoms nuo kryžiuočių puldinėjimų saugoti."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "223377-223913; hash=5dc14196e9122e881a092358db2fcd652edf57abe67d943d2d783ad5a5d6dc26; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žemaitija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=23"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaitija\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-112487
 
@@ -986,16 +420,6 @@ media_all_json: |-
 - t-028
   global_id: t-123053
   teiginys: "Trijuose suvažiavimuose dėl sienų Vytautas reikalavo plačių Žemaitijos ribų, bet Ordinas su tuo nesutiko."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "338211-338830; hash=8d623377608a0bce718070ba3526fc3445daf340c12df0b9cc72dd94107ec849; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vokiečiai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žemaitija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Vokiečiai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaitija\" parinktas kaip owner_note_path. Targetas \"Vokiečiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-37882
 
@@ -1003,16 +427,6 @@ media_all_json: |-
 - t-066
   global_id: t-123054
   teiginys: "Daukantas savo jaunystės laikų Žemaitijos kaimo kultūrinį paveikslą perkėlė į senuosius laikus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "407901-408442; hash=fce406ecaf0dbe5c02a4c128e2b524cf70ceb84369d80052852bd2c50fb4227c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kaimas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žemaitija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kaimas: mention_match, place, gap=11"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaitija\" parinktas kaip owner_note_path. Targetas \"Kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-112505
 
@@ -1020,16 +434,6 @@ media_all_json: |-
 - t-045
   global_id: t-123055
   teiginys: "Po Lietuvos krikšto Žemaitija vis dar priklausė Vokiečių ordinui, kuris kėlė egzistencinį pavojų Lietuvos valstybei."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "81826-82171; hash=57eff9986bc0bd9f1cfd3798b28e7dca16635ef0a82267e23643dc840c2af525; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žemaitija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=37"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaitija\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-112491
 
@@ -1037,25 +441,6 @@ media_all_json: |-
 - t-067
   global_id: t-183646
   teiginys: "1387 m. Lietuva krikštijosi katalikišku krikštu, o jos dalis Žemaitija tapo paskutiniu Europoje apsikrikštijimo regionu – šiais įvykiais baigė formuotis krikščioniškoji Europa."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Žemaitija priklausė Lietuva (0.86)"
-  temporaliniai_duomenys: "įvykio data: 1387 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sakinys aiškus ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "640652-640860; hash=64f38871423d639a11c0e1c8b0f363cc8b04ef24dc7fd703c86a220157ac8451; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Lietuva: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Žemaitija: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai įvardija Žemaitiją kaip Lietuvos dalį."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-167038
 
@@ -1063,21 +448,6 @@ media_all_json: |-
 - t-068
   global_id: t-183647
   teiginys: "Po Mindaugo krikšto Žemaitija buvo prarasta kaip etninės Lietuvos dalis, o ordinų pavojus neišnyko."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "689929-690380; hash=eda28b3c2f5a470afd5ee744bb0899660a5b3eff0139fe17f6e383658b96a300; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žemaitija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=37"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaitija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-167039
 
@@ -1085,20 +455,6 @@ media_all_json: |-
 - t-069
   global_id: t-183648
   teiginys: "Žalgirio mūšyje buvo pakirsta Vokiečių ordino hegemonija, nors Žemaitijai pripažinti Lietuvai dar reikėjo dviejų karų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Žemaitija priklausė Lietuva (0.82)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "775518-776410; hash=11cc599f8f4e967b8ab9aa378d5510d5203c0973728832ad1c6926def6a716d6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Lietuva: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Žemaitija: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Pripažinimas Lietuvai reiškia Žemaitijos priklausymą Lietuvai."
   pagrindžia:
     - c-167040
 
@@ -1106,24 +462,6 @@ media_all_json: |-
 - t-070
   global_id: t-183649
   teiginys: "1422 m. Vokiečių ordinas galutinai atsisakė pretenzijų į Žemaitiją ir nebekėlė grėsmės Lietuvai."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1422 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sakinys aiškiai teigia citatos palaikomą faktą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "784561-785478; hash=e4277d39dd3aa990e949051ec5059acd5d97ac72f46ae134187591f192ac8183; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žemaitija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=30"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaitija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-13T14:18:10Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-167041
 
@@ -1131,19 +469,6 @@ media_all_json: |-
 - t-071
   global_id: t-185218
   teiginys: "Sudeginus Kurše Karšuvos ir Heilsbergo pilis, kariuomenė buvo nuvesta į Žemaitiją, o vėliau į Prūsiją."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "173191-173690; hash=3388e27b32be0e566137ee7e7f680e85c77989814c7289a5280dbab6ea1319b1; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Prūsija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žemaitija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Prūsija: mention_match, place, gap=22"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaitija\" parinktas kaip owner_note_path. Targetas \"Prūsija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-168579
 
@@ -1151,20 +476,6 @@ media_all_json: |-
 - t-072
   global_id: t-185219
   teiginys: "Tuo žygiu Mindaugas atgavo Žemaitiją ir Kuršą, nusiaubė Sembą ir vėliau vėl sukėlė karą Prūsijoje."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Mindaugas (valdovas, XIII a.) puolė Semba (0.92); Mindaugas (valdovas, XIII a.) puolė Prūsija (0.88)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "173691-174297; hash=fce05c6cbf713782094eabe647812a9b5daf533d65dba81033106020afdd5790; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Semba: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Mindaugas (valdovas, XIII a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Semba: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekste tiesiogiai nurodyta, kad Mindaugas nusiaubė Sembą."
   pagrindžia:
     - c-168580
 
@@ -1172,20 +483,6 @@ media_all_json: |-
 - t-073
   global_id: t-185220
   teiginys: "Grafo Barbio vadovauta vokiečių kariuomenė niokojo Sembą ir Žemaitijos pasienius, bet buvo prūsų sutriuškinta."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Vokiečiai puolė Žemaitija (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "177030-177520; hash=bdf47d12fabcdadaa1369750181099cdbd871425f14291f85b6c782a580978de; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Žemaitija: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vokiečiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Žemaitija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Žemaitijos pasieniai tiesiogiai įvardyti kaip vokiečių kariuomenės niokojimo objektas."
   pagrindžia:
     - c-168581
 
@@ -1193,22 +490,6 @@ media_all_json: |-
 - t-074
   global_id: t-185221
   teiginys: "Žemaitijoje, pasak Kojelavičiaus, tuo metu priešų nebuvo, bet kaimus niokojo nuodingi kirminai."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1285 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Reikia pašalinti neaiškų kontekstą ir pažymėti pasakojimo pobūdį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "268337-268987; hash=b3a4c7870d47187c162a93136926f34792dbe32232567595f0a2afb22590596a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gardinas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žemaitija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Gardinas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaitija\" parinktas kaip owner_note_path. Targetas \"Gardinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-168582
 
@@ -1216,20 +497,6 @@ media_all_json: |-
 - t-075
   global_id: t-185222
   teiginys: "Vaikių ir Pagraudės valsčiai Žemaitijoje buvo nusiaubti žudynėmis ir apiplėšti, todėl daugelį metų beveik neturėjo gyventojų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Vaikiai priklausė Žemaitija (0.90); Pagraudė priklausė Žemaitija (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "290025-290728; hash=a6e46827cab489b9db05ecf63b55f0a3778527a563940702eef796ebed395c2d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Žemaitija: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vaikiai: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Žemaitija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Vaikiai įvardyti kaip valsčius Žemaitijoje."
   pagrindžia:
     - c-168583
 
@@ -1237,19 +504,6 @@ media_all_json: |-
 - t-076
   global_id: t-185223
   teiginys: "Kryžiuočiai taip nusiaubė Karšuvos žemę Žemaitijoje, kad jos gyventojai su visu turtu turėjo išsikelti į Lietuvą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "319644-320058; hash=6a34e33be164a8bb91f292c7156e9bfeeca235682d6b2b9fc3a6270b7f973015; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žemaitija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=65"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaitija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-168584
 
@@ -1257,19 +511,6 @@ media_all_json: |-
 - t-077
   global_id: t-185224
   teiginys: "Iš Prūsijos patraukęs priešas nusiaubė Žemaitiją ir sulygino su žeme Vaikių, Raseinių, Ariogalos bei Klogėnų valsčius."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "356331-356715; hash=7524a50ac7edd3b93e2ecfa6ea505aeb007639082001466251d0fd7a79aabdec; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Ariogala: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žemaitija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Ariogala: mention_match, place, gap=48"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaitija\" parinktas kaip owner_note_path. Targetas \"Ariogala\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-168585
 
@@ -1277,20 +518,6 @@ media_all_json: |-
 - t-078
   global_id: t-185225
   teiginys: "Vytautas pradėjo telkti karius Žemaitijoje ir Palenkėje, susitaręs su kryžiuočiais dėl taikos ir pagalbos."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) sudarė sutartį su Kryžiuočių ordinas (0.94)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "618959-619615; hash=9f4f2f732195124454e25717989b07676511a738ba99a95535e0b0af28d2c1f9; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "sudare_sutarti_su -> Kryžiuočių ordinas: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Vytauto susitarimą su kryžiuočiais."
   pagrindžia:
     - c-168586
 
@@ -1298,22 +525,6 @@ media_all_json: |-
 - t-079
   global_id: t-185226
   teiginys: "Ordino žygūnas pareikalavo atlyginti nuostolius ir atiduoti Žemaitiją, kitaip grasindamas paskelbti karą Lietuvai."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1409 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys sutrumpintas, pašalinti OCR fragmentai ir aiškiai pateikta citatos esmė."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "648557-649146; hash=0e11d42fce60ab963ad12a0c65fc5a953397835309e064a7a5adb12190a5576d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žemaitija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=45"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaitija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-168587
 
@@ -1321,19 +532,6 @@ media_all_json: |-
 - t-080
   global_id: t-185227
   teiginys: "Vytauto pakviesti pasiuntiniai negaišdami atvyko į Žemaitiją ir spalio mėnesį sutvarkė vyskupystės steigimo reikalus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "689439-690135; hash=3d63ae0592ed32c9f47dc760a189785540d77dd963f7cd5e4115695f442e5076; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žemaitija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaitija\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-168588
 
@@ -1341,24 +539,6 @@ media_all_json: |-
 - t-067
   global_id: t-187694
   teiginys: "Leidėjų pastaboje Bychovco kronika vertinama kaip menkas Žemaitijos ir karų su kryžiuočiais istorijos šaltinis."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: po 1441 m.; įvykio data: 1441 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Tai ne kronikos faktas apie Žemaitiją, o šaltinio vertinimas, todėl reikia priskyrimo."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "41436-41784; hash=0befd38b7c9583edda8992bcf6bb1aac5550e91270cb29914a40ec4762747aea; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žemaitija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaitija\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-170633
 
@@ -1366,21 +546,6 @@ media_all_json: |-
 - t-068
   global_id: t-188880
   teiginys: "Narbutas rašo, kad kai kur Žemaitijoje Perkūnaitėlės maldos buvo kreipiamos į Mergelę Mariją, vadintą Panna Marya Perkunatele arba Perkūnija."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "218395-218803; hash=6b6f7b0266fd4604c965b87f20c3d81c8bd3d1afa8ef2ba7441a0b7f1528712c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žemaitija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=37"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaitija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171769
 
@@ -1388,19 +553,6 @@ media_all_json: |-
 - t-069
   global_id: t-188881
   teiginys: "Narbutas nurodo iš Žemaitijos gavęs liaudies padavimo variantą, panašų į jo rinkinyje turėtą pasakojimą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "223500-223913; hash=ae3fbc0eccfebcedd822a9c2da2dfd48398dc7fb05c4473fb29efa8daef033a6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Lietuva: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Žemaitija: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Pripažinimas Lietuvai reiškia Žemaitijos priklausymą Lietuvai."
   pagrindžia:
     - c-171770
 
@@ -1408,21 +560,6 @@ media_all_json: |-
 - t-070
   global_id: t-188883
   teiginys: "Narbutas aiškina, kad aukuras ir apeigos Žemaitijoje išliko dėl Jogailos ir Vytauto pagarbos kunigaikštienei Birutei."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "269929-270472; hash=5b2e5d5e58dc9439184c299e330b32f127b67ba7ac49ad455958c18efbf7e101; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žemaitija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=23"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaitija\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-13T14:18:10Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171772
 
@@ -1430,22 +567,6 @@ media_all_json: |-
 - t-071
   global_id: t-188884
   teiginys: "Narbutas rašo, kad 1583 m. Žemaitijoje apaštalavę jėzuitai aptiko didelių akmenų garbinimo pėdsakų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1583 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Išskleista data, vieta ir veiksmas. Kadangi kalbama apie religines praktikas, teiginys suformuluotas kaip Narbuto pranešimas."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "351515-351999; hash=ea0ab798b9cd9b7a990a87f3e8b72ac34a914502866aa033df15dc0232e0dbe7; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Prūsija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žemaitija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Prūsija: mention_match, place, gap=22"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaitija\" parinktas kaip owner_note_path. Targetas \"Prūsija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-171773
 
@@ -1453,20 +574,6 @@ media_all_json: |-
 - t-072
   global_id: t-188885
   teiginys: "Narbutas pasakoja, kad Glapimino sūnus Sutinkąs ir vaikaitis Dormunimundas valdė Žemaitijoje."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Sutinkąs buvo sūnus Glapiminas (0.93); Sutinkąs valdė Žemaitija (0.90); Dormunimundas valdė Žemaitija (0.90)"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "361734-361980; hash=73f9b86b5b1f5f04cf03eef7c0e370b25c6098b75946181f912f028a4007463a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sunus -> Glapiminas: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Sutinkąs: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Glapiminas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Frazė tiesiogiai nurodo Sutinką kaip Glapimino sūnų."
   pagrindžia:
     - c-171774
 
@@ -1474,23 +581,6 @@ media_all_json: |-
 - t-073
   global_id: t-188886
   teiginys: "Narbutas rašo, kad Liutauro sūnus Vytenis gimė 1232 m. Žemaitijoje, gyveno Ariogaloje ir kartu su tėvu valdė Polocką."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Vytenis gimė Žemaitija (0.95); Vytenis gyveno Ariogala (0.93); Vytenis valdė Polockas (0.88)"
-  temporaliniai_duomenys: "gimimo data: 1232 m.; gyvenimo laikotarpis: 1232 m.; valdymo laikotarpis: 1232 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Vytenis gimė Žemaitija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Vytenis buvo sūnus Liutauras“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Vytenis gyveno Ariogala“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Ilgas biografinis fragmentas sutrauktas į vieną sakinį apie Vytenį ir Žemaitiją. Nepridėta detalių už citatos ribų, o chronologinis pasakojimas paliktas su atribucija."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "362717-363215; hash=80b5fff2485f350cfc6b992a78920c8fb51d71e014a125646a60644af9cc115d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sunus -> Liutauras: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytenis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Liutauras: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Frazė tiesiogiai įvardija Vytenį kaip Liutauro sūnų."
   pagrindžia:
     - c-171775
 
@@ -1498,22 +588,6 @@ media_all_json: |-
 - t-074
   global_id: t-188887
   teiginys: "Narbutas rašo, kad 1814 ar 1815 m. Švėkšnoje, Žemaitijoje, rastą auksinių monetų lobį pasisavino tarnas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1815 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys pritaikytas Žemaitijos įrašui, išlaikant Švėkšnos kontekstą. Pašalintas įvardis ir OCR triukšmas, neperimant spėjimo apie lobio svorį kaip tikro fakto."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "371520-371935; hash=93c4dde38920999ef9f381e90b7c43c1a236bfd70900b4a5da6fb49bfb73c34f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Auksinė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žemaitija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Auksinė: mention_match, place, gap=19"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaitija\" parinktas kaip owner_note_path. Targetas \"Auksinė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-171776
 
@@ -1521,19 +595,6 @@ media_all_json: |-
 - t-075
   global_id: t-188888
   teiginys: "Narbutas pastebi, kad Žemaitijoje Šventosios vardu, regis, vadinti dar keli mažesni upeliai."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "389952-390090; hash=fdacf974c2c9145953e6cc38c9f8c5558727c60f4a5343bc9dd0e5c28cf1cb8a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Liepoja: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žemaitija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Liepoja: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaitija\" parinktas kaip owner_note_path. Targetas \"Liepoja\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-171777
 
@@ -1541,22 +602,6 @@ media_all_json: |-
 - t-076
   global_id: t-188889
   teiginys: "Narbutas remiasi Lasickiu, kad Žemaitijoje ežeras Orthus buvo laikomas dievu."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1397 m.; įvykio data: 1398 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalinta OCR klaida ir išlaikyta Lasickio tarpinė atribucija. Religinis teiginys neformuluojamas kaip neutralus faktas."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "392669-392839; hash=888d6fb6ee1b769495a2862ba8f571922c978006406908738b4f24e3d5e12e39; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žemaitija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaitija\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-171778
 
@@ -1564,19 +609,6 @@ media_all_json: |-
 - t-077
   global_id: t-188890
   teiginys: "Narbutas rašo, kad Dionizas Paškevičius Bardžių dvare Žemaitijoje atrado seną džiūstantį ąžuolą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "407901-408442; hash=fce406ecaf0dbe5c02a4c128e2b524cf70ceb84369d80052852bd2c50fb4227c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Dionizas Paškevičius: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žemaitija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Dionizas Paškevičius: mention_match, person, gap=35"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaitija\" parinktas kaip owner_note_path. Targetas \"Dionizas Paškevičius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-171779
 
@@ -1584,19 +616,6 @@ media_all_json: |-
 - t-078
   global_id: t-188891
   teiginys: "Narbutas perteikia Jucevičiaus pastabą, kad Žemaitijoje prie merdinčio žmogaus garsiai kartota frazė „Gegeile, begaite!“."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "640652-640860; hash=64f38871423d639a11c0e1c8b0f363cc8b04ef24dc7fd703c86a220157ac8451; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "sudare_sutarti_su -> Kryžiuočių ordinas: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Vytauto susitarimą su kryžiuočiais."
   pagrindžia:
     - c-171780
 
@@ -1604,19 +623,6 @@ media_all_json: |-
 - t-079
   global_id: t-190665
   teiginys: "Narbutas spėja, kad šis paprotys buvo paplitęs tik Žemaitijoje, nes tik čia buvusi žinoma Ilgių šventė."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "689929-690380; hash=eda28b3c2f5a470afd5ee744bb0899660a5b3eff0139fe17f6e383658b96a300; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žemaitija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=45"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaitija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-173548
 
@@ -1624,19 +630,6 @@ media_all_json: |-
 - t-080
   global_id: t-190666
   teiginys: "Narbutas Žemaitiją mini kaip paskutinę iš sričių, kurias esą pasiekė ginkluoto atvertimo laikai."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "775518-776410; hash=11cc599f8f4e967b8ab9aa378d5510d5203c0973728832ad1c6926def6a716d6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žemaitija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaitija\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-173549
 
@@ -1644,21 +637,6 @@ media_all_json: |-
 - t-081
   global_id: t-190667
   teiginys: "Narbutas teigia turėjęs Žemaitijoje nuo akmens perpieštą užrašą, kuriame atpažino kelias biarmiškas raides."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "784561-785478; hash=e4277d39dd3aa990e949051ec5059acd5d97ac72f46ae134187591f192ac8183; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Biarmija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žemaitija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Biarmija: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaitija\" parinktas kaip owner_note_path. Targetas \"Biarmija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173550
 
@@ -1666,24 +644,6 @@ media_all_json: |-
 - t-082
   global_id: t-192791
   teiginys: "1583 m. jėzuitai, apaštalaudami Žemaitijoje, aptiko didelių akmenų garbinimo pėdsakų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1583 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Ištaisyta OCR skaidyba ir paliktas aiškus veiksnys, vieta bei rezultatas. Religinis garbinimo kontekstas perteiktas tik tiek, kiek jis yra citatoje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "876877-877086; hash=d9788ce7197c680f16119ff242f55d1f1558e08aa8ea5bd56b3f9351cbed6bcd; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Humboltas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žemaitija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Humboltas: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaitija\" parinktas kaip owner_note_path. Targetas \"Humboltas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175561
 
@@ -1691,14 +651,6 @@ media_all_json: |-
 - t-083
   global_id: t-192792
   teiginys: "Narbutas vaizduoja XVI a. pabaigos ir XVII a. Žemaitiją kaip mažai krikščionių mokytojų turėjusią ir katalikų kunigų stokojusią žemę."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "931348-931854; hash=c7fa4a6f2fbe43958838230e9917ad98ff820e4e158b9f0dcd08f18a755f861b; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175562
 
@@ -1706,14 +658,6 @@ media_all_json: |-
 - t-084
   global_id: t-193264
   teiginys: "Nekrikštyti liko tik žemaičiai."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "230447-230651; hash=2d0e9c9c99291d947239a68ef2b765738e160ec2f64abc2caf2135f071e00cd3; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175994
 
@@ -1721,14 +665,6 @@ media_all_json: |-
 - t-085
   global_id: t-193265
   teiginys: "Jie skelbė katalikybę dar pagoniškiems daugelio Lietuvos, ypač Žemaičių, vietų gyventojams."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "527442-527744; hash=7745ee93e59afef9d3b7d9698cd0b8ab0485c7f0e6db99f535febc95f2e5f9cd; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175995
 
@@ -1736,14 +672,6 @@ media_all_json: |-
 - t-086
   global_id: t-194761
   teiginys: "Kitas pastebėjimas: tokie akmenys tik kai kur, tai yra tik ke liose vietose, buvo rasti toje Žemaitijos dalyje, kur gyveno hiriai ir hendai, tai yra Raseinių bei Upytės apskrityse."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "248863-249176; hash=cf6d67ab28f9b8fce5787aed7cb553bc6297b2714f6e8f9e8be08f729a636aa2; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-177157
 
@@ -1751,14 +679,6 @@ media_all_json: |-
 - t-087
   global_id: t-194762
   teiginys: "Nepai sant visų šių pastangų, XVI amžiaus pabaigoje ir XVII amžiuje Žemaitija dar turėjusi mažai krikščionių mokytojų, be to, plėšo ma kalvinizmo sektantiškumo, jautė labai didelį katalikų kuni gų stygių."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "654884-655398; hash=166cac86ae8ba08517607a9634697e7e491035b071fc5d3d66a03c43760908d3; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-177158
 - susijęs iš [[objektai/ivykiai/Žalgirio mūšis (1410 m.).md#claim-t-63387|Žalgirio mūšis (1410 m.)]]: Prieš Žalgirio mūšį Vokiečių ordinas tebebuvo galinga jėga, kėlusi egzistencinį pavojų Lietuvos valstybei.
@@ -1846,8 +766,8 @@ media_all_json: |-
     šiaurės ir kryžiuočiai iš žiemos vakarų pusės, tuo laiku ypač
     smarkiai puldavo Lietuvą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1870,8 +790,8 @@ media_all_json: |-
     statytų bažnyčių tinklas apėmęs ne tik Lietuvą, bet ir kraštus,
     esančius toliau nuo Lietuvos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1892,8 +812,8 @@ media_all_json: |-
     prie Červinsko, bet, įsikišus popiežiaus pasiuntiniams, paliaubos
     buvo dar metams prailgintos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1916,8 +836,8 @@ media_all_json: |-
     kad savarankiškumas, o ypač nedraugingas Lietuvos pasielgi­
     mas su Lenkija, negalėjo būti jos toleruojamas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1936,8 +856,8 @@ media_all_json: |-
     mę, karvės, kiaulės, naminiai paukščiai ir k. Jaučių daugiau
     buvo laikoma Vilniaus ir Gardino apylinkėse^3 ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1957,8 +877,8 @@ media_all_json: |-
     Lietuva, tai nuo dabar jų visos jėgos buvo koncentruojamos
     Žemaitijai pajungti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1983,8 +903,8 @@ media_all_json: |-
     Šiandieninė Veliuona - tai miestelis, kuriame, kartu su kai­
     mu prie jo, yra apie 160 namų ir dvaras.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2018,8 +938,8 @@ media_all_json: |-
     Thunmano  tyrinėjimai ir prie­
     laidos panašiausios į tiesą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2043,8 +963,8 @@ media_all_json: |-
     nas dalykas, jog Gediminas nuo to laiko su arkivyskupu bu­
     vo susimokęs ir veikė jo patarimų ir planų paisydamas1 5 .
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2062,8 +982,8 @@ media_all_json: |-
     sikrikštijusia Lietuva, Žemaitija vis dar priklausė jam. Ordinas tebebuvo
     galinga jėga, kėlusi egzistencinį pavojų Lietuvos valstybei.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2085,8 +1005,8 @@ media_all_json: |-
     dino Livonijos atšakos pajėgos smogė
     Žemaitijai, daug žmonių išsivedė į nelaisvę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2101,8 +1021,8 @@ media_all_json: |-
     1251 m. Mindaugas krikštijosi, mainais perleidęs didelę dalį Žemaiti-
     jos Livonijos ordinui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2122,8 +1042,8 @@ media_all_json: |-
     driaus Algirdaičio vietoje į Polocko kunigaikštystę pasiuntė
     tikrą brolį Skirgailą, buvo prieita iki atviro susirėmimo30.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2143,8 +1063,8 @@ media_all_json: |-
     įkurdinami sodžiais, tiksliai suskirsčius jų žemes, kas padėjo su­
     sidaryti vėlesnei Zigmanto Augusto valakų sistemai^3 ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2159,8 +1079,8 @@ media_all_json: |-
     ir grėsmės Lietuvai nebekėlė. Atėjo metas Lietuvos ir Lenkijos santykių
     problemai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2177,8 +1097,8 @@ media_all_json: |-
     karuose sklido paskviliai apie „netikrą“ Jogailos ir Vytauto pergalę, nes
     jie nugalėjo pasitelkę pagonis, totorius musulmonus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2197,8 +1117,8 @@ media_all_json: |-
     Iki gegužės sukilėliai perėmė valdžią bemaž visoje teritorijoje į vakarus ir
     šiaurę nuo Vilniaus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2226,8 +1146,8 @@ media_all_json: |-
     4
     Žr. I priedą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2246,8 +1166,8 @@ media_all_json: |-
     ją, sukurti Lietuvos stačiatikių metropoliją ar vyskupiją ir šią sujungti su
     Katalikų bažnyčia.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2265,8 +1185,8 @@ media_all_json: |-
     Po Mindaugo nužudymo būta didžiulės sumaišties: per kelerius metus
     Lietuvoje nužudyti dar trys dėl valdžios kovoję kunigaikščiai, vienas išvytas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2283,8 +1203,8 @@ media_all_json: |-
     laikus. Tas paveikslas yra statiškas, be laiko perspektyvos ir be
     evoliucijos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2306,8 +1226,8 @@ media_all_json: |-
     fanatizmą, kuriuo buvo dangstomas Vakarų Europos pasaulietinių  ir bažnytinių
     feodalų siekimas išplėsti ir užkariautose žemėse užtikrinti feodalinį išnaudojimą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2320,8 +1240,8 @@ media_all_json: |-
     jos Livonijos ordinui. Svarbiausias tikslas, kurio siekta krikštijantis, – ka-
     rūna.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2349,8 +1269,8 @@ media_all_json: |-
     gesnį žygį, kurio tikslas jau buvo ne tik apiplėšti Lietuvą,
     tačiau užimti jos sostinę ir įkurdinti ten Vytautą21.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2368,8 +1288,8 @@ media_all_json: |-
     bei Skalva, bet ir Semba yra dalis Žemaitijos, kad tai tik atskiri lietuvių kalbos dialektai;
     vakarinių baltų, arba prūsų, kalba laikyta, tik lietuvių kalbos tarme4.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2387,8 +1307,8 @@ media_all_json: |-
     nesnio ir pajėgesnio feodalizmo kūrėjas, sykiu ir miestų savo
     šalyje įkūrėjas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2408,8 +1328,8 @@ media_all_json: |-
     ryšius su Lenkija, o XV–XVI a. perėmė
     krikščionišką Vakarų kultūrą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2431,8 +1351,8 @@ media_all_json: |-
     patraukė  į Dobrynės kunigaikštystę, gindama Mazoviją, kurią norėta  išlaikyti savo
     pusėje56.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2449,8 +1369,8 @@ media_all_json: |-
     dauguma, tad atsišaukimuose lenkų ir lietuvių (žemaičių) kalbomis keltas
     ir reikalavimas paleisti valstiečius iš baudžiavos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2474,8 +1394,8 @@ media_all_json: |-
     Karelijoje, tarp vietinių gyventojų.
     Žr. P e t r i Olai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2494,8 +1414,8 @@ media_all_json: |-
     jau ne vien religinė, bet ir politinė autoriaus tendencija, nes nuolat pabrėždamas dievo
     pagalbą kryžiuočių veiksmams, jis juos visur teisino ir skatino.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2516,8 +1436,8 @@ media_all_json: |-
     te, tai yra aukštesnė žemė palyginus
     su Žemaitija.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2538,8 +1458,8 @@ media_all_json: |-
     Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad ta
     klebonija tapo išties reikšmingiausia Žemaitijoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2560,8 +1480,8 @@ media_all_json: |-
     atlaikęs senolis, o prieš jį Jogailos pulkas, kartu su broliu
     Skirgaila ir kryžiuočių pulkais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2579,8 +1499,8 @@ media_all_json: |-
     lijo grobį – belaisvius, Ordino komtūrų barzdas, vėliavas, taip pat Ordino
     teritoriją – taigi Lietuva – lygiavertė su Lenkija Žalgirio mūšio laimėtoja.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2597,8 +1517,8 @@ media_all_json: |-
     kurio pasitraukė keli šimtai universiteto studentų ir įsiliejo į su­
     kilėlių gretas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2618,8 +1538,8 @@ media_all_json: |-
     apsikrikštijimo regionu – šiais įvykiais bai-
     gė formuotis krikščioniškoji Europa.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2637,8 +1557,8 @@ media_all_json: |-
     krikščioniškąja Livonija, o kartu Vakarų jėgų ir popiežiaus akyse išlaikyti
     krikščionio valdovo statusą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2657,8 +1577,8 @@ media_all_json: |-
     būtent Žalgirio mūšyje buvo pakirsta Ordino hegemonija, jis nebekėlė
     egzistencinės grėsmės nei Lenkijai, nei Lietuvai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2677,8 +1597,8 @@ media_all_json: |-
     tetą – 1422 m. Vokiečių ordinas galutinai atsisakė pretenzijų į Žemaitiją
     ir grėsmės Lietuvai nebekėlė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2702,8 +1622,8 @@ media_all_json: |-
     nusiaubus Sembą, buvo apsuptas Karaliaučiaus mies­
     tas, čekų karaliaus Otokaro visai neseniai įkurtas.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2727,8 +1647,8 @@ media_all_json: |-
     čiai, įsivėlę į vidaus karą, nebegalėjo nė galvoti apie
     kerštą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2750,8 +1670,8 @@ media_all_json: |-
     kinta per pačią šventosios Agnetės šventę. Pats va­
     das, praradęs kariuomenę, pateko į priešų rankas.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2784,8 +1704,8 @@ media_all_json: |-
     dienas, jokie vaistai negalėdavo išgelbėti nuo artėjan­
     čios mirties.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2814,8 +1734,8 @@ media_all_json: |-
     gą, nedrįso nei ginklu pulti priešo, nei praleisti lietu­
     vių, žygiuojančių į priešų šalį.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2834,8 +1754,8 @@ media_all_json: |-
     buvo priešo ir liepsnų sunaikintos, o truputį anksčiau
     Pūtvės pilį išdavė jos seniūnas Spūdas.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2853,8 +1773,8 @@ media_all_json: |-
     nusiaubė Žemaitiją. Didelį kraštą — Vaikių, Raseinių,
     Ariogalos ir Klogėnų valsčius jis sulygino su žeme.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2878,8 +1798,8 @@ media_all_json: |-
     Šamotulų, Varsas iš Michovo, Ostrorogas, Pilikas, Bo-
     gušas ir kiti didikai.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2906,8 +1826,8 @@ media_all_json: |-
     nę ir pasakytų, ar ryžtasi ginti Vytautą, ar, jo neužtar­
     damas, saugoti neseniai su kryžiuočiais sudarytą taiką.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2948,8 +1868,8 @@ media_all_json: |-
     sutvarkyti kunigaikštystėje pagal bažnytinio suvažia­
     vimo nutarimą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2967,8 +1887,8 @@ media_all_json: |-
     tos pusės, Žemaitija tuo metu nebuvo ir kokių nors
     svarbių ¡vykių, pvz., karų arena.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2986,8 +1906,8 @@ media_all_json: |-
     na Panna Marya Perkunatele arba Perkūnija. Net būta papro­
     čio vadinti švente Maloningosios Dievo motinos švente.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3005,8 +1925,8 @@ media_all_json: |-
     pyti, arba visiškai užmiršti, pavyzdžiui, neaišku, kieno duktė
     buvo deivė, kaip vadinosi vyriausiasis dievas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3026,8 +1946,8 @@ media_all_json: |-
     senuosius prietarus, dar jai gyvai esant, ėmė garbinti ją kaip
     deivę, juk ir Strijkovskis tą patvirtina.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3047,8 +1967,8 @@ media_all_json: |-
     vimų ir pasakojimų apie panašius akmenis, garbinamus ir pas
     mus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3063,8 +1983,8 @@ media_all_json: |-
     vaikaitis Dormunimundas valdė Žemaitijoje. Šiojo sūnus Liu­
     tauras, jūrų karžygys, 1262 metais atstatė senovinę Ariogalą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3084,8 +2004,8 @@ media_all_json: |-
     gaikštystę kartu su savo tėvu. Tebesitęsiančios tarpusavio ko­
     vos Lietuvoje buvo daugelio valstybės permainų priežastis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3103,8 +2023,8 @@ media_all_json: |-
     turėjo būti keliolika svarų. Tas žmogus pabėgo į užsienį, ir bran­
     gios senovės liekanos nežinia kur dingo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3118,8 +2038,8 @@ media_all_json: |-
     kanti į jūrą. Atrodo, Žemaitijoje šitaip vadinami dar keli ma­
     žesni upeliai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3134,8 +2054,8 @@ media_all_json: |-
     3. Lasickis sako, kad Žemaitijoje ežeras Orthus buvo lai­
     komas dievu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3155,8 +2075,8 @@ media_all_json: |-
     lių skersmenį, kuriame dabar jis laiko retų senienų kolekciją
     ir istorijos veikalus apie krašto praeitį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3171,8 +2091,8 @@ media_all_json: |-
     šiandien (Žemaitijoje?), kai tik žmogus ima merdėti, visi ten su­
     sirinkę garsiai kalba tą frazę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3192,8 +2112,8 @@ media_all_json: |-
     vo šventoje vietoje, tai yra ant kapų, kur jas surankiodavo pa­
     vargėliai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3219,8 +2139,8 @@ media_all_json: |-
     liepos 28 dieną; jis buvo 74-asis iš eilės ir su juo baigėsi lietu­
     vių stabmeldystė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3252,8 +2172,8 @@ media_all_json: |-
     pasitaikyti atradimų, liudijančių, jog pas mus Biarmijos raidy­
     nas buvo plačiau pažįstamas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3272,8 +2192,8 @@ media_all_json: |-
     i
     Bomplanda.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3293,8 +2213,8 @@ media_all_json: |-
     rado apie šešis tūkstančius neapkrikštytų valstiečių, tarp kurių
     buvo ir nemažai šimtamečių senolių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3311,8 +2231,8 @@ media_all_json: |-
     Jogaila važinėdamas krikštijo visas kitas žymesnes Lietuvos vie-
     tas. Nekrikštyti liko tik žemaičiai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3328,8 +2248,8 @@ media_all_json: |-
     Kad sėkmingiau eitų darbas, jie sakydavo pamokslus lietuviškai,
     o vėliau net pradėjo spausdinti lietuviškas knygas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3346,8 +2266,8 @@ media_all_json: |-
     religinės apeigos, kurias atnešė ateiviai iš Brandenburgo (apie
     juos dar teks pakalbėti).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3366,8 +2286,8 @@ media_all_json: |-
     joje ėmė žvalgytis ir rado apie šešis tūkstančius neapkrikštytų vals­
     tiečių, tarp kurių buvo ir nemažai šimtamečių senolių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3871,7 +2791,8 @@ media_all_json: |-
 - id: c-112507
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 5"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 5."
   citata_originali: |
     Trečia kronikos dalis — didžiausia —skirta prūsų žemių užkariavimui
     ir kovai prieš Lietuvą. Autentiški faktai atskleidžia žiaurią, beatodairišką vokiečių
@@ -3938,7 +2859,8 @@ media_all_json: |-
 - id: c-112511
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 8"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 8."
   citata_originali: |
     atsižvelgti į keletą momentų. Kai kurie tyrinėtojai Petro iš Dusburgo aprašytą teritoriją,
     pietvakariuose ribojamą Osos ir Vyslos, nuo Pamedės ligi Skalvos prie Nemuno apibūdina
@@ -4002,7 +2924,8 @@ media_all_json: |-
 - id: c-112518
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 14"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 14."
   citata_originali: |
     XIV a. 3-iajame dešimtmetyje, kai rašė savo kroniką Dusburgietis, Lietuva, tęsdama
     ginklo kovą prieš Vakarų Europos feodalų agresiją, 1320 m. liepos 27 d. Medininkų
@@ -4073,7 +2996,8 @@ media_all_json: |-
 - id: c-112522
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 17"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 17."
   citata_originali: |
     Traukianti iš Lietuvos didelė brolių kariuomenė, dievo padedama,
     vidurnaktį sėkmingai perėjo per skylantį Nemuno ledą (III, 256); viešpats panašiai juos
@@ -4304,7 +3228,8 @@ media_all_json: |-
 - id: c-168580
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 104"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 104."
   citata_originali: |
     Ka­
     dangi miestą gynė rinktinių karių įgula, apsuptis
@@ -4416,7 +3341,8 @@ media_all_json: |-
 - id: c-168584
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 185"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 185."
   citata_originali: |
     Sutelktu būriu užgriuvę iš pasalų nieko nenu-
     jaučiančius, beveik visus išžudė. Vėliau, ir tais pačiais,
@@ -4436,7 +3362,8 @@ media_all_json: |-
 - id: c-168585
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 205"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 205."
   citata_originali: |
     Mat popiežius krikščionių žemėse buvo paskelbęs edik­
     tą, kuriuo krikščionys, žadant nuodėmių atleidimą, bu­
@@ -4455,7 +3382,8 @@ media_all_json: |-
 - id: c-168586
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 355"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 355."
   citata_originali: |
     Pirmiausia jis susitarė su
     kryžiuočiais, kurie ne tik pasižadėjo laikytis taikos, kai
@@ -4480,7 +3408,8 @@ media_all_json: |-
 - id: c-168587
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 371"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 371."
   citata_originali: |
     Nenorėdami, kad atrody-
     1409 m e ta i
@@ -4550,7 +3479,8 @@ media_all_json: |-
 - id: c-170633
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 22"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 22."
   citata_originali: |
     Tačiau iš viso Žemaitijos ir karų su kry­
     žiuočiais istorijai pažinti Bychovco kronika yra men­
@@ -4569,7 +3499,8 @@ media_all_json: |-
 - id: c-171769
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 124"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 124."
   citata_originali: |
     Žemdirbiai garbino šią deivę kaip oro per­
     mainų valdovę; ypač valstietės maldaudavo jos, kad apgintų
@@ -4588,7 +3519,8 @@ media_all_json: |-
 - id: c-171770
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 127"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 127."
   citata_originali: |
     Beveik tokį patį, kaip užrašytasis Edoje, pasakojimą ap­
     tinkame mūsų kaimiečių padavimuose. Turiu jį savajame se­
@@ -4607,7 +3539,8 @@ media_all_json: |-
 - id: c-171772
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 155"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 155."
   citata_originali: |
     Patys kryžiuočiai tą vietą visuomet palikdavo neliestą:
     viena, tikėdami kažkokiais pranašavimais, antra, dėl tos ug­
@@ -4628,7 +3561,8 @@ media_all_json: |-
 - id: c-171773
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 207"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 207."
   citata_originali: |
     Amerikos indėnai išsaugojo at­
     mintį apie akmenų garbinimą, nes jie, kaip sako vienas keliau­
@@ -4649,7 +3583,8 @@ media_all_json: |-
 - id: c-171774
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 213"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 213."
   citata_originali: |
     Kai XII amžiuje kunigaikštis užkariavo šitą šalį, Imino vaikai­
     tis Glapiminas sugrįžo atgal į Lietuvą. Jo sūnus Sutinkąs, o
@@ -4665,7 +3600,8 @@ media_all_json: |-
 - id: c-171775
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 213"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 213."
   citata_originali: |
     O Lietu­
     vos ponai 1264 metais visuotiniame suvažiavime, jau po Tre­
@@ -4686,7 +3622,8 @@ media_all_json: |-
 - id: c-171776
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 218"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 218."
   citata_originali: |
     Kartą man pasitaikė nupirkti auksinę monetą, kuri pavaiz­
     duota natūralaus dydžio III lentelės 17-ajame piešinyje. Ji iš
@@ -4705,7 +3642,8 @@ media_all_json: |-
 - id: c-171777
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 228"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 228."
   citata_originali: |
     3. Tarp Palangos ir Liepojos yra Šventoji (Šwięta) upė, įte­
     kanti į jūrą. Atrodo, Žemaitijoje šitaip vadinami dar keli ma­
@@ -4720,7 +3658,8 @@ media_all_json: |-
 - id: c-171778
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 229"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 229."
   citata_originali: |
     Šventų ežerų yra taip pat Nemuno kairiajame krante,
     kur ir miestelis [Šventežeris] turi tokį vardą.
@@ -4736,7 +3675,8 @@ media_all_json: |-
 - id: c-171779
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 237"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 237."
   citata_originali: |
     Neseniai buvo aptiktas kadaise milžiniškas ir labai senas
     jau benudžiūstantis ąžuolas; kadangi jis išliko, todėl teisingai
@@ -4757,7 +3697,8 @@ media_all_json: |-
 - id: c-171780
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 362"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 362."
   citata_originali: |
     Jucevičius pataiso Strijkovskį: „ Gegei-
     le, begaite!“, vietoje „ Ginkiet, Biekiet, Pikole!“, ir priduria, kad
@@ -4773,7 +3714,8 @@ media_all_json: |-
 - id: c-173548
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 386"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 386."
   citata_originali: |
     Kam patinka, gali pasiimti, kas palikta. Sis
     paprotys turėjo būti paplitęs tik Žemaitijoje, kadangi tik čia tu­
@@ -4794,7 +3736,8 @@ media_all_json: |-
 - id: c-173549
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 429"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 429."
   citata_originali: |
     Nuo vienuoliktojo amžiaus pabaigos ėmė smukti autori­
     tetas vyriausiojo žynio, Krivių Krivaičio, kurio valdžia anks­
@@ -4854,7 +3797,8 @@ media_all_json: |-
 - id: c-175561
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 480"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 480."
   citata_originali: |
     Net pasikeitus apšvietai ir religijai,
     indėnai akmenis laikė talismanais1. 1583 metais jėzuitai, apašta­
@@ -4874,7 +3818,8 @@ media_all_json: |-
 - id: c-175562
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 503"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 503."
   citata_originali: |
     O tai, autoriaus žo­
     džiais tariant, turėjo būti velnias. Nepaisant visų šių pastangų,
@@ -4930,7 +3875,8 @@ media_all_json: |-
 - id: c-177157
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 142"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 142."
   citata_originali: |
     Iszskalbk man amzuliali.
     Kitas pastebėjimas: tokie akmenys tik kai kur, tai yra tik ke­
@@ -4948,7 +3894,8 @@ media_all_json: |-
 - id: c-177158
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 369"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 369."
   citata_originali: |
     O tai, autoriaus žodžiais tariant, turėjo būti velnias. Nepai­
     sant visų šių pastangų, XVI amžiaus pabaigoje ir XVII amžiuje
@@ -4966,7 +3913,7 @@ media_all_json: |-
     - t-194762
 
 ## Ryšiai
-- Buvo valdoma: [[objektai/asmenys/Dormunimundas]], [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Sutinkąs]], [[objektai/asmenys/Trobius]], [[objektai/grupes/Vokiečių ordinas]]
+- Buvo valdoma: [[objektai/asmenys/Dormunimundas]], [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Sutinkąs]], [[objektai/grupes/Vokiečių ordinas]]
 - Buvo kelionės vieta: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - Gimimo vieta: [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]]
 - Puolė Žemaitiją: [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Vokiečiai]]

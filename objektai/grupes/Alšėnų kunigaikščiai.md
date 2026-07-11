@@ -43,16 +43,6 @@ Be to, stačiatikybę priėmė net ir valstybės branduolyje tėvonijas turintys
 - t-001
   global_id: t-74068
   teiginys: "Alšėnų kunigaikščiai, turėję tėvonijų valstybės branduolyje ir nepriklausę Gediminaičių dinastijai, priėmė stačiatikybę."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "64879-65368; hash=90c13d05af773dcc5cc1158ffc3cc56d40ee10a79431d1803a4452c18b356101; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Alšėnai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Alšėnų kunigaikščiai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Alšėnai: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Alšėnų kunigaikščiai\" parinktas kaip owner_note_path. Targetas \"Alšėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-22329
 
@@ -60,16 +50,6 @@ Be to, stačiatikybę priėmė net ir valstybės branduolyje tėvonijas turintys
 - t-002
   global_id: t-74069
   teiginys: "Alšėnų kunigaikščiai priėmė stačiatikybę, nors turėjo tėvonijų valstybės branduolyje ir nebuvo kilę iš Gediminaičių dinastijos."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "65043-65505; hash=3ac660b14d01a467d1dc579cee739028b26f4faaae31a61cb685a1cd6b36a920; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Alšėnai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Alšėnų kunigaikščiai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Alšėnai: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Alšėnų kunigaikščiai\" parinktas kaip owner_note_path. Targetas \"Alšėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-72148
 
@@ -77,24 +57,6 @@ Be to, stačiatikybę priėmė net ir valstybės branduolyje tėvonijas turintys
 - t-003
   global_id: t-187703
   teiginys: "Alšėnų kunigaikščio Jono Algimantaičio sūnus Andrius Algimantaitis po Skirgailos mirties buvo Vytauto vietininkas Kijeve."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1401 m.; įvykio data: 1433 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie Alšėnų kunigaikščių giminės narį ir jo pareigas Kijeve. Nepridėta mirties ar pirmojo paminėjimo informacija."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "474784-475155; hash=fa433c5dc783ea3f77db6e3e871d22586a00b7e126906fcb7507547a722d9a7d; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Alšėnai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Alšėnų kunigaikščiai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Alšėnai: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Alšėnų kunigaikščiai\" parinktas kaip owner_note_path. Targetas \"Alšėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-170642
 - susijęs iš [[objektai/grupes/Sanguškos.md#claim-t-183181|Sanguškos]]: Sanguškos kilo iš periferinių sritinių žemių kunigaikščių ir tapo viena iš garsių vėlesnių laikų LDK giminių.
@@ -119,8 +81,8 @@ Be to, stačiatikybę priėmė net ir valstybės branduolyje tėvonijas turintys
     gaikščiai, kilę ne iš valdančiosios Gediminaičių dinastijos, pavyzdžiui,
     Alšėnų kunigaikščiai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -139,8 +101,8 @@ Be to, stačiatikybę priėmė net ir valstybės branduolyje tėvonijas turintys
     senrusių Riurikaičių dinastijos kunigaikščiai buvo išstumti iš politinio
     gyvenimo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -157,8 +119,8 @@ Be to, stačiatikybę priėmė net ir valstybės branduolyje tėvonijas turintys
     organizatorius sąmokslo (1432), iškalusio didžiuoju kunigaikščiu Vy­
     tauto broli Žygimantą KąstulaitĮ.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

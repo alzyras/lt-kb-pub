@@ -55,20 +55,6 @@ Nenurodyta
 - t-001
   global_id: t-62527
   teiginys: "1239 m. Prancūzijos karalius Liudvikas perkėlė Viešpaties erškėčių vainiką iš Konstantinopolio į Paryžių."
-  teiginio_tipas: "faktas"
-  temporaliniai_duomenys: "įvykio data: 1239 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys pagrįstas, bet reikia pašalinti triukšmą ir suformuluoti aiškų sakinį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "699036-699226; hash=e828013d0f34a0d1576d88ccbbf1236003950aec7441a40e9b81aa7f197f6ea5; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Konstantinopolis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Viešpaties erškėčių vainiko perkėlimas į Paryžių (1239 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Konstantinopolis: mention_match, place, gap=31"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Viešpaties erškėčių vainiko perkėlimas į Paryžių (1239 m.)\" parinktas kaip owner_note_path. Targetas \"Konstantinopolis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-63216
 
@@ -76,20 +62,6 @@ Nenurodyta
 - t-001
   global_id: t-62527
   teiginys: "1239 m. Prancūzijos karalius Liudvikas perkėlė Viešpaties erškėčių vainiką iš Konstantinopolio į Paryžių."
-  teiginio_tipas: "faktas"
-  temporaliniai_duomenys: "įvykio data: 1239 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys pagrįstas, bet reikia pašalinti triukšmą ir suformuluoti aiškų sakinį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "699036-699226; hash=e828013d0f34a0d1576d88ccbbf1236003950aec7441a40e9b81aa7f197f6ea5; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Konstantinopolis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Viešpaties erškėčių vainiko perkėlimas į Paryžių (1239 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Konstantinopolis: mention_match, place, gap=31"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Viešpaties erškėčių vainiko perkėlimas į Paryžių (1239 m.)\" parinktas kaip owner_note_path. Targetas \"Konstantinopolis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-63216
 
@@ -97,12 +69,6 @@ Nenurodyta
 - t-003
   global_id: t-194431
   teiginys: "Apie viešpaties erškėčių vainiko perkėlimą 1239 viešpaties metais Liudvikas, Prancūzijos karalius, perkėlė iš Konstantinopolio į Paryžių viešpaties erškėčių vainiką (Ptol."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "699036-699226; hash=e828013d0f34a0d1576d88ccbbf1236003950aec7441a40e9b81aa7f197f6ea5; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-63216
 ## Reikšmingi paminėjimai
@@ -119,8 +85,8 @@ Nenurodyta
 
     27.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -133,7 +99,8 @@ Nenurodyta
 - id: c-63216
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 229"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 229."
   citata_originali: |
     Apie viešpaties erškėčių vainiko perkėlimą
 

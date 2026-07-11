@@ -30,14 +30,6 @@ Teodoro Narbuto pasakojime Prajus tą patį klausimą aiškino remdamasis Ptolem
 - t-001
   global_id: t-191455
   teiginys: "Teodoro Narbuto pasakojime Prajus tą patį klausimą aiškino remdamasis Ptolemėjo raštuose nubraižytu žemėlapiu."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "182890-183244; hash=f241aba5a9e5697b3e4fb79c12537dbfda93b5c8ae51acf04b980b35a485f35c; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174337
 ## Reikšmingi paminėjimai
@@ -54,8 +46,8 @@ Teodoro Narbuto pasakojime Prajus tą patį klausimą aiškino remdamasis Ptolem
     ten, kur yra Kijevas, yra ta pati graikų-skitų gentis kaip
     ir Geniui, neva net atsikėlusi iš Chijo salos2.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -66,7 +58,8 @@ Teodoro Narbuto pasakojime Prajus tą patį klausimą aiškino remdamasis Ptolem
 - id: c-174337
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 102"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 102."
   citata_originali: |
     Tai pasakoja Amia-
     nas Marcelinas1. Prajus** vėlgi kalba apie tą patį, žiūrė­

@@ -30,21 +30,6 @@ Narbutas rašo, kad Peutingerio žemėlapis prie Juodosios jūros buvusią antų
 - t-001
   global_id: t-191851
   teiginys: "Narbutas rašo, kad Peutingerio žemėlapis prie Juodosios jūros buvusią antų gentį vadina venedais."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "172522-172744; hash=cc62c4f2dbd603964b89f3f962be0d682875e1a6dfe90e516183d8d4992e4792; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Venedai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Peutingerio žemėlapis: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Venedai: mention_match, group, gap=69"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Peutingerio žemėlapis\" parinktas kaip owner_note_path. Targetas \"Venedai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174733
 ## Reikšmingi paminėjimai
@@ -59,8 +44,8 @@ Narbutas rašo, kad Peutingerio žemėlapis prie Juodosios jūros buvusią antų
     dina venedais. Strabonas kalba apie belgų venedus šian­
     dieniuose Nyderlanduose.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -71,7 +56,8 @@ Narbutas rašo, kad Peutingerio žemėlapis prie Juodosios jūros buvusią antų
 - id: c-174733
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 96"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 96."
   citata_originali: |
     Italijoje būta venetų prie
     Adrijos jūros; jie kildinami iš trojėnų1. Prie Juodosios

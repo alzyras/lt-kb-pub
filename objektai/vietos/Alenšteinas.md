@@ -42,16 +42,6 @@ media_all_json: |-
 - t-002
   global_id: t-51349
   teiginys: "Kariuomenės taryba nutarė pro Alenšteiną apeiti Drevencos upę ir tolimesniu keliu pasiekti Marienburgą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "220841-221126; hash=a948cc89d83db6c2419359c978988364de47a65637ecbb7b57f4ee5caeb10b3a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Drevenca: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Alenšteinas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Drevenca: mention_match, place, gap=18"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Alenšteinas\" parinktas kaip owner_note_path. Targetas \"Drevenca\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-37285
 
@@ -59,16 +49,6 @@ media_all_json: |-
 - t-001
   global_id: t-51350
   teiginys: "Žygio planuotojai nutarė pro Alenšteiną apeiti Drevencos upę ir tolimesniu keliu pasiekti Marienburgą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "220841-221126; hash=a948cc89d83db6c2419359c978988364de47a65637ecbb7b57f4ee5caeb10b3a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Drevenca: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Alenšteinas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Drevenca: mention_match, place, gap=18"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Alenšteinas\" parinktas kaip owner_note_path. Targetas \"Drevenca\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-37285
 - susijęs iš Drevenca: Sąjungininkai nutarė apeiti Drevencos upę pro Alenšteiną, kad tolimesniu keliu pasiektų Marienburgą.
@@ -90,8 +70,8 @@ media_all_json: |-
     upę ir, nors tolimesniu keliu, pasiekti Marienburgą. Buvo tuo­
     jau surasti vadovai ir nustatytas kelias.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

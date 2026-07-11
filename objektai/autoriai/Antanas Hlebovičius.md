@@ -30,21 +30,6 @@ Narbutas mini Hlebovičiaus „Vytauto gyvenimą“ kaip Onacevičiaus pastabose
 - t-001
   global_id: t-192519
   teiginys: "Narbutas mini Hlebovičiaus „Vytauto gyvenimą“ kaip Onacevičiaus pastabose nurodytą šaltinį svarstant senųjų Lietuvos kronikų patikimumą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "52167-52995; hash=2cb88349a3195ea59c9ce7c57be37a0ccf1a249064efea65437c651cc7b7c5b8; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Ignacas Onacevičius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Antanas Hlebovičius: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Ignacas Onacevičius: mention_match, author, gap=37"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Hlebovičius\" parinktas kaip owner_note_path. Targetas \"Ignacas Onacevičius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175307
 ## Reikšmingi paminėjimai
@@ -70,8 +55,8 @@ Narbutas mini Hlebovičiaus „Vytauto gyvenimą“ kaip Onacevičiaus pastabose
     1 Hlebovičiaus „Vytauto gyvenimas“. P. 116 (Onacevičiaus pas­
     tabos)***.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -82,7 +67,8 @@ Narbutas mini Hlebovičiaus „Vytauto gyvenimą“ kaip Onacevičiaus pastabose
 - id: c-175307
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 31"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 31."
   citata_originali: |
     Todėl vieni tiesiog
     priimdavo kronikininkų geriau išdėstytas išvadas apie

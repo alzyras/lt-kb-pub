@@ -30,20 +30,6 @@ Pasidavus Bobrovnikams ir išdavus Bidgoščių, po aštuonių dienų apsupties 
 - t-001
   global_id: t-185281
   teiginys: "Pasidavus Bobrovnikams ir išdavus Bidgoščių, po aštuonių dienų apsupties buvo užimta Zlotorija."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Kryžiuočių ordinas užėmė Zlotorija (0.78)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "651103-651346; hash=6e5d0e7c98d30a3fce5aa2d487a8ab75606f8649aeb1b34dde85aa7ade279bfe; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Zlotorija: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Zlotorija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Zlotorijos užėmimas tiesiogiai minimas, o subjektas siejamas su tame pačiame sakinyne įvardyta kryžiuočių sėkme."
   pagrindžia:
     - c-168642
 - susijęs iš Zlotorija: Zlotorija buvo užimta po aštuonių dienų apsupties, pasidavus Bobrovnikams ir išdavus Bidgoščių.
@@ -66,8 +52,8 @@ Pasidavus Bobrovnikams ir išdavus Bidgoščių, po aštuonių dienų apsupties 
     kryžiuočių sėkmę, įsakė visoms Lenkijos žemėms stoti
     į kovą su Prūsija.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -78,7 +64,8 @@ Pasidavus Bobrovnikams ir išdavus Bidgoščių, po aštuonių dienų apsupties 
 - id: c-168642
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 372"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 372."
   citata_originali: |
     Žiau­
     riai nusiaubė Lipną ir Ripiną. Kai pasidavė Bobrovnikai

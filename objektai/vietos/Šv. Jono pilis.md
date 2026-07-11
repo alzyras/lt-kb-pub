@@ -33,12 +33,6 @@ Elzbietos diena 348 Šv. Jono diena 336 Šv. Jono pilis 315 Šv.
 - t-001
   global_id: t-194990
   teiginys: "Elzbietos diena 348 Šv. Jono diena 336 Šv. Jono pilis 315 Šv."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1097099-1097160; hash=b0420460ec6bb2e76bda1a74493cf88a67a04f8ed8dd782cfbab6b57d6c06a48; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177373
 ## Reikšmingi paminėjimai
@@ -52,8 +46,8 @@ Elzbietos diena 348 Šv. Jono diena 336 Šv. Jono pilis 315 Šv.
     Šv. Jono pilis 315
     Šv.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

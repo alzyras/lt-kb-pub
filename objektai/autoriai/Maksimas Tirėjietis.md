@@ -30,22 +30,6 @@ Narbutas Perkūno stabus lygina su Maksimo Tirėjiečio aprašytais senoviniais 
 - t-001
   global_id: t-190439
   teiginys: "Narbutas Perkūno stabus lygina su Maksimo Tirėjiečio aprašytais senoviniais Jupiterio stabais iš ąžuolo."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Perkūno stabai priklausė Romovė (0.68)"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "418916-419516; hash=4206ec22d6e2bd2cbab7612f74f205bd8d1b90f36bb902eade8fb1bedbf14d3c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Romovė: 0.68"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Perkūno stabai: llm_allowed_candidate, thing"
-  ryšio_targeto_parinkimas: "Romovė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata nurodo, kad Perkūno stabas stovėjo Romovės šventykloje, todėl objektas siejamas su Romove kaip priklausantis jos šventyklai."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173322
 ## Reikšmingi paminėjimai
@@ -67,8 +51,8 @@ Narbutas Perkūno stabus lygina su Maksimo Tirėjiečio aprašytais senoviniais 
     stabų -  Perkūno, Atrimpo ir Pokliaus; šventyklos aptvaro at­
     skirose nišose -  kitų dievų stabai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -79,7 +63,8 @@ Narbutas Perkūno stabus lygina su Maksimo Tirėjiečio aprašytais senoviniais 
 - id: c-173322
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 243"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 243."
   citata_originali: |
     Man
     atrodo, kad tai buvo Santvara, vadinto Gabija, arba ugnies

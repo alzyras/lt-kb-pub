@@ -42,19 +42,6 @@ VORSKLOS KATASTROFA 313 Sviatoslavo sūnūs — Jogailai paklusnumą žadėjęs 
 - t-001
   global_id: t-30263
   teiginys: "Vytautas pasiuntė belaisvį Hlebą į Krokuvą, o po to užėmė Smolensko leną Viazmą."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) užėmė Smolenskas (0.93); Vytautas (Lietuvos valdovas, XIV–XV a.) užėmė Viazma (0.93)"
-  temporaliniai_duomenys: "įvykio data: 1396 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "854851-855371; hash=d74ec3c305630562fc5331a34b919dc2dc906bcd1434468b1336690db1dc629d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Smolenskas: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Smolenskas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Vytautas užėmė Smolenską."
   pagrindžia:
     - c-32739
 
@@ -62,17 +49,6 @@ VORSKLOS KATASTROFA 313 Sviatoslavo sūnūs — Jogailai paklusnumą žadėjęs 
 - t-002
   global_id: t-30264
   teiginys: "Hlebas žuvo Vytauto pusėje prie Vorsklos kartu su kitais Riurikaičiais."
-  semantiniai_rysiai: "Hlebas mirė Vorskla (0.86)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "872585-872860; hash=6844230f7b627c27ca566d83af5f3a1ecf517ca620c2f8fb17193f5ad3bb8b81; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "mire -> Vorskla: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Hlebas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vorskla: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekste nurodyta, kad Hlebas žuvo prie Vorsklos."
   pagrindžia:
     - c-32738
 - susijęs iš [[objektai/ivykiai/Smolensko užėmimas (1395 m. rugsėjo 28 d.).md#claim-t-34497|Smolensko užėmimas (1395 m. rugsėjo 28 d.)]]: 1395 m. rugsėjo 28 d. lietuviai įėjo į Smolenską po to, kai Vytautas suėmė Hlebą ir išsiuntė jį į Lietuvą.
@@ -93,8 +69,8 @@ VORSKLOS KATASTROFA 313 Sviatoslavo sūnūs — Jogailai paklusnumą žadėjęs 
     buvo žuvęs Vytauto pusėje prie Vorsloos. Smolensko užėmimu dar
     nebuvo sustabdyta rytų krizė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -113,8 +89,8 @@ VORSKLOS KATASTROFA 313 Sviatoslavo sūnūs — Jogailai paklusnumą žadėjęs 
     Sviatoslovaitį, Vytautas priartėjo prie valdų savo žento Vosyliaus I
     (1389-1425), su kuriuo oficialiai laikėsi taikos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -161,6 +137,3 @@ VORSKLOS KATASTROFA 313 Sviatoslavo sūnūs — Jogailai paklusnumą žadėjęs 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-30263
-
-## Ryšiai
-- Hlebas mirė [[objektai/vietos/Vorskla]]

@@ -41,18 +41,6 @@ media_all_json: |-
 - t-001
   global_id: t-31077
   teiginys: "A. Werminghoee 1914 m. paskelbė darbą apie Ludwigo Bavariečio dokumentą Vokiečių ordino magistrui."
-  temporaliniai_duomenys: "įvykio data: 1914 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "660361-660844; hash=84aaeef6e074a25a4c61f9baa0d1534274af829c7ea3b7512449e6ff3cc3a04d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vokiečiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Werminghoee, A: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Vokiečiai: mention_match, group, gap=72"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Werminghoee, A\" parinktas kaip owner_note_path. Targetas \"Vokiečiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-33206
 ## Reikšmingi paminėjimai
@@ -69,8 +57,8 @@ media_all_json: |-
     Archiv, f. Urkundenforschung, t. 5, 1914, 21-40 p. — Zajączkowski,
     St.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

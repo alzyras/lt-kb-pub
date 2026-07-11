@@ -34,16 +34,6 @@ p. 88, Polocko praradimas ir Ulos mūšis, karo veiksmai persikelia į Maskvos-L
 - t-001
   global_id: t-41915
   teiginys: "Po Polocko praradimo ir Ulos mūšio karo veiksmai persikėlė į Maskvos-Lietuvos pasienį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1132417-1132544; hash=d136bcb10912f9374041e137980c2a1cee747780b9602b6796ddcdbf3e2f0ab6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Loreta Uzdraitė: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Maskvos-Lietuvos pasienis: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Loreta Uzdraitė: mention_match, author"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskvos-Lietuvos pasienis\" parinktas kaip owner_note_path. Targetas \"Loreta Uzdraitė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-43631
 ## Reikšmingi paminėjimai
@@ -54,8 +44,8 @@ p. 88, Polocko praradimas ir Ulos mūšis, karo veiksmai persikelia į Maskvos-L
     p. 88, Polocko praradimas ir Ulos mūšis, karo veiksmai persikelia į Maskvos-Lietuvos
     pasienį. Karolis Zikaras, Loreta Uzdraitė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

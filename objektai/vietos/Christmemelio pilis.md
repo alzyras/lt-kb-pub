@@ -30,20 +30,6 @@ Kryžiuočiai puolė Christmemelio pilį, daužė jos sienas taranais ir sužeid
 - t-001
   global_id: t-185262
   teiginys: "Kryžiuočiai puolė Christmemelio pilį, daužė jos sienas taranais ir sužeidė ar nukovė daug pilies gynėjų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Kryžiuočių ordinas puolė Christmemelio pilis (pilis) (0.96)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "330405-331062; hash=43b3d1c6c789d545ec1d13b0e2a354384752b18589b950afcbbc3b6601c85210; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Christmemelio pilis (pilis): 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Christmemelio pilis (pilis): llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad kryžiuočiai puolė Christmemelio pilį."
   pagrindžia:
     - c-168623
 ## Reikšmingi paminėjimai
@@ -66,8 +52,8 @@ Kryžiuočiai puolė Christmemelio pilį, daužė jos sienas taranais ir sužeid
     didele kariuomene Prūsijos magistras, ir šitaip sužlu­
     go viltys paimti pilį.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -78,7 +64,8 @@ Kryžiuočiai puolė Christmemelio pilį, daužė jos sienas taranais ir sužeid
 - id: c-168623
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 191"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 191."
   citata_originali: |
     Kryžiuočių kariai, atskubėję iš
     iš tos kariuomenės, kuri traukė iš Prūsijos, sudarė nau­

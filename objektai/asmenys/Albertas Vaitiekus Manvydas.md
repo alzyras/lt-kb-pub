@@ -40,12 +40,6 @@ Albertas Vaitiekus M anvydas buvo vienas Iš artimiausių V y tauto politinių b
 - t-001
   global_id: t-194126
   teiginys: "Albertas Vaitiekus M anvydas buvo vienas Iš artimiausių V y tauto politinių bendradarbių."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "425112-425405; hash=0f4fc991626118b0061e7f621fe750e85293f557ac6a6bb202de4802e4808e64; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176739
 ## Reikšmingi paminėjimai
@@ -60,8 +54,8 @@ Albertas Vaitiekus M anvydas buvo vienas Iš artimiausių V y tauto politinių b
     mienę galėjo būti vedęs po 1407 m., nes ligi tol gyva tebebuvo pir­
     moji M anvydo žmona Jadvyga.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

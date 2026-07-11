@@ -43,19 +43,6 @@ Religinė Odoakro charakteristika šaltinyje.
 - t-001
   global_id: t-192243
   teiginys: "Narbutas Odoakrą apibūdina kaip arijoną, kuris rėmė katalikus."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "566025-566312; hash=dee11617c82c4fa9e5c5288bbebbd2beb1887cac8a51aa520f63018739793822; match=ocr_normalized"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  ryšio_patikimumas: "susije_su -> Odoakras: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "arijonas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Odoakras: mention_match, person, gap=23"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"arijonas\" parinktas kaip owner_note_path. Targetas \"Odoakras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175085
 
@@ -63,19 +50,6 @@ Religinė Odoakro charakteristika šaltinyje.
 - t-002
   global_id: t-192244
   teiginys: "Narbutas rašo, kad Odoakras, nors pats buvo arijonas, rėmė katalikus."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "566025-566312; hash=dee11617c82c4fa9e5c5288bbebbd2beb1887cac8a51aa520f63018739793822; match=ocr_normalized"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  ryšio_patikimumas: "susije_su -> Odoakras: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "arijonas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Odoakras: mention_match, person, gap=25"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"arijonas\" parinktas kaip owner_note_path. Targetas \"Odoakras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175085
 
@@ -83,22 +57,6 @@ Religinė Odoakro charakteristika šaltinyje.
 - t-003
   global_id: t-192553
   teiginys: "Narbutas rašo, kad Odoakras saugojo gyventojus, atgaivino meną ir mokslus, nors buvo arijonas ir rėmė katalikus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Odoakras valdė Italija (0.95)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "566074-566408; hash=6b21961e06722725deab192cd5329bf9e1f05e64efde53f4d1d1b05e0f2316e3; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde -> Italija: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Odoakras: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Italija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Odoakras valdė Italiją beveik 14 metų."
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175341
 ## Reikšmingi paminėjimai
@@ -112,8 +70,8 @@ Religinė Odoakro charakteristika šaltinyje.
     mę. Odoakras saugojo juos nuo nelaimių, atgaivino me­
     ną ir mokslus, nors pats buvo arijonas, rėmė katalikus.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -132,8 +90,8 @@ Religinė Odoakro charakteristika šaltinyje.
     Jis valdė Italiją beveik 14 metų; istorikai neįžvelgia ja­
     me nieko barbariško, išskyrus vardą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -144,7 +102,8 @@ Religinė Odoakro charakteristika šaltinyje.
 - id: c-175085
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 316"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 316."
   citata_originali: |
     vertus, jie nematė kito būdo įtikti kariuomenei. Išsaugo­
     ję tai, ką jiems paliko jų ponai, jie galėjo tikėtis saugu­
@@ -163,7 +122,8 @@ Religinė Odoakro charakteristika šaltinyje.
 - id: c-175341
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 316"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 316."
   citata_originali: |
     Išsaugo­
     ję tai, ką jiems paliko jų ponai, jie galėjo tikėtis saugu­

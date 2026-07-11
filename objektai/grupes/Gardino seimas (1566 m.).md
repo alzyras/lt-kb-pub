@@ -40,20 +40,6 @@ Tuo būdu tais pat 1566 m. Gardino seime buvo sudaryta nauja sutartis, kuria Liv
 - t-001
   global_id: t-01315
   teiginys: "1566 m. Gardino seime sudaryta sutartimi Livonija tapo Lietuvos provincija su kunigaikštystės titulu."
-  semantiniai_rysiai: "Livonija priklausė Lietuva (0.92)"
-  temporaliniai_duomenys: "įvykio data: 1566 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sakinys sutrumpintas ir suformuluotas enciklopediškai."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "444389-444761; hash=8d77ee775e067aad949f2b727dcbf184526d9c24f2cef04e8f8fcf9423398322; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Lietuva: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Livonija: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad Livonija tapo Lietuvos provincija, todėl priklausė Lietuvai."
   pagrindžia:
     - c-01553
 ## Reikšmingi paminėjimai
@@ -68,8 +54,8 @@ Tuo būdu tais pat 1566 m. Gardino seime buvo sudaryta nauja sutartis, kuria Liv
     kai be galo buvo pasipiktinę dėl šito lietuvių laimėjimo; jie nuo-
     lat reikalavo, kad Livonija lygia dalia ir jiems priklausytų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

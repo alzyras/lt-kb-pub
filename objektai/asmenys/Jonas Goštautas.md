@@ -33,12 +33,6 @@ o buvęs Kazimiero globėjas Jonas Goštautas (†1488) pasidarė opozicijos vad
 - t-001
   global_id: t-185980
   teiginys: "Pašalinus Leliušą iš senato, Trakų vaivadija buvo perduota Jonui Goštautui."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "826864-827611; hash=bae1bb1a823e96d4a105e32104fff5ff5d14ad86ca7177fadc0fd76bdb703a0c; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-169341
 
@@ -46,12 +40,6 @@ o buvęs Kazimiero globėjas Jonas Goštautas (†1488) pasidarė opozicijos vad
 - t-002
   global_id: t-185981
   teiginys: "Jono Goštauto vadovaujama kariuomenė išvijo Mykolą iš Kijevo ir Seversko žemių, taip pat atsiėmė Brianską ir Starodubą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "841247-841509; hash=95eea1489daab6a08d0d53328bc63357c19df984c950e71c945ce3efb83f524a; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-169342
 
@@ -59,12 +47,6 @@ o buvęs Kazimiero globėjas Jonas Goštautas (†1488) pasidarė opozicijos vad
 - t-003
   global_id: t-193496
   teiginys: "Vis dėlto Leliušui 4 72 nepritaikė jokios rimtesnės nuobaudos, tik jį pašalino iš senato, o Trakų vaivadiją perdavė Goštautui."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "826864-827611; hash=bae1bb1a823e96d4a105e32104fff5ff5d14ad86ca7177fadc0fd76bdb703a0c; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-169341
 
@@ -72,12 +54,6 @@ o buvęs Kazimiero globėjas Jonas Goštautas (†1488) pasidarė opozicijos vad
 - t-004
   global_id: t-193497
   teiginys: "Mat Jono Goštauto vedama kariuomenė jį iš vijo iš visų Kijevo bei Seversko žemių, be to, atsiėmė Brianską ir Starodubą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "841247-841509; hash=95eea1489daab6a08d0d53328bc63357c19df984c950e71c945ce3efb83f524a; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-169342
 
@@ -85,12 +61,6 @@ o buvęs Kazimiero globėjas Jonas Goštautas (†1488) pasidarė opozicijos vad
 - t-005
   global_id: t-193498
   teiginys: "Tačiau lemiamas žingsnis nebuvo žengtas: pasi tenkinta grasinimais bei kariuomenės telkimu, nes kaip tik tuo metu mirė žymiausias šios grupuotės vadas Jo nas Goštautas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "897019-897532; hash=a01a33450f80811292608cc0ed227ec6a7bc2768070012d96765cbdb6f462616; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176187
 
@@ -98,12 +68,6 @@ o buvęs Kazimiero globėjas Jonas Goštautas (†1488) pasidarė opozicijos vad
 - t-006
   global_id: t-193926
   teiginys: "Ir jų dar nebuvo suvažiavusių, nes kai kurie buvo tolimuose Didžiosios Kunigaikštystės miestuose, srityse: 2emaičių seniūnas Kęsgailą2 Žemaitijoje, Jonas Goštautas3 Smolenske, nes jis tuo metu buvo Smolensko vietininku."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "215262-216050; hash=4d2d69afba7e22e03d9c8d94eeead0b530797f5c20d77dc06825e5ff48e1b828; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176551
 
@@ -111,12 +75,6 @@ o buvęs Kazimiero globėjas Jonas Goštautas (†1488) pasidarė opozicijos vad
 - t-007
   global_id: t-193927
   teiginys: "Kelyje pas kunigaikštį Žygimantą Jonas Goštautas užsuko pa sisvečiuoti pas Voložino kunigaikščius, ir Voložine at ėjo žinia apie didžiojo kunigaikščio Žygimanto mirtį, ir Goštautas išskubėjo j Alšėnus6 pas kunigaikštį Jurgį Simonaitį Alšėniškį7 ."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "215886-216451; hash=789f37cce39af305ce45a3cb559388c998992747f131634c57639a6a9a1a45a3; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176552
 
@@ -124,12 +82,6 @@ o buvęs Kazimiero globėjas Jonas Goštautas (†1488) pasidarė opozicijos vad
 - t-008
   global_id: t-193928
   teiginys: "Ir su visais tais miestais prisijungė prie Mazovijos ir ėmė tarnauti Mykoliukui Išgirdę apie tai tikrą žinią, didysis kunigaikštis Ka zimieras ir Didžiosios Kunigaikštystės Ponų Taryba skubiai siunčia su kariuomene Joną Goštautą, kurį, įke liant Kazimierą į."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "219930-220836; hash=379332ac2b255a07e2a061754a8edf8533c937a80a4138e65d93b54360f8fe79; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176553
 
@@ -137,12 +89,6 @@ o buvęs Kazimiero globėjas Jonas Goštautas (†1488) pasidarė opozicijos vad
 - t-009
   global_id: t-193929
   teiginys: "Ir vis atsimindamas didžiojo kunigaikščio Kazimiero ma lonę ir graudžiai verkdamas, ryžosi, dievui taip patvar kius, siųsti savo pasiuntinius pas savo kunigaikštį, pas didžiojo kunigaikščio Kazimiero globėją Joną Goštau tą, nes Jonas Goštautas buvo."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "227750-228641; hash=c3dc7e0877d521465e0f1e386635210f45e5fbdf0d2cd9d66397c154b995c210; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176554
 ## Reikšmingi paminėjimai
@@ -172,8 +118,8 @@ o buvęs Kazimiero globėjas Jonas Goštautas (†1488) pasidarė opozicijos vad
     pyko, nes Čartoriskis išdidžiai atsisakė perduoti valsty­
     bės iždui pasigrobtą turtą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -191,8 +137,8 @@ o buvęs Kazimiero globėjas Jonas Goštautas (†1488) pasidarė opozicijos vad
     viltis, Mykolas sugrįžo į Maskvą, kur penketą metų
     gyveno vienuolyne.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -225,8 +171,8 @@ o buvęs Kazimiero globėjas Jonas Goštautas (†1488) pasidarė opozicijos vad
     tik tuo metu mirė žymiausias šios grupuotės vadas Jo­
     nas Goštautas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -256,8 +202,8 @@ o buvęs Kazimiero globėjas Jonas Goštautas (†1488) pasidarė opozicijos vad
     atvažiuotų pas didįjį kunigaikštį Žygimantą, o į Smo­
     lenską jo vieton nusiuntė Andrių Sakavičių * .
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -279,8 +225,8 @@ o buvęs Kazimiero globėjas Jonas Goštautas (†1488) pasidarė opozicijos vad
     Vilniaus kaštelionui, Žemaičių seniūnui Kęsgailai, ir
     Mikalojui Nemiravičiui * , ir krašto maršalui Radvilai 9 .
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -312,8 +258,8 @@ o buvęs Kazimiero globėjas Jonas Goštautas (†1488) pasidarė opozicijos vad
 
     buvo mozūrų kilmės.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -344,8 +290,8 @@ o buvęs Kazimiero globėjas Jonas Goštautas (†1488) pasidarė opozicijos vad
     paveiktų didįjį kunigaikštį, suminkštindami jo pyktį,
     ir kad šis senoviškai apgaubtų jį savo malone.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -389,7 +335,8 @@ o buvęs Kazimiero globėjas Jonas Goštautas (†1488) pasidarė opozicijos vad
 - id: c-169342
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 478"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 478."
   citata_originali: |
     Neilgai džiaugėsi šiomis per­
     galėmis. Mat Jono Goštauto vedama kariuomenė jį iš­

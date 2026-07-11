@@ -32,14 +32,6 @@ Jogaila Liublino pilyje raštais užrašė Skirgailai visą Vytauto tėviškę.
 - t-001
   global_id: t-187701
   teiginys: "Vytauto pasakojime Jogaila Liublino pilyje Skirgailai raštu užrašė visą Vytauto tėviškę jo akivaizdoje."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "307319-307609; hash=17a935937965eff6f8623de093d0a6442b80f79fcec84e8f4e06b4bd9b9750e2; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-170640
 ## Reikšmingi paminėjimai
@@ -56,8 +48,8 @@ Jogaila Liublino pilyje raštais užrašė Skirgailai visą Vytauto tėviškę.
     visą mano tėviškę mano akivaizdoje6 . Man tai buvo
     labai skaudu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

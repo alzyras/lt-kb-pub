@@ -44,19 +44,6 @@ Dusburgietis teigia, kad dublino kodekse išlikusio „Pasaulio aprašymo pradž
 - t-003
   global_id: t-175267
   teiginys: "Otokaras II atsakė: „Pakanka, eik kur tinkamas ir pasieksi, ko nori“."
-  semantiniai_rysiai: "Otokaras II keliavo į Baiga (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "344865-345671; hash=36ccc35f2503378c9477133187fabfd3d6d95bbaecc3e1eef5fd2f6c765fc1ad; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Baiga: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Otokaras II: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Baiga: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citatoje karalius tiesiogiai nuveda kariuomenę iki Baigos pilies."
-  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
-  vertinimo_autorius: "claim_quality_pipeline / rewrite"
   pagrindžia:
     - c-159418
 
@@ -64,19 +51,6 @@ Dusburgietis teigia, kad dublino kodekse išlikusio „Pasaulio aprašymo pradž
 - t-002
   global_id: t-175269
   teiginys: "1254 m. Čekijos karalius Otokaras II dalyvavo žygyje, kuriuo siekta pavergti sembus."
-  temporaliniai_duomenys: "valdymo laikotarpis: 1254 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Otokaras II buvo valdovas Čekija“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs ir turi antraštės bei sąrašo triukšmo."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "343014-343685; hash=e006847e5d0cfa349b4736498f579c2b1e0b49deffd4dd100aad1485edd494de; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Sembai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Otokaras II: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Sembai: mention_match, group, gap=52"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Otokaras II\" parinktas kaip owner_note_path. Targetas \"Sembai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-159419
 - susijęs iš [[objektai/asmenys/Pršemyslas Otokaras II.md#claim-t-39630|Pršemyslas Otokaras II]]: Pršemyslas Otokaras II 1255 m. atvyko į pagalbą Ordinui ir inicijavo Karaliaučiaus pilies statybą.
@@ -101,11 +75,11 @@ Dusburgietis teigia, kad dublino kodekse išlikusio „Pasaulio aprašymo pradž
     tik mažą savo kariuomenės dalelę, ar su šitiek karių galįs ką nuveikti, tas atsakė, kad
     nieku būdu.
   citata_rodoma: ''
+  statusas: verified
+
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-
 - c-002
   santrauka: '1268 m. Čekijos karalius Otokaras II patraukė į Prūsiją tramdyti prūsų sukilimo, bet dėl minkštos žiemos tikslo nepasiekė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -124,11 +98,11 @@ Dusburgietis teigia, kad dublino kodekse išlikusio „Pasaulio aprašymo pradž
     minkštos žiemos negalėjo pasiekti šitaip trokštamo tikslo, todėl, palikę Prūsijos žemės
     krikščionis dideliame pavojuje, sugrįžo į savo kraštą.
   citata_rodoma: ''
+  statusas: verified
+
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-
 - c-003
   santrauka: 'Otokaras II atsakė: „Pakanka, eik kur tinkamas ir pasieksi, ko nori“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -144,8 +118,8 @@ Dusburgietis teigia, kad dublino kodekse išlikusio „Pasaulio aprašymo pradž
     padengia žemę; kai karalius paklausė, ar šitiek kariuomenės pakanka, kad galėtum šį
     tą nuveikti Sembos žemėje, jis atsakė: „Pakanka, eik kur tinkamas ir pasieksi, ko nori“.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -166,8 +140,8 @@ Dusburgietis teigia, kad dublino kodekse išlikusio „Pasaulio aprašymo pradž
     Austrijos, Reino krašto [de... Reno] ir kitų Vokietijos žemių; jie visi degte degė troškimu
     atkeršyti už nukryžiuotojo viešpaties kančias.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -183,17 +157,18 @@ Dusburgietis teigia, kad dublino kodekse išlikusio „Pasaulio aprašymo pradž
     konstatuoja, kad už Prūsijos  į šiaurę tęsiasi Semba (Prusciam sequitur Zambia ad
     aquilonem — Colker M.
   citata_rodoma: ''
+  statusas: verified
+
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-
 ## Citatos
 
 - id: c-159418
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 105"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 105."
   citata_originali: |
     Susitaikius Čekijos karalius
     nuvedė savo kariuomenę iki Baigos pilies, kur broliai pasistengė surasti vieną seną vyrą,
@@ -215,7 +190,8 @@ Dusburgietis teigia, kad dublino kodekse išlikusio „Pasaulio aprašymo pradž
 - id: c-159419
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 104"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 104."
   citata_originali: |
     Apie sembų pavergimą
 
@@ -236,5 +212,4 @@ Dusburgietis teigia, kad dublino kodekse išlikusio „Pasaulio aprašymo pradž
 
 ## Ryšiai
 - Otokaras II keliavo į [[objektai/vietos/Baiga]]
-- Otokaras II puolė [[objektai/vietos/Semba]]
 - Otokaras II dalyvavo mūšyje [[objektai/ivykiai/Otokaro II ir kryžiuočių puolimas prieš Sembą (1255 m.)]], [[objektai/ivykiai/Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.)]]

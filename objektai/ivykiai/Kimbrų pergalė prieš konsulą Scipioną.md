@@ -42,25 +42,6 @@ Nenurodyta
 - t-001
   global_id: t-191870
   teiginys: "Teodoras Narbutas kimbrų pergalę prieš konsulą Scipioną 169 m. pr. Kr. siejo su nuo Baltijos pasitraukusiais kimbrais, kurių ainiai, jo manymu, gyveno prie Veronos."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Kimbrai dalyvavo mūšyje Kimbrų pergalė prieš konsulą Scipioną (0.90); Kimbrai kariavo prieš Scipionas (0.90); Kimbrai gyveno Verona (0.60)"
-  temporaliniai_duomenys: "gyvenimo laikotarpis: 169 m; mūšio data: 169 m"
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Kimbrai gyveno Verona“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Kimbrai dalyvavo mūšyje Kimbrų pergalė prieš konsulą Scipioną“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Kimbrai kariavo prieš Scipionas“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Išskleistas įvykio ryšys su kimbrais ir Veronos vieta. Narbuto interpretacija palikta su atribucija, nepridedant daugiau apie romėnų karus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "84533-85189; hash=a71f2e3ed2900d52c9980eb23470f32e335668773fb90ca65daeac8c6ac5e1e4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "dalyvavo_musyje -> Kimbrų pergalė prieš konsulą Scipioną: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kimbrai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Kimbrų pergalė prieš konsulą Scipioną: llm_allowed_candidate, event"
-  ryšio_paaiskinimas: "Įvykio objektas tiesiogiai atitinka kimbrų pergalę prieš Scipioną."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174752
 ## Reikšmingi paminėjimai
@@ -83,8 +64,8 @@ Nenurodyta
     garsėjo pergale prieš konsulą Scipioną 169 metais prieš
     Kristaus gimimą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -95,7 +76,8 @@ Nenurodyta
 - id: c-174752
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 49"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 49."
   citata_originali: |
     Bet tolesnis ty­
     rinėjimas, įrodantis gerbiamo* istoriko požiūrio nepatva­

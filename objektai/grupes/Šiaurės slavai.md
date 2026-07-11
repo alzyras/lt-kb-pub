@@ -30,21 +30,6 @@ Pasak Narbuto minimų rusų metraščių, šiaurės slavai turėjo skirtingus tr
 - t-001
   global_id: t-189484
   teiginys: "Pasak Narbuto minimų rusų metraščių, šiaurės slavai turėjo skirtingus triznos apeigų papročius."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "651751-652125; hash=4f8a27244f34c3458938b400322c86e0e972f7cad6d7b0304c964c270ef0eabe; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Slavai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Šiaurės slavai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Slavai: mention_match, group, gap=8"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šiaurės slavai\" parinktas kaip owner_note_path. Targetas \"Slavai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172372
 
@@ -52,21 +37,6 @@ Pasak Narbuto minimų rusų metraščių, šiaurės slavai turėjo skirtingus tr
 - t-002
   global_id: t-189485
   teiginys: "Narbutas biarmius, arba permius, laikė atskira didelės šiaurės slavų šeimos šaka pagal kalbos, papročių ir fizionomijos skirtumus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "785664-786115; hash=366bc353e33e3404047caa92e7a80982e8a976be0f1e1ece2a42dd23c0b71d23; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Slavai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Šiaurės slavai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Slavai: mention_match, group, gap=8"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šiaurės slavai\" parinktas kaip owner_note_path. Targetas \"Slavai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172373
 
@@ -74,14 +44,6 @@ Pasak Narbuto minimų rusų metraščių, šiaurės slavai turėjo skirtingus tr
 - t-003
   global_id: t-194605
   teiginys: "Dėl to susiklostė nuomonė, kad šventasis Steponas išra dęs šį raidyną XI amžiuje, bet reikia patikslinti, kad jis jį su tvarkė pagal rusų abėcėlę ir ėmė rašyti šiaurės slavų tarme, idant čiabuviai galėtų suprasti iš rašto Dievo tiesas, kurias, ma tyt, jau."
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "787763-788373; hash=a817b527c6733248a542223422c02714207c8f7a02b78c275317118cb9568a78; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-177004
 - susijęs iš [[objektai/grupes/Slavai.md#claim-t-188349|Slavai]]: Narbutas rašė, kad šiaurės slavai nimfas vadino rusalkomis dėl rusvų arba šviesiai pilkų plaukų.
@@ -99,8 +61,8 @@ Pasak Narbuto minimų rusų metraščių, šiaurės slavai turėjo skirtingus tr
     lėdavo apraudoti mirusįjį prieš saulėtekį ir po saulėlydžio; kai
     kuriose vietose žmonos apverkdavo vyrus prie pačių kapų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -120,8 +82,8 @@ Pasak Narbuto minimų rusų metraščių, šiaurės slavai turėjo skirtingus tr
     ties tautos galėjo užklysti į tuos kraštus, kuriuose šiandien to­
     kios varginančios ir ilgos žiemos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -142,8 +104,8 @@ Pasak Narbuto minimų rusų metraščių, šiaurės slavai turėjo skirtingus tr
     dyno, nebūtų buvę reikalo išradinėti naujo, turint rankose ir
     slavišką raštą, ir knygas, kurių kalba ir ten buvo vietinė.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -154,7 +116,8 @@ Pasak Narbuto minimų rusų metraščių, šiaurės slavai turėjo skirtingus tr
 - id: c-172372
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 368"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 368."
   citata_originali: |
     Lietuvoje gyveno garsi
     Triznų giminė22. Pasak rusų metraščių, šiaurės slavai, arba nau-
@@ -173,7 +136,8 @@ Pasak Narbuto minimų rusų metraščių, šiaurės slavai turėjo skirtingus tr
 - id: c-172373
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 434"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 434."
   citata_originali: |
     Tuo tarpu apsiribosime pasa­
     kydami štai ką.
@@ -194,7 +158,8 @@ Pasak Narbuto minimų rusų metraščių, šiaurės slavai turėjo skirtingus tr
 - id: c-177004
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 435"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 435."
   citata_originali: |
     Tai jis pirmasis rašė maldaknyges ir šventąją evangeliją
     biarmiškomis raidėmis; tai buvo vienas veiksmingiausių būdų

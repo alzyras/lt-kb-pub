@@ -30,22 +30,6 @@ Narbutas Glotinų šeimą vaizduoja kaip galingą Varmijos bajorų giminę, gal�
 - t-001
   global_id: t-192982
   teiginys: "Narbutas Glotinų šeimą vaizduoja kaip galingą Varmijos bajorų giminę, galėjusią krašto gynybai duoti nemažų būrių."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Glotinų šeima gynė Varmija (0.62)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "648797-649281; hash=0940b3fe7df9622f93985d96866f34daaa0b057eb505ec0ea7522aaca59304fb; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyne -> Varmija: 0.62"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Glotinų šeima: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Varmija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Glotinų šeima vaizduojama kaip pajėgi duoti būrių Varmijos krašto gynybai."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175752
 ## Reikšmingi paminėjimai
@@ -64,8 +48,8 @@ Narbutas Glotinų šeimą vaizduoja kaip galingą Varmijos bajorų giminę, gal�
     je, kur yra išlikęs Glotau kaimo pavadinimas. Be šių Glo-
     tavos ir Honedos tvirtovių, apie kitas nėra tikrų žinių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -76,7 +60,8 @@ Narbutas Glotinų šeimą vaizduoja kaip galingą Varmijos bajorų giminę, gal�
 - id: c-175752
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 359"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 359."
   citata_originali: |
     Nėra abejonių, kad ir ji dalijosi į
     plačius valsčius, nes ir čia gyveno bajorų šeimos, kurioms
@@ -93,6 +78,3 @@ Narbutas Glotinų šeimą vaizduoja kaip galingą Varmijos bajorų giminę, gal�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192982
-
-## Ryšiai
-- Glotinų šeima gynė [[objektai/vietos/Varmija]]

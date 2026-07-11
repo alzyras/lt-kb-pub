@@ -42,19 +42,6 @@ media_all_json: |-
 - t-001
   global_id: t-32353
   teiginys: "1291 m. kryžiuočiai nepaėmė Junigėdos, bet netoliese sunaikino Mederabos pilį."
-  semantiniai_rysiai: "Kryžiuočių ordinas puolė Mederaba (0.86)"
-  temporaliniai_duomenys: "įvykio data: 1291 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "602170-602550; hash=de2dce7c59393ee1d39a0e4d6efd9ddc754bf8c3bfba2dbf1dd59b114e5d00e5; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Mederaba: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Mederaba: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Kryžiuočių veiksmai tiesiogiai siejami su Mederabos pilies sunaikinimu."
   pagrindžia:
     - c-33945
 - susijęs iš [[objektai/ivykiai/Junigėdos puolimas ir Mederabos sunaikinimas (1291 m.).md#claim-t-31422|Junigėdos puolimas ir Mederabos sunaikinimas (1291 m.)]]: 1291 m. kryžiuočiai puolė Junigėdą, jos nepaėmė, bet netoliese sunaikino Mederabos pilį.
@@ -71,8 +58,8 @@ media_all_json: |-
     pilis «Mederaba»^23. Grįždami nuo Junigėdos 1292, kryžiuočiai
     teriojo sritį pernykščiai sudegintos Aukaimio (« Oukaym ») pilies^24.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -98,7 +85,3 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-32353
-
-## Ryšiai
-- Puolė Mederabą: [[objektai/grupes/Kryžiuočių ordinas]]
-- Užėmė Mederabą: [[objektai/grupes/Kryžiuočių ordinas]]

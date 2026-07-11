@@ -41,11 +41,6 @@ Protestantizmas labai greitai pa- siekė Lietuvą. protestantizmas: lietuvos did
 - t-002
   global_id: t-168684
   teiginys: "Karalių Vazų laikais paaiškėjo, kad protestantizmas Lietuvoje nyks, ypač išmirus protestantiškajai Radvilų šakai."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "686779-687157; hash=694570918da39c1f8ae66d80a8ca423df4490aee64eb51ceb0e8d2acf45a23ff; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T14:12:56Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-153485
 
@@ -53,9 +48,6 @@ Protestantizmas labai greitai pa- siekė Lietuvą. protestantizmas: lietuvos did
 - t-001
   global_id: t-168689
   teiginys: "Lietuvos protestantizmo srovės skyrėsi: tarp didikų labiausiai įsigalėjo kalvinizmas, o miestuose ir kai kur tarp vidutinės bajorijos - liuteranizmas."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "523908-524222; hash=2258c90b5612c9b41039e052e852f3b27f4fcafb0c3a566908a32f5b512968ea; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-153481
 
@@ -63,12 +55,6 @@ Protestantizmas labai greitai pa- siekė Lietuvą. protestantizmas: lietuvos did
 - t-003
   global_id: t-193156
   teiginys: "Be to, labai daug pakenkė protestantizmui įvairių jo sektų savitarpio nesutikimai."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "524010-524313; hash=1e00e7fe330b37b3e9705e8de5fad865143f41934a8e1801ad42592beade3803; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-175908
 - susijęs iš [[objektai/autoriai/J. Bretkūnas.md#claim-t-05719|J. Bretkūnas]]: J. Bretkūnas buvo tarp lietuvių, rašiusių protestantizmo skleidimo tekstus.
@@ -104,8 +90,8 @@ Protestantizmas labai greitai pa- siekė Lietuvą. protestantizmas: lietuvos did
     įsigalėjęs kalvinizmas, o miestuose ir kai kur vidutinės bajo-
     rijos tarpe — liuteranizmas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -123,8 +109,8 @@ Protestantizmas labai greitai pa- siekė Lietuvą. protestantizmas: lietuvos did
     tuvoje protestantų išliko tik mažos salelės apie buvusius Rad-
     vilų centrus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -140,8 +126,8 @@ Protestantizmas labai greitai pa- siekė Lietuvą. protestantizmas: lietuvos did
     rijos tarpe — liuteranizmas. Tačiau buvo nemaža ir kitų sektų;
     visos jos tarp savęs ginčijosi, vienos kitas smerkdamos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

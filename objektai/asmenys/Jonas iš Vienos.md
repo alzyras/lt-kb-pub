@@ -34,17 +34,6 @@ Dusburgietis teigia, kad tais pačiais metais, apie šeštines (gegužės 12), b
 - t-001
   global_id: t-60348
   teiginys: "Jonas iš Vienos kartu su Ragainės komtūru Erneke ir 25 ginklanešiais laivais išplaukė Lietuvos link."
-  semantiniai_rysiai: "Jonas iš Vienos keliavo į Lietuva (0.88)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "561494-562445; hash=f08e012e9717064b1487f8272403fe22a7860378dd2b4326cf89e3a087bc987d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Lietuva: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jonas iš Vienos: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Išplaukimas Lietuvos link tiesiogiai rodo kelionę Lietuvos kryptimi."
   pagrindžia:
     - c-60980
 - susijęs iš [[objektai/asmenys/Ernekė.md#claim-t-60112|Ernekė]]: Apie gegužės 12 d. Ragainės komtūras Ernekė magistro įsakymu laivais išplaukė Lietuvos link.
@@ -72,8 +61,8 @@ Dusburgietis teigia, kad tais pačiais metais, apie šeštines (gegužės 12), b
     šiam reikalui 60 vyrų ir, atėjęs į tinkamą vietą, įsakė visiems netoliese pasislėpti, o pats,
     apsirengęs moteriškais rūbais, atsisėdo ant upės kranto.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -84,7 +73,8 @@ Dusburgietis teigia, kad tais pačiais metais, apie šeštines (gegužės 12), b
 - id: c-60980
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 179"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 179."
   citata_originali: |
     Tais pačiais metais, apie šeštines (gegužės 12), brolis Ernekė, Ragainės komtūras,
     išplaukė, magistro įsakytas,  laivais  link Lietuvos, norėdamas išbandyti kai kurias
@@ -104,6 +94,3 @@ Dusburgietis teigia, kad tais pačiais metais, apie šeštines (gegužės 12), b
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60348
-
-## Ryšiai
-- Jonas iš Vienos keliavo į [[objektai/vietos/Kolainiai]], [[objektai/vietos/Lietuva]]

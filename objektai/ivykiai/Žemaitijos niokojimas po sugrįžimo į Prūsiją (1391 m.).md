@@ -48,19 +48,6 @@ Nenurodyta
 - t-001
   global_id: t-185841
   teiginys: "Po poilsio Prūsijoje Vytauto kariuomenė vėl įsiveržė į Žemaitiją ir nuniokojo dvi iki tol karo nepaliestas apygardas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "561796-562238; hash=ed8063a2e25a0447718620fc9430c2ddd33e8d1f56db0ac79c5a4811132d8b42; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Prūsija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žemaitijos niokojimas po sugrįžimo į Prūsiją (1391 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Prūsija: mention_match, place, gap=11"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaitijos niokojimas po sugrįžimo į Prūsiją (1391 m.)\" parinktas kaip owner_note_path. Targetas \"Prūsija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-169202
 ## Reikšmingi paminėjimai
@@ -81,8 +68,8 @@ Nenurodyta
     kiek ne ramesnė kaip vasara, nes Vytautas nevengė iš­
     puolių ir iš žiemos stovyklos.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -93,7 +80,8 @@ Nenurodyta
 - id: c-169202
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 322"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 322."
   citata_originali: |
     Nugalėtojai, išžudę ko­
     vos lauke visus laikančius rankose ginklą, negalėdami

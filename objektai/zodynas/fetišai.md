@@ -30,21 +30,6 @@ Narbutas savo senosios lietuvių religijos vaizdinyje prie dievų, deivių, pusd
 - t-001
   global_id: t-189358
   teiginys: "Narbutas savo senosios lietuvių religijos vaizdinyje prie dievų, deivių, pusdievių ir sudievintų dangaus kūnų priskyrė ir fetišus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "63063-63896; hash=1b1d80ba832b6d8f5da78524575bce58d48e3934ac82cb92c5a75f68fc9d0a03; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Baltai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "fetišai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Baltai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"fetišai\" parinktas kaip owner_note_path. Targetas \"Baltai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172245
 - susijęs iš Rietavas: Narbutas Vetustį apibūdino kaip Rietavo miestelio fetišą ir aiškino jo reikšmę lietuvišku žodžiu „senovinis“.
@@ -69,8 +54,8 @@ Narbutas savo senosios lietuvių religijos vaizdinyje prie dievų, deivių, pusd
     nės dukterį Nijolę, apie senovės lietuvių didvyrius Geloną, Vy-
     tolfą, Alcį, Nemuną ir kt.).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -81,7 +66,8 @@ Narbutas savo senosios lietuvių religijos vaizdinyje prie dievų, deivių, pusd
 - id: c-172245
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 35"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 35."
   citata_originali: |
     Nekritiškai naudodamasis senaisiais rašytiniais šaltiniais,
     juos papildydamas savo rekonstruotais (sukurtais) faktais ir

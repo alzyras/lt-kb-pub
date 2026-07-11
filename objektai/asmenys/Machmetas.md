@@ -44,19 +44,6 @@ media_all_json: |-
 - t-002
   global_id: t-96027
   teiginys: "Machmetas pasiuntė savo sūnų auklėtis į Vytauto Didžiojo dvarą ir rėmė Vytauto žygius į Pskovą bei Naugardą."
-  temporaliniai_duomenys: "įvykio data: 1424 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko Machmeto sūnaus siuntimą ir paramą Vytautui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "357393-357850; hash=05c66765dd9278a2c1846cdafbcedf1b72f3b8ea79f61c0905b767729ac28d2c; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Naugardas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Machmetas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Naugardas: mention_match, place, gap=99"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Machmetas\" parinktas kaip owner_note_path. Targetas \"Naugardas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-90781
 
@@ -64,19 +51,6 @@ media_all_json: |-
 - t-004
   global_id: t-96028
   teiginys: "1424 m. Didysis Machmetas Vytauto pagalba atsisėdo į Kipčako sostą ir išsilaikė iki 1437 ar 1438 m."
-  temporaliniai_duomenys: "įvykio data: 1424 m.; įvykio data: 1438 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko datą, Vytauto pagalbą ir Machmeto išsilaikymo laiką."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "692003-692370; hash=c86724f1e4d074c86627b394cc1ce330ee9384e3ac06c62e95623a81811b215e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kipčakas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Machmetas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kipčakas: mention_match, place, gap=37"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Machmetas\" parinktas kaip owner_note_path. Targetas \"Kipčakas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-90779
 
@@ -84,19 +58,6 @@ media_all_json: |-
 - t-001
   global_id: t-96029
   teiginys: "1424 m. Aukso Ordos chanu tapo Vytauto palaikomas Machmetas."
-  temporaliniai_duomenys: "įvykio data: 1422 m.; įvykio data: 1424 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata tiesiogiai palaiko Machmeto tapimą chanu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "357264-357630; hash=aaaae6d4fee76ad13c75145bef9c41aa65b05f846187e780382ce76fa3a57454; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Auksinė Orda: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Machmetas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Auksinė Orda: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Machmetas\" parinktas kaip owner_note_path. Targetas \"Auksinė Orda\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-90782
 - susijęs iš Krymas: 1427 m. Vytauto palaikomas Machmetas paėmė savo valdžion Pavolgio, Juodmarių pakraščio ir Krymo totorius.
@@ -125,8 +86,8 @@ media_all_json: |-
     Didysis Machmetas, kuris išsilaikė net iki 1437 ar 1438 metų,
     nors Timur Kotlogo ainiai jį pašalinti visaip dar vis stengėsi.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -146,8 +107,8 @@ media_all_json: |-
     per savo pasiuntinius teikė jam dovanų Smolenske ir Lucko su­
     važiavime1 2).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -165,8 +126,8 @@ media_all_json: |-
     jevo kunigaikščius; pasėkos buvo tos, kad Aukso Ordos chanu
     tapo Vytauto palaikomas Machmetas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

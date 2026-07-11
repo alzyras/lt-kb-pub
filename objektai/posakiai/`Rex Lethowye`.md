@@ -42,18 +42,6 @@ Lietuvos valdovas Gediminas, titulavęsis Rex Lethowye ir vedęs intensyvias der
 - t-001
   global_id: t-186410
   teiginys: "Gediminas titulavosi Rex Lethowye, derėjosi dėl krikšto ir laiškais kvietė į Lietuvą Vakarų pirklius bei amatininkus."
-  teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Gediminas buvo valdovas Lietuva (0.96); Gediminas keliavo į Lietuva (0.72)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "58800-59246; hash=f53bca73e073d1dc97f63d9fc8e243279dd8ff0e955124af2bb43ae983168114; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_valdovas -> Lietuva: 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai vadina Gediminą Lietuvos valdovu."
   pagrindžia:
     - c-169753
 
@@ -61,18 +49,6 @@ Lietuvos valdovas Gediminas, titulavęsis Rex Lethowye ir vedęs intensyvias der
 - t-002
   global_id: t-186411
   teiginys: "Gediminas titulavosi Rex Lethowye ir laiškais Vakarų šalims bei miestams kvietė į Lietuvą Vakarų pirklius ir amatininkus."
-  teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Gediminas buvo valdovas Lietuva (0.96); Gediminas keliavo į Lietuva (0.72)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "58742-59169; hash=4c873242c77dc028a85a7eb222fa7b22884db44c1cfea358d4d0c1a632581a74; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_valdovas -> Lietuva: 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai vadina Gediminą Lietuvos valdovu."
   pagrindžia:
     - c-169752
 
@@ -80,18 +56,6 @@ Lietuvos valdovas Gediminas, titulavęsis Rex Lethowye ir vedęs intensyvias der
 - t-002
   global_id: t-186411
   teiginys: "Gediminas titulavosi Rex Lethowye ir laiškais Vakarų šalims bei miestams kvietė į Lietuvą Vakarų pirklius ir amatininkus."
-  teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Gediminas buvo valdovas Lietuva (0.96); Gediminas keliavo į Lietuva (0.72)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "58742-59169; hash=4c873242c77dc028a85a7eb222fa7b22884db44c1cfea358d4d0c1a632581a74; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_valdovas -> Lietuva: 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai vadina Gediminą Lietuvos valdovu."
   pagrindžia:
     - c-169752
 ## Reikšmingi paminėjimai
@@ -110,8 +74,8 @@ Lietuvos valdovas Gediminas, titulavęsis Rex Lethowye ir vedęs intensyvias der
     liacinės pastangos ilgai nedavė rezultatų, o ordinų karinė agresija ver-
     tė Lietuvą visą energiją skirti karybai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -129,8 +93,8 @@ Lietuvos valdovas Gediminas, titulavęsis Rex Lethowye ir vedęs intensyvias der
     tė Lietuvą visą energiją skirti karybai. Todėl kartais Lietuvos santvarka
     XIV a. apibūdinama kaip karinė monarchija.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

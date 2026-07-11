@@ -40,16 +40,6 @@ Didesnio tikrumo ir pasitikėjimo dėlei šį mūsų raštą tvirtiname dėdami 
 - t-001
   global_id: t-86877
   teiginys: "Laiške žadėta, kad pirma geležis į vašką, o vanduo į plieną pavirs, nei bus sulaužytas ar atšauktas duotas žodis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "173201-173979; hash=825eb1ff4e46f29dc6f0e5f4a2ca8c53a19b4586b1340f2e6cfb3294956e4db2; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Antspaudas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Pirma geležis į vašką, o vanduo į plieną pavirs: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Antspaudas: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pirma geležis į vašką, o vanduo į plieną pavirs\" parinktas kaip owner_note_path. Targetas \"Antspaudas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-82856
 ## Reikšmingi paminėjimai
@@ -73,8 +63,8 @@ Didesnio tikrumo ir pasitikėjimo dėlei šį mūsų raštą tvirtiname dėdami 
     perskaičius būtų siunčiami toliau ir visur skelbiama juose
     nurodyti pranešimai bei įsipareigojimai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -30,20 +30,6 @@ Narbutas, kalbėdamas apie estų pavadinimą ir Jordaną, cituoja pasakojimą ap
 - t-001
   global_id: t-192118
   teiginys: "Narbutas, remdamasis Jordanu, pateikia pasakojimą, kad Rytų gotų valdovas Germanarikas užėmė Vokiečių okeano pakrantę ir pavergė estus."
-  teiginio_tipas: "saltinio_teiginys"
-  semantiniai_rysiai: "Germanarikas užkariavo Estai (0.86)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "162887-163460; hash=f476e065386fea47f675e4d8a738f7506b81c107a2858147cc52cdfa7b588573; match=whitespace_regex"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
-  ryšio_patikimumas: "uzkariavo -> Estai: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Germanarikas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Estai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata tiesiogiai teigia, kad Germanarikas pavergė estų tautą."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174999
 ## Reikšmingi paminėjimai
@@ -64,8 +50,8 @@ Narbutas, kalbėdamas apie estų pavadinimą ir Jordaną, cituoja pasakojimą ap
     ni estus, kalbėdamas apie karingus Odoakro vadovauja­
     mus herulus, kilusius iš estų tautos.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -76,7 +62,8 @@ Narbutas, kalbėdamas apie estų pavadinimą ir Jordaną, cituoja pasakojimą ap
 - id: c-174999
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 91"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 91."
   citata_originali: |
     Vėliau Jordanas, gotų istorikas,
     daugiausia rėmęsis Kasiodoru ir veikiausiai jį perdirbinė­

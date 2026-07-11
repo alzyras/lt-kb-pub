@@ -30,14 +30,6 @@ Narbutas Šneibratą, kitaip vadintą Iszwambratus, aprašė kaip paukščių ū
 - t-001
   global_id: t-189261
   teiginys: "Narbutas Šneibratą, kitaip vadintą Iszwambratus, aprašė kaip paukščių ūkio ir medžioklės dievą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "197123-197350; hash=efe57737caa1cad1f322d38a39fb09e07929e325704edbea30a9d76268663e0a; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172149
 ## Reikšmingi paminėjimai
@@ -52,8 +44,8 @@ Narbutas Šneibratą, kitaip vadintą Iszwambratus, aprašė kaip paukščių ū
     zwcimbratus. Jis buvo vienas svarbiausių dievų, turinčių stabų
     Komovės šventykloje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -64,7 +56,8 @@ Narbutas Šneibratą, kitaip vadintą Iszwambratus, aprašė kaip paukščių ū
 - id: c-172149
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 110"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 110."
   citata_originali: |
     Šneibratas (Sznejbrato)
     Paukščių ūkio ir medžioklės dievas. Jam daugiausia buvo

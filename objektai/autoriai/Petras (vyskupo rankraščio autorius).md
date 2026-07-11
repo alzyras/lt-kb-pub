@@ -30,14 +30,6 @@ Narbutas vyskupo Petro rankraštyje rado teiginį, kad krikštas ugnimi reiškė
 - t-001
   global_id: t-190446
   teiginys: "Narbutas vyskupo Petro rankraštyje rado teiginį, kad krikštas ugnimi reiškė elementarųjį apsivalymą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "603978-604453; hash=0ef0006d502ebd45f2b8329f8654d427cc5f79c9526bde7d0f9b9691b63c631d; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173329
 ## Reikšmingi paminėjimai
@@ -55,8 +47,8 @@ Narbutas vyskupo Petro rankraštyje rado teiginį, kad krikštas ugnimi reiškė
     sakysime kalbėdami apie vestuvines apeigas), visiškai skirtin­
     gas nuo apsivalomojo šokinėjimo per ugnį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -67,7 +59,8 @@ Narbutas vyskupo Petro rankraštyje rado teiginį, kad krikštas ugnimi reiškė
 - id: c-173329
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 343"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 343."
   citata_originali: |
     Švenčiant Rasos šventę, šokinėta per degantį laužą, sukrautą
     pusračiu, kaip tai mini Strijkovskis. Vyskupo Petro rankrašty­

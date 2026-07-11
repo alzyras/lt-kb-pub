@@ -30,14 +30,6 @@ media_all_json: |-
 - t-001
   global_id: t-194891
   teiginys: "Į Vakarus nuo dešiniojo 1 Thunmann."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "162275-162382; hash=5e101551043098c67750826f595d395bac1461088f7094804becb8b074297a16; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-177287
 ## Reikšmingi paminėjimai
@@ -51,8 +43,8 @@ media_all_json: |-
     discher Völker.
     S. 66*.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -63,7 +55,8 @@ media_all_json: |-
 - id: c-177287
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 90"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 90."
   citata_originali: |
     Į Vakarus nuo dešiniojo
     1 Thunmann. Untersuchungen über die Geschichte einiger nor­

@@ -51,11 +51,6 @@ Nenurodyta
 - t-001
   global_id: t-66597
   teiginys: "1916 m. Brukline katalikų ir tautininkų organizacijų atstovai svarstė karo sunaikintos Lietuvos kūrimo reikalus."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "1305093-1305385; hash=37ac5985a1199c646a3df3ec2dc24c13d1c6d16cbbf53e311a7de1b14d0db067; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-66796
 ## Reikšmingi paminėjimai
@@ -71,8 +66,8 @@ Nenurodyta
     vė ėmėsi organizuoti įvairių šakų bendroves, kurios po karo
     turėjo persikelti į Lietuvą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

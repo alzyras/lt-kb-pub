@@ -55,20 +55,6 @@ Nenurodyta
 - t-001
   global_id: t-100044
   teiginys: "1382 m. liepos 20 d. Skirgaila įtikino Trakų pilies įgulą pasiduoti Jogailos ir kryžiuočių apgulties metu."
-  semantiniai_rysiai: "Kryžiuočių ordinas apgulė Trakai (0.88); Skirgaila užėmė Trakai (0.62)"
-  temporaliniai_duomenys: "įvykio data: 1382 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalintas išnašos ženklas ir neaiški datos santrumpa, sakinys padarytas enciklopedinis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "757572-757966; hash=4d487e99aef2b090b7c2bb60555396741f5114394333c5ff2253dacadce4a881; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "apgule -> Trakai: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Trakai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Kryžiuočių kariuomenė kartu su Jogaila apgulė Trakų pilį."
   pagrindžia:
     - c-93974
 ## Reikšmingi paminėjimai
@@ -85,8 +71,8 @@ Nenurodyta
     buvo pasirodę Livonijos kryžiuočiai, atvykę čia po Žemaičių terio-
     jimo^18.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

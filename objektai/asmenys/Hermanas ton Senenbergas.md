@@ -30,20 +30,6 @@ Magistro pasiųstas Hermanas ton Senenbergas su menka kariauna sulaikė užpuoli
 - t-001
   global_id: t-186210
   teiginys: "Magistro pasiųstas Hermanas ton Senenbergas su menka kariauna sulaikė užpuolikus ir vėliau sumušė priešą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Hermanas ton Senenbergas gynė Kulmas (0.72)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "211207-211841; hash=dca0b75d44d9f0c20a53921e130793c936bd244fcd0738c6b9a6048ac6810f9e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyne -> Kulmas: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Hermanas ton Senenbergas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kulmas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Hermanas buvo pasiųstas atremti užpuolikų po Kulmo krašto užpuolimo."
   pagrindžia:
     - c-169571
 ## Reikšmingi paminėjimai
@@ -66,8 +52,8 @@ Magistro pasiųstas Hermanas ton Senenbergas su menka kariauna sulaikė užpuoli
     ir smarkiau kariauti pasiprašę pagalbos iš lietuvių ir
     žemaičių.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -78,7 +64,8 @@ Magistro pasiųstas Hermanas ton Senenbergas su menka kariauna sulaikė užpuoli
 - id: c-169571
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 125"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 125."
   citata_originali: |
     Pirmiausia jie užpuolė Kulmo
     kraštą; kadangi ne tiek grobio troškimas, kaip baimės
@@ -99,6 +86,3 @@ Magistro pasiųstas Hermanas ton Senenbergas su menka kariauna sulaikė užpuoli
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186210
-
-## Ryšiai
-- Hermanas ton Senenbergas gynė [[objektai/vietos/Kulmas]]

@@ -30,12 +30,6 @@ Apie tai galima spręsti iš arogantiškų Čeliadnino žodžių, kuriuos pertei
 - t-001
   global_id: t-193824
   teiginys: "Apie tai galima spręsti iš arogantiškų Čeliadnino žodžių, kuriuos perteikia vėliau mūšį aprašęs diplomatas Zigmantas Herberšteinas, pasakytų, kai rusų vadas įsakė leisti persikelti visai Lietuvos kariuomenei."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "338519-339060; hash=91bf28dc5137086c242476b5e106459ac34699ea9764207fffa252ddee8073ed; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176468
 
@@ -43,12 +37,6 @@ Apie tai galima spręsti iš arogantiškų Čeliadnino žodžių, kuriuos pertei
 - t-002
   global_id: t-193825
   teiginys: "Dalį kaltės dėl maskvėnų pralaimėjimo galima priskirti vyriausiajam vadui Čeliadninui, Zigmanto Herberšteino liudijimu, jis arogantiškai leido persikelti Lietuvos kariuomenei per Dnieprą ir nederino veiksmų su kitu Maskvos karvedžiu Bulgakovu-Golica."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "342685-343227; hash=1fb912903b817a647366721eb6065f6e5694fee103c3eb954885c8061976cfb0; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176469
 ## Reikšmingi paminėjimai
@@ -72,8 +60,8 @@ Apie tai galima spręsti iš arogantiškų Čeliadnino žodžių, kuriuos pertei
     zervą išdėstė už miško taip, kad priešas jo
     nepastebėtų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -104,8 +92,8 @@ Apie tai galima spręsti iš arogantiškų Čeliadnino žodžių, kuriuos pertei
     Lietuvos kariuomenės nuostoliai buvo
     nežymūs.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -30,21 +30,6 @@ media_all_json: |-
 - t-001
   global_id: t-191467
   teiginys: "94 m. pr. Kr. roksolanai, vadovaujami Pasijaus, Paiako sūnaus, padėjo skitų karaliui Skilūrui kariauti su Ponto karaliumi Mitridatu."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "115537-115972; hash=eb7047c897be3383fff76209b47adcdeab514819b3f28901239c7b652813b346; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Dnepras: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Skilūras: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Dnepras: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Skilūras\" parinktas kaip owner_note_path. Targetas \"Dnepras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174349
 - susijęs iš [[objektai/asmenys/Paiakas.md#claim-t-191452|Paiakas]]: Paiakas Narbuto cituojamame pasakojime įvardytas Pasijaus tėvu, o Pasijus vadovavo roksolanams kare Skilūro pusėje prieš Mitridatą.
@@ -69,8 +54,8 @@ media_all_json: |-
     na jų orda pateko Į Volgos žemupį ir ten, šiandieninės
     Astrachanės apylinkėse, gyveno gana ilgai4.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -81,7 +66,8 @@ media_all_json: |-
 - id: c-174349
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 66"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 66."
   citata_originali: |
     51
     Ros-alanai, Seniausia užuomina apie roksolanus, kaip
@@ -98,7 +84,3 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191467
-
-## Ryšiai
-- Sąjungininkai: [[objektai/grupes/Roksolanai]]
-- Rėmė Skilūrą: [[objektai/asmenys/Pasijus]]

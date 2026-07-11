@@ -47,18 +47,6 @@ media_all_json: |-
 - t-002
   global_id: t-32813
   teiginys: "Valstybingumu grįsta periodizacija laikoma vienašališkai politine, nes remiasi dinastiniais ir politiniais pasikeitimais."
-  temporaliniai_duomenys: "įvykio data: iki 1569 m.; įvykio data: 1569 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "96335-96722; hash=5334a0fcccf25b373a33d016d33ef424d0aafcead701e10824c42d85985b017b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> valstybingumo idėja: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "valstybingumo idėja valstybingumu grįsta periodizacija: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "valstybingumo idėja: mention_match, thing, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"valstybingumo idėja valstybingumu grįsta periodizacija\" parinktas kaip owner_note_path. Targetas \"valstybingumo idėja\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-32693
 
@@ -66,19 +54,6 @@ media_all_json: |-
 - t-001
   global_id: t-32814
   teiginys: "Komunistiniai istorikai atmetė periodizaciją, kurios pagrindas buvo lietuvių tautos valstybingumo idėja."
-  temporaliniai_duomenys: "įvykio data: po 1572 m.; įvykio data: 1572 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai atitinka citatos faktinį turinį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "95875-96334; hash=fafde36035a752b65375405ef369da8c244c8ccc6df29d69bd349037fa6f5aec; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "valstybingumo idėja valstybingumu grįsta periodizacija: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=37"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"valstybingumo idėja valstybingumu grįsta periodizacija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-34180
 ## Reikšmingi paminėjimai
@@ -93,8 +68,8 @@ media_all_json: |-
     centuoja, ypač iki 1569 m. (1572), Lietuvos ir Lenkijos santy­
     kiavimą. O naujaisiais laikais jai terūpi valstybingumo idėja.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -112,8 +87,8 @@ media_all_json: |-
     prėjimas (iki 1492), silpnėjimas (nuo 1572 m.), žlugimas (1795) ir
     atstatymas tautinės valstybės (1918).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -48,14 +48,6 @@ Nenurodyta
 - t-001
   global_id: t-194797
   teiginys: "1247 metais, kai kryžiuočiai jau valdė Pamedę ir tenykščius žmones lyg ir atvertė į krikščionių tikėjimą, vis dėlto dėl nuolatinių sumaiščių ir kovų su kitų provincijų gyventojais, remiamais Pamario kunigaikščio Sviatopelko, jie, matyt, neturėjo pakankamai."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "305024-305524; hash=0e6139b766649c82e4dce6766ada659c9c5e4e8c7a52f6216fb686a0216178bf; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-177193
 ## Reikšmingi paminėjimai
@@ -74,8 +66,8 @@ Nenurodyta
     matyt, neturėjo pakankamai laiko pasirūpinti Pamedės vidaus
     sutvarkymu bei atverstos tautos tikėjimo įtvirtinimu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -86,7 +78,8 @@ Nenurodyta
 - id: c-177193
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 177"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 177."
   citata_originali: |
     Moteris, suviliota
     šios dvasios gundymo, niekaip negali išsivaduoti iš jos meilės.

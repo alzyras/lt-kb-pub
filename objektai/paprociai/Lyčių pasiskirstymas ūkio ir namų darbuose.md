@@ -46,16 +46,6 @@ Nenurodyta
 - t-002
   global_id: t-07791
   teiginys: "Motriškosios po namus trūsėjo, audė, švarino namus, tiekė drabužius ir saugojo viežlybumą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "95114-95687; hash=a334201ab8a5f01b9dff12342082f0c5f1227cd99f88d1bd1e33a2522f5601d9; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
-  ryšio_patikimumas: "susije_su -> Drabužiai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lyčių pasiskirstymas ūkio ir namų darbuose: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Drabužiai: mention_match, thing, gap=10"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lyčių pasiskirstymas ūkio ir namų darbuose\" parinktas kaip owner_note_path. Targetas \"Drabužiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-09947
 ## Reikšmingi paminėjimai
@@ -70,8 +60,8 @@ Nenurodyta
         sau kraičius klodamos, o senosios butai drabužį tiekdamos, trumpai sakant, motriškosios varė
         plikį^377 laukan iš kiemo, o viežlybumą^378 namuose saugojo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

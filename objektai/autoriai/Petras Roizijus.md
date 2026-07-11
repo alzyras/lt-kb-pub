@@ -38,12 +38,6 @@ Tačiau šio karaliaus val dymo saulėlydyje, 1571 metais, baisus badas nuo pusi
 - t-001
   global_id: t-194318
   teiginys: "Tačiau šio karaliaus val dymo saulėlydyje, 1571 metais, baisus badas nuo pusiau žiemio apėmęs visą kraštą, rudenį sostinėje sukėlė tokio masPetrus Maureus Royzius, gimęs Alcagnizo [ Alkaniso] mieste Aragonoje, kilęs iš ispanų Ruiz de Moros gi minės."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "575266-575993; hash=1f06eacdf33ad51cedd876712a765f1a9a8c067e31488dbe46c5c494a914a7f4; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176910
 ## Reikšmingi paminėjimai
@@ -73,8 +67,8 @@ Tačiau šio karaliaus val dymo saulėlydyje, 1571 metais, baisus badas nuo pusi
     sq.; jis pataisė Janockio ir kitų Roizi-
     jaus biografų klaidas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

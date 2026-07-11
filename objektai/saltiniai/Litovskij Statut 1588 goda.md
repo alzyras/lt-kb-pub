@@ -44,19 +44,6 @@ Lappo : Litovskij Statut 1588 goda, I t.
 - t-001
   global_id: t-31830
   teiginys: "I. I. Lappo „Litovskij Statut 1588 goda“ dalys buvo išleistos Kaune 1934 m., 1936 m. ir 1938 m."
-  temporaliniai_duomenys: "įvykio data: po 1569 m.; įvykio data: 1569 m.; įvykio data: 1934 m.; įvykio data: 1936 m.; įvykio data: 1938 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus ir paremtas citatoje išvardytais leidimo metais bei vieta."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "247646-248138; hash=2362eb615b4bf4d00a6054fcf52425878bfbd00752cf6849323fc7c3c443a121; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kaunas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Litovskij Statut 1588 goda: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Kaunas: mention_match, place, gap=49"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Litovskij Statut 1588 goda\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-33651
 ## Reikšmingi paminėjimai
@@ -73,8 +60,8 @@ Lappo : Litovskij Statut 1588 goda, I t.
     istorijos XVI a. 1577 metų suvažiavimas Rytų Vilkaviškyje_** **(1932) ;** **_Lietuva
     ir Lenkija po 1569 m.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

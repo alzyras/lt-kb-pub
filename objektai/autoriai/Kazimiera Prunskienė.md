@@ -30,12 +30,6 @@ media_all_json: |-
 - t-001
   global_id: t-193720
   teiginys: "Žinomi lietuvių ekonomistai Kazimieras Antanavičius, Kazimiera Prunskienė, Antanas Buračas, Eduardas Vilkas viešai ėmė svarstyti Lietuvos kovos dėl ekonominio savarankiškumo klausimus, pasisakė už įmonių savarankiškumą ir rinkos laisvę, kad respublika neturi."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "484812-485303; hash=e8bb18d0b133d04f365fe36fb4ad3f199a8911fc5685867f750e81e0860e9a22; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176388
 ## Reikšmingi paminėjimai
@@ -52,8 +46,8 @@ media_all_json: |-
     įmonių savarankiškumą ir rinkos laisvę, kad respublika neturi būti mecha-
     ninė įmonių suma, kaip SSRS neturėtų būti mechaninė respublikų suma.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

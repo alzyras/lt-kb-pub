@@ -42,19 +42,6 @@ media_all_json: |-
 - t-001
   global_id: t-88248
   teiginys: "Dogelio rankraščiuose Vilniaus universiteto bibliotekoje buvo Žygimanto Augusto 1551 m. privilegijos tekstas."
-  temporaliniai_duomenys: "įvykio data: 1551 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata nurodo privilegijos tekstą ir jo kilmę iš Dogelio rankraščių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "607932-608594; hash=b3e925fe277ca42916114cdf36672597a711b5c6f0fcb54ca24bc38c36c39875; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Dogelio rankraščiai Vilniaus universiteto bibliotekoje: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=22"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dogelio rankraščiai Vilniaus universiteto bibliotekoje\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-84229
 
@@ -62,19 +49,6 @@ media_all_json: |-
 - t-002
   global_id: t-88249
   teiginys: "Dogelio rankraščiuose buvo 1570 m. nuostolių, patirtų Lietuvos monetas keičiant į lenkiškus pinigus, sąrašas."
-  temporaliniai_duomenys: "įvykio data: 1570 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra užbaigtas ir atitinka citatoje pateiktą antraštę bei kilmės nuorodą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "824718-825344; hash=a1da82912c98c423ddda9be52b3915f0acf8c9b03723de18ea0635f11d86444e; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Dogelio rankraščiai Vilniaus universiteto bibliotekoje: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=54"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dogelio rankraščiai Vilniaus universiteto bibliotekoje\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-84228
 ## Reikšmingi paminėjimai
@@ -102,8 +76,8 @@ media_all_json: |-
     Karališkosios Didenybės paliepimu, po 25 lietuviškus gra­
     šius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -143,8 +117,8 @@ media_all_json: |-
     VILNIAUS MIESTO ISTORIJA II TOMAS
     In Nomine Domini, Amen.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

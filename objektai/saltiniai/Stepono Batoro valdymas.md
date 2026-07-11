@@ -43,19 +43,6 @@ Lietuvai paskirtas Tribunolas ir 1581 metais Vilniuje iš­ kilmingai įvesdinta
 - t-001
   global_id: t-88340
   teiginys: "1581 m. Vilniuje iškilmingai įvesdintas Lietuvos Tribunolas išlaisvino karalių nuo varginančių pareigų."
-  temporaliniai_duomenys: "įvykio data: 1581 m.; įvykio data: 1823 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko faktą apie Lietuvos Tribunolo įvesdinimą ir jo rezultatą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "584446-585124; hash=911bb134b589573b9167e55ce25a7612a7412d28be3f49fc0351a82777bbee23; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Stepono Batoro valdymas: owner_note_path, source"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=41"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Stepono Batoro valdymas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-84319
 ## Reikšmingi paminėjimai
@@ -81,8 +68,8 @@ Lietuvai paskirtas Tribunolas ir 1581 metais Vilniuje iš­ kilmingai įvesdinta
     išleistų Varšuvoje, 1823 m. Il t. Dar žr.
     III priedą prie II knygos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

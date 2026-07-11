@@ -33,17 +33,6 @@ pagaliau iš Voluinės, iš Ostroho buvo nepaprastai reikšmingą vaidmenį suva
 - t-001
   global_id: t-21669
   teiginys: "Iš Voluinės Ostroho kilo riurikaitiškos, „ukrainietiškos“ kilmės kunigaikščiai Ostrogiškiai."
-  semantiniai_rysiai: "Radvilos valdė Voluinė (0.70); Chodkevičiai valdė Voluinė (0.70)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "80994-81613; hash=c9302fe593d57dc48e2a927d98afd8fc86ec89ce6dd12878cb373b4fcd14a15e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde -> Voluinė: 0.70"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Radvilos: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Voluinė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekste nurodyta, kad Radvilos čia, t. y. Voluinėje, įgijo valdas."
   pagrindžia:
     - c-24348
 - susijęs iš Klevanė: Klevanėje tėvoniją sukūrė iš šalutinės Gediminaičių šakos kilę Čartoriskiai.
@@ -78,8 +67,8 @@ pagaliau iš Voluinės, iš Ostroho buvo nepaprastai reikšmingą vaidmenį suva
     Daugybė senovės imperijų žlugo palikdamos apie save tautų kalėjimų
     atminimą, o tos, kurios nežlugo, virto tautų lydymosi katilais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -60,22 +60,6 @@ Nenurodyta
 - t-003
   global_id: t-186709
   teiginys: "Prieš Krokuvos seimą dėl Jogailos pakvietimo į Lenkijos sostą Lietuvos delegacija 1385 m. kovo pradžioje Vengrijoje gavo Elžbietos sutikimą."
-  teiginio_tipas: "faktas"
-  temporaliniai_duomenys: "įvykio data: 1385 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "434201-434682; hash=46b8b30d5119c9fc844a312ee4a4b4a77dc8f9166671c7ec59474588acd48acc; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
-  ryšio_patikimumas: "susije_su -> Krokuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Krokuvos seimas dėl Jogailos pakvietimo į Lenkijos sostą (seimas, XIV a.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Krokuva: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Krokuvos seimas dėl Jogailos pakvietimo į Lenkijos sostą (seimas, XIV a.)\" parinktas kaip owner_note_path. Targetas \"Krokuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-169942
 
@@ -83,22 +67,6 @@ Nenurodyta
 - t-002
   global_id: t-186710
   teiginys: "Prieš Krokuvos seimą 1385 m. vasario 18 d. į Krokuvą Jogailos ir Jadvygos vedybų reikalu atvyko Skirgailos vadovaujama Jogailos delegacija."
-  teiginio_tipas: "faktas"
-  temporaliniai_duomenys: "kelionės data: 1385 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys turi aiškų įvykio kontekstą, datą, vietą ir delegacijos vadovą. Atribucija nereikalinga, nes sakinys perteikia neutralų chronologinį faktą, o ne legendą ar vertinimą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "434201-434682; hash=46b8b30d5119c9fc844a312ee4a4b4a77dc8f9166671c7ec59474588acd48acc; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
-  ryšio_patikimumas: "susije_su -> Krokuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Krokuvos seimas dėl Jogailos pakvietimo į Lenkijos sostą (seimas, XIV a.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Krokuva: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Krokuvos seimas dėl Jogailos pakvietimo į Lenkijos sostą (seimas, XIV a.)\" parinktas kaip owner_note_path. Targetas \"Krokuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-169942
 
@@ -106,22 +74,6 @@ Nenurodyta
 - t-001
   global_id: t-186711
   teiginys: "Krokuvos seimas, nutaręs kviesti Jogailą į Lenkijos sostą, vyko Krokuvoje 1385 m. birželio arba liepos mėnesį."
-  teiginio_tipas: "faktas"
-  temporaliniai_duomenys: "įvykio data: 1385 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Komentaro atribucija nebūtina, galima pateikti glaustą faktą apie seimą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "434201-434682; hash=46b8b30d5119c9fc844a312ee4a4b4a77dc8f9166671c7ec59474588acd48acc; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
-  ryšio_patikimumas: "susije_su -> Krokuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Krokuvos seimas dėl Jogailos pakvietimo į Lenkijos sostą (seimas, XIV a.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Krokuva: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Krokuvos seimas dėl Jogailos pakvietimo į Lenkijos sostą (seimas, XIV a.)\" parinktas kaip owner_note_path. Targetas \"Krokuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-169942
 
@@ -129,12 +81,6 @@ Nenurodyta
 - t-004
   global_id: t-193855
   teiginys: "Lenkijos didikų ir bajorų seimas, kuriame buvo nutarta kvies ti Lietuvos didįjį kunigaikšti Jogailą į Lenkijos sostą, buvo ne Petrakave, o Krokuvoje 1385 m. birželio ar liepos mėn."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "434201-434682; hash=46b8b30d5119c9fc844a312ee4a4b4a77dc8f9166671c7ec59474588acd48acc; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-169942
 ## Reikšmingi paminėjimai
@@ -151,8 +97,8 @@ Nenurodyta
     delegacija buvo nuvykusi | Vengriją, kur gavo oficialų Jadvygos
     motinos Elžbietos sutikimą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

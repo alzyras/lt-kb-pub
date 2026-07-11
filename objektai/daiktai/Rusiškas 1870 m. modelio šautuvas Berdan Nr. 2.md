@@ -67,19 +67,6 @@ Nenurodyta
 - t-001
   global_id: t-40758
   teiginys: "Pirmojo pasaulinio karo metu, pradėjus trūkti ginklų, buvo naudojami ir senieji Berdan šautuvai."
-  temporaliniai_duomenys: "įvykio data: 1877-1878; įvykio data: 1878 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "693672-694634; hash=c9679c3e738413b4204e9bace4f4ceb255644de060d05a066b54459bc9d4a15b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Šautuvai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Rusiškas 1870 m. modelio šautuvas Berdan Nr. 2: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Šautuvai: mention_match, thing, gap=63"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rusiškas 1870 m. modelio šautuvas Berdan Nr. 2\" parinktas kaip owner_note_path. Targetas \"Šautuvai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-42544
 ## Reikšmingi paminėjimai
@@ -99,8 +86,8 @@ Nenurodyta
     sarų eskadronas (13 karininkų, 163 kareiviai, nesisekė, Lietuvoje veikusioje gana plačiai iš-
     žirgų visiems raiteliams neužteko, 1 artile- | Raudonojoje armijoje tebuvo apie sklaidę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

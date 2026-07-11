@@ -33,17 +33,6 @@ Dusburgietis teigia, kad tačiau minėtasis Herkus Mantas, iš tolo pamatęs bro
 - t-001
   global_id: t-60139
   teiginys: "Herkus Mantas ietimi sunkiai sužeidė Henriką Ulenbušą, kai šis tempė arbaletą, bet Henriko Ulenbušo žaizda vėliau užgijo."
-  semantiniai_rysiai: "Herkus Mantas puolė Henrikas Ulenbušas (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "392932-393357; hash=acbc6a18843dbfa5e00a01dc119244987b0645134e2e9edbe68df38e4fe0dab5; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Henrikas Ulenbušas: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Herkus Mantas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Henrikas Ulenbušas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Herkus Mantas tiesiogiai sužeidė Henriką Ulenbušą ietimi."
   pagrindžia:
     - c-60772
 
@@ -51,17 +40,6 @@ Dusburgietis teigia, kad tačiau minėtasis Herkus Mantas, iš tolo pamatęs bro
 - t-002
   global_id: t-60140
   teiginys: "Henrikas Ulenbušas nepasitraukė iš mūšio lauko ir narsiu gynimusi paskatino kitus grįžti į kovą su sembais."
-  semantiniai_rysiai: "Henrikas Ulenbušas kariavo prieš Sembai (0.82)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "395484-396076; hash=b44bc2e5ce2455c903cd7f86c8b5be0dfab62c6251c86b30eae135369dc5308e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Sembai: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Henrikas Ulenbušas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Sembai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Henriko gynimasis paskatino grįžti į mūšį, kuriame nukauta daug sembų."
   pagrindžia:
     - c-60771
 - susijęs iš [[objektai/ivykiai/Dramenavos kaimo nusiaubimas ir sembų kontrpuolimas.md#claim-t-89361|Dramenavos kaimo nusiaubimas ir sembų kontrpuolimas]]: Henrikas Ulenbušas per sembų kontrpuolimą nepasitraukė ir pradėjo gintis, todėl kiti broliai grįžo į mūšio lauką.
@@ -85,8 +63,8 @@ Dusburgietis teigia, kad tačiau minėtasis Herkus Mantas, iš tolo pamatęs bro
 
                108 (103).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -103,8 +81,8 @@ Dusburgietis teigia, kad tačiau minėtasis Herkus Mantas, iš tolo pamatęs bro
     vėliau ir užgijo. Sitai matydamas, vienas tarnas trumpąja ietimi sužeidė minėtąjį Herkų
     ir šitaip jam atseikėjo tuo pačiu saiku.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -115,7 +93,8 @@ Dusburgietis teigia, kad tačiau minėtasis Herkus Mantas, iš tolo pamatęs bro
 - id: c-60771
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 122"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 122."
   citata_originali: |
     Štai todėl,
     palaužę ir išvaikę tuos, kurie gyveno Valdavos, Kvedenavos ir Vargių378 valsčiuose bei
@@ -141,7 +120,8 @@ Dusburgietis teigia, kad tačiau minėtasis Herkus Mantas, iš tolo pamatęs bro
 - id: c-60772
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 121"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 121."
   citata_originali: |
     Susidūrę su juo, broliai su savo
     ginklanešiais narsiai pasipriešino. Tačiau minėtasis Herkus Mantas, iš tolo pamatęs brolį
@@ -159,4 +139,3 @@ Dusburgietis teigia, kad tačiau minėtasis Herkus Mantas, iš tolo pamatęs bro
 
 ## Ryšiai
 - Puolė Henrikas Ulenbušą: [[objektai/asmenys/Herkus Mantas]]
-- Henrikas Ulenbušas kariavo prieš [[objektai/grupes/Sembai]]

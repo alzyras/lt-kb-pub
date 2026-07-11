@@ -43,16 +43,6 @@ Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.
 - t-022
   global_id: t-170421
   teiginys: "Kauno gubernijoje moterų raštingumas siekė 55 proc., o vyrų – 52 proc."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "222076-222411; hash=47e70069689af8581738eaa05652a86fab33f256f9cfd2290a9a6cc92d35d3d0; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kaunas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kauno gubernija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kaunas: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kauno gubernija\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-155075
 
@@ -60,17 +50,6 @@ Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.
 - t-024
   global_id: t-170422
   teiginys: "Lietuviai pretendavo į buvusias Rusijos imperijos Vilniaus, Kauno, Suvalkų ir Gardino gubernijų žemes, kurias ir Rusijos vyriausybės tradiciškai vadindavo lietuviškomis."
-  semantiniai_rysiai: "Kauno gubernija priklausė Rusija (0.82); Lietuviai valdė teritoriją Kauno gubernija (0.60)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "280107-280512; hash=755dd9ba311e4fa08d89935e483b41c108b0d07b11c750128cb70743660fabbb; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Rusija: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kauno gubernija: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Rusija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Kauno gubernija buvo Rusijos imperijos teritorijų dalis."
   pagrindžia:
     - c-155074
 
@@ -78,20 +57,6 @@ Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.
 - t-021
   global_id: t-170423
   teiginys: "1843 m. iš septynių vakarinės ir šiaurinės Vilniaus gubernijos apskričių buvo sudaryta Kauno gubernija."
-  semantiniai_rysiai: "Kauno gubernija priklausė Vilnius (0.64)"
-  temporaliniai_duomenys: "įvykio data: 1843 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai pagrįstas citata."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "186894-187641; hash=aacd07daf2777e295365f35afdada02e8a7f3f746195bacd87396b2511b23447; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Vilnius: 0.64"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kauno gubernija: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata nurodo, kad Kauno gubernija sudaryta iš buvusios Vilniaus gubernijos dalių, bet tai kilmės, ne standartinis priklausymo ryšys."
   pagrindžia:
     - c-155076
 
@@ -99,20 +64,6 @@ Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.
 - t-023
   global_id: t-170425
   teiginys: "1917 m. Berno konferencijoje Kauno gubernija įtraukta į etnografinės Lietuvos teritorijos projektą."
-  semantiniai_rysiai: "Kauno gubernija priklausė Lietuva (0.76)"
-  temporaliniai_duomenys: "įvykio data: 1917 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pirminis teiginys yra fragmentiškas ir perkrautas sąrašu."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "261044-261858; hash=7ce9d074861a8a3cb0f2e9a832cb4f5f1e1b46b78dd589ad6f8f1a899f804621; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Lietuva: 0.76"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kauno gubernija: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Berno konferencijos teritorijos projekte Kauno gubernija įtraukta į būsimos Lietuvos teritoriją."
   pagrindžia:
     - c-155071
 
@@ -120,19 +71,6 @@ Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.
 - t-005
   global_id: t-183026
   teiginys: "Vien Kauno gubernijoje kariuomenės egzekucijų prieš valstiečius buvo surengta 117."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "11701-11966; hash=68cfe72f49e8846b7ea16f61dcb9c8a16b461681fe193f939e0e260b7321e1f9; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kaunas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kauno gubernija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kaunas: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kauno gubernija\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-24170
 
@@ -140,20 +78,6 @@ Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.
 - t-006
   global_id: t-188719
   teiginys: "Kauno gubernija šiame apibūdinime priskiriama istorinei Lietuvai kartu su Vilniaus, Gardino ir Minsko gubernijomis."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Kauno gubernija priklausė Lietuva (0.78)"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "11701-11966; hash=68cfe72f49e8846b7ea16f61dcb9c8a16b461681fe193f939e0e260b7321e1f9; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Lietuva: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kauno gubernija: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata Kauno guberniją įtraukia į istorinės Lietuvos apibrėžimą."
   pagrindžia:
     - c-171608
 ## Reikšmingi paminėjimai
@@ -167,8 +91,8 @@ Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.
     egzekucijų buvo padaryta net 117. Kariuomenės šaukėsi tiek
     daug dvarininkų, kad reikėjo jos atvežti net iš kitų gubernijų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -190,8 +114,8 @@ Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.
     Apskritai teritoriniai Lietuvos projektai keitėsi keičiantis tarptautinei si-
     tuacijai – niekas negalėjo pasakyti, kokio dydžio valstybe ji galėtų tapti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -207,8 +131,8 @@ Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.
     A. Jofė sutiko Vilnių ir tas žemes, net Gardiną ir Lydą, kur lietuvių gyven-
     ta išties mažai, priskirti Lietuvai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -226,8 +150,8 @@ Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.
     nijoje (skaičiuojant visus gyventojus) moterų raštingumas buvo didesnis
     nei vyrų: atitinkamai 55 proc. ir 52 proc.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -249,8 +173,8 @@ Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.
     berniją, o Vilniaus guberniją priskyrė prie baltarusiškų, nors vakarinėje
     Vilniaus gubernijos dalyje tebevyravo lietuviškai kalbantieji.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -269,8 +193,8 @@ Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.
     tenai gyvenantys bajorai, išpažįstantys katalikų tikėjimą. Jiems
     visų pirma ir buvo skirtas Lietuvos istorijos veikalas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -399,7 +323,3 @@ Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188719
-
-## Ryšiai
-- Buvo valdoma: [[objektai/grupes/Lietuviai]]
-- Kauno gubernija priklausė [[objektai/vietos/Lietuva]], [[objektai/vietos/Rusija]], [[objektai/vietos/Vilnius]]

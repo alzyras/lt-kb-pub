@@ -30,14 +30,6 @@ Narbutas aprašė, kad karo žygio pradžioje vaidilos atnešdavo Krivių Krivai
 - t-001
   global_id: t-189441
   teiginys: "Narbutas aprašė, kad karo žygio pradžioje vaidilos atnešdavo Krivių Krivaitį, o žmonės parpuldavo veidais žemyn."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "602924-603173; hash=9c4cf40fd7c434e80d6e77b2d74d3591da790074d76b99837f9e3d87d907da4a; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172328
 
@@ -45,21 +37,6 @@ Narbutas aprašė, kad karo žygio pradžioje vaidilos atnešdavo Krivių Krivai
 - t-002
   global_id: t-189442
   teiginys: "Narbutas abejojo pasakojimu, kad vaidila galėjęs pagalve uždusinti ligonį, jei būrimai rodė neišvengiamą mirtį."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "635738-636289; hash=f695993a93ac6ca972f06efaf9b45973add3f8e5a06b1f7381f8266848d49472; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vaidila: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vaidilos: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Vaidila: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vaidilos\" parinktas kaip owner_note_path. Targetas \"Vaidila\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172329
 - susijęs iš [[objektai/daiktai/Buthas.md#claim-t-189677|Buthas]]: Narbutas Buthą aprašo kaip paprasto dvasininko ar vaidilos teisėjo galią žymėjusią ąžuolinę lazdą su kreiva šaka ir vienu kutu.
@@ -90,8 +67,8 @@ Narbutas aprašė, kad karo žygio pradžioje vaidilos atnešdavo Krivių Krivai
     pinta būda; žmonės parpuldavo ant kelių veidais žemyn, o jis
     mosikuodavo raudona vėliavėle ir kažką į juos numesdavo...
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -115,8 +92,8 @@ Narbutas aprašė, kad karo žygio pradžioje vaidilos atnešdavo Krivių Krivai
     les; ar jie nebūtų bijoję priekaištų ir keršto už toms pačioms
     vėlėms padarytą skriaudą?
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -127,7 +104,8 @@ Narbutas aprašė, kad karo žygio pradžioje vaidilos atnešdavo Krivių Krivai
 - id: c-172328
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 343"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 343."
   citata_originali: |
     Kai su­
     šaukta kariuomenė žygiuodavo į karą, ji sustodavo padrikai;
@@ -165,6 +143,3 @@ Narbutas aprašė, kad karo žygio pradžioje vaidilos atnešdavo Krivių Krivai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189442
-
-## Ryšiai
-- Turėjo priklausinį: [[objektai/daiktai/Vaidilų apeiginiai drabužiai]]

@@ -30,20 +30,6 @@ Mirus Konstantinui Karijotaičiui, Algirdas jo brolį Teodorą paskyrė į Konst
 - t-001
   global_id: t-186167
   teiginys: "Mirus Konstantinui Karijotaičiui, Algirdas jo brolį Teodorą paskyrė į Konstantino vietą Podolėje."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Teodoras (Konstantino Karijotaičio brolis) valdė Podolė (0.78)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "858569-859139; hash=dfd4aa7fa86ddde669934611d2bbeb512880b41f566dead658fa6e43f4079961; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde -> Podolė: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Teodoras (Konstantino Karijotaičio brolis): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Podolė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teodoras buvo paskirtas į Podolės kunigaikščio vietą, todėl ryšys su Podolės valdymu pagrįstas."
   pagrindžia:
     - c-169528
 ## Reikšmingi paminėjimai
@@ -65,8 +51,8 @@ Mirus Konstantinui Karijotaičiui, Algirdas jo brolį Teodorą paskyrė į Konst
     čiui, pastarasis jį sumušęs, o Podolę pavertęs savo val­
     da, paskirdamas vietininku Goštautą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -77,7 +63,8 @@ Mirus Konstantinui Karijotaičiui, Algirdas jo brolį Teodorą paskyrė į Konst
 - id: c-169528
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 488"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 488."
   citata_originali: |
     Algirdas, Lietuvos didysis kuni­
     gaikštis, peržengęs Kijevo bei Volynės kunigaikštysčių
@@ -97,6 +84,3 @@ Mirus Konstantinui Karijotaičiui, Algirdas jo brolį Teodorą paskyrė į Konst
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186167
-
-## Ryšiai
-- Teodoras (Konstantino Karijotaičio brolis) valdė [[objektai/vietos/Podolė]]

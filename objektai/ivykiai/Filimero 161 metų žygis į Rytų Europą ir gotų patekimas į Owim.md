@@ -42,25 +42,6 @@ Nenurodyta
 - t-001
   global_id: t-191060
   teiginys: "Narbutas, remdamasis Jordanu, Filimero 161 m. žygį į Rytų Europą sieja su gotų persikėlimu į dešinįjį Vyslos krantą ir Owim kraštą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Gotai keliavo į Vysla (0.84); Filimeras surengė žygį į Europa (0.82)"
-  temporaliniai_duomenys: "įvykio data: 161 m; kelionės data: 161 m"
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Filimeras surengė žygį į Europa“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Gotai keliavo į Vysla“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai sieja Filimero žygį, Jordaną, gotus ir Owim kraštą. Atribucija palikta, nes kalbama apie šaltinio chronologinę interpretaciją."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "448023-448538; hash=53680e4213d389ddfade5cdf4b78f420e15abf8a2a0287266788ae365d20d25a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Vysla: 0.84"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gotai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vysla: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Gotai tiesiogiai aprašomi kaip persikėlę į dešiniąją Vyslos pakrantę."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173942
 ## Reikšmingi paminėjimai
@@ -85,8 +66,8 @@ Nenurodyta
     persikėlę j dešiniąją Vyslos pakrantę, gotai pirmiausia pa­
     teko j kraštą, vadinamą Owim.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

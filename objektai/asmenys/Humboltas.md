@@ -30,14 +30,6 @@ Pasak Narbuto, Humboltas aiškino, kad tropikų augalija senovės Šiaurėje vė
 - t-001
   global_id: t-191499
   teiginys: "Pasak Narbuto, Humboltas aiškino, kad tropikų augalija senovės Šiaurėje vėso dėl ten buvusios išsiskyrusios šilumos."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "611150-611658; hash=7ea1fb532a3085d2837ced0fc6a9f48b4aba156fb1782b1a4387e70e631dcca7; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174381
 - susijęs iš [[objektai/asmenys/Aleksandras Humboltas.md#claim-t-191242|Aleksandras Humboltas]]: Aleksandras Humboltas teigė, kad atsiskyrus skystajai ir kietajai materijai Žemės rutulys buvo karštas tarsi raudonai įkaitinta geležis.
@@ -68,8 +60,8 @@ Pasak Narbuto, Humboltas aiškino, kad tropikų augalija senovės Šiaurėje vė
     tik tol, kol susikaupusi šiluma išsisklaidė ir po kitas oro
     juostas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -80,7 +72,8 @@ Pasak Narbuto, Humboltas aiškino, kad tropikų augalija senovės Šiaurėje vė
 - id: c-174381
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 340"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 340."
   citata_originali: |
     Todėl viskas prasidėjo nuo Siaurės, nes prie
     pusiaujo dėl karščio niekas negalėjo augti. Tai taip pat

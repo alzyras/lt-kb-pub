@@ -48,23 +48,6 @@ Nenurodyta
 - t-001
   global_id: t-185804
   teiginys: "1362 m. pavasario pradžioje kryžiuočių magistras išvedė nuolatinę ir pagalbinę kariuomenę į Lietuvą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Kryžiuočių ordinas apgulė Kauno apgulties pradžia (1362 m.) (0.75)"
-  temporaliniai_duomenys: "įvykio data: 1362 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Įvardytas veikiantysis ir pašalinta neaiški įvardžio formuluotė."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "427228-427832; hash=fe6267312f778c4f6a2bb137819101c18e22b9e486a82d1d1c5e08263f746b8f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "apgule -> Kauno apgulties pradžia (1362 m.): 0.75"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Kauno apgulties pradžia (1362 m.): llm_allowed_candidate, event"
-  ryšio_paaiskinimas: "Citata aprašo kryžiuočių žygį, kuris virsta Kauno apgulties pradžia."
   pagrindžia:
     - c-169165
 ## Reikšmingi paminėjimai
@@ -92,8 +75,8 @@ Nenurodyta
     vykęs su kariuomene pralaužti apsupimo žiedo, nieko
     nelaimėjo ir buvo atstumtas.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -130,6 +113,3 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185804
-
-## Ryšiai
-- Apgulė Kauno apgulties pradžią (1362 m.): [[objektai/grupes/Kryžiuočių ordinas]]

@@ -52,16 +52,6 @@ Nenurodyta
 - t-001
   global_id: t-19573
   teiginys: "Minint pirmąjį nepriklausomybės dešimtmetį pastatyta atminimo kryžių, patriotinių paminklų, primenančių nepriklausomybės kovas, imta rūpintis žuvusių už Lietuvos laisvę karių kapais."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "349573-350017; hash=29beedd1e136db9d2f4c6b75b66a2d45dbcc53077a8330a3606875026de45bf3; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Nepriklausomybės dešimtmečio atminimo kryžiai ir patriotiniai paminklai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=138"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Nepriklausomybės dešimtmečio atminimo kryžiai ir patriotiniai paminklai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-22278
 ## Reikšmingi paminėjimai
@@ -77,8 +67,8 @@ Nenurodyta
     nimo kryžių, patriotinių paminklų, primenančių nepriklausomybės kovas,
     imta rūpintis žuvusių už Lietuvos laisvę karių kapais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

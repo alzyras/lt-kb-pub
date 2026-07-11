@@ -55,19 +55,6 @@ Nenurodyta
 - t-001
   global_id: t-31483
   teiginys: "Fridrichas II 1245 m. Veronoje duota auksine bule kryžiuočiams amžinai padovanojo Kuršą, Lietuvą ir Žiemgalius."
-  semantiniai_rysiai: "Fridrichas II rėmė Kryžiuočių ordinas (0.76); Lietuva priklausė Kryžiuočių ordinas (0.66); Žiemgaliai priklausė Kryžiuočių ordinas (0.66)"
-  temporaliniai_duomenys: "įvykio data: 1245 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "466808-467166; hash=dea1665ec13aa1defb5e879b8f274e1c7bf836f9646a18a486c1a4eb253df1f9; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "reme -> Kryžiuočių ordinas: 0.76"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Fridrichas II: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Fridricho II dovanojimas kryžiuočiams rodo politinę paramą Ordinui."
   pagrindžia:
     - c-33434
 ## Reikšmingi paminėjimai
@@ -83,8 +70,8 @@ Nenurodyta
     dinas naudojosi dideliu vokiečių kunigaikščių palankumu ir ypatinga
     Romos kurijos globa.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

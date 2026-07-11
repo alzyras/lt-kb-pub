@@ -54,20 +54,6 @@ Nenurodyta
 - t-001
   global_id: t-62236
   teiginys: "1304 m. apie Kalėdas didelis potvynis sugriovė abu Paryžiaus tiltus, o kitos provincijos patyrė didelių nuostolių."
-  teiginio_tipas: "faktas"
-  temporaliniai_duomenys: "įvykio data: 1304 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys neapima svarbiausio įvykio objekto ir turi boilerplate."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "735252-735495; hash=e61efbf2eef0fcca805ef5105aa652940e605631314b5b4ce50542f7a83e2a3d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Paryžius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Didysis potvynis ir Paryžiaus tiltų sugriuvimas (1304 m. apie Kalėdas): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Paryžius: mention_match, place, gap=22"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Didysis potvynis ir Paryžiaus tiltų sugriuvimas (1304 m. apie Kalėdas)\" parinktas kaip owner_note_path. Targetas \"Paryžius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-62735
 
@@ -75,20 +61,6 @@ Nenurodyta
 - t-001
   global_id: t-62236
   teiginys: "1304 m. apie Kalėdas didelis potvynis sugriovė abu Paryžiaus tiltus, o kitos provincijos patyrė didelių nuostolių."
-  teiginio_tipas: "faktas"
-  temporaliniai_duomenys: "įvykio data: 1304 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys neapima svarbiausio įvykio objekto ir turi boilerplate."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "735252-735495; hash=e61efbf2eef0fcca805ef5105aa652940e605631314b5b4ce50542f7a83e2a3d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Paryžius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Didysis potvynis ir Paryžiaus tiltų sugriuvimas (1304 m. apie Kalėdas): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Paryžius: mention_match, place, gap=22"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Didysis potvynis ir Paryžiaus tiltų sugriuvimas (1304 m. apie Kalėdas)\" parinktas kaip owner_note_path. Targetas \"Paryžius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-62735
 
@@ -96,12 +68,6 @@ Nenurodyta
 - t-003
   global_id: t-194381
   teiginys: "Apie potvynį 1304 viešpaties metais, apie kalėdas, taip ištvino vanduo, kad žmonės manė, jog žūsią nuo tvano."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "735252-735495; hash=e61efbf2eef0fcca805ef5105aa652940e605631314b5b4ce50542f7a83e2a3d; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-62735
 ## Reikšmingi paminėjimai
@@ -119,8 +85,8 @@ Nenurodyta
 
                      98.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -133,7 +99,8 @@ Nenurodyta
 - id: c-62735
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 245"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 245."
   citata_originali: |
     Apie potvynį
 

@@ -34,16 +34,6 @@ Pasak flamando riterio Ghileberto de Lannoy, jis buvęs įve­ dęs Lietuvos kun
 - t-001
   global_id: t-96030
   teiginys: "Ghilebertas de Lannoy liudijo, kad Vytautas Lietuvos kunigaikštijoje buvo įvedęs svetimšaliams palankią tvarką."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "721844-722233; hash=26fe12f8df62e43f67a80494e61ada94ba8b7f21c9adf70b794765c273e961fe; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ghilebertas de Lannoy: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=44"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ghilebertas de Lannoy\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-90783
 ## Reikšmingi paminėjimai
@@ -60,8 +50,8 @@ Pasak flamando riterio Ghileberto de Lannoy, jis buvęs įve­ dęs Lietuvos kun
     Dėl visų jo pastangų Lietuva Europoje atsistojo pilna pėda
     greta kitų valstybių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

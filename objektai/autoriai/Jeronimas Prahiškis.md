@@ -38,24 +38,6 @@ Narbutas rašo, kad Jeronimas Prahiškis apie 1405 m. grįždamas į tėvynę pa
 - t-001
   global_id: t-190322
   teiginys: "Narbutas rašo, kad Jeronimas Prahiškis apie 1405 m. grįždamas į tėvynę parsinešė Viklifo raštus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1405 m.; įvykio data: apie 1405 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
-  temporalinis_llm_pakomentavimas: "Vertinamoji ir poleminė aplinka sutraukta, paliekant veiksmą ir datą. Viklifo raštų vertinimas neperimtas kaip neutralus faktas."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "711970-712547; hash=7e3b1636522e89d114b52db280e29fbdc936fd05e5894c820ed994b15fcdc197; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jeronimas Prahiškis: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jeronimas Prahiškis\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173205
 
@@ -63,14 +45,6 @@ Narbutas rašo, kad Jeronimas Prahiškis apie 1405 m. grįždamas į tėvynę pa
 - t-002
   global_id: t-194661
   teiginys: "Jeronimas Prahiškis jiems atsakęs, kad krikštyti antrą kartą nedera, kad pakanka juos išmokyti tikrojo tikėjimo, išpažįstamo Romos bažnyčioje."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "712315-713316; hash=3b944634d1c81036dd9503f877523a479882e0ddcb3bf7d558e88b1e62a47026; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-177058
 ## Reikšmingi paminėjimai
@@ -91,8 +65,8 @@ Narbutas rašo, kad Jeronimas Prahiškis apie 1405 m. grįždamas į tėvynę pa
     skleidė su ta naujiena lenkų kunigams, bet, atrodo, jau buvo
     įtariamas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -124,8 +98,8 @@ Narbutas rašo, kad Jeronimas Prahiškis apie 1405 m. grįždamas į tėvynę pa
     ka juos išmokyti tikrojo tikėjimo, išpažįstamo Romos bažny­
     čioje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -136,7 +110,8 @@ Narbutas rašo, kad Jeronimas Prahiškis apie 1405 m. grįždamas į tėvynę pa
 - id: c-173205
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 397"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 397."
   citata_originali: |
     Tie­
     sa, aukštasis dvasininkas gėdingai nužudė lordą, bet įpūtė po

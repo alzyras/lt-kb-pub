@@ -49,23 +49,6 @@ Nenurodyta
 - t-001
   global_id: t-185554
   teiginys: "Bisenės pilėnai narsiai atrėmė kryžiuočių puolimą ir privertė daug karių netekusį priešą pasitraukti."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Kryžiuočių ordinas puolė Bisenė (0.82)"
-  temporaliniai_duomenys: "įvykio data: 1313 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata aiškiai remia glaustą faktą apie Bisenės gynimą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "326498-327252; hash=31dab94ceef843f267999e11a09410cd0f965cd288a3fe09fff44a8a43c0ee41; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Bisenė: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Bisenė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata ir claim_text tiesiogiai kalba apie kryžiuočių Bisenės puolimą."
   pagrindžia:
     - c-168915
 ## Reikšmingi paminėjimai
@@ -95,8 +78,8 @@ Nenurodyta
     dens pusę atsukti jų šonai, kaip pastebėjęs, esą pa­
     prastai menkiau sutvirtinti ir lengviau prieinami.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

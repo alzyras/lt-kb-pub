@@ -30,14 +30,6 @@ Stinigutas Narbuto aprašyme buvo vienas Šalavijos galingųjų žmonių, iš ku
 - t-001
   global_id: t-191470
   teiginys: "Stinigutas Narbuto aprašyme buvo vienas Šalavijos galingųjų žmonių, iš kurių buvo renkami vyriausieji vadai."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "671374-671791; hash=97b7468d90e527ead7f060ac3a39e0ea655ce5d5ec4897c01ed26b3795a1ce7b; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174352
 ## Reikšmingi paminėjimai
@@ -56,8 +48,8 @@ Stinigutas Narbuto aprašyme buvo vienas Šalavijos galingųjų žmonių, iš ku
     sižvelgdami į vasalų kiekį ir tinkamumą, taip pat paskir­
     davo skyrių vadus, kurie vadovavo būriams mūšio lauke.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -68,7 +60,8 @@ Stinigutas Narbuto aprašyme buvo vienas Šalavijos galingųjų žmonių, iš ku
 - id: c-174352
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 370"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 370."
   citata_originali: |
     Šalavija taip pat turėjo savo
     savarankiškų ponų, valdžiusių žmones ir kraštą; buvo

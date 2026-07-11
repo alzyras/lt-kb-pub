@@ -42,21 +42,6 @@ Po trejų metų Sapiegos buvo visiškai nugalėti. Gavę 100.000 talerių, Sapie
 - t-024
   global_id: t-184581
   teiginys: "A. Kojelavičius pirmo ir antro tomų dedikacijas skyrė Sapiegoms, tačiau cenzoriai šių dedikacijų neskaitė."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "11575-11851; hash=6a97f6cf5e942f3c9d58a5aa1901ca3df6dab2f1a56ed0b90d2d29b71f982a39; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Albertas Vijūkas-Kojelavičius: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Sapiegos: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Albertas Vijūkas-Kojelavičius: mention_match, author"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sapiegos\" parinktas kaip owner_note_path. Targetas \"Albertas Vijūkas-Kojelavičius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-167942
 
@@ -64,12 +49,6 @@ Po trejų metų Sapiegos buvo visiškai nugalėti. Gavę 100.000 talerių, Sapie
 - t-025
   global_id: t-193338
   teiginys: "Šiuos ir kitus garsiuosius Tavo Tėvo nuopelnus valsty bei, taip pat Tavo senelio Jono Sapiegos, pelniusio trisdešimtkarčio Maskvos nugalėtojo vardą, jų žygius plačiau išdėstys trečioji Istorijos dalis, vis dėlto ir tuo tarpu, kai Tu ėmeisi rūpintis valstybe."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "516996-518236; hash=d38c58661201f86460b9b317973bb3b1e916f09b90100826306baa3b8980433c; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176066
 - susijęs iš [[objektai/zodynas/dvarų milicija.md#claim-t-182942|dvarų milicija]]: Sapiegų priešininkai atsivedė samdytos kariuomenės, vadintos savo dvarų milicija.
@@ -106,8 +85,8 @@ Po trejų metų Sapiegos buvo visiškai nugalėti. Gavę 100.000 talerių, Sapie
     matyti A. Kojelavičiaus pažiūros į Lietuvos ir Lenkijos
     santykius.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -145,8 +124,8 @@ Po trejų metų Sapiegos buvo visiškai nugalėti. Gavę 100.000 talerių, Sapie
     Tavo sveikatą ir laimę, kad vėliau tuo globėju džiaug­
     tųsi ir didžiuotųsi.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -157,7 +136,8 @@ Po trejų metų Sapiegos buvo visiškai nugalėti. Gavę 100.000 talerių, Sapie
 - id: c-167942
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 8"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 8."
   citata_originali: |
     Cenzoriai neskaitė autoriaus pirmo ir antro tomų
     dedikacijų Sapiegoms. Antrą tomą A. Kojelavičius pa­
@@ -213,5 +193,3 @@ Po trejų metų Sapiegos buvo visiškai nugalėti. Gavę 100.000 talerių, Sapie
 
 ## Ryšiai
 - Priešai: [[objektai/grupes/Lietuvos bajorija]]
-- Sąjungininkai: [[objektai/grupes/Švedai]]
-- Sapiegos keliavo į [[objektai/vietos/Viena]], [[objektai/vietos/Vilnius]]

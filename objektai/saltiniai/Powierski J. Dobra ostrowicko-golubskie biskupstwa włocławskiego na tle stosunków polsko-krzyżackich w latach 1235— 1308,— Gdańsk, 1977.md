@@ -41,12 +41,6 @@ Dusburgietis teigia, kad powierski J.
 - t-001
   global_id: t-61239
   teiginys: "J. Powierskio veikalas apie Vloclaveko vyskupijos Ostrovico ir Golubo valdas 1235–1308 m. išleistas Gdanske 1977 m."
-  temporaliniai_duomenys: "įvykio data: 1235-1308; įvykio data: 1308 m.; įvykio data: 1977 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko šaltinio temą, autorių, leidimo vietą ir metus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "792577-792885; hash=26cdb1665e4970e472b8f15a542960b9232f09d3a486d92ad880cacc3fc3289b; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-61871
 ## Reikšmingi paminėjimai
@@ -61,8 +55,8 @@ Dusburgietis teigia, kad powierski J.
     opóźnienia rozwoju politycznego Prusów.—ABS, Wrocław—Warszawa—Kraków—Gdańsk,
     1977, 11, s.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -73,7 +67,8 @@ Dusburgietis teigia, kad powierski J.
 - id: c-61871
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 270"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 270."
   citata_originali: |
     Powierski J. Dobra ostrowicko-golubskie biskupstwa włocławskiego na tle stosunków
     polsko-krzyżackich w latach 1235— 1308,— Gdańsk, 1977.

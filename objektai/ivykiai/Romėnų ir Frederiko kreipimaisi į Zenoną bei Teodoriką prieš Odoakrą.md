@@ -42,21 +42,6 @@ Nenurodyta
 - t-001
   global_id: t-191073
   teiginys: "Narbuto pasakojime romėnai slapta kreipėsi į Zenoną, prašydami išvaduoti juos iš barbarų, o Frederikas Teodoriko rūmuose prašė pagalbos prieš berilius."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "573019-573295; hash=6515e953e468c3d1081f689e905e5ba50d33ecf5e5d034f20f3f874d22629f23; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Teodorikas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Romėnų ir Frederiko kreipimaisi į Zenoną bei Teodoriką prieš Odoakrą: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Teodorikas: mention_match, person, gap=60"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Romėnų ir Frederiko kreipimaisi į Zenoną bei Teodoriką prieš Odoakrą\" parinktas kaip owner_note_path. Targetas \"Teodorikas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173955
 ## Reikšmingi paminėjimai
@@ -75,8 +60,8 @@ Nenurodyta
     derikas Teodoriko rūmuose nesiliovė prašęs pagalbos prie­
     šams beriliams nugalėti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

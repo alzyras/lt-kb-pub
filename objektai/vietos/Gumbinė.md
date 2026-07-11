@@ -41,16 +41,6 @@ kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gu
 - t-009
   global_id: t-170419
   teiginys: "XVIII a. Prūsijoje įsteigto Lietuvos departamento centras buvo Gumbinė."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "19889-20398; hash=f9ef8c1fabad51fa058f189962ec026ef70b6a4c7ddcc7ef5e727cccf9de58f5; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gumbinė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=35"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gumbinė\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-155070
 - susijęs iš [[objektai/paprociai/Varpų naudojimas pavojui, sargybai ir kariams kelti.md#claim-t-189813|Varpų naudojimas pavojui, sargybai ir kariams kelti]]: Narbutas Gumbinės (Gumbin) miesto pavadinimą kildino iš tokio varpo.
@@ -74,8 +64,8 @@ kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gu
     pasaulinio karo, iš Prūsijos pasitraukus seniesiems gyventojams, lietuviš-
     kai kalbančiųjų nebeliko.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

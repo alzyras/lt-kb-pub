@@ -40,20 +40,6 @@ Dusburgietis teigia, kad apie dviejų kaimų sudeginimą Medininkų valsčiuje 1
 - t-001
   global_id: t-60331
   teiginys: "1316 m. vasarą Sembos fogtas Hugonas maršalo įsakymu su aštuoniais šimtais vyrų išjojo link Medininkų valsčiaus."
-  semantiniai_rysiai: "Hugonas (Sembos fogtas) surengė žygį į Medininkai (0.86)"
-  temporaliniai_duomenys: "įvykio data: 1316 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalintas antraštės triukšmas ir nutrūkęs įsiveržimo fragmentas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "657223-657770; hash=f04973f27e96d082c2d8566480be957f0412255b9f389a9e9169579056b3c739; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "surenge_zygi_i -> Medininkai: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Hugonas (Sembos fogtas): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Medininkai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata aprašo karinį Hugono žygį link Medininkų valsčiaus."
   pagrindžia:
     - c-60963
 ## Reikšmingi paminėjimai
@@ -71,8 +57,8 @@ Dusburgietis teigia, kad apie dviejų kaimų sudeginimą Medininkų valsčiuje 1
     200 lietuvių. Vis dėlto, išvydę krikščionių kariuomenę, per anksti išpuolusią iš pasalų, jie
     pasileido bėgti ir šitaip išsigelbėjo.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -83,7 +69,8 @@ Dusburgietis teigia, kad apie dviejų kaimų sudeginimą Medininkų valsčiuje 1
 - id: c-60963
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 212"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 212."
   citata_originali: |
     330 (323). Apie dviejų kaimų sudeginimą Medininkų valsčiuje 1316 metais
 
@@ -100,6 +87,3 @@ Dusburgietis teigia, kad apie dviejų kaimų sudeginimą Medininkų valsčiuje 1
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60331
-
-## Ryšiai
-- Hugonas (Sembos fogtas) surengė žygį į [[objektai/vietos/Medininkai]]

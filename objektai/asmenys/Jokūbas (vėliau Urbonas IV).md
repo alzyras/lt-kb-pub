@@ -45,20 +45,6 @@ Dusburgietis teigia, kad ir nepakeldamas didelių išlaidų, liovėsi toliau pri
 - t-001
   global_id: t-60337
   teiginys: "Jokūbas, Liežo arkidiakonas ir vėlesnis popiežius Urbonas IV, sudarė sutartį tarp Sventopelko ir brolių."
-  semantiniai_rysiai: "Jokūbas (vėliau Urbonas IV) sudarė sutartį su Kryžiuočių ordinas (0.76)"
-  temporaliniai_duomenys: "įvykio data: po 1246 m.; įvykio data: 1246 m.; įvykio data: 1254 m.; įvykio data: 1260 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys buvo priklausomas nuo konteksto; citata leidžia aiškiai įvardyti Jokūbo vaidmenį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "337622-338668; hash=a6c4f6cd863c3d0e91a597e48474ff4d548b5b61add2b963c769515988e049a9; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "sudare_sutarti_su -> Kryžiuočių ordinas: 0.76"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jokūbas (vėliau Urbonas IV): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata sako, kad Jokūbas sudarė sutartį tarp Sventopelko ir brolių; brolių kandidatas siejamas su Kryžiuočių ordinu."
   pagrindžia:
     - c-60969
 
@@ -66,19 +52,6 @@ Dusburgietis teigia, kad ir nepakeldamas didelių išlaidų, liovėsi toliau pri
 - t-002
   global_id: t-188548
   teiginys: "Jokūbas nukritęs iš dangaus (akmuo - meteoritas)."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "417522-417995; hash=fce312c180eeaee742c0b72388055733acfaa44e81aeb689fac28456d879fd75; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aurelijus Antoninas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jokūbas (vėliau Urbonas IV): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Aurelijus Antoninas: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jokūbas (vėliau Urbonas IV)\" parinktas kaip owner_note_path. Targetas \"Aurelijus Antoninas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-171437
 - susijęs iš [[objektai/asmenys/Jokūbas iš Kobylanų.md#claim-t-39748|Jokūbas iš Kobylanų]]: Jokūbas iš Kobylanų vadovavo apie 4000 karių lenkų daliniui, Vladislovo Jogailaičio atsiųstam į pagalbą Žygimantui Kęstutaičiui.
@@ -136,8 +109,8 @@ Dusburgietis teigia, kad ir nepakeldamas didelių išlaidų, liovėsi toliau pri
     pabaigos ištikimai laikėsi sutarties, kurią tarp jo ir brolių buvo sudaręs Jokūbas, Liuticho
     [Liežo] arkidiakonas, vėliau tapęs popiežiumi Urbonu IV.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -157,8 +130,8 @@ Dusburgietis teigia, kad ir nepakeldamas didelių išlaidų, liovėsi toliau pri
     buvo didžiulis juodas akmuo, apie kurį manyta, kad jis nukri­
     tęs iš dangaus (akmuo -  meteoritas).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -169,7 +142,8 @@ Dusburgietis teigia, kad ir nepakeldamas didelių išlaidų, liovėsi toliau pri
 - id: c-60969
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 102-103"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 102-103."
   citata_originali: |
     Tuo pat metu ir dėl
     tos pačios priežasties ir Sventopelkas, Pomeranijos kunigaikštis, pavargęs nuo pastangų
@@ -198,7 +172,8 @@ Dusburgietis teigia, kad ir nepakeldamas didelių išlaidų, liovėsi toliau pri
 - id: c-171437
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 242"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 242."
   citata_originali: |
     Žino­
     ma, kad frygų garbintos dievų motinos stabas buvo netašytas
@@ -215,6 +190,3 @@ Dusburgietis teigia, kad ir nepakeldamas didelių išlaidų, liovėsi toliau pri
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188548
-
-## Ryšiai
-- Jokūbas (vėliau Urbonas IV) sudarė sutartį su [[objektai/grupes/Kryžiuočių ordinas]]

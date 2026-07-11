@@ -35,12 +35,6 @@ media_all_json: |-
 - t-001
   global_id: t-194311
   teiginys: "Paveldėtojų parduodamų Svečių na mų pardavimo kopija: Vilniaus ar klininko Mykolo Grigaravičiaus VILNIAUS MIESTO ISTORIJA // TOMAS buvo nuo mokesčių atleistas Kaune esantis Vilniaus pirklių prekių sandėlis ir leista Vilijos upe laisvai plaukioti jų lai vams."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "540673-541559; hash=8e38218e6662fc27147163ff3585a91dee83747454ed32c8398d7871d0bdcc47; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176903
 ## Reikšmingi paminėjimai
@@ -73,8 +67,8 @@ media_all_json: |-
     šimtą kapų grašių, - yra miesto ar­
     chyve.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

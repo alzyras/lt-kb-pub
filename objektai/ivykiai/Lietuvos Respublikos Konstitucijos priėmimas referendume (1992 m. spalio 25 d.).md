@@ -57,19 +57,6 @@ Nenurodyta
 - t-003
   global_id: t-75194
   teiginys: "1992 m. Konstitucijos preambulė valstybės teisės tęstinumą siejo su Lietuvos Statutais ir Lietuvos Respublikos konstitucijomis."
-  temporaliniai_duomenys: "įvykio data: 1992 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis sakinys per ilgas ir gremėzdiškas; citata leidžia pateikti aiškesnį teiginį."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "509873-510740; hash=f550b44d8fb97571b1cf45ca8562e5331b8a403adda6ad00539369f0f62e7a93; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Abiejų Tautų Respublika: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos Respublikos Konstitucijos priėmimas referendume (1992 m. spalio 25 d.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Abiejų Tautų Respublika: mention_match, group, gap=91"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos Respublikos Konstitucijos priėmimas referendume (1992 m. spalio 25 d.)\" parinktas kaip owner_note_path. Targetas \"Abiejų Tautų Respublika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-73071
 
@@ -77,16 +64,6 @@ Nenurodyta
 - t-002
   global_id: t-75195
   teiginys: "Konstitucija skelbė Lietuvą demokratine respublika, kurios suverenitetas priklauso tautai."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "509637-510497; hash=54ab75c8e8ec9e747c3858059bb5226352f0c03fc37d886afc5d8da5fd6da778; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Abiejų Tautų Respublika: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos Respublikos Konstitucijos priėmimas referendume (1992 m. spalio 25 d.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Abiejų Tautų Respublika: mention_match, group, gap=40"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos Respublikos Konstitucijos priėmimas referendume (1992 m. spalio 25 d.)\" parinktas kaip owner_note_path. Targetas \"Abiejų Tautų Respublika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-23017
 
@@ -94,19 +71,6 @@ Nenurodyta
 - t-001
   global_id: t-75196
   teiginys: "1992 m. spalio 25 d. piliečių referendume priimta Lietuvos Respublikos Konstitucija."
-  temporaliniai_duomenys: "įvykio data: 1992 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra glaustas, gramatiškas ir tiksliai pagrįstas citata."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "509220-509635; hash=532b2a65839698daa23944709dcbe565ca6ab6a4cec09cb565cfdebf7adc3b73; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Abiejų Tautų Respublika: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos Respublikos Konstitucijos priėmimas referendume (1992 m. spalio 25 d.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Abiejų Tautų Respublika: mention_match, group, gap=29"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos Respublikos Konstitucijos priėmimas referendume (1992 m. spalio 25 d.)\" parinktas kaip owner_note_path. Targetas \"Abiejų Tautų Respublika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-23016
 
@@ -114,24 +78,6 @@ Nenurodyta
 - t-004
   global_id: t-183257
   teiginys: "1992 m. spalio 25 d. referendume priimtos Konstitucijos preambulėje įtvirtinti pilietinės visuomenės ir teisinės valstybės principai."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1992 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata geriau pagrindžia teiginį apie priimtos Konstitucijos principus, susijusius su įvykio objektu."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "509424-509872; hash=8f74959516d7558c5d9a7b0302d23a6098a9f410bcef811f96a902c959ab1342; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> konstitucijos: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos Respublikos Konstitucijos priėmimas referendume (1992 m. spalio 25 d.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "konstitucijos: mention_match, thing, gap=21"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos Respublikos Konstitucijos priėmimas referendume (1992 m. spalio 25 d.)\" parinktas kaip owner_note_path. Targetas \"konstitucijos\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-13T14:18:10Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-166645
 ## Reikšmingi paminėjimai
@@ -147,8 +93,8 @@ Nenurodyta
     daus valdymą pagal demokratinį Vakarų pasaulio modelį. 1992 m. spa-
     lio 25 d. piliečių referendume priimta Lietuvos Respublikos Konstitucija.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -170,8 +116,8 @@ Nenurodyta
     Lietuvoje vykdo Seimas, Respublikos prezidentas ir vyriausybė, teismas,
     valdžios galias riboja konstitucija.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -194,8 +140,8 @@ Nenurodyta
     tautinėms bendrijoms, turi teisę puoselėti savo kalbą, kultūrą ir papro-
     čius; tautinėms bendrijoms valstybė teikia paramą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -213,8 +159,8 @@ Nenurodyta
     tautinę santarvę ir teisę laisvai gyventi ir kurti savo tėvų bei protėvių že-
     mėje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

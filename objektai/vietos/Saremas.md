@@ -35,18 +35,6 @@ Saremas brolis Otto (Blanehom).
 - t-001
   global_id: t-86103
   teiginys: "Eželis, dabartinis Saremas, minimas tarp taikos sutarties tarpininkų atstovautų vyskupijų."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "175285-176000; hash=a0b2de1ef64fe689c2c491c2e763ac633ac9efe299eb29692055f7beb5236941; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Dorpatas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Saremas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Dorpatas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Saremas\" parinktas kaip owner_note_path. Targetas \"Dorpatas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-13T14:21:42Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-82082
 - susijęs iš [[objektai/asmenys/Otto Blanehom.md#claim-t-87815|Otto Blanehom]]: Otto Blanehomas buvo Eželio, dabartinio Saremos, brolis.
@@ -77,8 +65,8 @@ Saremas brolis Otto (Blanehom).
     Iš Ordino Livonijoje pusės paminėti Prie Ordino valdų buvo priskirta ir
     tik: brolis lonas de Lovenbinkė (Lo- kryžiuočių pilis Memelyje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

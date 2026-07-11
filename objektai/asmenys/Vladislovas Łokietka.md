@@ -42,18 +42,6 @@ Jau tada bekovodamas su Ordinu Lenkų kara­ lius Vladislovas Łokietka sau tink
 - t-001
   global_id: t-35327
   teiginys: "1325 m. Vladislovas Łokietka sudarė sutartį su Gedimino valdoma Lietuva, kurią sutvirtino Aldonos ir Kazimiero jungtuvės."
-  temporaliniai_duomenys: "įvykio data: 1325 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "679473-680007; hash=9adad3cb07b9abd3eac1da5c92608b0ad163b2c315273d24bab952cc52cd77bd; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aldona Gediminaitė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vladislovas Łokietka: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Aldona Gediminaitė: mention_match, person, gap=82"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vladislovas Łokietka\" parinktas kaip owner_note_path. Targetas \"Aldona Gediminaitė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-38144
 - susijęs iš [[objektai/asmenys/Aldona Gediminaitė.md#claim-t-97308|Aldona Gediminaitė]]: 1325 m. Gedimino dukters Aldonos ir Vladislovo Lokietkos sūnaus Kazimiero jungtuvės sutvirtino Lietuvos ir Lenkijos sutartį.
@@ -76,8 +64,8 @@ Jau tada bekovodamas su Ordinu Lenkų kara­ lius Vladislovas Łokietka sau tink
     Vladislovo sūnaus Kazimiero (busimojo Kazimiero didžiojo)
     jungtuvės^2 ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

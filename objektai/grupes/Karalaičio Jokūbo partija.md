@@ -32,16 +32,6 @@ Tuomet daugumas, ypač iš karalaičio Jokūbo partijos, perėjo į Augusto pus�
 - t-001
   global_id: t-01344
   teiginys: "Dauguma Karalaičio Jokūbo partijos šalininkų perėjo į Augusto pusę."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "750409-750712; hash=3c0c8fe0285aaada4729a8fe14a4b8b5bca6d64df24ebafbc4a334f8a10ab526; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "reme -> Augustas: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Karalaičio Jokūbo partija: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Augustas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Partijos šalininkai perėjo į Augusto pusę, todėl tai tiesiogiai rodo Augusto rėmimą."
   pagrindžia:
     - c-01582
 
@@ -49,14 +39,6 @@ Tuomet daugumas, ypač iš karalaičio Jokūbo partijos, perėjo į Augusto pus�
 - t-002
   global_id: t-193096
   teiginys: "Tuomet daugumas, ypač iš karalaičio Jokūbo partijos, perėjo į Augusto pusę."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "750494-750804; hash=88e5ad411b0db0f471fe3de35a5ff5910dcf368aa9391a79106004026d9329b4; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-175859
 ## Reikšmingi paminėjimai
@@ -76,8 +58,8 @@ Tuomet daugumas, ypač iš karalaičio Jokūbo partijos, perėjo į Augusto pus�
     vas. Tuomet daugumas,
     ypač iš karalaičio Jokūbo partijos, perėjo į Augusto pusę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -98,8 +80,8 @@ Tuomet daugumas, ypač iš karalaičio Jokūbo partijos, perėjo į Augusto pus�
     Be to, jį parėmė ne tik Maskvos caro, bet ir nuo Jokūbo
     atsimetusio imperatoriaus atstovas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

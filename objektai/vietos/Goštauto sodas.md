@@ -33,12 +33,6 @@ Goštauto sodas.
 - t-001
   global_id: t-194284
   teiginys: "Goštauto sodas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "420620-420667; hash=66c4068fd7f7b80d82bc7e7adaffae2cb96cd450eb024c9f7d53af36ae12127e; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176876
 ## Reikšmingi paminėjimai
@@ -50,8 +44,8 @@ Goštauto sodas.
     9. Goštauto sodas.
     10. Dominikonų ordino namas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

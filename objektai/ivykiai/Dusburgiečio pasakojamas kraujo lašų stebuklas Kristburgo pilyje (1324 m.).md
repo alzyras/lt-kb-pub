@@ -55,20 +55,6 @@ Nenurodyta
 - t-001
   global_id: t-62250
   teiginys: "1324 m. Kristburgo pilyje račiaus Andriaus aluje mirkoma duona, pasak Dusburgiečio, ėmė lašinti kraujo lašus."
-  teiginio_tipas: "faktas"
-  temporaliniai_duomenys: "įvykio data: 1324 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sakinys sutvarkytas, pašalinant nutrūkusią frazę ir paliekant pasakojamo stebuklo faktą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "743643-744094; hash=9dbd054e39994eea831d5b96cb4a2d0ba8e046d5dad58df6a2874f6fead9d310; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Duona: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Dusburgiečio pasakojamas kraujo lašų stebuklas Kristburgo pilyje (1324 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Duona: mention_match, thing, gap=49"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dusburgiečio pasakojamas kraujo lašų stebuklas Kristburgo pilyje (1324 m.)\" parinktas kaip owner_note_path. Targetas \"Duona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-62757
 ## Reikšmingi paminėjimai
@@ -88,8 +74,8 @@ Nenurodyta
 
                   124.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -100,7 +86,8 @@ Nenurodyta
 - id: c-62757
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 250"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 250."
   citata_originali: |
     123. Apie kraujo lašus, varvėjusius iš duonos Kristburgo pilyje Prūsijos žemėje
 

@@ -32,21 +32,6 @@ media_all_json: |-
 - t-001
   global_id: t-192967
   teiginys: "Narbutas doblėnus, mechotėnus, kuršius ir tervitėnus laikė žemgalių gentimis, o Selonės apskrities šeloniečius taip pat priskyrė žemgaliams."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "515199-515551; hash=2e4aa6ee5f49e537f350020c53ced44831518dcd9cfa0049c1eaf7bcef628807; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Šeloniečiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žemgaliai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Šeloniečiai: mention_match, group, gap=40"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemgaliai\" parinktas kaip owner_note_path. Targetas \"Šeloniečiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175737
 - susijęs iš [[objektai/grupes/Mechotėnai.md#claim-t-192988|Mechotėnai]]: Teodoro Narbuto manymu, mechotėnai gyveno rytinėje Mituvos apskrities dalyje ir buvo viena iš žemgalių genčių.
@@ -71,8 +56,8 @@ media_all_json: |-
     apskrity gyveno šeloniečių, Selonczycy, tauta — taip pat
     žemgaliai'2.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -83,7 +68,8 @@ media_all_json: |-
 - id: c-175737
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 287"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 287."
   citata_originali: |
     Iš akivaizdžių Mituvos apskrities skirtumų nuo kitų ša­
     lies dalių reikėtų manyti, jog šiaurinėje dalyje gyveno
@@ -98,6 +84,3 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192967
-
-## Ryšiai
-- Turėjo priklausinį: [[objektai/grupes/Doblėnai]], [[objektai/grupes/Mechotėnai]], [[objektai/grupes/Tervitėnai]]

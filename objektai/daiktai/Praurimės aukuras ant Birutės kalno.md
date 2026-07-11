@@ -45,14 +45,6 @@ Nenurodyta
 - t-001
   global_id: t-194800
   teiginys: "Mirusi buvo palaidota po Amžinosios ugnies aukuro griuvėsiais30."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "270103-270537; hash=e2f789bcba9dde8b32e4dcedd2fef8b701739311aa2c97713d19c2cc2d48bc24; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-177196
 ## Reikšmingi paminėjimai
@@ -70,8 +62,8 @@ Nenurodyta
     deivę, juk ir Strijkovskis tą patvirtina. Mirusi buvo palaidota
     po Amžinosios ugnies aukuro griuvėsiais30.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -82,7 +74,8 @@ Nenurodyta
 - id: c-177196
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 155"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 155."
   citata_originali: |
     Au­
     kuras ir apeigos išliko ilgiau už visas kitas stabmeldystės lieka­

@@ -30,19 +30,6 @@ Rygos arkivyskupas Vilhelmas priešinosi Fiurstenbergo veiksmams prieš bažnyč
 - t-001
   global_id: t-186085
   teiginys: "Rygos arkivyskupas Vilhelmas priešinosi Fiurstenbergo veiksmams prieš bažnyčios turtus ir dvasininkų valdas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1239933-1240540; hash=28756c207019868127cec8bed21936b67724e7ca2103508ca207dd8aa100c987; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Prūsija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilhelmas (Rygos arkivyskupas): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Prūsija: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilhelmas (Rygos arkivyskupas)\" parinktas kaip owner_note_path. Targetas \"Prūsija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-169446
 
@@ -50,20 +37,6 @@ Rygos arkivyskupas Vilhelmas priešinosi Fiurstenbergo veiksmams prieš bažnyč
 - t-002
   global_id: t-186086
   teiginys: "Užpuolus arkivyskupo valdas, Vilhelmas pasitraukė su rinktinių vyrų kariauna į Kuoknesę."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Vilhelmas (Rygos arkivyskupas) keliavo į Kuoknesė (0.93); Vilhelmas (Rygos arkivyskupas) gynė Kuoknesė (0.70)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1240541-1241011; hash=8e26a7585f3e31c1951c2a7648ee78edd65673e1958afed48c25dfd360a18d50; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Kuoknesė: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vilhelmas (Rygos arkivyskupas): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kuoknesė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad arkivyskupas patraukė į Kuoknesę."
   pagrindžia:
     - c-169447
 ## Reikšmingi paminėjimai
@@ -86,8 +59,8 @@ Rygos arkivyskupas Vilhelmas priešinosi Fiurstenbergo veiksmams prieš bažnyč
     Kuršą, o Augustui Livoniją, kuri esanti beveik jau pra­
     rasta.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -111,8 +84,8 @@ Rygos arkivyskupas Vilhelmas priešinosi Fiurstenbergo veiksmams prieš bažnyč
     vis dėlto galop badas privertė pasiduoti tuos, kurių
     nepalaužė ginklas.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -123,7 +96,8 @@ Rygos arkivyskupas Vilhelmas priešinosi Fiurstenbergo veiksmams prieš bažnyč
 - id: c-169446
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 695"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 695."
   citata_originali: |
     Neil­
     gai trukus sektos pasekėjai, iš seno tykoję užgrobti
@@ -172,4 +146,3 @@ Rygos arkivyskupas Vilhelmas priešinosi Fiurstenbergo veiksmams prieš bažnyč
 
 ## Ryšiai
 - Vilhelmas (Rygos arkivyskupas) keliavo į [[objektai/vietos/Kuoknesė]]
-- Vilhelmas (Rygos arkivyskupas) gynė [[objektai/vietos/Kuoknesė]]

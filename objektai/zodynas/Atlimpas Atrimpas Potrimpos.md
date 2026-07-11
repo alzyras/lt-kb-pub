@@ -31,19 +31,6 @@ Narbutas Atrimpo ženklu laikė javų pėdu uždengtą vandens pripildytą indą
 - t-005
   global_id: t-192304
   teiginys: "Narbutas nurodė: Jucevičius tvirtino, kad spirališkai susivijusio žalčio stabas buvo ne Atrimpo, o Žalčių karaliaus."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "848336-848894; hash=55554fbbc435fe362c36b5ad8ff1c679f659d50d6647b48263b33a60f03c8f31; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  ryšio_patikimumas: "susije_su -> Jucevičius: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Atlimpas Atrimpas Potrimpos: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Jucevičius: mention_match, person, gap=71"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Atlimpas Atrimpas Potrimpos\" parinktas kaip owner_note_path. Targetas \"Jucevičius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175116
 
@@ -51,19 +38,6 @@ Narbutas Atrimpo ženklu laikė javų pėdu uždengtą vandens pripildytą indą
 - t-001
   global_id: t-192305
   teiginys: "Narbutas Atrimpo ženklu laikė javų pėdu uždengtą vandens pripildytą indą, kuriame buvo laikomas vandens žaltys."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "184151-184590; hash=97d314023a1b34a99d7834833ddf0974740ce18d0405292dc59dda61bbe8f760; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  ryšio_patikimumas: "susije_su -> Atrimpo vandens indas arba urna su žalčiu: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Atlimpas Atrimpas Potrimpos: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Atrimpo vandens indas arba urna su žalčiu: mention_match, thing, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Atlimpas Atrimpas Potrimpos\" parinktas kaip owner_note_path. Targetas \"Atrimpo vandens indas arba urna su žalčiu\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175115
 
@@ -71,19 +45,6 @@ Narbutas Atrimpo ženklu laikė javų pėdu uždengtą vandens pripildytą indą
 - t-004
   global_id: t-192306
   teiginys: "Narbutas nurodė: Jucevičiaus nuomone, prie Palangos gyvenantys lietuvių žvejai Atrimpą vadino Dzivsvifs."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "848336-848894; hash=55554fbbc435fe362c36b5ad8ff1c679f659d50d6647b48263b33a60f03c8f31; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  ryšio_patikimumas: "susije_su -> Jucevičius: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Atlimpas Atrimpas Potrimpos: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Jucevičius: mention_match, person, gap=62"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Atlimpas Atrimpas Potrimpos\" parinktas kaip owner_note_path. Targetas \"Jucevičius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175116
 ## Reikšmingi paminėjimai
@@ -100,8 +61,8 @@ Narbutas Atrimpo ženklu laikė javų pėdu uždengtą vandens pripildytą indą
     go Jucevičiaus nuomone23 24 lietuviai, gyvenantys prie Palangos,
     prie jūros, tai yra žvejai, Atrimpą vadina „Dzivsvits“.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -122,8 +83,8 @@ Narbutas Atrimpo ženklu laikė javų pėdu uždengtą vandens pripildytą indą
     laidą, jog Atrimpo simbolis buvo žaltys, tūnantis vandens pilnoje
     vonioje.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -135,7 +96,8 @@ Narbutas Atrimpo ženklu laikė javų pėdu uždengtą vandens pripildytą indą
 - id: c-175115
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 103"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 103."
   citata_originali: |
     Šitoks lietuvių supratimas galėjo apdovanoti
     amžinos jaunystės savybe tą elementarųjį dievą, valdantį kil­
@@ -156,7 +118,8 @@ Narbutas Atrimpo ženklu laikė javų pėdu uždengtą vandens pripildytą indą
 - id: c-175116
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 467"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 467."
   citata_originali: |
     pastraipos
     tęsinys/

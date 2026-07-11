@@ -122,6 +122,24 @@ export default (() => {
         <aside class="graph-explorer-panel" data-graph-panel></aside>
         <div class="graph-explorer-canvas" data-graph-canvas>
           <div class="graph-explorer-status" data-graph-status>Kraunamas žemėlapis…</div>
+          <section class="graph-explorer-overview" data-graph-overview hidden>
+            <p class="graph-explorer-overview-eyebrow">Ryšių žemėlapis</p>
+            <h1>Pradėk nuo objekto</h1>
+            <p>Ieškok žmogaus, vietos, įvykio ar sąvokos ir tyrinėk tiesioginius istorinius ryšius.</p>
+            <button type="button" class="graph-explorer-overview-search" data-overview-search>
+              Ieškoti objekto <span aria-hidden="true">→</span>
+            </button>
+            <div class="graph-explorer-overview-types" aria-label="Objektų tipai">
+              <a href="/objektai/asmenys">Asmenys</a>
+              <a href="/objektai/ivykiai">Įvykiai</a>
+              <a href="/objektai/vietos">Vietos</a>
+              <a href="/objektai/daiktai">Daiktai</a>
+              <a href="/objektai/zodynas">Žodynas</a>
+            </div>
+            <button type="button" class="graph-explorer-overview-all" data-overview-all>
+              Rodyti visą tinklą
+            </button>
+          </section>
           <button type="button" class="graph-explorer-show-panel" data-panel-show>Rodyti panelį</button>
           <div class="graph-explorer-legend" data-graph-legend></div>
         </div>

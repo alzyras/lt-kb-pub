@@ -33,9 +33,6 @@ Dusburgietis teigia, kad po to veržliai ir žiauriai užgriuvo kito vasalo, rit
 - t-001
   global_id: t-60258
   teiginys: "Cipelis buvo riteris ir vasalas, kurio pilis buvo užpulta, o jos gyventojai nukauti arba paimti į nelaisvę."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "464663-464958; hash=5073e23cf6ff598c9640807ebd88b42f13e4a69ff76648bc64132329d0a72d18; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-60890
 - susijęs iš [[objektai/asmenys/Skomantas (lietuvių vadas).md#claim-t-40424|Skomantas (lietuvių vadas)]]: Sūduvių ir lietuvių vadas Skomantas su didele kariuomene siaubė Kulmo teritoriją, puolė Kulmą ir sunaikino Eimsučio bei Cipelio pilis.
@@ -54,8 +51,8 @@ Dusburgietis teigia, kad po to veržliai ir žiauriai užgriuvo kito vasalo, rit
 
               167 (162).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -66,7 +63,8 @@ Dusburgietis teigia, kad po to veržliai ir žiauriai užgriuvo kito vasalo, rit
 - id: c-60890
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 146"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 146."
   citata_originali: |
     link Eimsučio pilies447 ir ją po veržlaus antpuolio užėmė, nukaudamas 40 vyrų, paliktų
     jos saugoti. Po to veržliai ir žiauriai užgriuvo kito vasalo, riterio, vardu Cipelis, pilį448 ir,

@@ -41,12 +41,6 @@ Dusburgietis teigia, kad samalavičius S., Ambramauskas S.
 - t-001
   global_id: t-61280
   teiginys: "S. Samalavičiaus ir S. Ambramausko straipsnis „Naujas XIII a. šaltinis apie baltus“ paskelbtas „Kultūros baruose“ 1984 m., Nr. 6."
-  temporaliniai_duomenys: "įvykio data: 1984 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pagrindžia autorius, straipsnio pavadinimą, leidinį, metus ir numerį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "796005-796114; hash=814188706f3de93896ee245f422963a142b70e55e6ce9f9ec11b3913d6e0e42d; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-61912
 ## Reikšmingi paminėjimai
@@ -58,8 +52,8 @@ Dusburgietis teigia, kad samalavičius S., Ambramauskas S.
     Samalavičius S., Ambramauskas S. Naujas XIII a. šaltinis apie baltus.— Kultūros
     barai, 1984, Nr. 6, p. 62—64.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -70,7 +64,8 @@ Dusburgietis teigia, kad samalavičius S., Ambramauskas S.
 - id: c-61912
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 271"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 271."
   citata_originali: |
     Samalavičius S., Ambramauskas S. Naujas XIII a. šaltinis apie baltus.— Kultūros
     barai, 1984, Nr. 6, p. 62—64.

@@ -48,14 +48,6 @@ Nenurodyta
 - t-001
   global_id: t-193477
   teiginys: "1655 m., prasidėjus Rusijos ir Švedijos kariuomenių okupacijai, jėzuitai iš Vilniaus pasitraukė į Lenkiją."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "7945-8194; hash=3d3d49c6325cc73ca23f017fa7b62d69fa498ae4401964088da209b50353c05f; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-176178
 ## Reikšmingi paminėjimai
@@ -70,8 +62,8 @@ Nenurodyta
     Varšuvoje, kur išrenkamas Lietuvos provincijos įgalio­
     tiniu. Jos reikalais važinėjo į Romą!
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -82,7 +74,8 @@ Nenurodyta
 - id: c-176178
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 6"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 6."
   citata_originali: |
     1655 m., prasidėjus Rusijos ir Švedijos kariuomenių
     okupacijai, jėzuitai iš Vilniaus pasitraukė į Lenkiją.

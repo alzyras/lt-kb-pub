@@ -38,12 +38,6 @@ Mažosios Lietuvos gelbėjimo komitetas ir jo bendradarbiai, 1923 sausio 9 d., V
 - t-001
   global_id: t-193813
   teiginys: "Mažosios Lietuvos gelbėjimo komitetas ir jo bendradarbiai, 1923 sausio 9 d., VDKM, Artūro Užgalio nuotr."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1120494-1120611; hash=58d88a50b526d473c9f9d8f9245a9042e25ccdceefd85b199a269299ee84316c; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176458
 ## Reikšmingi paminėjimai
@@ -55,8 +49,8 @@ Mažosios Lietuvos gelbėjimo komitetas ir jo bendradarbiai, 1923 sausio 9 d., V
     p. 212, Vyr. Mažosios Lietuvos gelbėjimo komitetas ir jo bendradarbiai, 1923 sausio 9 d.,
     VDKM, Artūro Užgalio nuotr.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

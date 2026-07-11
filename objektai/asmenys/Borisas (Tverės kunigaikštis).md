@@ -45,17 +45,6 @@ media_all_json: |-
 - t-002
   global_id: t-87596
   teiginys: "Tverės kunigaikštis Borisas buvo Sofijos, Švitrigailos žmonos, tėvas."
-  semantiniai_rysiai: "Borisas (Tverės kunigaikštis) valdė Tverė (0.87)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "439892-440841; hash=7237c0ed25b833bef2ce5c57e839f92fb56c54ecd1a42614a7a9cc9b9b1325c7; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde -> Tverė: 0.87"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Borisas (Tverės kunigaikštis): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Tverė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Formuluotė aiškiai vadina Borisą Tverės kunigaikščiu."
   pagrindžia:
     - c-83575
 
@@ -63,20 +52,6 @@ media_all_json: |-
 - t-001
   global_id: t-87597
   teiginys: "1430 m. Tverės kunigaikštis Borisas buvo tarp svečių, suvažiavusių pas Vytautą kartu su kitų žemių valdovais ir didikais."
-  semantiniai_rysiai: "Borisas (Tverės kunigaikštis) valdė Tverė (0.87)"
-  temporaliniai_duomenys: "valdymo laikotarpis: 1430 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Borisas (Tverės kunigaikštis) buvo valdovas Tverė“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko faktą apie Boriso dalyvavimą, bet pradinis tekstas yra fragmentiškas ir triukšmingas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "353800-354387; hash=80241a6f40b222991985bb644f0e450da93ac650aa50d0b0aee2903d8303f944; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde -> Tverė: 0.87"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Borisas (Tverės kunigaikštis): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Tverė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Titulas tiesiogiai sieja Borisą su Tverės valdymu."
   pagrindžia:
     - c-83576
 
@@ -84,12 +59,6 @@ media_all_json: |-
 - t-003
   global_id: t-193899
   teiginys: "Ginvila vedė Tverės didžiojo kunigaikščio Boriso dukterį, vardu M ariją9 , dėl kurios perėjo į rusų tikė jimą, jam buvo duotas Jurgio vardas, ir tasai Jurgis1 0 , trumpai tepavaldęs, pasimirė."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "82339-82961; hash=514c5c93f60eaed62f0caee9f84da22f204fcb94800ebcf1df8930645bbd3d76; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176524
 
@@ -97,12 +66,6 @@ media_all_json: |-
 - t-004
   global_id: t-193900
   teiginys: "Savo įpėdiniu Polocke paliko savo sūnų Borisą\", ir šis kunigaikštis Borisas prie Berezinos upės įkūrė savo vardo miestą ir pavadino jį Borisovu l2 ."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "82535-83170; hash=dca808b83dc4c6082f2c4769946fc2a333aff69583b5f3ccfd09e1cc69aa056a; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176525
 - susijęs iš [[objektai/asmenys/Sofija (Švitrigailos žmona).md#claim-t-87855|Sofija (Švitrigailos žmona)]]: Sofija, Tverės kunigaikščio Boriso duktė ir Švitrigailos žmona, vėliau pateko į Žygimanto Kęstutaičio galią.
@@ -149,8 +112,8 @@ media_all_json: |-
     kusi tokios didžios galybės, alinama jo įpėdinių niekšybių
     ir barbariškumo, nuo to laiko pradėjo smukti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -177,8 +140,8 @@ media_all_json: |-
     apdovanojęs ir atsisveikinęs, Didži­
     ąją Kunigaikštystę valdęs 37 metus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -201,8 +164,8 @@ media_all_json: |-
     Polotos upės, pusę mylios aukščiau pilies; trečią —
     Boriso ir Glebo cerkvę Belčičių vienuolyne l6 .
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -228,8 +191,8 @@ media_all_json: |-
     bei teisę šaukti viečę, skambinti varpu ir valdytis, kaip
     Didžiajame Naugarde ir Pskove.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -357,6 +320,3 @@ media_all_json: |-
 
 ## Ryšiai
 - Dukterys: [[objektai/asmenys/Sofija (Švitrigailos žmona)]]
-- Borisas (Tverės kunigaikštis) valdė [[objektai/vietos/Tverė]]
-- Borisas (Tverės kunigaikštis) keliavo į [[objektai/vietos/Krokuva]]
-- Borisas (Tverės kunigaikštis) gyveno [[objektai/vietos/Podolė]]

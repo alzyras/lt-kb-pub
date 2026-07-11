@@ -35,11 +35,6 @@ kardinalinės teisės: rusų kariuomenės apsupti, jie buvo priversti pasirašyt
 - t-001
   global_id: t-67299
   teiginys: "1768 m. kardinalinės teisės buvo patvirtintos, o jų garantu vėl tapo Rusija ir jos sąjungininkės."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "841955-842412; hash=7d589b82b3753d70e503b6dbf375a17fcecfaf10196173726681c4a1e9cb3a17; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-67260
 
@@ -47,11 +42,6 @@ kardinalinės teisės: rusų kariuomenės apsupti, jie buvo priversti pasirašyt
 - t-002
   global_id: t-67301
   teiginys: "Kardinalinės teisės paliko liberum veto, karalių elekciją ir bajorijos teisę neklausyti karaliaus, jei nevykdomi pacta conventa punktai."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "842106-842610; hash=4d85b2f28dbba01510ca18ac17e74c14fe99fc4eef1453f82719a019511e80ce; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-67261
 - susijęs iš [[objektai/grupes/Varšuvos konfederacinis seimas.md#claim-t-01516|Varšuvos konfederacinis seimas (seimas)]]: Varšuvos konfederacinis seimas pripažino Rusijai teisę prižiūrėti, kad nebūtų pakeistos kardinalinės teisės.
@@ -70,8 +60,8 @@ kardinalinės teisės: rusų kariuomenės apsupti, jie buvo priversti pasirašyt
     lenkių ir Mažlenkių; jų senatorių negalėjo būti nė vieno; jų
     naujai pastatytose bažnyčiose buvo uždrausta skambinti varpais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -91,8 +81,8 @@ kardinalinės teisės: rusų kariuomenės apsupti, jie buvo priversti pasirašyt
     kariuomenės skaičių buvo leista padidinti iki 30.000 (nuo 1717
     m.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

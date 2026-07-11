@@ -51,22 +51,6 @@ Bažnytinio kalendoriaus data nusakanti formulė.
 - t-001
   global_id: t-186893
   teiginys: "Formulė „Verbų sekmadieni“ 1971 m. leidinio pastaboje aiškinama kaip 1440 m. kovo 20 d. data."
-  teiginio_tipas: "faktas"
-  temporaliniai_duomenys: "įvykio data: 1440 m.; įvykio data: 1490 m.; įvykio data: 1971 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Reikia aiškaus predikato ir tikslesnio datos nusakymo."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "530814-531458; hash=b320ea4b1afe05d3192951f0a311435d981aa50dc7a175bdd96bd3c769182c71; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
-  ryšio_patikimumas: "susije_su -> Haličas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Verbų sekmadieni: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Haličas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Verbų sekmadieni\" parinktas kaip owner_note_path. Targetas \"Haličas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-170079
 ## Reikšmingi paminėjimai
@@ -88,8 +72,8 @@ Bažnytinio kalendoriaus data nusakanti formulė.
     jis tgini tą lokį Lietuvos aprašyme, knygoje „Historiae Europae“
     (Išleistoje pirmą kartą 1490 m ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -42,19 +42,6 @@ Nenurodyta
 - t-001
   global_id: t-185830
   teiginys: "Tautvilo sąmokslą prieš Treniotą išdavė klastingas Polocko dvariškis, todėl valdovas jį skubiai užgniaužė."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "185337-185948; hash=0e40ad46352ecdbab0062c7aeb8a880147121a8890ba3e924eb7601f034f96c4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_priesas -> Treniota: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Tautvilas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Treniota: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Sąmokslas prieš Treniotą tiesiogiai pagrindžia Tautvilo priešiškumą Treniotai."
   pagrindžia:
     - c-169191
 ## Reikšmingi paminėjimai
@@ -83,8 +70,8 @@ Nenurodyta
     lockietis, Tautvilo dvariškis,
     ir valdovas kuo skubiausiai jį užgniaužė.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -95,7 +82,8 @@ Nenurodyta
 - id: c-169191
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 110"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 110."
   citata_originali: |
     Šitaip susiklosčius jo gyvenimui, jis neturėjo
     ir negalėjo pats rasti būdo keršyti. Todėl ėmė skatin­

@@ -31,21 +31,6 @@ Narbutas Indiją vadino gražiausia senojo pasaulio šalimi ir laikė ją kastų
 - t-001
   global_id: t-188936
   teiginys: "Narbutas Indiją vadino gražiausia senojo pasaulio šalimi ir laikė ją kastų, daugelio mokslų bei religinių vaizdinių kilmės vieta."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "147890-148423; hash=4d90e570991a35d42843b780b379e9b637cd6cdc2fa951ef2942dcfce806caf8; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Indai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Indija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Indai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Indija\" parinktas kaip owner_note_path. Targetas \"Indai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171825
 
@@ -53,21 +38,6 @@ Narbutas Indiją vadino gražiausia senojo pasaulio šalimi ir laikė ją kastų
 - t-002
   global_id: t-192665
   teiginys: "Narbutas remiasi Plinijaus užrašytu Archelajo pasakojimu, kad iš Indijos buvo atvežama gintaro žaliava, dar neatskirta nuo medžių žievės."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "267020-267525; hash=3c9dc0cac8aafb4ffe86754b2c2047efec040e04f7400b5cc8c9ce9564f9a4e1; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Archelajas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Indija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Archelajas: mention_match, person, gap=29"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Indija\" parinktas kaip owner_note_path. Targetas \"Archelajas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175435
 - susijęs iš [[objektai/asmenys/Archelajas.md#claim-t-191940|Archelajas]]: Plinijaus užrašytame pasakojime Kapadokijos karalius Archelajas teigė, kad iš Indijos atvežama gintaro žaliava dar neatskirta nuo medžių žievės.
@@ -103,8 +73,8 @@ Narbutas Indiją vadino gražiausia senojo pasaulio šalimi ir laikė ją kastų
     jus, iš chaldėjų pas egiptiečius, iš šių pas graikus, paskui pas
     romėnus ir kitus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -126,8 +96,8 @@ Narbutas Indiją vadino gražiausia senojo pasaulio šalimi ir laikė ją kastų
     lių kasyklose, taip pat Danijos pakrantėse, nemažai ga­
     balų išmesdavo Švedijos ežeras Maeleras.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -138,7 +108,8 @@ Narbutas Indiją vadino gražiausia senojo pasaulio šalimi ir laikė ją kastų
 - id: c-171825
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 82"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 82."
   citata_originali: |
     Tiesą sako „Antilukrecijaus“ auto­
     rius: „Pojūčiais suvokiami dalykai, seniau buvę skirti Dievo ir
@@ -160,7 +131,8 @@ Narbutas Indiją vadino gražiausia senojo pasaulio šalimi ir laikė ją kastų
 - id: c-175435
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 148"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 148."
   citata_originali: |
     Jūroje išilgai prūsų pakrančių slypi
     ištisos jų girios. Jūra dažnai išmeta gintarą, prikibusį prie

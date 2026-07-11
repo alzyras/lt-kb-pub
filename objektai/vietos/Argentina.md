@@ -39,22 +39,6 @@ De jure Lietuva tebuvo pripažinta tik Vokietijos, Rusijos, Šveicarijos, Argent
 - t-002
   global_id: t-46505
   teiginys: "Argentina buvo viena Pietų Amerikos šalių, į kurias daugiausia vyko lietuviai emigrantai."
-  semantiniai_rysiai: "Lietuviai keliavo į Argentina (0.93); Lietuviai keliavo į Venesuela (0.86)"
-  temporaliniai_duomenys: "įvykio data: 1939 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sakinys perrašytas aiškiai susiejant faktą su Argentina."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "353698-354134; hash=94a2536ade693ab0fc444c2934a659387497a869cc43cc26bfde07b18015d98f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Argentina: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Argentina: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad lietuviai vyko į Argentiną."
-  vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-49074
 ## Reikšmingi paminėjimai
@@ -71,8 +55,8 @@ De jure Lietuva tebuvo pripažinta tik Vokietijos, Rusijos, Šveicarijos, Argent
     Gen. Antano Gustaičio sukonstruotas ir Kauno aviacijos dirbtuvėse
     pagamintas lengvasis bombonešis ANBO VIII (1939 m.)
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

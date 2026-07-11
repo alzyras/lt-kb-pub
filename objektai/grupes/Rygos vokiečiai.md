@@ -34,17 +34,6 @@ Mindaugui pavyko su Andrium von Stirland užmegzti kalbą, nes ir magistrui Dani
 - t-001
   global_id: t-31351
   teiginys: "Danieliaus ir Tautvilo sąjunga su Rygos vokiečiais nebuvo palanki Livonijos ordino magistrui Andriui von Stirlandui."
-  semantiniai_rysiai: "Rygos vokiečiai buvo sąjungininkas su Tautvilas (0.92)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "476145-476608; hash=7ee5dc5555b9d80654198cbf9e598cb1a28150b84e5ee83af0fa3055fc2f4e57; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sajungininkas_su -> Tautvilas: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Rygos vokiečiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Tautvilas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai mini Tautvilo sąjungą su Rygos vokiečiais."
   pagrindžia:
     - c-33354
 ## Reikšmingi paminėjimai
@@ -60,8 +49,8 @@ Mindaugui pavyko su Andrium von Stirland užmegzti kalbą, nes ir magistrui Dani
     nebuvo pakeliui. Įtikinęs Mindaugą, žadėjusį užrašyti žemių, jog
     būtinai jam reikia krikštytis^87 , magistras su juo padarė taiką.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

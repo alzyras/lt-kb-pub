@@ -52,16 +52,6 @@ Rūmai lokalizuojami prie Žemutinės pilies, tarp Katedros ir Šv. Jurgio bažn
 - t-001
   global_id: t-55242
   teiginys: "Barboros rūmai stovėjo prie Vilijos, tarp sodų, prie pat Žemutinės pilies."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "547745-548172; hash=bfecbe58114731cfd345ee49dc8810e849ca6ab4e7daff44a425e60127756956; match=whitespace_regex"
-  sprendimo_priezastis: "gap::places"
-  ryšio_patikimumas: "susije_su -> Barbora Radvilaitė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Barboros rūmai Vilniuje: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Barbora Radvilaitė: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Barboros rūmai Vilniuje\" parinktas kaip owner_note_path. Targetas \"Barbora Radvilaitė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-79573
 
@@ -69,16 +59,6 @@ Rūmai lokalizuojami prie Žemutinės pilies, tarp Katedros ir Šv. Jurgio bažn
 - t-002
   global_id: t-55243
   teiginys: "Balińskio aprašymo metu Barboros rūmus priminė tik neužlygintų tvenkinių žymės ir vieta, kur buvo rūmai, sodai bei tvenkiniai."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "549376-550159; hash=c7f4d2a3449d6058d519229103bf5b8c50954a60e0d9c8415a68ee6699b25336; match=whitespace_regex"
-  sprendimo_priezastis: "gap::places"
-  ryšio_patikimumas: "susije_su -> Barbora Radvilaitė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Barboros rūmai Vilniuje: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Barbora Radvilaitė: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Barboros rūmai Vilniuje\" parinktas kaip owner_note_path. Targetas \"Barbora Radvilaitė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-55844
 
@@ -86,19 +66,6 @@ Rūmai lokalizuojami prie Žemutinės pilies, tarp Katedros ir Šv. Jurgio bažn
 - t-003
   global_id: t-55244
   teiginys: "1828 m. Barboros rūmų griuvėsiai buvo parduoti plytoms naujai statomam Kosobudžkio namui."
-  temporaliniai_duomenys: "įvykio data: 1828 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatoje nurodytą griuvėsių pardavimą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "549243-549813; hash=1616e8415a328abba7f4a538ec22d567b103bc479d76f3970d04b468f3a9ccb2; match=whitespace_regex"
-  sprendimo_priezastis: "gap::places"
-  ryšio_patikimumas: "susije_su -> Barbora Radvilaitė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Barboros rūmai Vilniuje: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Barbora Radvilaitė: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Barboros rūmai Vilniuje\" parinktas kaip owner_note_path. Targetas \"Barbora Radvilaitė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-79574
 
@@ -106,16 +73,6 @@ Rūmai lokalizuojami prie Žemutinės pilies, tarp Katedros ir Šv. Jurgio bažn
 - t-005
   global_id: t-83197
   teiginys: "Barboros rūmų griuvėsiai stovėjo Vilniuje tarp Katedros ir Šv. Jurgio bažnyčios prie Vilijos."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "549243-549813; hash=1616e8415a328abba7f4a538ec22d567b103bc479d76f3970d04b468f3a9ccb2; match=whitespace_regex"
-  sprendimo_priezastis: "gap::places"
-  ryšio_patikimumas: "susije_su -> Barbora Radvilaitė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Barboros rūmai Vilniuje: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Barbora Radvilaitė: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Barboros rūmai Vilniuje\" parinktas kaip owner_note_path. Targetas \"Barbora Radvilaitė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-79574
 
@@ -123,16 +80,6 @@ Rūmai lokalizuojami prie Žemutinės pilies, tarp Katedros ir Šv. Jurgio bažn
 - t-001
   global_id: t-55242
   teiginys: "Barboros rūmai stovėjo prie Vilijos, tarp sodų, prie pat Žemutinės pilies."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "547745-548172; hash=bfecbe58114731cfd345ee49dc8810e849ca6ab4e7daff44a425e60127756956; match=whitespace_regex"
-  sprendimo_priezastis: "gap::places"
-  ryšio_patikimumas: "susije_su -> Barbora Radvilaitė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Barboros rūmai Vilniuje: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Barbora Radvilaitė: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Barboros rūmai Vilniuje\" parinktas kaip owner_note_path. Targetas \"Barbora Radvilaitė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-79573
 
@@ -140,16 +87,6 @@ Rūmai lokalizuojami prie Žemutinės pilies, tarp Katedros ir Šv. Jurgio bažn
 - t-006
   global_id: t-83199
   teiginys: "Iš Barboros rūmų buvo likusios tik neužlygintų tvenkinių žymės."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "549376-550159; hash=c7f4d2a3449d6058d519229103bf5b8c50954a60e0d9c8415a68ee6699b25336; match=whitespace_regex"
-  sprendimo_priezastis: "gap::places"
-  ryšio_patikimumas: "susije_su -> Barbora Radvilaitė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Barboros rūmai Vilniuje: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Barbora Radvilaitė: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Barboros rūmai Vilniuje\" parinktas kaip owner_note_path. Targetas \"Barbora Radvilaitė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-55844
 - susijęs iš [[objektai/asmenys/Barbora Radvilaitė.md#claim-t-173121|Barbora Radvilaitė]]: Barbora Radvilaitė buvo Vilniaus kašteliono Jurgio dukra ir Trakų vaivados Goštauto našlė.
@@ -193,8 +130,8 @@ Rūmai lokalizuojami prie Žemutinės pilies, tarp Katedros ir Šv. Jurgio bažn
     buvo karalienės Barboros rūmai,
     tvenkiniai ir sodai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -218,8 +155,8 @@ Rūmai lokalizuojami prie Žemutinės pilies, tarp Katedros ir Šv. Jurgio bažn
     Ten visas laisvesnes akimirkas Augustas praleisdavo šalia
     Barboros, kol pagaliau su ja susituokė30.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -248,8 +185,8 @@ Rūmai lokalizuojami prie Žemutinės pilies, tarp Katedros ir Šv. Jurgio bažn
     ninko Kosobudžkio namui Nr.
     priemiestyje už Aušros vartų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -348,7 +285,3 @@ Rūmai lokalizuojami prie Žemutinės pilies, tarp Katedros ir Šv. Jurgio bažn
   pagrindzia:
     - t-83197
     - t-55244
-
-## Ryšiai
-- Gyvenamoji vieta: [[objektai/asmenys/Barbora Radvilaitė]], [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]]
-- Barboros rūmai Vilniuje priklausė [[objektai/asmenys/Barbora Radvilaitė]], [[objektai/vietos/Vilija]]

@@ -4,6 +4,7 @@ import {
   loadSourceCatalog,
   readSettingsState,
   selectedSources,
+  setSelectionRule,
   sourceMatchesSelection,
   writeSettingsState,
   type SettingsState,
@@ -13,6 +14,7 @@ import {
 type OptionsWindow = Window &
   typeof globalThis & {
     applyQuartzOptionFilters?: () => void
+    applyObjectListPagination?: () => void
     addCleanup?: (cleanup: () => void) => void
     loadGraphTopology?: () => Promise<{
       nodes?: Array<{ slug: string }>
@@ -241,6 +243,7 @@ function applyListFilters() {
   updatePeriodSummaries()
   syncPageListGroups()
   updateObjectListSummaries()
+  optionsWindow.applyObjectListPagination?.()
 }
 
 function applyExplorerFilters() {
@@ -508,6 +511,8 @@ function syncPanelState() {
     )
     const selectedSummary = root.querySelector<HTMLElement>("[data-options-selected-summary]")
     const activeCount = root.querySelector<HTMLElement>("[data-options-active-count]")
+    const sourceSearch = root.querySelector<HTMLInputElement>("[data-options-source-search]")
+    const sourceList = root.querySelector<HTMLElement>("[data-options-source-list]")
     if (range) {
       range.max = `${maxValue}`
       range.value = `${Math.min(state.minClaimCount, maxValue)}`
@@ -530,6 +535,44 @@ function syncPanelState() {
         activeCount.textContent = String((state.minClaimCount > 0 ? 1 : 0) + (selectedCount !== textSources.length ? 1 : 0))
       }
     }
+    if (sourceList) {
+      const needle = sourceSearch?.value.toLocaleLowerCase("lt").trim() ?? ""
+      const visibleSources = cachedSources
+        .filter((source) => source.channel === "text")
+        .filter((source) => !needle || source.title.toLocaleLowerCase("lt").includes(needle))
+        .sort((a, b) => b.claimCount - a.claimCount || a.title.localeCompare(b.title, "lt"))
+        .slice(0, 80)
+      sourceList.replaceChildren(...visibleSources.map((source) => {
+        const row = document.createElement("label")
+        row.className = "options-panel-source-row"
+        const input = document.createElement("input")
+        input.type = "checkbox"
+        input.checked = sourceMatchesSelection(source, state.textSources)
+        input.addEventListener("change", () => {
+          state.textSources = setSelectionRule(
+            state.textSources,
+            { scope: "source", id: source.id, include: input.checked },
+            cachedSources,
+            "text",
+          )
+          applyFilters()
+        })
+        const title = document.createElement("span")
+        title.className = "options-panel-source-title"
+        title.textContent = source.title
+        const count = document.createElement("small")
+        count.className = "options-panel-source-count"
+        count.textContent = `${source.claimCount.toLocaleString("lt-LT")} teig.`
+        row.append(input, title, count)
+        return row
+      }))
+      if (visibleSources.length === 0) {
+        const empty = document.createElement("p")
+        empty.className = "options-panel-empty"
+        empty.textContent = "Šaltinių nerasta."
+        sourceList.append(empty)
+      }
+    }
   })
 }
 
@@ -547,6 +590,25 @@ function setPanelOpen(root: HTMLElement, open: boolean) {
   toggle.setAttribute("aria-expanded", open ? "true" : "false")
 }
 
+function syncCommandState(root: HTMLElement) {
+  const reader = root.querySelector<HTMLButtonElement>("[data-options-reader]")
+  const theme = root.querySelector<HTMLButtonElement>("[data-options-theme]")
+  const research = root.querySelector<HTMLButtonElement>("[data-options-research]")
+  const readerOn = document.documentElement.getAttribute("reader-mode") === "on"
+  const researchOn = document.documentElement.getAttribute("advanced-evidence") === "on"
+  const currentTheme = document.documentElement.getAttribute("saved-theme") ?? "light"
+
+  reader?.setAttribute("aria-pressed", String(readerOn))
+  research?.setAttribute("aria-pressed", String(researchOn))
+  if (reader) reader.textContent = readerOn ? "Išjungti skaitymo režimą" : "Skaitymo režimas"
+  if (research) research.textContent = researchOn ? "Išjungti tyrimo režimą" : "Tyrimo režimas"
+  if (theme) theme.textContent = currentTheme === "dark" ? "Šviesi tema" : "Tamsi tema"
+}
+
+function clickGlobalControl(selector: string) {
+  document.querySelector<HTMLButtonElement>(selector)?.click()
+}
+
 function initPanel(root: HTMLElement) {
   const optionsRoot = root as OptionsRoot
   if (optionsRoot.__optionsPanelBound) {
@@ -562,6 +624,10 @@ function initPanel(root: HTMLElement) {
   const personParentheticals = root.querySelector<HTMLInputElement>(
     "[data-options-person-parentheticals]",
   )
+  const reader = root.querySelector<HTMLButtonElement>("[data-options-reader]")
+  const theme = root.querySelector<HTMLButtonElement>("[data-options-theme]")
+  const research = root.querySelector<HTMLButtonElement>("[data-options-research]")
+  const sourceSearch = root.querySelector<HTMLInputElement>("[data-options-source-search]")
 
   const onToggle = () => {
     const popover = root.querySelector<HTMLElement>("[data-options-popover]")
@@ -584,6 +650,10 @@ function initPanel(root: HTMLElement) {
     state.showPersonParentheticals = personParentheticals?.checked !== false
     applyFilters()
   }
+  const onReader = () => clickGlobalControl(".readermode")
+  const onTheme = () => clickGlobalControl(".darkmode")
+  const onResearch = () => clickGlobalControl(".advanced-evidence-toggle")
+  const onSourceSearch = () => syncPanelState()
   const onDocumentClick = (event: MouseEvent) => {
     const target = event.target
     if (!(target instanceof Node)) {
@@ -602,6 +672,10 @@ function initPanel(root: HTMLElement) {
   number?.addEventListener("input", onNumberInput)
   number?.addEventListener("change", onNumberInput)
   personParentheticals?.addEventListener("change", onPersonParentheticalsChange)
+  reader?.addEventListener("click", onReader)
+  theme?.addEventListener("click", onTheme)
+  research?.addEventListener("click", onResearch)
+  sourceSearch?.addEventListener("input", onSourceSearch)
   document.addEventListener("click", onDocumentClick)
 
   optionsWindow.addCleanup?.(() => toggle?.removeEventListener("click", onToggle))
@@ -614,12 +688,17 @@ function initPanel(root: HTMLElement) {
   optionsWindow.addCleanup?.(() =>
     personParentheticals?.removeEventListener("change", onPersonParentheticalsChange),
   )
+  optionsWindow.addCleanup?.(() => reader?.removeEventListener("click", onReader))
+  optionsWindow.addCleanup?.(() => theme?.removeEventListener("click", onTheme))
+  optionsWindow.addCleanup?.(() => research?.removeEventListener("click", onResearch))
+  optionsWindow.addCleanup?.(() => sourceSearch?.removeEventListener("input", onSourceSearch))
   optionsWindow.addCleanup?.(() => document.removeEventListener("click", onDocumentClick))
   optionsWindow.addCleanup?.(() => {
     optionsRoot.__optionsPanelBound = false
   })
 
   syncPanelState()
+  syncCommandState(root)
 }
 
 function initOptionsPanels() {
@@ -646,6 +725,12 @@ document.addEventListener("quartz-settings-change", () => {
   state = readSettingsState()
   applyPersonParentheticalDisplay()
   syncPanelState()
+})
+document.addEventListener("themechange", () => {
+  document.querySelectorAll<HTMLElement>("[data-options-root]").forEach(syncCommandState)
+})
+document.addEventListener("readermodechange", () => {
+  document.querySelectorAll<HTMLElement>("[data-options-root]").forEach(syncCommandState)
 })
 document.addEventListener("DOMContentLoaded", initOptionsPanels)
 document.addEventListener("nav", initOptionsPanels)

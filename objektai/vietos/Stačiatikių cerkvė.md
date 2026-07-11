@@ -32,12 +32,6 @@ Stačiatikių cerkvė.
 - t-001
   global_id: t-194286
   teiginys: "Stačiatikių cerkvė."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "420838-420889; hash=b4fdad8424759ac1e1befddde32dc28fc297c3c77e8e23f75ebc195f63f1dd97; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176878
 ## Reikšmingi paminėjimai
@@ -49,8 +43,8 @@ Stačiatikių cerkvė.
     16. Stačiatikių cerkvė.
     17. Šventos pagonių vietos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

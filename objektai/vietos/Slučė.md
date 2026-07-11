@@ -32,17 +32,6 @@ Slučė prasideda šiauriau Slucko. Slučė teka pro Slucką į Pripetę.
 - t-001
   global_id: t-187326
   teiginys: "Slučė prasideda šiauriau Slucko."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "645776-646005; hash=352cb88e0cb2cc756659957ad095956c4136fc5aadf53fb039301c6fb77a9232; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  ryšio_patikimumas: "susije_su -> Sluckas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Slučė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Sluckas: mention_match, place, gap=25"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Slučė\" parinktas kaip owner_note_path. Targetas \"Sluckas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-170356
 
@@ -50,19 +39,6 @@ Slučė prasideda šiauriau Slucko. Slučė teka pro Slucką į Pripetę.
 - t-002
   global_id: t-187327
   teiginys: "Slučė teka pro Slucką pietų kryptimi į Pripetę."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "645776-646005; hash=352cb88e0cb2cc756659957ad095956c4136fc5aadf53fb039301c6fb77a9232; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  ryšio_patikimumas: "susije_su -> Pripetė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Slučė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Pripetė: mention_match, place, gap=39"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Slučė\" parinktas kaip owner_note_path. Targetas \"Pripetė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-170356
 
@@ -70,21 +46,6 @@ Slučė prasideda šiauriau Slucko. Slučė teka pro Slucką į Pripetę.
 - t-003
   global_id: t-187652
   teiginys: "Slučė yra upė, prasidedanti šiauriau Slucko ir pro Slucką tekanti pietų kryptimi į Pripetę."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "645776-646005; hash=352cb88e0cb2cc756659957ad095956c4136fc5aadf53fb039301c6fb77a9232; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Pripetė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Slučė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Pripetė: mention_match, place, gap=83"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Slučė\" parinktas kaip owner_note_path. Targetas \"Pripetė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-170356
 
@@ -92,12 +53,6 @@ Slučė prasideda šiauriau Slucko. Slučė teka pro Slucką į Pripetę.
 - t-004
   global_id: t-194037
   teiginys: "1 6 Slučė — BTSR upė, prasidedanti šiauriau Slucko ir tekanti pro Slucką pietų kryptimi j Pripetę."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "645776-646005; hash=352cb88e0cb2cc756659957ad095956c4136fc5aadf53fb039301c6fb77a9232; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-170356
 - susijęs iš [[objektai/asmenys/Lukošius Moravecas.md#claim-t-186235|Lukošius Moravecas]]: Lukošius Moravecas prie Slučės upės su dviem šimtais pėstininkų užpuolė siaubėjusį priešą ir jį sumušė.
@@ -114,8 +69,8 @@ Slučė prasideda šiauriau Slucko. Slučė teka pro Slucką į Pripetę.
     pro Slucką pietų kryptimi j Pripetę.
     1 4  Nuo Slucko iki Kopyiio y ra apie 38 km.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

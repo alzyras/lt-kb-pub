@@ -34,14 +34,6 @@ Varšuvos kunigaikštija kartu su Saksonija įėjo į Napoleono protektorate esa
 - t-001
   global_id: t-193308
   teiginys: "Varšuvos kunigaikštija kartu su Saksonija įėjo į Napoleono protektorate esančią Pareinės valstybių sąjungą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "894583-894896; hash=8a9bfdeec792bd801a50c825bc5bad6ab7e6a090a07dccf11d4567bc3ddd3aab; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-176036
 ## Reikšmingi paminėjimai
@@ -57,8 +49,8 @@ Varšuvos kunigaikštija kartu su Saksonija įėjo į Napoleono protektorate esa
     dalinimus, ir iš Lietuvos Užnemunės, per trečiąjį padalinimą taip
     pat tekusios Prūsijai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

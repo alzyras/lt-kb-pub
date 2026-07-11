@@ -53,19 +53,6 @@ Nenurodyta.
 - t-004
   global_id: t-187833
   teiginys: "Narbutas pratarmėje rašo mitologijos tomui medžiagą sėmęsis iš rašytinių paminklų ir per trisdešimt metų sukaupęs papročių, padavimų bei dainų rinkinį."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "152934-153686; hash=ce14526c1d108728b221bd87c1fae13089aec1e9600e13dbc6f32dad8ae804ac; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
-  ryšio_patikimumas: "susije_su -> Tomas (Hertvigo iš Pokarvių sūnus): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mitologijos aprašymas renkant rašytinius, tautosakinius, etnografinius ir materialius šaltinius: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Tomas (Hertvigo iš Pokarvių sūnus): mention_match, person, gap=12"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mitologijos aprašymas renkant rašytinius, tautosakinius, etnografinius ir materialius šaltinius\" parinktas kaip owner_note_path. Targetas \"Tomas (Hertvigo iš Pokarvių sūnus)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-170785
 
@@ -73,19 +60,6 @@ Nenurodyta.
 - t-003
   global_id: t-187834
   teiginys: "Įžangos autorius nurodo, kad T. Narbutas mitologijos duomenis rinko iš rašytinių istorijų, mokslinių tyrimų, padavimų, dainų ir paminklų liekanų."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "37444-38704; hash=acd408d4e359c4f71b25a461b1ffeb866390fe9fb7bd3ea1d126ba4c57cad813; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
-  ryšio_patikimumas: "susije_su -> Francas Bopas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mitologijos aprašymas renkant rašytinius, tautosakinius, etnografinius ir materialius šaltinius: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Francas Bopas: mention_match, author"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mitologijos aprašymas renkant rašytinius, tautosakinius, etnografinius ir materialius šaltinius\" parinktas kaip owner_note_path. Targetas \"Francas Bopas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-170784
 
@@ -93,21 +67,6 @@ Nenurodyta.
 - t-005
   global_id: t-188390
   teiginys: "Narbutas rašo mitologijos tomo medžiagą rinkęs iš rašytinių paminklų nuo Šiaurės sagų iki Kojalavičiaus veikalų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "152934-153686; hash=ce14526c1d108728b221bd87c1fae13089aec1e9600e13dbc6f32dad8ae804ac; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Tomas (Hertvigo iš Pokarvių sūnus): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mitologijos aprašymas renkant rašytinius, tautosakinius, etnografinius ir materialius šaltinius: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Tomas (Hertvigo iš Pokarvių sūnus): mention_match, person, gap=12"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mitologijos aprašymas renkant rašytinius, tautosakinius, etnografinius ir materialius šaltinius\" parinktas kaip owner_note_path. Targetas \"Tomas (Hertvigo iš Pokarvių sūnus)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-170785
 
@@ -115,12 +74,6 @@ Nenurodyta.
 - t-006
   global_id: t-194627
   teiginys: "Medžiagą, iš kurios sudėjau šį istorijos tomą, sėmiausi, kiek buvo reikalo ir užteko sugebėjimų, iš rašytinių paminklų, pra dėdamas nuo Šiaurės sagų ir baigdamas Kojalavičiumi, ne praleisdamas nieko, kas galėjo būti naudinga."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "152934-153686; hash=ce14526c1d108728b221bd87c1fae13089aec1e9600e13dbc6f32dad8ae804ac; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-170785
 ## Reikšmingi paminėjimai
@@ -151,8 +104,8 @@ Nenurodyta.
     bais, archeologų radiniais, savo ir kitų kraštotyrininkų surink­
     ta tautosaka, etnografine medžiaga.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -175,8 +128,8 @@ Nenurodyta.
     privalėjau išdėstyti šiame veikale, nes esu įsitikinęs, kad mito­
     logija yra raktas seniausiajai tautų istorijai pažinti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -189,7 +142,8 @@ Nenurodyta.
 - id: c-170784
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 23"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 23."
   citata_originali: |
     Naudojamų šaltinių atranka ir vertinimu T. Narbutas irgi
     mažai kuo tesiskyrė nuo savo pirmtakų. Kaip buvo įprasta, jis
@@ -223,7 +177,8 @@ Nenurodyta.
 - id: c-170785
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 85"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 85."
   citata_originali: |
     Medžiagą, iš kurios sudėjau šį istorijos tomą, sėmiausi, kiek
     buvo reikalo ir užteko sugebėjimų, iš rašytinių paminklų, pra­

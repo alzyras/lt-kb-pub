@@ -38,11 +38,6 @@ Dusburgietis teigia, kad kuris netgi turėjo ilgai jam mokėti duoklę po 1000 a
 - t-001
   global_id: t-58916
   teiginys: "Marobortinai citatoje minimi kaip aukso pinigai, kuriais kasdien mokėta po 1000 vienetų duoklės."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "697988-698098; hash=5c3f7e78d80a8d34f07078eda734390c17c9446600088cb700138a689c37d6e1; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T14:23:04Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-59548
 ## Reikšmingi paminėjimai
@@ -58,8 +53,8 @@ Dusburgietis teigia, kad kuris netgi turėjo ilgai jam mokėti duoklę po 1000 a
 
                24.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -70,7 +65,8 @@ Dusburgietis teigia, kad kuris netgi turėjo ilgai jam mokėti duoklę po 1000 a
 - id: c-59548
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 229"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 229."
   citata_originali: |
     kuris netgi turėjo ilgai jam mokėti duoklę po 1000 aukso marobortinų  į dieną (Ptol.
     21,33).

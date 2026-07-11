@@ -37,19 +37,6 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
 - t-001
   global_id: t-22423
   teiginys: "J. K. Glaubitzas buvo garsiausias Vilniaus baroko mokyklos architektas, sukūręs Basųjų karmelitų bažnyčią Mstislavlyje."
-  temporaliniai_duomenys: "įvykio data: po 1795 m.; įvykio data: 1795 m.; įvykio data: 1918-1919; įvykio data: 1919 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko tikslesnį ir pilnesnį sakinį."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "27473-28143; hash=7687b4174c61a8637816f8c1cdec433d7fbfde0ee59fc20ec87123bafbde8f7e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Mstislavlis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "J. K. Glaubitzas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Mstislavlis: mention_match, place, gap=106"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"J. K. Glaubitzas\" parinktas kaip owner_note_path. Targetas \"Mstislavlis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-25068
 ## Reikšmingi paminėjimai
@@ -68,8 +55,8 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
     ir garsiausio jos architekto J. K. Glaubitzo kūrinys –
     Basųjų karmelitų bažnyčia Mstislavlyje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

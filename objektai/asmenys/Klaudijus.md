@@ -30,21 +30,6 @@ Imperatoriaus Klaudijaus valdymo metu, apie 50 m. po Kristaus, klajokliai užėm
 - t-001
   global_id: t-191504
   teiginys: "Imperatoriaus Klaudijaus valdymo metu, apie 50 m. po Kristaus, klajokliai užėmė Tisos žemupius ir nugalėjo tenykščius slavus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "199784-200201; hash=899b00e310c16ffd0935c1a37555e25a546ec488b75cfeb64371c553b0b21193; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Slavai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Klaudijus: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Slavai: mention_match, group, gap=104"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Klaudijus\" parinktas kaip owner_note_path. Targetas \"Slavai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174386
 - susijęs iš [[objektai/asmenys/Aurelianas Klaudijus.md#claim-t-191338|Aurelianas Klaudijus]]: Narbutas rašo, kad imperatorius Aurelianas Klaudijus apie 269 m. prie Naisos Dardanijoje įveikė ir išvijo gotų kariuomenę.
@@ -66,8 +51,8 @@ Imperatoriaus Klaudijaus valdymo metu, apie 50 m. po Kristaus, klajokliai užėm
     Vėliau jie prašė padėti kaimynines germanų tautas —■ vik-
     lofalus ir kvadus, kad šie padėtų nugalėti užkariautojus1.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -78,7 +63,8 @@ Imperatoriaus Klaudijaus valdymo metu, apie 50 m. po Kristaus, klajokliai užėm
 - id: c-174386
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 112"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 112."
   citata_originali: |
     Maždaug tuo metu, kai
     Ovidijus buvo tremtyje, jie jau klajojo tarp Dnestro ir

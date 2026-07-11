@@ -30,21 +30,6 @@ Teodoras Narbutas nurodė, kad Hesichijas, kaip ir vėlesni Bizantijos tyrinėto
 - t-001
   global_id: t-191777
   teiginys: "Teodoras Narbutas nurodė, kad Hesichijas, kaip ir vėlesni Bizantijos tyrinėtojai, vartojo formą ’Iv8ixvję ginče dėl skaitymo Indi ar Sindi."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "718632-719350; hash=e3c5a292760ba2ed71a38ff58c0d60aebd89ca64997975fea0e619ef6015e901; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Bizantija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Hesichijaus leidimas: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Bizantija: mention_match, place, gap=28"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Hesichijaus leidimas\" parinktas kaip owner_note_path. Targetas \"Bizantija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174659
 ## Reikšmingi paminėjimai
@@ -67,8 +52,8 @@ Teodoras Narbutas nurodė, kad Hesichijas, kaip ir vėlesni Bizantijos tyrinėto
     rinėtojui, kuris suvokia Herodoto padavimų vertę, visiš­
     kai neatrodo tikras dalykas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -79,7 +64,8 @@ Teodoras Narbutas nurodė, kad Hesichijas, kaip ir vėlesni Bizantijos tyrinėto
 - id: c-174659
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 394"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 394."
   citata_originali: |
     Si pataisa prieštarauja visiems rankraščiams (Co-
     dices)i1, be to, yra tik paprasta prielaida, anot Veselnigo,

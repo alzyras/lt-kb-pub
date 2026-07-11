@@ -57,18 +57,6 @@ Nenurodyta
 - t-002
   global_id: t-31406
   teiginys: "1305 m. Svirtila išdavė Aukaimio pilį kryžiuočiams, kurie ją užėmė, išžudė rastus vyrus, o moteris ir vaikus paėmė į nelaisvę."
-  temporaliniai_duomenys: "įvykio data: 1305 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "609023-609532; hash=a23e0e64ad50ca99c934206d8995f7d07a21002b4882752be12998c4ecaef18b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aukaimis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aukaimio pilies sunaikinimas (1302 ir 1305 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Aukaimis: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aukaimio pilies sunaikinimas (1302 ir 1305 m.)\" parinktas kaip owner_note_path. Targetas \"Aukaimis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-33385
 
@@ -76,19 +64,6 @@ Nenurodyta
 - t-001
   global_id: t-31407
   teiginys: "Riteriai 1302 ir 1305 m. du kartus paėmė ir sunaikino Aukaimio pilį."
-  temporaliniai_duomenys: "įvykio data: 1305 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nusako įvykį, datas ir rezultatą pagal citatą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "608417-608761; hash=5030358f7a9a3cdda657668905b659545cc25322d36a30766dc92be6adc2f8c9; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aukaimis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aukaimio pilies sunaikinimas (1302 ir 1305 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Aukaimis: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aukaimio pilies sunaikinimas (1302 ir 1305 m.)\" parinktas kaip owner_note_path. Targetas \"Aukaimis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-31312
 
@@ -96,22 +71,6 @@ Nenurodyta
 - t-003
   global_id: t-184337
   teiginys: "Riteriai 1302 ir 1305 m. du kartus paėmė ir sunaikino Aukaimio pilį."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1305 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalintas kontekstinis pradžios junginys „Tokiu būdu“."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "608295-608703; hash=f35302b222f9e5a01fa8d11ff9a810ecfd68804faf556211f0fa3f33b74d1b15; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aukaimis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aukaimio pilies sunaikinimas (1302 ir 1305 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Aukaimis: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aukaimio pilies sunaikinimas (1302 ir 1305 m.)\" parinktas kaip owner_note_path. Targetas \"Aukaimis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-167707
 ## Reikšmingi paminėjimai
@@ -126,8 +85,8 @@ Nenurodyta
     iki vieno išžudė», o moteris ir vaikus išsivedė nelaisvėn. Pats
     Draika su visa šeima Ragainėje buvo pakrikštytas^10.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -145,8 +104,8 @@ Nenurodyta
     linkėje « daug žmonių išžudė, ar paėmė į nelaisvę, grobė visa, kas
     tik ten buvo rasta, o (kitką) degino »^11.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -164,8 +123,8 @@ Nenurodyta
     jo paties saugojamo Aukaimio vartus kryžiuočiams, kurie «visus
     iki vieno išžudė», o moteris ir vaikus išsivedė nelaisvėn.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

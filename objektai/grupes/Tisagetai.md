@@ -30,21 +30,6 @@ Narbutas perteikia Herodoto žinią, kad už septynių dienų kelio dykros į š
 - t-001
   global_id: t-192962
   teiginys: "Narbutas perteikia Herodoto žinią, kad už septynių dienų kelio dykros į šiaurę nuo gelonų ir budinų krašto gyveno tisagetai."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "128872-129309; hash=90175e0bd2fc8a56fdcedc05e61103df05124e336b4a18fa7a6db2ec49901b4d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Budinai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Tisagetai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Budinai: mention_match, group, gap=21"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tisagetai\" parinktas kaip owner_note_path. Targetas \"Budinai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175732
 
@@ -52,21 +37,6 @@ Narbutas perteikia Herodoto žinią, kad už septynių dienų kelio dykros į š
 - t-002
   global_id: t-192963
   teiginys: "Narbutas rašo, kad tisagetai maistui ir gėrimui vartojo kumelių pieną, galbūt sekdami budinais."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "141792-142236; hash=7704bda9b9884603e239333960cd170d2d67274e7287217e5dd486f56ce4ec83; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Budinai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Tisagetai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Budinai: mention_match, group, gap=67"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tisagetai\" parinktas kaip owner_note_path. Targetas \"Budinai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175733
 - susijęs iš [[objektai/asmenys/Herodotas.md#claim-t-190868|Herodotas]]: Herodotas rašė, kad tisagetai gyveno toliau į šiaurę už gelonų gyvenamą kraštą.
@@ -95,8 +65,8 @@ Narbutas perteikia Herodoto žinią, kad už septynių dienų kelio dykros į š
     generolas Baturlinas, aprašydamas Darijaus žygį prieš
     Skitiją2.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -116,8 +86,8 @@ Narbutas perteikia Herodoto žinią, kad už septynių dienų kelio dykros į š
     suomet labai vertino ir dabar tebevertina šiaurės rytų
     gyventojai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -128,7 +98,8 @@ Narbutas perteikia Herodoto žinią, kad už septynių dienų kelio dykros į š
 - id: c-175732
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 73"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 73."
   citata_originali: |
     Šiuo atžvilgiu mes žinome daugiau ne­
     gu romėnai, kurie manė, jog gelonai gyvenę toliausiai į
@@ -149,7 +120,8 @@ Narbutas perteikia Herodoto žinią, kad už septynių dienų kelio dykros į š
 - id: c-175733
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 79"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 79."
   citata_originali: |
     Juos matydavo vaikščiojant beveik nuogus,
     galbūt norinčius parodyti gražų kūno sudėjimą, kurį jiems

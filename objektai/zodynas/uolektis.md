@@ -33,16 +33,6 @@ Dusburgietis teigia, kad magistras tol nekėlė kojos į miestą, kol jo sienoje
 - t-002
   global_id: t-82104
   teiginys: "Fundacijos privilegija buvo parašyta lotynų kalba ant pergamento, didesnio nei uolektis ilgio ir pločio."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "486764-487535; hash=a1d1d1ccf1e03ef00af5bd353a974a572052df174fb806788bb1138ae9f60619; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "uolektis: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"uolektis\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-78597
 - susijęs iš Žemaičių jūra: Žemaičių jūra per 1000 metų nuseko kelias uolektis.
@@ -72,8 +62,8 @@ Dusburgietis teigia, kad magistras tol nekėlė kojos į miestą, kol jo sienoje
     yra įrašyta žodis žodin, tokio turinio:
     In Nomine Domini Amen.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

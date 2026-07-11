@@ -57,19 +57,6 @@ Nenurodyta
 - t-001
   global_id: t-31423
   teiginys: "1313 m. Vytenis pasiuntė Surminą su 100 laivų prieš kryžiuočius, atplaukusius pulti Junigėdos."
-  semantiniai_rysiai: "Vytenis paskyrė Surminas (0.78)"
-  temporaliniai_duomenys: "įvykio data: 1313 m.; įvykio data: 1315 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "613445-613846; hash=d5dd257b83cf488eb728bc86839f9789d3daa9a8b328dba09520845f2efbdfdd; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "paskyre -> Surminas: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytenis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Surminas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Vytenis tiesiogiai siunčia Surminą atlikti karinės užduoties; „paskyre“ tiksliausiai perteikia pavedimą asmeniui."
   pagrindžia:
     - c-33398
 ## Reikšmingi paminėjimai
@@ -86,8 +73,8 @@ Nenurodyta
     100 laivų, kurie priešą nuvijo, o laivą sudegino^21. 1315 m. rugpiū­
     čio mėn.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -43,16 +43,6 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
 - t-003
   global_id: t-65156
   teiginys: "Dusburgiečio pasakojime galindų pagausėjo tiek, kad jų žemė nebegalėjo jų išmaitinti."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "386513-387058; hash=10b87461ddb45bc894347c0c2d3dc3ef189ff0e9045c9dfdb2c2a971d02a4604; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Galinda: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Galindai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Galinda: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Galindai\" parinktas kaip owner_note_path. Targetas \"Galinda\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-65625
 
@@ -60,16 +50,6 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
 - t-002
   global_id: t-65157
   teiginys: "Galindų žemė driekėsi į pietus nuo Bartos, nuo Alnos aukštumos vakaruose iki Nagutino ir Snervų ežerų rytuose."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "200248-200700; hash=c7589a3ce1e1ff0bb8ac78c5aa5b52dd0615718b390b181a10a6708ff324aa11; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Barta: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Galindai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Barta: mention_match, place, gap=35"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Galindai\" parinktas kaip owner_note_path. Targetas \"Barta\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-65626
 
@@ -77,19 +57,6 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
 - t-004
   global_id: t-183881
   teiginys: "Dusburgiečio pasakojime galindai nutarė žudyti gimusias mergaites, o berniukus palikti karui."
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "386513-387058; hash=10b87461ddb45bc894347c0c2d3dc3ef189ff0e9045c9dfdb2c2a971d02a4604; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Galinda: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Galindai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Galinda: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Galindai\" parinktas kaip owner_note_path. Targetas \"Galinda\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-65625
 
@@ -97,19 +64,6 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
 - t-004
   global_id: t-188184
   teiginys: "Narbutas Galindams priskyrė Rosės vardu vadintas šventas upes ir siejo jas su lietuvių genčių papročiu šventinti upes."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "386513-387058; hash=10b87461ddb45bc894347c0c2d3dc3ef189ff0e9045c9dfdb2c2a971d02a4604; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Galinda: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Galindai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Galinda: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Galindai\" parinktas kaip owner_note_path. Targetas \"Galinda\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-171078
 
@@ -117,14 +71,6 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
 - t-005
   global_id: t-188185
   teiginys: "Narbutas pasakojo, kad ilgai taikiai gyvenusiame Galindų krašte žmonių padaugėjo tiek, jog seniūnai nutarė žudyti moteriškos lyties kūdikius."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "532209-532593; hash=b6a6b30c1c1efa876bb0c12f2d9ee56cbb406a98f2fffb5b2703837b2cdf8fe3; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171079
 
@@ -132,22 +78,6 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
 - t-006
   global_id: t-188186
   teiginys: "Narbutas pasakojo, kad po galindų žygio krikščionys juos išmušė, o supykdyti kaimynai nuniokojo Galindą beveik iki negyvenamos šalies."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Krikščionys puolė Galindai (0.94)"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "533129-533482; hash=11ce05ef6e749162c8c332c43db964609281b637de8aae5f5ecf2e95f05abb6f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Galindai: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Krikščionys: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Galindai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad krikščionys puolė galindus."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171080
 
@@ -155,22 +85,6 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
 - t-007
   global_id: t-192382
   teiginys: "Narbutas Galindą vadina viena seniausių provincijų ir rašo, kad ji kadaise driekėsi plačiau Mazovijos bei Polesės link."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Galindai gyveno Galinda (0.68)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "470722-471224; hash=fca9a6cf2cf869722c106643e484f2ae57c7e28e9bedecc723b0cee7fb5062a9; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Galinda: 0.68"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Galindai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Galinda: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata Galindos provinciją susieja su galindų gentimis."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175176
 
@@ -178,22 +92,6 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
 - t-008
   global_id: t-192383
   teiginys: "Narbutas rašo, kad galindai iš pradžių nedalyvavo prūsų karuose su kryžiuočiais, o vėliau kryžiuočiai užpuolė Galindą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Kryžiuočių ordinas puolė Galindai (0.96)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "657290-657739; hash=47966012753a7e4fe4231465cf37ed8b1b1f2869aa44691f5029d0b437bcc52e; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Galindai: 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Galindai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citatoje tiesiogiai pasakyta, kad kryžiuočiai puolė galindus."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175177
 
@@ -201,12 +99,6 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
 - t-009
   global_id: t-194325
   teiginys: "Apie Galindos žemės nuniokojimą Pagausėjo galindų, kurie, daugindamiesi kaip grybai po lietaus, taip nepaprastai sustiprėjo ir taip perpildė savo žemę, kad ji nebegalėjo jų išmaitinti."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "386513-387058; hash=10b87461ddb45bc894347c0c2d3dc3ef189ff0e9045c9dfdb2c2a971d02a4604; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-65625
 - susijęs iš [[objektai/asmenys/Ptolemajas.md#claim-t-17607|Ptolemajas]]: Ptolemajas II a. žinojo galindus ir jotvingius, arba sūduvius.
@@ -263,8 +155,8 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
     nes motinos, išvydusios gimusių mergaičių grožį, slapčiomis jas augino, vieningai
     nutarė nupjaustyti visoms savo žmonoms krūtis, kad neturėtų kuo maitinti kūdikių.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -284,8 +176,8 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
 
     [gyveno] galindai.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -306,8 +198,8 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
     šventindami upes, prie dviejų upių santakos statyti šventoves ir ten at­
     likti tokį garbinimą (Hiegels.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -325,8 +217,8 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
     ris, ir jos su moterišku išradingumu rasdavo būdų, kaip jas
     išsaugoti gyvas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -344,8 +236,8 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
     niokojo, kad Galinda daugeliui metų paliko beveik negyve­
     nama.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -370,8 +262,8 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
     mame tome, skyriuje „Pranašystės“; čia ¡papasakosime
     apie kitus žinomus dalykus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -390,8 +282,8 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
     jau visiškai nesipriešinančius žmones. Taip Galindos pa­
     minklai buvo palaidoti šios nelaimingos genties kapuose.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -402,7 +294,8 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
 - id: c-65625
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 63"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 63."
   citata_originali: |
     Apie Galindos žemės nuniokojimą
 
@@ -425,7 +318,8 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
 - id: c-65626
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 61-62"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 61-62."
   citata_originali: |
     200 D.— Galindia, in qua Galindite, Jer.— Galindin. T.,   ja  į pietus nuo Bartos, nuo
     Alnos (dab. Lynos) aukštumos (apie dab. Olštiną) vakaruose iki Nagutino (Negocino)
@@ -444,7 +338,8 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
 - id: c-171078
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 226"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 226."
   citata_originali: |
     Lietu­
     vių protėviai, kai toliau plėsdamiesi priėjo Nemuno žemupį,
@@ -466,7 +361,8 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
 - id: c-171079
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 304"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 304."
   citata_originali: |
     Galindų krašte, klestinčiame dėl ilgos taikos, taip padau­
     gėjo žmonių, kad jie vos galėjo sutilpti. Tuomet krašto seniū­
@@ -485,7 +381,8 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
 - id: c-171080
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 305"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 305."
   citata_originali: |
     Šie, patikėję žynės žodžiu, tuojau sutelkė
     vyrus, tinkamus karui, užpuolė netolimą krikščionių kraštą,
@@ -530,7 +427,8 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
 - id: c-175177
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 363"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 363."
   citata_originali: |
     Būtina atsižvelgti į tai, jog galindai prūsų karuose
     su kryžiuočiais iš pradžių nedalyvavo. Tik žlugus vidi­
@@ -548,9 +446,5 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
     - t-192383
 
 ## Ryšiai
-- Sąjungininkai: [[objektai/grupes/Jotvingiai]], [[objektai/grupes/Venedai]]
 - Puolė Galindai: [[objektai/grupes/Krikščionys]], [[objektai/grupes/Kryžiuočių ordinas]]
-- Galindai kariavo prieš [[objektai/grupes/Krikščionys]], [[objektai/asmenys/Valuzianas]]
 - Galindai dalyvavo mūšyje [[objektai/ivykiai/Jungtinių finų, galindų ir venedų būrių karas su Valuzianu apie 253 m]]
-- Galindai gyveno [[objektai/vietos/Galinda]]
-- Galindai priklausė [[objektai/asmenys/Boleslovas Gėdingasis]]

@@ -58,20 +58,6 @@ Nenurodyta
 - t-005
   global_id: t-67075
   teiginys: "Gediminas laiškais popiežiui ir Vakarų visuomenei gerino Lietuvos įvaizdį ir mažino paramą kryžiuočiams."
-  semantiniai_rysiai: "Gediminas valdė Lietuva (0.94); Gediminas kariavo prieš Kryžiuočių ordinas (0.90)"
-  temporaliniai_duomenys: "įvykio data: 1316 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Reikia pakeisti neaiškų įvardį konkrečiu asmeniu ir sutrumpinti sakinį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "52236-52630; hash=d93806b9c2fbb3cbdc570eacd7274fc935cf87e78c60ae2fa13fe7b8992507f6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde -> Lietuva: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Gediminas pradėjo valdyti Lietuvą."
   pagrindžia:
     - c-43153
 
@@ -79,19 +65,6 @@ Nenurodyta
 - t-003
   global_id: t-67077
   teiginys: "Gediminas pasitelkė informacines priemones ir laiškais popiežiui bei vakarų visuomenei gerino Lietuvos įvaizdį."
-  semantiniai_rysiai: "Gediminas valdė Lietuva (0.94); Gediminas kariavo prieš Kryžiuočių ordinas (0.90)"
-  temporaliniai_duomenys: "įvykio data: 1316 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "52236-52630; hash=d93806b9c2fbb3cbdc570eacd7274fc935cf87e78c60ae2fa13fe7b8992507f6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde -> Lietuva: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Gediminas pradėjo valdyti Lietuvą."
   pagrindžia:
     - c-43153
 
@@ -99,20 +72,6 @@ Nenurodyta
 - t-006
   global_id: t-183692
   teiginys: "Gediminas laiškais popiežiui ir Vakarų visuomenei gerino Lietuvos įvaizdį ir mažino paramą kryžiuočiams."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Gediminas kariavo prieš Kryžiuočių ordinas (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "52334-52697; hash=39418e4b0c73fc1064282e2c0b6b7f674d6db73ce0cd8d9db65b0def202498ec; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Kryžiuočių ordinas: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citatoje tiesiogiai nurodyti Gedimino karo veiksmai prieš kryžiuočius."
   pagrindžia:
     - c-167082
 ## Reikšmingi paminėjimai
@@ -128,8 +87,8 @@ Nenurodyta
     kryžiuočiams. Gediminas pradėjo derinti karo veiksmus prieš
     kryžiuočius su Lenkija.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -148,8 +107,8 @@ Nenurodyta
     kryžiuočius su Lenkija. Pasiekimai vakaruose Gediminui leido
     plėsti savo valstybę rytuose.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

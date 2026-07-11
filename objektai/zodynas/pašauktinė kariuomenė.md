@@ -39,20 +39,6 @@ Iš kitos pusės, nesant masinės reguliarios kariuomenės, bajorų pašauktinė
 - t-004
   global_id: t-78905
   teiginys: "Pašauktinės kariuomenės trūkumus bandyta kompensuoti samdiniais, kurie buvo profesionalūs kariai."
-  semantiniai_rysiai: "Totoriai puolė Lietuva (0.86)"
-  temporaliniai_duomenys: "įvykio data: 1506 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinė tezė nėra apie pašauktinę kariuomenę, o citata leidžia suformuluoti tiesiogiai susijusį faktą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "304606-305026; hash=097cfe057863a907dcc90591e68d3a3dc7e7a61524120e67e8016d4f0a295e48; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Lietuva: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Totoriai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo totorių įsiveržimą į LDK valdas."
   pagrindžia:
     - c-76010
 
@@ -60,17 +46,6 @@ Iš kitos pusės, nesant masinės reguliarios kariuomenės, bajorų pašauktinė
 - t-001
   global_id: t-78906
   teiginys: "Bajorų pašauktinės kariuomenės mobilizacija galėdavo užtrukti taip ilgai, kad po apiplėšimo totoriai spėdavo pasitraukti."
-  semantiniai_rysiai: "Totoriai puolė Lietuva (0.80)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "303270-303681; hash=4ea88c61369216da8fe16643c06bd4f41ecc0cb19b514c5a17a4a37ae31ec3be; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Lietuva: 0.80"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Totoriai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad totoriai plėšė LDK žemes, todėl palaiko puolimo ryšį su Lietuva."
   pagrindžia:
     - c-76011
 
@@ -78,17 +53,6 @@ Iš kitos pusės, nesant masinės reguliarios kariuomenės, bajorų pašauktinė
 - t-002
   global_id: t-78907
   teiginys: "XV a. pabaigoje ir XVI a. pradžioje Lietuvos karinės organizacijos pagrindą vis dar sudarė kilmingųjų pašauktinė raitelių kariuomenė."
-  semantiniai_rysiai: "Lietuvos kariuomenė priklausė Lietuva (0.84)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "303868-304334; hash=24776668c32e92bd3f7bddbc9f628f539a9078cbe60332ff4127aa2ece27e6f1; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Lietuva: 0.84"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuvos kariuomenė: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Pavadinimas ir citatos kontekstas tiesiogiai sieja kariuomenę su Lietuva."
   pagrindžia:
     - c-76013
 ## Reikšmingi paminėjimai
@@ -112,8 +76,8 @@ Iš kitos pusės, nesant masinės reguliarios kariuomenės, bajorų pašauktinė
     1506 m. vasarą totoriai įsiveržė į LDK valdas
     gerai nusiteikę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -135,8 +99,8 @@ Iš kitos pusės, nesant masinės reguliarios kariuomenės, bajorų pašauktinė
     nebaudžiamiems plėšti LDK žemes xv a.
     pabaigoje - xvi a. pradžioje. Tiesa, dar
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -159,8 +123,8 @@ Iš kitos pusės, nesant masinės reguliarios kariuomenės, bajorų pašauktinė
     džiojo kunigaikščio dvaro vėliava bei di-
     dikų privatūs daliniai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

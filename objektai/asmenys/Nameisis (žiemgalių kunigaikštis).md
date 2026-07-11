@@ -35,17 +35,6 @@ Traidenio valdymo laikotarpiu vyko aktyvus lietuvių ir žiemgalių bendradarbia
 - t-001
   global_id: t-40366
   teiginys: "Traidenio valdymo laikotarpiu žiemgalių kunigaikštis Nameisis buvo Traidenio karvedys ir vadovavo jo kariuomenei Ordino vakarų fronte."
-  semantiniai_rysiai: "Nameisis (žiemgalių kunigaikštis) kariavo prieš Kryžiuočių ordinas (0.79)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "100538-100901; hash=347a58db6529f74f27a622a791ee5fbd0a6c1ffdc40c825bc80439711079eb8e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Kryžiuočių ordinas: 0.79"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Nameisis (žiemgalių kunigaikštis): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Vadovavimas kariuomenei Ordino fronte tiesiogiai rodo karinę priešpriešą Ordinui."
   pagrindžia:
     - c-167144
 
@@ -53,17 +42,6 @@ Traidenio valdymo laikotarpiu vyko aktyvus lietuvių ir žiemgalių bendradarbia
 - t-002
   global_id: t-40367
   teiginys: "Nameisio vadovaujami ir lietuvių remiami žiemgaliai po Livonijos ordino sutriuškinimo atsiėmė Tervetės pilį."
-  semantiniai_rysiai: "Lietuviai rėmė Žiemgaliai (0.97); Žiemgaliai užėmė Tervetė (0.97)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "120785-121140; hash=eae581dc4e0de6b9e99323d9a80b810c61f2ad339749b5193c1cbadea1f59d59; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "reme -> Žiemgaliai: 0.97"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Žiemgaliai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad žiemgaliai buvo remiami lietuvių."
   pagrindžia:
     - c-44473
 
@@ -71,20 +49,6 @@ Traidenio valdymo laikotarpiu vyko aktyvus lietuvių ir žiemgalių bendradarbia
 - t-003
   global_id: t-183756
   teiginys: "Traidenio valdymo laikotarpiu žiemgalių kunigaikštis Nameisis vadovavo Traidenio kariuomenei Ordino vakarų fronte."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Nameisis (žiemgalių kunigaikštis) kariavo prieš Kryžiuočių ordinas (0.79)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "100538-100901; hash=347a58db6529f74f27a622a791ee5fbd0a6c1ffdc40c825bc80439711079eb8e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Kryžiuočių ordinas: 0.79"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Nameisis (žiemgalių kunigaikštis): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Vadovavimas kariuomenei Ordino fronte tiesiogiai rodo karinę priešpriešą Ordinui."
   pagrindžia:
     - c-167144
 ## Reikšmingi paminėjimai
@@ -102,8 +66,8 @@ Traidenio valdymo laikotarpiu vyko aktyvus lietuvių ir žiemgalių bendradarbia
     Lietuviai taip pat toliau rėmė jotvingius jų
     kovoje su Ordinu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -125,8 +89,8 @@ Traidenio valdymo laikotarpiu vyko aktyvus lietuvių ir žiemgalių bendradarbia
     regione skatino gintis nuo vokiečių visus
     baltus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -180,6 +144,3 @@ Traidenio valdymo laikotarpiu vyko aktyvus lietuvių ir žiemgalių bendradarbia
   pagrindzia:
     - t-183756
     - t-40366
-
-## Ryšiai
-- Nameisis (žiemgalių kunigaikštis) kariavo prieš [[objektai/grupes/Kryžiuočių ordinas]]

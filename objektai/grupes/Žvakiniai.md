@@ -30,14 +30,6 @@ Narbutas Žvakinius apibūdino kaip pranašautojus, kurie liedavo žvakes ir ate
 - t-001
   global_id: t-189542
   teiginys: "Narbutas Žvakinius apibūdino kaip pranašautojus, kurie liedavo žvakes ir ateitį spėdavo pagal jų degimą bei dūmus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "520930-521247; hash=f70c735c5eeec77bf2ce096b6c9d68fe00a4fb87c42c7904d0fae81c0065975a; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172430
 - susijęs iš [[objektai/daiktai/Žvakinių žvakės.md#claim-t-189762|Žvakinių žvakės]]: Narbutas žvakinius apibūdino kaip pranašautojus, kurie nusiliedavo žvakes ir pagal jų degimą bei dūmus pranašaudavo ateitį.
@@ -59,8 +51,8 @@ Narbutas Žvakinius apibūdino kaip pranašautojus, kurie liedavo žvakes ir ate
     Ypatinga rūšis pranašautojų ir gydytojų, gydančių vien pū­
     timu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -71,7 +63,8 @@ Narbutas Žvakinius apibūdino kaip pranašautojus, kurie liedavo žvakes ir ate
 - id: c-172430
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 298"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 298."
   citata_originali: |
     Apie juos
     buvo manoma, jog panorėję jie moką nukreipti vėją, nuraminti

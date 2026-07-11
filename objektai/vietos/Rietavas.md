@@ -30,21 +30,6 @@ Narbutas Vetustį apibūdino kaip Rietavo miestelio fetišą ir aiškino jo reik
 - t-001
   global_id: t-189050
   teiginys: "Narbutas Vetustį apibūdino kaip Rietavo miestelio fetišą ir aiškino jo reikšmę lietuvišku žodžiu „senovinis“."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "350975-351263; hash=415388d445d37f26492b79958ae71f21b32d60fb5887c5916d47f12a4f8ac48c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> fetišai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Rietavas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "fetišai: mention_match, thing, gap=18"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rietavas\" parinktas kaip owner_note_path. Targetas \"fetišai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171939
 - susijęs iš [[objektai/zodynas/Simonaitė Sidzia Ventis Rageziowan Dievaitis Vetustis Guboja Tvertikas.md#claim-t-189252|Simonaitė Sidzia Ventis Rageziowan Dievaitis Vetustis Guboja Tvertikas]]: Narbutas Vetustį (Wetustis) nurodo kaip Rietavo miestelio fetišą, kurio lietuviška reikšmė esanti „senovinis“.
@@ -70,8 +55,8 @@ Narbutas Vetustį apibūdino kaip Rietavo miestelio fetišą ir aiškino jo reik
     Guboja ir Tvertikas (Guboi i Twertikas)
     Saratovo miesto fetišai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

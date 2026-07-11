@@ -40,19 +40,6 @@ Po reformos plačiau pradėti naudoti dragūnai - raitieji pėstininkai, kurie m
 - t-002
   global_id: t-38711
   teiginys: "Dragūnus buvo galima naudoti kaip kavaleriją, tačiau šiame vaidmenyje jie buvo mažiau efektyvūs."
-  temporaliniai_duomenys: "įvykio data: 1618 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys gramatiškai nepakankamai aiškus dėl praleisto tarinio papildymo."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "505307-505557; hash=613b56a4423ec06b91c90c5106602ed490dfd2c220113751be57f79a69fef5a6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "dragūnai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"dragūnai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-40516
 
@@ -60,11 +47,6 @@ Po reformos plačiau pradėti naudoti dragūnai - raitieji pėstininkai, kurie m
 - t-001
   global_id: t-38712
   teiginys: "Po reformos plačiau naudoti dragūnai buvo raitieji pėstininkai, kurie mūšyje kaudavosi pėsti, o žygį atlikdavo raiti."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "505055-505380; hash=f82d25f848174dabb9f69ea23170047ce3eba0b87fa5045a5b30c9a2f2a4f223; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-40515
 
@@ -72,14 +54,6 @@ Po reformos plačiau pradėti naudoti dragūnai - raitieji pėstininkai, kurie m
 - t-003
   global_id: t-183707
   teiginys: "Po reformos plačiau naudoti dragūnai buvo raitieji pėstininkai, kurie mūšyje kaudavosi pėsti, o žygį atlikdavo raiti."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "504949-505306; hash=03d939d69fcaba35af0ac3f945e10557bbf9b2da3f3d27659290c22b8289ff2a; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-167095
 - susijęs iš [[objektai/autoriai/Francois Paulin Dalairac.md#claim-t-181536|Francois Paulin Dalairac]]: Francois Paulin Dalairac vadinasi lenkų autoramentu [Armee Polonoise], 0 ją sudaro du trečdaliai, tai yra 24 000 raitelių.
@@ -98,8 +72,8 @@ Po reformos plačiau pradėti naudoti dragūnai - raitieji pėstininkai, kurie m
     remdavo kavalerijos veiksmus kaip pėstininkai. Dragūnus buvo
     galima naudoti ir kaip kavaleriją, tačiau mažiau efektyvią.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -115,8 +89,8 @@ Po reformos plačiau pradėti naudoti dragūnai - raitieji pėstininkai, kurie m
     gimentas buvo dalijamas į eskadronus, nors buvo naudojami ir kiti
     pavadinimai - vėliava, kompanija, kornetas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -134,8 +108,8 @@ Po reformos plačiau pradėti naudoti dragūnai - raitieji pėstininkai, kurie m
     jie neatsilikdavo nuo kavalerijos dalinių, o susidūrus su priešu pa-
     remdavo kavalerijos veiksmus kaip pėstininkai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

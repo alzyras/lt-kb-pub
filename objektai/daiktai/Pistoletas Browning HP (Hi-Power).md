@@ -61,19 +61,6 @@ Nenurodyta
 - t-001
   global_id: t-40749
   teiginys: "Pistoletas Browning HP buvo sukurtas Džono Brauningo, išbaigtas Belgijoje ir pradėtas gaminti 1935 m."
-  temporaliniai_duomenys: "įvykio data: 1935 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir tiksliai perteikia citatos faktus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "915723-916088; hash=0127f0e9190ef495d528af38d53cac483424867e164499180f4c125af756105e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Pistoletas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Pistoletas Browning HP (Hi-Power): owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Pistoletas: mention_match, thing, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pistoletas Browning HP (Hi-Power)\" parinktas kaip owner_note_path. Targetas \"Pistoletas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-42533
 
@@ -81,14 +68,6 @@ Nenurodyta
 - t-002
   global_id: t-193745
   teiginys: "Pistoletas Browning HP buvo priimtas į ikikarinės Lietuvos kariuomenės ginkluotę."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "915986-916246; hash=9448ec48cb95ec9219e0d08c659956cedb5ab8d7a8e395d2620d598a35221b08; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-176409
 ## Reikšmingi paminėjimai
@@ -107,8 +86,8 @@ Nenurodyta
     buvo labai sėkmingas ir ilgą laiką naudotas
     daugelyje pasaulio šalių ginkluotose pajėgose.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -131,8 +110,8 @@ Nenurodyta
 
     1945-1951 m.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

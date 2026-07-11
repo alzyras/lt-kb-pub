@@ -61,19 +61,6 @@ Nenurodyta
 - t-002
   global_id: t-87175
   teiginys: "Pasakojime Germantas Šventaragio slėnį paskyrė savo tėvo Šventaragio ir savo įpėdinių kapavietėms."
-  temporaliniai_duomenys: "įvykio data: 1268 m.; įvykio data: apie 1268 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
-  temporalinis_llm_pakomentavimas: "Citata pateikia legendinį pasakojimą; teiginys sutrumpintas ir išvalytas nuo fragmentų."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "61799-62501; hash=a3b30e9ad7bf8408473e29e8e979a87f4b2b6ca7d2025353a1687b3ac93c9aa7; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Šventaragis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mirusiųjų kūnų deginimas Šventaragio slėnyje: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Šventaragis: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mirusiųjų kūnų deginimas Šventaragio slėnyje\" parinktas kaip owner_note_path. Targetas \"Šventaragis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-83155
 
@@ -81,16 +68,6 @@ Nenurodyta
 - t-001
   global_id: t-87176
   teiginys: "Šventaragio slėnyje pagal lietuvių pagonių papročius degindavo mirusiųjų kūnus, tarp jų ir Lietuvos kunigaikščių palaikus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "60979-61613; hash=7bd906a6a7e4bfae5644bcce76bb0a62e469482b4b8e26b078fbad01b7e7cb03; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mirusiųjų kūnų deginimas Šventaragio slėnyje: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=26"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mirusiųjų kūnų deginimas Šventaragio slėnyje\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-83154
 ## Reikšmingi paminėjimai
@@ -114,8 +91,8 @@ Nenurodyta
     upės, ant kalvos, kur dabar yra Kū­
     dikėlio Jėzaus ligoninė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -147,8 +124,8 @@ Nenurodyta
     tuvoje, tai vienas svarbiausių jau nykstančio tame krašte te­
     okratinio valdymo centrų tikrai galėjo būti8.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

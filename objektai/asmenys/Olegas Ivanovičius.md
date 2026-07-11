@@ -30,12 +30,6 @@ media_all_json: |-
 - t-001
   global_id: t-194120
   teiginys: "Šeši tūkstančiai devyni šimtai devintaisiais metais kunigaikštis Jurijus Svetoslavovičius bei Riazanės ku nigaikštis Olegas su kariuomenėmis atėjo prie Smo lensko3 7 ."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "173778-174720; hash=117a4055b60a019f376103eef5b4472bcf9091073156279c693d1a9b24f24034; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176733
 ## Reikšmingi paminėjimai
@@ -62,8 +56,8 @@ media_all_json: |-
     nigaikštis Olegas su kariuomenėmis atėjo prie Smo­
     lensko3 7 . Tuo metu buvo kilęs maištas ir nesantaika.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

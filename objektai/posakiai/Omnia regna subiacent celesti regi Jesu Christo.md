@@ -41,19 +41,6 @@ media_all_json: |-
 - t-001
   global_id: t-86869
   teiginys: "1323 m. laiške vartota formulė, kad visos karalystės paklūsta dangiškajam karaliui Jėzui Kristui."
-  temporaliniai_duomenys: "įvykio data: 1323 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nusako posakio vartojimą ir yra paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "215260-216635; hash=ed4012187119768e072fd21bc8f75d121ba15c023ffa537bc9110d5c7ba7c5e5; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vaškas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Omnia regna subiacent celesti regi Jesu Christo: owner_note_path, thing"
-  ryšio_targeto_parinkimas: "Vaškas: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Omnia regna subiacent celesti regi Jesu Christo\" parinktas kaip owner_note_path. Targetas \"Vaškas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-82848
 ## Reikšmingi paminėjimai
@@ -91,8 +78,8 @@ media_all_json: |-
     [viešpats tegu pabaigia, ką pradėjęs]), juolab kad nežinomai
     nė menkiausios tų permainų priežasties.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

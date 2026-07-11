@@ -32,17 +32,6 @@ Dalis maršalkos Zaberezinskio karių išsiveržė į priekį, bet totoriai juos
 - t-001
   global_id: t-40543
   teiginys: "Dalis maršalkos Zaberezinskio karių išsiveržė į priekį, bet totoriai juos atmušė."
-  semantiniai_rysiai: "Totoriai puolė Zaberezinskis (0.74)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "316928-317178; hash=dfb201cddc4185849340926630380a24bb2c6c1139622b3bec96400e3b7e0457; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Zaberezinskis: 0.74"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Totoriai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Zaberezinskis: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Totoriai tiesiogiai atmušė į priekį išsiveržusius Zaberezinskio karius; objektas siejamas su jų vadu."
   pagrindžia:
     - c-44579
 - susijęs iš [[objektai/grupes/Lietuvos luomai.md#claim-t-185433|Lietuvos luomai]]: Lietuvos luomų vardu į Piotrkovo seimą balsuoti buvo pasiųsti Vaitiekus Taboras, Jonas Zaberezinskis ir Mikalojus Radvila.
@@ -68,8 +57,8 @@ Dalis maršalkos Zaberezinskio karių išsiveržė į priekį, bet totoriai juos
 
     Kablinis šautuvas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -97,7 +86,3 @@ Dalis maršalkos Zaberezinskio karių išsiveržė į priekį, bet totoriai juos
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40543
-
-## Ryšiai
-- Priešai: [[objektai/asmenys/Aleksandras Jogailaitis]]
-- Puolė Zaberezinskį: [[objektai/grupes/Totoriai]]

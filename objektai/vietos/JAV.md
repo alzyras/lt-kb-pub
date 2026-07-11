@@ -45,22 +45,6 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
 - t-004
   global_id: t-109254
   teiginys: "1948 m. viduryje JAV Kongresas priėmė Perkeltųjų asmenų įstatymą, numačiusį įsileisti 205 tūkst. dipukų."
-  semantiniai_rysiai: "JAV Kongresas priklausė JAV (0.84)"
-  temporaliniai_duomenys: "įvykio data: 1948 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata leidžia suformuluoti konkretesnį faktą apie JAV sprendimą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "460933-461317; hash=0225b7fdd84af004613cdb0d446aa5eedb3b0af622cea1e165ff50b73d35d667; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> JAV: 0.84"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "JAV Kongresas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "JAV: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Institucijos pavadinimas tiesiogiai sieja Kongresą su JAV."
-  vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-101300
 
@@ -68,17 +52,6 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
 - t-009
   global_id: t-109255
   teiginys: "Per trejus–ketverius metus į JAV atvyko apie 30 tūkst. norėjusių lietuvių tremtinių ir pabėgėlių."
-  semantiniai_rysiai: "Lietuviai keliavo į JAV (0.78)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "461259-461507; hash=9705a1cb7cc327e358f9e72dc14ee328826502d28689d6b75f46a9fa59cd49d2; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> JAV: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "JAV: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai mini lietuvių tremtinių ir pabėgėlių atvykimą į JAV, nors kandidatas apibendrina juos kaip lietuvius."
   pagrindžia:
     - c-101297
 
@@ -86,21 +59,6 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
 - t-006
   global_id: t-109256
   teiginys: "JAV buvo viena iš šalių, nepripažinusių Lietuvos prievartinio įjungimo į SSRS sudėtį."
-  temporaliniai_duomenys: "įvykio data: iki 1967 m.; įvykio data: iki 1977 m.; įvykio data: 1944 m.; įvykio data: 1967 m.; įvykio data: 1977 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinys labiau kalba apie Lietuvos diplomatinę tarnybą, todėl faktas susietas tiesiogiai su JAV."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "461827-462369; hash=9a91af1e31115a228bcef4cadf1ab1c096ed7ab2c4d5bd03e6226b2b18ecc41f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "JAV: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=40"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"JAV\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-101298
 
@@ -108,20 +66,6 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
 - t-008
   global_id: t-109257
   teiginys: "1948 m. viduryje JAV Kongresas priėmė Perkeltųjų asmenų įstatymą, numatantį įsileisti 205 tūkst. dipukų."
-  semantiniai_rysiai: "JAV Kongresas priklausė JAV (0.84)"
-  temporaliniai_duomenys: "įvykio data: 1948 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra konkretus, gramatiškas ir paremtas citata."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "460933-461317; hash=0225b7fdd84af004613cdb0d446aa5eedb3b0af622cea1e165ff50b73d35d667; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> JAV: 0.84"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "JAV Kongresas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "JAV: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Pavadinimas tiesiogiai rodo Kongreso institucinį ryšį su JAV."
   pagrindžia:
     - c-101300
 
@@ -129,19 +73,6 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
 - t-001
   global_id: t-109258
   teiginys: "1937 m. Lietuvos krepšininkams padėjo JAV lietuvių treneriai ir keli žaidėjai."
-  temporaliniai_duomenys: "įvykio data: 1934 m.; įvykio data: 1937 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata nutrūksta prieš rezultatą, todėl galima pagrįsti tik JAV lietuvių pagalbą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "352396-352832; hash=75db22e7d17a2682ecc43cf1602b83fcdb0df0ee9dd53f88358a07eadc5f5a01; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Europa: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "JAV: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Europa: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"JAV\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-101303
 
@@ -149,19 +80,6 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
 - t-002
   global_id: t-109259
   teiginys: "JAV įvestos imigracijos kvotos skatino neprasigyvenusius smulkius mažažemius valstiečius emigruoti daugiausia į Pietų Amerikos šalis."
-  temporaliniai_duomenys: "įvykio data: 1938 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Perrašyta taip, kad teiginys tiesiogiai sietųsi su JAV ir būtų sklandesnis."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "353335-353697; hash=8bfb4ff6685775ca1a38123cb617bb3dc19db4d9aa9bf2da46a1911ba17f13ba; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kaunas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "JAV: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kaunas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"JAV\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-101299
 
@@ -169,19 +87,6 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
 - t-007
   global_id: t-109260
   teiginys: "JAV veikė didžiausia lietuvių išeivijos dalis ir svarbiausios organizacijos: ALT, PLB bei iš Europos persikėlęs VLIK."
-  temporaliniai_duomenys: "įvykio data: 1940 m.; įvykio data: 1951 m.; įvykio data: 1991 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai nusako JAV veikusias lietuvių išeivijos organizacijas."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "463916-464416; hash=b42291cc9333ab7dc86b08d44129b1605b5437afd188296d59e9fdcb1ddc60c0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Amerikos lietuvių taryba (institucija): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "JAV: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Amerikos lietuvių taryba (institucija): mention_match, group, gap=21"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"JAV\" parinktas kaip owner_note_path. Targetas \"Amerikos lietuvių taryba (institucija)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-101302
 
@@ -189,19 +94,6 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
 - t-001
   global_id: t-109258
   teiginys: "1937 m. Lietuvos krepšininkams padėjo JAV lietuvių treneriai ir keli žaidėjai."
-  temporaliniai_duomenys: "įvykio data: 1934 m.; įvykio data: 1937 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata nutrūksta prieš rezultatą, todėl galima pagrįsti tik JAV lietuvių pagalbą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "352396-352832; hash=75db22e7d17a2682ecc43cf1602b83fcdb0df0ee9dd53f88358a07eadc5f5a01; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Europa: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "JAV: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Europa: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"JAV\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-101303
 ## Reikšmingi paminėjimai
@@ -215,8 +107,8 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
     visiems norintiems lietuvių tremtiniams ir pabėgėliams (tokių buvo apie
     30 tūkst.), kiti pasuko į Didžiąją Britaniją, Kanadą, Australiją.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -235,8 +127,8 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
     Kolumbijoje, Urugvajuje (iki 1977 m.), Didžiojoje Britanijoje, Prancūzijoje,
     Šveicarijoje, Vatikane.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -253,8 +145,8 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
     venę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugiausia į
     Pietų Amerikos šalis, nes JAV įvedė imigracijos kvotas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -272,8 +164,8 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
     205 tūkst. dipukų (tarp jų – 40 proc. Baltijos valstybių ir Lenkijos pa-
     bėgėlių bei tremtinių).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -293,8 +185,8 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
     lio lietuvių bendruomenė (PLB) (1951 m.) ir iš Europos persikėlęs Vy-
     riausiasis Lietuvos išlaisvinimo komitetas (VLIK).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -311,8 +203,8 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
     Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV lie-
     tuvių trenerių ir kelių žaidėjų padedami Lietuvos krepšininkai 1937 m.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -440,7 +332,3 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
     - t-109258
     - t-183596
     - t-011
-
-## Ryšiai
-- Buvo kelionės vieta: [[objektai/grupes/Lietuviai]]
-- Turėjo priklausinį: [[objektai/grupes/JAV Kongresas]]

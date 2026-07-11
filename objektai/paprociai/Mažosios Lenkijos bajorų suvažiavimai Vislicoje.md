@@ -45,12 +45,6 @@ Nenurodyta
 - t-001
   global_id: t-194080
   teiginys: "’ Opatovas — Lenkijos Kielcų vaivadijos miestas (apie 30 km j vakarus nuo Zavichosto ir Vislos, 130 km su viršum | šiaurės rytus nuo Krokuvos)."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "430181-430515; hash=605b14a193243223973b0723033a660dc589786c6d6157925318a5f73e5e86e5; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176693
 ## Reikšmingi paminėjimai
@@ -70,8 +64,8 @@ Nenurodyta
     j šiaurės rytus nuo Krokuvos!; viduramžiais buvo viena iš Mažo­
     sios Lenkijos bajorų suvažiavimų vielų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

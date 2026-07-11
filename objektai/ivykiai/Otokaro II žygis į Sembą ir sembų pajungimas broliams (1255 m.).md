@@ -58,20 +58,6 @@ Nenurodyta
 - t-001
   global_id: t-66805
   teiginys: "Čekijos karalius Otokaras II ir kryžiuočiai 1255 m. dalyvavo puolime prieš Sembą."
-  semantiniai_rysiai: "Otokaras II dalyvavo mūšyje Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.) (0.90); Kryžiuočių ordinas dalyvavo mūšyje Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.) (0.90); Otokaras II puolė Semba (0.86); Kryžiuočių ordinas puolė Semba (0.86)"
-  temporaliniai_duomenys: "valdymo laikotarpis: 1255 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Otokaras II buvo valdovas Čekija“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata patvirtina žygį į Sembą, bet pradinė formuluotė turi netikslią atribuciją ir bibliografinį triukšmą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "172864-173293; hash=260a76c0cf196eba93dcd227cec047fe0f94932613282c0ded863f5b7d38e5a9; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "dalyvavo_musyje -> Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.): 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.): llm_allowed_candidate, event"
-  ryšio_paaiskinimas: "Kryžiuočiai tiesiogiai paminėti kaip puolimo dalyviai."
   pagrindžia:
     - c-66936
 
@@ -79,16 +65,6 @@ Nenurodyta
 - t-002
   global_id: t-66806
   teiginys: "Otokaras II, Otonas Brandenburgietis, vyskupai ir kiti kilmingieji dalyvavo žygyje sembams pavergti."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "343014-343685; hash=e006847e5d0cfa349b4736498f579c2b1e0b49deffd4dd100aad1485edd494de; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Sembai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Sembai: mention_match, group, gap=83"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.)\" parinktas kaip owner_note_path. Targetas \"Sembai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-66937
 
@@ -96,16 +72,6 @@ Nenurodyta
 - t-004
   global_id: t-66807
   teiginys: "Čekijos karalius su kariuomene įsiveržė į Sembą prie Medenavos, degino vietovę, ėmė žmones į nelaisvę ir juos žudė."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "346112-348699; hash=666a87226860c0126b80d91f8c0d9dadfe1541d2b57a7de690848ebd9b2650bc; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Medenava: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Medenava: mention_match, place, gap=22"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.)\" parinktas kaip owner_note_path. Targetas \"Medenava\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-66935
 
@@ -113,16 +79,6 @@ Nenurodyta
 - t-005
   global_id: t-66808
   teiginys: "Čekijos karalius perdavė broliams įkaitus ir patarė ant kalvos, kur vėliau stovėjo Karaliaučiaus pilis, pastatyti pilį tikėjimui ginti."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "348700-349105; hash=e901adb725ebc44434a4b961ccf27fec1540659b75181e37a20f5fec2f7e29f0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Čekija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Čekija: mention_match, place, gap=25"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.)\" parinktas kaip owner_note_path. Targetas \"Čekija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-66932
 
@@ -130,16 +86,6 @@ Nenurodyta
 - t-003
   global_id: t-66809
   teiginys: "Po kariuomenės susitaikymo Čekijos karalius nuvedė ją iki Baigos pilies, kur broliai surado Sembos karių galią žinojusį Gedūną."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "344200-345118; hash=9c974b2ddcaee997854033ec1e54c091f66e964e560f234f70080b27edda5d37; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Semba: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Semba: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.)\" parinktas kaip owner_note_path. Targetas \"Semba\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-66933
 ## Reikšmingi paminėjimai
@@ -161,8 +107,8 @@ Nenurodyta
 
               72 (71).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -184,8 +130,8 @@ Nenurodyta
     vardu Gedūnas, Visigaudo iš Medenavos321 tėvą, kilusį iš tos jų šakos, kuri vadinama
     Kandeimu, gerai žinojusį visą Sembos karių galią.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -230,8 +176,8 @@ Nenurodyta
     kai kurie, bijodami, kad ir čia jis nepridarytų panašių skerdynių kaip kitur, atidavė jam
     įkaitais savo sūnus, galvomis prisiekdami nuolankiai paklusti tikėjimui ir broliams.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -248,8 +194,8 @@ Nenurodyta
     aquilonem — Colker M. L. America..., p. 721; Samalavičius S., Abramauskas S. Naujas...,
     p. 63).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -270,8 +216,8 @@ Nenurodyta
     Austrijos, Reino krašto [de... Reno] ir kitų Vokietijos žemių; jie visi degte degė troškimu
     atkeršyti už nukryžiuotojo viešpaties kančias.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -282,7 +228,8 @@ Nenurodyta
 - id: c-66932
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 106"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 106."
   citata_originali: |
     Viską
     tinkamai sutvarkęs, karalius perdavė broliams minėtuosius įkaitus, o pats nužygiavo
@@ -306,7 +253,8 @@ Nenurodyta
 - id: c-66933
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 105"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 105."
   citata_originali: |
     priskaičiuotum daugiau kaip 60 tūkstančių karių; kiek buvo vežimų ir ketverinių ratų,
     gabenusių ginklus ir maistą, nesu girdėjęs. Žiemą ši kariuomenė atžygiavo  į Elbingą,
@@ -330,7 +278,8 @@ Nenurodyta
 - id: c-66935
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 105-106"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 105-106."
   citata_originali: |
     Tada karalius įsibrovė  į Sembą su savo kariuomene netoli valsčiaus, kuris vadinamas
     Medenava,  ir, išdeginęs visa, ką ugnis įstengė sunaikinti, daugybę žmonių paėmęs  į
@@ -376,7 +325,8 @@ Nenurodyta
 - id: c-66936
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 54"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 54."
   citata_originali: |
     XIII a. 1-oje pusėje atskirai nuo Prūsijos minima Semba (Samblandia, PUB, 1, 1,
     Nr. 52, p. 38 ir kt.). Dublino kodekse išlikusio „Pasaulio aprašymo pradžios” autorius,
@@ -394,7 +344,8 @@ Nenurodyta
 - id: c-66937
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 104"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 104."
   citata_originali: |
     Apie sembų pavergimą
 

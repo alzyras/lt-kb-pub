@@ -38,23 +38,6 @@ media_all_json: |-
 - t-001
   global_id: t-186107
   teiginys: "1339 m. Prūsijos magistras Ditrichas fon Altenburgas su vokiečių kariuomene įsiveržė į Lietuvą ir puolė Veliuoną."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Ditrichas fon Altenburgas puolė Veliuona (0.93)"
-  temporaliniai_duomenys: "įvykio data: 1339 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškus, gramatiškas ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "396806-397426; hash=0a33e8ffe19208a1587a5282520e157066c87059a0b3ee138aa6c7f75e0f41da; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Veliuona: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Ditrichas fon Altenburgas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Veliuona: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo, kad Ditrichas fon Altenburgas su kariuomene puolė Veliuoną."
   pagrindžia:
     - c-169468
 ## Reikšmingi paminėjimai
@@ -86,8 +69,8 @@ media_all_json: |-
     kunigaikščiai, įsiveržė į Lietuvą. Pirmiausia įnirtingai
     ėmė pulti Veliuoną, prie Nemuno stovinčią pilį.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

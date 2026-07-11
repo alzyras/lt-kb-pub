@@ -45,12 +45,6 @@ Prochaska: Dzieje Witolda, 1914, 306-308 p. (^26) Žr.
 - t-001
   global_id: t-31599
   teiginys: "A. Prochaskos „Dzieje Witolda“ cituojamas 1914 m. leidimo 306-308 puslapiais."
-  temporaliniai_duomenys: "įvykio data: 1914 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko tik bibliografinę nuorodą į leidimą ir puslapius."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1006134-1006354; hash=0651aaf1d6527f277085c5fbf8c31848d29dd344a88f5804a31d8eda4aab8a31; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-33514
 ## Reikšmingi paminėjimai
@@ -64,8 +58,8 @@ Prochaska: Dzieje Witolda, 1914, 306-308 p. (^26) Žr.
     **1914, 306-308 p.**
     (^26) **Žr. aukščiau 361 p.**
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

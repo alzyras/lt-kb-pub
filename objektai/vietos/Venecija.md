@@ -39,17 +39,6 @@ Dusburgietis teigia, kad jam atsisakius šios pareigybės, netrukus ten pat buvo
 - t-001
   global_id: t-58747
   teiginys: "Venecija minima kaip vyriausioji Ordino būstinė, į kurią iškeliavo didysis magistras Zigfridas iš Foichtvangeno."
-  semantiniai_rysiai: "Zigfridas iš Foichtvangeno keliavo į Venecija (0.98)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "610160-610804; hash=2f784e84aa1ebade4391331fe098ab931a3f4b53575f4cd3b86ff3ab27ec31b0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Venecija: 0.98"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Zigfridas iš Foichtvangeno: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Venecija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Zigfridas iš Foichtvangeno iškeliavo į Veneciją."
   pagrindžia:
     - c-167599
 
@@ -57,17 +46,6 @@ Dusburgietis teigia, kad jam atsisakius šios pareigybės, netrukus ten pat buvo
 - t-001
   global_id: t-58747
   teiginys: "Venecija minima kaip vyriausioji Ordino būstinė, į kurią iškeliavo didysis magistras Zigfridas iš Foichtvangeno."
-  semantiniai_rysiai: "Zigfridas iš Foichtvangeno keliavo į Venecija (0.98)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "610160-610804; hash=2f784e84aa1ebade4391331fe098ab931a3f4b53575f4cd3b86ff3ab27ec31b0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Venecija: 0.98"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Zigfridas iš Foichtvangeno: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Venecija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Zigfridas iš Foichtvangeno iškeliavo į Veneciją."
   pagrindžia:
     - c-167599
 - susijęs iš [[objektai/asmenys/Zigfridas iš Foichtvangeno.md#claim-t-90250|Zigfridas iš Foichtvangeno]]: Po Gotfrido atsistatydinimo Zigfridas iš Foichtvangeno buvo išrinktas didžiuoju magistru ir iškeliavo į Ordino būstinę Venecijoje.
@@ -115,8 +93,8 @@ Dusburgietis teigia, kad jam atsisakius šios pareigybės, netrukus ten pat buvo
 
     284 (277).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -128,7 +106,8 @@ Dusburgietis teigia, kad jam atsisakius šios pareigybės, netrukus ten pat buvo
 - id: c-167599
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 195-196"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 195-196."
   citata_originali: |
     Apie brolio Gotfrido, didžiojo magistro, atvykimą,  apie tai, kaip jis atsisa­
              kė savo pareigų, o buvo išrinktas brolis Zigfridas iš Foichtvangeno

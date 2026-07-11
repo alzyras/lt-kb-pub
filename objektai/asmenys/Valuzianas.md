@@ -30,22 +30,6 @@ Narbutas rašė, kad apie 253 metus finų, galindų ir venedų būriai kariavo s
 - t-001
   global_id: t-191482
   teiginys: "Narbutas rašė, kad apie 253 metus finų, galindų ir venedų būriai kariavo su imperatoriumi Valuzianu, vėliau šlovintu kaip jų nugalėtoju."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Valuzianas kariavo prieš Sarmatai (0.88)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "536706-537311; hash=064dbc706ee031e044cc2a8f5661766d171e5df49b531d01b221a37761213a5c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Sarmatai: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Valuzianas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Sarmatai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai mini Valuziano karą su sarmatais."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174364
 - susijęs iš [[objektai/daiktai/Auksiniai ir sidabriniai medaliai.md#claim-t-193009|Auksiniai ir sidabriniai medaliai]]: Narbutas auksinius ir sidabrinius medalius mini kaip įrodymus apie imperatoriaus Valuziano kovą su finais, galindais ir venedais.
@@ -74,8 +58,8 @@ Narbutas rašė, kad apie 253 metus finų, galindų ir venedų būriai kariavo s
     ją. Šito įrodymų aptikta ant atrastų auksinių ir sidabri­
     nių medalių1.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -86,7 +70,8 @@ Narbutas rašė, kad apie 253 metus finų, galindų ir venedų būriai kariavo s
 - id: c-174364
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 299"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 299."
   citata_originali: |
     Lietuviai, gyvenę toliau nuo jūros, dalyva­
     vo įvairiuose sarmatų maištuose, būdavo įtraukiami į
@@ -111,7 +96,3 @@ Narbutas rašė, kad apie 253 metus finų, galindų ir venedų būriai kariavo s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191482
-
-## Ryšiai
-- Kariavo prieš: [[objektai/grupes/Galindai]], [[objektai/grupes/Venedai]]
-- Valuzianas kariavo prieš [[objektai/grupes/Sarmatai]]

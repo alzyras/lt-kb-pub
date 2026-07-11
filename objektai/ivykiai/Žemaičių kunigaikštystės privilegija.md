@@ -47,16 +47,6 @@ Nenurodyta
 - t-001
   global_id: t-01901
   teiginys: "Po Zigmanto mirties kilusių kovų metu žemaičiai iš Kazimiero išgavo privilegiją, laidavusią jų teises ir savitą vidaus tvarkymąsi."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "374697-374974; hash=ead179bc8c3cc58b8c5fa97b9ea106d83978ea6c5a3883db99278e18b7c60c9f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Zigmantas (Romos imperatorius): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žemaičių kunigaikštystės privilegija (privilegija): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Zigmantas (Romos imperatorius): mention_match, person, gap=65"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaičių kunigaikštystės privilegija (privilegija)\" parinktas kaip owner_note_path. Targetas \"Zigmantas (Romos imperatorius)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-02140
 
@@ -64,16 +54,6 @@ Nenurodyta
 - t-002
   global_id: t-01902
   teiginys: "Žemaičių kunigaikštystės privilegija patvirtino Vytauto laikų žemaičių teises ir garantavo, kad krašto seniūną jie rinksis patys."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "375984-376430; hash=227d05cb08df9296688fa6916c3713e23acab373c73345dab63b4adee4c04774; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> didysis kunigaikštis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žemaičių kunigaikštystės privilegija (privilegija): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "didysis kunigaikštis: mention_match, thing, gap=9"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaičių kunigaikštystės privilegija (privilegija)\" parinktas kaip owner_note_path. Targetas \"didysis kunigaikštis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-02139
 - susijęs iš [[objektai/asmenys/Kazimieras Jogailaitis.md#claim-t-82505|Kazimieras Jogailaitis]]: Kazimiero karaliavimas Lenkijoje ir jo santykiai su.
@@ -91,8 +71,8 @@ Nenurodyta
     laisvai medžioti ir žūklauti ten pat, kur ir anksčiau medžiodavo
     ir žūklaudavo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -107,8 +87,8 @@ Nenurodyta
     iš Kazimiero privilegiją, kuri apdraudė visas jų teises ir visiems
     laikams laidavo jiems savotišką vidaus tvarkymąsi.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

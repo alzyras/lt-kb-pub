@@ -38,25 +38,6 @@ media_all_json: |-
 - t-001
   global_id: t-191378
   teiginys: "1223 m. Bojaduras su Cipnovianu vadovavo Čingischano pasiųstam būriui į vakarinę Kaspijos pakrantę užimti Samachos ir Derbento."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Čingischanas siuntė į Kaspija (0.89); Bojaduras surengė žygį į Kaspija (0.74); Cipnovianas surengė žygį į Kaspija (0.74)"
-  temporaliniai_duomenys: "įvykio data: 1223 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Čingischanas siuntė į Kaspija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Bojaduras surengė žygį į Kaspija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Cipnovianas surengė žygį į Kaspija“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nusako Bojaduro vaidmenį, datą, bendrą vadą ir žygio tikslą. Atsisakyta vėlesnio epizodo apie palydovus, nes jis nėra būtinas teiginiui apie Bojadurą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "195501-195982; hash=5c4492fe1202d3876842f80efc5a4d47cd877428b836e13e96a2a1195012db2e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "siunte_i -> Kaspija: 0.89"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Čingischanas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kaspija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Čingischano pasiųstą būrį į Kaspijos pakrantę."
-  vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174260
 - susijęs iš [[objektai/asmenys/Cipnovianas.md#claim-t-191383|Cipnovianas]]: 1223 m. Cipnovianas su Bojaduru vadovavo Čingischano kariuomenės būriui, pasiųstam užimti Samachos ir Derbento.
@@ -78,8 +59,8 @@ media_all_json: |-
     lydovai, kuriais jie pernelyg pasikliovė, įvedė juos į siau­
     1 Stender Gotthard Friedrich.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -90,7 +71,8 @@ media_all_json: |-
 - id: c-174260
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 109"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 109."
   citata_originali: |
     104
     Galop dabar privalome pridurti dar vieną istorinę pa­
@@ -108,6 +90,3 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191378
-
-## Ryšiai
-- Bojaduras surengė žygį į [[objektai/vietos/Kaspija]]

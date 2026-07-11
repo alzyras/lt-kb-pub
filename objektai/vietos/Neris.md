@@ -49,12 +49,6 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
 - t-005
   global_id: t-195103
   teiginys: "Neris buvo siejama su žodžiu „Panerta“, nes žiūrint nuo aukštų kalnų atrodė tarsi panirusi."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Citata palaiko etimologinį aiškinimą, o pradinė formuluotė pažeista OCR."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vygandas|Vygandas]]; mentioned_place: Lietuva"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "57766-58260; hash=7a013baee13198180e75cea425ef1f5072c180cc4bdeb57ffc41825a646f4f16; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177498
 
@@ -62,12 +56,6 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
 - t-027
   global_id: t-195104
   teiginys: "Vilnius buvo įsikūręs dviejų upių, Vilijos arba Neries ir Vilnios, santakoje."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys išvalytas nuo įterpto OCR triukšmo ir paliktas tik citatos pagrįstas faktas."
-  susije_objektai: "mentioned_place: Vilija; mentioned_place: Islandija; mentioned_place: Lietuva; mentioned_place: Vilnius"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "54672-55275; hash=8ad4f3e86b1f5dc18fe1413205dd73ffe53df83209bc5457ec82605f9cd7a526; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177483
     - c-177487
@@ -78,12 +66,6 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
 - t-001
   global_id: t-195105
   teiginys: "Prūsijos dokumentuose Neris XIII a. buvo vadinama Neria."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys yra pilnas ir tiesiogiai paremtas citata apie Neries vardą dokumentuose."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Prūsija"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "59200-59515; hash=07f6cf1ec8889a87d92f4060cdb1c8e9f42fd6d2cb64c581770b524d8da77729; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177505
 
@@ -91,15 +73,6 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
 - t-017
   global_id: t-195106
   teiginys: "1390 m. Vladislovo Jogailos privilegijoje, kuria Vilniaus kapitulai dovanoti Paneriai, Vilija pavadinta Vigilia."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys aiškiai perteikia citatoje nurodytą Vilijos vardo formą privilegijoje."
-  susije_objektai: "mentioned_place: Vilija; mentioned_place: Vilnius"
-  temporaliniai_duomenys: "įvykio data: 1390 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai perteikia citatoje nurodytą Vilijos vardo formą privilegijoje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "59082-59416; hash=4ced0defc9f97388a756d78735c5d178a934461846b9668dbd499c603a9c73a0; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177493
 
@@ -107,12 +80,6 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
 - t-008
   global_id: t-195107
   teiginys: "Taip pat kunigas Sirvydas savo žodyne Vilijos upę, lotyniškai Vilia, lietuviškai vadina Nerimi (Neris)."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "262029-262329; hash=0fa4ba028cdf1056e686ebe4896775abbad993f4f41d3ad3a3c291ae477fc8a2; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177489
 
@@ -120,21 +87,6 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
 - t-007
   global_id: t-195108
   teiginys: "Narbutas cituoja apostrofą Vilijos upei, kurioje Neris prašoma pranešti dievams lyrinio kalbėtojo kančias ir sielvartą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Lenkiškas citatos fragmentas perrašytas lietuvišku sakiniu apie Nerį. Mitologinis kreipimasis paliktas kaip Narbuto cituojamas poetinis vaizdinys."
-  susije_objektai: "mentioned_place: Vilija; mentioned_place: Vilnius"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "259646-260233; hash=c174925d3f7696ece8ef599ae97b50c376d89c912cabe95be0c64fa958ce852a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Neris: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Vilija: mention_match, place, gap=22"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Neris\" parinktas kaip owner_note_path. Targetas \"Vilija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-177503
 
@@ -142,14 +94,6 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
 - t-006
   global_id: t-195109
   teiginys: "Kronikininkai Vygandas ir Lindenblattas Nerį vadino vardais Nerga, Nerge, Nerye ir Neria."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Citata leidžia suformuluoti konkretų ir aiškų faktą apie Neries vardus."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vygandas|Vygandas]]; mentioned_place: Lietuva"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "57766-58260; hash=7a013baee13198180e75cea425ef1f5072c180cc4bdeb57ffc41825a646f4f16; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177498
 
@@ -157,15 +101,6 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
 - t-024
   global_id: t-195110
   teiginys: "Totorių vartų pavadinimas siejamas su vieta, kur slėnyje į Viliją įtekėjo Vingrių šaltinis."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Iš fragmento padarytas aiškus sakinys, išlaikant citatos ribas."
-  susije_objektai: "mentioned_place: Vilija; mentioned_place: Vingrių šaltinis; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Lietuva"
-  temporaliniai_duomenys: "įvykio data: 1398 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Iš fragmento padarytas aiškus sakinys, išlaikant citatos ribas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "232817-233377; hash=bfe98eeaea6cffd3087f6fa909bd58a38ebccf49db9dd6c91884e593ba8f813a; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177502
 
@@ -173,12 +108,6 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
 - t-013
   global_id: t-195111
   teiginys: "Kryžiuočių archyve esančiame sename Lietuvos kelių aprašyme minima Nerige yra dabartinė Vilija."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys yra pilnas ir atitinka citatoje pateiktą tapatinimą."
-  susije_objektai: "mentioned_place: Vilija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vygandas|Vygandas]]; mentioned_place: Lietuva"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "57766-58260; hash=7a013baee13198180e75cea425ef1f5072c180cc4bdeb57ffc41825a646f4f16; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177498
     - c-177492
@@ -187,12 +116,6 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
 - t-028
   global_id: t-195112
   teiginys: "Vilniaus pirklių vytinėms buvo leista laisvai plaukioti Vilijos upe."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys glaustai perteikia citatoje minimą leidimą vytinėms plaukioti Vilija."
-  susije_objektai: "mentioned_place: Vilija; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Vaškas|Vaškas]]; mentioned_person: [[objektai/asmenys/Jonas Markovičius|Jonas Markovičius]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Bobruiskas; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Rudamina; mentioned_place: Smolenskas; mentioned_place: Vilnius"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "535999-536685; hash=53c610aa54afe9a054bc6290d3aa246508bdb707c8709731cfa44d29232d4940; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177494
     - c-177484
@@ -202,12 +125,6 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
 - t-023
   global_id: t-195113
   teiginys: "Latopisiec Litewski nurodo, kad mūšis vyko prie Vilijos upės, ties Horodoku, vietovėje, vadinamoje Weyiszczuszki."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys tinkamai priskiria mūšio vietos informaciją Latopisiec Litewski pasakojimui."
-  susije_objektai: "mentioned_place: Vilija; mentioned_place: Prūsų žemė"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "265692-265999; hash=61dc9a950ade1aacc9a452620d44aab7ebb4bf23997ee6b4aff15fe6d2ba40e3; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177506
 
@@ -215,12 +132,6 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
 - t-021
   global_id: t-195114
   teiginys: "Baliński teigė, kad Vilniaus vardas kilo nuo į Viliją įtekančios Vilnios, todėl pirmykštė gyvenvietė turėjo būti prie Vilnios."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Originalas per ilgas ir nebaigtas; tai autoriaus aiškinimas."
-  susije_objektai: "mentioned_place: Vilija; mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_place: Vilnius"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "133109-134071; hash=2ae595d202bd67fb598d574ca7a66bec2163a88f2b6f4a5417c674e7d41e6a07; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177488
 
@@ -228,18 +139,6 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
 - t-003
   global_id: t-195115
   teiginys: "Neris anksčiau vadinta ir Panerta, nes, žiūrint nuo aukštų kalnų, atrodė tarsi panirusi."
-  teiginio_tipas: "faktas"
-  susije_objektai: "mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vygandas|Vygandas]]; mentioned_place: Lietuva"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "57766-58260; hash=7a013baee13198180e75cea425ef1f5072c180cc4bdeb57ffc41825a646f4f16; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Neris: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Neris\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-177498
 
@@ -247,12 +146,6 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
 - t-030
   global_id: t-195116
   teiginys: "Iš Žemutinės pilies vakarinių vartų kelias ėjo per Vilnią ir Vingrių upokšnį link kelto per Viliją."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys tiksliai apibendrina kelio kryptį per Vilnią ir Vingrių link Vilijos kelto."
-  susije_objektai: "mentioned_place: Vilija; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Ukmergė"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "234499-235226; hash=d581568e4ba4bcbac1d9ee97f119cc283b7c0291cc68b7021b0e4538d524579e; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177490
     - c-177491
@@ -263,12 +156,6 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
 - t-026
   global_id: t-195117
   teiginys: "Artėjanti žiema grėsė Vilijos upėje stovėjusiems kryžiuočių laivams užkirsti kelią grįžti į Prūsiją."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys yra pilnas ir atitinka citatos informaciją apie laivus Vilijos upėje."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_place: Prūsija; mentioned_place: Vilija; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "277681-278320; hash=4c88f46d6bc2644324e27049e4dc0d4bac2f3109da1ea3d0bff1ee41d27f1c3f; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177504
     - c-177497
@@ -279,12 +166,6 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
 - t-018
   global_id: t-195118
   teiginys: "Žemiau Vilniaus Vilijos pakrantėse gyvenę lietuviai kaimiečiai šią upę vadino Nerimi."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Sutrumpintas ilgas sakinys, išlaikant citatos patvirtintą esmę."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Vilija; mentioned_place: Paneriai; mentioned_place: Trakai; mentioned_place: Vilnius; llm_object: Vilija"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "128628-129938; hash=704d428b54070e2afb0c35dc752261f697ae90bd6e6977fe3be2c3171afc72bb; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177484
 
@@ -292,14 +173,6 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
 - t-009
   global_id: t-195119
   teiginys: "Gedimino pastatydinta mūro tvirtovė stovėjo ant kalno ties vieta, kur Vilnelė įteka į Viliją."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Pašalintos vaizdingos detalės ir paliktas aiškus vietos faktas."
-  susije_objektai: "mentioned_place: Vilija; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Manvydas|Manvydas]]; mentioned_place: Lietuva; mentioned_place: Vilnelė"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "232817-233377; hash=bfe98eeaea6cffd3087f6fa909bd58a38ebccf49db9dd6c91884e593ba8f813a; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-177502
 
@@ -307,12 +180,6 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
 - t-014
   global_id: t-195120
   teiginys: "Perkėlimai plaustais per Viliją buvo uždrausti tarp Verkių kaimo ir Vilniaus kapitulai priklausiusio Panerių kaimo."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Pašalintas nutrūkimas ir palikta tik citatos patvirtinta draudimo esmė."
-  susije_objektai: "mentioned_place: Kaimas; mentioned_place: Paneriai; mentioned_place: Verkiai; mentioned_place: Vilija; mentioned_place: Vilnius; mentioned_place: Kernavė; mentioned_place: Nemenčinė"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "57766-58260; hash=7a013baee13198180e75cea425ef1f5072c180cc4bdeb57ffc41825a646f4f16; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177498
 
@@ -320,12 +187,6 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
 - t-002
   global_id: t-195121
   teiginys: "Per mūšius prie Vilniaus plačiai išsiliejusi Neris ir vandens pilni grioviai trukdė galutinai laimėti."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys yra pilnas faktinis sakinys apie Nerį ir paremtas citata."
-  susije_objektai: "mentioned_place: Bokštai; mentioned_place: Vilnius"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "155291-155518; hash=7e3e1d3f89ff846c58bae3c3e561ac9c23665d2b40bebf768897694fb670d193; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-37594
 
@@ -333,12 +194,6 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
 - t-031
   global_id: t-195122
   teiginys: "Barboros rūmai stovėjo prie Vilijos, tarp sodų, prie pat Žemutinės pilies."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys yra pilnas ir tiesiogiai paremtas citata."
-  susije_objektai: "mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_place: Barboros rūmai Vilniuje; mentioned_place: Trakai; mentioned_place: Vilnius; llm_object: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "547745-548172; hash=bfecbe58114731cfd345ee49dc8810e849ca6ab4e7daff44a425e60127756956; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177500
     - c-177484
@@ -348,12 +203,6 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
 - t-015
   global_id: t-195123
   teiginys: "Vilija galėjo būti vadinama Nerimi arba Neria dėl gilios vagos ir aukštų smėlingų pakrančių."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Šaltinio spėjimas perteiktas atsargiai, nepridedant naujų faktų."
-  susije_objektai: "mentioned_place: Neris; mentioned_place: Vilija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Prūsija"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "59082-59416; hash=4ced0defc9f97388a756d78735c5d178a934461846b9668dbd499c603a9c73a0; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177493
 
@@ -361,12 +210,6 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
 - t-019
   global_id: t-195124
   teiginys: "Kitoje Vilijos pusėje, prie Visevaldės pilies netoli senojo Kauno, buvo įrengta Skirgailos stovykla."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys aiškiai nurodo Skirgailos stovyklos vietą, kaip ir citata."
-  susije_objektai: "mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Vilija; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_object: [[objektai/zodynas/didysis maršalas|didysis maršalas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_place: Livonija"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "232817-233377; hash=bfe98eeaea6cffd3087f6fa909bd58a38ebccf49db9dd6c91884e593ba8f813a; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177502
 
@@ -374,12 +217,6 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
 - t-029
   global_id: t-195125
   teiginys: "Dabartinio Antakalnio užuomazgos buvo trobos, išsidėsčiusios palei Viliją tarp Aukštutinės pilies ir Antakalnio šventyklos."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys yra pilnas ir paremtas citatos duomenimis apie Antakalnio užuomazgas prie Vilijos."
-  susije_objektai: "mentioned_place: Vilija; mentioned_place: Antakalnis"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "57766-58260; hash=7a013baee13198180e75cea425ef1f5072c180cc4bdeb57ffc41825a646f4f16; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177498
     - c-177495
@@ -389,12 +226,6 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
 - t-004
   global_id: t-195126
   teiginys: "Neris arba Neria galėjo būti taip vadinama dėl gilios upės vagos ir aukštų smėlingų pakrančių."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Šaltinio spėjimas perrašytas aiškiai ir atsargiai."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Prūsija"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "59082-59416; hash=4ced0defc9f97388a756d78735c5d178a934461846b9668dbd499c603a9c73a0; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177493
 
@@ -402,12 +233,6 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
 - t-025
   global_id: t-195127
   teiginys: "Baliński spėjo, kad Vilijos vardas lietuviškai galėjo kilti iš „vilioju“ arba „vylius“ ir reikšti Vilioklę."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Etymologinė interpretacija turi būti priskirta autoriui."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Vilija; mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_place: Vilnius"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "56558-56935; hash=5790f280878bcf0927dd18f5bdedca05df5844ccf8f713cb427b3960a0d14bec; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177499
     - c-177485
@@ -450,8 +275,8 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     tų sutvirtinimai buvo išlaužti. Bet plačiai išsiliejusi Neris ir pilni
     grioviai vandens kliudė galutinai laimėti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -471,8 +296,8 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     gą, suformuodama aukštas smėlin­
     gas pakrantes.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -491,8 +316,8 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     lenkiškai jų puikioji upė vadinama
     Wilja.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -517,8 +342,8 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     ją taip pat vadina - Nerga, Nerge, Ne-
     rye ir Neria.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -543,8 +368,8 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     baisybių, su širdies skausmu apdainuotas elegiškomis eilėmis apie jo
     Karališkosios Malonybės Vilniaus miesto dukartinį sudeginimą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -560,8 +385,8 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     mūsų deivių rinkiniui. Taip pat kunigas Sirvydas savo žodyne
     Vilijos upę, lotyniškai Vilia, lietuviškai vadina Nerimi (Neris).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -584,8 +409,8 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     į du, vedė į Kernavę, senąją Lietuvos sostinę, ir į Ukmergės
     pilį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -607,8 +432,8 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     nišus, klajojančius po gūdžias girias
     senovės lietuvius ir jų vaidilas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -630,8 +455,8 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     zijus buvo įpareigotas vėliau, kai jam sugrįš tilto statybos
     išlaidos, prie dominikonų Šv.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -651,8 +476,8 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     kuris jau krikščionybės laikais atsi- tai yra esančiu ant kalno, vadiname],
     rado.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -676,8 +501,8 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     delių pastangų dėka buvo susitarta
     taikytis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -698,8 +523,8 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     Ten visas laisvesnes akimirkas Augustas praleisdavo šalia
     Barboros, kol pagaliau su ja susituokė30.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -721,8 +546,8 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     šiaurės kronikos byloja ne apie vie­
     ną tokį žygį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -753,8 +578,8 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     to girias ir brastas, staiga iš už nugaros puolė nenuovokų
     Skirgailą ir sudavė jam smarkų smūgį26.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -780,8 +605,8 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     S a r n i c k i s Descriptio veteris et no­
     vae Poloniae etc.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -827,8 +652,8 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     karvės, kaip ir nuo viso to, kas už upės būtų vedamas ar
     varomas parduoti, - vienas denaras arba obolas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -851,8 +676,8 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     gyventojų gerove buvo nutrauktas grėsmingų caro Ivano Va-
     siljevičiaus užmačių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -871,8 +696,8 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     Aukščiau Vilniaus Vilija, regis, kito
     vardo neturi.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -901,8 +726,8 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     žiniai, karaliaus valia, per Vilniaus
     gorodničių Povilą Giedraitį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -921,8 +746,8 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     to vaidus su Jogaila, ir dar ne visai suderintus Lietuvos ir Len­
     kijos interesus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -949,8 +774,8 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     kestį, skirtą jam taisyti bei neturtingų ligotų žmonių naudai
     jau seniai mintyse paskyrėme.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -976,8 +801,8 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     pilys, pirmiausia medinės, o jau XIV amžiuje perstatytos į
     mūrines, kaip antai: Kernavė, Senieji ir Naujieji Trakai1 .
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1013,8 +838,8 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     regėjo geležinį vilką, nepaprasto didumo, o jo kauksmas bu­
     vęs toks galingas, kad atrodė, tarsi šimtas vilkų staugtų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1033,8 +858,8 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     pilis, prūsų vadinta Wissewalde, ties
     Nerimi, arba Vilija, buvusi...
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1054,8 +879,8 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     siausių Lietuvos didikų Manvydo rūmai, o kalno papėdėje,
     palei Viliją, driekėsi Žemutinė pilis, vadinta Kreivąja.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1270,7 +1095,8 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
 - id: c-177489
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 150"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 150."
   citata_originali: |
     Tai buvo piktųjų dvasių apgaulė; ty-
     kodamos prie vandens, suvedžiodamos žmones, jos stengėsi
@@ -1640,7 +1466,8 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
 - id: c-177503
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 149"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 149."
   citata_originali: |
     Iš jo paimtos eilutės, arba kreipimasis (apostrofa) į Vilijos
     upę, liečia mūsų dalyką:

@@ -30,19 +30,6 @@ Grigorijaus iš Polonos mokslu buvo grindžiamas griežtesnių regulų gyvenimas
 - t-001
   global_id: t-186205
   teiginys: "Grigorijaus iš Polonos mokslu buvo grindžiamas griežtesnių regulų gyvenimas, kurį Galiče išpažino Vaišvilkas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "184427-185084; hash=78042761d2e7e3f60824dc929d81a8917f563e21bb0d1b61deca62de3ffb99c0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Polona: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Grigorijus iš Polonos: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Polona: mention_match, place, gap=15"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Grigorijus iš Polonos\" parinktas kaip owner_note_path. Targetas \"Polona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-169566
 ## Reikšmingi paminėjimai
@@ -65,8 +52,8 @@ Grigorijaus iš Polonos mokslu buvo grindžiamas griežtesnių regulų gyvenimas
     baimingai ir pastoviai gyventi, kartkartėmis, tiesa,
     kurstomas didikų.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -77,7 +64,8 @@ Grigorijaus iš Polonos mokslu buvo grindžiamas griežtesnių regulų gyvenimas
 - id: c-169566
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 110"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 110."
   citata_originali: |
     Vaišvilkas mat, pasipiktinęs savo tėvo Min­
     daugo atsimetimu nuo krikščionių tikybos, pabėgo pas

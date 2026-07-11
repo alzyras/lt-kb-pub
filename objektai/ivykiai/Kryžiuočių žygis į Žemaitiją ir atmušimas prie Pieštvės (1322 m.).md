@@ -57,21 +57,6 @@ Nenurodyta
 - t-001
   global_id: t-62843
   teiginys: "1322 m. Ordinas su talkininkais iš Vokietijos, Čekijos ir kitur niokojo Žemaitiją, bet buvo atremtas prie Pieštvės pilies."
-  teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Kryžiuočių ordinas puolė Pieštvė (0.66)"
-  temporaliniai_duomenys: "įvykio data: 1322 m.; įvykio data: 1323 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "32162-32633; hash=6b552afc47706a80b1a678d65490e13ea226df09a068ac048288a298e9d55d06; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Pieštvė: 0.66"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Pieštvė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Ordinas buvo atremtas prie Pieštvės pilies, todėl ryšys su puolimu prieš šią vietą yra tiesiogiai kontekstinis, bet ne maksimaliai tikslus."
   pagrindžia:
     - c-63673
 ## Reikšmingi paminėjimai
@@ -87,8 +72,8 @@ Nenurodyta
     šalčių  iš pusiaukelės buvo grįžta. Tais pačiais metais kryžiuočiai vėl bandė niokoti
     panemunes apie Paštuvą (III, 340, 342, 347).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -99,7 +84,8 @@ Nenurodyta
 - id: c-63673
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 14"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 14."
   citata_originali: |
     Po triuškinančio smūgio Medininkų žemėje Ordinas, sulaukęs daug talkininkų  iš
     Vokietijos, Čekijos  ir kitur, 1322 m. vėl niokojo Žemaitiją, pasiekdamas Raseinius,

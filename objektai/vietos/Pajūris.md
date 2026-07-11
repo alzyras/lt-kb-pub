@@ -30,21 +30,6 @@ Pajūrio kaimą Narbutas mini kaip Dievaičio (Dewojtis) fetišo vietą ir spėj
 - t-001
   global_id: t-189038
   teiginys: "Pajūrio kaimą Narbutas mini kaip Dievaičio (Dewojtis) fetišo vietą ir spėja jį buvus Raseinių apskrityje prie Jūros upės."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "350938-351198; hash=e914c88a50681db71e57eda0547fba5d6038fd8b1e884ab8999ee3dd124c3542; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kaimas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Pajūris: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kaimas: mention_match, place, gap=8"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pajūris\" parinktas kaip owner_note_path. Targetas \"Kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171927
 - susijęs iš [[objektai/asmenys/Palemonas.md#claim-t-188601|Palemonas]]: Kronikose Palemonas vaizduotas kaip Lietuvos pajūrio šalies valdovas, su savo žmonėmis atkilęs iš svetimos žemės.
@@ -115,8 +100,8 @@ Pajūrio kaimą Narbutas mini kaip Dievaičio (Dewojtis) fetišo vietą ir spėj
     Vetustis (W etustis)
     Rietavo miestelio fetišas, lietuviškai -  senovinis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -149,4 +134,4 @@ Pajūrio kaimą Narbutas mini kaip Dievaičio (Dewojtis) fetišo vietą ir spėj
 
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Palemonas]]
-- Gyvenamoji vieta: [[objektai/grupes/Estai]], [[objektai/grupes/Kuršiai]], [[objektai/grupes/Signotai]]
+- Gyvenamoji vieta: [[objektai/grupes/Estai]]

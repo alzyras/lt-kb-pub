@@ -63,20 +63,6 @@ Nenurodyta
 - t-001
   global_id: t-87283
   teiginys: "Kryžiuočių žygio metu Karaliaučiuje riterių garbės puota buvo nutraukta dėl anglų, škotų ir prancūzų vaidų."
-  semantiniai_rysiai: "Anglai buvo priešas Škotai (0.82)"
-  temporaliniai_duomenys: "įvykio data: 1391 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinė formuluotė yra OCR triukšmas ir nesusijusi su pavadinimu, bet citata pagrindžia teiginį apie karo puotą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "287229-289843; hash=b6102d80596f4c1e2b816ef90a474211776c36a4c5e884b494da44baf1c47fb0; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_priesas -> Škotai: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Anglai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Škotai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai mini anglų vaidus su škotais."
   pagrindžia:
     - c-83262
 ## Reikšmingi paminėjimai
@@ -150,8 +136,8 @@ Nenurodyta
     mas ir žygio išlaidos, pasak kai kurių metraštininkų, siekė maž­
     ne penkiskart po šimtą tūkstančių prūsiškų grive'nų42.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

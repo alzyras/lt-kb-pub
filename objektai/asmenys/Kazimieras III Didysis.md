@@ -38,12 +38,6 @@ Lenkijos karalius Kazimieras Didysis mirė 1370.XI.5, nepali kęs vyriškos lyti
 - t-001
   global_id: t-194094
   teiginys: "Lenkijos karalius Kazimieras Didysis mirė 1370.XI.5, nepali kęs vyriškos lyties įpėdinių."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "433351-433444; hash=5c5fdcfa4180f6985b2c644dacaa879cc1afbc1092db865cae931826637f0a45; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176707
 ## Reikšmingi paminėjimai
@@ -55,8 +49,8 @@ Lenkijos karalius Kazimieras Didysis mirė 1370.XI.5, nepali kęs vyriškos lyti
     1  Lenkijos karalius Kazimieras Didysis mirė 1370.XI.5, nepali­
     kęs vyriškos lyties įpėdinių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -67,7 +61,8 @@ Lenkijos karalius Kazimieras Didysis mirė 1370.XI.5, nepali kęs vyriškos lyti
 - id: c-176707
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 234"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 234."
   citata_originali: |
     1  Lenkijos karalius Kazimieras Didysis mirė 1370.XI.5, nepali­
     kęs vyriškos lyties įpėdinių.

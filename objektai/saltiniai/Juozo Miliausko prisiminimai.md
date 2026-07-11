@@ -46,16 +46,6 @@ Cituojama „Juozo Miliausko prisiminimai“ ištrauka. „Juozo Miliausko prisi
 - t-007
   global_id: t-78850
   teiginys: "Juozas Miliauskas prisiminimuose aprašė, kaip Švėkšnos apylinkių miškuose rusų pajėgos užpuolė užvartomis sutvirtintą sukilėlių stovyklą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "659116-659502; hash=da75ab4928185b803654ebc51ddf5586b579709ab4c4aa1075dc8e07d883b4c7; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Juozas Miliauskas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Juozo Miliausko prisiminimai: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Juozas Miliauskas: mention_match, author, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Juozo Miliausko prisiminimai\" parinktas kaip owner_note_path. Targetas \"Juozas Miliauskas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-43256
 
@@ -63,16 +53,6 @@ Cituojama „Juozo Miliausko prisiminimai“ ištrauka. „Juozo Miliausko prisi
 - t-006
   global_id: t-78851
   teiginys: "Juozas Miliauskas rašė, kad antrą puolimo dieną šaudymas tęsėsi šešias valandas, o sukilėlių pusėje buvo du lengvai sužeisti."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "660419-661047; hash=19d868f3c7c3fec5e8ea19f9b034aaf91200a2f91a38210aeb1b806597865386; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Juozas Miliauskas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Juozo Miliausko prisiminimai: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Juozas Miliauskas: mention_match, author, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Juozo Miliausko prisiminimai\" parinktas kaip owner_note_path. Targetas \"Juozas Miliauskas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-11238
 
@@ -80,16 +60,6 @@ Cituojama „Juozo Miliausko prisiminimai“ ištrauka. „Juozo Miliausko prisi
 - t-005
   global_id: t-78852
   teiginys: "Juozo Miliausko prisiminimuose pasakojama, kad rusų puolimas prieš sukilėlių stovyklą truko apie keturias valandas ir baigėsi apie šeštą vakaro."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "659422-660092; hash=90a291dac94d1b003724227a51ab93a3967f9c9ec9a41eb5f1eb9bbdbf1f5f8d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Rusai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Juozo Miliausko prisiminimai: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Rusai: mention_match, group, gap=47"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Juozo Miliausko prisiminimai\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-11237
 
@@ -97,16 +67,6 @@ Cituojama „Juozo Miliausko prisiminimai“ ištrauka. „Juozo Miliausko prisi
 - t-008
   global_id: t-78853
   teiginys: "Juozo Miliausko prisiminimuose aprašytas rusų pajėgų puolimas prieš sukilėlių stovyklą Švėkšnos apylinkių miškuose."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "659081-659420; hash=8e3841dc9cedfa99eb7e0185a8f34a0e8bd2492bb0712b6a52c68f660713686c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Rusai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Juozo Miliausko prisiminimai: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Rusai: mention_match, group, gap=41"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Juozo Miliausko prisiminimai\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-75984
 
@@ -114,16 +74,6 @@ Cituojama „Juozo Miliausko prisiminimai“ ištrauka. „Juozo Miliausko prisi
 - t-004
   global_id: t-78854
   teiginys: "Juozas Miliauskas prisiminimuose aprašė rusų pajėgų puolimą prieš medžių užvartomis sutvirtintą sukilėlių stovyklą Švėkšnos apylinkių miškuose."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "659116-659502; hash=da75ab4928185b803654ebc51ddf5586b579709ab4c4aa1075dc8e07d883b4c7; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Juozas Miliauskas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Juozo Miliausko prisiminimai: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Juozas Miliauskas: mention_match, author, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Juozo Miliausko prisiminimai\" parinktas kaip owner_note_path. Targetas \"Juozas Miliauskas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-43256
 ## Reikšmingi paminėjimai
@@ -140,8 +90,8 @@ Cituojama „Juozo Miliausko prisiminimai“ ištrauka. „Juozo Miliausko prisi
     vilko šalin nukautuosius ir jų karabinus. Naujos eilės vis dar lenda ir tik po 4 valandų
     kruvino vargo apie 6 valandą vakaro viskas nutilo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -158,8 +108,8 @@ Cituojama „Juozo Miliausko prisiminimai“ ištrauka. „Juozo Miliausko prisi
     Iš šešių kariuomenės kuopų ir iš poros šimtų sienos sargybos mažai kas bepasiliko. Mūsų
     pusėj pirmą dieną krito tik vienas, o antrą du lengvai sužeisti. Tai buvo mums stebūklai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -178,8 +128,8 @@ Cituojama „Juozo Miliausko prisiminimai“ ištrauka. „Juozo Miliausko prisi
 
     „Stovykloje šovinius dirbam, blėkinėlėse kruopų košę verdam, valgome ir ilsimės.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -198,8 +148,8 @@ Cituojama „Juozo Miliausko prisiminimai“ ištrauka. „Juozo Miliausko prisi
     siminimų. Jis aprašo epizodą kai Švėkšnos apylinkių miškuose medžių uzvartom su-
     tvirtintą sukilėlių stovyklą užpuola rusų pajėgos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

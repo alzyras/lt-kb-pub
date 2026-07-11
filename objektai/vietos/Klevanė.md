@@ -32,17 +32,6 @@ media_all_json: |-
 - t-001
   global_id: t-76582
   teiginys: "Klevanėje tėvoniją sukūrė iš šalutinės Gediminaičių šakos kilę Čartoriskiai."
-  semantiniai_rysiai: "Čartoriskiai valdė teritoriją Klevanė (0.72)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "80994-81613; hash=c9302fe593d57dc48e2a927d98afd8fc86ec89ce6dd12878cb373b4fcd14a15e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde_teritorija -> Klevanė: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Čartoriskiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Klevanė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tėvonijos sukūrimas Klevanėje rodo Čartoriskių valdomą teritorinę atramą, nors santykis išreikštas netiesiogiai."
   pagrindžia:
     - c-24196
 
@@ -50,17 +39,6 @@ media_all_json: |-
 - t-002
   global_id: t-76583
   teiginys: "Voluinėje Čartoriskiai sukūrė tėvoniją Klevanėje."
-  semantiniai_rysiai: "Čartoriskiai valdė teritoriją Klevanė (0.70)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "80742-81481; hash=b2b71025f4ae7a5478bbe67d16681ba03846bf2a0861550b621e85ff24acdac3; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde_teritorija -> Klevanė: 0.70"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Čartoriskiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Klevanė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citatoje Čartoriskiai siejami su Klevane kaip tėvonijos vieta."
   pagrindžia:
     - c-74133
 ## Reikšmingi paminėjimai
@@ -78,8 +56,8 @@ media_all_json: |-
     Daugybė senovės imperijų žlugo palikdamos apie save tautų kalėjimų
     atminimą, o tos, kurios nežlugo, virto tautų lydymosi katilais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -103,8 +81,8 @@ media_all_json: |-
     prastai reikšmingą vaidmenį suvaidinę riurikaitiškos, taigi „ukrainietiš-
     kos“ kilmės kunigaikščiai Ostrogiškiai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -159,6 +137,3 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-76583
-
-## Ryšiai
-- Buvo valdoma: [[objektai/grupes/Čartoriskiai]]

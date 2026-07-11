@@ -32,17 +32,6 @@ Savo laiške jis rašo, kad su vi­ sa kariuomene ir pulku dvariškių pasiekė 
 - t-001
   global_id: t-36719
   teiginys: "Vytautas toliausiai nuėjo iki Okos prieupio Zna už Pronsko, netoli dabartinės Penzos."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į Zna (0.95)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "350634-351496; hash=8285a54b9a190058296f81b65fcda2b935871cbeb0d073322a61fb2b9a7e1f0a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Zna: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Zna: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekste tiesiogiai nurodyta, kad Vytautas nuėjo iki Znos."
   pagrindžia:
     - c-38693
 ## Reikšmingi paminėjimai
@@ -67,8 +56,8 @@ Savo laiške jis rašo, kad su vi­ sa kariuomene ir pulku dvariškių pasiekė 
     tas, mirdamas antrą kartą buvo pareiškęs norą, kad Vytautas globotų jo
     sūnų (įpėdinį) Vosylių II, žmoną ir vaikus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -48,20 +48,6 @@ Nenurodyta
 - t-001
   global_id: t-185655
   teiginys: "Po reikalų Rusioje sutvarkymo lietuviai pradėjo keršyti kryžiuočiams už ankstesnių metų skriaudas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Lietuviai kariavo prieš Kryžiuočių ordinas (0.77)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "448697-449169; hash=fc576b3ab8ece5bb6c09eb87713f138be346f41e5ac32130d46461b3a5b12ed2; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Kryžiuočių ordinas: 0.77"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Kerštas kryžiuočiams karinio žygio kontekste tiesiogiai nurodo priešišką karinį santykį."
   pagrindžia:
     - c-169016
 
@@ -69,19 +55,6 @@ Nenurodyta
 - t-002
   global_id: t-185656
   teiginys: "Kęstutis Mazovijos pasieniu nuvedė kariuomenę į menkai įtvirtintą Prūsijos pakraštį ir prie Saldavos bei Neidenburgo sumušė kryžiuočius."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "449170-449814; hash=9935fed726fbc9c3814faa9025261ef1f7f26e3facdfe49936322f2b82d419ac; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Neidenburgas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytauto ir Kęstučio žygiai į Prūsiją bei kryžiuočių sutriuškinimas pasalose (1377 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Neidenburgas: mention_match, place, gap=59"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytauto ir Kęstučio žygiai į Prūsiją bei kryžiuočių sutriuškinimas pasalose (1377 m.)\" parinktas kaip owner_note_path. Targetas \"Neidenburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-169017
 
@@ -89,20 +62,6 @@ Nenurodyta
 - t-003
   global_id: t-185657
   teiginys: "Lietuvių pasaloje kryžiuočiai sugriuvo į šakomis ir velėnomis pridengtus griovius, prarado vadus ir dalį karių."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Lietuviai puolė Kryžiuočių ordinas (0.71)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "450239-450721; hash=cc493c02055ea84ce289e9b7f297a714afc55cc76195e289b22f14f263088edd; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Kryžiuočių ordinas: 0.71"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Pasalos aprašymas rodo lietuvių karinį veiksmą prieš kryžiuočius."
   pagrindžia:
     - c-169018
 ## Reikšmingi paminėjimai
@@ -128,8 +87,8 @@ Nenurodyta
     giavo, niokodamas kraštą, ligi Tapiavos ir karius su
     grobiu laimingai parvedė atgal.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -160,8 +119,8 @@ Nenurodyta
     metu nuniokojo Vėluvos, Salduvos ir Įsruties apygar­
     dų kaimus.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -181,8 +140,8 @@ Nenurodyta
     bei dalį karių, tuo tarpu kiti, palikę grobį, vos ne vos
     prasiveržė į saugesnes vietas ir sveiki paspruko.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -193,7 +152,8 @@ Nenurodyta
 - id: c-169016
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 256"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 256."
   citata_originali: |
     Tuo būdu sutvarkę
     Rusioje reikalus taip, kaip norėjo, lietuviai pasijuto
@@ -253,7 +213,8 @@ Nenurodyta
 - id: c-169018
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 257"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 257."
   citata_originali: |
     Mat miškuose (kuriais kryžiuočiai turėjo trauk-
     tyti grioviai labai trukdė judėti. Kai kryžiuočiai pri­

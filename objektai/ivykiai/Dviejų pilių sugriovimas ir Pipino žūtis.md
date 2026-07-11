@@ -58,18 +58,6 @@ Nenurodyta
 - t-002
   global_id: t-66533
   teiginys: "221 Pipino nukankinimas vaizduojamas tendencingai (žr."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "242662-242747; hash=b11e62bdb00011aa4ba6aeb8a40145f4b5538986c5cf7d61bc6dc6d6f3309e7d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Pipinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Dviejų pilių sugriovimas ir Pipino žūtis: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Pipinas: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dviejų pilių sugriovimas ir Pipino žūtis\" parinktas kaip owner_note_path. Targetas \"Pipinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
-  vertinimo_autorius: "claim_quality_pipeline / rewrite"
   pagrindžia:
     - c-66747
 
@@ -77,19 +65,6 @@ Nenurodyta
 - t-001
   global_id: t-66534
   teiginys: "Prūsai Vyslos pakrantėje, aukščiau Torunės, turėjo Ragavos pilį, o žemiau Torunės stovėjo dar viena jų pilis."
-  temporaliniai_duomenys: "įvykio data: 1231 m.; įvykio data: apie 1231 m.; įvykio data: 1292 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
-  temporalinis_llm_pakomentavimas: "Sakinys sutvarkytas iš antraštinio fragmento į aiškų faktą apie dvi pilis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "237841-240616; hash=be0e6c40b7e051b5606fd65188b672c0207774d4f6677dbd8335cfcf9dd4182c; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Prūsai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; prusai_group_context; same_sentence_locality; single_candidate_actor; single_candidate_target; target_after_predicate"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Dviejų pilių sugriovimas ir Pipino žūtis: owner_note_path, event"
-  ryšio_targeto_parinkimas: "Prūsai: mention_match, place, gap=1"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dviejų pilių sugriovimas ir Pipino žūtis\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-66746
 
@@ -97,19 +72,6 @@ Nenurodyta
 - t-001
   global_id: t-66534
   teiginys: "Prūsai Vyslos pakrantėje, aukščiau Torunės, turėjo Ragavos pilį, o žemiau Torunės stovėjo dar viena jų pilis."
-  temporaliniai_duomenys: "įvykio data: 1231 m.; įvykio data: apie 1231 m.; įvykio data: 1292 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
-  temporalinis_llm_pakomentavimas: "Sakinys sutvarkytas iš antraštinio fragmento į aiškų faktą apie dvi pilis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "237841-240616; hash=be0e6c40b7e051b5606fd65188b672c0207774d4f6677dbd8335cfcf9dd4182c; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Prūsai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; prusai_group_context; same_sentence_locality; single_candidate_actor; single_candidate_target; target_after_predicate"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Dviejų pilių sugriovimas ir Pipino žūtis: owner_note_path, event"
-  ryšio_targeto_parinkimas: "Prūsai: mention_match, place, gap=1"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dviejų pilių sugriovimas ir Pipino žūtis\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-66746
 
@@ -117,12 +79,6 @@ Nenurodyta
 - t-004
   global_id: t-194384
   teiginys: "Apie dviejų pilių sugriovimą ir Pipino žūtį Sako, kad tuo metu, kai broliai gyveno minėtajame ąžuole, prūsai turėję Vyslos pakrantėje, aukščiau Torunės, pilį, vardu Ragava218, o dar vieną — žemiau, apie tą vietą, kur dabar yra senoji pilis219."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "237841-240616; hash=be0e6c40b7e051b5606fd65188b672c0207774d4f6677dbd8335cfcf9dd4182c; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-66746
 ## Reikšmingi paminėjimai
@@ -169,8 +125,8 @@ Nenurodyta
     savo seserėną Pipiną broliams, kurie jį, pririštą, prie arklio uodegos, nuvilko iki Torunės
     ir ten po medžiu pakorė221.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -185,8 +141,8 @@ Nenurodyta
     221 Pipino nukankinimas vaizduojamas tendencingai (žr. įvadą).
       222  Žr. D. III. 84.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -197,7 +153,8 @@ Nenurodyta
 - id: c-66746
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 71-72"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 71-72."
   citata_originali: |
     Apie dviejų pilių sugriovimą ir Pipino žūtį
 
@@ -249,7 +206,8 @@ Nenurodyta
 - id: c-66747
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 72"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 72."
   citata_originali: |
     221 Pipino nukankinimas vaizduojamas tendencingai (žr. įvadą).
       222  Žr. D. III. 84.

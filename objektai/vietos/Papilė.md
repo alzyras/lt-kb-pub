@@ -40,14 +40,6 @@ Mūšio išvakarėse 1359 m. Livonijos magistras surengė didelį žygį prieš 
 - t-001
   global_id: t-193804
   teiginys: "Mūšio išvakarėse 1359 m. Livonijos magistras surengė didelį žygį prieš lietuvius į Papilės žemę."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "149870-150052; hash=3a19e81255392818f041249ae6f3e52c9e56deb704a46450bdecf7ac8f6e65dd; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-176450
 ## Reikšmingi paminėjimai
@@ -64,8 +56,8 @@ Mūšio išvakarėse 1359 m. Livonijos magistras surengė didelį žygį prieš 
     1359 m. Livonijos magistras surengė didelį
     žygį prieš lietuvius į Papilės žemę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

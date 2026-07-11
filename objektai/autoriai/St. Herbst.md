@@ -38,12 +38,6 @@ Herbst, Kleck.— Przegląd hlstoryczno-vvojskovry, 1934, t.
 - t-001
   global_id: t-194152
   teiginys: "Herbst, Kleck.— Przegląd hlstoryczno-vvojskovry, 1934, t."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "659445-659621; hash=8cc2b889c2004061bbae8feb20807880cc892a6688ea7b2c107719bd29cb5995; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176765
 ## Reikšmingi paminėjimai
@@ -57,8 +51,8 @@ Herbst, Kleck.— Przegląd hlstoryczno-vvojskovry, 1934, t.
     vyrų (St. Herbst, Kleck.— Przegląd hlstoryczno-vvojskovry, 1934, t. VII,
     sąs. 1, p. 21-3 8 ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -35,16 +35,6 @@ Pasiuntiniai įteikė susirinkimui raštą (Proposicio Samay­ tarum), kuriame s
 - t-001
   global_id: t-34984
   teiginys: "Žemaičių pasiuntiniai „Proposicio Samaytarum“ skundėsi, kad Ordinas trukdė žemaičiams priimti katalikybę."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "281241-281568; hash=b4b54eddf3c9d2a1ce38b1399792e741b5b31f45b61b0ad70a4cd56d14036d5a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Proposicio Samaytarum: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Proposicio Samaytarum\" parinktas kaip owner_note_path. Targetas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-36209
 ## Reikšmingi paminėjimai
@@ -60,8 +50,8 @@ Pasiuntiniai įteikė susirinkimui raštą (Proposicio Samay­ tarum), kuriame s
     pasiųsti vyskupą įkurti vyskupijai ir sutvarkyti visus bažnyti­
     nius reikalus^2 ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

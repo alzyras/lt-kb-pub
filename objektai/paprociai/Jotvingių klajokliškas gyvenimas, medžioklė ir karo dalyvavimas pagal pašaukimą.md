@@ -51,21 +51,6 @@ Nenurodyta
 - t-001
   global_id: t-193021
   teiginys: "Narbutas jotvingius vaizduoja kaip menkai civilizuotą tautą, gyvenusią bendruomenėmis arba valsčiais, kuriems vadovavo lyg karaliukai."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "211269-211671; hash=7ad690048f3742fef4d9060cbd3d07a963527d9467e4fd5be354570a8a3175c9; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jotvingiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jotvingių klajokliškas gyvenimas, medžioklė ir karo dalyvavimas pagal pašaukimą: owner_note_path, thing"
-  ryšio_targeto_parinkimas: "Jotvingiai: mention_match, group, gap=10"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jotvingių klajokliškas gyvenimas, medžioklė ir karo dalyvavimas pagal pašaukimą\" parinktas kaip owner_note_path. Targetas \"Jotvingiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175791
 
@@ -73,14 +58,6 @@ Nenurodyta
 - t-002
   global_id: t-194872
   teiginys: "Vėliau dažniau matome jotvingių ryšius su lietuvių gentimis, su kuriomis jie nuo seno turėjo santykių, nes, gyvendami klajokliškai, turėjo daug naudos iš medžiok lės."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "214888-215362; hash=4622e23f5c68168b7213b45bc6a5382b9046338deb59fc8eeb5a56770735c2f7; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-177268
 ## Reikšmingi paminėjimai
@@ -99,8 +76,8 @@ Nenurodyta
     mokėjo panaudoti savo krašto gamtos gynybines sąly­
     gas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -121,8 +98,8 @@ Nenurodyta
     nėjo plėšikų gaujas, kurios neva be jo žinios puldinėjo
     Mozūriją ir Lenkiją2.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -133,7 +110,8 @@ Nenurodyta
 - id: c-175791
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 118"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 118."
   citata_originali: |
     114
     Istorinės pastabos. Jotvingių tauta, kiek galima spręs­
@@ -154,7 +132,8 @@ Nenurodyta
 - id: c-177268
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 120"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 120."
   citata_originali: |
     118
     Vėliau dažniau matome jotvingių ryšius su lietuvių

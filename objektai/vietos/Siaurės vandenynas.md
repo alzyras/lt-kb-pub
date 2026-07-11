@@ -30,14 +30,6 @@ Be jo kios abejonės, ne tik patys seniausi, bet ir paskutiniai stabmel džiai S
 - t-001
   global_id: t-194772
   teiginys: "Be jo kios abejonės, ne tik patys seniausi, bet ir paskutiniai stabmel džiai Siaurės Europoje buvo samojedai: juk žinome, kad dar XVII amžiuje prie Baltosios jūros, tai yra prie Siaurės vandeny no, gyveno ši tauta, garbinusi dangaus kūnus ."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "316098-316846; hash=4a699d9e8ad35af6d594939b4b0d8c2a7d004fec216a6828c5c3475cafc28777; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-177168
 ## Reikšmingi paminėjimai
@@ -60,8 +52,8 @@ Be jo kios abejonės, ne tik patys seniausi, bet ir paskutiniai stabmel džiai S
     yra kilęs iš indų, arba iš tautos, gyvenusios seniausiame pasau­
     lio kontinente, tai yra prie Himalajų kalnų, iš kur kilo indai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -72,7 +64,8 @@ Be jo kios abejonės, ne tik patys seniausi, bet ir paskutiniai stabmel džiai S
 - id: c-177168
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 184"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 184."
   citata_originali: |
     O
     čia surinksime visokias išlikusias žinias apie dangaus kūnų su­

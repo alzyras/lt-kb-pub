@@ -46,17 +46,6 @@ Nenurodyta
 - t-002
   global_id: t-188042
   teiginys: "Filomatai ir filaretai įvadiniame straipsnyje aprašomi kaip susirinkimuose diskutavę apie krašto praeitį, liaudies padavimus ir dainas."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "6622-7113; hash=fb5448ba5e2b681869e28619c93fb8cc0725870ad338f7ce55859a6ae7e73823; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
-  ryšio_patikimumas: "susije_su -> Mickevičius: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Filomatai ir filaretai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Mickevičius: mention_match, author"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Filomatai ir filaretai\" parinktas kaip owner_note_path. Targetas \"Mickevičius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-170854
 - susijęs iš [[objektai/asmenys/Joachimas Lelevelis.md#claim-t-188541|Joachimas Lelevelis (istorikas, XVIII–XIX a.)]]: Joachimas Lelevelis Narbuto jaunystės laikotarpiu dėstė Vilniaus universitete kartu su Ignotu Danilavičiumi ir Ignotu Onacevičiumi.
@@ -80,8 +69,8 @@ Nenurodyta
     ir dainas, kuriose jie atsekdavo sustingusius praeities pėdsa­
     kus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -92,7 +81,8 @@ Nenurodyta
 - id: c-170854
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 6"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 6."
   citata_originali: |
     Išsamesnėms krašto praeities studijoms istoriką galė­
     jo paskatinti pusbrolio Justino parašyta nedidelė knygelė

@@ -34,16 +34,6 @@ media_all_json: |-
 - t-001
   global_id: t-42501
   teiginys: "Švedų raitarai, pasikliaudami karakoliavimo taktika, vengdavo artimo mūšio."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "427039-427435; hash=2aeb9c0a85fa2b05520f220d781016fad3ba1f718f5f370ab8e272ba48004354; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Austrija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "raitarai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Austrija: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"raitarai\" parinktas kaip owner_note_path. Targetas \"Austrija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-45542
 - susijęs iš [[objektai/asmenys/Frederikas Joachimas Mansfeldas.md#claim-t-40107|Frederikas Joachimas Mansfeldas]]: Dambravos raitarai smogė Frederiko Joachimo Mansfeldo kavaleristams iš flango.
@@ -63,8 +53,8 @@ media_all_json: |-
     Lietuvoje ir Lenkijoje, taip pat Austrijoje (šalyse, kurioms tekdavo |
     kariauti su rytietiško pavyzdžio kariuomenėmis).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

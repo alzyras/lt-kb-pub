@@ -41,17 +41,6 @@ Težino jūsų garbingasis, įtakingasis bei mokytasis [as­ muo], jog mes pasiu
 - t-001
   global_id: t-88185
   teiginys: "Gedimino laiške dominikonams rašoma, kad valdovas pasiuntė popiežiui Jonui laišką dėl krikšto ir laukė jo pasiuntinių."
-  semantiniai_rysiai: "Gediminas buvo valdovas Lietuviai (0.93); Gediminas buvo valdovas Rusai (0.93)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "139177-140116; hash=7c94ef4c0e47c2ecb82dd0ad8a206f35dcfc976b83ebbb5bfd121895177cf9cb; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_valdovas -> Lietuviai: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Gediminas laiške tiesiogiai tituluojamas lietuvių karaliumi."
   pagrindžia:
     - c-84165
 
@@ -59,17 +48,6 @@ Težino jūsų garbingasis, įtakingasis bei mokytasis [as­ muo], jog mes pasiu
 - t-002
   global_id: t-88186
   teiginys: "Gedimino laiške dominikonams Saksonijos magistrui ir priorams nurodyta perskaičius ir nurašius laišką kuo greičiau siųsti toliau."
-  semantiniai_rysiai: "Gediminas buvo valdovas Lietuviai (0.90); Gediminas buvo valdovas Rusai (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "142661-143267; hash=b2cb853812bd1d2df87e45a08a10218b4c98484d13c23d6487d2fddc33f3cfe0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_valdovas -> Lietuviai: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citatoje Gediminas įvardytas lietuvių karaliumi."
   pagrindžia:
     - c-84164
 ## Reikšmingi paminėjimai
@@ -92,8 +70,8 @@ Težino jūsų garbingasis, įtakingasis bei mokytasis [as­ muo], jog mes pasiu
     amatininkams [siunčia] pasveikinimą ir savo karališką ma­
     lonę bei palankumą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -126,8 +104,8 @@ Težino jūsų garbingasis, įtakingasis bei mokytasis [as­ muo], jog mes pasiu
     skyrus tuos, kurie pardavinėja savo vienuolynus ir rengia
     dvasininkų žudynes.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -42,17 +42,6 @@ Dusburgietis teigia, kad helvigas iš Goldbacho vienui vienas sėdėjo savo pala
 - t-001
   global_id: t-60022
   teiginys: "Helvigas iš Goldbacho su Henriku iš Šenenbergo ir keliais ginklanešiais sučiupo Herkų Mantą, jį pakorė ir pervėrė kalaviju."
-  semantiniai_rysiai: "Helvigas iš Goldbacho puolė Herkus Mantas (0.84)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "427480-428012; hash=4ace6ce01c4ceb6d91d8d5cb3a2fc4c0ad4e4837252bab4daaa405ccc400d55e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Herkus Mantas: 0.84"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Helvigas iš Goldbacho: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Herkus Mantas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Helvigas įvardytas tarp veikėjų, kurie sučiupo ir nužudė Herkų Mantą."
   pagrindžia:
     - c-60654
 
@@ -60,16 +49,6 @@ Dusburgietis teigia, kad helvigas iš Goldbacho vienui vienas sėdėjo savo pala
 - t-003
   global_id: t-60023
   teiginys: "Helvigas iš Goldbacho iš Tiuringijos buvo penkioliktas Prūsijos žemės magistras ir vadovavo vienus metus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "603609-603887; hash=136fb5c431b1590ef01d268a109815dfd7a06649af570500719f9a2b90abbba7; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Prūsija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Helvigas iš Goldbacho: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Prūsija: mention_match, place, gap=55"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Helvigas iš Goldbacho\" parinktas kaip owner_note_path. Targetas \"Prūsija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-60656
 
@@ -77,17 +56,6 @@ Dusburgietis teigia, kad helvigas iš Goldbacho vienui vienas sėdėjo savo pala
 - t-002
   global_id: t-60024
   teiginys: "Pagudėnai ginkluoti užpuolė Kristburgo komtūrą Helvigą iš Goldbacho, Elbingo komtūrą ir jų padėjėjus bei išsivarė juos į nelaisvę."
-  semantiniai_rysiai: "Pagudėnai puolė Helvigas iš Goldbacho (0.92)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "502590-503001; hash=03816db423a6b5688f0dd07ac55feb4067fe863a316779c57b4e4f13ae948112; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Helvigas iš Goldbacho: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Pagudėnai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Helvigas iš Goldbacho: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad pagudėnai ginkluoti užpuolė Helvigą iš Goldbacho."
   pagrindžia:
     - c-60655
 - susijęs iš [[objektai/asmenys/Henrikas iš Šenenbergo.md#claim-t-60317|Henrikas iš Šenenbergo]]: Henrikas iš Šenenbergo, Kristburgo komtūras, su Helvigu iš Goldbacho užtiko Herkų Mantą ir jį nužudė.
@@ -116,8 +84,8 @@ Dusburgietis teigia, kad helvigas iš Goldbacho vienui vienas sėdėjo savo pala
 
          136 (131).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -133,8 +101,8 @@ Dusburgietis teigia, kad helvigas iš Goldbacho vienui vienas sėdėjo savo pala
     Jų kunigą kapelioną jie pakorė už kaklo po medžiu, dar vieną jų tarną nužudė, o kita
     šeimynos dalis, pasileidusi bėgti, šiaip ne taip paspruko.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -154,8 +122,8 @@ Dusburgietis teigia, kad helvigas iš Goldbacho vienui vienas sėdėjo savo pala
 
                    275 (268).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -166,7 +134,8 @@ Dusburgietis teigia, kad helvigas iš Goldbacho vienui vienas sėdėjo savo pala
 - id: c-60654
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 133"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 133."
   citata_originali: |
     Jiems rodėsi, jog niekur jie nerasią tokios slėptuvės, kur nereikėtų būgštauti
     dėl gresiančių pavojų. Štai dėl to ir Herkus Mantas, jų vadas, pasitraukė su kuriais ne
@@ -190,7 +159,8 @@ Dusburgietis teigia, kad helvigas iš Goldbacho vienui vienas sėdėjo savo pala
 - id: c-60655
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 158"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 158."
   citata_originali: |
     Tačiau niekas nedrįso viešai broliams priešintis, išskyrus pagudėnus476, kurie ginkluoti
     užpuolė Elbingo komtūrą ir Helvigą iš Goldbacho, Kristburgo komtūrą477, bei jų padėjėjus
@@ -207,7 +177,8 @@ Dusburgietis teigia, kad helvigas iš Goldbacho vienui vienas sėdėjo savo pala
 - id: c-60656
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 193"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 193."
   citata_originali: |
     274 (267). Apie brolį Helvigą, Prūsijos žemės magistrą (1300 metai)
 
@@ -227,6 +198,4 @@ Dusburgietis teigia, kad helvigas iš Goldbacho vienui vienas sėdėjo savo pala
     - t-60023
 
 ## Ryšiai
-- Sąjungininkai: [[objektai/asmenys/Henrikas iš Šenenbergo]]
 - Puolė Helvigas iš Goldbacho: [[objektai/grupes/Pagudėnai]]
-- Helvigas iš Goldbacho puolė [[objektai/asmenys/Herkus Mantas]]

@@ -30,21 +30,6 @@ Pasak Teodoro Narbuto, Karamzinas rašė, kad vibionų, arba vitbionų, sostinė
 - t-001
   global_id: t-191726
   teiginys: "Pasak Teodoro Narbuto, Karamzinas rašė, kad vibionų, arba vitbionų, sostinė buvo senovės pilis Witsby prie Dauguvos, dabartinio Vitebsko vietoje."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "181055-181501; hash=ce1a42d599368d50dd5e04f01d446b750ae2f91951ecfb438197c5c3415286a3; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Dauguva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Karamzinas, Istorija gosudarstva Rossiiskogo: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Dauguva: mention_match, place, gap=84"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Karamzinas, Istorija gosudarstva Rossiiskogo\" parinktas kaip owner_note_path. Targetas \"Dauguva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174608
 
@@ -52,21 +37,6 @@ Pasak Teodoro Narbuto, Karamzinas rašė, kad vibionų, arba vitbionų, sostinė
 - t-002
   global_id: t-191727
   teiginys: "Teodoras Narbutas Karamzinui priskyrė aiškinimą, kad Serkel, Biala wieza, Biata wies ir Bieloserkal reiškia baltą namą, palapinę, turgų, užeigą ar smuklę."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "193162-193538; hash=84ce1daef3bae3eed8de162f68aab67358d3ff4f4c8374deac662b61c48da28c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Biala: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Karamzinas, Istorija gosudarstva Rossiiskogo: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Biala: mention_match, place, gap=43"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Karamzinas, Istorija gosudarstva Rossiiskogo\" parinktas kaip owner_note_path. Targetas \"Biala\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174609
 ## Reikšmingi paminėjimai
@@ -85,8 +55,8 @@ Pasak Teodoro Narbuto, Karamzinas rašė, kad vibionų, arba vitbionų, sostinė
     nustatyti, kuriai giminei priklausė šios tautos; jos pasi­
     meta sarmatų genčių sūkuryje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -105,8 +75,8 @@ Pasak Teodoro Narbuto, Karamzinas rašė, kad vibionų, arba vitbionų, sostinė
     visa tai reiškia vieną ir tą patį: baltas namas, balta pa­
     lapinė, turgus, užeiga, smuklė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -117,7 +87,8 @@ Pasak Teodoro Narbuto, Karamzinas rašė, kad vibionų, arba vitbionų, sostinė
 - id: c-174608
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 101"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 101."
   citata_originali: |
     Toliausiai į pietryčius gyveno
     stūmiai (turėtų būti Stirnii), kurių gyvenamųjų vietų
@@ -138,7 +109,8 @@ Pasak Teodoro Narbuto, Karamzinas rašė, kad vibionų, arba vitbionų, sostinė
 - id: c-174609
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 108"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 108."
   citata_originali: |
     102
     Poloviečiai-lietuviai. Esama įvairių tyrimų, prielaidų

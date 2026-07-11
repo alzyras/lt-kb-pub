@@ -62,16 +62,6 @@ media_all_json: |-
 - t-005
   global_id: t-05395
   teiginys: "Visas veikalo dėstymas sutelkiamas apie lietuvių tautos valstybingumo idėją."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "10783-11236; hash=5d2c4a900203e51abb224bbbcfd284708bb9ed55395fec332c528173d13a1ec0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.): owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-03588
 
@@ -79,16 +69,6 @@ media_all_json: |-
 - t-006
   global_id: t-05396
   teiginys: "Zenono Ivinskio veikale Lietuvos istorija pradedama XII a. pabaiga, kai lietuvių žygiai jau grindžiami rašytiniais šaltiniais."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "11548-12090; hash=ed4d2d1e63058a5a832eedca94431011bc28ffb4fc4d248af218963548b4d6e3; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.): owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=24"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-03589
 
@@ -96,19 +76,6 @@ media_all_json: |-
 - t-007
   global_id: t-05397
   teiginys: "Zenonas Ivinskis mirė 1971 m. gruodžio 24 d., nebaigęs numatyto plano, o tomą redagavo ir spragas užpildė Paulius Jatulis."
-  temporaliniai_duomenys: "įvykio data: iki 1492 m.; įvykio data: 1492 m.; įvykio data: 1970 m.; įvykio data: 1971 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko aiškų sakinį apie autorių, tomo būklę ir redaktorių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "24815-25143; hash=0e4a0c2759b96516145a14a1724d47ec67064f48f2b2e7a7260cc0650e8b3e41; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Tomas (Hertvigo iš Pokarvių sūnus): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.): owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Tomas (Hertvigo iš Pokarvių sūnus): mention_match, person, gap=73"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)\" parinktas kaip owner_note_path. Targetas \"Tomas (Hertvigo iš Pokarvių sūnus)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-03483
 
@@ -116,11 +83,6 @@ media_all_json: |-
 - t-008
   global_id: t-05398
   teiginys: "Redakcinė pastaba pasirašyta Romoje 1975 m. spalio 15 d."
-  temporaliniai_duomenys: "įvykio data: 1975 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "25152-25183; hash=913bdbf59aee2dc55eb248a9bc50cec2c843295523d00ebd7ba9d0d983dad93f; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-03591
 
@@ -128,18 +90,6 @@ media_all_json: |-
 - t-009
   global_id: t-05399
   teiginys: "Autoriaus pratarmė pasirašyta Bonoje 1970 m. spalio 15 d."
-  temporaliniai_duomenys: "įvykio data: 1970 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "24679-24809; hash=867c8bb03bb17bbb57a31952e735a045bd9e1ec18711573215ed7c911f06c95e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.): owner_note_path, source"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-03484
 
@@ -147,9 +97,6 @@ media_all_json: |-
 - t-010
   global_id: t-05400
   teiginys: "Pratarmėje aiškiai teigiama, kad pragmatiškai didaktinį istorijos rašymo būdą turi pakeisti genetinis, priežastinis metodas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "10150-10782; hash=142c121359af81c3a483c939bb838f759b258ebf5329a570c0bc5179c07f43ac; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-03587
 
@@ -157,18 +104,6 @@ media_all_json: |-
 - t-011
   global_id: t-05401
   teiginys: "Redakcinėje pastaboje nurodoma, kad iš trijų sumanytų Lietuvos istorijos tomų pirmasis tesiekia Vytauto Didžiojo laikus, nors buvo planuotas iki 1492 m., o įvadas liko nebaigtas."
-  temporaliniai_duomenys: "įvykio data: iki 1492 m.; įvykio data: 1492 m.; įvykio data: 1970 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "24815-25143; hash=0e4a0c2759b96516145a14a1724d47ec67064f48f2b2e7a7260cc0650e8b3e41; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.): owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-03483
 ## Reikšmingi paminėjimai
@@ -183,8 +118,8 @@ media_all_json: |-
     rašytas 1970 m.
     Šį tomą redagavo, spragas užpildydamas, Paulius Jatulis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -199,8 +134,8 @@ media_all_json: |-
     **Zenonas Ivinskis**
     Bonn, 1970 m. spalių mėn. 15 d.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -221,8 +156,8 @@ media_all_json: |-
     ninės reikšmės turinčių įvykių psichofizinį _priežastingumą_ (Ernst
     Bernheim).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -239,8 +174,8 @@ media_all_json: |-
     vedamoji mintis per visus šimtmečius. Ji paryškinta politinio,
     religinio, kultūrinio bei ūkinio gyvenimo faktais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -260,8 +195,8 @@ media_all_json: |-
     Šitoje _apžvalginėje_ Lietuvos istorijoje yra stengiamasi panaudoti
     ikišiolinės tyrinėjimų išdavos ištisų laikotarpių ir atskirų temų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -272,8 +207,8 @@ media_all_json: |-
   citata_originali: |
     Roma, 1975 m. spalių mėn. 15 d.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

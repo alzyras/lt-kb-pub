@@ -40,16 +40,6 @@ Gruševskij : Očerki istorii Kievskoj zemli (Kijevas 1891) ; Istorija Ukraini-R
 - t-001
   global_id: t-31711
   teiginys: "Mychailo Gruševskis parašė „Istorija Ukraini-Rusi“."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "248433-248857; hash=83dacb4548e94b253b81778c47c4b001f37a725eaa8f8c99486c3e1478ef9337; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Maskva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Istorija Ukraini-Rusi: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Maskva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Istorija Ukraini-Rusi\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-33580
 ## Reikšmingi paminėjimai
@@ -65,8 +55,8 @@ Gruševskij : Očerki istorii Kievskoj zemli (Kijevas 1891) ; Istorija Ukraini-R
     načalo i_** **«** **_sobornost' » v Kievskoj mitropolitij v XVI i XVII vekach,_** **Varšuva
     1930;** **_Ustrój wewnętrzny Kościoła ruskiego w W. Ks.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

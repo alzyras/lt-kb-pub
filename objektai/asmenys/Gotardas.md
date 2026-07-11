@@ -38,22 +38,6 @@ Mazovijos kunigaikščio Konrado laikais Uchanės grafas Gotardas, Lukošiaus s�
 - t-001
   global_id: t-191405
   teiginys: "Mazovijos kunigaikščio Konrado laikais Uchanės grafas Gotardas, Lukošiaus sūnus, kautynėse suėmė septynis jotvingių kunigaikštukus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Gotardas puolė Jotvingiai (0.82)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "218084-218884; hash=ea9367d63015f6ec3f7c1f3dd4f077597fdbcd3b0de8d28615f6f6bb781256d5; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Jotvingiai: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gotardas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Jotvingiai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Gotardas kautynėse suėmė jotvingių kunigaikštukus, todėl tai karinis veiksmas prieš jotvingius."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174287
 ## Reikšmingi paminėjimai
@@ -79,8 +63,8 @@ Mazovijos kunigaikščio Konrado laikais Uchanės grafas Gotardas, Lukošiaus s�
     jotvingių vadai: Sutras Monoduničius ir Stegutas Zebro-
     vičius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -91,7 +75,8 @@ Mazovijos kunigaikščio Konrado laikais Uchanės grafas Gotardas, Lukošiaus s�
 - id: c-174287
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 122"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 122."
   citata_originali: |
     Ma­
     tyti, jog lietuvių padedami jie išsivadavo iš svetimųjų
@@ -115,6 +100,3 @@ Mazovijos kunigaikščio Konrado laikais Uchanės grafas Gotardas, Lukošiaus s�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191405
-
-## Ryšiai
-- Gotardas puolė [[objektai/grupes/Jotvingiai]]

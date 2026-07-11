@@ -43,9 +43,6 @@ media_all_json: |-
 - t-002
   global_id: t-67276
   teiginys: "Kovoje padėjo budrumas ir geras miško pažinimas, iki kiekvieno kelmo ir krūmelio."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "909255-909417; hash=3d06df32eef534e9b7f09cfd000857234cc8eefe230b313b1855b5b755380a94; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-43190
 ## Reikšmingi paminėjimai
@@ -59,8 +56,8 @@ media_all_json: |-
     kokią valandą iki mūšio, - toliau prisimena
     J.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

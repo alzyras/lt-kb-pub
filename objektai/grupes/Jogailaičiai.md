@@ -44,22 +44,6 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
 - t-005
   global_id: t-110661
   teiginys: "1515 m. Vienos suvažiavimo kontekste Habsburgai, varžydamiesi su Jogailaičiais dėl Čekijos ir Vengrijos, nustojo remti Vokiečių ordiną ir Maskvą."
-  semantiniai_rysiai: "Habsburgai buvo priešas Jogailaičiai (0.86)"
-  temporaliniai_duomenys: "įvykio data: 1514 m.; įvykio data: 1515 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Originalus teiginys per ilgas ir vertinamasis; citata palaiko glaustesnį faktinį sakinį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "348371-348691; hash=9dc03506e2a094327d699120c9ca485b6934a57a2d681370afb5856a75a5450a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_priesas -> Jogailaičiai: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Habsburgai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Jogailaičiai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata tiesiogiai įvardija Habsburgų kovą su Jogailaičiais."
-  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-102463
 
@@ -67,16 +51,6 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
 - t-003
   global_id: t-110662
   teiginys: "Dviejų paskutiniųjų Jogailaičių paaukštintas miestiečių luomas valdant Steponui turėjo stiprų karaliaus palaikymą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "601358-602140; hash=80201b9c6a163fd89a9642bc5627981f2ca5388f080cf3bf2b70ed4b22ebe81b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> luomas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jogailaičiai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "luomas: mention_match, thing, gap=36"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jogailaičiai\" parinktas kaip owner_note_path. Targetas \"luomas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-102461
 
@@ -84,16 +58,6 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
 - t-004
   global_id: t-110663
   teiginys: "Dviejų paskutiniųjų Jogailaičių laikais miestiečių luomas buvo paaukštintas iki tikrųjų piliečių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "601358-602140; hash=80201b9c6a163fd89a9642bc5627981f2ca5388f080cf3bf2b70ed4b22ebe81b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> luomas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jogailaičiai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "luomas: mention_match, thing, gap=31"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jogailaičiai\" parinktas kaip owner_note_path. Targetas \"luomas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-102461
 
@@ -101,16 +65,6 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
 - t-001
   global_id: t-110664
   teiginys: "Gediminaičių ir Jogailaičių dinastijų palikuonys siejami su žinomiausiomis Europos monarchijomis."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "540215-540705; hash=9e480c54e3dedcb88b7ac96bcdebd502d58a7b52eb56ca083344165ad402a7a3; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Europa: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jogailaičiai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=59"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jogailaičiai\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-22426
 
@@ -118,12 +72,6 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
 - t-006
   global_id: t-193537
   teiginys: "Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms žinomiausioms Europos monarchijoms ir nuo to mes jaučiamės smagiau."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "540317-540838; hash=cd7d0c42560dc31a4079d9799014341b3dc7a1cf495200405d9e902032ebd4b0; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176217
 - susijęs iš [[objektai/asmenys/Motiejus Huniadis.md#claim-t-79132|Motiejus Huniadis]]: Motiejus Huniadis buvo Jogailaičiams priešiškas Vengrijos karalius ir mirė 1490 m.
@@ -177,8 +125,8 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
     dinastijų palikuonys perdavė savo genus visoms žinomiausioms Europos
     monarchijoms ir nuo to mes jaučiamės smagiau.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -203,8 +151,8 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
     panoro ne tik pripažinti jam senąjį įžymumą, bet padaryti
     dar ir naujų, amžiui priderančių, laisvių dalyviu72.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -226,8 +174,8 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
 
     1514 m. rugsėjo 8 d. ORŠOS MŪŠIS 85
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -246,8 +194,8 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
     šeimų, aristokratų, o Amerikai ir Europai – darbščių angliakasių, statybi-
     ninkų, audėjų, auklių, inžinierių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -350,4 +298,4 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
     - t-193537
 
 ## Ryšiai
-- Priešai: [[objektai/grupes/Habsburgai]], [[objektai/asmenys/Motiejus Huniadis]]
+- Priešai: [[objektai/asmenys/Motiejus Huniadis]]

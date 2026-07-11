@@ -30,19 +30,6 @@ Karalius atsakė, kad svarbiais valstybės reikalais negali nieko nutarti be luo
 - t-001
   global_id: t-185356
   teiginys: "Karalius atsakė, kad svarbiais valstybės reikalais negali nieko nutarti be luomų pritarimo."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "649556-650050; hash=37779191052ba28c3c071fbaf60ee752c96f4bc8c8cd6293e312c14e6381d7ff; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenčica: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "luomai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lenčica: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"luomai\" parinktas kaip owner_note_path. Targetas \"Lenčica\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-168717
 
@@ -50,19 +37,6 @@ Karalius atsakė, kad svarbiais valstybės reikalais negali nieko nutarti be luo
 - t-002
   global_id: t-185357
   teiginys: "Bajorų luomui pripažintos lengvatos neturėjo būti teikiamos nekatalikams, atsisakiusiems paklusti popiežiui."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "670695-671155; hash=2c376bf29526c7d5726bbd5511012c30143e21c11aea2e1d5a2d4190c985bbf4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Bajorai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "luomai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Bajorai: mention_match, group, gap=7"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"luomai\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-168718
 
@@ -70,19 +44,6 @@ Karalius atsakė, kad svarbiais valstybės reikalais negali nieko nutarti be luo
 - t-003
   global_id: t-185358
   teiginys: "Korčino seimo luomų susirinkime Goštautas ir Rumbaudas išdėstė Vytauto reikalavimus dėl vainikavimo."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "734419-734797; hash=b0f019830111a0541197eeb319608c3c238161a7b1498b88b3afb35e0cd35fe7; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Goštautas (vyskupas, XV a.): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "luomai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Goštautas (vyskupas, XV a.): mention_match, person, gap=18"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"luomai\" parinktas kaip owner_note_path. Targetas \"Goštautas (vyskupas, XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-168719
 
@@ -90,19 +51,6 @@ Karalius atsakė, kad svarbiais valstybės reikalais negali nieko nutarti be luo
 - t-004
   global_id: t-185359
   teiginys: "Karalius ir luomai nusprendė pasiūlyti Vytautui Lenkijos karalystės vainiką."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "737011-737752; hash=b10d70edb3742a32acd061bb10006ed5e8c97dc393ec44563cf0944a9abdbd62; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "luomai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=36"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"luomai\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-168720
 
@@ -110,12 +58,6 @@ Karalius atsakė, kad svarbiais valstybės reikalais negali nieko nutarti be luo
 - t-006
   global_id: t-185361
   teiginys: "Pasiuntiniams buvo uždrausta ką nors spręsti, todėl apie viską jie turėjo pranešti Bresto seime susirinkusiems luomams."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1325015-1325549; hash=b4c6d09438753acb66526f63b4c610ab990296ed853686cb6a982009af44decb; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-168722
 
@@ -123,12 +65,6 @@ Karalius atsakė, kad svarbiais valstybės reikalais negali nieko nutarti be luo
 - t-007
   global_id: t-193380
   teiginys: "N o rs L ietuvos luom ai šiuo m etu įsitrau k ę į k a m u o ja n tį ir grėsm ingą k arą, vis dėlto, p arag in ti k a raliau s Ž y gim anto A ugusto, jie n o riai su v ažiav ę į B restą, k u r t a rėsi dėl būd ų g alu tin ai L ietuvą su v ien y ti su L enkija."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1323100-1323567; hash=0dee1294ec1746eafe561e90955383be7ecd288e2a05e6a8c6dd581d0bf97c8d; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176105
 - susijęs iš [[objektai/asmenys/Augustas.md#claim-t-185940|Augustas]]: Augustas gavo valdyti Lietuvos Didžiąją Kunigaikštystę, kai karalius dėl metų ir ligų perdavė jam valdymą, o luomai tam pritarė.
@@ -196,8 +132,8 @@ Karalius atsakė, kad svarbiais valstybės reikalais negali nieko nutarti be luo
     je svarbiais reikalais nieko negalįs nutarti be luomų
     pritarimo. Atleidęs žygūną, jis sušaukė Lenčicoje seimą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -219,8 +155,8 @@ Karalius atsakė, kad svarbiais valstybės reikalais negali nieko nutarti be luo
     tiems, kurie neišpažįsta katalikų tikėjimo ir išsižada
     paklusnumo popiežiui.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -240,8 +176,8 @@ Karalius atsakė, kad svarbiais valstybės reikalais negali nieko nutarti be luo
     žiūri vien savo reikalų, taip ryžtingai reikalaująs, kad
     karalius bei karalystės luomai pritartų jo vainikavimui.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -266,8 +202,8 @@ Karalius atsakė, kad svarbiais valstybės reikalais negali nieko nutarti be luo
     jis nepadarysiąs jokios žalos valstybei ir patenkinsiąs
     didžiai iškilnius savo siekius.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -287,8 +223,8 @@ Karalius atsakė, kad svarbiais valstybės reikalais negali nieko nutarti be luo
     įstatym ai, p riv ileg ijo s, p ap ro čiai, p ag aliau  L ietuvos Di­
     džiosios K unig aik šty stės sienos.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -307,8 +243,8 @@ Karalius atsakė, kad svarbiais valstybės reikalais negali nieko nutarti be luo
     rėsi dėl būd ų  g alu tin ai L ietuvą su v ien y ti su L enkija
     u n ijo s p ag rin d ais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -344,7 +280,8 @@ Karalius atsakė, kad svarbiais valstybės reikalais negali nieko nutarti be luo
 - id: c-168718
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 383"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 383."
   citata_originali: |
     Visi Lietuvos
     iuvoje
@@ -367,7 +304,8 @@ Karalius atsakė, kad svarbiais valstybės reikalais negali nieko nutarti be luo
 - id: c-168719
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 418"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 418."
   citata_originali: |
     Į Korčino seimą Vytautas iš pradžių nusiuntė Vil­
     niaus vaivadą Goštautą bei Lietuvos maršalą Rumbaudą.
@@ -388,7 +326,8 @@ Karalius atsakė, kad svarbiais valstybės reikalais negali nieko nutarti be luo
 - id: c-168720
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 420"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 420."
   citata_originali: |
     Beje, ir Jogaila, smarkiai pasenęs ir su­
     vokęs, jog valdymo našta dabar kur kas sunkesnė, nei
@@ -414,7 +353,8 @@ Karalius atsakė, kad svarbiais valstybės reikalais negali nieko nutarti be luo
 - id: c-168722
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 734"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 734."
   citata_originali: |
     K okį atsak y m ą
     g avo p asiuntin iai, šaltin iai n erašo . K ad iš esm ės n iek o
@@ -435,7 +375,8 @@ Karalius atsakė, kad svarbiais valstybės reikalais negali nieko nutarti be luo
 - id: c-176105
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 733"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 733."
   citata_originali: |
     L ietuviai, su šau k ę B reste lu o ­
     m us, n u siu n tė atsto v u s į Liubliną, k u r liepos 8 d. rin ­

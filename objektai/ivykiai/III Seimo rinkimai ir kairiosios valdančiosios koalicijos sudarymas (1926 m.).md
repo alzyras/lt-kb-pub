@@ -59,11 +59,6 @@ Nenurodyta
 - t-010
   global_id: t-45334
   teiginys: "1926 m. gegužės 8–9 d. rinkimuose į 85 vietų III Seimą LKDP blokas pralaimėjo."
-  temporaliniai_duomenys: "įvykio data: 1926 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "311204-311842; hash=73c78a17a6b4a5127c0bebe491a27e77344dc6a2345929eebedacef8685c8c10; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-22939
 
@@ -71,19 +66,6 @@ Nenurodyta
 - t-011
   global_id: t-45335
   teiginys: "1926 m. gegužės 8–9 d. rinkimuose į 85 vietų III Seimą LKDP blokas pralaimėjo po trejų metų valdymo."
-  temporaliniai_duomenys: "įvykio data: 1926 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo rinkimų datą, objektą ir LKDP bloko rezultatą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "311501-311910; hash=0c33c77511057be7c313244f5c14c01d03a42d175f78a7765f4455e191cb06e2; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kazys Grinius: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "III Seimo rinkimai ir kairiosios valdančiosios koalicijos sudarymas (1926 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Kazys Grinius: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"III Seimo rinkimai ir kairiosios valdančiosios koalicijos sudarymas (1926 m.)\" parinktas kaip owner_note_path. Targetas \"Kazys Grinius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-48202
 
@@ -91,11 +73,6 @@ Nenurodyta
 - t-008
   global_id: t-45336
   teiginys: "1926 m. gegužės 8-9 d. rinkimuose į III Seimą pralaimėjo LKDP blokas."
-  temporaliniai_duomenys: "įvykio data: 1926 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "311204-311842; hash=73c78a17a6b4a5127c0bebe491a27e77344dc6a2345929eebedacef8685c8c10; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-22939
 
@@ -103,12 +80,6 @@ Nenurodyta
 - t-009
   global_id: t-45337
   teiginys: "1926 m. birželį naują valdančiąją koaliciją pirmą kartą suformavo kairė: valstiečiai liaudininkai ir socialdemokratai."
-  temporaliniai_duomenys: "įvykio data: 1926 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie koalicijos sudarymą ir remiasi citata."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "311204-311842; hash=73c78a17a6b4a5127c0bebe491a27e77344dc6a2345929eebedacef8685c8c10; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-22939
 ## Reikšmingi paminėjimai
@@ -127,8 +98,8 @@ Nenurodyta
     valstiečiai liaudininkai ir socialdemokratai, prie jų prisidėjo septyni tau-
     tinių mažumų atstovai Seime.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -148,8 +119,8 @@ Nenurodyta
     tinių mažumų atstovai Seime. Prezidentu išrinktas valstiečių liaudininkų
     lyderis Kazys Grinius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

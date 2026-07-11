@@ -44,16 +44,6 @@ Dusburgietis teigia, kad priegliaus intako), o vietovardžiai, kilę iš atitink
 - t-001
   global_id: t-58368
   teiginys: "Kalbinė riba tarp lietuvių ir prūsų Ordino atsikraustymo metu ėjo Priegliumi ir kitomis natūraliomis ribomis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "9254-9736; hash=5f2c44377ba69a6305b37fa4c00624f3fd9473aa0a49e60f0e6fd1848c95b370; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Deimena: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Prieglius: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Deimena: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prieglius\" parinktas kaip owner_note_path. Targetas \"Deimena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-59002
 
@@ -61,20 +51,6 @@ Dusburgietis teigia, kad priegliaus intako), o vietovardžiai, kilę iš atitink
 - t-002
   global_id: t-58369
   teiginys: "Jungtinė prūsų, sūduvių ir lietuvių kariuomenė apgulė Vėluvos pilį Priegliaus pakrantėje."
-  semantiniai_rysiai: "Lietuviai apgulė Vėluva (0.86); Sūduviai apgulė Vėluva (0.86); Lietuviai kariavo prieš Kryžiuočių ordinas (0.76); Sūduviai kariavo prieš Kryžiuočių ordinas (0.76)"
-  temporaliniai_duomenys: "įvykio data: 1262 m.; įvykio data: 1263 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys pilnas ir tiesiogiai paremtas citata apie Vėluvos pilį prie Priegliaus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "19933-20431; hash=14c709d8903f18c2c6d494b516f1feea206497e3f79263f593d72c14e15dd4b4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "apgule -> Vėluva: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Sūduviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vėluva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Jungtinėje kariuomenėje minimi sūduviai, o veiksmas yra Vėluvos pilies apgultis."
   pagrindžia:
     - c-59004
 
@@ -82,20 +58,6 @@ Dusburgietis teigia, kad priegliaus intako), o vietovardžiai, kilę iš atitink
 - t-003
   global_id: t-58370
   teiginys: "1358 m. Lietuvos vyriausybė reikalavo grąžinti kryžiuočių užgrobtas žemes iki Alnos, Priegliaus žemupio ir jūros."
-  semantiniai_rysiai: "Kryžiuočių ordinas užėmė Barta (0.72)"
-  temporaliniai_duomenys: "įvykio data: 1358 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo datą, subjektą ir teritorinį reikalavimą iki Priegliaus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "25151-25539; hash=8251527ba1629d03e2883b43b4a990da3bc2feea99f76dcff2c62c58cfcd2834; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Barta: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Barta: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata priskiria Bartą prie kryžiuočių užgrobtų žemių."
   pagrindžia:
     - c-59000
 
@@ -103,9 +65,6 @@ Dusburgietis teigia, kad priegliaus intako), o vietovardžiai, kilę iš atitink
 - t-005
   global_id: t-58371
   teiginys: "Po sugriovimo miestas buvo perkeltas į slėnį tarp Priegliaus ir pilies."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "395043-395266; hash=106c61f44145b46f9d307aead9e54d6ef1ad46aeda86218de4c55082d07f98c1; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-167578
 
@@ -113,16 +72,6 @@ Dusburgietis teigia, kad priegliaus intako), o vietovardžiai, kilę iš atitink
 - t-004
   global_id: t-58372
   teiginys: "Prūsai pastatė tiltą per Prieglių ir abiejuose jo galuose įrengė tvirtus kuorus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "390593-391601; hash=780844459df274d4c685df68fbdbeeb36f113e2453bed254eb6cd7038e9e427b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kuorai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Prieglius: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kuorai: mention_match, thing, gap=48"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prieglius\" parinktas kaip owner_note_path. Targetas \"Kuorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-59003
 
@@ -130,9 +79,6 @@ Dusburgietis teigia, kad priegliaus intako), o vietovardžiai, kilę iš atitink
 - t-005
   global_id: t-58371
   teiginys: "Po sugriovimo miestas buvo perkeltas į slėnį tarp Priegliaus ir pilies."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "395043-395266; hash=106c61f44145b46f9d307aead9e54d6ef1ad46aeda86218de4c55082d07f98c1; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-167578
 - susijęs iš Vysla: Brunonas išplaukė Vysla į jūrą ir priplaukė krantą Priegliaus žiotyse.
@@ -211,8 +157,8 @@ Dusburgietis teigia, kad priegliaus intako), o vietovardžiai, kilę iš atitink
     grąžinti kryžiuočių užgrobtas žemes iki Alnos upės, Priegliaus žemupio ir jūros39, t. y.
     Sembą, Nadruvą, Bartą ir kt., Baltijos pajūrį tarp Priegliaus ir Dauguvos.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -234,8 +180,8 @@ Dusburgietis teigia, kad priegliaus intako), o vietovardžiai, kilę iš atitink
 
       3 Būga K.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -259,8 +205,8 @@ Dusburgietis teigia, kad priegliaus intako), o vietovardžiai, kilę iš atitink
     kiti kuoruose, tad užvirė tokia atkakli kova, kokią vargu ar kas šiame amžiuje buvo
     matęs vedant nedidelį karių būrį.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -278,8 +224,8 @@ Dusburgietis teigia, kad priegliaus intako), o vietovardžiai, kilę iš atitink
     122), Manto vadovaujami prūsai nusiaubė Kulmo žemę, o po to (1263 m.) visiškai
     sutriuškino kryžiuočius mūšio lauke (III, 123).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -299,8 +245,8 @@ Dusburgietis teigia, kad priegliaus intako), o vietovardžiai, kilę iš atitink
 
           107 (102).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -312,7 +258,8 @@ Dusburgietis teigia, kad priegliaus intako), o vietovardžiai, kilę iš atitink
 - id: c-59000
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 12"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 12."
   citata_originali: |
     Lietuvos pastangas XIV a. 3-ajame dešimtmetyje
     apginti bent Žiemgalą liudija Gedimino titulavimasis „Žiemgalos valdovu ir kunigaikščiu“38.
@@ -330,7 +277,8 @@ Dusburgietis teigia, kad priegliaus intako), o vietovardžiai, kilę iš atitink
 - id: c-59002
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 8"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 8."
   citata_originali: |
     Becenbergeris nustatė, kad
     vietovardžiai, kilę iš lietuviškų žodžių kiemas, upė, kalnas, paplitę į rytus nuo Deimenos
@@ -353,7 +301,8 @@ Dusburgietis teigia, kad priegliaus intako), o vietovardžiai, kilę iš atitink
 - id: c-59003
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 120"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 120."
   citata_originali: |
     103 (98). Apie tai, kaip buvo išardytas prūsų tiltas, pastatytas per Prieglių374
 
@@ -379,7 +328,8 @@ Dusburgietis teigia, kad priegliaus intako), o vietovardžiai, kilę iš atitink
 - id: c-59004
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 11"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 11."
   citata_originali: |
     Priešiškuose lietuviams
     šaltiniuose randame ir vėlesnių, šiuo atveju svarbių žinių. Štai Didžiojo prūsų sukilimo
@@ -399,7 +349,8 @@ Dusburgietis teigia, kad priegliaus intako), o vietovardžiai, kilę iš atitink
 - id: c-167578
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 121-122"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 121-122."
   citata_originali: |
     Šioje vietoje, apie
 
@@ -417,6 +368,3 @@ Dusburgietis teigia, kad priegliaus intako), o vietovardžiai, kilę iš atitink
   pagrindzia:
     - t-184193
     - t-58371
-
-## Ryšiai
-- Užėmė Prieglių: [[objektai/grupes/Kryžiuočių ordinas]]

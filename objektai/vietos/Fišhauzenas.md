@@ -35,17 +35,6 @@ Dusburgietis teigia, kad todėl jie, subūrę kariuomenę, užpuolė Sembos vysk
 - t-002
   global_id: t-58548
   teiginys: "Fišhauzenas, dabartinis Primorskas, buvo gyvenvietė pietvakarių Semboje."
-  semantiniai_rysiai: "Fišhauzenas priklausė Semba (0.80)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "400437-400546; hash=8fd06d0f18d0e366eb43d9b61828446797002d7adc40a320723c2a2a16980a99; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Semba: 0.80"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Fišhauzenas: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Semba: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai lokalizuoja Fišhauzeną Semboje; santykis pateikiamas kaip teritorinis priklausymas."
   pagrindžia:
     - c-59180
 
@@ -53,17 +42,6 @@ Dusburgietis teigia, kad todėl jie, subūrę kariuomenę, užpuolė Sembos vysk
 - t-001
   global_id: t-58549
   teiginys: "Rinavos valsčiaus sembai užpuolė Sembos vyskupo pilį Fišhauzeną, kurioje tuo metu buvo tik vienas brolis ir jo tarnas."
-  semantiniai_rysiai: "Sembai puolė Fišhauzenas (0.95); Sembai gyveno Rinava (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "398868-399243; hash=2db9aed77aa9e1649f7a81503167ea2467210a7ae3fd60c35653bdc4e1360758; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Fišhauzenas: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Sembai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Fišhauzenas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo sembų puolimą prieš Fišhauzeno pilį."
   pagrindžia:
     - c-167538
 
@@ -71,17 +49,6 @@ Dusburgietis teigia, kad todėl jie, subūrę kariuomenę, užpuolė Sembos vysk
 - t-001
   global_id: t-58549
   teiginys: "Rinavos valsčiaus sembai užpuolė Sembos vyskupo pilį Fišhauzeną, kurioje tuo metu buvo tik vienas brolis ir jo tarnas."
-  semantiniai_rysiai: "Sembai puolė Fišhauzenas (0.95); Sembai gyveno Rinava (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "398868-399243; hash=2db9aed77aa9e1649f7a81503167ea2467210a7ae3fd60c35653bdc4e1360758; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Fišhauzenas: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Sembai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Fišhauzenas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo sembų puolimą prieš Fišhauzeno pilį."
   pagrindžia:
     - c-167538
 
@@ -89,14 +56,6 @@ Dusburgietis teigia, kad todėl jie, subūrę kariuomenę, užpuolė Sembos vysk
 - t-004
   global_id: t-194731
   teiginys: "Iš šventojo Adalberto biografijos, kurią parašė Kozmas Prahietis, aiškė ja, kad dabartinio Fišhauzeno miesto apylinkėse, jūros pakran tėje, prūsams užpuolus tą apaštalą, tos minios vadas buvo stab meldžių žynys Siggo, kuris buvo pats pirmasis žudikas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "514528-515039; hash=2bffecb785cf5972d932ffb6cb6d855f6d4464f70393f08a8b03f1145a33df48; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-177127
 - susijęs iš [[objektai/grupes/Sembai.md#claim-t-175079|Sembai]]: Rinavos valsčiuje gyvenę sembai vėl atkrito nuo tikėjimo ir, subūrę kariuomenę, užpuolė Sembos vyskupo Fišhauzeno pilį.
@@ -133,8 +92,8 @@ Dusburgietis teigia, kad todėl jie, subūrę kariuomenę, užpuolė Sembos vysk
     383 D.— Vischusen, Jer.— Vischhûsin; vėliau — Fischhausen (dab. Primorskas) —
     gyvenvietė pietvakarių Semboje.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -151,8 +110,8 @@ Dusburgietis teigia, kad todėl jie, subūrę kariuomenę, užpuolė Sembos vysk
     Todėl jie, subūrę kariuomenę, užpuolė Sembos vyskupo pilį Fišhauzeną383, kur tuo metu
     tebuvo du vyrai: vienas brolis bei jo tarnas. Ir štai kokie stebuklai!
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -173,8 +132,8 @@ Dusburgietis teigia, kad todėl jie, subūrę kariuomenę, užpuolė Sembos vysk
     tėje, prūsams užpuolus tą apaštalą, tos minios vadas buvo stab­
     meldžių žynys Siggo, kuris buvo pats pirmasis žudikas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -185,7 +144,8 @@ Dusburgietis teigia, kad todėl jie, subūrę kariuomenę, užpuolė Sembos vysk
 - id: c-59180
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 123"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 123."
   citata_originali: |
     383 D.— Vischusen, Jer.— Vischhûsin; vėliau — Fischhausen (dab. Primorskas) —
     gyvenvietė pietvakarių Semboje.
@@ -199,7 +159,8 @@ Dusburgietis teigia, kad todėl jie, subūrę kariuomenę, užpuolė Sembos vysk
 - id: c-167538
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 123"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 123."
   citata_originali: |
     Apie Rinavos valsčiaus sembų naują atskalūnybę
 
@@ -218,7 +179,8 @@ Dusburgietis teigia, kad todėl jie, subūrę kariuomenę, užpuolė Sembos vysk
 - id: c-177127
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 294"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 294."
   citata_originali: |
     Signotai (Sigonottaį
     Tai buvo vienuoliai, vienuolijų nariai, kadangi žodis Sigos
@@ -238,4 +200,3 @@ Dusburgietis teigia, kad todėl jie, subūrę kariuomenę, užpuolė Sembos vysk
 
 ## Ryšiai
 - Puolė Fišhauzeną: [[objektai/grupes/Sembai]]
-- Fišhauzenas priklausė [[objektai/vietos/Semba]]

@@ -41,16 +41,6 @@ Tačiau Vatikanas 1925 metais sudarė konkordatą su Lenkija, visai neatsižvelg
 - t-001
   global_id: t-181301
   teiginys: "Užmezgusi oficialius santykius su Vatikanu, Lietuvos vyriausybė siekė sudaryti atskirą Lietuvos bažnytinę provinciją su Vilniaus kraštu."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "1169891-1170347; hash=601a6c5b79ba8d0291941f94c58ccc6bcedc0673277b1dc24116635ae16c2e55; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vatikanas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=10"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vatikanas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-164858
 - susijęs iš [[objektai/asmenys/A. Voldemaras.md#claim-t-78000|A. Voldemaras]]: 1927 m. rugsėjo 27 d. A. Voldemaras Romoje pasirašė konkordatą su Vatikanu dėl Lietuvos katalikų bažnyčios padėties valstybėje.
@@ -89,8 +79,8 @@ Tačiau Vatikanas 1925 metais sudarė konkordatą su Lenkija, visai neatsižvelg
     tokį Vatikano elgesį, kurio negalima buvo laikyti bešališku, ir
     dėl to santykiai su Vatikanu nutrūko.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

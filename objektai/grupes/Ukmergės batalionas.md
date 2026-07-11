@@ -32,17 +32,6 @@ Kubiliaus vadovaujamas Ukmergės batalionas, nepaisydamas smarkios priešo ugnie
 - t-001
   global_id: t-39008
   teiginys: "J. Kubiliaus vadovaujamas Ukmergės batalionas išmušė bolševikus iš apkasų, užėmė kelis kaimus ir vėliau išstūmė rusus iš giluminių pozicijų."
-  semantiniai_rysiai: "Ukmergės batalionas puolė Rusai (0.74)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "768885-769203; hash=d1081d5a5bd7618929a14b49144f1ec70ef5c028d7b085fc842400af74afa408; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Rusai: 0.74"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Ukmergės batalionas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Rusai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Ukmergės bataliono kariai tiesiogiai aprašyti kaip išstūmę rusus iš pozicijų."
   pagrindžia:
     - c-40812
 - susijęs iš [[objektai/asmenys/J. Kubilius.md#claim-t-40157|J. Kubilius]]: J. Kubiliaus vadovaujamas Ukmergės batalionas išmušė bolševikus iš apkasų ir užėmė keletą kaimų.
@@ -60,8 +49,8 @@ Kubiliaus vadovaujamas Ukmergės batalionas, nepaisydamas smarkios priešo ugnie
     Ukmergės bataliono kariai išstūmė rusus
     ir iš jų gilumoje buvusių pozicijų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -88,7 +77,3 @@ Kubiliaus vadovaujamas Ukmergės batalionas, nepaisydamas smarkios priešo ugnie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-39008
-
-## Ryšiai
-- Ukmergės batalionas puolė [[objektai/grupes/Rusai]]
-- Ukmergės batalionas kariavo prieš [[objektai/grupes/Rusai]]

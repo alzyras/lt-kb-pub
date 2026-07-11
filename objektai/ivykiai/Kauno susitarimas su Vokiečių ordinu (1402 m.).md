@@ -57,17 +57,6 @@ Nenurodyta
 - t-001
   global_id: t-34452
   teiginys: "Kaune Vytautas be Lenkijos žinios suteikė Vokiečių ordinui teisę abipus Nevėžio statytis malūnus ir pažadėjo jam pagalbą."
-  semantiniai_rysiai: "Kryžiuočių ordinas gynė Vytautas (Lietuvos valdovas, XIV–XV a.) (0.84); Vytautas (Lietuvos valdovas, XIV–XV a.) rėmė Kryžiuočių ordinas (0.80)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "436645-437106; hash=e63e46bf414b176f7e77b31b2c7db480aa9a5c925dd60874a4beb9e1010dc30a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyne -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.84"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Ordinas tiesiogiai įsipareigojo ginti Vytautą nuo jo priešininkų."
   pagrindžia:
     - c-35678
 
@@ -75,16 +64,6 @@ Nenurodyta
 - t-002
   global_id: t-34453
   teiginys: "Kitą dieną po Kauno susitarimo Vokiečių ordinas pažadėjo po Vytauto mirties globoti jo žmoną Oną ir ginti jos teises į jos dalį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "437354-437763; hash=813b00a93f0daa0d0fc3a76e0088221550aa98cca8a6980c3d3eb4a5942a2505; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kaunas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kauno susitarimas su Vokiečių ordinu (1402 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Kaunas: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kauno susitarimas su Vokiečių ordinu (1402 m.)\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-35677
 
@@ -92,19 +71,6 @@ Nenurodyta
 - t-003
   global_id: t-184232
   teiginys: "Po Kauno susitarimo Ordinas atskiru dokumentu pažadėjo Vytautui mirus globoti Oną ir ginti jos teises į jos dalį."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "437263-437678; hash=58a0a138ba66063f71e4ef8f695702e35d030bee160b7478444a2af2c2647dcb; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kaunas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kauno susitarimas su Vokiečių ordinu (1402 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Kaunas: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kauno susitarimas su Vokiečių ordinu (1402 m.)\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-167616
 ## Reikšmingi paminėjimai
@@ -121,8 +87,8 @@ Nenurodyta
     Šie Vytauto nedraugingi žygiai Lenkijos atžvilgiu negalėjo
     nepasiekti Krokuvos ausų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -140,8 +106,8 @@ Nenurodyta
     karalių^4 ), bet ši nauja sutartis aiškiausiai prieštaravo jo praeitų
     metų pasižadėjimams.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -160,8 +126,8 @@ Nenurodyta
     riai buvo Vilniaus aktu pažadėta kunigaikštienės dalis po jos
     mirties Lenkijai grąžinti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -39,21 +39,6 @@ GariavaO p 2 KAISADORYS Riešė pyp AL Naručio apylinkėse puolė dvi partizan�
 - t-001
   global_id: t-41956
   teiginys: "1951 m. kovo 19 d. MGB vidaus kariuomenės 137-ojo šaulių pulko kareiviai Naručio apylinkėse puolė dvi partizanų žemines."
-  temporaliniai_duomenys: "įvykio data: 1949 m.; įvykio data: 1951 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Verta papildyti citatoje nurodytu dalinio numeriu ir pašalinti platesnį OCR triukšmą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "984488-985425; hash=1ac6ed59f5a6dcf8e983b31c64bf54f9e544455db346c819062b13abf2b6fb4e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Giedraičiai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Naručio apylinkės: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Giedraičiai: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Naručio apylinkės\" parinktas kaip owner_note_path. Targetas \"Giedraičiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-45233
 ## Reikšmingi paminėjimai
@@ -79,8 +64,8 @@ GariavaO p 2 KAISADORYS Riešė pyp AL Naručio apylinkėse puolė dvi partizan�
     PRIENAPĖSSJ — demas Aukštadvoris -——4 ners OAstravas SN PADAUGYVENES KAUTYNES
     Bisétonas Cea o ae 1 ORudamina pr = DanušavaO | Vaistamkas 1949 m. sausio 25 d. Smilgių vIsč.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

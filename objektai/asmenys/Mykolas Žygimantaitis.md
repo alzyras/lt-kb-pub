@@ -30,12 +30,6 @@ Mykolas Žygimantaitis ėmė labai bijoti, pabėgo į Brianską, į savo tolimia
 - t-001
   global_id: t-194084
   teiginys: "Mykolas Žygimantaitis ėmė labai bijoti, pabėgo į Brianską, į savo tolimiausią miestą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "232288-232592; hash=61d3e16a7a2bfc02ede0bfe4d1a0dd51bbb545f98010e4be4690b300f2b5401c; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176697
 
@@ -43,12 +37,6 @@ Mykolas Žygimantaitis ėmė labai bijoti, pabėgo į Brianską, į savo tolimia
 - t-002
   global_id: t-194085
   teiginys: "Mykoliukas, išgirdęs, kad atžygiuoja Lietuvos ka riuomenė, pabūgo ir iš tų miestų pabėgo į Maskvą l5."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "232680-232965; hash=ff017e67ca191c951cdc2a59e62f00f625b853f6e0762c9a902a89fbfb497ec9; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176698
 
@@ -56,12 +44,6 @@ Mykolas Žygimantaitis ėmė labai bijoti, pabėgo į Brianską, į savo tolimia
 - t-003
   global_id: t-194086
   teiginys: "1 1 Mykolas (.,MykoIiukas\"| — paskutinis žinomas Kęstučio gimi nės vyriškasis palikuonis, Žygimanto Kęstutaičio ir jo žmonos ku nigaikštytės Odincevlčlūtės sūnus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "521424-521618; hash=47985eb838dc364d3e17a515811638ca370650f605a347a45db818dc8211b4d6; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176699
 
@@ -69,12 +51,6 @@ Mykolas Žygimantaitis ėmė labai bijoti, pabėgo į Brianską, į savo tolimia
 - t-004
   global_id: t-194087
   teiginys: "VI, p. 56) nurodo, kad Mykolas 2ygimantaitis buvo užėmęs Starodubą ir Sevcrsko Naugardą; kitų pilių jis neišvardija."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "559635-559940; hash=8769a4f55bd8eabfca2bd1079cd9b47076611162c35abc16bfe4bd49308fd7e1; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176700
 ## Reikšmingi paminėjimai
@@ -91,8 +67,8 @@ Mykolas Žygimantaitis ėmė labai bijoti, pabėgo į Brianską, į savo tolimia
     vo Lietuvos jėgas ir skubiai siunčia savo globėją Joną
     Goštautą ".
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -109,8 +85,8 @@ Mykolas Žygimantaitis ėmė labai bijoti, pabėgo į Brianską, į savo tolimia
     mirtinų nuodų. Kai tik jis priėmė ir nurijo, tuoj pat
     krito negyvas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -125,8 +101,8 @@ Mykolas Žygimantaitis ėmė labai bijoti, pabėgo į Brianską, į savo tolimia
     nės vyriškasis palikuonis, Žygimanto Kęstutaičio ir jo žmonos ku­
     nigaikštytės Odincevlčlūtės sūnus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -142,8 +118,8 @@ Mykolas Žygimantaitis ėmė labai bijoti, pabėgo į Brianską, į savo tolimia
     tik iš Bychovco kronikos ir M. Strijkovskio (Kronika, p. 568); dau­
     gumas istorikų laiko šią žinią patikima.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -173,7 +149,8 @@ Mykolas Žygimantaitis ėmė labai bijoti, pabėgo į Brianską, į savo tolimia
 - id: c-176698
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 131"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 131."
   citata_originali: |
     Mykoliukas, išgirdęs, kad atžygiuoja Lietuvos ka­
     riuomenė, pabūgo ir iš tų miestų pabėgo į Maskvą l5.

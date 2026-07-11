@@ -51,11 +51,6 @@ A. Vijūkas Kojelavičius viešuose įrašuose jau minimas kaip lotyniškos Liet
 - t-003
   global_id: t-187924
   teiginys: "Kojelavičius Pagraudenę vadino apylinke Žemaitijoje."
-  teiginio_tipas: "faktas"
-  susije_objektai: "mentioned_place: Pagraudenė; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "126145-126601; hash=ceabc446aa391d0490ebb0f2ff05ea01bac31969faabb9984c16ddc766b38223; match=exact"
-  sprendimo_priezastis: "gap::authors"
   pagrindžia:
     - c-170916
 
@@ -63,15 +58,6 @@ A. Vijūkas Kojelavičius viešuose įrašuose jau minimas kaip lotyniškos Liet
 - t-005
   global_id: t-187925
   teiginys: "Amžininko Alberto Vijūko-Kojelavičiaus teigimu, Lenkijos kariuomenė dažnai stodavo į mūšį nepasvėrusi savo jėgų, vedina paniekos priešui."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys yra pilnas, gramatiškas ir paremtas citata."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Lenkijos kariuomenė|Lenkijos kariuomenė]]; mentioned_place: Lenkija; mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_place: Mozyrius; mentioned_place: Starodubas; llm_object: Mozyrius; llm_object: Starodubas"
-  temporaliniai_duomenys: "įvykio data: 1648 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "488083-488342; hash=a54f50100f1d44c5f0c5ab0a873bcfd6ff393abe147b55ab59ef11e64b492077; match=exact"
-  sprendimo_priezastis: "gap::authors"
   pagrindžia:
     - c-170913
 
@@ -79,13 +65,6 @@ A. Vijūkas Kojelavičius viešuose įrašuose jau minimas kaip lotyniškos Liet
 - t-007
   global_id: t-187926
   teiginys: "A. Vijūkas-Kojalavičius 1651 m. parašė veikalą „Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus“."
-  teiginio_tipas: "faktas"
-  susije_objektai: "mentioned_place: Lojevas"
-  temporaliniai_duomenys: "įvykio data: 1651 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "494046-494350; hash=818195927f78f87174f353286e99c83c96b93faa86b672234551f944c893807d; match=exact"
-  sprendimo_priezastis: "gap::authors"
   pagrindžia:
     - c-170914
 
@@ -93,12 +72,6 @@ A. Vijūkas Kojelavičius viešuose įrašuose jau minimas kaip lotyniškos Liet
 - t-002
   global_id: t-187927
   teiginys: "A. Vijūkas Kojelavičius Pagraudenę vadino Žemaitijos apylinke."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Citata tiesiogiai patvirtina, kaip Kojelavičius aiškino Pagraudenę."
-  susije_objektai: "mentioned_place: Pagraudenė; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "126145-126601; hash=ceabc446aa391d0490ebb0f2ff05ea01bac31969faabb9984c16ddc766b38223; match=exact"
-  sprendimo_priezastis: "gap::authors"
   pagrindžia:
     - c-170916
 
@@ -106,15 +79,6 @@ A. Vijūkas Kojelavičius viešuose įrašuose jau minimas kaip lotyniškos Liet
 - t-004
   global_id: t-187928
   teiginys: "A. Vijūkas Kojelavičius 1651 m. veikale „Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus“ rašė apie Lojevo mūšį."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Citata pagrindžia veikalo autorystę, datą ir temą."
-  susije_objektai: "mentioned_place: Lojevas"
-  temporaliniai_duomenys: "įvykio data: 1651 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pagrindžia veikalo autorystę, datą ir temą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "494046-494350; hash=818195927f78f87174f353286e99c83c96b93faa86b672234551f944c893807d; match=exact"
-  sprendimo_priezastis: "gap::authors"
   pagrindžia:
     - c-170914
 
@@ -122,10 +86,6 @@ A. Vijūkas Kojelavičius viešuose įrašuose jau minimas kaip lotyniškos Liet
 - t-001
   global_id: t-187929
   teiginys: "A. Vijūkas Kojelavičius buvo nuveikta 3 Stryjkowski, Ks."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "427615-427727; hash=a5395d51644642c362fc93ef435c6995fefa5298079c7010d235c6446750bc1a; match=whitespace_regex"
-  sprendimo_priezastis: "gap::authors"
   pagrindžia:
     - c-170915
 
@@ -133,13 +93,6 @@ A. Vijūkas Kojelavičius viešuose įrašuose jau minimas kaip lotyniškos Liet
 - t-006
   global_id: t-187930
   teiginys: "Albertas Vijūkas-Kojelavičius vertino Lenkijos kariuomenės elgesį kaip dažnai nepasvertą ir vedamą paniekos priešui."
-  teiginio_tipas: "faktas"
-  susije_objektai: "mentioned_author: [[objektai/autoriai/Albertas Vijūkas-Kojelavičius|Albertas Vijūkas-Kojelavičius]]; mentioned_group: [[objektai/grupes/Lenkijos kariuomenė|Lenkijos kariuomenė]]; mentioned_place: Lenkija; mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_place: Mozyrius; mentioned_place: Starodubas; llm_object: Mozyrius; llm_object: Starodubas"
-  temporaliniai_duomenys: "įvykio data: 1648 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "488083-488342; hash=a54f50100f1d44c5f0c5ab0a873bcfd6ff393abe147b55ab59ef11e64b492077; match=exact"
-  sprendimo_priezastis: "gap::authors"
   pagrindžia:
     - c-170913
 - susijęs iš [[objektai/zodynas/pikinierius pikinieriai.md#claim-t-42496|pikinierius pikinieriai]]: Pikinierius buvo svetimšalių autoramento vokiškojo tipo pėstininkas-ietininkas.
@@ -159,8 +112,8 @@ A. Vijūkas Kojelavičius viešuose įrašuose jau minimas kaip lotyniškos Liet
     LDK pietrytinės sritis. Jie siautėjo Pinsko,
     Starodubo ir Mozyriaus apylinkėse.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -179,8 +132,8 @@ A. Vijūkas Kojelavičius viešuose įrašuose jau minimas kaip lotyniškos Liet
     Ištrauka iš A. Vijūko-Kojalavičiaus 1651 metų veikalo ,,Apie 1648 ir 1649 metų žygius
     prieš Zaporožės kazokus“ apie Lojevo mūšį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -196,8 +149,8 @@ A. Vijūkas Kojelavičius viešuose įrašuose jau minimas kaip lotyniškos Liet
     538, ed. warsz. K o j a ł o w i c z, Pars
     II, lib. 3, p. 141.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -219,8 +172,8 @@ A. Vijūkas Kojelavičius viešuose įrašuose jau minimas kaip lotyniškos Liet
     na apylinkę Žemaitijoje: pograudien-
     b C S 7/7 Samogitia agri. Hist. Lithu. p. 436.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

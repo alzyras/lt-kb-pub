@@ -43,17 +43,6 @@ media_all_json: |-
 - t-001
   global_id: t-87545
   teiginys: "Marija buvo Tverės kunigaikštytė ir Algirdo žmona."
-  semantiniai_rysiai: "Marija (Algirdo žmona) buvo žmona Algirdas (Lietuvos valdovas) (0.97)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "80724-81137; hash=cfbcb000c17f50534e7c8e72048de355478dfaf27d673d32a77ce73ad5b2cce7; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_zmona -> Algirdas (Lietuvos valdovas): 0.97"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Marija (Algirdo žmona): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Mariją kaip Algirdo žmoną."
   pagrindžia:
     - c-83524
 
@@ -61,17 +50,6 @@ media_all_json: |-
 - t-002
   global_id: t-87546
   teiginys: "Marija, Algirdo žmona, globojo į Vilnių atvykstančius rusinus ir siekė lietuviams pagonims skleisti graikų apeigų krikščionybę."
-  semantiniai_rysiai: "Marija (Algirdo žmona) buvo žmona Algirdas (Lietuvos valdovas) (0.97)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "93649-94944; hash=ff36f790a30e66fb75fee7ef46f653115f2fccc46638b15748e7a83310b3ee6d; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_zmona -> Algirdas (Lietuvos valdovas): 0.97"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Marija (Algirdo žmona): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata tiesiogiai įvardija Mariją kaip Algirdo žmoną."
   pagrindžia:
     - c-83525
 ## Reikšmingi paminėjimai
@@ -93,8 +71,8 @@ media_all_json: |-
     o graikų apeigų dvasininkams atlikti savo tikėjimo apei­
     gas. Jau Algirdo viešpatavimo pradžioje Šv.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -145,8 +123,8 @@ media_all_json: |-
     ypač užtarė Marija, Algirdo žmona, pasinešusi lietuviams pa­
     gonims skiepyti krikščionišką graikų apeigų tikėjimą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

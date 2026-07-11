@@ -35,16 +35,6 @@ E, p. 70, kuriame esa­ ma tokių žodžių: „Apsupome W ille (tai yra Vilnių
 - t-001
   global_id: t-86862
   teiginys: "Sename vokiečių pranešime Vilnius vadintas lietuvių žemėse pavojingiausiu miestu, kuriame buvo trys įgulų saugomos pilys."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "268461-269276; hash=cd56e553576b9e8ff770e8b2beaf8a34e593c4a436efbe5dd8bfe49b2ee947a0; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvių žemėse patį pavojingiausią miestą: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvių žemėse patį pavojingiausią miestą\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-82841
 ## Reikšmingi paminėjimai
@@ -80,8 +70,8 @@ E, p. 70, kuriame esa­ ma tokių žodžių: „Apsupome W ille (tai yra Vilnių
     lyje ir kitose miesto tvirtovėse lietuviams vadovavo Jogailos
     tikras brolis Kazimieras - kunigaikštis Karigaila.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -35,16 +35,6 @@ media_all_json: |-
 - t-001
   global_id: t-86438
   teiginys: "Magdeburgo teisės ir iš Lenkijos miestų perimtos laisvės pakėlė miestiečių luomo visuomeninę padėtį virš nelaisvų kaimo žmonių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "340127-340823; hash=40134da17301e25d568170f2c32b5f1ff9070c75b4df1ffb998d5f4e626bb3ed; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kaimas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "miestiečių luomas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Kaimas: mention_match, place, gap=50"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"miestiečių luomas\" parinktas kaip owner_note_path. Targetas \"Kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-82419
 
@@ -52,16 +42,6 @@ media_all_json: |-
 - t-003
   global_id: t-86439
   teiginys: "Du paskutiniai Jogailaičiai miestiečių luomą paaukštino iki tikrųjų piliečių, o karalius Steponas jį stipriai palaikė."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "601462-602182; hash=5b339c0bb586667b3e81f35ab7c6f921263bf3e104d25bfa576d30ec0508d857; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Steponas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "miestiečių luomas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Steponas: mention_match, person, gap=61"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"miestiečių luomas\" parinktas kaip owner_note_path. Targetas \"Steponas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-82417
 
@@ -69,16 +49,6 @@ media_all_json: |-
 - t-002
   global_id: t-86440
   teiginys: "Didesniąją Vilniaus miestiečių dalį sudarė graikų apeigų tikėjimą išpažinę rusinai."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "343175-344012; hash=4439cb09425b9b3e88d23110c2377c799d32b59bbf2fd7487abb728d3ef6b712; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "miestiečių luomas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"miestiečių luomas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-82418
 - susijęs iš [[objektai/grupes/Jogailaičiai.md#claim-t-110662|Jogailaičiai]]: Dviejų paskutiniųjų Jogailaičių paaukštintas miestiečių luomas valdant Steponui turėjo stiprų karaliaus palaikymą.
@@ -123,8 +93,8 @@ media_all_json: |-
     PABAIGA
     yra visiškai klaidinga.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -153,8 +123,8 @@ media_all_json: |-
     kakliai Fotijo nuostatų besilaikančių,
     tarp rusinu buvo nemažai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -184,8 +154,8 @@ media_all_json: |-
     pasitaikiusio karinės valdžios kišimosi į municipalinius rei­
     kalus, vis dėlto yra svarbi epocha Vilniaus istorijoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

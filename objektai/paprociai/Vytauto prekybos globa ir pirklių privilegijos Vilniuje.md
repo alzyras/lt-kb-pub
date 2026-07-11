@@ -55,17 +55,6 @@ Nenurodyta
 - t-001
   global_id: t-87237
   teiginys: "Vytautas globojo pirklius, o Vilniaus prekyba išsiplėtė su Prūsijos, Livonijos, Pskovo, Naugardo ir Maskvos miestais."
-  semantiniai_rysiai: "Vilnius prekiavo su Naugardas (0.92); Vilnius prekiavo su Maskva (0.92)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "297260-298180; hash=34208c6a84fe34b45d984189bcb1dbd4ef0c9111c81b76370b6736156b72470c; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "prekiavo_su -> Maskva: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Maskva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai mini Vilniaus prekybą su Maskvos miestu."
   pagrindžia:
     - c-83216
 
@@ -73,16 +62,6 @@ Nenurodyta
 - t-002
   global_id: t-87238
   teiginys: "Vytauto privilegijos Rygos, vokiečių ir rusų pirkliams liudijo jo pastangas globoti prekybą Vilniuje ir visoje šalyje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "305768-306491; hash=b741caecdb1d67a9a6b3492d0360e6c8931c1958ed093177b05d559192eadaeb; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Rusai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytauto prekybos globa ir pirklių privilegijos Vilniuje: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Rusai: mention_match, group, gap=40"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytauto prekybos globa ir pirklių privilegijos Vilniuje\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-83217
 ## Reikšmingi paminėjimai
@@ -107,8 +86,8 @@ Nenurodyta
     nius savo dydžiu ir turtais nepasiekė tokių aukštumų, iki ko­
     kių turėjo išaugti būdamas tokios didelės valstybės sostinė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -131,8 +110,8 @@ Nenurodyta
     Vladislovas Jogaila, kai po krikščionybės įvedimo krašto val­
     dymą buvo pavedęs Skirgailai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -15,19 +15,19 @@ tags:
   - kunigaikštis
 amziai: []
 periodo_grupes: []
-media_total_count: '16'
-media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/7/75/Sigismund_I_the_Old%2C_King_of_Poland_%28Zygmunt_I._Stary%29_%28PL_MNK_XII-536_2017_Overall%29.jpg'
-media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3ASigismund_I_the_Old%2C_King_of_Poland_%28Zygmunt_I._Stary%29_%28PL_MNK_XII-536_2017_Overall%29.jpg'
+media_total_count: '14'
+media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/2/2b/%C5%BDygimont_Stary._%D0%96%D1%8B%D0%B3%D1%96%D0%BC%D0%BE%D0%BD%D1%82_%D0%A1%D1%82%D0%B0%D1%80%D1%8B_%28L._Cranach%2C_1565%29.jpg'
+media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3A%C5%BDygimont_Stary._%D0%96%D1%8B%D0%B3%D1%96%D0%BC%D0%BE%D0%BD%D1%82_%D0%A1%D1%82%D0%B0%D1%80%D1%8B_%28L._Cranach%2C_1565%29.jpg'
 media_primary_directness: 'direct'
-media_primary_relation_type: 'portrait_of'
+media_primary_relation_type: 'manuscript_depiction_of'
 media_primary_json: |-
-  {"mediaId":"m-5a8673672d3361359e461941","title":"Sigismund I the Old, King of Poland (Zygmunt I. Stary) (PL MNK XII-536 2017 Overall).jpg","caption":"Portrait of Sigismund I (1467-1548), King of Poland, from the Jagiellonian dynasty","creator":"Lucas Cranach the Younger","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between circa 1553 and circa 1556 date QS:P571,+1553-00-00T00:00:00Z/8,P1319,+1553-00-00T00:00:00Z/9,P1326,+1556-00-00T00:00:00Z/9,P1480,Q5727902","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASigismund_I_the_Old%2C_King_of_Poland_%28Zygmunt_I._Stary%29_%28PL_MNK_XII-536_2017_Overall%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/7/75/Sigismund_I_the_Old%2C_King_of_Poland_%28Zygmunt_I._Stary%29_%28PL_MNK_XII-536_2017_Overall%29.jpg","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1}
+  {"mediaId":"m-91d54e40c92b004f1e0fca80","title":"Žygimont Stary. Жыгімонт Стары (L. Cranach, 1565).jpg","caption":"Žygimanto Senojo miniatiūra","originalTitle":"Žygimont Stary. Жыгімонт Стары (L. Cranach, 1565).jpg","creator":"Lucas Cranach the Younger","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"www.muzeum-czartoryskich.krakow.pl","dateDisplay":"circa 1565 date QS:P571,+1565-00-00T00:00:00Z/9,P1480,Q5727902","dateStart":null,"dateEnd":null,"width":846,"height":950,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A%C5%BDygimont_Stary._%D0%96%D1%8B%D0%B3%D1%96%D0%BC%D0%BE%D0%BD%D1%82_%D0%A1%D1%82%D0%B0%D1%80%D1%8B_%28L._Cranach%2C_1565%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/2/2b/%C5%BDygimont_Stary._%D0%96%D1%8B%D0%B3%D1%96%D0%BC%D0%BE%D0%BD%D1%82_%D0%A1%D1%82%D0%B0%D1%80%D1%8B_%28L._Cranach%2C_1565%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/2b/%C5%BDygimont_Stary._%D0%96%D1%8B%D0%B3%D1%96%D0%BC%D0%BE%D0%BD%D1%82_%D0%A1%D1%82%D0%B0%D1%80%D1%8B_%28L._Cranach%2C_1565%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"rankraštis","label":"rankraštis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Žygimantas Senasis.md","title":"Žygimantas Senasis","itemType":"asmuo","relationType":"manuscript_depiction_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:45:59.761551+03:00","reviewedAt":"2026-07-11T02:47:14.189163+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matosi tas pats barzdoto valdovo biustinis atvaizdas su juoda kepure, kailiniu drabužiu ir rankomis prie stalo.","metadataEvidence":"Pavadinimas „Žygimont Stary“ ir aprašas „Miniature of Sigismund I the Old“ tiesiogiai identifikuoja Žygimantą Senąjį.","confidenceLevel":"high","relationType":"manuscript_depiction_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai istorinė miniatiūra, tiesiogiai vaizduojanti Žygimantą Senąjį.","isPrimary":1}
 media_direct_json: |-
-  [{"mediaId":"m-5a8673672d3361359e461941","title":"Sigismund I the Old, King of Poland (Zygmunt I. Stary) (PL MNK XII-536 2017 Overall).jpg","caption":"Portrait of Sigismund I (1467-1548), King of Poland, from the Jagiellonian dynasty","creator":"Lucas Cranach the Younger","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between circa 1553 and circa 1556 date QS:P571,+1553-00-00T00:00:00Z/8,P1319,+1553-00-00T00:00:00Z/9,P1326,+1556-00-00T00:00:00Z/9,P1480,Q5727902","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASigismund_I_the_Old%2C_King_of_Poland_%28Zygmunt_I._Stary%29_%28PL_MNK_XII-536_2017_Overall%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/7/75/Sigismund_I_the_Old%2C_King_of_Poland_%28Zygmunt_I._Stary%29_%28PL_MNK_XII-536_2017_Overall%29.jpg","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1},{"mediaId":"m-7cdb10de4f7df8dd00989f7c","title":"Anonymous Sigismund I the Old.jpg","caption":"Portrait of Sigismund I the Old. label QS:Lfr,\"Portrait de Sigismond Ier le Vieux.\" label QS:Len,\"Portrait of Sigismund I the Old.\" label QS:Lpl,\"Portret Zygmunta I Starego.\" label QS:Lde,\"Bildnis König Sigismund I.\"","creator":"Anonymous Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1520s date QS:P571,+1520-00-00T00:00:00Z/8","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AAnonymous_Sigismund_I_the_Old.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/41/Anonymous_Sigismund_I_the_Old.jpg","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-b4a4a157f862cb8b9ff85356","title":"Cranach the Younger Sigismund I the Old.jpg","caption":"Polish: Portret Zygmunta I Starego (1467–1548) Portrait of Sigismund I the Old title QS:P1476,pl:\"Portret Zygmunta I Starego (1467–1548) \" label QS:Lpl,\"Portret Zygmunta I Starego (1467–1548) \" label QS:Len,\"Portrait of Sigismund I the Old\" label QS:Lru,\"портрет Сигизмунда I Старого\" label QS:Lde,\"Porträt von Sigismund I. dem Alten\"","creator":"Lucas Cranach the Younger","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"circa 1553 date QS:P571,+1553-00-00T00:00:00Z/9,P1480,Q5727902","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ACranach_the_Younger_Sigismund_I_the_Old.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/68/Cranach_the_Younger_Sigismund_I_the_Old.jpg","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-75d6129ebeecaec0b6b8e920","title":"Dürer Sigismund I Jagiellon.jpg","caption":"Portrait of Sigismund I the Old? (1467–1548), king of Poland label QS:Lfr,\"Portrait de Sigismond Ier Jagellon, roi de Pologne.\" label QS:Len,\"Portrait of Sigismund I Jagiellon, King of Poland.\" label QS:Lpl,\"Portret króla polskiego Zygmunta I Jagiellona.\"","creator":"Hans Dürer the Younger","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1530 date QS:P571,+1530-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AD%C3%BCrer_Sigismund_I_Jagiellon.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/68/D%C3%BCrer_Sigismund_I_Jagiellon.jpg","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-cb98e211ca24e18f5d30ee53","title":"Frumerie Sigismund I the Old.jpg","caption":"Swedish: Sigismund I, 1467-1548, konung av Polen Portrait of Sigismund I the Old. label QS:Len,\"Portrait of Sigismund I the Old.\" label QS:Lpl,\"Portret Zygmunta I Starego.\"","creator":"David Frumerie","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1667 date QS:P571,+1667-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AFrumerie_Sigismund_I_the_Old.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4d/Frumerie_Sigismund_I_the_Old.jpg","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-a8bdcf02b701d7c21622b4fb","title":"Hans Dürer - Portrait of Sigismund I the Old^ (1467–1548), king of Poland - MP 3177 - National Museum in Warsaw.jpg","caption":"Portrait of Sigismund I the Old? (1467–1548), king of Poland title QS:P1476,en:\"Portrait of Sigismund I the Old? (1467–1548), king of Poland \" label QS:Len,\"Portrait of Sigismund I the Old? (1467–1548), king of Poland \" label QS:Lpl,\"Portret króla polskiego Zygmunta I Jagiellona\" label QS:Lfr,\"Portrait de Sigismond Ier Jagellon, roi de Pologne.\"","creator":"Hans Dürer the Younger","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1530","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AHans_D%C3%BCrer_-_Portrait_of_Sigismund_I_the_Old%5E_%281467%E2%80%931548%29%2C_king_of_Poland_-_MP_3177_-_National_Museum_in_Warsaw.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4e/Hans_D%C3%BCrer_-_Portrait_of_Sigismund_I_the_Old%5E_%281467%E2%80%931548%29%2C_king_of_Poland_-_MP_3177_-_National_Museum_in_Warsaw.jpg","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-cd263ed11ec1cf6cb75ad1d3","title":"Jungholz Sigismund I the Old.jpg","caption":"Polish: Portret Zygmunta I Starego Portrait of Sigismund I the Old. title QS:P1476,pl:\"Portret Zygmunta I Starego \" label QS:Lpl,\"Portret Zygmunta I Starego \" label QS:Len,\"Portrait of Sigismund I the Old.\" label QS:Lfr,\"Portrait de Sigismond Ier le Vieux.\"","creator":"Creator:Andreas Jungholz","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1546","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AJungholz_Sigismund_I_the_Old.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/0d/Jungholz_Sigismund_I_the_Old.jpg","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-5f2f53f0b089c2743fd87e5c","title":"Kulmbach Sigismund I the Old.jpg","caption":"Portrait of Sigismund I the Old. label QS:Lfr,\"Portrait de Sigismond Ier le Vieux.\" label QS:Len,\"Portrait of Sigismund I the Old.\" label QS:Lpl,\"Portret Zygmunta I Starego.\" label QS:Lde,\"Bildnis König Sigismund I.\"","creator":"Hans von Kulmbach","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"circa 1511/1518","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKulmbach_Sigismund_I_the_Old.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/19/Kulmbach_Sigismund_I_the_Old.jpg","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-1fd236186e9b2b496619865e","title":"Nieznany malarz polski - Portrait of king Sigismund I the Old (1467–1548) - MP 4984 MNW - National Museum in Warsaw.jpg","caption":"Portrait of king Sigismund I the Old (1467–1548) title QS:P1476,en:\"Portrait of king Sigismund I the Old (1467–1548) \" label QS:Len,\"Portrait of king Sigismund I the Old (1467–1548) \" label QS:Lpl,\"Portret króla Zygmunta I Starego (1467-1548)\"","creator":"anonymous","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between 1750 and 1763 date QS:P,+1750-00-00T00:00:00Z/7,P1319,+1750-00-00T00:00:00Z/9,P1326,+1763-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ANieznany_malarz_polski_-_Portrait_of_king_Sigismund_I_the_Old_%281467%E2%80%931548%29_-_MP_4984_MNW_-_National_Museum_in_Warsaw.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/26/Nieznany_malarz_polski_-_Portrait_of_king_Sigismund_I_the_Old_%281467%E2%80%931548%29_-_MP_4984_MNW_-_National_Museum_in_Warsaw.jpg","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-b06fb172a9a2b87c3edf27fb","title":"Poland-01780 - Sigismund's Chapel (32080184076).jpg","caption":"Sigismund's Chapel one of the masterpieces of Polish architecture. Built as a funerary chapel for the last Jagiellons, it is considered by many art historians as \"the most beautiful example of the Tuscan Renaissance north of the Alps\". Financed by King Sigismund I the Old, it was built in 1519-33 by Bartolomeo Berrecci. A square-based chapel with a golden dome houses the tombs of its founder King Sigismund, as well as King Sigismund II Augustus and Anna Jagiellonka. The inner sculptures, stuccos and paintings were designed by some of the most renowned artists of the age. Wawel Cathedral, home to royal coronations and resting place of many national heroes; considered to be Poland's national sanctuary.","creator":"Dennis G. Jarvis","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 2.0","rightsNote":"Creative Commons Attribution-Share Alike 2.0","dateDisplay":"2016-09-24 09:10","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APoland-01780_-_Sigismund%27s_Chapel_%2832080184076%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d1/Poland-01780_-_Sigismund%27s_Chapel_%2832080184076%29.jpg","relationType":"statue_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-3cd43a84e01112c57a63efb5","title":"Sigismund I of Poland.PNG","caption":"Portrait of Sigismund I the Old .","creator":"Marcello Bacciarelli","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between 1768 and 1771 date QS:P571,+1750-00-00T00:00:00Z/7,P1319,+1768-00-00T00:00:00Z/9,P1326,+1771-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASigismund_I_of_Poland.PNG","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b4/Sigismund_I_of_Poland.PNG","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-7812350138d8e9bd586c8951","title":"Sigismund I the Old, King of Poland (Zygmunt I. Stary) (PL MNK XII-536 2017 Overall).tiff","caption":"Portrait of Sigismund I (1467-1548), King of Poland, from the Jagiellonian dynasty","creator":"Lucas Cranach the Younger","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between circa 1553 and circa 1556 date QS:P571,+1553-00-00T00:00:00Z/8,P1319,+1553-00-00T00:00:00Z/9,P1326,+1556-00-00T00:00:00Z/9,P1480,Q5727902","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASigismund_I_the_Old%2C_King_of_Poland_%28Zygmunt_I._Stary%29_%28PL_MNK_XII-536_2017_Overall%29.tiff","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1d/Sigismund_I_the_Old%2C_King_of_Poland_%28Zygmunt_I._Stary%29_%28PL_MNK_XII-536_2017_Overall%29.tiff","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-4ae5b92a3f56b846370d8afe","title":"Sigismundus Primus.png","caption":"not contemporary portrait showing King Sigismund Sigismund I the Old of Poland.","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"circa 1645 date QS:P,+1645-00-00T00:00:00Z/9,P1480,Q5727902","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASigismundus_Primus.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/66/Sigismundus_Primus.png","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-5147b3a3f94682b5ca6f9e41","title":"Workshop of Lucas Cranach (II) - Sigismundus I. (Czartoryski Museum).jpg","caption":"Polish: Portret Zygmunta I Starego (1467–1548) Sigismund I the Old label QS:Lru,\" Сигизму́нд I Ста́рый \" label QS:Lde,\" Sigismund der Alte \" label QS:Len,\" Sigismund I the Old \" label QS:Lpl,\" Zygmunt I Stary \"","creator":"Workshop of Lucas Cranach the Younger","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between circa 1553 and circa 1556 date QS:P571,+1553-00-00T00:00:00Z/8,P1319,+1553-00-00T00:00:00Z/9,P1326,+1556-00-00T00:00:00Z/9,P1480,Q5727902 or circa 1565 date QS:P571,+1565-00-00T00:00:00Z/9,P1480,Q5727902","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AWorkshop_of_Lucas_Cranach_%28II%29_-_Sigismundus_I._%28Czartoryski_Museum%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/8/8f/Workshop_of_Lucas_Cranach_%28II%29_-_Sigismundus_I._%28Czartoryski_Museum%29.jpg","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-f2ea27fb317ee2b5e9b6af81","title":"Zygmunt Stary.JPG","caption":"Portrait of Sigismund I of Poland .","creator":"Cristofano dell'Altissimo / After Hans von Kulmbach","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between 1511 and 1537 date QS:P571,+1550-00-00T00:00:00Z/7,P1319,+1511-00-00T00:00:00Z/9,P1326,+1537-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AZygmunt_Stary.JPG","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/02/Zygmunt_Stary.JPG","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-91d54e40c92b004f1e0fca80","title":"Žygimont Stary. Жыгімонт Стары (L. Cranach, 1565).jpg","caption":"Miniature of Sigismund I the Old .","creator":"Lucas Cranach the Younger","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"circa 1565 date QS:P571,+1565-00-00T00:00:00Z/9,P1480,Q5727902","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A%C5%BDygimont_Stary._%D0%96%D1%8B%D0%B3%D1%96%D0%BC%D0%BE%D0%BD%D1%82_%D0%A1%D1%82%D0%B0%D1%80%D1%8B_%28L._Cranach%2C_1565%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/2b/%C5%BDygimont_Stary._%D0%96%D1%8B%D0%B3%D1%96%D0%BC%D0%BE%D0%BD%D1%82_%D0%A1%D1%82%D0%B0%D1%80%D1%8B_%28L._Cranach%2C_1565%29.jpg","relationType":"manuscript_depiction_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0}]
+  [{"mediaId":"m-91d54e40c92b004f1e0fca80","title":"Žygimont Stary. Жыгімонт Стары (L. Cranach, 1565).jpg","caption":"Žygimanto Senojo miniatiūra","originalTitle":"Žygimont Stary. Жыгімонт Стары (L. Cranach, 1565).jpg","creator":"Lucas Cranach the Younger","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"www.muzeum-czartoryskich.krakow.pl","dateDisplay":"circa 1565 date QS:P571,+1565-00-00T00:00:00Z/9,P1480,Q5727902","dateStart":null,"dateEnd":null,"width":846,"height":950,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A%C5%BDygimont_Stary._%D0%96%D1%8B%D0%B3%D1%96%D0%BC%D0%BE%D0%BD%D1%82_%D0%A1%D1%82%D0%B0%D1%80%D1%8B_%28L._Cranach%2C_1565%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/2/2b/%C5%BDygimont_Stary._%D0%96%D1%8B%D0%B3%D1%96%D0%BC%D0%BE%D0%BD%D1%82_%D0%A1%D1%82%D0%B0%D1%80%D1%8B_%28L._Cranach%2C_1565%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/2b/%C5%BDygimont_Stary._%D0%96%D1%8B%D0%B3%D1%96%D0%BC%D0%BE%D0%BD%D1%82_%D0%A1%D1%82%D0%B0%D1%80%D1%8B_%28L._Cranach%2C_1565%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"rankraštis","label":"rankraštis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Žygimantas Senasis.md","title":"Žygimantas Senasis","itemType":"asmuo","relationType":"manuscript_depiction_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:45:59.761551+03:00","reviewedAt":"2026-07-11T02:47:14.189163+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matosi tas pats barzdoto valdovo biustinis atvaizdas su juoda kepure, kailiniu drabužiu ir rankomis prie stalo.","metadataEvidence":"Pavadinimas „Žygimont Stary“ ir aprašas „Miniature of Sigismund I the Old“ tiesiogiai identifikuoja Žygimantą Senąjį.","confidenceLevel":"high","relationType":"manuscript_depiction_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai istorinė miniatiūra, tiesiogiai vaizduojanti Žygimantą Senąjį.","isPrimary":1},{"mediaId":"m-7cdb10de4f7df8dd00989f7c","title":"Anonymous Sigismund I the Old.jpg","caption":"Žygimanto Senojo portretas","originalTitle":"Anonymous Sigismund I the Old.jpg","creator":"Anonymous Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Mieczysław Morka (2006). Sztuka dworu Zygmunta I Starego: treści polityczne i propagandowe . Argraf, p. 481, pic. 311","dateDisplay":"1520s date QS:P571,+1520-00-00T00:00:00Z/8","dateStart":null,"dateEnd":null,"width":673,"height":825,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AAnonymous_Sigismund_I_the_Old.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/41/Anonymous_Sigismund_I_the_Old.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/41/Anonymous_Sigismund_I_the_Old.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Žygimantas Senasis.md","title":"Žygimantas Senasis","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:45:59.762243+03:00","reviewedAt":"2026-07-11T02:47:14.193932+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Juodai baltas profilinis portretas su kepure ir kailiniu valdovo drabužiu.","metadataEvidence":"Pavadinimas „Anonymous Sigismund I the Old.jpg“ ir aprašas „Portrait of Sigismund I the Old“ tiesiogiai identifikuoja target.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Metaduomenys aiškūs, o vaizdas yra tiesioginis portretinis Žygimanto Senojo atvaizdas.","isPrimary":0},{"mediaId":"m-b4a4a157f862cb8b9ff85356","title":"Cranach the Younger Sigismund I the Old.jpg","caption":"Žygimanto Senojo portretas, Lucas Cranach Jaunesnysis","originalTitle":"Cranach the Younger Sigismund I the Old.jpg","creator":"Lucas Cranach the Younger","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Own work ( BurgererSF )","dateDisplay":"circa 1553 date QS:P571,+1553-00-00T00:00:00Z/9,P1480,Q5727902","dateStart":null,"dateEnd":null,"width":899,"height":1063,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ACranach_the_Younger_Sigismund_I_the_Old.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/6/68/Cranach_the_Younger_Sigismund_I_the_Old.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/68/Cranach_the_Younger_Sigismund_I_the_Old.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Žygimantas Senasis.md","title":"Žygimantas Senasis","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:45:59.763429+03:00","reviewedAt":"2026-07-11T02:47:14.199645+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas tas pats barzdotas valdovas su juoda kepure, kailiniu drabužiu ir rankomis ant žalio stalo.","metadataEvidence":"Pavadinimas ir aprašas nurodo „Cranach the Younger Sigismund I the Old“ ir „Portret Zygmunta I Starego (1467–1548)“.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tapatybė metaduomenyse aiškiai įrodyta, vaizdas yra tiesioginis portretas.","isPrimary":0},{"mediaId":"m-cb98e211ca24e18f5d30ee53","title":"Frumerie Sigismund I the Old.jpg","caption":"Žygimanto Senojo portretas","originalTitle":"Frumerie Sigismund I the Old.jpg","creator":"David Frumerie","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"emp-web-22.zetcom.ch","dateDisplay":"1667 date QS:P571,+1667-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":369,"height":665,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AFrumerie_Sigismund_I_the_Old.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4d/Frumerie_Sigismund_I_the_Old.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4d/Frumerie_Sigismund_I_the_Old.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Žygimantas Senasis.md","title":"Žygimantas Senasis","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:45:59.760945+03:00","reviewedAt":"2026-07-11T02:47:14.186223+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Viso ūgio valdovo figūra su karūna ar kepure, ilgu apsiaustu, rankose laikomu daiktu ir lotynišku užrašu fone.","metadataEvidence":"Pavadinimas „Frumerie Sigismund I the Old.jpg“ ir aprašas nurodo „Portrait of Sigismund I the Old“, gimimo ir mirties metus 1467-1548.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tapatybė metaduomenyse aiški; vaizdas tiesiogiai pateiktas kaip Žygimanto Senojo portretas.","isPrimary":0},{"mediaId":"m-cd263ed11ec1cf6cb75ad1d3","title":"Jungholz Sigismund I the Old.jpg","caption":"Žygimanto Senojo portretas","originalTitle":"Jungholz Sigismund I the Old.jpg","creator":"Creator:Andreas Jungholz","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"muzea.malopolska.pl","dateDisplay":"1546","dateStart":null,"dateEnd":null,"width":2736,"height":4855,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AJungholz_Sigismund_I_the_Old.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/0/0d/Jungholz_Sigismund_I_the_Old.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/0d/Jungholz_Sigismund_I_the_Old.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Žygimantas Senasis.md","title":"Žygimantas Senasis","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:45:59.761766+03:00","reviewedAt":"2026-07-11T02:47:14.191279+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Viso ūgio valdovas su raudonu drabužiu, juodu kailiniu apdaru, kepure, rankose laikomu daiktu ir karūna šone.","metadataEvidence":"Pavadinimas „Jungholz Sigismund I the Old.jpg“ ir aprašas „Portrait of Sigismund I the Old“ tiesiogiai sutampa su target.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Metaduomenys ir portretinis turinys aiškiai nurodo Žygimantą Senąjį.","isPrimary":0},{"mediaId":"m-5f2f53f0b089c2743fd87e5c","title":"Kulmbach Sigismund I the Old.jpg","caption":"Žygimanto Senojo portretas","originalTitle":"Kulmbach Sigismund I the Old.jpg","creator":"Hans von Kulmbach","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Rocznik Muzeum Narodowego w Warszawie (1976), Vol. 20","dateDisplay":"circa 1511/1518","dateStart":null,"dateEnd":null,"width":649,"height":888,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKulmbach_Sigismund_I_the_Old.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/1/19/Kulmbach_Sigismund_I_the_Old.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/19/Kulmbach_Sigismund_I_the_Old.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Žygimantas Senasis.md","title":"Žygimantas Senasis","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:45:59.761173+03:00","reviewedAt":"2026-07-11T02:47:14.187820+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Profilinis vyro portretas su auksine kepure, baltais kailiais ir puošniu drabužiu.","metadataEvidence":"Pavadinimas „Kulmbach Sigismund I the Old.jpg“ ir aprašas keliomis kalbomis nurodo, kad tai Žygimanto Senojo portretas.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdo ir metaduomenų ryšys su target yra tiesioginis.","isPrimary":0},{"mediaId":"m-1fd236186e9b2b496619865e","title":"Nieznany malarz polski - Portrait of king Sigismund I the Old (1467–1548) - MP 4984 MNW - National Museum in Warsaw.jpg","caption":"Žygimanto Senojo portretas","originalTitle":"Nieznany malarz polski - Portrait of king Sigismund I the Old (1467–1548) - MP 4984 MNW - National Museum in Warsaw.jpg","creator":"anonymous","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"National Museum in Warsaw","dateDisplay":"between 1750 and 1763 date QS:P,+1750-00-00T00:00:00Z/7,P1319,+1750-00-00T00:00:00Z/9,P1326,+1763-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":1668,"height":2500,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ANieznany_malarz_polski_-_Portrait_of_king_Sigismund_I_the_Old_%281467%E2%80%931548%29_-_MP_4984_MNW_-_National_Museum_in_Warsaw.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/2/26/Nieznany_malarz_polski_-_Portrait_of_king_Sigismund_I_the_Old_%281467%E2%80%931548%29_-_MP_4984_MNW_-_National_Museum_in_Warsaw.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/26/Nieznany_malarz_polski_-_Portrait_of_king_Sigismund_I_the_Old_%281467%E2%80%931548%29_-_MP_4984_MNW_-_National_Museum_in_Warsaw.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Žygimantas Senasis.md","title":"Žygimantas Senasis","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:45:59.762001+03:00","reviewedAt":"2026-07-11T02:47:14.192620+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Fotografijoje matomas įrėmintas viso ūgio valdovo portretas su kailiniu apsiaustu, kepure, kalaviju ar valdžios atributu ir užrašu apačioje.","metadataEvidence":"Pavadinimas ir aprašas nurodo „Portrait of king Sigismund I the Old (1467–1548)“ bei lenkišką „Portret króla Zygmunta I Starego“.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Nors tai vėlesnis portretas ir fotografuotas rėme, identifikacija su Žygimantu Senuoju yra tiesioginė.","isPrimary":0},{"mediaId":"m-3cd43a84e01112c57a63efb5","title":"Sigismund I of Poland.PNG","caption":"Žygimanto Senojo portretas, Marcello Bacciarelli","originalTitle":"Sigismund I of Poland.PNG","creator":"Marcello Bacciarelli","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"www.zamek-krolewski.pl","dateDisplay":"between 1768 and 1771 date QS:P571,+1750-00-00T00:00:00Z/7,P1319,+1768-00-00T00:00:00Z/9,P1326,+1771-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":348,"height":467,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASigismund_I_of_Poland.PNG","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b4/Sigismund_I_of_Poland.PNG","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b4/Sigismund_I_of_Poland.PNG","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Žygimantas Senasis.md","title":"Žygimantas Senasis","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:45:59.764051+03:00","reviewedAt":"2026-07-11T02:47:14.202261+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas karūnuotas valdovas su kalaviju ir regalijomis ovaliame portrete.","metadataEvidence":"Pavadinimas „Sigismund I of Poland“ ir aprašas „Portrait of Sigismund I the Old“ tiesiogiai identifikuoja target.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Nors portretas sukurtas XVIII a., jis aiškiai vaizduoja Žygimantą Senąjį kaip istorinį atvaizdą.","isPrimary":0},{"mediaId":"m-5a8673672d3361359e461941","title":"Sigismund I the Old, King of Poland (Zygmunt I. Stary) (PL MNK XII-536 2017 Overall).jpg","caption":"Žygimanto Senojo portretas","originalTitle":"Sigismund I the Old, King of Poland (Zygmunt I. Stary) (PL MNK XII-536 2017 Overall).jpg","creator":"Lucas Cranach the Younger","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"http://lucascranach.org/PL_MNK_XII-536","dateDisplay":"between circa 1553 and circa 1556 date QS:P571,+1553-00-00T00:00:00Z/8,P1319,+1553-00-00T00:00:00Z/9,P1326,+1556-00-00T00:00:00Z/9,P1480,Q5727902","dateStart":null,"dateEnd":null,"width":5848,"height":6543,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASigismund_I_the_Old%2C_King_of_Poland_%28Zygmunt_I._Stary%29_%28PL_MNK_XII-536_2017_Overall%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/7/75/Sigismund_I_the_Old%2C_King_of_Poland_%28Zygmunt_I._Stary%29_%28PL_MNK_XII-536_2017_Overall%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/7/75/Sigismund_I_the_Old%2C_King_of_Poland_%28Zygmunt_I._Stary%29_%28PL_MNK_XII-536_2017_Overall%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Žygimantas Senasis.md","title":"Žygimantas Senasis","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:45:59.760655+03:00","reviewedAt":"2026-07-11T02:47:14.183667+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matosi renesansinis vyro portretas su juoda kepure, balta barzda, kailiniu drabužiu ir rankomis prie stalo.","metadataEvidence":"Pavadinimas ir aprašas tiesiogiai nurodo „Sigismund I the Old, King of Poland“, t. y. Žygimantą Senąjį.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Metaduomenys aiškiai identifikuoja vaizduojamą asmenį kaip Žygimantą Senąjį, o vaizdas yra jo portretas.","isPrimary":0},{"mediaId":"m-7812350138d8e9bd586c8951","title":"Sigismund I the Old, King of Poland (Zygmunt I. Stary) (PL MNK XII-536 2017 Overall).tiff","caption":"Žygimanto Senojo portretas, Lucas Cranach Jaunesnysis","originalTitle":"Sigismund I the Old, King of Poland (Zygmunt I. Stary) (PL MNK XII-536 2017 Overall).tiff","creator":"Lucas Cranach the Younger","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"http://lucascranach.org/PL_MNK_XII-536","dateDisplay":"between circa 1553 and circa 1556 date QS:P571,+1553-00-00T00:00:00Z/8,P1319,+1553-00-00T00:00:00Z/9,P1326,+1556-00-00T00:00:00Z/9,P1480,Q5727902","dateStart":null,"dateEnd":null,"width":5848,"height":6543,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASigismund_I_the_Old%2C_King_of_Poland_%28Zygmunt_I._Stary%29_%28PL_MNK_XII-536_2017_Overall%29.tiff","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1d/Sigismund_I_the_Old%2C_King_of_Poland_%28Zygmunt_I._Stary%29_%28PL_MNK_XII-536_2017_Overall%29.tiff","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1d/Sigismund_I_the_Old%2C_King_of_Poland_%28Zygmunt_I._Stary%29_%28PL_MNK_XII-536_2017_Overall%29.tiff","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Žygimantas Senasis.md","title":"Žygimantas Senasis","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:45:59.764267+03:00","reviewedAt":"2026-07-11T02:47:14.203613+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas barzdotas vyras su juoda kepure ir kailiniu drabužiu; vaizdas sutampa su Cranacho tipo Žygimanto Senojo portretu.","metadataEvidence":"Pavadinimas nurodo „Sigismund I the Old, King of Poland (Zygmunt I. Stary)“, aprašas nurodo „Portrait of Sigismund I (1467-1548), King of Poland“.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tapatybė metaduomenyse tiesiogiai ir konkrečiai patvirtinta.","isPrimary":0},{"mediaId":"m-4ae5b92a3f56b846370d8afe","title":"Sigismundus Primus.png","caption":"Vėlyvas Žygimanto Senojo portretas","originalTitle":"Sigismundus Primus.png","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"http://dziedzictwo.polska.pl/katalog/skarb,Obraz_z_okolo_1645_roku_przedstawiajacy_Zygmunta_I_Starego_autor_nieznany,gid,199053,cid,1942.htm","dateDisplay":"circa 1645 date QS:P,+1645-00-00T00:00:00Z/9,P1480,Q5727902","dateStart":null,"dateEnd":null,"width":407,"height":500,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASigismundus_Primus.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/6/66/Sigismundus_Primus.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/66/Sigismundus_Primus.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Žygimantas Senasis.md","title":"Žygimantas Senasis","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:45:59.763203+03:00","reviewedAt":"2026-07-11T02:47:14.197855+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas karališka apranga pavaizduotas vyras; paveiksle įrašyta „Sigismundus Primus“ ir data „1507“.","metadataEvidence":"Aprašas tiesiogiai nurodo, kad tai nekontemporarinis King Sigismund / Sigismund I the Old of Poland portretas.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdas ir metaduomenys tiesiogiai sieja atvaizdą su Žygimantu Senuoju.","isPrimary":0},{"mediaId":"m-5147b3a3f94682b5ca6f9e41","title":"Workshop of Lucas Cranach (II) - Sigismundus I. (Czartoryski Museum).jpg","caption":"Žygimanto Senojo portretas, Lucaso Cranacho Jaunesniojo dirbtuvės","originalTitle":"Workshop of Lucas Cranach (II) - Sigismundus I. (Czartoryski Museum).jpg","creator":"Workshop of Lucas Cranach the Younger","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Czartoryski Museum ( now only by Web Archive )","dateDisplay":"between circa 1553 and circa 1556 date QS:P571,+1553-00-00T00:00:00Z/8,P1319,+1553-00-00T00:00:00Z/9,P1326,+1556-00-00T00:00:00Z/9,P1480,Q5727902 or circa 1565 date QS:P571,+1565-00-00T00:00:00Z/9,P1480,Q5727902","dateStart":null,"dateEnd":null,"width":2188,"height":2473,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AWorkshop_of_Lucas_Cranach_%28II%29_-_Sigismundus_I._%28Czartoryski_Museum%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/8/8f/Workshop_of_Lucas_Cranach_%28II%29_-_Sigismundus_I._%28Czartoryski_Museum%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/8/8f/Workshop_of_Lucas_Cranach_%28II%29_-_Sigismundus_I._%28Czartoryski_Museum%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Žygimantas Senasis.md","title":"Žygimantas Senasis","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:45:59.762644+03:00","reviewedAt":"2026-07-11T02:47:14.196583+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas barzdotas vyras su juoda kepure, kailiniu drabužiu ir rankomis ant stalo; tai portretinis valdovo atvaizdas.","metadataEvidence":"Pavadinimas ir aprašas nurodo „Sigismundus I“, „Sigismund I the Old“, „Zygmunt I Stary“, kūrėjas siejamas su Lucaso Cranacho Jaunesniojo dirbtuvėmis.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Metaduomenys aiškiai identifikuoja portretą kaip Žygimanto Senojo atvaizdą.","isPrimary":0},{"mediaId":"m-f2ea27fb317ee2b5e9b6af81","title":"Zygmunt Stary.JPG","caption":"Žygimanto Senojo portretas","originalTitle":"Zygmunt Stary.JPG","creator":"Cristofano dell'Altissimo / After Hans von Kulmbach","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"www.sbas.firenze.i","dateDisplay":"between 1511 and 1537 date QS:P571,+1550-00-00T00:00:00Z/7,P1319,+1511-00-00T00:00:00Z/9,P1326,+1537-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":398,"height":505,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AZygmunt_Stary.JPG","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/0/02/Zygmunt_Stary.JPG","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/02/Zygmunt_Stary.JPG","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Žygimantas Senasis.md","title":"Žygimantas Senasis","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:45:59.762426+03:00","reviewedAt":"2026-07-11T02:47:14.195360+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Profilinis valdovo portretas su auksine kepure, baltais kailiais ir viršuje esančiu lotynišku užrašu.","metadataEvidence":"Pavadinimas „Zygmunt Stary.JPG“, aprašas „Portrait of Sigismund I of Poland“ ir nurodymas pagal Hans von Kulmbach sieja vaizdą su Žygimantu Senuoju.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Metaduomenys aiškiai identifikuoja Sigismund I of Poland, kuris atitinka Žygimantą Senąjį.","isPrimary":0}]
 media_contextual_json: |-
-  []
+  [{"mediaId":"m-b06fb172a9a2b87c3edf27fb","title":"Poland-01780 - Sigismund's Chapel (32080184076).jpg","caption":"Žygimanto koplyčia Vavelio katedroje","originalTitle":"Poland-01780 - Sigismund's Chapel (32080184076).jpg","creator":"Dennis G. Jarvis","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 2.0","rightsNote":"Creative Commons Attribution-Share Alike 2.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/2.0","attribution":"Poland-01780 - Sigismund's Chapel","dateDisplay":"2016-09-24 09:10","dateStart":null,"dateEnd":null,"width":6136,"height":4207,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APoland-01780_-_Sigismund%27s_Chapel_%2832080184076%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d1/Poland-01780_-_Sigismund%27s_Chapel_%2832080184076%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d1/Poland-01780_-_Sigismund%27s_Chapel_%2832080184076%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"laidotuvės","label":"laidotuvės","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Žygimantas Senasis.md","title":"Žygimantas Senasis","itemType":"asmuo","relationType":"commemoration_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T02:45:59.763635+03:00","reviewedAt":"2026-07-11T02:47:14.200920+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matoma puošni renesansinė koplyčia su antkapiais, skulptūromis ir memorialinėmis plokštėmis.","metadataEvidence":"Aprašas nurodo, kad Sigismund's Chapel buvo finansuota King Sigismund I the Old, pastatyta 1519–1533 m. ir joje yra jo kapas.","confidenceLevel":"high","relationType":"commemoration_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai aiškiai pagrįstas Žygimanto Senojo memorialinis kontekstas, bet ne tiesioginis vieno jo atvaizdo vaizdas.","isPrimary":0}]
 media_all_json: |-
-  [{"mediaId":"m-5a8673672d3361359e461941","title":"Sigismund I the Old, King of Poland (Zygmunt I. Stary) (PL MNK XII-536 2017 Overall).jpg","caption":"Portrait of Sigismund I (1467-1548), King of Poland, from the Jagiellonian dynasty","creator":"Lucas Cranach the Younger","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between circa 1553 and circa 1556 date QS:P571,+1553-00-00T00:00:00Z/8,P1319,+1553-00-00T00:00:00Z/9,P1326,+1556-00-00T00:00:00Z/9,P1480,Q5727902","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASigismund_I_the_Old%2C_King_of_Poland_%28Zygmunt_I._Stary%29_%28PL_MNK_XII-536_2017_Overall%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/7/75/Sigismund_I_the_Old%2C_King_of_Poland_%28Zygmunt_I._Stary%29_%28PL_MNK_XII-536_2017_Overall%29.jpg","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1},{"mediaId":"m-7cdb10de4f7df8dd00989f7c","title":"Anonymous Sigismund I the Old.jpg","caption":"Portrait of Sigismund I the Old. label QS:Lfr,\"Portrait de Sigismond Ier le Vieux.\" label QS:Len,\"Portrait of Sigismund I the Old.\" label QS:Lpl,\"Portret Zygmunta I Starego.\" label QS:Lde,\"Bildnis König Sigismund I.\"","creator":"Anonymous Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1520s date QS:P571,+1520-00-00T00:00:00Z/8","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AAnonymous_Sigismund_I_the_Old.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/41/Anonymous_Sigismund_I_the_Old.jpg","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-b4a4a157f862cb8b9ff85356","title":"Cranach the Younger Sigismund I the Old.jpg","caption":"Polish: Portret Zygmunta I Starego (1467–1548) Portrait of Sigismund I the Old title QS:P1476,pl:\"Portret Zygmunta I Starego (1467–1548) \" label QS:Lpl,\"Portret Zygmunta I Starego (1467–1548) \" label QS:Len,\"Portrait of Sigismund I the Old\" label QS:Lru,\"портрет Сигизмунда I Старого\" label QS:Lde,\"Porträt von Sigismund I. dem Alten\"","creator":"Lucas Cranach the Younger","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"circa 1553 date QS:P571,+1553-00-00T00:00:00Z/9,P1480,Q5727902","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ACranach_the_Younger_Sigismund_I_the_Old.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/68/Cranach_the_Younger_Sigismund_I_the_Old.jpg","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-75d6129ebeecaec0b6b8e920","title":"Dürer Sigismund I Jagiellon.jpg","caption":"Portrait of Sigismund I the Old? (1467–1548), king of Poland label QS:Lfr,\"Portrait de Sigismond Ier Jagellon, roi de Pologne.\" label QS:Len,\"Portrait of Sigismund I Jagiellon, King of Poland.\" label QS:Lpl,\"Portret króla polskiego Zygmunta I Jagiellona.\"","creator":"Hans Dürer the Younger","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1530 date QS:P571,+1530-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AD%C3%BCrer_Sigismund_I_Jagiellon.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/68/D%C3%BCrer_Sigismund_I_Jagiellon.jpg","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-cb98e211ca24e18f5d30ee53","title":"Frumerie Sigismund I the Old.jpg","caption":"Swedish: Sigismund I, 1467-1548, konung av Polen Portrait of Sigismund I the Old. label QS:Len,\"Portrait of Sigismund I the Old.\" label QS:Lpl,\"Portret Zygmunta I Starego.\"","creator":"David Frumerie","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1667 date QS:P571,+1667-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AFrumerie_Sigismund_I_the_Old.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4d/Frumerie_Sigismund_I_the_Old.jpg","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-a8bdcf02b701d7c21622b4fb","title":"Hans Dürer - Portrait of Sigismund I the Old^ (1467–1548), king of Poland - MP 3177 - National Museum in Warsaw.jpg","caption":"Portrait of Sigismund I the Old? (1467–1548), king of Poland title QS:P1476,en:\"Portrait of Sigismund I the Old? (1467–1548), king of Poland \" label QS:Len,\"Portrait of Sigismund I the Old? (1467–1548), king of Poland \" label QS:Lpl,\"Portret króla polskiego Zygmunta I Jagiellona\" label QS:Lfr,\"Portrait de Sigismond Ier Jagellon, roi de Pologne.\"","creator":"Hans Dürer the Younger","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1530","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AHans_D%C3%BCrer_-_Portrait_of_Sigismund_I_the_Old%5E_%281467%E2%80%931548%29%2C_king_of_Poland_-_MP_3177_-_National_Museum_in_Warsaw.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4e/Hans_D%C3%BCrer_-_Portrait_of_Sigismund_I_the_Old%5E_%281467%E2%80%931548%29%2C_king_of_Poland_-_MP_3177_-_National_Museum_in_Warsaw.jpg","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-cd263ed11ec1cf6cb75ad1d3","title":"Jungholz Sigismund I the Old.jpg","caption":"Polish: Portret Zygmunta I Starego Portrait of Sigismund I the Old. title QS:P1476,pl:\"Portret Zygmunta I Starego \" label QS:Lpl,\"Portret Zygmunta I Starego \" label QS:Len,\"Portrait of Sigismund I the Old.\" label QS:Lfr,\"Portrait de Sigismond Ier le Vieux.\"","creator":"Creator:Andreas Jungholz","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1546","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AJungholz_Sigismund_I_the_Old.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/0d/Jungholz_Sigismund_I_the_Old.jpg","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-5f2f53f0b089c2743fd87e5c","title":"Kulmbach Sigismund I the Old.jpg","caption":"Portrait of Sigismund I the Old. label QS:Lfr,\"Portrait de Sigismond Ier le Vieux.\" label QS:Len,\"Portrait of Sigismund I the Old.\" label QS:Lpl,\"Portret Zygmunta I Starego.\" label QS:Lde,\"Bildnis König Sigismund I.\"","creator":"Hans von Kulmbach","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"circa 1511/1518","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKulmbach_Sigismund_I_the_Old.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/19/Kulmbach_Sigismund_I_the_Old.jpg","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-1fd236186e9b2b496619865e","title":"Nieznany malarz polski - Portrait of king Sigismund I the Old (1467–1548) - MP 4984 MNW - National Museum in Warsaw.jpg","caption":"Portrait of king Sigismund I the Old (1467–1548) title QS:P1476,en:\"Portrait of king Sigismund I the Old (1467–1548) \" label QS:Len,\"Portrait of king Sigismund I the Old (1467–1548) \" label QS:Lpl,\"Portret króla Zygmunta I Starego (1467-1548)\"","creator":"anonymous","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between 1750 and 1763 date QS:P,+1750-00-00T00:00:00Z/7,P1319,+1750-00-00T00:00:00Z/9,P1326,+1763-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ANieznany_malarz_polski_-_Portrait_of_king_Sigismund_I_the_Old_%281467%E2%80%931548%29_-_MP_4984_MNW_-_National_Museum_in_Warsaw.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/26/Nieznany_malarz_polski_-_Portrait_of_king_Sigismund_I_the_Old_%281467%E2%80%931548%29_-_MP_4984_MNW_-_National_Museum_in_Warsaw.jpg","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-b06fb172a9a2b87c3edf27fb","title":"Poland-01780 - Sigismund's Chapel (32080184076).jpg","caption":"Sigismund's Chapel one of the masterpieces of Polish architecture. Built as a funerary chapel for the last Jagiellons, it is considered by many art historians as \"the most beautiful example of the Tuscan Renaissance north of the Alps\". Financed by King Sigismund I the Old, it was built in 1519-33 by Bartolomeo Berrecci. A square-based chapel with a golden dome houses the tombs of its founder King Sigismund, as well as King Sigismund II Augustus and Anna Jagiellonka. The inner sculptures, stuccos and paintings were designed by some of the most renowned artists of the age. Wawel Cathedral, home to royal coronations and resting place of many national heroes; considered to be Poland's national sanctuary.","creator":"Dennis G. Jarvis","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 2.0","rightsNote":"Creative Commons Attribution-Share Alike 2.0","dateDisplay":"2016-09-24 09:10","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APoland-01780_-_Sigismund%27s_Chapel_%2832080184076%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d1/Poland-01780_-_Sigismund%27s_Chapel_%2832080184076%29.jpg","relationType":"statue_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-3cd43a84e01112c57a63efb5","title":"Sigismund I of Poland.PNG","caption":"Portrait of Sigismund I the Old .","creator":"Marcello Bacciarelli","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between 1768 and 1771 date QS:P571,+1750-00-00T00:00:00Z/7,P1319,+1768-00-00T00:00:00Z/9,P1326,+1771-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASigismund_I_of_Poland.PNG","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b4/Sigismund_I_of_Poland.PNG","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-7812350138d8e9bd586c8951","title":"Sigismund I the Old, King of Poland (Zygmunt I. Stary) (PL MNK XII-536 2017 Overall).tiff","caption":"Portrait of Sigismund I (1467-1548), King of Poland, from the Jagiellonian dynasty","creator":"Lucas Cranach the Younger","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between circa 1553 and circa 1556 date QS:P571,+1553-00-00T00:00:00Z/8,P1319,+1553-00-00T00:00:00Z/9,P1326,+1556-00-00T00:00:00Z/9,P1480,Q5727902","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASigismund_I_the_Old%2C_King_of_Poland_%28Zygmunt_I._Stary%29_%28PL_MNK_XII-536_2017_Overall%29.tiff","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1d/Sigismund_I_the_Old%2C_King_of_Poland_%28Zygmunt_I._Stary%29_%28PL_MNK_XII-536_2017_Overall%29.tiff","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-4ae5b92a3f56b846370d8afe","title":"Sigismundus Primus.png","caption":"not contemporary portrait showing King Sigismund Sigismund I the Old of Poland.","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"circa 1645 date QS:P,+1645-00-00T00:00:00Z/9,P1480,Q5727902","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASigismundus_Primus.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/66/Sigismundus_Primus.png","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-5147b3a3f94682b5ca6f9e41","title":"Workshop of Lucas Cranach (II) - Sigismundus I. (Czartoryski Museum).jpg","caption":"Polish: Portret Zygmunta I Starego (1467–1548) Sigismund I the Old label QS:Lru,\" Сигизму́нд I Ста́рый \" label QS:Lde,\" Sigismund der Alte \" label QS:Len,\" Sigismund I the Old \" label QS:Lpl,\" Zygmunt I Stary \"","creator":"Workshop of Lucas Cranach the Younger","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between circa 1553 and circa 1556 date QS:P571,+1553-00-00T00:00:00Z/8,P1319,+1553-00-00T00:00:00Z/9,P1326,+1556-00-00T00:00:00Z/9,P1480,Q5727902 or circa 1565 date QS:P571,+1565-00-00T00:00:00Z/9,P1480,Q5727902","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AWorkshop_of_Lucas_Cranach_%28II%29_-_Sigismundus_I._%28Czartoryski_Museum%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/8/8f/Workshop_of_Lucas_Cranach_%28II%29_-_Sigismundus_I._%28Czartoryski_Museum%29.jpg","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-f2ea27fb317ee2b5e9b6af81","title":"Zygmunt Stary.JPG","caption":"Portrait of Sigismund I of Poland .","creator":"Cristofano dell'Altissimo / After Hans von Kulmbach","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between 1511 and 1537 date QS:P571,+1550-00-00T00:00:00Z/7,P1319,+1511-00-00T00:00:00Z/9,P1326,+1537-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AZygmunt_Stary.JPG","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/02/Zygmunt_Stary.JPG","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-91d54e40c92b004f1e0fca80","title":"Žygimont Stary. Жыгімонт Стары (L. Cranach, 1565).jpg","caption":"Miniature of Sigismund I the Old .","creator":"Lucas Cranach the Younger","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"circa 1565 date QS:P571,+1565-00-00T00:00:00Z/9,P1480,Q5727902","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A%C5%BDygimont_Stary._%D0%96%D1%8B%D0%B3%D1%96%D0%BC%D0%BE%D0%BD%D1%82_%D0%A1%D1%82%D0%B0%D1%80%D1%8B_%28L._Cranach%2C_1565%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/2b/%C5%BDygimont_Stary._%D0%96%D1%8B%D0%B3%D1%96%D0%BC%D0%BE%D0%BD%D1%82_%D0%A1%D1%82%D0%B0%D1%80%D1%8B_%28L._Cranach%2C_1565%29.jpg","relationType":"manuscript_depiction_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0}]
+  [{"mediaId":"m-91d54e40c92b004f1e0fca80","title":"Žygimont Stary. Жыгімонт Стары (L. Cranach, 1565).jpg","caption":"Žygimanto Senojo miniatiūra","originalTitle":"Žygimont Stary. Жыгімонт Стары (L. Cranach, 1565).jpg","creator":"Lucas Cranach the Younger","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"www.muzeum-czartoryskich.krakow.pl","dateDisplay":"circa 1565 date QS:P571,+1565-00-00T00:00:00Z/9,P1480,Q5727902","dateStart":null,"dateEnd":null,"width":846,"height":950,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3A%C5%BDygimont_Stary._%D0%96%D1%8B%D0%B3%D1%96%D0%BC%D0%BE%D0%BD%D1%82_%D0%A1%D1%82%D0%B0%D1%80%D1%8B_%28L._Cranach%2C_1565%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/2/2b/%C5%BDygimont_Stary._%D0%96%D1%8B%D0%B3%D1%96%D0%BC%D0%BE%D0%BD%D1%82_%D0%A1%D1%82%D0%B0%D1%80%D1%8B_%28L._Cranach%2C_1565%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/2b/%C5%BDygimont_Stary._%D0%96%D1%8B%D0%B3%D1%96%D0%BC%D0%BE%D0%BD%D1%82_%D0%A1%D1%82%D0%B0%D1%80%D1%8B_%28L._Cranach%2C_1565%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"rankraštis","label":"rankraštis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Žygimantas Senasis.md","title":"Žygimantas Senasis","itemType":"asmuo","relationType":"manuscript_depiction_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:45:59.761551+03:00","reviewedAt":"2026-07-11T02:47:14.189163+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matosi tas pats barzdoto valdovo biustinis atvaizdas su juoda kepure, kailiniu drabužiu ir rankomis prie stalo.","metadataEvidence":"Pavadinimas „Žygimont Stary“ ir aprašas „Miniature of Sigismund I the Old“ tiesiogiai identifikuoja Žygimantą Senąjį.","confidenceLevel":"high","relationType":"manuscript_depiction_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai istorinė miniatiūra, tiesiogiai vaizduojanti Žygimantą Senąjį.","isPrimary":1},{"mediaId":"m-7cdb10de4f7df8dd00989f7c","title":"Anonymous Sigismund I the Old.jpg","caption":"Žygimanto Senojo portretas","originalTitle":"Anonymous Sigismund I the Old.jpg","creator":"Anonymous Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Mieczysław Morka (2006). Sztuka dworu Zygmunta I Starego: treści polityczne i propagandowe . Argraf, p. 481, pic. 311","dateDisplay":"1520s date QS:P571,+1520-00-00T00:00:00Z/8","dateStart":null,"dateEnd":null,"width":673,"height":825,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AAnonymous_Sigismund_I_the_Old.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/41/Anonymous_Sigismund_I_the_Old.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/41/Anonymous_Sigismund_I_the_Old.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Žygimantas Senasis.md","title":"Žygimantas Senasis","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:45:59.762243+03:00","reviewedAt":"2026-07-11T02:47:14.193932+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Juodai baltas profilinis portretas su kepure ir kailiniu valdovo drabužiu.","metadataEvidence":"Pavadinimas „Anonymous Sigismund I the Old.jpg“ ir aprašas „Portrait of Sigismund I the Old“ tiesiogiai identifikuoja target.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Metaduomenys aiškūs, o vaizdas yra tiesioginis portretinis Žygimanto Senojo atvaizdas.","isPrimary":0},{"mediaId":"m-b4a4a157f862cb8b9ff85356","title":"Cranach the Younger Sigismund I the Old.jpg","caption":"Žygimanto Senojo portretas, Lucas Cranach Jaunesnysis","originalTitle":"Cranach the Younger Sigismund I the Old.jpg","creator":"Lucas Cranach the Younger","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Own work ( BurgererSF )","dateDisplay":"circa 1553 date QS:P571,+1553-00-00T00:00:00Z/9,P1480,Q5727902","dateStart":null,"dateEnd":null,"width":899,"height":1063,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ACranach_the_Younger_Sigismund_I_the_Old.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/6/68/Cranach_the_Younger_Sigismund_I_the_Old.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/68/Cranach_the_Younger_Sigismund_I_the_Old.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Žygimantas Senasis.md","title":"Žygimantas Senasis","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:45:59.763429+03:00","reviewedAt":"2026-07-11T02:47:14.199645+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas tas pats barzdotas valdovas su juoda kepure, kailiniu drabužiu ir rankomis ant žalio stalo.","metadataEvidence":"Pavadinimas ir aprašas nurodo „Cranach the Younger Sigismund I the Old“ ir „Portret Zygmunta I Starego (1467–1548)“.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tapatybė metaduomenyse aiškiai įrodyta, vaizdas yra tiesioginis portretas.","isPrimary":0},{"mediaId":"m-cb98e211ca24e18f5d30ee53","title":"Frumerie Sigismund I the Old.jpg","caption":"Žygimanto Senojo portretas","originalTitle":"Frumerie Sigismund I the Old.jpg","creator":"David Frumerie","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"emp-web-22.zetcom.ch","dateDisplay":"1667 date QS:P571,+1667-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":369,"height":665,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AFrumerie_Sigismund_I_the_Old.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4d/Frumerie_Sigismund_I_the_Old.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4d/Frumerie_Sigismund_I_the_Old.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Žygimantas Senasis.md","title":"Žygimantas Senasis","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:45:59.760945+03:00","reviewedAt":"2026-07-11T02:47:14.186223+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Viso ūgio valdovo figūra su karūna ar kepure, ilgu apsiaustu, rankose laikomu daiktu ir lotynišku užrašu fone.","metadataEvidence":"Pavadinimas „Frumerie Sigismund I the Old.jpg“ ir aprašas nurodo „Portrait of Sigismund I the Old“, gimimo ir mirties metus 1467-1548.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tapatybė metaduomenyse aiški; vaizdas tiesiogiai pateiktas kaip Žygimanto Senojo portretas.","isPrimary":0},{"mediaId":"m-cd263ed11ec1cf6cb75ad1d3","title":"Jungholz Sigismund I the Old.jpg","caption":"Žygimanto Senojo portretas","originalTitle":"Jungholz Sigismund I the Old.jpg","creator":"Creator:Andreas Jungholz","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"muzea.malopolska.pl","dateDisplay":"1546","dateStart":null,"dateEnd":null,"width":2736,"height":4855,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AJungholz_Sigismund_I_the_Old.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/0/0d/Jungholz_Sigismund_I_the_Old.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/0d/Jungholz_Sigismund_I_the_Old.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Žygimantas Senasis.md","title":"Žygimantas Senasis","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:45:59.761766+03:00","reviewedAt":"2026-07-11T02:47:14.191279+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Viso ūgio valdovas su raudonu drabužiu, juodu kailiniu apdaru, kepure, rankose laikomu daiktu ir karūna šone.","metadataEvidence":"Pavadinimas „Jungholz Sigismund I the Old.jpg“ ir aprašas „Portrait of Sigismund I the Old“ tiesiogiai sutampa su target.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Metaduomenys ir portretinis turinys aiškiai nurodo Žygimantą Senąjį.","isPrimary":0},{"mediaId":"m-5f2f53f0b089c2743fd87e5c","title":"Kulmbach Sigismund I the Old.jpg","caption":"Žygimanto Senojo portretas","originalTitle":"Kulmbach Sigismund I the Old.jpg","creator":"Hans von Kulmbach","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Rocznik Muzeum Narodowego w Warszawie (1976), Vol. 20","dateDisplay":"circa 1511/1518","dateStart":null,"dateEnd":null,"width":649,"height":888,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKulmbach_Sigismund_I_the_Old.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/1/19/Kulmbach_Sigismund_I_the_Old.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/19/Kulmbach_Sigismund_I_the_Old.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Žygimantas Senasis.md","title":"Žygimantas Senasis","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:45:59.761173+03:00","reviewedAt":"2026-07-11T02:47:14.187820+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Profilinis vyro portretas su auksine kepure, baltais kailiais ir puošniu drabužiu.","metadataEvidence":"Pavadinimas „Kulmbach Sigismund I the Old.jpg“ ir aprašas keliomis kalbomis nurodo, kad tai Žygimanto Senojo portretas.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdo ir metaduomenų ryšys su target yra tiesioginis.","isPrimary":0},{"mediaId":"m-1fd236186e9b2b496619865e","title":"Nieznany malarz polski - Portrait of king Sigismund I the Old (1467–1548) - MP 4984 MNW - National Museum in Warsaw.jpg","caption":"Žygimanto Senojo portretas","originalTitle":"Nieznany malarz polski - Portrait of king Sigismund I the Old (1467–1548) - MP 4984 MNW - National Museum in Warsaw.jpg","creator":"anonymous","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"National Museum in Warsaw","dateDisplay":"between 1750 and 1763 date QS:P,+1750-00-00T00:00:00Z/7,P1319,+1750-00-00T00:00:00Z/9,P1326,+1763-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":1668,"height":2500,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ANieznany_malarz_polski_-_Portrait_of_king_Sigismund_I_the_Old_%281467%E2%80%931548%29_-_MP_4984_MNW_-_National_Museum_in_Warsaw.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/2/26/Nieznany_malarz_polski_-_Portrait_of_king_Sigismund_I_the_Old_%281467%E2%80%931548%29_-_MP_4984_MNW_-_National_Museum_in_Warsaw.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/26/Nieznany_malarz_polski_-_Portrait_of_king_Sigismund_I_the_Old_%281467%E2%80%931548%29_-_MP_4984_MNW_-_National_Museum_in_Warsaw.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Žygimantas Senasis.md","title":"Žygimantas Senasis","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:45:59.762001+03:00","reviewedAt":"2026-07-11T02:47:14.192620+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Fotografijoje matomas įrėmintas viso ūgio valdovo portretas su kailiniu apsiaustu, kepure, kalaviju ar valdžios atributu ir užrašu apačioje.","metadataEvidence":"Pavadinimas ir aprašas nurodo „Portrait of king Sigismund I the Old (1467–1548)“ bei lenkišką „Portret króla Zygmunta I Starego“.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Nors tai vėlesnis portretas ir fotografuotas rėme, identifikacija su Žygimantu Senuoju yra tiesioginė.","isPrimary":0},{"mediaId":"m-3cd43a84e01112c57a63efb5","title":"Sigismund I of Poland.PNG","caption":"Žygimanto Senojo portretas, Marcello Bacciarelli","originalTitle":"Sigismund I of Poland.PNG","creator":"Marcello Bacciarelli","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"www.zamek-krolewski.pl","dateDisplay":"between 1768 and 1771 date QS:P571,+1750-00-00T00:00:00Z/7,P1319,+1768-00-00T00:00:00Z/9,P1326,+1771-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":348,"height":467,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASigismund_I_of_Poland.PNG","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b4/Sigismund_I_of_Poland.PNG","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b4/Sigismund_I_of_Poland.PNG","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Žygimantas Senasis.md","title":"Žygimantas Senasis","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:45:59.764051+03:00","reviewedAt":"2026-07-11T02:47:14.202261+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas karūnuotas valdovas su kalaviju ir regalijomis ovaliame portrete.","metadataEvidence":"Pavadinimas „Sigismund I of Poland“ ir aprašas „Portrait of Sigismund I the Old“ tiesiogiai identifikuoja target.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Nors portretas sukurtas XVIII a., jis aiškiai vaizduoja Žygimantą Senąjį kaip istorinį atvaizdą.","isPrimary":0},{"mediaId":"m-5a8673672d3361359e461941","title":"Sigismund I the Old, King of Poland (Zygmunt I. Stary) (PL MNK XII-536 2017 Overall).jpg","caption":"Žygimanto Senojo portretas","originalTitle":"Sigismund I the Old, King of Poland (Zygmunt I. Stary) (PL MNK XII-536 2017 Overall).jpg","creator":"Lucas Cranach the Younger","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"http://lucascranach.org/PL_MNK_XII-536","dateDisplay":"between circa 1553 and circa 1556 date QS:P571,+1553-00-00T00:00:00Z/8,P1319,+1553-00-00T00:00:00Z/9,P1326,+1556-00-00T00:00:00Z/9,P1480,Q5727902","dateStart":null,"dateEnd":null,"width":5848,"height":6543,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASigismund_I_the_Old%2C_King_of_Poland_%28Zygmunt_I._Stary%29_%28PL_MNK_XII-536_2017_Overall%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/7/75/Sigismund_I_the_Old%2C_King_of_Poland_%28Zygmunt_I._Stary%29_%28PL_MNK_XII-536_2017_Overall%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/7/75/Sigismund_I_the_Old%2C_King_of_Poland_%28Zygmunt_I._Stary%29_%28PL_MNK_XII-536_2017_Overall%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Žygimantas Senasis.md","title":"Žygimantas Senasis","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:45:59.760655+03:00","reviewedAt":"2026-07-11T02:47:14.183667+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matosi renesansinis vyro portretas su juoda kepure, balta barzda, kailiniu drabužiu ir rankomis prie stalo.","metadataEvidence":"Pavadinimas ir aprašas tiesiogiai nurodo „Sigismund I the Old, King of Poland“, t. y. Žygimantą Senąjį.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Metaduomenys aiškiai identifikuoja vaizduojamą asmenį kaip Žygimantą Senąjį, o vaizdas yra jo portretas.","isPrimary":0},{"mediaId":"m-7812350138d8e9bd586c8951","title":"Sigismund I the Old, King of Poland (Zygmunt I. Stary) (PL MNK XII-536 2017 Overall).tiff","caption":"Žygimanto Senojo portretas, Lucas Cranach Jaunesnysis","originalTitle":"Sigismund I the Old, King of Poland (Zygmunt I. Stary) (PL MNK XII-536 2017 Overall).tiff","creator":"Lucas Cranach the Younger","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"http://lucascranach.org/PL_MNK_XII-536","dateDisplay":"between circa 1553 and circa 1556 date QS:P571,+1553-00-00T00:00:00Z/8,P1319,+1553-00-00T00:00:00Z/9,P1326,+1556-00-00T00:00:00Z/9,P1480,Q5727902","dateStart":null,"dateEnd":null,"width":5848,"height":6543,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASigismund_I_the_Old%2C_King_of_Poland_%28Zygmunt_I._Stary%29_%28PL_MNK_XII-536_2017_Overall%29.tiff","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1d/Sigismund_I_the_Old%2C_King_of_Poland_%28Zygmunt_I._Stary%29_%28PL_MNK_XII-536_2017_Overall%29.tiff","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1d/Sigismund_I_the_Old%2C_King_of_Poland_%28Zygmunt_I._Stary%29_%28PL_MNK_XII-536_2017_Overall%29.tiff","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Žygimantas Senasis.md","title":"Žygimantas Senasis","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:45:59.764267+03:00","reviewedAt":"2026-07-11T02:47:14.203613+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas barzdotas vyras su juoda kepure ir kailiniu drabužiu; vaizdas sutampa su Cranacho tipo Žygimanto Senojo portretu.","metadataEvidence":"Pavadinimas nurodo „Sigismund I the Old, King of Poland (Zygmunt I. Stary)“, aprašas nurodo „Portrait of Sigismund I (1467-1548), King of Poland“.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tapatybė metaduomenyse tiesiogiai ir konkrečiai patvirtinta.","isPrimary":0},{"mediaId":"m-4ae5b92a3f56b846370d8afe","title":"Sigismundus Primus.png","caption":"Vėlyvas Žygimanto Senojo portretas","originalTitle":"Sigismundus Primus.png","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"http://dziedzictwo.polska.pl/katalog/skarb,Obraz_z_okolo_1645_roku_przedstawiajacy_Zygmunta_I_Starego_autor_nieznany,gid,199053,cid,1942.htm","dateDisplay":"circa 1645 date QS:P,+1645-00-00T00:00:00Z/9,P1480,Q5727902","dateStart":null,"dateEnd":null,"width":407,"height":500,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASigismundus_Primus.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/6/66/Sigismundus_Primus.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/66/Sigismundus_Primus.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Žygimantas Senasis.md","title":"Žygimantas Senasis","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:45:59.763203+03:00","reviewedAt":"2026-07-11T02:47:14.197855+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas karališka apranga pavaizduotas vyras; paveiksle įrašyta „Sigismundus Primus“ ir data „1507“.","metadataEvidence":"Aprašas tiesiogiai nurodo, kad tai nekontemporarinis King Sigismund / Sigismund I the Old of Poland portretas.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdas ir metaduomenys tiesiogiai sieja atvaizdą su Žygimantu Senuoju.","isPrimary":0},{"mediaId":"m-5147b3a3f94682b5ca6f9e41","title":"Workshop of Lucas Cranach (II) - Sigismundus I. (Czartoryski Museum).jpg","caption":"Žygimanto Senojo portretas, Lucaso Cranacho Jaunesniojo dirbtuvės","originalTitle":"Workshop of Lucas Cranach (II) - Sigismundus I. (Czartoryski Museum).jpg","creator":"Workshop of Lucas Cranach the Younger","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Czartoryski Museum ( now only by Web Archive )","dateDisplay":"between circa 1553 and circa 1556 date QS:P571,+1553-00-00T00:00:00Z/8,P1319,+1553-00-00T00:00:00Z/9,P1326,+1556-00-00T00:00:00Z/9,P1480,Q5727902 or circa 1565 date QS:P571,+1565-00-00T00:00:00Z/9,P1480,Q5727902","dateStart":null,"dateEnd":null,"width":2188,"height":2473,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AWorkshop_of_Lucas_Cranach_%28II%29_-_Sigismundus_I._%28Czartoryski_Museum%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/8/8f/Workshop_of_Lucas_Cranach_%28II%29_-_Sigismundus_I._%28Czartoryski_Museum%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/8/8f/Workshop_of_Lucas_Cranach_%28II%29_-_Sigismundus_I._%28Czartoryski_Museum%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Žygimantas Senasis.md","title":"Žygimantas Senasis","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:45:59.762644+03:00","reviewedAt":"2026-07-11T02:47:14.196583+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas barzdotas vyras su juoda kepure, kailiniu drabužiu ir rankomis ant stalo; tai portretinis valdovo atvaizdas.","metadataEvidence":"Pavadinimas ir aprašas nurodo „Sigismundus I“, „Sigismund I the Old“, „Zygmunt I Stary“, kūrėjas siejamas su Lucaso Cranacho Jaunesniojo dirbtuvėmis.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Metaduomenys aiškiai identifikuoja portretą kaip Žygimanto Senojo atvaizdą.","isPrimary":0},{"mediaId":"m-f2ea27fb317ee2b5e9b6af81","title":"Zygmunt Stary.JPG","caption":"Žygimanto Senojo portretas","originalTitle":"Zygmunt Stary.JPG","creator":"Cristofano dell'Altissimo / After Hans von Kulmbach","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"www.sbas.firenze.i","dateDisplay":"between 1511 and 1537 date QS:P571,+1550-00-00T00:00:00Z/7,P1319,+1511-00-00T00:00:00Z/9,P1326,+1537-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":398,"height":505,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AZygmunt_Stary.JPG","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/0/02/Zygmunt_Stary.JPG","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/02/Zygmunt_Stary.JPG","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Žygimantas Senasis.md","title":"Žygimantas Senasis","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:45:59.762426+03:00","reviewedAt":"2026-07-11T02:47:14.195360+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Profilinis valdovo portretas su auksine kepure, baltais kailiais ir viršuje esančiu lotynišku užrašu.","metadataEvidence":"Pavadinimas „Zygmunt Stary.JPG“, aprašas „Portrait of Sigismund I of Poland“ ir nurodymas pagal Hans von Kulmbach sieja vaizdą su Žygimantu Senuoju.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Metaduomenys aiškiai identifikuoja Sigismund I of Poland, kuris atitinka Žygimantą Senąjį.","isPrimary":0},{"mediaId":"m-b06fb172a9a2b87c3edf27fb","title":"Poland-01780 - Sigismund's Chapel (32080184076).jpg","caption":"Žygimanto koplyčia Vavelio katedroje","originalTitle":"Poland-01780 - Sigismund's Chapel (32080184076).jpg","creator":"Dennis G. Jarvis","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 2.0","rightsNote":"Creative Commons Attribution-Share Alike 2.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/2.0","attribution":"Poland-01780 - Sigismund's Chapel","dateDisplay":"2016-09-24 09:10","dateStart":null,"dateEnd":null,"width":6136,"height":4207,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APoland-01780_-_Sigismund%27s_Chapel_%2832080184076%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d1/Poland-01780_-_Sigismund%27s_Chapel_%2832080184076%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d1/Poland-01780_-_Sigismund%27s_Chapel_%2832080184076%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"laidotuvės","label":"laidotuvės","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Žygimantas Senasis.md","title":"Žygimantas Senasis","itemType":"asmuo","relationType":"commemoration_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T02:45:59.763635+03:00","reviewedAt":"2026-07-11T02:47:14.200920+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matoma puošni renesansinė koplyčia su antkapiais, skulptūromis ir memorialinėmis plokštėmis.","metadataEvidence":"Aprašas nurodo, kad Sigismund's Chapel buvo finansuota King Sigismund I the Old, pastatyta 1519–1533 m. ir joje yra jo kapas.","confidenceLevel":"high","relationType":"commemoration_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai aiškiai pagrįstas Žygimanto Senojo memorialinis kontekstas, bet ne tiesioginis vieno jo atvaizdo vaizdas.","isPrimary":0}]
 ---
 # Žygimantas Senasis
 
@@ -41,16 +41,6 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
 - t-015
   global_id: t-173307
   teiginys: "Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis turėjo stoti prieš dvasinį teismą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "566004-566899; hash=4f83ec91b52d957c8aa5efd39eacc8d38e83d22700303b2afeeecae3994fde52; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Abraomas Kulvietis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žygimantas Senasis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Abraomas Kulvietis: mention_match, person, gap=46"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimantas Senasis\" parinktas kaip owner_note_path. Targetas \"Abraomas Kulvietis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-157629
 
@@ -58,18 +48,6 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
 - t-019
   global_id: t-173308
   teiginys: "1514 m. Žygimantas Senasis rašė Varmės kanauninkui Andriui Kopernikui."
-  temporaliniai_duomenys: "įvykio data: 1514 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "719488-720809; hash=b8e8485b0307305cb1bed20d5d96cbcd2b8f120c3755d1d9582d10554f89d047; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Varmė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žygimantas Senasis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Varmė: mention_match, place, gap=24"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimantas Senasis\" parinktas kaip owner_note_path. Targetas \"Varmė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-157651
 
@@ -77,16 +55,6 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
 - t-011
   global_id: t-173309
   teiginys: "Žygimantas Senasis atidavė Vilniui savo šaltinį už Subačiaus vartų, kad miestas būtų aprūpintas vandeniu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "526127-526610; hash=ab2b81d0a359c8041be50f58f21a8af679a43d8be23035f29a2b4317b7be90ed; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Subačius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žygimantas Senasis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Subačius: mention_match, place, gap=51"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimantas Senasis\" parinktas kaip owner_note_path. Targetas \"Subačius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-157633
 
@@ -94,17 +62,6 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
 - t-007
   global_id: t-173310
   teiginys: "Žygimantas Senasis perėmė Lietuvos valdymą ir siekė įvesti tvarką."
-  semantiniai_rysiai: "Žygimantas Senasis valdė Lietuva (0.92)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "516995-517574; hash=a55f55eb61b4b217293196683603728aca44ec4aec649c632205d32907bbd885; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde -> Lietuva: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Žygimantas Senasis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Žygimantas Senasis perėmė Lietuvos valdymą."
   pagrindžia:
     - c-157637
 
@@ -112,18 +69,6 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
 - t-009
   global_id: t-173311
   teiginys: "1522 m. Žygimantas Senasis įsakė miesto sargybą ir policiją sugrąžinti Vilniaus magistratui."
-  temporaliniai_duomenys: "įvykio data: 1522 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "519982-520485; hash=cf0de4b8d93eae0a4fe82ada6a20d9d8efb6d2e2b396c3f30fba641316c45916; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žygimantas Senasis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=63"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimantas Senasis\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-157648
 
@@ -131,16 +76,6 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
 - t-023
   global_id: t-173313
   teiginys: "Žygimantas Senasis pavedė Ulrikui Hozijui savo lėšomis pastatyti tiltą per Viliją prie Vilniaus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "738971-740959; hash=17a385154b7a965aabeee9aea5d917f84472d986a71bea2950224da8576fc16f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žygimantas Senasis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Vilija: mention_match, place, gap=75"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimantas Senasis\" parinktas kaip owner_note_path. Targetas \"Vilija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-157662
 
@@ -148,18 +83,6 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
 - t-025
   global_id: t-173314
   teiginys: "1543 m. Žygimantas Senasis leido Vilniaus vyskupui Povilui ir jo įpėdiniams steigti mėsos prekyvietes."
-  temporaliniai_duomenys: "įvykio data: 1543 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "779647-780393; hash=0fce6baf96e12b5dace4f17658423620513143c98a148bab78847a82263dd0d3; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žygimantas Senasis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=25"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimantas Senasis\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-157657
 
@@ -167,19 +90,6 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
 - t-034
   global_id: t-173315
   teiginys: "1532 m. Žygimantas Senasis rašte Vilniaus vaitui įspėjo netaikyti Vilniaus miestiečiams jokios prievartos."
-  temporaliniai_duomenys: "įvykio data: 1532 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Dokumento antraštė ir data palaiko konkretų teiginį apie Žygimanto raštą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "604993-605214; hash=660159672a988e6d874ddb03f3a4b0ec08b3ba221485dad839aca5ce183ff946; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žygimantas Senasis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=25"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimantas Senasis\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-157632
 
@@ -187,17 +97,6 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
 - t-031
   global_id: t-173316
   teiginys: "Žygimantas Senasis baudė miesto valdininkus už valdžios ribų peržengimą ir tramdė bajorų piktnaudžiavimą Vilniuje."
-  semantiniai_rysiai: "Žygimantas Senasis buvo priešas Bajorai (0.72)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "522244-522753; hash=e11da890369242a4be96ca4c6d9f940537d5685e408c62506c160495e1eae59a; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_priesas -> Bajorai: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Žygimantas Senasis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Bajorai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Bajorų tramdymas dėl piktnaudžiavimo pagrindžia konfliktinį, priešišką santykį."
   pagrindžia:
     - c-157649
 
@@ -205,19 +104,6 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
 - t-035
   global_id: t-173317
   teiginys: "1542 m. Žygimantas Senasis suteikė Vilniaus vyskupui privilegiją prieš eretikus."
-  temporaliniai_duomenys: "įvykio data: 1542 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citatos antraštė patvirtina privilegijos davėją, adresatą, temą ir metus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "621511-621978; hash=0aa94e0c3c9dc4514cc6462809c8fdcfebbdce478c45c7133beaba9a17f19e88; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žygimantas Senasis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=27"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimantas Senasis\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-157643
 
@@ -225,18 +111,6 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
 - t-017
   global_id: t-173318
   teiginys: "1542 m. Žygimantas Senasis davė Vilniaus vyskupui privilegiją prieš eretikus."
-  temporaliniai_duomenys: "įvykio data: 1542 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "621703-622057; hash=d0b13f709528d65af0742ccf25775ce5c1a1839eaf9f2df1b1312670eeb26846; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žygimantas Senasis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=24"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimantas Senasis\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-157658
 
@@ -244,17 +118,6 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
 - t-027
   global_id: t-173319
   teiginys: "Žygimantas Senasis dokumente vadintas Lenkijos karaliumi ir didžiuoju Lietuvos, Rusios, Prūsijos, Mazovijos bei Žemaitijos kunigaikščiu."
-  semantiniai_rysiai: "Žygimantas Senasis buvo valdovas Lenkija (0.88); Žygimantas Senasis buvo valdovas Mazovija (0.74)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "488483-488889; hash=0b0466eb496b75d6194a52e609104d1dc821285867010f42d72c4a3cc9e7d4a2; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_valdovas -> Lenkija: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Žygimantas Senasis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Dokumente Žygimantas tiesiogiai vadinamas Lenkijos karaliumi."
   pagrindžia:
     - c-157640
 
@@ -262,18 +125,6 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
 - t-022
   global_id: t-173320
   teiginys: "1536 m. rugpjūčio 6 d. Žygimantas Senasis suteikė privilegiją rinkti muitą už perėjimą tiltu per Viliją."
-  temporaliniai_duomenys: "įvykio data: 1536 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "737567-738626; hash=fe9f1849642fb7af0ee979891d9b6515c8a18481abaa55e3c4a4c6e88237d216; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žygimantas Senasis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Vilija: mention_match, place, gap=74"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimantas Senasis\" parinktas kaip owner_note_path. Targetas \"Vilija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-157655
 
@@ -281,16 +132,6 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
 - t-026
   global_id: t-173321
   teiginys: "Žygimantui Senajam atvykus į Vilnių, šalis buvo apsaugota nuo jai grėsusio pilietinio karo."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "477200-477655; hash=2417c7e119690ce002dfaefd39b4f4ab49496a634388d6e1e649433e92806e51; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žygimantas Senasis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=29"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimantas Senasis\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-157638
 
@@ -298,19 +139,6 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
 - t-003
   global_id: t-173322
   teiginys: "1507 m. Melnike Žygimantas Senasis patvirtino 1388 m. Vytauto privilegiją Trakų žydams."
-  temporaliniai_duomenys: "įvykio data: 1388 m.; įvykio data: 1507 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir paremtas dokumento antrašte bei tekstu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "407990-408688; hash=33cb2ae080afd9a10add5d4ab59fdea0584260c1d804a35c1d1e64758e4937de; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Trakai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žygimantas Senasis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Trakai: mention_match, place, gap=58"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimantas Senasis\" parinktas kaip owner_note_path. Targetas \"Trakai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-157641
 
@@ -318,17 +146,6 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
 - t-010
   global_id: t-173323
   teiginys: "Žygimantas Senasis baudė miesto valdininkus už valdžios ribų peržengimą ir tramdė bajorų piktnaudžiavimą Vilniuje."
-  semantiniai_rysiai: "Žygimantas Senasis buvo priešas Bajorai (0.72)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "522335-522826; hash=5de8e78b373c7a5209647e1ab1e0cd5c43a050cb6d5df360030c5fd0bcaf2c5f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_priesas -> Bajorai: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Žygimantas Senasis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Bajorai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Bajorų tramdymas dėl piktnaudžiavimo rodo konfliktinį santykį, nors tai nėra karo priešas."
   pagrindžia:
     - c-157645
 
@@ -336,19 +153,6 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
 - t-030
   global_id: t-173324
   teiginys: "1522 m. Žygimantas Senasis įsakė grąžinti Vilniaus miesto sargybą ir policiją magistratui."
-  temporaliniai_duomenys: "įvykio data: 1522 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko faktą, bet teiginį reikia sutrumpinti ir išvalyti."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "519783-520351; hash=8ee1716acb0f3290e7fa2fe2accd8dd9e341f8ee51843911036a24e6436e6ceb; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žygimantas Senasis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=34"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimantas Senasis\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-157636
 
@@ -356,19 +160,6 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
 - t-014
   global_id: t-173325
   teiginys: "1544 m. Brastos seime Žygimantas Senasis dar prieš mirtį atidavė sūnui Lietuvos valdžią."
-  temporaliniai_duomenys: "įvykio data: 1544 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai perteikia citatoje nurodytą įvykį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "546498-547032; hash=4ddaaac038d4a52750bdbeef0a860a4e7e7c7a197af402ec328e59c951b951ea; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "paskyre -> Augustas: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Žygimantas Senasis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Augustas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata nurodo, kad Žygimantas perdavė valdžią sūnui; kandidatuose sūnus pateiktas kaip Augustas."
   pagrindžia:
     - c-157642
 
@@ -376,16 +167,6 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
 - t-032
   global_id: t-173326
   teiginys: "Žygimanto Senojo valdymo metu Vilniuje atsirado reikšmingi statiniai, skirti miesto gerovei ir ištekliams didinti."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "533536-534103; hash=821062dc6c455b167e180dffed366cf355fed7f4064d60598c04d085fc7f2c16; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žygimantas Senasis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=30"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimantas Senasis\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-157631
 
@@ -393,16 +174,6 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
 - t-024
   global_id: t-173327
   teiginys: "Žygimantas Senasis suteikė Vilniaus vyskupui Povilui pasaulietinės valdžios įgaliojimus bažnytinėms cenzūroms vykdyti."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "768235-769077; hash=f4c8b75493d57f9e6fb96b22b839d2d2fd169927374d535fd49660679b52452a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žygimantas Senasis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=27"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimantas Senasis\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-157660
 
@@ -410,20 +181,6 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
 - t-038
   global_id: t-173328
   teiginys: "1544 m. Brastos seime Žygimantas Senasis dar prieš mirtį perdavė Lietuvos valdžią sūnui Žygimantui Augustui."
-  semantiniai_rysiai: "Žygimantas Senasis valdė Lietuva (0.70)"
-  temporaliniai_duomenys: "įvykio data: 1544 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko faktą apie Žygimanto Senojo veiksmą, o pradinė formuluotė labiau apie deputatus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "546498-547032; hash=4ddaaac038d4a52750bdbeef0a860a4e7e7c7a197af402ec328e59c951b951ea; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde -> Lietuva: 0.70"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Žygimantas Senasis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Žygimantas turėjo Lietuvos valdžią, nes ją perdavė sūnui, nors teiginys tiesiogiai kalba apie perdavimą."
   pagrindžia:
     - c-157642
 
@@ -431,19 +188,6 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
 - t-036
   global_id: t-173329
   teiginys: "1514 m. raštas Varmės kanauninkui Andriui Kopernikui buvo siejamas su Lenkijos karaliumi Žygimantu Senuoju."
-  temporaliniai_duomenys: "įvykio data: 1514 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys buvo pernelyg silpnas ir neįvardijo Žygimanto Senojo aiškiai."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "718409-719699; hash=fd72b60dfd9c3f75455471d168aa035ea9f57e69c3f78b23c3ca7c18d01ed371; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gniezno: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žygimantas Senasis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Gniezno: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimantas Senasis\" parinktas kaip owner_note_path. Targetas \"Gniezno\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-157653
 
@@ -451,17 +195,6 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
 - t-028
   global_id: t-173330
   teiginys: "Žygimantas Senasis perėmė Lietuvos valdymą ir, anot autoriaus, tvirtai siekė įvesti tvarką."
-  semantiniai_rysiai: "Žygimantas Senasis valdė Lietuva (0.92)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "516995-517574; hash=a55f55eb61b4b217293196683603728aca44ec4aec649c632205d32907bbd885; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde -> Lietuva: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Žygimantas Senasis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Žygimantas Senasis perėmė Lietuvos valdymą."
   pagrindžia:
     - c-157637
 
@@ -469,17 +202,6 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
 - t-018
   global_id: t-173331
   teiginys: "Žygimantui Senajam, kaip broliui ir įpėdiniui, buvo patikėta kunigaikštienės Elenos teisių globa."
-  semantiniai_rysiai: "Žygimantas Senasis rėmė Elena (vyskupas, XV–XVI a.) (0.68)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "714220-716031; hash=0629d8d35613d72b43cc0a834673b20d4cd1dae458e8076100085765eebe1fa9; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "reme -> Elena (vyskupas, XV–XVI a.): 0.68"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Žygimantas Senasis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Elena (vyskupas, XV–XVI a.): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Elenos teisių globos patikėjimas Žygimantui rodo jo pareigą ją remti ar globoti, nors ryšys yra teisinis."
   pagrindžia:
     - c-157646
 
@@ -487,20 +209,6 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
 - t-008
   global_id: t-173332
   teiginys: "1536 m. rugsėjo 9 d. Vilniuje Žygimantas Senasis įsakė paskelbti naujus miesto įstatymus."
-  semantiniai_rysiai: "Žygimantas Senasis keliavo į Vilnius (0.82)"
-  temporaliniai_duomenys: "įvykio data: 1536 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatos faktą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "517893-518327; hash=71b0b486ffccd523baf026929b70eff8e56590674c601b684804a878d85bf8d7; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Vilnius: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Žygimantas Senasis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Žygimantas Senasis buvo atvykęs į Vilnių."
   pagrindžia:
     - c-157659
 
@@ -508,18 +216,6 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
 - t-001
   global_id: t-173333
   teiginys: "Žygimantas Senasis 1519 m. vedė Milano kunigaikštytę Boną Sforcą."
-  temporaliniai_duomenys: "įvykio data: 1519 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "114376-114828; hash=f21819df431ffe2169c458733bda479708a2bffd322f5f75504956d9d528d5fb; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Milanas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žygimantas Senasis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Milanas: mention_match, place, gap=32"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimantas Senasis\" parinktas kaip owner_note_path. Targetas \"Milanas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-157650
 
@@ -527,20 +223,6 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
 - t-029
   global_id: t-173334
   teiginys: "1536 m. rugsėjo 9 d. Vilniuje Žygimantas Senasis įsakė paskelbti naujus miesto įstatymus."
-  semantiniai_rysiai: "Žygimantas Senasis keliavo į Vilnius (0.82)"
-  temporaliniai_duomenys: "įvykio data: 1536 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "517793-518264; hash=ccc8749540c93b28246dabf6bd6a8ac760d328cfa893351252207dd10cf0f080; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Vilnius: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Žygimantas Senasis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Žygimantas Senasis lankėsi Vilniuje."
   pagrindžia:
     - c-157644
 
@@ -548,16 +230,6 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
 - t-013
   global_id: t-173335
   teiginys: "Žygimantas Senasis rėmė mokslus ir Vilniaus pilyje saugojo knygas lotynų, lenkų, rusų ir čekų kalbomis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "541243-541559; hash=6622b159fb3d13ecc52d97b52c4646e995a81a459f2faf8e6dc4bb14167468bc; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Rusai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žygimantas Senasis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Rusai: mention_match, group, gap=81"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimantas Senasis\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-157634
 
@@ -565,16 +237,6 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
 - t-039
   global_id: t-173336
   teiginys: "Žygimantas Senasis patvirtino sąjungą su Krymu, nes naujasis LDK valdovas turėjo daug reikalų."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "322400-322812; hash=c243dfbc7495ceae099126da6d5d04410ca7140ffdb55b7568df657e36cc7f96; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Krymas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žygimantas Senasis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Krymas: mention_match, place, gap=41"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimantas Senasis\" parinktas kaip owner_note_path. Targetas \"Krymas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-157639
 
@@ -582,19 +244,6 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
 - t-037
   global_id: t-173337
   teiginys: "1538 m. balandžio 6 d. Žygimantas Senasis rašė Vilniaus magistratui dėl vyskupo nesikišimo į miesto jurisdikcijos tarnų teises."
-  temporaliniai_duomenys: "įvykio data: 1538 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citatos antraštė patvirtina rašto datą, adresatą ir temą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "724952-725393; hash=d92c6f6974c1b531bffffca02037c76d850db0c1e27497520205f8c4d94790a7; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žygimantas Senasis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=24"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimantas Senasis\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-157635
 
@@ -602,18 +251,6 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
 - t-012
   global_id: t-173338
   teiginys: "1515 m. Žygimantas Senasis leido Ulrikui Hozijui savo lėšomis statyti malūną prie Vilniaus."
-  temporaliniai_duomenys: "įvykio data: 1515 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "533631-534249; hash=035a1adf8268300bf5c3287831d33dd9c96da24f4c0780dedbb2b326f1460aa8; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Malūnas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žygimantas Senasis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Malūnas: mention_match, thing, gap=62"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimantas Senasis\" parinktas kaip owner_note_path. Targetas \"Malūnas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-157652
 
@@ -621,16 +258,6 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
 - t-004
   global_id: t-173339
   teiginys: "Žygimantas Senasis, Glogovo kunigaikštis ir mirusio karaliaus brolis, atvyko į Vilnių ir padėjo išvengti pilietinio karo."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "477200-477655; hash=2417c7e119690ce002dfaefd39b4f4ab49496a634388d6e1e649433e92806e51; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žygimantas Senasis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=79"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimantas Senasis\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-157638
 
@@ -638,16 +265,6 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
 - t-033
   global_id: t-173340
   teiginys: "Vilniaus vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kad Abraomas Kulvietis stotų prieš dvasinį teismą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "565640-566693; hash=a34e16079c2c543493158e89f015c258734ec9aa566348c5a247cb55e5a9265f; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Abraomas Kulvietis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žygimantas Senasis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Abraomas Kulvietis: mention_match, person, gap=43"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimantas Senasis\" parinktas kaip owner_note_path. Targetas \"Abraomas Kulvietis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-157661
 
@@ -655,19 +272,6 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
 - t-040
   global_id: t-183855
   teiginys: "Žygimantas Senasis rėmė mokslus ir Vilniaus pilyje saugojo knygas lotynų, lenkų, rusų ir čekų kalbomis."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "540982-541455; hash=180ea3d3109efe7c38c4d86ee69fe932ae728c986fa096253be5ee8aa9bdb635; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Rusai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žygimantas Senasis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Rusai: mention_match, group, gap=81"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimantas Senasis\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-167240
 - susijęs iš [[objektai/daiktai/Karaliaus Žygimanto Senojo knygos Vilniaus pilyje.md#claim-t-87080|Karaliaus Žygimanto Senojo knygos Vilniaus pilyje]]: Karalius Žygimantas Senasis Vilniaus pilyje saugojo sukauptas knygas lotynų, lenkų, rusų ir čekų kalbomis.
@@ -729,8 +333,8 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     tvirtina Ossolinskis vertingame vei­
     kale Wiadomości Hist.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -756,8 +360,8 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     ir LDK monetų kalyklos valdytojui, statytis savo paties lėšo­
     mis, leisdamas imti trečią grūdą iki gyvos galvos15.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -780,8 +384,8 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     1532 m.
     Žygimantas, Dievo malone karalius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -800,8 +404,8 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     nėjo už miesto apžiūrėti tos versmės ir įsitikinti, jog ji
     trykšta karaliaus, o ne privačioje žemėje8.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -819,8 +423,8 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     šimtą kapų grašių, - yra miesto ar­
     chyve.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -845,8 +449,8 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     aniae, Russiae, totiusq. Prussiae ac Masoviae etc. Dominus et
     Haeres.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -867,8 +471,8 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     tinės ginkluotės sargybinius, kad tvarkos mieste būtų žiūri­
     ma dieną ir naktį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -897,8 +501,8 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     Žygimantas Senasis, apdovanotas proto ir charakterio pri­
     valumais ir tvirtai siekiantis įvesti tvarką.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -918,8 +522,8 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     tuvai, nuo kurios visiems laikams buvo atplėšta tiek žemių,
     jos sostinei tam tikru atžvilgiu buvo naudingas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -947,8 +551,8 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
 
     Klecko pergalės vaisiai nebuvo ilgalaikiai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -967,8 +571,8 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     Lietuvos, Rusios, Prūsijos, Mazovijos, Žemaitijos ir 1.1, ku­
     nigaikštis. Ponas ir tėvonis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -995,8 +599,8 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     lius, Lietuvos, Rusios, Prūsijos, Žemaitijos ir kt. didysis ku­
     nigaikštis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1017,8 +621,8 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     jorų buveine, iškėlė Lietuvos sostinę iki aukščiausio sukles­
     tėjimo viršūnės.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1045,8 +649,8 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     Sigismundus Dei gratia Rex Poloniae Magnus Dux Litua-
     niae, Russiae, Prussiae, Masoviaeq. etc.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1066,8 +670,8 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     metų rugsėjo 9 dieną, lankydamasis Vilniuje, jis įsakė, pri­
     tariant karalienei Bonai, paskelbti naujus miesto įstatymus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1087,8 +691,8 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     nę šešerius metus4. Jis nepamiršo ir miesto pajamų, paja­
     mos augo ir buvo geriau tvarkomos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1129,8 +733,8 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     džiąją Lietuvos, Rusios, Žemaitijos kunigaikštienę, jos veiks­
     mų bei teisių globą (protectio).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1149,8 +753,8 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     atveju visi tarnautojai ir gyventojai paklusdavo vaivados ar­
     ba jo vietininko valdžiai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1171,8 +775,8 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     miesto tuos pavaldinius, kurie buvo ten ramiai pragyve­
     nę šešerius metus4.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1191,8 +795,8 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     Žygimantui Senajam 1519 m. vedus Milano kunigaikštytę Boną Sforcą
     (Bona Sforza).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1229,8 +833,8 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     quoque assensus ad ejusmodi confirmationem obtinendam non
     accederet.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1256,8 +860,8 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     žemiau Charitonovo palivarko prie Vilnelės16 iškilo popieriaus
     malūnas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1296,8 +900,8 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     (Iš Dogelio rankraščių prie Lenkijos karalystės ir LDK diplomatinio
     kodekso buv.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1334,8 +938,8 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     (Išrašo iš magistrato knygų vertimas)
     Viešpaties vardu Amen.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1366,8 +970,8 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     (Iš Vilniaus kapitulos archyvo)
     Valerianus DEI gratia Episcopus Vilnensis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1388,8 +992,8 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     niae, Russiae, Prussiae, Masoviaeq. etc. Dominus et haeres.
     Significamus tenore praesentium, quibus expedit universis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1406,8 +1010,8 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     tariant karalienei Bonai, paskelbti naujus miesto įstatymus.
     Jais patvirtinama, kad magistrato paskirtis - valdyti miestą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1432,8 +1036,8 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     išreikštos rašte, nepadės ar apskritai nenorės vykdyti ir tam
     priešinsis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1463,8 +1067,8 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     būsiąs priverstas stoti prieš civilinio teismo pareigūnus, va­
     dinamus Dzieckje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1512,8 +1116,8 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     karvės, kaip ir nuo viso to, kas už upės būtų vedamas ar
     varomas parduoti, - vienas denaras arba obolas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1533,8 +1137,8 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     gimo. Savo sukauptas knygas lotynų, lenkų, rusų ir čekų
     kalbomis saugojo Vilniaus pilyje25.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2405,11 +2009,7 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     - t-183855
 
 ## Ryšiai
-- Priešai: [[objektai/grupes/Bajorai]]
-- Turėjo priklausinį: [[objektai/daiktai/Karaliaus Žygimanto Senojo knygos Vilniaus pilyje]]
-- Žygimantas Senasis buvo valdovas [[objektai/vietos/Lenkija]], [[objektai/vietos/Lietuva]], [[objektai/vietos/Mazovija]]
+- Žygimantas Senasis buvo valdovas [[objektai/vietos/Lenkija]], [[objektai/vietos/Lietuva]]
 - Žygimantas Senasis valdė [[objektai/vietos/Lietuva]]
 - Žygimantas Senasis keliavo į [[objektai/vietos/Vilnius]]
-- Žygimantas Senasis gyveno [[objektai/vietos/Merkys]]
 - Žygimantas Senasis paskyrė [[objektai/asmenys/Jonas Hozijus]]
-- Žygimantas Senasis rėmė [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]

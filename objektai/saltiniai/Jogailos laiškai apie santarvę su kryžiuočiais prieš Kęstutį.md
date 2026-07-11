@@ -30,12 +30,6 @@ Kai, norėdami išsiaiškinti Jogailos slaptus sumanymus, pradėjo laisvu laiku 
 - t-001
   global_id: t-193530
   teiginys: "Kai, norėdami išsiaiškinti Jogailos slaptus sumanymus, pradėjo laisvu laiku tyrinėti jo raštus, su rado patvirtintus abiejų šalių parašais ir antspaudais V y ta u to K ę stu ta ičio p a la n k u m a s Jog a ila i p a sk a tin a tė v ą s u š v e ln in ti n u o."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "464305-465054; hash=8d91bab2f7d111877a65a28c4f5558abf12e0a5aaba4f0d99dfa02d0de51c3f5; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176210
 
@@ -43,12 +37,6 @@ Kai, norėdami išsiaiškinti Jogailos slaptus sumanymus, pradėjo laisvu laiku 
 - t-002
   global_id: t-193531
   teiginys: "Po kelių dienų apgulos, sutikęs smarkų pasi priešinimą, griebėsi kito sumanymo."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "470005-470434; hash=5f4b19354b367a3b29a6690de6d259c28a8a9eda0b15d10c9f0f11de745f6b1e; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176211
 ## Reikšmingi paminėjimai
@@ -81,8 +69,8 @@ Kai, norėdami išsiaiškinti Jogailos slaptus sumanymus, pradėjo laisvu laiku 
     kas atlaidžiau: jie neužjautė Jogailos, atvirkščiai, pra­
     dėjo šio nekęsti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -105,8 +93,8 @@ Kai, norėdami išsiaiškinti Jogailos slaptus sumanymus, pradėjo laisvu laiku 
     Be to, Jogaila, sulaukęs paramos iš Livonijos ir Prūsi­
     jos, jau traukė su kariuomene iš Vilniaus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

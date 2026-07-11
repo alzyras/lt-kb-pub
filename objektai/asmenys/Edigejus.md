@@ -30,20 +30,6 @@ Tauridės valdovas Edigejus susidraugavo su Vytautu ir pažadėjo ištikimybę, 
 - t-001
   global_id: t-186198
   teiginys: "Tauridės valdovas Edigejus susidraugavo su Vytautu ir pažadėjo ištikimybę, amžiną taiką bei pagalbą prieš priešus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Edigejus kariavo prieš Lietuviai (0.82)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "697534-698470; hash=b568e24b2d3f5b9c308ae2e1d61fbb61ae028b4399e837e97dd0a383d63e25f4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Lietuviai: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Edigejus: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Edigejus buvo išgarsėjęs kovose su lietuviais."
   pagrindžia:
     - c-169559
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184731|Jogaila (kunigaikštis, XIV–XV a.)]]: Kai Edigejus siaubė Rusią, Jogaila Sanoke susituokė su Elžbieta ir iškėlė vestuvių puotą.
@@ -81,8 +67,8 @@ Tauridės valdovas Edigejus susidraugavo su Vytautu ir pažadėjo ištikimybę, 
     vargu ar galima buvo kitaip nustelbti šio be galo dai­
     gaus karo želmenį.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -124,6 +110,3 @@ Tauridės valdovas Edigejus susidraugavo su Vytautu ir pažadėjo ištikimybę, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186198
-
-## Ryšiai
-- Edigejus kariavo prieš [[objektai/grupes/Lietuviai]]

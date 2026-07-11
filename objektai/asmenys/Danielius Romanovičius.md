@@ -40,12 +40,6 @@ media_all_json: |-
 - t-001
   global_id: t-194106
   teiginys: "6 Danielius Romaoovičius (1201— 1264) — Haličo ir Volynės (vakarų Ukraina) didysis kunigaikštis, Tautvilos svainis."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "355683-356045; hash=147c9e30d268a07db548131831429d7ffdc95fd84e9921fb3dfdb02acefd4114; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176719
 
@@ -53,12 +47,6 @@ media_all_json: |-
 - t-002
   global_id: t-194107
   teiginys: "7 Vasllka Romanovičius (1190— 1271) — Volynės Vladimiro kuni gaikštis, Haličo-Volynės didžiojo kunigaikščio Danieliaus Romanovičiaus brolis ir politinis bendradarbis."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "355866-356319; hash=cd5c22bd7936ea2ab815c02205fbdb51ff1dcd215cbf83907986213301416855; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176720
 ## Reikšmingi paminėjimai
@@ -75,8 +63,8 @@ media_all_json: |-
     Mindaugą, suorganizavo prieš jj Livonijos kryžiuočių ir kitų Lie­
     tuvos valstybės priešų koaliciją.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -95,8 +83,8 @@ media_all_json: |-
     gaikštis, Haličo-Volynės didžiojo kunigaikščio Danieliaus Romano-
     vičiaus brolis ir politinis bendradarbis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

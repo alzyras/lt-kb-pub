@@ -30,14 +30,6 @@ To papročio tebesilaiko tamsybėje skendinčios šiau rės tautos - samojedai, 
 - t-001
   global_id: t-194795
   teiginys: "To papročio tebesilaiko tamsybėje skendinčios šiau rės tautos - samojedai, jakutai, čiukčiai."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "647465-647964; hash=3b99a83ed6875d78fa21efc2b99b69b5a9ed42e146e02657238385193f4a5046; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-177191
 ## Reikšmingi paminėjimai
@@ -59,8 +51,8 @@ To papročio tebesilaiko tamsybėje skendinčios šiau rės tautos - samojedai, 
     kraštuose. To papročio tebesilaiko tamsybėje skendinčios šiau­
     rės tautos -  samojedai, jakutai, čiukčiai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

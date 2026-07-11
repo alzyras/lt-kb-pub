@@ -53,19 +53,6 @@ Nenurodyta
 - t-002
   global_id: t-62718
   teiginys: "214 Čia minimi seni skaičiavimo budai mazgeliais, įkirtimais."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "236502-236734; hash=f1e52063430f8a8f92936ef9f51ace9bb16798109c8d445dbe03edeb3d3fb6f6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Baltai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Terminų skaičiavimas įkirtimais ir mazgais: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Baltai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Terminų skaičiavimas įkirtimais ir mazgais\" parinktas kaip owner_note_path. Targetas \"Baltai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
-  vertinimo_autorius: "claim_quality_pipeline / rewrite"
   pagrindžia:
     - c-63480
 ## Reikšmingi paminėjimai
@@ -81,11 +68,11 @@ Nenurodyta
     tesėti susitarimą. Iš pagarbos savo dievams kurie ne kurie kasdien maudosi pirtyse, kiti
     pirties tiesiog kęste nekenčia.
   citata_rodoma: ''
+  statusas: verified
+
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-
 - c-002
   santrauka: '214 Čia minimi seni skaičiavimo budai mazgeliais, įkirtimais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -94,8 +81,8 @@ Nenurodyta
     skaičiavimą,  buitį, krikščionišką tendenciją vaizduoti pagonis — Okulicz-Kozaryn L.
     Życie..., p. 116 ir kt. Apie baltų kultūrą — Gimbutienė M. Baltai.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -106,7 +93,8 @@ Nenurodyta
 - id: c-63480
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 70"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 70."
   citata_originali: |
     214 Čia minimi seni skaičiavimo budai mazgeliais,  įkirtimais. Apie prūsų  laiko
     skaičiavimą,  buitį, krikščionišką tendenciją vaizduoti pagonis — Okulicz-Kozaryn L.

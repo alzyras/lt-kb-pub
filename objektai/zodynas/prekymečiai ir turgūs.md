@@ -41,19 +41,6 @@ Reikšminga jo privilegija, 1441 metais išleista Bras­ toje, prikėlė Vilniui
 - t-001
   global_id: t-86610
   teiginys: "Kazimiero 1441 m. Brastoje išleista privilegija nustatė Vilniui du didžiuosius prekymečius ir savaitinius turgus."
-  temporaliniai_duomenys: "įvykio data: 1441 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatoje nurodytą 1441 m. privilegijos turinį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "456293-457458; hash=6811e47f8c3c5b36c040ef859c9fa1e4b7b90afdb905914d1994d629c2de9fcd; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Mūro sienos ir miesto sienos: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "prekymečiai ir turgūs: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Mūro sienos ir miesto sienos: mention_match, thing, gap=12"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"prekymečiai ir turgūs\" parinktas kaip owner_note_path. Targetas \"Mūro sienos ir miesto sienos\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-82589
 ## Reikšmingi paminėjimai
@@ -84,8 +71,8 @@ Reikšminga jo privilegija, 1441 metais išleista Bras­ toje, prikėlė Vilniui
     Ši svarbi privilegija yra Vilniaus rne).
     miesto teisių D n b i n s k i o rinkinv-
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

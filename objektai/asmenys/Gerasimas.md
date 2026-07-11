@@ -34,17 +34,6 @@ media_all_json: |-
 - t-001
   global_id: t-87678
   teiginys: "Švitrigaila įsakė sudeginti metropolitą Gerasimą."
-  semantiniai_rysiai: "Švitrigaila puolė Gerasimas (0.74)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "444439-444951; hash=80fbc02e516c7842d10dd9fd5f23436e6e85e5b9219a95f898e9aa4a3b20f0d6; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Gerasimas: 0.74"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Gerasimas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Sudeginimas yra tiesioginis smurtinis veiksmas prieš Gerasimą."
   pagrindžia:
     - c-83657
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179726|Švitrigaila]]: Livonijos magistro ir totorių remiamas Švitrigaila vėl užėmė Ašmeną ir priartėjo prie Vilniaus per septynetą mylių.
@@ -70,8 +59,8 @@ media_all_json: |-
     atkeršijo įsakydamas juos pa valkioti gatvėmis, o paskui pa­
     skandinti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -100,8 +89,3 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87678
-
-## Ryšiai
-- Puolė Gerasimą: [[objektai/asmenys/Švitrigaila]]
-- Gerasimas gimė [[objektai/vietos/Maskva]]
-- Gerasimas gyveno [[objektai/vietos/Smolenskas]]

@@ -38,12 +38,6 @@ Dusburgietis teigia, kad [Ruigys] Ruhig P.
 - t-001
   global_id: t-61275
   teiginys: "P. Ruhigo „Littauisch-deutsches und deutsch-littauisches Lexicon“ išleistas Karaliaučiuje 1747 m."
-  temporaliniai_duomenys: "įvykio data: 1747 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pagrindžia autoriaus, pavadinimo, vietos ir metų duomenis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "795768-795859; hash=f5ea495b911d5c280b1600095ccef67ff1f21661a11cb8bd27ebae50bdb29ded; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-61907
 ## Reikšmingi paminėjimai
@@ -55,8 +49,8 @@ Dusburgietis teigia, kad [Ruigys] Ruhig P.
     [Ruigys] Ruhig P. Littauisch-deutsches und deutsch-littauisches Lexicon.— Königsberg,
     1747.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -67,7 +61,8 @@ Dusburgietis teigia, kad [Ruigys] Ruhig P.
 - id: c-61907
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 271"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 271."
   citata_originali: |
     [Ruigys] Ruhig P. Littauisch-deutsches und deutsch-littauisches Lexicon.— Königsberg,
     1747.

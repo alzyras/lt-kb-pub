@@ -30,21 +30,6 @@ Narbuto perteikimu, Torfėjus Frotono III valdymą siejo su III krikščioniško
 - t-001
   global_id: t-191734
   teiginys: "Narbuto perteikimu, Torfėjus Frotono III valdymą siejo su III krikščioniškosios eros amžiumi."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "428537-428988; hash=e9492103587891cb3098ceee9eca04fc8f87b598a6c52f8cbf854cb430ca58d1; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Rusai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Torfėjaus Historia Norvegica: owner_note_path, source"
-  ryšio_targeto_parinkimas: "Rusai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Torfėjaus Historia Norvegica\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174616
 ## Reikšmingi paminėjimai
@@ -65,8 +50,8 @@ Narbuto perteikimu, Torfėjus Frotono III valdymą siejo su III krikščioniško
     mu, kuris, anot Torfėjo chronologinių skaičiavimų, taip
     pat gyveno III amžiuje3.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -77,7 +62,8 @@ Narbuto perteikimu, Torfėjus Frotono III valdymą siejo su III krikščioniško
 - id: c-174616
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 242"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 242."
   citata_originali: |
     Tai patvir­
     tina Nestoro pateiktos žinios, kad skandinavams priklau­

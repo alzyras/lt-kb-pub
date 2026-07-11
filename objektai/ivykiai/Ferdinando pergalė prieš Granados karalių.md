@@ -57,20 +57,6 @@ Nenurodyta
 - t-001
   global_id: t-62779
   teiginys: "Kastilijos karalius Ferdinandas nugalėjo Granados saracėnų karalių, kuris vėliau turėjo jam mokėti duoklę."
-  teiginio_tipas: "faktas"
-  temporaliniai_duomenys: "įvykio data: 1241 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys gramatiškai perteikia citatos faktą apie Ferdinando pergalę ir duoklę."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "697807-698080; hash=3797f1f78e65a9b836f9d5855f8004e6023977d2ef9542ebce5aea22bfc45653; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Saracėnai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ferdinando pergalė prieš Granados karalių: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Saracėnai: mention_match, group, gap=30"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ferdinando pergalė prieš Granados karalių\" parinktas kaip owner_note_path. Targetas \"Saracėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-63573
 ## Reikšmingi paminėjimai
@@ -87,8 +73,8 @@ Nenurodyta
     kuris netgi turėjo ilgai jam mokėti duoklę po 1000 aukso marobortinų  į dieną (Ptol.
     21,33).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -99,7 +85,8 @@ Nenurodyta
 - id: c-63573
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 228-229"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 228-229."
   citata_originali: |
     23. Kaip Ferdinandas, Kastilijos karalius, nugalėjo Granados karalių
 

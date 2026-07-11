@@ -39,16 +39,6 @@ Birutės istorija įdomi dar ir kitkuo – kunigaikštienė taip ir neįgijo kri
 - t-001
   global_id: t-76196
   teiginys: "Birutės kalnas Palangoje buvo gerbiamas kaip šventosios vieta net įsigalint krikščionybei."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "37848-38500; hash=991a611250d1ccad8824460131210184a9f49dbaaa1c93639a24684add9dd675; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Algirdo žygiai į Maskvą: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Birutės kalnas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Algirdo žygiai į Maskvą: mention_match, event, gap=66"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Birutės kalnas\" parinktas kaip owner_note_path. Targetas \"Algirdo žygiai į Maskvą\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-73827
 
@@ -56,16 +46,6 @@ Birutės istorija įdomi dar ir kitkuo – kunigaikštienė taip ir neįgijo kri
 - t-001
   global_id: t-76196
   teiginys: "Birutės kalnas Palangoje buvo gerbiamas kaip šventosios vieta net įsigalint krikščionybei."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "37848-38500; hash=991a611250d1ccad8824460131210184a9f49dbaaa1c93639a24684add9dd675; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Algirdo žygiai į Maskvą: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Birutės kalnas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Algirdo žygiai į Maskvą: mention_match, event, gap=66"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Birutės kalnas\" parinktas kaip owner_note_path. Targetas \"Algirdo žygiai į Maskvą\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-73827
 - susijęs iš [[objektai/asmenys/Birutė.md#claim-t-176317|Birutė]]: Birutės ir Kęstučio meilės istorija laikoma vienu iš Lietuvos metraščiuose užrašytų epinių pasakojimų siužetų.
@@ -91,8 +71,8 @@ Birutės istorija įdomi dar ir kitkuo – kunigaikštienė taip ir neįgijo kri
     pasakojimai užrašyti XV–XVI a., tačiau jie turėjo istorinį pagrindą – tai
     patvirtina vienalaikiai rašytiniai šaltiniai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

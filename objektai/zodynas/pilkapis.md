@@ -47,19 +47,6 @@ Vartojama kaip istorinis ir archeologinis terminas, šaltinyje susiejamas su rus
 - t-010
   global_id: t-192276
   teiginys: "Teodoro Narbuto užrašytuose pasakojimuose kaimiečiai neliečia pilkapių iš pagarbos po jais besiilsinčių žmonių palaikams."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "695234-696186; hash=4ae9206b4d057c93a1ef950c64cae6d9d0525b9332732e80be899fbcbcc2bafc; match=ocr_normalized"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  ryšio_patikimumas: "susije_su -> Kaimas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "pilkapis: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Kaimas: mention_match, place, gap=20"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"pilkapis\" parinktas kaip owner_note_path. Targetas \"Kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175101
 
@@ -67,19 +54,6 @@ Vartojama kaip istorinis ir archeologinis terminas, šaltinyje susiejamas su rus
 - t-004
   global_id: t-192277
   teiginys: "Teodoras Narbutas baltarusių pilkapių horizontalų pjūvį apibūdina kaip šiek tiek suplotos elipsės formą."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "691264-691726; hash=496354229c14496dc6cef1f93780f581902e83065080f734a9fe46a3abe06394; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  ryšio_patikimumas: "susije_su -> Baltarusiai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "pilkapis: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Baltarusiai: mention_match, group, gap=11"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"pilkapis\" parinktas kaip owner_note_path. Targetas \"Baltarusiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175100
 
@@ -87,19 +61,6 @@ Vartojama kaip istorinis ir archeologinis terminas, šaltinyje susiejamas su rus
 - t-001
   global_id: t-192278
   teiginys: "Teodoras Narbutas pilkapius apibrėžia kaip žmonių rankomis supiltas žemės kalvas, rusinų vadinamas kurhany."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "690773-691263; hash=9c0ae1ff7649bf7e0c0ee091dad2c743cf0d2f88de4609182c8190b06e91d4de; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  ryšio_patikimumas: "susije_su -> Rusinai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "pilkapis: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Rusinai: mention_match, group, gap=64"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"pilkapis\" parinktas kaip owner_note_path. Targetas \"Rusinai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175102
 
@@ -107,19 +68,6 @@ Vartojama kaip istorinis ir archeologinis terminas, šaltinyje susiejamas su rus
 - t-008
   global_id: t-192279
   teiginys: "Teodoro Narbuto užrašytuose vietos padavimuose pilkapiai visuomet laikomi kapais."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "695234-696186; hash=4ae9206b4d057c93a1ef950c64cae6d9d0525b9332732e80be899fbcbcc2bafc; match=ocr_normalized"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  ryšio_patikimumas: "susije_su -> Kaimas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "pilkapis: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Kaimas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"pilkapis\" parinktas kaip owner_note_path. Targetas \"Kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175101
 
@@ -127,19 +75,6 @@ Vartojama kaip istorinis ir archeologinis terminas, šaltinyje susiejamas su rus
 - t-002
   global_id: t-192281
   teiginys: "Teodoras Narbutas nurodo, kad rusinai pilkapius vadina kurhany."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "690773-691263; hash=9c0ae1ff7649bf7e0c0ee091dad2c743cf0d2f88de4609182c8190b06e91d4de; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  ryšio_patikimumas: "susije_su -> Kijevas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "pilkapis: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Kijevas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"pilkapis\" parinktas kaip owner_note_path. Targetas \"Kijevas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175102
 
@@ -147,19 +82,6 @@ Vartojama kaip istorinis ir archeologinis terminas, šaltinyje susiejamas su rus
 - t-009
   global_id: t-192282
   teiginys: "Teodoro Narbuto užrašytuose vietos pasakojimuose pilkapiai priskiriami neatmenamos senovės epochai."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "695234-696186; hash=4ae9206b4d057c93a1ef950c64cae6d9d0525b9332732e80be899fbcbcc2bafc; match=ocr_normalized"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  ryšio_patikimumas: "susije_su -> Kaimas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "pilkapis: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Kaimas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"pilkapis\" parinktas kaip owner_note_path. Targetas \"Kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175101
 - susijęs iš [[objektai/asmenys/Karolis Kozakovskis.md#claim-t-190902|Karolis Kozakovskis]]: Karolis Kozakovskis 1838 m. atkasė Ukmergės pilkapį, po kuriuo rasta didelė pelenų ir apdegusių daiktų liekanų pilna duobė.
@@ -182,8 +104,8 @@ Vartojama kaip istorinis ir archeologinis terminas, šaltinyje susiejamas su rus
     šiek tiek suplotos elipsės formos, vertikalus skersinis pjū­
     vis sudaro dalį apskritimo.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -213,8 +135,8 @@ Vartojama kaip istorinis ir archeologinis terminas, šaltinyje susiejamas su rus
     o juo labiau kasinėti, atvirkščiai, nors jie stūkso vidury
     laukų, tarp pastatų ir gerokai trukdo, jie jų neliečia.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -238,8 +160,8 @@ Vartojama kaip istorinis ir archeologinis terminas, šaltinyje susiejamas su rus
     Pilkapiai — žemės kalvos, supiltos žmonių rankomis,
     rusinu vadinami kurhany.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -251,7 +173,8 @@ Vartojama kaip istorinis ir archeologinis terminas, šaltinyje susiejamas su rus
 - id: c-175100
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 380"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 380."
   citata_originali: |
     Ypač mus domina baltarusių
     pilkapiai, savo forma ir dydžiu besiskiriantys nuo ukrai-
@@ -273,7 +196,8 @@ Vartojama kaip istorinis ir archeologinis terminas, šaltinyje susiejamas su rus
 - id: c-175101
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 382"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 382."
   citata_originali: |
     Apskri­
     tai panašūs radiniai priklauso prie retenybių.
@@ -308,7 +232,8 @@ Vartojama kaip istorinis ir archeologinis terminas, šaltinyje susiejamas su rus
 - id: c-175102
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 380"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 380."
   citata_originali: |
     Tokia surinkta pradinės Kijevo istorijos medžiaga, ku­
     ria remdamasis, išmanantis istoriją ir turintis noro galės

@@ -30,21 +30,6 @@ Narbutas pasakoja, kad šventajam vyrui paprašius laisvės kažkokiam Ambraziej
 - t-001
   global_id: t-191365
   teiginys: "Narbutas pasakoja, kad šventajam vyrui paprašius laisvės kažkokiam Ambraziejui, Odoakras liepė jam tuoj nuimti grandines."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "569744-570078; hash=2dd1d086601f56eda91ec1b81a1291b1113932edd1c265b00f07dba41a5eadac; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Odoakras: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ambraziejus: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Odoakras: mention_match, person, gap=13"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ambraziejus\" parinktas kaip owner_note_path. Targetas \"Odoakras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:43Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174247
 ## Reikšmingi paminėjimai
@@ -65,8 +50,8 @@ Narbutas pasakoja, kad šventajam vyrui paprašius laisvės kažkokiam Ambraziej
     Italijoje įvesti ir išorinei taikai išsaugoti, tačiau ne kar­
     tą jam reikėjo rengti karo žygius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

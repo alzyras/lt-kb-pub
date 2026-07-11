@@ -41,20 +41,6 @@ media_all_json: |-
 - t-001
   global_id: t-19949
   teiginys: "2004 m. Lietuva tapo NATO ir Europos Sąjungos nare."
-  semantiniai_rysiai: "Lietuva priklausė NATO (0.86)"
-  temporaliniai_duomenys: "įvykio data: 1990 m.; įvykio data: 2004 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko trumpesnį enciklopedinį teiginį be perteklinės formuluotės."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "8261-8769; hash=651ab5311a83519ccc459e1a1bdbfe710164561ecd5705f04c8382bd0131d5fb; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> NATO: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "NATO: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata nurodo Lietuvos tapimą NATO valstybių šeimos nare; tai leidžia fiksuoti priklausymą NATO."
   pagrindžia:
     - c-22679
 
@@ -62,20 +48,6 @@ media_all_json: |-
 - t-002
   global_id: t-19950
   teiginys: "2004 m. Lietuva tapo ES ir NATO nare."
-  semantiniai_rysiai: "Lietuva priklausė NATO (0.90)"
-  temporaliniai_duomenys: "įvykio data: 2004 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai pagrįstas citata."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "29292-29526; hash=c09de3311b0fb0a29821f5b5c843d21ab0a1dee44f2f95221c3c3ef17d9bd31f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> NATO: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "NATO: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Claim tiesiogiai nurodo, kad Lietuva tapo NATO nare."
   pagrindžia:
     - c-166560
 
@@ -83,20 +55,6 @@ media_all_json: |-
 - t-002
   global_id: t-19950
   teiginys: "2004 m. Lietuva tapo ES ir NATO nare."
-  semantiniai_rysiai: "Lietuva priklausė NATO (0.90)"
-  temporaliniai_duomenys: "įvykio data: 2004 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai pagrįstas citata."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "29292-29526; hash=c09de3311b0fb0a29821f5b5c843d21ab0a1dee44f2f95221c3c3ef17d9bd31f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> NATO: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "NATO: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Claim tiesiogiai nurodo, kad Lietuva tapo NATO nare."
   pagrindžia:
     - c-166560
 - susijęs iš [[objektai/grupes/Europos Sąjunga.md#claim-t-74117|Europos Sąjunga]]: 2004 m. Lietuva tapo Europos Sąjungos ir NATO nare.
@@ -168,8 +126,8 @@ media_all_json: |-
     2013-aisiais Lietuva imsis istorinės pareigos pirmininkauti Europos Są-
     jungai – laisvų ir demokratinių Europos valstybių susivienijimui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -185,8 +143,8 @@ media_all_json: |-
     atkurti Nepriklausomybę.
     Ir dar labai svarbu žinoti – 2004 m. Lietuva tapo ES ir NATO nare.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -236,4 +194,3 @@ media_all_json: |-
 
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/vietos/Lietuva]]
-- NATO gynė [[objektai/vietos/Lietuva]]

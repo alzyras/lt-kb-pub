@@ -57,21 +57,6 @@ Nenurodyta
 - t-001
   global_id: t-191991
   teiginys: "Laiške Ignui Onacevičiui Teodoras Narbutas antrą LTI tomą vadino skirtu lietuvių tautos versmėms tyrinėti."
-  teiginio_tipas: "saltinio_teiginys"
-  sudarymo_pagrindimas: "Teiginys jau yra gramatiškas lietuviškas sakinys su aiškiu subjektu ir atribucija R. Griškaitei. Jis neperžengia citatos duomenų apie Narbuto laiške nusakytą antro tomo paskirtį."
-  susije_objektai: "mentioned_author: [[objektai/autoriai/T. Narbutas|T. Narbutas]]; mentioned_person: [[objektai/asmenys/Teodoras Narbutas|Teodoras Narbutas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "2716-3343; hash=a57de24a0764e1168ee747355e30f740172e5692f764892a7c5954ec86fe2304; match=exact"
-  sprendimo_priezastis: "source_intake::validation_repair"
-  ryšio_patikimumas: "susije_su -> Teodoras Narbutas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.): owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Teodoras Narbutas: mention_match, author, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)\" parinktas kaip owner_note_path. Targetas \"Teodoras Narbutas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174873
 ## Reikšmingi paminėjimai
@@ -95,8 +80,8 @@ Nenurodyta
     Taigi antro „Lietuvių tautos istorijos“ (toliau LTI) tomo
     uždavinys buvo nusakytas labai konkrečiai.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -107,7 +92,8 @@ Nenurodyta
 - id: c-174873
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 4"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 4."
   citata_originali: |
     T A U T O S  V E R S M I Ų  B E I E Š K A N T
     Tai bendra mūsų, rašančiųjų,

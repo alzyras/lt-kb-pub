@@ -39,20 +39,6 @@ Kovai prieš Ordiną Lenkija suartėjo su Čekijos husitais. Ordinas, pirmiausia
 - t-002
   global_id: t-41207
   teiginys: "Lenkija su Čekijos husitais vakaruose rengėsi kovoti prieš Ordiną."
-  semantiniai_rysiai: "Livonijos ordinas rėmė Švitrigaila (0.94)"
-  temporaliniai_duomenys: "įvykio data: 1433 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Rewrite failed deterministic gates: missing_factual_predicate"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "271527-272096; hash=39738b286d6e88feae9e65b880c9e2621002c60abd481b3d83e8482659cb05e5; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "reme -> Švitrigaila: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Livonijos ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata tiesiogiai įvardija Livonijos šaką kaip Švitrigailos rėmėją."
   pagrindžia:
     - c-44876
 
@@ -60,14 +46,6 @@ Kovai prieš Ordiną Lenkija suartėjo su Čekijos husitais. Ordinas, pirmiausia
 - t-003
   global_id: t-193737
   teiginys: "Kovai prieš Ordiną Lenkija suartėjo su Čekijos husitais."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "265990-266171; hash=afeb823fea5583920e1efe219bd598ffd00041e3de66d5f6d0ae1af9f9a11dcf; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-176403
 
@@ -75,14 +53,6 @@ Kovai prieš Ordiną Lenkija suartėjo su Čekijos husitais. Ordinas, pirmiausia
 - t-004
   global_id: t-193738
   teiginys: "Vakaruose 1433 m. Lenkijai suartėjus su čekų husitais, Ordinui kilo didelė grėsmė."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "274343-274700; hash=325a637fbf0134af1523d4293ce5203af9fc5643a2c989da7f310e09e39e1920; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-42988
 ## Reikšmingi paminėjimai
@@ -101,8 +71,8 @@ Kovai prieš Ordiną Lenkija suartėjo su Čekijos husitais. Ordinas, pirmiausia
     įsiveržė į Ordino valdas birželio pradžioje,
     viską naikino ir degino.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -128,8 +98,8 @@ Kovai prieš Ordiną Lenkija suartėjo su Čekijos husitais. Ordinas, pirmiausia
     Užpalių pilis, paėmė daug belaisvių, bet bi-
     jodami lietuvių kontrsmūgio, pasitraukė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -147,8 +117,8 @@ Kovai prieš Ordiną Lenkija suartėjo su Čekijos husitais. Ordinas, pirmiausia
     su Čekijos husitais. Tuo pat metu buvo
     veikiama prieš Švitrigailą Lietuvoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

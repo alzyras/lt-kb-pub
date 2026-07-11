@@ -36,12 +36,6 @@ media_all_json: |-
 - t-001
   global_id: t-194161
   teiginys: "'° Jonas Goštautas pirmą kartą kaip Vilniaus vaivada figūruo ja 1443.11!.23 (Polski slownik blograficzny."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "558777-558910; hash=0211b054c42c3a97b38d2f90ecddb26fd9026ef2bc5df0e4bd6263bff8d8616b; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176774
 ## Reikšmingi paminėjimai
@@ -53,8 +47,8 @@ media_all_json: |-
     '° Jonas Goštautas pirmą kartą kaip Vilniaus vaivada figūruo­
     ja 1443.11!.23 (Polski slownik blograficzny. t. VU/4, sąs. 34. p. 297).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -65,7 +59,8 @@ media_all_json: |-
 - id: c-176774
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 287"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 287."
   citata_originali: |
     '° Jonas Goštautas pirmą kartą kaip Vilniaus vaivada figūruo­
     ja 1443.11!.23 (Polski slownik blograficzny. t. VU/4, sąs. 34. p. 297).

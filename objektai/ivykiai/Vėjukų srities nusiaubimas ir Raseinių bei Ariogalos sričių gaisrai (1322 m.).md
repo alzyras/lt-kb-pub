@@ -54,19 +54,6 @@ Nenurodyta
 - t-001
   global_id: t-31505
   teiginys: "1322 m. riteriai su kryžininkais įsiveržė į Žemaičius, nusiaubė Vėjukų sritį ir gaisrais nuniokojo Raseinių bei Ariogalos sritis."
-  semantiniai_rysiai: "Kryžiuočių ordinas puolė Ariogala (0.72)"
-  temporaliniai_duomenys: "įvykio data: 1322 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "630289-630712; hash=362ba571e883663f92a71e786a5397dc80fbddd194ab233e7e7282ff7d1c0c11; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Ariogala: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Ariogala: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Kryžiuočių žygio kontekste nurodomas Ariogalos srities nusiaubimas."
   pagrindžia:
     - c-33447
 ## Reikšmingi paminėjimai
@@ -82,8 +69,8 @@ Nenurodyta
     Gaisrais nusiaubę Raseinių ir Ariogalos sritis, Dubysos žiotyse jie
     tačiau nepaėmė nuo seniau vis puolamos Peštvės.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -33,16 +33,6 @@ Tremtinių išvežimas į atšiauraus klimato prie Ledynuotojo vandenyno, Altaja
 - t-001
   global_id: t-21339
   teiginys: "Tremtinių išvežimas į Altajaus krašto vietoves, kur dalis jų mirė arba žuvo, vertinamas kaip nusikaltimas žmoniškumui."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "392860-393411; hash=187d888bf2138390557505769f69c15b1519e8bf2c5053a3b5d689ccfd5c3cd6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Žydai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Altajaus kraštas (kraštas): owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Žydai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Altajaus kraštas (kraštas)\" parinktas kaip owner_note_path. Targetas \"Žydai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-24037
 ## Reikšmingi paminėjimai
@@ -59,8 +49,8 @@ Tremtinių išvežimas į atšiauraus klimato prie Ledynuotojo vandenyno, Altaja
     šiauraus klimato prie Ledynuotojo vandenyno, Altajaus krašto vietoves,
     kur dalis jų mirė arba žuvo, vertintinas kaip nusikaltimas žmoniškumui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

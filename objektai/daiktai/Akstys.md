@@ -50,17 +50,6 @@ Nenurodyta
 - t-001
   global_id: t-08278
   teiginys: "Akstys buvo ginklai, kurių galuose vietoj ietigalių buvo įtaisyti aštrūs akmenys."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "355399-355638; hash=c0e5a7d706810bf480f448b2674248882aeaf475b778f06c32d2b1c19b4cc107; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Brūklys: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Akstys: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Brūklys: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Akstys\" parinktas kaip owner_note_path. Targetas \"Brūklys\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-10236
 
@@ -68,10 +57,6 @@ Nenurodyta
 - t-002
   global_id: t-08279
   teiginys: "Tokios akstys dar buvo dėvimos 10 amžiuje ir siejamos su šv. Vaitiekaus pervėrimu."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "167413-167539; hash=48132ee689dde9c2376cae7ba3fb8ce2f503f63dba392e9f87cfa8a4693a98cc; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-56416
 ## Reikšmingi paminėjimai
@@ -84,8 +69,8 @@ Nenurodyta
         arba, aiškiau sakant, kūjais ir kalavijais bei akstimis^1329 , kurių galuose taip pat buvo įtaisyti aštrūs
         akmenys iečių vietoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -97,8 +82,8 @@ Nenurodyta
     Tokias akstis dėvėjo dar 10 amžiuje, nesgi šv. Vaitiekų, Parusy krikščonų mokslą skelbiantį, žynys ta
         aksčia permovė^1330.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

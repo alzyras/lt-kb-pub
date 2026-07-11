@@ -30,22 +30,6 @@ Teokritas Scholastas paliko žinią, kad varpai priklausė dievų Kabirų garbin
 - t-001
   global_id: t-190458
   teiginys: "Teokritas Scholastas paliko žinią, kad varpai priklausė dievų Kabirų garbinimo paslaptingoms apeigoms."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Varpai priklausė Romėnai (0.84)"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "280169-280586; hash=de9e08609e573e27fcc9d066a5944bffb68e491fe33650b36bc4d7d5eb1f71c8; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Romėnai: 0.84"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Varpai: llm_allowed_candidate, thing"
-  ryšio_targeto_parinkimas: "Romėnai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata tiesiogiai teigia, kad romėnai turėjo varpų, todėl varpai priskiriami romėnams."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173341
 ## Reikšmingi paminėjimai
@@ -63,8 +47,8 @@ Teokritas Scholastas paliko žinią, kad varpai priklausė dievų Kabirų garbin
     mas padeda žmonėms apsivalyti ir pasišvęsti, taip pat nuveja
     piktąsias dvasias.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -75,7 +59,8 @@ Teokritas Scholastas paliko žinią, kad varpai priklausė dievų Kabirų garbin
 - id: c-173341
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 161"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 161."
   citata_originali: |
     Kronikininkai taip pat mano, kad dievui Varpui būdavo
     aukojami gaidžiai, kaip budrumo simboliai.

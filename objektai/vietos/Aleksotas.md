@@ -30,22 +30,6 @@ Narbutas Aleksoto pavadinimą siejo su Kauno apylinkių deivės garbinimo tyrima
 - t-001
   global_id: t-188921
   teiginys: "Narbutas Aleksoto pavadinimą siejo su Kauno apylinkių deivės garbinimo tyrimais ir lygino jį su nimfos Alexothe vardu."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Aleksotas priklausė Kaunas (0.84)"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "232821-233073; hash=13aef65dffee06fee8718c1ffc3c81118a1bfdbf1def4e481947524b9222f168; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Kaunas: 0.84"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Aleksotas: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Kaunas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata nurodo, kad Aleksotas yra Kauno miesto priemiestis, tad priklauso Kaunui."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171810
 
@@ -53,22 +37,6 @@ Narbutas Aleksoto pavadinimą siejo su Kauno apylinkių deivės garbinimo tyrima
 - t-002
   global_id: t-188922
   teiginys: "Pasak Narbuto užrašyto pasakojimo, Aleksoto priemiestyje ant kalno stovėjusi šventykla arba aukuras meilės dievybėms."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Aukuras priklausė Aleksotas (0.82); Aleksotas priklausė Kaunas (0.55)"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "275151-275548; hash=e12054ee7f389ca3030b81acd30b08d45bdaea7bccc243391525063fd808597d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Aleksotas: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Aukuras: llm_allowed_candidate, thing"
-  ryšio_targeto_parinkimas: "Aleksotas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai lokalizuoja aukurą Aleksoto priemiestyje."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171811
 - susijęs iš [[objektai/daiktai/Aleksoto meilės dievybių šventykla arba aukuras.md#claim-t-189717|Aleksoto meilės dievybių šventykla arba aukuras]]: Narbutas vietos padavimams priskiria pasakojimą, kad Aleksoto priemiestyje ant kalno stovėjo meilės dievybėms skirta šventykla arba aukuras.
@@ -94,8 +62,8 @@ Narbutas Aleksoto pavadinimą siejo su Kauno apylinkių deivės garbinimo tyrima
     to priemiesčių iki šiol tebesivadina Aleksotu. Antikos laikais
     buvo žinoma stebėtino gražumo nimfa, vadmtaAlexothe'3.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -118,8 +86,8 @@ Narbutas Aleksoto pavadinimą siejo su Kauno apylinkių deivės garbinimo tyrima
     nuo kunigaikščio Kūno, Palemono sūnaus, kuris buvęs miesto
     įkūrėjas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -130,7 +98,8 @@ Narbutas Aleksoto pavadinimą siejo su Kauno apylinkių deivės garbinimo tyrima
 - id: c-171810
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 133"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 133."
   citata_originali: |
     Iškilmės“.
     O tyrimai tik vietiniai ir apima Kauno apylinkes, kur toji
@@ -167,7 +136,3 @@ Narbutas Aleksoto pavadinimą siejo su Kauno apylinkių deivės garbinimo tyrima
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188922
-
-## Ryšiai
-- Turėjo priklausinį: [[objektai/daiktai/Aukuras]]
-- Aleksotas priklausė [[objektai/vietos/Kaunas]]

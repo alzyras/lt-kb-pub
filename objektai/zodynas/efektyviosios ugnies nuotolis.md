@@ -32,14 +32,6 @@ Suėjus į efektyviosios ugnies nuotolį, puolantieji galėjo sustoti, pasilygiu
 - t-001
   global_id: t-193807
   teiginys: "Suėjus į efektyviosios ugnies nuotolį, puolantieji galėjo sustoti, pasilygiuoti ir judėti, derindami šaudymą su judėjimu į priekį."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "565321-565549; hash=e9867f10745352e62e30a82e7fe3ebd185bc63a3f1a963a62222f3a63db197ff; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-176452
 ## Reikšmingi paminėjimai
@@ -55,8 +47,8 @@ Suėjus į efektyviosios ugnies nuotolį, puolantieji galėjo sustoti, pasilygiu
     efektyviosios ugnies nuotolį, puolantieji galėjo sustoti, pasilygiuoti
     ir judėti, derindami šaudymą su judėjimu į priekį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

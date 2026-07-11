@@ -39,12 +39,6 @@ Kojelavičius savo istoriją rašė pusamžiu vėliau negu jo pirmtakai. Kojelav
 - t-001
   global_id: t-193493
   teiginys: "Kojelavičius savo istoriją rašė pusamžiu vėliau negu jo pirmtakai."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "4583-5019; hash=6c85db2726d880132cc11c836c1e6291b6d849c98cf0241eed80a91fb9b538f1; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176184
 
@@ -52,12 +46,6 @@ Kojelavičius savo istoriją rašė pusamžiu vėliau negu jo pirmtakai. Kojelav
 - t-002
   global_id: t-193494
   teiginys: "Kojelavičiaus biografija rodosi labai nesudė tinga."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "6043-6371; hash=7fbd3fae904f55cbfeb0d5c04a4cd3a70c77e729560dc01cf8dbbd8138f049f2; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176185
 
@@ -65,12 +53,6 @@ Kojelavičius savo istoriją rašė pusamžiu vėliau negu jo pirmtakai. Kojelav
 - t-003
   global_id: t-193495
   teiginys: "Kojelavičius dalyvavo ordino narių susirinkime Varšuvoje, kur išrenkamas Lietuvos provincijos įgalio tiniu."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "7945-8238; hash=5c37b8c963748955a62559d632074ec88328516baab7f682ac19a4e1af4c187b; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176186
 ## Reikšmingi paminėjimai
@@ -88,8 +70,8 @@ Kojelavičius savo istoriją rašė pusamžiu vėliau negu jo pirmtakai. Kojelav
     pagrindiniu žinių šaltiniu, ji paremta M. Strijkovskio
     kronika, jis ją esą literatūriškai ir idėjiškai perdirbęs.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -107,8 +89,8 @@ Kojelavičius savo istoriją rašė pusamžiu vėliau negu jo pirmtakai. Kojelav
     tinga. Jis gimė 1609 m. Vijūkų dvarelyje netoli Kau­
     no.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -125,8 +107,8 @@ Kojelavičius savo istoriją rašė pusamžiu vėliau negu jo pirmtakai. Kojelav
     tiniu. Jos reikalais važinėjo į Romą! Po 1657 m. pa­
     liaubų jis jau vėl Vilniuje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -137,7 +119,8 @@ Kojelavičius savo istoriją rašė pusamžiu vėliau negu jo pirmtakai. Kojelav
 - id: c-176184
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 4"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 4."
   citata_originali: |
     A. Kojelavičius savo istoriją rašė pusamžiu vėliau
     negu jo pirmtakai. Chronologiškai ir idėjiškai nebe­
@@ -157,7 +140,8 @@ Kojelavičius savo istoriją rašė pusamžiu vėliau negu jo pirmtakai. Kojelav
 - id: c-176185
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 5"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 5."
   citata_originali: |
     „Lietuvos istorijos" atsiradimas glaudžiai susijęs su
     Vilniaus aukštąja mokykla, vadinta dvigubu akademi­
@@ -176,7 +160,8 @@ Kojelavičius savo istoriją rašė pusamžiu vėliau negu jo pirmtakai. Kojelav
 - id: c-176186
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 6"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 6."
   citata_originali: |
     1655 m., prasidėjus Rusijos ir Švedijos kariuomenių
     okupacijai, jėzuitai iš Vilniaus pasitraukė į Lenkiją.

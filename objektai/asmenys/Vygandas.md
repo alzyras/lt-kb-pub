@@ -35,17 +35,6 @@ Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yr
 - t-001
   global_id: t-30415
   teiginys: "Vygandas buvo vienas iš penkių Jogailos brolių, Julijonos sūnų, paminėtų liudininkais trijose Jogailos ir Skirgailos sutartyse."
-  semantiniai_rysiai: "Vygandas buvo brolis Skirgaila (0.76)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "761711-762367; hash=d5c5831d7d6e1a0e69a0c107757c0c36ab75bb51cf0bf150957924ae7113b422; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_brolis -> Skirgaila: 0.76"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vygandas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Skirgaila: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Vygandas ir Skirgaila pateikti kaip Jogailos broliai, todėl jie tarpusavyje yra broliai."
   pagrindžia:
     - c-32827
 - susijęs iš [[objektai/asmenys/Vygandas von Baldersheimas.md#claim-t-35339|Vygandas von Baldersheimas]]: Ragainės komtūras Vygandas von Baldersheimas buvo Vytauto krikštatėvis, todėl Vytautas apsikrikštijo Vygando vardu.
@@ -97,8 +86,8 @@ Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yr
     bei svarbiu patarėju tapęs Hanulis. O Julijona ir kunigaikščio
     taryba tėra paminėta Žemaičių dovanojimo dokumente.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -129,6 +118,3 @@ Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-30415
-
-## Ryšiai
-- Broliai: [[objektai/asmenys/Skirgaila]]

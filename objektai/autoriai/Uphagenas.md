@@ -30,21 +30,6 @@ Narbutas Uphageną vadina nuodugniai mąstančiu senovės tyrinėtoju, patekusiu
 - t-001
   global_id: t-191660
   teiginys: "Narbutas Uphageną vadina nuodugniai mąstančiu senovės tyrinėtoju, patekusiu į prielaidas apie skirių ir hirių gentis."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "489725-490267; hash=7d87c8dec0d1eace38f672af8a3d9d74457f8d03d7e8c33a77f6085e637ba606; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Hiriai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Uphagenas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Hiriai: mention_match, group, gap=95"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Uphagenas\" parinktas kaip owner_note_path. Targetas \"Hiriai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174542
 ## Reikšmingi paminėjimai
@@ -65,8 +50,8 @@ Narbutas Uphageną vadina nuodugniai mąstančiu senovės tyrinėtoju, patekusiu
     ra vertus, tektų kartoti tai, ką jau rašėme arba ketiname
     vėliau parašyti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -77,7 +62,8 @@ Narbutas Uphageną vadina nuodugniai mąstančiu senovės tyrinėtoju, patekusiu
 - id: c-174542
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 275"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 275."
   citata_originali: |
     Galbūt ir
     lietuvių kalba jie vadinosi skiriais, nes esama panašiai

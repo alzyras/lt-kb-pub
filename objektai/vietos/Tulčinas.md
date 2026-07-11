@@ -32,17 +32,6 @@ Lenkijoje tokiuos žymius dvarus turėjo — Čartoriskiai Pulavuose, Potockiai 
 - t-001
   global_id: t-02799
   teiginys: "Potockiai Tulčine turėjo vieną iš žymių Lenkijos dvarų."
-  semantiniai_rysiai: "Oginskiai gyveno Slanimas (0.50)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "800123-800464; hash=8b21d87cd25bdf170740dcaea72730fa170e0d7ded28c21d2299a4b4e825ad6d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Slanimas: 0.50"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Oginskiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Slanimas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Oginskių dvaras tiesiogiai lokalizuotas Slanime, nors tai nėra tiesioginis gyvenimo teiginys."
   pagrindžia:
     - c-03037
 ## Reikšmingi paminėjimai
@@ -57,8 +46,8 @@ Lenkijoje tokiuos žymius dvarus turėjo — Čartoriskiai Pulavuose, Potockiai 
     Branickis Balstogėje. Lietuvoje puikiausias dvaras buvo Radvilų
     Nesvyžiuje; vėliau iškilo Oginskių dvaras Slanime.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

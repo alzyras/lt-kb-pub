@@ -57,14 +57,6 @@ Nenurodyta
 - t-001
   global_id: t-193682
   teiginys: "LLL nariai ypač daug dėmesio skyrė 1939 m. rugpjūčio 23 d. Vokietijos ir Sovietų Sąjungos pasirašytam ir Molotovo–Ribentropo paktui."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "474953-475977; hash=4f53a9e9bf5b887f29c47e871f85812ea8df426efc9cb809e2dc21b3b1219897; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-176351
 ## Reikšmingi paminėjimai
@@ -90,8 +82,8 @@ Nenurodyta
     pakto  slaptuosius protokolus, pripažinti jį negaliojančiu nuo pasirašymo
     datos ir likviduoti jo padarinius – išvesti svetimą kariuomenę iš Pabaltijo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

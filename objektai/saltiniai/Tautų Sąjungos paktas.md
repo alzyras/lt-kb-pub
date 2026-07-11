@@ -34,9 +34,6 @@ Tautų Sąjunga tą projektą tada paskelbė, kaip galutinę savo rekomendaciją
 - t-001
   global_id: t-67550
   teiginys: "Tautų Sąjunga paskelbė paskutinį Hymanso projektą galutine rekomendacija konfliktui spręsti pagal pakto 15 straipsnio 4 punktą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "1127435-1128024; hash=75408b54c6735ef90be0db58ac688094c705544d96cb8b82c1d554e9d35460c4; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-67413
 ## Reikšmingi paminėjimai
@@ -56,8 +53,8 @@ Tautų Sąjunga tą projektą tada paskelbė, kaip galutinę savo rekomendaciją
     mendaciją ir jos suteiktų teisių ribose toliau ieškoti būdų jai
     pagerinti ar pataisyti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

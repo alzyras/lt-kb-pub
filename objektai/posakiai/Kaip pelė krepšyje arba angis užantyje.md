@@ -54,16 +54,6 @@ Formulė reiškia slaptą, iš vidaus veikiančią grėsmę.
 - t-001
   global_id: t-55178
   teiginys: "Prūsijos vyskupų laiške taikos sutarties grėsmė lyginama su pele krepšyje arba angimi užantyje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "176384-178500; hash=bc7a4710e3e9b2eb9dda82f893bf7d7ab02583554bf84a20a5810be8cf182899; match=whitespace_regex"
-  sprendimo_priezastis: "gap::sayings"
-  ryšio_patikimumas: "susije_su -> Dobrynė: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kaip pelė krepšyje arba angis užantyje: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Dobrynė: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaip pelė krepšyje arba angis užantyje\" parinktas kaip owner_note_path. Targetas \"Dobrynė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-78630
 
@@ -71,16 +61,6 @@ Formulė reiškia slaptą, iš vidaus veikiančią grėsmę.
 - t-002
   global_id: t-55179
   teiginys: "Prūsijos vyskupų laiške sutarties grėsmė buvo lyginama su pele krepšyje arba angimi užantyje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "176384-178500; hash=bc7a4710e3e9b2eb9dda82f893bf7d7ab02583554bf84a20a5810be8cf182899; match=whitespace_regex"
-  sprendimo_priezastis: "gap::sayings"
-  ryšio_patikimumas: "susije_su -> Dobrynė: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kaip pelė krepšyje arba angis užantyje: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Dobrynė: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaip pelė krepšyje arba angis užantyje\" parinktas kaip owner_note_path. Targetas \"Dobrynė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-78630
 
@@ -88,16 +68,6 @@ Formulė reiškia slaptą, iš vidaus veikiančią grėsmę.
 - t-003
   global_id: t-82140
   teiginys: "Vyskupų laiške perspėta, kad priešai kaip pelė krepšyje arba angis užantyje sunaikins jų žemes ir užtrauks pražūtį krikščionybei."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "176384-178500; hash=bc7a4710e3e9b2eb9dda82f893bf7d7ab02583554bf84a20a5810be8cf182899; match=whitespace_regex"
-  sprendimo_priezastis: "gap::sayings"
-  ryšio_patikimumas: "susije_su -> Dobrynė: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kaip pelė krepšyje arba angis užantyje: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Dobrynė: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaip pelė krepšyje arba angis užantyje\" parinktas kaip owner_note_path. Targetas \"Dobrynė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-78630
 ## Reikšmingi paminėjimai
@@ -155,8 +125,8 @@ Formulė reiškia slaptą, iš vidaus veikiančią grėsmę.
     paliudijimų Dobrynės ir Kulmo žemėse, deja, netgi perdėm
     aiškiai įtikina.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

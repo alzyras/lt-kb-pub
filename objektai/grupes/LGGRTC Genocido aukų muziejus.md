@@ -45,19 +45,6 @@ Nuotraukos iš LCVA, LGGRTC Genocido aukų muziejaus ir Vilniaus Gaono valstybin
 - t-001
   global_id: t-77827
   teiginys: "Leidinyje panaudotos nuotraukos iš LGGRTC Genocido aukų muziejaus fondų."
-  temporaliniai_duomenys: "įvykio data: 1918-1940; įvykio data: 1940 m.; įvykio data: po 1990 m.; įvykio data: 1990 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data."
-  temporalinis_llm_pakomentavimas: "Citata pagrindžia tik šaltinių sąrašo faktą, todėl reikia pašalinti nutrūkusį fragmentą ir triukšmą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "552838-553218; hash=d3ac3eb3c38211ecb1538408c47947fa45b34e07c05792ae1d491df53f2a3e65; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "LGGRTC Genocido aukų muziejus: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"LGGRTC Genocido aukų muziejus\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-22476
 ## Reikšmingi paminėjimai
@@ -73,8 +60,8 @@ Nuotraukos iš LCVA, LGGRTC Genocido aukų muziejaus ir Vilniaus Gaono valstybin
     „Lietuvos diplomatija nuo 1990 m. kovo 11“ (Vilnius: Lietuvos užsienio reikalų
     ministerija), 2001; Lietuva, 1991 sausio 13.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

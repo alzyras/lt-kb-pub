@@ -33,9 +33,6 @@ Dusburgietis teigia, kad siek tiek toliau jis priduria (1 Mak 2. 67—68): „..
 - t-001
   global_id: t-61227
   teiginys: "Pirmojoje Makabiejų knygoje raginama atkeršyti priešams už tautą ir kovoti dėl gyvybės bei įstatymo."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "751589-752025; hash=03ec152ae5e147efb01067538252174a1a4b89a80653fddeba578afb655ad8d0; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-61859
 ## Reikšmingi paminėjimai
@@ -51,8 +48,8 @@ Dusburgietis teigia, kad siek tiek toliau jis priduria (1 Mak 2. 67—68): „..
     nekovosime prieš pagonis dėl savo gyvybės ir savo įstatymo, anie greitai išnaikins mus
     iš šalies”.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -63,7 +60,8 @@ Dusburgietis teigia, kad siek tiek toliau jis priduria (1 Mak 2. 67—68): „..
 - id: c-61859
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 255"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 255."
   citata_originali: |
     Siek tiek toliau jis priduria (1 Mak 2. 67—68): „...atkeršykite priešams
     už savo tautą. Atsilyginkite savo priešams, ką jie užsipelnė”. O kitoje vietoje, kai žuvo

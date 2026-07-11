@@ -30,22 +30,6 @@ Jordano pasakojime svebų karaliukai Hunimundas ir Alarikas, Narbuto žodžiais,
 - t-001
   global_id: t-191418
   teiginys: "Jordano pasakojime svebų karaliukai Hunimundas ir Alarikas, Narbuto žodžiais, pavydo paskatinti ėmė maištauti prieš gotus ir sukėlė pilietinį karą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Hunimundas kariavo prieš Gotai (0.86)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "525605-526145; hash=55e23d323985004786dc463ccc9bcc708fde6b4bf3c600b7feb3aa2af76370a4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Gotai: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Hunimundas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Gotai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Maištas prieš gotus ir pilietinio karo sukėlimas tiesiogiai rodo konfliktą su gotais."
-  vertinimo_atnaujinta: "2026-07-06T03:41:43Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174300
 - susijęs iš [[objektai/asmenys/Alarikas (svebų karaliukas).md#claim-t-191336|Alarikas (svebų karaliukas)]]: Narbutas vaizduoja svebų karaliukus Hunimundą ir Alariką kaip gotų plėšikiškų žygių bendrininkus, sukėlusius pilietinį karą.
@@ -69,8 +53,8 @@ Jordano pasakojime svebų karaliukai Hunimundas ir Alarikas, Narbuto žodžiais,
     tik tuo metu, kai jau atvirai kovojo su jais susikivirčiję
     kvadai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -81,7 +65,8 @@ Jordano pasakojime svebų karaliukai Hunimundas ir Alarikas, Narbuto žodžiais,
 - id: c-174300
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 293"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 293."
   citata_originali: |
     Tas pats istorikas Jorda­
     nas, pasakodamas apie gotų kivirčus, pirmiausia mini
@@ -100,7 +85,3 @@ Jordano pasakojime svebų karaliukai Hunimundas ir Alarikas, Narbuto žodžiais,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191418
-
-## Ryšiai
-- Sąjungininkai: [[objektai/grupes/Gotai]]
-- Hunimundas kariavo prieš [[objektai/grupes/Gotai]]

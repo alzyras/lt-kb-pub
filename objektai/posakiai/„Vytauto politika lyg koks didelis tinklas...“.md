@@ -32,12 +32,6 @@ Jo veiksmuose dažnai pasireikšdavo didelis atsargu­ mas, kuris tačiau nevirs
 - t-001
   global_id: t-194953
   teiginys: "Vytauto politika lyg koks didelis tinklas: jis jo akis tai suveda, tai paleidžia, tai naujai sumezga."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "654911-655205; hash=b8173c094a9e0c3ab4256dd9530c31ee145e07c71a9667f1f4326d320367565a; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177349
 ## Reikšmingi paminėjimai
@@ -53,8 +47,8 @@ Jo veiksmuose dažnai pasireikšdavo didelis atsargu­ mas, kuris tačiau nevirs
     tai paleidžia, tai naujai sumezga.
     Jo politika buvo neįmanoma be tinkamų padėjėjų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

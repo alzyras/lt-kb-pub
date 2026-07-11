@@ -50,10 +50,6 @@ Nenurodyta
 - t-001
   global_id: t-08345
   teiginys: "Jaunuomenė pavasariais gaminosi ir naudojo vamzdžius iš karklų ar blendies, o piemenėliai turėjo molio pypynes."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "142312-142549; hash=6b85e707bd9cc998737418231e7e61dc422d0f980d745bbcefad54ad6523d2c3; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-10299
 - susijęs iš [[objektai/asmenys/Kiščina (Vitebsko vaivadienė).md#claim-t-87756|Kiščina (Vitebsko vaivadienė)]]: Kiščina, Vitebsko vaivadienė, buvo įspėta nestabdyti į Vilnių vamzdžiais vedamo vandens iš Drujos upės.
@@ -77,8 +73,8 @@ Nenurodyta
     Taip pat vamzdžiais vamzdijo jaunuomenė, iš mauknos^559 karklų ar blendies padirbę pavasariais, lig žievei neprikepus;
         be tų vamzdžių turėjo piemenėliai molio pypynes, su kuriomis pavasarį ožaičius ir ėraičius po laukus ganydami tancino.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

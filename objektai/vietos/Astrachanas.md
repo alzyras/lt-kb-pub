@@ -38,17 +38,6 @@ Narbutas turėjo omenyje 1828 m. „Dziennik Wilenski“ paskelbtą Jano Potocki
 - t-001
   global_id: t-188977
   teiginys: "Narbutas turėjo omenyje 1828 m. „Dziennik Wilenski“ paskelbtą Jano Potockio straipsnį apie kelionę į Astrachaną ir jo apylinkes."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1828 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Bibliografinis fragmentas paverstas sakiniu apie Astrachaną minintį šaltinį. Palikti tik citatoje esantys autorius, leidinys, metai ir tema."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "854804-854991; hash=444d6ac894122085e7826d307f9de52f71ce8359f7f91b0152624541059d9c45; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171866
 - susijęs iš [[objektai/autoriai/Janas Potockis.md#claim-t-190336|Janas Potockis]]: Jano Potockio kelionės į Astrachanę ir jos apylinkes 1797 m. aprašymas buvo paskelbtas „Dziennik Wilenski“ 1828 m.
@@ -66,8 +55,8 @@ Narbutas turėjo omenyje 1828 m. „Dziennik Wilenski“ paskelbtą Jano Potocki
     przyleglych, w roku 1797 // Dziennik Wilenski. -
     1828. -  T. V. -  S. 222-240; 284-304.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -78,7 +67,8 @@ Narbutas turėjo omenyje 1828 m. „Dziennik Wilenski“ paskelbtą Jano Potocki
 - id: c-171866
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 483"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 483."
   citata_originali: |
     Šį kartą istorikas turėjo omenyje straipsnį: Podrož
     Hrabiego Jana Potockiego do Astrachanu i okolic

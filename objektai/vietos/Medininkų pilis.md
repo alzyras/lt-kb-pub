@@ -68,18 +68,6 @@ Nenurodyta
 - t-007
   global_id: t-109758
   teiginys: "Valdant Gediminui ar Algirdui Medininkų pilis priklausė mūro pilių sistemai aplink Lietuvos valstybės branduolį ir sostinę."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "53031-53549; hash=258bef618a9cd6582f66511e507956b175034bbdcaebbcba3bd7f2a35710d437; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Medininkų pilis (pilis): owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=53"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Medininkų pilis (pilis)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-101739
 
@@ -87,16 +75,6 @@ Nenurodyta
 - t-001
   global_id: t-109759
   teiginys: "Tikėtina, kad Vytauto laikais Medininkų pilis buvo sustiprinta mūrais."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1025066-1025263; hash=9f61118b6fad207bd972324193167e5e7aadcbd31598d32566c62fb60d572ba2; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Medininkai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Medininkų pilis (pilis): owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Medininkai: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Medininkų pilis (pilis)\" parinktas kaip owner_note_path. Targetas \"Medininkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-05669
 
@@ -104,16 +82,6 @@ Nenurodyta
 - t-005
   global_id: t-109760
   teiginys: "Medininkų pilį sudarė keli mediniai pastatai, apjuosti aukšta siena ir grioviu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "463285-463607; hash=c37e44e6bcdd30b2b1bf6651979efabd0b93602fdfe213e47dbb8f7e05a924dd; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Medininkai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Medininkų pilis (pilis): owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Medininkai: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Medininkų pilis (pilis)\" parinktas kaip owner_note_path. Targetas \"Medininkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-101742
 
@@ -121,17 +89,6 @@ Nenurodyta
 - t-006
   global_id: t-109761
   teiginys: "Šventasis Kazimieras dažnai viešėdavo Medininkų pilyje, stovėjusioje prie Ašmenos kelio per keturias mylias nuo Vilniaus."
-  semantiniai_rysiai: "Šventasis Kazimieras gyveno Medininkų pilis (pilis) (0.82)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "462768-463283; hash=b1c10b5b9d7316eb42dc287198c9786024ed8df940c139fcb650ac357d2023fd; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Medininkų pilis (pilis): 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Šventasis Kazimieras: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Medininkų pilis (pilis): llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Dažnas viešėjimas Medininkų pilyje tiesiogiai sieja Kazimierą su šia vieta."
   pagrindžia:
     - c-101741
 
@@ -139,17 +96,6 @@ Nenurodyta
 - t-004
   global_id: t-109762
   teiginys: "Šventasis Kazimieras dažnai viešėdavęs Medininkų pilyje, buvusioje per keturias mylias nuo Vilniaus prie Ašmenos kelio."
-  semantiniai_rysiai: "Šventasis Kazimieras gyveno Medininkų pilis (pilis) (0.82)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "463032-463424; hash=68da95f6d083a739df45ed502c610a799631b31c8934d94352e6a37b21cc9019; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Medininkų pilis (pilis): 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Šventasis Kazimieras: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Medininkų pilis (pilis): llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Dažnas viešėjimas Medininkų pilyje tiesiogiai sieja Kazimierą su šia vieta."
   pagrindžia:
     - c-101740
 ## Reikšmingi paminėjimai
@@ -163,8 +109,8 @@ Nenurodyta
     būti pastatyta taip pat mūrinė Lydos pilis. Jam priskiriama ir
     restauravimas mūrinių Vilniaus pilių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -183,8 +129,8 @@ Nenurodyta
     tos Juodosios Rusios ir Polocko žemės, bet ir Lietuvos politinėje įtakoje
     buvę Voluinė ir Haličas, Kijevas, Pskovas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -206,8 +152,8 @@ Nenurodyta
     sudarė keletas medinių pastatų, ap­
     juostų aukšta siena ir grioviu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -232,8 +178,8 @@ Nenurodyta
     Vilniaus nutolusioje Medininkų pi­
     lyje, esančioje prie Ašmenos kelio.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -252,8 +198,8 @@ Nenurodyta
     lekčių, bet buvusi daug aukštesnė.
     Jos storis viršija dvi uolektis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -367,6 +313,3 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-109760
-
-## Ryšiai
-- Gyvenamoji vieta: [[objektai/asmenys/Šventasis Kazimieras]]

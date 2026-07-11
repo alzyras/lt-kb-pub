@@ -33,16 +33,6 @@ Dusburgietis teigia, kad 664—708; Biržiška V.
 - t-001
   global_id: t-60678
   teiginys: "V. Biržiška parašė darbą „Kryžiuočių keliai“."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "83112-83210; hash=c42b66552d25e75787ad8d4119b9e42f1835511dafa56a32f1e1c880a52c2fda; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Biržiška V: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=26"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Biržiška V\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-61310
 ## Reikšmingi paminėjimai
@@ -54,8 +44,8 @@ Dusburgietis teigia, kad 664—708; Biržiška V.
     135 SRP, B. 2, S. 664—708; Biržiška V. Kryžiuočių keliai..., p. 1—63; Kraštas  ir
     žmonės, p. 7—41.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -66,7 +56,8 @@ Dusburgietis teigia, kad 664—708; Biržiška V.
 - id: c-61310
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 27"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 27."
   citata_originali: |
     135 SRP, B. 2, S. 664—708; Biržiška V. Kryžiuočių keliai..., p. 1—63; Kraštas  ir
     žmonės, p. 7—41.

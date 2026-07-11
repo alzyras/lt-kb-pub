@@ -53,16 +53,6 @@ Nenurodyta
 - t-002
   global_id: t-40805
   teiginys: "Žasto, dilbio, kelio ir blauzdos apsaugos datuojamos XIV a. pabaiga ir XV a."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "217420-217577; hash=d634d7a706b5d15d81006477f1e59835d5c2f9e0abaf88b267e925875316a238; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Žasto, dilbio, kelio ir blauzdos apsaugos: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Šarvinių pirštinių, žasto, dilbio, kelio ir blauzdos apsaugos: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Žasto, dilbio, kelio ir blauzdos apsaugos: mention_match, thing, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šarvinių pirštinių, žasto, dilbio, kelio ir blauzdos apsaugos\" parinktas kaip owner_note_path. Targetas \"Žasto, dilbio, kelio ir blauzdos apsaugos\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-42591
 ## Reikšmingi paminėjimai
@@ -77,8 +67,8 @@ Nenurodyta
     dos apsaugos. XIV a. pabaiga-
     xv a. Rekonstrukcija.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

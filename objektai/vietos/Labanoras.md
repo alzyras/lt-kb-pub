@@ -45,16 +45,6 @@ Vilniaus katedrai ir steigiamajai vyskupijai Jogaila užra­ šė (1387. 11. 17)
 - t-003
   global_id: t-83723
   teiginys: "Jogaila iškilmingu aktu dovanojo Vilniaus vyskupui Labanoro, Molėtų, Dambravos ir Verkių kaimus prie Vilniaus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "243217-243696; hash=a2b05c81000ebbbb9769499d32e5613678c07ab38299e30def47b1a0051e08c9; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Dambrava: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Labanoras: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Dambrava: mention_match, place, gap=18"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Labanoras\" parinktas kaip owner_note_path. Targetas \"Dambrava\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-79982
 
@@ -62,17 +52,6 @@ Vilniaus katedrai ir steigiamajai vyskupijai Jogaila užra­ šė (1387. 11. 17)
 - t-004
   global_id: t-83724
   teiginys: "Labanoro kaimas buvo tarp valdų, kuriomis iškilmingu aktu buvo aprūpinta Vilniaus katedra."
-  semantiniai_rysiai: "Labanoras priklausė Vilniaus katedra (0.72)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "243217-243696; hash=a2b05c81000ebbbb9769499d32e5613678c07ab38299e30def47b1a0051e08c9; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Vilniaus katedra: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Labanoras: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Vilniaus katedra: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys nurodo Labanorą kaip valdą, kuria buvo aprūpinta Vilniaus katedra."
   pagrindžia:
     - c-79982
 
@@ -80,18 +59,6 @@ Vilniaus katedrai ir steigiamajai vyskupijai Jogaila užra­ šė (1387. 11. 17)
 - t-001
   global_id: t-83725
   teiginys: "1387 m. lapkričio 17 d. Jogaila užrašė Labanorą Vilniaus katedrai ir steigiamajai vyskupijai."
-  temporaliniai_duomenys: "įvykio data: 1387 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "260211-260484; hash=8107b7719aaa0d13bc9fc0390831f5042a36c3a3632ba8bb8a136d9b54a0b8c1; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Labanoras: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=9"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Labanoras\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-37490
 - susijęs iš [[objektai/ivykiai/Giedraičių kautynės (1920 m.).md#claim-t-10213|Giedraičių kautynės (1920 m.)]]: Po Giedraičių kautynių atkirsta lenkų kavalerijos brigada lapkričio 24 d. ties Labanoru perėjo fronto liniją.
@@ -114,8 +81,8 @@ Vilniaus katedrai ir steigiamajai vyskupijai Jogaila užra­ šė (1387. 11. 17)
     vienus mūrinius namus didžiojo kunigaikščio pilyje ir ten pat
     keturis medinius namus^3 ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -138,8 +105,8 @@ Vilniaus katedrai ir steigiamajai vyskupijai Jogaila užra­ šė (1387. 11. 17)
     teko jai ir Dubrovno pavietas, kadaise buvusi iš Lietuvos
     istorijos žinomo Jogailos patikėtinio Vaidilos nuosavybė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -192,7 +159,3 @@ Vilniaus katedrai ir steigiamajai vyskupijai Jogaila užra­ šė (1387. 11. 17)
   pagrindzia:
     - t-83723
     - t-83724
-
-## Ryšiai
-- Buvo kelionės vieta: [[objektai/grupes/brigada]]
-- Labanoras priklausė [[objektai/vietos/Vilniaus katedra]]

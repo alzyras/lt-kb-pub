@@ -43,19 +43,6 @@ Danai — buvusias Kuršo vyskupystės žemes, vadinamąją Piltenę, ir Saremos
 - t-001
   global_id: t-43877
   teiginys: "Danams atiteko Saremos, arba Eželio, vyskupystė."
-  semantiniai_rysiai: "Tartai priklausė Maskva (0.82); Talinas priklausė Švedai (0.78)"
-  temporaliniai_duomenys: "įvykio data: iki 1582 m.; įvykio data: 1582 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "443483-444091; hash=725d0b683416467ef0abcdabb0b9539fe932ae59c16c73ccc1782a3e737c589e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Maskva: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Tartai: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Maskva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Maskva buvo užgrobusi Tartų vyskupystę."
   pagrindžia:
     - c-47145
 
@@ -63,19 +50,6 @@ Danai — buvusias Kuršo vyskupystės žemes, vadinamąją Piltenę, ir Saremos
 - t-002
   global_id: t-43878
   teiginys: "Tuo metu Danams priklausė Saremos, arba Eželio, vyskupystė."
-  semantiniai_rysiai: "Tartai priklausė Maskva (0.82); Talinas priklausė Švedai (0.78); Livonija priklausė Lietuva (0.76)"
-  temporaliniai_duomenys: "priklausymo laikotarpis: iki 1582 m.; priklausymo laikotarpis: 1582 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip priklausymo laikotarpis su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „priklausymo laikotarpis“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "443756-444139; hash=01f9c271670b04ca2e4cde017c6d17cc928d2577601407c23967fb495d4335ac; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Maskva: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Tartai: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Maskva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Maskva buvo užgrobusi Tartų vyskupystę."
   pagrindžia:
     - c-47144
 - susijęs iš Saremos sala: 1558 m. Maskvos kariuomenei užėmus dalį Livonijos konfederacijos, Danija užvaldė Saremos salą.
@@ -100,8 +74,8 @@ Danai — buvusias Kuršo vyskupystės žemes, vadinamąją Piltenę, ir Saremos
     tenę, ir Saremos (Eželio) vyskupystę. Bet didžiausioji Livonijos
     dalis teko Lietuvai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -122,8 +96,8 @@ Danai — buvusias Kuršo vyskupystės žemes, vadinamąją Piltenę, ir Saremos
     Danai — buvusias Kuršo vyskupystės žemes, vadinamąją Pil-
     tenę, ir Saremos (Eželio) vyskupystę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

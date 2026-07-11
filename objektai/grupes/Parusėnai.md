@@ -38,17 +38,6 @@ Parusėnai galėjo sutelkti didelę kariuomenę kovai su vokiečių meldžionimi
 - t-004
   global_id: t-07846
   teiginys: "Parusėnai buvo lenkų puolami, atsakydami teriojo jų kraštą, o po to prieš juos buvo pasitelkti kryžiuočiai."
-  semantiniai_rysiai: "Lenkai puolė Parusėnai (0.92); Parusėnai puolė Lenkai (0.82); Lenkai buvo sąjungininkas su Kryžiuočių ordinas (0.76)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "383434-384321; hash=2b6b582a503e441239e240c1181db7de01dee689581654231ce70abb3778c40a; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
-  ryšio_patikimumas: "puole -> Parusėnai: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lenkai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Parusėnai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad lenkai antpuldinėjo parusėnus."
   pagrindžia:
     - c-10079
     - c-10080
@@ -57,20 +46,6 @@ Parusėnai galėjo sutelkti didelę kariuomenę kovai su vokiečių meldžionimi
 - t-003
   global_id: t-07847
   teiginys: "1250 m. kariaudami su vokiečių meldžionimis, parusėnai galėjo į kovą pastatyti 4000 raitelių ir 40000 pėsčiųjų."
-  semantiniai_rysiai: "Parusėnai kariavo prieš Vokiečiai (0.93)"
-  temporaliniai_duomenys: "pastatymo data: 1250 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatoje pateiktus skaičius ir aplinkybes."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "352237-352736; hash=975fe1e76cdebab03f57858c5de5f307433fb75066ae2874fbc0ac94c9fff4a4; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
-  ryšio_patikimumas: "kariavo_pries -> Vokiečiai: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Parusėnai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vokiečiai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad parusėnai kariavo su vokiečių meldžionimis."
   pagrindžia:
     - c-10081
 - susijęs iš [[objektai/grupes/Žuvėdai.md#claim-t-66404|Žuvėdai]]: Žuvėdai 1700 m. išvertė Gintės žinyčią, ieškodami joje paslėptų lobių.
@@ -88,8 +63,8 @@ Parusėnai galėjo sutelkti didelę kariuomenę kovai su vokiečių meldžionimi
         vos vienas jūros pašalys tarp Liepojos ir Klaipėdos, giriomis užaugęs, medininkams žemaičiams
         beužliko.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -103,8 +78,8 @@ Parusėnai galėjo sutelkti didelę kariuomenę kovai su vokiečių meldžionimi
         prakaitą dieną naktį braukdami; todėl tankiai, krikščionų kunigą sugavę, perskėlė aukštai dvišakį
         medį augantį ir tenai kunigo kaklą įdėjo į spraskilą^1347 , kursai svimburdamas^1348 tenai nusigalavo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -120,8 +95,8 @@ Parusėnai galėjo sutelkti didelę kariuomenę kovai su vokiečių meldžionimi
         dešimtį kartų daugiau pėsčiųjų. Visų nešeimingoji^1319 apygarda galėjo 2000 joties reikiant statyti
         karėn.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -186,5 +161,4 @@ Parusėnai galėjo sutelkti didelę kariuomenę kovai su vokiečių meldžionimi
 
 ## Ryšiai
 - Puolė Parusėnai: [[objektai/grupes/Lenkai]]
-- Parusėnai puolė [[objektai/grupes/Lenkai]]
 - Parusėnai kariavo prieš [[objektai/grupes/Vokiečiai]]

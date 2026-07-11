@@ -39,19 +39,6 @@ media_all_json: |-
 - t-001
   global_id: t-31876
   teiginys: "P. Būtėno „Karalius-kuniugas“ paskelbtas žurnale „Karys“ 1971 m., p. 193-197, 227-230, 263-265 ir 306-311."
-  temporaliniai_duomenys: "įvykio data: 1971 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pateikia bibliografinį įrašo leidimo faktą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "641544-642199; hash=d543183e7cbc429e3c541c8f81fb683e91eca55535a40c00040f928b7d93b3ec; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gediminas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "P. Būtėnas Karalius-kuniugas: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Gediminas: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"P. Būtėnas Karalius-kuniugas\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-33682
 ## Reikšmingi paminėjimai
@@ -70,8 +57,8 @@ media_all_json: |-
     min. Eine Streitfrage,_ atsp. iš Jahrbuch der Albertus-Universität zu
     Königsberg i.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

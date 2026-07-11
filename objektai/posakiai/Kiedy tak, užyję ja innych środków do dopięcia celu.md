@@ -32,12 +32,6 @@ media_all_json: |-
 - t-001
   global_id: t-194951
   teiginys: "(^4) ) — Išeidamas iš susirinkimo Vytautas kalbėjo: „kiedy tak, užyję ja innych środków do dopięcia celu“."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "532167-532291; hash=c7215206975c3fa3b9ced50069cfff16e581e0640d718d6fd44af60517d1d90c; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177347
 ## Reikšmingi paminėjimai
@@ -49,8 +43,8 @@ media_all_json: |-
     (^4) ) — Išeidamas iš susirinkimo Vytautas kalbėjo: „kiedy tak, užyję
     ja innych środków do dopięcia celu“. (Dług., IV, 344).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -33,16 +33,6 @@ Iš tikro jam pasisekė: 1711 m. ties Prutu caras vos nežuvo su visa savo kariu
 - t-003
   global_id: t-84558
   teiginys: "Prie Pruto upės buvę kaimai buvo grąžinti, inkorporuoti ir užrašyti Teterino dvarui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "697537-699723; hash=b6886aad04f11d078128bf54b213ee003c0635dace8c679f52b691b3d8d0c546; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Teterinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Prutas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Teterinas: mention_match, place, gap=63"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prutas\" parinktas kaip owner_note_path. Targetas \"Teterinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-80701
 
@@ -50,16 +40,6 @@ Iš tikro jam pasisekė: 1711 m. ties Prutu caras vos nežuvo su visa savo kariu
 - t-002
   global_id: t-84559
   teiginys: "Kaimai greta Pruto upės buvo grąžinti, inkorporuoti ir užrašyti Teterino dvarui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "697537-699723; hash=b6886aad04f11d078128bf54b213ee003c0635dace8c679f52b691b3d8d0c546; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Teterinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Prutas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Teterinas: mention_match, place, gap=51"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Prutas\" parinktas kaip owner_note_path. Targetas \"Teterinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-80701
 - susijęs iš Kolomyja: Kolomyja apibūdinama kaip miestas prie Pruto upės, apie 160 km į pietryčius nuo Lvovo.
@@ -122,8 +102,8 @@ Iš tikro jam pasisekė: 1711 m. ties Prutu caras vos nežuvo su visa savo kariu
     šios žemės kadaise priklausė Bełsko kunigaikščiui Semio­
     nui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

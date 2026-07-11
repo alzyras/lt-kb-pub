@@ -55,17 +55,6 @@ kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo lankytis
 - t-006
   global_id: t-73355
   teiginys: "Nuo XI a., skandinavams liovusis lankytis Padauguvyje, į šį kraštą pradėjo atvykti vokiečių pirkliai."
-  semantiniai_rysiai: "Vokiečių pirkliai prekiavo su Lybiai (0.96); Vokiečių pirkliai prekiavo su Aisčiai (0.95); Vokiečių pirkliai keliavo į Padauguvis (0.86); Vokiečių pirkliai prekiavo su Rusai (0.72)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "97582-97827; hash=0011da664069c50b714c2b75f4eda094fca86813947a9a0ea730e58ee5068f03; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "prekiavo_su -> Lybiai: 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vokiečių pirkliai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lybiai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad vokiečių pirkliai prekiavo su lybiais."
   pagrindžia:
     - c-46658
 
@@ -73,19 +62,6 @@ kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo lankytis
 - t-007
   global_id: t-73356
   teiginys: "Pirmoji krikščionių bendruomenė Padauguvyje buvo silpna ir dažnai nukentėdavo nuo pagonių antpuolių."
-  temporaliniai_duomenys: "įvykio data: 1180 m.; įvykio data: apie 1180 m.; įvykio data: 1229 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
-  temporalinis_llm_pakomentavimas: "Pašalinta kontekstinė pradžia, teiginys sutrumpintas ir sugramatintas."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "98089-98493; hash=305fd6102e86e0d876c313b5200591f47421e2a8443306c6f0a3ba7e872603ac; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> pagonys: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Padauguvis: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "pagonys: mention_match, thing, gap=50"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Padauguvis\" parinktas kaip owner_note_path. Targetas \"pagonys\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-46659
 - susijęs iš [[objektai/grupes/Voluiniečiai.md#claim-t-52464|Voluiniečiai]]: Ankstyvaisiais istoriniais laikais aisčiai pietuose susidūrė su lenkais ir voluiniečiais, o rytuose su gudais.
@@ -113,8 +89,8 @@ kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo lankytis
     lankytis vokiečių pirkliai. Jie prekiavo su lybiais ir aisčiais arba
     čia tik sustodavo, vykdami prekiauti į rusų kraštus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -133,8 +109,8 @@ kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo lankytis
     vyskupas, Albertas (1199—1229 m.), ėmė organizuoti gin-
     kluotą savo tikinčiųjų apsaugą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -181,4 +157,4 @@ kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo lankytis
     - t-73356
 
 ## Ryšiai
-- Buvo kelionės vieta: [[objektai/grupes/Vokiečiai]], [[objektai/grupes/Vokiečių pirkliai]]
+- Buvo kelionės vieta: [[objektai/grupes/Vokiečiai]]

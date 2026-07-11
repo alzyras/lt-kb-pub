@@ -34,16 +34,6 @@ Dusburgietis teigia, kad po šių skerdynių notangai, sumanę savo dievams paau
 - t-001
   global_id: t-175204
   teiginys: "Hirtshalsas buvo kilmingas ir turtingas Magdeburgo miestietis, kurį notangai, trečią kartą burtams kritus, sudegino pririštą ant žirgo."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "380137-380749; hash=b082dba1133dc541832e743446b2e5afaafb9f3decbf829c7277810589680119; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Herkus Mantas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Hirtshalsas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Herkus Mantas: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Hirtshalsas\" parinktas kaip owner_note_path. Targetas \"Herkus Mantas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-159349
 - susijęs iš [[objektai/ivykiai/Susirėmimas Pokarviuose (1261 m.).md#claim-t-59251|Susirėmimas Pokarviuose (1261 m.)]]: Po susirėmimo Pokarviuose notangai belaisvį Hirtshalsą burtų keliu paskyrė aukai ir sudegino pririštą ant jo žirgo.
@@ -65,8 +55,8 @@ Dusburgietis teigia, kad po šių skerdynių notangai, sumanę savo dievams paau
     burtai jam krito, pats atsižadėjo noro išsigelbėti  ir iš pagarbos tikėjimui laisva valia
     pasiaukojo dievui: pririštas ant savo žirgo, jis buvo sudegintas367.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -77,7 +67,8 @@ Dusburgietis teigia, kad po šių skerdynių notangai, sumanę savo dievams paau
 - id: c-159349
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 116"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 116."
   citata_originali: |
     Po šių skerdynių
     notangai, sumanę savo dievams paaukoti auką, metė burtus paimtų į nelaisvę teutonų
@@ -93,6 +84,3 @@ Dusburgietis teigia, kad po šių skerdynių notangai, sumanę savo dievams paau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-175204
-
-## Ryšiai
-- Paskyrė Hirtshalsą: [[objektai/grupes/Notangai]]

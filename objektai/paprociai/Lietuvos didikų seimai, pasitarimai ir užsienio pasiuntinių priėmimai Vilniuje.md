@@ -63,16 +63,6 @@ Nenurodyta
 - t-001
   global_id: t-87164
   teiginys: "Kazimiero valdymo laikotarpiu Vilniuje vyko dažni Lietuvos didikų suvažiavimai, pasitarimai, užsienio pasiuntinių priėmimai ir sutarčių sudarymai."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "459794-460523; hash=9c121192f82d05ae79858bbae220281477dceefa2d547a78b972e245972bf780; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos didikų seimai, pasitarimai ir užsienio pasiuntinių priėmimai Vilniuje: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=20"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos didikų seimai, pasitarimai ir užsienio pasiuntinių priėmimai Vilniuje\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-83144
 
@@ -80,19 +70,6 @@ Nenurodyta
 - t-002
   global_id: t-87165
   teiginys: "1464 m. Vilniuje vykęs seimas buvo įsimintinas visai valstybei paskelbtais įstatymais, galiojusiais iki Lietuvos Statuto."
-  temporaliniai_duomenys: "įvykio data: 1464 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys fragmentiškas, o citata leidžia aiškiai suformuluoti konkretų faktą apie Vilniaus seimą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "460524-461077; hash=c4e668a60df346aa5bc528cd655046815a146f7b751fd1762f4f54b5d4dbb26e; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos didikų seimai, pasitarimai ir užsienio pasiuntinių priėmimai Vilniuje: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=96"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos didikų seimai, pasitarimai ir užsienio pasiuntinių priėmimai Vilniuje\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-83143
 ## Reikšmingi paminėjimai
@@ -113,8 +90,8 @@ Nenurodyta
     įžūliai griovė, žemai lenkėsi prieš galingojo Kazimiero sos­
     tą38.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -138,8 +115,8 @@ Nenurodyta
     susilpninti seną ryšį, vertė Kazimierą, kaip jau esame apie
     tai užsiminę, dažnai Lietuvoje šaukti seimus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

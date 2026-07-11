@@ -30,22 +30,6 @@ Teodoro Narbuto pasakojime Kerčės tvirtovė stovi ant Pantikapėjos miesto gri
 - t-001
   global_id: t-192879
   teiginys: "Teodoro Narbuto pasakojime Kerčės tvirtovė stovi ant Pantikapėjos miesto griuvėsių."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Kerčės tvirtovė priklausė Pantikapėja (0.70)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "92648-93100; hash=fa11af0c44614dc1a65acda5fe40d10c523aa69edd113939e07de93ef36b50e7; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Pantikapėja: 0.70"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kerčės tvirtovė: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Pantikapėja: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Kerčės tvirtovė tiesiogiai lokalizuota ant Pantikapėjos miesto griuvėsių; tai artimiausias leidžiamas vietos ryšys."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175649
 - susijęs iš Pantikapėja: Narbuto aiškinime Pantikapėjos vardas Skitijos geografijoje galėjo žymėti ne vieną upę ar vietovę, nes Kerčė stovėjo ant Pantikapėjos griuvėsių.
@@ -69,8 +53,8 @@ Teodoro Narbuto pasakojime Kerčės tvirtovė stovi ant Pantikapėjos miesto gri
     ir vietovė, nes žinoma, kad šiandien Kerčės tvirtovė sto­
     vi ant Pantikapėjos miesto griuvėsių1.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -101,6 +85,3 @@ Teodoro Narbuto pasakojime Kerčės tvirtovė stovi ant Pantikapėjos miesto gri
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192879
-
-## Ryšiai
-- Kerčės tvirtovė priklausė [[objektai/vietos/Pantikapėja]]

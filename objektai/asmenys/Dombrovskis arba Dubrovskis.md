@@ -30,14 +30,6 @@ Jis pateikė man daug paaiškinimų apie šiuos dalykus, be to, rodė nuora šą
 - t-001
   global_id: t-194912
   teiginys: "Jis pateikė man daug paaiškinimų apie šiuos dalykus, be to, rodė nuora šą trumpo išrašo iš kažkokios senos kronikos; XIV am žiuje rašytos slavų kalba Dombrovskio ar Dubrovskio; pirmoje jos dalyje, 31 puslapyje, yra pilkapių aprašymas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "697194-697824; hash=fb59df3e07d02aaa6d37ac62f568532218221c5c9259db3a02b2dd7571b1a774; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-06T03:41:43Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-177308
 ## Reikšmingi paminėjimai
@@ -59,8 +51,8 @@ Jis pateikė man daug paaiškinimų apie šiuos dalykus, be to, rodė nuora šą
     žiuje rašytos slavų kalba Dombrovskio ar Dubrovskio;
     pirmoje jos dalyje, 31 puslapyje, yra pilkapių aprašymas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -71,7 +63,8 @@ Jis pateikė man daug paaiškinimų apie šiuos dalykus, be to, rodė nuora šą
 - id: c-177308
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 383"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 383."
   citata_originali: |
     Tačiau tuos, kurie ką nors
     rasdavo, ištikdavo nelaimės, be to, tokių radinių saugo­

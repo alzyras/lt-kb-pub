@@ -32,16 +32,6 @@ Selma Lagerlöf KRISTAUS ROŽES LEGENDA IR KITI PASAKO­ JIMAI.
 - t-001
   global_id: t-36064
   teiginys: "„Kristaus rožės legenda ir kiti pasakojimai“ buvo Selmos Lagerlöf pasakojimų leidinys."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "730304-730571; hash=3b78dc44acc439427cf4f545911edb7fa218b16ef77c26c71d4f9f25ba040614; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Selma Lagerlöf: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kristaus rožės legenda ir kiti pasakojimai: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Selma Lagerlöf: mention_match, person, gap=49"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kristaus rožės legenda ir kiti pasakojimai\" parinktas kaip owner_note_path. Targetas \"Selma Lagerlöf\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-38417
 ## Reikšmingi paminėjimai
@@ -56,8 +46,8 @@ Selma Lagerlöf KRISTAUS ROŽES LEGENDA IR KITI PASAKO­ JIMAI.
     singumas ir įvairios suktybės dar labiau, rodos, įsivyravo, negu tai
     buvo pirmiau, šeimos Lagerlöf raštuose dvelkia žmoniškumas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

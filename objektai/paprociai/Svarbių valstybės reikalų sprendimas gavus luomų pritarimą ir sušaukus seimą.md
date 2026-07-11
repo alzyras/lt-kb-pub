@@ -45,19 +45,6 @@ Nenurodyta
 - t-001
   global_id: t-185892
   teiginys: "Karalius atsakė, kad svarbiais valstybės reikalais negali nieko nutarti be luomų pritarimo, ir sušaukė seimą Lenčicoje."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "649556-650050; hash=37779191052ba28c3c071fbaf60ee752c96f4bc8c8cd6293e312c14e6381d7ff; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenčica: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Svarbių valstybės reikalų sprendimas gavus luomų pritarimą ir sušaukus seimą (seimas): owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lenčica: mention_match, place, gap=78"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Svarbių valstybės reikalų sprendimas gavus luomų pritarimą ir sušaukus seimą (seimas)\" parinktas kaip owner_note_path. Targetas \"Lenčica\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-169253
 
@@ -65,21 +52,6 @@ Nenurodyta
 - t-002
   global_id: t-185893
   teiginys: "Karalius sušaukė seimą Lenčicoje, o seimas pasiuntė Gnezno arkivyskupą Mikalojų Kurovskį skatinti magistrą taikiai baigti ginčą su Vytautu."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "650005-650443; hash=fc96861bf4f389981a5503e345e44768a6cfad2043f48128001d38035f9172ec; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenčica: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Svarbių valstybės reikalų sprendimas gavus luomų pritarimą ir sušaukus seimą (seimas): owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lenčica: mention_match, place, gap=14"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Svarbių valstybės reikalų sprendimas gavus luomų pritarimą ir sušaukus seimą (seimas)\" parinktas kaip owner_note_path. Targetas \"Lenčica\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-169254
 ## Reikšmingi paminėjimai
@@ -102,8 +74,8 @@ Nenurodyta
     je svarbiais reikalais nieko negalįs nutarti be luomų
     pritarimo. Atleidęs žygūną, jis sušaukė Lenčicoje seimą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -123,8 +95,8 @@ Nenurodyta
     sakymo, nei tas, kad jo žmonės, pakėlę ginklą, jau
     traukia į Lietuvą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -160,7 +132,8 @@ Nenurodyta
 - id: c-169254
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 372"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 372."
   citata_originali: |
     Atleidęs žygūną, jis sušaukė Lenčicoje seimą.
     Seimas pasiuntė Mikalojų Kurovskį, Gnezno, arkivys­

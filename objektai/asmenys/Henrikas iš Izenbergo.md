@@ -43,20 +43,6 @@ Dusburgietis teigia, kad apie daugybės miestų bei pilių pastatymą 1325 vieš
 - t-001
   global_id: t-60313
   teiginys: "1325 m. Henrikas iš Izenbergo, Karaliaučiaus komtūras, pradėjo statyti ir birželio 29 d. užbaigė Girdavų pilį Bartos žemėje."
-  semantiniai_rysiai: "Henrikas iš Izenbergo pastatė Girdavai (0.88)"
-  temporaliniai_duomenys: "įvykio data: 1325 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata leidžia tiksliau nurodyti ir pilies užbaigimo datą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "684491-685218; hash=a6b9cb176641b4429841d1b2bb7f075f147fa24a57c3c3309aa48320d7ac28e0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "pastate -> Girdavai: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Henrikas iš Izenbergo: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Girdavai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Henrikas iš Izenbergo pradėjo statyti ir užbaigė Girdavų pilį."
   pagrindžia:
     - c-60945
 ## Reikšmingi paminėjimai
@@ -78,8 +64,8 @@ Dusburgietis teigia, kad apie daugybės miestų bei pilių pastatymą 1325 vieš
     pagonis lietuvius, nors turime duomenų, jog patys kryžiuočiai siaubė krikščionių žemes,
     netgi vyskupų valdas (žr. D. papildymus, 13 ir paaiškinimus).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -90,7 +76,8 @@ Dusburgietis teigia, kad apie daugybės miestų bei pilių pastatymą 1325 vieš
 - id: c-60945
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 222"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 222."
   citata_originali: |
     360 (353). Apie daugybės miestų bei pilių pastatymą
 
@@ -111,6 +98,3 @@ Dusburgietis teigia, kad apie daugybės miestų bei pilių pastatymą 1325 vieš
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60313
-
-## Ryšiai
-- Henrikas iš Izenbergo pastatė [[objektai/vietos/Girdavai]]

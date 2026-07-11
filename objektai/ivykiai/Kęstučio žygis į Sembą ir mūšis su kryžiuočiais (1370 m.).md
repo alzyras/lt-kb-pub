@@ -48,20 +48,6 @@ Nenurodyta
 - t-001
   global_id: t-185734
   teiginys: "Surinkęs pulkus stovykloje, Kęstutis padalijo kariuomenę į dvi žygio voras ir nusprendė niokoti Sembą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.) surengė žygį į Semba (0.86)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "437223-437773; hash=9b84ad589392eabeeeaf848542e3d5a8d72bd32d6f5690ae350b9aeef142d175; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "surenge_zygi_i -> Semba: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Semba: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Kęstutis vadovauja kariuomenei ir nusprendžia žygio tikslą Sembą."
   pagrindžia:
     - c-169095
 
@@ -69,20 +55,6 @@ Nenurodyta
 - t-002
   global_id: t-185735
   teiginys: "Mūšyje krito tūkstantis lietuvių, o kryžiuočiai neteko dvidešimt šešių kilmingųjų riterių ir ordino magistro Henriko."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Kryžiuočių ordinas dalyvavo mūšyje Kęstučio žygis į Sembą ir mūšis su kryžiuočiais (1370 m.) (0.82); Kęstutis (vakarų pasienio valdovas, XIV–XV a.) dalyvavo mūšyje Kęstučio žygis į Sembą ir mūšis su kryžiuočiais (1370 m.) (0.78); Algirdas (Lietuvos valdovas) dalyvavo mūšyje Kęstučio žygis į Sembą ir mūšis su kryžiuočiais (1370 m.) (0.78)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "438452-439353; hash=7cdee5613249dcf4054422bfa2ec87dcfae126cb5d3c8de0ae4990cf87da77ab; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "dalyvavo_musyje -> Kęstučio žygis į Sembą ir mūšis su kryžiuočiais (1370 m.): 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Kęstučio žygis į Sembą ir mūšis su kryžiuočiais (1370 m.): llm_allowed_candidate, event"
-  ryšio_paaiskinimas: "Kryžiuočių nuostoliai mūšyje tiesiogiai rodo jų dalyvavimą šiame mūšyje."
   pagrindžia:
     - c-169096
 ## Reikšmingi paminėjimai
@@ -106,8 +78,8 @@ Nenurodyta
     vedė karius prie Ortelsbergo pilies; ji buvo užpulta ir
     užkariauta, o įtvirtinimai iš pamatų sugriauti.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -136,8 +108,8 @@ Nenurodyta
     gretoms atitrūkti nuo priešo, susirinkti prie gurguolių
     ir žygiuoti prie artimiausio miško.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -148,7 +120,8 @@ Nenurodyta
 - id: c-169095
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 250"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 250."
   citata_originali: |
     Norint pulti priešą, kuris
     laukė, kol jis tesės duotą
@@ -174,7 +147,8 @@ Nenurodyta
 - id: c-169096
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 251"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 251."
   citata_originali: |
     Prasidėjo iš tie­
     sų žiaurus mūšis: ir vieni, ir
@@ -200,6 +174,3 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185735
-
-## Ryšiai
-- Turėjo dalyvį: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]], [[objektai/grupes/Kryžiuočių ordinas]]

@@ -39,12 +39,6 @@ media_all_json: |-
 - t-001
   global_id: t-194142
   teiginys: "• Narimantas Glėbas — antrasis Gedimino sūnus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "388745-388964; hash=76a858bf27dd9205645dc92913781e6404f57cd0cdf5c5afbf0c4655fcfce148; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176755
 ## Reikšmingi paminėjimai
@@ -58,8 +52,8 @@ media_all_json: |-
     Gedimino valdymo pabaigoje, po 1330 m. Žuvo 1348.11.2 mūšyje
     su kryžiuočiais ties Strėva.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -70,7 +64,8 @@ media_all_json: |-
 - id: c-176755
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 214"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 214."
   citata_originali: |
     • Narimantas Glėbas — antrasis Gedimino sūnus. Pinsko bei Tu-
     rovo kunigaikštystes prie Pripetės Narimantas, veikiausiai, gavo

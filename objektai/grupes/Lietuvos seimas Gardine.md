@@ -36,24 +36,6 @@ Lietuvos seimas Gardine pradėjo posėdžiauti 1568 m. pavasarį, o balandžio 2
 - t-001
   global_id: t-189496
   teiginys: "Lietuvos seimas Gardine pradėjo posėdžiauti 1568 m. pavasarį, o balandžio 28 d. karalius buvo Gardine."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1568 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Išskleistas seimo pavadinimas ir pašalinti OCR lūžiai. Nepridėta platesnių teiginių apie įstatymų turinį."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "898709-899199; hash=ea604f7d83a7d76a6966e0ce04cd21eec1399d6accd5bd8459e1585ab5536b0c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gardinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos seimas Gardine: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Gardinas: mention_match, place, gap=16"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos seimas Gardine\" parinktas kaip owner_note_path. Targetas \"Gardinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172384
 - susijęs iš [[objektai/paprociai/Karaliaus apsaugos raštų išdavimas su akivaizdaus nusikaltimo išimtimi.md#claim-t-189920|Karaliaus apsaugos raštų išdavimas su akivaizdaus nusikaltimo išimtimi]]: 1568 m. Lietuvos seimas Gardine sutiko, kad karalius išduotų apsaugos raštus, išskyrus akivaizdaus nusikaltimo atvejį.
@@ -79,8 +61,8 @@ Lietuvos seimas Gardine pradėjo posėdžiauti 1568 m. pavasarį, o balandžio 2
 
     O prawach.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

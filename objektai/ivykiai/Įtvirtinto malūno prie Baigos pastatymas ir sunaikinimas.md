@@ -51,17 +51,6 @@ Nenurodyta
 - t-001
   global_id: t-91921
   teiginys: "Prie Baigos broliai pastatė prie upės į pilį panašiai sutvirtintą malūną, kurį prūsai netrukus užėmė, gynėjus išžudė ir sudegino."
-  semantiniai_rysiai: "Kryžiuočių ordinas pastatė Malūnas (0.76)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "263547-265223; hash=238b0f500b92dcb6f5e461a3a1806fc82f4f4bc8f0915517049f6583571acf14; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "pastate -> Malūnas: 0.76"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Malūnas: llm_allowed_candidate, thing"
-  ryšio_paaiskinimas: "Baigos broliai kryžiuočių kontekste pastatė įtvirtintą malūną."
   pagrindžia:
     - c-87563
 ## Reikšmingi paminėjimai
@@ -94,8 +83,8 @@ Nenurodyta
     prūsai užkariavo, apsiautę ją su didele kariuomene, ir, išžudę brolius bei ginklanešius,
     pavertė pelenais.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -106,7 +95,8 @@ Nenurodyta
 - id: c-87563
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 79-80"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 79-80."
   citata_originali: |
     Apie tai, kaip buvo pastatytas ir išgriautas malūnas
 

@@ -30,21 +30,6 @@ Narbutas rašo, kad Naruševičiaus žinios, rodos, rėmė nuomonę, jog polovie
 - t-001
   global_id: t-191699
   teiginys: "Narbutas rašo, kad Naruševičiaus žinios, rodos, rėmė nuomonę, jog poloviečiai buvę rusų kaimynai iš rytų ir vakarų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "186399-186911; hash=bfcb5c574d409f4667ff356ac08907903084a251c5ed387bc1d896eabc5457c4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Poloviečiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Adomas Stanislovas Naruševičius, Historia narodu polskiego: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Poloviečiai: mention_match, group, gap=47"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Adomas Stanislovas Naruševičius, Historia narodu polskiego\" parinktas kaip owner_note_path. Targetas \"Poloviečiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174581
 
@@ -52,22 +37,6 @@ Narbutas rašo, kad Naruševičiaus žinios, rodos, rėmė nuomonę, jog polovie
 - t-002
   global_id: t-191700
   teiginys: "Narbutas vertino, kad Naruševičius iki XII a. jotvingiams priskyrė pernelyg plačias valdas nuo Bugo iki Beržūnos ir nuo Pripetės iki Narvos."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Jotvingiai valdė teritoriją Pripetė (0.62); Jotvingiai valdė teritoriją Narva (0.62)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "212909-213268; hash=d1b631ad49087338446ebbc7b70f47668f2083cd544a1da19d0bedc91b789299; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde_teritorija -> Narva: 0.62"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jotvingiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Narva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata mini jotvingiams priskirtas valdas iki Narvos; tai yra tiesioginis, bet Narbuto kritikuojamas priskyrimas."
-  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174582
 ## Reikšmingi paminėjimai
@@ -87,8 +56,8 @@ Narbutas rašo, kad Naruševičiaus žinios, rodos, rėmė nuomonę, jog polovie
     skleistų tikrą ar spėjamą giminystę, kurią mini mūsų pirm­
     takai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -108,8 +77,8 @@ Narbutas rašo, kad Naruševičiaus žinios, rodos, rėmė nuomonę, jog polovie
     gausi ir didelė, gyveno nelabai plačiai, nes ją supo pa­
     žįstamos kitų tautų gyvenamosios vietovės.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -120,7 +89,8 @@ Narbutas rašo, kad Naruševičiaus žinios, rodos, rėmė nuomonę, jog polovie
 - id: c-174581
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 104"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 104."
   citata_originali: |
     Mūsų mokslininkas, lietuvių istorijos tyri­
     nėtojas Ksaveras Bogušas priskiria lietuvių genties tau­
@@ -142,7 +112,8 @@ Narbutas rašo, kad Naruševičiaus žinios, rodos, rėmė nuomonę, jog polovie
 - id: c-174582
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 119"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 119."
   citata_originali: |
     Mechovita taip kalba apie
     čigonus, žmones, kuriuos kai kada priskirdavo prie jot­

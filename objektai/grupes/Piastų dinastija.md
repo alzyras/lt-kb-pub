@@ -41,19 +41,6 @@ Bet Ho­ rodlės unija šį klausimą, kaip žinom, nutyli; buvo tik pripažinta
 - t-001
   global_id: t-34363
   teiginys: "Horodlės unija nepraplėtė sosto paveldėjimo teisės tiems Jogailos vaikams, kurie būtų kilę ne iš Piastų dinastijos."
-  temporaliniai_duomenys: "įvykio data: 1417 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalintas OCR triukšmas ir palikta citata paremta esmė."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "490802-491240; hash=48fa18baf47466ae8672b8f6200c655642b3acf6dbe8ea35ab36993e874c01a8; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Horodlė: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Piastų dinastija: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Horodlė: mention_match, place, gap=97"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Piastų dinastija\" parinktas kaip owner_note_path. Targetas \"Horodlė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-35588
 
@@ -61,14 +48,6 @@ Bet Ho­ rodlės unija šį klausimą, kaip žinom, nutyli; buvo tik pripažinta
 - t-002
   global_id: t-193329
   teiginys: "Štai dėl to sustiprėjo įtaka grupuotės, kuri siūlė karaliaus sostą atimti iš Jogailaičių ir antrą kartą perduoti Piasto palikuonims."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "957806-958183; hash=ff4a3a5a4b795a470330240d22a5fe2f21a77cd8516bc599ecdb86d0781c61f9; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-176057
 ## Reikšmingi paminėjimai
@@ -84,8 +63,8 @@ Bet Ho­ rodlės unija šį klausimą, kaip žinom, nutyli; buvo tik pripažinta
     kimybės priesaika: matyt, nenorėta tos teisės išplėsti ant tų
     Jogailos vaikų, kurie būtų kilę ne iš Piastų dinastijos. 1417 m.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -104,8 +83,8 @@ Bet Ho­ rodlės unija šį klausimą, kaip žinom, nutyli; buvo tik pripažinta
     paskatino Mazovijos kunigaikštį Jonušą, trokšte trokš­
     tantį sosto, vykti į Piotrkovą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -136,7 +115,8 @@ Bet Ho­ rodlės unija šį klausimą, kaip žinom, nutyli; buvo tik pripažinta
 - id: c-176057
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 542"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 542."
   citata_originali: |
     Antra vertus, Jono
     valdingas būdas ir nesėkmingi jo žygiai Vengrijoje

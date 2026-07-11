@@ -30,22 +30,6 @@ Narbutas rašo, kad mūsų kraštų prekės patekdavo į Tartesą arba prie Gali
 - t-001
   global_id: t-192903
   teiginys: "Narbutas rašo, kad mūsų kraštų prekės patekdavo į Tartesą arba prie Galijos krantų, o iš ten per Galiją gabentos į Masiliją."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Galija prekiavo su Masilija (0.72); Tartesas prekiavo su Masilija (0.62)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "300982-301314; hash=ea86fb47714ae793b84e7a754cb9c8cfaf79c88abe7ee912f96d4520e852dfc2; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "prekiavo_su -> Masilija: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Galija: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Masilija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo prekių gabenimą per Galiją į Masiliją."
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175673
 - susijęs iš [[objektai/grupes/Kartaginiečiai.md#claim-t-192952|Kartaginiečiai]]: Kartaginiečiai aktyviai prekiavo su Vakarais, jų laivai plaukdavo už Heraklio stulpų iki Gadiros ir Tarteso uosto.
@@ -71,8 +55,8 @@ Narbutas rašo, kad mūsų kraštų prekės patekdavo į Tartesą arba prie Gali
     kaip įgalima numanyti, buvo patogesnis už jūros kelią,
     kuris ėjo pro šv.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -83,7 +67,8 @@ Narbutas rašo, kad mūsų kraštų prekės patekdavo į Tartesą arba prie Gali
 - id: c-175673
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 166"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 166."
   citata_originali: |
     Siaurės sagose daug žinių apie
     jurų keliautojus, nuo senų amžių garsėjusius savo drąsiais
@@ -98,7 +83,3 @@ Narbutas rašo, kad mūsų kraštų prekės patekdavo į Tartesą arba prie Gali
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192903
-
-## Ryšiai
-- Prekiavo su: [[objektai/grupes/Kartaginiečiai]], [[objektai/grupes/Masiliečiai]]
-- Tartesas prekiavo su [[objektai/vietos/Masilija]]

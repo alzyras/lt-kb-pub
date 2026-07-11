@@ -30,21 +30,6 @@ Narbutas Ksavero Bogušo išverstą Ovidijaus „Metamorfozių“ II knygos 1–
 - t-001
   global_id: t-190492
   teiginys: "Narbutas Ksavero Bogušo išverstą Ovidijaus „Metamorfozių“ II knygos 1–30 eilučių fragmentą laiko bandymu kurti gryna lietuvių kalba ir tiksliai perteikti originalo metrą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "815810-816181; hash=198c8d27bedc1a4798a298eb76c2f578156160f2565dfbb2d308dfb99887161a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Ksaveras Bogušas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ksavero Bogušo studija apie lietuvių tautos ir kalbos pradžią: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Ksaveras Bogušas: mention_match, author, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ksavero Bogušo studija apie lietuvių tautos ir kalbos pradžią\" parinktas kaip owner_note_path. Targetas \"Ksaveras Bogušas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173375
 
@@ -52,21 +37,6 @@ Narbutas Ksavero Bogušo išverstą Ovidijaus „Metamorfozių“ II knygos 1–
 - t-002
   global_id: t-190493
   teiginys: "Narbutas rašo, kad pirmą kartą paėmęs Ksavero Bogušo studiją į rankas ypač susidomėjo joje pateiktomis eilėmis."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "816121-816451; hash=64e2cffea9439d174f2ba7b92e5fee78c8c0a2c42f9f56c6f30cbd68992dcefe; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Ksaveras Bogušas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ksavero Bogušo studija apie lietuvių tautos ir kalbos pradžią: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Ksaveras Bogušas: mention_match, author, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ksavero Bogušo studija apie lietuvių tautos ir kalbos pradžią\" parinktas kaip owner_note_path. Targetas \"Ksaveras Bogušas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173376
 ## Reikšmingi paminėjimai
@@ -84,8 +54,8 @@ Narbutas Ksavero Bogušo išverstą Ovidijaus „Metamorfozių“ II knygos 1–
     30
     Šių eilių proga negaliu neprisiminti tokio atsitikimo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -103,8 +73,8 @@ Narbutas Ksavero Bogušo išverstą Ovidijaus „Metamorfozių“ II knygos 1–
     lietuviams, jie klausėsi su dideliu malonumu, sakydami, kad, jų iš­
     manymu, harmoningas žodžių skambesys perteiktas nuostabiai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -115,7 +85,8 @@ Narbutas Ksavero Bogušo išverstą Ovidijaus „Metamorfozių“ II knygos 1–
 - id: c-173375
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 449"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 449."
   citata_originali: |
     Bandymas kurti gryna lietuvių kalba:
     Ovidijaus „Metamorfozių“ fragmentas (II knygos 1-30 ei­
@@ -135,7 +106,8 @@ Narbutas Ksavero Bogušo išverstą Ovidijaus „Metamorfozių“ II knygos 1–
 - id: c-173376
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 449"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 449."
   citata_originali: |
     30
     30

@@ -35,17 +35,6 @@ Energingas Garteno (Gar­ dino) vadas, įsiveržęs į Danijos žemes Revelio ap
 - t-001
   global_id: t-86147
   teiginys: "Per Didžiosios savaitės pasninką ginkluoti žemaičiai įsiveržė į Memelio apylinkes, užėmė miestą, nužudė apie 70 žmonių ir sudegino miestą."
-  semantiniai_rysiai: "Žemaičiai puolė Klaipėda Memelis (0.91); Žemaičiai užėmė Klaipėda Memelis (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "161439-162225; hash=4c837cb9111dfff20252ce12c0ed14bcf4d4eba565176ff85b56207b480bcfcc; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Klaipėda Memelis: 0.91"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Žemaičiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Klaipėda Memelis: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Ginkluoti žemaičiai tiesiogiai įvardyti kaip įsiveržę į Memelio apylinkes ir užėmę miestą."
   pagrindžia:
     - c-82126
 ## Reikšmingi paminėjimai
@@ -70,8 +59,8 @@ Energingas Garteno (Gar­ dino) vadas, įsiveržęs į Danijos žemes Revelio ap
     C
     Taigi J e r o s c h i n, c.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

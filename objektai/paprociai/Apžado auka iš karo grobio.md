@@ -54,17 +54,6 @@ Nenurodyta
 - t-005
   global_id: t-187992
   teiginys: "Narbutas rašo, kad kronikos nenurodo, ar apžado aukos mergaitė būdavo sudeginama gyva, ar pirma užmušama."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "557779-558202; hash=b17c57424d2ffb2d44ce84621ab1ae40ffdee646c8219cd3ce823e9bfacc5210; match=exact"
-  sprendimo_priezastis: "gap::customs"
-  ryšio_patikimumas: "susije_su -> Drabužiai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Apžado auka iš karo grobio: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Drabužiai: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Apžado auka iš karo grobio\" parinktas kaip owner_note_path. Targetas \"Drabužiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-171002
 
@@ -72,10 +61,6 @@ Nenurodyta
 - t-004
   global_id: t-187993
   teiginys: "Narbutas apžado auką sieja su grobiamaisiais žygiais, kai būrio vadas pažadėdavo gražiausią grobį dievams."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "557626-558013; hash=f77b4f29959511c1e6fbf2b632cc97f80ce5a36d742cacbcd3964beb64877ca6; match=exact"
-  sprendimo_priezastis: "gap::customs"
   pagrindžia:
     - c-171001
 ## Reikšmingi paminėjimai
@@ -95,8 +80,8 @@ Nenurodyta
     žis, o todėl ir vertė viršydavo kitus paskirus pagrobtus daly­
     kus, tokią mergaitę sugrįžę į tėvynę paaukodavo dievams.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -114,8 +99,8 @@ Nenurodyta
     tai, kad ją išpuošdavo vainikais, gėlėmis, aprengdavo puoš­
     niais drabužiais ir atlikdavo įprastines aukojimo apeigas16.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -150,7 +135,8 @@ Nenurodyta
 - id: c-171002
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 318"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 318."
   citata_originali: |
     Tokiu atveju, jeigu į rankas patekdavo itin graži
     mergaitė, -  o tokio grobio buvo labai vaikomasi, -  kurios gro­

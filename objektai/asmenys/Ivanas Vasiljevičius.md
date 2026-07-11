@@ -45,16 +45,6 @@ Toks didžio­ jo kunigaikščio Aleksandro rūpinimasis savo sostinės gyventoj
 - t-001
   global_id: t-87520
   teiginys: "Caras Ivanas Vasiljevičius savo užmačiomis nukreipė didžiojo kunigaikščio Aleksandro dėmesį nuo Vilniaus gerovės."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "464853-466572; hash=7888a9a93ad97fe431697723b2ac932aef82df8bf7d3cabbe222df77669ce9d2; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vasiljevičius (Maskvos valdovas): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ivanas Vasiljevičius: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Vasiljevičius (Maskvos valdovas): mention_match, person, gap=7"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ivanas Vasiljevičius\" parinktas kaip owner_note_path. Targetas \"Vasiljevičius (Maskvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-83499
 
@@ -62,16 +52,6 @@ Toks didžio­ jo kunigaikščio Aleksandro rūpinimasis savo sostinės gyventoj
 - t-002
   global_id: t-87521
   teiginys: "Krymo totorių orda, Ivano Vasiljevičiaus pakurstyta, ėmė puldinėti žemes, paklūstančias Aleksandro skeptrui, ir kilo grėsmė Kijevui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "468777-469142; hash=4ea3d41b4363d65c826cc4b6fe3bd3c4661f1739247a208f6fba7d4c4c416b5f; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kijevas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ivanas Vasiljevičius: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kijevas: mention_match, place, gap=104"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ivanas Vasiljevičius\" parinktas kaip owner_note_path. Targetas \"Kijevas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-83500
 
@@ -79,19 +59,6 @@ Toks didžio­ jo kunigaikščio Aleksandro rūpinimasis savo sostinės gyventoj
 - t-003
   global_id: t-184713
   teiginys: "Ivanas Vasiljevičius laiške prisiskyrė Livonijos valdovo titulą, kurį karalius uždraudė minėti laiškuose."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1249070-1249649; hash=db70b8d04ef686f78440b080d429d60f8d1896b1902e26a54fda8767243b354c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Livonija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ivanas Vasiljevičius: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Livonija: mention_match, place, gap=39"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ivanas Vasiljevičius\" parinktas kaip owner_note_path. Targetas \"Livonija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-168074
 
@@ -99,12 +66,6 @@ Toks didžio­ jo kunigaikščio Aleksandro rūpinimasis savo sostinės gyventoj
 - t-004
   global_id: t-193913
   teiginys: "Lietuvos metraštis teigia, kad aPIE MASKVOS DIDŽIOJO KUNIGAIKŠČIO IVANO VAŠIUEVlCi AUS KARĄ SU SAVO ŽENTU, LIETUVOS DIDŽIUOJU KUNIGAIKŠČIU ALEKSANDRU, TAIP PAT APIE UŽVOLGIO ORDOS CHANĄ SICH-ACHMETĄ Nuo pasaulio sutvėrimo septyni tūkstančiai aštun taisiais, o nuo dievo gimimo 1499 metais."
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "265925-266814; hash=ae68765a0ebf5456720777c8ec420e16a24f0ed21625db2c110f7a898b189aea; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176538
 - susijęs iš [[objektai/ivykiai/Ivano Vasiljevičiaus karo prieš Aleksandrą planavimas.md#claim-t-186667|Ivano Vasiljevičiaus karo prieš Aleksandrą planavimas]]: Lietuvos metraštis Ivano Vasiljevičiaus karo prieš Aleksandrą sumanymą sieja su sąmokslu su Mengli-Girėjumi ir taika su Steponu.
@@ -170,8 +131,8 @@ Toks didžio­ jo kunigaikščio Aleksandro rūpinimasis savo sostinės gyventoj
     tarė to siekti, vesdamas Ivano Vasiljevičiaus dukterį di­
     džiąją kunigaikštytę Eleną.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -187,8 +148,8 @@ Toks didžio­ jo kunigaikščio Aleksandro rūpinimasis savo sostinės gyventoj
     orda, Ivano Vasiljevičiaus pakurstyta, ėmė puldinėti žemes,
     paklūstančias Aleksandro skeptrui, ir kilo grėsmė Kijevui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -211,8 +172,8 @@ Toks didžio­ jo kunigaikščio Aleksandro rūpinimasis savo sostinės gyventoj
     kuose uždraudė minėti ir Maskvos caro, ir Livonijos
     valdovo titulus.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -241,8 +202,8 @@ Toks didžio­ jo kunigaikščio Aleksandro rūpinimasis savo sostinės gyventoj
     nybon, be to, dar žadėjo jiems daug savo miestų ir
     valsčių.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -333,7 +294,8 @@ Toks didžio­ jo kunigaikščio Aleksandro rūpinimasis savo sostinės gyventoj
 - id: c-168074
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 700"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 700."
   citata_originali: |
     Nieko nepešę, kara­
     liaus legatai iškeliavo iš Maskvos, o netrukus pas ka­
@@ -357,7 +319,8 @@ Toks didžio­ jo kunigaikščio Aleksandro rūpinimasis savo sostinės gyventoj
 - id: c-176538
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 150"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 150."
   citata_originali: |
     54. APIE MASKVOS DIDŽIOJO KUNIGAIKŠČIO IVANO
     VAŠIUEVlCi AUS KARĄ SU SAVO ŽENTU, LIETUVOS
@@ -386,4 +349,3 @@ Toks didžio­ jo kunigaikščio Aleksandro rūpinimasis savo sostinės gyventoj
 
 ## Ryšiai
 - Ivanas Vasiljevičius valdė [[objektai/vietos/Viazma]]
-- Ivanas Vasiljevičius siuntė į [[objektai/vietos/Smolenskas]]

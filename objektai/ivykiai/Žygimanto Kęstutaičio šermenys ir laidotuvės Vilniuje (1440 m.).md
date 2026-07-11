@@ -48,19 +48,6 @@ Nenurodyta
 - t-001
   global_id: t-185846
   teiginys: "Trakuose susirinkę luomai, Goštautui ir Kęsgailai pasiūlius, nutarė surengti Žygimantui Kęstutaičiui puikias šermenis."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "814927-815467; hash=f4a258662fb6e1221d0b1f1fcd9d2ab5bc91be6a601d29323425017d63061ef5; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kęsgaila: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žygimanto Kęstutaičio šermenys ir laidotuvės Vilniuje (1440 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Kęsgaila: mention_match, person, gap=3"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žygimanto Kęstutaičio šermenys ir laidotuvės Vilniuje (1440 m.)\" parinktas kaip owner_note_path. Targetas \"Kęsgaila\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-169207
 ## Reikšmingi paminėjimai
@@ -81,8 +68,8 @@ Nenurodyta
     me pačiame kape, kur jau ilsėjosi jo brolio Vytauto pa­
     laikai.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -93,7 +80,8 @@ Nenurodyta
 - id: c-169207
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 463"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 463."
   citata_originali: |
     Sklido gandai, kad jis netikėtai užpuolė
     ir užėmė Lucką, išvadavo bajorus, Žygimanto ten įka­

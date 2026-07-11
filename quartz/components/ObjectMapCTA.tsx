@@ -39,17 +39,17 @@ const ObjectMapCTA: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
         <div class="object-map-cta-actions">
           {isGalleryPage && (
             <a href={objectHref} class="object-map-object-action">
-              <strong>Grįžti į objektą{title ? ` (${title})` : ""}</strong>
+              <strong>Objektas</strong>
               <em aria-hidden="true">&gt;</em>
             </a>
           )}
           <a href={mapHref} class={isGalleryPage ? "" : "is-active"}>
-            <strong>Eiti į žemėlapį</strong>
+            <strong>Žemėlapis</strong>
             <em aria-hidden="true">&gt;</em>
           </a>
           {hasGallery && (
             <a href={galleryHref} class={`object-map-gallery-action${isGalleryPage ? " is-active" : ""}`}>
-              <strong>Eiti į galeriją{title ? ` (${title})` : ""}</strong>
+              <strong>Galerija</strong>
               <em aria-hidden="true">&gt;</em>
             </a>
           )}
@@ -61,6 +61,15 @@ const ObjectMapCTA: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
         <canvas class="object-map-preview-canvas" data-object-map-canvas=""></canvas>
         <span class="object-map-preview-status" data-object-map-status=""></span>
       </a>
+      {!isGalleryPage && (
+        <nav class="object-section-nav" aria-label="Objekto skyriai">
+          <a href="#santrauka">Apžvalga</a>
+          <a href="#teiginiai">Teiginiai</a>
+          {hasGallery && <a href={galleryHref}>Vaizdai</a>}
+          <a href={mapHref}>Ryšiai</a>
+          <a href="#saltiniai">Šaltiniai</a>
+        </nav>
+      )}
     </div>
   )
 }

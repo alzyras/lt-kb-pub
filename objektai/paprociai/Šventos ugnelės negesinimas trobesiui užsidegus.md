@@ -50,16 +50,6 @@ Nenurodyta
 - t-004
   global_id: t-67247
   teiginys: "Užsidegus trobesiui kai kurie lietuviai nenorėdavo jo gesinti, nes ugnelę laikė šventą ir įsižeidžiančią."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "216729-217299; hash=b9159dc0bdb86ce4b4961fd195714afecff835bc3ca80a5ab971d599bf9444bd; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Šventos ugnelės negesinimas trobesiui užsidegus: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=30"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šventos ugnelės negesinimas trobesiui užsidegus\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-10051
 ## Reikšmingi paminėjimai
@@ -74,8 +64,8 @@ Nenurodyta
         aplankė.“ Perkūnijos ugnį daug stigavoja iki šiai dienai, jog ožkos pienu tegalį užgesyti, kas niekų
         kalba yra, nesgi ir pačiu vandeniu gal užgesyti, jei ano gausiai pasitinka.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

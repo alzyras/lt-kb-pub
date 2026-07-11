@@ -41,9 +41,6 @@ kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gu
 - t-002
   global_id: t-69309
   teiginys: "Stalupėnai šaltinio rodyklėje tapatinami su dabartiniu Nesterovu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "862907-862966; hash=ad31148fcd87b44849b2744c891623f551229e43b0e41eec5e620d854f529f0e; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-68679
 - susijęs iš M. Prätorius, Deliciae: M. Prätoriaus „Deliciae“ nurodoma, kad Pisos dešinysis intakas Golba prie Narpiškių kaimo buvęs šventas.
@@ -60,8 +57,8 @@ kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gu
     Stalupėnai (dab. Nesterovas)
     Stanaičiai (dab.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -72,7 +69,8 @@ kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gu
 - id: c-68679
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 318"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 318."
   citata_originali: |
     Kamienne) ež.
     Stalupėnai (dab. Nesterovas)

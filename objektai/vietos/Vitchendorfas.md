@@ -33,17 +33,6 @@ Dusburgietis teigia, kad vištytis, miestelis Vitchendorfas, k.
 - t-001
   global_id: t-58749
   teiginys: "Vitchendorfas buvo kaimas Saksonijoje."
-  semantiniai_rysiai: "Vitchendorfas priklausė Saksonija (0.88)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "867099-867536; hash=2ac0ffa1e90b13b015047ef3f3fca74a8431c304f96893babb462bb9278e1e49; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Saksonija: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vitchendorfas: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Saksonija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Vitchendorfas yra kaimas Saksonijoje."
   pagrindžia:
     - c-59381
 - susijęs iš [[objektai/asmenys/Henrikas iš Ceico.md#claim-t-60312|Henrikas iš Ceico]]: Henrikas iš Ceico iš Vitchendorfo kaimo buvo paskirtas Ditricho iš Bernheimo pagalbininku su ginklanešiais ir daugybe žirgų.
@@ -82,8 +71,8 @@ Dusburgietis teigia, kad vištytis, miestelis Vitchendorfas, k.
     Vundenava, Vuntenovė (žr. Baiga)
     Vurungenas
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -94,7 +83,8 @@ Dusburgietis teigia, kad vištytis, miestelis Vitchendorfas, k.
 - id: c-59381
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 322"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 322."
   citata_originali: |
     Viškonys
     Višogrudas (Wischerot, Wischegrot, dab. Fordonas)
@@ -125,7 +115,3 @@ Dusburgietis teigia, kad vištytis, miestelis Vitchendorfas, k.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58749
-
-## Ryšiai
-- Gyvenamoji vieta: [[objektai/asmenys/Henrikas iš Ceico]]
-- Vitchendorfas priklausė [[objektai/vietos/Saksonija]]

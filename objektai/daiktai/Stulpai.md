@@ -45,19 +45,6 @@ Nenurodyta
 - t-001
   global_id: t-185849
   teiginys: "Kojelavičiaus pasakojime Palemonas ir Prosperas Cezarinas buvo siejami su Stulpų herbu."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "93122-93562; hash=df9bffc7402b909aee5c1e02aad132669c4e33fcd8625fd48b28f9a82b575dc8; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Herbas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Stulpai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Herbas: mention_match, thing, gap=7"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Stulpai\" parinktas kaip owner_note_path. Targetas \"Herbas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-169210
 - susijęs iš [[objektai/asmenys/Bendoraitis.md#claim-t-40067|Bendoraitis]]: Po sviedinio sprogimo skyrininkas Bendoraitis buvo išmestas aukščiau telefono stulpų ir nukrito.
@@ -115,8 +102,8 @@ Nenurodyta
     pagrindo spėjama, kad jie atvykę iš Insubrijos bei Li-
     gurijos.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -153,4 +140,4 @@ Nenurodyta
     - t-185849
 
 ## Ryšiai
-- Stulpai priklausė [[objektai/grupes/Gediminaičių dinastija]], [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
+- Stulpai priklausė [[objektai/grupes/Gediminaičių dinastija]]

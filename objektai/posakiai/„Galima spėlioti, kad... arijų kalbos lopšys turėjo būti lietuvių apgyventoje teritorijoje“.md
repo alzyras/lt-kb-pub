@@ -43,19 +43,6 @@ media_all_json: |-
 - t-001
   global_id: t-25369
   teiginys: "Isaacas Tayloras spėjo, kad arijų kalbos lopšys galėjo būti lietuvių apgyventoje teritorijoje."
-  temporaliniai_duomenys: "įvykio data: 1940 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalintas nuotraukos, skyriaus ir OCR triukšmas, paliktas citatos palaikomas faktas."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "380425-381265; hash=efb405f3556440ec5f19d1b5d430570c3cf3615029c1580ac8034f60b046ca49; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "„Galima spėlioti, kad... arijų kalbos lopšys turėjo būti lietuvių apgyventoje teritorijoje“: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=36"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"„Galima spėlioti, kad... arijų kalbos lopšys turėjo būti lietuvių apgyventoje teritorijoje“\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-25842
 ## Reikšmingi paminėjimai
@@ -85,8 +72,8 @@ media_all_json: |-
     kotarpis 1940 m. pradžioje artėjo į jų lemiamą susi-
     dūrimą, abi totalitarinės valstybės ruošėsi karui dėl Europos užgrobimo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

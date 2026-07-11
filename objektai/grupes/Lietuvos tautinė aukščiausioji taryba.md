@@ -41,20 +41,6 @@ Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiauliuose, sukilėlių
 - t-001
   global_id: t-77828
   teiginys: "1794 m. balandį Vilniuje paskelbtu Lietuvos sukilimo aktu buvo sudaryta Lietuvos tautinė aukščiausioji taryba."
-  semantiniai_rysiai: "Rusai valdė miestą Vilnius (0.74)"
-  temporaliniai_duomenys: "įvykio data: 1794 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys tik kontekstualiai veda prie objekto; citata palaiko tikslesnį faktą apie tarybos sudarymą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "177559-178349; hash=754b5e308742936eb5c80766fc43ac2486f6da69a29fe2cc8ad733a9d800840c; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde_miesta -> Vilnius: 0.74"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Rusai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Pasakymas, kad Vilnius buvo išvaduotas iš rusų, tiesiogiai leidžia daryti išvadą, jog rusai prieš tai valdė miestą."
   pagrindžia:
     - c-75149
 - susijęs iš Vilnius: 1794 m. balandį sukilėliai išvadavo Vilnių iš rusų ir Rotušės aikštėje paskelbė Lietuvos sukilimo aktą.
@@ -78,8 +64,8 @@ Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiauliuose, sukilėlių
     lietuvių kalba) – raginta pradėti partizaninį karą prieš Rusijos kariuome-
     nę, žadėta suteikti jiems asmens laisvę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

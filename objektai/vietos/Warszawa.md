@@ -36,12 +36,6 @@ Stowko о bogach Litewskich // Biblioteka Warszawska.
 - t-001
   global_id: t-188930
   teiginys: "Stowko о bogach Litewskich // Biblioteka Warszawska."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "68196-68310; hash=c6b25bdec618a3bdcce518901fecc5b40a128d4b4761613199d1a5814dbd08cd; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-171819
 ## Reikšmingi paminėjimai
@@ -53,8 +47,8 @@ Stowko о bogach Litewskich // Biblioteka Warszawska.
     25 Akielewicz М. Stowko о bogach Litewskich // Biblioteka Wars-
     zawska. -  Warszawa, 1858. -  T. 3. -  S. 192-195.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -65,7 +59,8 @@ Stowko о bogach Litewskich // Biblioteka Warszawska.
 - id: c-171819
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 37"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 37."
   citata_originali: |
     25 Akielewicz М. Stowko о bogach Litewskich // Biblioteka Wars-
     zawska. -  Warszawa, 1858. -  T. 3. -  S. 192-195.

@@ -53,17 +53,6 @@ Nenurodyta
 - t-001
   global_id: t-77964
   teiginys: "Lietuvoje lietuvių valstiečiai ir žydų pirkliai buvo ūkiškai priklausomi vieni nuo kitų."
-  semantiniai_rysiai: "Žydai prekiavo su Lietuviai (0.76)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "336625-337723; hash=4d850f3ae1808fbed58d6e021ba81204a1fde8c95ad46ee0e0ca527bcf98569f; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "prekiavo_su -> Lietuviai: 0.76"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Žydai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata nurodo ūkinį žydų pirklių santykį su lietuvių valstiečiais, iš kurių jie pirko produkciją."
   pagrindžia:
     - c-75280
 ## Reikšmingi paminėjimai
@@ -90,8 +79,8 @@ Nenurodyta
     dvarininkų deputatus. Tačiau tai ir vieni, ir kiti darė savanaudiškai, nenu-
     matydami bendros strateginės partnerystės.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

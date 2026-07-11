@@ -53,17 +53,6 @@ Nenurodyta
 - t-002
   global_id: t-89427
   teiginys: "Žalvario amžiuje gyvatgalviai kapliai buvo paplitę į vakarus iki Persantės ir laikomi būdingais baltų kultūrinei sričiai."
-  semantiniai_rysiai: "Gyvatgalviai kapliai priklausė Baltai (0.76)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "13430-14002; hash=a3b107954ea71d941687e65a1d4cab6b3fcc24eb323639e4f98bdd7bb4b40fad; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Baltai: 0.76"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gyvatgalviai kapliai: llm_allowed_candidate, thing"
-  ryšio_targeto_parinkimas: "Baltai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata nurodo, kad kapliai buvo būdingi baltų kultūrinei sričiai."
   pagrindžia:
     - c-85387
 - susijęs iš Lietuvos archeologijos bruožai: Lietuvos archeologijos bruožuose nurodoma, kad žalvario amžiuje iki Persantės vakaruose buvo paplitę baltų kultūrinei sričiai būdingi gyvatgalviai kapliai.
@@ -81,8 +70,8 @@ Nenurodyta
     kultūrinei sričiai (Lietuvos archeologijos bruožai, p. 105—106; MLTE, t. 1, p. 158; Okulicz
     J. Pradzieje ziem pruskich..., s. 171— 173).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -93,7 +82,8 @@ Nenurodyta
 - id: c-85387
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 9"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 9."
   citata_originali: |
     11 Kalbant apie IX—XIII a. prūsus  ir vakarinius lietuvius tarp Vyslos  ir Nemuno,
     kartais — tiesa, neaiškiai — minima, kad juos skyrusi Persantės upė (Lietuvos TSR
@@ -108,6 +98,3 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-89427
-
-## Ryšiai
-- Gyvatgalviai kapliai priklausė [[objektai/grupes/Baltai]]

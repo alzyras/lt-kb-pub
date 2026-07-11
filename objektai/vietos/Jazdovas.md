@@ -32,12 +32,6 @@ Lietuvių Bendruomenė 18 Jazdovas, vietovė 190 (^392) VARDYNAS Jedlino suvaži
 - t-001
   global_id: t-185326
   teiginys: "Mindaugas Mazovijoje užklupo kunigaikštį Zemovitą ir jo sūnų Konradą, gyvenusius Jazdovo dvare su palyda."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "177633-178465; hash=dd0e93a8dd57a0d2c2b80338509f244efeb1cec38cf888059bf3ccc89d7eb4cc; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-168687
 
@@ -45,12 +39,6 @@ Lietuvių Bendruomenė 18 Jazdovas, vietovė 190 (^392) VARDYNAS Jedlino suvaži
 - t-002
   global_id: t-193456
   teiginys: "Mindaugas, susilaukęs paramos iš rusų, slaptai ir netikėtai didžiulių miškų takais įsibro vė Mazovijon: jis užklupo kunigaikštį Zemovitą bei jo sūnų Konradą, Jazdovo dvare nerūpestingai vasa ros karštymetyje gyvenančius su visa palyda."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "177633-178465; hash=dd0e93a8dd57a0d2c2b80338509f244efeb1cec38cf888059bf3ccc89d7eb4cc; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-168687
 ## Reikšmingi paminėjimai
@@ -77,8 +65,8 @@ Lietuvių Bendruomenė 18 Jazdovas, vietovė 190 (^392) VARDYNAS Jedlino suvaži
     žintas į tėvo valdas, vargšas Zemovitas tuo tarpu žu­
     vo ruso netrukus žiauriai nukankintas.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -90,7 +78,8 @@ Lietuvių Bendruomenė 18 Jazdovas, vietovė 190 (^392) VARDYNAS Jedlino suvaži
 - id: c-168687
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 106"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 106."
   citata_originali: |
     Neliko saugi nuo karo tuo metu nė Livonija: ją nuo­
     latos siaubė Mindaugo karvedžiai, ten vyko kovos prie

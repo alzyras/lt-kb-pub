@@ -49,18 +49,6 @@ Wremiennik Sofijski Balińskio tekste naudojamas kaip Rusios metraštinės tradi
 - t-002
   global_id: t-55235
   teiginys: "Wremiennik Sofijski nurodomas kaip šaltinis dėl Šv. Mikalojaus bažnyčios Vilniuje egzistavimo 1347 m."
-  temporaliniai_duomenys: "įvykio data: 1347 m.; įvykio data: 1827 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "82243-82441; hash=6c2976a959c73bdecbae14fcfa73c4c84eb1e9d69f76ec2deb56b89a2fe3ce5d; match=whitespace_regex"
-  sprendimo_priezastis: "gap::sources"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Wremiennik Sofijski: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=73"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Wremiennik Sofijski\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-55650
 
@@ -68,18 +56,6 @@ Wremiennik Sofijski Balińskio tekste naudojamas kaip Rusios metraštinės tradi
 - t-003
   global_id: t-55236
   teiginys: "Sofijski Wremiennik minimas greta kitų šaltinių aiškinant Narimanto, Patriko ir Lengvenio valdžios seką Didžiajame Naugarde."
-  temporaliniai_duomenys: "įvykio data: iki 1348 m.; įvykio data: 1348 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "280773-281331; hash=2869246f41bda1d9ed6ac17c00c9639df68cd68f2077467b4fda79e2946b5fdd; match=whitespace_regex"
-  sprendimo_priezastis: "gap::sources"
-  ryšio_patikimumas: "susije_su -> Didžiojo Naugardo respublika: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Wremiennik Sofijski: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Didžiojo Naugardo respublika: mention_match, group, gap=115"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Wremiennik Sofijski\" parinktas kaip owner_note_path. Targetas \"Didžiojo Naugardo respublika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-55651
 
@@ -87,16 +63,6 @@ Wremiennik Sofijski Balińskio tekste naudojamas kaip Rusios metraštinės tradi
 - t-004
   global_id: t-55237
   teiginys: "Sofijski Wremiennik rašo, kad vokiečių pulkai atėjo prie Vilniaus prieš Vytautą, kovėsi prie miesto ir buvo Lietuvos nugalėti."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "300286-301170; hash=36221b0bc63a66ec6cd6218943af8c6853824067f3d95de8580efae5138eb0e6; match=whitespace_regex"
-  sprendimo_priezastis: "gap::sources"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Wremiennik Sofijski: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=108"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Wremiennik Sofijski\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-55652
 
@@ -104,18 +70,6 @@ Wremiennik Sofijski Balińskio tekste naudojamas kaip Rusios metraštinės tradi
 - t-005
   global_id: t-55238
   teiginys: "Sofijski Wremiennik pateikia 1430 m. Trakų-Vilniaus suvažiavimo pas Vytautą dalyvių sąrašą."
-  temporaliniai_duomenys: "įvykio data: 1430 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "352860-353687; hash=17f16192ff9a689d411f2f63c841379562242642dcc91bf382295db5c3fd2c87; match=whitespace_regex"
-  sprendimo_priezastis: "gap::sources"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Wremiennik Sofijski: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=43"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Wremiennik Sofijski\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-55653
 
@@ -123,19 +77,6 @@ Wremiennik Sofijski Balińskio tekste naudojamas kaip Rusios metraštinės tradi
 - t-006
   global_id: t-82035
   teiginys: "Wremiennik Sofijski nurodo, kad Goštautas vedė Bučiacką iš Podolės ir priėmė Romos katalikų tikėjimą."
-  temporaliniai_duomenys: "įvykio data: 1827 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys turi OCR ir nuorodos triukšmo; citata palaiko aiškų sakinį su šaltinio atribucija."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "81933-82418; hash=ce156c7271c6d351236a4e992b1a84ef0544db2397095c859a9679caf4024699; match=exact"
-  sprendimo_priezastis: "gap::sources"
-  ryšio_patikimumas: "susije_su -> Podolė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Wremiennik Sofijski: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Podolė: mention_match, place, gap=59"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Wremiennik Sofijski\" parinktas kaip owner_note_path. Targetas \"Podolė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-78541
 ## Reikšmingi paminėjimai
@@ -150,8 +91,8 @@ Wremiennik Sofijski Balińskio tekste naudojamas kaip Rusios metraštinės tradi
     je egzistavimą jau 1347 metais. Kal­
     bame čia apie Šv.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -177,8 +118,8 @@ Wremiennik Sofijski Balińskio tekste naudojamas kaip Rusios metraštinės tradi
     ir pastaba 106,108. Sofijski Wremien-
     nik, p. 382.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -212,8 +153,8 @@ Wremiennik Sofijski Balińskio tekste naudojamas kaip Rusios metraštinės tradi
     jais kovėsi prie Vilniaus miesto ir
     Lietuva laimėjo].
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -246,8 +187,8 @@ Wremiennik Sofijski Balińskio tekste naudojamas kaip Rusios metraštinės tradi
     wody i Władyki i bojare sa wsiech ziemi
     byli u neho.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -270,8 +211,8 @@ Wremiennik Sofijski Balińskio tekste naudojamas kaip Rusios metraštinės tradi
     užsimena apie tos bažnyčios Vilniu­
     je egzistavimą jau 1347 metais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

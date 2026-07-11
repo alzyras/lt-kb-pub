@@ -33,16 +33,6 @@ Dusburgietis teigia, kad pratarmė „Aukščiausias dievas padarė manyje ženk
 - t-004
   global_id: t-89576
   teiginys: "Dusburgietis aiškino, kad žodžius „Aukščiausias dievas padarė manyje ženklų ir stebuklų“ ištarė Babilonijos karalius Nabuchodonosaras."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "97711-98792; hash=f0eb36d3702dcb2a627ba087c1125e22cf3beba8f5a4f412cc3029def24b9b03; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jeruzalė: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aukščiausias dievas padarė manyje ženklų ir stebuklų: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Jeruzalė: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aukščiausias dievas padarė manyje ženklų ir stebuklų\" parinktas kaip owner_note_path. Targetas \"Jeruzalė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-85519
 
@@ -50,16 +40,6 @@ Dusburgietis teigia, kad pratarmė „Aukščiausias dievas padarė manyje ženk
 - t-003
   global_id: t-89577
   teiginys: "Dusburgietis posakį „Aukščiausias dievas padarė manyje ženklų ir stebuklų“ pritaikė savo sumanymui skelbti Dievo ženklus ir stebuklus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "98286-99027; hash=5a92a5c4e7b2608565f94e1907357f1e707ce929e77a871dc9059b71b2728784; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jeruzalė: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aukščiausias dievas padarė manyje ženklų ir stebuklų: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Jeruzalė: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aukščiausias dievas padarė manyje ženklų ir stebuklų\" parinktas kaip owner_note_path. Targetas \"Jeruzalė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-85517
 ## Reikšmingi paminėjimai
@@ -78,8 +58,8 @@ Dusburgietis teigia, kad pratarmė „Aukščiausias dievas padarė manyje ženk
     ir šlovintų jūsų Tėvą danguje“, todėl Jėzaus Kristaus vardo garbei bei šlovei jis ir nutarė
     skelbti dievo ženklus, nes jie dideli, ir jo stebuklus, nes jie galingi.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -94,11 +74,11 @@ Dusburgietis teigia, kad pratarmė „Aukščiausias dievas padarė manyje ženk
       „Aukščiausias dievas padarė manyje ženklų ir stebuklų. Taigi man patiko paskelbti jo
     ženklus, nes jie dideli, ir jo stebuklus, nes galingi“ (Dan 3. 99—100), (Danielius III).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   statusas: verified
 
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 - c-003
   santrauka: 'Dusburgietis aiškino, kad žodžius „Aukščiausias dievas padarė manyje ženklų ir stebuklų“ ištarė Babilonijos karalius Nabuchodonosaras.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -117,8 +97,8 @@ Dusburgietis teigia, kad pratarmė „Aukščiausias dievas padarė manyje ženk
     guldydami galvas už tikėjimą, galėjo sakyti: „Aukščiausias dievas padarė manyje ženklų
     ir stebuklų“ ir t. t.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -129,7 +109,8 @@ Dusburgietis teigia, kad pratarmė „Aukščiausias dievas padarė manyje ženk
 - id: c-85517
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 33"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 33."
   citata_originali: |
     Tačiau tinka tie žodžiai ir šios knygos autoriui,
     kuris,  šventosios  Marijos  Teutonų namų  ligoninės  Jeruzalėje  brolių  šventosios
@@ -151,7 +132,8 @@ Dusburgietis teigia, kad pratarmė „Aukščiausias dievas padarė manyje ženk
 - id: c-85519
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 33"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 33."
   citata_originali: |
     Šitaip bylojo Babilonijos karalius Nabuchodonosaras, matydamas, jog liepsna nė
     nepalietė Danieliaus bei jo bičiulių ir jiems nieko bloga nepadarė, kai šie buvo surišti bei

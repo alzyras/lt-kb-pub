@@ -43,20 +43,6 @@ Dusburgietis teigia, kad apie apaštališkojo sosto legatus ir taiką, padarytą
 - t-001
   global_id: t-60245
   teiginys: "Popiežius Jonas XXII 1324 m. pasiuntė Aleto vyskupą Baltramiejų į Livoniją kaip legatą pakrikštyti lietuvių ir rusų karaliaus."
-  semantiniai_rysiai: "Baltramiejus (Aleto vyskupas) keliavo į Ryga (0.92); Jonas XXII (arkivyskupas, XIV a.) siuntė į Livonija (0.90); Baltramiejus (Aleto vyskupas) keliavo į Livonija (0.86)"
-  temporaliniai_duomenys: "įvykio data: 1324 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalintas OCR triukšmas ir suformuluotas konkretus faktas apie Baltramiejų."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "679557-680817; hash=31147ad856378d84d2e1aa7af46149bab7d1822555dcaed50cc31d48756e3044; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Ryga: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Baltramiejus (Aleto vyskupas): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Ryga: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Baltramiejaus atvykimą į Rygą kaip vieno iš dviejų legatų."
   pagrindžia:
     - c-60877
 ## Reikšmingi paminėjimai
@@ -82,8 +68,8 @@ Dusburgietis teigia, kad apie apaštališkojo sosto legatus ir taiką, padarytą
     tik apaštališkasis sostas, prie kurio  jie patys per  tris mėnesius turėsią prisistatyti,
     kad atvykę deramai pataisytų tai, kas atsitiko.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -94,7 +80,8 @@ Dusburgietis teigia, kad apie apaštališkojo sosto legatus ir taiką, padarytą
 - id: c-60877
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 221"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 221."
   citata_originali: |
     356 (349). Apie apaštališkojo sosto legatus ir taiką, padarytą tarp netikėlių bei krikš­
                                        čionių 1324 metais
@@ -121,4 +108,4 @@ Dusburgietis teigia, kad apie apaštališkojo sosto legatus ir taiką, padarytą
     - t-60245
 
 ## Ryšiai
-- Baltramiejus (Aleto vyskupas) keliavo į [[objektai/vietos/Livonija]], [[objektai/vietos/Ryga]]
+- Baltramiejus (Aleto vyskupas) keliavo į [[objektai/vietos/Ryga]]

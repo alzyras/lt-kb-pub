@@ -41,17 +41,6 @@ Dusburgietis teigia, kad apie brolį Hermaną, trečią magistrą Trečias magis
 - t-001
   global_id: t-60325
   teiginys: "Hermanas Bartas buvo trečiasis magistras, mirė gegužės 20 dieną ir buvo palaidotas Akone."
-  semantiniai_rysiai: "Hermanas Bartas buvo palaidotas Akonas (0.95)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "123481-123846; hash=152ce856770074b470bd7ce003c130d9bc3a257d7a78a0417435268e9f6e9040; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_palaidotas -> Akonas: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Hermanas Bartas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Akonas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Hermano Barto palaidojimo vietą."
   pagrindžia:
     - c-60957
 ## Reikšmingi paminėjimai
@@ -73,8 +62,8 @@ Dusburgietis teigia, kad apie brolį Hermaną, trečią magistrą Trečias magis
        Ketvirtas magistras brolis Hermanas iš Zalcos (1210—1239) vadovavo daug metų,
     o mirė liepos 24 dieną  ir palaidotas Barletoje158.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -85,7 +74,8 @@ Dusburgietis teigia, kad apie brolį Hermaną, trečią magistrą Trečias magis
 - id: c-60957
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 40"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 40."
   citata_originali: |
     4. Apie brolį Hermaną, trečią magistrą
 

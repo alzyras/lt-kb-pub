@@ -57,22 +57,6 @@ Nenurodyta
 - t-002
   global_id: t-192045
   teiginys: "1837–1838 m. J. I. Kraševskis „Tygodnik Petersburski“ pažadėjo atsiųsti Narbuto „Istorijos“ antro tomo kritiką, kai tik tomas jį pasieks."
-  teiginio_tipas: "saltinio_teiginys"
-  temporaliniai_duomenys: "įvykio data: 1837-1838; įvykio data: 1838 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Subjektas ir leidinio kontekstas išskleisti į vieną aiškų sakinį. Nepridėta Griškaitės, nes citata remia paties Kraševskio pažadą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "10312-10710; hash=e7f371ef12f46564489122b0edadfdeec6f319fff0f5b9ff45335e92d1cee360; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
-  ryšio_patikimumas: "susije_su -> Tomas (Hertvigo iš Pokarvių sūnus): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Antrojo „Lietuvių tautos istorijos“ tomo recepcija ir neįvykusi J. I. Kraševskio recenzija: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Tomas (Hertvigo iš Pokarvių sūnus): mention_match, person, gap=85"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antrojo „Lietuvių tautos istorijos“ tomo recepcija ir neįvykusi J. I. Kraševskio recenzija\" parinktas kaip owner_note_path. Targetas \"Tomas (Hertvigo iš Pokarvių sūnus)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174915
 ## Reikšmingi paminėjimai
@@ -93,8 +77,8 @@ Nenurodyta
     sieks Narbuto „Istorijos“ antras tomas (kuris jau išėjo),
     kuo skubiausiai atsiųsiu redakcijai jo kritiką“1.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

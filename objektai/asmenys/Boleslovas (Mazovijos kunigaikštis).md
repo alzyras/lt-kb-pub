@@ -42,17 +42,6 @@ Dusburgietis teigia, kad šitai sužinojęs, Mazovijos kunigaikštis Boleslovas 
 - t-001
   global_id: t-89678
   teiginys: "Mazovijos kunigaikštis Boleslovas sudarė laikinas paliaubas tarp krikščionių ir lietuvių."
-  semantiniai_rysiai: "Boleslovas (Mazovijos kunigaikštis) sudarė sutartį su Lietuviai (0.66)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "574943-576231; hash=f3555d7cfe16d59dc1fc2f9b592ba7ba39213e9feae21e7e8ecd3f37c6e4813c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "sudare_sutarti_su -> Lietuviai: 0.66"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Boleslovas (Mazovijos kunigaikštis): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Boleslovas sudarė paliaubas tarp krikščionių ir netikėlių, o tolimesniame sakinyje netikėliai siejami su lietuviais."
   pagrindžia:
     - c-85619
 
@@ -60,17 +49,6 @@ Dusburgietis teigia, kad šitai sužinojęs, Mazovijos kunigaikštis Boleslovas 
 - t-003
   global_id: t-89680
   teiginys: "Mazovijos kunigaikštis Boleslovas po Vytenio įsiveržimo į Lenkiją sudarė laikinas paliaubas tarp krikščionių ir lietuvių."
-  semantiniai_rysiai: "Boleslovas (Mazovijos kunigaikštis) sudarė sutartį su Lietuviai (0.66)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "574943-576231; hash=f3555d7cfe16d59dc1fc2f9b592ba7ba39213e9feae21e7e8ecd3f37c6e4813c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "sudare_sutarti_su -> Lietuviai: 0.66"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Boleslovas (Mazovijos kunigaikštis): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Paliaubos sudarytos su puse, kuri pasakojime sutapatinama su lietuviais."
   pagrindžia:
     - c-85619
 
@@ -78,20 +56,6 @@ Dusburgietis teigia, kad šitai sužinojęs, Mazovijos kunigaikštis Boleslovas 
 - t-004
   global_id: t-184678
   teiginys: "Boleslovas, Mazovijos kunigaikštis, vedė Lauro seserį, tikėdamasis per giminystę su valdovais sumažinti lietuvių užpuldinėjimus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Boleslovas (Mazovijos kunigaikštis) buvo priešas Lietuviai (0.70)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "255235-255884; hash=2451f09ba93c991c715ace7eb389ec40ee8e95abfbec9980e7b8dabe0d72f5a0; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_priesas -> Lietuviai: 0.70"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Boleslovas (Mazovijos kunigaikštis): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Boleslovas siekė sumažinti lietuvių užpuldinėjimus, todėl santykis su lietuviais yra priešiškas."
   pagrindžia:
     - c-168039
 
@@ -99,23 +63,6 @@ Dusburgietis teigia, kad šitai sužinojęs, Mazovijos kunigaikštis Boleslovas 
 - t-005
   global_id: t-184679
   teiginys: "Mazovijos kunigaikštis Boleslovas Viznoje laikė lietuvių įgulą, nors mozūrai ir kryžiuočiai tuo metu buvo sudarę sąjungą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Boleslovas (Mazovijos kunigaikštis) valdė Vizna (0.76)"
-  temporaliniai_duomenys: "valdymo laikotarpis: 1295 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Boleslovas (Mazovijos kunigaikštis) buvo valdovas Mazovija“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pagrindžia konkretų Boleslovo veiksmą Viznoje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "293242-293928; hash=70ad3f1e22f3299cad4fdcc859e01902344615ecd4ff168b384fd6bd05035e48; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde -> Vizna: 0.76"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Boleslovas (Mazovijos kunigaikštis): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vizna: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Boleslovas laikė Viznoje lietuvių įgulą, todėl palaikoma jo kontrolė toje vietoje."
   pagrindžia:
     - c-168040
 
@@ -123,23 +70,6 @@ Dusburgietis teigia, kad šitai sužinojęs, Mazovijos kunigaikštis Boleslovas 
 - t-006
   global_id: t-184680
   teiginys: "Boleslovas, Mazovijos kunigaikštis, užpuolė Palenkę ir užėmė Melniką, Belską bei Drohičiną."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Boleslovas (Mazovijos kunigaikštis) puolė Palenkė (0.96); Boleslovas (Mazovijos kunigaikštis) užėmė Belskas (0.90); Boleslovas (Mazovijos kunigaikštis) užėmė Drohičinas (0.90)"
-  temporaliniai_duomenys: "įvykio data: 1440 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys iš esmės pagrįstas, bet reikia sutvarkyti formą ir skyrybą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "816254-816893; hash=3c7697d1d91bba7af29576cd8739f436f8cc6a27bf07576383b28c060788baed; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Palenkė: 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Boleslovas (Mazovijos kunigaikštis): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Palenkė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Boleslovas užpuolė Palenkę."
   pagrindžia:
     - c-168041
 
@@ -147,19 +77,6 @@ Dusburgietis teigia, kad šitai sužinojęs, Mazovijos kunigaikštis Boleslovas 
 - t-007
   global_id: t-184681
   teiginys: "Renkant karalių Piotrkovo seime, Plocko vyskupo patarti rinkėjai kėlė Mazovijos kunigaikštį Boleslovą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "849424-850230; hash=eda3032a034c31f1da536cca1e6280e65688efea2ecb0a9f4454ba03247038dd; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Mazovija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Boleslovas (Mazovijos kunigaikštis): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Mazovija: mention_match, place, gap=22"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Boleslovas (Mazovijos kunigaikštis)\" parinktas kaip owner_note_path. Targetas \"Mazovija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-168042
 ## Reikšmingi paminėjimai
@@ -177,11 +94,11 @@ Dusburgietis teigia, kad šitai sužinojęs, Mazovijos kunigaikštis Boleslovas 
     Prūsijos bei Lenkijos žemes. Jis nesiliovė šito daręs, nors daug kartų buvo išganingai
     dėl to įspėtas.
   citata_rodoma: ''
+  statusas: verified
+
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -201,8 +118,8 @@ Dusburgietis teigia, kad šitai sužinojęs, Mazovijos kunigaikštis Boleslovas 
     juos  ir nužudė kunigaikštį Kazimierą bei visus jo žmones, išskyrus vieną karį, kuris
     paspruko, kad galėtų kitiems apie tai papasakoti.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -230,8 +147,8 @@ Dusburgietis teigia, kad šitai sužinojęs, Mazovijos kunigaikštis Boleslovas 
     tokio atokvėpio nuo nuolatinių lietuvių užpuldinėjimų,
     kadangi visos sutartys šiuo atžvilgiu nieko negelbėjo.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -261,8 +178,8 @@ Dusburgietis teigia, kad šitai sužinojęs, Mazovijos kunigaikštis Boleslovas 
     myniniai lenkų ir prūsų kaimai ne vieną kartą būda­
     vo puolami ir siaubiami.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -298,8 +215,8 @@ Dusburgietis teigia, kad šitai sužinojęs, Mazovijos kunigaikštis Boleslovas 
     pritardami naujajam valdovui, o kiti jam priešindamie­
     si.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -331,8 +248,8 @@ Dusburgietis teigia, kad šitai sužinojęs, Mazovijos kunigaikštis Boleslovas 
     norą parodyti, bent tol, kol nebuvo reikalo tarti galutinį
     žodį.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -343,7 +260,8 @@ Dusburgietis teigia, kad šitai sužinojęs, Mazovijos kunigaikštis Boleslovas 
 - id: c-85619
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 183"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 183."
   citata_originali: |
     Tais pačiais metais Vytenis, Lietuvos karaliaus sūnus, įsibrovė su aštuoniais šimtais
     vyrų į Lenkijos žemę540 ir per sekmines (birželio 6), kai Lenčicos bažnyčios kanauninkai,
@@ -400,7 +318,8 @@ Dusburgietis teigia, kad šitai sužinojęs, Mazovijos kunigaikštis Boleslovas 
 - id: c-168040
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 170"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 170."
   citata_originali: |
     Pats
     magistras, žiemai einant į pabaigą, nusiaubė Gaižuvos
@@ -468,7 +387,8 @@ Dusburgietis teigia, kad šitai sužinojęs, Mazovijos kunigaikštis Boleslovas 
 - id: c-168042
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 483"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 483."
   citata_originali: |
     Todėl, pasiuntę naujų pasiuntinių, dar
     kartą paklausė Kazimierą, koks jo paskutinis žodis:
@@ -499,8 +419,5 @@ Dusburgietis teigia, kad šitai sužinojęs, Mazovijos kunigaikštis Boleslovas 
     - t-184681
 
 ## Ryšiai
-- Priešai: [[objektai/grupes/Lietuviai]]
-- Boleslovas (Mazovijos kunigaikštis) valdė [[objektai/vietos/Vizna]]
 - Boleslovas (Mazovijos kunigaikštis) puolė [[objektai/vietos/Palenkė]]
 - Boleslovas (Mazovijos kunigaikštis) užėmė [[objektai/vietos/Belskas]], [[objektai/vietos/Drohičinas]]
-- Boleslovas (Mazovijos kunigaikštis) sudarė sutartį su [[objektai/grupes/Lietuviai]]

@@ -33,9 +33,6 @@ Tuo tarpu Mažojoje Lietuvoje ilgą laiką svetimieji buvo tik ponai, o kolonist
 - t-001
   global_id: t-70148
   teiginys: "Mažojoje Lietuvoje germanizacijos politika sustiprėjo tik XIX a. pabaigoje, todėl ji nespėjo suvokietinti visų lietuvių."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "1205306-1205809; hash=5f8bfff7d44077539d3cc27a374f860c3c6f8aae313aceb9378321f98038bf9f; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-69231
 ## Reikšmingi paminėjimai
@@ -53,8 +50,8 @@ Tuo tarpu Mažojoje Lietuvoje ilgą laiką svetimieji buvo tik ponai, o kolonist
     pagaliau pati germanizacijos politika M. Lietuvoj tesustiprėjo
     tik į XIX amž. galą, todėl nė nespėjo čia suvirškinti visų lietuvių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -50,17 +50,6 @@ Nenurodyta
 - t-001
   global_id: t-08311
   teiginys: "Moteriškosios dar ilgai nenorėjo mesti senovės nuometų nuo galvos."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "399921-400599; hash=50bde5cdca865d6f0a8effcaba0bdbba211a39767c3381142f2ea376b1ce4353; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Baltai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Nuometai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Baltai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Nuometai\" parinktas kaip owner_note_path. Targetas \"Baltai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-10266
 - susijęs iš [[objektai/paprociai/Mergaičių, nuotakų, žmonų ir našlių galvos puošyba.md#claim-t-67168|Mergaičių, nuotakų, žmonų ir našlių galvos puošyba]]: Motriškosios ilgai dėvėjo senovinius nuometus ir nenorėjo jų mesti nuo galvos.
@@ -78,8 +67,8 @@ Nenurodyta
         nes kad nukris nuometai nuo mūsų galvų, tad jūs nebatginsit jų su savo skaleliais nuo savo pūrų ir
         sėsit juos ne sau, bet varnams.“
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

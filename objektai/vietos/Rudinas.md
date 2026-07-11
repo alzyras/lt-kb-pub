@@ -35,17 +35,6 @@ Dusburgietis teigia, kad rudino miestas buvęs du kartus užkariautas, o visi ja
 - t-002
   global_id: t-91359
   teiginys: "Sargybinis rado sužeistą Martyną kovos vietoje ir nuvežė jį į Rudino pilį."
-  semantiniai_rysiai: "Martynas iš Golino keliavo į Rudinas (0.78)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "454801-455404; hash=689211246252179868dbe43bc44bffcbc11721d77408f3c3bc0fe2bf7271901a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Rudinas: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Martynas iš Golino: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Rudinas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Martynas buvo nugabentas į Rudino pilį, todėl kryptinė kelionės sąsaja yra tiesiogiai paremta tekstu."
   pagrindžia:
     - c-87075
 
@@ -53,16 +42,6 @@ Dusburgietis teigia, kad rudino miestas buvęs du kartus užkariautas, o visi ja
 - t-003
   global_id: t-91360
   teiginys: "Antrosios atskalūnybės metais Rudino broliai ir miestiečiai gynė krikščionių tikėjimą nuo prūsų."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "452439-452889; hash=ed43a4ed04bcb3eb1360c030f0354de64df3f77878c07f89e1863e4d7b1539f9; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Prūsai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; prusai_group_context; same_sentence_locality; single_candidate_actor; single_candidate_target; target_after_predicate"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Rudinas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Prūsai: mention_match, place, gap=60"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rudinas\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-87074
 
@@ -70,16 +49,6 @@ Dusburgietis teigia, kad rudino miestas buvęs du kartus užkariautas, o visi ja
 - t-001
   global_id: t-91361
   teiginys: "Pasak kai kurių žmonių, Rudino miestas buvo du kartus užkariautas, o jo gyventojai paimti į nelaisvę arba išžudyti."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "452759-452921; hash=bb1a61812c914453017a6abb2c09b7a8a059bae24d48db8e36ba0d0d55596c66; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> pasak kai kurių: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Rudinas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "pasak kai kurių: mention_match, thing, gap=24"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rudinas\" parinktas kaip owner_note_path. Targetas \"pasak kai kurių\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-87076
 - susijęs iš [[objektai/ivykiai/Rudino brolių susidūrimas su trimis ir penkiais prūsais.md#claim-t-59596|Rudino brolių susidūrimas su trimis ir penkiais prūsais]]: Vienas Rudino brolis ir Martynas iš Golino, pasiklydę dykrose, susidūrė su prūsais, juos įveikė ir grįžo į Rudino pilį.
@@ -117,8 +86,8 @@ Dusburgietis teigia, kad rudino miestas buvęs du kartus užkariautas, o visi ja
     kai kurių žmonių. Rudino miestas buvęs du kartus užkariautas, o visi jame buvę žmonės
     arba paimti į nelaisvę, arba išžudyti.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -137,8 +106,8 @@ Dusburgietis teigia, kad rudino miestas buvęs du kartus užkariautas, o visi ja
     bet dar gyvą, įkėlė jį į vežimą ir nuvežė į Rudino pilį, vesdamasis drauge prūsų arklius ir
     gabendamasis jų ginklus bei kitus daiktus.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -157,8 +126,8 @@ Dusburgietis teigia, kad rudino miestas buvęs du kartus užkariautas, o visi ja
 
                      156 (151).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -169,7 +138,8 @@ Dusburgietis teigia, kad rudino miestas buvęs du kartus užkariautas, o visi ja
 - id: c-87074
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 141"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 141."
   citata_originali: |
     Apie Rudino brolių kovą ir tenykščio miesto sugriovimą
 
@@ -188,7 +158,8 @@ Dusburgietis teigia, kad rudino miestas buvęs du kartus užkariautas, o visi ja
 - id: c-87075
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 142"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 142."
   citata_originali: |
     Prusai  jį
     taip siaubingai kapojo, taip žeidė, kad daugelyje vietų nuo jo kūno tiesiog karojo dideli
@@ -209,7 +180,8 @@ Dusburgietis teigia, kad rudino miestas buvęs du kartus užkariautas, o visi ja
 - id: c-87076
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 141"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 141."
   citata_originali: |
     Pasak
     kai kurių žmonių. Rudino miestas buvęs du kartus užkariautas, o visi jame buvę žmonės

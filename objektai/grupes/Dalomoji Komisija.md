@@ -39,17 +39,6 @@ media_all_json: |-
 - t-001
   global_id: t-72054
   teiginys: "Lietuvoje ir Lenkijoje buvo sudarytos atskiros Dalomosios Komisijos turto dalybų darbui atlikti."
-  semantiniai_rysiai: "Dalomoji Komisija gyveno Lietuva (0.62); Dalomoji Komisija gyveno Lenkija (0.62)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "849376-849672; hash=e42b406c25c8d35ccf726e844251606602f8e39b2f141054b4e823fe16307619; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Lenkija: 0.62"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Dalomoji Komisija: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas nurodo, kad atskira Dalomoji Komisija buvo sudaryta Lenkijoje; tai institucijos veikimo vieta."
   pagrindžia:
     - c-70482
 
@@ -57,16 +46,6 @@ media_all_json: |-
 - t-002
   global_id: t-72055
   teiginys: "Dalomosios Komisijos pigiai dalijo dvarus savo artimiesiems ir pasisavindavo pinigus."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "851923-852272; hash=c41ec7f52805bcf490f5fcd7392784dac150e569c8838e419f1a554cb1f2d0a7; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Dalomoji Komisija: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dalomoji Komisija\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-70480
 
@@ -74,22 +53,6 @@ media_all_json: |-
 - t-003
   global_id: t-182886
   teiginys: "Lietuvoje ir Lenkijoje buvusiems jėzuitų dvarams išnuomoti buvo sudarytos atskiros Dalomosios Komisijos."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Dalomoji Komisija gyveno Lietuva (0.62); Dalomoji Komisija gyveno Lenkija (0.62)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "849454-849775; hash=b5c9916d21753ada70910622832b071dc0daf440030627be316d3b914e7107d7; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Lenkija: 0.62"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Dalomoji Komisija: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas nurodo, kad atskira Dalomoji Komisija buvo sudaryta Lenkijoje; tai institucijos veikimo vieta."
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-166290
 ## Reikšmingi paminėjimai
@@ -106,8 +69,8 @@ media_all_json: |-
     biznį — dvarus labai pigiai dalina savo artimiesiems, o pinigus tie-
     siog vagia.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -127,8 +90,8 @@ media_all_json: |-
     atskirą Dalomąją
     Komisiją.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -152,8 +115,8 @@ media_all_json: |-
     mučiausia ėjo Lietuvos
     mokyklų reikalams.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -226,6 +189,3 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-182886
-
-## Ryšiai
-- Dalomoji Komisija gyveno [[objektai/vietos/Lenkija]], [[objektai/vietos/Lietuva]]

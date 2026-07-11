@@ -45,12 +45,6 @@ Nenurodyta
 - t-001
   global_id: t-194075
   teiginys: "Moldavijos vaivada Steponas, išgirdęs, kad kara lius Olbrachtas nenori grįžti iš jo žemės tuo pačiu ke liu, kuriuo buvo atėjęs, o nori eiti kitais naujais ke liais, per uolėtą Bukoviną, labai dėl to apsidžiaugė3 4 ir, nė kiek nebepaisydamas priesaikos bei."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "262515-263447; hash=7fd7e65dd27572fb30c839093de5265d09e583f5e09225572f2797e26450daf6; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176688
 ## Reikšmingi paminėjimai
@@ -81,8 +75,8 @@ Nenurodyta
 
     savo žmonėmis — raiteliais ir pėstininkais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

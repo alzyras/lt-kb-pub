@@ -34,17 +34,6 @@ media_all_json: |-
 - t-001
   global_id: t-99928
   teiginys: "Koložas buvo Gardino priemiestis."
-  semantiniai_rysiai: "Koložas priklausė Gardinas (0.82)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1066062-1066749; hash=f7db4eb9bf476d67fec35ced76ccdb7329204d42d924b69c602ecfc494300b7d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Gardinas: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Koložas: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Gardinas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai apibrėžia Koložą kaip Gardino priemiestį."
   pagrindžia:
     - c-93879
 - susijęs iš Naugardukas: Naugardukas 1044 m. Jaroslavo buvo įkurtas, tikėtina, dar lietuvių gyvenamoje žemėje.
@@ -85,8 +74,8 @@ media_all_json: |-
     Konrad Zöllner von Rottenstein,
     D. mag.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -136,6 +125,3 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-99928
-
-## Ryšiai
-- Koložas priklausė [[objektai/vietos/Gardinas]]

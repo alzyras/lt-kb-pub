@@ -34,18 +34,6 @@ media_all_json: |-
 - t-001
   global_id: t-42148
   teiginys: "Rugsėjo 22 d. prie Smalėnų miestelio šarvuotasis traukinys „Gediminas“ susirėmė su lenkų artilerija ir rėmė Lietuvos pėstininkus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "829675-829936; hash=cc9a1a92c6bf6bd1d2420e8deab4524713edac558aadbf0178ee6a65432f97d0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Artilerija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Smalėnai: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Artilerija: mention_match, thing, gap=70"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Smalėnai\" parinktas kaip owner_note_path. Targetas \"Artilerija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-45333
 - susijęs iš [[objektai/grupes/3-ioji divizija.md#claim-t-38933|3-ioji divizija]]: 3-iajai divizijai buvo numatyta gynybinė pozicija nuo Vištyčio ežero per Rūdelę, Smalėnus ir Klevus iki Dimitravo ežero.
@@ -65,8 +53,8 @@ media_all_json: |-
     lenkų artilerija už Punsko, prie Smalėnų miestelio. Traukinys savo patrankomis ir kul-
     kosvaidžiais rėmė Lietuvos kariuomenės pėstininkų veiksmus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -90,6 +78,3 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-42148
-
-## Ryšiai
-- Gynė Smalėnai: [[objektai/grupes/3-ioji divizija]]

@@ -46,9 +46,6 @@ Nenurodyta
 - t-005
   global_id: t-09597
   teiginys: "Sodybų šeimininkai stebėdavo aplinką ir pranešdavo partizanams apie pavojų."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "911071-911709; hash=d2b5fdcffe6c345175d35549bbf7742bc87a35e9b7526e546f66103998d2d70a; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
   pagrindžia:
     - c-12349
 
@@ -56,9 +53,6 @@ Nenurodyta
 - t-004
   global_id: t-09598
   teiginys: "Sodybų šeimininkai aprūpindavo partizanus maistu ir kitomis būtinomis priemonėmis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "911071-911709; hash=d2b5fdcffe6c345175d35549bbf7742bc87a35e9b7526e546f66103998d2d70a; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
   pagrindžia:
     - c-12349
 
@@ -66,9 +60,6 @@ Nenurodyta
 - t-006
   global_id: t-09599
   teiginys: "Demaskavus slėptuvę nukentėdavo ir sodybos šeimininkai: sodyba dažnai būdavo sudeginama, o gyvi likę šeimininkai ištremiami."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "911071-911709; hash=d2b5fdcffe6c345175d35549bbf7742bc87a35e9b7526e546f66103998d2d70a; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
   pagrindžia:
     - c-12349
 ## Reikšmingi paminėjimai
@@ -85,8 +76,8 @@ Nenurodyta
     ir šeimininkai, sodyba šturmo metu, ar po jo, dažnai būdavo sudeginama, šeimininkai,
     jei likdavo gyvi, ištremiami.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

@@ -41,20 +41,6 @@ Trejybės cerkvę, kur dabar yra Aušros vartai, ketvirtuosius - ties Išganytoj
 - t-001
   global_id: t-86191
   teiginys: "1505 m. sprendime vieni Vilniaus miesto vartai buvo numatyti ties Išganytojo (Spaso) bažnyčia."
-  semantiniai_rysiai: "Vilniaus miesto vartai priklausė Vilnius (0.75)"
-  temporaliniai_duomenys: "įvykio data: 1505 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis tekstas buvo fragmentas, todėl perrašyta į pilną sakinį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "471124-471761; hash=0e856132f4167f3dd61e89c33892708f6896e31e6f65a6b8f037411e8c5cb6e2; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Vilnius: 0.75"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vilniaus miesto vartai: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Objektas įvardytas kaip Vilniaus miesto vartai, tad ryšys su Vilniumi pagrįstas, nors nėra pagrindinis teiginio veiksmas."
   pagrindžia:
     - c-82170
 - susijęs iš Kaunas: Narbutas nurodo, kad tarp Kauno ir Vilkijos, prie Zapyškio, tekėjo upelis, kadaise vadintas Upinės, o vėliau Išganytojo upeliu.
@@ -88,8 +74,8 @@ Trejybės cerkvę, kur dabar yra Aušros vartai, ketvirtuosius - ties Išganytoj
     dabar yra Aušros vartai, ketvirtuosius - ties Išganytojo (Spa-
     so) bažnyčia ir penktuosius - nuo Pilies.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

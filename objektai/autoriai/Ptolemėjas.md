@@ -30,21 +30,6 @@ Ptolemėjas mini Aelvaconesz kaip lygų gentį, o tyrinėtojai juos siejo su Sil
 - t-001
   global_id: t-191514
   teiginys: "Ptolemėjas mini Aelvaconesz kaip lygų gentį, o tyrinėtojai juos siejo su Silezija, Vyslos apylinkėmis arba pajūriu kairiajame Vyslos krante."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "166538-167016; hash=c7fcfb7832dd2b47f21b230182c99ab29f59b929b2a448cfa3661c7f25722950; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lygai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ptolemėjas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Lygai: mention_match, group, gap=33"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ptolemėjas\" parinktas kaip owner_note_path. Targetas \"Lygai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174396
 
@@ -52,21 +37,6 @@ Ptolemėjas mini Aelvaconesz kaip lygų gentį, o tyrinėtojai juos siejo su Sil
 - t-002
   global_id: t-191515
   teiginys: "Narbutas aiškino, kad Ptolemėjas mini chiotus ir kartais vienos tautos vardus iš skirtingų šaltinių pateikdavo kaip dvi tautas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "183607-184052; hash=c3a22af7a8e0849054aee1f6e592e6456fb912b8cdbc762b93ac169982949884; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Viena: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ptolemėjas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Viena: mention_match, place, gap=35"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ptolemėjas\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174397
 
@@ -74,21 +44,6 @@ Ptolemėjas mini Aelvaconesz kaip lygų gentį, o tyrinėtojai juos siejo su Sil
 - t-004
   global_id: t-191517
   teiginys: "Ptolemėjas nuo Vyslos žiočių iki Panonijos suskaičiavo tokį pat nuotolį kaip Plinijus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "302619-303030; hash=cd975edb1b7801f10ed130ad0c65be85e2b239d71fa3bdebbef9e045bee2d5ec; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Panonija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ptolemėjas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Panonija: mention_match, place, gap=33"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ptolemėjas\" parinktas kaip owner_note_path. Targetas \"Panonija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174399
 
@@ -96,21 +51,6 @@ Ptolemėjas mini Aelvaconesz kaip lygų gentį, o tyrinėtojai juos siejo su Sil
 - t-005
   global_id: t-191518
   teiginys: "Narbutas sprendė, kad Ptolemėjo nurodytos Krono, arba Nemuno, žiotys geriausiai atitinka Kuršių marių žiotis į jūrą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "327526-328148; hash=983ce20ef0789d9f61b4c5991ca8432ff9e0b30be2d186ada94af72b39a44b04; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kuršiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ptolemėjas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Kuršiai: mention_match, group, gap=67"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ptolemėjas\" parinktas kaip owner_note_path. Targetas \"Kuršiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174400
 
@@ -118,21 +58,6 @@ Ptolemėjas mini Aelvaconesz kaip lygų gentį, o tyrinėtojai juos siejo su Sil
 - t-006
   global_id: t-191519
   teiginys: "Narbutas teigė, kad alanai tapo Ptolemėjo Stavanijos ir Galindijos kaimynais, kai stavanai ir galindai jau gyveno savo žemėse."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "343738-344458; hash=efcb74cdcbaa94ee20ed496c2164e7b36f30bc104bc6c6e26697fcd2654b890a; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Galindai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ptolemėjas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Galindai: mention_match, group, gap=24"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ptolemėjas\" parinktas kaip owner_note_path. Targetas \"Galindai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174401
 
@@ -140,21 +65,6 @@ Ptolemėjas mini Aelvaconesz kaip lygų gentį, o tyrinėtojai juos siejo su Sil
 - t-007
   global_id: t-191520
   teiginys: "Narbutas atmetė Erazmo Stelos požiūrį, kad Ptolemėjo boruskų ar borusų reikėtų ieškoti prie Ritėjų kalnų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "460873-461271; hash=b49d6a59a211e171700768597c06b5e8bfcf416c59b10181d39320f1dac29c41; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Prūsija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ptolemėjas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Prūsija: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ptolemėjas\" parinktas kaip owner_note_path. Targetas \"Prūsija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174402
 
@@ -162,21 +72,6 @@ Ptolemėjas mini Aelvaconesz kaip lygų gentį, o tyrinėtojai juos siejo su Sil
 - t-008
   global_id: t-191521
   teiginys: "Pasak Safaržyko, prūsų protėviai buvo Ptolemėjo aprašyti frugundionai, kurių Narbutas nedrįso priskirti lietuvių genčiai."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "466415-466868; hash=b661f857e8aa77c97789232c9393c91e30de7c7446cd476eabed9e2dcd36fa29; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Prūsai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ptolemėjas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Prūsai: mention_match, group, gap=21"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ptolemėjas\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174403
 
@@ -184,21 +79,6 @@ Ptolemėjas mini Aelvaconesz kaip lygų gentį, o tyrinėtojai juos siejo su Sil
 - t-009
   global_id: t-191522
   teiginys: "Narbutas rašė, kad Ptolemėjas turėjo žinių apie Sūduvą ir žinojo sudinų koloniją prie Vltavos, markomanų kaimynystėje."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "474934-475594; hash=d0737ebbae8c8d8b75580f9123d727ed034723c7fde4af7ecac9f04b47649976; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Sūduva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ptolemėjas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Sūduva: mention_match, place, gap=29"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ptolemėjas\" parinktas kaip owner_note_path. Targetas \"Sūduva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174404
 
@@ -206,21 +86,6 @@ Ptolemėjas mini Aelvaconesz kaip lygų gentį, o tyrinėtojai juos siejo su Sil
 - t-010
   global_id: t-191523
   teiginys: "Narbutas sprendė, kad Ptolemėjas Salavijos gyventojus žinojo slavinu vardu, o svetimšaliai tą žemę vadino Skalva arba Rusia."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "478668-479138; hash=05037c843f427716bc183fa812a4562b4cb1d9aa944e1d61aa72aa7c1f8e4cf6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Rusia: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ptolemėjas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Rusia: mention_match, place, gap=96"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ptolemėjas\" parinktas kaip owner_note_path. Targetas \"Rusia\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174405
 
@@ -228,21 +93,6 @@ Ptolemėjas mini Aelvaconesz kaip lygų gentį, o tyrinėtojai juos siejo su Sil
 - t-011
   global_id: t-191524
   teiginys: "Narbutas rašė, kad Ptolemėjas stavanus vadino Stabatiix ir jų paminėjimo vietoje atpažino lietuvius."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "485942-486131; hash=3a517c98cf6515039b1efc4fd32b6655f810c8949a561f1a9aeed35db4cdc906; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ptolemėjas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=71"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ptolemėjas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174406
 
@@ -250,14 +100,6 @@ Ptolemėjas mini Aelvaconesz kaip lygų gentį, o tyrinėtojai juos siejo su Sil
 - t-012
   global_id: t-191525
   teiginys: "Narbutas nurodo, kad senovės tyrinėtojai, remdamiesi Ptolemėjumi, latgalus vadino veltais, Veltae."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "520568-520773; hash=a85299d2412b77ecb260d4071332f738973ce09087ae0d3964adb770493a499c; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174407
 
@@ -265,14 +107,6 @@ Ptolemėjas mini Aelvaconesz kaip lygų gentį, o tyrinėtojai juos siejo su Sil
 - t-013
   global_id: t-194888
   teiginys: "Ptolemėjas II Kristaus eros amžiuje mini tavių tautą, gyvenusią galų kaimynystėje, prie Dnestro."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "202335-202576; hash=d467a644cb51cd9b7569415f1b51320616a810c7b79c864d133ece73fe4c4ecc; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-177284
 ## Reikšmingi paminėjimai
@@ -291,8 +125,8 @@ Ptolemėjas mini Aelvaconesz kaip lygų gentį, o tyrinėtojai juos siejo su Sil
     citas mini Helvecones4, kurie, kaip sako kai kurie tyrinė­
     tojai, gyvenę Pomeranijoje prie Helio5.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -312,8 +146,8 @@ Ptolemėjas mini Aelvaconesz kaip lygų gentį, o tyrinėtojai juos siejo su Sil
     nes ne visuomet buvo įmanoma patikrinti. Krikščioniško- * 5
     1 Lib.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -332,8 +166,8 @@ Ptolemėjas mini Aelvaconesz kaip lygų gentį, o tyrinėtojai juos siejo su Sil
     religijos pašventintais svetingumo papročiais ar tam tik­
     rais šiuo pagrindu sudarytais susitarimais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -356,8 +190,8 @@ Ptolemėjas mini Aelvaconesz kaip lygų gentį, o tyrinėtojai juos siejo su Sil
     Tai geriausiai atitinka šiandien Kuršių marių žiotis į jū­
     rą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -387,8 +221,8 @@ Ptolemėjas mini Aelvaconesz kaip lygų gentį, o tyrinėtojai juos siejo su Sil
 
     lėn.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -407,8 +241,8 @@ Ptolemėjas mini Aelvaconesz kaip lygų gentį, o tyrinėtojai juos siejo su Sil
     kuriems šovė į galvą padaryti tokias išvadas. Pirmiausia
     taip manė Erazmas Stela1**.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -428,8 +262,8 @@ Ptolemėjas mini Aelvaconesz kaip lygų gentį, o tyrinėtojai juos siejo su Sil
     tauta (o gal gentis), kurios mes nė nedrįstume priskirti prie lietuvių
     genties.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -453,8 +287,8 @@ Ptolemėjas mini Aelvaconesz kaip lygų gentį, o tyrinėtojai juos siejo su Sil
     kartą provincijoje prisiglausdavo nuo lenkų ir lietuvių
     ginklų bėgantys jotvingiai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -474,8 +308,8 @@ Ptolemėjas mini Aelvaconesz kaip lygų gentį, o tyrinėtojai juos siejo su Sil
     Sudargija, pietuose — su Nadruva, vakaruose — su Kur­
     šių mariomis, o šiaurėje — su Žemaitija.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -491,8 +325,8 @@ Ptolemėjas mini Aelvaconesz kaip lygų gentį, o tyrinėtojai juos siejo su Sil
     ka, jog nedaug reikia įžvalgumo, norint pažinti tikruo­
     sius lietuvius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -509,8 +343,8 @@ Ptolemėjas mini Aelvaconesz kaip lygų gentį, o tyrinėtojai juos siejo su Sil
     283
     Latgala, Letgola.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -527,8 +361,8 @@ Ptolemėjas mini Aelvaconesz kaip lygų gentį, o tyrinėtojai juos siejo su Sil
     ruoti tą visiškai senovės tyrinėtojams nesuprantamą už­
     rašą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -539,7 +373,8 @@ Ptolemėjas mini Aelvaconesz kaip lygų gentį, o tyrinėtojai juos siejo su Sil
 - id: c-174396
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 93"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 93."
   citata_originali: |
     Mes net nežinome, ar tai buvęs tik
     vardas lėtų, arba veikiau lietuvių, genties, ar visai at­
@@ -560,7 +395,8 @@ Ptolemėjas mini Aelvaconesz kaip lygų gentį, o tyrinėtojai juos siejo su Sil
 - id: c-174397
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 102"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 102."
   citata_originali: |
     Nestoras irgi nusirašė visa tai. Esmė ta,
     kad Ptolemėjas mini ir chiotus, bet tokioje pavadinimų,
@@ -581,7 +417,8 @@ Ptolemėjas mini Aelvaconesz kaip lygų gentį, o tyrinėtojai juos siejo su Sil
 - id: c-174399
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 167"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 167."
   citata_originali: |
     Kelio ilgis sutampa su
     Plinijaus skaičiavimais1 — 600 romėnų miliarijų, o tai
@@ -601,7 +438,8 @@ Ptolemėjas mini Aelvaconesz kaip lygų gentį, o tyrinėtojai juos siejo su Sil
 - id: c-174400
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 179"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 179."
   citata_originali: |
     Iš įvairių Karaliaučiaus Slaptajame archy­
     ve esančių transakcijų ponas Foigtas1 teigia, jog viena
@@ -656,7 +494,8 @@ Ptolemėjas mini Aelvaconesz kaip lygų gentį, o tyrinėtojai juos siejo su Sil
 - id: c-174402
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 259"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 259."
   citata_originali: |
     Juk tarp visų lietuvių nebuvo
     jokios atskiros genties, kuri būtų vadinama Prūsija ir
@@ -676,7 +515,8 @@ Ptolemėjas mini Aelvaconesz kaip lygų gentį, o tyrinėtojai juos siejo su Sil
 - id: c-174403
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 262"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 262."
   citata_originali: |
     Si provincija
     plytėjo prie Vyslos, arčiausiai ribojosi su slavų gentimis,
@@ -697,7 +537,8 @@ Ptolemėjas mini Aelvaconesz kaip lygų gentį, o tyrinėtojai juos siejo su Sil
 - id: c-174404
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 267"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 267."
   citata_originali: |
     Kryžiuočiams val­
     dant, ji tapo dykra, vos randama pėdsakų, kur ji buvusi;
@@ -722,7 +563,8 @@ Ptolemėjas mini Aelvaconesz kaip lygų gentį, o tyrinėtojai juos siejo su Sil
 - id: c-174405
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 269"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 269."
   citata_originali: |
     Ten, miškuose, yra akmeninių pas­
     tatų griuvėsių ir ant kalvų piliaviečių, primenančių žilą
@@ -743,7 +585,8 @@ Ptolemėjas mini Aelvaconesz kaip lygų gentį, o tyrinėtojai juos siejo su Sil
 - id: c-174406
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 273"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 273."
   citata_originali: |
     270
     Lietuvos provincijos. Stavanus Ptolemėjas vadina Sta-
@@ -760,7 +603,8 @@ Ptolemėjas mini Aelvaconesz kaip lygų gentį, o tyrinėtojai juos siejo su Sil
 - id: c-174407
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 290"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 290."
   citata_originali: |
     Senovės tyrinėtojai teigia, kad Vendenas Livoni­
     joje yra jų kolonija, kurią senovės lyviai vadino Kisia.
@@ -778,7 +622,8 @@ Ptolemėjas mini Aelvaconesz kaip lygų gentį, o tyrinėtojai juos siejo su Sil
 - id: c-177284
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 113"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 113."
   citata_originali: |
     Dies machten die Tagro-Jazygen.
     Ptolemėjas II Kristaus eros amžiuje mini tavių tautą,

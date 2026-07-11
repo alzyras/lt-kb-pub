@@ -30,19 +30,6 @@ Aleksandras pavedė čekui Jonui Černinui Čekijoje ir Vokietijoje nusamdyti di
 - t-001
   global_id: t-186219
   teiginys: "Aleksandras pavedė čekui Jonui Černinui Čekijoje ir Vokietijoje nusamdyti didelius algininkų būrius."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "993263-993569; hash=d9a6c54fbb36f5dc18aa4ed3a6ce95c4280f1fffaa9513a101879a377edafd00; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "paskyre -> Jonas Černinas: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Aleksandras: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Jonas Černinas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Pavedimas atlikti užduotį tiesiogiai rodo Aleksandro paskyrimą Jonui Černinui."
   pagrindžia:
     - c-169580
 ## Reikšmingi paminėjimai
@@ -59,8 +46,8 @@ Aleksandras pavedė čekui Jonui Černinui Čekijoje ir Vokietijoje nusamdyti di
     dytinė kariuomenė neatvyko laiku į stovyklą, nes už-
     gaišo pakelėje beplėšikaudama.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -71,7 +58,8 @@ Aleksandras pavedė čekui Jonui Černinui Čekijoje ir Vokietijoje nusamdyti di
 - id: c-169580
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 561"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 561."
   citata_originali: |
     Nau­
     jų karių ieškojo visoje Lietuvoje. Čekui Jonui Černi-

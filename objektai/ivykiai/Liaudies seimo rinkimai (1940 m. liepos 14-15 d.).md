@@ -56,21 +56,6 @@ Nenurodyta
 - t-004
   global_id: t-75121
   teiginys: "Prieš 1940 m. Liaudies seimo rinkimus valdžia liepos 11–12 d. suėmė kelis šimtus žinomų Lietuvos veikėjų."
-  temporaliniai_duomenys: "įvykio data: 1940 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Patikslintas įvykio laikas pagal pavadinimą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "387883-388223; hash=29642f1d7bd9d99bc4f0f03b717ba1044f09ad354abd237d5db64fec74adccc3; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Liaudies seimo rinkimai (1940 m. liepos 14-15 d.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=74"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Liaudies seimo rinkimai (1940 m. liepos 14-15 d.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-73037
 
@@ -78,18 +63,6 @@ Nenurodyta
 - t-001
   global_id: t-75122
   teiginys: "Lietuvos aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus, o toks pat scenarijus taikytas Latvijoje ir Estijoje."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "386732-387249; hash=81146327ba6d632f4a5e3fd96e917a2ebc552419f6eb7a0e6d191bccc7f00c7f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Estija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Liaudies seimo rinkimai (1940 m. liepos 14-15 d.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Estija: mention_match, place, gap=69"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Liaudies seimo rinkimai (1940 m. liepos 14-15 d.)\" parinktas kaip owner_note_path. Targetas \"Estija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-73036
 
@@ -97,16 +70,6 @@ Nenurodyta
 - t-002
   global_id: t-75123
   teiginys: "Per Liaudies seimo rinkimų agitaciją valdžia daug dėmesio skyrė Antano Smetonos režimo kritikai ir niekinimui."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "387401-387882; hash=d67cc961a96df5d449424fb57bb81f0715542f70bece5c3ab12fd5098d31040e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> A. Smetona: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Liaudies seimo rinkimai (1940 m. liepos 14-15 d.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "A. Smetona: mention_match, person, gap=23"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Liaudies seimo rinkimai (1940 m. liepos 14-15 d.)\" parinktas kaip owner_note_path. Targetas \"A. Smetona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-73035
 
@@ -114,19 +77,6 @@ Nenurodyta
 - t-003
   global_id: t-75124
   teiginys: "Oficialiais duomenimis, 1940 m. liepos 14–15 d. rinkimuose į Liaudies seimą dalyvavo 95 proc. rinkėjų."
-  temporaliniai_duomenys: "įvykio data: 1940 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie rinkimus."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "387743-388064; hash=602720ea63258e9784cd00cc11ab26aad015de77753fd1a962d693663febcb4c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> „asmenys, kurie nebalsuos, yra liaudies priešai“: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Liaudies seimo rinkimai (1940 m. liepos 14-15 d.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "„asmenys, kurie nebalsuos, yra liaudies priešai“: mention_match, thing, gap=13"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Liaudies seimo rinkimai (1940 m. liepos 14-15 d.)\" parinktas kaip owner_note_path. Targetas \"„asmenys, kurie nebalsuos, yra liaudies priešai“\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-73034
 
@@ -134,21 +84,6 @@ Nenurodyta
 - t-005
   global_id: t-183234
   teiginys: "Lietuvos aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus, o toks pat scenarijus taikytas Latvijoje ir Estijoje."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "386964-387399; hash=5de83cb3dad2aa9cb5777ea7d783c9e200a08e3061a1019ef92abe21a9d13658; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Estija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Liaudies seimo rinkimai (1940 m. liepos 14-15 d.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Estija: mention_match, place, gap=69"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Liaudies seimo rinkimai (1940 m. liepos 14-15 d.)\" parinktas kaip owner_note_path. Targetas \"Estija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-166622
 
@@ -156,22 +91,6 @@ Nenurodyta
 - t-006
   global_id: t-183235
   teiginys: "Prieš Liaudies seimo rinkimus, 1940 m. liepos 11–12 d., valdžia suėmė kelis šimtus žinomų šalies veikėjų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1940 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir paremtas citata."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "387502-387973; hash=3def48276bbe5cb901985dc7f69017064c1d9ed57d958a981e86bd34356f1caa; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> A. Smetona: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Liaudies seimo rinkimai (1940 m. liepos 14-15 d.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "A. Smetona: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Liaudies seimo rinkimai (1940 m. liepos 14-15 d.)\" parinktas kaip owner_note_path. Targetas \"A. Smetona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-166623
 ## Reikšmingi paminėjimai
@@ -187,8 +106,8 @@ Nenurodyta
     Oficialiais duomenimis, liepos 14–15 dienos rinkimuose į Liaudies
     seimą dalyvavo 95 proc.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -206,8 +125,8 @@ Nenurodyta
     kad „asmenys, kurie nebalsuos, yra liaudies priešai“ – jais vadinami tau-
     tininkai ir aukštus postus turėję valdininkai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -226,8 +145,8 @@ Nenurodyta
     vieną kandidatą, o kandidatus galėjo kelti tik komunistų partija, kom-
     jaunimas, MOPR’as ir komunistų vadovaujamos profesinės sąjungos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -246,8 +165,8 @@ Nenurodyta
     192
     iš jų 99,19 proc. balsavo už Lietuvos darbo liaudies sąjungos kandidatus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -264,8 +183,8 @@ Nenurodyta
     iki vieno iškelti 79 kandidatai (per skubėjimą neapsižiūrėta, kad vienas
     miręs) atstovavo mitologinei Lietuvos darbo liaudies sąjungai (LDLS).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -283,8 +202,8 @@ Nenurodyta
     tininkai ir aukštus postus turėję valdininkai. Prieš pat rinkimus, liepos
     11–12 dieną, valdžia suėmė kelis šimtus žinomų šalies veikėjų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

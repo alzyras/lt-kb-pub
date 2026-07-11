@@ -45,14 +45,6 @@ Nenurodyta
 - t-001
   global_id: t-194816
   teiginys: "Dėl to buvo išrasti atvaizdai, sim boliai, paminklai, trofėjai."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "147360-148083; hash=e55dbd3b7dad2b894f426f68aaafcc6c1ee21dd7770859fc0fef059cbfb1e36b; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-177212
 ## Reikšmingi paminėjimai
@@ -74,8 +66,8 @@ Nenurodyta
     žmonių pareigų jo atžvilgiu pažinimui, virto esybėmis, garbi­
     namomis su smilkytuvu rankose“1.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -86,7 +78,8 @@ Nenurodyta
 - id: c-177212
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 82"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 82."
   citata_originali: |
     Smarkiai pagausėjus visuomenių, atsirado vidaus saugu­
     mo reikiamybė: visuomenės institucijos ėmė tobulėti, taip pat

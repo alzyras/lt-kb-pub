@@ -42,20 +42,6 @@ Toliau įsivaizduokime: Lietuvai atstovauja ne tik Lietuvos ir NBA žvaigždė k
 - t-001
   global_id: t-78070
   teiginys: "Senda Berenson-Abbot, vadinama Amerikos krepšinio motina, gimė Vilniuje 1868 m."
-  semantiniai_rysiai: "Senda Berenson-Abbot gimė Vilnius (0.94)"
-  temporaliniai_duomenys: "įvykio data: 1868 m.; įvykio data: 1939 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys yra nutrūkęs; citata palaiko aiškų faktą apie asmenį."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "542488-543298; hash=5da45a810c867a433159a8e9ae2e73c4cc5ff2d3d7719828339949a2429a41c8; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gime -> Vilnius: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Senda Berenson-Abbot: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Santrumpa „g.“ ir vietininkas „Vilniuje“ tiesiogiai nurodo gimimo vietą."
   pagrindžia:
     - c-75375
 - susijęs iš [[objektai/asmenys/Algirdas Julius Greimas.md#claim-t-78043|Algirdas Julius Greimas]]: Algirdas Julius Greimas buvo semiotikas, žinomas Prancūzijoje.
@@ -88,8 +74,8 @@ Toliau įsivaizduokime: Lietuvai atstovauja ne tik Lietuvos ir NBA žvaigždė k
     boksininkas Jack Sharkey (Juozas Žukauskas), amerikietiškojo futbolo
     garsenybė Johnny Unitas (Jonas Jonaitis) ar tenisininkas Vitas Gerulaitis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

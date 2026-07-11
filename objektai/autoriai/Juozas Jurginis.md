@@ -46,17 +46,6 @@ Juozas Jurginis šiame leidime nurodomas kaip įvado ir paaiškinimų autorius. 
 - t-001
   global_id: t-186443
   teiginys: "Juozas Jurginis parašė šio „Lietuvos istorijos“ leidimo įvadą ir paaiškinimus."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1087-1497; hash=c87b2019d5994d06fca02702a0a4259978f54ae8ab9c6140015c8893e9a136ce; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/02_extract_authors_notes.md::validation_repair"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Juozas Jurginis: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=28"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Juozas Jurginis\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-167829
 
@@ -64,20 +53,6 @@ Juozas Jurginis šiame leidime nurodomas kaip įvado ir paaiškinimų autorius. 
 - t-002
   global_id: t-186444
   teiginys: "Juozas Jurginis buvo 1971 m. Bychovco kronikos leidinio redakcinės komisijos narys."
-  teiginio_tipas: "faktas"
-  temporaliniai_duomenys: "įvykio data: 1971 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas redakcinės komisijos sąrašu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "1028-1211; hash=916be7863480879aafb8d79895697322ef2a8fc91c61459e1ccd35526167d27e; match=whitespace_regex"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/02_extract_authors_notes.md::validation_repair"
-  ryšio_patikimumas: "susije_su -> K. Korsakas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Juozas Jurginis: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "K. Korsakas: mention_match, author, gap=38"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Juozas Jurginis\" parinktas kaip owner_note_path. Targetas \"K. Korsakas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-169795
 
@@ -85,20 +60,6 @@ Juozas Jurginis šiame leidime nurodomas kaip įvado ir paaiškinimų autorius. 
 - t-002
   global_id: t-186444
   teiginys: "Juozas Jurginis buvo 1971 m. Bychovco kronikos leidinio redakcinės komisijos narys."
-  teiginio_tipas: "faktas"
-  temporaliniai_duomenys: "įvykio data: 1971 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas redakcinės komisijos sąrašu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "1028-1211; hash=916be7863480879aafb8d79895697322ef2a8fc91c61459e1ccd35526167d27e; match=whitespace_regex"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/02_extract_authors_notes.md::validation_repair"
-  ryšio_patikimumas: "susije_su -> K. Korsakas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Juozas Jurginis: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "K. Korsakas: mention_match, author, gap=38"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Juozas Jurginis\" parinktas kaip owner_note_path. Targetas \"K. Korsakas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-169795
 - susijęs iš [[objektai/autoriai/A. Šidlauskas.md#claim-t-97147|A. Šidlauskas]]: A. Šidlauskas kartu su J. Jurginiu parengė 1983 m. Vilniuje išleistą rinkinį „Kraštas ir žmonės“.
@@ -139,8 +100,8 @@ Juozas Jurginis šiame leidime nurodomas kaip įvado ir paaiškinimų autorius. 
     1—89
     (6) Vertimas, įvadas, paaiškinimai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -155,8 +116,8 @@ Juozas Jurginis šiame leidime nurodomas kaip įvado ir paaiškinimų autorius. 
     *
     Vertė, įvadą ir paaiškinimus parašė RIM ANTAS JASA S
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -168,7 +129,8 @@ Juozas Jurginis šiame leidime nurodomas kaip įvado ir paaiškinimų autorius. 
 - id: c-167829
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 2"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 2."
   citata_originali: |
     BBK-63.3(2L)
     Vi-109

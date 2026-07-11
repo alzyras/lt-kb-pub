@@ -40,17 +40,6 @@ Tizenhauzas buvo užsimojęs padaryti Gardiną didžiuliu pramonės centru ir bu
 - t-001
   global_id: t-67978
   teiginys: "Gorodnica buvo ypač garsus Tizenhauzo Gardine pastatytas pramonės priemiestis."
-  semantiniai_rysiai: "Gorodnica priklausė Gardinas (0.83)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "869971-870408; hash=0c1c47bf197e994227f343f4372445dca959ff43fd7355f010b247c8fcfd8efa; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Gardinas: 0.83"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gorodnica: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Gardinas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Gorodnica apibūdinta kaip Gardine pastatytas priemiestis."
   pagrindžia:
     - c-46499
 
@@ -58,17 +47,6 @@ Tizenhauzas buvo užsimojęs padaryti Gardiną didžiuliu pramonės centru ir bu
 - t-002
   global_id: t-67979
   teiginys: "Gorodnica buvo ypač garsus vienas iš dviejų Tizenhauzo Gardine pastatytų pramonės priemiesčių."
-  semantiniai_rysiai: "Gorodnica priklausė Gardinas (0.83)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "869971-870408; hash=0c1c47bf197e994227f343f4372445dca959ff43fd7355f010b247c8fcfd8efa; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Gardinas: 0.83"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gorodnica: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Gardinas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Gorodnica įvardyta kaip vienas Gardine pastatytų priemiesčių."
   pagrindžia:
     - c-46499
 ## Reikšmingi paminėjimai
@@ -93,8 +71,8 @@ Tizenhauzas buvo užsimojęs padaryti Gardiną didžiuliu pramonės centru ir bu
     Dirbtuvėms specialistų buvo pakviesta iš užsienio, o ateičiai
     jie buvo ruošiami iš valstiečių tarpo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -132,6 +110,3 @@ Tizenhauzas buvo užsimojęs padaryti Gardiną didžiuliu pramonės centru ir bu
   pagrindzia:
     - t-67978
     - t-67979
-
-## Ryšiai
-- Gorodnica priklausė [[objektai/vietos/Gardinas]]

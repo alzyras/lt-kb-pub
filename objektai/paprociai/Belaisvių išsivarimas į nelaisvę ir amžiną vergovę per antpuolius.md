@@ -53,17 +53,6 @@ Nenurodyta
 - t-001
   global_id: t-62669
   teiginys: "Per prūsų antpuolį prie Fogelzango vyrai buvo išžudyti, o moterys ir vaikai išvaryti į amžiną nelaisvę."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "451854-452415; hash=cefad3f458c3b59c31e24e0eb0fe1e6aef2a970311c2fd8e06af0145357099fb; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Prūsai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; prusai_group_context; same_sentence_locality; single_candidate_actor; single_candidate_target; target_after_predicate"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Belaisvių išsivarimas į nelaisvę ir amžiną vergovę per antpuolius: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Prūsai: mention_match, place, gap=4"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Belaisvių išsivarimas į nelaisvę ir amžiną vergovę per antpuolius\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-63400
     - c-63403
@@ -82,8 +71,8 @@ Nenurodyta
     manydami, kad svetima kariuomenė bus pasitraukusi. Šitai pastebėję, prūsai smarkiai
     ir baisiai juos užpuolė, išžudė vyrus, o moteris bei vaikus išsivarė į amžiną nelaisvę.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -99,8 +88,8 @@ Nenurodyta
     atkakliai gynėsi. Šitaip siaubę šią žemę keturias dienas, pagaliau pasitraukė su tiesiog
     neįkainojamu grobiu: žmonėmis, arkliais, gyvuliais  ir kitais daiktais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -111,7 +100,8 @@ Nenurodyta
 - id: c-63400
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 141"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 141."
   citata_originali: |
     Apie daugybės Kulmenzės miestiečių žūtį
 
@@ -132,7 +122,8 @@ Nenurodyta
 - id: c-63403
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 144"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 144."
   citata_originali: |
     Po to priėjo Torunę ir sudegino
     ligoninę bei visa kita, kas tik galėjo būti ugnies sunaikinama už sienų. Galop, atžygiavę

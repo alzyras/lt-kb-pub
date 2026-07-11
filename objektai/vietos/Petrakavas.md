@@ -32,19 +32,6 @@ Lenkai Petrakave sušaukė seimą dėl Jogailos pakvietimo.
 - t-001
   global_id: t-187286
   teiginys: "Pasak Lietuvos metraščio, lenkai Petrakave sušaukė seimą ir nusprendė kviesti Jogailą savo karalystės valdovu."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "152749-153305; hash=60bedf6ee939c106bf6eb8628f70e914e5973b8af581a0d62f81e9b964c6d364; match=word_normalized"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Petrakavas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=7"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Petrakavas\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-170331
 - susijęs iš [[objektai/ivykiai/Aleksandro išrinkimas ir karūnavimas Lenkijos karaliumi.md#claim-t-186791|Aleksandro išrinkimas ir karūnavimas Lenkijos karaliumi]]: Aleksandras 1501 m. spalio 3 d. Petrakave buvo preliminariai išrinktas Lenkijos karaliumi po Jono Olbrachto mirties.
@@ -70,8 +57,8 @@ Lenkai Petrakave sušaukė seimą dėl Jogailos pakvietimo.
     Jogailą savo karalystės valdovu, su sąlyga, kad jis su­
     9!
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -82,7 +69,8 @@ Lenkai Petrakave sušaukė seimą dėl Jogailos pakvietimo.
 - id: c-170331
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 86"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 86."
   citata_originali: |
     Len­
     kai buvo pasirinkę Pamario kunigaikštį, vardu Fridri­

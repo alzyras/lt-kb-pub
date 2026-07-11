@@ -35,14 +35,6 @@ Mengli Girėjaus kariai, vedami jo sūnaus, nusiaubė Lietuvą ir pridarė daug 
 - t-003
   global_id: t-195002
   teiginys: "Mengli Girėjus už atlyginimą prisidėjo prie karo žygio, bet nepradėjo kovoti prieš maskvėnus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Ilgas fragmentas sutrumpintas iki palaikomo fakto apie Mengli Girėjaus veikimą."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_place: Maskva"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1125844-1126417; hash=045d37284e33d922875560ccc636f2232a125b372c37d33235a42fb0b32c6720; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177387
 
@@ -50,12 +42,6 @@ Mengli Girėjaus kariai, vedami jo sūnaus, nusiaubė Lietuvą ir pridarė daug 
 - t-006
   global_id: t-195003
   teiginys: "Jam vadovavo jaunesnieji Mengli-Girėjaus sūnūs Fatihas ir Burnašas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "305303-305501; hash=8c928bcb3a083c734996c6acb74fa99eba32e469896a2fa563a2a29704b52474; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177388
 
@@ -63,14 +49,6 @@ Mengli Girėjaus kariai, vedami jo sūnaus, nusiaubė Lietuvą ir pridarė daug 
 - t-002
   global_id: t-195004
   teiginys: "Mūšio lauke krito trys Mengli Girėjaus sūnūs ir žentas, todėl garsas apie pergalę plačiai pasklido."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Teiginys aiškiai sieja Mengli Girėjaus artimųjų žūtį su pergalės garso pasklidimu."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1101113-1101526; hash=872c97c0d3ee7c767f5e2461f795245e770975c8e8fce53b78a3168ca3b12b2c; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177386
 
@@ -78,14 +56,6 @@ Mengli Girėjaus kariai, vedami jo sūnaus, nusiaubė Lietuvą ir pridarė daug 
 - t-001
   global_id: t-195005
   teiginys: "Mengli Girėjaus kariai, vedami jo sūnaus, nusiaubė Lietuvą ir pridarė daug žalos."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Pašalintas boilerplate ir pataisyta gramatika."
-  susije_objektai: "mentioned_person: [[objektai/asmenys/Biti Girėjus|Biti Girėjus]]; mentioned_person: [[objektai/asmenys/Burnaš Girėjus|Burnaš Girėjus]]; mentioned_place: Lietuva; mentioned_place: Sluckas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1033069-1033323; hash=dea588a1097097e76105625cbdb3895a9c5f0ce774f21ac791c9d2b765151824; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177385
 
@@ -93,12 +63,6 @@ Mengli Girėjaus kariai, vedami jo sūnaus, nusiaubė Lietuvą ir pridarė daug 
 - t-007
   global_id: t-195006
   teiginys: "1 6 Mechmet (Machmud)-Girėjus — Krymo chano M engli-Girėjaus trečiasis sūnus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "654753-654906; hash=d26b9d95bfd39f81a0496f1b38ecaf89b240541496904128f353753ec1912d85; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177384
 - susijęs iš [[objektai/ivykiai/Šich Achmeto mėginimas pabėgti iš Trakų ir jo sugrąžinimas.md#claim-t-185838|Šich Achmeto mėginimas pabėgti iš Trakų ir jo sugrąžinimas]]: Šich Achmetas bandė pabėgti iš Trakų, tačiau lietuviai jį sugavo ir vėl atvežė į Trakus.
@@ -117,8 +81,8 @@ Mengli Girėjaus kariai, vedami jo sūnaus, nusiaubė Lietuvą ir pridarė daug 
     jaunesnieji sūnūs Biti Girėjus ir Burnaš Girėjus rugp­
     jūčio viduryje užpuolė Slucką.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -137,8 +101,8 @@ Mengli Girėjaus kariai, vedami jo sūnaus, nusiaubė Lietuvą ir pridarė daug 
     beplėšikaudami, ilgainiui įvairiose vietose išgaudė ir
     išžudė lenkų kariai.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -160,8 +124,8 @@ Mengli Girėjaus kariai, vedami jo sūnaus, nusiaubė Lietuvą ir pridarė daug 
     veiklumą, nors, tiesą sakant, jis ketino užpulti tuos,
     kurie pirmieji suklups mūšyje.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -178,8 +142,8 @@ Mengli Girėjaus kariai, vedami jo sūnaus, nusiaubė Lietuvą ir pridarė daug 
     pajėgas sudarė maždaug 4000 totorių, tu-
     rėję apie 10000 žirgų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -193,8 +157,8 @@ Mengli Girėjaus kariai, vedami jo sūnaus, nusiaubė Lietuvą ir pridarė daug 
     S! Burnašas — penktasis, jaunesnysis Krymo chano Mengli-Girė­
     jaus sūnus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -222,7 +186,8 @@ Mengli Girėjaus kariai, vedami jo sūnaus, nusiaubė Lietuvą ir pridarė daug 
 - id: c-177385
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 582"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 582."
   citata_originali: |
     Išklausė
     dangus varguolio maldų. Mengli Girėjaus kariai, veda­
@@ -241,7 +206,8 @@ Mengli Girėjaus kariai, vedami jo sūnaus, nusiaubė Lietuvą ir pridarė daug 
 - id: c-177386
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 619"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 619."
   citata_originali: |
     Lie­
     tuviai ir lenkai atsiėmė šešiolika tūkstančių belaisvių,
@@ -263,7 +229,8 @@ Mengli Girėjaus kariai, vedami jo sūnaus, nusiaubė Lietuvą ir pridarė daug 
 - id: c-177387
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 632"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 632."
   citata_originali: |
     Pra­
     sidėjus žiemai, užėjo blogi orai, ir nebeliko nieko kito,

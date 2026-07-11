@@ -30,19 +30,6 @@ Rusų sąmokslininkai nužudė sargybos viršininką Konradą Frankenbergą ir p
 - t-001
   global_id: t-186228
   teiginys: "Rusų sąmokslininkai nužudė sargybos viršininką Konradą Frankenbergą ir paleido Švitrigailą iš Kremeneco kalėjimo."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "692004-692537; hash=7edf1a0f672a5fc9be2414c28486525f2ce1c0a40df47079c7a5dcc90e5f1c55; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kremenecas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Konradas Frankenbergas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kremenecas: mention_match, place, gap=47"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Konradas Frankenbergas\" parinktas kaip owner_note_path. Targetas \"Kremenecas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-169589
 ## Reikšmingi paminėjimai
@@ -67,8 +54,8 @@ Rusų sąmokslininkai nužudė sargybos viršininką Konradą Frankenbergą ir p
     mantą, vėliau, tarpininkaujant imperatoriui bei karaliui
     Jogailai, vargais negalais susitaikė su Vytautu.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -79,7 +66,8 @@ Rusų sąmokslininkai nužudė sargybos viršininką Konradą Frankenbergą ir p
 - id: c-169589
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 395"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 395."
   citata_originali: |
     Vytau­
     tas, gal dėl senų nuoskaudų

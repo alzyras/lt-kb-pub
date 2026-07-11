@@ -38,19 +38,6 @@ Užpelkių miške buvo numatytas Prisikėlimo apygardos štabo posėdis, susitik
 - t-001
   global_id: t-42237
   teiginys: "Užpelkių miške buvo numatytas Prisikėlimo apygardos štabo posėdis ir susitikimas su vietos kovotojais."
-  temporaliniai_duomenys: "įvykio data: 1949 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys pagrįstas, tik sujungtas į vieną sklandų sakinį pagal citatos turinį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "988542-989009; hash=92a8c72aa6bde6d4fc6c1e0d997bb8f7141987206195f595391131691c48c13b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Užpelkiai: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Užpelkiai\" parinktas kaip owner_note_path. Targetas \"Kęstutis (vakarų pasienio valdovas, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-45388
 - susijęs iš [[objektai/asmenys/Petras Bartkus-Žadgaila.md#claim-t-39626|Petras Bartkus-Žadgaila]]: 1949 m. rugpjūčio 13 d. Užpelkių miške žuvo LLKS tarybos prezidiumo narys ir Prisikėlimo apygardos vadas Petras Bartkus-Žadgaila.
@@ -95,8 +82,8 @@ Užpelkių miške buvo numatytas Prisikėlimo apygardos štabo posėdis, susitik
     rašomąją mašinėlę išsiruošė į
     žygį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -132,4 +119,4 @@ Užpelkių miške buvo numatytas Prisikėlimo apygardos štabo posėdis, susitik
     - t-42237
 
 ## Ryšiai
-- Mirties vieta: [[objektai/asmenys/Bronius Liesis-Naktis]], [[objektai/asmenys/Petras Bartkus-Žadgaila]], [[objektai/asmenys/Vytautas Šniuolis-Svajūnas]]
+- Mirties vieta: [[objektai/asmenys/Petras Bartkus-Žadgaila]]

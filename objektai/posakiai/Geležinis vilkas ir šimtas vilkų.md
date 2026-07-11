@@ -41,17 +41,6 @@ Gedimi­ nas, nuvargęs visą dieną bemedžiodamas, kai užmigo, sapne regėjo 
 - t-001
   global_id: t-86854
   teiginys: "Gediminas sapne regėjo nepaprasto didumo geležinį vilką, kurio kauksmas atrodė toks galingas, tarsi staugtų šimtas vilkų."
-  semantiniai_rysiai: "Gediminas pastatė Aukštutinė pilis (0.82); Gediminas pastatė Vilniaus Aukštutinė pilis (0.78)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "128628-130508; hash=fffb04bb865dbf9529ca28c5b7cc2ef69563ff3fe35453b42be2c2e22dfc3cae; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "pastate -> Aukštutinė pilis: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Aukštutinė pilis: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Sapno aiškinimas tiesiogiai nurodo, kad Gediminas turėjo pastatydinti Aukštutinę mūro pilį."
   pagrindžia:
     - c-82833
 ## Reikšmingi paminėjimai
@@ -98,8 +87,8 @@ Gedimi­ nas, nuvargęs visą dieną bemedžiodamas, kai užmigo, sapne regėjo 
     h i
     XI Knyga, sk.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

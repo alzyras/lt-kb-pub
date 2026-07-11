@@ -33,16 +33,6 @@ Lietuvos pajėgos Vilniaus puolime balandžio 23 d. dalyvavo LDK 4-ojo pėstinin
 - t-001
   global_id: t-40976
   teiginys: "Vilniaus puolime balandžio 23 d. dalyvavo dvi sumažintos LDK 4-ojo pėstininkų regimento kuopos."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "608612-609064; hash=fd10ce61330b232c4644c56fcad1b3e593515f80d7e871f741a1ba0f469844be; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> 7-ojo fuzilierių regimento: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "LDK 4-ojo pėstininkų regimento: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "7-ojo fuzilierių regimento: mention_match, group, gap=21"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"LDK 4-ojo pėstininkų regimento\" parinktas kaip owner_note_path. Targetas \"7-ojo fuzilierių regimento\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-44781
 - susijęs iš [[objektai/grupes/7-ojo fuzilierių regimento.md#claim-t-40828|7-ojo fuzilierių regimento]]: Balandžio 23 d. Vilniaus puolime dalyvavo dvi sumažintos 7-ojo fuzilierių regimento kuopos.
@@ -67,8 +57,8 @@ Lietuvos pajėgos Vilniaus puolime balandžio 23 d. dalyvavo LDK 4-ojo pėstinin
     zicijose). Jiems talkino apie 500 įvairiai
     ginkluotų civilių Vilniaus gyventojų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

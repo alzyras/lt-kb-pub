@@ -33,16 +33,6 @@ media_all_json: |-
 - t-001
   global_id: t-40242
   teiginys: "Šklovo mūšyje dalyvavo kunigaikščio Jurijaus Boratinskio vadovaujamos pajėgos."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "510562-510827; hash=ca87fc3e2794009a0133937d5299c10d79442d5d295778bb7d2baa176a37619e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Radvilos: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jurijus Boratinskis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Radvilos: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jurijus Boratinskis\" parinktas kaip owner_note_path. Targetas \"Radvilos\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-44395
 ## Reikšmingi paminėjimai
@@ -62,8 +52,8 @@ media_all_json: |-
     Gardiną, Vilnių, kur sumušė J. Radvilos
     ir V. Gosievskio pajėgas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

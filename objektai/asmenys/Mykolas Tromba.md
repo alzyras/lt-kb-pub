@@ -35,16 +35,6 @@ Tuo reikalu pas popiežių buvo siunčiamas kanauninkas Mykolas Trombas (Trąb),
 - t-001
   global_id: t-35257
   teiginys: "Kanauninkas Mykolas Trombas buvo siunčiamas pas popiežių, bet Vokietijoje jį sulaikė Habsburgai."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "261149-261600; hash=a60880cbafd2f19f815bdc010c611579f54e6ff03bd4451690cb60357c72b058; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Habsburgai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mykolas Tromba: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Habsburgai: mention_match, group, gap=73"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mykolas Tromba\" parinktas kaip owner_note_path. Targetas \"Habsburgai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-38108
 ## Reikšmingi paminėjimai
@@ -61,8 +51,8 @@ Tuo reikalu pas popiežių buvo siunčiamas kanauninkas Mykolas Trombas (Trąb),
     pininkavusiu tarp popiežiaus Inocento VI ir didžiojo Lietuvos
     kunigaikščio Algirdo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

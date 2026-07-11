@@ -33,17 +33,6 @@ Dusburgietis teigia, kad štai dėl to ir Herkus Mantas, jų vadas, pasitraukė 
 - t-001
   global_id: t-60317
   teiginys: "Henrikas iš Šenenbergo, Kristburgo komtūras, su Helvigu iš Goldbacho užtiko Herkų Mantą ir jį nužudė."
-  semantiniai_rysiai: "Henrikas iš Šenenbergo puolė Herkus Mantas (0.86); Henrikas iš Šenenbergo buvo sąjungininkas su Helvigas iš Goldbacho (0.76)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "427480-428012; hash=4ace6ce01c4ceb6d91d8d5cb3a2fc4c0ad4e4837252bab4daaa405ccc400d55e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Herkus Mantas: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Henrikas iš Šenenbergo: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Herkus Mantas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Henrikas iš Šenenbergo su kitais užtiko Herkų Mantą ir dalyvavo jo nužudyme."
   pagrindžia:
     - c-60949
 - susijęs iš [[objektai/asmenys/Herkus Mantas.md#claim-t-175189|Herkus Mantas]]: Herkų Mantą dykrose užtiko Henrikas iš Šenenbergo ir Helvigas iš Goldbacho; jie jį pakorė prie medžio ir pervėrė kalaviju.
@@ -68,8 +57,8 @@ Dusburgietis teigia, kad štai dėl to ir Herkus Mantas, jų vadas, pasitraukė 
 
          136 (131).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -80,7 +69,8 @@ Dusburgietis teigia, kad štai dėl to ir Herkus Mantas, jų vadas, pasitraukė 
 - id: c-60949
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 133"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 133."
   citata_originali: |
     Jiems rodėsi, jog niekur jie nerasią tokios slėptuvės, kur nereikėtų būgštauti
     dėl gresiančių pavojų. Štai dėl to ir Herkus Mantas, jų vadas, pasitraukė su kuriais ne
@@ -100,7 +90,3 @@ Dusburgietis teigia, kad štai dėl to ir Herkus Mantas, jų vadas, pasitraukė 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60317
-
-## Ryšiai
-- Sąjungininkai: [[objektai/asmenys/Helvigas iš Goldbacho]]
-- Henrikas iš Šenenbergo puolė [[objektai/asmenys/Herkus Mantas]]

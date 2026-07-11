@@ -54,17 +54,6 @@ Nenurodyta
 - t-009
   global_id: t-76260
   teiginys: "Pagal citatoje aprašytą Europos žemėlapio linijų sankirtą geografinis Europos centras yra Lietuvoje."
-  semantiniai_rysiai: "Europos geografinis centras priklausė Lietuva (0.88)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "12810-13362; hash=52f5d302fd396383c1cdcf64485be670c0af8f0bbf2bfaf22943c278ce99f0fd; match=whitespace_regex"
-  sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
-  ryšio_patikimumas: "priklause -> Lietuva: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Europos geografinis centras: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad geografinis Europos centras yra Lietuvoje."
   pagrindžia:
     - c-16568
 
@@ -72,18 +61,6 @@ Nenurodyta
 - t-008
   global_id: t-76261
   teiginys: "Europos geografinio centro koordinatės nurodytos kaip 54°55’ šiaurės platumos ir 25°19’ rytų ilgumos."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "13072-13586; hash=9d7afcb81a44dac92f5457145f098a48235f59aabcb3cd3bfc0a2b33eee2daa0; match=whitespace_regex"
-  sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
-  ryšio_patikimumas: "susije_su -> Europa: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Europos geografinis centras: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Europos geografinis centras\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-73884
 
@@ -91,16 +68,6 @@ Nenurodyta
 - t-007
   global_id: t-76262
   teiginys: "Prancūzijos nacionalinis geografijos institutas apskaičiavo, kad Europos centro statmuo yra 25 km į šiaurę nuo Vilniaus."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "12528-13287; hash=6183e1d287e8c06d2d1ab0014307f9b0d94f8e600de0754881b51418243efa53; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
-  ryšio_patikimumas: "susije_su -> Europa: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Europos geografinis centras: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Europos geografinis centras\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-24123
 
@@ -108,17 +75,6 @@ Nenurodyta
 - t-006
   global_id: t-76263
   teiginys: "Geografinis Europos centras nurodomas Lietuvoje."
-  semantiniai_rysiai: "Europos geografinis centras priklausė Lietuva (0.83)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "12528-13287; hash=6183e1d287e8c06d2d1ab0014307f9b0d94f8e600de0754881b51418243efa53; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
-  ryšio_patikimumas: "priklause -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Europos geografinis centras: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Europos geografinio centro buvimą Lietuvoje."
   pagrindžia:
     - c-24123
 - susijęs iš Rytų Europa: Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos, nes per ją eina tiesiausias kelias iš Vokietijos į Rusiją.
@@ -151,8 +107,8 @@ Nenurodyta
     25 km į šiaurę nuo Lietuvos sostinės Vilniaus. Europos centro koordina-
     tės 54o55’ šiaurės platumos, 25o19’ rytų ilgumos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -177,8 +133,8 @@ Nenurodyta
     gal kuriuos iš 180 km aukščio geografiškai išvestas centro statmuo yra
     25 km į šiaurę nuo Lietuvos sostinės Vilniaus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -198,8 +154,8 @@ Nenurodyta
     ja, Danija, Škotija; toje pačioje geografinėje ilgumoje kaip į šiaurę – Suo-
     mija, į pietus – Rumunija, Bulgarija, Graikija.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -275,6 +231,3 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-76261
-
-## Ryšiai
-- Europos geografinis centras priklausė [[objektai/vietos/Lietuva]]

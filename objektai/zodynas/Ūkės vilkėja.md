@@ -39,9 +39,6 @@ Vartojamos formos: `ūkės vilkėjomis`.
 - t-004
   global_id: t-07652
   teiginys: "Ūkės vilkėja siejama su didžios gaspadinės vardu ir tokiais darbais kaip sėjimas, arimas, šieno pjovimas bei javų valymas."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "101837-101932; hash=5bfa4603222adf7d0d0f3629e1e48419a1a6903759f7262d84f3d4e7e95d7a7e; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
   pagrindžia:
     - c-09585
 
@@ -49,9 +46,6 @@ Vartojamos formos: `ūkės vilkėjomis`.
 - t-003
   global_id: t-07653
   teiginys: "Ūkės vilkėjomis vadintos merginos ar moterys, siejamos su gaspadinės vardu, lauko darbais ir rūtos auginimu."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "101933-102043; hash=1f71f1c956e844be6c9d4f2fc05fce24a017cff74c0ce828d674c7de9cbd9466; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
   pagrindžia:
     - c-09584
     - c-09585
@@ -62,8 +56,8 @@ Vartojamos formos: `ūkės vilkėjomis`.
   citata_originali: |
     Mažosios savo rūtas augino, ravėdamos ir visaip jas gerbdamos, idant ir jos būt jau vadinamos ūkės vilkėjomis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -74,8 +68,8 @@ Vartojamos formos: `ūkės vilkėjomis`.
   citata_originali: |
     bus didi gaspadinė^402 ir ūkės vilkėja. Kitos sėjo, arė, šieną pjovė ir javus nuo lauko valijo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

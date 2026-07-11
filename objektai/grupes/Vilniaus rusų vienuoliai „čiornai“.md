@@ -35,17 +35,6 @@ media_all_json: |-
 - t-001
   global_id: t-86776
   teiginys: "Vilniaus rusų vienuoliai, žmonių vadinti „čiornais“, nuo Gedimino laikų turėjo savo vienuolyną."
-  semantiniai_rysiai: "Vilniaus rusų vienuoliai „čiornai“ gyveno Vilnius (0.74)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "302728-303396; hash=63a4c047b67e5dc34a3037a2b105e39bf548a639357b8c49e8786c9f65b6ef5a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Vilnius: 0.74"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vilniaus rusų vienuoliai „čiornai“: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Formuluotė tiesiogiai sieja rusų vienuolius su Vilniumi."
   pagrindžia:
     - c-82755
 ## Reikšmingi paminėjimai
@@ -73,8 +62,8 @@ media_all_json: |-
     kurie nuo Gedimino laikų, kaip matėme, turėjo savo vie­
     nuolyną.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -112,6 +101,3 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86776
-
-## Ryšiai
-- Vilniaus rusų vienuoliai „čiornai“ gyveno [[objektai/vietos/Vilnius]]

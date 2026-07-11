@@ -46,20 +46,6 @@ Nenurodyta
 - t-001
   global_id: t-186567
   teiginys: "Lietuvos metraščio pasakojimu, Vaišvilkas su pinskiečiais ir naugardukiečiais parvyko į Lietuvą kunigaikščiauti, o Lietuva jį sutiko kaip valdovo sūnų."
-  teiginio_tipas: "saltinio_teiginys"
-  semantiniai_rysiai: "Naugardukiečiai keliavo į Lietuva (0.92)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "95921-96176; hash=6a6babd359d5c356cf9da49788c3e8f623b0c803feabc6e265bd6124fda36ce9; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
-  ryšio_patikimumas: "keliavo_i -> Lietuva: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Naugardukiečiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Vaišvilkas su naugardukiečiais parvyko į Lietuvą."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-169880
 ## Reikšmingi paminėjimai
@@ -75,8 +61,8 @@ Nenurodyta
     parvyko į Lietuvą kunigaikščiauti. Visa Lietuva sutiko
     savo valdovo sūnų didžiai džiaugdamasi.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -87,7 +73,8 @@ Nenurodyta
 - id: c-169880
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 53"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 53."
   citata_originali: |
     11. APIE VAIŠVILKO NUŽUDYMĄ IR PALEMONO GIMINES
     GALĄ

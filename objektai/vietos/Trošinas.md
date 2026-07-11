@@ -36,24 +36,6 @@ Trošine 1260 m. birželio 15 d. buvo pasirašyta sutartis dėl bendros Jotvingi
 - t-001
   global_id: t-192907
   teiginys: "Trošine 1260 m. birželio 15 d. buvo pasirašyta sutartis dėl bendros Jotvingijos gynybos."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "sutarties data: 1260 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Neaiškus įvardis „ši sutartis“ išskleistas pagal citatos kontekstą kaip sutartis dėl Jotvingijos gynybos. Nepridėta šalių detalių daugiau, nei tiesiogiai remia citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "237922-238271; hash=ecb20e928b00e68b6d8fb4a1dcda1ea76b21934fdd44265efef67ddfa7f86d7e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jotvingija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Trošinas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Jotvingija: mention_match, place, gap=68"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trošinas\" parinktas kaip owner_note_path. Targetas \"Jotvingija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175677
 - susijęs iš [[objektai/grupes/Mazovijos kunigaikščiai.md#claim-t-192434|Mazovijos kunigaikščiai]]: Mazovijos Ziemovitas 1260 m. birželio 15 d. Trošine sudarė taikos sutartį, kuria kryžiuočiai atidavė jam šeštadalį jotvingių krašto.
@@ -75,8 +57,8 @@ Trošine 1260 m. birželio 15 d. buvo pasirašyta sutartis dėl bendros Jotvingi
     133
     Nuosmukis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -87,7 +69,8 @@ Trošine 1260 m. birželio 15 d. buvo pasirašyta sutartis dėl bendros Jotvingi
 - id: c-175677
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 132"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 132."
   citata_originali: |
     Tuo atveju, jei iš sve­
     timos šalies būtų surengtas koks ¡priešiškas žygis į Jot-

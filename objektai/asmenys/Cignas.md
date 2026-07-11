@@ -30,22 +30,6 @@ Graikų mito pasakojime Cignas, lygų karalius ir Fajetono bičiulis, iš sielva
 - t-001
   global_id: t-191382
   teiginys: "Graikų mito pasakojime Cignas, lygų karalius ir Fajetono bičiulis, iš sielvarto virto gulbinu prie Eridano ežero."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Cignas buvo valdovas Lygai (0.87)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "273093-273509; hash=60e04461ea669a0a411ff43c9e8c4c501cda2b1c9a0574a5cb47e5a8417c5c8e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_valdovas -> Lygai: 0.87"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Cignas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lygai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Cignas tiesiogiai vadinamas lygų karaliumi."
-  vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174264
 - susijęs iš [[objektai/ivykiai/Fajetono kritimas į Eridaną ir Heliadų virtimas.md#claim-t-191059|Fajetono kritimas į Eridaną ir Heliadų virtimas]]: Narbuto perteikiamame mite Fajetono bičiulis Cignas iš sielvarto virto gulbinu Eridano ežere.
@@ -71,8 +55,8 @@ Graikų mito pasakojime Cignas, lygų karalius ir Fajetono bičiulis, iš sielva
     kurį anksčiau (§ 145) pateikėme; šios žinios pateko iš
     padavimų į graikų poetų kūrinius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -104,6 +88,3 @@ Graikų mito pasakojime Cignas, lygų karalius ir Fajetono bičiulis, iš sielva
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191382
-
-## Ryšiai
-- Cignas buvo valdovas [[objektai/grupes/Lygai]]

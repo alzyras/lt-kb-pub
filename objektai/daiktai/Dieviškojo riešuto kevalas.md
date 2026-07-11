@@ -45,14 +45,6 @@ Nenurodyta
 - t-001
   global_id: t-194799
   teiginys: "Ši sakmė yra dviejų dalykų suplakimas, primenantis No jaus tvaną ir Deukalioną, mat riešuto kevalas yra laivo simbo lis, dviejų žmonių šokinėjimas per žemės kaulus primena Deu kalioną ir Pirą, iš kurių kildinosi graikai."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "158318-158695; hash=6d21c1550a63d0cbac842b33b3e785800109e673c86ed65241f9bd3594485c81; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-177195
 ## Reikšmingi paminėjimai
@@ -73,8 +65,8 @@ Nenurodyta
     kalioną ir Pirą, iš kurių kildinosi graikai. Tautų neapykanta
     yra senų pirmykščių laikų palikimas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

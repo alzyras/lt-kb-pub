@@ -35,17 +35,6 @@ Dusburgietis teigia, kad apie brolių kovą Vartenbergo pilyje ir daugybės krik
 - t-001
   global_id: t-58650
   teiginys: "Vartenbergas buvo Kulmo žemėje ant kalno, buvusiame ežero viduryje, stovėjusi pilis, kurioje gyveno broliai ir ginklanešiai."
-  semantiniai_rysiai: "Vartenbergas priklausė Kulmas (0.86)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "455414-455846; hash=51d0197a7bf2013eefaf253a75e3d638d69229ee0c76484feb02564f53b20a20; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Kulmas: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vartenbergas: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Kulmas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai lokalizuoja Vartenbergą Kulmo žemėje."
   pagrindžia:
     - c-59282
 
@@ -53,17 +42,6 @@ Dusburgietis teigia, kad apie brolių kovą Vartenbergo pilyje ir daugybės krik
 - t-002
   global_id: t-58651
   teiginys: "Sūduviai po ilgų antpuolių sudegino Vartenbergo pilį, nužudė du brolius su visa šeimyna, o pilis liko apleista."
-  semantiniai_rysiai: "Sūduviai puolė Vartenbergas (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "456519-456819; hash=bbd0779d499e162c460ab194d17e1b37874051d9169d49a8670f88898f89e488; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Vartenbergas: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Sūduviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vartenbergas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Ilgi antpuoliai ir pilies sudeginimas tiesiogiai rodo Sūduvių puolimą prieš Vartenbergą."
   pagrindžia:
     - c-59283
 - susijęs iš [[objektai/ivykiai/Vartenbergo pilies užkariavimas.md#claim-t-62522|Vartenbergo pilies užkariavimas (pilis)]]: Sūduviai po ilgų antpuolių sudegino ir iki pamatų sunaikino Vartenbergo pilį, nužudydami du Ordino brolius su visa šeimyna.
@@ -97,8 +75,8 @@ Dusburgietis teigia, kad apie brolių kovą Vartenbergo pilyje ir daugybės krik
     užgriuvo kariuomenė, kuri visus šiuos žmones išžudė, o moteris  ir vaikus išsivarė  į
     nelaisvę.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -118,8 +96,8 @@ Dusburgietis teigia, kad apie brolių kovą Vartenbergo pilyje ir daugybės krik
 
                      160 (155).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -130,7 +108,8 @@ Dusburgietis teigia, kad apie brolių kovą Vartenbergo pilyje ir daugybės krik
 - id: c-59282
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 142"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 142."
   citata_originali: |
     158 (153). Apie brolių kovą Vartenbergo pilyje ir daugybės krikščionių žūtį
 
@@ -150,7 +129,8 @@ Dusburgietis teigia, kad apie brolių kovą Vartenbergo pilyje ir daugybės krik
 - id: c-59283
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 143"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 143."
   citata_originali: |
     Sūduviai, subūrę dar
     didesnę kariuomenę, atžygiavo prie Vartenbergo pilies ir po ilgų bei atkaklių antpuolių,
@@ -169,7 +149,4 @@ Dusburgietis teigia, kad apie brolių kovą Vartenbergo pilyje ir daugybės krik
     - t-58651
 
 ## Ryšiai
-- Buvo pastatyta: [[objektai/asmenys/Fridrichas iš Libencelės|Fridrichas iš Libencelės (vyskupas, XIV a.)]]
 - Puolė Vartenbergą: [[objektai/grupes/Sūduviai]]
-- Gyvenamoji vieta: [[objektai/grupes/Kryžiuočių ordinas]]
-- Vartenbergas priklausė [[objektai/vietos/Galinda]], [[objektai/vietos/Kulmas]]

@@ -30,19 +30,6 @@ Kunigaikštis Fiodoras Ostrogiškis gavo įsakymą su viena žygio vora užimti 
 - t-001
   global_id: t-186037
   teiginys: "Kunigaikštis Fiodoras Ostrogiškis gavo įsakymą su viena žygio vora užimti Podolę."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "776957-777638; hash=56fb18f9761c5b83f4eb97bee07a280121283f1ed6dcc2a7257473cd94b45150; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Podolė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Fiodoras Ostrogiškis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Podolė: mention_match, place, gap=61"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Fiodoras Ostrogiškis\" parinktas kaip owner_note_path. Targetas \"Podolė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-169398
 
@@ -50,21 +37,6 @@ Kunigaikštis Fiodoras Ostrogiškis gavo įsakymą su viena žygio vora užimti 
 - t-002
   global_id: t-186038
   teiginys: "Kunigaikštis Fiodoras Ostrogiškis paspruko iš kovos lauko, manydamas, kad lenkams atskuba didelės pagalbos pajėgos."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "781160-781555; hash=263b40c78de6d39c2d9d879393a5bb90b994326ce321852b598f5f43175e69ab; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Fiodoras Ostrogiškis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=61"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Fiodoras Ostrogiškis\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-169399
 - susijęs iš [[objektai/ivykiai/Švitrigailos įsiveržimas į Lietuvą ir Fiodoro Ostrogiškio žygis į Podolę (1432 m.).md#claim-t-185840|Švitrigailos įsiveržimas į Lietuvą ir Fiodoro Ostrogiškio žygis į Podolę (1432 m.)]]: Fiodoras Ostrogiškis netikėtai užpuolė Podolę ir netrukus ją sugrąžino Boleslovui Švitrigailai.
@@ -102,8 +74,8 @@ Kunigaikštis Fiodoras Ostrogiškis gavo įsakymą su viena žygio vora užimti 
     tačiau pirmosios sėkmės dėl žmonių laimės nepastovu­
     mo ne visuomet leidžia sulaukti panašaus galo.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -122,8 +94,8 @@ Kunigaikštis Fiodoras Ostrogiškis gavo įsakymą su viena žygio vora užimti 
     vadą be tvarkos pasileido ir visa kariuomenė. Kur kas
     daugiau jų žuvo bėgant, nei kovojant.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -173,7 +145,8 @@ Kunigaikštis Fiodoras Ostrogiškis gavo įsakymą su viena žygio vora užimti 
 - id: c-169399
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 445"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 445."
   citata_originali: |
     Lenkai atgavo drąsą ir ūpą, tuo
     tarpu rusai, liovęsi ieškoję grobio ir puolę į kovą, ne­

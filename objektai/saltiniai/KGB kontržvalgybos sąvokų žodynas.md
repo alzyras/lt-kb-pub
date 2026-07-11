@@ -43,19 +43,6 @@ Valstybės saugumo komiteto (KGB) kontržvalgybos organai agentus-smogikus naudo
 - t-001
   global_id: t-41538
   teiginys: "KGB kontržvalgybos organai agentus-smogikus laikė rezervu kovai su žvalgybinėmis-diversinėmis grupėmis ir nacionalistinėmis gaujomis karo metu."
-  semantiniai_rysiai: "Agentai-smogikai gyveno Ukraina (0.64); Agentai-smogikai gyveno Baltija (0.64)"
-  temporaliniai_duomenys: "įvykio data: 1940-1950; įvykio data: 1948 m.; įvykio data: 1949 m.; įvykio data: 1950 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1002985-1003496; hash=c4fe07003571f6c229c08ee8df4f4898ba7d49dccd1abd93c561bc76cbfc7636; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Baltija: 0.64"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Agentai-smogikai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Baltija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata nurodo agentų-smogikų verbavimą Baltijos šalių teritorijoje, todėl fiksuojamas atsargus grupės ir vietos ryšys."
   pagrindžia:
     - c-44997
 ## Reikšmingi paminėjimai
@@ -75,8 +62,8 @@ Valstybės saugumo komiteto (KGB) kontržvalgybos organai agentus-smogikus naudo
     Antanas Starkus-Montė (1948 m. spalis -
     1949 m. lapkričio 1 d.).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

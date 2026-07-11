@@ -34,16 +34,6 @@ Jonui, Polocko............................Stanislovui Jonui Da Vai­ nai, taurin
 - t-001
   global_id: t-87859
   teiginys: "Stanislovas Jonas Da Vaina buvo paminėtas tarp valdovo tarybos narių ir pareigūnų, dalyvavusių rašto patvirtinime."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "508361-509046; hash=2240ef1f8f1b467c5d38e0248ea28e83a9a17b76cf004abbd32ee56b2b0f9b05; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vaina: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Stanislovas Jonas Da Vaina: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Vaina: mention_match, person, gap=21"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Stanislovas Jonas Da Vaina\" parinktas kaip owner_note_path. Targetas \"Vaina\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-83838
 ## Reikšmingi paminėjimai
@@ -65,8 +55,8 @@ Jonui, Polocko............................Stanislovui Jonui Da Vai­ nai, taurin
     driuševičiui ir kitiems mūsų tarybos nariams (senatoriams)
     ir pareigūnams, nuoširdžiai ištikimiems ir mieliems.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

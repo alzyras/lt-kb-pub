@@ -38,19 +38,6 @@ Dusburgietis teigia, kad mažiulis V.
 - t-001
   global_id: t-61166
   teiginys: "V. Mažiulio „Dėl Neringos vardo“ paskelbtas „Lietuvių kalbotyros klausimų“ 3 tome 1960 m., p. 301–315."
-  temporaliniai_duomenys: "įvykio data: 1960 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pagrindžia autorių, pavadinimą, leidinį, metus, tomą ir puslapius."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "785162-785251; hash=c5b7a12f5ab95f60ac94b3f04490279069c4ea18ff2421f31e7ec35bb9f2796c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mažiulis V. Dėl Neringos vardo: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=45"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mažiulis V. Dėl Neringos vardo\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-61798
 ## Reikšmingi paminėjimai
@@ -62,8 +49,8 @@ Dusburgietis teigia, kad mažiulis V.
     Mažiulis V. Dėl Neringos vardo.— Lietuvių kalbotyros klausimai, V., 1960, 3, p. 301—
     315.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -74,7 +61,8 @@ Dusburgietis teigia, kad mažiulis V.
 - id: c-61798
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 267"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 267."
   citata_originali: |
     Mažiulis V. Dėl Neringos vardo.— Lietuvių kalbotyros klausimai, V., 1960, 3, p. 301—
     315.

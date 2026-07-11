@@ -34,14 +34,6 @@ Pašalinus Karijotaitį, ji buvo padalinta į 3 dalis: vakarinė dalis buvo pris
 - t-001
   global_id: t-193294
   teiginys: "Pašalinus Karijotaitį, ji buvo padalinta į 3 dalis: vakarinė dalis buvo priskirta prie Lenkijos, vidurinė buvo atiduota valdyti, kaip lenas, artimam Vytauto šalininkui, Lenkijos didikui Spytkui iš Melštyno, o Vytauto tiesioginei valdžiai atiteko tik rytinė."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "245419-245905; hash=e58b87ad3be4c5bfb1d20281aa769453276e1117c131ec83f2e1caecae064bb6; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-176022
 ## Reikšmingi paminėjimai
@@ -60,8 +52,8 @@ Pašalinus Karijotaitį, ji buvo padalinta į 3 dalis: vakarinė dalis buvo pris
     Šitais Vytauto žygiais buvo panaikintos visos stambiausios
     kunigaikštystės.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

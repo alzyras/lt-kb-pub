@@ -57,19 +57,6 @@ Nenurodyta
 - t-001
   global_id: t-20391
   teiginys: "Lietuva, Latvija ir Estija įkūrė Baltijos Valstybių Tarybą bendrai užsienio politikos pozicijai rengti."
-  temporaliniai_duomenys: "įkūrimo data: 1934 m.; įkūrimo data: 1990 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata nepateikia datos, todėl teiginys sutrumpintas iki joje pagrįstos informacijos."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "530032-530390; hash=ca451ace129e989814535ae45319cc268d50f526fe8dd405d7a5033457f56895; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Baltija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos, Latvijos ir Estijos Baltijos Valstybių Tarybos įkūrimas (1990 m. gegužės 12 d.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Baltija: mention_match, place, gap=33"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos, Latvijos ir Estijos Baltijos Valstybių Tarybos įkūrimas (1990 m. gegužės 12 d.)\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-23120
 
@@ -77,22 +64,6 @@ Nenurodyta
 - t-002
   global_id: t-183259
   teiginys: "1990 m. gegužės 12 d. Lietuva, Latvija ir Estija atnaujino 1934 m. sutartį ir įkūrė Baltijos Valstybių Tarybą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įkūrimo data: 1934 m.; įkūrimo data: 1990 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys tiksliai nusako įvykį, datą ir rezultatą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "530167-530512; hash=a5a14eb171016339c77b82168eaae5190b087c7a4aca1f9eec9bc2d0bba59cf0; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Baltija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos, Latvijos ir Estijos Baltijos Valstybių Tarybos įkūrimas (1990 m. gegužės 12 d.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Baltija: mention_match, place, gap=62"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos, Latvijos ir Estijos Baltijos Valstybių Tarybos įkūrimas (1990 m. gegužės 12 d.)\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-166647
 ## Reikšmingi paminėjimai
@@ -107,8 +78,8 @@ Nenurodyta
     sutartį ir įkūrė Baltijos Valstybių Tarybą, jos posėdžiuose rengiama bendra
     užsienio politikos pozicija.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -124,8 +95,8 @@ Nenurodyta
     užsienio politikos pozicija. Glaudus trijų Baltijos valstybių bendradarbia-
     vimas padėjo visoms sėkmingai integruotis į transatlantines organizacijas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

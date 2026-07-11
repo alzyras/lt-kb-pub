@@ -33,17 +33,6 @@ media_all_json: |-
 - t-001
   global_id: t-40426
   teiginys: "Spytekas iš Melštyno, Krokuvos vaivada ir Podolės valdytojas, buvo tarp prie Kijevo telktų pavienių lenkų riterių."
-  semantiniai_rysiai: "Spytekas iš Melštyno valdė teritoriją Podolė (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "216146-216594; hash=a7cc252cb18fd6c1908b7942bd1355c8ccd2abaad58d728431d206aa6b6d83cc; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde_teritorija -> Podolė: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Spytekas iš Melštyno: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Podolė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Spytekas tiesiogiai įvardytas Podolės valdytoju."
   pagrindžia:
     - c-44513
 ## Reikšmingi paminėjimai
@@ -64,8 +53,8 @@ media_all_json: |-
     iš Melštyno, Krokuvos vaivada ir Podolės
     valdytojas bei kiti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

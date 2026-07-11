@@ -32,17 +32,6 @@ media_all_json: |-
 - t-001
   global_id: t-77795
   teiginys: "Filosemitu vadintas Antanas Smetona stabdė raginimus apriboti žydus ir pareiškė, kad Lietuvoje vietos užteks visiems."
-  semantiniai_rysiai: "Antanas Smetona (Lietuvos prezidentas, XX a.) gynė Žydai (0.66)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "341714-342261; hash=a1584e7d41a501089a4d62cdfe472e396f04fc66303b7b659298efc2745efae6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyne -> Žydai: 0.66"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Antanas Smetona (Lietuvos prezidentas, XX a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Žydai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Claimas konkrečiai sieja Smetoną su raginimų apriboti žydus stabdymu, todėl tai galima laikyti žydų gynimu politiniame kontekste."
   pagrindžia:
     - c-75120
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77976|A. Smetona]]: A. Smetona agresyvesniems jaunalietuviams pareiškė, kad žydų apribojimų nereikia ir „vietos visiems užteks“.
@@ -67,8 +56,8 @@ media_all_json: |-
     A. Smetona agresyvesniems jaunalietuviams pareiškė, kad „vietos visiems
     užteks“.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

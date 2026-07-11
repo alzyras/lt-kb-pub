@@ -68,20 +68,6 @@ Nenurodyta
 - t-002
   global_id: t-46783
   teiginys: "Remdamas paskutinį Tverės bandymą atsiimti iš Maskvos prarastą pirmenybę, Algirdas net triskart – 1368, 1370 ir 1372 m. – surengė žygį į Maskvą, tačiau Kremliaus užimti nepajėgė."
-  semantiniai_rysiai: "Algirdas (Lietuvos valdovas) surengė žygį į Maskva (0.96)"
-  temporaliniai_duomenys: "įvykio data: 1372 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir paremtas citata."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "62424-62968; hash=cd31a39a314825c93b1b568d329ad727ac65aacad8be401147d1e879016805eb; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  ryšio_patikimumas: "surenge_zygi_i -> Maskva: 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Maskva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Algirdas surengė žygį į Maskvą."
   pagrindžia:
     - c-49334
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176311|Algirdas (Lietuvos valdovas)]]: Remdamas paskutinį Tverės bandymą atsiimti iš Maskvos prarastą pirmenybę, Algirdas net triskart – 1368, 1370 ir 1372 m. – surengė žygį į Maskvą, tačiau Kremliaus užimti nepajėgė.
@@ -124,8 +110,8 @@ Nenurodyta
     kytos pretenzijos, kad „savaime visa Rusia turi priklausyti lietuviams“, o
     Vilnius nevirto „antruoju Kijevu“.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -153,8 +139,3 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-46783
-
-## Ryšiai
-- Puolė Kremlių: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- Apgulė Kremlių: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- Kremlius priklausė [[objektai/vietos/Pskovas]]

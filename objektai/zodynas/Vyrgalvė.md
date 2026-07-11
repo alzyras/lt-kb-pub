@@ -41,9 +41,6 @@ Vartojamos formos: `vyrgalve`, `vyrgulda`, `vyrišką galvą`.
 - t-004
   global_id: t-07711
   teiginys: "Vyrgalvė buvo mokesnis už vyrišką galvą, nes senovėje vyro galva laikyta vertesne už moters."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "301517-302146; hash=f14664ac9ef286005527fa5ef355dc5fa730da2c55461f26476c26148c36d690; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
   pagrindžia:
     - c-09640
 
@@ -51,9 +48,6 @@ Vartojamos formos: `vyrgalve`, `vyrgulda`, `vyrišką galvą`.
 - t-003
   global_id: t-07712
   teiginys: "`Vyrgalvė / vyrgulda` šiame tekste reiškia išpirką už užmušto vyro galvą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "301517-302146; hash=f14664ac9ef286005527fa5ef355dc5fa730da2c55461f26476c26148c36d690; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
   pagrindžia:
     - c-09640
 ## Reikšmingi paminėjimai
@@ -63,8 +57,8 @@ Vartojamos formos: `vyrgalve`, `vyrgulda`, `vyrišką galvą`.
   citata_originali: |
     Jei viens antrą užmušė, tad užmuštojo gentims valna buvo senovėj užmušti patį užmušėją ar jo visų artimąjį gentį, kaip viršiau minavojau; jei užmušėjas juos numaldė, tad jis užmuštojo gentims turėjo atguldyti^1122 pinigais už užmuštojo galvą, kurie pinigai, arba mokesnis, vadinos vyrgalve, arba vyrgulda, kursai žodis paeina nuo vyro ir galvos arba nuo vyro ir žodžio guldyti, arba nuo žodžio vokiško geld – pinigai, beje, mokesnis už vyrišką galvą, nesgi senovėj vyriška galva daug didžiau buvo branginama, nekaip motriškos, kaipo patarlė, viršiau minavota, šiandien dar tą rodo: „Ožka, – sako, – ne gyvulys, merga ne šeimyna.“
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

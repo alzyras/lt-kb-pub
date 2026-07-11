@@ -51,20 +51,6 @@ media_all_json: |-
 - t-001
   global_id: t-06869
   teiginys: "1336 m. kunigaikščio Margio vadovaujami lietuviai, nebegalėdami apsiginti, verčiau rinkosi žūti ugnyje, negu pasiduoti vokiečiams."
-  semantiniai_rysiai: "Lietuviai gynė Pilėnai (0.90); Lietuviai buvo priešas Vokiečiai (0.82)"
-  temporaliniai_duomenys: "įvykio data: 1336 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko aiškesnį faktinį sakinį be boilerplate."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "155047-155415; hash=0a961e65c07e57585ebc3fa47efdf26901fd3d744f94c992128cfc8022f92ef0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyne -> Pilėnai: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Pilėnai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai kalba apie Pilėnų pilies gynimą ir nurodo, kad lietuviai didvyriškai gynėsi, todėl ryšys lietuviai gynė Pilėnus yra pagrįstas."
   pagrindžia:
     - c-00369
 ## Reikšmingi paminėjimai
@@ -79,8 +65,8 @@ media_all_json: |-
     Kunigaikščio Margio vadovaujami lietuviai, kai matėsi nebeapsi-
     ginsią, bemeilijo žūti ugny, negu pasiduoti vokiečiams (1336 m.).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

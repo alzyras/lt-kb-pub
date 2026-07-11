@@ -33,14 +33,6 @@ Nepriklausomybės šūkį toliau skleidė naujai sukurtoji Voroneže Aukščiaus
 - t-001
   global_id: t-193301
   teiginys: "Nepriklausomybės šūkį toliau skleidė naujai sukurtoji Voroneže Aukščiausioji Visos Rusijos Lietuvių Tautos Taryba, kurią sudarė įvairių partijų atstovai, sušaukti į suvažiavimą trijų pasižymėjusių vyrų — Pr."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "1071057-1071439; hash=8489cd3b4199435d8647a2689ce8a492c23801975155db3bcbf1c0927b9072fc; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-176029
 ## Reikšmingi paminėjimai
@@ -58,8 +50,8 @@ Nepriklausomybės šūkį toliau skleidė naujai sukurtoji Voroneže Aukščiaus
     perversmas pertraukė ne tik Komiteto, bet ir šios Tarybos
     veikimą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -40,16 +40,6 @@ Krasauskas, R.
 - t-001
   global_id: t-30940
   teiginys: "R. Krasauskas parašė straipsnį „Medininkų diecezijos įsteigimas ir aprūpinimas“ Lietuvos enciklopedijos 18 tome."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "961991-962465; hash=f8267687f79d376d800e8ad67801d345a2c9d5d7257ec9557f3aae3b5e87a750; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "R. Krasauskas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=80"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"R. Krasauskas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-33115
 - susijęs iš [[objektai/autoriai/Krasauskas, R.md#claim-t-30768|Krasauskas, R]]: R. Krasauskas Lietuvių enciklopedijos 18 tome paskelbė tekstą apie Medininkų diecezijos įsteigimą ir aprūpinimą.
@@ -67,8 +57,8 @@ Krasauskas, R.
     348-355 p. — Springmann, K. : Polen und der deutsche Orden zur Zeit
     des Koustanzer Konzils , Diss.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

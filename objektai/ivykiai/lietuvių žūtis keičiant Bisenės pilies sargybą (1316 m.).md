@@ -56,17 +56,6 @@ Nenurodyta
 - t-001
   global_id: t-59476
   teiginys: "Fridrichas iš Libencelės su bendražygiais išžudė Bisenės pilies sargybą keitusius lietuvius; pabėgo tik penki vyrai."
-  semantiniai_rysiai: "Lietuviai gynė Bisenė (0.88); Fridrichas iš Libencelės (vyskupas, XIV a.) puolė Lietuviai (0.80)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "656174-656589; hash=8c9abe281789fc5462cfae9b4122c8eaf729f27e7178ac099ad6ba369f3bc87a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyne -> Bisenė: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Bisenė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo lietuvius, paskirtus saugoti Bisenės pilį."
   pagrindžia:
     - c-60108
 ## Reikšmingi paminėjimai
@@ -87,8 +76,8 @@ Nenurodyta
 
                  329 (322).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -99,7 +88,8 @@ Nenurodyta
 - id: c-60108
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 212"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 212."
   citata_originali: |
     328 (321). Apie 80 lietuvių žūtį 1316 metais
 

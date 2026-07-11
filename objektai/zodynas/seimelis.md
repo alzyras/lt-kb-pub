@@ -41,11 +41,6 @@ media_all_json: |-
 - t-001
   global_id: t-72752
   teiginys: "Vėliau seimeliai buvo šaukiami atskiriems reikalams: priešseiminiuose rinkti atstovai į seimą, reliaciniuose pranešta apie seimo darbus."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "481352-481844; hash=8f7b762b0e5104bff0a53cfe360581b41951fc6e48b4672c707483f4d57f1703; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-71123
 
@@ -53,9 +48,6 @@ media_all_json: |-
 - t-002
   global_id: t-72755
   teiginys: "Grabnyčių seimelyje apie vasario 2 d. būdavo renkami tribunolo nariai, kurie tribunole dirbdavo vienus metus."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "602575-602849; hash=d2e82da6213376280e09a2d3a560a0930c5c6fedd66721a9d447a8b6b6ae5359; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-71124
 
@@ -63,9 +55,6 @@ media_all_json: |-
 - t-003
   global_id: t-72756
   teiginys: "Seimeliuose bajorija rinkdavo atstovus į seimą ir surašydavo jiems instrukcijas."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "481352-481844; hash=8f7b762b0e5104bff0a53cfe360581b41951fc6e48b4672c707483f4d57f1703; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-71123
 ## Reikšmingi paminėjimai
@@ -84,8 +73,8 @@ media_all_json: |-
     dai, ir t. t.
     **3.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -101,8 +90,8 @@ media_all_json: |-
     davo renkami specialiai šaukiamame Grabnyčių seimely (apie va-
     sario 2 d.) ir darbuodavos tribunole vienus metus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

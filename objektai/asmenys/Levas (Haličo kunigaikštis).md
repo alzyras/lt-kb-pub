@@ -35,16 +35,6 @@ Priešakiniai daliniai įsiveržė į Naugarduko papilį, o kitą dieną atžygi
 - t-001
   global_id: t-40306
   teiginys: "Haličo kunigaikštis Levas su totoriais paėmė Naugarduko papilį, bet pati Naugarduko pilis nebuvo paimta."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "114603-115007; hash=5572bee5c39b984c1dd43895ab3a0a00b4c6747e96ceb0bb3e796168e901c12a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Naugardukas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Levas (Haličo kunigaikštis): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Naugardukas: mention_match, place, gap=25"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Levas (Haličo kunigaikštis)\" parinktas kaip owner_note_path. Targetas \"Naugardukas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-44435
 - susijęs iš Haličas: Vaišvilkas iškeliavo į Haličą pas Danielių ir kunigaikštį Vasilką, ketindamas tapti vienuoliu.
@@ -68,8 +58,8 @@ Priešakiniai daliniai įsiveržė į Naugarduko papilį, o kitą dieną atžygi
 
     Tačiau pati Naugarduko pilis nebuvo paimta.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -101,4 +91,3 @@ Priešakiniai daliniai įsiveržė į Naugarduko papilį, o kitą dieną atžygi
 
 ## Ryšiai
 - Sąjungininkai: [[objektai/grupes/Totoriai]]
-- Levas (Haličo kunigaikštis) puolė [[objektai/vietos/Lietuva]]

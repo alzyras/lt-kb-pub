@@ -30,22 +30,6 @@ Narbutas Olbiją mini tarp graikų prekyviečių, kurios po VII a. pr. Kr. Juodo
 - t-001
   global_id: t-192846
   teiginys: "Narbutas Olbiją mini tarp graikų prekyviečių, kurios po VII a. pr. Kr. Juodosios jūros pakrantėse virto turtingais centrais."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Graikai prekiavo su Olbija (0.74); Graikai prekiavo su Chersonas (0.72)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "89604-90033; hash=a943a1d0bac46dd8f8403890334f4d8261ce022d14825469c99edae06f5e01f2; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "prekiavo_su -> Olbija: 0.74"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Graikai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Olbija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Olbija minima tarp graikų emporiumų, t. y. prekyviečių, todėl ryšys su graikų prekyba pagrįstas."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175616
 - susijęs iš [[objektai/asmenys/Darijus.md#claim-t-191945|Darijus]]: Narbutas rašė, kad Darijaus amžiuje gelonų-budinų krašte žemdirbystė buvo aukšto lygio ir skatino graikų prekybą grūdais Juodojoje jūroje.
@@ -66,8 +50,8 @@ Narbutas Olbiją mini tarp graikų prekyviečių, kurios po VII a. pr. Kr. Juodo
     pradėjo klestėti ir vėliau virto tokiais turtingais kaip
     Olbija, Heraklėja, Chersonas ir kiti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -78,7 +62,8 @@ Narbutas Olbiją mini tarp graikų prekyviečių, kurios po VII a. pr. Kr. Juodo
 - id: c-175616
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 52"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 52."
   citata_originali: |
     33
     Jau labai senais laikais graikai užmezgė santykius su
@@ -95,6 +80,3 @@ Narbutas Olbiją mini tarp graikų prekyviečių, kurios po VII a. pr. Kr. Juodo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192846
-
-## Ryšiai
-- Prekiavo su: [[objektai/grupes/Graikai]]

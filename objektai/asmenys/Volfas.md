@@ -30,22 +30,6 @@ Narbutas iš dviejų vadų skirių stovykloje darė išvadą, kad Volfas galėjo
 - t-001
   global_id: t-191332
   teiginys: "Narbutas iš dviejų vadų skirių stovykloje darė išvadą, kad Volfas galėjo vadovauti sudargams arba vienai iš sąjunginių genčių."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Skiriai buvo sąjungininkas su Sudargai (0.74)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "527820-528554; hash=6b22554b065f4948dd9682f291e427fce36a308bda8e80028e93efab396a558b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sajungininkas_su -> Sudargai: 0.74"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Skiriai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Sudargai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo sąjungą tarp skirių ir sudargų."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174214
 - susijęs iš [[objektai/asmenys/Eduka.md#claim-t-191201|Eduka]]: Eduka kartu su Volfu vadovavo skiriams, o apie 355 m. gelbėjo savo žmonių likučius, persikėlusius į dešinįjį Dunojaus krantą.
@@ -74,8 +58,8 @@ Narbutas iš dviejų vadų skirių stovykloje darė išvadą, kad Volfas galėjo
     galią, galbūt: atvykus tiesiai iš gimtosios žemės naujiems
     žmonėms.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -86,7 +70,8 @@ Narbutas iš dviejų vadų skirių stovykloje darė išvadą, kad Volfas galėjo
 - id: c-174214
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 294"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 294."
   citata_originali: |
     Sudargai, kuriuos istorikai vadina
     Satargarii ir Sadargii, buvo ištikimiausi skiriu bičiuliai:
@@ -110,6 +95,3 @@ Narbutas iš dviejų vadų skirių stovykloje darė išvadą, kad Volfas galėjo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191332
-
-## Ryšiai
-- Sąjungininkai: [[objektai/asmenys/Eduka]]

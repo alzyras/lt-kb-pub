@@ -57,10 +57,6 @@ Tekstas liko nespausdintas ir, pagal įvadinį tekstą, negalėjo paveikti vieš
 - t-002
   global_id: t-187975
   teiginys: "S. Stanevičiaus „Lietuvių mitologijos aiškinimas“ liko nespausdintas."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "70333-71142; hash=d38933b47239269c8340d434231af4fadd17feab4c7ade525597d255bdbe5726; match=exact"
-  sprendimo_priezastis: "gap::events"
   pagrindžia:
     - c-170977
 ## Reikšmingi paminėjimai
@@ -83,8 +79,8 @@ Tekstas liko nespausdintas ir, pagal įvadinį tekstą, negalėjo paveikti vieš
     nimi lietuvių dievų vardai yra patikimi, iš liaudies užrašyti ir
     kurie pramanyti arba iškraipyti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -99,7 +95,8 @@ Datavimas pateiktas kaip J. Lebedžio nuomonė: ne anksčiau kaip 1838 m.
 - id: c-170977
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 39"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 39."
   citata_originali: |
     nesiremia gyvąja tradicija (tautosakine, etnografine medžia­
     ga), archeologiniais radiniais, lietuvių mitologijos faktų beato­

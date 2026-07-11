@@ -30,20 +30,6 @@ Lenkų ir lietuvių seimai po ilgų ginčų nutarė susitikti Lomžoje, pusiauke
 - t-001
   global_id: t-185270
   teiginys: "Lenkų ir lietuvių seimai po ilgų ginčų nutarė susitikti Lomžoje, pusiaukelėje tarp Parčevo ir Bresto."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Lenkai keliavo į Lomža (0.75); Lietuviai keliavo į Lomža (0.75)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "904236-904875; hash=abee78d98668e518cec58f7e0b9fc49eba26043b8795f2f6b593b5342d6c2140; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Lomža: 0.75"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lenkai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lomža: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Lenkų seimas nutarė susitikti Lomžoje."
   pagrindžia:
     - c-168631
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-184533|Lenkai]]: Lenkų seimas susirinko Parčeve, o lietuvių seimas Breste; po ginčų nutarta susitikti Lomžoje.
@@ -72,8 +58,8 @@ Lenkų ir lietuvių seimai po ilgų ginčų nutarė susitikti Lomžoje, pusiauke
     mą, vėl visą reikalą atidėjo kitiems metams ir, nieko
     nenuveikę, išsiskirstė.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -108,6 +94,3 @@ Lenkų ir lietuvių seimai po ilgų ginčų nutarė susitikti Lomžoje, pusiauke
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185270
-
-## Ryšiai
-- Buvo kelionės vieta: [[objektai/grupes/Lenkai]], [[objektai/grupes/Lietuviai]]

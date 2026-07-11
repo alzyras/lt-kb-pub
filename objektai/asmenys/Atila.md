@@ -30,12 +30,6 @@ Atila nužudė ir pačią karalaitę, ir visas vienuolika tūkstančių mergeli�
 - t-001
   global_id: t-194093
   teiginys: "Atila nužudė ir pačią karalaitę, ir visas vienuolika tūkstančių mergelių, buvusių su ja."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "70456-70817; hash=4fe8e3208ea2f128e0781a042d96e9982fdbb01815d35c0bce5233f11aa69460; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176706
 ## Reikšmingi paminėjimai
@@ -52,8 +46,8 @@ Atila nužudė ir pačią karalaitę, ir visas vienuolika tūkstančių mergeli�
     vardan Kristaus tapo kankinėmis. Tai pirma jo žiau­
     rybė, padaryta krikščionims.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

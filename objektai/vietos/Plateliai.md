@@ -33,22 +33,6 @@ md]] - vietasaltinyje: offset: 25578-25910; match: exact - santrauka: Žemaiči�
 - t-001
   global_id: t-189045
   teiginys: "Narbutas, remdamasis Lasickiu, Platelių valsčių sieja su legendine pilimi, tačiau pažymi, kad Lasickis apie ją daugiau nepapasakojo."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Plateliai priklausė Lietuva (0.61)"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "296727-297042; hash=e29b25ca869451aac0ad337cdcb97dd114c9124f4a0de9742cec33868811e7db; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Lietuva: 0.61"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Plateliai: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata mini Platelius kaip vietą Lietuvoje, nors kalba apie daugiau nei vienus Platelius."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171934
 - susijęs iš [[objektai/ivykiai/Karo dievo Kovo statulėlės iškasimas Burokų dvare prie Kražių.md#claim-t-192021|Karo dievo Kovo statulėlės iškasimas Burokų dvare prie Kražių]]: Narbutas nurodė: 1840 m. rugsėjį Vaitiekus Jučas Platelių dvare gavo karo dievo Kovo statulėlę iš kunigo Kognovickio.
@@ -86,8 +70,8 @@ md]] - vietasaltinyje: offset: 25578-25910; match: exact - santrauka: Žemaiči�
     vieni Plateliai, gaila, kad Lasickis, kurio aprašymai visuomet
     pernelyg trumpi, nieko daugiau nepapasakojo apie tą pilį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -115,6 +99,3 @@ md]] - vietasaltinyje: offset: 25578-25910; match: exact - santrauka: Žemaiči�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189045
-
-## Ryšiai
-- Plateliai priklausė [[objektai/vietos/Lietuva]]

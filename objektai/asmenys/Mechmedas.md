@@ -30,19 +30,6 @@ Pasak Liudviko, turkų valdovas Mechmedas rengėsi kariauti prieš krikščioni�
 - t-001
   global_id: t-186147
   teiginys: "Pasak Liudviko, turkų valdovas Mechmedas rengėsi kariauti prieš krikščionių pasaulį."
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "905102-905497; hash=fc39e3393054f4e73444eaa5fb877085d09c3499f085d8267d380045e5256f27; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Europa: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mechmedas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Europa: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mechmedas\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-169508
 - susijęs iš [[objektai/asmenys/Liudvikas (Antiochijos patriarchas).md#claim-t-186143|Liudvikas (Antiochijos patriarchas)]]: Pasak Liudviko, Mechmedas rengėsi kariauti prieš krikščionių pasaulį.
@@ -64,8 +51,8 @@ Pasak Liudviko, turkų valdovas Mechmedas rengėsi kariauti prieš krikščioni�
     pasaulį. Kad jis sakė teisybę, akivaizdžiai patvirtino
     vėlesni įvykiai.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -76,7 +63,8 @@ Pasak Liudviko, turkų valdovas Mechmedas rengėsi kariauti prieš krikščioni�
 - id: c-169508
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 513"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 513."
   citata_originali: |
     Rytų imperijos gyventojai,
     pavergti turkų, maldavo Va­

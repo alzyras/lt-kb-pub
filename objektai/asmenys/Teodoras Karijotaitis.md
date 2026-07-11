@@ -43,12 +43,6 @@ o iš Karijoto sūnaus, Teodoro, — Podolė.
 - t-001
   global_id: t-185983
   teiginys: "Teodoras Karijotaitis su kariuomene, sutelkta Podolėje ir Valachijoje, patraukė prieš Vytautą ir susidūrė su juo prie Braclavo."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "598015-598466; hash=8294a9083fe5839aa8bb22846147abcb2cfd9322971981ff56d3beda08784633; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-169344
 
@@ -56,12 +50,6 @@ o iš Karijoto sūnaus, Teodoro, — Podolė.
 - t-002
   global_id: t-185984
   teiginys: "Teodoras Karijotaitis, Vytauto smarkiai persekiojamas, po karių pabėgimo vargais negalais paspruko į Kamenecą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "598467-598733; hash=3adcf7febaf39cd03d1cc5cdb4c7cab3cd910cd41ae771ec86d26d1e4aeb9db5; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-169345
 
@@ -69,12 +57,6 @@ o iš Karijoto sūnaus, Teodoro, — Podolė.
 - t-003
   global_id: t-185985
   teiginys: "Kunigaikštis Teodoras Karijotaitis su šeima buvo išgabentas į Vilnių, kai pilis perduota ir Podolė vėl prijungta prie Lietuvos."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "600190-600846; hash=9e93197ab91df9b88c6f3c6f74f5fcf918b6a7ac1e727db28217a1456aceb53f; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-169346
 
@@ -82,12 +64,6 @@ o iš Karijoto sūnaus, Teodoro, — Podolė.
 - t-004
   global_id: t-193499
   teiginys: "Teodoras Karijotaitis negalįs nei taip labai vertinti Vytauto sėkmės, kuri nugalėtojams visada būnanti slidi, nei niekinti savo jėgų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "598015-598466; hash=8294a9083fe5839aa8bb22846147abcb2cfd9322971981ff56d3beda08784633; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-169344
 
@@ -95,12 +71,6 @@ o iš Karijoto sūnaus, Teodoro, — Podolė.
 - t-005
   global_id: t-193500
   teiginys: "Kariams pasileidus bėgti, Teodoras, Vytauto smarkiai persekiojamas, vargais negalais paspruko į Kamenecą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "598467-598733; hash=3adcf7febaf39cd03d1cc5cdb4c7cab3cd910cd41ae771ec86d26d1e4aeb9db5; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-169345
 
@@ -108,12 +78,6 @@ o iš Karijoto sūnaus, Teodoro, — Podolė.
 - t-006
   global_id: t-193501
   teiginys: "Kunigaikštį Teodorą su šeimy na išgabeno į Vilnių."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "600190-600846; hash=9e93197ab91df9b88c6f3c6f74f5fcf918b6a7ac1e727db28217a1456aceb53f; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-169346
 
@@ -121,12 +85,6 @@ o iš Karijoto sūnaus, Teodoro, — Podolė.
 - t-007
   global_id: t-193992
   teiginys: "Ketvirtas jų brolis, kunigaikštis Teodoras Karijotaitis, Lietuvoje valdė Naugarduką."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "125890-126187; hash=944d4beb4bfbd89f0fdb5f2f538fa15264c1c2f163c72dac20e500d1181996a1; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176617
 
@@ -134,12 +92,6 @@ o iš Karijoto sūnaus, Teodoro, — Podolė.
 - t-008
   global_id: t-193993
   teiginys: "1 8 Pašalintas iš Podolės, Teodoras Karijotaitis tikrai pabėgo j Vengrijų, gavo grafo titulų ir 1396— 1414 m. (iki mirties) valdė Užkarpatėje Mukačiovų ir vykdė Beregovo distrikto viršininko funkcijas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "395685-396094; hash=3e021d502f52b01dd8c8ab3ca3998e3fd6f4425b6c49403768ca241f84c13638; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176618
 ## Reikšmingi paminėjimai
@@ -159,8 +111,8 @@ o iš Karijoto sūnaus, Teodoro, — Podolė.
     įniršiu puolė priešą, kad pirmuoju smūgiu palaužė jo
     jėgas.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -177,8 +129,8 @@ o iš Karijoto sūnaus, Teodoro, — Podolė.
     menės, kuri galėtų stoti į atvirą kovą. Todėl sustiprino
     ir šiaip pajėgią pilies įgulą pasiryžęs čia kariauti toliau.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -205,8 +157,8 @@ o iš Karijoto sūnaus, Teodoro, — Podolė.
     karo laimikį, atitekusį po pergalingo karo, bet ir kaip
     seną, teisėtai jam priklausančią valdą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -224,8 +176,8 @@ o iš Karijoto sūnaus, Teodoro, — Podolė.
     O tuo metu Lietuvoje ir Rusioje kunigaikščiavo di­
     dysis kunigaikštis Algirdas l6 .
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -243,8 +195,8 @@ o iš Karijoto sūnaus, Teodoro, — Podolė.
     įsikūrimų Užkarpatėje. 1402 m. jis mėgino atgauti Podolę, bet bu­
     vo atmuštas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -255,7 +207,8 @@ o iš Karijoto sūnaus, Teodoro, — Podolė.
 - id: c-169344
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 343"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 343."
   citata_originali: |
     Tegu iš
     svetimųjų nelaimių mokosi išminties tie, kurie savo
@@ -278,7 +231,8 @@ o iš Karijoto sūnaus, Teodoro, — Podolė.
 - id: c-169345
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 343"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 343."
   citata_originali: |
     Kariams pasileidus bėgti, Teodoras, Vytauto
     smarkiai persekiojamas, vargais negalais paspruko į
@@ -296,7 +250,8 @@ o iš Karijoto sūnaus, Teodoro, — Podolė.
 - id: c-169346
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 344"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 344."
   citata_originali: |
     Perdavus pilį ir visą Podolę vėl prijungus prie Lietuvos,
     pilyse bei miestuose paliko lietuvių karių įgulas ir lietu­

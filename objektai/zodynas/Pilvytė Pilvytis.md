@@ -30,14 +30,6 @@ Narbutas Pilvytę (Pilwite) apibūdino kaip pinigų, turto, lobių ir sėkmės d
 - t-001
   global_id: t-189169
   teiginys: "Narbutas Pilvytę (Pilwite) apibūdino kaip pinigų, turto, lobių ir sėkmės deivę, lietuvių Fortūną."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "220267-220562; hash=bb13dd1bfab3110c3f5c1da88fabb570f02c8e83e2b73f8ed1d7cff84b49f414; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172057
 
@@ -45,14 +37,6 @@ Narbutas Pilvytę (Pilwite) apibūdino kaip pinigų, turto, lobių ir sėkmės d
 - t-002
   global_id: t-189170
   teiginys: "Narbutas Pilvytę laikė originaliu lietuvišku pavadinimu ir aiškino jį per žodį Pilwis, reiškiantį storulį arba perkeltine prasme turtuolį."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "220712-221076; hash=fcc29c19f9675b104d0b02806b497522dd2429b2417a15437177b99b51301199; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172058
 ## Reikšmingi paminėjimai
@@ -71,8 +55,8 @@ Narbutas Pilvytę (Pilwite) apibūdino kaip pinigų, turto, lobių ir sėkmės d
     Ni sparnas man niepadariu,
     Tik tej sztowe priraszite.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -89,8 +73,8 @@ Narbutas Pilvytę (Pilwite) apibūdino kaip pinigų, turto, lobių ir sėkmės d
     galėjo vadintis ir vyriškos giminės Pilvyčiu (Pilwitos), ir mote­
     riškos giminės Pilvyte (Pilwite).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -101,7 +85,8 @@ Narbutas Pilvytę (Pilwite) apibūdino kaip pinigų, turto, lobių ir sėkmės d
 - id: c-172057
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 125"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 125."
   citata_originali: |
     Pilvytį' (Pilwite)
     Pinigų, turto, lobių, sėkmės deivė, lietuvių Fortūna.
@@ -122,7 +107,8 @@ Narbutas Pilvytę (Pilwite) apibūdino kaip pinigų, turto, lobių ir sėkmės d
 - id: c-172058
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 126"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 126."
   citata_originali: |
     Pilvytė yra originalus lietuviškas pavaclin imas. Pilwis iš tik­
     rųjų reiškia storulį, perkeltine prasme -  turčių. Iš čia Pilwitos,

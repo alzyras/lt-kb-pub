@@ -33,17 +33,6 @@ Lietuvai ir Lenkijai suartėti įtakos turėjo ir Jogailos pusbroliai, Podolėje
 - t-001
   global_id: t-28992
   teiginys: "Borisas Karijotaitis, Podolėje įsikūręs Jogailos pusbrolis, turėjo įtakos Lietuvos ir Lenkijos suartėjimui."
-  semantiniai_rysiai: "Borisas Karijotaitis gyveno Podolė (0.90); Borisas Karijotaitis keliavo į Krokuva (0.78)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "780242-780594; hash=0cc3c8d8e50ee25a591003c3e30160f470de8851bb3b72a43199aded688ebc15; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Podolė: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Borisas Karijotaitis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Podolė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Borisas su kitais buvo įsikūręs Podolėje."
   pagrindžia:
     - c-28897
 
@@ -51,20 +40,6 @@ Lietuvai ir Lenkijai suartėti įtakos turėjo ir Jogailos pusbroliai, Podolėje
 - t-002
   global_id: t-184371
   teiginys: "Podolėje įsikūrę Borisas ir Konstantinas Karijotaičiai turėjo įtakos Lietuvos ir Lenkijos suartėjimui."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Borisas Karijotaitis gyveno Podolė (0.90); Borisas Karijotaitis keliavo į Krokuva (0.78)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "780169-780478; hash=850dfa74a7d0932294758a6805ad5357ff6a14ee0d0ca8349636f99e6dea8910; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Podolė: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Borisas Karijotaitis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Podolė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Borisas buvo tarp Podolėje įsikūrusių Karijotaičių."
   pagrindžia:
     - c-167741
 ## Reikšmingi paminėjimai
@@ -79,8 +54,8 @@ Lietuvai ir Lenkijai suartėti įtakos turėjo ir Jogailos pusbroliai, Podolėje
     kuriam rūpėjo Padolę apsaugoti nuo totorių, buvo Lietuvos ir
     Lenkijos sąjungos šalininkas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -97,8 +72,8 @@ Lietuvai ir Lenkijai suartėti įtakos turėjo ir Jogailos pusbroliai, Podolėje
     ir Konstantinas. Būdami jau lotyniškai krikštyti, iš Podolės jie
     palaikė ryšius su Krokuva ir ją lankė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -143,5 +118,4 @@ Lietuvai ir Lenkijai suartėti įtakos turėjo ir Jogailos pusbroliai, Podolėje
     - t-184371
 
 ## Ryšiai
-- Borisas Karijotaitis keliavo į [[objektai/vietos/Krokuva]]
 - Borisas Karijotaitis gyveno [[objektai/vietos/Podolė]]

@@ -41,16 +41,6 @@ Hubatsch^158.
 - t-001
   global_id: t-64883
   teiginys: "Bonnos universiteto profesorius W. Hubatschas parašė išsamią monografiją apie Prūsų hercogą Albrechtą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "252718-253017; hash=ee20030fffde1c34514f836dfada752d32acf5a3faf3c0eca136ea431717d599; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Prūsų žemė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; prusai_place_context; same_sentence_locality; single_candidate_actor; single_candidate_target; target_after_predicate"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "W. Hubatsch: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Prūsai: mention_match, place, gap=46"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"W. Hubatsch\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-65467
 
@@ -58,12 +48,6 @@ Hubatsch^158.
 - t-002
   global_id: t-64884
   teiginys: "W. Hubatschas 1948 m. Getingene išleido „Regesta historico-diplomatica Ordinis S. Mariae Theutonicorum“ antrąją dalį."
-  temporaliniai_duomenys: "įvykio data: 1948 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata nurodo W. Hubatschą kaip leidėją ir pateikia leidimo vietą bei metus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "794817-795068; hash=6c8c0db65e4534921280e2ca072fd70f12bc17c227403cd6bcfada4ab6a595a9; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-65468
 ## Reikšmingi paminėjimai
@@ -77,8 +61,8 @@ Hubatsch^158.
     Be kitų veikalų, išsamią monografiją apie Prūsų hercogą Albrechtą
     davė Bonnos univ. prof. W. Hubatsch^158.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -93,8 +77,8 @@ Hubatsch^158.
     zahlreicher anderer von E. Joachim; Herausgegeben von W. Hubatsch.— Göttingen,
     1948.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -122,7 +106,8 @@ Hubatsch^158.
 - id: c-65468
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 270"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 270."
   citata_originali: |
     Regesta historico-diplomatica Ordinis S. Mariae Theutonicorum 1198—1525.— Pars
     II: Regesta privilegiorum Ordinis S. Mariae Theutonicorum / Bearbeitet unter Mitwirkung

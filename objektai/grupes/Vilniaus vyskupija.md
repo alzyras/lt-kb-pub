@@ -30,12 +30,6 @@ Lenkų didžponiams patarus, pir muoju Vilniaus diecezijos vyskupu Vladislovas J
 - t-001
   global_id: t-194302
   teiginys: "Lenkų didžponiams patarus, pir muoju Vilniaus diecezijos vyskupu Vladislovas Jogaila iš rinko Andrių iš Vasilevo Važilą, dar vadinamą Vasilionu, iš Jastžembcų giminės, lenką, Mažesniųjų brolių ordino vie nuolį, Cereto vyskupą, kadaise Vengrijos karalienės."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "241848-242542; hash=84853bd8f19656d46d8e04eb6bb0cab390c43250eeeec94d7067d422504d9657; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176894
 
@@ -43,12 +37,6 @@ Lenkų didžponiams patarus, pir muoju Vilniaus diecezijos vyskupu Vladislovas J
 - t-002
   global_id: t-194303
   teiginys: "Tas lėšas Vladislovas Jogaila dar padidino skirdamas katedrai ir vyskupams nemažą Vilniaus miesto dalį - visą plotą nuo pilies iki pat Šv."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "243575-243978; hash=ca7a5ff24e8491a26a255182aa424195bc693a87f2c07c7563ec7942fc60d15b; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176895
 ## Reikšmingi paminėjimai
@@ -71,8 +59,8 @@ Lenkų didžponiams patarus, pir muoju Vilniaus diecezijos vyskupu Vladislovas J
     titulai buvo atiduoti uoliausiems lenkų kunigams, platinan­
     tiems Lietuvoje Kristaus tikėjimą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -91,8 +79,8 @@ Lenkų didžponiams patarus, pir muoju Vilniaus diecezijos vyskupu Vladislovas J
     o kitoje pusėje - ligi Trakų kelio, dovanodamas ten ir
     aikštes, ir namus, net su gyventojais11.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

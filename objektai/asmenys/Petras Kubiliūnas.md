@@ -41,20 +41,6 @@ Petro Kubiliūno vadovaujamas dalinių išvedimas į Kauno gatves buvo pavojingi
 - t-001
   global_id: t-19193
   teiginys: "Petras Kubiliūnas 1934 m. vadovavo dalinių išvedimui į Kauno gatves, laikytam pavojingiausiu voldemarininkų pučo bandymu."
-  semantiniai_rysiai: "Petras Kubiliūnas siuntė į Kaunas (0.78)"
-  temporaliniai_duomenys: "įvykio data: 1934 m.; įvykio data: 1941-1942; įvykio data: 1942 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis sakinys taisytinas, kad tiesiogiai įvardytų asmens veiksmą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "330170-330857; hash=d4982107987c0c87cae567612382176372dc70106668ec8d3738e8f01eae91ee; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "siunte_i -> Kaunas: 0.78"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Petras Kubiliūnas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kaunas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Kubiliūnas vadovavo dalinių išvedimui į Kauno gatves."
   pagrindžia:
     - c-21938
 - susijęs iš [[objektai/zodynas/vadybos.md#claim-t-26341|vadybos]]: Nacių okupacijos metais vokiečių valdžia Lietuvos ministerijas pervadino vadybomis.
@@ -76,8 +62,8 @@ Petro Kubiliūno vadovaujamas dalinių išvedimas į Kauno gatves buvo pavojingi
     Petro Kubiliūno vadovaujamas dalinių išvedimas į Kauno gatves buvo pa-
     vojingiausias.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -108,7 +94,3 @@ Petro Kubiliūno vadovaujamas dalinių išvedimas į Kauno gatves buvo pavojingi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-19193
-
-## Ryšiai
-- Paskyrė Petras Kubiliūną: [[objektai/grupes/Vokiečiai]]
-- Petras Kubiliūnas siuntė į [[objektai/vietos/Kaunas]]

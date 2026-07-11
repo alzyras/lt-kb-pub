@@ -35,17 +35,6 @@ Pirmiausia kalbėjęs arkivyskupas savo skundą kryžiuo­ čiais trumpai užbai
 - t-002
   global_id: t-86783
   teiginys: "Popiežius nusprendė, kad Kryžiuočių ordino riteriai turi Rygos Bažnyčiai grąžinti paimtą turtą ir jos nebepuldinėti."
-  semantiniai_rysiai: "Kryžiuočių ordinas puolė Rygos vyskupija Rygos Bažnyčia (0.70)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "187097-188149; hash=6799cddc832eafd333d0a8a7162e49f7bf97de60716215a338af707ed46dff8f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Rygos vyskupija Rygos Bažnyčia: 0.70"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Rygos vyskupija Rygos Bažnyčia: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Sprendime įsakyta ordino riteriams nebepuldinėti Rygos Bažnyčios."
   pagrindžia:
     - c-82763
 ## Reikšmingi paminėjimai
@@ -73,8 +62,8 @@ Pirmiausia kalbėjęs arkivyskupas savo skundą kryžiuo­ čiais trumpai užbai
     gresiantys Bažnyčios garbei, turi būti išsklaidyti ir ateityje
     nekuriami.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -112,6 +101,3 @@ Pirmiausia kalbėjęs arkivyskupas savo skundą kryžiuo­ čiais trumpai užbai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86783
-
-## Ryšiai
-- Puolė Rygos vyskupija Rygos Bažnyčią: [[objektai/grupes/Kryžiuočių ordinas]]

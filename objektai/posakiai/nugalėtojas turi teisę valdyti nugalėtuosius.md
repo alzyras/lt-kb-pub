@@ -30,19 +30,6 @@ Kojelavičiaus argumente lietuviai teisėtai valdė Rusios krikščionis, nes nu
 - t-001
   global_id: t-185479
   teiginys: "Kojelavičiaus argumente lietuviai teisėtai valdė Rusios krikščionis, nes nugalėtojas turi teisę valdyti nugalėtuosius."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "16723-16959; hash=77bdbc761b0a51f4bfb350bf453d9031b464ad02d297a76d1d79242a63f014ed; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "nugalėtojas turi teisę valdyti nugalėtuosius: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=10"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"nugalėtojas turi teisę valdyti nugalėtuosius\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-168840
 ## Reikšmingi paminėjimai
@@ -57,8 +44,8 @@ Kojelavičiaus argumente lietuviai teisėtai valdė Rusios krikščionis, nes nu
     turi teisę valdyti nugalėtuosius. Lietuvius apkrikštijus,
     toji teisė padvigubėjusi.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -69,7 +56,8 @@ Kojelavičiaus argumente lietuviai teisėtai valdė Rusios krikščionis, nes nu
 - id: c-168840
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 11"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 11."
   citata_originali: |
     Lietuviai, net būdami pagonys, teisėtai valdę
     Rusios krikščionis (rutėnus, arba rusinus) — pravos­

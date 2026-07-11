@@ -39,19 +39,6 @@ UŽPELKIŲ KAUTYNĖS 241 fo} j= o a o Qa nn co ia co ae ## Puslapis 244 NKVD SMO
 - t-001
   global_id: t-40845
   teiginys: "MGB-KGB agentai-smogikai atliko svarbų vaidmenį galutinai sunaikinant ginkluotą rezistenciją Lietuvoje."
-  temporaliniai_duomenys: "įvykio data: 1949 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra gramatinis faktinis sakinys apie agentų-smogikų vaidmenį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "996147-996564; hash=12613ea21dd8335cf918f588f94225e276bde1a411462d085691c5e6158ab100; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Agentai-smogikai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=85"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Agentai-smogikai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-44719
 - susijęs iš [[objektai/paprociai/Agentų-smogikų infiltravimo į partizanų gretas ir provokacijų praktika.md#claim-t-67035|Agentų-smogikų infiltravimo į partizanų gretas ir provokacijų praktika]]: MGB-KGB agentai-smogikai suvaidino svarbų vaidmenį galutinai sunaikinant ginkluotą rezistenciją Lietuvoje.
@@ -88,8 +75,8 @@ UŽPELKIŲ KAUTYNĖS 241 fo} j= o a o Qa nn co ia co ae ## Puslapis 244 NKVD SMO
     respublikų atsiųsti čekistai su panašios veiklos patirtimi. Taip pat
     agentai buvo verbuojami iš suimtųjų partizanų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -132,6 +119,3 @@ UŽPELKIŲ KAUTYNĖS 241 fo} j= o a o Qa nn co ia co ae ## Puslapis 244 NKVD SMO
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40845
-
-## Ryšiai
-- Agentai-smogikai gyveno [[objektai/vietos/Baltija]], [[objektai/vietos/Ukraina]]

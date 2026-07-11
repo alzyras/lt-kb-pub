@@ -64,9 +64,6 @@ Nenurodyta
 - t-005
   global_id: t-168674
   teiginys: "Liberum veto reiškė laisvojo pasipriešinimo teisę, dėl kurios daug seimų išsiskirstydavo nieko nenuveikę."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "558903-559206; hash=724f6921c725dc04d3b3f8050a0a50c7450d14c2bc2cc5c4b686b5818e393d13; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-153470
 - susijęs iš [[objektai/zodynas/Bajorų respublika liberum veto.md#claim-t-21976|Bajorų respublika liberum veto]]: Liberum veto teisė reikalavo Seimo sprendimus priimti vienu balsu ir trukdė stiprinti bei centralizuoti valstybę.
@@ -96,8 +93,8 @@ Nenurodyta
 
     nieko nenuveikę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

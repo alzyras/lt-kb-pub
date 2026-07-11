@@ -30,22 +30,6 @@ Narbuto pasakojime Jarmerikas, pakviestas padėti danų karaliui Helgei, įsiver
 - t-001
   global_id: t-191184
   teiginys: "Narbuto pasakojime Jarmerikas, pakviestas padėti danų karaliui Helgei, įsiveržė į slavų kraštą ir sumušė venedų karalių Skalką."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Jarmerikas puolė Slavai (0.92); Jarmerikas rėmė Helgė (0.90); Jarmerikas kariavo prieš Venedai (0.76)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "433513-433841; hash=04febb83e2b6ed8c5f0f747a536be4ae70402b49c00ca51db58b976b612cb02d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Slavai: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jarmerikas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Slavai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Įsiveržimas į slavų kraštą tiesiogiai rodo puolimą prieš slavų pusę."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174066
 
@@ -53,22 +37,6 @@ Narbuto pasakojime Jarmerikas, pakviestas padėti danų karaliui Helgei, įsiver
 - t-002
   global_id: t-191185
   teiginys: "Narbuto pasakojime Jarmerikas pavergė slavų kraštą, įsiveržė į Prūsiją, užgrobė Sembą ir Kuršą žiauriai engdamas žmones."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Jarmerikas užėmė Semba (0.96); Jarmerikas užkariavo Slavai (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "433842-434212; hash=42eed353acc1a1e18fc826a230ab9913e66b7765a04c2a88b46ec5d047d7289a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Semba: 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jarmerikas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Semba: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai teigia, kad Jarmerikas užgrobė Sembą."
-  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174067
 - susijęs iš [[objektai/asmenys/Helgė.md#claim-t-191412|Helgė]]: Narbuto pasakojime danų karalius Helgė kariavo su salas užėmusiais slavais, o į pagalbą jam buvo pakviestas Jarmerikas.
@@ -98,8 +66,8 @@ Narbuto pasakojime Jarmerikas, pakviestas padėti danų karaliui Helgei, įsiver
     į slavų kraštą; venedų karalius Skalka buvo sumuštas ir
     krito mūšio lauke, o jo kraštas pateko į priešų rankas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -117,8 +85,8 @@ Narbuto pasakojime Jarmerikas, pakviestas padėti danų karaliui Helgei, įsiver
     plytinčius kraštus, žiauriai liedamas žmonių kraują ir be
     galo juos engdamas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -129,7 +97,8 @@ Narbuto pasakojime Jarmerikas, pakviestas padėti danų karaliui Helgei, įsiver
 - id: c-174066
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 245"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 245."
   citata_originali: |
     Tuomet ir danų karalius Helgė kariavo su sla­
     vais, kurie buvo užėmę nemažai salų. Pakviestas į pagal­
@@ -147,7 +116,8 @@ Narbuto pasakojime Jarmerikas, pakviestas padėti danų karaliui Helgei, įsiver
 - id: c-174067
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 245"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 245."
   citata_originali: |
     Tačiau Jarmeriko įniršiui to nepakako. Jis įsakė pririšti
     40 slavų belaisvių prie laukinių vilkų ir išvyti juos į miš­
@@ -164,9 +134,8 @@ Narbuto pasakojime Jarmerikas, pakviestas padėti danų karaliui Helgei, įsiver
     - t-191185
 
 ## Ryšiai
-- Jarmerikas puolė [[objektai/vietos/Kuršas]], [[objektai/vietos/Semba]], [[objektai/asmenys/Skalka]], [[objektai/grupes/Slavai]]
-- Jarmerikas užėmė [[objektai/vietos/Kuršas]], [[objektai/vietos/Semba]]
+- Jarmerikas puolė [[objektai/vietos/Semba]], [[objektai/grupes/Slavai]]
+- Jarmerikas užėmė [[objektai/vietos/Semba]]
 - Jarmerikas surengė žygį į [[objektai/ivykiai/Jarmeriko įsiveržimas į Prūsiją, Sembą ir Kuršą]], [[objektai/ivykiai/Jarmeriko įsiveržimas į slavų kraštą ir Skalkos žūtis]]
-- Jarmerikas kariavo prieš [[objektai/asmenys/Skalka]], [[objektai/grupes/Slavai]], [[objektai/grupes/Venedai]]
 - Jarmerikas rėmė [[objektai/asmenys/Helgė]]
 - Jarmerikas užkariavo [[objektai/grupes/Slavai]]

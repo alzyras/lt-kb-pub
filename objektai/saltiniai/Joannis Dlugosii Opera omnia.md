@@ -40,19 +40,6 @@ media_all_json: |-
 - t-001
   global_id: t-39901
   teiginys: "Joannis Dlugosii Opera omnia leidinys, parengtas Aleksandro Przezdzieckio, 1877 m. išleistas Krokuvoje."
-  temporaliniai_duomenys: "įvykio data: 1877 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pateikia bibliografinę informaciją, iš kurios galima suformuluoti tvarkingą sakinį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1081190-1081515; hash=22406c37ff1ef95867f6facb42ede08f376421e76bd084822f62b0b41772fc10; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> J. Dlugošas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Joannis Dlugosii Opera omnia: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "J. Dlugošas: mention_match, author, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Joannis Dlugosii Opera omnia\" parinktas kaip owner_note_path. Targetas \"J. Dlugošas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-41706
 
@@ -60,12 +47,6 @@ media_all_json: |-
 - t-002
   global_id: t-193750
   teiginys: "5% „VYTAUTAS RIKIUOJA PULKUS“ Joannis Dlugosii Opera omnia..., p. 19-20."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1081516-1081591; hash=f1b371814bb4066f0cf35f05bc726c7f38784fc528ee78033cbc4640c02c5a44; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176410
 ## Reikšmingi paminėjimai
@@ -80,8 +61,8 @@ media_all_json: |-
     XI, XII, Krakow, 1877, P. 17. Publikacijos internete: http://www.polona.pl/dlibra/
     doccontent?id=17339&from=FBC; http://archive.org/details/dzieawszystkieoounkngoog.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -93,8 +74,8 @@ media_all_json: |-
   citata_originali: |
     P. 5% „VYTAUTAS RIKIUOJA PULKUS“ Joannis Dlugosii Opera omnia..., p. 19-20.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

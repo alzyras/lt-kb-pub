@@ -42,16 +42,6 @@ media_all_json: |-
 - t-003
   global_id: t-68823
   teiginys: "Prie Niešavos jie iš Konrado gavo žemių su pilaite ir pasistatė Fogelzango pilį."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "106055-106285; hash=32d2be60da3987f4f5538cc135ebe436caea8fe13bf5709d48d2f25d692911ab; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Livonija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Niešava: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Livonija: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Niešava\" parinktas kaip owner_note_path. Targetas \"Livonija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-68309
 
@@ -59,20 +49,6 @@ media_all_json: |-
 - t-002
   global_id: t-68824
   teiginys: "1424 m. Niešavos miestelyje sudaryta prekybos sutartis dėl laisvo tranzito."
-  semantiniai_rysiai: "Maskva prekiavo su Vokiečiai (0.76); Rusija prekiavo su Vokiečiai (0.76)"
-  temporaliniai_duomenys: "sutarties data: 1424 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Perrašyta gramatiškai, pašalinus žodžių lūžius."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "106055-106285; hash=32d2be60da3987f4f5538cc135ebe436caea8fe13bf5709d48d2f25d692911ab; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "prekiavo_su -> Vokiečiai: 0.76"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Rusija: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Vokiečiai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata tiesiogiai mini Rusijos pirklių teisę prekiauti vokiečių Ordino žemėse."
   pagrindžia:
     - c-37604
 - susijęs iš [[objektai/ivykiai/Lietuvos ir ordino sienos galutinis patvirtinimas pagal Melno taiką (1422 m.).md#claim-t-66698|Lietuvos ir ordino sienos galutinis patvirtinimas pagal Melno taiką (1422 m.)]]: Melno taika sutarta siena išsilaikė penkis šimtmečius, Lietuvai atiteko žymi dalis Žemaičių ir Sūduvos dykros, o Lenkijai Niešavos kraštas.
@@ -103,8 +79,8 @@ media_all_json: |-
     čių ir Livonijos Ordinų žemėse, o šių pastarųjų pirkliai — aukš­
     čiau išvardintuose kraštuose^4 ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -123,8 +99,8 @@ media_all_json: |-
     nuolatinį karą su aisčių
     kiltimis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

@@ -46,16 +46,6 @@ Nenurodyta
 - t-003
   global_id: t-09541
   teiginys: "Vilniuje Algirdą džiaugsmingai pasitiko žmonės, senovės papročiu plodami rankomis ir giedodami „Lado! Lado!“."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "189363-189499; hash=c6a350b595be9a977909737cb6c85ef24dc1da241b2d65496ee44a0263f31db7; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
-  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Džiaugsmingas valdovo pasitikimas plojant rankomis ir giedant „Lado! Lado!“: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person, gap=8"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Džiaugsmingas valdovo pasitikimas plojant rankomis ir giedant „Lado! Lado!“\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-12303
 
@@ -63,16 +53,6 @@ Nenurodyta
 - t-004
   global_id: t-09542
   teiginys: "Vilniuje Algirdą pasitikę žmonės plojo rankomis ir giedojo „Lado! Lado!“."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "189363-189499; hash=c6a350b595be9a977909737cb6c85ef24dc1da241b2d65496ee44a0263f31db7; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
-  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Džiaugsmingas valdovo pasitikimas plojant rankomis ir giedant „Lado! Lado!“: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person, gap=30"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Džiaugsmingas valdovo pasitikimas plojant rankomis ir giedant „Lado! Lado!“\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-12303
 ## Reikšmingi paminėjimai
@@ -85,8 +65,8 @@ Nenurodyta
     plodami rankomis ir „Lado! Lado!“ giedo-
     dami (M. Stryjkovskis).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

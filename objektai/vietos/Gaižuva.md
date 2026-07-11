@@ -42,20 +42,6 @@ Taip pat du kartu (1292, 1294) ordino kariuomenė pasiekė Nemuno dešiniojo kra
 - t-001
   global_id: t-32157
   teiginys: "1292 ir 1294 m. Ordino kariuomenė nusiaubė Gaižuvos sritį prie Nemuno dešiniojo kranto tarp Dubysos ir Nevėžio."
-  semantiniai_rysiai: "Kryžiuočių ordinas puolė Gaižuva (0.82)"
-  temporaliniai_duomenys: "įvykio data: 1294 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo Gaižuvos srities nusiaubimą ir vietą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "602692-603159; hash=2f92eb69278c48de2a25e1990139d4ae51bd7015b1153bd682d6f569374721e8; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Gaižuva: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Gaižuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Ordino kariuomenės Gaižuvos srities nusiaubimą."
   pagrindžia:
     - c-33839
 - susijęs iš [[objektai/ivykiai/1294 m. žiemos Paštuvos ir Gaižuvos valsčių nuniokojimas.md#claim-t-183910|1294 m. žiemos Paštuvos ir Gaižuvos valsčių nuniokojimas]]: Per 1294 m. žiemos Paštuvos ir Gaižuvos valsčių puolimą buvo nužudyta arba paimta į nelaisvę 100 žmonių, o kariuomenė grįžo su dideliu grobiu.
@@ -95,8 +81,8 @@ Taip pat du kartu (1292, 1294) ordino kariuomenė pasiekė Nemuno dešiniojo kra
     stovie ») sritis^27. 0 1295 kryžiuočiai sunaikino prie Nemuno stiprią
     pilį « Kymel »^28.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -124,6 +110,3 @@ Taip pat du kartu (1292, 1294) ordino kariuomenė pasiekė Nemuno dešiniojo kra
   patikimumo_saltinis: ai
   pagrindzia:
     - t-32157
-
-## Ryšiai
-- Puolė Gaižuvą: [[objektai/grupes/Kryžiuočių ordinas]]

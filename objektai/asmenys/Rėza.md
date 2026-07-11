@@ -31,21 +31,6 @@ Rėzos „Dainos“ Narbutui buvo šaltinis teiginiui, kad senovės prūsai miru
 - t-001
   global_id: t-190114
   teiginys: "Rėzos „Dainos“ Narbutui buvo šaltinis teiginiui, kad senovės prūsai mirusiųjų valdovę vadino Giltine."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "226489-226617; hash=f6508527b6e3735757ea1a39db48c0b168ca6ae098740e0813e474a3c57ebf17; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Prūsai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Rėza: owner_note_path, person"
-  ryšio_targeto_parinkimas: "Prūsai: mention_match, group, gap=62"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rėza\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172997
 
@@ -53,21 +38,6 @@ Rėzos „Dainos“ Narbutui buvo šaltinis teiginiui, kad senovės prūsai miru
 - t-002
   global_id: t-190115
   teiginys: "Narbutas rašo, kad Rėza pas senovės prūsus matė Šilinyčių, dar vadintą Šilo Radikiu, ir lygino jį su slavų Radegastu."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "301435-302144; hash=214c1a2d3c3a639eda5463926ba4ec1bfaf5e30aca38bea25c7b79dbc8409dce; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Prūsai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Rėza: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Prūsai: mention_match, group, gap=17"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rėza\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172998
 
@@ -75,21 +45,6 @@ Rėzos „Dainos“ Narbutui buvo šaltinis teiginiui, kad senovės prūsai miru
 - t-003
   global_id: t-190116
   teiginys: "Rėza, Narbuto perteikimu, pažymėjo, kad skaičius devyni Prūsijos lietuviams buvo religinis ir perimtas iš skandinavų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "323831-324177; hash=54a7e518fb4a405018167d2d967f2ff176c7cfaa4133d327cb45d1b7a9d0dac2; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Prūsija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Rėza: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Prūsija: mention_match, place, gap=56"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rėza\" parinktas kaip owner_note_path. Targetas \"Prūsija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172999
 
@@ -97,14 +52,6 @@ Rėzos „Dainos“ Narbutui buvo šaltinis teiginiui, kad senovės prūsai miru
 - t-004
   global_id: t-190967
   teiginys: "Narbutas Rėzą vadina puikiu lietuvių kalbos žinovu ir jo surinktų giesmių leidėju, priekaištavusiu skeptiškiems kronikų kritikams."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "52704-53234; hash=487531c5c770c1aa6d479cd316b26d7dd2aa46a6722ac6c857e3a4a19eb7e977; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173849
 - susijęs iš [[objektai/asmenys/Liudvikas Rėza.md#claim-t-188578|Liudvikas Rėza]]: Narbutas nurodo, kad pono Rėzos tyrimai patvirtino lietuvių vyresnybės siųstų lazdų paprotį.
@@ -123,8 +70,8 @@ Rėzos „Dainos“ Narbutui buvo šaltinis teiginiui, kad senovės prūsai miru
     Senovės prūsai ją, kaip mirusiųjų valdovę, vadino Giltine 10
     10 Rėza. Dainos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -152,8 +99,8 @@ Rėzos „Dainos“ Narbutui buvo šaltinis teiginiui, kad senovės prūsai miru
     Kaip praneša Ksaveras Bogušas11, tai buvo tam tikro kal­
     nų dievaičio, arba kalnų globėjo, vardas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -171,8 +118,8 @@ Rėzos „Dainos“ Narbutui buvo šaltinis teiginiui, kad senovės prūsai miru
     tam tikrus periodus, ir tam skaičiui būdavo priskiriamos įvai­
     rios ypatybės.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -197,8 +144,8 @@ Rėzos „Dainos“ Narbutui buvo šaltinis teiginiui, kad senovės prūsai miru
     sakė tiesą, pasitvirtinančią juo labiau tam, kuris arti­
     miau susipažįsta su esamais senovės paminklais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -209,7 +156,8 @@ Rėzos „Dainos“ Narbutui buvo šaltinis teiginiui, kad senovės prūsai miru
 - id: c-172997
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 129"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 129."
   citata_originali: |
     Lasickis šiame pavadinime klaidingai įžiūri
     dievą.
@@ -254,7 +202,8 @@ Rėzos „Dainos“ Narbutui buvo šaltinis teiginiui, kad senovės prūsai miru
 - id: c-172999
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 189"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 189."
   citata_originali: |
     O į klausimą, kada apsi­
     vilkti baltus vestuvinius drabužius, motina atsako: tą dieną,

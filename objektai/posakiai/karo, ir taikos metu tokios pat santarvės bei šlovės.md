@@ -30,20 +30,6 @@ Kernavėje rūmų maršalas ragino Giliginą ir Trobį siekti tokios pat santarv
 - t-001
   global_id: t-185477
   teiginys: "Kernavėje rūmų maršalas ragino Giliginą ir Trobį siekti tokios pat santarvės bei šlovės karo ir taikos metu."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Giliginas buvo sūnus Germantas (0.98); Trobius buvo brolis Giliginas (0.90); Trobius valdė Žemaitija (0.86)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "222578-223114; hash=24f7d0a031b9a02e4b0c031fb89e8800d4a0fa09219a2f41e76a15fea2f51aaa; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sunus -> Germantas: 0.98"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Giliginas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Germantas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata tiesiogiai įvardija Giliginą Germanto vyresniuoju sūnumi."
   pagrindžia:
     - c-168838
 ## Reikšmingi paminėjimai
@@ -66,8 +52,8 @@ Kernavėje rūmų maršalas ragino Giliginą ir Trobį siekti tokios pat santarv
     paprotys, kuriuo valdovui suteikdavo aukščiausiąją ga­
     lią žiūrėti valstybės reikalų ir viduje, ir svetur.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -78,7 +64,8 @@ Kernavėje rūmų maršalas ragino Giliginą ir Trobį siekti tokios pat santarv
 - id: c-168838
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 131"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 131."
   citata_originali: |
     Sukvietus Kernavėje didikų sueigą, Germanto
     vyresnysis sūnus Giliginas buvo paskelbtas Lietuvos

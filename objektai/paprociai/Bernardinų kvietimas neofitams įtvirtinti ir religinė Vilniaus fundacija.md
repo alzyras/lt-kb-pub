@@ -63,19 +63,6 @@ Nenurodyta
 - t-001
   global_id: t-87263
   teiginys: "1469 m. karaliaus pavedimu į Vilnių pakviestiems bernardinams bažnyčiai ir vienuolynui statyti buvo atiduotas slėnis prie Vilnios."
-  temporaliniai_duomenys: "įvykio data: 900 m; įvykio data: 1469 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pirminis teiginys nutrūksta ir turi OCR triukšmo, bet citata leidžia jį sutvarkyti."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "458419-459748; hash=d76cb25289e933cea9726046d16ed1e5c3e4839dcbd6bb3319ac71ffcde39b00; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Karališkasis malūnas Vilniuje: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Bernardinų kvietimas neofitams įtvirtinti ir religinė Vilniaus fundacija: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Karališkasis malūnas Vilniuje: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bernardinų kvietimas neofitams įtvirtinti ir religinė Vilniaus fundacija\" parinktas kaip owner_note_path. Targetas \"Karališkasis malūnas Vilniuje\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-83242
 ## Reikšmingi paminėjimai
@@ -128,8 +115,8 @@ Nenurodyta
     VILNIAUS MIESTO ISTORIJA II TOMAS
     nusidriekęs palei Vilnios upę prie Karališkojo malūno.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

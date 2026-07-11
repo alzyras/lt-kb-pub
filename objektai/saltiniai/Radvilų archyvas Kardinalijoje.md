@@ -40,19 +40,6 @@ Moks­ lininkui ir gerbiamam bičiuliui Mikalojui Malinovskiui dėkingas už gal
 - t-002
   global_id: t-88326
   teiginys: "Radvilų archyve Kardinalijoje buvęs 1493 m. aktas buvo surašytas gryna slavų kalba ir puikiai išsilaikęs."
-  temporaliniai_duomenys: "įvykio data: 1493 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Antraštinis triukšmas pakeistas citatos palaikomu faktu apie archyve buvusį aktą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "693446-693899; hash=53ddf6c52b5781e2234b48d94d6aab44e5c633b5285de95ffaf939df248bbc8b; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kardinalija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Radvilų archyvas Kardinalijoje: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Kardinalija: mention_match, place, gap=16"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Radvilų archyvas Kardinalijoje\" parinktas kaip owner_note_path. Targetas \"Kardinalija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-84306
 
@@ -60,16 +47,6 @@ Moks­ lininkui ir gerbiamam bičiuliui Mikalojui Malinovskiui dėkingas už gal
 - t-001
   global_id: t-88327
   teiginys: "Radvilų archyve Kardinalijoje buvo saugomi vertingi istorijos šaltiniai, prie kurių prieigą palengvino Mikalojus Malinovskis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "46996-47821; hash=a1ba9649bfa692f32e53720b9a789eb9add28c5038640d586f02a300d64142a0; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kardinalija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Radvilų archyvas Kardinalijoje: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Kardinalija: mention_match, place, gap=16"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Radvilų archyvas Kardinalijoje\" parinktas kaip owner_note_path. Targetas \"Kardinalija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-84305
 ## Reikšmingi paminėjimai
@@ -93,8 +70,8 @@ Moks­ lininkui ir gerbiamam bičiuliui Mikalojui Malinovskiui dėkingas už gal
     mokslo imasi, iš savo turtingos bibliotekos Ščiorsuose man nešė
     viską, ko tik reikėjo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -119,8 +96,8 @@ Moks­ lininkui ir gerbiamam bičiuliui Mikalojui Malinovskiui dėkingas už gal
     4to, puikiausiai išsilaikęs. Uždėtas mažasis antspaudas, vaiz­
     duojantis Vytį su aplink neįskaitoma legenda.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

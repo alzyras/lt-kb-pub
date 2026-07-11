@@ -34,17 +34,6 @@ Kai Schwetzo komtūras Henrikas von Plauen į Marienburgą surinko apie 5000 vyr
 - t-001
   global_id: t-30262
   teiginys: "Schwetzo komtūras Henrikas von Plauenas Marienburge surinko apie 5000 vyrų įgulą."
-  semantiniai_rysiai: "Henrikas von Plauen gynė Marienburgas (0.82)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "933294-933676; hash=4e6e2bb11022b00b9ea16d16d47563842c67e9237385308322cffa12ff71024a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyne -> Marienburgas: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Henrikas von Plauen: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Marienburgas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Henrikas von Plauen surinko įgulą Marienburge, todėl remiamas miesto ar tvirtovės gynimas."
   pagrindžia:
     - c-32737
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179111|Kryžiuočių ordinas]]: Po pirmojo katastrofos smūgio Kryžiuočių ordinas ėmė atsipeikėti, kai Henrikas von Plauen Marienburge surinko apie 5000 vyrų įgulą.
@@ -65,8 +54,8 @@ Kai Schwetzo komtūras Henrikas von Plauen į Marienburgą surinko apie 5000 vyr
     ordinu atskirai padarytomis paliaubomis Livonijos kryžiuočius
     _sulaikė_ nuo dalyvavimo Žalgirio kautynėse.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -94,6 +83,3 @@ Kai Schwetzo komtūras Henrikas von Plauen į Marienburgą surinko apie 5000 vyr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-30262
-
-## Ryšiai
-- Henrikas von Plauen gynė [[objektai/vietos/Marienburgas]]

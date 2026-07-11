@@ -53,16 +53,6 @@ Nenurodyta
 - t-001
   global_id: t-87114
   teiginys: "XIII amžiaus viduryje dabartinio Vilniaus vietoje buvo medinių namų gyvenvietė."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "54672-55275; hash=8ad4f3e86b1f5dc18fe1413205dd73ffe53df83209bc5457ec82605f9cd7a526; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Islandija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mediniai namai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Islandija: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mediniai namai\" parinktas kaip owner_note_path. Targetas \"Islandija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-83093
 ## Reikšmingi paminėjimai
@@ -84,8 +74,8 @@ Nenurodyta
     šiaurės kronikos byloja ne apie vie­
     ną tokį žygį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

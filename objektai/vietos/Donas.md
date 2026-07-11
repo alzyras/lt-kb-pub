@@ -33,17 +33,6 @@ Ten jis žygiavo, norėdamas suvaldyti ne­ paklusnius jam Okos ir Dono aukštup
 - t-001
   global_id: t-36196
   teiginys: "Vytautas žygiavo į Okos ir Dono aukštupius suvaldyti jam nepaklusnių kunigaikščių."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) surengė žygį į Donas (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "350232-350431; hash=5773cf51e53543cde368f6f699e0ca4611347a4270361015596da1b06fe70d77; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "surenge_zygi_i -> Donas: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Donas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Vytauto žygį į Dono aukštupius."
   pagrindžia:
     - c-37341
 - susijęs iš [[objektai/zodynas/ginekokratuinenai.md#claim-t-192151|ginekokratuinenai]]: Narbutas prie sarmatų galiausiai palieka tik ginekokratuinenus ir vadina juos medų-skitų gentimi.
@@ -184,8 +173,8 @@ Ten jis žygiavo, norėdamas suvaldyti ne­ paklusnius jam Okos ir Dono aukštup
     vienas kitas, kaip, pav., Odojevo, buvo nuo Vytauto atsimetę.
     Vytautas ruošėsi gerai juos nubausti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -211,6 +200,5 @@ Ten jis žygiavo, norėdamas suvaldyti ne­ paklusnius jam Okos ir Dono aukštup
     - t-36196
 
 ## Ryšiai
-- Buvo kelionės vieta: [[objektai/grupes/Alanai]], [[objektai/grupes/Budinai]], [[objektai/grupes/Gelonai]], [[objektai/grupes/Hiriai]]
 - Buvo žygio kryptis: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Gyvenamoji vieta: [[objektai/grupes/Budinai]], [[objektai/grupes/Gelonai]], [[objektai/grupes/Kolchai]], [[objektai/grupes/Pelazgai]], [[objektai/grupes/Sarmatai]]
+- Gyvenamoji vieta: [[objektai/grupes/Sarmatai]]

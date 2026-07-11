@@ -35,17 +35,6 @@ Neišlaikę spaudimo totoriai bėgo“ žuvo daug murzy ir ulonų.
 - t-001
   global_id: t-38767
   teiginys: "Neišlaikę Algirdo pajėgų spaudimo totoriai bėgo, o mūšyje žuvo daug murzų ir ulonų."
-  semantiniai_rysiai: "Algirdas (Lietuvos valdovas) kariavo prieš Totoriai (0.86)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "180101-180682; hash=91abfa5dfed4c4b83f6f278bba262eb9a9c12517e4b59918d96d9309f3ee4e74; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Totoriai: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Totoriai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata nurodo Algirdo pajėgų spaudimą ir totorių bėgimą, todėl tiesiogiai remia karinį konfliktą prieš totorius."
   pagrindžia:
     - c-40571
 
@@ -53,20 +42,6 @@ Neišlaikę spaudimo totoriai bėgo“ žuvo daug murzy ir ulonų.
 - t-002
   global_id: t-183718
   teiginys: "Po Algirdo pajėgų spaudimo totoriai bėgo, o mūšyje žuvo daug murzų ir ulonų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Algirdas (Lietuvos valdovas) kariavo prieš Totoriai (0.86)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "180014-180303; hash=182e6d2451cc002671325dfc7f0aa1f73ba38edfe4c3f4e9b5ba53f5d2b0bcdd; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Totoriai: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Totoriai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata nurodo Algirdo pajėgų spaudimą ir totorių bėgimą, todėl tiesiogiai remia Algirdo karinį veikimą prieš totorius."
   pagrindžia:
     - c-167106
 - susijęs iš [[objektai/asmenys/Sivindukas.md#claim-t-40423|Sivindukas]]: Murza Sivindukas, kunigaikščio Madyko sūnus, vadovavo mūšyje dalyvavusiems totoriams.
@@ -99,8 +74,8 @@ Neišlaikę spaudimo totoriai bėgo“ žuvo daug murzy ir ulonų.
     vietos), kurioje nebuvo nė vie-
     nos pilies.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -119,8 +94,8 @@ Neišlaikę spaudimo totoriai bėgo“ žuvo daug murzy ir ulonų.
     Neišlaikę spaudimo totoriai bėgo“ žuvo
     daug murzy ir ulonų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

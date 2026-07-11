@@ -40,11 +40,6 @@ Caland, W.
 - t-001
   global_id: t-31058
   teiginys: "W. Caland parašė darbą „Die vorgeschichtlichen baltischen Totengebräuche“, paskelbtą ARW 1914 m."
-  temporaliniai_duomenys: "įvykio data: 1914 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "412325-412699; hash=dfcc593fab10f08f169ca131195d21312f51fb27828e0884d8454eadfae10e32; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-33190
 ## Reikšmingi paminėjimai
@@ -59,8 +54,8 @@ Caland, W.
     schen Totengebräuche,_ ARW, t. 17, 1914. — Dundulienė, P. : _Namų
     židinio kultas Lietuvoje,_ IstV, t. 6, 1964, 125-151 p. — (”) _Senovės lietu-_
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

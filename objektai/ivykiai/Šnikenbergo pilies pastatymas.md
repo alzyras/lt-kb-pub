@@ -49,17 +49,6 @@ Nenurodyta
 - t-001
   global_id: t-62541
   teiginys: "Broliai ant kalvos prieš tiltą į Baigos pilies lauką pastatė Šnikenbergo pilį ir įkurdino joje brolius, Hertvigą bei kitus karingus vyrus."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "267770-268153; hash=7dfe92031dad160858d36c6fb6e874aec2df669196dbc6a7894c93b3363caa61; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Šnikenbergas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Šnikenbergo pilies pastatymas (pilis): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Šnikenbergas: mention_match, place, gap=21"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šnikenbergo pilies pastatymas (pilis)\" parinktas kaip owner_note_path. Targetas \"Šnikenbergas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-63239
 ## Reikšmingi paminėjimai
@@ -80,8 +69,8 @@ Nenurodyta
 
                         25.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -92,7 +81,8 @@ Nenurodyta
 - id: c-63239
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 81"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 81."
   citata_originali: |
     24. Apie Šnikenbergo pilies pastatymą
 

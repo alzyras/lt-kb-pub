@@ -30,20 +30,6 @@ Andriejus Šemiačičius kartu su Jakovu Zachariničiumi ir Andrejumi Možaiskiu
 - t-001
   global_id: t-186177
   teiginys: "Andriejus Šemiačičius kartu su Jakovu Zachariničiumi ir Andrejumi Možaiskiu vedė priešo pajėgas į Severską."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Andriejus Šemiačičius surengė žygį į Severskas (0.83)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "991855-992314; hash=1b226cdc1fcdb1a32e6d12f0abe5ec23122f6308c2b4889e4ad28b32966b29c4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "surenge_zygi_i -> Severskas: 0.83"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Andriejus Šemiačičius: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Severskas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad priešo jėgos, vedamos Andriejaus Šemiačičiaus, patraukė į Severską."
   pagrindžia:
     - c-169538
 ## Reikšmingi paminėjimai
@@ -68,8 +54,8 @@ Andriejus Šemiačičius kartu su Jakovu Zachariničiumi ir Andrejumi Možaiskiu
     priešui: Putivlis, Toropecas,
     Zalidovas bei kitos pilys ir apygardos.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -80,7 +66,8 @@ Andriejus Šemiačičius kartu su Jakovu Zachariničiumi ir Andrejumi Možaiskiu
 - id: c-169538
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 560"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 560."
   citata_originali: |
     Kodėl vėliau Aleksandras su kariuomene patraukė
     link Polocko, nei kur parašyta radau, nei pats atspėti
@@ -103,6 +90,3 @@ Andriejus Šemiačičius kartu su Jakovu Zachariničiumi ir Andrejumi Možaiskiu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186177
-
-## Ryšiai
-- Andriejus Šemiačičius surengė žygį į [[objektai/vietos/Severskas]]

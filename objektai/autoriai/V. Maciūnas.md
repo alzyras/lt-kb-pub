@@ -40,14 +40,6 @@ Maciūnas : Orzechowski, LE, t.
 - t-001
   global_id: t-194840
   teiginys: "Susidomėjimas lietuvių mitologija plito tarp Vilniaus universiteto studentų ir profesorių, nors jo rektorius Jonas Sniadeckis ir piktinosi jau nųjų lenkų romantikų susižavėjimu senaisiais tikėjimais, sak 1 Maciūnas L Lituanistinis sąjūdis XIX a."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "26720-27000; hash=4a21cc7dd031cf937a30c8a8bfb9546dd9ddf3cdb02c0330c53da839781781ec; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-177236
 ## Reikšmingi paminėjimai
@@ -63,8 +55,8 @@ Maciūnas : Orzechowski, LE, t.
     1 Maciūnas L Lituanistinis sąjūdis XIX a. pradžioje. -  K., 1939. -
     P. 34.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -75,7 +67,8 @@ Maciūnas : Orzechowski, LE, t.
 - id: c-177236
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 17"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 17."
   citata_originali: |
     Susidomėjimas
     lietuvių mitologija plito tarp Vilniaus universiteto studentų ir

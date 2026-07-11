@@ -30,14 +30,6 @@ Istorija netgi nedviprasmiškai nurodo šios didelės pergalės prie žastį, o 
 - t-001
   global_id: t-194919
   teiginys: "Istorija netgi nedviprasmiškai nurodo šios didelės pergalės prie žastį, o būtent dviejų minėtųjų ponų ir trečiojo, vadinamo Onevu, perėjimą į priešo pusę."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "427391-427724; hash=a899f6fc2da5e5821e27b94159ea5005a867e8612e99a6cfbc0cdd3753bf345e; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-177315
 - susijęs iš [[objektai/asmenys/Dagas.md#claim-t-191263|Dagas]]: Narbutas pasakoja, kad Dagas liko gyvas po kautynių, kuriose žuvo kiti rusų vadai, ir su Umaru bei Onevu perėjo į priešo pusę.
@@ -56,8 +48,8 @@ Istorija netgi nedviprasmiškai nurodo šios didelės pergalės prie žastį, o 
     Sis vardas yra neabejotinai slaviškas ir reiškia dirbantį muzikos
     instrumentų stygas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -68,7 +60,8 @@ Istorija netgi nedviprasmiškai nurodo šios didelės pergalės prie žastį, o 
 - id: c-177315
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 241"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 241."
   citata_originali: |
     Šiose kautynėse žu­
     vo visi rusų vadai, išskyrus O Umarą ir Dagą. Istorija

@@ -30,24 +30,6 @@ Narbutas Avitą vaizduoja kaip visigotų išrinktą imperatorių, kuris 457 m., 
 - t-001
   global_id: t-191371
   teiginys: "Narbutas Avitą vaizduoja kaip visigotų išrinktą imperatorių, kuris 457 m., Ricimerui įsakius, atsisakė aukšto posto."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 457 m"
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Į sakinį įtraukta citatoje nurodyta 457 m. data ir aiškus Avito veiksmas. Vertinamasis vaizdavimas paliktas su Narbuto atribucija."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "559521-559964; hash=b7ea3ead98e32ee62afb2f9b17a36cdf29284a41f960a0eb9beb1ed9ff8d70e7; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Ricimeras: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Avitas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Ricimeras: mention_match, person, gap=66"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Avitas\" parinktas kaip owner_note_path. Targetas \"Ricimeras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:43Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174253
 - susijęs iš [[objektai/asmenys/Ricimeras.md#claim-t-191311|Ricimeras]]: Narbutas pasakoja, kad 457 m. svebų samdytas karvedys Ricimeras paėmė valdžią į savo rankas, Avitui sėdint imperatoriaus soste.
@@ -68,8 +50,8 @@ Narbutas Avitą vaizduoja kaip visigotų išrinktą imperatorių, kuris 457 m., 
     imperatoriumi. Jis, Ricimerui įsakius, atsisakė savo aukš­
     to posto.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -80,7 +62,8 @@ Narbutas Avitą vaizduoja kaip visigotų išrinktą imperatorių, kuris 457 m., 
 - id: c-174253
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 312"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 312."
   citata_originali: |
     315
     Dabar panagrinėkime tai, kaip sekėsi romėnams Va­

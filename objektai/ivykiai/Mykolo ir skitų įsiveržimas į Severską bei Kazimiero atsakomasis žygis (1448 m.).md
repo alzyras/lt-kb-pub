@@ -48,22 +48,6 @@ Nenurodyta
 - t-001
   global_id: t-185755
   teiginys: "1448 m. Mykolui su skitais įsiveržus į Severską, Kazimieras atsiėmė užgrobtas pilis ir išvijo Mykolą iš visų žemių."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1448 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalintas OCR triukšmas ir suformuluotas pilnas sakinys apie įvykį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "855488-856069; hash=1dcf0e80047a7d38eeb239177fe06d8476703c2c0fec2d0a2624450185a01c45; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Severskas: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Mykolas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Severskas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai aprašo Mykolo įsiveržimą į Severską."
   pagrindžia:
     - c-169116
 ## Reikšmingi paminėjimai
@@ -89,8 +73,8 @@ Nenurodyta
     karą, atsiėmė užgrobtas pilis, o Mykolą išvijo iš visų
     žemių.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -101,7 +85,8 @@ Nenurodyta
 - id: c-169116
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 486"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 486."
   citata_originali: |
     V ilniaus
     seim as n u ta rė  p e rk e lti d ery b as į L iubliną.

@@ -33,16 +33,6 @@ Zaskevičius. Zaskevičiaus vadovaujama rinktinė artėjo prie Jiezno. Zaskevič
 - t-002
   global_id: t-40414
   teiginys: "Vasario 10 d. rytą S. Zaskevičiaus vadovaujama sustiprintos kuopos dydžio rinktinė artėjo prie Jiezno."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "717894-718224; hash=ee6949eed8294c03141f2a6d4b3cfaaf9c8af6328ac4a6b38a3a7514daddc676; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> J. Cetuchinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "S. Zaskevičius: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "J. Cetuchinas: mention_match, person, gap=76"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"S. Zaskevičius\" parinktas kaip owner_note_path. Targetas \"J. Cetuchinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-44506
 
@@ -50,16 +40,6 @@ Zaskevičius. Zaskevičiaus vadovaujama rinktinė artėjo prie Jiezno. Zaskevič
 - t-003
   global_id: t-40415
   teiginys: "Po nepavykusio vasario 10 d. Jiezno puolimo karin. S. Zaskevičius su likusia rinktinės dalimi traukėsi Tverų kryptimi."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "720522-720666; hash=b07ab4480e01366988a63328c0f5854a073d71e6eee3778079f8fc94d903ea2f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jieznas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "S. Zaskevičius: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Jieznas: mention_match, place, gap=22"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"S. Zaskevičius\" parinktas kaip owner_note_path. Targetas \"Jieznas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-44504
 
@@ -67,9 +47,6 @@ Zaskevičius. Zaskevičiaus vadovaujama rinktinė artėjo prie Jiezno. Zaskevič
 - t-001
   global_id: t-40416
   teiginys: "Krašto apsaugos viceministras S. Zaskevičius ėmėsi vadovauti operacijai, kuria siekta neutralizuoti kilusį pavojų."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "714899-715151; hash=8c8424123ef3b4039a2e710bf65ab751820db56e0cd46d5a009b9b5c78e95da3; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-44505
 ## Reikšmingi paminėjimai
@@ -83,8 +60,8 @@ Zaskevičius. Zaskevičiaus vadovaujama rinktinė artėjo prie Jiezno. Zaskevič
     su likusia rinktinės dalimi traukėsi
     Tverų kryptimi. Vakare pasiekusi netoli
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -104,8 +81,8 @@ Zaskevičius. Zaskevičiaus vadovaujama rinktinė artėjo prie Jiezno. Zaskevič
     apsaugos viceministras
     karin. S. Zaskevičius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -125,8 +102,8 @@ Zaskevičius. Zaskevičiaus vadovaujama rinktinė artėjo prie Jiezno. Zaskevič
     kevičiaus vadovaujama rinktinė
     artėjo prie Jiezno.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

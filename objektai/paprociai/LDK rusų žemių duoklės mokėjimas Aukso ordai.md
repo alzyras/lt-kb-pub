@@ -52,17 +52,6 @@ Nenurodyta
 - t-002
   global_id: t-54266
   teiginys: "Gediminas ir Algirdas už teisę valdyti prisijungtas rusų žemes turėjo nuolat mokėti duoklę Aukso ordai."
-  semantiniai_rysiai: "Gediminas valdė Lietuva (0.68); Algirdas (Lietuvos valdovas) valdė Lietuva (0.68)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "61725-62142; hash=7cb032fdaa69c2470a12dba820134a408c3d0afe2624c97b07f77ecf481095a1; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde -> Lietuva: 0.68"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai mini Algirdo teisę valdyti prijungtas žemes; objektas sukonkretintas tik kaip Lietuva."
   pagrindžia:
     - c-55156
 
@@ -70,17 +59,6 @@ Nenurodyta
 - t-001
   global_id: t-54267
   teiginys: "Gediminas ir Algirdas už teisę valdyti prie Lietuvos prijungtas rusų žemes turėjo nuolat mokėti duoklę Aukso ordai."
-  semantiniai_rysiai: "Gediminas valdė Lietuva (0.68); Algirdas (Lietuvos valdovas) valdė Lietuva (0.68)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "61725-62142; hash=7cb032fdaa69c2470a12dba820134a408c3d0afe2624c97b07f77ecf481095a1; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde -> Lietuva: 0.68"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai sieja Algirdą su teise valdyti prie Lietuvos prijungtas žemes; konkretaus žemių objekto nėra, todėl naudojama Lietuva."
   pagrindžia:
     - c-55156
 
@@ -88,20 +66,6 @@ Nenurodyta
 - t-003
   global_id: t-183316
   teiginys: "Gediminas ir Algirdas už teisę valdyti prie Lietuvos prijungtas rusų žemes turėjo nuolat mokėti duoklę Aukso ordai."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Gediminas valdė Lietuva (0.68); Algirdas (Lietuvos valdovas) valdė Lietuva (0.68)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "61818-62274; hash=b8796bd2e12d8d0c382ee0e383e808861e0db2118d5858b811fe1d6abc1ebf8d; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde -> Lietuva: 0.68"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata Gediminą sieja su teise valdyti prijungtas žemes; tikslesnio teritorijos kandidato nėra."
   pagrindžia:
     - c-166706
 ## Reikšmingi paminėjimai
@@ -117,8 +81,8 @@ Nenurodyta
     das už teisę jas valdyti turėjo nuolat mokėti duoklę Aukso ordai (Ldk
     Vytautas nustojo mokėti mongolams duoklę).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -139,8 +103,8 @@ Nenurodyta
     38
     valda.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

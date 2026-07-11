@@ -30,12 +30,6 @@ Moks lininkui ir gerbiamam bičiuliui Mikalojui Malinovskiui dėkingas už galim
 - t-001
   global_id: t-194314
   teiginys: "Moks lininkui ir gerbiamam bičiuliui Mikalojui Malinovskiui dėkingas už galimybę lengviau prieiti prie neišpasakytai vertingų istorijos turtų, sudėtų Radvilų archyve Kardinalijoje, o išsamiomis ir vi sapusiškomis mokslo žiniomis pagarsėjęs Pranciškus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "46996-47821; hash=a1ba9649bfa692f32e53720b9a789eb9add28c5038640d586f02a300d64142a0; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176906
 
@@ -43,12 +37,6 @@ Moks lininkui ir gerbiamam bičiuliui Mikalojui Malinovskiui dėkingas už galim
 - t-002
   global_id: t-194315
   teiginys: "Nėra geresnio pavyzdžio, kaip būtų galima sutvarkyti ir ap saugoti miesto archyvą nuo sunyki mo, už tą, kaip Radvilų archyvą Kar dinamoje pagal puikiai parengtą schemą sutvarkė mokslininkas ir di džiai prityręs Lietuvos istorijos ži novas Mikalojus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "521049-521800; hash=4d76e57700f28e79f4136e55dd9cdab0312537f6c868a75808aa2c7043d29fd6; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176907
 ## Reikšmingi paminėjimai
@@ -72,8 +60,8 @@ Moks lininkui ir gerbiamam bičiuliui Mikalojui Malinovskiui dėkingas už galim
     mokslo imasi, iš savo turtingos bibliotekos Ščiorsuose man nešė
     viską, ko tik reikėjo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -105,8 +93,8 @@ Moks lininkui ir gerbiamam bičiuliui Mikalojui Malinovskiui dėkingas už galim
     reigą, kaip reta uoliai, rūpestingai ir
     pavyzdingai atliko šį darbą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

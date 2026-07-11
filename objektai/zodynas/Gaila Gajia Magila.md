@@ -30,14 +30,6 @@ Gaila (Gajia) Anot liaudies padavimų, prie piktųjų būtybių giminės pri kla
 - t-001
   global_id: t-194783
   teiginys: "Gaila (Gajia) Anot liaudies padavimų, prie piktųjų būtybių giminės pri klausė kažkokios moteriškos šmėklos, kankinančios žmones ir gyvulius ."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "258455-258925; hash=c3e3d5bf97f88736de4d6f5c4be5b60b5d5f4447ffc71509c72f3333857fe303; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-177179
 ## Reikšmingi paminėjimai
@@ -59,8 +51,8 @@ Gaila (Gajia) Anot liaudies padavimų, prie piktųjų būtybių giminės pri kla
     23 Sirvydo žodyne (p. 77) randame: Jędza -  lietuviškai Gajia, lo­
     tyniškai Lamia.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -71,7 +63,8 @@ Gaila (Gajia) Anot liaudies padavimų, prie piktųjų būtybių giminės pri kla
 - id: c-177179
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 148"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 148."
   citata_originali: |
     Gaila (Gajia)
     Anot liaudies padavimų, prie piktųjų būtybių giminės pri­

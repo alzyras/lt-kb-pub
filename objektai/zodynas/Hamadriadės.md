@@ -30,14 +30,6 @@ Senovės išminčiai, matyt, norėdami tvirtai įskiepyti žmo nėms medžių sa
 - t-001
   global_id: t-194781
   teiginys: "Senovės išminčiai, matyt, norėdami tvirtai įskiepyti žmo nėms medžių saugojimo ir puoselėjimo įprotį, teikiantį tiek malonumo mūsų žemiškajam gyvenimui, sukūrė giliamintę milologinę pasaką: esą hamadriadės gyvendavusios medžiuose, kartu su jais augdavusios."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "398327-398857; hash=13d090fd157968044b4482655071bb8e61062ca62151bde1d31aa23cc7bb0d0a; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-177177
 ## Reikšmingi paminėjimai
@@ -57,8 +49,8 @@ Senovės išminčiai, matyt, norėdami tvirtai įskiepyti žmo nėms medžių sa
     vo gyvenimą. Charonas iš Lampsako išsaugojo mums įdomią
     istoriją apie šį dalyką.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -69,7 +61,8 @@ Senovės išminčiai, matyt, norėdami tvirtai įskiepyti žmo nėms medžių sa
 - id: c-177177
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 232"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 232."
   citata_originali: |
     Jupiteris atmetė deivės reikalavimą, nors vis dėlto paža­
     dėjo, kad tie laivai, kurie atplauks į Italiją, bus paversti jūros

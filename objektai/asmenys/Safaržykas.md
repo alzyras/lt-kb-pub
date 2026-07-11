@@ -38,21 +38,6 @@ Narbutas nurodo, kad Safaržyko veikale alanai siejami su asais, jasais, osais i
 - t-001
   global_id: t-191193
   teiginys: "Narbutas nurodo, kad Safaržyko veikale alanai siejami su asais, jasais, osais ir osetinais, kurių palikuonys gyvena Kaukaze."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "107005-107565; hash=fca7776b178b97efe217a9ae9a4adf266a50dea1c0533f9df23f5af08693a56d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kaukazas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Safaržykas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kaukazas: mention_match, place, gap=95"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Safaržykas\" parinktas kaip owner_note_path. Targetas \"Kaukazas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174075
 
@@ -60,21 +45,6 @@ Narbutas nurodo, kad Safaržyko veikale alanai siejami su asais, jasais, osais i
 - t-004
   global_id: t-191196
   teiginys: "Narbutas rašo, kad Safaržykas mini Vienos Imperatoriškajame Senienų kabinete saugomą paminklą kaip seniausią istorinį jazigų pėdsaką."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "200596-200973; hash=f0326b0aeb71c286bec54e3344a8ac260efdcf3eadd38f1cde6402793eac2569; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Viena: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Safaržykas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Viena: mention_match, place, gap=16"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Safaržykas\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174078
 
@@ -82,21 +52,6 @@ Narbutas nurodo, kad Safaržyko veikale alanai siejami su asais, jasais, osais i
 - t-006
   global_id: t-191980
   teiginys: "Narbutas rašo, kad Safaržykas senovės lietuvius visiškai sugiminiavo su slavais, jų skirtumus aiškindamas germanų ir finų valdžia."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "135499-136230; hash=d5cec0855395a28f31114f7cb24036b3435898caa948af893f3d42b9dec37376; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Finai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Safaržykas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Finai: mention_match, group, gap=98"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Safaržykas\" parinktas kaip owner_note_path. Targetas \"Finai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174862
 
@@ -104,14 +59,6 @@ Narbutas nurodo, kad Safaržyko veikale alanai siejami su asais, jasais, osais i
 - t-007
   global_id: t-194920
   teiginys: "Safaržykas iškelia hipotezę, iš kuries verta tik pasijuok ti, — tas kalnas turėtų būti Minsko gubernijojell!"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "126065-126429; hash=27571cd7d4882785a73b092d567f5afb8d525e516ea5ac3ea75d5a4932499717; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-177316
 ## Reikšmingi paminėjimai
@@ -130,8 +77,8 @@ Narbutas nurodo, kad Safaržyko veikale alanai siejami su asais, jasais, osais i
     nuomonei, kad O dinas buvo kilęs iš alanų, t. y. asų, gyvenusių kraš­
     te, kur išteka Vakarų Dauguva, Dnepras, Donas ir Volga.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -150,8 +97,8 @@ Narbutas nurodo, kad Safaržyko veikale alanai siejami su asais, jasais, osais i
     talo komitate, netoli Šv. Mikalojaus piiesto, kasant vy­
     nuogyną pono Nako dvare.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -176,8 +123,8 @@ Narbutas nurodo, kad Safaržyko veikale alanai siejami su asais, jasais, osais i
     rado arba juos pasiskolinus iš kaimynų, arba dėl dauge­
     lio kitų tarpusavio santykių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -194,8 +141,8 @@ Narbutas nurodo, kad Safaržyko veikale alanai siejami su asais, jasais, osais i
     kitos kokios savybės) su slavais. Klijuoja, lopo savo audeklą ir dėl
     to dažnai pats tampa juokingas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -206,7 +153,8 @@ Narbutas nurodo, kad Safaržyko veikale alanai siejami su asais, jasais, osais i
 - id: c-174075
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 61"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 61."
   citata_originali: |
     Tai, jog alanai taip pat
     buvo vadinami asais, o rusų — ¡asais, osáis, osetinais, kurių palikuo­
@@ -227,7 +175,8 @@ Narbutas nurodo, kad Safaržyko veikale alanai siejami su asais, jasais, osais i
 - id: c-174078
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 112"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 112."
   citata_originali: |
     Pats se­
     niausias ir tikrai istorinis pėdsakas, bylojantis, jog jazi­
@@ -247,7 +196,8 @@ Narbutas nurodo, kad Safaržyko veikale alanai siejami su asais, jasais, osais i
 - id: c-174862
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 76"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 76."
   citata_originali: |
     Galbūt todėl, kad ir bu-
     dinai-skitai buvo kilę iš savo tautos žemdirbių kastos
@@ -273,7 +223,8 @@ Narbutas nurodo, kad Safaržyko veikale alanai siejami su asais, jasais, osais i
 - id: c-177316
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 71"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 71."
   citata_originali: |
     Safaržykas iškelia hipotezę, iš kuries verta tik pasijuok­
     ti, — tas kalnas turėtų būti Minsko gubernijojell! Sis kruopštus sla­

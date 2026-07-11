@@ -36,24 +36,6 @@ Talkos sutartis tarp LDK ir Maskvos Didžiosios Kunigaikštystės buvo surašyta
 - t-001
   global_id: t-187560
   teiginys: "Talkos sutartis tarp LDK ir Maskvos Didžiosios Kunigaikštystės buvo surašyta 1494 m. vasario 5 d. Maskvoje."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "sutarties data: 1494 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie talkos sutartį, aiškiai nurodo šalis, datą ir vietą. Nieko papildomo nepridėta."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "605065-605241; hash=bad2d2a0decb004fa8ac755485cda482da36a06c7cd0b08917fbf7500e402d76; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Maskva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "talkos sutartis (sutartis, XV a.): owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Maskva: mention_match, place, gap=28"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"talkos sutartis (sutartis, XV a.)\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-16T16:17:41Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-170510
 ## Reikšmingi paminėjimai
@@ -66,8 +48,8 @@ Talkos sutartis tarp LDK ir Maskvos Didžiosios Kunigaikštystės buvo surašyta
     tystės buvo surašyta 1494.11.5 Maskvoje, Ivano Ilt-ojo prisiekta
     1494.11.7. A leksandras prisiekė jai 1494.1V.22.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

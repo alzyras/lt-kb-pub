@@ -32,16 +32,6 @@ media_all_json: |-
 - t-001
   global_id: t-87900
   teiginys: "Tikocine pas Zaleskį buvęs bažnytinis auksas ir sidabras buvo paskirti Šv. Onos bažnyčiai."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "673586-674421; hash=ac85954770da3b13cca5ace0f016eb5df8477e26cd3bb3d7aed1aa0b24f0be7b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Šv. Onos bažnyčia: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žalinskis Zaleskis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Šv. Onos bažnyčia: mention_match, place, gap=58"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žalinskis Zaleskis\" parinktas kaip owner_note_path. Targetas \"Šv. Onos bažnyčia\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-83879
 ## Reikšmingi paminėjimai
@@ -65,8 +55,8 @@ media_all_json: |-
     indus, priklausančius Dievo tarnystei bažnyčioje, kad jie būtų
     tai minėtai Šv.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

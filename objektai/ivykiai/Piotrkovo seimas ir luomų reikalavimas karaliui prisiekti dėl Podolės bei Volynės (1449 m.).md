@@ -48,19 +48,6 @@ Nenurodyta
 - t-001
   global_id: t-185824
   teiginys: "Piotrkovo seime Lenkijos luomai pareikalavo, kad karalius prisiektų neatiduoti lietuviams Podolės ir Volynės žemių."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "863106-863656; hash=f6c7972457d925659426b6f51e2b3b770fc50e1cc99f676df29b3057cbc3d2f1; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Piotrkovo seimas ir luomų reikalavimas karaliui prisiekti dėl Podolės bei Volynės (1449 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=16"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Piotrkovo seimas ir luomų reikalavimas karaliui prisiekti dėl Podolės bei Volynės (1449 m.)\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-169185
 ## Reikšmingi paminėjimai
@@ -81,8 +68,8 @@ Nenurodyta
     stams suteiktas lengvatas. Artėjo lemiamas susirėmi­
     mas.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -93,7 +80,8 @@ Nenurodyta
 - id: c-169185
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 490"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 490."
   citata_originali: |
     Šitokios paskalos, sklidusios po visą Lenkiją, gerokai
     paveikė visuomenės nuotaikas. Todėl, kai jis tų pačių

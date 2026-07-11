@@ -46,16 +46,6 @@ Arvydas Anušauskas šiame leidinyje minimas kaip straipsnio apie žymiausius Li
 - t-005
   global_id: t-78742
   teiginys: "Arvydas Anušauskas kartu su Karoliu Zikaru ir Loreta Uzdraite buvo teksto apie Lietuvos partizanų mūšius bendraautoris."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1137447-1137693; hash=e0de180bae8a921a51393b035cb39fe25f59cb2c7579ebbe064d3954a0acd1f1; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Arvydas Anušauskas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=79"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Arvydas Anušauskas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-75923
 
@@ -63,16 +53,6 @@ Arvydas Anušauskas šiame leidinyje minimas kaip straipsnio apie žymiausius Li
 - t-007
   global_id: t-78743
   teiginys: "Arvydas Anušauskas yra teksto „Žymiausi Lietuvos partizanų mūšiai prieš sovietų pajėgas“ autorius."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1131019-1131152; hash=e81778e903a0a139adb9c94bff2913a8709a123fe2bcc0c38e4e4d6df51b1389; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Arvydas Anušauskas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=40"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Arvydas Anušauskas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-42398
 
@@ -80,19 +60,6 @@ Arvydas Anušauskas šiame leidinyje minimas kaip straipsnio apie žymiausius Li
 - t-004
   global_id: t-78744
   teiginys: "Arvydas Anušauskas yra Lietuvos naujausių laikų istorijos specialistas ir pripažintas rezistencinių kovų istorijos žinovas."
-  temporaliniai_duomenys: "įvykio data: 1963 m.; įvykio data: 1984 m.; įvykio data: 1989 m.; įvykio data: 1998 m.; įvykio data: 2000 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie autoriaus specializaciją."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1070795-1071493; hash=6db5f2bb9290a0f13570c02414c13928c1c4573a1b4b4bd00b606ce2b0482f4a; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Arvydas Anušauskas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=23"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Arvydas Anušauskas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-42397
 
@@ -100,16 +67,6 @@ Arvydas Anušauskas šiame leidinyje minimas kaip straipsnio apie žymiausius Li
 - t-008
   global_id: t-78745
   teiginys: "Arvydas Anušauskas kartu su Karoliu Zikaru ir Loreta Uzdraite parengė tekstą „Žymiausi Lietuvos partizanų mūšiai prieš sovietų pajėgas“."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1137447-1137693; hash=e0de180bae8a921a51393b035cb39fe25f59cb2c7579ebbe064d3954a0acd1f1; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Arvydas Anušauskas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=87"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Arvydas Anušauskas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-75923
 
@@ -117,19 +74,6 @@ Arvydas Anušauskas šiame leidinyje minimas kaip straipsnio apie žymiausius Li
 - t-006
   global_id: t-78746
   teiginys: "Arvydas Anušauskas gimė 1963 m. ir 1989 m. baigė Vilniaus universitetą."
-  temporaliniai_duomenys: "įvykio data: 1963 m.; įvykio data: 1984 m.; įvykio data: 1989 m.; įvykio data: 1998 m.; įvykio data: 2000 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas biografinis sakinys, paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1070795-1071493; hash=6db5f2bb9290a0f13570c02414c13928c1c4573a1b4b4bd00b606ce2b0482f4a; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Arvydas Anušauskas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=49"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Arvydas Anušauskas\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-42397
 - susijęs iš [[objektai/autoriai/Loreta Uzdraitė.md#claim-t-78782|Loreta Uzdraitė]]: Loreta Uzdraitė, Arvydas Anušauskas ir Karolis Zikaras yra teksto „Žymiausi Lietuvos partizanų mūšiai prieš sovietų pajėgas“ autoriai.
@@ -155,8 +99,8 @@ Arvydas Anušauskas šiame leidinyje minimas kaip straipsnio apie žymiausius Li
 
     ir specialiųjų tarnybų istorijos žinovas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -172,8 +116,8 @@ Arvydas Anušauskas šiame leidinyje minimas kaip straipsnio apie žymiausius Li
 
     p. 242, „NKVD SMOGIKAI, Karolis Zikaras.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -189,8 +133,8 @@ Arvydas Anušauskas šiame leidinyje minimas kaip straipsnio apie žymiausius Li
     P. 238-239, „Žymiausi Lietuvos partizanų mūšiai prieš sovietų pajėgas“, Arvydas Anušauskas,
     Karolis Zikaras, Loreta Uzdraitė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

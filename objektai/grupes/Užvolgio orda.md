@@ -39,14 +39,6 @@ Lietuvos sąjungininkai buvo tik Livonijos ordino magistras Valteris Pletenberga
 - t-001
   global_id: t-194052
   teiginys: "Lietuvos metraštis teigia, kad aPIE MASKVOS DIDŽIOJO KUNIGAIKŠČIO IVANO VAŠIUEVlCi AUS KARĄ SU SAVO ŽENTU, LIETUVOS DIDŽIUOJU KUNIGAIKŠČIU ALEKSANDRU, TAIP PAT APIE UŽVOLGIO ORDOS CHANĄ SICH-ACHMETĄ Nuo pasaulio sutvėrimo septyni tūkstančiai aštun taisiais, o nuo dievo gimimo 1499 metais."
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "265882-266502; hash=77c9fd270a88f00160531ee8a6313db04eabb37d43acdd7226c98ef87b093098; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-176665
 ## Reikšmingi paminėjimai
@@ -69,8 +61,8 @@ Lietuvos sąjungininkai buvo tik Livonijos ordino magistras Valteris Pletenberga
     davijos vaivada Steponu prisiekęs jiems amžiną taiką
     bei pasirėmęs giminystės ryšiais.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -81,7 +73,8 @@ Lietuvos sąjungininkai buvo tik Livonijos ordino magistras Valteris Pletenberga
 - id: c-176665
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 150"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 150."
   citata_originali: |
     Sugrįžo, padarę Lenkijos žemei daug žalos.
     54. APIE MASKVOS DIDŽIOJO KUNIGAIKŠČIO IVANO

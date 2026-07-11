@@ -30,21 +30,6 @@ Narbutas pateikė kuršišku arba latvišku vadinamą maldos tekstą ir atskirą
 - t-001
   global_id: t-189519
   teiginys: "Narbutas pateikė kuršišku arba latvišku vadinamą maldos tekstą ir atskirą Kuršo Alsungos katalikų parapijos tarmės variantą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "813931-814663; hash=40d96c8876af281e360de4220465a76c4471d3d269a7de861bcbaa3e1c4f5396; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Alsunga: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kuršiai ir latviai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Alsunga: mention_match, place, gap=63"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kuršiai ir latviai\" parinktas kaip owner_note_path. Targetas \"Alsunga\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172407
 ## Reikšmingi paminėjimai
@@ -69,8 +54,8 @@ Narbutas pateikė kuršišku arba latvišku vadinamą maldos tekstą ir atskirą
     radnekiem, un niejewod mus eksz kardinaszenas bet atpesti mus
     nota launa.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -81,7 +66,8 @@ Narbutas pateikė kuršišku arba latvišku vadinamą maldos tekstą ir atskirą
 - id: c-172407
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 448"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 448."
   citata_originali: |
     Kuršiškai arba latviškai; iš Branto, imta iš Ksavero Bogu­
     šo (ten pat):

@@ -46,16 +46,6 @@ Nenurodyta
 - t-002
   global_id: t-07810
   teiginys: "Senieji lietuviai paprastai gėrė vandenį, midų, alų, sulą ir girą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "93747-94003; hash=7e38c4692dd265cf3e4ed6eeea0250ce73b1e841873a82f1a2389c5e9c229f43; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vandens, midaus, alaus ir giros gėrimo papročiai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=50"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vandens, midaus, alaus ir giros gėrimo papročiai\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-09968
     - c-09969
@@ -68,8 +58,8 @@ Nenurodyta
         kurio ir stiprumas nuo jo žemėj būsenos buvo lykuojamas; alų dar šiandien tūlose vietose senu
         įpročiu tebdairo, o sulą iš beržų ir klevų tebleidžia.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -82,8 +72,8 @@ Nenurodyta
         girą iš kaušų ir ragų paauksytų, vadinamų taurėmis ir tauragėmis. Nuo ko, kaip sakiau, iki šiai
         dienai kiekvieną geriamą stotkelį, medžio, molio ar skardos, senu įpročiu taurele tebvadina.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

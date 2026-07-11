@@ -38,12 +38,6 @@ S. M. Kuczynski figūruoja kaip Dubrovnos mūšis) yra lokiu pavidalu žinomas l
 - t-001
   global_id: t-194149
   teiginys: "S. M. Kuczynski figūruoja kaip Dubrovnos mūšis) yra lokiu pavidalu žinomas lik iš BK."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "483980-484421; hash=9217b065e77e8e2e5479a16268cdb3259a925b0a445ed4c8e5179867b78dd4d0; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176762
 ## Reikšmingi paminėjimai
@@ -65,8 +59,8 @@ S. M. Kuczynski figūruoja kaip Dubrovnos mūšis) yra lokiu pavidalu žinomas l
     y ra artimi tiesai
     ’ Dubrovna (vok.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -32,17 +32,6 @@ Dusburgietis teigia, kad apie Judą Makabėjų pasakojama, kad jis nepasimeldęs
 - t-001
   global_id: t-60243
   teiginys: "Bachidas ir Alchimas kovojo su Judu Makabėjumi; po šių kautynių Judas žuvo, o Izraelio kariuomenė pabėgo."
-  semantiniai_rysiai: "Bachidas buvo sąjungininkas su Alchimas (0.72)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "154373-155064; hash=f7ac35adafe18eea54ed3750e7db783ba4e67f59014990af5c083adda5667b47; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sajungininkas_su -> Alchimas: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Bachidas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Alchimas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Bachidas ir Alchimas kartu minimi kaip Judui Makabėjui priešinga pusė."
   pagrindžia:
     - c-60875
 - susijęs iš [[objektai/asmenys/Judas Makabėjus.md#claim-t-175238|Judas Makabėjus]]: Pasakojama, kad Judas Makabėjus krito kovoje su Bachidu ir Alchimu, o Izraelio kariuomenė turėjo bėgti.
@@ -69,8 +58,8 @@ Dusburgietis teigia, kad apie Judą Makabėjų pasakojama, kad jis nepasimeldęs
                      Pergalės būdas tikriausias — kantrybė, tas kovą laimi,
                    Kas pasikliaus kantrumu; jei nori laimėti — kantrauk!
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -81,7 +70,8 @@ Dusburgietis teigia, kad apie Judą Makabėjų pasakojama, kad jis nepasimeldęs
 - id: c-60875
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 49"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 49."
   citata_originali: |
     Skaitome ir apie Makabėjų, kad
     jo vyrai šaukėsi  į dangų melsdamiesi ir išvaikė priešų stovyklas. Apie Judą Makabėjų
@@ -102,5 +92,4 @@ Dusburgietis teigia, kad apie Judą Makabėjų pasakojama, kad jis nepasimeldęs
     - t-60243
 
 ## Ryšiai
-- Sąjungininkai: [[objektai/asmenys/Alchimas]]
 - Kariavo prieš: [[objektai/asmenys/Judas Makabėjus]]

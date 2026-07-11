@@ -48,17 +48,6 @@ Nenurodyta
 - t-001
   global_id: t-62402
   teiginys: "Magistras Konradas su raitija įsiveržė į Sūduvos Mėrūniškių valsčių ir nukovė 18 žymių šio valsčiaus viešpačių."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "514148-514656; hash=ecf3dfabea8c58a5228d9ca66fe68ff72a5c557789257367cd6da354a0e6cfb0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Sūduva: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Konradas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Sūduva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Konrado įsiveržimą į Sūduvos valsčių."
   pagrindžia:
     - c-63008
 
@@ -66,19 +55,6 @@ Nenurodyta
 - t-002
   global_id: t-183947
   teiginys: "Mėrūniškių valsčių magistras Konradas smarkiai nusiaubė degindamas ir plėšdamas, nukovęs arba paėmęs į nelaisvę 600 vyrų ir moterų."
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "514148-514656; hash=ecf3dfabea8c58a5228d9ca66fe68ff72a5c557789257367cd6da354a0e6cfb0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Sūduva: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Konradas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Sūduva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai sieja Konradą su įsiveržimu į Sūduvos valsčių."
   pagrindžia:
     - c-63008
 
@@ -86,12 +62,6 @@ Nenurodyta
 - t-003
   global_id: t-194409
   teiginys: "Apie Sūduvos [ žemės] Mėrūniškių valsčiaus nusiaubimą Brolis Konradas, magistras, visados rūpinęsis netikėlių naikinimu, subūręs galingą raitelių ir pėstininkų kariuomenę, su raitija įsiveržė į Sūduvos valsčių, vardu Mėrūniškis492, kur nukovė 18 šio valsčiaus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "514148-514656; hash=ecf3dfabea8c58a5228d9ca66fe68ff72a5c557789257367cd6da354a0e6cfb0; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-63008
 ## Reikšmingi paminėjimai
@@ -112,8 +82,8 @@ Nenurodyta
 
                            198 (193).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -126,7 +96,8 @@ Nenurodyta
 - id: c-63008
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 162"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 162."
   citata_originali: |
     Apie Sūduvos [ žemės] Mėrūniškių valsčiaus nusiaubimą
 

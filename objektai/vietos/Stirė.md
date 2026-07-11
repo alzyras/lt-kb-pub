@@ -33,16 +33,6 @@ Prie Stirės įvyko Švitrigailos pajėgoms nesékmingas mūšis.
 - t-001
   global_id: t-42167
   teiginys: "Prie Stirės įvyko Švitrigailos pajėgoms nesėkmingas mūšis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "264677-264910; hash=9a952fcb35971da196069fd55bdbe0f7f0c2b2d37ec38cb6255d369ff0a595b7; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Švitrigaila: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Stirė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Švitrigaila: mention_match, person, gap=13"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Stirė\" parinktas kaip owner_note_path. Targetas \"Švitrigaila\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-45345
 ## Reikšmingi paminėjimai
@@ -57,8 +47,8 @@ Prie Stirės įvyko Švitrigailos pajėgoms nesékmingas mūšis.
     tęsėsi, tačiau jo pajėgos buvo atremtos —
     lietuviai sėkmingai gynėsi.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

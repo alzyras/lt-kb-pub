@@ -35,16 +35,6 @@ trumpas geografiškas ir istoriškas pa­ aiškinimas apie arabus, turkus, kurdu
 - t-001
   global_id: t-35575
   teiginys: "Prie romano buvo pridėtas trumpas geografinis ir istorinis paaiškinimas apie arabus, turkus, kurdus ir kitas tauteles."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "729852-730303; hash=07ac5bcff8920708730113ee91bbe31ef65f2b850fd7e4ef772d9e57ba93811e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Arabija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Arabai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Arabija: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Arabai\" parinktas kaip owner_note_path. Targetas \"Arabija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-38234
 - susijęs iš [[objektai/asmenys/Hameris.md#claim-t-191204|Hameris]]: Remiantis Hamerio tyrimais, arabai Rass arba Ross vadino Arakso upę, ištekančią iš Kiliklo kalnų ir susiliejančią su Kūra.
@@ -79,8 +69,8 @@ trumpas geografiškas ir istoriškas pa­ aiškinimas apie arabus, turkus, kurdu
     pažymėjimu, kuriais kraštais autoriaus keliauta ir kuriuose miestuo­
     se būta.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -109,7 +99,3 @@ trumpas geografiškas ir istoriškas pa­ aiškinimas apie arabus, turkus, kurdu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-35575
-
-## Ryšiai
-- Arabai puolė [[objektai/vietos/Šventoji žemė]]
-- Arabai užėmė [[objektai/vietos/Jeruzalė]], [[objektai/vietos/Šventoji žemė]]

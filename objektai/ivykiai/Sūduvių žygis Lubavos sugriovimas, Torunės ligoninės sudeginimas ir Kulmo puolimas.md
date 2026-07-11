@@ -50,17 +50,6 @@ Nenurodyta
 - t-001
   global_id: t-59429
   teiginys: "Sūduviai įsiveržė į Lubavos žemę, sugriovė Lubavos pilį ir miestą, sudegino Torunės ligoninę ir nesėkmingai puolė Kulmą."
-  semantiniai_rysiai: "Sūduviai puolė Kulmas (0.93); Sūduviai puolė Lubava (0.92); Sūduviai puolė Torunė (0.78)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "458997-459835; hash=b78dcb11083ea3b106851bc536f4f93f1fec8aa23feac354116cfb09cd3d552b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Kulmas: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Sūduviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Kulmas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo sūduvių Kulmo miesto puolimą."
   pagrindžia:
     - c-60061
 
@@ -68,16 +57,6 @@ Nenurodyta
 - t-002
   global_id: t-59430
   teiginys: "Per sūduvių žygį į pelkes sprukusi krikščionė pasipriešino ją ketinusiam nužudyti sūduvių kariui ir jį mirtinai užtroškino dumblu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "459693-460189; hash=bfd2e000921743b28f4ffe6ef84de54822a41932c9294c7ae15fd24f17ba75d4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Sūduviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Sūduvių žygis Lubavos sugriovimas, Torunės ligoninės sudeginimas ir Kulmo puolimas: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Sūduviai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sūduvių žygis Lubavos sugriovimas, Torunės ligoninės sudeginimas ir Kulmo puolimas\" parinktas kaip owner_note_path. Targetas \"Sūduviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-167352
 
@@ -85,16 +64,6 @@ Nenurodyta
 - t-002
   global_id: t-59430
   teiginys: "Per sūduvių žygį į pelkes sprukusi krikščionė pasipriešino ją ketinusiam nužudyti sūduvių kariui ir jį mirtinai užtroškino dumblu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "459693-460189; hash=bfd2e000921743b28f4ffe6ef84de54822a41932c9294c7ae15fd24f17ba75d4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Sūduviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Sūduvių žygis Lubavos sugriovimas, Torunės ligoninės sudeginimas ir Kulmo puolimas: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Sūduviai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sūduvių žygis Lubavos sugriovimas, Torunės ligoninės sudeginimas ir Kulmo puolimas\" parinktas kaip owner_note_path. Targetas \"Sūduviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-167352
 ## Reikšmingi paminėjimai
@@ -115,8 +84,8 @@ Nenurodyta
     atkakliai gynėsi. Šitaip siaubę šią žemę keturias dienas, pagaliau pasitraukė su tiesiog
     neįkainojamu grobiu: žmonėmis, arkliais, gyvuliais  ir kitais daiktais.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -133,8 +102,8 @@ Nenurodyta
     įniršęs dėl tokio jos elgesio, dantimis jai nukando didįjį pirštą, o ji, savo ruožtu įtūžusi,
     prigrūdo jam į burną bei ausis dumblo ir jį mirtinai užtroškino.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -146,7 +115,8 @@ Nenurodyta
 - id: c-60061
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 144"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 144."
   citata_originali: |
     Apie Torunės ligoninės sudeginimą, Kulmo miesto užpuolimą ir Lubavos
                                        pilies bei miesto sugriovimą
@@ -169,7 +139,8 @@ Nenurodyta
 - id: c-167352
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 144"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 144."
   citata_originali: |
     Šitaip siaubę šią žemę keturias dienas, pagaliau pasitraukė su tiesiog
     neįkainojamu grobiu: žmonėmis, arkliais, gyvuliais  ir kitais daiktais. Vienas sūduvių

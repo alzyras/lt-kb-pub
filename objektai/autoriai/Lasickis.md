@@ -30,14 +30,6 @@ Narbutas aiškina, kad Lasickis žodį „Ežagtdis“, reiškiantį antkapį ar
 - t-001
   global_id: t-190437
   teiginys: "Narbutas aiškina, kad Lasickis žodį „Ežagtdis“, reiškiantį antkapį ar pilkapį, klaidingai palaikė dievaičio pavadinimu."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "656188-656590; hash=3dc5cda2a867b43ec3357bec5e3cdcc12c24af51c065f9ffa8ac6040e2d05b75; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173320
 - susijęs iš [[objektai/asmenys/Janas Lasickis.md#claim-t-188552|Janas Lasickis]]: Vienintelis Lasickis išsaugojo mums šį faktą.
@@ -132,8 +124,8 @@ Narbutas aiškina, kad Lasickis žodį „Ežagtdis“, reiškiantį antkapį ar
     dėtas su tam tikromis maldomis, davė pagrindą susidaryti to­
     kiai tyrėjo nuomonei.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -144,7 +136,8 @@ Narbutas aiškina, kad Lasickis žodį „Ežagtdis“, reiškiantį antkapį ar
 - id: c-173320
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 370"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 370."
   citata_originali: |
     Jokiu bū­
     du nederėjo paliesti antkapinių statinių; buvo meldžiamasi net

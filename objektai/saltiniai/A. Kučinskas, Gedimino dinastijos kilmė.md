@@ -39,18 +39,6 @@ Kučinskas, A.
 - t-001
   global_id: t-31589
   teiginys: "A. Kučinsko „Gedimino dinastijos kilmė“ buvo išleista Kaune 1934 m. kaip atspaudas iš „Mūsų Žinyno“ 107-108 numerių."
-  temporaliniai_duomenys: "įvykio data: 1934 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "603503-604385; hash=c26c28d8a70c5930b3f89ede460fc875ede9b8cdcfab573dc41c8230a47f2900; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "A. Kučinskas, Gedimino dinastijos kilmė: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=13"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"A. Kučinskas, Gedimino dinastijos kilmė\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-33508
 ## Reikšmingi paminėjimai
@@ -72,8 +60,8 @@ Kučinskas, A.
     1934 (Chodynickio ir Zajączkowskio tezės apie Gedimino dinastijos kilmę
     iš Žemaičių).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

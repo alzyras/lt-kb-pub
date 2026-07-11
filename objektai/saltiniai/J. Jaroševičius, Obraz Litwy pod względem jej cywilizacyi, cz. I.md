@@ -36,21 +36,6 @@ Narbutas cituoja Jaroševičiaus veikalą „Obraz Litwy pod względem jej cywil
 - t-001
   global_id: t-190499
   teiginys: "Narbutas cituoja Jaroševičiaus veikalą „Obraz Litwy pod względem jej cywilizacyi“ kaip darbą apie pagoniškąją Lietuvą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "67580-67789; hash=05bc05807281bd021534057105f7e055b1f403c795100051125f52d7b52f28dc; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "J. Jaroševičius, Obraz Litwy pod względem jej cywilizacyi, cz. I: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=93"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"J. Jaroševičius, Obraz Litwy pod względem jej cywilizacyi, cz. I\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173382
 ## Reikšmingi paminėjimai
@@ -64,8 +49,8 @@ Narbutas cituoja Jaroševičiaus veikalą „Obraz Litwy pod względem jej cywil
     czasow najdawniejszych do koncawieku XVIII.-Wilno, 1844. -  Cz. I:
     Litwa poganska. -  S. 177-199.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -76,7 +61,8 @@ Narbutas cituoja Jaroševičiaus veikalą „Obraz Litwy pod względem jej cywil
 - id: c-173382
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 37"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 37."
   citata_originali: |
     Lietuvių liaudis nesanti išlaikiusi jokių mitų,
     20 Jaroszewi.cz J. Obraz Litwy pod względem jej cywilizacyi, od

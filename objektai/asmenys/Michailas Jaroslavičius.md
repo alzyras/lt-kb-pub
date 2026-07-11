@@ -42,20 +42,6 @@ Marvelė pamaskvėje prie Protvos (Pratuvos), senojoje rytinių galindų žemėj
 - t-002
   global_id: t-79112
   teiginys: "Lietuviai prie Protvos nukovė Maskvos didįjį kunigaikštį Michailą Jaroslavičių."
-  semantiniai_rysiai: "Lietuviai puolė Michailas Jaroslavičius (0.90)"
-  temporaliniai_duomenys: "įvykio data: 1260 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Claimas yra aiškus, gramatiškas ir paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "79427-79806; hash=1c232dee8a8950fa81daa8cf6801b935a21625b9f3a90717796c8577247e591d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Michailas Jaroslavičius: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Michailas Jaroslavičius: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad lietuviai nukovė Michailą Jaroslavičių."
   pagrindžia:
     - c-76202
 
@@ -63,20 +49,6 @@ Marvelė pamaskvėje prie Protvos (Pratuvos), senojoje rytinių galindų žemėj
 - t-001
   global_id: t-79113
   teiginys: "Pamaskvėje prie Protvos lietuviai nukovė Maskvos didįjį kunigaikštį Michailą Jaroslavičių."
-  semantiniai_rysiai: "Lietuviai puolė Michailas Jaroslavičius (0.90)"
-  temporaliniai_duomenys: "įvykio data: 1260 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Claimas yra pilnas faktinis sakinys apie asmenį ir paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "79427-79806; hash=1c232dee8a8950fa81daa8cf6801b935a21625b9f3a90717796c8577247e591d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Michailas Jaroslavičius: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Michailas Jaroslavičius: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad lietuviai nukovė Michailą Jaroslavičių."
   pagrindžia:
     - c-76202
 ## Reikšmingi paminėjimai
@@ -99,8 +71,8 @@ Marvelė pamaskvėje prie Protvos (Pratuvos), senojoje rytinių galindų žemėj
     taip siekdami atsverti Ordino blokadą va-
     karuose, sukurti gilią gynybinę erdvę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

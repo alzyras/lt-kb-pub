@@ -39,9 +39,6 @@ Maža to, 1557 m. jis paskelbė įstatymą, visiškai pertvarkantį žemės ūk�
 - t-001
   global_id: t-72776
   teiginys: "Valakų reformos metu valakas tapo ūkio vienetu, nuo kurio buvo imami mokesčiai ir einamos pareigos."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "509664-509983; hash=e29d0a662695021ec8d096ed545d7df48e21e2eb80e012495411c3ff523362b0; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-71150
 
@@ -49,14 +46,6 @@ Maža to, 1557 m. jis paskelbė įstatymą, visiškai pertvarkantį žemės ūk�
 - t-002
   global_id: t-193164
   teiginys: "Valstiečiams duodamieji valakai nebuvo visiškai lygūs: kur žemė būdavo geresnė, valakai būdavo mažesni, o kur žemė būdavo prastesnė, — didesni."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "509515-509874; hash=af1574c2febafff9c62df04b3998a1fa18a46b22244a571828235a5b028c513d; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-175914
 ## Reikšmingi paminėjimai
@@ -72,8 +61,8 @@ Maža to, 1557 m. jis paskelbė įstatymą, visiškai pertvarkantį žemės ūk�
     Su šia reforma valakas pasidarė ūkio vienetas: nuo jo
     buvo imami mokesčiai, nuo jo buvo einamos ir pareigos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -90,8 +79,8 @@ Maža to, 1557 m. jis paskelbė įstatymą, visiškai pertvarkantį žemės ūk�
     mažesni, o kur žemė būdavo prastesnė, — didesni. Valakas kai
     kur buvo 30—33 margų, o kai kur siekė net 44 margus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

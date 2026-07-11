@@ -41,16 +41,6 @@ Mes norime, kad jūs žinotumėte, jog mes pasiuntėme mū­ sų laišką mūsų
 - t-002
   global_id: t-88158
   teiginys: "Gedimino laiške pranciškonų prašyta perskaičius jį siųsti į kitą provinciją ir melstis už karalių, jo šeimą bei kraštą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "156762-157207; hash=c5cc55cff37ad6827d86a5e9cc27130fd80806b4bca5c88c3028182e6f3c9d30; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gedimino laiškas pranciškonams (1323 m.): owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gedimino laiškas pranciškonams (1323 m.)\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-84138
 
@@ -58,16 +48,6 @@ Mes norime, kad jūs žinotumėte, jog mes pasiuntėme mū­ sų laišką mūsų
 - t-001
   global_id: t-88159
   teiginys: "Gediminas laiške pranciškonams pranešė, kad kreipėsi į popiežių Joną ir laukė jo pasiuntinių atvykimo."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "153098-154245; hash=d8cec26d7d15077c82ac9af1f2deadb3c6af1a280c6ebe2f8ea01a65e41d4055; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gedimino laiškas pranciškonams (1323 m.): owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gedimino laiškas pranciškonams (1323 m.)\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-84137
 ## Reikšmingi paminėjimai
@@ -98,8 +78,8 @@ Mes norime, kad jūs žinotumėte, jog mes pasiuntėme mū­ sų laišką mūsų
     vas palaistė, jis ir išaugintų, ir nupiautų, o taip pat patalpin­
     tų danguose su palaimintaisiais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -119,8 +99,8 @@ Mes norime, kad jūs žinotumėte, jog mes pasiuntėme mū­ sų laišką mūsų
     džia už karalių, jo vaikus ir karalienes, o taip pat už visą
     kraštą, kad viešpats užbaigtų tą [darbą], kurį jis pradėjo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

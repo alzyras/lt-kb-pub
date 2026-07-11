@@ -44,16 +44,6 @@ media_all_json: |-
 - t-001
   global_id: t-93283
   teiginys: "Gregorijus Cemblakas buvo numatytas Focijaus vieton ir laikytas unijos su Katalikų Bažnyčia šalininku."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "296577-296786; hash=17a38e7ce449c3773fb3e2bfc4aeed73d2d89823bc529b2e4bea859998502343; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Focijus (Maskvos „visos Rusijos“ metropolitas): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gregorijus Cemblakas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Focijus (Maskvos „visos Rusijos“ metropolitas): mention_match, person, gap=36"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gregorijus Cemblakas\" parinktas kaip owner_note_path. Targetas \"Focijus (Maskvos „visos Rusijos“ metropolitas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-36308
 
@@ -61,16 +51,6 @@ media_all_json: |-
 - t-003
   global_id: t-93284
   teiginys: "Naugarduko susirinkimas paskyrė Gregorijų Cemblaką Kijevo metropolitu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "297049-297494; hash=ac37c34a4a7832e053b65693363223aa75cf04a09bab76f2679b444a2d5ba076; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kijevas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gregorijus Cemblakas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kijevas: mention_match, place, gap=19"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gregorijus Cemblakas\" parinktas kaip owner_note_path. Targetas \"Kijevas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-88681
 
@@ -78,19 +58,6 @@ media_all_json: |-
 - t-002
   global_id: t-93285
   teiginys: "Totorių puldinėjimų metu Gregorijus Cemblakas turėjo iš savo sostinės persikelti į Vilnių."
-  semantiniai_rysiai: "Gregorijus Cemblakas keliavo į Vilnius (0.90); Totoriai puolė Kijevas (0.88); Totoriai puolė Podolė (0.85)"
-  temporaliniai_duomenys: "įvykio data: 1416 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "301941-302336; hash=139dd24ea2a3d87a88744953a3aded8fe1e18d388bf2dd83a4b52867b642ed8a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Vilnius: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gregorijus Cemblakas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Persikėlimas į Vilnių tiesiogiai pagrindžia kelionės ar persikėlimo kryptį."
   pagrindžia:
     - c-36310
 ## Reikšmingi paminėjimai
@@ -104,8 +71,8 @@ media_all_json: |-
     rijono giminaitis Gregorijus Cemblakas, unijos su Kat. Bažnyčia
     šalininkas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -122,8 +89,8 @@ media_all_json: |-
     (1414) ir krikšto reikalais Žemaitijoje (1416), negalėjo tinkamai
     totorių sudrausti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -142,8 +109,8 @@ media_all_json: |-
     Konstantinopolio patriarcho nesiskiria, tik gina nuo Rusijos me­
     tropolitų savo teises.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

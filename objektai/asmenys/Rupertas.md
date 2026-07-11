@@ -30,19 +30,6 @@ Grafas Rupertas atsisakė Romos imperijos sosto, į kurį buvo kviečiamas.
 - t-001
   global_id: t-186250
   teiginys: "Grafas Rupertas atsisakė Romos imperijos sosto, į kurį buvo kviečiamas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "581681-581985; hash=ff2ad718a97cf4f89273eb4960414a89aaf2cf8a8e490f83883b5af31782b309; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Rupertas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rupertas\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-169611
 ## Reikšmingi paminėjimai
@@ -59,8 +46,8 @@ Grafas Rupertas atsisakė Romos imperijos sosto, į kurį buvo kviečiamas.
     meilės teutonų ordinui buvo metęs jauną nepaprasto
     grožio sužadėtinę.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -71,7 +58,8 @@ Grafas Rupertas atsisakė Romos imperijos sosto, į kurį buvo kviečiamas.
 - id: c-169611
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 334"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 334."
   citata_originali: |
     Toliau ■— grafas
     Hildermidas, škotas, sūnus tėvo, kuris, gelbėdamas ka­

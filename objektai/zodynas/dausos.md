@@ -32,14 +32,6 @@ Anas pomirtinis pasaulis buvo vadinamas dausomis; jis taip pat turėjo savo dvas
 - t-001
   global_id: t-193292
   teiginys: "Anas pomirtinis pasaulis buvo vadinamas dausomis; jis taip pat turėjo savo dvasių bei dievų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "85456-85919; hash=2b635423bb2709464382ff4cd8300f31ba075eda72da8982e448161726cc835f; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-176020
 ## Reikšmingi paminėjimai
@@ -58,8 +50,8 @@ Anas pomirtinis pasaulis buvo vadinamas dausomis; jis taip pat turėjo savo dvas
     medžiuose, augančiuose ant jų kapų, ir būnančios savo šeimų
     globėjos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

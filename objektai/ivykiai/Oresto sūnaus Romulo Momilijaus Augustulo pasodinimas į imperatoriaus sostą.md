@@ -42,24 +42,6 @@ Nenurodyta
 - t-001
   global_id: t-191070
   teiginys: "Narbutas rašo, kad 475 m. samdytai kariuomenei vadovavęs Orestas į imperatoriaus sostą pasodino savo jauną sūnų Romulą Momilijų Augustulą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 475 m"
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Paliktas asmuo, data ir veiksmas, o imperatoriaus sosto formuluotė pateikta su Narbuto atribucija. Nepridėta platesnio Ricimero ir imperatorių kaitos konteksto."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "560882-561319; hash=0f4f76c1e4a688a321aae56d4159a524765d3335391ec9421b649a90867268c5; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Orestas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Oresto sūnaus Romulo Momilijaus Augustulo pasodinimas į imperatoriaus sostą: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Orestas: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Oresto sūnaus Romulo Momilijaus Augustulo pasodinimas į imperatoriaus sostą\" parinktas kaip owner_note_path. Targetas \"Orestas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173952
 ## Reikšmingi paminėjimai
@@ -78,8 +60,8 @@ Nenurodyta
     sostą pasodinti savo dar jauną sūnų Romulą Momilijų
     Augustulą. Tai įvyko 475 metais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -90,7 +72,8 @@ Nenurodyta
 - id: c-173952
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 313"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 313."
   citata_originali: |
     Imperatoriaus
     sosto griovėjas Ricimeras iškėlė imperijos, kurią jau su­

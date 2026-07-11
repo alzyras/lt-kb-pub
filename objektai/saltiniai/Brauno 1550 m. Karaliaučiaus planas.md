@@ -43,12 +43,6 @@ Dusburgietis teigia, kad 376 Mikalojaus bažnyčia 1550 m. Karaliaučiaus plane 
 - t-001
   global_id: t-61054
   teiginys: "Brauno 1550 m. Karaliaučiaus plane Mikalojaus bažnyčia pažymėta prie Steindamm gatvės."
-  temporaliniai_duomenys: "įvykio data: 250 m; įvykio data: apie 250 m.; įvykio data: 1550 m.; įvykio data: 1613 m.; įvykio data: 1815 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
-  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas faktinis sakinys ir tiesiogiai remiasi citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "394807-395042; hash=81139deb8de358b3aff87a4b88147db35c14db2537de4c7da9baf83d984966a9; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-61686
 ## Reikšmingi paminėjimai
@@ -61,8 +55,8 @@ Dusburgietis teigia, kad 376 Mikalojaus bažnyčia 1550 m. Karaliaučiaus plane 
     gatvės. Vėliau — Steindamm Kirche (1613 m, XX a. planai), polnische Kirche (1815 m.
     planas). Bažnyčia stovėjo apie 250 m į šiaurės vakarus nuo buv. pilies.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -73,7 +67,8 @@ Dusburgietis teigia, kad 376 Mikalojaus bažnyčia 1550 m. Karaliaučiaus plane 
 - id: c-61686
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 121"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 121."
   citata_originali: |
     376 Mikalojaus bažnyčia 1550 m. Karaliaučiaus plane (Brauno) yra prie Steindamm
     gatvės. Vėliau — Steindamm Kirche (1613 m, XX a. planai), polnische Kirche (1815 m.

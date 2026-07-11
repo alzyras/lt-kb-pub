@@ -35,16 +35,6 @@ Demokratija Lietuvoje, pasak A.
 - t-001
   global_id: t-20839
   teiginys: "A. Smetona Lietuvos demokratiją lygino su vaikams nupirktais per dideliais batais."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "313514-314050; hash=1ebd0907d879f7674844a7e1a32a7d82e6da2256c4687e277091af855536c381; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> A. Smetona: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "„Demokratija Lietuvoje ... tai nupirkti per dideli batai vaikams“: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "A. Smetona: mention_match, person, gap=20"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"„Demokratija Lietuvoje ... tai nupirkti per dideli batai vaikams“\" parinktas kaip owner_note_path. Targetas \"A. Smetona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-23565
 ## Reikšmingi paminėjimai
@@ -62,8 +52,8 @@ Demokratija Lietuvoje, pasak A.
     smulk­meniškai besikišantis į vykdomosios valdžios reikalus ir nekompe-
     tentingas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -46,16 +46,6 @@ media_all_json: |-
 - t-003
   global_id: t-36115
   teiginys: "Haleckis teigė, kad Torno sutartis atsižvelgė į Lietuvos interesus: Lietuvai grąžinta Žemaitija, o Lenkijai naudos nesuteikta."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "448761-449092; hash=e8cee1790d0a8f101105d57fff08e6ed35a19629b318b717a846fd807bdd0765; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Torno taika (1411 m.): owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=79"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Torno taika (1411 m.)\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-38437
 
@@ -63,16 +53,6 @@ media_all_json: |-
 - t-004
   global_id: t-36116
   teiginys: "Torno sutartis laikyta palankia Lietuvai, nes Lietuvai buvo grąžinta Žemaitija, o Lenkijai ji naudos nesuteikė."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "448863-449305; hash=86174136ab47c2fc2ad598fca63d198dcfd2948b38890d40d644bfef94eac42a; match=ocr_normalized"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Torno taika (1411 m.): owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=82"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Torno taika (1411 m.)\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-37259
 ## Reikšmingi paminėjimai
@@ -89,8 +69,8 @@ media_all_json: |-
     žiuočių likučiu išgelbėjimas buvo jam reikalingas tęsti tolimes­
     nei savarankiškai politikai su Lenkija.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -107,8 +87,8 @@ media_all_json: |-
     ji jokios naudos nesuteikė, o Lietuvai — nors Žemaitija buvo
     grąžinta^1 ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

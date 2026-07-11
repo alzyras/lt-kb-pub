@@ -48,11 +48,6 @@ Nenurodyta
 - t-001
   global_id: t-66605
   teiginys: "Karolis XII, siekdamas smogti Augustui skaudžiausioje vietoje, nužygiavo į Saksoniją."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "775562-775766; hash=3ba21cd0ccc6cdde85c0847b2a0a8c4761c661d4a33b5f8ee8a351f86cdff5c5; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-66803
 ## Reikšmingi paminėjimai
@@ -66,8 +61,8 @@ Nenurodyta
     pati pasitraukė. Sumanęs suduoti Augustui smūgį skaudžiausioje
     vietoje, Karolis nužygiavo į Saksoniją.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

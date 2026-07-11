@@ -35,18 +35,6 @@ Be to, tas susitarimas nepatiko nė valdančiajai Gediminaičių šeimai; Aleksa
 - t-001
   global_id: t-01323
   teiginys: "Gedimino šeimos valdančioji šaka pasibaigė, nors dar buvo gyvų nuo sosto nutolusių Gedimino giminės kunigaikščių."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "471353-471559; hash=ca6393b472af1e56d46c98e0b35f969217ab61ff5fd567093419e877535e8288; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gediminaičių dinastija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gediminaičių šeima: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Gediminaičių dinastija: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gediminaičių šeima\" parinktas kaip owner_note_path. Targetas \"Gediminaičių dinastija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-01560
 
@@ -54,12 +42,6 @@ Be to, tas susitarimas nepatiko nė valdančiajai Gediminaičių šeimai; Aleksa
 - t-002
   global_id: t-193090
   teiginys: "Be to, tas susitarimas nepatiko nė valdančiajai Gediminaičių šeimai; Aleksandro brolis, Čekų karalius Vladislovas, savo ir jaunesniojo brolio Zigmanto vardu net pareiškė protestą dėl to susitarimo."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "411195-411848; hash=58843a63c7da3f7dcf87d05bd84183bd61c48fa4d0f342d67eae36a5b82d9147; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-175854
 - susijęs iš [[objektai/grupes/Gediminaičių dinastija.md#claim-t-96110|Gediminaičių dinastija]]: Iš lietuvių tautos buvo kilusi ir valdančioji Gediminaičių šeima.
@@ -74,8 +56,8 @@ Be to, tas susitarimas nepatiko nė valdančiajai Gediminaičių šeimai; Aleksa
     Gedimino giminės kunigaikščių, bet jie jau seniai buvo nutolę
     nuo sosto, nusigyvenę, ir todėl nebetiko kandidatais į valdovus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -100,8 +82,8 @@ Be to, tas susitarimas nepatiko nė valdančiajai Gediminaičių šeimai; Aleksa
     norima įvesti elekciją, taigi visai nebuvo atsižvelgiama į jų tei-
     ses.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

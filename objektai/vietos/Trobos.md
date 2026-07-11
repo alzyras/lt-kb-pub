@@ -35,12 +35,6 @@ Taip, Vytauto laikų didikai pastatė bažnyčias: Vilniuje, Gardine, Giedraiči
 - t-001
   global_id: t-185315
   teiginys: "Kojelavičius Trobiaus įkurtas Trobas laikė įrodymu, kad Trobius buvo Lietuvos didysis kunigaikštis."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "227237-227861; hash=105571d7b057fccab765b16ad8255f7a774482ce8bed2fd9960530e00a9c4c1d; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-168676
 
@@ -48,12 +42,6 @@ Taip, Vytauto laikų didikai pastatė bažnyčias: Vilniuje, Gardine, Giedraiči
 - t-002
   global_id: t-193454
   teiginys: "Kad Trobius apskritai yra buvęs didžiuo ju kunigaikščiu, įrodo ir tai, jog, savo protėvių papro čiu, jis Lietuvos viduryje buvo įkūręs naują sodyb vietę, pavadindamas ją nuo savo vardo Trobomis."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "227237-227861; hash=105571d7b057fccab765b16ad8255f7a774482ce8bed2fd9960530e00a9c4c1d; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-168676
 ## Reikšmingi paminėjimai
@@ -76,8 +64,8 @@ Taip, Vytauto laikų didikai pastatė bažnyčias: Vilniuje, Gardine, Giedraiči
     klupo jį mirtis — galvojantį apie žygius, bet nespėjusį
     nieko nuveikti.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -89,7 +77,8 @@ Taip, Vytauto laikų didikai pastatė bažnyčias: Vilniuje, Gardine, Giedraiči
 - id: c-168676
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 134"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 134."
   citata_originali: |
     Negaliu patikėti, kad
     jis iš tiesų nebūtų kreipęs nė kruopelytės dėmesio į

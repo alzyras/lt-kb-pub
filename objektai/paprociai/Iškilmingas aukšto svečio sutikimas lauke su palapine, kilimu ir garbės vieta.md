@@ -45,19 +45,6 @@ Nenurodyta
 - t-001
   global_id: t-185860
   teiginys: "Aleksandras Šich Achmetą pasitiko už penkių mylių, plyname lauke pastačius puošnią palapinę ir plačiu kilimu užtiesus kelią."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1027000-1027448; hash=57084d10f3e7b8071563b6a6ee3a87c86a6eae7408ad8b05e90a7d80eef70f1d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Radomas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Iškilmingas aukšto svečio sutikimas lauke su palapine, kilimu ir garbės vieta: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Radomas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Iškilmingas aukšto svečio sutikimas lauke su palapine, kilimu ir garbės vieta\" parinktas kaip owner_note_path. Targetas \"Radomas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-169221
 ## Reikšmingi paminėjimai
@@ -80,8 +67,8 @@ Nenurodyta
     karaliaus. Aleksandras Šich Achmetą priėmė su didele
     pagarba ir pasisodino dešinėje.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -92,7 +79,8 @@ Nenurodyta
 - id: c-169221
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 579"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 579."
   citata_originali: |
     Į seimą atvyko iš Vilniaus
     Skitas Sich Achmetas

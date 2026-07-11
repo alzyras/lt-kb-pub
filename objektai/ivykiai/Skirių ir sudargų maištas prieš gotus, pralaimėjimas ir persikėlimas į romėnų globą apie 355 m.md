@@ -48,22 +48,6 @@ Nenurodyta
 - t-001
   global_id: t-191016
   teiginys: "Jordanes, Narbuto perteikimu, minėjo skirius kaip iš pradžių taikiai su gotų gentimis gyvenusius ir labiau į žemdirbystę linkusius žmones."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Skiriai buvo sąjungininkas su Gotai (0.63)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "525238-525813; hash=c7e5a2c5a986cf1ec1b9ed1c1c3d69793a758b881b9602b67ed21c639bc107d0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sajungininkas_su -> Gotai: 0.63"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Skiriai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Gotai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Taikus gyvenimas su gotų gentimis palaiko atsargų sąjunginį ar draugišką ryšį, nors formali sąjunga neminima."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173898
 
@@ -71,22 +55,6 @@ Nenurodyta
 - t-002
   global_id: t-191017
   teiginys: "Skiriai sudarė sąjungą su sukilėliais, kartu puolė gotus ir po šio karo patyrė didelį pralaimėjimą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Skiriai puolė Gotai (0.97); Skiriai kariavo prieš Gotai (0.84)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "526146-526482; hash=d02f9b70218bfdd0eb1b8acd58743fd203e301d22aa9e04af57be7d11c77cbe8; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Gotai: 0.97"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Skiriai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Gotai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai teigia, kad skiriai puolė gotus."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173899
 
@@ -94,22 +62,6 @@ Nenurodyta
 - t-003
   global_id: t-191018
   teiginys: "Po skirių pralaimėjimo Eduka vedė savo žmonių likučius iš Mezijos į dešiniąją Dunojaus pakrantę ir pasidavė romėnų globai."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Eduka keliavo į Isteris (0.78)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "527281-527662; hash=5ca03d94fec4763bc54c400d2c56a31bc377bdf9e04cc30ddd27499e95f3fc75; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Isteris: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Eduka: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Isteris: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys nurodo Edukos vadovaujamų žmonių persikėlimą į Dunojaus pakrantę; subjektas laikomas vedliu."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173900
 
@@ -117,24 +69,6 @@ Nenurodyta
 - t-004
   global_id: t-191019
   teiginys: "Apie 355 m. persikėlę atvykėliai ilgą laiką saugojo imperijos Padunojaus sienas nuo gotų, kuriuos Narbutas apibūdino kaip jų pačių priešus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 355 m; įvykio data: apie 355 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
-  temporalinis_llm_pakomentavimas: "Teiginys pilnas ir Narbutui priskiria priešų apibūdinimą, kaip reikalauja profilis. Nepridėta detalių apie kitas persekiojamas gotų gentis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "527552-527819; hash=debf39b6bfc06272c194fc9c49339bfa6b86f5fa486bdabc8c74aeb425510c29; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gotai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Skirių ir sudargų maištas prieš gotus, pralaimėjimas ir persikėlimas į romėnų globą apie 355 m: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Gotai: mention_match, group, gap=84"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Skirių ir sudargų maištas prieš gotus, pralaimėjimas ir persikėlimas į romėnų globą apie 355 m\" parinktas kaip owner_note_path. Targetas \"Gotai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173901
 ## Reikšmingi paminėjimai
@@ -155,8 +89,8 @@ Nenurodyta
     gentimis; jie labiau linko į žemdirbystę ir namų verslus
     negu į kariavimą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -173,8 +107,8 @@ Nenurodyta
     ir netikėtą karą, kuris galėjo tapti jiems visiška pražūti­
     mi. Dėl šių įvykių skiriai patyrė didelį pralaimėjimą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -193,8 +127,8 @@ Nenurodyta
     kartu su kitomis dėl šių politinių įvykių persekiojamomis
     gotų gentimis įvyko apie 355 metus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -212,8 +146,8 @@ Nenurodyta
     288
     Istorinės išvados.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -224,7 +158,8 @@ Nenurodyta
 - id: c-173898
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 293"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 293."
   citata_originali: |
     Tai vyko jau tuo metu, kai, IV amžiaus pradžioje
     iki valiai prisiklajoję gotai, apsikrovę grobiu ir karų iš­
@@ -247,7 +182,8 @@ Nenurodyta
 - id: c-173899
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 293"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 293."
   citata_originali: |
     Skiriai, dar turėję čia savo kėslų, sudarė sąjungą
     su sukilėliais ir išvien su jais puolė gotus. Bet Siaurės
@@ -265,7 +201,8 @@ Nenurodyta
 - id: c-173900
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 294"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 294."
   citata_originali: |
     Ir vėl
     laimės žvaigždė lydėjo gotus, kurie niekais pavertė vi­
@@ -285,7 +222,8 @@ Nenurodyta
 - id: c-173901
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 294"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 294."
   citata_originali: |
     Šis kraustymasis
     kartu su kitomis dėl šių politinių įvykių persekiojamomis

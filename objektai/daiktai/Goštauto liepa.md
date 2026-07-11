@@ -63,19 +63,6 @@ Nenurodyta
 - t-001
   global_id: t-87027
   teiginys: "1621 metais Petras Korkonas rašė, kad Petro Goštauto pasodinta liepa buvo vešli, drūta ir vadinta Goštauto liepa."
-  temporaliniai_duomenys: "įvykio data: 1365 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus ir pagrįstai priskiria informaciją Petrui Korkonui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "87690-89530; hash=967684a8e822ad7b1bc5e2cfa144e8c15b34c845b275fac9f1e3456c5563d473; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Goštautas (vyskupas, XV a.): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Goštauto liepa: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Goštautas (vyskupas, XV a.): mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Goštauto liepa\" parinktas kaip owner_note_path. Targetas \"Goštautas (vyskupas, XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-83007
 
@@ -83,9 +70,6 @@ Nenurodyta
 - t-002
   global_id: t-87028
   teiginys: "Senosios Goštauto liepos vardo tradicija galėjo būti priskirta vėlesniam laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "90023-90346; hash=d28e4899fa761d96fa1554b91ecba562e0c772e8ea3a8964b9ee7458d873a58f; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-83006
 ## Reikšmingi paminėjimai
@@ -104,8 +88,8 @@ Nenurodyta
     to Liepos vardo tradiciją galima būti
     priskirti ir vėlesniam laikotarpiui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -158,8 +142,8 @@ Nenurodyta
     pirmąją Šv. Petro bažnyčią klystama
     nurodant pastatymo laiką.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

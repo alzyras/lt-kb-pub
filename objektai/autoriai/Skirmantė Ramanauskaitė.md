@@ -35,19 +35,6 @@ Skirmantė Ramanauskaitė nurodyta kaip 2007 m. „Vilniaus miesto istorijos“ 
 - t-001
   global_id: t-55022
   teiginys: "Skirmantė Ramanauskaitė buvo 2007 m. „Vilniaus miesto istorijos“ leidimo redaktorė."
-  temporaliniai_duomenys: "įvykio data: 2007 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra faktinis ir patvirtintas leidinio metrikos citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "307-1127; hash=dfb51e5d7a09f444a5f40f01a636bc13927efcd9a0d775b271d19632436cabd9; match=exact"
-  sprendimo_priezastis: "gap::authors"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Skirmantė Ramanauskaitė: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=38"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Skirmantė Ramanauskaitė\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-78481
 
@@ -55,19 +42,6 @@ Skirmantė Ramanauskaitė nurodyta kaip 2007 m. „Vilniaus miesto istorijos“ 
 - t-002
   global_id: t-81964
   teiginys: "Skirmantė Ramanauskaitė buvo 2007 m. lietuviško „Vilniaus miesto istorijos“ leidimo redaktorė."
-  temporaliniai_duomenys: "įvykio data: 2007 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Originalas yra OCR ir metaduomenų triukšmas; citata pagrindžia aiškų redaktorės vaidmenį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "307-1127; hash=dfb51e5d7a09f444a5f40f01a636bc13927efcd9a0d775b271d19632436cabd9; match=exact"
-  sprendimo_priezastis: "gap::authors"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Skirmantė Ramanauskaitė: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=37"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Skirmantė Ramanauskaitė\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-78481
 - susijęs iš [[objektai/autoriai/Irena Katilienė.md#claim-t-55007|Irena Katilienė]]: Irena Katilienė buvo viena iš 2007 m. lietuviško „Vilniaus miesto istorijos“ vertimo autorių.
@@ -129,8 +103,8 @@ Skirmantė Ramanauskaitė nurodyta kaip 2007 m. „Vilniaus miesto istorijos“ 
     jo plačią ir sudėtingą pirmosios XIX a. pusės Lietuvos istorijos
     įvykių raidą. Šiuo atžvilgiu jam pasisekė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

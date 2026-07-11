@@ -46,16 +46,6 @@ media_all_json: |-
 - t-002
   global_id: t-68240
   teiginys: "Popiežiaus Jono XXIII delegatas siūlė Žemaičių klausimą ir kitus ginčus perkelti į Konstancos bažnytinį susirinkimą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "951290-951731; hash=986092ad05f96089732a9aa3e0edd54d073b3e51ad5d9f6b031d9311eb45ac28; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jonas XXIII: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Konstanca: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Jonas XXIII: mention_match, person, gap=72"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Konstanca\" parinktas kaip owner_note_path. Targetas \"Jonas XXIII\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-32139
 
@@ -63,12 +53,6 @@ media_all_json: |-
 - t-003
   global_id: t-68241
   teiginys: "1415 m. gruodžio 4 d. delegacija buvo iškilmingai priimta Konstancos katedroje, kur vyko susirinkimo posėdžiai."
-  temporaliniai_duomenys: "įvykio data: 1415 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys buvo gremėzdiškas, o citata leidžia suformuluoti aiškų faktą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "954345-954521; hash=1df7d9256fe961760e45f0a70749a48fc14ed0a1c98c11707639ff4b7103f5c4; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-32140
 
@@ -76,20 +60,6 @@ media_all_json: |-
 - t-001
   global_id: t-68242
   teiginys: "G. Camblako ekumeninės mišios Konstanco katedroje amžininkams paliko didelį įspūdį ir buvo vaizduojamos to meto kronikose."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) siuntė į Konstanca (0.86)"
-  temporaliniai_duomenys: "įvykio data: 1418 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sakinys patikslintas pagal citatą ir išlaikytas faktinis turinys."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "91537-91966; hash=0410311a5151af017d88e26aafbafa3a94199d7f4ba2748e8575bb9aff8ee1fb; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "siunte_i -> Konstanca: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Konstanca: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Vytautas siuntė delegaciją į Konstancą."
   pagrindžia:
     - c-24199
 
@@ -97,21 +67,6 @@ media_all_json: |-
 - t-004
   global_id: t-188725
   teiginys: "Konstancos susirinkime kaltinamasis atsakinėjo, kad Lenkijoje Viklifo mokymo neskleidęs ir apie jį ten neužsiminęs."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "712315-713316; hash=3b944634d1c81036dd9503f877523a479882e0ddcb3bf7d558e88b1e62a47026; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Konstanca: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=52"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Konstanca\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171614
 - susijęs iš [[objektai/grupes/Stačiatikiai.md#claim-t-183185|Stačiatikiai]]: 1418 m. Vytautas į Konstancą pasiuntė G. Camblako stačiatikių delegaciją, turėjusią pagrįsti unijos su Katalikų bažnyčia siekį.
@@ -175,8 +130,8 @@ media_all_json: |-
     prie kryžiaus žygiuojančiomis Europos šalimis pateko į krikščioniškų ša-
     lių bendriją vaizduojančią Strasbūro freską.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -194,8 +149,8 @@ media_all_json: |-
     Jonas XXIII buvo spėjęs panaikinti pasenusias ordino privilegijas
     į Lietuvą, pagal Jogailos ir Vytauto prašymą^31.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -209,8 +164,8 @@ media_all_json: |-
     kuri 1415.XII.4 d. buvo iškilmingai priimta Konstancos katedroje
     (kur vyko posėdžiai), atkreipė susirinkimo dėmesį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -242,8 +197,8 @@ media_all_json: |-
     ka juos išmokyti tikrojo tikėjimo, išpažįstamo Romos bažny­
     čioje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -340,6 +295,5 @@ media_all_json: |-
     - t-188725
 
 ## Ryšiai
-- Buvo kelionės vieta: [[objektai/asmenys/Jurgis Galminas]], [[objektai/asmenys/Jurgis Gedgaudas]], [[objektai/asmenys/Mikalojus Sepienskis]], [[objektai/grupes/Stačiatikiai]], [[objektai/asmenys/Teodoras Lenkas]]
 - Mirties vieta: [[objektai/asmenys/Jeronimas Prahiškis]]
 - Buvo siuntimo vieta: [[objektai/asmenys/Vladislovas Jogaila]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

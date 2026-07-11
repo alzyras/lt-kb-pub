@@ -45,14 +45,6 @@ Nenurodyta
 - t-001
   global_id: t-194809
   teiginys: "Narbutas teigia, kad lietuviai kaimiečiai iki šiol savitai gerbia šią vietą kiekvienoje patalpoje: palieti ką nors nešvaraus ant slenksčio, kapoti mal kas laikoma Dievo įžeidimu3."
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "277616-278063; hash=4373f7c98ad1a11541a95102981be0bfe2f1f4d3c480134c0977e82c46f8d894; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-177205
 ## Reikšmingi paminėjimai
@@ -70,8 +62,8 @@ Nenurodyta
     mė. Peržengdamas slenkstį, apsižvalgyk ir turėk Dievą aky­
     se“.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -82,7 +74,8 @@ Nenurodyta
 - id: c-177205
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 160"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 160."
   citata_originali: |
     Lietuviai kaimiečiai iki šiol savitai gerbia šią vietą kiekvienoje
     patalpoje: palieti ką nors nešvaraus ant slenksčio, kapoti mal­

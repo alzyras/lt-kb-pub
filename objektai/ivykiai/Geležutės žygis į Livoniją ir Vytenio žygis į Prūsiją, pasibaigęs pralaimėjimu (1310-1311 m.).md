@@ -49,20 +49,6 @@ Nenurodyta
 - t-001
   global_id: t-185506
   teiginys: "Po pralaimėjimo kryžiuočiams sunkiai į galvą sužeistas Vytenis paliko stovyklą ir kariuomenę, bet dviejų karių lydimas paspruko."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Vytenis kariavo prieš Kryžiuočių ordinas (0.78)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "325047-325608; hash=e61432bdc6d03498b4f76850238dc35484426a5fbc189d4c1419332ca4f932ea; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Kryžiuočių ordinas: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytenis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Teiginys nurodo Vytenio pralaimėjimą kryžiuočiams, todėl palaiko karinę priešpriešą."
   pagrindžia:
     - c-168867
 ## Reikšmingi paminėjimai
@@ -83,8 +69,8 @@ Nenurodyta
     vargais negalais, dviejų karių lydimas, paspruko nuo
     priešo ir išvengė tykančių pavojų.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -95,7 +81,8 @@ Nenurodyta
 - id: c-168867
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 188"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 188."
   citata_originali: |
     Vos brėkštant dienai, lietuvius iš visų
     pusių apsupo kryžiuočiai, vedami Henriko fon Ploc-

@@ -33,9 +33,6 @@ media_all_json: |-
 - t-001
   global_id: t-44093
   teiginys: "Dr. Jonas Šliūpas visą gyvenimą kovojo dėl tautos teisių, tautinio susipratimo ir laisvamanybės."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "1282784-1283048; hash=60d7ed6b0ad77d7b5d7e20f0a908cec65f7e0a816762a8d16c70f6c8e9d8fa0c; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-47236
 
@@ -43,9 +40,6 @@ media_all_json: |-
 - t-002
   global_id: t-44094
   teiginys: "Apie Šliūpą susibūrė griežtesnieji tautininkai ir laisvamaniai."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "1282871-1283100; hash=b24787e181b74e8cf962f6dec8c5d5fe30cdd150c4c2161a63dfb39977125cf6; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-47237
 ## Reikšmingi paminėjimai
@@ -60,8 +54,8 @@ media_all_json: |-
     sipratimo ir dėl laisvamanybės. Todėl apie jį susibūrė griežtes-
     nieji tautininkai ir laisvamaniai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -76,8 +70,8 @@ media_all_json: |-
     nieji tautininkai ir laisvamaniai. Bet šitos dvi savybės ne vi-
     suose vienodai sutapo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

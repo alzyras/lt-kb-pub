@@ -42,19 +42,6 @@ vasarį „abu lietuvių karaliai“ puolė Prūsijoje Rastenburgą, niokojo Bar
 - t-001
   global_id: t-79718
   teiginys: "Vasarį lietuvių valdovai apgulė Lunenburgą ir sunaikino jo papilį per puolimą Prūsijoje."
-  semantiniai_rysiai: "Lietuviai apgulė Lunenburgas (0.93); Lietuviai puolė Prūsija (0.82)"
-  temporaliniai_duomenys: "įvykio data: 1347 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "138307-138580; hash=15118e62fd746dea3ce8c9205a5087c4f8a697e6605071f2a1d834c7137b8fb8; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "apgule -> Lunenburgas: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lunenburgas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Lunenburgo apgulimą lietuvių puolime."
   pagrindžia:
     - c-76663
 
@@ -62,9 +49,6 @@ vasarį „abu lietuvių karaliai“ puolė Prūsijoje Rastenburgą, niokojo Bar
 - t-003
   global_id: t-79720
   teiginys: "Lunenburgas vėliau vadintas Leunenburgu, o dabar tapatinamas su Sontočnu į pietryčius nuo Sempopolio."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "690709-690967; hash=e8c3fd5a5ba6ddede16d4a332dd0290e458084a92a1879d6bbd2c76df8efd6e5; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-76664
 
@@ -72,17 +56,6 @@ vasarį „abu lietuvių karaliai“ puolė Prūsijoje Rastenburgą, niokojo Bar
 - t-002
   global_id: t-79721
   teiginys: "Baigos komtūras Ditrichas iš Altenburgo pastatė Lunenburgo pilį Bartos žemėje, Gubros ir Sainos santakoje."
-  semantiniai_rysiai: "Ditrichas iš Altenburgo pastatė Lunenburgas (0.90); Lunenburgas priklausė Barta (0.82)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "690051-690571; hash=57783dc6a65da714ddd6d14f04bf33fd0f1c33380da01ff2f9cebe3250f165cf; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "pastate -> Lunenburgas: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Ditrichas iš Altenburgo: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lunenburgas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata nurodo, kad Ditrichas pastatė Lunenburgo pilį."
   pagrindžia:
     - c-76665
 - susijęs iš [[objektai/ivykiai/Lunenburgo pilies ir dviejų miestų pastatymas.md#claim-t-183941|Lunenburgo pilies ir dviejų miestų pastatymas (pilis)]]: Baigos komtūras Ditrichas iš Altenburgo pastatė Lunenburgo pilį Bartos žemėje, Gubros ir Sainos upių santakoje.
@@ -111,8 +84,8 @@ vasarį „abu lietuvių karaliai“ puolė Prūsijoje Rastenburgą, niokojo Bar
     goti Sembą. Magistras su gausia kariuomene
     įvairiose vietose priešais Lietuvos žemes
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -127,8 +100,8 @@ vasarį „abu lietuvių karaliai“ puolė Prūsijoje Rastenburgą, niokojo Bar
     piliakalnis (CV, t. 33, p. 286; MGP, p. 50; Ambrassat A., Die Provinz Ostpreussen, p.
     389).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -147,8 +120,8 @@ vasarį „abu lietuvių karaliai“ puolė Prūsijoje Rastenburgą, niokojo Bar
     jo šviesybės Braunšveigo kunigaikščio sūnus  ir Kristburgo komtūras,— miestą prie
     Ilienburgo [Ilijos] pilies595.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -180,7 +153,8 @@ vasarį „abu lietuvių karaliai“ puolė Prūsijoje Rastenburgą, niokojo Bar
 - id: c-76664
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 224"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 224."
   citata_originali: |
     594 D.— Lunenburgk, Jer.— Lûnenburc (plg. lie. liūnas, Liūnai — GAO, p. 92); vėliau
     vok. Leunenburg, dab. Sontočnas (Sątoczno)   į pietryčius nuo Sempopolio.  Išlikęs
@@ -196,7 +170,8 @@ vasarį „abu lietuvių karaliai“ puolė Prūsijoje Rastenburgą, niokojo Bar
 - id: c-76665
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 224"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 224."
   citata_originali: |
     362 (355). Apie Lunenburgo pilies ir dviejų miestų pastatymą
 
@@ -217,4 +192,3 @@ vasarį „abu lietuvių karaliai“ puolė Prūsijoje Rastenburgą, niokojo Bar
 ## Ryšiai
 - Buvo pastatyta: [[objektai/asmenys/Ditrichas iš Altenburgo]]
 - Apgulė Lunenburgą: [[objektai/grupes/Lietuviai]]
-- Lunenburgas priklausė [[objektai/vietos/Barta]]

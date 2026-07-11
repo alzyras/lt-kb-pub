@@ -44,20 +44,6 @@ media_all_json: |-
 - t-001
   global_id: t-40177
   teiginys: "1234 m. rusų kunigaikštis Jaroslavas ir Naugardas sudarė prieš Lietuvą nukreiptą taiką su kalavijuočiais."
-  semantiniai_rysiai: "Jaroslavas (rusų kunigaikštis, 1234 m.) sudarė sutartį su Kalavijuočių ordinas (0.94)"
-  temporaliniai_duomenys: "įvykio data: 1234 m.; įvykio data: 1236 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "64217-64632; hash=7dece6b62e615c5bc8aca21ed8ad96dc5e4930be54b65cd31638a37aec23d19c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "sudare_sutarti_su -> Kalavijuočių ordinas: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jaroslavas (rusų kunigaikštis, 1234 m.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kalavijuočių ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Jaroslavas sudarė taiką su kalavijuočiais."
   pagrindžia:
     - c-44372
 ## Reikšmingi paminėjimai
@@ -79,8 +65,8 @@ media_all_json: |-
     kraštus, paskelbė kryžiaus žygį didelėje
     Šiaurės Vokietijos dalyje nuo Oderio iki
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -58,19 +58,6 @@ Nenurodyta
 - t-002
   global_id: t-20156
   teiginys: "Antanas Smetona sudarė sau sąlygas būti perrenkamam, o ypatingieji tautos atstovai 1931 m. gruodžio 11 d. vienbalsiai išrinko jį Lietuvos prezidentu."
-  temporaliniai_duomenys: "įvykio data: 1931 m.; įvykio data: 1933 m.; įvykio data: 1934 m.; įvykio data: 1938 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys gramatiškas, konkretus ir tiesiogiai paremtas citatos informacija."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "331772-332289; hash=4403c7aa70283ab2e22052c5d478792b45e04f5960f76da8743db1df9ca895ea; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> A. Smetona: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "A. Smetonos perrinkimas ypatingųjų tautos atstovų balsais (1931 m. ir 1938 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "A. Smetona: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"A. Smetonos perrinkimas ypatingųjų tautos atstovų balsais (1931 m. ir 1938 m.)\" parinktas kaip owner_note_path. Targetas \"A. Smetona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-22898
 
@@ -78,12 +65,6 @@ Nenurodyta
 - t-001
   global_id: t-20157
   teiginys: "Nuo 1931 m. gegužės 2 d. apskričių tarybos rinkdavo ypatingus tautos atstovus, o šie rinkdavo prezidentą."
-  temporaliniai_duomenys: "įvykio data: po 1931 m.; įvykio data: 1931 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir tiksliai perteikia citatoje aprašytą rinkimų mechanizmą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "331396-331771; hash=e1b29d1195ccf3b83158119a4c771e441390f8541512eb05b12205b278ac8347; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-22897
 
@@ -91,15 +72,6 @@ Nenurodyta
 - t-003
   global_id: t-183214
   teiginys: "1931 m. gegužės 2 d. savivaldybės tapo apskričių viršininkų organais, o apskričių tarybos rinkdavo prezidentą renkančius ypatinguosius tautos atstovus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1931 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie ypatingųjų tautos atstovų rinkimo tvarką."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "331479-331873; hash=45582601c268ae5ff092d2de76b51ce64079afbe6ccef62151e6e8f22167c237; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-166601
 ## Reikšmingi paminėjimai
@@ -115,8 +87,8 @@ Nenurodyta
     apskričių tarybose, kurios rinkdavo „ypatingus tautos atstovus”, o šie –
     prezidentą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -135,8 +107,8 @@ Nenurodyta
     riniai režimai Estijoje ir Latvijoje, regione A. Smetonos režimas atrodė
     visai liberalus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -153,8 +125,8 @@ Nenurodyta
     prezidentą. Taip renkant ypatinguo­sius tautos atstovus buvo labai sun-
     ku išrinkti A. Smetonai priešingą asmenį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -57,16 +57,6 @@ Nenurodyta
 - t-001
   global_id: t-55033
   teiginys: "Mūšio metu į medinius miesto namus mestas deglas sukėlė didžiulį gaisrą, per kurį ugnis pasiglemžė didelę Vilniaus dalį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "111606-111918; hash=0390ce0f08abe84abc5b986cb2b2fd494b1140d5f6787e75e5b240f67fc1a8bb; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Deglas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=64"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Deglas\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-55710
 
@@ -74,17 +64,6 @@ Nenurodyta
 - t-002
   global_id: t-81844
   teiginys: "Mūšio metu į medinius Vilniaus namus mestas deglas sukėlė didžiulį gaisrą, per kurį sudegė didelė miesto dalis."
-  semantiniai_rysiai: "Vokiečiai surengė žygį į Vilnius (0.76)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "111649-112374; hash=880b60d55ad2e79cfcbd9ee6fb271359940a96d7b672b9801ecce88b9e0b0a16; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "surenge_zygi_i -> Vilnius: 0.76"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vokiečiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata mini vokiečių kasmetinius žygius iki pat Vilniaus."
   pagrindžia:
     - c-78388
 - susijęs iš [[objektai/daiktai/Mediniai miesto namai.md#claim-t-87084|Mediniai miesto namai]]: Mūšio metu į medinius Vilniaus namus mestas deglas sukėlė gaisrą, per kurį sudegė didelė miesto dalis.
@@ -113,8 +92,8 @@ Nenurodyta
     dinius miesto namus mestas deglas sukėlė didžiulį gaisrą,
     per kurį didelę Vilniaus dalį pasiglemžė ugnis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -138,8 +117,8 @@ Nenurodyta
     siškas pastarojo kariaunos sunaikinimas tąkart apsaugojo
     sostinę nuo puolimo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

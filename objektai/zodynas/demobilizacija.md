@@ -46,20 +46,6 @@ Po demobilizacijos grįžo į Lietuvą, prisidėjo prie pirmųjų Lietuvos kariu
 - t-001
   global_id: t-42443
   teiginys: "Kazys Ladyga po demobilizacijos grįžo į Lietuvą ir prisidėjo prie pirmųjų Lietuvos kariuomenės dalinių organizavimo."
-  semantiniai_rysiai: "Kazys Ladyga keliavo į Lietuva (0.90)"
-  temporaliniai_duomenys: "įvykio data: 1914 m.; įvykio data: 1919 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys, kuriame demobilizacija aiškiai susieta su Ladygos veikla."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "786217-786774; hash=af00a11861a99072b48212909b6016646992fdd52e5efdab3b27b7000926f2af; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Lietuva: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kazys Ladyga: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Frazė tiesiogiai nurodo Kazio Ladygos judėjimą į Lietuvą."
   pagrindžia:
     - c-45509
 - susijęs iš [[objektai/ivykiai/Lietuvos kariuomenės dalinės demobilizacijos pradžia prieš J. Urbšio kelionę į Maskvą (1939 m. spalio 2 d. išvakarės).md#claim-t-20312|Lietuvos kariuomenės dalinės demobilizacijos pradžia prieš J. Urbšio kelionę į Maskvą (1939 m. spalio 2 d. išvakarės)]]: Juozo Urbšio kelionės į Maskvą išvakarėse pradėta dalinė Lietuvos kariuomenės demobilizacija buvo rizikingas žingsnis.
@@ -91,8 +77,8 @@ Po demobilizacijos grįžo į Lietuvą, prisidėjo prie pirmųjų Lietuvos kariu
     ninky pulko vadu. Ėjo 1-osios brigados vado pareigas, |
     1919 m. gegužę paskirtas Ukmergės grupės vadu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

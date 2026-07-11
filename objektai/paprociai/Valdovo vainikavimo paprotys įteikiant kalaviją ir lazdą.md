@@ -45,20 +45,6 @@ Nenurodyta
 - t-001
   global_id: t-185864
   teiginys: "Kernavės didikų sueigoje Giliginas buvo paskelbtas Lietuvos valdovu, o rūmų maršalas jam įteikė kalaviją ir lazdą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Trobius valdė Žemaitija (0.84)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "222578-223114; hash=24f7d0a031b9a02e4b0c031fb89e8800d4a0fa09219a2f41e76a15fea2f51aaa; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde -> Žemaitija: 0.84"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Trobius: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Žemaitija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citatoje pasakyta, kad Trobiui buvo patikėta Žemaitija."
   pagrindžia:
     - c-169225
 ## Reikšmingi paminėjimai
@@ -81,8 +67,8 @@ Nenurodyta
     paprotys, kuriuo valdovui suteikdavo aukščiausiąją ga­
     lią žiūrėti valstybės reikalų ir viduje, ir svetur.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -93,7 +79,8 @@ Nenurodyta
 - id: c-169225
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 131"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 131."
   citata_originali: |
     Sukvietus Kernavėje didikų sueigą, Germanto
     vyresnysis sūnus Giliginas buvo paskelbtas Lietuvos

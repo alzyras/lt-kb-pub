@@ -35,16 +35,6 @@ Dusburgietis teigia, kad apie vieno sūduvio atsivertimą ir nuostabų įvykį T
 - t-001
   global_id: t-60199
   teiginys: "Kilmingas sūduvis Ruseinis su visa šeimyna atvyko pas Baigos komtūrą ir netrukus leidosi pakrikštijamas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "521799-522283; hash=a28cfbccaba10c3420310ce5462a41c0fa990e8b07ea53a5c3435e000e812651; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Baiga: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ruseinis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Baiga: mention_match, place, gap=36"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ruseinis\" parinktas kaip owner_note_path. Targetas \"Baiga\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-60831
 - susijęs iš [[objektai/ivykiai/Ruseinio atsivertimas ir mirtis.md#claim-t-183961|Ruseinio atsivertimas ir mirtis]]: Kilmingas sūduvis Ruseinis su šeimyna atvyko pas Baigos komtūrą, pasikrikštijo ir po krikšto prašė pamokyti Kristaus tikėjimo.
@@ -67,8 +57,8 @@ Dusburgietis teigia, kad apie vieno sūduvio atsivertimą ir nuostabų įvykį T
     šeimyna, o netrukus po krikšto įsiligojo ir atgulęs pasišaukė vieną Baigos brolį kunigą, jį
     pakrikštijusį, ir nuolankiai paprašė jį pamokyti Kristaus tikėjimo.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -79,7 +69,8 @@ Dusburgietis teigia, kad apie vieno sūduvio atsivertimą ir nuostabų įvykį T
 - id: c-60831
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 165"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 165."
   citata_originali: |
     207 (202). Apie vieno sūduvio atsivertimą ir nuostabų įvykį
 
@@ -95,7 +86,3 @@ Dusburgietis teigia, kad apie vieno sūduvio atsivertimą ir nuostabų įvykį T
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60199
-
-## Ryšiai
-- Ruseinis keliavo į [[objektai/vietos/Baiga]]
-- Ruseinis pastatė [[objektai/daiktai/Medinis kryžius]]

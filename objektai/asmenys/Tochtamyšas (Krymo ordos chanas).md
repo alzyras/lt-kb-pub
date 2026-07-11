@@ -43,19 +43,6 @@ Bet jau 1409 m. artimose totorių žemėse Vytautui pavyko įkurdinti paklusnų 
 - t-001
   global_id: t-35297
   teiginys: "Po Tochtamyšo mirties jo vyriausias sūnus Saladinas buvo prisiglaudęs pas Vytautą."
-  semantiniai_rysiai: "Saladinas buvo sūnus Tochtamyšas (Krymo ordos chanas) (0.99)"
-  temporaliniai_duomenys: "įvykio data: 1409 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "356004-356328; hash=1d3584e89d3a4797843331b9f30bdf84b4e33451e4c76be0e1cc52e26dec29e0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sunus -> Tochtamyšas (Krymo ordos chanas): 0.99"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Saladinas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Tochtamyšas (Krymo ordos chanas): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Saladinas buvo Tochtamyšo sūnus."
   pagrindžia:
     - c-38126
 ## Reikšmingi paminėjimai
@@ -70,8 +57,8 @@ Bet jau 1409 m. artimose totorių žemėse Vytautui pavyko įkurdinti paklusnų 
     mirus, buvo pas Vytautą prisiglaudęs. Žalgirio karo metu ir jisai
     siuntė Vytautui pagalbos^1 ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

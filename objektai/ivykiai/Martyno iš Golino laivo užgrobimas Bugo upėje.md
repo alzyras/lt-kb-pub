@@ -50,18 +50,6 @@ Nenurodyta
 - t-001
   global_id: t-62393
   teiginys: "Martynas iš Golino prie Bugo upės užpuolė prekių laivą, išžudė upeivius ir atplukdė laivą į Torunę."
-  teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Martynas iš Golino keliavo į Torunė (0.78)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "551395-551911; hash=63dde8f9b69c7cb776090809af26a168aa828e42fdef06907503897ed6dbea24; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Torunė: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Martynas iš Golino: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Torunė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata nurodo, kad Martynas laivą atplukdė į Torunę, todėl palaikoma krypties sąsaja su Torune."
   pagrindžia:
     - c-62993
 ## Reikšmingi paminėjimai
@@ -85,8 +73,8 @@ Nenurodyta
 
           230 (225).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -97,7 +85,8 @@ Nenurodyta
 - id: c-62993
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 175"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 175."
   citata_originali: |
     229 (224). Apie tą patį
 

@@ -38,9 +38,6 @@ media_all_json: |-
 - t-001
   global_id: t-34947
   teiginys: "Władysławo Semkowicziaus darbas „Braterstwo szlachty polskiej z bojarstwem litewskiem w unii horodelskiej 1413 roku“ buvo išspausdintas leidinyje „Polska i Litwa w dziejowym stosunku“."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "10569-10765; hash=b5512f675abb90b4b9cf10f2340b0ed50739ada423eeffbb25cd8935c88cdb90; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-36172
 ## Reikšmingi paminėjimai
@@ -53,8 +50,8 @@ media_all_json: |-
     1413 roku. Atspausta leidiny: „Polska i Litwa w
     dziejowym stosunku“, 395—446 psi.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -55,16 +55,6 @@ Nenurodyta
 - t-001
   global_id: t-54305
   teiginys: "Lietuvos kunigaikščiai derėjosi dėl krikšto, tačiau kryžiaus karų epochos Europa, nebeleisdama savarankiško krikšto, tarsi atstūmė Lietuvą nuo krikščionybės."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "41824-42578; hash=ed33667d1186107386f157ce767b2c6f695d40a2fc71184e15681301db1fe9f5; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos kunigaikščių derybos dėl krikšto (krikštas): owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Kryžius: mention_match, thing, gap=52"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos kunigaikščių derybos dėl krikšto (krikštas)\" parinktas kaip owner_note_path. Targetas \"Kryžius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-55180
 
@@ -72,19 +62,6 @@ Nenurodyta
 - t-002
   global_id: t-183323
   teiginys: "Kryžiaus karų epochoje Lietuvos kunigaikščiai derėjosi dėl krikšto, bet Europa nebeleido valstybėms savarankiškai krikštytis."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "42381-42840; hash=5baf6897baeb28138cc4889cd926c7df71afdb4f64a5f8878fc038e58fb2008d; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Europa: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos kunigaikščių derybos dėl krikšto (krikštas): owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=49"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos kunigaikščių derybos dėl krikšto (krikštas)\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-166713
 ## Reikšmingi paminėjimai
@@ -105,8 +82,8 @@ Nenurodyta
     leisdama valstybėms savarankiškai krikštytis, pati tarsi atstums Lietuvą
     nuo krikščionybės.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -124,8 +101,8 @@ Nenurodyta
     tur, nemandagiai (Vakarų žvilgsniu) vadinsis karaliais. Tik Vytautas taps
     mandagesnis ir sieks įgyti karūną ir pripažinimą iš Vakarų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

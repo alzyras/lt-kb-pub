@@ -42,9 +42,6 @@ M. Sleževičius: komiteto pirmininkas buvo Rusijos Dūmos atstovas M. Yčas, vi
 - t-003
   global_id: t-79103
   teiginys: "M. Sleževičius buvo Lietuvių draugijos nukentėjusiems dėl karo šelpti Centro komiteto narys."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "1067060-1067553; hash=57668b06eddfb2f7d157713b4fdf849e6945ae0d6968b01b70a2a1f74ea00d6f; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-76194
 
@@ -52,21 +49,6 @@ M. Sleževičius: komiteto pirmininkas buvo Rusijos Dūmos atstovas M. Yčas, vi
 - t-004
   global_id: t-79104
   teiginys: "1919 m. rugpjūčio 30 d. ministras pirmininkas M. Sleževičius pasveikino vyr. kariuomenės vadą gen. S. Žukauską."
-  temporaliniai_duomenys: "įvykio data: 1919 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie M. Sleževičių ir remiasi cituotu fragmentu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "771866-772138; hash=7e06e713d3cdb0a9d51bbad1112da76b748d3347a8faf67d37522f4ab78a52bd; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Daugpilis: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "M. Sleževičius: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Daugpilis: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"M. Sleževičius\" parinktas kaip owner_note_path. Targetas \"Daugpilis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-13T15:43:24Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-42117
 - susijęs iš [[objektai/asmenys/L. Želigovskis.md#claim-t-19100|L. Želigovskis]]: L. Želigovskis 1920 m. spalio 9 d. su savo daliniais įžengė į Vilnių ir paskelbė Vidurinės Lietuvos sudarymą.
@@ -102,8 +84,8 @@ M. Sleževičius: komiteto pirmininkas buvo Rusijos Dūmos atstovas M. Yčas, vi
     daliniai, persekiodami priešus, rugpjū-
     čio 29 d. pasiekė Dauguvos krantus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -122,8 +104,8 @@ M. Sleževičius: komiteto pirmininkas buvo Rusijos Dūmos atstovas M. Yčas, vi
     neaprimus, Komitete kilo ginčų, ir trys paskutinieji (kairiųjų pažiū-
     rų) nariai iš jo išstojo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

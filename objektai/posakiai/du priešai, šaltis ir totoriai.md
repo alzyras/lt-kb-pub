@@ -35,17 +35,6 @@ Vytautui priskiriama lakoniška karo formulė pergalę ir galimą pralaimėjimą
 - t-002
   global_id: t-11660
   teiginys: "Posakis „du priešai: šaltis ir totoriai“ pateikiamas kaip Vytauto atsakymo dalis, kai saviškiai prie Dniepro ragino jį dėl šalčių mesti kovą su totoriais."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) kariavo prieš Totoriai (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "642700-643152; hash=38c71a5994b208bbdbf84cc779250a26d5873a5cb019a5b593759c8f00fce025; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
-  ryšio_patikimumas: "kariavo_pries -> Totoriai: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Totoriai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citatoje tiesiogiai minima Vytauto kova su totoriais."
   pagrindžia:
     - c-14579
 ## Reikšmingi paminėjimai
@@ -62,8 +51,8 @@ Vytautui priskiriama lakoniška karo formulė pergalę ir galimą pralaimėjimą
     gausime triumfą ant dviejų priešų; jei būsime nugalėti, kalbės
     apie mus, kad mus nugalėjo du priešai: šaltis ir totoriai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

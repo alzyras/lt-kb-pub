@@ -30,21 +30,6 @@ Matthäuso Praetoriaus „Schaubühne“ Teodoro Narbuto nuorodoje pateikiama ka
 - t-001
   global_id: t-191795
   teiginys: "Matthäuso Praetoriaus „Schaubühne“ Teodoro Narbuto nuorodoje pateikiama kaip šaltinis sudargų genties pavadinimo kilmei aiškinti."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "479165-479345; hash=f189dceb79fe59f87e5c78e5d6149a24574fb21d382d14bec2b2aa3c16d428b2; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Sudargai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Matthäus Praetorius, Schaubühne: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Sudargai: mention_match, group, gap=86"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Matthäus Praetorius, Schaubühne\" parinktas kaip owner_note_path. Targetas \"Sudargai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174677
 ## Reikšmingi paminėjimai
@@ -58,8 +43,8 @@ Matthäuso Praetoriaus „Schaubühne“ Teodoro Narbuto nuorodoje pateikiama ka
     todėl nebuvo įskaičiuojama į Prūsiją sudarančių provin­
     1 Praetorius. Schaubühne. B. III. C. 4.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -70,7 +55,8 @@ Matthäuso Praetoriaus „Schaubühne“ Teodoro Narbuto nuorodoje pateikiama ka
 - id: c-174677
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 269"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 269."
   citata_originali: |
     Pavadinimas kilęs iš lietuvių
     sudargų genties1 2, kurios dauguma priklausė Rusiai ir

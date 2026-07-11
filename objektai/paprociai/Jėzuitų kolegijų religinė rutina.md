@@ -53,9 +53,6 @@ Nenurodyta
 - t-002
   global_id: t-67100
   teiginys: "Jėzuitų kolegijose buvo ypač prižiūrima, kad mokiniai atliktų religinę praktiką, lankytų mišias ir kitas pamaldas."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "hash=566661cf4076cd924357d7822dd980e8b53a753777414b798b973df6a4fc6754; match=normalized; occurrences=1"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-67136
 
@@ -63,9 +60,6 @@ Nenurodyta
 - t-001
   global_id: t-67103
   teiginys: "Jėzuitų kolegijose buvo prižiūrima, kad mokiniai atliktų religinę praktiką ir lankytų mišias."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "697819-698057; hash=f5ecfb8b5a58a86adb3d05d45dedddcfe8a8ef4cb514a8e7bdf0fd8ead5f8abd; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-67138
 ## Reikšmingi paminėjimai
@@ -81,8 +75,8 @@ Nenurodyta
     vaidinimus ir disputus. Kolegijose visur buvo religinių mo-
     kinių brolijų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -97,8 +91,8 @@ Nenurodyta
     būdavo mokytojų priežiūroje. Ypatingai buvo žiūrima, kad
     mokiniai atliktų religinę praktiką, lankytų mišias ir kitas pa-
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

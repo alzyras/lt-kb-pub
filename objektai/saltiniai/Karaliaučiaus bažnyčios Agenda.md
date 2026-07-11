@@ -36,24 +36,6 @@ Narbutas nurodo, kad Karaliaučiaus bažnyčios Agenda liudija Prūsijos lietuvi
 - t-001
   global_id: t-190540
   teiginys: "Narbutas nurodo, kad Karaliaučiaus bažnyčios Agenda liudija Prūsijos lietuvius iki 1530 m. laikiusis aukų Pergrubei apeigų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: iki 1530 m.; įvykio data: 1530 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Išskleistas šaltinis ir pašalintos OCR klaidos. Religinis teiginys paliktas kaip Narbuto pateikiamas liudijimas, be papildomo kulto aiškinimo."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "232132-232468; hash=7d06f6b20d38ab1ef8f901802f037a40f53bea3fe988ca33d5d1e20c64be9384; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Karaliaučiaus bažnyčios Agenda: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=48"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Karaliaučiaus bažnyčios Agenda\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173423
 ## Reikšmingi paminėjimai
@@ -70,8 +52,8 @@ Narbutas nurodo, kad Karaliaučiaus bažnyčios Agenda liudija Prūsijos lietuvi
     Milda (Milda)
     Meilės ir piršlybų deivė, kitaip Aleksotą (Alexota).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -82,7 +64,8 @@ Narbutas nurodo, kad Karaliaučiaus bažnyčios Agenda liudija Prūsijos lietuvi
 - id: c-173423
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 133"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 133."
   citata_originali: |
     Tam tikrą to kulto panašybę Tavernjė (Tavernier) rado net pas
     čerkesų ir kum anų totorius12 13. Aukų atnašavimo Pergrubei apei­

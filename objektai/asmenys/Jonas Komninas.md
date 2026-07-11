@@ -38,25 +38,6 @@ Pasak Narbuto, 1121 m. graikų imperatorius Jonas Komninas galutinai nugalėjo p
 - t-001
   global_id: t-191284
   teiginys: "Pasak Narbuto, 1121 m. graikų imperatorius Jonas Komninas galutinai nugalėjo pečenegus, ir nuo tada prasidėjo jų vardo smukimas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Jonas Komninas kariavo prieš Pečenegai (0.91)"
-  temporaliniai_duomenys: "mūšio data: 1121 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Jonas Komninas kariavo prieš Pečenegai“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys pilnas ir aiškiai sieja Joną Komniną su 1121 m. pečenegų pralaimėjimu. Atribucija palikta, nes formuluotė apie vardo smukimą yra Narbuto istorinė interpretacija."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "188104-188476; hash=e067185b728015bd4964ff352650e7ac7296c328e244eb81c54e8a3b43b2b379; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Pečenegai: 0.91"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jonas Komninas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Pečenegai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Pečenegų nugalėjimas aiškiai rodo karinį konfliktą su jais."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174166
 
@@ -64,25 +45,6 @@ Pasak Narbuto, 1121 m. graikų imperatorius Jonas Komninas galutinai nugalėjo p
 - t-002
   global_id: t-191285
   teiginys: "Pasak Narbuto, Jonui Komninui 1121 m. nugalėjus pečenegus, hiriai išsikėlė į kairįjį Dnepro krantą pas poloviečius."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Hiriai keliavo į Dnepras (0.90)"
-  temporaliniai_duomenys: "kelionės data: 1121 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Hiriai keliavo į Dnepras“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra išbaigtas sakinys apie Joną Komniną ir Narbuto aiškinamą hirių persikėlimą. Nepridėta platesnių išvadų apie vietovardžius ar hirių kilmę."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "535027-535739; hash=50f4bd0dc5d6f56eef023b38eecba182471e84fd1d78296e7680656d9d0e83c8; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Dnepras: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Hiriai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Dnepras: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Išsikėlimas į Dnepro krantą tiesiogiai nurodo hirių judėjimo kryptį."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174167
 ## Reikšmingi paminėjimai
@@ -101,8 +63,8 @@ Pasak Narbuto, 1121 m. graikų imperatorius Jonas Komninas galutinai nugalėjo p
     97
     Poloviečių pavadinimo ištakos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -127,8 +89,8 @@ Pasak Narbuto, 1121 m. graikų imperatorius Jonas Komninas galutinai nugalėjo p
     vių krašto, esančio Nemuno žemupio dešiniojoje pakran­
     tėje, kur jie gyveno prie Jūros upės.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -139,7 +101,8 @@ Pasak Narbuto, 1121 m. graikų imperatorius Jonas Komninas galutinai nugalėjo p
 - id: c-174166
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 105"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 105."
   citata_originali: |
     Pasakysime tik tiek, kad pečenegus, po
     hunų ir avarų įsikūrusius krašte, esančiame Dunojaus ir
@@ -160,7 +123,8 @@ Pasak Narbuto, 1121 m. graikų imperatorius Jonas Komninas galutinai nugalėjo p
 - id: c-174167
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 298"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 298."
   citata_originali: |
     294
     Išsiaiškinus visus šiuos dalykus, nereikia abejoti, kad

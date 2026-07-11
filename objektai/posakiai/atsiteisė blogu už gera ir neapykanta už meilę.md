@@ -50,16 +50,6 @@ Dusburgietis teigia, kad tačiau tas vyras, užmiršęs patirtas malones, atsite
 - t-001
   global_id: t-59080
   teiginys: "Dusburgietis rašė, kad Glapo mėgtas valdinys Steinavas už patirtas malones atsiteisė blogu už gera ir neapykanta už meilę."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "428013-428297; hash=76ee1c6076af04a14e015b51d4bc6034290eb7087d60499d4d52f2e032022398; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Glapas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "atsiteisė blogu už gera ir neapykanta už meilę: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Glapas: mention_match, person, gap=32"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"atsiteisė blogu už gera ir neapykanta už meilę\" parinktas kaip owner_note_path. Targetas \"Glapas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-59713
 - susijęs iš [[objektai/grupes/Varmiai.md#claim-t-78537|Varmiai]]: Glapas, varmių vadas, turėjo mėgstamą valdinį Steinavą, kurį daug kartų buvo gelbėjęs iš mirtino pavojaus.
@@ -75,8 +65,8 @@ Dusburgietis teigia, kad tačiau tas vyras, užmiršęs patirtas malones, atsite
     kartų jį buvo gelbėjęs iš mirtino pavojaus. Tačiau tas vyras, užmiršęs patirtas malones,
     atsiteisė blogu už gera ir neapykanta už meilę.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -87,7 +77,8 @@ Dusburgietis teigia, kad tačiau tas vyras, užmiršęs patirtas malones, atsite
 - id: c-59713
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 133"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 133."
   citata_originali: |
     Apie Glapo, varmių vado, mirtį ir varmių bei notangų pavergimą
 

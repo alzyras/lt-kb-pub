@@ -30,19 +30,6 @@ Kolonijos Agripinos arkivyskupas Avigenas su kariuomene patraukė į žygį ir j
 - t-001
   global_id: t-186096
   teiginys: "Kolonijos Agripinos arkivyskupas Avigenas su kariuomene patraukė į žygį ir jai vadovavo lyg etmonas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "142300-142926; hash=ab37ac854bcc7fb7d9a3459c9de5e75e18ad2867eee1e8381ae2b595b3be3323; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> etmonas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Avigenas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "etmonas: mention_match, thing, gap=59"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Avigenas\" parinktas kaip owner_note_path. Targetas \"etmonas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-169457
 - susijęs iš [[objektai/grupes/Kuršiai.md#claim-t-184514|Kuršiai]]: Staiga kilusi grėsmė išjudino daug kuršių, žemaičių ir lietuvių priešintis priešui, kurio pavojų rodė pavergtos Latvijos likimas.
@@ -66,8 +53,8 @@ Kolonijos Agripinos arkivyskupas Avigenas su kariuomene patraukė į žygį ir j
     kaip labai pavojinga iš pat pradžių neatremti visomis
     jėgomis į kovą pakilusio priešo.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -78,7 +65,8 @@ Kolonijos Agripinos arkivyskupas Avigenas su kariuomene patraukė į žygį ir j
 - id: c-169457
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 86"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 86."
   citata_originali: |
     Rodosi, tų pačių valdovų viešpatavimo metais Livoni-
     stydamiesi krikščionybės platinimo tikslais, karą jie vis

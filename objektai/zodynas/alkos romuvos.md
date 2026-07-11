@@ -33,9 +33,6 @@ alkos romuvos: archeologai atkasa dabar tų šventovių, kurias apylinkės žmon
 - t-001
   global_id: t-70078
   teiginys: "Archeologų atkastas senąsias šventoves apylinkių žmonės dažnai vadino alkų vardais."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "87516-87761; hash=be49a9fa8802c192f9855c4dc4924d7faea680faa7ad02c7b9bcaedab9728b05; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-69190
 
@@ -43,9 +40,6 @@ alkos romuvos: archeologai atkasa dabar tų šventovių, kurias apylinkės žmon
 - t-002
   global_id: t-70079
   teiginys: "Šapokos veikale pasakojimas apie vieną vyriausiąją šventovę Romuvą laikomas viduramžių rašytojų prasimanymu."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "88609-89213; hash=65ff7d9f22a3d561857ce09f09b689f65846e948d1660fa2b569eb31fa6b4952; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-69189
 ## Reikšmingi paminėjimai
@@ -65,8 +59,8 @@ alkos romuvos: archeologai atkasa dabar tų šventovių, kurias apylinkės žmon
     namos romuvomis, kitur alkomis, — gal būt, dėl skirtingo savo
     pobūdžio arba dėl tarminių skirtumų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -82,8 +76,8 @@ alkos romuvos: archeologai atkasa dabar tų šventovių, kurias apylinkės žmon
     dažniausiai vadina savotiškais alkų vardais. Alkos kalnų, Al-
     kakapių, Alkų kaimų — pilna Lietuvoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

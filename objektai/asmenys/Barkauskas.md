@@ -32,9 +32,6 @@ Pirmoji grupė, vadovaujama leitenanto Barkausko, puls štabą, o antroji, vadov
 - t-001
   global_id: t-80708
   teiginys: "Leitenanto Barkausko vadovaujama pirmoji grupė turėjo pulti bolševikų štabą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "762539-762773; hash=d6af51f4edca420bf2071546020c8805ef3be59d80292c813652e541c3fe2bee; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-41867
 - susijęs iš [[objektai/asmenys/Lukoševičius.md#claim-t-80739|Lukoševičius]]: Skyrininkas Lukoševičius nudūrė leitenantą Barkauską už gerklės griebusį komisarą.
@@ -59,8 +56,8 @@ Pirmoji grupė, vadovaujama leitenanto Barkausko, puls štabą, o antroji, vadov
     jama leitenanto Barkausko, puls štabą, o antroji, vadovaujama karininko Sangino, puls
     dvaro klojimą, kuriame [miegojo] dvi bolševikų kuopos. [...].
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

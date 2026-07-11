@@ -33,17 +33,6 @@ Kričevskio vadovaujami kariai priversti atsitraukti į mišką, iš ten nusilei
 - t-001
   global_id: t-38449
   teiginys: "Kričevskio vadovaujami kazokai atsitraukė prie Dniepro ir įsitvirtino stovykloje netoli Bragino."
-  semantiniai_rysiai: "Kazokai keliavo į Dniepras (0.81)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "496978-497389; hash=a95a0d3943ab9dd7a3e97b37ba3903d2ffd320df92674275031791bf9faea838; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Dniepras: 0.81"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kazokai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Dniepras: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Kazokų atsitraukimas prie Dniepro rodo jų judėjimą į šią vietą."
   pagrindžia:
     - c-40253
 - susijęs iš [[objektai/ivykiai/Lojevo mūšis (1649 m. liepos 31 d.).md#claim-t-49173|Lojevo mūšis (1649 m. liepos 31 d.)]]: Lojevo mūšyje kazokų kariuomenė buvo perskelta į dvi dalis, jos kairysis sparnas sumuštas, o M. Kričevskio kariai atsitraukė į mišką.
@@ -65,8 +54,8 @@ Kričevskio vadovaujami kariai priversti atsitraukti į mišką, iš ten nusilei
     „vokiečių“ pėstininkų ataką. Lietuviai vėl
     mėgino nesėkmingai užimti stovyklą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

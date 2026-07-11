@@ -58,19 +58,6 @@ Nenurodyta
 - t-003
   global_id: t-186652
   teiginys: "Olbrachtas pasitraukė nuo Sučiavos ir žygiavo gilyn į Moldaviją."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "261678-262514; hash=4b6a2e2cea0b30ab3195ea930d709dae2a2742aebe8cf5a691161a66a6a8e4a1; match=whitespace_regex"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
-  ryšio_patikimumas: "susije_su -> Moldavija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jono Olbrachto žygis į Moldaviją ir Sučiavos apgultis: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Moldavija: mention_match, place, gap=54"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jono Olbrachto žygis į Moldaviją ir Sučiavos apgultis\" parinktas kaip owner_note_path. Targetas \"Moldavija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-169914
 
@@ -78,19 +65,6 @@ Nenurodyta
 - t-004
   global_id: t-186653
   teiginys: "Lietuvos metraštis pasakoja, kad Moldavijos vaivada Steponas pasiuntė pasiuntinius pas Olbrachtą ir sudarė su juo taiką."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "261678-262514; hash=4b6a2e2cea0b30ab3195ea930d709dae2a2742aebe8cf5a691161a66a6a8e4a1; match=whitespace_regex"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
-  ryšio_patikimumas: "susije_su -> Moldavija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jono Olbrachto žygis į Moldaviją ir Sučiavos apgultis: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Moldavija: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jono Olbrachto žygis į Moldaviją ir Sučiavos apgultis\" parinktas kaip owner_note_path. Targetas \"Moldavija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-169914
 
@@ -98,17 +72,6 @@ Nenurodyta
 - t-001
   global_id: t-186654
   teiginys: "Olbrachtas kelias dienas stovėjo prie Sučiavos, bet suprato, kad miesto nepaims."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "261678-262514; hash=4b6a2e2cea0b30ab3195ea930d709dae2a2742aebe8cf5a691161a66a6a8e4a1; match=whitespace_regex"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
-  ryšio_patikimumas: "susije_su -> Sučiava: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jono Olbrachto žygis į Moldaviją ir Sučiavos apgultis: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Sučiava: mention_match, place, gap=38"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jono Olbrachto žygis į Moldaviją ir Sučiavos apgultis\" parinktas kaip owner_note_path. Targetas \"Sučiava\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-169914
 
@@ -116,19 +79,6 @@ Nenurodyta
 - t-005
   global_id: t-186655
   teiginys: "Lietuvos metraštis teigia, kad Moldavijos vaivada Steponas su Olbrachtu sudarė taiką, sutiko duoti vasalo ištikimybės priesaiką ir surašė raštus."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "261678-262514; hash=4b6a2e2cea0b30ab3195ea930d709dae2a2742aebe8cf5a691161a66a6a8e4a1; match=whitespace_regex"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
-  ryšio_patikimumas: "susije_su -> Moldavija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jono Olbrachto žygis į Moldaviją ir Sučiavos apgultis: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Moldavija: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jono Olbrachto žygis į Moldaviją ir Sučiavos apgultis\" parinktas kaip owner_note_path. Targetas \"Moldavija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-169914
 
@@ -136,17 +86,6 @@ Nenurodyta
 - t-002
   global_id: t-186656
   teiginys: "Sučiavos gynėjai paragino Olbrachtą kautis su Steponu lauke."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "261678-262514; hash=4b6a2e2cea0b30ab3195ea930d709dae2a2742aebe8cf5a691161a66a6a8e4a1; match=whitespace_regex"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
-  ryšio_patikimumas: "gyne -> Sučiava: 0.63"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Steponas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Sučiava: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Sučiavos gynėjai nurodo Steponą su kariuomene lauke kaip miesto valdovą ir atramą, bet gynybos veiksmas nėra pasakytas pažodžiui."
   pagrindžia:
     - c-169914
 
@@ -154,12 +93,6 @@ Nenurodyta
 - t-006
   global_id: t-193853
   teiginys: "Patikimai sužinojęs, kad karalius Olbrach tas, pykčiu degdamas, su neapsakoma galybe įsiveržė į jo žemę, Moldavijos vaivada Steponas sutraukė visą savo kariuomenę, gerai sustiprino savo sostinę — Sučiavos2 7 pilį bei visus kitus savo miestus ir, palikęs ten."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "261007-261675; hash=19ea5cf1ecfb0edf75e5b083ffcd46c686dc4b7a7fae5b4268831ca78d859193; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176492
 ## Reikšmingi paminėjimai
@@ -184,8 +117,8 @@ Nenurodyta
     tėvui, karaliui Kazimierui, ir surašė raštus, prisiekė
     griežtai to prisilaikysiąs3 2 .
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -216,8 +149,8 @@ Nenurodyta
     lamas vienuolynas, vadinamas Putnu 2 S , ir ten apsistojo
     su visa savo kariuomene kaip didelėje tvirtovėje2 9 .
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

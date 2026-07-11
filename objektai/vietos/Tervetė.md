@@ -39,19 +39,6 @@ Kai kryžiuočiams nepasisekė paimti žiemgalių pilies Tervetės (į šiaurę 
 - t-001
   global_id: t-32581
   teiginys: "Kryžiuočiams nepavyko paimti į šiaurę nuo Žagarės buvusios žiemgalių pilies Tervetės."
-  semantiniai_rysiai: "Kryžiuočių ordinas puolė Tervetė (0.82)"
-  temporaliniai_duomenys: "įvykio data: 1259 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "519053-519517; hash=3d0b8492ff39294b9426488a0fc26b611c526be8148720942a31c4f410187d14; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Tervetė: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Tervetė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Bandymas paimti pilį tiesiogiai rodo kryžiuočių karinį veiksmą prieš Tervetę."
   pagrindžia:
     - c-34049
 - susijęs iš [[objektai/asmenys/Nameisis (žiemgalių kunigaikštis).md#claim-t-40367|Nameisis (žiemgalių kunigaikštis)]]: Nameisio vadovaujami ir lietuvių remiami žiemgaliai po Livonijos ordino sutriuškinimo atsiėmė Tervetės pilį.
@@ -75,8 +62,8 @@ Kai kryžiuočiams nepasisekė paimti žiemgalių pilies Tervetės (į šiaurę 
     prie Georgenburgo ir, pasistatę sau pilį kaimynystėje, iš jos puldi­
     nėjo nykstančią ir maisto trūkstančią vokiečių įgulą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -105,6 +92,4 @@ Kai kryžiuočiams nepasisekė paimti žiemgalių pilies Tervetės (į šiaurę 
     - t-32581
 
 ## Ryšiai
-- Buvo valdoma: [[objektai/grupes/Žiemgaliai]]
-- Puolė Tervetę: [[objektai/grupes/Kryžiuočių ordinas]]
 - Užėmė Tervetę: [[objektai/grupes/Žiemgaliai]]

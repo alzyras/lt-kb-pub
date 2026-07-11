@@ -46,16 +46,6 @@ Nenurodyta
 - t-004
   global_id: t-07800
   teiginys: "Jaunas žemaitis į bažnyčią ar į mugę mieliau joja, negu važiuoja vežimu."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "314759-315235; hash=52caf70f11f6a3f6d04f609c49adb87d6b222295d14db2a16e19d8571237c47d; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
-  ryšio_patikimumas: "susije_su -> gaspadorius: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Raitas keliavimas į bažnyčią, mugę ir kitas vietas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "gaspadorius: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Raitas keliavimas į bažnyčią, mugę ir kitas vietas\" parinktas kaip owner_note_path. Targetas \"gaspadorius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-09958
 ## Reikšmingi paminėjimai
@@ -70,8 +60,8 @@ Nenurodyta
         jaunus pjovėjus būtinai nuvargusius tais žodžiais: „Vaikeliai, benkim tą barą šiandien, aš jums rytoj
         duosiu arklius į bažnyčią joti.“
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

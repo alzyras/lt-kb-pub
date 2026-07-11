@@ -42,17 +42,6 @@ Per 150 metų toliau patverusi su Tverės kunigaikš­ čiais sąjunga, kuri rei
 - t-003
   global_id: t-82550
   teiginys: "Gedimino duktė Marija buvo ištekinta už Rusios kunigaikščio Boleslovo."
-  semantiniai_rysiai: "Marija (Gedimino duktė) buvo duktė Gediminas (0.92)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "66666-67124; hash=ac25c064604d04f79d4b65a38822935f08ea91e02943fcb8964844949a09a58c; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_dukte -> Gediminas: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Marija (Gedimino duktė): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Gediminas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Claim tekstas tiesiogiai įvardija Mariją kaip Gedimino dukterį."
   pagrindžia:
     - c-79027
 
@@ -60,17 +49,6 @@ Per 150 metų toliau patverusi su Tverės kunigaikš­ čiais sąjunga, kuri rei
 - t-001
   global_id: t-82552
   teiginys: "Gedimino duktė Marija politinėmis vedybomis ištekėjo už didžiojo Tverės kunigaikščio Dimitro."
-  semantiniai_rysiai: "Marija (Gedimino duktė) buvo duktė Gediminas (0.98)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "670195-670616; hash=a5ebac49f45c1653f614a51a2e3247c566468aee99d02e513d0c4d85d48b0cac; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_dukte -> Gediminas: 0.98"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Marija (Gedimino duktė): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Gediminas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Mariją kaip Gedimino dukterį."
   pagrindžia:
     - c-79029
 ## Reikšmingi paminėjimai
@@ -93,8 +71,8 @@ Per 150 metų toliau patverusi su Tverės kunigaikš­ čiais sąjunga, kuri rei
     1326 metų spalio 15 dieną totorių
     chano Uzbeko įsakymu nužudyto.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -111,8 +89,8 @@ Per 150 metų toliau patverusi su Tverės kunigaikš­ čiais sąjunga, kuri rei
     XV amž. antros pusės Tverės kunigaikščiai, varžydamiesi su Mask­
     va, sau vis ieškojo paramos Vilniuje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -34,18 +34,6 @@ Dusburgietis teigia, kad vidurio Ordino dokumentuose atsiranda lytis Neringe.
 - t-001
   global_id: t-61175
   teiginys: "Vidurio Ordino dokumentuose atsiranda lytis Neringe."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "535091-535310; hash=84570fbe100625d26a67049c3778cad6dc279e150424ceea0d689d9060861b15; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kuršiai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mažiulis V., Dėl Neringos: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Kuršiai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mažiulis V., Dėl Neringos\" parinktas kaip owner_note_path. Targetas \"Kuršiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
-  vertinimo_autorius: "claim_quality_pipeline / rewrite"
   pagrindžia:
     - c-61807
 ## Reikšmingi paminėjimai
@@ -59,8 +47,8 @@ Dusburgietis teigia, kad vidurio Ordino dokumentuose atsiranda lytis Neringe.
     pavadinimus: Kopos (Kopai), Kalnai, Pajūriai (Pajūrės), Randavos (Mažiulis V., Dėl
     Neringos..., p. 301—315).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -71,7 +59,8 @@ Dusburgietis teigia, kad vidurio Ordino dokumentuose atsiranda lytis Neringe.
 - id: c-61807
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 169"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 169."
   citata_originali: |
     Nuo XV a. vidurio Ordino
     dokumentuose atsiranda lytis Neringe. Lietuvių kalba težinojusi tokius Kuršių nerijos

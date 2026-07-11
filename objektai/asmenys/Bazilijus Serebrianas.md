@@ -42,19 +42,6 @@ Viena jų, vadovaujama kunigaikščio Baziliaus Serebriano, pajudėjo iš Smolen
 - t-001
   global_id: t-40066
   teiginys: "Kunigaikštis Bazilijus Serebrianas vadovavo iš Smolensko pajudėjusiai grupei."
-  semantiniai_rysiai: "Bazilijus Serebrianas keliavo į Lietuva (0.72)"
-  temporaliniai_duomenys: "įvykio data: 1564 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "350463-350963; hash=4fd292171d0b11fc655a8f3ddcc6886db77641f573d4e2519f9a062b72e7ea4b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Lietuva: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Bazilijus Serebrianas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Jo vadovaujama kariuomenė buvo viena iš į Lietuvą įsiveržusių kariuomenių."
   pagrindžia:
     - c-44308
 ## Reikšmingi paminėjimai
@@ -77,8 +64,8 @@ Viena jų, vadovaujama kunigaikščio Baziliaus Serebriano, pajudėjo iš Smolen
     susijungti ir pulti Minsko, Naugarduko, o
     vėliau Vilniaus kryptimi.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -112,6 +99,3 @@ Viena jų, vadovaujama kunigaikščio Baziliaus Serebriano, pajudėjo iš Smolen
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40066
-
-## Ryšiai
-- Bazilijus Serebrianas keliavo į [[objektai/vietos/Lietuva]]

@@ -38,12 +38,6 @@ Dusburgietis teigia, kad mažiulis V.
 - t-001
   global_id: t-61171
   teiginys: "V. Mažiulio recenzija apie B. H. Топоров „Прусский язык. Словарь (А-Д)“ paskelbta „Baltistica“ 1979 m."
-  temporaliniai_duomenys: "įvykio data: 1979 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata patvirtina recenzijos objektą, žurnalą ir metus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "785715-785815; hash=a1a1bd1a0c103952900bc099d29500bd1106c950a0896249277212212f7d1dfd; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-61803
 ## Reikšmingi paminėjimai
@@ -55,8 +49,8 @@ Dusburgietis teigia, kad mažiulis V.
     Mažiulis V. Rec: B. H. Топоров. Прусский язык. Словарь (А-Д). —Baltistica, 1979,
     15 (2), р. 146—149.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -67,7 +61,8 @@ Dusburgietis teigia, kad mažiulis V.
 - id: c-61803
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 267"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 267."
   citata_originali: |
     Mažiulis V. Rec: B. H. Топоров. Прусский язык. Словарь (А-Д). —Baltistica, 1979,
     15 (2), р. 146—149.

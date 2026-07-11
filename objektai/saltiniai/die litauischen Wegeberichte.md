@@ -34,17 +34,6 @@ Ar XIV amž. gale kryžiuočių ordino surašytuose Lie­ tuvos kelių aprašymu
 - t-001
   global_id: t-32022
   teiginys: "XIV a. pabaigos „die litauischen Wegeberichte“ įvairiose Aukštaičių žemės vietose mini 18 didžiojo kunigaikščio dvarų."
-  semantiniai_rysiai: "Lietuviai gyveno Zietela (0.74)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "353875-354448; hash=3411516110b29d84ee095996bc992840d556cfc672d4884233370d9140265e5a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Zietela: 0.74"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Zietela: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata teigia, kad lietuvių gyventas plotas matomas Zieteloje, todėl palaikomas lietuvių gyvenimo ryšys su Zietela."
   pagrindžia:
     - c-33775
 ## Reikšmingi paminėjimai
@@ -62,8 +51,8 @@ Ar XIV amž. gale kryžiuočių ordino surašytuose Lie­ tuvos kelių aprašymu
     atviras klausimas. Savo dvarus didysis kunigaikštis paprastai turėjo
     jam betarpiškai priklausančiose lietuviškose tėviškės valdose.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

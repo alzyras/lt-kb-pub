@@ -38,12 +38,6 @@ media_all_json: |-
 - t-001
   global_id: t-193724
   teiginys: "Ši mintis paskatino kai kuriuos inteligentus, gyvenusius Žemaitijoje, imti rašyti poeziją žemaitiškai, arba lietuviškai (Dionizas Poška, Silvestras Valiūnas)."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "208030-208583; hash=4b51e1140f6dcab300e645a5d7b0896d3704aedc11401553cf49ae6024710512; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176393
 ## Reikšmingi paminėjimai
@@ -63,8 +57,8 @@ media_all_json: |-
     Žemaitijoje, imti rašyti poeziją žemaitiškai, arba lietuviškai (Dionizas
     Poška, Silvestras Valiūnas). Įspūdį padarė 1818 m.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -61,22 +61,6 @@ Nenurodyta
 - t-001
   global_id: t-186700
   teiginys: "Redakcinė pastaba Teodoro Karijotaičio pašalinimą iš Podolės 1393 m. sieja su Vytautu ir laiko valstybės centralizavimo aktu."
-  teiginio_tipas: "saltinio_teiginys"
-  temporaliniai_duomenys: "įvykio data: 1388 m.; įvykio data: apie 1388 m.; įvykio data: 1393 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
-  temporalinis_llm_pakomentavimas: "Citata palaiko ir veiksmą, ir redakcinį vertinimą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "395340-395684; hash=25e709cb2eff5346adb5f3e889014f572bc7e7515006e8dec64e8583ec2e942b; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
-  ryšio_patikimumas: "susije_su -> Podolė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Teodoro Karijotaičio pašalinimas iš Podolės: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Podolė: mention_match, place, gap=35"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Teodoro Karijotaičio pašalinimas iš Podolės\" parinktas kaip owner_note_path. Targetas \"Podolė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-169937
 
@@ -84,23 +68,6 @@ Nenurodyta
 - t-002
   global_id: t-186702
   teiginys: "Vytautas 1393 m. pašalino Teodorą Karijotaitį iš Podolės ir pats perėmė jos valdymą."
-  teiginio_tipas: "saltinio_teiginys"
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) valdė Podolė (0.94)"
-  temporaliniai_duomenys: "įvykio data: 1393 m.; įvykio data: 1394 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Suformuluotas tiesioginis faktinis sakinys apie pašalinimą ir valdymo perėmimą. Nepridėta vėlesnių Jogailos sprendimų dėl Podolės."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "397132-397538; hash=686c3cbf511469ae5e00b5a8145f3c9ddb8671c4535b237837bb1ecae590fe35; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
-  ryšio_patikimumas: "valde -> Podolė: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Podolė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Vytautas po Teodoro pašalinimo pats perėmė Podolės valdymą."
-  vertinimo_atnaujinta: "2026-06-17T07:18:43Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-169936
 
@@ -108,23 +75,6 @@ Nenurodyta
 - t-002
   global_id: t-186702
   teiginys: "Vytautas 1393 m. pašalino Teodorą Karijotaitį iš Podolės ir pats perėmė jos valdymą."
-  teiginio_tipas: "saltinio_teiginys"
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) valdė Podolė (0.94)"
-  temporaliniai_duomenys: "įvykio data: 1393 m.; įvykio data: 1394 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Suformuluotas tiesioginis faktinis sakinys apie pašalinimą ir valdymo perėmimą. Nepridėta vėlesnių Jogailos sprendimų dėl Podolės."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "397132-397538; hash=686c3cbf511469ae5e00b5a8145f3c9ddb8671c4535b237837bb1ecae590fe35; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
-  ryšio_patikimumas: "valde -> Podolė: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Podolė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Vytautas po Teodoro pašalinimo pats perėmė Podolės valdymą."
-  vertinimo_atnaujinta: "2026-06-17T07:18:43Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-169936
 ## Reikšmingi paminėjimai
@@ -140,8 +90,8 @@ Nenurodyta
     Mežibožu, Busku ir Vinica, veikiausiai, ir toliau pasiliko Vytauto
     valdoma.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -159,8 +109,8 @@ Nenurodyta
     1 7  Teodoro Karijotaičio pašalinimas Iš Podolės (jį pašalino Vy­
     tautas 1393 m.) laikytinas vienu iš valstybės centralizavimo aktų.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

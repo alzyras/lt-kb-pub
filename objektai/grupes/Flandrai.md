@@ -41,18 +41,6 @@ Dusburgietis teigia, kad apie daugybės prancūzų ir flandrų žūtį Tų pači
 - t-001
   global_id: t-62996
   teiginys: "Flandrijos gyventojai liepos mėnesį sukilo prieš Prancūzijos karalių ir mūšyje nukovė tris tūkstančius prancūzų kilmingųjų."
-  teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Flandrai kariavo prieš Prancūzai (0.84)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "734039-734592; hash=b765cd7c005df636b8bd338bfe30ff7e9ac1fe785203e84905c1cbe224e61f27; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Prancūzai: 0.84"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Flandrai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Prancūzai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Flandrijos gyventojų sukilimas ir prancūzų kilmingųjų nukovimas tiesiogiai rodo karinį konfliktą su prancūzais."
   pagrindžia:
     - c-63900
 
@@ -60,18 +48,6 @@ Dusburgietis teigia, kad apie daugybės prancūzų ir flandrų žūtį Tų pači
 - t-002
   global_id: t-62997
   teiginys: "Prancūzų ir flandrų kautynėse abi šalys prarado daug užmuštųjų."
-  teiginio_tipas: "saltinio_teiginys"
-  semantiniai_rysiai: "Flandrai kariavo prieš Prancūzai (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "734460-734668; hash=b568929cf4a762d074d06c3710493862051a8b914cb04039413934d38c844db7; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Prancūzai: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Flandrai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Prancūzai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Kautynės tarp prancūzų ir flandrų tiesiogiai pagrindžia tarpusavio karinį konfliktą."
   pagrindžia:
     - c-63899
 - susijęs iš [[objektai/ivykiai/Flandrijos sukilimas ir kautynės su prancūzais (1302–1303 m.).md#claim-t-62781|Flandrijos sukilimas ir kautynės su prancūzais (1302–1303 m.)]]: Per Flandrijos sukilimo laikotarpio prancūzų ir flandrų kautynes abi šalys neteko daug užmuštųjų.
@@ -98,8 +74,8 @@ Dusburgietis teigia, kad apie daugybės prancūzų ir flandrų žūtį Tų pači
 
                  95. Apie Bonifaco, popiežiaus, suėmimą ir turtų iššvaistymą
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -118,8 +94,8 @@ Dusburgietis teigia, kad apie daugybės prancūzų ir flandrų žūtį Tų pači
        Tais pačiais metais įvyko smarkios prancūzų ir flandrų kautynės, kuriose abi šalys
     prarado labai daug užmuštaisiais (Ptol. p. 1223),
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -130,7 +106,8 @@ Dusburgietis teigia, kad apie daugybės prancūzų ir flandrų žūtį Tų pači
 - id: c-63899
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 245"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 245."
   citata_originali: |
     Tais pačiais metais įvyko smarkios prancūzų ir flandrų kautynės, kuriose abi šalys
     prarado labai daug užmuštaisiais (Ptol. p. 1223),
@@ -149,7 +126,8 @@ Dusburgietis teigia, kad apie daugybės prancūzų ir flandrų žūtį Tų pači
 - id: c-63900
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 245"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 245."
   citata_originali: |
     Tų pačių metų liepos mėnesį Flandrijos gyventojai sukilo prieš Prancūzijos karalių ir,
     suėję  į mūšį, nukovė tris tūkstančius prancūzų grafų, baronų bei kilmingųjų (Ptol. p.
@@ -169,6 +147,4 @@ Dusburgietis teigia, kad apie daugybės prancūzų ir flandrų žūtį Tų pači
 
 ## Ryšiai
 - Kariavo prieš: [[objektai/grupes/Prancūzai]]
-- Flandrai puolė [[objektai/grupes/Prancūzai]]
 - Flandrai kariavo prieš [[objektai/grupes/Prancūzai]]
-- Flandrai dalyvavo mūšyje [[objektai/ivykiai/Daugybės prancūzų ir flandrų žūtis]]

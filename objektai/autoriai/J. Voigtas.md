@@ -30,21 +30,6 @@ Nagrinėdamas Tacito geografiją, J. Voigtas nustatė Narbuto aptariamos Estijos
 - t-001
   global_id: t-191884
   teiginys: "Nagrinėdamas Tacito geografiją, J. Voigtas nustatė Narbuto aptariamos Estijos padėtį kaimyninių kraštų atžvilgiu."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "161995-162310; hash=fb64999c407634b6fb8c4d8642dcc8a77c9e7eaa8f4a03b57a6c34530d7a057c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Estija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "J. Voigtas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Estija: mention_match, place, gap=38"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"J. Voigtas\" parinktas kaip owner_note_path. Targetas \"Estija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174766
 
@@ -52,14 +37,6 @@ Nagrinėdamas Tacito geografiją, J. Voigtas nustatė Narbuto aptariamos Estijos
 - t-002
   global_id: t-194880
   teiginys: "Taip pat ties pie tiniu šio ežero sąsiauriu yra miestelis Anger, nusidrie- 1 Voigt."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "518110-518223; hash=28e30e7141e015e9bd7a097598beb595a4f314e55c06919f169151f50af5876b; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-177276
 ## Reikšmingi paminėjimai
@@ -76,8 +53,8 @@ Nagrinėdamas Tacito geografiją, J. Voigtas nustatė Narbuto aptariamos Estijos
     kaimyninių kraštų atžvilgiu2 3. Į Vakarus nuo dešiniojo
     1 Thunmann.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -91,8 +68,8 @@ Nagrinėdamas Tacito geografiją, J. Voigtas nustatė Narbuto aptariamos Estijos
     tiniu šio ežero sąsiauriu yra miestelis Anger, nusidrie-
     1 Voigt. Gesch. Preuss. B. I. S. 113.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -103,7 +80,8 @@ Nagrinėdamas Tacito geografiją, J. Voigtas nustatė Narbuto aptariamos Estijos
 - id: c-174766
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 90"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 90."
   citata_originali: |
     Siame gana aiš­
     kiame Tacito aprašyme atsiskleidžia ta istorinė tiesa, kad
@@ -122,7 +100,8 @@ Nagrinėdamas Tacito geografiją, J. Voigtas nustatė Narbuto aptariamos Estijos
 - id: c-177276
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 288"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 288."
   citata_originali: |
     Taip pat ties pie­
     tiniu šio ežero sąsiauriu yra miestelis Anger, nusidrie-

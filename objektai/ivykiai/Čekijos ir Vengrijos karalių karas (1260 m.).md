@@ -57,20 +57,6 @@ Nenurodyta
 - t-001
   global_id: t-62539
   teiginys: "1260 m. Vengrijos karalius su įvairiataute 40 tūkstančių raitelių kariuomene užpuolė Čekijos karalių."
-  teiginio_tipas: "faktas"
-  temporaliniai_duomenys: "įvykio data: 1260 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatoje nurodytą įvykį, datą ir kariuomenės dydį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "709690-710224; hash=add73966d3a553b877203d64370586ff4a7117a4c5cedfaccf5ac1ec5e177d5d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vengrija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Čekijos ir Vengrijos karalių karas (1260 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Vengrija: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Čekijos ir Vengrijos karalių karas (1260 m.)\" parinktas kaip owner_note_path. Targetas \"Vengrija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-63234
 ## Reikšmingi paminėjimai
@@ -88,8 +74,8 @@ Nenurodyta
     sužeistas Vengrijos karalius pabėgo su savo žmonėmis; neskaitant užmuštųjų, vienoje
     upėje prigėrė 14 tūkstančių Vengrijos karių (Mart. p. 406, 407).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -100,7 +86,8 @@ Nenurodyta
 - id: c-63234
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 233"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 233."
   citata_originali: |
     Apie Čekijos ir Vengrijos karalių karą
 

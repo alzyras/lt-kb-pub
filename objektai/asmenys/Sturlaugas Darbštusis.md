@@ -30,22 +30,6 @@ Pasak Teodoro Narbuto, skandinavų didvyris Sturlaugas Darbštusis kautynėse nu
 - t-001
   global_id: t-191472
   teiginys: "Pasak Teodoro Narbuto, skandinavų didvyris Sturlaugas Darbštusis kautynėse nužudė Ingvarą, o Ingigerdą išleido už Flamoro."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Sturlaugas Darbštusis kariavo prieš Rusai (0.72)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "424374-424845; hash=307291336d1ce68370f4db13cbec47d1e387bb1cc92c1a19d5f60a0557f1eeca; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Rusai: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Sturlaugas Darbštusis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Rusai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citatos kontekste minimi karai su rusais; tai palaiko karinį priešiškumą, nors sakinys nėra tiesiogiai apie patį Sturlaugą."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174354
 - susijęs iš [[objektai/ivykiai/Sturlaugo žygis Rusioje Ingvaro nužudymas ir Aldejaborgo perdavimas.md#claim-t-192488|Sturlaugo žygis Rusioje Ingvaro nužudymas ir Aldejaborgo perdavimas]]: Narbuto pasakojime Sturlaugas Darbštusis kautynėse nužudė Ingvarą, vėliau Ingigerdą išleido už Flamoro ir jam perdavė Aldejaborgą.
@@ -70,8 +54,8 @@ Pasak Teodoro Narbuto, skandinavų didvyris Sturlaugas Darbštusis kautynėse nu
     tas, net buvo įrodinėjama, jog tai turėjęs būti šiandienis
     Sliselburgas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -82,7 +66,8 @@ Pasak Teodoro Narbuto, skandinavų didvyris Sturlaugas Darbštusis kautynėse nu
 - id: c-174354
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 240"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 240."
   citata_originali: |
     Goterio sū­
     nus ir jo įpėdiniai ilgai užtrukusius karus su rusais nu­
@@ -101,6 +86,3 @@ Pasak Teodoro Narbuto, skandinavų didvyris Sturlaugas Darbštusis kautynėse nu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191472
-
-## Ryšiai
-- Sturlaugas Darbštusis kariavo prieš [[objektai/asmenys/Ingvaras]], [[objektai/grupes/Rusai]]

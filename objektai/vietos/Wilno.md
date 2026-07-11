@@ -36,14 +36,6 @@ Obraz Litwy pod względem jej cywilizacyi, od czasow najdawniejszych do koncawie
 - t-001
   global_id: t-194776
   teiginys: "Obraz Litwy pod względem jej cywilizacyi, od czasow najdawniejszych do koncawieku XVIII.-Wilno, 1844."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "67580-67789; hash=05bc05807281bd021534057105f7e055b1f403c795100051125f52d7b52f28dc; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-177172
 ## Reikšmingi paminėjimai
@@ -57,8 +49,8 @@ Obraz Litwy pod względem jej cywilizacyi, od czasow najdawniejszych do koncawie
     czasow najdawniejszych do koncawieku XVIII.-Wilno, 1844. -  Cz. I:
     Litwa poganska. -  S. 177-199.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -69,7 +61,8 @@ Obraz Litwy pod względem jej cywilizacyi, od czasow najdawniejszych do koncawie
 - id: c-177172
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 37"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 37."
   citata_originali: |
     Lietuvių liaudis nesanti išlaikiusi jokių mitų,
     20 Jaroszewi.cz J. Obraz Litwy pod względem jej cywilizacyi, od

@@ -48,19 +48,6 @@ Nenurodyta
 - t-002
   global_id: t-185518
   teiginys: "Lietuviai sušaukė luomus Breste ir nusiuntė atstovus į Liubliną, kur liepos 8 d. rinkosi lenkų seimas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1323100-1323567; hash=0dee1294ec1746eafe561e90955383be7ecd288e2a05e6a8c6dd581d0bf97c8d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Bresto luomų pasitarimas ir pasiuntinybė į Liublino seimą dėl unijos su Lenkija (unija, XVI a.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=79"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bresto luomų pasitarimas ir pasiuntinybė į Liublino seimą dėl unijos su Lenkija (unija, XVI a.)\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-168879
 
@@ -68,12 +55,6 @@ Nenurodyta
 - t-003
   global_id: t-185519
   teiginys: "Kojelavičiaus teigimu, pasiuntiniams buvo uždrausta ką nors spręsti, todėl jie turėjo apie viską pranešti Bresto seimo luomams."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1325015-1325549; hash=b4c6d09438753acb66526f63b4c610ab990296ed853686cb6a982009af44decb; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-168880
 
@@ -81,12 +62,6 @@ Nenurodyta
 - t-004
   global_id: t-193352
   teiginys: "T uo ta rp u L ietuvą užgriu- 1566 metai v o d a r didesni rūpesčiai, m at Tariamasi dėl Lietup ašlijo k a raliau s sv eik ata, be vos unijos su Lenkija to, jis n e tu rė jo įpėdinių, štai to d ėl didelį n erim ą kėlė tai, jo g le n k a i gali p aliau ti te."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1322093-1323099; hash=8a5b6c214a7f8ca0de9419a1f4a5ed55f0145880caeebb2eef5e3ced6ab85c60; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176080
 ## Reikšmingi paminėjimai
@@ -104,8 +79,8 @@ Nenurodyta
     rėsi dėl būd ų  g alu tin ai L ietuvą su v ien y ti su L enkija
     u n ijo s p ag rin d ais.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -125,8 +100,8 @@ Nenurodyta
     įstatym ai, p riv ileg ijo s, p ap ro čiai, p ag aliau  L ietuvos Di­
     džiosios K unig aik šty stės sienos.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -163,8 +138,8 @@ Nenurodyta
     ju n g ai, k u ri b ū tų  užbaigusi p o rą šim tm ečių u žtru k u sias
     ab ie jų  šalių p astan g as.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -175,7 +150,8 @@ Nenurodyta
 - id: c-168879
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 733"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 733."
   citata_originali: |
     L ietuviai, su šau k ę B reste lu o ­
     m us, n u siu n tė atsto v u s į Liubliną, k u r liepos 8 d. rin ­
@@ -195,7 +171,8 @@ Nenurodyta
 - id: c-168880
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 734"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 734."
   citata_originali: |
     K okį atsak y m ą
     g avo p asiuntin iai, šaltin iai n erašo . K ad iš esm ės n iek o

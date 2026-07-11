@@ -32,16 +32,6 @@ Hermanas Corneris minimas kaip dominikonas ir kronikos autorius. Jo kronika citu
 - t-002
   global_id: t-54637
   teiginys: "Hermanas Corneris savo kronikoje Gedimino laiškų neminėjo ir viską priskyrė Rygos arkivyskupui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "208950-209156; hash=f492bd8ac8ba6858a84f9b418d930dc596fc9dcf8e4fd81000cb511bf5130172; match=whitespace_regex"
-  sprendimo_priezastis: "gap::authors"
-  ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Hermanas Corneris: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=33"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Hermanas Corneris\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-55544
 
@@ -49,16 +39,6 @@ Hermanas Corneris minimas kaip dominikonas ir kronikos autorius. Jo kronika citu
 - t-001
   global_id: t-54638
   teiginys: "Hermano Cornerio kronika cituojama pasakojant apie Vilniaus miestiečius ir Jogailą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "106155-106568; hash=1672a614b1c532496c5d8291b41e5333aaa0ee398a94b1e21a242e4e73c9f81b; match=whitespace_regex"
-  sprendimo_priezastis: "gap::authors"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Hermanas Corneris: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=51"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Hermanas Corneris\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-55545
 - susijęs iš [[objektai/autoriai/Hermanas Corneris Komeris.md#claim-t-88061|Hermanas Corneris Komeris]]: Hermanas Corneris Komeris buvo dominikonas, kurio kronika cituojama apie Vilniaus miestiečių palankumą Jogailai.
@@ -81,8 +61,8 @@ Hermanas Corneris minimas kaip dominikonas ir kronikos autorius. Jo kronika citu
     Herm. Corneri Chron. p. 1000, nieko apie Gedimino
     laiškus nėra girdėję, o viską priskiria arkivyskupui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -104,8 +84,8 @@ Hermanas Corneris minimas kaip dominikonas ir kronikos autorius. Jo kronika citu
     kito ir tarsi kokį piktadarį nuvarę į
     pilį].
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

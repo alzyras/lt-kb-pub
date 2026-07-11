@@ -30,21 +30,6 @@ Narbutas pirmykšte reikšme burtininkais laikė eilių kūrėjus ir savo pači�
 - t-001
   global_id: t-189286
   teiginys: "Narbutas pirmykšte reikšme burtininkais laikė eilių kūrėjus ir savo pačių sudėtų giesmių giedotojus, panašius į senovės bardus ir skaldus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "516819-517428; hash=98a1952fd5fdd35754b7fabd2f545b75b535119af6ebb15641be728626124a07; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Burtininkai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Burtininkas Burtinikas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Burtininkai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Burtininkas Burtinikas\" parinktas kaip owner_note_path. Targetas \"Burtininkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172174
 
@@ -52,21 +37,6 @@ Narbutas pirmykšte reikšme burtininkais laikė eilių kūrėjus ir savo pači�
 - t-002
   global_id: t-189287
   teiginys: "Narbutas rašė, kad nykstant lietuvių mitologijai burtininkų profesija nusmuko iki paprastų dainių, kurių klausytasi pramogai."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "517862-518391; hash=a0f4a81238d290c6020607525a2e0fb1568c85fe9c8b2146f2a40e5d48ffd4f8; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Burtininkai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Burtininkas Burtinikas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Burtininkai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Burtininkas Burtinikas\" parinktas kaip owner_note_path. Targetas \"Burtininkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172175
 ## Reikšmingi paminėjimai
@@ -92,8 +62,8 @@ Narbutas pirmykšte reikšme burtininkais laikė eilių kūrėjus ir savo pači�
     vo pilietines dorybes, tramdydavo nusikaltimus ir diegdavo ap-
     švietą kerinčia poezijos ir muzikos meno galia.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -114,8 +84,8 @@ Narbutas pirmykšte reikšme burtininkais laikė eilių kūrėjus ir savo pači�
     šiai slavų Guslarz (kerėtojas) iš Gęsl, Husla -  styginis instru­
     mentas .
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -154,7 +124,8 @@ Narbutas pirmykšte reikšme burtininkais laikė eilių kūrėjus ir savo pači�
 - id: c-172175
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 296"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 296."
   citata_originali: |
     Nykstant ir
     išsigimstant lietuvių mitologijai, burtininkų profesija nusmu­

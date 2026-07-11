@@ -42,20 +42,6 @@ media_all_json: |-
 - t-012
   global_id: t-182853
   teiginys: "1394 m. Vytautas puolė Vladimiro žemes ir paėmė Ovručą bei Žitomirą."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) užėmė Ovručas (0.92); Vytautas (Lietuvos valdovas, XIV–XV a.) užėmė Žitomiras (0.92); Vytautas (Lietuvos valdovas, XIV–XV a.) puolė Vladimiras (0.78)"
-  temporaliniai_duomenys: "įvykio data: 1394 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pagrindžia faktą, o įvestyje įvardis pakeistas aiškiu vardu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "142793-142993; hash=b2463cb7f837479250f0d604e96d340b77e5ebb89b54319b90006d6590cb9164; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Ovručas: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Ovručas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Žodis „paėmė“ tiesiogiai rodo Ovručo užėmimą Vytauto veiksmais."
   pagrindžia:
     - c-166257
 
@@ -63,12 +49,6 @@ media_all_json: |-
 - t-013
   global_id: t-194281
   teiginys: "[Rūstusai Žygimante, kaip senasis karalius mėtau žaibus, Nejaugi manai, kad tik karaliams paklūsta žaibai?] Vietovių pavadinimai yra tokie: Pirmajame plane - Vilniaus arsenalas, antrame ir trečia me: Vilniaus pilis, Vinica, Žitomiras, Naugardukas, Poloc kas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "619842-620855; hash=f1a2fa39aed23ce7e5d575b637faa03778ade0edc4f85e82cd7f32324870af71; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176873
 - susijęs iš Ovručas: 1394 m. Vytautas puolė Vladimiro žemes ir paėmė Ovručą bei Žitomirą.
@@ -96,8 +76,8 @@ media_all_json: |-
     mes ir paėmė Ovručą ir Žitomirą. Nusigandęs Vladimiras at­
     važiavo Vytautui nusilenkti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -132,8 +112,8 @@ media_all_json: |-
     Volmera, Vendenė, Kokenhauzenas, Rundborgas, Diuna-
     mundė, Ryga, Šmetenė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -196,5 +176,4 @@ media_all_json: |-
     - t-194281
 
 ## Ryšiai
-- Buvo valdoma: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - Užėmė Žitomirą: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

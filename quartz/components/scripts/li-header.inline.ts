@@ -9,29 +9,11 @@ function clickFirst(selector: string) {
 
 function setupLIHeader() {
   const search = document.querySelector<HTMLButtonElement>("[data-li-search]")
-  const reader = document.querySelector<HTMLButtonElement>("[data-li-reader]")
-  const theme = document.querySelector<HTMLButtonElement>("[data-li-theme]")
-  const adv = document.querySelector<HTMLButtonElement>("[data-li-adv]")
   const menus = document.querySelectorAll<HTMLElement>("[data-li-menu]")
 
   if (search && !search.dataset.bound) {
     search.dataset.bound = "true"
     search.addEventListener("click", () => clickFirst(".search .search-button"))
-  }
-
-  if (reader && !reader.dataset.bound) {
-    reader.dataset.bound = "true"
-    reader.addEventListener("click", () => clickFirst(".readermode"))
-  }
-
-  if (theme && !theme.dataset.bound) {
-    theme.dataset.bound = "true"
-    theme.addEventListener("click", () => clickFirst(".darkmode"))
-  }
-
-  if (adv && !adv.dataset.bound) {
-    adv.dataset.bound = "true"
-    adv.addEventListener("click", () => clickFirst(".advanced-evidence-toggle"))
   }
 
   menus.forEach((menu) => {

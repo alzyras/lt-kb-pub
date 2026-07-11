@@ -32,11 +32,6 @@ media_all_json: |-
 - t-001
   global_id: t-100152
   teiginys: "Bychovco kronika nurodyta PSRL 17 tome, 525 puslapyje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1014076-1014233; hash=1c407022e80443b3baec42c4355d4233d9eed3711a9d05b1aa8c39da630038e9; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T14:38:41Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-94042
 ## Reikšmingi paminėjimai
@@ -50,8 +45,8 @@ media_all_json: |-
     (^11) **PSRL, 17, 525 p. (Bychovco kronika).**
     (^12) **CEV, 814-815, 823-824, 836-838 p.**
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

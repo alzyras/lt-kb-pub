@@ -45,20 +45,6 @@ Nenurodyta
 - t-001
   global_id: t-185879
   teiginys: "Po pergalės Ostrogiškis stovykloje surengė kareiviškas pamaldas, padėkojo Dievui ir išsiuntė karaliui 380 žymiausių belaisvių bajorų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Maskva priklausė Maskvėnai (0.70)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1124855-1125343; hash=b502a5f0dfe2e9d4c695e1317d06c9ca987be064b75e0805951f245b18f9bc6e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Maskvėnai: 0.70"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Maskva: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Maskvėnai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Tekste Maskva susieta su maskvėnais kaip jų politinė-kultūrinė priklausomybė per formuluotę apie maskvėnų karo vadą."
   pagrindžia:
     - c-169240
 
@@ -66,20 +52,6 @@ Nenurodyta
 - t-002
   global_id: t-185880
   teiginys: "Po pergalės karalius ir karalienė Vilniuje per iškilmingas mišias padėkojo Dievui."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Maskvėnai keliavo į Maskva (0.78)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1126598-1127172; hash=83ffe8446721ccfaad03783ed392f40480396304b83752c7e0535c56fa81623f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Maskva: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Maskvėnai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Maskva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Maskvėnų belaisviai tekste aiškiai sugrąžinami į Maskvą."
   pagrindžia:
     - c-169241
 ## Reikšmingi paminėjimai
@@ -99,8 +71,8 @@ Nenurodyta
     nią apie pralaimėjimą, paliko prie Smolensko savo ka­
     riuomenę ir persigandęs pabėgo į Maskvą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -128,8 +100,8 @@ Nenurodyta
     ėmė iš karaliaus žygūnų ir pagarbiai sugrąžino atgal
     į Maskvą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -140,7 +112,8 @@ Nenurodyta
 - id: c-169240
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 632"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 632."
   citata_originali: |
     Į nelaisvę pakliuvo
     maskvėnų karo vadas Čeliadninas ir dešimt kitų žy­

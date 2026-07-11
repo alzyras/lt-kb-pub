@@ -30,19 +30,6 @@ Kojelavičius perteikia kalbėtojo formulę, kuria šis šaukiasi Dievo teisėju
 - t-001
   global_id: t-185482
   teiginys: "Kojelavičius perteikia kalbėtojo formulę, kuria šis šaukiasi Dievo teisėju prieš priesaiką ir teises pažeidžiančius sumanymus."
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1031519-1032067; hash=bd2e130dce1eb2233c6387a9f24b1f280f715369d65ffbcf6a232c96831e1588; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "tam aš šaukiuosi į teisėjus dievą: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"tam aš šaukiuosi į teisėjus dievą\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-168843
 ## Reikšmingi paminėjimai
@@ -68,8 +55,8 @@ Kojelavičius perteikia kalbėtojo formulę, kuria šis šaukiasi Dievo teisėju
     nenubaudęs
     šventvagio".
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

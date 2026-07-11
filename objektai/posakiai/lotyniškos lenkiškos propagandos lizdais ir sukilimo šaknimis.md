@@ -33,9 +33,6 @@ Nebuvo aplenkti nė vienuolynai: juos paskelbė „lotyniškos lenkiškos propag
 - t-001
   global_id: t-02092
   teiginys: "Vienuolynai buvo paskelbti „lotyniškos lenkiškos propagandos lizdais ir sukilimo šaknimis“."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "983891-984155; hash=9a43c94e10ade6261291331fce8a09a823c0d7c6d15ebe5edd36eb65b96997c5; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-02330
 ## Reikšmingi paminėjimai
@@ -49,8 +46,8 @@ Nebuvo aplenkti nė vienuolynai: juos paskelbė „lotyniškos lenkiškos propag
     tytos. Nebuvo aplenkti nė vienuolynai: juos paskelbė „lo-
     tyniškos lenkiškos propagandos lizdais ir sukilimo šaknimis".
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

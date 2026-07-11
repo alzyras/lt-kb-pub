@@ -42,20 +42,6 @@ media_all_json: |-
 - t-001
   global_id: t-19031
   teiginys: "1978 m. lapkričio 22 d. kunigas Juozas Zdebskis su Alfonsu Svarinsku ir Sigitu Tamkevičiumi Maskvoje pranešė apie TTGK įkūrimą."
-  semantiniai_rysiai: "Juozas Zdebskis (kunigas) keliavo į Maskva (0.67)"
-  temporaliniai_duomenys: "įvykio data: 1978 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs, sutrumpintas iki asmeniui tinkamo fakto."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "470797-471561; hash=be3ac7612f2163a3fc7d495c9ce4a8c36f0723c0df4668c9b73a138d65a57c32; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Maskva: 0.67"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Juozas Zdebskis (kunigas): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Maskva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Juozas Zdebskis dalyvavo spaudos konferencijoje Maskvoje; kelionė nėra pasakyta tiesiogiai, bet vietos buvimas aiškus."
   pagrindžia:
     - c-21790
 - susijęs iš [[objektai/ivykiai/Tikinčiųjų teisių gynimo komiteto įkūrimas ir paskelbimas (1978 m. lapkričio 13–22 d.).md#claim-t-20519|Tikinčiųjų teisių gynimo komiteto įkūrimas ir paskelbimas (1978 m. lapkričio 13–22 d.)]]: 1978 m. lapkričio 22 d. Alfonsas Svarinskas, Sigitas Tamkevičius ir Juozas Zdebskis Maskvoje paskelbė apie TTGK įkūrimą Lietuvoje.
@@ -93,8 +79,8 @@ media_all_json: |-
     ateistai, o kulto laisvė praktikoje
     varžoma.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -131,6 +117,3 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-19031
-
-## Ryšiai
-- Juozas Zdebskis (kunigas) keliavo į [[objektai/vietos/Maskva]]

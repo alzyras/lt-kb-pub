@@ -33,19 +33,6 @@ Jų tarpe buvo ir didysis poetas Mickevičius, kurio raštai jau tada susirenkan
 - t-001
   global_id: t-05717
   teiginys: "Adomas Mickevičius buvo ištremtas į Rusiją, kai jau buvo mokytojas Kaune ir palaikė glaudžius ryšius su studentais."
-  semantiniai_rysiai: "Adomas Mickevičius (poetas) keliavo į Rusija (0.88); Adomas Mickevičius (poetas) gyveno Kaunas (0.76)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "930392-930676; hash=956b71ae7a9281068c2e29b0b26c2c884a02f1adbf6a7cde5df9fb037a9ffc3f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Rusija: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Adomas Mickevičius (poetas): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Rusija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Adomas Mickevičius buvo ištremtas į Rusiją."
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-06614
 - susijęs iš [[objektai/asmenys/Adomas Mickevičius.md#claim-t-45926|Adomas Mickevičius (poetas)]]: A. Mickevičius buvo vienas organizacijų narių ir rašė apie Tėvynę Lietuvą.
@@ -87,8 +74,8 @@ Jų tarpe buvo ir didysis poetas Mickevičius, kurio raštai jau tada susirenkan
     tais tebepalaikė glaudžius ryšius, siuntinėjo jiems savo raštų
     ir t.t. Tuo pat metu prasidėjo kratos ir kitose vietose.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

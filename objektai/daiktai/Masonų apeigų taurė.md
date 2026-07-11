@@ -68,20 +68,6 @@ Taurė siejama su masonų apeigomis; jos raižinyje pateikti keli simboliniai ob
 - t-005
   global_id: t-187809
   teiginys: "Viename masonų apeigų taurės šone buvo išraižytas įrašas „Teodor Narbutt“, kitame – stalas su kaukole, kalaviju ir kitais simboliais."
-  teiginio_tipas: "faktas"
-  temporaliniai_duomenys: "įvykio data: 1817 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus sakinys apie taurės raižinius ir simbolius, paremtas citata. Jame sąmoningai nevardijami visi simboliai, nes citata leidžia glaustą apibendrinimą."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "7510-8232; hash=8cc6e0b28be5326fcf2331c0bf0d7cae9fd6cdc444037c8529c59288e0d75db0; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
-  ryšio_patikimumas: "susije_su -> Kalavijas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Masonų apeigų taurė: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Kalavijas: mention_match, thing, gap=95"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Masonų apeigų taurė\" parinktas kaip owner_note_path. Targetas \"Kalavijas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-170766
 
@@ -89,20 +75,6 @@ Taurė siejama su masonų apeigomis; jos raižinyje pateikti keli simboliniai ob
 - t-004
   global_id: t-187810
   teiginys: "Lietuvos istorijos ir etnografijos muziejaus rinkiniuose saugota taurė aprašyta kaip masonų apeigų atributas."
-  teiginio_tipas: "faktas"
-  temporaliniai_duomenys: "įvykio data: 1817 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas gramatinis sakinys apie masonų apeigų taurę ir tiksliai atitinka citatos turinį. Papildomos atribucijos nereikia, nes tai aprašomasis muziejinio objekto faktas."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "7510-8232; hash=8cc6e0b28be5326fcf2331c0bf0d7cae9fd6cdc444037c8529c59288e0d75db0; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
-  ryšio_patikimumas: "susije_su -> T. Narbutas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Masonų apeigų taurė: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "T. Narbutas: mention_match, author, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Masonų apeigų taurė\" parinktas kaip owner_note_path. Targetas \"T. Narbutas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-170766
 
@@ -110,20 +82,6 @@ Taurė siejama su masonų apeigomis; jos raižinyje pateikti keli simboliniai ob
 - t-006
   global_id: t-187811
   teiginys: "Ant masonų apeigų taurės buvo išgraviruota data „1817 m.“."
-  teiginio_tipas: "faktas"
-  temporaliniai_duomenys: "įvykio data: 1817 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra trumpas, gramatinis ir tiesiogiai paremtas citata apie išgraviruotą datą. Papildomų interpretacijų apie Narbuto narystę nepridėta."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "7510-8232; hash=8cc6e0b28be5326fcf2331c0bf0d7cae9fd6cdc444037c8529c59288e0d75db0; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
-  ryšio_patikimumas: "susije_su -> T. Narbutas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Masonų apeigų taurė: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "T. Narbutas: mention_match, author, gap=14"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Masonų apeigų taurė\" parinktas kaip owner_note_path. Targetas \"T. Narbutas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-170766
 
@@ -131,21 +89,6 @@ Taurė siejama su masonų apeigomis; jos raižinyje pateikti keli simboliniai ob
 - t-007
   global_id: t-188384
   teiginys: "Visuomenės švietimo ir ugdymo uždaviniai buvo suformu luoti masonų organizacijose."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1817 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "7510-8232; hash=8cc6e0b28be5326fcf2331c0bf0d7cae9fd6cdc444037c8529c59288e0d75db0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Akacijos šakelė: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Masonų apeigų taurė: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Akacijos šakelė: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Masonų apeigų taurė\" parinktas kaip owner_note_path. Targetas \"Akacijos šakelė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-170766
 - susijęs iš [[objektai/autoriai/Antanas Marcinovskis.md#claim-t-187939|Antanas Marcinovskis]]: Antanas Marcinovskis buvo vienas iš „Dziennik Willenski“ ir „Tygodnik Wilenski“ redaktorių, priklausiusių masonų organizacijai.
@@ -180,8 +123,8 @@ Taurė siejama su masonų apeigomis; jos raižinyje pateikti keli simboliniai ob
     mavičiaus nuomone, tais metais T. Narbutas įstojo į masonų
     organizaciją4.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

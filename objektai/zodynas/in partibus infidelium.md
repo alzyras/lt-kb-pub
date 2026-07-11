@@ -35,16 +35,6 @@ Tačiau tai nebuvo Vilniaus vyskupas, juk tuo laiku apie Vil­ nių dar nebuvo n
 - t-001
   global_id: t-86589
   teiginys: "Vitas laikytas Lietuvos vyskupu in partibus infidelium, o ne Vilniaus vyskupu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "400797-401404; hash=30b2274a650672720c4b665c9deab209428bcba24785d239d9c2257086dbb846; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "in partibus infidelium: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=29"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"in partibus infidelium\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-82568
 - susijęs iš [[objektai/asmenys/Vitas.md#claim-t-87602|Vitas]]: 1253 m. dominikonas Vitas Gniezno arkivyskupo Pelkos buvo įšventintas pirmuoju Lietuvos vyskupu.
@@ -72,8 +62,8 @@ Tačiau tai nebuvo Vilniaus vyskupas, juk tuo laiku apie Vil­ nių dar nebuvo n
     steigėjas Goštautas, arba tiksliau Gastowdas, esą paskui pats
     tapęs vienuoliu ir pagaliau pirmuoju Vilniaus vyskupu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

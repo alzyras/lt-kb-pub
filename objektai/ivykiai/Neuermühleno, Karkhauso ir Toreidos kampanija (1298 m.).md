@@ -57,20 +57,6 @@ Nenurodyta
 - t-001
   global_id: t-28852
   teiginys: "1298 m. pavasarį lietuviai ir rygiečiai prie Neuermühleno sudegino Ordino medžiagą, skirtą rygiečių laivybai Dauguva sustabdyti."
-  semantiniai_rysiai: "Lietuviai buvo sąjungininkas su Rygiečiai (0.88)"
-  temporaliniai_duomenys: "įvykio data: 1298 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko faktą, tačiau reikia pašalinti laužytą žodžių kėlimą ir sutvarkyti sakinį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "619662-620056; hash=545e9d6c9a77e6a5d4a0843a99efbd27d3618426856546f68ae8288e008863d3; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sajungininkas_su -> Rygiečiai: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Rygiečiai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Bendras lietuvių ir rygiečių veikimas tiesiogiai rodo sąjunginį veikimą šioje kampanijoje."
   pagrindžia:
     - c-28756
 ## Reikšmingi paminėjimai
@@ -86,8 +72,8 @@ Nenurodyta
     (VI. 1). Čia žuvo pats magistras Bruno, Fellino komtūras ir 20
     riterių^33.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

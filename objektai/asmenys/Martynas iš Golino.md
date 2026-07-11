@@ -32,16 +32,6 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
 - t-005
   global_id: t-63905
   teiginys: "Dusburgietis pasakoja, kad Martynas su 17 draugų kovėsi prieš 20 prūsų ir liko gyvas sunkiai sužeistas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "454157-454491; hash=6d38a445f865bb4c41677c41c54bdbc20b8a1e1fb3c3e0550a86622cfae528d6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Prūsai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; prusai_group_context; same_sentence_locality; single_candidate_actor; single_candidate_target; target_after_predicate"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Martynas iš Golino: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Prūsai: mention_match, place, gap=38"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Martynas iš Golino\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-64827
 
@@ -49,17 +39,6 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
 - t-015
   global_id: t-63906
   teiginys: "Martynas iš Golino su būreliu vyrų vakaro prietemoje užpuolė vieną Sūduvos žemės kaimą ir išžudė visus jo žmones."
-  semantiniai_rysiai: "Martynas iš Golino puolė Kaimas (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "516836-517214; hash=2829adb66da6c49f7f1a6ee65d408b6a536a10c01cf1b42f66613676536a142f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Kaimas: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Martynas iš Golino: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kaimas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai sako, kad Martynas su būreliu vyrų užpuolė kaimą."
   pagrindžia:
     - c-64824
 
@@ -67,16 +46,6 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
 - t-003
   global_id: t-63907
   teiginys: "Dusburgietis pasakoja, kad sesers nužudymas sukėlė Martynui neapykantą netikėliams ir vėlesnį kerštą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "295322-295872; hash=5ea82c0dd998d8f3d0ddc08a54badffb68273c68838fa2d4412e25851dc9fc39; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kalavijas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Martynas iš Golino: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kalavijas: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Martynas iš Golino\" parinktas kaip owner_note_path. Targetas \"Kalavijas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-56152
 
@@ -84,16 +53,6 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
 - t-002
   global_id: t-63908
   teiginys: "Martynas iš Golino pateko tarp belaisvių, kuriuos prūsai išsivarė po persekiojimo ir grobio surinkimo."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "295270-295676; hash=e801784407c6e5a0f2ecbcb11969e9b6fc3cb774d6189c25fee7f0f92b4bdfb7; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Prūsai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; prusai_group_context; same_sentence_locality; single_candidate_actor; single_candidate_target; target_after_predicate"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Martynas iš Golino: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Prūsai: mention_match, place, gap=50"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Martynas iš Golino\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-56151
 
@@ -101,16 +60,6 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
 - t-012
   global_id: t-63909
   teiginys: "Rudino brolių įsakymu Martynas iš Golino su 17 kovos draugų leidosi vytis 20 Lenkijoje plėšikavusių prūsų."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "454157-454491; hash=6d38a445f865bb4c41677c41c54bdbc20b8a1e1fb3c3e0550a86622cfae528d6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Martynas iš Golino: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=55"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Martynas iš Golino\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-64827
 
@@ -118,16 +67,6 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
 - t-004
   global_id: t-63910
   teiginys: "Martynas iš Golino šiame šaltinyje dalyvauja žvalgyboje su vienu Rudino broliu ir išsigelbsti iš nelaisvės."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "453201-453708; hash=f8acab3fad02187076e145bb0150159d839fe68ab0a8795c7e8c7c6bc8d60f02; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Rudinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Martynas iš Golino: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Rudinas: mention_match, place, gap=65"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Martynas iš Golino\" parinktas kaip owner_note_path. Targetas \"Rudinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-56153
 
@@ -135,17 +74,6 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
 - t-017
   global_id: t-63911
   teiginys: "Martynas iš Golino prie Bugo upės užpuolė prekių laivo upeivius, juos išžudė ir laivą nuplukdė į Torunę."
-  semantiniai_rysiai: "Martynas iš Golino keliavo į Torunė (0.84)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "551395-551889; hash=70277ebe7439ab0c91199fd4384b25292d1781524320352587876e5da8545dd2; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Torunė: 0.84"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Martynas iš Golino: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Torunė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Martynas su bendrais nuplukdė laivą į Torunę, tad judėjimo kryptis aiški."
   pagrindžia:
     - c-64823
 
@@ -153,17 +81,6 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
 - t-001
   global_id: t-63912
   teiginys: "Martynas iš Golino žygiuodavo su Rudino ir vėliau Karaliaučiaus broliais."
-  semantiniai_rysiai: "Martynas iš Golino rėmė Kryžiuočių ordinas (0.83)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "80709-81237; hash=a95cd039932a81f4a50e1148758c2752c639b92d8e95aa95ea06dcd5b821102a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "reme -> Kryžiuočių ordinas: 0.83"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Martynas iš Golino: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Martynas iš Golino įvardytas tarp veikusių Ordino labui."
   pagrindžia:
     - c-56150
 
@@ -171,17 +88,6 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
 - t-016
   global_id: t-63913
   teiginys: "Karaliaučiaus komtūras paskyrė Martyną iš Golino į Pelužio būrį, traukusį keršyti lietuvių kunigaikščiui."
-  semantiniai_rysiai: "Martynas iš Golino buvo sąjungininkas su Pelužis (0.82)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "550412-551364; hash=6ba45d03c3b0e39ae0e473f12aad8f5a48d27a959b0a1cf2468e5bb38f3db587; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sajungininkas_su -> Pelužis: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Martynas iš Golino: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Pelužis: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Martynas buvo paskirtas Pelužiui į bendrus, todėl jie veikė kaip sąjungininkai tame žygyje."
   pagrindžia:
     - c-64825
 
@@ -189,16 +95,6 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
 - t-011
   global_id: t-63914
   teiginys: "Martynas iš Golino su vienu Rudino broliu žvalgydamasis dykrose pasiklydo, susidūrė su trimis prūsais ir du jų nukovė."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "453201-453708; hash=f8acab3fad02187076e145bb0150159d839fe68ab0a8795c7e8c7c6bc8d60f02; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Prūsai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; prusai_group_context; same_sentence_locality; single_candidate_actor; single_candidate_target; target_after_predicate"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Martynas iš Golino: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Prūsai: mention_match, place, gap=94"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Martynas iš Golino\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-56153
 
@@ -206,17 +102,6 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
 - t-008
   global_id: t-63915
   teiginys: "Martynas iš Golino žygiuodavo su Rudino broliais, o vėliau su Karaliaučiaus broliais."
-  semantiniai_rysiai: "Martynas iš Golino rėmė Kryžiuočių ordinas (0.83)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "80709-81237; hash=a95cd039932a81f4a50e1148758c2752c639b92d8e95aa95ea06dcd5b821102a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "reme -> Kryžiuočių ordinas: 0.83"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Martynas iš Golino: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Martynas iš Golino įvardytas tarp veikusių Ordino labui."
   pagrindžia:
     - c-56150
 
@@ -224,17 +109,6 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
 - t-013
   global_id: t-63916
   teiginys: "Petras Dusburgietis Martyną iš Golino priskyrė prie krikščionių plėšikautojų, garsėjusių nuostabiais ir nepaprastais žygiais."
-  semantiniai_rysiai: "Martynas iš Golino užėmė Kaimas (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "515608-516275; hash=022b22cc1e283e9f8f1f21db98d94916e002c002d35d04708db1cc312c7558d2; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Kaimas: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Martynas iš Golino: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kaimas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Martynas užgrobė kaimą."
   pagrindžia:
     - c-56155
 
@@ -242,17 +116,6 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
 - t-006
   global_id: t-63917
   teiginys: "Dusburgietis Martyną iš Golino rodo kaip vieną svarbiausių krikščionių plėšikautojų."
-  semantiniai_rysiai: "Martynas iš Golino užėmė Kaimas (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "515608-516275; hash=022b22cc1e283e9f8f1f21db98d94916e002c002d35d04708db1cc312c7558d2; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Kaimas: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Martynas iš Golino: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kaimas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai sako, kad Martynas užgrobė kaimą."
   pagrindžia:
     - c-56155
 
@@ -260,17 +123,6 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
 - t-014
   global_id: t-63918
   teiginys: "Martynas iš Golino su 4 vokiečiais ir 11 prūsų užgrobė vieną Sūduvos kaimą, žudydamas arba išsivarydamas žmones į nelaisvę."
-  semantiniai_rysiai: "Martynas iš Golino užėmė Kaimas (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "515608-516275; hash=022b22cc1e283e9f8f1f21db98d94916e002c002d35d04708db1cc312c7558d2; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Kaimas: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Martynas iš Golino: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kaimas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Martynas užgrobė kaimą."
   pagrindžia:
     - c-56155
 
@@ -278,16 +130,6 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
 - t-009
   global_id: t-63919
   teiginys: "Martynas iš Golino pateko į nelaisvę kartu su nėščia seserimi, kurią ją paėmęs prūsas nužudė žygio metu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "295322-295872; hash=5ea82c0dd998d8f3d0ddc08a54badffb68273c68838fa2d4412e25851dc9fc39; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kalavijas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Martynas iš Golino: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kalavijas: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Martynas iš Golino\" parinktas kaip owner_note_path. Targetas \"Kalavijas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-56152
 
@@ -295,16 +137,6 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
 - t-010
   global_id: t-63920
   teiginys: "Po sesers nužudymo Martynas iš Golino ėmė nekęsti netikėlių ir, išsivadavęs iš nelaisvės, smarkiai jiems smogė."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "295416-296001; hash=311806f53e34681d65f02b4b9e25276fabb8a4d6fc4d20c7ed213aaa985f7aa2; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kalavijas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Martynas iš Golino: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kalavijas: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Martynas iš Golino\" parinktas kaip owner_note_path. Targetas \"Kalavijas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-64828
 
@@ -312,16 +144,6 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
 - t-007
   global_id: t-63921
   teiginys: "Martynas iš Golino su kitais vyrais užpuolė Sūduvos kaimą, nukovė 10 vyrų pirtyje ir paėmė grobio bei belaisvių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "516836-517214; hash=2829adb66da6c49f7f1a6ee65d408b6a536a10c01cf1b42f66613676536a142f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kaimas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Martynas iš Golino: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kaimas: mention_match, place, gap=52"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Martynas iš Golino\" parinktas kaip owner_note_path. Targetas \"Kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-64824
 
@@ -329,20 +151,6 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
 - t-018
   global_id: t-184111
   teiginys: "Martynas iš Golino Sūduvos kaime nukovė 10 vyrų pirtyje, pagrobė arklių bei gyvulių ir išsivarė į nelaisvę moteris bei vaikus."
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Martynas iš Golino puolė Kaimas (0.80)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "516836-517214; hash=2829adb66da6c49f7f1a6ee65d408b6a536a10c01cf1b42f66613676536a142f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Kaimas: 0.80"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Martynas iš Golino: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kaimas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citatos įvardis nurodo prieš tai minimą Sūduvos žemės kaimą, kurį Martynas užpuolė."
   pagrindžia:
     - c-64824
 
@@ -350,12 +158,6 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
 - t-019
   global_id: t-194504
   teiginys: "Apie tą patį Tas pats Martynas ir būrelis kitų vyrų kartą vėl priėjo vieną Sūduvos žemės kaimą ir vakaro prietemoje, kai vieni maudėsi pirtyje, antri vakarieniavo, o treti ėjo visokias tarnybas, jį užpuolė, o visus žmones išžudė."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "516836-517214; hash=2829adb66da6c49f7f1a6ee65d408b6a536a10c01cf1b42f66613676536a142f; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-64824
 - susijęs iš [[objektai/asmenys/Abraomas Kulvietis.md#claim-t-181560|Abraomas Kulvietis]]: 1539 m. Abraomas Kulvietis Vilniuje pirmasis skleidė Martyno Liuterio religines pažiūras ir savo mokykloje išlavino 60 mokinių.
@@ -616,8 +418,8 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
     žuvusio Pipino sūnus Mata tarnavo vėliau Ordinui, jo anūkai ir proanūkiai minimi dar
     XIV a. viduryje134.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -634,8 +436,8 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
     negalėjo spėti paskui skubančią kariuomenę, tada tas [prūsas], kuris ją buvo paėmęs
     į nelaisvę, kalaviju atvėrė įsčias, gyvas kūdikis iškrito ant smėlio, o motina nusigalavo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -653,8 +455,8 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
     netikėlius, kad vėliau, išsivadavęs iš jų rankų, kirto jiems smarkų smūgį, apie kurį ir
     bus papasakota vėliau.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_vaizdinys
   statusas: verified
+  teiginio_tipas: saltinio_vaizdinys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -671,8 +473,8 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
     pagauti ir surišti penkių jiems pavymui pasileidusių prūsų raitelių, kurių dviem patikėjo
     juodu saugoti. Trys  kiti prūsai nusivijo pabėgusį brolio arklį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -691,8 +493,8 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
     ramiai papietauti; staiga juos užpuolė priešai ir nužudė keturis jo bendrus vokiečius, o
     kiti išbėgiojo palikę visus turimus ginklus bei visą maistą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -713,8 +515,8 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
     laivą ir jį atplukdė į Torunės miestą, kur jie, pardavę laivą su prekėmis, kiekvienas gavo
     po 20 markių dalies.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -735,8 +537,8 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
 
                          200 (195).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -761,8 +563,8 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
     ten buvo daugybė. Jaunąjį bei jaunąją, kunigaikščių žmonas su šeimyna ir vaikais, šimtą
     žirgų, auksą bei sidabrą525 ir visus namų apyvokos daiktus jie išsigabeno su savimi.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -778,8 +580,8 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
     sargybą įmigusią, vieną sargybinį nužudė, o kitą pririšo prie medžio, nes jis pasakė,
     kiek čia jo bendrų ir kur jie.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -798,8 +600,8 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
     bus papasakota vėliau. Jiems pasitraukus, broliai, išvydę visas nelaimes, pridarytas
     žmonėms, kalbėjo vieni kitiems (1 Mak 2, 7 ir toliau): „Deja mums?
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -810,7 +612,8 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
 - id: c-56150
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 27"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 27."
   citata_originali: |
     Nemaža žinių galėjo pateikti  ir „krikščioniškieji plėšikautojai“ (latrunkuliai), veikę
     Ordino labui. Iš jų pažymėtinas Martynas iš Golino, traukdavęs į žygį su Rudino, o vėliau
@@ -830,7 +633,8 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
 - id: c-56151
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 89"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 89."
   citata_originali: |
     Prūsai besivydami daugybę išžudė, o kiti pabėgo280. Taigi
     surinkę be galo didelį grobį, išsivarė džiūgaudami daugybę moterų ir vaikų  į nelaisvę.
@@ -847,7 +651,8 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
 - id: c-56152
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 89"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 89."
   citata_originali: |
     Taigi
     surinkę be galo didelį grobį, išsivarė džiūgaudami daugybę moterų ir vaikų  į nelaisvę.
@@ -868,7 +673,8 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
 - id: c-56153
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 142"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 142."
   citata_originali: |
     Vienas Rudino brolis bei Martynas iš Golino jodinėjo dykromis, žvalgydamiesi, ar kartais
     neužtiks kur kokio priešo; juodu pasiklydo, o klaidžiodami susidūrė su trimis prūsais,
@@ -887,7 +693,8 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
 - id: c-56155
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 163"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 163."
   citata_originali: |
     Vargu ar kas galėtų nuodugniai papasakoti, kokie nuostabūs ir nepaprasti buvę žygiai
     krikščionių plėšikautojų, būtent: Martyno iš Golino, Konrado, vardu Divelis, kito [vyro],
@@ -909,7 +716,8 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
 - id: c-64823
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 175"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 175."
   citata_originali: |
     229 (224). Apie tą patį
 
@@ -930,7 +738,8 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
 - id: c-64824
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 163"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 163."
   citata_originali: |
     Apie tą patį
 
@@ -956,7 +765,8 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
 - id: c-64825
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 175"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 175."
   citata_originali: |
     Tuo metu vienas lietuvis, vardu Pelužis, įžeistas savo viešpaties [a domino suo],
     vieno kunigaikščio, kuris savo karalystėje buvęs nelyginant antras asmuo po Lietuvos
@@ -980,7 +790,8 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
 - id: c-64827
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 142"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 142."
   citata_originali: |
     Dar apie Martyną iš Golino ir jo nuostabią kovą
 
@@ -999,7 +810,8 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
 - id: c-64828
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 89"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 89."
   citata_originali: |
     Tarp jų buvo ir Martynas iš Golino su kūdikėlio laukiančia seserimi, kuri dėl nėštumo
     negalėjo spėti paskui skubančią kariuomenę, tada tas [prūsas], kuris ją buvo paėmęs
@@ -1017,10 +829,6 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
     - t-63920
 
 ## Ryšiai
-- Sąjungininkai: [[objektai/asmenys/Pelužis]]
-- Rėmė Martynas iš Golino: [[objektai/asmenys/Mikalojus Radvila]]
-- Martynas iš Golino keliavo į [[objektai/vietos/Rudinas]], [[objektai/vietos/Torunė]]
-- Martynas iš Golino puolė [[objektai/vietos/Kaimas]], [[objektai/vietos/Sūduva]], [[objektai/grupes/Sūduviai]]
-- Martynas iš Golino užėmė [[objektai/vietos/Kaimas]], [[objektai/vietos/Sūduva]]
-- Martynas iš Golino surengė žygį į [[objektai/vietos/Sūduva]]
-- Martynas iš Golino rėmė [[objektai/grupes/Kryžiuočių ordinas]]
+- Martynas iš Golino keliavo į [[objektai/vietos/Rudinas]]
+- Martynas iš Golino puolė [[objektai/vietos/Kaimas]], [[objektai/grupes/Sūduviai]]
+- Martynas iš Golino užėmė [[objektai/vietos/Kaimas]]

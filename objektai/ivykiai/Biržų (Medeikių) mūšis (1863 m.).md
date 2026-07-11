@@ -59,20 +59,6 @@ Nenurodyta
 - t-001
   global_id: t-10203
   teiginys: "Biržų girios kautynės buvo didžiausios per 1863–1864 m. sukilimą, jose dalyvavo apie 1500 sukilėlių."
-  teiginio_tipas: "faktas"
-  temporaliniai_duomenys: "įvykio data: 1863 m.; įvykio data: 1863-1864; įvykio data: 1864 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie kautynių mastą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "673512-674139; hash=1d31211257fbf77a912523ee01baff8d5f2d7040b4f28af1e1f29124d4a5f9a4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Rusai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Biržų (Medeikių) mūšis (1863 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Rusai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Biržų (Medeikių) mūšis (1863 m.)\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-169725
 
@@ -80,18 +66,6 @@ Nenurodyta
 - t-002
   global_id: t-10204
   teiginys: "Gegužės 7 d. prie Medeikių rusų pėstininkai tris valandas atakavo lietuvių gynybines pozicijas."
-  teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Rusai puolė Lietuviai (0.78)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "664965-665267; hash=5d7b051d4f31eccd23443816a6084dc786319ccb5e49ec6f2b4ea90781859269; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Lietuviai: 0.78"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Rusai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Rusų pėstininkų ataka prieš lietuvių pozicijas tiesiogiai remia rusai -> puolė -> lietuviai."
   pagrindžia:
     - c-169723
 
@@ -99,21 +73,6 @@ Nenurodyta
 - t-003
   global_id: t-10205
   teiginys: "1863 m. gegužės 7 d. rusų pėstininkai tris valandas atakavo lietuvių gynybines pozicijas Medeikiuose; sukilėliams mėginant apeiti rusus iš flangų, rusai buvo priversti atsitraukti."
-  teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Rusai puolė Lietuviai (0.82); Lietuviai puolė Rusai (0.62)"
-  temporaliniai_duomenys: "įvykio data: 1863 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir tiksliai sujungia citatoje nurodytus įvykius."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "664965-665267; hash=5d7b051d4f31eccd23443816a6084dc786319ccb5e49ec6f2b4ea90781859269; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Lietuviai: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Rusai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo rusų pėstininkų ataką prieš lietuvių gynybines pozicijas."
   pagrindžia:
     - c-169723
 
@@ -121,19 +80,6 @@ Nenurodyta
 - t-004
   global_id: t-10206
   teiginys: "1863 m. gegužės 8 d. gausesnės I. Ganeckio rusų pajėgos užpuolė sukilėlius, o sužeidus Z. Sierakauską pasipriešinimas ėmė silpti."
-  teiginio_tipas: "faktas"
-  temporaliniai_duomenys: "įvykio data: 1863 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "665269-665625; hash=b23dd94b71ba10d5fa638d3e9dba64e0e91df90d9fe949c799ced238ae3b9f4b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Rusai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Biržų (Medeikių) mūšis (1863 m.): owner_note_path, event"
-  ryšio_targeto_parinkimas: "Rusai: mention_match, group, gap=44"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Biržų (Medeikių) mūšis (1863 m.)\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-169724
 
@@ -141,17 +87,6 @@ Nenurodyta
 - t-005
   global_id: t-186362
   teiginys: "Biržų mūšyje gen. mjr. I. Ganeckio rinktinė ties Šniurkiškių palivarku užklupo sukilėlių stovyklą."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "670139-670432; hash=9d090ae5bb4e98c058a432f5e7af56578df4b3f44129157bca3be46f01cf50af; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Rytas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Biržų (Medeikių) mūšis (1863 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Rytas: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Biržų (Medeikių) mūšis (1863 m.)\" parinktas kaip owner_note_path. Targetas \"Rytas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-11838
 
@@ -159,19 +94,6 @@ Nenurodyta
 - t-008
   global_id: t-186363
   teiginys: "Biržų mūšyje gen. mjr. I. Ganeckio rinktinė pasuko iš Medeikių į Biržų girią ir ties Šniurkiškių palivarku užklupo sukilėlių stovyklą."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "670139-670432; hash=9d090ae5bb4e98c058a432f5e7af56578df4b3f44129157bca3be46f01cf50af; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Rytas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Biržų (Medeikių) mūšis (1863 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Rytas: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Biržų (Medeikių) mūšis (1863 m.)\" parinktas kaip owner_note_path. Targetas \"Rytas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-11838
 
@@ -179,17 +101,6 @@ Nenurodyta
 - t-005
   global_id: t-186362
   teiginys: "Biržų mūšyje gen. mjr. I. Ganeckio rinktinė ties Šniurkiškių palivarku užklupo sukilėlių stovyklą."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "670139-670432; hash=9d090ae5bb4e98c058a432f5e7af56578df4b3f44129157bca3be46f01cf50af; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Rytas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Biržų (Medeikių) mūšis (1863 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Rytas: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Biržų (Medeikių) mūšis (1863 m.)\" parinktas kaip owner_note_path. Targetas \"Rytas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-11838
 - susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
@@ -207,8 +118,8 @@ Nenurodyta
     klampioje vietovėje sukilėlių kavalerija
     buvo neveiksminga.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -232,8 +143,8 @@ Nenurodyta
     © Lietuvių pajėgos persikėlė į Biržų gi-
     rios pakraštį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -258,8 +169,8 @@ Nenurodyta
 
     kovos pasipriešinimas ėmė silpti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -287,8 +198,8 @@ Nenurodyta
     silpti. Rusų karinei vadovybei pavyko
     suimti daugelį žymių sukilėlių vadų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

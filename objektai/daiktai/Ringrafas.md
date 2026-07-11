@@ -54,16 +54,6 @@ Nenurodyta
 - t-001
   global_id: t-40756
   teiginys: "XVIII a. Lietuvos kariuomenės gvardijos pėstininkų karininkų ringrafas buvo nešiojamas ant krūtinės ir turėjo Vytį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "624364-624642; hash=b385de4065eb22f249b438c0fb7c31031b96709642602ecef9bb1429d4b9659a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vytis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ringrafas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Vytis: mention_match, thing, gap=49"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ringrafas\" parinktas kaip owner_note_path. Targetas \"Vytis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-44677
 ## Reikšmingi paminėjimai
@@ -80,8 +70,8 @@ Nenurodyta
     mas Rusijos karvedys vos išvengė mirties.
     Gen. mjr.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

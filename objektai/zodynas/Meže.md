@@ -43,19 +43,6 @@ Vartojamas kaip Pamedės etimologinis aiškinimas.
 - t-002
   global_id: t-192204
   teiginys: "Narbutas Pamedės pavadinimą kildina iš lietuviško žodžio „Meže“, nes kraštas ribojosi su svetimais kraštais."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "468120-468311; hash=75b4c7cc72f448e909e81bd50398391c98a9f885dacb3b595514f3dbed6012d7; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  ryšio_patikimumas: "susije_su -> Pamedė: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Meže: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Pamedė: mention_match, place, gap=49"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Meže\" parinktas kaip owner_note_path. Targetas \"Pamedė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175066
 
@@ -63,19 +50,6 @@ Vartojamas kaip Pamedės etimologinis aiškinimas.
 - t-001
   global_id: t-192205
   teiginys: "Narbutas lietuvišką žodį „Meže“ aiškina kaip reiškiantį ribą."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "468120-468311; hash=75b4c7cc72f448e909e81bd50398391c98a9f885dacb3b595514f3dbed6012d7; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  ryšio_patikimumas: "susije_su -> Pamedė: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Meže: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Pamedė: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Meže\" parinktas kaip owner_note_path. Targetas \"Pamedė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175066
 
@@ -83,21 +57,6 @@ Vartojamas kaip Pamedės etimologinis aiškinimas.
 - t-003
   global_id: t-192564
   teiginys: "Narbutas Pamedės pavadinimą kildina iš lietuviško žodžio „Meže“, reiškiančio ribą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "467949-468258; hash=5abbdff036d6fd3c150ca71847913a241d7d5fdf507d2a0c4bf277ed73fd1a18; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Pamedė: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Meže: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Pamedė: mention_match, place, gap=49"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Meže\" parinktas kaip owner_note_path. Targetas \"Pamedė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175345
 ## Reikšmingi paminėjimai
@@ -110,8 +69,8 @@ Vartojamas kaip Pamedės etimologinis aiškinimas.
     sėje su svetimais kraštais. Čia buvo senovinės Grevožės,
     Probuto ir kitos pilys.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -131,8 +90,8 @@ Vartojamas kaip Pamedės etimologinis aiškinimas.
     ko žodžio Meže, reiškiančio ribą, nes ji ribojosi šioje pu­
     sėje su svetimais kraštais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -143,7 +102,8 @@ Vartojamas kaip Pamedės etimologinis aiškinimas.
 - id: c-175066
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 263"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 263."
   citata_originali: |
     Pamedė (Pomezania). Pavadinimas kilęs iš lietuviš­
     ko žodžio Meže, reiškiančio ribą, nes ji ribojosi šioje pu­
@@ -161,7 +121,8 @@ Vartojamas kaip Pamedės etimologinis aiškinimas.
 - id: c-175345
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 263"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 263."
   citata_originali: |
     Nuo seno čia gyvenę
     žmonės žuvo kariaudami su slavais arba pasitraukė į

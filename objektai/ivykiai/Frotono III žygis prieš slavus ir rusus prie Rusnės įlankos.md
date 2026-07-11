@@ -46,17 +46,6 @@ Nenurodyta
 - t-002
   global_id: t-192017
   teiginys: "Narbuto pateikiamame datavime Torfėjas Frotono III valdymą sieja su III krikščioniškosios eros amžiumi."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "428459-428799; hash=959596e9644c9ea6d855c65e0c6a9254971dbdbf4fdfaf914b549f60d996e842; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
-  ryšio_patikimumas: "susije_su -> Skandinavai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Frotono III žygis prieš slavus ir rusus prie Rusnės įlankos: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Skandinavai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Frotono III žygis prieš slavus ir rusus prie Rusnės įlankos\" parinktas kaip owner_note_path. Targetas \"Skandinavai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-174898
 ## Reikšmingi paminėjimai
@@ -72,8 +61,8 @@ Nenurodyta
     vimais, Frotono III valdymą sieja su III krikščioniškosios
     eros amžiumi.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -84,7 +73,8 @@ Nenurodyta
 - id: c-174898
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 242"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 242."
   citata_originali: |
     Taip pat skandinavų užkariavi­
     mai lietuvių žemėse buvo labai seni ir dideli. Tai patvir­

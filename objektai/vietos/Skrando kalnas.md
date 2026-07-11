@@ -33,17 +33,6 @@ Dusburgietis teigia, kad apie Partigalos pilies ir Skrando kuoro pastatymą Varm
 - t-001
   global_id: t-58640
   teiginys: "Gubučiai Skrando kalne pastatė įtvirtintą kuorą ir sustiprino jį kariais."
-  semantiniai_rysiai: "Gubučiai pastatė Partigala (0.95); Gubučiai gyveno Varmė (0.94)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "266024-266419; hash=46ec56592ef2894a0eebc7ca2ec71675ca93a9e6ad232a7c833e74fbc492786a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "pastate -> Partigala: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gubučiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Partigala: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Gubučiai pastatė Partigalos pilį."
   pagrindžia:
     - c-59273
 
@@ -51,9 +40,6 @@ Dusburgietis teigia, kad apie Partigalos pilies ir Skrando kuoro pastatymą Varm
 - t-002
   global_id: t-58641
   teiginys: "Skrando kalnas vėliau sietas su Srangenbergo piliakalniu į pietvakarius nuo Parteinių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "267631-267768; hash=53e94727e6f23adb32efcbd55eb2fb20f94232acd4f131182f8f7ddc54b12759; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-59272
 ## Reikšmingi paminėjimai
@@ -65,8 +51,8 @@ Dusburgietis teigia, kad apie Partigalos pilies ir Skrando kuoro pastatymą Varm
     D.—in monte Scrandonis, Jer.— ûf Schrandinberge — vėliau Srangenbergo piliakalnis
     (HE, p. 146; GAO, p. 163) į pietvakarius nuo Parteinių.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -83,8 +69,8 @@ Dusburgietis teigia, kad apie Partigalos pilies ir Skrando kuoro pastatymą Varm
     [propugnaculum[ Skrando kalne250, sustiprinę  jį visokiais  kariais. Šie kasdien taip
     puldinėjo Baigos pilies brolius, kad niekas nedrįso rodytis už pilies sienų.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -95,7 +81,8 @@ Dusburgietis teigia, kad apie Partigalos pilies ir Skrando kuoro pastatymą Varm
 - id: c-59272
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 80"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 80."
   citata_originali: |
     D.—in monte Scrandonis, Jer.— ûf Schrandinberge — vėliau Srangenbergo piliakalnis
     (HE, p. 146; GAO, p. 163) į pietvakarius nuo Parteinių.
@@ -109,7 +96,8 @@ Dusburgietis teigia, kad apie Partigalos pilies ir Skrando kuoro pastatymą Varm
 - id: c-59273
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 80"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 80."
   citata_originali: |
     23. Apie Partigalos pilies ir Skrando kuoro pastatymą
 

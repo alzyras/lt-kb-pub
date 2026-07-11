@@ -30,21 +30,6 @@ Narbutas primena biblinį pasakojimą, kad Abraomas ėjo ant kalno aukoti Izaoko
 - t-001
   global_id: t-190159
   teiginys: "Narbutas primena biblinį pasakojimą, kad Abraomas ėjo ant kalno aukoti Izaoko."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "450163-450511; hash=ec90727cf1d77ad138c4d2e4438956edf6dc182002907ab3b15e43ca4cf4efe8; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Abraomas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Izaokas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Abraomas: mention_match, person, gap=30"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Izaokas\" parinktas kaip owner_note_path. Targetas \"Abraomas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173042
 - susijęs iš [[objektai/asmenys/Istachris Abu Izaokas al Farisi.md#claim-t-191421|Istachris Abu Izaokas al Farisi]]: Istachris Abu Izaokas al Farisi buvo arabų geografas, gyvenęs apie 907-912 m. ir nubraižęs Gotos bibliotekoje aptiktus geografijos žemėlapius.
@@ -71,8 +56,8 @@ Narbutas primena biblinį pasakojimą, kad Abraomas ėjo ant kalno aukoti Izaoko
     mos aukas ant kalno, manė, kad taip priartėja prie jų. Abrao­
     mas ėjo ant kalno aukoti Izaoko.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

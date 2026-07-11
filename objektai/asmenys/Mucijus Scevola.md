@@ -38,12 +38,6 @@ Padarė jis šitai, norėdamas palikti būsimoms kartoms kovos už tėvy nę pav
 - t-001
   global_id: t-193510
   teiginys: "Padarė jis šitai, norėdamas palikti būsimoms kartoms kovos už tėvy nę pavyzdį, apie kurį šie galėtų taip pat kalbėti, kaip senovėje buvo kalbama apie Mucijų Scevolą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "368042-368586; hash=a27d2d03e071873ec026c6b0d43a7a3ab2040a393f7cf0092d05be62d31dce2d; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176190
 ## Reikšmingi paminėjimai
@@ -72,8 +66,8 @@ Padarė jis šitai, norėdamas palikti būsimoms kartoms kovos už tėvy nę pav
     tabesnį krikščioniško narsumo pavyzdį parodė, ginda­
     ma skaistybę, viena silpnosios lyties atstovė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

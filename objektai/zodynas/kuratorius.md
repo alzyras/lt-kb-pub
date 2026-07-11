@@ -32,16 +32,6 @@ Apygardos viršininku — kuratorium buvo paskirtas caro Aleksandro jaunystės d
 - t-001
   global_id: t-03056
   teiginys: "Vilniaus švietimo apygardos kuratoriumi buvo paskirtas caro Aleksandro jaunystės draugas ir artimas patarėjas Adomas Čartoriskis."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "907533-908001; hash=cf047d503aae4cb98c12bd852c6fe697bfb05c65456b97f08b027f224b1d6aab; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kijevas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "kuratorius: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Kijevas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"kuratorius\" parinktas kaip owner_note_path. Targetas \"Kijevas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-03294
 
@@ -49,14 +39,6 @@ Apygardos viršininku — kuratorium buvo paskirtas caro Aleksandro jaunystės d
 - t-002
   global_id: t-193150
   teiginys: "Apygardos viršininku — kuratorium buvo paskirtas caro Aleksandro jaunystės draugas ir artimas patarėjas Adomas Čartoriskis."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "907625-908159; hash=a7e416d20a470b0a95324b216fc64fa303cc31041ab9a67f101136db88684fea; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-175903
 - susijęs iš [[objektai/autoriai/Jonas Juškevičius.md#claim-t-01069|Jonas Juškevičius]]: Jonas Juškevičius 1864 m. gavo Kornilovo pasiūlymą lietuvišką gramatikos tekstą perrašyti rusiškomis raidėmis.
@@ -78,8 +60,8 @@ Apygardos viršininku — kuratorium buvo paskirtas caro Aleksandro jaunystės d
 
     Adomas Čartoriskis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -103,8 +85,8 @@ Apygardos viršininku — kuratorium buvo paskirtas caro Aleksandro jaunystės d
     esančias žemesniąsias moky-
     klas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

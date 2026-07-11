@@ -58,17 +58,6 @@ Nenurodyta
 - t-001
   global_id: t-41271
   teiginys: "Prie Giedraičių lietuvių nuostoliai siekė 15 žuvusių karių ir kelis karininkus, apie 60 sužeistųjų ir apie 70 dingusių be žinios."
-  semantiniai_rysiai: "Lietuviai dalyvavo mūšyje Giedraičių kautynės (0.76)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "868528-868967; hash=57de510eb5e146d2cafe86d9debb2d20f4e87b4d41ef2ab67819adc1bdff7630; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "dalyvavo_musyje -> Giedraičių kautynės: 0.76"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Giedraičių kautynės: llm_allowed_candidate, event"
-  ryšio_paaiskinimas: "Nuostolių nurodymas prie Giedraičių tiesiogiai rodo lietuvių dalyvavimą kautynėse."
   pagrindžia:
     - c-43046
 - susijęs iš [[objektai/autoriai/Dalius Žygelis.md#claim-t-40613|Dalius Žygelis]]: Dalius Žygelis buvo kelių tekstų apie 1945–1949 m. Lietuvos partizanų kautynes bendraautoris.
@@ -97,8 +86,8 @@ Nenurodyta
     kai, apie 60 buvo sužeista,
     apie 70 dingo be žinios.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -134,6 +123,3 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-41271
-
-## Ryšiai
-- Turėjo dalyvį: [[objektai/grupes/Lietuviai]]

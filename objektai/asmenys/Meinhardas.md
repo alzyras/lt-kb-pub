@@ -34,12 +34,6 @@ Pirmasis pagonių krikštu susirūpino misijonierius Meinhardas, kuris buvo pask
 - t-001
   global_id: t-186067
   teiginys: "Prūsijos magistras Meinhardas apie balandžio vidurį apgulė Kolainius, Nemuno pakrantėje buvusią Lietuvos pilį."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "275735-276279; hash=d2883f74bee29784606a641e42e24e6f97a21197eb0b9b89be1a31ce3932daba; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-169428
 
@@ -47,12 +41,6 @@ Pirmasis pagonių krikštu susirūpino misijonierius Meinhardas, kuris buvo pask
 - t-002
   global_id: t-186068
   teiginys: "Magistras Meinhardas su didesne kariauna įsiveržė į Lietuvą ir nusiaubė Paštuvos bei Gaižuvos valsčius."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "282007-282626; hash=01a467c8f2238b414f5cdd9bf09e6c2112425ab3d51a8062854080a5514da9e1; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-169429
 
@@ -60,12 +48,6 @@ Pirmasis pagonių krikštu susirūpino misijonierius Meinhardas, kuris buvo pask
 - t-003
   global_id: t-186069
   teiginys: "Įspėtas apie išdavystę, Meinhardas išvengė pavojaus ir atitraukė kariuomenę į Prūsiją."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "285221-286313; hash=254988e5ae3e21cb4868001b64fc206a520b2c3e0ec21bda0b6a5cc47a20be4b; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-169430
 
@@ -73,12 +55,6 @@ Pirmasis pagonių krikštu susirūpino misijonierius Meinhardas, kuris buvo pask
 - t-004
   global_id: t-193506
   teiginys: "Pirmiausia ėmėsi kariauti Meinhardas, Prūsijos magistras, apie balandžio vidurį apgulęs Kolainius, arčiausiai Prūsijos Nemuno pakrantėje esančią Lietuvos pilį."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "275735-276279; hash=d2883f74bee29784606a641e42e24e6f97a21197eb0b9b89be1a31ce3932daba; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-169428
 
@@ -86,12 +62,6 @@ Pirmasis pagonių krikštu susirūpino misijonierius Meinhardas, kuris buvo pask
 - t-005
   global_id: t-193507
   teiginys: "Vėliau su didesne kariauna, kurioje vien kryžiuočių buvo tūkstantis riterių, įsiver žė į Lietuvą pats magistras Meinhardas, žiauriai nu siaubė Paštuvos ir Gaižuvos valsčius, nušluodamas juos ugnimi."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "282007-282626; hash=01a467c8f2238b414f5cdd9bf09e6c2112425ab3d51a8062854080a5514da9e1; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-169429
 
@@ -99,12 +69,6 @@ Pirmasis pagonių krikštu susirūpino misijonierius Meinhardas, kuris buvo pask
 - t-006
   global_id: t-193508
   teiginys: "Įspėtas apie išdavys tę, Meinhardas vargais negalais išvengė pavojaus anks čiau, nei prasidėjo kova, ir nepatenkintas atitraukė ka riuomenę į Prūsiją."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "285221-286313; hash=254988e5ae3e21cb4868001b64fc206a520b2c3e0ec21bda0b6a5cc47a20be4b; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-169430
 ## Reikšmingi paminėjimai
@@ -125,8 +89,8 @@ Pirmasis pagonių krikštu susirūpino misijonierius Meinhardas, kuris buvo pask
     niokoti, o du tūkstančiai pėstininkų atkakliai puolė
     apsuptą pilį.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -154,8 +118,8 @@ Pirmasis pagonių krikštu susirūpino misijonierius Meinhardas, kuris buvo pask
     vadovavo Henrikas Cutsver-
     tas.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -193,8 +157,8 @@ Pirmasis pagonių krikštu susirūpino misijonierius Meinhardas, kuris buvo pask
     kantą dar labiau sukurstė jų gentainių kalbos ir ji
     pavirto maištingomis nuotaikomis.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -206,7 +170,8 @@ Pirmasis pagonių krikštu susirūpino misijonierius Meinhardas, kuris buvo pask
 - id: c-169428
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 161"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 161."
   citata_originali: |
     Už žalą, padarytą per šį niokojamą iš­
     puolį Sembai, lietuviams buvo atsilyginta kitais ir dar
@@ -230,7 +195,8 @@ Pirmasis pagonių krikštu susirūpino misijonierius Meinhardas, kuris buvo pask
 - id: c-169429
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 164"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 164."
   citata_originali: |
     Po to jis su savo kariais pasuko kita
     kryptimi: staiga puolė Medrabą, kurios gynėjai daug
@@ -259,7 +225,8 @@ Pirmasis pagonių krikštu susirūpino misijonierius Meinhardas, kuris buvo pask
 - id: c-169430
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 166"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 166."
   citata_originali: |
     Vytenis, neturėdamas pa­
     kankamai jėgų priešui at-

@@ -38,12 +38,6 @@ Dusburgietis teigia, kad wenskus R.
 - t-001
   global_id: t-61364
   teiginys: "R. Wenskaus straipsnis „Kleinverbände und Kleinräume bei den Prussen des Samlandes“ paskelbtas 1964 m. leidinio 2 tome, p. 201–254."
-  temporaliniai_duomenys: "įvykio data: 1964 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko publikavimo duomenis, o pradinis teiginys yra fragmentiškas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "802818-803011; hash=3039910378108afd80bc9471366bc007b5436d6787a1a33a78fcd5936c12d3ae; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-61996
 ## Reikšmingi paminėjimai
@@ -56,8 +50,8 @@ Dusburgietis teigia, kad wenskus R.
     Anfänge der Landgemeinde und ihr Wesen. Bd. 2,—Konstanz—Stuttgart, 1964 (Vorträge
     und Forschungen, Bd. 8), S. 201—254.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -68,7 +62,8 @@ Dusburgietis teigia, kad wenskus R.
 - id: c-61996
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 273"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 273."
   citata_originali: |
     Wenskus R. Kleinverbände und Kleinräume bei den Prussen des Samlandes: Die
     Anfänge der Landgemeinde und ihr Wesen. Bd. 2,—Konstanz—Stuttgart, 1964 (Vorträge

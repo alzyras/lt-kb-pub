@@ -30,14 +30,6 @@ Nepaisant viso šito, ištraukdami lietuvių tautos istoriją iš tamsybės ir u
 - t-001
   global_id: t-194796
   teiginys: "Nepaisant viso šito, ištraukdami lietuvių tautos istoriją iš tamsybės ir užmarš ties amžių, pasilikome sau dar daug tyrimų, ketindami juos išdėstyti kitame tome; tad ši tomą galima laikyti pasirengimu tam, apie ką dar kalbėsime."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "793355-794123; hash=f699e6c5fe840c7528ab8894fe47c973b8e7a5af3c6441680379c563d789d5b2; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-177192
 ## Reikšmingi paminėjimai
@@ -61,8 +53,8 @@ Nepaisant viso šito, ištraukdami lietuvių tautos istoriją iš tamsybės ir u
     toma jų giminystė, tai yra kuo kuri tauta senesnė, tuo jos kal­
     ba artimesnė senojo pasaulio kalboms .
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -73,7 +65,8 @@ Nepaisant viso šito, ištraukdami lietuvių tautos istoriją iš tamsybės ir u
 - id: c-177192
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 438"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 438."
   citata_originali: |
     Nepaisant viso
     šito, ištraukdami lietuvių tautos istoriją iš tamsybės ir užmarš­

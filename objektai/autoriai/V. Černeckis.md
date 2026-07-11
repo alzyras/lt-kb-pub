@@ -37,19 +37,6 @@ media_all_json: |-
 - t-001
   global_id: t-31055
   teiginys: "V. Černeckis rašė apie kapitalistinės pramonės formavimąsi Kaune 1861–1913 m."
-  temporaliniai_duomenys: "įvykio data: 1831 m.; įvykio data: 1861-1913; įvykio data: 1863 m.; įvykio data: apie 1863 m.; įvykio data: 1913 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "222470-223215; hash=55c264ab032efd3d128a055c1ce62222b774697ca446d59edc73ede42d155419; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kaunas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "V. Černeckis: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Kaunas: mention_match, place, gap=59"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"V. Černeckis\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-33189
 - susijęs iš [[objektai/autoriai/O. Maksimaitienė.md#claim-t-30883|O. Maksimaitienė]]: O. Maksimaitienė pateikė duomenų apie 1863 m. sukilėlių kovinius veiksmus Augustavo gubernijoje ir jų antspaudus.
@@ -76,8 +63,8 @@ media_all_json: |-
     O. Maksimaitienė pateikė duomenų apie sukilėlių kovinius
     veiksmus 1863 m.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

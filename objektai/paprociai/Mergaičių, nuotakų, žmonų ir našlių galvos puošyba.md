@@ -56,16 +56,6 @@ Nenurodyta
 - t-004
   global_id: t-67168
   teiginys: "Motriškosios ilgai dėvėjo senovinius nuometus ir nenorėjo jų mesti nuo galvos."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "400096-400599; hash=47226dbce6ccf8f34ddf4052f3eeb7a110b1b5904b2f93ea9c6e77642797f14d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Baltai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mergaičių, nuotakų, žmonų ir našlių galvos puošyba: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Baltai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mergaičių, nuotakų, žmonų ir našlių galvos puošyba\" parinktas kaip owner_note_path. Targetas \"Baltai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-10020
 
@@ -73,16 +63,6 @@ Nenurodyta
 - t-003
   global_id: t-67170
   teiginys: "Išeigai moterys dėvėjo kitokį drabužį, o nuotakos vestuvių metu segėjo rūtų vainikus."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "87957-89054; hash=782b1939e8bcb58d1391359ad398f26c7e25f613adcb5270a7aed666ffe70775; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Balti vilnoniai marškiniai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mergaičių, nuotakų, žmonų ir našlių galvos puošyba: owner_note_path, thing"
-  ryšio_targeto_parinkimas: "Balti vilnoniai marškiniai: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mergaičių, nuotakų, žmonų ir našlių galvos puošyba\" parinktas kaip owner_note_path. Targetas \"Balti vilnoniai marškiniai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-10019
 
@@ -90,14 +70,6 @@ Nenurodyta
 - t-005
   global_id: t-194561
   teiginys: "Taip besitiekiant jaunasis siuntė jaunajai dovanas (taip nuotaką mergaitę po ūkvaizdžių pradeda vadinti) per savo bendrus savo karės žirgą, ragotinę ir kardą ar kalaviją, rodydamas tuo, jog yra karės vyru, jog, ištekėjusi už jo, ras sau gaspadorių, užtarytoją."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "87833-89306; hash=4733ef3e60c80149a6bc181bb3f2e4ed60e87a898cdfaafbd810c6a3308e11f7; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T14:37:45Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-176961
 ## Reikšmingi paminėjimai
@@ -117,8 +89,8 @@ Nenurodyta
         klastės marškonomis sagėmis, kurias galėjo kaip tinkamos nuo vieno peties ar nuo abiedviejų
         numesti, kursai apdaras didžiai jas gašijo^344 : dirvose, pievose trūsėdamos it gulbės svyravo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -131,8 +103,8 @@ Nenurodyta
         nes kad nukris nuometai nuo mūsų galvų, tad jūs nebatginsit jų su savo skaleliais nuo savo pūrų ir
         sėsit juos ne sau, bet varnams.“
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -162,8 +134,8 @@ Nenurodyta
     - kandidatas: Vėlyvos santuokos, kraitis ir vestuvių sutartys
     - potencialus_teiginys: Vestuvių pokylyje dalyvavo marčelga ir viešnė, o vestuvės vyko abiejuose namuose ir truko kelias dienas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

@@ -39,19 +39,6 @@ X ŠILAINIŲ PASALA 1945 m. vasario 15 d. Raseinių aps.
 - t-001
   global_id: t-38540
   teiginys: "1945 m. vasario 15 d. Raseinių apskrityje Vlado Pabarčiaus partizanų būrys surengė pasalą NKVD Betygalos stribams."
-  temporaliniai_duomenys: "įvykio data: 1945 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis tekstas yra antraštinis fragmentas, o citata palaiko aiškų faktinį sakinį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "975875-976130; hash=48d24f016e78e3927a5535ad8ca68f1ada9c356d9f67d741c30bc53020e8c78b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Betygala: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Raseinių apskritis: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Betygala: mention_match, place, gap=73"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Raseinių apskritis\" parinktas kaip owner_note_path. Targetas \"Betygala\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-40344
 
@@ -59,21 +46,6 @@ X ŠILAINIŲ PASALA 1945 m. vasario 15 d. Raseinių aps.
 - t-002
   global_id: t-188819
   teiginys: "Narbutas mitologinį pasakojimą apie deivę siejo su Raseinių apskrities Pašvenčio apylinkėse girdėta tradicija."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "235827-236157; hash=5dea36cdcca0ef30142c357c85d7d8b434227359aab0d3b50f3733e8a82d10ed; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Raseiniai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Raseinių apskritis: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Raseiniai: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Raseinių apskritis\" parinktas kaip owner_note_path. Targetas \"Raseiniai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171708
 
@@ -81,21 +53,6 @@ X ŠILAINIŲ PASALA 1945 m. vasario 15 d. Raseinių aps.
 - t-003
   global_id: t-188820
   teiginys: "Narbutas rašė, kad Raseinių ir Upytės apskrityse rasti akmenys rodė ten vykusias ateivių iš Brandenburgo atneštas religines apeigas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "248863-249176; hash=cf6d67ab28f9b8fce5787aed7cb553bc6297b2714f6e8f9e8be08f729a636aa2; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Brandenburgas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Raseinių apskritis: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Brandenburgas: mention_match, place, gap=73"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Raseinių apskritis\" parinktas kaip owner_note_path. Targetas \"Brandenburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171709
 
@@ -103,21 +60,6 @@ X ŠILAINIŲ PASALA 1945 m. vasario 15 d. Raseinių aps.
 - t-004
   global_id: t-188821
   teiginys: "Narbutas Pajūrio kaimo fetišą Dievaitį siejo su neapibrėžta vieta Raseinių apskrityje, tikriausiai prie Jūros upės."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "350938-351198; hash=e914c88a50681db71e57eda0547fba5d6038fd8b1e884ab8999ee3dd124c3542; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Raseiniai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Raseinių apskritis: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Raseiniai: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Raseinių apskritis\" parinktas kaip owner_note_path. Targetas \"Raseiniai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171710
 ## Reikšmingi paminėjimai
@@ -131,8 +73,8 @@ X ŠILAINIŲ PASALA 1945 m. vasario 15 d. Raseinių aps.
     aps., prie Šilainių miško pateko į Vlado Pabarčiaus 40-ties partizanų būrio
     pasalą. Žuvo 6 stribai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -150,8 +92,8 @@ X ŠILAINIŲ PASALA 1945 m. vasario 15 d. Raseinių aps.
     dangi jis visas mitologinis: karalienė, vardu Krūminė14, turėjo
     nepaprasto grožio vienatinę dukterį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -168,8 +110,8 @@ X ŠILAINIŲ PASALA 1945 m. vasario 15 d. Raseinių aps.
     religinės apeigos, kurias atnešė ateiviai iš Brandenburgo (apie
     juos dar teks pakalbėti).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -191,8 +133,8 @@ X ŠILAINIŲ PASALA 1945 m. vasario 15 d. Raseinių aps.
     Vetustis (W etustis)
     Rietavo miestelio fetišas, lietuviškai -  senovinis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -220,7 +162,8 @@ X ŠILAINIŲ PASALA 1945 m. vasario 15 d. Raseinių aps.
 - id: c-171708
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 135"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 135."
   citata_originali: |
     Pats pavadinimas, iš­
     reikštas moteriška gimine, taikomas ne dievui, kaip manė Strij­
@@ -239,7 +182,8 @@ X ŠILAINIŲ PASALA 1945 m. vasario 15 d. Raseinių aps.
 - id: c-171709
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 142"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 142."
   citata_originali: |
     Iszskalbk man amzuliali.
     Kitas pastebėjimas: tokie akmenys tik kai kur, tai yra tik ke­

@@ -43,16 +43,6 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
 - t-012
   global_id: t-114450
   teiginys: "Jei valdovas mirtų Lenkijos Karalystėje, jis norėjo būti palaidotas Krokuvos pilies bažnyčios koplyčioje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "651162-652094; hash=a0efbec60f85f88bb3fe5d86db1b0b159d7de14c2f83060f46c9c7ae80544598; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Krokuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lenkijos karalystė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Krokuva: mention_match, place, gap=49"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkijos karalystė\" parinktas kaip owner_note_path. Targetas \"Krokuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-105528
 
@@ -60,17 +50,6 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
 - t-009
   global_id: t-114451
   teiginys: "Švitrigaila Lenkijos labui atsisakė Kameneco ir kitų pilių Podolėje."
-  semantiniai_rysiai: "Kamenecas priklausė Lenkija (0.72)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "424334-424805; hash=2ff665bb1565573323f6badeb2da1530ae7179ff52c3704e4f32e41c6439bb06; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Lenkija: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kamenecas: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Kameneco atsisakyta Lenkijos labui."
   pagrindžia:
     - c-105533
 
@@ -78,17 +57,6 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
 - t-001
   global_id: t-114452
   teiginys: "Numatomos autonomijos teritorija turėjo apimti Lenkijos karalystei priklausiusią Užnemunę, arba Suvalkiją."
-  semantiniai_rysiai: "Suvalkija priklausė Lenkijos karalystė (0.94)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "236857-237279; hash=f924f8d5a78012672de6720314a4cd4362772dbffa26f5802e5672c8ff6e24b9; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Lenkijos karalystė: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Suvalkija: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Lenkijos karalystė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Užnemunė, arba Suvalkija, priklausė Lenkijos karalystei."
   pagrindžia:
     - c-24242
 
@@ -96,17 +64,6 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
 - t-008
   global_id: t-114453
   teiginys: "Lenkijos Karalystėje esantys pabūklai, arkebuzos, muškietos ir kita karo amunicija buvo atiduoti Karalystei."
-  semantiniai_rysiai: "Ginklai priklausė Lenkijos karalystė (0.82); Ginklai priklausė Tikocinas (0.70)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "675621-676517; hash=86ae5284d202654c67336b6b1f96cad7894e4fb0d80190b7d0d8098b78c95e92; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Lenkijos karalystė: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Ginklai: llm_allowed_candidate, thing"
-  ryšio_targeto_parinkimas: "Lenkijos karalystė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Lenkijos Karalystėje esantys ginklai ir amunicija atiduodami Karalystei."
   pagrindžia:
     - c-105527
 
@@ -114,17 +71,6 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
 - t-010
   global_id: t-114454
   teiginys: "Testamente nurodyta, kad Lenkijos Karalystėje esantys pabūklai, muškietos ir kita karo amunicija atiduodami Karalystei."
-  semantiniai_rysiai: "Ginklai priklausė Lenkijos karalystė (0.82); Ginklai priklausė Tikocinas (0.70)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "675621-676517; hash=86ae5284d202654c67336b6b1f96cad7894e4fb0d80190b7d0d8098b78c95e92; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Lenkijos karalystė: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Ginklai: llm_allowed_candidate, thing"
-  ryšio_targeto_parinkimas: "Lenkijos karalystė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Lenkijos Karalystėje esanti karo amunicija atiduodama Karalystei."
   pagrindžia:
     - c-105527
 
@@ -132,16 +78,6 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
 - t-007
   global_id: t-114455
   teiginys: "Testamente Lenkijos Karalystei ir Lietuvos Didžiajai Kunigaikštystei palikta meilė, santarvė ir vienybė."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "654216-655158; hash=91c0fa9077fea6e2399115688fda831ba4e7d8e33af7cd2076feca07c9883495; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lenkijos karalystė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkijos karalystė\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-105530
 
@@ -149,19 +85,6 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
 - t-011
   global_id: t-114456
   teiginys: "Lenkijos karalystės teritorijoje apie visišką lenkų kalbos ir kultūros išstūmimą iš viešojo gyvenimo ir švietimo įstaigų nekalbėta."
-  temporaliniai_duomenys: "įvykio data: 1906 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys pilnas ir tiesiogiai susijęs su Lenkijos karalystės teritorija."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "218324-218964; hash=edd042f56db8775914e9af05a66fe57e7ee1ccbddbd2e0b1acc3d387182c3f8d; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lenkijos karalystė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkijos karalystė\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-105532
 
@@ -169,19 +92,6 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
 - t-002
   global_id: t-114457
   teiginys: "Lietuvių veikėjai siūlė nuo Lenkijos karalystės atskirti jos lietuviškąją dalį, tai yra Lietuvos Užnemunę."
-  semantiniai_rysiai: "Užnemunė priklausė Lenkijos karalystė (0.86); Suvalkija priklausė Suvalkai (0.62)"
-  temporaliniai_duomenys: "įvykio data: po 1864 m.; įvykio data: 1864 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "238320-238812; hash=5d9c89a6582e62d4d9d4e9a35cc7eab795cbbcfd1304f1d65a56c223f9c76682; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Lenkijos karalystė: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Užnemunė: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Lenkijos karalystė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai apibūdina Užnemunę kaip Lenkijos karalystės lietuviškąją dalį, kurią siūlyta atskirti."
   pagrindžia:
     - c-24243
 
@@ -189,17 +99,6 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
 - t-005
   global_id: t-114458
   teiginys: "Švitrigaila Lenkijos labui atsisakė Kameneco ir kitų Podolės pilių."
-  semantiniai_rysiai: "Kamenecas priklausė Lenkija (0.72)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "424586-424884; hash=3eebb5ddbcaedd189cf0c2ea659fd4efb084dc958bd117ede7b9ee4c6c690acf; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Lenkija: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kamenecas: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Švitrigaila atsisakė Kameneco Lenkijos labui, todėl Kamenecas perėjo Lenkijos naudai."
   pagrindžia:
     - c-105529
 
@@ -207,16 +106,6 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
 - t-004
   global_id: t-114459
   teiginys: "Žygimantas Senasis dokumente tituluojamas išrinktu Lenkijos Karalystės karaliumi."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "408279-409395; hash=e58951668f61fad727c31910218276b3e4c3492d7b6db8da74c1e28b2118faa6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lenkijos karalystė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lenkijos karalystė\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-105531
 - susijęs iš [[objektai/grupes/Didžioji Lietuvos kunigaikštystė.md#claim-t-96096|Didžioji Lietuvos kunigaikštystė]]: Liublino unijos akto trečiasis paragrafas skelbė, kad Didžioji Lietuvos Kunigaikštystė ir Lenkijos Karalystė sudaro vieną bendrą valstybę.
@@ -255,8 +144,8 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
     kaip etnografinės lietuvių žemės, įskaitant Lenkijos karalystei priklausiu-
     sią Užnemunę, arba Suvalkiją, ir tos žemės, kurios prie Vilniaus linksta.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -273,8 +162,8 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
     kąją dalį, t. y. Lietuvos Užnemunę, kuri dabar dažniausiai buvo vadinama
     Suvalkija (mat didžioji jos dalis priklausė Suvalkų gubernijai).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -301,8 +190,8 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
     visi ginklai bei karinė amunicija privalo ten likti kaip mūsų
     nuosavoje pilyje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -330,8 +219,8 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
     darome atsižvelgdami, kad nebūtų nereikalingų išlaidų ir
     rūpesčių kūną po mirties iš valstybės į valstybę gabenant.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -347,8 +236,8 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
     ju kunigaikščiu. Tačiau vos tik tai įvyko, Jogaila beveik iškart
     ėmė gailėtis savo pasirinkęs.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -381,8 +270,8 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
     kas gera ir reikalinga, prieš kitas tautas ją išgarsintų ir iškel­
     tų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -412,8 +301,8 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
     tvirtinti teiktumės, o tos privilegijos reikalai tokiais žodžiais
     turi būti parašyti: Viešpaties vardu Amen.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -436,8 +325,8 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
     geriau, nei tiems jų tautiečiams, kurie pakliuvo į vokiškų valstybių val-
     džią.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -457,8 +346,8 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
     tinės Šv. Stanislovo katedroje jį iškilmingai paskelbė didžiuo­
     ju kunigaikščiu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -694,4 +583,4 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
     - t-114451
 
 ## Ryšiai
-- Turėjo priklausinį: [[objektai/daiktai/Ginklai]], [[objektai/vietos/Suvalkija]], [[objektai/vietos/Užnemunė]]
+- Turėjo priklausinį: [[objektai/vietos/Suvalkija]]

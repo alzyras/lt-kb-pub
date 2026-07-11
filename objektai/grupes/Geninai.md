@@ -30,22 +30,6 @@ Narbutas mini nuomonę, kad Ptolemėjo geninai iš tikrųjų galėję būti chue
 - t-001
   global_id: t-192981
   teiginys: "Narbutas mini nuomonę, kad Ptolemėjo geninai iš tikrųjų galėję būti chueninai, gyvenę dabartinio Kijevo apylinkėse."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Geninai gyveno Kijevas (0.86)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "688257-688713; hash=fae69888cf98c198f6ef3a63ff0085dab98b8866221e1a4e390f5771252cebc0; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Kijevas: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Geninai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Kijevas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citatoje tiesiogiai sakoma, kad chueninai/geninai gyveno Kijevo apylinkėse."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175751
 - susijęs iš [[objektai/grupes/Boristeniečiai.md#claim-t-192948|Boristeniečiai]]: Narbuto svarstymu, Ptolemėjo geninai galėjo būti graikai boristeniečiai, kilę iš Kijanėjos, arba Chianėjos, krašto.
@@ -68,8 +52,8 @@ Narbutas mini nuomonę, kad Ptolemėjo geninai iš tikrųjų galėję būti chue
     kiek šiauriau prie jūros sąsiaurio. Kiti mano, jog tai bu­
     vę chiomitai, kilę iš Chijo salos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -100,6 +84,3 @@ Narbutas mini nuomonę, kad Ptolemėjo geninai iš tikrųjų galėję būti chue
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192981
-
-## Ryšiai
-- Geninai gyveno [[objektai/vietos/Kijevas]]

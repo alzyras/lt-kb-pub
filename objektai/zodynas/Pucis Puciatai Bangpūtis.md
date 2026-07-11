@@ -30,21 +30,6 @@ Narbutas Pucio vardą kildino iš „Pučiu“ ir aiškino Puciatus kaip Zefyriu
 - t-001
   global_id: t-189243
   teiginys: "Narbutas Pucio vardą kildino iš „Pučiu“ ir aiškino Puciatus kaip Zefyriukus, o pajūrio gyventojų Bangpūtį siejo su jūros putos plakimu."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "302815-303317; hash=2e280ca40c02f6ec9dbe1021429cfd618e7342c4a4c83d28a77fe906bcef1f98; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Pajūris: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Pucis Puciatai Bangpūtis: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Pajūris: mention_match, place, gap=70"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pucis Puciatai Bangpūtis\" parinktas kaip owner_note_path. Targetas \"Pajūris\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172131
 
@@ -52,14 +37,6 @@ Narbutas Pucio vardą kildino iš „Pučiu“ ir aiškino Puciatus kaip Zefyriu
 - t-002
   global_id: t-194690
   teiginys: "Jo giminės vadinosi Puciatais (Puciataj)."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "302145-302406; hash=b7f3c973945da6c52a2e529d206fc968a42c170a4f7bb379743e5c40e5560ddb; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-177087
 ## Reikšmingi paminėjimai
@@ -86,8 +63,8 @@ Narbutas Pucio vardą kildino iš „Pučiu“ ir aiškino Puciatus kaip Zefyriu
     putis), mat manė, kad jis^iš lėto sūpuodamas jūros vandenis,
     krante suplakdavęs putą .
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -107,8 +84,8 @@ Narbutas Pucio vardą kildino iš „Pučiu“ ir aiškino Puciatus kaip Zefyriu
     Plotek byt dla niej ostoną
     By styriną byla wiankami.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -148,7 +125,8 @@ Narbutas Pucio vardą kildino iš „Pučiu“ ir aiškino Puciatus kaip Zefyriu
 - id: c-177087
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 175"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 175."
   citata_originali: |
     Pucis (Putys?, Pučiąs, Pucis)
     Malonaus vėjelio dievaitis. Jo giminės vadinosi Puciatais

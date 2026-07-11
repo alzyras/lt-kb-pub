@@ -46,16 +46,6 @@ Nenurodyta
 - t-003
   global_id: t-07803
   teiginys: "Senovės lietuviai patys kalė namų statybos ir dailidystės įrankius, nes manė, kad pamatytą daiktą žmogus turi gebėti pasidirbti."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "144246-144674; hash=a4800fbcdad21ea3f97bd075ef4f08feaa4f60e9540b26f3ccfe95598d9214c7; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Savarankiškas ūkio ir namų dirbinių gaminimas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=21"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Savarankiškas ūkio ir namų dirbinių gaminimas\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-09961
 ## Reikšmingi paminėjimai
@@ -69,8 +59,8 @@ Nenurodyta
         paregėjęs, tą turi padirbti. Ir taip jų grąžtai, kaltai, Strūnos^570 , skaptai, skrytulės^571 , kirviai, skliutai
         yra pačių dirbti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

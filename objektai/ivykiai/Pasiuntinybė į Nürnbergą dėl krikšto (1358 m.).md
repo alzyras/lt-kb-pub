@@ -57,20 +57,6 @@ Nenurodyta
 - t-001
   global_id: t-35874
   teiginys: "1358 m. pasiuntinybėje dėl krikšto Lietuvos valdovai reikalavo, kad Vokiečių ordinas grąžintų žemes iki Deimės ir Alės upių, Žiemgalius ir Kuršius."
-  semantiniai_rysiai: "Vokiečių ordinas kariavo prieš Totoriai (0.65)"
-  temporaliniai_duomenys: "įvykio data: 1358 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys faktinis ir paremtas, bet trūksta aiškaus įvykio objekto."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "44060-44537; hash=5a568f6c5bd53762fb63245aa0dc41cf65d841018062cfee33dba8b16c30ea0e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Totoriai: 0.65"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vokiečių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Totoriai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Sąlygose numatyta, kad Vokiečių ordinas persikeltų kovoti su totoriais."
   pagrindžia:
     - c-38323
 ## Reikšmingi paminėjimai
@@ -88,8 +74,8 @@ Nenurodyta
     tai jiedu siūlė Ordinui išsikelti į Rusijos pietus, ginti krikščionis
     nuo totorių užpuldinėjimo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

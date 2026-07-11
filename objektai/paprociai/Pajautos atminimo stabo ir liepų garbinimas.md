@@ -45,12 +45,6 @@ Nenurodyta
 - t-001
   global_id: t-194072
   teiginys: "Didžiajam Lietuvos ir Žemaičių kunigaikščiui Kukovaičiui būnant didžiuoju Naugarduko kunigaikščiu 2 I, <tais metais mirė Lietuvos ir Žemaičių didžiojo kuni gaikščio Kukovaičio motina Pajauta2 2 , sulaukusi žilos senatvės."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "87187-87648; hash=5eda1d6740e357e98e8e540f5bdc88ddf1e5c234ec203d7d9d47b8dcad653d3e; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176685
 
@@ -58,12 +52,6 @@ Nenurodyta
 - t-002
   global_id: t-194073
   teiginys: "Paskui tas stabas supuvo, ir toje vie loje išaugo liepos."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "87600-87786; hash=a1b7d10e7ecc78a7309cd6e4c296f85a78644f38bd6a2f629f37820940940cd5; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176686
 ## Reikšmingi paminėjimai
@@ -82,8 +70,8 @@ Nenurodyta
     stabą ties Žaslių ežeru. O tą jos stabą garbino ir Pa­
     jautą laikė deive.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -98,8 +86,8 @@ Nenurodyta
     loje išaugo liepos. Tąsias liepas garbino ir iki mūsų
     dienų jas tebedievina, minėdami tą Pajautą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -131,7 +119,8 @@ Nenurodyta
 - id: c-176686
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 48"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 48."
   citata_originali: |
     O tą jos stabą garbino ir Pa­
     jautą laikė deive. Paskui tas stabas supuvo, ir toje vie­

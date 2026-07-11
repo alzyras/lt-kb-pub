@@ -39,9 +39,6 @@ media_all_json: |-
 - t-001
   global_id: t-72890
   teiginys: "1230 m. pirmieji ordino atstovai Prūsų pasienyje pasistatė Fogelzango pilį."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "106055-106285; hash=32d2be60da3987f4f5538cc135ebe436caea8fe13bf5709d48d2f25d692911ab; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-71239
 
@@ -49,9 +46,6 @@ media_all_json: |-
 - t-001
   global_id: t-72890
   teiginys: "1230 m. pirmieji ordino atstovai Prūsų pasienyje pasistatė Fogelzango pilį."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "106055-106285; hash=32d2be60da3987f4f5538cc135ebe436caea8fe13bf5709d48d2f25d692911ab; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-71239
 
@@ -59,9 +53,6 @@ media_all_json: |-
 - t-002
   global_id: t-72892
   teiginys: "Pirmieji ordino atstovai Prūsų pasienyje gavo Konrado žemių su Niešavos pilaite ir pasistatė Fogelzango pilį."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "106055-106285; hash=32d2be60da3987f4f5538cc135ebe436caea8fe13bf5709d48d2f25d692911ab; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-71239
 ## Reikšmingi paminėjimai
@@ -80,8 +71,8 @@ media_all_json: |-
     nuolatinį karą su aisčių
     kiltimis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

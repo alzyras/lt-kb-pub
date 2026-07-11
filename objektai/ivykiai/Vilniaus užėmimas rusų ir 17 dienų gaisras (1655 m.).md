@@ -51,21 +51,6 @@ Nenurodyta
 - t-001
   global_id: t-01851
   teiginys: "1655 m. rusams užėmus Vilnių, miestas buvo apiplėštas ir sudegintas, o gaisras jame siautė 17 dienų."
-  temporaliniai_duomenys: "įvykio data: 1655 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalintas bendras teiginys apie miestus ir paliktas faktas apie note objektą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "682204-682482; hash=29e0c7321c0945b062b8bf760a2ed3b997e7807d9be7a498bb8037c362c7469e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Rusai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilniaus užėmimas rusų ir 17 dienų gaisras (1655 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Rusai: mention_match, group, gap=46"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus užėmimas rusų ir 17 dienų gaisras (1655 m.)\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-02089
 ## Reikšmingi paminėjimai
@@ -79,8 +64,8 @@ Nenurodyta
     ras jame siautė net 17 dienų). Dvarai taip pat buvo sunaikinti
     ir sudeginti, o jų valstiečiai išbėgioję.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

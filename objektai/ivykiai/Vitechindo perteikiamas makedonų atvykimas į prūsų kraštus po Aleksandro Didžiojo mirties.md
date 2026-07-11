@@ -42,21 +42,6 @@ Nenurodyta
 - t-001
   global_id: t-191872
   teiginys: "Narbutas rašo, kad Vitechindas padavimus apie prūsų ištakas nuspalvino pasakojimu apie makedonus po Aleksandro Didžiojo mirties."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "358676-359161; hash=71fb83ff1946389a164d7efa2a0dad239069615d1e61621bb7edc4e8b8184485; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Prūsai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vitechindo perteikiamas makedonų atvykimas į prūsų kraštus po Aleksandro Didžiojo mirties: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Prūsai: mention_match, group, gap=27"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vitechindo perteikiamas makedonų atvykimas į prūsų kraštus po Aleksandro Didžiojo mirties\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174754
 ## Reikšmingi paminėjimai
@@ -76,8 +61,8 @@ Nenurodyta
     mu, rašo apie makedonus, po Aleksandro Didžiojo mirties
     atvykusius į prūsų kraštus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -88,7 +73,8 @@ Nenurodyta
 - id: c-174754
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 195"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 195."
   citata_originali: |
     201
     Kildinimas iš pelazgų. Pažvelgę tyrinėtojo žvilgsniu į

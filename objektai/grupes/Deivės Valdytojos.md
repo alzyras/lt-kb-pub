@@ -30,14 +30,6 @@ Narbuto aprašyme Deivės Valdytojos vasaros mėnesienos naktimis nužengdavo į
 - t-001
   global_id: t-192951
   teiginys: "Narbuto aprašyme Deivės Valdytojos vasaros mėnesienos naktimis nužengdavo į slėnius prie upių ir ežerų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "860724-861240; hash=f11a746314488791c5fd35950899b7b831d63d0d6708038f20178409bb51b825; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175721
 - susijęs iš [[objektai/zodynas/Verpėja ir Deivės Valdytojos.md#claim-t-192313|Verpėja ir Deivės Valdytojos]]: Teodoro Narbuto pasakojime Verpėja ir Deivės Valdytojos vasaros mėnesienos naktimis nužengdavo į slėnius prie upių ir ežerų.
@@ -58,8 +50,8 @@ Narbuto aprašyme Deivės Valdytojos vasaros mėnesienos naktimis nužengdavo į
     bet vargas tam, kuris išdrįsdavo prisiartinti — jos be pasigailė­
     jimo nužudydavo kiekvieną, kuris įžeisdavo jų garbę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -70,7 +62,8 @@ Narbuto aprašyme Deivės Valdytojos vasaros mėnesienos naktimis nužengdavo į
 - id: c-175721
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 473"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 473."
   citata_originali: |
     Kartais
     vasaros naktį, mėnuliui šviečiant, tos deivės nužengdavo ant že­

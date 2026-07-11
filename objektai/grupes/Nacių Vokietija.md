@@ -41,20 +41,6 @@ Tačiau Vokietijos vyriausybė uždraudė lietuviams kilus karui sudaryti bet ko
 - t-003
   global_id: t-74876
   teiginys: "1941 m. liepos 17 d. Nacių Vokietija iš Lietuvos, Latvijos, Estijos ir Gudijos sudarė Ostlando reicho komisariatą."
-  semantiniai_rysiai: "Nacių Vokietija valdė teritoriją Lietuva (0.78); Nacių Vokietija valdė teritoriją Estija (0.62); Nacių Vokietija valdė teritoriją Gudija (0.62)"
-  temporaliniai_duomenys: "įvykio data: 1941 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys papildytas aiškiu veikėju, kad būtų apie note objektą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "410247-410620; hash=4368a7b3eecd1b2e80fbde660775fab781b8fe00c363e860854a904009b7cd7b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde_teritorija -> Lietuva: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Nacių Vokietija: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata nurodo, kad Vokietijos administruojamoje Lietuvoje buvo įvestas civilinis okupacinis valdymas."
   pagrindžia:
     - c-22685
 
@@ -62,17 +48,6 @@ Tačiau Vokietijos vyriausybė uždraudė lietuviams kilus karui sudaryti bet ko
 - t-005
   global_id: t-74877
   teiginys: "Nacių Vokietijos civilinė valdžia rūpinosi policine priežiūra ir darbo jėgos naudojimu Vokietijos kariuomenei bei karo ūkiui."
-  semantiniai_rysiai: "Nacių Vokietija valdė teritoriją Lietuva (0.82)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "410698-411251; hash=6567178c32609482418ca7e460b3f1434b31915b986b3abbefbf3afe2962fb89; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde_teritorija -> Lietuva: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Nacių Vokietija: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo vokiečių valdžios veikimą Lietuvoje ir jos išteklių pajungimą Vokietijos reikmėms."
   pagrindžia:
     - c-72860
 
@@ -80,18 +55,6 @@ Tačiau Vokietijos vyriausybė uždraudė lietuviams kilus karui sudaryti bet ko
 - t-001
   global_id: t-74878
   teiginys: "Nacių Vokietijos vyriausybė uždraudė lietuviams karo atveju be jos įstaigų sutikimo sudaryti Lietuvos vyriausybę ar skelbti atsišaukimą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "395731-396196; hash=dbf73f274bc1b1addb50c8cedcd4b116d612b962f9f895751c03a3f8864161f1; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> K. Škirpa: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Nacių Vokietija: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "K. Škirpa: mention_match, person, gap=48"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Nacių Vokietija\" parinktas kaip owner_note_path. Targetas \"K. Škirpa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-22683
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75725|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Antanas Smetona netrukus pakeitė Klaipėdos nacių teismo skirtą mirties bausmę kalėjimu iki gyvos galvos, o 1937 m. amnestavo kaltinamuosius.
@@ -123,8 +86,8 @@ Tačiau Vokietijos vyriausybė uždraudė lietuviams kilus karui sudaryti bet ko
     vyriausybę ir skelbti bet kokį atsišaukimą į tautą, „negavus tam kompe-
     tentingų Vokietijos įstaigų sutikimo“.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -142,8 +105,8 @@ Tačiau Vokietijos vyriausybė uždraudė lietuviams kilus karui sudaryti bet ko
     Lietuvos, Latvijos, Estijos valstybių“ ir Gudijos sudarytas Rytų krašto
     (Ostlando) reicho komisariatas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -163,8 +126,8 @@ Tačiau Vokietijos vyriausybė uždraudė lietuviams kilus karui sudaryti bet ko
     vokiečių kolonistai (apie 30 tūkst. žmonių, daugiausia iki karo čia gy-
     venę vokiečiai).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -233,7 +196,3 @@ Tačiau Vokietijos vyriausybė uždraudė lietuviams kilus karui sudaryti bet ko
   patikimumo_saltinis: ai
   pagrindzia:
     - t-74877
-
-## Ryšiai
-- Sąjungininkai: [[objektai/grupes/Lietuvių aktyvistų frontas]]
-- Nacių Vokietija valdė [[objektai/vietos/Estija]], [[objektai/vietos/Gudija]], [[objektai/vietos/Lietuva]]

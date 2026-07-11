@@ -43,20 +43,6 @@ Dusburgietis teigia, kad apie Pieštvės pilėnų apiplėšimą 1294 Tais pačia
 - t-001
   global_id: t-60106
   teiginys: "1294 m. Ditrichas iš Ezbeko su Otonu iš Bergo ir Otonu iš Cedlico buvo pasiųstas saugoti Ragainės pilies."
-  semantiniai_rysiai: "Ditrichas iš Ezbeko gynė Ragainė (0.90); Ditrichas iš Ezbeko siuntė į Ragainė (0.90); Ditrichas iš Ezbeko keliavo į Pieštvė (0.88)"
-  temporaliniai_duomenys: "įvykio data: 1294 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "581198-581561; hash=dd47c26558786aaad46784d4638a20cbb78e6403aa61a0723fa968a19ea13d49; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyne -> Ragainė: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Ditrichas iš Ezbeko: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Ragainė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Saugoti Ragainės pilį semantiškai tiesiogiai atitinka Ragainės gynimą."
   pagrindžia:
     - c-60738
 
@@ -64,16 +50,6 @@ Dusburgietis teigia, kad apie Pieštvės pilėnų apiplėšimą 1294 Tais pačia
 - t-002
   global_id: t-60107
   teiginys: "Ditrichas iš Ezbeko žuvo laivų mūšyje, kuriame lietuviai neteko 70 prityrusių karių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "590306-591015; hash=0ea248b43fdb0e8455760f5b2a89c15bea0912823adca17c2252579be13109ea; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Laivai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ditrichas iš Ezbeko: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Laivai: mention_match, thing, gap=25"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ditrichas iš Ezbeko\" parinktas kaip owner_note_path. Targetas \"Laivai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-60739
 - susijęs iš [[objektai/asmenys/Konradas Rufus.md#claim-t-60368|Konradas Rufus]]: Konradas Rufus žadėjo Ditrichui iš Ezbeko atiduoti savo žirgą, kai šis trauksis atgal.
@@ -92,8 +68,8 @@ Dusburgietis teigia, kad apie Pieštvės pilėnų apiplėšimą 1294 Tais pačia
     ginklanešių, jie patraukė prie Pieštvės pilies, kur pagrobė visą galvijų kaimenę; nužudę
     daug netikėlių, 70 žmonių išsivarė į nelaisvę.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -113,8 +89,8 @@ Dusburgietis teigia, kad apie Pieštvės pilėnų apiplėšimą 1294 Tais pačia
     kalbėdamasis su broliu Konradu Rufu, kuris jam žadėjo atiduoti savo žirgą, kai trauks
     atgal, o tas tarė: „Man pakanka savo žirgo, nes manęs netrukus gyvo nebematysi“.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -125,7 +101,8 @@ Dusburgietis teigia, kad apie Pieštvės pilėnų apiplėšimą 1294 Tais pačia
 - id: c-60738
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 185"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 185."
   citata_originali: |
     257 (250). Apie Pieštvės pilėnų apiplėšimą 1294
 
@@ -144,7 +121,8 @@ Dusburgietis teigia, kad apie Pieštvės pilėnų apiplėšimą 1294 Tais pačia
 - id: c-60739
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 188"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 188."
   citata_originali: |
     Šitai
     matydami, netikėliai pastojo jiems kelią, o šiame laivų mūšyje krito brolis Ditrichas iš
@@ -163,8 +141,5 @@ Dusburgietis teigia, kad apie Pieštvės pilėnų apiplėšimą 1294 Tais pačia
     - t-60107
 
 ## Ryšiai
-- Puolė Ditrichas iš Ezbeko: [[objektai/grupes/Lietuviai]]
-- Ditrichas iš Ezbeko keliavo į [[objektai/vietos/Nemunas]], [[objektai/vietos/Pieštvė]]
 - Ditrichas iš Ezbeko gynė [[objektai/vietos/Ragainė]]
 - Ditrichas iš Ezbeko siuntė į [[objektai/vietos/Ragainė]]
-- Ditrichas iš Ezbeko surengė žygį į [[objektai/vietos/Gardinas]]

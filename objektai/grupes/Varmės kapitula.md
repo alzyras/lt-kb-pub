@@ -45,17 +45,6 @@ Nenurodyta
 - t-001
   global_id: t-86737
   teiginys: "Žygimantas sutiko su Varmės kapitulos prašymu pripažinti Fabijono paskyrimą Varmės vyskupu."
-  semantiniai_rysiai: "Varmės kapitula paskyrė Fabianas (Varmės vyskupas) (0.78)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "719488-720809; hash=b8e8485b0307305cb1bed20d5d96cbcd2b8f120c3755d1d9582d10554f89d047; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "paskyre -> Fabianas (Varmės vyskupas): 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Varmės kapitula: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Fabianas (Varmės vyskupas): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Lotyniška citata rodo, kad kapitula atliko Fabiano išrinkimą ar paskyrimą, kurio pripažinimo prašyta."
   pagrindžia:
     - c-82716
 
@@ -63,17 +52,6 @@ Nenurodyta
 - t-002
   global_id: t-86738
   teiginys: "Žygimantas sutiko su Varmės kapitulos prašymu pripažinti be jo pritarimo įvykusį Fabijono paskyrimą Varmės vyskupu."
-  semantiniai_rysiai: "Varmės kapitula paskyrė Fabijonas (Varmės vyskupas) (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "721260-722054; hash=b5a305b0f7bbf0d75ad236a9a76c2bee1c9fdb0e082554a3a777c5a35600d593; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "paskyre -> Fabijonas (Varmės vyskupas): 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Varmės kapitula: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Fabijonas (Varmės vyskupas): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai mini Varmės kapitulos prašymą pripažinti Fabijono paskyrimą."
   pagrindžia:
     - c-82717
 ## Reikšmingi paminėjimai
@@ -110,8 +88,8 @@ Nenurodyta
     quoque assensus ad ejusmodi confirmationem obtinendam non
     accederet.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -143,8 +121,8 @@ Nenurodyta
     šventajam Apaštalų Sostui, būtų tvirti ir nekeičiami, nutarė­
     me išrūpinti Šventojo Tėvo patvirtinimą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -225,4 +203,4 @@ Nenurodyta
     - t-86738
 
 ## Ryšiai
-- Varmės kapitula paskyrė [[objektai/asmenys/Fabianas (Varmės vyskupas)]], [[objektai/asmenys/Fabijonas (Varmės vyskupas)]]
+- Varmės kapitula paskyrė [[objektai/asmenys/Fabijonas (Varmės vyskupas)]]

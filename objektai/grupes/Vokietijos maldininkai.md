@@ -44,20 +44,6 @@ Dusburgietis teigia, kad apie maldininkų atvykimą 1304 viešpaties metais vie�
 - t-002
   global_id: t-59008
   teiginys: "1307 m. į Prūsijos žemę atvykę Vokietijos maldininkai žiemą telkė kariuomenę žygiui prieš lietuvius, bet žygio nepradėjo dėl plono ledo."
-  semantiniai_rysiai: "Vokietijos maldininkai keliavo į Prūsija (0.95)"
-  temporaliniai_duomenys: "įvykio data: 1307 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalinti nutrūkę vardų sąrašai ir paliktas šaltinio remiamas įvykis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "624642-625242; hash=e2e83a5979fade27edd27fc650e7946b804b01040a433aa99e2bb96ddaf8e1d8; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Prūsija: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vokietijos maldininkai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas aiškiai sako, kad maldininkai atvyko į Prūsijos žemę."
   pagrindžia:
     - c-59641
 
@@ -65,20 +51,6 @@ Dusburgietis teigia, kad apie maldininkų atvykimą 1304 viešpaties metais vie�
 - t-001
   global_id: t-59009
   teiginys: "1304 m. Vokietijos maldininkai vėl išvyko į Prūsijos žemę."
-  semantiniai_rysiai: "Vokietijos maldininkai keliavo į Prūsija (0.95)"
-  temporaliniai_duomenys: "įvykio data: 1303 m.; įvykio data: 1304 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "616438-616791; hash=025a70b449e6471ab0aaa116f43a2ac9c78793fc4d4d761656a0a6418ba70380; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Prūsija: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vokietijos maldininkai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo maldininkų kelionę į Prūsijos žemę."
   pagrindžia:
     - c-59642
 
@@ -86,20 +58,6 @@ Dusburgietis teigia, kad apie maldininkų atvykimą 1304 viešpaties metais vie�
 - t-003
   global_id: t-59010
   teiginys: "1316 m. Reino krašto maldininkai su broliu Henriku žygiavo į Medininkų valsčių ir jį nusiaubė."
-  semantiniai_rysiai: "Vokietijos maldininkai surengė žygį į Medininkai (0.90)"
-  temporaliniai_duomenys: "įvykio data: 1316 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys perrašytas kaip vientisas sakinys apie maldininkų veiksmą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "655197-655783; hash=24c87d2b1064fc36de457712cfca9515e57a6f83e60deb5a19454ff76bc2a22d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "surenge_zygi_i -> Medininkai: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vokietijos maldininkai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Medininkai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai aprašo žygį į Medininkų valsčių."
   pagrindžia:
     - c-59640
 
@@ -107,20 +65,6 @@ Dusburgietis teigia, kad apie maldininkų atvykimą 1304 viešpaties metais vie�
 - t-001
   global_id: t-59009
   teiginys: "1304 m. Vokietijos maldininkai vėl išvyko į Prūsijos žemę."
-  semantiniai_rysiai: "Vokietijos maldininkai keliavo į Prūsija (0.95)"
-  temporaliniai_duomenys: "įvykio data: 1303 m.; įvykio data: 1304 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "616438-616791; hash=025a70b449e6471ab0aaa116f43a2ac9c78793fc4d4d761656a0a6418ba70380; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Prūsija: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vokietijos maldininkai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo maldininkų kelionę į Prūsijos žemę."
   pagrindžia:
     - c-59642
 
@@ -128,12 +72,6 @@ Dusburgietis teigia, kad apie maldininkų atvykimą 1304 viešpaties metais vie�
 - t-005
   global_id: t-194372
   teiginys: "Apie maldininkų atvykimą 1304 viešpaties metais viešpaties įkvėpti Vokietijos maldininkai vėl suskato keliauti į Prūsijos žemę."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "616438-616791; hash=025a70b449e6471ab0aaa116f43a2ac9c78793fc4d4d761656a0a6418ba70380; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-59642
 - susijęs iš Prūsija: 1304 m. Vokietijos maldininkai vėl išsirengė keliauti į Prūsijos žemę.
@@ -154,8 +92,8 @@ Dusburgietis teigia, kad apie maldininkų atvykimą 1304 viešpaties metais vie�
     dėjosi, grafas iš Bergo prieš Medvėgalio pilį575 daug karių įšventino po brolių vėliava  į
     riterius.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -180,8 +118,8 @@ Dusburgietis teigia, kad apie maldininkų atvykimą 1304 viešpaties metais vie�
 
                 297 (290).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -201,8 +139,8 @@ Dusburgietis teigia, kad apie maldininkų atvykimą 1304 viešpaties metais vie�
 
       555 Aprašomas 1302—1303 m.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -215,7 +153,8 @@ Dusburgietis teigia, kad apie maldininkų atvykimą 1304 viešpaties metais vie�
 - id: c-59640
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 211"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 211."
   citata_originali: |
     Apie Medininkų valsčiaus apiplėšimą 1316 metais
 
@@ -236,7 +175,8 @@ Dusburgietis teigia, kad apie maldininkų atvykimą 1304 viešpaties metais vie�
 - id: c-59641
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 200"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 200."
   citata_originali: |
     296 (289). Apie maldininkų atvykimą
 
@@ -263,7 +203,8 @@ Dusburgietis teigia, kad apie maldininkų atvykimą 1304 viešpaties metais vie�
 - id: c-59642
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 197"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 197."
   citata_originali: |
     Apie maldininkų atvykimą
 
@@ -286,5 +227,4 @@ Dusburgietis teigia, kad apie maldininkų atvykimą 1304 viešpaties metais vie�
 
 ## Ryšiai
 - Vokietijos maldininkai keliavo į [[objektai/vietos/Prūsija]]
-- Vokietijos maldininkai gynė [[objektai/vietos/Baiga]]
 - Vokietijos maldininkai surengė žygį į [[objektai/vietos/Medininkai]]

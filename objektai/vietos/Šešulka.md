@@ -34,16 +34,6 @@ Pirmiausia norime, kad minėta Pabaisko parapija turėtų buvusias ribas, kurios
 - t-001
   global_id: t-86274
   teiginys: "Šešulka ties Skočiūnų dvaru įteka į Šventąją."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "492335-493264; hash=ab605063a7bd1d1816cc37b0973ad06a23293e6e93fc218b28ea8eab97e4d123; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Antspaudai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Šešulka: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Antspaudai: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šešulka\" parinktas kaip owner_note_path. Targetas \"Antspaudai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-82253
 - susijęs iš Skočiūnų dvaras: Pabaisko parapijos riba ėjo ties Skočiūnų dvaru, kur Šešulka, dar vadinama Šešuolėle, įteka į Šventąją.
@@ -80,8 +70,8 @@ Pirmiausia norime, kad minėta Pabaisko parapija turėtų buvusias ribas, kurios
     pastatyta ir veikti, kad nepadarytų nuostolio ir skriaudos
     minėtai Pabaisko bažnyčiai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

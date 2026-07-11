@@ -30,12 +30,6 @@ Fridrichas buvo Meiseno markgrafas, kurio šeimos vyrai, pasak Kojelavičiaus, n
 - t-001
   global_id: t-186202
   teiginys: "Fridrichas buvo Meiseno markgrafas, kurio šeimos vyrai, pasak Kojelavičiaus, nepalikdavo kovos rikiuotės."
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "581437-581776; hash=f7f8eececb6f21f3cfee3694247f24ecece4255f780cd621cb28885834a0ad3a; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-169563
 ## Reikšmingi paminėjimai
@@ -54,8 +48,8 @@ Fridrichas buvo Meiseno markgrafas, kurio šeimos vyrai, pasak Kojelavičiaus, n
     Hildermidas, škotas, sūnus tėvo, kuris, gelbėdamas ka­
     ralių, paaukojo gyvybę.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -66,7 +60,8 @@ Fridrichas buvo Meiseno markgrafas, kurio šeimos vyrai, pasak Kojelavičiaus, n
 - id: c-169563
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 334"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 334."
   citata_originali: |
     Galustalėje
     šau n ią p u o tą

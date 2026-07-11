@@ -41,11 +41,6 @@ Balinskio publicistinės literatūros dalis yra Gazeta Warszawska (Varšuvos lai
 - t-002
   global_id: t-193049
   teiginys: "„Gazeta Warszawska“ spausdintuose straipsniuose M. Balińskis aprašė Vilniaus archeologinės komisijos veiklą ir lenkų literatūros problemas."
-  sudarymo_pagrindimas: "Teiginys yra aiškus, faktinis ir tiesiogiai paremtas citata."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Vilniaus archeologijos komisija|Vilniaus archeologijos komisija]]; mentioned_place: Vilnius; mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_place: Krokuva"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "22157-22718; hash=1cc046242470069fa53061d757945b2a3cadfd1a9b954122e7604ce616d0ea17; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-175817
 
@@ -53,11 +48,6 @@ Balinskio publicistinės literatūros dalis yra Gazeta Warszawska (Varšuvos lai
 - t-001
   global_id: t-193050
   teiginys: "„Gazeta Warszawska“ buvo svarbi M. Balinskio publicistinės literatūros dalis."
-  sudarymo_pagrindimas: "Pradinis teiginys negrabiai suformuluotas; citata palaiko glaustesnį enciklopedinį sakinį."
-  susije_objektai: "mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_place: Lenkija; mentioned_place: Lietuva"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "22157-22718; hash=1cc046242470069fa53061d757945b2a3cadfd1a9b954122e7604ce616d0ea17; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-175818
 
@@ -65,14 +55,6 @@ Balinskio publicistinės literatūros dalis yra Gazeta Warszawska (Varšuvos lai
 - t-003
   global_id: t-194677
   teiginys: "Narbutas teigia, kad yra žmogus Dievo siųstas iš dangaus, Jo lietuviškoje krūtinėje šventoji ugnis liepsnoja, - 8 Gazeta Warszawska."
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "13355-13487; hash=ed17804dcb0353e5010f10e1f3caf1e5a3786d82ffcff3143b45d1e2b9fcd72b; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-177074
 ## Reikšmingi paminėjimai
@@ -90,8 +72,8 @@ Balinskio publicistinės literatūros dalis yra Gazeta Warszawska (Varšuvos lai
     supažindino skaitytoją su kultūriniu sąjūdžiu Žemaitijoje, Ka­
     rolinos Praniauskaitės poezija, Lauryno Ivinskio kalendoriais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -110,8 +92,8 @@ Balinskio publicistinės literatūros dalis yra Gazeta Warszawska (Varšuvos lai
     supažindino skaitytoją su kultūriniu sąjūdžiu Žemaitijoje, Ka­
     rolinos Praniauskaitės poezija, Lauryno Ivinskio kalendoriais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -126,8 +108,8 @@ Balinskio publicistinės literatūros dalis yra Gazeta Warszawska (Varšuvos lai
     liepsnoja, -
     8 Gazeta Warszawska. -  1854. -  Nr. 159.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -182,7 +164,8 @@ Balinskio publicistinės literatūros dalis yra Gazeta Warszawska (Varšuvos lai
 - id: c-177074
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 9"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 9."
   citata_originali: |
     Yra žmogus Dievo siųstas iš dangaus,
     Jo lietuviškoje krūtinėje šventoji ugnis

@@ -42,19 +42,6 @@ Nenurodyta
 - t-001
   global_id: t-185567
   teiginys: "Fiurstenbergas po Kuoknesės kapituliacijos įkalino Rygos arkivyskupą Vilhelmą ir jėga užėmė kitas jo pilis."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1240655-1241277; hash=3aea32cce9fd927a0147406944e7588362c17190d3bf328fa0780740a1cdab92; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kuoknesė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Fiurstenbergo puolimas prieš Rygos arkivyskupą Vilhelmą ir jo įkalinimas: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Kuoknesė: mention_match, place, gap=18"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Fiurstenbergo puolimas prieš Rygos arkivyskupą Vilhelmą ir jo įkalinimas\" parinktas kaip owner_note_path. Targetas \"Kuoknesė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-168928
 ## Reikšmingi paminėjimai
@@ -80,8 +67,8 @@ Nenurodyta
     jimą ir jėga užėmė kitas jo pilis, nors žadėjo to neda­
     ryti.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

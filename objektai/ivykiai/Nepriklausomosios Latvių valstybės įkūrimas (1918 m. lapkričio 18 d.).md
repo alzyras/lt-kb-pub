@@ -49,11 +49,6 @@ Nenurodyta
 - t-001
   global_id: t-66799
   teiginys: "Po Vokietijos pralaimėjimo Vakaruose Latvija 1918 m. lapkričio 18 d. buvo paskelbta nepriklausoma."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "1192861-1193201; hash=16ce9dce1fe68d9a807c12760e7f4fae216d660c75031864b739822785defd03; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-66926
 ## Reikšmingi paminėjimai
@@ -72,8 +67,8 @@ Nenurodyta
 
     sybė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

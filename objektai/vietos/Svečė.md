@@ -35,17 +35,6 @@ Dusburgietis teigia, kad kadangi klastinga piktybė ir piktas vylius neša džia
 - t-001
   global_id: t-58478
   teiginys: "Sventopelkas pradėjo statyti Svečės pilį priešais dabartinį Kulmo miestą, kad trukdytų Ordino broliams plaukioti Vysla."
-  semantiniai_rysiai: "Sventopelkas pastatė Svečė (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "305421-306038; hash=86e226a9d44214bf239784c07e600c61d7cd13425752cc51a488cb574e94e36e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "pastate -> Svečė: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Sventopelkas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Svečė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Sventopelkas tiesiogiai nurodomas kaip pradėjęs statyti Svečės pilį."
   pagrindžia:
     - c-59112
 
@@ -53,16 +42,6 @@ Dusburgietis teigia, kad kadangi klastinga piktybė ir piktas vylius neša džia
 - t-003
   global_id: t-58479
   teiginys: "Magistro Popono pasiųsti žvalgai pranešė, kad Sventopelkas su gausia kariuomene stovėjo prie Svečės pilies ir ją stiprino."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "313401-314185; hash=dd820ccb4ddc990007c77cfc32b6def909fc453390585c6b2ed86a51649ce990; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kalavijas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Svečė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kalavijas: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Svečė\" parinktas kaip owner_note_path. Targetas \"Kalavijas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-167593
 
@@ -70,16 +49,6 @@ Dusburgietis teigia, kad kadangi klastinga piktybė ir piktas vylius neša džia
 - t-002
   global_id: t-58480
   teiginys: "Sventopelkas su daugybe ginklanešių ir 10 laivų užpuolė Elbingo brolių laivus, jiems plaukiant pro Svečės pilį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "311537-312012; hash=ef87960890ea3157dde2de550894332e012088622ab7d80e8e13b3b4152a8dab; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Elbingas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Svečė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Elbingas: mention_match, place, gap=43"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Svečė\" parinktas kaip owner_note_path. Targetas \"Elbingas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-59111
 
@@ -87,16 +56,6 @@ Dusburgietis teigia, kad kadangi klastinga piktybė ir piktas vylius neša džia
 - t-002
   global_id: t-58480
   teiginys: "Sventopelkas su daugybe ginklanešių ir 10 laivų užpuolė Elbingo brolių laivus, jiems plaukiant pro Svečės pilį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "311537-312012; hash=ef87960890ea3157dde2de550894332e012088622ab7d80e8e13b3b4152a8dab; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Elbingas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Svečė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Elbingas: mention_match, place, gap=43"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Svečė\" parinktas kaip owner_note_path. Targetas \"Elbingas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-59111
 
@@ -104,16 +63,6 @@ Dusburgietis teigia, kad kadangi klastinga piktybė ir piktas vylius neša džia
 - t-003
   global_id: t-58479
   teiginys: "Magistro Popono pasiųsti žvalgai pranešė, kad Sventopelkas su gausia kariuomene stovėjo prie Svečės pilies ir ją stiprino."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "313401-314185; hash=dd820ccb4ddc990007c77cfc32b6def909fc453390585c6b2ed86a51649ce990; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kalavijas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Svečė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kalavijas: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Svečė\" parinktas kaip owner_note_path. Targetas \"Kalavijas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-167593
 
@@ -121,12 +70,6 @@ Dusburgietis teigia, kad kadangi klastinga piktybė ir piktas vylius neša džia
 - t-006
   global_id: t-194550
   teiginys: "Kai jie plaukė pro Svečės pilį, Sventopelkas vėl juos užpuolė su daugybe ginklanešių ir 10 laivų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "311537-312012; hash=ef87960890ea3157dde2de550894332e012088622ab7d80e8e13b3b4152a8dab; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-59111
 - susijęs iš [[objektai/ivykiai/Svečės pilies statyba ir nesėkmingas Ordino puolimas.md#claim-t-66925|Svečės pilies statyba ir nesėkmingas Ordino puolimas]]: Sventopelkas pradėjo statyti Svečės pilį priešais Kulmą, kad trukdytų broliams plaukioti Vysla aukštyn ir žemyn.
@@ -161,8 +104,8 @@ Dusburgietis teigia, kad kadangi klastinga piktybė ir piktas vylius neša džia
     kitiems vadovavusiu, ir ietimi perdūrė jam žandą, tačiau brolis Fridrichas besigindamas
     jį nukovė.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -183,8 +126,8 @@ Dusburgietis teigia, kad kadangi klastinga piktybė ir piktas vylius neša džia
     plaukti laivais žemyn, o pats su Torunės broliais bei kunigaikščiu Kazimieru nutarė
     traukti su kariuomene į šią vietą. Jis mat norėjo neleisti statyti čia pilies.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -205,8 +148,8 @@ Dusburgietis teigia, kad kadangi klastinga piktybė ir piktas vylius neša džia
     bėgliams parsiradus Sventopelko kariuomenėje, išsibėgiojo visi, išsigelbėjo kurie ne
     kurie, pasiekdami pilį, visi kiti arba paskendo, arba paklojo galvas nuo kalavijo ašmenų.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -218,7 +161,8 @@ Dusburgietis teigia, kad kadangi klastinga piktybė ir piktas vylius neša džia
 - id: c-59111
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 94"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 94."
   citata_originali: |
     Dar kartų apie tą patį
 
@@ -240,7 +184,8 @@ Dusburgietis teigia, kad kadangi klastinga piktybė ir piktas vylius neša džia
 - id: c-59112
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 92"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 92."
   citata_originali: |
     Kadangi
     klastinga piktybė ir piktas vylius neša džiaugsmą niekšingiems žmonėms, kai jie gali
@@ -260,7 +205,8 @@ Dusburgietis teigia, kad kadangi klastinga piktybė ir piktas vylius neša džia
 - id: c-167593
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 95"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 95."
   citata_originali: |
     Apie laimėtą mūšį, kuriame broliai nukovė tūkstantį penkis šimtus pomeranų
 
@@ -282,4 +228,3 @@ Dusburgietis teigia, kad kadangi klastinga piktybė ir piktas vylius neša džia
 
 ## Ryšiai
 - Buvo pastatyta: [[objektai/asmenys/Sventopelkas]]
-- Gynė Svečę: [[objektai/asmenys/Sventopelkas]]

@@ -35,16 +35,6 @@ Ten pat daly­ vaujant didžiai gerbiamiems, didingiesiems ir prakilnie­ siems 
 - t-001
   global_id: t-86636
   teiginys: "1501 metais Gardine tarp dalyvavusių pareigūnų minimas LDK pataurininkas ir Belsko seniūnas Mikalojus Mikolajevičius."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "702404-703101; hash=188341cc654f15e742cb6696a23add9f5fa8e48c06899dcdc296d55a074a9506; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Belskas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "pataurininkas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Belskas: mention_match, place, gap=17"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"pataurininkas\" parinktas kaip owner_note_path. Targetas \"Belskas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-82615
 ## Reikšmingi paminėjimai
@@ -67,8 +57,8 @@ Ten pat daly­ vaujant didžiai gerbiamiems, didingiesiems ir prakilnie­ siems 
     tikėjimo vertų. Dalyvavusio sprendime raštininko Stanislo­
     vo Veeno ranka.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

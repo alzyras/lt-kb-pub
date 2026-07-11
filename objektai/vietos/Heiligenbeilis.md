@@ -30,22 +30,6 @@ Narbutas Heiligenbeilyje mini Kurkliui skirtą šventyklą, kurios aptvare augo 
 - t-001
   global_id: t-189003
   teiginys: "Narbutas Heiligenbeilyje mini Kurkliui skirtą šventyklą, kurios aptvare augo šventasis ąžuolas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Šventasis ąžuolas priklausė Heiligenbeilis (0.82)"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "463138-463466; hash=023871fbf0d769394dec30e94b9bbc93e6f24d2284da716dc350617df0ac39be; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Heiligenbeilis: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Šventasis ąžuolas: llm_allowed_candidate, thing"
-  ryšio_targeto_parinkimas: "Heiligenbeilis: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys nurodo, kad šventasis ąžuolas augo šventyklos aptvare Heiligenbeilyje."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171892
 - susijęs iš [[objektai/daiktai/Heiligenbeilio kirvis.md#claim-t-189721|Heiligenbeilio kirvis]]: Narbutas pasakojo, kad Heiligenbeilio kirvis atšoko nuo švento ąžuolo kamieno ir mirtinai sužeidė žmogų, kai vyskupas Anzelmas liepė ąžuolą nukirsti.
@@ -65,8 +49,8 @@ Narbutas Heiligenbeilyje mini Kurkliui skirtą šventyklą, kurios aptvare augo 
     klį i, kurios aptvare taip pat augo šventasis ąžuolas. Kroniki-
     7141-asis puslapis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -77,7 +61,8 @@ Narbutas Heiligenbeilyje mini Kurkliui skirtą šventyklą, kurios aptvare augo 
 - id: c-171892
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 266"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 266."
   citata_originali: |
     Įėjimas -  tai priekiniai vartai, į dešinę
     nuo vartų buvo vyriausiojo kunigo būstas, kairėje -  užeiga,
@@ -92,6 +77,3 @@ Narbutas Heiligenbeilyje mini Kurkliui skirtą šventyklą, kurios aptvare augo 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189003
-
-## Ryšiai
-- Turėjo priklausinį: [[objektai/daiktai/Šventasis ąžuolas]]

@@ -44,18 +44,6 @@ pradžioje Karolis Zikaras, Vytautas Lesčius 190 Šiaulių-Radviliškio operaci
 - t-001
   global_id: t-40613
   teiginys: "Dalius Žygelis buvo kelių tekstų apie 1945–1949 m. Lietuvos partizanų kautynes bendraautoris."
-  temporaliniai_duomenys: "įvykio data: 1919 m.; įvykio data: 1920 m.; įvykio data: 1945-1949; įvykio data: 1949 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "2972-4566; hash=edf95fa53f5d8541442c59900dc7f5080637cb9a34a9d54b0eb116f93d7d75e7; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Dalius Žygelis: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.): mention_match, event, gap=70"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dalius Žygelis\" parinktas kaip owner_note_path. Targetas \"Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-44606
 - susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171508|Karolis Zikaras]]: Karolis Zikaras, Dalius Žygelis ir Loreta Uzdraitė nurodyti kaip teksto apie Lietuvos partizanų apygardas autoriai.
@@ -117,8 +105,8 @@ pradžioje Karolis Zikaras, Vytautas Lesčius 190 Šiaulių-Radviliškio operaci
     Lietuvos istoriją yra tekę dalyvauti daugelyje mūšių, kurie nepa- daug kontekstinės informacijos, nupasakojančios kiekvieno lai-
     teko į šią knygą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

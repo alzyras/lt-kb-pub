@@ -54,20 +54,6 @@ Nenurodyta
 - t-001
   global_id: t-62821
   teiginys: "1303 m. žiemą magistras brolis Konradas su didele kariuomene įsiveržė į Karšuvos žemę ir sudegino visus pastatus."
-  teiginio_tipas: "faktas"
-  temporaliniai_duomenys: "pastatymo data: 1303 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, faktinis ir tiksliai atitinka citatos duomenis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "614777-615240; hash=60e17d8f594d98e653625f721e8bf8abf6d383f2196fae7013ccc1663babaabe; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Karšuva: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Konradas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Karšuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Konradas su kariuomene tiesiogiai įsiveržė į Karšuvos žemę."
   pagrindžia:
     - c-63636
 
@@ -75,20 +61,6 @@ Nenurodyta
 - t-001
   global_id: t-62821
   teiginys: "1303 m. žiemą magistras brolis Konradas su didele kariuomene įsiveržė į Karšuvos žemę ir sudegino visus pastatus."
-  teiginio_tipas: "faktas"
-  temporaliniai_duomenys: "pastatymo data: 1303 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, faktinis ir tiksliai atitinka citatos duomenis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "614777-615240; hash=60e17d8f594d98e653625f721e8bf8abf6d383f2196fae7013ccc1663babaabe; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Karšuva: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Konradas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Karšuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Konradas su kariuomene tiesiogiai įsiveržė į Karšuvos žemę."
   pagrindžia:
     - c-63636
 
@@ -96,12 +68,6 @@ Nenurodyta
 - t-004
   global_id: t-194393
   teiginys: "Apie Karšuvos žemės nusiaubimą Tų 1303 metų žiemą555 brolis Konradas, magistras, su didžiule kariuomene įsiveržė į Karšuvos žemę; kadangi vedliai žygio metu išsimušė iš kelio, netikėliai suskubo pabėgti į saugias vietas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "614777-615240; hash=60e17d8f594d98e653625f721e8bf8abf6d383f2196fae7013ccc1663babaabe; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-63636
 ## Reikšmingi paminėjimai
@@ -117,11 +83,11 @@ Nenurodyta
     kalną, tarpais leidosi žemyn nelyginant  į klonį, tačiau, viešpaties globojami, nė vienas
     nenuskendo.
   citata_rodoma: ''
+  statusas: verified
+
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-
 - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -133,8 +99,8 @@ Nenurodyta
     sudegino visus pastatus, o patys pernakvojo čia pat pastatytose palapinėse. Kai vėliau
     traukė su kariuomene užšalusiomis Kuršių mariomis556, išvydo nuostabų dalyką.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -147,7 +113,8 @@ Nenurodyta
 - id: c-63636
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 197"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 197."
   citata_originali: |
     Apie Karšuvos žemės nusiaubimą
 

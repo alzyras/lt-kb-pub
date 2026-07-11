@@ -54,9 +54,6 @@ Nenurodyta
 - t-002
   global_id: t-93016
   teiginys: "Bažnyčios ir dvasininkai buvo atleisti nuo mokesčių, natūralijų, teismų ir pilių statymo prievolių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "266617-266880; hash=922aa4cd7d78ef9b4ef3c8f9b02d180ad7c1e50b51e53c5be49f52fa86bbf7da; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-88429
 
@@ -64,16 +61,6 @@ Nenurodyta
 - t-001
   global_id: t-93017
   teiginys: "Jogailos laikais bažnyčios ir dvasininkai buvo atleisti nuo mokesčių, natūralijų, teismų ir pilių statymo prievolių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "266441-266767; hash=7e5c9aed865964b643ca703032addb0f1e78abfa213c0878d6ebbce19ec794c9; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Bažnyčių ir dvasininkų atleidimas nuo mokesčių ir prievolių: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bažnyčių ir dvasininkų atleidimas nuo mokesčių ir prievolių\" parinktas kaip owner_note_path. Targetas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-88430
 ## Reikšmingi paminėjimai
@@ -89,8 +76,8 @@ Nenurodyta
     žeme, mokėti jiems tam tikrą metinį mokestį (6 rub.), klausyti
     vyskupo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -107,8 +94,8 @@ Nenurodyta
     liavų), teismų, pilių statymo ir k. Tomis pat teisėmis naudojo­
     si ir dvasininkai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

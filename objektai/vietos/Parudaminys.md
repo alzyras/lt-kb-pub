@@ -35,16 +35,6 @@ Bemaž tuo metu Vilniuje gerokai 25 V o i g t, V, 274, pasakodamas pagal Vygand�
 - t-001
   global_id: t-86219
   teiginys: "Voigtas, remdamasis Vygandu, Rudminne kaimą tapatino su dabartiniu Parudaminiu į pietvakarius nuo Vilniaus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "93429-93993; hash=54ae13ecfa9d69cf76fc7d266cba3ad8dd2a5b6ad6da4dc0196576938d4c1641; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Parudaminys: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=31"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Parudaminys\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-82198
 ## Reikšmingi paminėjimai
@@ -69,8 +59,8 @@ Bemaž tuo metu Vilniuje gerokai 25 V o i g t, V, 274, pasakodamas pagal Vygand�
     kaimis, pietryčiuose, už pusantros
     mylios nuo miesto.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

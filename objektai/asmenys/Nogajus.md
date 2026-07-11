@@ -43,20 +43,6 @@ media_all_json: |-
 - t-001
   global_id: t-87807
   teiginys: "Nogajaus mongolai 1272 m. kartu su Haličo kunigaikščiais puolė Lietuvą."
-  semantiniai_rysiai: "Mongolai puolė Lietuva (0.96)"
-  temporaliniai_duomenys: "įvykio data: 1272 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata leidžia suformuluoti aiškų faktą be antraščių ir OCR triukšmo."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "41517-41895; hash=6ec90489b60b703075cca6071634ffee123ec9643c96fd7c7f3863750a91b5b6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Lietuva: 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Mongolai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Claimas tiesiogiai teigia, kad Nogajaus mongolai puolė Lietuvą."
   pagrindžia:
     - c-83786
 - susijęs iš [[objektai/asmenys/Mamšėjus.md#claim-t-40326|Mamšėjus]]: 1279 m. pradžioje Mamšėjus vadovavo Nogajaus pasiųstai kariuomenei prieš Traidenio Lietuvą.
@@ -80,8 +66,8 @@ media_all_json: |-
     tas, vartai į pagoniškąją Lietuvą, jau buvo miestas, pagarsėjęs
     savo tvirtovėmis ir prekyba.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

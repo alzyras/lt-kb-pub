@@ -45,14 +45,6 @@ Nenurodyta
 - t-001
   global_id: t-189839
   teiginys: "Narbutas, remdamasis Lasickiu, Kremarą apibūdina kaip dievaitį, globojusį aukai tinkamus kuilius ir paršavedes; jam aukodavo alų pildami į ugnį."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "290672-290992; hash=e9fbe94d858d8ff0dbb048c930fe22658d932ea2af75814890afc5b7360a059c; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172722
 ## Reikšmingi paminėjimai
@@ -72,8 +64,8 @@ Nenurodyta
     sau ir aukai. Kalbėdamas apie jį, Lasickis nieko daugiau ne­
     nurodo, tik tai, kad jam aukodavo pildami alaus į ugnį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

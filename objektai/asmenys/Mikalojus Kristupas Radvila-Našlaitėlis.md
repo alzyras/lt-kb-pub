@@ -42,11 +42,6 @@ Mikalojus Kristupas Radvila-Našlaitėlis aprašomas kaip Mikalojaus Radvilos Ju
 - t-006
   global_id: t-82567
   teiginys: "Mikalojus Kristupas Radvila-Našlaitėlis, grįžęs į katalikybę, uždarė savo namuose buvusią reformatų bažnyčią ir 1576 m. atidavė spaustuvę jėzuitams."
-  temporaliniai_duomenys: "įvykio data: 1576 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "591270-592011; hash=71924edd69a9cf1c8a7267593f4bc904cc302023578c1f34981da8d22f9f6f4d; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-79044
 
@@ -54,19 +49,6 @@ Mikalojus Kristupas Radvila-Našlaitėlis aprašomas kaip Mikalojaus Radvilos Ju
 - t-005
   global_id: t-82568
   teiginys: "Grįžęs į katalikybę Mikalojus Kristupas Radvila-Našlaitėlis 1575 m. perkėlė Brastos spaustuvę į Vilnių ir atidavė ją besikuriančiam jėzuitų universitetui."
-  temporaliniai_duomenys: "įvykio data: 1569 m.; įvykio data: 1575 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir paremtas citata."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "111247-111819; hash=de0a1f393d1284783e4ea50d42be9acdf785bf96064be925b3b3454c7e1791be; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Brasta: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mikalojus Kristupas Radvila-Našlaitėlis (didikas, XVI a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Brasta: mention_match, place, gap=56"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mikalojus Kristupas Radvila-Našlaitėlis (didikas, XVI a.)\" parinktas kaip owner_note_path. Targetas \"Brasta\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-26844
 
@@ -74,17 +56,6 @@ Mikalojus Kristupas Radvila-Našlaitėlis aprašomas kaip Mikalojaus Radvilos Ju
 - t-011
   global_id: t-82569
   teiginys: "Mikalojus Kristupas Radvila-Našlaitėlis, Lietuvos Didžiosios Kunigaikštystės rūmų maršalka, tapo Filipovo namų savininku."
-  semantiniai_rysiai: "Namas priklausė Mikalojus Kristupas Radvila-Našlaitėlis (didikas, XVI a.) (0.72)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "599744-600328; hash=7ab31b7db07a970b8e8e95b718e0db00e235674815651cfece00ccf977eca975; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Mikalojus Kristupas Radvila-Našlaitėlis (didikas, XVI a.): 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Namas: llm_allowed_candidate, thing"
-  ryšio_targeto_parinkimas: "Mikalojus Kristupas Radvila-Našlaitėlis (didikas, XVI a.): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Filipovo namų savininku tapo Mikalojus Kristupas."
   pagrindžia:
     - c-79045
 
@@ -92,19 +63,6 @@ Mikalojus Kristupas Radvila-Našlaitėlis aprašomas kaip Mikalojaus Radvilos Ju
 - t-012
   global_id: t-82570
   teiginys: "Kapitulai nustojus gauti činšą už Filipovo namą, su kunigaikščiu Kristupu prasidėjo teismo procesas, o 1573 m. kovo 26 d. įsigaliojo sutartis."
-  temporaliniai_duomenys: "sutarties data: 1573 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinė pretenzija daugiausia apie tėvą, bet citata palaiko faktą apie Kristupą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "600054-600548; hash=c6a00a24070bda301fcd1528abee76e929b8425d7a24aadde4ecbe03f63a94e4; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mikalojus Kristupas Radvila-Našlaitėlis (didikas, XVI a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mikalojus Kristupas Radvila-Našlaitėlis (didikas, XVI a.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-79048
 
@@ -112,16 +70,6 @@ Mikalojus Kristupas Radvila-Našlaitėlis aprašomas kaip Mikalojaus Radvilos Ju
 - t-008
   global_id: t-82571
   teiginys: "Mikalojus Kristupas Radvila-Našlaitėlis bylinėjosi su kapitula dėl Filipovo namo, kai nustota mokėti činšą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "600329-600696; hash=e4745d8e351ce7461e1152d2fdece7b44a1c1610276b57520c9677b455049841; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> kapitula: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mikalojus Kristupas Radvila-Našlaitėlis (didikas, XVI a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "kapitula: mention_match, thing, gap=54"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mikalojus Kristupas Radvila-Našlaitėlis (didikas, XVI a.)\" parinktas kaip owner_note_path. Targetas \"kapitula\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-79049
 
@@ -129,12 +77,6 @@ Mikalojus Kristupas Radvila-Našlaitėlis aprašomas kaip Mikalojaus Radvilos Ju
 - t-010
   global_id: t-82572
   teiginys: "Mikalojus Kristupas Radvila-Našlaitėlis grįžo į katalikų tikėjimą, uždarė savo namuose buvusią reformatų bažnyčią ir 1576 m. atidavė spaustuvę jėzuitams."
-  temporaliniai_duomenys: "įvykio data: 1576 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra konkretus, gramatiškas ir paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "591270-592011; hash=71924edd69a9cf1c8a7267593f4bc904cc302023578c1f34981da8d22f9f6f4d; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-79044
 
@@ -142,19 +84,6 @@ Mikalojus Kristupas Radvila-Našlaitėlis aprašomas kaip Mikalojaus Radvilos Ju
 - t-009
   global_id: t-82573
   teiginys: "Mikalojus Kristupas Radvila-Našlaitėlis 1575 m. perkėlė Brastos spaustuvę į Vilnių ir atidavė ją besikuriančiam jėzuitų universitetui."
-  temporaliniai_duomenys: "įvykio data: 1569 m.; įvykio data: 1575 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškus ir tiesiogiai atitinka citatos informaciją."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "111168-111759; hash=e69603eaa22b5a0b2e9e3abc3ef93f0db841ec8f1449e16e949ed3041a68e092; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Brasta: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mikalojus Kristupas Radvila-Našlaitėlis (didikas, XVI a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Brasta: mention_match, place, gap=56"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mikalojus Kristupas Radvila-Našlaitėlis (didikas, XVI a.)\" parinktas kaip owner_note_path. Targetas \"Brasta\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-79047
 
@@ -162,17 +91,6 @@ Mikalojus Kristupas Radvila-Našlaitėlis aprašomas kaip Mikalojaus Radvilos Ju
 - t-007
   global_id: t-82574
   teiginys: "Mikalojus Kristupas Radvila-Našlaitėlis, LDK rūmų maršalka, tapo Filipovo namų prie Didžiosios gatvės savininku."
-  semantiniai_rysiai: "Namas priklausė Mikalojus Kristupas Radvila-Našlaitėlis (didikas, XVI a.) (0.70)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "599744-600328; hash=7ab31b7db07a970b8e8e95b718e0db00e235674815651cfece00ccf977eca975; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Mikalojus Kristupas Radvila-Našlaitėlis (didikas, XVI a.): 0.70"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Namas: llm_allowed_candidate, thing"
-  ryšio_targeto_parinkimas: "Mikalojus Kristupas Radvila-Našlaitėlis (didikas, XVI a.): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Tekstas nurodo, kad Mikalojus Kristupas tapo namų savininku; todėl namas priklausė jam."
   pagrindžia:
     - c-79045
 - susijęs iš [[objektai/grupes/Jėzuitų ordinas.md#claim-t-172117|Jėzuitų ordinas]]: Mikalojus Kristupas Radvila-Našlaitėlis 1575 m. perkėlė Brastos spaustuvę į Vilnių ir atidavė ją besikuriančiam jėzuitų universitetui.
@@ -194,8 +112,8 @@ Mikalojus Kristupas Radvila-Našlaitėlis aprašomas kaip Mikalojaus Radvilos Ju
     Vilnių ir atidavė besikuriančiam jėzuitų universitetui. Knygų spausdini-
     mas Lietuvoje virto nenutrūkstamu procesu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -218,8 +136,8 @@ Mikalojus Kristupas Radvila-Našlaitėlis aprašomas kaip Mikalojaus Radvilos Ju
     bet jos, valdant išmintingam ir narsiam Steponui, negalėjo
     jo atvesti į užsibrėžtą tikslą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -247,8 +165,8 @@ Mikalojus Kristupas Radvila-Našlaitėlis aprašomas kaip Mikalojaus Radvilos Ju
     sujungęs su savo namu, turėtų erd­
     vesnį būstą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -269,8 +187,8 @@ Mikalojus Kristupas Radvila-Našlaitėlis aprašomas kaip Mikalojaus Radvilos Ju
     dvila-Našlaitėlis, grįžęs į katalikybę, Brastos spaustuvę 1575 m. perkėlė į
     Vilnių ir atidavė besikuriančiam jėzuitų universitetui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -296,8 +214,8 @@ Mikalojus Kristupas Radvila-Našlaitėlis aprašomas kaip Mikalojaus Radvilos Ju
     kovo 26 dieną su kapitula įsigaliojo
     sutartis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -318,8 +236,8 @@ Mikalojus Kristupas Radvila-Našlaitėlis aprašomas kaip Mikalojaus Radvilos Ju
     niaus vyskupo dvaro link prieglau­
     dos ir Šv.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -478,6 +396,3 @@ Mikalojus Kristupas Radvila-Našlaitėlis aprašomas kaip Mikalojaus Radvilos Ju
   patikimumo_saltinis: ai
   pagrindzia:
     - t-82571
-
-## Ryšiai
-- Turėjo priklausinį: [[objektai/daiktai/Namas]]

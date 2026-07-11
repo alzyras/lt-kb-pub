@@ -30,21 +30,6 @@ Teodoro Narbuto pasakojime Fridleifas augo Rusioje pas Chunigardijos gimines ir,
 - t-001
   global_id: t-191268
   teiginys: "Teodoro Narbuto pasakojime Fridleifas augo Rusioje pas Chunigardijos gimines ir, rusnėnų karaliuko padedamas, susigrąžino Danijos sostą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "429864-430301; hash=abfe420bbde419b9b3dc3cea12040006431ea856c67d7cb34d26da816b488f88; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Chunigardija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Fridleifas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Chunigardija: mention_match, person, gap=28"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Fridleifas\" parinktas kaip owner_note_path. Targetas \"Chunigardija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T15:36:38Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174150
 - susijęs iš [[objektai/ivykiai/Fridleifo Danijos sosto susigrąžinimas.md#claim-t-191061|Fridleifo Danijos sosto susigrąžinimas]]: Narbuto pasakojimu, Frotono III sūnus Fridleifas buvo auklėjamas Rusioje ir, padedamas rusnėnų karaliuko, susigrąžino Danijos sostą.
@@ -71,8 +56,8 @@ Teodoro Narbuto pasakojime Fridleifas augo Rusioje pas Chunigardijos gimines ir,
     niojo Starkatero anūkas, ypatingos jėgos, narsumo ir ka­
     ringumo žmogus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -83,7 +68,8 @@ Teodoro Narbuto pasakojime Fridleifas augo Rusioje pas Chunigardijos gimines ir,
 - id: c-174150
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 243"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 243."
   citata_originali: |
     Visi Šie įvykiai siejami su III amžiumi.
     235
@@ -102,6 +88,3 @@ Teodoro Narbuto pasakojime Fridleifas augo Rusioje pas Chunigardijos gimines ir,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191268
-
-## Ryšiai
-- Fridleifas gyveno [[objektai/vietos/Rusia]]

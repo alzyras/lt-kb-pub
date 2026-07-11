@@ -56,17 +56,6 @@ Nenurodyta
 - t-002
   global_id: t-62823
   teiginys: "Ketvirtosios atskalūnybės sąmokslas buvo susektas statant Ragainės pilį, o kaltinami bartai ir pagudėnai buvo nubausti."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "548505-549374; hash=b0b91afee7725034e0a0fccd4c4e17d790666fd10b524d8cde497a1185cbed76; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Bartai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ketvirtosios atskalūnybės sąmokslas: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Bartai: mention_match, group, gap=85"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ketvirtosios atskalūnybės sąmokslas\" parinktas kaip owner_note_path. Targetas \"Bartai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-167315
 
@@ -74,17 +63,6 @@ Nenurodyta
 - t-002
   global_id: t-62823
   teiginys: "Ketvirtosios atskalūnybės sąmokslas buvo susektas statant Ragainės pilį, o kaltinami bartai ir pagudėnai buvo nubausti."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "548505-549374; hash=b0b91afee7725034e0a0fccd4c4e17d790666fd10b524d8cde497a1185cbed76; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Bartai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ketvirtosios atskalūnybės sąmokslas: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Bartai: mention_match, group, gap=85"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ketvirtosios atskalūnybės sąmokslas\" parinktas kaip owner_note_path. Targetas \"Bartai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-167315
 ## Reikšmingi paminėjimai
@@ -105,8 +83,8 @@ Nenurodyta
     šlykštus sąmokslas buvo susektas tada, kai statė Ragainės pilį523, ir kiekvienas bartas bei
     pagudėnas, kaltinamas dėl šio niekingo sąmokslo, gavo tinkamą atpildą už savo darbus.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -118,7 +96,8 @@ Nenurodyta
 - id: c-167315
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 174"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 174."
   citata_originali: |
     Apie ketvirtąją atskalūnybę ir apie tai, kaip už ją buvo keršijama
 

@@ -32,16 +32,6 @@ media_all_json: |-
 - t-001
   global_id: t-88024
   teiginys: "Hennebergeris nurodytas tarp vėlesnių kronikininkų, perėmusių pasakojimą iš Simono Grunau kronikos."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "186651-186843; hash=09f732b87d72bc754b5a9cdd6afa731ad02a4501deb99995ade81d571c56c406; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Simono Grunau: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Henneberger: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Simono Grunau: mention_match, author, gap=76"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Henneberger\" parinktas kaip owner_note_path. Targetas \"Simono Grunau\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-84003
 ## Reikšmingi paminėjimai
@@ -57,8 +47,8 @@ media_all_json: |-
     buvo perimta vėlesnių kronikininkų,
     būtent, Henneberger, p. 282.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

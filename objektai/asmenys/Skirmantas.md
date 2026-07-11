@@ -31,20 +31,6 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
 - t-001
   global_id: t-186014
   teiginys: "Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Skirmantas valdė miestą Naugardukas (0.92)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "135595-136020; hash=aaad68b367b4999dcb9e67b8699b2f9037fe439512a8a2e671c94cee3cfc6827; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde_miesta -> Naugardukas: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Skirmantas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Naugardukas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Valdžios paveldėjimas Naugarduke tiesiogiai pagrindžia Skirmanto valdymą Naugarduke."
   pagrindžia:
     - c-169375
 
@@ -52,20 +38,6 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
 - t-002
   global_id: t-186015
   teiginys: "Artėjant Skirmantui, Mstislavas buvo priverstas sutraukti savo pulkus iš Bresto apylinkių kaimų į stovyklą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Skirmantas kariavo prieš Rusai (0.76)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "137475-138081; hash=94866a8dcd2ee40192e2703150b1ed556929501b8794c28a6ddf67258f5c0d56; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Rusai: 0.76"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Skirmantas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Rusai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata rodo karinį veiksmą prieš rusus, iš kurių Skirmantas atėmė žemes."
   pagrindžia:
     - c-169376
 
@@ -73,20 +45,6 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
 - t-003
   global_id: t-186016
   teiginys: "Skirmantas iš priešo rankų atėmė Mozyrių, Starodubą, Černigovą, Karačevą ir beveik visą Seversko žemę."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Skirmantas užėmė Karačevas (0.93); Skirmantas užėmė Severskas (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "140304-140658; hash=c6b27c30448a9fcf0ea9dbd2e890bd7a9bb633e11f3f1f04226638fd9ef46ae0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Karačevas: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Skirmantas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Karačevas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Karačevas tiesiogiai įvardytas tarp Skirmanto iš priešo atimtų vietų."
   pagrindžia:
     - c-169377
 
@@ -94,12 +52,6 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
 - t-004
   global_id: t-193981
   teiginys: "Sa vo įpėdiniais paliko du savo sūnus: vieną Skirmantą, o kitą Ginvilą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "82093-82338; hash=7be5b81a63787534a3942f9ccf8d83f45437e62c218e6b1ccbaac186d4124f7a; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176606
 
@@ -107,12 +59,6 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
 - t-005
   global_id: t-193982
   teiginys: "Skirmantas nusiuntė savo pasiuntinius pas 2ivinbudą, Lietuvos didįjį kunigaikštį, prašydamas, kad suteiktų jam pagalbą prieš rusus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "84543-85020; hash=e990ebef844b23df5341267f2cb11173198cb729b90901af35a5e58902bb518f; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176607
 
@@ -120,12 +66,6 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
 - t-006
   global_id: t-193983
   teiginys: "Tuo metu Užvolgio chanu buvo chanas, vardu Balaklajus °, ir jis atsiuntė savo pasiuntinius pas didįjį kunigaikštį Skirmantą, kad duotų jam duoklę ir laiky tų jo baskakus tuose miestuose, kaip kad iš tų miestų buvo duodama duoklė, valdant jo pirmtakams, rusų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "85652-86298; hash=f1d8c9064322c9783cac9d142293468e64469774ab005af515e6c9eba3cfad2a; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176608
 
@@ -133,12 +73,6 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
 - t-007
   global_id: t-193984
   teiginys: "Didysis kunigaikštis Skirmantas, surinkęs visas sa vo kariaunas, pasitiko juos Kaidanove l0 , prie savo sie nos."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "86299-86832; hash=3382a80b1230e4492b72e97684ba169d6bbc6120fd943f167fb71a5359aea48a; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176609
 
@@ -146,12 +80,6 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
 - t-008
   global_id: t-193985
   teiginys: "Turėjo didysis kunigaikštis Skirmantas tris sūnus: vieną Treniotą IS , antrą Liubartą l6 , trečią Pisimantą l7 ."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "86580-86999; hash=14b8e3835688c68913974a911e179b7b4e9f25f689b2954d68429bac20109625; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176610
 
@@ -159,12 +87,6 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
 - t-009
   global_id: t-193986
   teiginys: "O paskui didysis kunigaikštis Skirmantas pasimirė."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "86949-87186; hash=a9ff60aad04631a645d91059da50a8a2ebc31faa3cee314d229206d899debbdc; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176611
 - susijęs iš Kijevo Rusia: Kukovaitis, nurimęs dėl vidaus reikalų, galėjo siųsti didesnę pagalbą Skirmantui į Rusią.
@@ -210,8 +132,8 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
     sis — tėvo Polocke. Sėkmingų lietuvių žygių Rusioje
     nevaliojo pakęsti rusų kunigaikščiai.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -249,8 +171,8 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
     kovaitį ir jo karius apdova­
     nojo puikiomis dovanomis.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -269,8 +191,8 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
     Starodubą, Černigovą, Karačevą ir beveik visą Severs-
     ko žemę.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -286,8 +208,8 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
     o kitą Ginvilą. Ir Skirmantas ėmė kunigaikšėiauti Nau­
     garduke 7 , o Ginvila Polockes.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -311,8 +233,8 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
     kovaičiu ir su visomis pajėgomis į žygį prieš Mstislavą,
     Lucko ir Pinsko kunigaikštį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -336,8 +258,8 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
     noro nusileisti ir tiems jo pasiuntiniams liepė nupjaus­
     tyti nosis, lūpas, ausis ir paleisti pas chaną atgalios.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -362,8 +284,8 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
     Černigovo, Starodubo l3 , Karačevo M  miestus, ir, laimė­
     jęs pergalę, be nuostolių pargrįžo atgalios.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -382,8 +304,8 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
     vieną Treniotą IS , antrą Liubartą l6 , trečią Pisimantą l7 .
     O paskui didysis kunigaikštis Skirmantas pasimirė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -399,8 +321,8 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
     rovą l9 , o Treniota — Naugarduką, ir valdė tuos mies­
     tus daugelį metų !0 .
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -411,7 +333,8 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
 - id: c-169375
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 82"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 82."
   citata_originali: |
     Miestas
     turėjo pasiduoti, priimti vienu metu ir taiką, ir vergo­
@@ -432,7 +355,8 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
 - id: c-169376
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 83"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 83."
   citata_originali: |
     Mstisla­
     vas
@@ -471,7 +395,8 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
 - id: c-169377
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 85"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 85."
   citata_originali: |
     Kova virte virė, galop
     skitai buvo nuvyti, o pats kunigaikštis žuvo. Skirman­
@@ -533,7 +458,8 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
 - id: c-176608
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 47"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 47."
   citata_originali: |
     Parvykęs
     pas savo tėvą, nebeilgai prie jo tegyveno, ir tėvas,
@@ -620,9 +546,6 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
 
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Pisimantas]]
-- Kariavo prieš: [[objektai/asmenys/Mstislavas Romanovičius]]
 - Rėmė Skirmantą: [[objektai/asmenys/Kukovaitis]]
 - Skirmantas valdė [[objektai/vietos/Naugardukas]]
 - Skirmantas užėmė [[objektai/vietos/Karačevas]], [[objektai/vietos/Mozyrius]], [[objektai/vietos/Severskas]], [[objektai/vietos/Starodubas]]
-- Skirmantas kariavo prieš [[objektai/grupes/Rusai]]
-- Skirmantas dalyvavo mūšyje [[objektai/ivykiai/Skirmanto pergalė prie Kaidanovo]]

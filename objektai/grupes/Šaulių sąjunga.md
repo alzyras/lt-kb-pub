@@ -40,20 +40,6 @@ O voldemarininkai, Šaulių sąjunga ir jaunieji tautininkai kaltino valdžią i
 - t-001
   global_id: t-20098
   teiginys: "Vokietijos ir Lenkijos karo metu Šaulių sąjunga kaltino valdžią impotencija ir ragino vyriausybę jėga atsiimti Vilnių."
-  semantiniai_rysiai: "Šaulių sąjunga buvo sąjungininkas su Jaunieji tautininkai (0.86)"
-  temporaliniai_duomenys: "įvykio data: 1939 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sakinys aiškus, faktinis ir tiesiogiai pagrįstas citata."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "369564-370110; hash=6f58a36e10bb64d80db741656db6a78f2820d68458b5ea9a0b1e93cacba19e23; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sajungininkas_su -> Jaunieji tautininkai: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Šaulių sąjunga: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Jaunieji tautininkai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Abi grupės citatoje veikia kartu tame pačiame politiniame raginime."
   pagrindžia:
     - c-22833
 
@@ -61,20 +47,6 @@ O voldemarininkai, Šaulių sąjunga ir jaunieji tautininkai kaltino valdžią i
 - t-002
   global_id: t-183203
   teiginys: "Vokietijos ir Lenkijos karo metu Šaulių sąjunga kaltino valdžią impotencija ir ragino vyriausybę jėga atsiimti Vilnių."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Šaulių sąjunga buvo sąjungininkas su Jaunieji tautininkai (0.86)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "369858-370222; hash=22a99ca604907ce5b95a996511958979f30411348873c89775eb16ebbbddd2d0; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sajungininkas_su -> Jaunieji tautininkai: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Šaulių sąjunga: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Jaunieji tautininkai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Šaulių sąjunga ir jaunieji tautininkai nurodyti kartu kaip vienodai veikę tame pačiame raginime."
   pagrindžia:
     - c-166590
 - susijęs iš [[objektai/grupes/Voldemarininkai.md#claim-t-45271|Voldemarininkai]]: Voldemarininkai kartu su Šaulių sąjunga ir jaunaisiais tautininkais kaltino valdžią impotencija ir ragino vyriausybę jėga atsiimti Vilnių.
@@ -106,8 +78,8 @@ O voldemarininkai, Šaulių sąjunga ir jaunieji tautininkai kaltino valdžią i
     kaltino valdžią impotencija ir Vokietijos ir Lenkijos karo metu ragino vy-
     riausybę jėga atsiimti Vilnių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -123,8 +95,8 @@ O voldemarininkai, Šaulių sąjunga ir jaunieji tautininkai kaltino valdžią i
     riausybę jėga atsiimti Vilnių. Užpuolusi Lenkiją Vokietija spaudė Lietuvą
     žygiuoti į Vilnių, žadėdama paramą aviacija, tankais ir artilerija.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -169,6 +141,3 @@ O voldemarininkai, Šaulių sąjunga ir jaunieji tautininkai kaltino valdžią i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-183203
-
-## Ryšiai
-- Sąjungininkai: [[objektai/grupes/Jaunieji tautininkai]], [[objektai/grupes/Voldemarininkai]]

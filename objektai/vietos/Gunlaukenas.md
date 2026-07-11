@@ -32,17 +32,6 @@ Lietuviai pasižadėjo nebeužpuldinėti pieti­ nės Prūsijos dalies, kurią s
 - t-001
   global_id: t-36252
   teiginys: "Gunlaukeno apskritis buvo priskirta pietinei Prūsijos daliai, kurios lietuviai pasižadėjo nebepuldinėti."
-  semantiniai_rysiai: "Gunlaukenas priklausė Prūsija (0.88)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "52396-53006; hash=d4b0a75c6293282e15e042923f03e5c63b6cfaa9b8678adb965094bb600ee0b0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Prūsija: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gunlaukenas: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai priskiria Gunlaukeno apskritį pietinei Prūsijos daliai."
   pagrindžia:
     - c-38499
 - susijęs iš Drohičinas: Drohičinas buvo viena krikščioniškų Trakų kunigaikštijos žemių, dėl kurių vokiečiai sutiko laikytis taikos.
@@ -69,8 +58,8 @@ Lietuviai pasižadėjo nebeužpuldinėti pieti­ nės Prūsijos dalies, kurią s
     tis taikos kaipo priedangos, kad su pagoniškomis Lietuvos sri­
     timis galį taikos ir nesilaikyti^1 ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -102,6 +91,3 @@ Lietuviai pasižadėjo nebeužpuldinėti pieti­ nės Prūsijos dalies, kurią s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-36252
-
-## Ryšiai
-- Gunlaukenas priklausė [[objektai/vietos/Prūsija]]

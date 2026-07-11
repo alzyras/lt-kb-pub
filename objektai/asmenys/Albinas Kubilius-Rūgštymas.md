@@ -40,21 +40,6 @@ preparatus „Neptun-20“, buvo suimti Algimanto apygardos štabo pareigūnas A
 - t-001
   global_id: t-39996
   teiginys: "1949 m. spalio 24 d. MGB agentui V. Kučiui panaudojus spec. preparatus, buvo suimtas Albinas Kubilius-Rūgštymas."
-  temporaliniai_duomenys: "įvykio data: 1949 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko tikslesnę suėmimo aplinkybę."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1004364-1004897; hash=585c1e14374182c0f30951b47646c9073ebecfbd4c528177339fab1c3d859870; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vaistinės prekės, vaistai ir gydomieji gėrimai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Albinas Kubilius-Rūgštymas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Vaistinės prekės, vaistai ir gydomieji gėrimai: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Albinas Kubilius-Rūgštymas\" parinktas kaip owner_note_path. Targetas \"Vaistinės prekės, vaistai ir gydomieji gėrimai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-44261
 - susijęs iš [[objektai/ivykiai/Šimonių girios apgultis (1949 m.).md#claim-t-67011|Šimonių girios apgultis (1949 m.)]]: 1949 m. spalio 28 d. Albinas Kubilius-Rūgštymas ir Alfonsas Vildžiūnas-Vijoklis atvedė čekistus prie Šiaurės Rytų partizanų srities štabo bunkerio Anykščių valsčiuje.
@@ -85,8 +70,8 @@ preparatus „Neptun-20“, buvo suimti Algimanto apygardos štabo pareigūnas A
     buvo pristatytas prie pagrindinio įėjimo,
     o Vijoklis — prie atsarginio.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -121,6 +106,3 @@ preparatus „Neptun-20“, buvo suimti Algimanto apygardos štabo pareigūnas A
   patikimumo_saltinis: ai
   pagrindzia:
     - t-39996
-
-## Ryšiai
-- Albinas Kubilius-Rūgštymas keliavo į [[objektai/vietos/Butkiškio vienkiemis]]

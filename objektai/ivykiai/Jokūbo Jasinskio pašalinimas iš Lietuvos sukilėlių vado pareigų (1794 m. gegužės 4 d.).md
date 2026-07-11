@@ -57,20 +57,6 @@ Nenurodyta
 - t-001
   global_id: t-41273
   teiginys: "1794 m. gegužės 4 d. Tadas Kosciuška pašalino Jokūbą Jasinskį iš Lietuvos sukilėlių vado pareigų."
-  semantiniai_rysiai: "Tadas Kosciuška paskyrė Mykolas Velhorskis (0.64)"
-  temporaliniai_duomenys: "įvykio data: 1794 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatoje nurodytą faktą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "611850-612670; hash=2630b8bb5ee5ae8249ae4487c43a84ff7a7ca0b46424b9f1096423c12c926a8f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "paskyre -> Mykolas Velhorskis: 0.64"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Tadas Kosciuška: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Mykolas Velhorskis: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Po Jasinskio pašalinimo nurodoma, kad jį pakeitė Mykolas Velhorskis; paskyrėjas kontekste yra Kosciuška."
   pagrindžia:
     - c-43048
 ## Reikšmingi paminėjimai
@@ -103,8 +89,8 @@ Nenurodyta
 
     tas Mykolas Velhorskis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

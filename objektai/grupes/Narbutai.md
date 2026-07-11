@@ -49,20 +49,6 @@ Lietuvių bajorų giminė, minima Teodoro Narbuto biografiniame kontekste.
 - t-002
   global_id: t-188013
   teiginys: "Narbutai įvadiniame straipsnyje vadinami sena lietuvių bajorų gimine, dokumentuose minima nuo Horodlės unijos laikų."
-  teiginio_tipas: "faktas"
-  temporaliniai_duomenys: "įvykio data: 1784 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys jau yra pilnas lietuviškas sakinys apie Narbutų giminę ir atitinka citatos informaciją. Papildomos atribucijos nereikia, nes tai nėra legendinis ar vertinamasis teiginys."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "5184-5442; hash=3d1ea8b7988c25ed9cd8b57c9e4f37bbcf2fd04171f69239070d2cef2915d21a; match=exact"
-  sprendimo_priezastis: "gap::groups"
-  ryšio_patikimumas: "susije_su -> Horodlė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Narbutai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Horodlė: mention_match, place, gap=94"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Narbutai\" parinktas kaip owner_note_path. Targetas \"Horodlė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-170860
 - susijęs iš [[objektai/asmenys/Boleslovas Narbutas.md#claim-t-188040|Boleslovas Narbutas]]: 1863 m. sukilimo metu Boleslovas, vienas iš Teodoro Narbuto sūnų, išėjo į miškus.
@@ -82,8 +68,8 @@ Lietuvių bajorų giminė, minima Teodoro Narbuto biografiniame kontekste.
     butai -  sena lietuvių bajorų giminė, istoriniuose dokumentuose
     minima nuo Horodlės unijos laikų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -94,7 +80,8 @@ Lietuvių bajorų giminė, minima Teodoro Narbuto biografiniame kontekste.
 - id: c-170860
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 5"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 5."
   citata_originali: |
     Vi­
     suomenės akyse jis tapo LTI autoriumi.
@@ -109,6 +96,3 @@ Lietuvių bajorų giminė, minima Teodoro Narbuto biografiniame kontekste.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188013
-
-## Ryšiai
-- Narbutai priklausė [[objektai/vietos/Šaurų dvaras]]

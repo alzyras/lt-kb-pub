@@ -45,14 +45,6 @@ Nenurodyta
 - t-001
   global_id: t-189919
   teiginys: "Narbutas rašė, kad senovės lietuviams kapai buvo šventi, o protėvių ar ypatingomis dorybėmis pasižymėjusių asmenų kapams buvo meldžiamasi."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "655957-656326; hash=58b57aa45a5d49f426a3cb5a3efab88ea6abd773c2d1129969676fe24fc790b2; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172802
 ## Reikšmingi paminėjimai
@@ -73,8 +65,8 @@ Nenurodyta
     kapams savo protėvių arba asmenų, atmintinų dėl ypatingų
     dorybių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -85,7 +77,8 @@ Nenurodyta
 - id: c-172802
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 370"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 370."
   citata_originali: |
     Ten pat jie sunaikino ir svečių dievuko, vadinto Ce-
     rokliu, garbinimą; jam atiduodavo pirmąjį maisto kąsnį ir pir­

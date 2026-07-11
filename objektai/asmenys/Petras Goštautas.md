@@ -70,17 +70,6 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
 - t-001
   global_id: t-54987
   teiginys: "Petras Goštautas, valdovo vietininkas Lietuvoje, globojo pranciškonus Vilniuje ir saugojo juos nuo negandų."
-  semantiniai_rysiai: "Petras Goštautas gynė Pranciškonų ordinas (0.86); Pranciškonų ordinas gyveno Vilnius (0.64)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "81730-82271; hash=a2913a6cb9e847ec3f9947b4144f86e74406b9cba4cf24937e71c4dfd23b2cd5; match=exact"
-  sprendimo_priezastis: "gap::people"
-  ryšio_patikimumas: "gyne -> Pranciškonų ordinas: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Petras Goštautas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Pranciškonų ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Goštauto globa tiesiogiai saugojo pranciškonus nuo negandų."
   pagrindžia:
     - c-157538
 
@@ -88,16 +77,6 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
 - t-002
   global_id: t-54988
   teiginys: "Petras Goštautas vedė Bučiacką iš Podolės ir priėmė Romos katalikų tikėjimą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "81730-82271; hash=a2913a6cb9e847ec3f9947b4144f86e74406b9cba4cf24937e71c4dfd23b2cd5; match=exact"
-  sprendimo_priezastis: "gap::people"
-  ryšio_patikimumas: "susije_su -> Podolė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Petras Goštautas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Podolė: mention_match, place, gap=34"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Petras Goštautas\" parinktas kaip owner_note_path. Targetas \"Podolė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-157538
 
@@ -105,20 +84,6 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
 - t-003
   global_id: t-54989
   teiginys: "Apie 1345 m. prieš pranciškonų žudynes Petras Goštautas dėl šalies reikalų išvyko iš Vilniaus į Tikociną."
-  semantiniai_rysiai: "Petras Goštautas keliavo į Tikocinas (0.90)"
-  temporaliniai_duomenys: "įvykio data: 1345 m.; įvykio data: apie 1345 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
-  temporalinis_llm_pakomentavimas: "Pirminis teiginys buvo gramatiškai negrabiai suformuluotas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "82700-83750; hash=6cc6fc61e72c7458a5503689b6af96b09369b5ea88f4362bba511b5747c9310c; match=whitespace_regex"
-  sprendimo_priezastis: "gap::people"
-  ryšio_patikimumas: "keliavo_i -> Tikocinas: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Petras Goštautas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Tikocinas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo Goštauto kelionę į Tikociną."
   pagrindžia:
     - c-157537
 
@@ -126,19 +91,6 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
 - t-004
   global_id: t-54990
   teiginys: "Pagal Waddyngo pasakojimą Petras Goštautas 1333 m. atkvietė į Vilnių keturiolika pranciškonų ir apgyvendino juos prie Šv. Kryžiaus bažnyčios."
-  semantiniai_rysiai: "Petras Goštautas keliavo į Vilnius (0.74); Petras Goštautas gynė Pranciškonų ordinas (0.62)"
-  temporaliniai_duomenys: "įvykio data: 1333 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "83476-84007; hash=97c440c8ed9ceb4859ec10f01a7549b082422ba8336fa03675ae75bc8ab1692c; match=whitespace_regex"
-  sprendimo_priezastis: "gap::people"
-  ryšio_patikimumas: "keliavo_i -> Vilnius: 0.74"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Petras Goštautas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Goštautas atkvietė pranciškonus į Vilnių; tai palaiko jo veiksmą nukreiptą į Vilnių."
   pagrindžia:
     - c-157534
 
@@ -146,18 +98,6 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
 - t-006
   global_id: t-54991
   teiginys: "Grzybowski teigė, kad Petras Goštautas Krokuvoje tapo pranciškonu, Vilniuje įkūrė vienuolyną ir 1341 m. buvo nukankintas."
-  temporaliniai_duomenys: "įkūrimo data: 1341 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "84887-85481; hash=4cfcd4f7d0ef06a9971b12d1708d6ce6405693abb8b057ed68e59e9d5b6ec592; match=whitespace_regex"
-  sprendimo_priezastis: "gap::people"
-  ryšio_patikimumas: "susije_su -> Krokuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Petras Goštautas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Krokuva: mention_match, place, gap=17"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Petras Goštautas\" parinktas kaip owner_note_path. Targetas \"Krokuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-55534
 
@@ -165,17 +105,6 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
 - t-007
   global_id: t-54992
   teiginys: "Po pranciškonų žudynių Goštautas palaidojo nukankintuosius, vėl atkvietė vienuolius iš Lenkijos ir pastatydino Mergelės Marijos bažnyčią bei vienuolyną Smėlynėje."
-  semantiniai_rysiai: "Petras Goštautas keliavo į Lenkija (0.54)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "85665-86513; hash=ef4057c7e279120acda7ff58b772660851baf048d730e25b707689a9d3e54286; match=whitespace_regex"
-  sprendimo_priezastis: "gap::people"
-  ryšio_patikimumas: "keliavo_i -> Lenkija: 0.54"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Petras Goštautas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Goštauto veiksmas susijęs su vienuolių atkvietimu iš Lenkijos; tikslus santykis nėra idealus, bet vietos ryšys tiesiogiai minimas."
   pagrindžia:
     - c-55535
 
@@ -183,16 +112,6 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
 - t-009
   global_id: t-54993
   teiginys: "Petras Goštautas tradicijoje vadintas kunigaikščio Algirdo laikų didiku ir Vilniaus vaivada."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "87311-88298; hash=0b3dc59b1c421fdae273ef9b390ee7daa44a86363c4d933328b6f31fde577469; match=whitespace_regex"
-  sprendimo_priezastis: "gap::people"
-  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Petras Goštautas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person, gap=51"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Petras Goštautas\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-157540
 
@@ -200,16 +119,6 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
 - t-016
   global_id: t-173205
   teiginys: "Petras Goštautas pagonišką dievaičių buveinę pavertė bažnyčia ir pašventė ją Šv. Petro vardui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "87311-88298; hash=0b3dc59b1c421fdae273ef9b390ee7daa44a86363c4d933328b6f31fde577469; match=whitespace_regex"
-  sprendimo_priezastis: "gap::people"
-  ryšio_patikimumas: "susije_su -> Goštautas (vyskupas, XV a.): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Petras Goštautas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Goštautas (vyskupas, XV a.): mention_match, person, gap=7"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Petras Goštautas\" parinktas kaip owner_note_path. Targetas \"Goštautas (vyskupas, XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-157540
 
@@ -217,17 +126,6 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
 - t-010
   global_id: t-173207
   teiginys: "Petras Goštautas, valdovo vietininkas Lietuvoje, globojo pranciškonus ir saugojo juos nuo pavojų Vilniuje."
-  semantiniai_rysiai: "Petras Goštautas gynė Pranciškonų ordinas (0.86); Pranciškonų ordinas gyveno Vilnius (0.62)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "81730-82271; hash=a2913a6cb9e847ec3f9947b4144f86e74406b9cba4cf24937e71c4dfd23b2cd5; match=exact"
-  sprendimo_priezastis: "gap::people"
-  ryšio_patikimumas: "gyne -> Pranciškonų ordinas: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Petras Goštautas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Pranciškonų ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Goštautas tiesiogiai saugojo pranciškonus nuo pavojų."
   pagrindžia:
     - c-157538
 
@@ -235,20 +133,6 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
 - t-011
   global_id: t-173208
   teiginys: "Apie 1345 m. Petras Goštautas dėl šalies reikalų išvyko iš Vilniaus į Tikociną Palenkėje."
-  semantiniai_rysiai: "Petras Goštautas keliavo į Tikocinas (0.91); Petras Goštautas keliavo į Palenkė (0.89)"
-  temporaliniai_duomenys: "įvykio data: 1345 m.; įvykio data: apie 1345 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
-  temporalinis_llm_pakomentavimas: "Citata palaiko konkretų Goštauto išvykimo faktą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "82700-83750; hash=6cc6fc61e72c7458a5503689b6af96b09369b5ea88f4362bba511b5747c9310c; match=whitespace_regex"
-  sprendimo_priezastis: "gap::people"
-  ryšio_patikimumas: "keliavo_i -> Tikocinas: 0.91"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Petras Goštautas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Tikocinas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo kelionės tikslą Tikociną."
   pagrindžia:
     - c-157537
 
@@ -256,17 +140,6 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
 - t-014
   global_id: t-173209
   teiginys: "Pasak Grzybowskio, Petras Goštautas Krokuvoje tapo pranciškonu, apsigyveno Vilniuje ir vertė miestiečius į krikščionybę."
-  semantiniai_rysiai: "Petras Goštautas gyveno Krokuva (0.68)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "84887-85481; hash=4cfcd4f7d0ef06a9971b12d1708d6ce6405693abb8b057ed68e59e9d5b6ec592; match=whitespace_regex"
-  sprendimo_priezastis: "gap::people"
-  ryšio_patikimumas: "gyveno -> Krokuva: 0.68"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Petras Goštautas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Krokuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Krokuva nurodyta kaip vieta, kur Goštautas tapo pranciškonu."
   pagrindžia:
     - c-55534
 
@@ -274,20 +147,6 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
 - t-012
   global_id: t-173210
   teiginys: "Waddyngas ir Antoni Melissanius de Macro pasakoja, kad 1333 m. Petras Goštautas į Vilnių atkvietė keturiolika pranciškonų vienuolių."
-  semantiniai_rysiai: "Petras Goštautas keliavo į Vilnius (0.72)"
-  temporaliniai_duomenys: "įvykio data: 1333 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Šaltinio autorystės priskyrimas čia reikalingas, o teiginys tiksliai perteikia citatos turinį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "83476-84007; hash=97c440c8ed9ceb4859ec10f01a7549b082422ba8336fa03675ae75bc8ab1692c; match=whitespace_regex"
-  sprendimo_priezastis: "gap::people"
-  ryšio_patikimumas: "keliavo_i -> Vilnius: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Petras Goštautas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Goštauto veiksmas nukreiptas į pranciškonų atkvietimą į Vilnių."
   pagrindžia:
     - c-157534
 
@@ -295,17 +154,6 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
 - t-015
   global_id: t-173211
   teiginys: "Petras Goštautas palaidojo nukankintus vienuolius, pakvietė naujų pranciškonų iš Lenkijos ir Smėlynėje pastatydino bažnyčią bei vienuolyną."
-  semantiniai_rysiai: "Petras Goštautas keliavo į Lenkija (0.52)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "85665-86513; hash=ef4057c7e279120acda7ff58b772660851baf048d730e25b707689a9d3e54286; match=whitespace_regex"
-  sprendimo_priezastis: "gap::people"
-  ryšio_patikimumas: "keliavo_i -> Lenkija: 0.52"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Petras Goštautas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Goštautas kvietė vienuolius iš Lenkijos; tikslus leistinas ryšys yra neidealus, todėl pasitikėjimas vidutinis."
   pagrindžia:
     - c-55535
 
@@ -313,20 +161,6 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
 - t-017
   global_id: t-184820
   teiginys: "Pergalingoje kovoje Surminas neteko savo brolio Goštauto ir kitų narsių karių."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Petras Goštautas buvo brolis Surminas (0.96)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "328297-328874; hash=b16a1e4425b28bc962ca787de27b686f50b56b687bb12af1ab6e54830f2298dd; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_brolis -> Surminas: 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Petras Goštautas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Surminas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Goštautas buvo Surmino brolis."
   pagrindžia:
     - c-168181
 
@@ -334,19 +168,6 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
 - t-018
   global_id: t-184821
   teiginys: "Petras Goštautas įsakė surasti nužudytų vienuolių kūnus ir palaidoti juos aikštėje, kur jie skelbė Kristaus žodį."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "392526-393360; hash=f488a465a915f6d29016d8f503ded1afbbe7c3a7cc575c59d9cf3db683159f5f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Goštautas (vyskupas, XV a.): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Petras Goštautas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Goštautas (vyskupas, XV a.): mention_match, person, gap=7"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Petras Goštautas\" parinktas kaip owner_note_path. Targetas \"Goštautas (vyskupas, XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-168182
 
@@ -354,20 +175,6 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
 - t-019
   global_id: t-184822
   teiginys: "Algirdui paskelbus Podolę savo valda, Petras Goštautas buvo paskirtas jos seniūnu."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Algirdas (Lietuvos valdovas) paskyrė Petras Goštautas (0.95); Algirdas (Lietuvos valdovas) užėmė Podolė (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "399030-399644; hash=c848b3c384e1582bffbd48e2a166259d19d8c566b183d3174faf3d242cc6d894; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "paskyre -> Petras Goštautas: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Petras Goštautas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Algirdas paskyrė Goštautą seniūnu."
   pagrindžia:
     - c-168183
 
@@ -375,20 +182,6 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
 - t-020
   global_id: t-184823
   teiginys: "Veliuonos įgulos vadas Goštautas pasidavė priešams, bet žuvo nuo nugalėtojų rankų jiems susiginčijus dėl belaisvio."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Petras Goštautas mirė Veliuona (0.73)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "430538-431165; hash=cce17bedb28df800dc24774399019c3653d25706e9d4bf478e54c63b441cd912; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "mire -> Veliuona: 0.73"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Petras Goštautas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Veliuona: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Žūtis įvyko Veliuonos užkariavimo epizode, nors pati frazė vietos atskirai nekartoja."
   pagrindžia:
     - c-168184
 
@@ -396,12 +189,6 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
 - t-021
   global_id: t-193971
   teiginys: "Kai krikštijosi, pereidamas į lenkų tikėjimą, davė jam Petro vardą 3 ."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "128152-128642; hash=31d8feaabba00c72052467472110b7a92e026507883a958810bf3b67fbfcd822; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176596
 
@@ -409,12 +196,6 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
 - t-022
   global_id: t-193972
   teiginys: "Tasai Petras Goš tautas pirmas priėmė Romos tikėjimą ir parnešė jį j Lietuvą l0 ."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "128302-128750; hash=0f55a02d995f2c3f96bc7718aca7e4243e41ea6c8c0ca45122b548f57afd9045; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176597
 - susijęs iš [[objektai/autoriai/Antoni Melissanius de Macro.md#claim-t-88053|Antoni Melissanius de Macro]]: Antoni Melissanius de Macro pasakojo, kad 1333 m. Petras Goštautas į Vilnių atkvietė keturiolika pranciškonų.
@@ -464,8 +245,8 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
     lius ir su jais sykiu Goštautą nukan­
     kino.
   citata_rodoma: ''
-  teiginio_tipas: vertinimas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -494,8 +275,8 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
     įvykius iš tamsos į ryškią šviesą iš­
     kelti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -524,8 +305,8 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
     žiaus bažnyčios, sodyboje, vėliau ta­
     pusioje Vyskupo rūmais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -564,8 +345,8 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
     vada, iš Rusios ir Podolės atkvietęs
     į Vilnių keturiolika Šv.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -588,8 +369,8 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
     18
     Wremiennik Sofijski, p. 334.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: vertinimas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -631,8 +412,8 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
     valdžioje buvusios, driekėsi nuo Brastos iki Možaisko į ry­
     tus ir nuo Baltijos krantų iki Juodosios jūros į pietus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -659,8 +440,8 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
     sijos maršalas, pakartotiniais antpuoliais nuniokojo Me­
     dininkų valsčių.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -691,8 +472,8 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
     tas, įsakė ištardyti bruzdėji­
     mo vadovus.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -715,8 +496,8 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
     o Nestaną, valdžiusį Teodoro vardu Podolę, paėmė Ka-
     menece į nelaisvę ir išsiuntė į Vilnių.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -739,8 +520,8 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
     nors pats pasidavęs priešams, žuvo nuo nugalėtojų
     rankų, kai šie susiginčijo dėl belaisvio.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -762,8 +543,8 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
     rūmus pasistatė Smėlynėje7 , priešais Vingrius8 , kur
     dabar dievo motinos vienuolynas9 .
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -788,8 +569,8 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
 
     23.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1029,7 +810,8 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
 - id: c-168182
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 225"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 225."
   citata_originali: |
     Vienas būrelis iš sep­
     tynių vienuolių buvo prievarta išvilktas iš namų į aikš­
@@ -1061,7 +843,8 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
 - id: c-168183
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 229"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 229."
   citata_originali: |
     Karą prieš maištininką pradėjo pats Algir­
     das. Kadangi Teodoras buvo išvykęs (įkurdinęs pily­
@@ -1085,7 +868,8 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
 - id: c-168184
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 246"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 246."
   citata_originali: |
     Iš pradžių Ragainės komtūras išsklaidė dar­
     bininkus, kurie stengėsi, tegu ir bet kaip, tegu ir grei­
@@ -1158,9 +942,4 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
 ## Ryšiai
 - Broliai: [[objektai/asmenys/Surminas]]
 - Paskyrė Petras Goštautą: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- Petras Goštautas keliavo į [[objektai/vietos/Lenkija]], [[objektai/vietos/Palenkė]], [[objektai/vietos/Tikocinas]], [[objektai/vietos/Vilnius]]
-- Petras Goštautas mirė [[objektai/vietos/Veliuona]]
-- Petras Goštautas pastatė [[objektai/vietos/Vilnius]]
-- Petras Goštautas gynė [[objektai/grupes/Pranciškonų ordinas]]
-- Petras Goštautas siuntė į [[objektai/vietos/Vilnius]]
-- Petras Goštautas gyveno [[objektai/vietos/Krokuva]]
+- Petras Goštautas keliavo į [[objektai/vietos/Tikocinas]]

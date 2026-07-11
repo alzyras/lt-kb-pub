@@ -56,16 +56,6 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
 - t-011
   global_id: t-00084
   teiginys: "Z. Ivinskis parašė veikalo dalį apie laikotarpį iki Gediminaičių dinastijos galo."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "hash=0f481fda55ca7e260d931d931ef01bd66aba2df4af2c5ab2cd897020175452b6; match=not_found; occurrences=0"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> P. Klimas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Zenonas Ivinskis: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "P. Klimas: mention_match, author, gap=9"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Zenonas Ivinskis\" parinktas kaip owner_note_path. Targetas \"P. Klimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-00108
 
@@ -73,18 +63,6 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
 - t-002
   global_id: t-05577
   teiginys: "Zenonas Ivinskis savo vardu ir pavarde pasirašė veikalo pratarmę Bonoje 1970 m. spalio 15 d."
-  temporaliniai_duomenys: "įvykio data: 1492-1494; įvykio data: 1970 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "107561-107925; hash=d344dcdf459c1e9bc583a5f6001bfa5f3806d1ba55658e842b0ed96067c1dc56; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Zenonas Ivinskis: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Zenonas Ivinskis\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-163253
 
@@ -92,16 +70,6 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
 - t-004
   global_id: t-05579
   teiginys: "Ivinskis, Z. (Bražėnas) nurodomas kaip tekstų „Lietuvių tautos istorijos periodizacijos metmens“ ir „Lietuvos ir kitų baltų praeitis sovietų aiškinime“ autorius."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "173625-174003; hash=6f16570743145da6121525d481bafbec28c3825ac01c8f5153b542de795e4a2d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Baltai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Zenonas Ivinskis: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Baltai: mention_match, group, gap=118"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Zenonas Ivinskis\" parinktas kaip owner_note_path. Targetas \"Baltai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-163248
     - c-163250
@@ -110,18 +78,6 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
 - t-005
   global_id: t-05580
   teiginys: "Z. Ivinskis siejamas su vokišku straipsniu „Die baltische Frage im 17. Jahrhundert“."
-  temporaliniai_duomenys: "įvykio data: 1492-1494"
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "107561-107925; hash=d344dcdf459c1e9bc583a5f6001bfa5f3806d1ba55658e842b0ed96067c1dc56; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Zenonas Ivinskis: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Zenonas Ivinskis\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-163253
 
@@ -129,17 +85,6 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
 - t-006
   global_id: t-05581
   teiginys: "Zenonas Ivinskis Gedimino laiškus laikė glaudaus rygiečių ir Gedimino politinio veikimo produktu."
-  semantiniai_rysiai: "Rygiečiai buvo sąjungininkas su Gediminas (0.68)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "632186-632659; hash=9f49043194ce01b9689e5d268268f96b0436cd0acb0e02306af5190ebff8b2d6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sajungininkas_su -> Gediminas: 0.68"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Rygiečiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Gediminas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Formuluotė apie glaudų politinį veikimą leidžia atsargiai fiksuoti politinę sąveiką tarp rygiečių ir Gedimino."
   pagrindžia:
     - c-163247
 
@@ -147,9 +92,6 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
 - t-009
   global_id: t-12267
   teiginys: "Įžangoje nurodoma, kad jaunieji istorikai į pasitarimą dėl knygos buvo susirinkę Z. Ivinskio pakviesti."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "2256-2513; hash=2fd6a1548d388ef6aa3bc9fe1a646a2302448cbca2ff099f3690588b86cecb27; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-163251
 
@@ -157,17 +99,6 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
 - t-011
   global_id: t-179567
   teiginys: "Z. Ivinskis 4000 lietuvių pajėgas Kurše aiškino kaip jungtines žemaičių ir karaliaus Mindaugo pajėgas prieš Ordiną."
-  semantiniai_rysiai: "Lietuviai puolė Kuršas (0.87); Lietuviai kariavo prieš Kryžiuočių ordinas (0.82); Mindaugas (valdovas, XIII a.) kariavo prieš Kryžiuočių ordinas (0.82)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "88194-88546; hash=28b7397b08a1d2cc9bc07b3799702bdd8deffbb51deb0c4bf94fc8db22f0ca93; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Kuršas: 0.87"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Kuršas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad lietuvių pajėgos niokojo Kuršo žemę."
   pagrindžia:
     - c-163252
 - susijęs iš [[objektai/autoriai/Ivinskis Z.md#claim-t-91932|Ivinskis Z]]: Z. Ivinskio darbas apie Saulės-Šiaulių kautynes cituojamas aiškinant 1236 m. rugsėjo 22 d. mūšį, kuriame lietuviai sutriuškino kalavijuočius.
@@ -235,8 +166,8 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
     kus, o p. P. Klimas — apie nepriklausomosios valstybės atsta-
     tymą ir nepriklausomojo gyvenimo laikotarpį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -255,8 +186,8 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
     rygiečių ir Gedimino politinio veikimo produktu (J. Jakštas, Z.
     Ivinskis).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -271,8 +202,8 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
     lonskio atminimui (1892-1960). Jo įnašas Lietuvos istorijos mokslui,_** **Aidai,
     1961, 1 nr., 18-22 p.;** **_K. Jablonskis_** **, MLTE, I, 659-660 p.**
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -291,8 +222,8 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
     Į Laisvę, 1957, m. 12, 13-19 p. (žr. plačiau Europos Lietuvis, 1957,
     nr. 14-16, 24-33).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -307,8 +238,8 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
     istorikai, suprasdami tą didelį trūkumą ir tautos savigarbą, Z.
     Ivinskio pakviesti susirinkome pasitarti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -328,8 +259,8 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
     dovo karaliaus Mindaugo karines pajėgas,
     nukreiptas prieš Ordiną.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -345,8 +276,8 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
     (^19) **Z. Ivinskis:** **_Die baltische Frage im 17_****. Jahrhundert, leidiny:** **_Der
     Ostseeraum im Blickfeld der deutschen Geschichte,_** **Köln-Wien 1970, 119-140 p.**
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

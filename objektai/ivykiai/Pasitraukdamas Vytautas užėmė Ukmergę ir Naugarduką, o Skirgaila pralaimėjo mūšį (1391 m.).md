@@ -48,19 +48,6 @@ Nenurodyta
 - t-001
   global_id: t-185631
   teiginys: "Išgirdęs apie artėjantį Skirgailą, Vytautas nutraukė apsupimą, pasitraukė Prūsijos link ir jėga užėmė Naugarduką bei Ukmergę."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "560461-561075; hash=cfe5cdc34df9fd3fb8b6358252005b4b156a73c755ad9f6135c99917cc4c1b7d; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Naugardukas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Pasitraukdamas Vytautas užėmė Ukmergę ir Naugarduką, o Skirgaila pralaimėjo mūšį (1391 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Naugardukas: mention_match, place, gap=78"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pasitraukdamas Vytautas užėmė Ukmergę ir Naugarduką, o Skirgaila pralaimėjo mūšį (1391 m.)\" parinktas kaip owner_note_path. Targetas \"Naugardukas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-168992
 
@@ -68,19 +55,6 @@ Nenurodyta
 - t-002
   global_id: t-185632
   teiginys: "Skirgaila pasivijo Vytautą, bet jo nedidelė ir menkai ginkluota kariuomenė po trumpų kautynių buvo sumušta."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "561076-561795; hash=78c1a32e8a6c17feb4899fe903af85e33975c818b0165ed13be258366fbb7ea5; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Skirgaila: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Pasitraukdamas Vytautas užėmė Ukmergę ir Naugarduką, o Skirgaila pralaimėjo mūšį (1391 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Skirgaila: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pasitraukdamas Vytautas užėmė Ukmergę ir Naugarduką, o Skirgaila pralaimėjo mūšį (1391 m.)\" parinktas kaip owner_note_path. Targetas \"Skirgaila\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-168993
 ## Reikšmingi paminėjimai
@@ -114,8 +88,8 @@ Nenurodyta
     N a u g a rd u k ą
     bei šiaip pastatus.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -144,8 +118,8 @@ Nenurodyta
     kautynių lauke: narsia mirtimi būtų užbaigęs nelaimin­
     gą valdymą ir Lietuvos bėdas.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -192,7 +166,8 @@ Nenurodyta
 - id: c-168993
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 322"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 322."
   citata_originali: |
     Jį pasivi­
     jo netoli buvęs Skirgaila, ta­

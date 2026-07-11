@@ -41,16 +41,6 @@ media_all_json: |-
 - t-002
   global_id: t-86529
   teiginys: "Akademijos rektorius Juraha nuėmė viderkafto mokestį nuo Švarco namu vadinto mūro ir priskyrė jį kahale investuotoms sumoms."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "399169-399788; hash=270588d63337abc2f4a4dea80cf417f7fca1999dbbb017d2a6a5f8b03693b134; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Juraha: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "kahalas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Juraha: mention_match, person, gap=76"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"kahalas\" parinktas kaip owner_note_path. Targetas \"Juraha\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-82508
 
@@ -58,19 +48,6 @@ media_all_json: |-
 - t-001
   global_id: t-86530
   teiginys: "Vilniaus kahalas iki 1763 m. nuo 5500 auksinų sumos Valerijono konvikto gyventojams mokėjo 8 procentus."
-  temporaliniai_duomenys: "įvykio data: iki 1763 m.; įvykio data: 1763 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatoje pateiktą sumą, laiką ir procentus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "397247-397874; hash=7cdc7ef5baccf0383209616aad23466fd9885ed767161e5ed4bd1f01a5e7d9e7; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Valerijonas (raštininkas): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "kahalas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Valerijonas (raštininkas): mention_match, person, gap=43"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"kahalas\" parinktas kaip owner_note_path. Targetas \"Valerijonas (raštininkas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-82509
 - susijęs iš [[objektai/asmenys/Pilypas Frizijus.md#claim-t-87562|Pilypas Frizijus]]: 1631 m. kunigas Pilypas Frizijus prie Vilniaus kapitulos 4000 auksinų pridėjo 1500 savų ir 5500 auksinų perdavė Vilniaus kahalo žydams.
@@ -108,8 +85,8 @@ media_all_json: |-
     nuo kurių nuošimtis įpareigotų pamaldų dėlei iki šiol kaha-
     lo yra atiduodamas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -136,8 +113,8 @@ media_all_json: |-
     O nuo 1763 metų, Komisijos sprendimu, moka tik 3 nuo­
     šimčius, kas metinių pajamų tesudaro 165 auksinus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

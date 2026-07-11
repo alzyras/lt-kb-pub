@@ -30,20 +30,6 @@ Stanislovas Pacas patraukė persekioti maskvėnų, niokojusių kunigaikščių O
 - t-001
   global_id: t-186081
   teiginys: "Stanislovas Pacas patraukė persekioti maskvėnų, niokojusių kunigaikščių Ostrogiškių valdas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Stanislovas Pacas puolė Maskva (0.78)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1329454-1329965; hash=cb7225da43c5a67dafbeaa1f9f03da6a053afde9d4cb93bdf4ba7550775b2c63; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Maskva: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Stanislovas Pacas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Maskva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Pacas vėliau sumušė Maskvos kunigaikščio pulką, todėl palaikomas puolimo prieš Maskvos politinę-karinę pusę ryšys."
   pagrindžia:
     - c-169442
 - susijęs iš [[objektai/ivykiai/Karo su Maskva atsinaujinimas Ostrogiškių valdų nusiaubimas, Sitnos užėmimas ir reprezentacinio pulko sumušimas.md#claim-t-185585|Karo su Maskva atsinaujinimas Ostrogiškių valdų nusiaubimas, Sitnos užėmimas ir reprezentacinio pulko sumušimas]]: Gardine vykstant taikos deryboms, iš Seversko žemės įsiveržusi kariuomenė nusiaubė kunigaikščių Ostrogiškių valdas.
@@ -67,8 +53,8 @@ Stanislovas Pacas patraukė persekioti maskvėnų, niokojusių kunigaikščių O
     tarnavo beveik vieni rūmų
     bajorai.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -79,7 +65,8 @@ Stanislovas Pacas patraukė persekioti maskvėnų, niokojusių kunigaikščių O
 - id: c-169442
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 736"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 736."
   citata_originali: |
     Tuo metu, kai Gardine pasiuntiniai derėjosi dėl
     taikos, iš Seversko žemės įsiveržusi kariuomenė nusiau­
@@ -99,6 +86,3 @@ Stanislovas Pacas patraukė persekioti maskvėnų, niokojusių kunigaikščių O
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186081
-
-## Ryšiai
-- Stanislovas Pacas puolė [[objektai/vietos/Maskva]]

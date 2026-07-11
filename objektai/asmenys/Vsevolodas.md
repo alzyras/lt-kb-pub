@@ -38,25 +38,6 @@ media_all_json: |-
 - t-001
   global_id: t-191485
   teiginys: "1055 m. poloviečių vadas Balušas po nesėkmingų kautynių sudarė paliaubas su kunigaikščiu Vsevolodu."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Balušas sudarė sutartį su Vsevolodas (0.88); Balušas kariavo prieš Rusai (0.76)"
-  temporaliniai_duomenys: "mūšio data: 1055 m.; sutarties data: 1055 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Balušas kariavo prieš Rusai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Balušas sudarė sutartį su Vsevolodas“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo Vsevolodą, Balušą, datą ir paliaubų aplinkybes. Papildoma informacija apie vėlesnį Sekalo puolimą sąmoningai nepridėta."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "189583-190088; hash=6e0c5f762ab53c305ee852ec6d98a35e461e2934cf8080223a54e1587410c3c1; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "sudare_sutarti_su -> Vsevolodas: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Balušas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vsevolodas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai sako, kad Balušas sudarė paliaubas su Vsevolodu."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174367
 ## Reikšmingi paminėjimai
@@ -78,8 +59,8 @@ media_all_json: |-
     kraštus, nugalėjo Vsevolodą ir išsigabeno didžiulį gro­
     bį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -90,7 +71,8 @@ media_all_json: |-
 - id: c-174367
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 106"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 106."
   citata_originali: |
     Neabejotinai slaviš­
     ką pavadinimą, atitinkantį minėtų genčių padėtį, ne iš­
@@ -110,6 +92,3 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191485
-
-## Ryšiai
-- Sudarė sutartį su: [[objektai/asmenys/Balušas]]

@@ -50,11 +50,6 @@ Nenurodyta
 - t-001
   global_id: t-66730
   teiginys: "Draugija kartu su Lietuvos inteligentais suorganizavo skyrių, kuriame rodė lietuviškus raštus ir lietuvių priespaudą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "1293272-1293666; hash=602806b2586c6f801dd6bcfe47bcd14f8df5227b655978839d8ca6a2c38b6f73; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-66894
 ## Reikšmingi paminėjimai
@@ -71,8 +66,8 @@ Nenurodyta
     lietuvių spaudos uždraudimą ir lietuvių kovą dėl savo spaudos
     teisės.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

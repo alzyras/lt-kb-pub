@@ -30,21 +30,6 @@ Pasak Teodoro Narbuto, Jordanas teigė, kad į vakarus keliavę alanai iš Panon
 - t-001
   global_id: t-191784
   teiginys: "Pasak Teodoro Narbuto, Jordanas teigė, kad į vakarus keliavę alanai iš Panonijos su vandalais bėgo nuo gotų, kuriuos vijo hunai."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "109820-110435; hash=68c4b87f349d5e508b20a047a2268dab4bba1a383fb27abbb2b8eeafaaec1e1c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Hunai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jordano „De rebus Gothorum“: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Hunai: mention_match, group, gap=99"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jordano „De rebus Gothorum“\" parinktas kaip owner_note_path. Targetas \"Hunai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174666
 ## Reikšmingi paminėjimai
@@ -67,8 +52,8 @@ Pasak Teodoro Narbuto, Jordanas teigė, kad į vakarus keliavę alanai iš Panon
     vakarus, j Vandaliją; kai kurie, kaip teigia Arnianas
     Marcelinas2, apsigyveno Vyslos ir Nemuno tarpupyje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -79,7 +64,8 @@ Pasak Teodoro Narbuto, Jordanas teigė, kad į vakarus keliavę alanai iš Panon
 - id: c-174666
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 63"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 63."
   citata_originali: |
     Kažkokia alanų da­
     lis persikėlė į Europos pietvakarius: vieni iš jų įsikūrė

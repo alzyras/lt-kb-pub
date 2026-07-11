@@ -45,14 +45,6 @@ Nenurodyta
 - t-001
   global_id: t-194798
   teiginys: "Tą lazdą, vadinamą krivūle, vaitas siunčia artimiausiam kaimy nui, tas tučtuojau siunčia tolyn, kol paskutinis iš eilės atneša atgal vaitui; kiekvienas, gavęs tokį ženklą, yra įpareigotas ne delsiant atvykti į valsčiaus susirinkimo vietą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "776534-777350; hash=e486f49b95a3b07990392a7105212a335b80f0b2a3dc9bf11762c210c23cb6fd; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-177194
 ## Reikšmingi paminėjimai
@@ -80,8 +72,8 @@ Nenurodyta
     atgal vaitui; kiekvienas, gavęs tokį ženklą, yra įpareigotas ne­
     delsiant atvykti į valsčiaus susirinkimo vietą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

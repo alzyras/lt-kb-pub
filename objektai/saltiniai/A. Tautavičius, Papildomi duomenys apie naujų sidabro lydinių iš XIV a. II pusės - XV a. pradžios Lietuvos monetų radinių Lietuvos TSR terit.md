@@ -45,18 +45,6 @@ Tautavičius, A.
 - t-001
   global_id: t-31608
   teiginys: "A. Tautavičiaus straipsnis apie XIV a. II pusės–XV a. pradžios sidabro lydinius paskelbtas 1965 m. AkMD 18 tome, p. 67–84."
-  temporaliniai_duomenys: "įvykio data: 1955-1960; įvykio data: 1960 m.; įvykio data: 1965 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1029407-1030204; hash=3e0f219cbf82d2f7c60b75eaa3c77134c796f9ab1f0a75ec024d462e636cff81; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "A. Tautavičius, Papildomi duomenys apie naujų sidabro lydinių iš XIV a. II pusės - XV a. pradžios Lietuvos monetų radinių Lietuvos TSR terit: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"A. Tautavičius, Papildomi duomenys apie naujų sidabro lydinių iš XIV a. II pusės - XV a. pradžios Lietuvos monetų radinių Lietuvos TSR terit\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-33520
 ## Reikšmingi paminėjimai
@@ -77,8 +65,8 @@ Tautavičius, A.
     nynuose,_ AkMD, t. 24, 1967, 61-74 p. -— (”) _Rumšiškėnai XIV-XVI
     amžiais_ , Vilnius 1970.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

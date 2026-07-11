@@ -30,21 +30,6 @@ Narbutas Sasavą vadino garsiausia Salavijos tvirtove ir rašė, kad ji stovėjo
 - t-001
   global_id: t-192852
   teiginys: "Narbutas Sasavą vadino garsiausia Salavijos tvirtove ir rašė, kad ji stovėjo prie tiksliai nenustatytos upės."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "670060-670485; hash=ac412d6ff1fbff397294c855f109bb45b3e18281fe56c5d59da0f95e5285bb26; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Salavija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Sasava (Salavijos tvirtovė): owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Salavija: mention_match, place, gap=25"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sasava (Salavijos tvirtovė)\" parinktas kaip owner_note_path. Targetas \"Salavija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175622
 - susijęs iš [[objektai/asmenys/Motiejus Pretorijus.md#claim-t-191217|Motiejus Pretorijus]]: Pretorijus Sasavos tvirtovę siejo su Šyšos upe, kuri, Narbuto perteikimu, kadaise turėjo būti vadinama Cyse arba Sussa.
@@ -72,8 +57,8 @@ Narbutas Sasavą vadino garsiausia Salavijos tvirtove ir rašė, kad ji stovėjo
 
     dos turėjo būti vadinama Cyse arba Sussa.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -105,4 +90,4 @@ Narbutas Sasavą vadino garsiausia Salavijos tvirtove ir rašė, kad ji stovėjo
     - t-192852
 
 ## Ryšiai
-- Sasava (Salavijos tvirtovė) priklausė [[objektai/vietos/Kulmas]], [[objektai/vietos/Nadruva]]
+- Sasava (Salavijos tvirtovė) priklausė [[objektai/vietos/Kulmas]]

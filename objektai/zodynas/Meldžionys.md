@@ -39,16 +39,6 @@ Vartojamos formos: `meldžionis`.
 - t-003
   global_id: t-07679
   teiginys: "Meldžionys Daukanto aiškinime atėjo iš Teutonijos į Žemaičius, Parusius ir Žemgalius krikštydami kardu."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "229151-229668; hash=a106a976946c717087598131fc47afc98baafe6bfce9ca11cb8b517fbe52d43f; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  ryšio_patikimumas: "susije_su -> Kardas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "meldžionys: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Kardas: mention_match, thing, gap=97"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"meldžionys\" parinktas kaip owner_note_path. Targetas \"Kardas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-09610
 
@@ -56,16 +46,6 @@ Vartojamos formos: `meldžionis`.
 - t-004
   global_id: t-07680
   teiginys: "Meldžionis aiškinamas kaip žodis, kilęs nuo veiksmažodžio melsti."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "229151-229668; hash=a106a976946c717087598131fc47afc98baafe6bfce9ca11cb8b517fbe52d43f; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  ryšio_patikimumas: "susije_su -> Kardas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "meldžionys: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Kardas: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"meldžionys\" parinktas kaip owner_note_path. Targetas \"Kardas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-09610
 ## Reikšmingi paminėjimai
@@ -80,8 +60,8 @@ Vartojamos formos: `meldžionis`.
         numirėlius laidojo, už šventus turėjo, tardami, jog mirusiųjų nereikią kušinti, kaip jei pavargusiųjų
         keleivių miegančių budinti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

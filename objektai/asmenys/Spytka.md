@@ -30,12 +30,6 @@ Tuo metu Jogailos kariuomenėje didžiuoju etmonu buvo ponas Sokolas Čekas \ o 
 - t-001
   global_id: t-194104
   teiginys: "Tuo metu Jogailos kariuomenėje didžiuoju etmonu buvo ponas Sokolas Čekas \ o kiemo etmonu 5 — ponas Spytka Spytkovičius 6 ."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "184669-185074; hash=d3acdcc1d9a41459045810039b1c4ee46ea7a17a08bfb02a9395b4a572ae1521; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176717
 ## Reikšmingi paminėjimai
@@ -53,8 +47,8 @@ Tuo metu Jogailos kariuomenėje didžiuoju etmonu buvo ponas Sokolas Čekas \ o 
     2adivydas7 , Jogailos ir Vytauto brolis8 , o kiemo et­
     monu — ponas Jonas Goštautas9 .
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

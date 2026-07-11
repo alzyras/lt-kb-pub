@@ -42,19 +42,6 @@ media_all_json: |-
 - t-001
   global_id: t-86617
   teiginys: "1522 m. Vilniaus vyskupas Jonas prie katedros įkūrė penktąją scholastiko prelatūrą, nes scholastikas turėjo išlaikyti Katedros mokyklą."
-  temporaliniai_duomenys: "įkūrimo data: 1522 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko aiškų teiginį apie scholastiko prelatūrą ir pareigą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "543142-543663; hash=207e95ca347a7caa05c95aa74dedfe2005eab05e9f26f0b8de5880176f13301b; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jokūbas Babičius: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "scholastiko prelatūra scholastikas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Jokūbas Babičius: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"scholastiko prelatūra scholastikas\" parinktas kaip owner_note_path. Targetas \"Jokūbas Babičius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-82596
 ## Reikšmingi paminėjimai
@@ -80,8 +67,8 @@ media_all_json: |-
     kyklos išlaikymas26. 1525 metais Vilniuje jau veikė spaustu­
     vė, kurioje Jokūbas Babičius spausdino slaviškas knygas27.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -61,16 +61,6 @@ Nenurodyta
 - t-001
   global_id: t-19604
   teiginys: "LDK kancleris saugojo valstybės antspaudus ir prižiūrėjo, kad kanceliarijos raštai neprieštarautų valstybės įstatymams."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "106777-107260; hash=e5a4a6e490272ecc5fdaae79d30dac1f9778a7a27dbcb2ea8882d644dc87f2f0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Antspaudai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Valstybės antspaudai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Antspaudai: mention_match, thing, gap=10"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Valstybės antspaudai\" parinktas kaip owner_note_path. Targetas \"Antspaudai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-22307
 
@@ -78,22 +68,6 @@ Nenurodyta
 - t-002
   global_id: t-183302
   teiginys: "LDK kancleris saugojo valstybės antspaudus ir prižiūrėjo, kad kanceliarijos raštai neprieštarautų valstybės įstatymams."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1569 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradiniame teiginyje vartojamas neaiškus įvardinis junginys, o citata leidžia įvardyti pareigūną."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "106925-107351; hash=3f31ae1a32341d3e0541aac10bde7e6755e9a228c8ef7b0faf59692048269bba; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Antspaudai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Valstybės antspaudai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Antspaudai: mention_match, thing, gap=10"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Valstybės antspaudai\" parinktas kaip owner_note_path. Targetas \"Antspaudai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-166692
 ## Reikšmingi paminėjimai
@@ -110,8 +84,8 @@ Nenurodyta
     prižiūrėjo, kad didžiojo kunigaikščio kanceliarijoje nebūtų parengtas joks
     raštas, prieštaraująs valstybės įstatymams.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -128,8 +102,8 @@ Nenurodyta
     raštas, prieštaraująs valstybės įstatymams. Atskira LDK raštinė, prižiūri-
     ma Lietuvos kanclerio, išliko ir po Liublino unijos 1569 m.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

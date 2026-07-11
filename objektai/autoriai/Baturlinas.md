@@ -30,22 +30,6 @@ Generolas Baturlinas, aprašydamas Darijaus žygį prieš Skitiją, pateikė nau
 - t-001
   global_id: t-191579
   teiginys: "Generolas Baturlinas, aprašydamas Darijaus žygį prieš Skitiją, pateikė naujesnius Herodoto geografijos paaiškinimus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Budinai gyveno Bogončavas (0.76); Budinai gyveno Voluika (0.76); Gelonai gyveno Donas (0.74); Budinai gyveno Donecas (0.74)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "128975-129724; hash=75b59d75136e43ed4d037b519f4a550b5a2d50c3622c1a8b4b204d2bfaa4ddfb; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Bogončavas: 0.76"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Budinai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Bogončavas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata sako, kad budinai buvo užėmę Bogončavo apylinkes."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174461
 ## Reikšmingi paminėjimai
@@ -69,8 +53,8 @@ Generolas Baturlinas, aprašydamas Darijaus žygį prieš Skitiją, pateikė nau
     tisagetai buvo įsikūrę šiandienėse Oriolo, Tūlos, Riaza-
     nės, Tambovo ir Penzos gubernijose.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -81,7 +65,8 @@ Generolas Baturlinas, aprašydamas Darijaus žygį prieš Skitiją, pateikė nau
 - id: c-174461
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 73"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 73."
   citata_originali: |
     Vis dėlto Herodotas turėjo daugiau žinių apie
     romėnus*, nes teigia, kad dienovidžio kryptimi į šiaurę

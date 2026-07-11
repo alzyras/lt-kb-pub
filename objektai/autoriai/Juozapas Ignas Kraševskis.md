@@ -41,21 +41,6 @@ Juozapas Ignotas Kraševskis parašė antrąją didelę T. Narbuto „Lietuvių 
 - t-001
   global_id: t-191675
   teiginys: "Juozapas Ignotas Kraševskis parašė antrąją didelę T. Narbuto „Lietuvių mitologijos“ recenziją, išspausdintą „Tygodnik Petersburski“."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "805009-805365; hash=437b37937f90bdba840f42b896305780c910451fb755209e773a82798381f430; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kraševskis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Juozapas Ignas Kraševskis: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Kraševskis: mention_match, author, gap=17"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Juozapas Ignas Kraševskis\" parinktas kaip owner_note_path. Targetas \"Kraševskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174557
 
@@ -63,12 +48,6 @@ Juozapas Ignotas Kraševskis parašė antrąją didelę T. Narbuto „Lietuvių 
 - t-002
   global_id: t-194199
   teiginys: "Balins kis, Juozapas Ignas Kraševskis panaudojo gausią archyvinę me džiagą, kronikas ir metraščius, tačiau, būdamas prozininkas rašė puikiu stiliumi."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "15871-16263; hash=a3e6108b1d0fbddca6a7ec43a28cd2f77d5e1878a497d5065031f1055e1a8f92; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176802
 ## Reikšmingi paminėjimai
@@ -85,8 +64,8 @@ Juozapas Ignotas Kraševskis parašė antrąją didelę T. Narbuto „Lietuvių 
     ski“. Pirmoji buvo anonimiška, o antroji priklausė Juo­
     zapo Ignoto Kraševskio plunksnai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -104,8 +83,8 @@ Juozapas Ignotas Kraševskis parašė antrąją didelę T. Narbuto „Lietuvių 
     puikiu stiliumi. Veikale chronologiškai Vilniaus miesto raida
     nušviesta iki 1750 metų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -116,7 +95,8 @@ Juozapas Ignotas Kraševskis parašė antrąją didelę T. Narbuto „Lietuvių 
 - id: c-174557
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 446"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 446."
   citata_originali: |
     Oficialūs atgarsiai į T. Narbuto „Lie­
     tuvių mitologiją“ pasirodė netrukus, t. y. tais pačiais

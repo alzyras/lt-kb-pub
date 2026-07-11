@@ -44,19 +44,6 @@ Tačiau galutinai dėl unijos buvo susitarta kiek vėliau Florencijoje.
 - t-003
   global_id: t-83346
   teiginys: "1434 m. spalio 20 d. popiežius Eugenijus IV iš Florencijos parašė Žygimantui Kęstutaičiui laišką dėl Sofijos."
-  temporaliniai_duomenys: "įvykio data: 1434 m.; įvykio data: 1452 m.; įvykio data: 1453 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys performuluotas į aiškų sakinį apie iš Florencijos rašytą laišką."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "360902-361281; hash=76d248521320272c8884efa9802aecb02cf1c293b74fa4c880215a1cb891cb7c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Eugenijus IV: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Florencija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Eugenijus IV: mention_match, person, gap=16"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Florencija\" parinktas kaip owner_note_path. Targetas \"Eugenijus IV\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-79693
 
@@ -64,19 +51,6 @@ Tačiau galutinai dėl unijos buvo susitarta kiek vėliau Florencijoje.
 - t-002
   global_id: t-83347
   teiginys: "Popiežius Eugenijus IV 1434 m. spalio 20 d. iš Florencijos rašytame laiške užtarė Sofiją Žygimantui Kęstutaičiui."
-  temporaliniai_duomenys: "įvykio data: 1434 m.; įvykio data: 1452 m.; įvykio data: 1453 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "360902-361281; hash=76d248521320272c8884efa9802aecb02cf1c293b74fa4c880215a1cb891cb7c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Eugenijus IV: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Florencija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Eugenijus IV: mention_match, person, gap=37"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Florencija\" parinktas kaip owner_note_path. Targetas \"Eugenijus IV\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-79693
 
@@ -84,18 +58,6 @@ Tačiau galutinai dėl unijos buvo susitarta kiek vėliau Florencijoje.
 - t-003
   global_id: t-83348
   teiginys: "Florencijoje galutinai susitarta dėl Bažnyčių unijos, kuri 1452 m. buvo paskelbta Konstantinopolyje."
-  temporaliniai_duomenys: "įvykio data: 1452 m.; įvykio data: 1453 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "360902-361281; hash=76d248521320272c8884efa9802aecb02cf1c293b74fa4c880215a1cb891cb7c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Konstantinopolis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Florencija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Konstantinopolis: mention_match, place, gap=82"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Florencija\" parinktas kaip owner_note_path. Targetas \"Konstantinopolis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-79695
 
@@ -103,22 +65,6 @@ Tačiau galutinai dėl unijos buvo susitarta kiek vėliau Florencijoje.
 - t-004
   global_id: t-192660
   teiginys: "Prie Florencijos mūrų atėjusi 200 000 karių kariuomenės dalis beveik visiškai pralaimėjo Stilichono vadovaujamiems romėnams."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Romėnai gynė Florencija (0.71)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "554452-554983; hash=97dc77dd2dd7b79fc60d941cf86958d326ecff1854c47f0aa85220eb363799b2; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyne -> Florencija: 0.71"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Romėnai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Florencija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Kariuomenė atėjo prie Florencijos mūrų ir pralaimėjo romėnams, todėl romėnų veiksmas susietas su Florencijos gynyba."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175430
 - susijęs iš [[objektai/asmenys/Juozapas (Konstantinopolio patriarchas).md#claim-t-186221|Juozapas (Konstantinopolio patriarchas)]]: Konstantinopolio patriarchas Juozapas dalyvavo Florencijos suvažiavime, kuriame tartasi dėl Rytų ir Romos bažnyčių tikėjimo santarvės.
@@ -178,8 +124,8 @@ Tačiau galutinai dėl unijos buvo susitarta kiek vėliau Florencijoje.
     kusi tokios didžios galybės, alinama jo įpėdinių niekšybių
     ir barbariškumo, nuo to laiko pradėjo smukti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -197,8 +143,8 @@ Tačiau galutinai dėl unijos buvo susitarta kiek vėliau Florencijoje.
     metų (1453 m.) Konstantinopolį užėmė turkai, imperija žlugo, o
     su ja žlugo ir unija.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -220,8 +166,8 @@ Tačiau galutinai dėl unijos buvo susitarta kiek vėliau Florencijoje.
     dalis liko vietoje, laukdama progos, kuri atvertų kelią į
     Italiją.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -291,7 +237,8 @@ Tačiau galutinai dėl unijos buvo susitarta kiek vėliau Florencijoje.
 - id: c-175430
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 309"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 309."
   citata_originali: |
     Vėliau, kai im­
     perijos rytuose po Alariko maišto prasidėjo kruvini su­
@@ -310,6 +257,3 @@ Tačiau galutinai dėl unijos buvo susitarta kiek vėliau Florencijoje.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192660
-
-## Ryšiai
-- Gynė Florenciją: [[objektai/grupes/Romėnai]]

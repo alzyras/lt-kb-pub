@@ -34,17 +34,6 @@ Dusburgietis teigia, kad kitais metais456 sūduviai, nadruviai ir skalviai, atit
 - t-001
   global_id: t-58536
   teiginys: "Sūduviai, nadruviai ir skalviai su didele kariuomene apsiautė ir smarkiai užpuolė Bysleidos pilį netoli Bartenšteino."
-  semantiniai_rysiai: "Nadruviai apgulė Bysleida (0.94); Skalviai apgulė Bysleida (0.94); Nadruviai puolė Bysleida (0.94); Skalviai puolė Bysleida (0.94)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "473390-473884; hash=f1b86bf0d628d9eb975782533133629cd8b4aec3d7f0b443329c082103cc7109; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "apgule -> Bysleida: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Skalviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Bysleida: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Skalviai yra tiesiogiai įvardyti tarp Bysleidos pilį apsiautusiųjų."
   pagrindžia:
     - c-59169
 
@@ -52,18 +41,6 @@ Dusburgietis teigia, kad kitais metais456 sūduviai, nadruviai ir skalviai, atit
 - t-002
   global_id: t-58537
   teiginys: "Bartoszyce) prie Bysleidos upelio."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "475288-475666; hash=5f49345e1089319945a24a60c22e63fb8aaa5dd475e2fb22d1460f662194c299; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Bartenšteinas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Bysleida: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Bartenšteinas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bysleida\" parinktas kaip owner_note_path. Targetas \"Bartenšteinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
-  vertinimo_autorius: "claim_quality_pipeline / rewrite"
   pagrindžia:
     - c-59168
 
@@ -71,21 +48,6 @@ Dusburgietis teigia, kad kitais metais456 sūduviai, nadruviai ir skalviai, atit
 - t-003
   global_id: t-188677
   teiginys: "Narbutas Romovės miestą vaizduoja kaip buvusį Prūsijoje, Prūsos ir Bysleidos upių santakoje."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "834736-835116; hash=9e88df0fddafe08e984bf16d505be0551738b1fdcd961b048200a9c093313faa; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aukuras: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Bysleida: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Aukuras: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bysleida\" parinktas kaip owner_note_path. Targetas \"Aukuras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171566
 - susijęs iš [[objektai/asmenys/Pasdrauputis.md#claim-t-60405|Pasdrauputis]]: Pasdrauputis buvo Namedos, kilusios iš Mantiminų giminės, sūnus.
@@ -125,8 +87,8 @@ Dusburgietis teigia, kad kitais metais456 sūduviai, nadruviai ir skalviai, atit
     Тоерреn М., HCGP, p. 19; Ewald A. L., Die Eroberung.., 4, p. 112; HE, p. 13, 187; CV, t.
     32, d. 1, p. 203; GAO, p. 21; MGP, p. 49).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -143,8 +105,8 @@ Dusburgietis teigia, kad kitais metais456 sūduviai, nadruviai ir skalviai, atit
     gyvybės, nei savo genties”. Šių žodžių paskatinti jos sūnūs bei kiti pilėnai pakilo į mūšį
     ir nukovė daugiau nei du tūkstančius priešo karių.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -166,8 +128,8 @@ Dusburgietis teigia, kad kitais metais456 sūduviai, nadruviai ir skalviai, atit
     liuojantis ąžuolas, prie kurio nišose stovi dievų stabai, o prieš juos -
     aukų deginimo aukuras su nuolat degančia ugnimi.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -178,7 +140,8 @@ Dusburgietis teigia, kad kitais metais456 sūduviai, nadruviai ir skalviai, atit
 - id: c-59168
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 149"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 149."
   citata_originali: |
     457 D.— castrum Beseledam, Jer.— Beseledâ; vėliau Beisleiden, dab. Bezledai
     (Bezledy) — gyvenvietė per 10 km į šiaurės vakarus nuo Bartenšteino (dab. Bartoszyce)
@@ -195,7 +158,8 @@ Dusburgietis teigia, kad kitais metais456 sūduviai, nadruviai ir skalviai, atit
 - id: c-59169
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 149"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 149."
   citata_originali: |
     Kitais metais456 sūduviai, nadruviai ir skalviai, atitraukę su didele kariuomene, apsiautė
     Bysleidos  pilį457, buvusią netoli Bartenšteino, miške, vardu Kartenė,  ir ją smarkiai

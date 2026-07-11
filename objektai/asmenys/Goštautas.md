@@ -43,17 +43,6 @@ Nuo Gedimino laikų pranciško­ nai ir domininkonai turėjo dvi bažnyčias Vil
 - t-006
   global_id: t-113785
   teiginys: "Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta žygiavusių prieš Švitrigailą prie Ašmenos."
-  semantiniai_rysiai: "Goštautas (vyskupas, XV a.) keliavo į Ašmena (0.72)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "436404-437940; hash=3aa0ec0c924649780a0a8a2fc26c76528679c9a750698704c0c43deee41afb17; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Švitrigaila: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Žygimantas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Žygimanto vadovaujamos pajėgos įsiveržė į Švitrigailos dvarą."
   pagrindžia:
     - c-104972
 
@@ -61,17 +50,6 @@ Nuo Gedimino laikų pranciško­ nai ir domininkonai turėjo dvi bažnyčias Vil
 - t-005
   global_id: t-113786
   teiginys: "Jogaila išlaisvino Voluinėje į nelaisvę paimtą lietuvių didiką Goštautą ir pasiuntė jį Švitrigailai į Vilnių."
-  semantiniai_rysiai: "Jogaila (kunigaikštis, XIV–XV a.) siuntė į Vilnius (0.88); Goštautas (vyskupas, XV a.) keliavo į Vilnius (0.78)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "436040-436838; hash=ed03c54424616e62c772e425ee975985ac2970f3bdbf147dd016595f8e74070b; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "siunte_i -> Vilnius: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Jogaila išlaisvintą Goštautą atsiuntė Švitrigailai į Vilnių."
   pagrindžia:
     - c-104969
 
@@ -79,17 +57,6 @@ Nuo Gedimino laikų pranciško­ nai ir domininkonai turėjo dvi bažnyčias Vil
 - t-001
   global_id: t-113787
   teiginys: "Algirdo valdymo metu didikas Goštautas Vilniuje apgyvendino 12 pranciškonų ir įkūrė jiems vienuolyną."
-  semantiniai_rysiai: "Goštautas (vyskupas, XV a.) rėmė Pranciškonų ordinas (0.82); Goštautas (vyskupas, XV a.) pastatė Vilnius (0.68)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "249379-249858; hash=756d9fd91713d38bef7442bfd68407f809efcc3de0be4dd796ed284239a5aad3; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "reme -> Pranciškonų ordinas: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Goštautas (vyskupas, XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Pranciškonų ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Goštautas apgyvendino pranciškonus Vilniuje ir įkūrė jiems vienuolyną."
   pagrindžia:
     - c-104970
 
@@ -97,16 +64,6 @@ Nuo Gedimino laikų pranciško­ nai ir domininkonai turėjo dvi bažnyčias Vil
 - t-002
   global_id: t-113788
   teiginys: "Goštautas kai kurių autorių laikytas Podolės vaivada, pranciškonų vienuolynų Vilniuje steigėju ir pirmuoju Vilniaus vyskupu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "401111-401764; hash=6b5cd1ee4c13d192b27d5cb4f2f47ed969e1c3e98d43a2ac0dadd3f2de9b6807; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Podolė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Goštautas (vyskupas, XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Podolė: mention_match, place, gap=37"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Goštautas (vyskupas, XV a.)\" parinktas kaip owner_note_path. Targetas \"Podolė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-104973
 
@@ -114,17 +71,6 @@ Nuo Gedimino laikų pranciško­ nai ir domininkonai turėjo dvi bažnyčias Vil
 - t-003
   global_id: t-113789
   teiginys: "Jogaila išlaisvino Voluinėje į nelaisvę paimtus lietuvių didikus Rumbautą ir Goštautą ir atsiuntė juos Švitrigailai į Vilnių."
-  semantiniai_rysiai: "Jogaila (kunigaikštis, XIV–XV a.) siuntė į Vilnius (0.88); Goštautas (vyskupas, XV a.) keliavo į Vilnius (0.78); Rumbautas keliavo į Vilnius (0.78)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "436040-436838; hash=ed03c54424616e62c772e425ee975985ac2970f3bdbf147dd016595f8e74070b; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "siunte_i -> Vilnius: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Jogaila išlaisvintus didikus atsiuntė Švitrigailai į Vilnių."
   pagrindžia:
     - c-104969
 
@@ -132,19 +78,6 @@ Nuo Gedimino laikų pranciško­ nai ir domininkonai turėjo dvi bažnyčias Vil
 - t-007
   global_id: t-184707
   teiginys: "Goštautas buvo vienas iš didikų, kuriuos Vytautas pasikvietė palydovais vykdamas pas imperatorių."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "655087-655643; hash=c93c31e97a2337c22b5bd628369a13439b476128106a343faf8c0fbf3e0827c0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Goštautas (vyskupas, XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): mention_match, person, gap=41"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Goštautas (vyskupas, XV a.)\" parinktas kaip owner_note_path. Targetas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-168068
 
@@ -152,20 +85,6 @@ Nuo Gedimino laikų pranciško­ nai ir domininkonai turėjo dvi bažnyčias Vil
 - t-008
   global_id: t-184708
   teiginys: "Vilniaus vaivada Goštautas buvo vienas iš Vytauto pasiuntinių į Korčino seimą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) siuntė į Korčinas (0.94); Goštautas (vyskupas, XV a.) keliavo į Korčinas (0.86)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "734185-734597; hash=3900cd2cc66b7cf5a72b549713666bceed1e1798d8ea22a4db3eb36e0dc9723e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "siunte_i -> Korčinas: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Korčinas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Vytautas tiesiogiai nusiuntė pasiuntinius į Korčino seimą."
   pagrindžia:
     - c-168069
 
@@ -173,20 +92,6 @@ Nuo Gedimino laikų pranciško­ nai ir domininkonai turėjo dvi bažnyčias Vil
 - t-009
   global_id: t-184709
   teiginys: "Algirdas, sumušęs nepaklususį Teodorą Karijotaitį, pavertė Podolę savo valda ir paskyrė Goštautą vietininku."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Algirdas (Lietuvos valdovas) paskyrė Goštautas (vyskupas, XV a.) (0.96); Algirdas (Lietuvos valdovas) valdė teritoriją Podolė (0.92); Podolė priklausė Lietuva (0.86); Goštautas (vyskupas, XV a.) valdė teritoriją Podolė (0.78)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "858887-859638; hash=235e154eb2a21b24ecad5409e4450e4d22ab04ae1ad4594d8a7891a793bcfc30; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "paskyre -> Goštautas (vyskupas, XV a.): 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Goštautas (vyskupas, XV a.): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Algirdas tiesiogiai paskyrė Goštautą vietininku."
   pagrindžia:
     - c-168070
 - susijęs iš [[objektai/asmenys/H. Goštautas.md#claim-t-39734|H. Goštautas]]: Karininkas H. Goštautas vadovavo husarų eskadrono būriui.
@@ -298,8 +203,8 @@ Nuo Gedimino laikų pranciško­ nai ir domininkonai turėjo dvi bažnyčias Vil
     laiškas, rašytas iš Vilniaus didžiajam
     magistrui 1432 metų sausio 5 dieną.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -318,8 +223,8 @@ Nuo Gedimino laikų pranciško­ nai ir domininkonai turėjo dvi bažnyčias Vil
     apgyvendino Vilniuje dar 12 pranciškonų ir įkūrė jiems vie­
     nuolyną. Tuo pačiu laiku pranciškonai įsikūrė ir Lydoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -374,8 +279,8 @@ Nuo Gedimino laikų pranciško­ nai ir domininkonai turėjo dvi bažnyčias Vil
     jo jau nerado, nes šis, ką tik įspėtas Trakų vaivados Manvy-
     do, lydimas kelių totorių vadų, išsigelbėjo pabėgdamas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -402,8 +307,8 @@ Nuo Gedimino laikų pranciško­ nai ir domininkonai turėjo dvi bažnyčias Vil
     būtų tikra, taigi tą, tikriausiai Gžibovskio prasimanytą,
     Goštauto tariamą vienuolystę ir vyskupystę, atmeta.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -428,8 +333,8 @@ Nuo Gedimino laikų pranciško­ nai ir domininkonai turėjo dvi bažnyčias Vil
     jų reikalui, kuo greičiausiai, niekam nieko nesakyda­
     mas, ten išvyks ir Jogaila patvirtinti naujo susitarimo.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -451,8 +356,8 @@ Nuo Gedimino laikų pranciško­ nai ir domininkonai turėjo dvi bažnyčias Vil
     Luomų susirinkime jie trumpai, bet aiškiai išdėstė val­
     dovo reikalavimus.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -479,8 +384,8 @@ Nuo Gedimino laikų pranciško­ nai ir domininkonai turėjo dvi bažnyčias Vil
     dvarai, todėl, pasitenkinęs Boleslovo turėtomis valdo­
     mis, nelietęs krašto, pavaldaus Lietuvai.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -653,7 +558,8 @@ Nuo Gedimino laikų pranciško­ nai ir domininkonai turėjo dvi bažnyčias Vil
 - id: c-168069
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 418"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 418."
   citata_originali: |
     Po to prasidėjo ilgos tarpusavio rietenos, kurias
     nuolat kurstė ir Vytautas, ir
@@ -676,7 +582,8 @@ Nuo Gedimino laikų pranciško­ nai ir domininkonai turėjo dvi bažnyčias Vil
 - id: c-168070
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 488"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 488."
   citata_originali: |
     Mirus Konstantinui Karijotaičiui, Podolės kuni­
     gaikščiui, į jo vietą Algirdas paskyręs Teodorą, jo brolį.
@@ -702,10 +609,5 @@ Nuo Gedimino laikų pranciško­ nai ir domininkonai turėjo dvi bažnyčias Vil
     - t-184709
 
 ## Ryšiai
-- Paskyrė Goštautą (vyskupas, XV a.): [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/grupes/Ponų taryba|Ponų taryba (institucija)]]
-- Goštautas (vyskupas, XV a.) valdė [[objektai/vietos/Podolė]]
-- Goštautas (vyskupas, XV a.) keliavo į [[objektai/vietos/Alšėnai]], [[objektai/vietos/Ašmena]], [[objektai/vietos/Korčinas]], [[objektai/vietos/Tikocinas]], [[objektai/vietos/Vilnius]], [[objektai/vietos/Voložinas]]
-- Goštautas (vyskupas, XV a.) pastatė [[objektai/vietos/Vilnius]]
-- Goštautas (vyskupas, XV a.) užėmė [[objektai/ivykiai/Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis]]
-- Goštautas (vyskupas, XV a.) gyveno [[objektai/vietos/Smolenskas]], [[objektai/vietos/Vilnius]]
-- Goštautas (vyskupas, XV a.) rėmė [[objektai/grupes/Pranciškonų ordinas]]
+- Paskyrė Goštautą (vyskupas, XV a.): [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- Goštautas (vyskupas, XV a.) keliavo į [[objektai/vietos/Alšėnai]], [[objektai/vietos/Tikocinas]]

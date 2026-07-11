@@ -34,16 +34,6 @@ Iš Žemutinės pilies vakarinių var­ tų vedė kelias per du tiltus, nutiestu
 - t-001
   global_id: t-86264
   teiginys: "Kelias iš Žemutinės pilies vakarinių vartų ėjo per tiltą per Vingrių upokšnį, kuris greta Vilnios įtekėjo į Viliją."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "234499-235226; hash=d581568e4ba4bcbac1d9ee97f119cc283b7c0291cc68b7021b0e4538d524579e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vingrių upokšnis: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Vilija: mention_match, place, gap=47"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vingrių upokšnis\" parinktas kaip owner_note_path. Targetas \"Vilija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-82244
 
@@ -51,16 +41,6 @@ Iš Žemutinės pilies vakarinių var­ tų vedė kelias per du tiltus, nutiestu
 - t-002
   global_id: t-86265
   teiginys: "Iš vakarų atitekėjęs Vingrių upokšnis įtekėjo į Viliją visai greta Vilnios žiočių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "235988-236519; hash=574c6c334ad32842c846e52e3430da35d0556000a3a84f09c0b3fbff57eae08b; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vingrių upokšnis: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Vilija: mention_match, place, gap=27"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vingrių upokšnis\" parinktas kaip owner_note_path. Targetas \"Vilija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-82243
 - susijęs iš Vilija: Vingrių upokšnis šalia Vilnios įtekėjo į Viliją.
@@ -86,8 +66,8 @@ Iš Žemutinės pilies vakarinių var­ tų vedė kelias per du tiltus, nutiestu
     ną ir norint, kad abi tvirtovės būtų
     vandenų skalaujamos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -111,8 +91,8 @@ Iš Žemutinės pilies vakarinių var­ tų vedė kelias per du tiltus, nutiestu
     į du, vedė į Kernavę, senąją Lietuvos sostinę, ir į Ukmergės
     pilį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

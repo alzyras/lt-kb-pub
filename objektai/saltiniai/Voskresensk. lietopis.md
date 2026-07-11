@@ -32,9 +32,6 @@ b) Voskresensk.
 - t-001
   global_id: t-36127
   teiginys: "„Voskresensk. lietopis“ cituoja Vytauto žodžius apie ketinimą nugalėti carą Temir Kutlujų ir pasodinti Tachtamyšą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "183601-183872; hash=0fd05a3c1834d8877901b5ac9dfc3a6f2def90b9cc6aa5f58a4455afc359a8ea; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-38439
 ## Reikšmingi paminėjimai
@@ -48,8 +45,8 @@ b) Voskresensk.
     jego, posadim ria niem caria Tachtamyša, o sam siadu na Moskvie, na
     Vielikom kniaženii, na vsiej ruskoj ziemli" ...
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

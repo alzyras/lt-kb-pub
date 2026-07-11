@@ -30,14 +30,6 @@ Ir didysis kunigaikštis Kazimieras priėmė volyniečius, ir su visais tais Lie
 - t-001
   global_id: t-194051
   teiginys: "Ir didysis kunigaikštis Kazimieras priėmė volyniečius, ir su visais tais Lietuvos kunigaikščiais bei Tarybos ponais išvyko į Vilnių, į savo dėdės Vytauto sostinę."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "218520-219333; hash=0da36abbb0d86b37c2bf02c90619798ceb580e02750b48381352d7a65f917bb3; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-176664
 ## Reikšmingi paminėjimai
@@ -67,8 +59,8 @@ Ir didysis kunigaikštis Kazimieras priėmė volyniečius, ir su visais tais Lie
     vo tikra jo tėvo sesuo5 , kunigaikštienės Boleslovienės
     pamotė6 .
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

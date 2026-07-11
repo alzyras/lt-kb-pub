@@ -34,19 +34,6 @@ Zolotarenkos (apie br 20000 karių) laikė apsiautę Gomelį "bei kitus miestus 
 - t-001
   global_id: t-40142
   teiginys: "I. Zolotarenka vadovavo apie 20 000 kazokų, kurie buvo apsiautę Gomelį bei kitus miestus ir priartėjo prie Senojo Bychovo."
-  semantiniai_rysiai: "I. Zolotarenko apgulė Gomelis (0.84)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "509429-509876; hash=e472da9f0a24028dd25fbbdd7ce76efc36510cda30135cd28a0591c5ddfa8ddc; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "apgule -> Gomelis: 0.84"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "I. Zolotarenko: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Gomelis: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata nurodo, kad Zolotarenkos vadovaujami kazokai laikė apsiautę Gomelį."
-  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-44348
 ## Reikšmingi paminėjimai
@@ -69,8 +56,8 @@ Zolotarenkos (apie br 20000 karių) laikė apsiautę Gomelį "bei kitus miestus 
     zygiuojanti rusų kariuomenė gali užimti
     Baltijos pakraštį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -103,6 +90,3 @@ Zolotarenkos (apie br 20000 karių) laikė apsiautę Gomelį "bei kitus miestus 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40142
-
-## Ryšiai
-- I. Zolotarenko apgulė [[objektai/vietos/Gomelis]]

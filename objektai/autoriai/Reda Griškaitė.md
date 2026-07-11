@@ -43,19 +43,6 @@ Savotiškai isto­ riko biografijos vingių ir ano meto istorinių realijų anal
 - t-002
   global_id: t-88040
   teiginys: "Reda Griškaitė 2005 m. Vilniuje paskelbė darbą „Mykolas Balinskis: kova dėl istorijos?“."
-  temporaliniai_duomenys: "įvykio data: 2005 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys yra bibliografinis fragmentas, bet citata palaiko pilną leidinio faktą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "23856-24241; hash=805617b38be56a72197743bbd413d04ac9caf734ff989b9334a0940aaef0fb68; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aleksandras Balinskis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Reda Griškaitė: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Aleksandras Balinskis: mention_match, person, gap=56"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Reda Griškaitė\" parinktas kaip owner_note_path. Targetas \"Aleksandras Balinskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-84020
 
@@ -63,16 +50,6 @@ Savotiškai isto­ riko biografijos vingių ir ano meto istorinių realijų anal
 - t-001
   global_id: t-88041
   teiginys: "Reda Griškaitė parašė studiją, skirtą M. Balinskio biografijos vingiams ir jo meto istorinėms realijoms."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "2234-2545; hash=1cae1a94079a20011f7378a8b709e9ddd205b1fc1c06ecf019ae200b75d2306c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aleksandras Balinskis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Reda Griškaitė: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Aleksandras Balinskis: mention_match, person, gap=41"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Reda Griškaitė\" parinktas kaip owner_note_path. Targetas \"Aleksandras Balinskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-84019
 
@@ -80,14 +57,6 @@ Savotiškai isto­ riko biografijos vingių ir ano meto istorinių realijų anal
 - t-003
   global_id: t-190789
   teiginys: "Reda Griškaitė Narbuto LTI piešiamą vaizdą apibūdino kaip individualų ir asmeninį istorijos suvokimą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "38462-38884; hash=2514e5d460d714b571534f82c2fadb67c17717bbcaab1584afcdcbac761ac471; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173671
 - susijęs iš [[objektai/autoriai/E. Aleksandravičius.md#claim-t-187793|E. Aleksandravičius]]: E. Aleksandravičius buvo „Lietuvių tautos istorijos“ leidinio redaktorių kolegijos narys.
@@ -111,8 +80,8 @@ Savotiškai isto­ riko biografijos vingių ir ano meto istorinių realijų anal
     išvada, jog „susidaro įspūdis, kad jis niekuomet ir nebuvo „tik­
     rasis" romantikas - tik „naujasis klasikas".
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -129,8 +98,8 @@ Savotiškai isto­ riko biografijos vingių ir ano meto istorinių realijų anal
     jos rašymo kritiką: „<.. .> Balinskio rašiniuose Narbutui skiriamas ypati-
     nas dėmesys.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -154,8 +123,8 @@ Savotiškai isto­ riko biografijos vingių ir ano meto istorinių realijų anal
     būtinybė, ir nereikėtų manyti, jog
     ji kada nors gali pakenkti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

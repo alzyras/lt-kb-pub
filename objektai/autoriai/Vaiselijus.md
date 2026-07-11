@@ -39,21 +39,6 @@ Narbutas rašo, kad Meletijus ir Vaiselijus tą patį dievo vardą pateikė kaip
 - t-001
   global_id: t-190461
   teiginys: "Narbutas rašo, kad Meletijus ir Vaiselijus tą patį dievo vardą pateikė kaip Antimp, o Lasickis - kaip Audros."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "182762-182960; hash=67a02edb7d304c4690477d45d5b447108bcf52194be250e6e863417a058fa3c5; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lasickis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vaiselijus: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Lasickis: mention_match, author, gap=54"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vaiselijus\" parinktas kaip owner_note_path. Targetas \"Lasickis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173344
 
@@ -61,21 +46,6 @@ Narbutas rašo, kad Meletijus ir Vaiselijus tą patį dievo vardą pateikė kaip
 - t-003
   global_id: t-190816
   teiginys: "Teodoro Narbuto pasakojime Vaiselijumi remiamasi Hoggerland pavadinimą siejant su mitinio kunigaikščio Hogo vardu."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "644595-644948; hash=1ffa520799231ff3833606729da181dd33f43bf70325b99a5a112d6bd6d193e9; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Pamaris: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vaiselijus: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Pamaris: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vaiselijus\" parinktas kaip owner_note_path. Targetas \"Pamaris\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173698
 
@@ -83,21 +53,6 @@ Narbutas rašo, kad Meletijus ir Vaiselijus tą patį dievo vardą pateikė kaip
 - t-004
   global_id: t-191910
   teiginys: "Narbuto perteiktas Hartknochas Vaiselijų įvardijo tarp kronikininkų, citavusių vyskupo Kristijono kroniką apie senovės Prūsiją."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "303031-303650; hash=6e52b9a980791a2165563a924b8ae9a0280f912f63bc6791368868945c00fc5d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Prūsai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vaiselijus: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Prūsai: mention_match, group, gap=88"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vaiselijus\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174792
 - susijęs iš [[objektai/asmenys/Meletijus ir Vaiselijus.md#claim-t-190184|Meletijus ir Vaiselijus]]: Narbutas rašo, kad Meletijus ir Vaiselijus dievo vardą pateikė kaip Antimp, o Lasickis jį vadino Audros.
@@ -118,8 +73,8 @@ Narbutas rašo, kad Meletijus ir Vaiselijus tą patį dievo vardą pateikė kaip
     rašomas skirtingai. Meletijus ir Vaiselijus vadina Antimp, La-
     sickis -Audros.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -137,8 +92,8 @@ Narbutas rašo, kad Meletijus ir Vaiselijus tą patį dievo vardą pateikė kaip
     mitinio tenykščio kunigaikščio Hogo, kunigaikštytės Po-
     gezanijos tėvo, vardą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -163,8 +118,8 @@ Narbutas rašo, kad Meletijus ir Vaiselijus tą patį dievo vardą pateikė kaip
     neva 17 metais prieš Kristaus gimimą apsilankiusio kraš­
     te, vėliau pavadintame Prūsija, stebėjimus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -196,7 +151,8 @@ Narbutas rašo, kad Meletijus ir Vaiselijus tą patį dievo vardą pateikė kaip
 - id: c-173698
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 357"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 357."
   citata_originali: |
     Pamaryje buvo ne tiek daug gyventojų, nes ten plytėjo
     didžiuliai miškai. Čia gyveno stiprūs ir karingi žmonės,
@@ -215,7 +171,8 @@ Narbutas rašo, kad Meletijus ir Vaiselijus tą patį dievo vardą pateikė kaip
 - id: c-174792
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 167"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 167."
   citata_originali: |
     *  ¥  *
     III skyrius

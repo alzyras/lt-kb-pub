@@ -32,9 +32,6 @@ Išplaukęs Vysla į jūrą, jis priplaukė krantą Priegliaus žiotyse. jis pri
 - t-002
   global_id: t-69028
   teiginys: "Kelionės į aisčių kraštą metu Vysla išplaukęs misionierius pasiekė Priegliaus žiotis."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "93860-94146; hash=b61213398ca7d4e635da07dfd9ae05dc1d3c06656bfa75e7d62d221fe415e0c1; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-68454
 
@@ -42,9 +39,6 @@ Išplaukęs Vysla į jūrą, jis priplaukė krantą Priegliaus žiotyse. jis pri
 - t-001
   global_id: t-69029
   teiginys: "Į aisčių kraštą vykęs misionierius Vysla išplaukė į jūrą ir krantą pasiekė Priegliaus žiotyse."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "93860-94146; hash=b61213398ca7d4e635da07dfd9ae05dc1d3c06656bfa75e7d62d221fe415e0c1; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-68454
 
@@ -52,12 +46,6 @@ Išplaukęs Vysla į jūrą, jis priplaukė krantą Priegliaus žiotyse. jis pri
 - t-003
   global_id: t-193228
   teiginys: "Išplaukęs Vysla į jūrą, jis priplaukė krantą Priegliaus žiotyse."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "93993-94263; hash=3fafe15e00f6e7d5f1564475025a966419e5761fe6e8343a85d5e0050598f85d; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-175966
 ## Reikšmingi paminėjimai
@@ -72,8 +60,8 @@ Išplaukęs Vysla į jūrą, jis priplaukė krantą Priegliaus žiotyse. jis pri
     gavo apsaugą ir išvyko į aisčių kraštą. Išplaukęs Vysla į jūrą,
     jis priplaukė krantą Priegliaus žiotyse.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -90,8 +78,8 @@ Išplaukęs Vysla į jūrą, jis priplaukė krantą Priegliaus žiotyse. jis pri
     vykusius labai neskersuotų, jis atleido visus savo palydovus ir
     liko tik su dviem kunigais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

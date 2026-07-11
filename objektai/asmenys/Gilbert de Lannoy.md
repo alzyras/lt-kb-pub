@@ -35,19 +35,6 @@ Ir tikrai, kada Gilbert de Lannoy, Ang­ lijos karaliaus Henriko VI pasiuntinys 
 - t-001
   global_id: t-35079
   teiginys: "Gilbert de Lannoy kelionėje į Krymą per totorių žemes Vytauto kepurė atstojo lydimąjį raštą."
-  semantiniai_rysiai: "Gilbert de Lannoy keliavo į Krymas (0.94)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "358824-359150; hash=1379e5dda11da0ff2402c12a4008bd7ce5bb0d907f108e31c0eb403891e2ccfa; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Krymas: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gilbert de Lannoy: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Krymas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Gilbert de Lannoy kelionę į Krymą."
-  vertinimo_atnaujinta: "2026-06-13T14:24:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-38019
 - susijęs iš [[objektai/asmenys/Henrikas VI.md#claim-t-63621|Henrikas VI]]: Henrikas VI buvo Anglijos karalius, kurio pasiuntinys Gilbert de Lannoy keliavo į Krymą.
@@ -63,8 +50,8 @@ Ir tikrai, kada Gilbert de Lannoy, Ang­ lijos karaliaus Henriko VI pasiuntinys 
     per totorių žemes. Jau minėtas vokietis Henne rašė Ordino ma­
     gistrui, kad totorių pinigai būdavo su Vytauto Didžiojo atvaizdu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

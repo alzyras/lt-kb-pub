@@ -36,17 +36,6 @@ Michalo Lituanus „De moribus Tartarorum, Lituanorum et Moschorum“ Teodoro Na
 - t-001
   global_id: t-191798
   teiginys: "Michalo Lituanus „De moribus Tartarorum, Lituanorum et Moschorum“ Teodoro Narbuto nuorodoje siejamas su 1615 m. Bazelio leidimu."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1615 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie Michalo Lituanus veikalo bibliografinį siejimą su Bazelio 1615 m. leidimu. Jis neperteikia daugiau negu leidimo nuorodą citatoje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "922985-923145; hash=353067245c8e0269bdaa0470db75e89d7bdc784b92761629ac5a06caf8b65966; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174680
 ## Reikšmingi paminėjimai
@@ -60,8 +49,8 @@ Michalo Lituanus „De moribus Tartarorum, Lituanorum et Moschorum“ Teodoro Na
     tianorum II Michalo Lituanus. De moribus Tartarorum, Lituano-
     rum et Moschorum. Basileae, 1615).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -72,7 +61,8 @@ Michalo Lituanus „De moribus Tartarorum, Lituanorum et Moschorum“ Teodoro Na
 - id: c-174680
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 499"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 499."
   citata_originali: |
     De
     diis samagitarum caeterorumque Sarmatarum et falsorum Chris­

@@ -49,18 +49,6 @@ Nenurodyta
 - t-001
   global_id: t-62522
   teiginys: "Sūduviai po ilgų antpuolių sudegino ir iki pamatų sunaikino Vartenbergo pilį, nužudydami du Ordino brolius su visa šeimyna."
-  teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Sūduviai puolė Vartenbergas (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "456325-456787; hash=5ea4166e1e64f3740d293ce8b6df6a0e2198cf39c6bbb3e5e31a2cd912cc06ac; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Vartenbergas: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Sūduviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vartenbergas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Sūduviai nurodyti atžygiavę prie Vartenbergo pilies ir vykdę ilgus antpuolius."
   pagrindžia:
     - c-63208
 ## Reikšmingi paminėjimai
@@ -77,8 +65,8 @@ Nenurodyta
     kuriems broliai kiek galėdami priešinosi, ją sudegino, iki pamatų sunaikino, nužudė du
     brolius su visa šeimyna, taip po šiai dienai ši pilis ir liko apleista.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -89,7 +77,8 @@ Nenurodyta
 - id: c-63208
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 143"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 143."
   citata_originali: |
     Apie Vartenbergo pilies užkariavimą
 

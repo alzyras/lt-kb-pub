@@ -30,12 +30,6 @@ Bene garsiausias istoriko darbas - tai Vilniaus akademijos istorija ir kartu su 
 - t-001
   global_id: t-194319
   teiginys: "Bene garsiausias istoriko darbas - tai Vilniaus akademijos istorija ir kartu su Tadu Lipinskiu parengti Senovės Lenkijos trys tomai, kurių vienas skirtas LDK istoriniam topografiniam ap rašymui."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "6867-7256; hash=1da4b648c108597eba99c8e29deb174f051d32eb6593c4fa659ef340f38235ce; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176911
 ## Reikšmingi paminėjimai
@@ -52,8 +46,8 @@ Bene garsiausias istoriko darbas - tai Vilniaus akademijos istorija ir kartu su 
     tomai, kurių vienas skirtas LDK istoriniam topografiniam ap­
     rašymui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

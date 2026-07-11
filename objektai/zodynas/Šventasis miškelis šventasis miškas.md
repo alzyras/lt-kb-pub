@@ -30,21 +30,6 @@ Narbutas miškelį aiškina kaip pirmąją visų tautų šventyklą, kurioje, jo
 - t-001
   global_id: t-189214
   teiginys: "Narbutas miškelį aiškina kaip pirmąją visų tautų šventyklą, kurioje, jo manymu, kilo visuomeninis gyvenimas ir religinės vizijos."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "453090-453620; hash=f5acb27054ff942ac708bb380d724de82c222b63dd164a94996fcf6777759fba; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Trakai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Šventasis miškelis šventasis miškas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Trakai: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šventasis miškelis šventasis miškas\" parinktas kaip owner_note_path. Targetas \"Trakai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172102
 
@@ -52,21 +37,6 @@ Narbutas miškelį aiškina kaip pirmąją visų tautų šventyklą, kurioje, jo
 - t-002
   global_id: t-189215
   teiginys: "Narbutas lietuvių mitologijoje šventais laiko ištisus miško plotus su aukurais ir šventyklomis prie upių, dažnai santakose."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "453621-454382; hash=0ddc2caab7f3d81f976931ccabfe7aedf83d8bcdac4dbd6c4fa4d81a7085dc38; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aukurai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Šventasis miškelis šventasis miškas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Aukurai: mention_match, thing, gap=16"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šventasis miškelis šventasis miškas\" parinktas kaip owner_note_path. Targetas \"Aukurai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172103
 
@@ -74,22 +44,6 @@ Narbutas miškelį aiškina kaip pirmąją visų tautų šventyklą, kurioje, jo
 - t-003
   global_id: t-189216
   teiginys: "Narbutas rašo, kad krikščionims iš smalsumo buvo draudžiama įžengti į šventuosius miškelius, o nelaimingiesiems tikriausiai ne."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Romučiai priklausė Prūsija (0.86)"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "454383-454844; hash=48d99ea37425a2aa01349e385cef4df7a468b26a097276309cd37108a3735963; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Prūsija: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Romučiai: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Formuluotė tiesiogiai priskiria Romučių kaimą Prūsijai."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172104
 
@@ -97,21 +51,6 @@ Narbutas miškelį aiškina kaip pirmąją visų tautų šventyklą, kurioje, jo
 - t-004
   global_id: t-189217
   teiginys: "Narbutas nurodo, kad Vilniuje šventasis miškas buvęs prie Vilnios ir Neries santakos."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "454948-455173; hash=211eb07b2daf81a1da3a02262772bf77d925779dae4ce3ce8fbdfef9b42c7c86; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kaunas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Šventasis miškelis šventasis miškas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Kaunas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šventasis miškelis šventasis miškas\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172105
 ## Reikšmingi paminėjimai
@@ -134,8 +73,8 @@ Narbutas miškelį aiškina kaip pirmąją visų tautų šventyklą, kurioje, jo
     mo pamatai ir čia išgyventos pirmosios religinės vizijos: taigi
     miškelis buvo pirmoji visų tautų šventykla.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -159,8 +98,8 @@ Narbutas miškelį aiškina kaip pirmąją visų tautų šventyklą, kurioje, jo
     buvo laikomi šventais, o tų žvėrių užmušėjams velnių galybė
     susukdavo kojas ir rankas“.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -180,8 +119,8 @@ Narbutas miškelį aiškina kaip pirmąją visų tautų šventyklą, kurioje, jo
     vietoje, kur yra Prūsijos Romučių (Romuten) kaimas, o Že­
     maitijoje, tik už sienos -  Romuniškiai (Romuniszki).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -196,8 +135,8 @@ Narbutas miškelį aiškina kaip pirmąją visų tautų šventyklą, kurioje, jo
     se ir beveik prie kiekvienos reikšmingesnės gyvenvietės buvo
     šventi miškeliai, daugiau ar mažiau garsūs.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -233,7 +172,8 @@ Narbutas miškelį aiškina kaip pirmąją visų tautų šventyklą, kurioje, jo
 - id: c-172103
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 262"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 262."
   citata_originali: |
     Tas pats pastebima lietuvių mitologijoje; šventi buvo ištisi
     miško plotai, kur stovėjo aukurai ir šventyklos, žinoma, visuo­
@@ -258,7 +198,8 @@ Narbutas miškelį aiškina kaip pirmąją visų tautų šventyklą, kurioje, jo
 - id: c-172104
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 262"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 262."
   citata_originali: |
     Krikščionims iš smalsumo buvo
     draudžiama įžengti į tuos miškelius, bet nelaimingiesiems -
@@ -279,7 +220,8 @@ Narbutas miškelį aiškina kaip pirmąją visų tautų šventyklą, kurioje, jo
 - id: c-172105
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 262"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 262."
   citata_originali: |
     Vilniuje šventasis miškas buvo prie Vilnios ir Neries san­
     takos. Kaune -  prie Neries ir Nemuno santakos. Kitose vieto­

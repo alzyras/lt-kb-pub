@@ -34,9 +34,6 @@ Tai buvo vergai.
 - t-001
   global_id: t-03214
   teiginys: "Vergais paprastai būdavo karo belaisviai ir jų šeimos, neturėję laisvės ir privalėję dirbti bajorui."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "81003-81149; hash=9dc1ccbc7acd947a22a8c9865607c81c498cdc08f5339a4bce8f7478968c83e3; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-166386
 
@@ -44,12 +41,6 @@ Tai buvo vergai.
 - t-002
   global_id: t-182989
   teiginys: "Vergais paprastai būdavo karo belaisviai ir jų šeimos, neturėję laisvės ir dirbę bajoro ar kunigaikščio ūkyje."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "81003-81149; hash=9dc1ccbc7acd947a22a8c9865607c81c498cdc08f5339a4bce8f7478968c83e3; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-166386
 - susijęs iš [[objektai/ivykiai/Įtvirtinto malūno prie Baigos pastatymas ir sunaikinimas.md#claim-t-91921|Įtvirtinto malūno prie Baigos pastatymas ir sunaikinimas]]: Prie Baigos broliai pastatė prie upės į pilį panašiai sutvirtintą malūną, kurį prūsai netrukus užėmė, gynėjus išžudė ir sudegino.
@@ -71,8 +62,8 @@ Tai buvo vergai.
 
     ar kunigaikščio ūky.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

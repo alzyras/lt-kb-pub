@@ -45,14 +45,6 @@ Nenurodyta
 - t-001
   global_id: t-194820
   teiginys: "Priešais ąžuolą, angos link, sienoje stovėjo aukurai, kuriuose buvo deginamos aukos ir palaikoma šventoji ugnis."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "462784-463324; hash=4f2031db8caf338c8cd0fc6630aad8313272870be3b25e29f4249f542ddbe15a; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-177216
 ## Reikšmingi paminėjimai
@@ -72,8 +64,8 @@ Nenurodyta
     arba svečių namas (šios šventyklos ir viso miesto piešinį žiū­
     rėk VII lentelėje).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -84,7 +76,8 @@ Nenurodyta
 - id: c-177216
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 266"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 266."
   citata_originali: |
     Priešais ąžuolą,
     angos link, sienoje stovėjo aukurai, kuriuose buvo deginamos

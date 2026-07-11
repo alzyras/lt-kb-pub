@@ -33,16 +33,6 @@ Jos nešėjai indoeuropiečiai nebuvo Europoje autochtonai, nes jie buvo atke­ 
 - t-001
   global_id: t-32211
   teiginys: "Indoeuropiečiai į Europą greičiausiai atkeliavo per pietų Rusijos stepes ir Kaukazą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "278948-279283; hash=06d43f9266866db5841210b2e54c9a3ef0482d9c2911c0a238fd55ca3a34efe4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Europa: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kaukazas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=58"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kaukazas\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-33872
 
@@ -50,22 +40,6 @@ Jos nešėjai indoeuropiečiai nebuvo Europoje autochtonai, nes jie buvo atke­ 
 - t-002
   global_id: t-192669
   teiginys: "Narbutas rašo, kad kolchų kolonijos driekėsi beveik nuo Kaukazo per Volgą ir į vakarus iki Dono."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Kolchai gyveno Kaukazas (0.72); Kolchai gyveno Donas (0.70); Kolchai gyveno Volga (0.67)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "69823-70298; hash=bd6a8684202a49b6af51c41cce00e6ef874bd7b6e38bb5647ac09225f8542ba3; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Kaukazas: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kolchai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Kaukazas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Kolchų kolonijų erdvė prasideda nuo Kaukazo, todėl tai rodo jų gyvenamą ar kolonijų teritoriją."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175439
 - susijęs iš [[objektai/ivykiai/Liudviko Narbuto suėmimas Vilniaus gimnazijoje (1850 m.).md#claim-t-187969|Liudviko Narbuto suėmimas Vilniaus gimnazijoje (1850 m.)]]: Po tardymo, kalinimo ir viešo nuplakimo Liudvikas Narbutas buvo išsiųstas eiliniu kareiviu į Kaukaze veikusią Rusijos armiją.
@@ -124,8 +98,8 @@ Jos nešėjai indoeuropiečiai nebuvo Europoje autochtonai, nes jie buvo atke­ 
     Kaukaze, Pietryčių Europoje, Mažojoje Azijoje ir Ukrainoje jie
     pasirodė apie trečio tūkstantmečio pr.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -145,8 +119,8 @@ Jos nešėjai indoeuropiečiai nebuvo Europoje autochtonai, nes jie buvo atke­ 
     mybės ribų pažymėti nėra galimybių. Tikėtina, kad jie
     galėjo turėti įtakos iki Uralo kalnų ir turtingų rūdynų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -176,7 +150,8 @@ Jos nešėjai indoeuropiečiai nebuvo Europoje autochtonai, nes jie buvo atke­ 
 - id: c-175439
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 41"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 41."
   citata_originali: |
     Šioms tolimos senovės epo­
     choms priskirtina ir kolchų tauta, nors ji gerokai vėliau
@@ -193,7 +168,3 @@ Jos nešėjai indoeuropiečiai nebuvo Europoje autochtonai, nes jie buvo atke­ 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192669
-
-## Ryšiai
-- Buvo siuntimo vieta: [[objektai/asmenys/Liudvikas Narbutas]]
-- Gyvenamoji vieta: [[objektai/grupes/Kolchai]]

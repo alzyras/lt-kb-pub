@@ -42,22 +42,6 @@ Nenurodyta
 - t-001
   global_id: t-191058
   teiginys: "Narbutas Ariamo puolimą aiškina kerštu už pažeminimą: Kapadokijos valdytojas jūra puolė skitus, juos sumušė, paėmė grobio ir belaisvių."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Ariamas puolė Ariamo jūrų puolimas prieš skitus (0.87)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "96135-96499; hash=9a93510c6a2ad8a754c395212df381de1adbfd10706d6a2e11ecf89b29e649f9; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Ariamo jūrų puolimas prieš skitus: 0.87"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Ariamas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Ariamo jūrų puolimas prieš skitus: llm_allowed_candidate, event"
-  ryšio_paaiskinimas: "Ariamas tiesiogiai nurodytas kaip gavęs įsakymą pulti skitus; įvykio objektas yra šis puolimas."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173940
 ## Reikšmingi paminėjimai
@@ -80,8 +64,8 @@ Nenurodyta
     paėmė didelį grobį ir belaisvių, tarp kurių buvo ir kara­
     liaus brolis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -113,6 +97,3 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191058
-
-## Ryšiai
-- Puolė Ariamo jūrų puolimas prieš skitų: [[objektai/asmenys/Ariamas]]

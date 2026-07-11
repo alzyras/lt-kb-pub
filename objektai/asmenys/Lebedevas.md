@@ -32,16 +32,6 @@ Pulko vadas Lebedevas, sužinojęs apie Jiezno apsupimą ir pamatęs artėjanči
 - t-001
   global_id: t-39774
   teiginys: "Pulko vadas Lebedevas, sužinojęs apie Jiezno apsupimą ir pamatęs artėjančius lietuvių husarus, nedelsdamas pasitraukė į Stakliškes."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "724499-724867; hash=daf38f9ecc180ec115fa15c8ba6ea5c57845ad20b70a5ab3f2c6ab0031e4469a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jieznas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lebedevas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Jieznas: mention_match, place, gap=26"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lebedevas\" parinktas kaip owner_note_path. Targetas \"Jieznas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-41578
 ## Reikšmingi paminėjimai
@@ -59,8 +49,8 @@ Pulko vadas Lebedevas, sužinojęs apie Jiezno apsupimą ir pamatęs artėjanči
     dovybę ir reikalaudami tuoj pat juos vesti
     į Vilnių, o iš ten — „traukiniais į Maskvą“.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

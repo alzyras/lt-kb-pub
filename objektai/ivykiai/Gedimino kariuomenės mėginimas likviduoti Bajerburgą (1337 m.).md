@@ -62,21 +62,6 @@ Nenurodyta
 - t-001
   global_id: t-62787
   teiginys: "1337 m. Gedimino kariuomenė siekė likviduoti Bajerburgą, Ordino agresijos židinį prie Nemuno šalia Veliuonos."
-  teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Gediminas kariavo prieš Kryžiuočių ordinas (0.74)"
-  temporaliniai_duomenys: "įvykio data: iki 1283 m.; įvykio data: 1282 m.; įvykio data: 1283 m.; įvykio data: 1285 m.; įvykio data: 1292 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys ir atitinka citatoje pateiktą informaciją."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "23877-24881; hash=cbdd294b263248ce1813007d4f1d62269ae4990ee746568a76836c7889a7a7ba; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Kryžiuočių ordinas: 0.74"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Bajerburgas įvardytas kaip Ordino agresijos židinys, kurį Gedimino kariuomenė siekė likviduoti."
   pagrindžia:
     - c-63586
 ## Reikšmingi paminėjimai
@@ -100,8 +85,8 @@ Nenurodyta
     stengėsi likviduoti naują Ordino agresijos židinį, įkurtą prie Nemuno šalia Veliuonos,—
     Bajerburgą36.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -112,7 +97,8 @@ Nenurodyta
 - id: c-63586
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 12"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 12."
   citata_originali: |
     Tačiau sudėtinga tarptautinė
     padėtis, nauji Aukso ordos feodalų antpuoliai iš pietryčių (1275, 1279, 1282 m.) trukdė

@@ -44,18 +44,6 @@ Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose.
 - t-003
   global_id: t-71848
   teiginys: "Liucjanas Želigovskis lapkričio 17 d. auštant puolė lietuvių 1-osios pėstininkų divizijos barą nuo Nėries iki Dubingių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "859203-859524; hash=015ab23c8a92713b992728e7bc21a50f4e22f5452cbe51b4460967528b775d6c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Balnininkai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Dubingiai: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Balnininkai: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dubingiai\" parinktas kaip owner_note_path. Targetas \"Balnininkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-43417
 
@@ -63,20 +51,6 @@ Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose.
 - t-004
   global_id: t-71849
   teiginys: "1334 m. kryžiuočiai nusiaubė Dubingius ir Šešuolius, priartėdami iki keturių mylių nuo Vilniaus."
-  semantiniai_rysiai: "Kryžiuočių ordinas puolė Dubingiai (0.88)"
-  temporaliniai_duomenys: "įvykio data: 1333 m.; įvykio data: 1334 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalintas OCR triukšmas ir išlaikytas citatos faktas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "647258-647442; hash=4e70f1e39f94c3a23d915d53b0839e65f8f11e64c711b1869d84c3771e16a5b5; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Dubingiai: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Dubingiai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Kryžiuočiai tiesiogiai įvardyti kaip nusiaubę Dubingius."
   pagrindžia:
     - c-32023
 
@@ -84,17 +58,6 @@ Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose.
 - t-002
   global_id: t-71850
   teiginys: "Spalio 26-27 d. lenkai apėjo kairįjį lietuvių sparną ir užėmė Giedraičius, Želvą, Dubingius, Vidiškį."
-  semantiniai_rysiai: "Lenkai užėmė Dubingiai (0.93)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "858454-858759; hash=4e54d15a51ac7339ab8e7619400b758243c4f77fa7eadf1dd5b919bb4ae4b8b7; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Dubingiai: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lenkai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Dubingiai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad lenkai užėmė Dubingius."
   pagrindžia:
     - c-43416
 
@@ -102,19 +65,6 @@ Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose.
 - t-001
   global_id: t-71851
   teiginys: "1334 m. kryžiuočiai nusiaubė Dubingius ir Šešuolius, priartėdami per keturias mylias nuo Vilniaus."
-  semantiniai_rysiai: "Kryžiuočių ordinas puolė Dubingiai (0.88)"
-  temporaliniai_duomenys: "įvykio data: 1333 m.; įvykio data: 1334 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "647258-647442; hash=4e70f1e39f94c3a23d915d53b0839e65f8f11e64c711b1869d84c3771e16a5b5; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Dubingiai: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Dubingiai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Kryžiuočiai tiesiogiai įvardyti kaip nusiaubę Dubingius."
   pagrindžia:
     - c-32023
 
@@ -122,14 +72,6 @@ Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose.
 - t-005
   global_id: t-193179
   teiginys: "Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "436712-436968; hash=4d0c94b068a7621c969a42991c4fb4314b323190c70ba12f8890a881415854d6; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-175924
 - susijęs iš Želva: Spalio 26–27 d. lenkų pajėgos, apėjusios kairįjį lietuvių sparną, užėmė Želvą, Giedraičius, Dubingius ir Vidiškį.
@@ -160,8 +102,8 @@ Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose.
     1334, nusiaubę Dubingius ir Šešuolius, jie buvo 4 mylios nuo Vil­
     niaus. Tada abiejų lyčių lietuvių buvę nužudyta 1200^4.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -181,8 +123,8 @@ Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose.
     limo tikslą, Lietuvai būtų iškilęs pavojus
     prarasti nepriklausomybę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -203,8 +145,8 @@ Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose.
     pajėgos priartėjo prie Videniškio,
     Gelogalių ir judėjo Balnininkų link.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -220,8 +162,8 @@ Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose.
     Gavęs žinią apie tėvo mirtį, Zigmantas tuojau įsakė tarybos ponams
     atlydėti žmoną į Vilnių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -308,6 +250,5 @@ Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose.
     - t-193179
 
 ## Ryšiai
-- Turėjo valdovą: [[objektai/asmenys/Mikalojus Radvila Rudasis]]
 - Puolė Dubingiai: [[objektai/grupes/Kryžiuočių ordinas]]
 - Užėmė Dubingiai: [[objektai/grupes/Lenkai]]

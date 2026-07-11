@@ -38,18 +38,6 @@ media_all_json: |-
 - t-001
   global_id: t-31660
   teiginys: "K. Būgos „Die litauisch-weissrussischen Beziehungen und ihr Alter“ paskelbta 1925 m. leidinio „Zeitschrift für slavische Philologie“ I tome."
-  temporaliniai_duomenys: "įvykio data: 1925 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "343295-344563; hash=0373e0188a712ddd5f70a08d5b457037c8eaf7873578ae4ae0626a01e9180a4c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> K. Būga: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Die litauisch-weissrussischen Beziehungen und ihr Alter: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "K. Būga: mention_match, author, gap=10"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Die litauisch-weissrussischen Beziehungen und ihr Alter\" parinktas kaip owner_note_path. Targetas \"K. Būga\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-33553
 ## Reikšmingi paminėjimai
@@ -77,8 +65,8 @@ media_all_json: |-
     für slawsche Philologie, hgg. von M. Vasmer, I, 1925, 26-55 p. — En-
     dzelin, J.: _Altpreussische Grammatik,_ Riga 1944.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

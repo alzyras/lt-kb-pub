@@ -35,16 +35,6 @@ Dusburgietis teigia, kad apie Brunsbergo miestiečių karą antrosios atskalūny
 - t-002
   global_id: t-58610
   teiginys: "Pasarė, vėliau vadinta Pasarge, tapatinama su dabartine Paslenka, įtekančia į Aismares žemiau Branevo."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "434747-435053; hash=10ff8210b74785efa51368a6f9affa5283cf18c63e9017729d399b6155465ef4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aismares: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Pasarė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Aismares: mention_match, place, gap=78"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pasarė\" parinktas kaip owner_note_path. Targetas \"Aismares\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-59242
 
@@ -52,16 +42,6 @@ Dusburgietis teigia, kad apie Brunsbergo miestiečių karą antrosios atskalūny
 - t-001
   global_id: t-58611
   teiginys: "Brunsbergo pilis ir miestas buvo pastatyti Pasarės, vadintos Serijos upe, žemupyje esančioje saloje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "433083-433731; hash=001e47dcc1b4938678128ed3475cf7212e78d03e3747501e38f5bdb3367086b7; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Brunsbergas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Pasarė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Brunsbergas: mention_match, place, gap=43"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pasarė\" parinktas kaip owner_note_path. Targetas \"Brunsbergas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-59243
 - susijęs iš Brunsbergas: Brunsbergas, dabartinis Branevas, buvo Pasarės žemupyje, o pilis stovėjo žemiau dabartinio miesto, arčiau Aismarių.
@@ -81,8 +61,8 @@ Dusburgietis teigia, kad apie Brunsbergo miestiečių karą antrosios atskalūny
       414 D.— fluvii Sergie, Jer.— Serge; Pasarė, vėliau — Pasargė (GAO, p. 116; MPKP,
     1, p. 16), dab. Paslenka, įtekanti į Aismares žemiau dab. Branevo (buv. Braunsbergas).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -102,8 +82,8 @@ Dusburgietis teigia, kad apie Brunsbergo miestiečių karą antrosios atskalūny
     ir pilėnai, paprastais ir ketveriniais vežimais bei kitokiais mediniais daiktais užversdami
     tas pilies ir miesto vietas, pro kurias priešai galėjo įsibrauti.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -114,7 +94,8 @@ Dusburgietis teigia, kad apie Brunsbergo miestiečių karą antrosios atskalūny
 - id: c-59242
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 135"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 135."
   citata_originali: |
     Apie Kristburgo brolių kovas antrosios atskalūnybės metais, apie vieną ste­
                              buklą ir apie daugybės prūsų žūtį
@@ -132,7 +113,8 @@ Dusburgietis teigia, kad apie Brunsbergo miestiečių karą antrosios atskalūny
 - id: c-59243
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 135"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 135."
   citata_originali: |
     140 (135). Apie Brunsbergo miestiečių karą antrosios atskalūnybės metais ir apie pi­
                                           lies bei miesto paėmimą

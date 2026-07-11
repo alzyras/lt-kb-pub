@@ -30,20 +30,6 @@ media_all_json: |-
 - t-001
   global_id: t-185278
   teiginys: "Šindekopfas su kariuomene patraukė prie Bajorų pilaitės ir netrukus ją užgrobė."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Šindekopfas užėmė Bajorų pilaitė (0.93)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "435364-435935; hash=7bf168d587a5ab30cbe28067f28342cdd0bd34b1ebe79d04b3541a9bfed9258a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Bajorų pilaitė: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Šindekopfas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Bajorų pilaitė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Įvardyta, kad Šindekopfas užgrobė Bajorų pilaitę."
   pagrindžia:
     - c-168639
 ## Reikšmingi paminėjimai
@@ -69,8 +55,8 @@ media_all_json: |-
     grasino užpulsiąs bei gyrėsi susidorosiąs, nei iš tiesų
     puolė.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -81,7 +67,8 @@ media_all_json: |-
 - id: c-168639
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 249"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 249."
   citata_originali: |
     Mat Algirdas ir Kęs­
     tutis, suprasdami, jog ši prie pat Kauno esanti pilis —

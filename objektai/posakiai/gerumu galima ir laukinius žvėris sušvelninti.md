@@ -47,12 +47,6 @@ Vytautui priskiriama moralinė formulė teigia, kad gerumas pajėgus sušvelnint
 - t-005
   global_id: t-195034
   teiginys: "Kai kartą jam kažkas priminė jo didelį duosnumą dalinant toto riams žemes Lietuvoje ir Rusijoj, Vytautas atsakęs, kad gerumu galima ir laukinius žvėris sušvelninti."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "642882-643474; hash=3f9839a04085de366fd83a7be07cfddc0be322fada9294f1d4de12e6454fef08; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177405
 
@@ -60,11 +54,6 @@ Vytautui priskiriama moralinė formulė teigia, kad gerumas pajėgus sušvelnint
 - t-004
   global_id: t-195035
   teiginys: "Vytautas, išgirdęs priekaištą dėl dosnaus žemių dalijimo totoriams Lietuvoje ir Rusijoje, atsakė, kad gerumu galima sušvelninti ir laukinius žvėris."
-  teiginio_tipas: "faktas"
-  susije_objektai: "mentioned_object: [[objektai/posakiai/Todėl ir reikia kariauti, nes jeigu nugalėsim, gausime triumfą ant dviejų priešų; jei būsime nugalėti, kalbės apie mus, kad mus nugalėjo du|Todėl ir reikia kariauti, nes jeigu nugalėsim, gausime triumfą ant dviejų priešų; jei būsime nugalėti, kalbės apie mus, kad mus nugalėjo du]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Dniepras; mentioned_place: Lietuva; mentioned_place: Viena; llm_object: Lietuva"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "642882-643474; hash=3f9839a04085de366fd83a7be07cfddc0be322fada9294f1d4de12e6454fef08; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177405
 
@@ -72,11 +61,6 @@ Vytautui priskiriama moralinė formulė teigia, kad gerumas pajėgus sušvelnint
 - t-002
   global_id: t-195036
   teiginys: "Vytautas atsakė, kad gerumu galima sušvelninti ir laukinius žvėris, kai jam priminė dosnumą totoriams dalijant žemes Lietuvoje ir Rusijoje."
-  teiginio_tipas: "faktas"
-  susije_objektai: "llm_object: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_object: [[objektai/posakiai/Todėl ir reikia kariauti, nes jeigu nugalėsim, gausime triumfą ant dviejų priešų; jei būsime nugalėti, kalbės apie mus, kad mus nugalėjo du|Todėl ir reikia kariauti, nes jeigu nugalėsim, gausime triumfą ant dviejų priešų; jei būsime nugalėti, kalbės apie mus, kad mus nugalėjo du]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Dniepras; mentioned_place: Viena; llm_object: Lietuva; llm_object: Rusija"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "642882-643474; hash=3f9839a04085de366fd83a7be07cfddc0be322fada9294f1d4de12e6454fef08; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177405
 
@@ -84,11 +68,6 @@ Vytautui priskiriama moralinė formulė teigia, kad gerumas pajėgus sušvelnint
 - t-003
   global_id: t-195037
   teiginys: "Vytautas posakiu „gerumu galima ir laukinius žvėris sušvelninti“ aiškino savo dosnumą totoriams dalijant žemes Lietuvoje ir Rusioje."
-  teiginio_tipas: "faktas"
-  susije_objektai: "llm_object: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/posakiai/Todėl ir reikia kariauti, nes jeigu nugalėsim, gausime triumfą ant dviejų priešų; jei būsime nugalėti, kalbės apie mus, kad mus nugalėjo du|Todėl ir reikia kariauti, nes jeigu nugalėsim, gausime triumfą ant dviejų priešų; jei būsime nugalėti, kalbės apie mus, kad mus nugalėjo du]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Dniepras; mentioned_place: Viena; llm_object: Lietuva"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "642882-643474; hash=3f9839a04085de366fd83a7be07cfddc0be322fada9294f1d4de12e6454fef08; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177405
 
@@ -96,11 +75,6 @@ Vytautui priskiriama moralinė formulė teigia, kad gerumas pajėgus sušvelnint
 - t-001
   global_id: t-195038
   teiginys: "Vytautas posakiu apie gerumu sušvelninamus laukinius žvėris aiškino savo dosnumą totoriams dalijant žemes Lietuvoje ir Rusijoje."
-  teiginio_tipas: "faktas"
-  susije_objektai: "llm_object: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_object: [[objektai/posakiai/Todėl ir reikia kariauti, nes jeigu nugalėsim, gausime triumfą ant dviejų priešų; jei būsime nugalėti, kalbės apie mus, kad mus nugalėjo du|Todėl ir reikia kariauti, nes jeigu nugalėsim, gausime triumfą ant dviejų priešų; jei būsime nugalėti, kalbės apie mus, kad mus nugalėjo du]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Dniepras; llm_object: Lietuva; llm_object: Rusija"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "642781-643318; hash=6ade76500f44991b9f18d5f07f9f08a0b0751efe3585553ed72e639a769b506f; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177406
 ## Reikšmingi paminėjimai
@@ -117,8 +91,8 @@ Vytautui priskiriama moralinė formulė teigia, kad gerumas pajėgus sušvelnint
     riams žemes Lietuvoje ir Rusijoj, Vytautas atsakęs, kad gerumu
     galima ir laukinius žvėris sušvelninti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -138,8 +112,8 @@ Vytautui priskiriama moralinė formulė teigia, kad gerumas pajėgus sušvelnint
     rė, kad jam patinkąs mažiau iškalbingas, bet užtatai tiesa­
     kalbis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

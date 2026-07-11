@@ -30,12 +30,6 @@ Kojelavičius tautą vadino šimtaakiu Argu ir akyliausiu pasaulyje padaru, past
 - t-001
   global_id: t-185471
   teiginys: "Kojelavičius tautą vadino šimtaakiu Argu ir akyliausiu pasaulyje padaru, pastebinčiu slėptą nepalankumą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "713980-714313; hash=3ade36b24477a05cde54fda8c1fdf314f046a795c7ad129be306253dc6146466; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-168832
 ## Reikšmingi paminėjimai
@@ -52,8 +46,8 @@ Kojelavičius tautą vadino šimtaakiu Argu ir akyliausiu pasaulyje padaru, past
     ko, ilgainiui parodė visokiausi dalykai, paaiškinantys
     tuometinį jo susigraužimą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -64,7 +58,8 @@ Kojelavičius tautą vadino šimtaakiu Argu ir akyliausiu pasaulyje padaru, past
 - id: c-168832
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 407"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 407."
   citata_originali: |
     Suvokęs, jog visos jo pastan­
     gos nuėjo niekais, jis nugręžė pyktį į pamotę, kuri, jo

@@ -42,17 +42,6 @@ gruodžio 15 d. į visuotinį Bažnyčios sinodą Konstancijoje nusiuntė net 60
 - t-001
   global_id: t-35494
   teiginys: "Prof. kunigas dr. J. Fijalek teigė, kad „Propositio Samaytarum“ dėl graudumo ir šiandien sunku skaityti sausomis akimis."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) kariavo prieš Kryžiuočių ordinas (0.93)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "677514-678055; hash=cfb81f8f6e32b8a9a55be39022fe6a9846a301077cccf042d30c057c0aafd136; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Kryžiuočių ordinas: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Vytautas kovojo prieš Ordiną."
   pagrindžia:
     - c-38199
 ## Reikšmingi paminėjimai
@@ -71,8 +60,8 @@ gruodžio 15 d. į visuotinį Bažnyčios sinodą Konstancijoje nusiuntė net 60
     kunigas Dr. J. Fijalek, ir šiandien dar negalima sausomis akimis
     skaityti^3 ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

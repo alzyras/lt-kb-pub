@@ -49,18 +49,6 @@ Nenurodyta
 - t-001
   global_id: t-62751
   teiginys: "Varmių vadas Glapas užėmė Brandenburgo pilį, kai sužinojo, kad broliai iš jos buvo išvykę."
-  teiginio_tipas: "saltinio_teiginys"
-  semantiniai_rysiai: "Glapas užėmė Brandenburgo pilis (0.88); Varmiai užėmė Brandenburgo pilis (0.74)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "421591-422147; hash=fb898be9711d29d972119843f7ddf2910b1422981f847ad96f723043494ffd0c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Brandenburgo pilis: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Glapas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Brandenburgo pilis: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Glapas su kariais užėmė Brandenburgo pilį."
   pagrindžia:
     - c-63533
 
@@ -68,17 +56,6 @@ Nenurodyta
 - t-002
   global_id: t-62752
   teiginys: "Prūsams sunaikinus Brandenburgo pilį, Brandenburgo markgrafas toje pačioje vietoje pastatydino kitą pilį tuo pačiu vardu."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "422153-422655; hash=cb7c145863b11de37a352930a1e3ae1941a85343287df1483c4ee099cb3b2b8a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Balti vilnoniai marškiniai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Brandenburgo pilies sunaikinimas ir atstatymas (pilis): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Balti vilnoniai marškiniai: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Brandenburgo pilies sunaikinimas ir atstatymas (pilis)\" parinktas kaip owner_note_path. Targetas \"Balti vilnoniai marškiniai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-63532
     - c-63534
@@ -96,8 +73,8 @@ Nenurodyta
     Hermanas iš Lichtenburgo, kuris, visaip marindamasis bei nuo visko susivaldydamas,
     dėvėjo dar ant pliko kūno ne tikrus, o grandininius marškinius.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -116,8 +93,8 @@ Nenurodyta
     šeimynos, nuolat puldinėjamus, kurie gynėsi šios pilies mediniame kuore, ir juos sveikus
     išsivedė su savimi.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -135,8 +112,8 @@ Nenurodyta
     karą, karys užsideda šarvus, mat norima, kad jis pasijustų žvalesnis, tačiau šio brolio
     kūnas buvęs taip sužalotas, kad rodėsi, jog jis kokių skorpionų sukandžiotas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -147,7 +124,8 @@ Nenurodyta
 - id: c-63532
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 131"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 131."
   citata_originali: |
     131 (126). Apie Brandenburgo pilies atstatymą ir vieno jos brolio šlovingą gyvenimą
 
@@ -167,7 +145,8 @@ Nenurodyta
 - id: c-63533
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 131"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 131."
   citata_originali: |
     Kai
     traukė namo, sutiko pasiuntinį, kuris pasakė, kad Brandenburgo pilis esanti sunaikinta
@@ -188,7 +167,8 @@ Nenurodyta
 - id: c-63534
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 131"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 131."
   citata_originali: |
     Brandenburgo markgrafas, sužinojęs, kad jo pastatytą pilį sunaikino prūsai, susikrimto
     ir, vėl surinkęs didelę kariuomenę, sugrįžo į Prūsiją; magistro bei brolių patariamas, toje

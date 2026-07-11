@@ -35,16 +35,6 @@ Dusburgietis teigia, kad apie Baigos pilį Išgirdęs šią liūdną naujieną, 
 - t-001
   global_id: t-59159
   teiginys: "Pasakojime apie Baigos pilį magistrą ramino Dovydo žodžiai „Tegul tas dalykas neatima iš tavęs drąsos“."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "262013-262844; hash=f8a66ba7a0c33c55d1a9aa98481bac02bd7d85d99f8d6ac8de8004abeb7804f0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Baiga: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Tegul tas dalykas neatima iš tavęs drąsos, nes kare esti visokių atsitikimų, o kalavijas sunaikina tai vieną, tai kitą, padrąsink savo kovot: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Baiga: mention_match, place, gap=44"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tegul tas dalykas neatima iš tavęs drąsos, nes kare esti visokių atsitikimų, o kalavijas sunaikina tai vieną, tai kitą, padrąsink savo kovot\" parinktas kaip owner_note_path. Targetas \"Baiga\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-59791
 ## Reikšmingi paminėjimai
@@ -66,8 +56,8 @@ Dusburgietis teigia, kad apie Baigos pilį Išgirdęs šią liūdną naujieną, 
     Kodrūnas, apgultosios pilies vadas, jie netruko ją užgrobti, dalį žmonių paimti į nelaisvę,
     o kitus išžudyti.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -78,7 +68,8 @@ Dusburgietis teigia, kad apie Baigos pilį Išgirdęs šią liūdną naujieną, 
 - id: c-59791
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 79"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 79."
   citata_originali: |
     19. Apie Baigos pilį
 

@@ -43,17 +43,6 @@ Ivinskis : Salyno taika, LE, t. — Ivinskis, Z.
 - t-001
   global_id: t-32013
   teiginys: "Z. Ivinskio „Salyno taika“ nurodyta „Lietuvių enciklopedijos“ 26 tome, 351-353 puslapiuose."
-  semantiniai_rysiai: "Salynas priklausė Nemunas (0.82)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "893336-893671; hash=049b83528b0254421b75ae4ade903435648925fd805c9b2903598ef97c717961; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Nemunas: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Salynas: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Nemunas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai aiškina Salyną kaip vieną iš Nemuno salų, todėl vieta priskiriama Nemunui."
   pagrindžia:
     - c-33770
 
@@ -61,9 +50,6 @@ Ivinskis : Salyno taika, LE, t. — Ivinskis, Z.
 - t-002
   global_id: t-32014
   teiginys: "„Salyno taika“ nurodyta „Lietuvių enciklopedijos“ 26 tome, 351 puslapyje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "916918-917273; hash=37bedcb442b3a1f9936e6aa5eb043637edbca85e2984f305e1c781b685247e33; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-33769
 ## Reikšmingi paminėjimai
@@ -78,8 +64,8 @@ Ivinskis : Salyno taika, LE, t. — Ivinskis, Z.
 
     (^66) **CEV, 192 p. ; DlugO, XII, 572 p. — Plg.** **_Marienb.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -95,8 +81,8 @@ Ivinskis : Salyno taika, LE, t. — Ivinskis, Z.
     (^6) **Kritišką sutarties tekstą pateikė E. Weise : StVW, I, 9-12 p.; LUB,
     IV, 218-227 p.**
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

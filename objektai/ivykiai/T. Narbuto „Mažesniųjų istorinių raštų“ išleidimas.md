@@ -53,19 +53,6 @@ Nenurodyta
 - t-001
   global_id: t-192018
   teiginys: "Šeštojo dešimtmečio viduryje T. Narbutui kilo mintis dalį per penkiolika metų sukauptos medžiagos išleisti atskira knygele."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "832126-833191; hash=2f402ce206362a5e7b139bd7f381699a700311c6104884b65ff0e1522990031e; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
-  ryšio_patikimumas: "susije_su -> Teodoras Narbutas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "T. Narbuto „Mažesniųjų istorinių raštų“ išleidimas: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Teodoras Narbutas: mention_match, author, gap=3"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"T. Narbuto „Mažesniųjų istorinių raštų“ išleidimas\" parinktas kaip owner_note_path. Targetas \"Teodoras Narbutas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174899
 
@@ -73,20 +60,6 @@ Nenurodyta
 - t-002
   global_id: t-192019
   teiginys: "1856 m. Teofilio Gliuksbergo spaustuvėje buvo išleista dalis medžiagos, turėjusios papildyti antrąjį LTI leidimą, ir taip pasirodė „Mažesnieji istoriniai raštai“."
-  teiginio_tipas: "faktas"
-  temporaliniai_duomenys: "įvykio data: 1856 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys jau aiškiai sieja 1856 m. leidybą su „Mažesniaisiais istoriniais raštais“. Jame neperžengiama citatos informacija."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "832126-833191; hash=2f402ce206362a5e7b139bd7f381699a700311c6104884b65ff0e1522990031e; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "T. Narbuto „Mažesniųjų istorinių raštų“ išleidimas: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"T. Narbuto „Mažesniųjų istorinių raštų“ išleidimas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-174899
     - c-174900
@@ -115,8 +88,8 @@ Nenurodyta
     visų nebūtų įmanoma sutalpinti į „Istoriją“, — visa tai ir
     spausdinu šiame rinkinyje“1.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -141,8 +114,8 @@ Nenurodyta
     visų nebūtų įmanoma sutalpinti į „Istoriją“, — visa tai ir
     spausdinu šiame rinkinyje“1.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -153,7 +126,8 @@ Nenurodyta
 - id: c-174899
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 459"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 459."
   citata_originali: |
     Šeštojo dešimtmečio viduryje T. Narbutui (o galbūt kam
     nors iš jo bičiulių) kilo mintis kai ką iš to, kas buvo su­
@@ -186,7 +160,8 @@ Nenurodyta
 - id: c-174900
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 459"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 459."
   citata_originali: |
     Be to, tuo metu T. Narbutas jau turėjo karčią pa­
     tirtį, įgyvendindamas Lietuvos istorijos šaltinių publika­

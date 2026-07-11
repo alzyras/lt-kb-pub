@@ -55,19 +55,6 @@ Nenurodyta
 - t-001
   global_id: t-75301
   teiginys: "1939 m. rugsėjo 28 d. pasirašytos Reicho ir SSRS sienų ir draugystės sutarties slaptas protokolas Lietuvos teritoriją priskyrė SSRS įtakos sferai."
-  semantiniai_rysiai: "Lietuva priklausė SSRS (0.76)"
-  temporaliniai_duomenys: "įvykio data: 1939 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "370630-371248; hash=cda34d05003c854e22e0e31a4d1edfd41534939b60f2977d01ff76597cc8339d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> SSRS: 0.76"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "SSRS: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai teigia, kad Lietuvos teritorija pateko į SSRS įtakos sferą."
   pagrindžia:
     - c-23280
 
@@ -75,20 +62,6 @@ Nenurodyta
 - t-002
   global_id: t-75302
   teiginys: "1939 m. rugsėjo 28 d. Vokietijos ir SSRS sutarties slaptasis protokolas priskyrė Lietuvos teritoriją SSRS įtakos sferai."
-  semantiniai_rysiai: "Lietuva priklausė SSRS (0.76)"
-  temporaliniai_duomenys: "įvykio data: 1939 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata geriau pagrindžia sutarties protokolo pasekmę Lietuvai."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "370777-371342; hash=37798640f213d80ac2664b790061040535e0e296865084125cc6c57347f3a116; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> SSRS: 0.76"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "SSRS: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai sieja Lietuvos teritoriją su SSRS įtakos sfera."
   pagrindžia:
     - c-73123
 ## Reikšmingi paminėjimai
@@ -106,8 +79,8 @@ Nenurodyta
     SSRS įtakos sferą (už tai Vokietija gavo Liublino vaivadiją), Vokietijos
     spaudimą Lietuvai kaip ranka nuėmė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -127,8 +100,8 @@ Nenurodyta
     Užtat sukruto sujudo Maskva – V. Molotovas pakvietė atvykti į Mas-
     kvą ministrą Juozą Urbšį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

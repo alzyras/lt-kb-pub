@@ -56,18 +56,6 @@ Nenurodyta
 - t-001
   global_id: t-35858
   teiginys: "1421 m. Livonijos ordinas sudarė amžiną taiką su Didžiuoju Naugardu."
-  temporaliniai_duomenys: "įvykio data: 1421 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "302337-302898; hash=451c527728ef7a391b15b4ebe920657d8726b94694849bed27a6c474709ee17c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Livonija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Livonijos ordino amžinos taikos su Naugardu D. sudarymas (1421 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Livonija: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Livonijos ordino amžinos taikos su Naugardu D. sudarymas (1421 m.)\" parinktas kaip owner_note_path. Targetas \"Livonija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-38318
 ## Reikšmingi paminėjimai
@@ -86,8 +74,8 @@ Nenurodyta
     jiems yra pražūtingi, kadangi jis siekiąs užvaldyti visas rusų
     žemes.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

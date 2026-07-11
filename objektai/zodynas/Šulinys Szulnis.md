@@ -30,14 +30,6 @@ Narbutas šuliniu (Szulnis) vadina prie šventyklų buvusius šventus šaltinius
 - t-001
   global_id: t-189348
   teiginys: "Narbutas šuliniu (Szulnis) vadina prie šventyklų buvusius šventus šaltinius ar šulinius, iš kurių apeigoms semtas vanduo."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "484276-484693; hash=8054e4c39f047809188eb52f0f8e250299e835e08f8c9cb215071346bf60e217; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172235
 ## Reikšmingi paminėjimai
@@ -54,8 +46,8 @@ Narbutas šuliniu (Szulnis) vadina prie šventyklų buvusius šventus šaltinius
     krikščionims jokiu atveju nebuvo leidžiama prieiti prie tokių
     šaltinių. Toks šaltinis vadinosi šulinys (Szulnis).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -66,7 +58,8 @@ Narbutas šuliniu (Szulnis) vadina prie šventyklų buvusius šventus šaltinius
 - id: c-172235
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 277"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 277."
   citata_originali: |
     Prie visų šventyklų būdavo šaltiniai arba tam tikri šventieji
     šuliniai, iš kurių semdavo vandenį, reikalingą apeigoms. Jame

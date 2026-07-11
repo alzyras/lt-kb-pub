@@ -38,19 +38,6 @@ Stepono kariuomenė pasiekė net Tamovą. Tamovas šiame gabale apibrėžia puol
 - t-002
   global_id: t-187353
   teiginys: "Tamovas kronikoje žymi tolimiausią Stepono ir Malkočo karo žygio Lenkijos žemėje ribą prie Krokuvos."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "265417-265881; hash=396b6b744fe3f5b7ed9ed455a9b03432da34f9ed8a75bbbafbe77a5b97ae6dd0; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  ryšio_patikimumas: "susije_su -> Krokuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Tamovas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Krokuva: mention_match, place, gap=91"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tamovas\" parinktas kaip owner_note_path. Targetas \"Krokuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-170370
 
@@ -58,19 +45,6 @@ Stepono kariuomenė pasiekė net Tamovą. Tamovas šiame gabale apibrėžia puol
 - t-001
   global_id: t-187352
   teiginys: "Moldavijos vaivada Steponas su Malkoču kariavo Lenkijos žemėje iki Tamovo, esančio už dešimties mylių nuo Krokuvos."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "265417-265881; hash=396b6b744fe3f5b7ed9ed455a9b03432da34f9ed8a75bbbafbe77a5b97ae6dd0; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  ryšio_patikimumas: "surenge_zygi_i -> Tamovas: 0.80"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Steponas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Tamovas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas rodo Stepono karo žygio judėjimą iki Tamovo."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-170370
 
@@ -78,19 +52,6 @@ Stepono kariuomenė pasiekė net Tamovą. Tamovas šiame gabale apibrėžia puol
 - t-001
   global_id: t-187352
   teiginys: "Moldavijos vaivada Steponas su Malkoču kariavo Lenkijos žemėje iki Tamovo, esančio už dešimties mylių nuo Krokuvos."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "265417-265881; hash=396b6b744fe3f5b7ed9ed455a9b03432da34f9ed8a75bbbafbe77a5b97ae6dd0; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  ryšio_patikimumas: "surenge_zygi_i -> Tamovas: 0.80"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Steponas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Tamovas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas rodo Stepono karo žygio judėjimą iki Tamovo."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-170370
 
@@ -98,19 +59,6 @@ Stepono kariuomenė pasiekė net Tamovą. Tamovas šiame gabale apibrėžia puol
 - t-002
   global_id: t-187353
   teiginys: "Tamovas kronikoje žymi tolimiausią Stepono ir Malkočo karo žygio Lenkijos žemėje ribą prie Krokuvos."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "265417-265881; hash=396b6b744fe3f5b7ed9ed455a9b03432da34f9ed8a75bbbafbe77a5b97ae6dd0; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  ryšio_patikimumas: "susije_su -> Krokuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Tamovas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Krokuva: mention_match, place, gap=91"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tamovas\" parinktas kaip owner_note_path. Targetas \"Krokuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-170370
 
@@ -118,21 +66,6 @@ Stepono kariuomenė pasiekė net Tamovą. Tamovas šiame gabale apibrėžia puol
 - t-005
   global_id: t-187658
   teiginys: "Moldavijos vaivada Steponas su Malkoču kariavo Lenkijos žemėje nuo Kameneco per Lvovą iki Tamovo."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "265417-265881; hash=396b6b744fe3f5b7ed9ed455a9b03432da34f9ed8a75bbbafbe77a5b97ae6dd0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "surenge_zygi_i -> Tamovas: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Steponas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Tamovas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tamovas nurodytas kaip karo žygio pasiekta riba."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-170370
 
@@ -140,12 +73,6 @@ Stepono kariuomenė pasiekė net Tamovą. Tamovas šiame gabale apibrėžia puol
 - t-006
   global_id: t-194040
   teiginys: "Paskui, sekančių metų vasarą bei rudenį4 I, atėjo Moldavijos vaivada Steponas, o su juo — turkų sultono didysis pa ša, vardu Malkočas 4 2 , vedinas daugeliu žmonių, ir ka riavo po Lenkijos žemę, Kamenecu pradedant, ir ligi Lvovo, ir net ligi Tamovo, už."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "265417-265881; hash=396b6b744fe3f5b7ed9ed455a9b03432da34f9ed8a75bbbafbe77a5b97ae6dd0; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-170370
 ## Reikšmingi paminėjimai
@@ -165,8 +92,8 @@ Stepono kariuomenė pasiekė net Tamovą. Tamovas šiame gabale apibrėžia puol
     Lvovo, ir net ligi Tamovo, už dešimties mylių nuo Kro­
     kuvos 4 3 .
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -38,18 +38,6 @@ Platonov, S.
 - t-001
   global_id: t-31912
   teiginys: "S. F. Platonovo „Geschichte Russlands vom Beginn bis zur Jetztzeit“ išleista Leipcige 1927 m."
-  temporaliniai_duomenys: "įvykio data: 1927 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1019706-1020387; hash=a0b5f3eb12590cf8164274317914e2d6f985b0489b856df533a91ca4e16738f6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Leipcigas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "S. F. Platonov, Geschichte Russlands vom Beginn bis zur Jetztzeit: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Leipcigas: mention_match, place, gap=77"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"S. F. Platonov, Geschichte Russlands vom Beginn bis zur Jetztzeit\" parinktas kaip owner_note_path. Targetas \"Leipcigas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-33709
 ## Reikšmingi paminėjimai
@@ -68,8 +56,8 @@ Platonov, S.
     te Russlands vom Beginn bis zur Jetztzeit_ , Leipzig 1927, 112-135 p.—
     Prochaska, A. : _Dzieje Witolda w. księcia Litwy_ , Vilnius 1914.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

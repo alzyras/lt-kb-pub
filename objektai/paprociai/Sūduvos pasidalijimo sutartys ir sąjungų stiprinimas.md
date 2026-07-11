@@ -52,18 +52,6 @@ Nenurodyta
 - t-004
   global_id: t-09532
   teiginys: "1260 m. birželio 5 d. Ordinas ir Mozūrijos kunigaikštis Zemovitas sudarė dar neužgrobtos Sūduvos pasidalijimo sutartį ir sustiprino tarpusavio sąjungą."
-  temporaliniai_duomenys: "valdymo laikotarpis: 1260 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Zemovitas buvo valdovas Mozūrija“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "89266-89509; hash=cf9ddffe408046951c01e87337eb3c5966c611b2e314abe0ef636c4f449f8844; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
-  ryšio_patikimumas: "buvo_valdovas -> Mozūrija: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Zemovitas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Mozūrija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Zemovitas aiškiai apibūdinamas kaip Mozūrijos kunigaikštis."
   pagrindžia:
     - c-12298
 
@@ -71,19 +59,6 @@ Nenurodyta
 - t-003
   global_id: t-09533
   teiginys: "1260 m. birželio 5 d. Ordinas ir Mozūrijos kunigaikštis Zemovitas sudarė dar neužgrobtos Sūduvos pasidalijimo sutartį."
-  temporaliniai_duomenys: "valdymo laikotarpis: 1260 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Zemovitas buvo valdovas Mozūrija“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pirminis teiginys neįvardija užrašo objekto, o citata leidžia tiksliai suformuluoti faktą apie sutartį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "89266-89509; hash=cf9ddffe408046951c01e87337eb3c5966c611b2e314abe0ef636c4f449f8844; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
-  ryšio_patikimumas: "buvo_valdovas -> Mozūrija: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Zemovitas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Mozūrija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekste Zemovitas tiesiogiai įvardytas Mozūrijos kunigaikščiu."
   pagrindžia:
     - c-12298
 ## Reikšmingi paminėjimai
@@ -98,8 +73,8 @@ Nenurodyta
     užgrobtos Sūduvos pasidalijimo sutartį,
     sustiprindami tarpusavio sąjungą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

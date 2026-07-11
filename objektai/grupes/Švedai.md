@@ -47,19 +47,6 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
 - t-004
   global_id: t-75058
   teiginys: "Kovos su švedais paliko gilų pėdsaką lietuvių liaudies atmintyje, tai rodo įvairūs padavimai ir pasakojimai apie švedus, „švedkapius“ ir švedų buvimą Lietuvoje."
-  temporaliniai_duomenys: "įvykio data: 1701 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai perteikia citatoje nurodytą atminties faktą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "159618-160247; hash=fa5a1c6768a6ac76074b08213bb4b72dbf99b36d77b471aa974f20501977c0ae; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Švedai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=28"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Švedai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-72980
 
@@ -67,19 +54,6 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
 - t-002
   global_id: t-75059
   teiginys: "XVII a. ATR kariavo su Švedija 1600–1629 m. ir 1655–1660 m., o karus komplikavo Vazų pretenzijos į Švedijos sostą."
-  temporaliniai_duomenys: "mūšio data: 1600-1629; mūšio data: 1629 m.; mūšio data: 1655-1660; mūšio data: 1660 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, faktinis ir paremtas citata."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "158432-158641; hash=28992f8e5e649584243e260c0fcc34273512795e55c67e0fb7fabcd10b1f188c; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Švedija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Švedai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Švedija: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Švedai\" parinktas kaip owner_note_path. Targetas \"Švedija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-166591
 
@@ -87,19 +61,6 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
 - t-003
   global_id: t-75060
   teiginys: "1655–1660 m. švedai kariavo jau Lietuvos ir Lenkijos teritorijose, o Lietuvos magnatai 1655 m. netgi sudarė Kėdainių sutartį su Švedija, tačiau švedams įsitvirtinti Lietuvoje nepavyko."
-  temporaliniai_duomenys: "mūšio data: 1655 m.; mūšio data: 1655-1660; mūšio data: 1660 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie švedų veiksmus Lietuvoje ir Lenkijoje."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "749966-750160; hash=89630ebd48b53f85715626cdb6bcd85d886ccfc04a40caf4b3ad578a4753ef2d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kėdainiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Švedai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Kėdainiai: mention_match, place, gap=95"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Švedai\" parinktas kaip owner_note_path. Targetas \"Kėdainiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-72981
 
@@ -107,19 +68,6 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
 - t-005
   global_id: t-75062
   teiginys: "1655–1660 m. švedai kariavo Lietuvos ir Lenkijos teritorijose, bet Lietuvoje įsitvirtinti jiems nepavyko."
-  temporaliniai_duomenys: "mūšio data: 1655 m.; mūšio data: 1655-1660; mūšio data: 1660 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra glaustas, gramatiškas ir paremtas citata."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "749966-750160; hash=89630ebd48b53f85715626cdb6bcd85d886ccfc04a40caf4b3ad578a4753ef2d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Švedai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=27"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Švedai\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-72981
 
@@ -127,16 +75,6 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
 - t-001
   global_id: t-75063
   teiginys: "Švedija siekė viešpatauti Baltijos jūroje, vadindama šį tikslą dominium maris Baltici."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "158191-158430; hash=63148f8cefb17ad930e2296bcc0262444674ae7f754c32f84c934736a139b50b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Baltija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Švedai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Baltija: mention_match, place, gap=26"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Švedai\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-22844
 
@@ -144,19 +82,6 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
 - t-002
   global_id: t-75059
   teiginys: "XVII a. ATR kariavo su Švedija 1600–1629 m. ir 1655–1660 m., o karus komplikavo Vazų pretenzijos į Švedijos sostą."
-  temporaliniai_duomenys: "mūšio data: 1600-1629; mūšio data: 1629 m.; mūšio data: 1655-1660; mūšio data: 1660 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, faktinis ir paremtas citata."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "158432-158641; hash=28992f8e5e649584243e260c0fcc34273512795e55c67e0fb7fabcd10b1f188c; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Švedija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Švedai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Švedija: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Švedai\" parinktas kaip owner_note_path. Targetas \"Švedija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-166591
 
@@ -164,14 +89,6 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
 - t-006
   global_id: t-188360
   teiginys: "Narbutas Švedijoje minėjo vyriausiąjį žynį ir teisėją, kuris dėl šių pareigų save laikė aukščiausiuoju karaliumi."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "749966-750160; hash=89630ebd48b53f85715626cdb6bcd85d886ccfc04a40caf4b3ad578a4753ef2d; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-171254
 - susijęs iš [[objektai/grupes/Chodkevičiai.md#claim-t-183124|Chodkevičiai]]: 1605 m. prie Kirchholmo Jono Karolio Chodkevičiaus vadovaujama LDK kariuomenė su 3 tūkst. raitelių nugalėjo 12 tūkst. švedų.
@@ -485,8 +402,8 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
     siekti viešpatauti Baltijos jūroje (dominium maris Baltici). Dėl to įsilieps-
     nojo Švedijos ir Lietuvos ir Lenkijos bei Švedijos ir Rusijos karo veiksmai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -509,8 +426,8 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
     1701 m. karalyste tapusi Prūsija – šios centralizuotos valstybės ilgainiui
     nulems tolesnį ATR likimą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -530,8 +447,8 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
     Rygos. Lietuva ir Lenkija šiame kare ekonomiškai ir politiškai nusilpo, jų
     teritoriją nuniokojo svetimos ir savos kariuomenės, atsirado anarchijos
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -548,8 +465,8 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
     Karą komplikavo tai, kad švedų kilmės Vazų dinastijos ATR karaliai reiš-
     kė pretenzijas į Švedijos sostą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -565,8 +482,8 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
     jas, kuris dėl tų aukštų pareigų laikė save aukščiausiuoju ka­
     raliumi (Rilhs. Geschichte Schwedens. -  B. I. -  S. 39).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -660,7 +577,8 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
 - id: c-171254
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 416"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 416."
   citata_originali: |
     Kaip tik
     Švedijoje buvo panašus vyriausiasis žynys ir vyriausiasis teisė­
@@ -674,18 +592,11 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
     - t-188360
 
 ## Ryšiai
-- Sąjungininkai: [[objektai/grupes/Sapiegos]]
 - Turėjo valdovą: [[objektai/asmenys/Gotbrodas]]
-- Puolė Švedai: [[objektai/grupes/Kazokai]], [[objektai/grupes/Lietuvos totoriai]], [[objektai/asmenys/Vaina]]
-- Kariavo prieš: [[objektai/asmenys/Augustas II]], [[objektai/grupes/Bajorų konfederacija]], [[objektai/asmenys/Jonas Karolis Chodkevičius]], [[objektai/asmenys/Jonas Karolis Katkevičius]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Lietuvos kariuomenė]], [[objektai/grupes/Lietuvos totoriai]], [[objektai/asmenys/Mykolas Pacas]], [[objektai/asmenys/Petras I Didysis]]
-- Sudarė sutartį su: [[objektai/grupes/Lenkų bajorija]]
-- Turėjo priklausinį: [[objektai/vietos/Biržų pilis|Biržų pilis (pilis)]], [[objektai/vietos/Klaipėda]], [[objektai/grupes/Kuršiai]], [[objektai/vietos/Livonija]], [[objektai/vietos/Ryga]], [[objektai/vietos/Seeburgas]], [[objektai/vietos/Talinas]]
-- Švedai valdė [[objektai/vietos/Klaipėda]], [[objektai/vietos/Seeburgas]]
-- Švedai keliavo į [[objektai/vietos/Gotlandas]]
-- Švedai puolė [[objektai/vietos/Lietuva]], [[objektai/grupes/Lietuviai]], [[objektai/vietos/Palanga]]
+- Kariavo prieš: [[objektai/grupes/Bajorų konfederacija]], [[objektai/asmenys/Jonas Karolis Chodkevičius]], [[objektai/asmenys/Jonas Karolis Katkevičius]], [[objektai/grupes/Lietuvos kariuomenė]]
+- Turėjo priklausinį: [[objektai/grupes/Kuršiai]]
+- Švedai puolė [[objektai/vietos/Lietuva]]
 - Švedai apgulė [[objektai/vietos/Brasta]], [[objektai/vietos/Lietuvos Brasta]]
-- Švedai užėmė [[objektai/vietos/Apuolės pilis|Apuolės pilis (pilis)]], [[objektai/vietos/Lietuvos Brasta]], [[objektai/vietos/Livonija]]
-- Švedai kariavo prieš [[objektai/grupes/Lietuviai]], [[objektai/grupes/Rusai]]
-- Švedai dalyvavo mūšyje [[objektai/ivykiai/Kuoknesės mūšis (1601 m. birželio 23 d.)]], [[objektai/ivykiai/Pilypavo mūšis (1656 m. spalio 22 d.)]], [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.)]]
-- Švedai gyveno [[objektai/vietos/Sauslaukė]]
-- Švedai užkariavo [[objektai/grupes/Kuršiai]]
+- Švedai užėmė [[objektai/vietos/Apuolės pilis|Apuolės pilis (pilis)]], [[objektai/vietos/Livonija]]
+- Švedai kariavo prieš [[objektai/grupes/Lietuviai]]
+- Švedai dalyvavo mūšyje [[objektai/ivykiai/Kuoknesės mūšis (1601 m. birželio 23 d.)]]

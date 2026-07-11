@@ -55,14 +55,6 @@ Nenurodyta
 - t-001
   global_id: t-193681
   teiginys: "Atkūrus Lietuvą, beveik visi jos sportininkai atsisakė dalyvauti SSRS rinktinėse ir čempionatuose."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "521245-521653; hash=dfd96da449ebcc765e1d32323a4adeaed1886e4c394ac36b9306dca88372f6de; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-176350
 ## Reikšmingi paminėjimai
@@ -78,8 +70,8 @@ Nenurodyta
     Lietuvoje surengtose IV Pasaulio lietuvių sporto žaidynėse dalyvavo apie
     2 tūkst. lietuvių sportininkų iš viso pasaulio.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

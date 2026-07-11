@@ -42,22 +42,6 @@ Nenurodyta
 - t-001
   global_id: t-191026
   teiginys: "Teodoro Narbuto pasakojime Neronas 54 ar 55 m., siekdamas Romai parodyti prašmatnų reginį, pasiuntė kilmingą romėną pargabenti gintaro."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Neronas siuntė į Nerono pasiųsto romėnų riterio kelionė pargabenti gintaro (0.86)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "318709-319166; hash=c92680fde01ced66c06d30a5d7bc7e9a916e232c00e1c6c30fb31c889f5d3069; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "siunte_i -> Nerono pasiųsto romėnų riterio kelionė pargabenti gintaro: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Neronas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Nerono pasiųsto romėnų riterio kelionė pargabenti gintaro: llm_allowed_candidate, event"
-  ryšio_paaiskinimas: "Neronas sumanė atgabenti gintaro, o dėl to buvo išsiųstas romėnas; įvykis yra ši pasiųsto riterio kelionė."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173908
 
@@ -65,22 +49,6 @@ Nenurodyta
 - t-002
   global_id: t-191027
   teiginys: "Nerono pasiųstas kilmingas romėnas po metų grįžo į Romą, o reginio reikmenys, Narbuto pasakojimu, spindėjo pargabentu gintaru."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Neronas siuntė į Nerono pasiųsto romėnų riterio kelionė pargabenti gintaro (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "319080-319506; hash=523358dc542181f8b7264daced780d8cef6295731f08db00eb2d6e7e98d35b30; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "siunte_i -> Nerono pasiųsto romėnų riterio kelionė pargabenti gintaro: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Neronas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Nerono pasiųsto romėnų riterio kelionė pargabenti gintaro: llm_allowed_candidate, event"
-  ryšio_paaiskinimas: "Claim_text tiesiogiai nurodo Nerono pasiųstą romėną ir jo kelionę, kuri atitinka įvykio objektą."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173909
 ## Reikšmingi paminėjimai
@@ -100,8 +68,8 @@ Nenurodyta
     šią kelionę nėra, išskyrus tai, kad po metų jis sugrįžo į
     Romą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -121,8 +89,8 @@ Nenurodyta
     13 romėniškų svarų, arba apie pusę dešimties mūsų sva­
     rų2.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -133,7 +101,8 @@ Nenurodyta
 - id: c-173908
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 174"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 174."
   citata_originali: |
     176
     Krikščioniškosios eros 54 ar 55 metais imperatorius
@@ -155,7 +124,8 @@ Nenurodyta
 - id: c-173909
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 174"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 174."
   citata_originali: |
     Daugiau smulkmenų apie
     šią kelionę nėra, išskyrus tai, kad po metų jis sugrįžo į

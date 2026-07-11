@@ -58,18 +58,6 @@ Nenurodyta
 - t-004
   global_id: t-41268
   teiginys: "Po Chotino mūšio Turkija pasirašė paliaubas, o 1623 m. taika atstatė sieną palei Dniestrą."
-  temporaliniai_duomenys: "įvykio data: 1623 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "480415-480642; hash=230f49267c3d75898257070f3d98e61d53d3f518f6d5065c79fa84073b2d586d; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
-  ryšio_patikimumas: "susije_su -> Chotinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Chotinas: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)\" parinktas kaip owner_note_path. Targetas \"Chotinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-11841
 
@@ -77,16 +65,6 @@ Nenurodyta
 - t-003
   global_id: t-41269
   teiginys: "Chotino mūšis buvo gynybinio mūšio pavyzdys ir paskutinė Jono Karolio Chodkevičiaus pergalė."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "479579-480011; hash=db5edda531dbbb7e5267000439a3885aef009302124724838194f9a927e61cd2; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
-  ryšio_patikimumas: "susije_su -> Chotinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Chotinas: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)\" parinktas kaip owner_note_path. Targetas \"Chotinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-167066
 
@@ -94,16 +72,6 @@ Nenurodyta
 - t-005
   global_id: t-41270
   teiginys: "Chotino mūšis buvo paskutinė Jono Karolio Chodkevičiaus pasiekta pergalė."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "479854-480089; hash=f1df5eb0c06237829e5138bd157424d7ceb25bf1ef22e3d3add94dbea6209ec3; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
-  ryšio_patikimumas: "susije_su -> Chotinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Chotinas: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)\" parinktas kaip owner_note_path. Targetas \"Chotinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-43045
 
@@ -111,19 +79,6 @@ Nenurodyta
 - t-006
   global_id: t-183674
   teiginys: "Chotino mūšis buvo paskutinė Jono Karolio Chodkevičiaus pasiekta pergalė."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "479579-480011; hash=db5edda531dbbb7e5267000439a3885aef009302124724838194f9a927e61cd2; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Chotinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Chotinas: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)\" parinktas kaip owner_note_path. Targetas \"Chotinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-167066
 - susijęs iš Viešpaties dešinės galybė (1674 m.): 1674 m. išleistoje Jokūbo Beneto poemoje „Viešpaties dešinės galybė“ buvo Chotino mūšio iliustracija.
@@ -154,8 +109,8 @@ Nenurodyta
     tarp Abiejų Tautų Respublikos ir Turkijos,
     ėjusi palei Dniestro upę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -173,8 +128,8 @@ Nenurodyta
 
     sukurti galingiausią savo laiko karinę jėgą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -198,8 +153,8 @@ Nenurodyta
     džio Jono Karolio Chodkevičiaus pasiekta
     pergale.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -271,6 +226,3 @@ Nenurodyta
   pagrindzia:
     - t-183674
     - t-41269
-
-## Ryšiai
-- Turėjo dalyvį: [[objektai/asmenys/Jonas Karolis Katkevičius]]

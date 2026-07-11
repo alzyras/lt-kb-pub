@@ -45,19 +45,6 @@ Nenurodyta
 - t-001
   global_id: t-185894
   teiginys: "Livonijos magistras su trimis šimtais bajorų atvyko pas karalių ir pasirašė ilgalaikį taikos susitarimą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1245708-1246251; hash=ef6b64dfe539f4348d9528fdcbc9e34a58abb0a5824da123a87feb4f81dd161b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Bajorai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Taikos susitarimo tvirtinimas priesaika ir parašais: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Bajorai: mention_match, group, gap=26"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Taikos susitarimo tvirtinimas priesaika ir parašais\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-169255
 
@@ -65,12 +52,6 @@ Nenurodyta
 - t-002
   global_id: t-193371
   teiginys: "Jeigu Mask vos valdovas užpulsiąs ar Livoniją, ar Lietuvą, į kovą privalėsiančios stoti jungtinės abiejų tautų jėgos, be to, nė viena tauta negalėsianti atskirai sudaryti nei pa liaubų, nei pastovios taikos susitarimo."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1246322-1247086; hash=b45bd018581c8e6f6878ed8e31882764625c71fd6ad9470bf5e1893018949087; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176096
 ## Reikšmingi paminėjimai
@@ -91,8 +72,8 @@ Nenurodyta
     siąs į sostą, pareikšdamas jam visokeriopą pagarbą ir
     atlygindamas nuostolius.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -127,8 +108,8 @@ Nenurodyta
     Lenkiją, manydamas, jog ateina visuotinės ramybės me­
     tas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -139,7 +120,8 @@ Nenurodyta
 - id: c-169255
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 698"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 698."
   citata_originali: |
     Kas be ko, sunkios sąlygos,
     bet žmogui, žinančiam, kad po pralaimėjimo susilauks

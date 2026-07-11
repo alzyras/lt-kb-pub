@@ -39,21 +39,6 @@ Caru tapo 1613 m. Zemskinio susirinkimo išrinktas Michailas Fiodorovičius Roma
 - t-001
   global_id: t-41205
   teiginys: "1613 m. Zemskinis susirinkimas išrinko caru Michailą Fiodorovičių Romanovą."
-  temporaliniai_duomenys: "įvykio data: 1611 m.; įvykio data: 1613 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Perrašymas aiškiau sieja veiksmą su note objektu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "481992-482185; hash=72c8b5bc3f903dcbbcaaa8e07ece1600bd0e1a44318132cf74aa5744775b8bb5; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Romanova: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Zemskinis susirinkimas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Romanova: mention_match, place, gap=58"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Zemskinis susirinkimas\" parinktas kaip owner_note_path. Targetas \"Romanova\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-44874
 
@@ -61,25 +46,6 @@ Caru tapo 1613 m. Zemskinio susirinkimo išrinktas Michailas Fiodorovičius Roma
 - t-002
   global_id: t-183670
   teiginys: "1613 m. Zemskinis susirinkimas išrinko caru Michailą Fiodorovičių Romanovą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Zemskinis susirinkimas paskyrė Michailas Fiodorovičius Romanovas (0.94)"
-  temporaliniai_duomenys: "įvykio data: 1613 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Perrašymas aiškiau sieja veiksmą su note objektu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "481842-482076; hash=55e34cd5a2f529f84317df5346dc3f6cc6fc1e0ce0a0305bffb3002e389a4642; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "paskyre -> Michailas Fiodorovičius Romanovas: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Zemskinis susirinkimas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Michailas Fiodorovičius Romanovas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Išrinkimas caru čia atitinka paskyrimo valdovu veiksmą."
-  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-167062
 ## Reikšmingi paminėjimai
@@ -95,8 +61,8 @@ Caru tapo 1613 m. Zemskinio susirinkimo išrinktas Michailas Fiodorovičius Roma
     sių apsiausties, Lenkijos ir Lietuvos pajė-
     gos užėmė Smolenską.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -113,8 +79,8 @@ Caru tapo 1613 m. Zemskinio susirinkimo išrinktas Michailas Fiodorovičius Roma
     1613 m. Zemskinio susirinkimo išrinktas
     Michailas Fiodorovičius Romanovas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -33,17 +33,6 @@ Karijotaičiai Podolėje pastatė Smotričo, Bakotos, Kameneco pilis, užage —
 - t-001
   global_id: t-41758
   teiginys: "Karijotaičiai Podolėje pastatė Smotričo, Bakotos ir Kameneco pilis."
-  semantiniai_rysiai: "Karijotaičiai pastatė Kameneco pilis (pilis) (0.93)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "180764-180881; hash=2107c408afcc0dd92ee097c4d58e5ef4f691bd5dc297f107084cd4295ecc2634; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "pastate -> Kameneco pilis (pilis): 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Karijotaičiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Kameneco pilis (pilis): llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Karijotaičiai pastatė Kameneco pilį."
   pagrindžia:
     - c-45122
 - susijęs iš Bakotos pilis (pilis): Karijotaičiai Podolėje pastatė Smotričo, Bakotos ir Kameneco pilis.
@@ -67,8 +56,8 @@ Karijotaičiai Podolėje pastatė Smotričo, Bakotos, Kameneco pilis, užage —
 
     valdė visą šią žemę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

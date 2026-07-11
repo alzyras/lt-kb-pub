@@ -30,22 +30,6 @@ Dionyzas iš Charakso, aprašinėjęs pasaulį Oktaviano Augusto laikais, minėj
 - t-001
   global_id: t-191831
   teiginys: "Dionyzas iš Charakso, aprašinėjęs pasaulį Oktaviano Augusto laikais, minėjo Pantikapo ir Aldeskos upes, susiliejančias ir įtekančias į gintaro pakrančių jūrą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Gelonai gyveno Pripetė (0.76)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "389254-389677; hash=54c5260554b72eb46792bb6f6f088c4d5e813dc8c4e927085ee73200b405646f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Pripetė: 0.76"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gelonai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Pripetė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata lokalizuoja gelonų tautą upės aukštupyje, kurį kontekstas sieja su Pripete."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174713
 ## Reikšmingi paminėjimai
@@ -63,8 +47,8 @@ Dionyzas iš Charakso, aprašinėjęs pasaulį Oktaviano Augusto laikais, minėj
     nės sutampa. Sis geografas pastarosios aukštupyje kuo
     aiškiausiai apgyvendina gelonų tautą2.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -75,7 +59,8 @@ Dionyzas iš Charakso, aprašinėjęs pasaulį Oktaviano Augusto laikais, minėj
 - id: c-174713
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 211"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 211."
   citata_originali: |
     Dionyzas iš Charakso, imperatoriaus Oktaviano
     Augusto laikais aprašinėjęs pasaulį geografiškai, mini dvi

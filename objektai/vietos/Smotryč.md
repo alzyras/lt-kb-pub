@@ -35,17 +35,6 @@ Podolėje Karijotaičiai ėmė įvesti tvarką, statyti pilis (Kamieniecą, Smot
 - t-001
   global_id: t-32562
   teiginys: "Podolėje Karijotaičiai statė pilis, tarp jų Smotryčą, ir ėmė tvarkyti krašto ūkinį gyvenimą."
-  semantiniai_rysiai: "Karijotaičiai pastatė Smotryč (0.86)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "724075-724524; hash=e73984ab806815341b25cd59311c950d4a79175587dd941d670143c8679a4475; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "pastate -> Smotryč: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Karijotaičiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Smotryč: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai priskiria Karijotaičiams pilių statymą, tarp jų Smotryčą."
   pagrindžia:
     - c-34040
 ## Reikšmingi paminėjimai
@@ -63,8 +52,8 @@ Podolėje Karijotaičiai ėmė įvesti tvarką, statyti pilis (Kamieniecą, Smot
     kunigaikščio priklausomybėje, kai Kijevą valdė jaunesnis Gedimino
     brolis Teodoras.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -93,6 +82,3 @@ Podolėje Karijotaičiai ėmė įvesti tvarką, statyti pilis (Kamieniecą, Smot
   patikimumo_saltinis: ai
   pagrindzia:
     - t-32562
-
-## Ryšiai
-- Buvo pastatyta: [[objektai/grupes/Karijotaičiai]]

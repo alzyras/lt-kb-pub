@@ -39,9 +39,6 @@ Vartojamos formos: `šaldrų`, `prašaleičių`, `prašaleičiai`.
 - t-004
   global_id: t-70422
   teiginys: "Šaldros buvo į kraštą atklydę prašalaičiai, mėginę įbrukti savo nuomonę apie dievą ir įkurti naują tikybą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "185510-185725; hash=227c381ccd63da3932768b087dace54b35dfcfa4ce8424a7f423a33139502152; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-09774
     - c-09775
@@ -50,9 +47,6 @@ Vartojamos formos: `šaldrų`, `prašaleičių`, `prašaleičiai`.
 - t-003
   global_id: t-70423
   teiginys: "`Šaldrų / prašaleičių` šiame tekste reiškia svetimus atvykėlius ar prašalaičius."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "185510-185725; hash=227c381ccd63da3932768b087dace54b35dfcfa4ce8424a7f423a33139502152; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-09774
 ## Reikšmingi paminėjimai
@@ -62,8 +56,8 @@ Vartojamos formos: `šaldrų`, `prašaleičių`, `prašaleičiai`.
   citata_originali: |
     Užvis jog šaldrų^709 ir prašaleičių, atklydusių į savo kraštą, kurie norėjo savo nuomonę apie dievą jiems įbrukti ir tikybą naują įkurti, tuos, kaipo norinčius sau valdžią įgyti ir svietą nuvergti, be meilės galavo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -80,8 +74,8 @@ Vartojamos formos: `šaldrų`, `prašaleičių`, `prašaleičiai`.
         ąžuolo buvusi anga, o užpakalinėj rūsiai, kuriuose indai ir kiti įrankiai, tai lietai^772 derantys, buvę
         laikomi.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -47,19 +47,6 @@ Vartojama plačiai ir metaforiškai, kalbant apie tautinius, krašto, senovės i
 - t-001
   global_id: t-192137
   teiginys: "Teodoras Narbutas tautinius paminklus vaizduoja kaip su laisve ir namų taika susijusius tautos atminties ženklus."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "47478-48288; hash=781c2ebbb6f267d848f95582cc31f647419955f1f63d09e29bea35ccd4b7f292; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  ryšio_patikimumas: "susije_su -> Teodoras Narbutas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "paminklai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Teodoras Narbutas: mention_match, person, gap=28"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"paminklai\" parinktas kaip owner_note_path. Targetas \"Teodoras Narbutas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175026
 
@@ -67,19 +54,6 @@ Vartojama plačiai ir metaforiškai, kalbant apie tautinius, krašto, senovės i
 - t-003
   global_id: t-192138
   teiginys: "Teodoras Narbutas Prūsų kronikininkus vaizduoja palikusius įspūdingą paminklų lobį, bet daug ką nutylėjusius."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "50096-50342; hash=de2611c3175a1fab4cf5f3f7111097bf7049212eacf48a03b03bc1ae85443d41; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  ryšio_patikimumas: "susije_su -> Prūsai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "paminklai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Prūsai: mention_match, group, gap=51"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"paminklai\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175027
 
@@ -87,19 +61,6 @@ Vartojama plačiai ir metaforiškai, kalbant apie tautinius, krašto, senovės i
 - t-002
   global_id: t-192139
   teiginys: "Teodoras Narbutas mitologinius paminklus apibūdina kaip versmę, iš kurios trykšta istorijos šaltiniai."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "48014-48692; hash=31838d4547e2b3e3b6f55bc6f67ab85c9cc3a5689fd19752751ae2c3cca8c64b; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  ryšio_patikimumas: "susije_su -> Teodoras Narbutas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "paminklai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Teodoras Narbutas: mention_match, person, gap=31"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"paminklai\" parinktas kaip owner_note_path. Targetas \"Teodoras Narbutas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175025
 
@@ -107,21 +68,6 @@ Vartojama plačiai ir metaforiškai, kalbant apie tautinius, krašto, senovės i
 - t-004
   global_id: t-192567
   teiginys: "Teodoras Narbutas rašo, kad prarasti paminklai palaidojo neįkainojamą tautos istoriją."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "48014-48692; hash=31838d4547e2b3e3b6f55bc6f67ab85c9cc3a5689fd19752751ae2c3cca8c64b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Teodoras Narbutas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "paminklai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Teodoras Narbutas: mention_match, person, gap=37"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"paminklai\" parinktas kaip owner_note_path. Targetas \"Teodoras Narbutas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175025
 
@@ -129,21 +75,6 @@ Vartojama plačiai ir metaforiškai, kalbant apie tautinius, krašto, senovės i
 - t-005
   global_id: t-192568
   teiginys: "Teodoras Narbutas teigia, kad Prūsų kronikininkai paliko įspūdingą paminklų lobį, bet daug nutylėjo ir praleido."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "50151-50461; hash=ea5c688cdc3a7e2253ed9ef9444502e1b48d0ebc9cb0853a05dae86b668241af; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Prūsai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "paminklai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Prūsai: mention_match, group, gap=37"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"paminklai\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175346
 - susijęs iš [[objektai/zodynas/pilkapis.md#claim-t-192276|pilkapis]]: Teodoro Narbuto užrašytuose pasakojimuose kaimiečiai neliečia pilkapių iš pagarbos po jais besiilsinčių žmonių palaikams.
@@ -175,8 +106,8 @@ Vartojama plačiai ir metaforiškai, kalbant apie tautinius, krašto, senovės i
     trykšta istorijos šaltiniai; šiame tome dėstysime pačią
     istoriją.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -204,8 +135,8 @@ Vartojama plačiai ir metaforiškai, kalbant apie tautinius, krašto, senovės i
     tose, kur giesmės, pasakojimai ir sakmės primindavo da­
     lykus, susijusius su brangiais gimtaisiais prisiminimais.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -221,8 +152,8 @@ Vartojama plačiai ir metaforiškai, kalbant apie tautinius, krašto, senovės i
     liko mums įspūdingą paminklų lobį, bet jie daug ką nu­
     tylėjo, dar daugiau praleido dėl neatidumo.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -239,8 +170,8 @@ Vartojama plačiai ir metaforiškai, kalbant apie tautinius, krašto, senovės i
     Livonijos, autoriai pas naujesnius senovės tyrinėtojus at­
     randa nemažai vertingų tautos istorijos perlų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -251,7 +182,8 @@ Vartojama plačiai ir metaforiškai, kalbant apie tautinius, krašto, senovės i
 - id: c-175025
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 29"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 29."
   citata_originali: |
     Buvo sudaužytos gimtųjų dievų statulos, su­
     griautos šventyklos, iškirsti šventieji šilai, įvesta kita
@@ -279,7 +211,8 @@ Vartojama plačiai ir metaforiškai, kalbant apie tautinius, krašto, senovės i
 - id: c-175026
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 29"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 29."
   citata_originali: |
     Ginkluoti krikštyto­
     jai, turėdami laukines širdis ir atlikdami baisius darbus,
@@ -307,7 +240,8 @@ Vartojama plačiai ir metaforiškai, kalbant apie tautinius, krašto, senovės i
 - id: c-175027
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 30"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 30."
   citata_originali: |
     Tačiau jis nesuskubo įgyvendin­
     ti visų savo ketinimų. Iš tikrųjų jis negailėjo darbo, bet
@@ -325,7 +259,8 @@ Vartojama plačiai ir metaforiškai, kalbant apie tautinius, krašto, senovės i
 - id: c-175346
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 30"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 30."
   citata_originali: |
     Iš tikrųjų jis negailėjo darbo, bet
     nemokėjo juo laimingai naudotis. Prūsų kronikininkai pa­

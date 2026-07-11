@@ -34,9 +34,6 @@ Bandtkie Dzieje Królestwa Polskiego, I, p. 211, ir paga­ liau Kownacki Histor.
 - t-001
   global_id: t-88073
   teiginys: "Kownackis nenorėjo tikėti, kad miestai patys vieni galėjo pristatyti tokią daugybę ginkluotų žmonių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "37600-37900; hash=8de9dedec8d4e63060f05319d0cd6936b81cdd5013f9030ae572c6a79611659a; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-84052
 ## Reikšmingi paminėjimai
@@ -56,8 +53,8 @@ Bandtkie Dzieje Królestwa Polskiego, I, p. 211, ir paga­ liau Kownacki Histor.
     patys vieni būtų galėję anais laikais
     pristatyti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -32,14 +32,6 @@ Juos Užkalnių kaimą ir pietinius Barklainius. Viduriniajai vorai po atkaklių
 - t-001
   global_id: t-193792
   teiginys: "Viduriniajai vorai po atkaklių kautynių pavyko užimti Užkalnius, Ėriškėlius ir Barklainius."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "739596-739948; hash=377067e51a5d2220388e8430c0d112781b3ca52fb7642b12d0b1af2fb6f71732; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-176438
 ## Reikšmingi paminėjimai
@@ -61,8 +53,8 @@ Juos Užkalnių kaimą ir pietinius Barklainius. Viduriniajai vorai po atkaklių
     sutiko stiprų bolševikų pasipriešinimą,
     kurio metu žuvo kolonos vadas karin.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

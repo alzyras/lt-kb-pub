@@ -42,22 +42,6 @@ media_all_json: |-
 - t-003
   global_id: t-183343
   teiginys: "Juozas Ambrazevičius konstatavo, kad vyriausybė savo veikimą sustabdė prieš savo valią."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: iki 1940 m.; įvykio data: 1940 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys perrašytas su pilnu asmens vardu ir be kabutinės fragmentiškos formuluotės."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "398926-399907; hash=fc66acfc256c7fd9f105cabc31916489c316064c14aca8c1fe924c509bc7d6c9; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> „laiko savo veikimą sustabdytu prieš savo valią“: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Juozas Ambrazevičius: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "„laiko savo veikimą sustabdytu prieš savo valią“: mention_match, thing, gap=48"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Juozas Ambrazevičius\" parinktas kaip owner_note_path. Targetas \"„laiko savo veikimą sustabdytu prieš savo valią“\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-166734
 - susijęs iš [[objektai/grupes/Laikinoji vyriausybė.md#claim-t-19775|Laikinoji vyriausybė]]: 1941 m. birželio 23 d. sudarytos Laikinosios vyriausybės vadovu tapo literatūros dėstytojas Juozas Ambrazevičius.
@@ -85,8 +69,8 @@ media_all_json: |-
     mininkui J. Ambrazevičiui teko konstatuoti, kad vyriausybė „laiko savo
     veikimą sustabdytu prieš savo valią“.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

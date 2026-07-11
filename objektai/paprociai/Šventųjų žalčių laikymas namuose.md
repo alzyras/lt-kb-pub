@@ -52,11 +52,6 @@ Nenurodyta
 - t-001
   global_id: t-10822
   teiginys: "Aisčiai namuose laikė šventuosius žalčius kaip namų globėjus, o juos įvesdavo į paskirtą guolį su apeigomis."
-  teiginio_tipas: "faktas"
-  susije_objektai: "mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "84494-84823; hash=183461c7526d4bcea960d4d765d00b3711a92d9a8d94b818ed224c92ff4916f0; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
   pagrindžia:
     - c-00240
 ## Reikšmingi paminėjimai
@@ -71,8 +66,8 @@ Nenurodyta
     būdavo įvedami su tam tikromis apeigomis ir ten buvo laikomi,
     kaip namų globėjai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

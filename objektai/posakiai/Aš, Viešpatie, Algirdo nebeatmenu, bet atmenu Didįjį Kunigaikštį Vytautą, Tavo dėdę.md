@@ -34,16 +34,6 @@ media_all_json: |-
 - t-001
   global_id: t-95934
   teiginys: "Kazimiero laikų dokumente valstietis dėl kaimo mokesčių sakė nebeatsimenantis Algirdo, bet atsimenantis Vytautą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "603663-604162; hash=03f9cdfc8a2d9019b12dc60b76f8b8aefc447e7a0e010bf11718168388225eb1; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aš, Viešpatie, Algirdo nebeatmenu, bet atmenu Didįjį Kunigaikštį Vytautą, Tavo dėdę: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aš, Viešpatie, Algirdo nebeatmenu, bet atmenu Didįjį Kunigaikštį Vytautą, Tavo dėdę\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-90730
 ## Reikšmingi paminėjimai
@@ -63,8 +53,8 @@ media_all_json: |-
 
     (^1) ) Ibid.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

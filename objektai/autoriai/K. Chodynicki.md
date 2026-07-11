@@ -41,18 +41,6 @@ Chodynicki 1926, sulaukdamas kitų tyrinėtojų pritarimo. Chodynicki, K. Chodyn
 - t-001
   global_id: t-30729
   teiginys: "K. Chodynicki 1926 m. paskelbė darbą „Geneza dynastii Giedymina“."
-  temporaliniai_duomenys: "įvykio data: 1926 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "603413-604164; hash=6b92075ea0dc0cd895a037bd3cbe7444427d5559629a9f9e7c8bfda659bc2738; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gediminas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "K. Chodynicki: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Gediminas: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"K. Chodynicki\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-32990
 
@@ -60,16 +48,6 @@ Chodynicki 1926, sulaukdamas kitų tyrinėtojų pritarimo. Chodynicki, K. Chodyn
 - t-002
   global_id: t-30731
   teiginys: "K. Chodynicki gynė Gedimino laiškų autentiškumą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "632186-632659; hash=9f49043194ce01b9689e5d268268f96b0436cd0acb0e02306af5190ebff8b2d6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "K. Chodynicki: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=19"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"K. Chodynicki\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-32989
 ## Reikšmingi paminėjimai
@@ -86,8 +64,8 @@ Chodynicki 1926, sulaukdamas kitų tyrinėtojų pritarimo. Chodynicki, K. Chodyn
     rygiečių ir Gedimino politinio veikimo produktu (J. Jakštas, Z.
     Ivinskis).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -108,8 +86,8 @@ Chodynicki 1926, sulaukdamas kitų tyrinėtojų pritarimo. Chodynicki, K. Chodyn
     kilmės tyrinėjimai,_ LP, I, 1, 1940, 29-56 p. (kritiškas įvertinimas ikito­
     linių studijų).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

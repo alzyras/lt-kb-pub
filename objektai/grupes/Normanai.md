@@ -42,17 +42,6 @@ Pirmieji normanai iš Skandina­ vijos, IX amžiuje Rusioje žinomi variagų var
 - t-002
   global_id: t-86723
   teiginys: "Normanų piratų lankytas kraštas apėmė Baltijos jūros pakrantę nuo Vyslos žiočių iki Suomijos įlankos."
-  semantiniai_rysiai: "Normanai keliavo į Baltija (0.72)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "53258-53961; hash=452f0ebd7a93ef631822eb207a85caf0bf49667fe22eeec15cf1e7a6de09e1c4; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Baltija: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Normanai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Baltija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Kraštas prie Baltijos pakrantės apibūdinamas kaip normanų piratų lankytas, tad fiksuojama jų kelionių kryptis."
   pagrindžia:
     - c-82702
 
@@ -60,17 +49,6 @@ Pirmieji normanai iš Skandina­ vijos, IX amžiuje Rusioje žinomi variagų var
 - t-001
   global_id: t-86724
   teiginys: "IX amžiuje Rusioje variagais vadinti normanai iš Skandinavijos Baltijos pakrantėse siekė plėšikavimo ir prekybos."
-  semantiniai_rysiai: "Normanai keliavo į Baltija (0.76)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "51446-52559; hash=f8ee518e382d76752835146dd3571dd4876dd3f62372c5e6c625b4a7ca9edc1b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Baltija: 0.76"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Normanai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Baltija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata nurodo normanų žygius į Baltijos pakrantes."
   pagrindžia:
     - c-82701
 
@@ -78,22 +56,6 @@ Pirmieji normanai iš Skandina­ vijos, IX amžiuje Rusioje žinomi variagų var
 - t-003
   global_id: t-188289
   teiginys: "Narbutas rašo, kad šiaurės sagose minimi normanų jūros žygiai į turtingą Permę, arba Biarmiją."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Normanai surengė žygį į Biarmija (0.80)"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "374183-374607; hash=75a7e4135ed95a749518e08b6e7da311433ab64b1e08a488b94a93c48f8c9b76; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "surenge_zygi_i -> Biarmija: 0.80"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Normanai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Biarmija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai mini normanų jūros žygius į Permę, arba Biarmiją."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171182
 - susijęs iš [[objektai/zodynas/Eistr.md#claim-t-32750|Eistr]]: Rytų Pabaltijui vieną kartą buvo pavartotas senasis terminas „Eistr“ „Saga Olafs konungs Tryggvasonar“ tekste.
@@ -162,8 +124,8 @@ Pirmieji normanai iš Skandina­ vijos, IX amžiuje Rusioje žinomi variagų var
     tur, quod in Littwanico, terra inferior,
     interpretatur.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -195,8 +157,8 @@ Pirmieji normanai iš Skandina­ vijos, IX amžiuje Rusioje žinomi variagų var
     į didesnes išvykas, į kitą Baltijos pu­
     sę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -215,8 +177,8 @@ Pirmieji normanai iš Skandina­ vijos, IX amžiuje Rusioje žinomi variagų var
     Hanaldas Graurokas darė jūros žygius į Biarmenlandiją. Tai buvo X
     amžiaus pirmojoje pusėje (Sagaen Bibliothek v.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -303,7 +265,8 @@ Pirmieji normanai iš Skandina­ vijos, IX amžiuje Rusioje žinomi variagų var
 - id: c-171182
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 219"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 219."
   citata_originali: |
     Panemunių Žemaitijoje paplitęs garsus padavimas skel­
     bia štai ką . Jūrininkai, atplaukę iš už jūros, plaukė Nemunu
@@ -322,6 +285,3 @@ Pirmieji normanai iš Skandina­ vijos, IX amžiuje Rusioje žinomi variagų var
 
 ## Ryšiai
 - Prekiavo su: [[objektai/grupes/Lietuviai]]
-- Normanai keliavo į [[objektai/vietos/Baltija]]
-- Normanai surengė žygį į [[objektai/vietos/Biarmija]]
-- Normanai gyveno [[objektai/vietos/Lietuva]]

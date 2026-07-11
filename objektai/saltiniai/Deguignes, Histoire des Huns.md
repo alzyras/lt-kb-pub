@@ -40,12 +40,6 @@ Pranešimas apie jos mirtį yra 74 Livonijos ordino magistro laiške Degu i gne 
 - t-001
   global_id: t-194321
   teiginys: "Pranešimas apie jos mirtį yra 74 Livonijos ordino magistro laiške Degu i gne sHistoiredes Huns."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "334768-335058; hash=3802d8b3be60e6c771693dd7b426b725ef1136274967e8a9aa5e866f284e1f05; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176913
 ## Reikšmingi paminėjimai
@@ -60,8 +54,8 @@ Pranešimas apie jos mirtį yra 74 Livonijos ordino magistro laiške Degu i gne 
     gos 1418 metų rugpjūčio 11 dieną; 1419 m. ir Naruszewicz  Taurykū,
     iš pastarojo aišku, kad kunigaikštie- p. 78.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

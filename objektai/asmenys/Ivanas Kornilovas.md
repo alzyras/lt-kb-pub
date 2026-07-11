@@ -33,16 +33,6 @@ Muravjovas, pasikvietęs į pagalbą seną savo pažįstamą Ivaną Kornilovą, 
 - t-001
   global_id: t-18931
   teiginys: "Ivanas Kornilovas Muravjovo kvietimu prisidėjo prie rusinimo politikos ir buvo paskirtas Vilniaus švietimo apygardos globėju."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "215945-216214; hash=e2ac97c1474afdc47931551aa1b977495a3a691bd09645c9d0b98ba05b0bb6bc; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ivanas Kornilovas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=89"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ivanas Kornilovas\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-21692
 ## Reikšmingi paminėjimai
@@ -56,8 +46,8 @@ Muravjovas, pasikvietęs į pagalbą seną savo pažįstamą Ivaną Kornilovą, 
     pagalbą seną savo pažįstamą Ivaną Kornilovą, kuris buvo paskirtas Vil-
     niaus švietimo apygardos globėju.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

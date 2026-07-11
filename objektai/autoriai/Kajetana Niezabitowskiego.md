@@ -38,17 +38,6 @@ Narbutas turėjo omenyje 1823 m. „Dziennik Wileński“ paskelbtą Kajetano Ni
 - t-001
   global_id: t-190433
   teiginys: "Narbutas turėjo omenyje 1823 m. „Dziennik Wileński“ paskelbtą Kajetano Niezabitowskio straipsnį apie Dionizo Poškos rinkinį."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1823 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Bibliografinis fragmentas sutrumpintas iki rišlaus teiginio apie straipsnį ir autorių. Nepridėta straipsnio turinio, kurio citata nepateikia."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "886069-886357; hash=c5f7183b1f61ec0eed8a179fc58f3d6242ca8c78fe2b80e10e6af98b92e49062; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173316
 - susijęs iš [[objektai/autoriai/Kajetonas Niezabitowskis.md#claim-t-190434|Kajetonas Niezabitowskis]]: Narbutas turėjo omenyje 1823 m. „Dziennik Wileński“ paskelbtą Kajetono Niezabitowskio straipsnį apie Dionizo Poškos rinkinį.
@@ -66,8 +55,8 @@ Narbutas turėjo omenyje 1823 m. „Dziennik Wileński“ paskelbtą Kajetano Ni
     przez Kajetana Niezabitowskiego H Dziennik Wi-
     lenski. -  1823. -  T. II. -  S. 157-161.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -78,7 +67,8 @@ Narbutas turėjo omenyje 1823 m. „Dziennik Wileński“ paskelbtą Kajetano Ni
 - id: c-173316
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 506"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 506."
   citata_originali: |
     T. Nar­
     butas turėjo omenyje straipsnį: Krotki spis

@@ -40,22 +40,6 @@ Petras Miškovskis nuo 1499.V. buvo Belzo vaivada.
 - t-001
   global_id: t-187164
   teiginys: "Petras Miškovskis nuo 1499 m. gegužės buvo Belzo vaivada ir Lvovo generalinis seniūnas."
-  teiginio_tipas: "faktas"
-  temporaliniai_duomenys: "įvykio data: po 1499 m.; įvykio data: 1499 m.; įvykio data: 1503 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Išplėsta data ir pridėtas tiesiogiai cituotas susijęs titulas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "640865-641088; hash=0f8c25ca0796a9fda36812da6ff2f2ea6e3e0907b8a1e6192c0ee8d68b15a934; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  ryšio_patikimumas: "susije_su -> Lvovas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Belzas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lvovas: mention_match, place, gap=17"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Belzas\" parinktas kaip owner_note_path. Targetas \"Lvovas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-170260
 - susijęs iš [[objektai/ivykiai/Lenkų žygis prie Belzo ir Kęstučio išderėtos paliaubos (1377 m.).md#claim-t-185738|Lenkų žygis prie Belzo ir Kęstučio išderėtos paliaubos (1377 m.)]]: Prie Sandomiro sutelkta lenkų kariuomenė buvo padalyta: Sendzivojus iš Šubino pasiųstas pulti Chelmo, o karalius nuvedė pajėgas prie Belzo.
@@ -84,8 +68,8 @@ Petras Miškovskis nuo 1499.V. buvo Belzo vaivada.
     ’• Petras Miškovskis (Myskowsky d e Przeczyciow) nuo 1499.V.
     buvo Belzo vaivada ir Lvovo generaliniu seniūnu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -113,4 +97,3 @@ Petras Miškovskis nuo 1499.V. buvo Belzo vaivada.
 
 ## Ryšiai
 - Apgulė Belzą: [[objektai/grupes/Lenkai]]
-- Belzas priklausė [[objektai/asmenys/Jurgis Narimantaitis]]

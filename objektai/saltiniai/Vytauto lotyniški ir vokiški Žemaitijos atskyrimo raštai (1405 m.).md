@@ -38,20 +38,6 @@ Vytauto lotyniški ir vokiški raštai skelbė, kad Žemaitija atskiriama nuo Li
 - t-003
   global_id: t-186303
   teiginys: "Vytauto lotyniški ir vokiški raštai skelbė, kad Žemaitija atskiriama nuo Lietuvos ir prijungiama prie kryžiuočių valdų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Žemaitija priklausė Kryžiuočių ordinas (0.82)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "635310-635911; hash=b1b1efa160f838f4690267b5720d3e5407e87c24a03deb89bc705cfbfe82bd53; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Kryžiuočių ordinas: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Žemaitija: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Raštai skelbė Žemaitijos prijungimą prie kryžiuočių valdų, todėl santykis sieja Žemaitiją su Ordinu."
   pagrindžia:
     - c-169664
 
@@ -59,12 +45,6 @@ Vytauto lotyniški ir vokiški raštai skelbė, kad Žemaitija atskiriama nuo Li
 - t-004
   global_id: t-193376
   teiginys: "Kad ir kitais metais, Vy tauto įsakymu ir jam pačiam vadovaujant, vyko kovos su skitais, įrodo tai, jog, pasak senų metraščių, tais me tais, kaip ten sakoma, kovoje su skitais žuvęs Vytauto brolis Patrikas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "617262-618034; hash=a036dad3968edd458a6bb4e199a68f8feb5b6c8e5fe1cb3b4f0507656751fae7; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176101
 
@@ -72,12 +52,6 @@ Vytauto lotyniški ir vokiški raštai skelbė, kad Žemaitija atskiriama nuo Li
 - t-005
   global_id: t-193377
   teiginys: "Pasak kurių ne kurių metraštininkų, buvę dar nutarta, jog po Jogailos mirties Vytautas paveldėsiąs karalystę, tačiau pačiuose sutarties raštuose apie tai nieko nesakoma."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "628221-628698; hash=4a4b6cd76980217ebbf87b3210efc9ede05200dd9875bf4114691e42b909d431; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176102
 ## Reikšmingi paminėjimai
@@ -108,8 +82,8 @@ Vytauto lotyniški ir vokiški raštai skelbė, kad Žemaitija atskiriama nuo Li
     kurie skelbė, jog Žemaitija atskiriama nuo Lietuvos ir
     prijungiama prie kryžiuočių valdų.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -141,8 +115,8 @@ Vytauto lotyniški ir vokiški raštai skelbė, kad Žemaitija atskiriama nuo Li
     gą dėl pasirengimo, užmiršo
     tų metų įvykius paminėti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -164,8 +138,8 @@ Vytauto lotyniški ir vokiški raštai skelbė, kad Žemaitija atskiriama nuo Li
     Sutrctm dom i valachai,
     manas Petrilovičius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -176,7 +150,8 @@ Vytauto lotyniški ir vokiški raštai skelbė, kad Žemaitija atskiriama nuo Li
 - id: c-169664
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 364"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 364."
   citata_originali: |
     V y ta u ta s
     a tid u o d a
@@ -209,7 +184,8 @@ Vytauto lotyniški ir vokiški raštai skelbė, kad Žemaitija atskiriama nuo Li
 - id: c-176101
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 354"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 354."
   citata_originali: |
     Nors, atlyginant skriaudas, kurias
     jie gana dažnai patiria iš krikščionių, kunigaikščiai lei­
@@ -242,7 +218,8 @@ Vytauto lotyniški ir vokiški raštai skelbė, kad Žemaitija atskiriama nuo Li
 - id: c-176102
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 360"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 360."
   citata_originali: |
     Abiejų tautų priešai būsią
     bendri, bet kuriame kare jos viena kitai teiksiančios

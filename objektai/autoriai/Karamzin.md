@@ -43,20 +43,6 @@ media_all_json: |-
 - t-001
   global_id: t-88071
   teiginys: "Karamzinas nurodė, kad Karaliaučiaus Kryžiuočių slaptajame archyve buvo Vytauto laiškų magistrui Rusdorfui."
-  semantiniai_rysiai: "Vasiljevičius (Maskvos valdovas) buvo valdovas Maskva (0.90)"
-  temporaliniai_duomenys: "įvykio data: 1430 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata leidžia pagrįsti teiginį apie Karamzino nurodytus Vytauto laiškus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "352857-354283; hash=15393e5f6fbcaabcb12093d32883b9b48769c242a26e1431732c76412d4847b2; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_valdovas -> Maskva: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vasiljevičius (Maskvos valdovas): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Maskva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Frazė tiesiogiai įvardija Vasiljevičių Maskvos didžiuoju kunigaikščiu."
   pagrindžia:
     - c-84050
 - susijęs iš [[objektai/autoriai/Rėza (leidėjas, 1818 m.).md#claim-t-188470|Rėza (leidėjas, 1818 m.)]]: Narbutas nurodo, kad Rėza „Dainose“ gynė Lietuvos kronikininkus nuo XVIII a. kritikų priekaištų dėl išgalvotų vardų.
@@ -107,8 +93,8 @@ media_all_json: |-
     vaivados, ir bajorai iš visų žemių pas
     jį buvo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

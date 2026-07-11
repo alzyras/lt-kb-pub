@@ -30,19 +30,6 @@ Ivanui Liackiui atiteko Želudokas ir Aukštadvaris, o jo giminė išgarsėjo ta
 - t-001
   global_id: t-186075
   teiginys: "Ivanui Liackiui atiteko Želudokas ir Aukštadvaris, o jo giminė išgarsėjo taikos darbais, karo žygiais ir aukštomis pareigybėmis."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1183526-1183919; hash=c47f861951ac0c130e95713a33c5a3a938296f95f260d0815b61d9c63cad7e5f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Simonas Belskis ir Ivanas Liackis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Simonas Belskis ir Ivanas Liackis\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-169436
 ## Reikšmingi paminėjimai
@@ -61,8 +48,8 @@ Ivanui Liackiui atiteko Želudokas ir Aukštadvaris, o jo giminė išgarsėjo ta
     suteiktos valdos, Žiežmariai, Stakliškės bei Karmėla­
     va, ilgainiui prarado bajoriškąją jurisdikciją.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -73,7 +60,8 @@ Ivanui Liackiui atiteko Želudokas ir Aukštadvaris, o jo giminė išgarsėjo ta
 - id: c-169436
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 664"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 664."
   citata_originali: |
     Karalius
     maloniai

@@ -50,9 +50,6 @@ Nenurodyta
 - t-001
   global_id: t-66463
   teiginys: "1697 m. elekcijoje po Jono Sobieskio mirties iš 18 kandidatų stipriausi atrodė princas Kontys ir Austrijos remiamas Jokūbas."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "749968-750265; hash=b86f712f93afa7b80083b8c29e85540687b438083e1fbf9e12a62f158db49e16; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-66692
 
@@ -60,9 +57,6 @@ Nenurodyta
 - t-002
   global_id: t-66464
   teiginys: "Per 1697 m. elekciją dalis bajorijos karaliumi paskelbė Fridriką Augustą, o prancūziškoji partija atskirai išrinktu paskelbė princą Kontį."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "750805-751109; hash=011900d4644f77de85db4a2232f53b27e53b978f1faa67db9b1ed2ce2d55b794; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-66691
 ## Reikšmingi paminėjimai
@@ -78,8 +72,8 @@ Nenurodyta
     rūnavosi. Kontys irgi atplaukė į Dancigą. Jo šalininkai sudarė
     konfederaciją jam paremti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -100,8 +94,8 @@ Nenurodyta
     Bet Jokūbas buvo nepo-
     puliarus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -42,16 +42,6 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
 - t-004
   global_id: t-58407
   teiginys: "Dusburgietis personifikuoja Šventąją žemę kaip krikščionių tautas į pagalbą ir išvadavimą kviečiančią žemę."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "729430-729864; hash=4768d51352adb8b1c3ed79ca69f6ac09037c96880e08ed70fa42a62ae6f492fd; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Skydas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Šventoji žemė: owner_note_path, place"
-  ryšio_targeto_parinkimas: "Skydas: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šventoji žemė\" parinktas kaip owner_note_path. Targetas \"Skydas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-59040
 
@@ -59,19 +49,6 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
 - t-002
   global_id: t-58408
   teiginys: "Karaliai ir kunigaikščiai buvo atsiėmę Šventąją žemę, bet vėliau ją prarado, o 1290 m. pagonys sugriovė Akono miestą."
-  temporaliniai_duomenys: "įvykio data: 1290 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pagrindžia glaustą faktą apie Šventosios žemės praradimą ir Akono sugriovimą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "727774-728619; hash=93380db0587da569b216e21b6b9b3589141378df4fed1b15984977675392eea7; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> kunigaikščiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Šventoji žemė: owner_note_path, place"
-  ryšio_targeto_parinkimas: "kunigaikščiai: mention_match, thing, gap=13"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šventoji žemė\" parinktas kaip owner_note_path. Targetas \"kunigaikščiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-59039
 
@@ -79,9 +56,6 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
 - t-003
   global_id: t-58409
   teiginys: "Dusburgietis Šventąją žemę vaizduoja kaip Dievo išrinktą, bet apleistą ir sielvarto prislėgtą žemę."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "728644-729252; hash=7753f0ba97885141e47d112f9c190287ac90e869b214046206c9b71443575574; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-59042
 
@@ -89,17 +63,6 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
 - t-001
   global_id: t-58410
   teiginys: "Omaras, trečias Mahometo karalystės paveldėtojas, įsiveržė į Šventąją žemę ir ją užėmė po Heraklijaus pasitraukimo."
-  semantiniai_rysiai: "Arabai užėmė Šventoji žemė (0.78); Arabai puolė Šventoji žemė (0.69)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "722633-723162; hash=d66b93419f6235e4e80c3cd17bd80207eb0d649ef314a041caa7323ae94609ad; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Šventoji žemė: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Arabai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Šventoji žemė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Šventosios žemės užėmimą arabų kunigaikščio veiksmu; leidžiamas subjektas yra arabai."
   pagrindžia:
     - c-59041
 ## Reikšmingi paminėjimai
@@ -121,8 +84,8 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
 
     galią.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -144,8 +107,8 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
 
                   81.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -164,8 +127,8 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
     sunkus netikėlių  ir žiauruolių valdžios jungas. Galop valdovas, ilgokai rūstinamas,
     pajuto širdyje užuojautą, matydamas savo Žmonių sielvartą, ir pakvietė iš.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -185,8 +148,8 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
     sodą, sugriovė tavo būstinę, leido užmiršti iškilmę ir subatą, padavė paniekai ir savo
     narso užsidegimui karalių ir kunigą”.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -197,7 +160,8 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
 - id: c-59039
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 241-242"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 241-242."
   citata_originali: |
     Šitaip jų nedraugai gavo viršų, o jie tapo pažeminti,
     nes jųjų priešai užgrobė ne tik žadėtąją žemę, bet beveik visas apygardas, miestus bei
@@ -222,7 +186,8 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
 - id: c-59040
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 242"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 242."
   citata_originali: |
     80. Šventoji žemė ragina krikščionis ją išvaduoti
 
@@ -246,7 +211,8 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
 - id: c-59041
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 240"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 240."
   citata_originali: |
     78. Apie šventosios žemės reikalus
 
@@ -267,7 +233,8 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
 - id: c-59042
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 242"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 242."
   citata_originali: |
     79. Dejonė dėl šventosios žemės apleidimo
 
@@ -285,7 +252,3 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58409
-
-## Ryšiai
-- Puolė Šventoji žemę: [[objektai/grupes/Arabai]]
-- Užėmė Šventoji žemę: [[objektai/grupes/Arabai]]

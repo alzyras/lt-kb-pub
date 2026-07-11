@@ -42,19 +42,6 @@ Iškilusi Popiežiaus diplomatas Fulvio Ruggieri (1572 m.) aprašo ATR valdovo a
 - t-001
   global_id: t-41521
   teiginys: "Fulvio Ruggieri 1572 m. rašė, kad Vilniuje karalius turėjo 180 sunkiosios artilerijos vienetų ir daug lengvosios artilerijos."
-  temporaliniai_duomenys: "valdymo laikotarpis: iki 1582 m.; valdymo laikotarpis: 1572 m.; valdymo laikotarpis: 1582 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Fulvio Ruggieri buvo valdovas Vilnius“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "390169-390855; hash=6ead60ff05efbb45c968ea5b4722cd2b68c35253adce528dad41fae48246519b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Artilerija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Fulvio Ruggieri aprašymas apie ATR valdovo artileriją Vilniuje: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Artilerija: mention_match, thing, gap=74"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Fulvio Ruggieri aprašymas apie ATR valdovo artileriją Vilniuje\" parinktas kaip owner_note_path. Targetas \"Artilerija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-44991
 ## Reikšmingi paminėjimai
@@ -73,8 +60,8 @@ Iškilusi Popiežiaus diplomatas Fulvio Ruggieri (1572 m.) aprašo ATR valdovo a
     Pskovo apgultis užsitęsė iki
     1582 m. sausio, antrajame etape
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

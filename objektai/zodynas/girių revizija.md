@@ -33,14 +33,6 @@ Maždaug tuo pat metu, kai buvo išmatuota žemė, buvo padaryta ir didžiojo ku
 - t-001
   global_id: t-193285
   teiginys: "Maždaug tuo pat metu, kai buvo išmatuota žemė, buvo padaryta ir didžiojo kunigaikščio girių revizija."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "510444-510612; hash=881d6cad07a1d86f650b4528d3444bc52b32037887076e3bd976b49ed02eb969; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-176014
 ## Reikšmingi paminėjimai
@@ -53,8 +45,8 @@ Maždaug tuo pat metu, kai buvo išmatuota žemė, buvo padaryta ir didžiojo ku
     padaryta ir didžiojo kunigaikščio girių revizija. Buvo išvestos jų
     sienos ir patikrintos naudojimosi teisės.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

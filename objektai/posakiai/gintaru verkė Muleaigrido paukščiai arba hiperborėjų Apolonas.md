@@ -30,21 +30,6 @@ Narbutas, atmesdamas mitinius gintaro kilmės aiškinimus, mini formulę apie Mu
 - t-001
   global_id: t-193003
   teiginys: "Narbutas pasakojimą, kad „gintaru verkė Muleaigrido paukščiai arba hiperborėjų Apolonas“, mini kaip senovės spėlionę apie gintaro kilmę."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "262340-262819; hash=b76bd0b4fe407cce25ca377bee1b9071954f806d93b77780a24c91ed5a41291c; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Hiperborėjai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "gintaru verkė Muleaigrido paukščiai arba hiperborėjų Apolonas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Hiperborėjai: mention_match, group, gap=41"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"gintaru verkė Muleaigrido paukščiai arba hiperborėjų Apolonas\" parinktas kaip owner_note_path. Targetas \"Hiperborėjai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175773
 ## Reikšmingi paminėjimai
@@ -64,8 +49,8 @@ Narbutas, atmesdamas mitinius gintaro kilmės aiškinimus, mini formulę apie Mu
     paverstus heliadus, iš kurių akių srūva gintaro lašai, ar­
     tėja prie tiesos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -76,7 +61,8 @@ Narbutas, atmesdamas mitinius gintaro kilmės aiškinimus, mini formulę apie Mu
 - id: c-175773
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 146"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 146."
   citata_originali: |
     150
     Kocebus teisingai vadina gintarą saulės akmeniu, se­

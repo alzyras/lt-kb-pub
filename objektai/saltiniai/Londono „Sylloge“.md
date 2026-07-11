@@ -30,21 +30,6 @@ Narbutas nurodo, kad įrašas į Londono „Sylloge“ pateko per Čemberleno pe
 - t-001
   global_id: t-190515
   teiginys: "Narbutas nurodo, kad įrašas į Londono „Sylloge“ pateko per Čemberleno perrašą iš Volfgango Lazijaus istorijos."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "811576-811962; hash=a65dde68976cdb9598979f7ae56ba04740c93c4a68047d3a036afdd62878bf11; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Londonas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Londono „Sylloge“: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Londonas: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Londono „Sylloge“\" parinktas kaip owner_note_path. Targetas \"Londonas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173398
 ## Reikšmingi paminėjimai
@@ -61,8 +46,8 @@ Narbutas nurodo, kad įrašas į Londono „Sylloge“ pateko per Čemberleno pe
     gdanskietis Kliuverijus (Cluverius), o vėliau - Dusburgiečio tęsėjas Hart-
     knochas**.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -73,7 +58,8 @@ Narbutas nurodo, kad įrašas į Londono „Sylloge“ pateko per Čemberleno pe
 - id: c-173398
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 446"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 446."
   citata_originali: |
     Gal būtų pradingus
     toji istorija, o kartu su ja ir tas brangus paminklas, jeigu ne mokslo

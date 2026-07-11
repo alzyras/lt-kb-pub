@@ -49,12 +49,6 @@ media_all_json: |-
 - t-010
   global_id: t-195167
   teiginys: "Vilniaus vyskupas Povilas parodė karaliui į katedros bažnyčią pilyje ir privertė jį pakeisti ketinimą."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Citata palaiko faktą apie katedros bažnyčią pilyje ir vyskupo veiksmą."
-  susije_objektai: "mentioned_place: Vilnius"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "541243-541559; hash=6622b159fb3d13ecc52d97b52c4646e995a81a459f2faf8e6dc4bb14167468bc; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177542
 
@@ -62,12 +56,6 @@ media_all_json: |-
 - t-018
   global_id: t-195168
   teiginys: "Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pilyje, pirmenybę teikdami Trakų piliai."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys yra pilnas ir pagrįstas citatoje pateiktu paaiškinimu."
-  susije_objektai: "mentioned_place: Trakai; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Lietuva"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "450832-451378; hash=f7a8398efa83c54ce697eaeff93b937698a8ec1aa548e56e88a96b6098ebe5fb; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177535
     - c-177532
@@ -78,16 +66,6 @@ media_all_json: |-
 - t-003
   global_id: t-195169
   teiginys: "1440 m. Daugirdas žemutinę Vilniaus pilį laikinai užėmė Švitrigailai, o Narbutas naktį užgrobė aukštutinę tvirtovę."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys yra faktinis, užbaigtas ir pagrįstas citata."
-  susije_objektai: "llm_object: Vilniaus pilys; mentioned_place: Vilnius; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Daugirdas|Daugirdas]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva; mentioned_place: Trakai"
-  semantiniai_rysiai: "[[objektai/asmenys/Daugirdas|Daugirdas]] užėmė Vilniaus pilys"
-  temporaliniai_duomenys: "įvykio data: 1440 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra faktinis, užbaigtas ir pagrįstas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "450832-451378; hash=f7a8398efa83c54ce697eaeff93b937698a8ec1aa548e56e88a96b6098ebe5fb; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177535
     - c-177536
@@ -97,12 +75,6 @@ media_all_json: |-
 - t-004
   global_id: t-195170
   teiginys: "Karalius Žygimantas savo sukauptas knygas lotynų, lenkų, rusų ir čekų kalbomis saugojo Vilniaus pilyje."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys yra aiškus faktinis sakinys ir atitinka citatą."
-  susije_objektai: "mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "541243-541559; hash=6622b159fb3d13ecc52d97b52c4646e995a81a459f2faf8e6dc4bb14167468bc; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177542
 
@@ -110,12 +82,6 @@ media_all_json: |-
 - t-013
   global_id: t-195171
   teiginys: "Dalis vietos gyventojų, siekdami apsisaugoti nuo kryžiuočių, ieškojo prieglobsčio prie Vilniaus pilies."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Pašalintas OCR triukšmas ir suformuotas aiškus sakinys."
-  susije_objektai: "mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "73298-73698; hash=24ae21112f580dde34ef8eb53a50258ade4d85279542b295f140eb671868708b; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177533
 
@@ -123,16 +89,6 @@ media_all_json: |-
 - t-014
   global_id: t-195172
   teiginys: "1345 m. lapkričio 22 d. Kęstutis su stipriu pulku užpuolė abi Vilniaus pilis ir apsupo didžiojo kunigaikščio buveinę."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys gramatiškas, konkretus ir paremtas citata."
-  susije_objektai: "llm_object: Vilniaus pilys; mentioned_place: Vilniaus pilis; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]"
-  semantiniai_rysiai: "[[objektai/asmenys/Kęstutis|Kęstutis]] puolė Vilniaus pilys"
-  temporaliniai_duomenys: "įvykio data: 1345 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys gramatiškas, konkretus ir paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "79137-79679; hash=82c875819de190261137cf0df0edeb8177d8e4d31c7018225182717f1c1880cf; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177541
 
@@ -140,12 +96,6 @@ media_all_json: |-
 - t-001
   global_id: t-195173
   teiginys: "Po gaisrų karalius atstatė Vilniaus pilį iš griuvėsių ir pavertė ją patogiais savo apartamentais."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Citata pagrindžia pilies atstatymą ir paskirtį, o pradiniame teiginyje buvo tik puslapio triukšmas."
-  susije_objektai: "mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "528397-528871; hash=eb0bf66e80b264d5dff51a956c6b33dc3f6b94cb4250c9b108d2645e5d538fa4; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177547
 
@@ -153,12 +103,6 @@ media_all_json: |-
 - t-005
   global_id: t-195174
   teiginys: "Vilniaus pilininkas ir miestiečiai, palaikę Jogailą, naktį sumušė Kęstučio įgulą ir atidavė Žemutinę bei Aukštutinę pilis Jogailai."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys aiškiai perteikia citatoje nurodytą įvykį."
-  susije_objektai: "mentioned_object: [[objektai/zodynas/Pilininkas|Pilininkas]]; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Hanulas|Hanulas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Trakai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "104659-105154; hash=eef6b6da4cc41a0b6bde47ae19bda4893764d3cdb8972eae225979ea85e435fe; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177537
 
@@ -166,12 +110,6 @@ media_all_json: |-
 - t-015
   global_id: t-195175
   teiginys: "Balińskis nurodė, kad po Šv. Onos bažnyčios fundacijos įrodymų tolesnių jos egzistavimo Vilniaus pilyje pėdsakų nėra."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Tai autoriaus vertinimas apie įrodymų būklę, todėl reikalinga atribucija."
-  susije_objektai: "mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "91310-91775; hash=c26b70d3a36f0babaca6b465ef3970727968bfb174b8e0c4fe8b82eb2f61ad31; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177543
 
@@ -179,12 +117,6 @@ media_all_json: |-
 - t-019
   global_id: t-195176
   teiginys: "[Rūstusai Žygimante, kaip senasis karalius mėtau žaibus, Nejaugi manai, kad tik karaliams paklūsta žaibai?] Vietovių pavadinimai yra tokie: Pirmajame plane - Vilniaus arsenalas, antrame ir trečia me: Vilniaus pilis, Vinica, Žitomiras, Naugardukas, Poloc kas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "555739-556292; hash=cdb9ae4b28cad7d0acbdecf8ed2f1bd28699e6c182cb08dfff0504eda1f4a540; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177540
     - c-177544
@@ -196,15 +128,6 @@ media_all_json: |-
 - t-017
   global_id: t-195177
   teiginys: "1506 m. buvo taisomos daug kur pakrypusios ir suskilusios Žemutinės Vilniaus pilies sienos."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Pradinis teiginys buvo apie miestą, citata palaiko pilies faktą."
-  susije_objektai: "mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Minskas; mentioned_place: Sluckas"
-  temporaliniai_duomenys: "įvykio data: 1506 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys buvo apie miestą, citata palaiko pilies faktą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "471975-472544; hash=513bc221d29ec79f2c0eacb4cc80ed09b7f9107a22dc0abac9a4250c2fc7a75a; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177546
 
@@ -212,12 +135,6 @@ media_all_json: |-
 - t-016
   global_id: t-195178
   teiginys: "Vilniaus pilininkas ir miestiečiai, sumušę Kęstučio įgulą, Žemutinę ir Aukštutinę pilis atidavė Jogailai."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys aiškiai perteikia citatoje nurodytą įvykį."
-  susije_objektai: "mentioned_object: [[objektai/zodynas/Pilininkas|Pilininkas]]; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Hanulas|Hanulas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Trakai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "104659-105154; hash=eef6b6da4cc41a0b6bde47ae19bda4893764d3cdb8972eae225979ea85e435fe; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177537
 
@@ -225,15 +142,6 @@ media_all_json: |-
 - t-012
   global_id: t-195179
   teiginys: "Karalius Aleksandras mirė Žemutinėje Vilniaus pilyje 1506 m. rugpjūčio 10 d. naktį."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys tiksliai nurodo citatoje pateiktą vietą ir datą."
-  susije_objektai: "mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Krokuva"
-  temporaliniai_duomenys: "įvykio data: 1506 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys tiksliai nurodo citatoje pateiktą vietą ir datą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "476697-477199; hash=f776f8fe8b6e94798fb017ab359af6c8151176aa66469066128da0587b6ab08d; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177539
 
@@ -241,12 +149,6 @@ media_all_json: |-
 - t-011
   global_id: t-195180
   teiginys: "Vilnelės ir Vilijos santakoje buvo įsakyta pastatyti mūrinę pilį ant žmonių rankomis paaukštinto kalno."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys yra pilnas faktinis sakinys apie Vilniaus pilį ir atitinka citatą."
-  susije_objektai: "mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Romainiai; mentioned_place: Trakai; mentioned_place: Viena; mentioned_place: Vilija; mentioned_place: Vilnelė; mentioned_place: Vilnius; mentioned_place: Voluinė"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "541243-541559; hash=6622b159fb3d13ecc52d97b52c4646e995a81a459f2faf8e6dc4bb14167468bc; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177542
 
@@ -254,12 +156,6 @@ media_all_json: |-
 - t-006
   global_id: t-195181
   teiginys: "Po Vilniaus gaisrų susirūpinta senų Vilniaus pilies ir Katedros pastatų remontu bei atnaujinimu."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys aiškiai apibendrina citatoje nurodytą faktą."
-  susije_objektai: "mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "541243-541559; hash=6622b159fb3d13ecc52d97b52c4646e995a81a459f2faf8e6dc4bb14167468bc; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177542
 
@@ -267,12 +163,6 @@ media_all_json: |-
 - t-008
   global_id: t-195182
   teiginys: "Prie Vilniaus pilies buvo įkurta didžioji ginklų liejykla, turėjusi daug įtakos amatininkų gerovei ir tobulėjimui."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Citata tiesiogiai sieja liejyklą prie pilies su amatininkų gerove."
-  susije_objektai: "mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "91310-91775; hash=c26b70d3a36f0babaca6b465ef3970727968bfb174b8e0c4fe8b82eb2f61ad31; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177543
 
@@ -280,12 +170,6 @@ media_all_json: |-
 - t-007
   global_id: t-195183
   teiginys: "Karalaitės buvo įpareigotos funduoti ir aprūpinti Šv. Onos bažnyčios kleboniją didžiojoje Vilniaus pilyje."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Ilgas dokumento fragmentas sutrumpintas iki aiškaus fakto."
-  susije_objektai: "mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_place: Braunsbergas; mentioned_place: Švedija"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "91310-91775; hash=c26b70d3a36f0babaca6b465ef3970727968bfb174b8e0c4fe8b82eb2f61ad31; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177543
 
@@ -293,15 +177,6 @@ media_all_json: |-
 - t-002
   global_id: t-195184
   teiginys: "1377 m. birželio pabaigoje 12 000 žmonių kariuomenė sustojo prie Vilniaus pilių, kurias gynė Algirdas."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Pašalintas kontekstinis neaiškumas ir akcentuotas note objektas."
-  susije_objektai: "mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Trakai; llm_object: Trakai"
-  temporaliniai_duomenys: "įvykio data: 1377 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalintas kontekstinis neaiškumas ir akcentuotas note objektas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "91310-91775; hash=c26b70d3a36f0babaca6b465ef3970727968bfb174b8e0c4fe8b82eb2f61ad31; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177543
     - c-177548
@@ -331,8 +206,8 @@ media_all_json: |-
     pralaimėjęs mūšį, praradęs netoli Vilniaus tūkstantį žmo­
     nių, turėjo slėptis Trakų pilyje34.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -351,8 +226,8 @@ media_all_json: |-
     atvežti į Vilnių, buvo palaidoti didžiųjų Lietuvos kunigaikš­
     čių kape, katedroje, atlikus įprastas laidojimo apeigas27.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -369,8 +244,8 @@ media_all_json: |-
     šimtą kapų grašių, - yra miesto ar­
     chyve.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -395,8 +270,8 @@ media_all_json: |-
     Vengriais, pagaliau sugrįžo miesto
     nuosavybėn.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -414,8 +289,8 @@ media_all_json: |-
     dovas, bet miestas, priešo padegtas, prarado du trečdalius
     namų, kitą trečdalį miestiečiai vos pajėgė išgelbėti24.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -436,8 +311,8 @@ media_all_json: |-
     puolių, pirmenybę teikė nuošaliai, bet patogiai ir saugiai,
     ežerų apsuptai Trakų piliai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -458,8 +333,8 @@ media_all_json: |-
     G w a g n i n i Kronika Sarmacyi Em- Žr. VIII priedą.
     ropejskiej, vert.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -479,8 +354,8 @@ media_all_json: |-
     pamotę!" Šis drąsus vyskupo poelgis taip nustebino kara­
     lių, kad, atsisakęs ketinimo, pasuko į katalikų katedrą46.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -505,8 +380,8 @@ media_all_json: |-
     mui turėjo didžiosios ginklų liejyklos įkūrimas prie Vilniaus
     pilies. Ten jų reikėjo daugybės ir visokių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -539,8 +414,8 @@ media_all_json: |-
     gaikščių, keisdamas savo pirmtakų politiką, užmezgė ry­
     šius su krikščioniškąja Europa, būtent Lenkija ir Rusia10.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -567,8 +442,8 @@ media_all_json: |-
     bei tinkama provizija, kuria šie galėtų išsilaikyti ir mylimo
     Dievo tarnystei prie anos bažnyčios pasiliktų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -600,8 +475,8 @@ media_all_json: |-
     je, vasario 12-tą dieną, 12 indikte, su
     antspaudu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -621,8 +496,8 @@ media_all_json: |-
     riu pulku užpuola abi Vilniaus pilis ir apsupa didžiojo ku­
     nigaikščio buveinę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -646,8 +521,8 @@ media_all_json: |-
     greta Šv. Kazimiero, nes lietuviai bijojo jį vežti į Krokuvą
     dėl pavojingos Glinskio puikybės.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -672,8 +547,8 @@ media_all_json: |-
     mediniai rūmai, tikriausiai, skirti karaliaus ir Elenos bu­
     veinei*.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -691,8 +566,8 @@ media_all_json: |-
     čių, manydami apsisaugosią nuo kryžiuočių, ieškojo prie­
     globsčio prie Vilniaus pilies.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -726,8 +601,8 @@ media_all_json: |-
     Volmera, Vendenė, Kokenhauzenas, Rundborgas, Diuna-
     mundė, Ryga, Šmetenė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

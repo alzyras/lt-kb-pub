@@ -48,16 +48,6 @@ Nenurodyta
 - t-001
   global_id: t-66855
   teiginys: "Pasitraukus Napoleono kariuomenei, Lietuvoje tuojau buvo sugrąžinta senoji Rusijos valdžia."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "903274-903680; hash=7afb65fb5e701afc05c47fcfa4bf5ab219bfd47dde96f5b5801047f92af77ab0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Rusų valdžios sugrįžimas į Lietuvą (1813 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rusų valdžios sugrįžimas į Lietuvą (1813 m.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-66965
 ## Reikšmingi paminėjimai
@@ -74,8 +64,8 @@ Nenurodyta
     bėgusius į užsienį išsiuntė į Rusiją, kai kuriems iškėlė bylas ir
     atėmė dvarus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

@@ -1,9 +1,13 @@
 import { FullSlug, resolveRelative, slugTag } from "../util/path"
+import { concatenateResources } from "../util/resources"
 import { BrandLockup } from "./BrandLockup"
+import GoogleTranslate from "./GoogleTranslate"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 // @ts-ignore
 import script from "./scripts/li-header.inline"
 import styles from "./styles/liHeader.scss"
+
+const GoogleTranslateComponent = GoogleTranslate()
 
 const objectLinks = [
   ["Objektai", "objektai"],
@@ -132,7 +136,8 @@ function HeaderDropdown({
   )
 }
 
-const LIHeader: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
+const LIHeader: QuartzComponent = (props: QuartzComponentProps) => {
+  const { fileData } = props
   const currentSlug = fileData.slug ?? ("index" as FullSlug)
 
   return (
@@ -143,15 +148,7 @@ const LIHeader: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
           <button type="button" data-li-search>
             Paieška
           </button>
-          <button type="button" data-li-reader>
-            Skaitymas
-          </button>
-          <button type="button" data-li-theme>
-            Tema
-          </button>
-          <button type="button" data-li-adv>
-            ADV
-          </button>
+          <GoogleTranslateComponent {...props} />
         </div>
       </div>
       <div class="li-header-main">
@@ -183,13 +180,14 @@ const LIHeader: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
             currentSlug={currentSlug}
           />
           <a href={resolveRelative(currentSlug, navSlug("zemelapis"))}>Žemėlapis</a>
+          <a href={resolveRelative(currentSlug, navSlug("galerija"))}>Galerija</a>
         </nav>
       </div>
     </div>
   )
 }
 
-LIHeader.css = styles
-LIHeader.afterDOMLoaded = script
+LIHeader.css = concatenateResources(styles, GoogleTranslateComponent.css)
+LIHeader.afterDOMLoaded = concatenateResources(script, GoogleTranslateComponent.afterDOMLoaded)
 
 export default (() => LIHeader) satisfies QuartzComponentConstructor

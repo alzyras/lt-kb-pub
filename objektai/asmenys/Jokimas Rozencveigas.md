@@ -38,21 +38,6 @@ Pasak Narbuto, prūsų kronikininkas Jokimas Rozencveigas buvo cituojamas pasako
 - t-001
   global_id: t-191283
   teiginys: "Pasak Narbuto, prūsų kronikininkas Jokimas Rozencveigas buvo cituojamas pasakojant apie didžiulį kimbrų epochos potvynį, arba vietinį tvaną."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "78632-79514; hash=73c226ed2655d278cb0b5e50ee2a6bcbfade37786c7efbdda4db3f68d7d7a401; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kimbrai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jokimas Rozencveigas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kimbrai: mention_match, group, gap=62"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jokimas Rozencveigas\" parinktas kaip owner_note_path. Targetas \"Kimbrai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174165
 ## Reikšmingi paminėjimai
@@ -78,8 +63,8 @@ Pasak Narbuto, prūsų kronikininkas Jokimas Rozencveigas buvo cituojamas pasako
     metus ir kalba apie tą potvynį, kuris, anot jo pasakoji­
     mų, turėjęs būti iki prūsų įsikūrimo prie Baltijos jūros3.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -90,7 +75,8 @@ Pasak Narbuto, prūsų kronikininkas Jokimas Rozencveigas buvo cituojamas pasako
 - id: c-174165
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 46"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 46."
   citata_originali: |
     Hartknochas, remdamasis vietos pa­
     davimais ir tiesioginiais vietovės tyrinėjimais, visiškai

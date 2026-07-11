@@ -69,9 +69,6 @@ Atkūrus nepriklausomybę privatizacijos praktika rėmėsi investiciniais čekia
 - t-005
   global_id: t-20821
   teiginys: "Privatizacijos laikotarpiu dauguma valstybinių įmonių tapo privačios ir susidarė naujas verslininkų sluoksnis."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "515085-515607; hash=f8885f64748ee3e8275a488f2d8a4a05fe1d7cab459ee7877ef628b99c984a76; match=exact"
-  sprendimo_priezastis: "gap::customs"
   pagrindžia:
     - c-23543
 
@@ -79,9 +76,6 @@ Atkūrus nepriklausomybę privatizacijos praktika rėmėsi investiciniais čekia
 - t-006
   global_id: t-20822
   teiginys: "Privatizuojant valstybės turtą investiciniais čekiais, daugelis gyventojų čekius pardavė ir neprivatizavo savo būsto."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "515609-515981; hash=f45f24080f571866fb089db9f1136505cf0272b83318616145ab534d5a87c0d5; match=exact"
-  sprendimo_priezastis: "gap::customs"
   pagrindžia:
     - c-23544
 ## Reikšmingi paminėjimai
@@ -98,8 +92,8 @@ Atkūrus nepriklausomybę privatizacijos praktika rėmėsi investiciniais čekia
     tapo privačios, susidarė naujas verslininkų sluoksnis, veikęs pagal Vakarų
     pasaulio ekonomikos standartus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -116,8 +110,8 @@ Atkūrus nepriklausomybę privatizacijos praktika rėmėsi investiciniais čekia
     gyventojų čekius pardavė ir net nesugebėjo privatizuoti savo gyvenamojo
     būsto.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

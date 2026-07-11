@@ -58,20 +58,6 @@ Nenurodyta
 - t-001
   global_id: t-62211
   teiginys: "1302 m. prasidėjo popiežiaus Bonifaco VIII ir Prancūzijos karaliaus Pilypo IV nesantarvė dėl Prancūzijos pavaldumo apaštališkajam sostui."
-  teiginio_tipas: "faktas"
-  temporaliniai_duomenys: "įvykio data: 1302 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalinta šaltinio įžanga ir suformuluotas aiškus konflikto pagrindas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "733186-733970; hash=1a6926aa977aca430ad5969abcd29d50cb0a549681fb2e22847dc5d0f787fb4d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Prancūzija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Bonifaco VIII ir Pilypo IV nesantarvė bei bulės sudeginimas Paryžiuje (1302 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Prancūzija: mention_match, place, gap=17"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bonifaco VIII ir Pilypo IV nesantarvė bei bulės sudeginimas Paryžiuje (1302 m.)\" parinktas kaip owner_note_path. Targetas \"Prancūzija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-62692
 ## Reikšmingi paminėjimai
@@ -91,8 +77,8 @@ Nenurodyta
     15 kaltinimų popiežiui ir kreipėsi į busimąjį susirinkimą arba popiežių. Vis dėlto popiežius
     Romos susirinkime išsiteisino nuo šių kaltinimų (Ptol. p. 1221 ir kt.; Mart. p. 438).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -103,7 +89,8 @@ Nenurodyta
 - id: c-62692
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 244"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 244."
   citata_originali: |
     Apie Bonifaco, popiežiaus, ir Pilypo, Prancūzijos karaliaus, nesantarvę
 

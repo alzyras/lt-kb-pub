@@ -43,20 +43,6 @@ pradžioje, kai mirus abiems Ivano IV (Rūsčiojo) palikuonims Fiodorui ir maža
 - t-001
   global_id: t-40106
   teiginys: "Mirus Ivano IV palikuonims Fiodorui ir mažamečiui Dmitrijui, nutrūko Rusiją valdžiusių Riurikaičių dinastija."
-  semantiniai_rysiai: "Riurikaičių dinastija valdė Rusija (0.95)"
-  temporaliniai_duomenys: "įvykio data: 1610 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie Fiodoro mirties pasekmę dinastijai."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "481138-481583; hash=0003f1b05213ad7df9258a6fefb12d479d874d09dd73f987aaf4d7023e8addd5; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde -> Rusija: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Riurikaičių dinastija: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Rusija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai apibūdina Riurikaičių dinastiją kaip valdžiusią Rusiją."
   pagrindžia:
     - c-44328
 - susijęs iš [[objektai/asmenys/Ivanas IV Rūstusis.md#claim-t-40147|Ivanas IV Rūstusis]]: Mirus Ivano IV Rūsčiojo palikuonims Fiodorui ir mažamečiui Dmitrijui, nutrūko Rusiją valdžiusi Riurikaičių dinastija.
@@ -82,8 +68,8 @@ pradžioje, kai mirus abiems Ivano IV (Rūsčiojo) palikuonims Fiodorui ir maža
     rusų bojarinų giminių atstovai. Lenkų ka-
     riuomenė šios sumaišties metu 1610 m. su-
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

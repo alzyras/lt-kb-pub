@@ -30,19 +30,6 @@ Bertoldas su kariuomene užpuolė darbininkus ir mėgino išardyti lietuvių įr
 - t-001
   global_id: t-186098
   teiginys: "Bertoldas su kariuomene užpuolė darbininkus ir mėgino išardyti lietuvių įrenginius, bet antpuolis buvo atremtas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "281698-282426; hash=615ba4a748dac93168bef45fc5cd35dbcc83f437dd7cf304c674e42c1281be8d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Bertoldas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Bertoldas Briuhavenas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Bertoldas: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bertoldas Briuhavenas\" parinktas kaip owner_note_path. Targetas \"Bertoldas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-169459
 - susijęs iš [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu.md#claim-t-59878|Bertoldas, vadinamas Briuhavenu]]: Bertoldas Briuhavenas neilgai vadovavo Ragainės piliai, nes netrukus buvo paskirtas Karaliaučiaus brolių komtūru.
@@ -71,8 +58,8 @@ Bertoldas su kariuomene užpuolė darbininkus ir mėgino išardyti lietuvių įr
     siaubė Paštuvos ir Gaižuvos valsčius, nušluodamas juos
     ugnimi.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -83,7 +70,8 @@ Bertoldas su kariuomene užpuolė darbininkus ir mėgino išardyti lietuvių įr
 - id: c-169459
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 164"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 164."
   citata_originali: |
     Bertoldas negalėjo
     leisti, kad iš jo atimamas toks patogus kelias, todėl,
@@ -108,5 +96,4 @@ Bertoldas su kariuomene užpuolė darbininkus ir mėgino išardyti lietuvių įr
     - t-186098
 
 ## Ryšiai
-- Bertoldas Briuhavenas keliavo į [[objektai/vietos/Livonija]]
 - Bertoldas Briuhavenas surengė žygį į [[objektai/vietos/Junigeda]]

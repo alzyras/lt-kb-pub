@@ -30,14 +30,6 @@ Izidoras, gy venęs Konstantino Didžiojo laikais, pasakoja, kad Mamrės ly gumo
 - t-001
   global_id: t-194833
   teiginys: "Izidoras, gy venęs Konstantino Didžiojo laikais, pasakoja, kad Mamrės ly gumose dar matęs tą šlovingą ąžuolą, po kuriuo Abraomas statęs savo palapines; jis priduria, kad žmonės tą ąžuolą laikė šventu."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "397378-397837; hash=628769df0f5e3ff42e4587638846f11a9cff559b5e6dfc26cb3c4f17cce453fb; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-177229
 ## Reikšmingi paminėjimai
@@ -56,8 +48,8 @@ Izidoras, gy venęs Konstantino Didžiojo laikais, pasakoja, kad Mamrės ly gumo
     džiai; jie pripažindavo šventais ne tik pavienius medžius, bet
     net ištisus miškelius, kurių nederėjo liesti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -68,7 +60,8 @@ Izidoras, gy venęs Konstantino Didžiojo laikais, pasakoja, kad Mamrės ly gumo
 - id: c-177229
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 232"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 232."
   citata_originali: |
     Tie trys medžiai suaugę į vieną medį, kuris
     buvęs panaudotas Saliamono šventyklos statybai. Izidoras, gy­

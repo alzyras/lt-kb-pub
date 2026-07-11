@@ -30,12 +30,6 @@ Mat Šventaragis, būdama gyvas, kartą medžioklės metu pateko į be galo žav
 - t-001
   global_id: t-193448
   teiginys: "Mat Šventaragis, būdama gyvas, kartą medžioklės metu pateko į be galo žavin gą vietą, kur į Nerį įteka Vilnios upė, apibėgdama ly gumą, apsuptą aukštų kalnų ir apaugusią pušynais."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "214459-215002; hash=b1445d69be72552dddc1fbb66cf6890539b8879046e0cc3e9b965b2be90079e5; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176161
 
@@ -43,12 +37,6 @@ Mat Šventaragis, būdama gyvas, kartą medžioklės metu pateko į be galo žav
 - t-002
   global_id: t-193449
   teiginys: "Ši vieta, pa vadinta Šventarage (tai yra šventąja aikšte), išsaugojo iki pat Jogailos ir vardą, ir šias pagoniškas apeigas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "215374-216032; hash=72191dc692fb86ffba6fde47d374440ca9a3f019d2f8a6f914cf30aadce5dcde; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176162
 ## Reikšmingi paminėjimai
@@ -70,8 +58,8 @@ Mat Šventaragis, būdama gyvas, kartą medžioklės metu pateko į be galo žav
     žinai būtų skiriama valdovams deginti ir jų pelenams
     laidoti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -96,8 +84,8 @@ Mat Šventaragis, būdama gyvas, kartą medžioklės metu pateko į be galo žav
     129
     5.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -108,7 +96,8 @@ Mat Šventaragis, būdama gyvas, kartą medžioklės metu pateko į be galo žav
 - id: c-176161
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 127"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 127."
   citata_originali: |
     Pir­
     miausia savo mirusiam tėvui, kaip to buvo nurodyt i
@@ -132,7 +121,8 @@ Mat Šventaragis, būdama gyvas, kartą medžioklės metu pateko į be galo žav
 - id: c-176162
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 127"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 127."
   citata_originali: |
     Žyniams uždėjo pareigą kurstyti, kaip reikalavo pa­
     pročiai, ąžuolinėmis ir pušinėmis malkomis amžinąją

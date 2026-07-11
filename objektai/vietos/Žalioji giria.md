@@ -44,16 +44,6 @@ media_all_json: |-
 - t-004
   global_id: t-08029
   teiginys: "Žalioji giria dengė vakarinę daugiau kaip šimtą mylių į rytus ir vakarus nusidriekusios kalvos pusę."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "15038-15532; hash=5000de9fdd01bd13a4069ff1ddb90a8157d69c63207c5ff475ee8c29782cff72; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  ryšio_patikimumas: "susije_su -> Isteris: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žalioji giria: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Isteris: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žalioji giria\" parinktas kaip owner_note_path. Targetas \"Isteris\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-10473
 
@@ -61,17 +51,6 @@ media_all_json: |-
 - t-005
   global_id: t-08030
   teiginys: "Lietuviais vadinta getų tautos dalis po kruvinų karų įsitraukė į Žaliąją ir Juodąją girias."
-  semantiniai_rysiai: "Lietuviai keliavo į Žalioji giria (0.76); Lietuviai gyveno Žalioji giria (0.70)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "34036-34640; hash=e8f1438da01963b64708e7b210a1d2a48e00972d31828b6762553c2cbed446a0; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  ryšio_patikimumas: "keliavo_i -> Žalioji giria: 0.76"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Žalioji giria: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo lietuviais vadintos grupės įsitraukimą į Žaliąją girią."
   pagrindžia:
     - c-10474
 
@@ -79,16 +58,6 @@ media_all_json: |-
 - t-006
   global_id: t-08031
   teiginys: "Algirdas iš Žaliosios girios per Įstrupį užpuolė krikščionis iš užpakalio."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "340043-340328; hash=2fcf6fcd00506c70e47a3faf225695a2ea046419971fa69ea418f06a64e0f5a8; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žalioji giria: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person, gap=12"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žalioji giria\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-10472
 - susijęs iš [[objektai/asmenys/A. Šulskis-Šulas.md#claim-t-39987|A. Šulskis-Šulas]]: A. Šulskis-Šulas vadovavo Žaliosios girios Panevėžio rinktinės grupei pietrytinėje girios dalyje Subačiaus valsčiuje.
@@ -105,8 +74,8 @@ media_all_json: |-
         krikščionims, kurie nuo bado, vargų ir darganų visi galą gavo taip, jog per kelerius metus kaukolės
         po laukus ir girias, upeliuose ir pievose valkiojos nugaišusių neprietelių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -121,8 +90,8 @@ media_all_json: |-
         teka nuo tos kalvos į Uksinę, arba Juodąją, marę, tarp kurių didžiosios yra: Niperis, Tyrulė ir
         Isteris, arba Dunojus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -138,8 +107,8 @@ media_all_json: |-
         traškančiose giriose, nuo įkūrimo pasaulio nekušintose^122 , ilgus amžius, džiaugdamos liuosybe
         savo probočių, tarp girių laimingai gyveno, kurių čia senovės būdą ir dabą užsiėmiau išrašyti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -199,7 +168,3 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-08030
-
-## Ryšiai
-- Buvo kelionės vieta: [[objektai/grupes/Lietuviai]]
-- Gyvenamoji vieta: [[objektai/grupes/Lietuviai]]

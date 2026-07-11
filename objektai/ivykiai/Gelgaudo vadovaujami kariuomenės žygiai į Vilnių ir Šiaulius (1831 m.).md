@@ -51,9 +51,6 @@ Nenurodyta
 - t-002
   global_id: t-66548
   teiginys: "Reguliariosios kariuomenės Lietuvoje likus tik Dembinskio rinktinei, Dembinskis prasimušė iki Varšuvos ir buvo paskirtas jos gubernatoriumi."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "935951-936360; hash=4f74a29bb9159ec719756a296c41f75d9c73b8c208494467532b8d888d895622; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-66756
 
@@ -61,9 +58,6 @@ Nenurodyta
 - t-001
   global_id: t-66549
   teiginys: "Po Gelgaudo nušovimo Rohlandas su savo būriu padėjo ginklus ir po kelių dienų perėjo į Prūsiją."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "935669-935950; hash=595634a2c40689c9fbc272946e23b302e5a7cb62169ee9734db8f91eb1b4d568; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-66754
 ## Reikšmingi paminėjimai
@@ -80,8 +74,8 @@ Nenurodyta
     Bet po keleto dienų, padėjęs ginklus, į Prūsiją perėjo ir Roh-
     lando būrys.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -99,8 +93,8 @@ Nenurodyta
     simušė iki Varšuvos, kur buvo iškilmingai sutiktas ir už nuo-
     pelnus paskirtas Varšuvos gubernatorium.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

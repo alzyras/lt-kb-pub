@@ -48,19 +48,6 @@ media_all_json: |-
 - t-005
   global_id: t-90737
   teiginys: "Konradas nuo 1202 m. buvo Mazovijos, Kujavijos, Seradzo ir Lenčicos kunigaikštis."
-  temporaliniai_duomenys: "valdymo pradžia: po 1202 m.; valdymo pradžia: 1202 m.; valdymo pradžia: 1243 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Konradas buvo valdovas Lenčica“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys glaustai perteikia išnašoje pateiktą informaciją apie Konradą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "129108-129394; hash=314efbfdfd6f62358e433f935fdd89ba23407607dedd9ed1c5fb8045e5b5bbaf; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_valdovas -> Kujavija: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Konradas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kujavija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Kunigaikščio titulas tiesiogiai sieja Konradą su Kujavija kaip valdovu."
   pagrindžia:
     - c-86520
 
@@ -68,20 +55,6 @@ media_all_json: |-
 - t-001
   global_id: t-90738
   teiginys: "1291 m. lietuviai nuteriojo Kujaviją, o kitais metais Pukuveras išsiuntė Vytenį į Lenkiją su didele kariuomene."
-  semantiniai_rysiai: "Lietuviai puolė Kujavija (0.88); Pukuveras (Lietuvos karalius, XIII a.) siuntė į Lenkija (0.86)"
-  temporaliniai_duomenys: "įvykio data: 1291 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir atitinka citatos informaciją."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "600857-601238; hash=024bc80d3e2b40de524a410d24359ebb5ecc25abad4d8a973719d9ad0014932d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Kujavija: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Kujavija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Nuteriojimas tiesiogiai palaiko lietuvių puolimo prieš Kujaviją ryšį."
   pagrindžia:
     - c-86519
 
@@ -89,17 +62,6 @@ media_all_json: |-
 - t-009
   global_id: t-90739
   teiginys: "Sventopelkas slaptai plėšė brolių valdinius, o vėliau įsiveržė į kunigaikščiui Kazimierui priklausiusią Kujaviją."
-  semantiniai_rysiai: "Sventopelkas puolė Kujavija (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "327734-328409; hash=ae166cc021fdb98880fa326409cb81e884cc2f825ebcc89d336175ce71c6cb53; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Kujavija: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Sventopelkas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kujavija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Sventopelko įsiveržimą į Kujaviją."
   pagrindžia:
     - c-86518
 
@@ -107,17 +69,6 @@ media_all_json: |-
 - t-006
   global_id: t-90740
   teiginys: "Dobrynės broliai gavo Kujavijoje žemės plotą arba dvarą, pavadintą Sedlcais."
-  semantiniai_rysiai: "Sedlcai priklausė Dobrynės broliai (0.83)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "138750-139278; hash=f966a5c8f6f09344ac8441923dd5da01650a6cca644d15bad89f788d43d91767; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Dobrynės broliai: 0.83"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Sedlcai: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Dobrynės broliai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad Dobrynės broliai gavo dvarą, vadintą Sedlcais."
   pagrindžia:
     - c-86522
 
@@ -125,9 +76,6 @@ media_all_json: |-
 - t-008
   global_id: t-90741
   teiginys: "Sventopelkas, viešai išsižadėjęs taikos, įsiveržė į kunigaikščio Kazimiero Kujaviją ir ją nuniokojo."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "327734-328409; hash=ae166cc021fdb98880fa326409cb81e884cc2f825ebcc89d336175ce71c6cb53; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-86518
 
@@ -135,16 +83,6 @@ media_all_json: |-
 - t-004
   global_id: t-90742
   teiginys: "Kunigaikštis Konradas valdė Mazoviją, Kujaviją ir Lenkiją tuo metu, kai veikė Prūsijos vyskupas Kristijonas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "128337-128985; hash=455a79b5f119cea3db2cbb1c4e1373df81e0d68fa6629d7a391c5e6395977a37; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde -> Kujavija: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Konradas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kujavija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Konradas valdė Kujaviją."
   pagrindžia:
     - c-167554
 
@@ -152,20 +90,6 @@ media_all_json: |-
 - t-002
   global_id: t-90743
   teiginys: "1300 m. lietuviai vėl pasirodė Dobryniaus ir Kujavijos srityse, kur patyrė kryžiuočių smūgį."
-  semantiniai_rysiai: "Kryžiuočių ordinas puolė Lietuviai (0.74)"
-  temporaliniai_duomenys: "įvykio data: 1300 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "606328-606593; hash=0ce4db425bfcf5a7cd227c61810d5526f4d17fbee490a864d332a52fbc402a1b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Lietuviai: 0.74"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Teiginys nurodo, kad lietuviai patyrė kryžiuočių smūgį, todėl palaikomas puolimo ryšys."
   pagrindžia:
     - c-86515
 
@@ -173,17 +97,6 @@ media_all_json: |-
 - t-003
   global_id: t-90744
   teiginys: "Vengrijos karalius Zigmantas Liuksemburgietis laikė Kujaviją savo suvereniteto žeme ir norėjo ją parduoti Ordinui."
-  semantiniai_rysiai: "Zigmantas Liuksemburgietis buvo valdovas Vengrija (0.90); Zigmantas Liuksemburgietis valdė Kujavija (0.78)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "389339-389816; hash=fe8df43b5b36c4367d6d76e50f4e7d7e04b8e1a73803c450adb15ef3ea39580d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_valdovas -> Vengrija: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Zigmantas Liuksemburgietis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vengrija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai įvardija Zigmantą Liuksemburgietį Vengrijos karaliumi."
   pagrindžia:
     - c-37485
 
@@ -191,17 +104,6 @@ media_all_json: |-
 - t-007
   global_id: t-90745
   teiginys: "Sventopelkas įsibrovė į kunigaikščio Kazimiero Kujaviją, ją degino, plėšė ir išsivarė daug krikščionių į nelaisvę."
-  semantiniai_rysiai: "Sventopelkas puolė Kujavija (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "303673-304359; hash=2c16fa3036af72cbe8e624047b34e8087e22229cf88c0c12ab4dccbfc934fdeb; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Kujavija: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Sventopelkas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kujavija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Įsibrovimas ir plėšimas tiesiogiai palaiko Sventopelko puolimą prieš Kujaviją."
   pagrindžia:
     - c-86516
 
@@ -209,19 +111,6 @@ media_all_json: |-
 - t-010
   global_id: t-184169
   teiginys: "Kunigaikštis Konradas valdė Mazoviją, Kujaviją ir Lenkiją tuo metu, kai Prūsijoje veikė vyskupas Kristijonas."
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "128337-128985; hash=455a79b5f119cea3db2cbb1c4e1373df81e0d68fa6629d7a391c5e6395977a37; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde -> Kujavija: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Konradas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kujavija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Konradas valdė Kujaviją."
   pagrindžia:
     - c-167554
 
@@ -229,21 +118,6 @@ media_all_json: |-
 - t-011
   global_id: t-192679
   teiginys: "Teodoro Narbuto pasakojime kujavai vėliau persikėlė prie Vyslos žemupio ir įsikūrė jos kairiajame krante, Kujavijoje."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "688865-689595; hash=fe796c923ddfe73b628401ddad20c6aa640f9f66d52107b3a31c107b02fb497b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Dnepras: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kujavija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Dnepras: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kujavija\" parinktas kaip owner_note_path. Targetas \"Dnepras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175449
 - susijęs iš [[objektai/asmenys/Zemislovas.md#claim-t-186268|Zemislovas]]: Tarp riterių ordino ir Kujaviją bei Lenčicą valdžiusio kunigaikščio Zemislovo prasidėjo vaidai ir ginkluoti susidūrimai.
@@ -337,8 +211,8 @@ media_all_json: |-
     Vladislovo, panoro ir Dobrynę, ir Kujaviją parduoti Ordinui.
     Su tuo sutiko ir patsai Vladislovas ir jo žmona.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -353,8 +227,8 @@ media_all_json: |-
     su rusais tada lietuviai vėl puolė Sandomieriaus ir Liublino žemes,
     o 1307 buvo įsiveržę į Kališo sritį^5.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -374,8 +248,8 @@ media_all_json: |-
     nesiliausiąs persekioti savo priešų, be to, pridūrė: „Grąžinkite man sūnų, jei norite su
     manimi gyventi taikiai“.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -399,8 +273,8 @@ media_all_json: |-
       300 Greičiausiai pravardė
       301 Dab.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -418,8 +292,8 @@ media_all_json: |-
     mene^21. Besikaudamas su įsiveržusiais lietuviais 1294 Sochaczewo
     apylinkėse žuvo Lęčycos kunigaikštis Kazimieras^22.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -435,8 +309,8 @@ media_all_json: |-
       160 Konradas (apie 1187—1247), nuo 1202 m. Mazovijos, Kujavijos, Seradzo  ir
     Lenčicos, 1229 ir 1241—1243 m. Krokuvos kunigaikštis.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -453,8 +327,8 @@ media_all_json: |-
     suirzę, keletą kartų su gausybe ginkluotų vyrų puolė minėtąją Dobrynės pilį ir taip nirto
     ant tų brolių, kad beveik nė vienas iš jų nedrįso rodytis už pilies sienų170.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -480,8 +354,8 @@ media_all_json: |-
     sėjęs tarp prūsų ir dažnai juos raginęs, kad, pametę stabus, imtų garbinti tikrąjį dievą
     Jėzų Kristų161. Si sėkla vis dėlto nedavė jokio derliaus, nes krito į negerą dirvą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -506,8 +380,8 @@ media_all_json: |-
     tėje, dar ir šiandien, žinomoje Kujavijoje, nepalikdami
     prie Dnepro net savo pavadinimo pėdsakų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -557,7 +431,8 @@ media_all_json: |-
 - id: c-86516
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 92"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 92."
   citata_originali: |
     Tačiau iš įgimto piktumo nesiliovė klastingai
     ir slaptai persekiojęs brolių bei tikinčiųjų ir nieko neėmė  į galvą, kai broliai jam šitai
@@ -579,7 +454,8 @@ media_all_json: |-
 - id: c-86518
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 99"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 99."
   citata_originali: |
     Apie laikos nutraukimą ir Kujavijos žemės nuniokojimą
 
@@ -625,7 +501,8 @@ media_all_json: |-
 - id: c-86520
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 42"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 42."
   citata_originali: |
     Tačiau jie turėjo vieną girtiną ir visiems siūlytiną paprotį: patys
     būdami netikėliai  ir garbindami daugybę dievų, jie vis dėlto gyveno taikoje su savo
@@ -642,7 +519,8 @@ media_all_json: |-
 - id: c-86522
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 45"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 45."
   citata_originali: |
     broliams Dobrynės pilį168, dėl kurios jie vėliau buvo pavadinti Dobrynės broliais, ir davė
     jiems Kujavijoje žemės plotą, arba dvarą, kuris buvo pavadintas Sedlcais169. Kunigaikštis
@@ -661,7 +539,8 @@ media_all_json: |-
 - id: c-167554
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 42"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 42."
   citata_originali: |
     Antra knygos dalis
 
@@ -689,7 +568,8 @@ media_all_json: |-
 - id: c-175449
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 379"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 379."
   citata_originali: |
     Vėliau, laikui bėgant, slavų gentys, vienos i*š labiau­
     siai civilizuotų, nes gyveno Dnestro žemupyje ir nuo se­
@@ -712,8 +592,7 @@ media_all_json: |-
     - t-192679
 
 ## Ryšiai
-- Buvo valdoma: [[objektai/asmenys/Zemislovas]], [[objektai/asmenys/Zigmantas Liuksemburgietis]]
-- Buvo kelionės vieta: [[objektai/grupes/Herulai]], [[objektai/grupes/Lietuviai]]
-- Puolė Kujaviją: [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Sventopelkas]], [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]]
+- Buvo valdoma: [[objektai/asmenys/Zemislovas]]
+- Puolė Kujaviją: [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Sventopelkas]]
 - Turėjo priklausinį: [[objektai/vietos/Sedlcai]]
 - Kujavija priklausė [[objektai/asmenys/Kazimieras (Kujavijos kunigaikštis)]]

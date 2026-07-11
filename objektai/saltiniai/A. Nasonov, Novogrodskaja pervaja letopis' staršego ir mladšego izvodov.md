@@ -41,18 +41,6 @@ Nasonov : Novogrodskaja pervaja letopis' staršego i mladšego izvodov , Moskva-
 - t-001
   global_id: t-31592
   teiginys: "A. Nasonovo „Novogrodskaja pervaja letopis'' staršego i mladšego izvodov“ išleista Maskvoje-Leningrade 1950 m."
-  temporaliniai_duomenys: "įvykio data: 1406 m.; įvykio data: 1950 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "876073-876742; hash=3dc17371ab018671d0f0a1820039538d37e7a25b4bb5367be9991c772c15b55e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Maskva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "A. Nasonov, Novogrodskaja pervaja letopis'' staršego ir mladšego izvodov: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Maskva: mention_match, place, gap=83"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"A. Nasonov, Novogrodskaja pervaja letopis'' staršego ir mladšego izvodov\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-33509
 ## Reikšmingi paminėjimai
@@ -74,8 +62,8 @@ Nasonov : Novogrodskaja pervaja letopis' staršego i mladšego izvodov , Moskva-
     (^48) **PSRL, 23, 139 p.**
     (^49) **PSRL, 11, 193-194.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

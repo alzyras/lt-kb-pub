@@ -52,19 +52,6 @@ Nenurodyta
 - t-001
   global_id: t-192025
   teiginys: "Narbutas rašo, kad piktnaudžiavimas stipriaisiais gėrimais Vilniaus vyskupą Abraomą Vainą paskatino uždrausti ir likviduoti aukojimo puotų paprotį."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "918324-918732; hash=28bb23f289c0390971a055a71d58b5a9afad34db9d3970c28ad40a980e38d3c1; match=ocr_normalized"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
-  ryšio_patikimumas: "susije_su -> Vaina: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aukojimo puotų papročio uždraudimas Vilniaus vyskupų Abraomo Vainos ir Bžostovskio: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Vaina: mention_match, person, gap=25"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aukojimo puotų papročio uždraudimas Vilniaus vyskupų Abraomo Vainos ir Bžostovskio\" parinktas kaip owner_note_path. Targetas \"Vaina\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174905
 
@@ -72,22 +59,6 @@ Nenurodyta
 - t-002
   global_id: t-192026
   teiginys: "Narbutas nurodo, kad Vilniaus vyskupas Bžostovskis 1710 m. dar matė aukojimo puotų paprotį ir griežtai jį uždraudė."
-  teiginio_tipas: "faktas"
-  temporaliniai_duomenys: "įvykio data: 1710 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Įvardis pakeistas aiškiu aukojimo puotų papročio pavadinimu. Palikta autoriaus atribucija, nes citata pateikia Narbuto istorinį liudijimą apie papročio draudimą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "918324-918732; hash=28bb23f289c0390971a055a71d58b5a9afad34db9d3970c28ad40a980e38d3c1; match=ocr_normalized"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
-  ryšio_patikimumas: "susije_su -> Bžostovskis (Vilniaus vyskupas): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aukojimo puotų papročio uždraudimas Vilniaus vyskupų Abraomo Vainos ir Bžostovskio: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Bžostovskis (Vilniaus vyskupas): mention_match, person, gap=18"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aukojimo puotų papročio uždraudimas Vilniaus vyskupų Abraomo Vainos ir Bžostovskio\" parinktas kaip owner_note_path. Targetas \"Bžostovskis (Vilniaus vyskupas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174905
 ## Reikšmingi paminėjimai
@@ -108,8 +79,8 @@ Nenurodyta
     jį
     uždraudė2.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -121,7 +92,8 @@ Nenurodyta
 - id: c-174905
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 497"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 497."
   citata_originali: |
     Tai buvo akivaizdus aukojimo puotų li­
     kutis. Vėliau piktnaudžiavimas stipriaisiais gėrimais, kuriuos tik­

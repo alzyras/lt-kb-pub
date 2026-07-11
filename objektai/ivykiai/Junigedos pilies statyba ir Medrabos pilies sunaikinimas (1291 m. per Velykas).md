@@ -55,16 +55,6 @@ Nenurodyta
 - t-002
   global_id: t-66575
   teiginys: "Brolis Bertoldas su tūkstančiu Sembos vyrų nesėkmingai bandė sutrukdyti Junigedos pilies statybai, o paskui sudegino Medrabos pilį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "567315-567799; hash=76e8bee7be7da94dae5261dd4e9eff86e40bcfeec260b2b55a50cff480081f7c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Medraba: 0.91"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Bertoldas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Medraba: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Bertoldas su vyrais po antpuolio sudegino Medrabos pilį, todėl puolimo ryšys tiesiogiai pagrįstas."
   pagrindžia:
     - c-167311
 
@@ -72,20 +62,6 @@ Nenurodyta
 - t-001
   global_id: t-66576
   teiginys: "1291 m. per Velykas lietuviai Junigedos valsčiuje pastatė pilį ir pavadino ją tuo pačiu vardu."
-  semantiniai_rysiai: "Lietuviai pastatė Junigeda (0.93)"
-  temporaliniai_duomenys: "pastatymo data: 1291 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys pašalina citatos intarpų triukšmą ir yra pagrįstas šaltiniu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "566566-567383; hash=f9892132a4a1bb352b23d856a5653034c074e19d88a7bcbe44447591780f6356; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "pastate -> Junigeda: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Junigeda: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Claim_text ir citata tiesiogiai nurodo, kad lietuviai pastatė pilį Junigedos valsčiuje."
   pagrindžia:
     - c-66782
 
@@ -93,16 +69,6 @@ Nenurodyta
 - t-002
   global_id: t-66575
   teiginys: "Brolis Bertoldas su tūkstančiu Sembos vyrų nesėkmingai bandė sutrukdyti Junigedos pilies statybai, o paskui sudegino Medrabos pilį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "567315-567799; hash=76e8bee7be7da94dae5261dd4e9eff86e40bcfeec260b2b55a50cff480081f7c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Medraba: 0.91"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Bertoldas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Medraba: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Bertoldas su vyrais po antpuolio sudegino Medrabos pilį, todėl puolimo ryšys tiesiogiai pagrįstas."
   pagrindžia:
     - c-167311
 ## Reikšmingi paminėjimai
@@ -127,8 +93,8 @@ Nenurodyta
 
     pavadino tuo pačiu vardu.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -151,8 +117,8 @@ Nenurodyta
 
                      245 (238).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -164,7 +130,8 @@ Nenurodyta
 - id: c-66782
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 180-181"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 180-181."
   citata_originali: |
     Apie Junigedos pilies pastatymą ir Medrabos pilies sunaikinimą
 
@@ -191,7 +158,8 @@ Nenurodyta
 - id: c-167311
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 180-181"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 180-181."
   citata_originali: |
     Pirmajam priklausė į vakarus nuo Gedimino
 

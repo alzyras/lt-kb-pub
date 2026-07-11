@@ -33,16 +33,6 @@ Vachterio G loss. Ūkiniai prie jų priklausantys pastatai (des Königes Hof)a t
 - t-002
   global_id: t-88010
   teiginys: "J. G. Vachterio germanų kalbos žodyne žodis „Hof“ aiškintas kaip dvaro arba ūkio pastatų sąvoka."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "366844-367714; hash=c2ff20190f595da307976c9d2d98f84f33900dd3db9af128c6cf31ca333c7063; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Germanai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "J. G. Vachteris Wächter: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Germanai: mention_match, group, gap=16"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"J. G. Vachteris Wächter\" parinktas kaip owner_note_path. Targetas \"Germanai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-83989
 ## Reikšmingi paminėjimai
@@ -73,8 +63,8 @@ Vachterio G loss. Ūkiniai prie jų priklausantys pastatai (des Königes Hof)a t
     togen mit groteme vrockten (*) vnd seyde daromme dat de
     Ville vorkrant is.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

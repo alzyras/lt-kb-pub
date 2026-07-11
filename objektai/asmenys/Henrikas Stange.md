@@ -34,17 +34,6 @@ Dusburgietis teigia, kad kristburgo komtūras, brolis Henrikas, vadinamas Stange
 - t-001
   global_id: t-60319
   teiginys: "Kristburgo komtūras Henrikas Stange žiemą įsiveržė į Sembą su didele kariuomene, degindamas ir grobdamas iki Girmavos kaimo."
-  semantiniai_rysiai: "Henrikas Stange surengė žygį į Semba (0.90); Henrikas Stange kariavo prieš Sembai (0.82); Henrikas Stange keliavo į Girmava (0.78)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "338853-339626; hash=e15afefd28e357437c99782336ee83f3e9c2cbf87d58c83298bc84fa10b41623; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "surenge_zygi_i -> Semba: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Henrikas Stange: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Semba: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Henriko Stangės karo žygį prieš Sembą."
   pagrindžia:
     - c-60951
 - susijęs iš [[objektai/grupes/Sembai.md#claim-t-175077|Sembai]]: Prieš sembų gentį buvo kariauta daug karų, o viename žygyje Kristburgo komtūras Henrikas Stange įsiveržė į Sembą.
@@ -67,8 +56,8 @@ Dusburgietis teigia, kad kristburgo komtūras, brolis Henrikas, vadinamas Stange
     kol jo kariuomenė užims saugesnę vietą, daugybę sužeidė ietimi. Galop prūsai klasta jį
     apsupo ir galybe smūgių nubloškė nuo žirgo.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -79,7 +68,8 @@ Dusburgietis teigia, kad kristburgo komtūras, brolis Henrikas, vadinamas Stange
 - id: c-60951
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 103"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 103."
   citata_originali: |
     Apie Girmavos valsčiaus nuniokojimą
 
@@ -100,7 +90,4 @@ Dusburgietis teigia, kad kristburgo komtūras, brolis Henrikas, vadinamas Stange
     - t-60319
 
 ## Ryšiai
-- Henrikas Stange keliavo į [[objektai/vietos/Girmava]]
-- Henrikas Stange puolė [[objektai/vietos/Semba]]
 - Henrikas Stange surengė žygį į [[objektai/vietos/Semba]]
-- Henrikas Stange kariavo prieš [[objektai/grupes/Sembai]]

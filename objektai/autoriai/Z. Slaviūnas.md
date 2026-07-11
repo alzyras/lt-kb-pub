@@ -38,17 +38,6 @@ Z. Slaviūnas kartu su M. Lukšiene parengė L. A. Jucevičiaus „Raštų“ ko
 - t-001
   global_id: t-190409
   teiginys: "Z. Slaviūnas kartu su M. Lukšiene parengė L. A. Jucevičiaus „Raštų“ komentarus 1959 m. leidime."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1959 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Iš fragmento išskleistas subjektas Z. Slaviūnas ir jo vaidmuo leidinyje. Nepridėta biografinių duomenų ar platesnio leidinio vertinimo."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "67928-68045; hash=5199597cb81e867160a1a29879808f474c0f3ba6df01bb040159e8c57da279de; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173292
 ## Reikšmingi paminėjimai
@@ -60,8 +49,8 @@ Z. Slaviūnas kartu su M. Lukšiene parengė L. A. Jucevičiaus „Raštų“ ko
     22 Jucevičius L. A. Raštai / Vertė D. Urbas. įvadas M. Lukšienės.
     Komentarai M. Lukšienės ir Z. Slaviūno. -  V, 1959.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -72,7 +61,8 @@ Z. Slaviūnas kartu su M. Lukšiene parengė L. A. Jucevičiaus „Raštų“ ko
 - id: c-173292
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 37"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 37."
   citata_originali: |
     22 Jucevičius L. A. Raštai / Vertė D. Urbas. įvadas M. Lukšienės.
     Komentarai M. Lukšienės ir Z. Slaviūno. -  V, 1959.

@@ -56,20 +56,6 @@ Derybos neįvyko valdovų sąlygomis, todėl buvo grįžta prie karo.
 - t-005
   global_id: t-66816
   teiginys: "1358 m. pasiuntinybėje dėl krikšto Lietuvos valdovai reikalavo, kad Ordinas grąžintų žemes iki Deimės ir Alės upių ir keltųsi kovoti su totoriais."
-  semantiniai_rysiai: "Vokiečių ordinas kariavo prieš Totoriai (0.65)"
-  temporaliniai_duomenys: "įvykio data: 1358 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys paremtas citata, bet reikia aiškiai susieti su įvykiu ir sutvarkyti formuluotę."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "44060-44537; hash=5a568f6c5bd53762fb63245aa0dc41cf65d841018062cfee33dba8b16c30ea0e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Totoriai: 0.65"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vokiečių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Totoriai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Lietuvos valdovų siūlymas Ordinui kovoti prieš totorius tiesiogiai rodo numatomą karinę priešpriešą."
   pagrindžia:
     - c-14179
 
@@ -77,19 +63,6 @@ Derybos neįvyko valdovų sąlygomis, todėl buvo grįžta prie karo.
 - t-006
   global_id: t-66817
   teiginys: "1358 m. Niurnbergo seimui pateiktas krikšto pasiūlymas buvo politinis manevras, nes jo sąlygos deryboms netiko."
-  temporaliniai_duomenys: "įvykio data: 1358 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Reikia tiksliau įvardyti Niurnbergo seimą ir pašalinti neaiškų junginį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "669954-670483; hash=c3939e4e44cd37a463a50ae5a08e71aa9776557b49d5b2b99b584bd105e68098; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Niurnbergas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Pasiuntinybė į Niurnbergą dėl krikšto (1358 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Niurnbergas: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pasiuntinybė į Niurnbergą dėl krikšto (1358 m.)\" parinktas kaip owner_note_path. Targetas \"Niurnbergas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-14180
 ## Reikšmingi paminėjimai
@@ -107,8 +80,8 @@ Derybos neįvyko valdovų sąlygomis, todėl buvo grįžta prie karo.
     tai jiedu siūlė Ordinui išsikelti į Rusijos pietus, ginti krikščionis
     nuo totorių užpuldinėjimo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -129,8 +102,8 @@ Derybos neįvyko valdovų sąlygomis, todėl buvo grįžta prie karo.
     kad tokios sąlygos deryboms netinka. Tai buvo jų tik tam
     tikras politikos manevras.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

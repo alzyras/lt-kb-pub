@@ -30,20 +30,6 @@ Karalius Augustas įsakė lauko etmonui Florijonui Zebžidovskiui vesti lenkus �
 - t-001
   global_id: t-186109
   teiginys: "Karalius Augustas įsakė lauko etmonui Florijonui Zebžidovskiui vesti lenkus į Polocką."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Florijonas Zebžidovskis surengė žygį į Polockas (0.78)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1283547-1284090; hash=e394b97ceab6a4a801758dd71e4fd7b51d5795b5869c10322460ba9a7b782eb6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "siunte_i -> Polockas: 0.91"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Augustas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Polockas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Karalius Augustas įsakė siųsti pajėgas į Polocką."
   pagrindžia:
     - c-169470
 ## Reikšmingi paminėjimai
@@ -62,8 +48,8 @@ Karalius Augustas įsakė lauko etmonui Florijonui Zebžidovskiui vesti lenkus �
     Polocką, o M ik alo ju i R advilai tra u k ti su  lietu v iais link
     Sm olensko.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -74,7 +60,8 @@ Karalius Augustas įsakė lauko etmonui Florijonui Zebžidovskiui vesti lenkus �
 - id: c-169470
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 716"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 716."
   citata_originali: |
     Tiesa, jis n eu žp u o lė L ivonijos, žinodam as, k ad  ten
     g erai p asiren g u si k o v ai k a riu o m e n ė lau k ia ženklo du o ti
@@ -91,6 +78,3 @@ Karalius Augustas įsakė lauko etmonui Florijonui Zebžidovskiui vesti lenkus �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186109
-
-## Ryšiai
-- Florijonas Zebžidovskis surengė žygį į [[objektai/vietos/Polockas]]

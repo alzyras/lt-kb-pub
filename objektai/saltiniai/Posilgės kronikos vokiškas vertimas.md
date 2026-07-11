@@ -32,16 +32,6 @@ Dusburgietis teigia, kad pradžios lotyniškuose Torunės analuose — Ragniten,
 - t-001
   global_id: t-61235
   teiginys: "Posilgės kronikos vokiškame vertime vartojama vietovardžio forma „Rangnith“, perimta iš lotyniškų Torunės analų."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "484975-485193; hash=7c601263f2fbc4d5f558592fda7a28bc54434e299969aaade0f58608cc6e47e7; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Torunė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Posilgės kronikos vokiškas vertimas: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Torunė: mention_match, place, gap=98"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Posilgės kronikos vokiškas vertimas\" parinktas kaip owner_note_path. Targetas \"Torunė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-61867
 ## Reikšmingi paminėjimai
@@ -54,8 +44,8 @@ Dusburgietis teigia, kad pradžios lotyniškuose Torunės analuose — Ragniten,
     2, p. 709). XV a. pradžios lotyniškuose Torunės analuose — Ragniten, o jų pagrindu
     parašytos Posilgės kronikos vokiškame vertime — Rangnith (SRP, 3, p. 131).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -66,7 +56,8 @@ Dusburgietis teigia, kad pradžios lotyniškuose Torunės analuose — Ragniten,
 - id: c-61867
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 153"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 153."
   citata_originali: |
     12, 18, 22, 43). XV a. vokiškame rankraštyje — Ragnith (SRP,
     2, p. 709). XV a. pradžios lotyniškuose Torunės analuose — Ragniten, o jų pagrindu

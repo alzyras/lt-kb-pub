@@ -32,9 +32,6 @@ Be to, Lebedis mokėjo skolas lietuviškomis monetomis, pridėjau 69 flor., 4 gr
 - t-001
   global_id: t-87540
   teiginys: "Lebedis skolas mokėjo lietuviškomis monetomis, prie kurių buvo pridėta 69 florinai, 4 grašiai ir 9 denarai."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "829190-829277; hash=b192519e555ac925f9ce4ccacde409c4589821ffe635be8ec1318a580050c66f; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-83520
 
@@ -42,9 +39,6 @@ Be to, Lebedis mokėjo skolas lietuviškomis monetomis, pridėjau 69 flor., 4 gr
 - t-002
   global_id: t-87541
   teiginys: "Gruodžio 1 d. Lebedis Varšuvoje, būdamas mokesčių rinkėjas, prie lietuviškų monetų pridėjo 3 florinus ir 19 grašių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "829926-830139; hash=c93360a491c33e88c25ca6d6bf8a699c87a70bdc7de1256fb4070da4ec3adb02; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-83519
 ## Reikšmingi paminėjimai
@@ -58,8 +52,8 @@ Be to, Lebedis mokėjo skolas lietuviškomis monetomis, pridėjau 69 flor., 4 gr
     Varšuvoje, būdamas mokesčių rinkėjas, kai karališk. did. bu­
     vo Krokuvoje, pridėjo 3 flor., 19 gr.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -72,8 +66,8 @@ Be to, Lebedis mokėjo skolas lietuviškomis monetomis, pridėjau 69 flor., 4 gr
     Be to, Lebedis mokėjo skolas lietuviškomis monetomis,
     pridėjau 69 flor., 4 gr., 9 den.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

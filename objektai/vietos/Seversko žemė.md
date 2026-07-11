@@ -35,16 +35,6 @@ džios likvidavimo didelėje ČernigovoOrdoje kilo badas ir maras, kuris plito �
 - t-001
   global_id: t-42133
   teiginys: "Seversko žemė buvo į šiaurės rytus nuo Kijevo, o jos rusų miestus pasiekė Ordoje kilęs badas ir maras."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "173468-173724; hash=34bd2fd701c1513b1539f84e3897b9b0599f107797f720295545113f2b2dd77c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Rusai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Seversko žemė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Rusai: mention_match, group, gap=53"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Seversko žemė\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-45326
 
@@ -52,19 +42,6 @@ džios likvidavimo didelėje ČernigovoOrdoje kilo badas ir maras, kuris plito �
 - t-002
   global_id: t-185139
   teiginys: "Į seimą susirinkę Seversko žemės didikai ketino raginti karalių pasirūpinti tos žemės gynyba."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "948154-948646; hash=7aff1eb36d30f79d281bfe082d10f37b8e2b080856c497a1f694a5340d80937e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Severskas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Seversko žemė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Severskas: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Seversko žemė\" parinktas kaip owner_note_path. Targetas \"Severskas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-168500
 
@@ -72,20 +49,6 @@ džios likvidavimo didelėje ČernigovoOrdoje kilo badas ir maras, kuris plito �
 - t-003
   global_id: t-185140
   teiginys: "Po Briansko užėmimo prie išdavikų prisidėjo visa Seversko žemė: Černigovas, Starodubas, Naugardas ir Rylskas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Naugardas priklausė Seversko žemė (0.76); Rylskas priklausė Seversko žemė (0.76)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "984986-985501; hash=21117368fa4028359702c0b0a90f7eb488d7005b2051e52528ae779be1e495d3; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Seversko žemė: 0.76"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Naugardas: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Seversko žemė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Naugardas išvardytas kaip Seversko žemės dalis."
   pagrindžia:
     - c-168501
 
@@ -93,20 +56,6 @@ džios likvidavimo didelėje ČernigovoOrdoje kilo badas ir maras, kuris plito �
 - t-004
   global_id: t-185141
   teiginys: "Šich Achmetas su šimtu tūkstančių raitelių užpuolė Seversko žemę ir siaubė nuo Lietuvos prie Maskvos perėjusių didikų valdas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Šich Achmetas puolė Seversko žemė (0.92)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1002274-1003052; hash=e9c088b1d3fcbfeb6bfc8744227c01117bd38e6710ef7ce80bca3be43f20f551; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Seversko žemė: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Šich Achmetas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Seversko žemė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Šich Achmetas tiesiogiai nurodytas kaip užpuolęs Seversko žemę."
   pagrindžia:
     - c-168502
 
@@ -114,19 +63,6 @@ džios likvidavimo didelėje ČernigovoOrdoje kilo badas ir maras, kuris plito �
 - t-005
   global_id: t-185142
   teiginys: "Gardine vykstant taikos deryboms, iš Seversko žemės įsiveržusi kariuomenė nusiaubė kunigaikščių Ostrogiškių valdas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1329306-1329653; hash=5ac83a71ab02a7875157bc4817e4f6fd2807f31bac863ed73774d658a2847456; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Severskas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Seversko žemė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Severskas: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Seversko žemė\" parinktas kaip owner_note_path. Targetas \"Severskas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-168503
 
@@ -134,21 +70,6 @@ džios likvidavimo didelėje ČernigovoOrdoje kilo badas ir maras, kuris plito �
 - t-006
   global_id: t-188834
   teiginys: "Swięckio veikale nurodoma, kad Triznų giminė yra kilusi iš Seversko žemės."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "653323-653429; hash=3c7471dfb29513ee8df142052faba4c4491c2d1dc809b1b8f677eca70ee5e34f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Severskas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Seversko žemė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Severskas: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Seversko žemė\" parinktas kaip owner_note_path. Targetas \"Severskas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171723
 - susijęs iš Naugardas: Po Briansko užėmimo prie išdavikų prisidėjo visa Seversko žemė, įskaitant Černigovą, Starodubą, Naugardą ir Rylską.
@@ -171,8 +92,8 @@ džios likvidavimo didelėje ČernigovoOrdoje kilo badas ir maras, kuris plito �
     Ordoje kilo badas ir maras, kuris plito į Seversko žemėje (į šiaurryčius nuo Kijevo),
     rusų miestus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -200,8 +121,8 @@ džios likvidavimo didelėje ČernigovoOrdoje kilo badas ir maras, kuris plito �
     šiaip, ir taip išsisukinėjantį karalių rimtai susirūpinti
     tos žemės gynyba.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -227,8 +148,8 @@ džios likvidavimo didelėje ČernigovoOrdoje kilo badas ir maras, kuris plito �
     Seversko žemė — Černigovas, Starodubas, Naugardas ir
     Rylskas.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -256,8 +177,8 @@ džios likvidavimo didelėje ČernigovoOrdoje kilo badas ir maras, kuris plito �
     kunigaikštį, išdrįsusį jam pastoti kelią su ginkluotais
     būriais.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -278,8 +199,8 @@ džios likvidavimo didelėje ČernigovoOrdoje kilo badas ir maras, kuris plito �
     bė kunigaikščių Ostrogiškių valdas. Stanislovas Pacas
     patraukė persekioti niokojančių maskvėnų.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -293,8 +214,8 @@ džios likvidavimo didelėje ČernigovoOrdoje kilo badas ir maras, kuris plito �
     23 Triznų giminė yra kilusi iš Seversko žemės (Swięcki. Opis sta-
     rožytnej Polski. -  T. II).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -322,7 +243,8 @@ džios likvidavimo didelėje ČernigovoOrdoje kilo badas ir maras, kuris plito �
 - id: c-168500
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 536"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 536."
   citata_originali: |
     Apie šiuos susitarimus karalius nieko nežinojo, mat
     tuo metu buvo išvykęs į Lietuvą, kur sušaukė seimą.
@@ -378,7 +300,8 @@ džios likvidavimo didelėje ČernigovoOrdoje kilo badas ir maras, kuris plito �
 - id: c-168502
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 566"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 566."
   citata_originali: |
     Sako, jog skitai,
     laikydamiesi barbariškųjų papročių, šitaip sudarydavę
@@ -407,7 +330,8 @@ džios likvidavimo didelėje ČernigovoOrdoje kilo badas ir maras, kuris plito �
 - id: c-168503
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 736"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 736."
   citata_originali: |
     Nieko nenuveikę,
     pasiuntiniai patraukė atgal, ir
@@ -429,7 +353,8 @@ džios likvidavimo didelėje ČernigovoOrdoje kilo badas ir maras, kuris plito �
 - id: c-171723
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 368"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 368."
   citata_originali: |
     Net buvo ap­
     23 Triznų giminė yra kilusi iš Seversko žemės (Swięcki. Opis sta-
@@ -443,4 +368,3 @@ džios likvidavimo didelėje ČernigovoOrdoje kilo badas ir maras, kuris plito �
 
 ## Ryšiai
 - Puolė Seversko žemę: [[objektai/asmenys/Šich Achmetas]]
-- Turėjo priklausinį: [[objektai/vietos/Naugardas]], [[objektai/vietos/Rylskas]]

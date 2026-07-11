@@ -41,19 +41,6 @@ media_all_json: |-
 - t-001
   global_id: t-101479
   teiginys: "1839 m. Unitų bažnyčia buvo likviduota, o unitai prievarta grąžinti į Rusų stačiatikių bažnyčią."
-  temporaliniai_duomenys: "įvykio data: 1839 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Perrašymas paverčia teiginį sklandžiu enciklopediniu sakiniu."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "199432-199655; hash=8f3a2e9a648cf2e1181e8d83ab08d992b7e0c3d93d872098f7f59cf5be90abce; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Rusai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Unitų bažnyčia unitai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Rusai: mention_match, group, gap=62"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Unitų bažnyčia unitai\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-95035
 
@@ -61,17 +48,6 @@ media_all_json: |-
 - t-002
   global_id: t-101480
   teiginys: "Bajoriškoji santvarka leido šalia katalikų egzistuoti kalvinistų, liuteronų, stačiatikių, unitų ir kitoms etnokonfesinėms bendrijoms."
-  semantiniai_rysiai: "Unitai gyveno Lietuva (0.58)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "120846-121798; hash=2b2d84282513268b3230f6bc20f24b306d5c9b7b0ca63753149d73b6fcb71c9f; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Lietuva: 0.58"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Unitai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys nurodo unitų egzistavimą Lietuvos visuomenėje; tai artima gyvenimo ar buvimo vietoje santykiui, nors formuluotė nėra tiesiogiai apie gyvenimą."
   pagrindžia:
     - c-95034
 ## Reikšmingi paminėjimai
@@ -98,8 +74,8 @@ media_all_json: |-
     vazija (1654–1667), o valdant Saksų dinastijai (1697–1763) Lietuva tapo
     Šiaurės karo (1700–1721) tarp Rusijos ir Švedijos kovų arena.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -113,8 +89,8 @@ media_all_json: |-
     lėliams, uždaryta nemažai katalikų vienuolynų. 1839 m. likviduojama Uni-
     tų bažnyčia, unitai prievarta grąžinami į Rusų stačiatikių bažnyčios gretas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

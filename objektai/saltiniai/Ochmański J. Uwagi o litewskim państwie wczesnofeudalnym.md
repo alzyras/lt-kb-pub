@@ -38,12 +38,6 @@ Dusburgietis teigia, kad ochmański J.
 - t-001
   global_id: t-61201
   teiginys: "J. Ochmańskio straipsnis „Uwagi o litewskim państwie wczesnofeudalnym“ paskelbtas 1961 m. leidinio „Roczniki historyczne“ 27 tome, p. 143–160."
-  temporaliniai_duomenys: "įvykio data: 1961 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pagrindžia bibliografinį faktą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "788345-788446; hash=a50920910f3a47f4c3e6ce6edfc6b3486f59d41b53e51d01aa7d042661f385ee; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-61833
 ## Reikšmingi paminėjimai
@@ -55,8 +49,8 @@ Dusburgietis teigia, kad ochmański J.
     Ochmański J. Uwagi o litewskim państwie wczesnofeudalnym.—Roczniki historyczne,
     1961, 27, s. 143—160.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -67,7 +61,8 @@ Dusburgietis teigia, kad ochmański J.
 - id: c-61833
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 268"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 268."
   citata_originali: |
     Ochmański J. Uwagi o litewskim państwie wczesnofeudalnym.—Roczniki historyczne,
     1961, 27, s. 143—160.

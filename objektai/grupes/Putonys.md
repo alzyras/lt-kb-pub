@@ -30,14 +30,6 @@ Narbutas Putonis (Puttones) apibūdino kaip pranašautojus, ateitį spėjusius i
 - t-001
   global_id: t-189530
   teiginys: "Narbutas Putonis (Puttones) apibūdino kaip pranašautojus, ateitį spėjusius iš stebimo vandens, jo ūžimo ar putų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "520422-520716; hash=4510068c4ff3ea0db46edef5d09bfa3bd0f588e9a1196d3feaac18de714c8419; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172418
 - susijęs iš [[objektai/zodynas/Putonys Puttones.md#claim-t-189322|Putonys Puttones]]: Narbutas Putonis (Puttones) aprašo kaip pranašautojus, kurie ateitį nusakydavo iš vandens ūžimo ar putų ir taikydavo susipykusius žmones.
@@ -56,8 +48,8 @@ Narbutas Putonis (Puttones) apibūdino kaip pranašautojus, ateitį spėjusius i
     niausiomis visuomenėje laikė todėl, kad jų priedermė buvo
     sutaikyti priešus ir susipykusius bet kurio luomo žmones.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -68,7 +60,8 @@ Narbutas Putonis (Puttones) apibūdino kaip pranašautojus, ateitį spėjusius i
 - id: c-172418
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 297"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 297."
   citata_originali: |
     Apie tai kalbėsime straipsnyje
     „Burtai“.

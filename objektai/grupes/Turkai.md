@@ -41,12 +41,6 @@ Dusburgietis teigia, kad apie tai, kaip hospitaljerai užėmė Rodo salą Tais p
 - t-001
   global_id: t-185420
   teiginys: "1429 m. valdovų posėdyje imperatorius ragino po husitų numalšinimo kariuomenę nukreipti prieš turkus ir saracėnus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "727202-727704; hash=70312c6da46c51d21a9c83c9862b8850c8798073b2e7c45662fb7293014469ef; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-168781
 
@@ -54,12 +48,6 @@ Dusburgietis teigia, kad apie tai, kaip hospitaljerai užėmė Rodo salą Tais p
 - t-002
   global_id: t-185421
   teiginys: "Jogaila sutiko stoti į ginklų sąjungą prieš turkus tik tada, jei visi krikščioniškųjų šalių valdovai ryžtųsi karui sausumoje ir jūroje."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "727705-728436; hash=42ffb627104c4c970ac9892c64d92b5918ba280e1e78ad04e16693a512a78419; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-168782
 
@@ -67,12 +55,6 @@ Dusburgietis teigia, kad apie tai, kaip hospitaljerai užėmė Rodo salą Tais p
 - t-003
   global_id: t-185422
   teiginys: "Turkų pavergti Rytų imperijos gyventojai maldavo Vakarų šalių, ypač popiežiaus ir imperatoriaus, padėti krikščionybei."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "904993-905434; hash=59e7a7d9927f53fd480ac03e6fd3b1d1cf4085c44a38bdfc58f7606181baeeab; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-168783
 
@@ -80,12 +62,6 @@ Dusburgietis teigia, kad apie tai, kaip hospitaljerai užėmė Rodo salą Tais p
 - t-004
   global_id: t-185423
   teiginys: "Po Bajazito sutriuškinimo skitų vardas, anot Kojelavičiaus, turkams kėlė didžiausią siaubą."
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "905498-905841; hash=d80fc2d6b55db00a74f0044124b24e675b3dc41c93e17be2ae0268398d8b03a7; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-168784
 
@@ -93,14 +69,6 @@ Dusburgietis teigia, kad apie tai, kaip hospitaljerai užėmė Rodo salą Tais p
 - t-005
   global_id: t-187769
   teiginys: "Turkų sultono didysis paša Malkočas su Moldavijos vaivada Steponu kariavo Lenkijos žemėje iki Lvovo ir Tarnovo apylinkių."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "265487-265924; hash=e3e51e4e5dfa608bf7040a6998a7a471dd6513759a392b0521c2b6eb48f43992; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-170708
 
@@ -108,12 +76,6 @@ Dusburgietis teigia, kad apie tai, kaip hospitaljerai užėmė Rodo salą Tais p
 - t-006
   global_id: t-193465
   teiginys: "Valdo vų posėdyje jis visą laiką ra gino sudaryti santarvę, sutelktomis jėgomis numalšinti husitus, pirmiausia, žinoma, Čekijoje, o vėliau visą kariuomenę nukreipti prieš turkus ir saracėnus, kerši jant už Rytų imperijos griovimą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "727202-727704; hash=70312c6da46c51d21a9c83c9862b8850c8798073b2e7c45662fb7293014469ef; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-168781
 
@@ -121,12 +83,6 @@ Dusburgietis teigia, kad apie tai, kaip hospitaljerai užėmė Rodo salą Tais p
 - t-007
   global_id: t-193466
   teiginys: "Jogaila, aptaręs su senatu ir Vytautu šiuos pasiūlymus, atsakė: jeigu visi krikščio niškųjų šalių valdovai susitarsią ne tik narsiai paskelb ti turkams karą, bet visomis jėgomis kuo atkakliausiai jį tęsti sausumoje bei jūroje, jis neatsisakysiąs šito kios."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "727705-728436; hash=42ffb627104c4c970ac9892c64d92b5918ba280e1e78ad04e16693a512a78419; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-168782
 
@@ -134,12 +90,6 @@ Dusburgietis teigia, kad apie tai, kaip hospitaljerai užėmė Rodo salą Tais p
 - t-008
   global_id: t-193467
   teiginys: "Rytų imperijos gyventojai, pavergti turkų, maldavo Va karų šalis, o ypač popiežių bei imperatorių padėti bežlungančiai krikščionybei."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "904993-905434; hash=59e7a7d9927f53fd480ac03e6fd3b1d1cf4085c44a38bdfc58f7606181baeeab; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-168783
 
@@ -147,12 +97,6 @@ Dusburgietis teigia, kad apie tai, kaip hospitaljerai užėmė Rodo salą Tais p
 - t-009
   global_id: t-193468
   teiginys: "Antra vertus, visi žinojo, kad po Bajazito sutriuš kinimo skitų vardas turkams kelia didžiausią siaubą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "905498-905841; hash=d80fc2d6b55db00a74f0044124b24e675b3dc41c93e17be2ae0268398d8b03a7; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-168784
 ## Reikšmingi paminėjimai
@@ -182,8 +126,8 @@ Dusburgietis teigia, kad apie tai, kaip hospitaljerai užėmė Rodo salą Tais p
 
     siūlyti, nei įgyvendinti.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -210,8 +154,8 @@ Dusburgietis teigia, kad apie tai, kaip hospitaljerai užėmė Rodo salą Tais p
     miesi, jog jų nepasiekia prie­
     šo smūgiai.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -237,8 +181,8 @@ Dusburgietis teigia, kad apie tai, kaip hospitaljerai užėmė Rodo salą Tais p
     jis iš paskutiniųjų rengėsi kariauti prieš krikščionių
     pasaulį.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -257,8 +201,8 @@ Dusburgietis teigia, kad apie tai, kaip hospitaljerai užėmė Rodo salą Tais p
     menę, imperatorius ir popiežius stengėsi per Liudviką
     sukurstyti prieš turkus skitus.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -278,8 +222,8 @@ Dusburgietis teigia, kad apie tai, kaip hospitaljerai užėmė Rodo salą Tais p
     Lvovo, ir net ligi Tamovo, už dešimties mylių nuo Kro­
     kuvos 4 3 . Sugrįžo, padarę Lenkijos žemei daug žalos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -323,7 +267,8 @@ Dusburgietis teigia, kad apie tai, kaip hospitaljerai užėmė Rodo salą Tais p
 - id: c-168782
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 415"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 415."
   citata_originali: |
     Jogaila, aptaręs su senatu ir
     Vytautu šiuos pasiūlymus, atsakė: jeigu visi krikščio­
@@ -351,7 +296,8 @@ Dusburgietis teigia, kad apie tai, kaip hospitaljerai užėmė Rodo salą Tais p
 - id: c-168783
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 513"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 513."
   citata_originali: |
     Žiemos pabaigoje atvyko Lietuvon pas karalių Liud­
     vikas, Antiochijos
@@ -378,7 +324,8 @@ Dusburgietis teigia, kad apie tai, kaip hospitaljerai užėmė Rodo salą Tais p
 - id: c-168784
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 513"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 513."
   citata_originali: |
     Tačiau tuo metu niekas nenorėjo pir­
     mas susigrumti su bendru priešu ir užsitraukti sau bė­

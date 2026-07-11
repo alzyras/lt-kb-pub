@@ -35,16 +35,6 @@ Jam į pagalbą bu­ vo paskirtas Žemaičių seniūnas Kęsgaila.
 - t-001
   global_id: t-35195
   teiginys: "Kęsgaila buvo Žemaičių seniūnas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "275432-275694; hash=a55185570f51adca8df4cf453a1a0d6f1ec289cc829e1c8c1255bf72b5b8e03e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> seniūnas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kęsgaila: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "seniūnas: mention_match, thing, gap=23"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kęsgaila\" parinktas kaip owner_note_path. Targetas \"seniūnas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-38074
 
@@ -52,12 +42,6 @@ Jam į pagalbą bu­ vo paskirtas Žemaičių seniūnas Kęsgaila.
 - t-002
   global_id: t-193945
   teiginys: "Ir jų dar nebuvo suvažiavusių, nes kai kurie buvo tolimuose Didžiosios Kunigaikštystės miestuose, srityse: 2emaičių seniūnas Kęsgailą2 Žemaitijoje, Jonas Goštautas3 Smolenske, nes jis tuo metu buvo Smolensko vietininku."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "215660-216451; hash=88ed949fccbc38b6c3e84186277e7500f184523981c1fafe12d1e5ddbf244c27; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176570
 
@@ -65,12 +49,6 @@ Jam į pagalbą bu­ vo paskirtas Žemaičių seniūnas Kęsgaila.
 - t-003
   global_id: t-193946
   teiginys: "Ir Kęsgailą su tuo sutiko ir, kai prabėgo treji metai, Kęsgailą jx > senovei tapo Žemai čių seniūnu, o Kantautą pašalino2 0 ."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "223656-224423; hash=0eaee9561e6ec01ac18618cb1ef90b131c5f6ff3138277676cd3235c2c430b36; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176571
 - susijęs iš [[objektai/ivykiai/Slapta Augusto ir Barboros Radvilaitės santuoka.md#claim-t-185538|Slapta Augusto ir Barboros Radvilaitės santuoka]]: Augustas ir Barbora Radvilaitė prisiekė santuokinę ištikimybę Stanislovo Kęsgailos ir dviejų Radvilų akivaizdoje.
@@ -95,8 +73,8 @@ Jam į pagalbą bu­ vo paskirtas Žemaičių seniūnas Kęsgaila.
     kuriems apskričiams Lietuvos bajorų privilegijas, Vytautas
     Panevėžio apylinkėmis grįžo į Trakus, o iš čia į Vilnių^1 ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -122,8 +100,8 @@ Jam į pagalbą bu­ vo paskirtas Žemaičių seniūnas Kęsgaila.
     Vilniaus kaštelionui, Žemaičių seniūnui Kęsgailai, ir
     Mikalojui Nemiravičiui * , ir krašto maršalui Radvilai 9 .
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -149,8 +127,8 @@ Jam į pagalbą bu­ vo paskirtas Žemaičių seniūnas Kęsgaila.
     prabėgo treji metai, Kęsgailą jx >  senovei tapo Žemai­
     čių seniūnu, o Kantautą pašalino2 0 .
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

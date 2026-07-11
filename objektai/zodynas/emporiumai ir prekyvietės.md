@@ -47,19 +47,6 @@ Antikinės prekybos ir kolonizacijos istorijos terminas.
 - t-002
   global_id: t-192145
   teiginys: "Narbutas rašo, kad graikų emporiumai, arba prekyvietės, pradėjo klestėti VII amžiuje prieš Kristaus gimimą."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "89607-90033; hash=74484e76cf47eb95fc2a29b130ab086e71299fa2df784f91a675b7a6e34b8415; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  ryšio_patikimumas: "susije_su -> Chersonas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "emporiumai ir prekyvietės: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Chersonas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"emporiumai ir prekyvietės\" parinktas kaip owner_note_path. Targetas \"Chersonas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175031
 
@@ -67,20 +54,6 @@ Antikinės prekybos ir kolonizacijos istorijos terminas.
 - t-001
   global_id: t-192146
   teiginys: "Narbutas graikų emporiumus, arba prekyvietes, kildina iš pastovių graikų gyvenviečių prie Dnestro ir Dnepro žiočių."
-  teiginio_tipas: "saltinio_teiginys"
-  semantiniai_rysiai: "Graikai gyveno Dnepras (0.72)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "89607-90033; hash=74484e76cf47eb95fc2a29b130ab086e71299fa2df784f91a675b7a6e34b8415; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  ryšio_patikimumas: "gyveno -> Dnepras: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Graikai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Dnepras: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas mini pastovias graikų gyvenvietes prie Dnepro žiočių, todėl ryšys su gyvenimu ten yra pagrįstas."
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175031
 ## Reikšmingi paminėjimai
@@ -97,8 +70,8 @@ Antikinės prekybos ir kolonizacijos istorijos terminas.
     pradėjo klestėti ir vėliau virto tokiais turtingais kaip
     Olbija, Heraklėja, Chersonas ir kiti.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -110,7 +83,8 @@ Antikinės prekybos ir kolonizacijos istorijos terminas.
 - id: c-175031
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 52"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 52."
   citata_originali: |
     Jau labai senais laikais graikai užmezgė santykius su
     Juodosios jūros pakrančių skitais. Sakoma, kad Neopto-

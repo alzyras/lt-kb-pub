@@ -31,19 +31,6 @@ Recenzentas ironiškai linkėjo Narbutui, kad šis lietuvių „taip skubotai ne
 - t-001
   global_id: t-192110
   teiginys: "Recenzentas ironiškai linkėjo Narbutui, kad šis lietuvių „taip skubotai neperdarytų į graikus“ kaip Voigtas juos sugiminiavo su vokiečiais."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "103801-104466; hash=e92b6631aaead5525e6d8e1e67c979c991b00c42dff873f4022f1e54e696855a; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
-  ryšio_patikimumas: "susije_su -> Vokiečiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mus taip skubotai neperdarytų į graikus: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Vokiečiai: mention_match, group, gap=70"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mus taip skubotai neperdarytų į graikus\" parinktas kaip owner_note_path. Targetas \"Vokiečiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174991
 ## Reikšmingi paminėjimai
@@ -63,8 +50,8 @@ Recenzentas ironiškai linkėjo Narbutui, kad šis lietuvių „taip skubotai ne
     tų į graikus, kaip gerbiamasis Foigtas (be viso kito, dar ir isto­
     rikas) mus sugiminiavo su vokiečiais“22’.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -75,7 +62,8 @@ Recenzentas ironiškai linkėjo Narbutui, kad šis lietuvių „taip skubotai ne
 - id: c-174991
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 56"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 56."
   citata_originali: |
     Antra vertus, suvokdamas istoriko pasirinkto tikslo
     sudėtingumą, anonimas rašė: „Autorius, norėdamas ab ovo

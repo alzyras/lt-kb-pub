@@ -34,14 +34,6 @@ Jo nevykusiai padaryta bažnytinė unija sukiršino rytų apeigų tikinčiuosius
 - t-001
   global_id: t-193291
   teiginys: "Jo nevykusiai padaryta bažnytinė unija sukiršino rytų apeigų tikinčiuosius (unitus su pravoslavais) ir paruošė dirvą vėlesnėms audroms ir Maskvos įsikišimui."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "642261-642752; hash=6efc545aedae4b1b1159a67f752fa37dee74091fde4f3954af0bb1381a819c9f; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-176019
 ## Reikšmingi paminėjimai
@@ -60,8 +52,8 @@ Jo nevykusiai padaryta bažnytinė unija sukiršino rytų apeigų tikinčiuosius
     galėjo, bet užtat tarp katalikų ir protestantų ponų šeimų kas-
     kart vis labiau augo nesantaika, kelianti netvarką.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

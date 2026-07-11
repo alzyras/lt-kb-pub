@@ -33,17 +33,6 @@ Buvo valakai, kryžiuočių dalinys (100 riterių), vadovaujamas Ragainės komt�
 - t-001
   global_id: t-39600
   teiginys: "Ragainės komtūras Markvardas vadovavo 100 riterių kryžiuočių daliniui Vytauto kariuomenėje prie Kijevo."
-  semantiniai_rysiai: "Markvardas (Ragainės komtūras) buvo sąjungininkas su Vytautas (Lietuvos valdovas, XIV–XV a.) (0.62); Markvardas (Ragainės komtūras) keliavo į Kijevas (0.58)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "216240-216685; hash=ce9aec0ee6586f9c8d95483bede3129b19944c5f444186b7f67b178eebe251b5; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sajungininkas_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.62"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Markvardas (Ragainės komtūras): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Markvardo vadovaujamas kryžiuočių dalinys buvo Vytauto kariuomenėje."
   pagrindžia:
     - c-41404
 - susijęs iš [[objektai/asmenys/Liudvikas iš Libencelės.md#claim-t-59884|Liudvikas iš Libencelės]]: Liudvikas iš Libencelės ir Markvardas iš Revelingės su dviem broliais ir 26 ginklanešiais užpuolė plėšikautojus ir 25 jų nukovė.
@@ -70,8 +59,8 @@ Buvo valakai, kryžiuočių dalinys (100 riterių), vadovaujamas Ragainės komt�
     čių dalinys (100 riterių), vadovaujamas
     Ragainės komtūro Markvardo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -101,7 +90,3 @@ Buvo valakai, kryžiuočių dalinys (100 riterių), vadovaujamas Ragainės komt�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-39600
-
-## Ryšiai
-- Sąjungininkai: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Markvardas (Ragainės komtūras) keliavo į [[objektai/vietos/Kijevas]]

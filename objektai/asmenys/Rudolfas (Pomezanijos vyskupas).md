@@ -35,17 +35,6 @@ Vos tik čionai atėjo žinia apie tą sutartį, Varmės vysku­ pas Eberhardas,
 - t-001
   global_id: t-87847
   teiginys: "Pomezanijos vyskupas Rudolfas Elblionge su kitais vyskupais surengė pasitarimą dėl taikos sutarties ir prisidėjo prie laiško Livonijai."
-  semantiniai_rysiai: "Rudolfas (Pomezanijos vyskupas) keliavo į Elbliongas (0.64)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "176021-177149; hash=bef9323d457b3864381f9e14cced233651c83ed30c1377342d1e8ca7aa35c562; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Elbliongas: 0.64"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Rudolfas (Pomezanijos vyskupas): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Elbliongas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Rudolfas su kitais vyskupais tiesiogiai siejamas su pasitarimo surengimu Elblionge."
   pagrindžia:
     - c-83826
 ## Reikšmingi paminėjimai
@@ -75,8 +64,8 @@ Vos tik čionai atėjo žinia apie tą sutartį, Varmės vysku­ pas Eberhardas,
     myniniams kraštams. Jie rašo: „Tie velnio sūnūs savo suk­
     tybėmis klastingai sandėriais taikosi jus ir mus pražudytip.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -116,6 +105,3 @@ Vos tik čionai atėjo žinia apie tą sutartį, Varmės vysku­ pas Eberhardas,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87847
-
-## Ryšiai
-- Rudolfas (Pomezanijos vyskupas) keliavo į [[objektai/vietos/Elbliongas]]

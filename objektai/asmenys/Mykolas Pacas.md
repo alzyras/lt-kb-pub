@@ -36,17 +36,6 @@ Mykolas Pacas: seime lenkai su karalium priversdavo ir Lietuvos ka- riuomenę at
 - t-003
   global_id: t-79142
   teiginys: "Mykolas Pacas buvo vienas bajorų konfederacijos vadų, kovojusių prieš švedus ir jų sąjungininkus."
-  semantiniai_rysiai: "Mykolas Pacas kariavo prieš Švedai (0.80)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "722126-722466; hash=ec7b44fc4dbf5e9f6527f1999dfe694f518cd4bb8f1c261b9db80d75cfb89836; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Švedai: 0.80"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Mykolas Pacas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Švedai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Teiginyje Mykolas Pacas siejamas su vadais, kovojusiais prieš švedus."
   pagrindžia:
     - c-76226
 
@@ -54,9 +43,6 @@ Mykolas Pacas: seime lenkai su karalium priversdavo ir Lietuvos ka- riuomenę at
 - t-002
   global_id: t-79144
   teiginys: "Mykolas Pacas buvo hetmonas ir Vilniaus vaivada."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "722126-722466; hash=ec7b44fc4dbf5e9f6527f1999dfe694f518cd4bb8f1c261b9db80d75cfb89836; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-76225
 - susijęs iš Antakalnis: Antakalnyje hetmonas Mykolas Pacas pastatė Vilniaus barokinę Šv. Petro ir Povilo bažnyčią.
@@ -73,8 +59,8 @@ Mykolas Pacas: seime lenkai su karalium priversdavo ir Lietuvos ka- riuomenę at
     Vilniaus vyskupas, ketvirtas, Kazimieras, — Žemaičių vyskupas,
     o penktas, Petras, — Žemaičių seniūnas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -92,8 +78,8 @@ Mykolas Pacas: seime lenkai su karalium priversdavo ir Lietuvos ka- riuomenę at
     Kristupo ir Mykolo Pacų. Jai priklausė ir dalis išlikusios Lietuvos
     kariuomenės.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -139,6 +125,3 @@ Mykolas Pacas: seime lenkai su karalium priversdavo ir Lietuvos ka- riuomenę at
   patikimumo_saltinis: ai
   pagrindzia:
     - t-79142
-
-## Ryšiai
-- Mykolas Pacas kariavo prieš [[objektai/grupes/Švedai]]

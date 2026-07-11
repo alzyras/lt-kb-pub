@@ -34,9 +34,6 @@ Savo tyrinėjimus jis paskelbė ir atskira knyga — „Apie lietuvių tautos ir
 - t-001
   global_id: t-67358
   teiginys: "Ks. Bauža 1806 m. išleido knygą „Apie lietuvių tautos ir kalbos kilmę“, kurioje ragino gelbėti lietuvybę."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "912899-913134; hash=75890c2c46ae1809b397effecc31bfb0134109e565336c8d010c5a2a1c4db979; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-67298
 
@@ -44,9 +41,6 @@ Savo tyrinėjimus jis paskelbė ir atskira knyga — „Apie lietuvių tautos ir
 - t-002
   global_id: t-67359
   teiginys: "Veikale „Apie lietuvių tautos ir kalbos kilmę“ siūloma įsteigti lietuvių kalbą mokančią draugiją, kuri rinktų tautosaką, senienas ir leistų lietuviškas knygas."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "913563-913974; hash=72e4843424355a0963035d0a65eba911ac964049eba13297b0c7a82fb9651a4f; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-67297
 ## Reikšmingi paminėjimai
@@ -62,8 +56,8 @@ Savo tyrinėjimus jis paskelbė ir atskira knyga — „Apie lietuvių tautos ir
     senoliai buvę Romos nukariautojai geruliai ir kad senovėje jie tu-
     rėję didelę literatūrą, kuri žuvusi dėl nelemtų istorinių aplinkybių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -79,8 +73,8 @@ Savo tyrinėjimus jis paskelbė ir atskira knyga — „Apie lietuvių tautos ir
     ir atskira knyga — „Apie lietuvių tautos ir kalbos kilmę"
     (1806 m.), kurioje ragina gelbėti lietuvybę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

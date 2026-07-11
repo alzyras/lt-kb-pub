@@ -34,17 +34,6 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
 - t-001
   global_id: t-02923
   teiginys: "Šiaurės ir Baltijos jūrose suaktyvėjo prekyba, o jose įsigalėjo vokiškųjų miestų pirklių sąjunga Hanza."
-  semantiniai_rysiai: "Hanza valdė Šiaurės jūra (0.70); Hanza valdė Baltija (0.68)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "345857-346263; hash=c70f9ad6e48fbc1a38d033e7b71178cb83bde2a72f15489973d5a3b38d85ddb4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde -> Šiaurės jūra: 0.70"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Hanza: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Šiaurės jūra: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Hanzos įsigalėjimas Šiaurės ir Baltijos jūrose remia valdymo ar dominavimo santykį."
   pagrindžia:
     - c-166497
 
@@ -52,17 +41,6 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
 - t-001
   global_id: t-02923
   teiginys: "Šiaurės ir Baltijos jūrose suaktyvėjo prekyba, o jose įsigalėjo vokiškųjų miestų pirklių sąjunga Hanza."
-  semantiniai_rysiai: "Hanza valdė Šiaurės jūra (0.70); Hanza valdė Baltija (0.68)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "345857-346263; hash=c70f9ad6e48fbc1a38d033e7b71178cb83bde2a72f15489973d5a3b38d85ddb4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde -> Šiaurės jūra: 0.70"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Hanza: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Šiaurės jūra: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Hanzos įsigalėjimas Šiaurės ir Baltijos jūrose remia valdymo ar dominavimo santykį."
   pagrindžia:
     - c-166497
 
@@ -70,21 +48,6 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
 - t-003
   global_id: t-192790
   teiginys: "Narbutas rašė, kad Dionyzas iš Charakso minėjo gintarą ten, kur Aldeskos upė įteka į Šiaurės jūrą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "270600-271016; hash=dc0a54c7fce063a1e2f63c7cfb237825409c10a04572b85b88f6c9ff0f966da4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aldeskos upė: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Šiaurės jūra: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Aldeskos upė: mention_match, place, gap=21"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šiaurės jūra\" parinktas kaip owner_note_path. Targetas \"Aldeskos upė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175560
 ## Reikšmingi paminėjimai
@@ -103,8 +66,8 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
     za. Nuo to tad laiko (XIII amžiaus) ir Lietuvos prekyba ėmė
     krypti į Baltijos jūrą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -125,8 +88,8 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
     laiko pasakų išmone, tačiau mes, spręsdami iš senovės
     1 Lib.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -159,7 +122,8 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
 - id: c-175560
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 150"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 150."
   citata_originali: |
     Bet turbūt
     dėl kažkokio ¡pirkliško pavydo jie tiksliai nenurodė nei
@@ -176,6 +140,3 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192790
-
-## Ryšiai
-- Buvo valdoma: [[objektai/grupes/Hanza]]

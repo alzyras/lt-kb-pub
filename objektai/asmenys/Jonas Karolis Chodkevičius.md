@@ -41,20 +41,6 @@ Chodkevičiaus vadovaujama Lietuvos Didžiosios Kunigaikštijos kariuomenė (kai
 - t-001
   global_id: t-18977
   teiginys: "1605 m. Jonas Karolis Chodkevičius prie Kirchholmo vadovavo LDK kariuomenei, kuri nugalėjo 12 tūkst. švedų."
-  semantiniai_rysiai: "Lietuvos kariuomenė kariavo prieš Švedai (0.92); Jonas Karolis Chodkevičius kariavo prieš Švedai (0.90)"
-  temporaliniai_duomenys: "įvykio data: 1605 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys yra fragmentas; citata pagrindžia pilną sakinį apie mūšio rezultatą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "158763-159123; hash=8f86e6d16931e5e7f7b2bfe92c34ea20e90af4af3130184619f595dd6988a085; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Švedai: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuvos kariuomenė: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Švedai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Lietuvos Didžiosios Kunigaikštijos kariuomenė nugalėjo švedus."
   pagrindžia:
     - c-21738
 - susijęs iš Kuoknesė: Švedijos kariuomenė per trumpą laiką užėmė Kuoknesę, o 1608 m. rudenį Jonas Karolis Chodkevičius ją išvadavo.
@@ -87,8 +73,8 @@ Chodkevičiaus vadovaujama Lietuvos Didžiosios Kunigaikštijos kariuomenė (kai
     vadovaujama Lietuvos Didžiosios Kunigaikštijos kariuomenė (kairėje),
     turinti 3 tūkst. raitelių, nugali 12 tūkst. švedų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -116,9 +102,7 @@ Chodkevičiaus vadovaujama Lietuvos Didžiosios Kunigaikštijos kariuomenė (kai
     - t-18977
 
 ## Ryšiai
-- Jonas Karolis Chodkevičius keliavo į [[objektai/vietos/Livonija]], [[objektai/vietos/Piarnu]]
+- Jonas Karolis Chodkevičius keliavo į [[objektai/vietos/Livonija]]
 - Jonas Karolis Chodkevičius puolė [[objektai/vietos/Daugavgryva]], [[objektai/vietos/Piarnu]]
-- Jonas Karolis Chodkevičius užėmė [[objektai/vietos/Kuoknesė]], [[objektai/vietos/Viljandis]]
-- Jonas Karolis Chodkevičius gynė [[objektai/vietos/Piarnu]], [[objektai/vietos/Smolenskas]]
-- Jonas Karolis Chodkevičius siuntė į [[objektai/vietos/Salacgryva]]
-- Jonas Karolis Chodkevičius kariavo prieš [[objektai/grupes/Kazokai]], [[objektai/grupes/Švedai]]
+- Jonas Karolis Chodkevičius gynė [[objektai/vietos/Smolenskas]]
+- Jonas Karolis Chodkevičius kariavo prieš [[objektai/grupes/Švedai]]

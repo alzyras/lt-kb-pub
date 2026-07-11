@@ -37,21 +37,6 @@ Vitlandija minima kaip viena iš sričių, kurias Liūbeko gyventojai gavo už p
 - t-001
   global_id: t-192832
   teiginys: "Vitlandija minima kaip viena iš sričių, kurias Liūbeko gyventojai gavo už pagalbą kryžiuočiams užkariaujant sambius."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "622898-623229; hash=ad2997b09beacff50c54f5a730704576f43cae056ef5a24091fe7ba637020ed1; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Sambiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vitlandija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Sambiai: mention_match, group, gap=108"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vitlandija\" parinktas kaip owner_note_path. Targetas \"Sambiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175602
 
@@ -59,14 +44,6 @@ Vitlandija minima kaip viena iš sričių, kurias Liūbeko gyventojai gavo už p
 - t-002
   global_id: t-192833
   teiginys: "Narbutas pabrėžė, kad Vitlandija minima atskirai greta Sambijos ir kad toks skirtumas aptinkamas jau 1224 metų Honorijaus III bulėje."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "623595-623930; hash=ae538756c4d46c4a5495e3a283cd94f9627b2292c6f2b72455eebe6d89b27dcd; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175603
 - susijęs iš [[objektai/asmenys/Alberichas.md#claim-t-191934|Alberichas]]: Alberichas 1228 metų kronikoje tarp pagonių provincijų minėjo Prūsiją, Kuršą, Letoniją, Vitlandiją ir Sembą.
@@ -102,8 +79,8 @@ Vitlandija minima kaip viena iš sričių, kurias Liūbeko gyventojai gavo už p
     nimą už suteiktą kryžiuočiams pagalbą užkariaujant sam-
     bius, o būtent Sambiją, Vitlandiją ir dalį Varmijos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -121,8 +98,8 @@ Vitlandija minima kaip viena iš sričių, kurias Liūbeko gyventojai gavo už p
     kia skaityti Witlandia-, tai jau teigė Tunmanas (Unter­
     suchungen ettr.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -133,7 +110,8 @@ Vitlandija minima kaip viena iš sričių, kurias Liūbeko gyventojai gavo už p
 - id: c-175602
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 346"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 346."
   citata_originali: |
     Ligi šiol žinoma seniausia sutartis, primenanti dingu­
     sios Sambijos dalies egzistavimą senovėje; ji esanti 1246
@@ -151,7 +129,8 @@ Vitlandija minima kaip viena iš sričių, kurias Liūbeko gyventojai gavo už p
 - id: c-175603
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 346"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 346."
   citata_originali: |
     Visų pirma čia Vitlandija minima atski­
     rai greta Sambijos. Sis skirtumas yra esminis dalykas;
@@ -168,4 +147,4 @@ Vitlandija minima kaip viena iš sričių, kurias Liūbeko gyventojai gavo už p
     - t-192833
 
 ## Ryšiai
-- Vitlandija priklausė [[objektai/vietos/Liubekas]], [[objektai/vietos/Varmija]]
+- Vitlandija priklausė [[objektai/vietos/Varmija]]

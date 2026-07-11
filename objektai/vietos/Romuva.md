@@ -33,16 +33,6 @@ media_all_json: |-
 - t-004
   global_id: t-84715
   teiginys: "Raseinių ir Ariogalos apylinkės laikytos svarbiomis pagonims, nes čia stovėjo Romuva su Perkūno šventykla ir Krivių Krivaičio buveine."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "158115-158555; hash=f0d470cd9c9522c09cb930638f56814f1294737387ca9da3d2aa553e106255ec; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Ariogala: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Romuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Ariogala: mention_match, place, gap=66"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Romuva\" parinktas kaip owner_note_path. Targetas \"Ariogala\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-80850
 
@@ -50,17 +40,6 @@ media_all_json: |-
 - t-001
   global_id: t-84716
   teiginys: "Romuva šaltiniuose minima kaip Nadruvoje esanti šventykla su kriviu."
-  semantiniai_rysiai: "Romuva priklausė Nadruva (0.92)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "36579-36911; hash=de23168ae4121b5db08997e53c7f7914aaf8be62a55ca74316b418708a8b7677; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Nadruva: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Romuva: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Nadruva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Frazė tiesiogiai nurodo Romuvą esant Nadruvoje."
   pagrindžia:
     - c-24436
 
@@ -68,9 +47,6 @@ media_all_json: |-
 - t-002
   global_id: t-84717
   teiginys: "Romuvoje pagrindinis kulto objektas buvo ugnis."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "36913-37259; hash=5936109903a48c0d84bc007e6257320ec92ede4738e899593cf503a6954748fc; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-24437
 
@@ -78,16 +54,6 @@ media_all_json: |-
 - t-003
   global_id: t-84718
   teiginys: "Romuva minima kaip Perkūno šventykla ir vyriausiojo vaidilos Krivių Krivaičio pagrindinė buveinė."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "158288-158701; hash=d74a6533ff996ad5d2005f2122f331c4435808276aceb3da017719d2556225de; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Ariogala: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Romuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Ariogala: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Romuva\" parinktas kaip owner_note_path. Targetas \"Ariogala\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-80851
 
@@ -95,20 +61,6 @@ media_all_json: |-
 - t-005
   global_id: t-183626
   teiginys: "Lietuvos istorijos autoriai Nadruvoje buvusią Romuvą laiko ankstyva pagonybės virtimo institucine religija apraiška."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Romuva priklausė Nadruva (0.92)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "36682-36986; hash=ed8064a9ddc8fe3dfac49ca34c40ab66158c82a1d7ae93d4ded76066df3b72eb; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Nadruva: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Romuva: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Nadruva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Romuva buvo Nadruvoje."
   pagrindžia:
     - c-167018
 
@@ -116,19 +68,6 @@ media_all_json: |-
 - t-006
   global_id: t-183627
   teiginys: "Romuvoje pagrindinis kulto objektas buvo ugnis."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "36988-37338; hash=bd3ed4d5893afd434d32ff294066bafc36fb390911e43460b1a5d904f41bda59; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aukuras: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Romuva: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Aukuras: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Romuva\" parinktas kaip owner_note_path. Targetas \"Aukuras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-167019
 - susijęs iš [[objektai/autoriai/Dundulienė P.md#claim-t-64574|Dundulienė P]]: Dundulienės P. darbas „Medžiai“ minimas bibliografijoje apie Romovę arba Romuvą.
@@ -195,8 +134,8 @@ media_all_json: |-
     institucine religija procesą. Šio proceso ankstyvąja apraiška reikėtų laikyti
     šaltiniuose minimą šventyklą – Nadruvoje esančią Romuvą ir jos krivį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -211,8 +150,8 @@ media_all_json: |-
     sąjungą, sudarytą tarpgentinėje teritorijoje esančiai šventovei ginti. Ro-
     muvoje pagrindinis kulto objektas buvo ugnis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -231,8 +170,8 @@ media_all_json: |-
     vėjo Romuva (Perkūno šventykla ir vyriausiojo vaidilos Kri­
     vių Krivaičio pagrindinė buveinė).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -249,8 +188,8 @@ media_all_json: |-
     pelenais, kryžiuočių kariauna puolėsi Bisenės pilies link, pa­
     siryžusi užimti ją šturmu, ir jau vėlų vakarą imta pulti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -266,8 +205,8 @@ media_all_json: |-
     šaltiniuose minimą šventyklą – Nadruvoje esančią Romuvą ir jos krivį.
     Tai jau turėtų būti savarankiška institucija, matyt, išlaikoma iš dovanų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -283,8 +222,8 @@ media_all_json: |-
     muvoje pagrindinis kulto objektas buvo ugnis. Jos garbinimas susijęs su
     Lietuvoje išplitusiais Aukuro kalnais ir akmenimis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -402,5 +341,4 @@ media_all_json: |-
     - t-183627
 
 ## Ryšiai
-- Turėjo priklausinį: [[objektai/daiktai/Šventasis ąžuolas]]
-- Romuva priklausė [[objektai/grupes/Baltai]], [[objektai/vietos/Nadruva]]
+- Romuva priklausė [[objektai/vietos/Nadruva]]

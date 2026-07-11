@@ -30,19 +30,19 @@ amziai:
   - 'XV'
 periodo_grupes:
   - 'LDK'
-media_total_count: '13'
-media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/f/f6/Bacciarelli_-_W%C5%82adys%C5%82aw_II.png'
-media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3ABacciarelli_-_W%C5%82adys%C5%82aw_II.png'
+media_total_count: '12'
+media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/2/2c/Seal_of_Jogaila_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1386_%282%29.jpg'
+media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3ASeal_of_Jogaila_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1386_%282%29.jpg'
 media_primary_directness: 'direct'
-media_primary_relation_type: 'portrait_of'
+media_primary_relation_type: 'seal_of'
 media_primary_json: |-
-  {"mediaId":"m-fd30f452de57eb6505fa0558","title":"Bacciarelli - Władysław II.png","caption":"Jeden z 22 portretów tworzących poczet polskich władców w Pokoju Marmurowym w Zamku Królewskim w Warszawie. Obraz należał do kolekcji Stanisława Augusta, w katalogu z 1795 nr 1163. Władysław II Jagiełło (1348-1434), wielki książę litewski, król polski 1386. Na odwrocie napis: Nro 7/ VLADISLAVS/ JAGIELLO/ Magnus DUX Lithvaniae/ Regnare coepit qua Rex Poloniae/ eodem die quô nupsit Hedvigi,/ d: 14. Febr: Ao 1386. Lithvaniam/ adjunxit Poloniae. Academiam/ Cracoviensem erexit. Crucigeros/ fregit, Nobilem nullum nisi Iu=/re victum captivare appromisit./ Obijt in Oppido Grodek./ d. 31 Maij. Ao 1434/ Aetatis suae, 80./ Regni, 48. Inskrypcja na obramieniu obrazu: VLADISLAUS JAGIELLO/ + MCCCCXXXIV.","creator":"Marcello Bacciarelli","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between 1768 and 1771 date QS:P571,+1750-00-00T00:00:00Z/7,P1319,+1768-00-00T00:00:00Z/9,P1326,+1771-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ABacciarelli_-_W%C5%82adys%C5%82aw_II.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f6/Bacciarelli_-_W%C5%82adys%C5%82aw_II.png","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1}
+  {"mediaId":"m-562383412096d7095859559f","title":"Seal of Jogaila with the Polish Eagle and Lithuanian Vytis (Waykimas), 1386 (2).jpg","caption":"Jogailos antspaudas su Lenkijos ereliu ir Lietuvos Vyčiu, 1386 m.","originalTitle":"Seal of Jogaila with the Polish Eagle and Lithuanian Vytis (Waykimas), 1386 (2).jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"This image has been extracted from another file","dateDisplay":"1386-05-03","dateStart":null,"dateEnd":null,"width":930,"height":1037,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_Jogaila_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1386_%282%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/2/2c/Seal_of_Jogaila_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1386_%282%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/2c/Seal_of_Jogaila_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1386_%282%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lenkija","label":"lenkija","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.82},{"code":"heraldika","label":"heraldika","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Jogaila.md","title":"Jogaila (kunigaikštis, XIV–XV a.)","itemType":"asmuo","relationType":"seal_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:39:59.524248+03:00","reviewedAt":"2026-07-11T02:41:08.844254+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas raudono vaško antspaudas ant dokumento juostų, centre ketvirčiuotas herbas su ereliu, Vyčiu ir kitais laukais.","metadataEvidence":"Pavadinimas ir aprašas tiesiogiai nurodo „Seal of Jogaila“ bei Lietuvos didįjį kunigaikštį ir Lenkijos karalių Jogailą; data 1386-05-03.","confidenceLevel":"high","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai konkretus Jogailos antspaudas, todėl vaizdo ryšys su asmeniu yra aiškus ir tiesioginis.","isPrimary":1}
 media_direct_json: |-
-  [{"mediaId":"m-fd30f452de57eb6505fa0558","title":"Bacciarelli - Władysław II.png","caption":"Jeden z 22 portretów tworzących poczet polskich władców w Pokoju Marmurowym w Zamku Królewskim w Warszawie. Obraz należał do kolekcji Stanisława Augusta, w katalogu z 1795 nr 1163. Władysław II Jagiełło (1348-1434), wielki książę litewski, król polski 1386. Na odwrocie napis: Nro 7/ VLADISLAVS/ JAGIELLO/ Magnus DUX Lithvaniae/ Regnare coepit qua Rex Poloniae/ eodem die quô nupsit Hedvigi,/ d: 14. Febr: Ao 1386. Lithvaniam/ adjunxit Poloniae. Academiam/ Cracoviensem erexit. Crucigeros/ fregit, Nobilem nullum nisi Iu=/re victum captivare appromisit./ Obijt in Oppido Grodek./ d. 31 Maij. Ao 1434/ Aetatis suae, 80./ Regni, 48. Inskrypcja na obramieniu obrazu: VLADISLAUS JAGIELLO/ + MCCCCXXXIV.","creator":"Marcello Bacciarelli","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between 1768 and 1771 date QS:P571,+1750-00-00T00:00:00Z/7,P1319,+1768-00-00T00:00:00Z/9,P1326,+1771-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ABacciarelli_-_W%C5%82adys%C5%82aw_II.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f6/Bacciarelli_-_W%C5%82adys%C5%82aw_II.png","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1},{"mediaId":"m-64fac1b108b47d11f9d1fa63","title":"Damaged seal of Jogaila with a nearly completely intact Lithuanian Vytis (Waykimas), 1388.jpg","caption":"Damaged seal of Jogaila (King of Poland and Grand Duke of Lithuania) with a nearly completely intact Lithuanian Vytis ( Waykimas ), which was attached to a 7 March 1388 document.","creator":"Seal of Jogaila (the former King of Poland and Grand/Supreme Duke of Lithuania)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1388-03-07","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ADamaged_seal_of_Jogaila_with_a_nearly_completely_intact_Lithuanian_Vytis_%28Waykimas%29%2C_1388.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/9/9a/Damaged_seal_of_Jogaila_with_a_nearly_completely_intact_Lithuanian_Vytis_%28Waykimas%29%2C_1388.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-1d4372e421c9b57dcdf4a562","title":"Muzeum Diecezjalne w Sandomierzu Władysław Jagiełło 30.12.2010 p.jpg","caption":"Painting, depicting the Grand Duke of Lithuania and King of Poland Jogaila .","creator":"Przykuta","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","dateDisplay":"2010-12-30","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMuzeum_Diecezjalne_w_Sandomierzu_W%C5%82adys%C5%82aw_Jagie%C5%82%C5%82o_30.12.2010_p.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4c/Muzeum_Diecezjalne_w_Sandomierzu_W%C5%82adys%C5%82aw_Jagie%C5%82%C5%82o_30.12.2010_p.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-0396065af58459d19349216e","title":"Muzeum Diecezjalne w Sandomierzu Władysław Jagiełło fragment 30.12.2010 p.jpg","caption":"Painting, depicting the Grand Duke of Lithuania and King of Poland Jogaila .","creator":"Przykuta","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","dateDisplay":"2010-12-30","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMuzeum_Diecezjalne_w_Sandomierzu_W%C5%82adys%C5%82aw_Jagie%C5%82%C5%82o_fragment_30.12.2010_p.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c5/Muzeum_Diecezjalne_w_Sandomierzu_W%C5%82adys%C5%82aw_Jagie%C5%82%C5%82o_fragment_30.12.2010_p.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-0695840cb2ea83f86a17e13c","title":"Pieczec Majestatyczna Wladyslawa Jagielly.jpg","caption":"Royal seal of King Władysław II Jagiełło of Poland","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between 1388 and 1431 date QS:P,+1500-00-00T00:00:00Z/6,P1319,+1388-00-00T00:00:00Z/9,P1326,+1431-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APieczec_Majestatyczna_Wladyslawa_Jagielly.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/22/Pieczec_Majestatyczna_Wladyslawa_Jagielly.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-fe976ca24cb004cd7045300f","title":"Pieczęć Akademii Krakowskiej z czasów Władysława Jagiełły.jpg","caption":"Seal of the Cracow (Kraków) University from the times of Władysław Jagiełło","creator":"","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1917","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APiecz%C4%99%C4%87_Akademii_Krakowskiej_z_czas%C3%B3w_W%C5%82adys%C5%82awa_Jagie%C5%82%C5%82y.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/7/78/Piecz%C4%99%C4%87_Akademii_Krakowskiej_z_czas%C3%B3w_W%C5%82adys%C5%82awa_Jagie%C5%82%C5%82y.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-ccc36bef5121bfa7666e0abc","title":"Seal of Jogaila with his title as King in Lithuania (used in 1377-1386).jpg","caption":"Seal of Jogaila with his title as King in Lithuania, which was used by him in 1377–1386 (before becoming the King of Poland as well). The Latin text on the seal is as follows: * ia ‚ gal * - dey * gracia * r - ex - in * lettow (English: Jogaila, by the grace of God, King in Lithuania). Source of the description: 1 .","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"The seal was made in 1377 or earlier.","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_Jogaila_with_his_title_as_King_in_Lithuania_%28used_in_1377-1386%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/7/7d/Seal_of_Jogaila_with_his_title_as_King_in_Lithuania_%28used_in_1377-1386%29.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-562383412096d7095859559f","title":"Seal of Jogaila with the Polish Eagle and Lithuanian Vytis (Waykimas), 1386 (2).jpg","caption":"Seal of Grand Duke of Lithuania and King of Poland Jogaila with the Polish Eagle and Lithuanian Vytis ( Waykimas ), 1386.","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1386-05-03","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_Jogaila_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1386_%282%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/2c/Seal_of_Jogaila_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1386_%282%29.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-cf941ab240656b1e195da41b","title":"Seal of Jogaila with the Polish Eagle and Lithuanian Vytis (Waykimas), 1386.png","caption":"Seal of Grand Duke of Lithuania and King of Poland Jogaila with the Polish Eagle and Lithuanian Vytis ( Waykimas ), 1386.","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1386","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_Jogaila_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1386.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/ed/Seal_of_Jogaila_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1386.png","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-4a5883b11007f726d09871c5","title":"Seal of Jogaila with the Polish Eagle and Lithuanian Vytis (Waykimas), 1396.jpg","caption":"Seal of Jogaila (the former King of Poland and Grand Duke of Lithuania) with the Polish Eagle and Lithuanian Vytis ( Waykimas ), which was attached to a 30 January 1396 document.","creator":"Seal of Jogaila (the former King of Poland and Grand/Supreme Duke of Lithuania)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1396-01-30","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_Jogaila_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1396.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/03/Seal_of_Jogaila_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1396.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-22099de965fbc352503b896e","title":"Seal of Jogaila with the Polish Eagle and Lithuanian Vytis (Waykimas), 1414.jpg","caption":"Seal of Jogaila (the former King of Poland and Supreme Duke of Lithuania) with the Polish Eagle and Lithuanian Vytis ( Waykimas ), which was attached to a 13 November 1414 document.","creator":"Seal of Jogaila (the former King of Poland and Supreme Duke of Lithuania)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1414-11-13","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_Jogaila_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1414.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f6/Seal_of_Jogaila_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1414.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-6dac3f6385a75e15328aa554","title":"Seal of the Lithuanian King Jogaila with Vytis (Waykimas), 1382 (2).jpg","caption":"Seal of Jogaila with his title as King in Lithuania, which was used by him in 1377–1386 (before becoming the King of Poland as well). The Latin text on the seal is as follows: * ia ‚ gal * - dey * gracia * r - ex - in * lettow (English: Jogaila, by the grace of God, King in Lithuania). Source of the description: 1 .","creator":"Jogaila","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1382","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_the_Lithuanian_King_Jogaila_with_Vytis_%28Waykimas%29%2C_1382_%282%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fd/Seal_of_the_Lithuanian_King_Jogaila_with_Vytis_%28Waykimas%29%2C_1382_%282%29.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-f0603bcd4780c55467c99689","title":"Seal of the Lithuanian King Jogaila with Vytis (Waykimas), 1382.jpg","caption":"Seal of Jogaila with his title as King in Lithuania, which was used by him in 1377–1386 (before becoming the King of Poland as well). The Latin text on the seal is as follows: * ia ‚ gal * - dey * gracia * r - ex - in * lettow (English: Jogaila, by the grace of God, King in Lithuania). Source of the description: 1 .","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1382","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_the_Lithuanian_King_Jogaila_with_Vytis_%28Waykimas%29%2C_1382.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/7/78/Seal_of_the_Lithuanian_King_Jogaila_with_Vytis_%28Waykimas%29%2C_1382.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0}]
+  [{"mediaId":"m-562383412096d7095859559f","title":"Seal of Jogaila with the Polish Eagle and Lithuanian Vytis (Waykimas), 1386 (2).jpg","caption":"Jogailos antspaudas su Lenkijos ereliu ir Lietuvos Vyčiu, 1386 m.","originalTitle":"Seal of Jogaila with the Polish Eagle and Lithuanian Vytis (Waykimas), 1386 (2).jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"This image has been extracted from another file","dateDisplay":"1386-05-03","dateStart":null,"dateEnd":null,"width":930,"height":1037,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_Jogaila_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1386_%282%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/2/2c/Seal_of_Jogaila_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1386_%282%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/2c/Seal_of_Jogaila_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1386_%282%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lenkija","label":"lenkija","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.82},{"code":"heraldika","label":"heraldika","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Jogaila.md","title":"Jogaila (kunigaikštis, XIV–XV a.)","itemType":"asmuo","relationType":"seal_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:39:59.524248+03:00","reviewedAt":"2026-07-11T02:41:08.844254+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas raudono vaško antspaudas ant dokumento juostų, centre ketvirčiuotas herbas su ereliu, Vyčiu ir kitais laukais.","metadataEvidence":"Pavadinimas ir aprašas tiesiogiai nurodo „Seal of Jogaila“ bei Lietuvos didįjį kunigaikštį ir Lenkijos karalių Jogailą; data 1386-05-03.","confidenceLevel":"high","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai konkretus Jogailos antspaudas, todėl vaizdo ryšys su asmeniu yra aiškus ir tiesioginis.","isPrimary":1},{"mediaId":"m-fd30f452de57eb6505fa0558","title":"Bacciarelli - Władysław II.png","caption":"Marcello Bacciarelli sukurtas Władysławo II Jogailos portretas.","originalTitle":"Bacciarelli - Władysław II.png","creator":"Marcello Bacciarelli","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Kolekcja Zamku Królewskiego w Warszawie","dateDisplay":"between 1768 and 1771 date QS:P571,+1750-00-00T00:00:00Z/7,P1319,+1768-00-00T00:00:00Z/9,P1326,+1771-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":1456,"height":1920,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ABacciarelli_-_W%C5%82adys%C5%82aw_II.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f6/Bacciarelli_-_W%C5%82adys%C5%82aw_II.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f6/Bacciarelli_-_W%C5%82adys%C5%82aw_II.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Jogaila.md","title":"Jogaila (kunigaikštis, XIV–XV a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:39:59.520228+03:00","reviewedAt":"2026-07-11T02:41:08.804487+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas tapytas barzdoto valdovo portretas su šarvais, raudonu apsiaustu ir kariniu atributu.","metadataEvidence":"Aprašyme aiškiai nurodyta: Władysław II Jagiełło, Lietuvos didysis kunigaikštis ir Lenkijos karalius nuo 1386 m.; užrašas mini VLADISLAVS JAGIELLO.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdas ir metaduomenys aiškiai identifikuoja Jogailą.","isPrimary":0},{"mediaId":"m-1d4372e421c9b57dcdf4a562","title":"Muzeum Diecezjalne w Sandomierzu Władysław Jagiełło 30.12.2010 p.jpg","caption":"Paveikslas, vaizduojantis Jogailą, Lietuvos didįjį kunigaikštį ir Lenkijos karalių.","originalTitle":"Muzeum Diecezjalne w Sandomierzu Władysław Jagiełło 30.12.2010 p.jpg","creator":"Przykuta","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/3.0","attribution":"Own work","dateDisplay":"2010-12-30","dateStart":null,"dateEnd":null,"width":1298,"height":3322,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMuzeum_Diecezjalne_w_Sandomierzu_W%C5%82adys%C5%82aw_Jagie%C5%82%C5%82o_30.12.2010_p.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4c/Muzeum_Diecezjalne_w_Sandomierzu_W%C5%82adys%C5%82aw_Jagie%C5%82%C5%82o_30.12.2010_p.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4c/Muzeum_Diecezjalne_w_Sandomierzu_W%C5%82adys%C5%82aw_Jagie%C5%82%C5%82o_30.12.2010_p.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Jogaila.md","title":"Jogaila (kunigaikštis, XIV–XV a.)","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:39:59.521776+03:00","reviewedAt":"2026-07-11T02:41:08.833425+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas šarvuotas karūnuotas valdovas su raudonu apsiaustu, skeptru ir valdžios obuoliu.","metadataEvidence":"Pavadinime minima Władysław Jagiełło, aprašyme nurodyta, kad paveikslas vaizduoja Lietuvos didįjį kunigaikštį ir Lenkijos karalių Jogailą.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Metaduomenys aiškiai identifikuoja vaizduojamą asmenį kaip Jogailą.","isPrimary":0},{"mediaId":"m-0396065af58459d19349216e","title":"Muzeum Diecezjalne w Sandomierzu Władysław Jagiełło fragment 30.12.2010 p.jpg","caption":"Jogailos portreto fragmentas Sandomiero vyskupijos muziejuje","originalTitle":"Muzeum Diecezjalne w Sandomierzu Władysław Jagiełło fragment 30.12.2010 p.jpg","creator":"Przykuta","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/3.0","attribution":"Own work","dateDisplay":"2010-12-30","dateStart":null,"dateEnd":null,"width":2348,"height":2252,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMuzeum_Diecezjalne_w_Sandomierzu_W%C5%82adys%C5%82aw_Jagie%C5%82%C5%82o_fragment_30.12.2010_p.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c5/Muzeum_Diecezjalne_w_Sandomierzu_W%C5%82adys%C5%82aw_Jagie%C5%82%C5%82o_fragment_30.12.2010_p.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c5/Muzeum_Diecezjalne_w_Sandomierzu_W%C5%82adys%C5%82aw_Jagie%C5%82%C5%82o_fragment_30.12.2010_p.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Jogaila.md","title":"Jogaila (kunigaikštis, XIV–XV a.)","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:39:59.523440+03:00","reviewedAt":"2026-07-11T02:41:08.838874+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas karūnuoto valdovo veidas su raudonu galvos apdangalu, karūna, barzda ir valdovo aprangos detalėmis.","metadataEvidence":"Aprašas tiesiogiai nurodo, kad paveikslas vaizduoja Lietuvos didįjį kunigaikštį ir Lenkijos karalių Jogailą; pavadinime yra Władysław Jagiełło.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Metaduomenys aiškiai identifikuoja vaizduojamą asmenį kaip Jogailą, o vaizdas yra valdovo portretas.","isPrimary":0},{"mediaId":"m-cf941ab240656b1e195da41b","title":"Seal of Jogaila with the Polish Eagle and Lithuanian Vytis (Waykimas), 1386.png","caption":"Jogailos antspaudas su Lenkijos ereliu ir Lietuvos Vyčiu, 1386 m.","originalTitle":"Seal of Jogaila with the Polish Eagle and Lithuanian Vytis (Waykimas), 1386.png","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"orzelbialy.edu.pl","dateDisplay":"1386","dateStart":null,"dateEnd":null,"width":665,"height":600,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_Jogaila_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1386.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/e/ed/Seal_of_Jogaila_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1386.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/ed/Seal_of_Jogaila_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1386.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lenkija","label":"lenkija","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.82},{"code":"heraldika","label":"heraldika","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Jogaila.md","title":"Jogaila (kunigaikštis, XIV–XV a.)","itemType":"asmuo","relationType":"seal_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:39:59.523837+03:00","reviewedAt":"2026-07-11T02:41:08.840145+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas raudono vaško antspaudas su ketvirčiuotu herbu: Lenkijos erelis, Lietuvos Vytis ir kiti heraldiniai laukai, aplinkui įrašas.","metadataEvidence":"Pavadinimas ir aprašas tiesiogiai nurodo „Seal of Jogaila“ ir datą 1386 m.; aprašyta kaip Lietuvos didžiojo kunigaikščio ir Lenkijos karaliaus Jogailos antspaudas.","confidenceLevel":"high","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai konkretus Jogailos valdovo antspaudas, todėl ryšys su target yra tiesioginis.","isPrimary":0},{"mediaId":"m-6dac3f6385a75e15328aa554","title":"Seal of the Lithuanian King Jogaila with Vytis (Waykimas), 1382 (2).jpg","caption":"Lietuvos karaliaus Jogailos antspaudas su Vyčiu, 1382 m.","originalTitle":"Seal of the Lithuanian King Jogaila with Vytis (Waykimas), 1382 (2).jpg","creator":"Jogaila","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Kamane.lt","dateDisplay":"1382","dateStart":null,"dateEnd":null,"width":744,"height":796,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_the_Lithuanian_King_Jogaila_with_Vytis_%28Waykimas%29%2C_1382_%282%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fd/Seal_of_the_Lithuanian_King_Jogaila_with_Vytis_%28Waykimas%29%2C_1382_%282%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fd/Seal_of_the_Lithuanian_King_Jogaila_with_Vytis_%28Waykimas%29%2C_1382_%282%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.82},{"code":"vytis","label":"vytis","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Jogaila.md","title":"Jogaila (kunigaikštis, XIV–XV a.)","itemType":"asmuo","relationType":"seal_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:39:59.524065+03:00","reviewedAt":"2026-07-11T02:41:08.842100+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas raudonas vaško antspaudas su raiteliu ant žirgo, aplinkui įrašas, būdingas valdovo antspaudui.","metadataEvidence":"Pavadinimas ir aprašas tiesiogiai nurodo Jogailos antspaudą, naudotą 1377–1386 m.; pateiktas lotyniško įrašo aiškinimas su Jogailos vardu.","confidenceLevel":"high","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Metaduomenys identifikuoja tai kaip Jogailos asmeninį antspaudą, o vaizdas atitinka valdovo heraldinį antspaudą.","isPrimary":0}]
 media_contextual_json: |-
-  []
+  [{"mediaId":"m-64fac1b108b47d11f9d1fa63","title":"Damaged seal of Jogaila with a nearly completely intact Lithuanian Vytis (Waykimas), 1388.jpg","caption":"1388 m. Jogailos antspaudas su Lietuvos Vyčiu.","originalTitle":"Damaged seal of Jogaila with a nearly completely intact Lithuanian Vytis (Waykimas), 1388.jpg","creator":"Seal of Jogaila (the former King of Poland and Grand/Supreme Duke of Lithuania)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"This file was provided to Wikimedia Commons by the Polish Central Archives of Historical Records as part of a cooperation project with Association \"Archivum Patriae\" and Wikimedia Polska .","dateDisplay":"1388-03-07","dateStart":null,"dateEnd":null,"width":1246,"height":1246,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ADamaged_seal_of_Jogaila_with_a_nearly_completely_intact_Lithuanian_Vytis_%28Waykimas%29%2C_1388.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/9/9a/Damaged_seal_of_Jogaila_with_a_nearly_completely_intact_Lithuanian_Vytis_%28Waykimas%29%2C_1388.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/9/9a/Damaged_seal_of_Jogaila_with_a_nearly_completely_intact_Lithuanian_Vytis_%28Waykimas%29%2C_1388.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Jogaila.md","title":"Jogaila (kunigaikštis, XIV–XV a.)","itemType":"asmuo","relationType":"seal_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T02:39:59.520528+03:00","reviewedAt":"2026-07-11T02:41:08.807164+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas raudono vaško antspaudas su herbine figūra ir aplinkiniu įrašu, dalis antspaudo pažeista.","metadataEvidence":"Pavadinimas ir aprašymas nurodo, kad tai Jogailos, Lenkijos karaliaus ir Lietuvos didžiojo kunigaikščio, antspaudas prie 1388-03-07 dokumento.","confidenceLevel":"high","relationType":"seal_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai ne portretas, bet aiškiai Jogailos oficialus antspaudas.","isPrimary":0},{"mediaId":"m-0695840cb2ea83f86a17e13c","title":"Pieczec Majestatyczna Wladyslawa Jagielly.jpg","caption":"Władysławo II Jogailos karališkasis majestotinis antspaudas.","originalTitle":"Pieczec Majestatyczna Wladyslawa Jagielly.jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"The original description page was here . All following user names refer to en.wikipedia.","dateDisplay":"between 1388 and 1431 date QS:P,+1500-00-00T00:00:00Z/6,P1319,+1388-00-00T00:00:00Z/9,P1326,+1431-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":600,"height":631,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APieczec_Majestatyczna_Wladyslawa_Jagielly.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/2/22/Pieczec_Majestatyczna_Wladyslawa_Jagielly.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/22/Pieczec_Majestatyczna_Wladyslawa_Jagielly.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Jogaila.md","title":"Jogaila (kunigaikštis, XIV–XV a.)","itemType":"asmuo","relationType":"seal_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T02:39:59.522597+03:00","reviewedAt":"2026-07-11T02:41:08.837102+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas nespalvotas majestotinio antspaudo atspaudas su soste sėdinčiu valdovu, heraldiniais skydais ir aplinkiniu įrašu.","metadataEvidence":"Aprašyme nurodyta, kad tai Lenkijos karaliaus Władysławo II Jagiełło karališkasis antspaudas.","confidenceLevel":"high","relationType":"seal_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Aiškus Jogailos karališkojo antspaudo vaizdas su valdovo atvaizdu.","isPrimary":0},{"mediaId":"m-ccc36bef5121bfa7666e0abc","title":"Seal of Jogaila with his title as King in Lithuania (used in 1377-1386).jpg","caption":"Jogailos antspaudas su jo Lietuvos karaliaus titulu, naudotas 1377-1386 m.","originalTitle":"Seal of Jogaila with his title as King in Lithuania (used in 1377-1386).jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Lietuvos karaliai arba Lietuvos valstybės statusas XIII–XIV a. (via the Ministry of National Defence of Lithuania) (page 3)","dateDisplay":"The seal was made in 1377 or earlier.","dateStart":null,"dateEnd":null,"width":562,"height":562,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_Jogaila_with_his_title_as_King_in_Lithuania_%28used_in_1377-1386%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/7/7d/Seal_of_Jogaila_with_his_title_as_King_in_Lithuania_%28used_in_1377-1386%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/7/7d/Seal_of_Jogaila_with_his_title_as_King_in_Lithuania_%28used_in_1377-1386%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Jogaila.md","title":"Jogaila (kunigaikštis, XIV–XV a.)","itemType":"asmuo","relationType":"seal_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T02:39:59.521454+03:00","reviewedAt":"2026-07-11T02:41:08.832320+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas apvalus juodai baltas antspaudo atvaizdas su raiteliu, žvaigždžių ornamentais ir įrašu pakraštyje.","metadataEvidence":"Pavadinimas ir aprašymas nurodo, kad tai Jogailos antspaudas su tekstu „ia gal ... rex in lettow“.","confidenceLevel":"high","relationType":"seal_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Aiškiai identifikuotas Jogailos antspaudas, tinkamas kontekstinis vaizdas.","isPrimary":0},{"mediaId":"m-4a5883b11007f726d09871c5","title":"Seal of Jogaila with the Polish Eagle and Lithuanian Vytis (Waykimas), 1396.jpg","caption":"1396 m. Jogailos antspaudas su Lenkijos Ereliu ir Lietuvos Vyčiu.","originalTitle":"Seal of Jogaila with the Polish Eagle and Lithuanian Vytis (Waykimas), 1396.jpg","creator":"Seal of Jogaila (the former King of Poland and Grand/Supreme Duke of Lithuania)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"This file was provided to Wikimedia Commons by the Polish Central Archives of Historical Records as part of a cooperation project with Association \"Archivum Patriae\" and Wikimedia Polska .","dateDisplay":"1396-01-30","dateStart":null,"dateEnd":null,"width":1749,"height":1243,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_Jogaila_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1396.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/0/03/Seal_of_Jogaila_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1396.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/03/Seal_of_Jogaila_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1396.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Jogaila.md","title":"Jogaila (kunigaikštis, XIV–XV a.)","itemType":"asmuo","relationType":"seal_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T02:39:59.522250+03:00","reviewedAt":"2026-07-11T02:41:08.835399+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas raudono vaško antspaudas su ketvirčiuotu skydu ir aplinkiniu įrašu.","metadataEvidence":"Pavadinimas ir aprašymas nurodo Jogailos antspaudą, pritvirtintą prie 1396-01-30 dokumento.","confidenceLevel":"high","relationType":"seal_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Objektas aiškiai priskirtas Jogailai, nors pats vaizdas yra antspaudas, ne portretas.","isPrimary":0},{"mediaId":"m-22099de965fbc352503b896e","title":"Seal of Jogaila with the Polish Eagle and Lithuanian Vytis (Waykimas), 1414.jpg","caption":"1414 m. Jogailos antspaudas su Lenkijos Ereliu ir Lietuvos Vyčiu.","originalTitle":"Seal of Jogaila with the Polish Eagle and Lithuanian Vytis (Waykimas), 1414.jpg","creator":"Seal of Jogaila (the former King of Poland and Supreme Duke of Lithuania)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"This file was provided to Wikimedia Commons by the Polish Central Archives of Historical Records as part of a cooperation project with Association \"Archivum Patriae\" and Wikimedia Polska .","dateDisplay":"1414-11-13","dateStart":null,"dateEnd":null,"width":404,"height":420,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_Jogaila_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1414.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f6/Seal_of_Jogaila_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1414.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f6/Seal_of_Jogaila_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1414.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Jogaila.md","title":"Jogaila (kunigaikštis, XIV–XV a.)","itemType":"asmuo","relationType":"seal_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T02:39:59.521120+03:00","reviewedAt":"2026-07-11T02:41:08.830952+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas rudo vaško antspaudas su skydu ir heraldiniais motyvais, aplinkui eina įrašas.","metadataEvidence":"Pavadinimas ir aprašymas nurodo Jogailos antspaudą, pritvirtintą prie 1414-11-13 dokumento.","confidenceLevel":"high","relationType":"seal_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Ryšys su Jogaila aiškus per konkretų jo antspaudą.","isPrimary":0},{"mediaId":"m-f0603bcd4780c55467c99689","title":"Seal of the Lithuanian King Jogaila with Vytis (Waykimas), 1382.jpg","caption":"1382 m. Jogailos, Lietuvos karaliaus, antspaudas su Vyčiu.","originalTitle":"Seal of the Lithuanian King Jogaila with Vytis (Waykimas), 1382.jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Galkus, Juozas. Lietuvos Vytis / The Vytis of Lithuania (page 82).","dateDisplay":"1382","dateStart":null,"dateEnd":null,"width":945,"height":841,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_the_Lithuanian_King_Jogaila_with_Vytis_%28Waykimas%29%2C_1382.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/7/78/Seal_of_the_Lithuanian_King_Jogaila_with_Vytis_%28Waykimas%29%2C_1382.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/7/78/Seal_of_the_Lithuanian_King_Jogaila_with_Vytis_%28Waykimas%29%2C_1382.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Jogaila.md","title":"Jogaila (kunigaikštis, XIV–XV a.)","itemType":"asmuo","relationType":"seal_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T02:39:59.520922+03:00","reviewedAt":"2026-07-11T02:41:08.808866+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas apvalus antspaudas su raiteliu ir aplinkiniu įrašu.","metadataEvidence":"Pavadinimas ir aprašymas nurodo Jogailos antspaudą, naudotą 1377-1386 m.; pateiktas lotyniškas įrašas su Jogailos vardu ir titulu Lietuvoje.","confidenceLevel":"high","relationType":"seal_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Aiškus Jogailos oficialaus antspaudo vaizdas, nors ne individualus portretas.","isPrimary":0}]
 media_all_json: |-
-  [{"mediaId":"m-fd30f452de57eb6505fa0558","title":"Bacciarelli - Władysław II.png","caption":"Jeden z 22 portretów tworzących poczet polskich władców w Pokoju Marmurowym w Zamku Królewskim w Warszawie. Obraz należał do kolekcji Stanisława Augusta, w katalogu z 1795 nr 1163. Władysław II Jagiełło (1348-1434), wielki książę litewski, król polski 1386. Na odwrocie napis: Nro 7/ VLADISLAVS/ JAGIELLO/ Magnus DUX Lithvaniae/ Regnare coepit qua Rex Poloniae/ eodem die quô nupsit Hedvigi,/ d: 14. Febr: Ao 1386. Lithvaniam/ adjunxit Poloniae. Academiam/ Cracoviensem erexit. Crucigeros/ fregit, Nobilem nullum nisi Iu=/re victum captivare appromisit./ Obijt in Oppido Grodek./ d. 31 Maij. Ao 1434/ Aetatis suae, 80./ Regni, 48. Inskrypcja na obramieniu obrazu: VLADISLAUS JAGIELLO/ + MCCCCXXXIV.","creator":"Marcello Bacciarelli","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between 1768 and 1771 date QS:P571,+1750-00-00T00:00:00Z/7,P1319,+1768-00-00T00:00:00Z/9,P1326,+1771-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ABacciarelli_-_W%C5%82adys%C5%82aw_II.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f6/Bacciarelli_-_W%C5%82adys%C5%82aw_II.png","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":1},{"mediaId":"m-64fac1b108b47d11f9d1fa63","title":"Damaged seal of Jogaila with a nearly completely intact Lithuanian Vytis (Waykimas), 1388.jpg","caption":"Damaged seal of Jogaila (King of Poland and Grand Duke of Lithuania) with a nearly completely intact Lithuanian Vytis ( Waykimas ), which was attached to a 7 March 1388 document.","creator":"Seal of Jogaila (the former King of Poland and Grand/Supreme Duke of Lithuania)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1388-03-07","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ADamaged_seal_of_Jogaila_with_a_nearly_completely_intact_Lithuanian_Vytis_%28Waykimas%29%2C_1388.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/9/9a/Damaged_seal_of_Jogaila_with_a_nearly_completely_intact_Lithuanian_Vytis_%28Waykimas%29%2C_1388.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-1d4372e421c9b57dcdf4a562","title":"Muzeum Diecezjalne w Sandomierzu Władysław Jagiełło 30.12.2010 p.jpg","caption":"Painting, depicting the Grand Duke of Lithuania and King of Poland Jogaila .","creator":"Przykuta","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","dateDisplay":"2010-12-30","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMuzeum_Diecezjalne_w_Sandomierzu_W%C5%82adys%C5%82aw_Jagie%C5%82%C5%82o_30.12.2010_p.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4c/Muzeum_Diecezjalne_w_Sandomierzu_W%C5%82adys%C5%82aw_Jagie%C5%82%C5%82o_30.12.2010_p.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-0396065af58459d19349216e","title":"Muzeum Diecezjalne w Sandomierzu Władysław Jagiełło fragment 30.12.2010 p.jpg","caption":"Painting, depicting the Grand Duke of Lithuania and King of Poland Jogaila .","creator":"Przykuta","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","dateDisplay":"2010-12-30","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMuzeum_Diecezjalne_w_Sandomierzu_W%C5%82adys%C5%82aw_Jagie%C5%82%C5%82o_fragment_30.12.2010_p.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c5/Muzeum_Diecezjalne_w_Sandomierzu_W%C5%82adys%C5%82aw_Jagie%C5%82%C5%82o_fragment_30.12.2010_p.jpg","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-0695840cb2ea83f86a17e13c","title":"Pieczec Majestatyczna Wladyslawa Jagielly.jpg","caption":"Royal seal of King Władysław II Jagiełło of Poland","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"between 1388 and 1431 date QS:P,+1500-00-00T00:00:00Z/6,P1319,+1388-00-00T00:00:00Z/9,P1326,+1431-00-00T00:00:00Z/9","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APieczec_Majestatyczna_Wladyslawa_Jagielly.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/22/Pieczec_Majestatyczna_Wladyslawa_Jagielly.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-fe976ca24cb004cd7045300f","title":"Pieczęć Akademii Krakowskiej z czasów Władysława Jagiełły.jpg","caption":"Seal of the Cracow (Kraków) University from the times of Władysław Jagiełło","creator":"","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1917","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APiecz%C4%99%C4%87_Akademii_Krakowskiej_z_czas%C3%B3w_W%C5%82adys%C5%82awa_Jagie%C5%82%C5%82y.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/7/78/Piecz%C4%99%C4%87_Akademii_Krakowskiej_z_czas%C3%B3w_W%C5%82adys%C5%82awa_Jagie%C5%82%C5%82y.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-ccc36bef5121bfa7666e0abc","title":"Seal of Jogaila with his title as King in Lithuania (used in 1377-1386).jpg","caption":"Seal of Jogaila with his title as King in Lithuania, which was used by him in 1377–1386 (before becoming the King of Poland as well). The Latin text on the seal is as follows: * ia ‚ gal * - dey * gracia * r - ex - in * lettow (English: Jogaila, by the grace of God, King in Lithuania). Source of the description: 1 .","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"The seal was made in 1377 or earlier.","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_Jogaila_with_his_title_as_King_in_Lithuania_%28used_in_1377-1386%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/7/7d/Seal_of_Jogaila_with_his_title_as_King_in_Lithuania_%28used_in_1377-1386%29.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-562383412096d7095859559f","title":"Seal of Jogaila with the Polish Eagle and Lithuanian Vytis (Waykimas), 1386 (2).jpg","caption":"Seal of Grand Duke of Lithuania and King of Poland Jogaila with the Polish Eagle and Lithuanian Vytis ( Waykimas ), 1386.","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1386-05-03","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_Jogaila_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1386_%282%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/2c/Seal_of_Jogaila_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1386_%282%29.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-cf941ab240656b1e195da41b","title":"Seal of Jogaila with the Polish Eagle and Lithuanian Vytis (Waykimas), 1386.png","caption":"Seal of Grand Duke of Lithuania and King of Poland Jogaila with the Polish Eagle and Lithuanian Vytis ( Waykimas ), 1386.","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1386","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_Jogaila_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1386.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/ed/Seal_of_Jogaila_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1386.png","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-4a5883b11007f726d09871c5","title":"Seal of Jogaila with the Polish Eagle and Lithuanian Vytis (Waykimas), 1396.jpg","caption":"Seal of Jogaila (the former King of Poland and Grand Duke of Lithuania) with the Polish Eagle and Lithuanian Vytis ( Waykimas ), which was attached to a 30 January 1396 document.","creator":"Seal of Jogaila (the former King of Poland and Grand/Supreme Duke of Lithuania)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1396-01-30","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_Jogaila_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1396.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/03/Seal_of_Jogaila_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1396.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-22099de965fbc352503b896e","title":"Seal of Jogaila with the Polish Eagle and Lithuanian Vytis (Waykimas), 1414.jpg","caption":"Seal of Jogaila (the former King of Poland and Supreme Duke of Lithuania) with the Polish Eagle and Lithuanian Vytis ( Waykimas ), which was attached to a 13 November 1414 document.","creator":"Seal of Jogaila (the former King of Poland and Supreme Duke of Lithuania)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1414-11-13","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_Jogaila_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1414.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f6/Seal_of_Jogaila_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1414.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-6dac3f6385a75e15328aa554","title":"Seal of the Lithuanian King Jogaila with Vytis (Waykimas), 1382 (2).jpg","caption":"Seal of Jogaila with his title as King in Lithuania, which was used by him in 1377–1386 (before becoming the King of Poland as well). The Latin text on the seal is as follows: * ia ‚ gal * - dey * gracia * r - ex - in * lettow (English: Jogaila, by the grace of God, King in Lithuania). Source of the description: 1 .","creator":"Jogaila","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1382","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_the_Lithuanian_King_Jogaila_with_Vytis_%28Waykimas%29%2C_1382_%282%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fd/Seal_of_the_Lithuanian_King_Jogaila_with_Vytis_%28Waykimas%29%2C_1382_%282%29.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0},{"mediaId":"m-f0603bcd4780c55467c99689","title":"Seal of the Lithuanian King Jogaila with Vytis (Waykimas), 1382.jpg","caption":"Seal of Jogaila with his title as King in Lithuania, which was used by him in 1377–1386 (before becoming the King of Poland as well). The Latin text on the seal is as follows: * ia ‚ gal * - dey * gracia * r - ex - in * lettow (English: Jogaila, by the grace of God, King in Lithuania). Source of the description: 1 .","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","dateDisplay":"1382","canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_the_Lithuanian_King_Jogaila_with_Vytis_%28Waykimas%29%2C_1382.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/7/78/Seal_of_the_Lithuanian_King_Jogaila_with_Vytis_%28Waykimas%29%2C_1382.jpg","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":1.0,"sourceMethod":"media_collector","judgeModel":"","judgeReason":"","isPrimary":0}]
+  [{"mediaId":"m-562383412096d7095859559f","title":"Seal of Jogaila with the Polish Eagle and Lithuanian Vytis (Waykimas), 1386 (2).jpg","caption":"Jogailos antspaudas su Lenkijos ereliu ir Lietuvos Vyčiu, 1386 m.","originalTitle":"Seal of Jogaila with the Polish Eagle and Lithuanian Vytis (Waykimas), 1386 (2).jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"This image has been extracted from another file","dateDisplay":"1386-05-03","dateStart":null,"dateEnd":null,"width":930,"height":1037,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_Jogaila_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1386_%282%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/2/2c/Seal_of_Jogaila_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1386_%282%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/2c/Seal_of_Jogaila_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1386_%282%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lenkija","label":"lenkija","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.82},{"code":"heraldika","label":"heraldika","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Jogaila.md","title":"Jogaila (kunigaikštis, XIV–XV a.)","itemType":"asmuo","relationType":"seal_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:39:59.524248+03:00","reviewedAt":"2026-07-11T02:41:08.844254+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas raudono vaško antspaudas ant dokumento juostų, centre ketvirčiuotas herbas su ereliu, Vyčiu ir kitais laukais.","metadataEvidence":"Pavadinimas ir aprašas tiesiogiai nurodo „Seal of Jogaila“ bei Lietuvos didįjį kunigaikštį ir Lenkijos karalių Jogailą; data 1386-05-03.","confidenceLevel":"high","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai konkretus Jogailos antspaudas, todėl vaizdo ryšys su asmeniu yra aiškus ir tiesioginis.","isPrimary":1},{"mediaId":"m-fd30f452de57eb6505fa0558","title":"Bacciarelli - Władysław II.png","caption":"Marcello Bacciarelli sukurtas Władysławo II Jogailos portretas.","originalTitle":"Bacciarelli - Władysław II.png","creator":"Marcello Bacciarelli","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Kolekcja Zamku Królewskiego w Warszawie","dateDisplay":"between 1768 and 1771 date QS:P571,+1750-00-00T00:00:00Z/7,P1319,+1768-00-00T00:00:00Z/9,P1326,+1771-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":1456,"height":1920,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ABacciarelli_-_W%C5%82adys%C5%82aw_II.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f6/Bacciarelli_-_W%C5%82adys%C5%82aw_II.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f6/Bacciarelli_-_W%C5%82adys%C5%82aw_II.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Jogaila.md","title":"Jogaila (kunigaikštis, XIV–XV a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:39:59.520228+03:00","reviewedAt":"2026-07-11T02:41:08.804487+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas tapytas barzdoto valdovo portretas su šarvais, raudonu apsiaustu ir kariniu atributu.","metadataEvidence":"Aprašyme aiškiai nurodyta: Władysław II Jagiełło, Lietuvos didysis kunigaikštis ir Lenkijos karalius nuo 1386 m.; užrašas mini VLADISLAVS JAGIELLO.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdas ir metaduomenys aiškiai identifikuoja Jogailą.","isPrimary":0},{"mediaId":"m-1d4372e421c9b57dcdf4a562","title":"Muzeum Diecezjalne w Sandomierzu Władysław Jagiełło 30.12.2010 p.jpg","caption":"Paveikslas, vaizduojantis Jogailą, Lietuvos didįjį kunigaikštį ir Lenkijos karalių.","originalTitle":"Muzeum Diecezjalne w Sandomierzu Władysław Jagiełło 30.12.2010 p.jpg","creator":"Przykuta","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/3.0","attribution":"Own work","dateDisplay":"2010-12-30","dateStart":null,"dateEnd":null,"width":1298,"height":3322,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMuzeum_Diecezjalne_w_Sandomierzu_W%C5%82adys%C5%82aw_Jagie%C5%82%C5%82o_30.12.2010_p.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4c/Muzeum_Diecezjalne_w_Sandomierzu_W%C5%82adys%C5%82aw_Jagie%C5%82%C5%82o_30.12.2010_p.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4c/Muzeum_Diecezjalne_w_Sandomierzu_W%C5%82adys%C5%82aw_Jagie%C5%82%C5%82o_30.12.2010_p.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Jogaila.md","title":"Jogaila (kunigaikštis, XIV–XV a.)","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:39:59.521776+03:00","reviewedAt":"2026-07-11T02:41:08.833425+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas šarvuotas karūnuotas valdovas su raudonu apsiaustu, skeptru ir valdžios obuoliu.","metadataEvidence":"Pavadinime minima Władysław Jagiełło, aprašyme nurodyta, kad paveikslas vaizduoja Lietuvos didįjį kunigaikštį ir Lenkijos karalių Jogailą.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Metaduomenys aiškiai identifikuoja vaizduojamą asmenį kaip Jogailą.","isPrimary":0},{"mediaId":"m-0396065af58459d19349216e","title":"Muzeum Diecezjalne w Sandomierzu Władysław Jagiełło fragment 30.12.2010 p.jpg","caption":"Jogailos portreto fragmentas Sandomiero vyskupijos muziejuje","originalTitle":"Muzeum Diecezjalne w Sandomierzu Władysław Jagiełło fragment 30.12.2010 p.jpg","creator":"Przykuta","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/3.0","attribution":"Own work","dateDisplay":"2010-12-30","dateStart":null,"dateEnd":null,"width":2348,"height":2252,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMuzeum_Diecezjalne_w_Sandomierzu_W%C5%82adys%C5%82aw_Jagie%C5%82%C5%82o_fragment_30.12.2010_p.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c5/Muzeum_Diecezjalne_w_Sandomierzu_W%C5%82adys%C5%82aw_Jagie%C5%82%C5%82o_fragment_30.12.2010_p.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/c5/Muzeum_Diecezjalne_w_Sandomierzu_W%C5%82adys%C5%82aw_Jagie%C5%82%C5%82o_fragment_30.12.2010_p.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Jogaila.md","title":"Jogaila (kunigaikštis, XIV–XV a.)","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:39:59.523440+03:00","reviewedAt":"2026-07-11T02:41:08.838874+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas karūnuoto valdovo veidas su raudonu galvos apdangalu, karūna, barzda ir valdovo aprangos detalėmis.","metadataEvidence":"Aprašas tiesiogiai nurodo, kad paveikslas vaizduoja Lietuvos didįjį kunigaikštį ir Lenkijos karalių Jogailą; pavadinime yra Władysław Jagiełło.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Metaduomenys aiškiai identifikuoja vaizduojamą asmenį kaip Jogailą, o vaizdas yra valdovo portretas.","isPrimary":0},{"mediaId":"m-cf941ab240656b1e195da41b","title":"Seal of Jogaila with the Polish Eagle and Lithuanian Vytis (Waykimas), 1386.png","caption":"Jogailos antspaudas su Lenkijos ereliu ir Lietuvos Vyčiu, 1386 m.","originalTitle":"Seal of Jogaila with the Polish Eagle and Lithuanian Vytis (Waykimas), 1386.png","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"orzelbialy.edu.pl","dateDisplay":"1386","dateStart":null,"dateEnd":null,"width":665,"height":600,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_Jogaila_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1386.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/e/ed/Seal_of_Jogaila_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1386.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/ed/Seal_of_Jogaila_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1386.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lenkija","label":"lenkija","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.82},{"code":"heraldika","label":"heraldika","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Jogaila.md","title":"Jogaila (kunigaikštis, XIV–XV a.)","itemType":"asmuo","relationType":"seal_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:39:59.523837+03:00","reviewedAt":"2026-07-11T02:41:08.840145+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas raudono vaško antspaudas su ketvirčiuotu herbu: Lenkijos erelis, Lietuvos Vytis ir kiti heraldiniai laukai, aplinkui įrašas.","metadataEvidence":"Pavadinimas ir aprašas tiesiogiai nurodo „Seal of Jogaila“ ir datą 1386 m.; aprašyta kaip Lietuvos didžiojo kunigaikščio ir Lenkijos karaliaus Jogailos antspaudas.","confidenceLevel":"high","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai konkretus Jogailos valdovo antspaudas, todėl ryšys su target yra tiesioginis.","isPrimary":0},{"mediaId":"m-6dac3f6385a75e15328aa554","title":"Seal of the Lithuanian King Jogaila with Vytis (Waykimas), 1382 (2).jpg","caption":"Lietuvos karaliaus Jogailos antspaudas su Vyčiu, 1382 m.","originalTitle":"Seal of the Lithuanian King Jogaila with Vytis (Waykimas), 1382 (2).jpg","creator":"Jogaila","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Kamane.lt","dateDisplay":"1382","dateStart":null,"dateEnd":null,"width":744,"height":796,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_the_Lithuanian_King_Jogaila_with_Vytis_%28Waykimas%29%2C_1382_%282%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fd/Seal_of_the_Lithuanian_King_Jogaila_with_Vytis_%28Waykimas%29%2C_1382_%282%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fd/Seal_of_the_Lithuanian_King_Jogaila_with_Vytis_%28Waykimas%29%2C_1382_%282%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.82},{"code":"vytis","label":"vytis","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Jogaila.md","title":"Jogaila (kunigaikštis, XIV–XV a.)","itemType":"asmuo","relationType":"seal_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:39:59.524065+03:00","reviewedAt":"2026-07-11T02:41:08.842100+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas raudonas vaško antspaudas su raiteliu ant žirgo, aplinkui įrašas, būdingas valdovo antspaudui.","metadataEvidence":"Pavadinimas ir aprašas tiesiogiai nurodo Jogailos antspaudą, naudotą 1377–1386 m.; pateiktas lotyniško įrašo aiškinimas su Jogailos vardu.","confidenceLevel":"high","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Metaduomenys identifikuoja tai kaip Jogailos asmeninį antspaudą, o vaizdas atitinka valdovo heraldinį antspaudą.","isPrimary":0},{"mediaId":"m-64fac1b108b47d11f9d1fa63","title":"Damaged seal of Jogaila with a nearly completely intact Lithuanian Vytis (Waykimas), 1388.jpg","caption":"1388 m. Jogailos antspaudas su Lietuvos Vyčiu.","originalTitle":"Damaged seal of Jogaila with a nearly completely intact Lithuanian Vytis (Waykimas), 1388.jpg","creator":"Seal of Jogaila (the former King of Poland and Grand/Supreme Duke of Lithuania)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"This file was provided to Wikimedia Commons by the Polish Central Archives of Historical Records as part of a cooperation project with Association \"Archivum Patriae\" and Wikimedia Polska .","dateDisplay":"1388-03-07","dateStart":null,"dateEnd":null,"width":1246,"height":1246,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ADamaged_seal_of_Jogaila_with_a_nearly_completely_intact_Lithuanian_Vytis_%28Waykimas%29%2C_1388.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/9/9a/Damaged_seal_of_Jogaila_with_a_nearly_completely_intact_Lithuanian_Vytis_%28Waykimas%29%2C_1388.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/9/9a/Damaged_seal_of_Jogaila_with_a_nearly_completely_intact_Lithuanian_Vytis_%28Waykimas%29%2C_1388.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Jogaila.md","title":"Jogaila (kunigaikštis, XIV–XV a.)","itemType":"asmuo","relationType":"seal_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T02:39:59.520528+03:00","reviewedAt":"2026-07-11T02:41:08.807164+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas raudono vaško antspaudas su herbine figūra ir aplinkiniu įrašu, dalis antspaudo pažeista.","metadataEvidence":"Pavadinimas ir aprašymas nurodo, kad tai Jogailos, Lenkijos karaliaus ir Lietuvos didžiojo kunigaikščio, antspaudas prie 1388-03-07 dokumento.","confidenceLevel":"high","relationType":"seal_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai ne portretas, bet aiškiai Jogailos oficialus antspaudas.","isPrimary":0},{"mediaId":"m-0695840cb2ea83f86a17e13c","title":"Pieczec Majestatyczna Wladyslawa Jagielly.jpg","caption":"Władysławo II Jogailos karališkasis majestotinis antspaudas.","originalTitle":"Pieczec Majestatyczna Wladyslawa Jagielly.jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"The original description page was here . All following user names refer to en.wikipedia.","dateDisplay":"between 1388 and 1431 date QS:P,+1500-00-00T00:00:00Z/6,P1319,+1388-00-00T00:00:00Z/9,P1326,+1431-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":600,"height":631,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APieczec_Majestatyczna_Wladyslawa_Jagielly.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/2/22/Pieczec_Majestatyczna_Wladyslawa_Jagielly.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/22/Pieczec_Majestatyczna_Wladyslawa_Jagielly.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Jogaila.md","title":"Jogaila (kunigaikštis, XIV–XV a.)","itemType":"asmuo","relationType":"seal_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T02:39:59.522597+03:00","reviewedAt":"2026-07-11T02:41:08.837102+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas nespalvotas majestotinio antspaudo atspaudas su soste sėdinčiu valdovu, heraldiniais skydais ir aplinkiniu įrašu.","metadataEvidence":"Aprašyme nurodyta, kad tai Lenkijos karaliaus Władysławo II Jagiełło karališkasis antspaudas.","confidenceLevel":"high","relationType":"seal_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Aiškus Jogailos karališkojo antspaudo vaizdas su valdovo atvaizdu.","isPrimary":0},{"mediaId":"m-ccc36bef5121bfa7666e0abc","title":"Seal of Jogaila with his title as King in Lithuania (used in 1377-1386).jpg","caption":"Jogailos antspaudas su jo Lietuvos karaliaus titulu, naudotas 1377-1386 m.","originalTitle":"Seal of Jogaila with his title as King in Lithuania (used in 1377-1386).jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Lietuvos karaliai arba Lietuvos valstybės statusas XIII–XIV a. (via the Ministry of National Defence of Lithuania) (page 3)","dateDisplay":"The seal was made in 1377 or earlier.","dateStart":null,"dateEnd":null,"width":562,"height":562,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_Jogaila_with_his_title_as_King_in_Lithuania_%28used_in_1377-1386%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/7/7d/Seal_of_Jogaila_with_his_title_as_King_in_Lithuania_%28used_in_1377-1386%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/7/7d/Seal_of_Jogaila_with_his_title_as_King_in_Lithuania_%28used_in_1377-1386%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Jogaila.md","title":"Jogaila (kunigaikštis, XIV–XV a.)","itemType":"asmuo","relationType":"seal_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T02:39:59.521454+03:00","reviewedAt":"2026-07-11T02:41:08.832320+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas apvalus juodai baltas antspaudo atvaizdas su raiteliu, žvaigždžių ornamentais ir įrašu pakraštyje.","metadataEvidence":"Pavadinimas ir aprašymas nurodo, kad tai Jogailos antspaudas su tekstu „ia gal ... rex in lettow“.","confidenceLevel":"high","relationType":"seal_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Aiškiai identifikuotas Jogailos antspaudas, tinkamas kontekstinis vaizdas.","isPrimary":0},{"mediaId":"m-4a5883b11007f726d09871c5","title":"Seal of Jogaila with the Polish Eagle and Lithuanian Vytis (Waykimas), 1396.jpg","caption":"1396 m. Jogailos antspaudas su Lenkijos Ereliu ir Lietuvos Vyčiu.","originalTitle":"Seal of Jogaila with the Polish Eagle and Lithuanian Vytis (Waykimas), 1396.jpg","creator":"Seal of Jogaila (the former King of Poland and Grand/Supreme Duke of Lithuania)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"This file was provided to Wikimedia Commons by the Polish Central Archives of Historical Records as part of a cooperation project with Association \"Archivum Patriae\" and Wikimedia Polska .","dateDisplay":"1396-01-30","dateStart":null,"dateEnd":null,"width":1749,"height":1243,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_Jogaila_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1396.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/0/03/Seal_of_Jogaila_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1396.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/0/03/Seal_of_Jogaila_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1396.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Jogaila.md","title":"Jogaila (kunigaikštis, XIV–XV a.)","itemType":"asmuo","relationType":"seal_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T02:39:59.522250+03:00","reviewedAt":"2026-07-11T02:41:08.835399+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas raudono vaško antspaudas su ketvirčiuotu skydu ir aplinkiniu įrašu.","metadataEvidence":"Pavadinimas ir aprašymas nurodo Jogailos antspaudą, pritvirtintą prie 1396-01-30 dokumento.","confidenceLevel":"high","relationType":"seal_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Objektas aiškiai priskirtas Jogailai, nors pats vaizdas yra antspaudas, ne portretas.","isPrimary":0},{"mediaId":"m-22099de965fbc352503b896e","title":"Seal of Jogaila with the Polish Eagle and Lithuanian Vytis (Waykimas), 1414.jpg","caption":"1414 m. Jogailos antspaudas su Lenkijos Ereliu ir Lietuvos Vyčiu.","originalTitle":"Seal of Jogaila with the Polish Eagle and Lithuanian Vytis (Waykimas), 1414.jpg","creator":"Seal of Jogaila (the former King of Poland and Supreme Duke of Lithuania)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"This file was provided to Wikimedia Commons by the Polish Central Archives of Historical Records as part of a cooperation project with Association \"Archivum Patriae\" and Wikimedia Polska .","dateDisplay":"1414-11-13","dateStart":null,"dateEnd":null,"width":404,"height":420,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_Jogaila_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1414.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f6/Seal_of_Jogaila_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1414.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f6/Seal_of_Jogaila_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1414.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Jogaila.md","title":"Jogaila (kunigaikštis, XIV–XV a.)","itemType":"asmuo","relationType":"seal_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T02:39:59.521120+03:00","reviewedAt":"2026-07-11T02:41:08.830952+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas rudo vaško antspaudas su skydu ir heraldiniais motyvais, aplinkui eina įrašas.","metadataEvidence":"Pavadinimas ir aprašymas nurodo Jogailos antspaudą, pritvirtintą prie 1414-11-13 dokumento.","confidenceLevel":"high","relationType":"seal_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Ryšys su Jogaila aiškus per konkretų jo antspaudą.","isPrimary":0},{"mediaId":"m-f0603bcd4780c55467c99689","title":"Seal of the Lithuanian King Jogaila with Vytis (Waykimas), 1382.jpg","caption":"1382 m. Jogailos, Lietuvos karaliaus, antspaudas su Vyčiu.","originalTitle":"Seal of the Lithuanian King Jogaila with Vytis (Waykimas), 1382.jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Galkus, Juozas. Lietuvos Vytis / The Vytis of Lithuania (page 82).","dateDisplay":"1382","dateStart":null,"dateEnd":null,"width":945,"height":841,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_the_Lithuanian_King_Jogaila_with_Vytis_%28Waykimas%29%2C_1382.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/7/78/Seal_of_the_Lithuanian_King_Jogaila_with_Vytis_%28Waykimas%29%2C_1382.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/7/78/Seal_of_the_Lithuanian_King_Jogaila_with_Vytis_%28Waykimas%29%2C_1382.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Jogaila.md","title":"Jogaila (kunigaikštis, XIV–XV a.)","itemType":"asmuo","relationType":"seal_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T02:39:59.520922+03:00","reviewedAt":"2026-07-11T02:41:08.808866+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas apvalus antspaudas su raiteliu ir aplinkiniu įrašu.","metadataEvidence":"Pavadinimas ir aprašymas nurodo Jogailos antspaudą, naudotą 1377-1386 m.; pateiktas lotyniškas įrašas su Jogailos vardu ir titulu Lietuvoje.","confidenceLevel":"high","relationType":"seal_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Aiškus Jogailos oficialaus antspaudo vaizdas, nors ne individualus portretas.","isPrimary":0}]
 ---
 # Jogaila (kunigaikštis, XIV–XV a.)
 
@@ -56,16 +56,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - t-194
   global_id: t-182803
   teiginys: "Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starodubo kunigaikštį Žygimantą Kęstutaitį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "435703-436403; hash=891c0c06e733b6bc051368dc2eac30380c7292f4e8a41661d36f8774a781a9a5; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jogaila (Lenkijos karalius, 1382 m.): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Jogaila (Lenkijos karalius, 1382 m.): mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Jogaila (Lenkijos karalius, 1382 m.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-166218
 
@@ -73,17 +63,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - t-188
   global_id: t-182804
   teiginys: "Siekdamas didelės valdžios, Jogaila pirmiausia sutelkė jėgas nusikratyti dėdės Kęstučio."
-  semantiniai_rysiai: "Jogaila (kunigaikštis, XIV–XV a.) buvo priešas Kęstutis (vakarų pasienio valdovas, XIV–XV a.) (0.74)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "95423-96071; hash=c714bad0f2cf637eb357f261bb1039e14c0e925e3f14c49fb433457ac5ff5e0a; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_priesas -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.74"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Teiginys rodo Jogailos priešišką tikslą Kęstučio atžvilgiu, nors vartojama ne formali priešo formuluotė."
   pagrindžia:
     - c-166217
 
@@ -91,16 +70,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - t-192
   global_id: t-182807
   teiginys: "Vladislovo Jogailos lėšomis pradėtą statyti Šv. Jono bažnyčią užbaigė Vytautas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "346860-347328; hash=93207ca826bb1749ad95601dd68bd40a9f488a9ff942b5ed37569a35a6600508; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kijevas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kijevas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Kijevas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-166210
 
@@ -108,16 +77,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - t-186
   global_id: t-182809
   teiginys: "Jogailos laikais Lietuvos krikštas ir sąjunga su Lenkija neleido Vilniaus miestiečiams įgyti daugiau laisvių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "44563-45025; hash=69422056e9992d480591db8d4d033866bdb4e4549c50d922c238142f74e94100; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=49"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-166216
 
@@ -125,16 +84,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - t-193
   global_id: t-182810
   teiginys: "Beginklis Jogaila su visa savo palyda buvo įkalintas pilyje ir daugybės kareivių saugojamas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "426718-427136; hash=4fdaef3542b67b4a3572b181cce74d614910614d72c025b836a1b99738386043; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-166215
 
@@ -142,16 +91,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - t-191
   global_id: t-182811
   teiginys: "Jogaila siekė Lenkijos sosto ir ketino sukurti naują galingą valstybę Šiaurės Europoje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "112375-113334; hash=af9a54ec5b593d878bd1e5bde48600a5ae87ca0c11fc4494f670547c9aee616e; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Europa: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=78"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-166212
 
@@ -159,17 +98,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - t-187
   global_id: t-182812
   teiginys: "Algirdui užleidus sostą, jo sūnus Jogaila dar tėvui gyvam esant perėmė aukščiausiąją Lietuvos valdžią."
-  semantiniai_rysiai: "Jogaila (kunigaikštis, XIV–XV a.) buvo sūnus Algirdas (Lietuvos valdovas) (0.96)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "94361-95184; hash=03a9c61c3ef409abde32a969efb1b766a8052ff72818a5482878fc888ce77578; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sunus -> Algirdas (Lietuvos valdovas): 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata tiesiogiai apibūdina Jogailą kaip Algirdo sūnų."
   pagrindžia:
     - c-166223
 
@@ -177,16 +105,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - t-190
   global_id: t-182813
   teiginys: "Jogaila, siekdamas atgauti paveldą ir atkeršyti už Vaidilos mirtį, sutelkė pajėgas ir nusprendė užimti Vilnių bei Trakus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "103595-103956; hash=f690e700ed43ea8608653f29230801694e98db191875394d7dc02dd9d8145d9c; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Trakai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Trakai: mention_match, place, gap=114"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Trakai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-166209
 
@@ -194,16 +112,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - t-189
   global_id: t-182815
   teiginys: "Jogailos siekius patarimais rėmė ir savo įtaka skatino bajoras Vaidila."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "97265-97825; hash=4ff06656b843e73404ecd646a33eadd673ab25c5e92a880a5e7637a0462cd3c5; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-166222
 
@@ -211,23 +119,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - t-195
   global_id: t-183536
   teiginys: "Pagal 1385 m. Krėvos sutartį su Lenkija Lietuvos didysis kunigaikštis Jogaila tapo Lenkijos karaliumi."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Jogaila (kunigaikštis, XIV–XV a.) buvo valdovas Lenkija (0.97); Jogaila (kunigaikštis, XIV–XV a.) buvo valdovas Lietuva (0.88)"
-  temporaliniai_duomenys: "valdymo laikotarpis: 1385 m.; valdymo laikotarpis: 1387 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Jogaila (kunigaikštis, XIV–XV a.) buvo valdovas Lietuva“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie Jogailos tapimą Lenkijos karaliumi."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "69597-69956; hash=7e4068c8ed11864dba5019d6ba78bdde9a99b33f96c76465187941804cf53d3f; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_valdovas -> Lenkija: 0.97"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Jogaila tapo Lenkijos karaliumi."
   pagrindžia:
     - c-166929
 
@@ -235,22 +126,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - t-196
   global_id: t-183537
   teiginys: "1385 m. rugpjūčio 14 d. Jogaila sutiko su Krėvos sutarties dokumento turiniu."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1385 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie Jogailos sprendimą Krėvos pilyje."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "70501-70933; hash=4cda89ce8252000164777acca030018d5096197e9cbbf67ef9fe325f53d136af; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Krėva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Krėva: mention_match, place, gap=18"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Krėva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-166930
 
@@ -258,20 +133,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - t-197
   global_id: t-183538
   teiginys: "Eidintas, Bumblauskas, Kulakauskas ir Tamošaitis Jogailos elgesį sudarant Krėvos sutartį aiškina ankstyvojo monarcho valstybės kaip nuosavybės samprata."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Lietuva priklausė Lenkija (0.86)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "71043-71808; hash=a15a7706141c817ff89a981695f6b3ac45524fe89ddfc68640f09b99fcb6d1e5; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Lenkija: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nusako Lietuvos vasalinę priklausomybę Lenkijai."
   pagrindžia:
     - c-166931
 
@@ -279,22 +140,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - t-198
   global_id: t-183539
   teiginys: "1387 m. vasario 17 d. Jogaila išleido privilegiją Vilniaus vyskupui, kuria buvo įsteigiama ir aprūpinama vyskupo institucija."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1387 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie Jogailos privilegiją Vilniaus vyskupui."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "74022-74461; hash=ac688fa0ff675b8b4549b42ad66ce8cceeae98d946002f0355fa220e101a0940; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=28"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-166932
 
@@ -302,19 +147,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - t-199
   global_id: t-183540
   teiginys: "Žalgirio mūšio rytą Jogaila delsė laukdamas Ordino pasiūlymo derėtis, o Vytautas troško lemiamo mūšio."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "83684-84028; hash=c8725f7d83378c40233d008c47e649cd518c95d48133a62ba9b735a26c17253a; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=24"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-166933
 
@@ -322,22 +154,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - t-200
   global_id: t-183541
   teiginys: "Po Žalgirio mūšio Vakaruose sklido paskviliai, kad Jogailos ir Vytauto pergalė buvusi netikra, nes jie rėmėsi pagonimis ir totoriais musulmonais."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1413 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys perrašytas sklandžiau, pašalinant neenciklopedinę formuluotę."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "91293-91536; hash=aa7aa9b0b50e377dc00eac4495e420bb7096fd6e573dc93e4147ede4c20ee87b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Totoriai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Totoriai: mention_match, group, gap=72"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Totoriai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-166934
 
@@ -345,22 +161,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - t-201
   global_id: t-183542
   teiginys: "Jogailos ir Jadvygos vedybomis 1386 m. prasidėjo Lietuvos ir Lenkijos suartėjimas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1386 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie Jogailos ir Jadvygos vedybų reikšmę."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "121799-122096; hash=aad545de9bfbc916e5ef3eb6b5c1be2d94afca9d40593d8cc92b8acacf86fcca; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=61"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-166935
 
@@ -368,19 +168,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - t-202
   global_id: t-184264
   teiginys: "Pasimeldęs Jogaila Vytauto ir lenkų riterių raginimu užsidėjo šarvus ir nuvyko prie kariuomenės."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "228694-229059; hash=13637ad7857b8d3286408658784fdf3bf9a32638799c30169baad8c3cff5e295; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=19"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-36349
 
@@ -388,19 +175,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - t-203
   global_id: t-184265
   teiginys: "Jogaila netrukus įsakė duoti ženklą mūšiui."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "230886-231158; hash=9bfdfc4f6fe5cfa158fb7a4e915cfe7881fc8e361f7c11287bf737d30a8e8a5c; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kaributas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kaributas: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Kaributas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-36350
 
@@ -408,23 +182,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - t-204
   global_id: t-184266
   teiginys: "1386 m. Jogaila su savo broliais, Vytautu, kaipo Gardino kunigaikščiu, ir būriu dvaro didikų išvyko į Krokuvą priimti krikšto, vesti lenkų karalaitę Jadvygą ir karūnuotis Lenkijos karaliumi."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Jogaila (kunigaikštis, XIV–XV a.) keliavo į Krokuva (0.96)"
-  temporaliniai_duomenys: "įvykio data: 1386 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie Jogailos išvykimą į Krokuvą 1386 m."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "254755-255071; hash=b140585adab714b95d644980d94173edd36fc4ac8fafdb64eb309374a737b97c; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Krokuva: 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Krokuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Jogailos išvykimą į Krokuvą."
   pagrindžia:
     - c-36351
 
@@ -432,22 +189,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - t-205
   global_id: t-184267
   teiginys: "1413 m. Kauno saloje vykusiame Žemaitijos sienų suvažiavime dalyvavo Jogaila."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1413 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis sakinys per ilgas ir prasideda kontekstiniu junginiu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "330725-331338; hash=92de0bf02a1dc1ab727ee45a2398d559899e7f701c67a2d191d2eab8608eae49; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kaunas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kaunas: mention_match, place, gap=61"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-167648
 
@@ -455,22 +196,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - t-206
   global_id: t-184268
   teiginys: "1392 m. rugpjūčio 5 d. Ostrovoje Jogaila sudarė taiką su Vytautu ir grąžino jam tėviškę."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1392 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys buvo nutrūkęs ir nebaigtas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "391963-392334; hash=0ae359754159260b71b656b2fcf27d44832782f6d2f8ad8ee5dbcf25693d53c6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gardinas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Gardinas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Gardinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-36360
 
@@ -478,22 +203,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - t-207
   global_id: t-184269
   teiginys: "Po Torno taikos Jogaila davė Vytautui lėno teisėmis vakarinę Podolijos dalį su Kamieniecu."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1403 m.; įvykio data: 1409 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo Jogailos veiksmą ir yra paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "450989-451737; hash=cff6ddba77f2a89124e0788e634fb2734b0044c756b2a583d78352d26ae50235; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Karūna: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Karūna: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Karūna\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-36362
 
@@ -501,19 +210,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - t-208
   global_id: t-184270
   teiginys: "Po Jadvygos mirties lenkai pažadėjo Jogailai, kad Lenkijos sostą galės užimti jo vaikai."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "490609-491232; hash=d01aa97fadc6c13a070316c58ffd839555d6ad17d4d685ffacb551723ea364b7; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=14"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-167649
 
@@ -521,22 +217,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - t-209
   global_id: t-184271
   teiginys: "1417 m. Jogaila vedė trečią žmoną."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1417 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, glaustas ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "491233-491670; hash=df2c075c1ee3e65f445fe77d979dda2ea0685d9d6a2af539421dd774fe9b0eac; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-36364
 
@@ -544,19 +224,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - t-210
   global_id: t-184272
   teiginys: "Jogaila nebuvo visiškai nutraukęs santykių su Vytautu ir Lietuva, nes dažnai čia viešėdavo."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "508302-508576; hash=8d36a7a03aa1fd6eae7e66f6c844aa1f5a3497369c09cc2ee290f7d1946f5106; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=57"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-36365
 
@@ -564,19 +231,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - t-211
   global_id: t-184273
   teiginys: "Lucke Zigmantas pasiūlė Jogailai karūnuoti Vytautą, kuris buvo suvažiavimo šeimininkas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "525396-525913; hash=21792dd41a73f7a1f6a244e4e7b7ddf8ec9ca24e35c0c61e8f27d6412af93b1d; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): mention_match, person, gap=19"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-167650
 
@@ -584,19 +238,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - t-212
   global_id: t-184274
   teiginys: "Laiške Jogaila atkalbinėjo Zigmantą nuo sumanymo karūnuoti Vytautą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "533458-533694; hash=a9af22551346d7656086e421355de4cf1ae756994691b4a057106e43f4d8a7d0; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Zigmantas (Romos imperatorius): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Zigmantas (Romos imperatorius): mention_match, person, gap=20"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Zigmantas (Romos imperatorius)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-167651
 
@@ -604,19 +245,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - t-213
   global_id: t-184275
   teiginys: "Jogaila atsakyme Vytautui teisinosi, kad laiškas Zigmantui buvo parašytas be jo žinios."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "544007-544374; hash=16526c567570e85aa5bc8b9c7c50b18ee91e701da009b39f92576b8ea6a33c1e; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): mention_match, person, gap=17"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-167652
 
@@ -624,19 +252,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - t-214
   global_id: t-184276
   teiginys: "Jogaila suprato, kad laisva paveldima Lietuvos karalija padėtų jam tvirtai laikytis Lenkijoje ir išlaikyti dinastijos teises."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "581964-582397; hash=e7f268995378d7e9f5db5bc1115e229984c882339cd477fadfd29006a304a184; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=84"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-167653
 
@@ -644,19 +259,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - t-215
   global_id: t-184277
   teiginys: "Jogailos ir Vytauto rūmuose kartais buvo mokama rubliais, patekusiais iš slavų kraštų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "605044-605399; hash=a421e5aef8cf83c0e5c73bb6d96410ddbde81c0795296b35c0efab382a25fc5c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Slavai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Slavai: mention_match, group, gap=73"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Slavai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-167654
 
@@ -664,20 +266,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - t-216
   global_id: t-184278
   teiginys: "Istoriškai reikšmingas Vytauto veikimas prasidėjo Kęstučio kovos su Jogaila metu."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) buvo sūnus Kęstutis (vakarų pasienio valdovas, XIV–XV a.) (0.89)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "643319-643666; hash=20a8c1acac70403bb5ed170d85c5a293f8affea65a53e99c71a83cf45a4feec0; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sunus -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.89"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata aiškiai nusako Kęstutį kaip Vytauto tėvą."
   pagrindžia:
     - c-167655
 
@@ -685,19 +273,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - t-217
   global_id: t-184279
   teiginys: "Autoriaus vertinimu, Vytauto pasitikėjimas Jogaila buvo per didelis ir tapo Kęstučio mirties priežastimi."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "643896-644210; hash=49a0b655b665326cf905f399f48b92f1ba43bc819f313bdd6bcc87b1530283ba; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Kęstutis (vakarų pasienio valdovas, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-167656
 
@@ -705,22 +280,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - t-218
   global_id: t-184280
   teiginys: "1392 m. Jogaila susitaikė su Vytautu, kai šis atsisakė sąjungos su Ordinu ir gavo valdyti visą Lietuvą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1392 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradiniame teiginyje veiksmo centras yra Vytautas, todėl perrašyta aiškiau susiejant faktą su Jogaila."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "649011-649391; hash=7238f28a10247eb64e2a93f8f391fe17b351192b956659238de6fd10358d461e; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=59"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-167657
 
@@ -728,20 +287,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - t-219
   global_id: t-184373
   teiginys: "Jogaila su Olesnickiu atvyko į Vilnių ir, aiškėjant Vytauto įpėdinystei, linko nesipriešinti vainikavimui."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Jogaila (kunigaikštis, XIV–XV a.) keliavo į Vilnius (0.95)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1018486-1018705; hash=83de7074b05f5af5774556e1b3b6e5b506cc788add4ff2e144564d375cba82d6; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Vilnius: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Jogaila atvyko į Vilnių."
   pagrindžia:
     - c-34193
 
@@ -749,20 +294,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - t-220
   global_id: t-184719
   teiginys: "Kojelavičius Jogailai priskiria klastingą dėdės nužudymą ir morališkai nepateisina jo slaptų sandėrių su kryžiuočiais."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Jogaila (kunigaikštis, XIV–XV a.) buvo sūnus Algirdas (Lietuvos valdovas) (0.86); Jogaila (kunigaikštis, XIV–XV a.) sudarė sutartį su Kryžiuočių ordinas (0.78)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "44052-44512; hash=817f216e21745ee2bc18e84467216fb8bb077d1b9c744053797c25722e2f8097; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sunus -> Algirdas (Lietuvos valdovas): 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citatos kontekste įvardijama, kad Jogaila yra Algirdo sūnus."
   pagrindžia:
     - c-168080
 
@@ -770,19 +301,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - t-221
   global_id: t-184720
   teiginys: "Tapęs Lenkijos karaliumi, Jogaila Petro Pšonkos ir Otono Čecharovičiaus turtus perdavė karalystės iždui."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "414724-415214; hash=63ea98611aa3487c2607e93e7ea97435b1418530c2583dd4a9200e7e6c598ee1; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=20"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-168081
 
@@ -790,19 +308,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - t-222
   global_id: t-184721
   teiginys: "Sulaukęs paramos iš Livonijos ir Prūsijos, Jogaila su kariuomene traukė iš Vilniaus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "470086-470552; hash=80ab68718f09d8bba6e79de7ed6a76427bc642a8923bc962edbb11db4d29c074; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=32"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-168082
 
@@ -810,20 +315,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - t-223
   global_id: t-184722
   teiginys: "Prieš Kęstučio kariuomenę stojęs Jogaila numanė, kad kova pareikalaus didelių aukų, todėl pirmiau bandė veikti žodžiais."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Jogaila (kunigaikštis, XIV–XV a.) kariavo prieš Kęstutis (vakarų pasienio valdovas, XIV–XV a.) (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "470553-471255; hash=319e2a2550a7611da645d15a0c696c48eff33514f82ae552ecfdcf4c53d0ae7f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Jogailą stojus prieš Kęstučio kariuomenę."
   pagrindžia:
     - c-168083
 
@@ -831,20 +322,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - t-224
   global_id: t-184723
   teiginys: "Jogaila įsakė suimti Kęstutį ir Vytautą: Kęstutį nuvežti į Krėvą, o Vytautą įkalinti Vilniuje."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.) mirė Krėva (0.93); Jogaila (kunigaikštis, XIV–XV a.) siuntė į Krėva (0.82); Jogaila (kunigaikštis, XIV–XV a.) siuntė į Vilnius (0.80)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "474580-475257; hash=a1db6b400eefc7190cc881f9975f1913d67bc8d7b452212346759031909ad391; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "mire -> Krėva: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Krėva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata nurodo, kad Kęstutis buvo pasmaugtas Krėvos kalėjime."
   pagrindžia:
     - c-168084
 
@@ -852,22 +329,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - t-225
   global_id: t-184724
   teiginys: "Sužinojęs apie Jadvygos paskelbimą Lenkijos karaliene, Jogaila nutarė prašyti jos rankos."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1385 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinė formuluotė nepakankamai aiški be konteksto."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "486673-487635; hash=bfabac3bc3e9675fab416f82f9239388a55fc4baae83250f1b72443914d93beb; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Bajorai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Bajorai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-168085
 
@@ -875,19 +336,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - t-226
   global_id: t-184725
   teiginys: "Jogaila asmeniškai pasveikino karalienę ir per Skirgailą bei Vytautą pasiuntė jai gausių dovanų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "492254-492502; hash=d8f4ad77ab5f8927c4a33f5a2f914d8cb9ac69e90571168606204280e514a8c2; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Skirgaila: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Skirgaila: mention_match, person, gap=47"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Skirgaila\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-168086
 
@@ -895,19 +343,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - t-227
   global_id: t-184726
   teiginys: "Sužinojęs apie Švitrigailos veiksmus Vitebske, Jogaila paliepė Vytautui kariauti, kol šis atsiims žemes ir sutriuškins Švitrigailą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "603950-604759; hash=4450f18868b53f586992118379a1941e236fe3d73cc32055e6766f5864e6c139; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Dnepras: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Dnepras: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Dnepras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-168087
 
@@ -915,19 +350,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - t-228
   global_id: t-184727
   teiginys: "Įspėtas dėl gresiančio karo, Jogaila susitarė su Vytautu ir atvyko į Kauną, apsimesdamas turįs kitų ketinimų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "645183-645512; hash=d4f9216e6d4c838d30bfe1c497400d6afffb95eab34f24fc053ba4988f480043; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-168088
 
@@ -935,20 +357,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - t-229
   global_id: t-184728
   teiginys: "Norėdamas palengvinti maisto stokos kamuojamos Lietuvos dalią, Jogaila įsakė į Lietuvą gabenti dvidešimt laivų grūdų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Jogaila (kunigaikštis, XIV–XV a.) siuntė į Lietuva (0.91)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "646450-646819; hash=98911dc1ba7bfbd63c935ff495627b7db8debec74d59d8c85f27a8a633e5690e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "siunte_i -> Lietuva: 0.91"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Jogailos įsakymą gabenti grūdus į Lietuvą."
   pagrindžia:
     - c-168089
 
@@ -956,19 +364,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - t-230
   global_id: t-184729
   teiginys: "Jogaila atsakė, kad svarbiais valstybės reikalais negali nieko nutarti be luomų pritarimo."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "649767-650237; hash=30fe339935415112a3aa076f5f1e884257efcfc082b96157154e386cc7467384; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenčica: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lenčica: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Lenčica\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-168090
 
@@ -976,19 +371,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - t-231
   global_id: t-184730
   teiginys: "Matydamas kryžiuočių sėkmę, karalius Jogaila įsakė visoms Lenkijos žemėms stoti į kovą su Prūsija."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "651140-651446; hash=59d9c038162bb233ed06d0db41f1bbc6183d950b0e04f788a3389ee71358f58a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=21"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-168091
 
@@ -996,19 +378,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - t-232
   global_id: t-184731
   teiginys: "Kai Edigejus siaubė Rusią, Jogaila Sanoke susituokė su Elžbieta ir iškėlė vestuvių puotą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "688671-689174; hash=9cf2eca81d6df31f5df3d7623514f2a654a98537ca6aa2ebc0308769898afb41; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "vede -> Elžbieta: 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Elžbieta: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Jogailos santuoką su Elžbieta."
   pagrindžia:
     - c-168092
 
@@ -1016,19 +385,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - t-233
   global_id: t-184732
   teiginys: "Aptaręs pasiūlymus su senatu ir Vytautu, Jogaila sutiko jungtis į karą su turkais tik susitarus visiems krikščionių valdovams."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "727533-728152; hash=4bf815fa4188aeef089a7a1a8ce16757517ebdb57d5915ed0ab783f7f8b9127e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Ginklai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Ginklai: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Ginklai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-168093
 
@@ -1036,19 +392,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - t-234
   global_id: t-184733
   teiginys: "Iš Lucko grįžęs į Lenkiją, Jogaila Korčine sukvietė seimą, kad luomai nuspręstų, kaip priešintis Vytauto siekiams."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "733313-733874; hash=7332f951fefe986b101d0701817664b5983a4d62f3f1d491db05f58564389bf6; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Korčinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Korčinas: mention_match, place, gap=8"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Korčinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-168094
 
@@ -1056,19 +399,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - t-235
   global_id: t-184734
   teiginys: "Sužinojęs apie Vytauto vainikavimo reikalą, karalius Jogaila ieškojo užtarėjų ir apie viską pranešė Romos popiežiui."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "741177-741683; hash=bb562a3f431a263d1f7ffd00eeb7215ac462c9d6d4a2e7e4cbff0f195d452242; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Zigmantas (Romos imperatorius): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Zigmantas (Romos imperatorius): mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Zigmantas (Romos imperatorius)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-168095
 
@@ -1076,19 +406,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - t-236
   global_id: t-184735
   teiginys: "Jogaila sakė nieko nedarysiąs be lenkų senatorių, kuriuos jam priskyrė valstybė, pritarimo."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "746162-746581; hash=c95914d190f4c97fe3b4a7287c934dbd209b79be77c05f027346e0177633c212; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=33"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-168096
 
@@ -1096,19 +413,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - t-237
   global_id: t-184736
   teiginys: "Raginamas imtis veiksmų prieš Boleslovą, Jogaila neilgai priešinosi ir pasiuntė žygūnus pas Žygimantą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "770419-770742; hash=8f120f8e16f5b68e4a1b718acfa3b23f3209bd3edea9de4dfcffc8c35cfc6410; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-168097
 
@@ -1116,19 +420,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - t-053
   global_id: t-188542
   teiginys: "Narbutas aiškina, kad Jogaila ir Vytautas iš pagarbos Birutei paliko jai Žemaitijoje ilgiau išlikusį aukurą ir apeigas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "269929-270472; hash=5b2e5d5e58dc9439184c299e330b32f127b67ba7ac49ad455958c18efbf7e101; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aukuras: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Aukuras: mention_match, thing, gap=79"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Aukuras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-171431
 
@@ -1136,19 +427,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - t-054
   global_id: t-188543
   teiginys: "Narbutas atmeta nuomonę, kad Šventosios vardas kilo iš lietuvių krikštijimo jos vandeniu Jogailai atvertus tautą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "389009-389253; hash=b56e21c5c5229b16258f1dd1d8f1deafe319c4724cd8e3d063778df0988f18c7; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Neris: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Neris: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Neris\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-171432
 
@@ -1156,19 +434,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - t-055
   global_id: t-188544
   teiginys: "Narbutas aprašo autorių, giriantį Vladislovą Jogailą, jo brolius ir jų nuolankumą bažnyčiai dėl lietuvių atvertimo."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "704054-704726; hash=2a9bac7b75e3f46fd4b125ce692a66ee575142a7c9f32a0ec66bc4174c793bc5; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=51"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-171433
 
@@ -1176,20 +441,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - t-056
   global_id: t-188545
   teiginys: "Narbutas rašo, kad Vladislovas Jogaila į Konstancos susirinkimą pasiuntė Teodorą Lenką skųsti kryžiuočių žiaurumų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Vladislovas Jogaila siuntė į Konstanca (0.85)"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "713317-713786; hash=b88c578f514aaba6552ac81d72fed6fd91bd60b1129ba41b7860b80857f4ddf3; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "siunte_i -> Konstanca: 0.85"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vladislovas Jogaila: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Konstanca: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekste sakoma, kad Vladislovas Jogaila pasiuntinį nusiuntė į Konstancos susirinkimą."
   pagrindžia:
     - c-171434
 
@@ -1197,20 +448,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - t-057
   global_id: t-188546
   teiginys: "Narbutas rašo, kad 1392 metais Vladislovas Jogaila pasiuntė Jeronimą Prahiškį pas Vytautą skelbti Lietuvoje krikščionių tikėjimo."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Vladislovas Jogaila siuntė į Lietuva (0.90); Jogaila (Lenkijos karalius, 1382 m.) siuntė į Lietuva (0.80)"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "821880-822425; hash=5cd56c691ddec880a12eab8c67cfbb219c59297c4d882e4dfd9b3dbfb5c3a2a2; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "siunte_i -> Lietuva: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vladislovas Jogaila: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata nurodo, kad Vladislovas Jogaila 1392 metais nusiuntė Jeronimą skelbti tikėjimo Lietuvoje."
   pagrindžia:
     - c-171435
 
@@ -1218,14 +455,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - t-238
   global_id: t-193393
   teiginys: "Dėl Jogailos, troškusio ka raliaus sosto, lengvabūdiškumo Podolė buvusi atplėšta nuo Lietuvos ir prijungta prie Lenkijos."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "859639-860032; hash=1b83ba2a0d9be8420e6b1c7bb23251ddef1ddea5de251d4dc4104a14d900c5a1; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-176117
 
@@ -1233,14 +462,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - t-239
   global_id: t-193394
   teiginys: "Jogaila nesusipažinęs su L ietuvos isto rija, k u r aišk iai p asak y ta, k ad jo p irm tak ai Jo g a ila bei V y tau tas p a p rastai už p inigus L iv o n ijo je sam dydavęsi k arių?"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1281378-1281838; hash=a4789cd1483540dcc45b98217a08aaf64f6610838be567ff07caa49db7d43b0f; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-176118
 
@@ -1248,14 +469,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - t-240
   global_id: t-193916
   teiginys: "Vyriausias—Jogaila Vladislovas1 8 ; antras — Skirgaila1 9 , trečias — Švitrigaila3 0 , ketvir tas— Kaributas2 1 , penktas — Dimitrijus2 2 , Koreco ku nigaikštis 2 3 , šeštas — kunigaikštis Vasilijus 2 4 ."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "134354-134877; hash=ec3a7cba44ed0c2580b18b543a26e9df1c3985d7c21d24de31b4ec763b1bcc6a; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-176541
 
@@ -1263,14 +476,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - t-241
   global_id: t-193917
   teiginys: "Paskui, po didžiojo kunigaikš čio Algirdo mirties praėjus dvejiems ar daugiau metų, didysis kunigaikštis Jogaila jį labai aukštai iškėlė ir išleido už jo tikrą savo seserį, kunigaikštytę Mariją 3 B , kuri buvo pirmiau ištekėjusi už kunigaikščio Dovydo 4 0 ."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "136156-136873; hash=b5b8050111af537eb062e4ebb34dd652685d8d4295b8f132616bcbdd16d032d3; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-176542
 
@@ -1278,14 +483,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - t-242
   global_id: t-193918
   teiginys: "Tas Vaidila turėjo di delę galią pas didįjį kunigaikštį Jogailą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "136874-137219; hash=f25e5c17cb02f73ecf3d583b0ccfe715f0ea1e701d88ff36b453b3fcb2b07b7e; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-176543
 
@@ -1293,14 +490,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - t-243
   global_id: t-193919
   teiginys: "Vėliau karalius Jogaila atsiuntė iš Lenkijos žymiau sius ponus, kurie paėmę kunigaikštytę Sofiją parvežė pas jį į Krokuvą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "177341-177743; hash=133750abc4357ad4c890cc6422bf4f715f27e842f3428b0c88c22ddf0d84763f; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-176544
 
@@ -1308,12 +497,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - t-244
   global_id: t-193920
   teiginys: "Lietuvos metraštis teigia, kad aPIE JOGAILOS IR VYTAUTO KARĄ SU PROSUOS VOKIEČIAIS IR APIE JŲ NUGALĖJIMĄ MOSYJE PRIE DUBROVNOS Sesi tūkstančiai devyni šimtai dvidešimt pirmaisiais metais nuo pasaulio sutvėrimo, o nuo dievo gimimo tūkstantis keturi šimtai dvyliktaisiais metais 1 prasidė jo."
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "183455-184134; hash=746598988d4e2eda9af2132548ad6046588c5dd8fc8d82054b8c5b7f1cecf5bc; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176545
 
@@ -1321,12 +504,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - t-245
   global_id: t-193921
   teiginys: "Ir mes su mūsų tėvu stovėjome ant vieno kalno, o kunigaikštis Jogaila ant kito kalno, priešais mus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "305298-305656; hash=fc728745cb445571c68c05f383acbd7abb0da3a21500d3692a3492e3cbdf783f; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176546
 
@@ -1334,12 +511,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - t-246
   global_id: t-193922
   teiginys: "O kunigaikštis Jogaila pažado neišpildė, atstojo nuo tiesos ir mano tėviškės man neatidavė, o davė mano tėviškę savo broliui kunigaikščiui Skirgailai."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "306447-306791; hash=bb5e5a2324c0bd530202dbea8d8c142d19f8aad5f25ed628592dd381c21d40e4; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176547
 
@@ -1347,12 +518,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - t-247
   global_id: t-193923
   teiginys: "Tais laikais jo brolis Jogaila, lenkiškai Vladislovu vadinamas, sėdėjo Krokuvos karalystės soste."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "311990-312244; hash=ea9d18a813e2eb9a05d5f8f46641c49deee042261a1c05dd12ef8d38a9afa77a; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176548
 
@@ -1360,12 +525,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - t-248
   global_id: t-193924
   teiginys: "Lietui 35 Belzo kunigaikščio Jurgio sūnus Jonas (orig.— Iwan Jurjewicz Belskiį) buvo Gedimino vaikaičio Jurgio Narimantaičio sū nus; jis figūruoja tarp įkaitų, kuriuos 1386 m. Jogaila pristatė Len kijos didikams kaip laiduotojus, kad Jogaila Įvykdys savo."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "470372-470698; hash=4f3d9a85122ed1fc06f7589571833007d5b799eda31acf45296e5a9b09814b7b; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176549
 
@@ -1373,12 +532,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - t-249
   global_id: t-193925
   teiginys: "Skunde dėstomos priežastys, dėl kurių kilo Vytauto konfliktas su savo pusbroliu Jogaila."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "663907-664224; hash=9285bdfbb2d7e8dce9f34469ec60ebda6a1947d744f3990586b306c558569fbf; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176550
 
@@ -1386,12 +539,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - t-250
   global_id: t-194228
   teiginys: "Mažai težinoma mums patiems, o Europai visai negirdė ta, istorija, garsi riterių žygiais ir išmintingiausia Mindaugo, Ge dimino, Algirdo, Kęstučio, Jogailos ir Vytauto politika, istorija menkame plote išsitenkančios Tautos, kuri pati viena, savosios pagonybės."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "26701-28139; hash=c0b098f5b00de528c9f5f03b8eea51a3dc442b34c962d0cf0859dfc4ab2a1950; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176827
 
@@ -1399,12 +546,6 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - t-251
   global_id: t-194709
   teiginys: "Si epocha baigėsi 1386 metais, tai yra visiškai įvedus krikščionybę Lietuvoje, kai Jogaila vedė Lenkijos kara lienę Jadvygą, pats priėmė krikščionių tikėjimą ir vertė tą pat daryti visą tautą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "830582-831079; hash=c2fb7b85bb2e6dc68d1d08b07d0bf23541f4b0faa1b068457b379073ed4eda97; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177105
 - susijęs iš [[objektai/asmenys/Jadvyga (Jogailos duktė).md#claim-t-51025|Jadvyga (Jogailos duktė)]]: Horodlėje karalaitė Jadvyga buvo pripažinta Lenkijos sosto įpėdine, o Vytautas paskirtas jos globėju.
@@ -2126,8 +1267,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     iš jo sūnų, buvo jau linkęs vainikavimui nesipriešinti. Bet visai
     kitaip buvo galvojama Lenkijoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2145,8 +1286,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     gas riterių įšventinimo ceremonijas. Iš viso įšventino riteriais
     apie tūkstantį vyrų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2162,8 +1303,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     jį apstatė geriausia sargyba. Jį saugojo kunigaikščio Kaributo
     vėliava, kurią dar prieš karą Vytautas buvo Jogailai nusiuntęs.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2180,8 +1321,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     kuvos katedroje, kur jį pakrikštijo Gniezno vysk. Bodzanta
     Vladislovo vardu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2198,8 +1339,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     pridėjo kitas žemes, jų tarpe — Lucką, kuris vos neseniai, t. y.
     tų pačių metų bal. mėn. 16 d. buvo patvirtintas Lenkijai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2223,8 +1364,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     Lenkija, kurioj tos pačios pretenzijos grėsė raumumui valdant
     Raudonąją Rusiją.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2243,8 +1384,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     veldimą Lietuvą, kame pagal tą įpėdinystės teisę viešpatautų
     ir jo sūnūs, sulaukti iš paskutinės žmonos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2260,8 +1401,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     siomis Lietuvai valandomis, pav., kad ir bado metu, ištiesdavo
     jis savo duosnią ranką.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2280,8 +1421,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     nusprendė užimti Vilnių ir Trakus. Hanulas, arba Hanka32,
     užmuš, o mūsų kraštą užvaldys.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2306,8 +1447,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     mes pašventino vyskupai: Kijevo - Mykolas ir Plocko -
     Stanislovas82.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2339,8 +1480,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     kėti, kad būtų kalbama apie tiltą per
     Viliją.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2358,8 +1499,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     tęsė, apie tai pasklido žinia ne tik Lenkijoje, bet ir tolesnėse
     šalyse.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2378,8 +1519,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     laisvių. Be to, Rusios miestai, būtent Pskovas ir Didysis Naugar-
     das, atsidūrė kitokiose aplinkybėse.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2405,8 +1546,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     dindavo trumpumo dėlei -Jagiełło, o
     lotyniškai - jagelo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2430,8 +1571,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     didikus - Rumbautą ir Goštautą - išlaisvino ir atsiuntė jam
     į Vilnių13.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2452,8 +1593,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     dėrį su arkikomtūru, siekiant užsitikrinti saugumą nuo kry­
     žiuočių ir palengvinti jiems Kęstučio valdų puolimą28.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2488,8 +1629,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     visuomenės pamatai, kurią tinkamai išlaikyti gebėjo Gedi­
     minas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2506,8 +1647,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     jimą, Jogaila naikino senojo tikėjimo apraiškas: šventąsias girias, žalčius,
     šventąją ugnį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2524,8 +1665,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     Lietuvoje katalikų tikėjimą, atgauti prarastas Lenkijos žemes, paleisti lenkų
     belaisvius ir „prišlieti“ Lietuvą prie Lenkijos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2547,8 +1688,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     Jogaila, Lietuvos didysis kunigaikštis, tapo Jogailos, Lenkijos karaliaus,
     vasalu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2565,8 +1706,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     jėga priversti priimti katalikybę. Jogaila, pavertęs Lietuvą krikščioniška
     šalimi, panaikino pagrindinę politinės izoliacijos priežastį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2582,8 +1723,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     menės dydžiu, žygio kryptimi, grėsmingu jėgos demonstravimu manė
     priversti Ordiną pradėti derybas ir jam padiktuoti savo sąlygas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2598,8 +1739,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     jie nugalėjo pasitelkę pagonis, totorius musulmonus. Todėl 1413 m. Vy-
     tautas su Jogaila pradeda krikštyti žemaičius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2618,8 +1759,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     1386 m. Jogailos ir Jadvygos vedybomis prasidėjo Lietuvos
     ir Lenkijos suartėjimas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2640,8 +1781,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     Veliuoną, kuri esanti Ordino žemėje ir atiduoti kryžiuočiams
     visas Nemuno ir Nevėžio krantuose Vytauto pastatytas pilis^4 ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2663,8 +1804,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     kimybės priesaika: matyt, nenorėta tos teisės išplėsti ant tų
     Jogailos vaikų, kurie būtų kilę ne iš Piastų dinastijos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2684,8 +1825,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     mantą apie tai pasikalbėti. Nors buvo jau vakaras, Zigmantas
     aplankė Vytautą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2701,8 +1842,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     vęs sutikimą ir nurodo, kad iš to galįs kilti tarp Lietuvos ir Len­
     kijos naminis karas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2722,8 +1863,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     nios; jam nežinomas net ir jo turinys. Ir nenuostabu, nes jis
     nemokėjo skaityti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2742,8 +1883,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     jo^4 ). Lenkai bijojo leisti vieną Jogailą į Lietuvą ir prisiprašė,
     kad leistų kartu su juo vykti ir kai kuriems jų atstovams.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2761,8 +1902,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     vo kartais mokama rubliais, patekusiais iš slavų kraštų; bet tai
     dar nebuvo monetos, o paprasti sukapoti sidabro gabalai^5 ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2781,8 +1922,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     buvo jam artimi — Kęstutis kaip tėvas, Jogaila kaip draugas
     — pusbrolis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2799,8 +1940,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     buvo paaiškėję, kad Jogaila neteisingai elgėsi. Vytauto per di­
     delis pasitikėjimas buvo Kęstučio mirties priežastis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2819,8 +1960,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     la ir lenkais ir gavo valdyti ne tik tėviškę, bet ir visą Lietuvą.
     Jo santykiai su tauta pasikeitė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2844,8 +1985,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     priskiriami ir slapti sandėriai su kryžiuočiais, morališ­
     kai nepateisinami.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2872,8 +2013,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     įgyvendinti trukdė didžiausia to krašto upė Vysla, te­
     kanti gana plačia ir gilia vaga.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2897,8 +2038,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     nojo, kad priešas vedasi didžiulę kariuomenę, kuriai
     jie neprilygsta nei ginkluote, nei karių skaičiumi.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2923,8 +2064,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     monėmis. Tegu jie atsimeną, jog viena prieš kitą sto­
     vinčios ne priešų, bet giminaičių rikiuotės.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2955,8 +2096,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     kša, Bilgenis, Lisica ir kiti)
     Krėvos kalėjime jį pasmaugė.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2994,8 +2135,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     Hanulas, Vilniaus seniūnas;
     jie vežėsi puikiausių dovanų karalienei bei didikams.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3017,8 +2158,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     apkrikštytas, gavo Vladislo­
     vo vardą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3052,8 +2193,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     Vytautui tol kariauti, kol neatsiims žemės ir nesutriuš­
     kins Švitrigailos.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3071,8 +2212,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     Kauną. Nelyginant į vaišes čia pasikvietė kryžiuočių
     vadovus.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3093,8 +2234,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     gas karu i
     juos išsivežė kitur.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3118,8 +2259,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     gų, visokiais būdais skatinti magistrą draugiškai už­
     baigti ginčą su Vytautu.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3137,8 +2278,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     riams paliepė rinktis į Volbožą, Didžiosios Lenkijos —
     į Lenčicą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3159,8 +2300,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     gus, nes niekas neabejojo, kad ir dangus smerkė tai,
     ką atmetė lyg susitarę žmonės.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3191,8 +2332,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     negalįs nepaisyti sudarytų susitarimų, kuriuos lengva
     sulaužyti, bet sunku atnaujinti.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3217,8 +2358,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     spręstų, kaip dera priešintis
     nesaikingiems Vytauto potroškiams.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3242,8 +2383,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     krės krikščioniškąją valstybę, paragino Zigmantą bei
     Vytautą atsisakyti savo sumanymo.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3266,8 +2407,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     riuos jam priskyrusi valstybė. Tada Vytautas sugalvojo
     perkalbėti lenkus, o pirmiausia — Zbignevą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3285,8 +2426,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     nelyginant atlyginimą už pergalę Lietuvos Didžiąją
     Kunigaikštystę.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3306,8 +2447,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     senuosius prietarus, dar jai gyvai esant, ėmė garbinti ją kaip
     deivę, juk ir Strijkovskis tą patvirtina.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3323,8 +2464,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     verta nuomonė, jog upė turinti tokį vardą dėl to, kad jos van­
     deniu buvo krikštijami lietuviai, kai Jogaila visus atvertė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3347,8 +2488,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     jų rūpesčiu į savo prieglobstį gavo 5 635 500 atverstų stabmel­
     džių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3368,8 +2509,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     rumais atgrasančius lietuvius veiksmingai priimti šventąjį ti­
     kėjimą. Apie tai žinome iš Dlugošo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3389,8 +2530,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     metais nusiuntė jį, kaip pasiryžusį skelbti Lietuvoje krikščionių tikė­
     jimą, su laišku pas Vytautą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3409,8 +2550,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     pažadų, antra vertus, jų reikalas neleisti, kad valstybė
     dėl anų susitarimų patirtų kokių nuostolių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3429,8 +2570,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     L ivonija nuo seno b ū tų  L ietuvos d id žių jų  k u n ig aik ščių
     tėv o n ija.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3451,8 +2592,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     tas— Kaributas2 1 , penktas — Dimitrijus2 2 , Koreco ku­
     nigaikštis 2 3 , šeštas — kunigaikštis Vasilijus 2 4 .
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3476,8 +2617,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     pyktį ir gailestį dėl tos jo giminaitės, o [Jogailos] se­
     sers, kam ją ištekino už vergo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3495,8 +2636,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     buvo didžiojo kunigaikščio Kęstučio kūmas4 4 , jo duk­
     ters, kunigaikštienės Jonušienės4 5 , krikštatėvis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3515,8 +2656,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     liau buvo Lenkijos karaliumi ir Lietuvos didžiuoju ku­
     nigaikščiu 1 1 .
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3545,8 +2686,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     mis ir su daugeliu Ordos totorių, o Prūsijos magistras
     taip pat su savo pajėgomis ir su visa Vokiečių imperija.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3564,8 +2705,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     jis taip pat davė žodį kunigaikščio Jogailos vardu ir
     savo vardu, ir [davėj savo ranką.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3588,8 +2729,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 
     tikėjimo3 , kurio ir šiandien laikosi.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3606,8 +2747,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     vadinamas, sėdėjo Krokuvos karalystės soste. Ir tasai
     gyveno su juo didelėje meilėje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3627,8 +2768,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     kijos didikams kaip laiduotojus, kad Jogaila Įvykdys savo įsipa­
     reigojimus vedybų su Jadvyga proga.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3644,8 +2785,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     įrodyti, kad Vytautas — doras krikščionis ir katalikas, kuriam pri­
     klausanti teisė į didžiojo kunigaikščio valdžių Lietuvoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3688,8 +2829,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     kia detaliai išnarplioti atskirų šios šalies miestų, būtent jos sos­
     tinės, istoriją.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -3709,8 +2850,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     IV  1386-1447 metai, tai yra iki to laikotarpio, kai Lietuva
     nustojo turėjusi dalinius kunigaikščius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -4526,7 +3667,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - id: c-168083
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 269"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 269."
   citata_originali: |
     Ta­
     čiau šis senas karys ir vadas, pasikliaudamas savo rei­
@@ -4552,7 +3694,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - id: c-168084
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 271"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 271."
   citata_originali: |
     Mat nei geros savijautos,
     nei pasitikėjimo duotu žodžiu negali būti tada, kai,
@@ -4623,7 +3766,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - id: c-168086
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 280"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 280."
   citata_originali: |
     Tą pačią dieną
     jis asmeniškai pasveikino karalienę, kitą dieną per
@@ -4681,7 +3825,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - id: c-168088
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 369"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 369."
   citata_originali: |
     Vis dėlto radosi ir tokių, kurie, norėdami nu­
     malšinti šį svetimo kraujo troškulį, įspėjo Jogailą, kad
@@ -4700,7 +3845,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - id: c-168089
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 370"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 370."
   citata_originali: |
     Lietuva juto baisią maisto sto­
     ką. Norėdamas palengvinti nuniokotos tėvynės dalią,
@@ -4747,7 +3893,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - id: c-168091
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 372"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 372."
   citata_originali: |
     Kai pasidavė Bobrovnikai
     ir buvo išduotas Bidgoščius, po aštuonių dienų apsup­
@@ -4766,7 +3913,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - id: c-168092
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 393"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 393."
   citata_originali: |
     Karalius, padrąsintas Vytauto tylėjimo, nu­
     mojo ranka į visokius nemalonumus, kurių ši santuoka
@@ -4820,7 +3968,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - id: c-168094
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 418"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 418."
   citata_originali: |
     Vytautui išėjus, senatas kuo rimčiau­
     siai paaiškino karaliui, kad, pritardamas pavojingiems ir
@@ -4846,7 +3995,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - id: c-168095
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 422"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 422."
   citata_originali: |
     Šitaip jis kalbėjo viešai, tuo
     tarpu slaptomis susitarė pagreitinti pakėlimą į sostą
@@ -4895,7 +4045,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - id: c-168097
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 439"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 439."
   citata_originali: |
     Jų raginamas Jogaila neilgai priešinosi,
     nes ir jam Boleslovas buvo neapsakomai įkyrėjęs. Štai
@@ -4914,7 +4065,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - id: c-171431
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 155"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 155."
   citata_originali: |
     Patys kryžiuočiai tą vietą visuomet palikdavo neliestą:
     viena, tikėdami kažkokiais pranašavimais, antra, dėl tos ug­
@@ -4935,7 +4087,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - id: c-171432
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 227"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 227."
   citata_originali: |
     1.
     Upė, tekanti pro Ukmergę, įteka į Nerį jos dešiniajame
@@ -4952,7 +4105,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - id: c-171433
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 393"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 393."
   citata_originali: |
     Pasakiau „stebuklingu būdu“, kadangi apaš­
     tališkosios sostinės didžiausios pastangos, tiekos šventųjų kan­
@@ -4976,7 +4130,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - id: c-171434
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 398"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 398."
   citata_originali: |
     Jeronimą sudegino gyvą Konstancoje 1416 metais bir­
     želio 21 dieną2.
@@ -4997,7 +4152,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - id: c-171435
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 452"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 452."
   citata_originali: |
     Tas, apie kurį čia kalbama,
     buvo vienuolis kamaldulis, skleidęs tikėjimą pagal katalikų bažny­
@@ -5018,7 +4174,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - id: c-176117
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 488"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 488."
   citata_originali: |
     Vėliau, susi­
     kivirčiję su lenkais dėl Rusios, lietuviai visada ginklu
@@ -5038,7 +4195,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - id: c-176118
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 715"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 715."
   citata_originali: |
     A p sk rita i n e o ru  to k iam
     v ald o v u i k aip  A u g u stas ra šy ti tokius p rieštarin g u s, to ­
@@ -5174,7 +4332,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - id: c-176546
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 174"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 174."
   citata_originali: |
     Ir mes su mūsų tėvu stovėjome ant vieno kalno,
     o kunigaikštis Jogaila ant kito kalno, priešais mus. Ta­
@@ -5217,7 +4376,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - id: c-176548
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 178"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 178."
   citata_originali: |
     Ir Danijos
     karalius didžiai šlovino ir daugeliu dovanų apdovanojo
@@ -5256,7 +4416,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - id: c-176550
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 331"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 331."
   citata_originali: |
     Parašytas, veikiausiai, pačiam  Vytautui diktuojant,
     kryžiuočių vadovybės reikalavimu. Skunde dėstomos priežastys, dėl
@@ -5317,7 +4478,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - id: c-177105
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 457"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 457."
   citata_originali: |
     Pirmoje šio laikotarpio dalyje Lietuva turėjo labai didelių
     problemų, susijusių su kryžiuočių puldinėjimais, tuo tarpu ant­
@@ -5340,24 +4502,14 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
 - Tėvai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - Dukterys: [[objektai/asmenys/Jadvyga (Jogailos duktė)]]
 - Broliai: [[objektai/asmenys/Skirgaila]]
-- Priešai: [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Švitrigaila]]
-- Sąjungininkai: [[objektai/asmenys/Karigaila]], [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Livonijos ponai]], [[objektai/asmenys/Skirgaila]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Gynė Jogailą (kunigaikštis, XIV–XV a.): [[objektai/asmenys/Kaributas]]
-- Sudarė sutartį su: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Paskyrė Jogailą (kunigaikštis, XIV–XV a.): [[objektai/grupes/Lenkai]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Rėmė Jogailą (kunigaikštis, XIV–XV a.): [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Lietuvos ir Rusios didikai bei žemvaldžiai]], [[objektai/asmenys/Skirgaila]], [[objektai/grupes/Vilniaus miestiečių luomas]]
-- Turėjo priklausinį: [[objektai/vietos/Vitebskas]]
+- Rėmė Jogailą (kunigaikštis, XIV–XV a.): [[objektai/grupes/Vilniaus miestiečių luomas]]
 - Jogaila (kunigaikštis, XIV–XV a.) buvo valdovas [[objektai/vietos/Lenkija]], [[objektai/vietos/Lietuva]], [[objektai/vietos/Vilnius]]
-- Jogaila (kunigaikštis, XIV–XV a.) valdė [[objektai/vietos/Lietuva]], [[objektai/vietos/Luckas]], [[objektai/vietos/Rusija]], [[objektai/vietos/Vilnius]]
-- Jogaila (kunigaikštis, XIV–XV a.) keliavo į [[objektai/ivykiai/1426 m. Lietuvos Brastos suvažiavimas]], [[objektai/vietos/Ašmena]], [[objektai/vietos/Aukokalnis]], [[objektai/vietos/Didžioji Lenkija]], [[objektai/vietos/Dubrovna]], [[objektai/vietos/Dubysa]], [[objektai/vietos/Kaunas]], [[objektai/vietos/Kijevas]], [[objektai/vietos/Krokuva]], [[objektai/vietos/Lenkija]], [[objektai/vietos/Lietuva]], [[objektai/vietos/Liublinas]], [[objektai/vietos/Merkinė]], [[objektai/vietos/Ostrovas]], [[objektai/vietos/Smolenskas]], [[objektai/vietos/Trakai]], [[objektai/vietos/Vilnius]], [[objektai/vietos/Vitebskas]]
-- Jogaila (kunigaikštis, XIV–XV a.) puolė [[objektai/vietos/Dobrino žemė]], [[objektai/vietos/Mazovija]], [[objektai/vietos/Trakai]]
-- Jogaila (kunigaikštis, XIV–XV a.) užėmė [[objektai/vietos/Brasta]], [[objektai/vietos/Gardinas]], [[objektai/vietos/Suražas]], [[objektai/vietos/Trakai]], [[objektai/vietos/Vilnius]]
-- Jogaila (kunigaikštis, XIV–XV a.) gynė [[objektai/vietos/Lietuva]], [[objektai/vietos/Vilnius]]
-- Jogaila (kunigaikštis, XIV–XV a.) siuntė į [[objektai/vietos/Haličas]], [[objektai/vietos/Krėva]], [[objektai/vietos/Lenčica]], [[objektai/vietos/Lietuva]], [[objektai/vietos/Polockas]], [[objektai/vietos/Prūsija]], [[objektai/vietos/Vilnius]], [[objektai/vietos/Volbožas]], [[objektai/vietos/Vroclavas]]
-- Jogaila (kunigaikštis, XIV–XV a.) surengė žygį į [[objektai/vietos/Prūsija]], [[objektai/vietos/Trakai]]
-- Jogaila (kunigaikštis, XIV–XV a.) kariavo prieš [[objektai/asmenys/Benediktas]], [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Švitrigailos šalininkai]]
-- Jogaila (kunigaikštis, XIV–XV a.) dalyvavo mūšyje [[objektai/ivykiai/Jogailos ir Skirgailos pergalė prieš Ragainės komtūrą (1384 m.)]]
-- Jogaila (kunigaikštis, XIV–XV a.) sudarė sutartį su [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Livonijos ordinas]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Jogaila (kunigaikštis, XIV–XV a.) gyveno [[objektai/vietos/Liublinas]]
-- Jogaila (kunigaikštis, XIV–XV a.) paskyrė [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]], [[objektai/asmenys/Skirgaila]]
-- Jogaila (kunigaikštis, XIV–XV a.) rėmė [[objektai/asmenys/Andrius Važila]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Skirgaila]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Jogaila (kunigaikštis, XIV–XV a.) valdė [[objektai/vietos/Lietuva]], [[objektai/vietos/Rusija]], [[objektai/vietos/Vilnius]]
+- Jogaila (kunigaikštis, XIV–XV a.) keliavo į [[objektai/vietos/Aukokalnis]], [[objektai/vietos/Didžioji Lenkija]], [[objektai/vietos/Kaunas]], [[objektai/vietos/Krokuva]], [[objektai/vietos/Lenkija]], [[objektai/vietos/Liublinas]], [[objektai/vietos/Ostrovas]], [[objektai/vietos/Smolenskas]], [[objektai/vietos/Vilnius]]
+- Jogaila (kunigaikštis, XIV–XV a.) puolė [[objektai/vietos/Dobrino žemė]], [[objektai/vietos/Trakai]]
+- Jogaila (kunigaikštis, XIV–XV a.) užėmė [[objektai/vietos/Brasta]], [[objektai/vietos/Suražas]], [[objektai/vietos/Trakai]], [[objektai/vietos/Vilnius]]
+- Jogaila (kunigaikštis, XIV–XV a.) siuntė į [[objektai/vietos/Haličas]], [[objektai/vietos/Lietuva]], [[objektai/vietos/Polockas]], [[objektai/vietos/Vilnius]], [[objektai/vietos/Vroclavas]]
+- Jogaila (kunigaikštis, XIV–XV a.) surengė žygį į [[objektai/vietos/Trakai]]
+- Jogaila (kunigaikštis, XIV–XV a.) kariavo prieš [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]], [[objektai/grupes/Kryžiuočių ordinas]]
+- Jogaila (kunigaikštis, XIV–XV a.) sudarė sutartį su [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Livonijos ordinas]]
+- Jogaila (kunigaikštis, XIV–XV a.) paskyrė [[objektai/asmenys/Skirgaila]]

@@ -42,19 +42,6 @@ Nenurodyta
 - t-001
   global_id: t-185561
   teiginys: "Keli tūkstančiai raitelių apie vidudienį perėjo Dneprą ir netikėtai užpuolė besitvirtinančių maskvėnų stovyklą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1070232-1070918; hash=79c9b212438358e6f27e43dd674633b408a59fefb73a1841099811f143d4d08b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Dnepras: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Dnepro perėjimas ir maskvėnų pabėgimas iš stovyklos: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Dnepras: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dnepro perėjimas ir maskvėnų pabėgimas iš stovyklos\" parinktas kaip owner_note_path. Targetas \"Dnepras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-168922
 
@@ -62,19 +49,6 @@ Nenurodyta
 - t-002
   global_id: t-185562
   teiginys: "Glinskis visą naktį drąsino maskvėnų vadus, žadėdamas lengvą pergalę, bet apie vidurnaktį maskvėnai paliko stovyklą ir gurguoles."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1071283-1072036; hash=603efae197600fd3993b0e640068b55d55f58624731ad3fdbd4bb689bd8a1a2e; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Maskvėnai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Dnepro perėjimas ir maskvėnų pabėgimas iš stovyklos: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Maskvėnai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dnepro perėjimas ir maskvėnų pabėgimas iš stovyklos\" parinktas kaip owner_note_path. Targetas \"Maskvėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-168923
 
@@ -82,19 +56,6 @@ Nenurodyta
 - t-003
   global_id: t-185563
   teiginys: "Paaiškėjus, kad maskvėnai pabėgo, kareiviai apiplėšė jų stovyklą, o karalius, didikų patartas, atsisakė juos persekioti."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1071865-1072524; hash=5f69176e7ae709e7be6f48c60ed90e3580ebdf99419ddc7c9f41361cb52f4110; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Maskvėnai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Dnepro perėjimas ir maskvėnų pabėgimas iš stovyklos: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Maskvėnai: mention_match, group, gap=40"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dnepro perėjimas ir maskvėnų pabėgimas iš stovyklos\" parinktas kaip owner_note_path. Targetas \"Maskvėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-168924
 ## Reikšmingi paminėjimai
@@ -121,8 +82,8 @@ Nenurodyta
     mas, kitur plaukte plaukdamas, pirmas nusigavo į kitą
     krantą, pervesdamas be jokių nuostolių visus raitelius.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -152,8 +113,8 @@ Nenurodyta
     į Starodubą su išsaugotais pulkais, kuriais labiausiai
     pasitikėjo.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -177,8 +138,8 @@ Nenurodyta
     kariai, nuvargę po tokio ilgo kelio, imsią persekioti
     priešą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -189,7 +150,8 @@ Nenurodyta
 - id: c-168922
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 603"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 603."
   citata_originali: |
     Kadangi prie­
     šas nežinojo, kas dedasi, keli tūkstančiai raitelių, apie
@@ -249,7 +211,8 @@ Nenurodyta
 - id: c-168924
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 604"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 604."
   citata_originali: |
     Po šio įvykio Glinskis, nelyginant sumažėjęs ne
     tik savo šalininkų, bet ir savo paties akyse, pasitraukė

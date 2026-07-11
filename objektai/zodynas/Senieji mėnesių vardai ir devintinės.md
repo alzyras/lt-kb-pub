@@ -39,9 +39,6 @@ Vartojamos formos: `siekis`, `sausis`, `kovas`, `karvelis`, `balandis`, `geguž�
 - t-005
   global_id: t-07718
   teiginys: "Tarp senųjų mėnesių vardų minimi siekis, karvelis, kirmėšų, šilo mėnuo ir spalių mėnuo."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "305428-305871; hash=d3e45389e4762cf3fd8f5f7b885610b7a6a8f3f4bfa0bc028be5680f9c77cf88; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
   pagrindžia:
     - c-09644
 
@@ -49,9 +46,6 @@ Vartojamos formos: `siekis`, `sausis`, `kovas`, `karvelis`, `balandis`, `geguž�
 - t-004
   global_id: t-07719
   teiginys: "Senieji metai buvo dalijami į trylika mėnesių."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "305428-305871; hash=d3e45389e4762cf3fd8f5f7b885610b7a6a8f3f4bfa0bc028be5680f9c77cf88; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
   pagrindžia:
     - c-09644
 
@@ -59,9 +53,6 @@ Vartojamos formos: `siekis`, `sausis`, `kovas`, `karvelis`, `balandis`, `geguž�
 - t-006
   global_id: t-07720
   teiginys: "Senųjų mėnesių sistemoje kiekvienas mėnuo turėjo po 27 dienas ir dalijosi į tris devintinėmis vadintas dalis."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "305428-305871; hash=d3e45389e4762cf3fd8f5f7b885610b7a6a8f3f4bfa0bc028be5680f9c77cf88; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
   pagrindžia:
     - c-09644
 - susijęs iš [[objektai/ivykiai/Karo dievo Kovo statulėlės iškasimas Burokų dvare prie Kražių.md#claim-t-192020|Karo dievo Kovo statulėlės iškasimas Burokų dvare prie Kražių]]: Narbutas radinį prie Kražių apibūdina kaip 1836 m. Žemaitijoje rastą bronzinę karo dievo Kovo statulėlę.
@@ -99,8 +90,8 @@ Vartojamos formos: `siekis`, `sausis`, `kovas`, `karvelis`, `balandis`, `geguž�
   citata_originali: |
     Metus dalijo į trylika mėnesių, kuriuos taip vadino: 1. siekis, 2. sausis, 3. kovas, 4. karvelis, arba balandis, 5. gegužė, 6. kirmėšų, arba birželis, 7. liepos mėnuo, 8. rugpjūtis, 9. rugsėjis, 10. šilo mėnuo, 11. spalių mėnuo, 12. lapkristis, 13. gruodis. Kožnas mėnuo turėjo saviep 27 dienas ir dalijos į tris dalis, arba taip vadinamas devintines, nuo devintosios dienos, kurioje svietas, visuotinai susirinkęs, meldės arba linksminos[43].
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

@@ -42,12 +42,6 @@ Profesorius ir stu­ dentus nuo priklausomybės bet kokiai dvasinei ar pasauliet
 - t-005
   global_id: t-192169
   teiginys: "Vilniaus vyskupui ir jo įpėdiniams suteikta mėsos krautuvių kūrimo jurisdikcija Vilniaus bažnyčios teritorijoje."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys yra faktinis, gramatiškas ir tiesiogiai paremtas citata."
-  susije_objektai: "mentioned_place: Vilnius"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "776204-777204; hash=39bbe5baa5d7729ee6b9d79238164828cf110699129a8154a8fed7690dd5e9ad; match=whitespace_regex"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
   pagrindžia:
     - c-175048
 
@@ -55,12 +49,6 @@ Profesorius ir stu­ dentus nuo priklausomybės bet kokiai dvasinei ar pasauliet
 - t-003
   global_id: t-192170
   teiginys: "Vilniaus katedros kapitula bažnytinėse savo asmenų ir valdinių bylose turėjo jurisdikciją su ekskomunikacijos teise."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys pilnai atitinka citatoje suformuluotą sprendimą dėl kapitulos jurisdikcijos."
-  susije_objektai: "mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_place: Vilnius"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "735086-735635; hash=3ad96d857c3731725b590876d11fa61b1f5d75fbcdaad2e9bfa0987b8d46a9dd; match=whitespace_regex"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
   pagrindžia:
     - c-175047
 
@@ -68,12 +56,6 @@ Profesorius ir stu­ dentus nuo priklausomybės bet kokiai dvasinei ar pasauliet
 - t-004
   global_id: t-192171
   teiginys: "Valerijono Bursos namų jurisdikcija palikta Vilniaus vyskupų įpėdiniams, nes namai stovėjo vyskupijos žemėje."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Pradinis tekstas buvo negrabiai nukopijuotas, citata palaiko aiškesnį sakinį."
-  susije_objektai: "mentioned_place: Vilnius; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/bursa|bursa]]; mentioned_place: Valerijono bursos"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "789642-790608; hash=fd2f0b83f97290878711ba75aab91a64aac6f6691c8bb5c2f8177cd48a2b20bf; match=whitespace_regex"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
   pagrindžia:
     - c-175046
 
@@ -81,15 +63,6 @@ Profesorius ir stu­ dentus nuo priklausomybės bet kokiai dvasinei ar pasauliet
 - t-001
   global_id: t-192172
   teiginys: "1578 m. Steponas Batoras atleido Akademijos profesorius ir studentus nuo dvasinės ir pasaulietinės jurisdikcijos bei mokesčių."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Pašalintas OCR triukšmas ir suformuluotas pilnas sakinys."
-  susije_objektai: "mentioned_person: [[objektai/asmenys/Grigalius XIII|Grigalius XIII]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_place: Vilnius"
-  temporaliniai_duomenys: "įvykio data: 1578 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalintas OCR triukšmas ir suformuluotas pilnas sakinys."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "395077-395569; hash=d184a467a79641c1eccaaa942fc7609c8df5681ab8eb5b0b10569ef180240550; match=whitespace_regex"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
   pagrindžia:
     - c-175044
 
@@ -97,12 +70,6 @@ Profesorius ir stu­ dentus nuo priklausomybės bet kokiai dvasinei ar pasauliet
 - t-002
   global_id: t-192173
   teiginys: "Vilniaus tarėjai reikalavo atleisti miestą nuo Vilniaus kapitulos naujai pasisavintos jurisdikcijos."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys yra aiškus ir paremtas citatoje nurodytu tarėjų reikalavimu."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Vilniaus kapitula|Vilniaus kapitula]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_object: [[objektai/zodynas/prelatai ir kanauninkai|prelatai ir kanauninkai]]; mentioned_place: Lietuva; mentioned_place: Vilnius"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "730396-731951; hash=31a1fd5c578e5b28c2c968fdcbbe419442e50c834d2db9159633da0a485e47db; match=whitespace_regex"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
   pagrindžia:
     - c-175045
 - susijęs iš [[objektai/asmenys/Motiejus (Vilniaus vyskupas).md#claim-t-87447|Motiejus (Vilniaus vyskupas)]]: Vilniaus vyskupas Motiejus raštu suteikė kapitulai ir jos valdiniams jurisdikciją su teise taikyti bažnytines cenzūras.
@@ -135,8 +102,8 @@ Profesorius ir stu­ dentus nuo priklausomybės bet kokiai dvasinei ar pasauliet
     demijos kancleriu, o Žemaičių - globėju nuolatiniam laikui pa­
     skyrė. Tokią privilegiją Grigalius XIII bule aprobavo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -172,8 +139,8 @@ Profesorius ir stu­ dentus nuo priklausomybės bet kokiai dvasinei ar pasauliet
     niaus miestui, o Vilniaus kapitulai ir pagal teisę, ir pagal
     paprotį, iki šiol tvirtai saugotą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -200,8 +167,8 @@ Profesorius ir stu­ dentus nuo priklausomybės bet kokiai dvasinei ar pasauliet
     gera namų būklė; tai maldingai patikime prakilniausiųjų mū­
     sų įpėdinių rūpesčiui ir malonei.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -221,8 +188,8 @@ Profesorius ir stu­ dentus nuo priklausomybės bet kokiai dvasinei ar pasauliet
     jams jokia jurisdikcija pačių kapitulos valdinių atžvilgiu mū­
     sų ar mūsų pirmtakų nėra suteikta.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -250,8 +217,8 @@ Profesorius ir stu­ dentus nuo priklausomybės bet kokiai dvasinei ar pasauliet
     piliečiams ir bet kokiems kitiems, bet kokios padėties, luo­
     mo ir kilmės žmonėms.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

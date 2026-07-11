@@ -58,20 +58,6 @@ Nenurodyta
 - t-001
   global_id: t-91915
   teiginys: "Kristburgo ir Elbingo broliai prie Gubros upės užpuolė Divaną, nukovė jo giminaitį Dabarą ir susigrąžino grobį."
-  semantiniai_rysiai: "Kryžiuočių ordinas puolė Divanas (0.78); Kryžiuočių ordinas puolė Dabaras (0.76)"
-  temporaliniai_duomenys: "įvykio data: 1271 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys gramatiškas, konkretus ir tiesiogiai paremtas citata apie puolimą prie Gubros upės."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "441140-442755; hash=f55568cedc280bfabe1f2b7d2f7904f2ca92465512675f97c7c2056db7f3ee1d; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Divanas: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Divanas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citatoje Kristburgo ir Elbingo broliai, siejami su ordinu, tiesiogiai užpuola Divaną."
   pagrindžia:
     - c-87557
 ## Reikšmingi paminėjimai
@@ -103,8 +89,8 @@ Nenurodyta
     būreliu savo karių gėdingai paspruko. Taigi broliai, susigrąžinę grobį, kurio šis buvo iš jų
     žmonių prisiplėšęs, parvyko namo, dėkodami už sėkmę dievui.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -115,7 +101,8 @@ Nenurodyta
 - id: c-87557
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 137-138"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 137-138."
   citata_originali: |
     Vis dėlto Kristburgo ir Elbingo broliai, pasitikėdami tuo, kurio galybės remiamas
     vienas karys išgali persekioti tūkstantį, o du išvaiko dešimt tūkstančių, priartėjo su

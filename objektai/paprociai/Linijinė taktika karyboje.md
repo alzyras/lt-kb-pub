@@ -50,9 +50,6 @@ Nenurodyta
 - t-007
   global_id: t-67163
   teiginys: "XVII a. antroji pusė ir visas XVIII a. buvo linijinės taktikos epocha karyboje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "564229-564498; hash=b9301059d9483e94c56e2490b8e7b532faa9cb94350d6529937a9467d622cad3; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-12409
 
@@ -60,16 +57,6 @@ Nenurodyta
 - t-012
   global_id: t-67164
   teiginys: "Linijinėje taktikoje kariai šaudydavo nesitaikydami, o mažą taiklumą kompensuodavo salvėmis ir kulkų gausa."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "566239-566541; hash=3fe627ea9af44df677fadd45634321a50ab78b903e6eeda05235787eb2189f5a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Šautuvai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Linijinė taktika karyboje: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Šautuvai: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Linijinė taktika karyboje\" parinktas kaip owner_note_path. Targetas \"Šautuvai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-12413
 
@@ -77,9 +64,6 @@ Nenurodyta
 - t-008
   global_id: t-67165
   teiginys: "Linijinei taktikai reikėjo gana lygios vietovės, nes miškingoje ar raižytoje vietovėje pėstininkams buvo sunku išlaikyti lygiavimą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "564500-564896; hash=53227fb8c116d8b5af76eb5177529b4f4ab6d2329fc1a8dd01280563707cc2df; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-12410
 
@@ -87,16 +71,6 @@ Nenurodyta
 - t-009
   global_id: t-67166
   teiginys: "Linijinės taktikos puolime ilgos linijos artėdavo prie priešo pozicijų ir efektyvios ugnies nuotolyje derindavo šaudymą su judėjimu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "565361-566042; hash=fd38a571e051c4fe92189d990862eab3acba6a2fb9e102903820e4a314a1477d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Viena: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Linijinė taktika karyboje: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Viena: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Linijinė taktika karyboje\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-12411
 ## Reikšmingi paminėjimai
@@ -109,8 +83,8 @@ Nenurodyta
     eiles, o nuo amžiaus vidurio padalinio rikiuotės gylis sumažėjo
     iki trijų eilių, kad kuo daugiau kareivių galėtų vienu metu šaudyti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -126,8 +100,8 @@ Nenurodyta
     linių, kitur - kariai susigrūstų. Į tarpus gali lengvai įsiveržti priešas,
     o susigrūdę kariai trukdytų vieni kitiems šaudyti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -149,8 +123,8 @@ Nenurodyta
     lius, kad po to galėtų užpulti priešo pėstininkus iš flango arba iš
     užnugario.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -168,8 +142,8 @@ Nenurodyta
     gausa šaudant salvėmis ir tai, kad priešas stovė-
     davo tankiojoje rikiuotėje
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

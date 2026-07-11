@@ -42,19 +42,6 @@ Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybin
 - t-003
   global_id: t-101611
   teiginys: "1918 m. vasario 16 d. Taryba, remdamasi tautų apsisprendimo teise, paskelbė atkurianti nepriklausomą demokratinę Lietuvos valstybę su sostine Vilniumi."
-  temporaliniai_duomenys: "įvykio data: 1918 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatinis ir paremtas citata."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "264939-265799; hash=298bbcfc765e65b9c5e9da46facdc349da9ef88a62fc6301187a06ee43f8e9bd; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "tautų apsisprendimo teisė tautų apsisprendimo principas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=73"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"tautų apsisprendimo teisė tautų apsisprendimo principas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-25015
 
@@ -62,16 +49,6 @@ Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybin
 - t-004
   global_id: t-101615
   teiginys: "Prancūzija Georges'o B. Clemenceau rašte aiškino, kad Klaipėdos krašto atskyrimas nuo Vokietijos nepažeidė tautų apsisprendimo principo."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "275969-276453; hash=e1748d8f9df1918817f8d90b9d433eac2d81153d450627dc626a4d90ef6b0258; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "tautų apsisprendimo teisė tautų apsisprendimo principas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"tautų apsisprendimo teisė tautų apsisprendimo principas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-25016
 
@@ -79,18 +56,6 @@ Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybin
 - t-002
   global_id: t-101613
   teiginys: "Rezoliucijoje tautų apsisprendimo teisės pagrindu skelbta nepriklausoma Lietuvos valstybė su sostine Vilniumi."
-  temporaliniai_duomenys: "įvykio data: 1917 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "263687-264332; hash=6a1e5947f0510c4e5d386da4fbf00aa4799f19ca5ded5296f5f108fbdcc623e4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "tautų apsisprendimo teisė tautų apsisprendimo principas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=58"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"tautų apsisprendimo teisė tautų apsisprendimo principas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-25014
 
@@ -98,16 +63,6 @@ Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybin
 - t-001
   global_id: t-101614
   teiginys: "Radikalioji ir konservatyvioji lietuvių politinės visuomenės grupuotės pritarė tautų apsisprendimo principui."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "255012-255633; hash=19f3606cc33ec53e416743b54085ff10aa27217903bda40e84b48e497d854cc5; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gardinas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "tautų apsisprendimo teisė tautų apsisprendimo principas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Gardinas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"tautų apsisprendimo teisė tautų apsisprendimo principas\" parinktas kaip owner_note_path. Targetas \"Gardinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-25013
 
@@ -115,16 +70,6 @@ Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybin
 - t-004
   global_id: t-101615
   teiginys: "Prancūzija Georges'o B. Clemenceau rašte aiškino, kad Klaipėdos krašto atskyrimas nuo Vokietijos nepažeidė tautų apsisprendimo principo."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "275969-276453; hash=e1748d8f9df1918817f8d90b9d433eac2d81153d450627dc626a4d90ef6b0258; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "tautų apsisprendimo teisė tautų apsisprendimo principas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"tautų apsisprendimo teisė tautų apsisprendimo principas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-25016
 
@@ -132,21 +77,6 @@ Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybin
 - t-006
   global_id: t-183477
   teiginys: "Dvi lietuvių politinės grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybingumo istorinei tradicijai."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "255260-255925; hash=6b6982d4119ee3c04ddb92f38e5283823b2c257356b4725dc6a3567ca0e225c0; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gardinas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "tautų apsisprendimo teisė tautų apsisprendimo principas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Gardinas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"tautų apsisprendimo teisė tautų apsisprendimo principas\" parinktas kaip owner_note_path. Targetas \"Gardinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-166872
 
@@ -154,22 +84,6 @@ Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybin
 - t-007
   global_id: t-183478
   teiginys: "1917 m. gruodžio 11 d. rezoliucijoje tautų apsisprendimo teisės pagrindu skelbta nepriklausoma Lietuvos valstybė su sostine Vilniumi."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1917 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Reikia nurodyti rezoliucijos kontekstą ir sutrumpinti sakinį."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "263896-264563; hash=21ab325343dddd9420eae739e17348f4d72cbc124d19a62f3d86671496d4914a; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "tautų apsisprendimo teisė tautų apsisprendimo principas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=58"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"tautų apsisprendimo teisė tautų apsisprendimo principas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-166873
 ## Reikšmingi paminėjimai
@@ -189,8 +103,8 @@ Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybin
     kaip broliai dvyniai – istoriškai etninės lietuvių žemės Vilniaus, Kauno,
     Suvalkų ir Gardino gubernijose, dalis Kuršo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -210,8 +124,8 @@ Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybin
     va yra nepriklausoma valstybė su sostine Vilniumi ir kad anuliuojami
     visi buvę valstybiniai ryšiai su kitomis valstybėmis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -234,8 +148,8 @@ Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybin
     tybės pamatus ir jos santykius su kitomis valstybėmis galutinai nustatys
     Steigiamasis Seimas, demokratiškai visų jos gyventojų išrinktas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -253,8 +167,8 @@ Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybin
     buvo lietuviškas“, o Klaipėdos uostas tėra vienintelis Lietuvos išėjimas į
     jūrą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -277,8 +191,8 @@ Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybin
     idėją, nesiruošiant konvertuotis į lietuvybę, kristalizavosi Lietuvos ne-
     priklausomybės siekis etnografiniu pagrindu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -299,8 +213,8 @@ Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybin
     Lietuvos valstybės sąjungą su Vokietijos valstybe“, kuri būtų įgyvendinta
     keturiomis konvencijomis (karinė, transporto, finansų, muitų).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -45,14 +45,6 @@ Nenurodyta
 - t-001
   global_id: t-189910
   teiginys: "Pranešėjo lazda buvo naudojama teismams ir viešosioms sueigoms skelbti, o jos ženklas rodė svarstytiną dalyką."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "752479-753411; hash=2e0abe050f1040a44d561ff31825d58013ae0c7e8dc77d6920e157d0d498c13e; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172793
 ## Reikšmingi paminėjimai
@@ -78,8 +70,8 @@ Nenurodyta
     tai, jeigu tikėjimo dalykas, -  mediniu kryžiumi; jeigu žmogžu­
     dystė, -  medine strėle arba kirviu).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -90,7 +82,8 @@ Nenurodyta
 - id: c-172793
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 417"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 417."
   citata_originali: |
     Erat autem hic
     baculus nunciatorius effectus ad modum rei, de qua in Conven­

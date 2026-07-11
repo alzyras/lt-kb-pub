@@ -42,20 +42,6 @@ Nenurodyta
 - t-001
   global_id: t-185664
   teiginys: "Vytautas prie Trakų telkė niokotojų pulkus, ketindamas vėliau su visomis jėgomis traukti į Vilnių."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į Vilnius (0.66); Vytautas (Lietuvos valdovas, XIV–XV a.) gyveno Trakai (0.51)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "527585-528288; hash=8bf390d27595a32dba44f81bdd15e6b32677100fe7b7af9182c99169864affb2; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Vilnius: 0.66"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Claimas nurodo Vytauto ketinimą su jėgomis traukti į Vilnių, bet tai dar tik planuojamas veiksmas."
   pagrindžia:
     - c-169025
 
@@ -63,20 +49,6 @@ Nenurodyta
 - t-002
   global_id: t-185665
   teiginys: "Po kelių nesėkmingų bandymų užimti Vilniaus pilis Vytautas nutraukė apsiaustį ir išvedė kariuomenę atgal į Prūsiją."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) puolė Vilniaus pilis (0.78); Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į Prūsija (0.76)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "529027-529351; hash=e96b28e6d0a8f94c4384adf5f2baf5ed2863d09be34fe4861aa4baad3303db19; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Vilniaus pilis: 0.78"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilniaus pilis: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Bandymas užimti Vilniaus pilis tiesiogiai rodo puolimo veiksmą."
   pagrindžia:
     - c-169026
 ## Reikšmingi paminėjimai
@@ -107,8 +79,8 @@ Nenurodyta
     noma, staigus ir narsus antpuolis paprastai esti sėkmin­
     gesnis.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -129,8 +101,8 @@ Nenurodyta
     vo priverstas nutraukti apsiaustį ir išvesti kariuomenę
     atgal į Prūsiją nepajėgęs įveikti gynėjų narsumo.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -141,7 +113,8 @@ Nenurodyta
 - id: c-169025
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 304"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 304."
   citata_originali: |
     Vytautas, smarkiai karu nusiaubęs aplinkui kraštą,
     sustojo dar nepasiekęs Vilniaus už keturių mylių prie

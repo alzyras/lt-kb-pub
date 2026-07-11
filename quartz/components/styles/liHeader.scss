@@ -16,6 +16,17 @@ header:has(.li-header-shell) > .options-panel-root {
   height: 2.45rem;
 }
 
+header:has(.li-header-shell) > .search {
+  display: contents;
+}
+
+header:has(.li-header-shell) > .search > .search-button,
+header:has(.li-header-shell) > .darkmode,
+header:has(.li-header-shell) > .readermode,
+header:has(.li-header-shell) > .advanced-evidence-toggle {
+  display: none;
+}
+
 header:has(.li-header-shell) > .options-panel-root .options-panel-toggle {
   height: 2.45rem;
   padding: 0 0.1rem;

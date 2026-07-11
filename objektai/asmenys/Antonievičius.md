@@ -32,16 +32,6 @@ Mackevičius, Antonievičius, E. Stanišausko batalionai, centre pozicijas užsi
 - t-001
   global_id: t-40036
   teiginys: "Antonievičius buvo paskirtas vieno iš batalionų vadu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "657671-657870; hash=eeb006a6fbff04107513adf6eb01e0e4e2aec434ee7f0562a24ca4d4f5e1e96a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> M. Stanišauskas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Antonievičius: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "M. Stanišauskas: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antonievičius\" parinktas kaip owner_note_path. Targetas \"M. Stanišauskas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-44288
 
@@ -49,16 +39,6 @@ Mackevičius, Antonievičius, E. Stanišausko batalionai, centre pozicijas užsi
 - t-002
   global_id: t-40037
   teiginys: "Antonievičius kartu su D. Maleckiu užėmė pozicijas centre."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "663901-664218; hash=375f72543ab259ebe2aff0e53862605e517d52bda3ef95ea73a1a1a17f1509ca; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Merlinas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Antonievičius: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Merlinas: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antonievičius\" parinktas kaip owner_note_path. Targetas \"Merlinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-44286
 
@@ -66,16 +46,6 @@ Mackevičius, Antonievičius, E. Stanišausko batalionai, centre pozicijas užsi
 - t-003
   global_id: t-40038
   teiginys: "Majoras Antonievičius žuvo, kai sukilėliai dvi valandas atkakliai priešinosi."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "664427-664753; hash=40d2a3625740960cf8f4573ef7e51130a1b18cfedef5bf787122a0f10b74ad22; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Rusai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Antonievičius: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Rusai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antonievičius\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-44287
 - susijęs iš [[objektai/asmenys/D. Maleckis.md#claim-t-40081|D. Maleckis]]: D. Maleckis su Antonievičiumi užėmė pozicijas centre, kai kairiajame sparne stovėjo kiti batalionai.
@@ -98,8 +68,8 @@ Mackevičius, Antonievičius, E. Stanišausko batalionai, centre pozicijas užsi
     kai ir dvi rezervinės 4-tojo ba-
     taliono kuopos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -120,8 +90,8 @@ Mackevičius, Antonievičius, E. Stanišausko batalionai, centre pozicijas užsi
     talionų vadams majorams
     Antonievičiui, B. Žarskiui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -140,8 +110,8 @@ Mackevičius, Antonievičius, E. Stanišausko batalionai, centre pozicijas užsi
 
     K. Maleckis, M. Stanišauskas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

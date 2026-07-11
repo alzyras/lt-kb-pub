@@ -41,18 +41,6 @@ Grinius, Veidai ir problemos lietuvių literatūroje, I t., XII-406 psl., Roma 1
 - t-001
   global_id: t-30672
   teiginys: "J. Grinius išleido antrąjį „Veidų ir problemų lietuvių literatūroje“ tomą Romoje 1977 m."
-  temporaliniai_duomenys: "įvykio data: 1977 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1111469-1111571; hash=da708521fc598571ed1bac899369457598d08154d0388e86b98c21b3285dac53; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "J. Grinius: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=46"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"J. Grinius\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-32964
 ## Reikšmingi paminėjimai
@@ -64,8 +52,8 @@ Grinius, Veidai ir problemos lietuvių literatūroje, I t., XII-406 psl., Roma 1
     J. Grinius, Veidai ir problemos lietuvių literatūroje, II t.,
     XII-500 psl., Roma 1977. 20 dol.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

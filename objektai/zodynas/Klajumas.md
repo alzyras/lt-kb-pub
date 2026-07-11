@@ -39,9 +39,6 @@ Papildomos aiškios formos neišskirtos.
 - t-004
   global_id: t-07677
   teiginys: "Klajume žmonės rinkdavosi melstis, o ąžuolinių malkų rietuvės buvo laikomos šventai ugniai kūrenti."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "208179-208352; hash=83d75b1ac59bb23a2409c4a5a467ba1f7db889d945c4a34eb77e3ef28ca550e7; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
   pagrindžia:
     - c-09608
 
@@ -49,9 +46,6 @@ Papildomos aiškios formos neišskirtos.
 - t-003
   global_id: t-07678
   teiginys: "Klajumas buvo erdvė aplink žinyčią, kurioje žmonės rinkdavosi melstis."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "208179-208352; hash=83d75b1ac59bb23a2409c4a5a467ba1f7db889d945c4a34eb77e3ef28ca550e7; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
   pagrindžia:
     - c-09608
     - c-09609
@@ -62,8 +56,8 @@ Papildomos aiškios formos neišskirtos.
   citata_originali: |
     Apsukui tos žinyčios buvęs klajumas^774 , į kurį svietas susirinkęs liuobėjęs melstis^775 , kuriame malkinės^776 ąžuolo medžių sukrautos stovėjusios ugnelei šventai kūrinti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -75,8 +69,8 @@ Papildomos aiškios formos neišskirtos.
   citata_originali: |
     Pašaliuose to klajumo buvę žynių, arba kunigų, namai ir kitų žinyčios tarnų ir tarnaičių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

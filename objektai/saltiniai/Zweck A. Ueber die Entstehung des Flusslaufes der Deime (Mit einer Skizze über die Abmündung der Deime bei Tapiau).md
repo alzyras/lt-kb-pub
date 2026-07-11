@@ -40,12 +40,6 @@ Dusburgietis teigia, kad zweck A.
 - t-001
   global_id: t-61389
   teiginys: "A. Zwecko straipsnis apie Deimės upės vagos susidarymą publikuotas 1896 m. AM 33 tome."
-  temporaliniai_duomenys: "įvykio data: 1896 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pateikia straipsnio temą, metus ir leidinį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "806197-806343; hash=52851e44eb58b9180f9f41e90bdd5cc6fc1ad8975106a948de4830441a29b7b5; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-62021
 ## Reikšmingi paminėjimai
@@ -57,8 +51,8 @@ Dusburgietis teigia, kad zweck A.
     Zweck A. Ueber die Entstehung des Flusslaufes der Deime (Mit einer Skizze über die
     Abmündung der Deime bei Tapiau).— AM, 1896, Bd. 33, S. 110—136.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -69,7 +63,8 @@ Dusburgietis teigia, kad zweck A.
 - id: c-62021
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 274"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 274."
   citata_originali: |
     Zweck A. Ueber die Entstehung des Flusslaufes der Deime (Mit einer Skizze über die
     Abmündung der Deime bei Tapiau).— AM, 1896, Bd. 33, S. 110—136.

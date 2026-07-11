@@ -41,20 +41,6 @@ Radvilos pajėgos nusiaubė Rževo apylinkes, tuomet perėję Volgos upę, sudeg
 - t-001
   global_id: t-80619
   teiginys: "1581 m. rugpjūčio 25 d. Kristupo Radvilos pajėgos, perėjusios Volgą, sudegino Urdomą ir pasuko Staricos link."
-  semantiniai_rysiai: "Radvilos puolė Urdomas (0.85); Radvilos keliavo į Starica (0.82)"
-  temporaliniai_duomenys: "įvykio data: 1581 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Reikia pašalinti inicialą ir suformuluoti sklandesnį enciklopedinį sakinį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "385633-385989; hash=110935728f721e253abac819084989a04e5014e5d62f10794d74357b8e89d671; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Urdomas: 0.85"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Radvilos: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Urdomas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Radvilos pajėgos tiesiogiai nurodomos kaip sudeginusios Urdomo miestą."
   pagrindžia:
     - c-77320
 - susijęs iš [[objektai/ivykiai/K. Radvilos Perkūno reidas (1581 m. liepa-spalis).md#claim-t-78613|Kristupo Radvilos Perkūno reidas (1581 m. liepa-spalis)]]: 1581 m. rugpjūčio 25 d. Kristupo Radvilos pajėgos nusiaubė Rževo apylinkes, sudegino Urdomo miestą ir pasuko Staricos link.
@@ -79,8 +65,8 @@ Radvilos pajėgos nusiaubė Rževo apylinkes, tuomet perėję Volgos upę, sudeg
     tas skubiai evakuoti savo šeimą ir dvarą
     su iždu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -109,7 +95,3 @@ Radvilos pajėgos nusiaubė Rževo apylinkes, tuomet perėję Volgos upę, sudeg
   patikimumo_saltinis: ai
   pagrindzia:
     - t-80619
-
-## Ryšiai
-- Puolė Urdomą: [[objektai/grupes/Radvilos]]
-- Užėmė Urdomą: [[objektai/grupes/Radvilos]]

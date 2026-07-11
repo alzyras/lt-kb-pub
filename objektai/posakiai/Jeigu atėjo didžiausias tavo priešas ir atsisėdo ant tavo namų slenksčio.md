@@ -30,21 +30,6 @@ Narbutas lietuvių kaimiečių slenksčio gerbimą aiškino kaip religinį papro
 - t-001
   global_id: t-189553
   teiginys: "Narbutas lietuvių kaimiečių slenksčio gerbimą aiškino kaip religinį paprotį, kuriame slenkstis siejamas su Dievo įžeidimu ir namų laime."
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "277616-278165; hash=f8fbf79ecc15baf63a9d072f3b066042e55f70cdbf7e42fa8d1a1b405bac8c8b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jeigu atėjo didžiausias tavo priešas ir atsisėdo ant tavo namų slenksčio: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=19"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jeigu atėjo didžiausias tavo priešas ir atsisėdo ant tavo namų slenksčio\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172441
 
@@ -52,14 +37,6 @@ Narbutas lietuvių kaimiečių slenksčio gerbimą aiškino kaip religinį papro
 - t-002
   global_id: t-194695
   teiginys: "Mongolai labai garbino namų slenksčius: tas, kuris praeidamas paliesdavo juos koja, būdavo baudžiamas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "278064-278357; hash=1204f237a229c4a63a7d177084bd59c244214db5a22023f5288f8f7337cadd9d; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-177092
 ## Reikšmingi paminėjimai
@@ -78,8 +55,8 @@ Narbutas lietuvių kaimiečių slenksčio gerbimą aiškino kaip religinį papro
     se“. Kokio nors šventojo paveikslėlį Lietuvos kaimiečiai pri­
     kala išorėje, virš pirkios arba svirno durų.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -97,8 +74,8 @@ Narbutas lietuvių kaimiečių slenksčio gerbimą aiškino kaip religinį papro
     Mongolai labai garbino namų slenksčius: tas, kuris praeidamas
     paliesdavo juos koja, būdavo baudžiamas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -109,7 +86,8 @@ Narbutas lietuvių kaimiečių slenksčio gerbimą aiškino kaip religinį papro
 - id: c-172441
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 160"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 160."
   citata_originali: |
     Lietuviai kaimiečiai iki šiol savitai gerbia šią vietą kiekvienoje
     patalpoje: palieti ką nors nešvaraus ant slenksčio, kapoti mal­
@@ -130,7 +108,8 @@ Narbutas lietuvių kaimiečių slenksčio gerbimą aiškino kaip religinį papro
 - id: c-177092
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 160"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 160."
   citata_originali: |
     Kokio nors šventojo paveikslėlį Lietuvos kaimiečiai pri­
     kala išorėje, virš pirkios arba svirno durų. Statydami namą,

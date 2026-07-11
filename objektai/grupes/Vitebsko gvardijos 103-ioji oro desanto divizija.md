@@ -32,17 +32,6 @@ Yra duomenų, kad šios ir Vitebsko gvardijos 103-iosios oro desanto divizijos, 
 - t-001
   global_id: t-41198
   teiginys: "Vitebsko gvardijos 103-ioji oro desanto divizija sausio 8-11 d. buvo perdislokuota į Lietuvą."
-  semantiniai_rysiai: "Vitebsko gvardijos 103-ioji oro desanto divizija siuntė į Lietuva (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1027551-1028292; hash=a16ada2c5e1803aa48861a2d0e34c58aa0020387050a1843d28494747a5020be; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "siunte_i -> Lietuva: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vitebsko gvardijos 103-ioji oro desanto divizija: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Perdislokavimas į Lietuvą tiesiogiai atitinka karinio siuntimo į vietą ryšį."
   pagrindžia:
     - c-44869
 ## Reikšmingi paminėjimai
@@ -69,8 +58,8 @@ Yra duomenų, kad šios ir Vitebsko gvardijos 103-iosios oro desanto divizijos, 
     tinių lėktuvų 11-76, kurių vienas talpina iki
     145 desantininkų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

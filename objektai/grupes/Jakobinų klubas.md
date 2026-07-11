@@ -33,16 +33,6 @@ Sukilėliai tarsi kartojo Prancūzijos didžiosios revoliucijos eigą – sumany
 - t-001
   global_id: t-19717
   teiginys: "Jakobinų klubas oponavo oficialiai sukilimo valdžiai ir inicijavo Targovicos konfederatų egzekucijos sumanymą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "178351-178836; hash=500f379963e3c1e9cdade1c7d7afd8e43fba569ac41e0790e4a8527a065c8ed9; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Targovica: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jakobinų klubas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Targovica: mention_match, place, gap=66"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jakobinų klubas\" parinktas kaip owner_note_path. Targetas \"Targovica\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-22422
 - susijęs iš [[objektai/zodynas/jakobinizmas jakobinų klubas.md#claim-t-22171|jakobinizmas jakobinų klubas]]: Sukilimo valdžiai oponavęs jakobinų klubas rengė manifestacijas, privertusias teismą paskelbti mirties nuosprendžius.
@@ -61,8 +51,8 @@ Sukilėliai tarsi kartojo Prancūzijos didžiosios revoliucijos eigą – sumany
     navusiame jakobinų klube. Šis klubas rengė manifestacijas, privertusias
     teismą paskelbti minėtus mirties nuosprendžius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

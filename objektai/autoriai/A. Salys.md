@@ -50,16 +50,6 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
 - t-007
   global_id: t-12236
   teiginys: "Dr. A. Salio straipsnis buvo įdėtas žurnalo „Kalba“ numeryje kartu su kitų autorių straipsniais."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "740563-740826; hash=0ded2c07460c673981b72d271f1ec6354add6e1b67cb7754bca44828920469fe; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kuzmickis: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "A. Salys: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Kuzmickis: mention_match, author"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"A. Salys\" parinktas kaip owner_note_path. Targetas \"Kuzmickis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-13905
 
@@ -67,16 +57,6 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
 - t-006
   global_id: t-64513
   teiginys: "A. Salio Die žemaitischen Mundarten šiame šaltinyje cituojamas Žemaičių tarmių klausimu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "948210-948786; hash=da34481bccd472aeff3abac51b7de3f0cf7d223e2fb5effe156e9c117668a71f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vysla: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "A. Salys: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Vysla: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"A. Salys\" parinktas kaip owner_note_path. Targetas \"Vysla\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-65242
 
@@ -84,14 +64,6 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
 - t-005
   global_id: t-64514
   teiginys: "A. Salys parašė straipsnį „Baltic Languages“, 1955 m. išspausdintą trečiame „Encyclopedia Britannica“ tome."
-  temporaliniai_duomenys: "įvykio data: 1955 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko A. Salio autorystę tik straipsniui „Baltic Languages“, o ne kitam nurodytam darbui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "308242-308543; hash=51087d2c916e8d552c48e5b4ef03497e05ba81e309dbf0982dad1b2465378ddc; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T14:38:41Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-03971
 
@@ -99,16 +71,6 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
 - t-003
   global_id: t-64515
   teiginys: "A. Salys teigė, kad slavų ir baltų prokalbės išriedėjo iš dviejų artimų indoeuropiečių prokalbės tarmių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "303613-304022; hash=6c114b6960dd77eb5e3df11ea57a7a2ccb9199289f30f24357f71a5033758680; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Baltai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "A. Salys: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Baltai: mention_match, group, gap=29"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"A. Salys\" parinktas kaip owner_note_path. Targetas \"Baltai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-03969
 
@@ -116,9 +78,6 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
 - t-004
   global_id: t-64517
   teiginys: "A. Salys parašė Baltic Languages."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "308111-308311; hash=842816aea6722f527131bdd8afc0922bf7ac5ee489d970ce8f6b8fda54d2db50; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-03970
 
@@ -126,16 +85,6 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
 - t-002
   global_id: t-64518
   teiginys: "A. Salys parašė Die žemaitischen Mundarten. Teil 1 : Geschichte des žemaitischen Sprachgebiets."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "41840-42030; hash=c739a96907fee5d4e4726631c5d48c374b8e85d4d805f63a1eb5294b6d56c70e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kaunas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "A. Salys: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Kaunas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"A. Salys\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-03968
 - susijęs iš [[objektai/autoriai/Salys A.md#claim-t-64846|Salys A]]: A. Salys Ragainės vardo kilmę siejo su Lietuva.
@@ -156,8 +105,8 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
     des žemaitischen Sprachgebiets, Kaunas 1930 (atsp. iš TiŽ
     t. 6).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -175,8 +124,8 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
     išriedėjusios iš dviejų artimų indoeuropiečių prokalbės tarmių (A.
     Salys).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -190,8 +139,8 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
     iš Kario 1968-71, Brooklyn, N. Y. 1972. —Salys, A. : _Baltic Languages,_
     Encyclopedia Britannica, t. 3, 1955.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -207,8 +156,8 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
     (”) _Die Beziehungen des Baltischen zum Slavischen und Germanischen,_
     Zeitschr. für vergleichende Sprachforschung, t. 70, 1954.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -223,8 +172,8 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
     Mykolaičio, Dr. Pr. Skardžiaus, Dr. A. Salio, ir kalbininkų Talmanto,
     Laurynaičio ir Kuzmickio straipsniai. Šio numerio kaina Lt. 3. —.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -247,8 +196,8 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
     (^23) **Lites, II, 140 p.**
     (^24) **Lites, II, 304 p.**
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

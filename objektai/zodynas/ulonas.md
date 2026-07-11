@@ -35,17 +35,6 @@ Neišlaikę spaudimo totoriai bėgo“ žuvo daug murzy ir ulonų.
 - t-001
   global_id: t-38783
   teiginys: "Algirdo pajėgų spaudimo neatlaikę totoriai bėgo, o mūšyje žuvo daug murzų ir ulonų."
-  semantiniai_rysiai: "Algirdas (Lietuvos valdovas) puolė Totoriai (0.76)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "180101-180682; hash=91abfa5dfed4c4b83f6f278bba262eb9a9c12517e4b59918d96d9309f3ee4e74; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Totoriai: 0.76"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Totoriai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Totoriai bėgo nuo Algirdo pajėgų spaudimo, todėl tiesiogiai matomas Algirdo karinis veiksmas prieš totorius."
   pagrindžia:
     - c-40587
 
@@ -53,20 +42,6 @@ Neišlaikę spaudimo totoriai bėgo“ žuvo daug murzy ir ulonų.
 - t-002
   global_id: t-183719
   teiginys: "Algirdo pajėgoms spaudžiant totoriai pabėgo, o mūšyje žuvo daug murzų ir ulonų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Algirdas (Lietuvos valdovas) puolė Totoriai (0.76)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "180014-180303; hash=182e6d2451cc002671325dfc7f0aa1f73ba38edfe4c3f4e9b5ba53f5d2b0bcdd; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Totoriai: 0.76"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Totoriai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Totoriai bėgo nuo Algirdo pajėgų spaudimo, todėl santykis rodo karinį puolimą ar spaudimą."
   pagrindžia:
     - c-167107
 ## Reikšmingi paminėjimai
@@ -98,8 +73,8 @@ Neišlaikę spaudimo totoriai bėgo“ žuvo daug murzy ir ulonų.
     vietos), kurioje nebuvo nė vie-
     nos pilies.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -118,8 +93,8 @@ Neišlaikę spaudimo totoriai bėgo“ žuvo daug murzy ir ulonų.
     Neišlaikę spaudimo totoriai bėgo“ žuvo
     daug murzy ir ulonų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

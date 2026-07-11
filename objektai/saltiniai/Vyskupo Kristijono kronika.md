@@ -30,21 +30,6 @@ Narbutas gina Simoną Grunau, teigdamas, kad jo žinia apie vyriausiuosius žyni
 - t-001
   global_id: t-190502
   teiginys: "Narbutas gina Simoną Grunau, teigdamas, kad jo žinia apie vyriausiuosius žynius galėjo būti paimta iš vyskupo Kristijono kronikos."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "780916-781482; hash=c6c57800f71cee9be3458f22269a1ddd3f2885833e6f18d3069295578549d63e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lukas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vyskupo Kristijono kronika: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Lukas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vyskupo Kristijono kronika\" parinktas kaip owner_note_path. Targetas \"Lukas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173385
 
@@ -52,21 +37,6 @@ Narbutas gina Simoną Grunau, teigdamas, kad jo žinia apie vyriausiuosius žyni
 - t-002
   global_id: t-190503
   teiginys: "Narbutas mano, kad Grunau žinią apie vyriausiuosius žynius veikiausiai paėmė iš vyskupo Kristijono kronikos."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "781271-782230; hash=c9d975cf9ae6c457d9c284338380e38f7c1f78ace17a9e2f496c7e0c4a6d361d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Foigtas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vyskupo Kristijono kronika: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Foigtas: mention_match, author"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vyskupo Kristijono kronika\" parinktas kaip owner_note_path. Targetas \"Foigtas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173386
 
@@ -74,22 +44,6 @@ Narbutas gina Simoną Grunau, teigdamas, kad jo žinia apie vyriausiuosius žyni
 - t-003
   global_id: t-190504
   teiginys: "Narbutas spėja, kad prūsų tautinės vėliavos runų užrašas galėjo būti senovinis dingusios vyskupo Kristijono kronikos užrašo vertimas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Tautinės vėliavos priklausė Prūsai (0.82)"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "834440-834735; hash=8edc4e8e89bdf1adb43ffa37dc67bcde22c744e989ae76099fdc2c64d4249271; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Prūsai: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Tautinės vėliavos: llm_allowed_candidate, thing"
-  ryšio_targeto_parinkimas: "Prūsai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Frazė tiesiogiai apibūdina tautinę vėliavą kaip prūsų."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173387
 ## Reikšmingi paminėjimai
@@ -113,8 +67,8 @@ Narbutas gina Simoną Grunau, teigdamas, kad jo žinia apie vyriausiuosius žyni
     nėra pagrindo tvirtinti, kad anoje kronikoje to nebuvo, ka­
     dangi numylėtinis Lukas Davidas būtų iš jos paėmęs tą patį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -141,8 +95,8 @@ Narbutas gina Simoną Grunau, teigdamas, kad jo žinia apie vyriausiuosius žyni
     ba apie tuos pačius vyriausiuosius žynius net plačiau ir su ge­
     rokai išsamesniais paaiškinimais negu Simonas Grunau17.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -158,8 +112,8 @@ Narbutas gina Simoną Grunau, teigdamas, kad jo žinia apie vyriausiuosius žyni
     kos piešinio. Tikriausiai tai senovinis vertimas originalaus užrašo,
     buvusio dingusioje Prūsijos vyskupo Kristijono kronikoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -196,7 +150,8 @@ Narbutas gina Simoną Grunau, teigdamas, kad jo žinia apie vyriausiuosius žyni
 - id: c-173386
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 432"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 432."
   citata_originali: |
     Žinią apie vyriausiuosius žy­
     nius jis, be abejo, paėmė iš vyskupo Kristijono kronikos, nes
@@ -224,7 +179,8 @@ Narbutas gina Simoną Grunau, teigdamas, kad jo žinia apie vyriausiuosius žyni
 - id: c-173387
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 464"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 464."
   citata_originali: |
     Vilniaus miesto senovinis herbas
     41 pav. Prūsų tautinė vėliava, vaizduojanti tris dievus -  Poklių,

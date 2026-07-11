@@ -53,18 +53,6 @@ Dvaras, susijęs su T. Narbuto biografija, biblioteka ir senienų rinkinių isto
 - t-001
   global_id: t-188163
   teiginys: "Teodoras Narbutas gimė 1784 m. lapkričio 8 d. Lydos paviete, Šaurų dvare, Jokimo ir Izabelės Narbutų šeimoje."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys jau yra gramatiškas faktinis sakinys su aiškiu subjektu, veiksmažodžiu ir Šaurų dvaro paminėjimu. Papildomos atribucijos čia nereikia."
-  susije_objektai: "llm_object: Šaurų dvaras; mentioned_group: [[objektai/grupes/Narbutai|Narbutai]]; mentioned_person: [[objektai/asmenys/Teodoras Narbutas|Teodoras Narbutas]]; mentioned_place: Horodlė"
-  semantiniai_rysiai: "[[objektai/asmenys/Teodoras Narbutas|Teodoras Narbutas]] gimė Šaurų dvaras"
-  temporaliniai_duomenys: "gimimo data: 1784 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Teodoras Narbutas gimė Šaurų dvaras“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys jau yra gramatiškas faktinis sakinys su aiškiu subjektu, veiksmažodžiu ir Šaurų dvaro paminėjimu. Papildomos atribucijos čia nereikia."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "5184-5442; hash=3d1ea8b7988c25ed9cd8b57c9e4f37bbcf2fd04171f69239070d2cef2915d21a; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  vertinimo_atnaujinta: "2026-07-02T09:57:54Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171049
 
@@ -72,14 +60,6 @@ Dvaras, susijęs su T. Narbuto biografija, biblioteka ir senienų rinkinių isto
 - t-002
   global_id: t-188164
   teiginys: "Šaurų dvaro bibliotekoje buvo saugoma nemažai Dionizo Poškos rankraščių."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Išskleistas įvardis „šio žemaičių literato“ į Dionizo Poškos vardą, kurį palaiko citata. Kitų bibliotekoje buvusių darbų nepridėta."
-  susije_objektai: "mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "92574-92932; hash=34f7ebc4e909a67ddd9d9702699d57e4098b33db0e762df120adcb580e4f9882; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  vertinimo_atnaujinta: "2026-07-02T09:57:54Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171052
 - susijęs iš [[objektai/asmenys/Teodoras Narbutas.md#claim-t-188639|Teodoras Narbutas]]: Teodoras Narbutas Šaurų dvaro bibliotekoje saugojo visą „Dziennik Wilenski“ komplektą.
@@ -108,8 +88,8 @@ Dvaras, susijęs su T. Narbuto biografija, biblioteka ir senienų rinkinių isto
     butai -  sena lietuvių bajorų giminė, istoriniuose dokumentuose
     minima nuo Horodlės unijos laikų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -125,8 +105,8 @@ Dvaras, susijęs su T. Narbuto biografija, biblioteka ir senienų rinkinių isto
     kos darbus, juolab kad Šaurų dvaro bibliotekoje buvo saugo­
     ma nemažai šio žemaičių literato rankraščių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -137,7 +117,8 @@ Dvaras, susijęs su T. Narbuto biografija, biblioteka ir senienų rinkinių isto
 - id: c-171049
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 5"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 5."
   citata_originali: |
     Vi­
     suomenės akyse jis tapo LTI autoriumi.
@@ -156,7 +137,8 @@ Dvaras, susijęs su T. Narbuto biografija, biblioteka ir senienų rinkinių isto
 - id: c-171052
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 51"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 51."
   citata_originali: |
     žemaitis. Tokia būtų pagrindinė šio straipsnio, rašyto 1829 me­
     tais, t. y. T. Narbutui sisteminant jau sukauptą istorijos me­
@@ -171,6 +153,3 @@ Dvaras, susijęs su T. Narbuto biografija, biblioteka ir senienų rinkinių isto
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188164
-
-## Ryšiai
-- Turėjo priklausinį: [[objektai/grupes/Narbutai]]

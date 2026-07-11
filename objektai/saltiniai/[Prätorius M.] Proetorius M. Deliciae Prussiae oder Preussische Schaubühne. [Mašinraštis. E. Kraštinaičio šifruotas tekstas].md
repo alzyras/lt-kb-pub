@@ -39,9 +39,6 @@ Dusburgietis teigia, kad [Prätorius M.] Proetorius M.
 - t-001
   global_id: t-61261
   teiginys: "M. Prätoriaus „Proetorius M. Deliciae Prussiae oder Preussische Schaubühne“ mašinraštis su E. Kraštinaičio šifruotu tekstu nurodytas MAB RS fonde F 129-1338/5."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "793545-793698; hash=f8fc7ed28ae2aec8ad873e9e01beb4665252222e6f6b2abe9f25342090ff71e3; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-61893
 ## Reikšmingi paminėjimai
@@ -53,8 +50,8 @@ Dusburgietis teigia, kad [Prätorius M.] Proetorius M.
     [Prätorius  M.]  Proetorius M.  Deliciae  Prussiae  oder  Preussische Schaubühne.
     [Mašinraštis. E. Kraštinaičio šifruotas tekstas].—MAB RS, F 129—1338/5.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -65,7 +62,8 @@ Dusburgietis teigia, kad [Prätorius M.] Proetorius M.
 - id: c-61893
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 270"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 270."
   citata_originali: |
     [Prätorius  M.]  Proetorius M.  Deliciae  Prussiae  oder  Preussische Schaubühne.
     [Mašinraštis. E. Kraštinaičio šifruotas tekstas].—MAB RS, F 129—1338/5.

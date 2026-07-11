@@ -45,12 +45,6 @@ Nenurodyta
 - t-001
   global_id: t-194071
   teiginys: "Tiesa, daugelyje Platesniojo sąvado nuorašų esama papildy mų — pametimų užrašų ir ilgesnių pasakojimų apie kai kuriuos svarbesnius XV a."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "10656-11058; hash=463e0a54fde370dfa3dc48b237a49ec7e85bbf7921b423c38d75a1ab07a51dfc; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176684
 ## Reikšmingi paminėjimai
@@ -69,8 +63,8 @@ Nenurodyta
     kaip savarankiškas LDK metraštinės literatūros vysty­
     mosi etapas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -81,7 +75,8 @@ Nenurodyta
 - id: c-176684
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 8"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 8."
   citata_originali: |
     Tiesa,
     daugelyje Platesniojo sąvado nuorašų esama papildy­

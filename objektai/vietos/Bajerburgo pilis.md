@@ -49,13 +49,6 @@ Po Gedimino, nužudyto 1337 metais prie Bajerburgo pi­ lies, per mylią nuo Vel
 - t-001
   global_id: t-195053
   teiginys: "Gediminas žuvo 1337 metais mūšyje su kryžiuočiais prie Bajerburgo pilies, buvusios per mylią nuo Veliuonos."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Sakinys perrašytas be nutrūkusio konteksto ir OCR triukšmo."
-  susije_objektai: "llm_object: Bajerburgo pilis; llm_object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Bajerburgas; mentioned_place: Veliuona; mentioned_group: [[objektai/grupes/Bremeno pirkliai|Bremeno pirkliai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Bremenas; mentioned_place: Dvina; mentioned_place: Lietuva; mentioned_place: Ryga"
-  semantiniai_rysiai: "[[objektai/asmenys/Gediminas|Gediminas]] mirė Bajerburgo pilis"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "76950-78076; hash=0ef0f495dc9763daad835f6f258e5aa480a1b240fda298cabf2e7faa004e9235; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177437
     - c-177438
@@ -65,12 +58,6 @@ Po Gedimino, nužudyto 1337 metais prie Bajerburgo pi­ lies, per mylią nuo Vel
 - t-003
   global_id: t-195054
   teiginys: "Bajerburgas vėliau vadintas Raudone, nes pilies sienos buvo sumūrytos iš raudonų plytų."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Citata pagrindžia pavadinimo aiškinimą, bet pradinę formuluotę verta sutvarkyti."
-  susije_objektai: "mentioned_place: Bajerburgas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Veliuona"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "76950-78076; hash=0ef0f495dc9763daad835f6f258e5aa480a1b240fda298cabf2e7faa004e9235; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177437
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178977|Kryžiuočių ordinas]]: Bajerburgo pilis prie Nemuno apie 1337 m. pastatyta Ordino pavedimu ir padedant Bavarijos kunigaikščiui Henrikui.
@@ -105,8 +92,8 @@ Po Gedimino, nužudyto 1337 metais prie Bajerburgo pi­ lies, per mylią nuo Vel
     Bremeno pirkliai jau buvo pastaty­
     dinę keletą namų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -126,8 +113,8 @@ Po Gedimino, nužudyto 1337 metais prie Bajerburgo pi­ lies, per mylią nuo Vel
     žemaitiško žodžio „raudonas", mat jos sienos sumūrytos iš
     raudonų plytų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -153,8 +140,8 @@ Po Gedimino, nužudyto 1337 metais prie Bajerburgo pi­ lies, per mylią nuo Vel
     jam pilies užėmimą, Gediminas, surinkęs kariuomenę, 1337
     metų birželio 15 d., sustojo ties Bajerburgu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -253,4 +240,3 @@ Po Gedimino, nužudyto 1337 metais prie Bajerburgo pi­ lies, per mylią nuo Vel
 
 ## Ryšiai
 - Mirties vieta: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
-- Buvo pastatyta: [[objektai/grupes/Kryžiuočių ordinas]]

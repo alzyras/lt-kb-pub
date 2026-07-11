@@ -53,20 +53,6 @@ Nenurodyta
 - t-007
   global_id: t-09880
   teiginys: "1634 m. sausio 24 d. Vladislovo Vazos vadovaujama lietuvių ir lenkų kariuomenė privertė rusų pajėgas kapituliuoti prie Smolensko."
-  semantiniai_rysiai: "Krymo totoriai puolė Rusija (0.91); Lietuviai kariavo prieš Rusai (0.84); Lenkai kariavo prieš Rusai (0.84)"
-  temporaliniai_duomenys: "įvykio data: 1633 m.; įvykio data: 1634 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nusako veikėją, veiksmą, datą ir rezultatą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "486060-486815; hash=28e596f029474e91fa430bfb6f25b45591adc6435ffd754e296cb37e4f9b11dc; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
-  ryšio_patikimumas: "puole -> Rusija: 0.91"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Krymo totoriai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Rusija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Krymo totorių įsiveržimą į Rusijos žemes."
   pagrindžia:
     - c-11913
 
@@ -74,17 +60,6 @@ Nenurodyta
 - t-006
   global_id: t-09881
   teiginys: "Smolenską gynė apie 2 tūkst. Lietuvos karių, miestas buvo smarkiai apšaudytas ir šturmuojamas, bet nesėkmingai."
-  semantiniai_rysiai: "Lietuviai gynė Smolenskas (0.93)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "485729-486058; hash=91c09d042a1293c4f4ecc4033dfb3c69334bb5df8d39eefe29effd668b302f46; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
-  ryšio_patikimumas: "gyne -> Smolenskas: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Smolenskas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Lietuvos kariai gynė Smolenską."
   pagrindžia:
     - c-11912
 
@@ -92,20 +67,6 @@ Nenurodyta
 - t-008
   global_id: t-09882
   teiginys: "Po nesėkmingo Rusijos mėginimo užimti Smolenską prie Polianovkos upės buvo sudaryta „amžinosios taikos“ sutartis."
-  semantiniai_rysiai: "Smolenskas priklausė Lietuva (0.95)"
-  temporaliniai_duomenys: "sutarties data: iki 1654 m.; sutarties data: 1654 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip sutarties data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys susietas su Smolensko apgulties padariniais."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "486827-487098; hash=aeb23882d330add246a8dab19b00758d9aead50da39ca3486f0b6a330ec03e69; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
-  ryšio_patikimumas: "priklause -> Lietuva: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Smolenskas: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai teigia, kad Smolenskas po apgulties priklausė Lietuvai."
   pagrindžia:
     - c-11914
 
@@ -113,20 +74,6 @@ Nenurodyta
 - t-005
   global_id: t-09883
   teiginys: "1632 m. maskvėnai įsiveržė į Lietuvos teritoriją siekdami atgauti Smolenską, o Michailo Šejino vadovaujama rusų kariuomenė lapkričio 14 d. apgulė miestą."
-  semantiniai_rysiai: "Maskvėnai puolė Lietuva (0.92); Rusai apgulė Smolensko apgultis (1632–1634 m.) (0.90)"
-  temporaliniai_duomenys: "įvykio data: 1632 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "482375-482697; hash=b718320d9818beac3723bfc83b8f9db2215d66d8926227445a03970b4d2ea081; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
-  ryšio_patikimumas: "puole -> Lietuva: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Maskvėnai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo maskvėnų įsiveržimą į Lietuvos teritoriją."
   pagrindžia:
     - c-11911
 - susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
@@ -149,8 +96,8 @@ Nenurodyta
     jama Michailo Šejino, lapkričio 14 d. ap-
     gulė šį miestą. Rusų kariuomenėje buvo
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -169,8 +116,8 @@ Nenurodyta
     Aleksandras Gonsevskis su 6 tūkst. apy-
     linkėse veikusių karių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -203,8 +150,8 @@ Nenurodyta
     apsupo sumenkusias priešo pajėgas ir
     1634 m. sausio 24 d. privertė kapituliuoti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -222,8 +169,8 @@ Nenurodyta
     1654 m., kai sulaužę ją rusai vėl įsiveržė į
     Lietuvą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -51,21 +51,6 @@ Nenurodyta
 - t-001
   global_id: t-189813
   teiginys: "Narbutas Gumbinės (Gumbin) miesto pavadinimą kildino iš tokio varpo."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "280109-280365; hash=a3246a3266d09048b53f6f85cacb0aafb90d3fd574f2643c62155f3b3a8193a0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gumbinė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Varpų naudojimas pavojui, sargybai ir kariams kelti: owner_note_path, thing"
-  ryšio_targeto_parinkimas: "Gumbinė: mention_match, place, gap=10"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Varpų naudojimas pavojui, sargybai ir kariams kelti\" parinktas kaip owner_note_path. Targetas \"Gumbinė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172696
 
@@ -73,14 +58,6 @@ Nenurodyta
 - t-002
   global_id: t-194638
   teiginys: "Lietuviškai šis žo dis paraidžiui reiškia varpą, perkeltine prasme - žadinimą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "279077-279502; hash=5b9f74cb52c2bb128055cb61591ad3914631d133843e2b0e184d6c89f9c0669c; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-177036
 ## Reikšmingi paminėjimai
@@ -96,8 +73,8 @@ Nenurodyta
     Senovės egiptiečiai, persai, graikai, romėnai turėjo varpų,
     skirtų tam tikroms religinėms apeigoms.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -116,8 +93,8 @@ Nenurodyta
     kase, arba pilies pylime, prie Gorodiščės kaimo, ties Rodū­
     nios miesteliu, tikroje lietuviškoje žemėje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -128,7 +105,8 @@ Nenurodyta
 - id: c-172696
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 161"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 161."
   citata_originali: |
     Gumbinės (Gumbin) miestas nuo
     tokio varpo gavęs pavadinimą.
@@ -146,7 +124,8 @@ Nenurodyta
 - id: c-177036
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 161"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 161."
   citata_originali: |
     Lietuviškai šis žo­
     dis paraidžiui reiškia varpą, perkeltine prasme -  žadinimą.

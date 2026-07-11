@@ -37,12 +37,6 @@ Mūsų išvados, susiklosčiusios ruošiant Bychovco kronikos vertimą į lietuv
 - t-001
   global_id: t-194153
   teiginys: "Mūsų išvados, susiklosčiusios ruošiant Bychovco kronikos vertimą į lietuvių kalbą, patvirtina spėjimus, kad Platesnysis sąvadas turėjo būti sukurtas Alberto Goštauto iniciatyva XVI a."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "53374-53920; hash=58def58511bd119e86e315b576d9ef3e434f6044cf8021fd1f21edff1e335e5b; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176766
 
@@ -50,12 +44,6 @@ Mūsų išvados, susiklosčiusios ruošiant Bychovco kronikos vertimą į lietuv
 - t-002
   global_id: t-194154
   teiginys: "1 5 Lietuvos valstybė siekė Vislos upės intaką Būgą, bet pačios Vislos niekada nesiekė."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "432946-433350; hash=29e00554f654f785976a351c461b110f8d9af7d2633ea3ac0b0514978da9da2e; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176767
 ## Reikšmingi paminėjimai
@@ -75,8 +63,8 @@ Mūsų išvados, susiklosčiusios ruošiant Bychovco kronikos vertimą į lietuv
     po Platesniojo sąvado, antrojo ir trečiojo XVI a. de­
     šimtmečių riboje, gal būt, tarp 1519—1521 ar 1525 m .
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -95,8 +83,8 @@ Mūsų išvados, susiklosčiusios ruošiant Bychovco kronikos vertimą į lietuv
     perdirbtas Ir išplėstas, turi originalaus pobūdžio, kaip ir ankstes­
     nis pasakojimas apie Jogailos žygj j Lenkiją.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

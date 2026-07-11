@@ -30,21 +30,6 @@ Narbutas kinus ir indus apibūdina kaip tautas, kurios saugo senuosius įstatymu
 - t-001
   global_id: t-189493
   teiginys: "Narbutas kinus ir indus apibūdina kaip tautas, kurios saugo senuosius įstatymus, papročius ir visuomenės gyvenimo smulkmenas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "141496-142072; hash=70cb8d94c65e91b3295b9b24124573a10677a99b253208fea0d6f7cfe57bf0e2; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Indai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kinai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Indai: mention_match, group, gap=9"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kinai\" parinktas kaip owner_note_path. Targetas \"Indai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172381
 
@@ -52,14 +37,6 @@ Narbutas kinus ir indus apibūdina kaip tautas, kurios saugo senuosius įstatymu
 - t-002
   global_id: t-194568
   teiginys: "Senovės isto rija gausi faktų apie žmogaus nuopuolį: indai, kinai, chaldėjai, egiptiečiai, izraelitai, persai, graikai dūsauja prisimindami ge resnę praeitį - visų padavimai primena palaimingus dar nesu gadintos prigimties laikus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "146256-146633; hash=a4e3a2cc7c80134f114052e25e41debb746d4449f72d06b07eebff197276abb5; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-176968
 - susijęs iš [[objektai/grupes/Indai.md#claim-t-189410|Indai]]: Narbutas indus ir kinus vadino seniausiomis žemės tautomis, saugojusiomis senuosius įstatymus, papročius ir visuomenės gyvenimo smulkmenas.
@@ -83,8 +60,8 @@ Narbutas kinus ir indus apibūdina kaip tautas, kurios saugo senuosius įstatymu
     dabar tebėra to paties apšvietos, politinių institucijų ir religi­
     jos lygio.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -102,8 +79,8 @@ Narbutas kinus ir indus apibūdina kaip tautas, kurios saugo senuosius įstatymu
     žodžiai: aurea prima sata ėst aetas -  pirmasis gimė aukso am­
     žius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -114,7 +91,8 @@ Narbutas kinus ir indus apibūdina kaip tautas, kurios saugo senuosius įstatymu
 - id: c-172381
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 79"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 79."
   citata_originali: |
     Kad mums būtų lengviau išsemti visą naudą iš mitologijos
     skaitymo, nepakenks iš pradžių apžvelgti atradimus, galinčius
@@ -137,7 +115,8 @@ Narbutas kinus ir indus apibūdina kaip tautas, kurios saugo senuosius įstatymu
 - id: c-176968
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 81"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 81."
   citata_originali: |
     Tačiau tiesa visuomet išliko atmintyje. Senovės isto­
     rija gausi faktų apie žmogaus nuopuolį: indai, kinai, chaldėjai,

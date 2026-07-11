@@ -45,19 +45,6 @@ Vyriausiojo Lietuvos tribunolo reikalas buvo svarstytas net keliuose atskiruose 
 - t-005
   global_id: t-82098
   teiginys: "Vyriausiasis Lietuvos tribunolas buvo galutinai įkurtas 1581 m."
-  temporaliniai_duomenys: "įvykio data: 1578 m.; įvykio data: 1581 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata tiesiogiai pagrindžia trumpą faktą apie tribunolo įkūrimą Lietuvoje."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "602225-602651; hash=fd71ee642969fd563fd99478f2125d398f2723ba4d0d976af45fe05a13b6f9f4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "tribunolas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=9"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"tribunolas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-78594
 
@@ -65,19 +52,6 @@ Vyriausiojo Lietuvos tribunolo reikalas buvo svarstytas net keliuose atskiruose 
 - t-006
   global_id: t-82100
   teiginys: "Lietuvai paskirtas Tribunolas 1581 m. buvo iškilmingai įvesdintas Vilniuje."
-  temporaliniai_duomenys: "įvykio data: 1581 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys ir paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "897497-897873; hash=506aa12b63c2a2f36369204ace82b0086cab1ba00a800c1038b25e7470fa1494; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "tribunolas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=47"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"tribunolas\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-78596
 
@@ -85,9 +59,6 @@ Vyriausiojo Lietuvos tribunolo reikalas buvo svarstytas net keliuose atskiruose 
 - t-003
   global_id: t-82101
   teiginys: "Vyriausiasis Lietuvos tribunolas buvo įkurtas 1581 m. ir su mažais pakeitimais išliko iki valstybės nepriklausomybės pabaigos."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "602225-602651; hash=fd71ee642969fd563fd99478f2125d398f2723ba4d0d976af45fe05a13b6f9f4; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-78594
 
@@ -95,9 +66,6 @@ Vyriausiojo Lietuvos tribunolo reikalas buvo svarstytas net keliuose atskiruose 
 - t-004
   global_id: t-82102
   teiginys: "Oginskis siūlė Lietuvos kunigaikštijoje palikti Lietuvos statutą be apribojimų ir įsteigti nuo Petrapilio nepriklausomą tribunolą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "897170-897792; hash=a2382d143e074f335d36115119d6179cec84b324746f16337fada0aa4788edc5; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-78593
 
@@ -105,19 +73,6 @@ Vyriausiojo Lietuvos tribunolo reikalas buvo svarstytas net keliuose atskiruose 
 - t-006
   global_id: t-182982
   teiginys: "Oginskis siūlė numatomoje kunigaikštijoje palikti Lietuvos statutą ir įsteigti nuo Petrapilio nepriklausomą tribunolą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "897497-897873; hash=506aa12b63c2a2f36369204ace82b0086cab1ba00a800c1038b25e7470fa1494; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "tribunolas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=58"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"tribunolas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-166380
 
@@ -125,14 +80,6 @@ Vyriausiojo Lietuvos tribunolo reikalas buvo svarstytas net keliuose atskiruose 
 - t-007
   global_id: t-193162
   teiginys: "O bajorijos byloms su dvasininkais būdavo sudaromas mišrasis teismas, arba dvasiškasis tribunolas, į kurį įeidavo 4 vyskupijų kapitulų skiriami kunigai ir 6 tribunolo deputatai."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "603547-603774; hash=915aff7235f56515ab7b0a2a5bd22349e3c531ce42ddc634f7ae38c30ead381a; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-175913
 - susijęs iš [[objektai/grupes/Vyriausiasis Lietuvos tribunolas.md#claim-t-113374|Vyriausiasis Lietuvos tribunolas]]: 1785 m. kovo 14 d. Vyriausiasis Lietuvos tribunolas Vilniuje pavedė Pabaisko bažnyčios fundacijos privilegiją įrašyti į Tribunolo viešąsias knygas.
@@ -190,8 +137,8 @@ Vyriausiojo Lietuvos tribunolo reikalas buvo svarstytas net keliuose atskiruose 
     tada aukščiausioji instan-
     cija buvo Rusijos senatas).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -210,8 +157,8 @@ Vyriausiojo Lietuvos tribunolo reikalas buvo svarstytas net keliuose atskiruose 
     tinai jis buvo įkurtas 1581 m. Su mažais pakeitimais jis toks
     pat išliko iki pat nepriklausomybės pabaigos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -242,8 +189,8 @@ Vyriausiojo Lietuvos tribunolo reikalas buvo svarstytas net keliuose atskiruose 
     gai profesoriaus Onacevičiaus
     išleistų Varšuvoje, 1823 m.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -268,8 +215,8 @@ Vyriausiojo Lietuvos tribunolo reikalas buvo svarstytas net keliuose atskiruose 
     Kiek vėliau buvo paruošti
     keli numatomos kunigaikštijos konstitucijos projektai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -288,8 +235,8 @@ Vyriausiojo Lietuvos tribunolo reikalas buvo svarstytas net keliuose atskiruose 
 
     **8.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

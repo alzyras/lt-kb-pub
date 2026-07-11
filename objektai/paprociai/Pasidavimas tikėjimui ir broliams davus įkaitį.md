@@ -53,10 +53,6 @@ Nenurodyta
 - t-001
   global_id: t-62705
   teiginys: "Pagudėnai, negalėdami atlaikyti nuolatinių Ordino brolių antpuolių, davė įkaitį ir pasidavė tikėjimui bei broliams."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "259188-259710; hash=b528e5d934ad73a797ec0d1e01ec16e46caa2e70e68490c3e19728f1cdb7bdd3; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-63461
 ## Reikšmingi paminėjimai
@@ -72,8 +68,8 @@ Nenurodyta
     matydami šitokį stebuklą ir negalėdami atlaikyti nuolatinių brolių antpuolių, nulenkė,
     davę įkaiti], tikėjimui ir broliams savo kietus sprandus ir nesutramdomas galvas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -84,7 +80,8 @@ Nenurodyta
 - id: c-63461
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 78"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 78."
   citata_originali: |
     Į tai jis tarė: „Mes tikrai esame matę visą lauką pilną ginkluotų vyrų, apsivilkusių
     ir apsiginklavusių taip kaip jūsų broliai, štai dėl to ir mūsų kariuomenė leidosi bėgti“.

@@ -36,12 +36,6 @@ Iš dokum entų yra žinomas Pinsko kunigaikštis Jurgis be pravardės, kuris ta
 - t-001
   global_id: t-194162
   teiginys: "Iš dokum entų yra žinomas Pinsko kunigaikštis Jurgis be pravardės, kuris tarp kitų liudininkų figūruoja 1398 m. Salyno sutarties akte, tačiau nežinoma, kad jis būtų vietininkavęs Pskove."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "480004-480306; hash=d9e8fd719bf333b98422b6eab08df33269cacc04ca47a5f858a3db990dae691f; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176775
 ## Reikšmingi paminėjimai
@@ -56,8 +50,8 @@ Iš dokum entų yra žinomas Pinsko kunigaikštis Jurgis be pravardės, kuris ta
     liudininkų figūruoja 1398 m. Salyno sutarties akte, tačiau nežinoma,
     kad jis būtų vietininkavęs Pskove.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -36,24 +36,6 @@ Juozapas Hačevskis leidinyje „Muzeum Domome“ 1837 m. paskelbė išsamų str
 - t-001
   global_id: t-191849
   teiginys: "Juozapas Hačevskis leidinyje „Muzeum Domome“ 1837 m. paskelbė išsamų straipsnį apie gintarą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1837 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie „Muzeum Domome“ minimą Hačevskio straipsnį. Palikti tik citatoje esantys duomenys apie autorių, temą ir 1837 m. leidinį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "267869-267992; hash=a9cb2b635ec031666f7b1d6fa89e36766235a3e7a7587d38e095ef3e78606dc0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Juozapas Hačevskis: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Muzeum Domome: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Juozapas Hačevskis: mention_match, author, gap=30"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Muzeum Domome\" parinktas kaip owner_note_path. Targetas \"Juozapas Hačevskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174731
 ## Reikšmingi paminėjimai
@@ -65,8 +47,8 @@ Juozapas Hačevskis leidinyje „Muzeum Domome“ 1837 m. paskelbė išsamų str
     2 Thunberg, Podroi. T. IV. S. 402; išsamų straipsnį apie gintarą
     parašė ponas Juozapas Hačevskis (Muzeum Domome. R., 1837).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -77,7 +59,8 @@ Juozapas Hačevskis leidinyje „Muzeum Domome“ 1837 m. paskelbė išsamų str
 - id: c-174731
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 148"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 148."
   citata_originali: |
     2 Thunberg, Podroi. T. IV. S. 402; išsamų straipsnį apie gintarą
     parašė ponas Juozapas Hačevskis (Muzeum Domome. R., 1837).

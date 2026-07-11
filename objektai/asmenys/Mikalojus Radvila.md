@@ -45,17 +45,6 @@ media_all_json: |-
 - t-011
   global_id: t-186350
   teiginys: "Vilniaus vaivada Mikalojus Radvila dalyvavo derybose su maskvėnų pasiuntiniais dėl valstybės reikalų."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1327090-1327955; hash=e5b78b3a811e18e605afbaa279377bc4f4f962bae7a400d20abf4cf9bf2ced6f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Maskva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mikalojus Radvila: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Maskva: mention_match, place, gap=39"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mikalojus Radvila\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-169721
 
@@ -63,17 +52,6 @@ media_all_json: |-
 - t-001
   global_id: t-186351
   teiginys: "Mikalojus Radvila apie 1514 metus pastatė Šv. Jurgio ir Mergelės Dievo Gimdytojos bažnyčią pergalei prie Klecko atminti."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "531503-531929; hash=ab7b6841de56c9cd33b1dbbc7d64d88ca7b28df2fcae85eec785d0498bad04f4; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kłeckas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mikalojus Radvila: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kłeckas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mikalojus Radvila\" parinktas kaip owner_note_path. Targetas \"Kłeckas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-169718
 
@@ -81,18 +59,6 @@ media_all_json: |-
 - t-002
   global_id: t-186353
   teiginys: "Sklypą ir mūrinį namą Vitinskis pardavė Vilniaus vaivadai Mikalojui Radvilai."
-  teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Namas priklausė Mikalojus Radvila (0.86)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "386079-386276; hash=08855e70c7c50a59b163dc3d12bcb9acf9dc33b1defc34de578932752ec6e6a6; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Mikalojus Radvila: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Namas: llm_allowed_candidate, thing"
-  ryšio_targeto_parinkimas: "Mikalojus Radvila: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Pardavimo Mikalojui Radvilai faktas tiesiogiai rodo namo perėjimą jo nuosavybėn."
   pagrindžia:
     - c-169712
 
@@ -100,18 +66,6 @@ media_all_json: |-
 - t-005
   global_id: t-186354
   teiginys: "Lietuvos maršalka Mikalojus Radvila užtarė Martyną Paleckį, gavusį iš karaliaus žemės sklypą ir leidimą steigti stiklo fabriką."
-  teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Mikalojus Radvila rėmė Martynas iš Golino (0.74)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "551418-551944; hash=dd376acfddb25230aab7ac8a5770a49075eba846fd01b4fe9f20ec9602b0ccb7; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "reme -> Martynas iš Golino: 0.74"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Mikalojus Radvila: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Martynas iš Golino: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad Radvila užtarė Martyną; kandidatas susietas su šiuo paminėjimu."
   pagrindžia:
     - c-169713
 
@@ -119,17 +73,6 @@ media_all_json: |-
 - t-009
   global_id: t-186355
   teiginys: "Vaitiekus Kločka skubiai iškvietė į Vilnių Vilniaus vaivadą Mikalojų Radvilą ir Trakų vaivadą Grigalių Astiką."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1093058-1093474; hash=82fbb9af04732df46e8dc08ad642ae79c830c17631ea8b6762aa54600984bb6e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Trakai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mikalojus Radvila: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Trakai: mention_match, place, gap=20"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mikalojus Radvila\" parinktas kaip owner_note_path. Targetas \"Trakai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-169714
 
@@ -137,18 +80,6 @@ media_all_json: |-
 - t-004
   global_id: t-186356
   teiginys: "Aleksandras kreipėsi į Vilniaus vaivadą ir kanclerį Mikalojų Radvilą dėl pievos dovanojimo prie jo malūno už Vilnelės."
-  teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Malūnas priklausė Mikalojus Radvila (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "693820-694198; hash=5f09e0e177179eae2f2c3f8ce32c4c39bc4d2d14d432511833433de1062b7a64; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Mikalojus Radvila: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Malūnas: llm_allowed_candidate, thing"
-  ryšio_targeto_parinkimas: "Mikalojus Radvila: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Laiške Radvilai malūnas vadinamas „tavo“, todėl tiesiogiai nurodoma priklausomybė jam."
   pagrindžia:
     - c-169715
 
@@ -156,17 +87,6 @@ media_all_json: |-
 - t-007
   global_id: t-186357
   teiginys: "Mikalojus Radvila smogė priešams į sparną ir nulėmė mūšio sėkmę."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "697005-697377; hash=df4674ea4ff9c7b5a5df2438a391f0807afe51a76895411180bccccc0f12fd14; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Radvila: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mikalojus Radvila: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Radvila: mention_match, person, gap=10"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mikalojus Radvila\" parinktas kaip owner_note_path. Targetas \"Radvila\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-169716
 
@@ -174,20 +94,6 @@ media_all_json: |-
 - t-003
   global_id: t-186358
   teiginys: "1560 m. vasario 12 d. Mikalojus Radvila iš Rotundo gavo jo Lietuvos istorijos rankraštį."
-  teiginio_tipas: "faktas"
-  temporaliniai_duomenys: "įvykio data: 1560 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys yra ilga citata su triukšmu; citata palaiko glaustą faktą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "25912-26557; hash=23e09236c8cd4a299ab35aafe6627cf264d09078427c5aecebe20e5021094ace; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mikalojus Radvila: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=37"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mikalojus Radvila\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-169719
 
@@ -195,17 +101,6 @@ media_all_json: |-
 - t-008
   global_id: t-186359
   teiginys: "Karalius Mikalojui Radvilai, Lietuvos maršalui, atidavė Raigardą ir Goniondzą iš Glinskio turto."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1080413-1080957; hash=fc11ae48ca17ccb52f8290ec8efce0da78e82f0646444de930bf03a041176a1b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mikalojus Radvila: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=20"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mikalojus Radvila\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-169717
 
@@ -213,18 +108,6 @@ media_all_json: |-
 - t-012
   global_id: t-186360
   teiginys: "Vilniaus vaivada ir Olykos bei Nesvyžiaus kunigaikštis Mikalojus Radvila buvo įtrauktas į karaliaus pasiuntinybę į Vieną."
-  teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Mikalojus Radvila buvo valdovas Olyka (0.88); Mikalojus Radvila buvo valdovas Nesvyžius (0.88); Mikalojus Radvila keliavo į Viena (0.78)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1229756-1230214; hash=8dc5edd7ec5d48602bd7fae13e1da73c2b0b11c2c31b06b5e2edec3583ed1125; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_valdovas -> Nesvyžius: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Mikalojus Radvila: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Nesvyžius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Nesvyžiaus kunigaikščio titulas tiesiogiai nurodo valdymo santykį su Nesvyžiumi."
   pagrindžia:
     - c-169722
 
@@ -232,17 +115,6 @@ media_all_json: |-
 - t-006
   global_id: t-186361
   teiginys: "Lietuvos maršalas Mikalojus Radvila sutelkė kariuomenę ir palydėjo Jerim Berdį į skitų kraštą."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "696197-696626; hash=cd657b4a8f3facca80d022c4e494c13aca34d951f6814b221063c83f9720d92c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Radvila: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mikalojus Radvila: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Radvila: mention_match, person, gap=10"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mikalojus Radvila\" parinktas kaip owner_note_path. Targetas \"Radvila\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-169720
 
@@ -250,12 +122,6 @@ media_all_json: |-
 - t-013
   global_id: t-193398
   teiginys: "Mikalojus Radvila n eu žp u o lė L ivonijos, žinodam as, k ad ten g erai p asiren g u si k o v ai k a riu o m e n ė lau k ia ženklo du o ti tin k am ą atkirtį, bet, n e tik ė ta i įsiv eržęs į B altarusiją, sm arkiai n u siau b ė V itebsko, D ubrovno, O ršos, K opysės, Š klovo apylinkes."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1283547-1284090; hash=e394b97ceab6a4a801758dd71e4fd7b51d5795b5869c10322460ba9a7b782eb6; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176121
 - susijęs iš [[objektai/asmenys/Kristupas Radvila Perkūnas.md#claim-t-79100|Kristupas Radvila Perkūnas]]: Kristupas Radvila Perkūnas pasiekė Volgos aukštupį ir prie Šelonės upės, ties Mstislavliu, Mogiliavu, Šklovu jis sumušė rusų kariuomene.
@@ -332,8 +198,8 @@ media_all_json: |-
     1552. Sklypą ir mūrinį namą Vitinskis pardavė Vilniaus
     vaivadai Mikalojui Radvilai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -355,8 +221,8 @@ media_all_json: |-
     32 33
     Žr. III priedą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -375,8 +241,8 @@ media_all_json: |-
     vaivadą. Pasitarę jiedu visiems pranešė, ką sumaniusi
     karalienė, paremdami savo žodžius tikrais įrodymais.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -396,8 +262,8 @@ media_all_json: |-
     čiui šienaujamą pievą palei tavo malūną prie kelio, vedan­
     čio iš miesto į Užupį, už Vilnelės.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -415,8 +281,8 @@ media_all_json: |-
     Neilgai trukus priešai pasileido bėgti: žuvus karo kė­
     lėjui, visi kaip vienas paspruko iš kovos lauko.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -442,8 +308,8 @@ media_all_json: |-
     maskvėnai, siųsdami legatus,
     niekad nieko nuoširdžiai nesiūlė.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -461,8 +327,8 @@ media_all_json: |-
     gelės Dievo Gimdytojos garbei. Po to pakvietė karmelitus ir
     prie tos bažnyčios jiems pastatydino vienuolyną.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -491,8 +357,8 @@ media_all_json: |-
     Mikalojui Radvilai 1560 m. vasario 12 dieną įteikdamas jam
     savąją Lietuvos istoriją, kurios rankraštis yra dingęs.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -511,8 +377,8 @@ media_all_json: |-
     menę ir su ja palydėti Jerim Berdį į Skitiją. Vykdyda­
     mas šį įsakymą, Radvila ir patraukė į skitų kraštą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -544,8 +410,8 @@ media_all_json: |-
     pareikalavo amžinam Maskvos valdymui perduoti tai,
     ką didysis kunigaikštis esąs užėmęs.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -565,8 +431,8 @@ media_all_json: |-
     dikai lyg susitarę stengėsi vienas kitą pralenkti apda­
     rų puošnumu bei turtingumu.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -586,8 +452,8 @@ media_all_json: |-
     Polocką, o M ik alo ju i R advilai tra u k ti su  lietu v iais link
     Sm olensko.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -640,7 +506,8 @@ media_all_json: |-
 - id: c-169714
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 615"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 615."
   citata_originali: |
     Viską darė slaptomis, kaip neseniai
     buvo susitarusi su Vasilijaus pasiuntiniais, tačiau, ži­
@@ -684,7 +551,8 @@ media_all_json: |-
 - id: c-169716
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 397"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 397."
   citata_originali: |
     Prasidėjo mūšis, ilgą laiką pergalė nekrypo nei
     į vieną, nei į kitą pusę, nes abi šalys turėjo tiek pat
@@ -704,7 +572,8 @@ media_all_json: |-
 - id: c-169717
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 608"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 608."
   citata_originali: |
     Vis dėlto neilgai trukus, patyrus jų nekaltumą,
     abu broliai buvo karaliaus sprendimu paleisti. Glins­
@@ -784,7 +653,8 @@ media_all_json: |-
 - id: c-169720
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 397"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 397."
   citata_originali: |
     Todėl ir Jerim Berdį iškilmingai paskelbė
     teisėtu valdovu; kad niekas nesakytų, jog jis iš draugo
@@ -805,7 +675,8 @@ media_all_json: |-
 - id: c-169721
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 735"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 735."
   citata_originali: |
     Karalius
     taip paskirstė senatorių
@@ -839,7 +710,8 @@ media_all_json: |-
 - id: c-169722
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 690"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 690."
   citata_originali: |
     Mirus Pranciškui Gonzagai, Mantujos kunigaikščiui, ši
     našlavo tėvo Ferdinando rūmuose. Susitarus dėl šių
@@ -861,7 +733,8 @@ media_all_json: |-
 - id: c-176121
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 716"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 716."
   citata_originali: |
     Tiesa, jis n eu žp u o lė L ivonijos, žinodam as, k ad  ten
     g erai p asiren g u si k o v ai k a riu o m e n ė lau k ia ženklo du o ti
@@ -880,9 +753,4 @@ media_all_json: |-
     - t-193398
 
 ## Ryšiai
-- Priešai: [[objektai/asmenys/Kiška]]
-- Turėjo priklausinį: [[objektai/daiktai/Malūnas]], [[objektai/daiktai/Namas]]
-- Mikalojus Radvila buvo valdovas [[objektai/vietos/Nesvyžius]], [[objektai/vietos/Olyka]]
-- Mikalojus Radvila keliavo į [[objektai/vietos/Skitija]], [[objektai/vietos/Viena]]
-- Mikalojus Radvila dalyvavo mūšyje [[objektai/ivykiai/Jerim Berdžio iškėlimas ir Mikalojus Radvilos laimėtas mūšis netoli Volgos (1419 m.)]]
-- Mikalojus Radvila rėmė [[objektai/asmenys/Martynas iš Golino]]
+- Turėjo priklausinį: [[objektai/daiktai/Malūnas]]

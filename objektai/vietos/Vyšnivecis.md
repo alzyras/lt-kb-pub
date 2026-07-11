@@ -32,17 +32,6 @@ media_all_json: |-
 - t-001
   global_id: t-77707
   teiginys: "Vyšnivecis buvo viena iš Vyšnioveckių tėvonijų Voluinėje."
-  semantiniai_rysiai: "Vyšnivecis priklausė Vyšnioveckiai (0.88); Vyšnivecis priklausė Voluinė (0.70)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "80994-81613; hash=c9302fe593d57dc48e2a927d98afd8fc86ec89ce6dd12878cb373b4fcd14a15e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Vyšnioveckiai: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vyšnivecis: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Vyšnioveckiai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Vyšnivecis buvo Vyšnioveckių tėvonija."
   pagrindžia:
     - c-24609
 
@@ -50,17 +39,6 @@ media_all_json: |-
 - t-002
   global_id: t-77708
   teiginys: "Vyšnioveckiai sukūrė tėvoniją Vyšnivecyje, Voluinėje."
-  semantiniai_rysiai: "Vyšnioveckiai valdė teritoriją Vyšnivecis (0.82); Vyšnivecis priklausė Voluinė (0.70)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "80742-81481; hash=b2b71025f4ae7a5478bbe67d16681ba03846bf2a0861550b621e85ff24acdac3; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde_teritorija -> Vyšnivecis: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vyšnioveckiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vyšnivecis: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Vyšnioveckiai nurodyti kaip sukūrę tėvoniją, kurios vieta pateikta kaip Vyšnivecis."
   pagrindžia:
     - c-75043
 ## Reikšmingi paminėjimai
@@ -78,8 +56,8 @@ media_all_json: |-
     Daugybė senovės imperijų žlugo palikdamos apie save tautų kalėjimų
     atminimą, o tos, kurios nežlugo, virto tautų lydymosi katilais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -103,8 +81,8 @@ media_all_json: |-
     prastai reikšmingą vaidmenį suvaidinę riurikaitiškos, taigi „ukrainietiš-
     kos“ kilmės kunigaikščiai Ostrogiškiai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -159,7 +137,3 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-77708
-
-## Ryšiai
-- Buvo valdoma: [[objektai/grupes/Vyšnioveckiai]]
-- Vyšnivecis priklausė [[objektai/vietos/Voluinė]], [[objektai/grupes/Vyšnioveckiai]]

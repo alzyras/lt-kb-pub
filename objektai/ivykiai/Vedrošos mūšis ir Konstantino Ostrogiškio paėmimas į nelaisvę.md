@@ -42,19 +42,6 @@ Nenurodyta
 - t-001
   global_id: t-185539
   teiginys: "Prieš Vedrošos mūšį žvalgai pranešė, kad priešo jėgos įsitvirtinusios abiejuose Vedrošos krantuose."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "989398-990024; hash=6eedce4629cd63d2f5ea6ce8e4d693b708ab1b47477cd9b1d7b7c9966f9edc49; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Viena: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vedrošos mūšis ir Konstantino Ostrogiškio paėmimas į nelaisvę (mūšis): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Viena: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vedrošos mūšis ir Konstantino Ostrogiškio paėmimas į nelaisvę (mūšis)\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-168900
 
@@ -62,19 +49,6 @@ Nenurodyta
 - t-002
   global_id: t-185540
   teiginys: "Vedrošos mūšyje į nelaisvę pateko Konstantinas Ostrogiškis, Stanislovas Kiška, Grigalius Astikas, Litavaras Chreptavičius, Mikalojus Glebavičius ir Mikalojus Zenovjevičius."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "990517-991229; hash=ea1ef9b0e7e0ec8dc863e80cd8db87b0ec2bd6d67eb17a172308847a0fb2089a; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vedrošos mūšis ir Konstantino Ostrogiškio paėmimas į nelaisvę (mūšis): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vedrošos mūšis ir Konstantino Ostrogiškio paėmimas į nelaisvę (mūšis)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-168901
 
@@ -82,20 +56,6 @@ Nenurodyta
 - t-003
   global_id: t-185541
   teiginys: "Po Vedrošos mūšio nelaisvės ar mirties išvengė Ivanas Jacyničius, Jurgis Valavičius, Teodoras Nemyra ir Bogdanas Maskevičius."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Bogdanas Maskevičius dalyvavo mūšyje Vedrošos mūšis ir Konstantino Ostrogiškio paėmimas į nelaisvę (mūšis) (0.82); Teodoras Nemyra dalyvavo mūšyje Vedrošos mūšis ir Konstantino Ostrogiškio paėmimas į nelaisvę (mūšis) (0.82)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "991230-991854; hash=a1c29f7acab991158f3f181cb64bb81f2423854280cc025bdc0240f0cfcc265d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "dalyvavo_musyje -> Vedrošos mūšis ir Konstantino Ostrogiškio paėmimas į nelaisvę (mūšis): 0.82"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Bogdanas Maskevičius: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vedrošos mūšis ir Konstantino Ostrogiškio paėmimas į nelaisvę (mūšis): llm_allowed_candidate, event"
-  ryšio_paaiskinimas: "Bogdanas Maskevičius minimas tarp pulkų vadų, išvengusių nelaisvės ar mirties po Vedrošos mūšio."
   pagrindžia:
     - c-168902
 ## Reikšmingi paminėjimai
@@ -117,8 +77,8 @@ Nenurodyta
     rimai, geriau parodyti narsą nei baimę, jeigu jau rei­
     kia pasirinkti vieną iš dviejų.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -158,8 +118,8 @@ Nenurodyta
     Chreptavičius, Naugarduko vaivada, Mikalojus Gleba-j
     vičius, Mikalojus Zenovjevičius.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -183,8 +143,8 @@ Nenurodyta
     stabdyti priešo žygį, jis įtaisė karo stovyklą Obolcuo-
     se.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -195,7 +155,8 @@ Nenurodyta
 - id: c-168900
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 559"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 559."
   citata_originali: |
     Šiek tiek pažygiavus, žvalgai pra­
     nešė, jog didelės priešo jėgos tikrai įsitvirtinusios abie­
@@ -260,7 +221,8 @@ Nenurodyta
 - id: c-168902
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 560"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 560."
   citata_originali: |
     Išvengė nelaisvės ar
     mirties vos vienas kitas: Ivanas Jacyničius, Jurgis Va­
@@ -281,6 +243,3 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-185541
-
-## Ryšiai
-- Turėjo dalyvį: [[objektai/asmenys/Bogdanas Maskevičius]], [[objektai/asmenys/Teodoras Nemyra]]

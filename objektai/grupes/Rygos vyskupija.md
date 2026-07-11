@@ -44,20 +44,6 @@ media_all_json: |-
 - t-001
   global_id: t-41134
   teiginys: "1559 m. Livonijos ordinas ir Rygos vyskupija paprašė Lietuvos globos ir tapo LDK protektoratu."
-  semantiniai_rysiai: "Rygos vyskupija priklausė Lietuva (0.78); Livonijos ordinas priklausė Lietuva (0.78)"
-  temporaliniai_duomenys: "įvykio data: 1559 m.; įvykio data: 1560 m.; įvykio data: 1561 m.; įvykio data: 1572 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nusako Rygos vyskupijos veiksmą ir statusą, citata tai tiesiogiai patvirtina."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "356453-356818; hash=e4776a46cfc66381ed28d3d40899945c3b17464f5ef11cac869df59fd02c34f6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Lietuva: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Rygos vyskupija: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys nurodo, kad Rygos vyskupija tapo LDK protektoratu, todėl siejama su Lietuvos globa."
   pagrindžia:
     - c-44843
 - susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė.md#claim-t-169699|Lietuvos Didžioji Kunigaikštystė]]: 1559 m. Livonijos ordinas ir Rygos vyskupija paprašė Lietuvos globos ir tapo LDK protektoratu.
@@ -74,8 +60,8 @@ media_all_json: |-
     Ištrauka iš popiežiaus diplomato Fulvio Ruggieri (1572 m.) aprašymo apie Lenkijos ir
     Lietuvos kariuomenių struktūrą:
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -101,6 +87,3 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-41134
-
-## Ryšiai
-- Rygos vyskupija priklausė [[objektai/vietos/Lietuva]], [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė]]

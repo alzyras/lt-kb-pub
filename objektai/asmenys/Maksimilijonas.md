@@ -33,12 +33,6 @@ Pirmasis kandidatas į sostą dabar buvo imperatoriaus Rudolfo brolis Maksimilij
 - t-001
   global_id: t-185970
   teiginys: "Pasak to meto rašytojų, viešoji nuomonė imperatorių Maksimilijoną laikė svarbiausiu karo kurstytoju."
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1103153-1103656; hash=de0eeceb2f9fe4f80751590505716c310c2bcb4f153232749f2dc618fa024ed3; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-169331
 
@@ -46,12 +40,6 @@ Pirmasis kandidatas į sostą dabar buvo imperatoriaus Rudolfo brolis Maksimilij
 - t-002
   global_id: t-185971
   teiginys: "Prieš mūšį Čeliadninas laišku klausė imperatoriaus Maksimilijono, ką daryti su būsimu belaisviu karaliumi Žygimantu."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1118878-1119463; hash=667dc743e93991482f6a6c8a9b0c056913c6b479dbe0b01d1a365b5b9765d5bd; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-169332
 
@@ -59,12 +47,6 @@ Pirmasis kandidatas į sostą dabar buvo imperatoriaus Rudolfo brolis Maksimilij
 - t-003
   global_id: t-185972
   teiginys: "Imperatorius Maksimilijonas netoli Halės jėga atėmė iš karaliaus žygūnų keturiolika maskvėnų belaisvių ir grąžino juos į Maskvą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1126845-1127297; hash=7ded309e7b0772fa27968c55ae512d73be53735e286c5e6e4a7a4576286c73b9; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-169333
 
@@ -72,12 +54,6 @@ Pirmasis kandidatas į sostą dabar buvo imperatoriaus Rudolfo brolis Maksimilij
 - t-004
   global_id: t-185973
   teiginys: "Maksimilijonas, bijodamas Žygimanto ir Stepono kariuomenių, pradėjo ieškoti kelių taikiam susitarimui."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1127173-1127999; hash=e4140151a8910c043ca4848f23bb67f5a0e8c685d54cc7bca322fe9e294bae43; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-169334
 
@@ -85,12 +61,6 @@ Pirmasis kandidatas į sostą dabar buvo imperatoriaus Rudolfo brolis Maksimilij
 - t-005
   global_id: t-185974
   teiginys: "Maskvos didikai rėmėsi Maksimilijono ir Suleimano laiškais, teigdami, kad Maskvos didysis kunigaikštis tituluojamas caru."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1235261-1235699; hash=d36f1b23e3aa350a7bcc2d9c9ea4af47a13d5d687ea31fb2267fbeff491ec0b2; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-169335
 
@@ -98,12 +68,6 @@ Pirmasis kandidatas į sostą dabar buvo imperatoriaus Rudolfo brolis Maksimilij
 - t-006
   global_id: t-185975
   teiginys: "Kotryna, pasiųsta pas imperatorių Maksimilijoną, susirgo kelionėje ir mirė."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1331603-1331978; hash=12181bd3ae1091347f1099868bf7993ef9e333740c255b1d2babf69a1a7f3dda; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-169336
 
@@ -111,12 +75,6 @@ Pirmasis kandidatas į sostą dabar buvo imperatoriaus Rudolfo brolis Maksimilij
 - t-007
   global_id: t-193487
   teiginys: "Pasak to meto rašytojų, viešoji nuo monė svarbiausiu ir beveik vieninteliu karo kurstyto ju laikė vis dėlto imperatorių Maksimilijoną."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1103153-1103656; hash=de0eeceb2f9fe4f80751590505716c310c2bcb4f153232749f2dc618fa024ed3; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-169331
 
@@ -124,12 +82,6 @@ Pirmasis kandidatas į sostą dabar buvo imperatoriaus Rudolfo brolis Maksimilij
 - t-008
   global_id: t-193488
   teiginys: "Jam už teko įžūlumo, nė nebandžius sėkmės kovos lauke, laiš ku paklausti imperatorių Maksimilijoną, ką turėtų daryti su nelaisvėn paimtuoju karaliumi Žygimantu, ku rį, be abejonės, jam netrukus sukaustytą atvešią."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1118878-1119463; hash=667dc743e93991482f6a6c8a9b0c056913c6b479dbe0b01d1a365b5b9765d5bd; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-169332
 
@@ -137,12 +89,6 @@ Pirmasis kandidatas į sostą dabar buvo imperatoriaus Rudolfo brolis Maksimilij
 - t-009
   global_id: t-193489
   teiginys: "Tačiau imperatorius Maksimilijonas netoli Halės jėga juos at ėmė iš karaliaus žygūnų ir pagarbiai sugrąžino atgal į Maskvą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1126845-1127297; hash=7ded309e7b0772fa27968c55ae512d73be53735e286c5e6e4a7a4576286c73b9; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-169333
 
@@ -150,12 +96,6 @@ Pirmasis kandidatas į sostą dabar buvo imperatoriaus Rudolfo brolis Maksimilij
 - t-010
   global_id: t-193490
   teiginys: "Maksimilijonas Im p e ra to riu s M a k sipadarė dėl savo senos draum ili jo n a s išsiža d a gystės su Vasilijumi."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1127173-1127999; hash=e4140151a8910c043ca4848f23bb67f5a0e8c685d54cc7bca322fe9e294bae43; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-169334
 
@@ -163,12 +103,6 @@ Pirmasis kandidatas į sostą dabar buvo imperatoriaus Rudolfo brolis Maksimilij
 - t-011
   global_id: t-193491
   teiginys: "Esą visų didžiausi pasaulyje valdovai, būtent ir Romos imperatorius, ir Rytų sulto nas, tituluoją Maskvos didįjį kunigaikštį caru, kaip rodo Maksimilijono bei Suleimano laiškai, adresuoti Va silijui Vasiljevičiui."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1235261-1235699; hash=d36f1b23e3aa350a7bcc2d9c9ea4af47a13d5d687ea31fb2267fbeff491ec0b2; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-169335
 
@@ -176,12 +110,6 @@ Pirmasis kandidatas į sostą dabar buvo imperatoriaus Rudolfo brolis Maksimilij
 - t-012
   global_id: t-193492
   teiginys: "Kotryna, pasiųsta pas imperatorių Maksimilijoną, neišgyveno šitokio siel varto: susirgusi, tiesa, veikiau siela nei kūnu, kelionėje mirė."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1331603-1331978; hash=12181bd3ae1091347f1099868bf7993ef9e333740c255b1d2babf69a1a7f3dda; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-169336
 ## Reikšmingi paminėjimai
@@ -201,8 +129,8 @@ Pirmasis kandidatas į sostą dabar buvo imperatoriaus Rudolfo brolis Maksimilij
     Ispanijos karaliaus Pilypo I dukters, rankos, o paėmęs
     į žmonas Transilvanijos kunigaikštytę.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -229,8 +157,8 @@ Pirmasis kandidatas į sostą dabar buvo imperatoriaus Rudolfo brolis Maksimilij
     visus kitus pulkus, Konstantino Ostrogiškio vedamus,
     išsiuntė prieš Čeliadniną.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -255,8 +183,8 @@ Pirmasis kandidatas į sostą dabar buvo imperatoriaus Rudolfo brolis Maksimilij
     išsiža d a
     gystės su Vasilijumi.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -291,8 +219,8 @@ Pirmasis kandidatas į sostą dabar buvo imperatoriaus Rudolfo brolis Maksimilij
     tu susitikti tokioje vietoje, kur galėtų draugiškai ap­
     tarti taikos sąlygas.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -313,8 +241,8 @@ Pirmasis kandidatas į sostą dabar buvo imperatoriaus Rudolfo brolis Maksimilij
     nas nepripažįstąs tos pagarbos, elgdamasis kitaip nei
     kiti valdovai?
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -334,8 +262,8 @@ Pirmasis kandidatas į sostą dabar buvo imperatoriaus Rudolfo brolis Maksimilij
     varto: susirgusi, tiesa, veikiau siela nei kūnu, kelionėje
     mirė.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -347,7 +275,8 @@ Pirmasis kandidatas į sostą dabar buvo imperatoriaus Rudolfo brolis Maksimilij
 - id: c-169331
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 620"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 620."
   citata_originali: |
     Nors pastarasis kaltini­
     mas ir ne visai išgalvotas, tačiau taip išpūstas, kad
@@ -398,7 +327,8 @@ Pirmasis kandidatas į sostą dabar buvo imperatoriaus Rudolfo brolis Maksimilij
 - id: c-169333
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 633"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 633."
   citata_originali: |
     Karalius bei karalienė, iškilmingai Vilniuje per mišias
     padėkoję viešpačiui dievui už pergalę, pasiuntė Ro­
@@ -424,7 +354,8 @@ Pirmasis kandidatas į sostą dabar buvo imperatoriaus Rudolfo brolis Maksimilij
 - id: c-169334
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 633"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 633."
   citata_originali: |
     Be abejo, šitai jis
     Im p e ra to riu s
@@ -460,7 +391,8 @@ Pirmasis kandidatas į sostą dabar buvo imperatoriaus Rudolfo brolis Maksimilij
 - id: c-169335
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 693"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 693."
   citata_originali: |
     Maskvos didikų vardu atsakė to miesto vy­
     riausiasis dvasininkas. Esą visų didžiausi pasaulyje
@@ -482,7 +414,8 @@ Pirmasis kandidatas į sostą dabar buvo imperatoriaus Rudolfo brolis Maksimilij
 - id: c-169336
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 737"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 737."
   citata_originali: |
     Aiškiai šitokius ir kitokius daly­
     kus atskleidė imperatoriaus pasiuntinys, Pečo vyskupas,

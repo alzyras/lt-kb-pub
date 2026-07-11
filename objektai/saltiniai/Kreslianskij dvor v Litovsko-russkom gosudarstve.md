@@ -44,19 +44,6 @@ Leontovtč : Kreslianskij dvor v Litovsko-russkom gosudarstve (ŽMNPr, I, IV, X,
 - t-001
   global_id: t-31768
   teiginys: "F. I. Leontovičiaus „Kreslianskij dvor v Litovsko-russkom gosudarstve“ buvo skelbtas ŽMNPr 1896–1897 m."
-  temporaliniai_duomenys: "įvykio data: 1896-1897; įvykio data: 1897 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko bibliografinį faktą apie veikalo publikavimą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "244678-245092; hash=f6f4add1b4080618cc41312acbac0e7b6dd037e52c8b56c0efba2e7cc6628c38; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Zenonas Ivinskis: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kreslianskij dvor v Litovsko-russkom gosudarstve: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Zenonas Ivinskis: mention_match, author"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kreslianskij dvor v Litovsko-russkom gosudarstve\" parinktas kaip owner_note_path. Targetas \"Zenonas Ivinskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-33609
 ## Reikšmingi paminėjimai
@@ -72,8 +59,8 @@ Leontovtč : Kreslianskij dvor v Litovsko-russkom gosudarstve (ŽMNPr, I, IV, X,
     tovsko-russkom gosudarstve_** **(ŽMNPr, IX, 1905; V, 1907);** **_Očerki po istorii
     Litovsko-russkogo prava,_** **St.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -32,16 +32,6 @@ Netrukus pradėjo eiti „Vienybė Lietuvininkų" ir vargonininko Bačkausko Tam
 - t-001
   global_id: t-01017
   teiginys: "Vargonininkas Bačkauskas Tamošauskas redagavo laikraštį „Saulė“, kuris pradėjo eiti netrukus po „Vienybės Lietuvininkų“."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "1286285-1286603; hash=eab2eb4dc0adb94e7d02b24d17b225b2cf513e556a8a1e80c310e4a8e1ab9ad3; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Bačkauskas Tamošauskas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bačkauskas Tamošauskas\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-01255
 ## Reikšmingi paminėjimai
@@ -56,8 +46,8 @@ Netrukus pradėjo eiti „Vienybė Lietuvininkų" ir vargonininko Bačkausko Tam
     ninkų" ir vargonininko Bačkausko Tamošausko redaguojamoji
     „Sau1ė", kurios tebeina ir dabar.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

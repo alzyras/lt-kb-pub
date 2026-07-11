@@ -60,9 +60,6 @@ Nenurodyta
 - t-003
   global_id: t-179494
   teiginys: "Žemės darbui naudotas jaučių jungas, vėliau arklai su geležiniu noragu ir kiti geležiniai darbo įrankiai."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "380875-381499; hash=bfcdb5ac6aa57dad0209bf41cf0b6c39e5e4cadaedd83b2ef14ea3177f2d0e4a; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-31028
 ## Reikšmingi paminėjimai
@@ -81,8 +78,8 @@ Nenurodyta
     geležinius darbo įrankius (piautuvus, dalges, plačiaašmenius kirvius),
     buvo imta sėkmingiau ūkininkauti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

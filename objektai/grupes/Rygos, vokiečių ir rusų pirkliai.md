@@ -35,16 +35,6 @@ Vien tik Vytauto privilegi­ jos Rygos, vokiečių ir rusų pirkliams, liudijan�
 - t-001
   global_id: t-86822
   teiginys: "Vytauto privilegijos Rygos, vokiečių ir rusų pirkliams liudijo jo globą prekybai Vilniuje ir visoje šalyje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "305768-306491; hash=b741caecdb1d67a9a6b3492d0360e6c8931c1958ed093177b05d559192eadaeb; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Rusai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Rygos, vokiečių ir rusų pirkliai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Rusai: mention_match, group, gap=19"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rygos, vokiečių ir rusų pirkliai\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-82801
 ## Reikšmingi paminėjimai
@@ -66,8 +56,8 @@ Vien tik Vytauto privilegi­ jos Rygos, vokiečių ir rusų pirkliams, liudijan�
     Vladislovas Jogaila, kai po krikščionybės įvedimo krašto val­
     dymą buvo pavedęs Skirgailai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

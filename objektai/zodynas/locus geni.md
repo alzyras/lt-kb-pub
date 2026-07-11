@@ -42,16 +42,6 @@ Vartojama istoriografiniame ir romantinės pasaulėžiūros aptarimo kontekste.
 - t-001
   global_id: t-54813
   teiginys: "Vilniaus miesto istorijos rašymo tradicijos atsiradimas siejamas su locus geni akcentavimu romantinėje pasaulėžiūroje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "14670-15112; hash=222180eaaed1697ebec78c30666c8f004c1f633fd79c9d5364cf8ce1a3899ebc; match=whitespace_regex"
-  sprendimo_priezastis: "gap::vocabulary::validation_repair"
-  ryšio_patikimumas: "susije_su -> Aleksandras Balinskis: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "locus geni: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Aleksandras Balinskis: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"locus geni\" parinktas kaip owner_note_path. Targetas \"Aleksandras Balinskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-55823
 
@@ -59,16 +49,6 @@ Vartojama istoriografiniame ir romantinės pasaulėžiūros aptarimo kontekste.
 - t-001
   global_id: t-54813
   teiginys: "Vilniaus miesto istorijos rašymo tradicijos atsiradimas siejamas su locus geni akcentavimu romantinėje pasaulėžiūroje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "14670-15112; hash=222180eaaed1697ebec78c30666c8f004c1f633fd79c9d5364cf8ce1a3899ebc; match=whitespace_regex"
-  sprendimo_priezastis: "gap::vocabulary::validation_repair"
-  ryšio_patikimumas: "susije_su -> Aleksandras Balinskis: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "locus geni: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Aleksandras Balinskis: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"locus geni\" parinktas kaip owner_note_path. Targetas \"Aleksandras Balinskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-55823
 ## Reikšmingi paminėjimai
@@ -84,8 +64,8 @@ Vartojama istoriografiniame ir romantinės pasaulėžiūros aptarimo kontekste.
     kais. Kiekviena gatvė, bažnyčia, kalnas, rūmai ar vienuolynas
     turi savo praeitį, kuri užrašyta istoriniuose dokumentuose.
   citata_rodoma: ''
-  teiginio_tipas: interpretacija
   statusas: verified
+  teiginio_tipas: interpretacija
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

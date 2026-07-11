@@ -40,19 +40,6 @@ Atėnai: 2003 m. Lietuvos prezidentas Algirdas Brazauskas ir užsienio reikalų 
 - t-001
   global_id: t-26326
   teiginys: "2003 m. Atėnuose Algirdas Brazauskas ir Antanas Valionis pasirašė Lietuvos stojimo į Europos Sąjungą sutartį."
-  temporaliniai_duomenys: "įvykio data: 2003 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir paremtas citata."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "537336-537848; hash=9cb1924dee6caf325d9e22c110fce799f24d9210072ddf4274ea70f4d53ec8a0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Algirdas Brazauskas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Atėnai: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Algirdas Brazauskas: mention_match, person, gap=9"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Atėnai\" parinktas kaip owner_note_path. Targetas \"Algirdas Brazauskas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-26551
 
@@ -60,21 +47,6 @@ Atėnai: 2003 m. Lietuvos prezidentas Algirdas Brazauskas ir užsienio reikalų 
 - t-002
   global_id: t-188668
   teiginys: "Narbutas lietuvių gėrimą ratu lygina su Antikos Circumpotatio, kurią, jo teigimu, Solonas bandė išnaikinti Atėnuose."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "688930-689457; hash=5b8a55b519c3182465346b864d8e3c00c5113d768849a3d872b2c8efbb4531de; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lasickis: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Atėnai: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lasickis: mention_match, author"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Atėnai\" parinktas kaip owner_note_path. Targetas \"Lasickis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171557
 - susijęs iš [[objektai/asmenys/Antanas Valionis.md#claim-t-26432|Antanas Valionis]]: Antanas Valionis 2003 m. Atėnuose kartu su Algirdu Brazausku pasirašė Lietuvos stojimo į Europos Sąjungą sutartį.
@@ -102,8 +74,8 @@ Atėnai: 2003 m. Lietuvos prezidentas Algirdas Brazauskas ir užsienio reikalų 
     simais ir net paveikti ES sprendimus – ji turi savo komisarą, Europarla-
     mente – 12 europarlamentarų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -126,8 +98,8 @@ Atėnai: 2003 m. Lietuvos prezidentas Algirdas Brazauskas ir užsienio reikalų 
     vosi minėjimu mirusiųjų garbei: Lasickis iš savo žinių pateikia
     apeigų mirusiųjų garbei, atliekamų po Ilgių šventės, aprašymą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -183,6 +155,3 @@ Atėnai: 2003 m. Lietuvos prezidentas Algirdas Brazauskas ir užsienio reikalų 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188668
-
-## Ryšiai
-- Puolė Atėnai: [[objektai/asmenys/Malabatas]]

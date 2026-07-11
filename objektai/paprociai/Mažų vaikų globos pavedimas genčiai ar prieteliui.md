@@ -46,9 +46,6 @@ Nenurodyta
 - t-002
   global_id: t-07792
   teiginys: "Mirštantis tėvas mažų vaikų globą pavedė artimiausiam genčiui arba didžiausiam prieteliui."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "300274-300416; hash=890b383984e0992a615afdc75922bb4916fa48131980bd690c5a5047b7b09cd5; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
   pagrindžia:
     - c-09948
 ## Reikšmingi paminėjimai
@@ -59,8 +56,8 @@ Nenurodyta
     Mirdamas tėvas jei paliko mažus vaikus, tad pavedė jų globą savo visų artimiausiam genčiai ar
         visų didžiausiam prieteliui, ką darė tokiu būdu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

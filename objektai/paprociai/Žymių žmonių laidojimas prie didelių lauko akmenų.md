@@ -51,14 +51,6 @@ Nenurodyta
 - t-001
   global_id: t-194821
   teiginys: "Apie tai, kad, anot Vulfstano pasakojimo, senovės prūsai, panaudodami kažkokį dirbtinį šaldymą, mokėdavo keletą mė nesių išlaikyti namuose mirusių žmonių kūnus, bus rašoma kitame šio veikalo tome."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "661770-662156; hash=b66a95467448a58f398687d20d6cf36daa2a9711c0e2f126e3b5cb58787da67a; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-177217
 
@@ -66,14 +58,6 @@ Nenurodyta
 - t-002
   global_id: t-194822
   teiginys: "Kai kuriuos žymius žmones Lietuvoje kartais laidodavo prie didelių akmenų, esančių laukuose."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "661968-662336; hash=53922311d906092c4132561316b52c858421556bc5b33ce9e447fa0327e61356; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-177218
 ## Reikšmingi paminėjimai
@@ -91,8 +75,8 @@ Nenurodyta
     aptikti kapą prie didoko akmens žemėje, priklausančioje ma­
     no kaimeliui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -110,8 +94,8 @@ Nenurodyta
     kitų, kažkokio atmintino žmogaus kūnas; tai rodo senų laikų
     padavimai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -122,7 +106,8 @@ Nenurodyta
 - id: c-177217
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 373"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 373."
   citata_originali: |
     Apie tai, kad, anot Vulfstano pasakojimo, senovės prūsai,
     panaudodami kažkokį dirbtinį šaldymą, mokėdavo keletą mė­
@@ -142,7 +127,8 @@ Nenurodyta
 - id: c-177218
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 373"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 373."
   citata_originali: |
     Kai kuriuos žymius žmones Lietuvoje kartais laidodavo
     prie didelių akmenų, esančių laukuose. 1822 metais pasitaikė

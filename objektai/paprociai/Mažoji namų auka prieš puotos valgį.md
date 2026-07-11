@@ -45,14 +45,6 @@ Nenurodyta
 - t-001
   global_id: t-189808
   teiginys: "Narbutas mažąją namų auką aprašo kaip apeigą, kurią prieš kiekvieną puotos valgį atlikdavo namų šeimininkas, šeimos tėvas arba vyriausias dalyvis."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "542613-542918; hash=72378ef1767ce017927b74b6b8378c96831501a2b6a9e4cf9d0a312d8cc1e279; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172691
 ## Reikšmingi paminėjimai
@@ -68,8 +60,8 @@ Nenurodyta
     kus prie stalo, aukos atnašautojas atsistodavo pirmojoje vie­
     toje, tai yra per stalo vidurį, priešais lauko durų slenkstį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -80,7 +72,8 @@ Nenurodyta
 - id: c-172691
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 310"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 310."
   citata_originali: |
     1.
     M ažoji auka, kurią atnašaudavo namų šeimininkas, šei­

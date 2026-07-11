@@ -33,16 +33,6 @@ Dusburgietis teigia, kad apie Pakimos valsčiaus Sūduvos žemėje nusiaubimą T
 - t-001
   global_id: t-58602
   teiginys: "Po Pakimos nusiaubimo Konrado iš Tirbergo Jaunesniojo kariuomenė vakare perėjo užšalusį Nagutino ežerą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "518416-518937; hash=22bae81f27effc0c5794c5b00e891c7671f652b38fa276aaf83451054d9e94b2; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Nagutinas: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Konradas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Nagutinas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata nurodo Konrado kariuomenės judėjimą per Nagutino ežerą."
   pagrindžia:
     - c-59234
 - susijęs iš [[objektai/ivykiai/Pakimos valsčiaus nusiaubimas.md#claim-t-183952|Pakimos valsčiaus nusiaubimas]]: Konradas iš Tirbergo Jaunesnysis po Pakimos nusiaubimo su kariuomene vakare perėjo užšalusį Nagutino ežerą.
@@ -69,8 +59,8 @@ Dusburgietis teigia, kad apie Pakimos valsčiaus Sūduvos žemėje nusiaubimą T
 
          203 (198).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -81,7 +71,8 @@ Dusburgietis teigia, kad apie Pakimos valsčiaus Sūduvos žemėje nusiaubimą T
 - id: c-59234
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 164"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 164."
   citata_originali: |
     Apie Pakimos valsčiaus Sūduvos žemėje nusiaubimą
 
@@ -102,6 +93,3 @@ Dusburgietis teigia, kad apie Pakimos valsčiaus Sūduvos žemėje nusiaubimą T
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58602
-
-## Ryšiai
-- Buvo kelionės vieta: [[objektai/asmenys/Konradas iš Tirbergo Jaunesnysis]]

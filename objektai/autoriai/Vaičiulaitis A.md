@@ -41,9 +41,6 @@ Dusburgietis teigia, kad vaičiulaitis A.
 - t-001
   global_id: t-60807
   teiginys: "A. Vaičiulaitis parašė straipsnį „Vidurinių amžių poetas Machaut Lietuvoj“."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "818929-819040; hash=abd82636e646373f462ee616d8fdaebc06158aec6efe573ee14b403d1399ce37; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-61439
 ## Reikšmingi paminėjimai
@@ -55,8 +52,8 @@ Dusburgietis teigia, kad vaičiulaitis A.
     Vaičiulaitis A. Vidurinių amžių poetas Machaut Lietuvoj.— Suvažiavimo darbai, 1939,
     K., 1940, t. 3, p. 315—319.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -67,7 +64,8 @@ Dusburgietis teigia, kad vaičiulaitis A.
 - id: c-61439
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 278"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 278."
   citata_originali: |
     Vaičiulaitis A. Vidurinių amžių poetas Machaut Lietuvoj.— Suvažiavimo darbai, 1939,
     K., 1940, t. 3, p. 315—319.

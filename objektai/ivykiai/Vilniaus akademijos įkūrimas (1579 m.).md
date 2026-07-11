@@ -51,9 +51,6 @@ Nenurodyta
 - t-001
   global_id: t-66953
   teiginys: "Vilniaus akademijos įkūrimui Lietuvoje priešinosi protestantai didikai Radvila ir Valavičius, atsisakę spausti valstybinį antspaudą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "600204-600587; hash=1b92212a83508fa3750c59259081f2bb64eccabf755a76892647894f299b5896; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-67044
 
@@ -61,11 +58,6 @@ Nenurodyta
 - t-002
   global_id: t-66955
   teiginys: "1578 m. Vilniaus jėzuitams paprašius leisti įkurti akademiją, Steponas Batoras sutiko ir davė privilegijos raštą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "hash=9d9fe8cadb2bffe832623e3e4114ba4bef4b44e903cc44af1a61cf0eaba49450; match=normalized; occurrences=1"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-67043
 ## Reikšmingi paminėjimai
@@ -81,8 +73,8 @@ Nenurodyta
     atvykęs į Lietuvą (1579 m.). Netrukus akademijos įkūrimą pa-
     tvirtino ir popiežius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -99,8 +91,8 @@ Nenurodyta
     Bet Valavičius, karaliaus pagrasintas, kad iš jo būsiąs atimtas vice-
     kanclerio urėdas, nusileido ir prispaudė antspaudą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

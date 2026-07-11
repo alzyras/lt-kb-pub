@@ -41,18 +41,6 @@ STRIBAI Juozas Daumantas pasakoja apie stribus - sovietiniams okupantams talkinu
 - t-002
   global_id: t-40632
   teiginys: "Juozas Daumantas aprašė Tauro apygardos partizanų 1945 m. Kalėdų apsilankymą pas ūkininką, pasibaigusį susišaudymu."
-  temporaliniai_duomenys: "įvykio data: 1945 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "954600-955120; hash=2c93c8fecf1f707d39515dd558f0cd9ecb3caa6234ac21c0b99f3ab906c821e9; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Daumantas (kunigaikštis, XV a.): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Juozas Lukša-Daumantas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Daumantas (kunigaikštis, XV a.): mention_match, person, gap=7"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Juozas Lukša-Daumantas\" parinktas kaip owner_note_path. Targetas \"Daumantas (kunigaikštis, XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-42422
 
@@ -60,16 +48,6 @@ STRIBAI Juozas Daumantas pasakoja apie stribus - sovietiniams okupantams talkinu
 - t-001
   global_id: t-40634
   teiginys: "Juozas Daumantas rašė apie stribus, sovietiniams okupantams talkinusius kolaborantus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "905206-905537; hash=bbc57b04e60eaa329e1c7370696f6833057831bdc21c1d8424d11d2e57f7254d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Daumantas (kunigaikštis, XV a.): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Juozas Lukša-Daumantas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Daumantas (kunigaikštis, XV a.): mention_match, person, gap=7"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Juozas Lukša-Daumantas\" parinktas kaip owner_note_path. Targetas \"Daumantas (kunigaikštis, XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-44612
 
@@ -77,19 +55,6 @@ STRIBAI Juozas Daumantas pasakoja apie stribus - sovietiniams okupantams talkinu
 - t-003
   global_id: t-183697
   teiginys: "STRIBAI Juozas Daumantas pasakoja apie stribus - sovietiniams okupantams talkinusius kolaborantus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "905137-905467; hash=49af873086fffc8f5fffae935e8c8dbfca79bb233790ad1835403b099f5bcabc; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Daumantas (kunigaikštis, XV a.): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Juozas Lukša-Daumantas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Daumantas (kunigaikštis, XV a.): mention_match, person, gap=7"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Juozas Lukša-Daumantas\" parinktas kaip owner_note_path. Targetas \"Daumantas (kunigaikštis, XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-167087
 ## Reikšmingi paminėjimai
@@ -109,8 +74,8 @@ STRIBAI Juozas Daumantas pasakoja apie stribus - sovietiniams okupantams talkinu
     ištraukoje matyti, kokį pranašumą suteikia kulkosvaidžių šautuviniai šoviniai, prieš pis-
     toletų-kulkosvaidžių šovinius, kurių kulkos, sutikusios kliūtį, greitai praranda energiją.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -132,8 +97,8 @@ STRIBAI Juozas Daumantas pasakoja apie stribus - sovietiniams okupantams talkinu
     vardas yra verstinis iš rusiskojo — „istri-
     bitel“ - naikintojas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -157,8 +122,8 @@ STRIBAI Juozas Daumantas pasakoja apie stribus - sovietiniams okupantams talkinu
     dinamųjų „liaudies gynėjų“ - istrebitelių,
     paprastai žmonių stribais vadinamų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

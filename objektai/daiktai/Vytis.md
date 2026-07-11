@@ -61,21 +61,6 @@ Nenurodyta
 - t-003
   global_id: t-186858
   teiginys: "Komentare manoma, kad Vytis bent XIV a. antrojoje pusėje buvo Vilniaus žemės arba kunigaikštystės herbas."
-  teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Vytis priklausė Vilnius (0.86)"
-  temporaliniai_duomenys: "įvykio data: po 1384 m.; įvykio data: 1384 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys jau yra pilnas sakinys apie Vytį ir aiškiai palieka interpretaciją komentaro atribucijoje. Nepridėta papildomų detalių apie Algirdą ar Jogailą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "377504-377909; hash=6a9e2ee7e380aa651e332eaffba8102fae0789574982e14099f5a4602168db94; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
-  ryšio_patikimumas: "priklause -> Vilnius: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytis: llm_allowed_candidate, thing"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citatoje tiesiogiai sakoma, kad Vytis buvo Vilniaus žemės arba kunigaikštystės herbas."
   pagrindžia:
     - c-170042
 
@@ -83,18 +68,6 @@ Nenurodyta
 - t-001
   global_id: t-186859
   teiginys: "Atkuriant Lietuvos valstybę sovietinį Lietuvos SSR herbą pakeitė Vytis."
-  teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Vytis priklausė Lietuva (0.78)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "498752-499518; hash=1daae419ebbf021682d64f3574786a2bd7c7fe6b55064cc11eccfa2466d70388; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
-  ryšio_patikimumas: "priklause -> Lietuva: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytis: llm_allowed_candidate, thing"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Vytis tekste siejamas su atkuriama Lietuvos valstybe kaip herbo pakaitalas, todėl laikomas Lietuvos simboliu."
   pagrindžia:
     - c-170041
 
@@ -102,12 +75,6 @@ Nenurodyta
 - t-004
   global_id: t-193874
   teiginys: "Vytis buvo Vilniaus žemės arba ku nigaikštystės herbas, t."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "377504-377909; hash=6a9e2ee7e380aa651e332eaffba8102fae0789574982e14099f5a4602168db94; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-170042
 - susijęs iš [[objektai/asmenys/B. Kolyška.md#claim-t-40055|B. Kolyška]]: B. Kolyška norėjo su savo kariais vytis priešą, tačiau Z. Sierakauskas to neleido.
@@ -214,8 +181,8 @@ Nenurodyta
     Sąjūdį rėmė visa lietuvių tauta, jis buvo jos jėgos ir stiprybės šalti-
     nis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -233,8 +200,8 @@ Nenurodyta
     1384 m. suteikė teis«; antspauduoti Vyčiu visiems Gedimino giminės
     kunigaikščiams.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -274,7 +241,8 @@ Nenurodyta
 - id: c-170042
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 209"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 209."
   citata_originali: |
     Kalbama apie LDK herbą — Vyt). Manoma, kad anksčiausiai,
     bent XIV a. antrojoje pusėje. Vytis buvo Vilniaus žemės arba ku­
@@ -291,6 +259,3 @@ Nenurodyta
   pagrindzia:
     - t-186858
     - t-193874
-
-## Ryšiai
-- Vytis priklausė [[objektai/vietos/Lietuva]], [[objektai/vietos/Vilnius]]

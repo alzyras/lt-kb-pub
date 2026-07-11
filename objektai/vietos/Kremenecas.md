@@ -41,19 +41,6 @@ Bet dėl savo naujo sąmokslo su ordinu, kurio dalinys jau Maskvos žygio metu �
 - t-001
   global_id: t-32259
   teiginys: "Švitrigaila dėl naujo sąmokslo su ordinu buvo uždarytas į Kremeneco kalėjimą Volinijoje, iš kur pabėgo tik 1418 m."
-  temporaliniai_duomenys: "įvykio data: 1407 m.; įvykio data: 1418 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, faktinis ir tiesiogiai pagrįstas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "879811-880293; hash=93b17503720d31a5ee8b7eeca8a1469578e813e98c10a18eba2be82f777d8e20; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Abiejų Tautų Respublika: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kremenecas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Abiejų Tautų Respublika: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kremenecas\" parinktas kaip owner_note_path. Targetas \"Abiejų Tautų Respublika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-33900
 
@@ -61,19 +48,6 @@ Bet dėl savo naujo sąmokslo su ordinu, kurio dalinys jau Maskvos žygio metu �
 - t-002
   global_id: t-184990
   teiginys: "Karaliaus vadas Šafranecas prie Kremeneco smarkiai sumušė įsibrovėlius."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "765111-765697; hash=69b49aee3832a514175648a430ce17766fdd6624693c2582283fdad3806b5abc; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Luckas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kremenecas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Luckas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kremenecas\" parinktas kaip owner_note_path. Targetas \"Luckas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-168351
 - susijęs iš [[objektai/asmenys/Jurgis Narimantaitis.md#claim-t-186118|Jurgis Narimantaitis]]: Jurgis Narimantaitis, Algirdo brolėnas, valdė Kremenecą Rusioje.
@@ -102,8 +76,8 @@ Bet dėl savo naujo sąmokslo su ordinu, kurio dalinys jau Maskvos žygio metu �
     taikė su Didžiuoju Naugardu, kur, pačios respublikos prašymu,
     Vytautas grąžino sau ištikimą Lengvenį Algirdaitį^60.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -128,8 +102,8 @@ Bet dėl savo naujo sąmokslo su ordinu, kurio dalinys jau Maskvos žygio metu �
     drąsos, nei vilties, anaiptol, jų narsa rodėsi panaši į
     laukinių žvėrių įsiūtį.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -161,7 +135,8 @@ Bet dėl savo naujo sąmokslo su ordinu, kurio dalinys jau Maskvos žygio metu �
 - id: c-168351
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 436"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 436."
   citata_originali: |
     Abie­
     jų šalių pasiuntiniams ginči-
@@ -183,6 +158,3 @@ Bet dėl savo naujo sąmokslo su ordinu, kurio dalinys jau Maskvos žygio metu �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184990
-
-## Ryšiai
-- Kremenecas priklausė [[objektai/vietos/Volynija]]

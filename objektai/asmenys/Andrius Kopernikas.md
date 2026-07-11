@@ -47,19 +47,6 @@ Nenurodyta
 - t-001
   global_id: t-87483
   teiginys: "Andrius Kopernikas 1514 m. buvo Varmės kanauninkas, kuriam rašė Lenkijos karalius Žygimantas."
-  temporaliniai_duomenys: "įvykio data: 1514 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Antraštė citatoje pagrindžia asmens pareigas, datą ir ryšį su Žygimanto raštu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "718536-720466; hash=3e4d4b025888cbe8dcec547a4537c43e304cab47ae1b9dd91363887059f9caa7; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Andrius Kopernikas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=64"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Andrius Kopernikas\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-83462
 ## Reikšmingi paminėjimai
@@ -108,8 +95,8 @@ Nenurodyta
     rata atque firma fieret, fecimus impetrare a S-smo D-no Nost­
     ro confirmationem.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

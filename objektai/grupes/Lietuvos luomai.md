@@ -30,22 +30,6 @@ Vilniaus seime Lietuvos luomai aptarė ir patvirtino Piotrkove priimtus nutarimu
 - t-001
   global_id: t-185432
   teiginys: "Vilniaus seime Lietuvos luomai aptarė ir patvirtino Piotrkove priimtus nutarimus, taip patvirtindami senąją sąjungą su lenkais."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Lietuvos luomai buvo sąjungininkas su Lenkai (0.86)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "983748-984189; hash=96115e8da088466dee7a4b5bdbfbada6d6f55c05f2c7f5c2af7781687c01229a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sajungininkas_su -> Lenkai: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuvos luomai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lenkai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Teiginyje tiesiogiai sakoma, kad Lietuvos luomai patvirtino senąją sąjungą su lenkais."
-  vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-168793
 
@@ -53,19 +37,6 @@ Vilniaus seime Lietuvos luomai aptarė ir patvirtino Piotrkove priimtus nutarimu
 - t-002
   global_id: t-185433
   teiginys: "Lietuvos luomų vardu į Piotrkovo seimą balsuoti buvo pasiųsti Vaitiekus Taboras, Jonas Zaberezinskis ir Mikalojus Radvila."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1005052-1006214; hash=1e403642af14edef3c7ec9b1213cdd73141412c9ff25ea110ad9e23a7e426f79; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jonas Zaberezinskis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos luomai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Jonas Zaberezinskis: mention_match, person, gap=81"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos luomai\" parinktas kaip owner_note_path. Targetas \"Jonas Zaberezinskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-168794
 
@@ -73,19 +44,6 @@ Vilniaus seime Lietuvos luomai aptarė ir patvirtino Piotrkove priimtus nutarimu
 - t-004
   global_id: t-185435
   teiginys: "Dažni skitų žygiai į Lietuvos gilumą paskatino Lietuvos luomus geriau sutvirtinti Vilnių."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1035124-1035525; hash=ed1261d8b05a7ce9a0394ae071e1fca07296ba5b9279fefe4e2f82f226946262; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos luomai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos luomai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-168796
 
@@ -93,12 +51,6 @@ Vilniaus seime Lietuvos luomai aptarė ir patvirtino Piotrkove priimtus nutarimu
 - t-005
   global_id: t-193317
   teiginys: "Karaliaus ir luomų vardu jam šitaip buvo atsa kyta."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1028066-1028577; hash=3543b7769a66a6448c65b204d8b44a922dd2df37d264727aa77c5d26e9b2628b; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176045
 - susijęs iš [[objektai/ivykiai/Vilniaus lietuvių seimas ir prašymas skirti Simoną Olelkaitį vietininku (1461 m.).md#claim-t-185653|Vilniaus lietuvių seimas ir prašymas skirti Simoną Olelkaitį vietininku (1461 m.)]]: 1461 m. Vilniaus seime Lietuvos luomai pareiškė, kad visuomenė gali būti rami tik karaliui asmeniškai valdant Lietuvą.
@@ -125,8 +77,8 @@ Vilniaus seime Lietuvos luomai aptarė ir patvirtino Piotrkove priimtus nutarimu
     tybės archyvui, šitaip buvo patvirtinta senoji sąjunga
     su lenkais.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -168,8 +120,8 @@ Vilniaus seime Lietuvos luomai aptarė ir patvirtino Piotrkove priimtus nutarimu
     jeigu paskelbs Aleksandrą karaliumi, o sunaikintas,
     jeigu jį aplenks.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -199,8 +151,8 @@ Vilniaus seime Lietuvos luomai aptarė ir patvirtino Piotrkove priimtus nutarimu
     ir Aukštutinės, ir Žemutinės
     pilies sienas, visai nuo senumo beirsiančias.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -221,8 +173,8 @@ Vilniaus seime Lietuvos luomai aptarė ir patvirtino Piotrkove priimtus nutarimu
     kyta. Dėl visų negandų, kuriuos iki šiol esąs patyręs,
     turįs kaltinti ne ką kitą, bet patį save, Šich Achmetą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -233,7 +185,8 @@ Vilniaus seime Lietuvos luomai aptarė ir patvirtino Piotrkove priimtus nutarimu
 - id: c-168793
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 556"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 556."
   citata_originali: |
     Tuo tarpu Aleksandras, didžiai rūpindama­
     sis krikščionių sąjunga prieš turkus, nesitikėjo iš Mas­
@@ -328,7 +281,8 @@ Vilniaus seime Lietuvos luomai aptarė ir patvirtino Piotrkove priimtus nutarimu
 - id: c-176045
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 580"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 580."
   citata_originali: |
     Pakviestas į se­
     nato posėdį, jis, be galo išraiškingai kalbėdamas, nusi­
@@ -348,5 +302,4 @@ Vilniaus seime Lietuvos luomai aptarė ir patvirtino Piotrkove priimtus nutarimu
     - t-193317
 
 ## Ryšiai
-- Sąjungininkai: [[objektai/grupes/Lenkai]]
-- Lietuvos luomai gynė [[objektai/vietos/Livonija]], [[objektai/grupes/Teutonai]]
+- Lietuvos luomai gynė [[objektai/vietos/Livonija]]

@@ -30,21 +30,6 @@ Narbutas Ukmergės apskrities dainelę „Založym do san koniki“ pateikė kai
 - t-001
   global_id: t-189570
   teiginys: "Narbutas Ukmergės apskrities dainelę „Založym do san koniki“ pateikė kaip Dauguvos vardo kilmės iš „Dewine Upes“ aiškinimo pavyzdį."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "828810-829411; hash=8b49bfacef8a988cbe8719c5c9dbf5488e55d4d7e70e0832777b1371399fc59a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Dauguva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Založym do san koniki: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Dauguva: mention_match, place, gap=36"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Založym do san koniki\" parinktas kaip owner_note_path. Targetas \"Dauguva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172458
 ## Reikšmingi paminėjimai
@@ -75,8 +60,8 @@ Narbutas Ukmergės apskrities dainelę „Založym do san koniki“ pateikė kai
     Tobie siestruniu pięč zlotych pierscieni,
     A tobie bracie dziewaję Lolewkę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -36,16 +36,6 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
 - t-008
   global_id: t-95214
   teiginys: "Užnemunėje, citatoje tapatinamoje su Suvalkų kraštu, kaimai XIX a. išsiskirstė vienkiemiais."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "509984-510443; hash=0e2d84f46e7c7119cb9a0d1ee5121a475c025de28a5c3bc018798f231fd71368; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Suvalkai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Suvalkų kraštas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Suvalkai: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Suvalkų kraštas\" parinktas kaip owner_note_path. Targetas \"Suvalkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-46739
 
@@ -53,9 +43,6 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
 - t-006
   global_id: t-95216
   teiginys: "Dabartinis Suvalkų kraštas buvo kryžiuočių pasienio didžiulės girios dalis."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "343964-344416; hash=7213c5a951adad77b596fc687bfd1b850149fa91feb21f232d327d590f4754ea; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-90172
 
@@ -63,9 +50,6 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
 - t-007
   global_id: t-95217
   teiginys: "Lietuviškoji Užnemunė, apimanti Suvalkų kraštą, Prūsijos valdžioje priklausė Balstogės departamentui."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "904833-905066; hash=0ef79b20db1c81b5dcbee73a5f4ed0f68ac3af355b62d6b600cbd0d8fddbc9ef; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-90175
 
@@ -73,16 +57,6 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
 - t-009
   global_id: t-95219
   teiginys: "Suvalkų kraštas tada buvo beveik negyvenamas, apaugęs tankiais miškais, o į Prūsiją per jį ėjo tik du keliai."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "596038-596294; hash=b4dc60ef0b5005ec23e86bbfe3ce735a38377d84851d4d94360e9bf5d7fe6c97; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Prūsija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Suvalkų kraštas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Prūsija: mention_match, place, gap=76"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Suvalkų kraštas\" parinktas kaip owner_note_path. Targetas \"Prūsija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-90170
 
@@ -90,9 +64,6 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
 - t-005
   global_id: t-95220
   teiginys: "Šapokos redaguotoje „Lietuvos istorijoje“ svarstoma, kad Vytautas tikėjosi gauti Žemaičius ir Užnemunę (Suvalkų kraštą)."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "265358-265825; hash=d904f45558d462ae8e5e033171065a8b2e069e554257cef8508972a2d8181a79; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-90171
 
@@ -100,12 +71,6 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
 - t-010
   global_id: t-193234
   teiginys: "Jis greičiausiai nenorėjo leisti per daug laimėti lenkams, nes patsai, be Žemaičių ir Užnemunės (Suvalkų krašto), nieko daugiau nesitikėjo gauti."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "265432-265873; hash=ddeb3065a08f39b101131ffd0e2bdb96634bdd1d2a5822fdc59cd2132d58712d; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-175971
 ## Reikšmingi paminėjimai
@@ -122,8 +87,8 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
     mūsų laikų. Tik Užnemunėje (Suvalkų krašte) kaimai išsiskirstė
     vienkiemiais XIX amž., o kitur jie dar nebaigė skirstytis nė dabar.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -139,8 +104,8 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
     priklausančios rusų žemės — retai gyvenamos; taigi ir Vytauto
     dvarų juose buvo mažiau.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -160,8 +125,8 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
     nes patsai, be Žemaičių ir Užnemunės (Suvalkų krašto), nieko
     daugiau nesitikėjo gauti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -180,8 +145,8 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
     visas dabartinis Suvalkų kraštas, didesniosios Tauragės, Kre-
     tingos ir Telšių apskričių dalys.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -196,8 +161,8 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
     Jos visos buvo padalintos į Plocko ir Balstogės departamentus.
     Lietuviškoji Užnemunė priklausė Balstogės departamentui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -217,8 +182,8 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
     daugiau nesitikėjo gauti. Jam pasitraukus, turėjo atsitraukti ir
     Jogaila.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

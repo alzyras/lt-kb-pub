@@ -39,12 +39,6 @@ Nors ir patogio­ je padėtyje, ir išsistačiusi gražioje vietoje, dviejų upi
 - t-002
   global_id: t-88324
   teiginys: "Petro Olai Danų kronikoje pasakojama, kad apie 880 m. Danijoje dėl nederliaus įsakyta ištremti kas trečią žmogų."
-  temporaliniai_duomenys: "įvykio data: 880 m; įvykio data: apie 880 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
-  temporalinis_llm_pakomentavimas: "Citata palaiko aiškų faktą apie kronikoje aprašytą įvykį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "55503-56014; hash=ea7f60a70551b7c28d8a32d8fba3036b1dd00d8671f9561ef10cdec6269a8f1e; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-84304
 
@@ -52,12 +46,6 @@ Nors ir patogio­ je padėtyje, ir išsistačiusi gražioje vietoje, dviejų upi
 - t-003
   global_id: t-194213
   teiginys: "Nors ir patogio je padėtyje, ir išsistačiusi gražioje vietoje, dviejų upių santakoje: Vilijos, arba Neries5, ir Vilnios, vėliau pavadintos surašytos klausantis jų skaldų, bei šiaurės kronikos byloja ne apie vie ną tokį žygį."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "55047-55746; hash=0b5e27a538ef4e9c35cd2f410695e68873262fa539f499d534557e27a3a27ffe; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176815
 ## Reikšmingi paminėjimai
@@ -82,8 +70,8 @@ Nors ir patogio­ je padėtyje, ir išsistačiusi gražioje vietoje, dviejų upi
     Langebeck. Scriptor, rerum Danicarum.
     T. II.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -113,8 +101,8 @@ Nors ir patogio­ je padėtyje, ir išsistačiusi gražioje vietoje, dviejų upi
     žmogų išvaryti iš valsčiaus visiems
     laikams.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

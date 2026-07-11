@@ -41,19 +41,6 @@ media_all_json: |-
 - t-001
   global_id: t-88446
   teiginys: "Lietuvos Metrikos sąraše buvo raštai apie sklypą, kurį karalius Žygimantas apie 1510 m. nupirko Vilniaus vaistinės statybai."
-  temporaliniai_duomenys: "įvykio data: 1510 m.; įvykio data: apie 1510 m.; įvykio data: 1816 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
-  temporalinis_llm_pakomentavimas: "Citata pagrindžia faktą apie Metrikos raštus ir sklypo paskirtį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "545120-545812; hash=27bec5983c4d0fce0c700d5a74b10fc6bb32e2c4ba411cac0fb5bb1d020d8cca; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos Metrikos raštai dėl sklypo Vilniaus vaistinei: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos Metrikos raštai dėl sklypo Vilniaus vaistinei\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-84425
 ## Reikšmingi paminėjimai
@@ -84,8 +71,8 @@ media_all_json: |-
     Historyczne" Dziennik Wileński, 1816
     m.-T. IV, 1.251.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

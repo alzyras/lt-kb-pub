@@ -39,17 +39,6 @@ Pagal 1494.II.5 sutartį Chlepenis buvo pripažintas Maskvos Didžiajai Kunigaik
 - t-002
   global_id: t-187213
   teiginys: "Chlepenis lokalizuojamas apie 40 km į pietus nuo Rževo, prie Gžatės ir Vazuzos upių santakos."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "603237-603440; hash=fa560c6c74017b27dbcdfc2a5336abb38b66278c9b29773b8e1e9f49297cae97; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  ryšio_patikimumas: "susije_su -> Volga: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Chlepenis: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Volga: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Chlepenis\" parinktas kaip owner_note_path. Targetas \"Volga\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-170283
 
@@ -57,18 +46,6 @@ Pagal 1494.II.5 sutartį Chlepenis buvo pripažintas Maskvos Didžiajai Kunigaik
 - t-001
   global_id: t-187214
   teiginys: "Chlepenis aiškinamas kaip anuometinis Viazmos žemės miestas."
-  teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Chlepenis priklausė Viazma (0.80)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "603237-603440; hash=fa560c6c74017b27dbcdfc2a5336abb38b66278c9b29773b8e1e9f49297cae97; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  ryšio_patikimumas: "priklause -> Viazma: 0.80"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Chlepenis: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Viazma: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Chlepenis apibūdinamas kaip Viazmos žemės miestas, todėl atsargiai fiksuojamas priklausymo vietai ryšys."
   pagrindžia:
     - c-170283
 - susijęs iš Rohačevas: Rohačevas lokalizuojamas prie Chlepenio į pietus nuo Rževo.
@@ -90,8 +67,8 @@ Pagal 1494.II.5 sutartį Chlepenis buvo pripažintas Maskvos Didžiajai Kunigaik
     į pietus nuo Rževo, arti Gžatės Ir Vazuzos upių. Volgos intakų,
     santakos).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -118,6 +95,3 @@ Pagal 1494.II.5 sutartį Chlepenis buvo pripažintas Maskvos Didžiajai Kunigaik
   pagrindzia:
     - t-187214
     - t-187213
-
-## Ryšiai
-- Chlepenis priklausė [[objektai/vietos/Viazma]]

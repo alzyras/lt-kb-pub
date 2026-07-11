@@ -59,17 +59,6 @@ Nenurodyta
 - t-003
   global_id: t-66519
   teiginys: "Prūsai prie Pagansčių kaimo netikėtai užpuolė krikščionis iš dviejų pusių, nukovė dvylika brolių ir penkis šimtus vyrų."
-  semantiniai_rysiai: "Krikščionys dalyvavo mūšyje Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas (0.70)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "439276-440118; hash=a7fceb861f19c27ac10d013855a2fde98d8239a7dd3920df8f412293ce563e0b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "dalyvavo_musyje -> Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas: 0.70"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Krikščionys: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas: llm_allowed_candidate, event"
-  ryšio_paaiskinimas: "Krikščionys tiesiogiai minimi kaip užpultoji pusė mūšyje."
   pagrindžia:
     - c-66732
 
@@ -77,20 +66,6 @@ Nenurodyta
 - t-002
   global_id: t-66520
   teiginys: "Divano ir Linko puolimas Kulmo žemėje datuojamas 1271 m."
-  semantiniai_rysiai: "Divanas puolė Kulmas (0.80)"
-  temporaliniai_duomenys: "įvykio data: 1250 m.; įvykio data: 1265 m.; įvykio data: 1271 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys, paremtas citatos paaiškinimu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "436799-438839; hash=92096c7ee2e845b5e76446e061e948c17ba8e166ce75785a7ac6ac21806444e9; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Kulmas: 0.80"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Divanas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kulmas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai įvardija Divano puolimą Kulmo žemėje."
   pagrindžia:
     - c-66731
 
@@ -98,16 +73,6 @@ Nenurodyta
 - t-004
   global_id: t-66521
   teiginys: "Per Divano ir Linko puolimą Kristburgo pilyje buvo likę trys broliai, trys jų tarnai ir grandinėmis surakintas pamedėnas Sirenas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "439866-440634; hash=67bc6014db6fea3165e425fcd9d7fe1633ee0b7fa0ece119922bbeb5bcd827d3; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Divanas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Divanas: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas\" parinktas kaip owner_note_path. Targetas \"Divanas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-66734
 
@@ -115,19 +80,6 @@ Nenurodyta
 - t-001
   global_id: t-66522
   teiginys: "Divanas Klokinis ir Linkas su didele kariuomene įsibrovė į Kulmo žemę, o jų pajėgos patraukė prie Traupeino pilies."
-  temporaliniai_duomenys: "įvykio data: 1250 m.; įvykio data: 1265 m.; įvykio data: 1271 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalintas šaltinio boilerplate ir OCR triukšmas, paliktas citata paremtas faktas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "436799-438839; hash=92096c7ee2e845b5e76446e061e948c17ba8e166ce75785a7ac6ac21806444e9; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kulmas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Kulmas: mention_match, place, gap=59"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas\" parinktas kaip owner_note_path. Targetas \"Kulmas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-66731
 ## Reikšmingi paminėjimai
@@ -166,8 +118,8 @@ Nenurodyta
     stovi Marienburgo pilis, ir ligi Marienverderio salos, žudydami žmones, imdami juos  į
     nelaisvę ir degindami visa, kas pasitaikė kelyje.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -189,8 +141,8 @@ Nenurodyta
     visiškai sugriovė pamedėnų gyvenvietę bei  pilį424  ir brolių  papilį, vienus paimdami
     į nelaisvę, kitus išžudydami, išskyrus tuos, kurie suskubo pasprukti  į brolių pilį.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -210,8 +162,8 @@ Nenurodyta
     vieną prūsą, kuriam buvo pavesta saugoti 40 paimtų  į nelaisvę ir surištų krikščionių
     vaikų, šie vaikai subėgo į pilį ir išvengė amžinos vergovės.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -222,7 +174,8 @@ Nenurodyta
 - id: c-66731
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 136-137"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 136-137."
   citata_originali: |
     Apie dvylikos brolių ir penkių šimtų vyrų žūtį, apie Kristburgo miesto, pa­
          medėnų pilaitės ir brolių papilio sunaikinimą bei daugybės krikščionių žūtį
@@ -264,7 +217,8 @@ Nenurodyta
 - id: c-66732
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 137"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 137."
   citata_originali: |
     Šito įvykio išgąsdinti, raiteliai bei pėstininkai
     susijungė ir įsirengė stovyklą ant Zirgūnos upės kranto, o broliai su savo kariuomene
@@ -286,7 +240,8 @@ Nenurodyta
 - id: c-66734
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 137"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 137."
   citata_originali: |
     Pasprukusius persekiojo iki pat miesto, po neilgos apgulos smarkiai  jį užpuolė,
     visiškai sugriovė pamedėnų gyvenvietę bei  pilį424  ir brolių  papilį, vienus paimdami
@@ -303,6 +258,3 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-66521
-
-## Ryšiai
-- Turėjo dalyvį: [[objektai/grupes/Krikščionys]]

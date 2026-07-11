@@ -35,22 +35,6 @@ Kuchmeisteriui pareiškus, kad Lietuva nesilaikanti Torunės sutarties sąlygų,
 - t-001
   global_id: t-188929
   teiginys: "1364 metais kryžiuočiai sudegino Veliuoną ir sugriovė Veliuonos pilį."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Kryžiuočių ordinas puolė Veliuona (0.86); Kryžiuočių ordinas puolė Veliuonos pilis (0.84)"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "227466-227734; hash=c1ad1ae766350a5d2dbd8032c9b73486fa57e74a09359f4da409dd077e97ba4d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Veliuona: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Veliuona: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Veliuonos sudeginimas tiesiogiai rodo kryžiuočių karinį puolimą prieš miestą."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171818
 ## Reikšmingi paminėjimai
@@ -65,8 +49,8 @@ Kuchmeisteriui pareiškus, kad Lietuva nesilaikanti Torunės sutarties sąlygų,
     Veliuoną ir sugriovė pilį. Po to kunigaikštis Kęstutis pasisten­
     gė pilį iš naujo atstatyti ir sustiprinti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -77,7 +61,8 @@ Kuchmeisteriui pareiškus, kad Lietuva nesilaikanti Torunės sutarties sąlygų,
 - id: c-171818
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 130"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 130."
   citata_originali: |
     Vėliau, pagal 1331 metų rugsėjo 17
     dienos sutartį, sudarytą stovykloje prie Bartenšteino, tos pilys
@@ -90,6 +75,3 @@ Kuchmeisteriui pareiškus, kad Lietuva nesilaikanti Torunės sutarties sąlygų,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188929
-
-## Ryšiai
-- Puolė Veliuonos pilį (pilis): [[objektai/grupes/Kryžiuočių ordinas]]

@@ -34,14 +34,6 @@ media_all_json: |-
 - t-001
   global_id: t-193805
   teiginys: "Okupacinėms pajėgoms pradėjus dominuoti vietovėje, žaliukams teko įsirengti gerai užmaskuotas slėptuves."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "911044-911794; hash=4613f2e4bda230fecef71efe1b5f7add0c2645cd9db3d5dabd4e97b80ee47293; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-44243
 ## Reikšmingi paminėjimai
@@ -64,8 +56,8 @@ media_all_json: |-
     jei likdavo gyvi, ištremiami. Nenorėdami pakenkti savo rėmėjams, partizanai stengdavosi
     bunkerius įsirengti miške.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

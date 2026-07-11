@@ -41,16 +41,6 @@ Vytauto ir Mazovijos kunigaikščių iš vienos pusės ir kryžiuočių magist­
 - t-002
   global_id: t-87452
   teiginys: "Didysis magistras Paulius Rusdorfas atsiuntė kunigaikštienei Julijonai gydomųjų gėrimų."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "481102-481927; hash=4de902e0e2aeae062f7dcc1a62c9acf77a700f24393c687c7b771fa77a36b3d5; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "reme -> Julijona: 0.84"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Paulius Rusdorfas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Julijona: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Rusdorfas atsiuntė Julijonai gydomuosius gėrimus kaip paramą ligos kontekste."
   pagrindžia:
     - c-83431
 
@@ -58,17 +48,6 @@ Vytauto ir Mazovijos kunigaikščių iš vienos pusės ir kryžiuočių magist­
 - t-001
   global_id: t-87453
   teiginys: "Paulius Rusdorfas kaip kryžiuočių magistras dalyvavo taikos sutartyje su Vytautu ir Mazovijos kunigaikščiais."
-  semantiniai_rysiai: "Paulius Rusdorfas sudarė sutartį su Kryžiuočių ordinas (0.62)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "337040-337826; hash=cda003e60cb884ce9dc64769d832ee1d9f75f035773a8c8b22cabf3b7e10c5bc; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "sudare_sutarti_su -> Kryžiuočių ordinas: 0.62"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Paulius Rusdorfas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Rusdorfas sutarties kontekste veikia kartu su savo Ordinu; tiesioginiai kitos pusės asmenys nėra leistini kandidatai."
   pagrindžia:
     - c-83433
 
@@ -76,19 +55,6 @@ Vytauto ir Mazovijos kunigaikščių iš vienos pusės ir kryžiuočių magist­
 - t-003
   global_id: t-87454
   teiginys: "Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui Pauliui fon Rusdorfui už jai atsiųstus gėrimus."
-  temporaliniai_duomenys: "įvykio data: 1426 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Iš citatos išskirtas konkretus faktas apie Rusdorfą, pašalinant puslapio triukšmą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "483769-485414; hash=69cbe9edf1fb0c1915eb32ec3ebafccadae72ead45a05592f9b61e68ddc37c2e; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Rusdorfas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Paulius Rusdorfas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Rusdorfas: mention_match, person, gap=12"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Paulius Rusdorfas\" parinktas kaip owner_note_path. Targetas \"Rusdorfas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-83432
 
@@ -96,25 +62,6 @@ Vytauto ir Mazovijos kunigaikščių iš vienos pusės ir kryžiuočių magist­
 - t-004
   global_id: t-190960
   teiginys: "Narbutas Paulių Rusdorfą vadino kryžiuočių magistru, 1436 m. su Vladislovu Varniečiu sudariusiu pasienio konvenciją."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Rusia priklausė Lietuva (0.78)"
-  temporaliniai_duomenys: "priklausymo laikotarpis: 1436 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Rusia priklausė Lietuva“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas lietuviškas sakinys apie Paulių Rusdorfą ir aiškiai rodo Narbuto vartotą titulą. Nieko papildomo iš platesnio Rusios sienos konteksto nereikia pridėti."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "418877-419630; hash=9114756995267ce2f6701756ae1407f303937f8d9fa6791c3a1513c6478a8b0d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Lietuva: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Rusia: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad didesnė Rusios dalis laikėsi Lietuvos."
-  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173842
 ## Reikšmingi paminėjimai
@@ -146,8 +93,8 @@ Vytauto ir Mazovijos kunigaikščių iš vienos pusės ir kryžiuočių magist­
     i dwa skotcy [Vilniuje, birželio 9-ta
     diena, 2 indiktas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -195,8 +142,8 @@ Vytauto ir Mazovijos kunigaikščių iš vienos pusės ir kryžiuočių magist­
     ma sužinoti, kokia tai vieta), ties Vil­
     niumi, 1426 m. liepos 8-ą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -227,8 +174,8 @@ Vytauto ir Mazovijos kunigaikščių iš vienos pusės ir kryžiuočių magist­
     no ežero, tarp Radzino ir Rogoznos
     pilių, Šv.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -253,8 +200,8 @@ Vytauto ir Mazovijos kunigaikščių iš vienos pusės ir kryžiuočių magist­
     laikais, patekusi į kryžiuočių priklausomybę, išvengė pra­
     žūties, ištikusios kitą tautos dalį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -381,7 +328,8 @@ Vytauto ir Mazovijos kunigaikščių iš vienos pusės ir kryžiuočių magist­
 - id: c-173842
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 237"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 237."
   citata_originali: |
     Laikui bėgant, Rusios kraštas
     patyrė įvairių pokyčių, galop kryžiuočių laikais tapo be­
@@ -403,6 +351,3 @@ Vytauto ir Mazovijos kunigaikščių iš vienos pusės ir kryžiuočių magist­
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190960
-
-## Ryšiai
-- Paulius Rusdorfas sudarė sutartį su [[objektai/grupes/Kryžiuočių ordinas]]

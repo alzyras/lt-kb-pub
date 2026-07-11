@@ -32,9 +32,6 @@ Dusburgietis teigia, kad karaliūnui, istorikui R.
 - t-001
   global_id: t-60779
   teiginys: "S. Karaliūnas buvo vienas iš rankraščio recenzentų rengiant knygą spaudai."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "4333-4593; hash=2ef11291fddb134f5ddff25dd278170c817513ef309603ce415c4fb7e31092e6; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-61411
 ## Reikšmingi paminėjimai
@@ -47,8 +44,8 @@ Dusburgietis teigia, kad karaliūnui, istorikui R.
     S. Karaliūnui, istorikui R. Jasui, už dalykinius patarimus dėkojame filologei G. Blažienei,
     filol. m. dr. A. Vanagui ir visiems kitiems, padėjusiems rengti šią knygą spaudai.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -59,7 +56,8 @@ Dusburgietis teigia, kad karaliūnui, istorikui R.
 - id: c-61411
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 6"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 6."
   citata_originali: |
     Reiškiame nuoširdžią padėką rankraštį recenzavusiems akad. V. Mažiuliui, filol. m. k.
     S. Karaliūnui, istorikui R. Jasui, už dalykinius patarimus dėkojame filologei G. Blažienei,

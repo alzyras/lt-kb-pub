@@ -31,20 +31,6 @@ Kunigaikštis Vasilijus, gavęs žinią apie pralaimėjimą, paliko kariuomenę 
 - t-002
   global_id: t-185977
   teiginys: "Kunigaikštis Vasilijus, gavęs žinią apie pralaimėjimą, paliko kariuomenę prie Smolensko ir pabėgo į Maskvą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Vasilijus keliavo į Maskva (0.95)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1124983-1125445; hash=da98b5fe7895e9e276a9509b2d58aea6a182330d93df53d3c94ea295447df06a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Maskva: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vasilijus: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Maskva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo, kad Vasilijus pabėgo į Maskvą."
   pagrindžia:
     - c-169338
 
@@ -52,20 +38,6 @@ Kunigaikštis Vasilijus, gavęs žinią apie pralaimėjimą, paliko kariuomenę 
 - t-003
   global_id: t-185978
   teiginys: "Vasilijus primygtinai reikalavo, kad karaliaus pasiuntiniai atvyktų į Maskvą tęsti taikos derybų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Vasilijus siuntė į Maskva (0.72)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1153862-1154349; hash=af68fb120b22c76d5010abc1f6c7cff9f7af969780cfca77e81087f28b489c7e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "siunte_i -> Maskva: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vasilijus: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Maskva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Vasilijus reikalavo, kad karaliaus pasiuntiniai būtų nukreipti į Maskvą."
   pagrindžia:
     - c-169339
 
@@ -73,19 +45,6 @@ Kunigaikštis Vasilijus, gavęs žinią apie pralaimėjimą, paliko kariuomenę 
 - t-004
   global_id: t-185979
   teiginys: "Šešerių metų paliaubomis Vasilijus pasiliko Smolenską, bet atsisakė Smolensko didžiojo kunigaikščio titulo."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1162631-1163330; hash=a89212a20c8d1677e0465fee9e7e0f588faeb3c290c6805e05d6956d988fbfe3; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Smolenskas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vasilijus: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Smolenskas: mention_match, place, gap=19"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vasilijus\" parinktas kaip owner_note_path. Targetas \"Smolenskas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-169340
 
@@ -93,12 +52,6 @@ Kunigaikštis Vasilijus, gavęs žinią apie pralaimėjimą, paliko kariuomenę 
 - t-005
   global_id: t-193405
   teiginys: "Vasilijus įsakė surakinti Glinskį grandinėmis ir išvežti iš stovyklos."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1116124-1116399; hash=c56d16eb1283f7f289cdefaeef1bff01383650d12b7bb25bb05874666eb9a69e; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176127
 
@@ -106,12 +59,6 @@ Kunigaikštis Vasilijus, gavęs žinią apie pralaimėjimą, paliko kariuomenę 
 - t-006
   global_id: t-194004
   teiginys: "Vyriausias—Jogaila Vladislovas1 8 ; antras — Skirgaila1 9 , trečias — Švitrigaila3 0 , ketvir tas— Kaributas2 1 , penktas — Dimitrijus2 2 , Koreco ku nigaikštis 2 3 , šeštas — kunigaikštis Vasilijus 2 4 ."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "134480-134989; hash=579face7a171b39a607fe4b92be687b9f0b6cc6e9486e225e0fd949ffa5d371f; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176629
 - susijęs iš [[objektai/asmenys/Jonas Gornostajus.md#claim-t-186047|Jonas Gornostajus]]: Karalius pavedė Jonui Gornostajui, Lietuvos raštininkui, kartu su kitais pasiuntiniais vykti pas Vasilijų į Maskvą.
@@ -160,8 +107,8 @@ Kunigaikštis Vasilijus, gavęs žinią apie pralaimėjimą, paliko kariuomenę 
     pergalės be vargo buvo galima atsiimti ir tai, ką prie­
     šas užgrobė neseniai per išdavystę.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -186,8 +133,8 @@ Kunigaikštis Vasilijus, gavęs žinią apie pralaimėjimą, paliko kariuomenę 
     kai, Trakų vaivadai, Bogušui Bogovitinui, Lietuvos pa-
     iždininkiui, ir Jonui Gornostajui, raštininkui.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -215,8 +162,8 @@ Kunigaikštis Vasilijus, gavęs žinią apie pralaimėjimą, paliko kariuomenę 
     kirsiančios nepaprastus tei­
     sėjus, kurie ir teis kaimynystėje gyvenančius žmones.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -233,8 +180,8 @@ Kunigaikštis Vasilijus, gavęs žinią apie pralaimėjimą, paliko kariuomenę 
     atskleidė. Vasilijus įsakė surakinti Glinskį grandinėmis
     ir išvežti iš stovyklos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -255,8 +202,8 @@ Kunigaikštis Vasilijus, gavęs žinią apie pralaimėjimą, paliko kariuomenę 
     kuris valdė Trakus ir Žemaičių žemę, buvo šeši sū­
     nūs2 5 .
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -267,7 +214,8 @@ Kunigaikštis Vasilijus, gavęs žinią apie pralaimėjimą, paliko kariuomenę 
 - id: c-169338
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 632"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 632."
   citata_originali: |
     Surengęs stovykloje kareiviškas pamaldas ir pa­
     dėkojęs aukščiausiajam pergalių lėmėjui, Ostrogiškis
@@ -288,7 +236,8 @@ Kunigaikštis Vasilijus, gavęs žinią apie pralaimėjimą, paliko kariuomenę 
 - id: c-169339
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 647"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 647."
   citata_originali: |
     Apmalšinęs Prūsiją, karalius, tarpininkaujamas Sta­
     nislovo Daugirdo, susitarė su
@@ -314,7 +263,8 @@ Kunigaikštis Vasilijus, gavęs žinią apie pralaimėjimą, paliko kariuomenę 
 - id: c-169340
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 652"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 652."
   citata_originali: |
     Kad šitokiam tvirtini­
     mui nėra jokio pagrindo, tarpininkai puikiausiai ži­
@@ -343,7 +293,8 @@ Kunigaikštis Vasilijus, gavęs žinią apie pralaimėjimą, paliko kariuomenę 
 - id: c-176127
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 627"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 627."
   citata_originali: |
     Štai todėl, rūpestingai pagydy­
     tą ir atgavusį jėgas, jį pasiuntė atgal pas Pisoną. Tuo
@@ -382,4 +333,3 @@ Kunigaikštis Vasilijus, gavęs žinią apie pralaimėjimą, paliko kariuomenę 
 
 ## Ryšiai
 - Vasilijus keliavo į [[objektai/vietos/Maskva]]
-- Vasilijus siuntė į [[objektai/vietos/Maskva]]

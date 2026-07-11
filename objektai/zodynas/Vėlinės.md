@@ -30,14 +30,6 @@ Ta diena vadinasi Vėlinės bene dėl to, kad ją švęsdavo visas kai mas visie
 - t-001
   global_id: t-194788
   teiginys: "Ta diena vadinasi Vėlinės bene dėl to, kad ją švęsdavo visas kai mas visiems savo mirusiesiems pagerbti."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "689109-689563; hash=b8b50eb09140727cb2246d51e3304f7853a0b7c6b3d54b672452cc81e037a5c6; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-177184
 ## Reikšmingi paminėjimai
@@ -55,8 +47,8 @@ Ta diena vadinasi Vėlinės bene dėl to, kad ją švęsdavo visas kai mas visie
     Ta diena vadinasi Vėlinės bene dėl to, kad ją švęsdavo visas kai­
     mas visiems savo mirusiesiems pagerbti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -67,7 +59,8 @@ Ta diena vadinasi Vėlinės bene dėl to, kad ją švęsdavo visas kai mas visie
 - id: c-177184
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 386"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 386."
   citata_originali: |
     Tai visiškai primena Antikos žmonių
     Circumpotatio (gėrimą ratu), kurį su tokiomis pastangomis So-

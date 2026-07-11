@@ -36,12 +36,6 @@ Kadangi Lietuvos atstovai, LDK kanclerio Jono Goštauto va dovaujami, griežtai 
 - t-001
   global_id: t-194159
   teiginys: "Kadangi Lietuvos atstovai, LDK kanclerio Jono Goštauto va dovaujami, griežtai priešinosi lenkams, reikalaujantiem s pilnutinai sulieti Lietuvos valstybę su Lenkija, Kazimieras sutiko užimti Len kijos sostą iš esmės dviejų lygiateisių valstybių sąjungos arba."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "568199-568670; hash=c7d0e38db0542f6e1ba33c549227437c0ffd2d589c3c3f79839dd7fd6f6add39; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176772
 ## Reikšmingi paminėjimai
@@ -59,8 +53,8 @@ Kadangi Lietuvos atstovai, LDK kanclerio Jono Goštauto va dovaujami, griežtai 
     BK Kazimiero išrinkimas Lenkijos karaliumi atvaizduotas supras­
     tintai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

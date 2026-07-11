@@ -38,20 +38,6 @@ Antrasis laiškas yra paties Švitrigailos rašytas didžia­ jam magistrui iš 
 - t-001
   global_id: t-88511
   teiginys: "1432 m. rugsėjo 3 d. laiške iš Polocko Švitrigaila pranešė, kad Žygimantas ir Alšėnų kunigaikštis Simonas užpuolė jo dvarą Ašmenoje."
-  semantiniai_rysiai: "Švitrigaila keliavo į Polockas (0.86)"
-  temporaliniai_duomenys: "valdymo laikotarpis: 1432 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Švitrigaila buvo valdovas Alšėnai“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinė formuluotė nutrūkusi, o citata leidžia suformuoti pilną sakinį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "439369-439891; hash=96bde58f160f6a3d89e8dd2eccd55be7bde1997ed3bcb7f5d234af5e3cb62a79; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Ašmena: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Žygimantas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Ašmena: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad Žygimantas užpuolė Švitrigailos dvarą Ašmenoje."
   pagrindžia:
     - c-84490
 ## Reikšmingi paminėjimai
@@ -77,8 +63,8 @@ Antrasis laiškas yra paties Švitrigailos rašytas didžia­ jam magistrui iš 
     la pabėgęs į Smolenską, bet ne į Po­
     locką.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

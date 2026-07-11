@@ -34,16 +34,6 @@ Jo Ma­ lonybei Valdovui Didžiajam kuni­ gaikščiui pateikė monetų kalyklos
 - t-001
   global_id: t-86607
   teiginys: "Liutauras Chreptavičius didžiajam kunigaikščiui pateikė ketverių metų monetų kalyklos apskaitą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "481479-482584; hash=0125b4704f746daeb2dc5e619ebdcc9bf5f49466f3284351f9cad767f5f8a338; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Julijona: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "piniginiai vienetai ir apskaitos matai monetų kalykloje: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Julijona: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"piniginiai vienetai ir apskaitos matai monetų kalykloje\" parinktas kaip owner_note_path. Targetas \"Julijona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-82586
 ## Reikšmingi paminėjimai
@@ -81,8 +71,8 @@ Jo Ma­ lonybei Valdovui Didžiajam kuni­ gaikščiui pateikė monetų kalyklos
     grivenų ir 50 ir aštuonias grivenas
     ir du skatikus].
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

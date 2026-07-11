@@ -41,19 +41,6 @@ Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo chano Timuro gl
 - t-001
   global_id: t-30397
   teiginys: "Timuras iš pradžių globojo chaną Tochtamišą, bet 1391 m. jį sumušė."
-  semantiniai_rysiai: "Timuras puolė Tochtamišas (0.88); Timuras rėmė Tochtamišas (0.86)"
-  temporaliniai_duomenys: "įvykio data: 1391 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "858526-858759; hash=c15562ccfce0d17794bec5997a321d048415cfc543aec2be7d099ded80f1fc14; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Tochtamišas: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Timuras: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Tochtamišas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Timuras sumušė Tochtamišą."
   pagrindžia:
     - c-32812
 
@@ -61,16 +48,6 @@ Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo chano Timuro gl
 - t-002
   global_id: t-30398
   teiginys: "Timuras derybomis siekė laimėti laiko, nes laukė savo karo vado Edigos dalinių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "866662-866944; hash=9a70c3492e3fb594f6349abe80eac6dc3dfe524261eb87784a47623ea6905c14; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Ediga: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Timuras: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Ediga: mention_match, person, gap=64"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Timuras\" parinktas kaip owner_note_path. Targetas \"Ediga\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-32811
 - susijęs iš [[objektai/asmenys/Ediga.md#claim-t-30228|Ediga]]: Edigos dalinių laukęs Timuras derybomis siekė laimėti laiko prieš kautynes su Vytauto pajėgomis.
@@ -90,8 +67,8 @@ Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo chano Timuro gl
     vado Edigos dalinių. Šitaip rugpiučio 12 popietėje totorių kariuo­
     menės į kautynes stojo žymiai daugiau už Vytauto jėgas^34.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -105,8 +82,8 @@ Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo chano Timuro gl
     chano Timuro globojamas, vėliau (1391) buvo jo sumuštas. Kad
     ir atgavęs valdžią, Tochtamišas nesijautė saugus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -148,8 +125,3 @@ Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo chano Timuro gl
   patikimumo_saltinis: ai
   pagrindzia:
     - t-30397
-
-## Ryšiai
-- Timuras puolė [[objektai/asmenys/Tochtamišas]]
-- Timuras kariavo prieš [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Timuras rėmė [[objektai/asmenys/Tochtamišas]]

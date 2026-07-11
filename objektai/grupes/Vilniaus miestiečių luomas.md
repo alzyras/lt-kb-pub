@@ -70,16 +70,6 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 - t-001
   global_id: t-55077
   teiginys: "Balińskio vertinimu, Lietuvos miestiečių luomas vėlavo kartu su civilizacijos raida ir formavosi tik XIV amžiuje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "42351-42962; hash=213c1d2db0edcd42fe18ca29af98cab7a4210c6f3bc7afe8e23fa1bd14bcd51d; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> luomas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilniaus miestiečių luomas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "luomas: mention_match, thing, gap=11"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus miestiečių luomas\" parinktas kaip owner_note_path. Targetas \"luomas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-55892
 
@@ -87,16 +77,6 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 - t-002
   global_id: t-55078
   teiginys: "Balińskis Vilniaus miestiečių luomą kildino iš nelaisvųjų, svetimšalių kolonistų ir bajorų arba kunigaikščių tarnų grupių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "42351-42962; hash=213c1d2db0edcd42fe18ca29af98cab7a4210c6f3bc7afe8e23fa1bd14bcd51d; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Bajorai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilniaus miestiečių luomas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Bajorai: mention_match, group, gap=74"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus miestiečių luomas\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-55892
 
@@ -104,16 +84,6 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 - t-004
   global_id: t-55079
   teiginys: "Vokietijos, Rusios ir Livonijos amatininkai bei pirkliai tapo turtingiausiu Vilniaus gyventojų sluoksniu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "73001-73698; hash=bfceaaa04a453aef5133687f506e90fdccb651aa0b6209770fc78b596b3a9548; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilniaus miestiečių luomas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus miestiečių luomas\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-55893
 
@@ -121,17 +91,6 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 - t-005
   global_id: t-55080
   teiginys: "Algirdo laikais Vilniaus miestiečiai gavo privilegiją laisvai prekiauti visoje Lietuvos valstybėje nemokėdami muito."
-  semantiniai_rysiai: "Vilniaus miestiečių luomas prekiavo su Lietuva (0.91)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "93146-93648; hash=d03cd0d63b00ce75a45b7850bd579ec94fe842ba5d9b51645f45a8ec9292ebd1; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "prekiavo_su -> Lietuva: 0.91"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vilniaus miestiečių luomas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai teigia, kad Vilniaus miestiečiai turėjo teisę laisvai prekiauti visoje Lietuvos valstybėje."
   pagrindžia:
     - c-55894
 
@@ -139,17 +98,6 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 - t-006
   global_id: t-55081
   teiginys: "Vilniaus miestiečiai turėjo privilegiją laisvai prekiauti Lietuvos valstybėje nemokėdami muitų."
-  semantiniai_rysiai: "Vilniaus miestiečių luomas prekiavo su Lietuva (0.91)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "93146-93648; hash=d03cd0d63b00ce75a45b7850bd579ec94fe842ba5d9b51645f45a8ec9292ebd1; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "prekiavo_su -> Lietuva: 0.91"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vilniaus miestiečių luomas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai susieja Vilniaus miestiečius su prekyba Lietuvos valstybėje."
   pagrindžia:
     - c-55894
 
@@ -157,17 +105,6 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 - t-007
   global_id: t-55082
   teiginys: "Vilniaus pilininkas ir miestiečiai palaikė Jogailą prieš Kęstutį ir perdavė jam Žemutinę bei Aukštutinę pilis."
-  semantiniai_rysiai: "Vilniaus miestiečių luomas rėmė Jogaila (kunigaikštis, XIV–XV a.) (0.91)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "104742-105289; hash=9ffb588bef94cdf36a4fe08a98b3b32c9df7dcdc12a68408a0bd7d26355a3d68; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "reme -> Jogaila (kunigaikštis, XIV–XV a.): 0.91"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vilniaus miestiečių luomas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata aiškiai sako, kad miestiečiai buvo linkę palaikyti Jogailą."
   pagrindžia:
     - c-55895
 
@@ -175,16 +112,6 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 - t-008
   global_id: t-55083
   teiginys: "Karai ir dažnas karinės valdžios kišimasis silpnino Vilniaus miestiečiams suteiktų Magdeburgo teisių poveikį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "305934-306819; hash=fd0657809b45a2b02db33d96e87af76477d58f79c77f8d5ff3b97eea49546066; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilniaus miestiečių luomas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus miestiečių luomas\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-55896
 
@@ -192,16 +119,6 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 - t-009
   global_id: t-55084
   teiginys: "Vilniaus miestiečių luomui priklausė narystė Lietuvos suvažiavimuose arba seimuose."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "337255-337826; hash=aa28830f42e363fd570604372e6bdb0c0a77252ff1fa94cf1bf1f66a63e4ba83; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilniaus miestiečių luomas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=45"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus miestiečių luomas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-55897
 
@@ -209,18 +126,6 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 - t-010
   global_id: t-55085
   teiginys: "1424 m. Vytauto privilegijos atleido Vilniaus miestiečius nuo įvairių duoklių, bet jų naudą gavo Romos katalikai."
-  temporaliniai_duomenys: "įvykio data: 1424 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "342656-343265; hash=c06e9b1aa71bdbe9c19f6da6bc3c09e7686f106c50090a698ef36da28267e9f2; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilniaus miestiečių luomas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus miestiečių luomas\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-55898
 
@@ -228,17 +133,6 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 - t-011
   global_id: t-55086
   teiginys: "Vilniaus miestiečiai gaisro atveju privalėjo skubėti prie ugnies, o miesto gynybai turėti šarvus, muškietą ir ragotinę."
-  semantiniai_rysiai: "Vilniaus miestiečių luomas gynė Vilnius (0.88)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "519534-519981; hash=a65788e6c27ace1c6ae404d6ea561206331515ca58a5e8a710e939d7fb2d3e5b; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyne -> Vilnius: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vilniaus miestiečių luomas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai aprašo miestiečių pareigą pasirengti miesto gynybai."
   pagrindžia:
     - c-157208
 
@@ -246,16 +140,6 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 - t-012
   global_id: t-55087
   teiginys: "Vilniaus miestiečių saugumui ir gausėjimui bajorams buvo uždrausta iškelti iš miesto pavaldinius, kurie ten ramiai pragyveno šešerius metus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "522581-522922; hash=4edf11908944aece7fd318043ca2163dde546ff766451a2471981f15a65653ad; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Bajorai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilniaus miestiečių luomas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Bajorai: mention_match, group, gap=43"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus miestiečių luomas\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-55900
 
@@ -263,16 +147,6 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 - t-013
   global_id: t-55088
   teiginys: "Miesto taryba negalėjo įvesti naujų mokesčių be miestiečių leidimo."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "522581-522922; hash=4edf11908944aece7fd318043ca2163dde546ff766451a2471981f15a65653ad; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Bajorai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilniaus miestiečių luomas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Bajorai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus miestiečių luomas\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-55900
 
@@ -280,19 +154,6 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 - t-014
   global_id: t-55089
   teiginys: "1569 m. Vilniaus pasiuntiniai Liublino unijos seime pasirašė susivienijimo dekretą kartu su kitais LDK delegatais."
-  temporaliniai_duomenys: "įvykio data: 1569 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra tikslus ir paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "563443-564494; hash=fb9281892c5710c92b476e99ecd3d6ff1d530daef98996e394d641f5ba87dc5a; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Liublinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilniaus miestiečių luomas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Liublinas: mention_match, place, gap=22"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus miestiečių luomas\" parinktas kaip owner_note_path. Targetas \"Liublinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-55901
 
@@ -300,19 +161,6 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 - t-015
   global_id: t-55090
   teiginys: "1564 m. Žygimantas Augustas atribojo Vilniaus miestiečius nuo Antrojo Statuto galios ir suteikė daugiau bylinėjimosi laisvės pagal Magdeburgo teisę."
-  temporaliniai_duomenys: "įvykio data: 1564 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai perteikia citatoje minimą 1564 m. sprendimą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "563443-564494; hash=fb9281892c5710c92b476e99ecd3d6ff1d530daef98996e394d641f5ba87dc5a; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilniaus miestiečių luomas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus miestiečių luomas\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-55901
 
@@ -320,16 +168,6 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 - t-038
   global_id: t-172824
   teiginys: "Vilniaus burmistrai, tarybos nariai ir miestiečiai skundė vaitą dėl Magdeburgo teisės nesilaikymo ir privilegijų pažeidimų."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "605215-605898; hash=4a9b9c9b8bc9786f7d58b3a46ae2c195925fec1558f9c4f2759a93ab44a95e85; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Magdeburgo teisės: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilniaus miestiečių luomas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Magdeburgo teisės: mention_match, thing, gap=68"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus miestiečių luomas\" parinktas kaip owner_note_path. Targetas \"Magdeburgo teisės\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-157201
 
@@ -337,17 +175,6 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 - t-033
   global_id: t-172825
   teiginys: "Gaisro atveju kiekvienas Vilniaus miestietis privalėjo skubėti prie ugnies, o burmistrai turėjo vadovauti gesinimui."
-  semantiniai_rysiai: "Vilniaus miestiečių luomas gynė Vilnius (0.88)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "519534-519981; hash=a65788e6c27ace1c6ae404d6ea561206331515ca58a5e8a710e939d7fb2d3e5b; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyne -> Vilnius: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vilniaus miestiečių luomas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Miestiečių ginkluotės pareiga aiškiai susieta su miesto gynyba; kontekste tai Vilnius."
   pagrindžia:
     - c-157208
 
@@ -355,16 +182,6 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 - t-037
   global_id: t-172826
   teiginys: "Miestiečių luomas, dviejų paskutinių Jogailaičių iškeltas iki tikrų piliečių, valdant Steponui Batorui turėjo stiprų globėją."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "601358-602140; hash=80201b9c6a163fd89a9642bc5627981f2ca5388f080cf3bf2b70ed4b22ebe81b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jogailaičiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilniaus miestiečių luomas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Jogailaičiai: mention_match, group, gap=37"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus miestiečių luomas\" parinktas kaip owner_note_path. Targetas \"Jogailaičiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-157202
 
@@ -372,16 +189,6 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 - t-027
   global_id: t-172827
   teiginys: "Kazimieras dar būdamas didžiuoju kunigaikščiu atleido Vilniaus miestiečius nuo muito mokesčio visoje Lietuvoje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "457126-457981; hash=93d523c0a820e6b2271fcf71ce080bc12761288f5326aa677f32abcfe80266b2; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilniaus miestiečių luomas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=47"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus miestiečių luomas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-157200
 
@@ -389,16 +196,6 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 - t-031
   global_id: t-172828
   teiginys: "Vilniaus namų statyba teikė miestiečiams naudingos veiklos ir prisidėjo prie jų turtėjimo."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "478509-479180; hash=fe1e98862155f4d7e713b5989afad8ca63df61c8659ab05d8a69521bded495a9; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilniaus miestiečių luomas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus miestiečių luomas\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-157212
 
@@ -406,19 +203,6 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 - t-035
   global_id: t-172830
   teiginys: "1569 m. liepos 1 d. Liublino seime Vilniaus pasiuntiniai kartu su kitais LDK delegatais pasirašė susivienijimo dekretą."
-  temporaliniai_duomenys: "įvykio data: 1569 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra konkretus ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "563142-564009; hash=65601390c574c7d19256ebe6a58349e1e1a90929be541afc5fcae0b2009ca3be; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilniaus miestiečių luomas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus miestiečių luomas\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-157204
 
@@ -426,19 +210,6 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 - t-036
   global_id: t-172831
   teiginys: "Balińskis Liublino seimo ir 1564 m. sprendimus laikė aukščiausia Vilniaus ir Lietuvos miestiečių luomo teisių riba."
-  temporaliniai_duomenys: "įvykio data: 1564 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Tai autoriaus vertinimas, todėl reikia atribucijos ir aiškesnio subjekto."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "563443-564494; hash=fb9281892c5710c92b476e99ecd3d6ff1d530daef98996e394d641f5ba87dc5a; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilniaus miestiečių luomas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=12"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus miestiečių luomas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-55901
 
@@ -446,16 +217,6 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 - t-023
   global_id: t-172832
   teiginys: "Magdeburgo teisės ir iš Lenkijos miestų perimtos laisvės Vilniaus miestiečių luomui suteikė aukštesnę visuomeninę padėtį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "340127-340823; hash=40134da17301e25d568170f2c32b5f1ff9070c75b4df1ffb998d5f4e626bb3ed; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilniaus miestiečių luomas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus miestiečių luomas\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-157206
 
@@ -463,19 +224,6 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 - t-029
   global_id: t-172833
   teiginys: "1505 m. karalius atleido Vilniaus gyventojus nuo karo tarnybos vieneriems metams, kad jie apjuostų miestą mūro siena."
-  temporaliniai_duomenys: "valdymo laikotarpis: 1505 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „valdymo laikotarpis“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir aiškiai paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "471038-471633; hash=583a6ed76e6270e19ed0cd62a46ad6752c0ab9cef7373005ed06b03920fdf034; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Mūro sienos ir miesto sienos: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilniaus miestiečių luomas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Mūro sienos ir miesto sienos: mention_match, thing, gap=74"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus miestiečių luomas\" parinktas kaip owner_note_path. Targetas \"Mūro sienos ir miesto sienos\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-157190
 
@@ -483,16 +231,6 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 - t-018
   global_id: t-172834
   teiginys: "Vilniaus miestiečiai, palaikę Jogailą prieš Kęstutį, naktį sumušė Kęstučio įgulą ir perdavė Jogailai Žemutinę bei Aukštutinę pilis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "104659-105154; hash=eef6b6da4cc41a0b6bde47ae19bda4893764d3cdb8972eae225979ea85e435fe; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilniaus miestiečių luomas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): mention_match, person, gap=44"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus miestiečių luomas\" parinktas kaip owner_note_path. Targetas \"Kęstutis (vakarų pasienio valdovas, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-157193
 
@@ -500,19 +238,6 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 - t-030
   global_id: t-172835
   teiginys: "1506 m. totorių pabūgę Vilniaus miestiečiai, remiami vyskupo Vaitiekaus Taboro, apjuosė miestą mūro pylimu."
-  temporaliniai_duomenys: "įvykio data: 1506 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra gramatinis ir atitinka citatos turinį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "471975-472544; hash=513bc221d29ec79f2c0eacb4cc80ed09b7f9107a22dc0abac9a4250c2fc7a75a; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilniaus miestiečių luomas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus miestiečių luomas\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-157192
 
@@ -520,16 +245,6 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 - t-022
   global_id: t-172836
   teiginys: "Vilniaus miestiečių luomas turėjo nustatytą vietą Lietuvos seimuose ir dalyvavo krašto reprezentacijose."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "337032-337720; hash=693adef14ebac9fa8cb19c43a411e7142aa655463a1da08d8d892a79527ddad5; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilniaus miestiečių luomas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=50"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus miestiečių luomas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-157207
 
@@ -537,16 +252,6 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 - t-032
   global_id: t-172837
   teiginys: "Silpno charakterio karalius nepajėgė pasipriešinti turčių vyravimui ir suteikti daugiau laisvės Vilniaus miestiečių luomui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "484685-485044; hash=c258db940776478d75bf8878a1bf62265149a4bc2bf7e02ee10b5c9229694931; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilniaus miestiečių luomas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus miestiečių luomas\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-157194
 
@@ -554,19 +259,6 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 - t-028
   global_id: t-172839
   teiginys: "1451 m. Kazimieras atleido Magdeburgo teisei paklususius Vilniaus miestiečius nuo pastočių davimo."
-  temporaliniai_duomenys: "įvykio data: 1451 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys tikslus ir paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "457983-458418; hash=ac96f7d2847d65388a84ada4dd4b3ad59a315cc64d9360c49116c8a2be6a1697; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilniaus miestiečių luomas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus miestiečių luomas\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-157189
 
@@ -574,19 +266,6 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 - t-020
   global_id: t-172840
   teiginys: "Vilniaus gyventojai įvertino, kad gaisras didžiajam kunigaikščiui padarė iki 60 tūkstančių sidabro luitų žalą."
-  temporaliniai_duomenys: "įvykio data: 1399 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pagrindžia gyventojų vertinimą, bet ryšys su miestiečių luomu silpnesnis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "321550-322029; hash=b11f623b14971b2ef1f5872aa616707cbcb487ffd385a855ed67e79a41abe67e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilniaus gyventojai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilniaus miestiečių luomas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Vilniaus gyventojai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus miestiečių luomas\" parinktas kaip owner_note_path. Targetas \"Vilniaus gyventojai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-157209
 
@@ -594,16 +273,6 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 - t-026
   global_id: t-172841
   teiginys: "Nuolatiniai karai ir mokesčiai nuskurdino Vilniaus miestiečius, todėl jie nebegalėjo prekiauti su svetimšaliais."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "449429-450058; hash=1192240d3a29d70aec414d28d6af30a4ef23ad0cf2dcd520fee91880b62628f6; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilniaus miestiečių luomas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus miestiečių luomas\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-157197
 
@@ -611,19 +280,6 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 - t-017
   global_id: t-172842
   teiginys: "Iki Gedimino Vilniaus būsimo miesto užuomazgą sudarė palei Vilnią gyvenę lietuviai, vaidilos ir jų svitos žmonės."
-  temporaliniai_duomenys: "įvykio data: 1323 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys yra bendras svarstymo fragmentas, o citata leidžia konkretų faktą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "71847-72999; hash=acf14f9a3cd35b530c075c0013e0b6bacb42aaa2566ac59110f85bda23dc51aa; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vaidila: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilniaus miestiečių luomas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Vaidila: mention_match, person, gap=71"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus miestiečių luomas\" parinktas kaip owner_note_path. Targetas \"Vaidila\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-157191
 
@@ -631,16 +287,6 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 - t-016
   global_id: t-172844
   teiginys: "Vilniaus miestiečių luomas negalėjo išsiderėti daugiau laisvių, nes stokojo palankaus meto ir politinių sąlygų."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "44237-44930; hash=34a57a842af60791dccb6ac98611e31df3e5a3783fc1a0c680e97af0fa7b3f43; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilniaus miestiečių luomas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus miestiečių luomas\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-157195
 
@@ -648,16 +294,6 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 - t-025
   global_id: t-172845
   teiginys: "Žygimantas rugsėjo 23 d. suteikė Vilniaus miestiečiams teisę prekiauti ir be muitų gabenti prekes Lietuvos žemėse."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "441401-441948; hash=e718386710e088128f379d4afb0ebcd76248f46bc464dfc426ab604b8bfaf98e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilniaus miestiečių luomas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=65"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus miestiečių luomas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-157211
 
@@ -665,19 +301,6 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 - t-034
   global_id: t-172846
   teiginys: "1568 m. birželio 15 d. Gardino seimo sprendimas apsaugojo Vilniaus miestiečius nuo dvariškių ir pasiuntinių apgyvendinimo be miesto tarybos leidimo."
-  temporaliniai_duomenys: "įvykio data: 1568 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pagrindžia faktą, o sakinį reikėjo sutvarkyti."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "558298-558994; hash=ba20b5820158fd69bf992f485ed422de0a457e7046df99a037c4b94115209a96; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilniaus miestiečių luomas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus miestiečių luomas\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-157214
 
@@ -685,16 +308,6 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 - t-019
   global_id: t-172847
   teiginys: "Magdeburgo teisės Vilniaus miestiečiams buvo menkai paveikios dėl karų, baimės ir karinės valdžios kišimosi į miesto valdymą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "305934-306819; hash=fd0657809b45a2b02db33d96e87af76477d58f79c77f8d5ff3b97eea49546066; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilniaus miestiečių luomas: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus miestiečių luomas\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-55896
 
@@ -702,12 +315,6 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 - t-039
   global_id: t-194176
   teiginys: "Numanu, kad Magdeburgo tei sės, karaliaus suteiktos miestui, buvo ne itin paveikios ne tik dėl to, kad dar taip neseniai pakilę iš barbarybės miestiečiai prie jų buvo dar nepripratę, bet ir dėl nuolatinės baimės bei su maišties per tuos žiaurius karus ir."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "305934-306819; hash=fd0657809b45a2b02db33d96e87af76477d58f79c77f8d5ff3b97eea49546066; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-55896
 - susijęs iš [[objektai/asmenys/Steponas Batoras.md#claim-t-113976|Steponas Batoras]]: Vilniaus miestiečių luomas Steponą Batorą laikė stipriu globėju, kokiu vėliau netapo nė vienas karalius.
@@ -751,8 +358,8 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
     nepaisant visų privilegijų, šis luomas niekados neįgijo nei dide­
     lių turtų, nei ypatingo svorio.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -775,8 +382,8 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
     čių, manydami apsisaugosią nuo kryžiuočių, ieškojo prie­
     globsčio prie Vilniaus pilies.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -795,8 +402,8 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
     jo lankytis tolimose provincijose, kur artimiau susipažino su
     krikščioniškąja kultūra26.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -817,8 +424,8 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
     vai užėmęs, jeigu Kęstutis su stipriais pulkais iš Žemaitijos į
     pagalbą sūnui pagaliau nebūtų atvykęs.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -844,8 +451,8 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
     maišties per tuos žiaurius karus ir dažną karinės valdžios kiši­
     mąsi į municipalinius valdymo reikalus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -871,8 +478,8 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
     no ežero, tarp Radzino ir Rogoznos
     pilių, Šv.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -893,8 +500,8 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
     bet jokio persekiojimo miesto gyventojai dėl šito niekada ne­
     buvo patyrę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -911,8 +518,8 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
     ba, be tų pačių miestiečių leidimo, negalėjo įvesti jokių
     naujų mokesčių5.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -942,8 +549,8 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
     savo metu darė ir Žygimantas Senasis, paskelbdamas Pir­
     mąjį Statutą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -964,8 +571,8 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
     Kazimiero potvarkiai tikrai pagerino ištuštėjusios sostinės
     padėtį ir plėtė miestą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -987,8 +594,8 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
     tai penketą vartų: pirmuosius -Vilijos link, antruosius - prie
     kelio į Trakus, trečiuosius - palei Švč.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1023,8 +630,8 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
     įgyvendino savo dvariškius bei tarnus, žinoma, dar reikė­
     tų pridurti ir nemažai paimtų į nelaisvę lenkų bei rusinu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1050,8 +657,8 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
     mediniai rūmai, tikriausiai, skirti karaliaus ir Elenos bu­
     veinei*.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1076,8 +683,8 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
     pralaimėjęs mūšį, praradęs netoli Vilniaus tūkstantį žmo­
     nių, turėjo slėptis Trakų pilyje34.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1094,8 +701,8 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
     pno charakterio karalius negalėjo veiksmingai pasipriešinti
     turčių vyravimui ir duoti daugiau laisvės miestiečių luomui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1118,8 +725,8 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
     tiečiams nesuteikė nei progos, nei palankaus meto įgyti daugiau
     laisvių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1141,8 +748,8 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
     karų, išsekinti mokesčių, neturėjo jokių galimybių keistis pre­
     kėmis su svetimšaliais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1172,8 +779,8 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
     Černigovu32. Tapęs karaliumi, jis tą pačią privilegiją pritaikė
     visiems Vilniaus gyventojams, prekiaujantiems su Lenkija.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1196,8 +803,8 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
     didžiausias priešas, kurio priešiškumą greitai iš manęs pa­
     tirsite.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1222,8 +829,8 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
     panoro ne tik pripažinti jam senąjį įžymumą, bet padaryti
     dar ir naujų, amžiui priderančių, laisvių dalyviu72.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1257,8 +864,8 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
     vadavimu arba veikiau aukščiausia teisių veikimo riba, kurią
     pasiekė miestiečių luomas Vilniuje ir visoje Lietuvoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1288,8 +895,8 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
     pasitaikiusio karinės valdžios kišimosi į municipalinius rei­
     kalus, vis dėlto yra svarbi epocha Vilniaus istorijoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1317,8 +924,8 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
     ro Pauliaus Rusdorfo ir jo Ordino iš
     kitos pusės.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1341,8 +948,8 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
     kad bendromis lėšomis išlaikomos patrankos ir arkebuzos bū­
     tų gerai prižiūrimos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1362,8 +969,8 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
     kaip įkainojo patys Vilniaus gyventojai, siekė iki 60 tūkstan­
     čių sidabro luitų65 • .
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1387,8 +994,8 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
     laiške, datuotame 1432 metų rugpjū­
     čio 19 d. Ind.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1415,8 +1022,8 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
     vičius, turtingas įvairių nuomos mokesčių rinkikas daugelyje
     Lietuvos miestų nuo Vilniaus iki Smolensko49.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1444,8 +1051,8 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
     rų luomą ir įgijo teisę į visus pasaulietinius ir dvasinius ran­
     gus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -2181,8 +1788,5 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
     - t-172846
 
 ## Ryšiai
-- Rėmė Vilniaus miestiečių luomą: [[objektai/asmenys/Steponas Batoras]]
-- Vilniaus miestiečių luomas puolė [[objektai/grupes/Pranciškonų ordinas]]
-- Vilniaus miestiečių luomas gynė [[objektai/vietos/Vilnius]]
-- Vilniaus miestiečių luomas prekiavo su [[objektai/vietos/Lietuva]], [[objektai/vietos/Minskas]], [[objektai/vietos/Naugardukas]]
+- Vilniaus miestiečių luomas prekiavo su [[objektai/vietos/Lietuva]]
 - Vilniaus miestiečių luomas rėmė [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]

@@ -45,14 +45,6 @@ Nenurodyta
 - t-001
   global_id: t-189834
   teiginys: "Pasak Narbuto minimų padavimų, pūtikas žodžiais galėjęs sulaikyti kraują, tekantį iš perkirstos gyslos."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "521164-521433; hash=76969166305142f82f3c2e6db681ab3ae99fbfbf958fdd37116cce57d7479d39; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172717
 ## Reikšmingi paminėjimai
@@ -67,8 +59,8 @@ Nenurodyta
     Pasak padavimų, kuriais paprasti žmonės tiki iki šiol, pūtikas
     galėjo žodžiais sulaikyti kraują, tekantį iš perkirstos gyslos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -79,7 +71,8 @@ Nenurodyta
 - id: c-172717
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 298"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 298."
   citata_originali: |
     Pūtikai (Pustones)
     Ypatinga rūšis pranašautojų ir gydytojų, gydančių vien pū­

@@ -30,12 +30,6 @@ Kelyje pas kunigaikštį Žygimantą Jonas Goštautas užsuko pa sisvečiuoti pa
 - t-001
   global_id: t-194110
   teiginys: "Kelyje pas kunigaikštį Žygimantą Jonas Goštautas užsuko pa sisvečiuoti pas Voložino kunigaikščius, ir Voložine at ėjo žinia apie didžiojo kunigaikščio Žygimanto mirtį, ir Goštautas išskubėjo j Alšėnus6 pas kunigaikštį Jurgį Simonaitį Alšėniškį7 ."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "215886-216451; hash=789f37cce39af305ce45a3cb559388c998992747f131634c57639a6a9a1a45a3; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176723
 
@@ -43,12 +37,6 @@ Kelyje pas kunigaikštį Žygimantą Jonas Goštautas užsuko pa sisvečiuoti pa
 - t-002
   global_id: t-194111
   teiginys: "Ir ten Ponų Taryba — kunigaikštis Jurgis Alšėniškis, ir Vilniaus kaštelionas, 2emaičių seniūnas Kęsgailą, ir Jonas Goštautas, ir Mikalojus Nemiravičius, ir krašto maršalas Astikas 1 5 — pakėlė karalaitį Kazimierą į Lie tuvos didžiuosius kunigaikščius l6 ."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "217894-218403; hash=feb427e9cf7ba69af7cefcd286de078ab8e2b8a572c81a5a84566c276190262c; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176724
 ## Reikšmingi paminėjimai
@@ -69,8 +57,8 @@ Kelyje pas kunigaikštį Žygimantą Jonas Goštautas užsuko pa sisvečiuoti pa
     Vilniaus kaštelionui, Žemaičių seniūnui Kęsgailai, ir
     Mikalojui Nemiravičiui * , ir krašto maršalui Radvilai 9 .
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -91,8 +79,8 @@ Kelyje pas kunigaikštį Žygimantą Jonas Goštautas užsuko pa sisvečiuoti pa
     tuvos didžiuosius kunigaikščius l6 . Tuo metu jis turėjo
     ne daugiau, kaip trylika metų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

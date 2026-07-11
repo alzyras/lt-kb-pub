@@ -38,11 +38,6 @@ Arbusow : Römischer Arbeitsbericht (Acta Universitatis Latviensis) 1928, 386 p.
 - t-001
   global_id: t-31780
   teiginys: "L. Arbusowo „Römischer Arbeitsbericht“ 1928 m. išėjo „Acta Universitatis Latviensis“ leidinyje."
-  temporaliniai_duomenys: "įvykio data: 1928 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "637575-637887; hash=6deef7733c6abc63969ec0080d74f5f9347b34d4f55f4f5610a065f9beb329d6; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-33616
 ## Reikšmingi paminėjimai
@@ -58,8 +53,8 @@ Arbusow : Römischer Arbeitsbericht (Acta Universitatis Latviensis) 1928, 386 p.
     (^12) **K. Forstreuter :** **_Die Bekehrung des Litauerkönigs Gedimin,_** **(žr.
     bibliogr.) 157 p.**
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

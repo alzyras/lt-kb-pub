@@ -44,17 +44,6 @@ Savo dviejuose laiškuose jį vadina dominus Bonizlaus dux Masovie [Bonislavas, 
 - t-001
   global_id: t-87639
   teiginys: "Gedimino laiškų rašytojas dviejuose laiškuose Mazovijos kunigaikštį vadino Bonislavu, nors Balińskis tokio kunigaikščio nerado."
-  semantiniai_rysiai: "Bonislavas (Mazovijos kunigaikštis ) valdė Mazovija (0.62)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "218341-219107; hash=70a64932d19776a6b83f8593211ea86f63868f19d8b318aec65db7ef74595be3; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde -> Mazovija: 0.62"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Bonislavas (Mazovijos kunigaikštis ): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Mazovija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Titulinė formuluotė vadina Bonislovą Mazovijos kunigaikščiu, bet pats tekstas pabrėžia šio identifikavimo abejotinumą."
   pagrindžia:
     - c-83618
 ## Reikšmingi paminėjimai
@@ -77,8 +66,8 @@ Savo dviejuose laiškuose jį vadina dominus Bonizlaus dux Masovie [Bonislavas, 
     kyta randame (p. 989 ir 993) prie 1327 metų - Venceslaus,
     V aniek arba Vanko Masovie Dux, bet dar irVVigand Marb.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -111,6 +100,3 @@ Savo dviejuose laiškuose jį vadina dominus Bonizlaus dux Masovie [Bonislavas, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87639
-
-## Ryšiai
-- Bonislavas (Mazovijos kunigaikštis ) valdė [[objektai/vietos/Mazovija]]

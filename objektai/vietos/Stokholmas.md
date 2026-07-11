@@ -32,14 +32,6 @@ Rusai iš Vilniaus į Maskvą išvežė net brangius ponų rūmų baldus, o šve
 - t-001
   global_id: t-193279
   teiginys: "Rusai iš Vilniaus į Maskvą išvežė net brangius ponų rūmų baldus, o švedai vežėsi į Stokholmą net akademijos biblioteką ir daugybę kitų kultūros turtų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "681864-682203; hash=e519115f4ffb581b4e1872c4643e886cf794bc28aa7887efdc3f3daf8508a888; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-176008
 ## Reikšmingi paminėjimai
@@ -56,8 +48,8 @@ Rusai iš Vilniaus į Maskvą išvežė net brangius ponų rūmų baldus, o šve
     vis dėlto daug kas buvo išvežta, o kai kas tenai tebėra dar ir
     šiandien.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

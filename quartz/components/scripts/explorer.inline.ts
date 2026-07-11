@@ -60,6 +60,13 @@ function toggleExplorer(this: HTMLElement) {
     "aria-expanded",
     nearestExplorer.getAttribute("aria-expanded") === "true" ? "false" : "true",
   )
+  const expanded = !explorerCollapsed
+  this.setAttribute("aria-expanded", String(expanded))
+  nearestExplorer.querySelector<HTMLElement>(".explorer-content")?.setAttribute(
+    "aria-expanded",
+    String(expanded),
+  )
+  this.setAttribute("aria-label", expanded ? "Uždaryti naršyklę" : "Atidaryti naršyklę")
 
   if (!explorerCollapsed) {
     // Stop <html> from being scrollable when mobile explorer is open
@@ -67,6 +74,18 @@ function toggleExplorer(this: HTMLElement) {
   } else {
     document.documentElement.classList.remove("mobile-no-scroll")
   }
+}
+
+function closeMobileExplorer(explorer: HTMLElement) {
+  if (explorer.classList.contains("collapsed")) return
+  const toggle = explorer.querySelector<HTMLElement>(".mobile-explorer")
+  explorer.classList.add("collapsed")
+  explorer.setAttribute("aria-expanded", "false")
+  explorer.querySelector<HTMLElement>(".explorer-content")?.setAttribute("aria-expanded", "false")
+  toggle?.setAttribute("aria-expanded", "false")
+  toggle?.setAttribute("aria-label", "Atidaryti naršyklę")
+  document.documentElement.classList.remove("mobile-no-scroll")
+  toggle?.focus()
 }
 
 function bindExplorerToggle(
@@ -420,6 +439,11 @@ function setupExplorerShell(explorer: HTMLElement, currentSlug: FullSlug) {
       toggleExplorer.call(this)
     })
   }
+  const onKeyDown = (event: KeyboardEvent) => {
+    if (event.key === "Escape") closeMobileExplorer(explorer)
+  }
+  explorer.addEventListener("keydown", onKeyDown)
+  window.addCleanup(() => explorer.removeEventListener("keydown", onKeyDown))
 }
 
 document.addEventListener("prenav", async () => {
@@ -441,6 +465,8 @@ async function setupExplorersForSlug(currentSlug: FullSlug) {
     if (isElementVisible(mobileExplorer)) {
       explorer.classList.add("collapsed")
       explorer.setAttribute("aria-expanded", "false")
+      mobileExplorer.setAttribute("aria-expanded", "false")
+      explorer.querySelector<HTMLElement>(".explorer-content")?.setAttribute("aria-expanded", "false")
       setupExplorerShell(explorer as HTMLElement, currentSlug)
 
       // Allow <html> to be scrollable when mobile explorer is collapsed

@@ -36,14 +36,6 @@ Narbutas Gamaheu, arba Gamaheus Lapis, vadina gamtos pavidalais išsiskiriančiu
 - t-001
   global_id: t-189296
   teiginys: "Narbutas Gamaheu, arba Gamaheus Lapis, vadina gamtos pavidalais išsiskiriančius akmenis, kuriuos senovės žmonės esą gerbdavo."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "351305-351999; hash=1b6d5a8bd72339e76ad62df24541ca05803a09b4bf9efc7bcb7e0ea31751ec32; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172184
 ## Reikšmingi paminėjimai
@@ -66,8 +58,8 @@ Narbutas Gamaheu, arba Gamaheus Lapis, vadina gamtos pavidalais išsiskiriančiu
     vimų ir pasakojimų apie panašius akmenis, garbinamus ir pas
     mus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -78,7 +70,8 @@ Narbutas Gamaheu, arba Gamaheus Lapis, vadina gamtos pavidalais išsiskiriančiu
 - id: c-172184
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 207"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 207."
   citata_originali: |
     Akmenys
     Senovės žmonės ypač gerbdavo tam tikrus akmenis, ku­

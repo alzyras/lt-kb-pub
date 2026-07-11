@@ -34,11 +34,6 @@ Birutės draugija: pirmoji tokia organizacija buvo 1885 m. Tilžėje įkurta „
 - t-001
   global_id: t-71608
   teiginys: "„Birutės“ draugijos sumanytojai buvo Basanavičius, Šliūpas, Zauerveinas, M. Jankus, V. Bruožis, Mikšas ir kiti Mažosios Lietuvos veikėjai."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "1243761-1244113; hash=8019da291b972904739b04a767ded0ae9e146fc7c74c60f8575dc5f21c3940da; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-70162
 ## Reikšmingi paminėjimai
@@ -54,8 +49,8 @@ Birutės draugija: pirmoji tokia organizacija buvo 1885 m. Tilžėje įkurta „
     čius, Šliūpas, Zauerveinas, M. Jankus, V. Bruožis, Mikšas ir
     nemaža kitų M. Lietuvos veikėjų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

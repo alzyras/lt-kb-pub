@@ -30,19 +30,6 @@ Spitekas iš Melštino parūpino pinigų, o Vytautas atidavė karaliui Kamenecą
 - t-001
   global_id: t-186164
   teiginys: "Spitekas iš Melštino parūpino pinigų, o Vytautas atidavė karaliui Kamenecą, Smotričių, Skalą ir Červonogradą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "601136-601667; hash=7a6ff196c547d9f1b25a78f9aa619e44427ef771f0ac3fdf9bd8c1c626d027c0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Krokuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Spitekas iš Melštino: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Krokuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Spitekas iš Melštino\" parinktas kaip owner_note_path. Targetas \"Krokuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-169525
 ## Reikšmingi paminėjimai
@@ -72,8 +59,8 @@ Spitekas iš Melštino parūpino pinigų, o Vytautas atidavė karaliui Kamenecą
     k u n ig a ik ščiu
     guška.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

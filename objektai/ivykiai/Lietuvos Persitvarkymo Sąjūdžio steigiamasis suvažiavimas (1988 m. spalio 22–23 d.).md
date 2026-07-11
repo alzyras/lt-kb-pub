@@ -57,9 +57,6 @@ Nenurodyta
 - t-002
   global_id: t-75188
   teiginys: "Po LPS steigiamojo suvažiavimo organizuotas liaudies judėjimas tapo visuomenine jėga, galinčia mesti iššūkį komunistų partijai."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "489635-490023; hash=f401f618ef68b8819c7990466968379aededcf256a6cf51668153d857aeb09dd; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-23011
 
@@ -67,16 +64,6 @@ Nenurodyta
 - t-001
   global_id: t-75189
   teiginys: "LPS steigiamasis suvažiavimas priėmė bendrąją programą, įstatus ir 30 rezoliucijų politikos, kultūros, ekonomikos, visuomeninio gyvenimo bei demokratijos klausimais."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "488912-489214; hash=29797351784521152d6713942183976cfe1ba3905b5f78b8ef2694c731a6f6d2; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos Persitvarkymo Sąjūdžio steigiamasis suvažiavimas (1988 m. spalio 22–23 d.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos Persitvarkymo Sąjūdžio steigiamasis suvažiavimas (1988 m. spalio 22–23 d.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-23010
 
@@ -84,18 +71,6 @@ Nenurodyta
 - t-003
   global_id: t-75190
   teiginys: "Lietuvos Persitvarkymo Sąjūdžio steigiamasis suvažiavimas priėmė bendrąją programą, įstatus ir 30 rezoliucijų."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "489014-489633; hash=24bcb361a80da3387c72dc24ef754ee97f4da76ce5b5d4199789e357d3f71f9a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos Persitvarkymo Sąjūdžio steigiamasis suvažiavimas (1988 m. spalio 22–23 d.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos Persitvarkymo Sąjūdžio steigiamasis suvažiavimas (1988 m. spalio 22–23 d.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-13T14:18:10Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-73067
 - susijęs iš [[objektai/ivykiai/Baltijos kelias ir Molotovo–Ribentropo pakto padarinių pasmerkimas (1989 m.).md#claim-t-26364|Baltijos kelias ir Molotovo–Ribentropo pakto padarinių pasmerkimas (1989 m.)]]: LSSR Aukščiausiosios Tarybos komisija pasmerkė Molotovo–Ribentropo pakto padarinius – 1940 m. Lietuvos okupaciją ir neteisėtą prijungimą.
@@ -111,8 +86,8 @@ Nenurodyta
     priėmė bendrąją programą, įstatus, 30 rezoliucijų politikos, kultūros, eko-
     nomikos, visuomeninio gyvenimo, demokratijos ir kitais klausimais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -128,8 +103,8 @@ Nenurodyta
     lūkesčius, veikė kaip tarpininkas tarp vadovybės ir tautos, pradėtos kurti
     politinės partijos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -151,8 +126,8 @@ Nenurodyta
     nis suverenitetas, teisinė socialistinė valstybė, tačiau siekta sudaryti įspūdį,
     kad LPS remia SSRS vadovybės pradėtas reformas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

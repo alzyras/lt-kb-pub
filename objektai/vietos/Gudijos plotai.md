@@ -32,16 +32,6 @@ media_all_json: |-
 - t-001
   global_id: t-32186
   teiginys: "IX a. pirmoje pusėje per Gudijos plotus į Lietuvą atėjo dalis žodžių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "338320-338656; hash=c3e763b5400f71431f15da34e1b0e7955b1c7042fce76e6528342fd6705751c3; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gudija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gudijos plotai: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Gudija: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gudijos plotai\" parinktas kaip owner_note_path. Targetas \"Gudija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-33857
 ## Reikšmingi paminėjimai
@@ -56,8 +46,8 @@ media_all_json: |-
     pirmoje pusėje yra atėję eilė žodžių. Minėtinas svorio matas birka­
     vas (latviškai — birkavs), kilęs iš vikingų uosto Birkos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

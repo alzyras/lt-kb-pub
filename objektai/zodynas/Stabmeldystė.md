@@ -30,14 +30,6 @@ O kai lietuvių tikėjimas ėmė kilti į romėnų lygį, gotai jau buvo krikš�
 - t-001
   global_id: t-194780
   teiginys: "O kai lietuvių tikėjimas ėmė kilti į romėnų lygį, gotai jau buvo krikščionys, herulų priešai, ir niokojo kitas lietuvių gentis, gy venusias Baltijos kraštuose; tad jie būtų visai lietuvių tautai primetę ne romėnų stabmeldystę, išguitą iš vyriausių Italijos."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "151521-152429; hash=dd4d9a8008d380c74f4bd8cac55d0b4e31f6cc474ba3270758b09e0999658279; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-177176
 ## Reikšmingi paminėjimai
@@ -62,8 +54,8 @@ O kai lietuvių tikėjimas ėmė kilti į romėnų lygį, gotai jau buvo krikš�
     visos senovės religijos, kaip ir pačios tautos, yra labai viena kitai
     artimos, kilusios iš vienos šakos -  iš vieno lopšio*.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -74,7 +66,8 @@ O kai lietuvių tikėjimas ėmė kilti į romėnų lygį, gotai jau buvo krikš�
 - id: c-177176
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 84"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 84."
   citata_originali: |
     Bet jos principai visiškai
     nutolsta nuo graikų, todėl mes negalime tikėti tomis nuomo­

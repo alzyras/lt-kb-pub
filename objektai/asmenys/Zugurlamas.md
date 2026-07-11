@@ -30,21 +30,6 @@ Narbutas, remdamasis islandų sagomis ir Torfėjaus chronologija, Zugurlamą vad
 - t-001
   global_id: t-191488
   teiginys: "Narbutas, remdamasis islandų sagomis ir Torfėjaus chronologija, Zugurlamą vadina įžymiu rusų karaliumi, gyvenusiu III amžiuje."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "428632-429153; hash=58a3b85a64e518209110a3537283dbb7d36e47b6e55539f93c8e09d0add984c7; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Rusai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Zugurlamas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Rusai: mention_match, group, gap=24"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Zugurlamas\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174370
 ## Reikšmingi paminėjimai
@@ -66,8 +51,8 @@ Narbutas, remdamasis islandų sagomis ir Torfėjaus chronologija, Zugurlamą vad
     ištekėjo už norvego Augmundo; kartu ji gavo kraičio ne­
     mažą Rusios valdą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -78,7 +63,8 @@ Narbutas, remdamasis islandų sagomis ir Torfėjaus chronologija, Zugurlamą vad
 - id: c-174370
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 242"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 242."
   citata_originali: |
     Torfėjas, chronologiškai vardijęs
     danų istorijos įvykius, palygintus su tiksliausiais skaičia­

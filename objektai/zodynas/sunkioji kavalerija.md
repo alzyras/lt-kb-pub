@@ -33,16 +33,6 @@ Tautinio autoramento pagrindu buvo formuojama sunkioji kavalerija - husarai, vid
 - t-001
   global_id: t-42513
   teiginys: "Tautinio autoramento pagrindu formuota sunkioji kavalerija buvo husarai."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "502791-503244; hash=790b557f973d49d62a26ab933dbb24c72267a1425c32a366283bbc27b20349d7; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> lengvoji kavalerija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "sunkioji kavalerija: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "lengvoji kavalerija: mention_match, thing, gap=9"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"sunkioji kavalerija\" parinktas kaip owner_note_path. Targetas \"lengvoji kavalerija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-45551
 - susijęs iš [[objektai/zodynas/husarai.md#claim-t-49270|husarai]]: Husarai buvo ilgomis ietimis ginkluoti raitininkai, kurių ataka laikyta efektyvesniu kovos būdu už vakarietišką kavalerijos ataką pistoletais.
@@ -61,8 +51,8 @@ Tautinio autoramento pagrindu buvo formuojama sunkioji kavalerija - husarai, vid
     lerija - husarai, vidutinė ir lengvoji kavalerija - kazokai, petihorai
     bei totoriai, taip pat „lenkų“ ir „vengrų“ tipo pėstininkai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

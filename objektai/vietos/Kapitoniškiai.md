@@ -41,18 +41,6 @@ media_all_json: |-
 - t-001
   global_id: t-32197
   teiginys: "Tautavičius tyrinėjo pilkapius Kapitoniškiuose."
-  temporaliniai_duomenys: "įvykio data: 1955-1960; įvykio data: 1960 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "208769-209309; hash=0c118532a7239998b49b91ae92d220d40d54ee002a20fe2508ef1403daa149fd; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kapitoniškiai: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kapitoniškiai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-33863
 - susijęs iš [[objektai/autoriai/A. Tautavičius.md#claim-t-30544|A. Tautavičius]]: A. Tautavičius tyrinėjo Rytų Lietuvos ir Kapitoniškių pilkapius bei Vilniaus žemutinės pilies teritoriją.
@@ -74,8 +62,8 @@ media_all_json: |-
     t. 4, 1958, 91-110 p. ; t. 6, 1959, 115-133 p. ; t. 11, 1961, 103-123 p.),
     rašęs _Lietuvių ir jotvingių genčių gyventų plotų ribų klausimu_ 97.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

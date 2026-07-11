@@ -33,12 +33,6 @@ Dusburgietis teigia, kad šis, gerai susipažinęs su brolių gyvenimu, sugrįž
 - t-001
   global_id: t-194559
   teiginys: "Todėl jie mus kovoje, be abejonės, nugalės!“ Kadangi matė brolius valgant kopūstus, kurių prūsai nevartoja, ir manė, jog tai žolė, jis pridūrė: „Be to, ir valgo jie žolę nelyginant arkliai ar mulai, tai kas gi įstengsiąs jiems atsispirti, jeigu jie ir dykrose."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "342685-343013; hash=e03428e6b78b1a521a5455eb08cdf9cfc1983594df325a95a1d282baffc9cb46; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176959
 ## Reikšmingi paminėjimai
@@ -59,8 +53,8 @@ Dusburgietis teigia, kad šis, gerai susipažinęs su brolių gyvenimu, sugrįž
 
                           71 (70).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -71,7 +65,8 @@ Dusburgietis teigia, kad šis, gerai susipažinęs su brolių gyvenimu, sugrįž
 - id: c-176959
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 104"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 104."
   citata_originali: |
     Todėl jie mus
     kovoje, be abejonės, nugalės!“ Kadangi matė brolius valgant kopūstus, kurių prūsai

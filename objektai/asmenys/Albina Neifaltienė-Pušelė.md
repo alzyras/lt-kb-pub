@@ -33,11 +33,6 @@ Kautynių metu žuvo Neifalto-Lakūno žmona, partizanė slapyvardžiu „Pušel
 - t-001
   global_id: t-39994
   teiginys: "Mūšyje Albina Neifaltienė-Pušelė rankinio kulkosvaidžio ugnimi padarė priešui daug nuostolių ir buvo pakirsta priešo kulkos."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "923324-923608; hash=9bb08e415a53268886eaeb615fc301580ddb64e093b29a50fc2d44c0ee9d120a; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-44260
 
@@ -45,14 +40,6 @@ Kautynių metu žuvo Neifalto-Lakūno žmona, partizanė slapyvardžiu „Pušel
 - t-002
   global_id: t-183724
   teiginys: "Mūšyje Albina Neifaltienė-Pušelė rankinio kulkosvaidžio ugnimi padarė priešui daug nuostolių ir buvo pakirsta priešo kulkos."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "923215-923539; hash=307a45897fe1c8c2006905832a377ac4fda468d55ff14d7fae4a9d23009c1987; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-167112
 ## Reikšmingi paminėjimai
@@ -70,8 +57,8 @@ Kautynių metu žuvo Neifalto-Lakūno žmona, partizanė slapyvardžiu „Pušel
     Šovinys -7,62x25mm TT. Diskinė dėtuvė 71 šovinys arba
     patikimesnė 35 šovinių lenkta dėtuvė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -94,8 +81,8 @@ Kautynių metu žuvo Neifalto-Lakūno žmona, partizanė slapyvardžiu „Pušel
 
     Šovinys -7,62x25mm TT.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

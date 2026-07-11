@@ -49,13 +49,6 @@ Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėj
 - t-006
   global_id: t-195162
   teiginys: "Pagal Lizdeikos sapno aiškinimą Gediminas ant Tauro kalno pastatydino Aukštutinę mūro pilį."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Patikslintas sapno aiškinimo subjektas."
-  susije_objektai: "llm_object: Vilniaus Aukštutinė pilis; mentioned_place: Aukštutinė pilis; mentioned_place: Vilniaus Aukštutinė pilis; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Lizdeika|Lizdeika]]; mentioned_place: Luckas; mentioned_place: Vengrija; mentioned_place: Vilnius"
-  semantiniai_rysiai: "[[objektai/asmenys/Gediminas|Gediminas]] pastatė Vilniaus Aukštutinė pilis"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "129003-130508; hash=8dd715ea5d3b22a45dd87b645c89537cedf25008edcc5bfcb8ee24032d8b3b30; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177530
 
@@ -63,12 +56,6 @@ Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėj
 - t-008
   global_id: t-195163
   teiginys: "Aukštutinėje tvirtovėje užsidarė lenkai, kuriems vadovavo Karūnos pakancleris Mikalojus Moskoževskis."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Citata remia faktą, pašalintas nutrūkęs išnašos fragmentas."
-  susije_objektai: "mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_object: [[objektai/zodynas/pakancleris|pakancleris]]; mentioned_person: [[objektai/asmenys/Mikalojus Moskoževskis|Mikalojus Moskoževskis]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Smolenskas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "363271-363760; hash=90c6f8a3a31dd13248f3d27806f47427623b169a835abd36a1f62677a58c1e63; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177531
     - c-177529
@@ -78,12 +65,6 @@ Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėj
 - t-004
   global_id: t-195164
   teiginys: "Dmitrijus Kaributas su žmona ir vaikais buvo uždarytas Vilniaus Aukštutinėje pilyje ir ilgai saugomas sargybos."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys yra aiškus, faktinis ir tiesiogiai paremtas citata."
-  susije_objektai: "llm_object: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Dmitrijus Kaributas|Dmitrijus Kaributas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Naugardas; mentioned_place: Podolė; mentioned_place: Riazanė; mentioned_place: Severskas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "306820-307652; hash=7db3582b2e72bab88f6ba644baf32b037a6de41cc89caaf970adb7efc842e818; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177528
 
@@ -91,13 +72,6 @@ Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėj
 - t-003
   global_id: t-195165
   teiginys: "Pagal Lizdeikos sapno aiškinimą Gediminas ant Tauro kalno pastatydino Vilniaus Aukštutinę mūro pilį."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Patikslintas sapno aiškinimo subjektas."
-  susije_objektai: "llm_object: Vilniaus Aukštutinė pilis; mentioned_place: Aukštutinė pilis; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Lizdeika|Lizdeika]]; mentioned_place: Luckas; mentioned_place: Vengrija"
-  semantiniai_rysiai: "[[objektai/asmenys/Gediminas|Gediminas]] pastatė Vilniaus Aukštutinė pilis"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "129003-130508; hash=8dd715ea5d3b22a45dd87b645c89537cedf25008edcc5bfcb8ee24032d8b3b30; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177530
 
@@ -105,12 +79,6 @@ Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėj
 - t-002
   global_id: t-195166
   teiginys: "Kalno, ant kurio stovėjo Aukštutinė pilis, griūtis užslinko ant Manvydo rūmo ir pridarė daug nuostolių."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Perrašyta aiškiau, išsaugant citatos faktus."
-  susije_objektai: "mentioned_person: [[objektai/asmenys/Manvydas|Manvydas]]; mentioned_object: [[objektai/zodynas/Pataurininkis|Pataurininkis]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "363271-363760; hash=90c6f8a3a31dd13248f3d27806f47427623b169a835abd36a1f62677a58c1e63; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177531
     - c-177526
@@ -180,8 +148,8 @@ Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėj
     h i
     XI Knyga, sk.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -210,8 +178,8 @@ Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėj
     paleistas ir iš Seversko valstybės, jau prijungtos prie Lie­
     tuvos, perkeltas į Volumes ir Podolės didžiules vaidas55.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -230,8 +198,8 @@ Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėj
     zerfie Mergel oberste Magd) buvo užpilti; dar nuošliaužos
     užvertė visas jo brangenybes.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -253,8 +221,8 @@ Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėj
     šio monarcho jam skirtą valdą - Po-
     lonos miestelį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -272,8 +240,8 @@ Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėj
     1. Aukštutinė pilis ant Tauro* kalno.
     2. Žemutinė, arba Kreivoji pilis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -289,8 +257,8 @@ Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėj
     pats miesto centras, nedidelis, su mediniais namais, bet su
     tvirtų statinių tvorų ir griovių sutvirtinimais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

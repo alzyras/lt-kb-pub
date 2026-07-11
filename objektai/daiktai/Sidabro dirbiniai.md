@@ -63,16 +63,6 @@ Nenurodyta
 - t-002
   global_id: t-05235
   teiginys: "L. Nakaitė rašė apie sidabro naudojimą II-XIII a. Lietuvoje, sidabrą kaip vertės matą, sidabro dirbinius ir auksakalystę iki XIII a."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "212278-212916; hash=2e70b132f7a23a48573e7ea63025d36e106e660759275785fa01978d3120be47; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Sidabro dirbiniai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=29"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sidabro dirbiniai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-33235
 - susijęs iš [[objektai/autoriai/Vaitkunskienė L.md#claim-t-60806|Vaitkunskienė L]]: Vaitkunskienė L., Sidabras..., p. 10 ir kt.
@@ -101,8 +91,8 @@ Nenurodyta
     sakalystę Lietuvoje iki XIII a. (AkMD, t. 22, 1966, 67-83 p.; t. 27,
     1968, 47-55 p.).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

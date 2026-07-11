@@ -30,12 +30,6 @@ O savo vietoje paliko sūnų Glėbą ir dukterį Praskoviją IS . Išgyveno ten 
 - t-001
   global_id: t-194121
   teiginys: "O savo vietoje paliko sūnų Glėbą ir dukterį Praskoviją IS ."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "83226-83676; hash=8d852c236ccd6fa8ea99215fcb16af5a3e7971e366fe3b2e00558dfdaedc8085; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176734
 
@@ -43,12 +37,6 @@ O savo vietoje paliko sūnų Glėbą ir dukterį Praskoviją IS . Išgyveno ten 
 - t-002
   global_id: t-194122
   teiginys: "Išgyveno ten kelerius metus ir tapo šventąja, ji vadinama šventąja Praksėda, o rusiškai Praskovija; jai Romoje pastatė ir jos švento vardo bažnyčią, ir ten pat sudėjo jos palaikus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "83450-83930; hash=23092989488041f0c49d8b8e00698bc382e780aa6a0492f9697079aab1c9e568; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176735
 ## Reikšmingi paminėjimai
@@ -67,8 +55,8 @@ O savo vietoje paliko sūnų Glėbą ir dukterį Praskoviją IS . Išgyveno ten 
     tus, tarnaudama dievui ir perrašinėdama knygas cerk­
     vės reikalui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -88,8 +76,8 @@ O savo vietoje paliko sūnų Glėbą ir dukterį Praskoviją IS . Išgyveno ten 
     o rusiškai Praskovija; jai Romoje pastatė ir jos švento
     vardo bažnyčią, ir ten pat sudėjo jos palaikus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -121,7 +109,8 @@ O savo vietoje paliko sūnų Glėbą ir dukterį Praskoviją IS . Išgyveno ten 
 - id: c-176735
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 46"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 46."
   citata_originali: |
     Toji duktė davė įžadą, kad liksianti ligi mirties
     skaisti, ir tapo šventojo Išganytojo vienuolyno prie

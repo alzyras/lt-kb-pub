@@ -42,17 +42,6 @@ Populiariausiu tapo nuo 1896 m. leistas „Tėvynės sargas“, kurio spiritus m
 - t-002
   global_id: t-63766
   teiginys: "Juozas Tumas-Vaižgantas tarpukariu minėtas kaip vienas lietuvių literatūros klasikų, dar vaikščiojusių Kauno gatvėmis."
-  semantiniai_rysiai: "Juozas Tumas-Vaižgantas gyveno Kaunas (0.68)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "340008-340944; hash=4209f10648cdb93f41fa736f4abb14595c621eb143c096bf6422a47e785b34de; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Kaunas: 0.68"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Juozas Tumas-Vaižgantas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kaunas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata mini Vaižgantą tarp klasikų, kurie dar vaikščiojo Kauno gatvėmis, todėl atsargiai palaiko buvimo/gyvenimo Kaune ryšį."
   pagrindžia:
     - c-64709
 
@@ -60,19 +49,6 @@ Populiariausiu tapo nuo 1896 m. leistas „Tėvynės sargas“, kurio spiritus m
 - t-001
   global_id: t-63767
   teiginys: "Jaunas kunigas Juozas Tumas-Vaižgantas buvo svarbiausias nuo 1896 m. leisto katalikiško laikraščio „Tėvynės sargas“ veikėjas."
-  temporaliniai_duomenys: "įvykio data: po 1896 m.; įvykio data: 1896 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Perrašyta lietuviškiau ir enciklopediškiau, išlaikant citatos prasmę."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "227346-227816; hash=7b6cbac005ce8d10beb8b51ee9761dd31c03c4983e5707b82916db5e497c4daf; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Juozas Tumas (Vaižgantas): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Juozas Tumas-Vaižgantas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Juozas Tumas (Vaižgantas): mention_match, author, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Juozas Tumas-Vaižgantas\" parinktas kaip owner_note_path. Targetas \"Juozas Tumas (Vaižgantas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-64708
 - susijęs iš Tėvynės sargas: „Tėvynės sargas“ nuo 1896 m. tapo populiariausiu katalikiškos pakraipos leidiniu, o jo varomoji jėga buvo Juozas Tumas-Vaižgantas.
@@ -92,8 +68,8 @@ Populiariausiu tapo nuo 1896 m. leistas „Tėvynės sargas“, kurio spiritus m
     nas kunigas Juozas Tumas (Vaižgantas), vėliau garsus rašytojas, toleranci-
     jos ir geranoriškumo įsikūnijimas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -117,8 +93,8 @@ Populiariausiu tapo nuo 1896 m. leistas „Tėvynės sargas“, kurio spiritus m
     pusės, carizmo priespaudą kentusių lietuvių tautinius jausmus žeidė, kad
     žydai tarpusavyje dažnai vartojo rusų kalbą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -172,6 +148,3 @@ Populiariausiu tapo nuo 1896 m. leistas „Tėvynės sargas“, kurio spiritus m
   patikimumo_saltinis: ai
   pagrindzia:
     - t-63766
-
-## Ryšiai
-- Juozas Tumas-Vaižgantas gyveno [[objektai/vietos/Kaunas]]

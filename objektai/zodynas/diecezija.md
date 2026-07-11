@@ -36,20 +36,6 @@ Lenkų didžponiams patarus, pir­ muoju Vilniaus diecezijos vyskupu Vladislovas
 - t-004
   global_id: t-192165
   teiginys: "Narbutas žodį „diecezija“ vartoja kalbėdamas apie Odoakrui patikėtą valdžią Italijoje."
-  teiginio_tipas: "saltinio_teiginys"
-  semantiniai_rysiai: "Odoakras valdė Italija (0.74)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "564048-564632; hash=781d18d1bc34d23d1fc454cef02a900cebf9c60e24cf757120f5805dac1fbe30; match=ocr_normalized"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  ryšio_patikimumas: "valde -> Italija: 0.74"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Odoakras: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Italija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Claimas tiesiogiai kalba apie Odoakrui patikėtą valdžią Italijoje, todėl tai atitinka valdymo ryšį."
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175043
 
@@ -57,20 +43,6 @@ Lenkų didžponiams patarus, pir­ muoju Vilniaus diecezijos vyskupu Vladislovas
 - t-003
   global_id: t-192166
   teiginys: "Narbutas rašo, kad Romos senatas Odoakrą pristatė kaip patricijų, kuriam patikima valdžia italų diecezijoje."
-  teiginio_tipas: "saltinio_teiginys"
-  semantiniai_rysiai: "Romos senatas siuntė į Konstantinopolis (0.89)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "564048-564632; hash=781d18d1bc34d23d1fc454cef02a900cebf9c60e24cf757120f5805dac1fbe30; match=ocr_normalized"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  ryšio_patikimumas: "siunte_i -> Konstantinopolis: 0.89"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Romos senatas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Konstantinopolis: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata nurodo, kad Romos senatas siuntė pasiuntinius į Konstantinopolį."
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175043
 
@@ -78,12 +50,6 @@ Lenkų didžponiams patarus, pir­ muoju Vilniaus diecezijos vyskupu Vladislovas
 - t-001
   global_id: t-192167
   teiginys: "Vladislovas Jogaila pirmuoju Vilniaus diecezijos vyskupu išrinko Andrių iš Vasilevo Važilą."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys yra aiškus, faktinis ir tiesiogiai paremtas citata."
-  susije_objektai: "mentioned_place: Vasilevas; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Rykai|Rykai]]; mentioned_person: [[objektai/asmenys/Jadvyga|Jadvyga]]; mentioned_person: [[objektai/asmenys/Jadvyga Jogailienė|Jadvyga Jogailienė]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vladislovas Jogaila|Vladislovas Jogaila]]; mentioned_place: Gniezno; mentioned_place: Lietuva; mentioned_place: Vengrija; mentioned_place: Vilnius"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "241848-242542; hash=84853bd8f19656d46d8e04eb6bb0cab390c43250eeeec94d7067d422504d9657; match=whitespace_regex"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
   pagrindžia:
     - c-175041
 
@@ -91,12 +57,6 @@ Lenkų didžponiams patarus, pir­ muoju Vilniaus diecezijos vyskupu Vladislovas
 - t-002
   global_id: t-192168
   teiginys: "Klodovo klebonija, duota naujajam vyskupui, buvo Gniezno diecezijoje."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Nepaisant įterpto triukšmo, citata palaiko trumpą faktą apie Gniezno dieceziją."
-  susije_objektai: "mentioned_place: Gniezno; mentioned_place: Klodovas; llm_object: Gniezno"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "242726-243146; hash=0fc08ca2559190d76a73632e96015d707c77fdb2b96b958f12c2b29b449bada0; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
   pagrindžia:
     - c-175042
 - susijęs iš [[objektai/asmenys/Lizdeika.md#claim-t-187902|Lizdeika]]: Lizdeika padavimuose vaizduojamas kaip nuo katedros varpinės Vilniaus pagonims skelbęs geras ar blogas pranašystes.
@@ -119,8 +79,8 @@ Lenkų didžponiams patarus, pir­ muoju Vilniaus diecezijos vyskupu Vladislovas
     titulai buvo atiduoti uoliausiems lenkų kunigams, platinan­
     tiems Lietuvoje Kristaus tikėjimą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -143,8 +103,8 @@ Lenkų didžponiams patarus, pir­ muoju Vilniaus diecezijos vyskupu Vladislovas
     šv. Stanislovui, kankiniui ir vysku­
     pui bei šv.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -165,8 +125,8 @@ Lenkų didžponiams patarus, pir­ muoju Vilniaus diecezijos vyskupu Vladislovas
     kaip patricijaus, kuriam jis teikiasi patikėti valdžią italų
     diecezijoje.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -230,7 +190,8 @@ Lenkų didžponiams patarus, pir­ muoju Vilniaus diecezijos vyskupu Vladislovas
 - id: c-175043
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 315"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 315."
   citata_originali: |
     atsiuntė pasiuntinius, kurie, linkėdami laimės, buvo slap­
     ta įpareigoti susipažinti su padėtimi Italijoje. Odoakras,

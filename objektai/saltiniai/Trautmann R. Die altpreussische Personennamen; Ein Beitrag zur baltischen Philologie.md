@@ -38,12 +38,6 @@ Dusburgietis teigia, kad trautmann R.
 - t-001
   global_id: t-61325
   teiginys: "R. Trautmanno „Die altpreussische Personennamen; Ein Beitrag zur baltischen Philologie“ išleista Göttingene 1925 m."
-  temporaliniai_duomenys: "įvykio data: 1925 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pagrindžia bibliografinį teiginį apie leidimo vietą ir metus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "800385-800495; hash=7e013119ee7ea0a5d20bbda66b0de82ea9328e4b4fb29c66bfb13daceebc25f0; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-61957
 ## Reikšmingi paminėjimai
@@ -55,8 +49,8 @@ Dusburgietis teigia, kad trautmann R.
     Trautmann  R.  Die  altpreussische Personennamen;  Ein  Beitrag  zur  baltischen
     Philologie.— Göttingen, 1925.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -67,7 +61,8 @@ Dusburgietis teigia, kad trautmann R.
 - id: c-61957
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 272"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 272."
   citata_originali: |
     Trautmann  R.  Die  altpreussische Personennamen;  Ein  Beitrag  zur  baltischen
     Philologie.— Göttingen, 1925.

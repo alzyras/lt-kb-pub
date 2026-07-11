@@ -56,16 +56,6 @@ Nenurodyta
 - t-005
   global_id: t-08294
   teiginys: "Senovės kariai nešiojo šikšninį diržą su vario grandimis arba sagtimis ir įvairią ginkluotę."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "317549-318525; hash=a4772835993688cea4e1c5812a345c93e5c366829dad27bbfa70dff414608b7f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kalavijai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Karinė ginkluotė: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Kalavijai: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Karinė ginkluotė\" parinktas kaip owner_note_path. Targetas \"Kalavijai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-10250
 
@@ -73,16 +63,6 @@ Nenurodyta
 - t-006
   global_id: t-08295
   teiginys: "Pėstųjų karinė ginkluotė apėmė rendėtus brūklius, kuriais jie daugiausia kariavo."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "318526-318672; hash=3f2fec679e3f9b84626943698457559b5df96a47f14bd3157d35e08487624729; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Karinė ginkluotė: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Karinė ginkluotė\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-10251
 
@@ -90,16 +70,6 @@ Nenurodyta
 - t-007
   global_id: t-10150
   teiginys: "XIII a. Vakarų Europos pėstininkų karinė ginkluotė apėmė dvirankius artimosios kovos ginklus, lankus ir arbaletus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "87222-87652; hash=1c31f09566bb296ea496c46adf70ad9f38868bcbfaf8190c4c601c71655bb142; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Arbaletai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Karinė ginkluotė: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Arbaletai: mention_match, thing, gap=70"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Karinė ginkluotė\" parinktas kaip owner_note_path. Targetas \"Arbaletai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-12233
 
@@ -107,16 +77,6 @@ Nenurodyta
 - t-008
   global_id: t-10151
   teiginys: "XIII-XIV a. Lietuvos raitininko karinė ginkluotė galėjo apimti Desiukiškių tipo kalaviją, žieduočio šarvus ir krūtinšarvį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "134431-134940; hash=5d5077549b35cc8eeae68b495408dc2ba9c853f2d13079a0ed44dbc9ad205767; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kalavijas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Karinė ginkluotė: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Kalavijas: mention_match, thing, gap=48"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Karinė ginkluotė\" parinktas kaip owner_note_path. Targetas \"Kalavijas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-12234
 
@@ -124,16 +84,6 @@ Nenurodyta
 - t-009
   global_id: t-10152
   teiginys: "Ginklai ir ypač šarvai buvo branginami, sugadinti perkalami, o didesnė dalis ginkluotės galėjo būti saugoma valstybės ir išdalinama kariams prieš operacijas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "172669-173005; hash=ab67980c38380a3d4b106f8128f1055d8d72e611c883c8fef7fae115e450ee12; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Ginklai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Karinė ginkluotė: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Ginklai: mention_match, thing, gap=77"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Karinė ginkluotė\" parinktas kaip owner_note_path. Targetas \"Ginklai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-12235
 
@@ -141,16 +91,6 @@ Nenurodyta
 - t-010
   global_id: t-10153
   teiginys: "XIV a. Europos karinėje ginkluotėje plito lakštiniai šarvai, tačiau dėl brangumo plačiai naudoti ir žieduočio šarvai."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "195717-196191; hash=8ef76ecdb0b82539a3a5e81af877fc684b0f846ee57226fa39546aadd5b8973b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Šarvai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Karinė ginkluotė: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Šarvai: mention_match, thing, gap=38"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Karinė ginkluotė\" parinktas kaip owner_note_path. Targetas \"Šarvai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-12236
 
@@ -158,18 +98,6 @@ Nenurodyta
 - t-011
   global_id: t-78663
   teiginys: "Didesnė Lietuvos karinės ginkluotės dalis galėjo būti saugoma valstybės, išduodama kariams prieš operacijas ir po jų grąžinama."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "172669-173005; hash=ab67980c38380a3d4b106f8128f1055d8d72e611c883c8fef7fae115e450ee12; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Ginklai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Karinė ginkluotė: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Ginklai: mention_match, thing, gap=8"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Karinė ginkluotė\" parinktas kaip owner_note_path. Targetas \"Ginklai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-12235
 
@@ -177,17 +105,6 @@ Nenurodyta
 - t-001
   global_id: t-78665
   teiginys: "Lietuvių karinę ginkluotę sudarė skydai, šalmai, ietys ir kardai."
-  semantiniai_rysiai: "Karinė ginkluotė priklausė Lietuviai (0.86)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "387998-388291; hash=20ff44088640a38dcc568b37fd976562601173b4aa1527f287cd4548e79d3da4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Lietuviai: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Karinė ginkluotė: llm_allowed_candidate, thing"
-  ryšio_targeto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai kalba apie lietuvių karinę ginkluotę."
   pagrindžia:
     - c-05216
 
@@ -195,12 +112,6 @@ Nenurodyta
 - t-012
   global_id: t-193744
   teiginys: "Didesnė dalis ginkluotės galėjo būti saugoma valstybės ir išdalinama kariams prieš operacijas, po to, žinoma, viską reikėdavo grąžinti."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "172669-173005; hash=ab67980c38380a3d4b106f8128f1055d8d72e611c883c8fef7fae115e450ee12; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-12235
 ## Reikšmingi paminėjimai
@@ -215,8 +126,8 @@ Nenurodyta
     grobį iš lietuvių žygio, būtent, arklių su balnais, skydų, šalmų.
     Vartojo lietuviai dar ietis ir kardus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -236,8 +147,8 @@ Nenurodyta
         kuriuos šiandien dar gal rasti tos gadynės karės kapuose. Ant galo seidoką ir vylyčių kurvį^1209 į pečius
         įkabinęs, skraidė ant žirgo it paukštis neprietelių žvalgydamos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -249,8 +160,8 @@ Nenurodyta
   citata_originali: |
     Pėstieji daugiau kariavo rendėtais^1210 brūkliais, kokius gal dar regėti paskuojųjų laikų Lietuvos ūkės žymėj^1211. Artinantis neprieteliui, laidė
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -270,8 +181,8 @@ Nenurodyta
     kovos ginklus (kovos kirvius, ietis) ar šaunamuosius
     (lankus, arbaletus)
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -294,8 +205,8 @@ Nenurodyta
     apsaugos. Rankoje raitininkas laiko pusantros rankos
     XIII-XIV a. Lietuvai būdingą Desiukiškių tipo kalaviją
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -311,8 +222,8 @@ Nenurodyta
     operacijas, po to, žinoma, viską reikėdavo grąžinti. Panaši prakti-
     ka sutinkama to meto Kryžiuočių ordine.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -332,8 +243,8 @@ Nenurodyta
     niai) šarvai. Svarbi bet kokių šarvų dalis buvo storos ir minkštos
     medžiagos pošarvis, kuris sugerdavo dalį priešininko smūgio jėgos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -478,6 +389,3 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-10153
-
-## Ryšiai
-- Karinė ginkluotė priklausė [[objektai/grupes/Lietuviai]]

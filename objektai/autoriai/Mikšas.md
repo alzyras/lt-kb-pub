@@ -40,21 +40,6 @@ Lietuvos veikėjas Mikšas, paskui dr. J. „Aušra" iš pradžių buvo spausdin
 - t-001
   global_id: t-01116
   teiginys: "Mikšas Tilžėje įsteigė spaustuvę, kurioje vėliau buvo spausdinama „Aušra“."
-  temporaliniai_duomenys: "įkūrimo data: 1905 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Reikia subalansuoti kabutes ir aiškiau susieti faktą su Mikšu."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "1007204-1007550; hash=a9d9547e8cc40aa15dd9b9cc330e5d4a230220dade067f32e7ec22b066b59792; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Tilžė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mikšas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Tilžė: mention_match, place, gap=7"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mikšas\" parinktas kaip owner_note_path. Targetas \"Tilžė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-01353
 - susijęs iš [[objektai/autoriai/Dr. J. Šliūpas.md#claim-t-01029|Dr. J. Šliūpas]]: Dr. J. Šliūpas tvarkė „Aušrą“, kol vokiečių valdžia privertė jį išvažiuoti į Ameriką.
@@ -78,8 +63,8 @@ Lietuvos veikėjas Mikšas, paskui dr. J. „Aušra" iš pradžių buvo spausdin
     paties Mikšo įsteigtoje
     spaustuvėje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

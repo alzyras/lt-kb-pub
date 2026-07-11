@@ -54,17 +54,6 @@ Nenurodyta
 - t-001
   global_id: t-39215
   teiginys: "MP 40 buvo Antrojo pasaulinio karo vokiečių kariuomenės žemesniosios grandies vadų pistoletas-kulkosvaidis."
-  semantiniai_rysiai: "Pistoletas-kulkosvaidis MP 40 priklausė Vokiečiai (0.82)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "927399-928029; hash=14aca0dcd82bbcbe3920c913762635aff089379139a0827edab2165b77aadea2; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Vokiečiai: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Pistoletas-kulkosvaidis MP 40: llm_allowed_candidate, thing"
-  ryšio_targeto_parinkimas: "Vokiečiai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad MP 40 buvo vokiečių kariuomenės vadų ginklas."
   pagrindžia:
     - c-41019
 - susijęs iš [[objektai/daiktai/Pistoletas-kulkosvaidis MP 18.md#claim-t-40750|Pistoletas-kulkosvaidis MP 18]]: MP 18 pasirodė Pirmojo pasaulinio karo pabaigoje ir buvo pirmasis masiškai gamintas vokiečių pistoletas-kulkosvaidis.
@@ -86,8 +75,8 @@ Nenurodyta
     Šovinys - 9x19 mm Parabellum, dėtuvės
     talpa — 32 šovinių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -118,6 +107,3 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-39215
-
-## Ryšiai
-- Pistoletas-kulkosvaidis MP 40 priklausė [[objektai/grupes/Vokiečiai]]

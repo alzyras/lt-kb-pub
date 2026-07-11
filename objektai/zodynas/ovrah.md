@@ -43,14 +43,6 @@ Topografinis slavų terminas.
 - t-001
   global_id: t-194904
   teiginys: "Taip pat vienas senas ka zokas pasakojo, jog yra slėnis (arba griova — ovrah), einantis šiaurės vakarų kryptimi, kuris vadinosi Ros\ griova susijungia su slėniu, ir teka Oskolas, kuris iš tik rųjų žemupyje turi vadintis Ros."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "132644-133325; hash=040782a642c8b5a7291fd8078c9bd3cf0bb0c13689d994c33ec14af328caf58d; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-177300
 ## Reikšmingi paminėjimai
@@ -74,8 +66,8 @@ Topografinis slavų terminas.
     išdžiūdavęs, kuri būdavo papildoma tik menkų minėto
     upelio vandenų, iš tikrųjų ir turėjo vadintis Ros.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

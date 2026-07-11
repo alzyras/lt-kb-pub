@@ -42,16 +42,6 @@ Dusburgietis teigia, kad rogajny), o rytiniame — prie Vištyčio miestelio —
 - t-002
   global_id: t-64857
   teiginys: "P. Tarasenkos veikale „Pėdos“ Velnių stalo vieta žemėlapyje pažymėta netiksliai."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "215068-215303; hash=75dced3847de9141c2b8b3a2160612083ab9c3a82f693ef1a84bcfff515b097e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kreiviai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Tarasenka P: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Kreiviai: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tarasenka P\" parinktas kaip owner_note_path. Targetas \"Kreiviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-65445
 
@@ -59,16 +49,6 @@ Dusburgietis teigia, kad rogajny), o rytiniame — prie Vištyčio miestelio —
 - t-001
   global_id: t-64858
   teiginys: "P. Tarasenka cituojamas kaip šaltinis apie žmonių stebuklingu laikytą akmenį prie Vištyčio miestelio."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "212830-213051; hash=9dfdadff9481a58a0a9f655e8266ad43a7d0ce73a65542081dbe68c9f070061c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> P. Tarasenka: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Tarasenka P: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "P. Tarasenka: mention_match, author, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tarasenka P\" parinktas kaip owner_note_path. Targetas \"P. Tarasenka\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-65446
 ## Reikšmingi paminėjimai
@@ -82,8 +62,8 @@ Dusburgietis teigia, kad rogajny), o rytiniame — prie Vištyčio miestelio —
     užfiksuota 1964.V.26.— R. B.; Tarasenka P. Pėdos..., Nr. 191 — žemėlapyje pažymėta
     netiksliai).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -98,8 +78,8 @@ Dusburgietis teigia, kad rogajny), o rytiniame — prie Vištyčio miestelio —
     rytiniame — prie Vištyčio miestelio — stebuklingas, pasak žmonių, akmuo (Tarasenka P.,
     Pėdos..., p. 71).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -110,7 +90,8 @@ Dusburgietis teigia, kad rogajny), o rytiniame — prie Vištyčio miestelio —
 - id: c-65445
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 65"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 65."
   citata_originali: |
     Netoli Kreivių k.— Romės Lauko k., o greta jo Obelyno
     miške, pelkėje,— aukštumėlė, kurios rytiniame šone — didelis akmuo Velnių stals (mano
@@ -126,7 +107,8 @@ Dusburgietis teigia, kad rogajny), o rytiniame — prie Vištyčio miestelio —
 - id: c-65446
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 65"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 65."
   citata_originali: |
     Pietiniame girios pakraštyje —
     šiuo atveju mums reikšmingas kaimas Ragainiai (Rogainen — Sch-K XII; dab. Rogajny), o

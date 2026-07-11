@@ -45,16 +45,6 @@ media_all_json: |-
 - t-016
   global_id: t-67583
   teiginys: "Leidinio rengėjai dėkojo prof. A. Aleknai už patarimus rašant ir redaguojant monografiją."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "4050-4461; hash=5185276fb024e18d8237c12d2af18dd4e7af87f4fb68ed05b19603c8d66ddfe4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> A. Alekna: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas Didysis 1350-1430 (1930 m.): owner_note_path, source"
-  ryšio_targeto_parinkimas: "A. Alekna: mention_match, author, gap=32"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas Didysis 1350-1430 (1930 m.)\" parinktas kaip owner_note_path. Targetas \"A. Alekna\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-13863
 
@@ -62,16 +52,6 @@ media_all_json: |-
 - t-015
   global_id: t-67586
   teiginys: "Leidinio rengėjai siekė sugrupuoti istorikų surinktus faktus lietuvio akimis ir objektyvumo laikytis tiek, kiek leido faktų pažinimas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "3347-3880; hash=9cda522837c5f8b5af5faa27cfc72b3e8dd83b00fd8395519fc8fa85de2c7c32; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Viena: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas Didysis 1350-1430 (1930 m.): owner_note_path, source"
-  ryšio_targeto_parinkimas: "Viena: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas Didysis 1350-1430 (1930 m.)\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-13862
 
@@ -79,16 +59,6 @@ media_all_json: |-
 - t-014
   global_id: t-67589
   teiginys: "Leidinio rengėjai buvo sutarę laikytis vidurio tarp moksliško ir populiaraus veikalo."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "2514-2910; hash=c3a352bb9012b5b368348c5183294419fbe5db08c0b8df500e1bace33f7c64da; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vytautas Didysis 1350-1430 (1930 m.): owner_note_path, source"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vytautas Didysis 1350-1430 (1930 m.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-13861
 ## Reikšmingi paminėjimai
@@ -105,8 +75,8 @@ media_all_json: |-
     bo pobūdį: laikytis vidurio tarp moksliško ir popu­
     liaraus veikalo, ir išsiskirstėm.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -125,8 +95,8 @@ media_all_json: |-
     jektingumo, laikėmės, kiek leido istorijos faktų pažinimas bei
     jų supratimas, momentas ir pats veikalo pobūdis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -144,8 +114,8 @@ media_all_json: |-
     guojant, ir kartu apgailestaujam, kad gerb, profesorius dėl
     ligos negalėjo parašyti šiai knygai įžangos žodžio.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

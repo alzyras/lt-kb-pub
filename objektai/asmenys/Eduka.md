@@ -38,25 +38,6 @@ Eduka kartu su Volfu vadovavo skiriams, o apie 355 m. gelbėjo savo žmonių lik
 - t-001
   global_id: t-191201
   teiginys: "Eduka kartu su Volfu vadovavo skiriams, o apie 355 m. gelbėjo savo žmonių likučius, persikėlusius į dešinįjį Dunojaus krantą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Eduka buvo sąjungininkas su Volfas (0.70)"
-  temporaliniai_duomenys: "įvykio data: 355 m; įvykio data: apie 355 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Eduka buvo sąjungininkas su Volfas“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie Eduką ir tiesiogiai paremtas citata. Nepridėta papildomų faktų už vadovavimo, gelbėjimo ir persikėlimo apie 355 m. ribų."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "527145-527662; hash=16d81565c2784b26e28ac3b9632a2f2e53ef3bb94834549b93bc0bb779c9d5af; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sajungininkas_su -> Volfas: 0.70"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Eduka: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Volfas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Eduka ir Volfas kartu įvardyti kaip skirių vadai tame pačiame veiksme."
-  vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174083
 
@@ -64,22 +45,6 @@ Eduka kartu su Volfu vadovavo skiriams, o apie 355 m. gelbėjo savo žmonių lik
 - t-002
   global_id: t-191948
   teiginys: "Teodoras Narbutas iš dviejų vadų skirių stovykloje darė išvadą, kad Eduka galėjo vadovauti skiriams, o Volfas - sudargams arba kad abi gentys turėjo savo vadus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Skiriai gyveno Isteris (0.80); Sudargai gyveno Isteris (0.80)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "527820-528554; hash=6b22554b065f4948dd9682f291e427fce36a308bda8e80028e93efab396a558b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Isteris: 0.80"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Skiriai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Isteris: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad skiriai gyveno dešiniojoje Dunojaus pakrantėje."
-  vertinimo_atnaujinta: "2026-07-04T15:36:38Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174830
 - susijęs iš [[objektai/ivykiai/Skirių ir sudargų maištas prieš gotus, pralaimėjimas ir persikėlimas į romėnų globą apie 355 m.md#claim-t-191018|Skirių ir sudargų maištas prieš gotus, pralaimėjimas ir persikėlimas į romėnų globą apie 355 m]]: Po skirių pralaimėjimo Eduka vedė savo žmonių likučius iš Mezijos į dešiniąją Dunojaus pakrantę ir pasidavė romėnų globai.
@@ -102,8 +67,8 @@ Eduka kartu su Volfu vadovavo skiriams, o apie 355 m. gelbėjo savo žmonių lik
     kartu su kitomis dėl šių politinių įvykių persekiojamomis
     gotų gentimis įvyko apie 355 metus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -130,8 +95,8 @@ Eduka kartu su Volfu vadovavo skiriams, o apie 355 m. gelbėjo savo žmonių lik
     galią, galbūt: atvykus tiesiai iš gimtosios žemės naujiems
     žmonėms.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -142,7 +107,8 @@ Eduka kartu su Volfu vadovavo skiriams, o apie 355 m. gelbėjo savo žmonių lik
 - id: c-174083
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 294"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 294."
   citata_originali: |
     Šios vilties ir narsos, ku­
     rią suteikia keršto troškimas, skatinami, skiri ai skubėjo
@@ -164,7 +130,8 @@ Eduka kartu su Volfu vadovavo skiriams, o apie 355 m. gelbėjo savo žmonių lik
 - id: c-174830
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 294"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 294."
   citata_originali: |
     Sudargai, kuriuos istorikai vadina
     Satargarii ir Sadargii, buvo ištikimiausi skiriu bičiuliai:
@@ -188,7 +155,3 @@ Eduka kartu su Volfu vadovavo skiriams, o apie 355 m. gelbėjo savo žmonių lik
   patikimumo_saltinis: ai
   pagrindzia:
     - t-191948
-
-## Ryšiai
-- Sąjungininkai: [[objektai/asmenys/Volfas]]
-- Eduka keliavo į [[objektai/vietos/Isteris]]

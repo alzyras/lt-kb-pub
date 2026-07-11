@@ -37,25 +37,6 @@ media_all_json: |-
 - t-001
   global_id: t-189023
   teiginys: "1809 m. Lokaičių kaime Marijampolės apskrityje kaimietis Kavaliauskas po supuvusiu ąžuolo kelmu rado įvairių ginklų nuolaužų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Lokaičiai priklausė Marijampolės apskritis (0.90)"
-  temporaliniai_duomenys: "priklausymo laikotarpis: 1809 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Lokaičiai priklausė Marijampolės apskritis“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Ilgas radinio aprašymas sutrumpintas iki aiškaus sakinio apie Marijampolės apskritį. Neįtrauktos vėlesnės pasakojimo detalės apie žiedą."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "170064-170702; hash=1db98ffe7b2fa32aa9e110d46fe4eec0e07166654606a4afcf378ab302593ad3; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Marijampolės apskritis: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lokaičiai: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Marijampolės apskritis: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Lokaičiai tiesiogiai lokalizuojami Marijampolės apskrityje."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171912
 ## Reikšmingi paminėjimai
@@ -77,8 +58,8 @@ media_all_json: |-
     jas, man pasakojo: „Gavau varinį žiedą su puse colio pločio,
     11 colių diametro“.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -89,7 +70,8 @@ media_all_json: |-
 - id: c-171912
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 96"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 96."
   citata_originali: |
     Man sakė, kad Karaliaučiuje
     buvo Kęstučio vėliava, kurioje pavaizduotas šuoliuojantis juo­

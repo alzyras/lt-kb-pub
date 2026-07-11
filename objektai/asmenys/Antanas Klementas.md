@@ -38,12 +38,6 @@ Vokiečių ŽEMAITIŠKA DAINELĖ Antanas Klementas.
 - t-001
   global_id: t-193822
   teiginys: "Vokiečių ŽEMAITIŠKA DAINELĖ Antanas Klementas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "614859-614966; hash=a98e9d085bfd3892ef20e50a91fa0dc59ee7232d8a14f81f74d16c146c2cb0f5; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176466
 ## Reikšmingi paminėjimai
@@ -60,8 +54,8 @@ Vokiečių ŽEMAITIŠKA DAINELĖ Antanas Klementas.
     dainelė, revoliucijos laikais
     rašyta... 1794 m.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

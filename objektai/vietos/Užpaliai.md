@@ -42,20 +42,6 @@ media_all_json: |-
 - t-001
   global_id: t-38157
   teiginys: "Po Svėdasų užėmimo P. Genys užėmė Užpalius, o 1919 m. birželio 5 d. - Antalieptę."
-  semantiniai_rysiai: "P. Genys užėmė Užpaliai (0.94); P. Genys užėmė Svėdasai (0.90); P. Genys užėmė Antalieptė (0.86)"
-  temporaliniai_duomenys: "įvykio data: 1919 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalintas OCR triukšmas ir suformuotas pilnas sakinys iš citatos."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "749880-749970; hash=8627f6e29b985fe2bcdae46cfa514f0686fd0dcb6253311fdb4e5d2ee9ecdc61; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Užpaliai: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "P. Genys: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Užpaliai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Claimas tiesiogiai nurodo, kad P. Genys užėmė Užpalius."
   pagrindžia:
     - c-39962
 - susijęs iš [[objektai/asmenys/P. Genys.md#claim-t-39794|P. Genys]]: P. Genys birželio 3 d. užėmė Svėdasus, vėliau Užpalius, o birželio 5 d. - Antalieptę.
@@ -79,8 +65,8 @@ media_all_json: |-
 
     lio 5 d. Antalieptę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

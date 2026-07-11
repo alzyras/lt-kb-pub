@@ -42,17 +42,6 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
 - t-003
   global_id: t-42112
   teiginys: "Uždegti branderiai davė lietuviams signalą pradėti Salacgryvos uosto puolimą iš sausumos."
-  semantiniai_rysiai: "Lietuviai puolė Salacgryva (0.94); Lietuviai kariavo prieš Švedai (0.82)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "456726-457195; hash=68820a408e05f193df73c043ece1a6597ef46f9c88592e32f5da6a6e1cd160bf; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Salacgryva: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Salacgryva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Claimas tiesiogiai nurodo lietuvių pradėtą Salacgryvos uosto puolimą."
   pagrindžia:
     - c-45313
 
@@ -60,20 +49,6 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
 - t-002
   global_id: t-42113
   teiginys: "Jonas Karolis Chodkevičius Salacgryvos uosto prieigose slapta parengė du branderius - padegamuosius laivus."
-  semantiniai_rysiai: "Jonas Karolis Chodkevičius siuntė į Salacgryva (0.71)"
-  temporaliniai_duomenys: "įvykio data: 1609 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Reikia aiškiai įvardyti etmoną ir pašalinti neapibrėžtą nuorodą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "453902-454449; hash=4b0affcafc53c2bc42d6a877e93ea458fae4e74d400a51a96bd447672e2aff10; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "siunte_i -> Salacgryva: 0.71"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jonas Karolis Chodkevičius: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Salacgryva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Chodkevičius suformavo flotilę, kuri patraukė Salacgryvos uosto link; tai palaiko jo pajėgų nukreipimą į Salacgryvą."
   pagrindžia:
     - c-45315
 
@@ -81,20 +56,6 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
 - t-001
   global_id: t-42114
   teiginys: "Jonas Karolis Chodkevičius prie Salacgryvos žygiavo tiesiai per miškus, siekdamas užklupti priešą nepasiruošusį."
-  semantiniai_rysiai: "Jonas Karolis Chodkevičius keliavo į Piarnu (0.88)"
-  temporaliniai_duomenys: "įvykio data: 1609 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "451893-452177; hash=e87556d12e1f0c2c344bdfe56a908a9263c084070db79bd0286d89237318614c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Piarnu: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jonas Karolis Chodkevičius: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Piarnu: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Chodkevičius su kariuomene žygiavo Piarnu link."
   pagrindžia:
     - c-45314
 
@@ -102,20 +63,6 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
 - t-004
   global_id: t-183806
   teiginys: "Jonas Karolis Chodkevičius prie Salacgryvos žygiavo tiesiai per miškus, siekdamas užklupti priešą nepasiruošusį."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Jonas Karolis Chodkevičius keliavo į Piarnu (0.88)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "451819-452072; hash=4c00923b98e9c48e8b8b5ac02e124d1a7b94b431a831356d7566aa813273414c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Piarnu: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jonas Karolis Chodkevičius: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Piarnu: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Chodkevičius su kariuomene žygiavo Piarnu link."
   pagrindžia:
     - c-167191
 
@@ -123,20 +70,6 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
 - t-005
   global_id: t-183807
   teiginys: "Uždegti branderiai davė lietuviams signalą pradėti Salacgryvos uosto puolimą iš sausumos."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Lietuviai puolė Salacgryva (0.94); Lietuviai kariavo prieš Švedai (0.82)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "456653-456998; hash=b6380214808e081e9394a1ab67dda46c933f47c24d73ba90a0d6c5c56b26cf76; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Salacgryva: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Salacgryva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Claimas tiesiogiai nurodo, kad lietuviai pradėjo Salacgryvos uosto puolimą."
   pagrindžia:
     - c-167192
 - susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
@@ -160,8 +93,8 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
     čios flotilės ugnies, vis dėlto sugebėjo prasi-
     veržti į atvirą jūrą ir pasitraukti į Švediją.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -178,8 +111,8 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
     etmono Jono Karolio Chodkevičiaus vado-
     vaujama kariuomenė pasiekė Piarnu, tačiau
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -207,8 +140,8 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
     muoto karinio laivyno pajėgos, vadovauja-
     mos Jono Karolio Chodkevičiaus 1609 m.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -227,8 +160,8 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
     jis prie Salacgryvos (Salismiinde) žygiavo
     tiesiai per miškus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -249,8 +182,8 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
     galimybių švedams rimčiau pasipriešinti
     puolantiems lietuviams.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -376,4 +309,3 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
 
 ## Ryšiai
 - Puolė Salacgryvą: [[objektai/grupes/Lietuviai]]
-- Buvo siuntimo vieta: [[objektai/asmenys/Jonas Karolis Chodkevičius]]

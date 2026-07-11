@@ -46,19 +46,6 @@ Nenurodyta
 - t-002
   global_id: t-187488
   teiginys: "Lietuvos metraščio pasakojime Skirmantas liepė sužaloti Balaklajaus pasiuntinius, o kitais metais chanas patraukė į Rusų žemę."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "85866-86444; hash=cfdee5419fc256fd509f03b4f8ab525c11406974aaee276414f172255802777c; match=whitespace_regex"
-  sprendimo_priezastis: "gap::events"
-  ryšio_patikimumas: "susije_su -> Rusai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Skirmanto pergalė prie Kaidanovo: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Rusai: mention_match, group, gap=86"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Skirmanto pergalė prie Kaidanovo\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-170450
 
@@ -66,18 +53,6 @@ Nenurodyta
 - t-003
   global_id: t-187489
   teiginys: "Lietuvos metraštis teigia, kad Skirmantas prie Kaidanovo nugalėjo chaną Balaklajų ir nukovė jį mūšyje."
-  teiginio_tipas: "saltinio_teiginys"
-  semantiniai_rysiai: "Skirmantas dalyvavo mūšyje Skirmanto pergalė prie Kaidanovo (0.82)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "86465-86946; hash=b8f6406daa213cbdd02a9baa61bdb21a8a64cccb041a628f3840f3f4b3d994aa; match=whitespace_regex"
-  sprendimo_priezastis: "gap::events"
-  ryšio_patikimumas: "dalyvavo_musyje -> Skirmanto pergalė prie Kaidanovo: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Skirmantas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Skirmanto pergalė prie Kaidanovo: llm_allowed_candidate, event"
-  ryšio_paaiskinimas: "Teiginys aprašo Skirmanto pergalę mūšyje prie Kaidanovo."
   pagrindžia:
     - c-170451
 
@@ -85,18 +60,6 @@ Nenurodyta
 - t-004
   global_id: t-187490
   teiginys: "Lietuvos metraštis pasakoja, kad po pergalės Skirmantas užėmė Mozyriaus, Černigovo, Starodubo ir Karačevo miestus."
-  teiginio_tipas: "saltinio_teiginys"
-  semantiniai_rysiai: "Skirmantas užėmė Mozyrius (0.94); Skirmantas užėmė Starodubas (0.90); Skirmantas užėmė Karačevas (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "86465-86946; hash=b8f6406daa213cbdd02a9baa61bdb21a8a64cccb041a628f3840f3f4b3d994aa; match=whitespace_regex"
-  sprendimo_priezastis: "gap::events"
-  ryšio_patikimumas: "uzeme -> Mozyrius: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Skirmantas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Mozyrius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai teigia, kad Skirmantas paėmė Mozyriaus miestą."
   pagrindžia:
     - c-170451
 
@@ -104,19 +67,6 @@ Nenurodyta
 - t-001
   global_id: t-187491
   teiginys: "Lietuvos metraščio pasakojime Užvolgio chanas Balaklajus pareikalavo, kad Skirmantas mokėtų duoklę ir laikytų jo baskakus miestuose."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "85866-86444; hash=cfdee5419fc256fd509f03b4f8ab525c11406974aaee276414f172255802777c; match=whitespace_regex"
-  sprendimo_priezastis: "gap::events"
-  ryšio_patikimumas: "susije_su -> Skirmantas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Skirmanto pergalė prie Kaidanovo: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Skirmantas: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Skirmanto pergalė prie Kaidanovo\" parinktas kaip owner_note_path. Targetas \"Skirmantas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-170450
 
@@ -124,12 +74,6 @@ Nenurodyta
 - t-005
   global_id: t-193857
   teiginys: "Nugalėjo tą chaną, ir sumušė visą jo totoriškąją galybę, ir nukovė patį chaną \", Su didžios pergalės šlove nužygiavo Rusų žemėn ir paėmė Mozyriaus Černigovo, Starodubo l3 , Karačevo M miestus, ir, laimė jęs pergalę, be nuostolių pargrįžo atgalios."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "86299-86832; hash=3382a80b1230e4492b72e97684ba169d6bbc6120fd943f167fb71a5359aea48a; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176494
 ## Reikšmingi paminėjimai
@@ -149,8 +93,8 @@ Nenurodyta
     sutelktomis jėgomis bei totorių ordomis patraukė į Ru­
     sų žemę ir padarė daug žalos Rusų žemei.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -170,8 +114,8 @@ Nenurodyta
     Turėjo didysis kunigaikštis Skirmantas tris sūnus:
     vieną Treniotą IS , antrą Liubartą l6 , trečią Pisimantą l7 .
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -197,8 +141,8 @@ Nenurodyta
     Černigovo, Starodubo l3 , Karačevo M  miestus, ir, laimė­
     jęs pergalę, be nuostolių pargrįžo atgalios.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -209,7 +153,8 @@ Nenurodyta
 - id: c-170450
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 47"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 47."
   citata_originali: |
     Tuo metu Užvolgio chanu buvo chanas, vardu Ba-
     laklajus °, ir jis atsiuntė savo pasiuntinius pas didįjį
@@ -279,6 +224,3 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-193857
-
-## Ryšiai
-- Turėjo dalyvį: [[objektai/asmenys/Skirmantas]]

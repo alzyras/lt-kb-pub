@@ -32,16 +32,6 @@ giminių lietuviškos kilmės yra tik Goštautai ir Radvilos, o visos kitos – 
 - t-001
   global_id: t-19958
   teiginys: "XVI a. Oginskiai buvo viena iš įtakingų rusėnų kilmės giminių, laikiusių save LDK piliečiais."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "144333-144726; hash=cc7e9907045ddcf76cec6fa419ae609342a6fb98ea49aa476fdf42ed7c6472b3; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Rusėnai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Oginskiai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Rusėnai: mention_match, group, gap=33"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Oginskiai\" parinktas kaip owner_note_path. Targetas \"Rusėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-22689
 - susijęs iš [[objektai/asmenys/Puzinienė iš Oginskių.md#claim-t-87840|Puzinienė iš Oginskių]]: Puzinienė iš Oginskių 1766 m. Akademijos observatorijos įkūrimui, prietaisams ir astronomijos profesoriams užrašė 6 000 raudonųjų auksinų.
@@ -68,8 +58,8 @@ giminių lietuviškos kilmės yra tik Goštautai ir Radvilos, o visos kitos – 
     Radvilos, o visos kitos – Chodkevičiai, Sapiegos, Valavičiai, Tiškevičiai,
     Oginskiai ir kt.  – rusėnai, tačiau laikantys save LDK piliečiais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -95,6 +85,3 @@ giminių lietuviškos kilmės yra tik Goštautai ir Radvilos, o visos kitos – 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-19958
-
-## Ryšiai
-- Oginskiai gyveno [[objektai/vietos/Slanimas]]

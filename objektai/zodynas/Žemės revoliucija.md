@@ -43,19 +43,6 @@ Vartojamas kaip teorinis terminas, aiškinantis Žemės susiformavimą ir akmen�
 - t-002
   global_id: t-192283
   teiginys: "Narbutas mini hipotezę, kad dideli ir maži uolienų luitai Žemės revoliucijos metu buvo išbarstyti po įvairias lygumas."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "733492-734544; hash=1d2f6aaebbb335ef10ec7728cc04bc8b2f6faeac5b44bebb431488a2f2a1a661; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  ryšio_patikimumas: "susije_su -> Baltija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žemės revoliucija: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Baltija: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemės revoliucija\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175103
 
@@ -63,12 +50,6 @@ Vartojamas kaip teorinis terminas, aiškinantis Žemės susiformavimą ir akmen�
 - t-001
   global_id: t-192284
   teiginys: "Narbutas Žemės revoliucijos priežastis siejo su formuojantis Žemei išsiskyrusia ugnimi, dujomis ir garais, traiškiusiais žemės kevalą."
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "727621-728030; hash=ea07cf5760a288a9c66b1a69e63efa883c22f4a82e7eeabc2c0e08cb80d2933c; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175104
 ## Reikšmingi paminėjimai
@@ -96,8 +77,8 @@ Vartojamas kaip teorinis terminas, aiškinantis Žemės susiformavimą ir akmen�
     da, kai ištirpo ledkalniai, ir Žemės revoliucijos metu buvo išbarstyti
     po įvairias lygumas.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -115,8 +96,8 @@ Vartojamas kaip teorinis terminas, aiškinantis Žemės susiformavimą ir akmen�
     sias materijos lavinos, potvyniai, uolų trupėjimas, pusty­
     mas, viesulai, biraus žemės sluoksnio susiformavimas,
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -127,7 +108,8 @@ Vartojamas kaip teorinis terminas, aiškinantis Žemės susiformavimą ir akmen�
 - id: c-175103
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 401"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 401."
   citata_originali: |
     Štai,
     pavyzdžiui, Nemuno slenksčiuose matome daugybę akme­
@@ -158,7 +140,8 @@ Vartojamas kaip teorinis terminas, aiškinantis Žemės susiformavimą ir akmen�
 - id: c-175104
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 398"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 398."
   citata_originali: |
     Štai ir visas spėjimas apie Žemės revoliucijos priežas­
     tis. Tol, kol formavosi, t. y. tvirtėjo, pirmosios formacijos

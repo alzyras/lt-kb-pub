@@ -61,20 +61,6 @@ Nenurodyta
 - t-002
   global_id: t-87018
   teiginys: "Barboros Radvilaitės rūmų griuvėsiai stovėjo tarp Katedros ir Šv. Jurgio bažnyčios prie Vilijos, kol 1828 m. buvo parduoti plytoms."
-  semantiniai_rysiai: "Barboros Radvilaitės rūmai, griuvėsiai ir parduotos plytos priklausė Barbora Radvilaitė (0.70)"
-  temporaliniai_duomenys: "įvykio data: 1828 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Fragmentas išplėstas į pilną teiginį pagal citatą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "549243-550159; hash=262ab4b89a4ac5a483339f7ca1ef7cfe8fcde80dec218eac9870cdc85383c226; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Barbora Radvilaitė: 0.70"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Barboros Radvilaitės rūmai, griuvėsiai ir parduotos plytos: llm_allowed_candidate, thing"
-  ryšio_targeto_parinkimas: "Barbora Radvilaitė: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Griuvėsiai įvardyti kaip Barboros Radvilaitės rūmų griuvėsiai, tad ryšys su Barbora remiasi tiesioginiu pavadinimu."
   pagrindžia:
     - c-82997
 
@@ -82,17 +68,6 @@ Nenurodyta
 - t-001
   global_id: t-87019
   teiginys: "Barboros Radvilaitės rūmai stovėjo prie Vilijos, tarp sodų, prie pat Žemutinės pilies."
-  semantiniai_rysiai: "Barboros Radvilaitės rūmai, griuvėsiai ir parduotos plytos priklausė Barbora Radvilaitė (0.74)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "547745-548172; hash=bfecbe58114731cfd345ee49dc8810e849ca6ab4e7daff44a425e60127756956; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Barbora Radvilaitė: 0.74"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Barboros Radvilaitės rūmai, griuvėsiai ir parduotos plytos: llm_allowed_candidate, thing"
-  ryšio_targeto_parinkimas: "Barbora Radvilaitė: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Rūmai įvardyti kaip Barboros Radvilaitės rūmai, todėl nuosavybės ar priklausymo ryšys yra tiesiogiai numanomas iš teksto."
   pagrindžia:
     - c-82998
 ## Reikšmingi paminėjimai
@@ -129,8 +104,8 @@ Nenurodyta
     buvo karalienės Barboros rūmai,
     tvenkiniai ir sodai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -153,8 +128,8 @@ Nenurodyta
     Ten visas laisvesnes akimirkas Augustas praleisdavo šalia
     Barboros, kol pagaliau su ja susituokė30.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -224,6 +199,3 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87019
-
-## Ryšiai
-- Barboros Radvilaitės rūmai, griuvėsiai ir parduotos plytos priklausė [[objektai/asmenys/Barbora Radvilaitė]]

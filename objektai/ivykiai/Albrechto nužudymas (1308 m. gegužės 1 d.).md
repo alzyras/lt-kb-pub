@@ -56,20 +56,6 @@ Nenurodyta
 - t-001
   global_id: t-62740
   teiginys: "1308 m. gegužės 1 d. kunigaikštis Jonas Anlantas nužudė Romos karalių Albrechtą, kuris iš jo buvo atėmęs Austrijos kunigaikštystę."
-  teiginio_tipas: "faktas"
-  temporaliniai_duomenys: "įvykio data: 1308 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Reikia išsklaidyti dviprasmybę, kas iš ko buvo atėmęs Austrijos kunigaikštystę."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "737470-737789; hash=25d1eacda9b6ef218af4c1dd4b1a6d7930d335508b18866d498c08a857d2d7e6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Austrija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Albrechto nužudymas (1308 m. gegužės 1 d.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Austrija: mention_match, place, gap=35"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Albrechto nužudymas (1308 m. gegužės 1 d.)\" parinktas kaip owner_note_path. Targetas \"Austrija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-63513
 ## Reikšmingi paminėjimai
@@ -85,8 +71,8 @@ Nenurodyta
     Austrijos kunigaikštystę, nors tas ir buvo teisėtas įpėdinis.
       599 D.— Dunemunde; vėliau vok.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -97,7 +83,8 @@ Nenurodyta
 - id: c-63513
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 246"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 246."
   citata_originali: |
     104. Apie Albrechto, Romos karaliaus, nužudymą
 

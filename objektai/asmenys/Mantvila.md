@@ -30,12 +30,6 @@ APIE TOTORIŲ CHANĄ BATU, ŽEMAIČIŲ KUNIGAIKŠTI MANTVILĄ IR NAUGARDUKO ĮK�
 - t-001
   global_id: t-194113
   teiginys: "APIE TOTORIŲ CHANĄ BATU, ŽEMAIČIŲ KUNIGAIKŠTI MANTVILĄ IR NAUGARDUKO ĮKŪRIMĄ O Gimbutas taipogi ilgus metus buvo 2emaičių ku nigaikščiu ir pasimirė, 2emaičių kunigaikštystę valdy ti palikęs savo sūnui Mantvilai ."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "78325-78981; hash=7742436e223d544a812728f5c77352899bfd8fa672674e1b605fbc67697067cb; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176726
 
@@ -43,12 +37,6 @@ APIE TOTORIŲ CHANĄ BATU, ŽEMAIČIŲ KUNIGAIKŠTI MANTVILĄ IR NAUGARDUKO ĮK�
 - t-002
   global_id: t-194114
   teiginys: "O tuo laiku Žemaičių didysis kunigaikštis Mantvila sužinojo, kad Rusų šalis yra ištuštėjusi ir rusų kuni gaikščiai išvaikyti."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "79076-79545; hash=56157c34f665e03286a22910f13c9b19ba05624708c99fcd2aebcd088431fb9c; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176727
 ## Reikšmingi paminėjimai
@@ -71,8 +59,8 @@ APIE TOTORIŲ CHANĄ BATU, ŽEMAIČIŲ KUNIGAIKŠTI MANTVILĄ IR NAUGARDUKO ĮK�
     į Černigovo miestą6  ir paskui sužinojo, kad Kijevo
     miestas sudegintas ir visa Rusų žemė nusiaubta.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -94,8 +82,8 @@ APIE TOTORIŲ CHANĄ BATU, ŽEMAIČIŲ KUNIGAIKŠTI MANTVILĄ IR NAUGARDUKO ĮK�
     herbo, vardu Eikšį, o trečią Rožės herbo, vardu Griau-
     ž įl2 .
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

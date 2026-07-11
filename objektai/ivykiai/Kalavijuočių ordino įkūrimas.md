@@ -51,9 +51,6 @@ Nenurodyta
 - t-001
   global_id: t-66584
   teiginys: "Vyskupas Albertas 1202 m. įkūrė ordiną, kurį 1204 m. popiežius patvirtino ir kuriam suteikė templininkų įstatus."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "99447-99785; hash=28a829b9c659c234976353d98bb5dca99ac55574435ea555376e077399ff6ae0; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-66789
 
@@ -61,9 +58,6 @@ Nenurodyta
 - t-002
   global_id: t-66585
   teiginys: "Kalavijuočių ordinas turėjo tapti nuolatine organizuota vokiečių ir krikštytų čiabuvių karine pajėga."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "99787-100048; hash=cdab822a28ab19a581f2ea1fea8b2dfe8b6a64e7c285d27cb769e76a44b72b91; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-66788
 
@@ -71,9 +65,6 @@ Nenurodyta
 - t-004
   global_id: t-66586
   teiginys: "Vos įsikūręs Kalavijuočių ordinas pradėjo vaduotis iš vyskupo priklausomybės ir gavo trečdalį užimto krašto."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "100206-100514; hash=0775960d38c09e9fa802797fe828971230e405825c46421289aa20d76f3baa8b; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-66787
 
@@ -81,9 +72,6 @@ Nenurodyta
 - t-003
   global_id: t-66587
   teiginys: "Kalavijuočių ordinas turėjo ginti krikščionis, padėti atversti pagonis ir veikti kaip kraštą valdžiusio vyskupo įrankis."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "100000-100205; hash=f7fb28270b308cfc43b0b80d73462f9379751318028762d531bac8629cb16b69; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-66786
 ## Reikšmingi paminėjimai
@@ -97,8 +85,8 @@ Nenurodyta
     Jis buvo pavestas vyskupui, kurs turėjo valdyti kraštą; ordinas
     turėjo būti tiktai jo įrankis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -115,8 +103,8 @@ Nenurodyta
     imtas kraštas, taip buvo sutarta dalytis ir visa, kas dar bus nu-
     kariauta.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -132,8 +120,8 @@ Nenurodyta
     lūs kryžiaus žygiai. Tačiau visos akcijos centras jau buvo ordi-
     nas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -150,8 +138,8 @@ Nenurodyta
     balto jų apsiausto raudono kalavijo paprastai vadinamas ka-
     lavijuočių ordinu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

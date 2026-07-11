@@ -30,22 +30,6 @@ Graikų mitinėje sakmėje Jupiteris strėle nukovė Fajetoną, kuris nukrito i�
 - t-001
   global_id: t-191424
   teiginys: "Graikų mitinėje sakmėje Jupiteris strėle nukovė Fajetoną, kuris nukrito iš dangaus ir nuskendo Eridane."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Fajetonas mirė Eridanas (0.80)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "272457-272807; hash=2d8759eb92048d539a5a303024462baccbbd2d6b0d4460bea28a0afc3bcaa5b7; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "mire -> Eridanas: 0.80"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Fajetonas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Eridanas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Nuskendimas Eridane tiesiogiai leidžia sieti Fajetono mirties vietą su Eridanu."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174306
 - susijęs iš [[objektai/asmenys/Targitas.md#claim-t-191327|Targitas]]: Pasak Narbuto perteikiamų graikų padavimų, Targitas buvo Jupiterio sūnus ir pirmasis tikrųjų skitų karalius.
@@ -68,8 +52,8 @@ Graikų mitinėje sakmėje Jupiteris strėle nukovė Fajetoną, kuris nukrito i�
     sukėlė žemėje ¡baisius padarinius. Jį nukovė Jupiterio strė­
     lė; jis nukrito iš dangaus ir nuskendo Vakaruose, Eridane.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -80,7 +64,8 @@ Graikų mitinėje sakmėje Jupiteris strėle nukovė Fajetoną, kuris nukrito i�
 - id: c-174306
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 151"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 151."
   citata_originali: |
     156
     Iš tikrųjų graikų poetai pateikia mitinę ¡sakmę apie

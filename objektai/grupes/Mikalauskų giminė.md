@@ -30,14 +30,6 @@ Simonaitė (Simonajte) Moteriškos giminės fetišas, jį garbino Mikuckių gimi
 - t-001
   global_id: t-194792
   teiginys: "Simonaitė (Simonajte) Moteriškos giminės fetišas, jį garbino Mikuckių giminė."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "350784-350937; hash=2be56bb937e1301368060644c573a67ac9348447bfc7c893bddfffc5c2eb4040; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-177188
 ## Reikšmingi paminėjimai
@@ -53,8 +45,8 @@ Simonaitė (Simonajte) Moteriškos giminės fetišas, jį garbino Mikuckių gimi
     Ventis (W entis)
     Semetų giminės fetišas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -65,7 +57,8 @@ Simonaitė (Simonajte) Moteriškos giminės fetišas, jį garbino Mikuckių gimi
 - id: c-177188
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 206"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 206."
   citata_originali: |
     Simonaitė (Simonajte)
     Moteriškos giminės fetišas, jį garbino Mikuckių giminė.

@@ -65,12 +65,6 @@ Nenurodyta
 - t-001
   global_id: t-28917
   teiginys: "Bajorija valdovo privilegijomis 1387, 1413, 1434 ir 1447 m. buvo palaikoma ir stiprinama kaip atskiras galingas visuomenės sluoksnis."
-  temporaliniai_duomenys: "įvykio data: 1447 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Reikia pašalinti OCR triukšmą ir suformuluoti glaustesnį sakinį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "419799-420314; hash=9e47cf7653e65a9eba1f71cda9d8154303bb6579126b178d422349d570239cef; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-28821
 
@@ -78,22 +72,6 @@ Nenurodyta
 - t-002
   global_id: t-184345
   teiginys: "Valdovo privilegijos 1387, 1413, 1434 ir 1447 m. palaikė bajoriją kaip atskirą ir stiprėjantį visuomenės sluoksnį."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1447 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko teiginį, bet jame buvo OCR triukšmo ir perteklinė konstrukcija."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "419893-420496; hash=5f9396a7e9c7bd88f470a294600a2877dad98bced4f72beb3f6d8a4913c29c51; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Rusai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Bajorijos stiprinimas valdovo privilegijomis (privilegija): owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Rusai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bajorijos stiprinimas valdovo privilegijomis (privilegija)\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-167715
 ## Reikšmingi paminėjimai
@@ -110,8 +88,8 @@ Nenurodyta
     paliuosuodamas nuo piniginės prievolės valstybei, Kazimieras savo
     privilegija (1447) padėjo pagrindą baudžiavinei epochai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -133,8 +111,8 @@ Nenurodyta
     tuvių tauta, nors ir valdydama daug rusų žemių ir turėdama pasto­
     vių sąlyčių su rytais, aiškiai pasuko Vakarų link.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

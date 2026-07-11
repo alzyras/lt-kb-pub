@@ -35,14 +35,6 @@ Iškilus didesnių sričių valdovams —kunigaikščiams, senieji apylinkių va
 - t-001
   global_id: t-193290
   teiginys: "Iškilus didesnių sričių valdovams —kunigaikščiams, senieji apylinkių vadai—rikiai—tapo aukštesniuoju visuomenės sluoksniu, arba bajorija."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "79550-79758; hash=f1d1895185c4f4e27520143cd84702cbfa0760ebfe0a5337ef098b999ac73508; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-176018
 ## Reikšmingi paminėjimai
@@ -56,8 +48,8 @@ Iškilus didesnių sričių valdovams —kunigaikščiams, senieji apylinkių va
     niuoju visuomenės sluoksniu, arba bajorija. Be jų, buvo
     dar kitų, žemesnių sluoksnių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -41,20 +41,6 @@ media_all_json: |-
 - t-001
   global_id: t-32413
   teiginys: "Viduriniame geležies amžiuje baltai ir toliau gyveno Nemuno, Dauguvos ir Dniepro plote, nedaug tepajudėdami."
-  semantiniai_rysiai: "Baltai gyveno Nemuno-Dauguvos-Dniepro plotas (0.97)"
-  temporaliniai_duomenys: "gyvenimo laikotarpis: 800 m; gyvenimo laikotarpis: 400-800"
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „gyvenimo laikotarpis“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pirminį teiginį verta patikslinti citatoje nurodytu laikotarpiu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "300744-301270; hash=8616a3b3f91807bf1bd5522ac2584a650eec5ecee34cc3577ccceff0e32240c2; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Nemuno-Dauguvos-Dniepro plotas: 0.97"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Baltai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Nemuno-Dauguvos-Dniepro plotas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad baltai pasiliko gyventi Nemuno-Dauguvos-Dniepro plote."
   pagrindžia:
     - c-33975
 ## Reikšmingi paminėjimai
@@ -74,8 +60,8 @@ media_all_json: |-
     liai, be jokių lūžių vystydami savo kultūrą viduriniame geležies
     amžiuje, baltai išlaikė ją aukštame laipsnyje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

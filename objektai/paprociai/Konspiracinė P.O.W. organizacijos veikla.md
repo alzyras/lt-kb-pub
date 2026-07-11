@@ -54,11 +54,6 @@ Nenurodyta
 - t-001
   global_id: t-67125
   teiginys: "P.O.W. organizacija slapta rengė sukilimą ir stengėsi į savo pusę patraukti Lietuvos karininkus bei kareivius."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "1110506-1110960; hash=0f5e553e6185e53e075d9590d8470a07e2f16fd5bab1742f5537dfdc1d0ed087; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-67151
 
@@ -66,9 +61,6 @@ Nenurodyta
 - t-002
   global_id: t-67126
   teiginys: "P.O.W. organizacijos nariai veikė slaptai, turėjo slapyvardžius, o svarbesnius raštus rašė šifru."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "1109884-1110657; hash=92722be1179cc839594f90bc38e37bbc7bc3d712c7130eb343514ca28e2af165; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-67153
 ## Reikšmingi paminėjimai
@@ -86,8 +78,8 @@ Nenurodyta
     pasisekę patraukti; kiti sąmokslininkai tyčia stojo į kariuomenę
     karininkais ir rūpinosi gauti atsakingas vietas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -111,8 +103,8 @@ Nenurodyta
     daroma slaptai: kiekvienas narys turėjo slapyvardį, o visi svar-
     besnieji raštai buvo rašomi šifruoti (slapta, sutartine abėcėle).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

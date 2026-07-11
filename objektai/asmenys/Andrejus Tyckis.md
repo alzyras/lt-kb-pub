@@ -33,16 +33,6 @@ media_all_json: |-
 - t-001
   global_id: t-87621
   teiginys: "Žygimantas Senasis rašė Vilniaus miestiečiui Andrejui Tyckiui dėl Smolensko muito ir smuklių arendavimo."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "539394-539687; hash=4ee2eeb8162e722ac26e6f1cb0eea3555965acdf790fec0a3bd7e9646f95da65; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Smolenskas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Andrejus Tyckis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Smolenskas: mention_match, place, gap=21"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Andrejus Tyckis\" parinktas kaip owner_note_path. Targetas \"Smolenskas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-83600
 ## Reikšmingi paminėjimai
@@ -62,8 +52,8 @@ media_all_json: |-
     jui Tiekiui] dėl Smolensko muito ir
     smuklių arendavimo. Knyga 8,1.87.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

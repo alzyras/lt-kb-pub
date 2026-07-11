@@ -37,17 +37,6 @@ media_all_json: |-
 - t-001
   global_id: t-191866
   teiginys: "„Gazeta Warszawska“ 1856–1859 m. paskelbė I–X „Laiškų nuo Kražantės krantų“ ciklo laiškus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1856-1859; įvykio data: 1859 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sakinys patikslintas pagal bibliografinę išnašą ir pašalintas OCR triukšmas. Nepridėta nieko apie ciklo autorystę ar recenzento tapatybę."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "813604-813999; hash=62fbc28c034128db9b13e2488103c5ef9e8980746c8a0b1535594c5f4851a187; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174748
 ## Reikšmingi paminėjimai
@@ -67,8 +56,8 @@ media_all_json: |-
     (list
     1—X).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -79,7 +68,8 @@ media_all_json: |-
 - id: c-174748
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 450"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 450."
   citata_originali: |
     Trečia (o tai yra įdomiausia ir nau-
     joviškiausia), čia yra tiek mažai autentiškumo, jog vė­

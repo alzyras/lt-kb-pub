@@ -38,14 +38,6 @@ media_all_json: |-
 - t-001
   global_id: t-194841
   teiginys: "(Medicinos daktaro Renjė 1839 metų gmodžio 15 dienos laiškas iš Vilniaus.) Sį pastebėjimą ponas Podčašinskis padarė dar prieš man aprašant tuos dalykus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "474649-475379; hash=f8c95ba638061230a33a1a34a5230f7c704f88f53b1f78a4e081897845bb522b; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-177237
 ## Reikšmingi paminėjimai
@@ -67,8 +59,8 @@ media_all_json: |-
     pastebėjimą ponas Podčašinskis padarė dar prieš man aprašant tuos
     dalykus*.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -79,7 +71,8 @@ media_all_json: |-
 - id: c-177237
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 272"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 272."
   citata_originali: |
     Toji šventykla turėjo būti su kariniais
     įtvirtinimais, nes senoviniuose XVI amžiaus dokumentuose mi­

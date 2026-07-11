@@ -55,13 +55,6 @@ Nenurodyta
 - t-001
   global_id: t-62251
   teiginys: "1306 m. Karaliaučiaus pilyje prie švento Ruprechto relikvijų, pasak Dusburgiečio, gijo žmonės, šunys ir traukos gyvuliai."
-  teiginio_tipas: "faktas"
-  temporaliniai_duomenys: "įvykio data: 1306 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalinta antraštinė ir perteklinė formuluotė; išlaikyta stebuklo pasakojimo atribucija."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "736614-736880; hash=056ac7780abab532c97cf3ee44ec8a913d9dfc5c6659d701a5a4b1ee15ad7874; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-62760
 ## Reikšmingi paminėjimai
@@ -80,8 +73,8 @@ Nenurodyta
 
         102.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -92,7 +85,8 @@ Nenurodyta
 - id: c-62760
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 246"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 246."
   citata_originali: |
     101. Apie švento Ruprechto stebuklus Karaliaučiuje
 

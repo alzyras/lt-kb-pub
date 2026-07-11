@@ -38,20 +38,6 @@ Gričino pelkės buvo didžiuliai pelkių plotai į pietus nuo Slucko.
 - t-001
   global_id: t-187226
   teiginys: "Gričino pelkės buvo didžiuliai pelkių plotai į pietus nuo Slucko."
-  teiginio_tipas: "faktas"
-  temporaliniai_duomenys: "įvykio data: 1505 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie Gričino pelkių pobūdį ir vietą. Pašalinis datavimo fragmentas iš citatos neįtrauktas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "646597-646719; hash=612276e3d9b7ff3c2b7247debb8d069cfc320a8210367319f05e776d108432bf; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  ryšio_patikimumas: "susije_su -> Sluckas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gričino pelkės: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Sluckas: mention_match, place, gap=58"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gričino pelkės\" parinktas kaip owner_note_path. Targetas \"Sluckas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-170292
 
@@ -59,21 +45,6 @@ Gričino pelkės buvo didžiuliai pelkių plotai į pietus nuo Slucko.
 - t-002
   global_id: t-187576
   teiginys: "Gričino pelkės buvo didžiuliai pelkių plotai į pietus nuo Slucko."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "646641-646854; hash=9bff91ad0f5672411ddadaa596bfe46d1c517fce137594c10b699be4ebfa199e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Sluckas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gričino pelkės: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Sluckas: mention_match, place, gap=58"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gričino pelkės\" parinktas kaip owner_note_path. Targetas \"Sluckas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-170524
 - susijęs iš Davidgorodokas: Gorodokas veikiausiai tapatinamas su Davidgorodoku.
@@ -88,8 +59,8 @@ Gričino pelkės buvo didžiuliai pelkių plotai į pietus nuo Slucko.
     Galėjo būti 1504, bet ir 1505 m. (žr. past. 27 Ir 28).
     7 1  Gričino pelkės — didžiuliai pelkių plotai j pietus nuo Slucko.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -105,8 +76,8 @@ Gričino pelkės buvo didžiuliai pelkių plotai į pietus nuo Slucko.
     120 km | pietus nuo Slucko, apie 12 km j pietus nuo Pripetės
     upės).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

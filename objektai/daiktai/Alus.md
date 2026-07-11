@@ -45,14 +45,6 @@ Nenurodyta
 - t-001
   global_id: t-189642
   teiginys: "Narbutas aiškina, kad alus senovės lietuviams buvo svarbiausias svaiginamasis gėrimas ir įėjo į slapiasias aukas arba vaišes."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "535167-535545; hash=bae256e2fb20ab8d01bc65bb9f304e18b268481de4bb55f649ac4e3a1010dbe0; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172525
 
@@ -60,21 +52,6 @@ Nenurodyta
 - t-002
   global_id: t-189644
   teiginys: "Narbutas nurodo, kad duona ir alus buvo visų aukų pagrindas, naudojamas sutinkant ar išleidžiant svečius ir apeigose."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "542057-542356; hash=4143af095111f0520b29cbdfefa75ef89dde760ddfff11a9c83545820ba3e6b1; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Duona: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Alus: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Duona: mention_match, thing, gap=9"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Alus\" parinktas kaip owner_note_path. Targetas \"Duona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-172527
 
@@ -82,14 +59,6 @@ Nenurodyta
 - t-003
   global_id: t-194608
   teiginys: "Įvairiai ruošiant javus, lengva ap tikti salyklo darymo būdą, ar tai atsitiktinai sudygus grūdams, ar dirbtinai juos sudaiginus, o iš jų padarytam nuovirui per ėjus fermentaciją, alus jau ir gatavas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "536354-536856; hash=86b5a9fad6d4e56f40f198994e015ab236dbdb9e382ac356465f7d06d6d1ef1b; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-177007
 - susijęs iš [[objektai/grupes/Rusinai.md#claim-t-189407|Rusinai]]: Narbutas nurodė, kad rusinai alaus tipo gėrimą vadino Ohij, o lietuviai, prūsai ir latviai turėjo giminingus pavadinimus Alaus, Alus ir Alius.
@@ -116,8 +85,8 @@ Nenurodyta
     sias aukas arba vaišes. Todėl reikia panagrinėti jo mitologinę
     kilme.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -134,8 +103,8 @@ Nenurodyta
     davo atliekamos kokios nors apeigos, be duonos ir alaus ne­
     būdavo galima apsieiti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -155,8 +124,8 @@ Nenurodyta
     A e l, Al, rusinai -  Ohij1 2, lietuviai vadina alumi (Alaus), prūsai -
     Alus, latviai Alius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -167,7 +136,8 @@ Nenurodyta
 - id: c-172525
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 306"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 306."
   citata_originali: |
     Tą
     patį dalyką plačiai dėstė mokslininkai Van-Dalė (Van-Dale)lr
@@ -191,7 +161,8 @@ Nenurodyta
 - id: c-172527
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 310"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 310."
   citata_originali: |
     Tačiau visų aukų pagrindas buvo
     duona ir alus. Ar sutinkant ką nors, ar išleidžiant, duoną ir alų
@@ -209,7 +180,8 @@ Nenurodyta
 - id: c-177007
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 307"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 307."
   citata_originali: |
     Įvairiai ruošiant javus, lengva ap­
     tikti salyklo darymo būdą, ar tai atsitiktinai sudygus grūdams,

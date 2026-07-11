@@ -39,21 +39,6 @@ media_all_json: |-
 - t-001
   global_id: t-83565
   teiginys: "1919 m. 7-asis pulkas atsitraukęs užėmė 1,5 km gynybos ruožą palei Širvintos ir Kertušos upes nuo Levainių iki Kačiniškių dvaro."
-  temporaliniai_duomenys: "įvykio data: 1919 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Perrašyta sklandžiau ir įtrauktas citatoje nurodytas laikas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "849070-849353; hash=db75680621bb18321c908d083a59c0b892d8f7aceccab2c05f6874a999f6d7b1; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Rytas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kertuša: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Rytas: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kertuša\" parinktas kaip owner_note_path. Targetas \"Rytas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-79862
 
@@ -61,16 +46,6 @@ media_all_json: |-
 - t-003
   global_id: t-83566
   teiginys: "Pabaisko parapijos ribos ėjo nuo Širvintos iki Šventosios ir buvo juosiamos Kertušos upės, tekančios per Šešuolės mišką iki Šesarkos."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "492335-493264; hash=ab605063a7bd1d1816cc37b0973ad06a23293e6e93fc218b28ea8eab97e4d123; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Šesarka: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kertuša: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Šesarka: mention_match, place, gap=48"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kertuša\" parinktas kaip owner_note_path. Targetas \"Šesarka\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-79860
 
@@ -78,16 +53,6 @@ media_all_json: |-
 - t-002
   global_id: t-83567
   teiginys: "Pabaisko parapijos ribos buvo juosiamos Kertušos upės, tekančios per Šešuolės mišką iki Šesarkos upės."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "492335-493264; hash=ab605063a7bd1d1816cc37b0973ad06a23293e6e93fc218b28ea8eab97e4d123; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Šesarka: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kertuša: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Šesarka: mention_match, place, gap=48"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kertuša\" parinktas kaip owner_note_path. Targetas \"Šesarka\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-79860
 - susijęs iš Pabaisko bažnyčia ir parapija: Pabaisko parapijos ribos turėjo eiti nuo Širvintos upės iki Šventosios ir būti juosiamos Kertušos upės.
@@ -122,8 +87,8 @@ media_all_json: |-
     pastatyta ir veikti, kad nepadarytų nuostolio ir skriaudos
     minėtai Pabaisko bažnyčiai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -142,8 +107,8 @@ media_all_json: |-
     Kertušos upes nuo Levainių dvaro iki
     Kačiniškių dvaro. Kovos veiksmai aprimo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

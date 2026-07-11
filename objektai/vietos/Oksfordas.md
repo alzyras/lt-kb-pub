@@ -39,19 +39,6 @@ Vilniaus universiteto profesorių veikalai pasiekė net protestantiškąją Angl
 - t-001
   global_id: t-21665
   teiginys: "Oksfordo daktarai rėmėsi Martyno Smigleckio „Logika“ (1618 m.), vienu iš Vilniaus universiteto profesorių veikalų, pasiekusių protestantiškąją Angliją."
-  temporaliniai_duomenys: "įvykio data: 1618 m.; įvykio data: 1646 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs, citata leidžia suformuluoti aiškų faktą apie Oksfordą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "148136-148979; hash=db2629e14c6b02a75737a4fe20e5de58701bb2d2451b774fd8432d32961eb14c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Anglai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Oksfordas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Anglai: mention_match, group, gap=143"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Oksfordas\" parinktas kaip owner_note_path. Targetas \"Anglai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-24344
 - susijęs iš [[objektai/autoriai/Martynas Smigleckis.md#claim-t-105593|Martynas Smigleckis]]: Martyno Smigleckio „Logika“ (1618 m.) pasiekė protestantiškąją Angliją, ja rėmėsi Sorbonos ir Oksfordo daktarai.
@@ -89,8 +76,8 @@ Vilniaus universiteto profesorių veikalai pasiekė net protestantiškąją Angl
     buvo išversta iš lotynų į anglų kalbą ir skaitoma Europos universitetuose
     vietoje įprasto Horacijaus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

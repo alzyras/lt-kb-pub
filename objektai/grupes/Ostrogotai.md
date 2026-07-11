@@ -30,14 +30,6 @@ Teodoro Narbuto apibūdinimu, ostrogotus tuo metu valdė Teodorikas, gudrus, god
 - t-001
   global_id: t-192959
   teiginys: "Teodoro Narbuto apibūdinimu, ostrogotus tuo metu valdė Teodorikas, gudrus, godus ir valdžios bei turtų troškęs valdovas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "570570-570904; hash=ea563e3f3bc2c42b18df06a96e4c15e4b02366abe3d8414ee18789ea2e54237d; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175729
 - susijęs iš [[objektai/asmenys/Teodorikas Didysis.md#claim-t-191155|Teodorikas Didysis]]: Narbutas Teodoriką apibūdino kaip ostrogotų valdovą, gudrų, godų ir sumanų žmogų, ištroškusį valdžios bei turtų.
@@ -61,8 +53,8 @@ Teodoro Narbuto apibūdinimu, ostrogotus tuo metu valdė Teodorikas, gudrus, god
     valdžios ir turtų. Dažnos pergalės ir kovingumas darė jį
     to amžiaus pirmuoju riteriu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -73,7 +65,8 @@ Teodoro Narbuto apibūdinimu, ostrogotus tuo metu valdė Teodorikas, gudrus, god
 - id: c-175729
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 318"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 318."
   citata_originali: |
     Šitaip nugalėdamas priešus ir siekdamas
     tikros gerovės savo valdiniams, jis nenugalėjo atkakliau­

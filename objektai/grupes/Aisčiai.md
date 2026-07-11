@@ -42,18 +42,6 @@ Jis juos vadina aisčiais (aestii, aestiorum gentes). Visi aisčiai, pagal kalbo
 - t-001
   global_id: t-43365
   teiginys: "Kalbininkai aisčius pagal kalbos tarmę skirsto į tris grupes: prūsus, lietuvius ir latvius."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "81426-81637; hash=925921f1c0d3eecf18057ee0d74105b6f43896589e9cbebc1042ade1d2ec8eb6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Latviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aisčiai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Latviai: mention_match, group, gap=71"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aisčiai\" parinktas kaip owner_note_path. Targetas \"Latviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-46946
 
@@ -61,12 +49,6 @@ Jis juos vadina aisčiais (aestii, aestiorum gentes). Visi aisčiai, pagal kalbo
 - t-002
   global_id: t-193085
   teiginys: "Jis juos vadina aisčiais (aestii, aestiorum gentes)."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "54533-54866; hash=fecfdc4300ec751fde3d7b5b0b68b65177cc7c64c1f4448672429211cf80c716; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-175850
 - susijęs iš Padauguvis: Nuo XI a., skandinavams liovusis lankytis Padauguvyje, į šį kraštą pradėjo atvykti vokiečių pirkliai.
@@ -154,8 +136,8 @@ Jis juos vadina aisčiais (aestii, aestiorum gentes). Visi aisčiai, pagal kalbo
     grupes — prūsus, lietuvius ir latvius. Tarminiai kalbos skirtumai
     tarp jų istorinių laikų pradžioje dar buvo nežymūs.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -172,8 +154,8 @@ Jis juos vadina aisčiais (aestii, aestiorum gentes). Visi aisčiai, pagal kalbo
     pasikeitimo, tai reikia manyti, kad jau nuo naujojo akmens am-
     žiaus čia bus gyvenę tie patys aisčiai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -219,4 +201,3 @@ Jis juos vadina aisčiais (aestii, aestiorum gentes). Visi aisčiai, pagal kalbo
 
 ## Ryšiai
 - Prekiavo su: [[objektai/grupes/Vokiečių pirkliai]]
-- Aisčiai gyveno [[objektai/vietos/Baltija]]

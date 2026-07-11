@@ -55,17 +55,6 @@ Nenurodyta
 - t-001
   global_id: t-87123
   teiginys: "Bisenės pilies įgula atrėmė vokiečius, nors šie naudojo sunkiuosius ginklus."
-  semantiniai_rysiai: "Kryžiuočių ordinas puolė Bisenė (0.88)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "158401-158955; hash=6d3b9416fe7ae70d53b3bcd6d17941d8e955f01a2f9efbfa182000d908a50800; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Bisenė: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Bisenė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad kryžiuočių kariauna puolė Bisenės pilies link."
   pagrindžia:
     - c-83102
 ## Reikšmingi paminėjimai
@@ -89,8 +78,8 @@ Nenurodyta
     joms kautynėms, gynėjai prašė taikos ir davė įkaitų laiduo­
     dami, kad sutiksią paklusti Ordinui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

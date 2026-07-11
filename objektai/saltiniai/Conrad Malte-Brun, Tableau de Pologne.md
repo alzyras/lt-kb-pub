@@ -30,21 +30,6 @@ Narbutas Malte-Brunui priskiria pastabą, kad Styrės upė išsaugojo stūmių, 
 - t-001
   global_id: t-191770
   teiginys: "Narbutas Malte-Brunui priskiria pastabą, kad Styrės upė išsaugojo stūmių, jo taisomų į Stirnii, gyvenamųjų vietų pavadinimą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "180916-181402; hash=163e2e976e92b50b657dfe0cfd4f6c118d7ff457ec5cf1957483a84fb45aece2; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Styrė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Conrad Malte-Brun, Tableau de Pologne: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Styrė: mention_match, place, gap=36"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Conrad Malte-Brun, Tableau de Pologne\" parinktas kaip owner_note_path. Targetas \"Styrė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174652
 ## Reikšmingi paminėjimai
@@ -64,8 +49,8 @@ Narbutas Malte-Brunui priskiria pastabą, kad Styrės upė išsaugojo stūmių, 
     lis prie Dauguvos Witsby, kur dabar yra Vitebskas, —
     apie tai Karamzinas rašo savo tyrimuose3.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -76,7 +61,8 @@ Narbutas Malte-Brunui priskiria pastabą, kad Styrės upė išsaugojo stūmių, 
 - id: c-174652
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 101"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 101."
   citata_originali: |
     91
     Tačiau, atsižvelgdami j didžiausią tikimybę, pasirin­

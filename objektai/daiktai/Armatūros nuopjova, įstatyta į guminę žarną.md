@@ -58,12 +58,6 @@ Nenurodyta
 - t-001
   global_id: t-40693
   teiginys: "Armatūros nuopjova, įstatyta į guminę žarną, datuojama 1991 m."
-  temporaliniai_duomenys: "įvykio data: 1991 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys, paremtas katalogine antrašte."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1125992-1126147; hash=93da01dbd3b7d877d8511bf3519ca56f2264c728f893cbae1e8909940367093d; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-44638
 ## Reikšmingi paminėjimai
@@ -74,8 +68,8 @@ Nenurodyta
     p. 252, Armatūros nuopjova, įstatyta į guminę žarną. 1991 m., VDKM, Artūro Užgalio nuotr.
     p. 252, Armatūros nuopjovos. 1991 m., VDKM, Artūro Užgalio nuotr.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

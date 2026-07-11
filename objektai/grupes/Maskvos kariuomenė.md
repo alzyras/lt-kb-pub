@@ -34,16 +34,6 @@ Maskvos pajėgos Vasilijaus 111 sutelktą Maskvos kariuomenę sudarė (Lietuvos 
 - t-001
   global_id: t-38877
   teiginys: "Lietuvos ir Lenkijos šaltinių duomenimis, Vasilijaus III sutelktoje Maskvos kariuomenėje buvo 80 000 karių, daugiausia raitelių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "326070-326499; hash=56920360c1df89225776ec23d503e33eced5bd43a7887bf5ed183e746d29b696; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Maskva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Maskvos kariuomenė: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Maskva: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskvos kariuomenė\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-40682
 
@@ -51,16 +41,6 @@ Maskvos pajėgos Vasilijaus 111 sutelktą Maskvos kariuomenę sudarė (Lietuvos 
 - t-002
   global_id: t-38878
   teiginys: "Maskvos kariuomenėje dalyvavo Naugardo, Pskovo, Tverės ir kitų sričių raiteliai, valdovo dvaro pulkas bei Sivinduko vadovaujami totoriai."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "326322-326663; hash=5c00a26eb7c8792ad8385f70576469a521467825323d6e4bd38bd31095b97503; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Maskva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Maskvos kariuomenė: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Maskva: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskvos kariuomenė\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-40681
 
@@ -68,20 +48,6 @@ Maskvos pajėgos Vasilijaus 111 sutelktą Maskvos kariuomenę sudarė (Lietuvos 
 - t-003
   global_id: t-183663
   teiginys: "Maskvos kariuomenėje dalyvavo Naugardo, Pskovo, Tverės ir kitų sričių raiteliai, valdovo dvaro pulkas bei Sivinduko vadovaujami totoriai."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Totoriai priklausė Maskvos kariuomenė (0.78)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "326246-326609; hash=8e9fc40fd0a8864fecddbe5988f7069b8b0937992f52b891fcdd4a94d81f98a5; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Maskvos kariuomenė: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Totoriai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Maskvos kariuomenė: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Totoriai minimi kaip Maskvos kariuomenės dalyviai."
   pagrindžia:
     - c-167055
 - susijęs iš [[objektai/asmenys/Zigmantas Herberšteinas.md#claim-t-40547|Zigmantas Herberšteinas]]: Diplomatas Zigmantas Herberšteinas vėliau aprašė mūšį ir perteikė Čeliadnino žodžius apie Lietuvos kariuomenės persikėlimą.
@@ -107,8 +73,8 @@ Maskvos pajėgos Vasilijaus 111 sutelktą Maskvos kariuomenę sudarė (Lietuvos 
     turėjo su savimi daug prisiplėšto gro-
     bio.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -131,8 +97,8 @@ Maskvos pajėgos Vasilijaus 111 sutelktą Maskvos kariuomenę sudarė (Lietuvos 
     riai, vadovaujami murzos Sivinduko,
     kunigaikščio Madyko sūnaus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -153,8 +119,8 @@ Maskvos pajėgos Vasilijaus 111 sutelktą Maskvos kariuomenę sudarė (Lietuvos 
     pėstininkų pajėgų, kurios pasiliko prie
     Dorogobužo ir Smolensko.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -232,5 +198,4 @@ Maskvos pajėgos Vasilijaus 111 sutelktą Maskvos kariuomenę sudarė (Lietuvos 
     - t-183663
 
 ## Ryšiai
-- Turėjo priklausinį: [[objektai/grupes/Totoriai]]
 - Maskvos kariuomenė užėmė [[objektai/vietos/Livonija]], [[objektai/vietos/Narva]], [[objektai/vietos/Tartu]]

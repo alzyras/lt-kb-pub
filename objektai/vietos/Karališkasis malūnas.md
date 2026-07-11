@@ -43,20 +43,6 @@ media_all_json: |-
 - t-001
   global_id: t-86297
   teiginys: "1469 m. bernardinams Vilniuje buvo atiduotas platus slėnis palei Vilnios upę prie Karališkojo malūno."
-  semantiniai_rysiai: "Karališkasis malūnas Vilniuje priklausė Vilnius (0.68)"
-  temporaliniai_duomenys: "įvykio data: 900 m; įvykio data: 1469 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai sieja vietą su Karališkuoju malūnu ir yra pagrįstas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "458419-459748; hash=d76cb25289e933cea9726046d16ed1e5c3e4839dcbd6bb3319ac71ffcde39b00; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Vilnius: 0.68"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Karališkasis malūnas Vilniuje: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Kontekstas nurodo vietą Vilniuje prie Vilnios upės ir Karališkojo malūno, todėl malūnas lokalizuojamas Vilniuje."
   pagrindžia:
     - c-82276
 - susijęs iš Karališkasis malūnas Vilniuje: Karališkasis malūnas Vilniuje Lietuvos Metrikoje buvo įvardytas kaip Molendinum Vilnense, arba Vilniaus malūnas.
@@ -110,8 +96,8 @@ media_all_json: |-
     VILNIAUS MIESTO ISTORIJA II TOMAS
     nusidriekęs palei Vilnios upę prie Karališkojo malūno.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

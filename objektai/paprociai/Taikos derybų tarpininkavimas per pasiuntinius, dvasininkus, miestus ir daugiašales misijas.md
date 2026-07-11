@@ -61,16 +61,6 @@ Nenurodyta
 - t-002
   global_id: t-87253
   teiginys: "Taikos sutarties tarpininkais minėti arkivyskupas, Rygos kapitula, Eželio ir Dorpato vyskupai, Vokiečių ordinas ir Rygos miestas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "175333-176383; hash=0eefa83b704bcd76caec1b38c4fb9dce432e8a914e4d384fe818177c3b7c7f3e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Dorpatas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Taikos derybų tarpininkavimas per pasiuntinius, dvasininkus, miestus ir daugiašales misijas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Dorpatas: mention_match, place, gap=77"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Taikos derybų tarpininkavimas per pasiuntinius, dvasininkus, miestus ir daugiašales misijas\" parinktas kaip owner_note_path. Targetas \"Dorpatas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-83233
 
@@ -78,19 +68,6 @@ Nenurodyta
 - t-001
   global_id: t-87254
   teiginys: "Gediminas prašė Ordino riterių, vyskupų ir Livonijos miestų tarpininkauti sudarant taiką."
-  temporaliniai_duomenys: "įvykio data: 1323 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai perteikia citatoje nurodytą Gedimino prašymą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "174438-175284; hash=dbe703df52cccdd6245a6e69606c9b348b28508da96c265150d7ffb60719ff73; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Livonija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Taikos derybų tarpininkavimas per pasiuntinius, dvasininkus, miestus ir daugiašales misijas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Livonija: mention_match, place, gap=3"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Taikos derybų tarpininkavimas per pasiuntinius, dvasininkus, miestus ir daugiašales misijas\" parinktas kaip owner_note_path. Targetas \"Livonija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-83232
 ## Reikšmingi paminėjimai
@@ -115,8 +92,8 @@ Nenurodyta
     tvirtintą. Popiežiui buvo įteiktas nuorašas tos sutarties,
     sudarytos Vilniuje, 1323 m., pirmąją savaitę po Šv.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -151,8 +128,8 @@ Nenurodyta
     gi nenorėjo to prašymo patenkinti be tolesnio nagrinėjimo,
     gal to priežastis buvo naujesnės žinios iš Prūsijos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

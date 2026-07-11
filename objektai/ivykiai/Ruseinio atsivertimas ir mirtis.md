@@ -58,17 +58,6 @@ Nenurodyta
 - t-001
   global_id: t-59407
   teiginys: "Kilmingas sūduvis Ruseinis su šeimyna atvyko pas Baigos komtūrą, pasikrikštijo ir po krikšto prašė pamokyti Kristaus tikėjimo."
-  semantiniai_rysiai: "Ruseinis keliavo į Baiga (0.88)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "521810-522408; hash=82421477b647d126b96d006cd834a6c20a024c69bb30cca752bd52277d5a8205; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Baiga: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Ruseinis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Baiga: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Ruseinis tiesiogiai aprašomas kaip atvykęs pas Baigos komtūrą."
   pagrindžia:
     - c-60040
 
@@ -76,19 +65,6 @@ Nenurodyta
 - t-002
   global_id: t-59408
   teiginys: "Ruseinis teigė išgelbėjęs Marijos su kūdikiu paveikslą nuo sūduvių išniekinimo ir atidavęs jį krikščioniui."
-  temporaliniai_duomenys: "įvykio data: 1419 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pagrindžia Ruseinio veiksmą ir leidžia išplėsti dalines nuorodas į aiškų sakinį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "522586-523597; hash=6c96e38616cfa927fc5cc08dd64f7dd87465f8a1bd0adb28095125226b476a8c; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Ruseinis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ruseinio atsivertimas ir mirtis: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Ruseinis: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ruseinio atsivertimas ir mirtis\" parinktas kaip owner_note_path. Targetas \"Ruseinis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-60039
 
@@ -96,17 +72,6 @@ Nenurodyta
 - t-001
   global_id: t-59407
   teiginys: "Kilmingas sūduvis Ruseinis su šeimyna atvyko pas Baigos komtūrą, pasikrikštijo ir po krikšto prašė pamokyti Kristaus tikėjimo."
-  semantiniai_rysiai: "Ruseinis keliavo į Baiga (0.88)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "521810-522408; hash=82421477b647d126b96d006cd834a6c20a024c69bb30cca752bd52277d5a8205; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Baiga: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Ruseinis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Baiga: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Ruseinis tiesiogiai aprašomas kaip atvykęs pas Baigos komtūrą."
   pagrindžia:
     - c-60040
 
@@ -114,12 +79,6 @@ Nenurodyta
 - t-004
   global_id: t-194420
   teiginys: "Apie vieno sūduvio atsivertimą ir nuostabų įvykį Tuo metu vienas kilmingas sūduvis, vardu Ruseinis498, atvyko su visais savo namais ir šeimyna pas Baigos komtūrą ir panoro išklausyti pamaldų, tačiau jam neleido."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "521810-522408; hash=82421477b647d126b96d006cd834a6c20a024c69bb30cca752bd52277d5a8205; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-60040
 ## Reikšmingi paminėjimai
@@ -144,8 +103,8 @@ Nenurodyta
     mano sūnaus karalystėje“. Šitai papasakojęs kunigui, sūduvis tą pačią dieną laimingai
     atidavė viešpačiui sielą499.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -164,8 +123,8 @@ Nenurodyta
     ko prašomas, ir apsidairęs išvydo kojūgalyje medinį kryžių, kurį šis sūduvis buvo liepęs
     padirbdinti.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -178,7 +137,8 @@ Nenurodyta
 - id: c-60039
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 165-166"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 165-166."
   citata_originali: |
     Šis atsakė, kad esąs nukovęs daugybę krikščionių, o apie kokius gerus darbus
     nieko nežinąs, išskyrus vienui vieną, būtent, kai su didele kariuomene buvo įsibrovęs į
@@ -205,7 +165,8 @@ Nenurodyta
 - id: c-60040
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 165"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 165."
   citata_originali: |
     Apie vieno sūduvio atsivertimą ir nuostabų įvykį
 

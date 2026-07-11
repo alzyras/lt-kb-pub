@@ -53,16 +53,6 @@ Nenurodyta
 - t-001
   global_id: t-87279
   teiginys: "Pabaisko bažnyčios fundacija nustatė, kad jos ribose negali būti kitų karčemų, išskyrus priklausančias Pabaisko bažnyčiai."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "495416-496341; hash=98676bb185c4908bc1ef4b44f7b7cae8c8bc5cdfd461e57d2eca838176d0434a; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> fundacija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Pabaisko bažnyčios karčemų monopolis ir gėrimų pilstymo tvarka: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "fundacija: mention_match, thing, gap=19"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pabaisko bažnyčios karčemų monopolis ir gėrimų pilstymo tvarka\" parinktas kaip owner_note_path. Targetas \"fundacija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-83258
 ## Reikšmingi paminėjimai
@@ -93,8 +83,8 @@ Nenurodyta
     luomo ar padėties žmogaus, norime, kad tokia būtų nukel­
     ta ir sunaikinta.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

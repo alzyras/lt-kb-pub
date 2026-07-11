@@ -49,16 +49,6 @@ Vartojama ankstyvųjų normanų ir Rusios istorijos aptarime.
 - t-001
   global_id: t-55271
   teiginys: "IX a. Rusioje pirmieji normanai iš Skandinavijos buvo žinomi variagų vardu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "51446-52559; hash=f8ee518e382d76752835146dd3571dd4876dd3f62372c5e6c625b4a7ca9edc1b; match=exact"
-  sprendimo_priezastis: "gap::vocabulary"
-  ryšio_patikimumas: "susije_su -> Baltija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Variagai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Baltija: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Variagai\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-78600
 
@@ -66,16 +56,6 @@ Vartojama ankstyvųjų normanų ir Rusios istorijos aptarime.
 - t-002
   global_id: t-55272
   teiginys: "Riurikas ir jo variagai, Balinskio aiškinimu, į Rusią galėjo būti atblokšti Petro Olai aprašyto įvykio."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "54887-55502; hash=12d29d35d9577d7ab6e2dd15206805469cab2daba888081ec22f98a42f748ce7; match=whitespace_regex"
-  sprendimo_priezastis: "gap::vocabulary"
-  ryšio_patikimumas: "susije_su -> Aleksandras Balinskis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Variagai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Aleksandras Balinskis: mention_match, person, gap=10"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Variagai\" parinktas kaip owner_note_path. Targetas \"Aleksandras Balinskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-55820
 
@@ -83,17 +63,6 @@ Vartojama ankstyvųjų normanų ir Rusios istorijos aptarime.
 - t-004
   global_id: t-82105
   teiginys: "Petro Olai „Danų kronikoje“ aprašytas įvykis siejamas su Riuriko ir jo variagų pasitraukimu į Rusiją."
-  semantiniai_rysiai: "Riurikas keliavo į Rusija (0.87)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "55047-55746; hash=0b5e27a538ef4e9c35cd2f410695e68873262fa539f499d534557e27a3a27ffe; match=whitespace_regex"
-  sprendimo_priezastis: "gap::vocabulary"
-  ryšio_patikimumas: "keliavo_i -> Rusija: 0.87"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Riurikas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Rusija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai sieja Riuriko pasitraukimą su kryptimi į Rusiją."
   pagrindžia:
     - c-78599
 
@@ -101,16 +70,6 @@ Vartojama ankstyvųjų normanų ir Rusios istorijos aptarime.
 - t-003
   global_id: t-82106
   teiginys: "IX a. Rusioje variagais vadinti skandinavų normanai Baltijos pakrantėse vertėsi plėšikavimu ir prekyba."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "51446-52559; hash=f8ee518e382d76752835146dd3571dd4876dd3f62372c5e6c625b4a7ca9edc1b; match=exact"
-  sprendimo_priezastis: "gap::vocabulary"
-  ryšio_patikimumas: "susije_su -> Baltija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Variagai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Baltija: mention_match, place, gap=38"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Variagai\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-78600
 - susijęs iš [[objektai/asmenys/Motiejus Pretorijus.md#claim-t-191216|Motiejus Pretorijus]]: Narbutas rašo, kad Pretorijus prūsus ir rusus laikė viena pradine gentimi, o variagų vardą kildino iš prūsiško žodžio „Warejs“.
@@ -147,8 +106,8 @@ Vartojama ankstyvųjų normanų ir Rusios istorijos aptarime.
     tus, galbūt tariamąjį Palemoną su
     draugais - į Lietuvą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -178,8 +137,8 @@ Vartojama ankstyvųjų normanų ir Rusios istorijos aptarime.
     žmogų išvaryti iš valsčiaus visiems
     laikams.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -220,8 +179,8 @@ Vartojama ankstyvųjų normanų ir Rusios istorijos aptarime.
     tur, quod in Littwanico, terra inferior,
     interpretatur.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

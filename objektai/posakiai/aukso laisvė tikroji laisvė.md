@@ -33,16 +33,6 @@ Didžiūnams bekovojant su užsispyrėliu karalium ir tarpusavy, įsigalėjo vad
 - t-001
   global_id: t-02083
   teiginys: "Zigmanto laikais Lenkijoje ir Lietuvoje įsigalėjusi „aukso laisvė“ leido galingiesiems nieko neklausyti ir elgtis kaip tinkamiems."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "642079-642436; hash=1b2ef1d239aa0f74ebc6e10125cfd81aad5f07a2629e3fc13afe31cfd74d9f43; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "aukso laisvė tikroji laisvė: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=36"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"aukso laisvė tikroji laisvė\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-02323
 
@@ -50,9 +40,6 @@ Didžiūnams bekovojant su užsispyrėliu karalium ir tarpusavy, įsigalėjo vad
 - t-003
   global_id: t-02084
   teiginys: "Diskusijose dėl „aukso laisvės“ vieni siūlė palikti pagrindinius jos principus, o kiti siekė panaikinti liberum veto."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "816878-817169; hash=076fff67db05d7ecea696b30f2857b4446036b7bc607af0477a649ef74e14ea4; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-02322
 
@@ -60,16 +47,6 @@ Didžiūnams bekovojant su užsispyrėliu karalium ir tarpusavy, įsigalėjo vad
 - t-002
   global_id: t-02085
   teiginys: "Tikrąja laisve vadintą santvarką bajorija brangino ir saugojo nuo pakeitimų."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "815333-815627; hash=f4c9c742bed4cbc2e0f4251387b9a25460c76d48bebc5dff910ed68befb336c5; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> seimas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "aukso laisvė tikroji laisvė: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "seimas: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"aukso laisvė tikroji laisvė\" parinktas kaip owner_note_path. Targetas \"seimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-02321
 ## Reikšmingi paminėjimai
@@ -83,8 +60,8 @@ Didžiūnams bekovojant su užsispyrėliu karalium ir tarpusavy, įsigalėjo vad
     nebūtų pakeista, nes tik tokioje santvarkoje kiekvienas jautėsi turįs
     didelę vertę ir galįs pasipelnyti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -100,8 +77,8 @@ Didžiūnams bekovojant su užsispyrėliu karalium ir tarpusavy, įsigalėjo vad
     principus, o kiti net siūlė panaikinti pagrindinę blogybę — _liberum
     veto._ Atsirado tais klausimais ir knygų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -118,8 +95,8 @@ Didžiūnams bekovojant su užsispyrėliu karalium ir tarpusavy, įsigalėjo vad
     lėjo vadinamoji „aukso laisvė": kas tik buvo galin-
     gas, galėjo nieko neklausyti ir elgtis kaip tinkamas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

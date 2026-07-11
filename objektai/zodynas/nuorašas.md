@@ -56,17 +56,6 @@ Nenurodyta
 - t-003
   global_id: t-186920
   teiginys: "Rastasis Bychovco kronikos rankraštis apibūdinamas kaip vėlesnis nuorašas iš blogai išlikusios kopijos."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "16835-17349; hash=3bf3cdf966a518c9a9626705fe08ac1fbf35ea93be26ee3c4c116321a5f233a9; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  ryšio_patikimumas: "susije_su -> Bychovco kronikos rankraštis: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "nuorašas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Bychovco kronikos rankraštis: mention_match, thing, gap=56"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"nuorašas\" parinktas kaip owner_note_path. Targetas \"Bychovco kronikos rankraštis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-170098
 
@@ -74,19 +63,6 @@ Nenurodyta
 - t-002
   global_id: t-186921
   teiginys: "Plačiau buvo žinomi bent 222 šių tekstų nuorašai."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "6015-6658; hash=01436f0dcd80c2f4b326c470d8effc6b7243c1bd370c47c151babc354bf48e3f; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "nuorašas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"nuorašas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-170097
 
@@ -94,17 +70,6 @@ Nenurodyta
 - t-001
   global_id: t-186922
   teiginys: "Lietuvos Didžiojoje Kunigaikštystėje kilę metraštiniai tekstai plito rankraštiniais nuorašais."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "6015-6658; hash=01436f0dcd80c2f4b326c470d8effc6b7243c1bd370c47c151babc354bf48e3f; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "nuorašas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=84"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"nuorašas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-170097
 
@@ -112,21 +77,6 @@ Nenurodyta
 - t-004
   global_id: t-187524
   teiginys: "LDK metraštinės literatūros sąvadai savo laiku nebuvo išspausdinti ir plito rankraštiniais nuorašais, kurių plačiau žinoma bent 222."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "6015-6658; hash=01436f0dcd80c2f4b326c470d8effc6b7243c1bd370c47c151babc354bf48e3f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "nuorašas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"nuorašas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-16T16:17:41Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-170097
 
@@ -134,12 +84,6 @@ Nenurodyta
 - t-005
   global_id: t-193884
   teiginys: "Nė vienas iš jų nebuvo savo laiku išspausdintas, o plito rankraštiniais nuorašais, kurių plačiau žinoma bent 222 ."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "6015-6658; hash=01436f0dcd80c2f4b326c470d8effc6b7243c1bd370c47c151babc354bf48e3f; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-170097
 - susijęs iš [[objektai/asmenys/Fridrichas fon Vildenbergas.md#claim-t-87502|Fridrichas fon Vildenbergas]]: 1324 m. Mevėje magistras Fridrichas fon Vildenbergas liepė parengti mažesniųjų brolių laiško nuorašą.
@@ -200,8 +144,8 @@ Nenurodyta
     paskelbti Rusijos Archeografinės Komisijos leidinyje,
     pavadintame „Pilnuoju rusų metraščių rinkiniu" 3 .
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -224,8 +168,8 @@ Nenurodyta
     gai išlikusios kopijos; tekstas be pradžios ir pabaigos,
     su daugeliu spragų ir iškraipymų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

@@ -40,12 +40,6 @@ Nemažas būrys, vadovaujamas paties Vinricho, su­ deginęs visus valsčius nuo
 - t-001
   global_id: t-185289
   teiginys: "Prūsų magistrui nusiaubus Lietuvą, Ariogalos, Pernaravos ir Labūnavos žemės Žemaitijoje buvo visai sunaikintos."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "429206-429852; hash=5d842eaad045666a6dc58f401fd77e6e7ce3682c5b781edaebc43b4697b6124d; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-168650
 
@@ -53,12 +47,6 @@ Nemažas būrys, vadovaujamas paties Vinricho, su­ deginęs visus valsčius nuo
 - t-002
   global_id: t-193450
   teiginys: "Prūsų magistras, sulaukęs paramos iš Bavarijos grafo Volfgango ir Livonijos kryžiuočių, kalaviju ir ugnimi nusiaubė visą Lietuvą: Ariogalos, Pernaravos ir Labūnavos žemės Žemaiti joje tapo visai sunaikintos."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "429206-429852; hash=5d842eaad045666a6dc58f401fd77e6e7ce3682c5b781edaebc43b4697b6124d; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-168650
 ## Reikšmingi paminėjimai
@@ -92,8 +80,8 @@ Nemažas būrys, vadovaujamas paties Vinricho, su­ deginęs visus valsčius nuo
     dėjęs minties užimti pilį, iš­
     siuntė karius niokoti kaimų.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

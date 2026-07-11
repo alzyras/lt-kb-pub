@@ -52,16 +52,6 @@ Nenurodyta
 - t-001
   global_id: t-40696
   teiginys: "Bermondto-Avalovo kryžius buvo teikiamas pasižymėjusiems bermontininkams."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1116054-1116268; hash=5addff0e44e9cdd4546c30919e275a1c556b5cbb4d4b2c090ad8f35cab74d948; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Bermontininkai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Bermondto-Avalovo kryžius: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Bermontininkai: mention_match, group, gap=57"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bermondto-Avalovo kryžius\" parinktas kaip owner_note_path. Targetas \"Bermontininkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-44641
 ## Reikšmingi paminėjimai
@@ -74,8 +64,8 @@ Nenurodyta
 
     p. 190, Lenkijos kariuomenės 1-ojo ulonų pulko krūtininis ženklas, VDKM.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

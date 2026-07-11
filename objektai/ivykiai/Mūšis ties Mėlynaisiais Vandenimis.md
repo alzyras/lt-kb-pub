@@ -65,23 +65,6 @@ Nenurodyta
 - t-001
   global_id: t-186694
   teiginys: "Žinia apie Algirdo pergalę prieš totorius ties Mėlynaisiais Vandenimis 1971 m. komentare laikoma apskritai patikima, nors dėl datos nesutariama."
-  teiginio_tipas: "saltinio_teiginys"
-  semantiniai_rysiai: "Algirdas (Lietuvos valdovas) kariavo prieš Totoriai (0.86); Algirdas (Lietuvos valdovas) dalyvavo mūšyje Mėlynųjų Vandenų mūšis (1362 m.) (0.75)"
-  temporaliniai_duomenys: "įvykio data: 1362 m.; įvykio data: 1971 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Patikimumo vertinimas paliktas su komentaro atribucija. Pridėtas tik citatoje esantis datos neapibrėžtumas, be papildomų datavimo argumentų."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "392409-392920; hash=5b27e4063f8317b84072e4dcc3614f5a67daceb56481569e74cd9cdc342edb35; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
-  ryšio_patikimumas: "kariavo_pries -> Totoriai: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Totoriai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Algirdo pergalę prieš totorius."
-  vertinimo_atnaujinta: "2026-06-17T07:18:43Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-169932
 
@@ -89,20 +72,6 @@ Nenurodyta
 - t-003
   global_id: t-186695
   teiginys: "Redakcinė pastaba mini tris su mūšiu sietus totorių vadų vardus, iš kurių iš Algirdo laikotarpio kituose šaltiniuose žinomas tik Kutlubugas."
-  teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Kutlubugas valdė Krymas (0.90)"
-  temporaliniai_duomenys: "įvykio data: 1277 m.; įvykio data: 1382 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "392921-393126; hash=461bfaf0cb5a83ed517680aa5a2151e4a41ef3a0cf54372b4f2367cfe0a80923; match=whitespace_regex"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
-  ryšio_patikimumas: "valde -> Krymas: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kutlubugas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Krymas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai įvardija Kutlubugą Krymo valdytoju."
   pagrindžia:
     - c-169933
 
@@ -110,22 +79,6 @@ Nenurodyta
 - t-002
   global_id: t-186696
   teiginys: "Mėlynųjų Vandenų mūšis 1971 m. komentare datuojamas kaip ginčytinas: dauguma istorikų jį skiria 1352–1362 m., kai kurie – XIV a. pabaigai."
-  teiginio_tipas: "saltinio_teiginys"
-  temporaliniai_duomenys: "mūšio data: 1352-1362; mūšio data: 1362 m.; mūšio data: 1971 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Datavimo nesutarimas suformuluotas kaip komentare pateikiama pozicija. Nepridėta jokių papildomų vietos ar poveikio Podolei interpretacijų."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "392409-392920; hash=5b27e4063f8317b84072e4dcc3614f5a67daceb56481569e74cd9cdc342edb35; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
-  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mūšis ties Mėlynaisiais Vandenimis (mūšis, XIV a.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mūšis ties Mėlynaisiais Vandenimis (mūšis, XIV a.)\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-17T07:18:43Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-169932
 ## Reikšmingi paminėjimai
@@ -142,8 +95,8 @@ Nenurodyta
     Atmetama, kad M ėlynųjų Vandenų pergalė turėjusi įtakos Algirdo
     brolvaikių Karijotaičių įsigalėjimui Podolėje.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -158,8 +111,8 @@ Nenurodyta
     dytoju. Apie kitus du čia minimus totorių vadus Chadžibėjų ir Di-
     mltrų žinių nėra.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -192,7 +145,8 @@ Nenurodyta
 - id: c-169933
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 216"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 216."
   citata_originali: |
     1 Vienas Kutlubugas minimas IM 1277 m. Iš Algirdo valdymo
     laikotarpio žinomas Kutlubugas, kuris 1382 m. buvo Krymo val­

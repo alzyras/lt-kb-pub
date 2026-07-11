@@ -56,14 +56,6 @@ Nenurodyta
 - t-001
   global_id: t-193684
   teiginys: "Masinės kalinių žudynės surengtos Pravieniškių įkalinimo kolonijoje (išžudyta apie 230 asmenų) ir prie Rainių (76 asmenys, prieš tai ypač žiauriai nukankinus), mažesnio masto – keliose kitose apskrityse, o iš viso nužudyta apie 700 asmenų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "393650-394088; hash=a20e511e9fc05785cb5f600ef9d1fe9fcdf407b7c55f9e8a7994b9b095577905; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-176353
 ## Reikšmingi paminėjimai
@@ -80,8 +72,8 @@ Nenurodyta
     karo pradžioje. Šios sovietų žudynės atvėrė Lietuvoje masinių žudynių
     laikotarpį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

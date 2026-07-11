@@ -45,21 +45,6 @@ Nenurodyta
 - t-001
   global_id: t-185854
   teiginys: "Maskvos kunigaikštis Vasilijus per tarpininką siūlė taiką, žadėjo siųsti įgaliotus legatus, o didikai paragino karalių taikai pritarti."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1075031-1075629; hash=d256708b059c02531dfb24a3ca5655058fc05e821b85c64118c174e7528a610f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_valdovas -> Maskva: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vasilijus: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Maskva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Vasilijus tiesiogiai įvardytas Maskvos kunigaikščiu."
-  vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-169215
 
@@ -67,19 +52,6 @@ Nenurodyta
 - t-002
   global_id: t-185855
   teiginys: "Jonui Sapiegai, karaliaus vardu valdžiusiam Vitebską, buvo pavesta tartis su Vasilijaus pasiuntiniais dėl taikos sąlygų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1075690-1076541; hash=6e4fe48ea10c5ba997f769bfa8bf22ee48ba4b14456f5ba877ec86e2d60f86ae; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Taikos sudarymas per tarpininką, senato pritarimą ir įgaliotus pasiuntinius: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Taikos sudarymas per tarpininką, senato pritarimą ir įgaliotus pasiuntinius\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-169216
 ## Reikšmingi paminėjimai
@@ -112,8 +84,8 @@ Nenurodyta
     paragino karalių pritarti siūlomai taikai, kurios jis
     ir pats norėjo.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -142,8 +114,8 @@ Nenurodyta
     ti su kunigaikščio Vasilijaus
     pasiuntiniais dėl taikos sąlygų. Jie susitarė šitaip.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -189,7 +161,8 @@ Nenurodyta
 - id: c-169216
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 606"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 606."
   citata_originali: |
     Lenkijos reikalai kvietė karalių
     važiuoti iš Lietuvos, artėjo žiema, netinkamas laikas

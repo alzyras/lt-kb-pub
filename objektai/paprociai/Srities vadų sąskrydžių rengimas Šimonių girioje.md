@@ -54,12 +54,6 @@ Nenurodyta
 - t-004
   global_id: t-09606
   teiginys: "Šimonių girioje būdavo rengiami srities vadų sąskrydžiai."
-  temporaliniai_duomenys: "įvykio data: 1947 m.; įvykio data: 1948 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1002199-1002444; hash=103eeba54ef962b9f4e3dff52072b63f2d926b7aa2b7b2ae3fbe39f8d1817949; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
   pagrindžia:
     - c-12355
 
@@ -67,14 +61,6 @@ Nenurodyta
 - t-003
   global_id: t-09607
   teiginys: "Šimonių girioje bazavosi srities vadovybė ir būdavo rengiami srities vadų sąskrydžiai."
-  temporaliniai_duomenys: "įvykio data: 1947 m.; įvykio data: 1948 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko tikslesnį teiginį apie sąskrydžių rengimą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1002199-1002444; hash=103eeba54ef962b9f4e3dff52072b63f2d926b7aa2b7b2ae3fbe39f8d1817949; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
-  vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-12355
 ## Reikšmingi paminėjimai
@@ -89,8 +75,8 @@ Nenurodyta
     apygardai vadovavo Antanas Slučka-Ša-
     rūnas (1947 m. gegužė - 1948 m. spalis) ir
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

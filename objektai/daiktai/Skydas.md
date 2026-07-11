@@ -58,16 +58,6 @@ Nenurodyta
 - t-003
   global_id: t-111286
   teiginys: "Skydais lietuviai dangstėsi nuo priešų smūgių; jie buvo pailgai apvalūs, pinti iš žilvičių arba tašyti iš lentos."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "354230-354539; hash=495ad40e7654b5527854912e53cbc5ac076455bd86a4886ad31b05b3eee0613a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Skydas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=8"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Skydas\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-10284
 
@@ -75,16 +65,6 @@ Nenurodyta
 - t-004
   global_id: t-111287
   teiginys: "Baltos vėliavos skyde buvo vaizduojami ženklai ir žmogus su meškos galva."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "357718-358138; hash=a2b70ba9f36239dd807c6a765d471dbac2a8e7f48faa4d386a7bf59b4f7ff5ac; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Karūna: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Skydas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Karūna: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Skydas\" parinktas kaip owner_note_path. Targetas \"Karūna\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-10285
 
@@ -92,9 +72,6 @@ Nenurodyta
 - t-007
   global_id: t-111284
   teiginys: "Pėstininkai dažniausiai nenaudodavo skydo, o jų kojos ir rankos neretai būdavo neapsaugotos."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "87272-87523; hash=eb37b8e1d8cc0c4fa589a9d581d69ea176c20f6c4c33ed47302cf27f17251239; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-102945
 
@@ -102,16 +79,6 @@ Nenurodyta
 - t-006
   global_id: t-111285
   teiginys: "Martynas, priešams miegant, vieną po kito išvogė jų skydus, kalavijus ir ietis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "515986-516835; hash=16d4c5381fdbfe1153a0d0da1659ef6d3d8dbde46945254f55c4d75df9e5eb95; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Ietis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Skydas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Ietis: mention_match, thing, gap=21"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Skydas\" parinktas kaip owner_note_path. Targetas \"Ietis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-102944
 
@@ -119,16 +86,6 @@ Nenurodyta
 - t-003
   global_id: t-111286
   teiginys: "Skydais lietuviai dangstėsi nuo priešų smūgių; jie buvo pailgai apvalūs, pinti iš žilvičių arba tašyti iš lentos."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "354230-354539; hash=495ad40e7654b5527854912e53cbc5ac076455bd86a4886ad31b05b3eee0613a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Skydas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=8"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Skydas\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-10284
 
@@ -136,16 +93,6 @@ Nenurodyta
 - t-004
   global_id: t-111287
   teiginys: "Baltos vėliavos skyde buvo vaizduojami ženklai ir žmogus su meškos galva."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "357718-358138; hash=a2b70ba9f36239dd807c6a765d471dbac2a8e7f48faa4d386a7bf59b4f7ff5ac; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Karūna: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Skydas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Karūna: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Skydas\" parinktas kaip owner_note_path. Targetas \"Karūna\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-10285
 - susijęs iš [[objektai/asmenys/Stanislovas Bakūnas.md#claim-t-190243|Stanislovas Bakūnas]]: Stanislovas Bakūnas 1587 metais pasirašė prie antspaudo, kurio skydas padalytas į dvi dalis.
@@ -187,8 +134,8 @@ Nenurodyta
         skydus, kuriais dangstės nuo neprieteliaus siūčiu, kurie buvo pailguotinai^1325 apvalūs, jau iš žilvičių
         nupinti, jau iš lentos ištašyti. Lietuviai, tokiu ginklu ginkluodamies, ilgą laiką gynės nuo neprietelių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -203,8 +150,8 @@ Nenurodyta
         besėdįs meškos galva, ant kurios vėliavos buvę išrašyti tie žodžiai: „Dieve kūrėjau, supyk ant
         pustytojų^1335 , užtik juos.“
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -230,8 +177,8 @@ Nenurodyta
 
                               199 (194).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -247,8 +194,8 @@ Nenurodyta
     žiedučio gobtuvus. Dažniausiai nenaudodavo skydo,
     neretai jų kojos ir rankos būdavo neapsaugotos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -291,7 +238,8 @@ Nenurodyta
 - id: c-102944
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 163"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 163."
   citata_originali: |
     Grįždamas atgal, jis ilgainiui priėjo tokią vietą, kur,
     nekreipdamas dėmesio  į pavojus, sėdo su savo bendrais už skobnies po visų rūpesčių

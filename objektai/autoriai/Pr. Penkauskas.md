@@ -41,18 +41,6 @@ Penkauskas, Pr. Penkauskas : Vytautas Didysis ir jo Čekijos politika Venceliui 
 - t-002
   global_id: t-30931
   teiginys: "Pr. Penkauskas 1930 m. Židinyje paskelbė darbą apie Vytautą Didįjį ir jo Čekijos politiką po Vencelio mirties."
-  temporaliniai_duomenys: "įvykio data: 1930 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1016562-1016816; hash=a61e33e1533e7a23359506c7bfe25c71581337aff5688094d2fb9d7b6d1325a9; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Čekija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Pr. Penkauskas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Čekija: mention_match, place, gap=73"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pr. Penkauskas\" parinktas kaip owner_note_path. Targetas \"Čekija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-33110
 
@@ -60,11 +48,6 @@ Penkauskas, Pr. Penkauskas : Vytautas Didysis ir jo Čekijos politika Venceliui 
 - t-001
   global_id: t-30932
   teiginys: "Pr. Penkauskas 1931 m. Athenaeum paskelbė darbą apie Vytauto Didžiojo nuopelnus dvasinės kultūros srityje."
-  temporaliniai_duomenys: "įvykio data: 1931 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "805927-806195; hash=3b626ab4e58354dc53138c94b311fed73b4887ceb55fa6504864d31d9050575d; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-33111
 ## Reikšmingi paminėjimai
@@ -78,8 +61,8 @@ Penkauskas, Pr. Penkauskas : Vytautas Didysis ir jo Čekijos politika Venceliui 
     (^15) **Pvz., CEV, 814-815, 836-838, 918-919, 921, 935 p.**
     (^16) **Plg. KolLJ, I, 158-159 p.**
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -94,8 +77,8 @@ Penkauskas, Pr. Penkauskas : Vytautas Didysis ir jo Čekijos politika Venceliui 
     II, nr. 1, 1931, 1-36 p. — Quillus, Helene : _Königin Hedwig von Polen,_
     Slavische Forschungen, Heft 2, 1938.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

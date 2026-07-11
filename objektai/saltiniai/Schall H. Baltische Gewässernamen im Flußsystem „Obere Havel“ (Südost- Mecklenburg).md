@@ -38,12 +38,6 @@ Dusburgietis teigia, kad schall H.
 - t-001
   global_id: t-61284
   teiginys: "H. Schallo straipsnis apie baltiškus vandenvardžius Obere Havel upių sistemoje paskelbtas „Baltistica“ 1966 m. numeryje 2(1)."
-  temporaliniai_duomenys: "įvykio data: 1966 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pagrindžia autorių, temą, leidinį, metus ir numerį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "796366-796491; hash=33fa806459d21ee61bef57203971f55df5c727ada2785c2800828ed135eef80e; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-61916
 ## Reikšmingi paminėjimai
@@ -55,8 +49,8 @@ Dusburgietis teigia, kad schall H.
     Schall  H.  Baltische  Gewässernamen  im  Flußsystem  „Obere  Havel“  (Südost-
     Mecklenburg).—Baltistica, 1966, 2(1), p. 7—42.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -67,7 +61,8 @@ Dusburgietis teigia, kad schall H.
 - id: c-61916
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 271"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 271."
   citata_originali: |
     Schall  H.  Baltische  Gewässernamen  im  Flußsystem  „Obere  Havel“  (Südost-
     Mecklenburg).—Baltistica, 1966, 2(1), p. 7—42.

@@ -61,16 +61,6 @@ Terminas vartojamas ginče dėl Mindaugo santykio su krikštu ir ordinu.
 - t-001
   global_id: t-05588
   teiginys: "Mindaugo apostazijos klausimas šaltinyje pateikiamas kaip viena pagrindinių problemų."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "433997-434639; hash=3676692bc4b6df1b618757ce0c6731f917919fd5d207ce588182d222734a4594; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Viena: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "apostazija: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Viena: mention_match, place, gap=49"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"apostazija\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-06406
     - c-91764
@@ -79,16 +69,6 @@ Terminas vartojamas ginče dėl Mindaugo santykio su krikštu ir ordinu.
 - t-002
   global_id: t-05589
   teiginys: "Pagrindinės kronikos įsakmiai pažymi Mindaugo apostaziją."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "433997-434639; hash=3676692bc4b6df1b618757ce0c6731f917919fd5d207ce588182d222734a4594; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Durbė: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "apostazija: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Durbė: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"apostazija\" parinktas kaip owner_note_path. Targetas \"Durbė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-06406
 
@@ -96,18 +76,6 @@ Terminas vartojamas ginče dėl Mindaugo santykio su krikštu ir ordinu.
 - t-003
   global_id: t-05590
   teiginys: "Apostazija šiame tekste reiškia Mindaugo atkritimą nuo krikščionybės."
-  temporaliniai_duomenys: "įvykio data: 1324 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "537506-538046; hash=e023cbe1d8337bde0402fad7e42729fb54e6f71411cea3d00cb7498bd64779ff; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jonas XXII (arkivyskupas, XIV a.): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "apostazija: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Jonas XXII (arkivyskupas, XIV a.): mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"apostazija\" parinktas kaip owner_note_path. Targetas \"Jonas XXII (arkivyskupas, XIV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-91762
     - c-91766
@@ -116,16 +84,6 @@ Terminas vartojamas ginče dėl Mindaugo santykio su krikštu ir ordinu.
 - t-004
   global_id: t-05591
   teiginys: "Mindaugo apostazijos klausimas siejamas su ginču, ar Mindaugas po Žemaičių laimėjimo prie Durbės atsimetė nuo krikščionybės."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "433997-434639; hash=3676692bc4b6df1b618757ce0c6731f917919fd5d207ce588182d222734a4594; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Durbė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "apostazija: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Durbė: mention_match, place, gap=81"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"apostazija\" parinktas kaip owner_note_path. Targetas \"Durbė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-06406
 
@@ -133,16 +91,6 @@ Terminas vartojamas ginče dėl Mindaugo santykio su krikštu ir ordinu.
 - t-005
   global_id: t-05592
   teiginys: "Naujakrikštų valdovų apostazijos buvo žinomos ir kitose tautose, kai valdovų nuovoka apie naująjį tikėjimą dar būdavo grubi."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "538188-538587; hash=af37de13db24e41063623447cb807a7fb91236ec040ce61de6e1e04a7fff1591; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "apostazija: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"apostazija\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-91763
 
@@ -150,16 +98,6 @@ Terminas vartojamas ginče dėl Mindaugo santykio su krikštu ir ordinu.
 - t-006
   global_id: t-97278
   teiginys: "J. Stakauskas pripažino, kad nuomonė apie Mindaugo apostaziją po Durbės mūšio turi tam tikro pagrindo."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "433997-434639; hash=3676692bc4b6df1b618757ce0c6731f917919fd5d207ce588182d222734a4594; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Durbė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "apostazija: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Durbė: mention_match, place, gap=14"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"apostazija\" parinktas kaip owner_note_path. Targetas \"Durbė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-06406
 - susijęs iš [[objektai/paprociai/Ištikimybė protėvių religijai ir papročiams.md#claim-t-192086|Ištikimybė protėvių religijai ir papročiams]]: Kojelavičiaus pasakojime lietuviai pagonys, ištikimi protėvių religijai ir papročiams, sukūrė Lietuvos valstybę.
@@ -182,8 +120,8 @@ Terminas vartojamas ginče dėl Mindaugo santykio su krikštu ir ordinu.
     išlikimo šalininko) žodžiais, kad «turi tam tikro pagrindo ir priešin­
     goji nuomonė »^21.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -206,8 +144,8 @@ Terminas vartojamas ginče dėl Mindaugo santykio su krikštu ir ordinu.
     vokiečių ordino sūnūs, nuo tikėjimo atsimetė ir grižo į pirmutinę
     klaidą » 199 200.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -225,8 +163,8 @@ Terminas vartojamas ginče dėl Mindaugo santykio su krikštu ir ordinu.
     apie naująjį tikėjimą dar būdavo grubi, buvo žinomos ir kitose tau­
     tose.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -247,8 +185,8 @@ Terminas vartojamas ginče dėl Mindaugo santykio su krikštu ir ordinu.
     IV, penkeriems metams praėjus po Mindaugo nužudymo (1268)
     kalbėjo apie jo šviesų atminimą^22.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -268,8 +206,8 @@ Terminas vartojamas ginče dėl Mindaugo santykio su krikštu ir ordinu.
     wicz^192 , kuris apskritai Lietuvos istorijoje stengiasi būti lietuviams
     gana objektyvus^193.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

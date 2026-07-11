@@ -35,16 +35,6 @@ Dusburgietis teigia, kad galop pats Kristus, kuris niekad nesiliauja gailestinga
 - t-002
   global_id: t-60193
   teiginys: "Pomandas iš Baigos pilies grįžo pas prusus, dėdamasis krikščionių priešu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "269161-269983; hash=4696cbe0ff9801c2c77f6c92d0b5fe520394036c0f65dec43a8e2a4c53007f60; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Baiga: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Pomandas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Baiga: mention_match, place, gap=12"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pomandas\" parinktas kaip owner_note_path. Targetas \"Baiga\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-60826
 
@@ -52,16 +42,6 @@ Dusburgietis teigia, kad galop pats Kristus, kuris niekad nesiliauja gailestinga
 - t-001
   global_id: t-60194
   teiginys: "Dusburgietis Pomandą vaizduoja kaip kilnų, prūsų gerbtą vyrą, neseniai priėmusį krikščionių tikėjimą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "268734-269383; hash=d3433f5cf07ac930bd2a063c9d3baee9d205a1965ace5e9ebfb5a29873bddd79; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Prūsai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; prusai_group_context; same_sentence_locality; single_candidate_actor; single_candidate_target; target_after_predicate"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Pomandas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Prūsai: mention_match, place, gap=30"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pomandas\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-60825
 - susijęs iš [[objektai/ivykiai/Pomando gudrybė, Baigos apgulties pralaužimas ir Partigalos bei kuoro sunaikinimas.md#claim-t-59398|Pomando gudrybė, Baigos apgulties pralaužimas ir Partigalos bei kuoro sunaikinimas]]: Pomandas apsimetė tikėjimo priešu ir paskatino Varmės, Notangos bei Bartos karius apsupti Baigos pilį.
@@ -82,8 +62,8 @@ Dusburgietis teigia, kad galop pats Kristus, kuris niekad nesiliauja gailestinga
     bendrataučius prusus, dėdamasis tikėjimo ir tikinčiųjų priešu, o jį pamatę, prūsai labai
     nudžiugo, nes tikėjosi per šio vyro sumanumą galėsią žlugdyti visas brolių įstangas.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -104,8 +84,8 @@ Dusburgietis teigia, kad galop pats Kristus, kuris niekad nesiliauja gailestinga
     kariuomene patraukė prie Partigalos pilies ir prie kuoro, juos paėmė, viską paversdami
     pelenais, o žmones išsivesdami  į nelaisvę arba išžudydami.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -116,7 +96,8 @@ Dusburgietis teigia, kad galop pats Kristus, kuris niekad nesiliauja gailestinga
 - id: c-60825
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 81"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 81."
   citata_originali: |
     Didžiai dėl to susirūpinę broliai dažnai
     rinkdavosi pasitarti, vildamiesi rasti šiomis aplinkybėmis tinkamą  išeitį. Galop pats
@@ -137,7 +118,8 @@ Dusburgietis teigia, kad galop pats Kristus, kuris niekad nesiliauja gailestinga
 - id: c-60826
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 81"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 81."
   citata_originali: |
     Taigi Pomandas iš Baigos pilies sugrįžo pas savo
     bendrataučius prusus, dėdamasis tikėjimo ir tikinčiųjų priešu, o jį pamatę, prūsai labai
@@ -155,6 +137,3 @@ Dusburgietis teigia, kad galop pats Kristus, kuris niekad nesiliauja gailestinga
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60193
-
-## Ryšiai
-- Pomandas apgulė [[objektai/vietos/Baiga]]

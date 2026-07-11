@@ -58,16 +58,6 @@ Vaitiekaus lavoną išpirko Boleslovas Narsusis. Pats Vaitiekus buvo paskelbtas 
 - t-005
   global_id: t-07571
   teiginys: "Vaitiekus, gavęs Boleslovo Narsiojo apsaugą, išvyko iš Lenkijos į aisčių kraštą ir pasiekė krantą Priegliaus žiotyse."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "93993-94263; hash=3fafe15e00f6e7d5f1564475025a966419e5761fe6e8343a85d5e0050598f85d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aisčiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Šv. Vaitiekaus misija į aisčių kraštą ir žūtis (997 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Aisčiai: mention_match, group, gap=2"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šv. Vaitiekaus misija į aisčių kraštą ir žūtis (997 m.)\" parinktas kaip owner_note_path. Targetas \"Aisčiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-00195
 
@@ -75,16 +65,6 @@ Vaitiekaus lavoną išpirko Boleslovas Narsusis. Pats Vaitiekus buvo paskelbtas 
 - t-006
   global_id: t-07572
   teiginys: "Vaitiekaus misijonieriams aisčių krašte nesisekė platinti krikščionybės."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "94082-94344; hash=7c5b65915fee22b0c1fb7fa5092fdabfd5ab62ba611d5860605099e8f54f11d4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aisčiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Šv. Vaitiekaus misija į aisčių kraštą ir žūtis (997 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Aisčiai: mention_match, group, gap=26"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šv. Vaitiekaus misija į aisčių kraštą ir žūtis (997 m.)\" parinktas kaip owner_note_path. Targetas \"Aisčiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-00196
 
@@ -92,21 +72,6 @@ Vaitiekaus lavoną išpirko Boleslovas Narsusis. Pats Vaitiekus buvo paskelbtas 
 - t-007
   global_id: t-07573
   teiginys: "Po žūties aisčių krašte vyskupas Vaitiekus buvo paskelbtas šventuoju ir krikščionybės kankiniu."
-  temporaliniai_duomenys: "įvykio data: 997 m"
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys susietas su įvykio objektu ir aiškiai įvardija asmenį."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "94643-94859; hash=72a7b2c1bda5abb185a8c9d13922703cf342857e9cc59e123e5c4a2a7c1d20ec; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aisčiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Šv. Vaitiekaus misija į aisčių kraštą ir žūtis (997 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Aisčiai: mention_match, group, gap=7"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šv. Vaitiekaus misija į aisčių kraštą ir žūtis (997 m.)\" parinktas kaip owner_note_path. Targetas \"Aisčiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-00198
 ## Reikšmingi paminėjimai
@@ -120,8 +85,8 @@ Vaitiekaus lavoną išpirko Boleslovas Narsusis. Pats Vaitiekus buvo paskelbtas 
     vykusius labai neskersuotų, jis atleido visus savo palydovus ir
     liko tik su dviem kunigais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -136,8 +101,8 @@ Vaitiekaus lavoną išpirko Boleslovas Narsusis. Pats Vaitiekus buvo paskelbtas 
     liko tik su dviem kunigais. Tačiau tas nieko nepadėjo: misijo-
     nieriams čia nesisekė platinti krikščionybės.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -152,8 +117,8 @@ Vaitiekaus lavoną išpirko Boleslovas Narsusis. Pats Vaitiekus buvo paskelbtas 
     vonus išpirko kunigaikštis Boleslovas. Vyskupas Vaitiekus buvo
     paskelbtas šventuoju, krikščionybės kankiniu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

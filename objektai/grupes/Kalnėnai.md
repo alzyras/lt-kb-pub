@@ -40,16 +40,6 @@ Kalnėnai šiame tekste rodomi kaip su žemaičiais gretinama karinga bendruomen
 - t-008
   global_id: t-65268
   teiginys: "Seniausia kalnėnų uždanga laikytos neišžengiamos girios, o vėliau tarpgiriai buvo kamšomi pilimis nuo neprietelių."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "327617-328220; hash=4814b7a0da19be9ae2cf046c874f43cf446ee94df2e6b5de6eb435d690c99c67; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kalnėnai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kalnėnai\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-10116
 
@@ -57,16 +47,6 @@ Kalnėnai šiame tekste rodomi kaip su žemaičiais gretinama karinga bendruomen
 - t-005
   global_id: t-65270
   teiginys: "Senovės kalnėnai ir žemaičiai karo žygiuose turėjo šunį ir žirgą, o kautynėse naudojo raitelius ir pėstininkus."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "313074-313377; hash=40f9329d24d10c46d574e7e534b24219056b720da1118f68ed42519f95723689; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Žemaičiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kalnėnai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Žemaičiai: mention_match, group, gap=12"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kalnėnai\" parinktas kaip owner_note_path. Targetas \"Žemaičiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-10114
     - c-10115
@@ -76,9 +56,6 @@ Kalnėnai šiame tekste rodomi kaip su žemaičiais gretinama karinga bendruomen
 - t-006
   global_id: t-65271
   teiginys: "Kalnėnai, traukdami į karę, kartu su žirgu vedėsi ir šunį, kuris mažomis rogėmis vežė įkaitį, karo padargą ir grįžtant grobį."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "313074-313377; hash=40f9329d24d10c46d574e7e534b24219056b720da1118f68ed42519f95723689; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-10114
 
@@ -86,9 +63,6 @@ Kalnėnai šiame tekste rodomi kaip su žemaičiais gretinama karinga bendruomen
 - t-007
   global_id: t-65272
   teiginys: "Kalnėnai, nors kariavo jodami, turėjo ir paslėptus pėsčiuosius, kuriuos jodino dvisėdais."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "324988-325197; hash=f70e4d76cf3accab5f3b16bdfe0b6b40d421b77d4ae71f733e46b07b51cd5457; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-10115
 - susijęs iš [[objektai/autoriai/J. Talmantas.md#claim-t-64648|J. Talmantas]]: J. Talmantas redagavo 1935 m. Kaune išleistą Simono Daukanto veikalą „Būdas senovės lietuvių Kalnėnų ir Žemaičių“.
@@ -143,8 +117,8 @@ Kalnėnai šiame tekste rodomi kaip su žemaičiais gretinama karinga bendruomen
         kareivis jodamas negalėjo ant žirgo pakelti, tą jo šuo, įkinkytas į mažas rogeles, po jo vilko, beje,
         įkaištį^1183 ir karės padargą, grįžtant iš karės, pydė^1184 grobį, nuo neprietelių sugrietą^1185.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -158,8 +132,8 @@ Kalnėnai šiame tekste rodomi kaip su žemaičiais gretinama karinga bendruomen
         paslėptus, kuriuos dvisėdais jodino: susigrūmus pačiai jočiai su neprieteliais, pėstieji anai
         pripadėjo^1244.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -176,8 +150,8 @@ Kalnėnai šiame tekste rodomi kaip su žemaičiais gretinama karinga bendruomen
         neprieteliams užtaškavo^1252 , bet, kėlusis pavojui, ir patys tenai uždangą^1253 rado, kurių pilių palaikus
         šiandien dar Žemaičiuose pilies kalnais, arba nuo žuvėdų pilimis, tebvadina.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -236,8 +210,3 @@ Kalnėnai šiame tekste rodomi kaip su žemaičiais gretinama karinga bendruomen
   pagrindzia:
     - t-65270
     - t-65268
-
-## Ryšiai
-- Puolė Kalnėnai: [[objektai/grupes/Krikščionys]]
-- Kariavo prieš: [[objektai/grupes/Krikščionys]]
-- Turėjo priklausinį: [[objektai/daiktai/Ratai ant dviejų tekinių]]

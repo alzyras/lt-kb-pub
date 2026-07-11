@@ -62,19 +62,6 @@ Nenurodyta
 - t-001
   global_id: t-87031
   teiginys: "Per žemaičių antpuolį Memelyje kryžiuočių pilis išliko sveika, nors miestas buvo sudegintas."
-  temporaliniai_duomenys: "įvykio data: 1325 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata nepagrindžia sienos, bet palaiko faktą apie Memelio kryžiuočių pilies išlikimą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "161871-163609; hash=aae2fbd5ad3c1cb3808033f156438554aa05d99257fc3e058b1a3864323f7787; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Memelio kryžiuočių pilis, apjuosta siena: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Memelio kryžiuočių pilis, apjuosta siena\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-83011
 ## Reikšmingi paminėjimai
@@ -134,8 +121,8 @@ Nenurodyta
     ir mažų laivų, žodžiu, sunaikino viską, ką tik buvo galima
     plėnimis paleisti, tik kryžiuočių pilis išliko sveikaf.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

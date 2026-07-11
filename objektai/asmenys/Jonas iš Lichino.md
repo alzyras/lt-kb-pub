@@ -30,20 +30,6 @@ Bresto vaivada Jonas iš Lichino buvo įtrauktas į pasiuntinybę, kuri turėjo 
 - t-001
   global_id: t-186215
   teiginys: "Bresto vaivada Jonas iš Lichino buvo įtrauktas į pasiuntinybę, kuri turėjo vykti į Lietuvą pas Žygimantą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Jonas iš Lichino (vyskupas) keliavo į Lietuva (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "773393-773986; hash=cc26907c26b3f25ec41ed2c0ae399c3922ebb3d9fb5cc573a30246ca0438d594; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Lietuva: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jonas iš Lichino (vyskupas): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Pasiuntinybė, į kurią buvo įtrauktas Jonas iš Lichino, turėjo vykti į Lietuvą."
   pagrindžia:
     - c-169576
 ## Reikšmingi paminėjimai
@@ -70,8 +56,8 @@ Bresto vaivada Jonas iš Lichino buvo įtrauktas į pasiuntinybę, kuri turėjo 
     vardu buvo įgalioti tam tikromis sąlygomis pakelti Žy­
     gimantą į Lietuvos didžiuosius kunigaikščius.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -82,7 +68,8 @@ Bresto vaivada Jonas iš Lichino buvo įtrauktas į pasiuntinybę, kuri turėjo 
 - id: c-169576
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 440"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 440."
   citata_originali: |
     Atidėlioti šį
     reikalą būtų buvę pavojinga,

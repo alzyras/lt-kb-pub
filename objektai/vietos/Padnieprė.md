@@ -33,16 +33,6 @@ Mokes­ čiams rinkti Vytautas turėjo vietininkų ir ten, kur ir nebuvo jo dvar
 - t-001
   global_id: t-36471
   teiginys: "Vytautas Padnieprės srityje turėjo vietininkų mokesčiams rinkti net ten, kur nebuvo jo dvarų."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "603431-603791; hash=c9a9cb27be6eb203110d1ef5224ccdde3d3da136b20eef96d248e60ec1028787; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Uždauguvis: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Padnieprė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Uždauguvis: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Padnieprė\" parinktas kaip owner_note_path. Targetas \"Uždauguvis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-38594
 - susijęs iš Uždauguvis: Vytautas Uždauguvyje turėjo vietininkų mokesčiams rinkti, nors ten nebuvo jo dvarų.
@@ -59,8 +49,8 @@ Mokes­ čiams rinkti Vytautas turėjo vietininkų ir ten, kur ir nebuvo jo dvar
     nio ir piniginio ūkio, tai mokesčiai buvo mokami natūra ir pi­
     nigais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

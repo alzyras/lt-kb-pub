@@ -30,19 +30,6 @@ Imperatorius Zigmantas raštu pripažino Jogailai teisę į Galičą ir dalį Po
 - t-001
   global_id: t-186312
   teiginys: "Imperatorius Zigmantas raštu pripažino Jogailai teisę į Galičą ir dalį Podolės, o pasiuntiniams įsakė kurstyti Vytautą pažadais."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "667307-668064; hash=804f2fd59974e02b838b4ee9b7c156f17666902dce0f6870a6d60f697fa92856; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Podolė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Imperatoriaus Zigmanto raštas Jogailai dėl Galičo ir dalies Podolės: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Podolė: mention_match, place, gap=58"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Imperatoriaus Zigmanto raštas Jogailai dėl Galičo ir dalies Podolės\" parinktas kaip owner_note_path. Targetas \"Podolė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-169673
 ## Reikšmingi paminėjimai
@@ -71,8 +58,8 @@ Imperatorius Zigmantas raštu pripažino Jogailai teisę į Galičą ir dalį Po
     kupo Mikalojaus ir vaivadų Alberto Manvydo bei Jo ­
     no Nemyros parašais.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -83,7 +70,8 @@ Imperatorius Zigmantas raštu pripažino Jogailai teisę į Galičą ir dalį Po
 - id: c-169673
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 381"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 381."
   citata_originali: |
     Dėdama­
     sis, jog jam be galo rūpi išsaugoti draugystę ir paša­

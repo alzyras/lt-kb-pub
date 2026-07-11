@@ -40,20 +40,6 @@ J. Pauonis šiame 1971 m. leidinyje nurodytas kaip redakcinės komisijos narys.
 - t-001
   global_id: t-186435
   teiginys: "J. Pauonis buvo 1971 m. Bychovco kronikos leidinio redakcinės komisijos narys."
-  teiginio_tipas: "faktas"
-  temporaliniai_duomenys: "įvykio data: 1971 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pakankamai pagrindžia redakcinės komisijos narystę."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "1028-1211; hash=916be7863480879aafb8d79895697322ef2a8fc91c61459e1ccd35526167d27e; match=whitespace_regex"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/02_extract_authors_notes.md"
-  ryšio_patikimumas: "susije_su -> K. Korsakas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "J. Pauonis: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "K. Korsakas: mention_match, author, gap=33"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"J. Pauonis\" parinktas kaip owner_note_path. Targetas \"K. Korsakas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-169786
 ## Reikšmingi paminėjimai
@@ -67,8 +53,8 @@ J. Pauonis šiame 1971 m. leidinyje nurodytas kaip redakcinės komisijos narys.
     *
     Vertė, įvadą ir paaiškinimus parašė RIM ANTAS JASA S
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

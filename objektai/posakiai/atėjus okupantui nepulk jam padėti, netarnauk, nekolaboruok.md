@@ -40,19 +40,6 @@ Po išgyventų dramatiškų 1940–1990 m. sovietų, nacių, vėl sovietų okupa
 - t-001
   global_id: t-77842
   teiginys: "Po 1940–1990 m. okupacijų lietuvių visuomenė posakį „atėjus okupantui nepulk jam padėti, netarnauk, nekolaboruok“ suvokė kaip moralinę istorijos pamoką."
-  temporaliniai_duomenys: "įvykio data: 1940-1990; įvykio data: 1990 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie posakio moralinę prasmę ir remiasi citata."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "523594-524436; hash=0773ef2de895ad08267db97658149dee94f19b13f6371f8373d5954f0ae4dbfc; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "atėjus okupantui nepulk jam padėti, netarnauk, nekolaboruok: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=27"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"atėjus okupantui nepulk jam padėti, netarnauk, nekolaboruok\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-75160
 - susijęs iš [[objektai/zodynas/Desovietizacija ir liustracija.md#claim-t-21988|Desovietizacija ir liustracija]]: Atkūrus nepriklausomybę desovietizacijos ir liustracijos klausimai Lietuvoje buvo sprendžiami lėtai.
@@ -76,8 +63,8 @@ Po išgyventų dramatiškų 1940–1990 m. sovietų, nacių, vėl sovietų okupa
     Sibirą ir represijose, lėtai buvo sprendžiami desovietizacijos ir liustracijos
     klausimai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

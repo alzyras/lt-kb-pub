@@ -32,9 +32,6 @@ Aušrėnai šiame fragmente yra istorinis žemaičių vardas.
 - t-002
   global_id: t-07831
   teiginys: "Aušrėnais vadinti žemaičiai, kurie, pasak seno rašytojo, dirbo žemę ir augino javus bei vaisius."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "310144-310384; hash=6ee34c2ba3589921a4802bdaf40b63be6a00b220ce20b04c211766c2b942291b; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
   pagrindžia:
     - c-10061
     - c-10062
@@ -50,8 +47,8 @@ Aušrėnai šiame fragmente yra istorinis žemaičių vardas.
   citata_originali: |
     Kas didžiau, po jūrą mauriojantys, ir jų vienų žemėj gintarai tesantys randami; laukai jų ir dirvos, sako, ne sodomis yra, bet kame kurs apsigyvenęs girioj pradyrė sau žemės lopelį, tas to sau ponu buvo ir turėjo gynioti jį nuo neprietelių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -64,8 +61,8 @@ Aušrėnai šiame fragmente yra istorinis žemaičių vardas.
         būdas“ sako, tarp visų girionų žemaičiai, arba aušrėnai (aestii), orę testeigę, kitiems slinkaujant^1173 ,
         beje, javus ir vaisius steigiai^1174 veisiantys.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

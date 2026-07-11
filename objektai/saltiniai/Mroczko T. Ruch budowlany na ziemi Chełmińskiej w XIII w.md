@@ -38,12 +38,6 @@ Dusburgietis teigia, kad mroczko T.
 - t-001
   global_id: t-61186
   teiginys: "T. Mroczko darbas „Ruch budowlany na ziemi Chełmińskiej w XIII w.“ paskelbtas 1974 m. leidinyje „Sztuka i ideologia XIII wieku“."
-  temporaliniai_duomenys: "įvykio data: 1974 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas bibliografinis faktas apie nurodytą darbą ir atitinka citatą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "787310-787450; hash=e3a37ffeffcf20ac129e3b0bdd4c003d6c9b5f482edf4cf5dd17ddeb96766948; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-61818
 ## Reikšmingi paminėjimai
@@ -55,8 +49,8 @@ Dusburgietis teigia, kad mroczko T.
     Mroczko T. Ruch budowlany na ziemi Chełmińskiej w XIII w.— Sztuka i ideologia XIII
     wieku, Wrocław—Warszawa— Kraków—Gdańsk, 1974, s. 281—332.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -67,7 +61,8 @@ Dusburgietis teigia, kad mroczko T.
 - id: c-61818
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 268"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 268."
   citata_originali: |
     Mroczko T. Ruch budowlany na ziemi Chełmińskiej w XIII w.— Sztuka i ideologia XIII
     wieku, Wrocław—Warszawa— Kraków—Gdańsk, 1974, s. 281—332.

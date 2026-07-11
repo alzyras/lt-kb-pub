@@ -32,9 +32,6 @@ J. Jac. Grasserum savo kūrinėlio gale: Epithomefragminis secundi, p. 14.
 - t-001
   global_id: t-88065
   teiginys: "J. Jac. Grasserum savo kūrinėlio gale: Epithomefragminis secundi, p. 14."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "316574-316916; hash=08ba2279e2cc050b46f0d314ccabb2c2ae510104ba5676a1133e33eca9788cde; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-84044
 ## Reikšmingi paminėjimai
@@ -52,8 +49,8 @@ J. Jac. Grasserum savo kūrinėlio gale: Epithomefragminis secundi, p. 14.
     MDCXV - nurodo jis savo kūrinėlio
     gale: Epithomefragminis secundi, p. 14.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

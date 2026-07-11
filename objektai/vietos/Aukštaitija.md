@@ -41,13 +41,6 @@ Aukštaitija šiame veikale rodoma kaip ankstyvasis Lietuvos branduolio regionas
 - t-001
   global_id: t-192346
   teiginys: "Vytautas rašte Zigmantui teigė, kad Aukštaitija ir Žemaitija yra dvi neatskiriamos Lietuvos dalys."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Fragmentas perrašytas į pilną sakinį, neperžengiant citatos turinio."
-  susije_objektai: "llm_object: Lietuva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Žemaitija; mentioned_person: [[objektai/asmenys/Cibulka|Cibulka]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Jotvingija"
-  semantiniai_rysiai: "Aukštaitija priklausė Lietuva"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "340820-341563; hash=2fe016e57664ed53aaa3f4d13cdf780f2fdcc9c7652bdd55743d4571c2ba2d41; match=exact"
-  sprendimo_priezastis: "manual_places_boilerplate_fix"
   pagrindžia:
     - c-175144
 
@@ -55,17 +48,6 @@ Aukštaitija šiame veikale rodoma kaip ankstyvasis Lietuvos branduolio regionas
 - t-003
   global_id: t-192347
   teiginys: "Aukštaitiją nuo Žemaitijos skyrusi siena ėjo dešiniuoju Neries ir Nemuno pakraščiu nuo Nevėžio žiočių iki Kuršo."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "507182-507743; hash=5b5593a56271c47f1df3e7272600f54bff26d6764dc48307dc1bf084eccc4d57; match=exact"
-  sprendimo_priezastis: "manual_places_boilerplate_fix"
-  ryšio_patikimumas: "susije_su -> Kuršas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aukštaitija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kuršas: mention_match, place, gap=106"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aukštaitija\" parinktas kaip owner_note_path. Targetas \"Kuršas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-175143
 
@@ -73,20 +55,6 @@ Aukštaitija šiame veikale rodoma kaip ankstyvasis Lietuvos branduolio regionas
 - t-002
   global_id: t-192348
   teiginys: "Narbuto aprašyme Aukštaitija sudarė aukštesniąją Lietuvos dalį ir lotynų autorių buvo vadinama Austechia."
-  teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Aukštaitija priklausė Lietuva (0.92)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "507182-507743; hash=5b5593a56271c47f1df3e7272600f54bff26d6764dc48307dc1bf084eccc4d57; match=exact"
-  sprendimo_priezastis: "manual_places_boilerplate_fix"
-  ryšio_patikimumas: "priklause -> Lietuva: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Aukštaitija: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai sako, kad Lietuva dalijosi į dalis, kurių aukštesnioji vadinta Aukštaitija."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175143
 
@@ -94,22 +62,6 @@ Aukštaitija šiame veikale rodoma kaip ankstyvasis Lietuvos branduolio regionas
 - t-004
   global_id: t-192608
   teiginys: "Narbuto aprašyme Lietuva dalijosi į aukštesniąją Aukštaitiją, lotynų autorių vadintą Austechia, ir žemesniąją Žemaitiją."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Aukštaitija priklausė Lietuva (0.92)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "507182-507743; hash=5b5593a56271c47f1df3e7272600f54bff26d6764dc48307dc1bf084eccc4d57; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Lietuva: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Aukštaitija: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys aiškiai aprašo Aukštaitiją kaip vieną Lietuvos dalių."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175143
 - susijęs iš Nalšėnų žemė: Apie 1259 m. totorių chanas Burundajus su Volinijos-Haličo Danieliumi nusiaubė Aukštaitiją ir pasiekė Nalšėnų žemę.
@@ -136,8 +88,8 @@ Aukštaitija šiame veikale rodoma kaip ankstyvasis Lietuvos branduolio regionas
     krante nuo Nevėžio žiočių aukštyn šia upe net iki vaka­
     rinės Upytės apskrities sienos ir toliau net iki Kuršo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -162,8 +114,8 @@ Aukštaitija šiame veikale rodoma kaip ankstyvasis Lietuvos branduolio regionas
     rių ir ginčo negali kilti; tad jei sprendimas nebus atmainytas,
     kol gyvas bus, nepalaikys su Zigmantu taikos^3 ).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -174,7 +126,8 @@ Aukštaitija šiame veikale rodoma kaip ankstyvasis Lietuvos branduolio regionas
 - id: c-175143
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 283"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 283."
   citata_originali: |
     Baigiant šios antros srities aprašymą, negalima ne­
     paminėti jos padalijimo į dvi dalis; apie tai ne sykį rei­
@@ -224,5 +177,4 @@ Aukštaitija šiame veikale rodoma kaip ankstyvasis Lietuvos branduolio regionas
     - t-192346
 
 ## Ryšiai
-- Puolė Aukštaitiją: [[objektai/asmenys/Burundajus]]
 - Aukštaitija priklausė [[objektai/vietos/Lietuva]]

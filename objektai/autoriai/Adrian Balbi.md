@@ -30,14 +30,6 @@ Adrianas Balbi suskaičiavo 860 tuo metu žinomų kalbų, kuriose, Narbuto perte
 - t-001
   global_id: t-191603
   teiginys: "Adrianas Balbi suskaičiavo 860 tuo metu žinomų kalbų, kuriose, Narbuto perteikimu, buvo galima atsekti mažiausiai 5 tūkstančius dialektų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "958474-958834; hash=6eff71e08983ef0b141ece4fc52e5cd7d79ab6f780eacd76b05d0822188eb0a6; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174485
 ## Reikšmingi paminėjimai
@@ -57,8 +49,8 @@ Adrianas Balbi suskaičiavo 860 tuo metu žinomų kalbų, kuriose, Narbuto perte
     nystę galima paaiškinti tik suradus išvestinio tautų giminingumo
     vietą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -69,7 +61,8 @@ Adrianas Balbi suskaičiavo 860 tuo metu žinomų kalbų, kuriose, Narbuto perte
 - id: c-174485
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 514"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 514."
   citata_originali: |
     196 /P.
     366, 3

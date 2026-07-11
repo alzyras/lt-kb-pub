@@ -43,20 +43,6 @@ Bodzanta Vladislovo vardu.
 - t-001
   global_id: t-82241
   teiginys: "1386 m. vasario 15 d. Krokuvos katedroje Gniezno vyskupas Bodzanta pakrikštijo Jogailą Vladislovo vardu."
-  semantiniai_rysiai: "Bodzanta (arkivyskupas, XIV a.) keliavo į Krokuva (0.72)"
-  temporaliniai_duomenys: "įvykio data: 1386 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "254763-255071; hash=b34c3def1ea041cd48ddb1713bf39a769108b6c5a17704ddeaebc554ae1a53cb; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Krokuva: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Bodzanta (arkivyskupas, XIV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Krokuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Bodzanta atliko krikštą Krokuvos katedroje, todėl palaikomas jo buvimas Krokuvoje."
   pagrindžia:
     - c-78732
 
@@ -64,16 +50,6 @@ Bodzanta Vladislovo vardu.
 - t-002
   global_id: t-82242
   teiginys: "Gniezno arkivyskupas Bodzanta iškilmingai pašventino Stanislovo katedrą, dalyvaujant lietuvių ir lenkų kunigaikščiams bei didikams."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "241827-242393; hash=b089b39a3e3b3df9d15b09e76c695f59ee3d4317569f310457d239533a607c1d; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Bodzanta (arkivyskupas, XIV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=76"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bodzanta (arkivyskupas, XIV a.)\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-78733
 
@@ -81,16 +57,6 @@ Bodzanta Vladislovo vardu.
 - t-002
   global_id: t-82242
   teiginys: "Gniezno arkivyskupas Bodzanta iškilmingai pašventino Stanislovo katedrą, dalyvaujant lietuvių ir lenkų kunigaikščiams bei didikams."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "241827-242393; hash=b089b39a3e3b3df9d15b09e76c695f59ee3d4317569f310457d239533a607c1d; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Bodzanta (arkivyskupas, XIV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=76"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bodzanta (arkivyskupas, XIV a.)\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-78733
 
@@ -98,22 +64,6 @@ Bodzanta Vladislovo vardu.
 - t-004
   global_id: t-184677
   teiginys: "1386 m. vasario 16 d. Gnezno arkivyskupas Bodzanta apkrikštijo Jogailą, kuris gavo Vladislovo vardą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1386 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pagrindžia Bodzantos veiksmą; pašalintas OCR ir puslapio triukšmas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "492379-492852; hash=83eb8107a5a67181910cb074a1f7eba4895f105c09890de458e470483c137bca; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Skirgaila: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Bodzanta (arkivyskupas, XIV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Skirgaila: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bodzanta (arkivyskupas, XIV a.)\" parinktas kaip owner_note_path. Targetas \"Skirgaila\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-168038
 - susijęs iš [[objektai/ivykiai/Lietuvos krikštas Vilniuje (1387 m.).md#claim-t-54450|Lietuvos krikštas Vilniuje (1387 m.)]]: Per Lietuvos krikštą Vilniuje Gniezno arkivyskupas Bodzanta pašventino Šv. Stanislovo katedrą.
@@ -131,8 +81,8 @@ Bodzanta Vladislovo vardu.
     kuvos katedroje, kur jį pakrikštijo Gniezno vysk. Bodzanta
     Vladislovo vardu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -153,8 +103,8 @@ Bodzanta Vladislovo vardu.
     tos nuodėmklausį, pavyzdingą vyrą ir garsų pamokslinin­
     ką9.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -189,8 +139,8 @@ Bodzanta Vladislovo vardu.
 
     gaila — Boleslovu, Daujotas — Jurgiu.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -275,6 +225,3 @@ Bodzanta Vladislovo vardu.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-184677
-
-## Ryšiai
-- Bodzanta (arkivyskupas, XIV a.) keliavo į [[objektai/vietos/Krokuva]]

@@ -40,19 +40,6 @@ Apsiaustųjų pajėgų aprūpinimo papildymus organizavo Smolensko vaivada Aleks
 - t-001
   global_id: t-39999
   teiginys: "Smolensko vaivada Aleksandras Gonsevskis su 6 tūkst. apylinkėse veikusių karių organizavo apsiaustųjų pajėgų aprūpinimą."
-  temporaliniai_duomenys: "įvykio data: 1633 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra konkretus, gramatinis ir paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "485881-486151; hash=f5d30bef6b27b13872a29e4496727a4881ba7bffa88636bf2d852a36eddcd45f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kristupas Radvila: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aleksandras Gonsevskis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kristupas Radvila: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksandras Gonsevskis\" parinktas kaip owner_note_path. Targetas \"Kristupas Radvila\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-44264
 - susijęs iš [[objektai/ivykiai/Smolensko apgultis (1632–1634 m.).md#claim-t-09881|Smolensko apgultis (1632–1634 m.)]]: Smolenską gynė apie 2 tūkst. Lietuvos karių, miestas buvo smarkiai apšaudytas ir šturmuojamas, bet nesėkmingai.
@@ -72,8 +59,8 @@ Apsiaustųjų pajėgų aprūpinimo papildymus organizavo Smolensko vaivada Aleks
     metinis Lietuvos lauko etmonas Kristupas
     Radvila 11.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

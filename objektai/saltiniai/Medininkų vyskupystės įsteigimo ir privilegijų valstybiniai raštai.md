@@ -36,14 +36,6 @@ Vis dėlto šį reikalą teko atidėti, nes dėl kry žiuočių, kaip rašo kai 
 - t-001
   global_id: t-193532
   teiginys: "Vis dėlto šį reikalą teko atidėti, nes dėl kry žiuočių, kaip rašo kai kurie metraštininkai, atsirado vi sai netikėtų ir didelių kliūčių."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "687114-687840; hash=b5c5a57591915cce67cd1ea5852ea61df88942ebda647ca56f5cefd8e2df1a0f; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-176212
 ## Reikšmingi paminėjimai
@@ -70,8 +62,8 @@ Vis dėlto šį reikalą teko atidėti, nes dėl kry žiuočių, kaip rašo kai 
     taip nuniokojo, kad jis vėliau niekada jau nebegalėjo
     pasiekti ankstesnio didingumo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -82,7 +74,8 @@ Vis dėlto šį reikalą teko atidėti, nes dėl kry žiuočių, kaip rašo kai 
 - id: c-176212
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 392"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 392."
   citata_originali: |
     S k ita i n io k o ja  R usią
     Tuo metu sugrįžo iš baž­

@@ -45,14 +45,6 @@ Nenurodyta
 - t-001
   global_id: t-194806
   teiginys: "Pavyzdžiui, Atrimpui degindavo vašką ir smilkalus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "544438-544857; hash=ea7e81bcd353b93fd832a500b2388726899c5d5a44116635128a98182fbd5c4b; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-177202
 ## Reikšmingi paminėjimai
@@ -69,8 +61,8 @@ Nenurodyta
     bus būdavo smilkoma įvairiomis medžiagomis, nelygu koks
     dievas. Pavyzdžiui, Atrimpui degindavo vašką ir smilkalus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -81,7 +73,8 @@ Nenurodyta
 - id: c-177202
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 311"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 311."
   citata_originali: |
     Žyniai, kurie vadinosi Wejktime, latviškai -  Wiktums, tu­
     rintys atlikti aukojimą, rengdavosi jam. Henenbergerio liudi­

@@ -38,12 +38,6 @@ Slucko kunigaikštis Simonas M ykolaitis Olelkaitis (Olelkovič) — Algirdo sū
 - t-001
   global_id: t-194124
   teiginys: "Slucko kunigaikštis Simonas M ykolaitis Olelkaitis (Olelkovič) — Algirdo sūnaus Vladimiro palikuonis, Mykolo Olelkaičio sū nus, Valdė Slucką ir Kopylių, mirė 1505.IX.14."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "643471-643668; hash=98a8122e62204cba24c94d0a39651ff3a7292be30729a350a3aca4e7dbbe2e88; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176737
 ## Reikšmingi paminėjimai
@@ -60,8 +54,8 @@ Slucko kunigaikštis Simonas M ykolaitis Olelkaitis (Olelkovič) — Algirdo sū
     vič) — Algirdo sūnaus Vladimiro palikuonis, Mykolo Olelkaičio sū­
     nus, Valdė Slucką ir Kopylių, mirė 1505.IX.14.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

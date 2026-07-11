@@ -35,16 +35,6 @@ Dusburgietis teigia, kad kai jo šventenybė Jeruzalės patriarchas Henrikas, š
 - t-001
   global_id: t-60305
   teiginys: "Brabanto kunigaikštis Henrikas dalyvavo valdovų pasitarime dėl naujai įsteigtos ligoninės patvirtinimo ir tuo metu vadovavo kariuomenei."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "112073-114173; hash=d887f1e43b930e90277dbb06614b87d8e98bbb7872c9e40d1d2c8ba001db7b4a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Albertas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Henrikas (Brabanto kunigaikštis): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Albertas: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Henrikas (Brabanto kunigaikštis)\" parinktas kaip owner_note_path. Targetas \"Albertas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-60937
 ## Reikšmingi paminėjimai
@@ -79,8 +69,8 @@ Dusburgietis teigia, kad kai jo šventenybė Jeruzalės patriarchas Henrikas, š
     Henriką VI, Romos karalių, busimąjį imperatorių, kuris privaląs paprašyti jo šventenybę
     popiežių leisti įsteigti mūsų minėtąją ligoninę ir ją patvirtinti.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -91,7 +81,8 @@ Dusburgietis teigia, kad kai jo šventenybė Jeruzalės patriarchas Henrikas, š
 - id: c-60937
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 37"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 37."
   citata_originali: |
     Nors
     apaštalas sako: „Aš sodinau, Apolonas laistė, o dievas augino“, nors iš šių žodžių visiškai

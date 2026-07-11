@@ -45,18 +45,6 @@ media_all_json: |-
 - t-003
   global_id: t-78026
   teiginys: "Daukšos lietuviakalbė programa nebuvo įgyvendinta."
-  temporaliniai_duomenys: "įvykio data: 1646 m.; įvykio data: 1737 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "142045-142391; hash=c649ed360c8855492cc2e25568c682d2f2684173cb383ff39321d841dd7364a0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mikalojus Daukša: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=8"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mikalojus Daukša\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-75341
 - susijęs iš [[objektai/posakiai/„Kurgi, sakau, pasaulyje yra tauta...“.md#claim-t-67311|„Kurgi, sakau, pasaulyje yra tauta...“]]: Posakiu „Kurgi, sakau, pasaulyje yra tauta...“ Mikalojus Daukša pabrėžė tėvų žemę, papročius ir kalbą kaip savus tautos dalykus.
@@ -73,8 +61,8 @@ media_all_json: |-
     kalbos funkcionavimu kasdieniu – Bažnyčios ir mokyklos – lygmeniu.
     Todėl M. Daukšos lietuviakalbė programa nebuvo įgyvendinta.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

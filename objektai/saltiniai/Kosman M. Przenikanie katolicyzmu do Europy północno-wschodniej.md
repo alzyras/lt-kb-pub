@@ -38,12 +38,6 @@ Dusburgietis teigia, kad kosman M.
 - t-001
   global_id: t-61103
   teiginys: "M. Kosmano darbas „Przenikanie katolicyzmu do Europy północno-wschodniej“ paskelbtas leidinyje „Katolicyzm średniowieczny“ 1977 m."
-  temporaliniai_duomenys: "įvykio data: 1977 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata leidžia suformuluoti bibliografinį faktą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "779447-779566; hash=5500fb129ae61cf946853045788e71c67963e123bdab0a4d34939e709af256a8; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-61735
 ## Reikšmingi paminėjimai
@@ -55,8 +49,8 @@ Dusburgietis teigia, kad kosman M.
     Kosman M. Przenikanie katolicyzmu do Europy północno-wschodniej.—Katolicyzm
     średniowieczny, Warszawa, 1977, s. 107—132.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -67,7 +61,8 @@ Dusburgietis teigia, kad kosman M.
 - id: c-61735
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 265"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 265."
   citata_originali: |
     Kosman M. Przenikanie katolicyzmu do Europy północno-wschodniej.—Katolicyzm
     średniowieczny, Warszawa, 1977, s. 107—132.

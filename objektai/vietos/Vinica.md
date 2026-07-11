@@ -35,12 +35,6 @@ media_all_json: |-
 - t-001
   global_id: t-185319
   teiginys: "Prisiekęs ištikimybę Vytautui ir jo įpėdiniams, Dimitras gavo valdyti Braclavą, Vinicą, Kremenecą ir Sokolecą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "593620-593998; hash=adcafbbfbc5e923d1c6aae3ae5336285a1db55b7b4d0a6b63cfe1162553c7986; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-168680
 
@@ -48,12 +42,6 @@ media_all_json: |-
 - t-002
   global_id: t-193455
   teiginys: "Vėliau, prisiekęs visada būti ištiki mas Vytautui bei jo įpėdiniams, gavo iš jo valdyti Braclavą, Vinicą, Kremenecą, Sokolecą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "593620-593998; hash=adcafbbfbc5e923d1c6aae3ae5336285a1db55b7b4d0a6b63cfe1162553c7986; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-168680
 
@@ -61,12 +49,6 @@ media_all_json: |-
 - t-003
   global_id: t-194277
   teiginys: "[Rūstusai Žygimante, kaip senasis karalius mėtau žaibus, Nejaugi manai, kad tik karaliams paklūsta žaibai?] Vietovių pavadinimai yra tokie: Pirmajame plane - Vilniaus arsenalas, antrame ir trečia me: Vilniaus pilis, Vinica, Žitomiras, Naugardukas, Poloc kas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "619842-620855; hash=f1a2fa39aed23ce7e5d575b637faa03778ade0edc4f85e82cd7f32324870af71; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176870
 ## Reikšmingi paminėjimai
@@ -90,8 +72,8 @@ media_all_json: |-
     Braclavą, Vinicą, Kremenecą, Sokolecą. Pasitenkinęs
     šiomis didelėmis valdomis, liovėsi reikalavęs Seversko.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -127,8 +109,8 @@ media_all_json: |-
     Volmera, Vendenė, Kokenhauzenas, Rundborgas, Diuna-
     mundė, Ryga, Šmetenė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

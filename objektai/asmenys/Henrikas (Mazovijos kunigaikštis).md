@@ -35,17 +35,6 @@ Nepaprastas Rin­ gailės grožis taip pakerėjo Mazovijos kunigaikštį Henrik�
 - t-001
   global_id: t-87685
   teiginys: "Mazovijos kunigaikštis Henrikas, atvykęs pas Vytautą su slaptu Jogailos pavedimu, vedė Ringailę."
-  semantiniai_rysiai: "Henrikas (Mazovijos kunigaikštis) vedė Ringailė (0.96)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "294610-295125; hash=6f73e4f6232d1e88319ce92114628c08a40075810adc54ee92a78d1411ec3829; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "vede -> Ringailė: 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Henrikas (Mazovijos kunigaikštis): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Ringailė: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Henrikas vedė Ringailę."
   pagrindžia:
     - c-83664
 ## Reikšmingi paminėjimai
@@ -68,8 +57,8 @@ Nepaprastas Rin­ gailės grožis taip pakerėjo Mazovijos kunigaikštį Henrik�
     rikui, vėliau grįžus į Plocką, kainavo gyvybę, lėmė greitesnį
     karaliaus susitarimą su Vytautu48.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -30,21 +30,6 @@ Narbutas pasakoja, kad Nebiasto vadovaujami pasiuntiniai jotvingių vardu praš�
 - t-001
   global_id: t-191446
   teiginys: "Narbutas pasakoja, kad Nebiasto vadovaujami pasiuntiniai jotvingių vardu prašė Danielių taikiai išeiti iš jų žemės ir nebendradarbiauti su lenkais."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "231973-232264; hash=d526052ce7cf3d9a8913f8f705ed5f52e604a0924aa267836bac8e9c23cf024f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Danielius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Nebiastas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Danielius: mention_match, person, gap=56"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Nebiastas\" parinktas kaip owner_note_path. Targetas \"Danielius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174328
 ## Reikšmingi paminėjimai
@@ -60,8 +45,8 @@ Narbutas pasakoja, kad Nebiasto vadovaujami pasiuntiniai jotvingių vardu praš�
     liaus, kad šis taikiai išeitų iŠ jų žemės ir atsisakytų bend­
     radarbiauti su lenkais. Danielius nesutiko.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -72,7 +57,8 @@ Narbutas pasakoja, kad Nebiasto vadovaujami pasiuntiniai jotvingių vardu praš�
 - id: c-174328
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 129"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 129."
   citata_originali: |
     Taip buvo pradėtas
     mūšis, kuris visą dieną užpuolikams buvo labai sėkmin­

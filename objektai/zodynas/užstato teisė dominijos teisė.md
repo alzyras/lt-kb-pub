@@ -34,9 +34,6 @@ IL 4U 326 ## Puslapis 343 IV KNYGA tautoms, kurios paprastai patenka jų globai,
 - t-001
   global_id: t-86622
   teiginys: "Apskritys turėjo būti perduotos tik užstato, o ne dominijos teise."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "639461-639800; hash=b46470533976ce440e44e53f91298f33e1f1284b66722dc66fec796e1b49fa46; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-82601
 ## Reikšmingi paminėjimai
@@ -59,8 +56,8 @@ IL 4U 326 ## Puslapis 343 IV KNYGA tautoms, kurios paprastai patenka jų globai,
     juolab kad šios apskritys mums turi būti perduotos tiktai
     užstato, o ne dominijos teise.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

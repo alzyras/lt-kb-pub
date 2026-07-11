@@ -30,19 +30,6 @@ Kunigaikščiai Boratinskiai su didžiulėmis tėvonijomis perėjo į Maskvos pu
 - t-001
   global_id: t-185458
   teiginys: "Kunigaikščiai Boratinskiai su didžiulėmis tėvonijomis perėjo į Maskvos pusę ir su savo kariaunomis pradėjo puldinėti karaliaus valdas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "946538-947086; hash=9a1dce0d4f505fbb58dde08156a37da2f2d95abb111d0a44a94f9705cb415484; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Maskva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Boratinskių giminė: owner_note_path, group"
-  ryšio_targeto_parinkimas: "Maskva: mention_match, place, gap=64"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Boratinskių giminė\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-168819
 ## Reikšmingi paminėjimai
@@ -71,8 +58,8 @@ Kunigaikščiai Boratinskiai su didžiulėmis tėvonijomis perėjo į Maskvos pu
     Strumilą Petravičių protes­
     tuoti dėl paliaubų sulaužymo.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -83,7 +70,8 @@ Kunigaikščiai Boratinskiai su didžiulėmis tėvonijomis perėjo į Maskvos pu
 - id: c-168819
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 535"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 535."
   citata_originali: |
     Tuo tarpu
     Maskvos valdovas stiprino savo pajėgas, darydamas

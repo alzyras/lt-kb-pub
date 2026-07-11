@@ -30,21 +30,6 @@ Narbutas plikaisiais kalnais (Lyse góry) vadino slavų šalyse paplitusius, ypa
 - t-001
   global_id: t-189171
   teiginys: "Narbutas plikaisiais kalnais (Lyse góry) vadino slavų šalyse paplitusius, ypač šiaurėje, nuogus ir be medžių aukų kalnus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "450558-451203; hash=a59a3e177fcaf6e7fe7f02e60ff7c7c390bc4695ae6503ceec4614b7b271d4e3; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Slavai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Plikasis kalnas Lyse góry: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Slavai: mention_match, group, gap=27"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Plikasis kalnas Lyse góry\" parinktas kaip owner_note_path. Targetas \"Slavai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172059
 
@@ -52,21 +37,6 @@ Narbutas plikaisiais kalnais (Lyse góry) vadino slavų šalyse paplitusius, ypa
 - t-002
   global_id: t-189172
   teiginys: "Narbutas rašė, kad lietuviai turėjo dievams skirtų kalnų, tačiau tikrai lietuviškuose pasakojimuose Plikasis kalnas neminimas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "452081-452551; hash=acff131ffe44cf7ff4eb332c1aa79661d2eabc7037bd3499a23d0c9165543578; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aukurai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Plikasis kalnas Lyse góry: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Aukurai: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Plikasis kalnas Lyse góry\" parinktas kaip owner_note_path. Targetas \"Aukurai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172060
 ## Reikšmingi paminėjimai
@@ -88,8 +58,8 @@ Narbutas plikaisiais kalnais (Lyse góry) vadino slavų šalyse paplitusius, ypa
     ve -  plikas; Kahlenberg iš kahl - vokiškai tą patį reiškiančio būdvar­
     džio.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -108,8 +78,8 @@ Narbutas plikaisiais kalnais (Lyse góry) vadino slavų šalyse paplitusius, ypa
     turėjo būti pramintas rusinu -  miesto kolonistų, atgabentų iš
     Lietuvos Rusios kuriant miestą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -120,7 +90,8 @@ Narbutas plikaisiais kalnais (Lyse góry) vadino slavų šalyse paplitusius, ypa
 - id: c-172059
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 260"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 260."
   citata_originali: |
     Antikos žmonės turėjo tam tikras vietas, vadintas Hypetres
     arba Subdiales, neapsaugotas jokiomis priedangomis bei ap­
@@ -144,7 +115,8 @@ Narbutas plikaisiais kalnais (Lyse góry) vadino slavų šalyse paplitusius, ypa
 - id: c-172060
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 261"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 261."
   citata_originali: |
     Lietuviai turėjo dievams paskirtų kalnų, tačiau neturime
     tikrai lietuviškų pasakojimų, kuriuose būtų minimas koks nors

@@ -40,19 +40,6 @@ Dusburgietis teigia, kad manoma, kad Sakso Gramatiko (mir.
 - t-001
   global_id: t-91954
   teiginys: "Manoma, kad Sakso Gramatiko Danijos istorijoje minimi Rutheni greičiausiai buvo venedai."
-  temporaliniai_duomenys: "įvykio data: 1216 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "490016-490322; hash=6623d1840c4e4e8a77471b9db04efdf62f3ff97ab9025aec6bb5f5193a102388; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Venedai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Sakso Gramatiko: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Venedai: mention_match, group, gap=68"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sakso Gramatiko\" parinktas kaip owner_note_path. Targetas \"Venedai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-87595
 - susijęs iš Sakso Gramatiko Danijos istorija: Sakso Gramatiko Danijos istorijoje minimi Rutheni greičiausiai buvo venedai, apie kuriuos rašė Dusburgietis.
@@ -68,8 +55,8 @@ Dusburgietis teigia, kad manoma, kad Sakso Gramatiko (mir.
     Gramatiko (mir. 1216 m.) Danijos istorijoje minimi Rutheni — tai greičiausiai venedai,
     kad apie juos ir rašo Dusburgietis (Кудрякова E. Б., Известия o Руси...).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -80,7 +67,8 @@ Dusburgietis teigia, kad manoma, kad Sakso Gramatiko (mir.
 - id: c-87595
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 154"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 154."
   citata_originali: |
     54—83,— pastarajame darbe iškelta hipotezė, kad pietinio
     Baltijos pajūrio ir Riugeno rutėnai — tai venedai, slavizuoti keltai). Manoma, kad Sakso

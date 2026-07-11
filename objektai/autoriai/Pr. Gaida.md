@@ -32,9 +32,6 @@ Gaida, Arkiv.
 - t-001
   global_id: t-29394
   teiginys: "Pr. Gaida rengė spaudai Arkivyskupo T. Matulionio gyvenimą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1111081-1111148; hash=50c44c4e8d3000966bc50c9fc5b316b76026144d866983177aa3bd765e17d599; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-29299
 ## Reikšmingi paminėjimai
@@ -45,8 +42,8 @@ Gaida, Arkiv.
     Pr. Gaida, Arkiv. T. Matulionio gyvenimas, baigiama
     ruošti spaudai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

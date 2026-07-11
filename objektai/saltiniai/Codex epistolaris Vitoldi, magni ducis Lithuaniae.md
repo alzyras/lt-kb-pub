@@ -45,19 +45,6 @@ media_all_json: |-
 - t-004
   global_id: t-12448
   teiginys: "Šiame veikale bibliografijoje santrumpa C. ep. V. išskleidžiama kaip 1376-1430 m. Vytauto laiškų rinkinys, kurį parengė A. Prochaska ir išleido Krokuvoje 1882 m."
-  teiginio_tipas: "faktas"
-  temporaliniai_duomenys: "įvykio data: 1376-1430; įvykio data: 1430 m.; įvykio data: 1882 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "4849-5041; hash=04ef04bc44f84675e4029695a9a8a8738e49831cbf5aee5dfb1358188097fb90; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> A. Prochaska: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Codex epistolaris Vitoldi, magni ducis Lithuaniae: owner_note_path, source"
-  ryšio_targeto_parinkimas: "A. Prochaska: mention_match, author, gap=121"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Codex epistolaris Vitoldi, magni ducis Lithuaniae\" parinktas kaip owner_note_path. Targetas \"A. Prochaska\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-37190
 ## Reikšmingi paminėjimai
@@ -68,11 +55,11 @@ media_all_json: |-
     CeV = Codex epistolaris Vitoldi, magni ducis Lithuaniae (1376-
     1430), išl. A. Prochaska (rink. MoMP, t. 6) 1882.
   citata_rodoma: ''
+  statusas: verified
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-
 - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -81,8 +68,8 @@ media_all_json: |-
     1882 (VI tom. iš „Monumentą medii aevi historica res
     gestas Poloniae illustrantia“).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -97,11 +84,11 @@ media_all_json: |-
     Litauen_** **1382-1401, 1925, 61 p.**
     (^13) **KolLJ, I, 51 p.**
   citata_rodoma: ''
+  statusas: verified
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-
 ## Citatos
 
 - id: c-37190

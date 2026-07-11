@@ -45,12 +45,6 @@ Nenurodyta
 - t-001
   global_id: t-194069
   teiginys: "BK Perekopo orda vadinami Krymo chanato totoriai, kurių kontroliuojam a teritorija siekė nuo Dunojaus žiočių 110 Siaurės Kaukazo."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "564676-565100; hash=ca2dff6c742e03c32210ead95ab60a4e301c7cb54c47cd12cea57b7bca427bb6; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176682
 ## Reikšmingi paminėjimai
@@ -71,8 +65,8 @@ Nenurodyta
     chano giminės nariai iš tų linijų, kurių atstovam s neteko sėdėti
     chanų soste.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

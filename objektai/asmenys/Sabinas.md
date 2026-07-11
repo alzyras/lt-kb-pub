@@ -33,17 +33,6 @@ Dusburgietis teigia, kad sabinas subūrė brolių kariuomenę ir ją išdėstė 
 - t-001
   global_id: t-60431
   teiginys: "Notangai savo kariuomenės vadu išsirinko vyrą, vardu Sabinas."
-  semantiniai_rysiai: "Notangai paskyrė Sabinas (0.86)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "592069-593009; hash=bba2ce3ddb101ba79ac192b0bf4fd6d487369f8e7d5a8cecab97e25af55ed4af; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "paskyre -> Sabinas: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Notangai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Sabinas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Notangai tiesiogiai išsirinko Sabiną kariuomenės vadu."
   pagrindžia:
     - c-61063
 - susijęs iš [[objektai/autoriai/Donner G. A.md#claim-t-60690|Donner G. A]]: Donner G. A. parašė darbą apie kardinolą Wilhelmą von Sabiną.
@@ -67,8 +56,8 @@ Dusburgietis teigia, kad sabinas subūrė brolių kariuomenę ir ją išdėstė 
     Bartenšteino pilį ir paėmė į nelaisvę brolį Rudolfą, vadinamą Bodemeru, ir brolį Fridrichą iš
     Libencelės su visa jų šeimyna.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -79,7 +68,8 @@ Dusburgietis teigia, kad sabinas subūrė brolių kariuomenę ir ją išdėstė 
 - id: c-61063
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 189"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 189."
   citata_originali: |
     Apie  tai sužinojęs,
     magistras be galo sunerimo (jis mat būgštavo, kad gali rastis naujų pavojų jam pačiam
@@ -100,6 +90,3 @@ Dusburgietis teigia, kad sabinas subūrė brolių kariuomenę ir ją išdėstė 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60431
-
-## Ryšiai
-- Paskyrė Sabiną: [[objektai/grupes/Notangai]]

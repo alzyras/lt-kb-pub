@@ -30,22 +30,6 @@ Senojo Bychovo apskrities gydytojas Heneris, Narbuto vadintas istorinių dalykų
 - t-001
   global_id: t-191413
   teiginys: "Senojo Bychovo apskrities gydytojas Heneris, Narbuto vadintas istorinių dalykų tyrinėtoju, Baltarusijoje buvo išgyvenęs per keturiasdešimt metų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Heneris gyveno Baltarusija (0.96)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "697194-697824; hash=fb59df3e07d02aaa6d37ac62f568532218221c5c9259db3a02b2dd7571b1a774; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Baltarusija: 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Heneris: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Baltarusija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Heneris ilgą laiką gyveno Baltarusijoje."
-  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174295
 ## Reikšmingi paminėjimai
@@ -67,8 +51,8 @@ Senojo Bychovo apskrities gydytojas Heneris, Narbuto vadintas istorinių dalykų
     žiuje rašytos slavų kalba Dombrovskio ar Dubrovskio;
     pirmoje jos dalyje, 31 puslapyje, yra pilkapių aprašymas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -79,7 +63,8 @@ Senojo Bychovo apskrities gydytojas Heneris, Narbuto vadintas istorinių dalykų
 - id: c-174295
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 383"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 383."
   citata_originali: |
     Tačiau tuos, kurie ką nors
     rasdavo, ištikdavo nelaimės, be to, tokių radinių saugo­

@@ -38,12 +38,6 @@ M askvos didžiojo kunigaikščio Ivano III puolimas prasidėjo žygiu j Tvėrė
 - t-001
   global_id: t-194109
   teiginys: "M askvos didžiojo kunigaikščio Ivano III puolimas prasidėjo žygiu j Tvėrė 1485 m. rugpiūčlo mėn., Tverė buvo ap supta 1485.IX.8, o T verės didysis kunigaikštis Michailas Borlsovičius pabėgo iš Tverės 1485 m. rugsėjo 11—12 d. naktį ir j Lietuvų pateko tų pat."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "598302-598647; hash=5de1cfc3f4cb12b9c9084a03be1a2c9db54b93a928f24f6fa0bce1298143591d; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176722
 ## Reikšmingi paminėjimai
@@ -59,8 +53,8 @@ M askvos didžiojo kunigaikščio Ivano III puolimas prasidėjo žygiu j Tvėrė
     pateko tų pat metų ruden), kai Lenkijos karalius ir Ldk Kazimie­
     ras buvo dar pietų Lenkijoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

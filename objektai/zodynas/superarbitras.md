@@ -34,17 +34,6 @@ Dobrynės ir Žemaičių kraštų sienos buvo paliktos nustatyti abiejų pusių 
 - t-001
   global_id: t-36837
   teiginys: "Didesniuose ginčuose buvo nutarta kreiptis į popiežių kaip į superarbitrą."
-  semantiniai_rysiai: "Žemaitija priklausė Vytautas (Lietuvos valdovas, XIV–XV a.) (0.86)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "329527-330141; hash=60a81db081affb128d168ad0aff9cc0a4c72170ad8ddd753f582079406815bd2; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Žemaitija: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Žemaitija buvo atiduota Vytautui, todėl galima fiksuoti priklausymo ryšį."
   pagrindžia:
     - c-38762
 ## Reikšmingi paminėjimai
@@ -63,8 +52,8 @@ Dobrynės ir Žemaičių kraštų sienos buvo paliktos nustatyti abiejų pusių 
     kurį taikingiems santykiams užmegsti Vytautas buvo išvykęs dar
     prieš savo kelionę į rusų kraštus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

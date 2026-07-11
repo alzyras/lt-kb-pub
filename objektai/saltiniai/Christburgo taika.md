@@ -38,16 +38,6 @@ Jonynas: Christburgo taika , Lietuviškoji Enciklopedija, t.
 - t-001
   global_id: t-100155
   teiginys: "Jonynas: Christburgo taika , Lietuviškoji Enciklopedija, t."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "809368-809590; hash=f93606dda0658e12776f6ae9f873442fa8fc3cb9b1eb52e06843df857718dec5; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kaunas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Christburgo taika: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Kaunas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Christburgo taika\" parinktas kaip owner_note_path. Targetas \"Kaunas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-94043
 ## Reikšmingi paminėjimai
@@ -60,8 +50,8 @@ Jonynas: Christburgo taika , Lietuviškoji Enciklopedija, t.
     Kaunas 1937, 459-464 sk. —** **_Christburgo taika_** **, LE, t. 3, 541 p.**
     (^2) **Plg. Vcl.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

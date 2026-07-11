@@ -34,17 +34,6 @@ media_all_json: |-
 - t-001
   global_id: t-32740
   teiginys: "Žemaičių aukštumoje išaugo ištisos ginamųjų pilių grandinės."
-  semantiniai_rysiai: "Žemaičiai priklausė Lietuva (0.90); Kryžiuočių ordinas kariavo prieš Žemaičiai (0.82)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "591341-591790; hash=c2ce7175f46c596d01451ea3b91bdd3f91203333ae90433fb4ca486a809836fa; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Lietuva: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Žemaičiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai teigia, kad žemaičiai buvo įjungti į Lietuvos valstybę."
   pagrindžia:
     - c-34123
 ## Reikšmingi paminėjimai
@@ -61,8 +50,8 @@ media_all_json: |-
     ginti, tirštai gyvenamoje Žemaičių aukštumoje, supamoje balnotų
     slėnių ir gausių upių-upelių, išaugo ištisos ginamųjų pilių grandinės.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

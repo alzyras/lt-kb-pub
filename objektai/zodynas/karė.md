@@ -32,14 +32,6 @@ media_all_json: |-
 - t-001
   global_id: t-193809
   teiginys: "144, „KARĖ“ Andžej Geglis, dail."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1138013-1138063; hash=a05589ccabb73500c83bb776d66bc85d80906b58322813e918b4155d25d23ec2; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-176454
 ## Reikšmingi paminėjimai
@@ -50,8 +42,8 @@ media_all_json: |-
   citata_originali: |
     P. 144, „KARĖ“ Andžej Geglis, dail. Andžej Geglis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

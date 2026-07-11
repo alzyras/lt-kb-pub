@@ -35,12 +35,6 @@ Bychovco kronikos rankraštį prieš 1830 m. Alek sandro Bychovco Mogiliovcų dv
 - t-001
   global_id: t-194148
   teiginys: "Bychovco kronikos rankraštį prieš 1830 m. Alek sandro Bychovco Mogiliovcų dvaro b-koje aptiko Vil niaus gimnazijos mokytojas Ipolitas Klimaševskis."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "11364-11719; hash=1059e5b81ee054313830ca5badba144068c41347265a542c7f1d3d1ab107458f; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176761
 ## Reikšmingi paminėjimai
@@ -57,8 +51,8 @@ Bychovco kronikos rankraštį prieš 1830 m. Alek sandro Bychovco Mogiliovcų dv
     kronikos fragmentą — pasakojimą apie Vytauto brolio
     Žygimanto Kęstutaičio nužudymą 1440 m.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -69,7 +63,8 @@ Bychovco kronikos rankraštį prieš 1830 m. Alek sandro Bychovco Mogiliovcų dv
 - id: c-176761
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 8"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 8."
   citata_originali: |
     Bychovco kronikos rankraštį prieš 1830 m. Alek­
     sandro Bychovco Mogiliovcų dvaro b-koje aptiko Vil­

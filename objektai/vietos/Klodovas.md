@@ -35,16 +35,6 @@ Karalius tuoj pat aprūpino ją nemenkomis pajamomis: be turtingos Klodovo klebo
 - t-001
   global_id: t-86198
   teiginys: "Turtinga Klodovo klebonija Gniezno diecezijoje buvo anksčiau duota naujajam Vilniaus vyskupui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "242726-243574; hash=ba3145fcabbeaf8ad8b097e8c251783b20e5e8c7ee8aa9fa75b1e098fdaf3e85; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gniezno: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Klodovas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Gniezno: mention_match, place, gap=18"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Klodovas\" parinktas kaip owner_note_path. Targetas \"Gniezno\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-82177
 - susijęs iš [[objektai/zodynas/diecezija.md#claim-t-192168|diecezija]]: Klodovo klebonija, duota naujajam vyskupui, buvo Gniezno diecezijoje.
@@ -88,8 +78,8 @@ Karalius tuoj pat aprūpino ją nemenkomis pajamomis: be turtingos Klodovo klebo
     Drohičino, Brastos ir Dubno pavietuose, su įvairiais ten ren­
     kamais mokesčiais, dosniai aprūpino Vilniaus katedrą10.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -134,6 +124,3 @@ Karalius tuoj pat aprūpino ją nemenkomis pajamomis: be turtingos Klodovo klebo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-86198
-
-## Ryšiai
-- Klodovas priklausė [[objektai/vietos/Gniezno diecezija]]

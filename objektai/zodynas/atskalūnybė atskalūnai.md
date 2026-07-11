@@ -35,16 +35,6 @@ Dusburgietis teigia, kad išgirdę tokį sprendimą, kuršiai taip įtūžo ant 
 - t-002
   global_id: t-58806
   teiginys: "Dusburgietis atskalūnybių antkrytį aiškino kaip Kristaus leistą išbandymą tikėjimo ištikimybei grūdinti."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "372615-373274; hash=f2fa78792f9f7bf9fc9016fd002babd8052f7567884b61fa94a0de6558e3bc87; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kuršas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "atskalūnybė atskalūnai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Kuršas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"atskalūnybė atskalūnai\" parinktas kaip owner_note_path. Targetas \"Kuršas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-59440
 
@@ -52,16 +42,6 @@ Dusburgietis teigia, kad išgirdę tokį sprendimą, kuršiai taip įtūžo ant 
 - t-003
   global_id: t-58807
   teiginys: "Kai prūsai buvo įtariami atskalūnybe, Notangos ir Varmės fogtas Volradas vakarieniavo su kilmingaisiais Lencenbergo pilyje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "373288-373833; hash=4427e1530efee4eac5b18584ba0491e158a5f2bcf3af034e4deb9c1db6da9cfe; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Notanga: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "atskalūnybė atskalūnai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Notanga: mention_match, place, gap=13"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"atskalūnybė atskalūnai\" parinktas kaip owner_note_path. Targetas \"Notanga\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-59438
 
@@ -69,16 +49,6 @@ Dusburgietis teigia, kad išgirdę tokį sprendimą, kuršiai taip įtūžo ant 
 - t-001
   global_id: t-58808
   teiginys: "Petras Dusburgietis kuršius, iš užnugario užpuolusius krikščionis, pavadino tikrais atskalūnais."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "366592-367655; hash=05fb3bc890b18c02ce2cd25a4e8949085d20b488bd9b98c94801e5c5d000dc17; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kuršiai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "atskalūnybė atskalūnai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Kuršiai: mention_match, group, gap=64"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"atskalūnybė atskalūnai\" parinktas kaip owner_note_path. Targetas \"Kuršiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-59441
 
@@ -86,19 +56,6 @@ Dusburgietis teigia, kad išgirdę tokį sprendimą, kuršiai taip įtūžo ant 
 - t-005
   global_id: t-184001
   teiginys: "Petras Dusburgietis kuršius, iš užnugario užpuolusius krikščionis, pavadino tikrais atskalūnais."
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "366457-367134; hash=f59007dbab603dd6bbde562a3deadeab11908a70e61760deb5168aedd21d626d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kuršiai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "atskalūnybė atskalūnai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Kuršiai: mention_match, group, gap=64"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"atskalūnybė atskalūnai\" parinktas kaip owner_note_path. Targetas \"Kuršiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-167386
 ## Reikšmingi paminėjimai
@@ -116,8 +73,8 @@ Dusburgietis teigia, kad išgirdę tokį sprendimą, kuršiai taip įtūžo ant 
     ginkluotas. Kai šviesa buvo vėl įžiebta, jis parodė savo sudraskytus drabužius ir paklausė
     kilmingųjų, ko užsitarnavęs šitoks žmogžudys.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -136,8 +93,8 @@ Dusburgietis teigia, kad išgirdę tokį sprendimą, kuršiai taip įtūžo ant 
     tikėjimui, kad netikėliai būtų sutriuškinti, nes tikėjimo dorybė išbandoma pavojų, nes ji
     saugi pavojuose, nes ji tolygi geriems darbams.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -160,8 +117,8 @@ Dusburgietis teigia, kad išgirdę tokį sprendimą, kuršiai taip įtūžo ant 
     užuot gėrę saldų medaus vyną, arba midų, kurio ne kartą esate gavę iš brolių rankų,
     gerkite šiandien žiaurios mirties kartėlį, išpažindami tikrąjį amžinosios trejybės tikėjimą”.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -181,8 +138,8 @@ Dusburgietis teigia, kad išgirdę tokį sprendimą, kuršiai taip įtūžo ant 
     užpakalio348, beveik visi abiejų žemių žmonės pasitraukė, palikdami čia brolius ir jiems
     ištikimus.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -193,7 +150,8 @@ Dusburgietis teigia, kad išgirdę tokį sprendimą, kuršiai taip įtūžo ant 
 - id: c-59438
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 114"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 114."
   citata_originali: |
     88 (83). Apie Lencenbergo pilies bei daugybės prūsų sudeginimą
 
@@ -214,7 +172,8 @@ Dusburgietis teigia, kad išgirdę tokį sprendimą, kuršiai taip įtūžo ant 
 - id: c-59440
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 114"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 114."
   citata_originali: |
     Šių dviejų vyrų regėjimai sutapo vienas su kitu net ir tuo, kad visos sielos, kurių kūnai
     krito tame Kuršo mūšyje, buvusios išganytos, išskyrus vieną. Nežinau, dėl ko ji buvo
@@ -234,7 +193,8 @@ Dusburgietis teigia, kad išgirdę tokį sprendimą, kuršiai taip įtūžo ant 
 - id: c-59441
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 112"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 112."
   citata_originali: |
     Nors broliai buvo linkę jų prašymą patenkinti, pasipriešino tam kiti Prūsijos ir Livonijos
     žmonės, tvirtindami, kad su jų belaisviais bus pasielgta taip, kaip reikalauja elgtis
@@ -258,7 +218,8 @@ Dusburgietis teigia, kad išgirdę tokį sprendimą, kuršiai taip įtūžo ant 
 - id: c-167386
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 112"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 112."
   citata_originali: |
     Tuo tarpu atvyko kuršiai, nuolankiai prašydami,
     kad, dievui padėjus krikščionims laimėti, jiems būtų sugrąžintos jų moterys ir vaikai.

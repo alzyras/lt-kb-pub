@@ -30,19 +30,6 @@ Pulkai, nesutikdami pasipriešinimo, nuniokojo tolesnes žemes ir be mūšio per
 - t-001
   global_id: t-185297
   teiginys: "Pulkai, nesutikdami pasipriešinimo, nuniokojo tolesnes žemes ir be mūšio persikėlė per Psiolo ir Sulos upes."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "619782-620095; hash=b908b58e67581ee20dea70cbab7981d064d4870a26775076ad71b84230a1147c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Skitija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Psiolas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Skitija: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Psiolas\" parinktas kaip owner_note_path. Targetas \"Skitija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-168658
 - susijęs iš Vorskla: Prie Vorsklos upės pasirodė Tamerlano karvedys Edigejus su didžiuliais skitų būriais.
@@ -62,8 +49,8 @@ Pulkai, nesutikdami pasipriešinimo, nuniokojo tolesnes žemes ir be mūšio per
     Prie Vorsklos upės galop pasirodė Edigejus, Tamer-
     lano karvedys, su didžiuliais skitų būriais.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -74,7 +61,8 @@ Pulkai, nesutikdami pasipriešinimo, nuniokojo tolesnes žemes ir be mūšio per
 - id: c-168658
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 355"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 355."
   citata_originali: |
     Leidęsi iš čia Skitijos
     kryptimi, pulkai, žengdami

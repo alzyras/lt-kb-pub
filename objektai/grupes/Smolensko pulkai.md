@@ -33,17 +33,6 @@ Centre tarp lietuvių ir lenkų (kariuomenės kairiojo sparno) pasilikusieji Smo
 - t-003
   global_id: t-81606
   teiginys: "Vytautas su Smolensko pulkais po keturių savaičių apgulties atgavo Švitrigailos ir Livonijos užimtą Vitebską."
-  semantiniai_rysiai: "Smolensko pulkai užėmė Vitebskas (0.82); Smolensko pulkai kariavo prieš Švitrigaila (0.76); Smolensko pulkai buvo sąjungininkas su Vytautas (Lietuvos valdovas, XIV–XV a.) (0.72)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "360110-360840; hash=337aca4af301ada0507115c3c0cbb51909674b8fa4b53f7588ff5ee1901cf7ca; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Vitebskas: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Smolensko pulkai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vitebskas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Smolensko pulkai kartu su Vytautu dalyvavo atgaunant Vitebską."
   pagrindžia:
     - c-78199
 
@@ -51,17 +40,6 @@ Centre tarp lietuvių ir lenkų (kariuomenės kairiojo sparno) pasilikusieji Smo
 - t-002
   global_id: t-81607
   teiginys: "Vytautas su Smolensko pulkais po keturių savaičių apgulties atgavo Vitebską ir paėmė Švitrigailą į nelaisvę."
-  semantiniai_rysiai: "Smolensko pulkai užėmė Vitebskas (0.82); Smolensko pulkai kariavo prieš Švitrigaila (0.76); Smolensko pulkai buvo sąjungininkas su Vytautas (Lietuvos valdovas, XIV–XV a.) (0.72)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "360110-360840; hash=337aca4af301ada0507115c3c0cbb51909674b8fa4b53f7588ff5ee1901cf7ca; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Vitebskas: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Smolensko pulkai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vitebskas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Smolensko pulkai kartu su Vytautu dalyvavo atgaunant Vitebską."
   pagrindžia:
     - c-78199
 
@@ -69,16 +47,6 @@ Centre tarp lietuvių ir lenkų (kariuomenės kairiojo sparno) pasilikusieji Smo
 - t-001
   global_id: t-81608
   teiginys: "Žalgirio mūšyje Smolensko pulkai liko centre tarp lietuvių ir lenkų, vadovaujami Lengvenio sūnaus Jurgio."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "930937-931129; hash=90a73d12facd141b0067cfb54b540a148b57964ba179c4ef5b88384de4bb10b5; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lengvenis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Smolensko pulkai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lengvenis: mention_match, person, gap=65"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Smolensko pulkai\" parinktas kaip owner_note_path. Targetas \"Lengvenis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-31263
 ## Reikšmingi paminėjimai
@@ -91,8 +59,8 @@ Centre tarp lietuvių ir lenkų (kariuomenės kairiojo sparno) pasilikusieji Smo
     Lengvenio sūnus Jurgis, anot Dlugošo, «laimėjo didelę... garbę
     karių ir herojų»^27.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -120,8 +88,8 @@ Centre tarp lietuvių ir lenkų (kariuomenės kairiojo sparno) pasilikusieji Smo
     la ir kitos žinios iš šio laiško iki šiol istorijoje nebuvo mini­
     mos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -177,8 +145,3 @@ Centre tarp lietuvių ir lenkų (kariuomenės kairiojo sparno) pasilikusieji Smo
   pagrindzia:
     - t-81607
     - t-81606
-
-## Ryšiai
-- Sąjungininkai: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Smolensko pulkai užėmė [[objektai/vietos/Vitebskas]]
-- Smolensko pulkai kariavo prieš [[objektai/asmenys/Švitrigaila]]

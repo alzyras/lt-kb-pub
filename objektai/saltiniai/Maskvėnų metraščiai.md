@@ -30,19 +30,6 @@ Maskvėnų metraščiai mini popiežiaus Klemenso legatą Joną Frentijulijų, i
 - t-001
   global_id: t-186340
   teiginys: "Maskvėnų metraščiai mini popiežiaus Klemenso legatą Joną Frentijulijų, imperatoriaus Karolio V atstovą grafą Leonardą ir karaliaus Ferdinando atstovą Zigmantą Herberšteiną."
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1161157-1161508; hash=749202290d15b89ba7e9207a54b2973a71db11634acadefbd15b84cacab8daa0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Maskvėnai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Maskvėnų metraščiai: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Maskvėnai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Maskvėnų metraščiai\" parinktas kaip owner_note_path. Targetas \"Maskvėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-169701
 ## Reikšmingi paminėjimai
@@ -59,8 +46,8 @@ Maskvėnų metraščiai mini popiežiaus Klemenso legatą Joną Frentijulijų, i
     tijulijų, imperatoriaus Karolio V — grafą Leonardą ir
     karaliaus Ferdinando — Zigmantą Herberšteiną.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -71,7 +58,8 @@ Maskvėnų metraščiai mini popiežiaus Klemenso legatą Joną Frentijulijų, i
 - id: c-169701
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 651"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 651."
   citata_originali: |
     Pirmoji pasiuntinybė patraukė į Možaiską
     tik tada, kai gavo žinią, jog karaliaus legatai Smo­

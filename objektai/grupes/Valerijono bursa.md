@@ -36,12 +36,6 @@ media_all_json: |-
 - t-001
   global_id: t-194300
   teiginys: "2mo: kad tie namai būtų vadinami Valerijono bursomis."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "396733-397246; hash=485d578ec8a86c39a1fb91f39488dd546b27ec6784d83a16c3016405b2749dc9; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176892
 
@@ -49,12 +43,6 @@ media_all_json: |-
 - t-002
   global_id: t-194301
   teiginys: "Valerijono bursai skiriamų metinių pajamų sąrašas Iš kahalo nuo 5 500 auksinų sumos komisijos sprendimo vigore [galia] - 165 auks."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "399789-400007; hash=dfa6b57c5ce9e68151c48798afc84eb90345661cac967e13292d71b7821e9992; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176893
 ## Reikšmingi paminėjimai
@@ -74,8 +62,8 @@ media_all_json: |-
     prieš Šv. Kryžiaus altorių, mišių klausydamiesi, aukotų mal­
     das už fundatoriaus sielą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -92,8 +80,8 @@ media_all_json: |-
     Nuo Švarco namo - 260 auks.
     Iš viso 825 auks. suma.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

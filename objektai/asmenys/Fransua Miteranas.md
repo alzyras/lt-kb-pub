@@ -41,17 +41,6 @@ Pirmasis Prancūzijos prezidento Fransua Miterano vizitas į Lietuvą.
 - t-001
   global_id: t-46038
   teiginys: "Prancūzijos prezidentas Fransua Miteranas surengė pirmąjį vizitą į Lietuvą."
-  semantiniai_rysiai: "Fransua Miteranas keliavo į Lietuva (0.93)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "511782-512192; hash=620f46cbd92dcf4acbc3d3a4efde44d9e0bbc604fd57035cca282b4f0f67ef53; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Lietuva: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Fransua Miteranas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Vizitas į Lietuvą tiesiogiai pagrindžia Fransua Miterano kelionę į Lietuvą."
   pagrindžia:
     - c-25067
 
@@ -59,17 +48,6 @@ Pirmasis Prancūzijos prezidento Fransua Miterano vizitas į Lietuvą.
 - t-001
   global_id: t-46038
   teiginys: "Prancūzijos prezidentas Fransua Miteranas surengė pirmąjį vizitą į Lietuvą."
-  semantiniai_rysiai: "Fransua Miteranas keliavo į Lietuva (0.93)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "511782-512192; hash=620f46cbd92dcf4acbc3d3a4efde44d9e0bbc604fd57035cca282b4f0f67ef53; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Lietuva: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Fransua Miteranas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Vizitas į Lietuvą tiesiogiai pagrindžia Fransua Miterano kelionę į Lietuvą."
   pagrindžia:
     - c-25067
 
@@ -77,12 +55,6 @@ Pirmasis Prancūzijos prezidento Fransua Miterano vizitas į Lietuvą.
 - t-003
   global_id: t-193619
   teiginys: "Planinės ekonomikos metais Lietuvos visuomenėje vyravo nuostata, kad, paėmus į savo rankas gamybą, bus galima ją pasiskirstyti pagal savo poreikius Pirmasis Prancūzijos prezidento Fransua Miterano vizitas į Lietuvą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "511972-512304; hash=05437d5deefa9e08a370934010f2123fc2eeac1790c793ddd4a6ea5a652ab624; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176290
 ## Reikšmingi paminėjimai
@@ -98,8 +70,8 @@ Pirmasis Prancūzijos prezidento Fransua Miterano vizitas į Lietuvą.
     Pirmasis Prancūzijos prezidento Fransua Miterano
     vizitas į Lietuvą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -118,8 +90,8 @@ Pirmasis Prancūzijos prezidento Fransua Miterano vizitas į Lietuvą.
     su svečiu Vilniaus senamiestyje  prie Aušros vartų.
     Vilnius, 1992 m.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

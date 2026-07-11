@@ -64,19 +64,6 @@ Nenurodyta
 - t-001
   global_id: t-87264
   teiginys: "1579 m. Valerijonas Protasevičius Akademijai užrašė tris mūrinius namus, kad keli neturtingi studentai gautų maistą ir melstųsi už fundatorių."
-  temporaliniai_duomenys: "įvykio data: 1579 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs ir turi OCR bei struktūros likučių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "396733-399475; hash=2fb34d7520e93c01f350c7d32eda9878be86583a6bbbde7c3d7c56240a62d478; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Juraha: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Bursos ir neturtingų studentų išlaikymas, maitinimas ir fundatoriaus atminimo mišios: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Juraha: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bursos ir neturtingų studentų išlaikymas, maitinimas ir fundatoriaus atminimo mišios\" parinktas kaip owner_note_path. Targetas \"Juraha\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-83243
 ## Reikšmingi paminėjimai
@@ -145,8 +132,8 @@ Nenurodyta
     met po 260 auksinų gauna, o 40 auksinų eina tam mūriniam
     namui remontuoti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

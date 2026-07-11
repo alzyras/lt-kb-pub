@@ -33,14 +33,6 @@ Mažiausia rūpesčių Traidenis turėjo su kaimynais gudais.
 - t-001
   global_id: t-193303
   teiginys: "Mažiausia rūpesčių Traidenis turėjo su kaimynais gudais."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "137772-138090; hash=18492ce6b87c11f2adf2b9f170b4c98c26cf9648591d8bde91e8ad094ec713f3; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-176031
 - susijęs iš Daugava: Anapus Daugavos iki Gaujos gyvenusius lietuvius vadino latviais, o jų kraštą – Latvija.
@@ -57,8 +49,8 @@ Mažiausia rūpesčių Traidenis turėjo su kaimynais gudais.
     Tačiau su lenkais jam tekdavo nemažai kariauti; jis pasiekdavo
     ne tik Mozūrus, bet ir tolimąją Krokuvą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

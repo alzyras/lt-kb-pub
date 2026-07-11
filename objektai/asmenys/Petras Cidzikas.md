@@ -40,19 +40,6 @@ Terleckas – teisti po tris kartus, kalinti Nijolė Sadūnaitė, Petras Cidzika
 - t-001
   global_id: t-19190
   teiginys: "Petras Cidzikas buvo kalintas už kovą prieš sovietų santvarką."
-  temporaliniai_duomenys: "įvykio data: 1978 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata leidžia aiškiai susieti Petrą Cidziką su kalinimu ir antisovietine veikla."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "474222-474826; hash=65cb31925deacac4ed7785ae00c6bb6a6d37442a901ec05fab6c238064b28f98; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Antanas Terleckas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Petras Cidzikas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Antanas Terleckas: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Petras Cidzikas\" parinktas kaip owner_note_path. Targetas \"Antanas Terleckas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-21935
 - susijęs iš [[objektai/asmenys/Antanas Terleckas.md#claim-t-18826|Antanas Terleckas]]: Antanas Terleckas priklausė prieš sovietų santvarką kovojusiems asmenims ir buvo teistas tris kartus.
@@ -73,8 +60,8 @@ Terleckas – teisti po tris kartus, kalinti Nijolė Sadūnaitė, Petras Cidzika
     Ragaišis ir A. Terleckas – teisti po tris kartus, kalinti Nijolė Sadūnaitė,
     Petras Cidzikas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

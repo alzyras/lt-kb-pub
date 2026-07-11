@@ -53,20 +53,6 @@ Nenurodyta
 - t-001
   global_id: t-186849
   teiginys: "Klecko mūšyje Lietuvos kariuomenė per upę šaudė į totorius iš patrankų, šautuvų ir lankų."
-  teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Lietuvos kariuomenė kariavo prieš Totoriai (0.86)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "298964-299479; hash=b58cf54d58148ddda7a01f082ba309bd60043ece897f7774a76bd682f10a12e8; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
-  ryšio_patikimumas: "kariavo_pries -> Totoriai: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuvos kariuomenė: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Totoriai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Lietuvos kariuomenė mūšio kontekste tiesiogiai šaudė į totorius, todėl palaikoma karinė priešprieša."
-  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-170032
 - susijęs iš [[objektai/asmenys/J. Mikoliūnas.md#claim-t-40159|J. Mikoliūnas]]: J. Mikoliūnas ir K. Dragunevičius, surinkę apie 80 savanorių, šautuvų ugnimi sustabdė priešo puolimą prie Kėdainių-Šėtos vieškelio.
@@ -158,8 +144,8 @@ Nenurodyta
     iš patrankų, iš šautuvų, iš lankų, o tuo metu nedidelis
     būrys dvarionių leidosi per upę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -170,7 +156,8 @@ Nenurodyta
 - id: c-170032
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 169"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 169."
   citata_originali: |
     Dėl keblaus upės perėjimo negalėjo ne­
     delsiant su jais susigrumti ir daugiau kaip tris valan­

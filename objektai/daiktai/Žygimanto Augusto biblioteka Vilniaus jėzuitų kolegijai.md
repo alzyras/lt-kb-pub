@@ -52,17 +52,6 @@ Nenurodyta
 - t-001
   global_id: t-87130
   teiginys: "Mirdamas Knišine Žygimantas Augustas savo turtingą, tėvo pradėtą ir paties kauptą biblioteką atidavė Vilniaus jėzuitų kolegijai."
-  semantiniai_rysiai: "Žygimantas Augustas (arkivyskupas, XVI a.) mirė Knišinas (0.90); Žygimanto Augusto biblioteka Vilniaus jėzuitų kolegijai priklausė Žygimantas Augustas (arkivyskupas, XVI a.) (0.72)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "574916-575265; hash=8b853598aabc0f7e8cc0ff2a57a463cbdb324c116193c029858eddf098d54fd7; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "mire -> Knišinas: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Žygimantas Augustas (arkivyskupas, XVI a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Knišinas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Žygimanto Augusto mirties vietą Knišine."
   pagrindžia:
     - c-83109
 ## Reikšmingi paminėjimai
@@ -79,8 +68,8 @@ Nenurodyta
     turtingą savo biblioteką, tėvo pradėtą, jo paties irgi kauptą,
     atidavė Vilniaus jėzuitų kolegijai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -106,6 +95,3 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87130
-
-## Ryšiai
-- Žygimanto Augusto biblioteka Vilniaus jėzuitų kolegijai priklausė [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]]

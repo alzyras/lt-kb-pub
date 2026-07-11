@@ -55,17 +55,6 @@ Nenurodyta
 - t-001
   global_id: t-59692
   teiginys: "Septyni Teutonų ordino broliai su keliais ginklanešiais Kulmo žemėje įsirengė kuorą aukštai ąžuole."
-  semantiniai_rysiai: "Teutonai pastatė Kuoras aukštai ąžuole (0.88)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "205338-205852; hash=83cbc8ceab2bd2e29d52b1b1688218edefacee2146bc221ad85ff1fb29d7ef79; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "pastate -> Kuoras aukštai ąžuole: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Teutonai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Kuoras aukštai ąžuole: llm_allowed_candidate, thing"
-  ryšio_paaiskinimas: "Teutonų ordino broliai tiesiogiai nurodomi įsirengę kuorą aukštai ąžuole."
   pagrindžia:
     - c-60324
 ## Reikšmingi paminėjimai
@@ -87,8 +76,8 @@ Nenurodyta
 
                               4.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -99,7 +88,8 @@ Nenurodyta
 - id: c-60324
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 63"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 63."
   citata_originali: |
     Pats matyk
     didelius dievo ženklus ir galingus jo stebuklus. Septyni Teutonų ordino broliai su keliais
@@ -120,6 +110,3 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-59692
-
-## Ryšiai
-- Buvo pastatyta: [[objektai/grupes/Teutonai]]

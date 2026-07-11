@@ -46,17 +46,6 @@ Nenurodyta
 - t-003
   global_id: t-09579
   teiginys: "Pirmaisiais Lietuvos kariuomenės mėnesiais buvo įvesti trikampis tautinių spalvų rankovės antsiuvas ir geltonas lankelis ant kepurės."
-  semantiniai_rysiai: "Ginklai priklausė Lietuvos kariuomenė (0.70)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "700073-700716; hash=deb6455ea8216c79bcb82a4f6e6a0bd84274d3a68b95f6306a1a09786f2b253a; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
-  ryšio_patikimumas: "priklause -> Lietuvos kariuomenė: 0.70"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Ginklai: llm_allowed_candidate, thing"
-  ryšio_targeto_parinkimas: "Lietuvos kariuomenė: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Lietuvos kariuomenės daliniai įsigydavo ginklų."
   pagrindžia:
     - c-12333
 ## Reikšmingi paminėjimai
@@ -73,8 +62,8 @@ Nenurodyta
     kariuomenę, buvo įvesti skiriamieji ženklai - trikampis tautinių spalvų rankovės antsiu-
     vas ir geltonas lankelis ant kepurės.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

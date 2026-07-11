@@ -33,16 +33,6 @@ Kryžiuočiai, pamanę, jog mūšis laimėtas, užtraukė pergalės giesmę „K
 - t-001
   global_id: t-41482
   teiginys: "Kryžiuočiai, pamanę, jog mūšis laimėtas, užtraukė pergalės giesmę „Kristus prisikėlė“."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "260318-260636; hash=435b387940962947d3e26796cb64caa68fd52fe04442b7a03fbb4fc1158bc2a7; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Krokuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "„Kristus prisikėlė“: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Krokuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"„Kristus prisikėlė“\" parinktas kaip owner_note_path. Targetas \"Krokuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-44974
 - susijęs iš [[objektai/daiktai/Vėliavos.md#claim-t-10168|Vėliavos]]: Žalgirio mūšyje neatlaikiusi spaudimo krito didžioji Krokuvos vėliava.
@@ -61,8 +51,8 @@ Kryžiuočiai, pamanę, jog mūšis laimėtas, užtraukė pergalės giesmę „K
     tas lenkų rezervas, kuris pradėjo apeiti
     kryžiuočius kairėje iš jų dešiniojo flango.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

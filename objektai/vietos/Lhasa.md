@@ -34,16 +34,6 @@ media_all_json: |-
 - t-001
   global_id: t-36359
   teiginys: "Lhasa aprašyta kaip šventasis Tibeto miestas, į kurį vietos tautelės neįsileisdavo europiečių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "731540-731833; hash=36178a99d3b70b63f191c22fb89da214ead176a1fddb2aa75cde0ec489b9d958; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Tibetas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lhasa: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Tibetas: mention_match, place, gap=30"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lhasa\" parinktas kaip owner_note_path. Targetas \"Tibetas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-38543
 ## Reikšmingi paminėjimai
@@ -59,8 +49,8 @@ media_all_json: |-
     tą — Lhasą.
     6.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

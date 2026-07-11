@@ -30,22 +30,6 @@ Narbutas rašo, kad senovės geografai vieną iš trijų gelonų kolonijų nurod
 - t-001
   global_id: t-192884
   teiginys: "Narbutas rašo, kad senovės geografai vieną iš trijų gelonų kolonijų nurodė prie Meotidės, kolchų kaimynystėje."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Gelonai gyveno Dnepras (0.86); Gelonai gyveno Meotidė (0.82); Gelonai keliavo į Meotidė (0.82)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "140135-140695; hash=2c026aea5267413d64042b85ab57144316de7446e87fed71a18978d2df6946fc; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Dnepras: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gelonai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Dnepras: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad gelonai gyveno dešiniojoje Dnepro pakrantėje."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175654
 - susijęs iš [[objektai/asmenys/Skilakas.md#claim-t-191356|Skilakas]]: Narbutas rašė, kad Skilakas spėjo apie prie Kaspijos gyvenusius gelonus, kurių pats šiame skyriuje toliau nenagrinėjo.
@@ -69,8 +53,8 @@ Narbutas rašo, kad senovės geografai vieną iš trijų gelonų kolonijų nurod
     prie Meotidės arba į Dono žemupio apylinkes, o vėliau —
     pas budinus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -81,7 +65,8 @@ Narbutas rašo, kad senovės geografai vieną iš trijų gelonų kolonijų nurod
 - id: c-175654
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 78"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 78."
   citata_originali: |
     Jų kraštas derlingas, turtingas tankių miškų, o
     didžiausiame miške yra pelkėtas, nendrėmis apaugęs
@@ -100,7 +85,3 @@ Narbutas rašo, kad senovės geografai vieną iš trijų gelonų kolonijų nurod
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192884
-
-## Ryšiai
-- Buvo kelionės vieta: [[objektai/grupes/Gelonai]]
-- Gyvenamoji vieta: [[objektai/grupes/Gelonai]]

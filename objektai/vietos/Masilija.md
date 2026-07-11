@@ -30,21 +30,6 @@ Narbutas rašo, kad mūsų kraštų prekės per Galiją arkliais per 50 dienų b
 - t-001
   global_id: t-192883
   teiginys: "Narbutas rašo, kad mūsų kraštų prekės per Galiją arkliais per 50 dienų būdavo gabenamos į Masiliją."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "300982-301314; hash=ea86fb47714ae793b84e7a754cb9c8cfaf79c88abe7ee912f96d4520e852dfc2; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Galija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Masilija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Galija: mention_match, place, gap=48"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Masilija\" parinktas kaip owner_note_path. Targetas \"Galija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175653
 - susijęs iš [[objektai/asmenys/Pitėjas Masilietis.md#claim-t-191131|Pitėjas Masilietis]]: Pitėjas Masilietis, Masilijos astronomas ir jūrų keliautojas, apie 340 m. pr. Kr. išplaukė iš Masilijos uosto į Atlanto vandenyną.
@@ -73,8 +58,8 @@ Narbutas rašo, kad mūsų kraštų prekės per Galiją arkliais per 50 dienų b
     kaip įgalima numanyti, buvo patogesnis už jūros kelią,
     kuris ėjo pro šv.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -85,7 +70,8 @@ Narbutas rašo, kad mūsų kraštų prekės per Galiją arkliais per 50 dienų b
 - id: c-175653
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 166"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 166."
   citata_originali: |
     Siaurės sagose daug žinių apie
     jurų keliautojus, nuo senų amžių garsėjusius savo drąsiais
@@ -100,6 +86,3 @@ Narbutas rašo, kad mūsų kraštų prekės per Galiją arkliais per 50 dienų b
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192883
-
-## Ryšiai
-- Prekiavo su: [[objektai/vietos/Galija]], [[objektai/vietos/Tartesas]]

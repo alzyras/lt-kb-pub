@@ -35,9 +35,6 @@ media_all_json: |-
 - t-001
   global_id: t-70234
   teiginys: "Rūdavos mūšyje žuvusiam maršalkai Schindekopui paminklinis kryžius buvo pastatytas tuoj po mūšio ir atnaujintas 1835 m."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "183698-184123; hash=26afbbaf7395534b3a4aeadb9e93565ad1e772b4e94b9e9c099d35b1f5962ff5; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-69298
 - susijęs iš [[objektai/asmenys/Vaitiekus Narutavičius.md#claim-t-87875|Vaitiekus Narutavičius]]: Vaitiekus Narutavičius 1507 m. Melnike dalyvavo kaip rūmų maršalka ir Josvainių seniūnas.
@@ -96,8 +93,8 @@ media_all_json: |-
     padarė su ja sutartis, tačiau kryžiuočiai vis dėlto nesitraukė; ne-
     pajėgdami paimti pilių, jie naikino miestus ir apylinkes.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -37,20 +37,6 @@ Polockiečiai su kariuomene patraukė iki Gorodeco miesto ir užėmė Mingailos 
 - t-001
   global_id: t-185443
   teiginys: "Polockiečiai su kariuomene patraukė iki Gorodeco miesto ir užėmė Mingailos valdinių žemes."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Polockiečiai surengė žygį į Gorodecas (0.88)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "134874-135431; hash=f22851e17f9874b164d275e7885fb637507bf815ffc30a5266ef130c66a2356e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "surenge_zygi_i -> Gorodecas: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Polockiečiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Gorodecas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad polockiečiai su kariuomene patraukė iki Gorodeco miesto."
   pagrindžia:
     - c-168804
 
@@ -58,21 +44,6 @@ Polockiečiai su kariuomene patraukė iki Gorodeco miesto ir užėmė Mingailos 
 - t-003
   global_id: t-185445
   teiginys: "Glėbas grąžino polockiečiams visišką laisvę, o valstybės reikalus vėl ėmė tvarkyti senatas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "361981-362619; hash=5d73ace79a00eea919dcbea90725c61ea1efbf8ce97d48f82c477ff7a6516a31; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Polockas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Polockiečiai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Polockas: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Polockiečiai\" parinktas kaip owner_note_path. Targetas \"Polockas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-168806
 
@@ -80,21 +51,6 @@ Polockiečiai su kariuomene patraukė iki Gorodeco miesto ir užėmė Mingailos 
 - t-003
   global_id: t-188291
   teiginys: "Narbutas pasakoja, kad Treniota, bijodamas polockiečių ir Tautvilos sūnaus keršto, įkalino Polocko bajorus ir per Prokopą reikalavo nužudyti Joną."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "361981-362619; hash=5d73ace79a00eea919dcbea90725c61ea1efbf8ce97d48f82c477ff7a6516a31; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Polockas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Polockiečiai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Polockas: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Polockiečiai\" parinktas kaip owner_note_path. Targetas \"Polockas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171184
 
@@ -102,14 +58,6 @@ Polockiečiai su kariuomene patraukė iki Gorodeco miesto ir užėmė Mingailos 
 - t-004
   global_id: t-193330
   teiginys: "Jis panaikino visus laisvės ribojimus, kuriais polockiečius buvo suvaržęs jo senelis."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "141617-141943; hash=b13c37b8bde755c67a75f19b02da5a54c308cffe4738a59e4bf2d4c6d232fa7d; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-176058
 - susijęs iš [[objektai/asmenys/Mingaila.md#claim-t-184790|Mingaila]]: Mingaila prie Gorodeco drąsiai užpuolė polockiečių kariuomenę ir privertė ją sprukti iš kovos lauko bei stovyklos.
@@ -157,8 +105,8 @@ Polockiečiai su kariuomene patraukė iki Gorodeco miesto ir užėmė Mingailos 
     o visai nemokančią kariauti, vienu smūgiu privertė
     sprukti ir iš kovos lauko, ir iš stovyklos.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -183,8 +131,8 @@ Polockiečiai su kariuomene patraukė iki Gorodeco miesto ir užėmė Mingailos 
     senatas, šitaip buvo atsikra­
     tyta lietuvių kunigaikščių valdžios.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -206,8 +154,8 @@ Polockiečiai su kariuomene patraukė iki Gorodeco miesto ir užėmė Mingailos 
     jį Joną, Tautvilos sūnų, nes kitaip įsakysiąs iškapoti visus su­
     imtus bajorus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -225,8 +173,8 @@ Polockiečiai su kariuomene patraukė iki Gorodeco miesto ir užėmė Mingailos 
     se prie altoriaus: visus turtus ir jėgas skyrė vienam
     vienatiniam dalykui — statė dievo namus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -291,7 +239,8 @@ Polockiečiai su kariuomene patraukė iki Gorodeco miesto ir užėmė Mingailos 
 - id: c-171184
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 213"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 213."
   citata_originali: |
     Tragiškai žuvus Lietuvos ir Rusios kunigaikščiui Mindaugui,
     jo žudikai kunigaikščiai -  Užgirio (Transilvaticus) Dauman­
@@ -314,7 +263,8 @@ Polockiečiai su kariuomene patraukė iki Gorodeco miesto ir užėmė Mingailos 
 - id: c-176058
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 85"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 85."
   citata_originali: |
     Užpultas Smo­
     lensko ir Pskovo rusų, ir vienus, ir kitus sėkmingai
@@ -332,7 +282,3 @@ Polockiečiai su kariuomene patraukė iki Gorodeco miesto ir užėmė Mingailos 
 
 ## Ryšiai
 - Puolė Polockiečiai: [[objektai/asmenys/Mingaila]]
-- Kariavo prieš: [[objektai/asmenys/Mingaila]]
-- Polockiečiai keliavo į [[objektai/vietos/Gorodecas]]
-- Polockiečiai surengė žygį į [[objektai/vietos/Gorodecas]]
-- Polockiečiai rėmė [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]

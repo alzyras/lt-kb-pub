@@ -40,16 +40,6 @@ Dusburgietis teigia, kad jis garsėjo kaip itin švelnus žmogus, visiems rodės
 - t-001
   global_id: t-59109
   teiginys: "Petras Dusburgietis Konradą Žaką apibūdino kaip itin švelnų ir malonų žmogų, apie kurį buvo galima sakyti, kad jį mylėjo ir Dievas, ir žmonės."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "606846-607319; hash=240e5278e0424c5f0d9659b6b2b0b1e65d0e91232878ba46326931de0366c6e9; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kulmenzė: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "jį mylėjo ir dievas, ir žmonės: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Kulmenzė: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"jį mylėjo ir dievas, ir žmonės\" parinktas kaip owner_note_path. Targetas \"Kulmenzė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-59741
 
@@ -57,16 +47,6 @@ Dusburgietis teigia, kad jis garsėjo kaip itin švelnus žmogus, visiems rodės
 - t-001
   global_id: t-59109
   teiginys: "Petras Dusburgietis Konradą Žaką apibūdino kaip itin švelnų ir malonų žmogų, apie kurį buvo galima sakyti, kad jį mylėjo ir Dievas, ir žmonės."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "606846-607319; hash=240e5278e0424c5f0d9659b6b2b0b1e65d0e91232878ba46326931de0366c6e9; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kulmenzė: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "jį mylėjo ir dievas, ir žmonės: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Kulmenzė: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"jį mylėjo ir dievas, ir žmonės\" parinktas kaip owner_note_path. Targetas \"Kulmenzė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-59741
 
@@ -74,12 +54,6 @@ Dusburgietis teigia, kad jis garsėjo kaip itin švelnus žmogus, visiems rodės
 - t-003
   global_id: t-194469
   teiginys: "Jis garsėjo kaip itin švelnus žmogus, visiems rodėsi toks malonus, jog apie jį tikrai buvo galima sakyti, kad jį mylėjo ir dievas, ir žmonės."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "606846-607319; hash=240e5278e0424c5f0d9659b6b2b0b1e65d0e91232878ba46326931de0366c6e9; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-59741
 ## Reikšmingi paminėjimai
@@ -95,8 +69,8 @@ Dusburgietis teigia, kad jis garsėjo kaip itin švelnus žmogus, visiems rodės
     ilgainiui jis atsisakė pareigų, apsigyveno Goliubo pilyje, kurią pats buvo pasistatęs554, čia
     pasimirė, o jį palaidojo Kulmenzės katedros bažnyčioje.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -109,7 +83,8 @@ Dusburgietis teigia, kad jis garsėjo kaip itin švelnus žmogus, visiems rodės
 - id: c-59741
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 194"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 194."
   citata_originali: |
     Apie brolį Konradą, Prūsijos magistrą 1302—1306 metais
 

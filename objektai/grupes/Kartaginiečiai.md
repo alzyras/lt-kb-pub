@@ -30,22 +30,6 @@ Kartaginiečiai aktyviai prekiavo su Vakarais, jų laivai plaukdavo už Heraklio
 - t-001
   global_id: t-192952
   teiginys: "Kartaginiečiai aktyviai prekiavo su Vakarais, jų laivai plaukdavo už Heraklio stulpų iki Gadiros ir Tarteso uosto."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Kartaginiečiai prekiavo su Tartesas (0.82)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "276033-276680; hash=cfe8f7f8109932a6bf83628e1b8fe7f4e9f860c5c1dd1df2ebb8751d10e6ffed; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "prekiavo_su -> Tartesas: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kartaginiečiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Tartesas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Kartaginiečių laivų prekybos kelias tiesiogiai siejamas su Tarteso uostu."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175722
 - susijęs iš [[objektai/grupes/Masiliečiai.md#claim-t-192956|Masiliečiai]]: Masiliečių laivai, Masilijai pradėjus rungtyniauti su Kartagina, plaukdavo iki Tarteso tų pačių prekių kaip kartaginiečiai.
@@ -73,8 +57,8 @@ Kartaginiečiai aktyviai prekiavo su Vakarais, jų laivai plaukdavo už Heraklio
     žiočių; čia ¡būdavo įsigyjama brangiųjų metalų, galbūt
     alavo ir gintaro.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -85,7 +69,8 @@ Kartaginiečiai aktyviai prekiavo su Vakarais, jų laivai plaukdavo už Heraklio
 - id: c-175722
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 153"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 153."
   citata_originali: |
     158
     Gintaro geidė labiau apsišvietusios senovės tautos, to­
@@ -106,7 +91,3 @@ Kartaginiečiai aktyviai prekiavo su Vakarais, jų laivai plaukdavo už Heraklio
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192952
-
-## Ryšiai
-- Prekiavo su: [[objektai/grupes/Gotai]]
-- Kartaginiečiai prekiavo su [[objektai/vietos/Tartesas]]

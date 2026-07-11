@@ -35,16 +35,6 @@ media_all_json: |-
 - t-001
   global_id: t-86632
   teiginys: "Prie Rūdninkų, Mendzižečės link, stūksojęs šilas buvo aptvertas statinių tvora ir vadintas žvėrynu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "514139-514455; hash=350edfeb5641aa91cf1d0c4e5c436d293875337ddd2b7c92d9ed06a8b63f2d92; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Rūdninkai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "žvėrynas Karaliaus daržas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Rūdninkai: mention_match, place, gap=86"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"žvėrynas Karaliaus daržas\" parinktas kaip owner_note_path. Targetas \"Rūdninkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-82611
 ## Reikšmingi paminėjimai
@@ -65,8 +55,8 @@ media_all_json: |-
     upės skiriamas, kelių mylių proskynoje tvarkingai statinių
     tvora aptvertas, vadinamas žvėrynu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -55,17 +55,6 @@ Nenurodyta
 - t-001
   global_id: t-10213
   teiginys: "Po Giedraičių kautynių atkirsta lenkų kavalerijos brigada lapkričio 24 d. ties Labanoru perėjo fronto liniją."
-  semantiniai_rysiai: "brigada keliavo į Labanoras (0.74)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "868528-868967; hash=57de510eb5e146d2cafe86d9debb2d20f4e87b4d41ef2ab67819adc1bdff7630; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Labanoras: 0.74"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "brigada: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Labanoras: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys nurodo brigados judėjimą ties Labanoru."
   pagrindžia:
     - c-11845
 - susijęs iš [[objektai/ivykiai/Giedraičių kautynės.md#claim-t-41271|Giedraičių kautynės]]: Prie Giedraičių lietuvių nuostoliai siekė 15 žuvusių karių ir kelis karininkus, apie 60 sužeistųjų ir apie 70 dingusių be žinios.
@@ -93,8 +82,8 @@ Nenurodyta
     kai, apie 60 buvo sužeista,
     apie 70 dingo be žinios.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -31,20 +31,6 @@ Jurgis Nosuta užėmė Palenkę ir patraukė į Mykolo pusę daug bajorų bei di
 - t-001
   global_id: t-186224
   teiginys: "Jurgis Nosuta užėmė Palenkę ir patraukė į Mykolo pusę daug bajorų bei didikų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Jurgis Nosuta užėmė Palenkė (0.96)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "824422-824869; hash=42ff24bb4d4985aace0e3e9095afce9955d92ebf1da2c270f0afca14ed40b41b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Palenkė: 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jurgis Nosuta: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Palenkė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys ir citata tiesiogiai sako, kad Jurgis Nosuta užėmė Palenkę."
   pagrindžia:
     - c-169585
 
@@ -52,12 +38,6 @@ Jurgis Nosuta užėmė Palenkę ir patraukė į Mykolo pusę daug bajorų bei di
 - t-002
   global_id: t-193932
   teiginys: "Būnant Kazimierui Vilniuje, Drohičino ir Melniko seniūnu buvo Jurgis Nosuta 8 , paskirtas dar Žygiman to."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "219609-220220; hash=5c8ef74770f3cce06a62fc841f9b6788c8c5621ef46c2bd31e7a2370ac2ce884; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176557
 - susijęs iš Melnikas: Lietuvos metraštyje Kazimierui būnant Vilniuje Jurgis Nosuta minimas kaip Drohičino ir Melniko seniūnas, dar Žygimanto paskirtas į šias pareigas.
@@ -86,8 +66,8 @@ Jurgis Nosuta užėmė Palenkę ir patraukė į Mykolo pusę daug bajorų bei di
     Mykolas, pertvarkęs jam likusią kariuomenę ir ją pa­
     pildęs, vėl įgaus ryžto griebtis ginklo?
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -110,8 +90,8 @@ Jurgis Nosuta užėmė Palenkę ir patraukė į Mykolo pusę daug bajorų bei di
     daugelį lenkų miestų atsiskirti nuo Lietuvos Didžiosios
     Kunigaikštystės.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -122,7 +102,8 @@ Jurgis Nosuta užėmė Palenkę ir patraukė į Mykolo pusę daug bajorų bei di
 - id: c-169585
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 469"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 469."
   citata_originali: |
     Argi jie pasitiki ištiki­
     mybe Baltarusijos, kuri visada ligi šiol savo jėgomis rė­
@@ -165,6 +146,5 @@ Jurgis Nosuta užėmė Palenkę ir patraukė į Mykolo pusę daug bajorų bei di
     - t-193932
 
 ## Ryšiai
-- Jurgis Nosuta valdė [[objektai/vietos/Drohičinas]], [[objektai/vietos/Melnikas]]
 - Jurgis Nosuta keliavo į [[objektai/vietos/Mazovija]]
 - Jurgis Nosuta užėmė [[objektai/vietos/Palenkė]]

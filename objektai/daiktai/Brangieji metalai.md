@@ -62,16 +62,6 @@ Nenurodyta
 - t-004
   global_id: t-64908
   teiginys: "XIII a. Lietuvos kunigaikščiai buvo sukaupę nemažus brangiųjų metalų kiekius."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "809154-809367; hash=4e945ac6e93a4ee0f7ec3e8f0d31f029381adfd3483fd62084e01d96cc920359; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Brangieji metalai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=54"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Brangieji metalai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-30988
 
@@ -79,9 +69,6 @@ Nenurodyta
 - t-003
   global_id: t-64909
   teiginys: "Vytautas, padedamas pirklių, sukaupė brangiųjų metalų - aukso ir sidabro - bei kitų brangenybių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "641168-641494; hash=4952c9d7185f6a82c1edd9f9b8426f17b387b95995ee7d790263ba53b67c5081; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-14298
 
@@ -89,14 +76,6 @@ Nenurodyta
 - t-005
   global_id: t-194614
   teiginys: "Mat jiems patikėdavo saugoti brangiuosius metalus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "507337-507503; hash=6105f4752a5172b99eb05624062f833b4243bce1818ae4f94c0f3396851d0c6a; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-177013
 ## Reikšmingi paminėjimai
@@ -112,8 +91,8 @@ Nenurodyta
     visą savo gyvenimą nevartojo vyno ir jokio kito gėrimo, o tik
     gryną vandenį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -128,8 +107,8 @@ Nenurodyta
     sukaupę brangiųjų metalų nemažus kiekius^4. Karių apginklavi­
     mas buvo turtingas^5.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -143,8 +122,8 @@ Nenurodyta
     vusi laikoma viešojo iždo ir privačių asmenų nuosavybė. Mat
     jiems patikėdavo saugoti brangiuosius metalus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -192,7 +171,8 @@ Nenurodyta
 - id: c-177013
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 290"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 290."
   citata_originali: |
     Pas tuos žynius (kaip aiškiai liudija 1. F. R. kronika) bu­
     vusi laikoma viešojo iždo ir privačių asmenų nuosavybė. Mat

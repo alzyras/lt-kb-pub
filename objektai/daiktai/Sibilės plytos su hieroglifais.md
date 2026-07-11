@@ -54,21 +54,6 @@ Nenurodyta
 - t-001
   global_id: t-189647
   teiginys: "Narbutas rašė, kad Krivių Krivaičio rūmo bokšte stebėta saulė, o metų pradžioje įmūrijama ženklo plytelė rodydavo metus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "471437-471858; hash=be8c210685350a7a78a07ff7349d63233730befbd04636ea19dfa79b8de135e1; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aukuras: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Sibilės plytos su hieroglifais: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Aukuras: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sibilės plytos su hieroglifais\" parinktas kaip owner_note_path. Targetas \"Aukuras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172530
 
@@ -76,21 +61,6 @@ Nenurodyta
 - t-002
   global_id: t-189648
   teiginys: "Narbutas perpasakojo legendą, kad Nemuno orakulas liepė pagaminti 122 plytas su hieroglifais, iš kurių turėjo būti pranašaujami metai."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "471859-472534; hash=9738f0f51d3ab612ba63c55180c96a149b664b56b502210e9c52b65b9a55df00; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gerimantas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Sibilės plytos su hieroglifais: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Gerimantas: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sibilės plytos su hieroglifais\" parinktas kaip owner_note_path. Targetas \"Gerimantas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172531
 
@@ -98,14 +68,6 @@ Nenurodyta
 - t-003
   global_id: t-189649
   teiginys: "Narbutas rašė, kad dauguma šių plytų dar buvo matoma pietinėje Katedros varpinės pusėje, perstatytoje po 1399 metų gaisro."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "472535-472980; hash=ac4a8438d1889fe817d43d2c504f49a355edf56d7ab1bdec6097f0c08881d448; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172532
 ## Reikšmingi paminėjimai
@@ -126,8 +88,8 @@ Nenurodyta
     nesio dieną, o plytelė su tam tikru ženklu, įmūrijama bokšto
     sienoje metų pradžioje, rodydavo metus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -150,8 +112,8 @@ Nenurodyta
     dvigubo kryžiaus ženklu: tai ji buvo orakulo dovana kuni­
     gaikščiui. Tą ženklą panaudojo valstybės herbui .
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -171,8 +133,8 @@ Nenurodyta
     buvo 121-oji plyta; tą dieną pakilo pirmoji ranka šventyklai
     sugriauti“ .
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -206,7 +168,8 @@ Nenurodyta
 - id: c-172531
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 271"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 271."
   citata_originali: |
     Senas pasakojimas,
     kuris yra Mitrofano Pinskiečio rusiškame metraštyje, atneša
@@ -230,7 +193,8 @@ Nenurodyta
 - id: c-172532
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 271"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 271."
   citata_originali: |
     Kiti pasa­
     kojo, kad, priėjus šį ženklą, žlugs stabmeldystė, ir krikščio­

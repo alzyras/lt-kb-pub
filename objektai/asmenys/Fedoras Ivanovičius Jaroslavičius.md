@@ -39,12 +39,6 @@ Fedoras Ivanovičius Jaroslavičius — Maskvos emigranto, Serpuchovo kunigaikš
 - t-001
   global_id: t-194132
   teiginys: "Fedoras Ivanovičius Jaroslavičius — Maskvos emigranto, Serpuchovo kunigaikščio Vasilijaus Jaroslavičiaus, vaikaitis, susigi miniavęs su LDK didikais Goštautais ir vasaliniais buv."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "644447-645015; hash=74a614b1cae7a20c7b3290de17f6ee22c93591ca54bb0d53b98a9b6a7f8cb7b7; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176745
 ## Reikšmingi paminėjimai
@@ -63,8 +57,8 @@ Fedoras Ivanovičius Jaroslavičius — Maskvos emigranto, Serpuchovo kunigaikš
     tautaitės dukterį Oleną Aleksandrą. M irė tarp 1520 ir 1522 m.,
     pasižymėjęs labdarybe ir cerkvių rėmimu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

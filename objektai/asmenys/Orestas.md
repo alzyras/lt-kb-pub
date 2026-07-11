@@ -31,22 +31,6 @@ Odoakras, užėmęs Ticiną, įkalino imperatoriaus Augustulo tėvą Orestą. Or
 - t-001
   global_id: t-186243
   teiginys: "Odoakras, užėmęs Ticiną, įkalino imperatoriaus Augustulo tėvą Orestą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 475 m"
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, pilnas ir paremtas citatoje nurodytu Oresto įkalinimu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "86032-86812; hash=b0ced727e323e26a4f33e85cd0fbf003903319e91cf727159b038833bde33aa0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Herulai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Orestas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Herulai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Orestas\" parinktas kaip owner_note_path. Targetas \"Herulai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-169604
 
@@ -54,21 +38,6 @@ Odoakras, užėmęs Ticiną, įkalino imperatoriaus Augustulo tėvą Orestą. Or
 - t-002
   global_id: t-190947
   teiginys: "Orestas užsidarė Pavijoje, kuri Narbuto pasakojime buvo laikoma Italijos sostine, o Odoakro kariuomenei miestą užėmus žuvo."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "562487-562787; hash=29ad958eef942da76d7e2765f19526a734f2f75b7d41c0bccdd3f86734a8c5cb; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Italija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Orestas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Italija: mention_match, place, gap=64"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Orestas\" parinktas kaip owner_note_path. Targetas \"Italija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173829
 - susijęs iš Pavija: Pavijoje, kuri tuo metu laikyta Italijos sostine, Orestas užsidarė vengdamas atviro mūšio su Odoakro kariuomene.
@@ -122,8 +91,8 @@ Odoakras, užėmęs Ticiną, įkalino imperatoriaus Augustulo tėvą Orestą. Or
     mas iš svetimšalių Romoje, tačiau nesisavino nei val­
     dovo vardo, nei purpurinės mantijos.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -141,8 +110,8 @@ Odoakras, užėmęs Ticiną, įkalino imperatoriaus Augustulo tėvą Orestą. Or
     miestas netrukus buvo užimtas, apiplėštas ir sunaikin­
     tas; Orestas žuvo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -189,7 +158,8 @@ Odoakras, užėmęs Ticiną, įkalino imperatoriaus Augustulo tėvą Orestą. Or
 - id: c-173829
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 314"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 314."
   citata_originali: |
     Sis
     naujasis vadas tuojau pat išskubėjo iš Panonijos, vesda­
@@ -204,6 +174,3 @@ Odoakras, užėmęs Ticiną, įkalino imperatoriaus Augustulo tėvą Orestą. Or
   patikimumo_saltinis: ai
   pagrindzia:
     - t-190947
-
-## Ryšiai
-- Kariavo prieš: [[objektai/asmenys/Odoakras]]

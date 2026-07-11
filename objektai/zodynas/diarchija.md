@@ -41,16 +41,6 @@ Algirdo ir Kęstučio dviejų kunigaikščių valdymas istorikų vadinamas duali
 - t-012
   global_id: t-131654
   teiginys: "Algirdo ir Kęstučio dviejų kunigaikščių valdymas istorikų vadinamas dualizmu arba diarchija."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "513797-514164; hash=e73dbc36096cb8d23c2fe1cb7cb0caf527b2ba798d354bd9bdb5a6b5a9616942; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "diarchija: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"diarchija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-120214
 
@@ -58,16 +48,6 @@ Algirdo ir Kęstučio dviejų kunigaikščių valdymas istorikų vadinamas duali
 - t-011
   global_id: t-131655
   teiginys: "Diarchija apibūdinama kaip dviejų asmenų valdymo sistema, susidariusi Algirdo ir Kęstučio laikais."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "513181-513915; hash=c0821bd394e7eabb163f06da92e317f16cf3367a3b4b66297383ad432b930f0e; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "diarchija: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person, gap=70"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"diarchija\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-14686
 
@@ -75,17 +55,6 @@ Algirdo ir Kęstučio dviejų kunigaikščių valdymas istorikų vadinamas duali
 - t-010
   global_id: t-131656
   teiginys: "Valdant Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turinti visus jai būdingus požymius, kaip antai: diarchija, ankstyvasis feodalizmas – ankstyvieji dvarai, Lietuvoje vadinti „kiemais“."
-  semantiniai_rysiai: "Gediminas valdė Lietuva (0.84)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "513181-513915; hash=c0821bd394e7eabb163f06da92e317f16cf3367a3b4b66297383ad432b930f0e; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  ryšio_patikimumas: "valde -> Lietuva: 0.84"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys nurodo Gedimino valdymą Lietuvoje."
   pagrindžia:
     - c-14686
 
@@ -93,18 +62,6 @@ Algirdo ir Kęstučio dviejų kunigaikščių valdymas istorikų vadinamas duali
 - t-006
   global_id: t-131657
   teiginys: "Lietuvos žemių dviejų kunigaikščių valdymas istorikų vadintas dualizmu arba diarchija ir nežuvo po Algirdo mirties 1377 m."
-  temporaliniai_duomenys: "įvykio data: 1377 m.; įvykio data: 1379 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "513916-514331; hash=06e5c9a30a0d867dfe39e9d9f85ebdbd77a7dc3a609502bf12be77af509f5fca; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "diarchija: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=76"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"diarchija\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-120212
 
@@ -112,20 +69,6 @@ Algirdo ir Kęstučio dviejų kunigaikščių valdymas istorikų vadinamas duali
 - t-013
   global_id: t-183413
   teiginys: "Valdant Ldk Gediminui diarchija buvo vienas ankstyvosios, arba karinės, monarchijos požymių."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Gediminas valdė Lietuva (0.84)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "52708-53149; hash=4530a7677cc619ac28cf0119b0ee57c30080bcadf88c8a5901f10192a5434d62; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde -> Lietuva: 0.84"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekste tiesiogiai minima, kad aptariamas laikotarpis yra Gedimino valdymas."
   pagrindžia:
     - c-166807
 - susijęs iš [[objektai/zodynas/ankstyvoji monarchija karinė monarchija.md#claim-t-22057|ankstyvoji monarchija karinė monarchija]]: Valdant Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turėjusi tokių požymių kaip diarchija ir ankstyvasis feodalizmas.
@@ -157,8 +100,8 @@ Algirdo ir Kęstučio dviejų kunigaikščių valdymas istorikų vadinamas duali
     kuri buvo susidariusi tarp Lietuvos ir Lenkijos, kad ir Vytau­
     to laikais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -176,8 +119,8 @@ Algirdo ir Kęstučio dviejų kunigaikščių valdymas istorikų vadinamas duali
     džiant iš 1379 m. sutarties su Ordinu, Kęstučio atžvilgiu buvo
     tiktai supremus dux (aukščiausias kunigaikštis).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -196,8 +139,8 @@ Algirdo ir Kęstučio dviejų kunigaikščių valdymas istorikų vadinamas duali
     torikų dualizmu, kitų — diarchija nežuvo ir kai mirė Algirdas
     (1377).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -215,8 +158,8 @@ Algirdo ir Kęstučio dviejų kunigaikščių valdymas istorikų vadinamas duali
     turėjo sostinę, nuo Gedimino prasidėjo sosto paveldėjimo tradicija, mūro
     civilizacijos ištakos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

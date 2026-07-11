@@ -8,7 +8,14 @@ function isObjectDetailPage(slug: string | undefined): boolean {
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
-  header: [Component.LIHeader(), Component.OptionsPanel()],
+  header: [
+    Component.LIHeader(),
+    Component.OptionsPanel(),
+    Component.Search(),
+    Component.Darkmode(),
+    Component.ReaderMode(),
+    Component.AdvancedEvidenceToggle(),
+  ],
   afterBody: [],
   footer: Component.ConditionalRender({
     component: Component.Footer({
@@ -52,19 +59,6 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   left: [
     Component.PageTitle(),
-    Component.MobileOnly(Component.Spacer()),
-    Component.Flex({
-      wrap: "wrap",
-      components: [
-        {
-          Component: Component.Search(),
-          grow: true,
-        },
-        { Component: Component.Darkmode() },
-        { Component: Component.ReaderMode() },
-        { Component: Component.AdvancedEvidenceToggle() },
-      ],
-    }),
     Component.Explorer(),
   ],
   right: [

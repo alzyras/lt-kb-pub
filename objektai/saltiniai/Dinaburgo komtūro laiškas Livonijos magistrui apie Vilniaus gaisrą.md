@@ -41,16 +41,6 @@ media_all_json: |-
 - t-002
   global_id: t-88181
   teiginys: "Dinaburgo komtūro laiške pranešta, kad Vilniaus miestas, katedra ir karaliaus iždas visiškai sudegė."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "365809-366972; hash=12ee3f56ed56a41ba43c7b5e6d80e1bcd9cd0db3079a8f7ae0ea6ac9a591fcb2; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Dinaburgas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Dinaburgo komtūro laiškas Livonijos magistrui apie Vilniaus gaisrą: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Dinaburgas: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dinaburgo komtūro laiškas Livonijos magistrui apie Vilniaus gaisrą\" parinktas kaip owner_note_path. Targetas \"Dinaburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-84162
 
@@ -58,16 +48,6 @@ media_all_json: |-
 - t-004
   global_id: t-88182
   teiginys: "Dinaburgo komtūro laiške teigiama, kad Vilniaus gaisras Vytautui padarė nuostolių už 60 000 sidabro luitų."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "369837-370064; hash=4c5d23721491382f72789ca3deff78e7aacb60a4e6784d48c747e0e8690a48eb; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Dinaburgas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Dinaburgo komtūro laiškas Livonijos magistrui apie Vilniaus gaisrą: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Dinaburgas: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dinaburgo komtūro laiškas Livonijos magistrui apie Vilniaus gaisrą\" parinktas kaip owner_note_path. Targetas \"Dinaburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-84163
 
@@ -75,16 +55,6 @@ media_all_json: |-
 - t-001
   global_id: t-88184
   teiginys: "Dinaburgo komtūras Livonijos magistrui pranešė apie Vilniaus miesto, kapitulos ir pilies gaisrą bei Vytauto patirtus nuostolius."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "365192-365469; hash=b303dae088ab320f689f78a9fd201e7cedc02d320ee68cf159d881c523fc28cd; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Dinaburgas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Dinaburgo komtūro laiškas Livonijos magistrui apie Vilniaus gaisrą: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Dinaburgas: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dinaburgo komtūro laiškas Livonijos magistrui apie Vilniaus gaisrą\" parinktas kaip owner_note_path. Targetas \"Dinaburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-84161
 ## Reikšmingi paminėjimai
@@ -101,8 +71,8 @@ media_all_json: |-
     penktadienį prieš Šv. Gertrūdą (kovo 17-ą). Be metų (tik­
     riausiai 1399).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -142,8 +112,8 @@ media_all_json: |-
     ka eržilų, be kitų žirgų ir gyvulių arklidėse, kur būtent užsi­
     plieskė ugnis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -163,8 +133,8 @@ media_all_json: |-
     Dr. Hennigas
     Karai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

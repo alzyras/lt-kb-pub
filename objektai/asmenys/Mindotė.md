@@ -41,17 +41,6 @@ Dusburgietis teigia, kad dar apie tą patį Tais pačiais 1314 metais, apie grab
 - t-001
   global_id: t-60388
   teiginys: "Mindotė žuvo Ordino kariuomenei 1314 metais puolant Sizditės pilį Medininkų valsčiuje."
-  semantiniai_rysiai: "Mindotė mirė Sizditė (0.88)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "648166-648861; hash=f067a1e9f1731730a6143e52fab599037b7f3658b4ab5aa3f5b367001a31fcc2; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "mire -> Sizditė: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Mindotė: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Sizditė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Mindotės žūtį puolant Sizditės pilį, todėl vieta siejama su mirtimi."
   pagrindžia:
     - c-61020
 ## Reikšmingi paminėjimai
@@ -71,8 +60,8 @@ Dusburgietis teigia, kad dar apie tą patį Tais pačiais 1314 metais, apie grab
     ir Mindotės. Ne kažką laimėję, puldami pilį, jie vėliau patraukė į jos apylinkes ir dar kartą
     jas nusiaubė, degindami ir piešdami.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -83,7 +72,8 @@ Dusburgietis teigia, kad dar apie tą patį Tais pačiais 1314 metais, apie grab
 - id: c-61020
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 209"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 209."
   citata_originali: |
     321 (314). Dar apie tą patį
 
@@ -102,6 +92,3 @@ Dusburgietis teigia, kad dar apie tą patį Tais pačiais 1314 metais, apie grab
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60388
-
-## Ryšiai
-- Mindotė mirė [[objektai/vietos/Sizditė]]

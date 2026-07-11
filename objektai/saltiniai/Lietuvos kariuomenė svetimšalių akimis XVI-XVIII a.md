@@ -32,12 +32,6 @@ media_all_json: |-
 - t-001
   global_id: t-193827
   teiginys: "131, „HUSARAI“, Lietuvos kariuomenė svetimšalių akimis xvI-xVIII a., p. 104-107."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1083773-1083856; hash=6d9ed3282f7c7e32f036363335cc178e204e794d348c5333d3a9afc54e7b968e; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176471
 ## Reikšmingi paminėjimai
@@ -48,8 +42,8 @@ media_all_json: |-
   citata_originali: |
     P. 131, „HUSARAI“, Lietuvos kariuomenė svetimšalių akimis xvI-xVIII a., p. 104-107.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -40,18 +40,6 @@ media_all_json: |-
 - t-002
   global_id: t-31771
   teiginys: "M. Stryjkovskio „Kronika Polska, Litewska“ 1846 m. leidimo I tome aptariama 370–372 puslapiuose."
-  temporaliniai_duomenys: "įvykio data: 1846 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "677358-677498; hash=91d8aa65a6c65f12630cdf7836d1053c38525be79e7ff7775a5f37365e1a8662; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Tomas (Hertvigo iš Pokarvių sūnus): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kronika Polska litewska żmódzka y wszystkiey Rusi Kijowskiey: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Tomas (Hertvigo iš Pokarvių sūnus): mention_match, person, gap=44"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kronika Polska litewska żmódzka y wszystkiey Rusi Kijowskiey\" parinktas kaip owner_note_path. Targetas \"Tomas (Hertvigo iš Pokarvių sūnus)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-33613
 
@@ -59,18 +47,6 @@ media_all_json: |-
 - t-001
   global_id: t-31772
   teiginys: "M. Stryjkovskio 1582 m. kronika Lietuvos istoriją pradėjo nuo Romos imperatoriaus Nerono laikų pabėgėlių atvykimo prie Nemuno."
-  temporaliniai_duomenys: "įvykio data: 1582 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "261569-262176; hash=129b7c7df1e8b5a27c1a60be9480d47b747376eacc7cfa7036f8e0e595e9c916; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kronika Polska litewska żmódzka y wszystkiey Rusi Kijowskiey: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=8"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kronika Polska litewska żmódzka y wszystkiey Rusi Kijowskiey\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-33612
 ## Reikšmingi paminėjimai
@@ -90,8 +66,8 @@ media_all_json: |-
     doma lietuvių tautos praeitis iki pat pirmojo Lietuvos karaliaus
     Mindaugo pasirodymo istorijoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -104,8 +80,8 @@ media_all_json: |-
     Polska, Litewska etc_** **., I, 1846, 370-372 p.**
     (^15) **Plg. Ad.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

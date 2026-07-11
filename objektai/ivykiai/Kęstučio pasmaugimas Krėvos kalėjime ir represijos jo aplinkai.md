@@ -42,19 +42,6 @@ Nenurodyta
 - t-001
   global_id: t-185731
   teiginys: "Po Kęstučio suėmimo Jogailos pasiųsti budeliai penktą naktį pasmaugė Kęstutį Krėvos kalėjime."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "474723-475338; hash=b7ad1864f06fa021f07351757ba2fa00a0819d77db91570e08494685e5e7e6f6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Krėva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kęstučio pasmaugimas Krėvos kalėjime ir represijos jo aplinkai: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Krėva: mention_match, place, gap=74"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kęstučio pasmaugimas Krėvos kalėjime ir represijos jo aplinkai\" parinktas kaip owner_note_path. Targetas \"Krėva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-169092
 
@@ -62,12 +49,6 @@ Nenurodyta
 - t-002
   global_id: t-193359
   teiginys: "Jis įsakė ratu nukankinti Vidimantą, vieną iš seniausių ir turtingiausių Žemaitijos bajorų, Kęstučio žmonos Bi rutės tėvą; jo turtus, atėmęs iš žmonos bei giminaičių, atidavė Mantvydui."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "475339-475712; hash=92498bcde5b838d82bd9fb92e1eee3a113850e1a7fa061ff155f4dbd7e46d78d; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176086
 ## Reikšmingi paminėjimai
@@ -96,8 +77,8 @@ Nenurodyta
     slėnyje surengė dėdei karališkas šermenis ir laidotu­
     ves.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -119,8 +100,8 @@ Nenurodyta
     lyginant nuo kokio pylimo,
     ji šiek tiek aprimo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -131,7 +112,8 @@ Nenurodyta
 - id: c-169092
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 271"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 271."
   citata_originali: |
     Tą pačią naktį Jogaila, pamynęs draugystės bei
     giminystės ryšius, sulaužęs priesaiką ir sutrypęs sve­
@@ -162,7 +144,8 @@ Nenurodyta
 - id: c-176086
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 271"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 271."
   citata_originali: |
     Deja, Jogailos širdis, vis labiau tūžtanti ir keršto
     trokštanti, nenurimo. Jis įsakė ratu nukankinti Vidi-

@@ -53,19 +53,6 @@ Nenurodyta
 - t-003
   global_id: t-188140
   teiginys: "Narbutas Austėją apibūdina kaip bičių ir bitininkystės deivę, kurios šauktasi viliojant jaunų bičių spiečių į avilius ir dreves."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "256870-257119; hash=ca875a858486e4495120f0b5d4356724de2351999ecfe0bdecee5644e5233987; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Austėja: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Austėjos šaukimasis viliojant bičių spiečių: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Austėja: mention_match, thing, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Austėjos šaukimasis viliojant bičių spiečių\" parinktas kaip owner_note_path. Targetas \"Austėja\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-171016
 ## Reikšmingi paminėjimai
@@ -80,8 +67,8 @@ Nenurodyta
     savo avilius ir dreves. Ji taip pat turėjo galios saugoti bites nuo
     kenksmingų vabzdžių ir kitų nutikimų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -92,7 +79,8 @@ Nenurodyta
 - id: c-171016
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 147"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 147."
   citata_originali: |
     Austėja (Austheja)
     Deivė, bičių ir bitininkystės globėja. Jos buvo šaukiamasi

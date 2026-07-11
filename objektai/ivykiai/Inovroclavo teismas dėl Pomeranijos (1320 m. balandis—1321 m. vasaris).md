@@ -58,20 +58,6 @@ Nenurodyta
 - t-001
   global_id: t-59646
   teiginys: "Vladislovo Lokietkos suvienyta Lenkija diplomatinėmis priemonėmis bandė atgauti kryžiuočių užgrobtą Pomeraniją."
-  semantiniai_rysiai: "Kryžiuočių ordinas užėmė Pomeranija (0.90)"
-  temporaliniai_duomenys: "įvykio data: 1320 m.; įvykio data: 1321 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir pagrįstas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "34505-34965; hash=e98e764ea9c8f5a55ccde4ab0ee877125cd31f5e864cb3f2651e41ae04e8b935; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Pomeranija: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Pomeranija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Pomeranija buvo kryžiuočių užgrobta."
   pagrindžia:
     - c-60278
 ## Reikšmingi paminėjimai
@@ -87,8 +73,8 @@ Nenurodyta
     ir pateikė apeliaciją kurijai. Nuosprendis liko neįgyvendintas, bet pats procesas buvo
     nemažas politinis lenkų laimėjimas59.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -99,7 +85,8 @@ Nenurodyta
 - id: c-60278
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 15"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 15."
   citata_originali: |
     Vladislovo Lokietkos suvienyta Lenkija bandė diplomatijos priemonėmis  atgauti
     kryžiuočių užgrobtą Pomeraniją. 1320 m. balandžio—1321 m. vasario mėn. Inovroclave

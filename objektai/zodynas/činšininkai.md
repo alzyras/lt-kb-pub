@@ -39,19 +39,6 @@ Lietuvos komitetų darbas ėjo ne be kliūčių, nes bajorijos tarpe atsirado ne
 - t-001
   global_id: t-03231
   teiginys: "Činšininkais vadinti valstiečiai, kurie turėjo mokėti tik mokesčius."
-  temporaliniai_duomenys: "įvykio data: 1858 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs ir turi OCR triukšmo."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "942740-943260; hash=8620d80d7284f6f27cdfebfd8dcf40de5d0a54232d238fb68513e123bd70be34; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Bajorai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "činšininkai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Bajorai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"činšininkai\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-03469
 ## Reikšmingi paminėjimai
@@ -78,8 +65,8 @@ Lietuvos komitetų darbas ėjo ne be kliūčių, nes bajorijos tarpe atsirado ne
     sutiko, kad valstiečius reikia paversti činšininkais, t. y. mokan-
     čiais tik mokesčius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

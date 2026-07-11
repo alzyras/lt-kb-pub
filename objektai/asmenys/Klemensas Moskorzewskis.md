@@ -35,16 +35,6 @@ O Vilnių Jogaila sau pasiliko, atsiųsdamas ten lenkų įgulą, kuriai vadovavo
 - t-002
   global_id: t-30332
   teiginys: "Klemensas Moskorzewskis buvo Jogailos vietininkas, atlaikęs Kalno pilį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "837839-838101; hash=8b9e686dc923cdbcaaa2070a34b26bbcb5b1059c663f4640673b475a8a2710b0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> vietininkas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Klemensas Moskorzewskis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "vietininkas: mention_match, thing, gap=38"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Klemensas Moskorzewskis\" parinktas kaip owner_note_path. Targetas \"vietininkas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-32774
 
@@ -52,17 +42,6 @@ O Vilnių Jogaila sau pasiliko, atsiųsdamas ten lenkų įgulą, kuriai vadovavo
 - t-001
   global_id: t-30333
   teiginys: "Klemensas Moskorzewskis vadovavo lenkų įgulai, kurią Jogaila atsiuntė į sau pasiliktą Vilnių."
-  semantiniai_rysiai: "Jogaila (kunigaikštis, XIV–XV a.) siuntė į Vilnius (0.91); Lenkai gynė Vilnius (0.62); Klemensas Moskorzewskis gynė Vilnius (0.60)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "826128-826529; hash=0c21ba12b7ab137ffe785807d272d86c385630b4fd1ec0c99c0f82e054f7357a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "siunte_i -> Vilnius: 0.91"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Jogaila tiesiogiai atsiuntė lenkų įgulą į Vilnių."
   pagrindžia:
     - c-32773
 - susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-184377|Skirgaila]]: 1387–1392 m. Skirgaila neturėjo visos valdžios Lietuvoje, nes Vilnių Jogaila pasiliko sau.
@@ -80,8 +59,8 @@ O Vilnių Jogaila sau pasiliko, atsiųsdamas ten lenkų įgulą, kuriai vadovavo
     kunigaikštijoje ėmė valdyti svetimieji, «ko anksčiau lietuvių
     žemėje nebūdavo »5 6.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -96,8 +75,8 @@ O Vilnių Jogaila sau pasiliko, atsiųsdamas ten lenkų įgulą, kuriai vadovavo
     Vytauto brolis Tautvilas, buvo apginta kunigaikščio Feodoro Os­
     trogiškio.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -142,6 +121,3 @@ O Vilnių Jogaila sau pasiliko, atsiųsdamas ten lenkų įgulą, kuriai vadovavo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-30332
-
-## Ryšiai
-- Klemensas Moskorzewskis gynė [[objektai/vietos/Vilnius]]

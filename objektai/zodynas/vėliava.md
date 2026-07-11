@@ -39,16 +39,6 @@ Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trau
 - t-004
   global_id: t-78912
   teiginys: "Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trauktis arba kautis prie kitos vėliavos."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "213137-213463; hash=806b662bb1b21e4447eace06184e67db5dc83d5d3eb650f0b086cc3f4b738ef4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vėliavos: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "vėliava: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Vėliavos: mention_match, thing, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"vėliava\" parinktas kaip owner_note_path. Targetas \"Vėliavos\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-76016
 
@@ -56,9 +46,6 @@ Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trau
 - t-008
   global_id: t-78913
   teiginys: "Viduramžių kariuomenėje 25-80 lancų sudarydavo būrį, vadinamą vėliava."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "211970-212241; hash=096425ea8237e17b9ec1b4cb886afae84dd4e7972c09de446d00085410c705f2; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-14727
 
@@ -66,9 +53,6 @@ Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trau
 - t-007
   global_id: t-78914
   teiginys: "Dragūnų vėliavą sudarė 100-150 žmonių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "505558-505718; hash=04d63df55bcf6506fbaa23d47a7a0e74ef82ff32ed6c8fea97b1f96b2068632d; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-44240
 
@@ -76,9 +60,6 @@ Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trau
 - t-010
   global_id: t-78915
   teiginys: "Vėliavai vadovaudavo kapitonas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "505558-505718; hash=04d63df55bcf6506fbaa23d47a7a0e74ef82ff32ed6c8fea97b1f96b2068632d; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-44240
 
@@ -86,9 +67,6 @@ Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trau
 - t-005
   global_id: t-78916
   teiginys: "Kiekvienas riteris kaudavosi po savo vėliava ir neturėdavo teisės ją palikęs bėgti."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "213230-213553; hash=704e3f71fd88939319cba108986611b3e9354629242848f31b3f42cc4fe3731e; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-37969
 
@@ -96,9 +74,6 @@ Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trau
 - t-003
   global_id: t-78917
   teiginys: "Vėliava buvo 25-80 lancų būrys, kuriame būdavo apie 300-400 raitųjų."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "211970-212241; hash=096425ea8237e17b9ec1b4cb886afae84dd4e7972c09de446d00085410c705f2; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-14727
 
@@ -106,9 +81,6 @@ Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trau
 - t-009
   global_id: t-78918
   teiginys: "Riteris kaudavosi po savo vėliava ir neturėdavo teisės ją palikęs bėgti."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "213230-213553; hash=704e3f71fd88939319cba108986611b3e9354629242848f31b3f42cc4fe3731e; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-37969
 
@@ -116,12 +88,6 @@ Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trau
 - t-011
   global_id: t-193755
   teiginys: "Didžiausia buvo didžiojo etmono husarų vėliava, kurią sudarė 200 raitelių."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "402268-402441; hash=9d63437edb9a7dc2d963985cd70bf96e60d56fdffc71bd8a0e776d1c26fbacac; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-44239
 - susijęs iš [[objektai/asmenys/Henenbergeris.md#claim-t-190009|Henenbergeris]]: Narbutas pažymi, kad Henenbergerio veikale buvo užrašas senovės lietuvių kalba, siejamas su kunigaikščio Utenio vėliava.
@@ -209,8 +175,8 @@ Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trau
     liavoje būdavo apie 300-400 raitųjų. Tie būriai savo ženklu,
     apie kurį spiesdavosi, turėjo vėliavą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -229,8 +195,8 @@ Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trau
     Dabar pažiūrėkime, kaip atrodo abiejų pusių kariuomenės,
     besiruošiančios į Žalgirio mūšį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -245,8 +211,8 @@ Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trau
     200 raitelių. Įprasta vėliava - 100-150 raitelių. Husarų vėliavos pa-
     grindas buvo „draugai“ — turtingi bajorai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -261,8 +227,8 @@ Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trau
     Prie svetimšalių autoramento priskirtini ir raitarai, LDK kariuo-
     menėje buvę dar xvi a.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -279,8 +245,8 @@ Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trau
     būdavo pasielgti savo nuožiūra — ar trauktis, ar kautis prisi­
     dėjus prie kitos vėliavos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

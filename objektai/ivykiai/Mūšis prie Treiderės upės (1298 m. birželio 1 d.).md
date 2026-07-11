@@ -59,21 +59,6 @@ Nenurodyta
 - t-001
   global_id: t-62880
   teiginys: "1298 m. birželio 1 d. prie Treiderės upės Vytenis nugalėjo Livonijos magistrą Brunoną, nukovęs magistrą, 22 brolius ir 1500 krikščionių."
-  teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Vytenis dalyvavo mūšyje Mūšis prie Treiderės upės (1298 m. birželio 1 d.) (0.88)"
-  temporaliniai_duomenys: "įvykio data: 1298 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs, o citata remia aiškų mūšio rezultatą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "599445-600347; hash=bd8c8757b21eb21f1ef0a2f550a597bd7621bda7ed80569b18a7aedd6586e366; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "dalyvavo_musyje -> Mūšis prie Treiderės upės (1298 m. birželio 1 d.): 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytenis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Mūšis prie Treiderės upės (1298 m. birželio 1 d.): llm_allowed_candidate, event"
-  ryšio_paaiskinimas: "Citatoje Vytenis yra įvardytas karaliumi, kuris mūšyje galop paėmė viršų."
   pagrindžia:
     - c-63726
     - c-63727
@@ -95,8 +80,8 @@ Nenurodyta
     šimtus netikėlių, vis dėlto galop karalius paėmė viršų ir nukovė magistrą, 22 brolius ir
     1500 krikščionių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -118,8 +103,8 @@ Nenurodyta
     Teutonų ordino didysis magistras, pasiuntęs Livonijos žemės broliams  į pagalbą brolį
     Bertoldą Briuhaveną, Karaliaučiaus komtūrą, su daugybe brolių  ir ginklanešių.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -130,7 +115,8 @@ Nenurodyta
 - id: c-63726
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 191"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 191."
   citata_originali: |
     1297 viešpaties metais  kilo begaliniai Rygos miestiečių  ir Teutonų ordino brolių
     kivirčai, kurie vienu metu taip įsiliepsnojo, kad broliai per pusantrų metų, neišvengiamos
@@ -154,7 +140,8 @@ Nenurodyta
 - id: c-63727
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 191"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 191."
   citata_originali: |
     Nors viename susirėmime broliai
     neatsilaikė, vis dėlto kituose, dievo galybės padedami, susilaukė sėkmės. 1298 viešpaties
@@ -174,6 +161,3 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-62880
-
-## Ryšiai
-- Turėjo dalyvį: [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]]

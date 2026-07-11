@@ -30,14 +30,6 @@ Narbutas Krūminę apibūdino kaip javų deivę, žemdirbystės globėją ir iš
 - t-001
   global_id: t-189155
   teiginys: "Narbutas Krūminę apibūdino kaip javų deivę, žemdirbystės globėją ir išradėją, dar vadintą Pradžių Warpu arba Brandžiu-Warpu."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "235563-235931; hash=37f04bb5a3f405b541fa1089b7991de51e42ba953b26de9202b330dddba13368; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172043
 ## Reikšmingi paminėjimai
@@ -58,8 +50,8 @@ Narbutas Krūminę apibūdino kaip javų deivę, žemdirbystės globėją ir iš
     reikštas moteriška gimine, taikomas ne dievui, kaip manė Strij­
     kovskis, o deivei.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

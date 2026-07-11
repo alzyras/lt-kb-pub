@@ -32,17 +32,6 @@ Sierakauskas išsiuntė Kasperą Maleckį su 150 karių ardyti geležinkelio kom
 - t-001
   global_id: t-42174
   teiginys: "Zigmantas Sierakauskas su pagrindiniais sukilėlių daliniais išskubėjo Svėdasų kryptimi."
-  semantiniai_rysiai: "Zigmantas Sierakauskas keliavo į Svėdasai (0.88)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "654987-655614; hash=42ecce83ecea30d983f9d10913d9e9fd98fa6a32302b1b4e87e5d15d42cefa5d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Svėdasai: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Zigmantas Sierakauskas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Svėdasai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Sierakauskas tiesiogiai nurodytas išskubėjęs Svėdasų kryptimi."
   pagrindžia:
     - c-45350
 - susijęs iš Antalieptė: P. Genys po Svėdasų ir Užpalių užėmimo ėmė Antalieptę birželio 5 d.
@@ -80,8 +69,8 @@ Sierakauskas išsiuntė Kasperą Maleckį su 150 karių ardyti geležinkelio kom
 
     suteikdama jam pulkininko laipsnį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -121,5 +110,4 @@ Sierakauskas išsiuntė Kasperą Maleckį su 150 karių ardyti geležinkelio kom
     - t-42174
 
 ## Ryšiai
-- Buvo kelionės vieta: [[objektai/asmenys/Zigmantas Sierakauskas]]
 - Užėmė Svėdasai: [[objektai/asmenys/P. Genys]]

@@ -32,17 +32,6 @@ Pirmiausiai janičarai (turkų pėstininkai), o po to ir turkų kavalerija ataka
 - t-001
   global_id: t-40893
   teiginys: "Pirmiausiai janičarai (turkų pėstininkai), o po to ir turkų kavalerija atakavo atskirai įsikūrusių Ukrainos kazokų stovyklą."
-  semantiniai_rysiai: "Janičarai puolė Kazokai (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "470091-470335; hash=9e1f5b56b0936af7dfd89ac4008d05b8b279059da4b3b0e759489d2d2d44b8d2; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Kazokai: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Janičarai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Kazokai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad janičarai atakavo Ukrainos kazokų stovyklą."
   pagrindžia:
     - c-44747
 
@@ -50,14 +39,6 @@ Pirmiausiai janičarai (turkų pėstininkai), o po to ir turkų kavalerija ataka
 - t-002
   global_id: t-193732
   teiginys: "Trečią kovų dieną janičarai po artilerinio apšaudymo atakavo LDK didžiojo etmono ginamus įtvirtinimus ir kazokų stovyklą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "471888-472142; hash=571f150f9fa2300b64ac1c25efce5803a43a9aaed398fb2d07e417a3710e2258; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-42679
 - susijęs iš [[objektai/grupes/Lisovčikai.md#claim-t-41063|Lisovčikai]]: J. K. Chodkevičius pasiuntė kelias raitarų ir lisovčikų vėliavas į kontrataką prieš janičarus.
@@ -84,8 +65,8 @@ Pirmiausiai janičarai (turkų pėstininkai), o po to ir turkų kavalerija ataka
     į kontrataką. Staigus puolimas
     sukėlė paniką janičarų gretose.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -101,8 +82,8 @@ Pirmiausiai janičarai (turkų pėstininkai), o po to ir turkų kavalerija ataka
     tis. LDK didysis etmonas pasiuntė ke-
     letą lengvosios kavalerijos - „lisovčikų“
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

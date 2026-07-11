@@ -30,12 +30,6 @@ Barbarai, gavę žvalgų žinių apie priešo jėgas ir ketinimus, bijojo pirmo 
 - t-001
   global_id: t-185366
   teiginys: "Barbarai, gavę žvalgų žinių apie priešo jėgas ir ketinimus, bijojo pirmo gerai ginkluotų karių puolimo."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "175198-175861; hash=c11d73520b825df088114c8f3e65ac42235df12fbee3d6ed4af9ff51a4030596; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-168727
 - susijęs iš [[objektai/zodynas/karaliukas.md#claim-t-192246|karaliukas]]: Teodoras Narbutas žodį „karaliukai“ vartoja kalbėdamas apie skirtingose šalyse atsiradusius barbarų valdovus.
@@ -71,8 +65,8 @@ Barbarai, gavę žvalgų žinių apie priešo jėgas ir ketinimus, bijojo pirmo 
     nis, jeigu, prieš kovą patyrę kokią nesėkmę, suvoks
     labiau turį bijoti, negu drąsą rodyti.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -83,7 +77,8 @@ Barbarai, gavę žvalgų žinių apie priešo jėgas ir ketinimus, bijojo pirmo 
 - id: c-168727
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 105"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 105."
   citata_originali: |
     Ten greitosiomis įrengę stovyklą,
     sustiprintą pylimu ir gynybiniu grioviu, jie paliko ke­

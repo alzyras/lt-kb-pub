@@ -44,20 +44,6 @@ Dusburgietis teigia, kad galop magistras paskyrė šios žemės krašto komtūru
 - t-001
   global_id: t-60327
   teiginys: "Hermanas iš Šenenbergo buvo paskirtas Kulmo žemės krašto komtūru ir vadovavo kovoms su į Kulmo žemę įsiveržusiais sūduviais."
-  semantiniai_rysiai: "Hermanas iš Šenenbergo (karvedys, XIII a.) kariavo prieš Sūduviai (0.86); Hermanas iš Šenenbergo (karvedys, XIII a.) gynė Kulmas (0.78)"
-  temporaliniai_duomenys: "įvykio data: iki 1277 m.; įvykio data: po 1262 m.; įvykio data: 1262 m.; įvykio data: apie 1262 m.; įvykio data: po 1276 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Nutrūkęs fragmentas perrašytas į pilną faktinį sakinį apie asmenį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "505397-506829; hash=be639b61db90dcd5ba4d774c298c286817a4610e009343559534f2f9bbc91d79; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Sūduviai: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Hermanas iš Šenenbergo (karvedys, XIII a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Sūduviai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata aprašo Hermano kovas su į Kulmo žemę įsibrovusiais sūduviais."
   pagrindžia:
     - c-60959
 ## Reikšmingi paminėjimai
@@ -87,8 +73,8 @@ Dusburgietis teigia, kad galop magistras paskyrė šios žemės krašto komtūru
     kartų šitai padarė ir tiek jų išžudė, kad sūduviai daugiau nebedrįsdavo rodytis be didesnės
     kariuomenės.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -99,7 +85,8 @@ Dusburgietis teigia, kad galop magistras paskyrė šios žemės krašto komtūru
 - id: c-60959
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 159-160"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 159-160."
   citata_originali: |
     Galop
     magistras paskyrė šios žemės krašto komtūru brolį Hermaną iš Šenenbergo480, prityrusį
@@ -127,7 +114,3 @@ Dusburgietis teigia, kad galop magistras paskyrė šios žemės krašto komtūru
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60327
-
-## Ryšiai
-- Hermanas iš Šenenbergo (karvedys, XIII a.) gynė [[objektai/vietos/Kulmas]]
-- Hermanas iš Šenenbergo (karvedys, XIII a.) kariavo prieš [[objektai/grupes/Sūduviai]]

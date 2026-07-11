@@ -35,9 +35,6 @@ Dusburgietis teigia, kad “ Ne kas kitas, o broliai apšvarino — kaip Judas M
 - t-003
   global_id: t-175237
   teiginys: "Judas Makabėjus drąsino savo nedidelį būrį prieš didelę netikėlių kariuomenę."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "147793-148293; hash=f3c35b545b8b668ef8bda54e88fcf1945d1772c0f0c4a8d2fd4c3163175e925a; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-159384
 
@@ -45,17 +42,6 @@ Dusburgietis teigia, kad “ Ne kas kitas, o broliai apšvarino — kaip Judas M
 - t-004
   global_id: t-175238
   teiginys: "Pasakojama, kad Judas Makabėjus krito kovoje su Bachidu ir Alchimu, o Izraelio kariuomenė turėjo bėgti."
-  semantiniai_rysiai: "Judas Makabėjus kariavo prieš Bachidas (0.95)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "154373-155064; hash=f7ac35adafe18eea54ed3750e7db783ba4e67f59014990af5c083adda5667b47; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Bachidas: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Judas Makabėjus: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Bachidas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Judas Makabėjus kovojo su Bachidu."
   pagrindžia:
     - c-159382
 
@@ -63,18 +49,6 @@ Dusburgietis teigia, kad “ Ne kas kitas, o broliai apšvarino — kaip Judas M
 - t-002
   global_id: t-175239
   teiginys: "Makabėjai, laikydamiesi įstatymo ir tikėjimo, nugalėjo Antiochą Epifaną, apvalė šventas vietas ir sugrąžino žemei ramybę."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "118370-119381; hash=cc0110ea28708fa391d37cbd5fbf59ee9d722c631c510f21a7fb9a5f3426be2c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Dovydas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Judas Makabėjus: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Dovydas: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Judas Makabėjus\" parinktas kaip owner_note_path. Targetas \"Dovydas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-13T14:23:04Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-159381
 - susijęs iš [[objektai/asmenys/Alchimas.md#claim-t-60232|Alchimas]]: Judas Makabėjus kovojo su Bachidu ir Alchimu, o po šių kautynių pats žuvo ir Izraelio kariuomenė turėjo bėgti.
@@ -99,8 +73,8 @@ Dusburgietis teigia, kad “ Ne kas kitas, o broliai apšvarino — kaip Judas M
     pripratinti dievo tautą prie stabmeldiškų apeigų, o jaunikaičius — prie viešnamių; dievo
     remiami, apvalė šventas vietas, atgavo Siono arką ir sugrąžino žemei ramybę.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -121,8 +95,8 @@ Dusburgietis teigia, kad “ Ne kas kitas, o broliai apšvarino — kaip Judas M
                      Pergalės būdas tikriausias — kantrybė, tas kovą laimi,
                    Kas pasikliaus kantrumu; jei nori laimėti — kantrauk!
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -139,8 +113,8 @@ Dusburgietis teigia, kad “ Ne kas kitas, o broliai apšvarino — kaip Judas M
     kartą su savųjų saujele prieš didžiulę netikėlių kariuomenę, tarė, drąsindamas saviškius
     (1 Mak 4, 8—11): „Nebijokite jų daugybės  ir nenusigąskite jų puolimo.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -151,7 +125,8 @@ Dusburgietis teigia, kad “ Ne kas kitas, o broliai apšvarino — kaip Judas M
 - id: c-159381
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 38"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 38."
   citata_originali: |
     Mat Cereto vardas verčiamas žodžiu „naikintojas“, o Feleto —
     „gelbėtojas“. Kadangi Dovydas buvo pranašas  ir jo lūpomis bylojo šventoji dvasia,
@@ -176,7 +151,8 @@ Dusburgietis teigia, kad “ Ne kas kitas, o broliai apšvarino — kaip Judas M
 - id: c-159382
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 49"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 49."
   citata_originali: |
     Skaitome ir apie Makabėjų, kad
     jo vyrai šaukėsi  į dangų melsdamiesi ir išvaikė priešų stovyklas. Apie Judą Makabėjų
@@ -199,7 +175,8 @@ Dusburgietis teigia, kad “ Ne kas kitas, o broliai apšvarino — kaip Judas M
 - id: c-159384
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 47"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 47."
   citata_originali: |
     3—4): „Šiandien jūs einate kovon prieš jūsų nedraugus, tenenusigąsta jūsų
     širdis, nebijokite, nesitraukite ir nepabūkite jųjų, nes viešpats, jūsų dievas, yra jūsų

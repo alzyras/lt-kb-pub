@@ -45,20 +45,6 @@ Paminėkime tokią grandinę: Lenkijos valdovo Mieško krikštas (966), Kijevo R
 - t-001
   global_id: t-78066
   teiginys: "Lenkijos valdovas Mieška krikštijosi 966 m."
-  semantiniai_rysiai: "Mieška buvo valdovas Lenkija (0.88)"
-  temporaliniai_duomenys: "valdymo laikotarpis: 966 m"
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Mieška buvo valdovas Lenkija“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra trumpas, gramatiškas ir paremtas citata."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "40947-41435; hash=adb33939b156052cb069ae3fc0f122d2100fd6021e4b9cea224adc9cefda1f3e; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_valdovas -> Lenkija: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Mieška: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai vadina Miešką Lenkijos valdovu."
   pagrindžia:
     - c-75371
 ## Reikšmingi paminėjimai
@@ -75,8 +61,8 @@ Paminėkime tokią grandinę: Lenkijos valdovo Mieško krikštas (966), Kijevo R
     jos soste šv. Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo
     krikštas (1008) ir štai – Lietuvos „karaliaus“ Netimero krikštas (1009).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -102,6 +88,3 @@ Paminėkime tokią grandinę: Lenkijos valdovo Mieško krikštas (966), Kijevo R
   patikimumo_saltinis: ai
   pagrindzia:
     - t-78066
-
-## Ryšiai
-- Mieška buvo valdovas [[objektai/vietos/Lenkija]]

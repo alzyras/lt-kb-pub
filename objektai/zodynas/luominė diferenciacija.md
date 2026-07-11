@@ -45,9 +45,6 @@ Socialiniu atžvilgiu ši epocha yra charakterizuojama išryškė­ jusią luomi
 - t-001
   global_id: t-28594
   teiginys: "Socialiniu atžvilgiu ši epocha pasižymėjo išryškėjusia luomine diferenciacija."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "419799-420314; hash=9e47cf7653e65a9eba1f71cda9d8154303bb6579126b178d422349d570239cef; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-28498
 ## Reikšmingi paminėjimai
@@ -64,8 +61,8 @@ Socialiniu atžvilgiu ši epocha yra charakterizuojama išryškė­ jusią luomi
     paliuosuodamas nuo piniginės prievolės valstybei, Kazimieras savo
     privilegija (1447) padėjo pagrindą baudžiavinei epochai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

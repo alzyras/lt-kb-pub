@@ -55,11 +55,6 @@ Nenurodyta
 - t-002
   global_id: t-67104
   teiginys: "Vilniaus vyskupas Protasevičius kovai su protestantais atsikvietė į Vilnių jėzuitus."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "595972-596381; hash=176aef24825c46e4b458717a5a66f01b32739855894c34137efcad21d95fa697; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-67143
 
@@ -67,9 +62,6 @@ Nenurodyta
 - t-001
   global_id: t-67106
   teiginys: "Jėzuitai kovoje su protestantais rengdavo tikybinius disputus, o protestantams jų vengiant patys inscenizuodavo abiejų pusių argumentų ginčą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "526526-527069; hash=bbe6e2bdc5fe8c1b7596e0a7dc2a66052d069d3702e304d2848d97e035acc577; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-67141
 ## Reikšmingi paminėjimai
@@ -89,8 +81,8 @@ Nenurodyta
     ginti protestantizmo, išdėstydamas protestantų argumentus, o
     kitas, ginąs katalikybę, sugriaudavo tuos argumentus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -108,8 +100,8 @@ Nenurodyta
     nesigailėdamas savo turtų, rūpinosi įkurti Vilniuje ir aukštąją
     mokyklą. Tatai jis irgi pavedė padaryti tiems patiems jėzuitams.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

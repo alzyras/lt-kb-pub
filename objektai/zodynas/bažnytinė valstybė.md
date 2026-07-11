@@ -43,18 +43,6 @@ Kai popiežiaus Honorijaus III atsiustasis legatas Vilhelmas de Mo­ dena sėkmi
 - t-001
   global_id: t-32762
   teiginys: "Vicelegatas Baldvinas de Alna 1231-1234 m. nepajėgė Livonijoje įkurti bažnytinės valstybės dėl kalavijuočių pasipriešinimo."
-  temporaliniai_duomenys: "įvykio data: 1225 m.; įvykio data: 1231-1234; įvykio data: 1234 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "464332-464918; hash=e16a7ee0474827b67d20f228f13e2ef2a99076a430ebc2ae3af6b91d97222ad3; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kalavijuočių ordinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "bažnytinė valstybė: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Kalavijuočių ordinas: mention_match, group, gap=25"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"bažnytinė valstybė\" parinktas kaip owner_note_path. Targetas \"Kalavijuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-34142
 ## Reikšmingi paminėjimai
@@ -73,8 +61,8 @@ Kai popiežiaus Honorijaus III atsiustasis legatas Vilhelmas de Mo­ dena sėkmi
     valstybės, nes kalavijuočiai, nors formaliai ir priklausė Rygos vys­
     kupui, ginklu priešinosi.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

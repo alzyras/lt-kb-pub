@@ -57,19 +57,6 @@ Nenurodyta
 - t-001
   global_id: t-02046
   teiginys: "Bajorija seimuose ir seimeliuose reikalavo pertvarkyti vyriausiąjį teismą ir perduoti apeliacinius teismus bajorijai."
-  temporaliniai_duomenys: "įvykio data: 1578 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata geriau pagrindžia platesnį bajorijos reikalavimą dėl teismų pertvarkos."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "601900-602435; hash=a3755e22b35608a0ce8966e6f39d815f2034e719cd3ad04078cf4ddd6a7ee90b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vyriausiojo Lietuvos tribunolo teisėjų rinkimas seimeliuose: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vyriausiojo Lietuvos tribunolo teisėjų rinkimas seimeliuose\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-02286
 
@@ -77,20 +64,6 @@ Nenurodyta
 - t-002
   global_id: t-02047
   teiginys: "Vyriausiasis Lietuvos tribunolas buvo galutinai įkurtas 1581 m., o jo teisėjais buvo visų seimelių renkami bajorijos atstovai."
-  semantiniai_rysiai: "Vyriausiasis Lietuvos tribunolas priklausė Lietuva (0.82)"
-  temporaliniai_duomenys: "įvykio data: 1581 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sakinys sutrumpintas ir priartintas prie note objekto - teisėjų rinkimo seimeliuose."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "602436-602849; hash=8e2c01ca7daee655e3172b6451aee3f63e5b09d88a891d10ace298033e89ba24; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Lietuva: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vyriausiasis Lietuvos tribunolas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Pats objekto pavadinimas ir teiginys nurodo, kad tribunolas buvo Lietuvos institucija."
   pagrindžia:
     - c-02283
 ## Reikšmingi paminėjimai
@@ -106,8 +79,8 @@ Nenurodyta
     davo renkami specialiai šaukiamame Grabnyčių seimely (apie va-
     sario 2 d.) ir darbuodavos tribunole vienus metus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -127,8 +100,8 @@ Nenurodyta
     bunolą Lenkijoje, tai netrukus tas pats buvo padaryta ir
     Lietuvoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

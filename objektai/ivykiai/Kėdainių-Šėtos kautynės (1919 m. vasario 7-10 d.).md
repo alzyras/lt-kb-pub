@@ -50,16 +50,6 @@ Nenurodyta
 - t-014
   global_id: t-09849
   teiginys: "Lietuviai, remiami maždaug 50 vokiečių kareivių, apėjo bolševikų dešinįjį sparną, paėmė 18 raudonarmiečių į nelaisvę, o bolševikai vakare paliko Kėdainių apylinkes ir traukėsi į Šėtą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "706482-706835; hash=aa25bb4ccb1273cb5a5c044c79f804c22a147a3af15373fdba74b4b5d0e38b28; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
-  ryšio_patikimumas: "susije_su -> Kėdainiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.): owner_note_path, event"
-  ryšio_targeto_parinkimas: "Kėdainiai: mention_match, place, gap=146"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)\" parinktas kaip owner_note_path. Targetas \"Kėdainiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-11872
 
@@ -67,16 +57,6 @@ Nenurodyta
 - t-009
   global_id: t-09850
   teiginys: "Kėdainių gynyba tapo pirmuoju Kėdainių įgulos savanorių kovos krikštu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "701214-701602; hash=27b569ce3bff4aa84ad76d3b8b38a25b1bb64748871516a67710bbbb987d0f9f; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
-  ryšio_patikimumas: "susije_su -> Kėdainiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.): owner_note_path, event"
-  ryšio_targeto_parinkimas: "Kėdainiai: mention_match, place, gap=1"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)\" parinktas kaip owner_note_path. Targetas \"Kėdainiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-11867
 
@@ -84,16 +64,6 @@ Nenurodyta
 - t-010
   global_id: t-09851
   teiginys: "Vasario 8-osios rytą Kėdainių gynėjai sudarė 17 žmonių žvalgybos patrulį, kuriam vadovavo V. Vainauskas, o padėjėju paskirtas P. Lukšys."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "704615-705089; hash=eb7734e822bb33a1021556381877cc61e713a4f5e681bef5318516fe05146e53; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
-  ryšio_patikimumas: "susije_su -> Kėdainiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.): owner_note_path, event"
-  ryšio_targeto_parinkimas: "Kėdainiai: mention_match, place, gap=22"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)\" parinktas kaip owner_note_path. Targetas \"Kėdainiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-11868
 
@@ -101,16 +71,6 @@ Nenurodyta
 - t-012
   global_id: t-09852
   teiginys: "Kėdainių-Šėtos kautynėse vokiečių kulkosvaidininkas perėmė kulkosvaidį ir sustabdė bolševikų mėginimą apsupti žvalgus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "705533-705850; hash=d540072c05a8f969eb9e642815363d184afa9ead09eb4897a87a0a10d1b5dc31; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
-  ryšio_patikimumas: "susije_su -> Vokiečiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Vokiečiai: mention_match, group, gap=25"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)\" parinktas kaip owner_note_path. Targetas \"Vokiečiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-11870
 
@@ -118,20 +78,6 @@ Nenurodyta
 - t-011
   global_id: t-09853
   teiginys: "Kėdainių-Šėtos kautynėse prie Taučiūnų kaimo Lukšio padrąsinti lietuviai išsiskleidė į grandį ir atidengė atsakomąją ugnį."
-  semantiniai_rysiai: "Lietuviai dalyvavo mūšyje Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.) (0.84)"
-  temporaliniai_duomenys: "įvykio data: 1919 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys susietas su įvykiu ir sutrumpintas iki enciklopedinio sakinio."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "705090-705456; hash=56f874602c6b68b63031a6d25eeb4288c2cffea494b80bedb99624697295c605; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
-  ryšio_patikimumas: "dalyvavo_musyje -> Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.): 0.84"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.): llm_allowed_candidate, event"
-  ryšio_paaiskinimas: "Lietuviai tiesiogiai aprašomi kaip kovos dalyviai, išsiskleidę į grandį ir atidengę ugnį."
   pagrindžia:
     - c-11869
 
@@ -139,16 +85,6 @@ Nenurodyta
 - t-013
   global_id: t-09854
   teiginys: "Kėdainių-Šėtos kautynėse P. Lukšys žuvo, kai į žvalgus pasipylė ugnis iš Taučiūnų dvaro."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "705851-706015; hash=f538e42585758b76d92509cb490d6be7ad9e2f9c8b1e73f4aae5fecbba5a4a08; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
-  ryšio_patikimumas: "susije_su -> Taučiūnai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Taučiūnai: mention_match, place, gap=73"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)\" parinktas kaip owner_note_path. Targetas \"Taučiūnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-11871
 
@@ -156,17 +92,6 @@ Nenurodyta
 - t-008
   global_id: t-09855
   teiginys: "Kėdainių gynybai vadovavę J. Mikoliūnas ir K. Dragunevičius apie 80 savanorių šautuvų ugnimi sustabdė bolševikų puolimą."
-  semantiniai_rysiai: "J. Mikoliūnas gynė Kėdainiai (0.90); K. Dragunevičius gynė Kėdainiai (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "700919-701539; hash=1fe52c422c2ac532ee80fc88e2a825bc8f5f329cd3fcb052c02b48bfd933b5e6; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
-  ryšio_patikimumas: "gyne -> Kėdainiai: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "J. Mikoliūnas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kėdainiai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "J. Mikoliūnas tiesiogiai įvardytas tarp Kėdainių gynybos vadovų."
   pagrindžia:
     - c-11866
 - susijęs iš [[objektai/asmenys/J. Mikoliūnas.md#claim-t-40159|J. Mikoliūnas]]: J. Mikoliūnas ir K. Dragunevičius, surinkę apie 80 savanorių, šautuvų ugnimi sustabdė priešo puolimą prie Kėdainių-Šėtos vieškelio.
@@ -200,8 +125,8 @@ Nenurodyta
     tačiau savanoriams vis pavykdavo taiklia
     šautuvų ugnimi juos sulaikyti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -220,8 +145,8 @@ Nenurodyta
     pirmasis Kėdainių įgulos sava-
     norių kovos krikštas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -243,8 +168,8 @@ Nenurodyta
     judėjo bolševikų atsitraukimo kryptimi —
     Šėtos link.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -268,8 +193,8 @@ Nenurodyta
     sinti lietuviai išsiskleidė į grandį ir sugulę
     atidengė atsakomąją ugnį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -289,8 +214,8 @@ Nenurodyta
     žvalgų grupę apsupti. Raudonarmiečiai
     ėmė trauktis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -306,8 +231,8 @@ Nenurodyta
     kovose žuvęs Lietuvos savano-
     ris. Žvalgai atsitraukė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -327,8 +252,8 @@ Nenurodyta
     čios dienos vakare buvo priversi palikti
     Kėdainių apylinkes ir atsitraukti į Šėtą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -498,6 +423,3 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-09849
-
-## Ryšiai
-- Turėjo dalyvį: [[objektai/asmenys/J. Mikoliūnas]], [[objektai/asmenys/K. Dragunevičius]], [[objektai/grupes/Lietuviai]]

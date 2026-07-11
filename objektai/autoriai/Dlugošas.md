@@ -30,12 +30,6 @@ Dlugošas net yra užrašęs žinią, kad Krokuvos ponai, nors bendrai imant, ir
 - t-001
   global_id: t-194977
   teiginys: "Dlugošas net yra užrašęs žinią, kad Krokuvos ponai, nors bendrai imant, ir norėję savo Jadvygą išleisti už Jogailos, didžiojo Lietuvos kunigaikščio, bet jų tarpe radosi ir tokių, kurių akys buvo nu kreiptos į Vytautą, kaip į „gudresnį“."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "373916-374524; hash=8435f30e2ce67df493c360f0fdf5be3781d003fb64e97cc2db7cb2e0a9f8f446; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177363
 ## Reikšmingi paminėjimai
@@ -56,8 +50,8 @@ Dlugošas net yra užrašęs žinią, kad Krokuvos ponai, nors bendrai imant, ir
     Jadvygos ranka neatiteko Vytautui, bus buvusi ta, kad Lietuvos
     savininkas ne jis buvo, o Jogaila.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

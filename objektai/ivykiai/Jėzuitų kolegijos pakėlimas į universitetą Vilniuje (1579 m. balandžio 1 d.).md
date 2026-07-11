@@ -59,16 +59,6 @@ Nenurodyta
 - t-001
   global_id: t-54451
   teiginys: "Balandžio 1-ąją išleisti dekretai patvirtino vyskupo Protasevičiaus funduotos jėzuitų kolegijos pakėlimą į universitetą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "583867-584445; hash=fcdc71ca420a1c7662228034e4a64b852318e0d7bbf1e73d6e008d4ec0ce2591; match=whitespace_regex"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
-  ryšio_patikimumas: "susije_su -> Valerijonas (raštininkas): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jėzuitų kolegijos pakėlimas į universitetą Vilniuje (1579 m. balandžio 1 d.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Valerijonas (raštininkas): mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jėzuitų kolegijos pakėlimas į universitetą Vilniuje (1579 m. balandžio 1 d.)\" parinktas kaip owner_note_path. Targetas \"Valerijonas (raštininkas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-55331
 ## Reikšmingi paminėjimai
@@ -89,8 +79,8 @@ Nenurodyta
     vardu, jai mieste dovanojo tris mūrinius namus, pavedė juos
     jėzuitų priežiūrai ir globai58.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

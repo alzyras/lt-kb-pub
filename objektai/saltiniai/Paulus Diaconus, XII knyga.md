@@ -30,14 +30,6 @@ Gotų pakurstyti he rulai, surinkę savo jaunimą ir narsaus Malabato2 vado 1 Pa
 - t-001
   global_id: t-194898
   teiginys: "Gotų pakurstyti he rulai, surinkę savo jaunimą ir narsaus Malabato2 vado 1 Paulus Diaconus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "539295-539406; hash=2c585e013a1d8b5425e20683578a0f0820814b8700b2a9978f7acc647b1c1bba; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-177294
 ## Reikšmingi paminėjimai
@@ -55,8 +47,8 @@ Gotų pakurstyti he rulai, surinkę savo jaunimą ir narsaus Malabato2 vado 1 Pa
     P.
     259.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -67,7 +59,8 @@ Gotų pakurstyti he rulai, surinkę savo jaunimą ir narsaus Malabato2 vado 1 Pa
 - id: c-177294
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 300"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 300."
   citata_originali: |
     Gotų pakurstyti he­
     rulai, surinkę savo jaunimą ir narsaus Malabato2 vado­

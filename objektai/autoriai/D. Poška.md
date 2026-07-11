@@ -45,18 +45,6 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
 - t-002
   global_id: t-05729
   teiginys: "D. Poška savo Baublyje įtaisė senienų muziejų."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "921217-921503; hash=738d80b94e57e02e24f7e29cd8ea83ad01478117f921e0c36c41452ef38bf777; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Bajorai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "D. Poška: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Bajorai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"D. Poška\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-06625
 
@@ -64,16 +52,6 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
 - t-001
   global_id: t-05730
   teiginys: "D. Poška savo Baublyje globojo lietuviškosios kultūros palaikus ir rašė žemaitiškai."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "913976-914311; hash=45e08de47fa75a92fa54c1eca10160bddad6537f57f811825a87c33dd5a20eb9; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "D. Poška: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=31"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"D. Poška\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-06627
 
@@ -81,24 +59,6 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
 - t-003
   global_id: t-188398
   teiginys: "1829 m. „Dziennik Warszawski“ išspausdino Dionizo Poškos straipsnį „Keletas įžanginių žodžių bet kam, žadančiam rašyti Lietuvos ir Žemaičių istoriją“."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1829 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalintas neaiškus „ją“ ir vertinimas „bene geriausiai“. Paliktas konkretus Poškos straipsnio publikavimo faktas be papildomų interpretacijų."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "89106-89467; hash=310624a9e2dcc8a1552cb800858fbd63d7a92b849506a70cc4fe741eee47c5bf; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "D. Poška: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=110"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"D. Poška\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171288
 
@@ -106,21 +66,6 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
 - t-004
   global_id: t-188399
   teiginys: "Narbutas rašo, kad D. Poškai buvo žinomi S. Daukanto „Darbai senųjų lietuvių ir žemaičių“ ir spėta, jog Poška galėjo juos persirašyti."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "91482-91786; hash=127516425078ef4911e9565f6344edb6917f8224e90c4bd5375692d31c4b0fd2; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> S. Daukantas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "D. Poška: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "S. Daukantas: mention_match, author, gap=22"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"D. Poška\" parinktas kaip owner_note_path. Targetas \"S. Daukantas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171289
 
@@ -128,21 +73,6 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
 - t-005
   global_id: t-190694
   teiginys: "Dionizas Poška, tyrinėdamas herulus ir hirius, vardijo Žemaitijos vietovardžius kaip ženklus, kad ten kadaise gyveno ta lietuvių gentis."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "493534-493943; hash=cdc1aa78f1367028c88e52c84aac3200a07be5f9f32cd63b628cd6ba286e5bad; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Herulai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "D. Poška: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Herulai: mention_match, group, gap=28"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"D. Poška\" parinktas kaip owner_note_path. Targetas \"Herulai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173576
 
@@ -150,24 +80,6 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
 - t-006
   global_id: t-190695
   teiginys: "Teodoro Narbuto vertinimu, Dionizo Poškos 1829 m. straipsnis apie Lietuvos ir Žemaičių istorijos rašymą buvo literatūrinis testamentas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1829 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Vertinamasis apibūdinimas paliktas su Narbuto atribucija. Nepridėta daugiau apie straipsnio turinį, negu leidžia citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "793961-794404; hash=10f63c76e1e9932501b2efa7cb3bd3e1af044fd6635c876f50981f913ab74fa3; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "D. Poška: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=39"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"D. Poška\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173577
 
@@ -175,12 +87,6 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
 - t-007
   global_id: t-193582
   teiginys: "Ši mintis paskatino kai kuriuos inteligentus, gyvenusius Žemaitijoje, imti rašyti poeziją žemaitiškai, arba lietuviškai (Dionizas Poška, Silvestras Valiūnas)."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "208030-208583; hash=4b51e1140f6dcab300e645a5d7b0896d3704aedc11401553cf49ae6024710512; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176257
 - susijęs iš [[objektai/autoriai/S. Stanevičius.md#claim-t-01132|S. Stanevičius]]: S. Stanevičius išleido lietuviškų dainų rinkinį.
@@ -203,8 +109,8 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
     ziejų. Jis taip pat bandė rašyti
     ir Lietuvos istoriją.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -220,8 +126,8 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
     rikas profesorius Lelevelis, įrodinėjo Baužos lietuvių kil-
     dinimo iš gerulių nemoksliškumą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -239,8 +145,8 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
     istoriją“8. Jis parašytas metai prieš mirtį, todėl jį drįstume lai­
     kyti tam tikru literatūriniu testamentu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -257,8 +163,8 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
     rytum pastangų parašyti lietuvių tautos istoriją iki pat 1829
     metų ir nebuvo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -280,8 +186,8 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
     do, turėjo būti senovės miestas Jurbarkas, nors jo įkūri­
     mą Strijkovskis sieja su Borkaus laikais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -301,8 +207,8 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
     duoti nurodymus ar patarimus visiems, kurie imsis ra­
     šyti lietuvių tautos istoriją.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -323,8 +229,8 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
     Žemaitijoje, imti rašyti poeziją žemaitiškai, arba lietuviškai (Dionizas
     Poška, Silvestras Valiūnas). Įspūdį padarė 1818 m.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -378,7 +284,8 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
 - id: c-171288
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 49"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 49."
   citata_originali: |
     Be to,
     ir anuometinė atmosfera buvo palanki tokiam sprendimui pri­
@@ -397,7 +304,8 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
 - id: c-171289
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 50"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 50."
   citata_originali: |
     Manoma, kad tuo metu jau buvo parašyti
     S. Daukanto „Darbai senųjų lietuvių ir žemaičių“. D. Poškai
@@ -438,7 +346,8 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
 - id: c-173577
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 441"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 441."
   citata_originali: |
     Bene geriausiai ją
     apibūdina 1829 metais „Dziennik Warszawski“ išspaus­

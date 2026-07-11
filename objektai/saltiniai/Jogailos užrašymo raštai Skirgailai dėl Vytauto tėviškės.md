@@ -30,12 +30,6 @@ Jau metai laiko nūnai, kai kunigaikštis [Jogailai Liublino pilyje užrašė ku
 - t-001
   global_id: t-194167
   teiginys: "Jau metai laiko nūnai, kai kunigaikštis [Jogailai Liublino pilyje užrašė kunigaikščiui Skirgailai raštais visą mano tėviškę mano akivaizdoje6 ."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "307436-307774; hash=9a80e464105af9902f8c5dc6cfc193dd0b11ea90724bbbc9772debad24c07f1f; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176780
 ## Reikšmingi paminėjimai
@@ -52,8 +46,8 @@ Jau metai laiko nūnai, kai kunigaikštis [Jogailai Liublino pilyje užrašė ku
     galėjau padaryti ir negalėjau nieku būdu tų privilegijų
     nusimesti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

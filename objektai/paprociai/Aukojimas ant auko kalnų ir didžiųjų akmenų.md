@@ -46,9 +46,6 @@ Nenurodyta
 - t-002
   global_id: t-07767
   teiginys: "Ant auko kalnų ir didelių akmenų žmonės meldėsi ir dievams aukavo, degindami įvairias aukas."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "225965-226449; hash=486e9acf8a970ac5e15e91d624b941a5604a5de6768acbb7a58744bbd752a40a; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
   pagrindžia:
     - c-09923
 ## Reikšmingi paminėjimai
@@ -62,8 +59,8 @@ Nenurodyta
         gintarus, mirą ir kitus kvepiančius daiktus ir melsdamos; ant kurių visados amžina ugnis kūrinos,
         kasant juos, šiandien dar randamos tenai supuvusios ir sutrynėjusios^841 anglys tą stigavoja.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

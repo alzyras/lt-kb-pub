@@ -41,12 +41,6 @@ Dusburgietis teigia, kad jäger E.
 - t-001
   global_id: t-61090
   teiginys: "E. Jägerio „Prussia-Karten. 1542—1810“ 1982 m. išleido A. H. Konrad Verlag."
-  temporaliniai_duomenys: "įvykio data: 1982 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pagrindžia autoriaus, pavadinimo, leidyklos ir metų faktą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "775943-776094; hash=5a4581fbecf200ce861893a10d8eea2d6f5e5f64f7c3b271f01198f1c828ba4b; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-61722
 ## Reikšmingi paminėjimai
@@ -58,8 +52,8 @@ Dusburgietis teigia, kad jäger E.
     Jäger E. Prussia-Karten. 1542—1810: Geschichte der kartographischen Darstellung
     Ostpreußens vom 16. bis zum 19. Jahrhundert —A. H. Konrad Verlag, 1982.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -70,7 +64,8 @@ Dusburgietis teigia, kad jäger E.
 - id: c-61722
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 264"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 264."
   citata_originali: |
     Jäger E. Prussia-Karten. 1542—1810: Geschichte der kartographischen Darstellung
     Ostpreußens vom 16. bis zum 19. Jahrhundert —A. H. Konrad Verlag, 1982.

@@ -33,16 +33,6 @@ Dėl šios ir kitų priežasčių lietuvių pogrindžio spauda nacių leistą sa
 - t-001
   global_id: t-22297
   teiginys: "Lietuvių pogrindžio spauda nacių leistą savivaldą vadino „savismauga“, nes jos pareigūnai tarnavo vokiečiams ir padėjo išnaudoti kraštą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "413091-413636; hash=a8ccce132c3f65c491e50bdfdb5b6a0a9dd92ed3f3d295d8465219e1364c0da5; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vokiečiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "savismauga: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Vokiečiai: mention_match, group, gap=40"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"savismauga\" parinktas kaip owner_note_path. Targetas \"Vokiečiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-166858
 
@@ -50,16 +40,6 @@ Dėl šios ir kitų priežasčių lietuvių pogrindžio spauda nacių leistą sa
 - t-001
   global_id: t-22297
   teiginys: "Lietuvių pogrindžio spauda nacių leistą savivaldą vadino „savismauga“, nes jos pareigūnai tarnavo vokiečiams ir padėjo išnaudoti kraštą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "413091-413636; hash=a8ccce132c3f65c491e50bdfdb5b6a0a9dd92ed3f3d295d8465219e1364c0da5; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vokiečiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "savismauga: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Vokiečiai: mention_match, group, gap=40"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"savismauga\" parinktas kaip owner_note_path. Targetas \"Vokiečiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-166858
 - susijęs iš [[objektai/posakiai/„viešpataujanti“ „ponų tauta“.md#claim-t-20961|„viešpataujanti“ „ponų tauta“]]: Naciai manė, kad dėl rasinio ir kultūrinio pranašumo vokiečių tauta turi būti „viešpataujanti“ arba „ponų tauta“.
@@ -80,8 +60,8 @@ Dėl šios ir kitų priežasčių lietuvių pogrindžio spauda nacių leistą sa
     doti kraštą. Dėl šios ir kitų priežasčių lietuvių pogrindžio spauda nacių
     leistą savivaldą vadino „savismauga“.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

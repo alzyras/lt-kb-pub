@@ -45,12 +45,6 @@ Nenurodyta
 - t-001
   global_id: t-194076
   teiginys: "Ogi Skir gaila nėra mūsų 2 krikščionių tikėjimo, jis yra rusų tikėjimo3 , kurio ir šiandien laikosi."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "306668-307094; hash=86a99d7577dfa48e9d2fb7ccb82a67556c5fe9eb4e9399f01b5a26ff7036087b; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176689
 
@@ -58,12 +52,6 @@ Nenurodyta
 - t-002
   global_id: t-194077
   teiginys: "Ir taip aš ir šiandien laikausi krikščionių tikėjimo."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "307095-307435; hash=7e646b8b4aa7e9e33f5464cf2453da62221b103841a8539df2e720b8c035f6b8; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176690
 ## Reikšmingi paminėjimai
@@ -86,8 +74,8 @@ Nenurodyta
     tikėjimo, kurj pirma buvau priėmęs, krikščionių tikė­
     jimo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -105,8 +93,8 @@ Nenurodyta
     jie prieš mano valią spyrė, kad aš priimčiau rusų ti­
     kėjimą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -142,7 +130,8 @@ Nenurodyta
 - id: c-176690
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 175"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 175."
   citata_originali: |
     Ir kai kunigaikštis Jogaila atsisėdo Krokuvoje ir
     Krokuvos karalystė 5  jį paėmė, tada aš vėl pareiškiau

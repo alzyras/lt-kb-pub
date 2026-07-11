@@ -55,14 +55,6 @@ Nenurodyta
 - t-001
   global_id: t-193687
   teiginys: "Pagal liberum veto teisę bajoriškojo parlamento – Seimo sprendimai turėjo būti priimami vienu balsu, o tai ypač kontrastavo su Vakarų Europos absoliutistinėmis santvarkomis ir trukdė stiprinti bei centralizuoti valstybę."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "120658-121451; hash=3621aecfc5e298b4b8a68f3a11886e7d51f7ea36dbe08d880b02a81b1d00b430; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-176356
 ## Reikšmingi paminėjimai
@@ -86,8 +78,8 @@ Nenurodyta
     64
     tiems karaimams, totoriams ir žydams.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

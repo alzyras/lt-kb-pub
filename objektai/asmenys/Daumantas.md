@@ -44,17 +44,6 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
 - t-003
   global_id: t-05161
   teiginys: "Daumantas, Nalšėnų kunigaikštis, mėgino pašalinti Mindaugą, bet neįstengė."
-  semantiniai_rysiai: "Daumantas (kunigaikštis, XV a.) buvo valdovas Nalšėnai (0.86); Daumantas (kunigaikštis, XV a.) buvo priešas Mindaugas (valdovas, XIII a.) (0.78)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "455631-455977; hash=dec0af2378da2487aaa522eb611b35bba600a40b708486bcb41d66b7a1badde7; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_valdovas -> Nalšėnai: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Daumantas (kunigaikštis, XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Nalšėnai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Daumantas tiesiogiai vadinamas Nalšėnų kunigaikščiu."
   pagrindžia:
     - c-04827
 
@@ -62,16 +51,6 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
 - t-004
   global_id: t-05162
   teiginys: "Daumantas buvo Mindaugo svogeris ir Treniotos sąjungininkas prieš Mindaugą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "544025-544707; hash=fa8abf5e650738dc41005d9085f0fce937ec097a3534fe5a3438c7b0fb6f4b4a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Treniota: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Daumantas (kunigaikštis, XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Treniota: mention_match, person, gap=36"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Daumantas (kunigaikštis, XV a.)\" parinktas kaip owner_note_path. Targetas \"Treniota\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-21645
 
@@ -79,16 +58,6 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
 - t-005
   global_id: t-05163
   teiginys: "Per krikštą Timofėjaus vardą priėmęs Daumantas buvo išrinktas Pskovo kunigaikščiu ir susigiminiavo su Riurikaičiais."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "553041-553575; hash=3a0506487c7ce1d899971bb02401dcef9aa4d9034a1a8daf0ab3a61045f6915e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Pskovas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Daumantas (kunigaikštis, XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Pskovas: mention_match, place, gap=25"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Daumantas (kunigaikštis, XV a.)\" parinktas kaip owner_note_path. Targetas \"Pskovas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-21646
 
@@ -96,19 +65,6 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
 - t-006
   global_id: t-05164
   teiginys: "1266 m. Daumantas su pskoviečiais puolė Nalšėnus."
-  semantiniai_rysiai: "Daumantas (kunigaikštis, XV a.) puolė Nalšėnai (0.95); Pskoviečiai puolė Nalšėnai (0.90)"
-  temporaliniai_duomenys: "įvykio data: 1266 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "553701-553931; hash=3ac414aec845484923668b4864832abbb2f4093d66101aaa3fb3766c74324ca6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Nalšėnai: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Daumantas (kunigaikštis, XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Nalšėnai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai pasako, kad Daumantas puolė Nalšėnus."
   pagrindžia:
     - c-04830
 
@@ -116,19 +72,6 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
 - t-013
   global_id: t-82249
   teiginys: "Kariuomenei vadovavo Nalšėnų kunigaikštis Daumantas."
-  semantiniai_rysiai: "Daumantas (kunigaikštis, XV a.) buvo valdovas Nalšėnai (0.88)"
-  temporaliniai_duomenys: "valdymo laikotarpis: 1263 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Daumantas (kunigaikštis, XV a.) buvo valdovas Nalšėnai“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "132528-132753; hash=8649b91a3ead3244435412a614618f48169be62d88096544d96228671941704f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_valdovas -> Nalšėnai: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Daumantas (kunigaikštis, XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Nalšėnai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Daumantas tiesiogiai vadinamas Nalšėnų kunigaikščiu."
   pagrindžia:
     - c-21642
 
@@ -136,19 +79,6 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
 - t-014
   global_id: t-82252
   teiginys: "Daumantas, spėjama, dalyvavo Mindaugo nužudyme, vėliau valdė Pskovą ir buvo Dovydo tėvas."
-  semantiniai_rysiai: "Daumantas (kunigaikštis, XV a.) valdė Pskovas (0.88)"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "146293-146613; hash=a1fee465cf5763447927a6cfe99557e273905122d32e6592518b088754b8cf05; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde -> Pskovas: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Daumantas (kunigaikštis, XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Pskovas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citatoje tiesiogiai nurodyta, kad Daumantas vėliau valdė Pskovą."
-  vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-21643
 
@@ -156,19 +86,6 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
 - t-008
   global_id: t-184683
   teiginys: "Daumantas buvo Nalšios kunigaikštis, kurio žmona, karalienės sesuo, atvyko į Mindaugo žmonos šermenis."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "179847-180271; hash=734db10e166f25aa4a9947914a387a31debe2f6fda6bd5705b428bc429c09164; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Mindaugas (valdovas, XIII a.): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Daumantas (kunigaikštis, XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Mindaugas (valdovas, XIII a.): mention_match, person, gap=77"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Daumantas (kunigaikštis, XV a.)\" parinktas kaip owner_note_path. Targetas \"Mindaugas (valdovas, XIII a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-168044
 
@@ -176,20 +93,6 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
 - t-009
   global_id: t-184684
   teiginys: "Po Mindaugo padarytos skriaudos Daumantas slėpė keršto troškimą ir slapta tardavosi su Treniota."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Daumantas (kunigaikštis, XV a.) buvo priešas Mindaugas (valdovas, XIII a.) (0.74)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "180158-180815; hash=1a7d19fcae1eb66cea46cf233379dc987cde240cabb94d34c7d669fb343f16d7; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_priesas -> Mindaugas (valdovas, XIII a.): 0.74"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Daumantas (kunigaikštis, XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Mindaugas (valdovas, XIII a.): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Daumanto keršto troškimas po Mindaugo skriaudos rodo priešiškumą Mindaugui."
   pagrindžia:
     - c-168045
 
@@ -197,20 +100,6 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
 - t-010
   global_id: t-184685
   teiginys: "Mindaugui įsakius žygiuoti prieš Briansko kunigaikštį, Daumantas paragino Treniotą pasinaudoti kariuomene."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Mindaugas (valdovas, XIII a.) siuntė į Brianskas (0.78)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "181543-182036; hash=59bfb3e0fc90cce604530a43f289763055d3a40ea5a09fcb53daffd39f561b33; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "siunte_i -> Brianskas: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Mindaugas (valdovas, XIII a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Brianskas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Mindaugas įsakė žygiuoti prieš Briansko kunigaikštį; kandidatuose pateiktas tik Brianskas kaip vieta."
   pagrindžia:
     - c-168046
 
@@ -218,20 +107,6 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
 - t-011
   global_id: t-184686
   teiginys: "Daumantui buvo duota Utenos kunigaikštystė, o kai kurie šaltiniai jam priskyrė Svyrių pilies įkūrimą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Daumantas (kunigaikštis, XV a.) valdė Utena (0.82)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "235778-236490; hash=9d01ce24f60635486d959a449169dbacae3154bc2d2d6f2fa79482e244212b8c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde -> Utena: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Daumantas (kunigaikštis, XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Utena: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Utenos kunigaikštystės suteikimas Daumantui rodo jo valdžią šioje teritorijoje."
   pagrindžia:
     - c-168047
 
@@ -239,20 +114,6 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
 - t-012
   global_id: t-184687
   teiginys: "Po žmonos laidotuvių Daumantas prievarta pasiliko Narimanto žmoną, norėdamas ja pakeisti mirusiąją."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Daumantas (kunigaikštis, XV a.) buvo priešas Narimantas (Pinsko kunigaikštis) (0.64)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "238815-239577; hash=07c784bdb477b8d53899de55ff23d261319db0169412e1bff6c188d8e9e9a1fc; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_priesas -> Narimantas (Pinsko kunigaikštis): 0.64"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Daumantas (kunigaikštis, XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Narimantas (Pinsko kunigaikštis): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Po Daumanto veiksmų Narimantas jam grasino, todėl priešiškumas yra aiškus, nors netiesioginis."
   pagrindžia:
     - c-168048
 
@@ -260,24 +121,6 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
 - t-014
   global_id: t-184689
   teiginys: "1441 m. žemaičiai, pašalinę Kęsgailos paliktus pareigūnus, išsirinko Daumantą kunigaikščiu ir rėmė Mykolą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1441 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Perrašyta pašalinant OCR triukšmą ir aiškiau susiejant veiksmus su citatos kontekstu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "146293-146613; hash=a1fee465cf5763447927a6cfe99557e273905122d32e6592518b088754b8cf05; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gardinas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Daumantas (kunigaikštis, XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Gardinas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Daumantas (kunigaikštis, XV a.)\" parinktas kaip owner_note_path. Targetas \"Gardinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-168050
 
@@ -285,12 +128,6 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
 - t-015
   global_id: t-193388
   teiginys: "Šaltiniai pasakoja, jog, patekęs po to į Pskovą, jis gana sėkmingai vedė pskoviečių jėgas prieš Livoniją; jo tremtį Pskovas ligi šiol prisimena, nes vie na gynybinė siena vadinama statytojo Daumanto vardu."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "239827-240661; hash=4da634176f1c97f9695eb98404e517248e13dd4a87351b44889a0e1642977ebd; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176113
 
@@ -298,12 +135,6 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
 - t-016
   global_id: t-193901
   teiginys: "Nalšios kunigaikščio Daumanto (m. 1299.V.20) pirmosios žmonos vardas nežinomas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "362855-363058; hash=65f8788503cd88f9fcad008e8d663cdc48c526bcdab4881c67c24b8600c9f8d8; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176526
 
@@ -311,12 +142,6 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
 - t-017
   global_id: t-193902
   teiginys: "Didysis kunigaikštis Narimantas, išgirdęs apie savo brolienės mirtį ir pats ne itin tvirtai jausdamasis, labai liūdėjo ir pasiuntė žmoną pas savo brolį Daumantą pa reikšti užuojautos."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "103618-104081; hash=1d04c2dfaf63a4cf6c7013fd3a3ce3eb752f1bb384bfc2d60a2d3b9c4b69ba5f; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176527
 
@@ -324,12 +149,6 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
 - t-018
   global_id: t-193903
   teiginys: "Kunigaikštis Daumantas suprato, kad ne jo jėgoms atsispirti, ir prašė savo pilėnų, kad jie neatiduotų pi lies, kol jis nebus prasiveržęs per Narimanto kariuo menę."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "104576-104987; hash=a72447574ba8496b8c798e1f826f690f57141e316241769c9d20ee2c80ef5f4e; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176528
 
@@ -337,12 +156,6 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
 - t-019
   global_id: t-194224
   teiginys: "Daumantas į Sinajaus kalną ir pakrikštija vardan Tėvo ir Sūnaus ir Šventosios Dvasios ir mokosi iš šventųjų knygų ir nusikerpa pagal vienuolišką stotą Šventajame kalne ir, prabuvęs Šventajame kalne trejus metus, ir pareina į savo žemę ir grįžta iš Sinajaus kalno pas savo tėvą kunigaikštį Mindaugą ir įkuria sau vienuolyną."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "119466-120625; hash=c90cb417cee4fe0cb463326a5f23e13963ef2dd434bbeb7fdd10f8fb77b98257; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176824
 - susijęs iš [[objektai/asmenys/Juozas Daumantas.md#claim-t-183745|Juozas Daumantas]]: Juozas Daumantas prisiminimuose pasakojo apie Tauro apygardos partizanų viešnagę per 1945 m. Kalėdas, pasibaigusią susišaudymu.
@@ -384,8 +197,8 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
     Mindaugą pašalinti, bet neįstengęs, nes — anot Ipatijaus metraščio —
     «Daumanto jėga buvo silpna, o Mindaugo didelė»^54.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -400,8 +213,8 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
     Įsikūręs naujoje žemėje, jau 1266 m. su pskoviečiais Daumantas
     puolė Nalšėnus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -415,8 +228,8 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
     m. jis išsiuntė savo kariuomenę prieš Briansko kunigaikštį.
     Kariuomenei vadovavo Nalšėnų kunigaikštis Daumantas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -433,8 +246,8 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
     Dovydą (spėjama, kad jis buvęs Mindaugo nužudyme dalyvavu-
     sio, o vėliau Pskovą valdžiusio, Daumanto sūnus).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -455,8 +268,8 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
     gininką Nalšėnų kunigaikštį Daumantą, Mindaugo švogerį, norėjusį
     atkeršyti asmenišką skriaudą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -481,8 +294,8 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
     Pskovo kunigaikščiu ir, vesdamas Aleksandro Nevskio sūnaus Dimi­
     tro dukterį, susigiminiavo su Riurikaičiais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -507,8 +320,8 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
     dorą, jis pasilaikė ją už
     žmoną.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -546,8 +359,8 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
     daugo sesers sūnumi. Jis, girdi, turįs ryžtis pagaliau
     tam, ko visi trokštą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -570,8 +383,8 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
     žudikai, pasiųsti į miegamąjį, pribaigė valdovą lovo­
     je.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -596,8 +409,8 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
     gebėdamas numatyti kitų troškimus, jis spėjo, jog ir
     taryba bei tauta tylomis Traidenį skyrė jo įpėdiniu.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -628,8 +441,8 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
     nęs dorovę, jis arba nematė
     pavojų, arba jų nepaisė.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -657,8 +470,8 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
     trukęs, ir pats čia atvyko su ištikimiausiais pulkais,
     pasiryžęs ginklu sutramdyti pasipūtėlius.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -689,8 +502,8 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
     nesulaukusi, ji vis dėlto suprato, koks reikalas, ir pa­
     sidavė Narimantui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -705,8 +518,8 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
     nigaikščiu, Daumantas vedė Aleksandro Nevskio sūnaus Dimitrijaus
     dukterį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -727,8 +540,8 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
     o dabar pats dievas man davė žmoną." Ir paėmė ją
     vieton žmonos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -747,8 +560,8 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
     tingą vyrą, išsirinko jį savo valdovu ir ėmė vadinti
     Pskovo didžiuoju kunigaikščiu2 2 .
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -791,8 +604,8 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
     jaus kalno pas savo tėvą kunigaikštį
     Mindaugą ir įkuria sau vienuolyną.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -927,7 +740,8 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
 - id: c-168044
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 107"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 107."
   citata_originali: |
     Vargu ar prislėgti
     krikščionys būtų kada lengviau atsikvėpę, jeigu be­
@@ -992,7 +806,8 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
 - id: c-168046
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 108"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 108."
   citata_originali: |
     Mat tuo
     metu
@@ -1016,7 +831,8 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
 - id: c-168047
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 138"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 138."
   citata_originali: |
     Giedriui buvo
     duotos plačios valdos šiaurės pusėje: jis davė pradžią
@@ -1042,7 +858,8 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
 - id: c-168048
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 140"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 140."
   citata_originali: |
     Netikėtai mirė
     Daumanto, Utenos kunigaikščio, žmona; kaip reikalavo
@@ -1074,7 +891,8 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
 - id: c-168050
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 473"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 473."
   citata_originali: |
     Likę žiemos mėnesiai buvo
     1441 m eta i
@@ -1135,7 +953,8 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
 - id: c-176526
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 203"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 203."
   citata_originali: |
     Nalšios kunigaikščio Daumanto (m. 1299.V.20) pirmosios žmonos
     vardas nežinomas. 1266 m. persikėlęs j Pskovą ir tapęs Pskovo ku­
@@ -1151,7 +970,8 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
 - id: c-176527
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 58"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 58."
   citata_originali: |
     Didysis kunigaikštis Narimantas, išgirdęs apie savo
     brolienės mirtį ir pats ne itin tvirtai jausdamasis, labai
@@ -1235,10 +1055,6 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
     - t-194224
 
 ## Ryšiai
-- Priešai: [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]], [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]]
-- Daumantas (kunigaikštis, XV a.) buvo valdovas [[objektai/vietos/Nalšėnai]], [[objektai/vietos/Nalšia]]
-- Daumantas (kunigaikštis, XV a.) valdė [[objektai/vietos/Polockas]], [[objektai/vietos/Pskovas]], [[objektai/vietos/Utena]]
-- Daumantas (kunigaikštis, XV a.) keliavo į [[objektai/vietos/Pskovas]]
-- Daumantas (kunigaikštis, XV a.) pastatė [[objektai/vietos/Svyrių pilis|Svyrių pilis (pilis)]]
+- Daumantas (kunigaikštis, XV a.) valdė [[objektai/vietos/Polockas]]
 - Daumantas (kunigaikštis, XV a.) puolė [[objektai/vietos/Nalšėnai]]
 - Daumantas (kunigaikštis, XV a.) surengė žygį į [[objektai/vietos/Nalšėnai]]

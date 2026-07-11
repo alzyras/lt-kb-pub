@@ -43,17 +43,6 @@ media_all_json: |-
 - t-001
   global_id: t-87561
   teiginys: "Petrašu Montgirdaitis, Naugarduko vaivada, prisidėjo prie Žygimanto žygio į Švitrigailos dvarą prie Ašmenos."
-  semantiniai_rysiai: "Petrašu Montgirdaitis surengė žygį į Ašmena (0.74)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "436404-437940; hash=3aa0ec0c924649780a0a8a2fc26c76528679c9a750698704c0c43deee41afb17; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Švitrigaila: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Žygimantas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Žygimanto pajėgos įsiveržė į Švitrigailos dvarą, todėl puolimo objektas yra Švitrigaila."
   pagrindžia:
     - c-83540
 ## Reikšmingi paminėjimai
@@ -107,8 +96,8 @@ media_all_json: |-
     jo jau nerado, nes šis, ką tik įspėtas Trakų vaivados Manvy-
     do, lydimas kelių totorių vadų, išsigelbėjo pabėgdamas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -171,6 +160,3 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87561
-
-## Ryšiai
-- Petrašu Montgirdaitis surengė žygį į [[objektai/vietos/Ašmena]]

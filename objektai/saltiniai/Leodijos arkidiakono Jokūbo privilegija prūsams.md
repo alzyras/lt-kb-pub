@@ -36,21 +36,6 @@ Narbutas ypač reikšmingomis laiko Hartknocho pateiktas ištraukas iš Leodijos
 - t-001
   global_id: t-190543
   teiginys: "Narbutas ypač reikšmingomis laiko Hartknocho pateiktas ištraukas iš Leodijos arkidiakono Jokūbo privilegijos, duotos prūsams 1249 metais."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "485234-485755; hash=f0cbf55f07f8a2fcd426f44b0518041e3fca65f54e7c8262a8f1ebe78e433ff2; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jokūbas (vėliau Urbonas IV): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Leodijos arkidiakono Jokūbo privilegija prūsams: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Jokūbas (vėliau Urbonas IV): mention_match, person, gap=21"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Leodijos arkidiakono Jokūbo privilegija prūsams\" parinktas kaip owner_note_path. Targetas \"Jokūbas (vėliau Urbonas IV)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173426
 ## Reikšmingi paminėjimai
@@ -70,8 +55,8 @@ Narbutas ypač reikšmingomis laiko Hartknocho pateiktas ištraukas iš Leodijos
     su kuriuo išlukštenama tiesa iš per amžius susikaupusios pai­
     niavos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -82,7 +67,8 @@ Narbutas ypač reikšmingomis laiko Hartknocho pateiktas ištraukas iš Leodijos
 - id: c-173426
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 278"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 278."
   citata_originali: |
     Todėl plačios galimybės maitintis visuomenės lengvatikiš­
     kumu leido laikyti daug žynių.

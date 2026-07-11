@@ -53,9 +53,6 @@ Nenurodyta
 - t-001
   global_id: t-67058
   teiginys: "Vykdant baudžiavos panaikinimo reformą valstiečiai bijojo naujų prievolių, bruzdėjo ir atsisakinėjo sudaryti sutartis su ponais."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "944660-945144; hash=765c1ab06e8187593f9aef41433c51295674a7a366a9ca28052a577ddc3aec48; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-67108
 
@@ -63,11 +60,6 @@ Nenurodyta
 - t-002
   global_id: t-67059
   teiginys: "Baudžiavos panaikinimo reformoje su valstiečiais turėjo būti sudarytos specialios sutartys."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "944150-944444; hash=2cd8e8843bc59cc1530c8facdd2ed3ca6ca8311515110155af1c9bcfa3268371; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-67107
 ## Reikšmingi paminėjimai
@@ -83,8 +75,8 @@ Nenurodyta
     praėjo paskirtasis laikas (2 metai), o tokių sutarčių teatsirado
     vos tiktai keletas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -105,8 +97,8 @@ Nenurodyta
     gali sulaukti naujų prievolių, ėmė net bruzdėti ir atsisakinėjo
     daryti sutartis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

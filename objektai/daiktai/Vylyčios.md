@@ -50,10 +50,6 @@ Nenurodyta
 - t-001
   global_id: t-08348
   teiginys: "Vienas aprašytas stabas rankoje turėjo vylyčias."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "187667-187825; hash=bfeff9d4ac15f06a205ab2e71099d5fc5e5746c2492a1d9ce5a911db76a6b63d; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-10302
 
@@ -61,17 +57,6 @@ Nenurodyta
 - t-002
   global_id: t-08349
   teiginys: "Kareiviui į kapą dėjo vylyčias kartu su kitais ginklais ir įrankiais."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "180811-181058; hash=1eccfb3a3aa9f4e5ed61f02a838e3b8e47ce32dcbef4f2e6bd73c89707425069; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Ginklai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vylyčios: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Ginklai: mention_match, thing, gap=25"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vylyčios\" parinktas kaip owner_note_path. Targetas \"Ginklai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-10303
 ## Reikšmingi paminėjimai
@@ -84,8 +69,8 @@ Nenurodyta
         pavėdus į amžiaus vyrą, kursai turėjęs veidą drąsų ir raudoną, barzdą garbanotą, ant galvos
         liepsnas tvaskančias, rankoje vylyčias.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -98,8 +83,8 @@ Nenurodyta
         darbininkui kirvį, dailidei kaltą, grąžtą, motriškosioms varpstę ir kuodelį, tardami, jog ir mirus tą
         patį darbą reiks atlikti, kurį ant svieto dirbo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

@@ -30,22 +30,6 @@ Narbutas signotus (Sigonotta) laiko Atrimpo arba Gardaičio žyniais, kurių bū
 - t-001
   global_id: t-189331
   teiginys: "Narbutas signotus (Sigonotta) laiko Atrimpo arba Gardaičio žyniais, kurių būta pajūrio srityse."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Prūsai puolė Adalbertas (0.90); Signotai gyveno Pajūris (0.76)"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "514528-515039; hash=2bffecb785cf5972d932ffb6cb6d855f6d4464f70393f08a8b03f1145a33df48; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Adalbertas: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Prūsai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Adalbertas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo prūsų puolimą prieš Adalbertą."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172218
 ## Reikšmingi paminėjimai
@@ -64,8 +48,8 @@ Narbutas signotus (Sigonotta) laiko Atrimpo arba Gardaičio žyniais, kurių bū
     tėje, prūsams užpuolus tą apaštalą, tos minios vadas buvo stab­
     meldžių žynys Siggo, kuris buvo pats pirmasis žudikas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -76,7 +60,8 @@ Narbutas signotus (Sigonotta) laiko Atrimpo arba Gardaičio žyniais, kurių bū
 - id: c-172218
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 294"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 294."
   citata_originali: |
     Signotai (Sigonottaį
     Tai buvo vienuoliai, vienuolijų nariai, kadangi žodis Sigos

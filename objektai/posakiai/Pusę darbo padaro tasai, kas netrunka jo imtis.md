@@ -35,17 +35,6 @@ Dusburgietis teigia, kad jie ir paprašė minėtąjį kunigaikštį pastatydinti
 - t-001
   global_id: t-59158
   teiginys: "Posakis „Pusę darbo padaro tasai, kas netrunka jo imtis“ kronikoje pateikiamas kaip poeto žodžiai, kuriuos prisiminęs Lenkijos kunigaikštis pastatė pilį prie Torunės."
-  semantiniai_rysiai: "Prūsija priklausė Teutonai (0.72)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "155769-156657; hash=6f580ed62c040e5e820b1a60f6c239964570bd8a7fd67e3e3a2633fe458dbbde; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Teutonai: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Prūsija: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Teutonai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Tekstas nurodo, kad Prūsijos žemė buvo anksčiau atiduota Teutonų ordino broliams."
   pagrindžia:
     - c-59790
 ## Reikšmingi paminėjimai
@@ -69,8 +58,8 @@ Dusburgietis teigia, kad jie ir paprašė minėtąjį kunigaikštį pastatydinti
       179 Praleistuose skyreliuose (II, 8 ir II, 9) kronikininkas, remdamasis bibliją, aiškina,
     kas tai yra „daiktiški ir dvasiniai ginklai” ir kokią jie teikia naudą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -81,7 +70,8 @@ Dusburgietis teigia, kad jie ir paprašė minėtąjį kunigaikštį pastatydinti
 - id: c-59790
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 49"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 49."
   citata_originali: |
     Aptarę karui reikalingus ginklus, turime grįžti prie savo tiesioginio uždavinio (1226).
     Kadangi minėtieji Teutonų namų ordino broliai, tai yra brolis Konradas bei jo bičiulis,

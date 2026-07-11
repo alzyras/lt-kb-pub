@@ -54,16 +54,6 @@ Sujungta, nes šaltinis aiškiai sako `Isteris, arba Dunojus`.
 - t-004
   global_id: t-67995
   teiginys: "Isteris, arba Dunojus, yra viena iš didžiųjų pietinės įšleities upių."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "15038-15532; hash=5000de9fdd01bd13a4069ff1ddb90a8157d69c63207c5ff475ee8c29782cff72; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Viena: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Isteris: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Viena: mention_match, place, gap=27"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Isteris\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-10485
 
@@ -71,14 +61,6 @@ Sujungta, nes šaltinis aiškiai sako `Isteris, arba Dunojus`.
 - t-005
   global_id: t-194928
   teiginys: "Skitų valdos, arba veikiau didžiulis kraštas, po kurį jie klajojo, ribojosi Dono upe, Azovo ir Juodąja jūromis, Dunojumi, nuo Dunojaus iki Dnestro versmių plytinčio mis kalnuotomis dykumomis, paskui beveik ta pačia kryp timi nubrėžta linija iki 52 laipsnių."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "87430-88154; hash=e23e84d9f63e8a3ad344fd6ccd5f63fc3b861af0274f3bfd473e4f4f209a4caa; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-177324
 
@@ -86,14 +68,6 @@ Sujungta, nes šaltinis aiškiai sako `Isteris, arba Dunojus`.
 - t-006
   global_id: t-194929
   teiginys: "Kitas skitų upes, nepaisant jų pavadinimų sugraikinimo, atpažinti lengviau: Istras, šiandien Dunojus, Tyras, šiandien Dnestras, Hipanis, šiandien Būgas (pastaro sios dvi tekėjo iš klajoklių mizonų gyvenamo krašto), Boristenis, šiandien Dnepras."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "91993-92583; hash=31928997ad81b4db744904a07c89367f905d3290eb5bb7f2865273f00d5b9d25; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-177325
 
@@ -101,14 +75,6 @@ Sujungta, nes šaltinis aiškiai sako `Isteris, arba Dunojus`.
 - t-007
   global_id: t-194930
   teiginys: "Mirus Aleksandrui Didžiajam, kai ėmė vis labiau silpti Makedo nijos karalystės valdžios galybė, padažnėjo grobikiškų žygių įvairių agresyvių tautų, besiskverbiančių vis toliau į pietus, iki pat Dunojaus, o kai kuriose vietose — į deši niąją jo pakrantę."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "371375-371956; hash=828ed2691307b4c24f72aa4b369a28405b757298c7f0530b10d6e8f7ca428732; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-177326
 - susijęs iš [[objektai/grupes/Getai.md#claim-t-192938|Getai]]: Narbutas rašo, kad prie Dunojaus gyvenę pietiniai getai gerai sutarė su skitais.
@@ -212,8 +178,8 @@ Sujungta, nes šaltinis aiškiai sako `Isteris, arba Dunojus`.
         teka nuo tos kalvos į Uksinę, arba Juodąją, marę, tarp kurių didžiosios yra: Niperis, Tyrulė ir
         Isteris, arba Dunojus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -240,8 +206,8 @@ Sujungta, nes šaltinis aiškiai sako `Isteris, arba Dunojus`.
     Skitų gentys dalijosi į įvairias kartas arba klases, bet
     dvi svarbiausios buvo šios: žemdirbių ir klajoklių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -266,8 +232,8 @@ Sujungta, nes šaltinis aiškiai sako `Isteris, arba Dunojus`.
     ti, nes jis yra mitinės kilmės ir paimtas iš skitų mitologi­
     1 Ibid.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -290,8 +256,8 @@ Sujungta, nes šaltinis aiškiai sako `Isteris, arba Dunojus`.
     čių manyti, jog ir gelonų kariuomenė ėjusi grobio į Pie­
     tus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -319,7 +285,8 @@ Sujungta, nes šaltinis aiškiai sako `Isteris, arba Dunojus`.
 - id: c-177324
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 51"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 51."
   citata_originali: |
     Toks skitų tautos
     bruožų vaizdas susidaro iš Herodoto, kuris pats asme­
@@ -347,7 +314,8 @@ Sujungta, nes šaltinis aiškiai sako `Isteris, arba Dunojus`.
 - id: c-177325
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 53"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 53."
   citata_originali: |
     Vadina­
     si, būta skitų gerų—kapakasių genties, kažkokios skitų
@@ -373,7 +341,8 @@ Sujungta, nes šaltinis aiškiai sako `Isteris, arba Dunojus`.
 - id: c-177326
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 202"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 202."
   citata_originali: |
     207
     Vėliau, laikui bėgant, iš istorinio netikrumo ūkanų dar
@@ -395,5 +364,5 @@ Sujungta, nes šaltinis aiškiai sako `Isteris, arba Dunojus`.
     - t-194930
 
 ## Ryšiai
-- Buvo kelionės vieta: [[objektai/asmenys/Eduka]], [[objektai/grupes/Herulai]], [[objektai/grupes/Persai]]
-- Gyvenamoji vieta: [[objektai/grupes/Getai]], [[objektai/grupes/Herulai]], [[objektai/grupes/Jotvingiai]], [[objektai/grupes/Skiriai]], [[objektai/grupes/Sudargai]]
+- Buvo kelionės vieta: [[objektai/grupes/Herulai]]
+- Gyvenamoji vieta: [[objektai/grupes/Getai]]

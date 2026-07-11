@@ -30,21 +30,6 @@ Teodoras Narbutas nurodo, kad jo minimi dokumentai yra Kasiodoro laiškų rinkin
 - t-001
   global_id: t-191786
   teiginys: "Teodoras Narbutas nurodo, kad jo minimi dokumentai yra Kasiodoro laiškų rinkinyje."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "571321-571605; hash=f0ad44a7ad15ae45574240608569c4077823cea8e25e4ca80a96083fd3cedda0; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Teodoras Narbutas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kasiodoro laiškų rinkinys: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Teodoras Narbutas: mention_match, person, gap=55"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kasiodoro laiškų rinkinys\" parinktas kaip owner_note_path. Targetas \"Teodoras Narbutas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174668
 ## Reikšmingi paminėjimai
@@ -63,8 +48,8 @@ Teodoras Narbutas nurodo, kad jo minimi dokumentai yra Kasiodoro laiškų rinkin
     bės, kur jis išsaugojo senus įstatymus, institucijas ir
     kitą civilinę tvarką.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

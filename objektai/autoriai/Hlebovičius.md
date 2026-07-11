@@ -35,12 +35,6 @@ Pats miestas tiesiog visai sunai­ kintas, Kreivoji, arba Žemutinė, pilis, iš
 - t-001
   global_id: t-194320
   teiginys: "Pats miestas tiesiog visai sunai kintas, Kreivoji, arba Žemutinė, pilis, išskyrus mūrinę da lį, sudeginta; Aukštutinė tvirtovė pagaliau per daugybę išardų susilpninta; tiktai neįveikiamas Moskoževskis su dar ir Onacevičiaus pastabą, prie Hlebovičiaus Vytauto."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "281942-282518; hash=4b532b2ff8922fa69846720bf0aeed74f2bff85babf5e658187a694ad3eb6287; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176912
 ## Reikšmingi paminėjimai
@@ -63,8 +57,8 @@ Pats miestas tiesiog visai sunai­ kintas, Kreivoji, arba Žemutinė, pilis, iš
     nių netekę, kas visiškai prieštarauja
     tikrovei.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

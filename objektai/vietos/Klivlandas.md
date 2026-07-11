@@ -39,20 +39,6 @@ Smetona žuvo Klivlande per gaisrą.
 - t-001
   global_id: t-15274
   teiginys: "1944 m. sausį Antanas Smetona žuvo Klivlande per gaisrą."
-  semantiniai_rysiai: "Antanas Smetona (Lietuvos prezidentas, XX a.) mirė Klivlandas (0.95)"
-  temporaliniai_duomenys: "įvykio data: 1940 m.; įvykio data: 1944 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, konkretus ir tiesiogiai paremtas citata apie Antano Smetonos žūtį Klivlande."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "461509-461878; hash=395aa366875c6614eb5e9efbc98cfdfa3144337c899f84df1d29f848aafa1318; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "mire -> Klivlandas: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Antanas Smetona (Lietuvos prezidentas, XX a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Klivlandas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Antano Smetonos žūties vietą."
   pagrindžia:
     - c-18292
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75723|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1940 m. birželį iš Lietuvos išvykęs Antanas Smetona per Vokietiją, Šveicariją ir Portugaliją pasitraukė į JAV.
@@ -79,8 +65,8 @@ Smetona žuvo Klivlande per gaisrą.
     nevykdyti politinės veiklos, tad apsiribojo ryšiais su JAV lietuviais ir Lietu-
     vos diplomatais. 1944 m. sausį A. Smetona žuvo Klivlande per gaisrą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

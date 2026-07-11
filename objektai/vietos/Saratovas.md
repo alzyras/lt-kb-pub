@@ -30,21 +30,6 @@ Narbutas, remdamasis Lasickiu, Guboją ir Tvertiką vadina Saratovo miesto feti�
 - t-001
   global_id: t-189062
   teiginys: "Narbutas, remdamasis Lasickiu, Guboją ir Tvertiką vadina Saratovo miesto fetišais."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "351103-351304; hash=d94fd5e782a26119101b183c2bd91a8f6fb5bc9a4a0e7f5da4e897d7836822e1; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Rietavas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Saratovas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Rietavas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Saratovas\" parinktas kaip owner_note_path. Targetas \"Rietavas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171951
 - susijęs iš Rietavas: Narbutas Vetustį apibūdino kaip Rietavo miestelio fetišą ir aiškino jo reikšmę lietuvišku žodžiu „senovinis“.
@@ -65,8 +50,8 @@ Narbutas, remdamasis Lasickiu, Guboją ir Tvertiką vadina Saratovo miesto feti�
     Saratovo miesto fetišai. Šiuos aštuonis dievukus mini La-
     sickis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

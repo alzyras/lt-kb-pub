@@ -33,16 +33,6 @@ Lietuvoje pasirinkta visos tautos renkamo prezidento institucija, tad Lietuva yr
 - t-001
   global_id: t-22020
   teiginys: "Lietuvoje pasirinkta visos tautos renkamo prezidento institucija, bet valdymo sistema liko labiau orientuota į parlamentinį valdymą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "510122-510989; hash=cc11a96bea4ebf068d91a52645cc35672c591fe21ac7649769b9a84fc1ac2e1b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Abiejų Tautų Respublika: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Pusiau prezidentinė ir parlamentinė valdymo sistema: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Abiejų Tautų Respublika: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pusiau prezidentinė ir parlamentinė valdymo sistema\" parinktas kaip owner_note_path. Targetas \"Abiejų Tautų Respublika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-24703
 ## Reikšmingi paminėjimai
@@ -64,8 +54,8 @@ Lietuvoje pasirinkta visos tautos renkamo prezidento institucija, tad Lietuva yr
     kompromisas, labiau į parlamentinį valdymą orientuota sistema, nes pre-
     zidentinei valdymo formai nepritarta.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -32,17 +32,6 @@ Taip pat buvo jam paklusnūs ir Krymo totoriai, kur įsigalėjo su Vytautu susit
 - t-001
   global_id: t-35047
   teiginys: "Chanas Devletberdi įsigalėjo Kryme, susitaikė su Vytautu ir vėliau buvo Machmeto nužudytas."
-  semantiniai_rysiai: "Devletberdi valdė Krymas (0.82)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "357851-358239; hash=1d91ae5db9d347f3c308a7a8f618e7c7bcd3136cf2b5c8c23da81cf850354bcc; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde -> Krymas: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Devletberdi: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Krymas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Devletberdi įsigalėjo Kryme, todėl ryšys su valdymu pagrįstas."
   pagrindžia:
     - c-37998
 ## Reikšmingi paminėjimai
@@ -58,8 +47,8 @@ Taip pat buvo jam paklusnūs ir Krymo totoriai, kur įsigalėjo su Vytautu susit
     priklausančių, nes daug jų gyveno Podolijoj, Kijevo apylinkėse,
     o kai kurie net etnografinėje Lietuvoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -87,6 +76,3 @@ Taip pat buvo jam paklusnūs ir Krymo totoriai, kur įsigalėjo su Vytautu susit
   patikimumo_saltinis: ai
   pagrindzia:
     - t-35047
-
-## Ryšiai
-- Devletberdi valdė [[objektai/vietos/Krymas]]

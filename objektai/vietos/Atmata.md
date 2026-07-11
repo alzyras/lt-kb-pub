@@ -32,11 +32,6 @@ Dusburgietis teigia, kad atlanto vandenynas Atmata, u.
 - t-001
   global_id: t-58682
   teiginys: "Atlanto vandenynas Atmata, u."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "839942-839998; hash=042aff4e33ac7e372df0821e00af1ce2670ae387f9f7f6d0692b7419fb3be8b7; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
-  vertinimo_autorius: "claim_quality_pipeline / rewrite"
   pagrindžia:
     - c-59314
 ## Reikšmingi paminėjimai
@@ -50,8 +45,8 @@ Dusburgietis teigia, kad atlanto vandenynas Atmata, u.
     Atmata, u.
     Atrebatas (dab.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -62,7 +57,8 @@ Dusburgietis teigia, kad atlanto vandenynas Atmata, u.
 - id: c-59314
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 299"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 299."
   citata_originali: |
     Ašvena, u.
     Atlanto vandenynas

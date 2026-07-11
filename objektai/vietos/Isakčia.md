@@ -30,14 +30,6 @@ Kažkur prie šiandienės Isakčios jie persikėlė per šią upę tiltu, kuriam
 - t-001
   global_id: t-194932
   teiginys: "Kažkur prie šiandienės Isakčios jie persikėlė per šią upę tiltu, kuriam pastatyti reikėjo daug darbo ir kurį saugoti patikėjo grai kams."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "96500-96848; hash=98378a978504d2a9a2332e705fdc57e3a547b8b66b59418244ffb63e15c5fe2d; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-177328
 - susijęs iš [[objektai/grupes/Graikai.md#claim-t-192406|Graikai]]: 514 metais prieš Kristų persų būriai, remiami graikų sąjungininkų, įžengė į Europą ir brovėsi Dunojaus link.
@@ -58,8 +50,8 @@ Kažkur prie šiandienės Isakčios jie persikėlė per šią upę tiltu, kuriam
     pastatyti reikėjo daug darbo ir kurį saugoti patikėjo grai­
     kams.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -70,7 +62,8 @@ Kažkur prie šiandienės Isakčios jie persikėlė per šią upę tiltu, kuriam
 - id: c-177328
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 56"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 56."
   citata_originali: |
     39
     Po kurio laiko, 514 metais prieš Kristaus gimimą, kai

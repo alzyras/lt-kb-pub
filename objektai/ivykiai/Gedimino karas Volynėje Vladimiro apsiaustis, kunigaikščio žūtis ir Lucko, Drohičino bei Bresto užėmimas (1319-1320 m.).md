@@ -49,19 +49,6 @@ Nenurodyta
 - t-001
   global_id: t-185504
   teiginys: "Gediminas pirmąjį smūgį Volynės pasienyje nukreipė į Vladimirą ir apsupo kunigaikščio Vladimiro sostinę."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "340636-341038; hash=80999137fe4c316bea63ae416cec97e4091ec3ed40be1415770b47bb18271376; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gedimino karas Volynėje Vladimiro apsiaustis, kunigaikščio žūtis ir Lucko, Drohičino bei Bresto užėmimas (1319-1320 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gedimino karas Volynėje Vladimiro apsiaustis, kunigaikščio žūtis ir Lucko, Drohičino bei Bresto užėmimas (1319-1320 m.)\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-168865
 
@@ -69,12 +56,6 @@ Nenurodyta
 - t-002
   global_id: t-193353
   teiginys: "Mat, kol jis kovojo su kryžiuočiais, daugelis rusų kunigaikščių atsisakė jo klaukur visai nebuvo pėstininkų, žuvo, įsisiautėjus kautynėms."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "341843-342514; hash=b823e7dade62d1e9d094ad60b792879bddcadbe343bc1f90d0692d55dccc2889; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176081
 ## Reikšmingi paminėjimai
@@ -94,8 +75,8 @@ Nenurodyta
     tą atkakliai puolė iš visų pusių, vis dėlto miestiečiai
     atrėmė puolimą, vildamiesi, jog neužtruks parama.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -131,8 +112,8 @@ Nenurodyta
     žuvo, įsisiautėjus kautynėms. Po šios pergalės pasida­
     vė Gediminui ne tik miestas, bet ir visas kraštas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -143,7 +124,8 @@ Nenurodyta
 - id: c-168865
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 197"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 197."
   citata_originali: |
     Gediminas, pasinaudojęs
     G edim in as,

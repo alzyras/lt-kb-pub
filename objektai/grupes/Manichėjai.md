@@ -30,21 +30,6 @@ Narbutas aiškina, kad senieji katalikų rašytojai manichėjiečiais galėjo va
 - t-001
   global_id: t-189457
   teiginys: "Narbutas aiškina, kad senieji katalikų rašytojai manichėjiečiais galėjo vadinti rusų sektantus ir kitus viduramžių eretikus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "708892-709501; hash=0c5559fc18b47614b54b6f8685d4685dadc2ad4c424a687d736ef8f9c79df8ac; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Rusai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Manichėjai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Rusai: mention_match, group, gap=31"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Manichėjai\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172344
 - susijęs iš [[objektai/paprociai/Rusų tikėjimo žmonių perkrikštijimas Lenkijos bažnyčioje.md#claim-t-189939|Rusų tikėjimo žmonių perkrikštijimas Lenkijos bažnyčioje]]: Narbutas smerkė kunigus, kurie antrą kartą krikštijo Lietuvoje manichėjais vadintus žmones, nes krikšto kartoti nedera.
@@ -70,8 +55,8 @@ Narbutas aiškina, kad senieji katalikų rašytojai manichėjiečiais galėjo va
     Mat katalikai taip neapkentė manichėjiečių ir agapijonų
     sektos, kad žodžiai „eretikas“ ir „manichėjietis“ reiškė tą patį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -105,6 +90,3 @@ Narbutas aiškina, kad senieji katalikų rašytojai manichėjiečiais galėjo va
   patikimumo_saltinis: ai
   pagrindzia:
     - t-189457
-
-## Ryšiai
-- Manichėjai gyveno [[objektai/vietos/Lietuva]]

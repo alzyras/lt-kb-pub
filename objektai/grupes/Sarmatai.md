@@ -30,22 +30,6 @@ Narbutas, remdamasis Plinijumi, sarmatus vadino medų palikuonimis, gyvenusiais 
 - t-002
   global_id: t-192961
   teiginys: "Narbutas, remdamasis Plinijumi, sarmatus vadino medų palikuonimis, gyvenusiais prie Dono žemupio ir Juodosios jūros."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Sarmatai gyveno Donas (0.88)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "105654-106368; hash=5918f1af19d4c6e300fea2c5c20441a73302485caf0192e991d4bdfa2dff001f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Donas: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Sarmatai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Donas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Sarmatai tiesiogiai apibūdinti kaip gyvenę prie Dono žemupio."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175731
 
@@ -53,12 +37,6 @@ Narbutas, remdamasis Plinijumi, sarmatus vadino medų palikuonimis, gyvenusiais 
 - t-003
   global_id: t-194865
   teiginys: "Įpusėjus IV amžiui prieš Kristaus gimimą, sarmatai jau buvo įtakinga dešiniosios Dnepro pakrantės tauta."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "103922-104285; hash=d37240a475b0245be7a88511d20fe1ba053ab65bf61d9c6fc7349c934e0c2496; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177261
 - susijęs iš [[objektai/asmenys/Valuzianas.md#claim-t-191482|Valuzianas]]: Narbutas rašė, kad apie 253 metus finų, galindų ir venedų būriai kariavo su imperatoriumi Valuzianu, vėliau šlovintu kaip jų nugalėtoju.
@@ -130,8 +108,8 @@ Narbutas, remdamasis Plinijumi, sarmatus vadino medų palikuonimis, gyvenusiais 
     kaip teigia mūsų senovės tyrinėtojas2, ir kalbą reikėtų
     laikyti panašia j skitų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -154,8 +132,8 @@ Narbutas, remdamasis Plinijumi, sarmatus vadino medų palikuonimis, gyvenusiais 
     gyvenusios nuo Juodosios iki Baltijos jūros, priskiriamos
     sarmatams.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -217,6 +195,4 @@ Narbutas, remdamasis Plinijumi, sarmatus vadino medų palikuonimis, gyvenusiais 
     - t-194865
 
 ## Ryšiai
-- Kariavo prieš: [[objektai/grupes/Romėnai]], [[objektai/asmenys/Valuzianas]]
-- Sarmatai surengė žygį į [[objektai/vietos/Skitija]]
-- Sarmatai gyveno [[objektai/vietos/Dnepras]], [[objektai/vietos/Donas]]
+- Sarmatai gyveno [[objektai/vietos/Donas]]

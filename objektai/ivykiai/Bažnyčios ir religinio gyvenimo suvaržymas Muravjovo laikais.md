@@ -51,9 +51,6 @@ Nenurodyta
 - t-002
   global_id: t-66488
   teiginys: "Muravjovo laikais buvo uždarytos 32 su sukilimu sietos bažnyčios, 52 koplyčios ir apie 20 vienuolynų."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "983811-984221; hash=9db9316ff2779eeb24d024eea3d5d5343fd1627aeb07f734afd92000cd98e128; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-66705
 
@@ -61,9 +58,6 @@ Nenurodyta
 - t-001
   global_id: t-66489
   teiginys: "Muravjovo laikais buvo uždrausta statyti naujas ir remontuoti senas bažnyčias, rengti procesijas ir viešai sakyti pamokslus."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "983372-983810; hash=54d89e974b6aac9690bbd1913dbc980d1e5798764d7e8829039058389c063e4b; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-66703
 
@@ -71,9 +65,6 @@ Nenurodyta
 - t-004
   global_id: t-66490
   teiginys: "Muravjovo laikais Žemaičių vyskupui su įstaigomis buvo įsakyta persikelti iš Varnių į Kauną."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "984837-985208; hash=9e6497df714ded0c29ca27acc776bd8484302dea92710b24fce53602ee0059ca; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-66706
 
@@ -81,9 +72,6 @@ Nenurodyta
 - t-003
   global_id: t-66492
   teiginys: "Muravjovo laikais Lietuvos kaimuose ir pakelėse kryžius buvo uždrausta statyti be leidimo."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "984349-984695; hash=f50b98072cafed1dd7d77d1c450af8a3ad06f33afd4702c6e082b0a8f09732db; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-66707
 ## Reikšmingi paminėjimai
@@ -102,8 +90,8 @@ Nenurodyta
     mokslus leido sakyti tik iš spausdintų ir valdžios patvirtin-
     tų pamokslų rinkinių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -122,8 +110,8 @@ Nenurodyta
     Apie 20 vienuolynų pripažino dalyvavus sukilime ir juos už-
     darė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -140,8 +128,8 @@ Nenurodyta
     niekas iš kapitulos narių be leidimo neišvažiuotų iš miesto. Taip
     pat buvo įsakyta sekti visus kunigus, atvykstančius pas vyskupą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -158,8 +146,8 @@ Nenurodyta
     tik tokie kryžiai, kurie, esą, aiškiai skirti religiniams reikalams,
     o ne „lenkiškajai propagandai".
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

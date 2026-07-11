@@ -42,21 +42,6 @@ Nenurodyta
 - t-001
   global_id: t-191032
   teiginys: "Teodoro Narbuto aiškinimu, alanai darė įtaką kai kurioms lietuvių genties tautoms, bet stavanai ir galindai savo žemėse gyveno dar iki alanų kaimynystės."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "343738-344458; hash=efcb74cdcbaa94ee20ed496c2164e7b36f30bc104bc6c6e26697fcd2654b890a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Galindai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Narbuto aptariamas alanų atklydimas iki Baltijos jūros pakrančių: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Galindai: mention_match, group, gap=91"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Narbuto aptariamas alanų atklydimas iki Baltijos jūros pakrančių\" parinktas kaip owner_note_path. Targetas \"Galindai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173914
 ## Reikšmingi paminėjimai
@@ -85,8 +70,8 @@ Nenurodyta
 
     lėn.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

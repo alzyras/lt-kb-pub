@@ -47,16 +47,6 @@ media_all_json: |-
 - t-003
   global_id: t-87379
   teiginys: "Zigmantas po nesėkmingų svarstymų išsiuntė pas Vytautą pasiuntinius su karūna."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "350039-350594; hash=5d514ac4b0cc25be4ed89a79feb41f9b4c1bea7ce358e2f5374d06ae6ed54d9e; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Karūna: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Zigmantas (Romos imperatorius): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Karūna: mention_match, thing, gap=71"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Zigmantas (Romos imperatorius)\" parinktas kaip owner_note_path. Targetas \"Karūna\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-83361
 
@@ -64,16 +54,6 @@ media_all_json: |-
 - t-004
   global_id: t-87380
   teiginys: "Popiežius Martynas V paragino imperatorių Zigmantą rūpintis Jogailos išlaisvinimu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "427020-427614; hash=cd28a62a68a8562a08abdb56231ba8cf07d2512ef8bc75fcaef70d82d30cba80; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kaimas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Zigmantas (Romos imperatorius): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kaimas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Zigmantas (Romos imperatorius)\" parinktas kaip owner_note_path. Targetas \"Kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-83362
 
@@ -81,16 +61,6 @@ media_all_json: |-
 - t-005
   global_id: t-87381
   teiginys: "Imperatorius Zigmantas ir didysis magistras siekė nutraukti Lietuvos ir Lenkijos sąjungą, tačiau jų sumanymai žlugo."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "447528-448689; hash=d5cb6ba23956cc6c74f753a0b37502f1a28ba09581494563ab822cb8034bf882; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Zigmantas (Romos imperatorius): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=59"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Zigmantas (Romos imperatorius)\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-83358
 
@@ -98,16 +68,6 @@ media_all_json: |-
 - t-002
   global_id: t-87382
   teiginys: "Imperatorius Zigmantas siekė sukiršinti Jogailą su Vytautu ir atskirti Lietuvą nuo Lenkijos."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "347161-347953; hash=47d8f340bcd14779211283a7ab7f4bc5517c43f5892e3a7f7a2890464e116640; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Zigmantas (Romos imperatorius): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=70"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Zigmantas (Romos imperatorius)\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-83359
 
@@ -115,19 +75,6 @@ media_all_json: |-
 - t-001
   global_id: t-87383
   teiginys: "1420 m. Vytautas laiške Romos imperatoriui Zigmantui rašė apie Lietuvos ir Žemaitijos santykį."
-  temporaliniai_duomenys: "įvykio data: 1420 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata mini laišką Zigmantui, bet pradinė formuluotė triukšminga."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "51060-51869; hash=14443dc7d34d8025814768ad14a14f321d9aa80e0ab291a7f62a9f58b0917643; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Zigmantas (Romos imperatorius): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=20"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Zigmantas (Romos imperatorius)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-83360
 
@@ -135,12 +82,6 @@ media_all_json: |-
 - t-006
   global_id: t-193409
   teiginys: "Jie ilgai svarstė reikšmingą ir svarbų klausimą, galintį nulemti visų įvykių raidą, bū tent, kas daryti, kad kryžiuočių pusėje nekariautų nei imperatorius Zigmantas, nei karalius Vaclovas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "654468-655086; hash=af757d0ede778e25606de47c16dec69c0c992933cc780801f4b69af14207b6b6; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176131
 
@@ -148,12 +89,6 @@ media_all_json: |-
 - t-007
   global_id: t-193410
   teiginys: "Nors Vytautas ėmėsi visų priemonių, kurios, jo galva, buvo reikalingos išsaugoti su Zigmantu ir Vaclovu sudarytam susitarimui, tačiau visos jo pastangos nuėjo niekais."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "655644-656145; hash=702326f021a49359cd6569fc07d60a77fe9fc62b4f867c970e6a3303d905139c; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176132
 
@@ -161,12 +96,6 @@ media_all_json: |-
 - t-008
   global_id: t-193411
   teiginys: "Zigmantas kuo iškalbingiausiai išliaupsino Vytautą bei Lietuvą, o pastebėjęs, jog šių žodžių godžiai klausoma, ryžosi lemiamu žingsniu palenkti nuo pataikavimo apsalusią širdį."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "728437-728976; hash=ed2f80d3734ac1d295e1df278cf60703feee9fc5cf7657e1ecdfeeed54298bc3; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176133
 
@@ -174,12 +103,6 @@ media_all_json: |-
 - t-009
   global_id: t-193412
   teiginys: "Zigmantas sukvieIšsiskiisto Lucko sutė Korčine seimą, norėdamas, važiavimo dalyviai kad karalystės luomai nuspręstų, kaip dera priešintis nesaikingiems Vytauto potroškiams."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "733683-734184; hash=7e65800e1b195fdf4105116c333aa3173f83a7918def280cad8529d4ee5ece21; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176134
 
@@ -187,12 +110,6 @@ media_all_json: |-
 - t-010
   global_id: t-193413
   teiginys: "Zigmantas nejaučiąs širdyje nepalankumo nei karaliui, nei lenkų karalystei, tačiau jeigu lenkai pirmieji ryšis kokiam negeram žingsniui, jam netruksią nei karių, nei ginklų apsiginti."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "740079-740805; hash=947e51273b40fd62cc41db9da26dcb97d9783feeee86de4fb5f988c18e43c71d; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176135
 
@@ -200,12 +117,6 @@ media_all_json: |-
 - t-011
   global_id: t-193414
   teiginys: "Zigmantas nekvaršina sau tokiais tuščiais rūpesčiais galvos, tegu paskirtą dieną laukia pažadėtų Lietuvos karaliaus insignijų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "742219-742795; hash=64ffbec586136da6051a315336e6388a454359dff8f2facad5e0fb968e574ae6; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176136
 
@@ -213,12 +124,6 @@ media_all_json: |-
 - t-012
   global_id: t-194019
   teiginys: "Pasiūlymų, kad Vytautas siekių karaliaus vainiko, iškėlė ne Jogaila, o Vokietijos imperatorius Zigmantas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "494179-494604; hash=7b7eba1990d3ac3397243e756dc3b0ecb02d1304a1e0b73ba1c3e2100aef4628; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176644
 
@@ -226,12 +131,6 @@ media_all_json: |-
 - t-013
   global_id: t-194246
   teiginys: "Prie liudytojų, tuo metu su mumis buvusių: su Lucko vaivada, su Limantu ir Zigmantu - kareiviais arba bajorais iš Lietuvos; su Mangaila iš Ašmenos, taip pat iš Lie tuvos ir daugelio kitų patikimų liudytojų, ten buvusių."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "418454-418751; hash=1239f109f3198a527957e8200b5acbf25c1114426edd844bc39191b0f4b0f962; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176842
 - susijęs iš [[objektai/asmenys/Barbora Cyleikaitė.md#claim-t-35031|Barbora Cyleikaitė]]: Barbora Cyleikaitė atvyko su savo vyru Romos ciesoriumi Zigmantu ir buvo Jogailos antrosios žmonos giminaitė.
@@ -446,8 +345,8 @@ media_all_json: |-
     čios žlugo; su Vladislovu Jogaila turėjo būti sudaryta ilga­
     laikė taika.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -474,8 +373,8 @@ media_all_json: |-
     Kniażenii, no obacze o wsem tom ne-
     breh ureczesia, i na zimu prisła W el.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -514,8 +413,8 @@ media_all_json: |-
     mis, palei gausių upių, versmių, ežerų krantus, stovėjo var­
     ganos medžioklių trobelės.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -536,8 +435,8 @@ media_all_json: |-
     sienos ir imperatoriaus aktus, kuriais Vytautui pripažįsta­
     mas karaliaus titulas, atėmė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -558,8 +457,8 @@ media_all_json: |-
     mantą paragino rūpintis Jogailos išlaisvinimu ir pats asme­
     niškai savo autoritetu didžiai prie to prisidėjo5.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -587,8 +486,8 @@ media_all_json: |-
     tuvos, pagal kurią jie neturėjo teikti kryžiuočiams pa­
     galbos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -609,8 +508,8 @@ media_all_json: |-
     su visomis Lietuvai priklausančiomis žemėmis nuo Len­
     kijos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -634,8 +533,8 @@ media_all_json: |-
     kių didelių žemių valdovas, karalius savo padėtimi bei
     svoriu, neturįs karaliaus titulo ir vainiko.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -659,8 +558,8 @@ media_all_json: |-
     nukauto tauro garsųjį ragą, išmoningai papuoštą auksu
     bei brangakmeniais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -694,8 +593,8 @@ media_all_json: |-
     imperatoriumi, ir pareikalavo priesaika patvirtinti kai
     kuriuos naujos sutarties straipsnius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -728,8 +627,8 @@ media_all_json: |-
     insignijų. Jau kelionėje jo pasiuntiniai, vežantys kara­
     liaus vainiką ir dalyvausiantys vainikavime".
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -747,8 +646,8 @@ media_all_json: |-
     Vytautas nesileido j derybas. Antrų kartų vainikavimo pasiūlymų
     Zigmantas iškėlė 1429 m.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -764,8 +663,8 @@ media_all_json: |-
     bajorais iš Lietuvos; su Mangaila iš Ašmenos, taip pat iš Lie­
     tuvos ir daugelio kitų patikimų liudytojų, ten buvusių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -940,7 +839,8 @@ media_all_json: |-
 - id: c-176131
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 374"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 374."
   citata_originali: |
     Ten jie nusprendė visomis jėgomis pradėti bendrą
     karą prieš kryžiuočius. Jie ilgai svarstė reikšmingą ir
@@ -969,7 +869,8 @@ media_all_json: |-
 - id: c-176132
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 375"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 375."
   citata_originali: |
     Nors Vytautas ėmėsi visų priemonių, kurios, jo galva,
     buvo reikalingos išsaugoti su Zigmantu ir Vaclovu
@@ -991,7 +892,8 @@ media_all_json: |-
 - id: c-176133
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 415"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 415."
   citata_originali: |
     Imperatorius dė­
     josi nuliūdęs, nes esą nelau­
@@ -1016,7 +918,8 @@ media_all_json: |-
 - id: c-176134
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 418"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 418."
   citata_originali: |
     Atvykęs į Lenkiją, jis sukvie-
     Išsiskiisto Lucko su-
@@ -1110,7 +1013,8 @@ media_all_json: |-
 - id: c-176644
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 260"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 260."
   citata_originali: |
     4  Pasiūlymų, kad Vytautas siekių karaliaus vainiko, iškėlė ne
     Jogaila, o  Vokietijos imperatorius Zigmantas. Pirmų kaitų jis siūlė
@@ -1145,7 +1049,3 @@ media_all_json: |-
 
 ## Ryšiai
 - Žmonos: [[objektai/asmenys/Barbora Cyleikaitė]]
-- Sąjungininkai: [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Sudarė sutartį su: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Zigmantas (Romos imperatorius) paskyrė [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]], [[objektai/asmenys/Zig. Rothas]]
-- Zigmantas (Romos imperatorius) rėmė [[objektai/grupes/Kryžiuočių ordinas]]

@@ -32,16 +32,6 @@ Pirmiausia buvo pulta viena vietinių vyrų, daugiausia iš Dragonių k.
 - t-001
   global_id: t-41687
   teiginys: "Pirmiausia buvo pulta vietinių vyrų stovykla, kurios dauguma buvo iš Dragonių kaimo."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "910401-910705; hash=d038fd034d52f28d6229079a2bdacd8dc3615ff624e383824b35e9b758eebe50; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kaimas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Dragonių kaimas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kaimas: mention_match, place, gap=9"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dragonių kaimas\" parinktas kaip owner_note_path. Targetas \"Kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-45078
 ## Reikšmingi paminėjimai
@@ -58,8 +48,8 @@ Pirmiausia buvo pulta viena vietinių vyrų, daugiausia iš Dragonių k.
     Aušros (vadas Ignas Gasčiūnas- Artojas)
     būrys.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

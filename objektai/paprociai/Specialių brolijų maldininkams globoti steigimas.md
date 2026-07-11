@@ -53,16 +53,6 @@ Nenurodyta
 - t-004
   global_id: t-06864
   teiginys: "Naujos karinės grėsmės sąlygomis globos brolijos virto kariaujančiais riterių ordinais."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "104331-104705; hash=dab5befe2b2df39d1e17fa569ff5184688ca7e375d763ac53eff6a8aacba4337; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jeruzalė: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Specialių brolijų maldininkams globoti steigimas: owner_note_path, thing"
-  ryšio_targeto_parinkimas: "Jeruzalė: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Specialių brolijų maldininkams globoti steigimas\" parinktas kaip owner_note_path. Targetas \"Jeruzalė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-00236
 
@@ -70,19 +60,6 @@ Nenurodyta
 - t-003
   global_id: t-06865
   teiginys: "Po Jeruzalės išvadavimo didesniosios valstybės steigė brolijas maldininkams globoti kelionėse."
-  temporaliniai_duomenys: "įvykio data: 1099 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sakinys sutrumpintas ir tiksliau atspindi citatos aplinkybes."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "104120-104535; hash=ba4a527dbff0baeff58a35868b72c5c81a24205e9a3acdd98677afc107bdfa56; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jeruzalė: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Specialių brolijų maldininkams globoti steigimas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Jeruzalė: mention_match, place, gap=60"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Specialių brolijų maldininkams globoti steigimas\" parinktas kaip owner_note_path. Targetas \"Jeruzalė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-00235
 ## Reikšmingi paminėjimai
@@ -98,8 +75,8 @@ Nenurodyta
     globojo ligonius ir saugojo, kad maldininkams nieko blogo neatsitiktų
     kelyje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -115,8 +92,8 @@ Nenurodyta
     turkai ir kai buvo pradėta rūpintis vėl ją atgauti, — tokios brolijos
     virto kariaujančiųjų riterių ordinais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

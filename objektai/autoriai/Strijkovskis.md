@@ -30,21 +30,6 @@ Narbutas aiškino, kad Strijkovskis apie krivio pareigybę rašė daugiau, nes t
 - t-001
   global_id: t-190455
   teiginys: "Narbutas aiškino, kad Strijkovskis apie krivio pareigybę rašė daugiau, nes turėjo Lietuvos istorijos šaltinių."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "759129-759902; hash=da632493e4cc93156f502a9edf001188201b82d168c27f08e2034e3ce848a09b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Krivis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Strijkovskis: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Krivis: mention_match, person, gap=18"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Strijkovskis\" parinktas kaip owner_note_path. Targetas \"Krivis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173338
 - susijęs iš [[objektai/asmenys/Janas Lasickis.md#claim-t-188561|Janas Lasickis]]: Narbutas, remdamasis Lasickiu, rašo, kad Strijkovskis ir kiti Markopolius trumpai mini kaip požemio dievaičius.
@@ -163,8 +148,8 @@ Narbutas aiškino, kad Strijkovskis apie krivio pareigybę rašė daugiau, nes t
 
     sijos krivis niekad neįsakinėjo Livonijai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

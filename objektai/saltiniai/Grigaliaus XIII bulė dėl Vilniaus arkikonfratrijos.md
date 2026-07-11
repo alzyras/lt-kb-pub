@@ -44,19 +44,6 @@ media_all_json: |-
 - t-001
   global_id: t-88423
   teiginys: "1573 m. vasario 3 d., valdant Žygimantui Augustui, buvo funduota Vilniaus arkikonfratrija."
-  temporaliniai_duomenys: "įvykio data: 1573 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra konkretus, gramatiškas ir paremtas citatos duomenimis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "376032-376914; hash=d4624e95febb4a53d14ad8ecae7858373d45df8add2d99829c24d20225b977b0; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilniaus magistratas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Grigaliaus XIII bulė dėl Vilniaus arkikonfratrijos: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Vilniaus magistratas: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Grigaliaus XIII bulė dėl Vilniaus arkikonfratrijos\" parinktas kaip owner_note_path. Targetas \"Vilniaus magistratas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-84402
 ## Reikšmingi paminėjimai
@@ -82,8 +69,8 @@ media_all_json: |-
     priklauso; jais disponuoja Vilniaus magistratas per savo val­
     dytojus, o iš gautų pajamų tenkinami koplyčios poreikiai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

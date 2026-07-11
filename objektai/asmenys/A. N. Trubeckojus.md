@@ -34,17 +34,6 @@ Trubeckojaus kariuomenė (apie 15000 karių) užėmė Mstislavlį (liepos 22 d. 
 - t-001
   global_id: t-39979
   teiginys: "A. N. Trubeckojaus kariuomenė, turėjusi apie 15000 karių, užėmė Mstislavlį ir žygiavo Lietuvos gilumon Minsko link."
-  semantiniai_rysiai: "A. N. Trubeckojus užėmė Mstislavlis (0.94); A. N. Trubeckojus surengė žygį į Lietuva (0.78); A. N. Trubeckojus surengė žygį į Minskas (0.66)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "509188-509646; hash=de835ad7481a1379f4ee3c003b7a9011ce2d1a381e3310b6d214686d6a99f6da; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Mstislavlis: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "A. N. Trubeckojus: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Mstislavlis: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai teigia, kad A. N. Trubeckojaus kariuomenė užėmė Mstislavlį."
   pagrindžia:
     - c-44248
 ## Reikšmingi paminėjimai
@@ -74,8 +63,8 @@ Trubeckojaus kariuomenė (apie 15000 karių) užėmė Mstislavlį (liepos 22 d. 
     Bychovo. Tuo pat metu priešiškai nusi-
     teikusi Švedija lūkuriavo (su ja Lenkija
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -118,4 +107,3 @@ Trubeckojaus kariuomenė (apie 15000 karių) užėmė Mstislavlį (liepos 22 d. 
 
 ## Ryšiai
 - A. N. Trubeckojus užėmė [[objektai/vietos/Mstislavlis]]
-- A. N. Trubeckojus surengė žygį į [[objektai/vietos/Lietuva]], [[objektai/vietos/Minskas]]

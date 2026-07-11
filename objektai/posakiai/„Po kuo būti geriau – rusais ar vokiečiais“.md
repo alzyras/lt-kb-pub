@@ -41,19 +41,6 @@ Mintis „Po kuo būti geriau – rusais ar vokiečiais“ nereiškė išankstin
 - t-001
   global_id: t-20865
   teiginys: "Mintis „Po kuo būti geriau – rusais ar vokiečiais“ reiškė mažos valstybės realių galimybių įvertinimą, o ne išankstinį pasidavimą."
-  temporaliniai_duomenys: "įvykio data: 1940 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "380705-381765; hash=069a256500ee92d4b78e5c0fd5f7151fa1e35f9ef48c7dd0036eb44f0db2f7a4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Rusai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "„Po kuo būti geriau – rusais ar vokiečiais“: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Rusai: mention_match, group, gap=21"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"„Po kuo būti geriau – rusais ar vokiečiais“\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-23591
 
@@ -61,19 +48,6 @@ Mintis „Po kuo būti geriau – rusais ar vokiečiais“ nereiškė išankstin
 - t-002
   global_id: t-183501
   teiginys: "Mintis „Po kuo būti geriau – rusais ar vokiečiais“ reiškė mažos valstybės galimybių įvertinimą, o ne išankstinį pasidavimą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "381267-382074; hash=5a87af7e4349476977153fe00a7170cc0d27fdf60eb6463b95fcda31bd924c07; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Rusai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "„Po kuo būti geriau – rusais ar vokiečiais“: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Rusai: mention_match, group, gap=21"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"„Po kuo būti geriau – rusais ar vokiečiais“\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-166895
 - susijęs iš [[objektai/autoriai/Isaac Taylor.md#claim-t-19402|Isaac Taylor]]: Isaacas Tayloras veikale „The Origins of the Aryans“ svarstė lietuvių apgyventą teritoriją kaip galimą arijų kalbos lopšį.
@@ -111,8 +85,8 @@ Mintis „Po kuo būti geriau – rusais ar vokiečiais“ nereiškė išankstin
     valstybių jau buvo nacių okupuotos, Lenkija – grobuonių pasidalyta, tad
     ir Baltijos valstybėse suvokta, jog artėja jų eilė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -134,8 +108,8 @@ Mintis „Po kuo būti geriau – rusais ar vokiečiais“ nereiškė išankstin
     žimo esmės, – jis valdė teroru, jėga izoliavo ir fiziškai naikino oponentus,
     ideologiškai priešiškas politines ir socialines grupes.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

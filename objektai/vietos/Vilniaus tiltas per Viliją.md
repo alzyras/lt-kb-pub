@@ -41,13 +41,6 @@ Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmon
 - t-002
   global_id: t-195185
   teiginys: "Ulrikas Hozijus didelėmis lėšomis pastatė ir sutvirtino tiltą per Viliją prie Vilniaus."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys yra pilnas faktinis sakinys ir atitinka citatos informaciją."
-  susije_objektai: "llm_object: Vilniaus tiltas per Viliją; mentioned_place: Vilija; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Ulrikas Hozijus|Ulrikas Hozijus]]"
-  semantiniai_rysiai: "[[objektai/asmenys/Ulrikas Hozijus|Ulrikas Hozijus]] pastatė Vilniaus tiltas per Viliją"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "741551-742228; hash=c336bf90fc34c1f68836f408b9bd8f440e4ce1077b936048006b53565bb4c36c; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177550
     - c-177554
@@ -57,12 +50,6 @@ Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmon
 - t-003
   global_id: t-195186
   teiginys: "Siekiant apsaugoti Vilniaus tilto muitą, buvo uždrausta statyti kitus tiltus per Viliją tarp Bistryčios ir Kernavės."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teisinis fragmentas sutrumpintas iki aiškaus fakto apie draudimą."
-  susije_objektai: "mentioned_place: Kernavė; mentioned_place: Vilija; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Jonas Hozijus|Jonas Hozijus]]; mentioned_place: Nemenčinė"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "743787-745090; hash=b47f3b9061bbddd6c6b41d0924bd7a22b2d999eba41a8590065ae1617ed5d0ce; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177551
 
@@ -70,13 +57,6 @@ Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmon
 - t-004
   global_id: t-195187
   teiginys: "Ulrikas Hozijus įvykdė karaliaus pavedimą: per Viliją pastatė mūrinį tiltą, o po jo mirties darbus užbaigė sūnus Jonas."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Fragmentas perrašytas į pilną sakinį apie tilto statybą."
-  susije_objektai: "llm_object: Vilniaus tiltas per Viliją; mentioned_place: Vilija; mentioned_person: [[objektai/asmenys/Ulrikas Hozijus|Ulrikas Hozijus]]; mentioned_place: Vilnius"
-  semantiniai_rysiai: "[[objektai/asmenys/Ulrikas Hozijus|Ulrikas Hozijus]] pastatė Vilniaus tiltas per Viliją"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "741551-742228; hash=c336bf90fc34c1f68836f408b9bd8f440e4ce1077b936048006b53565bb4c36c; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177550
 
@@ -84,15 +64,6 @@ Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmon
 - t-005
   global_id: t-195188
   teiginys: "1536 m. Žygimantas Senasis Ulrikui Hozijui suteikė teisę pastatyti tiltą per Viliją vietoje nepatogios perkėlos."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Citata palaiko aiškų faktą apie leidimą statyti tiltą."
-  susije_objektai: "mentioned_place: Vilija; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Žygimantas Senasis|Žygimantas Senasis]]; mentioned_place: Vilnius"
-  temporaliniai_duomenys: "pastatymo data: 1536 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko aiškų faktą apie leidimą statyti tiltą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "535999-536685; hash=53c610aa54afe9a054bc6290d3aa246508bdb707c8709731cfa44d29232d4940; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177552
 
@@ -100,12 +71,6 @@ Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmon
 - t-001
   global_id: t-195189
   teiginys: "Dėl nepatogios perkėlos per Viliją prie Vilniaus karalius pavedė Ulrikui Hozijui savo lėšomis pastatyti tvirtą tiltą."
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Citata pagrindžia tilto statybos priežastį ir pavedimą Hozijui."
-  susije_objektai: "mentioned_place: Vilija; mentioned_place: Vilnius; mentioned_object: [[objektai/daiktai/Druska|Druska]]"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "739136-740959; hash=6a18869d9c31ed05c7bd2f13a3e6102b13f9cc73946893eea5db6ad9f861d9d9; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-177553
     - c-177552
@@ -151,8 +116,8 @@ Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmon
     karvės, kaip ir nuo viso to, kas už upės būtų vedamas ar
     varomas parduoti, - vienas denaras arba obolas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -188,8 +153,8 @@ Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmon
     dvaro iki minėto mūsų Kernavės miestelio, pagal mūsų nuo­
     žiūrą atimant turtą ir kitas bausmes skiriant.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -215,8 +180,8 @@ Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmon
     nuo jo pinigus, kuriuos jis išleido minėto tilto statybai, bė­
     gant laikui išskaičiavo ir susigrąžino.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -235,8 +200,8 @@ Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmon
     kliams būdeles, arba stogines, ir iš jų jis pats ir jo palikuonys
     gavo teisę visiems laikams imti mokestį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -255,8 +220,8 @@ Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmon
     prekyba, mieste atsirado daug lobingų, su svečiais kraštais
     mainus vykdančių pirklių19.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -278,8 +243,8 @@ Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmon
     zijus buvo įpareigotas vėliau, kai jam sugrįš tilto statybos
     išlaidos, prie dominikonų Šv.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

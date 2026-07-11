@@ -50,9 +50,6 @@ Nenurodyta
 - t-002
   global_id: t-66659
   teiginys: "1919 m. rugpjūčio 28–29 d. naktį Lietuvos saugumo organai atliko kratą P.O.W. centre Kaune, areštavo vadus ir sužlugdė sukilimą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "1111393-1111718; hash=f697bf105ed4fdb2b2588073d8e25d8b17e00202ab7b5db74924fd9c421a0acc; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-66856
 
@@ -60,11 +57,6 @@ Nenurodyta
 - t-001
   global_id: t-66660
   teiginys: "P.O.W. organizacija rengė sukilimą Lietuvoje ir siekė į savo pusę patraukti karininkus bei kareivius."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "1110658-1111034; hash=e3bc8b56e085cfa34a1788b561e020f47f7de6bcbd6370fc4aa9b13cd671f19d; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-66855
 
@@ -72,11 +64,6 @@ Nenurodyta
 - t-003
   global_id: t-66661
   teiginys: "Po P.O.W. sąmokslo Lietuvoje 117 sąmokslininkų 1920 m. gruodžio 11–24 d. buvo teisti kariuomenės teismo."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "1111719-1112045; hash=9d6f9eb6ced06c93296612e7d1bb51123b2c07e51b37dda344136b5537523b52; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-14T06:48:43Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-66858
 ## Reikšmingi paminėjimai
@@ -92,8 +79,8 @@ Nenurodyta
     karininkais ir rūpinosi gauti atsakingas vietas. Pagaliau buvo
     nutarta 1919 m. rugpiūčio 28—29 d. naktį suruošti sukilimą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -110,8 +97,8 @@ Nenurodyta
     šnipinėjimo, organizacijos ir kitais dokumentais. Sąmokslininkų
     vadai tuojau buvo areštuoti, ir sukilimo nebeįvyko.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -128,8 +115,8 @@ Nenurodyta
     jų 1920 m. gruodžio 11—24 d. buvo teisti kariuomenės teismo
     (iš viso P.O.W. sąrašuose buvo rasti suregistruoti 435 nariai).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

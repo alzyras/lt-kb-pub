@@ -30,12 +30,6 @@ Mykoliukas Žygimantaitis ėmė labai bijoti, pabėgo į Brianską, į savo toli
 - t-001
   global_id: t-194116
   teiginys: "Mykoliukas Žygimantaitis ėmė labai bijoti, pabėgo į Brianską, į savo tolimiausią miestą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "232288-232592; hash=61d3e16a7a2bfc02ede0bfe4d1a0dd51bbb545f98010e4be4690b300f2b5401c; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176729
 
@@ -43,12 +37,6 @@ Mykoliukas Žygimantaitis ėmė labai bijoti, pabėgo į Brianską, į savo toli
 - t-002
   global_id: t-194117
   teiginys: "Mykoliukas, išgirdęs, kad atžygiuoja Lietuvos ka riuomenė, pabūgo ir iš tų miestų pabėgo į Maskvą l5."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "232680-232965; hash=ff017e67ca191c951cdc2a59e62f00f625b853f6e0762c9a902a89fbfb497ec9; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176730
 ## Reikšmingi paminėjimai
@@ -65,8 +53,8 @@ Mykoliukas Žygimantaitis ėmė labai bijoti, pabėgo į Brianską, į savo toli
     vo Lietuvos jėgas ir skubiai siunčia savo globėją Joną
     Goštautą ".
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -83,8 +71,8 @@ Mykoliukas Žygimantaitis ėmė labai bijoti, pabėgo į Brianską, į savo toli
     mirtinų nuodų. Kai tik jis priėmė ir nurijo, tuoj pat
     krito negyvas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -114,7 +102,8 @@ Mykoliukas Žygimantaitis ėmė labai bijoti, pabėgo į Brianską, į savo toli
 - id: c-176730
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 131"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 131."
   citata_originali: |
     Mykoliukas, išgirdęs, kad atžygiuoja Lietuvos ka­
     riuomenė, pabūgo ir iš tų miestų pabėgo į Maskvą l5.

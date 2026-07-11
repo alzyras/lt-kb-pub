@@ -30,21 +30,6 @@ Narbutas nurodo Zoroastrą kaip asmenį, kuris pas persus įvedė jau susiklosč
 - t-001
   global_id: t-190120
   teiginys: "Narbutas nurodo Zoroastrą kaip asmenį, kuris pas persus įvedė jau susiklosčiusias slaptas apeigas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "332167-332504; hash=bb72df6f8927203d0dffe1447b674525a27d9bc481e582dce81b0f089b1c1dcb; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Persai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Zoroastras: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Persai: mention_match, group, gap=33"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Zoroastras\" parinktas kaip owner_note_path. Targetas \"Persai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173003
 - susijęs iš [[objektai/grupes/Gvebrai.md#claim-t-189517|Gvebrai]]: Gvebrus Narbutas apibūdino kaip Zoroastro mokymo išpažinėjus, ugnyje įžiūrinčius Dievą arba pasaulio visatos sielą.
@@ -72,8 +57,8 @@ Narbutas nurodo Zoroastrą kaip asmenį, kuris pas persus įvedė jau susiklosč
     kus, Orfėjas Trakijoje, Minas Kretoje įvedė jau susiklosčiu­
     sias slaptas apeigas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -84,7 +69,8 @@ Narbutas nurodo Zoroastrą kaip asmenį, kuris pas persus įvedė jau susiklosč
 - id: c-173003
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 195"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 195."
   citata_originali: |
     Taip pat neturime iš istorijos duomenų, patvirtinančių, kuri
     tauta pati pirmoji sugalvojo religines paslaptis; tikra tik tai,

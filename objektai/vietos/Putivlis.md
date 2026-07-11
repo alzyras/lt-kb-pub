@@ -33,19 +33,6 @@ Maskvėnai netoli Putivlio užpuolė Vytauto valdinius. Putivlis šiame gabale m
 - t-001
   global_id: t-187302
   teiginys: "Lietuvos metraštis pasakoja, kad netoli Putivlio, prie Tykiosios Sosnos, maskvėnai užpuolė Vytauto valdinius severskiečius."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "178036-178422; hash=2f333367391eec4f6977b78af889a3982105896db9b9d5f773bdac8560faff6d; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  ryšio_patikimumas: "susije_su -> Maskva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Putivlis: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Maskva: mention_match, place, gap=33"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Putivlis\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-17T07:18:43Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-170341
 
@@ -53,19 +40,6 @@ Maskvėnai netoli Putivlio užpuolė Vytauto valdinius. Putivlis šiame gabale m
 - t-001
   global_id: t-187302
   teiginys: "Lietuvos metraštis pasakoja, kad netoli Putivlio, prie Tykiosios Sosnos, maskvėnai užpuolė Vytauto valdinius severskiečius."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "178036-178422; hash=2f333367391eec4f6977b78af889a3982105896db9b9d5f773bdac8560faff6d; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  ryšio_patikimumas: "susije_su -> Maskva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Putivlis: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Maskva: mention_match, place, gap=33"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Putivlis\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-17T07:18:43Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-170341
 
@@ -73,19 +47,6 @@ Maskvėnai netoli Putivlio užpuolė Vytauto valdinius. Putivlis šiame gabale m
 - t-001
   global_id: t-187302
   teiginys: "Lietuvos metraštis pasakoja, kad netoli Putivlio, prie Tykiosios Sosnos, maskvėnai užpuolė Vytauto valdinius severskiečius."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "178036-178422; hash=2f333367391eec4f6977b78af889a3982105896db9b9d5f773bdac8560faff6d; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  ryšio_patikimumas: "susije_su -> Maskva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Putivlis: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Maskva: mention_match, place, gap=33"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Putivlis\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-17T07:18:43Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-170341
 
@@ -93,19 +54,6 @@ Maskvėnai netoli Putivlio užpuolė Vytauto valdinius. Putivlis šiame gabale m
 - t-001
   global_id: t-187302
   teiginys: "Lietuvos metraštis pasakoja, kad netoli Putivlio, prie Tykiosios Sosnos, maskvėnai užpuolė Vytauto valdinius severskiečius."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "178036-178422; hash=2f333367391eec4f6977b78af889a3982105896db9b9d5f773bdac8560faff6d; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  ryšio_patikimumas: "susije_su -> Maskva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Putivlis: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Maskva: mention_match, place, gap=33"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Putivlis\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-17T07:18:43Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-170341
 
@@ -113,12 +61,6 @@ Maskvėnai netoli Putivlio užpuolė Vytauto valdinius. Putivlis šiame gabale m
 - t-005
   global_id: t-193425
   teiginys: "Užėmęs Brianską ir Perejeslavlį (dviejų kraštų sostines), o anksčiau už kariavęs Kijevą, Volynę ir didelę Seversko dalį, jis išplėtė lietuvių valdų ribas ligi Putivlio."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "350011-350507; hash=6c62e3f401917ef0fcb77c78e376f095647a5c91122b6a94f8e57fca71050de5; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176147
 - susijęs iš Brianskas: Gediminas, užėmęs Brianską ir Perejeslavlį, išplėtė lietuvių valdų ribas ligi Putivlio.
@@ -144,8 +86,8 @@ Maskvėnai netoli Putivlio užpuolė Vytauto valdinius. Putivlis šiame gabale m
     prie Tykiosios Sosnos 3  užpuolė Vytauto valdinius se-
     verskiečius, atėmė iš jų du bebrus ir tris statines me-
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -169,8 +111,8 @@ Maskvėnai netoli Putivlio užpuolė Vytauto valdinius. Putivlis šiame gabale m
     mių; šitaip Kijevas atsidūrė Lietuvos kunigaikščio val­
     džioje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -205,7 +147,8 @@ Maskvėnai netoli Putivlio užpuolė Vytauto valdinius. Putivlis šiame gabale m
 - id: c-176147
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 202"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 202."
   citata_originali: |
     Gediminas, pasilsėjęs čia, kol artimiausios pi­
     lys Belgorodas, Slepovrodis, Kanevas, Čerkasai pasida­

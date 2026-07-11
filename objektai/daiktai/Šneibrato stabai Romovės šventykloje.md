@@ -45,14 +45,6 @@ Nenurodyta
 - t-001
   global_id: t-189758
   teiginys: "Narbutas Šneibratą apibūdino kaip paukščių ūkio ir medžioklės dievą, turėjusį stabų Komovės šventykloje."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "197123-197350; hash=efe57737caa1cad1f322d38a39fb09e07929e325704edbea30a9d76268663e0a; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172641
 ## Reikšmingi paminėjimai
@@ -67,8 +59,8 @@ Nenurodyta
     zwcimbratus. Jis buvo vienas svarbiausių dievų, turinčių stabų
     Komovės šventykloje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -79,7 +71,8 @@ Nenurodyta
 - id: c-172641
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 110"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 110."
   citata_originali: |
     Šneibratas (Sznejbrato)
     Paukščių ūkio ir medžioklės dievas. Jam daugiausia buvo

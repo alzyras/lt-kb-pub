@@ -39,20 +39,6 @@ Varčios miške, tarp Alovės ir Daugų mstl.
 - t-001
   global_id: t-38435
   teiginys: "1945 m. birželio 14 d. Varčios miške tarp Alovės ir Daugų partizanai susikovė su NKVD 220-uoju pasienio pulku."
-  semantiniai_rysiai: "NKVD puolė Dainavos apygarda (0.76)"
-  temporaliniai_duomenys: "įvykio data: 1945 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra tikslus, gramatinis ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "986703-987006; hash=28398619e430225b1c4a85f557468e70692a2567e8f76f79e11275ce8c214241; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Dainavos apygarda: 0.76"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "NKVD: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Dainavos apygarda: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata nurodo NKVD pulko puolimą prieš partizanų būrį; Dainavos apygarda yra leistinas susijęs partizanų grupės kandidatas."
   pagrindžia:
     - c-40239
 - susijęs iš [[objektai/grupes/Merkinės batalionas.md#claim-t-38986|Merkinės batalionas]]: Rugpjūtį Vanago vadovaujama 140 vyrų Merkinės ir Alovės partizanų kuopa buvo performuota į Merkinės batalioną.
@@ -69,8 +55,8 @@ Varčios miške, tarp Alovės ir Daugų mstl.
     mstl. partizanai susikovė su NKVD kariuomenės 220-ojo pasienio pulku, kuris puolė
     Lietuvos kariuomenės ats. Itn. Adolfo Ramanausko vadovaujamą partizanų būrį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

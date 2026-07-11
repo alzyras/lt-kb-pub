@@ -32,16 +32,6 @@ Prezidento Vladimiro Putino „valdomos demokratijos“ režimas siekia susigrą
 - t-001
   global_id: t-22030
   teiginys: "Prezidento Vladimiro Putino „valdomos demokratijos“ režimas siekia susigrąžinti įtaką vadinamojoje pokomunistinėje erdvėje, pirmiausia sugriuvusios SSRS teritorijoje."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "528432-528885; hash=95c0bc56e927c65258c6f49db4bc6368cb18b0c5be1cda99afff15fd689a90cb; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> SSRS: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Valdoma demokratija: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "SSRS: mention_match, place, gap=119"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Valdoma demokratija\" parinktas kaip owner_note_path. Targetas \"SSRS\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-24713
 ## Reikšmingi paminėjimai
@@ -57,8 +47,8 @@ Prezidento Vladimiro Putino „valdomos demokratijos“ režimas siekia susigrą
     susigrąžinti įtaką vadinamojoje pokomunistinėje erdvėje, pirmiausia su-
     griuvusios SSRS teritorijoje.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

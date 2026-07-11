@@ -40,21 +40,6 @@ Eduardas Eichvaldas „Dorpater Jahrbuch“ paskelbė straipsnį „Darijus, His
 - t-001
   global_id: t-191343
   teiginys: "Eduardas Eichvaldas „Dorpater Jahrbuch“ paskelbė straipsnį „Darijus, Histapo sūnus, Pinsko apylinkėse“ apie Darijaus žygį prieš skitus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "99022-99793; hash=2b55f15c164c8f96f40a209e0cbbcb3257fd7aee39ff7d7ef14a2aa317defe48; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Pinskas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Eduardas Eichvaldas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Pinskas: mention_match, place, gap=84"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Eduardas Eichvaldas\" parinktas kaip owner_note_path. Targetas \"Pinskas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T15:36:38Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174225
 
@@ -62,21 +47,6 @@ Eduardas Eichvaldas „Dorpater Jahrbuch“ paskelbė straipsnį „Darijus, His
 - t-002
   global_id: t-191344
   teiginys: "Eduardo Eichvaldo tyrinėjimais Narbutas rėmėsi rengdamas antrojo leidimo papildymą apie Darijaus Histapo žygį Pinsko apylinkių link."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "747390-747688; hash=03d09f30c451e64c890065c295d429d71b38cb5137ac5849773d25502e0e16d4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Pinskas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Eduardas Eichvaldas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Pinskas: mention_match, place, gap=110"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Eduardas Eichvaldas\" parinktas kaip owner_note_path. Targetas \"Pinskas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174226
 ## Reikšmingi paminėjimai
@@ -107,8 +77,8 @@ Eduardas Eichvaldas „Dorpater Jahrbuch“ paskelbė straipsnį „Darijus, His
     įžvelgti
     panašumą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -126,8 +96,8 @@ Eduardas Eichvaldas „Dorpater Jahrbuch“ paskelbė straipsnį „Darijus, His
     pis zieht nach der Gegend von Pinsk / /  Dor-
     pater Jahrbuch. 1834. Nr. 1).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -138,7 +108,8 @@ Eduardas Eichvaldas „Dorpater Jahrbuch“ paskelbė straipsnį „Darijus, His
 - id: c-174225
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 57"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 57."
   citata_originali: |
     Ko
     gero, remdami Skitijos kolonistus graikus, persai palaikė
@@ -171,7 +142,8 @@ Eduardas Eichvaldas „Dorpater Jahrbuch“ paskelbė straipsnį „Darijus, His
 - id: c-174226
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 410"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 410."
   citata_originali: |
     — Išnaša, kuria autorius papildė paragrafą, reng­
     damas antrąjį leidimą (PEĮ. P. 32—33). T.

@@ -44,16 +44,6 @@ Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo krikštas (100
 - t-002
   global_id: t-64124
   teiginys: "Apaštalų darbuose rašoma, kad Steponas, pilnas malonės ir galios, darė didžių stebuklingų ženklų."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "99028-99442; hash=f1cb0dcd83f3d1475b71752264543c54fd5f87edb10aff123687c1d61e991e4c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Prūsai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; prusai_group_context; same_sentence_locality; single_candidate_actor; single_candidate_target"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Steponas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Prūsai: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Steponas\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-64968
 
@@ -61,18 +51,6 @@ Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo krikštas (100
 - t-001
   global_id: t-64125
   teiginys: "Šv. Steponas, pirmasis tikras krikščionis Vengrijos soste, buvo karūnuotas 1000 m."
-  temporaliniai_duomenys: "įvykio data: 1000 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "40947-41435; hash=adb33939b156052cb069ae3fc0f122d2100fd6021e4b9cea224adc9cefda1f3e; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vengrija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Steponas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Vengrija: mention_match, place, gap=38"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Steponas\" parinktas kaip owner_note_path. Targetas \"Vengrija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-22021
 - susijęs iš [[objektai/asmenys/Šventasis Steponas (Permės vyskupas).md#claim-t-190060|Šventasis Steponas (Permės vyskupas)]]: Narbutas tikslino, kad Šventasis Steponas neišrado biarmiško raidyno, o sutvarkė jį pagal rusų abėcėlę ir rašė šiaurės slavų tarme.
@@ -130,8 +108,8 @@ Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo krikštas (100
     jos soste šv. Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo
     krikštas (1008) ir štai – Lietuvos „karaliaus“ Netimero krikštas (1009).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -148,8 +126,8 @@ Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo krikštas (100
     galingą, tokią žiaurią ir nesuskaitomą prūsų gentį, kurios neįstengė pavergti daugybė
     valdovų, daug kartų šitai mėginusių padaryti.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -180,7 +158,8 @@ Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo krikštas (100
 - id: c-64968
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 33"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 33."
   citata_originali: |
     Apie didingus ženklus
     „Apaštalų darbuose“ (Apd 6, 8) pasakyta, kad „Steponas, pilnas malonės ir galios, darė

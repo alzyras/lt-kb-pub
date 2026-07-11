@@ -30,21 +30,6 @@ Klaprotas veikale „Asia Polyglotta“ pateikė osetinų kalbos žodyną, kuria
 - t-001
   global_id: t-191503
   teiginys: "Klaprotas veikale „Asia Polyglotta“ pateikė osetinų kalbos žodyną, kuriame Narbutas nerado reikšmingo panašumo į lietuvių kalbą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "345630-346346; hash=b788be0db65b36c0f6b4428382851e323aa68d95e1cb493df826fdeb3a67e950; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kaukazas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Klaprotas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kaukazas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Klaprotas\" parinktas kaip owner_note_path. Targetas \"Kaukazas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174385
 ## Reikšmingi paminėjimai
@@ -69,8 +54,8 @@ Klaprotas veikale „Asia Polyglotta“ pateikė osetinų kalbos žodyną, kuria
     gyventojų, atsiskyrusių nuo nežinomos barbarų minios,
     1 Lib.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -81,7 +66,8 @@ Klaprotas veikale „Asia Polyglotta“ pateikė osetinų kalbos žodyną, kuria
 - id: c-174385
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 188"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 188."
   citata_originali: |
     Juk šiandien negalima nieko įro­
     dyti, kad lietuvius ir alanus siejo giminingumas. Žinomi

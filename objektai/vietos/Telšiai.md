@@ -32,9 +32,6 @@ Buvo uždaryta daugybė vienuolynų (Kaune, Pažaisly, Panevėžy, Ukmergėje, R
 - t-001
   global_id: t-02787
   teiginys: "Telšiuose buvo uždarytas vienuolynas."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "937095-937369; hash=f2703f85c1f668e164e1d317ec0b26c320341890f289aab7e214d6529294f6dd; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-03025
 - susijęs iš [[objektai/autoriai/Motiejus Valančius.md#claim-t-179553|Motiejus Valančius]]: Motiejus Valančius 1848 m. buvo paskirtas Telšių (Žemaičių) vyskupijos vyskupu.
@@ -66,8 +63,8 @@ Buvo uždaryta daugybė vienuolynų (Kaune, Pažaisly, Panevėžy, Ukmergėje, R
     (Kaune, Pažaisly, Panevėžy, Ukmergėje, Raseiniuose, Telšiuose
     ir kt.).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

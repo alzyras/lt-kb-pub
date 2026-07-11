@@ -30,12 +30,6 @@ Vilniaus Gaonas ne tik inicijavo akcijas prieš chasidizmą ir paskelbė chasidu
 - t-001
   global_id: t-193692
   teiginys: "Vilniaus Gaonas ne tik inicijavo akcijas prieš chasidizmą ir paskelbė chasidus esant eretikus, bet ir savo autoritetu ir pastangomis sustabdė chasidizmo plitimą Lietuvoje."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "153738-154230; hash=f37733d471ed9bee7c785c7724c6b5957c9b0740985604d432a1254d635837ff; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176361
 
@@ -43,12 +37,6 @@ Vilniaus Gaonas ne tik inicijavo akcijas prieš chasidizmą ir paskelbė chasidu
 - t-002
   global_id: t-193693
   teiginys: "Tai kartu paaiškina ir Vilniaus Gaono autoritetą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "154387-154777; hash=4839512dd651f02e737cbf15fec7980b3786b976d6da6a32c1d3c35fd929a453; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176362
 
@@ -56,12 +44,6 @@ Vilniaus Gaonas ne tik inicijavo akcijas prieš chasidizmą ir paskelbė chasidu
 - t-003
   global_id: t-193694
   teiginys: "Didžiausias Gaono nuopelnas – Babilono Talmudo redagavimas ir komentavimas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "154778-155191; hash=18da200fc0fae8abdb9a142ba1cc88313fbe6236a5872e6e7d47aa2d2ee09333; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176363
 ## Reikšmingi paminėjimai
@@ -78,8 +60,8 @@ Vilniaus Gaonas ne tik inicijavo akcijas prieš chasidizmą ir paskelbė chasidu
     plitimą Lietuvoje. Taigi riba tarp ištikimo tradicijai rabinizmo ir liberalesnį
     jo reformavimą skelbiančio chasidizmo ėjo būtent per LDK teritoriją.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -99,8 +81,8 @@ Vilniaus Gaonas ne tik inicijavo akcijas prieš chasidizmą ir paskelbė chasidu
     84
     geografijos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -118,8 +100,8 @@ Vilniaus Gaonas ne tik inicijavo akcijas prieš chasidizmą ir paskelbė chasidu
     mokslinimui. Ne veltui sklido gandai, kad visi Vilniaus išminčiai atminti-
     nai mokėjo visus 64 Talmudo tomus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

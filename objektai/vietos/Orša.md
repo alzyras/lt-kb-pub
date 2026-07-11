@@ -42,11 +42,6 @@ Orša: maskvos kariuomenė net tris kartus buvo apgulusi Smolenską, užėmė Or
 - t-001
   global_id: t-73351
   teiginys: "Po Smolensko paėmimo 1514 m. Konstantinas Ostrogiškis ties Orša smarkiai sumušė Maskvos kariuomenę."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "422808-423047; hash=2b85d331e8b3b386f552637d75d9bea23d733f476f47a7ccd870bc52b6e7eaab; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-71598
 
@@ -54,11 +49,6 @@ Orša: maskvos kariuomenė net tris kartus buvo apgulusi Smolenską, užėmė Or
 - t-002
   global_id: t-73349
   teiginys: "Oršoje įsteigta jėzuitų kolegija buvo karaliaus Zigmanto fundacija."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "689807-690475; hash=8067db089f246b467b965cbdcbc93fb11aa2b7cfcdc95d5bc2bd6396860b3948; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-71599
 
@@ -66,11 +56,6 @@ Orša: maskvos kariuomenė net tris kartus buvo apgulusi Smolenską, užėmė Or
 - t-001
   global_id: t-73351
   teiginys: "Po Smolensko paėmimo 1514 m. Konstantinas Ostrogiškis ties Orša smarkiai sumušė Maskvos kariuomenę."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "422808-423047; hash=2b85d331e8b3b386f552637d75d9bea23d733f476f47a7ccd870bc52b6e7eaab; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-71598
 - susijęs iš Druckas: Druckas buvo paimtas kartu su Orša prieš priartėjant prie Vitebsko.
@@ -86,8 +71,8 @@ Orša: maskvos kariuomenė net tris kartus buvo apgulusi Smolenską, užėmė Or
     Netrukus po to atvykęs K. Ostrogiškis smarkiai sumušė Mas-
     kvos kariuomenę ties Orša.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -112,8 +97,8 @@ Orša: maskvos kariuomenė net tris kartus buvo apgulusi Smolenską, užėmė Or
     kiuose (Minkevičių f-ja), Brastoje (vicekanclerio L. K. Sa-
     piegos f-ja).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

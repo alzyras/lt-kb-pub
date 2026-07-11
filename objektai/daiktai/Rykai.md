@@ -55,16 +55,6 @@ Nenurodyta
 - t-001
   global_id: t-87118
   teiginys: "Rykai į Vilnių patekdavo iš Lenkijos ir Livonijos."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "74400-74926; hash=95db02d99e669aafccc223e906ef8b3875558e1f36d16e5c33fe61b8b419c65d; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Rykai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=28"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rykai\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-83097
 - susijęs iš [[objektai/asmenys/Jadvyga Jogailienė.md#claim-t-176417|Jadvyga Jogailienė]]: Karalienė Jadvyga Vilniaus Šv. Stanislovo katedrą apdovanojo brangiais rykais ir kita manta iš savo lobyno.
@@ -114,8 +104,8 @@ Nenurodyta
     tinei, ypač turinčiai rūmus tokio galingo valdovo, koks bu­
     vo Gediminas, tie ryšiai, suprantama, buvo pravartus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -153,6 +143,3 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-87118
-
-## Ryšiai
-- Rykai priklausė [[objektai/asmenys/Ona Jogailaitė]]

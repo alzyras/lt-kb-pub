@@ -57,19 +57,6 @@ Nenurodyta
 - t-001
   global_id: t-86935
   teiginys: "1582 m. sausio 11 d. Vilniuje klierikų mokymas ir vadovavimas seminarijai buvo patikėti Vilniaus Jėzaus draugijos kolegijai."
-  temporaliniai_duomenys: "įvykio data: 1582 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys yra nutrūkusi citatos dalis; citata aiškiai remia faktą apie seminarijos perdavimą jėzuitams."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "813016-814489; hash=eecd7719995a7d4b013e44609d2edaed9afd0eea2e07e1bc57578bb5a1f3f648; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Namas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilniaus vyskupijos seminarijos įkūrimas ir perdavimas Jėzaus draugijos kolegijai (1582 m. sausio 11 d.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Namas: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus vyskupijos seminarijos įkūrimas ir perdavimas Jėzaus draugijos kolegijai (1582 m. sausio 11 d.)\" parinktas kaip owner_note_path. Targetas \"Namas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-82914
 ## Reikšmingi paminėjimai
@@ -104,8 +91,8 @@ Nenurodyta
     antraisiais Viešpaties metais, popiežiaujant dešimtajam
     popiežiui šviesiausiajam mūsų Šv. Tėvui Grigaliui XIII.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -32,9 +32,6 @@ media_all_json: |-
 - t-001
   global_id: t-96053
   teiginys: "Karlio May „Per dykumą“ I, II ir III tomus iš originalo vertė J. Vadeikis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "729326-729448; hash=7d0b95ff193d65e173564abcbd652d47f283a7af89a934489eea353e7f8be9d2; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-36667
 ## Reikšmingi paminėjimai
@@ -46,8 +43,8 @@ media_all_json: |-
     2. Karl. May PER DYKUMĄ. I,_II ir III tomai. Iš originalo vertė J.
     Vadeikis. Vertimą kalbos atžvilgiu žiūrėjo J. Talmanas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

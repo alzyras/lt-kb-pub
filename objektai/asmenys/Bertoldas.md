@@ -35,17 +35,6 @@ Jie taip pat smurtu paėmė ir vieną dvasininką, poną Bertoldą, kurį jie ž
 - t-001
   global_id: t-87485
   teiginys: "Dvasininkas Bertoldas buvo smurtu paimtas ir žiauriai nužudytas savo namuose Rygos mieste."
-  semantiniai_rysiai: "Bertoldas mirė Ryga (0.93)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "195715-196018; hash=670d395501ecf26c18b99020504a03ac687732d7d96e34b48cdab465374ef973; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "mire -> Ryga: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Bertoldas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Ryga: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai teigia, kad Bertoldas buvo nužudytas Rygos mieste."
   pagrindžia:
     - c-83464
 
@@ -53,12 +42,6 @@ Jie taip pat smurtu paėmė ir vieną dvasininką, poną Bertoldą, kurį jie ž
 - t-002
   global_id: t-194223
   teiginys: "Trečia, ar galėjo jam rūpėti nužudytasis kunigas Bertoldas, apie kurį, iki tol la biausiai užsiėmęs karais savo Rytų pasienyje, tikriausiai taip smulkiai nė nežinojo, kad būtų galėjęs prijungti prie kaltini mų Ordinui."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "199368-199958; hash=eeb96818f76da0f3658836e6a21e263c0c54ffc9b5f0bb402c9e3a155eb7e8c8; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176823
 - susijęs iš [[objektai/asmenys/Bertoldas (pranciškonas).md#claim-t-30212|Bertoldas (pranciškonas)]]: Pranciškonas Bertoldas su Henriku į Gedimino laišką veikiausiai įrašė daugiau, negu Gediminas buvo ketinęs.
@@ -90,8 +73,8 @@ Jie taip pat smurtu paėmė ir vieną dvasininką, poną Bertoldą, kurį jie ž
     Jie ir žemes paverčia tyrais, kaip tai matyti Žiemgalijoje
     ir daugelyje kitų [vietų].
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -113,8 +96,8 @@ Jie taip pat smurtu paėmė ir vieną dvasininką, poną Bertoldą, kurį jie ž
     popiežiaus valdžią su sąlyga, kad tik niekada neturėtų įsi­
     pareigojimų Ordinui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

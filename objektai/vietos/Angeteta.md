@@ -34,9 +34,6 @@ Dusburgietis teigia, kad 337 D.— Angetete, Jer.— Angetêtin.
 - t-001
   global_id: t-58680
   teiginys: "Angetetos pilis buvo tapatinama su Engelšteinu, dabartiniu Vengelštinu į šiaurės vakarus nuo Mamrų ežero."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "359779-360268; hash=7f4ef8ce3bfc4ad1dd6645a0caf3542be0e268b5c1673fe10166a1d32a6ce211; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-59312
 - susijęs iš [[objektai/paprociai/Įkaitų davimas kaip sutarties garantija.md#claim-t-67239|Įkaitų davimas kaip sutarties garantija (sutartis)]]: Unzatrapio, Gundavos ir Angetetos pilių žmonės atsiuntė įkaitų ir pasidavė krikščionių tikėjimui bei broliams.
@@ -53,8 +50,8 @@ Dusburgietis teigia, kad 337 D.— Angetete, Jer.— Angetêtin.
     Angarben-Englau (Ewald A. L., Die Eroberung.., 3, p. 36), tapatinta ji su piliakalniu prie
     Gross Engelau, bet jo pėdsakų kol kas nerasta (CV, t.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -65,7 +62,8 @@ Dusburgietis teigia, kad 337 D.— Angetete, Jer.— Angetêtin.
 - id: c-59312
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 109"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 109."
   citata_originali: |
     337 D.— Angetete, Jer.— Angetêtin. Pilis buvo tapatinama su gerokai į pietryčius nuo
     Unzatrapio žemės buvusiu Engelšteinu (dab. Vengelštinas, Węgielsztyn, į šiaurės vakarus

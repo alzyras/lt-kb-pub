@@ -38,19 +38,6 @@ Dusburgietis teigia, kad potkowski E.
 - t-001
   global_id: t-61236
   teiginys: "E. Potkowskio tekstas „Papiestwo a państwa europejskie (XIII—XV w.)“ paskelbtas 1977 m. Varšuvoje leidinyje „Katolicyzm średniowieczny“."
-  temporaliniai_duomenys: "įvykio data: 1977 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pateikia bibliografinį šaltinio įrašą su leidimo vieta ir metais."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "791227-791347; hash=21748fb199440c35678014970d91a938224b856425b3ca665fd5d040688864e6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Varšuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Potkowski E. Papiestwo a państwa europejskie (XIII— XV w.)—Katolicyzm średniowieczny, Warszawa, 1977, s. 9— 106: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Varšuva: mention_match, place, gap=88"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Potkowski E. Papiestwo a państwa europejskie (XIII— XV w.)—Katolicyzm średniowieczny, Warszawa, 1977, s. 9— 106\" parinktas kaip owner_note_path. Targetas \"Varšuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-61868
 ## Reikšmingi paminėjimai
@@ -62,8 +49,8 @@ Dusburgietis teigia, kad potkowski E.
     Potkowski  E.  Papiestwo  a  państwa  europejskie  (XIII—  XV  w.)—Katolicyzm
     średniowieczny, Warszawa, 1977, s. 9— 106.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -74,7 +61,8 @@ Dusburgietis teigia, kad potkowski E.
 - id: c-61868
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 269"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 269."
   citata_originali: |
     Potkowski  E.  Papiestwo  a  państwa  europejskie  (XIII—  XV  w.)—Katolicyzm
     średniowieczny, Warszawa, 1977, s. 9— 106.

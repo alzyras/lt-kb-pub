@@ -46,16 +46,6 @@ Vaitiekus Taboras, kilme lietuvių bajoras, nuo Eišiškių, iškeltas į vyskup
 - t-004
   global_id: t-87411
   teiginys: "Į Vilnių nugabentą Aleksandrą lydėjo karalienė Elena, Vilniaus vyskupas Vaitiekus Taboras, Jonas Zabžezinskis ir Jonas Laskis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "475138-475562; hash=9c8a162056336f560d6de80e5746197e32ba48304b8cd4c06975fb007c390801; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jonas Laskis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vaitiekus Taboras (vyskupas, XV–XVI a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Jonas Laskis: mention_match, person, gap=19"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vaitiekus Taboras (vyskupas, XV–XVI a.)\" parinktas kaip owner_note_path. Targetas \"Jonas Laskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-83392
 
@@ -63,16 +53,6 @@ Vaitiekus Taboras, kilme lietuvių bajoras, nuo Eišiškių, iškeltas į vyskup
 - t-003
   global_id: t-87412
   teiginys: "Vilniaus vyskupas Vaitiekus Taboras ragino ir rėmė miestiečius, apjuosusius Vilnių mūro pylimu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "471762-472295; hash=488f01d148180550914746e8b0670135b5d50ed79f5e8f1d537060644f7e7bb1; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Minskas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vaitiekus Taboras (vyskupas, XV–XVI a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Minskas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vaitiekus Taboras (vyskupas, XV–XVI a.)\" parinktas kaip owner_note_path. Targetas \"Minskas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-83393
 
@@ -80,19 +60,6 @@ Vaitiekus Taboras, kilme lietuvių bajoras, nuo Eišiškių, iškeltas į vyskup
 - t-001
   global_id: t-87413
   teiginys: "Vaitiekus Taboras, lietuvių bajoras nuo Eišiškių, 1491 m. buvo iškeltas į vyskupus ir mirė 1507 m."
-  temporaliniai_duomenys: "įvykio data: 1491 m.; įvykio data: 1507 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra išsamus, gramatiškas ir paremtas citatos duomenimis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "406050-406628; hash=bf6a838e06c92e82a5a52f8b84bb5ef1be96b8d14ca074c0fa3bd93880d20f12; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vaitiekus Taboras (vyskupas, XV–XVI a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=19"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vaitiekus Taboras (vyskupas, XV–XVI a.)\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-83390
 
@@ -100,16 +67,6 @@ Vaitiekus Taboras, kilme lietuvių bajoras, nuo Eišiškių, iškeltas į vyskup
 - t-002
   global_id: t-87414
   teiginys: "Vilniaus vyskupas Vaitiekus Taboras kartu su graikų tikėjimo dvasininku Foma sutuokė didįjį kunigaikštį su Elena."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "467608-468045; hash=a03a12e62592cd523721aa13c3e5352bd3063aadbc883d8ef691f9c001d15211; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Foma: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vaitiekus Taboras (vyskupas, XV–XVI a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Foma: mention_match, person, gap=54"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vaitiekus Taboras (vyskupas, XV–XVI a.)\" parinktas kaip owner_note_path. Targetas \"Foma\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-83391
 
@@ -117,19 +74,6 @@ Vaitiekus Taboras, kilme lietuvių bajoras, nuo Eišiškių, iškeltas į vyskup
 - t-005
   global_id: t-184852
   teiginys: "Po Vilniaus vyskupo Andriaus mirties jo įpėdiniu tapo šviesiausios kilmės Vaitiekus Taboras."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "953568-954236; hash=34d970cd27e71cbfddc149d0985e696cb99f74cea5b27f8db4ea07092b6015e4; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aleksandras: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vaitiekus Taboras (vyskupas, XV–XVI a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Aleksandras: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vaitiekus Taboras (vyskupas, XV–XVI a.)\" parinktas kaip owner_note_path. Targetas \"Aleksandras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-168213
 
@@ -137,19 +81,6 @@ Vaitiekus Taboras, kilme lietuvių bajoras, nuo Eišiškių, iškeltas į vyskup
 - t-006
   global_id: t-184853
   teiginys: "Kojelavičius pasakoja, kad Vaitiekus Taboras meldė Dievo laiminti valstybę, ragino kunigaikštį sekti prosenelių keliu ir uždėjo jam valdžios vainiką."
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "955416-956015; hash=11ffb7edaef12c12167c5edca54b7f75c2cb7986a63b1eef4a9762833ae56b38; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jogailaičiai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vaitiekus Taboras (vyskupas, XV–XVI a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Jogailaičiai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vaitiekus Taboras (vyskupas, XV–XVI a.)\" parinktas kaip owner_note_path. Targetas \"Jogailaičiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-168214
 - susijęs iš Šv. Stanislovo katedra: Šv. Stanislovo katedroje Vilniaus vyskupas Vaitiekus Taboras sutuokė didįjį kunigaikštį Aleksandrą su Elena.
@@ -174,8 +105,8 @@ Vaitiekus Taboras, kilme lietuvių bajoras, nuo Eišiškių, iškeltas į vyskup
     dėl Vilniaus aptvėrimo mūro siena - pirmasis davė mintį
     magistratui ir daug prisidėjo lėšomis. Mirė 1507 metais.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -194,8 +125,8 @@ Vaitiekus Taboras, kilme lietuvių bajoras, nuo Eišiškių, iškeltas į vyskup
     vanoti43, o iškilmės Lietuvos sostinėje tęsėsi beveik iki
     42 daugelyje rusų metraščių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -214,8 +145,8 @@ Vaitiekus Taboras, kilme lietuvių bajoras, nuo Eišiškių, iškeltas į vyskup
     Laskis. O totoriai, ties Kłecku įsirengę košą, arba stovyklą,
     nemažą būrį pasiuntė į Naugarduką.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -236,8 +167,8 @@ Vaitiekus Taboras, kilme lietuvių bajoras, nuo Eišiškių, iškeltas į vyskup
     vyskupo Vaitiekaus Taboro, visą miestą apjuosė mūro py­
     limu, išmetę medinius statinius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -270,8 +201,8 @@ Vaitiekus Taboras, kilme lietuvių bajoras, nuo Eišiškių, iškeltas į vyskup
     vos, Žemaitijos seniūnas Kęsgailą, kunigaikščiai Vosy-
     lus ir Mykolas Glinskiai.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -294,8 +225,8 @@ Vaitiekus Taboras, kilme lietuvių bajoras, nuo Eišiškių, iškeltas į vyskup
     Lietuvos Didžiosios Kunigaikštystės sostas šiandieną
     Tave išrinko ir paskelbė mūsų valdovu.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -425,7 +356,8 @@ Vaitiekus Taboras, kilme lietuvių bajoras, nuo Eišiškių, iškeltas į vyskup
 - id: c-168214
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 541"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 541."
   citata_originali: |
     Stanislovo
     katedrą ir pasodino į tėvo sostą. Vaitiekus Taboras, pa­

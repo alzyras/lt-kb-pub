@@ -32,16 +32,6 @@ media_all_json: |-
 - t-001
   global_id: t-32732
   teiginys: "Lietuva Žemaičiuose apėmė į vakarus nuo Nevėžio buvusį Šušvės baseiną."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "357815-358144; hash=4caca716d31847c7b0b704169043d0f97b19d906453811eb47333f68bb4affef; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Dubysa: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Šušvė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Dubysa: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šušvė\" parinktas kaip owner_note_path. Targetas \"Dubysa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-34118
 - susijęs iš Eilėtoji Livonijos kronika: Eiliuotinės Livonijos kronikos autorius žemaičius tapatino su lietuviais ir beveik trečdalį kronikos skyrė Livonijos ordino santykiams su Lietuva.
@@ -64,8 +54,8 @@ media_all_json: |-
     Lietuva Žemaičiuose apėmė plotą į vakarus nuo Nevėžio, t. y.
     Šušvės ir Dubysos baseinus, Ventos ir Minijos aukštupius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -91,6 +81,3 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-32732
-
-## Ryšiai
-- Šušvė priklausė [[objektai/vietos/Lietuva]]

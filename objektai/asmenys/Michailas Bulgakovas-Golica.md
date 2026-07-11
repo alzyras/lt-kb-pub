@@ -43,12 +43,6 @@ Kunigaikštis Michailas Bulgakovas-Golica, vienas iš vaivadų, pasiųstų Oršo
 - t-002
   global_id: t-79110
   teiginys: "Kunigaikštis Michailas Bulgakovas-Golica Oršos mūšyje vadovavo dešiniajam flangui."
-  temporaliniai_duomenys: "įvykio data: 1516 m.; įvykio data: 1551 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Claimas yra aiškus, gramatiškas ir paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "329384-329715; hash=50f3b088b4663a14a907c8a708442e172ad67e1e629441e717fa420ddf6e67bc; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-76199
 
@@ -56,12 +50,6 @@ Kunigaikštis Michailas Bulgakovas-Golica, vienas iš vaivadų, pasiųstų Oršo
 - t-001
   global_id: t-79111
   teiginys: "Kunigaikštis Michailas Bulgakovas-Golica, vienas iš vaivadų, pasiųstų Oršos link, mūšyje vadovavo dešiniajam flangui."
-  temporaliniai_duomenys: "įvykio data: 1516 m.; įvykio data: 1551 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Claimas yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "329384-329715; hash=50f3b088b4663a14a907c8a708442e172ad67e1e629441e717fa420ddf6e67bc; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-76199
 ## Reikšmingi paminėjimai
@@ -86,8 +74,8 @@ Kunigaikštis Michailas Bulgakovas-Golica, vienas iš vaivadų, pasiųstų Oršo
     vėje Lietuvoje, jau senas,
     1551 m. grįžo į tėvynę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

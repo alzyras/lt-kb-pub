@@ -38,22 +38,6 @@ Pasienio seniūnas Jurga dovanomis išpirko lietuviams priklausomas valdas nuo s
 - t-001
   global_id: t-186222
   teiginys: "Pasienio seniūnas Jurga dovanomis išpirko lietuviams priklausomas valdas nuo skitų antpuolių."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1449 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai susietas su Jurga ir pagrįstas citatos duomenimis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "862289-863105; hash=f1ed393802b703327d7d44692362a7c732be0f02630019716a52e5aa9a5a042a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jurga (pasienio seniūnas): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=24"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jurga (pasienio seniūnas)\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-169583
 - susijęs iš [[objektai/ivykiai/Skitų niokojamas žygis į lenkų valdomą Podolę ir Braclavo žemės išpirkimas (1449 m.).md#claim-t-185767|Skitų niokojamas žygis į lenkų valdomą Podolę ir Braclavo žemės išpirkimas (1449 m.)]]: 1449 m. skitai nuniokojo lenkų valdytą Podolės dalį, o Jurga dovanomis apsaugojo Braclavo žemę nuo antpuolių.
@@ -87,8 +71,8 @@ Pasienio seniūnas Jurga dovanomis išpirko lietuviams priklausomas valdas nuo s
     be karaliaus žinios lietuviai sukurstė skitus prieš len­
     kus, nes jis mat nepritarė nė vienam jų sumanymui.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -99,7 +83,8 @@ Pasienio seniūnas Jurga dovanomis išpirko lietuviams priklausomas valdas nuo s
 - id: c-169583
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 490"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 490."
   citata_originali: |
     Štai todėl, norėdamas išvengti gink­
     luotų susidūrimų, jis sušaukė Naugarduke seimą ir pats
@@ -129,7 +114,3 @@ Pasienio seniūnas Jurga dovanomis išpirko lietuviams priklausomas valdas nuo s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186222
-
-## Ryšiai
-- Jurga (pasienio seniūnas) gynė [[objektai/vietos/Braclavas]]
-- Jurga (pasienio seniūnas) rėmė [[objektai/grupes/Lietuviai]]

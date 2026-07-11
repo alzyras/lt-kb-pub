@@ -51,17 +51,6 @@ Nenurodyta
 - t-001
   global_id: t-08287
   teiginys: "Tris dievų stabai buvo įstatyti ąžuolo uoksuose."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "271403-271918; hash=d561004ff2c2354abd6e301e1adbfc1a38cbe19f66c562534f6938e920c2b8cb; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> kūrėjų kūrėjas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Dievų stabai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "kūrėjų kūrėjas: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dievų stabai\" parinktas kaip owner_note_path. Targetas \"kūrėjų kūrėjas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-10244
 
@@ -69,17 +58,6 @@ Nenurodyta
 - t-002
   global_id: t-08288
   teiginys: "Per metines viešas aukas žmonės meldėsi prie šėtroje stovinčio aukuro ir dievo stabo."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "253447-253930; hash=16f5e0c3c869e807a2bceed98d631f67fa956e03ecd91196ba27108ef057af07; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aukuras: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Dievų stabai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Aukuras: mention_match, thing, gap=16"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dievų stabai\" parinktas kaip owner_note_path. Targetas \"Aukuras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-10245
 
@@ -87,22 +65,6 @@ Nenurodyta
 - t-003
   global_id: t-188380
   teiginys: "Luno Heliogabalo stabas, Aurelijus Antonino pastatytas Romos Kapitolijuje, buvo didžiulis juodas akmuo, laikytas iš dangaus nukritusiu meteoritu."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Aurelijus Antoninas pastatė Dievų stabai (0.76)"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "417806-418310; hash=c488b69b2bbcd935adc23437d5d79e7d10cc319fc0670c8229394eb435c97658; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "pastate -> Dievų stabai: 0.76"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Aurelijus Antoninas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Dievų stabai: llm_allowed_candidate, thing"
-  ryšio_paaiskinimas: "Citata tiesiogiai teigia, kad Aurelijus Antoninas pastatė stabą; objekto pastaba yra platesnė dievų stabų kategorija."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171274
 
@@ -110,21 +72,6 @@ Nenurodyta
 - t-004
   global_id: t-188381
   teiginys: "Narbutas rašė, kad Lietuvai priimant krikščionybę dievų stabai buvo labiausiai naikinami, ypač kryžiuočių ir kalavijuočių riterių."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "449735-450162; hash=99caf8184bfc55f8f1f65c135e1828faf8f622cc5a66451c4bb84fa57264cfcc; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kalavijuočių ordinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Dievų stabai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Kalavijuočių ordinas: mention_match, group, gap=59"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dievų stabai\" parinktas kaip owner_note_path. Targetas \"Kalavijuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171275
 
@@ -132,14 +79,6 @@ Nenurodyta
 - t-005
   global_id: t-188382
   teiginys: "Narbutas spėjo, kad minėtame panteone galėjo būti dievų stabų rinkinys, nors smulkmenų apie jį neturėta."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "475434-475638; hash=ddbdcd8117e2a64c11b5a37bcddd0a35a9ec02a82bd0712cbd55281cb8439c77; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171276
 
@@ -147,14 +86,6 @@ Nenurodyta
 - t-006
   global_id: t-188383
   teiginys: "Narbutas teigė, kad tikėjimo vadovai veikė visuomenę nešiodamiesi Pokliaus stabuką ir pranašaudami dievų bausmes bei dovanas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "502685-503195; hash=d9595a4bf9768213fd50d707b540c6079fc7ecb9d1264043853a4f16910f7482; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-171277
 - susijęs iš Upsala: Narbutas Upsalos šventovę lygino su Romove, nes joje, remiantis Adomu Bremenietiu, stovėjo trijų vyriausiųjų dievų stabai.
@@ -173,8 +104,8 @@ Nenurodyta
         prasidžiugęs ir stebėjęs, nesgi iki šiolei svietas meldęs dievus, veizėdamas į saulę ir delčią, o dabar
         išvydęs jų veidus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -190,8 +121,8 @@ Nenurodyta
         kaušą ar taurę ir tuo nešinas, tris kartus apėjo apie stalą ir tenai padėjo duoną ir taurę. Tad prie
         aukuro ir stabo, šėtre stovinčio, meldės, pakaitomis su svietu giedodamas, kaip viršiau regėjom.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -212,8 +143,8 @@ Nenurodyta
     sienos įdubimą; dažniausiai tai būdavo slaptosiose šventyklo­
     se.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -232,8 +163,8 @@ Nenurodyta
     Prilvico stabai saugomi Raceburgo bibliotekoje ir Nauja­
     jame Brandenburge, Sponholco kabinete**.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -251,8 +182,8 @@ Nenurodyta
     kalnas, iškili vieta. Tačiau smulkmenų apie tą panteoną ne­
     turime; reikėtų manyti, kad jame turėjo būti stabų rinkinys.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -273,8 +204,8 @@ Nenurodyta
     sirodyti, ir kitokiais panašiais prasimanymais. Mat sumanęs
     14 Schütz.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -326,7 +257,8 @@ Nenurodyta
 - id: c-171274
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 242"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 242."
   citata_originali: |
     Luno Heliogabalo stabas, kurį
     Aurelijus Antoninas pastatė Romoje, ant Kapitolijaus kalno,
@@ -348,7 +280,8 @@ Nenurodyta
 - id: c-171275
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 259"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 259."
   citata_originali: |
     Šios rūšies paminklai buvo labiausiai naikinami Lietuvai
     priimant krikščionių tikėjimą; ypač atvertėjai -  kryžiuočių ir
@@ -387,7 +320,8 @@ Nenurodyta
 - id: c-171277
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 287"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 287."
   citata_originali: |
     Politinė padėtis jau buvo
     nepalanki senajai religinei santvarkai, todėl tikėjimo galvos
@@ -405,7 +339,3 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-188383
-
-## Ryšiai
-- Buvo pastatyta: [[objektai/asmenys/Aurelijus Antoninas]]
-- Dievų stabai priklausė [[objektai/vietos/Upsala]]

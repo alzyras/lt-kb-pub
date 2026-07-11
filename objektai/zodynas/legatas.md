@@ -41,12 +41,6 @@ Be paties Vytauto ir Jogailos, čia atvyko Maskvos, Tverės, Riazanės kunigaik�
 - t-001
   global_id: t-185344
   teiginys: "Vasilijus, Maskvos kunigaikštis, siūlė karaliui atsiųsti didesnius įgaliojimus turinčius legatus taikos deryboms."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1075031-1075629; hash=d256708b059c02531dfb24a3ca5655058fc05e821b85c64118c174e7528a610f; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-168705
 
@@ -54,12 +48,6 @@ Be paties Vytauto ir Jogailos, čia atvyko Maskvos, Tverės, Riazanės kunigaik�
 - t-002
   global_id: t-185345
   teiginys: "Augustas paragino savo legatus su kunigaikščiu Ivanu kalbėtis ir dėl Livonijos reikalų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1247645-1248095; hash=ab84b3cc22ce40eb7a4e52eac93e06f6ec03074713b7dd32fc216957f2ce547c; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-168706
 
@@ -67,12 +55,6 @@ Be paties Vytauto ir Jogailos, čia atvyko Maskvos, Tverės, Riazanės kunigaik�
 - t-003
   global_id: t-185346
   teiginys: "Legatams pareikalavus Seversko ir Smolensko, Maskvos didikai atsisakė tartis dėl užimtų žemių grąžinimo."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1247914-1248559; hash=be28d916abf516d75e52e49bd1631a28d0580a25f523125a09a40cd186280110; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-168707
 
@@ -80,12 +62,6 @@ Be paties Vytauto ir Jogailos, čia atvyko Maskvos, Tverės, Riazanės kunigaik�
 - t-004
   global_id: t-193457
   teiginys: "Neilgai trukus pasiuntęs tarpininką, jis pareiškė karaliui norįs su juo sudaryti taiką ir dėl to galįs atsiųsti didesnių įgaliojimų turinčius legatus, jeigu karalius sutinkąs daugiau nebelieti krikščionių kraujo."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1075031-1075629; hash=d256708b059c02531dfb24a3ca5655058fc05e821b85c64118c174e7528a610f; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-168705
 
@@ -93,12 +69,6 @@ Be paties Vytauto ir Jogailos, čia atvyko Maskvos, Tverės, Riazanės kunigaik�
 - t-005
   global_id: t-193458
   teiginys: "Kai ši žinia pasiekė Lenkiją, Augustas, sku biai pasiuntęs žygūną, paragino savo legatus pasikal bėti su kunigaikščiu Ivanu ir dėl Livonijos reikalų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1247645-1248095; hash=ab84b3cc22ce40eb7a4e52eac93e06f6ec03074713b7dd32fc216957f2ce547c; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-168706
 
@@ -106,12 +76,6 @@ Be paties Vytauto ir Jogailos, čia atvyko Maskvos, Tverės, Riazanės kunigaik�
 - t-006
   global_id: t-193459
   teiginys: "Legatams reikalaujant Seversko ir Smolensko, Maskvos didikai atsakė, kad nesą kunigaikščio įgalioti tartis dėl užimtų žemių sugrąžinimo."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1247914-1248559; hash=be28d916abf516d75e52e49bd1631a28d0580a25f523125a09a40cd186280110; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-168707
 ## Reikšmingi paminėjimai
@@ -144,8 +108,8 @@ Be paties Vytauto ir Jogailos, čia atvyko Maskvos, Tverės, Riazanės kunigaik�
     paragino karalių pritarti siūlomai taikai, kurios jis
     ir pats norėjo.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -166,8 +130,8 @@ Be paties Vytauto ir Jogailos, čia atvyko Maskvos, Tverės, Riazanės kunigaik�
     tams leido ką siūlyti dėl Livonijos ir net dėl taikos su
     Lietuva.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -203,8 +167,8 @@ Be paties Vytauto ir Jogailos, čia atvyko Maskvos, Tverės, Riazanės kunigaik�
     trauksią iš likusios Rusios dalies, kuri dabar lietuvių ir
     lenkų rankose.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -252,7 +216,8 @@ Be paties Vytauto ir Jogailos, čia atvyko Maskvos, Tverės, Riazanės kunigaik�
 - id: c-168706
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 699"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 699."
   citata_originali: |
     Apiplėšęs Dorpatą, išsivarė į nelaisvę miesto bei
     apygardos valdytoją Dorpato vyskupą ir visą dvasinin­

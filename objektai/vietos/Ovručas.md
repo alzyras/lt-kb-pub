@@ -41,19 +41,6 @@ Tik 1394 metais jis puolė Vladimiro že­ mes ir paėmė Ovručą ir Žitomirą
 - t-001
   global_id: t-36470
   teiginys: "1394 m. Vytautas puolė Vladimiro žemes ir paėmė Ovručą bei Žitomirą."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) užėmė Ovručas (0.95); Vytautas (Lietuvos valdovas, XIV–XV a.) užėmė Žitomiras (0.95)"
-  temporaliniai_duomenys: "įvykio data: 1394 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "142793-142993; hash=b2463cb7f837479250f0d604e96d340b77e5ebb89b54319b90006d6590cb9164; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Ovručas: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Ovručas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad Vytautas paėmė Ovručą."
   pagrindžia:
     - c-38593
 
@@ -61,23 +48,6 @@ Tik 1394 metais jis puolė Vladimiro že­ mes ir paėmė Ovručą ir Žitomirą
 - t-002
   global_id: t-185075
   teiginys: "Gedimino kariuomenė perėjo Vladimiro ir Lucko žemes, nedarydama sąjungininkams skriaudų, ir priartėjo prie Ovručo."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Gediminas keliavo į Luckas (0.78); Gediminas surengė žygį į Ovručas (0.63)"
-  temporaliniai_duomenys: "įvykio data: 1320 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nusako Gedimino kariuomenės judėjimą link Ovručo."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "343299-344250; hash=0de6a142eb86ab26e2b72d3b295dca4dfbbcee710da69d01b6b3596b305ae71c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Luckas: 0.78"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Luckas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Gedimino kariuomenė perėjo Lucko žemes."
   pagrindžia:
     - c-168436
 
@@ -85,22 +55,6 @@ Tik 1394 metais jis puolė Vladimiro že­ mes ir paėmė Ovručą ir Žitomirą
 - t-003
   global_id: t-187628
   teiginys: "Lietuvos metraštis pasakoja, kad lietuviai Ovručo ir kitais keliais gaudė bėgančius totorius, juos žudė ir atiminėjo grobį."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Lietuviai puolė Totoriai (0.72)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "300572-301022; hash=84557da06015079f01386282cd490907f5adf727b81746ac1f6223a4294418b6; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Totoriai: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Totoriai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Tekstas aprašo lietuvių smurtinį veiksmą prieš bėgančius totorius."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-170575
 - susijęs iš Žitomiras: 1394 m. Vytautas puolė Vladimiro žemes ir paėmė Ovručą bei Žitomirą.
@@ -116,8 +70,8 @@ Tik 1394 metais jis puolė Vladimiro že­ mes ir paėmė Ovručą ir Žitomirą
     mes ir paėmė Ovručą ir Žitomirą. Nusigandęs Vladimiras at­
     važiavo Vytautui nusilenkti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -164,8 +118,8 @@ Tik 1394 metais jis puolė Vladimiro že­ mes ir paėmė Ovručą ir Žitomirą
     namas
     monarchu.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -188,8 +142,8 @@ Tik 1394 metais jis puolė Vladimiro že­ mes ir paėmė Ovručą ir Žitomirą
     2itomiro, Volynės keliais į visas puses, lietuviai žudė
     ir atiminėjo grobį. Labai maža jų grįžo į Ordą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -289,4 +243,3 @@ Tik 1394 metais jis puolė Vladimiro že­ mes ir paėmė Ovručą ir Žitomirą
 
 ## Ryšiai
 - Užėmė Ovručą: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Buvo žygio kryptis: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]

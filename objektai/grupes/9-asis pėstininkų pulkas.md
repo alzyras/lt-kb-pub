@@ -32,17 +32,6 @@ Spalio 30 d. trys lietuvių batalionai iš 2-ojo, 7-ojo ir 9-ojo pėstininkų pu
 - t-001
   global_id: t-40831
   teiginys: "Spalio 30 d. trys lietuvių batalionai iš 2-ojo, 7-ojo ir 9-ojo pėstininkų pulkų pradėjo kontrpuolimą ir po permainingų ir nemažai nuostolių pareikalavusių kovų atsiėmė po paskutinio lenkų puolimo prarastas Lietuvos žemes."
-  semantiniai_rysiai: "Lietuviai keliavo į Giedraičiai (0.86); 9-asis pėstininkų pulkas puolė Lenkai (0.63)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "858634-859031; hash=7b4bc33cf227f5d5e5c78f58ffa043fa82b4b6f68ccb49c01c3590da3ea72351; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Giedraičiai: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Giedraičiai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo lietuvių įžengimą į Giedraičius."
   pagrindžia:
     - c-44714
 ## Reikšmingi paminėjimai
@@ -63,8 +52,8 @@ Spalio 30 d. trys lietuvių batalionai iš 2-ojo, 7-ojo ir 9-ojo pėstininkų pu
     žemes. Lapkričio 1 d. lietuviai įžengė
     į Giedraičius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -96,6 +85,3 @@ Spalio 30 d. trys lietuvių batalionai iš 2-ojo, 7-ojo ir 9-ojo pėstininkų pu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40831
-
-## Ryšiai
-- 9-asis pėstininkų pulkas puolė [[objektai/grupes/Lenkai]]

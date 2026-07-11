@@ -40,14 +40,6 @@ HrlU, IV, 127 p. — J. Caro : Geschichte Polens, III, 1869, 211 p.
 - t-001
   global_id: t-100111
   teiginys: "J. Caro 1869 m. išleido veikalo „Geschichte Polens“ trečią tomą."
-  temporaliniai_duomenys: "įvykio data: 1869 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis tekstas yra bibliografinis fragmentas; citata leidžia suformuluoti glaustą faktinį sakinį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "993183-993268; hash=309d771ffb8571663ae49f839633c042472d6b566442064700f5fae7bae59647; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T14:26:26Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-94017
 - susijęs iš J. Caro, Geschichte Polens: J. Caro veikalo „Geschichte Polens“ III tomas buvo išleistas 1869 m.
@@ -62,8 +54,8 @@ HrlU, IV, 127 p. — J. Caro : Geschichte Polens, III, 1869, 211 p.
     — HrlU,
     **IV, 127 p. — J.** Caro **:** **_Geschichte Polens,_** **III, 1869, 211** p.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

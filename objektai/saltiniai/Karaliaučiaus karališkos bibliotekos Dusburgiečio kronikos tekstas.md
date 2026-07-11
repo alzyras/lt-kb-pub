@@ -40,19 +40,6 @@ Dusburgietis teigia, kad karaliaučiaus karališkos bibliotekos tekstas, kaip pa
 - t-001
   global_id: t-61094
   teiginys: "Karaliaučiaus karališkos bibliotekos Dusburgiečio kronikos tekstas 1540 m. sausio 16 d. pradėtas perrašinėti iš P. Speratui priklausiusios knygos."
-  temporaliniai_duomenys: "įvykio data: 1540 m.; įvykio data: 1568 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pagrindžia nuorašo pradžios datą ir pirminės knygos savininką."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "49608-50045; hash=99b8c67c0b6b4ac6253f76d304acf0ace48a5af787bab1900e2b65b8d2b03d9b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lotynai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Karaliaučiaus karališkos bibliotekos Dusburgiečio kronikos tekstas: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Lotynai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Karaliaučiaus karališkos bibliotekos Dusburgiečio kronikos tekstas\" parinktas kaip owner_note_path. Targetas \"Lotynai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-61726
 ## Reikšmingi paminėjimai
@@ -67,8 +54,8 @@ Dusburgietis teigia, kad karaliaučiaus karališkos bibliotekos tekstas, kaip pa
     (mirusio 1568 m.) herbas, rodąs tuometinį jo šeimininką. Nurašinėtojas prastokai mokėjo
     lotynų kalbą, ne visada teisingai suprato XIV a. sutrumpinimus, darė kitų klaidų.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -79,7 +66,8 @@ Dusburgietis teigia, kad karaliaučiaus karališkos bibliotekos tekstas, kaip pa
 - id: c-61726
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 19"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 19."
   citata_originali: |
     Karaliaučiaus karališkos bibliotekos tekstas, kaip pažymėta jo antraštiniame puslapyje,
     1540 m. sausio 16 d. pradėtas perrašinėti iš Pamedės vyskupui P. Speratui priklausiusios

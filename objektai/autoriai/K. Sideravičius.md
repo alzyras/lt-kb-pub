@@ -41,18 +41,6 @@ Sideravičius: Nuo Durbės iki Žal­ girio (1944).
 - t-001
   global_id: t-30749
   teiginys: "K. Sideravičius 1944 m. paskelbė darbą „Nuo Durbės iki Žalgirio“."
-  temporaliniai_duomenys: "įvykio data: 1944 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "215332-215533; hash=592844b8e612550754a8697b573c3ba8b1dee6e13bc741ab7267af614bab4324; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Durbė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "K. Sideravičius: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Durbė: mention_match, place, gap=44"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"K. Sideravičius\" parinktas kaip owner_note_path. Targetas \"Durbė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-32998
 ## Reikšmingi paminėjimai
@@ -65,8 +53,8 @@ Sideravičius: Nuo Durbės iki Žal­ girio (1944).
     girio_ (1944). Bendrą tų kovų istoriją paruošė istorikų kolektyvas :
     _Lietuviu karas su kryžiuočiais,_ red. J. Jurginis (LKaKr).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

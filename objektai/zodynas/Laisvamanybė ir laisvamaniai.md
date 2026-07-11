@@ -53,16 +53,6 @@ Nenurodyta
 - t-003
   global_id: t-10883
   teiginys: "Laisvamanybė pateikiama kaip viena iš pagrindinių J. Šliūpo gyvenimo kovų."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "1282649-1282980; hash=549441808613d8c1967613614e1993e9047ddb1d4016e61f0faf176197871c1b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Viena: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Laisvamanybė ir laisvamaniai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Viena: mention_match, place, gap=29"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Laisvamanybė ir laisvamaniai\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-00276
 
@@ -70,9 +60,6 @@ Nenurodyta
 - t-004
   global_id: t-10884
   teiginys: "Laisvamaniai kartu su griežtesniaisiais tautininkais susibūrė apie Joną Šliūpą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "1282784-1283048; hash=60d7ed6b0ad77d7b5d7e20f0a908cec65f7e0a816762a8d16c70f6c8e9d8fa0c; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-00277
 ## Reikšmingi paminėjimai
@@ -87,8 +74,8 @@ Nenurodyta
     gyvenimą kovojo dėl dviejų dalykų: dėl tautos teisių bei su-
     sipratimo ir dėl laisvamanybės.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -104,8 +91,8 @@ Nenurodyta
     sipratimo ir dėl laisvamanybės. Todėl apie jį susibūrė griežtes-
     nieji tautininkai ir laisvamaniai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

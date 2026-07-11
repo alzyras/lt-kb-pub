@@ -30,22 +30,6 @@ Narbutas išnašoje remiasi Swięckio „Opis starožytnej Polski“ II tomu dė
 - t-001
   global_id: t-190563
   teiginys: "Narbutas išnašoje remiasi Swięckio „Opis starožytnej Polski“ II tomu dėl Triznų giminės kilmės iš Seversko žemės."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Triznų giminė gyveno Seversko žemės (0.78)"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "653323-653429; hash=3c7471dfb29513ee8df142052faba4c4491c2d1dc809b1b8f677eca70ee5e34f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Seversko žemės: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Triznų giminė: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Seversko žemės: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Triznų giminės kilmę iš Seversko žemės; leistina artimiausia vietos semantika yra gyveno."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173446
 ## Reikšmingi paminėjimai
@@ -58,8 +42,8 @@ Narbutas išnašoje remiasi Swięckio „Opis starožytnej Polski“ II tomu dė
     23 Triznų giminė yra kilusi iš Seversko žemės (Swięcki. Opis sta-
     rožytnej Polski. -  T. II).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -70,7 +54,8 @@ Narbutas išnašoje remiasi Swięckio „Opis starožytnej Polski“ II tomu dė
 - id: c-173446
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 368"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 368."
   citata_originali: |
     Net buvo ap­
     23 Triznų giminė yra kilusi iš Seversko žemės (Swięcki. Opis sta-

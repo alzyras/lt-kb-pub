@@ -35,16 +35,6 @@ Pilaitė, jėzuitų buvusi, per mylią nuo Vilniaus atstu, dešiniajame Vilijos 
 - t-001
   global_id: t-85941
   teiginys: "Pilaitė, buvusi jėzuitų valda dešiniajame Vilijos krante, Balińskio laikyta viena seniausių įtvirtintų vietovių prie Vilniaus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "135534-136200; hash=e3f946930062c8428641162dd0f40d11a4614d1502fcd5d81733ab1aec888904; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Viena: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Pilaitė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Viena: mention_match, place, gap=76"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pilaitė\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-81922
 - susijęs iš Kristburgas: Pagudėnai prie Kristburgo užpuolė netoliese buvusią pilaitę, kurioje gyveno tikintieji pamedėnai, ir ją sugriovė.
@@ -127,8 +117,8 @@ Pilaitė, jėzuitų buvusi, per mylią nuo Vilniaus atstu, dešiniajame Vilijos 
     po jų tapo jėzuitų nuosavybe, pagaliau atiteko Vilniaus uni­
     versitetui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -165,9 +155,6 @@ Pilaitė, jėzuitų buvusi, per mylią nuo Vilniaus atstu, dešiniajame Vilijos 
     - t-85941
 
 ## Ryšiai
-- Buvo pastatyta: [[objektai/grupes/Kryžiuočių ordinas]]
-- Puolė Pilaitę: [[objektai/asmenys/Giunteris iš Regenšteino]], [[objektai/grupes/Pagudėnai]], [[objektai/grupes/Sūduviai]]
-- Užėmė Pilaitę: [[objektai/grupes/Pagudėnai]], [[objektai/asmenys/Šindekopfas]]
+- Puolė Pilaitę: [[objektai/grupes/Pagudėnai]]
 - Gyvenamoji vieta: [[objektai/asmenys/Pipinas]]
-- Turėjo priklausinį: [[objektai/daiktai/Pilaitės kunigaikščių pilis]], [[objektai/daiktai/Pilaitės malūnas, kalvė ir lentpjūvė]], [[objektai/daiktai/Pilaitės pilkapis prie Sudervėlės]]
-- Pilaitė priklausė [[objektai/asmenys/Fričinskis]], [[objektai/vietos/Torunė]], [[objektai/vietos/Vilnius]]
+- Pilaitė priklausė [[objektai/asmenys/Fričinskis]]

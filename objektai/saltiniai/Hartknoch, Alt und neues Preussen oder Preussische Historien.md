@@ -30,21 +30,6 @@ Narbutas rašė, kad Hartknochas, remdamasis vietos padavimais ir tyrinėjimais,
 - t-001
   global_id: t-191776
   teiginys: "Narbutas rašė, kad Hartknochas, remdamasis vietos padavimais ir tyrinėjimais, buvo įsitikinęs didelio Prūsijos potvynio tikrumu."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "78509-79213; hash=62141f4576e3b31ce8278c8a005ffb6d5723c442053e1aa66675759e553f5e81; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Prūsai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Hartknoch, Alt und neues Preussen oder Preussische Historien: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Prūsai: mention_match, group, gap=83"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Hartknoch, Alt und neues Preussen oder Preussische Historien\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174658
 ## Reikšmingi paminėjimai
@@ -67,8 +52,8 @@ Narbutas rašė, kad Hartknochas, remdamasis vietos padavimais ir tyrinėjimais,
     mas Karaliaučiuje (kur tikriausiai rašė pirmąsias savo
     kronikos knygas), turėjo po ranka.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -79,7 +64,8 @@ Narbutas rašė, kad Hartknochas, remdamasis vietos padavimais ir tyrinėjimais,
 - id: c-174658
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 46"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 46."
   citata_originali: |
     Sis ypatingas įvykis, atsitikęs žemėje, kuria
     ypač domisi mūsų veikalas, vertas to, kad jam būtų skir­

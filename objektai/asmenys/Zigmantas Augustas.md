@@ -36,9 +36,6 @@ Zigmantas II (1506—1548 m.) ir jo karai su Maskva. Zigmanto II valdymo pabaiga
 - t-003
   global_id: t-93754
   teiginys: "Augusto laikai Lietuvoje buvo labai reikšmingi."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "hash=0f6efb6856b14cad618d5e462dd539ac9b2f40e47b25f853baeef2771476e0f0; match=normalized; occurrences=1"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-89071
 
@@ -46,16 +43,6 @@ Zigmantas II (1506—1548 m.) ir jo karai su Maskva. Zigmanto II valdymo pabaiga
 - t-009
   global_id: t-93758
   teiginys: "Kai kurių nuomone, naujų žemių suskirstymas ir žmonių įkurdinimas sodžiais padėjo susidaryti vėlesnei Zigmanto Augusto valakų sistemai."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "602903-603238; hash=d7c0f2a4d062eef95edbfa20c2898d1b9844d611c41ad580695a062bb0a37d21; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Augustas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Zigmantas Augustas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Augustas: mention_match, person, gap=9"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Zigmantas Augustas\" parinktas kaip owner_note_path. Targetas \"Augustas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-89066
 - susijęs iš [[objektai/daiktai/Zigmanto Augusto pinigai.md#claim-t-65011|Zigmanto Augusto pinigai]]: Zigmantas Augustas apie 1565 m. Tikocine pradėjo kalti lenkiškos vertės pinigus, bet dėl nepasitenkinimo darbą nutraukė.
@@ -80,8 +67,8 @@ Zigmantas II (1506—1548 m.) ir jo karai su Maskva. Zigmanto II valdymo pabaiga
     Kita reali nauda, kuri tekdavo Vytautui — tai mokesčiai,
     renkami iš žmonių už valdomas žemes, miškus, vandenis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -99,8 +86,8 @@ Zigmantas II (1506—1548 m.) ir jo karai su Maskva. Zigmanto II valdymo pabaiga
     Lenkija. Vis tai buvo svarbūs faktai, kurie vėlesniajai Lietuvos
     istorijai turėjo labai didelę reikšmę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -149,5 +136,4 @@ Zigmantas II (1506—1548 m.) ir jo karai su Maskva. Zigmanto II valdymo pabaiga
 
 ## Ryšiai
 - Zigmantas Augustas valdė [[objektai/vietos/Lietuva]]
-- Zigmantas Augustas keliavo į [[objektai/vietos/Pasvalys]]
 - Zigmantas Augustas gyveno [[objektai/vietos/Vilnius]]

@@ -45,21 +45,6 @@ Nenurodyta
 - t-001
   global_id: t-189716
   teiginys: "Masonų taurės atvaizde akacijos šakelė gulėjo ant staltiese užtiesto stalo šalia kaukolės, kalavijo, kampainio, skriestuvo ir kitų simbolių."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "7594-8108; hash=2cc3c40705d17183c6379d99d10fa328f6402496b2ab3fe7b6b0102ab6dc2374; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kampainis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Akacijos šakelė: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Kampainis: mention_match, thing, gap=78"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Akacijos šakelė\" parinktas kaip owner_note_path. Targetas \"Kampainis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172599
 - susijęs iš [[objektai/daiktai/Masonų taurės raižinio objektai.md#claim-t-189730|Masonų taurės raižinio objektai]]: Lietuvos istorijos ir etnografijos muziejaus masonų taurės raižinyje pavaizduoti kaukolė, kalavijas, akacijos šakelė, kampainis, skriestuvas, svarstyklės, žiūronas ir žvakė.
@@ -95,8 +80,8 @@ Nenurodyta
     zavo sąžine, akacijos šakelė -  nemirtingumą, skriestuvas -  aukš­
     čiausiąjį protą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

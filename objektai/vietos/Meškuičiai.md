@@ -32,17 +32,6 @@ Užvirė jami bermontininkai ypač atkaklios kautynės, Tą pačią lapkričio 2
 - t-001
   global_id: t-38624
   teiginys: "Lapkričio 22 d. Panevėžio batalionas išmušė bermontininkus iš Meškuičių."
-  semantiniai_rysiai: "Panevėžio batalionas kariavo prieš Bermontininkai (0.86); Panevėžio batalionas užėmė Meškuičiai (0.76)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "794417-794696; hash=46c3981d8ac1e1d73c3951d3314407e34b143b3e95f947311210a7ce51e7faea; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Bermontininkai: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Panevėžio batalionas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Bermontininkai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Karinis bermontininkų išmušimas tiesiogiai rodo kovą prieš juos."
   pagrindžia:
     - c-40428
 ## Reikšmingi paminėjimai
@@ -62,8 +51,8 @@ Užvirė jami bermontininkai ypač atkaklios kautynės, Tą pačią lapkričio 2
     lietuviai atsiėmė Joniškį. Plk. Bermontas
     buvo priverstas kapituliuoti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -93,6 +82,3 @@ Užvirė jami bermontininkai ypač atkaklios kautynės, Tą pačią lapkričio 2
   patikimumo_saltinis: ai
   pagrindzia:
     - t-38624
-
-## Ryšiai
-- Užėmė Meškuičiai: [[objektai/grupes/Panevėžio batalionas]]

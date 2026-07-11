@@ -33,17 +33,6 @@ Dusburgietis teigia, kad todėl, kai Pobravas, susivienijęs su notangais ir var
 - t-001
   global_id: t-60287
   teiginys: "Gerhardas iš Reino su kitais broliais ir ginklanešiais nusivijo Pobravą, jį nužudė ir atėmė grobį."
-  semantiniai_rysiai: "Pobravas buvo sąjungininkas su Notangai (0.91); Gerhardas iš Reino puolė Pobravas (0.88)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "432538-433093; hash=b9ef49b779a76b3c200fdeb39347f1a660a9577790f8d1772c127b29e44a432c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sajungininkas_su -> Notangai: 0.91"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Pobravas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Notangai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Pobravo susivienijimas su notangais tiesiogiai žymi sąjungą."
   pagrindžia:
     - c-167455
 
@@ -51,17 +40,6 @@ Dusburgietis teigia, kad todėl, kai Pobravas, susivienijęs su notangais ir var
 - t-001
   global_id: t-60287
   teiginys: "Gerhardas iš Reino su kitais broliais ir ginklanešiais nusivijo Pobravą, jį nužudė ir atėmė grobį."
-  semantiniai_rysiai: "Pobravas buvo sąjungininkas su Notangai (0.91); Gerhardas iš Reino puolė Pobravas (0.88)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "432538-433093; hash=b9ef49b779a76b3c200fdeb39347f1a660a9577790f8d1772c127b29e44a432c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sajungininkas_su -> Notangai: 0.91"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Pobravas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Notangai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Pobravo susivienijimas su notangais tiesiogiai žymi sąjungą."
   pagrindžia:
     - c-167455
 - susijęs iš [[objektai/ivykiai/Pobravo žygis į Balgos lauką ir jo žūtis.md#claim-t-183957|Pobravo žygis į Balgos lauką ir jo žūtis]]: Pobravas su notangais ir variniais puolė Balgos lauką, pagrobė brolių gyvulius ir buvo nužudytas Gerhardo iš Reino būrio.
@@ -90,8 +68,8 @@ Dusburgietis teigia, kad todėl, kai Pobravas, susivienijęs su notangais ir var
 
      140 (135).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -103,7 +81,8 @@ Dusburgietis teigia, kad todėl, kai Pobravas, susivienijęs su notangais ir var
 - id: c-167455
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 135"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 135."
   citata_originali: |
     Apie kelių prūsų žūtį
 
@@ -125,7 +104,3 @@ Dusburgietis teigia, kad todėl, kai Pobravas, susivienijęs su notangais ir var
   pagrindzia:
     - t-184070
     - t-60287
-
-## Ryšiai
-- Gerhardas iš Reino puolė [[objektai/asmenys/Pobravas]]
-- Gerhardas iš Reino kariavo prieš [[objektai/asmenys/Pobravas]]

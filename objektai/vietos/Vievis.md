@@ -33,14 +33,6 @@ Prie Vievio jie net karo veiksmais sulaikė mūsų žygiavimą ir sudegino Vakos
 - t-001
   global_id: t-193282
   teiginys: "Prie Vievio jie net karo veiksmais sulaikė mūsų žygiavimą ir sudegino Vakos tiltą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "1113038-1113303; hash=a9f796710da20b13059478fb3e9aaba988d9f99dddae9581adb6b6dba0d21505; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-176011
 ## Reikšmingi paminėjimai
@@ -55,8 +47,8 @@ Prie Vievio jie net karo veiksmais sulaikė mūsų žygiavimą ir sudegino Vakos
     lietuvių kariuomenei. Prie Vievio jie net karo veiksmais sulaikė
     mūsų žygiavimą ir sudegino Vakos tiltą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

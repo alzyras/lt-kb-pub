@@ -41,18 +41,6 @@ Navickaitė-Kuncienė, O. Navickaitė, O.
 - t-001
   global_id: t-30884
   teiginys: "O. Navickaitė-Kuncienė 1966 m. paskelbė darbą apie seniausių X-XIII a. svorio matų sistemų Lietuvoje klausimą."
-  temporaliniai_duomenys: "įvykio data: 1966 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "393455-394470; hash=1dcc3316987188be18e0af4ace18ead0c9b88088c0ea23330ef00cba3d6191f8; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "O. Navickaitė-Kuncienė: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=91"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"O. Navickaitė-Kuncienė\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-33082
 
@@ -60,18 +48,6 @@ Navickaitė-Kuncienė, O. Navickaitė, O.
 - t-002
   global_id: t-30885
   teiginys: "O. Navickaitė paskelbė darbą apie Veršvų kapinyno laidojimo papročius."
-  temporaliniai_duomenys: "įvykio data: 1948-1958; įvykio data: 1958 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "415379-415801; hash=ea52f961b91f1cc0496f74fb7c28b757b4729e493040567fb8adbf0ef768e3ff; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "O. Navickaitė-Kuncienė: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"O. Navickaitė-Kuncienė\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-33083
 ## Reikšmingi paminėjimai
@@ -95,8 +71,8 @@ Navickaitė-Kuncienė, O. Navickaitė, O.
     ILKI, IV, 1964, 188-196 p. — Pakštas, K. : _Lietuvių tautos plotai ir
     gyventojai_ , Aidai, nr. 3, 1957, 97-107 p. — Papée, Pr.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -113,8 +89,8 @@ Navickaitė-Kuncienė, O. Navickaitė, O.
     1961, 66-100 p. — Pisani, V.: _II paganesimo balto-slavo,_ Storia delle
     religioni, red. G. Castellani, vol.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -48,12 +48,6 @@ Nenurodyta
 - t-001
   global_id: t-193474
   teiginys: "Jį daug kas plačiai aprašė, aš tik tai priminsiu, kas turi ryšio su lietuvių reikalais."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "657725-658078; hash=e2539b887300a8a5d41e43963fbebdede779a7bd17e6539f3206b5ea84221cb4; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176175
 ## Reikšmingi paminėjimai
@@ -70,8 +64,8 @@ Nenurodyta
     kus, jis, padalijęs kariuomenę trimis žygio voromis, iš­
     siuntė lengvųjų raitelių būrius niokoti Prūsijos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -82,7 +76,8 @@ Nenurodyta
 - id: c-176175
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 376"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 376."
   citata_originali: |
     Jį daug kas plačiai aprašė, aš
     tik tai priminsiu, kas turi ryšio su lietuvių reikalais.

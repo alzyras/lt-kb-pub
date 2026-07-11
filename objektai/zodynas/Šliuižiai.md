@@ -35,16 +35,6 @@ Vartojamos formos: `šliuižiu`.
 - t-002
   global_id: t-07640
   teiginys: "Šliuižiai buvo pirmieji kalnėnų ir žemaičių ratai ant dviejų tekinių."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "73168-73376; hash=b3ffc705d98d88f20746e4896daa082210ed985c82f4453ed56eeac9cbfb7360; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  ryšio_patikimumas: "susije_su -> Kalnėnai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "šliuižiai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Kalnėnai: mention_match, group, gap=24"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"šliuižiai\" parinktas kaip owner_note_path. Targetas \"Kalnėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-09572
 ## Reikšmingi paminėjimai
@@ -56,8 +46,8 @@ Vartojamos formos: `šliuižiu`.
         šieną iš pievų vežė bei į kelią keliavo, nesgi kitokių ratų negalėjo dėvėti dėl ankštumo ir šlapumo
         kelio.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

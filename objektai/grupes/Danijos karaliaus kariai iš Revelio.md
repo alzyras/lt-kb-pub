@@ -41,16 +41,6 @@ media_all_json: |-
 - t-002
   global_id: t-40871
   teiginys: "Danijos karaliaus kariai iš Revelio nepritarė siūlymui kautis pėsčiomis, nes dėl sunkios ginkluotės manė neatsilaikysią mūšyje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "90769-91229; hash=913acf29dd3ec6d6d31a300f89606b103818ce307fff99ec1eb68f423e87eb1b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Revelis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Danijos karaliaus kariai iš Revelio: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Revelis: mention_match, place, gap=28"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Danijos karaliaus kariai iš Revelio\" parinktas kaip owner_note_path. Targetas \"Revelis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-44729
 
@@ -58,19 +48,6 @@ media_all_json: |-
 - t-001
   global_id: t-40872
   teiginys: "Revelio danų kariuomenei vadovavo švedų kunigaikštis Karolis, turėjęs ir savo būrį."
-  semantiniai_rysiai: "Danijos karaliaus kariai iš Revelio keliavo į Lietuva (0.72)"
-  temporaliniai_duomenys: "įvykio data: 1260 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "88586-89151; hash=9c5097834eb252e60b04ea040506a70a72bbc671cbaffbd32b1aca4d333702b3; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Lietuva: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Danijos karaliaus kariai iš Revelio: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Revelio danų kariuomenė išvardyta tarp Klaipėdoje prieš Lietuvą sutelktų pajėgų, todėl jų judėjimas į šią akciją Lietuvoje pagrįstas."
   pagrindžia:
     - c-44730
 - susijęs iš [[objektai/posakiai/Palikime savo žirgus toli užpakalyje.md#claim-t-09675|Palikime savo žirgus toli užpakalyje]]: „Palikime savo žirgus toli užpakalyje“ reiškė sumanymą atimti kariams viltį trauktis ir priversti juos nevengti mūšio.
@@ -95,8 +72,8 @@ media_all_json: |-
     rytiniame upelio krante, palikdama priešui
     nepatogesnę padėtį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -121,8 +98,8 @@ media_all_json: |-
     metu Rytų Europą užplūdusius totorius
     gausiai suverbuoti kryžininkai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -183,6 +160,3 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-40872
-
-## Ryšiai
-- Danijos karaliaus kariai iš Revelio keliavo į [[objektai/vietos/Lietuva]]

@@ -31,19 +31,6 @@ Barkus prie Jūros žiočių pasistatė Jurbarko pilį ir gavo valdyti Žemaitij
 - t-001
   global_id: t-186097
   teiginys: "Barkus prie Jūros žiočių pasistatė Jurbarko pilį ir gavo valdyti Žemaitijos dalį iki Kuršių įlankos."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "98923-99451; hash=ec39b2468e95173144372be452d77e7aec877846968fe5efb54442c9f0b75dfe; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Jurbarkas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Barkus: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Jurbarkas: mention_match, place, gap=35"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Barkus\" parinktas kaip owner_note_path. Targetas \"Jurbarkas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-169458
 
@@ -51,12 +38,6 @@ Barkus prie Jūros žiočių pasistatė Jurbarko pilį ir gavo valdyti Žemaitij
 - t-002
   global_id: t-193897
   teiginys: "APIE TRIS PALEMONO SŪNUS IR APIE LIETUVOS VALSTYBES PRADŽIĄ Ir paskui minėtam kunigaikščiui Palemonui gimė trys sūnūs: vyriausias Barkus ', antras — Kūnas 2 , tre čias— Spera3 ."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "74039-74429; hash=1ba2772c46d6cc32ff1d88f16f705cae8ee743a522e2686786d85a20152ab54b; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176522
 - susijęs iš [[objektai/daiktai/Atminimo statula.md#claim-t-185847|Atminimo statula]]: Po Barkaus sudeginimo jo pelenų vietoje pastatyta atminimo statula iki Jogailos laikų buvo laikoma šventenybe.
@@ -89,8 +70,8 @@ Barkus prie Jūros žiočių pasistatė Jurbarko pilį ir gavo valdyti Žemaitij
     tija jau buvo prisijungusi prie Lietuvos), kuri plyti
     nuo Jūros ir Nemuno ligi Kuršių įlankos.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -109,8 +90,8 @@ Barkus prie Jūros žiočių pasistatė Jurbarko pilį ir gavo valdyti Žemaitij
     su upės vardu, kuri vadinosi Jūra, o kunigaikščio var­
     das - —  Barkus, tai tas miestas imta vadinti Jurbarku 4 .
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -121,7 +102,8 @@ Barkus prie Jūros žiočių pasistatė Jurbarko pilį ir gavo valdyti Žemaitij
 - id: c-169458
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 61"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 61."
   citata_originali: |
     Už
     tėvo

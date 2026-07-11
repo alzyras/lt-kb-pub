@@ -30,19 +30,6 @@ Lipnas ir Ripinas buvo žiauriai nusiaubti per žygį, kai buvo užimta ir sudeg
 - t-001
   global_id: t-185301
   teiginys: "Lipnas ir Ripinas buvo žiauriai nusiaubti per žygį, kai buvo užimta ir sudeginta Dobrynė."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "651015-651240; hash=fb8a08eabf6fe024b8cb468a70f089c514889ed5b85cb890def0238a5a148790; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Dobrynė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ripinas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Dobrynė: mention_match, place, gap=71"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ripinas\" parinktas kaip owner_note_path. Targetas \"Dobrynė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-168662
 - susijęs iš Lipnas: Po Dobrynės užėmimo ir sudeginimo buvo žiauriai nusiaubti Lipnas ir Ripinas.
@@ -59,8 +46,8 @@ Lipnas ir Ripinas buvo žiauriai nusiaubti per žygį, kai buvo užimta ir sudeg
     ir buvo išduotas Bidgoščius, po aštuonių dienų apsup­
     ties užėmė Zlotoriją.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -71,7 +58,8 @@ Lipnas ir Ripinas buvo žiauriai nusiaubti per žygį, kai buvo užimta ir sudeg
 - id: c-168662
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 372"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 372."
   citata_originali: |
     Užpuolęs
     Dobrynę užėmė ją ir sudegi­

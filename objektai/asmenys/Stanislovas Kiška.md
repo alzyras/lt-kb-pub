@@ -45,22 +45,6 @@ Stanislovas Kiška nebuvo labai gabus karvedys, bet jau turėjo tam tikros patir
 - t-003
   global_id: t-79162
   teiginys: "LDK valdovas Aleksandras vyriausiais kariuomenės vadais paskyrė etmoną Stanislovą Kišką ir dvaro maršalką Mykolą Glinskį."
-  semantiniai_rysiai: "Stanislovas Kiška gynė Smolenskas (0.94)"
-  temporaliniai_duomenys: "įvykio data: 1502 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata leidžia patikslinti Stanislovo Kiškos pareigas ir pašalinti trumpinį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "310230-310693; hash=beac4d01bf934372ea42872d3168158b9ca06754b8d44b7ef0b5243948eb8564; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyne -> Smolenskas: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Stanislovas Kiška: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Smolenskas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citatoje tiesiogiai nurodyta, kad Kiškai pavyko apginti Smolenską nuo maskvėnų."
-  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-76241
 
@@ -68,16 +52,6 @@ Stanislovas Kiška nebuvo labai gabus karvedys, bet jau turėjo tam tikros patir
 - t-001
   global_id: t-79163
   teiginys: "Rugpjūčio 5 d. paryčiais etmonas Stanislovas Kiška dėl žygio vargų nebegalėjo vadovauti ir pageidavo toliau važiuoti vežimu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "315294-315574; hash=9e082d258855e97003c0016478facf8e32972930ee947305dd4adc832314f785; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kiška: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Stanislovas Kiška: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kiška: mention_match, person, gap=12"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Stanislovas Kiška\" parinktas kaip owner_note_path. Targetas \"Kiška\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-76240
 
@@ -85,25 +59,6 @@ Stanislovas Kiška nebuvo labai gabus karvedys, bet jau turėjo tam tikros patir
 - t-004
   global_id: t-184831
   teiginys: "Stanislovas Kiška Kazimiero įsakymu su turimomis jėgomis turėjo sustabdyti maskvėnų antpuolius."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Stanislovas Kiška puolė Maskva (0.82); Stanislovas Kiška gynė Lietuva (0.73)"
-  temporaliniai_duomenys: "įvykio data: 1442 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys labiau akcentuoja Kazimiero veiksmą, todėl perrašyta aiškiau apie Kiškos vaidmenį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "835179-835937; hash=4ecfe2acf126c6f7809f4ca39c1cca05f08774a30c712360f79a51ed3f3bd521; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Maskva: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Stanislovas Kiška: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Maskva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Nusiaubtos Maskvos valdos rodo Kiškos karinį puolimą prieš Maskvos valdas."
-  vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-168192
 
@@ -111,20 +66,6 @@ Stanislovas Kiška nebuvo labai gabus karvedys, bet jau turėjo tam tikros patir
 - t-005
   global_id: t-184832
   teiginys: "Stanislovas Kiška prasivalė kelią ir nusiaubė Viazmos žemę bei gretimas apygardas, žudydamas ir degindamas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Stanislovas Kiška puolė Viazma (0.88)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1073205-1073553; hash=9ce1262e772f94f20eb2c2394caaa657d9b4be4f098b309a7918b07d6e56ecd2; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Viazma: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Stanislovas Kiška: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Viazma: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Kiškos veiksmas tiesiogiai nukreiptas prieš Viazmos žemę, kurią jis nusiaubė."
   pagrindžia:
     - c-168193
 
@@ -132,19 +73,6 @@ Stanislovas Kiška nebuvo labai gabus karvedys, bet jau turėjo tam tikros patir
 - t-006
   global_id: t-184833
   teiginys: "Sužinojęs apie iš slėptuvių išviliotą priešo kariuomenę, Stanislovas Kiška paprašė karaliaus pagalbos."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1073497-1073793; hash=a881fd403b530cf7828cb161fc244982b7776a07e2398b9ac8f10a4180d63b19; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kiška: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Stanislovas Kiška: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kiška: mention_match, person, gap=12"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Stanislovas Kiška\" parinktas kaip owner_note_path. Targetas \"Kiška\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-168194
 - susijęs iš [[objektai/asmenys/Aleksandras.md#claim-t-89626|Aleksandras]]: Mirtinai negaluojantis LDK valdovas Aleksandras kariuomenės vadais paskyrė Stanislovą Kišką ir Mykolą Glinskį.
@@ -167,8 +95,8 @@ Stanislovas Kiška nebuvo labai gabus karvedys, bet jau turėjo tam tikros patir
     ponai apsisprendė visą vadovavimą patikėti
     Mykolui Glinskiui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -191,8 +119,8 @@ Stanislovas Kiška nebuvo labai gabus karvedys, bet jau turėjo tam tikros patir
     pavyko apginti Smolenską nuo maskvėnų,
     jam buvo patikėtos etmono pareigos).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -224,8 +152,8 @@ Stanislovas Kiška nebuvo labai gabus karvedys, bet jau turėjo tam tikros patir
     išsivaręs daugybę gyvulių ir žmonių, jau buvo pasitrau­
     kęs, Kiška nusiaubė Maskvos valdas.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -245,8 +173,8 @@ Stanislovas Kiška nebuvo labai gabus karvedys, bet jau turėjo tam tikros patir
     mas apygardas, visur žudydamas ir degindamas. Šis
     įsibrovimas išviliojo iš slėpynių priešo kariuomenę.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -272,8 +200,8 @@ Stanislovas Kiška nebuvo labai gabus karvedys, bet jau turėjo tam tikros patir
     įsakė Firlėjui kuo skubiausiai patraukti su lenkų al­
     gininkais į pagalbą puolamam Kiškai.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -329,7 +257,8 @@ Stanislovas Kiška nebuvo labai gabus karvedys, bet jau turėjo tam tikros patir
 - id: c-168192
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 475"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 475."
   citata_originali: |
     Netruko surengti tokį žy­
     gį Maskvos kunigaikštis: pa-
@@ -362,7 +291,8 @@ Stanislovas Kiška nebuvo labai gabus karvedys, bet jau turėjo tam tikros patir
 - id: c-168193
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 604"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 604."
   citata_originali: |
     Vis dėlto Ostro­
     giškis su keliomis lengvųjų
@@ -408,6 +338,4 @@ Stanislovas Kiška nebuvo labai gabus karvedys, bet jau turėjo tam tikros patir
     - t-184833
 
 ## Ryšiai
-- Paskyrė Stanislovas Kišką: [[objektai/asmenys/Aleksandras]]
-- Stanislovas Kiška puolė [[objektai/vietos/Maskva]], [[objektai/vietos/Viazma]], [[objektai/vietos/Viazmos žemė]]
-- Stanislovas Kiška gynė [[objektai/vietos/Lietuva]], [[objektai/vietos/Smolenskas]]
+- Stanislovas Kiška gynė [[objektai/vietos/Smolenskas]]

@@ -43,19 +43,6 @@ Iš kitų puolimų yra išskirtinas 1329 pradžioje pirmasis Čekijos karaliaus 
 - t-001
   global_id: t-30310
   teiginys: "1329 m. pradžioje Čekijos karalius Jonas Liuksemburgietis surengė pirmąjį žygį į pietvakarių Žemaičius."
-  semantiniai_rysiai: "Jonas Liuksemburgietis buvo valdovas Čekija (0.90)"
-  temporaliniai_duomenys: "valdymo laikotarpis: 1329 m.; valdymo laikotarpis: 1357 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Jonas Liuksemburgietis buvo valdovas Čekija“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "651256-651794; hash=97c91c5f76ff502e31f4a15d8e986d9f2a0063ba7e9ce96b5ff209eb4d7d38cc; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_valdovas -> Čekija: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jonas Liuksemburgietis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Čekija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Jonas Liuksemburgietis tiesiogiai įvardytas Čekijos karaliumi."
   pagrindžia:
     - c-32759
 - susijęs iš [[objektai/daiktai/Ietis.md#claim-t-192077|Ietis]]: 1329 m. Jonas Liuksemburgietis ir lietuvių didikas Margalis raiti susirėmė ietimis, o jas sulaužę ėmė kautis kalavijais.
@@ -74,8 +61,8 @@ Iš kitų puolimų yra išskirtinas 1329 pradžioje pirmasis Čekijos karaliaus 
     žygyje dalyvavusio prancūzų poeto Guillaume de Machaut 1357 m.
     rašytame veikale « Confort d’Ami » (« Draugo parama »).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

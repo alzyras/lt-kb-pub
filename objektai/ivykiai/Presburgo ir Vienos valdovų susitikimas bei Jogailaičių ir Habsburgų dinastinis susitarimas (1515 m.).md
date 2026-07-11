@@ -48,12 +48,6 @@ Nenurodyta
 - t-001
   global_id: t-193473
   teiginys: "Nesinori smulkiai pasakoti, ką valdovai nu tarė šiame suvažiavime."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1131244-1131622; hash=929b48079979027c648a49d30ad927b83270cfce3fbadcedbd6b723480d4ed84; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176174
 ## Reikšmingi paminėjimai
@@ -70,8 +64,8 @@ Nenurodyta
     kvėnais ir kryžiuočiais, arba ir vienus, ir kitus paska­
     tinsiąs savo autoritetu prašyti taikos ir taikytis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -82,7 +76,8 @@ Nenurodyta
 - id: c-176174
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 635"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 635."
   citata_originali: |
     Penki tūkstančiai raitijos palydėjo karalius
     ligi miesto, o kiti raiteliai bei pėstininkai liko saugoti

@@ -36,25 +36,6 @@ media_all_json: |-
 - t-001
   global_id: t-192886
   teiginys: "1247 m. jotvingiai pasiekė Holmą prie Ochodzos ir Busavnos, o tas kraštas buvo labai nuniokotas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Jotvingiai surengė žygį į Holmas (0.86); Jotvingiai keliavo į Ochodza (0.72); Jotvingiai puolė Holmas (0.70)"
-  temporaliniai_duomenys: "įvykio data: 1247 m.; kelionės data: 1247 m.; mūšio data: 1247 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Jotvingiai surengė žygį į Holmas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jotvingiai keliavo į Ochodza“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jotvingiai puolė Holmas“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sutvarkytas OCR tekstas ir paliktas aiškus veiksmas su data, vietomis bei padariniu. Spėjimas apie jotvingių motyvus neįtrauktas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "221462-222010; hash=86b3a9d5cfd73bbac6679b54967543186c91abe35fe5e66e0415d76ab47fb855; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "surenge_zygi_i -> Holmas: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jotvingiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Holmas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Jotvingių žygis tiesiogiai nurodytas kaip pasiekęs Holmą."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175656
 - susijęs iš Holmas: 1247 metais jotvingiai pasiekė Holmą prie Ochodzos ir Busavnos, o Narbutas rašo, kad tas kraštas buvo labai nuniokotas.
@@ -81,8 +62,8 @@ media_all_json: |-
     Vladimiro, jau trečią dieną pasivijo juos prie pat Drohi-
     čino (dabar Kobrino apskritis).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -93,7 +74,8 @@ media_all_json: |-
 - id: c-175656
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 124"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 124."
   citata_originali: |
     Ne
     viskam galime įvirtai pritaikyti tai, ką dabar pateikėme,
@@ -112,6 +94,3 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192886
-
-## Ryšiai
-- Buvo kelionės vieta: [[objektai/grupes/Jotvingiai]]

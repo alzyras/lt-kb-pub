@@ -32,16 +32,6 @@ Kaip kad paaiškėjo iš maloningojo Necelu pavyzdžio, immediate [neseniai] mir
 - t-001
   global_id: t-87805
   teiginys: "Necelas buvo vaistininkas ir puikus gydytojas, miręs netrukus prieš Renkieliui perimant vaistinę."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "391673-392382; hash=ac634c6c4a9da1bf21cbca6238a44e65374b01c9e5bac96da4d999caa7f854d9; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Renkielis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Necelas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Renkielis: mention_match, person, gap=68"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Necelas\" parinktas kaip owner_note_path. Targetas \"Renkielis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-83784
 - susijęs iš [[objektai/asmenys/Renkielis.md#claim-t-87569|Renkielis]]: Vaistininkas Renkielis perėmė vaistinę po Necelo mirties ir buvo laikomas gerai pasiruošusiu savo menui.
@@ -68,8 +58,8 @@ Kaip kad paaiškėjo iš maloningojo Necelu pavyzdžio, immediate [neseniai] mir
     lio palankumo, tad negali turėti tiek pajamų, kiek turėjo
     anasai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

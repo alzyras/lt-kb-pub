@@ -45,14 +45,6 @@ Nenurodyta
 - t-001
   global_id: t-189745
   teiginys: "Narbutas lietuvių mitologijoje Saulės vežimą sieja su rytų Saulės rūmais, iš kurių tekanti Saulė išvažiuodavo nuostabiu vežimu."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "318412-318962; hash=d23cd8be926483cb5446e31106c235e2ba2a036469242f89128cfaf3bfcc92d9; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172628
 ## Reikšmingi paminėjimai
@@ -71,8 +63,8 @@ Nenurodyta
     lus, kaip lėkštė, priartėdavo prie jūros, nugrimzdavo joje nusi­
     maudyti ir vykdavo į savo rūmus nakties poilsio.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -83,7 +75,8 @@ Nenurodyta
 - id: c-172628
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 185"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 185."
   citata_originali: |
     Saulės rūmai buvo rytuose, kur buvo šventa ir palaiminta
     šalis, lietuvių protėvių tėvynė -  rytų šalis (Aušinimą zemme).

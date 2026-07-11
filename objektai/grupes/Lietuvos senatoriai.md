@@ -40,19 +40,6 @@ Iš antrojo laiško, rašyto tik vienam Radvilai iš Torunės 1576 metų gruodž
 - t-001
   global_id: t-86761
   teiginys: "1576 m. Lietuvos senatoriai sutiko, kad Žygimanto Augusto nustatyti muitai būtų renkami krašto sienų gynybos išlaidoms."
-  temporaliniai_duomenys: "įvykio data: 1576 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas ir paremtas citata apie Lietuvos senatorius."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "642087-642831; hash=eaddc5c834e3d608064434b5b07a89f53896d561516d7b3641e577f274449469; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Augustas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos senatoriai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Augustas: mention_match, person, gap=42"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos senatoriai\" parinktas kaip owner_note_path. Targetas \"Augustas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-82740
 - susijęs iš [[objektai/ivykiai/Gardino taikos derybos su maskvėnais ir jų žlugimas.md#claim-t-185700|Gardino taikos derybos su maskvėnais ir jų žlugimas]]: Gardino derybose su maskvėnais Lietuvos senatoriai buvo paskirti vieni pasiuntiniams priimti, kiti valstybės reikalams aptarti.
@@ -81,8 +68,8 @@ Iš antrojo laiško, rašyto tik vienam Radvilai iš Torunės 1576 metų gruodž
     išlaidoms padengti. Šiuo patarimu remdamasis, Steponas
     Batoras įsakė pavesti iždininkams rinkti šiuos mokesčius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

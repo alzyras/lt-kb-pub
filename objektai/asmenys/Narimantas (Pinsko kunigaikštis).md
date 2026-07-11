@@ -42,19 +42,6 @@ Pinsko kunigaikštis Narimantas su savo vyrais gynė ugnies apgriautą Žemutin�
 - t-001
   global_id: t-186073
   teiginys: "Pinsko kunigaikštis Narimantas su savo vyrais gynė ugnies apgriautą Žemutinę pilį ir teikė pagalbą Moskožovskiui."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "552911-553461; hash=dffd62ed68c048df73f7b13b264d2e7e3e05871313b00de9ffe2abb184673052; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Pinskas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Narimantas (Pinsko kunigaikštis): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Pinskas: mention_match, place, gap=20"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Narimantas (Pinsko kunigaikštis)\" parinktas kaip owner_note_path. Targetas \"Pinskas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-169434
 
@@ -62,20 +49,6 @@ Pinsko kunigaikštis Narimantas su savo vyrais gynė ugnies apgriautą Žemutin�
 - t-002
   global_id: t-186074
   teiginys: "Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribaigė jį lanko šūviu."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) buvo priešas Narimantas (Pinsko kunigaikštis) (0.76)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "553752-554404; hash=40e89b1a2d7ef4a999929eb1dfeda890a8a7e52e644e08ba29d17e015a6763e5; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_priesas -> Narimantas (Pinsko kunigaikštis): 0.76"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Narimantas (Pinsko kunigaikštis): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Vytauto smurtinis veiksmas prieš belaisvį Narimantą tiesiogiai rodo priešišką santykį."
   pagrindžia:
     - c-169435
 
@@ -83,25 +56,6 @@ Pinsko kunigaikštis Narimantas su savo vyrais gynė ugnies apgriautą Žemutin�
 - t-003
   global_id: t-190930
   teiginys: "Narbutas pasakoja, kad Narimantas apie 1268 m. įsiveržė į jotvingių Polesę ir privertė gyventojus priimti jo paskirtą valdovą Traidenį."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Narimantas (Pinsko kunigaikštis) surengė žygį į Polesė (0.86)"
-  temporaliniai_duomenys: "įvykio data: 1268 m.; įvykio data: apie 1268 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Narimantas (Pinsko kunigaikštis) surengė žygį į Polesė“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys pilnai išskleidžia Narimanto veiksmą, laiką, vietą ir rezultatą. Valdovo titulas bei kronikinis pasakojimas išlaikyti su Narbuto atribucija."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "239806-240223; hash=9f3bb5b06804115afecb61b9c90818c9ecc6e289030084941eb51f118cbe8323; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "surenge_zygi_i -> Polesė: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Narimantas (Pinsko kunigaikštis): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Polesė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai aprašo Narimanto karinį įsiveržimą į Polesę."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-173812
 
@@ -109,12 +63,6 @@ Pinsko kunigaikštis Narimantas su savo vyrais gynė ugnies apgriautą Žemutin�
 - t-004
   global_id: t-193400
   teiginys: "Narimantas nenorėjo taip spręsti valstybės reikalų, kad broliai galėtų jam prikaišioti, jog sprendžia perdaug griežtai: dėl savo sprendimo jis nenorėjo vienas pats susilaukti visuo tinės neapykantos."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "232926-233376; hash=1cd385153cae61d7b018bd0c100d2fb48fa964afd49842b2330aa8bfd84b2819; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176122
 
@@ -122,12 +70,6 @@ Pinsko kunigaikštis Narimantas su savo vyrais gynė ugnies apgriautą Žemutin�
 - t-005
   global_id: t-193965
   teiginys: "2/3 3 Narimanto vardas, matyt, paimtas iš Lietuvos metraščių TS, kur išvardijami Gedimino sūnūs."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "368899-369079; hash=84ac78b710030ebac1542bb7c47e2e681dbf7d1acae7f6f836d72b12a7f18eb2; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176590
 
@@ -135,12 +77,6 @@ Pinsko kunigaikštis Narimantas su savo vyrais gynė ugnies apgriautą Žemutin�
 - t-006
   global_id: t-193966
   teiginys: "Romanui gimė penki sūnūs: vyriausias — NarimantasJ, antras — Daumantas3 , trečias — Alšys \ ketvirtas — Giedrys 5 , penktas —Traidenis 6 ."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "101237-101632; hash=028f0cbcdf1b97e0b52ba9d1b26c6b8b0b475e3c84c631fc89e1b32f121fcb48; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176591
 
@@ -148,12 +84,6 @@ Pinsko kunigaikštis Narimantas su savo vyrais gynė ugnies apgriautą Žemutin�
 - t-007
   global_id: t-193967
   teiginys: "Didysis kunigaikštis Narimantas pasiėmė sau žmoną minėto livoniečio Fledro dukterį, jo brolis Daumantas vedė antrąją to paties Fledro 2 1 dukterį."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "102979-103617; hash=d35692b93f62366a51b172af366e31f455d0a4cbb728d6df772271f2cc6217be; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176592
 
@@ -161,12 +91,6 @@ Pinsko kunigaikštis Narimantas su savo vyrais gynė ugnies apgriautą Žemutin�
 - t-008
   global_id: t-193968
   teiginys: "Ir dėl šito tarp brolių — didžiojo kuni gaikščio Narimanto ir kunigaikščio Daumanto — kilo baisus pyktis ir nesantaika."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "104082-104440; hash=4a46b0ac154e46e5a7aeb79437d36c06333b9acb427ec3342840c283986c58a7; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176593
 - susijęs iš [[objektai/asmenys/Patrikas.md#claim-t-121122|Patrikas (kunigaikštis, XIV a.)]]: Patrikas buvo Jogailos pusbrolis ir prie Strėvos 1348 m. žuvusio Narimanto sūnus.
@@ -212,8 +136,8 @@ Pinsko kunigaikštis Narimantas su savo vyrais gynė ugnies apgriautą Žemutin�
     į dvikovą, po narsios, bet nesėkmingos kovos, ietimi
     numestas nuo žirgo, gyvas pateko į priešų rankas.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -240,8 +164,8 @@ Pinsko kunigaikštis Narimantas su savo vyrais gynė ugnies apgriautą Žemutin�
     siaustį, trukusią nuo birželio 24 ligi spalio 1 dienos, ir
     su visa kariuomene sugrįžo į Prūsiją.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -261,8 +185,8 @@ Pinsko kunigaikštis Narimantas su savo vyrais gynė ugnies apgriautą Žemutin�
     didžiojo kunigaikščio ir tam tikros duoklės mokėjimo pa­
     reiga.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -282,8 +206,8 @@ Pinsko kunigaikštis Narimantas su savo vyrais gynė ugnies apgriautą Žemutin�
     aukščiausiąja teise, būtų ką įsakęs, tie įsakymai būtų
     galėję skatinti brolių ir valdinių nepasitenkinimą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -301,8 +225,8 @@ Pinsko kunigaikštis Narimantas su savo vyrais gynė ugnies apgriautą Žemutin�
     kur išvardijami Gedimino sūnūs. Čia minimas Gedimino sūnus Na­
     rimantas gyveno 1277— 1348.II.2.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -325,8 +249,8 @@ Pinsko kunigaikštis Narimantas su savo vyrais gynė ugnies apgriautą Žemutin�
     čiauti ir vadintis didžiuoju Naugarduko, Lietuvos, Že­
     maičių kunigaikščiu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -353,8 +277,8 @@ Pinsko kunigaikštis Narimantas su savo vyrais gynė ugnies apgriautą Žemutin�
     ža laiko, Utenos kunigaikščio Daumanto žmona ėmė
     sirguliuoti ir pasimirė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -373,8 +297,8 @@ Pinsko kunigaikštis Narimantas su savo vyrais gynė ugnies apgriautą Žemutin�
     Alšiui, ir kunigaikščiui Traideniui, ir savo uošviui !i-
     voniečiui Fledrui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -385,7 +309,8 @@ Pinsko kunigaikštis Narimantas su savo vyrais gynė ugnies apgriautą Žemutin�
 - id: c-169434
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 317"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 317."
   citata_originali: |
     Plyšius
     sienose gynėjai kamšė gyvulių odomis ar žvyro mai­
@@ -408,7 +333,8 @@ Pinsko kunigaikštis Narimantas su savo vyrais gynė ugnies apgriautą Žemutin�
 - id: c-169435
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 318"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 318."
   citata_originali: |
     Vytautas
     įniršo ir, apgailestaudamas, kad visas šis žygis sužlugo,
@@ -436,7 +362,8 @@ Pinsko kunigaikštis Narimantas su savo vyrais gynė ugnies apgriautą Žemutin�
 - id: c-173812
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 133"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 133."
   citata_originali: |
     Tokia kaimy­
     nystė, ko gero, buvo ne iš maloniųjų. Siekdamas padaryti
@@ -457,7 +384,8 @@ Pinsko kunigaikštis Narimantas su savo vyrais gynė ugnies apgriautą Žemutin�
 - id: c-176122
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 137"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 137."
   citata_originali: |
     Narimantas nenorėjo
     taip spręsti valstybės reikalų, kad broliai galėtų jam
@@ -549,7 +477,8 @@ Pinsko kunigaikštis Narimantas su savo vyrais gynė ugnies apgriautą Žemutin�
 - id: c-176593
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 58"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 58."
   citata_originali: |
     Ir dėl šito tarp brolių — didžiojo kuni­
     gaikščio Narimanto ir kunigaikščio Daumanto — kilo
@@ -570,10 +499,7 @@ Pinsko kunigaikštis Narimantas su savo vyrais gynė ugnies apgriautą Žemutin�
 - Sūnūs: [[objektai/asmenys/Patrikas|Patrikas (kunigaikštis, XIV a.)]], [[objektai/asmenys/Patrikas, arba Patricijus]]
 - Tėvai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - Broliai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Traidenis|Traidenis (valdovas, XIII a.)]]
-- Priešai: [[objektai/asmenys/Daumantas|Daumantas (kunigaikštis, XV a.)]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - Narimantas (Pinsko kunigaikštis) buvo valdovas [[objektai/vietos/Lietuva]]
 - Narimantas (Pinsko kunigaikštis) valdė [[objektai/vietos/Pinskas]], [[objektai/vietos/Turovas]]
 - Narimantas (Pinsko kunigaikštis) puolė [[objektai/vietos/Polesė]]
 - Narimantas (Pinsko kunigaikštis) apgulė [[objektai/vietos/Utena]]
-- Narimantas (Pinsko kunigaikštis) surengė žygį į [[objektai/vietos/Polesė]]
-- Narimantas (Pinsko kunigaikštis) kariavo prieš [[objektai/grupes/Kryžiuočių ordinas]]

@@ -54,19 +54,6 @@ Nenurodyta
 - t-001
   global_id: t-77892
   teiginys: "Sudarant Antano Merkio vyriausybę prezidentas galėjo diktuoti jos darbus, todėl opozicijos deleguotas ministras turėjo vykdyti prezidento užduotis."
-  temporaliniai_duomenys: "įvykio data: 1939 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pagrindžia teiginį, pašalinus iliustracijos ir puslapio triukšmą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "367718-368209; hash=c454526419d0f7526f26a1516fdbb9f489604a0fb4fd138c32bcbb36523f8398; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> SA smogikai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Antano Merkio vyriausybės sudarymas (1939 m. lapkritis): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "SA smogikai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antano Merkio vyriausybės sudarymas (1939 m. lapkritis)\" parinktas kaip owner_note_path. Targetas \"SA smogikai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-75209
 ## Reikšmingi paminėjimai
@@ -86,8 +73,8 @@ Nenurodyta
     183
     deleguotas ministras turėjo vykdyti jo užduotis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

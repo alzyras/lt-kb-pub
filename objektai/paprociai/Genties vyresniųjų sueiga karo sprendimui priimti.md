@@ -54,18 +54,6 @@ Nenurodyta
 - t-001
   global_id: t-62115
   teiginys: "Skalvių genties vyresnieji sueigoje tarėsi dėl keršto ir vienbalsiai nusprendė pasiųsti į žygį 400 rinktinių vyrų."
-  teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Skalviai užėmė Labguva (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "492117-492602; hash=2e8dd04842d7728b6e5fd0952df2e2e30da85ee3613e503c423800ce8a00467d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Labguva: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Skalviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Labguva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata nurodo, kad skalvių pasiųsti vyrai staiga užėmė Labguvą."
   pagrindžia:
     - c-62533
 
@@ -73,18 +61,6 @@ Nenurodyta
 - t-001
   global_id: t-62115
   teiginys: "Skalvių genties vyresnieji sueigoje tarėsi dėl keršto ir vienbalsiai nusprendė pasiųsti į žygį 400 rinktinių vyrų."
-  teiginio_tipas: "faktas"
-  semantiniai_rysiai: "Skalviai užėmė Labguva (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "492117-492602; hash=2e8dd04842d7728b6e5fd0952df2e2e30da85ee3613e503c423800ce8a00467d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Labguva: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Skalviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Labguva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata nurodo, kad skalvių pasiųsti vyrai staiga užėmė Labguvą."
   pagrindžia:
     - c-62533
 
@@ -92,12 +68,6 @@ Nenurodyta
 - t-003
   global_id: t-194439
   teiginys: "Apie Labguvos pilies sunaikinimą Sitai išgirdę, skalviai sunerimo iki širdies gelmių, o susirinkę į sueigą genties vyresnieji [seniores populi] pradėjo tartis, kaip atkeršyti."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "492117-492602; hash=2e8dd04842d7728b6e5fd0952df2e2e30da85ee3613e503c423800ce8a00467d; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-62533
 ## Reikšmingi paminėjimai
@@ -117,8 +87,8 @@ Nenurodyta
 
       469  D.— Ramige.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -131,7 +101,8 @@ Nenurodyta
 - id: c-62533
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 155"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 155."
   citata_originali: |
     Apie Labguvos pilies sunaikinimą
 

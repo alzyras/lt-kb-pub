@@ -30,22 +30,6 @@ Narbutas rašo, kad prie Dunojaus gyvenę pietiniai getai gerai sutarė su skita
 - t-001
   global_id: t-192938
   teiginys: "Narbutas rašo, kad prie Dunojaus gyvenę pietiniai getai gerai sutarė su skitais."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Getai gyveno Isteris (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "93752-94161; hash=3003c923f90c26c992c0fd6e3a79b6e88c04ba3a7c378b23b36cf4c7602d41d3; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Isteris: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Getai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Isteris: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad getai gyveno prie Dunojaus."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175708
 
@@ -53,14 +37,6 @@ Narbutas rašo, kad prie Dunojaus gyvenę pietiniai getai gerai sutarė su skita
 - t-002
   global_id: t-194861
   teiginys: "Getai, pelazgų giminės gentis, ne praleido progos pasistūmėti prie Dnestro, įsiterpdami tarp klajoklių skitų ordų, kariaudami su kai kuriomis iš jų ar paremdami jas kovose vienos su kitomis."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "100351-100780; hash=837a60efae3307174abaf72c3bef34d338258fb1e017a32f7ab4fdb9ec8d2f8d; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-177257
 - susijęs iš [[objektai/autoriai/Adomas Stanislovas Naruševičius.md#claim-t-190672|Adomas Stanislovas Naruševičius]]: Naruševičius gotų išėjimą aiškino tuo, kad dakai ir getai pasikvietė gotus, norėdami jungtis su jais, o ne būti svetimų valdomi.
@@ -86,8 +62,8 @@ Narbutas rašo, kad prie Dunojaus gyvenę pietiniai getai gerai sutarė su skita
     su skitais. Gerai sutarė ir getai iš pietų, gyvenę prie
     Dunojaus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -111,8 +87,8 @@ Narbutas rašo, kad prie Dunojaus gyvenę pietiniai getai gerai sutarė su skita
     būtų įkūrę ten savo valstybę, jei 390 metais nebūtų buvę
     sutriuškinti galų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -123,7 +99,8 @@ Narbutas rašo, kad prie Dunojaus gyvenę pietiniai getai gerai sutarė su skita
 - id: c-175708
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 54"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 54."
   citata_originali: |
     36
     Dideliame skitų krašte taip pat gyveno svetimos, ski­
@@ -167,6 +144,4 @@ Narbutas rašo, kad prie Dunojaus gyvenę pietiniai getai gerai sutarė su skita
     - t-194861
 
 ## Ryšiai
-- Sąjungininkai: [[objektai/grupes/Gotai]]
-- Getai kariavo prieš [[objektai/grupes/Romėnai]]
 - Getai gyveno [[objektai/vietos/Isteris]]

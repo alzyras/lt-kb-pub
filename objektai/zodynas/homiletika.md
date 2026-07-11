@@ -34,14 +34,6 @@ Muravjovas, iš visur išstumdamas lenkų kalbą, uždraudė ją vartoti ir semi
 - t-001
   global_id: t-193286
   teiginys: "Muravjovas, iš visur išstumdamas lenkų kalbą, uždraudė ją vartoti ir seminarijoje, kur iki tol buvo lenkiškai dėstoma homiletika (pamokslų mokslas); dabar buvo įsakyta ją dėstyti rusiškai arba lietuviškai."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "1025633-1026150; hash=df8c394029a730689a2b07e5cadcd96d6b6510e568594c2f5585487b9ee20f58; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-176015
 ## Reikšmingi paminėjimai
@@ -62,8 +54,8 @@ Muravjovas, iš visur išstumdamas lenkų kalbą, uždraudė ją vartoti ir semi
     klierikams gerai žinoma, todėl niekas kitas čia negalėjo geriau
     sukelti susidomėjimo lietuvių kalba.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

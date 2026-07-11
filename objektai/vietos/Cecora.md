@@ -39,20 +39,6 @@ media_all_json: |-
 - t-001
   global_id: t-41639
   teiginys: "1620 m. Lenkijos kariuomenė įžengė į Valakiją ir mūšyje prie Cecoro netoli Jasų buvo sutriuškinta Turkijos kariuomenės."
-  semantiniai_rysiai: "Lenkijos kariuomenė keliavo į Valakija (0.90)"
-  temporaliniai_duomenys: "įvykio data: 1620 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie mūšio vietą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "458493-458729; hash=1f15b65dbaa016ca911479c360cb2f9c3826fa86bdf5d9c5f0e07b5d5b01e0c6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Valakija: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lenkijos kariuomenė: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Valakija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Kariuomenės įžengimas į Valakiją tiesiogiai palaiko judėjimo į vietą ryšį."
   pagrindžia:
     - c-45051
 
@@ -60,23 +46,6 @@ media_all_json: |-
 - t-002
   global_id: t-183780
   teiginys: "1620 m. Lenkijos kariuomenė įžengė į Valakiją ir mūšyje prie Cecoro netoli Jasų buvo sutriuškinta Turkijos kariuomenės."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Lenkijos kariuomenė keliavo į Valakija (0.90)"
-  temporaliniai_duomenys: "įvykio data: 1620 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys pilnas, gramatiškas ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "458336-458616; hash=e2a173624ccc560e28167186e5e1f4952079f6fcfd63b490f58fdf2c4ae183f2; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Valakija: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lenkijos kariuomenė: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Valakija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Kariuomenės įžengimas į Valakiją tiesiogiai palaiko judėjimo į vietą ryšį."
   pagrindžia:
     - c-167168
 ## Reikšmingi paminėjimai
@@ -92,8 +61,8 @@ media_all_json: |-
     nos etmonas, kadaise užėmęs
     Maskvą, S. Žolkievskis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -113,8 +82,8 @@ media_all_json: |-
     toli Jasų buvo sutriuškinta Turkijos ka-
     riuomenės.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

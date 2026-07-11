@@ -30,19 +30,6 @@ Karalius Augustas atvirai išsiskyrė su austrų kunigaikštyte Kotryna, todėl 
 - t-001
   global_id: t-186056
   teiginys: "Karalius Augustas atvirai išsiskyrė su austrų kunigaikštyte Kotryna, todėl žmonės dar labiau patikėjo gandais apie jo perėjimą į liuteronybę."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1330848-1331420; hash=dc56862474e4a2d723ac3240b6c6f6ff89c60c9bee45899c2d82c2dad90dd567; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Liuteronai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kotryna: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Liuteronai: mention_match, group, gap=69"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kotryna\" parinktas kaip owner_note_path. Targetas \"Liuteronai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-169417
 
@@ -50,19 +37,6 @@ Karalius Augustas atvirai išsiskyrė su austrų kunigaikštyte Kotryna, todėl 
 - t-002
   global_id: t-186057
   teiginys: "Augusto skyrybos su Kotryna įžeidė Romos popiežių, kuris buvo leidęs jam vesti mirusios žmonos seserį."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1331202-1331805; hash=ff88e362d390eb55292c8f1fa099797bc621dcde24d6010cf77d6359f14a4124; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Augustas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kotryna: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Augustas: mention_match, person, gap=20"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kotryna\" parinktas kaip owner_note_path. Targetas \"Augustas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-169418
 
@@ -70,19 +44,6 @@ Karalius Augustas atvirai išsiskyrė su austrų kunigaikštyte Kotryna, todėl 
 - t-003
   global_id: t-186058
   teiginys: "Kotryna, pasiųsta pas imperatorių Maksimilijoną, susirgo ir mirė kelionėje."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1331603-1331978; hash=12181bd3ae1091347f1099868bf7993ef9e333740c255b1d2babf69a1a7f3dda; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Augustas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kotryna: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Augustas: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kotryna\" parinktas kaip owner_note_path. Targetas \"Augustas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-169419
 - susijęs iš [[objektai/asmenys/Žygimantas Augustas.md#claim-t-184913|Žygimantas Augustas (arkivyskupas, XVI a.)]]: Žygimanto Augusto išsiskyrimas su Kotryna įžeidė Romos popiežių, kuris buvo leidęs jam vesti mirusios žmonos seserį.
@@ -113,8 +74,8 @@ Karalius Augustas atvirai išsiskyrė su austrų kunigaikštyte Kotryna, todėl 
     sisk iria  su  žm o n a
     seserį.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -140,8 +101,8 @@ Karalius Augustas atvirai išsiskyrė su austrų kunigaikštyte Kotryna, todėl 
     lės griebtis jį tikriausiai paskatinusi nusikalstama mei­
     lė.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -160,8 +121,8 @@ Karalius Augustas atvirai išsiskyrė su austrų kunigaikštyte Kotryna, todėl 
     varto: susirgusi, tiesa, veikiau siela nei kūnu, kelionėje
     mirė.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -172,7 +133,8 @@ Karalius Augustas atvirai išsiskyrė su austrų kunigaikštyte Kotryna, todėl 
 - id: c-169417
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 737"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 737."
   citata_originali: |
     Jų atsimetimą nuo
     prosenelių tikėjimo karalius Augustas slėpė net ir
@@ -198,7 +160,8 @@ Karalius Augustas atvirai išsiskyrė su austrų kunigaikštyte Kotryna, todėl 
 - id: c-169418
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 737"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 737."
   citata_originali: |
     Šis veiksmas didžiai įžeidė Romos popiežių,
     kuris, Augustui tuokiantis su Kotryna, leido jam ne­
@@ -225,7 +188,8 @@ Karalius Augustas atvirai išsiskyrė su austrų kunigaikštyte Kotryna, todėl 
 - id: c-169419
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 737"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 737."
   citata_originali: |
     Aiškiai šitokius ir kitokius daly­
     kus atskleidė imperatoriaus pasiuntinys, Pečo vyskupas,

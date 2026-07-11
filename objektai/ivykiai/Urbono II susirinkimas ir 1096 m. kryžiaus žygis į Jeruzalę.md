@@ -57,17 +57,6 @@ Nenurodyta
 - t-001
   global_id: t-89409
   teiginys: "Petras su Jeruzalės patriarcho Simeono ir kitų tikinčiųjų laiškais nuvyko pas popiežių Urboną II, kuris jį maloniai priėmė."
-  semantiniai_rysiai: "Simeonas gyveno Jeruzalė (0.62)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "724162-725587; hash=ba1bcb94bfcfc36e69f7001a3886a7ce1c5a0a171a521396acd030d424fef9ba; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Jeruzalė: 0.62"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Simeonas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Jeruzalė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Laiškai buvo Simeono ir kitų Jeruzalėje gyvenančių tikinčiųjų; formuluotė netiesiogiai sieja Simeoną su Jeruzale."
   pagrindžia:
     - c-85369
 
@@ -75,20 +64,6 @@ Nenurodyta
 - t-002
   global_id: t-89410
   teiginys: "1096 m. Petras su kryžininkais ir daugybe vokiečių persikėlė per Helespontą ir užėmė Švento Jurgio ranką, Antiochiją ir Jeruzalę."
-  semantiniai_rysiai: "Vokiečiai keliavo į Jeruzalė (0.63)"
-  temporaliniai_duomenys: "įvykio data: 1096 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs; citata remia glaustą sakinį apie žygio veiksmus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "724794-726184; hash=7f62a1f9dc99189c70a7af11dd0b6459a76571342cbde4754c2dde02f4b4c9f5; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Jeruzalė: 0.63"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vokiečiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Jeruzalė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Vokiečiai buvo tarp žygio dalyvių, kurio galutinis objektas buvo Jeruzalė."
   pagrindžia:
     - c-85368
 
@@ -96,17 +71,6 @@ Nenurodyta
 - t-003
   global_id: t-89411
   teiginys: "Po Urbono II susirinkimo vyskupai, prelatai, valdovai, kilmingieji ir kiti žmonės davė įžadus leistis į maldininkų žygį."
-  semantiniai_rysiai: "Vokiečiai užėmė Jeruzalė (0.74)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "724794-726184; hash=7f62a1f9dc99189c70a7af11dd0b6459a76571342cbde4754c2dde02f4b4c9f5; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Jeruzalė: 0.74"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vokiečiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Jeruzalė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citatoje vokiečiai minimi kaip Petro žygio dalyviai, kurie užėmė ir Jeruzalės miestą."
   pagrindžia:
     - c-85368
 ## Reikšmingi paminėjimai
@@ -132,8 +96,8 @@ Nenurodyta
     arkivyskupai, būtent: Tyro su keturiais sufraganais, Cezarėjos — su vienu, Nazareto —
     su vienu ir Petros — su vienu sufraganu.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -163,8 +127,8 @@ Nenurodyta
     bei  kiti kilmingieji  ir šiaip žmonės puošė savo pečius išganingojo kryžiaus ženklu,
     duodami viešpačiui įžadus leistis į maldininkų žygį.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -175,7 +139,8 @@ Nenurodyta
 - id: c-85368
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 241"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 241."
   citata_originali: |
     Neilgai trukus po to jo šventenybė
     popiežius Urbonas, palydėjęs minėtąjį Petrą į Prancūziją, sušaukė visuotinį susirinkimą,
@@ -206,7 +171,8 @@ Nenurodyta
 - id: c-85369
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 240-241"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 240-241."
   citata_originali: |
     Padrąsintas  dieviškojo apreiškimo  ir užsidegęs
 

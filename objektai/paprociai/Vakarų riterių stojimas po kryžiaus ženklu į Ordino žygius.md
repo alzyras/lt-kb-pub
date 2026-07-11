@@ -62,19 +62,6 @@ Nenurodyta
 - t-001
   global_id: t-87256
   teiginys: "1375 m. Vinrichas į Lietuvą vedė Prancūzijos ir Vokietijos baronus bei riterius, sutelktus stoti po kryžiaus ženklu."
-  temporaliniai_duomenys: "įvykio data: 1375 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys perrašytas į vientisą sakinį be OCR lūžių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "90375-90784; hash=b4aa9e14a6e510b74b6633f962fd3c9107994b88827495c5d06843a19f70ceaa; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vakarų riterių stojimas po kryžiaus ženklu į Ordino žygius: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Kryžius: mention_match, thing, gap=82"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vakarų riterių stojimas po kryžiaus ženklu į Ordino žygius\" parinktas kaip owner_note_path. Targetas \"Kryžius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-83235
 
@@ -82,12 +69,6 @@ Nenurodyta
 - t-002
   global_id: t-194193
   teiginys: "Tas pašėlęs lietuvių priešinimasis nė kiek neatbaidė vokiečių nuo kas metinių žygių iki pat Vilniaus, kuris tolydžio gyveno apim tas naujo puolimo grėsmės; 1384 metais, nepaisant skaudžių netekčių, Ordino patirtų Lietuvoje, jo antpuoliai jau siekda vo."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "111788-112545; hash=b28e48a790b5865116dc216e9fa309f23a7c5dc793985f5f8f266ff738f8f1d6; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176797
 ## Reikšmingi paminėjimai
@@ -109,8 +90,8 @@ Nenurodyta
     binai trauktis atgal į Prūsiją dėl staigaus atodrėkio ir upių
     polaidžio.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -135,8 +116,8 @@ Nenurodyta
     sijos kerštą ir Lietuvai bei Vilniui grėsė neapsakomomis ne­
     gandomis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

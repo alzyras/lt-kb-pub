@@ -33,9 +33,6 @@ media_all_json: |-
 - t-001
   global_id: t-36024
   teiginys: "Posakis „Šią knygą skaito visas pasaulis“ vartotas reklamuojant knygą, kurios vertimų buvo išpirkta daugiau kaip milijonas egzempliorių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "728851-729143; hash=c8cc922310db45b62537b65593970a9e94471fc4452a31729c1bd3694e57f2c4; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-38396
 ## Reikšmingi paminėjimai
@@ -51,8 +48,8 @@ media_all_json: |-
     kai, mirtis, šiurpulingi ir neužmirštami vaizdai, įstrigę į šių laiku
     žmonijos širdį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

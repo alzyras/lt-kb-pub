@@ -30,19 +30,6 @@ Lietuvoje kilęs sambrūzdis prieš Augustą aprimo, kai atėjo žinia apie Žyg
 - t-001
   global_id: t-185411
   teiginys: "Lietuvoje kilęs sambrūzdis prieš Augustą aprimo, kai atėjo žinia apie Žygimanto mirtį."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1202637-1203216; hash=85242f87a8ead0eb412c79955094a708af60cdfd3e30a7f71f343588662ca77c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Augustas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "sambrūzdis: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Augustas: mention_match, person, gap=17"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"sambrūzdis\" parinktas kaip owner_note_path. Targetas \"Augustas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-168772
 ## Reikšmingi paminėjimai
@@ -65,8 +52,8 @@ Lietuvoje kilęs sambrūzdis prieš Augustą aprimo, kai atėjo žinia apie Žyg
     Aprimo šis sambrūzdis, kai atėjo žinia apie Žygi­
     manto mirtį.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -77,7 +64,8 @@ Lietuvoje kilęs sambrūzdis prieš Augustą aprimo, kai atėjo žinia apie Žyg
 - id: c-168772
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 675"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 675."
   citata_originali: |
     Patyręs
     Lenkijoje visokiausių nemalonumų, Augustas tikėjosi

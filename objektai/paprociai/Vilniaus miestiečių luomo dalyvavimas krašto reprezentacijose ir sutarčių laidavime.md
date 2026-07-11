@@ -62,19 +62,6 @@ Nenurodyta
 - t-001
   global_id: t-87169
   teiginys: "1422 m. Vilniui leista kartu su svarbiausiais karalystės miestais laiduoti sutartį su kryžiuočiais prie Osos upės."
-  temporaliniai_duomenys: "įvykio data: 1420 m.; įvykio data: 1422 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Reikia pašalinti vertinamąjį perteklių ir footnotės triukšmą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "336031-336680; hash=97713c504d1cae79c1102e041f7b29b7790a5dd14428e9245d4eb802543a4695; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilniaus miestiečių luomo dalyvavimas krašto reprezentacijose ir sutarčių laidavime: owner_note_path, thing"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=9"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus miestiečių luomo dalyvavimas krašto reprezentacijose ir sutarčių laidavime\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-83148
 
@@ -82,16 +69,6 @@ Nenurodyta
 - t-002
   global_id: t-87170
   teiginys: "Vilniaus miestiečių luomas turėjo nustatytą vietą krašto reprezentacijose ir nuo Vytauto laikų dalyvavo Lietuvos seimuose."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "337032-337720; hash=693adef14ebac9fa8cb19c43a411e7142aa655463a1da08d8d892a79527ddad5; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilniaus miestiečių luomo dalyvavimas krašto reprezentacijose ir sutarčių laidavime: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=104"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus miestiečių luomo dalyvavimas krašto reprezentacijose ir sutarčių laidavime\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-83149
 ## Reikšmingi paminėjimai
@@ -114,8 +91,8 @@ Nenurodyta
     76 dorf, Magistrum Cruciferorum et suum
     Kojałowicz,Pars.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -143,8 +120,8 @@ Nenurodyta
     ro Pauliaus Rusdorfo ir jo Ordino iš
     kitos pusės.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

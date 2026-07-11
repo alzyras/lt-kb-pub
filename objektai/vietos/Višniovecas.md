@@ -30,19 +30,6 @@ Išgarsėjęs daugybe žygių, Dimitras įkūrė Zbaražo ir Višnioveco miestus
 - t-001
   global_id: t-185320
   teiginys: "Išgarsėjęs daugybe žygių, Dimitras įkūrė Zbaražo ir Višnioveco miestus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "593930-594333; hash=0972f468e57194ce5e4f70374107fc03235b561abdf6fbfb88721ae58657fe72; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Višniovecas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Višniovecas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-168681
 - susijęs iš [[objektai/ivykiai/Lietuvių didikų žygis prieš skitus ir turkus, pasibaigęs pergale prie Kijevo.md#claim-t-185604|Lietuvių didikų žygis prieš skitus ir turkus, pasibaigęs pergale prie Kijevo]]: Ostrogiškis, sužinojęs apie skitų ir turkų žygį į Podolę ir Pogorę, skubiai įspėjo susitarimo dalyvius apie pavojų.
@@ -69,8 +56,8 @@ Išgarsėjęs daugybe žygių, Dimitras įkūrė Zbaražo ir Višnioveco miestus
     nų nei Lenkijoje, nei Lietuvoje niekam nenusileidžia
     valdovų šlove.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -81,7 +68,8 @@ Išgarsėjęs daugybe žygių, Dimitras įkūrė Zbaražo ir Višnioveco miestus
 - id: c-168681
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 341"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 341."
   citata_originali: |
     Pasitenkinęs
     šiomis didelėmis valdomis, liovėsi reikalavęs Seversko.

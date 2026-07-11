@@ -32,16 +32,6 @@ media_all_json: |-
 - t-001
   global_id: t-41466
   teiginys: "Posakis „Teisybė, jie niekada nesitraukia“ apibūdina raitelius kaip nesitraukiančius ir visu greičiu puolančius."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "405323-405597; hash=5ad7b9684a7d951ccd942137a43b4939d0697dc9f5450a9a089d492a7ae40703; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Prancūzai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Teisybė, jie niekada nesitraukia: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Prancūzai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Teisybė, jie niekada nesitraukia\" parinktas kaip owner_note_path. Targetas \"Prancūzai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-44962
 ## Reikšmingi paminėjimai
@@ -55,8 +45,8 @@ media_all_json: |-
     ca Konseržas, kitaip končaras ar estokas (Estoc prancūzų kalba reiškia durti), kartais vadinamas kava-
     lerijos špaga. XVI a. pabaiga-xVII a.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

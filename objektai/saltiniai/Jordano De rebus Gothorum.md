@@ -30,24 +30,6 @@ Pasak Teodoro Narbuto, Jordanas rašė, kad Filimero gotai 161 m., persikėlę �
 - t-001
   global_id: t-191725
   teiginys: "Pasak Teodoro Narbuto, Jordanas rašė, kad Filimero gotai 161 m., persikėlę į dešiniąją Vyslos pakrantę, pateko į kraštą, vadinamą Owim."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 161 m"
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys jau yra pilnas sakinys su Narbuto ir Jordano atribucija, reikalinga senajam vietovardžio aiškinimui. Nepridėta platesnio Prūsijos ribų konteksto."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "448023-448538; hash=53680e4213d389ddfade5cdf4b78f420e15abf8a2a0287266788ae365d20d25a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Filimeras: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jordano De rebus Gothorum: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Filimeras: mention_match, person, gap=19"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jordano De rebus Gothorum\" parinktas kaip owner_note_path. Targetas \"Filimeras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174607
 ## Reikšmingi paminėjimai
@@ -72,8 +54,8 @@ Pasak Teodoro Narbuto, Jordanas rašė, kad Filimero gotai 161 m., persikėlę �
     persikėlę j dešiniąją Vyslos pakrantę, gotai pirmiausia pa­
     teko j kraštą, vadinamą Owim.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

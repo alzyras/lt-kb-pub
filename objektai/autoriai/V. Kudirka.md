@@ -44,16 +44,6 @@ Kudirkos „Tautišką giesmę“ ir lietuvių nacionalinius simbolius – Vytį
 - t-001
   global_id: t-19486
   teiginys: "Spalio 6 d. Aukščiausiosios Tarybos Prezidiumas legalizavo V. Kudirkos „Tautišką giesmę“."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "488058-488620; hash=6a47124baf0db6f7a3844bb9147b1de03fb7ff4691f502eb35524c877ffdce75; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vincas Kudirka: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "V. Kudirka: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Vincas Kudirka: mention_match, author, gap=3"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"V. Kudirka\" parinktas kaip owner_note_path. Targetas \"Vincas Kudirka\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-22203
 
@@ -61,12 +51,6 @@ Kudirkos „Tautišką giesmę“ ir lietuvių nacionalinius simbolius – Vytį
 - t-002
   global_id: t-193590
   teiginys: "Jo redaktoriumi iki pat savo mirties buvo gydytojas Vincas Kudirka (1858–1899), kuris vos netapo lenku, ir tik „Aušros“ numeris, patekęs jam į rankas, veikiai ištaisė galvoseną ir paskatino „pasijusti lietuviu“."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "226535-227234; hash=fcc9a79af3befa34eed7d31c602dbd639a1a912a5f0717ad6a4736c70f7f8f2d; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176265
 
@@ -74,12 +58,6 @@ Kudirkos „Tautišką giesmę“ ir lietuvių nacionalinius simbolius – Vytį
 - t-003
   global_id: t-193591
   teiginys: "1950 m. uždraustas ir Lietuvos himnas – Vinco Kudirkos „Tautiška giesmė“."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "449021-449511; hash=56ca49de1bb3043618f15c60cda2ace3167590dcb8a1b1d070228607f37339dc; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176266
 - susijęs iš [[objektai/asmenys/Vincas Kudirka.md#claim-t-78010|Vincas Kudirka]]: Vincas Kudirka iki mirties redagavo 1889 m. pradėtą leisti žurnalą „Varpas“, rašė poeziją ir sukūrė „Tautišką giesmę“.
@@ -103,8 +81,8 @@ Kudirkos „Tautišką giesmę“ ir lietuvių nacionalinius simbolius – Vytį
     ir Gediminaičių stulpus, panaikino ribojančius mitingus, gatvės eitynes ir
     demonstracijas įsakus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -127,8 +105,8 @@ Kudirkos „Tautišką giesmę“ ir lietuvių nacionalinius simbolius – Vytį
     kritikavo caro režimą ir kultūros politiką, rūpinosi bendrinės literatūrinės
     lietuvių kalbos formavimu.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -146,8 +124,8 @@ Kudirkos „Tautišką giesmę“ ir lietuvių nacionalinius simbolius – Vytį
     kabinėta komunistinių šūkių. Padėtis kultūroje ėmė švelnėti tik šeštojo
     dešimtmečio antroje pusėje, prasidėjus destalinizacijai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -53,16 +53,6 @@ Nenurodyta
 - t-001
   global_id: t-87227
   teiginys: "Anksčiau Lietuvos totoriai vertėsi audinių ir siūlų prekyba, o vėliau daugelis jų tarnavo totorių ulonų pulkuose."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "319266-320121; hash=1bae43167dec84c04dcc456fcc2bc02a9cf22b4bffd46a09a7d8781d39180494; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Ašmena: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Totorių raitoji karyba be vežimų ir tarnyba kariuomenėje: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Ašmena: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Totorių raitoji karyba be vežimų ir tarnyba kariuomenėje\" parinktas kaip owner_note_path. Targetas \"Ašmena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-83206
 ## Reikšmingi paminėjimai
@@ -96,8 +86,8 @@ Nenurodyta
     menis arba turi menkus žemės plo­
     telius, po tėvų mirties paveldėtus.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

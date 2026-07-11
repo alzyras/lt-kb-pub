@@ -43,17 +43,6 @@ Dusburgietis teigia, kad vis dėlto broliai Ditrichas ir Giunteris iš Regenšte
 - t-001
   global_id: t-60293
   teiginys: "Giunteris iš Regenšteino su broliu Ditrichu ir pasitelktais kariais sugriovė pilaitę prie įeigos į Notangos žemę."
-  semantiniai_rysiai: "Giunteris iš Regenšteino puolė Pilaitė (0.86)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "424250-425428; hash=957551c9d33dabd6773dc59031914c4215e7597a79562bc5cfec80a33b8d99fa; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Pilaitė: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Giunteris iš Regenšteino: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Pilaitė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Giunteris kartu su kitais sugriovė pilaitę, todėl tai tiesioginis karinis veiksmas prieš ją."
   pagrindžia:
     - c-167456
 
@@ -61,17 +50,6 @@ Dusburgietis teigia, kad vis dėlto broliai Ditrichas ir Giunteris iš Regenšte
 - t-001
   global_id: t-60293
   teiginys: "Giunteris iš Regenšteino su broliu Ditrichu ir pasitelktais kariais sugriovė pilaitę prie įeigos į Notangos žemę."
-  semantiniai_rysiai: "Giunteris iš Regenšteino puolė Pilaitė (0.86)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "424250-425428; hash=957551c9d33dabd6773dc59031914c4215e7597a79562bc5cfec80a33b8d99fa; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Pilaitė: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Giunteris iš Regenšteino: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Pilaitė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Giunteris kartu su kitais sugriovė pilaitę, todėl tai tiesioginis karinis veiksmas prieš ją."
   pagrindžia:
     - c-167456
 ## Reikšmingi paminėjimai
@@ -96,8 +74,8 @@ Dusburgietis teigia, kad vis dėlto broliai Ditrichas ir Giunteris iš Regenšte
     dieną valydamas Notangą gaisrais bei plėšimais Jis taip nusiaubė šią [žemę], kad kitais
     metais ji vėl pasidavė tikėjimui bei broliams.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -109,7 +87,8 @@ Dusburgietis teigia, kad vis dėlto broliai Ditrichas ir Giunteris iš Regenšte
 - id: c-167456
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 132"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 132."
   citata_originali: |
     Apie tai, kaip Notangos žemę nusiaubė Meiseno markos valdovas Ditrichas
 
@@ -133,6 +112,3 @@ Dusburgietis teigia, kad vis dėlto broliai Ditrichas ir Giunteris iš Regenšte
   pagrindzia:
     - t-184071
     - t-60293
-
-## Ryšiai
-- Giunteris iš Regenšteino puolė [[objektai/vietos/Pilaitė]]

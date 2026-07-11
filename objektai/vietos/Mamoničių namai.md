@@ -39,9 +39,6 @@ Dar prieš įžengiant karaliui Steponui į sostą, Lie­ tuvos piliečių broli
 - t-002
   global_id: t-86086
   teiginys: "Mamoničių namai, pasak autoriaus, stovėjo dabartinių Sledzinskio namų Nr. 203 vietoje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "598137-598340; hash=f18f9f488eb4b92573f5f31b2e959e86e315751c3d54cb67b5bf67c9a3442a5d; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-82064
 - susijęs iš [[objektai/grupes/Mamoničių giminė.md#claim-t-86746|Mamoničių giminė]]: Mamoničių namai, anot citatos, veikiausiai stovėjo ten, kur vėliau buvo Sledzinskio namai Nr. 203.
@@ -60,8 +57,8 @@ Dar prieš įžengiant karaliui Steponui į sostą, Lie­ tuvos piliečių broli
     cerkvelė. Vėliau Mamoničių spaus­
     tuvė, matyt, atiteko bazilijonams.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

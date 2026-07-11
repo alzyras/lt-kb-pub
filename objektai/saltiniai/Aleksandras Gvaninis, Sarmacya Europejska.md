@@ -30,21 +30,6 @@ Narbutas, cituodamas Gvaninį, Kerkelio arba Belgorodo totorių vardą siejo su 
 - t-001
   global_id: t-191767
   teiginys: "Narbutas, cituodamas Gvaninį, Kerkelio arba Belgorodo totorių vardą siejo su Klerkei, arba Bialohrod, pilimi ant uolos."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "194777-195213; hash=937edc6511a35ac2b685542c44a97b3217ba331aac95bae2992f4b6c5e5f7e44; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aleksandras Gvaninis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aleksandras Gvaninis, Sarmacya Europejska: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Aleksandras Gvaninis: mention_match, author, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksandras Gvaninis, Sarmacya Europejska\" parinktas kaip owner_note_path. Targetas \"Aleksandras Gvaninis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174649
 ## Reikšmingi paminėjimai
@@ -63,8 +48,8 @@ Narbutas, cituodamas Gvaninį, Kerkelio arba Belgorodo totorių vardą siejo su 
     Belgorodo totoriai buvo mūsų neseniai aprašytų polovie-
     čių-lietuvių likučiai.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -75,7 +60,8 @@ Narbutas, cituodamas Gvaninį, Kerkelio arba Belgorodo totorių vardą siejo su 
 - id: c-174649
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 109"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 109."
   citata_originali: |
     Ar mūsų latviai
     kažkada išėjo iš tų užkampių, ar buvo ten nuvesti toto­

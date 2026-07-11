@@ -36,12 +36,6 @@ Rodėsi, kad karalius Jo gaila, ligi šiol ryžtingas karys, šios visuotinės n
 - t-001
   global_id: t-193472
   teiginys: "Rodėsi, kad karalius Jo gaila, ligi šiol ryžtingas karys, šios visuotinės nelaimės nė nepajuto, kad Veneros nuodai atbukino narsią širdį, neleisdami pastebėti šitokio negando."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "687515-688343; hash=d2d4a5a60a669afe2b48e5c36fb2f12ac0ebfe30ae22c9285b4a18dc4dea5bde; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176173
 ## Reikšmingi paminėjimai
@@ -74,8 +68,8 @@ Rodėsi, kad karalius Jo gaila, ligi šiol ryžtingas karys, šios visuotinės n
     K araliu s rūpinasi ves-
     sirūpino.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

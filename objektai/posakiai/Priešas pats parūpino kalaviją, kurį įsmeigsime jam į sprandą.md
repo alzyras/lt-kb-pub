@@ -30,12 +30,6 @@ Karalius priėmė kovos ženklą ir pasakė, kad priešas pats parūpino kalavij
 - t-001
   global_id: t-185480
   teiginys: "Karalius priėmė kovos ženklą ir pasakė, kad priešas pats parūpino kalaviją, kuris bus įsmeigtas jam į sprandą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "660642-660790; hash=8bb987dc84ab7172af238077aa1262ebab66553a3855b29c33197979c770a7d0; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-168841
 ## Reikšmingi paminėjimai
@@ -49,8 +43,8 @@ Karalius priėmė kovos ženklą ir pasakė, kad priešas pats parūpino kalavij
     lą. Priešas pats parūpino kalaviją, kurį įsmeigsime jam
     į sprandą".
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -61,7 +55,8 @@ Karalius priėmė kovos ženklą ir pasakė, kad priešas pats parūpino kalavij
 - id: c-168841
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 377"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 377."
   citata_originali: |
     Ramiai karalius išklausė
     tų žodžių. „Gerai,— tarė,— mielai priimu šį kovos ženk­

@@ -30,21 +30,6 @@ Narbutas priesaiką priskyrė aukoms, nes ją aiškino kaip geranorišką savo p
 - t-001
   global_id: t-189174
   teiginys: "Narbutas priesaiką priskyrė aukoms, nes ją aiškino kaip geranorišką savo paties sąžinės auką."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "561645-562178; hash=44a35fe60ebb4e490424458d45bbaf288a83f5c04d0cfbc95902e0c52645e4d1; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Antikos žmonės: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Priesaika: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Antikos žmonės: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Priesaika\" parinktas kaip owner_note_path. Targetas \"Antikos žmonės\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172062
 
@@ -52,21 +37,6 @@ Narbutas priesaiką priskyrė aukoms, nes ją aiškino kaip geranorišką savo p
 - t-002
   global_id: t-189175
   teiginys: "Narbutas teigė, kad lietuviai priesaikomis šaukėsi dievų liudytojų, sakydami „dėl Dievo“ arba „Kad man Periamas sumusztu“."
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "562179-562592; hash=0efdc85c88b2bd6ce77025678bca8d0f4a8d1c18272f582be175e6c4418b1e7a; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Priesaika: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=10"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Priesaika\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172063
 - susijęs iš [[objektai/paprociai/Kepurės padėjimas teismo priesaikoje.md#claim-t-189780|Kepurės padėjimas teismo priesaikoje]]: Narbutas kepurių padėjimą teismo liudijimuose aiškino kaip senovinį lietuvių liudijimo būdą su užkeikimu arba priesaika.
@@ -92,8 +62,8 @@ Narbutas priesaiką priskyrė aukoms, nes ją aiškino kaip geranorišką savo p
     baisas arba į Cezario gyvybę, į jo barzdą, kadangi jo pyktis
     būdavo toks pat baisus kaip ir anų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -111,8 +81,8 @@ Narbutas priesaiką priskyrė aukoms, nes ją aiškino kaip geranorišką savo p
     (Kad až skradziuprapoltu). Senovės prūsų papročiu prisiekian­
     tysis laikydavo dešinę ranką prie savo gerklės.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -123,7 +93,8 @@ Narbutas priesaiką priskyrė aukoms, nes ją aiškino kaip geranorišką savo p
 - id: c-172062
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 320"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 320."
   citata_originali: |
     Toliau net matysi­
     me, kad jie turėjo nuodėmių išpažinimo dieną.
@@ -146,7 +117,8 @@ Narbutas priesaiką priskyrė aukoms, nes ją aiškino kaip geranorišką savo p
 - id: c-172063
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 320"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 320."
   citata_originali: |
     Lietuviai savo priesaikas duodavo visai panašiai: visi saky­
     davo (tai ir dabar yra kaimiečių paprotys) „dėl Dievo“ (Dali

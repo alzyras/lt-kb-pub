@@ -39,16 +39,6 @@ Kurį laiką taip elgėsi Mikalojus Konstantinas Čiurlionis (1875–1911), beje
 - t-003
   global_id: t-83727
   teiginys: "Vasarį stovyklininkas Pavlikas buvo iš anksto pasiųstas su pinigais, kad jie laiku pasiektų Mlodyčių Leipcige."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "831088-831436; hash=829bfe1c430da76110c9bd593519d73b17c56542c4514ef0b7545d8a8b63b5a1; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Liublinas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Leipcigas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Liublinas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Leipcigas\" parinktas kaip owner_note_path. Targetas \"Liublinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-79985
 
@@ -56,16 +46,6 @@ Kurį laiką taip elgėsi Mikalojus Konstantinas Čiurlionis (1875–1911), beje
 - t-001
   global_id: t-83728
   teiginys: "Mikalojus Konstantinas Čiurlionis muziką ir dailę studijavo Varšuvoje ir Leipcige."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "246933-247521; hash=2bbc96ee6e62bee734214199f58f7198537d85ea2c699ad142be9ea55c7bb389; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Leipcigas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Leipcigas\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-24233
 
@@ -73,17 +53,6 @@ Kurį laiką taip elgėsi Mikalojus Konstantinas Čiurlionis (1875–1911), beje
 - t-002
   global_id: t-83729
   teiginys: "Rugpjūčio 5 d. Turčinas nuvežė pinigus karališkajai didenybei į Leipcigą ir keitė lietuviškas monetas į lenkiškas."
-  semantiniai_rysiai: "Turčinas keliavo į Leipcigas (0.85)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "828730-828941; hash=2a686b73dc8cf2694af52503322d92c5e6130ad3851d14bba4f49a2109a26ed8; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Leipcigas: 0.85"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Turčinas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Leipcigas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Turčinas tiesiogiai minimas kaip nuvežęs pinigus į Leipcigą."
   pagrindžia:
     - c-79986
 
@@ -91,16 +60,6 @@ Kurį laiką taip elgėsi Mikalojus Konstantinas Čiurlionis (1875–1911), beje
 - t-004
   global_id: t-83730
   teiginys: "Pavlikas turėjo laiku pasiųsti pinigus Mlodyčiui į Leipcigą ir ponui Plockiui skolai sumokėti."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "831088-831436; hash=829bfe1c430da76110c9bd593519d73b17c56542c4514ef0b7545d8a8b63b5a1; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Plockis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Leipcigas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Plockis: mention_match, person, gap=18"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Leipcigas\" parinktas kaip owner_note_path. Targetas \"Plockis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-79985
 - susijęs iš [[objektai/asmenys/Mikalojus Konstantinas Čiurlionis.md#claim-t-101689|Mikalojus Konstantinas Čiurlionis (dailininkas)]]: Mikalojus Konstantinas Čiurlionis studijavo muziką ir dailę Varšuvoje bei Leipcige.
@@ -139,8 +98,8 @@ Kurį laiką taip elgėsi Mikalojus Konstantinas Čiurlionis (1875–1911), beje
     žinomas lietuvių dailininkas ir kompozitorius, muziką ir dailę studijavęs
     Varšuvoje ir Leipcige.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -160,8 +119,8 @@ Kurį laiką taip elgėsi Mikalojus Konstantinas Čiurlionis (1875–1911), beje
     Plockiui sumokėti skolą iš lietuviškų monetų, jas keičiant į
     lenkiškas, pridėjau 1310 flor. (23 fl.: 88) (6) 9 den.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -177,8 +136,8 @@ Kurį laiką taip elgėsi Mikalojus Konstantinas Čiurlionis (1875–1911), beje
     liet. monetas į lenkiškas, pridėjau prie 100 zl. po 8 flor. 614 zl.:
     išlaidos 52 zl., 5 gr.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -247,6 +206,3 @@ Kurį laiką taip elgėsi Mikalojus Konstantinas Čiurlionis (1875–1911), beje
   patikimumo_saltinis: ai
   pagrindzia:
     - t-83729
-
-## Ryšiai
-- Buvo kelionės vieta: [[objektai/asmenys/Turčinas]]

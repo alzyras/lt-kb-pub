@@ -39,9 +39,6 @@ Papildomos aiškios formos neišskirtos.
 - t-002
   global_id: t-07651
   teiginys: "`Minkštpautis` šiame tekste reiškia nevyrišką, lepną ar silpną žmogų."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "98298-98471; hash=2c99890d4d15d09b2a5c81d1ca3215d40a2394f73db7ffdc69fc39b55df2a324; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
   pagrindžia:
     - c-09583
 ## Reikšmingi paminėjimai
@@ -51,8 +48,8 @@ Papildomos aiškios formos neišskirtos.
   citata_originali: |
     lepnų^385 ir neskudrų: „Merga, – sako, – ne vyras, minkštpautis“ arba: „Veršis nelaižytas, mulkis arba molakis^386 “, arba: „Dantis praėdęs, proto neįgavęs, molio motiejus.“
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

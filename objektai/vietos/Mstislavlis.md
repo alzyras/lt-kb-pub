@@ -42,17 +42,6 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
 - t-018
   global_id: t-182082
   teiginys: "Sviatoslavui žuvus prie Mstislavlio ant Vechros kranto, jo sūnus Jurgis pažadėjo paklusnumą Jogailai."
-  semantiniai_rysiai: "Sviatoslavas mirė Mstislavlis (0.90); Sviatoslavas mirė Vechra (0.86)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "789577-789832; hash=13e3c2800241dbfde22d1ab66dfaa4da4fa2e19ec6503fc9aba082582514517a; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "mire -> Mstislavlis: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Sviatoslavas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Mstislavlis: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Sviatoslavo žūties vietą prie Mstislavlio."
   pagrindžia:
     - c-165574
 
@@ -60,20 +49,6 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
 - t-014
   global_id: t-182083
   teiginys: "Iki 1362 m. Algirdas užėmė Smolensko kunigaikštijai priklausiusį Mstislavlį, Mogiliavą ir Toropiecą."
-  semantiniai_rysiai: "Algirdas (Lietuvos valdovas) užėmė Mstislavlis (0.90); Algirdas (Lietuvos valdovas) užėmė Mogiliavas (0.88); Mstislavlis priklausė Smolenskas (0.86)"
-  temporaliniai_duomenys: "įvykio data: iki 1362 m.; įvykio data: 1362 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Išplėstas neaiškus įvardis ir sakinys padarytas savarankiškas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "730787-731021; hash=b98ea07613c49422ce2c78b28eceda84efd74ea1c09da4b7728f0c1f5486c2c6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Mstislavlis: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Mstislavlis: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Algirdas užėmė Mstislavlį."
   pagrindžia:
     - c-165572
 
@@ -81,17 +56,6 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
 - t-017
   global_id: t-182085
   teiginys: "Būdamas sąjungoje su Andriumi, Smolensko kunigaikštis Sviatoslavas užvaldė Mstislavlį."
-  semantiniai_rysiai: "Sviatoslavas valdė Mstislavlis (0.90); Sviatoslavas buvo valdovas Smolenskas (0.84)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "789406-789615; hash=f241e6a1d2fb47569b25ba711a1f08bdd51f883d115f428fef2adfe5d66cc209; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde -> Mstislavlis: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Sviatoslavas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Mstislavlis: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad Sviatoslavas užvaldė Mstislavlį."
   pagrindžia:
     - c-165575
 
@@ -99,21 +63,6 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
 - t-019
   global_id: t-185058
   teiginys: "Praradę viltį užimti Smolenską, Šemiačičiai patraukė prie Mstislavlio, bet Ivanas Solomereckis atrėmė antpuolį."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1001622-1002115; hash=624fa83b72bb80adab69338c6c5d5d5fcaa62b03cacf546af9ad481f24702f5b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Pjūklai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mstislavlis: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Pjūklai: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mstislavlis\" parinktas kaip owner_note_path. Targetas \"Pjūklai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-168419
 
@@ -121,22 +70,6 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
 - t-005
   global_id: t-187618
   teiginys: "Lietuvos metraštis vaizduoja, kad Gavėnios metu Svetoslavas su Smolensko bajorais patraukė į Mstislavlį ir ten praliejo daug krikščioniško kraujo."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Bajorai surengė žygį į Mstislavlis (0.68)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "156519-156925; hash=35a3f9f05c8172d75b5d0b516c910c5dd33fe837775c2482aaf3462e198323c0; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "surenge_zygi_i -> Mstislavlis: 0.68"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Bajorai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Mstislavlis: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Smolensko bajorai nurodyti kaip žygio į Mstislavlį dalyviai, nors pagrindinis veikėjas Svetoslavas nėra leidžiamas kandidatas."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-170565
 
@@ -144,21 +77,6 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
 - t-006
   global_id: t-187619
   teiginys: "Lietuvos metraščio pasakojime kunigaikštis Svetoslavas stovėjo prie Mstislavlio ir šaudė į miestą iš patrankų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "157622-157925; hash=90a6949b1653b4686866541a7719edd3d71080049425874bbbd418eec6e47c9f; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mstislavlis: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=68"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mstislavlis\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-170566
 - susijęs iš [[objektai/asmenys/Sviatoslavas.md#claim-t-179683|Sviatoslavas]]: Būdamas sąjungoje su Andriumi, Smolensko kunigaikštis Sviatoslavas užvaldė Mstislavlį.
@@ -226,8 +144,8 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
     Pats Smolenskas tapo apsuptas Algirdo valdomis, taigi jo valiai
     (^16) **MLLG, V, 1907, 358-361 p.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -242,8 +160,8 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
     Jogailai paklusnumą. O Skirgaila, sėkmingai apgulęs Polocką, kur
     jis pats atsisėdo, Andrių paėmė nelaisvėn ir išsiuntė Lenkijon.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -257,8 +175,8 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
     Andriumi, Smolensko kunigaikštis Sviatoslavas užvaldė Mstislavlį.
     Bet maištininkai greitai buvo įveikti.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -284,8 +202,8 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
     garsėjęs karvedys, kuriam buvo patikėtas miestas ir
     apygarda, sėkmingai atrėmė antpuolį.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -307,8 +225,8 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
     trankų, o savo karius paleido po Mstislavlio žemų ir
     praliejo daug krikščioniško kraujo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -326,8 +244,8 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
     kad prieš jį ateina su broliais didysis kunigaikštis Skir­
     gaila IJ.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -456,9 +374,7 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
 
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Karigaila]]
-- Buvo valdoma: [[objektai/grupes/Gediminaičiai]], [[objektai/asmenys/Sviatoslavas]]
-- Buvo kelionės vieta: [[objektai/grupes/Lietuvos kariuomenė]], [[objektai/asmenys/Simonas Lengvenis|Simonas Lengvenis (valdovas, XIV a.)]]
+- Buvo valdoma: [[objektai/asmenys/Sviatoslavas]]
+- Buvo kelionės vieta: [[objektai/grupes/Lietuvos kariuomenė]]
 - Mirties vieta: [[objektai/asmenys/Sviatoslavas]]
 - Užėmė Mstislavlį: [[objektai/asmenys/A. N. Trubeckojus]], [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Sviatoslavas]]
-- Buvo žygio kryptis: [[objektai/grupes/Bajorai]]
-- Mstislavlis priklausė [[objektai/vietos/Smolenskas]]

@@ -30,14 +30,6 @@ Narbuto aiškinimu, Dregerio skelbtoje sutartyje Nr. 58 minėtas tvirtoves sunku
 - t-001
   global_id: t-191833
   teiginys: "Narbuto aiškinimu, Dregerio skelbtoje sutartyje Nr. 58 minėtas tvirtoves sunku atpažinti dėl blogai išrašytų pavadinimų ir neišlikusių vietos ženklų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "639217-639465; hash=273635165a008476efac48b824ed15c1c0e51bce067216d1404c4ac4ea1a1640; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174715
 ## Reikšmingi paminėjimai
@@ -52,8 +44,8 @@ Narbuto aiškinimu, Dregerio skelbtoje sutartyje Nr. 58 minėtas tvirtoves sunku
     išrašytos, antra vertus, dėl to, kad jų vietoje nieko, kas
     primintų jų pavadinimus, neatstatyta.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -64,7 +56,8 @@ Narbuto aiškinimu, Dregerio skelbtoje sutartyje Nr. 58 minėtas tvirtoves sunku
 - id: c-174715
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 354"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 354."
   citata_originali: |
     Beje, šiandien nelengva atrasti
     visas tvirtoves, kurias mini Dregerio skelbta sutartis (Nr.

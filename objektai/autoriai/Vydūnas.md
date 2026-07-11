@@ -33,9 +33,6 @@ Ypač daug tenka nukentėti Tilžėje gyvenančiam rašytojui filosofui Vydūnui
 - t-004
   global_id: t-89486
   teiginys: "Vydūnas šaltinyje nurodomas kaip Vilius Storasta."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "1250673-1250699; hash=e91b8d5d82adbc6047c3e6bfc33ab1944ab337d27a5ceb433c13b70c0be2ac9e; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-85435
 
@@ -43,11 +40,6 @@ Ypač daug tenka nukentėti Tilžėje gyvenančiam rašytojui filosofui Vydūnui
 - t-003
   global_id: t-89487
   teiginys: "Vydūnas nurodytas tarp autorių, palaikiusių aptariamą mintį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1248091-1248457; hash=2f81e849a9fc602b0c19b3aad56eafe42aab56b92c0a723d2388d7618d377ff6; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T14:23:04Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-85436
 
@@ -55,11 +47,6 @@ Ypač daug tenka nukentėti Tilžėje gyvenančiam rašytojui filosofui Vydūnui
 - t-003
   global_id: t-89488
   teiginys: "Tilžėje gyvenęs rašytojas filosofas Vydūnas vadovavo vietos lietuviams ir dėl to patyrė persekiojimą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "1248091-1248457; hash=2f81e849a9fc602b0c19b3aad56eafe42aab56b92c0a723d2388d7618d377ff6; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T14:23:04Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-85437
 - susijęs iš [[objektai/autoriai/Vileišis V.md#claim-t-62662|Vileišis V]]: V. Vileišis yra 1935 m. Kaune išleisto veikalo „Tautiniai santykiai Mažojoje Lietuvoje ligi Didžiojo karo istorijos ir statistikos šviesoje“ autorius.
@@ -72,8 +59,8 @@ Ypač daug tenka nukentėti Tilžėje gyvenančiam rašytojui filosofui Vydūnui
   citata_originali: |
     Vydūnas (Vilius Storasta).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -86,8 +73,8 @@ Ypač daug tenka nukentėti Tilžėje gyvenančiam rašytojui filosofui Vydūnui
     Šią mintį palaikė kiti, tarp jų Vydūnas (Vydūnas., Sieben Hundert
     Jahre..., p. 131).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -105,8 +92,8 @@ Ypač daug tenka nukentėti Tilžėje gyvenančiam rašytojui filosofui Vydūnui
     tenka nukentėti Tilžėje gyvenančiam rašytojui filosofui Vydūnui,
     kuris vadovauja vietos lietuviams.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -130,7 +117,8 @@ Ypač daug tenka nukentėti Tilžėje gyvenančiam rašytojui filosofui Vydūnui
 - id: c-85436
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 54"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 54."
   citata_originali: |
     Šią mintį palaikė kiti, tarp jų Vydūnas (Vydūnas., Sieben Hundert
     Jahre..., p. 131).

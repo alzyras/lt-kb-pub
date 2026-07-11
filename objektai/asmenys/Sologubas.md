@@ -30,12 +30,6 @@ Sologubas priešinosi siūlymams perduoti pilį Glinskiui ir ragino įgulą nete
 - t-001
   global_id: t-186079
   teiginys: "Sologubas priešinosi siūlymams perduoti pilį Glinskiui ir ragino įgulą neteršti dvylika metų gintos pilies šlovės."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1111371-1111863; hash=9b4fa83a5d5e27c3b40f18971a8be853e770806ded6208bce378422add21bf8a; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-169440
 - susijęs iš [[objektai/grupes/Maskvėnai.md#claim-t-184570|Maskvėnai]]: Maskvėnai ryžtingai puolė Smolenską ir, sudaužę sienas, galėjo be vargo įeiti į miestą.
@@ -58,8 +52,8 @@ Sologubas priešinosi siūlymams perduoti pilį Glinskiui ir ragino įgulą nete
     galbą atskubėsiąs karalius, kuris šiuo metu jau prie
     Minsko: šitai ne gandai, bet tikros žinios.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -70,7 +64,8 @@ Sologubas priešinosi siūlymams perduoti pilį Glinskiui ir ragino įgulą nete
 - id: c-169440
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 625"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 625."
   citata_originali: |
     Tokių kalbų paskatinti
     ryžtingesni vyrai viešai pareikalavo, kad įgulos virši­

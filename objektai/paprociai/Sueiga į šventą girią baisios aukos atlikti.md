@@ -46,9 +46,6 @@ Nenurodyta
 - t-002
   global_id: t-07805
   teiginys: "Žemaičių giminių pasiuntiniai nustatytu laiku sueidavo į šventą girią atlikti baisios aukos pagal seną įprotį."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "23123-23404; hash=02eaaadb2b2b3f7e7470dfd56bf965136cef1cce4af63fa8b14236921b5ecdf6; match=exact"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
   pagrindžia:
     - c-09962
     - c-09963
@@ -61,8 +58,8 @@ Nenurodyta
          visų giminių tos tautos sueina į šventą girią senu įpročiu baisios aukos atlikti; ir taip, nugalavę
          akivaizdoj žmogųį aukauja pagal nuožmų įprotį, godoja^100 dar ir kitaip tą girią: nieksai tenai
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -74,8 +71,8 @@ Nenurodyta
     negali, negut^101 surištas, įžengti, kaipo nenusižeminęs prieš galybę aukščiausią. Jei netyčiomis jis
          tenai pavirstų, atsikelti ir stotis, sako, nevalna^102 yra, nes turi ant pilvo išsiristi.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

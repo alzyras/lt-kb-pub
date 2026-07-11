@@ -59,20 +59,6 @@ Nenurodyta
 - t-002
   global_id: t-62948
   teiginys: "Verneris nuo 1313 m. buvo Ragainės komtūras, o nuo 1324 m. tapo didžiuoju magistru, kuriam Dusburgietis įteikė savo veikalą."
-  teiginio_tipas: "faktas"
-  temporaliniai_duomenys: "įvykio data: 1237 m.; įvykio data: 1282 m.; įvykio data: po 1313 m.; įvykio data: 1313 m.; įvykio data: po 1324 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys yra kontekstinis fragmentas, bet citata pagrindžia Vernerio pareigas ir ryšį su veikalu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "80291-80597; hash=287f71fafd91ea97b82c26bc54768f6f836f7977728e57a20725f4bb3c61cce3; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Ragainė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vernerio iš Orzelno išrinkimas didžiuoju magistru (1324 m. liepos 6 d.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Ragainė: mention_match, place, gap=26"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vernerio iš Orzelno išrinkimas didžiuoju magistru (1324 m. liepos 6 d.)\" parinktas kaip owner_note_path. Targetas \"Ragainė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-63832
 ## Reikšmingi paminėjimai
@@ -86,8 +72,8 @@ Nenurodyta
     1282 m.). Trečiajai — Ragainės komtūras nuo 1313 m., o nuo 1324 m. didysis magistras
     Verneris, kuriam kronikininkas įteikė savo veikalą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -103,17 +89,18 @@ Nenurodyta
     (III, 354). Tiksliai nurodoma ir visų vėlesnių magistrų mirties bei valdymo pradžios,
     elekcijos datos120.
   citata_rodoma: ''
+  statusas: verified
+
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-
 ## Citatos
 
 - id: c-63832
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 27"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 27."
   citata_originali: |
     Ordino žodinę tradiciją skleisti  ir Dusburgietį informuoti galėjo trys brolių kartos.
     Pirmajai atstovautų didysis magistras Hartmanas, broliu tapęs prieš 1237 m. (miręs

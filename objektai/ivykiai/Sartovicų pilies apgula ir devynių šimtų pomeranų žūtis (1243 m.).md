@@ -58,20 +58,6 @@ Nenurodyta
 - t-001
   global_id: t-62467
   teiginys: "1243 m. brolis Ditrichas su nedidele kariuomene smogė Sartovicų pilį apgulusioms pajėgoms ir nukovė devynis šimtus vyrų."
-  teiginio_tipas: "faktas"
-  temporaliniai_duomenys: "įvykio data: 1243 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs, bet citata remia apgulos ir mūšio rezultatą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "287183-288294; hash=d2341607b1ed5d6679faf245aa6201ca650becda9bfd5126e4092b46d24193ac; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kulmas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Sartovicų pilies apgula ir devynių šimtų pomeranų žūtis (1243 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Kulmas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sartovicų pilies apgula ir devynių šimtų pomeranų žūtis (1243 m.)\" parinktas kaip owner_note_path. Targetas \"Kulmas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-63116
 ## Reikšmingi paminėjimai
@@ -95,8 +81,8 @@ Nenurodyta
     į kovą ir kirto jiems stiprų smūgį. Paklojęs devynis šimtus vyrų, kitus privertė bėgti;
     be kito grobio, kurio buvo labai daug, paėmė keturis šimtus priešo arklių.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -107,7 +93,8 @@ Nenurodyta
 - id: c-63116
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 87"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 87."
   citata_originali: |
     Apie Sartovicų pilies apgulą ir devynių šimtų pomeranų žūtį
 

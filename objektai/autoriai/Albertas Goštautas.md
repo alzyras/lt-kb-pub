@@ -42,14 +42,6 @@ Statutas, paruoštas vadovaujant kancleriui Albertui Goštautui, buvo taisomas k
 - t-001
   global_id: t-194147
   teiginys: "Turime taip pat išlikusį ir neginčijamai paties Al berto Goštauto literatūrinės kūrybos pavyzdį — Žygi manto II Kazimieraičio pagyrimą, parašytą 1529 m. Lietuvos Didžiosios Kunigaikštystės teisės kodekso — I-jo Lietuvos Statuto priėmimo proga 5 7 ."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "61817-62168; hash=cd345048c7da622eb0fb0524a8fa8c8cf59b902632e3fc5a3e842236509fc184; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-176760
 ## Reikšmingi paminėjimai
@@ -67,8 +59,8 @@ Statutas, paruoštas vadovaujant kancleriui Albertui Goštautui, buvo taisomas k
     Lietuvos Didžiosios Kunigaikštystės teisės kodekso —
     I-jo Lietuvos Statuto priėmimo proga 5 7 .
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

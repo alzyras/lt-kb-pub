@@ -35,17 +35,6 @@ Dusburgietis teigia, kad apie vienos pilies užkariavimą ir apie Kristburgo pil
 - t-001
   global_id: t-58632
   teiginys: "Pamedėnų pilis stovėjo vietoje, kuri Petro Dusburgiečio kronikoje vadinama Senuoju Kristburgu."
-  semantiniai_rysiai: "Pamedėnai gyveno Senasis Kristburgas (0.70)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "322602-323316; hash=1d8a6f93736101e2b21b5b1b4fc6688818a3d862dd3c1449e4eaed38b7f4cb5c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Senasis Kristburgas: 0.70"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Pamedėnai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Senasis Kristburgas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Pamedėnų pilis nurodyta stovėjusi vietoje, vadinamoje Senuoju Kristburgu; tai rodo pamedėnų vietinį ryšį su ta vieta."
   pagrindžia:
     - c-59265
 
@@ -53,17 +42,6 @@ Dusburgietis teigia, kad apie vienos pilies užkariavimą ir apie Kristburgo pil
 - t-002
   global_id: t-58633
   teiginys: "Senasis Kristburgas, vėliau vadintas Alt Christburgu, buvo senas pamedėnų centras."
-  semantiniai_rysiai: "Senasis Kristburgas priklausė Pamedėnai (0.84)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "325156-325411; hash=5866372262b2204d215d697baeed15ec8360e79ea96adfc8ed0d7d4f2a03501e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Pamedėnai: 0.84"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Senasis Kristburgas: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Pamedėnai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Senasis Kristburgas tiesiogiai apibūdinamas kaip pamedėnų centras."
   pagrindžia:
     - c-59264
 ## Reikšmingi paminėjimai
@@ -76,8 +54,8 @@ Dusburgietis teigia, kad apie vienos pilies užkariavimą ir apie Kristburgo pil
     Išlikęs piliakalnis (MGP, p. 53, Nr. 15), pylimu įtvirtintas I tūkst. viduryje, kryžiuočių
     laikotarpyje pylimas tik paaukštintas (Antoniewicz J., Bałtowie..., p. 44, 51).
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -98,8 +76,8 @@ Dusburgietis teigia, kad apie vienos pilies užkariavimą ir apie Kristburgo pil
     ją užėmė nukovęs ar išsivaręs  į nelaisvę daugelį, o piliai saugoti įkurdino ten brolių ir
     daug ginklanešių.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -110,7 +88,8 @@ Dusburgietis teigia, kad apie vienos pilies užkariavimą ir apie Kristburgo pil
 - id: c-59264
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 98"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 98."
   citata_originali: |
     Kirsburgas (vėliau — Alt Christburg, dab. Stary Dzierzgoń) — senas pamedėnų centras.
     Išlikęs piliakalnis (MGP, p. 53, Nr. 15), pylimu įtvirtintas I tūkst. viduryje, kryžiuočių
@@ -125,7 +104,8 @@ Dusburgietis teigia, kad apie vienos pilies užkariavimą ir apie Kristburgo pil
 - id: c-59265
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 98"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 98."
   citata_originali: |
     58 (57). Apie vienos pilies užkariavimą ir apie Kristburgo pilį
 
@@ -144,7 +124,3 @@ Dusburgietis teigia, kad apie vienos pilies užkariavimą ir apie Kristburgo pil
   patikimumo_saltinis: ai
   pagrindzia:
     - t-58632
-
-## Ryšiai
-- Gyvenamoji vieta: [[objektai/grupes/Pamedėnai]]
-- Senasis Kristburgas priklausė [[objektai/grupes/Pamedėnai]]

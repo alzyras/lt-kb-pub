@@ -30,12 +30,6 @@ A n k stesn iais m etais, tiesa, jie teisė ta i ir p ag rįstai n e n o rė ję
 - t-001
   global_id: t-193469
   teiginys: "A n k stesn iais m etais, tiesa, jie teisė ta i ir p ag rįstai n e n o rė ję p rita rti šiai san tarv ei, k ai le n k ai V aršu v o s ir B elsko seim uose atm etė L ietuvos re ik a lavim us."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1323228-1323765; hash=76134683a22b085fb1eab467861d13cc5bcf51bb0600ffe506326f3ec9c16901; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176170
 ## Reikšmingi paminėjimai
@@ -54,8 +48,8 @@ A n k stesn iais m etais, tiesa, jie teisė ta i ir p ag rįstai n e n o rė ję
     k ai V aršu v o s ir B elsko seim uose atm etė L ietuvos re ik a ­
     lavim us.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -66,7 +60,8 @@ A n k stesn iais m etais, tiesa, jie teisė ta i ir p ag rįstai n e n o rė ję
 - id: c-176170
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 733"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 733."
   citata_originali: |
     P asiu n tin iai tu rė jo  p areik šti štai ką.
     N o rs L ietuvos luom ai šiuo m etu  įsitrau k ę į k a m u o ja n ­

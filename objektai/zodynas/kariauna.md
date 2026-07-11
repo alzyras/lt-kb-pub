@@ -39,16 +39,6 @@ Lietuvos valstybė atsirado pirmiausia kaip apsigynimo priemonė, tačiau ji tur
 - t-001
   global_id: t-77797
   teiginys: "Mindaugo kariauna buvo sluoksnis, kuriuo rėmėsi kaip apsigynimo priemonė atsiradusi Lietuvos valstybė."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "45456-45918; hash=6ba292336d77c26ee3cbcc062a60c018c6dc9784b0de7af37a9a97da58ed4a8c; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "kariauna: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=75"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"kariauna\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-75122
 ## Reikšmingi paminėjimai
@@ -65,8 +55,8 @@ Lietuvos valstybė atsirado pirmiausia kaip apsigynimo priemonė, tačiau ji tur
     mis. Iš šių dienų perspektyvos galima sakyti – tauta galėjo apsisaugoti tik
     sukūrusi valstybę.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

@@ -32,16 +32,6 @@ media_all_json: |-
 - t-001
   global_id: t-40973
   teiginys: "L. Želigovskio pajėgos lapkričio 17 d. auštant puolė lietuvių 1-osios pėstininkų divizijos barą nuo Nėries iki Dubingių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "859203-859524; hash=015ab23c8a92713b992728e7bc21a50f4e22f5452cbe51b4460967528b775d6c; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Dubingiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "L. Želigovskio pajėgos: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Dubingiai: mention_match, place, gap=111"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"L. Želigovskio pajėgos\" parinktas kaip owner_note_path. Targetas \"Dubingiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-44779
 ## Reikšmingi paminėjimai
@@ -61,8 +51,8 @@ media_all_json: |-
     pajėgos priartėjo prie Videniškio,
     Gelogalių ir judėjo Balnininkų link.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

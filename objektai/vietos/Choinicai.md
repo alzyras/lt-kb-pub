@@ -36,15 +36,6 @@ Choinicams kritus, popiežiaus pasiuntinys Rudolfas pasistengė, kad būtų suda
 - t-001
   global_id: t-185261
   teiginys: "Choinicams kritus, popiežiaus pasiuntinys Rudolfas pasistengė, kad būtų sudaryta taika."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1467 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie Choinicų kritimo pasekmę."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "909545-910038; hash=dea42209758c796568ad2b2cdd2fd456c2ce809eb9c5c64a3c0da0e56ebc191c; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-168622
 - susijęs iš [[objektai/ivykiai/Choinicų apgultis ir pasidavimas karaliui (1466-1467 m.).md#claim-t-185558|Choinicų apgultis ir pasidavimas karaliui (1466-1467 m.)]]: Per Choinicų apgultį karalius įsakė lietuvių kavalerijos vadui budėti, kad būtų atremti pilies gynėjų išpuoliai.
@@ -71,8 +62,8 @@ Choinicams kritus, popiežiaus pasiuntinys Rudolfas pasistengė, kad būtų suda
     dolfas pasistengė, kad būtų
     sudaryta taika.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -83,7 +74,8 @@ Choinicams kritus, popiežiaus pasiuntinys Rudolfas pasistengė, kad būtų suda
 - id: c-168622
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 515"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 515."
   citata_originali: |
     Po to, beveik netrukdomi pasi­
     rengę lemiamam antpuoliui, iš arti visa jėga užgriuvo

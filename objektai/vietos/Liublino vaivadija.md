@@ -39,20 +39,6 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
 - t-001
   global_id: t-21570
   teiginys: "1939 m. rugsėjo 28 d. slaptuoju Reicho ir SSRS protokolu Vokietija už Lietuvos patekimą į SSRS įtakos sferą gavo Liublino vaivadiją."
-  semantiniai_rysiai: "Liublino vaivadija priklausė Vokietija (0.78)"
-  temporaliniai_duomenys: "įvykio data: 1939 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Šaltinio ištrauka leidžia suformuluoti baigtą sakinį apie vaivadiją."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "370630-371248; hash=cda34d05003c854e22e0e31a4d1edfd41534939b60f2977d01ff76597cc8339d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Vokietija: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Liublino vaivadija: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Vokietija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Claim tiesiogiai sako, kad Vokietija gavo Liublino vaivadiją pagal slaptą protokolą."
   pagrindžia:
     - c-24256
 ## Reikšmingi paminėjimai
@@ -70,8 +56,8 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
     SSRS įtakos sferą (už tai Vokietija gavo Liublino vaivadiją), Vokietijos
     spaudimą Lietuvai kaip ranka nuėmė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -100,6 +86,3 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
   patikimumo_saltinis: ai
   pagrindzia:
     - t-21570
-
-## Ryšiai
-- Liublino vaivadija priklausė [[objektai/vietos/Vokietija]]

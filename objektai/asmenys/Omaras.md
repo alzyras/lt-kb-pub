@@ -35,17 +35,6 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
 - t-001
   global_id: t-60397
   teiginys: "Arabų kunigaikštis Omaras, trečias Mahometo karalystės paveldėtojas, įsiveržė į Šventąją žemę ir ją užėmė."
-  semantiniai_rysiai: "Omaras užėmė Jeruzalė (0.60)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "722633-723162; hash=d66b93419f6235e4e80c3cd17bd80207eb0d649ef314a041caa7323ae94609ad; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Jeruzalė: 0.60"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Omaras: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Jeruzalė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginyje nurodyta, kad Omaras užėmė Šventąją žemę; leistinas artimiausias konkretus vietos kandidatas yra Jeruzalė, minima citatoje kaip Šventosios žemės miestas."
   pagrindžia:
     - c-61029
 - susijęs iš Jeruzalė: Omarui užėmus Šventąją žemę, Šventajame Jeruzalės mieste gyvenę krikščionys 490 metų kentė svetimą valdžią.
@@ -64,8 +53,8 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
     sunkus netikėlių  ir žiauruolių valdžios jungas. Galop valdovas, ilgokai rūstinamas,
     pajuto širdyje užuojautą, matydamas savo Žmonių sielvartą, ir pakvietė iš.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -76,7 +65,8 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
 - id: c-61029
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 240"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 240."
   citata_originali: |
     78. Apie šventosios žemės reikalus
 
@@ -93,6 +83,3 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
   patikimumo_saltinis: ai
   pagrindzia:
     - t-60397
-
-## Ryšiai
-- Omaras užėmė [[objektai/vietos/Jeruzalė]]

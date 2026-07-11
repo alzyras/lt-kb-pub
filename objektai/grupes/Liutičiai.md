@@ -30,21 +30,6 @@ Teodoras Narbutas spėjo, kad slavai liutičiai galėjo išstumti Vilkija vadint
 - t-001
   global_id: t-192996
   teiginys: "Teodoras Narbutas spėjo, kad slavai liutičiai galėjo išstumti Vilkija vadintas kartas, o nuo jų kraštas vadintas Lužica."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "587842-588388; hash=2530f52af84ef1ea0c0bada41941e5cb8c324f1e464b508ee62a7b06ec0e8cf6; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vilkija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Liutičiai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Vilkija: mention_match, place, gap=26"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Liutičiai\" parinktas kaip owner_note_path. Targetas \"Vilkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175766
 ## Reikšmingi paminėjimai
@@ -64,8 +49,8 @@ Teodoras Narbutas spėjo, kad slavai liutičiai galėjo išstumti Vilkija vadint
     burge herulai, nors ir engiami vokiečių, savo kalboje ir
     papročiuose išsaugojo nemažai kilmės pėdsakų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -76,7 +61,8 @@ Teodoras Narbutas spėjo, kad slavai liutičiai galėjo išstumti Vilkija vadint
 - id: c-175766
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 328"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 328."
   citata_originali: |
     Be to, pačioje Lietuvoje yra panašiai vadinamų
     valsčių ir netgi ne vienoje vietoje; lietuvių geografijoje

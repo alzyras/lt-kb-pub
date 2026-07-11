@@ -41,21 +41,6 @@ Mykolui Balinskiui priskiriama dalis išaiškintos autorystės straipsnių, įsk
 - t-001
   global_id: t-190075
   teiginys: "Mykolui Balinskiui priskiriama dalis išaiškintos autorystės straipsnių, įskaitant anoniminius tekstus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "107942-108222; hash=7b1e9e3ed1fa664769783c6c14c76b32c8abe9bdf988f2e9279b96ad31e1beec; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aleksandras Balinskis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mykolas Balinskis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Aleksandras Balinskis: mention_match, person, gap=8"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mykolas Balinskis\" parinktas kaip owner_note_path. Targetas \"Aleksandras Balinskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172958
 
@@ -63,12 +48,6 @@ Mykolui Balinskiui priskiriama dalis išaiškintos autorystės straipsnių, įsk
 - t-002
   global_id: t-194234
   teiginys: "Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypatinga, padėjusia ateinančioms kartoms formuoti istorinės savimonės pagrindus."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "1458-2162; hash=096c1a671713b8cd7e41b78e86d47c2f6116d051003e4c1250612359780f47d3; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176831
 
@@ -76,12 +55,6 @@ Mykolui Balinskiui priskiriama dalis išaiškintos autorystės straipsnių, įsk
 - t-003
   global_id: t-194235
   teiginys: "Mykolas Balinskis visiškai nuneigti negalėjo."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "2813-3187; hash=92bf4e41fd2181cb432929716000d53d59f5720a21a39c62943d23fdbc984868; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176832
 
@@ -89,12 +62,6 @@ Mykolui Balinskiui priskiriama dalis išaiškintos autorystės straipsnių, įsk
 - t-004
   global_id: t-194236
   teiginys: "Balinskis gimė 1794 m. rugpjūčio 12 d. Terespolyje, neto li Vitebsko."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "3188-3661; hash=c051ab9dc5fe0c9880d805e009a20e6d633f5af4aeb2343ffbb4a69451cb1254; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176833
 
@@ -102,12 +69,6 @@ Mykolui Balinskiui priskiriama dalis išaiškintos autorystės straipsnių, įsk
 - t-005
   global_id: t-194237
   teiginys: "Balinskis perėjo mokytis į Literatūros ir laisvųjų menų fakultetą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "3771-4242; hash=013435250b34fdb3b7199e0161cb262de3f4c8beff7066208c5e6019a79edd0d; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176834
 
@@ -115,12 +76,6 @@ Mykolui Balinskiui priskiriama dalis išaiškintos autorystės straipsnių, įsk
 - t-006
   global_id: t-194238
   teiginys: "Balinskis persikėlė gyventi į Varšuvą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "8915-9527; hash=40c8f009b9a4d05556920cf5a20ceef8d34d9f32316f09b4024de5954b0ffd43; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176835
 
@@ -128,12 +83,6 @@ Mykolui Balinskiui priskiriama dalis išaiškintos autorystės straipsnių, įsk
 - t-007
   global_id: t-194239
   teiginys: "Balinskis sugrįžta į Lietuvą ir apsigyvena savo Jašiūnų dvare."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "16857-17151; hash=13db02982b2d125dfab26d6e685915a5ec7458a90318ebd2755e49e267b07274; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176836
 
@@ -141,12 +90,6 @@ Mykolui Balinskiui priskiriama dalis išaiškintos autorystės straipsnių, įsk
 - t-008
   global_id: t-194240
   teiginys: "Balinskis mirė Vilniuje, palaidotas Jašiūnų dvare."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "22720-23090; hash=bc519e1af0eadc5c72a6d467e65922400a2e4152de7b7044bf751bf7b476c466; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176837
 ## Reikšmingi paminėjimai
@@ -161,8 +104,8 @@ Mykolui Balinskiui priskiriama dalis išaiškintos autorystės straipsnių, įsk
     recenzijos autorius. Bet tai tik hipotezė, rašinys galėjo būti ir
     kolektyvinio darbo vaisius.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -185,8 +128,8 @@ Mykolui Balinskiui priskiriama dalis išaiškintos autorystės straipsnių, įsk
     nors sykiu suvokė LDK valstybės istorinį ir kultūrinį savitu­
     mą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -204,8 +147,8 @@ Mykolui Balinskiui priskiriama dalis išaiškintos autorystės straipsnių, įsk
     niai tyrinėjimai iš Vilniaus miesto ir LDK valstybės praeities su­
     laukė tęsinio. Tai didelis jo nuopelnas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -224,8 +167,8 @@ Mykolui Balinskiui priskiriama dalis išaiškintos autorystės straipsnių, įsk
     istoriko motina - Ona Balevičiūtė. Terespolis nebuvo Balinskių
     giminės paveldima nuosavybė.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -244,8 +187,8 @@ Mykolui Balinskiui priskiriama dalis išaiškintos autorystės straipsnių, įsk
     gavęs filosofijos magistro laipsnį, M. Balinskis perėjo mokytis į
     Literatūros ir laisvųjų menų fakultetą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -266,8 +209,8 @@ Mykolui Balinskiui priskiriama dalis išaiškintos autorystės straipsnių, įsk
     perniko raštus, dalyvavo leidžiant senovės kronikas ir atsimini­
     mus, nušviečiančius Lenkijos - Lietuvos valstybės laikotarpį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -283,8 +226,8 @@ Mykolui Balinskiui priskiriama dalis išaiškintos autorystės straipsnių, įsk
     kaip rašė viename laiške jo žmona, Vilniuje jam buvo pasiūly­
     tos Vilniaus gimnazijos kuratoriaus pareigos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -301,8 +244,8 @@ Mykolui Balinskiui priskiriama dalis išaiškintos autorystės straipsnių, įsk
     lo Muravjovo - Koriko represijas krašte. 1864 m. sausio 1 d.
     M. Balinskis mirė Vilniuje, palaidotas Jašiūnų dvare.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -313,7 +256,8 @@ Mykolui Balinskiui priskiriama dalis išaiškintos autorystės straipsnių, įsk
 - id: c-172958
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 58"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 58."
   citata_originali: |
     Straipsnių, beje, ir anonimiškų, autorystė buvo išaiškinta-jie
     priskiriami istoriko, publicisto Mykolo Balinskio plunksnai.

@@ -45,14 +45,6 @@ Nenurodyta
 - t-001
   global_id: t-194810
   teiginys: "Prūsijos kronikininkai išvardija tokias vaidilų pareigas : atnašauti dievams aukas, mokyti liaudį tikėjimo ir priklausan čių jam dalykų; šviesti žmones, mokant, kaip jie pagal dievų įsakymus privalo elgtis laikinajame gyvenime; melstis, idant permaldautų."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "510586-511587; hash=eb3f8efafa568fa12453bfc1dc365a0e567d346294fb42db041fbf2b5cf9bca3; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-177206
 ## Reikšmingi paminėjimai
@@ -78,8 +70,8 @@ Nenurodyta
     dažnai sukeldavo visus žmones į karą su dievų priešu; tuo klau-
     simu, jų žodžiais tariant, jie žinodavę apreikštą dievų valią.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -90,7 +82,8 @@ Nenurodyta
 - id: c-177206
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 292"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 292."
   citata_originali: |
     Prūsijos kronikininkai išvardija tokias vaidilų pareigas :
     atnašauti dievams aukas, mokyti liaudį tikėjimo ir priklausan­

@@ -30,14 +30,6 @@ Narbutas aiškina, kad tikėjimo ženklu pažymėti atvaizdai ir simboliai susil
 - t-001
   global_id: t-189588
   teiginys: "Narbutas aiškina, kad tikėjimo ženklu pažymėti atvaizdai ir simboliai susiliejo su religija, o garbinimo įrankiai virto Dievo atvaizdais."
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "147573-148083; hash=d108777b1de1a4187f9c9026a6bdbabcf63590c88a64f5920668d432ce809515; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-172474
 ## Reikšmingi paminėjimai
@@ -56,8 +48,8 @@ Narbutas aiškina, kad tikėjimo ženklu pažymėti atvaizdai ir simboliai susil
     žmonių pareigų jo atžvilgiu pažinimui, virto esybėmis, garbi­
     namomis su smilkytuvu rankose“1.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -68,7 +60,8 @@ Narbutas aiškina, kad tikėjimo ženklu pažymėti atvaizdai ir simboliai susil
 - id: c-172474
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 82"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 82."
   citata_originali: |
     Dėl to buvo išrasti atvaizdai, sim­
     boliai, paminklai, trofėjai. Jie, pažymėti tikėjimo ženklu, susi­

@@ -40,19 +40,6 @@ Radvilos pajėgos.
 - t-001
   global_id: t-40164
   teiginys: "Caro kariuomenė prie Smolensko vengė šturmuoti tvirtovę, kol netoliese buvo J. Radvilos pajėgos."
-  temporaliniai_duomenys: "įvykio data: 1654 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai sieja caro kariuomenės neveiklumą su J. Radvilos pajėgomis ir yra pagrįstas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "517399-517690; hash=8d9aec4ecb026e9e2b322980b5c1059c391c13cea7fb41bc4b9af47336c38fad; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Radvilos: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "J. Radvila: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Radvilos: mention_match, group, gap=3"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"J. Radvila\" parinktas kaip owner_note_path. Targetas \"Radvilos\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-44364
 - susijęs iš [[objektai/ivykiai/Kėdainių unija (1655 m. spalio 20 d.).md#claim-t-80674|Kėdainių unija (1655 m. spalio 20 d.)]]: Po Kėdainių unijos švedai nepateisino Jonušo Radvilos lūkesčių: jis negavo reikšmingų pareigų, o karinė pagalba nebuvo suteikta.
@@ -74,8 +61,8 @@ Radvilos pajėgos.
     Esant tokiai padėčiai atėjo 1654 m. rug-
     pjūčio 12 diena.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

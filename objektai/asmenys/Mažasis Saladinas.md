@@ -30,12 +30,6 @@ Ir jis paskyrė jiems kitą chaną, vardu Ma žąjį Saladiną.
 - t-001
   global_id: t-194138
   teiginys: "Ir jis paskyrė jiems kitą chaną, vardu Ma žąjį Saladiną."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "314758-315084; hash=218cd45e3a29fccfeb7eac85043a14a5e35ab5bd67152468eea97bd1b316634c; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176751
 ## Reikšmingi paminėjimai
@@ -51,8 +45,8 @@ Ir jis paskyrė jiems kitą chaną, vardu Ma žąjį Saladiną.
     žąjį Saladiną*. Ir šis Mažasis Saladinas, sėdęs į chanų
     sostą, nedrįso būti nepaklusnus šlovingajam valdovui.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -63,7 +57,8 @@ Ir jis paskyrė jiems kitą chaną, vardu Ma žąjį Saladiną.
 - id: c-176751
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 179"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 179."
   citata_originali: |
     Nedaug laiko praėjus, jis atsisakė valdžios, o ki­
     ti Ordos vyresnieji nusiuntė pasiuntinius pas šlovingąjį

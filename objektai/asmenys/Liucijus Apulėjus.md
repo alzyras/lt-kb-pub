@@ -30,14 +30,6 @@ Liucijus Apulėjus savo „Auksiniame asile“ paliko mums šiokį tokį tų sen
 - t-001
   global_id: t-194835
   teiginys: "Liucijus Apulėjus savo „Auksiniame asile“ paliko mums šiokį tokį tų senovės paslapčių aprašymą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  saltinio_vieta: "333663-334218; hash=81f8eb63ced8490b082b1f7e9d9134fcc8a7c508bfc45ad86bb1b56c3d2a946d; match=exact"
-  sprendimo_priezastis: "auto"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  vertinimo_autorius: "rewrite_source_claims / reject"
   pagrindžia:
     - c-177231
 ## Reikšmingi paminėjimai
@@ -57,8 +49,8 @@ Liucijus Apulėjus savo „Auksiniame asile“ paliko mums šiokį tokį tų sen
     mos -  Saulei, kvepiančių žolių -  Mėnesiui, įvairių sėklų (iš­
     skyrus pupas) -  Žemei.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -69,7 +61,8 @@ Liucijus Apulėjus savo „Auksiniame asile“ paliko mums šiokį tokį tų sen
 - id: c-177231
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  puslapiai: "PDF 196"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 196."
   citata_originali: |
     Reikėjo numirti dėl aistrų, liau­
     dies prietarų ir blogų papročių, perimtų iš sugedusios pasau­

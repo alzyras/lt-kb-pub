@@ -32,17 +32,6 @@ Vaišvilkas leidosi į Šventąjį Kalną. Dėl sąmyšio anuose kraštuose Vai�
 - t-002
   global_id: t-187407
   teiginys: "Dėl sąmyšio anuose kraštuose Vaišvilkas Šventojo Kalno nepasiekė."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "93270-93660; hash=f88554efe7914761812f8d029704026422be57ba74b1c9c59d0ea5da86ff6c84; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  ryšio_patikimumas: "susije_su -> Rūbai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Šventasis Kalnas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Rūbai: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šventasis Kalnas\" parinktas kaip owner_note_path. Targetas \"Rūbai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-170402
 
@@ -50,19 +39,6 @@ Vaišvilkas leidosi į Šventąjį Kalną. Dėl sąmyšio anuose kraštuose Vai�
 - t-001
   global_id: t-187408
   teiginys: "Vaišvilkas iškeliavo į Šventąjį Kalną, bet jo nepasiekė dėl didelio sąmyšio anuose kraštuose."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "93270-93660; hash=f88554efe7914761812f8d029704026422be57ba74b1c9c59d0ea5da86ff6c84; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  ryšio_patikimumas: "susije_su -> Rūbai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Šventasis Kalnas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Rūbai: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šventasis Kalnas\" parinktas kaip owner_note_path. Targetas \"Rūbai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-170402
 
@@ -70,21 +46,6 @@ Vaišvilkas leidosi į Šventąjį Kalną. Dėl sąmyšio anuose kraštuose Vai�
 - t-003
   global_id: t-187692
   teiginys: "Po trejų metų vienuolyne Vaišvilkas iškeliavo į Šventąjį Kalną ir buvo Grigorijaus palaimintas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "93217-93488; hash=432d12e0021b0cdad204ffae384e5690d7853c258cb2fc1572019ead9fe55405; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Levas (Haličo kunigaikštis): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Šventasis Kalnas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Levas (Haličo kunigaikštis): mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šventasis Kalnas\" parinktas kaip owner_note_path. Targetas \"Levas (Haličo kunigaikštis)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-170632
 ## Reikšmingi paminėjimai
@@ -104,8 +65,8 @@ Vaišvilkas leidosi į Šventąjį Kalną. Dėl sąmyšio anuose kraštuose Vai�
     Vaišvilkas negalėjo pasiekti Šventojo Kalno, nesgi
     anuose kraštuose tuomet buvo didelis sąmyšis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -126,8 +87,8 @@ Vaišvilkas leidosi į Šventąjį Kalną. Dėl sąmyšio anuose kraštuose Vai�
     lyne trejus metus. Iš ten iškeliavo j Šventąjį Kalną 7  ir
     buvo Grigorijaus palaimintas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

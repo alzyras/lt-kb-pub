@@ -57,17 +57,6 @@ Nenurodyta
 - t-002
   global_id: t-08282
   teiginys: "Balnai buvo daromi iš vieno medžio, be šikšnų ir geležies, su medžio kilpomis."
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  saltinio_vieta: "356057-356317; hash=31cf5419566d92630fe70322d99f8509824f3bee68d759a8d3227ded15bfcc01; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lybiai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Balnas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lybiai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Balnas\" parinktas kaip owner_note_path. Targetas \"Lybiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-10239
 - susijęs iš [[objektai/daiktai/Aukso balnai.md#claim-t-186845|Aukso balnai]]: Vytautas savo žentui Vasilijui Dimitrijevičiui dovanojo žirgų su aukso balnais tarp kitų brangių dovanų.
@@ -92,11 +81,11 @@ Nenurodyta
     priėmė anksti rytą prie Gardino, sėsdamas į balną, ir jiems nedrau­
     giškai prikišo husitų nenorą taikytis su Roma^21.
   citata_rodoma: ''
+  statusas: verified
+
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  statusas: verified
-
 - c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
@@ -104,8 +93,8 @@ Nenurodyta
         vieno medžio dirbtus, be šikšnų, be geležies, medžio kilpomis, ant virbgalių pasietomis, kokius balnus
         gal regėti šiandien dar krievių ir lybiešių žemėj.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

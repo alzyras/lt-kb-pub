@@ -58,17 +58,6 @@ Nenurodyta
 - t-003
   global_id: t-66698
   teiginys: "Melno taika sutarta siena išsilaikė penkis šimtmečius, Lietuvai atiteko žymi dalis Žemaičių ir Sūduvos dykros, o Lenkijai Niešavos kraštas."
-  semantiniai_rysiai: "Niešavos kraštas (kraštas) priklausė Lenkija (0.95); Sūduva priklausė Lietuva (0.75)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "977625-977883; hash=8b50ba1870bd211c6e30812c5ea06b6604a7f5827143767cad113ee213c3b4a8; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Lenkija: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Niešavos kraštas (kraštas): llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Niešavos kraštą gavo Lenkija."
   pagrindžia:
     - c-66887
 
@@ -76,18 +65,6 @@ Nenurodyta
 - t-002
   global_id: t-66700
   teiginys: "1422 m. rugsėjo 27 d. prie Melno ežero buvo pasirašyta taika su ordinu."
-  temporaliniai_duomenys: "įvykio data: 1422 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "977443-977624; hash=447c1eae661157068031d2497b878d51a450a2138b590b7d1a4f752bfff89cb1; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lietuvos ir ordino sienos galutinis patvirtinimas pagal Melno taiką (1422 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=37"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lietuvos ir ordino sienos galutinis patvirtinimas pagal Melno taiką (1422 m.)\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-66886
 ## Reikšmingi paminėjimai
@@ -99,8 +76,8 @@ Nenurodyta
     Russdorfas paprašė taikos. Ji buvo pasirašyta 1422.IX.27 d. lenkų
     karo stovykloje prie Melno ežero, arti upės Osos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -114,8 +91,8 @@ Nenurodyta
     patvariai išsilaikė penkis šimtmečius. Lietuvai atiteko žymi dalis
     Žemaičių ir Sūduvos dykros, o Lenkija gavo Niešavos kraštą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

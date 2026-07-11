@@ -51,12 +51,6 @@ Nenurodyta
 - t-001
   global_id: t-194082
   teiginys: "Kunigaikštis Jogaila ir kunigaikštis Vy tautas, jų tėvams dar gyviems esant, buvo labai su sidraugavę."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  saltinio_vieta: "135662-136155; hash=f33d9af3bf896da2c65716978a229b76bc23a4a548743eae80138533f55ff502; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176695
 ## Reikšmingi paminėjimai
@@ -76,8 +70,8 @@ Nenurodyta
     Jogailą, ir ėmė pas jį važinėti tartis dėl reikalų, kaip
     anksčiau, būdavo, atvažiuoja pas vyriausiąjį brolį.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

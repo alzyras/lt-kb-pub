@@ -33,17 +33,6 @@ Vienas iš kryžiuočių, Falkenbergas, stengėsi dar Vok.
 - t-001
   global_id: t-34787
   teiginys: "Kryžiuotis Falkenbergas mėgino padėti Vokiečių ordinui, išleisdamas Jogailą šmeižiančią knygą."
-  semantiniai_rysiai: "Falkenbergas rėmė Kryžiuočių ordinas (0.83)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "282908-283086; hash=5fad3e8de087e4a53d25525f0abc3042110f1b2a2509a648554fdce850dbd0db; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "reme -> Kryžiuočių ordinas: 0.83"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Falkenbergas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai sako, kad Falkenbergas stengėsi padėti Ordinui."
   pagrindžia:
     - c-36012
 ## Reikšmingi paminėjimai
@@ -56,8 +45,8 @@ Vienas iš kryžiuočių, Falkenbergas, stengėsi dar Vok.
     išleisdamas Jogailą šmeižiančią knygą, bet ir ji susirinkimo
     dalyvių buvo pasmerkta. Taip Konstancijoje Vok.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -81,6 +70,3 @@ Vienas iš kryžiuočių, Falkenbergas, stengėsi dar Vok.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-34787
-
-## Ryšiai
-- Falkenbergas rėmė [[objektai/grupes/Kryžiuočių ordinas]]

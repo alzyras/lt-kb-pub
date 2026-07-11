@@ -40,19 +40,6 @@ Dusburgietis teigia, kad grunau S.
 - t-001
   global_id: t-61076
   teiginys: "S. Grunau „Preussische Chronik“ pirmasis tomas, parengtas M. Perlbacho, išleistas Leipcige 1875 m."
-  temporaliniai_duomenys: "įvykio data: 1875 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko leidinio tomo, rengėjo, vietos ir metų faktus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "773089-773175; hash=aa27850794c4fcfe4227ff681b180626df513184e4e4bfdb4e071337997c9e99; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Leipcigas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Grunau S. Preussische Chronik: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Leipcigas: mention_match, place, gap=82"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Grunau S. Preussische Chronik\" parinktas kaip owner_note_path. Targetas \"Leipcigas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-61708
 ## Reikšmingi paminėjimai
@@ -64,8 +51,8 @@ Dusburgietis teigia, kad grunau S.
     Grunau S. Preussische Chronik / Herausgegeben von M. Perlbach.— Bd. 1.— Leipzig,
     1875.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -76,7 +63,8 @@ Dusburgietis teigia, kad grunau S.
 - id: c-61708
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 263"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 263."
   citata_originali: |
     Grunau S. Preussische Chronik / Herausgegeben von M. Perlbach.— Bd. 1.— Leipzig,
     1875.

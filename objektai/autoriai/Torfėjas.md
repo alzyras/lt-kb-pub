@@ -30,21 +30,6 @@ Torfėjas, chronologiškai vardydamas danų istorijos įvykius, Frotono III vald
 - t-001
   global_id: t-191578
   teiginys: "Torfėjas, chronologiškai vardydamas danų istorijos įvykius, Frotono III valdymą siejo su III krikščioniškosios eros amžiumi."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "428459-428799; hash=959596e9644c9ea6d855c65e0c6a9254971dbdbf4fdfaf914b549f60d996e842; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Skandinavai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Torfėjas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Skandinavai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Torfėjas\" parinktas kaip owner_note_path. Targetas \"Skandinavai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-174460
 ## Reikšmingi paminėjimai
@@ -61,8 +46,8 @@ Torfėjas, chronologiškai vardydamas danų istorijos įvykius, Frotono III vald
     vimais, Frotono III valdymą sieja su III krikščioniškosios
     eros amžiumi.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -73,7 +58,8 @@ Torfėjas, chronologiškai vardydamas danų istorijos įvykius, Frotono III vald
 - id: c-174460
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 242"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 242."
   citata_originali: |
     Taip pat skandinavų užkariavi­
     mai lietuvių žemėse buvo labai seni ir dideli. Tai patvir­

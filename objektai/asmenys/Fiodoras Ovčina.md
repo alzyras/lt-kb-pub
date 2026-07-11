@@ -38,23 +38,6 @@ Fiodoras Ovčina sukurstė maskvėnus pradėti karą prieš Lietuvą ir, pasivad
 - t-001
   global_id: t-186039
   teiginys: "Fiodoras Ovčina sukurstė maskvėnus pradėti karą prieš Lietuvą ir, pasivadinęs caro globėju, užgrobė valdžią."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Maskvėnai puolė Lietuva (0.88)"
-  temporaliniai_duomenys: "įvykio data: po 1534 m.; įvykio data: 1534 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko ir karo kurstymą, ir valdžios užgrobimą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1180193-1180835; hash=c3dc49127604b19ec4203b1f93e5e71f664d4f654e59dacb9c12c0eb56d2bb5e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Lietuva: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Maskvėnai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo maskvėnų pradėtą karą prieš Lietuvą."
   pagrindžia:
     - c-169400
 
@@ -62,20 +45,6 @@ Fiodoras Ovčina sukurstė maskvėnus pradėti karą prieš Lietuvą ir, pasivad
 - t-002
   global_id: t-186040
   teiginys: "Fiodoras Ovčina klastingomis kalbomis sukurstė karą prieš Lietuvą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Maskvėnai puolė Lietuva (0.90)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1180427-1181092; hash=5686e30e37c72cc1cea6113a175866274ee0cd0ea62b31bd77d8bb609640298f; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Lietuva: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Maskvėnai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai teigia, kad maskvėnai nusiaubė Lietuvą."
   pagrindžia:
     - c-169401
 
@@ -83,12 +52,6 @@ Fiodoras Ovčina sukurstė maskvėnus pradėti karą prieš Lietuvą ir, pasivad
 - t-003
   global_id: t-193389
   teiginys: "Fiodoras Ovčina ir sukurstė klastingomis kalbomis karą prieš Lietuvą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "1180427-1181092; hash=5686e30e37c72cc1cea6113a175866274ee0cd0ea62b31bd77d8bb609640298f; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-169401
 ## Reikšmingi paminėjimai
@@ -119,8 +82,8 @@ Fiodoras Ovčina sukurstė maskvėnus pradėti karą prieš Lietuvą ir, pasivad
     likdamas gyviesiems Glinskio šalininkams Kolyčevui
     bei Šuiskiui tuščius globėjų vardus.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -144,8 +107,8 @@ Fiodoras Ovčina sukurstė maskvėnus pradėti karą prieš Lietuvą ir, pasivad
     tuvą, maskvėnai ją nusiaubė, žudydami ir moteris, ir
     vaikus bei senelius.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -190,7 +153,8 @@ Fiodoras Ovčina sukurstė maskvėnus pradėti karą prieš Lietuvą ir, pasivad
 - id: c-169401
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 663"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 663."
   citata_originali: |
     Tiesa, tą karą jie pradėjo nei paskatinti, nei
     įsakyti valdovo, kuris, nė devynerių metų nesulaukęs,

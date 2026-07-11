@@ -56,20 +56,6 @@ Vladimiras minimas XIV a. pradžios rusų kunigaikščių varžybų dėl jarlyko
 - t-019
   global_id: t-181161
   teiginys: "Volinijoje Vytautas užvaldė dvi svarbiausias pilis: Lucką ir Vladimirą."
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) užėmė Vladimiras (0.91); Vytautas (Lietuvos valdovas, XIV–XV a.) valdė teritoriją Volinija (0.68)"
-  temporaliniai_duomenys: "įvykio data: 1384 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "827110-827418; hash=b6060bd81e4edc4f23ed7e2c433b5922c2b4d5b914e80aa383f445e441128ca9; match=exact"
-  sprendimo_priezastis: "gap::places"
-  ryšio_patikimumas: "uzeme -> Vladimiras: 0.91"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vladimiras: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai sako, kad Vytautas užvaldė ir Vladimirą."
   pagrindžia:
     - c-32556
 
@@ -77,20 +63,6 @@ Vladimiras minimas XIV a. pradžios rusų kunigaikščių varžybų dėl jarlyko
 - t-020
   global_id: t-185204
   teiginys: "Gediminas pirmąjį smūgį nukreipė į Volynės pasienį ir apsupo Vladimirą, kunigaikščio Vladimiro sostinę."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Gediminas apgulė Vladimiras (0.96)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "340636-341038; hash=80999137fe4c316bea63ae416cec97e4091ec3ed40be1415770b47bb18271376; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "apgule -> Vladimiras: 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vladimiras: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Gediminas apsupo Vladimirą."
   pagrindžia:
     - c-168565
 
@@ -98,12 +70,6 @@ Vladimiras minimas XIV a. pradžios rusų kunigaikščių varžybų dėl jarlyko
 - t-021
   global_id: t-194989
   teiginys: "Polocke sėdėjo Andrius, Brianske (prie Desnos) — Dimi tras († 1399), Černihove — Konstantinas, Kijeve — Vladimiras († 1398), Ratne (Pripetės aukštupyje)—Teodoras († 1394)."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "817028-817339; hash=c6f16ce040714ad3c924608ee2141b543a783c61750f87993af73b95bdf559a4; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-32555
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-10670|Algirdas (Lietuvos valdovas)]]: 1362 m. Algirdas sumušė totorius ties Mėlynaisiais Vandenimis, paėmė Kijevą ir pasodino ten savo sūnų Vladimirą.
@@ -143,8 +109,8 @@ Vladimiras minimas XIV a. pradžios rusų kunigaikščių varžybų dėl jarlyko
     tras († 1399), Černihove — Konstantinas, Kijeve — Vladimiras (†
     1398), Ratne (Pripetės aukštupyje)—Teodoras († 1394).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -160,8 +126,8 @@ Vladimiras minimas XIV a. pradžios rusų kunigaikščių varžybų dėl jarlyko
     kažkokiu nežinomu būdu įsigyveno Volinijoje. Ten Vytautas už­
     valdė dvi svarbiausias pilis — Lucką ir Vladimirą^7.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -182,8 +148,8 @@ Vladimiras minimas XIV a. pradžios rusų kunigaikščių varžybų dėl jarlyko
     tą atkakliai puolė iš visų pusių, vis dėlto miestiečiai
     atrėmė puolimą, vildamiesi, jog neužtruks parama.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -228,7 +194,8 @@ Vladimiras minimas XIV a. pradžios rusų kunigaikščių varžybų dėl jarlyko
 - id: c-168565
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 197"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 197."
   citata_originali: |
     Gediminas, pasinaudojęs
     G edim in as,
@@ -248,6 +215,5 @@ Vladimiras minimas XIV a. pradžios rusų kunigaikščių varžybų dėl jarlyko
     - t-185204
 
 ## Ryšiai
-- Puolė Vladimirą: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - Apgulė Vladimirą: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
 - Užėmė Vladimirą: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

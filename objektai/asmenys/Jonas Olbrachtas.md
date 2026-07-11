@@ -39,22 +39,6 @@ Kazimieras ketino Joną Olbrachtą palikti savo įpėdiniu ir siekė jam pelnyti
 - t-001
   global_id: t-185963
   teiginys: "Kazimieras ketino Joną Olbrachtą palikti savo įpėdiniu ir siekė jam pelnyti lenkų palankumą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1488 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Perrašyta, kad teiginys aiškiau sietųsi su Jonu Olbrachtu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "942341-943076; hash=fe093f5a207d7da0ca80d22a6f0cbe22db8b4aa5ffcd67d0907e94cfdc31923b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jonas Olbrachtas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=58"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jonas Olbrachtas\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-169324
 
@@ -62,22 +46,6 @@ Kazimieras ketino Joną Olbrachtą palikti savo įpėdiniu ir siekė jam pelnyti
 - t-002
   global_id: t-185964
   teiginys: "1489 m. Jonas Olbrachtas sutelkė Rusioje ir Lietuvoje kariuomenę ir prie Savranės upės susikovė su skitais."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  temporaliniai_duomenys: "įvykio data: 1489 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškus, enciklopedinis ir paremtas citatos informacija."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "942794-943448; hash=0cc50c848948ce4582acf99a59f237027c0825dd96d76887acef85655e9a0620; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jonas Olbrachtas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=36"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jonas Olbrachtas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   pagrindžia:
     - c-169325
 
@@ -85,20 +53,6 @@ Kazimieras ketino Joną Olbrachtą palikti savo įpėdiniu ir siekė jam pelnyti
 - t-003
   global_id: t-185965
   teiginys: "Jonas Olbrachtas su maža kariuomene stojo į lemtingą mūšį su stipria vengrų kariuomene ir po pralaimėjimo vos paspruko."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Jonas Olbrachtas kariavo prieš Vengrai (0.92)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "947582-947819; hash=5e033165d3f88db27da336e768ec874105f228437cb8d749c4851b385065b5e9; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Vengrai: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jonas Olbrachtas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vengrai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Mūšis su vengrų kariuomene tiesiogiai rodo karinį konfliktą."
   pagrindžia:
     - c-169326
 
@@ -106,19 +60,6 @@ Kazimieras ketino Joną Olbrachtą palikti savo įpėdiniu ir siekė jam pelnyti
 - t-004
   global_id: t-185966
   teiginys: "Jonas Olbrachtas per Aleksandrą Skorutą ragino Ivaną sutikti su teisingomis taikos sąlygomis."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "993411-993867; hash=eb8512085c929547e2810712e6f2c0dd733bfa95c007d19bda6bc9252a33c0c9; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_brolis -> Vladislovas: 0.73"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jonas Olbrachtas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vladislovas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citatoje Vladislovas ir Jonas apibendrinami kaip broliai karaliai."
   pagrindžia:
     - c-169327
 - susijęs iš [[objektai/ivykiai/Jono Olbrachto pakvietimas į Vengrijos sostą ir nesėkmingas žygis (1490 m.).md#claim-t-185576|Jono Olbrachto pakvietimas į Vengrijos sostą ir nesėkmingas žygis (1490 m.)]]: Tėvo raginamas ir gavęs iš jo karių, Jonas Olbrachtas išvyko į Vengriją, nors jo viltys pasirodė nepagrįstos.
@@ -151,8 +92,8 @@ Kazimieras ketino Joną Olbrachtą palikti savo įpėdiniu ir siekė jam pelnyti
     dėl Podolės, o sūnui karštai nurodė kuo apdairiausiai
     pavaduoti karalių karo stovykloje.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -183,8 +124,8 @@ Kazimieras ketino Joną Olbrachtą palikti savo įpėdiniu ir siekė jam pelnyti
     virame lauke susikovė su priešu. Gurguolės, saugomos
     nedidelio būrio, lėtai slinko iš paskos.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -200,8 +141,8 @@ Kazimieras ketino Joną Olbrachtą palikti savo įpėdiniu ir siekė jam pelnyti
     jo į lemtingą mūšį. Sumuštas vos ne vos paspruko iš
     nugalėtojo rankų.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -222,8 +163,8 @@ Kazimieras ketino Joną Olbrachtą palikti savo įpėdiniu ir siekė jam pelnyti
     prieštarauja taikai, nusiuntė į Maskvą Stanislovą Nar­
     butą.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -234,7 +175,8 @@ Kazimieras ketino Joną Olbrachtą palikti savo įpėdiniu ir siekė jam pelnyti
 - id: c-169324
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 533"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 533."
   citata_originali: |
     Karalius, jausdamas, jog
     1488 m e ta i
@@ -262,7 +204,8 @@ Kazimieras ketino Joną Olbrachtą palikti savo įpėdiniu ir siekė jam pelnyti
 - id: c-169325
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 533"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 533."
   citata_originali: |
     Todėl, sužinojęs, jog skitai
     dviem žygio voromis užpuolė Lenkiją, siaubdami ją ug­
@@ -294,7 +237,8 @@ Kazimieras ketino Joną Olbrachtą palikti savo įpėdiniu ir siekė jam pelnyti
 - id: c-169326
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 536"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 536."
   citata_originali: |
     Jonas beturėjo vos keturis tūkstančius karių, kai susi­
     dūrė su stipria vengrų kariuomene. Jam stigo jėgų, bet
@@ -311,7 +255,8 @@ Kazimieras ketino Joną Olbrachtą palikti savo įpėdiniu ir siekė jam pelnyti
 - id: c-169327
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  puslapiai: "PDF 561"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 561."
   citata_originali: |
     Poznanėje netrukus
     svetimšalių kariams iš tiesų sumokėjo algą, tačiau sam­
@@ -331,5 +276,4 @@ Kazimieras ketino Joną Olbrachtą palikti savo įpėdiniu ir siekė jam pelnyti
     - t-185966
 
 ## Ryšiai
-- Jonas Olbrachtas keliavo į [[objektai/vietos/Krokuva]]
 - Jonas Olbrachtas kariavo prieš [[objektai/grupes/Vengrai]]

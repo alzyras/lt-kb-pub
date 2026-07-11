@@ -38,12 +38,6 @@ Dusburgietis teigia, kad wunder H.
 - t-001
   global_id: t-61372
   teiginys: "H. Wunder knyga apie Christburgo komtūrijos gyvenviečių ir gyventojų istoriją XIII-XVI a. išleista Vysbadene 1968 m."
-  temporaliniai_duomenys: "įvykio data: 1968 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pagrindžia autorių, temą, laikotarpį, vietą ir metus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "804850-804960; hash=db6d04a950344c4f79df51a405d61bb1b371d9a18b524ab2bdf829f52f87a7d0; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-62004
 ## Reikšmingi paminėjimai
@@ -55,8 +49,8 @@ Dusburgietis teigia, kad wunder H.
     Wunder H. Siedlungs- und Bevölkerungsgeschichte der Komturei Christburg 13.-16,
     Jahrhundert.— Wiesbaden, 1968.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -67,7 +61,8 @@ Dusburgietis teigia, kad wunder H.
 - id: c-62004
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 273"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 273."
   citata_originali: |
     Wunder H. Siedlungs- und Bevölkerungsgeschichte der Komturei Christburg 13.-16,
     Jahrhundert.— Wiesbaden, 1968.

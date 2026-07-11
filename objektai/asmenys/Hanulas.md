@@ -38,23 +38,6 @@ media_all_json: |-
 - t-001
   global_id: t-186207
   teiginys: "1385 m. Jogailos pasiuntinybėje į Lenkiją Hanulas dalyvavo kaip Vilniaus seniūnas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Hanulas keliavo į Lenkija (0.84); Hanulas valdė miestą Vilnius (0.75)"
-  temporaliniai_duomenys: "įvykio data: 1385 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko faktą apie Hanulą, bet pradinis teiginys užterštas puslapio antrašte ir OCR triukšmu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "487175-488296; hash=0823507a4bf9c3a7c862f4fcaca2b911df84e3062a934b4c60805c54c84696ed; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Lenkija: 0.84"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Hanulas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Hanulas įvardytas tarp pasiuntinybės narių, siunčiamų į Lenkiją."
   pagrindžia:
     - c-169568
 - susijęs iš [[objektai/asmenys/Hanulas, arba Hanka.md#claim-t-87511|Hanulas, arba Hanka]]: Hanulas autentiškame 1385 m. Vladislovo Jogailos laiške vadinamas Hanka, Vilniaus seniūnu.
@@ -117,8 +100,8 @@ media_all_json: |-
     sokiomis priemonėmis atgauti Sileziją, Pomeraniją bei
     Prūsiją.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -168,7 +151,3 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-186207
-
-## Ryšiai
-- Hanulas valdė [[objektai/vietos/Vilnius]]
-- Hanulas keliavo į [[objektai/vietos/Lenkija]]

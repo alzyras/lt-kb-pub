@@ -32,12 +32,6 @@ Manvydo dvaras.
 - t-001
   global_id: t-194285
   teiginys: "Manvydo dvaras."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "420521-420565; hash=1658809346206c53952b23cc637f1bb9749f58c84ff8a2727ef05327ae22e72e; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176877
 ## Reikšmingi paminėjimai
@@ -49,8 +43,8 @@ Manvydo dvaras.
     6. Manvydo dvaras.
     7. Šv. Kryžiaus bažnyčia.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

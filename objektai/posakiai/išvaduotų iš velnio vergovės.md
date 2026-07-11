@@ -32,16 +32,6 @@ Dusburgietis teigia, kad neilgai trukus, kai komtūras, sutvarkęs visus savo re
 - t-001
   global_id: t-59098
   teiginys: "Nodamas, apsimetęs moterimi, prašė brolį Ernekę priimti jį į laivą ir išvaduoti jo sielą iš velnio vergovės."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "562156-562883; hash=4f3fe753fc3c6820ce6eaf8182f0d4ec971cd6c94fb820257d8e8fea1e23ef7e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Ernekė: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "išvaduotų iš velnio vergovės: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Ernekė: mention_match, person, gap=29"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"išvaduotų iš velnio vergovės\" parinktas kaip owner_note_path. Targetas \"Ernekė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-167414
 
@@ -49,16 +39,6 @@ Dusburgietis teigia, kad neilgai trukus, kai komtūras, sutvarkęs visus savo re
 - t-001
   global_id: t-59098
   teiginys: "Nodamas, apsimetęs moterimi, prašė brolį Ernekę priimti jį į laivą ir išvaduoti jo sielą iš velnio vergovės."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "562156-562883; hash=4f3fe753fc3c6820ce6eaf8182f0d4ec971cd6c94fb820257d8e8fea1e23ef7e; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Ernekė: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "išvaduotų iš velnio vergovės: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Ernekė: mention_match, person, gap=29"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"išvaduotų iš velnio vergovės\" parinktas kaip owner_note_path. Targetas \"Ernekė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-167414
 ## Reikšmingi paminėjimai
@@ -77,8 +57,8 @@ Dusburgietis teigia, kad neilgai trukus, kai komtūras, sutvarkęs visus savo re
     prie kranto, šis staiga nutvėrė laivą, stipriai  į  jį įsikibo  ir, susišaukęs savo bendrus,
     užpuolė plaukusius laivu ir visus išžudė.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -90,7 +70,8 @@ Dusburgietis teigia, kad neilgai trukus, kai komtūras, sutvarkęs visus savo re
 - id: c-167414
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 179"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 179."
   citata_originali: |
     Todėl vienas lietuvis, vardu Nodamas, prityręs
     karys, vėliau, beje, priėmęs Kristaus tikėjimą ir laimingai krikščionimi pasimiręs, pasiėmė

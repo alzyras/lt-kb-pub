@@ -42,22 +42,6 @@ Vilniuje liuterionys ir kalvinai turėjo po bažnyčią. 1639 m. tyčia ar nety�
 - t-002
   global_id: t-01342
   teiginys: "1639 m. po šūvio iš kalvinų bažnyčios šventoriaus Vilniuje minia apgriovė kalvinų bažnyčią, o seimas vėliau nutarė ją nugriauti."
-  semantiniai_rysiai: "Kalvinai gyveno Vilnius (0.70)"
-  temporaliniai_duomenys: "įvykio data: 1639 m.; įvykio data: 1640 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Reikia aiškiau susieti nugriovimą su ta pačia kalvinų bažnyčia."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "686184-686576; hash=525cf1feae31ac4f4325957cc549518c9e6e8861d30d59ac82d825a8576f0b14; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Vilnius: 0.70"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kalvinai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Kalvinų bažnyčia lokalizuojama Vilniuje, todėl kalvinai tiesiogiai siejami su Vilniumi."
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-01580
 
@@ -65,19 +49,6 @@ Vilniuje liuterionys ir kalvinai turėjo po bažnyčią. 1639 m. tyčia ar nety�
 - t-001
   global_id: t-01343
   teiginys: "Vilniuje liuterionys ir kalvinai turėjo po bažnyčią."
-  semantiniai_rysiai: "Kalvinai gyveno Vilnius (0.72); Liuterionys gyveno Vilnius (0.72)"
-  temporaliniai_duomenys: "įvykio data: 1611 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  saltinio_vieta: "685881-686183; hash=1577d7ea86040204dad67386814a7c48d254d7aaae5bc56cfabbb9193c3ef32b; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Vilnius: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kalvinai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Kalvinai minimi Vilniuje turėję bažnyčią, todėl tiesiogiai siejami su Vilniumi."
   pagrindžia:
     - c-01581
 - susijęs iš [[objektai/grupes/Liuterionys.md#claim-t-01413|Liuterionys]]: Vilniuje liuterionys ir kalvinai turėjo po bažnyčią.
@@ -102,8 +73,8 @@ Vilniuje liuterionys ir kalvinai turėjo po bažnyčią. 1639 m. tyčia ar nety�
     niuje buvo nugriauta. Kita kalvinų bažnyčia buvo pastatyta už
     miesto (1640 m.).
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -118,8 +89,8 @@ Vilniuje liuterionys ir kalvinai turėjo po bažnyčią. 1639 m. tyčia ar nety�
     buvo minios apkultas, suimtas, o vėliau pasmerktas mirti ir nu-
     kankintas. Vilniuje liuterionys ir kalvinai turėjo po bažnyčią.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -163,6 +134,3 @@ Vilniuje liuterionys ir kalvinai turėjo po bažnyčią. 1639 m. tyčia ar nety�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-01343
-
-## Ryšiai
-- Kalvinai gyveno [[objektai/vietos/Vilnius]]

@@ -40,19 +40,6 @@ Atsikūrusi Lietuva siekė nustatyti gerus santykius su nauja valstybe – Balta
 - t-001
   global_id: t-26495
   teiginys: "Atsikūrusi Lietuva 1991 m. spalį su Baltarusija pasirašė Deklaraciją dėl geros kaimynystės santykių principų."
-  temporaliniai_duomenys: "įvykio data: 1991 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir paremtas citata."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "529640-530166; hash=b672878d05f786232dad092b984324f830c1f41bd30279f0c95ffefc5f6137ef; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Baltarusija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Deklaracija dėl geros kaimynystės santykių principų: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Baltarusija: mention_match, place, gap=21"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Deklaracija dėl geros kaimynystės santykių principų\" parinktas kaip owner_note_path. Targetas \"Baltarusija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-26720
 ## Reikšmingi paminėjimai
@@ -72,8 +59,8 @@ Atsikūrusi Lietuva siekė nustatyti gerus santykius su nauja valstybe – Balta
     tykiai, o politinius komplikavo Baltarusijos prezidento Aleksandro Lu-
     kašenkos diktatūrinis valdymas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

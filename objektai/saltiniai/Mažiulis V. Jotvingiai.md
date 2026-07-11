@@ -38,12 +38,6 @@ Dusburgietis teigia, kad mažiulis V.
 - t-001
   global_id: t-61167
   teiginys: "V. Mažiulio straipsnis „Jotvingiai“ paskelbtas MG 1966 m. Nr. 1, p. 32–33."
-  temporaliniai_duomenys: "įvykio data: 1966 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pateikia bibliografinį įrašo faktą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "785320-785371; hash=484f94fe6fab55bfe2421887c7ad632286d6578e6238f49e40e3889144f6cc09; match=exact"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-61799
 ## Reikšmingi paminėjimai
@@ -54,8 +48,8 @@ Dusburgietis teigia, kad mažiulis V.
   citata_originali: |
     Mažiulis V. Jotvingiai.— MG, 1966, Nr. 1, p. 32—33.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -66,7 +60,8 @@ Dusburgietis teigia, kad mažiulis V.
 - id: c-61799
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 267"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 267."
   citata_originali: |
     Mažiulis V. Jotvingiai.— MG, 1966, Nr. 1, p. 32—33.
   statusas: verified

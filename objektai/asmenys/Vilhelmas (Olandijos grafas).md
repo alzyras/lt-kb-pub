@@ -41,19 +41,6 @@ Dusburgietis teigia, kad apie Vilhelmo, Olandijos grafo, išrinkimą Romos karal
 - t-001
   global_id: t-60463
   teiginys: "1249 m., mirus landgrafui, Olandijos grafas Vilhelmas buvo išrinktas Romos karaliumi, bet vėliau jį nužudė frizai."
-  temporaliniai_duomenys: "įvykio data: 1249 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Reikia pašalinti antraštės triukšmą ir nutrūkusią frazę apie vainiką."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "705829-706138; hash=9d9d4bd5d459f3cc237edc00ae04c0bdcbbdcd5fce49b9832e24956091f09f03; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Olandija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vilhelmas (Olandijos grafas): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Olandija: mention_match, place, gap=17"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilhelmas (Olandijos grafas)\" parinktas kaip owner_note_path. Targetas \"Olandija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-61095
 ## Reikšmingi paminėjimai
@@ -73,8 +60,8 @@ Dusburgietis teigia, kad apie Vilhelmo, Olandijos grafo, išrinkimą Romos karal
 
                           35.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -85,7 +72,8 @@ Dusburgietis teigia, kad apie Vilhelmo, Olandijos grafo, išrinkimą Romos karal
 - id: c-61095
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)."
+  puslapiai: "PDF 231-232"
+  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 231-232."
   citata_originali: |
     Apie Vilhelmo, Olandijos grafo, išrinkimą Romos karaliumi
 

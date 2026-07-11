@@ -55,16 +55,6 @@ Nenurodyta
 - t-001
   global_id: t-87078
   teiginys: "Gediminas sapne regėjo nepaprasto didumo geležinį vilką, kurio kauksmas priminė šimto vilkų staugimą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  saltinio_vieta: "128817-130263; hash=d6121d2e904359a0e949243d2e052d9dbb06fe7878837bc8ae6b6fe8fb780470; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aukštutinė pilis: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Geležinis vilkas kaip simbolinis regėjimo objektas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Aukštutinė pilis: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Geležinis vilkas kaip simbolinis regėjimo objektas\" parinktas kaip owner_note_path. Targetas \"Aukštutinė pilis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   pagrindžia:
     - c-83057
 ## Reikšmingi paminėjimai
@@ -98,8 +88,8 @@ Nenurodyta
     tuvos valstybės sostinė, o šimtas kitų vilkų - jo galią ir didy­
     bę žymi, apie kurią garsas skilsiąs po visas pasaulio šalis.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:

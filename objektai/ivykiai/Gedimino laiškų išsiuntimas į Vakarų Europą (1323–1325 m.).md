@@ -54,17 +54,6 @@ Nenurodyta
 - t-004
   global_id: t-05290
   teiginys: "Gedimino vardu į Vakarų Europą įvairiems adresatams buvo išsiuntinėti šeši laiškai."
-  semantiniai_rysiai: "Gediminas siuntė į Europa (0.82)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "631381-631595; hash=a607dec7398e949d5c444733c8a66f884a33288cbcd6775fe28d2f9915bacfba; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "siunte_i -> Europa: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Europa: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai sako, kad Gedimino vardu laiškai buvo išsiuntinėti į Vakarų Europą."
   pagrindžia:
     - c-04982
 
@@ -72,17 +61,6 @@ Nenurodyta
 - t-005
   global_id: t-05291
   teiginys: "Gedimino laiškuose buvo žadamas krikštas pripažįstant popiežiaus autoritetą, o Gediminas siekė taikos su ordinu per popiežiaus tarpininkavimą."
-  semantiniai_rysiai: "Gediminas sudarė sutartį su Kryžiuočių ordinas (0.76)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "633172-633476; hash=9b9430f81fa18fd3a7cffeec7a6822e2011e863e404febf4103b28542d0e7f1d; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "sudare_sutarti_su -> Kryžiuočių ordinas: 0.76"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo Gedimino siekį sudaryti taiką su Ordinu."
   pagrindžia:
     - c-04983
 
@@ -90,17 +68,6 @@ Nenurodyta
 - t-006
   global_id: t-05292
   teiginys: "Gediminas laiškuose kvietė į Lietuvą amatininkus ir pirklius, kolonistams žadėjo lengvatų, o pranciškonų ir domininkonų prašė atsiųsti vienuolių."
-  semantiniai_rysiai: "Gediminas keliavo į Lietuva (0.62)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  saltinio_vieta: "633530-633947; hash=0a95ce03beb948c1e4d312278932656ba67c3661d04a5c18d48b66bcc81b3112; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Lietuva: 0.62"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas sako, kad Gediminas kvietė amatininkus ir pirklius į Lietuvą; tinkamų kviečiamų grupių kandidatų nėra."
   pagrindžia:
     - c-04984
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176327|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gedimino laiškai laikomi reikšmingiausiu jo politikos atspindžiu ir rodo nuoseklią Lietuvos europėjimo programą.
@@ -147,8 +114,8 @@ Nenurodyta
     šeši laiškai, kurie Gedimino vardu buvo išsiuntinėti į Vakarų Europą
     įvairiems adresatams.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -164,8 +131,8 @@ Nenurodyta
     Gediminui labiausiai rūpėjo sudaryti su ordinu taiką, ir jis prašė
     popiežiaus tarpininkavimo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
@@ -182,8 +149,8 @@ Nenurodyta
     pažymėdamas, jog Vilniuje ir Naugarduke esančios jo paties sta­
     tytos katalikų bažnyčios.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:

@@ -45,22 +45,6 @@ Nenurodyta
 - t-001
   global_id: t-193009
   teiginys: "Narbutas auksinius ir sidabrinius medalius mini kaip įrodymus apie imperatoriaus Valuziano kovą su finais, galindais ir venedais."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Galindai kariavo prieš Valuzianas (0.86); Venedai kariavo prieš Valuzianas (0.86)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "536980-537471; hash=6f5692fc67650ea688b232f7f8b0be35391282a006787089846124f08f5f5d69; match=ocr_normalized"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Valuzianas: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Galindai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Valuzianas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad galindų būriai kariavo su imperatoriumi Valuzianu."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175779
 ## Reikšmingi paminėjimai
@@ -84,8 +68,8 @@ Nenurodyta
     sią tiesiai iš Vakarą, o gotai su savo lyga jau buvo Ry­
     tuose2.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -96,7 +80,8 @@ Nenurodyta
 - id: c-175779
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 299"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 299."
   citata_originali: |
     Esama
     neabejotinų įrodymų, nes,

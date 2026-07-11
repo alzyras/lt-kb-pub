@@ -32,22 +32,6 @@ media_all_json: |-
 - t-001
   global_id: t-192857
   teiginys: "Narbuto pasakojime Trusas buvo prekybinis miestas prie Drūsinės ežero, galbūt ten, kur vėliau įkurtas Elbliongas."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  semantiniai_rysiai: "Trusas priklausė Drūsinė (0.80)"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  saltinio_vieta: "644949-645356; hash=7701f9c164afac1fb0ab8c4949d8920f0ce8a7ba0eac4e43d3293d94059eee06; match=exact"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Drūsinė: 0.80"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Trusas: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Drūsinė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Trusas lokalizuojamas prie Drūsinės ežero."
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  vertinimo_autorius: "rewrite_source_claims / rewrite"
   pagrindžia:
     - c-175627
 - susijęs iš [[objektai/asmenys/Vulfstanas.md#claim-t-192605|Vulfstanas]]: Narbutas Vulfstano aprašymus laiko pagrindiniu šaltiniu apie senovinį Truso miestą prie Drūsinės ežero.
@@ -70,8 +54,8 @@ media_all_json: |-
     rėtume Siaurės keliautojo Vulfstano aprašymų, gal išvis
     nieko nežinotume apie šį miestą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -82,7 +66,8 @@ media_all_json: |-
 - id: c-175627
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  puslapiai: "PDF 357"
+  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 357."
   citata_originali: |
     Daugiausiai dėmesio vertas šios
     provincijos prekybinis miestas Trusas prie Drūsinės eže­
@@ -98,6 +83,3 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-192857
-
-## Ryšiai
-- Trusas priklausė [[objektai/vietos/Drūsinė]]

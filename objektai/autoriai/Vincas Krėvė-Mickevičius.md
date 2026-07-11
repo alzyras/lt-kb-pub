@@ -30,12 +30,6 @@ Krėvė-Mickevičius dar vaikščiojo Kauno gatvėmis) nebuvo labai patraukli ž
 - t-001
   global_id: t-193701
   teiginys: "Krėvė-Mickevičius dar vaikščiojo Kauno gatvėmis) nebuvo labai patraukli žydams, iš kitos pusės, carizmo priespaudą kentusių lietuvių tautinius jausmus žeidė, kad žydai tarpusavyje dažnai vartojo rusų kalbą."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "340008-341061; hash=1c69b399e663aa683cd53f8d619e8ed49e17e682b8b259c60a7079175766a700; match=ocr_normalized_gapped"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176370
 
@@ -43,12 +37,6 @@ Krėvė-Mickevičius dar vaikščiojo Kauno gatvėmis) nebuvo labai patraukli ž
 - t-002
   global_id: t-193702
   teiginys: "Smetonos valdymą inteligentai: ministru pirmininku paskirtas komunistuojantis liaudininkas žurnalistas Justas Paleckis, o jo pavaduotoju ir užsienio reikalų ministru – rašytojas Vincas Krėvė-Mickevičius, finansų ministru liko Ernestas Galvanauskas, krašto."
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  saltinio_vieta: "384698-385291; hash=0256ecc3e67d18237d142dbd7ef140734fe89bbc9b7c5b3ad0c8f147fe3ebb83; match=whitespace_regex"
-  sprendimo_priezastis: "auto"
   pagrindžia:
     - c-176371
 ## Reikšmingi paminėjimai
@@ -73,8 +61,8 @@ Krėvė-Mickevičius dar vaikščiojo Kauno gatvėmis) nebuvo labai patraukli ž
     Žydai – daugiapolė, pliuralistinė, politiškai susiskaidžiusi bendruome-
     nė, turinti daugelį partijų ir organizacijų.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -94,8 +82,8 @@ Krėvė-Mickevičius dar vaikščiojo Kauno gatvėmis) nebuvo labai patraukli ž
     sovietų kariuomenės įžengimas siekia tik sustiprinti Lietuvos saugumą
     ir esminių permainų neįvyko. Toks ir buvo sovietų tikslas.
   citata_rodoma: ''
-  teiginio_tipas: faktas
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
